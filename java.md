@@ -200,6 +200,7 @@ Java
       * [How HashMap works in Java](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
       * [How to check if a Key Object Exists in HashMap Java? containsKey() Example Tutorial | Java67](https://www.java67.com/2019/01/how-to-check-if-key-exits-in-hashmap-in-java.html)
       * [How to Remove a Key, Value, or Entry from HashMap in Java 8 - Example Tutorial](https://javarevisited.blogspot.com/2017/08/how-to-remove-key-value-pairs-from-hashmap-java8-example.html)
+      * [Most Loved Interview Question: How HashMap Works in Java | CodersTea](https://coderstea.in/post/java/most-loved-interview-question-how-hashmap-works-in-java/)
     * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
     * [왜 mutable한 객체를 java map의 키 값으로 삼으면 조심해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-mutable%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-java-map%EC%9D%98-%ED%82%A4-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EC%82%BC%EC%9C%BC%EB%A9%B4-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
     * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
