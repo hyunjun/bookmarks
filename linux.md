@@ -648,6 +648,7 @@ Linux
   * [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * `mkdir`
   * [get the most out of mkdir](https://blog.hauck.io/get-the-most-out-of-mkdir/)
+  * [How to Create Multiple Subdirectories with One Linux Command](https://www.howtogeek.com/275069/how-to-create-multiple-subdirectories-with-one-linux-command/)
 * [monit](https://mmonit.com/) 설정이 엄청나게 쉽다지만, 간단한 건 upstart가 더 쉬웠음
   * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
 * `mv`
