@@ -1364,6 +1364,7 @@ Scala
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
   * [Data Juggling - Part 9 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 1)](https://www.youtube.com/watch?v=uQUimiHsLCw)
   * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
+* [CosPlay - 2D ASCII Game Engine for Scala](https://cosplayengine.com/)
 * [Coursier](https://get-coursier.io/docs/cli-overview)
   * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
   * [#Coursier - Crash Course - YouTube](https://www.youtube.com/watch?v=GPOVWEfYFlA)
