@@ -3583,6 +3583,7 @@ Javascript
   * [**Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog**](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
   * [Context API - React에서 데이터를 다루는 개념중 하나인 Context API를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/context-api/)
   * [contextAPI 레이어 관리 그리고 테스트](https://blog.naver.com/pjt3591oo/222604995823)
+  * [React - Context API - YouTube](https://www.youtube.com/watch?v=JQ_lksQFgNw)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
