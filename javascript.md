@@ -2767,6 +2767,7 @@ Javascript
 * [Coming to PureScript from Haskell/ Reflex/ Nix](https://www.srid.ca/2015401.html)
 * [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
 * [Modeling with Types Made Easier - YouTube](https://www.youtube.com/watch?v=_yq40SC2UI4)
+* [Monadic Parsers at the Input Boundary - YouTube](https://www.youtube.com/watch?v=6Zv-0ElF0fM)
 
 # QR code
 * [플랫폼별 QR, 바코드 스캐너 구현기](http://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%B3%84-qr-%EB%B0%94%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%90%EB%84%88-%EA%B5%AC%ED%98%84%EA%B8%B0/)
