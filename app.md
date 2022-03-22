@@ -1064,6 +1064,7 @@ App
   * [네이버 카페 검색용 알프레드 워크플로우 제작 - 코드쓰는사람](https://taegon.kim/archives/10357)
     * macOS의 생산성 도구 중 하나인 Alfred를 이용해 원하는 네이버 카페에서 바로 검색하는 커스텀 워크플로우 작성 방법 설명
     * 네이버 카페가 UTF-8이 아니라 CP949이므로 이를 변환하는 Python과 PHP 스크립트를 작성
+  * [네이버 카페 검색용 알프레드 워크플로우 v2 - 코드쓰는사람](https://taegon.kim/archives/10419)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
