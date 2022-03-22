@@ -3926,6 +3926,8 @@ Python
   * [SQLAlchemy와 cryptography로 민감한 데이터 암호화하기 – Linewalks Blog](https://blog.linewalks.com/archives/7645)
   * [The next generation SQLAlchemy with asyncio. 김준기 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=KkBqT12CeQA)
   * [파이썬 개발자를 위한 SQLAlchemy](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)
+  * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하기](https://hides.tistory.com/1101)
+  * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하며 생긴 문제점](https://hides.tistory.com/1102)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
