@@ -701,6 +701,8 @@ Business
 * [C레벨 뽑으세요? C레벨 제안 받았어요? 5가지만 기억하세요. - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/clevel20211220)
 * [**Serverless로 E-Commerce 만들기 / 블랙프라이데이 트래픽 썰 / 스타트업에서 CTO는 뭘 하는 자리인가? | by Kurt Lee | Jan, 2022 | Medium**](https://medium.com/@kurtlee/serverless%EB%A1%9C-e-commerce-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%8D%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EB%8A%94-%EB%AD%98-%ED%95%98%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%9D%B8%EA%B0%80-a6f9d9beb930)
 * [사망한 개발팀 살리기. 눈물 없이는 볼 수 없는 한편의 대 서사시 | by pet-friends | Mar, 2022 | Medium](https://pfdev.medium.com/%EC%82%AC%EB%A7%9D%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EC%82%B4%EB%A6%AC%EA%B8%B0-6f2d22a53242)
+* [1편 개발 7년차에서 매니저 3년차로(개발팀 7명에서 33명이 되기까지)](https://bkim.tistory.com/27?category=777266)
+* [2편 개발 7년차에서 매니저 3년차로(개발팀 7명에서 33명이 되기까지)](https://bkim.tistory.com/28?category=777266)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
