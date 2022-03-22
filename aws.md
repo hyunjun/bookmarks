@@ -14,6 +14,7 @@ AWS
 * [AWS 전문가 되기](https://brunch.co.kr/magazine/devops)
 * [zigispace.net/category/클라우드\_가상화/AWS](https://zigispace.net/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B0%80%EC%83%81%ED%99%94/AWS)
 * [아마존 웹 서비스(AWS, Amazon Web Serivce)란?](https://www.44bits.io/ko/keyword/amazon-web-service)
+* ['AWS' 카테고리의 글 목록 :: 코딩무식자 전공생](https://jow1025.tistory.com/category/AWS)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 * [Lessons learned from running GraphQL at scale | by Dream11 Engineering | Dream11 Engineering](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
