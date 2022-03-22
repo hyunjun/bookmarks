@@ -2327,6 +2327,7 @@ Python
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
+* [django-dynamodb-cache: Fast, safe, cost-effective DynamoDB cache backend for Django](https://github.com/xncbf/django-dynamodb-cache)
 * [django-hijack: With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials](https://github.com/django-hijack/django-hijack)
 * [Django-Kubernetes: Learn how to deploy a docker-based Django application into a Kubernetes cluster into production on DigitalOcean](https://github.com/codingforentrepreneurs/Django-Kubernetes)
   * [Deploy Django into Production with Kubernetes, Docker, & Github Actions. Complete Tutorial Series - YouTube](https://www.youtube.com/watch?v=NAOsLaB6Lfc)
