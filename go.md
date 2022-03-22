@@ -305,7 +305,6 @@ Go
 * [Is TypeScript (NodeJS) Faster than Go? | A Server Comparison](https://morioh.com/p/dfe0e48a916e)
 * [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a) e.g. ahocorasick
 * [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
-* [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
 * [Get an Authentication system up and running with Go(Golang) in less than 30secs - DEV Community](https://dev.to/hisyntax/get-an-authentication-system-up-and-running-with-gogolang-in-less-than-30secs-46po)
 * [Use Redis as caching for the Golang API](https://morioh.com/p/3056dfb29f2f)
 * [Golden Rules or Mistakes in Golang | Common Mistakes | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=3aLFnB86nMQ)
@@ -373,6 +372,8 @@ Go
   * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
   * [Generic Programming in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=d6LjYsQE-CQ)
   * [Getting Started with Generics in Golang](https://morioh.com/p/0fc0b39156bf)
+  * [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
+  * [Implement Balanced Algorithm in Golang 1.18 Generic Style | by Anirut Kamchai | Mar, 2022 | Medium](https://medium.com/@anirut.workspace/implement-balanced-algorithm-in-golang-1-18-generic-style-96e867ef9509)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
