@@ -4244,6 +4244,7 @@ Python
 
 ## Library QR
 * [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
+* [Code and Decode QR in Python - YouTube](https://www.youtube.com/watch?v=sa2Y8S-1U0I)
 * [PyKIPass: 📱사장님들을 위한 QR체크인, 전자출입명부, KIPass API 파이썬 라이브러리](https://github.com/alus20x/PyKIPass)
 * pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 
