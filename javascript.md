@@ -4220,6 +4220,7 @@ Javascript
 * [예매 현황 실시간(?) 모니터링하기 · 감자도스](https://blog.potados.com/dev/melon-ticket-watcher/)
   * [melon-ticket-watcher: 멜론티켓 취소표 watcher](https://github.com/potados99/melon-ticket-watcher)
 * [TypeScript는 어떻게 공부해야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1376/)
+* [타입스크립트의 Never 타입 완벽 가이드 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220323)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
