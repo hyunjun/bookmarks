@@ -703,6 +703,7 @@ Business
 * [사망한 개발팀 살리기. 눈물 없이는 볼 수 없는 한편의 대 서사시 | by pet-friends | Mar, 2022 | Medium](https://pfdev.medium.com/%EC%82%AC%EB%A7%9D%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EC%82%B4%EB%A6%AC%EA%B8%B0-6f2d22a53242)
 * [1편 개발 7년차에서 매니저 3년차로(개발팀 7명에서 33명이 되기까지)](https://bkim.tistory.com/27?category=777266)
 * [2편 개발 7년차에서 매니저 3년차로(개발팀 7명에서 33명이 되기까지)](https://bkim.tistory.com/28?category=777266)
+* [최초의 개발자에서, 50명 개발 조직의 CTO로! | 원티드](https://www.wanted.co.kr/events/22_03_s07_b02)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
