@@ -428,6 +428,7 @@ Web
 * [Scrape YouTube Search with Python (part 1) | by Dimitry Zub | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/scrape-youtube-search-with-python-part-1-7521a0f40315)
 * [Scrape YouTube Search with Python (part 2) | by Dimitry Zub | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/scrape-youtube-search-with-python-part-2-285699904bd5)
 * [웹크롤링 랜덤 uger-agent, 랜덤 Proxy IP 우회 class](https://sulung-sulung.tistory.com/32)
+* [Scrape Table from a Website using Python - YouTube](https://www.youtube.com/watch?v=E_EVZsSK2I8)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
