@@ -331,7 +331,6 @@ Business
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
-* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
@@ -1081,6 +1080,10 @@ Business
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 * [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
 
+# Product
+* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
+* [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
+
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
@@ -1233,6 +1236,7 @@ Business
 * [THE COMPLETE GUIDE TO BOOTSTRAPPING YOUR STARTUP From 0 to 10M Users with $0 Funding](https://www.jotform.com/10million/story/)
   * [스타트업 부트스트래핑 가이드 | GeekNews](https://news.hada.io/topic?id=5178)
 * [토스 이승건 대표 "우리는 실패율 95%짜리 조직"](https://brunch.co.kr/@1312capo/48)
+* [토스 이승건 대표 스타트업의 성장에 대한 정의](https://www.facebook.com/spacelee/posts/10158708410809822)
 * [김범석 쿠팡 창업자가 이야기하는 스타트업 조직관리법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/%EC%BF%A0%ED%8C%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC%EC%97%90-%EC%84%B1%EA%B3%B5%ED%96%88%EB%82%98) 하나에 집중, 시행착오 회피, 고객 최우선, 직원은 제2의 고객, 실용주의, 실력주의 인사
 * [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
