@@ -374,6 +374,7 @@ Go
   * [Getting Started with Generics in Golang](https://morioh.com/p/0fc0b39156bf)
   * [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
   * [Implement Balanced Algorithm in Golang 1.18 Generic Style | by Anirut Kamchai | Mar, 2022 | Medium](https://medium.com/@anirut.workspace/implement-balanced-algorithm-in-golang-1-18-generic-style-96e867ef9509)
+  * [Reduce function using Generics in Go (Golang)](https://gosamples.dev/generics-reduce/)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
