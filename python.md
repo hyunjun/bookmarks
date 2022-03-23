@@ -1689,6 +1689,7 @@ Python
 * [Learn Python, Break Python: A Beginner's Guide to Programming, by Breaking Stuff Books](https://learnpythonbreakpython.com/)
 * [Learn Python the Right way](https://learnpythontherightway.com/)
   * [올바른 방법으로 Python 배우기 무료 E북 | GeekNews](https://news.hada.io/topic?id=4256)
+  * [#book 올바른 방법으로 Python 배우기(learn python the right way, 2021) 간단 리뷰](http://ohyecloudy.com/pnotes/archives/book-learn-python-the-right-way-2021/)
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 * [실용 파이썬 프로그래밍(Practical Python Programming 번역) - WikiDocs](https://wikidocs.net/book/4673)
 * [pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes)
