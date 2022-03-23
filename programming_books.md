@@ -1704,6 +1704,7 @@ Programming Books
 * (NOT YET) [수학으로 풀어보는 칼만 필터 알고리즘: 기초 이론부터 깊게 이해하고 응용 예제로 철저하게 배우는 | 위키북스](https://wikibook.co.kr/kalman/)
 * (NOT YET) [더북(TheBook): 머신 러닝을 위한 수학 with 파이썬, R](https://thebook.io/007019/)
 * (NOT YET) [제대로 배우는 수학적 최적화: 드디어 제대로된 최적화 책이 나왔다](https://developer-kelvin.tistory.com/32)
+* (NOT YET) [이득우의 게임 수학](https://jhrogue.blogspot.com/2022/03/blog-post.html)
 
 # Network
 
