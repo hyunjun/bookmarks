@@ -1591,6 +1591,7 @@ Programming
 * [Let’s Talk about Microservices “Owning” their Data | by Guy Sela | Dev Genius](https://blog.devgenius.io/lets-talk-about-microservices-owning-their-data-169f66d64216)
 * [Icebergs, the Interface Segregation Principle and microservices](https://chrisrichardson.net/post/architecture/2022/03/16/isp-service-apis.html) loose design-time coupling
 * [느슨한 설계시점 결합이란 무슨 말인가?](https://brunch.co.kr/@graypool/359) loose design-time coupling
+* [느슨한 설계시점 결합을 안하면 무엇이 문제인가?](https://brunch.co.kr/@graypool/360)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
