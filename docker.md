@@ -920,6 +920,7 @@ Docker
 * [awesome-kubernetes-security: A curated list of awesome Kubernetes security resources](https://github.com/ksoclabs/awesome-kubernetes-security)
 * [The race to secure Kubernetes at run time | InfoWorld](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html)
 * [SQL Injection으로부터 Kubernetes 앱 보호 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/microservices-march-protect-kubernetes-apps-from-sql-injection/)
+* [Securing Access to Kubernetes Environments with Zero Trust – The New Stack](https://thenewstack.io/securing-access-to-kubernetes-environments-with-zero-trust/)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * 권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기
@@ -936,6 +937,7 @@ Docker
 * [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
 * [Ingress Controllers: The Swiss Army Knife of Kubernetes – The New Stack](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
 * [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
+* [Kubernetes Ingress: A Beginners' Guide | ARMO](https://www.armosec.io/blog/kubernetes-ingress-beginners-guide/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
