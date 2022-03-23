@@ -695,6 +695,7 @@ AWS
 * [Amazon’s DynamoDB — 10 years later - Amazon Science](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 * [AWS DynamoDB Stream으로 Elasticsearch에 안전하게 데이터 싱크하기 | blog.hoseung.me](https://blog.hoseung.me/2022-02-19-dynamodb-stream-elasticsearch/)
 * [DynamoDB를 사용하는 Go 서비스의 응답 시간 최적화 #1 AWS Credential Token](https://tech.buzzvil.com/blog/dynamo-go-latency-optimization-1-aws-credential-token/)
+* [DynamoDB, Python 기초 - 이상선 - Medium](https://medium.com/@sunyi233/dynamodb-python-%EA%B8%B0%EC%B4%88-54ea399c139b)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
