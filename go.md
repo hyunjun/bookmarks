@@ -876,6 +876,7 @@ Go
 * [2022 - APRENDE A PROGRAMAR CON GO DESDE 0 - YouTube](https://www.youtube.com/playlist?list=PL5RTI3w_BqqAdl0u-u69iF2iSxOaJIcrb)
 * [Golang Basics Tutorial | Go Programming Language | Golang Tutorial for Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=Cn5vrUDYtyc)
 * [Basic setup of #GO-Lang - YouTube](https://www.youtube.com/watch?v=na7F2yFLCKM)
+* [Learn Go Programming by Building 11 Projects – Full Course - YouTube](https://www.youtube.com/watch?v=jFfo23yIWac)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
