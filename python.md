@@ -3796,7 +3796,6 @@ Python
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
   * [Xarray - more than Pandas in multiple dimensions - Ondřej Grover PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=ww4EYv20Ucw)
 * [xincapio - Get IP address, MAC address and Disk Serial Number](https://github.com/jbaltop/xincapio)
-* [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
@@ -4267,7 +4266,8 @@ Python
 * [picotui - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project. https://github.com/pfalcon/pycopy ](https://github.com/pfalcon/picotui)
 * [PyInquirer - A Python module for common interactive command line user interfaces](https://github.com/CITGuru/PyInquirer)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
-* [The Xonsh Shell](https://xon.sh/)
+* [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
+  * [Xonsh Shell Combines the Best of Bash Shell and Python in Linux Terminal - It's FOSS](https://itsfoss.com/xonsh-shell)
 
 # Microservice
 * [**Scaling Python Microservices with Kubernetes**](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)
