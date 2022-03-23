@@ -1328,4 +1328,5 @@ Business
 * [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
 * [오래된 프로덕트 디자인 리뉴얼하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/demaecan-product-design-renewal/)
 * [2021년 디자이너의 베스트 툴킷](https://brunch.co.kr/@rightbrain/117)
+* [해외판 퀵커머스 3대 주자를 비교해봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/quickcommerce20220323)
 * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
