@@ -1278,6 +1278,7 @@ AWS
 * [AWS SageMaker - Data Science on Cloud - YouTube](https://www.youtube.com/watch?v=TIxCpGFC-dc)
 * [AWS re:Invent 2021 - 삼성전자 'Mobile R&D Hub 3.0', AWS 기반 자연어 처리를 통한 대규모 버그/이슈 추적 서비스 - YouTube](https://www.youtube.com/watch?v=EbPndLdQ_Rg)
 * [Thomson Reuters, Amazon SageMaker기반 자연어 처리 솔루션 개발 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/)
+* [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
