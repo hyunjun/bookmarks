@@ -3344,6 +3344,7 @@ Javascript
 * [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
 * [기술 블로그 위한 contentEditable WYSIWYG 에디터 제작기](https://blog.dalgu.app/dev/2)
 * [ReactJS Bad Practices and how to avoid them | Tekolio](https://tekolio.com/reactjs-bad-practices-and-how-to-avoid-them/)
+* [(번역) 명확한 리액트 파일/디렉터리 구조. 원문… | by Jung Han | Mar, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%AA%85%ED%99%95%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-a5f03a174b9e)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
