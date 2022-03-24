@@ -1021,6 +1021,7 @@ Docker
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 * [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 * [Kubernetes 네트워킹 101 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/kubernetes-networking-101/)
+* [Kubernetes Network Plugins - kubedex.com](https://kubedex.com/kubernetes-network-plugins/)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
