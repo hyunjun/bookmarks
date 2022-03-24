@@ -1593,6 +1593,8 @@ Programming
 * [Icebergs, the Interface Segregation Principle and microservices](https://chrisrichardson.net/post/architecture/2022/03/16/isp-service-apis.html) loose design-time coupling
 * [느슨한 설계시점 결합이란 무슨 말인가?](https://brunch.co.kr/@graypool/359) loose design-time coupling
 * [느슨한 설계시점 결합을 안하면 무엇이 문제인가?](https://brunch.co.kr/@graypool/360)
+* [느슨한 설계시점 결합은 어떻게 구현하나?](https://brunch.co.kr/@graypool/366)
+* [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
