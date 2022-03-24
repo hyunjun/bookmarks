@@ -665,6 +665,7 @@ Vision
 * [Multithreading with OpenCV-Python to improve video processing performance • Najam R. Syed](https://nrsyed.com/2018/07/05/multithreading-with-opencv-python-to-improve-video-processing-performance/)
 * [파이썬 코딩 강의를 제작하였습니다 (이미지 처리, OpenCV) : 클리앙](https://www.clien.net/service/board/lecture/16885208)
 * [동영상입력 행동분류 모델 튜토리얼 소개](https://tykimos.github.io/2019/11/30/Video_Input_Multiclass_Recogintion_Model/)
+* [OpenCV Tutorial: YOLO Object Detection using OpenCV and Python Code](https://omdena.com/blog/opencv-pedestrian-detector)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
