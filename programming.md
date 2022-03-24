@@ -4062,6 +4062,8 @@ Programming
 * [How To Build Quality Software Fast - YouTube](https://www.youtube.com/watch?v=ZmgbjaRfp_Q)
 * [Ten-year experience in DBMS testing - DEV Community](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea) Tarantool에서 일하면서 기록한 테스트에 대한 이야기. 테스트에 대해 종합적으로 접근하는 방법 참고
 * [The 3 Types of Unit Test in TDD - YouTube](https://www.youtube.com/watch?v=W40mpZP9xQQ)
+* [TDD에 대한 몇 가지 질문](https://brunch.co.kr/@cleancode/44)
+  * [(1) Kent Beck 🌻 on Twitter: "@sarah_edo Baby steps. Really, really quick baby steps. But baby steps first." / Twitter](https://twitter.com/kentbeck/status/1260938674440515585?lang=en)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
