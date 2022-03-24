@@ -612,6 +612,7 @@ Algorithm
 * [Compute The Next Permutation of A Numeric Sequence - Case Analysis ("Next Permutation" on Leetcode)](https://www.youtube.com/watch?v=quAS1iydq7U)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 * [모든 Permutation 출력하기](https://www.jiwon.me/permutations/)
+* [How to Check if Strings are Permutation of each other | C++ Program | Tagalog - YouTube](https://www.youtube.com/watch?v=HvzhSORE_nQ)
 
 # Probablistic Filter
 * [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
