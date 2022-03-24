@@ -3929,6 +3929,7 @@ Python
   * [파이썬 개발자를 위한 SQLAlchemy](https://soogoonsoogoonpythonists.github.io/sqlalchemy-for-pythonist/)
   * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하기](https://hides.tistory.com/1101)
   * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하며 생긴 문제점](https://hides.tistory.com/1102)
+  * [FastAPI에서 SQLAlchemy Session 다루는 방법 | by YoungSik Choo | 원티드 제품 팀블로그 | Mar, 2022 | Medium](https://medium.com/wantedjobs/fastapi%EC%97%90%EC%84%9C-sqlalchemy-session-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95-118150b87efa)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
