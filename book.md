@@ -538,6 +538,7 @@ Book
   * [무라카미 T - Jun - Medium](https://nymets.medium.com/%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8-t-43fc00d4c433)
 
 # Note, Memo
+* [Write … One Note at at Time](https://takesmartnotes.com/)
 * (NOT YET) [제텔카스텐 - 글 쓰는 인간을 위한 두 번째 뇌](https://danny610.tistory.com/289)
   * 한라 802-아294ㅈ 탐라 L문802-아233ㅈ
   * [제 2의 뇌 만들기 프로젝트 매거진](https://brunch.co.kr/magazine/basb)
