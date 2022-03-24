@@ -422,6 +422,8 @@ Business
 * [1 ON 1 의 정의](https://www.linkedin.com/feed/update/urn:li:activity:6863276228426764288/)
 * [1 on 1 목적](https://gist.github.com/hyunjun/cbf46d51740603c7eec03a2a973162c5#file-1_on_1-md)
 * [The unreasonable effectiveness of one-on-ones | benkuhn.net](https://www.benkuhn.net/11/)
+* [면접, 1:1, 설문.. 좋은 경영은 좋은 질문에서 시작됩니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodquestion20220324) 구체적인 질문의 중요성
+  * [면접, 1:1, 설문.. 좋은 경영은 좋은 질문에서 시작됩니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1W98C_yGllCjXTh6rW0zWiR_phwk3PRxe/view?usp=sharing)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -1329,4 +1331,5 @@ Business
 * [오래된 프로덕트 디자인 리뉴얼하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/demaecan-product-design-renewal/)
 * [2021년 디자이너의 베스트 툴킷](https://brunch.co.kr/@rightbrain/117)
 * [해외판 퀵커머스 3대 주자를 비교해봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/quickcommerce20220323)
+* [논리적 디자인을 위한 상세 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/928/)
 * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
