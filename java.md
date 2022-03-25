@@ -410,6 +410,7 @@ Java
   * [리액터 네티(Reactor Netty)로 간단한 TCP 서버 만들기](http://javacan.tistory.com/entry/reactor-netty-simple-tcp-server)
   * [우리도 채팅있으면 좋을 것 같아요. - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
   * [go net vs gnet vs reactor netty 소켓 서버 성능 비교 - YouTube](https://www.youtube.com/watch?v=xqqjCTt_l3E)
+  * [AI펭톡 TCP Gateway 서버 개발기 with Netty | NHN FORWARD](https://forward.nhn.com/2021/sessions/14)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
@@ -1066,6 +1067,7 @@ Java
 * [Top 10 Libraries every Java Developer should know | by Md Kamaruzzaman | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/top-10-libraries-every-java-developer-should-know-37dd136dff54) Apache Commons, Google Guava, Jackson, JAXB, SLF4J, Log4j 2, Mockito, AssertJ, Hibernate, Apache HTTPComponents
 * [3 new Java tools to try in 2021 | Opensource.com](https://opensource.com/article/21/3/enterprise-java-tools) Quarkus, Eclipse JKube, MicroProfile
 * [Top 3 Groovy Frameworks and Tools Java Developers Should Learn | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/top-3-groovy-frameworks-and-tools-java-developers-should-learn-736da9731e16)
+* [Java에서 MySQL 비동기 쿼리 사용하기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/11) MySQL X DevAPI, jasync-SQL 
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
@@ -1556,6 +1558,7 @@ Java
 * [spring security filter exception 을 custom 하게 처리해 봅시다](https://codingdog.tistory.com/619)
 * [Spring Security (1) - 구조와 동작 방식](https://velog.io/@couchcoding/Spring-Security%EC%99%80-Spring-Security-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [SSO를 Spring Security OAuth에서 Keycloak으로 전환하기(서론) | by 박도하 | Feb, 2022 | Medium](https://medium.com/@doha.park/sso%EB%A5%BC-spring-security-oauth%EC%97%90%EC%84%9C-keycloak%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%84%9C%EB%A1%A0-8b3670f46f1a)
+* [Spring Security 5 OAuth 총정리: 클라부터 서버까지 | NHN FORWARD](https://forward.nhn.com/2021/sessions/4)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
