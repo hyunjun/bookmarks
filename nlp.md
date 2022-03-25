@@ -1759,6 +1759,8 @@ NLP
 * [제주어 기계번역 모델과 음성합성 모델에 관한 연구를 소개합니다](https://kakaobrain.com/blog/119)
 * [Google Document Translation Now Generally Available](https://www.infoq.com/news/2021/11/google-document-translation/)
 * [cjk_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
+* fairseq [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
+  * [오픈소스로 쉽게 만드는 기계번역기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/20)
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate](https://github.com/uav4geo/LibreTranslate)
 * [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
@@ -1832,6 +1834,7 @@ NLP
 * [**How to Make a Speech Emotion Recognizer Using Python And Scikit-learn**](https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn) Librosa, Numpy, Soundfile, Scikit-learn, PyAudio
 * [음성인식 코드 짜는 최단 경로 (With Naver Cloud Platform): 순식간에 STT 완성하기](https://dev-sngwn.github.io/2020-01-13-stt-step-by-step/)
 * [텍스트를 음성 mp3로 간단하게 변환하기 (With Naver Cloud Platform)](https://dev-sngwn.github.io/2020-02-16-tts-step-by-step/)
+* [Non-Autoregressive 구조의 한국어 TTS 개발기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/18)
 * [**연구자로 성장하기 Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기) - Subinium의 코딩일지**](https://subinium.github.io/kep-vcc2020-review/)
 * [꿀벌개발일지 :: 클럽하우스와 음성 데이터](https://ohgyun.com/797)
 * [Transcribe Audio and Use Speech Recognition in Python - YouTube](https://www.youtube.com/watch?v=L0N2Ve9vhPk)
@@ -1959,6 +1962,7 @@ NLP
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
 * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
 * [PR-027:GloVe - Global vectors for word representation](https://www.youtube.com/watch?v=uZ2GtEe-50E)
+* [텍스트 데이터를 숫자로 변환하기: 자연어 처리의 실무 활용 방법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/7) GloVe, 마케팅 전략 수립에 활용
 * [카카오 미니의 명령어 분류 방법](https://brunch.co.kr/@kakao-it/243)
 * [Lecture 2 | Word Vector Representations: word2vec](https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [번역에서 배우기 : 문맥화된 단어 벡터(contextualized word vector)](https://www.facebook.com/nextobe1/posts/375503076219027)
