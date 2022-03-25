@@ -155,6 +155,7 @@ Monitoring
 * [Monitoring HBase with Prometheus](https://blog.godatadriven.com/hbase-prometheus-monitoring)
   * 오픈 소스 모니터링 시스템인 Prometheus에 HBase 메트릭을 연결하는 방법
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
+  * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
 * [Prometheus를 통한 서버 모니터링](https://medium.com/myrealtrip-product/prometheus%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-deab448b769d)
 * [쿠버네티스 모니터링 : 프로메테우스(kubernetes monitoring : phrometheus)](https://arisu1000.tistory.com/27857)
 * [오픈소스 모니터링 툴 - Prometheus #1 기본 개념과 구조](https://bcho.tistory.com/1372)
