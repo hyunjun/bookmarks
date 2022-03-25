@@ -225,6 +225,7 @@ Network
 * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
 * [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
+* [웹 서버 인증서 읽어드립니다. | NHN FORWARD](https://forward.nhn.com/2021/sessions/5)
 * [**HOW HTTPS WORKS**](https://howhttps.works/)
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
