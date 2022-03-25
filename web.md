@@ -920,6 +920,7 @@ Web
   * [FastAPI, CRUD API 개발을 위한 기록](https://breezymind.com/fastapi-crud-api/)
   * [Developing FastAPI Application using K8s & AWS - PyCharm Guide](https://www.jetbrains.com/pycharm/guide/tutorials/fastapi-aws-kubernetes/)
   * [Introduction to FastAPI and Local DynamoDB | by Agus Richard | Nerd For Tech | Jan, 2022 | Medium](https://medium.com/nerd-for-tech/introduction-to-fastapi-and-local-dynamodb-595c990ed0f8)
+  * [FastAPI의 시대. 아직도 Flask 쓰시나요?](https://velog.io/@city7310/use-fastapi-instead-flask)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
