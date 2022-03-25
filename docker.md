@@ -1261,6 +1261,7 @@ Docker
 * [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
 * ['현재공부/컨테이너 네트워크' 카테고리의 글 목록](https://malwareanalysis.tistory.com/category/%ED%98%84%EC%9E%AC%EA%B3%B5%EB%B6%80/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 * [시리즈 | KANS 스터디 - hyungwook.log](https://velog.io/@hyungwook/series/KANS-%EC%8A%A4%ED%84%B0%EB%94%94)
+* [프로덕션 등급 Kubernetes로 복잡성 감소 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/reduce-complexity-with-production-grade-kubernetes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
