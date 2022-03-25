@@ -159,6 +159,7 @@ Azure
 * [Azure Network Manager - Part 1](https://theplmingspace.tistory.com/1177)
 * [Azure Network Manager - Part 2](https://zigispace.net/1179)
 * [Azure Network Manager - Part 3](https://theplmingspace.tistory.com/1180)
+* [Azure Network Manager - Part 4](https://zigispace.net/1181)
 * [프리지아 랩 :: Azure에서 사용자 지정 역할 정의 만들 때 만난 오류 해결하기](https://www.dokyun.pe.kr/275)
 
 # Conference Meetup Seminar
