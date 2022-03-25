@@ -1303,6 +1303,7 @@ Programming
   * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
   * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
   * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
+* [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
@@ -1864,6 +1865,7 @@ Programming
 * [클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?](https://www.boannews.com/media/view.asp?idx=104920)
 * [Cloud Provider Performance Comparison - Perl & more | Dimitrios Kechagias blogs.perl.org](https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html)
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
+* [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2663,6 +2665,7 @@ Programming
 * [Containerization In DevOps Explained | Review N Prep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
 * [14 Best DevOps Courses to Learn Online in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c)
 * ['eBPF부터 오픈소스까지' 2022년 '관찰가능성' 주요 트렌드 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/223914) observability
+* [The Future of Observability - YouTube](https://www.youtube.com/watch?v=lhdrEsCvFTQ)
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
 * [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
 * [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
