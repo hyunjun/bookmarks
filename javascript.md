@@ -1518,6 +1518,8 @@ Javascript
 * [chroniton - A time slider input for time-based visualizations and data](https://github.com/tmcw/chroniton)
 * [clipboard.js - Modern copy to clipboard. No Flash. Just 2kb](https://github.com/zenorocha/clipboard.js)
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
+* [Cloudflare Pages](https://pages.cloudflare.com/)
+  * [CloudFlare Pages로 Next.js 서비스 배포하기](https://jojoldu.tistory.com/657)
 * [clubhouse-profile: 🌸 Share your profile in 👋 Clubhouse, on the 🌐 Web! / 클럽하우스 프로필을 웹으로 배포할 수 있도록 하는 프로젝트](https://github.com/junhoyeo/clubhouse-profile)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
