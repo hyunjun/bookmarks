@@ -127,6 +127,7 @@ Javascript
   * [#2 3 Changing Color](https://www.youtube.com/watch?v=cq-l2zPUVoU)
 * [**222 Favorite JavaScript single line of code**](https://1loc.dev/) javascript idiom 모음집
 * 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개 [33 Concepts of JavaScript](https://www.youtube.com/playlist?list=PL7jH19IHhOLMmmjrwCi7-dMFVdoU0hhgF)
+* [결국 자바스크립트를 알아보기로 했다.](https://rlqof7ogm.toastcdn.net/references/2021_session_17.pdf) execution context, call stack, scope, closure, asynchronous, prototype
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
@@ -3833,6 +3834,7 @@ Javascript
     * 스토리북 6.4부터 추가된 Interactive Stories 기능을 이용해서 기존 기능의 동작 여부 테스트뿐 아니라 인터렉션을 자동으로 생성하는 방법 설명
     * interaction 애드온을 이용해서 인터랙션이 자동으로 발생하는 코드를 작성하고 이를 단계별로 실행 가능
     * 인터랙션이 자동으로 실행되게 만들었으니 Cypress나 Playwrigt같은 E2E 테스트 도구를 이용해서 해당 인터렉션의 테스트를 자동화도 가능
+  * [Storybook으로 10분 만에 안내 메일 만들고 퇴근하는 법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/10)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [use-color: The powerful color hook that all designers deserve. ✨ Parse and stringify that just works & 🦾 Strict type checking at compile time](https://github.com/junhoyeo/use-color)
