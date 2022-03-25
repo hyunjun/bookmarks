@@ -539,9 +539,12 @@ Book
 
 # Note, Memo
 * [Write … One Note at at Time](https://takesmartnotes.com/)
-* (NOT YET) [제텔카스텐 - 글 쓰는 인간을 위한 두 번째 뇌](https://danny610.tistory.com/289)
+* [제텔카스텐 - 글 쓰는 인간을 위한 두 번째 뇌](https://danny610.tistory.com/289)
   * 한라 802-아294ㅈ 탐라 L문802-아233ㅈ
+  * ★★★☆☆ 2022.03.24
   * [제 2의 뇌 만들기 프로젝트 매거진](https://brunch.co.kr/magazine/basb)
+  * [글 쓰는 인간을 위한 두 번째 뇌 제텔카스텐. 작업 환경이 자신의 작업 리듬을 모두 수용할 수 있을 만큼 유연하다면… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EA%B8%80-%EC%93%B0%EB%8A%94-%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%91%90-%EB%B2%88%EC%A7%B8-%EB%87%8C-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90-986d993092bd)
+  * [글 쓰는 인간을 위한 두 번째 뇌 제텔카스텐 -](https://jh4hj.tistory.com/entry/%EA%B8%80-%EC%93%B0%EB%8A%94-%EC%9D%B8%EA%B0%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%91%90-%EB%B2%88%EC%A7%B8-%EB%87%8C-%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90)
 * [하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기](https://post.naver.com/viewer/postView.naver?volumeNo=33147702)
   * ★★★☆☆ 2022.03.21 아직은 잘 모르겠음. 읽기는 좋고 확실히 쓸모도 있어 보이는데 아직 어떻게 해야 유용할지는 바로 와닿지는 않음
   * [하우 투 제텔카스텐 - YouTube](https://www.youtube.com/watch?v=iTJZuw8Wu8k)
