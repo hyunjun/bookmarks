@@ -1557,6 +1557,7 @@ Docker
 * [뱀이 지켜보고 있어요: Python으로 Kubernetes 모니터링 하기. 이상유 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=MYtipLD47cM)
 * [30+ Free and Open Source Kubernetes Monitoring Tools](https://www.fossmint.com/kubernetes-monitoring-tools/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
+* [쿠버네티스의 HPA/VPA 오토스케일링을 위한 모니터링 아키텍처](https://bcho.tistory.com/1389)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
