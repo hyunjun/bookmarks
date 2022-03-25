@@ -124,6 +124,7 @@ Redis
 * [(웹툰) Redis 캐시](https://iamsang.com/blog/2021/10/24/redis-cache/)
 * [Redis Anti-Patterns Every Developer Should Avoid | Redis Developer Hub](https://developer.redis.com/howtos/antipatterns/)
 * [우아한테크세미나 191121 우아한레디스 by 강대명님 - YouTube](https://www.youtube.com/watch?v=mPB2CZiAkKM)
+* [Redis 야무지게 사용하기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/16)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
