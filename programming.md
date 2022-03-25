@@ -2832,6 +2832,7 @@ Programming
     * Airbnb has open sourced Dynein, their job queuing system that they use for offloading tasks from the main request path and performing other asynchronous operations. It uses DynamoDB as a scheduler for future jobs and SQS for queuing—the post describes how this is built in a highly scalable way.
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
+* messaging-hub [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
 * [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
