@@ -3767,6 +3767,7 @@ Javascript
   * [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
   * [React-Query 사용법 및 쓰는 이유](https://kdinner.tistory.com/113)
   * [React Query와 상태관리 :: 2월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=MArE6Hy371c)
+  * [React Query와 함께하는 API 에러 처리 설계하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1391/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
