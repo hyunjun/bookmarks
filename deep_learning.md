@@ -534,7 +534,6 @@ Deep Learning
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [seq2seq icml tutorial](https://sites.google.com/view/seq2seq-icml17/)
 * [Sequence to sequence tutorial](https://towardsdatascience.com/sequence-to-sequence-tutorial-4fde3ee798d8)
-* [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
 * [Google net](https://www.slideshare.net/BrianKim244/google-net)
 * ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
 * [BUILDING A SOUND CLASSIFIER FROM SCRATCH USING NEURAL NETWORKS](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
@@ -749,6 +748,7 @@ Deep Learning
 * [쉽게 읽는 강화학습 논문 알파고 제로(Zero) 논문 리뷰](https://www.youtube.com/watch?v=CgOGKChwWrw)
 * [플밍노트 너와 나의 인공지능이 멍청한 이유 - YoungJin Shin](http://www.jiniya.net/ng/2020/07/deep-learning-101/) 일반적인 이야기이지만 바둑을 통해 전개
 * [2021-KAIST-Include-AlphaGoZero: 2021년 KAIST 동아리 Include 스터디 - AlphaGo와 AlphaGo Zero를 활용한 인공지능 바둑](https://github.com/utilForever/2021-KAIST-Include-AlphaGoZero)
+* [한돌 개발 이야기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/12)
 * [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
   * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
 * [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
