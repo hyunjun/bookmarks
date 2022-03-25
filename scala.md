@@ -339,6 +339,7 @@ Scala
   * [DevInsideYou/progress](https://github.com/DevInsideYou/progress)
 * [Sick Fira Code Progress Bars for Absolute Beginners! - Part 2 - YouTube](https://www.youtube.com/watch?v=PKW5dJLpiWg)
 * [The Debug Adapter Protocol and Scala](https://www.chris-kipp.io/blog/the-debug-adapter-protocol-and-scala)
+* [Indoor Vivants:: Twotm8 (p.1): Introduction](https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1013,6 +1014,8 @@ Scala
       * [Ep 13: Another angle on monad transformers with Zio Prelude - YouTube](https://www.youtube.com/watch?v=tEnZZlOn-jI)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO Schema [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
+    * [zio-sql: Type-safe, composable SQL for ZIO applications](https://github.com/zio/zio-sql)
+      * [ZIO SQL - type-safe SQL for ZIO applications](https://scalac.io/blog/zio-sql-type-safe-sql-for-zio-applications/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
@@ -1232,6 +1235,7 @@ Scala
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
+* [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -1402,6 +1406,7 @@ Scala
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
   * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
+  * [Using TestControl to Test FS2 Streams | by Farooq Qaiser | Mar, 2022 | Medium](https://medium.com/@fqaiser94/using-testcontrol-to-test-fs2-streams-92cec1fac217)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
