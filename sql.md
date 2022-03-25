@@ -532,6 +532,7 @@ SQL
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
 * [ORACLE to Mysql DBMS로의 전환 프로세스](https://stricky.tistory.com/319)
+* [천방지축 RDBMS 때려잡기: Oracle to MySQL 변환기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/15)
 * [Change Data Captures CDC from MySQL Database to Kafka with Kafka Connect and Debezium - DZone Integration](https://dzone.com/articles/change-data-captures-cdc-from-mysql-database-to-ka)
 * [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 StreamSets을 이용
