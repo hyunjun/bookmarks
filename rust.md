@@ -149,6 +149,7 @@
 * [My VSCode setup: Rust-analyzer for local+remote work - YouTube](https://www.youtube.com/watch?v=PtvSBsPbfB8)
 * [Rust wgpu Graphics Programming Tutorial - YouTube](https://www.youtube.com/playlist?list=PL_UrKDEhALdJS0VrLPn7dqC5A4W1vCAUT)
 * [Microsoft Exploring Rust as the Solution for Safe Software](https://www.infoq.com/news/2019/11/microsoft-exploring-rust-safety/)
+* [8LU - Write your game in Rust! by Eric Smith - YouTube](https://www.youtube.com/watch?v=0UoD7uyV1D8)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
