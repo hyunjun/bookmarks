@@ -1647,6 +1647,7 @@ Java
 * [Spring Batch에서 socket was closed by server 발생시](https://jojoldu.tistory.com/526)
 * [Spring Batch 파티셔닝 (Partitioning) 활용하기](https://jojoldu.tistory.com/550)
 * [Spring Batch CSV Reader & Writer | Popit](https://www.popit.kr/spring-batch-csv-reader-writer/)
+* [Spring Batch Architecture - YouTube](https://www.youtube.com/watch?v=6DrwirLIoiU)
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
