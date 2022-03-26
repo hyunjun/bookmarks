@@ -195,6 +195,7 @@ Bitcoin
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
 * [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
+* [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
