@@ -4040,6 +4040,7 @@ Javascript
   * [테스트 코드에서 내부 구현 검증 피하기](https://jojoldu.tistory.com/614)
   * [조건부 (if~else) 로직 테스트코드에서 사용하지 않기](https://jojoldu.tistory.com/642)
   * [테스트코드에서 Optional chaining(?.) 쓰지않기](https://jojoldu.tistory.com/643)
+  * [MSW를 활용한 Clean UI Integration Test | goohooh.github.io](https://goohooh.github.io/Testing/clean_ui_test_code/)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
