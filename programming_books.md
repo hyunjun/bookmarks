@@ -1736,6 +1736,7 @@ Programming Books
 * (NOT YET) [구글 BERT의 정석](https://hanbit.co.kr/store/books/look.php?p_code=B2201215526)
 * (NOT YET) [BERT와 GPT로 배우는 인공지능 자연어처리](http://www.aitimes.kr/news/articleView.html?idxno=23390)
   * [**트랜스포머 관련 책 독서 후기**](https://www.facebook.com/Thomas.CS.Park/posts/10222184767793514)
+  * [Tutorial Links - ratsgo's NLPBOOK](https://ratsgo.github.io/nlpbook/docs/tutorial_links)
 * (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
 
 # NoSQL
