@@ -162,6 +162,7 @@ Azure
 * [Azure Network Manager - Part 4](https://zigispace.net/1181)
 * [Azure Network Manager - Part 5](https://zigispace.net/1182)
 * [프리지아 랩 :: Azure에서 사용자 지정 역할 정의 만들 때 만난 오류 해결하기](https://www.dokyun.pe.kr/275)
+* [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed - YouTube](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
