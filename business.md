@@ -629,6 +629,8 @@ Business
 * [성장하는 사람의 큰 특징: 설득의 자세 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213121)
 * [설득은 타고난 것? 충분히 배울 수 있어요! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32773558)
 * [전략 상대를 설득하는 4가지 방법](http://moneyman.kr/archives/13430)
+* [Hello Guru '변화경영의 대가' 설득에 심취한 이유는?](https://news.v.daum.net/v/20110114153928553)
+  * [buy in, 동의와 지지 얻어내기](https://gist.github.com/hyunjun/393e0e8e8f20af27a27b898c82b3951c#file-buy_in-md)
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
@@ -977,6 +979,8 @@ Business
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
 * [혼돈의 시대 리더의 탄생 : 역경을 극복한 사람만이 리더가 된다](https://drive.google.com/file/d/1L4pKXZnvwmgUjO7ZfncdQ_kD1hHHxKXS/view?usp=sharing)
 * [내가 틀렸네요](https://jojoldu.tistory.com/658) 꼭 leadership에만 해당하는 내용이 아니라 전반적인 태도
+* [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
+  * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
