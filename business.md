@@ -976,6 +976,7 @@ Business
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
 * [혼돈의 시대 리더의 탄생 : 역경을 극복한 사람만이 리더가 된다](https://drive.google.com/file/d/1L4pKXZnvwmgUjO7ZfncdQ_kD1hHHxKXS/view?usp=sharing)
+* [내가 틀렸네요](https://jojoldu.tistory.com/658) 꼭 leadership에만 해당하는 내용이 아니라 전반적인 태도
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
