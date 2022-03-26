@@ -191,6 +191,7 @@ Sports
 * [Regression Analysis to Determine Player Dependency | Boston Celtics - YouTube](https://www.youtube.com/watch?v=0bmVrw87shI)
 * [Who is the most dependable player of Chicago Bulls | NBA 2021 | Regression Analysis - YouTube](https://www.youtube.com/watch?v=bozEvCTBnaM)
 * [Who is the most dependable player of Golden State Warriors | NBA 2021 | Regression Analysis - YouTube](https://www.youtube.com/watch?v=AtyhfZEjPlY)
+* [매거진 농구인보다 전문가! 한국도 전문가 시대 열릴까](https://sports.v.daum.net/v/20220326151951147) 출신보다 능력, 특히 비디오 분석은 종목 불문 기본적인 부분, 관계 형성 역시 매우 중요
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
