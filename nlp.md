@@ -1804,6 +1804,7 @@ NLP
 * [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training)
 * [1/13~13/13 모음 국민청원으로 파이썬 자연어처리 입문하기 - YouTube](https://www.youtube.com/watch?v=ECr23w_B3_w)
 * [NLP Tutorial Playlist Python - YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
+* [NLP Introduction With PySpark || Himanshu Tripathi - YouTube](https://www.youtube.com/watch?v=GZS_zqBe6f0)
 * [large-scale-lm-tutorials: Large-scale language modeling tutorials with PyTorch](https://github.com/tunib-ai/large-scale-lm-tutorials)
 * [nlp_tutorials: huggingface를 이용하여 downstream task 수행하기](https://github.com/seopbo/nlp_tutorials)
 
