@@ -335,6 +335,7 @@ Open Source
 * NMDB [The Netflix Media Database](https://medium.com/netflix-techblog/the-netflix-media-database-nmdb-9bf8e6d0944d)
   * [Implementing the Netflix Media Database](https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a)
 * [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
+  * [Continuous Delivery with Spinnaker](https://spinnaker.io/docs/concepts/ebook/ContinuousDeliveryWithSpinnaker.pdf)
   * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
   * 배포 자동화 솔루션 Spinnaker
     * [#1 소개](http://bcho.tistory.com/1234)
