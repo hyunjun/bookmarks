@@ -187,6 +187,7 @@
 * [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
 * ["러스트"와 "고"를 선택하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/186713)
 * [십년지기 언어, 러스트와 고(Go) | 요즘IT](https://yozm.wishket.com/magazine/detail/1040/)
+* [Golang Vs Rust 2022 | Rust Vs Go For Web Development | Web Development Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=yzU5AoiflI8) 기초적인 언어 비교
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
