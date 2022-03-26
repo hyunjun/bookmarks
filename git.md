@@ -314,6 +314,7 @@ Git
 * [How we ship GitHub Mobile every week | The GitHub Blog](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps | The GitHub Blog](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Part – IX: Push to ACR using GitHub Actions (Continuous Deployment) – Hello World!](https://learnai1.home.blog/2022/02/28/part-ix-push-to-acr-using-github-actions/)
+* [Github Action 빌드 결과 Telegram Bot으로 보내기](https://jojoldu.tistory.com/659)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
   * [GitHub Actions by Example | GeekNews](https://news.hada.io/topic?id=5829)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
