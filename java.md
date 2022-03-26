@@ -1710,6 +1710,7 @@ Java
 * [Querydsl (JPA) 에서 Cross Join 발생할 경우](https://jojoldu.tistory.com/533)
 * [우아콘2020 수십억건에서 QUERYDSL 사용하기 - YouTube](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
 * [QueryDSL을 효과적으로 실무에 적용하기 위한 고민 - Dico](https://dico.me/java/articles/290/ko)
+* [Spring QueryDSL로 조건검색 API를 만들어보자(동적 쿼리)](https://velog.io/@couchcoding/Spring-QueryDSL%EB%A1%9C-%EC%A1%B0%EA%B1%B4-%EA%B2%80%EC%83%89-API%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90%EB%8F%99%EC%A0%81-%EC%BF%BC%EB%A6%AC)
 * [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
 * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
 * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
