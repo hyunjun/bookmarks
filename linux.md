@@ -448,6 +448,7 @@ Linux
   * [AWK script 가이드](https://mug896.github.io/awk-script)
   * `$0` means whole line
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
+  * [awk example image](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4112129#gistcomment-4112129)
   * [Merging Frequencies in a File](http://www.unix.com/shell-programming-and-scripting/156614-merging-frequencies-file.html)
   * [AWK greater than?](http://www.unix.com/shell-programming-and-scripting/56223-awk-greater-than.html)
   * [Print only the Nth line before each line that matches a pattern](https://unix.stackexchange.com/questions/283471/print-only-the-nth-line-before-each-line-that-matches-a-pattern)
@@ -459,7 +460,7 @@ Linux
   * [awk: BEGIN { ... | Jemma Issroff](https://jemma.dev/blog/awk-part-1)
   * [An Introduction to AWK – The New Stack](https://thenewstack.io/an-introduction-to-awk/)
   * [Understanding AWK - Earthly Blog](https://earthly.dev/blog/awk-examples/)
-    *  awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
+    * awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
   * [AWK Command Examples for Beginners / AWK Linux Tutorial](https://bytexd.com/awk-command-examples-tutorial/)
   * [aho: A git implementation in awk](https://github.com/djanderson/aho)
 * `basename` get file name from path
@@ -584,6 +585,7 @@ Linux
   * `find <dir> -not -newermt 2010-01-01` [Shell script to find files older than 1st Jan 2010](http://stackoverflow.com/questions/4378450/shell-script-to-find-files-older-than-1st-jan-2010)
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
+  * [find example image](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4112130#gistcomment-4112130)
   * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
   * [Markus Mahlberg's answer to Why do experts always recommend using the command line and not the GUI (Win/Linux)? - Quora](https://www.quora.com/Why-do-experts-always-recommend-using-the-command-line-and-not-the-GUI-Win-Linux/answer/Markus-Mahlberg)
@@ -597,6 +599,7 @@ Linux
   * `grep -c <something>` [How do I count the number of occurrences of a word in a text file with the command line?](https://unix.stackexchange.com/questions/2244/how-do-i-count-the-number-of-occurrences-of-a-word-in-a-text-file-with-the-comma)
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
+  * [grep example image](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4112132#gistcomment-4112132)
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
@@ -760,6 +763,7 @@ Linux
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
   * `sed -e "s/^M//" <infile> > <outfile>` ^M 제거
   * `cat test.json | sed s/\"/\\\\\"/g` "를 \"로 변경
+  * [sed example image](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4112133#gistcomment-4112133)
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
