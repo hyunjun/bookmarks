@@ -145,6 +145,7 @@ Artificial Intelligence
 * [인터뷰 김광섭 카카오브레인 CTO AI로 '불쾌한 골짜기' 건넌다 | 아주경제](https://www.ajunews.com/view/20220214145910701)
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 * [Anatomy of an AI System](https://anatomyof.ai/)
+* [AI를 하고 싶은 C-level의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2022/03/28/Python-DS-97-ceo_mistakes/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
