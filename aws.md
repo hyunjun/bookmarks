@@ -442,6 +442,7 @@ AWS
 * [How I Discovered Thousands of Open Databases on AWS | by Avi Lumelsky | Jan, 2022 | InfoSec Write-ups](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
 * [AWS Cloud Practitioner – The Complete Guide | Review N Prep](https://reviewnprep.com/blog/aws-cloud-practitioner-the-complete-guide/)
 * [AWS Networking & Content Delivery Services - YouTube](https://www.youtube.com/watch?v=lS6qoA2_VeQ)
+* [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
