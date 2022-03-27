@@ -568,7 +568,7 @@ Python
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
-  * [**파이썬에서 arguments로 \*(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
+  * [**파이썬에서 arguments로** \***(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
   * [What Are \*args and \*\*kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
   * [\*args & \*\*kwargs in Python. What do they do ? | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/args-kwargs-in-python-8d483f9f253e)
 * ast
@@ -684,6 +684,7 @@ Python
   * [**파이썬(Python) datetime 클래스 치트시트**](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
   * [파이썬 Python 코딩 - 리눅스 크론 cron 스케줄러 기능 구현하기 - YouTube](https://www.youtube.com/watch?v=zZbOMgCJmA8)
   * [개발자를 괴롭히는 주제 중 하나는 시간입니다.. 하여간 이런 문제가 있다 해도 우리가 평범하게 아는 정도의 시간 관련… | by 이상선 | Jan, 2022 | Medium](https://medium.com/@sunyi233/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EA%B4%B4%EB%A1%AD%ED%9E%88%EB%8A%94-%EC%A3%BC%EC%A0%9C-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9E%85%EB%8B%88%EB%8B%A4-236f9f3be051)
+  * [Python에서 time 처리. 시간과 관련된 것을 처리하는 것은 좀 까다롭습니다. 일단, 시간 관련… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/python%EC%97%90%EC%84%9C-time-%EC%B2%98%EB%A6%AC-544af34dc4f)
   * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
     * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [Delorean: Time Travel Made Easy — delorean 1.0.0 documentation](https://delorean.readthedocs.io/)
