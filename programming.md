@@ -203,6 +203,7 @@ Programming
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 * [Make it work, Make it right, Make it fast](https://thetombomb.com/posts/make-it-work-right-fast) Kent Beck
   * [**일정 예상은 왜 실패할까?**](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html) 호프스테터의 법칙, make it work, right, fast
+* [The Pyramid of Coding Principles. There are a lot of processes that need… | by Muhammad Rahmatullah 🇮🇩 | Medium](https://muhammad-rahmatullah.medium.com/the-pyramid-of-basic-coding-principles-e33b7c3cb316) make it work부터 make it fast까지 사이에 또 다른 방식으로 단계를 두어 설명하는 글
 * [이 일은 언제 끝나나요?](https://brunch.co.kr/@jinhoyooephf/19) 일정
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
@@ -480,6 +481,7 @@ Programming
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+* [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
 * [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
 * [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
 * [0x7FDE623822FC16E6 : a magic constant for double float reciprocal - Paul Khuong mostly on Lisp](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
@@ -2030,6 +2032,7 @@ Programming
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 * [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
+* [Why Does My Website Run Very Slowly, and How Do I Optimize It for Free? | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/why-does-my-website-run-very-slowly-and-how-do-i-optimize-it-for-free-b21f8a2f0162)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
@@ -4062,7 +4065,6 @@ Programming
 * [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
 * [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
 * [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
-* [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 * [나는 왜 TDD와 리팩터링에 집착하는가](https://brunch.co.kr/@myner/77)
 * [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
 * [How To Build Quality Software Fast - YouTube](https://www.youtube.com/watch?v=ZmgbjaRfp_Q)
