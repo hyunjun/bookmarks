@@ -39,6 +39,7 @@ Programmer
 * [시니어가 되기 위한 준비, 「개발 큐레이션」과 함께한 2021 - Dico](https://dico.me/miscellany/articles/297/ko)
 * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면 - YouTube](https://www.youtube.com/watch?v=MXl_t1vjkyU)
   * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면"](https://www.slideshare.net/InfraEngineer/ss-250837891)
+* [저도 시니어는 처음이라. 시니어 엔지니어는 무슨 일을 해야하나요? | by 조은, John Cho | Mar, 2022 | Medium](https://euncho.medium.com/%EC%A0%80%EB%8F%84-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%8A%94-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-e3fbd6ba99de)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
@@ -121,6 +122,12 @@ Programmer
 * [How to Be a 10x Software Engineer | by Michael Lin | Feb, 2022 | Medium](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
 * [10배 이상 뛰어난 개발자가 되는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1373/)
 * [The Platform Engineer | By Varun Achar | Razorpay Engineering](https://engineering.razorpay.com/the-platform-engineer-db2b21434911)
+* [ㅈ형 인재가 되어라 - Prologue 모든 사람이 T자형 인재가 될 수는 없다](https://community.rememberapp.co.kr/post/76780)
+* [ㅈ형 인재가 되어라 - 1편 대체 ㅈ형 인재란 무엇인가?](https://community.rememberapp.co.kr/post/77022)
+* [ㅈ형 인재가 되어라 - 2편 내 회사의 가치사슬 공백을 찾아라](https://community.rememberapp.co.kr/post/77585)
+* [ㅈ형 인재가 되어라 - 3편 똑똑한 질문을 하는 방법](https://community.rememberapp.co.kr/post/78058)
+* [ㅈ형 인재가 되어라 - 4편 공부하는 기획자는 아는만큼 의심하고 질문한다](https://community.rememberapp.co.kr/post/79621)
+* [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
