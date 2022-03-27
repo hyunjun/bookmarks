@@ -1914,6 +1914,7 @@ Javascript
     * React Hook으로 카운터를 올리는 예시를 통해서 React Hook이 실수로 버그를 만들 여지가 있음을 보여주고 해결책은 있지만 익숙해지기 전에는 헷갈릴 수 있다고 설명
     * Solid.js에서는 Reactive적인 특징이 있어서 DOM에서 사용할 값도 함수로 호출해서 인터벌로 업데이트할 때 사이드 이펙트가 발생하지 않고 컴포넌트 자체는 딱 한 번만 실행
     * Solid.js에서는 모든 것이 리액티브 시스템에서 동작하고 라이프사이클 훅은 많은 역할을 하고 있지 않음
+    * [(번역) Solid.js는 내가 항상 바랬던 React의 모습입니다 | by Jung Han | Mar, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-solid-js%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EB%B0%94%EB%9E%AC%EB%8D%98-react%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9E%85%EB%8B%88%EB%8B%A4-922c8b83a93d)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
