@@ -120,11 +120,6 @@ Go
 * [**See Python, See Python Go, Go Python Go**](https://blog.heroku.com/see_python_see_python_go_go_python_go) python <-> go <-> c
 * [Nine reasons to switch from Python to Go](https://medium.com/datadriveninvestor/nine-reasons-to-switch-from-python-to-go-f1b0cd746974)
 * [One in two Pythonistas should learn Golang now](https://towardsdatascience.com/one-in-two-pythonistas-should-learn-golang-now-ba8dacaf06e8)
-* [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
-* [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
-* [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
-* [golang - golang error handling (Go1.13) - jacking75](https://jacking75.github.io/go_error_handling/)
-* [Error stack traces in Go with x/xerror — brandur.org](https://brandur.org/fragments/go-xerror)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
@@ -216,7 +211,6 @@ Go
 * [Release: Go analyzer lands in beta](https://deepsource.io/blog/go-beta-release/)
 * [From Java to Golang, the journey of the nexuzhealth team by Dylan Meeus](https://www.youtube.com/watch?v=4dSw3tkclQ4)
 * [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
-* [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
 * [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 * [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
   * This post describes a large scale conversion of data into JSON format in order to load it into BigQuery. To meet the naming requirements of BigQuery, they had to remap field names on every JSON document. Their tool, which is written in Golang, uses a producer/consumer job queue to parallelize processing and partition the data before writing it out. They processed data both from Kafka and S3, and the post talks a bit about how they optimized interaction with S3.
@@ -257,7 +251,6 @@ Go
 * [5 things before you venture into your maiden Golang Project | by Nikesh Shetty | Nov, 2020 | Medium](https://nikeshshetty.medium.com/5-things-before-you-venture-into-your-maiden-golang-project-68461724363e)
 * [Go Timebased OTP Code Generator](https://gist.github.com/charsyam/d0635be901176b884703a83a2a505eef)
 * [Go vs Java - Go에서의 객체 지향 :: Jinsu Playground](https://umi0410.github.io/blog/golang/go-vs-java-oop/) OOP
-* [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
 * [Working with Embed in Go 1.16 Version](https://lakefs.io/working-with-embed-in-go/)
 * [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [Branchless Coding in Go | Matt Nakama](https://mattnakama.com/blog/go-branchless-coding/)
@@ -465,6 +458,17 @@ Go
 * Gocker [Containers the hard way: Gocker: A mini Docker written in Go - Unixism](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
+
+# Error
+* [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
+* [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
+* [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
+* [golang - golang error handling (Go1.13) - jacking75](https://jacking75.github.io/go_error_handling/)
+* [Error stack traces in Go with x/xerror — brandur.org](https://brandur.org/fragments/go-xerror)
+* [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
+* [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
+* [errors: Simple error handling primitives](https://github.com/pkg/errors)
+  * [Golang Error Stack Trace와 로깅 | Popit](https://www.popit.kr/golang-error-stack-trace%ec%99%80-%eb%a1%9c%ea%b9%85/)
 
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
