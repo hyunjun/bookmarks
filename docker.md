@@ -799,6 +799,7 @@ Docker
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Getting Started With Kubernetes In 2 Days - DZone Cloud](https://dzone.com/articles/getting-started-with-kubernetes-in-2-days)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [쿠알못을 위한 Kubernetes 이야기 (1) - YouTube](https://www.youtube.com/watch?v=Iht-Y2iic-I)
 * [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
 * [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
 * [번역 쿠버네티스는 단순히 컨테이너를 관리하는 툴이 아닙니다. | 커피고래의 노트](https://coffeewhale.com/k8s-isnt-containers)
