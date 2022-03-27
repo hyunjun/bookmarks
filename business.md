@@ -928,6 +928,7 @@ Business
   * [우리 조직 핵심인재 퇴사 막는 법](https://drive.google.com/file/d/1QaFrYKVqo4wS4Lr2VmT-YWON8qIzZtP9/view?usp=sharing)
 * [MZ세대, 근속하게 하는 노하우는... '워라밸과 존중' - CIO Korea](https://www.ciokorea.com/news/228554)
 * [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
+* [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
