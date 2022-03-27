@@ -194,8 +194,6 @@ Go
 * [Go As a Scripting Language in Linux](https://www.youtube.com/watch?v=k7oosn5HrKk)
 * [Several tips for Go coding-1](https://jinhoyoo.github.io/Several-tips-for-Go-coding-1)
 * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
-* [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
-* [You’re doing Application Logging Wrong | by Jim T Dev | Medium](https://medium.com/@jimtdev/youre-doing-application-logging-wrong-d1465f80234c)
 * [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
 * [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
@@ -569,7 +567,6 @@ Go
 * [gitqlite: Query git repositories with SQL. Uses SQLite virtual tables and go-git](https://github.com/augmentable-dev/gitqlite)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
-* [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
@@ -757,6 +754,12 @@ Go
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+
+## Library logging
+* [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
+* [You’re doing Application Logging Wrong | by Jim T Dev | Medium](https://medium.com/@jimtdev/youre-doing-application-logging-wrong-d1465f80234c)
+* [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+* Zap [Structured Logging in Golang with Zap - Powerful Logging](https://codewithmukesh.com/blog/structured-logging-in-golang-with-zap/)
 
 ## Library Microservice
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
