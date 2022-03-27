@@ -140,6 +140,7 @@ Food
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
 * [전국 빵집 베스트 50곳](https://www.mangoplate.com/top_lists/national_bread_top50)
 * [500미터 산 속에 숨은 빵집, 굳이 찾아오는 손님들 왜 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002747666)
+* [수수한 자연을 담은, 천연발효종 빵 맛집 5곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252401)
 
 # Coffee
 * [버터커피는 맛있고 건강할까?](http://www.huffingtonpost.kr/2015/01/14/---_n_6468302.html)
