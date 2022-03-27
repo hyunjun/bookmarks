@@ -120,6 +120,7 @@ Functional Programming
 * [다양한 함수의 정의와 표현](https://brunch.co.kr/@graypool/41)
 * [How Functional Programming Can Make You A Better Developer - YouTube](https://www.youtube.com/watch?v=EqO4TcNLjl0)
 * [The Functional Programming Triad of Map, Filter and Fold](https://www.slideshare.net/pjschwarz/the-functional-programming-triad-of-map-filter-and-fold)
+* [FP is the new OOP - YouTube](https://www.youtube.com/watch?v=Z84Z1Fi-Hxs)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
