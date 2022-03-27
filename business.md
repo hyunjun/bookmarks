@@ -1268,6 +1268,13 @@ Business
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
 * [Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube](https://www.youtube.com/watch?v=euxI9vljXw8)
+  * [company assessment](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112149#gistcomment-4112149)
+  * [self assessment](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112151#gistcomment-4112151)
+  * [company fit](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112153#gistcomment-4112153)
+  * [stage and risk](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112155#gistcomment-4112155)
+  * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
+  * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
+  * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
