@@ -355,6 +355,7 @@ Interview
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
     * [6 Distributed storage & computing systems interview Q&As | Java-Success.com](https://www.java-success.com/1-overview-distributed-systems/)
+    * [Database Sharding: Data Partitioning | 10 Min System Design #database #sharding #systemdesign - YouTube](https://www.youtube.com/watch?v=pf9exB00398)
   * Dropbox
     * [blogs.dropbox.com/tech/category/infrastructure](https://blogs.dropbox.com/tech/category/infrastructure)
     * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -522,9 +523,11 @@ Interview
   * [EP04: API Gateway vs Load Balancer concepts and usage (AWS config) - YouTube](https://www.youtube.com/watch?v=Z1lejCLTRXY)
   * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
   * [High-Performance Software Load Balancer for Cloud-Native Architecture | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9524915)
+* [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
+* [Ace the System Design Interview — Distributed ID Generator | by Zixuan Zhang | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
