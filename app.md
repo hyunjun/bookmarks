@@ -1863,6 +1863,7 @@ App
 * [Windows 10에서 hosts 파일 수정하기](https://offbyone.tistory.com/149)
 * [Windows 11에서 node-gyp 패키지 트러블슈팅하기 | Aliencube](https://blog.aliencube.org/ko/2021/11/26/troubleshooting-node-gyp-package-on-windows11/)
 * [개발 환경 구성: 607. 로컬의 USB 장치를 원격 머신에 제공하는 방법 - usbip-win](https://www.sysnet.pe.kr/2/0/12858)
+* [Microsoft Store에 올라와있는 개발자용 유틸리티들을 소개합니다. - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/microsoft-store/3189)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
