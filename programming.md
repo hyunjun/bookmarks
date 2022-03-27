@@ -737,6 +737,7 @@ Programming
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 :: Channy's Blog](http://channy.creation.net/blog/1514)
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | GeekNews](https://news.hada.io/topic?id=5823)
 * [How To Design A Good API and Why it Matters - YouTube](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+* [Good API design, bad API design. Principals and rules of modern REST API… | by Roman Kyslyi, PhD | Level Up Coding](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
 * [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
 * [APIs and How to design them — All you need to know ! | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/apis-and-how-to-design-them-all-you-need-to-know-86223624229a)
@@ -3846,6 +3847,7 @@ Programming
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
   * [**구글 프로토콜 버퍼 (Protocol buffer)**](http://bcho.tistory.com/1182) 간단한 python 예제
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
+  * [Protocol buffers vs JSON | An interview anecdote | by Uddeshya Singh | Mar, 2022 | Medium](https://singhuddeshyaofficial.medium.com/protocol-buffers-vs-json-an-interview-anecdote-265aff95c3f1)
   * [mypy-protobuf: open source tools to generate mypy stubs from protobufs](https://github.com/dropbox/mypy-protobuf)
 * [UBJSON](http://ubjson.org/)
 
