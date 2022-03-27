@@ -491,6 +491,7 @@ Interview
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
+* [What You Need To Make Your App a High Availability System: Tackling The Technical Challenges | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/what-you-need-to-make-your-app-a-high-availability-system-tackling-the-technical-challenges-8896abec363f)
 * [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
   * reverse proxy, dynamic service discovery - service registry, heartbeat
 * [System Design — Backend for Google Photos | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36)
