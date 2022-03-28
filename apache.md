@@ -50,6 +50,8 @@ Apache
 * [ETL Pipelines with Airflow: the Good, the Bad and the Ugly | Airbyte](https://airbyte.io/blog/airflow-etl-pipelines)
 * [배치 파이프라인 도입을 위한 Workflow 리서치 (Airflow VS Azkaban VS Oozie)](https://flowarc.tistory.com/entry/%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-Workflow-%EB%A6%AC%EC%84%9C%EC%B9%98-Airflow-VS-Azkaban-VS-Oozie)
 * [Apache Airflow Tutorials for Beginner](https://heumsi.github.io/apache-airflow-tutorials-for-beginner/)
+* [여러 조직에 Airflow 제공하기 1 - 멀티테넌시 Airflow 환경 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/multi-tenancy-airflow-1/)
+* [여러 조직에 Airflow 제공하기 2 - 사용자 테스트 Airflow 제공 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/multi-tenancy-airflow-2/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
