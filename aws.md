@@ -740,6 +740,8 @@ AWS
 * [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
 * [Project: Host Website in AWS EC2 Server | Install PHP, Apache from user data | Create AMI backup - YouTube](https://www.youtube.com/watch?v=CiK8cuH2CQg)
 * [AWS로 클라우드 시작하기: ②EC2 | 요즘IT](https://yozm.wishket.com/magazine/detail/1328/)
+* [BigData Ubuntu(EC2)에 Apache Spark를 설치해보자](https://velog.io/@jodawooooon/BigData-UbuntuEC2%EC%97%90-Apache-Spark%EB%A5%BC-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EC%9E%90)
+* [EC2 스파크 설치 및 EC2 이미지 생성 - 미완성의신](https://unfinishedgod.netlify.app/2022/03/28/aws-ec2-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%84%A4%EC%B9%98-%EB%B0%8F-ec2-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1/)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
