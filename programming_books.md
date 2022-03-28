@@ -383,6 +383,8 @@ Programming Books
     * [november11th/infra-staging-env: A Terraform based CI/CD module to build the staging environment (from the book Microservices Up & Running)](https://github.com/november11th/infra-staging-env)
     * [ms-flights/main.yml at master · implementing-microservices/ms-flights](https://github.com/implementing-microservices/ms-flights/blob/master/.github/workflows/main.yml)
     * [ms-deploy/ms-flights at master · implementing-microservices/ms-deploy](https://github.com/implementing-microservices/ms-deploy/tree/master/ms-flights)
+* [자바 마이크로서비스를 활용한 SRE](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-SRE)
+  * [자바 마이크로서비스를 활용한 SRE. SRE는 구글에서 비롯되었다. 대규모 서비스를 하는 회사 특성상… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-sre-f8878efeedba)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
