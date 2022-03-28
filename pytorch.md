@@ -325,6 +325,7 @@ PyTorch
 * [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
+* [i-Blurry: Official Pytorch implementation of Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference (ICLR 2022)](https://github.com/naver-ai/i-Blurry)
 * [Joey NMT framework - developed for educational purposes](https://github.com/joeynmt/joeynmt)
 * [kindle: No code PyTorch model generation package](https://github.com/JeiKeiLim/kindle)
   * 사용 방법은 YOLOv5 에서 모델을 만드는 방법과 거의 동일. yaml 파일로 모델 설정
