@@ -76,9 +76,9 @@ TensorFlow
 * [Beginner’s guide to feeding data in Tensorflow — Part1](https://medium.com/coinmonks/beginners-guide-to-feeding-data-in-tensorflow-faf21a745e4c) tf.data를 1. memory 2. TFRecord 3. disk에서 읽어오는 코드 설명
 * [Beginner’s guide to feeding data in Tensorflow — Part2](https://medium.com/coinmonks/beginners-guide-to-feeding-data-in-tensorflow-part2-5e2506d75429)
 * [Baby Steps to TensorFlow](https://medium.com/towards-artificial-intelligence/baby-steps-to-tensorflow-22972dd3bd7e)
-* [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
+* [Tfk 6618 tensor flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
-* [Tfk 6618 tensor_flow로얼굴인식구현_r10_mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
+* [Tfk 6618 tensor flow로얼굴인식구현 r10 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [How to predict a simple sequence using seq2seq from tensorflow?](http://stackoverflow.com/questions/38050333/how-to-predict-a-simple-sequence-using-seq2seq-from-tensorflow)
 * [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
 * [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/)
@@ -1072,6 +1072,7 @@ TensorFlow
   * Vision transformer를 추가적인 method 적용 없이 논문에 있는 method만을 이용해 재현
   * tenosrflow에서 ViT 를 scratch 부터 학습하는 코드는 존재하지 않아서 타겟 논문 'An image is worth 16x16 words: Transformers for image recognition at scale' 와 'How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers'으로 진행
   * tensorflow로 구현된 제 ViT 코드의 경우 TPU를 이용하여 빠르게 학습
+* [vit-tensorflow: Vision Transformer Cookbook with Tensorflow](https://github.com/taki0112/vit-tensorflow)
 
 # Troubleshooting
 * [ImportError: numpy.core.xxx failed to import](https://jybaek.tistory.com/786)
