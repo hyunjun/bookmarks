@@ -53,6 +53,7 @@ Business
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
 * [우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)
+* [일 못 하는 사람들의 33가지 태도 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236059)
 * [비즈니스 경영자를 위한 11가지 업무집중 향상법](http://ppss.kr/archives/37874)
 * [일은 원래 재미없는 것일까?](https://brunch.co.kr/@hyungsukkim/53)
 * [일이 왜 자꾸 재미가 없어지지?](https://brunch.co.kr/@hyungsukkim/54)
@@ -1276,6 +1277,7 @@ Business
   * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
+* [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
