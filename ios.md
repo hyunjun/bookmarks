@@ -185,6 +185,7 @@ iOS
 * [Swift API Design Guidelines (한국어) - API Design Guidelines](https://cozzin.gitbook.io/swift-api-design-guidelines/)
 * [Core Data 그리고 Swift: 동시 실행(Concurrency)](http://code.tutsplus.com/ko/tutorials/core-data-and-swift-concurrency--cms-25118)
 * [Swift Concurrency에 대해서 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-swift-concurrency/)
+* [iOS12이하 지원시 발생할 수 있는 Swift concurrency 이슈 공유 | Fernando 기술 블로그](https://fernando.kr/ios/2022-03-28-xcode-issue-for-ios12/)
 * [Objective-C 프로젝트를 Swift로 Converting하며 배운 교훈들](http://blog.sendbird.com/ko/objective-c-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-swift%EB%A1%9C-converting%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88%EB%93%A4/)
 * [Swift 프로젝트에 Cocoa Pods 이용하기 - 완두블로그](https://wani.kr/posts/2015/02/16/how-to-use-cocoa-pods/)
 * [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
