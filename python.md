@@ -666,6 +666,7 @@ Python
   * [파이썬 dataclasses가 뭘까?](https://sjquant.tistory.com/30)
   * [TypedDict vs dataclasses in Python — Epic typing BATTLE! | Meeshkan Website](https://meeshkan.com/blog/typedict-vs-dataclasses-in-python/) Optional
   * [12 Examples of How To Write Better Code Using @dataclass | by Bruce H. Cottman, Ph.D. | Towards Data Science](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239)
+  * [This Is Why Python Data Classes Are Awesome - YouTube](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
   * [practice - `datetime.strptime(<date as string>, <format>)`](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py#L19-L25)
