@@ -325,6 +325,7 @@ ElasticSearch - Lucene
 * [Hot-Warm Architecture in Elasticsearch 1/n | CODER SITE for developers](https://codersite.dev/hot-warm-architecture-elasticsearch/)
 * ['랭크브레인부터 MUM까지'··· 구글 부사장이 전하는 검색의 진화 이야기 - CIO Korea](https://www.ciokorea.com/news/225444)
 * [검색 랭킹 흐름 만들기: 검색은 처음 인디요. 안녕하세요! 당근마켓 검색 시스템을 개발하고있는 Hy(하이) 에요 | by Hy Lee | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
+* [Elasticsearch 확장성을 향상시킨 3가지 방법 | Elastic Blog](https://www.elastic.co/kr/blog/three-ways-improved-elasticsearch-scalability/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
