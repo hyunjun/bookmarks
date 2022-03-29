@@ -127,6 +127,7 @@ Flutter
   * 간단히 Flutter의 구조를 설명, Skia를 사용해서 플랫폼에 종속되지 않으며 앱 개발을 빨리할 수 있고 배우기도 쉬워서 모바일 개발자들이 선호
   * 단점으로는 앱의 크기가 크고 서드파티 라이브러리가 아직 부족, Dart를 배워야 하고, 아직 watchOS, tvOS, CarPlay 등은 미지원
   * [Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유 | GeekNews](https://news.hada.io/topic?id=6032)
+* [Flutter 데이터베이스 [To Do List by Hive] - YouTube](https://www.youtube.com/watch?v=FYfnQ55UPAo)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
