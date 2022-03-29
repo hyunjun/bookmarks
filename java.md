@@ -135,6 +135,7 @@ Java
 * [Why is Java so dumb?. Part 1: Data Types | by Dave Andrea | Oct, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-1990b9ac77c4)
 * [Why is Java So Dumb? (Part 2). Part 2: Why does it take so long to… | by Dave Andrea | Nov, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-part-2-25755eb8459a)
 * [7 Features Java Developers Should Learn in 2022 | by javinpaul | Javarevisited | Dec, 2021 | Medium](https://medium.com/javarevisited/7-features-java-developers-should-learn-73cc3d4e734f)
+* [Top Java Trends in 2021. Well, 2020 has proved that making… | by Sciforce | Sciforce | Medium](https://medium.com/sciforce/top-java-trends-in-2021-ac7aa25e5362)
 * [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 * [Top 5 Microservice courses for Java Developers to Learn Online in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-microservice-courses-for-java.html)
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
