@@ -410,6 +410,8 @@ Business
 * [애플의 경쟁력은 어디에서 오나 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/315)
 * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://www.folin.co/story/2104)
   * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://drive.google.com/file/d/1p1D4qsmknNfJUltILM9j89AOGHlEzGNB/view?usp=sharing)
+* [혁신 방법론의 불편한 진실 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252832) e.g. 식스시그마, 린 싱킹, 디자인싱킹
+* [당신은 리더와 참모 중 어느 쪽인가요? | 일요신문](https://ilyo.co.kr/?ac=article_view&entry_id=346587)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
