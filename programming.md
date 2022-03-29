@@ -2340,6 +2340,7 @@ Programming
   * 이로써 테스트 실행 시간이 40% 감소, 테스트 결과가 일관되지 않은 비율은 90% 감소
 * [10 real-world stories of how we’ve compromised CI/CD pipelines – NCC Group Research](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 * [Moving Java to Telco Cloud, with Mihai Ionita - YouTube](https://www.youtube.com/watch?v=VtOR_JROSRo)
+* [칼럼 기업에 CI/CD가 필요한 10가지 이유](https://it.donga.com/101955/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
@@ -4076,6 +4077,7 @@ Programming
 * [The 3 Types of Unit Test in TDD - YouTube](https://www.youtube.com/watch?v=W40mpZP9xQQ)
 * [TDD에 대한 몇 가지 질문](https://brunch.co.kr/@cleancode/44)
   * [(1) Kent Beck 🌻 on Twitter: "@sarah_edo Baby steps. Really, really quick baby steps. But baby steps first." / Twitter](https://twitter.com/kentbeck/status/1260938674440515585?lang=en)
+* [세미나 공유 - 테스트 - YouTube](https://www.youtube.com/watch?v=L_1UYlJyNuk)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
