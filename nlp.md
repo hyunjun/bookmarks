@@ -644,6 +644,8 @@ NLP
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
+* [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
+  * [HuLiC](https://github.com/smilegate-ai/HuLiC) 사람과 챗봇간의 대화에 대해 모든 턴마다 인간성 평가 점수를 메긴 데이터
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
 * [www.luis.ai](https://www.luis.ai)
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
@@ -835,6 +837,7 @@ NLP
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
   * [한글형태소 사전 NIADic](https://kbig.kr/index.php?page=1&sv=title%E2%80%8B%E2%80%8B&sw&q=knowledge%2Fpds_&tgt=view&idx=16451)
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
+* [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
 * [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
 
 # Course MOOC Lecture
