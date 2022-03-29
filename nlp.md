@@ -832,6 +832,7 @@ NLP
 * [국어사전 데이터](http://www.korean.go.kr/front/onlineQna/onlineQnaView.do;front=C010D1C318C9E310B1EAB32905185327?mn_id=60&qna_seq=123958&pageIndex=1)
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
 * [모두의 말뭉치](https://corpus.korean.go.kr)
+* [형태소 분석기의 모호성 해소 성능을 평가해보자](https://bab2min.tistory.com/672)
 * [NIA(National Information Society Agency) Dictionary](https://github.com/haven-jeon/NIADic)
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
