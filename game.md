@@ -168,6 +168,7 @@ Game
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * PySol [A comprehensive, feature-rich, open source, and portable, collection of Solitaire games](https://pythonawesome.com/a-comprehensive-feature-rich-open-source-and-portable-collection-of-solitaire-games/)
+* [PythonGames: Python Game Projects](https://github.com/jhp72/PythonGames)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
 * [Turn based roguelike in python](https://pythonawesome.com/turn-based-roguelike-in-python/)
