@@ -299,6 +299,7 @@ Go
 * [Get an Authentication system up and running with Go(Golang) in less than 30secs - DEV Community](https://dev.to/hisyntax/get-an-authentication-system-up-and-running-with-gogolang-in-less-than-30secs-46po)
 * [Use Redis as caching for the Golang API](https://morioh.com/p/3056dfb29f2f)
 * [Golden Rules or Mistakes in Golang | Common Mistakes | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=3aLFnB86nMQ)
+* [Why We Write Everything in Go | Bitly](https://bitly.com/blog/why-we-write-everything-in-go/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
