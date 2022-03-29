@@ -3297,6 +3297,9 @@ Javascript
 * [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Jul, 2021 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
   * 리렌더링이 필요한 업데이트를 자동으로 묶어주는 "자동배치", 긴급 업데이트 외에 천천히 업데이트해도 되는 전환 업데이트를 명시적으로 할 수 있는 startTransition를 포함한 동시성 API, <Suspense>를 이용한 서버 사이드 렌더링의 사용 방법을 설명
 * [What's New in React 18 and More News from Frontend World - Frontend News #12 | frontendhouse.com - YouTube](https://www.youtube.com/watch?v=_0-DldcqPc0)
+* [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
+  * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
+* [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
@@ -3328,8 +3331,6 @@ Javascript
 * [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
 * [React Derived State 다시 보기 | Dev Log](https://reactiver.dev/review-react-derived-state/)
 * [React VAC Pattern - View 로직과 JSX의 의존성을 최소화 하자!](https://d2.naver.com/news/0568192)
-* [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
-  * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
 * [리액트 서버 컴포넌트와 프리즈마. 리액트 18버전에서 가장 관심을 많이 받고있는 기능은 단연 서버… | by Danny Kim | Prisma Korea | Dec, 2021 | Medium](https://medium.com/prisma-korea/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%94%84%EB%A6%AC%EC%A6%88%EB%A7%88-c1652a997927)
 * [리액트 React 로 리팩토링! 웹 프론트엔드 개발자 모여라 | RIDIBOOKS web 1부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=6BG6O5F5dIs)
 * [React 컴포넌트 설계 방법 공개! 웹 코드 리팩토링 프로젝트 | RIDIBOOKS web 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=ofBhjQZeC0o)
