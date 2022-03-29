@@ -46,6 +46,7 @@ Json
   * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
 
 # Java
+  * [3 Examples to parse JSON in Java using Jackson, Gson, and json-simple](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html#axzz7OtRG48iP)
 * json to java class
   * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
   * [jsongen.byingtondesign.com](http://jsongen.byingtondesign.com/)
