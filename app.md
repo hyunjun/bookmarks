@@ -1205,6 +1205,7 @@ App
       * [zsh compinit: insecure directories](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
       * `compaudit | xargs chmod g-w` 실행 후 아무 directory name이 안 나오면 정상
     * [Oh My Zsh로 예쁘고 직관적인 터미널 만들기!](http://kkamagui.tistory.com/903) ubuntu 설치
+    * [zsh-autosuggest와 zsh-syntax-highlighting 충돌 문제 해결 - dfkdream’s blog](https://blog.dfkdream.dev/2020/02/21/zsh-autosuggest-with-highlight)
   * [zsh installation](https://github.com/Kevin-Lee/for-linux/blob/master/scripts/zsh/zsh-installation.md)
   * [Oh-My-Zsh! Made for CLI Lovers](https://hackernoon.com/oh-my-zsh-made-for-cli-lovers-bea538d42ec1)
   * [42 세미나 '최적화에 미친 남자 hmin'의 극한의 마개조 특강! #1. 터미널 + 크롬 - YouTube](https://www.youtube.com/watch?v=NljihG695UY)
