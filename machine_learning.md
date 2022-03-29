@@ -1462,6 +1462,7 @@ Machine Learning
   * [How to Build Machine Learning Pipeline with Scikit-Learn? And Why is it essential? – Life With Data](https://lifewithdata.com/2021/04/02/how-to-build-machine-learning-pipeline-with-scikit-learn-and-why-is-it-essential/)
   * [Adrin Jalali - Custom Scikit-learn Estimators - YouTube](https://www.youtube.com/watch?v=sEaiOkxTFjw)
   * [BayBiggies March 2021 Online Meeting: How to Reduce Scikit-Learn Training Time - YouTube](https://www.youtube.com/watch?v=jKjO-4KZ6zI)
+  * [scikit-learn with GPU! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2022/03/29/scikit-learn-with-gpu/)
   * scikit-learn-intelex [Intel® Extension for Scikit-learn — Intel(R) Extension for Scikit-learn 2021.4 documentation](https://intel.github.io/scikit-learn-intelex/)
 * [scikit-multilearn: Multi-Label Classification in Python — Multi-Label Classification for Python](http://scikit.ml/)
   * [A Python module capable of performing multi-label learning tasks](https://pythonawesome.com/a-python-module-capable-of-performing-multi-label-learning-tasks-2/)
