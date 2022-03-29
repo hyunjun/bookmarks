@@ -1266,6 +1266,9 @@ Docker
 * [고급 트래픽 관리로 Kubernetes의 복원력을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/improve-kubernetes-resilience-with-advanced-traffic-management/)
   * 트래픽 제어(Traffic Control) 솔루션(Solution): 속도 제한(Rate limiting), 회로 차단(Circuit breaking)
   * 트래픽 분할(Traffic Splitting) 솔루션(Solution): 디버그 라우팅(Debug routing), 카나리(Canary) 배포, A/B 테스트(testing), 블루-그린(Blue-green) 배포
+* [Kubernetes에서 가시성(Visibility)을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-improve-visibility-in-kubernetes/)
+  * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
+  * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1308,6 +1311,7 @@ Docker
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
   * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
+  * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
