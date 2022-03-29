@@ -443,6 +443,7 @@ AWS
 * [AWS Cloud Practitioner – The Complete Guide | Review N Prep](https://reviewnprep.com/blog/aws-cloud-practitioner-the-complete-guide/)
 * [AWS Networking & Content Delivery Services - YouTube](https://www.youtube.com/watch?v=lS6qoA2_VeQ)
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
+* [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1069,6 +1070,7 @@ AWS
 * [AWS Lambda, .NET 6 런타임 지원 시작 | GeekNews](https://news.hada.io/topic?id=6071)
 * [The Hardest Issue To Debug With AWS Lambda | by Connor Butch | Feb, 2022 | Medium](https://medium.com/@connorbutch/the-hardest-issue-to-debug-with-aws-lambda-d636d672d6bc)
 * [Lambda Function URLs are now available on AWS | by Rajesh | Medium](https://medium.com/@Rajesh_R/lambda-function-urls-are-now-available-on-aws-ffd051705ade)
+* [Using larger ephemeral storage for AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/using-larger-ephemeral-storage-for-aws-lambda/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
