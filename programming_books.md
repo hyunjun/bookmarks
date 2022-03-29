@@ -1032,6 +1032,7 @@ Programming Books
     * [troubleshooting-kubernetes.ko_kr.v2.pdf](https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.ko_kr.v2.pdf)
     * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
+* (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
 
 # Domain Driven Development DDD
 * (NOT YET) [도메인 주도 설계: 소프트웨어의 복잡성을 다루는 지혜 | 위키북스](https://wikibook.co.kr/domain-driven-design/)
