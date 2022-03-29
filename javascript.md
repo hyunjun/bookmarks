@@ -742,6 +742,7 @@ Javascript
   * 브라우저 DOM의 이벤트를 버블링/캡쳐링의 동작 방식 설명, stopPropagation(), stopImmediatePropagation()가 어떻게 동작하는지 보여줌
   * 단계마다 테스트해 볼 수 있는 예제로 쉽게 이해 가능, 마지막으로 preventDefault()가 기본 동작을 방지한다는 게 어떤 의미인지 설명
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
+* [웹에서 이미지 로딩 중 레이아웃이 밀리는 문제 해결하기. 이미지 태그에 크기를 지정하여 Layout Shift 문제를 해결하는… | by Harim kim | 더핑크퐁컴퍼니 기술 블로그 | Mar, 2022 | Medium](https://medium.com/pinkfong/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A1%9C%EB%94%A9-%EC%A4%91%EC%97%90-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%B4-%EB%B0%80%EB%A6%AC%EB%8A%94-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-3c4ec821bea4)
 * [브라우저 Web Worker 다루기 with 오피스 문서 텍스트 추출 및 암호해제 – tech.kakao.com](https://tech.kakao.com/2021/09/02/web-worker/)
 * [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
 * [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
