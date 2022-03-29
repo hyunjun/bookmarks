@@ -25,6 +25,7 @@
 * [페이스북 CBO 캠페인 4가지 필수 전략](https://www.digiocean.co.kr/p/blog/?p=dgq-facebook-cbo-4-strategy)
 
 # Google
+* [Markov chain analysis  |  Ads Data Hub  |  Google Developers](https://developers.google.com/ads-data-hub/guides/markov)
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
