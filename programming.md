@@ -1869,6 +1869,7 @@ Programming
 * [Cloud Provider Performance Comparison - Perl & more | Dimitrios Kechagias blogs.perl.org](https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html)
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
+* [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3917,6 +3918,9 @@ Programming
 * [루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감](https://jojoldu.tistory.com/640)
 * [소프트웨어는 녹이 슨다 — 洪民憙 블로그](https://blog.hongminhee.org/2014/04/13/82482810330/)
 * [How to Not Lose Your Job to Low-Code Software](https://www.infoq.com/articles/lose-job-low-code/)
+* [번역 왜 소프트웨어 개발은 예상보다 2~3배 더 오래 걸리는가? · Soojin Ro](https://soojin.ro/blog/sw-estimation) 크게 멋진 혹은 좋은 비유는 아니라고 생각하지만 그냥 참고로
+* [(2) Kent Beck 🌻 on Twitter: ""How long is it going to take to drive?" "Drive where?" "Nobody knows, we just need to know how long it is going to take." ...I'm too sad, you finish this..." / Twitter](https://mobile.twitter.com/KentBeck/status/1496239386530574336)
+* [Software Engineer roadmap via books | by Jake Russell | Medium](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
