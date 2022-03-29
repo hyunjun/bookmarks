@@ -779,6 +779,7 @@ Web
   * [Nginx 설정 시 가장 많이 하는 10가지 실수 피하기 | GeekNews](https://news.hada.io/topic?id=6041)
 * [내블로그 :: nginx/1.18.0 (Ubuntu20.04) brotli](https://iesay.tistory.com/208)
 * [내블로그 :: nginx/1.18.0 (Ubuntu20.04) gzip](https://iesay.tistory.com/209)
+* [What Is NGINX? An Overview of the Basics | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/what-is-nginx-an-overview-of-the-basics)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
