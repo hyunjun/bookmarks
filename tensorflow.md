@@ -867,7 +867,6 @@ TensorFlow
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
 * TensorFlow FileSystem TFFS
   * [TensorFlow Filesystem — Access Tensors Differently](https://towardsdatascience.com/tensorflow-filesystem-access-tensors-differently-888bce1d68e7)
-* [TensorFlow Extended (TFX) - an end-to-end platform for deploying production ML pipelines](https://www.tensorflow.org/tfx)
 * [TensorFlow Graphics](https://github.com/tensorflow/graphics)
   * [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 * Tensorflow Hub
@@ -986,8 +985,9 @@ TensorFlow
   * 현재는 S4TF를 위해서 개발, Python 및 다른 언어로 지원 확장 및 IDE에서 지원가능한 형태로 포팅 예정
 * TF-Ranking
   * [Introducing TF-Ranking - Google’s New Framework for Solving Ranking Problems](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff)
-* TFX TensorFlow Extended
+* TFX [TensorFlow Extended (TFX) - an end-to-end platform for deploying production ML pipelines](https://www.tensorflow.org/tfx)
   * [Introducing the TFX interactive notebook](https://blog.tensorflow.org/2019/11/introducing-tfx-interactive-notebook.html)
+  * [TFX와 함께 머신러닝 파이프라인 개발하기. 당근마켓에서는 머신러닝 모델을 효과적으로 적용하기 위한 방법에 대해서도… | by Ukjae Jeong | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/tfx%EC%99%80-%ED%95%A8%EA%BB%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-4578f030a9c1)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
 * [white-box-layer](https://github.com/YeongHyeon/white-box-layer)
 * [ZhuSuan - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow http://zhusuan.readthedocs.io](https://github.com/thu-ml/zhusuan)
