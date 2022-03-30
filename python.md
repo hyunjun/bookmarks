@@ -1546,6 +1546,7 @@ Python
 * [aiosql: Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [**aiotools - Idiomatic asyncio utilties**](https://github.com/achimnol/aiotools)
   * [**PyCon KR 2017 Meet aiotools: asyncio idiom library**](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)
+  * [**Persistent Task Group | Lablup Blog**](https://blog.lablup.com/posts/2022/03/29/PersistentTaskGroup)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Quart - a Python asyncio web microframework with the same API as Flask](https://gitlab.com/pgjones/quart)
   * [Websockets in Quart](https://medium.com/@pgjones/websockets-in-quart-f2067788d1ee)
