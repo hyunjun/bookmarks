@@ -1270,6 +1270,7 @@ Docker
   * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
   * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
 * [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
+* [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
