@@ -879,6 +879,7 @@ Python
   * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
   * [How to Bruteforce a Hash from Windows Hash File in Python](https://www.thelinuxrain.com/articles/how-to-bruteforce-a-hash-from-windows-hash-file-in-python)
   * [Hashing it Out – Akshay's Blog](https://akshayr.me/blog/articles/python-dictionaries)
+  * [How to DeDuplicate in Python using Hashing Technique - YouTube](https://www.youtube.com/watch?v=C5SS8ftNxPc)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -3753,6 +3754,7 @@ Python
   * [Build A Twitter Bot With Python That Gets You Followers](https://www.youtube.com/watch?v=7ovFudqFB0Q)
   * [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
   * [From Zero to a Working Twitter Bot in Python - All You Need to do in 6 Easy Steps - Learn Python with Rune](https://www.learnpythonwithrune.org/create-a-twitter-bot-in-python-an-easy-step-through-guide/)
+  * [Working with Text , Twitter and Databases with python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1lrmTT3ciQpU4lW6eF4ej3Q)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [UltraDict: Shared, streaming Python dict](https://github.com/ronny-rentner/UltraDict)
