@@ -1544,6 +1544,7 @@ Docker
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공
 * [Tekton](https://tekton.dev/)
   * [Cloud Native Continuous Delivery on Kubernetes with Tekton](https://www.infoq.com/presentations/tekton-cloud-native/)
+  * [Canary Release on Kubernetes with Knative and Tekton - Piotr's TechBlog](https://piotrminkowski.com/2022/03/29/canary-release-on-kubernetes-with-knative-and-tekton/)
 * [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
   * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
