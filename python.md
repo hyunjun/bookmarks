@@ -1480,6 +1480,7 @@ Python
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2020/1/1/async-pressure/)
 * [Async Python is not faster](https://calpaterson.com/async-python-is-not-faster.html)
+* [asyncio 뽀개기 1 - Coroutine과 Eventloop](https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
