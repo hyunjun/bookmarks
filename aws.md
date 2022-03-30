@@ -697,6 +697,7 @@ AWS
 * [Amazon’s DynamoDB — 10 years later - Amazon Science](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 * [AWS DynamoDB Stream으로 Elasticsearch에 안전하게 데이터 싱크하기 | blog.hoseung.me](https://blog.hoseung.me/2022-02-19-dynamodb-stream-elasticsearch/)
 * [DynamoDB를 사용하는 Go 서비스의 응답 시간 최적화 #1 AWS Credential Token](https://tech.buzzvil.com/blog/dynamo-go-latency-optimization-1-aws-credential-token/)
+* [DynamoDB를 사용하는 Go 서비스의 응답 시간 최적화 #2 TLS Handshake](https://tech.buzzvil.com/blog/dynamo-go-latency-optimization-2-tls-handshake/)
 * [DynamoDB, Python 기초 - 이상선 - Medium](https://medium.com/@sunyi233/dynamodb-python-%EA%B8%B0%EC%B4%88-54ea399c139b)
 
 # EC2
