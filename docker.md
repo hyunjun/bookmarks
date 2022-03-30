@@ -45,6 +45,8 @@ Docker
 * [Infra 도커(docker)(2) 컨테이너 조작 기초(pull, run, ps) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker02/)
 * [Infra 도커(docker)(3) 이미지 변경 후 저장(commit) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker03/)
 * [Infra 도커(docker)(4) 컨테이너 <-> 호스트 파일 전송 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker04/)
+* [Infra 도커(docker)(5) API 서버 이미지 빌드 및 컨테이너 실행 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker05/)
+* [Infra 도커(docker)(6) 도커 컴포즈(docker compose)를 활용한 여러 개의 Flask, Nginx 배포 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker06/)
 * [무료 DevOps 강의 Docker - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RFFeGYI3JksmZd1MPHR2HwG)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
