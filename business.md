@@ -986,6 +986,8 @@ Business
 * [내가 틀렸네요](https://jojoldu.tistory.com/658) 꼭 leadership에만 해당하는 내용이 아니라 전반적인 태도
 * [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
   * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
+* [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leader20210325)
+  * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1DTzYBO2xDwG2P2UxfcoDdW1Lcb0-HcrC/view?usp=sharing)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
