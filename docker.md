@@ -1261,6 +1261,7 @@ Docker
     * 트래픽 생성 및 모니터링
     * 자동 크기 조정 NGINX Ingress Controller
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
+* [Running Stateful Applications on Kubernetes - Best Practices & Use Cases](https://www.decipherzone.com/blog-detail/running-stateful-applications-kubernetes)
 * [Kubernetes Video Highlights from HashiTalks 2022](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
 * [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes)
 * [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
