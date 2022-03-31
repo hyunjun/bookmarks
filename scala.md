@@ -1230,6 +1230,7 @@ Scala
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
+  * [Tooling Talks](https://www.tooling-talks.com/)
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
