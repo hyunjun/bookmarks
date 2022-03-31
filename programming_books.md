@@ -217,7 +217,9 @@ Programming Books
 * (NOT YET) [경험과 사례로 풀어낸 성공하는 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/51)
 * (NOT YET) [사용자 스토리 : 고객 중심의 요구사항 기법 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/53)
 * (NOT YET) [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
+  * 한라, 탐라
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
+  * 한라, 우당
 
 # Algorithm
 
@@ -318,10 +320,15 @@ Programming Books
   * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539)
 * (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
+  * 우당
 * (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
+  * 우당
 * (NOT YET) [AWS 기반 AI 애플리케이션 개발 | 에이콘출판사](http://www.acornpub.co.kr/book/ai-aws)
+  * 우당
 * (NOT YET) [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래 | 에이콘출판사](http://www.acornpub.co.kr/book/ahead-cloud)
+  * 우당
 * (NOT YET) [생활코딩! 아마존 웹 서비스 | 위키북스](https://wikibook.co.kr/aws/)
+  * 우당
 
 # Android
 
@@ -386,10 +393,16 @@ Programming Books
 * [자바 마이크로서비스를 활용한 SRE](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-SRE)
   * [자바 마이크로서비스를 활용한 SRE. SRE는 구글에서 비롯되었다. 대규모 서비스를 하는 회사 특성상… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-sre-f8878efeedba)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
+  * 한라
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
+  * 한라
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
+  * 한라
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
+  * 탐라
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
+  * [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
+  * 탐라
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
   * [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
@@ -403,8 +416,11 @@ Programming Books
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
   * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
+  * 탐라
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
+  * 한라
 * (NOT YET) [소프트웨어 아키텍처 101](https://jybaek.tistory.com/950)
+  * 탐라
   * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
 
 # C
@@ -1688,6 +1704,7 @@ Programming Books
 * (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
   * 우당
 * (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
+  * 탐라
 
 # Math
 
@@ -1731,6 +1748,7 @@ Programming Books
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
+  * 한라
 * (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
 * (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
 * (NOT YET) [**한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지**](http://acornpub.co.kr/book/korean-embedding)
@@ -1744,6 +1762,7 @@ Programming Books
   * [**트랜스포머 관련 책 독서 후기**](https://www.facebook.com/Thomas.CS.Park/posts/10222184767793514)
   * [Tutorial Links - ratsgo's NLPBOOK](https://ratsgo.github.io/nlpbook/docs/tutorial_links)
 * (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
+  * 한라
 
 # NoSQL
 
@@ -1974,7 +1993,6 @@ Programming Books
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
 * (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
-* (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
 * (NOT YET) 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
@@ -1995,6 +2013,7 @@ Programming Books
   * 한라
 * (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
 * (NOT YET) [웹 크롤링 & 데이터 분석 with 파이썬 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/112)
+  * 한라
 
 # R
 
@@ -2074,13 +2093,16 @@ Programming Books
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 07 텍스트 마이닝 프로젝트: 타다 금지법 기사 댓글 분석](https://youngwoos.github.io/Doit_textmining/07-project1.html)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 08 텍스트 마이닝 프로젝트: 차기 대선 주자 SNS 여론 분석](https://youngwoos.github.io/Doit_textmining/08-project2.html)
 * (NOT YET) [메이저리그 야구 통계학 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mlb-statistics-2e)
+  * 한라, 탐라
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
 * (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
+  * 우당
 * (NOT YET) [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
 * (NOT YET) [혼자 공부하는 R 데이터 분석](https://jybaek.tistory.com/947)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
+  * 한라
 
 # Scala
 
@@ -2124,6 +2146,7 @@ Programming Books
 * (NOT YET) [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
 * (NOT YET) [Akka 쿡북 다양한 레시피로 아카를 쉽게 배워보기](http://acornpub.co.kr/book/akka-cookbook)
 * (NOT YET) [아카를 이용한 마이크로서비스 개발 예제 애플리케이션 구축과 함께하는 아카 이해하기](http://acornpub.co.kr/book/mastering-akka)
+  * 한라
 
 # Software engineering
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)

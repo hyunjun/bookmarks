@@ -438,6 +438,7 @@ Book
 * (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
 * (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
+  * 한라, 탐라, 우당
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
