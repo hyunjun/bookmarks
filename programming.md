@@ -988,6 +988,7 @@ Programming
   * [How to setup a practically free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
   * [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
   * [EP09: Cache and caching basics | Caching for Beginners - YouTube](https://www.youtube.com/watch?v=Iv0PTqXr8vY)
+  * [EP10: Cache & Caching | Understanding cache access patterns - YouTube](https://www.youtube.com/watch?v=rSQdrNzomN4)
   * [blueboat: Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.](https://github.com/losfair/blueboat)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
