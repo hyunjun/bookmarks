@@ -405,6 +405,7 @@ Programming Books
   * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
 * (NOT YET) [소프트웨어 아키텍처 101](https://jybaek.tistory.com/950)
+  * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
 
 # C
 
@@ -1976,6 +1977,7 @@ Programming Books
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
+* (NOT YET) 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
