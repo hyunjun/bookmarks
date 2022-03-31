@@ -802,6 +802,7 @@
   * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
   * [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
   * [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
+  * [How to run Linear Regression in Python using PySpark - YouTube](https://www.youtube.com/watch?v=MdWLphGAwJc)
   * [Building Custom ML PipelineStages for Feature Selection - Marc Kaminski](https://www.youtube.com/watch?v=iUNk-i5aFPY)
   * [Machine Learning with PySpark and MLlib — Solving a Binary Classification Problem](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
   * [Dataset deduplication using spark’s MLlib](https://medium.com/@ronaldangel/deduplication-using-sparks-mllib-4a08f65e5ab9)
