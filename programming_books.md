@@ -404,6 +404,7 @@ Programming Books
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
   * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
+* (NOT YET) [소프트웨어 아키텍처 101](https://jybaek.tistory.com/950)
 
 # C
 
