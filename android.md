@@ -222,6 +222,7 @@ Android
 * [인공지능 손글자(숫자) 판별기, 안드로이드 앱 만들어 보기. - YouTube](https://www.youtube.com/watch?v=vL0J0Fyfa4k)
 * [react-native 안드로이드 빌드가 안될 때 (Unsupported class file major version 60)](https://velog.io/@juunini/react-native-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%B9%8C%EB%93%9C%EA%B0%80-%EC%95%88%EB%90%A0-%EB%95%8C-Unsupported-class-file-major-version-60)
 * [Android Firebase FireStore Adding and Retrieving data in Kotlin 2020 - YouTube](https://www.youtube.com/watch?v=5UEdyUFi_uQ)
+* [FCM Registration Token - 이상선 - Medium](https://medium.com/@sunyi233/fcm-registration-token-6c87c30ce9f2)
 * [안드로이드 플레이스토어에서 인앱결제 부가가치세 설정하기](https://velog.io/@jeho/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%90%EC%84%9C-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C-%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 * [Google sunsets Android APKs for App Bundles instead - Android Authority](https://www.androidauthority.com/android-apks-sunset-1636829/)
   * [구글, APK 포맷 지원을 종료하고 AAB로 변경 예정 | GeekNews](https://news.hada.io/topic?id=4543)
