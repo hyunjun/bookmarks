@@ -1219,6 +1219,7 @@ Java
   * [Webhook을 이용하여 CI CD 구성하기 - 시리즈를 시작하며](https://wonit.tistory.com/581)
   * [Jenkins Tutorial for Beginners FULL COURSE in 3 Hours - YouTube](https://www.youtube.com/watch?v=MTm3cb7qiEo)
   * [Jenkins Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLl4APkPHzsUV3pz6zRpFJe3A4wTM2Pjvv)
+  * [#6 Jenkins Pipeline CI CD Tutorial| Detailed Video - YouTube](https://www.youtube.com/watch?v=6xZUyyzJUbI)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [jenv: Manage your Java environment](https://github.com/jenv/jenv)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
