@@ -172,6 +172,7 @@ Deep Learning
     * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
     * [natural-language-youtube-search: Search inside YouTube videos using natural language](https://github.com/haltakov/natural-language-youtube-search)
+    * [clip-as-service: Embed images and sentences into fixed-length vectors with CLIP](https://github.com/jina-ai/clip-as-service)
     * [clipping-CLIP-to-GAN](https://github.com/cloneofsimo/clipping-CLIP-to-GAN)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
   * [requests-for-research](https://openai.com/requests-for-research/)
