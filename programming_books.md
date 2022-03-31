@@ -1978,6 +1978,7 @@ Programming Books
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
 * (NOT YET) 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
+* (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
