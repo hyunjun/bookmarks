@@ -1070,6 +1070,8 @@ NLP
   * [TextBlob: Simplified Text Processing](https://textblob.readthedocs.io/)
     * [How to Perform Emotion detection in Text via Python | Hacker Noon](https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu)
 * [Open Source Natural Language Processing Libraries To Get You Started](https://www.quansight.com/post/open-source-natural-language-processing-libraries-to-get-you-started)
+* [Python 한국어 형태소 분석기 체험 및 비교(Okt, Mecab, Komoran, Kkma)](https://soohee410.github.io/compare_tagger)
+* [Python - KoNLPy 형태소 분석기 비교 (Komoran, Okt, Kkma)](https://couplewith.tistory.com/entry/Python-KoNLPy-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D%EA%B8%B0-%EB%B9%84%EA%B5%90-Komoran-Okt-Kkma)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * 날개셋
   * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
