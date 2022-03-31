@@ -52,6 +52,11 @@ Docker
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
+* [virtual machines image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116324#gistcomment-4116324)
+* [why containers? image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116325#gistcomment-4116325)
+* [container networking image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116326#gistcomment-4116326)
+* [containers vs VMs image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116330#gistcomment-4116330)
+* [what's a container? image explanation](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7?permalink_comment_id=4116331#gistcomment-4116331)
 * [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 * [Docker for Beginners: Full Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
 * [Docker Tutorial for Beginners Full Course in 3 Hours](https://morioh.com/p/439efe820105)
@@ -1855,7 +1860,6 @@ Docker
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
-* [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
