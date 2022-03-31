@@ -2685,6 +2685,7 @@ Programming
   * subicura님이 정리한 DevOps 안내서
   * 스타트업에서 DevOps를 도입한다는 가상의 시나리오에 따라 Node.js 웹 애플리케이션을 만들고 이를 자동화하는 과정 정리
   * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
+* [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
