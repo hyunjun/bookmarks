@@ -69,6 +69,7 @@ Linux
 * [GNOME 데스크탑 : caps lock을 control로 사용하기](https://sunyzero.tistory.com/263)
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
 * [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
+* [unix permissions image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116315#gistcomment-4116315)
 * [리얼리눅스 제 1 회 세미나: "리눅스, 제대로 알고 코딩하자!"](https://www.slideshare.net/Real_Linux/1-169469250)
 * [11 Reasons You Should Learn to Use Linux](https://www.maketecheasier.com/reasons-learn-use-linux/)
 * [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
@@ -78,6 +79,8 @@ Linux
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [A Linux sysadmin's introduction to cgroups | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-one)
 * [What Are Namespaces and cgroups, and How Do They Work? - NGINX](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/)
+* [user namespaces image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116316#gistcomment-4116316)
+* [cgroups image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116312#gistcomment-4116312)
 * [How NAT traversal works · Tailscale Blog](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
@@ -135,6 +138,7 @@ Linux
 * [Linux's getrandom() Sees A 8450% Improvement With Latest Code - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Linux-getrandom-8450p)
 * [Moving the kernel to modern C LWN.net](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
   * [Linux kernel is switching to a modern C! Why? Lets study the source code and see why - YouTube](https://www.youtube.com/watch?v=-G1FuEQqxVI)
+* [cpu scheduling image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116314#gistcomment-4116314)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
