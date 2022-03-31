@@ -2578,6 +2578,7 @@ Programming
 * [조대협의 블로그 :: 분산형 데이터 분석 아키텍처-데이터 매쉬](https://bcho.tistory.com/1379)
 * [Data Mesh: an Architectural Deep Dive - YouTube](https://www.youtube.com/watch?v=kELM4aSHFIc)
 * [Data Mesh in the Real World: Lessons Learnt from the Financial Markets - YouTube](https://www.youtube.com/watch?v=84zIFcIGKWQ)
+* [Data Mesh: Data-Driven Value at Scale • Zhamak Dehghani & Samia Rahman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=CDWp_xyCdzw)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
@@ -3926,6 +3927,7 @@ Programming
 * [번역 왜 소프트웨어 개발은 예상보다 2~3배 더 오래 걸리는가? · Soojin Ro](https://soojin.ro/blog/sw-estimation) 크게 멋진 혹은 좋은 비유는 아니라고 생각하지만 그냥 참고로
 * [(2) Kent Beck 🌻 on Twitter: ""How long is it going to take to drive?" "Drive where?" "Nobody knows, we just need to know how long it is going to take." ...I'm too sad, you finish this..." / Twitter](https://mobile.twitter.com/KentBeck/status/1496239386530574336)
 * [Software Engineer roadmap via books | by Jake Russell | Medium](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
+* [고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스](https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
