@@ -507,6 +507,7 @@ Programming
 * [Java, Quarkus, Kafka, and more: The best of 2021 | Red Hat Developer](https://developers.redhat.com/articles/2021/12/22/java-quarkus-kafka-and-more-best-2021)
 * [Design Pattern Template Method Pattern](https://devkingdom.tistory.com/301)
 * [22 predictions about the Software Development trends in 2022 | by Md Kamaruzzaman | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/22-predictions-about-the-software-development-trends-in-2022-fcc82c263788)
+* [Top Ten Technology Trends For 2022 | by Ankur Kumar | Vedcraft | Feb, 2022 | Medium](https://medium.com/vedcraft/top-ten-technology-trends-for-2022-64ec9b08f454)
 * [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
 * [Airflow vs Luigi vs Argo vs Kubeflow vs MLFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 * [stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com ](https://github.com/255kb/stack-on-a-budget)
@@ -2949,7 +2950,7 @@ Programming
   * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
   * [Why should I have written ZeroMQ in C, not C++ (part I)](http://250bpm.com/blog:4)
 * Zuul 2
-  * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
+  * [Open Sourcing Zuul 2. The latest version of Netflix's Cloud… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
   * [Securing Netflix Studios At Scale Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479)
 
