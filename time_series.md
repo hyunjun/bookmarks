@@ -67,6 +67,14 @@ Time Series
 * [GokuL: Extending time series data storage to serve beyond one day](https://medium.com/pinterest-engineering/gokul-extending-time-series-data-storage-to-serve-beyond-one-day-52264307364d)
   * Pinterest writes about how they've extended their time series data store, Goku, to support querying of historical data. They tier data by compacting data through rebucketing and downsampling. For serving, they load data from S3 into RocksDB. The post goes into the details of the design of their RocksDB setup, cluster management functions, and the query processing framework.
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
+* [Grafana Mimir | Grafana Labs](https://grafana.com/oss/mimir/)
+  * [Announcing Grafana Mimir, the most scalable open source TSDB in the world | Grafana Labs](https://grafana.com/blog/2022/03/30/announcing-grafana-mimir/)
+    * Grafana에서 새로운 시계열 데이터베이스 Mimir를 오픈소스로 공개
+    * Grafana Labs의 VP 테크놀로지인 Tom Wilkie는 Weaveworks에서 Julius Volz와 함께 Promethues의 장기 스토리지로 Cortex를 만들고 이를 CNCF에 기부
+      * 2019~2021년까지 Grafana Labs는 Cortex의 87% 정도를 기여했지만
+      * Grafana의 사업상 AGPLv3 라이선스가 더 적합하고(이미 Grafana 프로젝트는 작년에 AGPLv3로 바꾸었고 Cortex는 Apache 라이선스)
+      * 기술에 대한 노력이 커뮤니티와 프로젝트에 다시 돌아올 수 있다고 얘기하고 있다
+    * Mimir는 Cortex 1.10.0 버전을 포크해서 만들었고 Cortex보다 40배 빠르다고 설명
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)
 * InfluxDB
