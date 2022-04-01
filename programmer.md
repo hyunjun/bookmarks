@@ -26,6 +26,7 @@ Programmer
 * [가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 | 요즘IT](https://yozm.wishket.com/magazine/detail/969/)
 * [11 Pieces Of Advice For Programmers | by Daan | Level Up Coding](https://levelup.gitconnected.com/11-pieces-of-advice-for-programmers-8bcbad6330e9)
 * [All the best engineering advice I stole from non-technical people | by Marianne Bellotti | Medium](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
+* [21 lessons I wish I’d known earlier in my software engineering career. | by Harsh Makadia | Geek Culture | Medium](https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1)
 * [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
 * [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
