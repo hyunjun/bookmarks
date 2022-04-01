@@ -211,6 +211,9 @@ Git
 * [Include diagrams in your Markdown files with Mermaid | The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
   * 텍스트 기반으로 다이어그램을 그릴 수 있는 Mermaid를 GitHub에서 지원
   * 이슈나 Pull Request 등 GitHub의 마크다운을 작성할 수 있는 곳에서 간단히 다이어그램 포함 가능
+* [Mermaid, topoJSON, geoJSON, and ASCII STL Diagrams Are Now Supported in Markdown and as Files | GitHub Changelog](https://github.blog/changelog/2022-03-17-mermaid-topojson-geojson-and-ascii-stl-diagrams-are-now-supported-in-markdown-and-as-files/)
+  * 최근 GitHub에 Mermaid 지원이 추가되어 마크다운에서 Mermaid 다이어그램 작성 가능
+  * 추가로 geojon이나 topojson으로 위치 범위를 표시하거나 stl로 3D 렌더링 표시 가능
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
@@ -317,6 +320,10 @@ Git
 * [Github Action 빌드 결과 Telegram Bot으로 보내기](https://jojoldu.tistory.com/659)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
   * [GitHub Actions by Example | GeekNews](https://news.hada.io/topic?id=5829)
+* [How to start using reusable workflows with GitHub Actions | The GitHub Blog](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
+  * GitHub Actions 워크플로우를 복사/붙이기 할 필요 없이 `workflow_call`로 다른 저장소의 워크플로우를 호출하는 방법 설명
+  * 액션에서 `workflow_call`를 지정하고 다른 저장소에서 `uses`로 호출할 수 있는데 저장소에서 접근 권한을 열어주어야 함
+  * 대신 private 저장소의 워크플로우는 참조할 수 없고 하나 이상을 참조도 불가능
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
   * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
@@ -921,6 +928,13 @@ Git
   * [Copilot 설명 및 사용기 | GeekNews](https://news.hada.io/topic?id=4745)
   * [GitHub's Copilot Still a Long Way From Autopilot](https://www.infoq.com/news/2021/10/github-copilot-study/)
   * [칼럼ㅣ깃허브 코파일럿에서 ‘희망’을 보았다 - CIO Korea](https://www.ciokorea.com/news/214314)
+  * [GitHub Next | GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/)
+    * GitHub이 공개한 AI 페어 프로그래머인 Copilot의 테크니컬 프리뷰를 하면서 제안 품질과 안정적인 기능을 개선하고 있는데
+      * 이를 더 도와줄 수 있는 GitHub Copilot Labs VS Code 익스텐션 공개
+    * 이 익스텐션에는 코드 설명하기(Explain this code), 코드 변환하기(Translate this code) 두 가지 기능 제공
+      * "Explain this code"는 코드 블록의 동작을 영어로 설명
+      * "Translate this code"는 해당 코드를 다른 프로그래밍 언어로 바꿔주는 기능
+    * 이 익스텐션은 Copilot 익스텐션을 필요로 하므로 현재는 Copilot 익스텐션을 사용할 수 있는 사람만 사용 가능
   * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
