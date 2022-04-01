@@ -1996,6 +1996,7 @@ App
   * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 - 넷마블 기술 블로그](https://netmarble.engineering/journey-to-wsl2-and-trouble-shooting/)
   * [WSL2 활용도를 높여주는 고정 IP 설정 - 넷마블 기술 블로그](https://netmarble.engineering/wsl2-static-ip-scheduler-settings/)
   * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 | 요즘IT](https://yozm.wishket.com/magazine/detail/1381/)
+  * [WSL2 에서 React.js 개발환경 설정하기](https://velog.io/@wongue_shin/WSL2-%EC%97%90%EC%84%9C-react-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
