@@ -1225,6 +1225,14 @@ Docker
   * 처음 Admission Webhook를 알았을 때는 사용해 볼 일이 없다고 생각했지만 만들게 되면서 Kubebuilder나 Operator SDK 등의 복잡한 프레임워크는 필요 없다고 판단하여 간단한 Go 웹서버를 만들어서 Admission Webhook에서 팟의 이름을 검증하고 Mutating 단계에서 환경을 주입하는 등의 간단한 동작을 하는 Admission Webhook을 설명하고 소스 코드도 공개
 * [What happens when you upgrade to Kubernetes v1.24? | jimangel.io](https://jimangel.io/post/dockershim-kubernetes-v1.24/) Docker-shim 제외. 2022 2Q 예정
 * [k8s 1.24에서 docker 지원 중단에 따른 container 런타임(docker, containerd, cri-o) 전환 방법](https://velog.io/@whereisdw/kubernetes-k8s-1.24%EC%97%90%EC%84%9C-container-%EB%9F%B0%ED%83%80%EC%9E%84-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EB%B2%95)
+* [Is Your Cluster Ready for v1.24? | Kubernetes](https://kubernetes.io/blog/2022/03/31/ready-for-dockershim-removal/)
+  * Kuberentes는 2020년 12월 Dockershim 폐기 예정 공지
+    * dockershim은 Docker 엔진을 Kubernetes의 컨테이너 런타임으로 사용할 수 있게 함
+    * 프로젝트 정책에 따라 1년의 유예기간을 두고 곧 출시될 v1.24에서 dockershim 제거 예정
+  * Docker 엔진에 대한 의존성이 있는지 검사하고(Docker Desktop으로 이미지를 빌드하는 건 Docker 의존성이 아님) 의존성이 있다면 다른 컨테이너 런타임으로 바꾸어야 한다
+    * [Check whether Dockershim deprecation affects you | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/check-if-dockershim-deprecation-affects-you/)
+  * AWS EKS, Azure AKS, Google GKE 같은 매니지드 Kubernetes를 사용한다면 특별히 커스터마이징 하지 않는 이상 신경 쓸 필요 없음
+  * 만약 Docker를 런타임으로 유지해야 한다면 dockershim의 대체 소프트웨어인 cri-dockerd를 사용해야 함
 * [주니어의 쿠버네티스 생태계에서 살아남기 - YouTube](https://www.youtube.com/watch?v=fvWHLrMjdmI)
   * [주니어의 쿠버네티스 생태계에서 살아남기](https://www.slideshare.net/InfraEngineer/ss-250837857)
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
