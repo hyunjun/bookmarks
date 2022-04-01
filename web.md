@@ -626,6 +626,12 @@ Web
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [HTML이 당신의 생각보다 더 중요한 이유 | ~/xo.dev](https://xo.dev/why-html-is-important-than-you-think/)
 * [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
+* [`<section>` 버리고 HTML5 `<article>` 써야 하는 이유 - WebactuallyWebactually | 웹사이트를 만드는 사람들을 위한 온라인 정보](https://webactually.com/2020/03/03/%3Csection%3E%EC%9D%84-%EB%B2%84%EB%A6%AC%EA%B3%A0-HTML5-%3Carticle%3E%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+  * HTML에서 어디에 어떤 요소를 써야 하는지는 오랫동안 나오는 질문, 이 글에서는 `<section>` 대신 `<article>` 권유
+    * 여기서 `<article>`이 신문 기사 같은 글이라기보다는 옷 한 벌처럼 하나의 콘텐츠라고 생각하라고
+  * 그러면 `<section>`은 어디 쓰는지가 궁금할 수 있는데 목차를 정할 수 있도록 만들어진 컨테이너 이므로 신경 쓸 필요가 없고
+    * `<h1>`등의 태그가 `<section>`과 만날 때 시각적으로는 어떻게 보이고 접근성 레벨에서는 어떻게 다른지 설명
+  * `<section>`을 쓰면 안 되는 것은 아니지만 접근성 제공 측면에서 요약 정도 등에 스크린리더가 알 수 있게 `<section>`을 사용하면 된다고 설명
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
@@ -924,6 +930,13 @@ Web
   * [Developing FastAPI Application using K8s & AWS - PyCharm Guide](https://www.jetbrains.com/pycharm/guide/tutorials/fastapi-aws-kubernetes/)
   * [Introduction to FastAPI and Local DynamoDB | by Agus Richard | Nerd For Tech | Jan, 2022 | Medium](https://medium.com/nerd-for-tech/introduction-to-fastapi-and-local-dynamodb-595c990ed0f8)
   * [FastAPI의 시대. 아직도 Flask 쓰시나요?](https://velog.io/@city7310/use-fastapi-instead-flask)
+    * [FastAPI의 시대. 아직도 Flask 쓰시나요?](https://planb.hashnode.dev/fastapi-flask)
+    * 오랫동안 Python 웹 프레임워크로 Flask를 사용하다가 FastAPI로 갈아타면서 FastAPI가 왜 좋은지 설명
+    * 전역 변수를 사용하는 Flask 대신 의존성 주입을 사용하는 FastAPI에서는
+      * 순수 함수로 코드 작성, 테스트도 쉽게 작성 가능
+      * context manager나 view decorator 대신 Depends를 이용해서 더 안전하고 쉽게 코드 작성
+    * 그 외에도 비동기에 기반한 동시성 제어 모델로 훨씬 좋은 성능
+    * 유효성 검사와 문서화 등 좋은 기능 제공
   * [Microservices with FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
