@@ -1342,6 +1342,7 @@ AWS
 * [데이터 웨어하우스란 무엇입니까? | 주요 개념 | Amazon Web Services](https://aws.amazon.com/ko/data-warehouse/)
 * [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
 * [AWS Introduces Amazon Redshift Serverless](https://www.infoq.com/news/2021/12/amazon-redshift-serverless/)
+* [Redshift DW에서 PG DM을 만드는 여정 | MADTECH](https://tech.madup.com/data-mart-1/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
