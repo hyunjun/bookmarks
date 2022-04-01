@@ -1009,6 +1009,12 @@ NLP
 * [GPT-3 공식문서번역 5. Get started - Usage guidelines — BetaMan의 공사장](https://betaman-workshop.tistory.com/67)
 * [AI Can Write in English. Now It's Learning Other Languages | WIRED](https://www.wired.com/story/ai-write-english-learning-other-languages/) GPT3
 * [Can’t Access GPT-3? Here’s GPT-J — Its Open-Source Cousin | by Alberto Romero | Towards Data Science](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11)
+* [New GPT-3 Capabilities: Edit & Insert](https://openai.com/blog/gpt-3-edit-insert/)
+  * OpenAI에서 GPT-3와 Codex 새 버전 릴리스
+    * 이 새 버전에서는 기존 텍스트를 완성하는 것만이 아니라 기존 텍스트를 수정하거나 내용 추가
+    * 이를 이용하면 기존 문단을 콘텍스트에 맞게 수정할 수도 있고 이미 작성된 코드를 업데이트도 가능
+  * [Building games and apps entirely through natural language using OpenAI’s code-davinci model – @AndrewMayne](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/)
+    * 이 모델을 사용해 자연어로 게임을 만들도록 지시만 하고 코드는 하나도 수정 안 한 채로 만든 게임 데모 공개
 * [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
