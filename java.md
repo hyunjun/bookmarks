@@ -1589,6 +1589,13 @@ Java
 * [Hello World! | 토리맘의 한글라이즈 프로젝트](https://godekdls.github.io/)
 * [RESTful API 서버를 위협하는 한 글자, 슬래시 | 요즘IT](https://yozm.wishket.com/magazine/detail/1347/)
 * [Securing Microservices with API Key Based Auth - Spring Cloud Gateway | JavaTechie - YouTube](https://www.youtube.com/watch?v=g4As3PLg6Ts)
+* [Spring Framework RCE, Early Announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
+  * Spring 프레임워크에서 RCE(원격 코드 실행) 취약점 발견
+  * 이 취약점은 VMware가 보고
+    * JDK 9 이상에서 Spring MVC와 Spring WebFlux 애플리케이션에 존재
+    * WAR 배포로 Tomcat에서 실행되었을 때 악용될 수 있고
+    * Spring Boot의 실행할 수 있는 jar로 배포했을 때는 취약하지 않음
+  * 이 취약점을 수정한 Spring 프레임워크 5.3.18, 5.2.20이 릴리스 되었고 Spring Boot 2.6.6, 2.5.12가 릴리스
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
