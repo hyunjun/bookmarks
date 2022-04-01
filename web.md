@@ -1081,6 +1081,7 @@ Web
 * [멱등성?](https://velog.io/@juunini/%EB%A9%B1%EB%93%B1%EC%84%B1)
 * [REST vs. GraphQL vs. gRPC · Dan Hacks](https://www.danhacks.com/software/grpc-rest-graphql.html)
 * [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
+* [13 REST API interview questions you need to know | by The Educative Team | Mar, 2022 | Grokking the Tech Interview](https://grokkinginterview.com/13-rest-api-interview-questions-you-need-to-know-f0e7ec857550)
 * [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 * [API Architecture - Design Best Practices for REST APIs | by Abdul Wahab | Medium](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 * [REST API 취약점 탐지 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-rest-api-fuzzing/)
