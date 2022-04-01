@@ -1139,6 +1139,11 @@ Programming
 * [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Multi-Tenant Application. Software Architecture | blackthorn.ai | by Alex Gurbych | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/multi-tenant-application-a29153d31c5a)
+* [What's Under the Hood of SaaS Companies (Hint: Why Multitenancy Matters)](https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies?s=r)
+  * 멀티테넌시가 SaaS 업체가 성공하기 위한 요구사항이라고 주장
+  * 초기 스타트업이 빠르고 지저분한 단일 테넌트 환경에서 시작할 수 있지만 성장하기 시작하면 멀티테넌트를 해결해야만 함
+  * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
+  * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
@@ -2346,6 +2351,15 @@ Programming
 * [Moving Java to Telco Cloud, with Mihai Ionita - YouTube](https://www.youtube.com/watch?v=VtOR_JROSRo)
 * [칼럼 기업에 CI/CD가 필요한 10가지 이유](https://it.donga.com/101955/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
+* [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
+  * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
+  * Dagger는 Buildkit과 CUE 기반으로 CI/CD 파이프라인으로 레고처럼 컴포넌트를 조립해서 원하는 CI/CD 파이프라인을 만들 수 있는 게 특징
+  * 복잡해지는 인프라와 애플리케이션의 요구사항을 맞추기가 더 어려워지는데
+  * Dagger를 이용해서 파이프라인을 소프트웨어로 다루어서 다음과 같은 장점을 가지고 파이프라인을 지속적으로 개선시킬 수 있다고 주장
+    * 쓰고 버리는 스크립트로 파이프라인을 연결하는 대신 선언적인 언어와 API 재사용 가능한 액션을 조합해 사용
+    * 액션은 안전하게 공유하고 재사용 가능
+    * 파이프라인은 로컬에서 테스트하고 디버깅 한 뒤 어떤 CI 시스템에서도 실행 가능
+    * 모든 액션은 자동으로 캐싱
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -3361,6 +3375,7 @@ Programming
   * [기술 뉴스 #192 : 22-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1581)
   * [기술 뉴스 #193 : 22-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1583)
   * [기술 뉴스 #194 : 22-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1585)
+  * [기술 뉴스 #195 : 22-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1587)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
