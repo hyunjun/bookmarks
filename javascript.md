@@ -3301,6 +3301,7 @@ Javascript
 * [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
   * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
 * [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
+* [react18 릴리즈 내용 살펴보기 - batch, transition, suspense](https://blog.naver.com/pjt3591oo/222688759129)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
