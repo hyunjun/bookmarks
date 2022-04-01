@@ -1199,6 +1199,12 @@ Javascript
 * [Dongjin | 자바스크립트 2021](https://dongqui.github.io//posts/es2021)
 * [WeakRefs와 Finalizers 위주로 정리해본 ES2021 · shiren the creator](https://blog.shiren.dev/2021-08-30/)
 * [ES Modules in Depth - ui.dev](https://ui.dev/esmodules/)
+* [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
+  * [ECMAScript 스펙을 읽는 법 (How to Read the ECMAScript Specification)](https://somedaycode.tistory.com/5)
+    * JavaScript의 명세인 ECMAScript의 명세는 처음 공부할 때는 권하지 않지만
+      * JavaScript에 익숙해지기 시작하면 언어/플랫폼의 복잡성을 이해하는데 명세가 도움이 될 것이라고 설명
+    * 명세를 처음부터 끝까지 읽는 사람은 없으므로 필요한 부분을 찾아서 보는 게 좋음
+    * 명세에서 많은 약칭과 규칙들이 있어서 처음 볼 때 어려운데 이러한 약칭을 설명하고 예시를 보여줘서 한번 파악해두면 ECMAScript 명세 볼 때 도움
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -1883,6 +1889,16 @@ Javascript
       * Next.js는 데이터에 따라 선형적으로 빌드 시간이 증가하지만, Remix의 빌드 타임은 거의 즉각적이고 데이터에 디커플링
       * Next.js는 애플리케이션 아키텍처를 변경하도록 강제하고 데이터가 커질 때 성능 희생
       * Remix의 추상화가 더 좋은 애플리케이션 코드를 유도한다(고 생각)
+  * [Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
+    * Remix 칭찬하는 글
+    * React는 UI를 만드는 라이브러리, UI를 만들려면 상태 필요, 이 상태 관리는 React가 책임지지 않음
+      * 그래서 Redux, MobX, Apollo, SWR 등 다양한 라이브러리를 사용해 상태 관리
+      * 이 상태는 보통 네트워크를 통해 서버에서 오게 되고 이 클라이언트와 서버 사이의 간격이 네트워크 캐즘
+    * 네트워크로 데이터를 가져오기 위해 요청을 보내는데 이 요청하는 코드를 가져와야 하니까 네트워크 폭포수 발생, 이로 인해 렌더링 지연
+    * React Router가 이 문제를 해결하기 위해 Remix의 접근방법을 가져와
+      * 라우팅과 로더(데이터 가져오기), 액션(데이터 조작)을 도입해서 컴포넌트에서 데이터 패칭을 디커플링
+    * 이도 충분히 좋지만 Remix를 사용하면 Backend for frontend의 역할까지 해주기 때문에
+      * 네트워크 캐즘을 Remix가 처리해 관련한 코드를 훨씬 더 적게 작성, 버그도 감소
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2128,6 +2144,12 @@ Javascript
     * 소스 코드는 브라우저의 네이티브 ESM을 이용해서 요청할 때마다 변환해서 제공하는 구조
     * 번들링을 다 하고 개발 서버를 실행하는 webpack에 비해서 로컬 개발 서버를 빠르게 실행 가능
     * 핫 모듈 교체(HMR)에도 네이티브 ESM을 사용해서 빠르게 변경사항 적용 가능
+  * [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
+    * Webpack을 번들러로 사용하고 있었지만 최근 새로운 번들러가 많이 나오면서 새로운 번들러를 테스트
+    * 처음에는 esbuild 사용
+      * 210초 걸리던 빌드를 2.16초로 만들었지만, 프로젝트의 코드상 Babel을 빌드에 추가해야 했고 HMR 미지원이 아쉬움
+    * 다음으로 Vite 시도
+      * 설정 파일을 1/6로 줄이고 HMR도 지원, 의존성과 소스코드를 따로 빌드하기 때문에 빠르게 개발 빌드 실행, 빌드도 250초에서 90초 정도로 감소
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
@@ -3302,6 +3324,13 @@ Javascript
   * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
 * [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 * [react18 릴리즈 내용 살펴보기 - batch, transition, suspense](https://blog.naver.com/pjt3591oo/222688759129)
+* [React v18.0 – React Blog](https://reactjs.org/blog/2022/03/29/react-v18.html)
+  * 18 버전 새 기능의 대부분은 새로운 concurrent 렌더러 위에 만들어졌고 18에서 가장 중요한 변경사항
+  * Concurrency는 기능이라기보다는 다양한 버전의 UI를 만들 수 있게 하는 메커니즘
+  * Concurrent는 엄밀히 호환 안 되는 변경사항이지만 대부분의 경우 변경 없이도 동작할 것
+  * Relay, Next, Hydrogen, Remix 같은 데이터 패칭 프레임워크에서 Suspense 사용 가능
+  * 서버와 클라이언트에 걸쳐 앱을 만들 수 있는 Server 컴포넌트는 아직 개발 중
+  * 18의 새로운 기능으로는 자동 배칭, 업데이트의 중요도를 구분할 수 있는 Transition, 로딩 상태를 선언적으로 지정할 수 있는 Suspense, 새 클라이언트/서버 렌더링 API
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
