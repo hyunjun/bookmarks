@@ -1558,6 +1558,7 @@ Scala
   * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
+* [yona: Project Hosting SW, DEMO](https://github.com/yona-projects/yona)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
 * [whatsub: A tool for subtitles - conversion and resync](https://github.com/Kevin-Lee/whatsub)
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
