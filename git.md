@@ -853,7 +853,7 @@ Git
   * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
   * [저장소 안에 저장소 - git submodule - YouTube](https://www.youtube.com/watch?v=TAe4uZqYt6c)
 * subtree
-  * [git subtree를 사용하여 재사용할 코드 독립 시키기](http://readme.skplanet.com/?p=8542)
+  * [~git subtree를 사용하여 재사용할 코드 독립 시키기~](http://readme.skplanet.com/?p=8542)
   * [Git subtree로 코드 공유하기](https://blog.rhostem.com/posts/2020-01-03-code-sharing-with-git-subtree)
 * [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
