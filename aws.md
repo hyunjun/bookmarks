@@ -745,6 +745,8 @@ AWS
 * [AWS로 클라우드 시작하기: ②EC2 | 요즘IT](https://yozm.wishket.com/magazine/detail/1328/)
 * [BigData Ubuntu(EC2)에 Apache Spark를 설치해보자](https://velog.io/@jodawooooon/BigData-UbuntuEC2%EC%97%90-Apache-Spark%EB%A5%BC-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [EC2 스파크 설치 및 EC2 이미지 생성 - 미완성의신](https://unfinishedgod.netlify.app/2022/03/28/aws-ec2-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%84%A4%EC%B9%98-%EB%B0%8F-ec2-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1/)
+* [GitOps Tutorial: How to Provision an EC2 Instance with Crossplane and Flux | HackerNoon](https://hackernoon.com/gitops-tutorial-how-to-provision-an-ec2-instance-with-crossplane-and-flux)
+  * Flux로 Git 소스 저장소를 등록하고 Kustomization을 이용해서 Crossplane으로 EC2 인스턴스를 생성해서 관리하도록 하는 흐름을 등록하는 과정 설명, 이를 테스트할 수 있는 예제 저장소 제공
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
