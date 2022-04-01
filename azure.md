@@ -162,6 +162,7 @@ Azure
 * [Azure Network Manager - Part 4](https://zigispace.net/1181)
 * [Azure Network Manager - Part 5](https://zigispace.net/1182)
 * [Azure Network Manager - Part 6](https://zigispace.net/1184)
+* [Azure Network Manager - Part 7](https://zigispace.net/1185)
 * [프리지아 랩 :: Azure에서 사용자 지정 역할 정의 만들 때 만난 오류 해결하기](https://www.dokyun.pe.kr/275)
 * [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed - YouTube](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 
