@@ -660,6 +660,7 @@
   * [Making Apache Spark™ Better with Delta Lake - YouTube](https://www.youtube.com/watch?v=LJtShrQqYZY)
   * [Tech Talk: Top Tuning Tips for Spark 3.0 and Delta Lake on Databricks - YouTube](https://www.youtube.com/watch?v=hcoMHnTcvmg)
   * [Delta Lakehouse Data Profiler and SQL Analytics Demo - YouTube](https://www.youtube.com/watch?v=58nT52VTzsQ)
+  * [Data Mesh and Lakehouse - Matei Zaharia, Databricks - YouTube](https://www.youtube.com/watch?v=a00rdlNtW98)
   * [Optimising Geospatial Queries with Dynamic File Pruning - YouTube](https://www.youtube.com/watch?v=3D5WhCqfOo8)
   * [Demystifying Delta Lake. Data Brew | Episode 3 - YouTube](https://www.youtube.com/watch?v=Zws7u9DC5SE)
   * [Delta Lake on Databricks Demo - YouTube](https://www.youtube.com/watch?v=BMO90DI82Dc)
