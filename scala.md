@@ -1826,6 +1826,7 @@ Scala
 * [Programming with Functions #9: Try, for-comprehensions, and monadic laws - YouTube](https://www.youtube.com/watch?v=iq8sTiYc5qM)
 * [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
 * [Monadic Resource Management in Scala :: Alberto Huélamo](https://alhuelamo.com/posts/2022/02/monadic-resource-management-in-scala/)
+* [**Monad란 무엇인가? - YouTube**](https://www.youtube.com/watch?v=jI4aMyqvpfQ)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
