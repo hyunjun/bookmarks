@@ -793,6 +793,7 @@ Scala
   * [Journey of Implicits in Scala. Implicits are the most ambivalent… | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-737a8db2f490)
   * [Journey of Implicits in Scala — part 2 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-2-18aec19c6bb5)
   * [Journey of Implicits in Scala — part 3 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-3-963f824ad9ba)
+  * [Scala & the Three Implicits | Medium](https://murraytodd.medium.com/scala-the-three-implicits-4fa68e9eb397)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1081,6 +1082,7 @@ Scala
   * [String Interpolation In Scala](https://blog.knoldus.com/string-interpolation-in-scala-2/)
   * [An Invitation From Scala String Interpolation](https://blog.knoldus.com/an-invitation-from-scala-string-interpolation/)
   * [Scala String Interpolation – TheCodersStop](https://thecodersstop.com/scala/scala-string-interpolation/)
+  * [Fancy strings in Scala 3](https://softwaremill.com/fancy-strings-in-scala-3/)
 * sys
   * process
     * [Executing Shell Commands From Scala](https://medium.com/@mcamara89/executing-shell-commands-from-scala-7001f8868128)
@@ -1933,6 +1935,7 @@ Scala
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* sbt-energymonitor [Announcing sbt-energymonitor | 47 Degrees](https://www.47deg.com/blog/sbt-energymonitor-plugin/)
 * [sbt-errors-summary: sbt plugin to show a summary of compilation messages](https://github.com/Duhemm/sbt-errors-summary)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
@@ -2087,6 +2090,7 @@ Scala
 * [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky - YouTube](https://www.youtube.com/watch?v=NXTjnowBx-c)
 * [Safer Exceptions in Scala 3. I mentioned in What’s Changed Since… | by Dean Wampler | Scala 3 | Jan, 2022 | Medium](https://medium.com/scala-3/safer-exceptions-in-scala-3-12c47100f050)
 * [Writing a simple CLI game in Scala 3](https://softwaremill.com/writing-a-simple-cli-game-in-scala-3/)
+* [Scala 3: “Erased” Definitions. Martin Odersky and the EPFL Scala… | by Dean Wampler | Scala 3 | Mar, 2022 | Medium](https://medium.com/scala-3/scala-3-erased-definitions-6130a30fbba4)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
