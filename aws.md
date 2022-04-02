@@ -950,6 +950,9 @@ AWS
 * [Serverless 101 (부제: 새해에 서버리스 찍.먹.해보기)](https://justdoit-teamblog.blogspot.com/2022/01/serverless-101.html)
 * [Serverless란?(1) :: All About Dev/Ops](https://zerone-code.tistory.com/6)
 * [How we built Melio’s payments platform on AWS Serverless | by Omer Baki | Melio’s R&D blog | Medium](https://medium.com/meliopayments/how-we-built-melios-payments-platform-on-aws-serverless-18f730c4d78a)
+* [Plain Journal • A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
+* [Cloud-Native Microservices Evolves to AWS Serverless Event-driven Architectures | by Mehmet Özkaya | AWS Serverless Microservices with Patterns & Best Practices | Mar, 2022 | Medium](https://medium.com/aws-serverless-microservices-with-patterns-best/cloud-native-microservices-evolves-to-aws-serverless-event-driven-architectures-9a38c473f4f8)
+  * [aws-microservices: AWS Serverless Event-driven Microservices with using AWS Lambda, AWS DynamoDB, AWS API Gateway, AWS EventBridge, AWS SQS, AWS CDK stands for Cloud Development Kit for IaC — Infrastructure as Code tool and AWS CloudWatch for monitoring.](https://github.com/awsrun/aws-microservices)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
