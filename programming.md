@@ -266,7 +266,7 @@ Programming
 * [What is Site Reliability Engineering | SRE | Easy Explanation - YouTube](https://www.youtube.com/watch?v=XXDwavw5KNs)
 * [Top Nine Skills for SREs to Master - DevOps.com](https://devops.com/top-nine-skills-for-sres-to-master/)
 * [What the SRE team wants to achieve with the development team | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
-* [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks?utm_medium=email)
+* [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -3441,6 +3441,7 @@ Programming
   * [월간 개발자스럽다 #74 - 개발자스럽다](https://blog.gaerae.com/2021/12/monthly.html)
   * [월간 개발자스럽다 #75 - 개발자스럽다](https://blog.gaerae.com/2022/01/monthly.html)
   * [월간 개발자스럽다 #76 - 개발자스럽다](https://blog.gaerae.com/2022/02/monthly.html)
+  * [월간 개발자스럽다 #77 - 개발자스럽다](https://blog.gaerae.com/2022/03/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
@@ -4216,6 +4217,7 @@ Programming
 * [디아블로 II: 레저렉션 서버 문제에 대한 설명 및 그간의 개선 노력과 향후 계획 안내 - 일반 토론장 - Diablo 2 Resurrected Forums](https://kr.forums.blizzard.com/ko/d2r/t/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C-ii-%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98-%EC%84%9C%EB%B2%84-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B7%B8%EA%B0%84%EC%9D%98-%EA%B0%9C%EC%84%A0-%EB%85%B8%EB%A0%A5%EA%B3%BC-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D-%EC%95%88%EB%82%B4/13261) architecture 관점에서 취한 조치들에 주목
 * [우리는 모의장애훈련에 진심입니다. – part1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+* [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
