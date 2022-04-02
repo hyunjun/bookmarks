@@ -1147,7 +1147,6 @@
 * [K-Means clustering with Apache Spark and Zeppelin notebook on Docker](https://medium.com/rahasak/k-means-clustering-with-apache-spark-and-zeppelin-notebook-on-docker-4ed2db66c3c8)
 * [Zeppelin notebook shortcuts - Mk’s Blog](https://moons08.github.io/programming/zeppelin_shortcuts/)
 * [Using Apache Zeppelin with SQL Server | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-apache-zeppelin-with-sql-server-d1964207ac5e)
-* [Zeplin ML: a ML plugin for Zeplin - YouTube](https://www.youtube.com/watch?v=a3jANIGk5EA)
 * [📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=_7EP_FYVR-s)
   * [zeppelin](https://okdevtv.com/mib/zeppelin)
 * [📊제플린 쉽게 시작하기 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=y-GWhTNW3sk)
