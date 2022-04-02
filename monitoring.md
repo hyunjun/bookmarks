@@ -56,7 +56,7 @@ Monitoring
 * [MySQL Monitoring with Telegraf, InfluxDB & Grafana](https://hackernoon.com/mysql-monitoring-with-telegraf-influxdb-grafana-4489e6df0220)
 * [Install Glances, InfluxDB and Grafana to Monitor CentOS 7](https://www.tecmint.com/install-glances-influxdb-grafana-to-monitor-centos-7/)
 * [Monitoring Servers and Docker Containers using Elasticsearch with Grafana](https://medium.com/skedler/monitoring-servers-and-docker-containers-using-elasticsearch-with-grafana-c61dab0a34a2)
-* [Grafana](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
+* [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [그라파나(Grafana)란? | 44BITS](https://www.44bits.io/ko/keyword/grafana)
 * [Get started with Prometheus with these three easy projects | Grafana Labs](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
 * [Tips for Designing Grafana Dashboards - Percona Database Performance Blog](https://www.percona.com/blog/2019/11/22/designing-grafana-dashboards/)
@@ -189,3 +189,4 @@ Monitoring
 * [CNCF Prometheus Agent Could Be a ‘Game Changer’ for Edge – The New Stack](https://thenewstack.io/cncf-prometheus-agent-could-be-a-game-changer-for-edge/)
 * [What Is Prometheus and Why Is It So Popular? – CloudSavvy IT](https://www.cloudsavvyit.com/15124/what-is-prometheus-and-why-is-it-so-popular/)
 * [How to set up API monitoring with Prometheus & Grafana | Golang API - YouTube](https://www.youtube.com/watch?v=pP2DKCKR4CQ)
+* [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
