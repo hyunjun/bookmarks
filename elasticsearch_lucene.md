@@ -778,6 +778,7 @@ ElasticSearch - Lucene
 * [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
   * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
+* [검색 데이터 서빙 플랫폼 구축](https://zuminternet.github.io/SearchPilotProject)
 * [solrpy - solr with python3](https://github.com/search5/solrpy3)
 
 # Tutorial
