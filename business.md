@@ -92,7 +92,6 @@ Business
 * [중간 관리자의 역할 - 취합만 하고 마구 간섭하는 자리가 아니다](https://brunch.co.kr/@lunarshore/297)
 * [구글이 제시한 '관리자의 자격' - ZDNet korea](https://zdnet.co.kr/view/?no=20170227091914)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
-* [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
 * [개발자가 조직문화에 대해 관심을 가져야 하는 이유](https://evan-moon.github.io/2019/08/06/developer-with-organizational-culture/)
@@ -189,6 +188,7 @@ Business
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
 * [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
 * [동료와 직원의 차이는 무엇일까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249607)
+* [직장에 못된 놈 많은데…그들이 잘나간다고요? 뉴욕대 심리학 교수 인터뷰 - 매일경제](https://www.mk.co.kr/news/business/view/2022/03/243963/) 못된 직장 동료들을 어떻게 대할까
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
@@ -852,6 +852,7 @@ Business
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
 * [신수정의 리더십 코칭 ① 리더라면 갖춰야 할 '무시당할 용기'](http://www.ttimes.co.kr/view.html?no=2020021310187718217)
+* [신수정의 리더십 코칭 ⑨ 전문가는 자신이 움직이고 리더는 타인을 움직인다 - T Times](http://www.ttimes.co.kr/view.html?no=2020040814187746617)
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
@@ -906,6 +907,7 @@ Business
 * [Biz times 강한 리더는 필요하다…조직원을 강하게 만드는 리더는 꼭 필요하다 - 매일경제](https://www.mk.co.kr/news/business/view/2021/08/824257/)
 * [인정리더 vs. 존경리더](https://brunch.co.kr/@say2lee/49)
 * [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
+* [직장인을 위한 김호의 ‘생존의 방식’ ‘겸손한 질문’이 조직을 살린다](https://www.donga.com/news/Society/article/all/20170621/84982076/1)
 * [권력을 분담하면 기업이 개선된다 | 지속가능성 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/12_1/article_no/1742/page/1)
 * [조직 구성원의 새로운 시도를 독려하는 리더쉽 행동 가이드](https://www.linkedin.com/posts/feeljae-kim-896bb3185_%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8F%84%EB%A5%BC-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EC%89%BD-%ED%96%89%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C-activity-6839891738522476544-Hhul/)
 * ['완전한 솔직함'이 리더십의 중요한 원칙으로 떠오르는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/honesty20190820)
@@ -1002,6 +1004,7 @@ Business
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
 * [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
+* [Hard to work with. | Irrational Exuberance](https://lethain.com/hard-to-work-with/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -1178,7 +1181,10 @@ Business
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
+* [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
 * [가장 빨리 성장한 스타트업들의 11가지 교훈](http://ppss.kr/archives/44128)
+* [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
+* [위대한 비즈니스에서 배우는 교훈 | GeekNews](https://news.hada.io/topic?id=6247)
 * [와이콤비네이터의 폴 그레이엄이 전하는 ‘초기 유저 확보를 위한 5가지 조언’](http://besuccess.com/2015/06/paulgraham/)
 * [창업 성공을 위해 잊지 말아야 할 격언 100가지](http://ppss.kr/archives/49102)
 * [HR연구소 시장님은 왜 금메달을 깨물었나](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=876) 활동적 타성(active inertia), 성공을 위해 지금까지 좋았던 방식을 고수할 것인가
@@ -1190,7 +1196,6 @@ Business
 * [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
-* [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
@@ -1275,7 +1280,7 @@ Business
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
-* [Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube](https://www.youtube.com/watch?v=euxI9vljXw8)
+* [**Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube**](https://www.youtube.com/watch?v=euxI9vljXw8)
   * [company assessment](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112149#gistcomment-4112149)
   * [self assessment](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112151#gistcomment-4112151)
   * [company fit](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112153#gistcomment-4112153)
@@ -1283,7 +1288,9 @@ Business
   * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
+* [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
+* [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
