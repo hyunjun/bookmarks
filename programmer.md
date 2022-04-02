@@ -142,6 +142,7 @@ Programmer
 * [Introducing The Complete Computer Science Career Path](https://www.codecademy.com/resources/blog/introducing-the-complete-computer-science-career-path/)
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
+* [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
