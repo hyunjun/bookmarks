@@ -75,6 +75,7 @@ Time Series
       * Grafana의 사업상 AGPLv3 라이선스가 더 적합하고(이미 Grafana 프로젝트는 작년에 AGPLv3로 바꾸었고 Cortex는 Apache 라이선스)
       * 기술에 대한 노력이 커뮤니티와 프로젝트에 다시 돌아올 수 있다고 얘기하고 있다
     * Mimir는 Cortex 1.10.0 버전을 포크해서 만들었고 Cortex보다 40배 빠르다고 설명
+  * [Grafana Mimir - 초고속 시계열DB 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=6268)
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)
 * InfluxDB
