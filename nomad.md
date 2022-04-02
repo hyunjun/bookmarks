@@ -350,3 +350,5 @@ Nomad & Remote
 * [Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=j62yCp_J-Zw)
 * [구글이 재택근무 직원의 임금 삭감 검토하는 이유](https://brunch.co.kr/@eddle/220)
 * ['재택근무 이렇게 하세요' 구글이 알려주는 5가지 노하우](https://news.v.daum.net/v/20200319172156979)
+* [‘한 지붕 두 목소리’ 사무실 복귀 둘러싼 기업·직원 동상이몽 - CIO Korea](https://www.ciokorea.com/news/229454)
+* [How many jobs can be done at home? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047272720300992)
