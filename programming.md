@@ -3255,6 +3255,7 @@ Programming
   * [3월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/03/b-3-1.html)
   * [3월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/03/b-3.html)
   * [3월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/03/b-3-3.html)
+  * [3월 5주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-3-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -3834,6 +3835,7 @@ Programming
   * [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518)
   * [Practical API Design at Netflix, Part 2: Protobuf FieldMask for Mutation Operations | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4)
   * [Performance comparison: REST vs gRPC vs asynchronous communication | by Tim Bastin | l3montree TechBlog | Feb, 2022 | Medium](https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13) go code
+  * [Implement gRPC client in Golang - YouTube](https://www.youtube.com/watch?v=Xjy_RdSd6XU)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
