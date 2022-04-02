@@ -1101,6 +1101,7 @@ Web
 * [REST API 취약점 탐지 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-rest-api-fuzzing/)
 * [Horatiu Dan - Respectful REST APIs – ‘Sunset’ and ‘Deprecation’ HTTP Headers - YouTube](https://www.youtube.com/watch?v=wnFtt0oNTLU)
 * [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs | by Dominic C | Jan, 2022 | Better Programming](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
+* [Your CRUDy APIs Aren't Great. Build Better APIs | Level Up Coding](https://levelup.gitconnected.com/whats-wrong-with-your-crudy-interfaces-besides-everything-bde4f4c8cb8a)
 * [REST API Design - Resource Modeling | Thoughtworks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 * [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
   * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
