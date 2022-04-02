@@ -833,6 +833,7 @@ Web
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * [Infra 리버스 프록시(reverse proxy) 서버 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/reverse-proxy/)
 * [**System Design Basics: Proxy vs. Reverse Proxy | by Coder girl | InterviewNoodle | Medium**](https://medium.com/interviewnoodle/system-design-basics-proxy-vs-reverse-proxy-90d48da385be)
+* [A Primer on Proxies](https://blog.cloudflare.com/a-primer-on-proxies/)
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
