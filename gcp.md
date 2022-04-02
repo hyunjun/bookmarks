@@ -140,11 +140,13 @@ Google Cloud Platform GCP
 * [A Quick Tour of 7 Google Cloud Service for Data Engineering and Analytics | by Jerry An | Geek Culture | Medium](https://medium.com/geekculture/a-quick-tour-of-7-google-cloud-service-for-data-engineering-and-analytics-7860933df10e)
 * [Open sourcing the App Engine Standard Java runtime | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime)
   * [구글 AppEngine 자바 런타임 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=5855)
+  * [Google Java App Engine Standard is Now Open Source](https://www.infoq.com/news/2022/03/google-appengine-java/)
 * [Google's Managed Continuous Delivery Service for Kubernetes Moves to GA](https://www.infoq.com/news/2022/02/google-cloud-deploy/)
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
 * [What is Google Dataplex? — The Data Fabric | by Christianlauer | CodeX | Mar, 2022 | Medium](https://medium.com/codex/what-is-google-dataplex-the-data-fabric-a6faf37e746f)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
+* [Growing Concerns among Developers about Google Cloud Price Increases](https://www.infoq.com/news/2022/03/google-cloud-prices/)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
