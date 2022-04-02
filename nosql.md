@@ -266,6 +266,7 @@ NoSQL
   * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
   * [Top 5 Reasons to Learn Firebase in 2022](https://javarevisited.blogspot.com/2020/06/why-frontend-developer-should-learn-Firebase.html)
   * [Python으로 FCM push 보내기 - 이상선 - Medium](https://medium.com/@sunyi233/python%EC%9C%BC%EB%A1%9C-fcm-push-%EB%B3%B4%EB%82%B4%EA%B8%B0-431b7a17c151)
+  * [Firebase로 회원 시스템 만들기. 구글의 Firebase와 AWS의 API Gateway를 잘 연결하면… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/firebase%EB%A1%9C-%EC%9E%90%EC%B2%B4-%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-c9765d8572c3)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
