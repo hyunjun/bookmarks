@@ -198,6 +198,7 @@ Bitcoin
 * [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
 * [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
+* [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
   * [Ethereum ditching Solidity for Vyper?(이더리움은 바이퍼 때문에 솔리디티를 버렸나?)](https://medium.com/@elastic7327/ethereum-ditching-solidity-for-vyper-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EB%B0%94%EC%9D%B4%ED%8D%BC-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%EB%A5%BC-%EB%B2%84%EB%A0%B8%EB%82%98-a47434e02d56)
@@ -266,6 +267,7 @@ Bitcoin
 * [상상초월 가격의 NFT 그림, 정말 그만한 가치가 있을까? 유현준이 보는 NFT 예술 - YouTube](https://www.youtube.com/watch?v=9z4rfZjEGWA) 기술 이야기는 아니지만 재미있게 볼 수 있음
 * [NFT를 공부하려다 알게된 Meebits](https://androidkr.blogspot.com/2022/02/nft-meebits.html)
 * [보안팀이 소개하는 LINE 개발팀 LINE NEXT](https://beist.notion.site/LINE-LINE-NEXT-f51fe3e26453498a9eca0f3a89fbea3e)
+* [일본 NFT 시장 동향, 그리고 대중화를 향한 길 | by Ethan Lee | a41 Ventures | Medium](https://medium.com/a41-ventures/nft-%EC%9D%BC%EB%B3%B8-nft-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8C%80%EC%A4%91%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EA%B8%B8-7759b1a89529)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
   * 프로젝트의 범위에는 아트웍, 민팅, 웹사이트, 커뮤니티, 화이트리스트, 마켓플레이스, 리딤 등이 포함
