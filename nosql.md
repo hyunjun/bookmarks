@@ -42,6 +42,7 @@ NoSQL
 * [Airbridge가 직접 개발한 OLAP DB, Luft를 소개합니다](https://blog.ab180.co/posts/introducing-luft)
 * [How Discord Stores Billions of Messages | by Stanislav Vishnevskiy | Discord Blog](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * [Xata | Serverless Jamstack Database](https://www.xata.io/) combination of a relational database, an analytics engine, and a free-text search engine
+* [Writing a document database from scratch in Go: Lucene-like filters and indexes | notes.eatonphil.com](https://notes.eatonphil.com/documentdb.html)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
