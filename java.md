@@ -856,6 +856,7 @@ Java
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
   * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
+  * [Amazon Corretto 18 정식 버전 출시](https://aws.amazon.com/ko/about-aws/whats-new/2022/03/amazon-corretto-18/)
   * [Heapothesys - an Open-Source GC Latency Benchmark by Amazon Corretto](https://www.infoq.com/news/2020/09/introducing-heapothesys/)
 * [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
