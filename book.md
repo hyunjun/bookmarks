@@ -190,6 +190,8 @@ Book
 * (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
 * (NOT YET) [임포스터 (Imposter)](https://blog.naver.com/junedec369/222670625109)
   * 탐라, 우당
+* (NOT YET) [소년은 어떻게 사라지는가](https://blog.naver.com/nextdoor72/221650443129)
+  * 서부, 한경
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
