@@ -639,6 +639,7 @@ NLP
 * [AI 모델 탐험기 #1 프롤로그: 인공지능의 달에 착륙하다 | by AI Network | AI Network_KR | Mar, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-1-%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%8B%AC%EC%97%90-%EC%B0%A9%EB%A5%99%ED%95%98%EB%8B%A4-7377c829ab96)
 * [1일차 - 딥러닝 챗봇 만들기 스터디 후기 - 토크나이징, 임베딩, 텍스트 유사도 : 네이버 카페](https://cafe.naver.com/ai4kr/517)
 * [Using Semantic Search to Drive Smart Annotations for Chatbot Models | by Samarth Agarwal | DBS Tech Blog | Jan, 2022 | Medium](https://medium.com/dbs-tech-blog/using-semantic-search-to-drive-smart-annotations-for-chatbot-models-f317db7fd41e)
+* [인공지능 대화 데이터, 언어 전문가가 만들어야 하는 이유](https://blog.naver.com/textnetofficial/222678979440)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
