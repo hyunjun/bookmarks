@@ -209,6 +209,7 @@ SQL
 * [How to choose the right database for your project | by Anthony Papoutsis | Mar, 2022 | Medium](https://apapoutsis.medium.com/how-to-choose-the-right-database-for-your-project-ffd4bf054833)
 * [How to choose the right database for your service | by Natan Silnitsky | Wix Engineering | Medium](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
 * [“데이터 계층을 위한 탄력적 컴퓨팅” 서버리스 데이터베이스의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/228914)
+* [A database for 2022 · Tailscale](https://tailscale.com/blog/database-for-2022/)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -547,6 +548,7 @@ SQL
 * utf8mb4
   * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
   * [In MySQL, never use “utf8”. Use “utf8mb4”. | by Adam Hooper | Medium](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)
+  * [Migrating to utf8mb4: Things to Consider - Percona Database Performance Blog](https://www.percona.com/blog/migrating-to-utf8mb4-things-to-consider/)
 * [Calculating disk space usage per MySQL DB](https://dba.stackexchange.com/questions/14337/calculating-disk-space-usage-per-mysql-db)
 * [How to Install Only MySQL Client on CentOS, Redhat, Fedora and Ubuntu](http://www.looklinux.com/install-mysql-client-on-centos-redhat-fedora-and-ubuntu/)
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
@@ -955,9 +957,6 @@ SQL
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦](https://github.com/orioledb/orioledb)
-* [postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
-  * [PostgREST Documentation — PostgREST 9.0.0 documentation](https://postgrest.org/)
-  * [backend.sql + frontend.js =♥ - Polyglot.Network Blog](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 * [pg2ch: Data streaming from postgresql to clickhouse via logical replication mechanism](https://github.com/mkabilov/pg2ch)
 * [pgagroal - a high-performance protocol-native connection pool for PostgreSQL](https://agroal.github.io/pgagroal/)
 * [pgBackRest - The Best Postgres Backup Tool with a very active community](https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-with-a-very-active-community/)
@@ -985,6 +984,9 @@ SQL
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
+  * [backend.sql + frontend.js =♥ - Polyglot.Network Blog](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
+* [Postico – a modern PostgreSQL client for the Mac](https://eggerapps.at/postico/)
+* [postlite: Postgres wire compatible SQLite proxy](https://github.com/benbjohnson/postlite)
 * [Psycopg - PostgreSQL driver for Python](https://www.psycopg.org/)
   * [Psycopg2 Tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
   * [Error: pg_config executable not found](https://ohgyun.com/787)
