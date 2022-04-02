@@ -281,7 +281,6 @@ Network
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
   * [Nebula, 슬랙이 공개한 Global Overlay Network 오픈소스 | GeekNews](https://news.hada.io/topic?id=940)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
-* [packet-analyzer - a simple Wireshark frame dissector plugin written in Lua](https://github.com/shanicohen1902/packet-analyzer)
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * Portmaster [Safing Portmaster](https://safing.io/portmaster/)
   * [Portmaster - 오픈소스 네트워크 모니터 & 방화벽 | GeekNews](https://news.hada.io/topic?id=5676)
@@ -293,6 +292,9 @@ Network
 * [TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere](https://github.com/KasperskyLab/TinyCheck)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
+* Wireshark
+  * [Decrypting your own HTTPS traffic with Wireshark – Trickster Dev](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
+  * [packet-analyzer - a simple Wireshark frame dissector plugin written in Lua](https://github.com/shanicohen1902/packet-analyzer)
 
 # Protocol
 * [BGP in a Nutshell | std::bodun::blog](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/) Border Gateway Protocol (BGP)
