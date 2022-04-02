@@ -266,6 +266,7 @@ Programming
 * [What is Site Reliability Engineering | SRE | Easy Explanation - YouTube](https://www.youtube.com/watch?v=XXDwavw5KNs)
 * [Top Nine Skills for SREs to Master - DevOps.com](https://devops.com/top-nine-skills-for-sres-to-master/)
 * [What the SRE team wants to achieve with the development team | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
+* [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks?utm_medium=email)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -445,6 +446,8 @@ Programming
 * [What Is Technical Debt and Why Is It So Painful? | by Ben "The Hosk" Hosking | Jan, 2022 | Dev Genius](https://blog.devgenius.io/what-is-technical-debt-and-why-is-it-so-painful-96ef269aebd4)
 * [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
 * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
+* [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
+* [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
@@ -516,6 +519,7 @@ Programming
 * [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
 * [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
+* [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1144,6 +1148,7 @@ Programming
   * 초기 스타트업이 빠르고 지저분한 단일 테넌트 환경에서 시작할 수 있지만 성장하기 시작하면 멀티테넌트를 해결해야만 함
   * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
   * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
+  * [SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가 | GeekNews](https://news.hada.io/topic?id=6243)
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
@@ -1518,6 +1523,7 @@ Programming
 * [2019 PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube](https://www.youtube.com/watch?v=l195D5WT_tE)
 * [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
 * [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
+* [Conquering Microservices Complexity @Uber with Distributed Tracing](https://www.infoq.com/presentations/uber-microservices-distributed-tracing/) increase observability with tracing
 * [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
 * [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
 * [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
@@ -1608,6 +1614,8 @@ Programming
 * [느슨한 설계시점 결합을 안하면 무엇이 문제인가?](https://brunch.co.kr/@graypool/360)
 * [느슨한 설계시점 결합은 어떻게 구현하나?](https://brunch.co.kr/@graypool/366)
 * [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
+* [**Microservices External API Integration Patterns | by Neeraj Kushwaha | Mar, 2022 | Medium**](https://learncsdesign.medium.com/microservices-external-api-integration-patterns-60982701829d)
+* [Complex Systems: Microservices and Humans](https://www.infoq.com/presentations/microservices-best-practices/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2361,6 +2369,7 @@ Programming
     * 액션은 안전하게 공유하고 재사용 가능
     * 파이프라인은 로컬에서 테스트하고 디버깅 한 뒤 어떤 CI 시스템에서도 실행 가능
     * 모든 액션은 자동으로 캐싱
+  * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
