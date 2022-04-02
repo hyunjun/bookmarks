@@ -352,3 +352,4 @@ Nomad & Remote
 * ['재택근무 이렇게 하세요' 구글이 알려주는 5가지 노하우](https://news.v.daum.net/v/20200319172156979)
 * [‘한 지붕 두 목소리’ 사무실 복귀 둘러싼 기업·직원 동상이몽 - CIO Korea](https://www.ciokorea.com/news/229454)
 * [How many jobs can be done at home? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047272720300992)
+* [Work Trend Index: Microsoft’s latest research on the ways we work](https://www.microsoft.com/en-us/worklab/work-trend-index) 코로나 19 팬데믹 장기화로 원격 근무를 경험하면서 개인 가치의 변화가 생겨 팬데믹이 끝나도 예전과 같은 업무 환경으로는 돌아갈 수 없다는 결과
