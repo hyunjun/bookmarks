@@ -748,6 +748,8 @@ Docker
 * [도커 : 이미지 만드는 법 - Dockerfile & build - YouTube](https://www.youtube.com/watch?v=0kQC19w0gTI)
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
+* [Best practices for writing Dockerfiles | Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 * [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
 * [dockerfile: Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
 * practice
@@ -768,7 +770,6 @@ Docker
 * [**How to write Dockerfiles for Python Web Apps**](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d)
 * [Dockerfile Tutorial with Example | Creating your First Dockerfile | Docker Training | Edureka](https://www.youtube.com/watch?v=2lU9zdrs9bM)
 * [Spacewalk latest Docker image 제작기](https://tech.osci.kr/spacewalk/2019/01/07/55869620/)
-* [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 * [Dockerfile의 모든 것 | Gracefullight](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * [도커 이미지 빌드와 Dockerfile 기초 | 44BITS](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 * [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
@@ -785,6 +786,7 @@ Docker
   * Dockerfile에서 latest 태그를 지정하면 지속적 배포의 중요한 요구사항인 재현 가능하고 멱등한 빌드를 깨뜨려서 프로덕션에서 문제 발생 가능
   * Python, npm, Terraform 등 다른 생태계에서도 버전을 지정할 것을 권장하고 lock 파일도 꼭 커밋해서 관리할 것을 권장
   * [:latest 를 사용하지 마세요 | GeekNews](https://news.hada.io/topic?id=6097)
+* [`COPY --chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -1290,6 +1292,8 @@ Docker
 * [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
 * [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 * [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
+* [Multi-Tenancy in Kubernetes](https://www.infoq.com/presentations/multi-tenancy-kubernetes/)
+* [Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends](https://www.infoq.com/articles/kubernetes-workloads-serverless-era/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
