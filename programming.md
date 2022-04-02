@@ -2369,6 +2369,7 @@ Programming
     * 액션은 안전하게 공유하고 재사용 가능
     * 파이프라인은 로컬에서 테스트하고 디버깅 한 뒤 어떤 CI 시스템에서도 실행 가능
     * 모든 액션은 자동으로 캐싱
+  * [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
@@ -2713,7 +2714,7 @@ Programming
   * subicura님이 정리한 DevOps 안내서
   * 스타트업에서 DevOps를 도입한다는 가상의 시나리오에 따라 Node.js 웹 애플리케이션을 만들고 이를 자동화하는 과정 정리
   * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
-* [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
+* [An Engineer’s Guide to a Good Night’s Sleep](https://www.infoq.com/articles/engineers-guide-to-sleep/)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
@@ -3939,6 +3940,8 @@ Programming
   * [mikeckennedy (Michael Kennedy)](https://github.com/mikeckennedy)
   * secure.py, NWebsec, sourcetree, github desktop, loguru, logbook, sentry.io, let's encrypt, pagespeed insights
 * [Blog Series of Introduction of Developer Productivity Engineering at Mercari | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220116-blog-series-of-introduction-of-developer-productivity-engineering-at-mercari/)
+* [In 1911, a genius revealed a forgotten science of how to be 50x more productive without working more hours | by Michael Simmons | Accelerated Intelligence | Mar, 2022 | Medium](https://medium.com/accelerated-intelligence/in-1911-an-influential-expert-revealed-a-forgotten-science-of-how-to-be-50x-more-productive-8828f86eb1c9) taylor에 대한 이야기인데 영어 실력 탓으로 진심인지 반어법인지 모르겠음
+* [Maybe you should do less 'work' - John's internet house](https://www.johnwhiles.com/posts/work.html) productivity
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
@@ -3958,6 +3961,8 @@ Programming
 * [(2) Kent Beck 🌻 on Twitter: ""How long is it going to take to drive?" "Drive where?" "Nobody knows, we just need to know how long it is going to take." ...I'm too sad, you finish this..." / Twitter](https://mobile.twitter.com/KentBeck/status/1496239386530574336)
 * [Software Engineer roadmap via books | by Jake Russell | Medium](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
 * [고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스](https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product)
+  * [고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스 | GeekNews](https://news.hada.io/topic?id=6273)
+* [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
