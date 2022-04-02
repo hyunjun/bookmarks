@@ -21,6 +21,7 @@ Programming Books
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
 * [2021 개발자 필독서 ](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)
+* [어떻게 준비하면 인프랩에 입사할 수 있나요](https://jojoldu.tistory.com/661)
 * [OKKY - 절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
 * [79. 앱 개발 책 - 2021](https://brunch.co.kr/@topasvga/1452)
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
@@ -1858,6 +1859,7 @@ Programming Books
   * [Study Object book Content Repository](https://github.com/LenKIM/object-book)
 * (NOT YET) [오브젝트 디자인 스타일 가이드: 팀의 생산성을 높이는 고품질 객체지향 코드 작성법 | 위키북스](https://wikibook.co.kr/odsg/)
 * (NOT YET) [헤드 퍼스트 디자인 패턴(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6113501223)
+* (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 
 # PHP
 
