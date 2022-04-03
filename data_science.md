@@ -306,6 +306,7 @@ Data Science
 * [제로베이스 데이터 사이언스 스쿨 | 직무 인터뷰 ③ 현직 네이버 계열사 데이터 분석가가 말하는 ‘데이터 분석가의 일’ | zero-base](https://zero-base.co.kr/event/media_ds_school_interview_da)
 * [컬리에서 데이터 분석가로 일한다는 것 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/how-to-work-da/) 요구사항에 대한 이야기가 인상적, 맘에 듦
 * [Becoming A Data Analyst: Step by Step Guide - YouTube](https://www.youtube.com/watch?v=mzE-6l5W4QE)
+* [interview 아이디어스팀이 데이터로 일하는 방법. 아이디어스팀의 데이터 기반으로 일하는 문화를 함께 만들어가고 있는… | by Saeyeon Park | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80%EC%9D%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-9f127a90fefe)
 * [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce)
 * [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
