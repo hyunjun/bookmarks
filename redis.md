@@ -71,6 +71,7 @@ Redis
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
 * [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
 * [**Dave Nielsen: Top 5 uses of Redis as a Database**](https://www.youtube.com/watch?v=jTTlBc2-T9Q) 내부 구조 기초
+* [Redis as a Database. I’ve been using Redis a lot in the past… | by Tzafrir Ben Ami | Wix Engineering | Medium](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 * [Redis Labs and SQL Server](https://www.youtube.com/watch?v=XQ9QEgLZAcQ)
 * [Build A Node.js & Redis App From Scratch](https://www.youtube.com/watch?v=9S-mphgE5fA)
 * [05 01 Implementing a Redis Cache](https://www.youtube.com/watch?v=ECz6Mv3T7Ec)
