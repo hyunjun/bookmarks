@@ -1305,6 +1305,7 @@ AWS
 * [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
 * [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
 * [Migrating to AWS Managed Streaming Kafka (MSK) | by Sandeep Mehta | softrock.io | Jan, 2022 | Medium](https://medium.com/softrock-io/migrating-to-aws-managed-streaming-kafka-msk-9b29d0137287)
+* [MSK and Glue Schema Registry: managed event stream platform on AWS. | by Igoreulalio Ie | Mar, 2022 | Medium](https://medium.com/@igoreulalio.ie/msk-and-glue-schema-registry-managed-event-stream-platform-on-aws-dcaaf451d77c)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
