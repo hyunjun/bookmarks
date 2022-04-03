@@ -154,6 +154,7 @@
 * [Macbook M1에 Visual Studio Code + Rust 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1663)
 * [Macbook M1에 Visual Studio Code + Jupyter Notebook 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1664)
 * [Macbook M1에서 설치된 Visual Studio Code + Jupyter Notebook에서 Rust 코드 실행하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1665)
+* [Part 1: The life of an optimization barrier | Trail of Bits Blog](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -368,6 +369,7 @@
 * [Rust 101 Lecture Series - YouTube](https://www.youtube.com/playlist?list=PL-zQguBgjr2O4d-B9g_b0WYh1fyXr6MMq)
 * [Masterclass - Introduction to Rust with Markus - YouTube](https://www.youtube.com/watch?v=AezhwkSmkW0)
 * [Rust Ports - YouTube](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
+* [2022-Make-Interpreter-Rust: 2022년 온라인 스터디 - Rust로 만드는 인터프리터](https://github.com/utilForever/2022-Make-Interpreter-Rust)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
