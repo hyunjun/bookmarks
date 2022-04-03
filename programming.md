@@ -349,6 +349,7 @@ Programming
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson - YouTube](https://www.youtube.com/watch?v=9LfmrkyP81M) 업계에 만연한 잘못된 인식, 좋은 소프트웨어는 무엇이며 어떻게 만들지
+* [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건 - CIO Korea](https://www.ciokorea.com/news/230519)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
   * [#2 - 오픈 준비 단계](http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html)
@@ -520,6 +521,7 @@ Programming
 * [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
+* [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -757,6 +759,8 @@ Programming
 * [영상: 외부 API 장애에 영향 덜 받는 3가지 방법 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%99%B8%EB%B6%80-API-%EC%9E%A5%EC%95%A0%EC%97%90-%EC%98%81%ED%96%A5-%EB%8D%9C-%EB%B0%9B%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) timeout, bulkhead, circuit breaker
 * [웹을 위한 API의 CORS 설정. 요즘은 API의 시대라고 합니다. 그만큼 API를 통한 정보 접근이… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%9D%84-%EC%9C%84%ED%95%9C-api%EC%9D%98-cors-%EC%84%A4%EC%A0%95-195c9c8d8f9c)
 * [API요청과 데이터 처리 구조. 아이디어스의 작가웹 서비스 리뉴얼과 기술전환 작업중에 적용한… | by SeungJae Jun | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/api%EC%9A%94%EC%B2%AD%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EA%B5%AC%EC%A1%B0-62d6ebaf8013)
+* [How to use undocumented web APIs](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
+  * [Undocumented Web API 사용하는 법 | GeekNews](https://news.hada.io/topic?id=6139Undocumented)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1177,6 +1181,8 @@ Programming
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+* [BoxyHQ | Enterprise Readiness made simple](https://boxyhq.com/)
+  * [BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=6226)
 * [CodeSee – Understand your codebase](https://www.codesee.io/) diagram
   * [CodeSee Helps Developers ‘Understand the Codebase’ – The New Stack](https://thenewstack.io/codesee-helps-developers-understand-the-codebase/)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
@@ -2021,6 +2027,7 @@ Programming
   * [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/) 'if it hurts, do it more often' Mark Seemann
 * [공통시스템개발팀 코드 리뷰 문화 개선 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7152/)
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/)
+* [The Code Review Pyramid - Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
@@ -2596,6 +2603,7 @@ Programming
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
+* [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
 * [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
 * SSRF ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
 
@@ -2610,6 +2618,9 @@ Programming
 * [Data Mesh in the Real World: Lessons Learnt from the Financial Markets - YouTube](https://www.youtube.com/watch?v=84zIFcIGKWQ)
 * [Data Mesh: Data-Driven Value at Scale • Zhamak Dehghani & Samia Rahman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=CDWp_xyCdzw)
 * [Modern Data Architecture Models. Data Fabric and Data Mesh | by Preeti Hemant | Feb, 2022 | Medium](https://preetihemant.medium.com/modern-data-architecture-models-69e90b725a05)
+* [Is Data Mesh the Future? - YouTube](https://www.youtube.com/watch?v=1Kk7NE1RMVQ)
+* [A Data Mesh Of Streams – Ben Stopford, Confluent - YouTube](https://www.youtube.com/watch?v=1SV0eEY9qv8)
+* [Data Mesh in Practice: How to set up a data driven organization - Max Schultze, Zalando - YouTube](https://www.youtube.com/watch?v=rqYFqtztWi4)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
@@ -3802,6 +3813,7 @@ Programming
 * [Outcode | Disquiet\*](https://disquiet.io/product/outcode) 문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
+* [Uiflow - Build Software at the Speed of Thought](https://www.uiflow.com/)
 * [UXPin Merge | Disquiet\*](https://disquiet.io/product/uxpin-merge) UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
 * [XpressEngine3 | Disquiet\*](https://disquiet.io/product/xpressengine3) 웹사이트, 쇼핑몰을 가장 빠르게 만들 수 있는 빌더
