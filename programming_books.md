@@ -198,6 +198,9 @@ Programming Books
 * [**애자일 마스터**](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0)
   * 탐라
   * [애자일 마스터. 내가 생각하는 방향이 틀리지 않았음을 알게 되었다. 다만 당연히… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0-71565c2b6bfc)
+* [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
+  * ★★★★☆ 2022.04.01~02
+  * 사실 애자일에 대한 책은 아님
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -210,7 +213,6 @@ Programming Books
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
 * (NOT YET) [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
-* (NOT YET) [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [린 소프트웨어 개발 : 애자일 실천 도구 22가지 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/49)
@@ -1647,9 +1649,6 @@ Programming Books
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
   * [새책 성취예측모형에 관한 기초적 지식과 그 배경을 설명한 영상 - YouTube](https://www.youtube.com/watch?v=CmmIT5kDFRs)
   * [국민 필독서…대통령 최적 인물 진단 ’성취예측모형’ - 브랜드타임즈(Brand Times)](http://www.brandtimes.co.kr/news/articleView.html?idxno=2259)
-* (NOT YET) 스타트업 인 액션
-  * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
-  * 한라 005.1-전95ㅅ
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
   * 한라, 탐라, 우당
   * ★★★☆☆ 2022.03.06~07
@@ -1660,6 +1659,15 @@ Programming Books
     * 특히 프로그래머의 입장에서 이해하기 쉽게 좀 더 직접적으로 썼다는 장점이 있음
   * [프로그래머의 리더십 - Jun - Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-758ccdd7b67c)
   * [프로그래머의 리더십](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
+* 원온원 일 잘하는 팀장의 대화력
+  * 우당
+  * ★★★★☆ 2022.04.03
+  * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
+  * [원온원. 나도 1 on 1에서 창업하고 싶다는 이야기를 한 팀장이 있는데, 별로… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9B%90%EC%98%A8%EC%9B%90-857986e0070f)
+  * [원온원](https://jh4hj.tistory.com/entry/%EC%9B%90%EC%98%A8%EC%9B%90)
+* (NOT YET) 스타트업 인 액션
+  * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
+  * 한라 005.1-전95ㅅ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * 한라, 탐라, 우당
@@ -1697,9 +1705,6 @@ Programming Books
   * 한라
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
-* (NOT YET) 원온원 일 잘하는 팀장의 대화력
-  * 우당
-  * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
   * 한라, 탐라
 * (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
