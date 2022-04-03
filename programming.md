@@ -756,6 +756,7 @@ Programming
 * [영상 : 초식 - 비동기 외부 연동으로 서버 성능 올리기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/async-integration-for-server-perf)
 * [영상: 외부 API 장애에 영향 덜 받는 3가지 방법 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%99%B8%EB%B6%80-API-%EC%9E%A5%EC%95%A0%EC%97%90-%EC%98%81%ED%96%A5-%EB%8D%9C-%EB%B0%9B%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) timeout, bulkhead, circuit breaker
 * [웹을 위한 API의 CORS 설정. 요즘은 API의 시대라고 합니다. 그만큼 API를 통한 정보 접근이… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%9D%84-%EC%9C%84%ED%95%9C-api%EC%9D%98-cors-%EC%84%A4%EC%A0%95-195c9c8d8f9c)
+* [API요청과 데이터 처리 구조. 아이디어스의 작가웹 서비스 리뉴얼과 기술전환 작업중에 적용한… | by SeungJae Jun | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/api%EC%9A%94%EC%B2%AD%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EA%B5%AC%EC%A1%B0-62d6ebaf8013)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1616,6 +1617,7 @@ Programming
 * [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
 * [**Microservices External API Integration Patterns | by Neeraj Kushwaha | Mar, 2022 | Medium**](https://learncsdesign.medium.com/microservices-external-api-integration-patterns-60982701829d)
 * [Complex Systems: Microservices and Humans](https://www.infoq.com/presentations/microservices-best-practices/)
+* [Understanding True Microservices. Microservices isn’t about deploying… | by Tyler Eon | InterviewNoodle | Medium](https://medium.com/interviewnoodle/understanding-true-microservices-3c056d7fee37)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2607,6 +2609,7 @@ Programming
 * [Data Mesh: an Architectural Deep Dive - YouTube](https://www.youtube.com/watch?v=kELM4aSHFIc)
 * [Data Mesh in the Real World: Lessons Learnt from the Financial Markets - YouTube](https://www.youtube.com/watch?v=84zIFcIGKWQ)
 * [Data Mesh: Data-Driven Value at Scale • Zhamak Dehghani & Samia Rahman • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=CDWp_xyCdzw)
+* [Modern Data Architecture Models. Data Fabric and Data Mesh | by Preeti Hemant | Feb, 2022 | Medium](https://preetihemant.medium.com/modern-data-architecture-models-69e90b725a05)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
@@ -2715,6 +2718,7 @@ Programming
   * 스타트업에서 DevOps를 도입한다는 가상의 시나리오에 따라 Node.js 웹 애플리케이션을 만들고 이를 자동화하는 과정 정리
   * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
 * [An Engineer’s Guide to a Good Night’s Sleep](https://www.infoq.com/articles/engineers-guide-to-sleep/)
+* [interview 아이디어스팀 산증인이 말하는 개발 조직 성장기 | by Youngmin Lee | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%EC%82%B0%EC%A6%9D%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81-%EC%84%B1%EC%9E%A5%EA%B8%B0-dcdd32e309c)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
