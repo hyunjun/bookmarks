@@ -191,6 +191,7 @@ Interview
 * [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
 * [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 * [How I got a FAANG offer without grinding Leetcode | by jessica | Medium](https://medium.com/@contrapasso/how-i-got-faang-offers-without-grinding-leetcode-7e556243e9ce)
+* [A Chrome Extension to code daily with LeetCode | by Ashish Kumar | InterviewNoodle | Medium](https://medium.com/interviewnoodle/a-chrome-extension-to-code-daily-with-leetcode-726fcb191db3)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
 * [한빛출판네트워크 - 코딩테스트 기획연재](https://www.hanbit.co.kr/channel/series/series_detail_list.html?hcs_idx=29)
@@ -224,6 +225,7 @@ Interview
 * [Demystifying Interviewing for Backend Engineers @ Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/demystifying-interviewing-for-backend-engineers-netflix-aceb26a83495)
 * [실리콘밸리 소프트웨어 개발자 이직 후기](https://giunglee.notion.site/giunglee/307c67eedaa5448b92c90c1925a2c33c)
 * [What I Learned After Interviewing More Than 100 Software Engineers | by Philip Starritt | Better Programming](https://betterprogramming.pub/what-i-learned-after-interviewing-100-software-engineers-35e0454dcf4b)
+* [3-month plan for Cracking the Coding Interview | by Kanhu Panda | Feb, 2022 | Medium](https://medium.com/@techwithkp/3-month-plan-for-cracking-the-coding-interview-5534f0ad7595)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -448,6 +450,7 @@ Interview
     * [How Uber handles millions of ride/food requests efficiently part 1 | by Meg's tech corner | Medium](https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204)
     * [Predicting Time to Cook, Arrive, and Deliver at Uber Eats](https://www.infoq.com/articles/uber-eats-time-predictions/)
     * [Ace the System Design Interview — Uber/Lyft | by Zixuan Zhang | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3)
+    * [System Design — Nearby Places Recommender System | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
