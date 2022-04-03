@@ -182,6 +182,7 @@ C
 * [C Runtime Overhead](http://ryanhileman.info/posts/lib43)
 * [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 * [Switch Case Statement in C | Control Statements | Lec 60 | C Programming Tutorials - YouTube](https://www.youtube.com/watch?v=MSo_s6w9O6s)
+* [Implementing cosine in C from scratch - Austin Z. Henley](https://austinhenley.com/blog/cosine.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -319,6 +320,7 @@ C
   * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
   * [c++ - libcurl automatically replacing line feed with line feed + carriage return - Stack Overflow](https://stackoverflow.com/questions/31567457/libcurl-automatically-replacing-line-feed-with-line-feed-carriage-return)
 * [datatype99: C99 with sum types](https://github.com/Hirrolot/datatype99)
+* [dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더 | GeekNews](https://news.hada.io/topic?id=6204)
 * [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
@@ -422,6 +424,7 @@ C
 * [Nuklear: A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
 * objdump / gobjdump (OS X)
   * [practice - objdump](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+* [Open-Golf: A cross-platform minigolf game written in C](https://github.com/mgerdes/Open-Golf)
 * [OpenSSL](https://www.openssl.org/)
   * [non-blocking socket에 OpenSSL 적용기](http://prostars.net/226)
   * [SSL 인증서 생성과 설치](http://daddycat.blogspot.kr/2018/01/ssl.html)
@@ -510,6 +513,7 @@ C
 * [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
 * [Joe Zbiciak's answer to What happens in memory when you define a pointer of a pointer in C? - Quora](https://www.quora.com/What-happens-in-memory-when-you-define-a-pointer-of-a-pointer-in-C/answer/Joe-Zbiciak)
 * [Mark Gritter's answer to Why are pointers so difficult to work with in C? - Quora](https://www.quora.com/Why-are-pointers-so-difficult-to-work-with-in-C/answer/Mark-Gritter)
+* [pointers.py: Bringing the hell of pointers to Python](https://github.com/ZeroIntensity/pointers.py)
 
 # Standard Library
 * [fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234)
