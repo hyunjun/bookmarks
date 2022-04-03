@@ -646,6 +646,9 @@ Web
 * [Big list of http static server one-liners](https://gist.github.com/willurd/5720255#file-web-servers-md)
 * [Top 10 Backend Frameworks Software Developers Can Learn in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/05/top-10-backend-frameworks-fullstack.html)
 * [5 Open Source Projects Which Can Redefine Web Development in 2022 | by Vihar Kurama | Jan, 2022 | Better Programming](https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12)
+* [웹 개발자의 비밀무기들 | GeekNews](https://news.hada.io/topic?id=6199)
+  * Loom, Markup.io, Hoverify, Waapalyzer, PixelParallel, 구글 Lighthouse
+  * 크롬 확장들 : CSSPeeper, SVG Grabber, WAVE, CSS Magic, WhatFont,Full Page Screenshot Capture
 * [100-days-of-code-frontend: Curriculum for learning front-end development during #100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
@@ -938,6 +941,7 @@ Web
       * context manager나 view decorator 대신 Depends를 이용해서 더 안전하고 쉽게 코드 작성
     * 그 외에도 비동기에 기반한 동시성 제어 모델로 훨씬 좋은 성능
     * 유효성 검사와 문서화 등 좋은 기능 제공
+    * [FastAPI의 시대. 아직도 Flask 쓰시나요? | GeekNews](https://news.hada.io/topic?id=6233)
   * [Microservices with FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
@@ -1328,6 +1332,7 @@ Web
 * [Write Your First WASM Module using Rust - YouTube](https://www.youtube.com/watch?v=nW71Mlbmxt8)
 * [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 * [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
+* [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
