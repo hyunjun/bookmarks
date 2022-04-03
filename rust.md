@@ -150,6 +150,10 @@
 * [Rust wgpu Graphics Programming Tutorial - YouTube](https://www.youtube.com/playlist?list=PL_UrKDEhALdJS0VrLPn7dqC5A4W1vCAUT)
 * [Microsoft Exploring Rust as the Solution for Safe Software](https://www.infoq.com/news/2019/11/microsoft-exploring-rust-safety/)
 * [8LU - Write your game in Rust! by Eric Smith - YouTube](https://www.youtube.com/watch?v=0UoD7uyV1D8)
+* [Macbook M1에 Miniforge 설치하여 Visual Studio Code와 연동하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1638)
+* [Macbook M1에 Visual Studio Code + Rust 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1663)
+* [Macbook M1에 Visual Studio Code + Jupyter Notebook 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1664)
+* [Macbook M1에서 설치된 Visual Studio Code + Jupyter Notebook에서 Rust 코드 실행하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1665)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
