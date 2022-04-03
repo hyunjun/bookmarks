@@ -910,6 +910,7 @@ Python
   * [Tour of Python Itertools](https://martinheinz.dev/blog/16/)
   * [Reduce() vs Accumulate() in Python | by Indhumathy Chelliah | codeburst](https://codeburst.io/reduce-vs-accumulate-in-python-3ecee4ee8094)
   * [5 Advanced Functions in Itertools To Simplify Iterations in Python | by Yong Cui, Ph.D. | Towards Data Science](https://towardsdatascience.com/5-advanced-functions-in-itertools-to-simplify-iterations-in-python-c6213312ca47)
+  * [The Must-Know Tools from the Python Library itertools | Python in Plain English](https://python.plainenglish.io/the-must-know-tools-from-the-python-library-itertools-f5b413a3cfff)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -2595,6 +2596,7 @@ Python
 * [Flask 데코레이터 사용하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/flask/using-flask-with-decorator/)
 * [Flask 스마트하게 구조 만들기 | woolog - 개발자 울이](https://www.woolog.dev/backend/flask/using-flask-with-smart-structure/)
 * [Docker로 작성한 서버, Debug모드 적용하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/docker/debug-server-with-docker/)
+* [Building a Full Stack Flask HTMx Application - Code Capsules](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
 
 ## Flask Library
 * [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
@@ -2724,6 +2726,7 @@ Python
   * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
   * [**Handling SQL Databases With PyQt: The Basics – Real Python**](https://realpython.com/python-pyqt-database/)
   * [Creating PyQt Layouts for GUI Python Applications - YouTube](https://www.youtube.com/watch?v=MY29YV9Wk7I)
+  * [Electron alternative: Python and Qt. Create desktop apps in minutes.](https://build-system.fman.io/)
   * [fbs - build-system.fman.io](https://build-system.fman.io)
   * [make-a-story](https://github.com/dailyInsight6/make-a-story)
   * [user-group-csv-cleaner](https://github.com/Buzzvil/user-group-csv-cleaner)
@@ -3306,8 +3309,6 @@ Python
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [Connexion - a framework that automagically handles HTTP requests based on OpenAPI Specification (formerly known as Swagger Spec) of your API described in YAML format](https://github.com/zalando/connexion/blob/master/README.rst)
-* [Coverage.py — a tool for measuring code coverage of Python programs](https://coverage.readthedocs.io/)
-  * [Ned Batchelder: Blog: #coverage](https://nedbatchelder.com/blog/tag/coverage.html)
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
@@ -4752,6 +4753,9 @@ Python
 * [The Ultimate Guide to A/B Testing with Python | by Rahulraj Singh | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-a-b-testing-with-python-b2c560b7ab26)
 * [Unit testing with Python. Like most developers who started using… | by Saif | Mar, 2022 | Dev Genius](https://blog.devgenius.io/unit-testing-with-python-b7f41985e542)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
+* [Coverage.py — a tool for measuring code coverage of Python programs](https://coverage.readthedocs.io/)
+  * [Ned Batchelder: Blog: #coverage](https://nedbatchelder.com/blog/tag/coverage.html)
+  * [Test Everything Easily in Python | Python in Plain English](https://python.plainenglish.io/test-everything-easily-in-python-8d98c7b0c135)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
