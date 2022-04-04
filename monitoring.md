@@ -156,8 +156,6 @@ Monitoring
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
 * [Monitoring HBase with Prometheus](https://blog.godatadriven.com/hbase-prometheus-monitoring)
   * 오픈 소스 모니터링 시스템인 Prometheus에 HBase 메트릭을 연결하는 방법
-* [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
-  * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
 * [Prometheus를 통한 서버 모니터링](https://medium.com/myrealtrip-product/prometheus%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-deab448b769d)
 * [쿠버네티스 모니터링 : 프로메테우스(kubernetes monitoring : phrometheus)](https://arisu1000.tistory.com/27857)
 * [오픈소스 모니터링 툴 - Prometheus #1 기본 개념과 구조](https://bcho.tistory.com/1372)
@@ -190,3 +188,8 @@ Monitoring
 * [What Is Prometheus and Why Is It So Popular? – CloudSavvy IT](https://www.cloudsavvyit.com/15124/what-is-prometheus-and-why-is-it-so-popular/)
 * [How to set up API monitoring with Prometheus & Grafana | Golang API - YouTube](https://www.youtube.com/watch?v=pP2DKCKR4CQ)
 * [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
+* [Prometheus 를 이용한 모니터링 — Part 1. 프로메테우스란 무엇인가? | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/prometheus-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-part-1-69de3e87d427)
+* [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
+  * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
+  * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
+* [Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
