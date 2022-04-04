@@ -1379,13 +1379,14 @@ Python
 * unicodedata
   * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
 * urllib
-  * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
-  * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
-    * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
-  * [Urllib - GET Requests || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=LosIGgon_KM)
   * [archives :: 소켓과 urllib2 속도차이](https://qkqhxla1.tistory.com/29)
   * [URL Encoding 된 CSV 파일 한줄로 ecode 하기 (feat. Python3)](https://jojoldu.tistory.com/583)
   * [유투브 API를 사용한 영상 조회수 챠트](https://equal-burst-538.notion.site/API-25ced7b553f2448b81fc7e14a9447c91)
+  * [Urllib - GET Requests || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=LosIGgon_KM)
+  * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
+    * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
+  * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
+    * [Python으로 http 부르기 - 이상선 - Medium](https://medium.com/@sunyi233/python%EC%9C%BC%EB%A1%9C-http-%EB%B6%80%EB%A5%B4%EA%B8%B0-4a9ecb4d4c77)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * uuid
