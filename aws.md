@@ -307,6 +307,7 @@ AWS
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
+* [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3 | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
 * [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
 * [AWS 공식 자격 시험 유형 문제 공개. 어느날과 마찬가지로 직무 교육과 테크니컬 온보딩 프로그램에 사용할… | by Jihwan Hyun Cloud Advocate | Cloud Villains | Dec, 2021 | Medium](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186)
 * [2021년 AWS 자격증 취득 가이드 - Google Slides](https://docs.google.com/presentation/d/1tsnHz01Qkd9tSRASv03PL3jqTP095DgvYLO0H2PwDnU/)
@@ -812,6 +813,9 @@ AWS
 * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
 * [AWS EKS의 Ingress(ALB)의 Target Type에 따른 동작](https://zigispace.net/1174)
 * [EKS Cluster Upgrade with terraform](https://wonderwal1.notion.site/EKS-Cluster-Upgrade-with-terraform-dfe2281e6e97446cb4c45f7cad2e5a42)
+* [Amazon EKS 로 시작하는 Kubernetes — Intro | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/amazon-eks-%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-kubernetes-intro-83fd3ef2f10e)
+* [EKS AutoScaling 하기 Part 1 — Horizontal Pod Autoscaler With Custom Metrics | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-1-horizontal-pod-autoscaler-with-custom-metrics-2274566463f9)
+* [EKS AutoScaling 하기 Part 2—IAM Role for Service Account & EKS Cluster Autoscaler | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-2-iam-role-for-service-account-eks-cluster-autoscaler-c3bbb0d44d1b)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
