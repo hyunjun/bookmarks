@@ -229,6 +229,7 @@
 * [EditorConfig VisualStudio 2022. Every person has their standards when… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/editorconfig-visualstudio-2022-c72bf535e060)
 * [비주얼 스튜디오를 이용한 MacOS 리모트 디버깅](https://blog.naver.com/drvoss/222677062841)
 * [비주얼 스튜디오를 이용한 임베디드 개발 시작 : 네이버 블로그](https://blog.naver.com/drvoss/222678169359)
+* [Visual Studio for remote macOS C++ development - C++ Team Blog](https://devblogs.microsoft.com/cppblog/visual-studio-for-remote-macos-c-development/)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

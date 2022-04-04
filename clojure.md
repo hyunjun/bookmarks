@@ -1051,6 +1051,7 @@ Clojure
 * [orchard: A fertile ground for Clojure tooling](https://github.com/clojure-emacs/orchard)
 * [ornament](https://github.com/lambdaisland/ornament) CSS-in-Clj(s)
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
+* [Overtone - Collaborative Programmable Music](https://overtone.github.io/)
 * [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
 * [pathom3: A library for navigating data](https://github.com/wilkerlucio/pathom3)
   * [Pathom 3 is coming | WSSCode Blog](https://blog.wsscode.com/pathom-3-is-coming/)

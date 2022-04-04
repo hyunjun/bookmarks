@@ -368,6 +368,7 @@ Go
   * [Implement Balanced Algorithm in Golang 1.18 Generic Style | by Anirut Kamchai | Mar, 2022 | Medium](https://medium.com/@anirut.workspace/implement-balanced-algorithm-in-golang-1-18-generic-style-96e867ef9509)
   * [Reduce function using Generics in Go (Golang)](https://gosamples.dev/generics-reduce/)
   * [Palindrome using generics in Go 1.18 | by Yuda Prasetiya | Mar, 2022 | Medium](https://medium.com/@yudaph/palindrome-using-generics-in-go-1-18-715496e8deff)
+  * [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
@@ -755,6 +756,7 @@ Go
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+* [Redo - the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
 
 ## Library logging
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
@@ -908,7 +910,9 @@ Go
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/)
   * [Go언어로 백엔드 뿐만 아니라 프런트엔드까지~](https://open-support.tistory.com/entry/Go%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C%EA%B9%8C%EC%A7%80)
-* [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
+* [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
+  * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
+  * [Introducing Caddy-SSH | Caffeinated Wonders](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
 * [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
   * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)

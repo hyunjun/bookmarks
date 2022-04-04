@@ -621,7 +621,7 @@ Git
   * [Better git diffs with FZF. git diff can be a little overwhelming… | by Rafael Mendiola | Medium](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb)
   * [Better Git diff output for Ruby, Python, Elixir, Go and more | tekin.co.uk](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more) .gitattributes
   * [Git diff Command – How to Compare Changes in Your Code](https://www.freecodecamp.org/news/git-diff-command/)
-  * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
+  * [delta: A syntax-highlighting pager for git, diff, and grep output](https://github.com/dandavison/delta)
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
   * [Git에 커밋 된 커밋하면 안될 파일 제거하기](https://chaewonkong.github.io/posts/git-remove-commited-file.html)

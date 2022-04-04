@@ -326,6 +326,8 @@ ElasticSearch - Lucene
 * ['랭크브레인부터 MUM까지'··· 구글 부사장이 전하는 검색의 진화 이야기 - CIO Korea](https://www.ciokorea.com/news/225444)
 * [검색 랭킹 흐름 만들기: 검색은 처음 인디요. 안녕하세요! 당근마켓 검색 시스템을 개발하고있는 Hy(하이) 에요 | by Hy Lee | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
 * [Elasticsearch 확장성을 향상시킨 3가지 방법 | Elastic Blog](https://www.elastic.co/kr/blog/three-ways-improved-elasticsearch-scalability/)
+* [Keyword-Document Ranking 효율화. 이 글에서는 검색어가 문서에 종속된 피처의… | by Youngsoo Chang | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/keyword-document-ranking-%ED%9A%A8%EC%9C%A8%ED%99%94-9a71bd9e34f7)
+* [interview 나만의 취향을 발견해 주는 아이디어스의 힘, 검색 추천 기술을 이야기하다. | by Saeyeon Park | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B7%A8%ED%96%A5%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%B4-%EC%A3%BC%EB%8A%94-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%EC%9D%98-%ED%9E%98-%EA%B2%80%EC%83%89-%EC%B6%94%EC%B2%9C-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4-c189f0ea594f)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
@@ -778,6 +780,7 @@ ElasticSearch - Lucene
 * [Apache Solr Memory Tuning for Production II](http://blog.cloudera.com/blog/2017/06/solr-memory-tuning-for-production-part-2/)
   * 메모리 튜닝의 일반적인 작업에 대해 이야기
   * 프로덕션 시스템을 위해 Apache Solr 메모리를 구성하는 방법을 이해하는데 도움이 되는 프로세스 소개
+* [검색 데이터 서빙 플랫폼 구축](https://zuminternet.github.io/SearchPilotProject)
 * [solrpy - solr with python3](https://github.com/search5/solrpy3)
 
 # Tutorial

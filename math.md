@@ -347,6 +347,7 @@ Math
 * [Tangent: Source-to-Source Debuggable Derivatives](https://research.googleblog.com/2017/11/tangent-source-to-source-debuggable.html)
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
 * [Software Carpentry: 기호 수학(Symbolic Math)](https://statkclee.github.io/symbolic-math/)
+* [T>T: When Double Precision is Not Enough | Dr Adam Luke Baskerville](https://adambaskerville.github.io/posts/LespEigenvalues/)
 * [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 
 # Set

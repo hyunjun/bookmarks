@@ -1670,6 +1670,7 @@ Javascript
 * [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
 * [hyperid: Uber-fast unique id generation, for Node.js and the browser](https://github.com/mcollina/hyperid)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
+* [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * inferno.js
   * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
 * [Infinite-list - Infinite list in javascript that scrolls in 60fps](http://roeierez.github.io/infinite-list/)
@@ -2584,6 +2585,7 @@ Javascript
   * [Deno by Example](https://examples.deno.land/)
     * Deno의 사용방법을 예제별로 모아둔 사이트를 Deno에서 공개
     * 간단한 Hello World부터 명령행 인자 처리, 파일 처리, HTTP 서버까지 다양한 예제 제공
+    * [예제로 배우는 Deno | GeekNews](https://news.hada.io/topic?id=6205)
   * [How to publish Deno modules to NPM](https://deno.com/blog/dnt-oak)
     * Deno 웹 프레임워크인 oak를 만든 Kitson Kelly가 dnt를 이용해서 oak을 NPM 레지스트리에 배포하는 방법 설명
     * dnt는 Deno 코드를 Node 호환 npm으로 변환하는 빌드 파이프라인을 제공하기 때문에 이를 이용해서 oak를 Deno로 개발한 뒤에 npm에 배포해서 node에서 사용
@@ -3715,6 +3717,8 @@ Javascript
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * [Next.js](https://nextjs.org/)
+  * [Introduction | Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs)
+    * [Next.js 공식 'Foundations' 코스 공개 | GeekNews](https://news.hada.io/topic?id=6197)
   * [간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
   * [Next.js, Razzle, CRA. Why you should use them for a next project](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
   * [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf)
@@ -4271,6 +4275,7 @@ Javascript
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
+* [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)

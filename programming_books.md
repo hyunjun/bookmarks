@@ -1665,6 +1665,11 @@ Programming Books
   * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
   * [원온원. 나도 1 on 1에서 창업하고 싶다는 이야기를 한 팀장이 있는데, 별로… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9B%90%EC%98%A8%EC%9B%90-857986e0070f)
   * [원온원](https://jh4hj.tistory.com/entry/%EC%9B%90%EC%98%A8%EC%9B%90)
+* [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
+  * 탐라
+  * ★★★☆☆ 2022.04.03
+  * [아마존 사람들은 이렇게 일합니다. 아마존에서 10년을 일한 후 컨설팅 업계로 옮긴 저자가 쓴 아마존에… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-4ab079da067d)
+  * [아마존 사람들은 이렇게 일합니다](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1688,8 +1693,6 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
-* (NOT YET) [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
-  * 탐라
 * (NOT YET) 임파워드 [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
   * 탐라
 * (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)

@@ -567,6 +567,7 @@ Linux
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
   * [diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs](https://github.com/so-fancy/diff-so-fancy)
+  * [difftastic: a diff that understands syntax 🟥🟩](https://github.com/Wilfred/difftastic)
   * [graphtage: A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV](https://github.com/trailofbits/graphtage)
 * `dirname` get directory name from path
 * `dmesg`
@@ -1196,6 +1197,7 @@ Linux
 # Log
 * [11. 로그관리, systemd-journald, rsyslogd, journalctl, syslog, journal :: 0부터 시작하는 해킹공부](https://haker.tistory.com/52)
 * logrotate [Rotate and archive logs with the Linux logrotate command | Opensource.com](https://opensource.com/article/21/10/linux-logrotate)
+  * [logrotate, copytruncate의 함정](https://brunch.co.kr/@alden/27#:~:text=logrotate%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D,%EC%9D%84%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 * rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 
 # Memory

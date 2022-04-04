@@ -69,6 +69,7 @@ Java
   * [스레드 스택 진단](http://ko.logpresso.com/documents/java/jstack)
 * [공공데이터포털 오픈 API를 이용한 우편번호 검색 (도로명+지번 주소)](http://blog.naver.com/birdparang/220965192821)
 * [Null is your friend, not a mistake | by Roman Elizarov | Medium](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
+* [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
 * [소소한 자바 이야기 - Number와 Locale](http://tmondev.blog.me/221045546034)
 * [오버로딩(Overloading) / 오버라이딩(Overriding)](http://bbigbros.tistory.com/entry/%EC%9E%90%EB%B0%94JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 * [Learn Functions Overloading in java in just 1 vedio on one code. - YouTube](https://www.youtube.com/watch?v=tk6L91BM8kw)
@@ -141,6 +142,7 @@ Java
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
 * [The Decline and Fall of Java on the Desktop Part 1 (1999-2005)](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
+* [Java에서의 Emoji처리에 대해 : NHN Cloud Meetup](https://meetup.toast.com/posts/317) unicode 유니코드
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -812,11 +814,14 @@ Java
 * [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
 * [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
 * [What's new with Java 17 and containers? | Opensource.com](https://opensource.com/article/22/3/java-17-quarkus)
+* [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
 * [Java18 HttpServer API example](https://gist.github.com/thomasdarimont/8f13a26c56ed7a371908769784557825)
 * ['finalize 메소드 퇴역 이후' 자바 오류를 처리하고 클린업하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/224419)
+* [Java 18 / JDK 18 : General Availability | GeekNews](https://news.hada.io/topic?id=6217)
+* [Java 18 is Now Available](https://www.infoq.com/news/2022/03/java18-released/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -827,6 +832,7 @@ Java
   * [윈도우 지원이 약한 SDKMan!을 대신할 JDKMon](https://jhrogue.blogspot.com/2021/10/b-sdkman-jdkmon.html)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
   * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
+  * [Manage Java versions with SDKMan | Opensource.com](https://opensource.com/article/22/3/manage-java-versions-sdkman)
 
 ## JDK OpenJDK
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
@@ -1370,6 +1376,9 @@ Java
 ## Library GraphQL
 * [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
+
+## Library logger logging
+* [java-logger-benchmark: Different Java Loggers Benchmarks.](https://github.com/GoodforGod/java-logger-benchmark)
 
 ## Library Spring
 * [springoneplatform.io](https://springoneplatform.io/)

@@ -915,6 +915,8 @@ TensorFlow
   * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
   * [TensorFlow로 디자인시스템 만들기. 이 블로그 포스팅은 저에게 매우 의미 있는 순간입니다. 저는 지난해부터… | by Jude Park | Aug, 2021 | Medium](https://judepark-6960.medium.com/a-design-system-made-with-tensorflow-js-8f6c567e9593)
   * [Real time motion capture for VTubers - Made with TensorFlow.js - YouTube](https://www.youtube.com/watch?v=NL5NHq6tKLM)
+  * [TFJS로 아이콘 ‘맞춤법 검사기’ 만들기. Discover | by Jude Park | Mar, 2022 | Medium](https://judepark-6960.medium.com/tfjs%EB%A1%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-59447e2794bd)
+  * [TFJS로 아이콘 ‘맞춤법 검사기’ 만들기(2). 이전 포스팅 | by Jude Park | Mar, 2022 | Medium](https://judepark-6960.medium.com/tfjs%EB%A1%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-399a10667723) figma 사용의 복잡도를 해결하려는, 한 마디로 딥블루닷 deep bluedot같은 경우와 비슷해보임
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
@@ -925,6 +927,9 @@ TensorFlow
     * [How Positive was Your Year with TensorFlow.js and Twilio](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
       * TensorFlow.js는 긍정/부정 감정 레이블과 CNN/LSTM의 두 가지 모델 아키텍처를 고려하여 IMDB에서 제공한 25,000개의 영화 리뷰에 대해 사전 훈련된 모델을 제공
       * 여기서는 CNN을 사용해 Twilio API에서 오래된 문자 메시지를 검색하고 정규식으로 입력을 정리하고 JavaScript의 TensorFlow를 사용해 텍스트에 대한 감정 분석 수행
+  * [zeplin-ml: Object detection based on screens from Zeplin](https://github.com/dusskapark/zeplin-ml)
+    * [Zeplin ML: a ML plugin for Zeplin - YouTube](https://www.youtube.com/watch?v=a3jANIGk5EA)
+    * [TensorFlow로 디자인시스템 만들기. 이 블로그 포스팅은 저에게 매우 의미 있는 순간입니다. 저는 지난해부터… | by Jude Park | Medium](https://judepark-6960.medium.com/a-design-system-made-with-tensorflow-js-8f6c567e9593) zeplin-ml
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

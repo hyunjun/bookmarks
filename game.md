@@ -39,7 +39,6 @@ Game
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
 * ['둠'의 무서운 악마들은 플레이어를 봐주며 게임 한다](https://www.gamemeca.com/view.php?gid=1444361)
-* [Compute@Edge: porting the iconic video game DOOM | Fastly](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
 * [Writing a Game From Scratch - Part One | Legion](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
 * [호오 게임을 만드시겠다구요? 1 - YouTube](https://www.youtube.com/watch?v=aloDgutOgKs)
 * [호오 게임을 만드시겠다구요? 2 - YouTube](https://www.youtube.com/watch?v=4mrTc6scLj8)
@@ -73,6 +72,12 @@ Game
 * [더북(TheBook): 엔트리 게임 제작 무작정 따라하기](https://thebook.io/006974/) 1~10, 12, 14장만
 * [더북(TheBook): 마인크래프트 게임 제작 무작정 따라하기](https://thebook.io/006993/)
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com/)
+
+# Doom
+* [Compute@Edge: porting the iconic video game DOOM | Fastly](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
+* [Doomfana - Grafana에서 Doom 실행하기 | GeekNews](https://news.hada.io/topic?id=6283)
+  * [Can Grafana run Doom? | Grafana Labs](https://grafana.com/blog/2022/03/31/can-grafana-run-doom/)
+* [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 
 # Library
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
@@ -124,7 +129,6 @@ Game
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
   * [박피디의 게임 개발 이야기 : 언리얼4 기본 프로젝트 카메라 코드 비교](http://parkpd.egloos.com/4201724)
   * [How To Use Python Inside Unreal Engine 4 - YouTube](https://www.youtube.com/playlist?list=PLBLmKCAjA25Br8cOVzUroqi_Nwipg-IdP)
-* [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
