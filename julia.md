@@ -197,3 +197,4 @@ Julia
 # Tutorial
 * [Julia: A Fresh Approach to Technical Computing - Dr. Viral B. Shah | PyData Jeddah - August 2020 - YouTube](https://www.youtube.com/watch?v=tUWZ6XhC2K4)
 * [Introduction - Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+* [JuliaTutorial2022Korea](https://github.com/chkwon/JuliaTutorial2022Korea)
