@@ -1024,6 +1024,7 @@ NLP
 * [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
 * [kogpt: KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)](https://github.com/kakaobrain/kogpt) GPT-3 기반의 한국어 특화 AI 언어 모델
