@@ -1062,6 +1062,7 @@ App
 * [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
 * [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
+* [AirServer Connect - The Most Advanced Screen Mirroring Receiver](https://www.airserver.com/)
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
   * [네이버 카페 검색용 알프레드 워크플로우 제작 - 코드쓰는사람](https://taegon.kim/archives/10357)
