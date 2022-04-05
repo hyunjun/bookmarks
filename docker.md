@@ -951,6 +951,7 @@ Docker
 * [Ingress Controllers: The Swiss Army Knife of Kubernetes – The New Stack](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
 * [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
 * [Kubernetes Ingress: A Beginners' Guide | ARMO](https://www.armosec.io/blog/kubernetes-ingress-beginners-guide/)
+* [Okta 및 NGINX Ingress Controller를 사용하여 Kubernetes용 OpenID Connect 인증 구현 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/implementing-openid-connect-authentication-kubernetes-okta-and-nginx-ingress-controller/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
