@@ -464,6 +464,8 @@ Git
   * [git flow - 출시와 개발을 동시에 진행하는 방법 - YouTube](https://www.youtube.com/watch?v=w2F8O9J1keM)
   * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
+  * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
+  * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
   * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
   * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
@@ -877,8 +879,8 @@ Git
     ```
   * [Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
   * [GitHub에서 Release/Tag 자동으로 만들어 주기(1분만에 설정) | by Ted Park | PRND | Nov, 2021 | Medium](https://medium.com/prnd/github%EC%97%90%EC%84%9C-release-tag-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0-1%EB%B6%84%EB%A7%8C%EC%97%90-%EC%84%A4%EC%A0%95-5c09a383fb08)
-* [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
-* [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
+* worktree
+  * [Git에서 다수의 워킹 디렉토리를 관리하는 worktree :: Outsider's Dev Story](https://blog.outsider.ne.kr/1588)
 
 # Conference
 * [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
