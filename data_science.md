@@ -5,6 +5,7 @@ Data Science
 * [**Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines**](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013)
 * [리다, 기업을 위한 데이터과학 강의 공개](http://www.bloter.net/archives/250844)
+* [Data Analysis - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1mT6PCldfJhuaa_2pQksD9f)
 * [데이터과학에 입문하고 싶다면, 이곳부터](http://www.bloter.net/archives/240224)
 * [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
 * [데이터 사이언스의 학습 로드맵 (번역) – 이바닥늬우스](https://ebadak.news/2021/03/20/data-science-learning-roadmap/)
