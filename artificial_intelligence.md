@@ -146,6 +146,7 @@ Artificial Intelligence
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 * [Anatomy of an AI System](https://anatomyof.ai/)
 * [AI를 하고 싶은 C-level의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2022/03/28/Python-DS-97-ceo_mistakes/)
+* [쏘카 AI팀의 Applied Research Scientist는 어떤 일을 하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/04/05/role-of-applied-research-scientist-at-socar.html)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
