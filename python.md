@@ -2598,6 +2598,8 @@ Python
 * [Flask 스마트하게 구조 만들기 | woolog - 개발자 울이](https://www.woolog.dev/backend/flask/using-flask-with-smart-structure/)
 * [Docker로 작성한 서버, Debug모드 적용하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/docker/debug-server-with-docker/)
 * [Building a Full Stack Flask HTMx Application - Code Capsules](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
+* [Flask Web Framework - 생활코딩](https://opentutorials.org/course/4904)
+* [Python Flask Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y)
 
 ## Flask Library
 * [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
