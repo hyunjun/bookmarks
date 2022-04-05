@@ -608,6 +608,7 @@ Javascript
     * Twilio가 더 커지면서 Jamstack 아키텍처를 선택, 성능 개선과 나아진 개발 워크플로우를 목표
     * Jamstack으로 마이그레이션된 새로운 콘솔은 Netlify로 호스팅 되는 모노레포 Jamstack 애플리케이션
     * Deploy Preview로 협업이 많이 증가, 이전보다 50배 자주 배포, 글로벌 사용자에게 TTFB가 이전에는 1~2초였지만 이제는 30~60ms가 되어 30배 성능 개선
+  * [Jamstack을 아직 추천하기 어려운 이유 - tebica story](https://earlybird.kr/2651)
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
