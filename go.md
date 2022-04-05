@@ -300,6 +300,7 @@ Go
 * [Use Redis as caching for the Golang API](https://morioh.com/p/3056dfb29f2f)
 * [Golden Rules or Mistakes in Golang | Common Mistakes | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=3aLFnB86nMQ)
 * [Why We Write Everything in Go | Bitly](https://bitly.com/blog/why-we-write-everything-in-go/)
+* [golang databe bbolt, kval langauge, and bolter - YouTube](https://www.youtube.com/watch?v=lxT2ezra7GQ)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
