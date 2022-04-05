@@ -122,6 +122,7 @@ iOS
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
   * [Fastlane을 통한 앱 자동 배포 - Fastlane을 사용해서 React native로 만든 앱을 자동으로 배포해 보자](https://dev-yakuza.github.io/ko/react-native/fastlane/)
+  * [Slack으로 iOS 앱 배포하기](http://labs.brandi.co.kr//2022/04/04/kosr.html)
 * [FBSimulatorControl - A Mac OS X library for managing, booting and interacting with multiple iOS Simulators simultaneously](https://github.com/facebook/FBSimulatorControl)
 * [Flutter](flutter.md)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
