@@ -35,6 +35,7 @@ Json
 * [jsonista - Clojure library for fast JSON encoding and decoding](https://github.com/metosin/jsonista)
 
 # Go
+* [JSON is not Visible in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=ARmaPihNwvY)
 * [miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
   * [Miller - CSV/JSON 데이터 처리용 CLI 도구 | GeekNews](https://news.hada.io/topic?id=4888)
 * [ojg - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools](https://github.com/ohler55/ojg/tree/master)
