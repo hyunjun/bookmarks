@@ -1109,6 +1109,7 @@ Web
 * [REST API Design - Resource Modeling | Thoughtworks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 * [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
   * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
+* [Top 10 REST Interview Questions for Java and Spring Developers | by javinpaul | Javarevisited | Apr, 2022 | Medium](https://medium.com/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
