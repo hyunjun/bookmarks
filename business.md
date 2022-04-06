@@ -874,7 +874,6 @@ Business
 * [팀장님, 그렇게 하는 거 아니에요(3) - 완전한 솔직한 조언으로 전환하기](https://blog.naver.com/nanotoly/222071755163)
 * [팀장님, 그렇게 하는 거 아니에요(4) - 해고](https://blog.naver.com/nanotoly/222072316985)
 * [그래서 내 업무가 정확히 뭡니까? 업무 지시를 명확하게 하지 않는 상사](https://blog.naver.com/wantedlab/222369623767)
-* [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799)
 * ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
 * [“팀장일 때 더 잘할걸” 싶은 12가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/249822)
@@ -999,6 +998,7 @@ Business
 * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leader20210325)
   * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1DTzYBO2xDwG2P2UxfcoDdW1Lcb0-HcrC/view?usp=sharing)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
+* [디지털 트랜스포메이션 잘 안 되나요?, 개발 조직 키우는 리더십부터 체크해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10409)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1304,7 +1304,7 @@ Business
 * [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/) netflix 이야기
 * [우리 회사는 왜 넷플릭스처럼 안 될까요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/248019)
 * [브런치북 실리콘 밸리 트렌드 2021](https://brunch.co.kr/brunchbook/siliconvally21)
-* [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799)
+* [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799) leadership
   * ① 대부분 스타트업은 상당 부분 팀장/담당자에게 권한 위임. 권한 = 의사결정권. 한 스타트업은 초기 급성장 시절 매니저에게 1억 이하의 비용에 대해 결정권 부여
   * ② 1000여명의 직원이 있는 한 IT 스타트업은 40개 이상의 팀 존재, 각 팀 리더에게 의사결정권 부여. CEO는 팀장이 어떤 결정을 내렸는지 보고 받지 않음
   * ③ 리더 통제 조직문화 = 예측 가능한 업무 진행. 의사결정을 해보지 않은 구성원들 성장/창의성 정체
