@@ -362,6 +362,7 @@ Git
 * [공개된 GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1565)
 * [Github Codespaces가 Backend.AI를 만났을 때 | Lablup Blog](https://blog.lablup.com/posts/2021/09/13/backend.ai-on-codespaces)
 * [GitHub Codespace 환경 개인화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1573)
+* [Github Codespaces와 Devcontainer 톺아보기 | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=lyLvySi5tuE)
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
