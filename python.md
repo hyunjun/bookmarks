@@ -3730,6 +3730,7 @@ Python
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
   * [10분만에 익히는 supervisor 설치와 사용법](https://jwkcp.github.io/2016/11/07/how-to-use-supervisor-in-one-minute/)
   * [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
+* TabPy [다양한 태블로 차트 (14. TabPy 분석 확장 프로그램) :: 디포커스 태블로](https://dataqrator.tistory.com/114) tableau
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [tauthon - Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
