@@ -1302,6 +1302,8 @@ Web
   * Go 언어 이용 간단한 WebAssembly 작성 예제
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
 * [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
+* [Cloud Native WebAssembly Applications Are Already Here – The New Stack](https://thenewstack.io/cloud-native-webassembly-applications-are-already-here/)
+* [Containers vs. WebAssembly: What's the Difference? | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/blog/webassembly-vs-containers)
 * ["네이티브에 가까운 성능" 웹어셈블리 활용한 언어 프로젝트 12선 - CIO Korea](https://www.ciokorea.com/news/206339)
 * [Hit the Ground Running with WebAssembly (How To Start Using WebAssembly In Your Apps) - YouTube](https://www.youtube.com/watch?v=aDAkU1S2JYk)
 * [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
