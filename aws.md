@@ -816,6 +816,7 @@ AWS
 * [Amazon EKS 로 시작하는 Kubernetes — Intro | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/amazon-eks-%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-kubernetes-intro-83fd3ef2f10e)
 * [EKS AutoScaling 하기 Part 1 — Horizontal Pod Autoscaler With Custom Metrics | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-1-horizontal-pod-autoscaler-with-custom-metrics-2274566463f9)
 * [EKS AutoScaling 하기 Part 2—IAM Role for Service Account & EKS Cluster Autoscaler | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/eks-autoscaling-%ED%95%98%EA%B8%B0-part-2-iam-role-for-service-account-eks-cluster-autoscaler-c3bbb0d44d1b)
+* [AWS EKS Service Account에 AWS IAM Role 부여 | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Service_Account_IAM_Role/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
