@@ -342,6 +342,7 @@ Programming
 * [Google IDToken 풀기 - 이상선 - Medium](https://medium.com/@sunyi233/google-idtoken-%ED%92%80%EA%B8%B0-a3a0eaaeb5a8) OAuth 2.0
 * [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
 * [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
+* [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
@@ -2737,6 +2738,7 @@ Programming
   * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
 * [An Engineer’s Guide to a Good Night’s Sleep](https://www.infoq.com/articles/engineers-guide-to-sleep/)
 * [interview 아이디어스팀 산증인이 말하는 개발 조직 성장기 | by Youngmin Lee | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%EC%82%B0%EC%A6%9D%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81-%EC%84%B1%EC%9E%A5%EA%B8%B0-dcdd32e309c)
+* [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
