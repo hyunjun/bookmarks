@@ -89,6 +89,7 @@ App
   * [소규모 팀을 위한 Figma 디자인 핸드오프 시스템 (파일 공유) | by Jiyu Han | Jul, 2021 | Medium](https://jiyu0719.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-figma-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%B8%EB%93%9C%EC%98%A4%ED%94%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0-cf497b4f7f87)
   * [Figma Assistant by Grida | Disquiet\*](https://disquiet.io/product/figma-assistant-by-grida) 당신의 디자인 / 개발 어씨스턴트. Figma 에서 Flutter 로 클릭한번에 완성
   * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
+  * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [Framer: A Free Interactive Design Tool for Teams](https://www.framer.com/)
