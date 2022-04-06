@@ -86,6 +86,7 @@ GIS
   * [osmnx-examples: Usage examples, demos, and tutorials for OSMnx](https://github.com/gboeing/osmnx-examples)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
+  * [QGIS3rdPartySW: This is only to share the QGIS plugin Source what i modified](https://github.com/kekero1004/QGIS3rdPartySW)
 * [pydeck: Large-scale interactive data visualization in Python](https://github.com/uber/deck.gl/tree/master/bindings/python/pydeck)
 * [python-geoip](https://pythonhosted.org/python-geoip/)
 
