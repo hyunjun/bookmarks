@@ -2738,7 +2738,7 @@ Programming
   * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
 * [An Engineer’s Guide to a Good Night’s Sleep](https://www.infoq.com/articles/engineers-guide-to-sleep/)
 * [interview 아이디어스팀 산증인이 말하는 개발 조직 성장기 | by Youngmin Lee | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%EC%82%B0%EC%A6%9D%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81-%EC%84%B1%EC%9E%A5%EA%B8%B0-dcdd32e309c)
-* [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E)
+* [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E) 단순히 배포 속도 향상만이 아니라 그걸 달성하기 위해 팀 조직부터 문화까지 바꾼 종합적인 이야기
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
