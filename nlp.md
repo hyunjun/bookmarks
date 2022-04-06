@@ -1680,6 +1680,8 @@ NLP
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [Spelling Checker Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-checker-program-in-python/)
 * [Spelling Corrector Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-corrector-program-in-python/)
+* [hanspell: (주)다음과 부산대학교 인공지능연구실/(주)나라인포테크의 웹 서비스를 이용한 한글 맞춤법 검사기](https://github.com/9beach/hanspell)
+* [hanspellr: R package for Korean spell checker](https://github.com/bayesiahn/hanspellr)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
   * [파이썬 네이버 맞춤법 검사 API, Py-hanspell](https://blog.naver.com/dsz08082/222317249656)
 * [SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm](https://github.com/wolfgarbe/SymSpell)
