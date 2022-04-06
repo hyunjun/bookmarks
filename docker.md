@@ -831,6 +831,7 @@ Docker
 * [Infra 쿠버네티스(kubernetes)(1) 쿠버네티스 구조(Kubernetes architecture) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes01/)
 * [Infra 쿠버네티스(kubernetes)(2) 쿠버네티스 설치(Kubernetes install) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes02/)
 * [Infra 쿠버네티스(kubernetes)(3) 쿠버네티스로 nginx, flask 연동 후 배포하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes03/)
+* [Infra 쿠버네티스(kubernetes)(4) 컨테이너 IP와 파드 IP의 관계 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes04/)
 * [A guide to Kubernetes architecture | Opensource.com](https://opensource.com/article/22/2/kubernetes-architecture)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
