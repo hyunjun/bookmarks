@@ -23,6 +23,7 @@ AWS
 * [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac)
   * AWS에서 CloudWatch의 알람을 Slack을 받을 수 있도록 AWS Chatbot을 이용한 과정 정리
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
+* LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
@@ -1086,6 +1087,7 @@ AWS
 * [Lambda Function URLs are now available on AWS | by Rajesh | Medium](https://medium.com/@Rajesh_R/lambda-function-urls-are-now-available-on-aws-ffd051705ade)
 * [Using larger ephemeral storage for AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/using-larger-ephemeral-storage-for-aws-lambda/)
 * [AWS Lambda – 최대 10GB 임시 스토리지 지원 시작 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)
+* [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
