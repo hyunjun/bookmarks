@@ -11,6 +11,7 @@ Business
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
 * [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
   * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+* [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
 * [01화 이커머스 도메인 지식이 왜 필요해요?](https://brunch.co.kr/@windydog/371)
 * [02화 내가 이커머스 도메인 지식을 배운 3가지 방법](https://brunch.co.kr/@windydog/378)
@@ -49,6 +50,7 @@ Business
 * [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
 * [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
+* [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
@@ -56,7 +58,7 @@ Business
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
-* [우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)
+* ~[우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)~
 * [일 못 하는 사람들의 33가지 태도 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236059)
 * [비즈니스 경영자를 위한 11가지 업무집중 향상법](http://ppss.kr/archives/37874)
 * [일은 원래 재미없는 것일까?](https://brunch.co.kr/@hyungsukkim/53)
@@ -943,6 +945,7 @@ Business
 * [MZ세대, 근속하게 하는 노하우는... '워라밸과 존중' - CIO Korea](https://www.ciokorea.com/news/228554)
 * [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
 * [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
+* ["단 한번도 후회 안 해" 김태호 PD가 21년만에 MBC 퇴사한 구체적 이유를 고백했고, '시대가 정말 달라졌구나' 싶다(서울체크인) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/kim-tae-ho-ott_kr_624d12b8e4b0981745076861) 핵심 인재에 대한 자율 보장
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
