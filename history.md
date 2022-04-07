@@ -21,6 +21,7 @@ History
 * [대량 학살이 모두 “제노사이드”는 아니다?](http://newspeppermint.com/2015/04/28/what-counts-as-genocide/)
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (1)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld/)
 * [새로운 지정학적 질서 재편과 함께 제동이 걸린 신자유주의 세계화 (2)](http://newspeppermint.com/2015/04/28/disintegrationoftheworld2/)
+* ["세계화는 끝났다. 미래의 승자는 중국/러시아다"](https://news.v.daum.net/v/20220403142305978)
 * [The Importance of a Good Night's Sleep](http://www.historytoday.com/katharine-craik/importance-good-nights-sleep)
 * [You are what you eat](http://www.economist.com/news/science-and-technology/21601812-or-rather-what-you-grow-eat-you-are-what-you-eat)
   * [당신이 먹는 것이 당신을 말해준다](http://ppss.kr/archives/37500) 개인주의/전체주의 문화 성향이 밀/쌀 농경에서 비롯되었다는 주장
