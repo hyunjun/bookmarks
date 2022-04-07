@@ -115,6 +115,9 @@ House
 * [부동산 중개 수수료 저렴하게...거래할 수 있는 곳 정리](https://open-support.tistory.com/entry/%EB%B6%80%EB%8F%99%EC%82%B0-%EC%A4%91%EA%B0%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C%EA%B1%B0%EB%9E%98%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%A0%95%EB%A6%AC)
 * [재건축과 리모델링은 부동산 폭등 시대의 대안이 될 수 있을까요?](https://contents.premium.naver.com/pickool/pickooltech/contents/220131140831653Zg)
 * [미리 알았더라면 좋았을 부동산 지식 - 사회 초년생 편 • 캡틴판교](https://joshua1988.github.io/life/real-estate-for-young/)
+* [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (1) - 준비사항 : 클리앙](https://www.clien.net/service/board/lecture/17148943)
+* [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (2) - 계약갱신청구권의 이해 : 클리앙](https://www.clien.net/service/board/lecture/17152957)
+* [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (3) - 손해배상까지의 과정 : 클리앙](https://www.clien.net/service/board/lecture/17154278?type=recommend)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
