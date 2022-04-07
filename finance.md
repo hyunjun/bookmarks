@@ -75,6 +75,7 @@ Finance
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
 * [SPY, QQQ 너무 뻔하다고? 미국 ETF 무시하면 큰일 납니다 - YouTube](https://www.youtube.com/watch?v=SrLOz2qYspA) DIA(다우존스산업평규, 월배당) IWM(러셀2000), XLF(대형은행, 연배당), KRE(지역은행)
+* [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
 * [ETF도 구관이 명관? 특이한거 찾다가 골로 갑니다 - YouTube](https://www.youtube.com/watch?v=65zVIy1Y_fk) JO ARKK AMOM APPL BRKb(버크셔 헤서웨이 B주) JNJ(존슨앤존슨, 배당)
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
