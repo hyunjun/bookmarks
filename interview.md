@@ -226,6 +226,9 @@ Interview
 * [실리콘밸리 소프트웨어 개발자 이직 후기](https://giunglee.notion.site/giunglee/307c67eedaa5448b92c90c1925a2c33c)
 * [What I Learned After Interviewing More Than 100 Software Engineers | by Philip Starritt | Better Programming](https://betterprogramming.pub/what-i-learned-after-interviewing-100-software-engineers-35e0454dcf4b)
 * [3-month plan for Cracking the Coding Interview | by Kanhu Panda | Feb, 2022 | Medium](https://medium.com/@techwithkp/3-month-plan-for-cracking-the-coding-interview-5534f0ad7595)
+* [The Big Tech Coding Interview Framework - Pt 1. Inspect](https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect)
+* [The Big Tech Coding Interview Framework - Pt 2. Strategy](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework)
+* [The Big Tech Coding Interview Framework - Pt 3. Coding](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework-cfb)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
