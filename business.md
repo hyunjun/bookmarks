@@ -49,6 +49,7 @@ Business
 * [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
 * [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
+* [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
