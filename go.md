@@ -507,6 +507,7 @@ Go
 * [Limit Unbound Concurrency in Go (Part 2) | by Jerry An | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/limit-unbound-concurrency-in-go-part-2-a00ada3bb50f)
 * [Limit Unbound Concurrency in Go (Part 3) | by Jerry An | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/limit-unbound-concurrency-in-go-part-3-3161791d1599)
 * [고루틴의 동작 원리에 관하여](https://ykarma1996.tistory.com/188)
+* [Goroutines in Golang | Golang Concurrency | Go - YouTube](https://www.youtube.com/watch?v=2mPHg54oVcQ)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
 
