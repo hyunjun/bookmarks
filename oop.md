@@ -329,6 +329,8 @@
 * [Start Python #1 Thread safe 싱글톤 패턴 - Kowana's coding](https://www.kowanas.com/coding/2020/11/29/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/)
 * [초보 탈출 #1 - 어려운 문제 조각내서 해결하기 | 10분 TV](http://10bun.tv/beginner/episode-1/#%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84)
 * [The S.O.L.I.D Principles in Python | by Bk Lim | Geek Culture | Sep, 2021 | Medium](https://medium.com/geekculture/the-s-o-l-i-d-principles-in-python-a041c5aa9969)
+* [**betterpython: Code examples for my Write Better Python Code series on YouTube**](https://github.com/arjancodes/betterpython)
+  * [Software Design in Python - YouTube](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
 
 # Ruby
