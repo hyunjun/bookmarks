@@ -683,6 +683,7 @@ SQL
 * [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
 * [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
 * [MySQL Best of 2021](https://blogs.oracle.com/mysql/post/mysql-best-of-2021)
+* [MySQL의 변신…”이제는 분석용 클라우드 DB” - Byline Network](https://byline.network/2022/04/0406/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
