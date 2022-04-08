@@ -834,13 +834,14 @@ NLP
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
 * [모두의 말뭉치](https://corpus.korean.go.kr)
 * [형태소 분석기의 모호성 해소 성능을 평가해보자](https://bab2min.tistory.com/672)
+* [hatescore-korean-hate-speech: 8K human in the loop hate speech dataset and 2.2K neutral sentences](https://github.com/sgunderscore/hatescore-korean-hate-speech/)
+* [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
+* [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
+* [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
 * [NIA(National Information Society Agency) Dictionary](https://github.com/haven-jeon/NIADic)
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
   * [한글형태소 사전 NIADic](https://kbig.kr/index.php?page=1&sv=title%E2%80%8B%E2%80%8B&sw&q=knowledge%2Fpds_&tgt=view&idx=16451)
-* [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
-* [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
-* [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
 
 # Course MOOC Lecture
 * [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
