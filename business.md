@@ -360,6 +360,7 @@ Business
 * [무료 퍼시스, 일하는 환경의 변화를 고민하다](https://www.folin.co/story/2090) office
 * [The Long Game](https://www.thestartupbible.com/2021/05/the-long-game.html) 꾸준함의 중요성
 * [우리의 일, 제품, 사람, 문화 이 모든 것의 기준 '핵심가치 10가지'](https://www.devsisters.com/ko/story/68/)
+* [네카라쿠배당토 핵심가치는 뭐가 다를까? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/wcms3/) core value
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
@@ -484,6 +485,7 @@ Business
     * 일을 더 재미있게, 강점을 활용할 수 있게, 개인의 욕구 반영
 * [7 Ways People Quit Their Jobs](https://hbr.org/2016/09/7-ways-people-quit-their-jobs)
   * [퇴사를 통보하는 7가지 방식](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-7_ways_people_quit_their_jobs-md)
+* [개발자 A씨의 퇴사 이야기 | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/story-of-a-developers-resignation/)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -1004,6 +1006,7 @@ Business
   * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1DTzYBO2xDwG2P2UxfcoDdW1Lcb0-HcrC/view?usp=sharing)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
 * [디지털 트랜스포메이션 잘 안 되나요?, 개발 조직 키우는 리더십부터 체크해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10409)
+* [Hello Guru 많은 리더들이 하는 착각, 통제하고 관리하면 성과난다? : 네이버 뉴스](https://news.naver.com/main/read.naver?oid=009&aid=0003163679)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

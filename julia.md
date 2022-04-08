@@ -170,6 +170,8 @@ Julia
     * 기존 프레임워크를 쓰던 사람은 문서 부실할 뿐더러 미니멀하기 때문에 필요한 것들이 엾어서 i.e. Regularization. 당황스러울 수 있음
   * [Flux: Machine Learning with Julia](https://discourse.julialang.org/t/flux-machine-learning-with-julia/2382)
   * [Char RNN](http://mikeinnes.github.io/Flux.jl/latest/examples/char-rnn.html)
+* [Genie Framework - Highly Productive Web Development with Julia](https://genieframework.com/)
+  * [GenieFramework - Julia용 웹 개발 프레임워크 | GeekNews](https://news.hada.io/topic?id=6325)
 * [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
 * [**Juno is a powerful, free environment for the Julia language**](http://junolab.org/)
 * [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)

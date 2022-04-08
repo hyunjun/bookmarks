@@ -430,6 +430,7 @@ Clojure
 * [The filter function in JavaScript and Clojure a detailed comparison with anonymous functions - YouTube](https://www.youtube.com/watch?v=z0NCJ3CfLw4)
 * [Exceptions in Clojure](https://grishaev.me/en/clj-book-exceptions/)
 * [Clojure Error Messages are Accidental - LispCast](https://lispcast.com/clojure-error-messages-accidental/)
+* [What Is Behind Clojure Error Messages?](https://lambdaisland.com/blog/2022-04-07-Clojure-Error-Messages)
 * [Working with binary data in clojure](https://fctorial.com/posts/parse_struct.html) serialization
 * [Clojure Sequence API Cheatsheet – Nextjournal](https://nextjournal.com/try/jackrusher/clojure-sequence-api-cheatsheet)
 * [Clojure: Sequences, part 1](https://tylerrhodes.net/posts/clojure-sequences/)

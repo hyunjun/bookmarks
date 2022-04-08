@@ -200,6 +200,7 @@ Algorithm
 * [The Two Egg Problem](https://jusths.tistory.com/117)
 * [General Egg Problem](https://jusths.tistory.com/119)
 * [Maximum Subarray Problem](https://jusths.tistory.com/129)
+* [Leetcode Maximum subarray solution – Software Development Done Right](https://www.ojblabs.com/leetcode-maximum-subarray-solution/)
 * [Smallest Subarray with Sum Greater than or Equal to K (Target) | Sliding Window - YouTube](https://www.youtube.com/watch?v=hTXcrluTIpY)
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
 * [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)

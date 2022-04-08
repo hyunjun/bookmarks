@@ -274,7 +274,6 @@ Data Visualization
   * [Data-Analysis - nbviewer ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
   * [Data-Analysis - Data Analysis Using Python and a little R](https://github.com/WillKoehrsen/Data-Analysis)
 * [practical-machine-learning-with-python/bonus content/effective data visualization](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/effective%20data%20visualization)
-* [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [PCA of X features with Y | Pega Devlog](https://jehyunlee.github.io/2021/01/13/Python-DS-54-pcaxy/)
 * [GPU Accelerated t-SNE for CUDA with Python bindings](https://github.com/CannyLab/tsne-cuda)
@@ -358,6 +357,8 @@ Data Visualization
   * [Lux: Automatic Visualizations for Exploratory Data Science - Doris Jung-Lin Lee | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=JQky6f5yDnE)
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
+  * [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
+  * [Mapboxgl - 서울 아파트 가격 3D 지도에 시각화하기 - 정우일 블로그](https://wooiljeong.github.io/python/mapboxgl_map/)
 * [p5 - a native Python port of the Processing API by Abhik Pal, Manindra Mohrarna, and contributors](https://p5.readthedocs.io/)
 * Pandas
   * [An Ultimate Cheat Sheet for Data Visualization in Pandas | by Rashida Nasrin Sucky | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)

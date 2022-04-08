@@ -224,6 +224,7 @@ AWS
 * [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM)
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 * [AWS, 몽고DB 호환 아마존 도큐먼트DB 발표](https://www.44bits.io/ko/post/news--aws-announce-mongodb-compatible-documentdb)
+* [Migrate Legacy Systems to Modern Application Development Environments with MongoDB Atlas on AWS | AWS Partner Network (APN) Blog](https://aws.amazon.com/es/blogs/apn/migrate-legacy-systems-to-modern-application-development-environments-with-mongodb-atlas-on-aws/)
 * AWS - Direct Connect
   * [Part 1](http://zigispace.net/986)
   * [Part 2 Hosted Connected](http://zigispace.net/999)
@@ -447,6 +448,7 @@ AWS
 * [AWS Networking & Content Delivery Services - YouTube](https://www.youtube.com/watch?v=lS6qoA2_VeQ)
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 * [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
+* [MORE AGILE: **당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들 (2022년 업데이트)**](https://www.moreagile.net/2022/04/aws-day1-todo_01694645043.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)

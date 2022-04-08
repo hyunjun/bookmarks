@@ -1296,6 +1296,7 @@ Docker
 * [Kubernetes에서 가시성(Visibility)을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-improve-visibility-in-kubernetes/)
   * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
   * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
+* [NGINX, Opsani 및 Prometheus를 사용하여 클라우드에서 Kubernetes 비용 70% 절감 사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/reducing-kubernetes-costs-70-percent-in-cloud-nginx-opsani-prometheus/)
 * [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
 * [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 * [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
@@ -1587,6 +1588,8 @@ Docker
 * [ValidKube | Validate, Clean & Secure Your K8s YAML](https://validkube.com/)
 * [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
+* [Volcano](https://github.com/volcano-sh)
+  * [Cloud Native Batch System Volcano moves to the CNCF Incubator | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/04/07/cloud-native-batch-system-volcano-moves-to-the-cncf-incubator/)
 
 ## Kubernetes Monitoring
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
