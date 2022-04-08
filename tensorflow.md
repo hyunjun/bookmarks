@@ -487,6 +487,7 @@ TensorFlow
 * [Introducing TensorFlow Similarity — The TensorFlow Blog](https://blog.tensorflow.org/2021/09/introducing-tensorflow-similarity.html)
 * [Advent of Code 2021 in pure TensorFlow - day 1 – P. Galeone's blog](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
 * [TF_Tutorial MoveNet - Pose Detection - 공부 기록장](https://inhopp.github.io/tf_tutorial/Tutorial1/)
+* [모바일 GPU에서 뉴럴 네트워크를 더 효율적으로 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/neural-network-on-mobile-gpu/)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
