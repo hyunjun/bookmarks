@@ -724,6 +724,7 @@ R
   * [데이터 과학을 위한 저작도구](https://statkclee.github.io/comp_document/ds-presn.html)
   * [swirl-tidy: Learn tidyverse in R via a set of swirl (https://swirlstats.com) lessons on introductions to tidyverse](https://github.com/sysilviakim/swirl-tidy)
   * [방태모의 블로그: tidyverse principle로 머신러닝 하기](https://www.taemobang.com/posts/2022-04-04-tidyvese-principle/)
+  * [방태모의 블로그: tidyverse로 데이터베이스랑 대화하기 - 1편](https://www.taemobang.com/posts/2022-04-07-talk-with-database-using-tidyverse-part-i/)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
