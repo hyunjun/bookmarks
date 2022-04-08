@@ -1670,6 +1670,12 @@ Programming Books
   * ★★★☆☆ 2022.04.03
   * [아마존 사람들은 이렇게 일합니다. 아마존에서 10년을 일한 후 컨설팅 업계로 옮긴 저자가 쓴 아마존에… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-4ab079da067d)
   * [아마존 사람들은 이렇게 일합니다](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
+* [임파워드: 평범한 사람들이 만드는 특별한 제품](https://jpub.tistory.com/1209)
+  * 탐라
+  * ★★★★☆ 2022.04.07~08
+  * [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
+  * [임파워드 - 평범한 사람들이 만드는 특별한 제품](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88)
+  * [임파워드 — 평범한 사람들이 만드는 특별한 제품. (그래서 직접 경험해보니 “내부 고객"이란 말이 정말 싫어졌다. 거의… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88-6c5a2cd1d1d7)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1693,9 +1699,6 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
-* (NOT YET) [임파워드: 평범한 사람들이 만드는 특별한 제품](https://jpub.tistory.com/1209)
-  * 탐라
-  * [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
 * (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
   * 탐라
   * [Team Topologies](https://teamtopologies.com/)
