@@ -19,6 +19,7 @@ Scala
   * [Adam Rosien: Cheese Pairings For Effects - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/169kHgsVpYzyK3ixy6KQ9q?si=dt754Us-Tl6HeuaOla9qmQ&nd=1)
   * [Jakub Kozłowski: From Highschool to Teaching Scala - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/4ZTAe6Slie5oXciwRqdMyj?si=FOuxQE7rQJW9pHWE1YgNKg&nd=1)
   * [Episode #112: Abstracting Stateful Serverless with Jonas Bonér - Serverless Chats Podcast](https://www.serverlesschats.com/112/)
+  * [Happy Path Programming • Anchor 팟캐스트](https://anchor.fm/happypathprogramming/)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -340,6 +341,7 @@ Scala
 * [Sick Fira Code Progress Bars for Absolute Beginners! - Part 2 - YouTube](https://www.youtube.com/watch?v=PKW5dJLpiWg)
 * [The Debug Adapter Protocol and Scala](https://www.chris-kipp.io/blog/the-debug-adapter-protocol-and-scala)
 * [Indoor Vivants:: Twotm8 (p.1): Introduction](https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction)
+* [BoundedContext - YouTube](https://www.youtube.com/watch?v=sHG-LgKr7dA) DDD
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -510,6 +512,7 @@ Scala
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
+* [An Akka, Cats and Cassandra Project in Scala - Part 1 - YouTube](https://www.youtube.com/watch?v=PPIPGzrc2wo)
 * Akka gRPC
   * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
   * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
@@ -523,6 +526,7 @@ Scala
   * [Best Practice: Should Not Block Threads — Monix](https://monix.io/docs/current/best-practices/blocking.html)
   * [Piotr Gawryś: Streaming with Monix - YouTube](https://www.youtube.com/watch?v=lzSykAUUQSA)
   * [Generic IOApp alternative - Alexandru Nedelcu](https://alexn.org/snippets/2020/10/15/generic-ioapp-alternative.html)
+  * [On Typelevel and Monix - Alexandru Nedelcu](https://alexn.org/blog/2022/04/05/future-monix-typelevel/)
 * [Monix BIO · Asynchronous Programming for Scala and Scala.js](https://bio.monix.io/)
   * [monix-bio: Asynchronous data type with typed errors](https://github.com/monix/monix-bio)
 
@@ -709,6 +713,7 @@ Scala
   * [Kafka Streams DSL for Scala: The Basics](https://medium.com/@danieljameskay/kafka-streams-dsl-for-scala-the-basics-11d603295f5c)
   * [Writing functional DSLs for business domains](https://medium.com/bigdatarepublic/writing-functional-dsls-for-business-domains-1bccc5d3f62b)
   * [Scala Parser Combinators: The Easier Way to Create an External DSL - Lior Schejter - YouTube](https://www.youtube.com/watch?v=6YcyFCWT_g0)
+  * [Context Function for DSL Design in Scala · Anatolii's Programming Blog](https://akmetiuk.com/posts/2022-04-02-context-functions.html)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * Either
   * [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
@@ -975,6 +980,7 @@ Scala
     * [Home | Ziverge](https://ziverge.com/blog/)
     * [A Preview of Logging in ZIO 2.0](https://ziverge.com/blog/a-preview-of-logging-in-zio-2/)
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
+    * [Introducing Scopes in ZIO 2.0 | Medium](https://murraytodd.medium.com/zio-20-scopes-b583f487c0af)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
@@ -987,6 +993,7 @@ Scala
     * [building a ZIO app from scratch with Adam Fraser - YouTube](https://www.youtube.com/watch?v=NXQlu3sTHEg)
     * [Zero-to-ZIO | Alteration x10](https://alterationx10.com/2022/02/01/zero-to-zio/)
     * [About capture checking. in scala 3 | by Oleg Nizhnik | Feb, 2022 | Medium](https://medium.com/@odomontois/several-days-ago-we-saw-the-new-experimental-feature-called-capture-checking-was-announced-in-e4aa9bc4b3d1)
+    * [Grokking ZIO. After a long evolutionary journey, the… | by Murray Todd Williams | Apr, 2022 | Medium](https://murraytodd.medium.com/grokking-zio-ac8fed5e6528)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1657,6 +1664,7 @@ Scala
   * [Type driven API development using Scala and Tapir | by Andrea Fiore | lenses.io | Jan, 2021 | Medium](https://medium.com/lensesio/type-driven-api-development-using-scala-and-tapir-f5df4b614d67)
   * [Tapir serverless: a proof of concept | by Adam Warski | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396)
   * [Security improvements in tapir 0.19](https://softwaremill.com/security-improvements-in-tapir-0-19/)
+  * [My first Tapir stream - SPFS #9 - YouTube](https://www.youtube.com/watch?v=GNleUFwgzWc)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
