@@ -867,6 +867,9 @@ AWS
 * [Spark 쓰면서 겪은 이야기들](https://tech.youha.info/6acde37d-25c5-4005-bc6a-b69d8c248eea)
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
+# EventBridge
+* [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
+
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 * [walmart-sales-forecast: Time Series Forecasting for Walmart Store Sales](https://github.com/youngmki/walmart-sales-forecast)
