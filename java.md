@@ -1607,6 +1607,7 @@ Java
     * Spring Boot의 실행할 수 있는 jar로 배포했을 때는 취약하지 않음
   * 이 취약점을 수정한 Spring 프레임워크 5.3.18, 5.2.20이 릴리스 되었고 Spring Boot 2.6.6, 2.5.12가 릴리스
 * [1인분을 해내기 위한 신입 서버 개발자의 좌충우돌 1년 - 넷마블 기술 블로그](https://netmarble.engineering/past-1year-to-be-server-programmer-as-one-developer/)
+* [Spring 개발환경에 따라 Profile 분리하는 방법과 활용 예제를 알아보자](https://velog.io/@couchcoding/Spring-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%97%90-%EB%94%B0%EB%9D%BC-Profile-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%ED%99%9C%EC%9A%A9-%EC%98%88%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
