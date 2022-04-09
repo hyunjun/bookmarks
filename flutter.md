@@ -129,6 +129,7 @@ Flutter
   * [Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유 | GeekNews](https://news.hada.io/topic?id=6032)
 * [Flutter 데이터베이스 [To Do List by Hive] - YouTube](https://www.youtube.com/watch?v=FYfnQ55UPAo)
 * [Flutter UI 그리기 - 배달의민족 홈화면. 안녕하세요! 🙌 | by kkensu | 조현철의 개발로그 | Apr, 2022 | Medium](https://medium.com/%EC%A1%B0%ED%98%84%EC%B2%A0%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%A1%9C%EA%B7%B8/flutter-ui-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1-%ED%99%88%ED%99%94%EB%A9%B4-9c09e195e318)
+* [Flutter UI 그리기 - 당근마켓 홈화면. 안녕하세요! 😁 | by kkensu | 조현철의 개발로그 | Apr, 2022 | Medium](https://medium.com/%EC%A1%B0%ED%98%84%EC%B2%A0%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%A1%9C%EA%B7%B8/flutter-ui-%EA%B7%B8%EB%A6%AC%EA%B8%B0-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%99%88%ED%99%94%EB%A9%B4-87dc17f135ec)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
