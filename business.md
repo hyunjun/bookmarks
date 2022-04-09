@@ -107,6 +107,7 @@ Business
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
+* [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
@@ -507,6 +508,7 @@ Business
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [스타트업을 위한 아웃바운드 채용 팁 8가지. 힘들게 발품, 손품을 팔고 계실 스타트업 채용담당자 분들께 도움이… | by Dayoung Seo | Apr, 2022 | Medium](https://dayoungseo.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%9B%83%EB%B0%94%EC%9A%B4%EB%93%9C-%EC%B1%84%EC%9A%A9-%ED%8C%81-a5eac6d9135e)
+* [채용 브랜딩을 왜 하실건데요? 스타트업 밑바닥 HR ③ | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing3/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
