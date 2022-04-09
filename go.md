@@ -66,6 +66,7 @@ Go
 * [A year with Go](http://vagabond.github.io/rants/2015/06/05/a-year-with-go/)
 * [Go: A Surprising Edge Case Concerning append and Slice Aliasing](http://www.jjinux.com/2015/05/go-surprising-edge-case-concerning.html)
 * [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
+* [Why Did I Move From TypeScript To Go | Level Up Coding](https://levelup.gitconnected.com/why-did-i-move-from-typescript-to-go-1d9f92ef882a)
 * [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
@@ -371,6 +372,7 @@ Go
   * [Reduce function using Generics in Go (Golang)](https://gosamples.dev/generics-reduce/)
   * [Palindrome using generics in Go 1.18 | by Yuda Prasetiya | Mar, 2022 | Medium](https://medium.com/@yudaph/palindrome-using-generics-in-go-1-18-715496e8deff)
   * [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
+  * [Calculate Mean in Go (Golang) using Generics](https://gosamples.dev/calculate-mean/)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
@@ -509,6 +511,7 @@ Go
 * [Limit Unbound Concurrency in Go (Part 3) | by Jerry An | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/limit-unbound-concurrency-in-go-part-3-3161791d1599)
 * [고루틴의 동작 원리에 관하여](https://ykarma1996.tistory.com/188)
 * [Goroutines in Golang | Golang Concurrency | Go - YouTube](https://www.youtube.com/watch?v=2mPHg54oVcQ)
+* [A Deep Dive Into Go's Concurrency | by Kevin Vogel | Apr, 2022 | Better Programming](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
 
