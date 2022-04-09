@@ -327,6 +327,7 @@ Python
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
+* [Convert Text into Audio using Python - YouTube](https://www.youtube.com/watch?v=7x0QZsev-4A)
 * [Python Basics for Data Science](https://financedata.github.io/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [파이썬 Python 코딩 - SMS 문자보내기, SMS LMS API 연동 방법 - YouTube](https://www.youtube.com/watch?v=uBnOJa9_UrI)
