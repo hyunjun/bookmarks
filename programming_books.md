@@ -1676,6 +1676,7 @@ Programming Books
   * [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
   * [임파워드 - 평범한 사람들이 만드는 특별한 제품](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88)
   * [임파워드 — 평범한 사람들이 만드는 특별한 제품. (그래서 직접 경험해보니 “내부 고객"이란 말이 정말 싫어졌다. 거의… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88-6c5a2cd1d1d7)
+  * [EMPOWERED: Ordinary People, Extraordinary Products - Silicon Valley Product Group](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
