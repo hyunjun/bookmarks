@@ -662,6 +662,7 @@ AWS
 * [Top 5 Advanced Spring Boot + AWS + Azure, and Cloud Native Development Courses in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/05/top-5-cloud-courses-for-java-and-spring-boot-developers.html)
 * [Top 5 Courses to learn AWS Cloud Formation in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-aws-cloudformation-in-depth.html)
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
+* [Top 10 Coursera Courses to Learn AWS, Google Cloud, Azure, and Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
@@ -1546,6 +1547,7 @@ AWS
   * Flow logs는 VPC 전체 네트워크뿐만 아니라 특정 서브넷이나 ENI의 트래픽만도 수집해서 볼 수 있음
   * 기본 형식에는 tcp-flags가 없어서 커스텀 포맷을 사용하면 이 값도 수집 가능
   * 네트워크 문제 분석이 쉽지 않은 상황에서 유용한 기능
+* [VPC Flow logs를 네트워크 문제 분석에 활용할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1418/)
 * [AWS로 클라우드 시작하기: ①VPC | 요즘IT](https://yozm.wishket.com/magazine/detail/1318/)
 
 # VPN
