@@ -615,6 +615,7 @@ History
 * [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 * [Russia and the Curse of Geography](http://www.theatlantic.com/international/archive/2015/10/russia-geography-ukraine-syria/413248/?single_page=true)
 * [소련은 왜 실패했는가: 처형당한 엔지니어의 유령](https://slownews.kr/74813)
+* [푸틴에 맞서 이기고 싶다면, ‘더 진실해져라’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47159) 너무 naive한 이야기 아닌가?
 
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)
