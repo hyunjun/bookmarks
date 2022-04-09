@@ -14,6 +14,7 @@ Julia
 * [julialang.org/learning](http://julialang.org/learning/)
 * [docs.julialang.org](http://docs.julialang.org/)
 * [learnxinyminutes.com/docs/julia](http://learnxinyminutes.com/docs/julia/)
+* [Talk Julia - YouTube](https://www.youtube.com/c/TalkJulia)
 * [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
   * [Introduction to Julia - Part 1 | SciPy 2014 | David Sanders](https://www.youtube.com/watch?v=vWkgEddb4-A)
   * [Workshop: David Sanders - Introduction to Julia for scientific Computing](https://www.youtube.com/watch?v=gQ1y5NUD_RI)
