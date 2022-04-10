@@ -849,6 +849,7 @@ R
 * [R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
 * [R릴레오 시즌1](https://www.youtube.com/playlist?list=PLiKjxGAhetNcK7yumhJ_gv9HNZ2g4Y_Im)
 * [R for beginners](https://www.rensvandeschoot.com/tutorials/r-for-beginners/)
+* [Frustration-One-Year-With-R: An extremely long review of R](https://github.com/ReeceGoding/Frustration-One-Year-With-R)
 
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
