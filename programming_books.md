@@ -45,6 +45,7 @@ Programming Books
     * 탐라
     * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     * [실용주의 프로그래머를 지향합니다. | LinkedIn](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
+    * [완전 주관적인 실용주의 프로그래머 팁 10선 - YouTube](https://www.youtube.com/watch?v=4I9DZm2aBhY)
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
 * [소프트웨어 산책](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%82%B0%EC%B1%85)
@@ -414,6 +415,8 @@ Programming Books
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
+  * [Clean Architecture 계층형 아키텍처의 문제점](https://devkingdom.tistory.com/340)
+  * [Clean Architecture 계층형 아키텍처의 문제점을 해결하는 육각형 아키텍처(헥사고날 아키텍처)](https://devkingdom.tistory.com/341)
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
