@@ -97,6 +97,7 @@ Programming Books
   * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
   * [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
+  * [프로그래머의 뇌 · TheoryDB](https://theorydb.github.io/review/2022/04/10/review-book-programmers-brain/)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
