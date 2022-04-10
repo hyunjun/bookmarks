@@ -1168,6 +1168,7 @@ Linux
 * rdiff-backup
   * [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
   * [Manage your Linux backups with Rdiffweb | Opensource.com](https://opensource.com/article/20/10/rdiffweb)
+* [redo: Redo is the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
