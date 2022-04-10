@@ -303,6 +303,8 @@ Go
 * [Why We Write Everything in Go | Bitly](https://bitly.com/blog/why-we-write-everything-in-go/)
 * [golang databe bbolt, kval langauge, and bolter - YouTube](https://www.youtube.com/watch?v=lxT2ezra7GQ)
 * [ugc: User-Generated Content Articles 📝](https://github.com/Codecademy/ugc)
+* [Uploading a file in Go(Golang) - YouTube](https://www.youtube.com/watch?v=0naUk4NSdio)
+* [Go file upload part 2 (simple straightforward method) - YouTube](https://www.youtube.com/watch?v=dCQ7S83Efs0)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
