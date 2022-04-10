@@ -159,6 +159,8 @@ Machine Learning
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Top 9 Algorithms for a Machine Learning Beginner](https://towardsdatascience.com/top-10-algorithms-for-machine-learning-beginners-149374935f3c)
 * [11 Most Common Machine Learning Algorithms Explained in a Nutshell | by Soner Yıldırım | Towards Data Science](https://towardsdatascience.com/11-most-common-machine-learning-algorithms-explained-in-a-nutshell-cc6e98df93be)
+* [10 Best Machine Learning Algorithms (2022) - Unite.AI](https://www.unite.ai/ten-best-machine-learning-algorithms/)
+  * [최고의 머신러닝 알고리듬들 | GeekNews](https://news.hada.io/topic?id=6156)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
@@ -651,6 +653,7 @@ Machine Learning
 * [pca.ipynb - Colaboratory](https://colab.research.google.com/github/metamath1/ml-simple-works/blob/master/pca/pca.ipynb)
 * [통계 고유값과 고유벡터를 이용한 주성분 분석(PCA) - 차원축소](https://blog.naver.com/pjt3591oo/222636875246)
 * [PCA를 이용하여 이미지 압축(Pillow)](https://blog.naver.com/pjt3591oo/222641548110)
+* [5 Reasons You Should Never Use PCA For Feature Selection](https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/)
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
@@ -830,6 +833,7 @@ Machine Learning
 * [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
 * [Hands-On with Unsupervised Learning](https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7)
 * [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+* [Introduction to K-Means Clustering | Pinecone](https://www.pinecone.io/learn/k-means-clustering/)
 
 ## Clustering Python
 * [RFMT Segmentation Using K-Means Clustering](https://medium.com/@blaizh/rfmt-segmentation-using-k-means-clustering-76bc5040ead5)
@@ -1134,6 +1138,7 @@ Machine Learning
   * [코드로 이해하는 BentoML](https://blog.lbox.kr/model-serving-bentoml)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
+* [cuml: cuML - RAPIDS Machine Learning Library](https://github.com/rapidsai/cuml)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
   * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
@@ -1171,6 +1176,7 @@ Machine Learning
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
   * [MediaPipe to openFrameworks](https://github.com/madelinegannon/example-mediapipe-udp/)
+* [metarank: A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://github.com/metarank/metarank)
 * [ML-airport-taxi-out: The ML-airport-taxi-out software is developed to provide a reference implementation to serve as a research example how to train and register Machine Learning (ML) models intended for four distinct use cases: 1) unimpeded AMA taxi out, 2) unimpeded ramp taxi out, 3) impeded AMA taxi out, and 4) impeded ramp taxi out. The software is designed to point to databases which are not provided as part of the software release and thus this software is only intended to serve as an example of best practices. The software is built in python and leverages open-source libraries kedro, scikitlearn, MLFlow, and others. The software provides examples how to build three distinct pipelines for data query and save, data engineering, and data science. These pipelines enable scalable, repeatable, and maintainable development of ML models](https://github.com/nasa/ML-airport-taxi-out)
 * [MLDB - the Machine Learning Database](http://mldb.ai/)
   * [Technology Fridays: MLDB is the Database Every Data Scientist Dreams Of](https://hackernoon.com/technology-fridays-mldb-is-the-database-every-data-scientist-dreams-of-368b50b5a434)
