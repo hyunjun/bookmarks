@@ -234,11 +234,13 @@ Data Science
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
+* [ds-cheatsheets: List of Data Science Cheatsheets to rule the world](https://github.com/FavioVazquez/ds-cheatsheets)
 * [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 * [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
 * [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
 * [Roadmap: Data Infrastructure · Bessemer Venture Partners](https://www.bvp.com/atlas/roadmap-data-infrastructure)
+* [The Guide to Modern Data Architecture | Future](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 * [**데이터를 얻으려는 노오오력**](https://www.slideshare.net/youngjaekim58/ss-77479253)
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * [**Analyzing GitHub, how developers change programming languages over time**](https://blog.sourced.tech/post/language_migrations/)
@@ -292,6 +294,7 @@ Data Science
 * [Data Science for Startups: Tracking Data](https://towardsdatascience.com/data-science-for-startups-tracking-data-4087b66952a1)
 * [TF에서 팀 빌딩까지 9개월의 기록 : 성장하는 조직을 만드는 여정](https://www.slideshare.net/zzsza/tf-9-160560910)
   * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+* [Organizing and scaling an effective data team](https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/)
 * [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 * [Generating and visualizing alpha with Vectorspace AI datasets and Canvas](https://www.elastic.co/kr/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas)
 * [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
@@ -366,6 +369,7 @@ Data Science
 * [데이터 실험에서의 실험자 편향 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/expbias/)
 * [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
 * [7 Must-Know Data Buzzwords in 2022 | by Coco Li | Kyligence | Jan, 2022 | Medium](https://medium.com/kyligence/7-must-know-data-buzzwords-in-2022-9d3d977a43f4)
+* [Data Management Trends You Need to Know - Gradient Flow](https://gradientflow.com/data-management-trends-you-need-to-know/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -616,6 +620,8 @@ Data Science
 * [Why Python is best choice for Data Science? - DEV Community](https://dev.to/javinpaul/why-python-is-the-best-programming-language-for-data-science-2a29)
 * [Python for Data Science - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kZHbJyPjsGzz7kLElYiWrV)
 * [Analyzing Data with Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1mXaUjc2TcIwbAkQmpArjCb)
+* [90+ Data Science Projects You Can Try with Python | Python in Plain English](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
+* [A Guide to Getting Datasets for Machine Learning in Python](https://machinelearningmastery.com/a-guide-to-getting-datasets-for-machine-learning-in-python/)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
