@@ -2131,6 +2131,7 @@ Programming
 * [floobits.com](https://floobits.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io) run 가능
 * [goorm.io](https://www.goorm.io/)
+  * [딥/머신러닝에 관심 있다면? 구름IDE GPU 인스턴스 베타 오픈 | GeekNews](https://news.hada.io/topic?id=6258)
 * [Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp](https://github.com/viebel/klipse)
 * [koding.com](https://www.koding.com/)
   * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
