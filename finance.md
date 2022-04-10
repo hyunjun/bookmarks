@@ -295,6 +295,7 @@ Finance
 * [아이투자에서 투자지표 (EPS, PER, 영업이익률 등) 크롤링하기](https://gils-lab.tistory.com/21)
 * [데이터분석 존버 vs 자동매매 백테스팅 수익률 비교(카카오)](https://songseungwon.tistory.com/entry/%EA%B0%80%EC%84%A4-%EA%B2%80%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88)
 * [Time Series Forecasting on Stock Prices - YouTube](https://www.youtube.com/watch?v=j05UUs99eNQ)
+* [20220410 Python Pandas 와 QLD BackTesting - YouTube](https://www.youtube.com/watch?v=_FAu0Ej9-hs)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
