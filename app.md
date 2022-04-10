@@ -1333,6 +1333,7 @@ App
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
+  * loom [화면 캡처 및 녹화 프로그램 loom(룸) 소개 : 네이버 블로그](https://blog.naver.com/punchkorea/222694330420)
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
