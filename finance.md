@@ -32,13 +32,14 @@ Finance
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
 * [JP MORGAN의 DEEP HEDGING 둘째](https://smallake.kr/?p=28132)
+* [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
+* [C++ 혹은 Excel/VBA로 배우는 투자금융 | 그대안의 작은 호수](https://smallake.kr/?p=31081)
 * [신용 점수 서비스, LINE Score를 소개합니다!](https://engineering.linecorp.com/ko/blog/introduce-credit-score-service-line-score/) 개발 이야기는 아니지만 재미있게 읽을만한 글
 * [**중국의 페이할부결제, 한국에서도 유행할까?**](https://brunch.co.kr/@windydog/290)
 * [AI 자산운용 보고서](https://brunch.co.kr/@qraft/7) 자산운용 방식 변화에 대한 흐름 설명
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language | by Yakko Majuri | Aug, 2020 | Noteworthy - The Journal Blog](https://blog.usejournal.com/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569)
 * [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
 * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
-* [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
 * [미국주식 '기업/산업 리포트 찾는 방법' 총정리! - 한강뷰가 사용하는 방법은? : 네이버 블로그](https://m.blog.naver.com/tete2002/222315925394)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
@@ -108,6 +109,7 @@ Finance
 * [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
+* [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
@@ -298,6 +300,7 @@ Finance
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
   * [오픈 API를 이용한 주식 데이터 수집하기 (2) 일별 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/6)
   * [오픈 API를 이용한 주식 데이터 수집하기 (3) 분틱 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/27)
+* [finance_sentiment_corpus: 한국어 뉴스의 긍정, 부정이 레이블링 된 금융 뉴스 문장 감성 분석 데이터셋 (finance sentiment corpus) 입니다](https://github.com/ukairia777/finance_sentiment_corpus)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
