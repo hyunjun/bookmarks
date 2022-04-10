@@ -1708,6 +1708,11 @@ Programming Books
   * [Team Topologies](https://teamtopologies.com/)
   * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
   * [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
+  * [Beyond the Spotify Model: using Team Topologies for fast Flow and Organisation Evolution - YouTube](https://www.youtube.com/watch?v=lj71GcOnIW8)
+    * Software sizing and cognitive load -> Team-first Thinking
+    * Heuristics for Conway's Law -> Reverse Conway to mitigate worst effects
+    * Patterns for team interactions
+    * Triggers for change and evolution
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) 피플웨어
   * 우당
