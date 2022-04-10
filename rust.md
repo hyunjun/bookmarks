@@ -155,6 +155,7 @@
 * [Macbook M1에 Visual Studio Code + Jupyter Notebook 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1664)
 * [Macbook M1에서 설치된 Visual Studio Code + Jupyter Notebook에서 Rust 코드 실행하기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1665)
 * [Part 1: The life of an optimization barrier | Trail of Bits Blog](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
+* [Allocating Less: Really Thin Rust Cloud Apps - YouTube](https://www.youtube.com/watch?v=nO-BFKyWYgE)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
