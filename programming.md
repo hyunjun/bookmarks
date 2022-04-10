@@ -260,6 +260,7 @@ Programming
 * [2022 신입 공채 iOS 기술 온보딩을 소개합니다. – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-ios/)
 * [2022 신입 공채 Android 직무 기술 온보딩 회고 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-android/)
 * [성장할 수밖에 없었던 2022 신입 공채 FE 크루들의 기술 온보딩 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-fe/)
+* [A day in the life: Engineer onboarding at Dropbox - Dropbox](https://dropbox.tech/culture/a-day-in-the-life-engineer-onboarding-at-dropbox)
 * [시스템신뢰성개발팀을 소개합니다. - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2021/02/22/introduction-to-sre.html)
 * [**우아~한 장애대응 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/4886/)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
