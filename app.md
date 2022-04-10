@@ -260,6 +260,7 @@ App
 * [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
 * [블로그 새단장 후기, 2탄 | imch.dev](https://imch.dev/posts/blog-renewal-2021) headless CMS
 * [Next Gen Static Blogging | mmackh](https://inoads.com/articles/2021-01-09-Next-Gen-Static-Blogging)
+* [티스토리 개인도메인 사이트 기존 URL 유지하면서 이전하기 - tebica story](https://earlybird.kr/2655)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
