@@ -118,6 +118,7 @@ House
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (1) - 준비사항 : 클리앙](https://www.clien.net/service/board/lecture/17148943)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (2) - 계약갱신청구권의 이해 : 클리앙](https://www.clien.net/service/board/lecture/17152957)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (3) - 손해배상까지의 과정 : 클리앙](https://www.clien.net/service/board/lecture/17154278?type=recommend)
+* [회색 코뿔소, 입주물량의 역습](https://www.koreamonitor.co.kr/view.php?ud=20220312163216790bb0cd1e55_41)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
