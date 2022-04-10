@@ -311,6 +311,9 @@ Apache
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
 * [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
+# Hop
+* [Apache Hop - Hop](https://hop.apache.org/)
+
 # Iceberg
 * [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
 * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
@@ -824,6 +827,7 @@ Apache
 * [Deep Dive into Apache Kafka: Your go-to Event Streaming Framework. | by Jay | Nov, 2021 | Medium](https://jay-reddy.medium.com/deep-dive-into-apache-kafka-your-go-to-event-streaming-framework-124fa6180ff6)
 * [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 * [Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
+* [Streams and Monk – How Yelp is Approaching Kafka in 2020](https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
