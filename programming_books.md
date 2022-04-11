@@ -1147,6 +1147,7 @@ Programming Books
 # Functional programming
 * (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
+* (NOT YET) 쏙쏙 들어오는 함수형 코딩 [갈수록 커지고 복잡해지는 코드, 쉽게 관리하는 방법은 없을까?](https://jpub.tistory.com/1259)
 
 # Game
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
