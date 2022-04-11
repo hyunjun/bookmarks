@@ -2036,6 +2036,7 @@ Python
   * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
   * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
   * [개발 환경 구성: 598. PyCharm - 원격 프로세스를 디버그하는 방법](https://www.sysnet.pe.kr/2/0/12798)
+  * [파이참 입문자를 위한 창 이동 및 기본 인터페이스](https://martinii.fun/231)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 * [python-devtools](https://python-devtools.helpmanual.io/)
   * [Python's missing debug print command and other development tools](https://pythonawesome.com/pythons-missing-debug-print-command-and-other-development-tools/)
