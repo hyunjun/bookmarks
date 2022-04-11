@@ -205,6 +205,7 @@ AWS
 * [Top 10 security best practices for securing backups in AWS | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/)
 * [How to secure API Gateway HTTP endpoints with JWT authorizer | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/how-to-secure-api-gateway-http-endpoints-with-jwt-authorizer/)
 * [AWS 기반 게임 개발자를 위한 안내서 – 1부. DDoS 공격 방어 방법](https://aws.amazon.com/ko/blogs/korea/anti-ddos-for-game/)
+* [인터넷을 통해 유입되는 트래픽을 보호하기 위한 AWS 기반 방화벽 배포방식 설계 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/design-your-firewall-deployment-for-internet-ingress-traffic-flows/)
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
