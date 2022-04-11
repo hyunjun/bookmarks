@@ -578,6 +578,7 @@ AWS
   * [AWS re:Invent 2021 CTO 기조연설 요약 - AWS On-Air 한국어 라이브 (12월 3일) - YouTube](https://www.youtube.com/watch?v=ziyPW8s_c-c)
   * [AWS re:Invent 2021 AI/ML 신규 서비스 요약 - AWS On-Air 한국어 라이브 (12월 2일) - YouTube](https://www.youtube.com/watch?v=9fMwObd5wk0)
   * [탈중앙 게임과 AWS re:Invent](https://snack.planetarium.dev/kor/2022/01/2021-aws-reinvent/)
+  * [AWS re:Invent 2021을 통해 본 클라우드의 미래 - 윤석찬, AWS 수석테크에반젤리스트 :: AWS re:Invent re:Cap - YouTube](https://www.youtube.com/watch?v=7bbXmuGAUdQ)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
