@@ -334,6 +334,9 @@ Programming Books
   * 우당
 * (NOT YET) [생활코딩! 아마존 웹 서비스 | 위키북스](https://wikibook.co.kr/aws/)
   * 우당
+* (NOT YET) [비즈니스 머신러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6474110466)
+* (NOT YET) [풀스택 서버리스 : 리액트, AWS, 그래프QL을 이용한 최신 애플리케이션 개발](https://hanbit.co.kr/store/books/look.php?p_code=B7015117381)
+* (NOT YET) [쉽게 배우는 AWS AI 서비스](https://hanbit.co.kr/store/books/look.php?p_code=B2949290774)
 
 # Android
 
@@ -925,6 +928,7 @@ Programming Books
   * [책 Generative Deep Learning - 미술관에 GAN 딥러닝 실전 프로젝트](https://jybaek.tistory.com/852)
 * (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
 * (NOT YET) [리뷰 GAN 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/03/20/review-book-first-gan/)
+* (NOT YET) [케라스로 구현하는 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B5392144310)
 
 ## Tensorflow
 * 텐서플로 첫걸음
