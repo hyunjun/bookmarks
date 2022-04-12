@@ -1676,6 +1676,7 @@ App
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
   * [옵시디안(Obsidian)과 제텔카스텐 기본 과정(완결) - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUUJlu0L-_U7c1jy_bqvPMR6)
   * [옵시디안 중급 활용팁 - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC)
+  * [How the Heck Do I Use Obsidian? (Part I) - YouTube](https://www.youtube.com/watch?v=a0a98Ko8e3g)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
