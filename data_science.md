@@ -622,6 +622,9 @@ Data Science
 * [Analyzing Data with Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1mXaUjc2TcIwbAkQmpArjCb)
 * [90+ Data Science Projects You Can Try with Python | Python in Plain English](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
 * [A Guide to Getting Datasets for Machine Learning in Python](https://machinelearningmastery.com/a-guide-to-getting-datasets-for-machine-learning-in-python/)
+* [Refactoring A Data Science Project Part 1 - Abstraction and Composition - YouTube](https://www.youtube.com/watch?v=ka70COItN40)
+* [Refactoring A Data Science Project Part 2 - The Information Expert - YouTube](https://www.youtube.com/watch?v=Tx4AxbQNv3U)
+* [Refactoring A Data Science Project Part 3 - Configuration Cleanup - YouTube](https://www.youtube.com/watch?v=8fFqakxhW84)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
