@@ -2040,6 +2040,7 @@ Programming
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/)
 * [The Code Review Pyramid - Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [효과적인 코드리뷰를 위한 리뷰어의 자세 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-codereview/)
+* [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
