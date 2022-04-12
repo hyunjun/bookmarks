@@ -1186,6 +1186,7 @@ Programming
 * [2012-04-17 만화 서비스 오픈 후기 : 네이버 블로그](https://m.blog.naver.com/ez_/140157300770)
 * [10 principals in design system architecture | by Weekly Dev Blog | Medium](https://wklytech.medium.com/10-principals-in-design-system-architecture-753adce0203c)
 * [System Design — Data Builder Framework — Designed By Flipkart Engineering Team | by Evelynn Tech Blog | Medium](https://evelynn.tech/system-design-data-builder-framework-designed-by-flipkart-engineering-team-4d8c5108b687)
+* [현대차의 모빌리티 서비스 플랫폼, 셔클 개발기 – 현대모터그룹 TECH](https://tech.hyundaimotorgroup.com/kr/developers-blog/hyundai-motor-companys-mobility-service-platform-shucle-development-story/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1504,6 +1505,7 @@ Programming
 * [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 * [Why Microservices Fail - YouTube](https://www.youtube.com/watch?v=B3O-qYM-Kkw)
+* [Seven Ways to Fail at Microservices - YouTube](https://www.youtube.com/watch?v=nEO4eAr2AGE)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
 * [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
@@ -1607,6 +1609,7 @@ Programming
 * [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
 * [영상 - 마이크로서비스 6가지 핵심 개념 소개 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/microservices-6-key-concepts)
 * [Microservices Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLlbOZgAHblLvRxNiU8lLoaB9OZvX13Huo)
+* [Fundamentals of Microservices - YouTube](https://www.youtube.com/watch?v=lqW_bsSPg60)
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 * [The truth about starting with microservices – Arnold Galovics](https://arnoldgalovics.com/truth-about-microservices/)
 * [마이크로서비스 모니터링 전략··· 'RED'의 개념과 장단점 - CIO Korea](https://www.ciokorea.com/news/213954)
