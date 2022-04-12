@@ -1073,6 +1073,8 @@ Programming Books
   * [도메인 주도 설계 핵심](https://imch.dev/posts/domain-driven-design-distilled)
 * (NOT YET) [DDD START!](https://joochang.tistory.com/93)
 * (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
+* (NOT YET) [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
+  * [ddd-start2](https://github.com/madvirus/ddd-start2)
 
 # Elasticsearch
 
