@@ -345,6 +345,7 @@ Android
 * Glide
   * [Glide의 AppGlideModule을 통해 고급 설정 하기](http://sunphiz.me/wp/archives/3546)
   * [Glide#into 사용시 주의점](http://pluu.github.io/blog/android/2020/04/28/glide-fail-case/)
+  * [Glide vs. Coil 메모리 사용량 비교. 우리 APP에서 OOM을 피하기 위한 비교적 안전한 라이브러리는… | by Sang Young Lee | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/glide-vs-coil-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%B9%84%EA%B5%90-cb93cffb9fc0)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)

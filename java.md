@@ -1227,6 +1227,7 @@ Java
   * [Jenkins Tutorial for Beginners FULL COURSE in 3 Hours - YouTube](https://www.youtube.com/watch?v=MTm3cb7qiEo)
   * [Jenkins Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLl4APkPHzsUV3pz6zRpFJe3A4wTM2Pjvv)
   * [#6 Jenkins Pipeline CI CD Tutorial| Detailed Video - YouTube](https://www.youtube.com/watch?v=6xZUyyzJUbI)
+  * [Jenkins로 서버 접속 없이 CI/CD 통합하기. 서버 직접 접속 없이 Jenkins만으로 Batch 코드 빌드(CI)와… | by 김민우 | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/d-142cbbd5010)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [jenv: Manage your Java environment](https://github.com/jenv/jenv)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
@@ -1834,6 +1835,7 @@ Java
 * [Finding Memory Leaks in Java Microservices – Part 1](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-1/)
 * [Finding Memory Leaks in Java Microservices – Part 2](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-2/)
 * [하나의 메모리 누수를 잡기까지](https://d2.naver.com/helloworld/1326256)
+* [어랏!! 여기에서 OOM이 발생할 줄이야…. OOM 에러 케이스와 함께 Mybatis의 캐시 정책과 GC의 동작방식… | by HAEUN JEONG | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%96%B4%EB%9E%8F-%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C-oom-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%A4%84%EC%9D%B4%EC%95%BC-503ddf286fd)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)

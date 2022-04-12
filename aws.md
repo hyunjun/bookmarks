@@ -908,6 +908,7 @@ AWS
 * [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
 * [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
 * [AWS Kinesis python으로 다뤄보기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/python-kinesis/)
+* [AWS로 간단하고 신속하게 실시간 데이터 처리 및 분석하기. Kinesis Data Streams과 Kinesis… | by ywjo | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-6ce048b3b1ee)
 * [kinesumer: A Go client implementing a client-side distributed consumer group client for Amazon Kinesis](https://github.com/daangn/kinesumer)
 
 # Lambda

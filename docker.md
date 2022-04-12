@@ -87,6 +87,7 @@ Docker
 * [Docker](https://www.youtube.com/playlist?list=PLfI752FpVCS84hxOeCyI4SBPUwt4Itd0T) Docker, Kubernetes, google cloud 배포, Dockerfile 없이 image build
 * [Docker](https://www.youtube.com/playlist?list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc)
 * [**왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유**](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
+* [왜, Docker를 써야 하는가?. 왜, 물리 서버 환경에서 Container 환경으로 변화해야 할까? | by JinStyle | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/docker%EB%A5%BC-%EC%99%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%8A%94%EA%B0%80-2310117b4dea)
 * [**리눅스 컨테이너란?**](https://www.44bits.io/ko/keyword/linux-container)
 * [4 Linux technologies fundamental to containers | Opensource.com](https://opensource.com/article/21/8/container-linux-technology)
 * [stdout_013.log: 도커를 굳이 왜 사용해야하나요?](https://stdout.fm/13/)
