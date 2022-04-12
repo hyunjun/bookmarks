@@ -1860,6 +1860,7 @@ Javascript
 * [pollyjs: Record, Replay, and Stub HTTP Interactions](https://github.com/Netflix/pollyjs)
   * [Polly.js - HTTP를 녹화/재생하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=5491)
 * [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
+* [Preview.js](https://previewjs.com/) Preview UI components in your IDE instantly, Visual Studio Code and IntelliJ / WebStorm
 * [probe-image-size: Get image size without full download. Supported image types: JPG, GIF, PNG, WebP, BMP, TIFF, SVG, PSD, ICO](https://github.com/nodeca/probe-image-size)
   * [probe-image-size - 파일 다 안받고 이미지 크기 알아내기 | GeekNews](https://news.hada.io/topic?id=3932)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
