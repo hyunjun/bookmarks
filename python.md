@@ -567,6 +567,7 @@ Python
     * [practice - transpose with or without zip(\*)](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-zip-md)
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
+  * [This Is When Keyword Arguments Are Really Useful // Python Tips - YouTube](https://www.youtube.com/watch?v=-olA2AT4vjY)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
   * [**파이썬에서 arguments로** \***(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
