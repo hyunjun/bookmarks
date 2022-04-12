@@ -1737,6 +1737,7 @@ Programming Books
   * 우당
 * (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라
+* (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
 
 # Math
 
