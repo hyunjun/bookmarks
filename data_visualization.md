@@ -360,6 +360,7 @@ Data Visualization
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
   * [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
   * [Mapboxgl - 서울 아파트 가격 3D 지도에 시각화하기 - 정우일 블로그](https://wooiljeong.github.io/python/mapboxgl_map/)
+  * [Python Mapboxgl로 지도 시각화하기 - 정우일 블로그](https://wooiljeong.github.io/python/mapboxgl/)
 * [p5 - a native Python port of the Processing API by Abhik Pal, Manindra Mohrarna, and contributors](https://p5.readthedocs.io/)
 * Pandas
   * [An Ultimate Cheat Sheet for Data Visualization in Pandas | by Rashida Nasrin Sucky | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)
