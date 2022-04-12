@@ -4228,6 +4228,7 @@ Javascript
 * [ORM typeorm-uml을 이용하여 데이터베이스 다이어그램 그리기](https://blog.naver.com/pjt3591oo/222472579823)
 * [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
 * [TypeORM 마개조했습니다. · 감자도스](https://blog.potados.com/dev/typeorm-extended/)
+* [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
