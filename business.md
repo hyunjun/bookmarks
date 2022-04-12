@@ -507,6 +507,8 @@ Business
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
+* [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
+* [A급 인재는 A급을 추천할까?](https://brunch.co.kr/@seanchoi-hr/28)
 * [스타트업을 위한 아웃바운드 채용 팁 8가지. 힘들게 발품, 손품을 팔고 계실 스타트업 채용담당자 분들께 도움이… | by Dayoung Seo | Apr, 2022 | Medium](https://dayoungseo.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%EC%9B%83%EB%B0%94%EC%9A%B4%EB%93%9C-%EC%B1%84%EC%9A%A9-%ED%8C%81-a5eac6d9135e)
 * [채용 브랜딩을 왜 하실건데요? 스타트업 밑바닥 HR ③ | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing3/)
 * [스타트업에서 핵심인력을 구성하고 채용하는 방법 : 네이버 블로그](https://blog.naver.com/dmchoi888/222695901389)
@@ -1015,6 +1017,7 @@ Business
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
 * [디지털 트랜스포메이션 잘 안 되나요?, 개발 조직 키우는 리더십부터 체크해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10409)
 * [Hello Guru 많은 리더들이 하는 착각, 통제하고 관리하면 성과난다? : 네이버 뉴스](https://news.naver.com/main/read.naver?oid=009&aid=0003163679)
+* ["좋은 팀장과 좋은 선배는 달라".. 팀원을 성장시키는 팀장 비법](https://blog.naver.com/businessinsight/222673092879)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1387,3 +1390,4 @@ Business
 * [논리적 디자인을 위한 상세 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/928/)
 * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 * [프로덕트 디자이너의 권한은 어디까지인가? | idus-Tech](https://medium.com/idus-tech/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%EA%B6%8C%ED%95%9C%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%EC%9D%B8%EA%B0%80-a1900e860731)
+* [롯데ON은 어떤 보이스&톤으로 고객과 커뮤니케이션하고 있을까? | by hey choi | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EB%A1%AF%EB%8D%B0on%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%B3%B4%EC%9D%B4%EC%8A%A4%EC%95%A4%ED%86%A4%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EA%B0%9D%EA%B3%BC-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-51ccec5bc18b)
