@@ -1984,6 +1984,7 @@ Programming Books
 * (NOT YET) 파이썬을 활용한 금융공학 레시피
   * 2018.07 탐라
 * (NOT YET) [금융 데이터를 위한 파이썬](https://github.com/bjpublic/python-for-finance-data)
+  * [파이썬을 활용한 금융 분석(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2027701371)
 * (NOT YET) Fluent Python 전문가를 위한 파이썬: 간단하고, 명료하고, 효율적인 파이썬 프로그래밍
   * 한라 005.133-하32ㅈ
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
