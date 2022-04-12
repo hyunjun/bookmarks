@@ -15,6 +15,7 @@
 * [Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 * [디지털 광고 효과 실시간 측정 어려워져, 데이터 수집-분석 방식 다변화가 열쇠 | 마케팅/세일즈 | DBR](https://dbr.donga.com/article/view/1202/article_no/10219/ac/a_view)
 * [대행사를 운영하며 얻은 10가지 깨달음 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252442)
+* [<카카오웹툰> 앱 론칭 캠페인 회고](https://brunch.co.kr/@bat/84)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
