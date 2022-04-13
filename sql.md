@@ -776,6 +776,7 @@ SQL
 * [한국 PostgreSQL](http://postgresql.kr)
 * [Postgres Guide](http://www.postgresguide.com/)
 * [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+* [practice - unique index and null](https://gist.github.com/hyunjun/0b0b90a536a623edc59da4605adbf519#file-unique_index_and_null-md)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
