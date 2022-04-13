@@ -670,6 +670,7 @@ Programming
 * [Key Concepts of Agile Software Development - Discover Better Value Faster](https://www.cloudnowtech.com/blog/key-concepts-of-agile-software-development/)
 * [우리가 개발하는 방식 - 눈덩이 굴리기](https://gifting.oopy.io/snowball)
 * [How To Build Quality Software Fast • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NgFVrvwth-Q)
+* [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Va8QedfiC9k)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -2640,6 +2641,7 @@ Programming
 * [Is Data Mesh the Future? - YouTube](https://www.youtube.com/watch?v=1Kk7NE1RMVQ)
 * [A Data Mesh Of Streams – Ben Stopford, Confluent - YouTube](https://www.youtube.com/watch?v=1SV0eEY9qv8)
 * [Data Mesh in Practice: How to set up a data driven organization - Max Schultze, Zalando - YouTube](https://www.youtube.com/watch?v=rqYFqtztWi4)
+* [Lessons from the trenches in Data Mesh – Zhamak Dehghani and Sina Jahan - YouTube](https://www.youtube.com/watch?v=Nw_bxIyR1L0)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
