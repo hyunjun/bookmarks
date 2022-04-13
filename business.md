@@ -489,6 +489,7 @@ Business
 * [7 Ways People Quit Their Jobs](https://hbr.org/2016/09/7-ways-people-quit-their-jobs)
   * [퇴사를 통보하는 7가지 방식](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-7_ways_people_quit_their_jobs-md)
 * [개발자 A씨의 퇴사 이야기 | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/story-of-a-developers-resignation/)
+* [퇴사 인터뷰들은 함정입니다 | GeekNews](https://news.hada.io/topic?id=6304)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
