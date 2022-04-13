@@ -637,6 +637,8 @@ Go
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
+* [gqlgen: go generate based graphql server library](https://github.com/99designs/gqlgen)
+  * [Lunit CARE는 왜 GraphQL을 선택했는가?. Lunit CARE (https://www.lunit.care)… | by 김준형 | Apr, 2022 | Medium](https://medium.com/@ghilbut/lunit-care%EB%8A%94-%EC%99%9C-graphql%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-f4d9bdc183ee)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * [graphjin: GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler](https://github.com/dosco/graphjin)
   * [GraphJin - 빠른 GraphQL API 만들기 | GeekNews](https://news.hada.io/topic?id=5501)
