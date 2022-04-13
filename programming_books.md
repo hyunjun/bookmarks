@@ -773,6 +773,8 @@ Programming Books
 * (NOT YET) [단단한 심층 강화학습](https://jpub.tistory.com/1240)
 * (NOT YET) [비전공자를 위한 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289141969)
 * (NOT YET) [그래프 신경망 입문 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-neural-networks)
+* (NOT YET) [Must Have 머신러닝·딥러닝 문제해결 전략 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%c2%b7%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%ac%b8%ec%a0%9c%ed%95%b4%ea%b2%b0-%ec%a0%84%eb%9e%b5/)
+  * [musthave_mldl_problem_solving_strategy: 《머신러닝·딥러닝 문제해결 전략》](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
