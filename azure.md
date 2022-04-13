@@ -7,9 +7,7 @@ Azure
 * [Adventures in High Speed Networking on Azure](http://www.ageofascent.com/azure-cloud-high-speed-networking/)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 * [Introducing U-SQL – A Language that makes Big Data Processing Easy](http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx)
-* [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
 * [공정한 & 편향없는 AI를 위한 Fairlearn 및 애저 MLOps 도구 활용 | 마이크로소프트 기술 블로그](https://microsoft.github.io/developerkorea/posts/2021/01/26/towards-fairness-ai-with-fairlearn-and-azure-mlops/)
-* [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
 * [totuworld.github.io](http://totuworld.github.io/)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
 * [코스피 지수 예측모델 개발 2편](https://brunch.co.kr/@chris-song/14)
@@ -208,3 +206,8 @@ Azure
 * [What’s like doing ML without a single line of code](https://drive.google.com/file/d/13PeCaO7iu5Aeun1Irk_lGtDH920ask2L/view)
 * [AI Show | Channel 9](https://channel9.msdn.com/Shows/AI-Show)
 * [Azure Machine Learning Tutorial | What Is Azure Machine Learning? | Azure Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=NMpc5Z63RMA)
+
+# Python
+* [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
+* [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
+* [클라우드에서 파이썬을 잘 활용하는 다양한 방법 (feat. Azure) - 최영락 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=ywaG1ziUDz4)
