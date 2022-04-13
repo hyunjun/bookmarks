@@ -249,4 +249,5 @@ Flutter
 * [Flutter Course for Beginners – 37-hour Android App Development Tutorial - YouTube](https://www.youtube.com/watch?v=VPvVD8t02U8)
 * [Create Toast Functions-learn How to create Functions in flutter and how to use it Flutter Toturial. - YouTube](https://www.youtube.com/watch?v=eqI0IJFcVX4)
 * [얼마나걸릴까? 미세먼지 앱 만들어보기 UI Only! - YouTube](https://www.youtube.com/watch?v=JuFUECZSDGU)
+* [코딩셰프 - YouTube](https://www.youtube.com/channel/UC_2ge45JCuJH1z6VYt4iCgQ/playlists)
 * [flutter-learn: Flutter와 Firebase를 사용하여 단일 Dart 코드베이스로 Android, iOS, 웹에서 커뮤니티 앱을 빌드합니다](https://github.com/ska2519/flutter-learn)
