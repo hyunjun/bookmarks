@@ -394,6 +394,7 @@ Java
   * [**Armeria의 서킷 브레이커 사용해 보기**](https://engineering.linecorp.com/ko/blog/try-armeria-circuit-breaker/)
   * [Armeria에서 Prometheus 지표 모니터링하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/armeria-prometheus-monitoring/)
   * [Armeria 지표 커스터마이징하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/armeria-metrics-customizing/)
+  * [LINE DEV Meetup #11 LINE 서버 개발자들이 말한다! Armeria 아직도 안써요? - YouTube](https://www.youtube.com/watch?v=Zb041EoDcDc)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
