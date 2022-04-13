@@ -2629,6 +2629,7 @@ Programming
 * SSRF ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
 
 # Data Mesh
+* [Data Mesh 101: What is Data Mesh? - YouTube](https://www.youtube.com/watch?v=zfFyE3xmJ7I)
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
   * data pipeline evolution: Batch => Streaming => Automation => Microwarehouses (Distributed Data Mesh)
   * Data catalogs are gaining popularity: Apache Atlas, DataHub(LinkedIn), Marquez(WeWork), Data Catalog(Google)
