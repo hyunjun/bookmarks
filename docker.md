@@ -572,6 +572,7 @@ Docker
 * [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
 * [The container throttling problem](https://danluu.com/cgroup-throttling/)
 * [가상화 입문 - 가상머신과 도커를 구분하지 못하는 사람들을 위하여](https://velog.io/@skynet/%EA%B0%80%EC%83%81%ED%99%94-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EA%B3%BC-%EB%8F%84%EC%BB%A4%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
+* [20분 만에 전공자처럼 도커, 가상화 이해하기! - YouTube](https://www.youtube.com/watch?v=zh0OMXg2Kog)
 * [My Favorite Free Courses to Learn Maven, Jenkins, and Docker in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
   * [500라인으로 만드는 리눅스 컨테이너 (2016) | GeekNews](https://news.hada.io/topic?id=6122)
