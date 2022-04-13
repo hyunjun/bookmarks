@@ -1287,6 +1287,7 @@ Programming
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
+* [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
