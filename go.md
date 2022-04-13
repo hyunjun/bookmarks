@@ -306,6 +306,7 @@ Go
 * [ugc: User-Generated Content Articles 📝](https://github.com/Codecademy/ugc)
 * [Uploading a file in Go(Golang) - YouTube](https://www.youtube.com/watch?v=0naUk4NSdio)
 * [Go file upload part 2 (simple straightforward method) - YouTube](https://www.youtube.com/watch?v=dCQ7S83Efs0)
+* [Dynamic pipeline route in Go. Is it possible to create a pipeline… | by Yuda Prasetiya | Apr, 2022 | Medium](https://medium.com/@yudaph/dynamic-pipeline-route-in-go-c73a9df991c0)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
