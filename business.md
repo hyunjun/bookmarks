@@ -438,6 +438,8 @@ Business
 * [The unreasonable effectiveness of one-on-ones | benkuhn.net](https://www.benkuhn.net/11/)
 * [면접, 1:1, 설문.. 좋은 경영은 좋은 질문에서 시작됩니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodquestion20220324) 구체적인 질문의 중요성
   * [면접, 1:1, 설문.. 좋은 경영은 좋은 질문에서 시작됩니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1W98C_yGllCjXTh6rW0zWiR_phwk3PRxe/view?usp=sharing)
+* [1:1 미팅에서 리더가 해야 할 말, 하지 말아야 할 말 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/oneononemeeting20220413)
+  * [1:1 미팅에서 리더가 해야 할 말, 하지 말아야 할 말 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1OQ_mwrOv_1j74w3GRJvj_x5q5D-3-WM8/view?usp=sharing)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
