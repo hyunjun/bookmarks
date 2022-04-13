@@ -68,6 +68,7 @@ Javascript
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 * [프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1338/)
 * [브라우저 동작원리 - 이소정 · Present](https://present.do/shows/6187b87b8eb0d57ea69fd5ac/player)
+* [브라우저의 동작 원리 - 정지영 · Present](https://present.do/presentations/62543b6a12168b359e2e6867)
 * [웹 브라우저의 동작원리를 알아보자](https://velog.io/@thyoondev/%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [브라우저에 URL을 입력하면? CS 기본부터 공부하기](https://www.youtube.com/watch?v=T2WqQcqssoE)
 * [브라우저에 URL을 입력하면 어떤 과정이 진행될까? - YouTube](https://www.youtube.com/watch?v=ipwfEUslfQA)
