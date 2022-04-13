@@ -316,7 +316,6 @@ Programming Books
 * (NOT YET) [아마존 웹 서비스 인 액션](https://medium.com/@need4spd/%EC%B1%85-%EB%A6%AC%EB%B7%B0-amazon-web-service-in-action-9e5d81b184ad)
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 서버 구축부터 배포, 모니터링, 관리 자동화, 데브옵스까지](http://wikibook.co.kr/aws-infra/)
 * (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
-* (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
   * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
   * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
@@ -1290,6 +1289,7 @@ Programming Books
 * (NOT YET) [대용량 아키텍처와 성능 튜닝조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
 * (NOT YET) [클라우드 네이티브 패턴 - 변화에 잘 견디는 소프트웨어 개발](http://acornpub.co.kr/book/cloud-native-patterns)
 * (NOT YET) [**Istio in Action :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1574)
+* (NOT YET) [네트워크 이해 및 설계 가이드](https://jpub.tistory.com/1260)
 
 # Interview
 
