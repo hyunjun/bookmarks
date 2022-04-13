@@ -1222,7 +1222,6 @@ Machine Learning
 * [traingenerator: 🧙 A web app to generate template code for machine learning](https://github.com/jrieke/traingenerator)
 * [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
   * [오라클, 자바 머신러닝 라이브러리 ‘트리뷰오’ 오픈소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17811)
-* wandb.ai [Weights & Biases – Developer tools for ML](https://wandb.ai/site) MLOps 인프라
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn
@@ -1281,6 +1280,8 @@ Machine Learning
   * [MLOps Basics Week 10: Summary – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-summary) 요약**
 * [MLOps NYC](https://www.mlopsnyc.com)
   * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
+* wandb.ai [Weights & Biases – Developer tools for ML](https://wandb.ai/site) MLOps 인프라
+  * [Better tracking for your deep learning training - Wandb.ai (Weights & Biases) - YouTube](https://www.youtube.com/watch?v=LQvRhQwDOm0)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
