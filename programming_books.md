@@ -421,6 +421,7 @@ Programming Books
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
   * [Clean Architecture 계층형 아키텍처의 문제점](https://devkingdom.tistory.com/340)
   * [Clean Architecture 계층형 아키텍처의 문제점을 해결하는 육각형 아키텍처(헥사고날 아키텍처)](https://devkingdom.tistory.com/341)
+  * [Clean Architecture 육각형 아키텍처 (헥사고날 아키텍처) 패키지 구조](https://devkingdom.tistory.com/342)
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
@@ -771,6 +772,7 @@ Programming Books
 * (NOT YET) [인공지능: 현대적 접근방식 제4판](http://occamsrazr.net/tt/374)
 * (NOT YET) [단단한 심층 강화학습](https://jpub.tistory.com/1240)
 * (NOT YET) [비전공자를 위한 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289141969)
+* (NOT YET) [그래프 신경망 입문 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-neural-networks)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1689,6 +1691,17 @@ Programming Books
   * [임파워드 - 평범한 사람들이 만드는 특별한 제품](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88)
   * [임파워드 — 평범한 사람들이 만드는 특별한 제품. (그래서 직접 경험해보니 “내부 고객"이란 말이 정말 싫어졌다. 거의… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88-6c5a2cd1d1d7)
   * [EMPOWERED: Ordinary People, Extraordinary Products - Silicon Valley Product Group](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
+* [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
+  * 탐라
+  * ★★★★☆ 2022.04.07,12
+  * [Team Topologies](https://teamtopologies.com/)
+  * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
+  * [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
+  * [Beyond the Spotify Model: using Team Topologies for fast Flow and Organisation Evolution - YouTube](https://www.youtube.com/watch?v=lj71GcOnIW8)
+    * Software sizing and cognitive load -> Team-first Thinking
+    * Heuristics for Conway's Law -> Reverse Conway to mitigate worst effects
+    * Patterns for team interactions
+    * Triggers for change and evolution
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1712,16 +1725,6 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
-* (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
-  * 탐라
-  * [Team Topologies](https://teamtopologies.com/)
-  * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
-  * [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
-  * [Beyond the Spotify Model: using Team Topologies for fast Flow and Organisation Evolution - YouTube](https://www.youtube.com/watch?v=lj71GcOnIW8)
-    * Software sizing and cognitive load -> Team-first Thinking
-    * Heuristics for Conway's Law -> Reverse Conway to mitigate worst effects
-    * Patterns for team interactions
-    * Triggers for change and evolution
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) 피플웨어
   * 우당
@@ -2186,6 +2189,7 @@ Programming Books
 # Software engineering
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
+  * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
 
 # Spark
 
@@ -2258,6 +2262,7 @@ Programming Books
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
+* (NOT YET) [사용자를 사로잡는 UX UI 실전 가이드](https://ugong2san.tistory.com/4189)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
