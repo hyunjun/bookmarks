@@ -767,6 +767,7 @@ Programming
 * [API요청과 데이터 처리 구조. 아이디어스의 작가웹 서비스 리뉴얼과 기술전환 작업중에 적용한… | by SeungJae Jun | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/api%EC%9A%94%EC%B2%AD%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EA%B5%AC%EC%A1%B0-62d6ebaf8013)
 * [How to use undocumented web APIs](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
   * [Undocumented Web API 사용하는 법 | GeekNews](https://news.hada.io/topic?id=6139Undocumented)
+* [API 문서 읽는 법](https://spectacular-bottom-6be.notion.site/API-1d5d21326d204bb19a4c6cbab8b37cd4)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
