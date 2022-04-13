@@ -16,6 +16,7 @@
 * [디지털 광고 효과 실시간 측정 어려워져, 데이터 수집-분석 방식 다변화가 열쇠 | 마케팅/세일즈 | DBR](https://dbr.donga.com/article/view/1202/article_no/10219/ac/a_view)
 * [대행사를 운영하며 얻은 10가지 깨달음 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252442)
 * [<카카오웹툰> 앱 론칭 캠페인 회고](https://brunch.co.kr/@bat/84)
+* [The Ultimate Guide to Ad Operations (AdOps) | cleanAD](https://www.clean.io/adops)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
@@ -27,6 +28,8 @@
 
 # Google
 * [Markov chain analysis  |  Ads Data Hub  |  Google Developers](https://developers.google.com/ads-data-hub/guides/markov)
+* [웨비나 다시보기 Android Privacy Sandbox: 구글 광고 아이디도 이젠 끝난 건가요?](https://www2.branch.io/WBN-2022-Q10221-APAC_Korea-Android_Privacy_Sandbox_LP-Thank-You-OnDemand.html)
+* [매출 82%를 광고로 만드는 구글, 사용자 정보 보호를 강화하다 – 컨버젼 by 리메이크](https://convrsion.co/2022/03/06/%eb%a7%a4%ec%b6%9c-82%eb%a5%bc-%ea%b4%91%ea%b3%a0%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-%ea%b5%ac%ea%b8%80-%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%a5%bc-%ea%b0%95%ed%99%94/)
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
