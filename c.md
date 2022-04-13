@@ -545,6 +545,7 @@ C
   * stpcpy
     * [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
     * [strcpy: a niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
+    * [strcpy_s에서 예외가 잡히지 않는 이유 - YoungJin Shin](http://www.jiniya.net/ng/2022/04/no-exception/)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
   * strscpy [strscpy() and the hazards of improved interfaces](https://lwn.net/Articles/659214/)
   * wide char string
