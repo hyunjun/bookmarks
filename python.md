@@ -987,6 +987,7 @@ Python
   * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
   * [What to Log? From Python ETL Pipelines! | by Shiva Koreddi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/what-to-log-from-python-etl-pipelines-9e0cfe29950e)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
+  * [json-logging-python: Cloud-native distributed Python logging library to emit JSON log that can be easily indexed by logging infrastructure](https://github.com/bobbui/json-logging-python)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
     * [loguru를 사용하여 python 로깅 쉽게하기 | 잡잡 블로그](https://kimeuichan.github.io/posts/python-logging-with-loguru/)
   * logzero [Robust and effective logging for Python 2 and 3](https://pythonawesome.com/robust-and-effective-logging-for-python-2-and-3/)
