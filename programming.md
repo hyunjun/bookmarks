@@ -1290,6 +1290,7 @@ Programming
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
 * [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428)
+* [설계서가 아니라 의사소통](https://brunch.co.kr/@graypool/420)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -2389,6 +2390,7 @@ Programming
 * [Moving Java to Telco Cloud, with Mihai Ionita - YouTube](https://www.youtube.com/watch?v=VtOR_JROSRo)
 * [칼럼 기업에 CI/CD가 필요한 10가지 이유](https://it.donga.com/101955/)
 * [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
+* [How to learn CI/CD fast | GitLab](https://about.gitlab.com/blog/2022/04/13/how-to-learn-ci-cd-fast/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
