@@ -3078,6 +3078,176 @@ Programming
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
 * [김진철 - CIO Korea](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0) AI 머신러닝 딥러닝 빅데이터 ...
 * [TIP 개발 실력을 향상시켜줄 IT기업 기술 블로그 45곳 모음: 네이버블로그](https://blog.naver.com/sicle_official/222071769230)
+* [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
+* [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
+* [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
+* [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
+* [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
+* 월간 개발자스럽다
+  * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
+  * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
+  * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
+  * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
+  * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
+  * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
+  * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
+  * [1808호](https://blog.gaerae.com/2018/08/monthly.html)
+  * [1809호](https://blog.gaerae.com/2018/09/monthly.html)
+  * [1810호](https://blog.gaerae.com/2018/10/monthly.html)
+  * [1811호](https://blog.gaerae.com/2018/11/monthly.html)
+  * [1812호](https://blog.gaerae.com/2018/12/monthly.html)
+  * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
+  * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
+  * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
+  * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
+  * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
+  * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
+  * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
+  * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
+  * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
+  * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
+  * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
+  * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
+  * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
+  * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
+  * [월간 개발자스럽다 #53](https://blog.gaerae.com/2020/03/monthly.html)
+  * [월간 개발자스럽다 #54](https://blog.gaerae.com/2020/05/monthly.html)
+  * [월간 개발자스럽다 #55](https://blog.gaerae.com/2020/05/monthly-55.html)
+  * [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
+  * [월간 개발자스럽다 #57](https://blog.gaerae.com/2020/08/monthly_6.html)
+  * [월간 개발자스럽다 #58](https://blog.gaerae.com/2020/08/monthly.html)
+  * [월간 개발자스럽다 #59](https://blog.gaerae.com/2020/09/monthly.html)
+  * [월간 개발자스럽다 #60](https://blog.gaerae.com/2020/10/monthly.html)
+  * [월간 개발자스럽다 #61](https://blog.gaerae.com/2020/11/monthly.html)
+  * [월간 개발자스럽다 #62](https://blog.gaerae.com/2020/12/monthly.html)
+  * [월간 개발자스럽다 #63](https://blog.gaerae.com/2021/01/monthly.html)
+  * [월간 개발자스럽다 #64](https://blog.gaerae.com/2021/02/monthly.html)
+  * [월간 개발자스럽다 #65](https://blog.gaerae.com/2021/03/monthly.html)
+  * [월간 개발자스럽다 #66 - 개발자스럽다](https://blog.gaerae.com/2021/04/monthly.html)
+  * [월간 개발자스럽다 #67 - 개발자스럽다](https://blog.gaerae.com/2021/05/monthly.html)
+  * [월간 개발자스럽다 #68 - 개발자스럽다](https://blog.gaerae.com/2021/06/monthly.html)
+  * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
+  * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
+  * [월간 개발자스럽다 #71 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly09.html)
+  * [월간 개발자스럽다 #72 - 개발자스럽다](https://blog.gaerae.com/2021/11/monthly10.html)
+  * [월간 개발자스럽다 #73 - 개발자스럽다](https://blog.gaerae.com/2021/11/monthly.html)
+  * [월간 개발자스럽다 #74 - 개발자스럽다](https://blog.gaerae.com/2021/12/monthly.html)
+  * [월간 개발자스럽다 #75 - 개발자스럽다](https://blog.gaerae.com/2022/01/monthly.html)
+  * [월간 개발자스럽다 #76 - 개발자스럽다](https://blog.gaerae.com/2022/02/monthly.html)
+  * [월간 개발자스럽다 #77 - 개발자스럽다](https://blog.gaerae.com/2022/03/monthly.html)
+* [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
+* [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
+  * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
+  * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
+  * [2019년 12월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2019-12-15.html) 2020년 Node 변화 예상 내용 정리 EOB
+  * [2020년 1월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-1-18.html) 클린코드, 알고리즘, 도커, 범용 툴
+    * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
+    * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
+  * [2020년 2월 1일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-1.html)
+  * [2020년 2월 8일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-8.html)
+  * [2020년 2월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-15.html)
+  * [2020년 2월 22일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-22.html)
+  * [2020년 3월 7일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-7.html)
+  * [2020년 3월 14일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-14.html)
+  * [2020년 3월 21일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-21.html)
+  * [2020년 3월 29일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-29.html)
+  * [2020년 4월 4일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-4.html)
+  * [2020년 4월 11일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-11.html) nginx, null, tmux 등
+  * [2020년 4월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-18.html)
+    * AWS 비용을 줄일 수 있는 10가지 기법, MySQL 서버 로컬 접속에 유닉스 도메인 소켓을 사용해야 하는 이유, 윈도우 서브시스템 for 리눅스 2 GA, PHP The Right Way(한국어), 터보 파스칼보다 작은 소프트웨어
+  * [2020년 4월 25일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-25.html) 서머타임과 배치작업, 오픈소스 DBMS 테스트 도구
+  * [2020년 5월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2.html) 자바 빠른 압축 라이브러리, .gitignore 서비스, vi UI 확장, 맥OS X 파인더에서 터미널 바로 열기
+  * [2020년 5월 9일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2_11.html) C# 조건부 컴파일, 깃허브/비주얼 스튜디오 코드스페이스, vi UI 확장, 배시 스크립트 편집 주의
+  * [2020년 5월 16일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-16.html) 노드 터미널 인터페이스, 여러 JDK 설치 선택, Deno v1.0, 셸스크립트 파이썬 사용, Bundlephobia, 깃랩 시스템 다이어그램, 원격 데스크톱 연결 멀티 모니터
+  * [2020년 5월 23일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-23.html) 꼭 해야 하는 VSCode 설정, 크롬 확장 추천, HTTP 헤더를 잘 읽으면…
+  * [2020년 5월 30일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30.html) Vim, CORS, 스노우 팩, JWT 디코더, Latex.css & XP.css, 소셜로그인, VS Code, nginx 설정, 윈도우 파워토이, 윈도우 8이상 무선 네트워크
+  * [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
+  * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
+  * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
+  * [2020년 6월 27일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-27.html) 아마존 허니코드, AWS 탐구생활, AWS, GCP, Azure Cloud 자료 모음, 유닉스 SIGSEGV에서 ‘V’는?
+  * [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
+  * [2020년 7월 4일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/07/b-2020-7-4.html) 개발자 경력을 쓰레기통으로 보내는 9가지 방법, HTTP 프로토콜 Part 1, C#: 널 점검 연산자 변경(!에서 !!로)
+    * [(07/04) 개발자 경력을 쓰레기통으로 보내는 9가지 방법 - YouTube](https://www.youtube.com/watch?v=DPdMrr76lzo)
+  * [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
+    * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
+  * [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
+  * [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
+  * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
+  * [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
+  * [2020년 8월 15일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-15.html) 롭 파이크 다섯 가지 프로그래밍 규칙, QR 코드 생성, Cracking Vue.js, vs 연관 그래프, 윈도우 마크다운 에디터, 최고의 자바스크립트 프로젝트, 항공기 소프트웨어 업데이트
+  * [2020년 8월 22일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-22.html) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
+    * [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s)
+    * [Nibble Stew: Most "mandatory requirements" in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
+  * [2020년 8월 30일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-30.html) C# 자바 속도 비교, AWS 과금 폭탄, 브라우저에 URL 입력할 때, 웹브라우저 고성능 AVIF 이미지 사용, 우버 PostgreSQL > MySQL, HTTP/2 업로드 속도가 HTTP/1.1보다 느리다면?, 그림판 코딩, 파워포인트 단축키
+  * [2020년 9월 5일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-5.html) 오픈소스 비즈니스, 알아야하는 DB 지식, MySQL 커닝 페이퍼, 10가지 크롬 플래그, 반응형 웹 페이지 테스트 도구, IT 기업 기술 블로그, 윈도우 10 자동 실행 목록 보기
+    * [(09/05) 웹 사이트 반응 속도가 왜 중요할까? - YouTube](https://www.youtube.com/watch?v=CbU5kgUL6uk)
+  * [2020년 9월 12일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-12.html) 기술부채, 웹 기술 hwp 뷰어, 구글 프로덕트 매니저가 알려주는 기획서 작성, MySQL 8.0 업그레이드, 깃허브 기본 브랜치 이름 변경
+  * [(9월 19일) 깃허브가 취업에 도움이 되지 않는 이유](https://jhrogue.blogspot.com/2020/09/9-19.html) LibHunt: 라이브러리/프레임워크 비교의 끝판왕, 수학과 함께하는 AI 기초 by EBS, 젯브레인 자바 뉴스레터, Endlessh – SSH 끈끈이, 유닉스 명령어 이름 기원
+  * [(9월 19일 특집) 2020년 자바 스프링 현황](https://jhrogue.blogspot.com/2020/09/9-19-2020.html) 인구 통계학적인 정보, 개발자들이 스프링부트를 좋아하는 이유와 겪는 어려움, 클라우드 관련 대응, 인기 있는 모듈, 클라우드 네이티브 관련 동향
+  * [(9월 26일) 지금까지 본 나쁜 코드 중에서 가장 !@#$한 사례는?](https://jhrogue.blogspot.com/2020/09/9-26.html) vim 인기 상승, 개발자 추천 도서, 나쁜 코드 사례, 이상한 오류 찾는법, webhint.io 웹개발자 힌트 서비스, 2020년 마이크로서비스 채택 통계, 웹 성능 향상 가이드, jQuery 자바스크립트 변환
+  * [(10월 10일) 구글 등 주요 회사의 코딩 인터뷰 살펴보기](https://jhrogue.blogspot.com/2020/10/10-10.html) 코딩 인터뷰 모음, git 연습, NestedText: JSON과 YAML은 가라, egghead – 프론트엔드 개발자를 위한 동영상 모음, 셸 히스토리 중앙 저장소에 모아보자
+  * [2020년 10월 17일 개발자 이야기](https://www.slideshare.net/jrogue/2020-10-17)
+    * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
+  * [(10월 24일) AWS는 IPv4를 몇 개 확보했을까?](https://jhrogue.blogspot.com/2020/10/10-24-aws-ipv4.html)
+    * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
+  * [(10월 31일) 클린 아키텍처로 가는 신박한 방법](https://jhrogue.blogspot.com/2020/11/10-31.html) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
+    * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
+  * [(11월 7일) 어느 고졸 개발자의 10년의 회고록](https://jhrogue.blogspot.com/2020/11/11-7-10.html)
+    * [(11/07) 어느 고졸 개발자의 10년의 회고록 - YouTube](https://www.youtube.com/watch?v=0ZW4bSEJPPQ)
+  * [(11월 14일) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법](https://jhrogue.blogspot.com/2020/11/11-14.html)
+    * [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
+  * [2020년 11월 21일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-21) DoorDash AWS 가용성 오해, scorecard – 오픈소스 공개 전 점검 도구, 레드판다: 카프카 대체?, Play 버튼이 없으면 IDE 아니다?
+    * [(11/21) 2020년 오픈소스 데이터베이스 설문 조사 결과 - YouTube](https://www.youtube.com/watch?v=5OgptYWljcA)
+  * [(11월 28일) 소프트웨어 개발이 어려운 일곱 가지 이유](https://jhrogue.blogspot.com/2020/11/11-28.html) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
+    * [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28)
+    * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
+  * [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
+  * [(12월 13일) 코드 검토자와 사랑에 빠지는 방법](https://jhrogue.blogspot.com/2020/12/12-13.html)
+    * [(12/13) 코드 검토자와 사랑에 빠지는 방법 - YouTube](https://www.youtube.com/watch?v=TVzl9pIUV5U)
+  * [(12월 20일) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라](https://jhrogue.blogspot.com/2020/12/12-20.html)
+    * [(12/20) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라. - YouTube](https://www.youtube.com/watch?v=MY3kTDnKvXY)
+  * [(12월 27일) 꼭 설치해야 할 윈도우 개발 지원 도구](https://jhrogue.blogspot.com/2020/12/12-27.html)
+  * [(01/03) 마음대로 예상하는 2021년 IT 기술 전망 - YouTube](https://www.youtube.com/watch?v=f7pDfg9uNss)
+  * [(1월 3일) 2020년 닷넷 개발자의 현황에 대해](https://jhrogue.blogspot.com/2021/01/1-3-2020.html)
+    * [(01/03) 2020년 닷넷 개발자의 현황에 대해 - YouTube](https://www.youtube.com/watch?v=pvDJOoGItNk)
+    * [(01/03) 2020년 닷넷 개발자의 현황에 대해2 - YouTube](https://www.youtube.com/watch?v=E_pquJ2eUEI)
+  * [(1월 9일) 내가 소프트웨어 업계에서 45년 동안 배운 교훈](https://jhrogue.blogspot.com/2021/01/1-9-45.html)
+    * [(01/09) 내가 소프트웨어 업계에서 45년 동안 배운 교훈 - YouTube](https://www.youtube.com/watch?v=p-rcVpX4zr4) WebAssembly, Cloud, 소프트웨어 업계에서 45년 동안 배운 교훈, (SQL) Correlated Subquery
+  * [(1월 16일) 마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/1-16.html)
+    * [(01/16) 마이크로서비스 도입, 이렇게 한다 - YouTube](https://www.youtube.com/watch?v=uGEX-R8qdsk)
+  * [(1월 23일) 프론트엔드 성능 점검 항목 – 2021 버전](https://jhrogue.blogspot.com/2021/01/1-23-2021.html)
+    * [(01/23) 프론트엔드 성능 점검 항목 – 2021 버전 - YouTube](https://www.youtube.com/watch?v=n7PajvLH3rY)
+  * [(1월 30일) 정말로 당신에게 다른 동영상 강의가 필요할까?](https://jhrogue.blogspot.com/2021/02/1-30.html) timeflake - 어느 정도 정렬된 UUID
+    * [(01/30) 정말로 당신에게 다른 동영상 강의가 필요할까? - YouTube](https://www.youtube.com/watch?v=G3SEJvPPpKs)
+  * [(2월 6일) 7년 차 SI 개발자가 솔루션 회사 이직 후 2년 간 배운 것](https://jhrogue.blogspot.com/2021/02/2-6-7-si-2.html)
+  * [(2월 13일) 라인개발자들이 직접 뽑은 인생 책은?](https://jhrogue.blogspot.com/2021/02/2-13.html)
+    * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
+  * [(2월 20일) '패배자같은 개발 직무' 탈출법](https://jhrogue.blogspot.com/2021/02/2-20.html) 현대적인 자바스크립트 사이트를 얼마나 빠르게 만들 수 있을까?, 초급 개발자라면 리액트 역량 중요, 개발자 코드를 얼마나 자주 되돌릴까?
+    * [(02/20) '패배자같은 개발 직무' 탈출법 - YouTube](https://www.youtube.com/watch?v=cmjVEkIdD3k)
+  * [(2월 27일) 구글의 "엔지니어링 디렉터" 면접 문제](https://jhrogue.blogspot.com/2021/03/2-27.html) 메모리 릭 흥미로운 이야기, 자주 사용하는 curl 명령어 옵션 예제, 개발자 무료 서비스, 혼자서 깃 잘 쓰는 방법
+    * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
+  * [(3월 6일) 빌어먹을 HTTP](https://jhrogue.blogspot.com/2021/03/3-6-http.html) 빌어먹을 HTTP, 웹 소프트웨어의 미래는 HTML-over-WebSocket인가?, 효율적인 엔지니어 되기, 온프레미스 네트워크 이해
+    * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
+  * [(3월 13일) 스프링 네이티브 베타 출시 소식](https://jhrogue.blogspot.com/2021/03/3-13.html) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
+    * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc)
+  * [(3월 20일) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유](https://jhrogue.blogspot.com/2021/03/3-20.html) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유, 라떼 자바 개발자들을 위한 팁, AWS S3에 저장된 객체 수는?
+    * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk)
+  * [(3월 27일) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?](https://jhrogue.blogspot.com/2021/03/3-27.html) 도커/도커 컴포즈/도커 스왐/쿠버네티스, 새로운 엔지니어링 관리자가 저지르는 다섯 가지 흔한 실수, REST/GraphQL/gRPC, 웹 사이트 유지 관리 체크리스트, 주간-분기 별 작업은?
+    * [(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은? - YouTube](https://www.youtube.com/watch?v=W7a995cKdmg)
+  * [(4월 4일) 선임 개발자와 자율성의 관계](https://jhrogue.blogspot.com/2021/04/4-4.html) HTTP/3 쓰는 곳이 있긴 한가?, 선임 개발자와 자율성의 관계, JDK 8~16 사이의 모든 기능을 정리한 목록, 마이크로서비스 이후의 기술은?, 50가지 HTML 우수 사례와 지침
+    * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk)
+  * [(4월 10일) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들](https://jhrogue.blogspot.com/2021/04/4-10.html) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
+    * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s)
+* 44BITS
+  * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
+  * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
+  * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
+  * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
+  * [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
+  * [44BITS 뉴스레터 2020년 18-19주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-18-19)
+  * [44BITS 뉴스레터 2020년 20주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-20)
+  * [44BITS 뉴스레터 2020년 21-22주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-21-22)
+  * [44BITS 뉴스레터 2020년 24-25주 | 44BITS](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-24-25)
 * B급 프로그래머
   * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
   * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
@@ -3311,6 +3481,9 @@ Programming
   * [3월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/03/b-3-3.html)
   * [3월 5주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-3-5.html)
   * [4월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/04/b-4.html)
+* [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
+* [init-news • init-news](https://news.in-it.io/)
+* [news.hada.io](https://news.hada.io/)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -3432,177 +3605,6 @@ Programming
   * [기술 뉴스 #193 : 22-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1583)
   * [기술 뉴스 #194 : 22-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1585)
   * [기술 뉴스 #195 : 22-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1587)
-* 월간 개발자스럽다
-  * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
-  * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
-  * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
-  * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
-  * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
-  * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
-  * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
-  * [1808호](https://blog.gaerae.com/2018/08/monthly.html)
-  * [1809호](https://blog.gaerae.com/2018/09/monthly.html)
-  * [1810호](https://blog.gaerae.com/2018/10/monthly.html)
-  * [1811호](https://blog.gaerae.com/2018/11/monthly.html)
-  * [1812호](https://blog.gaerae.com/2018/12/monthly.html)
-  * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
-  * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
-  * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
-  * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
-  * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
-  * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
-  * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
-  * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
-  * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
-  * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
-  * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
-  * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
-  * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
-  * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
-  * [월간 개발자스럽다 #53](https://blog.gaerae.com/2020/03/monthly.html)
-  * [월간 개발자스럽다 #54](https://blog.gaerae.com/2020/05/monthly.html)
-  * [월간 개발자스럽다 #55](https://blog.gaerae.com/2020/05/monthly-55.html)
-  * [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
-  * [월간 개발자스럽다 #57](https://blog.gaerae.com/2020/08/monthly_6.html)
-  * [월간 개발자스럽다 #58](https://blog.gaerae.com/2020/08/monthly.html)
-  * [월간 개발자스럽다 #59](https://blog.gaerae.com/2020/09/monthly.html)
-  * [월간 개발자스럽다 #60](https://blog.gaerae.com/2020/10/monthly.html)
-  * [월간 개발자스럽다 #61](https://blog.gaerae.com/2020/11/monthly.html)
-  * [월간 개발자스럽다 #62](https://blog.gaerae.com/2020/12/monthly.html)
-  * [월간 개발자스럽다 #63](https://blog.gaerae.com/2021/01/monthly.html)
-  * [월간 개발자스럽다 #64](https://blog.gaerae.com/2021/02/monthly.html)
-  * [월간 개발자스럽다 #65](https://blog.gaerae.com/2021/03/monthly.html)
-  * [월간 개발자스럽다 #66 - 개발자스럽다](https://blog.gaerae.com/2021/04/monthly.html)
-  * [월간 개발자스럽다 #67 - 개발자스럽다](https://blog.gaerae.com/2021/05/monthly.html)
-  * [월간 개발자스럽다 #68 - 개발자스럽다](https://blog.gaerae.com/2021/06/monthly.html)
-  * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
-  * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
-  * [월간 개발자스럽다 #71 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly09.html)
-  * [월간 개발자스럽다 #72 - 개발자스럽다](https://blog.gaerae.com/2021/11/monthly10.html)
-  * [월간 개발자스럽다 #73 - 개발자스럽다](https://blog.gaerae.com/2021/11/monthly.html)
-  * [월간 개발자스럽다 #74 - 개발자스럽다](https://blog.gaerae.com/2021/12/monthly.html)
-  * [월간 개발자스럽다 #75 - 개발자스럽다](https://blog.gaerae.com/2022/01/monthly.html)
-  * [월간 개발자스럽다 #76 - 개발자스럽다](https://blog.gaerae.com/2022/02/monthly.html)
-  * [월간 개발자스럽다 #77 - 개발자스럽다](https://blog.gaerae.com/2022/03/monthly.html)
-* [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
-* [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
-* [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
-* [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
-* [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
-* [44BITS 뉴스레터 2020년 18-19주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-18-19)
-* [44BITS 뉴스레터 2020년 20주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-20)
-* [44BITS 뉴스레터 2020년 21-22주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-21-22)
-* [44BITS 뉴스레터 2020년 24-25주 | 44BITS](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-24-25)
-* [news.hada.io](https://news.hada.io/)
-* [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
-* [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
-  * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
-  * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
-  * [2019년 12월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2019-12-15.html) 2020년 Node 변화 예상 내용 정리 EOB
-  * [2020년 1월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-1-18.html) 클린코드, 알고리즘, 도커, 범용 툴
-    * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
-    * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
-  * [2020년 2월 1일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-1.html)
-  * [2020년 2월 8일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-8.html)
-  * [2020년 2월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-15.html)
-  * [2020년 2월 22일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-22.html)
-  * [2020년 3월 7일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-7.html)
-  * [2020년 3월 14일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-14.html)
-  * [2020년 3월 21일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-21.html)
-  * [2020년 3월 29일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-29.html)
-  * [2020년 4월 4일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-4.html)
-  * [2020년 4월 11일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-11.html) nginx, null, tmux 등
-  * [2020년 4월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-18.html)
-    * AWS 비용을 줄일 수 있는 10가지 기법, MySQL 서버 로컬 접속에 유닉스 도메인 소켓을 사용해야 하는 이유, 윈도우 서브시스템 for 리눅스 2 GA, PHP The Right Way(한국어), 터보 파스칼보다 작은 소프트웨어
-  * [2020년 4월 25일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-25.html) 서머타임과 배치작업, 오픈소스 DBMS 테스트 도구
-  * [2020년 5월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2.html) 자바 빠른 압축 라이브러리, .gitignore 서비스, vi UI 확장, 맥OS X 파인더에서 터미널 바로 열기
-  * [2020년 5월 9일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2_11.html) C# 조건부 컴파일, 깃허브/비주얼 스튜디오 코드스페이스, vi UI 확장, 배시 스크립트 편집 주의
-  * [2020년 5월 16일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-16.html) 노드 터미널 인터페이스, 여러 JDK 설치 선택, Deno v1.0, 셸스크립트 파이썬 사용, Bundlephobia, 깃랩 시스템 다이어그램, 원격 데스크톱 연결 멀티 모니터
-  * [2020년 5월 23일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-23.html) 꼭 해야 하는 VSCode 설정, 크롬 확장 추천, HTTP 헤더를 잘 읽으면…
-  * [2020년 5월 30일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30.html) Vim, CORS, 스노우 팩, JWT 디코더, Latex.css & XP.css, 소셜로그인, VS Code, nginx 설정, 윈도우 파워토이, 윈도우 8이상 무선 네트워크
-  * [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
-  * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
-  * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
-  * [2020년 6월 27일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-27.html) 아마존 허니코드, AWS 탐구생활, AWS, GCP, Azure Cloud 자료 모음, 유닉스 SIGSEGV에서 ‘V’는?
-  * [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
-  * [2020년 7월 4일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/07/b-2020-7-4.html) 개발자 경력을 쓰레기통으로 보내는 9가지 방법, HTTP 프로토콜 Part 1, C#: 널 점검 연산자 변경(!에서 !!로)
-    * [(07/04) 개발자 경력을 쓰레기통으로 보내는 9가지 방법 - YouTube](https://www.youtube.com/watch?v=DPdMrr76lzo)
-  * [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
-    * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
-  * [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
-  * [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
-  * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
-  * [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
-  * [2020년 8월 15일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-15.html) 롭 파이크 다섯 가지 프로그래밍 규칙, QR 코드 생성, Cracking Vue.js, vs 연관 그래프, 윈도우 마크다운 에디터, 최고의 자바스크립트 프로젝트, 항공기 소프트웨어 업데이트
-  * [2020년 8월 22일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-22.html) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
-    * [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s)
-    * [Nibble Stew: Most "mandatory requirements" in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
-  * [2020년 8월 30일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-30.html) C# 자바 속도 비교, AWS 과금 폭탄, 브라우저에 URL 입력할 때, 웹브라우저 고성능 AVIF 이미지 사용, 우버 PostgreSQL > MySQL, HTTP/2 업로드 속도가 HTTP/1.1보다 느리다면?, 그림판 코딩, 파워포인트 단축키
-  * [2020년 9월 5일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-5.html) 오픈소스 비즈니스, 알아야하는 DB 지식, MySQL 커닝 페이퍼, 10가지 크롬 플래그, 반응형 웹 페이지 테스트 도구, IT 기업 기술 블로그, 윈도우 10 자동 실행 목록 보기
-    * [(09/05) 웹 사이트 반응 속도가 왜 중요할까? - YouTube](https://www.youtube.com/watch?v=CbU5kgUL6uk)
-  * [2020년 9월 12일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-12.html) 기술부채, 웹 기술 hwp 뷰어, 구글 프로덕트 매니저가 알려주는 기획서 작성, MySQL 8.0 업그레이드, 깃허브 기본 브랜치 이름 변경
-  * [(9월 19일) 깃허브가 취업에 도움이 되지 않는 이유](https://jhrogue.blogspot.com/2020/09/9-19.html) LibHunt: 라이브러리/프레임워크 비교의 끝판왕, 수학과 함께하는 AI 기초 by EBS, 젯브레인 자바 뉴스레터, Endlessh – SSH 끈끈이, 유닉스 명령어 이름 기원
-  * [(9월 19일 특집) 2020년 자바 스프링 현황](https://jhrogue.blogspot.com/2020/09/9-19-2020.html) 인구 통계학적인 정보, 개발자들이 스프링부트를 좋아하는 이유와 겪는 어려움, 클라우드 관련 대응, 인기 있는 모듈, 클라우드 네이티브 관련 동향
-  * [(9월 26일) 지금까지 본 나쁜 코드 중에서 가장 !@#$한 사례는?](https://jhrogue.blogspot.com/2020/09/9-26.html) vim 인기 상승, 개발자 추천 도서, 나쁜 코드 사례, 이상한 오류 찾는법, webhint.io 웹개발자 힌트 서비스, 2020년 마이크로서비스 채택 통계, 웹 성능 향상 가이드, jQuery 자바스크립트 변환
-  * [(10월 10일) 구글 등 주요 회사의 코딩 인터뷰 살펴보기](https://jhrogue.blogspot.com/2020/10/10-10.html) 코딩 인터뷰 모음, git 연습, NestedText: JSON과 YAML은 가라, egghead – 프론트엔드 개발자를 위한 동영상 모음, 셸 히스토리 중앙 저장소에 모아보자
-  * [2020년 10월 17일 개발자 이야기](https://www.slideshare.net/jrogue/2020-10-17)
-    * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
-  * [(10월 24일) AWS는 IPv4를 몇 개 확보했을까?](https://jhrogue.blogspot.com/2020/10/10-24-aws-ipv4.html)
-    * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
-  * [(10월 31일) 클린 아키텍처로 가는 신박한 방법](https://jhrogue.blogspot.com/2020/11/10-31.html) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
-    * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
-  * [(11월 7일) 어느 고졸 개발자의 10년의 회고록](https://jhrogue.blogspot.com/2020/11/11-7-10.html)
-    * [(11/07) 어느 고졸 개발자의 10년의 회고록 - YouTube](https://www.youtube.com/watch?v=0ZW4bSEJPPQ)
-  * [(11월 14일) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법](https://jhrogue.blogspot.com/2020/11/11-14.html)
-    * [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
-  * [2020년 11월 21일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-21) DoorDash AWS 가용성 오해, scorecard – 오픈소스 공개 전 점검 도구, 레드판다: 카프카 대체?, Play 버튼이 없으면 IDE 아니다?
-    * [(11/21) 2020년 오픈소스 데이터베이스 설문 조사 결과 - YouTube](https://www.youtube.com/watch?v=5OgptYWljcA)
-  * [(11월 28일) 소프트웨어 개발이 어려운 일곱 가지 이유](https://jhrogue.blogspot.com/2020/11/11-28.html) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
-    * [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28)
-    * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
-  * [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
-  * [(12월 13일) 코드 검토자와 사랑에 빠지는 방법](https://jhrogue.blogspot.com/2020/12/12-13.html)
-    * [(12/13) 코드 검토자와 사랑에 빠지는 방법 - YouTube](https://www.youtube.com/watch?v=TVzl9pIUV5U)
-  * [(12월 20일) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라](https://jhrogue.blogspot.com/2020/12/12-20.html)
-    * [(12/20) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라. - YouTube](https://www.youtube.com/watch?v=MY3kTDnKvXY)
-  * [(12월 27일) 꼭 설치해야 할 윈도우 개발 지원 도구](https://jhrogue.blogspot.com/2020/12/12-27.html)
-  * [(01/03) 마음대로 예상하는 2021년 IT 기술 전망 - YouTube](https://www.youtube.com/watch?v=f7pDfg9uNss)
-  * [(1월 3일) 2020년 닷넷 개발자의 현황에 대해](https://jhrogue.blogspot.com/2021/01/1-3-2020.html)
-    * [(01/03) 2020년 닷넷 개발자의 현황에 대해 - YouTube](https://www.youtube.com/watch?v=pvDJOoGItNk)
-    * [(01/03) 2020년 닷넷 개발자의 현황에 대해2 - YouTube](https://www.youtube.com/watch?v=E_pquJ2eUEI)
-  * [(1월 9일) 내가 소프트웨어 업계에서 45년 동안 배운 교훈](https://jhrogue.blogspot.com/2021/01/1-9-45.html)
-    * [(01/09) 내가 소프트웨어 업계에서 45년 동안 배운 교훈 - YouTube](https://www.youtube.com/watch?v=p-rcVpX4zr4) WebAssembly, Cloud, 소프트웨어 업계에서 45년 동안 배운 교훈, (SQL) Correlated Subquery
-  * [(1월 16일) 마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/1-16.html)
-    * [(01/16) 마이크로서비스 도입, 이렇게 한다 - YouTube](https://www.youtube.com/watch?v=uGEX-R8qdsk)
-  * [(1월 23일) 프론트엔드 성능 점검 항목 – 2021 버전](https://jhrogue.blogspot.com/2021/01/1-23-2021.html)
-    * [(01/23) 프론트엔드 성능 점검 항목 – 2021 버전 - YouTube](https://www.youtube.com/watch?v=n7PajvLH3rY)
-  * [(1월 30일) 정말로 당신에게 다른 동영상 강의가 필요할까?](https://jhrogue.blogspot.com/2021/02/1-30.html) timeflake - 어느 정도 정렬된 UUID
-    * [(01/30) 정말로 당신에게 다른 동영상 강의가 필요할까? - YouTube](https://www.youtube.com/watch?v=G3SEJvPPpKs)
-  * [(2월 6일) 7년 차 SI 개발자가 솔루션 회사 이직 후 2년 간 배운 것](https://jhrogue.blogspot.com/2021/02/2-6-7-si-2.html)
-  * [(2월 13일) 라인개발자들이 직접 뽑은 인생 책은?](https://jhrogue.blogspot.com/2021/02/2-13.html)
-    * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
-  * [(2월 20일) '패배자같은 개발 직무' 탈출법](https://jhrogue.blogspot.com/2021/02/2-20.html) 현대적인 자바스크립트 사이트를 얼마나 빠르게 만들 수 있을까?, 초급 개발자라면 리액트 역량 중요, 개발자 코드를 얼마나 자주 되돌릴까?
-    * [(02/20) '패배자같은 개발 직무' 탈출법 - YouTube](https://www.youtube.com/watch?v=cmjVEkIdD3k)
-  * [(2월 27일) 구글의 "엔지니어링 디렉터" 면접 문제](https://jhrogue.blogspot.com/2021/03/2-27.html) 메모리 릭 흥미로운 이야기, 자주 사용하는 curl 명령어 옵션 예제, 개발자 무료 서비스, 혼자서 깃 잘 쓰는 방법
-    * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
-  * [(3월 6일) 빌어먹을 HTTP](https://jhrogue.blogspot.com/2021/03/3-6-http.html) 빌어먹을 HTTP, 웹 소프트웨어의 미래는 HTML-over-WebSocket인가?, 효율적인 엔지니어 되기, 온프레미스 네트워크 이해
-    * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
-  * [(3월 13일) 스프링 네이티브 베타 출시 소식](https://jhrogue.blogspot.com/2021/03/3-13.html) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
-    * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc)
-  * [(3월 20일) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유](https://jhrogue.blogspot.com/2021/03/3-20.html) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유, 라떼 자바 개발자들을 위한 팁, AWS S3에 저장된 객체 수는?
-    * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk)
-  * [(3월 27일) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?](https://jhrogue.blogspot.com/2021/03/3-27.html) 도커/도커 컴포즈/도커 스왐/쿠버네티스, 새로운 엔지니어링 관리자가 저지르는 다섯 가지 흔한 실수, REST/GraphQL/gRPC, 웹 사이트 유지 관리 체크리스트, 주간-분기 별 작업은?
-    * [(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은? - YouTube](https://www.youtube.com/watch?v=W7a995cKdmg)
-  * [(4월 4일) 선임 개발자와 자율성의 관계](https://jhrogue.blogspot.com/2021/04/4-4.html) HTTP/3 쓰는 곳이 있긴 한가?, 선임 개발자와 자율성의 관계, JDK 8~16 사이의 모든 기능을 정리한 목록, 마이크로서비스 이후의 기술은?, 50가지 HTML 우수 사례와 지침
-    * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk)
-  * [(4월 10일) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들](https://jhrogue.blogspot.com/2021/04/4-10.html) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
-    * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s)
-* [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
-* [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
-* [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
-* [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
-* [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
-* [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
