@@ -671,6 +671,7 @@ Programming
 * [우리가 개발하는 방식 - 눈덩이 굴리기](https://gifting.oopy.io/snowball)
 * [How To Build Quality Software Fast • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NgFVrvwth-Q)
 * [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Va8QedfiC9k)
+* [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
