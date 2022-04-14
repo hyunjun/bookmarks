@@ -851,8 +851,6 @@ App
       * [vscode.dev 공개 | GeekNews](https://news.hada.io/topic?id=5235)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
-* [Bear App](https://bear.app/)
-  * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
@@ -1642,6 +1640,8 @@ App
 * [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
 * [무작정 Markdown 으로 문서 사이트를 만들고 싶은 이들에게... - DEV Community](https://dev.to/composite/mujagjeong-markdown-euro-munseoreul-mandeulgo-sipeun-ideulege-2mn9) Retype, Docsify
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
+* [Bear App](https://bear.app/)
+  * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
 * [docsify](https://docsify.js.org)
