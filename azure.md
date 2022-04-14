@@ -155,6 +155,7 @@ Azure
 * [Troy Hunt: How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 * [엉터리 절약 안 하려면... 알아야 할 MS ‘애저’ 비용 관리법 - CIO Korea](https://www.ciokorea.com/news/224379)
 * [Azure Data Factory as an ETL Tool and its Use Cases | by Swapnil Kant | Mar, 2022 | Medium](https://swapnilkant11.medium.com/azure-data-factory-as-an-etl-tool-and-its-use-cases-f36a7a421cee)
+* [Introduction to azure data factory | What is Azure Data Factory | Create Data Factory First Pipeline - YouTube](https://www.youtube.com/watch?v=k2EugJ4MLDU)
 * [Azure Network Manager - Part 1](https://theplmingspace.tistory.com/1177)
 * [Azure Network Manager - Part 2](https://zigispace.net/1179)
 * [Azure Network Manager - Part 3](https://theplmingspace.tistory.com/1180)
