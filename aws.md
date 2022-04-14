@@ -475,6 +475,7 @@ AWS
 * [클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=piQI4Hs2jmk)
 * [AWS Amplify 와 Serverless 구현에 대한 정리 # AppSync](https://developer88.tistory.com/344)
 * [AWS Amplify Studio 소개](https://aws.amazon.com/ko/about-aws/whats-new/2021/12/aws-amplify-studio/) Figma의 디자인을 React UI 코드로 자동 변환
+* [AWS Amplify 로 리얼타임 앱 만들기. 10분컷! - YouTube](https://www.youtube.com/watch?v=o7FkmtqIYOE)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
