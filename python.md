@@ -315,6 +315,7 @@ Python
 * [**Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make**](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
   * [파이썬 범위 규칙에 대한 잘못된 이해](https://ash84.net/2017/06/01/python-misunderstanding-python-scope-rules/)
   * [파이썬에서 가장 쉽게 범할 수 있는 10가지 실수들](http://hamait.tistory.com/851)
+  * [문제있는 파이썬 코드: 파이썬 개발자가 자주 .. : 네이버블로그](https://blog.naver.com/passion053/221042717251)
 * [7 Python mistakes all beginner developers make — and how to avoid them](https://thenextweb.com/syndication/2020/06/22/7-python-mistakes-all-beginner-developers-make-and-how-to-avoid-them)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [번역 파이썬 함수 작성 시 자주 범하는 실수 5가지](https://lazymatlab.tistory.com/109)
