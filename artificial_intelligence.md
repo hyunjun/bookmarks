@@ -198,6 +198,7 @@ Artificial Intelligence
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
 * [Data2vec: The first high-performance self-supervised algorithm that works for speech, vision, and text](https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text)
   * [Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬 | GeekNews](https://news.hada.io/topic?id=5844)
+  * [5회차 : data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://modulabs.notion.site/5-data2vec-A-General-Framework-for-Self-supervised-Learning-in-Speech-Vision-and-Language-84f6acebb5b740a584670f2c6dfdda4b)
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
