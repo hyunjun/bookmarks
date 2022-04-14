@@ -1225,6 +1225,18 @@ Business
 * [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
 * [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
+* [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
+* [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
+* [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
+* [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
+* [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
+* [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
+* [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
+* [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
+  * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
+    * 내가 요즘 항상 이야기하고 고민하는 부분
+* [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
+* [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
@@ -1235,15 +1247,12 @@ Business
 * [소프트뱅크는 이제 AI트래픽으로 성장한다!](https://estimastory.com/2019/05/12/softbankai/)
   * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 * [4 Lessons From a Failed Startup — From and For First Time Founders](https://medium.com/swlh/4-lessons-from-a-failed-startup-from-and-for-first-time-founders-c61913df3bb5)
-* [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
 * [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
 * [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
 * [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
 * [글로벌 유니콘 지도](https://www.thestartupbible.com/2019/09/the-global-unicorn-map.html)
-* [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
 * [Glimpse 2019.09 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2160)
 * [Glimpse 2019.10 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2175)
-* [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
 * [영화 〈머니볼〉을 통해 본 본질을 사고하는 법 3가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/219958) 정확한 문제 설정, 통제 가능한 옵션, 선택과 집중
 * [문제를 해결하기 위해 반드시 필요한 것](https://brunch.co.kr/@hyungsukkim/149)
@@ -1252,7 +1261,6 @@ Business
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
-* [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
 * [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
 * [1,000억 원짜리 사업을 만드는 길 (The Road to $100M)](https://acquiredentrepreneur.tistory.com/27)
 * [시리즈 A 란 무엇인가? – Live & Venture](https://liveandventure.com/2020/09/27/series-a/)
@@ -1260,7 +1268,6 @@ Business
 * [VC가 알려주는 스타트업 투자 유치 전략 197p PDF | GeekNews](https://news.hada.io/topic?id=3798)
 * [스타트업 투자유지 전략.pdf](https://www.kvic.or.kr/upload/investment/20210114/20210114155945_63291.pdf)
 * [Kihong Bae - YouTube](https://www.youtube.com/user/khbae/videos)
-* [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
 * [스타트업의 첫 이사회 보고용 PPT 템플릿 | GeekNews](https://news.hada.io/topic?id=3893)
 * [브런치북 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
@@ -1279,7 +1286,6 @@ Business
 * ["사람 좋으면 사업하기 어렵다"는 말, 사실일까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodceo20210108)
 * [망했을때 어떻게 할 것인가](https://jojoldu.tistory.com/599)
 * [Y-Combinator 2021 여름 데모데이 참가 스타트업 377개 | GeekNews](https://news.hada.io/topic?id=4974)
-* [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
 * [어떻게 알토스벤처스는 한국에서 가장 핫한 VC가 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/altosventures20181028)
 * [스타트업을 시작하기 전에 몰랐던 것들](https://brunch.co.kr/@svillustrated/111)
 * [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
@@ -1291,7 +1297,6 @@ Business
 * [토스 이승건 대표 스타트업의 성장에 대한 정의](https://www.facebook.com/spacelee/posts/10158708410809822)
 * [일반창업기업과 스타트업의 차이점 : 네이버 블로그](https://blog.naver.com/dmchoi888/222697673190)
 * [김범석 쿠팡 창업자가 이야기하는 스타트업 조직관리법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/%EC%BF%A0%ED%8C%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC%EC%97%90-%EC%84%B1%EA%B3%B5%ED%96%88%EB%82%98) 하나에 집중, 시행착오 회피, 고객 최우선, 직원은 제2의 고객, 실용주의, 실력주의 인사
-* [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 * [토스가 타다를 인수한 진짜 이유를 공개합니다](https://blog.toss.im/article/outside-the-box)
 * [토스가 타다를 왜 인수할까? II](https://brunch.co.kr/@graypool/244)
@@ -1307,9 +1312,6 @@ Business
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
   * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
-* [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
-  * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
-    * 내가 요즘 항상 이야기하고 고민하는 부분
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
 * [**Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube**](https://www.youtube.com/watch?v=euxI9vljXw8)
   * [company assessment](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112149#gistcomment-4112149)
@@ -1320,7 +1322,6 @@ Business
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
-* [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 
 # Sillicon Valley
