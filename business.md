@@ -1022,6 +1022,7 @@ Business
 * [디지털 트랜스포메이션 잘 안 되나요?, 개발 조직 키우는 리더십부터 체크해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10409)
 * [Hello Guru 많은 리더들이 하는 착각, 통제하고 관리하면 성과난다? : 네이버 뉴스](https://news.naver.com/main/read.naver?oid=009&aid=0003163679)
 * ["좋은 팀장과 좋은 선배는 달라".. 팀원을 성장시키는 팀장 비법](https://blog.naver.com/businessinsight/222673092879)
+* [리더, 조직문화, 근무환경에 대하여 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/408)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
