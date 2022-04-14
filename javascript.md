@@ -1703,6 +1703,7 @@ Javascript
 * [LargeDS: Typed Arrays based Data Structures for memory intensive tasks](http://chethiya.github.io/lds.html)
 * [Layer Visualizer - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)](https://github.com/romannurik/LayerVisualizer)
 * Leaflet [엑셀로 관리하던 자리 배치도, Leaflet을 통해 웹 시스템으로 탈바꿈하다](https://engineering.linecorp.com/ko/blog/floor-map-management-system-on-web-with-leaflet/)
+* [Lexical](https://lexical.dev/) An extensible text editor library that does things differently
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [LinkeDOM: A JSDOM Alternative. JSDOM is awesome, but it’s slow at… | by Andrea Giammarchi | Feb, 2021 | Medium](https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
