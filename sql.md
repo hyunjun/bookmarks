@@ -238,6 +238,7 @@ SQL
 * [입 개발 MariaDB Connector 와 AWS Aurora | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-mariadb-connector-%ec%99%80-aws-aurora/)
 * [Planning I/O in Amazon Aurora | AWS Database Blog](https://aws.amazon.com/de/blogs/database/planning-i-o-in-amazon-aurora/)
 * [Leveraging AWS Aurora for Event Sourcing | by Lomig Mégard | SwissBorg Engineering | Feb, 2022 | Medium](https://medium.com/swissborg-engineering/leveraging-aws-aurora-for-event-sourcing-e8323dce58b6)
+* [**Aurora MySQL vs Aurora PostgreSQL | 우아한형제들 기술블로그**](https://techblog.woowahan.com/6550/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
