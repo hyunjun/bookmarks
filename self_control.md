@@ -55,3 +55,5 @@ Self Control
 
 * [인정받고 싶은 욕망의 위험성](http://ppss.kr/archives/37502)
 * [동조(conformity) 효과는 사회적 현상이 아닐 수도 있습니다](http://newspeppermint.com/2015/05/05/conformity/)
+
+* [윌 스미스는 어떻게 대처해야 했을까? < 인문 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=927) 분노
