@@ -142,6 +142,7 @@ Bitcoin
 * [오라클 블록체인 아키텍처 살펴보기](https://jhrogue.blogspot.com/2021/11/blog-post.html)
 * [Solutions for Testing Blockchain: Private Blockchains, Permutations, and Shifting Left](https://www.infoq.com/articles/testing-blockchain-solutions/)
 * [Blockchain Node Providers and How They Work](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
+* [계정(account) 기반 블록체인에서의 개인 정보 보호 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-do-we-secure-transaction-data-in-account-base-blockchain/)
 * [DFINITY Foundation | Internet Computer](https://dfinity.org/)
 
 ## Blockchain Javascript
