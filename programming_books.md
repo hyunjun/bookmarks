@@ -227,6 +227,7 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라, 우당
+* (NOT YET) [좋은 팀을 만드는 24가지 안티패턴 타파 기법 | 에이콘출판사](http://www.acornpub.co.kr/book/retrospectives-antipatterns)
 
 # Algorithm
 
