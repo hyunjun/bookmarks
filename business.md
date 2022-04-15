@@ -424,6 +424,7 @@ Business
 * [혁신 방법론의 불편한 진실 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252832) e.g. 식스시그마, 린 싱킹, 디자인싱킹
 * [당신은 리더와 참모 중 어느 쪽인가요? | 일요신문](https://ilyo.co.kr/?ac=article_view&entry_id=346587)
 * [회사가 이전하면서 출퇴근이 어려워진 직원들에게 어떻게 보상하면 좋을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/253122)
+* [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1136,6 +1137,8 @@ Business
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
+* [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
+  * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
