@@ -858,9 +858,10 @@ Apache
   * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
   * [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
   * [How to Write a Kafka Connector with Proper Configuration Handling](https://www.confluent.io/blog/write-a-kafka-connect-connector-with-configuration-handling/)
-  * [제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼 – tech.kakao.com](https://tech.kakao.com/2022/04/13/kafka-connect-streaming-data-platform/)
   * [kafka-connect-datagen: Connector that generates data for demos](https://github.com/confluentinc/kafka-connect-datagen)
     * [kafka-connect-datagen 커넥터로 테스트 데이터 생성하기](https://always-kimkim.tistory.com/entry/kafka-develop-kafka-connect-datagen)
+  * [kafka-connect-web: Web tool for operating kafka connect https://hub.docker.com/r/officialkakao/kafka-connect-web ](https://github.com/kakao/kafka-connect-web)
+    * [제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼 – tech.kakao.com](https://tech.kakao.com/2022/04/13/kafka-connect-streaming-data-platform/)
   * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
     * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
     * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
