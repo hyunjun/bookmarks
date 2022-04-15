@@ -129,6 +129,7 @@ Finance
 * [머신러닝을 위한 퀀트입문 추천서](https://brunch.co.kr/@gauss92tgrd/27)
 * [미국 주식으로 시작하는 슬기로운 퀀트투자 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Wise_Quant_Investing_Starts_With_USA_Stocks/)
   * [미국주식으로 시작하는 슬기로운 퀀트투자를 읽고.. : 네이버블로그](https://blog.naver.com/mku92/222553278702)
+* [최병선 교수님 데이터사이언티스트를 위한 금융공학](https://brunch.co.kr/@gauss92tgrd/52)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
