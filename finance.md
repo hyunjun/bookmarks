@@ -50,6 +50,8 @@ Finance
 * [소고기프로젝트 시작 페이지 입니다](https://beefproj.github.io/)
   * [**라즈베리파이로 주식투자하기 | GeekNews**](https://news.hada.io/topic?id=5658)
 * [신용카드 대체한다는 BNPL, 무엇인가요?](https://blog.toss.im/article/what-is-bnpl)
+* ["감에 의존하는 투자는 그만" 진짜 퀀트가 돈 버는 방법 | 무작정 따라하기](https://content.v.kakao.com/v/EvMot30eoH)
+* ["기관은 절대 이렇게 하지 않아요" 개인이 퀀트를 하면 돈 벌기 유리한 이유 | 무작정 따라하기](https://content.v.kakao.com/v/Ef22qcQ8rx)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
