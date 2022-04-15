@@ -158,6 +158,7 @@ Go
 * [예제로 배우는 GO 프로그래밍](http://golang.site/)
 * [Function and Method Overloading in Golang](http://changelog.ca/log/2015/01/30/golang)
 * [Anatomy of methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
+* [What are methods in golang - DEV Community](https://dev.to/theamasoud/what-are-methods-in-golang-4b5g)
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
