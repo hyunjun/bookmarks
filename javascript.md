@@ -2523,6 +2523,7 @@ Javascript
 * [Node.js 에 Fetch API 추가 | GeekNews](https://news.hada.io/topic?id=5872)
 * [Node.js의 기초 설정과 시험. Node.js는 많이 사용되는 서버용 런타임입니다. 아마도 언어가… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/node-js%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95%EA%B3%BC-%EC%8B%9C%ED%97%98-e2754bdb37e0)
 * [Using Node.js for Backend Web Development in 2022 | by MobiDev | Medium | Geek Culture](https://medium.com/geekculture/using-node-js-for-backend-web-development-in-2022-f2917c6c0a87)
+* [Start a Microservice by Building a Simple Node js App - YouTube](https://www.youtube.com/watch?v=dZkepF1Txcs)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3765,6 +3766,9 @@ Javascript
   * [React Server Component & Next.js를 통해 진행하는 웹 최적화 실험 | by bolang2 | tving.team | Jan, 2022 | Medium](https://medium.com/tving-team/react-server-component-next-js%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%A7%84%ED%96%89%ED%95%98%EB%8A%94-%EC%9B%B9-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%A4%ED%97%98-c9450770397f)
   * [Next.js로 구현하는 Isomorphic JavaScript | by Rex | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/next-js-%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-isomorphic-javascript-c77595b626c5)
   * [검색 FE파트는 어떻게 생산성을 높여가고 있을까? Part 1 | by Jaesung Na | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/temp-2841f667bf6d)
+  * [NextJS Authentication With Social OAuth Provider's-Next-Auth (full course 2022). - YouTube](https://www.youtube.com/watch?v=8wEnIDTZk8g)
+  * [deploy next js on iis web server - YouTube](https://www.youtube.com/watch?v=HLsx0iraA-Y)
+  * [Buildtime vs runtime environment variables with Next.js and Docker - SaltyCrane Blog](https://www.saltycrane.com/blog/2021/04/buildtime-vs-runtime-environment-variables-nextjs-docker/?fbclid=IwAR0DGW7gJmilf-ytPdVoLaV4pgvXE9AOdC4tNKh989Mg5R2rWVU-HA8z_xQ#using-runtime-environment-variables-client-side-or-server-side)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
