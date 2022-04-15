@@ -147,6 +147,7 @@ Azure
 * [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions | by Dennis Zielke | Nov, 2021 | Medium](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
 * [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
 * [CI/CD Docker Application to the Azure Web Apps via Azure Container Registries | Azure DevOps - YouTube](https://www.youtube.com/watch?v=tQH1EsVLmoU)
+* [Deploy a Dockerized Golang App to Azure Container Instance](https://morioh.com/p/3c7401c3e195)
 * [How to set up an Azure Data Warehouse | by Christianlauer | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/how-to-set-up-an-azure-data-warehouse-8aef4391a5bf)
 * [프리지아 랩 :: 앱 등록(서비스 주체) 삭제 이슈가 있는 Azure AD 테넌트 삭제 방법](https://www.dokyun.pe.kr/272)
 * [Create Redis in Azure and Integrate in API and check performance | E2E Demo | Beginner Series - YouTube](https://www.youtube.com/watch?v=npBGXYuf1JA)
