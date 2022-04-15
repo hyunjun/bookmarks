@@ -423,6 +423,7 @@ Business
   * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://drive.google.com/file/d/1p1D4qsmknNfJUltILM9j89AOGHlEzGNB/view?usp=sharing)
 * [혁신 방법론의 불편한 진실 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252832) e.g. 식스시그마, 린 싱킹, 디자인싱킹
 * [당신은 리더와 참모 중 어느 쪽인가요? | 일요신문](https://ilyo.co.kr/?ac=article_view&entry_id=346587)
+* [회사가 이전하면서 출퇴근이 어려워진 직원들에게 어떻게 보상하면 좋을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/253122)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -805,6 +806,7 @@ Business
 * [리더가 빠지기 쉬운 리더십 오해 5가지](http://ppss.kr/archives/37747)
 * [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
 * [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
+* [변화를 주도하는 3가지 방법](http://moneyman.kr/archives/1687)
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
 * [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 * [직원 900명을 줌으로 해고한 회사의 최후 - T Times](http://www.ttimes.co.kr/view.html?no=2021121717457753101)
