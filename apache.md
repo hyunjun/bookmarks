@@ -658,7 +658,6 @@ Apache
 * [How Agoda manages 1.5 Trillion Events per day on Kafka | by Shaun Sit | Agoda Engineering & Design | Jul, 2021 | Medium](https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb)
 * [Kafka 는 왜 빠를까? - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3372)
 * [Kafka 클러스터 구성 및 장애 해결 :: 당근케잌](https://yeon-kr.tistory.com/183)
-* [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
 * [Logstash의 Kafka Input 성능 개선 이야기](https://alden-kang.tistory.com/24)
   * Logstash를 사용하면서 Kafka Lag가 급격히 증가하는 문제를 해결하기 위한 개선 과정 설명
   * 처음에는 파티션 수를 늘렸지만 해결되지 않아서 자세히 보니 파티션에 컨슈머가 고르게 붙어있지 않은 문제 발견
@@ -845,6 +844,7 @@ Apache
   * [Scheduling Millions Of Messages With Kafka & Debezium | by Elia Rohana | Yotpo Engineering | Medium](https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * kafka connect
+  * [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
   * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
   * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
   * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
@@ -858,6 +858,7 @@ Apache
   * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
   * [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
   * [How to Write a Kafka Connector with Proper Configuration Handling](https://www.confluent.io/blog/write-a-kafka-connect-connector-with-configuration-handling/)
+  * [제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼 – tech.kakao.com](https://tech.kakao.com/2022/04/13/kafka-connect-streaming-data-platform/)
   * [kafka-connect-datagen: Connector that generates data for demos](https://github.com/confluentinc/kafka-connect-datagen)
     * [kafka-connect-datagen 커넥터로 테스트 데이터 생성하기](https://always-kimkim.tistory.com/entry/kafka-develop-kafka-connect-datagen)
   * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
