@@ -1732,6 +1732,7 @@ Docker
   * [쿠버네티스 컨테이너 런타임 Docker에서 Containerd로 - Tech Blog - Tech Blog](https://tech.osci.kr/space/TB/21099380847/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%EB%9F%B0%ED%83%80%EC%9E%84+Docker%EC%97%90%EC%84%9C+Containerd%EB%A1%9C)
   * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
   * [Man Seok Techne Schoe: Lima + docker server 구성](https://manseok.blogspot.com/2022/04/lima-docker-server.html)
+  * [Man Seok Techne Schoe: Native, Docker for Mac, Lima에서 실행 결과 비교](https://manseok.blogspot.com/2022/04/native-docker-for-mac-lima.html)
 * [minivm: A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)
 * multipass: 우분투 기반 도커 호스팅을 매우 빠르게 실행
   * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)
