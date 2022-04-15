@@ -1192,6 +1192,7 @@ Web
   * [Locust #2 - 분산 부하 테스팅 (with 쿠버네티스)](https://bcho.tistory.com/1371)
   * [ECS+Locust로 부하 테스트 진행하기](https://www.slideshare.net/YungonPark/ecslocust-232571377)
   * [Episode 4 — Testing your Python/Django app’s performance | by Francisco Betancourt | Dec, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-4-testing-your-python-django-apps-performance-4661f5e78f85)
+  * [locust-k8s: Locust on k8s example for scalable load tests](https://github.com/Curt-Park/locust-k8s)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
   * [내 서버는 동시 사용자 몇명일 때 터질까? - Ngrinder를 이용해 성능/부하 테스트](https://tjdrnr05571.tistory.com/17)
   * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 2편(nGrinder를 활용한 성능테스트)](https://hyuntaeknote.tistory.com/11)
