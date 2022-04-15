@@ -342,6 +342,7 @@ Scala
 * [The Debug Adapter Protocol and Scala](https://www.chris-kipp.io/blog/the-debug-adapter-protocol-and-scala)
 * [Indoor Vivants:: Twotm8 (p.1): Introduction](https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction)
 * [BoundedContext - YouTube](https://www.youtube.com/watch?v=sHG-LgKr7dA) DDD
+* [Diamond Architecture - How to build HUMONGOUS apps FAST! - YouTube](https://www.youtube.com/watch?v=B6bmlh1hCLo)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1727,6 +1728,7 @@ Scala
 * [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
 * [Bootzooka!](https://bootzooka.softwaremill.com/)
   * [Bootzooka 2019: functional Scala and React](https://blog.softwaremill.com/bootzooka-2019-functional-scala-and-react-3cf8c1a0f1c2)
+  * [Bootzooka 2022: cats-effect 3, autowire & tapir](https://softwaremill.com/bootzooka-2022-cats-effect-3-autowire-and-tapir/)
 * [Cask: a Scala HTTP micro-framework](http://www.lihaoyi.com/cask/)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
