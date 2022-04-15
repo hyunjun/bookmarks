@@ -780,6 +780,7 @@ Interview
   * [북미 취업 도움 되는 사이트 추천 Hired](http://hardworkers.tistory.com/167)
   * [2018 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2018)
   * [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
+* [hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
 * [interviewinsider.io](https://interviewinsider.io/) 회사별 아주 간단한 인터뷰 정보 요약
 * [jobpoacher.com](https://jobpoacher.com/)
 * [jobstart](https://www.jobstart.co/)
