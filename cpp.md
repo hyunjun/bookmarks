@@ -466,3 +466,4 @@ C++
 * [C++ : Complete Developer Guide — Part 1 | by Syed Khizaruddin | Jan, 2022 | Medium](https://khizaruddins.medium.com/c-complete-developer-guide-part-1-124d2298c98b)
 * [10 Best C++ Courses for Beginners and Experienced Developers | by javinpaul | Jan, 2022 | Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/10-best-c-courses-for-beginners-and-experienced-developers-fd2401c07f50)
 * [Introduction to Programming in C++ - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kRxNCwhDyw98Hq9vrmnCdz)
+* [Advanced Programming in C++ and Introduction to Data Structures - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kIgUuCdRw_rxIlb3zaVXAY)
