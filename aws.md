@@ -501,6 +501,7 @@ AWS
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
+* [1.(책모음) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 
 # CloudWatch
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
