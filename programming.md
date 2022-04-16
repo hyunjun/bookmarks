@@ -1573,6 +1573,12 @@ Programming
 * [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
 * [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
 * [Conquering Microservices Complexity @Uber with Distributed Tracing](https://www.infoq.com/presentations/uber-microservices-distributed-tracing/) increase observability with tracing
+* [Observability for Monitoring Microservices — Top 5 Ways! | by BuildPiper | BuildPiper | Medium](https://medium.com/buildpiper/observability-for-monitoring-microservices-top-5-ways-587871e726d0)
+  * [Open source APM | SigNoz](https://signoz.io/)
+  * [BuildPiper | The Most Powerful Microservice Delivery Platform](https://www.opstree.com/buildpiper/)
+  * [Instana - Enterprise Observability and APM for Cloud-Native Applications](https://www.instana.com/)
+  * [Dynatrace | The Leader in Automatic and Intelligent Observability](https://www.dynatrace.com/)
+  * [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
 * [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
 * [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
 * [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
@@ -2775,6 +2781,8 @@ Programming
 * [An Engineer’s Guide to a Good Night’s Sleep](https://www.infoq.com/articles/engineers-guide-to-sleep/)
 * [interview 아이디어스팀 산증인이 말하는 개발 조직 성장기 | by Youngmin Lee | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%EC%82%B0%EC%A6%9D%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81-%EC%84%B1%EC%9E%A5%EA%B8%B0-dcdd32e309c)
 * [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E) 단순히 배포 속도 향상만이 아니라 그걸 달성하기 위해 팀 조직부터 문화까지 바꾼 종합적인 이야기
+* [The Squeaky Blog | Why we don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+* [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
