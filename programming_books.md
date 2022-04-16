@@ -1710,6 +1710,14 @@ Programming Books
     * Heuristics for Conway's Law -> Reverse Conway to mitigate worst effects
     * Patterns for team interactions
     * Triggers for change and evolution
+* [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
+  * 탐라, 우당
+  * ★★★☆☆ 2022.04.16
+  * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
+  * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
+  * [bookmarks/heart.md at master · hyunjun/bookmarks](https://github.com/hyunjun/bookmarks/blob/master/programming_books/heart.md)
+  * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
+  * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1724,11 +1732,6 @@ Programming Books
   * 한라, 탐라, 우당
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
-* (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
-  * 탐라, 우당
-  * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
-  * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
-  * [bookmarks/heart.md at master · hyunjun/bookmarks](https://github.com/hyunjun/bookmarks/blob/master/programming_books/heart.md)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
   * 한라, 탐라
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
