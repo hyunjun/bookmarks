@@ -928,6 +928,7 @@ SQL
 * [How we optimized PostgreSQL queries 100x | by Vadim Markovtsev | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 * [blog.md](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
   * Transactional DDL, Locking, Table Operations, Column Operations, Index Operations, Constraints, Enum Types, Bonus: Library for Ruby on Rails
+* [Postgres everywhere | InfoWorld](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -958,6 +959,7 @@ SQL
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
+* [metricflow: MetricFlow allows you to define, build, and maintain metrics in code](https://github.com/transform-data/metricflow)
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦](https://github.com/orioledb/orioledb)
