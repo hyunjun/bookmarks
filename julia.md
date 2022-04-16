@@ -182,6 +182,7 @@ Julia
   * [breloff.com/blog](http://www.breloff.com/blog/)
 * [JuliaOpt - Optimization packages for the Julia language](http://www.juliaopt.org/)
 * [JuMP - a domain-specific modeling language for mathematical programming embedded in Julia](https://github.com/JuliaOpt/JuMP.jl)
+  * [Fast Optimization Using JuMP.jl (with Miles Lubin) - YouTube](https://www.youtube.com/watch?v=7Q9JG3eA4S0)
 * [Juno - a powerful, free environment for the Julia language](http://junolab.org/)
 * [Knet.jl: Koç University deep learning framework](https://github.com/denizyuret/Knet.jl)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
