@@ -63,6 +63,7 @@ Javascript
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
   * web-platform-tests를 이용해서 수만 개의 테스트로 호환성 향상, Chromium, Edge, Firefox, Safari 개발자들이 함께 제작
   * 렌더링 성능에서는 캐싱과 GPU 가속을 이용한 성능 격리를 구현해서 메인 스레드가 바쁘더라도 렌더링 속도는 유지 가능
+* [Mojo in Chromium](https://chromium.googlesource.com/chromium/src.git/+/51.0.2704.48/docs/mojo_in_chromium.md)
 * [Overview of the RenderingNG architecture - Chrome Developers](https://developer.chrome.com/blog/renderingng-architecture/)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
@@ -2799,6 +2800,7 @@ Javascript
   * 플라톤과 이데아부터 아리스토텔레스의 분류 개념을 설명하면서 비트겐슈타인의 가족 유사성까지 이어지면서 프로토타입 이론이 등장하는 과정 설명
   * 프로토타입 이론에서는 원형(prototype)을 선택하고 문맥에 따라 범주가 달라진다
   * 이를 JavaScript에서 이 프로토타입 이론을 구현하기 위해 prototype, hoisting, this가 어떻게 동작하고 있는지를 설명
+  * [자바스크립트는 왜 프로토타입을 선택했을까? · Discussion #50 · pming-kr/pming-content](https://github.com/pming-kr/pming-content/discussions/50)
 * [javascript 의 prototype과 상속](https://devkingdom.tistory.com/334)
 
 # Purescript

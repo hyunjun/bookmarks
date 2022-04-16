@@ -779,6 +779,7 @@ AWS
 * [Elastic Container Service - CPU, Memory 설정 최적화](https://jybaek.tistory.com/912)
 * [Elastic Container Service - Service Type](https://jybaek.tistory.com/915)
 * [AWS Elastic Container Service 프레젠테이션 정리](https://jybaek.tistory.com/919)
+* [**Scaling containers on AWS in 2022 :: Vlad Ionescu**](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
 * [AWS ECS Anywhere - Part 1 (클러스터 생성 및 외부 인스턴스 등록)](https://zigispace.net/1133)
 * [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
@@ -877,6 +878,7 @@ AWS
 
 # EventBridge
 * [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
+* [Save costs by automating the start and stop of Amazon RDS instances with AWS Lambda and Amazon EventBridge | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/save-costs-by-automating-the-start-and-stop-of-amazon-rds-instances-with-aws-lambda-and-amazon-eventbridge/)
 
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)

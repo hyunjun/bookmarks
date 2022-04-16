@@ -34,6 +34,7 @@ Business
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [State of Burnout in Tech 2022 | Yerbo](https://report.yerbo.co/)
   * [번역 & 요약 State of Burnout in Tech 2022 | Yerbo](https://gist.github.com/hyunjun/c36ed09d94c60d6163ab071f906a4060#file-the_state_of_burnout_in_tech_2022_edition-md)
+* [How to know when to stop - by Andy Johns](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop) burnout, balance in life
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
@@ -1344,6 +1345,7 @@ Business
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
+* [스타트업을 떠나며 알게 된 것들](https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4) 현실적인 이야기
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

@@ -416,6 +416,8 @@ Go
   * [Saving Memory In Golang By Composing Struct Correctly | by Ananda Dwi Rahma | Jan, 2022 | Medium](https://anandadwirahma.medium.com/save-memory-in-golang-by-compose-struct-correctly-f649d1f457dd)
 * sync
   * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
+* text
+  * [How to use Go text templates - LogRocket Blog](https://blog.logrocket.com/using-golang-templates/)
 * time
   * [Go time 패키지](http://blog.jeonghwan.net/dev/2019/01/14/go-time.html)
 * type

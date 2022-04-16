@@ -260,6 +260,7 @@ Programming
 * [2022 신입 공채 Android 직무 기술 온보딩 회고 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-android/)
 * [성장할 수밖에 없었던 2022 신입 공채 FE 크루들의 기술 온보딩 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-fe/)
 * [A day in the life: Engineer onboarding at Dropbox - Dropbox](https://dropbox.tech/culture/a-day-in-the-life-engineer-onboarding-at-dropbox)
+* [모바일 개발자를 위한 30-60-90일 성공 계획서 · Soojin Ro](https://soojin.ro/blog/mobile-developer-success-plan) onboarding
 * [시스템신뢰성개발팀을 소개합니다. - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2021/02/22/introduction-to-sre.html)
 * [**우아~한 장애대응 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/4886/)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
@@ -2885,6 +2886,9 @@ Programming
 * [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
 * [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
 * [Infrastructure as Code: the next big shift is here | by Piotr | ITNEXT](https://itnext.io/infrastructure-as-code-the-next-big-shift-is-here-9215f0bda7ce)
+* [Build Your First Serverless Application - Part 1: The Read Layer - YouTube](https://www.youtube.com/watch?v=jtN4ejaJrgg)
+* [Build Your First Serverless Application - Part 2: The Write Layer - YouTube](https://www.youtube.com/watch?v=B64kl2SnEDE)
+* [Build Your First Serverless Application - Part 3: Infrastructure As Code - YouTube](https://www.youtube.com/watch?v=0Fj6L-6wL3k)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
