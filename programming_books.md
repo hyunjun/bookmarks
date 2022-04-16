@@ -1727,6 +1727,7 @@ Programming Books
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
   * 탐라, 우당
   * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
+  * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
   * 한라, 탐라
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
