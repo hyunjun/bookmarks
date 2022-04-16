@@ -3971,6 +3971,7 @@ Programming
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
+* [Google Software Engineering Culture](https://www.infoq.com/news/2019/09/google-software-engineering/) code repository 사용
 * [Netflix: A Culture of Learning. Martin Tingley with Wenjing Zheng… | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
 * [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 * [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
