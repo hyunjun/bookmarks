@@ -881,6 +881,8 @@ Docker
 * [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633)
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Kubernetes Tutorial for Beginners | 2 Hours Course With Example | JavaTechie - YouTube](https://www.youtube.com/watch?v=gMmcRbd8L5Y)
+* [(정리)쿠버네티스,Amazon EKS,GoogleGKE](https://brunch.co.kr/@topasvga/1801)
+* [(전체보기) 쿠버네티스 전문가 되기-2022](https://brunch.co.kr/@topasvga/1656)
 * [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
 * [**A Kubernetes guide for Docker Swarm lovers**](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)
 * [Machine Learning Platform for Kubernetes](https://riseml.com/)
