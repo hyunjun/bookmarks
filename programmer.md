@@ -110,8 +110,8 @@ Programmer
 * [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [Celebrating Grace Hopper and the Origins of Debugging | Bugsnag Blog](https://www.bugsnag.com/blog/celebrating-grace-hopper-and-the-origins-of-debugging)
 * [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
-* [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
-  * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
+* [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
+* [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
 * [Ten years against division of labor in software](http://akkartik.name/post/division-of-labor)
@@ -131,6 +131,9 @@ Programmer
 * [ㅈ형 인재가 되어라 - 4편 공부하는 기획자는 아는만큼 의심하고 질문한다](https://community.rememberapp.co.kr/post/79621)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 * [몸으로 배우기](https://www.thestartupbible.com/2022/04/learning-by-doing.html) 프로그래밍 이야기는 아니지만 학습 방법에 대한 관점에 동의
+* [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
+  * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
+* [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
@@ -143,6 +146,8 @@ Programmer
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 * [Introducing The Complete Computer Science Career Path](https://www.codecademy.com/resources/blog/introducing-the-complete-computer-science-career-path/)
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
+* [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
+  * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
 * [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
 
