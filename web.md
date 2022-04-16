@@ -184,6 +184,7 @@ Web
 * [The Cookieless World - 디지털 마케팅의 새 시대를 위한 가이드 | GeekNews](https://news.hada.io/topic?id=4761)
 * [Cookie와 WebStorage에 대한 정리 # Web](https://developer88.tistory.com/390)
 * [What are Cookies? | Explained in Detail](https://blog4hacking.blogspot.com/2022/01/what-are-cookies-explained-in-detail.html)
+* [쿠키와 세션 - 김다은 · Present](https://present.do/presentations/6252916c12168b359e2e5f21)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [URL의 개념 - 이상선 - Medium](https://medium.com/@sunyi233/url%EC%9D%98-%EA%B0%9C%EB%85%90-6dc1a1907f71)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
