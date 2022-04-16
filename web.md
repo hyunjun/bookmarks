@@ -790,6 +790,7 @@ Web
 * [내블로그 :: nginx/1.18.0 (Ubuntu20.04) brotli](https://iesay.tistory.com/208)
 * [내블로그 :: nginx/1.18.0 (Ubuntu20.04) gzip](https://iesay.tistory.com/209)
 * [What Is NGINX? An Overview of the Basics | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/what-is-nginx-an-overview-of-the-basics)
+* [Improving NGINX Performance with Kernel TLS and SSL_sendfile( ) - NGINX](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
