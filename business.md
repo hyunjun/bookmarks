@@ -41,6 +41,7 @@ Business
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
 * [직원의 행복이 곧 회사의 경쟁력이다 by 디즈니](http://outstanding.kr/%EC%A7%81%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5%EC%9D%80-%EA%B3%A7-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%B4%EB%8B%A4-by-%EB%94%94%EC%A6%88%EB%8B%88/)
 * [“디자인 사고(design thinking)”란 무엇일까요](http://newspeppermint.com/2015/04/05/design-thinking/)
+* [A Design Thinking Roadmap for Process Improvement and Organizational Change](https://www.infoq.com/articles/design-thinking-organizational-change/)
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
@@ -251,7 +252,6 @@ Business
     * 정말 필요한 최적의 인원
       * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
-* [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
@@ -296,7 +296,6 @@ Business
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
-* [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
 * [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
 * [“조언해달라”는 말로 회의 시작해 보라, 평범했던 직원의 잠재력이 터진다](http://dbr.donga.com/article/view/1201/article_no/9044)
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
@@ -362,6 +361,7 @@ Business
 * [The Long Game](https://www.thestartupbible.com/2021/05/the-long-game.html) 꾸준함의 중요성
 * [우리의 일, 제품, 사람, 문화 이 모든 것의 기준 '핵심가치 10가지'](https://www.devsisters.com/ko/story/68/)
 * [네카라쿠배당토 핵심가치는 뭐가 다를까? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/wcms3/) core value
+  * [네카라쿠배당토 핵심가치는 뭐가 다를까? | GeekNews](https://news.hada.io/topic?id=6330)
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
@@ -425,6 +425,7 @@ Business
 * [당신은 리더와 참모 중 어느 쪽인가요? | 일요신문](https://ilyo.co.kr/?ac=article_view&entry_id=346587)
 * [회사가 이전하면서 출퇴근이 어려워진 직원들에게 어떻게 보상하면 좋을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/253122)
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
+* [Why is selling software so weird?](https://www.zeptonaut.com/posts/selling-software-is-weird/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1040,6 +1041,15 @@ Business
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
 * [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
 * [Hard to work with. | Irrational Exuberance](https://lethain.com/hard-to-work-with/)
+* [PARA 방식: 디지털 정보 구성을 위한 범용 시스템 - Forte Labs](https://fortelabs.co/blog/para/)
+  * Project - Area of responsibility - Resource - Archive
+  * Project "마감일이 있는 목표와 연결된 일련의 작업"
+    * 완전한 앱 mock 제작, 프로젝트 계획 개발 사업 개발 캠페인 실행, 블로그 게시물 작성, 제품 사양 완성, 회의 참석
+  * Area of responsibility "시간이 지남에 따라 유지되어야 하는 표준이 있는 활동 영역"
+    * 재정, 전문성 개발, 여행하다, 취미, 친구, 아파트, 차, 생산력, 직접 보고서, 제품 개발, 쓰기
+  * Resource "지속적인 관심 주제"
+    * 습관 형성, 프로젝트 관리, 트랜스휴머니즘, 커피, 음악, 원예, 온라인 마케팅, 검색 엔진 최적화, 인테리어 디자인
+  * Archive "다른 세 범주의 비활성 항목" 포함
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -1157,6 +1167,7 @@ Business
 * [프로젝트에서 프로덕트로··· IT 리더들, '제품 기반 접근법'에 주목하다 - CIO Korea](https://www.ciokorea.com/t/540/%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC/218429) 프로젝트 방식을 아예 배재할 건 아니지만 일반적으로 프로덕트 중심 접근 방법이 더 좋다는 주장
 * [제품주도성장(Product Led Growth)의 일곱가지 FAQ - Kimchi hill](https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/)
 * [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
+* [15 Statistics You Should Know About A Career In Product Management](https://theproductmanager.com/general/statistics-career-product-management/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -1255,6 +1266,7 @@ Business
 * [소프트뱅크는 이제 AI트래픽으로 성장한다!](https://estimastory.com/2019/05/12/softbankai/)
   * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 * [4 Lessons From a Failed Startup — From and For First Time Founders](https://medium.com/swlh/4-lessons-from-a-failed-startup-from-and-for-first-time-founders-c61913df3bb5)
+* [Ask HN: What Happened to Evernote? | Hacker News](https://news.ycombinator.com/item?id=30975586) fail
 * [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
 * [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
 * [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
@@ -1329,6 +1341,7 @@ Business
   * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
+* [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 
