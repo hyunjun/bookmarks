@@ -336,6 +336,7 @@ Hardware
 * [ARM 서버와 라즈베리 파이를 이용한 온도 측정](https://naleejang.tistory.com/254)
 * [RPi Zero W, LTE CATM1 내장형 모뎀을 만나 날개를 달다 :: 세상에서 가장 작은 LTE Cat.M1 모듈](https://codezoo.tistory.com/26)
 * [22 Raspberry Pi projects to try in 2022 | Opensource.com](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
+* [Gunnar Wolf• How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
 * [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
