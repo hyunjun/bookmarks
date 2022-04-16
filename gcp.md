@@ -173,6 +173,7 @@ Google Cloud Platform GCP
 * [Rust FaaS Challenge – 1 hour to learn Rust and deploy a web server to Google Cloud Run - YouTube](https://www.youtube.com/watch?v=p5ktvLLxQqA)
 
 # GKE
+* [157.(몰아보기) 구글 클라우드 GKE 실습](https://brunch.co.kr/@topasvga/1800)
 * [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
 * [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
 * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
