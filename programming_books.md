@@ -205,6 +205,8 @@ Programming Books
 * [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
   * ★★★★☆ 2022.04.01~02
   * 사실 애자일에 대한 책은 아님
+  * [PROJECT TO PRODUCT 프로젝트에서 제품으로. 서문 | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/project-to-product-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C-e3bd4e1fd664)
+  * [PROJECT TO PRODUCT 프로젝트에서 제품으로](https://jh4hj.tistory.com/entry/PROJECT-TO-PRODUCT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -262,7 +264,7 @@ Programming Books
 * [다이나믹 프로그래밍 완전 정복](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
 * [가장 쉬운 독학 알고리즘 첫걸음 - C&자바편 | 동양북스](http://www.dongyangtv.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2740)
   * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편. 제목에서 알 수 있듯 이 책은 초보자가 독학으로 알고리즘을 배우는 걸… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-c-%EC%9E%90%EB%B0%94%ED%8E%B8-9abd8fea21c3)
-  * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편 -](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%E2%80%94-C%EC%9E%90%EB%B0%94%ED%8E%B8)
+  * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%E2%80%94-C%EC%9E%90%EB%B0%94%ED%8E%B8)
 * (NOT YET) 알고리즘 : 컴퓨터 과학의 기본, 숫자 알고리즘에서 양자 알고리즘까지
 * (NOT YET) 알고리즘 문제 풀이 전략
 * (NOT YET) 코딩 트레이닝
@@ -850,7 +852,7 @@ Programming Books
 * [머신러닝 파워드 애플리케이션 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/mlpa/)
   * ★★★★☆
   * [머신러닝 파워드 애플리케이션 — 초보자에게 전체적인 관점에서 application을 볼 수 있게 해주는 책 | by Jun | Oct, 2021 | Medium](https://nymets.medium.com/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9B%8C%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-application%EC%9D%84-%EB%B3%BC-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%B1%85-8f9526c11131)
-  * [머신러닝 파워드 애플리케이션 - 초보자에게 전체적인 관점에서 application을 볼 수 있게 해주는 책 -](https://jh4hj.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9B%8C%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-application%EC%9D%84-%EB%B3%BC-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%B1%85)
+  * [머신러닝 파워드 애플리케이션 - 초보자에게 전체적인 관점에서 application을 볼 수 있게 해주는 책](https://jh4hj.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9B%8C%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-application%EC%9D%84-%EB%B3%BC-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%B1%85)
 * [기계 학습을 다시 묻다](https://cse.snu.ac.kr/node/52625)
   * ★★★★☆ 별 하나가 빠진 건 제대로 이해하기엔 내 수준이 낮아서일뿐. 매우 좋은 책이며, 당장 실무에 도움이 되진 않지만 큰 그림을 보는 데는 도움이 될 책
 * (NOT YET) 머신 러닝 워크북
@@ -1716,7 +1718,6 @@ Programming Books
   * ★★★☆☆ 2022.04.16
   * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
   * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
-  * [bookmarks/heart.md at master · hyunjun/bookmarks](https://github.com/hyunjun/bookmarks/blob/master/programming_books/heart.md)
   * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
   * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
 * (NOT YET) 스타트업 인 액션
