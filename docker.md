@@ -577,6 +577,7 @@ Docker
 * [My Favorite Free Courses to Learn Maven, Jenkins, and Docker in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
   * [500라인으로 만드는 리눅스 컨테이너 (2016) | GeekNews](https://news.hada.io/topic?id=6122)
+* [**컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요? | GeekNews**](https://news.hada.io/topic?id=6240)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1312,6 +1313,8 @@ Docker
 * [Multi-Tenancy in Kubernetes](https://www.infoq.com/presentations/multi-tenancy-kubernetes/)
 * [Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends](https://www.infoq.com/articles/kubernetes-workloads-serverless-era/)
 * [Kubernetes .. DaemonSet .. Ensures that all(or Some) Nodes run a copy of a pod .. Tips for CKA exam - YouTube](https://www.youtube.com/watch?v=ZYCNSHgHwhc)
+* [Do you really need Kubernetes? | InfoWorld](https://www.infoworld.com/article/3527217/do-you-really-need-kubernetes.html)
+* [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1355,6 +1358,7 @@ Docker
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
   * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
   * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
+* [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
