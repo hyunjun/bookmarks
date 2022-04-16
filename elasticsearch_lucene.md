@@ -175,7 +175,7 @@ ElasticSearch - Lucene
 * [The new elasticsearch java Rest Client](https://amsterdam.luminis.eu/2016/07/07/the-new-elasticsearch-java-rest-client/)
 * [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
 * [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
-* [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
+* [elasticsearch_적용 및 활용 정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
@@ -196,6 +196,7 @@ ElasticSearch - Lucene
 * [**검색엔진이 데이터를 다루는 법**](https://www.slideshare.net/kjmorc/ss-80803233)
 * [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/deview/ss-80885724)
 * [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
+* [실시간 인덱싱을 위한 Elasticsearch 구조를 찾아서 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7425/)
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
 * [HowTo: Migrate data from an Elasticsearch Cluster to another Elasticsearch Cluster with Spark](https://medium.com/@mykidong/howto-migrate-data-from-an-elasticsearch-cluster-to-another-elasticsearch-cluster-with-spark-adf550e3a7ec)
