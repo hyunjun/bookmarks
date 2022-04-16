@@ -44,7 +44,7 @@ Programming Books
   * [실용주의 프로그래머(20주년 기념판) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/113)
     * ★★★★★ 2022.04.12,14~15 정말 최고의 책. 한 페이지도 버릴 데가 없다
     * [The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-    * 탐라
+    * 탐라 문005.1토33ㅅ
     * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     * [실용주의 프로그래머를 지향합니다. | LinkedIn](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
     * [완전 주관적인 실용주의 프로그래머 팁 10선 - YouTube](https://www.youtube.com/watch?v=4I9DZm2aBhY)
@@ -173,8 +173,8 @@ Programming Books
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://jhrogue.blogspot.com/2021/04/blog-post.html)
 * (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
-* (NOT YET) [스트리밍 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/streaming-systems)
-  * 탐라
+* (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책
+  * 탐라 문005.76아829ㅅ
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
 * (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
@@ -329,7 +329,7 @@ Programming Books
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
   * 우당
 * (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
-  * 우당
+  * 우당 문004.588가66ㅇ
 * (NOT YET) [AWS 기반 AI 애플리케이션 개발 | 에이콘출판사](http://www.acornpub.co.kr/book/ai-aws)
   * 우당
 * (NOT YET) [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래 | 에이콘출판사](http://www.acornpub.co.kr/book/ahead-cloud)
@@ -1701,7 +1701,7 @@ Programming Books
   * [임파워드 — 평범한 사람들이 만드는 특별한 제품. (그래서 직접 경험해보니 “내부 고객"이란 말이 정말 싫어졌다. 거의… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8C%8C%EC%9B%8C%EB%93%9C-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%A7%8C%EB%93%9C%EB%8A%94-%ED%8A%B9%EB%B3%84%ED%95%9C-%EC%A0%9C%ED%92%88-6c5a2cd1d1d7)
   * [EMPOWERED: Ordinary People, Extraordinary Products - Silicon Valley Product Group](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
 * [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
-  * 탐라
+  * 탐라 문325.2스823ㅌ
   * ★★★★☆ 2022.04.07,12
   * [Team Topologies](https://teamtopologies.com/)
   * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
@@ -1712,7 +1712,7 @@ Programming Books
     * Patterns for team interactions
     * Triggers for change and evolution
 * [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
-  * 탐라, 우당
+  * 탐라, 우당 문325.24아211ㅇ
   * ★★★☆☆ 2022.04.16
   * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
   * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
@@ -1730,7 +1730,7 @@ Programming Books
   * 탐라
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
-  * 한라, 탐라, 우당
+  * 한라, 탐라, 우당 문325.24스825ㅅ
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
@@ -1741,7 +1741,7 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) 피플웨어
-  * 우당
+  * 우당 문325.3디31ㅍ
 * (NOT YET) 하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가
   * 한라
 * (NOT YET) IT 개발자가 쓴 통쾌한 인간 관리 이야기
