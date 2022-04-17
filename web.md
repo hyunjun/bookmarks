@@ -586,6 +586,13 @@ Web
   * 처음에는 Styled Components의 ThemeProvider를 고려했으나 SSR의 경우 처음 사용자의 테마를 알 수 없는 문제가 있어서 CSS Variable을 알아보기 시작
   * prefers-color-scheme 미디어 쿼리를 이용하면 사용자의 컬러스킴도 알 수 있어서 처음부터 사용자에게 맞는 모드로 보여줄 수 있어서 CSS Variable 선택
   * 다크모드를 준비하기 위해서 각 상황에 맞는 색상 팔레트를 준비하고 이를 코드로 변환해서 다크 모드를 지원
+* [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+  * [(번역) 레이아웃 알고리즘 이해하기. CSS를 보다 직관적으로 만드는 멘탈 모델 전환 | by Jung Han | Apr, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-baed8b1eca5f)
+    * CSS를 공부하면서 프로퍼티의 사용법을 배웠지만 제대로 이해하려면 레이아웃 알고리즘을 배워야 한다고 설명
+    * 기본 레이아웃 알고리즘은 Flow 레이아웃
+      * z-index는 Flow 알고리즘에 구현되어 있지 않기 때문에 z-index를 제대로 사용하려면 레이아웃 알고리즘 지정 필요, width도 알고리즘에 따라 다르게 동작
+    * <img> 태그가 <div>에서 약간의 마진이 생기는 것도 CSS 프로퍼티 때문이 아니라 Flow 레이아웃에 따라 인라인 요소로 처리되었기 때문에 발생
+    * 이 레이아웃 알고리즘을 이해해야 CSS 프로퍼티를 제대로 사용할 수 있다고 설명, CSS 처리할 때 꼭 살펴봐야 할 만큼 좋은 글
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
