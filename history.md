@@ -216,6 +216,7 @@ History
 * [과학적 계몽주의자 '이광수의 친일' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=839)
 
 ## 조선
+* [조선왕실 가계도](http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/royaltombs/royalFamilyGen.jsp)
 * [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html)
