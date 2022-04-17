@@ -182,6 +182,7 @@ Programming
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
+* [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
@@ -2077,6 +2078,10 @@ Programming
 * [공통시스템개발팀 코드 리뷰 문화 개선 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7152/)
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/)
 * [The Code Review Pyramid - Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
+  * [(번역) 코드 리뷰 피라미드 | Daily Log](https://jiyeonseo.github.io/2022/04/03/the-code-review-pyramid/)
+    * 코드 리뷰를 할 때 집중해야 할 부분을 코드 스타일, 테스트, 문서화, 구현, API로 나누어서 코드 리뷰 피라미드 정의
+    * 피라미드의 아래쪽에 있을수록 나중에 수정할 때 더 큰 노력 필요
+    * 각 부분별로 리뷰할 때 집중해야 할 질문을 정리
 * [효과적인 코드리뷰를 위한 리뷰어의 자세 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-codereview/)
 * [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
@@ -3107,6 +3112,8 @@ Programming
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
 * [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
   * [가장 빠른 GIF는 존재하지 않음 | GeekNews](https://news.hada.io/topic?id=6031)
+* [프리 소프트웨어로 구성한 사진작업 워크플로우 | GeekNews](https://news.hada.io/topic?id=6312)
+* [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
   * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
@@ -3649,6 +3656,7 @@ Programming
   * [기술 뉴스 #193 : 22-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1583)
   * [기술 뉴스 #194 : 22-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1585)
   * [기술 뉴스 #195 : 22-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1587)
+  * [기술 뉴스 #196 : 22-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1590)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
