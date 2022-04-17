@@ -50,6 +50,7 @@ Shell
 * [How to write idempotent Bash scripts · Fatih Arslan](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * [Please stop writing shell scripts](https://pythonspeed.com/articles/shell-scripts)
+* [Wordle in less than 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
