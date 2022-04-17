@@ -1741,6 +1741,8 @@ Programming
   * (실제로는 훨씬 복잡하겠지만) media 회사에서 가장 중요한 건 contents이고 contents maker와 user를 양끝에 두고 필요한 architecture를 추가하면서 설명해주는 게 인상적
   * 80% of service는 consistent & shared tech, maximised reuse, 20%는 different tech & tool, limited reuse 이야기도 좋았음
   * 마지막 summary(주요 slide를 작게 보여주며 정리)도 괜찮았음
+* [BBC Online — A year with serverless | by Johnathan Ishmael | BBC Product & Technology | Mar, 2022 | Medium](https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277)
+  * [**BBC Online의 Serverless 전환 1주년 회고 | GeekNews**](https://news.hada.io/topic?id=6291)
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
@@ -1750,6 +1752,8 @@ Programming
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
 * [서버리스 방식의 웹 호스팅 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85-6a4eb44c3c62)
 * [Kubernetes vs Serverless – How do you choose? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/kubernetes-vs-serverless-how-do-you-choose/)
+* [Is Serverless Just a Stopover for Event-Driven Architecture? – The New Stack](https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/)
+* [The State of Serverless Computing](https://www.infoq.com/presentations/state-serverless-computing/)
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
@@ -1925,6 +1929,7 @@ Programming
 * [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
 * [IDG 블로그 | 너무 복잡한 클라우드, 사람 구하기만 더 어려워진다 - ITWorld Korea](https://www.itworld.co.kr/news/217794)
 * [IDG 블로그 | 클라우드 '부작용'의 이유와 해법 - ITWorld Korea](https://www.itworld.co.kr/news/217594)
+* ['크레딧에 홀려' 클라우드 마이그레이션…"최대의 착각" - ITWorld Korea](https://www.itworld.co.kr/news/232384)
 * [How we handle 80TB and 5M page views a month for under $400 – Poly Haven Blog](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
   * [**월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법 | GeekNews**](https://news.hada.io/topic?id=5717)
 * [리프트 앤 시프트란? | NetApp](https://www.netapp.com/ko/knowledge-center/what-is-lift-and-shift/)
@@ -2621,6 +2626,8 @@ Programming
 * [HTB - DevOops](https://kaizoku.dev/htb-devoops) walk through the methodology that leads to root shell
 * [How NAT traversal works · Tailscale](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Project Zero: Racing against the clock -- hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
+* [Elliptic Curve Cryptography: A Basic Introduction | Boot.dev Blog](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
+* ['고르고 고른' 네트워크·보안 전문가용 필수 리눅스 툴 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/232349)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
@@ -2653,8 +2660,10 @@ Programming
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
+* [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
 * [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
 * SSRF ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
+* [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
 
 # Data Mesh
 * [Data Mesh 101: What is Data Mesh? - YouTube](https://www.youtube.com/watch?v=zfFyE3xmJ7I)
@@ -3066,6 +3075,8 @@ Programming
 * [메타버스, 가지 못한 길과 다 가본 길 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=630)
 * ["I hate the metaverse" ①](https://otterletter.com/i-hate-the-metaverse/)
 * [메타버스, 부동산을 먼저 선점하라!? 건축가의 메타버스와 가상공간 분석! | 유현준, 미래 공간 - YouTube](https://www.youtube.com/watch?v=J2p4li82Fdg)
+* [The metaverse could be tech’s next trillion-dollar opportunity: These are the companies making it a reality - CB Insights Research](https://www.cbinsights.com/research/metaverse-market-map/)
+* [Identity problems get bigger in the metaverse – O’Reilly](https://www.oreilly.com/radar/identity-problems-get-bigger-in-the-metaverse/)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
@@ -4298,6 +4309,7 @@ Programming
 * [우리는 모의장애훈련에 진심입니다. – part1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
+* [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
