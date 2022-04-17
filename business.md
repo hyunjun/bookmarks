@@ -34,6 +34,8 @@ Business
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [State of Burnout in Tech 2022 | Yerbo](https://report.yerbo.co/)
   * [번역 & 요약 State of Burnout in Tech 2022 | Yerbo](https://gist.github.com/hyunjun/c36ed09d94c60d6163ab071f906a4060#file-the_state_of_burnout_in_tech_2022_edition-md)
+  * [2022년 테크 업계 번아웃 실태 보고 · Soojin Ro](https://soojin.ro/blog/burnout)
+  * 감정 소모 & 활력 고갈, 무능감, 냉소, 비인격화/심리적 무감각
 * [How to know when to stop - by Andy Johns](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop) burnout, balance in life
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
@@ -427,6 +429,7 @@ Business
 * [회사가 이전하면서 출퇴근이 어려워진 직원들에게 어떻게 보상하면 좋을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/253122)
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [Why is selling software so weird?](https://www.zeptonaut.com/posts/selling-software-is-weird/)
+* [아마존 앤디 재시의 2021년 첫 연례 주주서한 (번역) – 이바닥늬우스](https://ebadak.news/2022/04/15/andy-jassy-letter-2021/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
