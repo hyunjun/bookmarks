@@ -129,6 +129,7 @@ Game
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
   * [박피디의 게임 개발 이야기 : 언리얼4 기본 프로젝트 카메라 코드 비교](http://parkpd.egloos.com/4201724)
   * [How To Use Python Inside Unreal Engine 4 - YouTube](https://www.youtube.com/playlist?list=PLBLmKCAjA25Br8cOVzUroqi_Nwipg-IdP)
+  * [Unreal Engine 5 정식 릴리즈 | GeekNews](https://news.hada.io/topic?id=6317)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
