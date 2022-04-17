@@ -761,6 +761,7 @@ Business
     * 2-1. 우리가 쉽게 할 수 있는지 아니면 어려운/불가능한 지
     * 3. 이런(+ 추가로 다른) 기준을 가지고 판단을 했다면, 나중에 업무를 진행한 후에 어떤 기준을 어떻게 판단해서 하기로/안 하기로 결정을 했는데, 그 결정 과정이 어땠는지 리뷰
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859)
+* ['잘못된 비즈니스 결정'이 또 다른 '내부자 위협'이 된 사례 - ITWorld Korea](https://www.itworld.co.kr/news/231314)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
