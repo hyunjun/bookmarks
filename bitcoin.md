@@ -64,6 +64,7 @@ Bitcoin
 * [I was wrong, we need crypto | GeekNews](https://news.hada.io/topic?id=6024)
 * [중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼! | GeekNews](https://news.hada.io/topic?id=6133) CDBC
 * [세상을 늦게 보기 위해 잃었던 것들](https://snack.planetarium.dev/kor/2022/03/things-i-lost-to-see-the-world-late/) 확정 confirmation 문제
+* [Smart-Contract-Resources/Build.md at master · ErichDylus/Smart-Contract-Resources](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -144,6 +145,7 @@ Bitcoin
 * [Blockchain Node Providers and How They Work](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
 * [계정(account) 기반 블록체인에서의 개인 정보 보호 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-do-we-secure-transaction-data-in-account-base-blockchain/)
 * [DFINITY Foundation | Internet Computer](https://dfinity.org/)
+* ['환자 주도의 의료 데이터 판매' 기여하는 블록체인 - ITWorld Korea](https://www.itworld.co.kr/news/231509)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
@@ -198,6 +200,7 @@ Bitcoin
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
 * [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
 * [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
+* [DSHR's Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
@@ -269,6 +272,7 @@ Bitcoin
 * [NFT를 공부하려다 알게된 Meebits](https://androidkr.blogspot.com/2022/02/nft-meebits.html)
 * [보안팀이 소개하는 LINE 개발팀 LINE NEXT](https://beist.notion.site/LINE-LINE-NEXT-f51fe3e26453498a9eca0f3a89fbea3e)
 * [일본 NFT 시장 동향, 그리고 대중화를 향한 길 | by Ethan Lee | a41 Ventures | Medium](https://medium.com/a41-ventures/nft-%EC%9D%BC%EB%B3%B8-nft-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8C%80%EC%A4%91%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EA%B8%B8-7759b1a89529)
+* [The Trendy, Hot NFT Market Has a New Entrant: Patents](https://news.bloomberglaw.com/ip-law/the-trendy-hot-nft-market-has-a-new-entrant-patents)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
   * 프로젝트의 범위에는 아트웍, 민팅, 웹사이트, 커뮤니티, 화이트리스트, 마켓플레이스, 리딤 등이 포함
@@ -312,3 +316,4 @@ Bitcoin
 * [좋은 Web3 디자인을 위한 UX 원칙(1) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux%EC%9B%90%EC%B9%99-design-principles-for-web3-5baf5b8376d4)
 * [좋은 Web3 디자인을 위한 UX 원칙(2) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-2-design-principles-for-web3-85fe6024d40b)
 * [좋은 Web3 디자인을 위한 UX 원칙(3) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-3-design-principles-for-web3-cc353f47eb20)
+* [APIs in Web3 with The Graph — How It Differs from Web 2.0 – The New Stack](https://thenewstack.io/apis-in-web3-with-the-graph-how-it-differs-from-web-2-0/)
