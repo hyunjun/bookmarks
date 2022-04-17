@@ -523,6 +523,7 @@ AWS
 * [입 개발 스타트업을 위한 AWS 로그 시스템 Part #1 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-1/)
 * [입 개발 스타트업을 위한 AWS 로그 시스템 Part #2 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/16/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-2/)
 * [입 개발 스타트업을 위한 AWS 로그 시스템 Part #3 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/25/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-3/)
+* [CloudFront 모니터링 하기](https://jojoldu.tistory.com/666)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -1106,6 +1107,10 @@ AWS
 * [Using larger ephemeral storage for AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/using-larger-ephemeral-storage-for-aws-lambda/)
 * [AWS Lambda – 최대 10GB 임시 스토리지 지원 시작 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)
 * [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+  * [AWS Lambda Function URL 발표 – 단일 기능 마이크로서비스용 내장 HTTPS 엔드포인트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+    * AWS Lambda에 API 엔드포인트를 연결하려면 API Gateway나 로드밸런서를 사용해야 했는데
+      * 간단히 Lambda에 바로 URL을 연결해서 호출할 수 있는 Lambda Function URL 공개
+    * Lambda 함수에서 Lambda Function URL를 생성하면 이 Lambda를 호출할 수 있는 URL이 생성되고 CORS 설정도 가능
   * [AWS Lambda Function URLs 공개 | GeekNews](https://news.hada.io/topic?id=6329)
     * "Built-in HTTPS Endpoints for Single-Function Microservices"
     * 람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)
