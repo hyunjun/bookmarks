@@ -134,6 +134,7 @@ Python
 * [Deobfuscating Shifu](http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html)
 * [Python Malware On The Rise | Cyborg Security](https://www.cyborgsecurity.com/python-malware-on-the-rise/) PyInstaller, py2exe, Nuitka
 * [On insecure software distribution practices](http://epadillas.com/2015/10/01/On-insecure-software-distribution-practices.html)
+* [파이썬(Python) 시큐어코딩 가이드 및 매뉴얼 | 자료실 - KISA 인터넷 보호나라&KrCERT](https://www.boho.or.kr/data/guideView.do?bulletin_writing_sequence=66641) python secure coding guide
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
