@@ -436,6 +436,7 @@ NoSQL
 * [몽고디비 클러스터 구성하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/mongodb-cluster/)
 * [몽고디비 시작하기 기초 1편 - crud, aggregate, index, dump, restore](https://blog.naver.com/pjt3591oo/222667237917)
 * [몽고디비 시작하기 기초 2편 - transaction, mapReduce](https://blog.naver.com/pjt3591oo/222667785268)
+* [Memory Allocator for MongoDB. DBMS 서버에서 메모리 관리는 매우 중요한 부분중 하나에요. DBMS… | by Sunguck Lee | 당근마켓 팀블로그 | Apr, 2022 | Medium](https://medium.com/daangn/memory-allocator-for-mongodb-1953f9cee06c)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
