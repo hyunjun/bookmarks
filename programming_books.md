@@ -454,6 +454,7 @@ Programming Books
   * [Clean Architecture 계층형 아키텍처의 문제점을 해결하는 육각형 아키텍처(헥사고날 아키텍처)](https://devkingdom.tistory.com/341)
   * [Clean Architecture 육각형 아키텍처 (헥사고날 아키텍처) 패키지 구조](https://devkingdom.tistory.com/342)
   * [Clean Architecture 육각형 아키텍처 - 웹 어댑터 (컨트롤러)](https://devkingdom.tistory.com/343)
+  * [Clean Architecture 육각형 아키텍처 - 영속성 계층 구현](https://devkingdom.tistory.com/345)
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
