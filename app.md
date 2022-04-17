@@ -1809,6 +1809,7 @@ App
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [AltSnap: Maintained continuation of Stefan Sundin's AltDrag](https://github.com/RamonUnch/AltSnap)
   * [AltDrag의 대체제 AltSnap | GeekNews](https://news.hada.io/topic?id=6152)
+* [AME - Windows 10 Ameliorated](https://ameliorated.info/) Windows 10 minus the spyware plus added stability and security
 * [Beeftext](https://beeftext.org/)
   * ["자주 쓰는 문장을 단축키로" 무료 텍스트 확장 툴 '비프텍스트' - ITWorld Korea](https://www.itworld.co.kr/news/205444)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
