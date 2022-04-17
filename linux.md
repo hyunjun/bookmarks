@@ -443,6 +443,8 @@ Linux
 * [7 Linux commands to use just for fun | Opensource.com](https://opensource.com/article/21/11/fun-linux-commands)
 * [An intro to finding things in Linux](https://www.madebygps.com/an-intro-to-finding-things-in-linux/) locate whereis which find
 * [4 Linux tools to erase your data | Opensource.com](https://opensource.com/article/21/10/linux-tools-erase-data)
+* [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+  * [새로 나온 커맨드라인 툴들 | GeekNews](https://news.hada.io/topic?id=6361)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -1172,7 +1174,7 @@ Linux
   * [Manage your Linux backups with Rdiffweb | Opensource.com](https://opensource.com/article/20/10/rdiffweb)
 * [redo: Redo is the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
-* [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
+* [**SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal**](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
