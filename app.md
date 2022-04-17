@@ -142,6 +142,7 @@ App
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
+  * [PSPDFKit API - PDF처리용 HTTP API | GeekNews](https://news.hada.io/topic?id=6326)
   * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
@@ -1565,6 +1566,8 @@ App
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
+* [Flint](https://www.flint.so/)
+  * [저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. | GeekNews](https://news.hada.io/topic?id=6362)
 * [fsnotes: Notes manager for macOS/iOS](https://github.com/glushchenko/fsnotes)
 * [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
@@ -1578,6 +1581,7 @@ App
   * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333)
 * [notable: The Markdown-based note-taking app that doesn't suck](https://github.com/notable/notable)
 * [notebooksapp.com](http://www.notebooksapp.com/)
+* [NotepadNext: A cross-platform, reimplementation of Notepad++](https://github.com/dail8859/NotepadNext)
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
   * [Andrea's Notion Story](https://www.notion.so/9b54b64c084f4fdaa2e8979f6490ac5f)
@@ -1758,6 +1762,7 @@ App
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
 * [Taskbook - 커맨드 라인 환경에서의 테스크, board, 노트 관리](https://github.com/klaussinani/taskbook/blob/master/docs/readme.KR.md)
 * [todoist](https://en.todoist.com/)
+* [WeekToDo | Free Minimalist Weekly Planner App](https://weektodo.me/)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)
