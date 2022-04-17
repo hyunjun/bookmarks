@@ -318,12 +318,37 @@ Programming Books
   * 2018.01
   * 한라 004.588 포86ㅇ
 * [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
+* (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
+  * 2014, 한라 004.58-오65ㅇ
+* (NOT YET) 처음 시작하는 AWS 람다 : 서버리스 아키텍처를 향한 첫 발걸음
+  * 2016, 한라 004.58-풀294ㅊ
+* (NOT YET) 탄력적 개발로 이끄는 AWS 실천 기술 : 숙련된 실무자에게 배우는 AWS 운영 노하우
+  * 2016, 한라 004.5-타884ㅌ
+* (NOT YET) (예제를 통해 쉽게 따라하는) 아마존 웹 서비스 = Amazon web services
+  * 2017, 한라 004.588-최76ㅇ, 탐라 문004.588-최77ㅇ
+* (NOT YET) 실전 AWS 워크북
+  * 2017, 한라 005.12-가65ㅅ
+* (NOT YET) 아마존 웹 서비스 인 액션 : AWS 활용에서 인프라 자동화와 데브옵스까지
+  * 2017, 우당 문004.58-비839ㅇ
 * (NOT YET) [아마존 웹 서비스 인 액션](https://medium.com/@need4spd/%EC%B1%85-%EB%A6%AC%EB%B7%B0-amazon-web-service-in-action-9e5d81b184ad)
+  * 2017, 한라 004.58-비888ㅇ, 우당 문004.58-비839ㅇ
+* (NOT YET) (AWS Lambda 예제로 살펴보는) AWS 기반 서버리스 아키텍처
+  * 2018, 서부 004.588-스41ㅇ
+* (NOT YET) (빠른 서버리스 앱 개발을 위한) AWS Lambda 인 액션
+  * 2018, 한라 004.588-포86ㅇ
+* (NOT YET) AWS를 이용한 데브옵스 완벽 구축 : AWS 기반 데브옵스 완성을 통한 업무 효율 200% 달성하기
+  * 2018, 한라 005.12-펠57ㅇ
+* (NOT YET) 실전 예제로 배우는 AWS Lambda : 서버리스 애플리케이션 구축 방법
+  * 2018, 한라 004.588-와28ㅅ
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 서버 구축부터 배포, 모니터링, 관리 자동화, 데브옵스까지](http://wikibook.co.kr/aws-infra/)
-* (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
+  * 2019, 한라 004.588-김22ㅇ, 탐라 004.588-김221ㅇ
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
+  * 2019, 애월 004.588-브239ㅌ
   * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
   * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
+* (NOT YET) AWS 클라우드 기반의 Django 웹 애플리케이션
+  * 2020, 탐라 문005.118-신53에, 우당 005.118-신53ㅇ
+* (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
 * (NOT YET) [**스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기**](https://jojoldu.tistory.com/463)
   * [freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice)
   * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539)
@@ -331,7 +356,7 @@ Programming Books
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
   * 우당
 * (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
-  * 우당 문004.588가66ㅇ
+  * 2020, 우당 문004.588가66ㅇ
 * (NOT YET) [AWS 기반 AI 애플리케이션 개발 | 에이콘출판사](http://www.acornpub.co.kr/book/ai-aws)
   * 우당
 * (NOT YET) [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래 | 에이콘출판사](http://www.acornpub.co.kr/book/ahead-cloud)
@@ -339,7 +364,9 @@ Programming Books
 * (NOT YET) [생활코딩! 아마존 웹 서비스 | 위키북스](https://wikibook.co.kr/aws/)
   * 우당
 * (NOT YET) [비즈니스 머신러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6474110466)
+  * 한라 004.73-허74ㅂ
 * (NOT YET) [풀스택 서버리스 : 리액트, AWS, 그래프QL을 이용한 최신 애플리케이션 개발](https://hanbit.co.kr/store/books/look.php?p_code=B7015117381)
+  * 애월, 동부
 * (NOT YET) [쉽게 배우는 AWS AI 서비스](https://hanbit.co.kr/store/books/look.php?p_code=B2949290774)
 
 # Android

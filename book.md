@@ -179,7 +179,7 @@ Book
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [지브리의 천재들](https://butter-shower.tistory.com/228)
-  * 탐라, 우당
+  * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
   * 탐라
@@ -189,7 +189,7 @@ Book
 * (NOT YET) [소련 독재와 전체주의 비판, 2022년에는 어떤 의미로 다가올까? 조지 오웰의 1984 - YouTube](https://www.youtube.com/watch?v=d5xv67iJ1Mg)
 * (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
 * (NOT YET) [임포스터 (Imposter)](https://blog.naver.com/junedec369/222670625109)
-  * 탐라, 우당
+  * 한라 598.5-손298ㅇ, 탐라 문378.9-손239ㅇ, 우당 문378.9-손239ㅇ
 * (NOT YET) [소년은 어떻게 사라지는가](https://blog.naver.com/nextdoor72/221650443129)
   * 서부, 한경
 
@@ -441,11 +441,12 @@ Book
 * (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
 * (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
-  * 한라, 탐라, 우당
+  * 한라 910-굽58ㅂ-x, 탐라 문910-굽59ㅂ-x, 우당 문910-굽59ㅂ-x
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
 * (NOT YET) [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
+  * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
