@@ -1802,6 +1802,7 @@ Docker
 * [셸 스크립트를 이용한 인스턴스 생성](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
 * [셸 스크립트를 활용한 클라우드 모니터링](https://www.youtube.com/watch?v=f5_JMY2nHFs)
 * [Bad News for Cloud Computing: OpenStack Use Plummets and Discounts Dry Up – The New Stack](https://thenewstack.io/bad-news-for-cloud-computing-openstack-use-plummets-and-discounts-dry-up/)
+* [Man Seok Techne Schoe: OpenStack Yoga 클라우드 구성](https://manseok.blogspot.com/2022/04/openstack-yoga.html)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
