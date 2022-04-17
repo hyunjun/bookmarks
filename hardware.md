@@ -62,6 +62,11 @@ Hardware
 * [SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템 | GeekNews](https://news.hada.io/topic?id=5818)
 * [DIAL](http://www.dial-multiscreen.org/)
   * [DIAL - 폰에서 TV를 찾고 앱을 실행할 수 있게 해주는 프로토콜 | GeekNews](https://news.hada.io/topic?id=6009)
+* [우리는 클라우드 개발에 진심입니다! - SmartNIC 편](https://tech.kakaoenterprise.com/137)
+  * 네트워크 트래픽이 점점 증가하면서 이를 해결하기 위한 하드웨어로 SmartNIC(Smart Network INterface Card) 등장
+  * SmartNIC를 사용하면 네트워크 처리를 하면서 일부 작업을 CPU가 수행해야 하지만 이를 SmartNIC의 하드웨어에서 처리 가능해 CPU 제대로 활용 가능
+  * 카카오 i 클라우드에서는 ARM + FPGA의 단일 칩 시스템을 선택해서 소프트웨어로 프로비저닝 가능
+    * 첫 기능으로 Open Virtual Switch를 구현해서 하이퍼바이저가 아니라 SmartNIC에서 OVS를 처리 가능해 CPU 사용률을 50% 이하로 낮추고 애플리케이션 성능으로 600%까지 향상
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
