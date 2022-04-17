@@ -330,6 +330,7 @@ AWS
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
 * [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
+* [Mats Bauer's answer to How much does Netflix pay Amazon Web Services each month? - Quora](https://www.quora.com/How-much-does-Netflix-pay-Amazon-Web-Services-each-month/answer/Mats-Bauer-2)
 * [아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
 * [AWS Outposts / Wavelength / Local Zones 개념 정리](https://dev.classmethod.jp/cloud/aws/aws-outposts-wavelength-localzones-concept-intro-korean/)
 * [AWS Wavelength - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1118)
@@ -895,6 +896,7 @@ AWS
 * [IAM으로Role Switch하기](https://dev.classmethod.jp/articles/iam-2/)
 * [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
+* [“클라우드 계정 99% 과잉 권한… 해커에게 문 열어주는 격” - CIO Korea](https://www.ciokorea.com/news/232619)
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
@@ -1104,6 +1106,10 @@ AWS
 * [Using larger ephemeral storage for AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/using-larger-ephemeral-storage-for-aws-lambda/)
 * [AWS Lambda – 최대 10GB 임시 스토리지 지원 시작 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)
 * [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+  * [AWS Lambda Function URLs 공개 | GeekNews](https://news.hada.io/topic?id=6329)
+    * "Built-in HTTPS Endpoints for Single-Function Microservices"
+    * 람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)
+    * 버전별로 호출 및 Alias 지정 가능
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
