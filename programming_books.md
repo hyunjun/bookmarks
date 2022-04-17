@@ -305,6 +305,7 @@ Programming Books
 
 # Amazon AWS
 
+* [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 * (아마존 웹 서비스를 이용한)글로벌 서비스 인프라 설계 : 효율적인 AWS 운용을 위한 DevOps 환경 만들기
   * 탐라 문004.58-윤51ㄱ
   * 한라 004.58-윤52ㄱ
@@ -317,7 +318,9 @@ Programming Books
 * [AWS Lambda 인 액션](http://jpub.tistory.com/749)
   * 2018.01
   * 한라 004.588 포86ㅇ
-* [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
+* [그림으로 이해하는 AWS 구조와 기술](https://ywtechit.tistory.com/355)
+  * 2021, 탐라 004.588 오11ㄱ
+  * ★★★☆☆ 2022.04.18 정말 초보용, 개념잡기 위한 책
 * (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
   * 2014, 한라 004.58-오65ㅇ
 * (NOT YET) 처음 시작하는 AWS 람다 : 서버리스 아키텍처를 향한 첫 발걸음
@@ -2095,7 +2098,7 @@ Programming Books
   * 한라
 * (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
 * (NOT YET) [웹 크롤링 & 데이터 분석 with 파이썬 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/112)
-  * 한라
+  * 2022 한라, 탐라 005.133장813ㅇ
 
 # R
 
