@@ -626,6 +626,7 @@ Go
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
 * [gops - a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
+* [goqrexfil: A mini project to exfiltrate data via QR codes](https://github.com/sourcefrenchy/goqrexfil)
 * [goroom: An embedded data store version manager](https://github.com/adonmo/goroom)
   * [Go-Room - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-5c1d4f46a77e)
   * [Go-Room: Internals - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-internals-5b3475266fbb)
