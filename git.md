@@ -242,6 +242,13 @@ Git
 * [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
 * [My tips for maintaining dotfiles in source control | Opensource.com](https://opensource.com/article/22/2/dotfiles-source-control)
 * [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
+* [Performance at GitHub: deferring stats with rack.after_reply | The GitHub Blog](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
+  * GitHub에서 `rack.after_reply`를 이용해서 30~50ms 정도 응답 시간을 줄일 개선을 정리한 글
+  * GitHub의 성능 분석을 하면서 요청을 처리할 때 매트릭을 보내기 위해 요청당 최대 65ms를 사용한다는 것을 발견
+    * 배치로 모아서 보내거나 `Rack::Events` 등의 방법을 고려해 봤지만, 문제를 해결할 수 있어 보이지 않음
+    * 그러다가 Puma의 `rack.after_reply`가 응답을 완료한 후 실행하는 기능이라는 것을 발견
+    * GitHub에서는 Puma 대신 Unicorn을 쓰고 있었기 때문에 `rack.after_reply` 구현해서 Unicorn에 기여
+      * 이를 통해 사용자에게 응답을 보낸 후에 매트릭을 전송하게 하여 P50에서는 30ms, P99에서는 50ms 이상 감소
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
