@@ -1941,6 +1941,12 @@ Javascript
     * Solid.js에서는 모든 것이 리액티브 시스템에서 동작하고 라이프사이클 훅은 많은 역할을 하고 있지 않음
     * [(번역) Solid.js는 내가 항상 바랬던 React의 모습입니다 | by Jung Han | Mar, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-solid-js%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EB%B0%94%EB%9E%AC%EB%8D%98-react%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9E%85%EB%8B%88%EB%8B%A4-922c8b83a93d)
   * [SolidJS와 함께 되짚어보는 반응형 프로그래밍 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220331)
+    * 데이터 중심 이벤트 이미터 위에 만들어진 선언적 프로그래밍 패러다임이 반응형 프로그래밍이고 이는 UI를 구성하는 데 유용
+    * 이벤트를 스트림으로 바꾸고 오퍼레이터로 선언하는 대표적인 구현체가 Reactive(Rx)
+      * 디버깅이 힘들거나 러닝 커브가 높다는 단점
+    * 다른 반응형 프로그래밍이 Transparent Reactive Programming(TRP)
+      * TRP에서는 Observable과 Reaction이 기본 구성 요소인데 SolidJS도 이를 이용해서 반응형 모델을 구축
+      * 이를 이용한 SolidJS의 사용 방법도 간단히 소개
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
@@ -2145,6 +2151,11 @@ Javascript
 * Turbo [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥 | by Eric Simons | StackBlitz Blog | Medium](https://medium.com/stackblitz-blog/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
 * [Turborepo](https://turborepo.org/)
   * [Turborepo로 모노레포 개발 경험 향상하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/monorepo-with-turborepo/)
+    * 모노레포를 관리하기 위해 모노레포 도구인 Turborepo 도입
+    * 모노레포는 모노리식과 멀티 레포의 장점을 모두 취하고자 하는 접근 방법
+    * Turborepo는 편리한 빌드 시스템을 제공해서 개발과 빌드에 도움을 줄 수 있는 다양한 기능 제공
+    * Turborepo를 도입해서 기존 스크립트 의존성으로 인한 복잡도와 반복되는 불편한 빌드를 해결, 배포 프로세스 시각화 목표
+      * 의존성도 Turborepo 파이프라인으로 해결하고 빌드 캐시로 재빌드 시에는 7분 걸리던 빌드가 0.64초로 단축
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
@@ -3345,6 +3356,7 @@ Javascript
   * 서버와 클라이언트에 걸쳐 앱을 만들 수 있는 Server 컴포넌트는 아직 개발 중
   * 18의 새로운 기능으로는 자동 배칭, 업데이트의 중요도를 구분할 수 있는 Transition, 로딩 상태를 선언적으로 지정할 수 있는 Suspense, 새 클라이언트/서버 렌더링 API
 * [React v18 살펴보기 | funes-days](https://funes-days.com/dev/react-18)
+* [번역 React v18.0. 원문… | by Jisu Yuk | Apr, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-react-v18-0-9da9a6b838bd)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
