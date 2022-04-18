@@ -196,6 +196,7 @@ C++
 * [C++ Modules Might Be Dead-on-Arrival](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
 * [C++ at the end of 2021 - C++ Stories](https://www.cppstories.com/2021/cpp-status-2021/)
 * [On finding the average of two unsigned integers without overflow - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
+* [Joe Zbiciak's answer to In C++, why do I get a 'Segmentation fault: 11' error when I attempt to access an array with more than 525 elements? - Quora](https://www.quora.com/In-C-why-do-I-get-a-Segmentation-fault-11-error-when-I-attempt-to-access-an-array-with-more-than-525-elements/answer/Joe-Zbiciak)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -204,6 +205,7 @@ C++
 * [P2544R0: C++ exceptions are becoming more and more problematic](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html)
 * [Failing Successfully: Reporting and Handling Errors - YouTube](https://www.youtube.com/watch?v=cDPXS_c0L2s)
 * [C++ Cheat Sheets & Infographics | hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)
+* [David Vandevoorde's answer to How do you generate a random number between 1 and 6 in C++? - Quora](https://www.quora.com/How-do-you-generate-a-random-number-between-1-and-6-in-C/answer/David-Vandevoorde)
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const
@@ -437,6 +439,7 @@ C++
 
 ## Library Allocator
 * [Giving a C++ compiler operators new and delete at build time is better than simply replacing malloc and free with the dynamic loader](https://docs.google.com/document/d/e/2PACX-1vTJmRADDPyybMjBxQ5r-PHEdHQWoOW-Wk87IVoT_EvFv9B5Ks3Mjuk8IXIDYPKFvWW6ezsl9PSZ1JbF/pub)
+* [Joe Zbiciak's answer to In C++, what is the difference between the new operator and malloc() function (In general and especially for objects allocation)? - Quora](https://www.quora.com/In-C-what-is-the-difference-between-the-new-operator-and-malloc-function-In-general-and-especially-for-objects-allocation/answer/Joe-Zbiciak)
 * gperftools
 * jemalloc
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
