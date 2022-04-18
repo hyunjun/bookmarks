@@ -98,6 +98,7 @@
 * [006. 도메인 분해, 오브젝트 5/6 | LinkedIn](https://www.linkedin.com/pulse/006-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%B6%84%ED%95%B4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-56-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [007. 상속과 합성, 오브젝트 6/6 | LinkedIn](https://www.linkedin.com/pulse/007-%EC%83%81%EC%86%8D%EA%B3%BC-%ED%95%A9%EC%84%B1-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-66-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [창시자 앨런 케이가 말하는, 객체 지향 프로그래밍의 본질](https://velog.io/@eddy_song/alan-kay-OOP) messaging, hiding of state-process, late-binding
+* [가변 Context 클래스는 신중하게 사용하자 | Popit](https://www.popit.kr/%ea%b0%80%eb%b3%80-context-%ed%81%b4%eb%9e%98%ec%8a%a4%eb%8a%94-%ec%8b%a0%ec%a4%91%ed%95%98%ea%b2%8c-%ec%82%ac%ec%9a%a9%ed%95%98%ec%9e%90/) 가변 상태 mutable state
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
