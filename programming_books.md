@@ -931,6 +931,7 @@ Programming Books
 * (NOT YET) [머신러닝 프로젝트 수명주기로 배우는 머신러닝 엔지니어링](https://jpub.tistory.com/1223?category=203154)
 * (NOT YET) [금융 머신러닝 - 이론에서 실전까지](https://brunch.co.kr/@gauss92tgrd/47)
   * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
+* (NOT YET) [머신러닝 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B3931996053)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
