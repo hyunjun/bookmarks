@@ -430,6 +430,7 @@ Business
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [Why is selling software so weird?](https://www.zeptonaut.com/posts/selling-software-is-weird/)
 * [아마존 앤디 재시의 2021년 첫 연례 주주서한 (번역) – 이바닥늬우스](https://ebadak.news/2022/04/15/andy-jassy-letter-2021/)
+* [칼럼 | ‘트랜잭션 앱과 소비 앱’··· 기업 IT 관점의 고찰 - CIO Korea](https://www.ciokorea.com/news/232424)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
