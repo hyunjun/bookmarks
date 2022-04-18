@@ -1136,6 +1136,7 @@ AWS
 * [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency/)
 * [Code and Deploy a Serverless API Using Go and AWS](https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/)
 * [Deploy a Complete AWS Serverless Stack using Go Programming Language](https://morioh.com/p/1a29e996d5e3)
+* [AWS Lambda](https://www.tech3code.com/2022/02/aws-lambda-in-recent-years-aws-lambda.html)
 
 ## Lambda java
 * [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
