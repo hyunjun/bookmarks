@@ -85,6 +85,7 @@ Programming Language
   * [**Building Native image with Spring Boot | by Pavel Klindziuk | Dandelion Tutorials | Dec, 2021 | Medium**](https://medium.com/dandelion-tutorials/building-native-image-with-spring-boot-d9d086d0c512)
   * [GraalVM - YouTube](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVn8iQOWm9eB_4feu3a9bfD)
   * [GraalVM 22.0 Released with Native Image Improvements](https://www.infoq.com/news/2022/01/graalvm-22-native-image/)
+  * [Revolutionizing Java with GraalVM Native Image](https://www.infoq.com/articles/native-java-graalvm/)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
@@ -153,6 +154,7 @@ Programming Language
 * [Albatross](http://albatross-lang.sourceforge.net/)
 * [Alda - A music programming language for musicians](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
+* [analang/ana](https://github.com/analang/ana)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [Ark - a fast systems programming language](http://ark-lang.org/)
   * [Ark Programming Language http://ark-lang.org](https://github.com/ark-lang/ark)
