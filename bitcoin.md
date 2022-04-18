@@ -146,6 +146,8 @@ Bitcoin
 * [계정(account) 기반 블록체인에서의 개인 정보 보호 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-do-we-secure-transaction-data-in-account-base-blockchain/)
 * [DFINITY Foundation | Internet Computer](https://dfinity.org/)
 * ['환자 주도의 의료 데이터 판매' 기여하는 블록체인 - ITWorld Korea](https://www.itworld.co.kr/news/231509)
+* [Holochain | App framework with P2P networking](https://www.holochain.org/)
+  * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
