@@ -350,6 +350,8 @@ NLP
 * [Using Kubeflow to solve natural language processing problems](https://analyticsindiamag.com/using-kubeflow-to-solve-natural-language-processing-nlp-problems/)
 * [Document Understanding 그리고 Information Extraction의 Multi-Modal Embedding DRAMA&COMPANY AI Lab.](https://blog.dramancompany.com/2022/03/document-understanding-information-extraction-multi-modal-embedding-layoutlm-docformer-vibertgrid/)
 * [MAVEN Dataset - YouTube](https://www.youtube.com/watch?v=fX-pW5wMxmM) Event Extraction을 위한 MAVEN Dataset 소개 및 논문 리뷰
+* [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html)
+  * [음악을 다룰 때 고려해야 할 엣지케이스들 | GeekNews](https://news.hada.io/topic?id=6319)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
