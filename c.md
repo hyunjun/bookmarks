@@ -183,6 +183,7 @@ C
 * [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 * [Switch Case Statement in C | Control Statements | Lec 60 | C Programming Tutorials - YouTube](https://www.youtube.com/watch?v=MSo_s6w9O6s)
 * [Implementing cosine in C from scratch - Austin Z. Henley](https://austinhenley.com/blog/cosine.html)
+* [Brian Robert Callahan](https://briancallahan.net/blog/20220406.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -534,6 +535,7 @@ C
   * [There is no 'printf'](https://www.netmeister.org/blog/return-printf.html)
 * pthread
   * [PTHREAD 내용 정리](https://jungwoon.github.io/linux/2017/07/11/pthread/)
+* rand [You should know: rand() may call malloc()](https://www.thingsquare.com/blog/articles/rand-may-call-malloc/)
 * scanf
   * [`scanf("%*d %d", &i)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
 * setjmp
