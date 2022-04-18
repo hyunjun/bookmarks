@@ -1794,6 +1794,7 @@ Deep Learning
     ```
 * [Applied Deep Learning 11/03 Convolutional Neural Networks](https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional-neural-networks)
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+* [딥러닝 기반 세차 인증 자동화 모델 개발 이야기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html)
 * [컨볼루션(Convolution) 이해하기](https://brunch.co.kr/@chris-song/24)
 * [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
 * [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
@@ -1801,7 +1802,6 @@ Deep Learning
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
 * [Interpreting (and fooling) convolutional neural networks: Part 1](https://www.jebruner.com/2017/07/interpreting-and-fooling-convolutional-neural-networks-part-1/)
 * [Dance Dance Convolution](https://github.com/chrisdonahue/ddc)
-* [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&t=427s)
 * Capsule Networks
   * [Geoffrey Hinton talk "What is wrong with convolutional neural nets ?"](https://www.youtube.com/watch?v=rTawFwUvnLE)
     * [Does the Brain do Inverse Graphics?](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
