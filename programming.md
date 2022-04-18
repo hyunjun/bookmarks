@@ -1306,6 +1306,7 @@ Programming
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
 * [도메인이 무엇인가요?](https://brunch.co.kr/@graypool/428)
+* [동료의 도메인 스토리텔링 활용](https://brunch.co.kr/@graypool/413)
 * [설계서가 아니라 의사소통](https://brunch.co.kr/@graypool/420)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
