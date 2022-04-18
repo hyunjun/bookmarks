@@ -1261,6 +1261,7 @@ Business
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
+* [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
