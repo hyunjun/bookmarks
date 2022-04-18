@@ -2440,6 +2440,7 @@ Programming
     * 모든 액션은 자동으로 캐싱
   * [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
+  * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -2562,6 +2563,7 @@ Programming
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Textbooks - Kansas State University Department of Computer Science](https://textbooks.cs.ksu.edu/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
+* [Turtle Code - YouTube](https://www.youtube.com/c/TurtleCode/videos)
 * [woz-u.com](https://woz-u.com/)
 
 # CPU
