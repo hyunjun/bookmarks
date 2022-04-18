@@ -311,6 +311,7 @@ Programming Language
   * [F# spoiled me, or why I don’t enjoy C# anymore](https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98)
   * [Railway Oriented Programming | F# for fun and profit](https://fsharpforfunandprofit.com/rop/)
   * [Syme & Matsakis: F# in the Static v. Dynamic divide - YouTube](https://www.youtube.com/watch?v=Gq41S6TfJK0)
+  * [Top 5 Courses to Learn F# (F Sharp) for Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-f-f-sharp-for.html)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
