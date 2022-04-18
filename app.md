@@ -563,6 +563,7 @@ App
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
+  * [Switching from pyenv, rbenv, goenv and nvm to asdf · jinyuz.dev](https://jinyuz.dev/2020/07/switching-from-pyenv-rbenv-goenv-and-nvm-to-asdf/)
   * [asdf-python](https://github.com/danhper/asdf-python)
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
@@ -644,11 +645,14 @@ App
     * [Postman, gRPC 지원 | GeekNews](https://news.hada.io/topic?id=5878)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법 : NHN Cloud Meetup](https://meetup.toast.com/posts/107)
   * [5분만에 배우는 당신이 몰랐던 Postman 기능 - YouTube](https://www.youtube.com/watch?v=hZJNwZssuhg)
+  * [당신이 몰랐던 Postman 기능 #Shorts - YouTube](https://www.youtube.com/watch?v=eQYDezwh2XE)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 * xh
+* [yaade: Yaade is an open-source, self-hosted, collaborative API development environment](https://github.com/EsperoTech/yaade)
+  * [Yaade - 오픈소스, 셀프호스트, 협업 API 개발 환경 | GeekNews](https://news.hada.io/topic?id=6334)
 
 # Dropbox, Google Drive, OneDrive
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
@@ -1555,6 +1559,8 @@ App
     sed '/-->/d' captions.en.vtt | sed '/<c>/d' | sed '/^[[:space:]]*$/d' | uniq > captions.txt
     ```
   * [yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+* [YouTube.js: 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
+  * [Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=6372)
 * [YT-Spammer-Purge: Allows you easily scan for and delete scam comments using several methods](https://github.com/ThioJoe/YT-Spammer-Purge)
   * [YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구 | GeekNews](https://news.hada.io/topic?id=6324)
 * [Zrythm - Digital Audio Workstation](https://www.zrythm.org/en/index.html)
