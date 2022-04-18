@@ -590,6 +590,7 @@ R
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * ragg [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
+* Rcmdr [1 . 들어가며 | 설치형 오픈 통계 패키지 - Rcmdr](https://r2bit.com/Rcmdr/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [RcppMeCab: RcppMeCab: Rcpp Interface of CJK Morpheme Analyzer MeCab](https://github.com/junhewk/RcppMeCab)
   1. https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/ 에서 mecab-ko-dic 다운로드
