@@ -378,6 +378,7 @@ Go
   * [Palindrome using generics in Go 1.18 | by Yuda Prasetiya | Mar, 2022 | Medium](https://medium.com/@yudaph/palindrome-using-generics-in-go-1-18-715496e8deff)
   * [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
   * [Calculate Mean in Go (Golang) using Generics](https://gosamples.dev/calculate-mean/)
+  * [Go 제네릭 : NHN Cloud Meetup](https://meetup.toast.com/posts/320)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
