@@ -53,6 +53,9 @@ C#
 * [cqrs](https://github.com/raw-coding-youtube/cqrs)
   * [Understanding CQRS Basics ASP .NET C# - YouTube](https://www.youtube.com/watch?v=8uZd51-OAEw)
 * [C# ASP.NET에서 MVC 사용하여 프로젝트 구축하기](https://devkingdom.tistory.com/337)
+* [C# 11.0 preview: parameter null checking | endjin](https://endjin.com/blog/2022/02/csharp-11-preview-parameter-null-checking)
+* [C# Nullable Features thru the times – csharp.christiannagel.com](https://csharp.christiannagel.com/2022/02/14/nullable/)
+* [6 .NET Myths Dispelled — Celebrating 21 Years of .NET | by Charles Chen | Dev Genius](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
