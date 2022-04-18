@@ -229,6 +229,7 @@ Interview
 * [The Big Tech Coding Interview Framework - Pt 1. Inspect](https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect)
 * [The Big Tech Coding Interview Framework - Pt 2. Strategy](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework)
 * [The Big Tech Coding Interview Framework - Pt 3. Coding](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework-cfb)
+* [이제는 달라져야 하는 코딩 테스트](https://brunch.co.kr/@godrm77/20)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
