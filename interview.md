@@ -629,6 +629,7 @@ Interview
 * [코답노트 (프로그래머스/백준/해커랭크 문제풀이 확장앱) - Chrome 웹 스토어](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%8B%B5%EB%85%B8%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EB%B0%B1%EC%A4%80%ED%95%B4%EC%BB%A4%EB%9E%AD%ED%81%AC-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%ED%99%95%EC%9E%A5/jnblbdlgdgbbgpnllacdodkncdckndli?hl=ko)
 * [코딩테스트 준비 사이트 모음집(단순링크만)](https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C)
 * [10 Common Coding Interview Problems - Solved! - YouTube](https://www.youtube.com/watch?v=Peq4GCPNC5c)
+* [System Design Guide for Front-end Developers - DEV Community](https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl/)
 * [acmicpc-kit: Let's practice algorithms with Acmicpc Kit ! Acmicpc Kit is a template project for creating the problem project using fully customizable templates](https://github.com/silentsoft/acmicpc-kit)
 * [Advent of Code 2021](https://adventofcode.com/)
   * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
