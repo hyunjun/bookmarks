@@ -160,9 +160,6 @@ Go
 * [Anatomy of methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
 * [What are methods in golang - DEV Community](https://dev.to/theamasoud/what-are-methods-in-golang-4b5g)
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
-* [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
-* [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
-* [Martin Baillie | Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
 * [MongoDB Golang 드라이버의 컨텍스트와 커넥션](https://www.popit.kr/mongodb-golang-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BB%A4%EB%84%A5%EC%85%98)
@@ -379,6 +376,7 @@ Go
   * [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
   * [Calculate Mean in Go (Golang) using Generics](https://gosamples.dev/calculate-mean/)
   * [Go 제네릭 : NHN Cloud Meetup](https://meetup.toast.com/posts/320)
+  * [When To Use Generics - The Go Programming Language](https://go.dev/blog/when-generics)
 * interface
   * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
   * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
@@ -400,6 +398,10 @@ Go
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
   * [HTTP connection pool in Go explained](https://tech.buzzvil.com/blog/http-connection-pool-in-go-explained/)
+  * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
+  * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
+  * [Martin Baillie | Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
+  * [SMTP protocol basics from scratch in Go: receiving email from Gmail | notes.eatonphil.com](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
