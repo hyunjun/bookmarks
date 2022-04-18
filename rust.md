@@ -275,6 +275,7 @@
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
 * [swcify](https://github.com/Shopify/swcify) wraps swc with a napi-rs package that implements custom transforms used by Shopify
 * [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
+* [tlqkf: You feeling 'tlqkf' when using shell, typing 'tlqkf'](https://github.com/juunini/tlqkf)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
     * 속도 저하 없이 안정적인 네트워킹 어플리케이션을 만들기 위한 스택
