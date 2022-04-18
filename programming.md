@@ -102,6 +102,7 @@ Programming
   * 순서가 중요. 거꾸로 적용하면 안됨
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
+* [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -537,6 +538,10 @@ Programming
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
 * [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+* [Thoughtworks Technology Radar 26호 (39p PDF) | GeekNews](https://news.hada.io/topic?id=6295)
+* [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
+  * [Joel Spolsky on Structuring the Web with the Block Protocol – The New Stack](https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol/)
+* [The Boring Technology Checklist - Begin](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -782,6 +787,7 @@ Programming
 * [How to use undocumented web APIs](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
   * [Undocumented Web API 사용하는 법 | GeekNews](https://news.hada.io/topic?id=6139Undocumented)
 * [API 문서 읽는 법](https://spectacular-bottom-6be.notion.site/API-1d5d21326d204bb19a4c6cbab8b37cd4)
+* [6 Traits of an Effective API. Great APIs are opinionated. In this… | by Bobi | Dev Genius](https://blog.devgenius.io/6-traits-of-an-effective-api-b03e22a8d152)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -800,6 +806,7 @@ Programming
 * [openapi-generator: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)](https://github.com/OpenAPITools/openapi-generator)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | LearnApplyShare](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | MADTECH](https://tech.madup.com/openapi-generator/)
+  * [Generate Server Code Using OpenAPI Generator](https://mydeveloperplanet.com/2022/02/08/generate-server-code-using-openapi-generator/)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
@@ -907,6 +914,7 @@ Programming
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
 * [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html) 퍼플웍스 tech stack
+* [How I built my tech startup as a solo developer | by Erik | Dreamwod tech | Mar, 2022 | Medium](https://medium.com/dreamwod-tech/how-i-built-my-tech-startup-as-a-solo-developer-45390f460002) tech stack
 * [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 * [**백엔드 개발자를 꿈꾸는 학생개발자에게**](https://d2.naver.com/news/3435170)
 * [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785#1f326824f06d4fe4ae69f915a6ae72b3)
@@ -1046,6 +1054,7 @@ Programming
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Microservices: Mono repo vs. multiple repositories](https://jaxenter.com/microservices-mono-repo-vs-multiple-repositories-130148.html)
+* [**Monorepo Explained**](https://monorepo.tools/)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
@@ -1668,6 +1677,7 @@ Programming
 * [오늘의집 MSA Phase 1. 백엔드 분리작업 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2022-01-14-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85)
 * [What Breaks Our Systems: A Taxonomy of Black Swans](https://www.infoq.com/presentations/taxonomy-black-swans/)
 * [Reasons for Cancelling a Move to Microservices](https://www.infoq.com/news/2019/08/cancelling-move-to-microservices/)
+* [Smart Step-Into for Microservices Debugging | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2022/02/smart-step-into-for-microservices-debugging/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2116,6 +2126,7 @@ Programming
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 * [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+* [Fighting Evil in Your Code: Comments on Comments - Simple Talk](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/fighting-evil-code-comments-comments/)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
 * [Why Does My Website Run Very Slowly, and How Do I Optimize It for Free? | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/why-does-my-website-run-very-slowly-and-how-do-i-optimize-it-for-free-b21f8a2f0162)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
@@ -3135,6 +3146,7 @@ Programming
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
+* [‘매번 지적할 수도 없고...’ 오남용 심한 IT 유행어 14선 - CIO Korea](https://www.ciokorea.com/news/232569)
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
@@ -3696,6 +3708,7 @@ Programming
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [Michael Feathers - 10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+* [You should be reading academic computer science papers - Stack Overflow Blog](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
 * [ar5iv – Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
   * [ar5iv - arXiv의 PDf를 HTML5로 보기 | GeekNews](https://news.hada.io/topic?id=5874)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
@@ -4223,6 +4236,7 @@ Programming
 * [TDD에 대한 몇 가지 질문](https://brunch.co.kr/@cleancode/44)
   * [(1) Kent Beck 🌻 on Twitter: "@sarah_edo Baby steps. Really, really quick baby steps. But baby steps first." / Twitter](https://twitter.com/kentbeck/status/1260938674440515585?lang=en)
 * [세미나 공유 - 테스트 - YouTube](https://www.youtube.com/watch?v=L_1UYlJyNuk)
+* [Unit Testing is Overrated | Oleksii Holub](https://tyrrrz.me/blog/unit-testing-is-overrated)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
@@ -4262,6 +4276,7 @@ Programming
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
 * [A/B 테스트 자동 분석툴 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
 * [Technology: Push the Boundaries #1 QA 테스트 자동화에 도전하다](https://blog.ncsoft.com/technology-push-the-boundaries-1/)
+* [파이썬 로봇 프레임워크를 활용한 소프트웨어 자동화 테스트의 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/232029)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
@@ -4321,6 +4336,7 @@ Programming
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 * [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+* [How we lost 54k GitHub stars – HTTPie blog](https://httpie.io/blog/stardust)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
