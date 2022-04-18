@@ -261,7 +261,6 @@ Data Visualization
 * [파이썬에서 캔들차트 그리기](http://blog.naver.com/anthouse28/221408163989)
 * [Satellite Imagery Analysis with Python](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
 * [Jake VanderPlas The Python Visualization Landscape PyCon 2017](https://www.youtube.com/watch?v=FytuB8nFHPQ)
-* [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Large Scale Visualizations and Mapping with Datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
 * [**OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi **](https://github.com/corazzon/OpenDataWrangling) 다양한 youtube + ipynb
@@ -351,6 +350,9 @@ Data Visualization
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a) 배달 루트 최적화
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
+* Folium
+  * [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
+  * [I Need to Find an Apartment](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html)
 * [k3d](https://github.com/adioshun/gitBook_PCL/blob/master/pcl/k3d.ipynb)
 * [lets-plot/README_PYTHON.md at master · JetBrains/lets-plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 * [lux: Python API for Intelligent Visual Data Discovery](https://github.com/lux-org/lux)
