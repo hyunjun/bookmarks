@@ -211,6 +211,7 @@ SQL
 * [How to choose the right database for your service | by Natan Silnitsky | Wix Engineering | Medium](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
 * [“데이터 계층을 위한 탄력적 컴퓨팅” 서버리스 데이터베이스의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/228914)
 * [A database for 2022 · Tailscale](https://tailscale.com/blog/database-for-2022/)
+* [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://velog.io/@datarian/good-sql-code)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
