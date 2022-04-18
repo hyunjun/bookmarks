@@ -139,6 +139,7 @@ Linux
 * [Moving the kernel to modern C LWN.net](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
   * [Linux kernel is switching to a modern C! Why? Lets study the source code and see why - YouTube](https://www.youtube.com/watch?v=-G1FuEQqxVI)
 * [cpu scheduling image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116314#gistcomment-4116314)
+* [Hints for writing Unix tools](https://monkey.org/~marius/unix-tools-hints.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -519,6 +520,7 @@ Linux
   * [**자주 사용하는 curl 명령어 옵션과 예제**](https://kibua20.tistory.com/148) chrome에서 curl 명령 확인
   * [“I could rewrite curl” | daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
   * [Convert curl commands to code](https://curlconverter.com/)
+  * [Bloodguy :: Linux curl 응답시간 측정 (how to measure curl response time)](https://bloodguy.tistory.com/entry/Linux-curl-%EC%9D%91%EB%8B%B5%EC%8B%9C%EA%B0%84-%EC%B8%A1%EC%A0%95-how-to-measure-curl-response-time)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
@@ -1142,6 +1144,7 @@ Linux
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [Material Shell - A new desktop experience](https://material-shell.com/#material-shell)
+* [minimodem - general-purpose software audio FSK modem](http://www.whence.com/minimodem/)
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * mlr [Miller 6.0.0 Documentation](https://miller.readthedocs.io/)
