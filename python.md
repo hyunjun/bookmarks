@@ -545,6 +545,7 @@ Python
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 - Morgenrøde](https://ryanking13.github.io/2021/03/04/python-patma.html)
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 | GeekNews](https://news.hada.io/topic?id=3848)
 * [파이썬 함수, 모듈, 패키지의 차이점 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/function-module-package/)
+* [From Functions to Python Package. Learn from the scratch about how to… | by Arafath Hossain | Apr, 2022 | Better Programming](https://betterprogramming.pub/from-functions-to-python-package-f8a3bba8bb6b)
 * [파이썬 코드의 아주 사소하고 미묘한 성능 개선.. : 네이버블로그](https://blog.naver.com/vwjdalsgkv/222334032772)
 * [**알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 - Morgenrøde**](https://ryanking13.github.io/2021/06/10/python-commandline-scripts.html) 다양한 `python -m ...` commands
   * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 | GeekNews](https://news.hada.io/topic?id=4431)
@@ -1845,7 +1846,6 @@ Python
   * [Glyph - Shipping Software To Users With Python - PyCon 2016](https://www.youtube.com/watch?v=5BqAeN-F9Qs)
   * [Hubert Gabryś](https://www.youtube.com/playlist?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W)
   * [5 things about Python I learned at PyCon 2016](https://medium.com/@karan/5-things-about-python-i-learned-at-pycon-2016-8d10cfafd106)
-  * [Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon 2016](https://www.youtube.com/watch?v=D_6ybDcU5gc)
 * [pycon.kr/2016apac](https://www.pycon.kr/2016apac/)
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
   * [Python으로 한자검색 텔레그램 봇 개발 후기](http://www.slideshare.net/studioego/python-64911528)
@@ -3498,7 +3498,6 @@ Python
   * [Announcing Lomond, a WebSocket Client Library for Python](https://www.willmcgugan.com/blog/tech/post/announcing-lomond/)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
-* [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
 * [magic-wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole) Get things from one computer to another, safely
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
 * [MicroPython](http://www.micropython.org/)
@@ -3777,8 +3776,6 @@ Python
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [UltraDict: Shared, streaming Python dict](https://github.com/ronny-rentner/UltraDict)
-* [**Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
-  * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
 * [usbkill: « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer](https://github.com/hephaest0s/usbkill)
 * [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org ](https://github.com/encode/uvicorn)
 * [**uvloop is a fast, drop-in replacement of the built-in asyncio event loop**](https://github.com/MagicStack/uvloop)
@@ -4013,7 +4010,6 @@ Python
     * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * PyScripter [An Introduction to PyScripter — The Best Free Python IDE | by Sohom Das | Jan, 2022 | Python in Plain English](https://python.plainenglish.io/an-introduction-to-pyscripter-the-best-free-python-ide-c0d42887769a)
-* [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/) Instant Python refactoring
 * [Spyder IDE](https://www.spyder-ide.org/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
@@ -4275,11 +4271,23 @@ Python
 * [PyKIPass: 📱사장님들을 위한 QR체크인, 전자출입명부, KIPass API 파이썬 라이브러리](https://github.com/alus20x/PyKIPass)
 * pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 
+## Library refactoring
+* [Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon 2016](https://www.youtube.com/watch?v=D_6ybDcU5gc)
+* [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
+* [Bowler: Safe code refactoring for modern Python](https://github.com/facebookincubator/bowler)
+* [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/) Instant Python refactoring
+* [**Undebt is a fast, straigPygmentshtforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
+  * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
+
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [rapidfuzz - Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance](https://github.com/rhasspy/rapidfuzz)
 * [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
+
+## Library syntax highlighter
+* [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
+* Pygments [Welcome! — Pygments](https://pygments.org/)
 
 ## Library TUI text user interface
 * [Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)
@@ -4616,9 +4624,6 @@ Python
   * [A parser for the C language written in Python](https://pythonawesome.com/a-parser-for-the-c-language-written-in-python/)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 
-# Podcast
-* [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
-
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
@@ -4887,6 +4892,9 @@ Python
 * [No, not typing. Types. - YouTube](https://www.youtube.com/watch?v=3A0y-ksmGgI)
 * [Type Hints in Python: What, Why, and How - YouTube](https://www.youtube.com/watch?v=j0dy8Q9VIPk)
 * [Tests aren’t enough: Case study after adding type hints to urllib3 — sethmlarson.dev](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
+* [Code Better With Type Hints - Part 1 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-1/)
+* [Code Better With Type Hints – Part 2 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-2/)
+* [Code Better With Type Hints – Part 3 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-3/)
 * [Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
   * [2021-protocol-vs-abc: Protocols vs ABC - which one should you use when?](https://github.com/ArjanCodes/2021-protocol-vs-abc)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
