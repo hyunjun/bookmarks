@@ -1485,6 +1485,7 @@ Javascript
 * [2021 JavaScript Rising Stars | GeekNews](https://news.hada.io/topic?id=5716)
 * [10-javascript-frameworks: Comparison of 10 frontend JavaScript frameworks](https://github.com/fireship-io/10-javascript-frameworks)
   * [I built the same app 10 times // Which JS Framework is best? - YouTube](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+* [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -2085,6 +2086,8 @@ Javascript
 * [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
 * [자바스크립트 패키지 매니저의 여정 | Clean Coder](https://www.cleancoder.dev/package-manager-history/) npm yarn pnpm yarn 2(berry)
 * [차세대 빌드 도구 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220127) esbuild, snowpack, vite, wmr
+* [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884)
+* [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -2171,6 +2174,7 @@ Javascript
       * 210초 걸리던 빌드를 2.16초로 만들었지만, 프로젝트의 코드상 Babel을 빌드에 추가해야 했고 HMR 미지원이 아쉬움
     * 다음으로 Vite 시도
       * 설정 파일을 1/6로 줄이고 HMR도 지원, 의존성과 소스코드를 따로 빌드하기 때문에 빠르게 개발 빌드 실행, 빌드도 250초에서 90초 정도로 감소
+    * [Webpack → Vite: 번들러 마이그레이션 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1435)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
@@ -2299,6 +2303,7 @@ Javascript
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [nodejs error handling](http://dev-momo.tistory.com/entry/nodejs-error-handling)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
+* [The best way to install node js on linux. - YouTube](https://www.youtube.com/watch?v=NpeEugDn1SA)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
 * [Shared memory with node.js](http://blog.varunajayasiri.com/shared-memory-with-nodejs)
@@ -2912,6 +2917,7 @@ Javascript
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
 * [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)
+* [React Best Practices - Ways To Write Better Code in 2022 - DEV Community](https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk)
 * [An overview of Javascript reactive frameworks](http://rrees.me/2015/06/04/overview-of-javascript-reactive-frameworks/)
 * [React의 이해](https://www.youtube.com/watch?v=n8Blhqhcx_w)
   * [React](http://www.slideshare.net/pheadra4/react-46872849)
@@ -4303,6 +4309,8 @@ Javascript
 * [TypeScript는 어떻게 공부해야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1376/)
 * [타입스크립트의 Never 타입 완벽 가이드 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220323)
 * [practice - Bubblesort](https://gist.github.com/hyunjun/84e6ab9f8bb5347a1002ee0d9357d3f1#file-bubblesort-ts)
+* [Secrets of ‘unknown’ Types in TypeScript | by Zachary Lee | Apr, 2022 | Better Programming](https://betterprogramming.pub/secrets-of-unknown-types-in-typescript-2987cd1263f0)
+* [부록 TS, 왜 써야할까?](https://velog.io/@server30sopt/WhyTS)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
