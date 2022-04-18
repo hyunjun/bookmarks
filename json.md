@@ -215,11 +215,12 @@ Json
 * [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
   * [NestedText: A Human Friendly Data Format](https://nestedtext.org/)
 * [open bucket - A simple API to store & retrieve JSON objects](http://openbucket.io/)
-* [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
 * quicktype [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)
 * [REN is simple yet powerful data storage, exchange and notation format](https://github.com/humanistic/REN)
 * [sondra - A validated JSON manager and REST API generator for Python, Flask, and RethinkDB](https://github.com/JeffHeard/sondra)
+* [spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://github.com/dcmoura/spyql)
+  * [json_bench.ipynb - Colaboratory](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb)
 * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
 
 # Python
@@ -244,6 +245,7 @@ Json
 * jmespath [4 Tricks to Effectively Use JSON in Python | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/4-tricks-to-effectively-use-json-in-python-4ca18c3f91d0)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [pandas.read_json](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_json.html)
+* [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
 
