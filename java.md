@@ -143,6 +143,7 @@ Java
 * [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
 * [The Decline and Fall of Java on the Desktop Part 1 (1999-2005)](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
 * [Java에서의 Emoji처리에 대해 : NHN Cloud Meetup](https://meetup.toast.com/posts/317) unicode 유니코드
+* [Google Best Practices for Java Libraries](https://jlbp.dev/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -508,6 +509,7 @@ Java
 # Conference
 * [Hugh Mckee - Building Stateful Clustered Microservices with Java, Actors, and Kubernetes](https://www.youtube.com/watch?v=AJD4RjYRIaU)
 * [Keeping Pace with Java - YouTube](https://www.youtube.com/watch?v=A9ilnniaUmA)
+* [Keeping Pace with Java](https://www.infoq.com/presentations/java-update-versions/)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -683,6 +685,7 @@ Java
 * [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 * [Java 8 - Map and Reduce Example Tutorial | Java67](https://www.java67.com/2016/09/map-reduce-example-java8.html)
 * [Java 8 Features - Making Java easy to learn](https://javatechonline.com/java-8-features/)
+* [Java 8 LTS to the Latest - a Performance & Responsiveness Perspective](https://www.infoq.com/presentations/java-8-13-performance/)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -765,6 +768,7 @@ Java
 * [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
 * [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
 * [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
+* [Java records & compact constructors](https://mikemybytes.com/2022/02/16/java-records-and-compact-constructors/)
 * [Why Java's Records Are Better\* Than Lombok's @Data and Kotlin's Data Classes // nipafx](https://nipafx.dev/java-record-semantics/)
 
 # Java15
@@ -867,6 +871,7 @@ Java
   * [Heapothesys - an Open-Source GC Latency Benchmark by Amazon Corretto](https://www.infoq.com/news/2020/09/introducing-heapothesys/)
 * [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
+* JFR [The JDK Flight Recorder File Format - Gunnar Morling](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
 * LIBERICA JDK [OpenJDK Overview | BellSoft Java](https://bell-sw.com/pages/libericajdk/)
 * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
   * [Announcing Preview of Microsoft Build of OpenJDK | Java at Microsoft](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
@@ -952,6 +957,7 @@ Java
 * [스택과 힙 메모리, 그리고 멀티 스레드 :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/3) Kotlin
 * [10분 테코톡 🎹 김김의 JVM Specification - YouTube](https://www.youtube.com/watch?v=6reapO0gLPs)
 * [Java in Containers - Part Deux](https://www.infoq.com/presentations/openjdk-containers/)
+* [Understanding the constant pool inside a Java class file](https://blogs.oracle.com/javamagazine/post/java-class-file-constant-pool)
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
@@ -1048,6 +1054,7 @@ Java
 * [Guide to Java Profilers](https://medium.com/platform-engineer/guide-to-java-profilers-e344ce0339e0)
 * [스택트레이스 샘플링을 이용한 성능 분석 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2021-10-18/) 제품 광고지만 글 흐름 자체는 좋음
 * [5 Mundane Java Performance Tips | Richard Startin’s Blog](https://richardstartin.github.io/posts/5-java-mundane-performance-tricks)
+* [Profiling Java Applications with Async Profiler | HackerNoon](https://hackernoon.com/profiling-java-applications-with-async-profiler-049s2790)
 * jconsole
 * jprobe
 * jProfiler
