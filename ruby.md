@@ -55,6 +55,7 @@ Ruby
 * [루비(Ruby) 버전 3.0.0, 병렬실행 및 타입설명 지원 - CIO Korea](https://www.ciokorea.com/news/177799) rector
 * [Ruby 3, concurrency and the ecosystem · Kir Shatrov](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
 * [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
+* [Why Ruby has Symbols | dmitrytsepelev.dev](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
