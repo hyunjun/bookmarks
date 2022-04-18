@@ -2764,6 +2764,7 @@ Javascript
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
   * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
   * [Web Scraping with Puppeteer & Node.js: Chrome Automation - YouTube](https://www.youtube.com/watch?v=lgyszZhAZOI)
+  * [Nodejs Puppeteer Tutorial #10 - Capture, Block & Mock Requests - YouTube](https://www.youtube.com/watch?v=Q2rAqcKRyHY)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
