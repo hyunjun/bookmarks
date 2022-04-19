@@ -8,6 +8,7 @@ Health
 * [핏짜의 등산 바이블 전자책 무료 공개](http://bestseller.tistory.com/)
 * [꼭꼭 누르면 두통 '2분' 만에 싹 사라지는 지압점 6곳](http://www.insight.co.kr/newsRead.php?ArtNo=98820)
 * [20200304 만성 편두통 진료일지 첫번째 앰겔러티(Emgality) 주사](https://realignist.me/20200304-migraine-diary-93fb8b550484)
+* [잠잘 때 붙이는 수면테이프, 이것을 안 붙이고 자면 너무나도 억울한 3가지 이유. 제가 직접 2주 이상 붙이고 경험한 내용을 알려드립니다. - YouTube](https://www.youtube.com/watch?v=mmhNXCTLUiQ) 3M 넥스케어 듀라포 면실크 반창고
 
 # Exercise
 * [걷기 운동, 그 효과와 올바른 방법](http://ppss.kr/archives/41198)
