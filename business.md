@@ -56,6 +56,7 @@ Business
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
+* [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 1부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1437/)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
@@ -431,6 +432,8 @@ Business
 * [Why is selling software so weird?](https://www.zeptonaut.com/posts/selling-software-is-weird/)
 * [아마존 앤디 재시의 2021년 첫 연례 주주서한 (번역) – 이바닥늬우스](https://ebadak.news/2022/04/15/andy-jassy-letter-2021/)
 * [칼럼 | ‘트랜잭션 앱과 소비 앱’··· 기업 IT 관점의 고찰 - CIO Korea](https://www.ciokorea.com/news/232424)
+* [Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
+  * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
