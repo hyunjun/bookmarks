@@ -57,6 +57,7 @@ Business
 * [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
 * [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 1부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1437/)
+* [쿠팡이 아직 열지 않은 세 개의 흑자 주머니 박동휘의 컨슈머 리포트 | 한경닷컴](https://www.hankyung.com/finance/article/202204132729i) 오퍼레이팅 레버리지(operating leverage), 수확체증의 법칙, 코호트(cohort)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
