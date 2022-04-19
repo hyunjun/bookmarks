@@ -151,6 +151,11 @@ Programmer
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
 * [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
 
+# Consult
+* [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
+* [콜드콜로 자문을 받고 싶을 때 '꿀팁 3가지' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coldcall20210726)
+  * [콜드콜로 자문을 받고 싶을 때 '꿀팁 3가지' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/17qExH1W8vs-_Px9qrSP3CI8LsSCVSIZi/view?usp=sharing)
+
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
 * [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
