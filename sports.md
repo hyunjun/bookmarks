@@ -188,7 +188,7 @@ Sports
 * [데이터를 통해 보는 리그 샷 트렌드 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=205193)
 * [Profile - josiah.brady | Tableau Public](https://public.tableau.com/app/profile/josiah.brady/viz/KBLKoreanBasketballLeague2019)
 * [데이터 분석 스테판 커리 출전! NBA에서의 3점슛이 팀 성공에 어떤 영향을 미칠까?](https://www.blog.spiderkim.com/post/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%8A%A4%ED%85%8C%ED%8C%90-%EC%BB%A4%EB%A6%AC-%EC%B6%9C%EC%A0%84-nba%EC%97%90%EC%84%9C%EC%9D%98-3%EC%A0%90%EC%8A%9B%EC%9D%B4-%ED%8C%80-%EC%84%B1%EA%B3%B5%EC%97%90-%EC%96%B4%EB%96%A4-%EC%98%81%ED%96%A5%EC%9D%84-%EB%AF%B8%EC%B9%A0%EA%B9%8C)
-* [Regression Analysis to Determine Player Dependency | Boston Celtics - YouTube](https://www.youtube.com/watch?v=0bmVrw87shI)
+* [~Regression Analysis to Determine Player Dependency | Boston Celtics - YouTube~](https://www.youtube.com/watch?v=0bmVrw87shI)
 * [Who is the most dependable player of Chicago Bulls | NBA 2021 | Regression Analysis - YouTube](https://www.youtube.com/watch?v=bozEvCTBnaM)
 * [Who is the most dependable player of Golden State Warriors | NBA 2021 | Regression Analysis - YouTube](https://www.youtube.com/watch?v=AtyhfZEjPlY)
 * [매거진 농구인보다 전문가! 한국도 전문가 시대 열릴까](https://sports.v.daum.net/v/20220326151951147) 출신보다 능력, 특히 비디오 분석은 종목 불문 기본적인 부분, 관계 형성 역시 매우 중요
