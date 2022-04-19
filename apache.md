@@ -693,6 +693,7 @@ Apache
 * [간단한 카프카 환경 구성하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163709)
 * [카프카 커넥트의 태스크 밸런싱 로직, DistributedHerder(양치기) 그리고 IncrementalCooperativeAssignor 내부 동작 소개](https://voidmainvoid.tistory.com/473)
 * [LIVE 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍 :: 3월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=PvAlbOm9WN8)
+* [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
