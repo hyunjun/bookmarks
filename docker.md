@@ -292,6 +292,7 @@ Docker
     * [코드 분석 툴 sonarqube 시작하기 - YouTube](https://www.youtube.com/watch?v=8HXyH_nOTUY)
     * [SonarCloud를 통한 Node.js & Jest 프로젝트 정적 분석하기](https://jojoldu.tistory.com/662)
     * [SonarLint와 SonarCloud 연동하기 (WebStorm Plugin)](https://jojoldu.tistory.com/665)
+    * [SonarLint - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/7973-sonarlint)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
     * [Encoding Problems when running an app in docker (Python, Java, Ruby, …) with Ubuntu Containers (ascii, utf-8)](https://stackoverflow.com/questions/27931668/encoding-problems-when-running-an-app-in-docker-python-java-ruby-with-u/27931669)
 
@@ -1794,6 +1795,7 @@ Docker
 * [오픈스택과 컨테이너 I](https://naleejang.tistory.com/229)
 * [오픈스택과 컨테이너 II](https://naleejang.tistory.com/230)
 * [오픈스택과 컨테이너 III](https://naleejang.tistory.com/231)
+* [Red Hat OpenStack 16.2 설치 템플릿](https://naleejang.tistory.com/255)
 * [2021.02 세미나 - kubernetes와 kubernetes on openstack 구축 사례 및 비교 - 김호진 - YouTube](https://www.youtube.com/watch?v=dbQcBlei2eI)
   * [오픈소스컨설팅 쿠버네티스와 쿠버네티스 on 오픈스택 비교 및 구축 방법](https://www.slideshare.net/OpenSourceConsulting/on-244106649)
 * [OpenvSwitch 와 Open Virtual Network](https://naleejang.tistory.com/244)
