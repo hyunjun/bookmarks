@@ -137,6 +137,7 @@ Go
 * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Why Go is a poorly designed language](https://medium.com/@tucnak/why-go-is-a-poorly-designed-language-1cc04e5daf2)
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
+* [Nodejs vs. Go — Which One Is the Right Choice for You? | by Amyra Sheldon | Apr, 2022 | Medium](https://amyrasheldon.medium.com/nodejs-vs-go-which-one-is-the-right-choice-for-you-7e085a720f7e)
 * [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
 * [Are Go maps sensitive to data races ?](http://dave.cheney.net/2015/12/07/are-go-maps-sensitive-to-data-races)
 * [Go로 새 프로젝트 시작하기](http://www.slideshare.net/100001105751070/go-51748987)
