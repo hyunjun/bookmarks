@@ -272,6 +272,7 @@ Javascript
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
 * [자바스크립트 스코프와 클로저(JavaScript Scope and Closures)](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19)
+* [스코프와 클로저 · Present](https://present.do/presentations/625243b712168b359e2e5aa0?page=0)
 * [An easy intro to Lexical Scoping in JavaScript](https://medium.freecodecamp.org/lexical-scoping-in-javascript-e876cd221b74)
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
