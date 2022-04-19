@@ -190,6 +190,7 @@ Artificial Intelligence
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
 # Library
+* [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [comma.ai](https://research.fb.com/projects/commai/)
   * [comma.ai](https://comma.ai/)
