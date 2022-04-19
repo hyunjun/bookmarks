@@ -225,6 +225,7 @@ Go
 * [Optimizing a Golang service to reduce over 40% CPU](https://medium.com/coralogix-engineering/optimizing-a-golang-service-to-reduce-over-40-cpu-366b67c67ef9)
 * [Why You Should Avoid Pointers in Go](https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7)
 * [GoLang 포인터 101](https://www.joinc.co.kr/w/man/12/golang/pointer)
+* [Go Programming |Pointer in Golang | by Jerry An | Apr, 2022 | Medium](https://jerryan.medium.com/go-programming-pointer-in-golang-cd1d8803e25d)
 * [Go: Aliases, Simple and Efficient](https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e)
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
