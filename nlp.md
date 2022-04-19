@@ -836,6 +836,7 @@ NLP
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
 * [모두의 말뭉치](https://corpus.korean.go.kr)
 * [형태소 분석기의 모호성 해소 성능을 평가해보자](https://bab2min.tistory.com/672)
+* [APEACH – 혐오발화 평가데이터를 만드는 새로운 방법 – tech.kakao.com](https://tech.kakao.com/2022/04/14/apeach/)
 * [hatescore-korean-hate-speech: 8K human in the loop hate speech dataset and 2.2K neutral sentences](https://github.com/sgunderscore/hatescore-korean-hate-speech/)
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
