@@ -452,6 +452,7 @@ AWS
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 * [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
 * [MORE AGILE: **당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들 (2022년 업데이트)**](https://www.moreagile.net/2022/04/aws-day1-todo_01694645043.html)
+* [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
