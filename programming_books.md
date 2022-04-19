@@ -812,6 +812,7 @@ Programming Books
 * (NOT YET) [그래프 신경망 입문 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-neural-networks)
 * (NOT YET) [Must Have 머신러닝·딥러닝 문제해결 전략 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%c2%b7%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%ac%b8%ec%a0%9c%ed%95%b4%ea%b2%b0-%ec%a0%84%eb%9e%b5/)
   * [musthave_mldl_problem_solving_strategy: 《머신러닝·딥러닝 문제해결 전략》](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)
+    * [musthave_mldl_problem_solving_strategy/minimap at main · BaekKyunShin/musthave_mldl_problem_solving_strategy](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/tree/main/minimap)
   * [머신러닝-딥러닝 문제해결 전략 - YouTube](https://www.youtube.com/watch?v=R3KfBFJyvwk)
 
 ## Machine Learning
