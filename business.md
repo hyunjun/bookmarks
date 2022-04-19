@@ -212,6 +212,7 @@ Business
 * [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
+* [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
