@@ -405,6 +405,7 @@ AWS
 * [Amazon Timestream – 시계열 데이터베이스 – Amazon Web Services](https://aws.amazon.com/ko/timestream/)
   * [Amazon Timestream - Time series is the new black](https://www.allthingsdistributed.com/2021/06/amazon-timestream-time-series-is-the-new-black.html)
 * [AWS 대회에서 1등 했습니다! – DRAMA&COMPANY](https://blog.dramancompany.com/2021/06/awsgameday2021/)
+* [AWS 대회 2관왕한 사람이 푸는 우승 Know-Hows | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/04/19/AWS-GameDay-Know-Hows.html)
 * [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 * [**금융 IT 그리고 클라우드**](https://www.joinc.co.kr/w/man/12/finance/ITandFinance)
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
@@ -1220,6 +1221,8 @@ AWS
     * [Architect (arc) - 서버리스 앱 작성/배포를 쉽게 해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=5031)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [ConsoleMe: A Central Control Plane for AWS Permissions and Access | Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
+  * [How to implement ConsoleMe. ConsoleMe is a web service that makes… | by Joo Hee Paige Kim | 더핑크퐁컴퍼니 기술 블로그 | Apr, 2022 | Medium](https://medium.com/pinkfong/how-to-implement-consoleme-899a7474c6ab)
+  * [ConsoleMe 적용해보기. ConsoleMe 는 엔드 유저 및 클라우드 관계자들이 AWS IAM… | by Joo Hee Paige Kim | 더핑크퐁컴퍼니 기술 블로그 | Apr, 2022 | Medium](https://medium.com/pinkfong/consoleme-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-c227dee730d4)
 * [Construct Hub](https://constructs.dev/)
   * AWS CDK, CDK8s, CDKtf를 이용해서 TypeScript나 Python으로 작성한 재사용 가능한 컴포넌트를 검색
 * [containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS)](https://github.com/aws/containers-roadmap)
