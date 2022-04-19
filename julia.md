@@ -204,3 +204,4 @@ Julia
 * [Introduction - Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 * [JuliaTutorial2022Korea](https://github.com/chkwon/JuliaTutorial2022Korea)
 * [Julia Tutorial 2022 Korea 줄리아 언어 소개 #1 - YouTube](https://www.youtube.com/watch?v=wjLXmz4D9VQ)
+* [Julia Tutorial](https://www.tutorialspoint.com/julia/index.htm)
