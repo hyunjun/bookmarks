@@ -12,6 +12,7 @@ Business
 * [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
   * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
+* [잔디 월간일잘러: 빠르게 성장하는 당근마켓에서 효율적으로 일하는 방법 | Novemberde's Blog](https://novemberde.github.io/post/2021/08/31/Jandi-monthly/)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
 * [01화 이커머스 도메인 지식이 왜 필요해요?](https://brunch.co.kr/@windydog/371)
 * [02화 내가 이커머스 도메인 지식을 배운 3가지 방법](https://brunch.co.kr/@windydog/378)
