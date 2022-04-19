@@ -1212,6 +1212,7 @@ Programming
 * [현대차의 모빌리티 서비스 플랫폼, 셔클 개발기 – 현대모터그룹 TECH](https://tech.hyundaimotorgroup.com/kr/developers-blog/hyundai-motor-companys-mobility-service-platform-shucle-development-story/)
 * [Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News](https://news.ycombinator.com/item?id=30986893)
 * [In defense of simple architectures](https://danluu.com/simple-architectures/)
+* [기술 아키텍처 | 코드너리](https://www.codenary.co.kr/architecture/list)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
