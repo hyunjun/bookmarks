@@ -557,7 +557,7 @@ Business
 * [성과 평가](https://brunch.co.kr/@tilltue/81)
 * [계량화에 대하여 - YouTube](https://www.youtube.com/watch?v=5Wzb2RTSUPo)
 * [7.08 인사 평가제도 필요한가? - YouTube](https://www.youtube.com/watch?v=F_RXcNzjDlc)
-* [고위공직(후보)자 역량진단 Kit - YouTube](https://www.youtube.com/watch?v=BL28kbunE3E)
+* [고위공직(후보)자 역량진단 Kit - YouTube](https://www.youtube.com/watch?v=BL28kbunE3E) 성취예측모형 Achievement Prediction Model APM
 * [평가 결과를 미래 목표로 연결하는 평가 면담](https://camp.lemonbase.com/feedback/feedforward)
 * [샤로잡다 MZ세대가 쏘아올린 성과급 논란, MZ가 말하는 공정은 무엇인가? | EP9. 신재용 교수 - YouTube](https://www.youtube.com/watch?v=-aokUzG0XWY)
 * [성과목표를 잘 수립하는 첫번째 법칙](https://brunch.co.kr/@choihs0228/380)
@@ -841,6 +841,7 @@ Business
 * [히딩크를 아직도 '최고의 감독'으로 꼽는 이유](https://sports.v.daum.net/v/20210911112100357)
 * [도하에서 벤투가 옳았다..대표팀에 뿌리 내린 '빌드업 축구'](https://sports.v.daum.net/v/20211117090018715) 인정받지 못했으나 결국 어느 정도 성과가 가시화되니 이런 기사가 나오기 시작
 * [이규섭의 삼성, '팀 분위기' 어떻게 바뀔까?](https://sports.v.daum.net/v/20220325083002979) leadership style보다 중요한 건 결국 결과
+* [최준용 "궂은 일 안했지만.. 믿어주는 감독님께 설득 당해"](https://sports.v.daum.net/v/20220330030252993) 감독의 신뢰
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [나는 우리 직원을 신뢰하는가 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236073)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
