@@ -193,6 +193,7 @@ Google Cloud Platform GCP
 * [Review Part 1: cost-optimization and autopilot in Google Kubernetes Engine (GKE) - YouTube](https://www.youtube.com/watch?v=F9ajyBxgOqQ)
 * [Review Part 2: when do you run autopilot rather than standard(w/ cost) - YouTube](https://www.youtube.com/watch?v=EqMSBwBPE9I)
 * [Kubernetes externalTrafficPolicy에 따른 동작과 GCP의 Container-native LoadBalancer 알아보기 | by Seungwoo Lee | Cloud Villains | Mar, 2022 | Medium](https://medium.com/ctc-mzc/kubernetes-externaltrafficpolicy%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%8F%99%EC%9E%91%EA%B3%BC-gcp%EC%9D%98-container-native-loadbalancer-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-537120d83762)
+* [GCGS를 이용한 게임 서버 배포. Agones라는 OSS를 이용해 Kubernetes에 Dedicated… | by 김도영 | Cloud Villains | Apr, 2022 | Medium](https://medium.com/ctc-mzc/gcgs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-4df8cb22dc7)
 
 # Library
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
