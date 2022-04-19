@@ -344,6 +344,8 @@ Business
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
 * [성장 없는 시니어가 무서운 이유](https://brunch.co.kr/@a4s/3) 모두 명심해야 할 일
+* [일상스케치 누가 성장했을까? - YoungJin Shin](http://www.jiniya.net/ng/2022/04/who-has-grown-up/)
+  * 1) 회사 업무와 관련된 도메인에 관심 2) 자기 동기부여 3) 주도적 업무 처리 4) 열린 마인드 5) 긍정적인 사고
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
@@ -1162,6 +1164,10 @@ Business
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
+* [User Adoption as Proxy for Business Benefit Realization • Troels Fleckenstein • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=DdxDoODU5U8)
+  * Poorly adopted function에서는 poor data만 나오기 때문에 결국 이를 기반으로 하면 발전할 수 없음
+  * Adoption rate의 중요성
+    * Not knowing and understanding your adoption rate is like flying blindfolded
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
