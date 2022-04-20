@@ -541,22 +541,6 @@ Machine Learning
 * [**작정하고 쓰는 머신러닝 강의 비판 (1)**](https://pabii.co/fraud-in-machine-learning-classes/)
 * [**작정하고 쓰는 머신러닝 강의 비판 (2)**](https://pabii.co/fraud-in-machine-learning-classes-2/)
 * [작정하고 쓰는 머신러닝 강의 수강생 비판 (feat.  꼰대)](https://pabii.co/data-science-right-vs-wrong-people/)
-* Understanding Feature Engineering
-  * [(Part 1) — Continuous Numeric Data Strategies for working with continuous, numerical data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
-  * [(Part 2) — Categorical Data Strategies for working with discrete, categorical data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
-  * [(Part 3) — Traditional Methods for Text Data Traditional strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
-  * [(Part 4) — Deep Learning Methods for Text Data Newer, advanced strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
-  * [feature engineering text data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/feature%20engineering%20text%20data)
-* [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
-* [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
-* [피처 엔지니어링 #1  - 피처 크로스](https://bcho.tistory.com/1334)
-* [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
-* [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
-* [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
-* [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
-* [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
-* [Data Feast — A Highly Scalable Feature Store at Dream11 | by Dream11 Engineering | Feb, 2022 | Dream11 Engineering](https://blog.dream11engineering.com/data-feast-a-highly-scalable-feature-store-at-dream11-69b8ed5289fd)
-* [Feature Crossing](https://bcho.tistory.com/1385)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
@@ -931,6 +915,21 @@ Machine Learning
 * [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
 
 # Feature Selection
+* Understanding Feature Engineering
+  * [(Part 1) — Continuous Numeric Data Strategies for working with continuous, numerical data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
+  * [(Part 2) — Categorical Data Strategies for working with discrete, categorical data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
+  * [(Part 3) — Traditional Methods for Text Data Traditional strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
+  * [(Part 4) — Deep Learning Methods for Text Data Newer, advanced strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
+  * [feature engineering text data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/feature%20engineering%20text%20data)
+* [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+* [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+* [피처 엔지니어링 #1  - 피처 크로스](https://bcho.tistory.com/1334)
+* [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
+* [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
+* [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
+* [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
+* [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
+* [Feature Crossing](https://bcho.tistory.com/1385)
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
   * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
@@ -938,8 +937,11 @@ Machine Learning
   * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
 * [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
 * [Effective Data Preprocessing and Feature Engineering](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)
+* [Data Feast — A Highly Scalable Feature Store at Dream11 | by Dream11 Engineering | Feb, 2022 | Dream11 Engineering](https://blog.dream11engineering.com/data-feast-a-highly-scalable-feature-store-at-dream11-69b8ed5289fd)
 * [feast - Feature Store for Machine Learning](https://github.com/gojek/feast)
   * [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
+* [feathr: Feathr – An Enterprise-Grade, High Performance Feature Store](https://github.com/linkedin/feathr)
+  * [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m)
 
 # Go
 * [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
