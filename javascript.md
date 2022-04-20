@@ -4318,6 +4318,7 @@ Javascript
 * [practice - Bubblesort](https://gist.github.com/hyunjun/84e6ab9f8bb5347a1002ee0d9357d3f1#file-bubblesort-ts)
 * [Secrets of ‘unknown’ Types in TypeScript | by Zachary Lee | Apr, 2022 | Better Programming](https://betterprogramming.pub/secrets-of-unknown-types-in-typescript-2987cd1263f0)
 * [부록 TS, 왜 써야할까?](https://velog.io/@server30sopt/WhyTS)
+* [My First Unit Test in TypeScript. Using Mocha and Chai | by Jordi Bassaganas | Apr, 2022 | Medium](https://programarivm.medium.com/my-first-unit-test-in-typescript-40a1e62d5a61)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
