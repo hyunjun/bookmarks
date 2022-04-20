@@ -71,6 +71,7 @@ Open Source
 * [오픈소스 생각보다 어렵더래요. 이왕원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=o_13962jDT4)
 * [12 ways to get more GitHub stars for your open-source project](https://blog.tooljet.com/12-ways-to-get-more-github-stars-for-your-open-source-projects/)
 * [파이어폭스 번역 오류 수정 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/886)
+* [서비스 개발하다 오픈소스 기여한 썰 (1) : NHN Cloud Meetup](https://meetup.toast.com/posts/323)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
