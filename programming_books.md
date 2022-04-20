@@ -1771,6 +1771,7 @@ Programming Books
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
   * 한라, 탐라
+  * [넷플릭스의 인재 확보를 위한 냉혹한 전략 - 테크42](https://www.tech42.co.kr/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%ec%9d%98-%ec%9d%b8%ec%9e%ac-%ed%99%95%eb%b3%b4%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%83%89%ed%98%b9%ed%95%9c-%ec%a0%84%eb%9e%b5/)
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
   * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
