@@ -846,6 +846,7 @@ Machine Learning
 * [Lablup Conf 1st - YouTube](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb)
 * [**O'reilly Strata Data Conference New York 2019 후기**](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
 * [Deploying ML in an Old-fashioned Heavy Industry - Robert Meyer | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=lt-ABfIWv1M)
+* [Machine Learning for Developer Self-Care • Erik Meijer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=kU1AOWdDJI4)
 
 # Course MOOC Lecture
 * [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
