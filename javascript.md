@@ -1988,6 +1988,7 @@ Javascript
   * [Svelte - Web App Development Reimagined • Mark Volkmann • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=4CGzFwHoD0A)
   * [스벨트 vs 리액트, 누가 더 뛰어날까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1176/)
   * [배워야 할까? 스벨트 10분 완벽 정리해드림. - YouTube](https://www.youtube.com/watch?v=Y7PHBSqDfvE)
+  * [스벨트가... 리액트보다 좋다는 놈들이 있는데 - YouTube](https://www.youtube.com/watch?v=o4HPzbwx_Xk)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
