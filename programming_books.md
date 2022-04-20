@@ -813,7 +813,7 @@ Programming Books
 * (NOT YET) [Must Have 머신러닝·딥러닝 문제해결 전략 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d%c2%b7%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%ac%b8%ec%a0%9c%ed%95%b4%ea%b2%b0-%ec%a0%84%eb%9e%b5/)
   * [musthave_mldl_problem_solving_strategy: 《머신러닝·딥러닝 문제해결 전략》](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)
     * [musthave_mldl_problem_solving_strategy/minimap at main · BaekKyunShin/musthave_mldl_problem_solving_strategy](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/tree/main/minimap)
-  * [머신러닝-딥러닝 문제해결 전략 - YouTube](https://www.youtube.com/watch?v=R3KfBFJyvwk)
+  * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -934,6 +934,7 @@ Programming Books
 * (NOT YET) [금융 머신러닝 - 이론에서 실전까지](https://brunch.co.kr/@gauss92tgrd/47)
   * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
 * (NOT YET) [머신러닝 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B3931996053)
+* (NOT YET) [파이썬 머신러닝 완벽 가이드(개정2판) | 위키북스](https://wikibook.co.kr/pymlrev2/)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
