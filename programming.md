@@ -1359,7 +1359,6 @@ Programming
 * [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
 * [마이크로 서비스(MSA)로 구축할 때 모듈은 어떤 단위로 할까?](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%A0-%EB%95%8C-%EB%AA%A8%EB%93%88%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%8B%A8%EC%9C%84%EB%A1%9C/)
 * [마이크로 서비스(MSA)를 어떻게 나눌까? II](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii/)
-* [MSA에서 Service discovery 패턴의 이해](http://bcho.tistory.com/1252)
 * Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
@@ -1371,6 +1370,7 @@ Programming
   * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
+* [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
@@ -2599,6 +2599,7 @@ Programming
 * [Top 5 Cybersecurity Tools for a Work-from-Home World | ActiveState](https://www.activestate.com/blog/top-5-cybersecurity-tools-for-a-work-from-home-world/)
 * [꿀벌개발일지 :: Salted Hashes vs. HMAC](https://ohgyun.com/801)
 * [Application Level Encryption for Software Architects](https://www.infoq.com/articles/ale-software-architects)
+* [Application-Layer Encryption Basics for Developers - YouTube](https://www.youtube.com/watch?v=4KLjTFablyI)
 * [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key/)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [The Three Things to Never Build In Your App: Authentication, Notifications, and Payments | Courier](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
