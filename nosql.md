@@ -535,6 +535,7 @@ NoSQL
 * [Distributed storage in 30 minutes - DEV Community](https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f)
 * [Developing an authentication system in Java+Tarantool - DEV Community](https://dev.to/tarantool/developing-an-authentication-system-in-javatarantool-35oh)
 * [Replication from scratch in five simple steps (is impossible) | by Tarantool | Apr, 2022 | Medium](https://medium.com/@tarantool/replication-from-scratch-in-five-simple-steps-is-impossible-1ef046b08216)
+* [Tarantool: Speeding Up Development With Rust - DZone Database](https://dzone.com/articles/tarantool-speeding-up-development-with-rust)
 
 # Terracotta
 * [Terracotta](http://terracotta.org/products/bigmemory)
