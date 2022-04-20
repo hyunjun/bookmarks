@@ -1577,6 +1577,7 @@ NLP
 * [Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
 * [Sentiment-analysis-using-tensorflow: Here i tried to do a simple sentiment analysis of amazon product reviews using universal sentence encoder](https://github.com/Tasfiq23/Sentiment-analysis-using-tensorflow)
 * [국민·고객·직원의 '마음'을 엿본다··· ‘정서 분석’ 가이드 - CIO Korea](https://www.ciokorea.com/news/207589)
+* [이렇게 사용하세요! 텍스트 감정 분석 서비스 구현하기 (CLOVA Sentiment 활용기) | by NAVER CLOUD PLATFORM | NAVER CLOUD PLATFORM | Medium](https://medium.com/naver-cloud-platform/%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B0%90%EC%A0%95-%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-clova-sentiment-%ED%99%9C%EC%9A%A9%EA%B8%B0-5d9db7b0209b)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 * [NLTK | Sentiment Analysis with python | NLP - YouTube](https://www.youtube.com/watch?v=TcmnP7wsMFY)
 * [nsmc: Naver sentiment movie corpus](https://github.com/e9t/nsmc)
