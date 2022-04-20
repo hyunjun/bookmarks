@@ -856,6 +856,8 @@ Javascript
   * [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
   * [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
   * [JavaScript: Object.defineProperty | by Heloise Parein | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-object-defineproperty-411c5fff06bc)
+  * [Object.freeze vs Object.seal — Immutability | by Moon | JavaScript in Plain English](https://javascript.plainenglish.io/object-freeze-vs-object-seal-immutability-7c22f80aa8ae)
+    * [Object.freeze vs Object.seal - 불변성과 관련된 두 가지 네이티브 메서드 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220420)
 * optional chaining '?.' [How Optional Chaining Made My Code Awesome | by Harsha Vardhan | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-optional-chaining-made-my-code-awesome-e9c55ba53da)
 * pipeline
   * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
@@ -3616,6 +3618,7 @@ Javascript
 * [리엑트 네이티브 개발 경험기](https://brunch.co.kr/@chickenmoim/21)
 * [AirBnB는 어째서 RN을 버렸나?](https://blog.naver.com/bkcaller/221317627805)
 * [ReactNative 개발, 어떻게 시작하면 좋을까?](https://joonfluence.tistory.com/502)
+* [20 React Native Tabs Component Example](https://morioh.com/p/52b649f3e75b)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
