@@ -542,6 +542,7 @@ Programming
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
   * [Joel Spolsky on Structuring the Web with the Block Protocol – The New Stack](https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol/)
 * [The Boring Technology Checklist - Begin](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
+* [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
