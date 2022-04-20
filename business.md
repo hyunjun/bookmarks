@@ -535,6 +535,13 @@ Business
 * [스타트업의 핵심인력이 가져야할 조건 1편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696110781)
 * [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
 
+## 채용 공고
+* [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
+* [Infra, 어떤 업무를 하게되나요? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-infra/)
+* [카카오의 Data는 어떻게 다를까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-data/)
+* [카카오의 Server 개발자가 된다면? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-server/)
+* [Client 기술, 어떤 직무가 나에게 딱 맞을까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-client/)
+
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
