@@ -844,6 +844,8 @@ NLP
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
 * [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
+* [massive: Tools and Modeling Code for the MASSIVE dataset](https://github.com/alexa/massive)
+  * [Amazon releases 51-language dataset for language understanding - Amazon Science](https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding)
 * [NIA(National Information Society Agency) Dictionary](https://github.com/haven-jeon/NIADic)
   * [신조어 포함된 형태소사전 공개..빅데이터 분석 정확도↑](http://v.media.daum.net/v/20170221141203629)
   * [우리말샘 사전 현황](https://htmlpreview.github.io/?https://github.com/haven-jeon/NIADic/blob/master/NIADic/vignettes/woorimalsam-dic.html)
