@@ -625,6 +625,7 @@ Data Science
 * [Refactoring A Data Science Project Part 1 - Abstraction and Composition - YouTube](https://www.youtube.com/watch?v=ka70COItN40)
 * [Refactoring A Data Science Project Part 2 - The Information Expert - YouTube](https://www.youtube.com/watch?v=Tx4AxbQNv3U)
 * [Refactoring A Data Science Project Part 3 - Configuration Cleanup - YouTube](https://www.youtube.com/watch?v=8fFqakxhW84)
+* [날씨마루 파이썬 날씨 데이터 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqSAjjlx91-tLY-5HPrSpFH)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

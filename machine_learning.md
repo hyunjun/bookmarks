@@ -127,6 +127,7 @@ Machine Learning
   * 각각 오버피팅과 variance/bias balance와 관련해 장단점이 있어서 도메인에 맞게 잘 선택하는 것이 중요
 * [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers/blob/master/README.md)
 * [How to use GradientBoosting Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-gradientboosting-classifier-and-regressor-in-python/)
+* [친절한 그래디언트 부스팅A Gentle Introduction to Gradient Boosting | Metamath](https://metamath1.github.io/2022/04/21/gradientboost.html)
 * [Noisy Gradient 다루기 | MakinaRocks Tech Blog](https://makinarocks.github.io/Gradient-Accumulation/)
 * [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
@@ -1091,6 +1092,7 @@ Machine Learning
 * [Shopee - Price Match Guarantee | Kaggle](https://www.kaggle.com/c/shopee-product-matching/discussion/238136)
 * [캐글 집 가격 예측 대회 탐색적 데이터 분석 - 캐글 스터디 2기 - YouTube](https://www.youtube.com/watch?v=KGJxNW67b7I)
 * [Upstage Talks 학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - YouTube](https://www.youtube.com/watch?v=TwF2EB9UCsI)
+* [2020 캐글 설문조사 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq7L8oPO57W91Vx-nP1TvSh)
 * [AI Factory](http://aifactory.space/)
 * [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
 
@@ -1557,6 +1559,10 @@ Machine Learning
 * [How to use RandomForest Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-randomforest-classifier-and-regressor-in-python/)
 * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
 * [랜덤포레스트가 뭐길래? 회의에서 당당하게, 수식없이 알아보자](http://triviaz.net/blog:easy_random_forest)
+* [3.3 1/4 뉴스 토픽 분류 랜덤포레스트 교차검증 학습예측데이터셋 전처리와 나누기 - YouTube](https://www.youtube.com/watch?v=TE1SNSlOp2s)
+* [3.3 2/4 뉴스 토픽 분류 랜덤포레스트 교차검증 TF-IDF 로 벡터화 하기 - YouTube](https://www.youtube.com/watch?v=L8BDDngB7F8)
+* [3.3 3/4 뉴스 토픽 분류 랜덤포레스트 교차검증 데이콘에 제출에 보기 전에 점수를 미리 알아보는 방법 - YouTube](https://www.youtube.com/watch?v=iOreU7fYlXI)
+* [3.3 4/4 뉴스 토픽 분류 랜덤포레스트 교차검증 데이콘에 제출하기 - YouTube](https://www.youtube.com/watch?v=05m8WyT7F50)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
