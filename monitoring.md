@@ -67,6 +67,7 @@ Monitoring
 * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
 * [Announcing Grafana OnCall, the easiest way to do on-call management | Grafana Labs](https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/)
 * [Monitoring distributed Systems with Grafana and Prometheus | by Aich Ali | Nov, 2021 | Medium](https://medium.com/@aichali42471/monitoring-distributed-systems-with-grafana-and-prometheus-f8cd3ca674cc)
+* [Utilizing Grafana & Prometheus Kubernetes Cluster Monitoring](https://adamtheautomator.com/prometheus-kubernetes/)
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
 * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
 * Grafana Tempo
