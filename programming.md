@@ -4260,6 +4260,7 @@ Programming
 * [A/B 테스트의 확장판, MAB (Multi-Armed Bandits) 알고리즘 | Be Geeky](https://assaeunji.github.io/bayesian/2021-01-30-mab/) 문제의식은 이해하지만 활용은 아직 어려울 듯
 * [Interpreting A/B test results: false positives and statistical significance | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
 * [1주 1개 실험하는 프로덕트 팀이 되는 여정. 안녕하세요 당근마켓 중고거래팀에서 데이터 분석가로 일하고 있는… | by matthew l | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
+* [데이터 기반의 의사결정, 실패하지 않는 프로덕트의 비밀 #핵클 | 원티드](https://www.wanted.co.kr/events/22_04_s06_b01)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
