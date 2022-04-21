@@ -911,6 +911,7 @@ Go
 * [Golang Basics Tutorial | Go Programming Language | Golang Tutorial for Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=Cn5vrUDYtyc)
 * [Basic setup of #GO-Lang - YouTube](https://www.youtube.com/watch?v=na7F2yFLCKM)
 * [Learn Go Programming by Building 11 Projects – Full Course - YouTube](https://www.youtube.com/watch?v=jFfo23yIWac)
+* [golang 기본 배우기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864349)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
