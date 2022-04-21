@@ -1208,6 +1208,8 @@ Business
 * [Product Coalition](https://productcoalition.com/)
 * [Silicon Valley Product Group || Silicon Valley Product Group](https://svpg.com/)
 * [쏘카 PM(Product Manager)은 어떻게 성장하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/02/23/growing-up-together-with-the-pm-team.html)
+* [What do I do as a Product Manager? - YouTube](https://www.youtube.com/watch?v=pCmh6XaMVxs)
+  * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
