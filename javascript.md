@@ -2181,6 +2181,7 @@ Javascript
     * 다음으로 Vite 시도
       * 설정 파일을 1/6로 줄이고 HMR도 지원, 의존성과 소스코드를 따로 빌드하기 때문에 빠르게 개발 빌드 실행, 빌드도 250초에서 90초 정도로 감소
     * [Webpack → Vite: 번들러 마이그레이션 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1435)
+  * [와 Vite 쓰면 리액트 10배 빨라짐 (과장아님) - YouTube](https://www.youtube.com/watch?v=iX3Nu1FcZKA)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
