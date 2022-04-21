@@ -1755,6 +1755,9 @@ Programming Books
   * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
   * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
   * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
+* [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
+  * 한라, 탐라, 우당 문325.24스825ㅅ
+  * ★★★★☆ 2022.04.18~21
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1765,8 +1768,6 @@ Programming Books
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
-* (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
-  * 한라, 탐라, 우당 문325.24스825ㅅ
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
