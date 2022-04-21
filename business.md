@@ -611,6 +611,7 @@ Business
   * [CEO가 경계해야 할 자만심](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-why_executives_should_talk_less_and_ask_more_questions-md)
 * [What to Do If Your Career Is Stalled and You Don’t Know Why](https://hbr.org/2018/11/what-to-do-if-your-career-is-stalled-and-you-dont-know-why)
   * [커리어가 정체되었을 때, 팬더를 의심하라](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-what_to_do_if_your_career_is_stalled_and_you_dont_know_why-md)
+* [잡스의 애플을 10배로 만든 팀쿡의 마법 - YouTube](https://www.youtube.com/watch?v=LP1t3ebw9jQ)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
