@@ -1179,6 +1179,7 @@ Business
   * Poorly adopted function에서는 poor data만 나오기 때문에 결국 이를 기반으로 하면 발전할 수 없음
   * Adoption rate의 중요성
     * Not knowing and understanding your adoption rate is like flying blindfolded
+* [종이 한 장 차이](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-replicate-the-intricacies-of-a-great-product.html) stripe 이야기
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
