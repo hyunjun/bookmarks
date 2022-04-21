@@ -1941,6 +1941,7 @@ Programming
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
 * [칼럼 | 클라우드 충격파, 아무도 예상 못했던 5가지 문제 - CIO Korea](https://www.ciokorea.com/news/224199)
 * [칼럼 | ‘편리함이 라이선스보다 유의미하다’ 클라우드와 오픈소스의 역학 살펴보기 - CIO Korea](https://www.ciokorea.com/news/229809)
+* [AWS·애저·GCP에 도전장··· ‘가성비 갑’ 클라우드 9곳 - CIO Korea](https://www.ciokorea.com/news/233269)
 * [IDG 블로그 | 전문가들이 여전히 믿는 멀티클라우드에 대한 오해 3가지 - ITWorld Korea](https://www.itworld.co.kr/news/224159)
 * [같은 듯 다른 오브젝트 스토리지와 분산 파일 시스템](https://blog.naver.com/solutionnews/222578929203)
 * [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
