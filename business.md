@@ -1198,6 +1198,7 @@ Business
 * [제품주도성장(Product Led Growth)의 일곱가지 FAQ - Kimchi hill](https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/)
 * [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
 * [15 Statistics You Should Know About A Career In Product Management](https://theproductmanager.com/general/statistics-career-product-management/)
+* [Product School - YouTube](https://www.youtube.com/c/ProductSchoolSanFrancisco)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
