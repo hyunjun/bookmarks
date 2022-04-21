@@ -78,6 +78,8 @@ Programmer
 * [서버 개발자는 무엇부터 학습 해야할까 - 프레임워크, Git, SQL, Linux? - YouTube](https://www.youtube.com/watch?v=JfjH-uVkzAk)
 * [The New Way to Learn - by Sahil Bloom - The Curiosity Chronicle](https://sahilbloom.substack.com/p/the-new-way-to-learn)
   * [새로운 학습 방법 : 학습은 기술이다 | GeekNews](https://news.hada.io/topic?id=5046)
+* [몸으로 배우기](https://www.thestartupbible.com/2022/04/learning-by-doing.html) 프로그래밍 이야기는 아니지만 학습 방법에 대한 관점에 동의
+* [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
@@ -130,7 +132,6 @@ Programmer
 * [ㅈ형 인재가 되어라 - 3편 똑똑한 질문을 하는 방법](https://community.rememberapp.co.kr/post/78058)
 * [ㅈ형 인재가 되어라 - 4편 공부하는 기획자는 아는만큼 의심하고 질문한다](https://community.rememberapp.co.kr/post/79621)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
-* [몸으로 배우기](https://www.thestartupbible.com/2022/04/learning-by-doing.html) 프로그래밍 이야기는 아니지만 학습 방법에 대한 관점에 동의
 * [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
 * [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
