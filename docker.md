@@ -944,6 +944,7 @@ Docker
 * [The race to secure Kubernetes at run time | InfoWorld](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html)
 * [SQL Injection으로부터 Kubernetes 앱 보호 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/microservices-march-protect-kubernetes-apps-from-sql-injection/)
 * [Securing Access to Kubernetes Environments with Zero Trust – The New Stack](https://thenewstack.io/securing-access-to-kubernetes-environments-with-zero-trust/)
+* [Kubernetes에서 제로 트러스트(Zero Trust)를 구현하기 위한 7가지 지침 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/seven-guidelines-implementing-zero-trust-in-kubernetes/)
 * [NSA on How to Harden Kubernetes – The New Stack](https://thenewstack.io/nsa-on-how-to-harden-kubernetes/)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
