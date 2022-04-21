@@ -2097,14 +2097,16 @@ Programming Books
 * 파이썬으로 배우는 웹 크롤러
   * 한라 005.133박74ㅍ
   * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
+* [웹 크롤링 & 데이터 분석 with 파이썬 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/112)
+  * 2022 한라, 탐라 005.133장813ㅇ
+  * 저자가 유명한 블로거 https://losskatsu.github.io 라 그런지 초보자들에게 보기 좋게 잘 썼다는 생각이 듦
+  * [WebCrawling: 웹 크롤링 & 데이터 분석 소스 코드](https://github.com/losskatsu/WebCrawling)
 * (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
   * 한라 005.133-미83ㅍ
 * (NOT YET) [파이썬을 활용한 크롤러 개발과 스크레이핑 입문 - 크롤러 설계와 개발부터 수집 데이터 분석과 운용까지](https://wikibook.co.kr/python-crawler/)
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
   * 한라
 * (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
-* (NOT YET) [웹 크롤링 & 데이터 분석 with 파이썬 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/112)
-  * 2022 한라, 탐라 005.133장813ㅇ
 
 # R
 
