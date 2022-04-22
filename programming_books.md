@@ -1948,6 +1948,7 @@ Programming Books
   * [Study Object book Content Repository](https://github.com/LenKIM/object-book)
 * (NOT YET) [오브젝트 디자인 스타일 가이드: 팀의 생산성을 높이는 고품질 객체지향 코드 작성법 | 위키북스](https://wikibook.co.kr/odsg/)
 * (NOT YET) [헤드 퍼스트 디자인 패턴(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6113501223)
+  * [헤드퍼스트 디자인 패턴 (개정판)](https://jybaek.tistory.com/952)
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 
 # PHP
