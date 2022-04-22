@@ -241,10 +241,6 @@ Deep Learning
 * [Eigenfaces](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/Eigenfaces.ipynb)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
 * [Prof. Geoff Hinton - Deep Learning](https://www.youtube.com/watch?v=VhmE_UXDOGs)
-* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
-* [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-* [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
-* [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender) autoencoder 기반 추천 엔진
 * [Deep Learning for Recommender Systems](https://www.infoq.com/presentations/dl-models-tensorflow/)
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656) python
 * [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
@@ -511,7 +507,6 @@ Deep Learning
 * [**Applying deep learning to real-world problems**](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 * [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
 * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
-* [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
 * [Policy Gradient](https://nbviewer.jupyter.org/format/slides/gist/kkweon/e8522c4b04e1e7c6665c53ac12ac7f1d#)
 * [0. Policy Gradient의 세계로](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
@@ -760,6 +755,11 @@ Deep Learning
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
 
 # Auto Encoder VAE
+* [Autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
+* [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
+* [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender) autoencoder 기반 추천 엔진
+* [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
 * [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
 * [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
 * [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
