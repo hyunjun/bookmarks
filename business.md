@@ -1074,6 +1074,7 @@ Business
 * ["좋은 팀장과 좋은 선배는 달라".. 팀원을 성장시키는 팀장 비법](https://blog.naver.com/businessinsight/222673092879)
 * [리더, 조직문화, 근무환경에 대하여 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/408)
 * [원격근무와 생산성··· 먼저 ‘팀장’이 변해야 한다 - CIO Korea](https://www.ciokorea.com/news/232259)
+* [재택근무 종료 주도한 임원들, 정작 직원보다 사무실 덜 나온다? 찐비트 - 아시아경제](https://www.asiae.co.kr/article/2022042008034567205)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
