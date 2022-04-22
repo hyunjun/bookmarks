@@ -629,6 +629,7 @@ Go
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
+* [go-password-hasher: Password hasher with random salts](https://github.com/Edmartt/go-password-hasher)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
 * [gops - a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
