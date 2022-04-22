@@ -1612,6 +1612,11 @@ Docker
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 * [Volcano](https://github.com/volcano-sh)
   * [Cloud Native Batch System Volcano moves to the CNCF Incubator | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/04/07/cloud-native-batch-system-volcano-moves-to-the-cncf-incubator/)
+* werf [Giterministic CLI tool | werf](https://werf.io/)
+  * [Building and Deploying a Simple App to Kubernetes Using “werf” | by Konstantin Nezhbert | Apr, 2022 | Better Programming](https://betterprogramming.pub/building-and-deploying-a-simple-app-to-kubernetes-using-werf-51bee0b3718d)
+    * 앱으로 Docker containers를 만들고 werf를 사용하여 Kubernetes 에 배치할 수 있도록
+      * 단계별 튜토리얼 안내 앱이 실행 중일 때 소스 코드와 K8s 리소스를 변경한 다음 업데이트가 어떻게 쉽게 적용되는지 확인 가능
+    * [first-steps-example: Applications for articles "First steps"](https://github.com/werf/first-steps-example)
 
 ## Kubernetes Monitoring
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
