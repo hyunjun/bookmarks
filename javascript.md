@@ -1759,11 +1759,6 @@ Javascript
 * [mitosis: Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more](https://github.com/BuilderIO/mitosis)
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
-* Mongoose
-  * [Mongoose(몽구스) 프로미스](https://www.zerocho.com/category/MongoDB/post/59b6228e92f5830019d41ac4)
-  * [Mongoose(몽구스) 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)
-  * [Develop Node.js and MongoDB Apps with Mongoose](https://www.designmycodes.com/node/develop-nodejs-and-mongodb-apps-with-mongoose.html)
-  * [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
 * [Monorepo Explained](https://monorepo.tools/)
   * monorepo 개념 정리한 사이트
   * monorepo는 단순히 여러 프로젝트를 한 저장소에 넣어놓은 것이 아니고 오히려 monolithic과는 반대되는 개념
@@ -2772,7 +2767,7 @@ Javascript
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
   * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
   * [Web Scraping with Puppeteer & Node.js: Chrome Automation - YouTube](https://www.youtube.com/watch?v=lgyszZhAZOI)
-  * [Nodejs Puppeteer Tutorial #10 - Capture, Block & Mock Requests - YouTube](https://www.youtube.com/watch?v=Q2rAqcKRyHY)
+  * [Nodejs Puppeteer Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)

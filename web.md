@@ -312,7 +312,6 @@ Web
 * [Hosted web crawler for developers](https://www.apifier.com/)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
-* [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 * [2018 데이터야놀자 웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
 * [Web scraping for web developers: a concise summary](https://medium.freecodecamp.org/web-scraping-for-web-developers-a-concise-summary-3af3d0ca4069)
 * [Bot detection 101: How to detect web bots?](https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html)
@@ -351,6 +350,7 @@ Web
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [How to Perform Web-Scraping using Node.js](https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb)
 * [puppeteer 뉴스 기사 메타 정보 크롤링](https://devhaks.github.io/2019/03/30/puppeteer)
+* [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 * [Hacking my Honeymoon with Javascript](https://medium.com/@yourboybigal/hacking-my-honeymoon-with-javascript-c4c476f7584b)
 
 ## Crawler Python
@@ -526,6 +526,7 @@ Web
   * [Test Practice using Selenium - (1)](https://velog.io/@dahunyoo/Test-Practice-using-Selenium-1)
   * [Test Practice using Selenium - (2)](https://velog.io/@dahunyoo/Test-Practice-using-Selenium-2)
   * [Building a python bot to fill out online forms - Check this thing out](https://checkthisthingout.com/building-a-python-bot-to-fill-out-forms/)
+  * [Python Selenium Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdoTS0UXLUZoPH7GQ0kURHgH)
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
