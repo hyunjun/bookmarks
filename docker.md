@@ -823,6 +823,7 @@ Docker
   * API를 제공해서 일관적인 사용 방법을 제공할 수 있게 되고 여기에 CRD 등 더 많은 API를 제공하면서
   * 단순히 컨테이너 관리 도구가 아니라 API를 제공하는 것이 핵심이라고 설명
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
+* [Kubernetes Tutorials | How to Deploy and Access the Kubernetes Dashboard | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=KzDBZz8lToM)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
