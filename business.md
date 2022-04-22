@@ -200,6 +200,7 @@ Business
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
 * [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
+* [배달의민족의 ‘보틀넥’: 독점 기업인데요, 독점을 못 해요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/253248) BM의 문제?
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
 * [당신은 직장에 절친한 친구가 있습니까?](http://ppss.kr/archives/57359)
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
