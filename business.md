@@ -269,6 +269,14 @@ Business
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
 * [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
 * [비대면발 '번아웃' 덮친 IT업계 "하루 회의만 10번"..2년새 '언택트 미팅' 250% 급증](https://news.v.daum.net/v/Enuf2bnB5l) 주의하자!
+* [스티브 잡스가 지켰던 '회의 - 3가지 원칙'](https://c-rocket.net/steve_jobs_3s_meeting_rule/)
+  * 1. Small List - 회의 인원 3~5명 정도
+  * 2. Short Agenda - 회의 아이템 3개 이내
+  * 3. Short Length - 회의 시간 30분 이내
+  * 필요성: 꼭 회의해야 하는가?
+    * 다른 사람의 피드백이 필요한가? 아니면 단지 정보 제공인가?
+    * 의견 수렴 등 피드백이 필요한 경우, 미팅이 메시지나 이메일보다 더 효율적인가?
+    * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
