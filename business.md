@@ -317,17 +317,11 @@ Business
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
 * [프로그래머의 경력을 말아먹는 12가지 방법](https://ppss.kr/archives/63881)
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
-* [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
   * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
-* [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
-* [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
-* [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
-* [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
-* [온보딩 ‘구름타기’ 수료 후기. CTC 만의 온보딩 프로그램, ‘구름타기’ | by 이진태 | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/megazonecloud-ctc-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B5%AC%EB%A6%84%ED%83%80%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-7bb14acf0abd)
 * [**How HashiCorp Works**](https://works.hashicorp.com/)
   * [HashiCorp가 일하는 방법 | GeekNews](https://news.hada.io/topic?id=5668)
     * 자신들이 일하는 방법(암묵적 관행)을 정리한 사이트
@@ -549,6 +543,25 @@ Business
 * [카카오의 Data는 어떻게 다를까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-data/)
 * [카카오의 Server 개발자가 된다면? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-server/)
 * [Client 기술, 어떤 직무가 나에게 딱 맞을까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-client/)
+
+## 채용 onboarding
+* [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
+* [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
+* [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
+* [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
+* [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
+* [온보딩 ‘구름타기’ 수료 후기. CTC 만의 온보딩 프로그램, ‘구름타기’ | by 이진태 | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/megazonecloud-ctc-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B5%AC%EB%A6%84%ED%83%80%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-7bb14acf0abd)
+* [The Ultimate Guide to Onboarding New Developers: Industry Best Practices](https://codesubmit.io/blog/guide-to-onboarding-developers/)
+  * [개발자 온보딩 가이드 : 첫 90일을 어떻게 계획해야 할까 | GeekNews](https://news.hada.io/topic?id=4643)
+* [개발자 온보딩 프로세스를 소개합니다 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-02-09-onboarding/)
+* [2022, 카카오를 움직일 그들이 온다 (feat. 2022 신입 개발자 온보딩) – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding/)
+* [2022 신입 공채 서버 뉴크루들의 기술 온보딩 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-server/)
+* [2022 신입 공채 iOS 기술 온보딩을 소개합니다. – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-ios/)
+* [2022 신입 공채 Android 직무 기술 온보딩 회고 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-android/)
+* [성장할 수밖에 없었던 2022 신입 공채 FE 크루들의 기술 온보딩 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-fe/)
+* [A day in the life: Engineer onboarding at Dropbox - Dropbox](https://dropbox.tech/culture/a-day-in-the-life-engineer-onboarding-at-dropbox)
+* [모바일 개발자를 위한 30-60-90일 성공 계획서 · Soojin Ro](https://soojin.ro/blog/mobile-developer-success-plan)
+* [R&D 센터 뉴비 Agile Coach의 일주일. 어언.. 10년 한 직장에서의 세월을 뒤로 하고 새로운 My Work… | by Jaehoon Lee | Apr, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/r-d-%EC%84%BC%ED%84%B0-%EB%89%B4%EB%B9%84-newbie-%EC%9D%98-%EC%9D%BC%EC%A3%BC%EC%9D%BC-3e74e741d1ad)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
