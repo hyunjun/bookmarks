@@ -4598,6 +4598,7 @@ Python
 * [텍스트 분석을 위한 파이썬 기초 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp35y9Z868VlV9NQpG-eBb6)
 * [대한민국 인구통계 분석(위키) - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpJLKEM5_GYZT7gr2frZYjZ)
 * [파이썬으로 서울시 코로나19 현황 분석하기 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmoMV8cuTV6EKlN1zon0XfZm)
+* [How to handle Missing Values in Python, using Rank Method - YouTube](https://www.youtube.com/watch?v=V7b1sJ7e7Dk)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
