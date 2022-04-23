@@ -207,6 +207,10 @@ Programming Books
   * 사실 애자일에 대한 책은 아님
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로. 서문 | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/project-to-product-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C-e3bd4e1fd664)
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로](https://jh4hj.tistory.com/entry/PROJECT-TO-PRODUCT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C)
+* [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
+  * 우당
+  * ★★★☆☆ 2022.04.23
+  * [팀장님, 우리도 협업 도구 쓸까요?](programming_books/shall_we_use_collaboration_tool.md)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -217,8 +221,6 @@ Programming Books
   * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
-* (NOT YET) [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
-  * 우당
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [린 소프트웨어 개발 : 애자일 실천 도구 22가지 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/49)
