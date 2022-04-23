@@ -532,6 +532,7 @@ NoSQL
 # Supabase
 * [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
 * [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
+* [Building a Full Stack App with Supabase, React, Next.js and TailwindCSS](https://morioh.com/p/f55788332af3)
 
 # Tarantool
 * [Tarantool, an in-memory computing platform](https://www.tarantool.io/)
