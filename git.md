@@ -334,7 +334,9 @@ Git
   * 대신 private 저장소의 워크플로우는 참조할 수 없고 하나 이상을 참조도 불가능
 * [GitHub Actions의 workflow_call로 워크플로우 재사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1591)
 * [다른 저장소의 GitHub Actions 워크플로우를 호출할 수 있는 repository_dispatch :: Outsider's Dev Story](https://blog.outsider.ne.kr/1589)
+* [GitHub Actions의 Composite 액션 작성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1592)
 * [GitHub Actions에서 도커 캐시를 적용해 이미지 빌드하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220414-docker-cache/)
+* [release 브랜치 merge시 Tag 생성, 브랜치 삭제하기 (feat. Gihtub Action)](https://jojoldu.tistory.com/668)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
   * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
