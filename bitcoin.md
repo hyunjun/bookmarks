@@ -160,6 +160,9 @@ Bitcoin
   * [Implementing Proof-of-Work in Javascript (Blockchain, part 2)](https://www.youtube.com/watch?v=HneatE69814)
   * [Miner rewards & transactions - Blockchain in Javascript (part 3)](https://www.youtube.com/watch?v=fRV6cGXVQ4I)
 
+## Blockchain Go
+* [How to Build a Blockchain from Scratch with Go](https://morioh.com/p/817e68463b9c)
+
 ## Blockchain Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
 * [**파이썬으로 스마트 컨트랙트 개발하기**](https://winterj.me/smart-contract-with-python/)
@@ -275,6 +278,7 @@ Bitcoin
 * [보안팀이 소개하는 LINE 개발팀 LINE NEXT](https://beist.notion.site/LINE-LINE-NEXT-f51fe3e26453498a9eca0f3a89fbea3e)
 * [일본 NFT 시장 동향, 그리고 대중화를 향한 길 | by Ethan Lee | a41 Ventures | Medium](https://medium.com/a41-ventures/nft-%EC%9D%BC%EB%B3%B8-nft-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8C%80%EC%A4%91%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EA%B8%B8-7759b1a89529)
 * [The Trendy, Hot NFT Market Has a New Entrant: Patents](https://news.bloomberglaw.com/ip-law/the-trendy-hot-nft-market-has-a-new-entrant-patents)
+* [NFT 급성장 타임라인과 10가지 사건](https://blog.toss.im/article/nft-study-club-2)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
   * 프로젝트의 범위에는 아트웍, 민팅, 웹사이트, 커뮤니티, 화이트리스트, 마켓플레이스, 리딤 등이 포함
