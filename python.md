@@ -2757,6 +2757,7 @@ Python
   * [PySimpleGUI: Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply](https://github.com/PySimpleGUI/PySimpleGUI)
   * [Python GUI Development With PySimpleGUI - YouTube](https://www.youtube.com/watch?v=-_z2RPAH0Qk)
   * [Simplify Python GUI Development With PySimpleGUI – Real Python](https://realpython.com/courses/simplify-gui-dev-pysimplegui/)
+  * [Creating 10 apps in Python with PySimpleGUI - YouTube](https://www.youtube.com/watch?v=QeMaWQZllhg)
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
