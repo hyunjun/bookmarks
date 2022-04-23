@@ -121,6 +121,7 @@ Flutter
 * [10 minutes to build a game in Flutter - YouTube](https://www.youtube.com/watch?v=G1l8U8DTkvk)
 * [Announcing Flutter for Windows | Flutter](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
 * [Flutter 2.10 업데이트 Hello, Windows! | by CuroGom | Flutter Korea | Mar, 2022 | Medium](https://medium.com/flutter-korea/flutter-2-10-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-hello-windows-6f275d154ed9)
+* [Introducing Flutter for Windows](https://blog.i2i-info.com/education/introducing-flutter-for-windows)
 * [How to Build a Shopping App using Flutter for IOS and Android](https://morioh.com/p/b4fc3a1064e6)
 * [Why Flutter is the most popular cross-platform mobile SDK - Stack Overflow Blog](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
   * Flutter가 왜 인기 있는지 정리
