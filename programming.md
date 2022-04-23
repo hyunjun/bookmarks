@@ -1964,6 +1964,7 @@ Programming
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
+* [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
