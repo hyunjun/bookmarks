@@ -294,6 +294,7 @@ Interview
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
+* [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
@@ -378,6 +379,7 @@ Interview
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * [**Google Docs 같은 실시간 협업 에디터를 만드는 방법**](https://hackerwins.github.io/2019-04-16/co-editor.html)
     * [How I reverse-engineered Google Docs to play back any document's keystrokes « James Somers (jsomers.net)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
+    * [how to design 𝐆𝐨𝐨𝐠𝐥𝐞 𝐃𝐨𝐜𝐬](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6922570843713662976-dsdE/)
   * Messenger, Messaging
     * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
     * [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
