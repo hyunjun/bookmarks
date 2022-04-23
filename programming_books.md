@@ -1114,6 +1114,12 @@ Programming Books
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
 
 # Domain Driven Development DDD
+* [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
+  * ★★★★☆
+  * [ddd-start2](https://github.com/madvirus/ddd-start2)
+  * [도메인 주도 개발 시작하기 Chapter 1. 도메인 모델 시작하기 - ThreeSnakes의 개발 삽질 기록장 및 다이어리](https://www.three-snakes.com/oop/ddd-start-01)
+  * [도메인 주도 개발 시작하기. 개발 세계에는 여러가지 개발 방법론이 많다. 가장 유명한 건 아무래도… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-38d4423a903f)
+  * [도메인 주도 개발 시작하기](https://jh4hj.tistory.com/entry/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 * (NOT YET) [도메인 주도 설계: 소프트웨어의 복잡성을 다루는 지혜 | 위키북스](https://wikibook.co.kr/domain-driven-design/)
   * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
   * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
@@ -1124,9 +1130,6 @@ Programming Books
 * (NOT YET) [DDD START!](https://joochang.tistory.com/93)
   * [<DDD Start! - 최범균> 을 읽고](https://www.reimaginer.me/entry/DDD-start-book-review)
 * (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
-* (NOT YET) [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
-  * [ddd-start2](https://github.com/madvirus/ddd-start2)
-  * [도메인 주도 개발 시작하기 Chapter 1. 도메인 모델 시작하기 - ThreeSnakes의 개발 삽질 기록장 및 다이어리](https://www.three-snakes.com/oop/ddd-start-01)
 
 # Elasticsearch
 
