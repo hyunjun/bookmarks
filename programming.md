@@ -1228,6 +1228,8 @@ Programming
 * [CQRS](https://leanpub.com/cqrs/read_full)
 * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
 * [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
+* [CQRS 아는 척하기 1 - YouTube](https://www.youtube.com/watch?v=xf0kXMTFJm8)
+* [CQRS 아는 척하기 2 - YouTube](https://www.youtube.com/watch?v=H1IF3BUeFb8)
 * [Is a REST API with CQRS Possible? - YouTube](https://www.youtube.com/watch?v=6XO6vSiioWE)
 * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
 * [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
