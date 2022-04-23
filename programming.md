@@ -1321,6 +1321,7 @@ Programming
 * [도메인 스토리로 대화하기](https://brunch.co.kr/@graypool/430)
 * [도메인 스토리로 비즈니스 규칙 발견하기](https://brunch.co.kr/@graypool/440)
 * [도메인 스토리텔링에 문법 입히기](https://brunch.co.kr/@graypool/441)
+* [측정, 단위 그 이전에 기대값](https://brunch.co.kr/@graypool/414)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -2399,6 +2400,7 @@ Programming
 * [What’s the Value of CI/CD?](https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd)
 * [Deployment Pipeline: set it up in minutes not months](https://codeburst.io/deployment-pipeline-set-it-up-in-minutes-not-months-f5e226af8f85)
 * [Intro to deployment strategies: blue-green, canary, and more](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3)
+* [Deploying or upgrading services](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6922208134409179136-J2XQ/)
 * [배포 전략: Rolling, Blue/Green, Canary](https://onlywis.tistory.com/10)
 * [카나리 테스트와 함께하는 안전한 서버 배포 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2021/04/canary/)
 * [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
@@ -2444,6 +2446,7 @@ Programming
 * [칼럼 기업에 CI/CD가 필요한 10가지 이유](https://it.donga.com/101955/)
 * [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
 * [How to learn CI/CD fast | GitLab](https://about.gitlab.com/blog/2022/04/13/how-to-learn-ci-cd-fast/)
+* [What is CICD Pipeline? Explanation of CICD Pipeline along with Examples. | Razorops](https://razorops.com/blog/what-is-cicd-pipeline-explanation-of-cicd-pipeline-along-with-examples/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
@@ -2653,6 +2656,7 @@ Programming
 * [Project Zero: Racing against the clock -- hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
 * [Elliptic Curve Cryptography: A Basic Introduction | Boot.dev Blog](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
 * ['고르고 고른' 네트워크·보안 전문가용 필수 리눅스 툴 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/232349)
+* [How to design a 𝐬𝐞𝐜𝐮𝐫𝐞 web API access for your website?](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6920033960039260160-VMNA/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
