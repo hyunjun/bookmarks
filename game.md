@@ -61,6 +61,7 @@ Game
 * [Summle - a daily maths game](https://summle.net/)
 
 # Board game
+* Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
 * [playok.com](http://www.playok.com/)
 * [yucata.de](http://www.yucata.de/en)
