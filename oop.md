@@ -270,6 +270,7 @@
 * [SOLID Principles With (almost) Real-Life Examples in Java | by Berke Soysal | Better Programming](https://betterprogramming.pub/solid-principles-with-almost-real-life-examples-in-java-b292a4e2c18b)
 * [Java — good practices and recommendations: Design patterns | by Martin Jonovski | < BE OUTSTANDING />](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
 * [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2020/04/difference-between-inheritance-and-Polymorphism-in-java-oop.html)
+* [Learn SOLID Principles with CLEAN CODE Examples - YouTube](https://www.youtube.com/watch?v=_jDNAf3CzeY)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
