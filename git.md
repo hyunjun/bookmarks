@@ -198,6 +198,7 @@ Git
 * [데브옵스의 확장 모델 - 깃옵스(GitOps) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30601103&memberNo=36733075&navigationType=push)
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [OpenGitOps 1.0 is finally here and why you should care | OpenGitOps](https://opengitops.dev/blog/1.0-announcement/)
+* [A ‘Hello World’ GitOps Example Walkthrough – zwischenzugs](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough/)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
