@@ -347,6 +347,7 @@ Git
 * [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [Github Profile에 사용하는 Badge API 만들기 (Kaggle Badge)](https://ansubin.com/github-profile-kaggle-badge/)
 * [How to Build the Best Github Profile for Your Job Search - Qvault](https://qvault.io/jobs/build-github-profile/)
+* [Private Profiles | GitHub Changelog](https://github.blog/changelog/2022-04-21-private-profiles/)
 * [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
   * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
