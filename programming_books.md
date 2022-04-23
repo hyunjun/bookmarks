@@ -818,6 +818,7 @@ Programming Books
   * [musthave_mldl_problem_solving_strategy: 《머신러닝·딥러닝 문제해결 전략》](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy)
     * [musthave_mldl_problem_solving_strategy/minimap at main · BaekKyunShin/musthave_mldl_problem_solving_strategy](https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/tree/main/minimap)
   * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
+* (NOT YET) [코딩은 처음이라 with 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633964)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
