@@ -84,13 +84,6 @@ App
   * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
-* Figma
-  * [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
-  * [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
-  * [소규모 팀을 위한 Figma 디자인 핸드오프 시스템 (파일 공유) | by Jiyu Han | Jul, 2021 | Medium](https://jiyu0719.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-figma-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%B8%EB%93%9C%EC%98%A4%ED%94%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0-cf497b4f7f87)
-  * [Figma Assistant by Grida | Disquiet\*](https://disquiet.io/product/figma-assistant-by-grida) 당신의 디자인 / 개발 어씨스턴트. Figma 에서 Flutter 로 클릭한번에 완성
-  * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
-  * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [Framer: A Free Interactive Design Tool for Teams](https://www.framer.com/)
@@ -1596,6 +1589,9 @@ App
   * [“완벽한 생산성 앱은 없는 걸까?” 당신이 모르던 노션의 세계를 알려준다](https://ppss.kr/archives/204813)
   * [Notion to presentation slides](https://wunderpresentation.com/create/notion/)
   * [Notion-and-Google-Calendar-2-Way-Sync: 2 Way Sync Between Notion Database and Google Calendar](https://github.com/akarri2001/Notion-and-Google-Calendar-2-Way-Sync)
+  * [요즘 뜨는 노트 앱 노션(Notion) 3시간 사용기 – 마이크로소프트웨어](https://www.imaso.co.kr/archives/3810)
+  * [아사나와 지라를 노션(Notion)으로 옮겨갈 수 있을까? – 마이크로소프트웨어](https://www.imaso.co.kr/archives/3871)
+  * [제2회 협업 도구 세미나 개최…노션(Notion) 업무, 커뮤니티, 개인용으로 사용하기 – 마이크로소프트웨어](https://www.imaso.co.kr/archives/4057)
   * [notionapi](https://github.com/paullabkorea/notionapi)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
@@ -1770,6 +1766,17 @@ App
 * [Taskbook - 커맨드 라인 환경에서의 테스크, board, 노트 관리](https://github.com/klaussinani/taskbook/blob/master/docs/readme.KR.md)
 * [todoist](https://en.todoist.com/)
 * [WeekToDo | Free Minimalist Weekly Planner App](https://weektodo.me/)
+
+# UX, design
+* [Axure RP - UX Prototypes, Specifications, and Diagrams in One Tool](https://www.axure.com/)
+* [Figma: the collaborative interface design tool.](https://www.figma.com/)
+  * [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
+  * [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
+  * [소규모 팀을 위한 Figma 디자인 핸드오프 시스템 (파일 공유) | by Jiyu Han | Jul, 2021 | Medium](https://jiyu0719.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-figma-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%B8%EB%93%9C%EC%98%A4%ED%94%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0-cf497b4f7f87)
+  * [Figma Assistant by Grida | Disquiet\*](https://disquiet.io/product/figma-assistant-by-grida) 당신의 디자인 / 개발 어씨스턴트. Figma 에서 Flutter 로 클릭한번에 완성
+  * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
+  * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
+* [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)

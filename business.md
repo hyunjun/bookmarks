@@ -1472,6 +1472,5 @@ Business
 * [2021년 디자이너의 베스트 툴킷](https://brunch.co.kr/@rightbrain/117)
 * [해외판 퀵커머스 3대 주자를 비교해봤습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/quickcommerce20220323)
 * [논리적 디자인을 위한 상세 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/928/)
-* [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 * [프로덕트 디자이너의 권한은 어디까지인가? | idus-Tech](https://medium.com/idus-tech/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%98-%EA%B6%8C%ED%95%9C%EC%9D%80-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%EC%9D%B8%EA%B0%80-a1900e860731)
 * [롯데ON은 어떤 보이스&톤으로 고객과 커뮤니케이션하고 있을까? | by hey choi | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EB%A1%AF%EB%8D%B0on%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%B3%B4%EC%9D%B4%EC%8A%A4%EC%95%A4%ED%86%A4%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EA%B0%9D%EA%B3%BC-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-51ccec5bc18b)
