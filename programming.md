@@ -125,6 +125,7 @@ Programming
 * [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * [**Blocking-NonBlocking-Synchronous-Asynchronous**](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
+* [Blocking I/O와 Non-blocking I/O - YouTube](https://www.youtube.com/watch?v=XNGfl3sfErc)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
 * [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
 * [동기와 비동기 방식 데이터 처리 (Syn / Asynchronous)](https://blog.naver.com/dsz08082/222151475472)
