@@ -1531,6 +1531,7 @@ Javascript
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
   * [Lessons learned refactoring Codesandbox.io from Redux to Cerebral](https://medium.com/@christianalfoni/lessons-learned-refactoring-codesandbox-io-from-redux-to-cerebral-40e9a5646281)
+* [chalk-animation: Colorful animations in terminal output](https://github.com/bokub/chalk-animation)
 * [cheetah-grid: The fastest open-source data table for web](https://github.com/future-architect/cheetah-grid)
   * [Cheetah-Grid - 초고속 데이터 테이블 오픈소스 | GeekNews](https://news.hada.io/topic?id=4035)
 * [Chemozart - Web-based 3D molecule editor and visualizer with molecular mechanics calculators. https://chemozart.com ](https://github.com/mohebifar/chemozart)
@@ -1757,6 +1758,7 @@ Javascript
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mithril.js - modern client-side JavaScript framework for building Single Page Applications](https://mithril.js.org/) SPA
 * [mitosis: Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more](https://github.com/BuilderIO/mitosis)
+  * [A Quick Guide to Mitosis: Why You Need It and How You Can Use It](https://www.builder.io/blog/mitosis-a-quick-guide)
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * [Monorepo Explained](https://monorepo.tools/)
@@ -2545,6 +2547,7 @@ Javascript
 * [Using Node.js for Backend Web Development in 2022 | by MobiDev | Medium | Geek Culture](https://medium.com/geekculture/using-node-js-for-backend-web-development-in-2022-f2917c6c0a87)
 * [Start a Microservice by Building a Simple Node js App - YouTube](https://www.youtube.com/watch?v=dZkepF1Txcs)
 * [Node.js 18 is Now Available!](https://morioh.com/p/99309f2dbdb1)
+* [Faster initialization of instances with new class features · V8](https://v8.dev/blog/faster-class-features)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4568,6 +4571,7 @@ Javascript
 * [사용자 입력 텍스트를 바이트(byte) 길이로 제한하는 Vue 컴포넌트 만들기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220318)
 * [상품 상세 페이지 Front 구조 모듈화. Vue.JS 의 동적 컴포넌트 바인딩으로 상품 상세 UI 모듈화 | by Chance | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/vuejs-%EC%9D%98-%EB%8F%99%EC%A0%81-%EC%BD%A4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%B0%94%EC%9D%B8%EB%94%A9%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%83%81%ED%92%88%EC%83%81%EC%84%B8ui-%EC%9D%98-%EB%AA%A8%EB%93%88%ED%99%94-a12e4851816c)
 * [사용자 입력 텍스트를 바이트(byte) 길이로 제한하는 Vue 컴포넌트 만들기 : NHN Cloud Meetup](https://meetup.toast.com/posts/319)
+* [VueJs Tutorial - Blog Idea to Implementation Infotech](https://blog.i2i-info.com/category/education/vuejs-tutorial)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
