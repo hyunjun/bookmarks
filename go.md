@@ -484,6 +484,7 @@ Go
 * [Error stack traces in Go with x/xerror — brandur.org](https://brandur.org/fragments/go-xerror)
 * [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
 * [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
+* [Error Handling Strategies In Go. In Go, when a function call returns an… | by Jerry An | Apr, 2022 | Level Up Coding](https://levelup.gitconnected.com/error-handling-strategies-in-go-7759b3f73d0)
 * [errors: Simple error handling primitives](https://github.com/pkg/errors)
   * [Golang Error Stack Trace와 로깅 | Popit](https://www.popit.kr/golang-error-stack-trace%ec%99%80-%eb%a1%9c%ea%b9%85/)
 
