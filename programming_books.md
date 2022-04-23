@@ -1801,6 +1801,7 @@ Programming Books
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
 * (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
+* (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
 
 # Math
 
