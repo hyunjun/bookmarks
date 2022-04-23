@@ -210,6 +210,8 @@ Programming Books
 * [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
   * ★★★☆☆ 2022.04.23
+  * [팀장님, 우리도 협업 도구 쓸까요?. 어떻게 보면 여러가지 도구를 다루고 또 애자일에 대한 이야기를 하면서… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%ED%8C%80%EC%9E%A5%EB%8B%98-%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%98%91%EC%97%85-%EB%8F%84%EA%B5%AC-%EC%93%B8%EA%B9%8C%EC%9A%94-445fc839f4b7)
+  * [팀장님, 우리도 협업 도구 쓸까요?](https://jh4hj.tistory.com/entry/%ED%8C%80%EC%9E%A5%EB%8B%98-%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%98%91%EC%97%85-%EB%8F%84%EA%B5%AC-%EC%93%B8%EA%B9%8C%EC%9A%94)
   * [팀장님, 우리도 협업 도구 쓸까요?](programming_books/shall_we_use_collaboration_tool.md)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
