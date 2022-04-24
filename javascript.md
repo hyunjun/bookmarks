@@ -1148,6 +1148,7 @@ Javascript
 * [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
+* [Chrome DevTools로 JS 메모리 누수(Memory Leak) 디버깅하기](https://blog.eunsukim.me/posts/debugging-javascript-memory-leak-with-chrome-devtools)
 * [Debugging in the Browser - DEV Community](https://dev.to/bello/debugging-in-the-browser-4ece)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
