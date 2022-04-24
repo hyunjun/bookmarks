@@ -199,6 +199,7 @@ Food
 * [파스타를 빨리 그리고 효과적으로 삶는 법(동영상)](http://www.huffingtonpost.kr/littlethingscom/story_b_7481448.html)
 * [All the Pasta Recipes You Need](https://www.bonappetit.com/collection/pasta)
 * [두지엠아라크렘 | 카카오맵](https://place.map.kakao.com/2062887775)
+* [지금까지의 파스타는 잊어라, 생면 파스타 바 5곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252405)
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)
