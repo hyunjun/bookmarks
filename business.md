@@ -1064,6 +1064,7 @@ Business
 * ['동기부여 능력' 관리자가 꼭 가져야 할 자질](https://news.v.daum.net/v/20180904101827967)
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [뚱한 부하직원 일 시키려면? - HSG 휴먼솔.. : 네이버블로그](https://blog.naver.com/hs_group/221353792320)
+* [The Power of Small Wins](https://hbr.org/2011/05/the-power-of-small-wins) motivation
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
