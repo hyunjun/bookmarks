@@ -438,6 +438,7 @@ Data Science
 * [5 Best Python Courses For Data Science Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2022/01/5-best-python-courses-for-data-science.html)
 * [Data Science Grandmaster Series - YouTube](https://www.youtube.com/playlist?list=PL5B692fm6--uXbxtmPJz5nu3Xmc1JUm3F)
 * [12 Best+FREE Data Engineering Courses Online & Certifications- 2022](https://www.mltut.com/best-data-engineering-courses-online/)
+* [데이터 사이언스 스쿨 — 데이터 사이언스 스쿨](https://datascienceschool.net/)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
