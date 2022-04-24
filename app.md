@@ -1441,7 +1441,7 @@ App
 * [sequence diagram.org](https://sequencediagram.org/)
 * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [smartdraw.com](https://www.smartdraw.com/)
-* [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
+* [Start Easy](http://www.starteasy.co.kr/)
 * [StarUML](https://staruml.io/)
 * [swimlanes.io](https://swimlanes.io/)
   * [Swimlanes - 온라인 시퀀스 다이어그램 에디터 | GeekNews](https://news.hada.io/topic?id=4149)
