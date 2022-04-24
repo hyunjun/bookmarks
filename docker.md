@@ -826,6 +826,7 @@ Docker
   * 단순히 컨테이너 관리 도구가 아니라 API를 제공하는 것이 핵심이라고 설명
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * [Kubernetes Tutorials | How to Deploy and Access the Kubernetes Dashboard | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=KzDBZz8lToM)
+* [Kubernetes tutorial | Kubernetes services | ports? target ports? node ports? - YouTube](https://www.youtube.com/watch?v=svjIcifW1JA)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
@@ -1439,7 +1440,7 @@ Docker
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
   * [Karpenter](https://karpenter.sh/)
-  * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/)
+  * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autocaler/)
   * [My first impression of AWS Karpenter](https://heuristicwave.github.io/Karpenter)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
@@ -1515,6 +1516,8 @@ Docker
   * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
     * [Kubescape - 쿠버네티스 보안 설치 확인도구 | GeekNews](https://news.hada.io/topic?id=4966)
 * [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+* [kube-schedule-scaler: Kubernetes Controller which provides schedule scaling to Kubernetes deployments and other custom resources in the cluster](https://github.com/amelbakry/kube-schedule-scaler)
+  * [kube schedule scaler 도입기](https://www.linkedin.com/posts/gunwoo-park-iwan_%EC%B9%B4%EC%82%AC-%EC%9E%85%EC%82%AC%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EC%B2%AB-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EB%82%A8%EA%B2%A8%EB%86%93%EC%9C%BC%EB%A0%A4%EA%B3%A0%ED%95%9C%EB%8B%A4-activity-6921404760088600576-oaMg/)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
