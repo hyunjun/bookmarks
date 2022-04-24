@@ -678,6 +678,9 @@ Book
   * ★★★☆☆ 2021.08.24
   * 트리우마를 가진 불펜투수 혁오와 학창시절 같이 야구를 했던 직장인 준삼, 여자라 야구를 포기했던 기자 기현의 이야기
   * 전형적인 이야기가 아니라 좋음
+* [우리가 농구에 미치는 이유](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=5093438)
+  * ★★★☆☆ 2022.04.24
+  * 농구의 역사와 Bishop O'Dowd Dragons 농구팀을 중심으로 한 현재의 이야기를 교차하며 농구에 대해 그린 그래픽 노블
 
 # Stock
 * [시골의사의 주식투자란 무엇인가](https://jh4hj.tistory.com/entry/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC%EC%9D%98-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
