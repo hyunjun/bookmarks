@@ -52,6 +52,7 @@
 * [함덕 수제버거맛집 '무거버거' 메뉴와 가격](https://blog.naver.com/lingfei0212/222321921764)
 * [올리다버거](https://blog.naver.com/yinjung7777/222224733506)
 * [제주시청 가드망제 - 메뉴판, 시금치 리조또, 차돌 랑귀니](https://langueihr.tistory.com/31)
+* [제주 한림 맛집 - 레스토랑 모디카](https://blog.naver.com/gorgeous_ha/221383368789)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
