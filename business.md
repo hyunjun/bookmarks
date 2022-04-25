@@ -67,6 +67,7 @@ Business
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
+* [함께 성장하며 함께 일하기 위한 3가지 필수 조건](https://brunch.co.kr/@graypool/449)
 * ~[우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)~
 * [일 못 하는 사람들의 33가지 태도 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236059)
 * [비즈니스 경영자를 위한 11가지 업무집중 향상법](http://ppss.kr/archives/37874)
@@ -117,6 +118,7 @@ Business
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
+* [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
@@ -448,6 +450,7 @@ Business
 * [칼럼 | ‘트랜잭션 앱과 소비 앱’··· 기업 IT 관점의 고찰 - CIO Korea](https://www.ciokorea.com/news/232424)
 * [Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
   * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
+* [편리함에 대해](https://www.thestartupbible.com/2022/04/some-thoughts-on-simplicity-and-irreversibility.html) 비가역적인 편리한 경험
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
