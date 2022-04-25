@@ -594,6 +594,7 @@ Web
       * z-index는 Flow 알고리즘에 구현되어 있지 않기 때문에 z-index를 제대로 사용하려면 레이아웃 알고리즘 지정 필요, width도 알고리즘에 따라 다르게 동작
     * <img> 태그가 <div>에서 약간의 마진이 생기는 것도 CSS 프로퍼티 때문이 아니라 Flow 레이아웃에 따라 인라인 요소로 처리되었기 때문에 발생
     * 이 레이아웃 알고리즘을 이해해야 CSS 프로퍼티를 제대로 사용할 수 있다고 설명, CSS 처리할 때 꼭 살펴봐야 할 만큼 좋은 글
+* [How To Create A Modal In Javascript and CSS - YouTube](https://www.youtube.com/watch?v=KjQ8uvAt9kQ)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
