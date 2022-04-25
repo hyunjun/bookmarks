@@ -436,6 +436,9 @@ Book
   * 출판사의 시리즈를 보니 출판사 이름 그대로(AK Trivia book) 어찌보면 잡다할 수 있고 많은 사람들이 관심을 갖지 않지만
     * 소수의 사람들에겐 재미있을 여러가지 주제를 다루는 회사로 보인다
     * 이런 취미에 관계된 영역을 전문적으로 다루는 출판사가 늘어나는 거도 사회 발전의 일면을 보여주는 걸로 생각한다
+* [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
+  * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
+  * ★★★★☆ 2022.04.25
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -447,9 +450,8 @@ Book
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
-* (NOT YET) [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
-  * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
 * (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
+* (NOT YET) 히틀러를 선택한 나라- 민주주의는 어떻게 무너졌는가 [누가 히틀러 집권에 꽃길을 깔아줬나?](https://n.news.naver.com/mnews/article/028/0002587823)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
