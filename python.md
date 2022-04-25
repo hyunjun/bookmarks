@@ -4903,6 +4903,8 @@ Python
 * [Code Better With Type Hints - Part 1 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-1/)
 * [Code Better With Type Hints – Part 2 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-2/)
 * [Code Better With Type Hints – Part 3 - PyBites](https://pybit.es/articles/code-better-with-type-hints-part-3/)
+* [파이썬 Typing 파헤치기 - 기초편](https://sjquant.tistory.com/68)
+* [파이썬 Typing 파헤치기 - 심화편](https://sjquant.tistory.com/69)
 * [Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
   * [2021-protocol-vs-abc: Protocols vs ABC - which one should you use when?](https://github.com/ArjanCodes/2021-protocol-vs-abc)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
