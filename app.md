@@ -1905,6 +1905,7 @@ App
 * [개발 환경 구성: 607. 로컬의 USB 장치를 원격 머신에 제공하는 방법 - usbip-win](https://www.sysnet.pe.kr/2/0/12858)
 * [Microsoft Store에 올라와있는 개발자용 유틸리티들을 소개합니다. - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/microsoft-store/3189)
 * [단일 프로세스에서 NUMA가 야기한 성능 저하 - 넷마블 기술 블로그](https://netmarble.engineering/single-process-programming-numa-effect/)
+* [단일 프로세스에서 NUMA가 야기한 성능 저하 | 요즘IT](https://yozm.wishket.com/magazine/detail/1444/)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
