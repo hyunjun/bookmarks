@@ -212,6 +212,7 @@ SQL
 * [“데이터 계층을 위한 탄력적 컴퓨팅” 서버리스 데이터베이스의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/228914)
 * [A database for 2022 · Tailscale](https://tailscale.com/blog/database-for-2022/)
 * [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://velog.io/@datarian/good-sql-code)
+* [Alternative to MapReduce for search in distributed databases - DEV Community](https://dev.to/tarantool/alternative-to-mapreduce-for-search-in-distributed-databases-890)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
