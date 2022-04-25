@@ -1435,6 +1435,7 @@ Docker
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
   * [Kubernetes at Home With K3s :: Bruno Antunes — Thoughts, rants, ideas](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
+* k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
 * [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
@@ -1447,6 +1448,7 @@ Docker
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
   * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
+  * [How to Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6 | by KC | Apr, 2022 | Medium](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
