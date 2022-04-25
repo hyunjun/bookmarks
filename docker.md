@@ -987,6 +987,7 @@ Docker
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
 * [Istio와 Spinnaker를 활용한 Blue-Green + Canary 자동 배포 전략 도입기](https://tech.devsisters.com/posts/blue-green-canary-deployment/)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
+* [AWS Secrets Manager로 쿠버네티스 시크릿(Secret)을 관리해보자](https://sjquant.tistory.com/67)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
 * [Kubernetes for Beginners - Docker Introduction](https://www.youtube.com/watch?v=rmf04ylI2K0)
 * [Docker and Kubernetes - Full Course for Beginners](https://morioh.com/p/1d2420ffad64)
