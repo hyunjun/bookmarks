@@ -533,7 +533,6 @@ SQL
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
 * [MySQL 파티셔닝 테이블 SELECT가 느려요](http://gywn.net/2019/08/mysql-poor-performance-with-super-many-partitions/)
-* [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 * [**MySQL에서 Affected Rows를 병맛나게 활용해보자**](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
@@ -730,7 +729,6 @@ SQL
   * [JavaScript Mode and the MySQL Shell (aka Extending the MySQL Shell with JavaScript) - YouTube](https://www.youtube.com/watch?v=vf0UEZd3KII)
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
-* [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
 * PlanetScale [플래닛스케일 리뷰 | 수평 확장 가능한 마이SQL 호환 서버리스 DB 플랫폼 - ITWorld Korea](https://www.itworld.co.kr/news/207029)
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
@@ -774,6 +772,10 @@ SQL
   * [PMM팁1탄! MySQL을 READ-ONLY 기준으로 표기해보기](http://gywn.net/2019/01/pmm-tip1-classified-by-mysql-readonly/)
   * [Percona PMM - A beginner's guide - Vlad Mihalcea](https://vladmihalcea.com/percona-pmm-beginner-guide/)
 * [pstress - Database concurrency and crash recovery testing tool](https://github.com/Percona-QA/pstress)
+* pt-online-schema-change
+  * [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
+  * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
+  * [MySQL Online-DDL. 당근 마켓의 서비스는 쉬지 않고 발전하고 있어요. 하지만 이런… | by Sunguck Lee | 당근마켓 팀블로그 | Apr, 2022 | Medium](https://medium.com/daangn/mysql-online-ddl-faf47439084c)
 
 # PostgreSQL
 * [한국 PostgreSQL](http://postgresql.kr)
