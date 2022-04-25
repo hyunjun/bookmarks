@@ -3872,6 +3872,7 @@ Programming
 * [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
 * [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
 * [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
+* [일본 1위 배달 앱, 바닥부터 다시 짠다 - Recode 프로젝트 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-demaecan-recode-project/)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
