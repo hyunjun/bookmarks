@@ -439,6 +439,7 @@ Book
 * [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
   * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
   * ★★★★☆ 2022.04.25
+  * [이순신의 바다](https://github.com/hyunjun/bookmarks/blob/master/books/sea_of_yisunsin.md)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
