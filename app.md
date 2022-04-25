@@ -1029,6 +1029,13 @@ App
 * [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#applications)
 * [Setting up Environment Variables in MacOS Sierra](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)
 * [Just Bought a Mac? 14 Essential Apps You Should Install](https://www.howtogeek.com/439832/just-bought-a-mac-14-essential-apps-you-should-install/)
+* [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
+* [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
+* [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
+* [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
+* [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
+* [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
+* [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1054,13 +1061,11 @@ App
       * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
       * [vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구 | GeekNews](https://news.hada.io/topic?id=5252)
-* [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
-* [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
-* [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
-* [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
-* [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
-* [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
-* [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
+* 절전 모드 방지
+  * Amphetamine
+  * caffeinate [맥용 잠자기 방지 도구 caffeinate](https://seorenn.tistory.com/61)
+  * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
+  * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * [AirServer Connect - The Most Advanced Screen Mirroring Receiver](https://www.airserver.com/)
 * Alfred
@@ -1120,7 +1125,6 @@ App
 * iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
   * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
-* [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
@@ -1182,7 +1186,6 @@ App
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [Switcher](https://github.com/tkgka/Switcher) command + q 명령어를 두번 입력한 경우에만 동작하도록 설정 가능
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
-* [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)

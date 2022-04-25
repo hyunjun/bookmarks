@@ -146,6 +146,9 @@ Book
   * 2022.02.13
 * [만화로 보는 너무 붉어 아찔한 공산당 선언 : 네이버 블로그](https://blog.naver.com/darun_pub/221523027525)
   * ★★★☆☆ 2022.03.20 짧지만 강렬하다. 이 선언이 있던 약 150년 전에 비해 크게 발전했나 하는 회의감이 들기도
+* [지브리의 천재들](https://butter-shower.tistory.com/228)
+  * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
+  * ★★☆☆☆ 2022.04.25 지브리의 작품이나 스튜디오와 관련된 뒷 이야기인데 개인적인 기대와 다르게 별로 흥미롭지 않았음
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -178,8 +181,6 @@ Book
   * [유연하게 듣고 단단하게 말합니다](https://brunch.co.kr/@graypool/302)
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
-* (NOT YET) [지브리의 천재들](https://butter-shower.tistory.com/228)
-  * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
   * 탐라
