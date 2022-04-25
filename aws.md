@@ -666,6 +666,9 @@ AWS
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
 * [Top 10 Coursera Courses to Learn AWS, Google Cloud, Azure, and Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)
 
+# DevOps Guru
+* [Amazon DevOps Guru for Serverless – AWS Lambda 함수 운영 문제 자동 감지 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
+
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/docker-swarm-on-aws)
