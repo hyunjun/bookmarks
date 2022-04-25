@@ -111,6 +111,7 @@ Business
 * [구글이 제시한 '관리자의 자격' - ZDNet korea](https://zdnet.co.kr/view/?no=20170227091914)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
+* [회사의 성장을 나의 성장으로 착각하는 이들에게](https://brunch.co.kr/@539insight/104)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
 * [나쁜 말이 나쁜 조직을 만든다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/190115)
 * [개발자가 조직문화에 대해 관심을 가져야 하는 이유](https://evan-moon.github.io/2019/08/06/developer-with-organizational-culture/)
@@ -118,6 +119,12 @@ Business
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
+* [Man Seok Techne Schoe: Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://manseok.blogspot.com/2022/04/samsung-electronics-cultural-issues-are.html)
+  * 2022 현재 삼성의 문제점에 대한 이야기
+    * 삼성의 CPU는 잘못된 리더십으로 인한 설계의 실패
+    * 실수에 대해 굉장히 안좋게(toxic) 보는 문화와 자회사들이 서로를 비난(삼성 LSI는 삼성 파운드리를, 삼성 모바일은 LSI를)
+    * 삼성 LSI 경영진은 한국 노동법 개정(주 52시간제)을 탓함
+    * 문화가 너무 안좋아져서, 파운드리가 수율에 대해 고객과 삼성 회장에게 거짓말을 한다는 소문까지 있음
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
@@ -451,6 +458,7 @@ Business
 * [Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
   * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
 * [편리함에 대해](https://www.thestartupbible.com/2022/04/some-thoughts-on-simplicity-and-irreversibility.html) 비가역적인 편리한 경험
+* [브런치북 스타트업 신입사원 가이드](https://brunch.co.kr/brunchbook/juniorguide)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
