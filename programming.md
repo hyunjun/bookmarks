@@ -1399,6 +1399,7 @@ Programming
 * [The Service Mesh: What Every Engineer Needs to Know about the World's Most Over-Hyped Technology](https://buoyant.io/service-mesh-manifesto/)
 * [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
 * [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
+* [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
