@@ -448,6 +448,7 @@ Book
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
 * (NOT YET) [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
   * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
+* (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
