@@ -121,8 +121,11 @@ Json
 * [Node.js JWT: Access Token & Refresh Token 인증 구현 — TaxFree](https://cotak.tistory.com/102)
 * [쉽게 알아보는 서버 인증 2편(Access Token + Refresh Token) — 그랩의 블로그](https://tansfil.tistory.com/59)
 * [직접 만들어보며 이해하는 JWT](https://hudi.blog/self-made-jwt/)
-* [Golang API Authentication using JWT Tokens](https://morioh.com/p/eedc1b3cd9b0)
 * [인증에 활용하는 JWT는 어떻게 보안을 유지할 수 있는가?](https://blog.naver.com/pjt3591oo/222689578991)
+
+## JWT Go
+* [Golang API Authentication using JWT Tokens](https://morioh.com/p/eedc1b3cd9b0)
+* [Implementing JWT Authentication in Golang REST API - Detailed Guide](https://codewithmukesh.com/blog/jwt-authentication-in-golang/)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
