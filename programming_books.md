@@ -1168,6 +1168,7 @@ Programming Books
 # Elixir
 * (NOT YET) [처음 배우는 엘릭서 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B5732906061)
   * 우당
+  * [엘릭서 배우기의 좋은 출발점 : 네이버 블로그](https://blog.naver.com/drvoss/222705630021)
 
 # Finance
 
