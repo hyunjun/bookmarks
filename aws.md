@@ -1393,6 +1393,9 @@ AWS
 * [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
 * [AWS Introduces Amazon Redshift Serverless](https://www.infoq.com/news/2021/12/amazon-redshift-serverless/)
 * [Redshift DW에서 PG DM을 만드는 여정 | MADTECH](https://tech.madup.com/data-mart-1/)
+* [Redshift 란? 다른DB들과 의 차이점은?](https://pearlluck.tistory.com/648)
+* [distkey 및 분산 관련 :: Louis.Kim 의 제 3막](https://hyunki1019.tistory.com/149)
+* [최상의 정렬 키 선택 - Amazon Redshift](https://docs.aws.amazon.com/ko_kr/redshift/latest/dg/c_best-practices-sort-key.html)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
