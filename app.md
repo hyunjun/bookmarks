@@ -106,6 +106,7 @@ App
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
+* MyBrowserAddon [Community for open-source projects :: MyBrowserAddon](https://mybrowseraddon.com/)
 * [myDrive](https://mydrive-storage.com/)
   * [myDrive - 오픈소스 구글 드라이브 클론 | GeekNews](https://news.hada.io/topic?id=3940)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
