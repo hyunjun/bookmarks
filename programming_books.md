@@ -710,6 +710,7 @@ Programming Books
 * (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
 * (NOT YET) [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
 * (NOT YET) [독서광 비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
+* (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
