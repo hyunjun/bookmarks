@@ -1323,6 +1323,7 @@ Programming
 * [도메인 스토리로 비즈니스 규칙 발견하기](https://brunch.co.kr/@graypool/440)
 * [도메인 스토리텔링에 문법 입히기](https://brunch.co.kr/@graypool/441)
 * [측정, 단위 그 이전에 기대값](https://brunch.co.kr/@graypool/414)
+* [Work Objects란 무엇인가?](https://brunch.co.kr/@graypool/446)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
