@@ -1772,6 +1772,12 @@ Programming Books
 * [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
   * 한라, 탐라, 우당 문325.24스825ㅅ
   * ★★★★☆ 2022.04.18~21
+* 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
+  * 우당
+  * ★★★★☆ 2022.04.23
+  * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
+  * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
+  * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1802,8 +1808,6 @@ Programming Books
   * 한라
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
   * 한라, 탐라
-* (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
-  * 우당
 * (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
