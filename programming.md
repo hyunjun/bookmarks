@@ -768,6 +768,7 @@ Programming
 * [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
 * [APIs and How to design them — All you need to know ! | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/apis-and-how-to-design-them-all-you-need-to-know-86223624229a)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
+* [Difference between GraphQL and REST API with Example](https://javarevisited.blogspot.com/2022/04/difference-between-graphql-and-rest-api.html)
 * [How to select an API Management platform for your business — part I | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-i-6b02b232f697)
 * [How to select an API Management platform for your business — part II | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-ii-407faac818f6)
 * [How to select an API Management Platform for your business — part III | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-iii-de112eec8b2c)
