@@ -2036,6 +2036,7 @@ App
   * [Connecting USB devices to WSL - Windows Command Line](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
   * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 - 넷마블 기술 블로그](https://netmarble.engineering/journey-to-wsl2-and-trouble-shooting/)
   * [WSL2 활용도를 높여주는 고정 IP 설정 - 넷마블 기술 블로그](https://netmarble.engineering/wsl2-static-ip-scheduler-settings/)
+  * [멀티패스 우분투 VM에도 고정 IP를 붙여보자 - 넷마블 기술 블로그](https://netmarble.engineering/multipass-ubuntu-static-ip-configuration-on-hyper-v/)
   * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 | 요즘IT](https://yozm.wishket.com/magazine/detail/1381/)
   * [WSL2 에서 React.js 개발환경 설정하기](https://velog.io/@wongue_shin/WSL2-%EC%97%90%EC%84%9C-react-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
