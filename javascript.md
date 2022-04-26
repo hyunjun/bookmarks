@@ -443,6 +443,7 @@ Javascript
 * [WebStorm NodeJS Coding Assistance 활성화 방법](https://developer88.tistory.com/379)
 * [알아두면 좋은 WebStorm용 플러그인 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2021/06/plugins-for-webstorm-you-need-to-know-about/)
 * [추천하는 WebStorm Plugin](https://jojoldu.tistory.com/624)
+* [WebStorm에서 TypeScript 파일 단독으로 실행하기](https://jojoldu.tistory.com/669)
 * [**Javascript Image Filter 만들기**](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
