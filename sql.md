@@ -47,6 +47,7 @@ SQL
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 * [#WDILTW – To use a RDBMS is to use a transaction](http://ronaldbradford.com/blog/wdiltw-to-use-a-rdbms-is-to-use-a-transaction-2021-02-19/)
 * [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
+* [Enterprise Architecting Series: Transaction Service · Present](https://present.do/presentations/61346fa75b179c0da7466a9a?page=0)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Learn SQL - Free Interactive SQL Tutorial](https://www.learnsqlonline.org/)
 * [SQL Tutorial for Beginners – Learn SQL Programming Online -Intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/)
