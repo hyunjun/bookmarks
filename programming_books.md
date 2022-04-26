@@ -1626,6 +1626,7 @@ Programming Books
   * ★★★★★
   * [유닉스의 탄생 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1521)
   * [유닉스의 탄생. 제목에서 알 수 있듯 책을 읽는다고 해도 프로그래밍에 대해 배울 수… | by Jun | Jun, 2021 | Medium](https://nymets.medium.com/%EC%9C%A0%EB%8B%89%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D-edf150eb3598)
+  * [유닉스의 탄생 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/04/26/UNIX-A-History-and-a-Memoir.html)
 
 ## Vim
 
