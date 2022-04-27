@@ -3810,6 +3810,7 @@ Javascript
   * [아기상어 키즈 월드 앱에서 웹뷰 사용성 개선하기 — Scroll Restoration | by valley | 더핑크퐁컴퍼니 기술 블로그 | Apr, 2022 | Medium](https://medium.com/pinkfong/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4-%ED%82%A4%EC%A6%88-%EC%9B%94%EB%93%9C-%EC%95%B1-%EC%97%90%EC%84%9C-%EC%9B%B9%EB%B7%B0-%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-scroll-restoration-50ab8c7b4ced)
   * [Next.js에서 데이터를 가져오는 세 가지 방법. client side, getServerSideProps… | by Harim kim | 더핑크퐁컴퍼니 기술 블로그 | Apr, 2022 | Medium](https://medium.com/pinkfong/next-js%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EA%B0%80%EC%A0%B8%EC%98%A4%EB%8A%94-%EC%84%B8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-a458435b24d9)
   * [Next.js Single Page Application Working Tutorial - Therichpost](https://therichpost.com/next-js-single-page-application-working-tutorial/)
+  * [Next.js에서 Autoprefixer 사용해볼까요~? - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12285874)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
