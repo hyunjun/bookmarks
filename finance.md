@@ -65,6 +65,7 @@ Finance
 * [주식 시장에서 돈을 벌기 위해 꼭 지켜야 할 16가지 규칙](http://ppss.kr/archives/47365)
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
+* [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg) 채권
 * [한국인을 위한 맞춤 재테크 전략은 없을까?](https://blog.naver.com/hong8706/221223694635)
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
