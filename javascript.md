@@ -1819,6 +1819,7 @@ Javascript
   * [Nest.js ConfigService를 주입받는 UseCase 테스트하기 | 강준영 기술 블로그](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
+  * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
 * Netlify
@@ -2294,6 +2295,7 @@ Javascript
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 * [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [Node JS Tutorial | Insert Form Data into MySQL Table - YouTube](https://www.youtube.com/watch?v=2Dxk28bLc7Y)
+* [Node JS Tutorial | Update MySQL Table Data - YouTube](https://www.youtube.com/watch?v=gXF8LOOh6S0)
 * [JavaScript & Node.js](https://www.youtube.com/playlist?list=PLieE0qnqO2kSgBngBK34Yw8jNVovgNJoh)
 * [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)
 * [콜백(callback) 개념 이해하기](http://jybaek.tistory.com/728)
