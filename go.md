@@ -946,6 +946,7 @@ Go
 * [fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
   * [📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers - DEV Community](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
   * [Building APIs in Go beyond Hello World | by Oliver Mascarenhas | Code Uncomplicated | Jan, 2022 | Medium](https://medium.com/code-uncomplicated/building-apis-in-go-beyond-hello-world-5d501d6403de)
+  * [Build a REST API in Go using the web framework Fiber and the Golang](https://morioh.com/p/b45e228aaebd)
 * [Gin - a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com ](https://github.com/gin-gonic/gin)
   * [Go 언어의 웹 프레임워크 Gin 사용하기](https://blog.outsider.ne.kr/1371)
   * [Creating an Authentication API With Golang | by Emmy Chamberlain | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/creating-an-authentication-api-with-golang-a930aa769e96)
