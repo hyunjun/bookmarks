@@ -242,6 +242,7 @@ SQL
 * [Planning I/O in Amazon Aurora | AWS Database Blog](https://aws.amazon.com/de/blogs/database/planning-i-o-in-amazon-aurora/)
 * [Leveraging AWS Aurora for Event Sourcing | by Lomig Mégard | SwissBorg Engineering | Feb, 2022 | Medium](https://medium.com/swissborg-engineering/leveraging-aws-aurora-for-event-sourcing-e8323dce58b6)
 * [**Aurora MySQL vs Aurora PostgreSQL | 우아한형제들 기술블로그**](https://techblog.woowahan.com/6550/)
+* [Amazon Aurora Serverless v2 정식 출시 – 워크로드 요구 사항에 따른 즉각적인 DB 크기 조정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
