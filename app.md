@@ -454,6 +454,7 @@ App
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
+* MuteTab [크롬 탭 별 음소거(mute) 처리](https://jybaek.tistory.com/953)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * [one-click-extensions-manager: a simple chrome extension to manage chrome extension](https://github.com/hankxdev/one-click-extensions-manager)
 * [pyrite: Pyrite is a web(RTC) client for the Galène videoconference server](https://github.com/garage44/pyrite/)
