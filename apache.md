@@ -643,6 +643,7 @@ Apache
 * [How Zendesk Secures Kafka with Self-Hosted mTLS Authentication System](https://www.confluent.io/blog/how-zendesk-secures-kafka-with-mtls-authentication-system/)
 * [Property Based Testing Confluent Cloud Storage for Fun and Safety](https://www.confluent.io/blog/property-based-testing-confluent-tiered-storage/)
 * [**Kafka on Kubernetes, minimal configuration**](https://gist.github.com/dongjinleekr/fcadc20063553935cfb6536185421ca2)
+* [Designing and testing a highly available Kafka cluster on Kubernetes](https://learnk8s.io/kafka-ha-kubernetes)
 * [Beyond the Brokers: A Tour of the Kafka Ecosystem](https://www.slideshare.net/ConfluentInc/beyond-the-brokers-a-tour-of-the-kafka-ecosystem-138678797)
 * [스케일아웃없이 순간 급증하는 주문 처리하기 (Microservice with Kafka)](https://tv.naver.com/v/11212897)
 * [Kafka for Engineers. Here are things about Kafka that you… | by Dave Taubler | Level Up Coding](https://levelup.gitconnected.com/kafka-for-engineers-975feaea6067)
@@ -695,6 +696,7 @@ Apache
 * [LIVE 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍 :: 3월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=PvAlbOm9WN8)
 * [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 * [대규모 데이터의 카프카 프로듀서 성능 향상 방법](https://blog.voidmainvoid.net/475)
+* [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
