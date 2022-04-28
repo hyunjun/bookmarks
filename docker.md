@@ -738,6 +738,7 @@ Docker
 * [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기 - YouTube](https://www.youtube.com/watch?v=EK6iYRCIjYs)
 * [Docker & Docker Compose / Projects / codingforentrepreneurs.com / codingforentrepreneurs.com](https://www.codingforentrepreneurs.com/projects/docker-and-docker-compose)
 * [docker-compose로 구성된 서버 Elastic Beanstalk에 배포하기 | by Woosik Kim | Apr, 2022 | Medium](https://well-balanced.medium.com/docker-compose%EB%A1%9C-%EA%B5%AC%EC%84%B1%EB%90%9C-%EC%84%9C%EB%B2%84-elastic-beanstalk%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-58fe8f993b5d)
+* [데이터베이스를 docker-compose로 구축하기(mysql, mongodb, redis)](https://www.wool-dev.com/database-with-docker-compose/)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
