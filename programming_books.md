@@ -881,6 +881,7 @@ Programming Books
   * 전반부는 설명, 후반부는 에제(scikit-learn 사용)
 * 머신러닝 실무 프로젝트
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42d1b2bac9cd)
+  * [<나는 리뷰어다> 머신러닝 실무 프로젝트 | PYY0715's Research Blog For Data Science](https://pyy0715.github.io/Review2/)
 * [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
   * 2018.09
   * 탐라 문004.73 정17ㅁ
@@ -1814,6 +1815,7 @@ Programming Books
 * (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
+* (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 
 # Math
 
