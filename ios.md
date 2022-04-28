@@ -582,5 +582,6 @@ iOS
   * [Xcode 프로젝트 관리를 위한 Tuist 사용해보기 | Medium](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
   * [XcodeGen 에서 Tuist 로 전환하기 | Medium](https://okanghoon.medium.com/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
   * [당근마켓) XcodeGen 에서 Tuist 로 전환하기 | 당근마켓 팀블로그](https://medium.com/daangn/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
+  * [Tuist를 활용한 하쿠나 iOS 프로젝트 모듈화 적용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/04/19/ios-modularization.html)
 * [Xcode Cloud 베타 가벼운 체험기. 드디어 신청했던 Xcode Cloud 서비스를 사용할 수 있었습니다! | by Jung Kim | Nov, 2021 | Medium](https://medium.com/@jungkim/xcode-cloud-%EB%B2%A0%ED%83%80-%EA%B0%80%EB%B2%BC%EC%9A%B4-%EC%B2%B4%ED%97%98%EA%B8%B0-a12eceb50f11)
 * [Xcode: 비밀스러운 인덱스 저장소. 그 숨겨진 비밀의 문을 열어봅시다🧐 | by Jung Kim | Apr, 2022 | Medium](https://medium.com/@jungkim/xcode-%EB%B9%84%EB%B0%80%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-ee62b7cf46e7)
