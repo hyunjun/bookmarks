@@ -1817,6 +1817,7 @@ Programming Books
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
+* (NOT YET) [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
 
 # Math
 
@@ -2344,6 +2345,7 @@ Programming Books
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
 * (NOT YET) [사용자를 사로잡는 UX UI 실전 가이드](https://ugong2san.tistory.com/4189)
+* (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
