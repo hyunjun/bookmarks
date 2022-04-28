@@ -1323,6 +1323,7 @@ Docker
 * [Kubernetes에 애플리케이션 서비스 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/deploying-application-services-in-kubernetes-part-1/)
 * [NGINX Kubernetes Gateway에 대해 꼭 알아야 할 5가지 사항 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/5-things-to-know-about-nginx-kubernetes-gateway/)
 * [리소스 제약적인 MicroK8s 환경에서 MARA로 배포하는 모범사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/mara-now-running-on-workstation-near-you/)
+* [네임스페이스와 cgroup은 무엇이며 어떻게 작동합니까? - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/what-are-namespaces-cgroups-how-do-they-work/)
 * [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
 * [Multi-Tenancy in Kubernetes](https://www.infoq.com/presentations/multi-tenancy-kubernetes/)
 * [Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends](https://www.infoq.com/articles/kubernetes-workloads-serverless-era/)
