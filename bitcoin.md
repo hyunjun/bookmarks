@@ -302,6 +302,7 @@ Bitcoin
   * [web3/DAO의 장단점 | GeekNews](https://news.hada.io/topic?id=5696)
 * [상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부 - T Times](http://www.ttimes.co.kr/view.html?no=2022012616397756758)
 * [The Promise of DAOs, the Latest Craze in Crypto | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
+* [DAO에 대한 생각](https://www.thestartupbible.com/2022/04/some-thoughts-on-dao.html)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
 * [웹삼뽀개기](https://page.stibee.com/archives/156387)
