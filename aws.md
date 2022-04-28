@@ -276,6 +276,7 @@ AWS
 * [Building an End-to-End Serverless Data Analytics Solution on AWS](https://github.com/awskrug/serverless-data-analytics)
 * [(Troubleshooting) 내 로컬에서는 잘 되는데...? (내로잘)](https://perfectacle.github.io/2019/06/11/aws-sg-trobuleshooting)
 * [AWS와 함께 간단하게 HTTP/2 적용하기](https://evan-moon.github.io/2019/06/13/http2-with-aws/)
+* [HTTP/2 훑어보고 AWS에서 적용해보기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220424-http2-with-aws/)
 * [AWS, CloudFormation 을 사용한 WAF 자동 구축 및 운영](https://grip.news/archives/1382)
 * [AWS CloudFormation을 위한 퍼블릭 레지스트리 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-a-public-registry-for-aws-cloudformation/)
   * AWS CloudFormation을 사용할 때 서드파티의 리소스나 모듈을 가져다 쓸 수 있는 공개 레지스트리
