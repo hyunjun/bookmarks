@@ -370,6 +370,7 @@ Data Science
 * [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
 * [7 Must-Know Data Buzzwords in 2022 | by Coco Li | Kyligence | Jan, 2022 | Medium](https://medium.com/kyligence/7-must-know-data-buzzwords-in-2022-9d3d977a43f4)
 * [Data Management Trends You Need to Know - Gradient Flow](https://gradientflow.com/data-management-trends-you-need-to-know/)
+* [What is Data as a Service?. How the new Paradigm will make your… | by Christianlauer | Apr, 2022 | Medium](https://medium.com/codex/what-is-data-as-a-service-8adc912ef4b0)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
