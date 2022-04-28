@@ -770,6 +770,7 @@ Programming
 * [APIs and How to design them — All you need to know ! | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/apis-and-how-to-design-them-all-you-need-to-know-86223624229a)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
 * [Difference between GraphQL and REST API with Example](https://javarevisited.blogspot.com/2022/04/difference-between-graphql-and-rest-api.html)
+* [Federated GraphQL to Solve Service Sprawl at Major League Baseball - YouTube](https://www.youtube.com/watch?v=npQ6o1QO7D4)
 * [How to select an API Management platform for your business — part I | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-i-6b02b232f697)
 * [How to select an API Management platform for your business — part II | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-ii-407faac818f6)
 * [How to select an API Management Platform for your business — part III | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-iii-de112eec8b2c)
