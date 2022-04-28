@@ -174,6 +174,7 @@ Clojure
 * [Clojure Arcana](https://clojurearcana.com/threading-macros/)
 * [X> & x>>: auto-transducifying thread macros - Showcase - ClojureVerse](https://clojureverse.org/t/x-x-auto-transducifying-thread-macros/8122)
 * [클로저 매크로에 대해 알아보자 | 그린랩스](https://green-labs.github.io/the-macro)
+* [Threading with Style – Digital Digressions by Stuart Sierra](https://stuartsierra.com/2018/07/06/threading-with-style) ->, ->> macro
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
