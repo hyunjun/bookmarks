@@ -454,6 +454,8 @@ Business
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [Why is selling software so weird?](https://www.zeptonaut.com/posts/selling-software-is-weird/)
 * [아마존 앤디 재시의 2021년 첫 연례 주주서한 (번역) – 이바닥늬우스](https://ebadak.news/2022/04/15/andy-jassy-letter-2021/)
+* [제프 베조스의 마지막 주주서한과 앤디 제시의 첫 주주서한에 담긴 '아마존다움' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/amazonletter20220427)
+  * [제프 베조스의 마지막 주주서한과 앤디 제시의 첫 주주서한에 담긴 '아마존다움'](https://drive.google.com/file/d/1DSSVr65EcXvmA4WMYxdfNAMCQ5JLwgoj/view?usp=sharing)
 * [칼럼 | ‘트랜잭션 앱과 소비 앱’··· 기업 IT 관점의 고찰 - CIO Korea](https://www.ciokorea.com/news/232424)
 * [Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
   * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
@@ -1081,6 +1083,7 @@ Business
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
 * [혼돈의 시대 리더의 탄생 : 역경을 극복한 사람만이 리더가 된다](https://drive.google.com/file/d/1L4pKXZnvwmgUjO7ZfncdQ_kD1hHHxKXS/view?usp=sharing)
 * [내가 틀렸네요](https://jojoldu.tistory.com/658) 꼭 leadership에만 해당하는 내용이 아니라 전반적인 태도
+* [How am I Driving?](https://brunch.co.kr/@ckoopark/31) 미국에서 차량 뒤에 붙이는 "내가 운전을 잘 하고 있습니까?" -> How am I leading?
 * [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
   * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
 * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leader20210325)
