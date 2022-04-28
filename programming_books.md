@@ -1346,6 +1346,7 @@ Programming Books
 * (NOT YET) [클라우드 네이티브 패턴 - 변화에 잘 견디는 소프트웨어 개발](http://acornpub.co.kr/book/cloud-native-patterns)
 * (NOT YET) [**Istio in Action :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1574)
 * (NOT YET) [네트워크 이해 및 설계 가이드](https://jpub.tistory.com/1260)
+* (NOT YET) [서비스 개발의 시작 – 클라우드플랫폼팀 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/28/cloud-platform/)
 
 # Interview
 
