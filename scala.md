@@ -343,6 +343,8 @@ Scala
 * [Indoor Vivants:: Twotm8 (p.1): Introduction](https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction)
 * [BoundedContext - YouTube](https://www.youtube.com/watch?v=sHG-LgKr7dA) DDD
 * [Diamond Architecture - How to build HUMONGOUS apps FAST! - YouTube](https://www.youtube.com/watch?v=B6bmlh1hCLo)
+* [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 2 - YouTube](https://www.youtube.com/watch?v=IY7WglVTBFo)
+* [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -514,6 +516,7 @@ Scala
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Part 1 - YouTube](https://www.youtube.com/watch?v=PPIPGzrc2wo)
+* [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * Akka gRPC
   * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
   * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
