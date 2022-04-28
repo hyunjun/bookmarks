@@ -669,6 +669,7 @@
   * [Massive Data Processing in Adobe Experience Platform Using DeltaLake | by Jaemi Bremner | Adobe Tech Blog | Medium](https://medium.com/adobetech/massive-data-processing-in-adobe-experience-platform-using-deltalake-de5ceef2c150)
   * [Multi-Table Transactions with LakeFS and Delta Lake - YouTube](https://www.youtube.com/watch?v=OYhbwrBCM9I)
   * [Databricks Korea Lakehouse Day 0420.mp4 on Vimeo](https://vimeo.com/700753361)
+  * [Architecting for Data Quality in the Lakehouse with Delta Lake and PySpark - YouTube](https://www.youtube.com/watch?v=4K33fP46vDw)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
