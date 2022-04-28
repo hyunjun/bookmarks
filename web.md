@@ -335,6 +335,8 @@ Web
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
+* Colly [Scraping Framework for Golang](http://go-colly.org/)
+  * [GO Project for Beginners - Web Scraping with Golang - YouTube](https://www.youtube.com/watch?v=NU4OlJVj1gs)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 
 ## Crawler Javascript
