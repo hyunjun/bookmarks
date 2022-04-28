@@ -1,5 +1,6 @@
 Book
 ====
+* [“진작 이렇게 책을 읽었더라면”: 효과적인 독서법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/239455)
 * [책 추천 list](https://gist.github.com/hyunjun/b9fd286a39bd826685a1d3713fecc54d#file-from_pgr-txt)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
 * [히트 리프레시](https://www.haruair.com/blog/4521)
