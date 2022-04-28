@@ -4249,6 +4249,7 @@ Python
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
+* [Day 25 : Extract Text from PDF with Python - YouTube](https://www.youtube.com/watch?v=pURQKbM3e-E)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
