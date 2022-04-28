@@ -357,6 +357,7 @@
 * [Scala Magnet Pattern](http://blog.madhukaraphatak.com/scala-magnet-pattern/)
   * [practice - magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-magnet_pattern-md)
   * [practice - problem when no magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-problem_when_no_magnet_pattern-md)
+* [Scala OOFP Design Sample - Alexandru Nedelcu](https://alexn.org/blog/2022/04/18/scala-oop-design-sample/)
 
 # Typescript
 * [Typescript SOLID (1) - 단일책임원칙(SRP) - 완두블로그](https://wani.kr/posts/2020/03/10/typescript-solid-1-srp/)
