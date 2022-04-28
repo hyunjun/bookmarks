@@ -2298,6 +2298,7 @@ Javascript
 * [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [Node JS Tutorial | Insert Form Data into MySQL Table - YouTube](https://www.youtube.com/watch?v=2Dxk28bLc7Y)
 * [Node JS Tutorial | Update MySQL Table Data - YouTube](https://www.youtube.com/watch?v=gXF8LOOh6S0)
+* [Node JS Tutorial | Display Flash Messages using Connect-flash Module - YouTube](https://www.youtube.com/watch?v=GYm2ooHTgSg)
 * [JavaScript & Node.js](https://www.youtube.com/playlist?list=PLieE0qnqO2kSgBngBK34Yw8jNVovgNJoh)
 * [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)
 * [콜백(callback) 개념 이해하기](http://jybaek.tistory.com/728)
