@@ -191,6 +191,7 @@
   * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
 * [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
+* [Dependency Injection Explained In One Minute // Python Tips - YouTube](https://www.youtube.com/watch?v=-rf_wzK6vPU)
 * [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
   * [**파이썬 오픈소스 라이브러리 개발기**](https://hides.tistory.com/1056)
 
