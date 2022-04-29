@@ -363,6 +363,7 @@ Book
   * 2011.12.02~28
 * [십자군 이야기](https://jh4hj.tistory.com/entry/%EC%8B%AD%EC%9E%90%EA%B5%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0) 시오노 나나미
   * 2012.09.02~07, 11, 13, 18
+  * [십자군 이야기](https://github.com/hyunjun/bookmarks/blob/master/books/story_of_the_crusaders.md)
 * [고대 로마인의 24시간](https://jh4hj.tistory.com/entry/%EA%B3%A0%EB%8C%80-%EB%A1%9C%EB%A7%88%EC%9D%B8%EC%9D%98-24%EC%8B%9C%EA%B0%84)
   * 2012.09.08~10
 * [로마의 전설을 만든 카이사르 군단](https://jh4hj.tistory.com/entry/%EB%A1%9C%EB%A7%88%EC%9D%98-%EC%A0%84%EC%84%A4%EC%9D%84-%EB%A7%8C%EB%93%A0-%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4-%EA%B5%B0%EB%8B%A8)
@@ -437,6 +438,10 @@ Book
   * 출판사의 시리즈를 보니 출판사 이름 그대로(AK Trivia book) 어찌보면 잡다할 수 있고 많은 사람들이 관심을 갖지 않지만
     * 소수의 사람들에겐 재미있을 여러가지 주제를 다루는 회사로 보인다
     * 이런 취미에 관계된 영역을 전문적으로 다루는 출판사가 늘어나는 거도 사회 발전의 일면을 보여주는 걸로 생각한다
+* 탐험가의 스케치북 [종이와 물감으로 되살아난 모험의 역사 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1027290.html)
+  * [탐험가의 스케치북](https://github.com/hyunjun/bookmarks/blob/master/books/explorers_sketchbooks.md)
+* [세계사를 바꾼 16가지 꽃 이야기](https://www.youtube.com/watch?v=EkpYB8S5q9w)
+  * [세계사를 바꾼 16가지 꽃 이야기](https://github.com/hyunjun/bookmarks/blob/master/books/blooming_flowers.md)
 * [이순신의 바다](https://white109.tistory.com/entry/%ED%99%A9%ED%98%84%ED%95%84%EC%9D%98-%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-%ED%9B%84%EA%B8%B0)
   * 한라 911.0553-황94ㅇ, 탐라 문911-황94ㅇ, 우당 문911-황94ㅇ
   * ★★★★☆ 2022.04.25
