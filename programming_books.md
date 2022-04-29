@@ -109,6 +109,12 @@ Programming Books
   * 세련된 혹은 굉장히 높은 수준의 통찰력을 보여주진 않지만, 실무를 하면서 깨달은 여러가지 유용한 이야기를 간단히 얻을 수 있다
   * 예를 들어 간단히 프로토타입을 먼저 빠르게 제공하고 피드백을 신속하게 반영해 제품 완성도를 높인다는 건 전형적인 애자일 방법론
   * 이외에도 커뮤니케이션, 영업, 사업 등 프로그래머의 실력을 늘리고 시야를 넓히는 데 도움이 될 단상들을 알 수 있다. 
+* [1일 1로그 100일 완성 IT 지식](https://jhrogue.blogspot.com/2022/02/1-1-100-it.html)
+  * 우당
+  * ★★★★☆ 2022.04.25~28 Hello World의 Brian Kernihan 교수의 cs101 책
+  * [1일 1로그 100일 완성 IT 지식](https://github.com/hyunjun/bookmarks/blob/master/programming_books/understanding_the_digital_world.md)
+  * [1일 1로그 100일 완성 IT 지식. 소프트웨어가 하드웨어보다 더 저렴하고, 유연하고, 바꾸기 쉽다는 통념이… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8-100%EC%9D%BC-%EC%99%84%EC%84%B1-it-%EC%A7%80%EC%8B%9D-643f8851a85)
+  * [1일 1로그 100일 완성 IT 지식](https://jh4hj.tistory.com/entry/1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8-100%EC%9D%BC-%EC%99%84%EC%84%B1-IT-%EC%A7%80%EC%8B%9D)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -183,8 +189,6 @@ Programming Books
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
-* (NOT YET) [1일 1로그 100일 완성 IT 지식](https://jhrogue.blogspot.com/2022/02/1-1-100-it.html)
-  * 우당
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
 * (NOT YET) [마인드스톰 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/76)
