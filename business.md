@@ -444,6 +444,7 @@ Business
 * [전략 인맥 영업이 어려운 4가지 이유](http://moneyman.kr/archives/2276)
 * [면접에서 문제 해결 능력 보여주기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250779) MBA, 면접하고만 관계있는 이야기는 아님
 * [전략 단순함이 중요한 4가지 이유](http://moneyman.kr/archives/1435)
+* [현명해야 가능한 단순화 하는 능력 - 인생지름길](https://lifeshortcut.kr/%ED%98%84%EB%AA%85%ED%95%B4%EC%95%BC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8B%A8%EC%88%9C%ED%99%94-%ED%95%98%EB%8A%94-%EB%8A%A5%EB%A0%A5/)
 * [애플 때문에 몰락한 회사가 애플에 맞서는 방법 - T Times](http://www.ttimes.co.kr/view.html?no=2022031417397741570) 가민 Garmin 확고한 핵심역량, 핵심역량 확장
 * [애플의 경쟁력은 어디에서 오나 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/315)
 * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://www.folin.co/story/2104)
