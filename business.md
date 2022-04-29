@@ -461,6 +461,8 @@ Business
   * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
 * [편리함에 대해](https://www.thestartupbible.com/2022/04/some-thoughts-on-simplicity-and-irreversibility.html) 비가역적인 편리한 경험
 * [브런치북 스타트업 신입사원 가이드](https://brunch.co.kr/brunchbook/juniorguide)
+* [흥행에 성공했던 목적함수.jpg](https://brunch.co.kr/@graypool/391)
+  * 목적(purpose의 적합한 번역인지는 따로 생각해봐야 할 문제)이 조직에 영향을 미치는 영역: 수요 창출, 직원 참여, 거버넌스와 지속가능성, 전략과 비즈니스 가능성
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
