@@ -301,6 +301,7 @@ Haskell
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Has…](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
 * [N-Queens Combinatorial Problem - Polyglot FP for fun and profit - Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
 * [A New Kind of Programming: Tactic Metaprogramming in Haskell - YouTube](https://www.youtube.com/watch?v=BuEn1J90bKg)
+* [So Long Surrogates: How we moved to UTF-8 in Haskell](https://www.channable.com/tech/so-long-surrogatesa)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
