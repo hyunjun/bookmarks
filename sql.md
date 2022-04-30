@@ -214,6 +214,7 @@ SQL
 * [A database for 2022 · Tailscale](https://tailscale.com/blog/database-for-2022/)
 * [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://velog.io/@datarian/good-sql-code)
 * [Alternative to MapReduce for search in distributed databases - DEV Community](https://dev.to/tarantool/alternative-to-mapreduce-for-search-in-distributed-databases-890)
+* [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -324,6 +325,7 @@ SQL
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
 * [**Waltz: A Distributed Write-Ahead Log**](https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log)
+* [YDB — an open-source Distributed SQL Database](https://ydb.tech/)
 * [Yugabyte Cloud - Yugabyte](http://www.yugabyte.com/cloud/)
   * [Yugabyte Cloud: a Managed Distributed SQL Database](https://www.infoq.com/news/2021/10/yugabyte-cloud/)
 
@@ -935,6 +937,7 @@ SQL
 * [blog.md](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
   * Transactional DDL, Locking, Table Operations, Column Operations, Index Operations, Constraints, Enum Types, Bonus: Library for Ruby on Rails
 * [Postgres everywhere | InfoWorld](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
+* [Faster Geospatial Enrichment](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -1134,7 +1137,9 @@ SQL
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
-* [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
+* [Litestream - Streaming SQLite Replication](https://litestream.io/)
+  * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
+  * [Litestream - SQLite 스트리밍 복제 도구 | GeekNews](https://news.hada.io/topic?id=6438)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
   * [7 years of open-source database development: lessons learned - Vallified](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)
