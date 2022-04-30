@@ -1250,6 +1250,7 @@ App
 * [애플 실리콘(M1) 터미널 환경 설정하기 | ~/xo.dev](https://xo.dev/m1-terminal-environment-setup/)
 * [macOS Setup after 15 Years of Linux · HookRace Blog](https://hookrace.net/blog/macos-setup/) M1 설정
 * [Python M1 맥북에서 Python 설치하기. Apple M1 ARM 아키텍쳐에서 파이썬 3.9.1 미만의 버전을… | by chrisjune | Medium](https://chrisjune-13837.medium.com/python-m1-%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-python-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-4f0907dd5da8)
+* [How To Setup A MacBook Pro M1 For Software Development - YouTube](https://www.youtube.com/watch?v=5eSaJGSGLs0)
 * command terminal
   * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
