@@ -69,21 +69,16 @@
 * [제주에 여행 가면 찾아야 할 문화 공간 6](http://www.huffingtonpost.kr/2015/10/02/story_n_8231422.html)
 * [상상 그 이상의 제주를 만나다, 제주올레 10선](http://media.daum.net/life/outdoor/travel/newsview?newsId=20151109000212555)
 * [제주도, 3번 이상 여행한 사람들의 비밀 장소 5](https://univ20.com/10375)
-* [한대오름](http://place.map.daum.net/8134820) 가는길의 단풍이 멋진 곳
 * [제주의 상징, 신화와 오름의 본향 '송당리' 트레일](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150707195615454&RIGHT_LIFE=R4)
-* [한라산 동쪽, '오름'의 나라](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150709095818536&RIGHT_LIFE=R7)
 * [오름으로 튀어..제주 오름 트레킹 & 승마](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160118174318912)
 * [머리 위로 별이 쏟아지는 오름들](http://1boon.kakao.com/share/jejumaporm)
 * [우도에서는 지는 해를 봐야 한다](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007000810569)
-* [오름마다 은빛 억새 물결..가을이 더 아름다운 제주](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161011110210848)
-* [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)
 * [로봇스퀘어](http://place.map.daum.net/999857888)
 * [안덕면 사계리 '단산'](http://m.ihalla.com/Article/Read/1431615600499678254)
 * [노란물결이 가득한 제주도 유채꽃 스팟은?](http://1boon.kakao.com/share/rapemap)
 * [4월 제주, 풋향기 속으로](http://v.media.daum.net/v/20170323000412853)
 * [제주도에서 야생돌고래를 매일 볼 수 있는 곳](http://m.blog.naver.com/dailylooksnap/220984535991)
 * [오라2동 산 76 메밀밭](http://place.map.daum.net/195827111)
-* [제주 오름과 산책코스](https://www.clien.net/service/board/lecture/10900390?po=0&od=T31&sk=&sv=&category=&groupCd=)
 * [함덕서우봉해변](http://huni-go.tistory.com/72)
 * [제주 추천 장소](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201709170008909347&select=&query=&user=&site=&reply=&source=&sig=h6jXGf2gg3eRKfX@hca9Rg-gLmlq)
   * 정석 비행장; 벚꽃 피는 4월
@@ -105,3 +100,11 @@
 * [버려진 비밀 벙커, 미디어아트로 되살아나다](http://v.media.daum.net/v/20180606044504550)
 * 생각하는 정원 [유명인들이 제주 가면 꼭 방문, 외국 교과서에도 실렸다 제주살이를 꿈꾸는 당신에게- 한 언론인의 탐라국 일기](https://news.v.daum.net/v/20210727185100373)
 * [일본은 정말... 제주도에 이런 곳이 있을 줄이야 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002765375)
+
+## Sightseeing 오름
+* [오름나들이 - 제주 오름과 들꽃](http://www.ormstory.kr/)
+* [한라산 동쪽, '오름'의 나라](http://media.daum.net/life/outdoor/travel/newsview?newsId=20150709095818536&RIGHT_LIFE=R7)
+* [제주 오름과 산책코스](https://www.clien.net/service/board/lecture/10900390?po=0&od=T31&sk=&sv=&category=&groupCd=)
+* [오름마다 은빛 억새 물결..가을이 더 아름다운 제주](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161011110210848)
+* [제주의 숨은 길과 오름, 동검은이오름, 거슨새미오름](https://brunch.co.kr/@koreatrail/91)
+* [한대오름](http://place.map.daum.net/8134820) 가는길의 단풍이 멋진 곳
