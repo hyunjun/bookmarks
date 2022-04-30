@@ -511,6 +511,7 @@ Git
   * [Git branch 톺아보기 - branch를 확인/생성/삭제](https://xtring-dev.tistory.com/entry/Git-Git-branch-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-branch%EB%A5%BC-%ED%99%95%EC%9D%B8%EC%83%9D%EC%84%B1%EC%82%AD%EC%A0%9C)
   * [Git에서의 branch name을 대신하는 '-' (hyphen)](https://jusths.tistory.com/230)
   * [How to Delete Branches in Git | Erik August Johnson](https://www.eaj.io/articles/deleting-a-git-branch/)
+  * [How to delete all merged git branches with one terminal command](https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
