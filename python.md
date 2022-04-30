@@ -328,8 +328,6 @@ Python
 * [**파이썬 (doc) 스타일 가이드에 대한 정리**](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
-* [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
-* [Convert Text into Audio using Python - YouTube](https://www.youtube.com/watch?v=7x0QZsev-4A)
 * [Python Basics for Data Science](https://financedata.github.io/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [파이썬 Python 코딩 - SMS 문자보내기, SMS LMS API 연동 방법 - YouTube](https://www.youtube.com/watch?v=uBnOJa9_UrI)
@@ -1589,6 +1587,21 @@ Python
   * [Nathaniel J Smith - Python Concurrency for Mere Mortals - Pyninsula #10](https://www.youtube.com/watch?v=i-R704I8ySE)
   * [Trio: Structured Concurrency for Python (Alternative to Asyncio) - YouTube](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 * [vibora - Fast, asynchronous and elegant Python web framework. https://vibora.io ](https://github.com/vibora-io/vibora)
+
+# Audio, Music
+* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
+* [파이썬으로 계이름 맞히기](https://fishneverdies.tistory.com/28)
+* [Making A Synth With Python — Oscillators | Alan | Python in Plain English](https://python.plainenglish.io/making-a-synth-with-python-oscillators-2cb8e68e9c3b)
+* [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
+* [Convert Text into Audio using Python - YouTube](https://www.youtube.com/watch?v=7x0QZsev-4A)
+* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [kord: a music theory development framework in python](https://github.com/synestematic/kord)
+* [Librosa - audio and music processing in Python](https://librosa.github.io)
+  * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
+  * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
+  * [STFT and Melspectrogram in Tensorflow vs Librosa](https://colab.research.google.com/drive/1ptS1UkpHa-dW8w7WEf8xTE63mEQg8NQZ)
+* [pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub/)
+* [PySynth — A Music Synthesizer for Python](https://mdoege.github.io/PySynth/)
 
 # Automation
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
@@ -4328,18 +4341,6 @@ Python
   * [Opyrator - 파이썬 함수를 Microservice로 쉽게 만들기 | GeekNews](https://news.hada.io/topic?id=4144)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
-
-# Music
-* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
-* [파이썬으로 계이름 맞히기](https://fishneverdies.tistory.com/28)
-* [Making A Synth With Python — Oscillators | Alan | Python in Plain English](https://python.plainenglish.io/making-a-synth-with-python-oscillators-2cb8e68e9c3b)
-* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
-* [kord: a music theory development framework in python](https://github.com/synestematic/kord)
-* [Librosa - audio and music processing in Python](https://librosa.github.io)
-  * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
-  * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
-  * [STFT and Melspectrogram in Tensorflow vs Librosa](https://colab.research.google.com/drive/1ptS1UkpHa-dW8w7WEf8xTE63mEQg8NQZ)
-* [PySynth — A Music Synthesizer for Python](https://mdoege.github.io/PySynth/)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
