@@ -613,6 +613,7 @@ Linux
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
   * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
+  * [Remove grep command while grepping using ps command - nixCraft](https://www.cyberciti.biz/tips/grepping-ps-output-without-getting-grep.html)
   * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
     * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
   * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
@@ -1170,6 +1171,7 @@ Linux
   * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
+* ptyget [Daniel J. Bernstein's ptyget toolset](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
 * Radare2 [**Explore binaries using this full-featured Linux tool | Opensource.com**](https://opensource.com/article/21/1/linux-radare2) binary analysis
