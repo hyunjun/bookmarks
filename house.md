@@ -77,6 +77,7 @@ House
   * 3. 보일러 고장은 집주인이 수리해주는 것이 맞음
   * 4. 비품과 보일러 고장 등은 장충금 지급과 아무 관련이 없는 내용도 맞음
   * 5. 다만 집주인이 보일러가 매매시점부터 고장나있었다고 주장하며 장충금에서 상계를 주장할 수 있음
+* [내 돈이 남의 집 관리비로 쓰인다?..이사할때 꼭 챙기세요 부동산백서 | Daum 부동산](https://realestate.daum.net/news/detail/all/20220430080017956) 장기수선충당금 관리비예치금
 * [전세 살다가 훼손된 벽지·바닥·도어락...수리비는 누가 낼까 - 머니투데이](https://news.mt.co.kr/mtview.php?no=2021122114425657245)
 * [공간의 가치 - 한국 상업용 주거용 부동산의 구조적 이해](http://www.valueofspace.com/wordpress/)
 * ['헬조선'의 아파트는 왜 비싼가](https://storyfunding.daum.net/project/1589/episodes)
