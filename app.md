@@ -132,12 +132,14 @@ App
     * [PDF 번역 프로그램 | GeekNews](https://news.hada.io/topic?id=6141)
   * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
+  * [Look Scanned](https://lookscanned.io/)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
   * [PSPDFKit API - PDF처리용 HTTP API | GeekNews](https://news.hada.io/topic?id=6326)
   * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
+  * [스몰PDF 리뷰 : 기본에 충실한 온라인 PDF 편집 도구 - ITWorld Korea](https://www.itworld.co.kr/news/233729)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -161,6 +163,7 @@ App
     3. 600DPI로 이미지를 처리해도 책한권 파일 용량이 20메가 정도 -> OCR성능 및 가독성 향상
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
+* [Spacedrive - an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust](https://github.com/spacedriveapp/spacedrive)
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
