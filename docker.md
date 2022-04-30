@@ -582,6 +582,7 @@ Docker
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
   * [500라인으로 만드는 리눅스 컨테이너 (2016) | GeekNews](https://news.hada.io/topic?id=6122)
 * [**컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요? | GeekNews**](https://news.hada.io/topic?id=6240)
+* [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -948,6 +949,7 @@ Docker
 * [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
 * [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
 * [awesome-kubernetes-security: A curated list of awesome Kubernetes security resources](https://github.com/ksoclabs/awesome-kubernetes-security)
+* [(픽션) cloud의 kubernetes 서비스에서 숨겨둔 master 노드에 들어가기](https://gist.github.com/leoh0/1a41ff65ed3b720363382b13bbb82e3f)
 * [The race to secure Kubernetes at run time | InfoWorld](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html)
 * [SQL Injection으로부터 Kubernetes 앱 보호 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/microservices-march-protect-kubernetes-apps-from-sql-injection/)
 * [Securing Access to Kubernetes Environments with Zero Trust – The New Stack](https://thenewstack.io/securing-access-to-kubernetes-environments-with-zero-trust/)
