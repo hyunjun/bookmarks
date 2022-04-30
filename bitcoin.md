@@ -146,6 +146,7 @@ Bitcoin
 * [계정(account) 기반 블록체인에서의 개인 정보 보호 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-do-we-secure-transaction-data-in-account-base-blockchain/)
 * [DFINITY Foundation | Internet Computer](https://dfinity.org/)
 * ['환자 주도의 의료 데이터 판매' 기여하는 블록체인 - ITWorld Korea](https://www.itworld.co.kr/news/231509)
+* [블록체인 개발의 기초. 블록체인은 한 마디로 노드들의 P2P 연합입니다. 모든 노드는 블록체인… | by 이상선 | Apr, 2022 | Medium](https://medium.com/@sunyi233/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EA%B8%B0%EC%B4%88-e658993301c1)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
@@ -206,6 +207,7 @@ Bitcoin
 * [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
 * [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
 * [DSHR's Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
+* [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
