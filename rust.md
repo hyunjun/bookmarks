@@ -287,6 +287,7 @@
   * [Part 1: Building Applications using Tokio and Hyper in Rust - YouTube](https://www.youtube.com/watch?v=BXOLdr-9pl4)
   * [Tokio Axum with David Pedersen - YouTube](https://www.youtube.com/watch?v=nZLimYT4EHs)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
+* [typos: Source code spell checker](https://github.com/crate-ci/typos)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
   * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
