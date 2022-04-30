@@ -1216,6 +1216,7 @@ Programming
 * [What is Server-Driven UI? - Judo](https://www.judo.app/blog/server-driven-ui/)
 * [Server Driven UI, Part 1: The Concept | Joe Birch](https://joebirch.co/android/server-driven-ui-part-1-the-concept/)
 * [Server Driven UI, Part 2: The GraphQL API | Joe Birch](https://joebirch.co/typescript/server-driven-ui-part-2-the-graphql-api/)
+* [AUTHNZ — Authentication and Authorization in Micro-Service Architecture | by Tanya Sharma | Myntra Engineering | Mar, 2022 | Medium](https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1395,6 +1396,7 @@ Programming
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
+* [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
   * 서비스 메시는 탄력적인 연결성, L7 트래픽 관리, 보안, 관측성, 추적성 등을 제공
@@ -1937,6 +1939,8 @@ Programming
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
 * [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [CNCF Publishes State of Cloud Native Development Report](https://www.infoq.com/news/2022/01/cncf-state-of-cloud-native/)
+* [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
+* [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
@@ -1972,7 +1976,7 @@ Programming
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
-* [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
+* [사용중인 클라우드를 바꿔보신 분 ? | GeekNews](https://news.hada.io/topic?id=6341)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -1992,6 +1996,7 @@ Programming
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
   * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
+  * [왜 회사들이 Heroku를 떠나는가(비용 제외) | GeekNews](https://news.hada.io/topic?id=6460)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
@@ -2256,6 +2261,8 @@ Programming
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 * [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 * [The 7 Coding Styles That Are Dated | by Elye | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/the-7-coding-styles-that-are-dated-90eff1408d6e)
+* [dprint - Code Formatter](https://dprint.dev/)
+  * [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint/)
 
 # Compiler, Interpreter
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
@@ -2669,6 +2676,7 @@ Programming
 * [Elliptic Curve Cryptography: A Basic Introduction | Boot.dev Blog](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
 * ['고르고 고른' 네트워크·보안 전문가용 필수 리눅스 툴 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/232349)
 * [How to design a 𝐬𝐞𝐜𝐮𝐫𝐞 web API access for your website?](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6920033960039260160-VMNA/)
+* [sha 1 - How easy is it in 2022 to find a SHA1 collision? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
@@ -2833,6 +2841,7 @@ Programming
 * [interview 아이디어스팀 산증인이 말하는 개발 조직 성장기 | by Youngmin Lee | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%EC%82%B0%EC%A6%9D%EC%9D%B8%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C-%EC%A1%B0%EC%A7%81-%EC%84%B1%EC%9E%A5%EA%B8%B0-dcdd32e309c)
 * [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E) 단순히 배포 속도 향상만이 아니라 그걸 달성하기 위해 팀 조직부터 문화까지 바꾼 종합적인 이야기
 * [The Squeaky Blog | Why we don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+* [The Death of DevOps || Graham Zabel - YouTube](https://www.youtube.com/watch?v=l4YCh8Z-pmo)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -2864,6 +2873,7 @@ Programming
 
 # Failure 실패
 * [개발자 비급(祕笈) – 3. 나의 폭망한 프로젝트 답사기](http://channy.creation.net/blog/1313) 파레토 Pareto 법칙, heavy user 분석 미비로 인한 프로젝트 실패 사례
+* [기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고 | GeekNews](https://news.hada.io/topic?id=6409)
 
 # Font
 * [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
@@ -3117,6 +3127,8 @@ Programming
 * ["I hate the metaverse" ①](https://otterletter.com/i-hate-the-metaverse/)
 * [메타버스, 부동산을 먼저 선점하라!? 건축가의 메타버스와 가상공간 분석! | 유현준, 미래 공간 - YouTube](https://www.youtube.com/watch?v=J2p4li82Fdg)
 * [The metaverse could be tech’s next trillion-dollar opportunity: These are the companies making it a reality - CB Insights Research](https://www.cbinsights.com/research/metaverse-market-map/)
+  * [메타버스 산업 지도 | GeekNews](https://news.hada.io/topic?id=6357)
+  * ["메타버스 업계 지형을 한눈에"··· CB인사이츠, 프레임워크 제시 - CIO Korea](https://www.ciokorea.com/news/232774)
 * [Identity problems get bigger in the metaverse – O’Reilly](https://www.oreilly.com/radar/identity-problems-get-bigger-in-the-metaverse/)
 
 # Microsoft
@@ -3169,6 +3181,7 @@ Programming
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 * [‘매번 지적할 수도 없고...’ 오남용 심한 IT 유행어 14선 - CIO Korea](https://www.ciokorea.com/news/232569)
+* [칼럼 | 범용 DB의 귀환? 애초에 물러난 적이 없다 - CIO Korea](https://www.ciokorea.com/news/233064)
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
@@ -3569,6 +3582,7 @@ Programming
   * [3월 5주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-3-5.html)
   * [4월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/04/b-4.html)
   * [4월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-4-2.html)
+  * [4월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-4-4.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [init-news • init-news](https://news.in-it.io/)
 * [news.hada.io](https://news.hada.io/)
@@ -3893,6 +3907,7 @@ Programming
 * [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
   * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
   * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
+  * [Patching an Embedded OS from 1996 with Ghidra](http://blog.petersobot.com/patching-the-k2500)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
@@ -4363,6 +4378,7 @@ Programming
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 * [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 * [How we lost 54k GitHub stars – HTTPie blog](https://httpie.io/blog/stardust)
+* [Slack’s Incident on 2-22-22 - Slack Engineering](https://slack.engineering/slacks-incident-on-2-22-22/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
