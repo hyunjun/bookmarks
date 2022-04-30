@@ -197,6 +197,7 @@ C++
 * [C++ at the end of 2021 - C++ Stories](https://www.cppstories.com/2021/cpp-status-2021/)
 * [On finding the average of two unsigned integers without overflow - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223)
 * [Joe Zbiciak's answer to In C++, why do I get a 'Segmentation fault: 11' error when I attempt to access an array with more than 525 elements? - Quora](https://www.quora.com/In-C-why-do-I-get-a-Segmentation-fault-11-error-when-I-attempt-to-access-an-array-with-more-than-525-elements/answer/Joe-Zbiciak)
+* [Changing std::sort at Google’s Scale and Beyond – Experimental chill](https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
