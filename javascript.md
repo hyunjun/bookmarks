@@ -784,6 +784,7 @@ Javascript
 * [웹에서 Sign In With Google 사용하기 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%97%90%EC%84%9C-sign-in-with-google-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-655ae0fe8ba9)
 * [**Reliably Send an HTTP Request as a User Leaves a Page | CSS-Tricks - CSS-Tricks**](https://css-tricks.com/send-an-http-request-on-page-exit/)
   * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
+* [scrollIntoView로 스크롤 제어 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/888)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2926,6 +2927,7 @@ Javascript
 * [리액트 useEffect 개발자가 알아야 할 네가지 팁 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20200916/)
 * [useEffect를 테스트 하는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201126)
 * [Learn the React useEffect Hook - YouTube](https://www.youtube.com/watch?v=kH3_g_Njeb0)
+* [React useEffect (included api 호출) 가 있는 컴포넌트 분리 방법](https://yoonjong-park.tistory.com/entry/React-useEffect-included-api-%ED%98%B8%EC%B6%9C-%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 * [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
