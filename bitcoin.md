@@ -331,3 +331,4 @@ Bitcoin
 * [좋은 Web3 디자인을 위한 UX 원칙(2) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-2-design-principles-for-web3-85fe6024d40b)
 * [좋은 Web3 디자인을 위한 UX 원칙(3) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-3-design-principles-for-web3-cc353f47eb20)
 * [APIs in Web3 with The Graph — How It Differs from Web 2.0 – The New Stack](https://thenewstack.io/apis-in-web3-with-the-graph-how-it-differs-from-web-2-0/)
+* [Transition to web3: a guide for non-technical roles](https://guidetoweb3.xyz/)
