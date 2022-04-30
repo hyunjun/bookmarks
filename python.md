@@ -1193,6 +1193,7 @@ Python
   * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
   * [파이썬 코드 프로파일링에 유용한 라이브러리 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/176579) Time, Timeit, cProfile, Pyinstrument, Py-spy, Yappi
   * [Visualizing the Results of Profiling Python Code - Thirld Word Blog](https://thirld.com/blog/2014/11/30/visualizing-the-results-of-profiling-python-code/) pyprof2calltree pyinstrument
+  * [How to profile slow code in Python - YouTube](https://www.youtube.com/watch?v=nnkY3dcH74o)
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
