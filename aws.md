@@ -1148,6 +1148,7 @@ AWS
 
 ## Lambda java
 * [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
+* [Java and AWS Lambda - Best of frenemies?](https://www.cockroachlabs.com/blog/java-and-aws-lambda/)
 
 ## Lambda javascript
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
