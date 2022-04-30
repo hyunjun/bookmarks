@@ -174,6 +174,7 @@ Json
   * [Parsing JSON at the CLI: A Practical Introduction to `jq` (and more!) | Sequoia McDowell](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
   * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
   * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
+  * [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
 * [JQL — Rust based JSON Query Language | by Robby Boney | Short Bits | Medium](https://medium.com/short-bits/jql-rust-based-json-query-language-ed1d7c6a1ae0)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
@@ -227,6 +228,8 @@ Json
 * [spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://github.com/dcmoura/spyql)
   * [json_bench.ipynb - Colaboratory](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb)
 * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
+* [zq | Zed](https://zed.brimdata.io/docs/commands/zq/)
+  * [Introducing zq: an Easier (and Faster) Alternative to jq | Brim Data](https://www.brimdata.io/blog/introducing-zq/)
 
 # Python
 * [**JSON과 PYTHON API의 만남**](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)
