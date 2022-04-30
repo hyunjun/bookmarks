@@ -184,6 +184,8 @@ C
 * [Switch Case Statement in C | Control Statements | Lec 60 | C Programming Tutorials - YouTube](https://www.youtube.com/watch?v=MSo_s6w9O6s)
 * [Implementing cosine in C from scratch - Austin Z. Henley](https://austinhenley.com/blog/cosine.html)
 * [Brian Robert Callahan](https://briancallahan.net/blog/20220406.html)
+* [A Census of Minecraft Servers](https://blog.bithole.dev/mcmap.html)
+* [Bjørn Borud | Writing new system software](https://borud.no/notes/2021/system-software/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
