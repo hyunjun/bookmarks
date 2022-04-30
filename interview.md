@@ -223,6 +223,7 @@ Interview
 * [2021 하반기 네이버 신입 공채 후기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/12/19/Review-of-NAVER-recruitment.html)
 * [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating) interviewer의 입장에서 좋은 interview를 위한 일반론
 * [Demystifying Interviewing for Backend Engineers @ Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/demystifying-interviewing-for-backend-engineers-netflix-aceb26a83495)
+* [Netflix End of Series 1](https://www.brendangregg.com/blog/2022-04-15/netflix-farewell-1.html)
 * [실리콘밸리 소프트웨어 개발자 이직 후기](https://giunglee.notion.site/giunglee/307c67eedaa5448b92c90c1925a2c33c)
 * [What I Learned After Interviewing More Than 100 Software Engineers | by Philip Starritt | Better Programming](https://betterprogramming.pub/what-i-learned-after-interviewing-100-software-engineers-35e0454dcf4b)
 * [3-month plan for Cracking the Coding Interview | by Kanhu Panda | Feb, 2022 | Medium](https://medium.com/@techwithkp/3-month-plan-for-cracking-the-coding-interview-5534f0ad7595)
@@ -234,6 +235,7 @@ Interview
 * [내가 지금껏 봤던 최고의 엔지니어링 면접은?](https://jhrogue.blogspot.com/2022/04/b.html)
   * [The best engineering interview question I've ever gotten, Part 1 – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
   * [The best engineering interview question I've ever gotten, Part 2 – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/07/memcached-interview-solution/)
+* [How to Freaking Find Great Developers By Having Them Read Code | Freaking Rectangle](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) 코딩 인터뷰가 아닌 다른 형태의 인터뷰의 하나
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
