@@ -85,6 +85,7 @@ Finance
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
 * [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
+* [개미들만 모르는 증권사 리포트 읽는 법](https://blog.toss.im/article/desperate-shareholders-07)
 * [Invest Helper](https://investhelper.ml/) 한국 ETF 위주
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
