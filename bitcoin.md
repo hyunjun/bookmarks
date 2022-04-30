@@ -279,6 +279,11 @@ Bitcoin
 * [일본 NFT 시장 동향, 그리고 대중화를 향한 길 | by Ethan Lee | a41 Ventures | Medium](https://medium.com/a41-ventures/nft-%EC%9D%BC%EB%B3%B8-nft-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8C%80%EC%A4%91%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EA%B8%B8-7759b1a89529)
 * [The Trendy, Hot NFT Market Has a New Entrant: Patents](https://news.bloomberglaw.com/ip-law/the-trendy-hot-nft-market-has-a-new-entrant-patents)
 * [NFT 급성장 타임라인과 10가지 사건](https://blog.toss.im/article/nft-study-club-2)
+* [NFT 커뮤니티, 재미를 디자인하라. (1)](https://ansubin.com/fun-design-nft-community-1/)
+* [NFT 커뮤니티, 재미를 디자인하라. (2)](https://ansubin.com/fun-design-nft-community-2/)
+  * [NFT 커뮤니티, 재미를 디자인하라. | GeekNews](https://news.hada.io/topic?id=6449)
+* [Can NFT Technology Expand Beyond Digital Apes and Punks? – The New Stack](https://thenewstack.io/can-nft-technology-expand-beyond-digital-apes-and-punks/)
+* [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
   * 프로젝트의 범위에는 아트웍, 민팅, 웹사이트, 커뮤니티, 화이트리스트, 마켓플레이스, 리딤 등이 포함
