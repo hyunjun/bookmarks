@@ -680,6 +680,7 @@ Apache
 * [Consuming over 1 billion Kafka messages per day at Ifood | by felipe volpone | Nov, 2021 | Medium](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
 * [Kafka로 메시지와 이벤트 처리하기 - (1) Kafka 세팅하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/1/)
 * [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
+* [3 Libraries You Should Know to Master Apache Kafka in Python | by Xiaoxu Gao | Towards Data Science](https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2)
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 * [APACHE-KAFKA - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUJIIIMbWvHHrp83SrtbpgWU)
 * [Kafka NetworkClient Internals](https://d2.naver.com/helloworld/0853669)
@@ -696,7 +697,6 @@ Apache
 * [LIVE 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍 :: 3월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=PvAlbOm9WN8)
 * [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 * [대규모 데이터의 카프카 프로듀서 성능 향상 방법](https://blog.voidmainvoid.net/475)
-* [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
