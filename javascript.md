@@ -785,6 +785,7 @@ Javascript
 * [**Reliably Send an HTTP Request as a User Leaves a Page | CSS-Tricks - CSS-Tricks**](https://css-tricks.com/send-an-http-request-on-page-exit/)
   * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
 * [scrollIntoView로 스크롤 제어 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/888)
+* [How to Crop or Resize an Image With JavaScript](https://code.tutsplus.com/tutorials/how-to-crop-or-resize-an-image-with-javascript--cms-40446)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1061,6 +1062,7 @@ Javascript
 * [javascript 에서 async 와 await를 이용해 비동기 처리하기](https://devkingdom.tistory.com/336)
 * [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
 * [Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers - YouTube](https://www.youtube.com/watch?v=SLHcfmZ6m14)
+* [Why I avoid async/await. Whatever your stance on async/await… | by Cory | Mar, 2022 | Medium](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -3653,6 +3655,7 @@ Javascript
 * [Top 11 Essential React Libraries Every Web Developer Should Know to Build Sustainable Applications | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/top-11-essential-react-libraries-every-web-developer-should-know-to-build-sustainable-applications-625110f8cf66)
 * [9 React Styled-Components UI Libraries for 2019 | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
 * [21 React UI Component Libraries You Should Start Using from Today | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
+* [Top 10 React Component Libraries Every Developer Should Know](https://www.syncfusion.com/blogs/post/top-10-react-component-libraries-every-developer-should-know.aspx)
 * [aframe-react: React library for A-frame](https://github.com/belivvr/aframe-react)
   * [A-Frame을 React에서 쓸 수 있는 라이브러리를 만들었습니다. | by Juunini | BELIVVR | Dec, 2021 | Medium](https://medium.com/belivvr/a-frame%EC%9D%84-react%EC%97%90%EC%84%9C-%EC%93%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4-baa7d6f73263)
   * [@belivvr/aframe-react 라이브러리의 테스트 케이스 200개 돌파](https://velog.io/@juunini/test-case-more-then-200)
