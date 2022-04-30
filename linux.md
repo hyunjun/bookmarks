@@ -257,7 +257,7 @@ Linux
   * `yum list available <package>`
   * `yum update <package>`
   * proxy
-    * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)
+    * ~[(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)~
     * `proxy=http://x.y.z.w:port`
       * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
@@ -599,6 +599,7 @@ Linux
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
   * [Markus Mahlberg's answer to Why do experts always recommend using the command line and not the GUI (Win/Linux)? - Quora](https://www.quora.com/Why-do-experts-always-recommend-using-the-command-line-and-not-the-GUI-Win-Linux/answer/Markus-Mahlberg)
   * [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+  * [go-find: A programmatically accessible golang implementation of the *nix `find` command](https://github.com/jaytaylor/go-find)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
 * gcore [How I recovered a lost email from my email client’s memory](https://www.ctrl.blog/entry/restore-lost-email-from-ram.html)
