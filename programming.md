@@ -2111,6 +2111,7 @@ Programming
   * [Quote by Robert C. Martin: “The only way to go fast, is to go well.”](https://www.goodreads.com/quotes/9701819-the-only-way-to-go-fast-is-to-go-well)
   * [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/) 'if it hurts, do it more often' Mark Seemann
 * [지속가능한 SW 개발을 위한 코드리뷰 :: 4월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=ssDMIcPBqUE)
+  * [지속가능한 SW 개발을 위한 코드리뷰](https://jaksam.tistory.com/53)
 * [공통시스템개발팀 코드 리뷰 문화 개선 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7152/)
 * [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/)
 * [The Code Review Pyramid - Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
