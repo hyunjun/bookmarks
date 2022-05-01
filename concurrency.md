@@ -127,3 +127,4 @@ Concurrency
 * [**메모리 관점에서 본 쓰레드(thread)**](https://mooneegee.blogspot.com/2015/01/os-thread.html)
 * [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙](https://brunch.co.kr/@chris-song/95)
 * [간단하지만 강력한! 멀티스레드 디버깅 팁 (알아두면 쓸데 있음!) - YouTube](https://www.youtube.com/watch?v=7peZb57HGhY)
+* [Thread 생성부하와 TCB(Thread Control Block) - YouTube](https://www.youtube.com/watch?v=v-iM8Wd2Wd4)
