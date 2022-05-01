@@ -230,6 +230,9 @@ Interview
 * [The Big Tech Coding Interview Framework - Pt 2. Strategy](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework)
 * [The Big Tech Coding Interview Framework - Pt 3. Coding](https://fangprep.substack.com/p/the-big-tech-coding-interview-framework-cfb)
 * [이제는 달라져야 하는 코딩 테스트](https://brunch.co.kr/@godrm77/20)
+  * 코팅 테스트를 많은 회사에서 진행하고 있지만 제한된 시간에 정답을 맞추어야 하므로 결과에만 집중하게 되어 코드 품질이 저하
+  * 코딩 테스트를 공부하므로 회사도 점점 어려운 문제를 내게 되지만 어려운 문제가 실력을 검증하진 못하게 되는 문제 발생
+  * 글의 내용대로 코딩 테스트는 최상을 뽑는 게 아니라 최하를 걸러내는 수단이 되어야 해서 코딩 테스트의 허들을 낮추어야 한다는 주장
 * [프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?](https://blog.indentcorp.com/how-to-write-a-resume-and-a-programming-assignment/)
 * [내가 지금껏 봤던 최고의 엔지니어링 면접은?](https://jhrogue.blogspot.com/2022/04/b.html)
   * [The best engineering interview question I've ever gotten, Part 1 – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
