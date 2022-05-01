@@ -1052,6 +1052,12 @@ App
       * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
     * `ffmpeg -i <.mp4> [-ss 00:00:00 -to 00:11:26] -b:a 320K -vn <.mp3>`
       * [How can I convert MP4 video to MP3 audio with FFmpeg? - Super User](https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg)
+    * `ffmpeg -f image2 -framerate 25 -pattern_type sequence -start_number 214 -r 3 -i IMG_0%03d.JPG -s 3840x1774 test.avi`
+      * -start_number는 filename에 쓸 image들의 시작 번호. 즉 -start_number 214와 IMG_0%03d.JPG는 IMG_0214.JPG부터 만들기 시작
+      * -r이 frame rate, 즉 -r 3는 초당 3장
+      * 해상도(3840x1774)는 사진 해상도에 맞춰서
+      * [linux - How to create a video from images using FFmpeg? - Super User](https://superuser.com/questions/624567/how-to-create-a-video-from-images-using-ffmpeg)
+      * [돌하니 이야기 :: 여러 사진(png,jpg) 을 동영상으로 만들기](https://dolhani.tistory.com/526) 이건 사진 파일 하나(즉 animated image)를 동영상으로 바꾸는 경우
     * [FFMPEG - 깊이있는 삽질 Ubuntu Korea Community Wiki](https://wiki.ubuntu-kr.org/index.php/FFMPEG)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
@@ -1600,6 +1606,9 @@ App
   * [요즘 뜨는 노트 앱 노션(Notion) 3시간 사용기 – 마이크로소프트웨어](https://www.imaso.co.kr/archives/3810)
   * [아사나와 지라를 노션(Notion)으로 옮겨갈 수 있을까? – 마이크로소프트웨어](https://www.imaso.co.kr/archives/3871)
   * [제2회 협업 도구 세미나 개최…노션(Notion) 업무, 커뮤니티, 개인용으로 사용하기 – 마이크로소프트웨어](https://www.imaso.co.kr/archives/4057)
+  * [Notion 유저에서 파트너가 된 이야기: ① 실리콘벨리 프로덕트에 기여하기](https://fall-moon.tistory.com/12)
+  * [Notion 유저에서 파트너가 된 이야기: ② 실리콘밸리 스타트업 한국에 성공적으로 수입하기](https://fall-moon.tistory.com/18)
+  * [Notion 유저에서 파트너가 된 이야기: ③ 할 수 있을 때, 할 수 있는 만큼](https://fall-moon.tistory.com/19)
   * [notionapi](https://github.com/paullabkorea/notionapi)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
