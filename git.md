@@ -377,6 +377,10 @@ Git
 * [Github Codespaces가 Backend.AI를 만났을 때 | Lablup Blog](https://blog.lablup.com/posts/2021/09/13/backend.ai-on-codespaces)
 * [GitHub Codespace 환경 개인화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1573)
 * [Github Codespaces와 Devcontainer 톺아보기 | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=lyLvySi5tuE)
+* [Codespaces for multi-repository and monorepo scenarios | The GitHub Blog](https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/)
+  * GitHub의 클라우드 개발환경이 코드스페이스에서 마이크로서비스로 인해 개발할 때 다른 저장소가 필요한 상황이 많아서
+  * 이를 지원하기 위해 `devcontainer.json`에서 `customizations.codespaces.repositories` 키로 다른 저장소 권한 설정 가능해 저장소를 클론하기 위해 개인 엑세스 키를 설정 필요 제거
+  * 또한 모노레포 프로젝트에서는 팀마다 다른 코드스페이스 환경이 필요하기 때문에 여러 `devcontainer.json`를 지정할 수 있게 되어 `.devcontainer/${DIR}/devcontainer.json` 형식 지정 가능
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
