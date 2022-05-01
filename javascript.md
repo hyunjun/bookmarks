@@ -2097,7 +2097,7 @@ Javascript
 * [자바스크립트 패키지 매니저의 여정 | Clean Coder](https://www.cleancoder.dev/package-manager-history/) npm yarn pnpm yarn 2(berry)
 * [차세대 빌드 도구 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220127) esbuild, snowpack, vite, wmr
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884)
-* [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804)
+* [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804) 모노레포에 사용할 수 있는 도구인 Yarn(v1, v2), Lerna, Nx, Turborepo의 사용법, 특징, 차이점 설명
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -2556,6 +2556,12 @@ Javascript
 * [Using Node.js for Backend Web Development in 2022 | by MobiDev | Medium | Geek Culture](https://medium.com/geekculture/using-node-js-for-backend-web-development-in-2022-f2917c6c0a87)
 * [Start a Microservice by Building a Simple Node js App - YouTube](https://www.youtube.com/watch?v=dZkepF1Txcs)
 * [Node.js 18 is Now Available!](https://morioh.com/p/99309f2dbdb1)
+* [Node.js 18 Introduces Prefix-Only Core Modules](https://fusebit.io/blog/node-18-prefix-only-modules/)
+  * Node.js 18에서 Node.js에 내장된 코어 모듈에는 `node:` 접두사 가능
+  * 즉, `import fs from 'fs'`로 할 수도 있고 `import fs from 'node:fs'`로도 할 수 있다
+  * 이는 `node:` 접두사로 사용자 모듈이 아닌 코어 모듈이라는 것을 명시적으로 표현
+  * Node.js 18부터는 `node:` 접두사를 붙여야만 사용할 수 있는 `node:test` 테스트 러너 모듈이 추가되어서 다른 코어 모듈과 사용법이 다른 첫 모듈이 생김
+  * 이는 앞으로 Node 코어에 새로운 모듈을 만들 때 npm에 있는 기존 모듈과 충돌 방지
 * [Faster initialization of instances with new class features · V8](https://v8.dev/blog/faster-class-features)
 
 ## Node.js Library
