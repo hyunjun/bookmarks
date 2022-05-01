@@ -158,6 +158,7 @@ Programming Books
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
 * (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+  * 탐라 문005-니51ㅁ
   * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
@@ -312,6 +313,10 @@ Programming Books
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [알라딘: 코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
 * (NOT YET) [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/106)
+* (NOT YET) [문제 해결력을 높이는 알고리즘과 자료 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289274245)
+  * 탐라 문005.1-오818ㅁ
+* (NOT YET) [알고리즘으로 생각하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286801220)
+  * 탐라 문005.1-양53ㅇ
 
 # Amazon AWS
 
@@ -1123,6 +1128,10 @@ Programming Books
     * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
+* (NOT YET) [따라하며 배우는 도커와 CI 환경 | 위키북스](https://wikibook.co.kr/docker-ci/)
+  * 탐라 문005.1-안72ㄷ
+* (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
+  * 탐라 문005.1-이94ㄷ
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -2370,6 +2379,7 @@ Programming Books
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
 * (NOT YET) [사용자를 사로잡는 UX UI 실전 가이드](https://ugong2san.tistory.com/4189)
+  * 탐라 문004.78-김53ㅅ
 * (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
 
 # Window
