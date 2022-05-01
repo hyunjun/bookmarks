@@ -301,6 +301,8 @@
 * [Javascript에서도 SOLID 원칙이 통할까?](https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C)
 * [10 Design Patterns Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=tv-_1er1mWI)
 * [자바스크립트에서 객체 지향을 하는 게 맞나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1396/)
+  * 프로그래밍이 발전하면서 구조체, 클래스, 객체가 생기게 된 흐름과 객체지향 프로그래밍의 캡슐화, 추상화, 다형성, SOLID까지 간단한 예제로 쉽게 읽히게 잘 설명
+  * 뒷부분에서는 JavaScript는 브랜든 아이크가 객체지향을 좋아하지 않았기 때문에 다른 방법으로 객체지향을 할 수 있게 설계하면서 지금의 구조가 된 과정을 설명
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
