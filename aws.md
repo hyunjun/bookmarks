@@ -790,6 +790,11 @@ AWS
 * [Elastic Container Service - Service Type](https://jybaek.tistory.com/915)
 * [AWS Elastic Container Service 프레젠테이션 정리](https://jybaek.tistory.com/919)
 * [**Scaling containers on AWS in 2022 :: Vlad Ionescu**](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
+  * AWS Lambda, ECS와 EKS에서 컨테이너를 3,500개까지 띄우는 데 걸리는 시간 테스트
+  * 2020년, 2021년에 이어 2022년에도 테스트해서 AWS가 내부적으로 얼마나 빨라졌는지를 파악 가능
+  * EKS나 ECS나 EC2보다는 Fargete가 빠름
+  * ECS on Fargete의 경우는 2020년에는 70분가량, 2021년에는 20분이 걸렸는데 2022년에는 3,500개 컨테이너를 띄우는데 8분 정도로 감소
+  * EKS on ECS에서는 cluster-autoscaler보다 karpenter가 더 빠르고 IPv6를 썼을 때 약간 더 빠름
 * [AWS ECS Anywhere - Part 1 (클러스터 생성 및 외부 인스턴스 등록)](https://zigispace.net/1133)
 * [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
