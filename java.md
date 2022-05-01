@@ -144,6 +144,7 @@ Java
 * [The Decline and Fall of Java on the Desktop Part 1 (1999-2005)](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
 * [Java에서의 Emoji처리에 대해 : NHN Cloud Meetup](https://meetup.toast.com/posts/317) unicode 유니코드
 * [Google Best Practices for Java Libraries](https://jlbp.dev/)
+* [Best practices for Java in single-core containers | Red Hat Developer](https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#java_application_lifecycle)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -779,6 +780,7 @@ Java
 * [Java 15 through the eyes of a Scala programmer | by Adam Warski, SoftwareMill | SoftwareMill Tech Blog](https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492)
 * [What to Expect in Java 15. A brief look on new features in the… | by Dilan Sachintha Nayanajith | Javarevisited | Medium](https://medium.com/javarevisited/what-to-expect-in-java-15-a62d0033beb9)
 * [What’s new in Java 15 In this article, we will check what was added and removed in Java 15. | Javarevisited](https://medium.com/javarevisited/whats-new-in-java-15-70335926cc42)
+* [Handling null: optional and nullable types](https://blog.frankel.ch/optional-nullable-type/)
 
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
@@ -827,6 +829,9 @@ Java
 * ['finalize 메소드 퇴역 이후' 자바 오류를 처리하고 클린업하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/224419)
 * [Java 18 / JDK 18 : General Availability | GeekNews](https://news.hada.io/topic?id=6217)
 * [Java 18 is Now Available](https://www.infoq.com/news/2022/03/java18-released/)
+* [JDK 18 G1/Parallel/Serial GC changes](https://tschatzl.github.io/2022/03/14/jdk18-g1-parallel-gc-changes.html)
+* [Java Development in 2022: Predictions and Trends - DZone Java](https://dzone.com/articles/java-development-predictions-and-selected-trends)
+* [All About JDK 18 - Inside Java Newscast #21 // nipafx](https://nipafx.dev/inside-java-newscast-21/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -958,6 +963,7 @@ Java
 * [10분 테코톡 🎹 김김의 JVM Specification - YouTube](https://www.youtube.com/watch?v=6reapO0gLPs)
 * [Java in Containers - Part Deux](https://www.infoq.com/presentations/openjdk-containers/)
 * [Understanding the constant pool inside a Java class file](https://blogs.oracle.com/javamagazine/post/java-class-file-constant-pool)
+* [Inside JVM debug symbols | It’s All Relative](https://jpbempel.github.io/2022/03/22/jvm-debug-symbols.html)
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
@@ -1913,6 +1919,7 @@ Java
 * [테스트 코드 한 줄을 작성하기까지의 고난 – tech.kakao.com](https://tech.kakao.com/2021/11/08/test-code/)
 * [검증부 (assert / expect)는 하드코딩한다](https://jojoldu.tistory.com/615)
 * [메세지의 템플릿 내용 단위 테스트 하기](https://jojoldu.tistory.com/619)
+* [Pragmatic Behavior Driven Development Using Cucumber](https://www.madrascoder.com/tutorials/001-pragmatic-cucumber/) BDD
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)

@@ -535,6 +535,7 @@ Programming
   * [Joel Spolsky on Structuring the Web with the Block Protocol – The New Stack](https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol/)
 * [The Boring Technology Checklist - Begin](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
+* [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -681,6 +682,7 @@ Programming
 * [Scaling Agile: The Small-is-Beautiful of Hubs • James Coplien • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Va8QedfiC9k)
 * [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
+* [칼럼 | ‘스크럼폴’··· 워터폴이 애자일인 척 준동할 때 - CIO Korea](https://www.ciokorea.com/news/234289) scrumfall
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 
@@ -803,6 +805,7 @@ Programming
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | LearnApplyShare](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | MADTECH](https://tech.madup.com/openapi-generator/)
   * [Generate Server Code Using OpenAPI Generator](https://mydeveloperplanet.com/2022/02/08/generate-server-code-using-openapi-generator/)
+* [open-apis-korea: 🇰🇷 한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음](https://github.com/dl0312/open-apis-korea)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
@@ -2154,6 +2157,7 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
+* [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -2544,6 +2548,7 @@ Programming
 * [오늘부터 전공면접 IT](https://hexoul.github.io/prepare-interview-data/)
   * [오늘부터 전공면접 IT - 객관식 문제 제공 서비스 | GeekNews](https://news.hada.io/topic?id=5335)
 * [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/videos)
+* [컴퓨터 개념 및 실습_서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
@@ -3774,6 +3779,8 @@ Programming
 * [Qiskit](https://qiskit.org/)
   * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
   * [Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ldX75svJx8M)
+* [qubit: Qubit : 대화형 3D 그래픽과 함께 알아가는 양자 컴퓨터의 기본적 원리](https://github.com/suhdonghwi/qubit)
+  * [Qubit](https://qubit.donghwi.dev/)
 * Twist [Meet Twist: MIT’s Quantum Programming Language - IEEE Spectrum](https://spectrum.ieee.org/quantum-programming-language-twist)
 
 # Reactive

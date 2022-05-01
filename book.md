@@ -460,7 +460,9 @@ Book
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
 * (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
+  * 우당
 * (NOT YET) 히틀러를 선택한 나라- 민주주의는 어떻게 무너졌는가 [누가 히틀러 집권에 꽃길을 깔아줬나?](https://n.news.naver.com/mnews/article/028/0002587823)
+  * 우당
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -600,6 +602,7 @@ Book
 * [신은 위대하지 않다](https://jh4hj.tistory.com/entry/%EC%8B%A0%EC%9D%80-%EC%9C%84%EB%8C%80%ED%95%98%EC%A7%80-%EC%95%8A%EB%8B%A4)
   * 2010.05.10~13
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
+  * 한라 236.911-김78ㄱ, 우당 문236.911-김79ㄱ
 
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)

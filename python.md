@@ -1195,6 +1195,7 @@ Python
   * [Visualizing the Results of Profiling Python Code - Thirld Word Blog](https://thirld.com/blog/2014/11/30/visualizing-the-results-of-profiling-python-code/) pyprof2calltree pyinstrument
   * [How to profile slow code in Python - YouTube](https://www.youtube.com/watch?v=nnkY3dcH74o)
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
+    * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
@@ -2985,6 +2986,7 @@ Python
 * [How to Write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 * [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist in 2021 | Towards Data Science](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
+* [Low Code Python has Arrived. I started using Python for data science… | by Jake from Mito | trymito | Mar, 2022 | Medium](https://medium.com/trymito/low-code-python-has-arrived-5a5d2676b1d2) Bamboolib Lux Mito
 * [awesome-jupyter: A curated list of awesome Jupyter projects, libraries and resources](https://github.com/markusschanta/awesome-jupyter)
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
   * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)

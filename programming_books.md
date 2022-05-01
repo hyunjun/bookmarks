@@ -100,6 +100,7 @@ Programming Books
   * [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
   * [프로그래머의 뇌 · TheoryDB](https://theorydb.github.io/review/2022/04/10/review-book-programmers-brain/)
+  * [The Programmer's Brain](https://www.infoq.com/presentations/reading-code/)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
@@ -108,7 +109,7 @@ Programming Books
   * ★★★☆☆ 2022.03.14
   * 세련된 혹은 굉장히 높은 수준의 통찰력을 보여주진 않지만, 실무를 하면서 깨달은 여러가지 유용한 이야기를 간단히 얻을 수 있다
   * 예를 들어 간단히 프로토타입을 먼저 빠르게 제공하고 피드백을 신속하게 반영해 제품 완성도를 높인다는 건 전형적인 애자일 방법론
-  * 이외에도 커뮤니케이션, 영업, 사업 등 프로그래머의 실력을 늘리고 시야를 넓히는 데 도움이 될 단상들을 알 수 있다. 
+  * 이외에도 커뮤니케이션, 영업, 사업 등 프로그래머의 실력을 늘리고 시야를 넓히는 데 도움이 될 단상들을 알 수 있다.
 * [1일 1로그 100일 완성 IT 지식](https://jhrogue.blogspot.com/2022/02/1-1-100-it.html)
   * 우당
   * ★★★★☆ 2022.04.25~28 Hello World의 Brian Kernihan 교수의 cs101 책
@@ -238,6 +239,7 @@ Programming Books
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라, 우당
 * (NOT YET) [좋은 팀을 만드는 24가지 안티패턴 타파 기법 | 에이콘출판사](http://www.acornpub.co.kr/book/retrospectives-antipatterns)
+  * 한라
 
 # Algorithm
 
@@ -379,6 +381,7 @@ Programming Books
 * (NOT YET) [풀스택 서버리스 : 리액트, AWS, 그래프QL을 이용한 최신 애플리케이션 개발](https://hanbit.co.kr/store/books/look.php?p_code=B7015117381)
   * 애월, 동부
 * (NOT YET) [쉽게 배우는 AWS AI 서비스](https://hanbit.co.kr/store/books/look.php?p_code=B2949290774)
+  * 한라
 
 # Android
 
@@ -1098,10 +1101,11 @@ Programming Books
 * (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
 * (NOT YET) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
+  * 탐라 문005.11-정67ㅋ, 우당 문005.11-정67ㅋ
+  * [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
 * (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
 * (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
   * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
-* (NOT YET) [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
 * (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
 * (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
@@ -1132,11 +1136,14 @@ Programming Books
   * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
   * [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
 * (NOT YET) [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
+  * 한라 005.138-버195ㄷ
   * [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
   * [도메인 주도 설계 핵심](https://imch.dev/posts/domain-driven-design-distilled)
 * (NOT YET) [DDD START!](https://joochang.tistory.com/93)
+  * 한라 005.115-최44ㄷ
   * [<DDD Start! - 최범균> 을 읽고](https://www.reimaginer.me/entry/DDD-start-book-review)
 * (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
+  * 한라 005.115-버195ㄷ
 
 # Elasticsearch
 
@@ -1211,8 +1218,11 @@ Programming Books
 
 # Functional programming
 * (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
+  * 우당
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
+  * 한라 005.13-이25ㅎ
 * (NOT YET) 쏙쏙 들어오는 함수형 코딩 [갈수록 커지고 복잡해지는 코드, 쉽게 관리하는 방법은 없을까?](https://jpub.tistory.com/1259)
+  * 한라
 
 # Game
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
@@ -1351,6 +1361,8 @@ Programming Books
 * (NOT YET) [**Istio in Action :: Outsider's Dev Story**](https://blog.outsider.ne.kr/1574)
 * (NOT YET) [네트워크 이해 및 설계 가이드](https://jpub.tistory.com/1260)
 * (NOT YET) [서비스 개발의 시작 – 클라우드플랫폼팀 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/28/cloud-platform/)
+* (NOT YET) 클라우드 전환 그 실제 이야기 : 지속 가능한 클라우드
+  * 탐라 문004.588-공66ㅋ
 
 # Interview
 
@@ -1688,7 +1700,7 @@ Programming Books
   * 교과서적인 내용, 그만큼 실천하기 어려우면서 효과적일 수 있을 듯
   * p104 "나의 일은 모든 걸 자동화해서 내 존재의 필요성 자체를 없애는 거라고 생각해"
   * p142 PO가 개발자에게 존중받는 가장 확실한 방식은 요구사항을 명확하게 전달하는 것임을 명심하라
-  * p147 역할 구분 
+  * p147 역할 구분
     * <img src="images/product_owner.png" alt="" width="300"/>
   * p199 PO는 늘 다른 팀원보다 조금 더 멀리 내다보고 있어야 한다. 개발자나 디자이너가 궁금해하기도 전에, 최대한 미리 정의를 다 해놓고 제공하는 것이 최적화된 협업 방식이라고 생각한다
   * [프로덕트 오너. 친구는 우버라는 서비스를 사용하는 그 순간, 감동을 느꼈던 것이다. | by Jun | Oct, 2021 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%98%A4%EB%84%88-d0bedcc2335) 3번째 읽고 기록
@@ -1817,11 +1829,16 @@ Programming Books
 * (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
+  * 탐라
 * (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
+  * 탐라
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
+  * 탐라
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
+  * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 * (NOT YET) [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
+  * 탐라
 
 # Math
 
@@ -2116,9 +2133,13 @@ Programming Books
 * (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
+  * 탐라 문005.133-오43ㅍ
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
+  * 한라
 * (NOT YET) 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
+  * 탐라
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
+  * 한라
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2355,4 +2376,6 @@ Programming Books
 * (NOT YET) 실무에서 바로쓰는 파워셸
   * [<실무에서 바로쓰는 파워셸> 출간에 즈음하여](http://www.dokyun.pe.kr/223)
 * (NOT YET) [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
+  * 우당
 * (NOT YET) [효율성이 배가되는 WSL2 가이드북](https://jpub.tistory.com/1247)
+  * 우당

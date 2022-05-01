@@ -524,6 +524,7 @@ Programming Language
   * [A Major Milestone!](https://medium.com/@richardeng/a-major-milestone-a471f6c7675f)
   * [Smalltalk’s Proven Productivity](https://medium.com/smalltalk-talk/smalltalk-s-proven-productivity-fe7cbd99c061)
   * [Why Smalltalk is so easy to evangelize - ITNEXT](https://itnext.io/why-smalltalk-is-so-easy-to-evangelize-2b88b4d4605c)
+  * [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * Stella [Tackling the Awkward Squad for Reactive Programming: The Actor-Reactor Model (ECOOP 2020) - ECOOP 2020](https://2020.ecoop.org/details/ecoop-2020-papers/19/Tackling-the-Awkward-Squad-for-Reactive-Programming-The-Actor-Reactor-Model)

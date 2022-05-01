@@ -38,6 +38,7 @@ Business
   * [번역 & 요약 State of Burnout in Tech 2022 | Yerbo](https://gist.github.com/hyunjun/c36ed09d94c60d6163ab071f906a4060#file-the_state_of_burnout_in_tech_2022_edition-md)
   * [2022년 테크 업계 번아웃 실태 보고 · Soojin Ro](https://soojin.ro/blog/burnout)
   * 감정 소모 & 활력 고갈, 무능감, 냉소, 비인격화/심리적 무감각
+  * [2022년 테크 업계 번아웃 실태 보고 (번역글) | GeekNews](https://news.hada.io/topic?id=6407)
 * [How to know when to stop - by Andy Johns](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop) burnout, balance in life
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
@@ -125,6 +126,8 @@ Business
     * 실수에 대해 굉장히 안좋게(toxic) 보는 문화와 자회사들이 서로를 비난(삼성 LSI는 삼성 파운드리를, 삼성 모바일은 LSI를)
     * 삼성 LSI 경영진은 한국 노동법 개정(주 52시간제)을 탓함
     * 문화가 너무 안좋아져서, 파운드리가 수율에 대해 고객과 삼성 회장에게 거짓말을 한다는 소문까지 있음
+* [6 tips for building a successful risk-taking culture | MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture) 조직 문화
+  * [성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁 | GeekNews](https://news.hada.io/topic?id=6434)
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
@@ -232,6 +235,7 @@ Business
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [나는 회사에서 '프로'와 일하고 싶다](https://brunch.co.kr/@1slide1message/112)
+* [HR 컨설턴트가 전하는 ‘효과적인 직원 참여 전략’ - CIO Korea](https://www.ciokorea.com/news/234619) 이직하지 않고 머무르는 이유: 성장과 발전의 문화가 핵심 + 인정의 중요성
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
@@ -1125,6 +1129,7 @@ Business
   * Resource "지속적인 관심 주제"
     * 습관 형성, 프로젝트 관리, 트랜스휴머니즘, 커피, 음악, 원예, 온라인 마케팅, 검색 엔진 최적화, 인테리어 디자인
   * Archive "다른 세 범주의 비활성 항목" 포함
+* [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -1432,6 +1437,9 @@ Business
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 * [스타트업을 떠나며 알게 된 것들](https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4) 현실적인 이야기
+  * [스타트업을 떠나며... | GeekNews](https://news.hada.io/topic?id=6381)
+* [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast)
+  * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

@@ -88,6 +88,7 @@ Linux
 * [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
 * [Run Fedora Workstation (or any OS) in Mac OS Environment with an open source QEMU - YouTube](https://www.youtube.com/watch?v=oFkbLeEMwA0)
 * [Introduction | QEMU internals](https://airbus-seclab.github.io/qemu_blog/)
+* [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
@@ -759,6 +760,7 @@ Linux
   * [Is Your Linux Version Hiding Interrupt CPU Usage From You? | Tanel Poder Consulting](https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/#how-to-measure-interrupt-cpu-overhead-when-irq-time-accounting-is-disabled) /proc/stat perf
   * [**서버에 걸리는 부하, 추측하지 말고 계측하자**](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html) CPU, I/O bound
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
+  * [Where Linux's load average comes from in the kernel](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom)
   * [Network Monitoring using SAR. In this blog we will have a look at how… | by Malith Jayasinghe | Medium](https://medium.com/@malith.jayasinghe/network-monitoring-using-sar-37bab6ce9f68)
 * `scp` [How to Perform a Remote Linux Backup Using SSH](https://www.linuxshelltips.com/remote-linux-backup/)
 * screen [screen 빠르게 사용](https://jybaek.tistory.com/939)

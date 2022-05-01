@@ -85,6 +85,7 @@ Finance
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
 * [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
+* [개미들만 모르는 증권사 리포트 읽는 법](https://blog.toss.im/article/desperate-shareholders-07)
 * [Invest Helper](https://investhelper.ml/) 한국 ETF 위주
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
@@ -172,6 +173,7 @@ Finance
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
