@@ -3708,6 +3708,7 @@ Programming
   * [기술 뉴스 #194 : 22-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1585)
   * [기술 뉴스 #195 : 22-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1587)
   * [기술 뉴스 #196 : 22-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1590)
+  * [기술 뉴스 #197 : 22-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1593)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -4028,6 +4029,16 @@ Programming
   * [비밀번호 TOOL, VAULT 사용법](https://seulcode.tistory.com/174)
   * [Securing Secrets and Identity for 100,000+ Edge Devices at Starbucks with HashiCorp Vault](https://www.hashicorp.com/resources/starbucks-secrets-at-the-retail-edge-with-hashicorp-vault)
   * [How To Setup Vault In Kubernetes- Beginners Tutorial](https://devopscube.com/vault-in-kubernetes/)
+  * [Secret Management with HashiCorp Vault](https://blog.cloudflare.com/secret-management-with-hashicorp-vault/)
+    * As-is
+      * [SaltStack](https://saltproject.io/)을 이용해서 Salt Master에서 시크릿을 암호화해서 관리하다가 Salt Minion에서 복호화해 사용
+      * Kuberentes에서는 [Lockbox](https://github.com/cloudflare/lockbox)를 이용해서 암호화된 Lockbox 리소스를 Lockbox 컨트롤러가 복호화해 쿠버네티스 Secret 리소스로 생성해 사용
+      * 단점
+        * 시크릿의 범위를 제한 불가능
+        * 같은 GPG 키를 여러 서비스에서 공통 사용
+        * 정적 시크릿을 로테이션 불가능
+        * 세션 관리나 Audit 로그도 남기기 어려움
+    * 이러한 문제를 HashiCorp Vault에서는 해결해 주고 있기 때문에 SaltStack이나 Kubernetes 오퍼레이터로 Vault와 연동하는 방법을 설명
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
