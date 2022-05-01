@@ -70,6 +70,9 @@ Monitoring
 * [Utilizing Grafana & Prometheus Kubernetes Cluster Monitoring](https://adamtheautomator.com/prometheus-kubernetes/)
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
 * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
+* Grafana k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
+  * [Deployment-time testing with Grafana k6 and Flagger | Grafana Labs](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+    * 성능 테스트 도구인 Grafana k6와 Kubernetes의 블루/그린, 카나리 배포를 지원하는 [Flagger](https://flagger.app/)를 조합해서 카나리 배포에서 트래픽을 받기 전에 k6로 성능 테스트하는 방법
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
