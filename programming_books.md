@@ -1789,6 +1789,9 @@ Programming Books
     * Heuristics for Conway's Law -> Reverse Conway to mitigate worst effects
     * Patterns for team interactions
     * Triggers for change and evolution
+  * [팀 토폴로지](https://github.com/hyunjun/bookmarks/blob/master/programming_books/team_topologies.md)
+  * [팀 토폴로지. 기본적 논지는 즉, 시스템을 설계하는 조직은..… 그 조직에서 사용하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80-fb72c5baa77c)
+  * [팀 토폴로지](https://jh4hj.tistory.com/entry/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
 * [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
   * 탐라, 우당 문325.24아211ㅇ
   * ★★★☆☆ 2022.04.16
