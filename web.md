@@ -187,7 +187,15 @@ Web
 * [쿠키와 세션 - 김다은 · Present](https://present.do/presentations/6252916c12168b359e2e5f21)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [URL의 개념 - 이상선 - Medium](https://medium.com/@sunyi233/url%EC%9D%98-%EA%B0%9C%EB%85%90-6dc1a1907f71)
-* [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
+* [**URL, URI, URN: What's the Difference?**](https://auth0.com/blog/url-uri-urn-differences/)
+  * URL Uniform Resource Locator
+    * 일반적으로 우리가 말하는 링크
+    * 링크는 브라우저에서 URL를 연결하는 역할을 하기에 기술적으로 URL != 링크
+    * 글에서 URL이 scheme, authority(domain name, port), path, parameters, anchor로 이뤄진 것을 구분
+  * URI Uniform Resource Identifier
+    * URL과 URI가 모두 RFC 3986을 따르지만, URL은 리소스의 위치, URI는 리소스를 식별해주기 때문에 거의 같다고 느낄 수 있으나 실제로는 URL이 URI의 subset
+  * URN Uniform Resource Name: 리소스가 존재하지 않더라고 리소스를 식별하는 역할, 역시 URI의 subset
+* [URI, URL 및 URN의 차이점은 무엇입니까?](https://guseowhtjs.tistory.com/entry/URI-URL-%EB%B0%8F-URN%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C)
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
