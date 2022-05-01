@@ -90,6 +90,7 @@ Vim
 * xmllint [Vim에서 XML 포맷팅하기](https://rein.kr/blog/archives/5551)
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
+* [Vim Cheat Sheet](https://vim.rtorr.com/lang/ko)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
 * [Vim Genius](http://www.vimgenius.com/)
 * [vimcasts.org](http://vimcasts.org/)
