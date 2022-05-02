@@ -1688,6 +1688,10 @@ Javascript
 * [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
 * [hyperid: Uber-fast unique id generation, for Node.js and the browser](https://github.com/mcollina/hyperid)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
+* [immer: Create the next immutable state by mutating the current one](https://github.com/immerjs/immer)
+  * [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
+  * [불변 객체와 immer : NHN Cloud Meetup](https://meetup.toast.com/posts/327)
+* [immutable-js: Immutable persistent data collections for Javascript which increase efficiency and simplicity](https://github.com/immutable-js/immutable-js)
 * [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * inferno.js
   * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
@@ -1727,6 +1731,7 @@ Javascript
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [lodash: A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash)
 * [login-with-ssh - An experiment to authenticate web sessions with SSH - http://demo-ssh.32b6.com](https://github.com/altitude/login-with-ssh)
 * [Loupe - a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) 자바스크립트의 호출 스택, 이벤트 루프, 콜백 큐가 서로 어떤 과정을 거쳐 상호 작용하는지 이해하는데 도움을 주는 시각화 도구
   * 자바스크립트 call stack/event loop/callback queue를 시각적으로 볼 있는 사이트
@@ -1959,6 +1964,7 @@ Javascript
     * 다른 반응형 프로그래밍이 Transparent Reactive Programming(TRP)
       * TRP에서는 Observable과 Reaction이 기본 구성 요소인데 SolidJS도 이를 이용해서 반응형 모델을 구축
       * 이를 이용한 SolidJS의 사용 방법도 간단히 소개
+  * [SolidJS와 함께 되짚어보는 반응형 프로그래밍 : NHN Cloud Meetup](https://meetup.toast.com/posts/326)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
@@ -3436,7 +3442,6 @@ Javascript
 * [OKKY 2월 세미나 이정환(winterlood) 님의 'React 가 처음인 당신' - YouTube](https://www.youtube.com/watch?v=mfzRXKUQCvY)
 * [번역 What You Should Definitely Look Out For In React In 2022 | by Jisu Yuk | Feb, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-what-you-should-definitely-look-out-for-in-react-in-2022-babd8e02b9a1)
 * [리액트 프레임워크. 10분 완벽 정리! - YouTube](https://www.youtube.com/watch?v=RP8nvTeurbQ) next.js gatsby remix
-* [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
 * [React - 1 리액트의 특징](https://velog.io/@couchcoding/React-1-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%ED%8A%B9%EC%A7%95)
 * [React - 2 설치하기 & package.json](https://velog.io/@couchcoding/React-2-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-package.json)
 * [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
