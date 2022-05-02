@@ -1238,6 +1238,7 @@ Business
   * Adoption rate의 중요성
     * Not knowing and understanding your adoption rate is like flying blindfolded
 * [종이 한 장 차이](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-replicate-the-intricacies-of-a-great-product.html) stripe 이야기
+* [마케팅 회사](https://www.thestartupbible.com/2022/05/why-product-startups-become-marketing-companies.html) 완벽한 제품을 만들기 위해 노력하라는 이야기
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
