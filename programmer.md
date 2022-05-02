@@ -165,3 +165,4 @@ Programmer
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
 * [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/) 이직할 회사 선택 기준
 * [개발자 경험(Dex)이 주목받는 시대 | 요즘IT](https://yozm.wishket.com/magazine/detail/1436/) Developer Experience
+* [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
