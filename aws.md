@@ -1542,6 +1542,7 @@ AWS
 * [Terraform Tutorial | Automate your Infrastructure - YouTube](https://www.youtube.com/watch?v=a4ZMKgl7YA8)
 * [시애틀별다방에서 자동화를 만났다 feat. Terraform - YouTube](https://www.youtube.com/watch?v=dM_a3UPstpc) 기술적인 이야기는 아니고 비유
 * [DevOps팀의 Terraform 모험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/terraform-adventure/)
+* [확장 가능한 테라폼 코드 관리 (Scalable Terraform Code Management) - Speaker Deck](https://speakerdeck.com/posquit0/hwagjang-ganeunghan-terapom-kodeu-gwanri-scalable-terraform-code-management)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
