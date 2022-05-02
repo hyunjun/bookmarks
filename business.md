@@ -1315,6 +1315,8 @@ Business
 * [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
 * [린스타트업 MVP 설정의 어려움](https://brunch.co.kr/@graypool/10)
 * [Why Product Thinking is so Hard (and what you can do about it) - YouTube](https://www.youtube.com/watch?v=g6neBwgUds4) MVP
+* [The MVP is dead, long life to the MAP. (Minimum Awesome Product) | by Carlos Beneyto | The Startup | Medium](https://medium.com/swlh/the-mvp-is-dead-long-life-to-the-map-minimum-awesome-product-404df90fef7f)
+  * [번역 MVP는 끝났습니다. 이제는 MAP(Minimum Awesome Product) 입니다. | by Jaewang Lee | Medium](https://medium.com/@jnso5072/%EB%B2%88%EC%97%AD-mvp%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C%EB%8A%94-map-minimum-awesome-product-%EC%9E%85%EB%8B%88%EB%8B%A4-887210c38d7c)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
@@ -1464,6 +1466,7 @@ Business
 * [When users never use the features they asked for - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 * [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (1)](https://brunch.co.kr/@suzy8347/8)
 * [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (2)](https://brunch.co.kr/@suzy8347/11)
+* [고객이 원하는게 무엇인지 모르겠다면 이 방법들을 활용해보세요 - YouTube](https://www.youtube.com/watch?v=7u4puOduOMA)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
