@@ -77,6 +77,7 @@ Travel
 * [외국느낌 99% 국내 이국적 여행지 best7](https://story.kakao.com/ch/bestip/fZCUQZFnOe0)
 * [Michelin guide - Seoul 2020](https://androidkr.blogspot.com/2019/12/michelin-guide-seoul-2020.html)
 * [고즈넉한 멋이 살아있는 한옥호텔 5 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252215)
+* [커플 여행에 딱인 전주 한옥마을 숙소 BEST 3 | ㅍㅍㅅㅅ](https://ppss.kr/archives/228741)
 
 # 항공권 flgith ticket
 * [blog.naver.com/dgkim100](https://blog.naver.com/dgkim100) 항공권 검색 의뢰
