@@ -1077,6 +1077,7 @@ Docker
 * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
 * [Kubernetes at Scale without GitOps Is a Bad Idea – The New Stack](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
+* [Kubernetes Deep Dive: Kubelet. Part 24 of a series of articles about… | by Tony Li Xu | AWS in Plain English](https://aws.plainenglish.io/kubernetes-deep-dive-kubelet-e4527ed56f4c)
 * [Kubernetes Failure Stories](https://k8s.af)
 * [쿠버네티스 CRI (Container Runtime Interface) & OCI (Open container initiative)](https://bcho.tistory.com/1353)
 * [OCI OKE: Kubernetes 아키텍처 및 주요 기능](https://velucid.github.io/oci/oke/oci-oke-kubernetes-architecture.html)
