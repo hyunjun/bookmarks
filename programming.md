@@ -1984,6 +1984,7 @@ Programming
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
 * [사용중인 클라우드를 바꿔보신 분 ? | GeekNews](https://news.hada.io/topic?id=6341)
+* [AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는? | GeekNews](https://news.hada.io/topic?id=6475)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
