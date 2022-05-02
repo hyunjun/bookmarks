@@ -3591,6 +3591,7 @@ Python
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [PyBetween: Wrapper for Between - 비트윈을 위한 파이썬 라이브러리](https://github.com/lill74/PyBetween)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
+* [pyclovaocr: Unofficial Clova AI OCR Python Wrapper](https://github.com/kdrkdrkdr/pyclovaocr)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
