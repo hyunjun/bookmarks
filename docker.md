@@ -1294,7 +1294,6 @@ Docker
 * [Kubernetes Health Checks Using Probes – The New Stack](https://thenewstack.io/kubernetes-health-checks-using-probes)
 * [Will That Kubernetes v1.22 Upgrade Break My Application? | by Sachin Agarwal | Feb, 2022 | Run X](https://blog.runx.dev/will-that-kubernetes-v1-22-upgrade-break-my-application-cc339dc2e2c7)
 * [How to Make the Most of Kubernetes Environment Variables – The New Stack](https://thenewstack.io/how-to-make-the-most-of-kubernetes-environment-variables/)
-* [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
 * [Kubernetes Documentary Part 1: A Critical Review | Cloud Critical](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
 * [JENNIFER – 쿠버네티스 환경(AKS, EKS, GKE,…) 지원 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2022-02-22/)
 * [Scaling Kubernetes to Over 4k Nodes and 200k Pods | by Abdul Qadeer | The PayPal Technology Blog | Jan, 2022 | Medium](https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed)
@@ -1630,6 +1629,9 @@ Docker
 * [trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
   * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
 * [ValidKube | Validate, Clean & Secure Your K8s YAML](https://validkube.com/)
+* Velero
+  * [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
+  * [NKS: 복제 기능 소개 : NHN Cloud Meetup](https://meetup.toast.com/posts/329)
 * [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 * [Volcano](https://github.com/volcano-sh)
