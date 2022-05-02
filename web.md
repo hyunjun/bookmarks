@@ -1000,6 +1000,7 @@ Web
   * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
+* [PyScript | Run Python in your HTML](https://pyscript.net/)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
