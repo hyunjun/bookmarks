@@ -73,6 +73,7 @@ Open Source
 * [파이어폭스 번역 오류 수정 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/886)
 * [서비스 개발하다 오픈소스 기여한 썰 (1) : NHN Cloud Meetup](https://meetup.toast.com/posts/323)
 * [서비스 개발하다 오픈소스 기여한 썰 (2) : NHN Cloud Meetup](https://meetup.toast.com/posts/324)
+* [서비스 개발하다 오픈소스 기여한 썰 (완) : NHN Cloud Meetup](https://meetup.toast.com/posts/325)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
