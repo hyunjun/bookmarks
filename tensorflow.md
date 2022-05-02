@@ -799,6 +799,8 @@ TensorFlow
   * [Generating Nintendo Music Over the Phone in Python with Magenta and Twilio](https://www.twilio.com/blog/generating-nintendo-music-over-the-phone-with-magenta-and-twilio)
 * [mltest: Automatically test neural network models in one function call](https://medium.com/@keeper6928/mltest-automatically-test-neural-network-models-in-one-function-call-eb6f1fa5019d)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
+* [NVIDIA TensorRT | NVIDIA Developer](https://developer.nvidia.com/tensorrt)
+  * [tensorrt-toy: tensorrt-toy code](https://github.com/bnabis93/tensorrt-toy)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)
   * [PaddlePaddle: Baidu’s DL Framework](https://tensorflowkorea.wordpress.com/2016/08/31/paddlepaddle-baidus-dl-framework/)
   * [Run Deep Learning with PaddlePaddle on Kubernetes](http://blog.kubernetes.io/2017/02/run-deep-learning-with-paddlepaddle-on-kubernetes.html)
