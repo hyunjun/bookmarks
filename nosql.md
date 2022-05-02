@@ -543,6 +543,7 @@ NoSQL
 * [Developing an authentication system in Java+Tarantool - DEV Community](https://dev.to/tarantool/developing-an-authentication-system-in-javatarantool-35oh)
 * [Replication from scratch in five simple steps (is impossible) | by Tarantool | Apr, 2022 | Medium](https://medium.com/@tarantool/replication-from-scratch-in-five-simple-steps-is-impossible-1ef046b08216)
 * [Tarantool: Speeding Up Development With Rust - DZone Database](https://dzone.com/articles/tarantool-speeding-up-development-with-rust)
+* [Tarantool 2.10: data compression, traffic encryption, and incidents investigation | by Tarantool | May, 2022 | Medium](https://medium.com/@tarantool/tarantool-2-10-data-compression-traffic-encryption-and-incidents-investigation-28330671979f)
 
 # Terracotta
 * [Terracotta](http://terracotta.org/products/bigmemory)
