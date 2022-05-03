@@ -776,12 +776,6 @@ Python
   * [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
-* double/float
-  * [practice - float sum](https://github.com/hyunjun/practice/blob/master/python/test-float/test_float_sum.py)
-  * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
-  * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
-    * [Making floating point math highly efficient for AI hardware](https://code.fb.com/ai-research/floating-point-math/) python 관련 내용은 아니지만 참고
-  * [파이썬 내부 동작 원리: 임의 정밀도의 정수 구현](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation)
 * encoding
   * practice
     * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
@@ -1137,6 +1131,13 @@ Python
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
   * [파이썬에서 하기 쉬운 실수 #1 네임 스페이스](https://blog.naver.com/codeitofficial/221657031331)
   * [파이썬에서 하기 쉬운 실수 #2 네임 스페이스](https://blog.naver.com/codeitofficial/221659084051)
+* number, numeric types
+  * [practice - float sum](https://github.com/hyunjun/practice/blob/master/python/test-float/test_float_sum.py)
+  * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
+  * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
+    * [Making floating point math highly efficient for AI hardware](https://code.fb.com/ai-research/floating-point-math/) python 관련 내용은 아니지만 참고
+  * [파이썬 내부 동작 원리: 임의 정밀도의 정수 구현](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation)
+  * [Integer Values That Are Actually Readable // Python Tips - YouTube](https://www.youtube.com/watch?v=CBkwhzf8-bI)
 * object
   * [Mridu Bhatnagar - Object Internals - YouTube](https://www.youtube.com/watch?v=UkUY6cVxlLY)
 * os
