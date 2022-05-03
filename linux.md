@@ -193,6 +193,7 @@ Linux
 * [Fedora 리눅스 업그레이드 후 크롬의 한글 입력기 문제](https://sunyzero.tistory.com/267)
 * [Failed to initialize NVML (Fedora 리눅스)](https://sunyzero.tistory.com/272)
 * [한글입력기 nimf : Fedora33](https://sunyzero.tistory.com/273)
+* [Fedora 35 에서 youtube 재생 오류](https://sunyzero.tistory.com/277)
 
 ## 배포판 Manjaro
 * [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
