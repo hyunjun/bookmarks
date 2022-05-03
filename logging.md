@@ -57,6 +57,7 @@ Logging
 * [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance | by Ajay Gupta | IBM Cloud | Medium](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
 * [What's in a Good Error Message? - Gunnar Morling](https://www.morling.dev/blog/whats-in-a-good-error-message/)
 * [5 new sudo features sysadmins need to know in 2022 | Opensource.com](https://opensource.com/article/22/2/new-sudo-features-2022)
+* [2022 State of Observability and Log Management - YouTube](https://www.youtube.com/watch?v=x0MLPqX6toA)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
