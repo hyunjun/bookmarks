@@ -1263,6 +1263,7 @@ Business
 * [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
 * [15 Statistics You Should Know About A Career In Product Management](https://theproductmanager.com/general/statistics-career-product-management/)
 * [Product School - YouTube](https://www.youtube.com/c/ProductSchoolSanFrancisco)
+* [토스, 넥스트 애자일을 고민하다](https://blog.toss.im/article/next-agile-with-pm)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
