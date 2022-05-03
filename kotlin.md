@@ -346,3 +346,6 @@
 * [코틀린(Kotlin), 꼭 해야하나요? - 박상권의 삽질블로그](https://gun0912.tistory.com/81)
 * [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [코틀린 톺아보기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864365)
+* [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
+  * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
+  * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
