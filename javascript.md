@@ -2905,6 +2905,7 @@ Javascript
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
 * [lets-react: React tutorial written in React](https://github.com/Avantgarde95/lets-react)
+* [React Website Tutorial - Beginner React JS Project Fully Responsive - YouTube](https://www.youtube.com/watch?v=6SCYzHkve9E)
 * [Introduction to Modern React (2 Hour Course) - YouTube](https://www.youtube.com/watch?v=Siy-pU8Wzcs)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
