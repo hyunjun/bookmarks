@@ -1263,6 +1263,7 @@ Programming Books
   * [opentutorials.org/module/3733](https://opentutorials.org/module/3733)
 * (NOT YET) [팀 개발을 위한 Git・GitHub 시작하기](https://jybaek.tistory.com/874)
 * (NOT YET) [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
+* (NOT YET) [토미의 Git with 소스트리 – 토미의 개발노트 – iOS 개발관련 지식을 공유합니다](https://jusung.github.io/%ED%86%A0%EB%AF%B8%EC%9D%98-Git-%EC%B1%85%EC%86%8C%EA%B0%9C/)
 
 # Go
 
