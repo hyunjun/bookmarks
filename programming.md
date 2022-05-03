@@ -2491,6 +2491,7 @@ Programming
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
+* [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
@@ -3913,6 +3914,7 @@ Programming
 * [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
 * [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
 * [일본 1위 배달 앱, 바닥부터 다시 짠다 - Recode 프로젝트 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-demaecan-recode-project/)
+* [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
