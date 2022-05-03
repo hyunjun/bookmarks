@@ -2476,6 +2476,7 @@ Programming
 * [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
 * [How to learn CI/CD fast | GitLab](https://about.gitlab.com/blog/2022/04/13/how-to-learn-ci-cd-fast/)
 * [What is CICD Pipeline? Explanation of CICD Pipeline along with Examples. | Razorops](https://razorops.com/blog/what-is-cicd-pipeline-explanation-of-cicd-pipeline-along-with-examples/)
+* [CI/CD - How to Resolve Ubuntu Pipeline Case Sensitive Issues on Deployment - YouTube](https://www.youtube.com/watch?v=vJdi2w9hi5Y)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
