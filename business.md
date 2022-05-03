@@ -1450,6 +1450,27 @@ Business
   * [스타트업을 떠나며... | GeekNews](https://news.hada.io/topic?id=6381)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast)
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
+* JORDAN MECHNER'S [20 TIPS ON MAKING GAMES](https://jordanmechner.com/downloads/20_tips.pdf) 제목과는 달리 일반적으로도 적용할 수 있는 이야기들
+  1. Prototype and test key game elements as early as possible.
+  2. Build the game in incremental steps. Don't make big design documents.
+  3. As you go, continue to strengthen what's strong and cut what's weak.
+  4. Be open to the unexpected. Make the most of serendipity.
+  5. Make sure the player always has a goal (and knows what it is).
+  6. Give players clear, continuous feedback as to whether they're getting closer or further from a goal.
+  7. Sometimes a cheap trick is better than an expensive one.
+  8. The moment when the game first becomes playable is the moment of truth. Don't be surprised if it isn't as much fun as you expected.
+  9. Listen to the voice of criticism — it's always right (but you have to figure out in what way).
+  10. Your original vision is not sacred. It's just a rough draft.
+  11. However much you cut, you'll wish you had cut it sooner.
+  12. Don't be afraid to consider BIG changes.
+  13. Draw inspiration from life and primary sources, not just other games and fiction.
+  14. Develop personal practices that remind you to step back and see the big picture (engage the right side of your brain).
+  15. Work on paper, not just on screens.
+  16. Constraints are your friend. They force you to seek creative and elegant solutions.
+  17. When you discover what the heart of the game is, realign everything to support it.
+  18. Put your ego aside.
+  19. Keep a journal.
+  20. Nobody knows what will succeed. 
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
