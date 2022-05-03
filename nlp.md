@@ -1027,6 +1027,7 @@ NLP
   * [Building games and apps entirely through natural language using OpenAI’s code-davinci model – @AndrewMayne](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/)
     * 이 모델을 사용해 자연어로 게임을 만들도록 지시만 하고 코드는 하나도 수정 안 한 채로 만든 게임 데모 공개
 * [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
+* [블로그는 되고 뉴스는 안 된다? 말뭉치의 종류에 따른 HyperCLOVA 인컨텍스트 러닝(In-context Learning) 성능 변화 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/05/hyperclova-corpus)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
