@@ -1425,6 +1425,7 @@ App
   * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
   * [mermaid: diagram as code · /usr/lib/libsora.so](https://libsora.so/posts/mermaid-diagram-as-code/)
   * [노션 마인드맵 처럼 목표 이루는 과정 mermaid](https://blog.naver.com/tolovefeels/222628708820)
+  * [Mermaid JS: Finally There's A Great UML & Diagram Drawing Tool - YouTube](https://www.youtube.com/watch?v=JiQmpA474BY)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
