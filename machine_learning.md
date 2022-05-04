@@ -1263,6 +1263,7 @@ Machine Learning
 * [MODUCON 2021 글로벌 넘버원이 되기위한 MLOps Learning Path-박찬성Development Enviroment - 개발환경 - YouTube](https://www.youtube.com/watch?v=0O79Hrj3Xq4)
 * [모두의 MLOps (1) MLOps에 첫걸음을 내딛는 분들을 위한 지침서 | by Jongseob Jeon | We’re Team MakinaRocks! | Jan, 2022 | Medium](https://medium.com/makinarocks/%EB%AA%A8%EB%91%90%EC%9D%98-mlops-1-mlops%EC%97%90-%EC%B2%AB%EA%B1%B8%EC%9D%8C%EC%9D%84-%EB%82%B4%EB%94%9B%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A7%80%EC%B9%A8%EC%84%9C-ac2740ccd4eb)
 * [모두의 MLOps (2) MLOps의 단계와 단계별 핵심 기능 | by Jongseob Jeon | We’re Team MakinaRocks! | Mar, 2022 | Medium](https://medium.com/makinarocks/%EB%AA%A8%EB%91%90%EC%9D%98-mlops-2-mlops%EC%9D%98-%EB%8B%A8%EA%B3%84%EC%99%80-%EB%8B%A8%EA%B3%84%EB%B3%84-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-2b0054e28cd0)
+* [모두의 MLOps (3) 머신러닝에서의 파이프라인이란. 모두의 MLOps 시리즈 3편. 이번 포스팅에서는 파이프라인이란… | by Jongseob Jeon | We’re Team MakinaRocks! | May, 2022 | Medium](https://medium.com/makinarocks/%EB%AA%A8%EB%91%90%EC%9D%98-mlops-3-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%97%90%EC%84%9C%EC%9D%98-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%B4%EB%9E%80-56b22dac221)
 * [MLOps정의와 다양한 도구들-1 | Lablup Blog](https://blog.lablup.com/posts/2022/01/27/MLOps)
 * [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 * [MLOps란? MLOps 로드맵 및 MLOps 취업에 대한 생각 | MLOps 강의 추천 있음 - YouTube](https://www.youtube.com/watch?v=xZKtofBe18I)
