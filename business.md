@@ -1473,6 +1473,7 @@ Business
   18. Put your ego aside.
   19. Keep a journal.
   20. Nobody knows what will succeed. 
+* [사업에서 속력은 그 무엇보다 중요하다](http://moneyman.kr/archives/4670)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
