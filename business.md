@@ -200,6 +200,7 @@ Business
 * [팀원들의 시간을 뺏는 '가짜 일' : 네이버 블로그](https://blog.naver.com/collabee/222377281888)
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
 * [사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북](https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310)
+* [“자율적 조직문화 강화, 일하는 방식 효율화에서 시작”](https://www.hrinsight.co.kr/view/view.asp?in_cate=112&bi_pidx=33783)
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [행복한 회사가 어디 있나요 구글코리아, 혁신을 만드는 구글의 조직문화 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/02/10/googlekorea-interview/)
 * [구글이 직원들의 업무 능력을 상승시킨 비결 – 체인지그라운드](http://thechangeground.com/archives/21926)
@@ -732,6 +733,7 @@ Business
   * [buy in, 동의와 지지 얻어내기](https://gist.github.com/hyunjun/393e0e8e8f20af27a27b898c82b3951c#file-buy_in-md)
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
+* [화상회의, 카메라를 켜야할까? | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/524/page/1)
 * [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
   * text가 아니라 context를 전달하라. 6 pager와 마찬가지 맥락
   * content를 파편화시키지 말고 통합된 경로로 모아야 함(그 수단이 보통 confluence wiki). e.g. 첨부파일 X
