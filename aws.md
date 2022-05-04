@@ -658,6 +658,7 @@ AWS
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [DevOps-The-Hard-Way-AWS: This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
+* [:: General Webapps Workshop](https://general-webapp.workshop.aws/)
 * [joinc.co.kr/w/man/12/aws](https://www.joinc.co.kr/w/man/12/aws)
   * [joinc.co.kr/w/man/12/aws/study](https://www.joinc.co.kr/w/man/12/aws/study)
   * [Multi-tier 아키텍처](https://www.joinc.co.kr/w/man/12/aws/architecture/multitier)
