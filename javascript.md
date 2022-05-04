@@ -3398,6 +3398,7 @@ Javascript
   * 18의 새로운 기능으로는 자동 배칭, 업데이트의 중요도를 구분할 수 있는 Transition, 로딩 상태를 선언적으로 지정할 수 있는 Suspense, 새 클라이언트/서버 렌더링 API
 * [React v18 살펴보기 | funes-days](https://funes-days.com/dev/react-18)
 * [번역 React v18.0. 원문… | by Jisu Yuk | Apr, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-react-v18-0-9da9a6b838bd)
+* [React 18 버전의 실상을 파헤치다. - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/05/03/react-18-%EB%B2%84%EC%A0%84%EC%9D%98-%EC%8B%A4%EC%83%81%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
