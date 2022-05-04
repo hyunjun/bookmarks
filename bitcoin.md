@@ -214,6 +214,7 @@ Bitcoin
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
   * [Ethereum ditching Solidity for Vyper?(이더리움은 바이퍼 때문에 솔리디티를 버렸나?)](https://medium.com/@elastic7327/ethereum-ditching-solidity-for-vyper-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EB%B0%94%EC%9D%B4%ED%8D%BC-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%EB%A5%BC-%EB%B2%84%EB%A0%B8%EB%82%98-a47434e02d56)
 * [Web3.js를 브라우저에서 사용 - 이상선 - Medium](https://medium.com/@sunyi233/web3-js%EB%A5%BC-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9-45690df06b5c)
+* [Web3.js를 Node.js에서 사용 - 이상선 - Medium](https://medium.com/@sunyi233/web3-js%EB%A5%BC-node-js%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9-7c725d71da03)
 
 # Libra
 * [Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people. https://libra.org ](https://github.com/libra/libra)
