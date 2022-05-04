@@ -750,6 +750,7 @@ Business
 * [5 Tips For Asking Smart Questions At Work | by Kanika Modi | Mar, 2022 | Medium](https://iamkanikamodi.medium.com/5-tips-for-asking-smart-questions-at-work-2ffc59d9a891) 좋은 질문하기
 * [이메일 수업](https://www.thestartupbible.com/2022/03/we-might-have-to-teach-email-communication-101-class-in-schools.html) 이메일의 장점 + 쓰기 커뮤니케이션의 중요성
 * [Error 당신의 공감이 작동하지 않습니다 | 원티드](https://www.wanted.co.kr/events/22_03_s07_b01)
+* [커뮤니케이션이 어려울 때 꺼내 읽기 좋은 이야기](https://brunch.co.kr/@cliche-cliche/148)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
