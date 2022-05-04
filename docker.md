@@ -800,6 +800,7 @@ Docker
   * Python, npm, Terraform 등 다른 생태계에서도 버전을 지정할 것을 권장하고 lock 파일도 꼭 커밋해서 관리할 것을 권장
   * [:latest 를 사용하지 마세요 | GeekNews](https://news.hada.io/topic?id=6097)
 * [`COPY --chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
+* [Dockerfiles now Support Multiple Build Contexts - Docker](https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -1233,6 +1234,7 @@ Docker
 * [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
 * [How to create Kubernetes YAML files | by Piotr | Oct, 2021 | ITNEXT](https://itnext.io/how-to-create-kubernetes-yaml-files-abb8426eeb45)
 * [How to create Kubernetes YAML files | Hacker Noon](https://hackernoon.com/how-to-create-kubernetes-yaml-files)
+* [Don't Write Your Own Kubernetes YAML Generator](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
 * [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
 * [Native-k8s(Ubuntu) - Sep 07 2021 - k8s](https://sysnet4admin.gitbook.io/k8s/version/native-k8s-ubuntu-sep-07-2021)
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
