@@ -1750,6 +1750,7 @@ Docker
   * [Run containers on Linux without sudo in Podman | Opensource.com](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
   * [How Podman can transfer container images without a registry | Enable Sysadmin](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
     * [Podman, Registry 없이 컨테이너 이미지 전송 가능 | GeekNews](https://news.hada.io/topic?id=6175)
+  * [당신의 컨테이너 이미지가 더 작아야 하는 이유를 알고 계시나요? - NGINX STORE](https://www.nginxplus.co.kr/best-practices/building-smaller-container-images/)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
   * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
