@@ -4154,6 +4154,8 @@ Programming
   * [고객의 불편함이 제품으로 되기까지 - Airbridge API 팀의 개발 프로세스 | GeekNews](https://news.hada.io/topic?id=6273)
 * [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)
 * [Knowing when to say 'no'](https://github.com/readme/guides/decision-framework) 기술적인 부분보다 업무 태도나 communication에 대한 이야기로 볼 수 있긴 함
+* [Software Engineering – Then, Now, and Next - YouTube](https://www.youtube.com/watch?v=w1uzR0Lg7Q8)
+  * [Software Engineering – Then, Now, and Next](https://www.infoq.com/presentations/software-engineering-change-digital-scale/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
