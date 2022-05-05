@@ -3835,6 +3835,7 @@ Javascript
   * [Next.js에서 Autoprefixer 사용해볼까요~? - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12285874)
   * [How to use SWR in Next JS - client-side data-fetching technique](https://cloudcoders.xyz/blog/how-to-use-swr-in-next-js-client-side-data-fetching-technique/)
   * [Next.js 12 Upgrade와 CDN 배포 | 천명 기술 블로그 | by Kim Hyeon Gyu | chunmyung | May, 2022 | Medium](https://medium.com/chunmyung/next-js-12-upgrade%EC%99%80-cdn-%EB%B0%B0%ED%8F%AC-%EC%B2%9C%EB%AA%85-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-de891e279e39)
+  * [브라우저 가로폭에 따른 세로 박스 비율 유지하기 - Devil Styled Sheets - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12015149)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
