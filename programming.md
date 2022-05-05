@@ -683,6 +683,7 @@ Programming
 * [프로덕트 디자인팀 2022.1Q 회고 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%80-2022-1q-%ED%9A%8C%EA%B3%A0/)
 * [Airbnb at Scale - YouTube](https://www.youtube.com/watch?v=pnHiVFYpLzs)
 * [칼럼 | ‘스크럼폴’··· 워터폴이 애자일인 척 준동할 때 - CIO Korea](https://www.ciokorea.com/news/234289) scrumfall
+* [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 
