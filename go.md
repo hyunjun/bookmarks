@@ -593,6 +593,7 @@ Go
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
+* [go-authentication-api: An authentication API developed in Go language](https://github.com/Edmartt/go-authentication-api)
 * [goawk: A POSIX-compliant AWK interpreter written in Go](https://github.com/benhoyt/goawk)
   * [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
 * [go-bit: A library to read/write bits array like binary.Read/Write](https://github.com/nokute78/go-bit)
