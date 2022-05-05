@@ -681,6 +681,7 @@ Javascript
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
 * [Number.toHumanify](https://codepen.io/myso-kr/pen/wZMpXY)
 * [Javascript refactoring workshop](https://www.slideshare.net/jaehoonoh/javascript-refactoring-workshop)
+* [안정적인 SPA 리팩터링을 위한 준비 전략 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220503)
 * [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
 * [JavaScript Mistakes — Expressions](https://medium.com/javascript-in-plain-english/javascript-mistakes-expressions-9b86d7591a9e)
 * [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
