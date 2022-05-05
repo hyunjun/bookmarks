@@ -45,6 +45,7 @@ Presentation
 * [Our 80 Favorite PowerPoint Keyboard Shortcuts (That Save Time)](https://nutsandboltsspeedtraining.com/powerpoint-tutorials/80-favorite-powerpoint-keyboard-shortcuts/)
 * [Creating effective slides: Design, Construction, and Use in Science - YouTube](https://www.youtube.com/watch?v=meBXuTIPJQk)
 * [The 10/20/30 Rule of PowerPoint - Guy Kawasaki](https://guykawasaki.com/the_102030_rule/)
+* [아직도 PPT와 텍스트로 보고하나요? 그렇다면 비주얼싱킹 - T Times](https://www.ttimes.co.kr/article/2022050418257792651)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
