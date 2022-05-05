@@ -1809,6 +1809,11 @@ Programming Books
   * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
   * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
   * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
+* [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
+  * 탐라
+  * ★★★★☆ 2022.05.01~05
+  * [The Startup Way | A framework for entrepreneurial management | The Startup Way](http://thestartupway.com/)
+  * [Home | Lean Startup Co.](https://leanstartup.co/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1839,8 +1844,6 @@ Programming Books
   * 한라
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
   * 한라, 탐라
-* (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
-  * 탐라
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라
 * (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
