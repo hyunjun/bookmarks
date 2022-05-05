@@ -2182,6 +2182,8 @@ CVPR2016)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [Deep Visual-SLAM의 미래 0 (Deep-SLAM의 시작)](https://cv-learn.com/Deep-Visual-SLAM-0-Deep-SLAM-603a26c47c3848a88b90559d273f95dc)
 * [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
+* [self-supervised-learning-narratives-1: 거꾸로 읽는 self-supervised learning 파트 1](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
+  * [AI 코드 이야기 Deep Adaptive Clustering 코드분석! - YouTube](https://www.youtube.com/watch?v=Yp9GgiBKzts)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
