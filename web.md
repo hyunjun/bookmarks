@@ -634,6 +634,7 @@ Web
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Stop Using REST For APIs. GraphQL Is Way Better | by Harsha Vardhan | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-rest-for-apis-d697727ae6dd)
 * [GraphQL과 REST의 차이점 | Hwasurr's Devlog](https://hwasurr.io/api/rest-graphql-differences/)
+* [Cloud Transparency Platform GraphQL API - GraphQL API](https://graphql.cloud-mercato.com/)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
