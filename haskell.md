@@ -415,6 +415,7 @@ Haskell
   * [HLint --cross was accidentally quadratic](https://neilmitchell.blogspot.com/2020/05/hlint-cross-was-accidentally-quadratic.html)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * [IHP: Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies](https://ihp.digitallyinduced.com/)
+  * [ihp: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness](https://github.com/digitallyinduced/ihp)
 * [inline-java - Calling to the JVM from Haskell: Some benchmarks](https://www.tweag.io/blog/2020-06-11-inline-java-benchmarks/)
 * [it-has - A Generic implementation of data-has](https://github.com/dnikolovv/it-has)
 * [knit ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
