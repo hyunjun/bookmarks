@@ -1253,6 +1253,7 @@ Business
     * Not knowing and understanding your adoption rate is like flying blindfolded
 * [종이 한 장 차이](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-replicate-the-intricacies-of-a-great-product.html) stripe 이야기
 * [마케팅 회사](https://www.thestartupbible.com/2022/05/why-product-startups-become-marketing-companies.html) 완벽한 제품을 만들기 위해 노력하라는 이야기
+* [토스의 링크페이를 쓰고 받은 충격의 카오스...](https://www.linkedin.com/posts/jeabinleedescartes_%EC%95%88%EC%A0%84%ED%95%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B1%B0%EB%9E%98-%EB%A7%81%ED%81%AC%ED%8E%98%EC%9D%B4-activity-6925263923038367744-ohLF/) 토스란 회사의 문화에 대해서는 불호이나 이런 product에 대한 태도와 실력은 정말 본받아야 한다고 생각함
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
