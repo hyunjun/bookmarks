@@ -962,6 +962,7 @@ Go
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [mux: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux)
   * [CRUD in Golang REST API with Mux & GORM - Comprehensive Guide](https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/)
+  * [Golang / Go Crash Course 01 | Building a REST API with Mux - YouTube](https://www.youtube.com/watch?v=kd-8mb6HfGA)
 * [notes: A REST API backend application that can be used to manage personal notes in a multi-user environment](https://github.com/Uzama/notes)
 * [password-service](https://github.com/jruben-rg/password-service)
 * [pglet: Pglet - build internal web apps quickly in the language you already know!](https://github.com/pglet/pglet)
