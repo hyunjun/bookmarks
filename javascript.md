@@ -787,6 +787,7 @@ Javascript
   * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
 * [scrollIntoView로 스크롤 제어 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/888)
 * [How to Crop or Resize an Image With JavaScript](https://code.tutsplus.com/tutorials/how-to-crop-or-resize-an-image-with-javascript--cms-40446)
+* [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1828,6 +1829,7 @@ Javascript
   * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
   * [Nest.js ConfigService를 주입받는 UseCase 테스트하기 | 강준영 기술 블로그](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
+  * [Bank API as Microservices with CQRS in TypeScript | Level Up Coding](https://levelup.gitconnected.com/microservices-with-cqrs-in-typescript-and-nestjs-5a8af0a56c3a)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
@@ -3837,6 +3839,7 @@ Javascript
   * [How to use SWR in Next JS - client-side data-fetching technique](https://cloudcoders.xyz/blog/how-to-use-swr-in-next-js-client-side-data-fetching-technique/)
   * [Next.js 12 Upgrade와 CDN 배포 | 천명 기술 블로그 | by Kim Hyeon Gyu | chunmyung | May, 2022 | Medium](https://medium.com/chunmyung/next-js-12-upgrade%EC%99%80-cdn-%EB%B0%B0%ED%8F%AC-%EC%B2%9C%EB%AA%85-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-de891e279e39)
   * [브라우저 가로폭에 따른 세로 박스 비율 유지하기 - Devil Styled Sheets - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12015149)
+  * [Runtime 환경 변수 설정으로 빌드 프로세스 개선하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-runtime-environment/)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
