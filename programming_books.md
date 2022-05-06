@@ -121,6 +121,7 @@ Programming Books
   * ★★★☆☆ 2022.05.06
   * [누가 IT시장 취업에 성공하는가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/who_will_succeed.md)
   * [누가 IT시장 취업에 성공하는가. 저자가 java 전문가라 약간 치우친 경향도 있고, 또 기술적인 내용은… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%88%84%EA%B0%80-it%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80-91650eda058b)
+  * [누가 IT 시장 취업에 성공하는가](https://jh4hj.tistory.com/entry/%EB%88%84%EA%B0%80-IT-%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -1817,6 +1818,12 @@ Programming Books
   * ★★★★☆ 2022.05.01~05
   * [The Startup Way | A framework for entrepreneurial management | The Startup Way](http://thestartupway.com/)
   * [Home | Lean Startup Co.](https://leanstartup.co/)
+* IT 개발자가 쓴 통쾌한 인간 관리 이야기
+  * 한라
+  * ★★★☆☆ 2022.05.06
+  * [IT 개발자가 쓴 통쾌한 인간관리 이야기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/managing_humans.md)
+  * [IT 개발자가 쓴 통쾌한 인간관리 이야기. Rands in Repose | by Jun | May, 2022 | Medium](https://nymets.medium.com/it-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%93%B4-%ED%86%B5%EC%BE%8C%ED%95%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0-4768af79407e)
+  * [IT 개발자가 쓴 통쾌한 인간관리 이야기](https://jh4hj.tistory.com/entry/IT-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%93%B4-%ED%86%B5%EC%BE%8C%ED%95%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1840,8 +1847,6 @@ Programming Books
 * (NOT YET) 피플웨어
   * 우당 문325.3디31ㅍ
 * (NOT YET) 하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가
-  * 한라
-* (NOT YET) IT 개발자가 쓴 통쾌한 인간 관리 이야기
   * 한라
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
