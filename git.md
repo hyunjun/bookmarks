@@ -441,6 +441,7 @@ Git
   * `hub pr checkout`, `git stat`, `git heatmap`, `git depgraph`, `git review`, `git reviewone`
 * [About basic Git commands. Git is an open-source distributed… | by Jony Choi | Jan, 2022 | Medium](https://jonychoi.medium.com/about-basic-git-commands-6bdad9cfc8fa)
 * [5 Git Commands pro should know #youtubeshort #gitcommand #Shorts #command #Git #viral - YouTube](https://www.youtube.com/watch?v=YaPihR2Y6nI)
+* [실무에서 사용하는 명령어들을 빠르게 알아보자 (1)](https://velog.io/@couchcoding/Git-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%93%A4%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
