@@ -998,6 +998,7 @@ Scala
     * [Zero-to-ZIO | Alteration x10](https://alterationx10.com/2022/02/01/zero-to-zio/)
     * [About capture checking. in scala 3 | by Oleg Nizhnik | Feb, 2022 | Medium](https://medium.com/@odomontois/several-days-ago-we-saw-the-new-experimental-feature-called-capture-checking-was-announced-in-e4aa9bc4b3d1)
     * [Grokking ZIO. After a long evolutionary journey, the… | by Murray Todd Williams | Apr, 2022 | Medium](https://murraytodd.medium.com/grokking-zio-ac8fed5e6528)
+    * [Building High-Performance Notification Engine Using Pure Functional Scala, ZIO HTTP, ZIO Kafka. Event-Driven Architecture. | LinkedIn](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
