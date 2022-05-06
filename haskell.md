@@ -303,6 +303,7 @@ Haskell
 * [A New Kind of Programming: Tactic Metaprogramming in Haskell - YouTube](https://www.youtube.com/watch?v=BuEn1J90bKg)
 * [So Long Surrogates: How we moved to UTF-8 in Haskell](https://www.channable.com/tech/so-long-surrogatesa)
 * [11 Companies That Use Haskell in Production](https://serokell.io/blog/top-software-written-in-haskell)
+  * [Haskell을 Production에서 사용중인 회사들 | GeekNews](https://news.hada.io/topic?id=6497)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
