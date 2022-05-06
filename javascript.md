@@ -2556,6 +2556,7 @@ Javascript
   * [slack](https://okdevtv.com/mib/slack)
 * [42slack-bot](https://github.com/innovationacademy-kr/42slack-bot)
   * [📥슬랙 봇 만들기 #1 - YouTube](https://www.youtube.com/watch?v=QUt-52U9nR4)
+* [임금님 귀는 당나귀 귀! 대나무숲 슬랙 앱 만들기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/05/07/Bamboo-Forest-Slack-App.html)
 * [NodeJS Get 과 Post 의 Parameter 와 QueryString 전달 방법](https://developer88.tistory.com/376)
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
 * [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
