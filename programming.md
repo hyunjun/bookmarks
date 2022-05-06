@@ -1339,6 +1339,7 @@ Programming
 * [도메인 스토리에서 참여와 비전을 이끌어내기](https://brunch.co.kr/@graypool/451)
 * [초점 주변의 이야기까지 스토리 텔링하기](https://brunch.co.kr/@graypool/452)
 * [도메인 스토리의 적절한 구도 잡기](https://brunch.co.kr/@graypool/454)
+* [도메인 스토리와 개인 업무의 이중 구조](https://brunch.co.kr/@graypool/457)
 * [Work Objects란 무엇인가?](https://brunch.co.kr/@graypool/446)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
