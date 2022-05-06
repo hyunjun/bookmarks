@@ -2528,6 +2528,7 @@ Python
 * [Flask 에 uwsgi 서버 적용하기](https://woolbro.tistory.com/94)
 * [Infra flask, nginx, uwsgi 연동하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/flask-nginx-uwsgi/)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
+* [Dockerize Flask API application with Dockerfile and Docker Compose - YouTube](https://www.youtube.com/watch?v=6E-F9KLnhb8)
 * [Containerizing Python Web Application | by Srinaveen Desu | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/containerizing-python-web-application-1052e61cf201) dockerfile
 * [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
