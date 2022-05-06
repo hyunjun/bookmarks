@@ -116,6 +116,11 @@ Programming Books
   * [1일 1로그 100일 완성 IT 지식](https://github.com/hyunjun/bookmarks/blob/master/programming_books/understanding_the_digital_world.md)
   * [1일 1로그 100일 완성 IT 지식. 소프트웨어가 하드웨어보다 더 저렴하고, 유연하고, 바꾸기 쉽다는 통념이… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8-100%EC%9D%BC-%EC%99%84%EC%84%B1-it-%EC%A7%80%EC%8B%9D-643f8851a85)
   * [1일 1로그 100일 완성 IT 지식](https://jh4hj.tistory.com/entry/1%EC%9D%BC-1%EB%A1%9C%EA%B7%B8-100%EC%9D%BC-%EC%99%84%EC%84%B1-IT-%EC%A7%80%EC%8B%9D)
+* [누가 IT시장 취업에 성공하는가: 신입 경력 지원자와 면접관을 위한 지침서](https://roadbook.co.kr/252)
+  * 한라
+  * ★★★☆☆ 2022.05.06
+  * [누가 IT시장 취업에 성공하는가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/who_will_succeed.md)
+  * [누가 IT시장 취업에 성공하는가. 저자가 java 전문가라 약간 치우친 경향도 있고, 또 기술적인 내용은… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%88%84%EA%B0%80-it%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80-91650eda058b)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -132,8 +137,6 @@ Programming Books
   * 2018.10 탐라
 * (NOT YET) 우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기
   * 2018.10 탐라
-* (NOT YET) [누가 IT시장 취업에 성공하는가: 신입 경력 지원자와 면접관을 위한 지침서](https://roadbook.co.kr/252)
-  * 한라
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
