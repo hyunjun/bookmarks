@@ -123,6 +123,7 @@ Docker
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Top 8 Docker Best Practices for using Docker in Production - YouTube](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
 * [Top 5 Docker Best Practices - DEV Community](https://dev.to/karanpratapsingh/top-5-docker-best-practices-57oh)
+* [Local Docker Best Practices | Viget](https://www.viget.com/articles/local-docker-best-practices/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 | 소용환의 생각저장소](https://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
