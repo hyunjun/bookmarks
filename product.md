@@ -48,6 +48,7 @@ Product
 * [캡슐 토이를 파해쳐 보자 #2 - 후치코](https://brunch.co.kr/@jaedi/23)
 * [공기 위에 눕다, 야외용 간이 침대](http://www.earlyadopter.co.kr/68554)
 * [이런 멀티탭도 있다고? - 베스트5 - YouTube](https://www.youtube.com/watch?v=KQQxxoH39b8)
+* [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
