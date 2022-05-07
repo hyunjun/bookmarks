@@ -678,6 +678,10 @@ Machine Learning
 * [Agile Data Science - How to Implement Agile Workflows For Analytics and Machine Learning - YouTube](https://www.youtube.com/watch?v=b6gniYc1sJk)
 * [머신러닝, 딥러닝 대체 뭘 공부하라는거야?](https://velog.io/@dongyi/WhatShouldIDoForAI)
 * [Machine Learning is Still Too Hard for Software Engineers – Nyckel – Add custom machine learning to your application in minutes](https://www.nyckel.com/blog/ml-too-hard-for-software-developers/)
+* [Two Types of Information Leakage In ML Systems](https://blog.fennel.ai/p/two-types-of-information-leakage)
+* [Real-time machine learning: challenges and solutions](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+* [PolyCoder is an open source AI code-generator that researchers claim trumps Codex | VentureBeat](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/)
+* [How to Improve Any ML/DL Performance by 10% Easily | by Gurami Keretchashvili | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-improve-any-ml-dl-performance-by-10-easily-90dbbd01a4b3)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -699,6 +703,7 @@ Machine Learning
 * [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
 * [automl-gs Provide an input CSV and a target field to predict, generate a model + code to run it](https://github.com/minimaxir/automl-gs)
 * [이미지 분류 모델 AutoML 파이프라인. 이미지 분류 모델 AutoML 활용하기 | by Yoo Gyoungyoon | 당근마켓 팀블로그 | Dec, 2020 | Medium](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
+* [Auto ML in Python — An Overview of the MLBox Package | by Ahmed Besbes | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/auto-ml-in-python-an-overview-of-the-mlbox-package-66668c6b1bfb)
 * [Continuous-Adaptation-with-VertexAI-AutoML-Pipeline](https://github.com/deep-diver/Continuous-Adaptation-with-VertexAI-AutoML-Pipeline)
 * [evalml: EvalML is an AutoML library written in python](https://github.com/alteryx/evalml)
   * [Home — EvalML 0.23.0 documentation](https://evalml.alteryx.com/)
@@ -1095,6 +1100,7 @@ Machine Learning
 * [2020 캐글 설문조사 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq7L8oPO57W91Vx-nP1TvSh)
 * [AI Factory](http://aifactory.space/)
 * [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
+* [Numerai](https://numer.ai/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -1113,6 +1119,7 @@ Machine Learning
 * [Simplified KNN Algorithm using Python with coding explanation | by Yogesh Chauhan | Towards Data Science](https://towardsdatascience.com/simplified-knn-algorithm-using-python-with-coding-explanation-ab597391b4c3)
 * [ML from Scratch: K-Nearest Neighbors Classifier | by Aman Sharma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/ml-from-scratch-k-nearest-neighbors-classifier-3fc51438346b)
 * [Machine Learning Nuggets: Introduction to K-NN Algorithm | by Venkat | Jun, 2021 | Medium](https://venkatkollimarla.medium.com/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b)
+* [Create a K-Nearest Neighbors Algorithm from Scratch in Python | by Turner Luke | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/create-your-own-k-nearest-neighbors-algorithm-in-python-eb7093fc6339)
 * [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
   * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
 
@@ -1213,6 +1220,8 @@ Machine Learning
   * [OpenML 2019](https://www.slideshare.net/JoaquinVanschoren/openml-2019)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 * [PlaidML.pdf at main · ConstantPark/DL_Compiler](https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf)
+* [PostgresML - an end-to-end machine learning solution](https://postgresml.org/)
+  * [PostgresML - an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.](https://github.com/postgresml/postgresml)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * QLattice
@@ -1268,6 +1277,8 @@ Machine Learning
 * [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 * [MLOps란? MLOps 로드맵 및 MLOps 취업에 대한 생각 | MLOps 강의 추천 있음 - YouTube](https://www.youtube.com/watch?v=xZKtofBe18I)
 * [MLOps and DevOps: Why Data Makes It Different – O’Reilly](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/)
+* [Production ML: Getting Started with MLOps | by Hajar Khizou | Towards Data Science](https://towardsdatascience.com/production-ml-getting-started-with-mlops-4856c38b3eab)
+* [MLOps or How to Deploy Data Science at Scale | Towards Data Science](https://towardsdatascience.com/mlops-or-how-to-deploy-data-science-at-scale-b33921b4f17f)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
