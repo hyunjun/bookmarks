@@ -670,6 +670,7 @@ AWS
 
 # DevOps Guru
 * [Amazon DevOps Guru for Serverless – AWS Lambda 함수 운영 문제 자동 감지 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
+* [AWS, 서버리스 앱에 ‘ML 기반 분석’ 추가 - CIO Korea](https://www.ciokorea.com/news/233504)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
