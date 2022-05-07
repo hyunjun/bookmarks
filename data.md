@@ -79,6 +79,7 @@ Government
 * [AI 허브](https://aihub.or.kr/)
   * [공공행정문서 OCR | AI 허브](https://aihub.or.kr/aidata/30724)
 * [AssemblyDataReader: Assembly Data Reader - 열린국회정보의 API를 이용해 데이터를 쉽게 받아올 수 있게 만든 오픈소스 라이브러리](https://github.com/hohyun321/AssemblyDataReader)
+* [Bandai-Namco-Research-Motiondataset: This repository provides motion datasets collected by Bandai Namco Research Inc](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)
 * [Common Voice](https://commonvoice.mozilla.org/ko)
   * Mozilla Common Voice: 오픈 소스 음성 데이터베이스를 쉽게 다운로드하거나 기여하여 더욱 풍부한 데이터베이스를 만드는 프로젝트
     * 기업이 아닌 누구나 고품질의 음성 데이터로 애플리케이션 구축의 기회를 주자는 취지의 오픈소스
