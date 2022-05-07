@@ -349,3 +349,4 @@
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
   * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
+  * [리액티브 코프링 R2DBC 사용법 (데이터 저장 & 수정)](https://anomie7.tistory.com/94)
