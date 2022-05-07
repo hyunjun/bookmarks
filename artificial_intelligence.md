@@ -148,6 +148,9 @@ Artificial Intelligence
 * [AI를 하고 싶은 C-level의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2022/03/28/Python-DS-97-ceo_mistakes/)
 * [쏘카 AI팀의 Applied Research Scientist는 어떤 일을 하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/04/05/role-of-applied-research-scientist-at-socar.html)
 * [인공지능 서비스를 지탱하는 기술 (AIOps) | YES24 채널예스](http://ch.yes24.com/Article/View/48422)
+* [네이버 “초거대 AI는 찌개 육수”...AI 상용화 속도 대폭 높인다 < 산업 < 기사본문 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=140897)
+* [12 Graphs That Explain the State of AI in 2022 - IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence-index)
+  * [2022년 AI의 현재를 보여주는 그래프 12개 | GeekNews](https://news.hada.io/topic?id=6297)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -158,6 +161,7 @@ Artificial Intelligence
 # Book
 * [더북(TheBook): 모두의 인공지능 with 파이썬](https://thebook.io/080244/)
 * [더북(TheBook): 모두의 인공지능 기초 수학](https://thebook.io/080246/)
+* [파이썬을 활용한 데이터 AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659)
 * [Artificial Inteligence](https://www.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
 * [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
 * [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
