@@ -150,6 +150,7 @@ Data Science
   * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (1) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163207)
   * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (2) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163210)
   * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (3) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163238)
+  * [빅데이터 분석 위한 대규모 확장형 스토리지··· ‘데이터 레이크’ A to Z - CIO Korea](https://www.ciokorea.com/news/235019)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
@@ -372,6 +373,7 @@ Data Science
 * [Data Management Trends You Need to Know - Gradient Flow](https://gradientflow.com/data-management-trends-you-need-to-know/)
 * [What is Data as a Service?. How the new Paradigm will make your… | by Christianlauer | Apr, 2022 | Medium](https://medium.com/codex/what-is-data-as-a-service-8adc912ef4b0)
 * [데이터 분석가 대디가 유소년 축구 플렉스하기](https://brunch.co.kr/@goodvc78/21)
+* [Week 1 - What is advanced data science anyway?](https://jhuadvdatasci.substack.com/p/week-1-what-is-advanced-data-science)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -381,6 +383,8 @@ Data Science
 * [더북(TheBook): 모두의 데이터 과학 with 파이썬](https://thebook.io/006914/) 3~5장만
 * [더북(TheBook): 모두의 데이터 분석 with 파이썬](https://thebook.io/007029/)
 * [추천 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/recommender-systems)
+* [12 Data Analytics Books for Beginners: A 2022 Reading List | Coursera](https://www.coursera.org/articles/data-analytics-books-for-beginners)
+  * [Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022 | GeekNews](https://news.hada.io/topic?id=6431)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
@@ -797,6 +801,8 @@ Data Science
 * [Bag-of-Tricks for Recommendation: Recency, Clustering 그리고 Item Shuffling - The Highlights - 라이너 팀 블로그](https://blog.getliner.com/bag-of-tricks-for-recommendation-recency-clustering-%EA%B7%B8%EB%A6%AC%EA%B3%A0-item-shuffling/)
 * [Learning to Rank - DRAMA&COMPANY](https://blog.dramancompany.com/2022/04/learning-to-rank/)
 * [Survey 추천시스템 라이브러리 비교](https://velog.io/@tobigs-recsys/RecommenderSystemLibraries)
+* [Real World Recommendation System - Part 1 - by Nikhil Garg](https://blog.fennel.ai/p/real-world-recommendation-system)
+* [Real World Recommendation Systems - Part 2 (Training Data Generation)](https://blog.fennel.ai/p/real-world-recommendation-systems)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
