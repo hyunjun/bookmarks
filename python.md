@@ -1624,6 +1624,7 @@ Python
 * [Automating Every Aspect of Your Python Project | by Martin Heinz | Towards Data Science](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)
 * [Automate Your Reporting With Python, Vue.js and Gmail | The Startup](https://medium.com/swlh/automate-your-reporting-with-python-and-vue-js-15ef130fff8)
 * [Automating your daily tasks with Python | by Shivani Sinha | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/automating-your-daily-tasks-with-python-ccce4aa8fd7a)
+* [10 Automation Scripts for Your Daily Python Projects | Python in Plain English](https://python.plainenglish.io/10-automation-scripts-for-your-daily-python-projects-892a82be3f75)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
@@ -4426,6 +4427,7 @@ Python
   * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
   * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
   * [A.1 아인슈타인 표기법](https://datascienceschool.net/view-notebook/ed9434dc0294477fa54b34c27156c934/)
+  * [A basic introduction to NumPy's einsum – ajcr – Haphazard investigations](https://ajcr.net/Basic-guide-to-einsum/)
 * [F2PY user guide and reference manual — NumPy v1.22 Manual](https://numpy.org/doc/stable/f2py/)
   * [Fast Python - Numba, Cython, F2py: O que são e qual é mais rápido? - YouTube](https://www.youtube.com/watch?v=ikNu1S1t3CA)
 * [JAX reference documentation — JAX documentation](https://jax.readthedocs.io/)
