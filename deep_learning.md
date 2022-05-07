@@ -1422,6 +1422,8 @@ Deep Learning
 * [SPOTTY - An Open-source Tool for Training Deep Learning Models in the Cloud](https://spotty.cloud)
 * [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
 * TabNine [Autocompletion with deep learning](https://tabnine.com/blog/deep)
+* [tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️](https://github.com/geohot/tinygrad)
+  * [geohot/tinygrad - 미니멀한 딥러닝 프레임워크 | GeekNews](https://news.hada.io/topic?id=6320)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 * [TurboTransformers: a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU](https://github.com/Tencent/TurboTransformers)
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
