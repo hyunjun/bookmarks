@@ -1824,6 +1824,10 @@ Programming Books
   * [IT 개발자가 쓴 통쾌한 인간관리 이야기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/managing_humans.md)
   * [IT 개발자가 쓴 통쾌한 인간관리 이야기. Rands in Repose | by Jun | May, 2022 | Medium](https://nymets.medium.com/it-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%93%B4-%ED%86%B5%EC%BE%8C%ED%95%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0-4768af79407e)
   * [IT 개발자가 쓴 통쾌한 인간관리 이야기](https://jh4hj.tistory.com/entry/IT-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%93%B4-%ED%86%B5%EC%BE%8C%ED%95%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EB%A6%AC-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* [하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가](https://blog.naver.com/chungrimpub/221491252807)
+  * 한라
+  * ★★★★★ 2022.05.07
+  * [앤디 그로브의 '하이 아웃풋 매니지먼트' 요약본을 공유합니다](https://infuture.kr/1696)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1846,8 +1850,6 @@ Programming Books
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) 피플웨어
   * 우당 문325.3디31ㅍ
-* (NOT YET) 하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가
-  * 한라
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
