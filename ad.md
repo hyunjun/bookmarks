@@ -17,6 +17,8 @@
 * [대행사를 운영하며 얻은 10가지 깨달음 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252442)
 * [<카카오웹툰> 앱 론칭 캠페인 회고](https://brunch.co.kr/@bat/84)
 * [The Ultimate Guide to Ad Operations (AdOps) | cleanAD](https://www.clean.io/adops)
+* [마케팅에 도움되는 AI 콘텐츠 제작 기술을 알아보자](https://blog.naver.com/saltluxmarketing/222714564298)
+  * [AI로 마케팅 콘텐츠를 만들고 관리하는 방식 | GeekNews](https://news.hada.io/topic?id=6462)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
