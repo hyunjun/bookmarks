@@ -295,6 +295,7 @@ PyTorch
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
   * 음성을 STFT 변환하여 Phase를 도메인으로 사용할 경우 복소수가 필요
+* [DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch](https://github.com/lucidrains/DALLE2-pytorch)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [DeepSpeed - a deep learning optimization library that makes distributed training easy, efficient, and effective](https://github.com/microsoft/DeepSpeed)
@@ -450,6 +451,8 @@ PyTorch
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
+* [3detr: Code & Models for 3DETR - an End-to-end transformer model for 3D object detection](https://github.com/facebookresearch/3detr)
+  * [3D object detection in the real world | by Jan Van Looy | ML6team](https://blog.ml6.eu/3d-object-detection-in-the-real-world-6368bdbbdc0b)
 * [Accelerate — accelerate documentation](https://huggingface.co/docs/accelerate)
   * [Introducing 🤗 Accelerate](https://huggingface.co/blog/accelerate-library)
 * [DALLE-pytorch: Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch](https://github.com/lucidrains/DALLE-pytorch)
