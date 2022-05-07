@@ -2565,7 +2565,7 @@ Programming
 * [오늘부터 전공면접 IT](https://hexoul.github.io/prepare-interview-data/)
   * [오늘부터 전공면접 IT - 객관식 문제 제공 서비스 | GeekNews](https://news.hada.io/topic?id=5335)
 * [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/videos)
-* [컴퓨터 개념 및 실습_서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
+* [컴퓨터 개념 및 실습 서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
@@ -3606,6 +3606,7 @@ Programming
   * [4월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/04/b-4.html)
   * [4월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-4-2.html)
   * [4월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/04/b-4-4.html)
+  * [5월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/05/b-5.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [init-news • init-news](https://news.in-it.io/)
 * [news.hada.io](https://news.hada.io/)
