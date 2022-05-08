@@ -3179,6 +3179,11 @@ Python
   * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
 * [VOC - A transpiler that converts Python bytecode into Java bytecode](https://github.com/pybee/voc)
 
+# Javascript
+* [JSPyBridge: Bridge to interoperate Node.js and Python](https://github.com/extremeheat/JSPyBridge)
+  * [JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지 | GeekNews](https://news.hada.io/topic?id=6507)
+* [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
+
 # Library
 * [**Awesome Python - A curated list of awesome Python frameworks, packages, software and resources**](https://python.libhunt.com/)
 * [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
@@ -3761,7 +3766,6 @@ Python
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
-* [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
 * [spongebob-cli: Watch classic spongebob from the terminal!](https://github.com/trakBan/spongebob-cli)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
