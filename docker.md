@@ -1577,6 +1577,7 @@ Docker
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
   * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
+* [otomi-core: Self-hosted PaaS for Kubernetes](https://github.com/redkubes/otomi-core)
 * [Pixie - k8s](https://sysnet4admin.gitbook.io/k8s/observability/pixie)
 * Prow
   * [개발문화를 code로 만드는 CI/CD 도구: Prow](https://leoh0.notion.site/leoh0/code-CI-CD-Prow-aa50953c1e8248cbad9e56a50dd080d5)
