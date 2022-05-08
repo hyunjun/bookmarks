@@ -80,6 +80,7 @@ Business
 * [집중과 균형](https://brunch.co.kr/@hyungsukkim/128)
 * [집중과 제거의 중요성](https://www.thestartupbible.com/2021/01/the-power-of-elimination-and-focus.html)
 * [대성할 30대 실무자들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/238464) 선택과 집중
+* [소수의 일에 집중하기 - 인생지름길](https://lifeshortcut.kr/%EC%86%8C%EC%88%98%EC%9D%98-%EC%9D%BC%EC%97%90-%EC%A7%91%EC%A4%91%ED%95%98%EA%B8%B0/)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
@@ -529,6 +530,7 @@ Business
 * [멋쟁이사자처럼을 사랑했던 직원의 가장 긴 퇴근](https://brunch.co.kr/@likelion/41) 퇴사
 * [MZ세대가 퇴사하는 진짜 이유 - YouTube](https://www.youtube.com/watch?v=vnX70pdlYkY)
 * [퇴사하는 MZ, 그들은 왜 떠나는가 | EBS 비즈니스 리뷰 김나이 편 - YouTube](https://www.youtube.com/watch?v=RLO4goMgqCM)
+* [유능한 직원이 회사를 떠나는 이유 - 인생지름길](https://lifeshortcut.kr/%EC%9C%A0%EB%8A%A5%ED%95%9C-%EC%A7%81%EC%9B%90%EC%9D%B4-%ED%9A%8C%EC%82%AC%EB%A5%BC-%EB%96%A0%EB%82%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
 * [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
 * [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
@@ -566,6 +568,7 @@ Business
 * [스타트업에서 핵심인력을 구성하고 채용하는 방법 : 네이버 블로그](https://blog.naver.com/dmchoi888/222695901389)
 * [스타트업의 핵심인력이 가져야할 조건 1편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696110781)
 * [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
+* [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1485,6 +1488,7 @@ Business
   19. Keep a journal.
   20. Nobody knows what will succeed. 
 * [사업에서 속력은 그 무엇보다 중요하다](http://moneyman.kr/archives/4670)
+* [속도가 사업에서 중요한 이유 - 인생지름길](https://lifeshortcut.kr/%EC%86%8D%EB%8F%84%EA%B0%80-%EC%82%AC%EC%97%85%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
