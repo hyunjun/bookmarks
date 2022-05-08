@@ -1035,6 +1035,7 @@ NLP
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
+* [머신러닝은 인간의 글쓰기를 어떻게 바꿔 놓을 것인가 | 10x Lessons](https://tkim.co/2022/04/30/how-ml-changes-writing/) DALL-E 2
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
