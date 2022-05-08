@@ -470,6 +470,8 @@ Business
 * [브런치북 스타트업 신입사원 가이드](https://brunch.co.kr/brunchbook/juniorguide)
 * [흥행에 성공했던 목적함수.jpg](https://brunch.co.kr/@graypool/391)
   * 목적(purpose의 적합한 번역인지는 따로 생각해봐야 할 문제)이 조직에 영향을 미치는 영역: 수요 창출, 직원 참여, 거버넌스와 지속가능성, 전략과 비즈니스 가능성
+* `Efficiency is doing things right; effectiveness is doing the right things. Peter Drucker`
+  * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
