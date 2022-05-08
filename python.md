@@ -2364,6 +2364,7 @@ Python
 * [Is the Django Framework Dead?. Find out whether Django is the right… | by Developer Codie | Feb, 2022 | Python in Plain English](https://python.plainenglish.io/is-the-django-framework-dead-591f9a533ba)
 * [Django에서 toss 결제 연동하기](https://velog.io/@sylee0427/Django%EC%97%90%EC%84%9C-toss-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 * [django_session 테이블에 저장되어 있는 세션은 어떤 값들을 가지고 있을까요?](https://codingdog.tistory.com/691)
+* [django app config ready 한 번만 실행되게 하려면 어떻게 할까요?](https://codingdog.tistory.com/693)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
