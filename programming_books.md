@@ -2332,6 +2332,7 @@ Programming Books
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
+* (NOT YET) [구글 엔지니어는 이렇게 일한다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294146082)
 
 # Spark
 
