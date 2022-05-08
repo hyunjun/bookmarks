@@ -1813,6 +1813,7 @@ Programming
 * [앱 배포후 Jira에서 버전 Release처리 자동으로 하는 방법(feat. GitHub Action) | by Ted Park | PRND | Dec, 2021 | Medium](https://medium.com/prnd/%EC%95%B1-%EB%B0%B0%ED%8F%AC%ED%9B%84-jira%EC%97%90%EC%84%9C-%EB%B2%84%EC%A0%84-release%EC%B2%98%EB%A6%AC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-github-action-ab4c4ecf437d)
 * ['PM을 부탁해/JIRA (따라하기)' 카테고리의 글 목록 :: 앵그리 비버's IT를 부탁해](https://hanminwoo.com/category/PM%EC%9D%84%20%EB%B6%80%ED%83%81%ED%95%B4/JIRA%20%28%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0%29)
 * [Jira Release 발생시 Slack에 Release Notes 발행하기](https://jojoldu.tistory.com/670)
+* `Error converting ADF to storage format` [macOS Monterey 키보드 입력 버그](https://jybaek.tistory.com/954)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
