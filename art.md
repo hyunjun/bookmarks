@@ -16,6 +16,7 @@ Art
 * [진중권 기고 유시민도 모르는 '조영남 사건'의 본질 :: 네이버 TV연예](https://entertain.naver.com/read?oid=047&aid=0002120543)
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 * [페나키스티스코프(Phenakistiscope)](https://www.josephk.io/phenakistiscope-magical-animation/)
+* [■ LIVING ROOM, 라이프스타일 매거진.. : 네이버블로그](https://blog.naver.com/cantavil_life)
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)
