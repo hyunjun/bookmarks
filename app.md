@@ -696,7 +696,6 @@ App
     * [VS Code snippets: the most powerful tool to boost your coding productivity](https://medium.freecodecamp.org/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00)
     * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
     * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
-    * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
     * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
@@ -722,7 +721,6 @@ App
     * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
     * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
     * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
-    * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
@@ -830,6 +828,10 @@ App
       * [Advanced Visual Studio Code for Python Developers – Real Python](https://realpython.com/advanced-visual-studio-code-python/)
       * [비주얼 스튜디오 코드의 파이썬 기능 추가와 변경사항(2022년 3월 업데이트)](https://blog.naver.com/drvoss/222663943725) python 버전 변환
       * [Powerful VSCode Tips And Tricks For Python Development And Design - YouTube](https://www.youtube.com/watch?v=fj2tuTIcUys)
+    * react
+      * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+      * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
+      * [vscode-react-productivity-pack: VsCode extension pack for ReactJS productivity](https://github.com/ickarakurt/vscode-react-productivity-pack)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
