@@ -1003,6 +1003,7 @@ Web
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
 * [PyScript | Run Python in your HTML](https://pyscript.net/)
+  * [“파이썬과 HTML의 결합” 아나콘다 ‘파이스크립트’ 공개 - ITWorld Korea](https://www.itworld.co.kr/news/235064)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
