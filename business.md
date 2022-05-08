@@ -1436,6 +1436,7 @@ Business
 * [토스 이승건 대표 스타트업의 성장에 대한 정의](https://www.facebook.com/spacelee/posts/10158708410809822)
 * [일반창업기업과 스타트업의 차이점 : 네이버 블로그](https://blog.naver.com/dmchoi888/222697673190)
 * [김범석 쿠팡 창업자가 이야기하는 스타트업 조직관리법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/%EC%BF%A0%ED%8C%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC%EC%97%90-%EC%84%B1%EA%B3%B5%ED%96%88%EB%82%98) 하나에 집중, 시행착오 회피, 고객 최우선, 직원은 제2의 고객, 실용주의, 실력주의 인사
+* [고객이 의지할 만한 조언자인가?, 시장을 대하는 관점이 승패 갈라 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/10444/ac/magazine)
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 * [토스가 타다를 인수한 진짜 이유를 공개합니다](https://blog.toss.im/article/outside-the-box)
 * [토스가 타다를 왜 인수할까? II](https://brunch.co.kr/@graypool/244)
