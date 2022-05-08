@@ -2865,6 +2865,7 @@ Programming
 * [Improving eBay's Development Velocity - YouTube](https://www.youtube.com/watch?v=Qgjs0IA114E) 단순히 배포 속도 향상만이 아니라 그걸 달성하기 위해 팀 조직부터 문화까지 바꾼 종합적인 이야기
 * [The Squeaky Blog | Why we don’t use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
 * [The Death of DevOps || Graham Zabel - YouTube](https://www.youtube.com/watch?v=l4YCh8Z-pmo)
+* [Comparison bw Docker Vs Kubernetes Vs Ansible | ReviewNPrep](https://reviewnprep.com/blog/devops-tool-comparison-docker-vs-kubernetes-vs-ansible/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
