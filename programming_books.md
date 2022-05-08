@@ -201,6 +201,8 @@ Programming Books
 * (NOT YET) [레고 마인드스톰 EV3 프로그래밍 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/110)
 * (NOT YET) [CODE 코드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/80)
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
+* (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
+  * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
 
 # Agile Scrum
 
@@ -340,6 +342,12 @@ Programming Books
 * [그림으로 이해하는 AWS 구조와 기술](https://ywtechit.tistory.com/355)
   * 2021, 탐라 004.588 오11ㄱ
   * ★★★☆☆ 2022.04.18 정말 초보용, 개념잡기 위한 책
+* [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래 | 에이콘출판사](http://www.acornpub.co.kr/book/ahead-cloud)
+  * 우당
+  * ★★★☆☆ 2022.05.07 광고이면서 동시에 AWS 전환 사례를 배울 수 있는 책. 기술적인 부분은 아니고 전환에 대한 여러가지 당위성이나 사례 모음집 정도로 생각하면 됨
+  * [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ahead_in_the_cloud.md)
+  * [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래. 대부분의 기업은 민첩성을 최적화하지 않았다. 효율성을 높이는 데 있어… | by Jun | May, 2022 | Medium](https://nymets.medium.com/aws-%EC%A0%84%ED%99%98-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80%EC%99%80-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-it%EC%9D%98-%EB%AF%B8%EB%9E%98-87a0c9dbe5e0)
+  * [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래](https://jh4hj.tistory.com/entry/AWS-%EC%A0%84%ED%99%98-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80%EC%99%80-%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-IT%EC%9D%98-%EB%AF%B8%EB%9E%98)
 * (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
   * 2014, 한라 004.58-오65ㅇ
 * (NOT YET) 처음 시작하는 AWS 람다 : 서버리스 아키텍처를 향한 첫 발걸음
@@ -380,8 +388,6 @@ Programming Books
 * (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
   * 2020, 우당 문004.588가66ㅇ
 * (NOT YET) [AWS 기반 AI 애플리케이션 개발 | 에이콘출판사](http://www.acornpub.co.kr/book/ai-aws)
-  * 우당
-* (NOT YET) [AWS 전환 모범 사례와 엔터프라이즈 IT의 미래 | 에이콘출판사](http://www.acornpub.co.kr/book/ahead-cloud)
   * 우당
 * (NOT YET) [생활코딩! 아마존 웹 서비스 | 위키북스](https://wikibook.co.kr/aws/)
   * 우당
