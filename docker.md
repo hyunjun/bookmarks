@@ -855,6 +855,7 @@ Docker
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [KUBERNETES - THE FUTURE OF DEPLOYMENT](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
+* [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [How to switch container runtime in a Kubernetes cluster - DEV Community](https://dev.to/stack-labs/how-to-switch-container-runtime-in-a-kubernetes-cluster-1628)
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
