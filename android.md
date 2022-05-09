@@ -235,6 +235,7 @@ Android
 * [안드로이드 앱 만들기 : 리사이클뷰(RecycleView) 에 광고 추가](https://billcorea.tistory.com/92)
 * [Pluu Dev - AndroidX Jetpack ~ Paging 데이터의 위치 살펴보기](http://pluu.github.io/blog/android/2022/01/02/paging/)
 * [Android 변조앱 만들기(feat. sandhook) : NHN Cloud Meetup](https://meetup.toast.com/posts/322)
+* [apksigner를 이용한 서명과 APK Signature scheme v2](https://liapp.lockincomp.com/ko/blog/blog-Post/tech-apk-signature-scheme-v2-with-apksigner/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
