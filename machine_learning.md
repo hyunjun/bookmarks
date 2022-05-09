@@ -1279,6 +1279,7 @@ Machine Learning
 * [MLOps and DevOps: Why Data Makes It Different – O’Reilly](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/)
 * [Production ML: Getting Started with MLOps | by Hajar Khizou | Towards Data Science](https://towardsdatascience.com/production-ml-getting-started-with-mlops-4856c38b3eab)
 * [MLOps or How to Deploy Data Science at Scale | Towards Data Science](https://towardsdatascience.com/mlops-or-how-to-deploy-data-science-at-scale-b33921b4f17f)
+* [MLOps 생태계 2022년 전망과 Backend.AI로 가속하는 하이퍼스케일 AI 실전로드맵 토크아이티 웨비나, 래블업 - YouTube](https://www.youtube.com/watch?v=fdMfbgqkRQ4)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
