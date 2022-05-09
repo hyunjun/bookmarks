@@ -1866,6 +1866,7 @@ Programming Books
   * 탐라
 * (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
+* (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
 
 ## Management Leadership
 * [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
