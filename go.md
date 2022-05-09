@@ -309,6 +309,7 @@ Go
 * [Go file upload part 2 (simple straightforward method) - YouTube](https://www.youtube.com/watch?v=dCQ7S83Efs0)
 * [Dynamic pipeline route in Go. Is it possible to create a pipeline… | by Yuda Prasetiya | Apr, 2022 | Medium](https://medium.com/@yudaph/dynamic-pipeline-route-in-go-c73a9df991c0)
 * [Should You Commit the Vendor Folder in Go? | Boot.dev](https://blog.boot.dev/golang/should-you-commit-the-vendor-folder-in-go/)
+* [Basic matrices operations in Go - YouTube](https://www.youtube.com/watch?v=PQJ5dOe5_L4)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
