@@ -1834,6 +1834,11 @@ Programming Books
   * 한라
   * ★★★★★ 2022.05.07
   * [앤디 그로브의 '하이 아웃풋 매니지먼트' 요약본을 공유합니다](https://infuture.kr/1696)
+* 린 스타트업 [불확실한 창업 환경에서 슬기롭게 일하는 법, 『린 스타트업』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2012/11/13/%eb%b6%88%ed%99%95%ec%8b%a4%ed%95%9c-%ec%b0%bd%ec%97%85-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c-%ec%8a%ac%ea%b8%b0%eb%a1%ad%ea%b2%8c-%ec%9d%bc%ed%95%98%eb%8a%94-%eb%b2%95-%e3%80%8e%eb%a6%b0-%ec%8a%a4/)
+  * 탐라
+  * ★★★★☆ 2022.05.08~09
+  * [빠르고 유연한 린스타트업 경영, 대기업의 창의적 혁신에도 유용하다 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/7397/ac/magazine)
+  * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1858,8 +1863,9 @@ Programming Books
   * 우당 문325.3디31ㅍ
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
-* (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
+* (NOT YET) [린 스타트업: 실리콘밸리를 뒤흔든 IT 창업 가이드](https://hanbit.co.kr/media/books/book_view.html?p_code=B9955361403)
   * 한라, 탐라
+  * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라
 * (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
