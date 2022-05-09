@@ -597,6 +597,8 @@ Business
 * [모바일 개발자를 위한 30-60-90일 성공 계획서 · Soojin Ro](https://soojin.ro/blog/mobile-developer-success-plan)
 * [R&D 센터 뉴비 Agile Coach의 일주일. 어언.. 10년 한 직장에서의 세월을 뒤로 하고 새로운 My Work… | by Jaehoon Lee | Apr, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/r-d-%EC%84%BC%ED%84%B0-%EB%89%B4%EB%B9%84-newbie-%EC%9D%98-%EC%9D%BC%EC%A3%BC%EC%9D%BC-3e74e741d1ad)
 * [이직 후 새로운 직장에 적응하는 법 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/597/page/1)
+* [이곳이 바로.. 유니크굿? — 프론트엔드 인턴의 온보딩과정 #1탄 | by SUHA | Uniquegood | May, 2022 | Medium](https://medium.com/uniquegood/%EC%9D%B4%EA%B3%B3%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%9C%A0%EB%8B%88%ED%81%AC%EA%B5%BF-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9%EA%B3%BC%EC%A0%95-1%ED%83%84-6b75bc5e9758)
+* [이곳이 바로.. 유니크굿..? — 프론트엔드 인턴의 온보딩과정 #2탄 | by SUHA | Uniquegood | May, 2022 | Medium](https://medium.com/uniquegood/%EC%9D%B4%EA%B3%B3%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%9C%A0%EB%8B%88%ED%81%AC%EA%B5%BF-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9%EA%B3%BC%EC%A0%95-2%ED%83%84-8f48bc169779)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
