@@ -693,6 +693,7 @@ Python
   * [파이썬 Python 코딩 - 리눅스 크론 cron 스케줄러 기능 구현하기 - YouTube](https://www.youtube.com/watch?v=zZbOMgCJmA8)
   * [개발자를 괴롭히는 주제 중 하나는 시간입니다.. 하여간 이런 문제가 있다 해도 우리가 평범하게 아는 정도의 시간 관련… | by 이상선 | Jan, 2022 | Medium](https://medium.com/@sunyi233/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EA%B4%B4%EB%A1%AD%ED%9E%88%EB%8A%94-%EC%A3%BC%EC%A0%9C-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9E%85%EB%8B%88%EB%8B%A4-236f9f3be051)
   * [Python에서 time 처리. 시간과 관련된 것을 처리하는 것은 좀 까다롭습니다. 일단, 시간 관련… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/python%EC%97%90%EC%84%9C-time-%EC%B2%98%EB%A6%AC-544af34dc4f)
+  * [Python Calendar Module - YouTube](https://www.youtube.com/watch?v=DJU78ngYNVo)
   * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
     * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [Delorean: Time Travel Made Easy — delorean 1.0.0 documentation](https://delorean.readthedocs.io/)
