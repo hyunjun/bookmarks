@@ -1803,22 +1803,9 @@ Programming Books
   * [팀 토폴로지](https://github.com/hyunjun/bookmarks/blob/master/programming_books/team_topologies.md)
   * [팀 토폴로지. 기본적 논지는 즉, 시스템을 설계하는 조직은..… 그 조직에서 사용하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80-fb72c5baa77c)
   * [팀 토폴로지](https://jh4hj.tistory.com/entry/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
-* [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
-  * 탐라, 우당 문325.24아211ㅇ
-  * ★★★☆☆ 2022.04.16
-  * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
-  * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
-  * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
-  * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
 * [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
   * 한라, 탐라, 우당 문325.24스825ㅅ
   * ★★★★☆ 2022.04.18~21
-* 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
-  * 우당
-  * ★★★★☆ 2022.04.23
-  * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
-  * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
-  * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라
   * ★★★★☆ 2022.05.01~05
@@ -1879,6 +1866,22 @@ Programming Books
   * 탐라
 * (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
+
+## Management Leadership
+* [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
+  * 탐라, 우당 문325.24아211ㅇ
+  * ★★★☆☆ 2022.04.16
+  * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
+  * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
+  * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
+  * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
+* 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
+  * 우당
+  * ★★★★☆ 2022.04.23
+  * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
+  * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
+  * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
+* (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
 
 # Math
 
