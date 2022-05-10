@@ -587,6 +587,7 @@ R
   * [Using purrr to make nice publishable tables](https://www.r-bloggers.com/using-purrr-to-make-nice-publishable-tables/)
   * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
+* Quarto [Create beautiful documents with Quarto and R - YouTube](https://www.youtube.com/watch?v=y5VcxMOnj3M)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * ragg [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
