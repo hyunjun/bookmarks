@@ -15,6 +15,8 @@ NLP
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
 * [ROC Curve, AUC](http://digndig.net/blog/2013/06/01/312/)
+* [원티드 AI 이야기 ROC Curve 이해하기(1) (원티드가 AI를 평가하는 방법, AI 합격 예측, 인공지능)](https://blog.naver.com/wantedlab/222714528598)
+* [원티드 AI 이야기 ROC Curve 이해하기(2) (원티드가 AI를 평가하는 방법, AI 합격 예측, 인공지능)](https://blog.naver.com/wantedlab/222719920948)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
 * [Writers Choose Their Favorite Words](http://www.newyorker.com/culture/cultural-comment/writers-choose-their-favorite-words/) 쓰이는 단어의 종류를 통해 글 쓴 사람 예측?
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
