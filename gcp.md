@@ -148,6 +148,7 @@ Google Cloud Platform GCP
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Growing Concerns among Developers about Google Cloud Price Increases](https://www.infoq.com/news/2022/03/google-cloud-prices/)
 * [Measuring container size and startup latency for serverless apps written in C#, Node.js, Go, and Java – Richard Seroter's Architecture Musings](https://seroter.com/2022/04/18/measuring-container-size-and-startup-latency-for-serverless-apps-written-in-c-node-js-go-and-java/)
+* [How to cope with large Data in Production Halls with Google Cloud | by Christianlauer | CodeX | May, 2022 | Medium](https://medium.com/codex/how-to-cope-with-large-data-in-production-halls-with-google-cloud-a0c4a34ad8e7)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
