@@ -310,6 +310,7 @@ Go
 * [Dynamic pipeline route in Go. Is it possible to create a pipeline… | by Yuda Prasetiya | Apr, 2022 | Medium](https://medium.com/@yudaph/dynamic-pipeline-route-in-go-c73a9df991c0)
 * [Should You Commit the Vendor Folder in Go? | Boot.dev](https://blog.boot.dev/golang/should-you-commit-the-vendor-folder-in-go/)
 * [Basic matrices operations in Go - YouTube](https://www.youtube.com/watch?v=PQJ5dOe5_L4)
+* [Go Programming | Instantiating A Singleton Object | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/go-programming-instantiating-a-singleton-object-3e3a425346e4)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
