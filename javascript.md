@@ -4185,6 +4185,7 @@ Javascript
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
+* Ranorex Studio [자동화된 UI 회귀테스트 도입하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6460/?fbclid=IwAR1p3Lu-YBSM0C3k5ADu854R51wgj7ALNitoBCSGSMU_MGE0pjSgEQzlwFM)
 * Storybook [스토리북으로 인터랙션 테스트하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220111)
 * [Testing Library | Testing Library](https://testing-library.com/)
   * [How to Write Better UI Component Tests With Testing Library | by Ali Kamalizade | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/how-to-write-better-ui-component-tests-with-testing-library-e80bc489051c)
