@@ -4985,6 +4985,7 @@ Python
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
 * [Learn basics Python Programming with Smartphone 1 - YouTube](https://www.youtube.com/watch?v=TenXmjyHmfU)
 * [시리즈 | 파이썬 입문자를 위한 기초 다지기! - hyunbeen0216.log](https://velog.io/@hyunbeen0216/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)
+* [Misha Sv - YouTube](https://www.youtube.com/c/MishaSv)
 * [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
 * [tinkerstellar | Learn by tinkering](https://tinkerstellar.com/)
   * [Tinkerstellar - iPad에서 Python 배우기 | GeekNews](https://news.hada.io/topic?id=5735)
