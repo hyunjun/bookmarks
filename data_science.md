@@ -87,6 +87,7 @@ Data Science
 * [**How The Modern Data Stack Is Reshaping Data Engineering | Preset - Blog | Preset**](https://preset.io/blog/reshaping-data-engineering/)
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
+* [데이터 엔지니어란 무엇일까? - Nephtyw’S Programming Stash](https://nephtyws.github.io/story/what-is-data-engineer/)
 * [Roadmap to Data Engineering in 2022. | by Chetan Dekate | Mar, 2022 | Medium](https://medium.com/@chetandekate/roadmap-to-data-engineering-in-2022-5eb788155b72)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [데이터 사이언티스트가 되기 위해 필요한 기술,이 문장만 보면 다 알 수 있다](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0/)
