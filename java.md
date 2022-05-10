@@ -502,6 +502,7 @@ Java
 * [java.util.concurrent.ConcurrentHashMap Example](http://examples.javacodegeeks.com/core-java/util/concurrent/concurrenthashmap/java-util-concurrent-concurrenthashmap-example/)
 * [왜 concurrenthashmap을 쓰는지 간단하게 알아봅시다.](https://codingdog.tistory.com/640)
 * [12 Examples of ConcurrentHashMap in Java](https://javarevisited.blogspot.com/2020/09/10-examples-of-concurrenthashmap-in-java.html#axzz7JtaL6QFs)
+* [ConcurrentHashMap in Java | Example Tutorial | Code Below - YouTube](https://www.youtube.com/watch?v=148ejfugGyo)
 * [java.util.concurrent.Future basics](http://www.nurkiewicz.com/2013/02/javautilconcurrentfuture-basics.html)
 * [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)
 * [Effective Java - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others](https://github.com/ftomassetti/effectivejava)
