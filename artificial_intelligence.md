@@ -151,6 +151,7 @@ Artificial Intelligence
 * [네이버 “초거대 AI는 찌개 육수”...AI 상용화 속도 대폭 높인다 < 산업 < 기사본문 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=140897)
 * [12 Graphs That Explain the State of AI in 2022 - IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence-index)
   * [2022년 AI의 현재를 보여주는 그래프 12개 | GeekNews](https://news.hada.io/topic?id=6297)
+* [인간 대 기계](https://www.thestartupbible.com/2022/05/human-vs-machine.html)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
