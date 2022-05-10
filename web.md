@@ -220,9 +220,6 @@ Web
 * [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
 * [TTFB로 서비스 성능 측정하기. TTFB(Time To First Byte)를 통해 알아보는 내… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/ttfb%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0-21baef090c7d)
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
-* [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
-* [Web Browser Engineering](https://browser.engineering/)
-  * [브라우저 이해하기 시리즈 | GeekNews](https://news.hada.io/topic?id=5965)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
@@ -232,39 +229,11 @@ Web
 * [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
 * [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
 * [CMO를 위한 SEO가이드 48p PDF | GeekNews](https://news.hada.io/topic?id=4915)
-* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/)
-  * 브라우저의 추측성 힌트인 prefetch/prerender의 사용법과 단점 설명
-  * preconnect/preload는 선언적인 힌트로 다음 로딩 때 필요한 리소스에 사용
-  * prefetch/prerender는 추측성 힌트로 필요할 가능성이 높은 리소스를 브라우저에 추천할 때 사용
-  * B 페이지가 A 페이지 다음에 요청될 가능성이 높다고 했을 때 A 페이지에서 prefetch 힌트를 사용해서 B 페이지나 특정 리소스를 미리 받도록 브라우저에 전달
-  * A 페이지에서 prerender 힌트를 사용해서 미리 B 페이지를 렌더링하게 브라우저에 전달. 미리 렌더링 되었으므로 클릭 시 바로 화면을 볼 수 있다
-  * prefetch
-    * 다음 페이지 전체나 same-origin의 서브 리소스를 미리 가져올 수 있다
-    * 캐싱할 수 있다면 HTTP Cache에 저장(크롬은 5분간 저장)
-  * prerender
-    * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
-    * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
-* [웹 페이지 로딩 과정 이해하기](https://blog.imqa.io/webpage_loading_process/)
-* [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
-* [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
-* [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1307/)
-* [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
-  * 브라우저가 리소스를 다운로드할 때 `<head>`에 있는 `<link>`나 CSS를 먼저 다운로드받거나 뷰포트 내의 리소스를 먼저 다운로드받는 등 최적화
-  * 이 우선순위 힌트를 줄 수 있는 importance 속성 설명
-  * importance를 hign나 low, auto로 지정 가능
-  * 이 우선순위 힌트는 실험적 기능, Chrome 96부터 origin trial로 이용 가능
-  * 크롬이 처리하는 우선순위가 표로 잘 나와 있고 우선순위 힌트를 사용했을 때 얼마나 빨라지는 지도 비교 설명
-  * [우선순위 힌트로 리소스 로딩 최적화하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021117)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
   * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
 * [2022년 웹 개발에서 고려해야 할 환경 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
-* [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/)
-  * 최신 브라우저가 파비콘에 SVG도 지원함에 따라 <link rel="icon" href="/favicon.svg" type="image/svg+xml">처럼 SVG 파비콘을 연결하고 prefers-color-scheme 미디어 쿼리를 이용해서 사용자의 테마에 따라 다크/라이트 파비콘을 보여주도록 적용하는 방법 설명
-  * 현재 파비콘에서 미디어쿼리는 파이어폭스와 크로미움 기반 브라우저만 지원
-* [Interop 2022: browsers working together to improve the web for developers](https://web.dev/interop-2022/)
-  * [Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선 | GeekNews](https://news.hada.io/topic?id=6080)
 * [Making the world’s fastest website, and other mistakes - DEV Community](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 
 # Apache
@@ -298,6 +267,41 @@ Web
 * [Web Browser Engineering](https://browser.engineering/index.html)
   * 웹 브라우저를 Python으로 구현하는 온라인 튜토리얼
   * 웹페이지 다운로드부터 페이지 그리기, 서버와의 통신, 스크립트 실행까지 단계별로 설명
+
+# Browser
+* [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
+* [Web Browser Engineering](https://browser.engineering/)
+  * [브라우저 이해하기 시리즈 | GeekNews](https://news.hada.io/topic?id=5965)
+* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/)
+  * 브라우저의 추측성 힌트인 prefetch/prerender의 사용법과 단점 설명
+  * preconnect/preload는 선언적인 힌트로 다음 로딩 때 필요한 리소스에 사용
+  * prefetch/prerender는 추측성 힌트로 필요할 가능성이 높은 리소스를 브라우저에 추천할 때 사용
+  * B 페이지가 A 페이지 다음에 요청될 가능성이 높다고 했을 때 A 페이지에서 prefetch 힌트를 사용해서 B 페이지나 특정 리소스를 미리 받도록 브라우저에 전달
+  * A 페이지에서 prerender 힌트를 사용해서 미리 B 페이지를 렌더링하게 브라우저에 전달. 미리 렌더링 되었으므로 클릭 시 바로 화면을 볼 수 있다
+  * prefetch
+    * 다음 페이지 전체나 same-origin의 서브 리소스를 미리 가져올 수 있다
+    * 캐싱할 수 있다면 HTTP Cache에 저장(크롬은 5분간 저장)
+  * prerender
+    * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
+    * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [웹 페이지 로딩 과정 이해하기](https://blog.imqa.io/webpage_loading_process/)
+* [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
+* [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
+* [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1307/)
+* [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
+  * 브라우저가 리소스를 다운로드할 때 `<head>`에 있는 `<link>`나 CSS를 먼저 다운로드받거나 뷰포트 내의 리소스를 먼저 다운로드받는 등 최적화
+  * 이 우선순위 힌트를 줄 수 있는 importance 속성 설명
+  * importance를 hign나 low, auto로 지정 가능
+  * 이 우선순위 힌트는 실험적 기능, Chrome 96부터 origin trial로 이용 가능
+  * 크롬이 처리하는 우선순위가 표로 잘 나와 있고 우선순위 힌트를 사용했을 때 얼마나 빨라지는 지도 비교 설명
+  * [우선순위 힌트로 리소스 로딩 최적화하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021117)
+* [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/)
+  * 최신 브라우저가 파비콘에 SVG도 지원함에 따라 <link rel="icon" href="/favicon.svg" type="image/svg+xml">처럼 SVG 파비콘을 연결하고 prefers-color-scheme 미디어 쿼리를 이용해서 사용자의 테마에 따라 다크/라이트 파비콘을 보여주도록 적용하는 방법 설명
+  * 현재 파비콘에서 미디어쿼리는 파이어폭스와 크로미움 기반 브라우저만 지원
+* [Interop 2022: browsers working together to improve the web for developers](https://web.dev/interop-2022/)
+  * [Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선 | GeekNews](https://news.hada.io/topic?id=6080)
+* [웹용 스토리지](https://web.dev/storage-for-the-web/)
+* [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
