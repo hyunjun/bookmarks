@@ -1272,6 +1272,7 @@ Docker
     * [Check whether Dockershim deprecation affects you | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/check-if-dockershim-deprecation-affects-you/)
   * AWS EKS, Azure AKS, Google GKE 같은 매니지드 Kubernetes를 사용한다면 특별히 커스터마이징 하지 않는 이상 신경 쓸 필요 없음
   * 만약 Docker를 런타임으로 유지해야 한다면 dockershim의 대체 소프트웨어인 cri-dockerd를 사용해야 함
+* [It’s Time to Migrate your Container Runtime, Kubernetes 1.24 is coming | by Inder Singh | May, 2022 | Medium](https://inder-devops.medium.com/its-time-to-migrate-your-container-runtime-kubernetes-1-24-is-coming-f0c0b6b9bb90)
 * [주니어의 쿠버네티스 생태계에서 살아남기 - YouTube](https://www.youtube.com/watch?v=fvWHLrMjdmI)
   * [주니어의 쿠버네티스 생태계에서 살아남기](https://www.slideshare.net/InfraEngineer/ss-250837857)
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
