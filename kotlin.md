@@ -162,6 +162,7 @@
 * [Optics/Lens 내 멋대로 Optics 이해하기 Feat) arrow-kt](https://see-ro-e.tistory.com/333)
 * [Get started with Kotlin/JS for React | Kotlin](https://kotlinlang.org/docs/js-get-started.html)
   * [kotlin to javascript (client side) - 밍피디의 개발노트](https://mingpd.github.io/2019/04/18/newtech/kotlin-to-javascript/)
+* [Meta-Programming with Kotlin for Android | by Mehdi Yari | Apr, 2022 | ProAndroidDev](https://proandroiddev.com/meta-programming-with-kotlin-for-android-6097307a9fe3)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
