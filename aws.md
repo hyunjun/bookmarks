@@ -1155,14 +1155,17 @@ AWS
 * [Deploy a Complete AWS Serverless Stack using Go Programming Language](https://morioh.com/p/1a29e996d5e3)
 * [AWS Lambda](https://www.tech3code.com/2022/02/aws-lambda-in-recent-years-aws-lambda.html)
 
-## Lambda java
+## Lambda Java
 * [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
 * [Java and AWS Lambda - Best of frenemies?](https://www.cockroachlabs.com/blog/java-and-aws-lambda/)
 
-## Lambda javascript
+## Lambda Javascript
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
 
-## Lambda python
+## Lambda Kotlin
+* [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
+
+## Lambda Python
 * [**하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기**](https://todait.github.io/image-resizing-service) zappa, flask, wand
 * [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
   * [chalice - Python Serverless Microframework for AWS](https://github.com/aws/chalice)
