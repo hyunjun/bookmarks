@@ -314,6 +314,7 @@
 * [ksp: Kotlin Symbol Processing API](https://github.com/google/ksp)
   * [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
   * [Android Developers Blog: Announcing Kotlin Symbol Processing (KSP) Alpha](https://android-developers.googleblog.com/2021/02/announcing-kotlin-symbol-processing-ksp.html)
+  * [Android KSP guide for dummies by a Dummy: Part 1 - DEV Community](https://dev.to/aniketbhoite/android-ksp-guide-for-dummies-by-a-dummy-part-1-3dof)
 * Ktlint [Format Your Kotlin Code With Ktlint | by Hector Smith | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/format-your-kotlin-code-with-ktlint-6fd1321504d0)
 * [Ktor - a framework for building asynchronous servers and clients](https://ktor.io/)
   * [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
