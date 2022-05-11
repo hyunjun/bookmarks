@@ -1993,6 +1993,7 @@ Python
 * [PyCon US 2021 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
 * PyCon Korea 2021
   * [공무원 환경에서의 업무 자동화 - 김재윤 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=JtthbD3uvYY)
+* [PyCon US 2022 Highlights - ehmatthes.com](https://ehmatthes.com/blog/pycon_2022_highlights/)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
