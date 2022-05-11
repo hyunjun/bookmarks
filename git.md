@@ -338,6 +338,7 @@ Git
 * [GitHub Actions에서 도커 캐시를 적용해 이미지 빌드하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220414-docker-cache/)
 * [release 브랜치 merge시 Tag 생성, 브랜치 삭제하기 (feat. Gihtub Action)](https://jojoldu.tistory.com/668)
 * [카카오엔터프라이즈가 GitHub Actions를 사용하는 이유 – tech.kakao.com](https://tech.kakao.com/2022/05/06/github-actions/)
+* [Visualize your Actions with GitHub Actions Job Summary - YouTube](https://www.youtube.com/watch?v=2-3ROfpSn8o)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
   * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
