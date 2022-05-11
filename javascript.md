@@ -3459,6 +3459,7 @@ Javascript
 * [(번역) 명확한 리액트 파일/디렉터리 구조. 원문… | by Jung Han | Mar, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%AA%85%ED%99%95%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-a5f03a174b9e)
 * [Top 8 VS Code extensions to use with React - Best of Lot | Java67](https://www.java67.com/2022/03/vs-code-extensions-to-use-with.html)
 * [What are error boundaries in React?](https://svdcse.xyz/what-are-error-boundaries-in-react)
+* [Meet React useEvent(): The Latest and Greatest React Hook | JavaScript in Plain English](https://javascript.plainenglish.io/react-useevent-the-latest-and-greatest-react-hook-56ae71febbf3)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
