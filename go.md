@@ -539,7 +539,6 @@ Go
 * [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
-* [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [golang - Go로 만드는 P2P 라이브러리 - jacking75](https://jacking75.github.io/go_lib_p2p/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
@@ -592,7 +591,6 @@ Go
 * [gitqlite: Query git repositories with SQL. Uses SQLite virtual tables and go-git](https://github.com/augmentable-dev/gitqlite)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
-* [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [go-authentication-api: An authentication API developed in Go language](https://github.com/Edmartt/go-authentication-api)
@@ -642,7 +640,6 @@ Go
 * [goroom: An embedded data store version manager](https://github.com/adonmo/goroom)
   * [Go-Room - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-5c1d4f46a77e)
   * [Go-Room: Internals - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-internals-5b3475266fbb)
-* [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
 * gosiris [An Introduction to gosiris, an Actor Framework for Go](https://medium.com/@teivah/an-introduction-to-gosiris-an-actor-framework-for-go-e0e3ad15b3c7)
 * [gosivy: Real-time visualization tool for Go process metrics](https://github.com/nakabonne/gosivy)
   * [Visualize Go process metrics in real-time](https://nakabonne.dev/posts/gosivy/)
@@ -697,8 +694,6 @@ Go
   * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
-* [macos-totp-cli: simple TOTP CLI, powered by keychain of macOS](https://github.com/simnalamburt/macos-totp-cli)
-  * macOS의 키체인을 이용해서 터미널에서 TOTP(Time-based One-Time Password)를 사용할 수 있는 CLI
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
 * [matterbridge Letting people be where they want to be](https://github.com/42wim/matterbridge)
 * [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
@@ -710,7 +705,6 @@ Go
   * [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [mouseable: 'Mouseable' is intended to replace a mouse or tackpad](https://github.com/wirekang/mouseable)
-* [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
 * [notifications-engine: Affordable notifications for Kubernetes](https://github.com/argoproj/notifications-engine)
   * [Notifications Engine is here!. The Argoproj community has been working… | by Alexander Matyushentsev | May, 2021 | Argo Project](https://blog.argoproj.io/notifications-engine-is-here-ca961cd67b87)
     * Argo에서 Argo CD와 Argo Rollouts에서 알림 용도로 사용하고 있는 노티피케이션 엔진을 공개
@@ -719,7 +713,6 @@ Go
 * [ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
   * [Ntfy - 모바일/데스크탑으로 푸시 보내기 | GeekNews](https://news.hada.io/topic?id=5647)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
-* [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
@@ -782,9 +775,17 @@ Go
 ## Library CLI command line interface
 * [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
 * [Building CLI Apps with Golang - YouTube](https://www.youtube.com/watch?v=ez1j4a5dfxs)
+* [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+  * [Cobra | A Commander for modern Golang CLI interactions](https://morioh.com/p/09d62ef2fa35)
+* [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
+* [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
+* [macos-totp-cli: simple TOTP CLI, powered by keychain of macOS](https://github.com/simnalamburt/macos-totp-cli)
+  * macOS의 키체인을 이용해서 터미널에서 TOTP(Time-based One-Time Password)를 사용할 수 있는 CLI
+* [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
+* [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Redo - the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
 
 ## Library logging
