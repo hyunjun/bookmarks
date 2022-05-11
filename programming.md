@@ -1342,6 +1342,7 @@ Programming
 * [도메인 스토리와 개인 업무의 이중 구조](https://brunch.co.kr/@graypool/457)
 * [스토리텔링보다 문서가 익숙한 사람과 협업하기](https://brunch.co.kr/@graypool/458)
 * [시스템 릴리즈와 아키텍처의 관계](https://brunch.co.kr/@graypool/462)
+* [아키텍처 그림 가운데 있는 데이터](https://brunch.co.kr/@graypool/433)
 * [Work Objects란 무엇인가?](https://brunch.co.kr/@graypool/446)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
