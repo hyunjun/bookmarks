@@ -698,6 +698,7 @@ Apache
 * [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
 * [대규모 데이터의 카프카 프로듀서 성능 향상 방법](https://blog.voidmainvoid.net/475)
 * [카프카를 활용한 레이싱카 센서 실시간 수집 데이터 파이프라인 구축](https://blog.voidmainvoid.net/478)
+* [Apache Kakfa on KRaft Mode | Kafka On Kubernetes | ADITYA JOSHI | - YouTube](https://www.youtube.com/watch?v=yvThxgOLXxE)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
