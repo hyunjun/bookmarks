@@ -874,6 +874,7 @@ Javascript
 * reduce
   * [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
   * [배열 reduce에 초기값 지정 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/879)
+  * [map, reduce, filter 메소드 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/frontend/js-map-reduce-filter/)
 * string
   * [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
   * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
