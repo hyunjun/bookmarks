@@ -156,6 +156,7 @@ Sports
 * [4. 평균으로의 회귀 적용](https://junkstorage.tistory.com/31)
 * [5. 실제 결과와의 비교](https://junkstorage.tistory.com/32)
 * [KBO 역대 2군 데이터를 공유합니다 - 야구공작소](https://yagongso.com/?p=14183)
+* [Hit 툴을 더 자세히 알아보는 Pitch Selection, Bat Control (ft. Fangraphs) - 야구공작소](https://yagongso.com/?p=16432)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
