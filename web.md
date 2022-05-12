@@ -235,6 +235,8 @@ Web
   * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
 * [2022년 웹 개발에서 고려해야 할 환경 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
 * [Making the world’s fastest website, and other mistakes - DEV Community](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
+* [Interaction to Next Paint (INP)](https://web.dev/inp/)
+  * [다음 페인트에 대한 상호작용(Interaction to Next Paint, INP) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220512)
 
 # Apache
 * installation
