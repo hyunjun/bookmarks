@@ -1700,6 +1700,7 @@ Java
 * [코딩스타트 :: Spring boot - Redis를 이용한 HttpSession](https://coding-start.tistory.com/143)
 * [Redis 연결하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=kUNc2Fm4BKg)
 * [Spring Boot Redis CRUD Example | Making Java easy to learn](http://javatechonline.com/spring-boot-redis-crud-example)
+* [SpringBoot에서 Redis 캐시를 사용하기](https://www.wool-dev.com/springboot-redis-cache-simple/)
 * [로그인 검증 로직에 AOP를 적용해서 중복을 제거해보자](https://seohoon-dev.tistory.com/3)
 * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
 * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
