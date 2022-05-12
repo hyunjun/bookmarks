@@ -598,6 +598,9 @@ Business
 * [모바일 개발자를 위한 30-60-90일 성공 계획서 · Soojin Ro](https://soojin.ro/blog/mobile-developer-success-plan)
 * [R&D 센터 뉴비 Agile Coach의 일주일. 어언.. 10년 한 직장에서의 세월을 뒤로 하고 새로운 My Work… | by Jaehoon Lee | Apr, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/r-d-%EC%84%BC%ED%84%B0-%EB%89%B4%EB%B9%84-newbie-%EC%9D%98-%EC%9D%BC%EC%A3%BC%EC%9D%BC-3e74e741d1ad)
 * [이직 후 새로운 직장에 적응하는 법 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/597/page/1)
+* [입사 초기에 성과 내려고 하지 말아라](https://brunch.co.kr/@believeinurself/78)
+* [토박이와의 경쟁은 무조건 피해라](https://brunch.co.kr/@believeinurself/96)
+* [경력직을 '하드랜딩'시키는 무지막지한 회사](https://brunch.co.kr/@believeinurself/121)
 * [이곳이 바로.. 유니크굿? — 프론트엔드 인턴의 온보딩과정 #1탄 | by SUHA | Uniquegood | May, 2022 | Medium](https://medium.com/uniquegood/%EC%9D%B4%EA%B3%B3%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%9C%A0%EB%8B%88%ED%81%AC%EA%B5%BF-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9%EA%B3%BC%EC%A0%95-1%ED%83%84-6b75bc5e9758)
 * [이곳이 바로.. 유니크굿..? — 프론트엔드 인턴의 온보딩과정 #2탄 | by SUHA | Uniquegood | May, 2022 | Medium](https://medium.com/uniquegood/%EC%9D%B4%EA%B3%B3%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%9C%A0%EB%8B%88%ED%81%AC%EA%B5%BF-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9%EA%B3%BC%EC%A0%95-2%ED%83%84-8f48bc169779)
 * [헤이딜러 안드로이드팀은 어떻게 일하나요?(1) — 팀문화. - 팀회고, 코딩 컨벤션, 라이브러리 배포, 기술블로그 등의 다양한… | by Ted Park | PRND | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1-%ED%8C%80%EB%AC%B8%ED%99%94-c9c354ac14fe) 정식 onboarding은 아니지만
