@@ -122,6 +122,12 @@ Programming Books
   * [누가 IT시장 취업에 성공하는가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/who_will_succeed.md)
   * [누가 IT시장 취업에 성공하는가. 저자가 java 전문가라 약간 치우친 경향도 있고, 또 기술적인 내용은… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%88%84%EA%B0%80-it%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80-91650eda058b)
   * [누가 IT 시장 취업에 성공하는가](https://jh4hj.tistory.com/entry/%EB%88%84%EA%B0%80-IT-%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80)
+* [커리어 스킬](https://brunch.co.kr/@yudong/103)
+  * 한라
+  * ★★★☆☆ 2022.05.10~12 근육질의 프로그래머 존 숀메즈의 개발자 로드맵. 약간 뻔한 소리로 받아들일 수도 있지만 전반적으로 실용적으로 배우기에 좋다고 생각. 자기 관리가 정말 대단한 사람이라 이런 면 중 하나만 배워도 성장할 수 있을 거 같다
+  * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
+  * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
+  * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
