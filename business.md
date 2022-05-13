@@ -1318,6 +1318,7 @@ Business
 * [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
 * [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력
 * [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
+* [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
