@@ -230,8 +230,6 @@ Network
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
 * [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
-* [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
-* [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
 * [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
   * [**로컬 개발환경에서 HTTPS 이용하기 | GeekNews**](https://news.hada.io/topic?id=6144) OpenSSL, mkcert, ...
 
@@ -258,6 +256,8 @@ Network
 * [Let's Encrypt](https://letsencrypt.org/)
   * [Traefik 인증서 수동으로 갱신하기 · 감자도스](https://blog.potados.com/dev/traefik-force-renew-certificate/)
 * [Qualys SSL Labs](https://www.ssllabs.com/)
+* [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
+* [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
 
 # IP address
 * ifconfig.co [What is my IP address? — ifconfig.co](https://ifconfig.co/)
