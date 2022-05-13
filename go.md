@@ -999,6 +999,7 @@ Go
 * [Golang: Websocket masking과 cache poisoning](https://jusths.tistory.com/250)
 * [Golang: gorilla/websocket 으로 보는 websocket handshake](https://jusths.tistory.com/251)
 * [Golang: gorilla/websocket chatting 예제 분석](https://jusths.tistory.com/254)
+* [Build a Realtime Chat App with Golang in 10 minutes](https://morioh.com/p/7e2bf044f20e)
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [go-websocket-chat-demo](https://github.com/heroku-examples/go-websocket-chat-demo)
   * [Building a high-scale chat server on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
