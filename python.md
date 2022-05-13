@@ -3056,6 +3056,7 @@ Python
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [jupyverse: A Jupyter server based on FastAPI (Experimental)](https://github.com/jupyter-server/jupyverse)
+* [koreanize-matplotlib: install & import하는 것만으로 matplotlib에서 한국어를 표시할 수 있습니다](https://github.com/ychoi-kr/koreanize-matplotlib)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
