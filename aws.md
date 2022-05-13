@@ -1456,6 +1456,7 @@ AWS
 * [Deleting an S3 Bucket Costs Money - CloudCasts](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
 * [사례별로 알아본 안전한 S3 사용 가이드 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6217/)
 * [Incorrect IAM Policy Raised Questions about AWS Access to S3 Data](https://www.infoq.com/news/2022/01/aws-iam-s3-access/)
+* [S3에 Python으로 접근하기 - 이상선 - Medium](https://medium.com/@sunyi233/s3%EC%97%90-python%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0-1e1014d9a85)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
