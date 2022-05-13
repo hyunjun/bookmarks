@@ -116,6 +116,7 @@ Julia
 * [Concurrency in Julia LWN.net](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
 * [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
 * [220417 - Julia Memory Layout - 김종수.pdf - Google Drive](https://drive.google.com/file/d/1p6nsYOEBQJVSLJDtjjU54mrClzJ6MtaY/view)
+* [All about Regular Expressions in Julia - YouTube](https://www.youtube.com/watch?v=WeXJ0-cCgKY)
 
 # API
 * Pkg.add
