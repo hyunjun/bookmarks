@@ -311,6 +311,7 @@ Go
 * [Should You Commit the Vendor Folder in Go? | Boot.dev](https://blog.boot.dev/golang/should-you-commit-the-vendor-folder-in-go/)
 * [Basic matrices operations in Go - YouTube](https://www.youtube.com/watch?v=PQJ5dOe5_L4)
 * [Go Programming | Instantiating A Singleton Object | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/go-programming-instantiating-a-singleton-object-3e3a425346e4)
+* [Build a Simple Facial Recognition Application with Golang](https://morioh.com/p/b0eb7a3be9be)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
