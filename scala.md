@@ -345,6 +345,9 @@ Scala
 * [Diamond Architecture - How to build HUMONGOUS apps FAST! - YouTube](https://www.youtube.com/watch?v=B6bmlh1hCLo)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 2 - YouTube](https://www.youtube.com/watch?v=IY7WglVTBFo)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
+* [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
+* [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
+* [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -803,6 +806,7 @@ Scala
   * [Journey of Implicits in Scala — part 2 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-2-18aec19c6bb5)
   * [Journey of Implicits in Scala — part 3 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-3-963f824ad9ba)
   * [Scala & the Three Implicits | Medium](https://murraytodd.medium.com/scala-the-three-implicits-4fa68e9eb397)
+  * [Implicit vs Scala 3's Given - Alexandru Nedelcu](https://alexn.org/blog/2022/05/11/implicit-vs-scala-3-given/)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -952,6 +956,9 @@ Scala
     * [ZIO WORLD - Execution Tracing by Rob Walsh - YouTube](https://www.youtube.com/watch?v=1-z06KIde0k)
     * [ZIO WORLD - Blocking by Adam Fraser - YouTube](https://www.youtube.com/watch?v=1g21c8VKeuU)
     * [ZIO World - Panel Discussion - YouTube](https://www.youtube.com/watch?v=JxVe2M3ahm8)
+    * [A Prelude of Purity: Scaling Back ZIO by Jorge Vasquez - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=Vq449igxuLk)
+    * [ZIO HTTP by Shubham Girdhar - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=PnJsAOQ5cOc)
+    * [ZIO Schedule and Ref by Ruurtjan Pul - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=IeEPO6GT3wM)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
     * [2nd Zymposium - Adam Fraser, Kit Langton & Tushar Mathur - YouTube](https://www.youtube.com/watch?v=g6w1BuKlSQs)
@@ -1054,6 +1061,7 @@ Scala
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
       * [What's Cooking in ZIO Test by Adam Fraser - YouTube](https://www.youtube.com/watch?v=JtfdcxgQ71E)
+      * [ZIO Test - What, Why and How? - Functional World #4 - YouTube](https://www.youtube.com/watch?v=HqV2R5_VbCw)
     * [ZIO World](https://zioworld.com/)
       * [#zioworld - YouTube](https://www.youtube.com/hashtag/zioworld)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
@@ -1844,6 +1852,7 @@ Scala
 * [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
 * [Monadic Resource Management in Scala :: Alberto Huélamo](https://alhuelamo.com/posts/2022/02/monadic-resource-management-in-scala/)
 * [**Monad란 무엇인가? - YouTube**](https://www.youtube.com/watch?v=jI4aMyqvpfQ)
+* [What is a Monad? Adam Warski | SoftwareMill - YouTube](https://www.youtube.com/watch?v=Bgvfyezalos&list=TLGGfzA1ci2XdpUxMTA1MjAyMg)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -2105,6 +2114,7 @@ Scala
 * [Safer Exceptions in Scala 3. I mentioned in What’s Changed Since… | by Dean Wampler | Scala 3 | Jan, 2022 | Medium](https://medium.com/scala-3/safer-exceptions-in-scala-3-12c47100f050)
 * [Writing a simple CLI game in Scala 3](https://softwaremill.com/writing-a-simple-cli-game-in-scala-3/)
 * [Scala 3: “Erased” Definitions. Martin Odersky and the EPFL Scala… | by Dean Wampler | Scala 3 | Mar, 2022 | Medium](https://medium.com/scala-3/scala-3-erased-definitions-6130a30fbba4)
+* [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
