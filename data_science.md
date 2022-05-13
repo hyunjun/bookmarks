@@ -684,6 +684,7 @@ Data Science
   * [Introducing the New Snorkel](https://www.snorkel.org/hello-world-v-0-9/)
   * [Snorkel is a fundamentally new interface to ML without hand-labeled training data](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
   * [게임의 부정 사용자를 탐지하는 방법, Snorkel을 활용해 라벨 보정하기](https://blog.ncsoft.com/game-data-analytics-20210122/)
+  * [Snorkel을 이용한 직무 키워드 추출 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/05/snorkel%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A7%81%EB%AC%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B6%94%EC%B6%9C/)
 * [Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set](https://github.com/tuplex/tuplex)
   * [Tuplex - 병렬 빅데이터 처리 프레임워크 | GeekNews](https://news.hada.io/topic?id=4580)
 
