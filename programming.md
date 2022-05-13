@@ -4421,11 +4421,13 @@ Programming
 * [What You Can Learn from the AWS Tokyo Outage – The New Stack](https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/)
 * [디아블로 II: 레저렉션 서버 문제에 대한 설명 및 그간의 개선 노력과 향후 계획 안내 - 일반 토론장 - Diablo 2 Resurrected Forums](https://kr.forums.blizzard.com/ko/d2r/t/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C-ii-%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98-%EC%84%9C%EB%B2%84-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B7%B8%EA%B0%84%EC%9D%98-%EA%B0%9C%EC%84%A0-%EB%85%B8%EB%A0%A5%EA%B3%BC-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D-%EC%95%88%EB%82%B4/13261) architecture 관점에서 취한 조치들에 주목
 * [우리는 모의장애훈련에 진심입니다. – part1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
+* [외부 시스템 장애에 대처하는 우리의 자세 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6447/)
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 * [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 * [How we lost 54k GitHub stars – HTTPie blog](https://httpie.io/blog/stardust)
 * [Slack’s Incident on 2-22-22 - Slack Engineering](https://slack.engineering/slacks-incident-on-2-22-22/)
+* [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
