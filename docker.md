@@ -1539,6 +1539,7 @@ Docker
   * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
     * [Kubescape - 쿠버네티스 보안 설치 확인도구 | GeekNews](https://news.hada.io/topic?id=4966)
 * [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+* kubernetes scheduler [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: Kubernetes Scheduler 살펴보기](https://ahnseungkyu.com/294)
 * [kube-schedule-scaler: Kubernetes Controller which provides schedule scaling to Kubernetes deployments and other custom resources in the cluster](https://github.com/amelbakry/kube-schedule-scaler)
   * [kube schedule scaler 도입기](https://www.linkedin.com/posts/gunwoo-park-iwan_%EC%B9%B4%EC%82%AC-%EC%9E%85%EC%82%AC%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EC%B2%AB-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EB%82%A8%EA%B2%A8%EB%86%93%EC%9C%BC%EB%A0%A4%EA%B3%A0%ED%95%9C%EB%8B%A4-activity-6921404760088600576-oaMg/)
 * kubespray
