@@ -207,6 +207,7 @@ Clojure
 * [The Legend of Long JVM Startup Times](https://purelyfunctional.tv/article/the-legend-of-long-jvm-startup-times/)
 * [Clojure's unsung heroics with concurrency](https://purelyfunctional.tv/article/clojures-unsung-heroics-with-concurrency/)
 * [Clojure Concurrency: The Ultimate Guide](https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide)
+* [The Dawn of Lightweight Concurrency for Java and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
 * [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
