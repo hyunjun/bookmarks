@@ -251,6 +251,7 @@ Java
   * [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
   * [java 예외 vs 에러 : 왜 이 둘을 구분 지을까요?](https://codingdog.tistory.com/entry/java-%EC%98%88%EC%99%B8-vs-%EC%97%90%EB%9F%AC-%EC%99%9C-%EC%9D%B4-%EB%91%98%EC%9D%84-%EA%B5%AC%EB%B6%84-%EC%A7%80%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [토이 프로젝트를 하면서 느꼈던 광범위한 예외의 위험성](https://codingdog.tistory.com/614)
+  * [How to Resolve Concurrent Modification Exception In Java - YouTube](https://www.youtube.com/watch?v=uEEVy4K4qhM)
   * [artima - Failure and Exceptions](https://www.artima.com/articles/failure-and-exceptions) exception에 대한 james gosling의 생각이 드러나는 인터뷰
 * File
   * Processing large files efficiently in Java
