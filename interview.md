@@ -239,6 +239,7 @@ Interview
   * [The best engineering interview question I've ever gotten, Part 1 – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
   * [The best engineering interview question I've ever gotten, Part 2 – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/07/memcached-interview-solution/)
 * [How to Freaking Find Great Developers By Having Them Read Code | Freaking Rectangle](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) 코딩 인터뷰가 아닌 다른 형태의 인터뷰의 하나
+* [english-for-coding-interview](https://github.com/codingmonster-tv/english-for-coding-interview)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
