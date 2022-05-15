@@ -19,6 +19,7 @@
 * [The Ultimate Guide to Ad Operations (AdOps) | cleanAD](https://www.clean.io/adops)
 * [마케팅에 도움되는 AI 콘텐츠 제작 기술을 알아보자](https://blog.naver.com/saltluxmarketing/222714564298)
   * [AI로 마케팅 콘텐츠를 만들고 관리하는 방식 | GeekNews](https://news.hada.io/topic?id=6462)
+* [“마테크 기업, 올해 약 1만 개 달해… 11년 동안 60배 증가” - ITWorld Korea](https://www.itworld.co.kr/news/236004)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
