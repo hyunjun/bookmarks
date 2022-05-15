@@ -493,6 +493,7 @@ iOS
 * [수위프트UI/번역 @StateObject와 @ObservedObject, 무엇이 다를까요?](https://pilgwon.github.io/post/state-object-vs-observed-object)
 * [수위프트UI/번역 코드로 알아보는 @Published의 사용법과 위험성](https://pilgwon.github.io/post/published-risks-and-usage-explained)
 * [수위프트UI/번역 SwiftUI에서 에러를 표시하는 가장 간결한 방법](https://pilgwon.github.io/post/error-alert-presenting-in-swiftui-simplified)
+* [SwiftUI 3.0 - Pomodoro Focus Timer App - Complex UI - MVVM - Xcode 13 - SwiftUI Tutorials - YouTube](https://www.youtube.com/watch?v=Pd90OTQiOaA)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
