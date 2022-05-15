@@ -312,6 +312,8 @@ Go
 * [Basic matrices operations in Go - YouTube](https://www.youtube.com/watch?v=PQJ5dOe5_L4)
 * [Go Programming | Instantiating A Singleton Object | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/go-programming-instantiating-a-singleton-object-3e3a425346e4)
 * [Build a Simple Facial Recognition Application with Golang](https://morioh.com/p/b0eb7a3be9be)
+* [Selection Sort in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=LrWkLTyNehk)
+* [What I am working on? Golang dashboard cms - YouTube](https://www.youtube.com/watch?v=1Ue5ffwENvY)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
