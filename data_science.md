@@ -22,6 +22,7 @@ Data Science
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
   * [데이터 과학을 무료로 공부해보자](http://ppss.kr/archives/66141)
+* [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/)
 * Hiring data scientists
   * [(part 1): what to look for in a candidate](https://medium.com/@skyetetra/hiring-data-scientists-part-1-2813ba44be9b)
   * [(part 2): the perfect candidate doesn’t exist](https://medium.com/@skyetetra/hiring-data-scientists-part-2-the-perfect-candidate-doesnt-exist-ec0d8afc4658)
@@ -375,6 +376,7 @@ Data Science
 * [What is Data as a Service?. How the new Paradigm will make your… | by Christianlauer | Apr, 2022 | Medium](https://medium.com/codex/what-is-data-as-a-service-8adc912ef4b0)
 * [데이터 분석가 대디가 유소년 축구 플렉스하기](https://brunch.co.kr/@goodvc78/21)
 * [Week 1 - What is advanced data science anyway?](https://jhuadvdatasci.substack.com/p/week-1-what-is-advanced-data-science)
+* [데이터 분석에 필요한 자질은 뭘까? | Popit](https://www.popit.kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ec%9e%90%ec%a7%88%ec%9d%80-%eb%ad%98%ea%b9%8c/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
