@@ -353,6 +353,7 @@ Web
 * Colly [Scraping Framework for Golang](http://go-colly.org/)
   * [GO Project for Beginners - Web Scraping with Golang - YouTube](https://www.youtube.com/watch?v=NU4OlJVj1gs)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
+* [wbot: A sample & efficient web crawler](https://github.com/twiny/wbot)
 
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
