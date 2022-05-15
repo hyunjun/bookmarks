@@ -82,6 +82,7 @@ Business
 * [집중과 제거의 중요성](https://www.thestartupbible.com/2021/01/the-power-of-elimination-and-focus.html)
 * [대성할 30대 실무자들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/238464) 선택과 집중
 * [소수의 일에 집중하기 - 인생지름길](https://lifeshortcut.kr/%EC%86%8C%EC%88%98%EC%9D%98-%EC%9D%BC%EC%97%90-%EC%A7%91%EC%A4%91%ED%95%98%EA%B8%B0/)
+* [일을 다양하게 하지 마라](http://moneyman.kr/archives/11571) 분업, 집중
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
@@ -474,6 +475,7 @@ Business
   * 목적(purpose의 적합한 번역인지는 따로 생각해봐야 할 문제)이 조직에 영향을 미치는 영역: 수요 창출, 직원 참여, 거버넌스와 지속가능성, 전략과 비즈니스 가능성
 * `Efficiency is doing things right; effectiveness is doing the right things. Peter Drucker`
   * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+* [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -768,6 +770,7 @@ Business
 * [이메일 수업](https://www.thestartupbible.com/2022/03/we-might-have-to-teach-email-communication-101-class-in-schools.html) 이메일의 장점 + 쓰기 커뮤니케이션의 중요성
 * [Error 당신의 공감이 작동하지 않습니다 | 원티드](https://www.wanted.co.kr/events/22_03_s07_b01)
 * [커뮤니케이션이 어려울 때 꺼내 읽기 좋은 이야기](https://brunch.co.kr/@cliche-cliche/148)
+* [사족 붙이지 말고 말하라](http://moneyman.kr/archives/6316)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -927,6 +930,7 @@ Business
   * 로스터에서 제외되는 선수들에 대한 이야기는 '실리콘밸리의 팀장들'에서 이야기하는 '완전한 솔직함'과 일맥상통
   * 6강을 기본으로 단계적인 목표 상향, 너무 높은 목표는 희망을 갖기 어렵다는 건 나도 동감하고 선호하는 스타일
 * [리더의 유형](https://blog.daum.net/choofamily/202) 미국농구코치협회(NABC)의 성공한 코치가 되기 위한 필수적인 조건
+* [수베로 감독님, 한국 선수는 "NO"라고 잘 말하지 못합니다](https://sports.v.daum.net/v/20220513141504768) case, 문화적 배경 등에 따른 커뮤니케이션 필요성
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [나는 우리 직원을 신뢰하는가 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236073)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
