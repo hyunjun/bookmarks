@@ -446,6 +446,7 @@ AWS
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 * [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
 * [MORE AGILE: **당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들 (2022년 업데이트)**](https://www.moreagile.net/2022/04/aws-day1-todo_01694645043.html)
+* [클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 * [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html) AWS SSO
 
