@@ -1344,6 +1344,7 @@ Docker
 * [Do you really need Kubernetes? | InfoWorld](https://www.infoworld.com/article/3527217/do-you-really-need-kubernetes.html)
 * [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
+* [Kubernetes: The Basics | DaemonSets - YouTube](https://www.youtube.com/watch?v=cdY67JqGbIc)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
