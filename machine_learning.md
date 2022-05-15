@@ -1280,6 +1280,7 @@ Machine Learning
 * [Production ML: Getting Started with MLOps | by Hajar Khizou | Towards Data Science](https://towardsdatascience.com/production-ml-getting-started-with-mlops-4856c38b3eab)
 * [MLOps or How to Deploy Data Science at Scale | Towards Data Science](https://towardsdatascience.com/mlops-or-how-to-deploy-data-science-at-scale-b33921b4f17f)
 * [MLOps 생태계 2022년 전망과 Backend.AI로 가속하는 하이퍼스케일 AI 실전로드맵 토크아이티 웨비나, 래블업 - YouTube](https://www.youtube.com/watch?v=fdMfbgqkRQ4)
+* [MLOps : 딥랩 세미나 요약- 8회차. 💡 딥랩 세미나 요약은 발표자인 모더레이터의 발표를 듣고 사회자인… | by Eunsoo Park | 모두의연구소 기술 블로그 | May, 2022 | Medium](https://medium.com/modulabs/mlops-%EB%94%A5%EB%9E%A9-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9A%94%EC%95%BD-8%ED%9A%8C%EC%B0%A8-7b2d05c8752d)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
