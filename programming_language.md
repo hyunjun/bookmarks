@@ -143,6 +143,7 @@ Programming Language
 * [Green Vs. Brown Programming Languages - Earthly Blog](https://earthly.dev/blog/brown-green-language/)
 * [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
+* ["틈새를 파고든다" 새로운 프로그래밍 언어 11선 - ITWorld Korea](https://www.itworld.co.kr/news/236219)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
