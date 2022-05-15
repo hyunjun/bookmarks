@@ -209,6 +209,7 @@ Programming Books
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 * (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
   * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
+* (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
 
 # Agile Scrum
 
@@ -1406,6 +1407,7 @@ Programming Books
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
 * (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
 * (NOT YET) [266가지 문제로 정복하는 코딩 인터뷰 in C++ · TheoryDB](https://theorydb.github.io/review/2021/10/30/review-book-cpp-algorithm-266/)
+* (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
 
 # iOS
 
