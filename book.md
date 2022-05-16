@@ -463,6 +463,7 @@ Book
   * 우당
 * (NOT YET) 히틀러를 선택한 나라- 민주주의는 어떻게 무너졌는가 [누가 히틀러 집권에 꽃길을 깔아줬나?](https://n.news.naver.com/mnews/article/028/0002587823)
   * 우당
+* (NOT YET) 나의 이름은 임대운 [5·18 회고록 낸 미국인 "왜곡 반복 안 돼, 윤석열 진실 알아야" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002834726)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
