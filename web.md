@@ -640,6 +640,7 @@ Web
 
 # GraphQL
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
+* [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Stop Using REST For APIs. GraphQL Is Way Better | by Harsha Vardhan | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-rest-for-apis-d697727ae6dd)
 * [GraphQL과 REST의 차이점 | Hwasurr's Devlog](https://hwasurr.io/api/rest-graphql-differences/)
