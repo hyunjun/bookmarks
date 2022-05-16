@@ -147,7 +147,10 @@ Programmer
 * [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
 * [Creating a career ladder for engineers - Marco Rogers | #LeadDevNewYork - YouTube](https://www.youtube.com/watch?v=jA1Q94d2z10) 개발자들의 커리어 사다리가 왜 중요하고 어떻게 운영하면 되는가
 * [What I Learnt Becoming a Tech Lead - Tom Gamon](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
+* [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+  * 소프트웨어 엔지니어, QA 엔지니어, SRE, 머신러닝 엔지니어, 엔지니어링 매니저마다 각 레벨에서의 기대되는 역할과 핵심 책임 정리
+  * [드롭박스의 엔지니어링 커리어 프레임워크 | GeekNews](https://news.hada.io/topic?id=4604)
 * [Introducing The Complete Computer Science Career Path](https://www.codecademy.com/resources/blog/introducing-the-complete-computer-science-career-path/)
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
