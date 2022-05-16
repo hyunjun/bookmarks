@@ -928,6 +928,7 @@ Go
 * [golang 기본 배우기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864349)
 * [Akhil Sharma - YouTube](https://www.youtube.com/c/AkhilSharmaTech/playlists)
 * [Go code snippets - YouTube](https://www.youtube.com/channel/UCwpHxv6d5EoHTdVlNyncHLw/featured)
+* [How to Effectively Recover from Panic in Go Applications](https://morioh.com/p/4eef0bedc51c)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
