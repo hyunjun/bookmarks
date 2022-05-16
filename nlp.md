@@ -1832,6 +1832,7 @@ NLP
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) pytorch
 * [Tutorial: Natural Language Processing (NLP) in Python - From Zero to Hero](https://us.pycon.org/2020/schedule/presentation/49/)
 * [Natural Language Processing using TensorFlow: From Zero To Hero](https://morioh.com/p/c5c4a6aae0d5)
+* [Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMZtGFH69qj4PADyV6WZuqI)
 * [Ben Batorsky - Introduction to Natural Language processing | PyData Boston May Meetup - YouTube](https://www.youtube.com/watch?v=2EIzR5DwOg0)
 * [MrBananaHuman/KorNlpTutorial: 한국어 자연어처리 튜토리얼](https://github.com/MrBananaHuman/KorNlpTutorial)
 * [NLP 언제까지 미룰래? 일단 들어와!! #1.자연어 처리란? - DACON](https://dacon.io/codeshare/1794)
