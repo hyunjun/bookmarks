@@ -304,6 +304,7 @@ Web
   * [Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선 | GeekNews](https://news.hada.io/topic?id=6080)
 * [웹용 스토리지](https://web.dev/storage-for-the-web/)
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
+* [웹브라우저에 데이터를 저장하기 - IndexedDB - YouTube](https://www.youtube.com/watch?v=mHJDtDM_wHc)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
