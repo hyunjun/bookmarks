@@ -1347,6 +1347,7 @@ Programming
 * [아키텍처 그림 가운데 있는 데이터](https://brunch.co.kr/@graypool/433)
 * [Work Objects란 무엇인가?](https://brunch.co.kr/@graypool/446)
 * [아키텍처는 의사소통에 관한 문제다](https://brunch.co.kr/@graypool/438)
+* [진화하는 혹은 오래 사는 시스템 만들기](https://brunch.co.kr/@graypool/464)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
