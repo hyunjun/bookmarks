@@ -1175,6 +1175,7 @@ Linux
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
   * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
+* [Pipe Viewer – A Unix Utility You Should Know About](https://catonmat.net/unix-utilities-pipe-viewer)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * ptyget [Daniel J. Bernstein's ptyget toolset](https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
