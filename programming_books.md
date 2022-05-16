@@ -894,6 +894,10 @@ Programming Books
 * 파이썬 라이브러리를 활용한 머신러닝
   * 2016.06
   * 한라 005.133 뮐294ㅍ
+  * (NOT YET) [파이썬 라이브러리를 활용한 머신러닝(번역개정판) : 사이킷런 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서](http://www.hanbit.co.kr/store/books/look.php?p_code=B5750278775)
+    * [개정판 파이썬 라이브러리를 활용한 머신러닝](https://tensorflow.blog/%EA%B0%9C%EC%A0%95%ED%8C%90-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+  * (NOT YET) [파이썬 라이브러리를 활용한 머신러닝(번역개정2판)](https://hanbit.co.kr/store/books/look.php?p_code=B3887932883)
+    * [sklearn개발자가 쓴 교과서 - 파이썬 라이브러리를 활용한 머신러닝](https://ugong2san.tistory.com/4115)
 * [파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문](http://wikibook.co.kr/python-machine-learning/)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * [그림과 수식으로 배우는 통통 머신러닝](http://jpub.tistory.com/722)
@@ -932,8 +936,6 @@ Programming Books
 * (NOT YET) 통계적 기계 학습
   * 2016.04
   * 한라 004.74 스18ㅌ
-* (NOT YET) [파이썬 라이브러리를 활용한 머신러닝(번역개정판) : 사이킷런 핵심 개발자가 쓴 머신러닝과 데이터 과학 실무서](http://www.hanbit.co.kr/store/books/look.php?p_code=B5750278775)
-  * [개정판 파이썬 라이브러리를 활용한 머신러닝](https://tensorflow.blog/%EA%B0%9C%EC%A0%95%ED%8C%90-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * (NOT YET) [캐글 가이드 전 세계 데이터 과학자와 소통하고, 경쟁하고, 성장하기 | 동양북스](http://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general_it&goods_code=2656)
 * (NOT YET) [주머니 속의 머신러닝](https://jpub.tistory.com/1148) kaggle
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
