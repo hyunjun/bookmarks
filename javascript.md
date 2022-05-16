@@ -3852,6 +3852,7 @@ Javascript
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
   * [nextjs-starter-kit: NextJS Starter Kit with Testing Frameworks and CI/CD](https://github.com/sex-request/nextjs-starter-kit)
+  * [play-nextjs-mysql-graphql](https://github.com/notlamc/play-nextjs-mysql-graphql)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
@@ -4375,6 +4376,8 @@ Javascript
 * [Static Methods Not Supported in TypeScript Interfaces | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/static-methods-not-supported-in-typescript-interfaces-54a01e1e46ea)
 * [Building PGN Blocks With TypeScript | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/building-pgn-blocks-with-typescript-d1ddd58e42ff)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
+* [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
+  * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
   * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
