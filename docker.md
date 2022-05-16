@@ -852,6 +852,7 @@ Docker
 * [Infra 쿠버네티스(kubernetes)(3) 쿠버네티스로 nginx, flask 연동 후 배포하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes03/)
 * [Infra 쿠버네티스(kubernetes)(4) 컨테이너 IP와 파드 IP의 관계 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes04/)
 * [A guide to Kubernetes architecture | Opensource.com](https://opensource.com/article/22/2/kubernetes-architecture)
+* [K8s Architecture. Hurray! Vehement readers, I’m up with… | by Gokula Santhiya | Mar, 2022 | Medium](https://santhiyasandyrc.medium.com/k8s-architecture-e7e317cde1a5)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
