@@ -134,6 +134,7 @@ App
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [Look Scanned](https://lookscanned.io/)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
+  * [pdf2image: pdfium 라이브러리를 이용한 pdf2image](https://github.com/sokcuri/pdf2image)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
@@ -456,6 +457,7 @@ App
 * [Automa - 크롬 브라우저 자동화 확장 | GeekNews](https://news.hada.io/topic?id=5464)
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
+* [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * MuteTab [크롬 탭 별 음소거(mute) 처리](https://jybaek.tistory.com/953)
@@ -988,6 +990,7 @@ App
 * [Xcode 파일청소로 맥 하드용량 확보 - dobiho on HCI](http://dobiho.com/7192/)
 * [macOS 안내서](https://subicura.com/mac/)
 * ['기본 앱에서 정답 찾기' 아이폰∙아이패드∙맥의 메모 앱 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/219309)
+* [“의외로 유용하다” 데스크톱 경험을 바꿔줄 맥의 10가지 숨은 기능 - ITWorld Korea](https://www.itworld.co.kr/news/235764)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -1044,6 +1047,8 @@ App
 * [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
 * [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
 * [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
+* [10 Tips - Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
+  * [맥 Preview 앱의 잘 안 알려진 기능들 | GeekNews](https://news.hada.io/topic?id=6524)
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1114,6 +1119,7 @@ App
   * [Password Protect Zip Files in Mac OS X](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/)
   * ["바탕화면∙도구 모음 필수품" 3대 압축 전용 프로그램 - ITWorld Korea](https://www.itworld.co.kr/news/218879)
   * [7-Zip 압축 프로그램을 이용한 "C:\Program Files\WindowsApps" 폴더 내 파일 삭제 방법](https://hummingbird.tistory.com/6902)
+  * [bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [CotEditor -Text Editor for macOS](https://coteditor.com/)
 * [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
@@ -1884,6 +1890,7 @@ App
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
   * [이게바로 윈도우판 굿락? 상상보다 훨씬 더 편해지는 윈도우 '무료 프로그램' 핵꿀팁 공개합니다. - YouTube](https://www.youtube.com/watch?v=bzg3otFT3zI)
   * ['윈도우 속 만능 도구함' MS 파워토이 활용법 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/222279)
+  * [PowerToys - 11 awesome features Microsoft won’t add to Windows](https://www.fourth-wall.co.uk/post/powertoys-11-awesome-features-microsoft-won-t-add-to-windows)
 * [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
