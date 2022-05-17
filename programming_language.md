@@ -86,6 +86,7 @@ Programming Language
   * [GraalVM - YouTube](https://www.youtube.com/playlist?list=PLX8CzqL3ArzVn8iQOWm9eB_4feu3a9bfD)
   * [GraalVM 22.0 Released with Native Image Improvements](https://www.infoq.com/news/2022/01/graalvm-22-native-image/)
   * [Revolutionizing Java with GraalVM Native Image](https://www.infoq.com/articles/native-java-graalvm/)
+  * [GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원 | GeekNews](https://news.hada.io/topic?id=6451)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
