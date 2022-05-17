@@ -588,6 +588,7 @@ Programming
     * 회사마다 프로젝트를 관리하는 방식이 다름
     * 빅테크 기업은 주로 엔지니어가 프로젝트를 주도하고 전문 프로젝트 관리자가 없어서 관리방식을 스스로 결정
       * 이에 따라 자율성이 높아지고 더 큰 영향력을 발휘
+  * [빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재 | GeekNews](https://news.hada.io/topic?id=6467)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
@@ -1979,6 +1980,7 @@ Programming
 * [데이터부터 ID까지 다 지킨다··· 클라우드 '빅3' 사이버 보안 제품 가이드 - CIO Korea](https://www.ciokorea.com/news/209062)
 * [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
 * [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+* [A New Hope for Object Storage: R2 enters open beta](https://blog.cloudflare.com/r2-open-beta/)
 * [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
@@ -2029,6 +2031,7 @@ Programming
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
   * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
   * [왜 회사들이 Heroku를 떠나는가(비용 제외) | GeekNews](https://news.hada.io/topic?id=6460)
+  * [Why Did Heroku Fail?](https://matt-rickard.com/why-did-heroku-fail/)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
@@ -2672,6 +2675,7 @@ Programming
   * passwordless는 핸드폰에서 FIDO 인증을 하면 passkey를 저장하고 이 passkey를 이용해서 온라인 계정 로그인 가능
   * 컴퓨터에서는 근처에 있는 폰을 이용해서 로그인할 수 있고 한번 로그인하고 나면 이후부터는 컴퓨터의 잠금만 풀면 핸드폰이 없어도 로그인 가능
     * 폰에 저장된 passkey는 클라우드 백업으로 새 폰에서도 이용
+* [애플·구글·MS, '암호 없는 로그인'에 협력한다··· 2023년부터 지원 예정 - CIO Korea](https://www.ciokorea.com/news/235534)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [The Three Things to Never Build In Your App: Authentication, Notifications, and Payments | Courier](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
 * [Send My: Arbitrary data transmission via Apple's Find My network | Positive Security](https://positive.security/blog/send-my)
@@ -2725,6 +2729,7 @@ Programming
 * ['고르고 고른' 네트워크·보안 전문가용 필수 리눅스 툴 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/232349)
 * [How to design a 𝐬𝐞𝐜𝐮𝐫𝐞 web API access for your website?](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6920033960039260160-VMNA/)
 * [sha 1 - How easy is it in 2022 to find a SHA1 collision? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
+* [media.ccc.de - Practical bruteforce of military grade AES-1024](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
@@ -2743,6 +2748,7 @@ Programming
     * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 * [Hacker Test: A site to test and learn about web hacking](https://www.hackertest.net/)
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
@@ -4154,6 +4160,8 @@ Programming
   * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
   * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
 * [What’s Wrong With Measuring Developer Performance (+ 10 Best Metrics) - DEV Community](https://dev.to/actitime/whats-wrong-with-measuring-developer-performance-10-best-metrics-5620)
+* [Measuring enterprise developer productivity | The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
+  * S – Satisfaction & Well Being P – Performance A – Activity C – Collaboration & Communication E – Efficiency & Flow
 * [프로덕트 조직의 생산성 높이기 (라인플러스 Fellow 김영재) - YouTube](https://www.youtube.com/watch?v=xlV82Q-ZmAA&list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
 * [Top 10 Things That Destroy Developer Productivity - YouTube](https://www.youtube.com/watch?v=O-U11s-Rk_w)
   * interruptions and meetings, micromanagement, vagueness, environment, scope creep product development process
@@ -4452,6 +4460,7 @@ Programming
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 * [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
+* [아틀라시안의 클라우드 장애에서 배운 4가지 네트워크 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/235539)
 * [How we lost 54k GitHub stars – HTTPie blog](https://httpie.io/blog/stardust)
 * [Slack’s Incident on 2-22-22 - Slack Engineering](https://slack.engineering/slacks-incident-on-2-22-22/)
 * [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
