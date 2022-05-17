@@ -797,6 +797,7 @@ Go
 ## Library logging
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
 * [You’re doing Application Logging Wrong | by Jim T Dev | Medium](https://medium.com/@jimtdev/youre-doing-application-logging-wrong-d1465f80234c)
+* [Don't trust your logs! Implementing a Merkle tree for an Immutable Verifiable Log (in Go)](https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 * Zap [Structured Logging in Golang with Zap - Powerful Logging](https://codewithmukesh.com/blog/structured-logging-in-golang-with-zap/)
 
