@@ -769,6 +769,7 @@ Business
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [화상회의, 카메라를 켜야할까? | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/524/page/1)
+* [“화상회의가 창의성 저해한다, 이유는...” 美 연구진 - CIO Korea](https://www.ciokorea.com/news/236144)
 * [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
   * text가 아니라 context를 전달하라. 6 pager와 마찬가지 맥락
   * content를 파편화시키지 말고 통합된 경로로 모아야 함(그 수단이 보통 confluence wiki). e.g. 첨부파일 X
