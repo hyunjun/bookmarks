@@ -107,8 +107,6 @@
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
-* [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
-* [Pluu Dev - 요약 Kotlin Flows in practice (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/07/ads21-Kotlin-Flows-in-practice/)
 * [Hacking with Kotlin: prepending](https://proandroiddev.com/hacking-with-kotlin-prepending-d1ba87b64846)
 * [코틀린으로 구현하는 당신의 첫번째 Node.js app](https://devsh.tistory.com/135)
 * [Fast Prototypes with Flutter + Kotlin/Native](https://tech.olx.com/fast-prototypes-with-flutter-kotlin-native-d7ce5cfeb5f1)
@@ -163,6 +161,7 @@
 * [Get started with Kotlin/JS for React | Kotlin](https://kotlinlang.org/docs/js-get-started.html)
   * [kotlin to javascript (client side) - 밍피디의 개발노트](https://mingpd.github.io/2019/04/18/newtech/kotlin-to-javascript/)
 * [Meta-Programming with Kotlin for Android | by Mehdi Yari | Apr, 2022 | ProAndroidDev](https://proandroiddev.com/meta-programming-with-kotlin-for-android-6097307a9fe3)
+* [(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?](https://jojoldu.tistory.com/671)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -282,6 +281,9 @@
 * [Kotlin CoroutineScope을 알아보고, cancel 처리에 대해서 알아보자](https://thdev.tech/kotlin/2020/12/29/kotlin_effective_17/)
 * [Callback으로 전달받은 데이터를 Coroutines의 Channel로 처리해보자](https://thdev.tech/kotlin/2021/01/09/Coroutines-Callback/)
 * [KOTLIN Flow 에 대한 총정리 # Coroutine](https://developer88.tistory.com/345)
+* [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
+* [Pluu Dev - 요약 Kotlin Flows in practice (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/07/ads21-Kotlin-Flows-in-practice/)
+* [7 useful ways to create Flow in Kotlin | by Radhika S | May, 2022 | Canopas](https://blog.canopas.com/7-useful-ways-to-create-flow-in-kotlin-577992b73315)
 * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 * [Kotlin Coroutines Flow in a nutshell | by Alexey Bykov | ProAndroidDev](https://proandroiddev.com/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 
