@@ -168,6 +168,9 @@ Redis
   * [**패턴으로 TTL 적용하기**](https://jojoldu.tistory.com/349) scan으로 pattern match되는 key를 찾아 expire 적용하는 script
   * [Redis keys 대신 scan 이용하기](https://tjdrnr05571.tistory.com/11)
 
+# Go
+* [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
+
 # Java
 * [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
 * [Redis Cache 기능을 활용한 성능 개선 이야기 Part 2 | Recoding Life](https://jane096.github.io/project/redis-caching-part2/)
