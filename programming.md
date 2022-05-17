@@ -289,6 +289,7 @@ Programming
 * [Tips From The Book Every Programmer Should Read](https://hackernoon.com/tips-from-the-book-every-programmer-should-read-425fb77873f8)
 * [40 Tips that will change your coding skills forever | by Kesk | The Startup | Medium](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc)
 * [Thetips4you - YouTube](https://www.youtube.com/c/Thetips4you/videos)
+* [DevTools Tips](https://devtoolstips.org/)
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
@@ -892,6 +893,7 @@ Programming
   * [개발자 면접준비 #1. MVC패턴이란 : 네이버 블로그](https://blog.naver.com/jhc9639/220967034588)
   * [MVC 패턴에서 Service Model의 역할](https://abn-abn.tistory.com/190)
   * [서비스(Service) 라고?](https://velog.io/@juunini/%EC%84%9C%EB%B9%84%EC%8A%A4Service%EB%9D%BC%EA%B3%A0)
+  * [10 REASONS MVC FRAMEWORKS AREN'T DINOSAURS BUT SHARKS](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
 * MVP
   * [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
   * [MVP Library 소개](http://softwaree.tistory.com/10)
@@ -2762,6 +2764,7 @@ Programming
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
+* [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
 * [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
