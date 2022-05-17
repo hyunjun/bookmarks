@@ -241,6 +241,7 @@ Interview
 * [How to Freaking Find Great Developers By Having Them Read Code | Freaking Rectangle](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) 코딩 인터뷰가 아닌 다른 형태의 인터뷰의 하나
 * [english-for-coding-interview](https://github.com/codingmonster-tv/english-for-coding-interview)
 * [능력 있는 개발자는 어떻게 알아볼 수 있나? by 황준식님](https://okky.kr/article/370719)
+* [The 5 Secrets for Getting Hired After 50](https://www.aarp.org/work/job-search/getting-hired-after-50/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
