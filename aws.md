@@ -1134,6 +1134,7 @@ AWS
     * "Built-in HTTPS Endpoints for Single-Function Microservices"
     * 람다 함수에 URL엔드포인트를 설정해서 호출(CORS 헤더 설정 지원)
     * 버전별로 호출 및 Alias 지정 가능
+* [AWS Lambda GraalVM native: Quarkus vs plain Java | by Aleksandr Filichkin | May, 2022 | Medium](https://filia-aleks.medium.com/aws-lambda-graalvm-native-quarkus-vs-plain-java-90176eff515d)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
