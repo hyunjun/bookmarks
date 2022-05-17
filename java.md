@@ -628,6 +628,7 @@ Java
 * [Intellij에서 docker와 docker-compose 사용하는 방법 : 클리앙](https://www.clien.net/service/board/cm_app/14152483)
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다 | JetBrains Blog](https://blog.jetbrains.com/ko/2020/03/26/local-history-intellij-save-your-code-ko/)
 * [인텔리J에서 이 옵션은 반드시 켜주시는게 좋습니다. - YouTube](https://www.youtube.com/watch?v=1hv8aQOD68M)
+* [JetBrains IntelliJ IDEA 2022.1 Introduces Dependency Analysis](https://www.infoq.com/news/2022/05/jetbrains-intellij-2022-1/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -975,6 +976,8 @@ Java
   * [Scale By The Bay 2020: Adam Warski, Project Loom? Better Futures? What’s next for JVM concurrent... - YouTube](https://www.youtube.com/watch?v=q3qJH2QuqUA)
   * [Going inside Java’s Project Loom and virtual threads](https://blogs.oracle.com/javamagazine/going-inside-javas-project-loom-and-virtual-threads)
   * ['프로젝트 룸' 최신 자바 동시성 모델 따라잡기 - CIO Korea](https://www.ciokorea.com/news/228714)
+  * [Using Java's Project Loom to build more reliable distributed systems · James Baker](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
+  * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
