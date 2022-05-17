@@ -2752,6 +2752,7 @@ Javascript
 * [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
 * [Koa JS FrameWork을 이용한 RestAPI 만들기 # NodeJS](https://developer88.tistory.com/383)
+* [Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js | GeekNews](https://news.hada.io/topic?id=6503)
 * [Lambda Complex is a Node.js framework for applications that run entirely within Lambda, SQS, and other high abstraction layer AWS services](https://github.com/exratione/lambda-complex)
 * [LispyScript - A javascript With Lispy Syntax And Macros!](http://lispyscript.com/)
 * [LoopBack for End-to-End REST APIs Tech Talk](https://developer.ibm.com/tv/loopback-connect-apis-tech-talk/)
