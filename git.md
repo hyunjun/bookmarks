@@ -568,6 +568,7 @@ Git
   * [Commit Often, Perfect Later, Publish Once—Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
   * [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
   * [Why should I write good commit messages? | by Ankit Muchhala | The Startup | Medium](https://medium.com/swlh/why-should-i-write-good-commit-messages-e15d37bf45cb)
+  * [How Square writes commit messages | Square Corner Blog](https://developer.squareup.com/blog/how-square-writes-commit-messages/)
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
 * `config`
