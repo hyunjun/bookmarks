@@ -139,6 +139,8 @@ Shell
   * 터미널에서 프롬프트에 표시되는 PS1을 쉽게 만들어 주는 웹사이트
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
 * [commit.sh: Generate commit message according to AngularJS Commit Message Conventions](https://github.com/outstanding1301/commit.sh)
+* [Hush - a unix shell based on the Lua programming language](https://github.com/hush-shell/hush)
+  * [Foreword - Hush](https://hush-shell.github.io/foreword.html)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
 * [Oil](http://www.oilshell.org/)
   * [Oil - 새로운 Unix 쉘 | GeekNews](https://news.hada.io/topic?id=5408)
