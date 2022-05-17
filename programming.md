@@ -3795,6 +3795,7 @@ Programming
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
 * [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
+* [레스토랑에 비유해서 알아보는 운영체제 | 요즘IT](https://yozm.wishket.com/magazine/detail/1269/)
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [Essence](https://nakst.gitlab.io/essence)
 * [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
