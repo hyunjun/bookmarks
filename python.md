@@ -67,7 +67,7 @@ Python
   * [파이썬 GIL 깊숙히! (상) 에 대한 몇 가지 변명](http://highthroughput.org/wp/cb-1146/)
   * [Andrew Montalenti: Beating Python's GIL to Max Out Your CPUs](https://www.youtube.com/watch?v=gVBLF0ohcrE)
   * [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
-  * [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
+  * [Why is Python so slow? | Hacker Noon](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
   * [번역 파이썬 GIL은 사라질까?](https://velog.io/@novemberoscar/%ED%8C%8C%EC%9D%B4%EC%8D%AC-GIL%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%88%EA%B9%8C)
   * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
   * [python의 GIL과 threading](https://blog.hanaoto.me/gil-and-threading-in-python/)
@@ -75,7 +75,7 @@ Python
   * [python gil이 있으니까 thread safe 할까요?](https://codingdog.tistory.com/entry/python-gil%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-thread-safe-%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [파이썬에서 멀티코어 활용하기 (feat. 라인 서버 개발자) | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=V18ceQO_JkM)
     * [talks/subinterpreters.pdf at main · vstinner/talks](https://github.com/vstinner/talks/blob/main/2021-PyconUS/subinterpreters.pdf)
-  * [Why is Python so slow? | Hacker Noon](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
+* [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Do-nothing scripting: the key to gradual automation – Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
@@ -351,6 +351,7 @@ Python
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
 * [**Interesting Python Tips and Tricks | by Ravi | Analytics Vidhya | Sep, 2020 | Medium**](https://medium.com/analytics-vidhya/interesting-python-tips-and-tricks-6d033967b5a5)
 * [Here are some tips to speed up your Python program | by Anh T. Dang | Nov, 2021 | Level Up Coding](https://levelup.gitconnected.com/here-are-some-tips-to-speed-up-your-python-program-e47257b4e6d3)
+* [5 Useful Python Scripts. Part 10: Excel Files Merger, Extended… | by Harendra Verma | May, 2022 | Python in Plain English](https://python.plainenglish.io/5-useful-python-scripts-3b3445ece8e8)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [50 python one-liners everyone should know | by Allwin Raju | Medium](https://allwin-raju-12.medium.com/50-python-one-liners-everyone-should-know-182ea7c8de9d)
@@ -456,6 +457,7 @@ Python
 * [Ask HN: Good Python projects to read for modern Python? | Hacker News](https://news.ycombinator.com/item?id=29698198)
   * [최신 Python을 익히기에 좋은 프로젝트는 ? | GeekNews](https://news.hada.io/topic?id=5635)
 * [파이썬 40줄로 Wordle을 풀어보자](https://tanstaafl.dev/20220116-wordle.html)
+* [Literate programming wordle — Literate Wordle documentation](https://jiby.tech/project/literate_wordle/wordle.html)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 1)](https://patrickbrianmooney.tumblr.com/post/677562926797914112/some-notes-on-writing-parser-based-interactive)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 2)](https://patrickbrianmooney.tumblr.com/post/677563800800624640/some-notes-on-writing-parser-based-interactive)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 3)](https://patrickbrianmooney.tumblr.com/post/677564280839831552/some-notes-on-writing-parser-based-interactive)
@@ -538,6 +540,7 @@ Python
 * [Introduction to Priority Queues in Python | by Raivat Shah | Towards Data Science](https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3) list, heapq, queue.PriorityQueue
 * [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
 * [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(`*`, `**`), dictionary, product
+  * [Multiple assignment and tuple unpacking improve Python code readability - Trey Hunner](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
 * [Handy Python Snippets for Cleaner Code | by Tate Galbraith | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/handy-python-snippets-for-cleaner-code-a1e2c5d39a0d)
 * [11 Python Built-in Functions You Should Know | by Christopher Tao | Feb, 2021 | Towards Data Science](https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db)
 * [파이썬 3.10의 새 '패턴 매칭'이 할 수 있는 일 - CIO Korea](https://www.ciokorea.com/news/185423)
@@ -674,6 +677,7 @@ Python
   * [TypedDict vs dataclasses in Python — Epic typing BATTLE! | Meeshkan Website](https://meeshkan.com/blog/typedict-vs-dataclasses-in-python/) Optional
   * [12 Examples of How To Write Better Code Using @dataclass | by Bruce H. Cottman, Ph.D. | Towards Data Science](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239)
   * [This Is Why Python Data Classes Are Awesome - YouTube](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
+  * [An Introduction to Dataclass Decorators in Python | by Diane Khambu | May, 2022 | Python in Plain English](https://python.plainenglish.io/dataclass-in-python-4ccebafccf88)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
   * [practice - `datetime.strptime(<date as string>, <format>)`](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py#L19-L25)
@@ -3515,7 +3519,6 @@ Python
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
-* [jurigged: Hot reloading for Python](https://github.com/breuleux/jurigged)
 * [Kanna makes html components easier to display. like table, panel, etc](https://github.com/h4wldev/kanna)
 * [Kazoo - a Python library designed to make working with Zookeeper a more hassle-free experience that is less prone to error](https://kazoo.readthedocs.io/)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
@@ -3682,7 +3685,6 @@ Python
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
-* [reloadr: Hot code reloading tool for Python](https://github.com/hoh/reloadr)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [REMOVESTAR Tool to automatically replace 'import \*' in Python files with explicit imports](https://www.asmeurer.com/removestar/)
 * [**Requests - an elegant and simple HTTP library for Python, built for human beings**](http://docs.python-requests.org/)
@@ -4195,6 +4197,7 @@ Python
   * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
   * [Python 실전 개발 생태계](https://humbledude.github.io/blog/2019/08/22/python-dev-env/) pyenv, docker
   * [Pyenv 삽질기… 파이썬 버전관리와 가상환경 구축하는 방법 | by Jake Lee | Jul, 2021 | Medium](https://medium.com/@visiodeibc/pyenv-%EC%82%BD%EC%A7%88%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B2%95-641c451512e6)
+  * [Managing Python versions with pyenv | The Python Corner](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
@@ -4317,6 +4320,12 @@ Python
 * [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/) Instant Python refactoring
 * [**Undebt is a fast, straigPygmentshtforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
+
+## Library reload
+* [jurigged: Hot reloading for Python](https://github.com/breuleux/jurigged)
+* [reloadium: Advanced hot reloading & profiling for Python](https://github.com/reloadware/reloadium)
+  * [Reloadium - Advanced Hot Reloading for Python | GeekNews](https://news.hada.io/topic?id=6477)
+* [reloadr: Hot code reloading tool for Python](https://github.com/hoh/reloadr)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
@@ -4728,6 +4737,7 @@ Python
 * [패턴 매칭 지원 外··· '파이썬 3.10', 무엇이 달라졌을까 - CIO Korea](https://www.ciokorea.com/news/209694)
 * [Python 3.10 톺아보기 | Lablup Blog](https://blog.lablup.com/posts/2021/11/12/python-3.10-overview)
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
+* [Python is About to Become 64% Faster — Python 3.10 vs. Python 3.11 Benchmark | by Dario Radečić | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/python-is-about-to-become-64-faster-python-3-10-vs-python-3-11-benchmark-3a6abcc25b90)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * 2to3
