@@ -461,6 +461,9 @@ NoSQL
 # PlanetScale
 * [Announcing PlanetScale: The database for developers](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers)
 
+# PranaDB
+* [pranadb - a distributed streaming database, designed from the outset to be horizontally scalable](https://github.com/cashapp/pranadb)
+
 # Pyro: A Spatial-Temporal Big-Data Storage System
 * [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
