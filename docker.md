@@ -356,7 +356,6 @@ Docker
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
 * [ImageLayers.io - Docker Image Visualization and Badges](https://imagelayers.io)
 * [Container Factory - Turn your Github repo into a published container image](http://www.containerfactory.io/)
-* [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [The case against Docker](https://www.andreas-jung.com/contents/the-case-against-docker)
 * [Convert Any Server to a Docker Container](https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/)
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
@@ -1798,6 +1797,9 @@ Docker
   * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
   * [Man Seok Techne Schoe: Lima + docker server 구성](https://manseok.blogspot.com/2022/04/lima-docker-server.html)
   * [Man Seok Techne Schoe: Native, Docker for Mac, Lima에서 실행 결과 비교](https://manseok.blogspot.com/2022/04/native-docker-for-mac-lima.html)
+* LXD
+  * [Linux Containers - LXD - Introduction](https://linuxcontainers.org/lxd/introduction/)
+  * [A Quick Introduction to LXD](http://blog.scottlowe.org/2015/05/06/quick-intro-lxd/)
 * [minivm: A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)
 * multipass: 우분투 기반 도커 호스팅을 매우 빠르게 실행
   * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)
