@@ -789,6 +789,13 @@ Javascript
 * [scrollIntoView로 스크롤 제어 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/888)
 * [How to Crop or Resize an Image With JavaScript](https://code.tutsplus.com/tutorials/how-to-crop-or-resize-an-image-with-javascript--cms-40446)
 * [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
+* [JavaScript Containers](https://tinyclouds.org/javascript_containers)
+  * JavaScript가 브라우저에서 쓰이고 있기 때문에 가장 보편적인 스크립트 언어라고 볼 수 있고
+    * 브라우저처럼 추상화된 샌드박스로 서버에서 컨테이너가 유행했듯이 JavaScript 컨테이너 개념을 주장하는 글
+    * Node.j를 만들었던 Ryan Dahl이 쓴 글로 현재 만드는 Deno 지지에 치우침
+  * "The Network Is the Computer"라는 개념을 구현한 것이 Cloudflare Workers와 Deno Deploy
+    * Shell의 역할을 JavaScript가 대체하고 JavaScript 샌드박스는 Wasm을 호출하게 될 것이고
+    * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1832,6 +1839,10 @@ Javascript
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
   * [Nest.js ConfigService를 주입받는 UseCase 테스트하기 | 강준영 기술 블로그](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
   * [Bank API as Microservices with CQRS in TypeScript | Level Up Coding](https://levelup.gitconnected.com/microservices-with-cqrs-in-typescript-and-nestjs-5a8af0a56c3a)
+  * [Clean Node.js Architecture —With NestJs and TypeScript | by Royi Benita | Better Programming](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)
+    * NestJS 웹 프레임워크와 TypeScript로 클린 아키텍처를 구현하는 방법 설명
+    * Framework, Controller, Use Cases, Entities의 각 계층에서 담당해야 할 부분과 어떻게 구현하고 관심사를 분리해야 하는지를 전체 예시 코드와 함께 설명
+    * NestJS를 설명하는 글은 아니지만, NestJS로 구현했기 때문에 NestJS가 해주는 기능을 사용하는 부분이 어느 정도 포함
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
@@ -1846,6 +1857,7 @@ Javascript
 * [nuxt.js](https://nuxtjs.cmty.io/)
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
   * [Create documentation easily using NuxtJS VueJS content plugin | by Bikram KC | Nov, 2020 | Medium](https://bikramkc.medium.com/create-documentation-easily-using-nuxtjs-vuejs-content-plugin-e06b220ce37c)
+  * [내가 쓰는 Nuxt3 ESLint 설정 | Univdev](https://www.univdev.page/posts/nuxt3-eslint/)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
   * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku. https://oclif.io ](https://github.com/oclif/oclif)
@@ -1983,6 +1995,9 @@ Javascript
 * [Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io/)
   * [프론트앤드 개발자에게 꼭 필요한 백앤드를 책임질 STRAPI](https://ux.stories.pe.kr/258)
   * [headless CMS인 STRAPI 설치하기](https://ux.stories.pe.kr/259)
+  * [프로젝트 설정 및 Strapi사용하기 - React, Strapi v4, MySQL을 이용한 메모앱 만들기](https://noogoonaa.tistory.com/111)
+  * [React와 Strapi 연동 - React, Strapi v4, MySQL을 이용한 Todolist 만들기](https://noogoonaa.tistory.com/112)
+  * [Strapi란? - React, Strapi v4, MySQL을 이용한 Todolist 만들기](https://noogoonaa.tistory.com/113)
 * [strml.net - interactive coding](http://strml.net/)
 * [Styled-tools로 좀더 편리하게 Styled-components 사용하기](https://john015.github.io/styled-tools%EB%A1%9C-%EC%A2%80%EB%8D%94-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-styled-components-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
@@ -2118,6 +2133,10 @@ Javascript
   * [코딩 플레이그라운드 만들며 맛보는 요즘 FE 개발 환경 Part 2 · shiren the creator](https://blog.shiren.dev/2021-02-22/)
   * [Lerna와 Yarn workspaces를 활용한 패키지 관리 | by Yeongsu Han | 원티드 제품 팀블로그 | Feb, 2021 | Medium](https://medium.com/wantedjobs/lerna%EC%99%80-yarn-workspaces%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B4%80%EB%A6%AC-429d2a685486)
   * [Lerna와 yarn-workspace를 활용한 Mono Repo (Typescript & Jest) 환경 구성하기](https://jojoldu.tistory.com/585)
+  * [Lerna is dead — Long Live Lerna. If you’re in a hurry, here’s the TL;DR: | by Juri Strumpflohner | May, 2022 | Nrwl](https://blog.nrwl.io/lerna-is-dead-long-live-lerna-61259f97dbd9?gi=4e6a10f5a449)
+    * 프로젝트 중단을 발표했던 모노레포 도구 Lerna의 소유권을 Nrwl이 넘겨받음
+    * Nwrl은 모노레포 도구 Nx를 만드는 회사로 Lerna와 Nx를 둘 다 유지보수 하면서 두 도구를 통합 가능
+    * Lerna의 코드를 몇 주간 살펴본 뒤에 로드맵을 발표할 것이지만 많은 프로젝트가 아직 Lerna를 쓰고 있으므로 주요한 버그 수정과 보안 업데이트를 먼저 할 예정
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -2199,6 +2218,7 @@ Javascript
       * 설정 파일을 1/6로 줄이고 HMR도 지원, 의존성과 소스코드를 따로 빌드하기 때문에 빠르게 개발 빌드 실행, 빌드도 250초에서 90초 정도로 감소
     * [Webpack → Vite: 번들러 마이그레이션 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1435)
   * [와 Vite 쓰면 리액트 10배 빨라짐 (과장아님) - YouTube](https://www.youtube.com/watch?v=iX3Nu1FcZKA)
+  * [Vite 환경에서 .env 활용하기 | Univdev](https://www.univdev.page/posts/vite-enviroment-variables/)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
@@ -2921,6 +2941,7 @@ Javascript
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
 * [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
+* [Getting Started with React - Sabe.io](https://sabe.io/tutorials/getting-started-with-react)
 * [리액트 quick start 노트](https://www.haruair.com/blog/4303)
 * [리액트 Advanced guides 전반부 노트](https://www.haruair.com/blog/4313)
 * [리액트 Advanced guides 후반부 노트](https://www.haruair.com/blog/4329)
@@ -3848,6 +3869,7 @@ Javascript
   * [Next.js 12 Upgrade와 CDN 배포 | 천명 기술 블로그 | by Kim Hyeon Gyu | chunmyung | May, 2022 | Medium](https://medium.com/chunmyung/next-js-12-upgrade%EC%99%80-cdn-%EB%B0%B0%ED%8F%AC-%EC%B2%9C%EB%AA%85-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-de891e279e39)
   * [브라우저 가로폭에 따른 세로 박스 비율 유지하기 - Devil Styled Sheets - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12015149)
   * [Runtime 환경 변수 설정으로 빌드 프로세스 개선하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-runtime-environment/)
+  * [Next.js vs React: 5 Reasons To Use Next.js Over Plain React](https://morioh.com/p/48b22a4ae9f2)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
@@ -4626,11 +4648,14 @@ Javascript
 * [사용자 입력 텍스트를 바이트(byte) 길이로 제한하는 Vue 컴포넌트 만들기 : NHN Cloud Meetup](https://meetup.toast.com/posts/319)
 * [VueJs Tutorial - Blog Idea to Implementation Infotech](https://blog.i2i-info.com/category/education/vuejs-tutorial)
 * [Vue Application Architecture - 프론트앤드 애플리케이션에서의 설계, Infra (Part1) | 오르막길](https://genie-youn.github.io/journal/Vue_Application_Architecture_part1.html)
+* [작고 소중한 Vue를 알아보자 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/05/17/%EC%9E%91%EA%B3%A0-%EC%86%8C%EC%A4%91%ED%95%9C-vue%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EA%B0%9C%EC%9A%94/)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
   * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [History Navigation Vue](https://hezedu.github.io/history-navigation-vue/)
+* Pinia [Home | Pinia](https://pinia.vuejs.org/)
+  * [Vue3에서 사용되는 상태 관리자, Pinia | Univdev](https://www.univdev.page/posts/about-pinia/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
 * [Vue3Todo: Vuex + vue3로 만드는 할일 앱](https://github.com/wnghdcjfe/Vue3Todo)
