@@ -440,6 +440,7 @@ Linux
 * [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
   * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
   * [Modern Unix - 유닉스 명령들의 최신 대체제 | GeekNews](https://news.hada.io/topic?id=4784)
+* [Unix command line conventions over time](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
 * [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
 * [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
@@ -925,6 +926,7 @@ Linux
 * `trace`
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
   * [Analyze the Linux kernel with ftrace | Opensource.com](https://opensource.com/article/21/7/linux-kernel-ftrace)
+  * [magic-trace - 프로세스 동작을 고해상도로 추적하는 도구 | GeekNews](https://news.hada.io/topic?id=6494)
 * `truncate`
   * [지정된 크기의 더미 파일 만들기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/soojung/dev/2020/08/23/864.html)
 * `uname`
