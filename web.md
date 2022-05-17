@@ -305,6 +305,10 @@ Web
 * [웹용 스토리지](https://web.dev/storage-for-the-web/)
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
 * [웹브라우저에 데이터를 저장하기 - IndexedDB - YouTube](https://www.youtube.com/watch?v=mHJDtDM_wHc)
+* [Get to know your browser's performance profiler - Thomas Belin](https://blog.atomrc.dev/p/js-performance-profiling/)
+  * 브라우저의 개발자 도구에서 `Performance`탭의 프로파일러를 돌린 후 결과를 어떻게 이해해야 하는지 설명하는 글
+  * 1ms단위로 스냅샷을 찍기 때문에 함수의 호출 관계와 실행에 따라 데이터가 어떻게 표시되는지를 간단히 출력
+  * 이를 이용해서 개발자도구에서 오래걸린 함수(`total`시간과 `self`시간)를 어떻게 찾는지를 보여주는데 예제 코드를 직접 실행해 볼 수 있게 제공해서 개발자 도구에서 성능 프로파일링 가능
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -614,6 +618,12 @@ Web
     * <img> 태그가 <div>에서 약간의 마진이 생기는 것도 CSS 프로퍼티 때문이 아니라 Flow 레이아웃에 따라 인라인 요소로 처리되었기 때문에 발생
     * 이 레이아웃 알고리즘을 이해해야 CSS 프로퍼티를 제대로 사용할 수 있다고 설명, CSS 처리할 때 꼭 살펴봐야 할 만큼 좋은 글
 * [How To Create A Modal In Javascript and CSS - YouTube](https://www.youtube.com/watch?v=KjQ8uvAt9kQ)
+* [em과 rem의 차이 | Univdev](https://www.univdev.page/posts/em-and-rem-diffrence/)
+* [State of CSS 2022](https://web.dev/state-of-css-2022/)
+  * Google I/O에서 2022년 CSS의 상황에 관한 발표를 정리한 글
+  * 2021년의 호환성 문제를 제거하기 위해 `sticky`, `aspect-ratio`, `flex`, `grid`, `transform` 5가지 기능을 테스트할 수 있도록 compat 2021에서 개선
+  * 올해는 interop 2022에서 개발자의 경험을 개선하기 위해 `@layer`, 컬러스페이스, `conatain`, `<dialog>`, 폼 호환성, 스크롤, 서브그리드, 타이포그래피, 뷰포트 유닛, 웹 호환성 기능을 계획
+  * 2022년의 새로운 기능과 그 이후에 나올 기능을 하나씩 설명
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -647,6 +657,14 @@ Web
 * [Cloud Transparency Platform GraphQL API - GraphQL API](https://graphql.cloud-mercato.com/)
 * [GraphQL로 영화 API 만들기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/graphql-for-beginners)
   * [이 영상을 보고나면 REST API 를 못쓰게 됩니다. - YouTube](https://www.youtube.com/watch?v=N-81mS2vldI)
+* [GraphQL is a Trap?. This twitter thread blew up on twitter… | by Marc-André Giroux | May, 2022 | Medium](https://xuorig.medium.com/graphql-is-a-trap-e83ca380aa8f)
+  * 트위터 "GraphQL is a Trap"이라는 트윗의 내용을 반박한 글
+    * 주장 1: GraphQL은 공개 API를 일반적인 그래프 데이터베이스와 같게 만든다
+      * 가장 일반적인 오해. 공식 웹사이트에서도 클라이언트가 사용하는 방법을 설명하도록 GraphQL 스키마를 정의하고 데이터베이스 스키마를 미러링하지 말라고 언급
+    * 주장 2: 유지 보수 작업량이 많다
+      * GraphQL의 유지보수가 다른 API 형식보다 어렵다는 얘기는 들어보지 못했고 유지보수성은 특정 기술보다는 어떻게 소프트웨어를 작성했느냐에 더 영향
+    * 주장 3: 쿼리 기능을 잠근다는 것은 일반적인 API라는 것을 의미하지만 잠그지 않는 다는 것은 무한 성능 작업을 의미
+      * 잘 설계되고 구현된 GraphQL API는 임의의 쿼리를 다른 공개 API처럼 적절한 시간에 수행할 수 있으며 쿼리를 잠근다고 하더라도 클라이언트에 유연성을 제공하고 새로운 쿼리마다 서버팀이 작업할 필요를 제거
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
