@@ -245,6 +245,7 @@ Javascript
 * [JavaScript is the C++ of the Web](http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/)
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
+* [Falling Sand](https://jason.today/falling-sand) simulator
 * [40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html)
 * [9 JavaScript Tricks To Code Like A Pro!](https://medium.com/swlh/9-javascript-tricks-to-code-like-a-pro-d09ea534235)
 * [5 Useful Tricks JavaScript has been Hiding from You | by Alexandre Zajac | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8)
@@ -1669,6 +1670,8 @@ Javascript
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
+* [Frappe: Frameworks + Apps](https://frappe.io/gantt)
+  * [Frappe - 인터랙티브 Gantt 차트 오픈소스 | GeekNews](https://news.hada.io/topic?id=6504)
 * [frontend-challenges: Listing some playful open-source's challenges of jobs to test your knowledge](https://github.com/felipefialho/frontend-challenges)
 * fullPage.js
   * [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
@@ -1748,6 +1751,7 @@ Javascript
   * 자바스크립트 call stack/event loop/callback queue를 시각적으로 볼 있는 사이트
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [lozad.js - Intersection Observer API와 lozad.js 로 이미지 지연 로딩하기](https://rhostem.github.io/posts/2017-10-21-lazay-image-loading-with-lodzad-js/)
+* [Luckysheet - JS 스프레드시트 라이브러리 오픈소스 | GeekNews](https://news.hada.io/topic?id=6481)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
   * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
@@ -2074,6 +2078,7 @@ Javascript
     * WebGL로 구현한 [지구](https://cobe.vercel.app/)로 자세한 구현과정은 [트위터 스레드](https://twitter.com/shuding_/status/1475916082875666441)에
     * 기존에 Three.js로 지구를 구현했지만, 최적화를 잘하지는 못했는데 GitHub이 구현한 글을 보고 아이디어를 얻어서 점으로 구성된 세계 지도를 구성하고 극점 부분의 표현을 최적화
   * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
+  * [nanogl: webgl micro framework](https://github.com/plepers/nanogl)
   * [WebGLStudio.js](http://webglstudio.org/)
 * [WebGPU](https://gpuweb.github.io/gpuweb/)
   * [Access modern GPU features with WebGPU](https://web.dev/gpu/)
@@ -2826,6 +2831,7 @@ Javascript
   * [Web Scraping with Puppeteer & Node.js: Chrome Automation - YouTube](https://www.youtube.com/watch?v=lgyszZhAZOI)
   * [Nodejs Puppeteer Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
+  * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
@@ -2836,6 +2842,7 @@ Javascript
   * [🛢가볍게 시작하는 Node.js ORM #sequelize - YouTube](https://www.youtube.com/watch?v=lyNcUWQ9d4g)
 * [shelljs: Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
+* [Skia Canvas - Node.js용 HTML Canvas API | GeekNews](https://news.hada.io/topic?id=6464)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
