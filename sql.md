@@ -188,6 +188,7 @@ SQL
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
 * [Database Performance Secrets of the Stars! - YouTube](https://www.youtube.com/watch?v=J9Z30ie5J6Q)
+* [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
 * [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 * [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
 * [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
@@ -215,6 +216,7 @@ SQL
 * [SQL 가독성을 높이는 다섯 가지 사소한 습관](https://velog.io/@datarian/good-sql-code)
 * [Alternative to MapReduce for search in distributed databases - DEV Community](https://dev.to/tarantool/alternative-to-mapreduce-for-search-in-distributed-databases-890)
 * [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
+* [아직도 DBA는 좋은 직업인가요? | GeekNews](https://news.hada.io/topic?id=6530)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -308,6 +310,7 @@ SQL
   * [PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안 | GeekNews](https://news.hada.io/topic?id=5853)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [Rel – The desktop relational database management system](https://reldb.org/c/)
+* [Replibyte - 개발DB를 실제 데이터로 채우는 도구 | GeekNews](https://news.hada.io/topic?id=6488)
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
@@ -1136,6 +1139,8 @@ SQL
 * [Wesley Aptekar-Cassels | Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 * [Store SQLite in Cloudflare Durable Objects - Markus Ast](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
 * [JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
+* [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
+* [I'm All-In on Server-Side SQLite · Fly](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
