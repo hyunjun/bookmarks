@@ -490,6 +490,7 @@ C
 
 ## Library Malloc
 * [Writing a Memory Allocator – Dmitry Soshnikov](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
+* [Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator | USENIX](https://www.usenix.org/conference/osdi21/presentation/hunter)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
 * [malloc_geiger - a hook for malloc that plays geiger counter blips in proportion to the amount of calls to malloc as a way of knowing what an application does](https://github.com/laserallan/malloc_geiger)
 * [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
@@ -525,6 +526,7 @@ C
 * gettimeofday [practice](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * longjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
+* memset [Mysterious Memset](https://vector-of-bool.github.io/2022/05/11/char8-memset.html)
 * mmap
   * [mmap, munmap - map or unmap files or devices into memory](http://jmoiron.net/blog/mmap2/)
   * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
