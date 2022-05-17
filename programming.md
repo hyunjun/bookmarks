@@ -583,6 +583,11 @@ Programming
 * [Advanced Daily Scrum Meeting · Dev Note](https://devstarsj.github.io/culture/2021/02/22/daily.scrum.meeting/)
 * [스크럼의 진행 과정. ■ 스크럼이란? | by 황선영 | POCS | Medium](https://medium.com/pocs/%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%98-%EC%A7%84%ED%96%89-%EA%B3%BC%EC%A0%95-b6faa13e0e8c)
 * [Introduction To Scurm Framework: Roles, Artifacts & Events](https://k21academy.com/scrum-master/scrum-roles-artifacts-events-scrum-framework)
+* [**How Big Tech Runs Tech Projects and the Curious Absence of Scrum - The Pragmatic Engineer**](https://blog.pragmaticengineer.com/project-management-at-big-tech/)
+  * [번역 빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재](https://velog.io/@dlwocks31/translation-project-management-at-big-tech)
+    * 회사마다 프로젝트를 관리하는 방식이 다름
+    * 빅테크 기업은 주로 엔지니어가 프로젝트를 주도하고 전문 프로젝트 관리자가 없어서 관리방식을 스스로 결정
+      * 이에 따라 자율성이 높아지고 더 큰 영향력을 발휘
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
@@ -681,6 +686,7 @@ Programming
 * [Let’s Stop Lying! Almost Nobody Does Scrum! | by David Pereira | Serious Scrum | Medium](https://medium.com/serious-scrum/lets-stop-lying-almost-nobody-does-scrum-348edd4fc3df)
   * [“솔직히 우리가 하는 것은 스크럼이 아닙니다!” | 요즘IT](https://yozm.wishket.com/magazine/detail/1474/)
 * [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
+* [4 Reasons why Daily Scrums are stressful for developers | by Rakia Ben Sassi | Serious Scrum | May, 2022 | Medium](https://medium.com/serious-scrum/4-reasons-why-daily-scrums-are-stressful-for-developers-3be4a871db33)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 
@@ -1033,6 +1039,10 @@ Programming
   * [EP09: Cache and caching basics | Caching for Beginners - YouTube](https://www.youtube.com/watch?v=Iv0PTqXr8vY)
   * [EP10: Cache & Caching | Understanding cache access patterns - YouTube](https://www.youtube.com/watch?v=rSQdrNzomN4)
   * [blueboat: Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.](https://github.com/losfair/blueboat)
+  * [The next chapter for Cloudflare Workers: open source](https://blog.cloudflare.com/workers-open-source-announcement/)
+    * Cloudflare에서 Worker를 5년 전 런칭, 개발자가 Woker 사용을 주저하는 이유: 락인 & 로컬에서 테스트가 가능한지 여부
+      * 이는 런타임을 오픈소스로 공개할 계획이 있는지에 대한 질문으로 이어짐
+    * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -1349,6 +1359,7 @@ Programming
 * [Work Objects란 무엇인가?](https://brunch.co.kr/@graypool/446)
 * [아키텍처는 의사소통에 관한 문제다](https://brunch.co.kr/@graypool/438)
 * [진화하는 혹은 오래 사는 시스템 만들기](https://brunch.co.kr/@graypool/464)
+* [의사결정을 위한 문제영역 구분의 틀](https://brunch.co.kr/@graypool/460)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -2656,6 +2667,12 @@ Programming
 * [Application Level Encryption for Software Architects](https://www.infoq.com/articles/ale-software-architects)
 * [Application-Layer Encryption Basics for Developers - YouTube](https://www.youtube.com/watch?v=4KLjTFablyI)
 * [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key/)
+* [One step closer to a passwordless future](https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/)
+  * 피싱이나 스캠, 간단한 비밀번호 등으로 비밀번호가 취약한 문제를 해결하기 위해 password가 필요 없도록 넘어가기 위한 계획을 Google이 발표
+  * Android와 Chrome에서 FIDO 로그인 표준을 패스워드 없이 지원하도록 구현하는 계획을 발표, Apple과 Microsoft도 마찬가지로 발표
+  * passwordless는 핸드폰에서 FIDO 인증을 하면 passkey를 저장하고 이 passkey를 이용해서 온라인 계정 로그인 가능
+  * 컴퓨터에서는 근처에 있는 폰을 이용해서 로그인할 수 있고 한번 로그인하고 나면 이후부터는 컴퓨터의 잠금만 풀면 핸드폰이 없어도 로그인 가능
+    * 폰에 저장된 passkey는 클라우드 백업으로 새 폰에서도 이용
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [The Three Things to Never Build In Your App: Authentication, Notifications, and Payments | Courier](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
 * [Send My: Arbitrary data transmission via Apple's Find My network | Positive Security](https://positive.security/blog/send-my)
@@ -3746,6 +3763,7 @@ Programming
   * [기술 뉴스 #195 : 22-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1587)
   * [기술 뉴스 #196 : 22-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1590)
   * [기술 뉴스 #197 : 22-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1593)
+  * [기술 뉴스 #198 : 22-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1595)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
