@@ -790,6 +790,7 @@ App
       * [Red Hat Releases Language Support for Java Plugin 1.0 for VSCode](https://www.infoq.com/news/2021/11/java-plugin-version-1-vscode/)
       * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
       * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
+      * [코드를 나 대신 읽고 써주는 Figstack | Disquiet*](https://disquiet.io/@yeoularu/makerlog/611)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
