@@ -72,3 +72,4 @@ English
 * [(like) Water Off A Duck's Back | Definition of (like) Water Off A Duck's Back by Merriam-Webster](https://www.merriam-webster.com/dictionary/%28like%29%20water%20off%20a%20duck%27s%20back)
 * [‘I think’ 대신에 쓸 수 있는 영어 표현 정리 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241996)
 * [영어 원서 읽기를 위한 무료 영어 공개 강의](https://philoskim.github.io/english/)
+* [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
