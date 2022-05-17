@@ -285,6 +285,7 @@ Algorithm
 * [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
 * [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/)
 * [How a Smart Algorithm Can beat a Great Hardware? - CodeCrucks](https://codecrucks.com/how-a-smart-algorithm-can-bit-a-great-hardware)
+* [코딩 테스트 및 알고리즘 문제해결 공부 방법 (고려대학교 KUCC, 2022년 4월)](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
