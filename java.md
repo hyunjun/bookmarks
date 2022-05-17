@@ -139,6 +139,7 @@ Java
 * [Top Java Trends in 2021. Well, 2020 has proved that making… | by Sciforce | Sciforce | Medium](https://medium.com/sciforce/top-java-trends-in-2021-ac7aa25e5362)
 * [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 * [Top 5 Microservice courses for Java Developers to Learn Online in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-microservice-courses-for-java.html)
+* [Cloud Native Java with the Micronaut Framework](https://www.infoq.com/articles/native-java-micronaut/)
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
 * [The Decline and Fall of Java on the Desktop Part 1 (1999-2005)](https://jdeploy.substack.com/p/the-decline-and-fall-of-java-on-the)
