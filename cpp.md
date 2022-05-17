@@ -34,6 +34,7 @@ C++
 * [Adding Compile-Time Type Checking to Printf](https://msdn.microsoft.com/en-us/magazine/dn973010.aspx)
 * [An Intuitive Use-Case For Monadic Bind And Kleisli Composition](https://daniel-j-h.github.io/post/intuitive-monadic-bind-kleisli-composition/)
 * [Compiling GCC 5 on OS X](https://solarianprogrammer.com/2015/05/01/compiling-gcc-5-mac-os-x/)
+* [New C++ features in GCC 12 | Red Hat Developer](https://developers.redhat.com/articles/2022/04/25/new-c-features-gcc-12)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
 * Using Monads in C++ to Solve Constraints
   * [1. The List Monad](http://bartoszmilewski.com/2015/05/11/using-monads-in-c-to-solve-constraints-1-the-list-monad/)
