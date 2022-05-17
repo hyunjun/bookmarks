@@ -157,6 +157,7 @@ Algorithm
 * [2022 카카오 신입공채 2차 온라인 코딩 테스트 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2022/02/04/2022-kakao-recruitment-round-2/)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
+* ["I don't know the numbers": a math puzzle · Caffeinspiration](https://alexanderell.is/posts/numbers-game/)
 * [프로그래밍을 잘하는 5가지 방법 — 1. 자료구조와 알고리즘 공부하기](https://medium.com/@ghilbut/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-ebf3a3f79ee2)
 * [Awesome Algorithms](http://gaerae.com/awesome-algorithms/)
 * [awesome-algorithms](https://github.com/stunstunstun/awesome-algorithms/) python problem solving
@@ -341,6 +342,7 @@ Algorithm
 # Compression
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 * [Zip: Data compression (20분만에 배우는 압축 알고리즘) - Speaker Deck](https://speakerdeck.com/dalinaum/zip-data-compression-20bunmane-baeuneun-abcug-algorijeum)
+* [Use Fast Data Algorithms | Joey Lynch's Site](https://jolynch.github.io/posts/use_fast_data_algorithms/)
 
 # Consensus
 * [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
