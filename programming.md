@@ -452,6 +452,7 @@ Programming
 * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
 * [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
 * [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
+* [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
