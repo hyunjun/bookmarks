@@ -74,6 +74,7 @@ Open Source
 * [서비스 개발하다 오픈소스 기여한 썰 (1) : NHN Cloud Meetup](https://meetup.toast.com/posts/323)
 * [서비스 개발하다 오픈소스 기여한 썰 (2) : NHN Cloud Meetup](https://meetup.toast.com/posts/324)
 * [서비스 개발하다 오픈소스 기여한 썰 (완) : NHN Cloud Meetup](https://meetup.toast.com/posts/325)
+* [오픈소스를 수익화 하는 법 - Awesome OSS Monetization | GeekNews](https://news.hada.io/topic?id=6532)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
