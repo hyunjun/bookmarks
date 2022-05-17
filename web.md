@@ -346,6 +346,7 @@ Web
 * [incolumitas.com – So you want to Scrape like the Big Boys? 🚀](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
   * [대규모로 웹 스크래핑하기 | GeekNews](https://news.hada.io/topic?id=5454)
 * [함께 쓰는 풀리퀘 지금 하는 크롤링, 혹시 ‘디도스’는 아닌가요](https://n.news.naver.com/article/293/0000038163)
+* [대법원, 야놀자 정보 크롤링 한 여기어때 창업주 '무죄' - ZDNet korea](https://zdnet.co.kr/view/?no=20220512180515)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
@@ -454,6 +455,7 @@ Web
 * [Scrape YouTube Search with Python (part 2) | by Dimitry Zub | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/scrape-youtube-search-with-python-part-2-285699904bd5)
 * [웹크롤링 랜덤 uger-agent, 랜덤 Proxy IP 우회 class](https://sulung-sulung.tistory.com/32)
 * [Scrape Table from a Website using Python - YouTube](https://www.youtube.com/watch?v=E_EVZsSK2I8)
+* [How to Collect Amazon.com Data Using Python | Python in Plain English](https://python.plainenglish.io/how-to-collect-amazon-com-data-using-python-a30d3ea33fda)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
@@ -1034,6 +1036,7 @@ Web
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
 * [PyScript | Run Python in your HTML](https://pyscript.net/)
   * [“파이썬과 HTML의 결합” 아나콘다 ‘파이스크립트’ 공개 - ITWorld Korea](https://www.itworld.co.kr/news/235064)
+  * [“브라우저의 파이썬” 아나콘다, ‘파이스크립트’ 공개 - CIO Korea](https://www.ciokorea.com/news/234899)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
@@ -1270,6 +1273,7 @@ Web
 * [내 웹 페이지 성능을 어떻게 올릴까? — 기초 | Medium](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 예제 | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/%EB%82%B4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%AC%EB%A6%B4%EA%B9%8C-%EC%98%88%EC%A0%9C-a1800d10d4ed)
 * [웹 프론트 속도 개선을 위한 필수도구 소개](https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C)
+* [광고 효율을 높이기 위한 도착 페이지 최적화 전략 | GeekNews](https://news.hada.io/topic?id=6487) 기술적인 이야기는 아니지만 참고할만한 내용
 * [Web Performance Metrics Cheatsheet](https://bitsofco.de/web-performance-metrics-cheatsheet/)
   * [웹 성능 지표 Cheatsheet | GeekNews](https://news.hada.io/topic?id=5339)
 * [Creating Airbnb’s Page Performance Score | by Andrew Scheuermann | The Airbnb Tech Blog | Nov, 2021 | Medium](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
@@ -1426,6 +1430,8 @@ Web
 * [webassembly.sh](https://webassembly.sh/)
 * [WebVM](https://webvm.io/)
   * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
+* [Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6343)
+  * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
 # Websocket
 * [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
