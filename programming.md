@@ -1972,7 +1972,6 @@ Programming
 * [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [CNCF Publishes State of Cloud Native Development Report](https://www.infoq.com/news/2022/01/cncf-state-of-cloud-native/)
 * [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
-* [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
@@ -4190,6 +4189,10 @@ Programming
 * [Knowing when to say 'no'](https://github.com/readme/guides/decision-framework) 기술적인 부분보다 업무 태도나 communication에 대한 이야기로 볼 수 있긴 함
 * [Software Engineering – Then, Now, and Next - YouTube](https://www.youtube.com/watch?v=w1uzR0Lg7Q8)
   * [Software Engineering – Then, Now, and Next](https://www.infoq.com/presentations/software-engineering-change-digital-scale/)
+* [Your migration probably isn’t failing due to insufficient staffing. | Irrational Exuberance](https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/)
+  * 인프라 마이그레이션이 실패하는 이유, 대부분의 이유가 부족한 인력 때문이 아니라는 점 지적
+  * 단순히 "모놀리스의 해체" 혹은 "마이크로 서비스로의 이전"등의 단어들에 집착할 것이 아니라
+    * 회사 내의 엔지니어들이 어떤부분에 문제의식을 느끼고 있고 어떤 부분이 필수불가결하게 개선되어야 하는지를 먼저 인식하는게 중요한지 알려주는 글
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예

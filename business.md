@@ -1407,6 +1407,7 @@ Business
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
+* [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
