@@ -147,6 +147,8 @@ Bitcoin
 * [DFINITY Foundation | Internet Computer](https://dfinity.org/)
 * ['환자 주도의 의료 데이터 판매' 기여하는 블록체인 - ITWorld Korea](https://www.itworld.co.kr/news/231509)
 * [블록체인 개발의 기초. 블록체인은 한 마디로 노드들의 P2P 연합입니다. 모든 노드는 블록체인… | by 이상선 | Apr, 2022 | Medium](https://medium.com/@sunyi233/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EA%B8%B0%EC%B4%88-e658993301c1)
+* [사이버 공격자들 정조준...블록체인 브릿지들의 세계](https://brunch.co.kr/@delight412/470)
+* [2205.01091 Blockchain in a nutshell](https://arxiv.org/abs/2205.01091)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
@@ -287,6 +289,7 @@ Bitcoin
 * [NFT 커뮤니티, 재미를 디자인하라. (2)](https://ansubin.com/fun-design-nft-community-2/)
   * [NFT 커뮤니티, 재미를 디자인하라. | GeekNews](https://news.hada.io/topic?id=6449)
 * [Can NFT Technology Expand Beyond Digital Apes and Punks? – The New Stack](https://thenewstack.io/can-nft-technology-expand-beyond-digital-apes-and-punks/)
+* [지분증명으로 전환을 시도하는 이더리움 - MIT Technology Review](https://www.technologyreview.kr/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%B4-%EC%A7%80%EB%B6%84%EC%A6%9D%EB%AA%85pow%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
