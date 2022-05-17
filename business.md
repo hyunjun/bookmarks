@@ -40,6 +40,24 @@ Business
   * 감정 소모 & 활력 고갈, 무능감, 냉소, 비인격화/심리적 무감각
   * [2022년 테크 업계 번아웃 실태 보고 (번역글) | GeekNews](https://news.hada.io/topic?id=6407)
 * [How to know when to stop - by Andy Johns](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop) burnout, balance in life
+* [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
+  * GitLab의 CEO인 Sid Sijbrandij가 팀이 번아웃에 빠지지 않도록 매니저가 지원할 수 있는 12가지 전략 정리
+    * 휴식 장려: 반차도 도움이 되고 다음 휴가가 언제인지 물어보고 계획 세우도록 하기.
+    * 압박 낮추기: 번아웃이 다가왔다고 느끼면 목표나 OKR에 압박을 낮추고 목표도 덜 자주 물어본다.
+    * 더 긍정적으로 되기: 관리자가 스트레스의 원인이 될 수 있으므로 팀원에 대해 더 긍정적으로 되도록 해야 한다.
+    * 팀원 늘리기: 적은 수가 많은 일을 하고 있으므로 인원을 늘리는 걸 고려해 보고 다른 팀에서 빌려오는 임시적인 방법도 가능하다.
+    * 코칭 제안하기: 외부 코칭이 팀원을 도와줄 수 있다.
+    * 멘탈케어 프로그램이 있다는 걸 알려주기: GitLab에는 모든 직원을 위해 멘탈케어 프로그램을 제공한다.
+    * 감사 표현하기: 감사의 의미로 집에 선물을 보내준다.
+    * 진척 사항 축하하기: 번아웃은 종종 정체감 때문에 발생하고 매니저가 매일 진행되는 진척 사항을 파악하기는 쉽지 않다.
+    * 공감하기: 일은 힘들므로 이에 관해 대화해라.
+    * 솔선수범해라: 매니저가 일하는 시간을 정해놓고 유지해야 한다.
+    * 노력을 줄이는 데 동의해서 일하는 시간을 줄인다: 팀원이 실패할 것으로 보이는 일을 구분하도록 매니저가 요청할 수 있다.
+    * 번아웃 문제를 다른 사람과 공유
+* [내가 구글을 떠난 이유: 균형 (번역) – 이바닥늬우스](https://ebadak.news/2022/05/15/scottkennedy-balance/)
+  * 구글에서 일하던 스캇 케네디라는 사람이 Replit이라는 스타트업으로 이직한 회고를 번역한 글
+  * 2011년 구글에 합류해서 너무 좋았고 재정 상태도 좋아졌지만, 시간이 지나면서 인생의 균형이 깨졌다는 것을 깨달음
+  * 구글이 너무 큰 조직이 되다 보니 업무 시간이 많지 않음에도 번아웃이 오는 것을 느끼고 큰 조직의 걱정이 없는 작은 스타트업으로 이직
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
@@ -831,6 +849,7 @@ Business
 * [최초의 개발자에서, 50명 개발 조직의 CTO로! | 원티드](https://www.wanted.co.kr/events/22_03_s07_b02)
 * [에이블리가 '미친 알고리즘' 만든 비결은? | 컴퍼니 타임스의 생생한 인터뷰 확인하기 | 컴퍼니 타임스 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1725)
 * [EN Specialist : CTO 하쿠](https://recruit.enlighten.kr/3779abfb-c274-4c6a-8e61-628b97b6bd97)
+* [전 웨이브 CTO, 아마존코리아 이사, 34년 경력의 개발자가 세특에 합류한 이유: 세탁특공대 CTO 필릭스 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254169)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
