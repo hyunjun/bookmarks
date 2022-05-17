@@ -126,6 +126,10 @@ Docker
 * [Local Docker Best Practices | Viget](https://www.viget.com/articles/local-docker-best-practices/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 | 소용환의 생각저장소](https://www.sauru.so/blog/build-usable-docker-image-part2/)
+* [Stop using Alpine Docker images | Inside SumUp](https://medium.com/inside-sumup/stop-using-alpine-docker-images-fbf122c63010)
+  * 가벼운 이미지를 위해 Alpine을 많이 사용하지만 distroless 이미지가 더 안전하고 작기 때문에 더는 Alpine 이미지를 쓸 필요 없음
+  * Docker에서는 scratch라는 아주 작은 이미지도 제공하기 때문에 이를 이용해서 distroless 이미지를 직접 제작 가능
+  * distroless는 애플리케이션 외에 일반적으로 Linux에 있는 패키지 매니저나 셸 등이 포함되지 않은 이미지
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
 * [**도커 이미지 잘 만드는 방법**](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
@@ -836,6 +840,7 @@ Docker
 * [Kubernetes tutorial | Kubernetes services | ports? target ports? node ports? - YouTube](https://www.youtube.com/watch?v=svjIcifW1JA)
 * [Kubernetes tutorials | Taints and Tolerations - YouTube](https://www.youtube.com/watch?v=j0WeocXRTw0)
 * [Learn Kubernetes with this Introductory Course in One Hour (All Core Components and Hands On!) - YouTube](https://www.youtube.com/watch?v=n4zxKk2an3U)
+* [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
