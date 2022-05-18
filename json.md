@@ -34,6 +34,11 @@ Json
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [jsonista - Clojure library for fast JSON encoding and decoding](https://github.com/metosin/jsonista)
 
+# CUE
+* [CUE](https://cuelang.org/)
+* [Cuetorials](https://cuetorials.com/)
+* [구성(Configuration) 복잡도의 저주 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1596)
+
 # Go
 * [JSON is not Visible in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=ARmaPihNwvY)
 * [Loading JSON string in Go – Hello World!](https://learnai1.home.blog/2022/04/18/laoding-json-string-in-go/)
