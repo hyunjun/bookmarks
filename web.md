@@ -627,6 +627,7 @@ Web
   * 올해는 interop 2022에서 개발자의 경험을 개선하기 위해 `@layer`, 컬러스페이스, `conatain`, `<dialog>`, 폼 호환성, 스크롤, 서브그리드, 타이포그래피, 뷰포트 유닛, 웹 호환성 기능을 계획
   * 2022년의 새로운 기능과 그 이후에 나올 기능을 하나씩 설명
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
