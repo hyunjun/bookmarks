@@ -2429,6 +2429,7 @@ Python
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
   * [How to Send an Email With Attachments in Python](https://medium.com/better-programming/how-to-send-an-email-with-attachments-in-python-abe3b957ecf3)
   * [Bruteforcing Emails Using a Simple Python Script](https://www.thelinuxrain.com/articles/bruteforcing-emails-using-a-simple-python-script)
+  * [파이썬 SMTP Gmail app password 셋팅하기](https://blog.doosikbae.com/171)
 
 # Excel, Spreadsheet
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
