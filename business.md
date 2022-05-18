@@ -1340,9 +1340,10 @@ Business
 * [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
 * [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
 * [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
-* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력
+* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
 * [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
 * [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
+* [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
