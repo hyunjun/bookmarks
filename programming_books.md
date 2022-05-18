@@ -1159,6 +1159,17 @@ Programming Books
   * [도메인 주도 개발 시작하기 Chapter 1. 도메인 모델 시작하기 - ThreeSnakes의 개발 삽질 기록장 및 다이어리](https://www.three-snakes.com/oop/ddd-start-01)
   * [도메인 주도 개발 시작하기. 개발 세계에는 여러가지 개발 방법론이 많다. 가장 유명한 건 아무래도… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-38d4423a903f)
   * [도메인 주도 개발 시작하기](https://jh4hj.tistory.com/entry/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+* [도메인 주도 설계 철저 입문 | 위키북스](https://wikibook.co.kr/ddd/)
+  * 한라 005.115나296ㄷ
+  * ★★★☆☆
+  * [도메인 주도 설계 철저 입문](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ddd101.md)
+  * [도메인 주도 설계 철저 입문. 소프트웨어의 목적은 도메인에서 이용자들이 직면한 문제를 해결하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EC%B2%A0%EC%A0%80-%EC%9E%85%EB%AC%B8-db989052ad3d)
+  * [도메인 주도 설계 철저 입문](https://jh4hj.tistory.com/entry/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EC%B2%A0%EC%A0%80-%EC%9E%85%EB%AC%B8)
+  * [도메인 주도 설계 철저 입문 1부 - 들어가며&목차](https://dailyheumsi.tistory.com/245)
+  * [도메인 주도 설계 철저 입문 2부 - 지식 표현을 위한 패턴](https://dailyheumsi.tistory.com/246)
+  * [도메인 주도 설계 철저 입문 3부 - 애플리케이션을 만들기 위한 패턴](https://dailyheumsi.tistory.com/247)
+  * [도메인 주도 설계 철저 입문 4부 - 지식 표현을 위한 고급 패턴](https://dailyheumsi.tistory.com/248)
+  * [도메인 주도 설계 철저 입문 5부 - 아키텍처와 앞으로의 학습](https://dailyheumsi.tistory.com/249)
 * (NOT YET) [도메인 주도 설계: 소프트웨어의 복잡성을 다루는 지혜 | 위키북스](https://wikibook.co.kr/domain-driven-design/)
   * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
   * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
