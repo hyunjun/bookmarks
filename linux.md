@@ -714,6 +714,7 @@ Linux
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
   * [Diagnose connectivity issues with the Linux ping command | Opensource.com](https://opensource.com/article/21/10/linux-ping-command)
   * [prettyping is a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read](http://denilson.sa.nom.br/prettyping/)
+  * [Linux Tutorial 67 - Test connectivity with ping command | ping6 command in linux | ping vs ping6 - YouTube](https://www.youtube.com/watch?v=AfnzNahvwGM)
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
