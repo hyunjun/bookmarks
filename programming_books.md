@@ -685,6 +685,8 @@ Programming Books
 * [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
   * 한라
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
+* [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
+  * ★★★☆☆ 2022.05.18~19 여러가지 AI 관련 기본지식을 재미있게 읽기 좋음
 * (NOT YET) 비즈니스를 위한 데이터 과학
   * 탐라 개005.7-프295ㄷ
 * (NOT YET) 데이터로 말하라 : 냉철한 판단과 완벽한 설득의 기술
@@ -738,7 +740,6 @@ Programming Books
 * (NOT YET) [데이터 과학자 되는 법 (에밀리 로빈슨, 재클린 놀리스 著, 이창화 譯, 2021)](https://jehyunlee.tistory.com/31)
 * (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
 * (NOT YET) [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
-* (NOT YET) [독서광 비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
 * (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
 
 ## Deep Learning
