@@ -19,6 +19,7 @@ Flutter
   * [Flutter vs Native vs React 성능](https://brunch.co.kr/@jowlee/123)
 * [리액트네이티브 vs 플러터](https://open-support.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-vs-%ED%94%8C%EB%9F%AC%ED%84%B0)
 * [React Native vs Flutter - I built the same chat app with both - YouTube](https://www.youtube.com/watch?v=X8ipUgXH6jw)
+* [플러터 vs 리액트 네이티브 vs 네이티브, 성능이 더 우수한 것은? | 요즘IT](https://yozm.wishket.com/magazine/detail/567/)
 * [flutter_login_form](https://github.com/bear2u/flutter_login_form)
 * [자바 개발자를 위한 다트](https://software-creator.tistory.com/5)
 * [번역 Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
