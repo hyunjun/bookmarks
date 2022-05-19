@@ -194,6 +194,7 @@ Book
   * 한라 598.5-손298ㅇ, 탐라 문378.9-손239ㅇ, 우당 문378.9-손239ㅇ
 * (NOT YET) [소년은 어떻게 사라지는가](https://blog.naver.com/nextdoor72/221650443129)
   * 서부, 한경
+* (NOT YET) 아파트 민주주의 [슬기로운 아파트회장 분투기, (아파트민주주의) 저자 남기업 | YTN](https://www.ytn.co.kr/_ln/0102_202007071647381486)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
