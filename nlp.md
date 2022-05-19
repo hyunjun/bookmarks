@@ -1698,6 +1698,7 @@ NLP
 * [단디 - 한국어 맞춤법 검사기](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
 * [비슷한 명령어 추천은 어떻게 하는걸까? – ~/xo.dev –](https://xo.dev/hacking-command-recommendation/) Levenshtein
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
+* [ko-prfrdr: Utils for Korean proofreader](https://github.com/ychoi-kr/ko-prfrdr)
 * [Spelling Checker Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-checker-program-in-python/)
 * [Spelling Corrector Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-corrector-program-in-python/)
 * [hanspell: (주)다음과 부산대학교 인공지능연구실/(주)나라인포테크의 웹 서비스를 이용한 한글 맞춤법 검사기](https://github.com/9beach/hanspell)
