@@ -425,6 +425,8 @@ Haskell
 * [knit ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
 * [Kulitta: A Haskell-based library for algorithmic and automated composition. This library was the subject of my dissertation at Yale university and is the subject of my ongoing work](https://github.com/donya/Kulitta)
 * [Leksah - the Haskell IDE of choice](http://leksah.org/)
+* [monad-logger-aeson: JSON logging using monad-logger interface](https://github.com/jship/monad-logger-aeson)
+  * [Announcing monad-logger-aeson: Structured logging in Haskell for cheap - jship](https://jship.github.io/posts/2022-05-17-announcing-monad-logger-aeson/)
 * [Mu-Haskell - a set of packages that help you build both servers and clients for (micro)services](https://higherkindness.io/mu-haskell/) gRPC
   * [Introducing Mu-Haskell v0.1](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 * nix
