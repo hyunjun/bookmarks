@@ -1101,6 +1101,7 @@ Business
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
 * [‘첫 단추 잘 꿰기’ 신임 CIO를 위한 팀 내 신뢰 구축 ABC - CIO Korea](https://www.ciokorea.com/news/227679)
+* [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
 * [**What Makes an Effective Executive**](https://hbr.org/2004/06/what-makes-an-effective-executive)
   * [번역 What Makes an Effective Executive](https://www.linkedin.com/posts/jayden-kang_what-makes-an-effective-executive-activity-6898080373327179776-wkm8)
