@@ -21,6 +21,7 @@
   * [AI로 마케팅 콘텐츠를 만들고 관리하는 방식 | GeekNews](https://news.hada.io/topic?id=6462)
 * [“마테크 기업, 올해 약 1만 개 달해… 11년 동안 60배 증가” - ITWorld Korea](https://www.itworld.co.kr/news/236004)
 * [광고 서비스 개발 연대기](http://labs.brandi.co.kr//2022/05/18/kimjs.html)
+* [**디지털 광고 Bidding System에 대한 이해**](https://www.openads.co.kr/content/contentDetail?contsId=8311)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
