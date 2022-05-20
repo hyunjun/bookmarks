@@ -331,7 +331,7 @@ Programming Books
   * 탐라 문005.1-오818ㅁ
 * (NOT YET) [알고리즘으로 생각하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286801220)
   * 탐라 문005.1-양53ㅇ
-* (NOT YET) [알고리즘 퍼즐](https://www.youtube.com/watch?v=1U9wLc-oang)
+* (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
 
 # Amazon AWS
 
