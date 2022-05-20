@@ -2048,6 +2048,8 @@ Scala
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
 * [Automatically Deriving Typeclass Instances in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
 * [Type Class Derivation in Scala 3. Deriving type classes without macros in… | by Ron Aharoni | Riskified Technology | Dec, 2021 | Medium](https://medium.com/riskified-technology/type-class-derivation-in-scala-3-ba3c7c41d3ef)
+* [Alex Nedelcu - OOP versus Type Classes in Scala - YouTube](https://www.youtube.com/watch?v=UT2K9c66xCU)
+  * [OOP vs Type Classes, Part 1: Ideology - Alexandru Nedelcu](https://alexn.org/blog/2022/05/13/oop-vs-type-classes-part-1-ideology/)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
@@ -2344,6 +2346,7 @@ Scala
   ```
 * [Scala 3: Generic type parameters and variance explained | alvinalexander.com](https://alvinalexander.com/scala/scala-3-variance-explained-generic-type-parameters/)
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics - Scala](https://scalac.io/specialized-generics-object-instantiation/)
+* [Scala Generics: A Gentle Introduction - YouTube](https://www.youtube.com/watch?v=ozcY_K-ij20)
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
