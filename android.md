@@ -311,6 +311,7 @@ Android
 * [Android 2018 용 산타 트래커의 소스 코드 공개합니다](https://developers-kr.googleblog.com/2019/04/google-releases-source-code-of-santa.html)
 * [Pluu Dev - Deprecate Kotlin Android Extensions의 준비](http://pluu.github.io/blog/android/2020/11/08/deprecated-kotlin-extensions/)
 * [Animation Drawable 이용해서 애니메이션 Android에서 구현하기](https://developer88.tistory.com/237)
+* [android-template](https://github.com/vidinoti/android-template)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
