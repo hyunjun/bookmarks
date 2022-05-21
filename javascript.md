@@ -2188,6 +2188,7 @@ Javascript
   * [NPM에 라이브러리 배포 망해본 썰](https://velog.io/@juunini/NPM%EC%97%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%A7%9D%ED%95%B4%EB%B3%B8-%EC%8D%B0)
   * [흙 대신 NPM 퍼나르는 삽질 · 감자도스](https://blog.potados.com/dev/struggle-with-npm/)
   * [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.croquis.com/ko/2022-03-07-1-npm-private-repository/)
+  * [Difference Between npm i & npm ci - YouTube](https://www.youtube.com/watch?v=YdxNR7zqYdA)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
@@ -3963,6 +3964,7 @@ Javascript
   * [create-react-app에서 React Router 사용하기 - create-react-app로 생성한 React에서 페이지 전환 기능을 구현하기 위해 react-router를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-router/)
   * [React Router v5 → v6 빠르게 훑어보기 - YouTube](https://www.youtube.com/watch?v=CHHXeHVK-8U)
   * [React Router Dom v6](https://blog.naver.com/pjt3591oo/222569574062)
+  * [React Router Dom v6 - DEV Community](https://dev.to/w3tsa/react-router-dom-v6-4b7a)
   * [리액트 라우터 v6 튜토리얼](https://velog.io/@velopert/react-router-v6-tutorial)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
