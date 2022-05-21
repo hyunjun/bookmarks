@@ -560,6 +560,7 @@ Business
     * 일을 더 재미있게, 강점을 활용할 수 있게, 개인의 욕구 반영
 * [7 Ways People Quit Their Jobs](https://hbr.org/2016/09/7-ways-people-quit-their-jobs)
   * [퇴사를 통보하는 7가지 방식](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-7_ways_people_quit_their_jobs-md)
+* [순조로운 퇴사를 위해 해야 할 일 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1313/)
 * [개발자 A씨의 퇴사 이야기 | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/story-of-a-developers-resignation/)
 * [퇴사 인터뷰들은 함정입니다 | GeekNews](https://news.hada.io/topic?id=6304)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
@@ -790,6 +791,7 @@ Business
 * [Error 당신의 공감이 작동하지 않습니다 | 원티드](https://www.wanted.co.kr/events/22_03_s07_b01)
 * [커뮤니케이션이 어려울 때 꺼내 읽기 좋은 이야기](https://brunch.co.kr/@cliche-cliche/148)
 * [사족 붙이지 말고 말하라](http://moneyman.kr/archives/6316)
+* [국민은행의 앱 통합은 성공할 수 있을까?](https://brunch.co.kr/@graypool/50) 기술 < 조직 내 통합 & 비전
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
