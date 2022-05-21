@@ -59,6 +59,7 @@ Game
 * [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
 * [질긴 고리 - 온라인 퍼즐 게임](https://ko.puzzle-loop.com/)
 * [Summle - a daily maths game](https://summle.net/)
+* [멘토특강 게임 서버 개발자 준비하기 - YouTube](https://www.youtube.com/watch?v=DtdttEhtgjI)
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)

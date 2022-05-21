@@ -682,6 +682,7 @@ Machine Learning
 * [Real-time machine learning: challenges and solutions](https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
 * [PolyCoder is an open source AI code-generator that researchers claim trumps Codex | VentureBeat](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/)
 * [How to Improve Any ML/DL Performance by 10% Easily | by Gurami Keretchashvili | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-improve-any-ml-dl-performance-by-10-easily-90dbbd01a4b3)
+* [멘토특강 클라우드 Big Data & Machine Learning 기초 - YouTube](https://www.youtube.com/watch?v=Yan4XXorhDI)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
