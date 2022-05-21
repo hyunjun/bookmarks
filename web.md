@@ -1000,8 +1000,10 @@ Web
     * 유효성 검사와 문서화 등 좋은 기능 제공
     * [FastAPI의 시대. 아직도 Flask 쓰시나요? | GeekNews](https://news.hada.io/topic?id=6233)
   * [Microservices with FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
+  * [Settings for your FastAPI application + tests | by Gustavo Caetano | May, 2022 | Medium](https://medium.com/@caetanoog/settings-for-your-fastapi-application-tests-e4f91d5800c4)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
+  * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
