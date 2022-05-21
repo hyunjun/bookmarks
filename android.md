@@ -286,6 +286,7 @@ Android
 * [Pluu Dev - 요약 Implementing Material You using Jetpack Compose (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/13/ads21-material/)
 * [Pluu Dev - 요약 Deep dive into Jetpack Compose layouts (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/14/ads21-deep-dive-compose/)
 * [Pluu Dev - 요약 A Compose state of mind: Using Jetpack Compose's automatic state observation (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/21/ads21-a-Compose-state-of-mind/)
+* [Pluu Dev - 요약 What's new in Android development tools (Google I/O '22)](https://pluu.github.io/blog/android/io22/2022/05/20/io22-whats-new-in-android-development-tools/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
