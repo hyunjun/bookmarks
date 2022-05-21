@@ -3799,6 +3799,7 @@ Programming
 * [운영체제: 01. 운영체제가 뭐길래? - YouTube](https://www.youtube.com/watch?v=zGBm37kze9I)
 * [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
+* [RTOS 써야 할까? (with Renesas RA) - YouTube](https://www.youtube.com/watch?v=HaZrpYBvR6M)
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
 * [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
 * [레스토랑에 비유해서 알아보는 운영체제 | 요즘IT](https://yozm.wishket.com/magazine/detail/1269/)
