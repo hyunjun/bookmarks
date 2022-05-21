@@ -224,6 +224,7 @@ Programming Books
   * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
 * (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
 * (NOT YET) 좋은 코드, 나쁜 코드 [좋은 개발자는 좋은 코드로 말한다!](https://jpub.tistory.com/1272)
+  * 우당
 
 # Agile Scrum
 
