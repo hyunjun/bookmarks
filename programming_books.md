@@ -128,6 +128,19 @@ Programming Books
   * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
   * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
   * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
+* [Don't Just Roll The Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf)
+  * 흔히 DJRTD라고 알려져있는, "Don’t Just Roll the Dice"
+    * 소프트웨어 가격 설정하는 법에 대한 내용. 레드게이트라는 소프트웨어 업체의 대표가 무료 pdf 로 배포하여 널리 알려짐
+    * 매뉴얼이라고 하기엔 설명적이고, 책이라고 하긴 가벼워서 문서라고 표현
+  * 어떤 사업이건 프라이싱(pricing)은 어렵습니다. 게다가 소프트웨어는 비트의 특성상 제품원가와 배포면에서 가격설정의 변동폭이 크니, 더 어렵게 느껴집니다.
+    * 저자 데이비슨은 이런 어려움을 정리하고자 합니다. 그래서 글은 단편적이기보다는 구조적이고, 붕뜨기보단 실제적인 이야기가 많음
+  * 저자의 실용적인 조언
+    * 한계비용이 낮다고 가격을 무조건 낮게 설정하지 말라. 개발비용도 까야 하지만, 유지보수도 비용이고, 영업에도 비용이 든다. 이거 무시하면 앞으로 벌고 뒤로 망한다.
+    * 공짜 정책(freemium 또는 free)을 쓸때 네트워크효과가 없다면 신중히 고려하라.
+    * B2B로 팔때는 구매담당자가 경영진을 설득하기 쉬운 사이즈로 오퍼하라. (그래서 커야 좋을 수도 있음)
+    * 해적판(piracy)는 양날의 칼이다. 이익을 갉아먹기도 하지만, 잠재수요와 잠재고객의 식별이 되기도 한다.
+    * 민감도 테스트를 적극적으로 하라. 테스트가 되어 얼추 요량이 서면, 가격인상을 주저하지 마라. 이때 떨어져나가는 고객은, 애초에 비고객 또는 언제고 떠날 취약고객일수도 있다.
+    * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다. 
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -605,6 +618,7 @@ Programming Books
 * (NOT YET) [독학으로 예제따라 익히는 mysql/mariadb SQL 입문서](https://stricky.tistory.com/469)
 * (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
 * (NOT YET) [이경오의 SQL+SQLD 비밀노트 (한빛미디어, 이경오 저)](https://goaloflife.tistory.com/220)
+* (NOT YET) [실무자를 위한 그래프 데이터 활용법](https://hanbit.co.kr/store/books/look.php?p_code=B6334451644)
 
 # Data Science
 
