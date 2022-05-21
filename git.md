@@ -189,6 +189,7 @@ Git
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
+* [Learn about REST API and GraphQL through GitHub APIs and do magic - YouTube](https://www.youtube.com/watch?v=YpcU9-xgzUM)
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
