@@ -691,6 +691,7 @@ R
   * [How to Share Flask APIs with Shiny as Applications | R-bloggers](https://www.r-bloggers.com/2021/02/how-to-share-flask-apis-with-shiny-as-applications/)
   * [KED/Activity Index_210404_rev3.pdf at master · Hosun-Choi/KED](https://github.com/Hosun-Choi/KED/blob/master/Activity%20Index_210404_rev3.pdf) 활동성 지수
   * [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea/)
+  * [#R | Shiny ✨ Reactive Scatter Plot | #RShiny #ScatterPlot #WebApp #RStudio #RPackage - YouTube](https://www.youtube.com/watch?v=h3707p2g89E)
   * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
   * bslib [R Shiny에 최신 bs 테마를 적용해주는 {bslib}](https://blog.naver.com/leebisu/222494646466)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
