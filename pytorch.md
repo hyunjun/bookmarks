@@ -507,3 +507,4 @@ PyTorch
 * [PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 * [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 * [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)
+* [M1 iMac 24” 에 pytorch 를 돌려보았다](https://taekangwoo.notion.site/M1-iMac-24-pytorch-2b2998c452c2430e921399b67cae3299)
