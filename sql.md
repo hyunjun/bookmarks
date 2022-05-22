@@ -121,6 +121,7 @@ SQL
 * [How to Optimize SQL Queries. This article sorts out some special… | by Pawan Jain | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-742177cd5cc6)
 * [How to Optimize SQL Queries Part II | by Pawan Jain | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-part-ii-407311784112)
 * [SQL Query Optimization: Level Up Your SQL Performance Tuning | by Garvit Arya | Feb, 2022 | Better Programming](https://betterprogramming.pub/sql-query-optimization-level-up-your-sql-performance-tuning-d93af175b24b)
+* [Top 10 Tips to Improve SQL Query Performance | by Bigscal Technologies | Medium](https://medium.com/@Bigscal-Technologies/top-10-tips-to-improve-sql-query-performance-f40f25047661)
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [초보자 확실히 기억해야 하는 SQL 가이드](https://brunch.co.kr/@04925bf0d77f43e/7)
