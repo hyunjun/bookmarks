@@ -677,6 +677,7 @@ Javascript
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
+* [How to Use Decorators in JavaScript | JavaScript in Plain English](https://javascript.plainenglish.io/using-decorators-in-javascript-e80674e4c6fa)
 * [An introduction to the JavaScript DOM](https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec)
 * [How to manipulate the DOM in Vanilla JavaScript](https://medium.freecodecamp.org/dom-manipulation-in-vanilla-js-2036a568dcd9)
 * [web 웹 컴포넌트를 위한 shadow dom과 custom element 그리고 template](https://blog.naver.com/pjt3591oo/222546552344)
