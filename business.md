@@ -266,6 +266,7 @@ Business
 * [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
 * [전문가가 되지 못하면 어떻게 되는가?](http://m.blog.naver.com/devmarketing/220259733162)
 * [영향력 있는 유명인 vs. 실력 있는 전문가 | RBBM](https://www.redbusbagman.com/armchairinfluencers/) 전문가 expert의 사분면(실력과 영향력)
+* [스스로 빛나는 별](https://www.thestartupbible.com/2022/05/quiet-winners-and-loud-losers.html) 실력의 중요성, loud loser, quiet winner
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
 * [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
 * [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
@@ -1272,6 +1273,7 @@ Business
 * [OKR에 성공하려면 팀원들의 마음을 얻어야 한다! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33123511&memberNo=38695667) CFR Conversation Feedback Recognition
 * [DBR/Management Solution ‘스스로 목표 설정’ OKR, 구글 키운 핵심 비결](https://www.donga.com/news/Economy/article/all/20220301/112103470/1)
 * [강남언니가 3년째 OKR로 일하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1439/)
+* [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 
 # Patent
 * 세기의 특허전쟁
@@ -1380,6 +1382,7 @@ Business
 * [Why Product Thinking is so Hard (and what you can do about it) - YouTube](https://www.youtube.com/watch?v=g6neBwgUds4) MVP
 * [The MVP is dead, long life to the MAP. (Minimum Awesome Product) | by Carlos Beneyto | The Startup | Medium](https://medium.com/swlh/the-mvp-is-dead-long-life-to-the-map-minimum-awesome-product-404df90fef7f)
   * [번역 MVP는 끝났습니다. 이제는 MAP(Minimum Awesome Product) 입니다. | by Jaewang Lee | Medium](https://medium.com/@jnso5072/%EB%B2%88%EC%97%AD-mvp%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C%EB%8A%94-map-minimum-awesome-product-%EC%9E%85%EB%8B%88%EB%8B%A4-887210c38d7c)
+* [MVP는 최적화가 아닌 학습을 위해 존재한다](https://brunch.co.kr/@cliche-cliche/151)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
