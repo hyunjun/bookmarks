@@ -1504,6 +1504,7 @@ Javascript
 * [9 open source JavaScript frameworks for front-end web development](https://opensource.com/article/20/5/open-source-javascript-frameworks)
 * [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
 * [Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
+* [The Top 12 Node.js Frameworks on GitHub️ - Dor Moshe's Blog](https://dormoshe.io/trending-news/the-top-12-nodejs-frameworks-on-github-beg-50091)
 * [Data Fetching on the Web Still Sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
 * [**15 DevTool Secrets for JavaScript Developers**](https://blog.asayer.io/15-devtool-secrets-for-javascript-developers)
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
@@ -1851,6 +1852,7 @@ Javascript
     * NestJS 웹 프레임워크와 TypeScript로 클린 아키텍처를 구현하는 방법 설명
     * Framework, Controller, Use Cases, Entities의 각 계층에서 담당해야 할 부분과 어떻게 구현하고 관심사를 분리해야 하는지를 전체 예시 코드와 함께 설명
     * NestJS를 설명하는 글은 아니지만, NestJS로 구현했기 때문에 NestJS가 해주는 기능을 사용하는 부분이 어느 정도 포함
+  * [NestJs: 🐶 Puppies Api - Dor Moshe's Blog](https://dormoshe.io/trending-news/nestjs-puppies-api-k4d-50266)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
@@ -4413,6 +4415,7 @@ Javascript
 * [My First Unit Test in TypeScript. Using Mocha and Chai | by Jordi Bassaganas | Apr, 2022 | Medium](https://programarivm.medium.com/my-first-unit-test-in-typescript-40a1e62d5a61)
 * [Static Methods Not Supported in TypeScript Interfaces | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/static-methods-not-supported-in-typescript-interfaces-54a01e1e46ea)
 * [Building PGN Blocks With TypeScript | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/building-pgn-blocks-with-typescript-d1ddd58e42ff)
+* [TypeScript에서 전역 개체 타입은 어떻게 정의하나요? | Huns.me](https://huns.me/2022-05-22-43-TypeScript%EC%97%90%EC%84%9C%20%EC%A0%84%EC%97%AD%20%EA%B0%9C%EC%B2%B4%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EB%82%98%EC%9A%94)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
