@@ -996,6 +996,7 @@ Javascript
 * [Let Angular Manage Your RxJS Subscriptions Better](https://medium.com/better-programming/let-angular-manage-your-rxjs-subscriptions-better-9243073e94b0)
 * [angular + firebase + rxjs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641917)
 * [RxJS : 네이버 블로그](https://blog.naver.com/pjt3591oo/222613928170)
+* [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 * [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/) web component
@@ -1951,6 +1952,7 @@ Javascript
       * 라우팅과 로더(데이터 가져오기), 액션(데이터 조작)을 도입해서 컴포넌트에서 데이터 패칭을 디커플링
     * 이도 충분히 좋지만 Remix를 사용하면 Backend for frontend의 역할까지 해주기 때문에
       * 네트워크 캐즘을 Remix가 처리해 관련한 코드를 훨씬 더 적게 작성, 버그도 감소
+  * [Remix로 쉽게 하는 리액트 서버사이드 렌더링](https://velog.io/@velopert/learn-remix)
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2255,6 +2257,7 @@ Javascript
   * [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
   * [yarn berry 프로젝트 생성해보기](https://velog.io/@juunini/yarn-berry-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0)
   * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  * [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7976/)
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
@@ -2987,7 +2990,7 @@ Javascript
 * [useEffect를 테스트 하는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201126)
 * [Learn the React useEffect Hook - YouTube](https://www.youtube.com/watch?v=kH3_g_Njeb0)
 * [React useEffect (included api 호출) 가 있는 컴포넌트 분리 방법](https://yoonjong-park.tistory.com/entry/React-useEffect-included-api-%ED%98%B8%EC%B6%9C-%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
-* [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
+* [Why Does useEffect run Two Times ? | useEffect | React 18 - YouTube](https://www.youtube.com/watch?v=Vw0BJ3XB3dM)
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
@@ -4232,7 +4235,7 @@ Javascript
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
-* Ranorex Studio [자동화된 UI 회귀테스트 도입하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6460/?fbclid=IwAR1p3Lu-YBSM0C3k5ADu854R51wgj7ALNitoBCSGSMU_MGE0pjSgEQzlwFM)
+* Ranorex Studio [자동화된 UI 회귀테스트 도입하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6460/)
 * Storybook [스토리북으로 인터랙션 테스트하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220111)
 * [Testing Library | Testing Library](https://testing-library.com/)
   * [How to Write Better UI Component Tests With Testing Library | by Ali Kamalizade | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/how-to-write-better-ui-component-tests-with-testing-library-e80bc489051c)
