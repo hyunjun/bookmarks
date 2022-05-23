@@ -377,6 +377,7 @@ Data Science
 * [데이터 분석가 대디가 유소년 축구 플렉스하기](https://brunch.co.kr/@goodvc78/21)
 * [Week 1 - What is advanced data science anyway?](https://jhuadvdatasci.substack.com/p/week-1-what-is-advanced-data-science)
 * [데이터 분석에 필요한 자질은 뭘까? | Popit](https://www.popit.kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ec%9e%90%ec%a7%88%ec%9d%80-%eb%ad%98%ea%b9%8c/)
+* [데이터 스토리텔링 연습! Day3](https://brunch.co.kr/@gkicarus/177)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
