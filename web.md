@@ -552,6 +552,7 @@ Web
   * [Test Practice using Selenium - (2)](https://velog.io/@dahunyoo/Test-Practice-using-Selenium-2)
   * [Building a python bot to fill out online forms - Check this thing out](https://checkthisthingout.com/building-a-python-bot-to-fill-out-forms/)
   * [Python Selenium Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdoTS0UXLUZoPH7GQ0kURHgH)
+  * [Introduction to Web App Reporting API | by Bhagya Vithana | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-web-app-reporting-api-3c4cf6be839a)
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
