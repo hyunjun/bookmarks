@@ -379,6 +379,7 @@ R
 * [R을 이용한 퀀트 투자 포트폴리오 만들기](https://hyunyulhenry.github.io/quant_cookbook/)
   * [R을 이용한 퀀트 투자 포트폴리오 만들기 리뷰-1 - 미완성의신](https://unfinishedgod.netlify.app/2021/01/09/r%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%A6%AC%EB%B7%B0-1/)
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
+* [기계와의 경쟁 1 | 데이터 과학 프로그래밍](https://r2bit.com/book_programming/)
 * [더북(TheBook): R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
 * [더북(TheBook): 모두의 R 데이터 분석](https://thebook.io/080217/)
 * [Software Carpentry: 데이터 과학](https://statkclee.github.io/data-science/)
