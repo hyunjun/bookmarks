@@ -1846,6 +1846,9 @@ Programming Books
 * [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
   * 한라, 탐라, 우당 문325.24스825ㅅ
   * ★★★★☆ 2022.04.18~21
+  * [실리콘밸리의 팀장들](https://github.com/hyunjun/bookmarks/blob/master/programming_books/radical_candor.md)
+  * [실리콘밸리의 팀장들. Radical Candor — Be A Kick-Ass Leader… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4-f7677ca4f8b7)
+  * [실리콘밸리의 팀장들](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4)
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라
   * ★★★★☆ 2022.05.01~05
