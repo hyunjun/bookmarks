@@ -1788,6 +1788,7 @@ Docker
 * [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 * [How Docker broke in half | InfoWorld](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 * [유료화 정책 단행이 예정된 Windows용 도커 데스크톱을 대체할 수 있는 방법을 알아봅니다. | WSLHUB](https://blog.wslhub.com/%EC%9C%A0%EB%A3%8C%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EB%8C%80%EC%95%88-%EC%B0%BE%EA%B8%B0-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%82%AC%EC%9A%A9%EC%9E%90-74f1a261eb32)
+* [Docker Desktop 유료화와 대응방법](https://devocean.sk.com/search/techBoardDetail.do?ID=163537)
 * [Top Docker alternatives for 2022 - LogRocket Blog](https://blog.logrocket.com/top-docker-alternatives-2022/)
 * [LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog](https://earthly.dev/blog/lxc-vs-docker/)
 * [Man Seok Techne Schoe: macOS (M1) 환경에서 Docker 를 대치할 만한 것들](https://manseok.blogspot.com/2022/04/macos-m1-docker.html) podman minikube multipass lima
