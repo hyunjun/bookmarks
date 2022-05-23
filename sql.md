@@ -696,6 +696,7 @@ SQL
 * [MySQL Best of 2021](https://blogs.oracle.com/mysql/post/mysql-best-of-2021)
 * [MySQL의 변신…”이제는 분석용 클라우드 DB” - Byline Network](https://byline.network/2022/04/0406/)
 * [MySQL Command Line Interface. 요즘은 세상의 모든 컴퓨터 화면이 그래픽 인터페이스로 바뀐 것 처럼… | by Sunguck Lee | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/mysql-command-line-interface-21de489e7db5)
+* [MySQL Heatwave를 살펴보았습니다 – gywndi's database](https://gywn.net/2022/05/mysql-heatwave/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
