@@ -162,6 +162,7 @@
   * [kotlin to javascript (client side) - 밍피디의 개발노트](https://mingpd.github.io/2019/04/18/newtech/kotlin-to-javascript/)
 * [Meta-Programming with Kotlin for Android | by Mehdi Yari | Apr, 2022 | ProAndroidDev](https://proandroiddev.com/meta-programming-with-kotlin-for-android-6097307a9fe3)
 * [(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?](https://jojoldu.tistory.com/671)
+* [Context Receivers Are Coming to Kotlin! - YouTube](https://www.youtube.com/watch?v=GISPalIVdQY)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
