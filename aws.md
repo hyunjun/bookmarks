@@ -1560,6 +1560,7 @@ AWS
   * Terraform으로 인프라를 관리할 때 이해하기 쉽게 YAMN 파일을 설정 파일로 이용하는 방법 설명
   * 참조해서 사용하는 값은 모두 YAML 파일에 작성해서 HCL로 작성하는 것보다 훨씬 읽기 쉽게 만들고 이를 HCL에서 `yamldecode`로 읽어 값 설정
   * `dev`, `live` 같은 폴더에서는 복잡성 제어와 복사 붙이기가 쉽도록 `resource` 블록은 절대 가지지 않고 공통 모듈을 가져와서 쓰도록 작성
+* [Jenkins + terraform + tfsec 로 정적 분석 자동화 구성 하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163872)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
