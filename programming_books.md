@@ -2225,6 +2225,7 @@ Programming Books
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
   * 한라
 * (NOT YET) [Python for Excel 엑셀이 편해지는 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2831223974)
+* (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
