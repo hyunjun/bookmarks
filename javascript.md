@@ -3890,6 +3890,7 @@ Javascript
   * [Runtime 환경 변수 설정으로 빌드 프로세스 개선하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-runtime-environment/)
   * [Next.js vs React: 5 Reasons To Use Next.js Over Plain React](https://morioh.com/p/48b22a4ae9f2)
   * [Next.js에서 HoC 사용한 Head 꾸미기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12310603)
+  * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
