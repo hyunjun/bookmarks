@@ -1287,6 +1287,7 @@ Programming Books
 * (NOT YET) [(번역서) 게임 엔진 블랙 북: 울펜슈타인 3D](https://jhrogue.blogspot.com/2020/10/3d.html)
 * (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 입문편 · TheoryDB](https://theorydb.github.io/review/2021/03/02/review-book-python-game-low/)
 * (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 실전편 · TheoryDB](https://theorydb.github.io/review/2021/03/04/review-book-python-game-mid/)
+* (NOT YET) [피, 땀, 픽셀 - 트리플 A 게임은 어떻게 만들어지는가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1597)
 
 # Git
 
