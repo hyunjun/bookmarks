@@ -2169,11 +2169,12 @@ Scala
 * [The importance of Scala.js](https://www.scalawilliam.com/importance-scalajs/)
 * [Deriving the Frontend — Form Combinator Fun with Scala.js - YouTube](https://www.youtube.com/watch?v=JHriftPO62I)
 * [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
+* [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
+* [Indoor Vivants:: Cloudflare functions with Scala.js](https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
-* [Indoor Vivants:: Cloudflare functions with Scala.js](https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
