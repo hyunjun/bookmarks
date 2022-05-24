@@ -186,6 +186,7 @@ C
 * [Brian Robert Callahan](https://briancallahan.net/blog/20220406.html)
 * [A Census of Minecraft Servers](https://blog.bithole.dev/mcmap.html)
 * [Bjørn Borud | Writing new system software](https://borud.no/notes/2021/system-software/)
+* [philosophers bonus 프로세스간 통신](https://velog.io/@junppyo/philosophers-bonus-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B0%84-%ED%86%B5%EC%8B%A0)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
