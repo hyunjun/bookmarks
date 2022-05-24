@@ -97,6 +97,7 @@
 * [Why Bother with Kotlin - Not Just Another Language Tour](https://www.youtube.com/watch?v=n7-L5w33Esk)
 * [Why You Should Use Class Delegation In Kotlin](https://hackernoon.com/why-you-should-use-class-delegation-in-kotlin-fb0a3ebf151e)
 * [Class delegation in Kotlin](https://hackernoon.com/kotlin-what-is-class-delegation-all-about-683eb543e391)
+* [Kotlin — Delegate Properties to Validate Value of Your Class | by Randy Arba | May, 2022 | Medium](https://randy-arba.medium.com/kotlin-delegate-properties-to-validate-value-of-your-class-431ab976b787)
 * [Kotlin + Spring5 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278790)
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Kotlin을 사용한 Spring Boot 개발기 - Controller (@RequestParam, @PathVariable) | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/kotlin-spring-boot-controller-get/)
