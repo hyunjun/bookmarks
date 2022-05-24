@@ -1080,6 +1080,8 @@ App
     * [Gmdori: Deepfakes(10) - 영상에 소리 넣기, 만든 영상 소리 합치기](http://dorigm.blogspot.com/2018/05/deepfakes10.html)
     * [FFmpeg을 이용한 음원 볼륨의 평준화](https://d2.naver.com/helloworld/4428266)
     * [linux - How to join/merge many mp3 files? - Super User](https://superuser.com/questions/314239/how-to-join-merge-many-mp3-files) 여러 mp3 file 하나로 합치기
+    * [번역 ffmpeg로 비디오 합치기 | 웹으로 말하기](https://mytory.net/2022/05/23/ffmpeg-concat-videos.html)
+    * [하위폴더를 훑으며 ffmpeg 영상 파일 용량 줄이기 스크립트 | 웹으로 말하기](https://mytory.net/2022/05/23/video-optimize-script.html)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
