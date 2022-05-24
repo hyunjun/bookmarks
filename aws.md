@@ -852,6 +852,9 @@ AWS
 * [AWS EKS Service Account에 AWS IAM Role 부여 | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Service_Account_IAM_Role/)
 * [AWS EKS - kubernetes 1.22 설치 및 Tip](https://gasidaseo.notion.site/AWS-EKS-kubernetes-1-22-Tip-a1cbf1ee96724b2a9ffcc6ed09bb3de4)
 * [Apache Airflow와 Amazon EKS가 만났을 때 벌어지는 일 | by MUSINSA tech | MUSINSA tech | Apr, 2022 | Medium](https://medium.com/musinsa-tech/sre-9fe5113de898)
+* [EKS 위에 Airflow 구성](https://jybaek.tistory.com/956)
+* [KubernetesExecutor 적용](https://jybaek.tistory.com/957)
+* [EKS Airflow에 git-sync 적용](https://jybaek.tistory.com/958)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
