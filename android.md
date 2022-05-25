@@ -42,6 +42,7 @@ Android
 * [New ActivityResultRegistry](http://pluu.github.io/blog/android/2020/03/24/activity-result/)
 * [새로운 API ActivityResultContract로 Migration](http://pluu.github.io/blog/android/2020/05/01/migation-activity-result/)
 * [Pluu Dev - 발표 자료 New ActivityResult and FragmentResult](http://pluu.github.io/blog/android/2021/03/04/new-activity-fragment-result/)
+* [Pluu Dev - 요약 Fragments: The good (non-deprecated) parts](https://pluu.github.io/blog/android/io22/2022/05/24/io22-fragments_the_good_non-deprecated_parts/)
 * [registerForActivityResult 구현방법 정리 # 구 onActivityResult](https://developer88.tistory.com/351)
 * [BindService를 사용하면서 주의해야 할 점들](https://developer88.tistory.com/256)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
@@ -316,6 +317,7 @@ Android
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
   * [안드로이드 테스팅의 효자손 '앱피움' 파헤치기(2)](https://www.imaso.co.kr/news/article_view.php?article_idx=20150904170524)
+  * [Spoqa 기술 블로그 | 테스트 자동화 구축 이야기](https://spoqa.github.io/2022/05/24/test-automation-story.html)
 * [backboard - A motion-driven animation framework for Android](https://github.com/tumblr/Backboard)
 * BMBF
   * [Modernizing our Android build system: Part I, the planning](https://blogs.dropbox.com/tech/2019/10/modernizing-our-android-build-system-part-i-the-planning/)
