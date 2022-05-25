@@ -443,6 +443,7 @@ Go
 * [디스커버리 Go 언어](https://github.com/jaeyeom/gogo)
 * [더북(TheBook): Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
+* [5 Books I Recommend for You to Learn Go | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/5-books-i-recommend-for-you-to-learn-go-863f7769be9b)
 * [Effective Go](https://golang.org/doc/effective_go.html)
   * [golang-korea 번역](https://web.archive.org/web/20160115102517/https://code.google.com/p/golang-korea/)
   * [Effective Go in Korean](https://www.gitbook.com/book/gosudaweb/effective-go-in-korean/details)
