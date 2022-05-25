@@ -628,6 +628,7 @@ Web
   * 올해는 interop 2022에서 개발자의 경험을 개선하기 위해 `@layer`, 컬러스페이스, `conatain`, `<dialog>`, 폼 호환성, 스크롤, 서브그리드, 타이포그래피, 뷰포트 유닛, 웹 호환성 기능을 계획
   * 2022년의 새로운 기능과 그 이후에 나올 기능을 하나씩 설명
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.1 – tech.kakao.com](https://tech.kakao.com/2022/05/20/on-demand-atomic-css-library/)
+* [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.2 – tech.kakao.com](https://tech.kakao.com/2022/05/24/on-demand-atomic-css-library-2/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -720,6 +721,8 @@ Web
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi/)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
+* [glTF: glTF – Runtime 3D Asset Delivery](https://github.com/KhronosGroup/glTF)
+  * [웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
 * [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
   * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
 * [htmlq: Like jq, but for HTML](https://github.com/mgdm/htmlq) JSON을 쉽게 조회하고 조작할 수 있는 jq처럼 CSS 셀렉터를 이용해서 HTML을 조회할 수 있는 CLI
