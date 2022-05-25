@@ -3804,6 +3804,7 @@ Javascript
   * [누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기 - 구름EDU](https://edu.goorm.io/lecture/25881/%EB%88%84%EA%B5%AC%EB%82%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-react-%EA%B8%B0%EB%B0%98-gatsby%EB%A1%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
   * [Jekyll에서 Gatsby로 떠나는 마이그레이션 여정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/02/25/Migration-Journey-from-Jekyll-to-Gatsby.html)
   * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
+  * [Gatsby vs NextJS: Which Should You Use? | by Abhay Ganjoo | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/gatsby-vs-nextjs-which-should-you-use-84a72131d06a)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
