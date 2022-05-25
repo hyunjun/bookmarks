@@ -507,6 +507,7 @@ iOS
 * [SwiftUI Picker 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-picker/)
 * [SwiftUI View 레이아웃 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-view/)
 * [SwiftUI Grid 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-grid/)
+* [SwiftUI List 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-list/)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
