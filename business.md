@@ -496,6 +496,7 @@ Business
 * `Efficiency is doing things right; effectiveness is doing the right things. Peter Drucker`
   * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
+* [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1078,6 +1079,7 @@ Business
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
 * [시키느니 답답해서 직접 하고 있다고요? : 네이버 블로그](https://blog.naver.com/hs_group/222002315523) 위임
+* [리더가 극복할 7가지 필수 스트레스 (上)](https://brunch.co.kr/@graypool/398) 위임
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
@@ -1166,6 +1168,7 @@ Business
     * don't be afraid and don't make others afraid
     * the winners learned a whole lot more, a whole lot better, a whole lot faster with a whole lot more duration than the losers
     * [SEE TO SOLVE – The Portable Andon Cord](https://wp.seetosolve.com/)
+* [디지털전환기의 오너와 리더](https://brunch.co.kr/@graypool/469) 가치 집중 필요성
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1204,6 +1207,7 @@ Business
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
 * [간단하게 정리한 마케팅 불변의 법칙 22가지](http://ppss.kr/archives/38821)
 * [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
+* [드디어! 진짜 잘 파는 IT기업 특징 5가지](https://how-to-growup-our-income.tistory.com/8) 고객
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
