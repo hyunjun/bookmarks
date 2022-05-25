@@ -134,6 +134,7 @@ Programmer
 * [ㅈ형 인재가 되어라 - 3편 똑똑한 질문을 하는 방법](https://community.rememberapp.co.kr/post/78058)
 * [ㅈ형 인재가 되어라 - 4편 공부하는 기획자는 아는만큼 의심하고 질문한다](https://community.rememberapp.co.kr/post/79621)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
+* [남의 일을 끊임없이 공부해야하는 이유 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/186169)
 * [Subject Matter Expert가 되어라 | zero-base](https://zero-base.co.kr/event/media_insight_contents_50)
 * [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
