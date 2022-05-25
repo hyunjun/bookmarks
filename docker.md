@@ -1356,6 +1356,7 @@ Docker
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
 * [Kubernetes: The Basics | DaemonSets - YouTube](https://www.youtube.com/watch?v=cdY67JqGbIc)
 * [쿠버네티스 실습 랩을 Vagrant가 아닌 이미지로 바로 구성 설치하는 법 - YouTube](https://www.youtube.com/watch?v=KxhSWf0ObEU)
+* [Welcome Tilt: Fixing the pains of microservice development for Kubernetes - Docker](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
