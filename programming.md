@@ -1430,6 +1430,7 @@ Programming
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
+* [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
