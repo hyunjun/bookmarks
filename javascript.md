@@ -772,8 +772,10 @@ Javascript
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
 * [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
 * [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
+* [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
+* [How we Build a Component Library. How we implement a UI component library… | by Jonathan Saring | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131) design system
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -791,7 +793,6 @@ Javascript
   * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
 * [scrollIntoView로 스크롤 제어 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/888)
 * [How to Crop or Resize an Image With JavaScript](https://code.tutsplus.com/tutorials/how-to-crop-or-resize-an-image-with-javascript--cms-40446)
-* [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
 * [JavaScript Containers](https://tinyclouds.org/javascript_containers)
   * JavaScript가 브라우저에서 쓰이고 있기 때문에 가장 보편적인 스크립트 언어라고 볼 수 있고
     * 브라우저처럼 추상화된 샌드박스로 서버에서 컨테이너가 유행했듯이 JavaScript 컨테이너 개념을 주장하는 글
@@ -3256,6 +3257,7 @@ Javascript
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
 * [김맥스 기술 블로그 | Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect)
+* [Transition : 쉿, 이제 안전해 나의 작은 Suspense | by Hyunsuk Jo | Lunit Team Blog | May, 2022 | Medium](https://medium.com/lunit/transition-%EC%89%BF-%EC%9D%B4%EC%A0%9C-%EC%95%88%EC%A0%84%ED%95%B4-%EB%82%98%EC%9D%98-%EC%9E%91%EC%9D%80-suspense-a39cef55d144)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Kent C. Dodds 어플리케이션 상태 관리 (Application State Management with React 한글 번역) :: Code Playground](https://im-developer.tistory.com/222)
 * [React 상태관리 | Maeng's Blog](https://maeng2418.github.io/react/state_management/)
