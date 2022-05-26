@@ -329,6 +329,7 @@ Business
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [질문할 때, 생각할 때, 실행할 때](https://brunch.co.kr/@hyungsukkim/89) 당연한 이야기지만 그냥 지나치기 쉬운 부분
+* [질문을 하면 자존감이 높아진다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254372)
 * [IT에서 좋은 질문을 하는 법? : 네이버 블로그](https://blog.naver.com/tpgpfkwkem0/222462644688)
 * [(개발자 영어 #4) 개발 관련 질문과 대답 방법](https://jhrogue.blogspot.com/2020/10/4.html)
 * [김게, 그리고 넓게](https://brunch.co.kr/@hyungsukkim/95) 일하는 방법에 대한 이야기
