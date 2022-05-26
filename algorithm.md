@@ -409,6 +409,7 @@ Algorithm
   * [Dynamic Programming](https://jusths.tistory.com/118)
 * [Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
 * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+* [Fibonacci Algorithm Different Solutions in JavaScript | by Betomoedano | May, 2022 | Medium](https://medium.com/@betomoedano01/fibonacci-algorithm-different-solutions-in-javascript-74cd1d2d38be)
 * [Programming Interview:Algorithm:Dynamic Programming: Coin Changing Problem](https://www.youtube.com/watch?v=tduLvFbqRXE)
 * [Dynamic Programming vs Divide-and-Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 * [Change the signs: how to use dynamic programming to solve a competitive programming question](https://medium.freecodecamp.org/just-change-the-signs-how-to-solve-a-competitive-programming-question-f9730e8f04a9)
