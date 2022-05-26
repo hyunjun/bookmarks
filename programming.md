@@ -795,6 +795,7 @@ Programming
   * [Undocumented Web API 사용하는 법 | GeekNews](https://news.hada.io/topic?id=6139Undocumented)
 * [API 문서 읽는 법](https://spectacular-bottom-6be.notion.site/API-1d5d21326d204bb19a4c6cbab8b37cd4)
 * [6 Traits of an Effective API. Great APIs are opinionated. In this… | by Bobi | Dev Genius](https://blog.devgenius.io/6-traits-of-an-effective-api-b03e22a8d152)
+* [단 하나의 API 사이트를 위한 여정 - Part 1](https://blog.payhere.in/tech-220520/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
