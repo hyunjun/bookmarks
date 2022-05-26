@@ -1005,6 +1005,7 @@ Web
     * [FastAPI의 시대. 아직도 Flask 쓰시나요? | GeekNews](https://news.hada.io/topic?id=6233)
   * [Microservices with FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
   * [Settings for your FastAPI application + tests | by Gustavo Caetano | May, 2022 | Medium](https://medium.com/@caetanoog/settings-for-your-fastapi-application-tests-e4f91d5800c4)
+  * [코딩 알려주는 라이언 - YouTube](https://www.youtube.com/channel/UCdTRjVhVcEKBiuUm4r-PHxw/videos)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
