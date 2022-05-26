@@ -3713,6 +3713,7 @@ Javascript
 * [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation)
 * [react-navigation V5 - react-navigation V5를 설치하고 사용하는 방법에 대해서 공유합니다](https://dev-yakuza.posstree.com/ko/react-native/react-navigation-v5)
 * [rn-tourguide: 🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)](https://github.com/xcarpentier/rn-tourguide)
+* [shop-app: A React Native based online shop app where user can buy products and also can open and manage his/her own store](https://github.com/MuhammadRafeh/shop-app)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
