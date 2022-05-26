@@ -65,6 +65,7 @@ Bitcoin
 * [중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼! | GeekNews](https://news.hada.io/topic?id=6133) CDBC
 * [세상을 늦게 보기 위해 잃었던 것들](https://snack.planetarium.dev/kor/2022/03/things-i-lost-to-see-the-world-late/) 확정 confirmation 문제
 * [Smart-Contract-Resources/Build.md at master · ErichDylus/Smart-Contract-Resources](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
+* [스테이블 코인의 정의: 루나-테라, 그리고 코인 투자에 대하여 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254376) stable coin
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
