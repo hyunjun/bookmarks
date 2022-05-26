@@ -273,6 +273,7 @@ Network
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
+* [comcast: Simulating shitty network connections so you can build better systems](https://github.com/tylertreat/comcast)
 * dig [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP](https://github.com/microsoft/ethr)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
