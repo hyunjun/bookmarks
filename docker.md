@@ -589,6 +589,7 @@ Docker
   * [500라인으로 만드는 리눅스 컨테이너 (2016) | GeekNews](https://news.hada.io/topic?id=6122)
 * [**컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요? | GeekNews**](https://news.hada.io/topic?id=6240)
 * [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/)
+* [Containerize Your Applications And Learn Using Certifications | ReviewNPrep](https://reviewnprep.com/blog/containerize-your-applications-and-learn-using-certifications/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
