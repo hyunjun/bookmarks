@@ -1382,6 +1382,8 @@ Docker
 * [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know) Tekton, Argo, GitHub Actions, Jenkins X, OpenShift Pipelines, Spinnaker, Circle CI, GitLab
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [ejpark78/kans: KANS 1기 최종 과제](https://github.com/ejpark78/kans)
+* AiSuite [DEVIEW 2021 :: AiSuite : Kubeflow를 통해 더 나은 AI 모델 서빙과 MLOps 실현하기](https://deview.kr/2021/sessions/465)
+  * [AI 플랫폼과 데이터 플랫폼을 이어주는 Alluxio 적용기](https://d2.naver.com/helloworld/3863967)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
   * [Intezer - New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
