@@ -1638,6 +1638,8 @@ Scala
   * [slick-pg - Slick extensions for PostgreSQL](https://github.com/tminglei/slick-pg)
 
 ## Library Documentation
+* [markdown-transformation-kata-scala: Markdown Transformation Kata](https://github.com/etorres/markdown-transformation-kata-scala)
+  * [If our team were to transform a Markdown document, we would probably do this | by Erik Torres Serrano | May, 2022 | Medium](https://medium.com/@etserrano/if-our-team-were-to-transform-a-markdown-document-we-would-probably-do-this-17d74f81c238)
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
   * [Tips for moving from tut to mdoc](https://underscore.io/blog/posts/2019/12/12/tut-to-mdoc.html)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
@@ -1853,6 +1855,7 @@ Scala
 * [Monadic Resource Management in Scala :: Alberto Huélamo](https://alhuelamo.com/posts/2022/02/monadic-resource-management-in-scala/)
 * [**Monad란 무엇인가? - YouTube**](https://www.youtube.com/watch?v=jI4aMyqvpfQ)
 * [What is a Monad? Adam Warski | SoftwareMill - YouTube](https://www.youtube.com/watch?v=Bgvfyezalos&list=TLGGfzA1ci2XdpUxMTA1MjAyMg)
+* [You already know Monad(ic) stuff - blog.sake.ba](https://blog.sake.ba/en/posts/programming/monads.html)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
