@@ -800,6 +800,7 @@ Javascript
   * "The Network Is the Computer"라는 개념을 구현한 것이 Cloudflare Workers와 Deno Deploy
     * Shell의 역할을 JavaScript가 대체하고 JavaScript 샌드박스는 Wasm을 호출하게 될 것이고
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
+* [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰. 당근마켓 앱 화면의 많은 부분들이 네이티브 웹뷰와 웹 기술을 활용해서… | by Hyeseong Kim | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1516,6 +1517,8 @@ Javascript
 * [10-javascript-frameworks: Comparison of 10 frontend JavaScript frameworks](https://github.com/fireship-io/10-javascript-frameworks)
   * [I built the same app 10 times // Which JS Framework is best? - YouTube](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 * [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
+* [pzuraq | blog | Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+  * [번역 자바스크립트 프레임워크의 네 시대 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-05-27-Four-Eras-of-JavaScript-Frameworks)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
