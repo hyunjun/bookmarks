@@ -103,6 +103,7 @@ Programming
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
+* [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -796,6 +797,7 @@ Programming
 * [API 문서 읽는 법](https://spectacular-bottom-6be.notion.site/API-1d5d21326d204bb19a4c6cbab8b37cd4)
 * [6 Traits of an Effective API. Great APIs are opinionated. In this… | by Bobi | Dev Genius](https://blog.devgenius.io/6-traits-of-an-effective-api-b03e22a8d152)
 * [단 하나의 API 사이트를 위한 여정 - Part 1](https://blog.payhere.in/tech-220520/)
+* [Design-First Approach to API Development: How to Implement and Why It Works](https://www.infoq.com/articles/design-first-api-development/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1242,6 +1244,7 @@ Programming
   * [What Does It REALLY Mean To Do Things That Don't Scale? – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=4RMjQal_c4U&t=0s)
   * [Things That Don't Scale, The Software Edition – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=TCPjk8Tpb5c)
 * [Don't blame the developer for what the frameworks did!](https://www.builder.io/blog/dont-blame-the-developer-for-what-the-frameworks-did)
+* [Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture/) 기본 자세(?)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
