@@ -1868,6 +1868,7 @@ Javascript
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
   * [Tutorial - How To Deploy Your Site Under 1 Min With Netlify - YouTube](https://www.youtube.com/watch?v=iw4o2BZ0vy0)
   * [Netlify Drop | Netlify](https://app.netlify.com/drop) HTML, CSS, JavaScript 등 정적 파일이 있는 폴더를 Netlify 사이트에 드래그 앤 드롭하면 바로 웹사이트 배포하는 Drop 기능 추가
+* [ninja-keys: Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte](https://github.com/ssleptsov/ninja-keys)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
