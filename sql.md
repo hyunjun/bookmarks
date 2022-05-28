@@ -918,6 +918,7 @@ SQL
 * [An early look at Postgres 14: Performance and Monitoring Improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
 * [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
 * [Globally Distributed Postgres · Fly](https://fly.io/blog/globally-distributed-postgres/)
+* [Let's build a distributed Postgres proof of concept | notes.eatonphil.com](https://notes.eatonphil.com/distributed-postgres.html)
 * [PostgreSQL, Memory and the Cloud™ · Alexander Sosna](https://sosna.de/posts/pgaas-memory-overcommit/)
 * [PostgreSQL에서 Order By가 선적용되는 슬로우 쿼리 해결책](https://jojoldu.tistory.com/596)
 * [Five Things You Didn't Know About PostgreSQL | Kevin's Blog](https://blog.kevinlee.io/blog/2012/08/25/five-things-you-didnt-know-about-postgresql/)
@@ -945,6 +946,9 @@ SQL
   * Transactional DDL, Locking, Table Operations, Column Operations, Index Operations, Constraints, Enum Types, Bonus: Library for Ruby on Rails
 * [Postgres everywhere | InfoWorld](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
 * [Faster Geospatial Enrichment](https://tech.marksblogg.com/faster-geospatial-enrichment.html)
+* [How To Benchmark PostgreSQL Queries Well](https://www.tangramvision.com/blog/how-to-benchmark-postgresql-queries-well)
+* [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
+* [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -1144,6 +1148,10 @@ SQL
 * [JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 * [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 * [I'm All-In on Server-Side SQLite · Fly](https://fly.io/blog/all-in-on-sqlite-litestream/)
+* [Why SQLite may become foundational for digital progress | VentureBeat](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
+* [Temporary tables in SQLite](https://antonz.org/temp-tables/)
+  * [SQLite의 Temporary Table 활용하기 | GeekNews](https://news.hada.io/topic?id=6581)
+* [Cron-based backup - Litestream](https://litestream.io/alternatives/cron/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
@@ -1158,8 +1166,11 @@ SQL
 * [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
 * [SQLime - SQLite Playground](https://sqlime.org/)
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
+* [sqlite3 fiddle](https://sqlite.org/fiddle/)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 * [SQL OnLine IDE](https://sqliteonline.com/)
+* [wp-sqlite: WordPress running on an SQLite database](https://github.com/stokry/wp-sqlite)
+  * [wp-sqlite - SQLite에서 Wordpress 실행하기 | GeekNews](https://news.hada.io/topic?id=6576)
 * [ws4sqlite: Query sqlite via http](https://github.com/proofrock/ws4sqlite)
 
 ## SQLite Python
