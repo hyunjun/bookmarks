@@ -213,6 +213,7 @@ Book
     * 전체적인 상황을 이해하고, 우리 장단점을 명확히 인식하고, 협상대상자에 대해 면밀히 살펴 대처하고, 기다려야 할 때는 인내하고, 상대방 약점을 파악해 집요하게 물고 늘어지고, 상대방이 고전할 때 면을 세워주고... 그것이 김현종의 협상전략이다.
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
 * (NOT YET) [뛰지 마라, 지친다](https://hanbit.co.kr/store/books/look.php?p_code=B1102492805)
+* (NOT YET) 한국인들의 이상한 행복 [“한국인들의 미소 속에는 균열과 얼룩이 있다” - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47523)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
