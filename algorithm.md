@@ -33,6 +33,7 @@ Algorithm
 * [Top 5 Courses to learn Data Structures and Algorithms in Python in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/11/python-data-structure-algorithm-course.html)
 * [Top 5 Courses to learn Data Structure and Algorithms in 2022 - Best of Lot UPDATED](https://javarevisited.blogspot.com/2018/11/top-5-data-structures-and-algorithm-online-courses.html)
 * [Top 5 Free Data Structure and Algorithm Courses for Java and C Programmers](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)
+* [Best Resources to Learn Data Structures and Algorithms YouTube, Books](https://www.mltut.com/best-resources-to-learn-data-structures-and-algorithms/)
 * [Data Structure - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF0ezo6NCzrAW4nZ6zDl6k6)
 * [Design & Analysis of Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF22UVdcQnbiMfSOBTOiGVq)
 * [Approaches for Efficiency Analysis of Algorithm - CodeCrucks](https://codecrucks.com/approaches-for-efficiency-analysis-of-algorithm)
