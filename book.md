@@ -485,6 +485,7 @@ Book
 * (NOT YET) 나의 이름은 임대운 [5·18 회고록 낸 미국인 "왜곡 반복 안 돼, 윤석열 진실 알아야" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002834726)
   * 우당
 * (NOT YET) [정조와 불량선비 강이천](https://www.khan.co.kr/opinion/column/article/201706212120015)
+* (NOT YET) [왜, 나쁜 역사는 반복되는가](https://www.facebook.com/fehlerhaft/posts/5227373837300799)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
