@@ -154,6 +154,8 @@ App
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
+* [RustDesk | Open source remote desktop software | The Open Source TeamViewer Alternative](https://rustdesk.com/)
+  * [RustDesk - 오픈소스 TeamViewer 대체제 | GeekNews](https://news.hada.io/topic?id=6621)
 * [ScanTailor](https://scantailor.org/)
   * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
@@ -1170,6 +1172,7 @@ App
 * [**monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)**](http://macnews.tistory.com/1064)
 * [mounty - 무료 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
 * [MouseTools](http://www.hamsoftengineering.com/codeSharing/MouseTools/MouseTools.html) auto app
+* [Muse — dive into big ideas](https://museapp.com/)
 * [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
@@ -1435,6 +1438,7 @@ App
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
   * [문자열로 플로우차트 생성하기 | GeekNews](https://news.hada.io/topic?id=3816)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
+* [Kinopio](https://kinopio.club/)
 * [IcePanel | Solution | System docs for visual people](https://icepanel.io/)
 * [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
@@ -1482,6 +1486,7 @@ App
 * [Systemizer - A system design tool](https://honzaap.github.io/Systemizer/)
   * [Systemizer - 시스템 디자인 시각화 도구 | GeekNews](https://news.hada.io/topic?id=4785)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
+* [Virtual Graph Paper - Sketch on a Grid](https://virtual-graph-paper.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
 
@@ -1538,6 +1543,7 @@ App
 * [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
+* [kbd-audio: 🎤⌨️ Acoustic keyboard eavesdropping](https://github.com/ggerganov/kbd-audio)
 * Kodi [Open Source Home Theater Software | Kodi](https://kodi.tv/)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
