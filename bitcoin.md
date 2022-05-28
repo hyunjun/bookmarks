@@ -66,6 +66,8 @@ Bitcoin
 * [세상을 늦게 보기 위해 잃었던 것들](https://snack.planetarium.dev/kor/2022/03/things-i-lost-to-see-the-world-late/) 확정 confirmation 문제
 * [Smart-Contract-Resources/Build.md at master · ErichDylus/Smart-Contract-Resources](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
 * [스테이블 코인의 정의: 루나-테라, 그리고 코인 투자에 대하여 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254376) stable coin
+* [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
+* [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
