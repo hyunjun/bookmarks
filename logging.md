@@ -104,6 +104,8 @@ Logging
   * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
   * [Distributed tracing with Spring Cloud Sleuth and Zipkin | Spring Boot | Microservices | Example Code - YouTube](https://www.youtube.com/watch?v=hEgdIT7AEfc)
   * [How to Implement Distributed Logging & Tracing using Sleuth & Zipkin? - Making Java easy to learn](https://javatechonline.com/how-to-implement-distributed-logging-tracing-using-sleuth-zipkin/)
+* [spring-cloud-sleuth: Distributed tracing for spring cloud](https://github.com/spring-cloud/spring-cloud-sleuth)
+  * [Sleuth 분산 환경 트래킹 With Fuel - Yun Blog | 기술 블로그](https://cheese10yun.github.io/slueth-fuel/)
 
 # Logrotate
 * [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
