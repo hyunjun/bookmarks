@@ -604,7 +604,8 @@ Linux
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
   * [Markus Mahlberg's answer to Why do experts always recommend using the command line and not the GUI (Win/Linux)? - Quora](https://www.quora.com/Why-do-experts-always-recommend-using-the-command-line-and-not-the-GUI-Win-Linux/answer/Markus-Mahlberg)
   * [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
-  * [go-find: A programmatically accessible golang implementation of the *nix `find` command](https://github.com/jaytaylor/go-find)
+  * [fd-kor](https://github.com/spearkkk/fd-kor)
+  * [go-find: A programmatically accessible golang implementation of the \*nix `find` command](https://github.com/jaytaylor/go-find)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
 * gcore [How I recovered a lost email from my email client’s memory](https://www.ctrl.blog/entry/restore-lost-email-from-ram.html)
@@ -693,6 +694,7 @@ Linux
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
   * [(리눅스 업스킬 도전 #9) 서비스 포트 관리](https://jhrogue.blogspot.com/2020/09/9.html)
+  * ["영화에 가장 많이 등장한 앱" 앤맵의 주요 기능과 활용법 - ITWorld Korea](https://www.itworld.co.kr/news/237694)
 * [nq: Unix command line queue utility](https://github.com/leahneukirchen/nq)
 * `nslookup`
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
