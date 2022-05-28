@@ -1165,6 +1165,7 @@ Docker
 * [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
 * [Living with Kubernetes: 12 Commands to Debug Your Workloads – The New Stack](https://thenewstack.io/living-with-kubernetes-12-commands-to-debug-your-workloads/)
+* [Ariadne Conill on Twitter: "ok guys time to debug kubernetes https://t.co/jNr1OMgWpr" / Twitter](https://twitter.com/ariadneconill/status/1526658992474361857/photo/1)
 * [4 Simple Kubernetes Terminal Customizations to Boost Your Productivity | by Komal Venkatesh Ganesan | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/4-simple-kubernetes-terminal-customizations-to-boost-your-productivity-deda60a19924)
 * [4 ways to run Kubernetes locally | Opensource.com](https://opensource.com/article/20/11/run-kubernetes-locally)
 * [Troubleshooting in Kubernetes: A Strategic Guide | by Komal Venkatesh Ganesan | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/troubleshooting-in-kubernetes-a-strategic-guide-ceec28db0043)
@@ -1361,6 +1362,7 @@ Docker
 * [쿠버네티스 실습 랩을 Vagrant가 아닌 이미지로 바로 구성 설치하는 법 - YouTube](https://www.youtube.com/watch?v=KxhSWf0ObEU)
 * [Welcome Tilt: Fixing the pains of microservice development for Kubernetes - Docker](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
+* [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1552,6 +1554,7 @@ Docker
     * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
     * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
     * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
+* [kubernetes-goat: Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀](https://github.com/madhuakula/kubernetes-goat)
 * Kubernetes Hardening Guidance
   * [쿠버네티스 보안 강화를 위한 NSA/CISA 가이드 분석 - ITWorld Korea](https://www.itworld.co.kr/news/205884)
   * [The NSA Can Help Secure Your Kubernetes Clusters – The New Stack](https://thenewstack.io/the-nsa-can-help-you-secure-your-kubernetes-clusters/)
@@ -1588,7 +1591,7 @@ Docker
 * [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
   * [What’s new in MicroK8s v1.23?. Committed to our mission we released… | by K. Tsakalozos | Dec, 2021 | ITNEXT](https://itnext.io/whats-new-in-microk8s-v1-23-9516c452fdaf)
   * [Deploy Microk8s and the Kubernetes Dashboard for K8s Development – The New Stack](https://thenewstack.io/deploy-microk8s-and-the-kubernetes-dashboard-for-k8s-development/)
-* Minikube
+* Minikube [Welcome! | minikube](https://minikube.sigs.k8s.io/docs/)
   * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
   * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
   * [How to learn Kubernetes with Minikube](https://www.hpe.com/us/en/insights/articles/how-to-learn-kubernetes-with-minikube-1812.html)
