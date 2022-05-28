@@ -2420,6 +2420,7 @@ Python
 * [파이썬 Python 코딩 - 엑셀 내용 이메일 발송하기 - YouTube](https://www.youtube.com/watch?v=2vz70V7EjpY)
 * [파이썬 Python 코딩 - 엑셀 내용 이메일 발송하기 2 (파일첨부) - YouTube](https://www.youtube.com/watch?v=aALlulEhxIM)
 * [How to send email with Python | From your Gmail account - YouTube](https://www.youtube.com/watch?v=KJYHL8DYZ1A)
+* [이메일 보내기](http://ducj3.iptime.org/send_mail/)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [eml-attachment-extractor: Python script for extracting attachments from .eml files](https://github.com/jayadeepk/eml-attachment-extractor)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
