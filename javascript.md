@@ -2155,6 +2155,7 @@ Javascript
     * 프로젝트 중단을 발표했던 모노레포 도구 Lerna의 소유권을 Nrwl이 넘겨받음
     * Nwrl은 모노레포 도구 Nx를 만드는 회사로 Lerna와 Nx를 둘 다 유지보수 하면서 두 도구를 통합 가능
     * Lerna의 코드를 몇 주간 살펴본 뒤에 로드맵을 발표할 것이지만 많은 프로젝트가 아직 Lerna를 쓰고 있으므로 주요한 버그 수정과 보안 업데이트를 먼저 할 예정
+  * [How Lerna just got 10x faster!. TL;DR: We released a new beta version… | by Juri Strumpflohner | May, 2022 | Nrwl](https://blog.nrwl.io/lerna-used-to-walk-now-it-can-fly-eab7a0fe7700)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -3472,6 +3473,7 @@ Javascript
 * [Home - About React - A Tutorial website for React Developers](https://aboutreact.com/)
 * [React Virtual Dom and Memo on Performance | by Kasun Vimukthi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
 * [또 컴포넌트가 지멋대로 리렌더링 된다. | Hama Develop](https://www.hamadevelop.me/rerender/)
+* [Understand Unnecessary Rerenders In React | by Mohd Aatif | May, 2022 | Medium](https://mohd-aatif.medium.com/understand-unnecessary-rerenders-in-react-7650e8120847)
 * [Mobile Convergence :: MS-1 Micro Service 환경 구축](https://mobicon.tistory.com/585)
 * [Mobile Convergence :: MS-2 React & Nest 기반 애플리케이션 및 Micro Service 통신 설정](https://mobicon.tistory.com/586)
 * [Mobile Convergence :: MS-3 Gateway와 Micro Service간 디버깅 환경 구축](https://mobicon.tistory.com/587)
