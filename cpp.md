@@ -363,6 +363,8 @@ C++
 * Cppcheck [C/C++ 정적 분석 도구, Cppcheck - 넷마블 기술 블로그](https://netmarble.engineering/static-analysis-tool-cppcheck/)
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
+* CRC32 [12-wide CRC32](https://gist.github.com/dougallj/a15a0feac92e2126932b0fbe1de7863d)
+  * [Faster CRC32 on the Apple M1 | dougallj](https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/)
 * [crypto++](http://cryptopp.com/)
 * [date: A date and time library based on the C++11/14/17 <chrono> header](https://github.com/HowardHinnant/date)
   * [류광의 번역 이야기 :: curl 링크 없이 C++ date 라이브러리의 시간대 기능 사용하기](http://occamsrazr.net/tt/377)
