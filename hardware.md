@@ -68,6 +68,10 @@ Hardware
   * SmartNIC를 사용하면 네트워크 처리를 하면서 일부 작업을 CPU가 수행해야 하지만 이를 SmartNIC의 하드웨어에서 처리 가능해 CPU 제대로 활용 가능
   * 카카오 i 클라우드에서는 ARM + FPGA의 단일 칩 시스템을 선택해서 소프트웨어로 프로비저닝 가능
     * 첫 기능으로 Open Virtual Switch를 구현해서 하이퍼바이저가 아니라 SmartNIC에서 OVS를 처리 가능해 CPU 사용률을 50% 이하로 낮추고 애플리케이션 성능으로 600%까지 향상
+* [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/)
+  * [기계식 시계는 어떻게 동작하는가 | GeekNews](https://news.hada.io/topic?id=6617)
+* [권석준 칼럼 반도체 칩4동맹과 미국의 패권 | 피렌체의 식탁](https://firenzedt.com/22271)
+* [권석준 칼럼 반도체 칩4동맹과 미국의 패권 2 | 피렌체의 식탁](https://firenzedt.com/22288)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
