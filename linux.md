@@ -360,6 +360,7 @@ Linux
 * [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
+* [Linux-for-Networking-Professionals: Linux for Networking Professionals, published by Packt](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
@@ -1065,6 +1066,8 @@ Linux
 * [Linux Kernel 101 for Beginner - YouTube](https://www.youtube.com/watch?v=96T6OCEqZNk)
   * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
 * [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
+* [parca: Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability](https://github.com/parca-dev/parca)
+  * [Parca - eBPF 기반의 지속적인 CPU/메모리 프로파일러 | GeekNews](https://news.hada.io/topic?id=6550)
 * [tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 
 ## Kernel Interrupt
