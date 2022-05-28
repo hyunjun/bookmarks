@@ -903,6 +903,7 @@ Interview
 * [연봉 협상에 실패하는 이유는 ‘이것’ 때문이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244823)
 * [영어면접 질문: What's Your Current Salary? — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary/)
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
+* [앞자리가 달라지는 이직 연봉 협상 전략 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241446)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
