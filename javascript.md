@@ -3900,6 +3900,8 @@ Javascript
   * [Next.js에서 HoC 사용한 Head 꾸미기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12310603)
   * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [Next Garchi CMS Ecommerce Store - YouTube](https://www.youtube.com/playlist?list=PLGPXS6A9wDNc2TbINP0nAIaO7Nc1HcvZh)
+  * [React 또는 Next.js에서 이미지가 제대로 적용 안되는 현상 해결하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12311237)
+  * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
