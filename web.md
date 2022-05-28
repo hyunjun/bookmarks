@@ -657,6 +657,7 @@ Web
 # GraphQL
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
+* [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use?](https://www.infoq.com/presentations/rest-graphql-grpc/)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Stop Using REST For APIs. GraphQL Is Way Better | by Harsha Vardhan | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-rest-for-apis-d697727ae6dd)
 * [GraphQL과 REST의 차이점 | Hwasurr's Devlog](https://hwasurr.io/api/rest-graphql-differences/)
@@ -1179,6 +1180,7 @@ Web
 * [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
   * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
 * [Top 10 REST Interview Questions for Java and Spring Developers | by javinpaul | Javarevisited | Apr, 2022 | Medium](https://medium.com/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)
+* [Java Guides on Twitter: "Amazing REST API Design Cheat Sheet: https://t.co/vqLvNdMjLi" / Twitter](https://twitter.com/GuidesJava/status/1527257487115952128/photo/1)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
