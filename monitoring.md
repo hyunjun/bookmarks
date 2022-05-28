@@ -153,6 +153,7 @@ Monitoring
 * [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [The Future of Observability with OpenTelemetry](https://go.lightstep.com/rs/260-KGM-472/images/oreilly-opentelemetry-lightstep.pdf)
+  * [Observability Powered by SQL: Understand Your Systems Like Never Before With OpenTelemetry Traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 
 # Prometheus
