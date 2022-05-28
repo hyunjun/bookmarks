@@ -343,6 +343,7 @@ Android
 * DeviceFarm/STF [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf/)
 * [Flutter](flutter.md)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
+* [fuel: The easiest HTTP networking library for Kotlin/Android](https://github.com/kittinunf/fuel)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
   * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
