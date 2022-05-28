@@ -139,6 +139,7 @@ Programmer
 * [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
 * [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
+* [complexity is the mind killer](https://github.com/PhilipK/articles/blob/main/complexity-is-the-mind-killer.md)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
