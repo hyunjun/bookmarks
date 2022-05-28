@@ -266,6 +266,7 @@ Graph
   * [Graphing retweets with Python and GraphViz](https://benatkin.com/2009/04/27/graphing-retweets-with-python-and-graphviz/)
   * [Hand-drawn Graphviz diagrams](https://www.johndcook.com/blog/2019/11/13/hand-drawn-graphviz-diagrams/)
   * [Master / Apprentice relationship graph in Star Wars](https://www.johndcook.com/blog/2019/12/24/master-apprentice-graph/)
+  * [graphviz로 그리면서 분석 및 구현 해보는 알고리즘과 자료구조 : 클리앙](https://www.clien.net/service/board/lecture/17282461)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
