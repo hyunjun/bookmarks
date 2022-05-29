@@ -1372,6 +1372,7 @@ Programming
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+* [DDD and Microservices: At Last, Some Boundaries! - YouTube](https://www.youtube.com/watch?v=sFCgXH7DwxM)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
