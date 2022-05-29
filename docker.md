@@ -956,6 +956,7 @@ Docker
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
 * [Kubernetes - POD -](https://spectrumstutz.com/k8s/kubernetes-pod/)
 * [How do we extend persistent Volume on existing application Pod | Scenario based QS #kubernetes #aks - YouTube](https://www.youtube.com/watch?v=eS5Ku7GQ-WE)
+* [Kubernetes tutorial | What are Static Pods? - YouTube](https://www.youtube.com/watch?v=zPwNMLfC33Q)
 * [Kubernetes production best practices](https://learnk8s.io/production-best-practices)
 * [Best practices for deploying highly available apps in Kubernetes. Part 1 – Flant blog](https://blog.flant.com/best-practices-for-deploying-highly-available-apps-in-kubernetes-part-1/)
 * [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
