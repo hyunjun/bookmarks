@@ -77,6 +77,7 @@ Go
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
 * [Golang: TLS version and Cipher suites](https://jusths.tistory.com/238)
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
+* [Golang variables everything you need to know | Mohamed Allam](https://mohamedallam.tech/blog/golang-variables/)
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
