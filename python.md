@@ -75,6 +75,8 @@ Python
   * [python gil이 있으니까 thread safe 할까요?](https://codingdog.tistory.com/entry/python-gil%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-thread-safe-%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [파이썬에서 멀티코어 활용하기 (feat. 라인 서버 개발자) | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=V18ceQO_JkM)
     * [talks/subinterpreters.pdf at main · vstinner/talks](https://github.com/vstinner/talks/blob/main/2021-PyconUS/subinterpreters.pdf)
+  * [Python Software Foundation News: The 2022 Python Language Summit: Python without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
+    * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Do-nothing scripting: the key to gradual automation – Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
@@ -1190,6 +1192,7 @@ Python
   * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
   * [Accurate Time Measurements Python](https://gitlab.com/bernhard.knasmueller/accurate-time-measurements-python)
     * [Measure Code Execution Time Accurately in Python](https://knasmueller.net/measure-code-execution-time-accurately-in-python)
+  * [Understand How Much Memory Your Python Objects Use](https://code.tutsplus.com/tutorials/understand-how-much-memory-your-python-objects-use--cms-25609)
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
     * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
       * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
@@ -1329,6 +1332,7 @@ Python
   * [Python에 F-string 이라는 게 있었다?](https://seorenn.tistory.com/76)
   * [String Formatting in Python — 6 Things to Know About f-strings | by Yong Cui, Ph.D. | The Startup | Medium](https://medium.com/swlh/string-formatting-in-python-6-things-to-know-about-f-strings-72fd38d96172)
   * [6 Python f-strings tips and tricks - 30 seconds of code](https://www.30secondsofcode.org/articles/s/6-python-f-strings-tips)
+  * [The unreasonable effectiveness of f-strings and re.VERBOSE - death and gravity](https://death.andgravity.com/f-re)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
@@ -2367,6 +2371,7 @@ Python
 * [Python Django Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
 * [Django 4.0 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-0-release-note-summary)
   * [Django 4.0 릴리스와 주요 변경 사항 | GeekNews](https://news.hada.io/topic?id=5659)
+* [Django 4.0.4 Best Practices Tutorial : Part 1](https://ayat.hashnode.dev/django-404-best-practices-tutorial-part-1)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기. 정경업 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=SbIQuDKmig0)
 * [6 Harmful Defaults in Django | Confuzeus](https://confuzeus.com/hub/django-web-framework/dangerous-defaults/)
 * [Improving Your Django and Python Developer Experience | Real Python Podcast #97 - YouTube](https://www.youtube.com/watch?v=MvOUaxV6LAw)
@@ -4742,6 +4747,7 @@ Python
 * [Python 3.10 톺아보기 | Lablup Blog](https://blog.lablup.com/posts/2021/11/12/python-3.10-overview)
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
 * [Python is About to Become 64% Faster — Python 3.10 vs. Python 3.11 Benchmark | by Dario Radečić | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/python-is-about-to-become-64-faster-python-3-10-vs-python-3-11-benchmark-3a6abcc25b90)
+* [Python 3.11 Is Indeed Faster Than 3.10 | by Thuwarakesh Murallie | May, 2022 | Towards Data Science](https://towardsdatascience.com/python-3-11-is-indeed-faster-than-3-10-1247531e771b)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * 2to3
