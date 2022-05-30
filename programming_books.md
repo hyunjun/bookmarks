@@ -2174,6 +2174,10 @@ Programming Books
   * [python-for-excel: This is the companion repo of the O'Reilly book "Python for Excel"](https://github.com/fzumstein/python-for-excel)
   * [Python for Excel 엑셀이 편해지는 파이썬. 엑셀은 최초의 스프레드시트는 아니지만 사실상 스프레드시트의 표준이 된… | by Jun | May, 2022 | Medium](https://nymets.medium.com/python-for-excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-dcbb6117c8dc)
   * [Python for Excel 엑셀이 편해지는 파이썬](https://jh4hj.tistory.com/entry/Python-for-Excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+* 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
+  * 탐라 문005.133 구235ㅍ
+  * 필요한 게 있을 때 찾아보기 좋은 dictionary 형식의 기초서적
+  * [python-recipe-src: 파이썬 코드 레시피 302 샘플 코드](https://github.com/moseskim/python-recipe-src)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -2238,8 +2242,6 @@ Programming Books
   * 탐라 문005.133-오43ㅍ
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
   * 한라
-* (NOT YET) 파이썬 코드 레시피 302 [파이썬 요리 레시피를 총망라한 쿡북 출간](https://jpub.tistory.com/1258)
-  * 탐라
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
   * 한라
 * (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
