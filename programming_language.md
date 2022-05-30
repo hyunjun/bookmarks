@@ -127,6 +127,9 @@ Programming Language
 * [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
 * [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
 
+# Generic
+* [Modern programming languages require generics - Ayende @ Rahien](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
+
 # Languages
 * [awesome-guidelines: A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)
   * [Awesome Guidelines | GeekNews](https://news.hada.io/topic?id=4865) 다양한 언어 및 환경을 위한 스타일 가이드 모음
@@ -473,6 +476,7 @@ Programming Language
   * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime)
   * [cloc counts blank lines, comment lines, and physical lines of source code in many programming languages](https://github.com/AlDanial/cloc)
   * [Top 5 Online Courses to Learn Perl in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-courses-to-learn-perl-programming.html)
+  * [What happened to Perl 7? | Perl Steering Council blogs.perl.org](http://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
 * [Pharo - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback](https://pharo.org/)
   * [Behold Pharo: The Modern Smalltalk](https://medium.com/smalltalk-talk/behold-pharo-the-modern-smalltalk-38e132c46053)
 * [Pony](https://www.ponylang.io/)
@@ -601,3 +605,4 @@ Programming Language
 * [The Future of Programming is Dependent Types — Programming Word of the Day](https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878)
 * [Demystifying Type Systems | by Ihor Morenets | Wix Engineering](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
 * [Static vs. dynamic typing: The details and differences](https://www.femar.co.ke/2022/01/sd.html)
+* [『프로그래밍 언어 속 타입』(가제) 책 소개 :: Jaemin Hong's Blog](https://blog.hjaem.info/2)
