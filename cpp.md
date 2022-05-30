@@ -444,6 +444,7 @@ C++
 ## Library Allocator
 * [Giving a C++ compiler operators new and delete at build time is better than simply replacing malloc and free with the dynamic loader](https://docs.google.com/document/d/e/2PACX-1vTJmRADDPyybMjBxQ5r-PHEdHQWoOW-Wk87IVoT_EvFv9B5Ks3Mjuk8IXIDYPKFvWW6ezsl9PSZ1JbF/pub)
 * [Joe Zbiciak's answer to In C++, what is the difference between the new operator and malloc() function (In general and especially for objects allocation)? - Quora](https://www.quora.com/In-C-what-is-the-difference-between-the-new-operator-and-malloc-function-In-general-and-especially-for-objects-allocation/answer/Joe-Zbiciak)
+* [Joe Zbiciak's answer to Is it bad practice nowadays to use “new” in C++? - Quora](https://www.quora.com/Is-it-bad-practice-nowadays-to-use-new-in-C/answer/Joe-Zbiciak?ch=15&oid=354973768&share=2453589f&srid=hq3D&target_type=answer)
 * gperftools
 * jemalloc
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
