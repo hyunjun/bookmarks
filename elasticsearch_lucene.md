@@ -332,6 +332,9 @@ ElasticSearch - Lucene
 * [interview 나만의 취향을 발견해 주는 아이디어스의 힘, 검색 추천 기술을 이야기하다. | by Saeyeon Park | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B7%A8%ED%96%A5%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%B4-%EC%A3%BC%EB%8A%94-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%EC%9D%98-%ED%9E%98-%EA%B2%80%EC%83%89-%EC%B6%94%EC%B2%9C-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4-c189f0ea594f)
 * [Hot-Warm Architecture in Elasticsearch 1/n | codersite](https://codersite.dev/hot-warm-architecture-elasticsearch/)
 * [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
+* [The Future of Search Is Boutique | Future](https://future.a16z.com/the-future-of-search-is-boutique/)
+  * ['검색의 미래'에 대한 참고글](https://c-rocket.net/boutique_search_engine_azout/)
+  * [검색의 미래는 부티크다 (a16z 글 번역 및 요약) | GeekNews](https://news.hada.io/topic?id=6538)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
