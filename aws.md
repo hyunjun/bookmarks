@@ -538,6 +538,8 @@ AWS
 * [AWS로 배포를 해보자!](https://saramin.github.io/2022-02-25-hello-aws/)
 * [AWS CodePipeline을 활용해 CI/CD 적용하기. 요즘 애플리케이션 개발, 어떻게 하고 계시나요? 모던 애플리케이션 개발… | by Phoebe Baek | Cloud Villains | Mar, 2022 | Medium](https://medium.com/ctc-mzc/aws-codepipeline%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-ci-cd-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-bef43bed1346)
 * [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #1 | by Siheon Kim | May, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-1-641e20e2d1f4)
+* [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - YouTube](https://www.youtube.com/watch?v=NwzJCSPSPZs)
+  * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
 
 # Comprehend
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
