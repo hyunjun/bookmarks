@@ -361,6 +361,7 @@ Linux
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
 * [Linux-for-Networking-Professionals: Linux for Networking Professionals, published by Packt](https://github.com/PacktPublishing/Linux-for-Networking-Professionals)
+* [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
@@ -1091,6 +1092,8 @@ Linux
   * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [Edit text on Linux with KWrite and Kate | Opensource.com](https://opensource.com/article/22/2/edit-text-linux-kde)
+* [123elf: A native port of Lotus 1-2-3 to Linux](https://github.com/taviso/123elf)
+  * [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 * [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/index.html)
