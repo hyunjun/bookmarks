@@ -187,6 +187,7 @@ C
 * [A Census of Minecraft Servers](https://blog.bithole.dev/mcmap.html)
 * [Bjørn Borud | Writing new system software](https://borud.no/notes/2021/system-software/)
 * [philosophers bonus 프로세스간 통신](https://velog.io/@junppyo/philosophers-bonus-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B0%84-%ED%86%B5%EC%8B%A0)
+* [everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -218,11 +219,14 @@ C
 * [Home ⚡ Zig Programming Language](https://ziglang.org/)
   * [Using Zig As Cross Platform C Toolchain](https://ruoyusun.com/2022/02/27/zig-cc.html)
   * [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+  * [How Uber Uses Zig - Motiejus Jakštys Public Record](https://jakstys.lt/2022/how-uber-uses-zig/)
+    * [Uber가 Zig를 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=6616)
 
 # Debugging
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
 * [5 common bugs in C programming and how to fix them | Opensource.com](https://opensource.com/article/21/10/programming-bugs)
 * [stong/how-to-exploit-a-double-free: How to exploit a double free vulnerability in 2021. 'Use After Free for Dummies'](https://github.com/stong/how-to-exploit-a-double-free)
+* [Logging C Function Calls](https://justine.lol/ftrace/)
 * GDB
   * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
   * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
@@ -453,8 +457,9 @@ C
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [rt0 - A minimal C runtime for Linux on i386 & x86_64](https://github.com/lpsantil/rt0)
 * [rtty - Access your device's terminal from anywhere via the web](https://github.com/zhaojh329/rtty)
-* [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
+* [sc: Common libraries and data structures for C](https://github.com/tezc/sc)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
+* [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
 * [Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
   * [Sioyek](https://sioyek.info/)
@@ -518,6 +523,7 @@ C
 * [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
 * [Joe Zbiciak's answer to What happens in memory when you define a pointer of a pointer in C? - Quora](https://www.quora.com/What-happens-in-memory-when-you-define-a-pointer-of-a-pointer-in-C/answer/Joe-Zbiciak)
 * [Mark Gritter's answer to Why are pointers so difficult to work with in C? - Quora](https://www.quora.com/Why-are-pointers-so-difficult-to-work-with-in-C/answer/Mark-Gritter)
+* [Joe Zbiciak's answer to What does ' (&arr) \[1\] - arr' mean in C? - Quora](https://www.quora.com/What-does-arr-1-arr-mean-in-C/answer/Joe-Zbiciak?ch=15&oid=338289191&share=2a8a0e5d&srid=hq3D&target_type=answer)
 * [pointers.py: Bringing the hell of pointers to Python](https://github.com/ZeroIntensity/pointers.py)
 
 # Standard Library
