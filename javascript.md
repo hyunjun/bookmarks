@@ -1655,6 +1655,7 @@ Javascript
   * [프론트엔드 개발환경의 이해: 린트](http://jeonghwan-kim.github.io//series/2019/12/30/frontend-dev-env-lint.html)
   * [How I learned to write cleaner code using ESLint](https://blog.usejournal.com/how-i-learned-to-write-cleaner-code-using-eslint-11b5c8b0e1b8)
   * [WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)](https://jojoldu.tistory.com/655)
+  * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
@@ -2084,6 +2085,7 @@ Javascript
   * [JavaScript로 오디오 이펙터를 만들어보자 나만의 소리 만들기](https://evan-moon.github.io/2019/08/21/javascript-audio-effectors-practice/)
   * [Canvas, Web Audio API를 사용한 오디오 파형 시각화 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-01-08-canvas-web-audio-player)
   * [리액트로 만든 게임에 사운드 추가하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220127-audio-in-web/)
+  * [Web Audio Modem | Martin Kirkholt Melhus](https://martinmelhus.com/web-audio-modem)
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
@@ -4462,6 +4464,7 @@ Javascript
   * [자바스크립트 개발자를 위한 ReasonML | 그린랩스](https://green-labs.github.io/what-is-reason-ml)
   * [프론트엔드 개발 ReasonML이라 좋았던 점 | 그린랩스](https://green-labs.github.io/reason-ml-the-good-parts)
   * [앗, ReasonML의 분기문에서는 타입이 다른 데이터를 리턴할 수 없다고요?! | 그린랩스](https://green-labs.github.io/reasonml-ways-with-types)
+* [remult: A CRUD framework for full stack TypeScript](https://github.com/remult/remult)
 * [ReScript Documentation](https://rescript-lang.org/)
   * [ReScript in Korean](https://green-labs.github.io/rescript-in-korean/)
   * [(2) 그린랩스 ReScript 부트캠프 | LinkedIn](https://www.linkedin.com/pulse/%EA%B7%B8%EB%A6%B0%EB%9E%A9%EC%8A%A4-rescript-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-sungmin-yang/)
