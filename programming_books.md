@@ -1880,6 +1880,8 @@ Programming Books
   * 탐라
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
   * 탐라
+  * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
+  * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
