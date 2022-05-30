@@ -26,6 +26,7 @@ Json
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
+  * [Parsing JSON faster with Intel AVX-512 – Daniel Lemire's blog](https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/)
 
 # Clojure
 * [Avoid Converting JavaScript Objects](http://blog.fikesfarm.com/posts/2017-11-09-avoid-converting-javascript-objects.html)
@@ -288,3 +289,4 @@ Json
 * [The Hate for YAML: The Hammer or the Nail? | Blog | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/blog/the-hate-for-yaml-the-hammer-or-the-nail)
 * [Paul Kuruvilla - I accidentally used YAML.parse instead of JSON.parse, and it... worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
 * [2분만에 배우는 YAML - YouTube](https://www.youtube.com/watch?v=1GRKklx4xeo)
+* [How I learned to stop worrying and love the YAML | lbr.](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
