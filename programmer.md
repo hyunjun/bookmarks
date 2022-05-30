@@ -53,7 +53,6 @@ Programmer
   * Theory Z Teamism, Theory A Open Allocation
 * [An Old Hacker's Tips On Staying Employed - by Mad Ned - The Mad Ned Memo](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
-* [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
@@ -71,7 +70,6 @@ Programmer
 * [8년 간의 개발자 생활 회고 (2) | Hello, There](https://jaeyo.github.io/look-back-on-8-years-2/)
 * [8년 간의 개발자 생활 회고 (3) | Hello, There](https://jaeyo.github.io/look-back-on-8-years-3/)
 * [Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-* [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 * [Senior to a Lead software developer | by Daniel Anderson | The Startup | Medium](https://medium.com/swlh/senior-to-lead-software-developer-things-they-didnt-tell-you-48123b34381)
 * [4 Signs of an Inexperienced Developer | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-signs-of-an-inexperienced-developer-851966fdc6b1)
 * [4 Ways to Earn Additional Income as a Programmer | by Daan | Level Up Coding](https://levelup.gitconnected.com/4-ways-to-earn-additional-income-as-a-programmer-da7586a64af1)
@@ -111,7 +109,6 @@ Programmer
 * [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기 | Evans Library](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
 * [F-Lab이 생각하는 좋은 멘토의 모습 - F-Lab](https://blog.f-lab.kr/2021/09/30/what-is-good-mentor.html) mentor
 * [인프런 수습 회고](https://jojoldu.tistory.com/612) 개발팀이 개발만 하면 망한다
-* [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [Celebrating Grace Hopper and the Origins of Debugging | Bugsnag Blog](https://www.bugsnag.com/blog/celebrating-grace-hopper-and-the-origins-of-debugging)
 * [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
 * [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
@@ -133,6 +130,7 @@ Programmer
 * [ㅈ형 인재가 되어라 - 2편 내 회사의 가치사슬 공백을 찾아라](https://community.rememberapp.co.kr/post/77585)
 * [ㅈ형 인재가 되어라 - 3편 똑똑한 질문을 하는 방법](https://community.rememberapp.co.kr/post/78058)
 * [ㅈ형 인재가 되어라 - 4편 공부하는 기획자는 아는만큼 의심하고 질문한다](https://community.rememberapp.co.kr/post/79621)
+* [Tips 개발자가 질문과 검색을 잘하는 법](https://velog.io/@kshired/Tips-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B2%95)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 * [남의 일을 끊임없이 공부해야하는 이유 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/186169)
 * [Subject Matter Expert가 되어라 | zero-base](https://zero-base.co.kr/event/media_insight_contents_50)
@@ -140,6 +138,7 @@ Programmer
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
 * [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
 * [complexity is the mind killer](https://github.com/PhilipK/articles/blob/main/complexity-is-the-mind-killer.md)
+* [Thorsten Ball - Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
@@ -175,3 +174,10 @@ Programmer
 * [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/) 이직할 회사 선택 기준
 * [개발자 경험(Dex)이 주목받는 시대 | 요즘IT](https://yozm.wishket.com/magazine/detail/1436/) Developer Experience
 * [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
+
+# Programmers
+* [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
+* [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
+* Leslie Lamport [The Man Who Revolutionized Computer Science With Math - YouTube](https://www.youtube.com/watch?v=rkZzg7Vowao)
+* Margaret Hamilton [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
+* [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
