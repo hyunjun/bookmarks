@@ -45,6 +45,7 @@ Book
 * [정의란 무엇인가?](https://jh4hj.tistory.com/entry/%EC%A0%95%EC%9D%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
   * 2011.07.28~08.04
   * [<정의란 무엇인가>를 읽고 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001439776)
+  * [마이클 샌델은 좌파? 정의란 무엇인가 핵심 요약과 마이클 샌델의 사상! - YouTube](https://www.youtube.com/watch?v=80TIm2c1Pnw)
 * [생각의 탄생](https://jh4hj.tistory.com/entry/%EC%83%9D%EA%B0%81%EC%9D%98-%ED%83%84%EC%83%9D)
   * 2011.08.12~14, 22~23
 * [셜록 홈즈(대부분)](https://jh4hj.tistory.com/entry/2011120228-%EC%85%9C%EB%A1%9D-%ED%99%88%EC%A6%88-%EB%8C%80%EB%B6%80%EB%B6%84-%EB%A1%9C%EB%A7%88%EC%9D%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0-18%EA%B6%8C)
