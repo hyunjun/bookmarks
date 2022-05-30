@@ -672,6 +672,7 @@ App
 # Editor
 * [파이썬 기초 강좌 #3 파이썬 코딩을 위한 텍스트 에디터](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0/)
 * [What are the best programming text editors?](https://www.slant.co/topics/12/~best-programming-text-editors)
+* Acme [The Tao of Acme](https://benghancock.github.io/blog/2022/tao-of-acme.html)
 * [무료 텍스트 에디터 추천 (Sublime Text, Atom, Brackets, Visual Studio Code)](http://blog.gaerae.com/2015/05/sublimetext-brackets-atom-visualstudiocode.html)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
   * atom
@@ -1691,6 +1692,7 @@ App
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
 * [무작정 Markdown 으로 문서 사이트를 만들고 싶은 이들에게... - DEV Community](https://dev.to/composite/mujagjeong-markdown-euro-munseoreul-mandeulgo-sipeun-ideulege-2mn9) Retype, Docsify
+* [Render mathematical expressions in Markdown | GitHub Changelog](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
 * [Bear App](https://bear.app/)
   * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
