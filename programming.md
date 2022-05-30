@@ -4432,6 +4432,7 @@ Programming
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
 * [A/B 테스트 자동 분석툴 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
 * [Technology: Push the Boundaries #1 QA 테스트 자동화에 도전하다](https://blog.ncsoft.com/technology-push-the-boundaries-1/)
+* [사용자의 요구를 만족시키는 사용 품질 확보하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/quality-in-use-meet-the-needs-of-users/) QA
 * [파이썬 로봇 프레임워크를 활용한 소프트웨어 자동화 테스트의 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/232029)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
