@@ -760,6 +760,8 @@ Go
   * [Building a terminal dashboard in Golang in 300 lines of code](https://levelup.gitconnected.com/building-a-terminal-dashboard-in-golang-in-300-lines-of-code-3b9f83f363a8)
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
+* [text: Go text processing support](https://github.com/golang/text)
+  * [How to Support Text Processing in Golang](https://morioh.com/p/78e67d5a0627)
 * [textql - Execute SQL against structured text like CSV or TSV](https://github.com/dinedal/textql)
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
