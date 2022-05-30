@@ -1793,6 +1793,7 @@ Docker
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
+* [Sandboxie: Sandboxie - Open Source](https://github.com/sandboxie-plus/Sandboxie)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
