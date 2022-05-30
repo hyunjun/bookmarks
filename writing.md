@@ -178,6 +178,7 @@ Writing
 * [About this guide  |  Google developer documentation style guide  |  Google Developers](https://developers.google.com/style)
 * [Tools for a Culture of Writing](https://matt.blwt.io/post/tools-for-a-culture-of-writing/)
 * [사내 용어 사전, LINE Words 오픈 여정기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/glossary-project-line-words-open/)
+* [We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
