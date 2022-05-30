@@ -146,6 +146,7 @@ Java
 * [Java에서의 Emoji처리에 대해 : NHN Cloud Meetup](https://meetup.toast.com/posts/317) unicode 유니코드
 * [Google Best Practices for Java Libraries](https://jlbp.dev/)
 * [Best practices for Java in single-core containers | Red Hat Developer](https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#java_application_lifecycle)
+* [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -439,6 +440,7 @@ Java
 * [더북(TheBook): 자바 코딩의 기술](https://thebook.io/007025/) 1~3장만
 * [다시 읽는 모던 자바 인 액션 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527454)
 * [점프 투 스프링부트 - WikiDocs](https://wikidocs.net/book/7601)
+* [Java 프로그래밍 기초 - Google Docs](https://docs.google.com/document/d/1462hsmohZ1BF7QFzubqGFE9T_tC8-zvlTWW5VkvYSDU/view#)
 * [Top 20 Books Java Programmers Can Read](https://javarevisited.blogspot.com/2017/12/top-20-java-books-of-2017-which-you-can-read-in-2018.html)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
@@ -772,6 +774,7 @@ Java
 * [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
 * [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
 * [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
+* [State of the Java Ecosystem Report from New Relic](https://www.infoq.com/news/2022/05/java-ecosystem-report-2022/)
 * [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
 * [Java records & compact constructors](https://mikemybytes.com/2022/02/16/java-records-and-compact-constructors/)
 * [Why Java's Records Are Better\* Than Lombok's @Data and Kotlin's Data Classes // nipafx](https://nipafx.dev/java-record-semantics/)
