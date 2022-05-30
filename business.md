@@ -58,6 +58,8 @@ Business
   * 구글에서 일하던 스캇 케네디라는 사람이 Replit이라는 스타트업으로 이직한 회고를 번역한 글
   * 2011년 구글에 합류해서 너무 좋았고 재정 상태도 좋아졌지만, 시간이 지나면서 인생의 균형이 깨졌다는 것을 깨달음
   * 구글이 너무 큰 조직이 되다 보니 업무 시간이 많지 않음에도 번아웃이 오는 것을 느끼고 큰 조직의 걱정이 없는 작은 스타트업으로 이직
+* [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
+  * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
@@ -153,6 +155,7 @@ Business
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
+* [How To Be Successful - Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
@@ -530,6 +533,8 @@ Business
 * [화해 제품 조직이 목적 중심으로 일하는 방법 part.1 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/hwahaeteam/culture/5873/)
 * [화해 제품 조직이 목적 중심으로 일하는 방법 part.2](http://blog.hwahae.co.kr/all/tech/tech-tech/6470/)
 * [why is everything so hard in a large organization? | do not look into laser with remaining eye](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
+* [How should our company structure our data team? | by David Murray | Snapcommerce | Medium](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
+* [Building & scaling Engineering team | by Amit Kumar | Medium](https://toamitkumar.medium.com/building-scaling-engineering-team-21bd7471a35a)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -631,6 +636,7 @@ Business
 * [이곳이 바로.. 유니크굿..? — 프론트엔드 인턴의 온보딩과정 #2탄 | by SUHA | Uniquegood | May, 2022 | Medium](https://medium.com/uniquegood/%EC%9D%B4%EA%B3%B3%EC%9D%B4-%EB%B0%94%EB%A1%9C-%EC%9C%A0%EB%8B%88%ED%81%AC%EA%B5%BF-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B4%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9%EA%B3%BC%EC%A0%95-2%ED%83%84-8f48bc169779)
 * [헤이딜러 안드로이드팀은 어떻게 일하나요?(1) — 팀문화. - 팀회고, 코딩 컨벤션, 라이브러리 배포, 기술블로그 등의 다양한… | by Ted Park | PRND | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1-%ED%8C%80%EB%AC%B8%ED%99%94-c9c354ac14fe) 정식 onboarding은 아니지만
 * [헤이딜러 안드로이드팀은 어떻게 일하나요?(2) — 업무방식. - 모든것을 기록하기, 귀찮은것들을 자동화 하기 - 코드… | by Ted Park | PRND | May, 2022 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-2-%EC%97%85%EB%AC%B4%EB%B0%A9%EC%8B%9D-a8e68fe7321b)
+* [Onboard New Developers with Better Coding Practices | HackerNoon](https://hackernoon.com/onboard-new-developers-with-better-coding-practices)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -688,6 +694,7 @@ Business
     * 모든 성과는 측정 가능해야
     * 평가는 매년, 연봉협상 필요할 때
     * 평가는 대상자가 제출하는 성과 보고서를 기준으로 진행
+* [Reinventing Performance Management](https://hbr.org/2015/04/reinventing-performance-management)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
@@ -1307,6 +1314,8 @@ Business
 * [마케팅 회사](https://www.thestartupbible.com/2022/05/why-product-startups-become-marketing-companies.html) 완벽한 제품을 만들기 위해 노력하라는 이야기
 * [바닥으로의 경주](https://www.thestartupbible.com/2022/05/race-to-the-bottom.html) 위 링크와 비슷한 맥락으로 해자垓字가 있는 제품을 만들어야 한다는 이야기
 * [토스의 링크페이를 쓰고 받은 충격의 카오스...](https://www.linkedin.com/posts/jeabinleedescartes_%EC%95%88%EC%A0%84%ED%95%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B1%B0%EB%9E%98-%EB%A7%81%ED%81%AC%ED%8E%98%EC%9D%B4-activity-6925263923038367744-ohLF/) 토스란 회사의 문화에 대해서는 불호이나 이런 product에 대한 태도와 실력은 정말 본받아야 한다고 생각함
+* [Shreyas Doshi on Twitter: "Product-Market fit is often viewed as a static concept: either you have it or you don’t. In my experience, it is better to think of fit as a dynamic state based on your progress towards your vision & know what fit you currently have. Check out the 4 Types of Product-Market fit: https://t.co/TARAJGmJvd" / Twitter](https://twitter.com/shreyas/status/1426594663671107585)
+  * [Product-Market Fit 의 4가지 종류 | GeekNews](https://news.hada.io/topic?id=6564)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -1542,6 +1551,8 @@ Business
   20. Nobody knows what will succeed. 
 * [사업에서 속력은 그 무엇보다 중요하다](http://moneyman.kr/archives/4670)
 * [속도가 사업에서 중요한 이유 - 인생지름길](https://lifeshortcut.kr/%EC%86%8D%EB%8F%84%EA%B0%80-%EC%82%AC%EC%97%85%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0/)
+* [Startup Trail: The Game Of Startup Survival](https://startuptrail.engine.is/)
+* [최악을 대비하세요 – YC (번역) – 이바닥늬우스](https://ebadak.news/2022/05/21/plan-for-the-worst/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
@@ -1565,6 +1576,7 @@ Business
 * [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (1)](https://brunch.co.kr/@suzy8347/8)
 * [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (2)](https://brunch.co.kr/@suzy8347/11)
 * [고객이 원하는게 무엇인지 모르겠다면 이 방법들을 활용해보세요 - YouTube](https://www.youtube.com/watch?v=7u4puOduOMA)
+* [칼럼 | ‘콰이강의 다리 문제’··· 테크놀로지스트의 전형적인 실수 - CIO Korea](https://www.ciokorea.com/news/236719) 고객이 진짜로 이용할 무언가를 만들기
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
