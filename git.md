@@ -252,6 +252,7 @@ Git
     * 그러다가 Puma의 `rack.after_reply`가 응답을 완료한 후 실행하는 기능이라는 것을 발견
     * GitHub에서는 Puma 대신 Unicorn을 쓰고 있었기 때문에 `rack.after_reply` 구현해서 Unicorn에 기여
       * 이를 통해 사용자에게 응답을 보낸 후에 매트릭을 전송하게 하여 P50에서는 30ms, P99에서는 50ms 이상 감소
+* [Math on GitHub: The Good, the Bad and the Ugly | techematics](https://nschloe.github.io/2022/05/20/math-on-github.html)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -910,6 +911,7 @@ Git
     ```
   * [Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
   * [GitHub에서 Release/Tag 자동으로 만들어 주기(1분만에 설정) | by Ted Park | PRND | Nov, 2021 | Medium](https://medium.com/prnd/github%EC%97%90%EC%84%9C-release-tag-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0-1%EB%B6%84%EB%A7%8C%EC%97%90-%EC%84%A4%EC%A0%95-5c09a383fb08)
+  * [Proper use of Git tags | Dan Aloni](https://blog.aloni.org/posts/proper-use-of-git-tags/)
 * worktree
   * [Git에서 다수의 워킹 디렉토리를 관리하는 worktree :: Outsider's Dev Story](https://blog.outsider.ne.kr/1588)
 
