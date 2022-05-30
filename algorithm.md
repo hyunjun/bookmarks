@@ -341,9 +341,10 @@ Algorithm
 * [Print all possible combinations of r elements in a given array of size n](https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/)
 
 # Compression
+* [Use Fast Data Algorithms | Joey Lynch's Site](https://jolynch.github.io/posts/use_fast_data_algorithms/)
+* [Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 * [Zip: Data compression (20분만에 배우는 압축 알고리즘) - Speaker Deck](https://speakerdeck.com/dalinaum/zip-data-compression-20bunmane-baeuneun-abcug-algorijeum)
-* [Use Fast Data Algorithms | Joey Lynch's Site](https://jolynch.github.io/posts/use_fast_data_algorithms/)
 
 # Consensus
 * [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
