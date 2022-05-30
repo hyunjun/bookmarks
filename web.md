@@ -238,6 +238,7 @@ Web
 * [Making the world’s fastest website, and other mistakes - DEV Community](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 * [Interaction to Next Paint (INP)](https://web.dev/inp/)
   * [다음 페인트에 대한 상호작용(Interaction to Next Paint, INP) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220512)
+* [내 웹사이트를 슬랙에서 돋보이게 해줄 메타 태그 8가지 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/05/30/8-Meta-tags-for-unfurling-links-well-on-Slack.html)
 
 # Apache
 * installation
