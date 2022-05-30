@@ -74,9 +74,6 @@ Programming Books
   * 2015.07.28
 * [인터랙티브 디벨로퍼](https://jh4hj.tistory.com/entry/%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC)
   * 2016.05.03~04
-* [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
-  * [소프트 스킬 평범한 개발자의 비범한 인생 전략 71가지](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC-%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B9%84%EB%B2%94%ED%95%9C-%EC%9D%B8%EC%83%9D-%EC%A0%84%EB%9E%B5-71%EA%B0%80%EC%A7%80)
-    * 2016.05.16
 * [임백준의 대살개문](https://jh4hj.tistory.com/entry/%EC%9E%84%EB%B0%B1%EC%A4%80%EC%9D%98-%EB%8C%80%EC%82%B4%EA%B0%9C%EB%AC%B8)
   * 2016.08.31
 * [데브옵스 2.0 툴킷](http://acornpub.co.kr/book/devops-2.0-toolkit)
@@ -86,11 +83,6 @@ Programming Books
 * [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
   * 2018.09
   * 한라 569몽877ㅎ
-* [오늘부터 개발자](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90)
-  * [오늘부터 개발자. 이런 책도 출판되는 걸 보면 확실히 개발자가 부족하긴 하다. 우리… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90-fbf62d0e9876)
-  * ★★★★☆ 2021.11.11
-  * 제목 그대로 비전공자가 개발자가 되기 위해 필요한 부분을 자세히 설명한 책
-  * 이미 개발자가 된 사람에게는 전혀 필요없지만 관심을 갖는 사람을 위해 읽어보라고 하기에는 매우 좋다
 * [처음 배우는 애저](https://jh4hj.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80)
   * [처음 배우는 애저. 회사를 옮겼는데, 스타트업이 보통 그렇듯 회사 시스템은 전부 AWS에서… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80-a27207be748f)
   * ★★★★☆ 2021.11.16
@@ -122,12 +114,6 @@ Programming Books
   * [누가 IT시장 취업에 성공하는가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/who_will_succeed.md)
   * [누가 IT시장 취업에 성공하는가. 저자가 java 전문가라 약간 치우친 경향도 있고, 또 기술적인 내용은… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%88%84%EA%B0%80-it%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80-91650eda058b)
   * [누가 IT 시장 취업에 성공하는가](https://jh4hj.tistory.com/entry/%EB%88%84%EA%B0%80-IT-%EC%8B%9C%EC%9E%A5-%EC%B7%A8%EC%97%85%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94%EA%B0%80)
-* [커리어 스킬](https://brunch.co.kr/@yudong/103)
-  * 한라
-  * ★★★☆☆ 2022.05.10~12 근육질의 프로그래머 존 숀메즈의 개발자 로드맵. 약간 뻔한 소리로 받아들일 수도 있지만 전반적으로 실용적으로 배우기에 좋다고 생각. 자기 관리가 정말 대단한 사람이라 이런 면 중 하나만 배워도 성장할 수 있을 거 같다
-  * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
-  * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
-  * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
 * [Don't Just Roll The Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf)
   * 흔히 DJRTD라고 알려져있는, "Don’t Just Roll the Dice"
     * 소프트웨어 가격 설정하는 법에 대한 내용. 레드게이트라는 소프트웨어 업체의 대표가 무료 pdf 로 배포하여 널리 알려짐
@@ -223,6 +209,7 @@ Programming Books
 * (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
   * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
 * (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
+  * [데이터 익명화를 위한 이론적인 방법과 절차 : 네이버 블로그](https://blog.naver.com/drvoss/222751471716)
 * (NOT YET) 좋은 코드, 나쁜 코드 [좋은 개발자는 좋은 코드로 말한다!](https://jpub.tistory.com/1272)
   * 우당
 
@@ -1788,15 +1775,6 @@ Programming Books
 * [최강의 조직](https://brunch.co.kr/@younghakjang/118)
   * ★★★★☆ 2021.11.18
   * [최강의 조직. 마지막으로, 구성원들이 ‘왜?’라는 질문을 던지는 데 주저함이 없고 그… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B0%95%EC%9D%98-%EC%A1%B0%EC%A7%81-394ccd294df8)
-* [개발자로 살아남기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0)
-  * ★★★★★ 2021.12.30
-  * [개발자로 살아남기. 정리를 잘해서 prolog만 읽어도 이 책의 주제를 바로 이해할 수… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-2db79678ec6e)
-  * [10년 경력을 설계하는 방법 – 1/3/3/3 원칙 :: Channy's Blog](http://channy.creation.net/blog/1517)
-  * [블리자드 레전드 개발자의 30년 압축 핵심 노하우 - YouTube](https://www.youtube.com/watch?v=u1ByKUip9q0)
-  * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - YouTube](https://www.youtube.com/watch?v=1VG7mTtwlOc)
-  * [30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041317567762347)
-  * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041216177718768)
-  * [면접을 앞둔 개발자 지망생에게 - 골든래빗](https://goldenrabbit.co.kr/2022/03/23/%eb%a9%b4%ec%a0%91%ec%9d%84-%ec%95%9e%eb%91%94-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%a7%80%eb%a7%9d%ec%83%9d%ec%97%90%ea%b2%8c/)
 * [성취예측모형](https://www.facebook.com/dongseok.tschoe/posts/10215559373897226)
   * ★★★★★ 2022.01.08
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
@@ -1898,8 +1876,6 @@ Programming Books
   * 한라, 탐라
   * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
-  * 탐라
-* (NOT YET) [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
   * 탐라
 * (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
   * 탐라
@@ -2092,6 +2068,35 @@ Programming Books
   * 설치, 라라벨 기본, 실전프로젝트 3가지로 구성. php 기본 문법은 간략하게 나옴
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
 
+# Programmer, 자기계발?
+* [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
+  * [소프트 스킬 평범한 개발자의 비범한 인생 전략 71가지](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC-%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B9%84%EB%B2%94%ED%95%9C-%EC%9D%B8%EC%83%9D-%EC%A0%84%EB%9E%B5-71%EA%B0%80%EC%A7%80)
+    * 2016.05.16
+* [오늘부터 개발자](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+  * [오늘부터 개발자. 이런 책도 출판되는 걸 보면 확실히 개발자가 부족하긴 하다. 우리… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90-fbf62d0e9876)
+  * ★★★★☆ 2021.11.11
+  * 제목 그대로 비전공자가 개발자가 되기 위해 필요한 부분을 자세히 설명한 책
+  * 이미 개발자가 된 사람에게는 전혀 필요없지만 관심을 갖는 사람을 위해 읽어보라고 하기에는 매우 좋다
+* [개발자로 살아남기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0)
+  * ★★★★★ 2021.12.30
+  * [개발자로 살아남기. 정리를 잘해서 prolog만 읽어도 이 책의 주제를 바로 이해할 수… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-2db79678ec6e)
+  * [10년 경력을 설계하는 방법 – 1/3/3/3 원칙 :: Channy's Blog](http://channy.creation.net/blog/1517)
+  * [블리자드 레전드 개발자의 30년 압축 핵심 노하우 - YouTube](https://www.youtube.com/watch?v=u1ByKUip9q0)
+  * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - YouTube](https://www.youtube.com/watch?v=1VG7mTtwlOc)
+  * [30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041317567762347)
+  * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041216177718768)
+  * [면접을 앞둔 개발자 지망생에게 - 골든래빗](https://goldenrabbit.co.kr/2022/03/23/%eb%a9%b4%ec%a0%91%ec%9d%84-%ec%95%9e%eb%91%94-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%a7%80%eb%a7%9d%ec%83%9d%ec%97%90%ea%b2%8c/)
+* [커리어 스킬](https://brunch.co.kr/@yudong/103)
+  * 한라
+  * ★★★☆☆ 2022.05.10~12 근육질의 프로그래머 존 숀메즈의 개발자 로드맵. 약간 뻔한 소리로 받아들일 수도 있지만 전반적으로 실용적으로 배우기에 좋다고 생각. 자기 관리가 정말 대단한 사람이라 이런 면 중 하나만 배워도 성장할 수 있을 거 같다
+  * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
+  * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
+  * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
+* [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
+  * 탐라
+  * ★★★☆☆ 2022.05.29
+  * [어떤 개발자가 살아남는가](https://brunch.co.kr/@lkj28/208)
+
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
 * **파이썬 분산 컴퓨팅분산 컴퓨팅 기초부터 테스팅과 디버깅까지**
@@ -2160,6 +2165,10 @@ Programming Books
   * Django를 디장고로 번역한 책은 본 기억이 없음(Django 발음 가지고 커뮤니티에서 논란도 10년도 전에나 있었던 거 같은데)
   * 번역 품질은 그리 좋지 않음(좋게 봐도 직역한 채로 많이 다듬지 않은 느낌)
   * 다루는 내용 자체는 범위가 넓지만 괜찮은 편(대신 깊이는 조금 부족)
+* [Python for Excel 엑셀이 편해지는 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2831223974)
+  * ★★★★☆ 2022.05.20~29
+  * [Python for Excel 엑셀이 편해지는 파이썬. 엑셀은 최초의 스프레드시트는 아니지만 사실상 스프레드시트의 표준이 된… | by Jun | May, 2022 | Medium](https://nymets.medium.com/python-for-excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-dcbb6117c8dc)
+  * [Python for Excel 엑셀이 편해지는 파이썬](https://jh4hj.tistory.com/entry/Python-for-Excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -2228,7 +2237,6 @@ Programming Books
   * 탐라
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
   * 한라
-* (NOT YET) [Python for Excel 엑셀이 편해지는 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2831223974)
 * (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
 
 ## Python Crawler
