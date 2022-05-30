@@ -1396,6 +1396,8 @@ Python
   * [practice timeit - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
   * [practice timeit - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_comparison_numpy_dot_with_timeit.py)
   * [practice timeit - function call with arguments 2](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
+* turtle
+  * [Fidget Spinner Using Python - YouTube](https://www.youtube.com/watch?v=nHZLHRf8mLY)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
