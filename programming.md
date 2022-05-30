@@ -534,6 +534,7 @@ Programming
 * [The Boring Technology Checklist - Begin](https://blog.staging.begin.com/posts/2022-01-27-the-boring-technology-checklist)
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
+* [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -592,6 +593,7 @@ Programming
     * 빅테크 기업은 주로 엔지니어가 프로젝트를 주도하고 전문 프로젝트 관리자가 없어서 관리방식을 스스로 결정
       * 이에 따라 자율성이 높아지고 더 큰 영향력을 발휘
   * [빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재 | GeekNews](https://news.hada.io/topic?id=6467)
+* [The age of Scrum is over. Scrum has given us a lot, but its time… | by Chris Lennon | Medium](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
@@ -798,6 +800,7 @@ Programming
 * [6 Traits of an Effective API. Great APIs are opinionated. In this… | by Bobi | Dev Genius](https://blog.devgenius.io/6-traits-of-an-effective-api-b03e22a8d152)
 * [단 하나의 API 사이트를 위한 여정 - Part 1](https://blog.payhere.in/tech-220520/)
 * [Design-First Approach to API Development: How to Implement and Why It Works](https://www.infoq.com/articles/design-first-api-development/)
+* API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1074,6 +1077,8 @@ Programming
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Microservices: Mono repo vs. multiple repositories](https://jaxenter.com/microservices-mono-repo-vs-multiple-repositories-130148.html)
 * [**Monorepo Explained**](https://monorepo.tools/)
+* [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo)
+  * [Airbridge API 개발팀의 Monorepo 도입기 | GeekNews](https://news.hada.io/topic?id=6544)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
@@ -1735,6 +1740,7 @@ Programming
 * [Reasons for Cancelling a Move to Microservices](https://www.infoq.com/news/2019/08/cancelling-move-to-microservices/)
 * [Smart Step-Into for Microservices Debugging | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2022/02/smart-step-into-for-microservices-debugging/)
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
+* [Managing Technical Debt in a Microservice Architecture](https://www.infoq.com/articles/managing-technical-debt-microservices/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2206,6 +2212,7 @@ Programming
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
+* [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -2705,6 +2712,7 @@ Programming
 * [SAML is insecure by design | joonas.fi](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
   * single-sign on에 사용하는 표준인 SAML(Security Assertion Markup Language)이 왜 보안에 취약한지 설명
   * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
+* [SAML로 싱글사인온을 구현하는 방법  - ITWorld Korea](https://www.itworld.co.kr/news/237559)
 * [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
 * [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
@@ -3257,6 +3265,8 @@ Programming
 * [‘매번 지적할 수도 없고...’ 오남용 심한 IT 유행어 14선 - CIO Korea](https://www.ciokorea.com/news/232569)
 * [칼럼 | 범용 DB의 귀환? 애초에 물러난 적이 없다 - CIO Korea](https://www.ciokorea.com/news/233064)
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
+* [The plain-text internet is coming - Protocol](https://www.protocol.com/newsletters/sourcecode/plain-text-sports-internet)
+  * [Plain-text 인터넷이 온다 | GeekNews](https://news.hada.io/topic?id=6561)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -4129,6 +4139,8 @@ Programming
 * [BSON](http://bsonspec.org/)
 * [capnproto](https://capnproto.org/)
 * [CBOR](http://cbor.io/)
+* [FlatBuffers: FlatBuffers](http://google.github.io/flatbuffers/)
+  * [flatbuffers: FlatBuffers: Memory Efficient Serialization Library](https://github.com/google/flatbuffers)
 * [MessagePack](https://msgpack.org/)
   * [practice - messagepack](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
   * [Msgpack in Flask-RESTful](https://kndrck.co/posts/flask_restful_custom_request/)
@@ -4486,6 +4498,7 @@ Programming
 * [Slack’s Incident on 2-22-22 - Slack Engineering](https://slack.engineering/slacks-incident-on-2-22-22/)
 * [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
 * [How I Accidentally Deleted 7TB of Videos Before Going To Production](https://blog.thevinter.com/posts/vimeo)
+* [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
