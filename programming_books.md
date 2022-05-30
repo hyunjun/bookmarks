@@ -1167,6 +1167,7 @@ Programming Books
 * [도메인 주도 설계 철저 입문 | 위키북스](https://wikibook.co.kr/ddd/)
   * 한라 005.115나296ㄷ
   * ★★★☆☆
+  * [ddd: 《도메인 주도 설계 철저 입문》 예제 코드](https://github.com/wikibook/ddd)
   * [도메인 주도 설계 철저 입문](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ddd101.md)
   * [도메인 주도 설계 철저 입문. 소프트웨어의 목적은 도메인에서 이용자들이 직면한 문제를 해결하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EC%B2%A0%EC%A0%80-%EC%9E%85%EB%AC%B8-db989052ad3d)
   * [도메인 주도 설계 철저 입문](https://jh4hj.tistory.com/entry/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-%EC%B2%A0%EC%A0%80-%EC%9E%85%EB%AC%B8)
@@ -1948,6 +1949,7 @@ Programming Books
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
   * 한라
+  * [PacktPublishing/Natural-Language-Processing-with-Python-Cookbook: Natural Language Processing with Python Cookbook, published by Packt](https://github.com/PacktPublishing/Natural-Language-Processing-with-Python-Cookbook/)
 * (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
 * (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
 * (NOT YET) [**한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지**](http://acornpub.co.kr/book/korean-embedding)
@@ -1962,6 +1964,7 @@ Programming Books
   * [Tutorial Links - ratsgo's NLPBOOK](https://ratsgo.github.io/nlpbook/docs/tutorial_links)
 * (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
   * 한라
+  * [textmining](https://github.com/wikibook/textmining)
 
 # NoSQL
 
@@ -2167,6 +2170,8 @@ Programming Books
   * 다루는 내용 자체는 범위가 넓지만 괜찮은 편(대신 깊이는 조금 부족)
 * [Python for Excel 엑셀이 편해지는 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2831223974)
   * ★★★★☆ 2022.05.20~29
+  * [Python for Excel–The Book](https://www.xlwings.org/book)
+  * [python-for-excel: This is the companion repo of the O'Reilly book "Python for Excel"](https://github.com/fzumstein/python-for-excel)
   * [Python for Excel 엑셀이 편해지는 파이썬. 엑셀은 최초의 스프레드시트는 아니지만 사실상 스프레드시트의 표준이 된… | by Jun | May, 2022 | Medium](https://nymets.medium.com/python-for-excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-dcbb6117c8dc)
   * [Python for Excel 엑셀이 편해지는 파이썬](https://jh4hj.tistory.com/entry/Python-for-Excel-%EC%97%91%EC%85%80%EC%9D%B4-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
