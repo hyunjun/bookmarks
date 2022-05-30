@@ -243,6 +243,8 @@
 * [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
   * [코틀린을 다루는 기술 #1 | Jungwoon Blog](https://jungwoon.github.io/kotlin/2021/10/06/Advanced-Kotlin-1.html)
 * [Effective Kotlin](https://kt.academy/book/effectivekotlin)
+  * [Effective Kotlin - Item01](https://devroach.tistory.com/114?category=1035492)
+  * [EffectiveKotlin-Item02 변수의 스코프를 최소화 해라](https://devroach.tistory.com/116)
   * [Effective Kotlin Item 50: 쓸모없는 객체 참조를 제거해라](https://github.com/tmdgusya/translate-article/blob/main/kotlin/kotlin-object-reference.md)
 
 # Conference
