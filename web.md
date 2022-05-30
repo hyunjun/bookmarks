@@ -196,6 +196,7 @@ Web
     * URL과 URI가 모두 RFC 3986을 따르지만, URL은 리소스의 위치, URI는 리소스를 식별해주기 때문에 거의 같다고 느낄 수 있으나 실제로는 URL이 URI의 subset
   * URN Uniform Resource Name: 리소스가 존재하지 않더라고 리소스를 식별하는 역할, 역시 URI의 subset
 * [URI, URL 및 URN의 차이점은 무엇입니까?](https://guseowhtjs.tistory.com/entry/URI-URL-%EB%B0%8F-URN%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C)
+* [URL, URI, URN: What's the Difference?](https://auth0.com/blog/url-uri-urn-differences/)
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
@@ -556,6 +557,7 @@ Web
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
+* [webscraping-open-project: Repository of open knowledge about web scraping in Python](https://github.com/reanalytics-databoutique/webscraping-open-project)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 ## Crawler Scala
@@ -1298,6 +1300,8 @@ Web
     * 모든 매트릭 측정을 플랫폼의 특성에 맞게 하고 점수를 내기 위해 웹과 네이티브의 매트릭 가중치를 다르게 부여
 * [조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack)](https://toss.tech/article/faster-initial-rendering)
 * [Http Server Performance: NodeJS vs. Go | by Jan Sunavec | Jan, 2022 | Better Programming](https://betterprogramming.pub/http-server-performance-nodejs-vs-go-397751e8d275)
+* [The Definitive Guide to Image Optimization](https://www.builder.io/blog/the-definitive-guide-to-image-optimization)
+  * [(번역) 이미지 최적화에 대한 명확한 가이드](https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -1440,6 +1444,8 @@ Web
   * [v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86/)
 * [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
   * WebAssembly로 FizzBuzz 앱을 직접 작성해 보고 Doom을 WebAssembly로 포팅해보는 튜토리얼
+* [wazero: the zero dependency WebAssembly runtime for Go developers](https://github.com/tetratelabs/wazero)
+  * [Wazero - Go 개발자를 위한 종속성 없는 WebAssembly 런타임 | GeekNews](https://news.hada.io/topic?id=6569)
 * [webassembly.sh](https://webassembly.sh/)
 * [WebVM](https://webvm.io/)
   * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
