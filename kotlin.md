@@ -300,6 +300,9 @@
 * [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/)
   * [Compose for Web 개발 후기](https://holykisa.tistory.com/71)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
+  * [exposed-study at master · cheese10yun/blog-sample](https://github.com/cheese10yun/blog-sample/tree/master/exposed-study)
+    * [Exposed - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed/)
+    * [Exposed 추가 정리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed-2/)
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [fuel: The easiest HTTP networking library for Kotlin/Android](https://github.com/kittinunf/fuel)
   * [HTTP Client 책임 분리하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/http-client/)
