@@ -95,6 +95,7 @@ Writing
 * [38 Incredible Notetaking Statistics You Should Know | Paperlike](https://paperlike.com/blogs/paperlikers-insights/38-notetaking-statistics)
 * [고사성어(故事成語)에서 배우는 교훈-2 啐啄同時(줄탁동시)](http://www.gasnews.com/news/articleView.html?idxno=90108)
 * [How I Motivate Myself to Write - The Pragmatic Engineer](https://blog.pragmaticengineer.com/writing-motivation/)
+* [개발자가 경영책 써서 3개월 동안 책 30권 판 썰](https://brunch.co.kr/@nanotoly/81)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
