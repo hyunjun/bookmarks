@@ -3086,6 +3086,7 @@ Javascript
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
 * [React.setState를 사용하지 않는 3가지 이유](https://brunch.co.kr/@hee072794/108)
 * [setState를 바르게 사용하는 방법](https://blog.grotesq.com/post/728)
+* [React - setState 이해하기](https://taenami.tistory.com/49)
 * [How to properly define state in React components](https://itnext.io/how-to-properly-define-state-in-react-components-47544eb4c15d)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
