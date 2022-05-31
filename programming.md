@@ -1375,6 +1375,7 @@ Programming
 * [의사결정을 위한 문제영역 구분의 틀](https://brunch.co.kr/@graypool/460)
 * [EDA 그리고 적응력을 갖춘 살아있는 시스템](https://brunch.co.kr/@graypool/470)
 * [스토리텔링 문법을 개발하라](https://brunch.co.kr/@graypool/474)
+* [문법은 표현의 직관성을 높이는 행위](https://brunch.co.kr/@graypool/478)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -4398,6 +4399,7 @@ Programming
   * [(1) Kent Beck 🌻 on Twitter: "@sarah_edo Baby steps. Really, really quick baby steps. But baby steps first." / Twitter](https://twitter.com/kentbeck/status/1260938674440515585?lang=en)
 * [세미나 공유 - 테스트 - YouTube](https://www.youtube.com/watch?v=L_1UYlJyNuk)
 * [Unit Testing is Overrated | Oleksii Holub](https://tyrrrz.me/blog/unit-testing-is-overrated)
+* [Software Testing Theory + A Few Less Obvious Testing Techniques - YouTube](https://www.youtube.com/watch?v=K47pr6lPxsA)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
