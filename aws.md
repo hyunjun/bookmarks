@@ -1470,6 +1470,7 @@ AWS
 * [Incorrect IAM Policy Raised Questions about AWS Access to S3 Data](https://www.infoq.com/news/2022/01/aws-iam-s3-access/)
 * [S3에 Python으로 접근하기 - 이상선 - Medium](https://medium.com/@sunyi233/s3%EC%97%90-python%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0-1e1014d9a85)
 * [Amazon S3 - Same Region Replication Setup](https://programmersblock.hashnode.dev/aws-s3-same-region-replication)
+* [AWS S3 Cross Region Replication](https://programmersblock.hashnode.dev/amazon-s3-cross-region-replication)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
