@@ -2756,6 +2756,7 @@ Javascript
   * [Express로 CRUD api 만들기 (01)](https://www.jiwon.me/express-mongodb-crud-api-01/)
   * [Express-mongoDB로 CRUD API 만들기(02)](https://www.jiwon.me/express-mongodb-crud-api-02/)
   * [File Upload in Node js Express using Multer - YouTube](https://www.youtube.com/watch?v=Af_W6j4unm8)
+  * [Nodejs + Express Swagger 제대로 알고 쓰자!](https://development-crow.tistory.com/32)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
@@ -3515,6 +3516,7 @@ Javascript
 * [Meet React useEvent(): The Latest and Greatest React Hook | JavaScript in Plain English](https://javascript.plainenglish.io/react-useevent-the-latest-and-greatest-react-hook-56ae71febbf3)
 * [Load More Pagination | React JS - YouTube](https://www.youtube.com/watch?v=wQPhA_zs_-w)
 * [React Developer Log, Sprint 3 - Contact Us Page, Intro to wrappers and map API - YouTube](https://www.youtube.com/watch?v=y_T14e-d8As)
+* [How to Install React App in Seconds - YouTube](https://www.youtube.com/watch?v=JNPPj2OdW9U)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3907,6 +3909,7 @@ Javascript
   * [Next Garchi CMS Ecommerce Store - YouTube](https://www.youtube.com/playlist?list=PLGPXS6A9wDNc2TbINP0nAIaO7Nc1HcvZh)
   * [React 또는 Next.js에서 이미지가 제대로 적용 안되는 현상 해결하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12311237)
   * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
+  * [Next JS | Page Rendering | SSR | SSG | ISR | CSR | Data fetching - YouTube](https://www.youtube.com/watch?v=9up8pWfVpYs)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
