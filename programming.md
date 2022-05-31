@@ -1374,6 +1374,7 @@ Programming
 * [진화하는 혹은 오래 사는 시스템 만들기](https://brunch.co.kr/@graypool/464)
 * [의사결정을 위한 문제영역 구분의 틀](https://brunch.co.kr/@graypool/460)
 * [EDA 그리고 적응력을 갖춘 살아있는 시스템](https://brunch.co.kr/@graypool/470)
+* [스토리텔링 문법을 개발하라](https://brunch.co.kr/@graypool/474)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
