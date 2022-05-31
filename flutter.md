@@ -51,6 +51,7 @@ Flutter
 * [flutter web과 aws, github actions 로 반응형 웹사이트 제작하기 | by NAMKYU PARK | Jun, 2021 | Medium](https://trialxxerror.medium.com/flutter-web%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3c9925b55101)
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
 * [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
+* [MacBook M1에 iOS와 Android를 위한 Flutter 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1688)
 * [윈10 플루터 설정시 SDK 라이센스 에러 해결법](https://brunch.co.kr/@promise4u/176)
 * [Declarative UI 찬양](https://xrath.com/2020/03/declarative-ui/)
 * [21 Awesome Flutter UI Plugins](https://www.dunebook.com/awesome-ui-plugins-for-flutter/)
