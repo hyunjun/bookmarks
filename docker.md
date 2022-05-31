@@ -852,6 +852,7 @@ Docker
   * [03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
 * [Kubernetes 101 - Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters)
+* [Hands on Kubernetes Part I - YouTube](https://www.youtube.com/watch?v=BqaQfYLSDAk)
 * [Containers vs. Pods - Taking a Deeper Look - Ivan Velichko](https://iximiuz.com/en/posts/containers-vs-pods/)
 * [Let's Learn Kubernetes - Basics - 1 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7)
 * [Let's Learn Kubernetes - Basics - 2 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-2-2a9a)
