@@ -118,20 +118,6 @@ AWS
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
-* [AWS Codebuild 용 커스텀 Windows Server 이미지 만드는 법 | by Jesang Yoon | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-codebuild-%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-windows-server-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95-939eeeeb06b7)
-* [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js) | by gon Kim | elecle_bike | Feb, 2021 | Medium](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
-* [CI/CD from Github to AWS EC2 Step by Step | Node.js Express Backend API as an Example - YouTube](https://www.youtube.com/watch?v=Buh3GjHPmjo)
-* [How to Setup a CI/CD Pipeline with GitHub Actions and AWS](https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/)
-* [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
-* [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
-  * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
-  * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
-  * [3. AWS Code Pipeline으로 배포하기](http://jojoldu.tistory.com/283)
-* AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기
-  * [1. 기본 환경 구성](http://jojoldu.tistory.com/313)
-  * [2. Code Deploy 연동](http://jojoldu.tistory.com/314)
-  * [3. 젠킨스 연동](http://jojoldu.tistory.com/315)
-* [AWS Lambda로 Code Deploy 배포 상세 결과 알람 받기](http://jojoldu.tistory.com/298)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
@@ -236,7 +222,6 @@ AWS
 * [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
-* [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
 * [내게 알맞는 AWS 컴퓨팅 서비스 찾기](https://medium.com/harrythegreat/%EB%82%B4%EA%B2%8C-%EC%95%8C%EB%A7%9E%EB%8A%94-aws-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B0%BE%EA%B8%B0-bfd2c409273c)
 * [AWS 전체서비스 Overview — 1](https://medium.com/harrythegreat/aws-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-overview-1-4cc3ffdd6b59)
 * [AWS의 ARN 이해하기](https://medium.com/harrythegreat/aws%EC%9D%98-arn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-8c20d0ccbbfd)
@@ -505,6 +490,35 @@ AWS
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 * [1.(책모음) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 
+# CI/CD Codecommit Codebuild CodeDeploy CodePipeline
+* [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
+* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
+* [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
+* [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
+* [AWS로 배포를 해보자!](https://saramin.github.io/2022-02-25-hello-aws/)
+* [AWS CodePipeline을 활용해 CI/CD 적용하기. 요즘 애플리케이션 개발, 어떻게 하고 계시나요? 모던 애플리케이션 개발… | by Phoebe Baek | Cloud Villains | Mar, 2022 | Medium](https://medium.com/ctc-mzc/aws-codepipeline%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-ci-cd-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-bef43bed1346)
+* [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #1 | by Siheon Kim | May, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-1-641e20e2d1f4)
+* [AWS Codebuild 용 커스텀 Windows Server 이미지 만드는 법 | by Jesang Yoon | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-codebuild-%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-windows-server-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95-939eeeeb06b7)
+* [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js) | by gon Kim | elecle_bike | Feb, 2021 | Medium](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
+* [CI/CD from Github to AWS EC2 Step by Step | Node.js Express Backend API as an Example - YouTube](https://www.youtube.com/watch?v=Buh3GjHPmjo)
+* [How to Setup a CI/CD Pipeline with GitHub Actions and AWS](https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/)
+* [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
+* [AWS CI/CD 워크샵](https://catalog.us-east-1.prod.workshops.aws/workshops/cbcd960c-a07b-40c2-a01d-1d2e7a52b945/ko-KR)
+* [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
+  * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
+  * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
+  * [3. AWS Code Pipeline으로 배포하기](http://jojoldu.tistory.com/283)
+* AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기
+  * [1. 기본 환경 구성](http://jojoldu.tistory.com/313)
+  * [2. Code Deploy 연동](http://jojoldu.tistory.com/314)
+  * [3. 젠킨스 연동](http://jojoldu.tistory.com/315)
+* [AWS Lambda로 Code Deploy 배포 상세 결과 알람 받기](http://jojoldu.tistory.com/298)
+* [Building AWS ECS Infrastructure with AWS Codepipeline for Blue/Green deployment by Terraform](https://github.com/gnokoheat/ecs-with-codepipeline-example-by-terraform)
+* [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
+* [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
+* [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - YouTube](https://www.youtube.com/watch?v=NwzJCSPSPZs)
+  * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
+
 # CloudWatch
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
 * [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
@@ -530,16 +544,6 @@ AWS
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
-
-# CodeDeploy
-* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
-* [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
-* [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
-* [AWS로 배포를 해보자!](https://saramin.github.io/2022-02-25-hello-aws/)
-* [AWS CodePipeline을 활용해 CI/CD 적용하기. 요즘 애플리케이션 개발, 어떻게 하고 계시나요? 모던 애플리케이션 개발… | by Phoebe Baek | Cloud Villains | Mar, 2022 | Medium](https://medium.com/ctc-mzc/aws-codepipeline%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-ci-cd-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-bef43bed1346)
-* [조금은 특이한 온프레미스와 AWS CodeDeploy 연동기 #1 | by Siheon Kim | May, 2022 | Hard Boiled Smith Stories](https://blog.hbsmith.io/%EC%A1%B0%EA%B8%88%EC%9D%80-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-aws-codedeploy-%EC%97%B0%EB%8F%99%EA%B8%B0-1-641e20e2d1f4)
-* [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - YouTube](https://www.youtube.com/watch?v=NwzJCSPSPZs)
-  * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
 
 # Comprehend
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
@@ -948,6 +952,7 @@ AWS
 
 # Lambda
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
+* [Serverless Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136/ko-KR)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
@@ -1021,7 +1026,6 @@ AWS
 * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
 * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 * [AWS Lambda Update – Run Java Code in Response to Events | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/)
-* [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
 * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
 * [AWS Lambda 를 이용한 테스트 구현](https://blog.awskr.org/running-tests-in-aws-lambda.html)
 * [IT 이노베이션 센터 이야기 - AWS Lambda를 활용한 개발 스폰서십 확보편](http://www.slideshare.net/hnki0104/it-aws-lambda)
@@ -1146,7 +1150,6 @@ AWS
 * [Cold Start Comparison of AWS Lambda, Cloudfront, Cloudflare Workers | Ddosify](https://medium.com/ddosify/cold-start-comparison-of-aws-lambda-and-cloudflare-workers-a3f9021ee60a)
   * [AWS Lambda 와 Cloudflare Workers 의 콜드스타트 비교 | GeekNews](https://news.hada.io/topic?id=6562)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
-* [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
   * [Firecracker v1.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=5967)
@@ -1473,6 +1476,10 @@ AWS
 * [AWS S3 Cross Region Replication](https://programmersblock.hashnode.dev/amazon-s3-cross-region-replication)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
+# SAM Serverless Application Model
+* [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+* [AWS SAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/ko-KR)
+
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
 * [Scala Compilation Got 5x Faster With Triplequote Hydra](https://www.triplequote.com/blog/2019-scala-compilation-got-5-times-faster-with-triplequote-hydra/)
@@ -1522,7 +1529,6 @@ AWS
 * [Terraform 0.12로 테라폼 코드 업그레이드하기](https://blog.outsider.ne.kr/1461)
 * [좌충우돌 Terraform 입문기](http://woowabros.github.io/tools/2019/09/20/terraform.html)
 * [tfenv로 테라폼 버전 관리하기](https://www.44bits.io/ko/post/managing-teraform-versions-with-tfenv)
-* [Building AWS ECS Infrastructure with AWS Codepipeline for Blue/Green deployment by Terraform](https://github.com/gnokoheat/ecs-with-codepipeline-example-by-terraform)
 * [테라폼(Terraform): Infrastructure as Code](https://www.youtube.com/watch?v=SGH0uDni-WY)
 * [Terraform Cloud에서 workspace 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1495)
 * [Korean DevOps Art Project: Terraform and Goployer - YouTube](https://www.youtube.com/watch?v=ZAEZ0uTtn5w)
