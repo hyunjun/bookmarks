@@ -915,6 +915,7 @@ Go
 * [Internals of Go's new fuzzing system — jayconrod.com](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
+* [go-testing-mocks: This project is for learning about mocking external services calls](https://github.com/Edmartt/go-testing-mocks)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 
@@ -939,6 +940,9 @@ Go
 * [golang 기본 배우기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864349)
 * [Akhil Sharma - YouTube](https://www.youtube.com/c/AkhilSharmaTech/playlists)
 * [Go code snippets - YouTube](https://www.youtube.com/channel/UCwpHxv6d5EoHTdVlNyncHLw/featured)
+* [Go (programming language) in pidgin tutorial for beginners- part 1 - YouTube](https://www.youtube.com/playlist?list=PL9gVCyzfAQj5Bj1PKGNYWK9I4DQOE7ONs)
+* [Go (programming language) in pidgin tutorial for beginners- part 2 - YouTube](https://www.youtube.com/playlist?list=PL9gVCyzfAQj6407lKbirAeJDEvFbSt2m_)
+* [Go (programming language) in pidgin tutorial for beginners- part 3 - YouTube](https://www.youtube.com/playlist?list=PL9gVCyzfAQj5oOYBEjBG_BjR1cV1Vj04z)
 * [How to Effectively Recover from Panic in Go Applications](https://morioh.com/p/4eef0bedc51c)
 
 # Web
