@@ -101,6 +101,7 @@ Data Visualization
 * [VW LAB :: 반응형 유동인구/매출액 Viewer](https://www.vw-lab.com/99) C++
 * [뉴스젤리가 데이터 시각화의 모든 것을 이야기 합니다! - 뉴스젤리 : 데이터 시각화 전문 기업](http://newsjel.ly/archives/newsjelly-report/visualization-report/8182)
 * [Hans Rosling: The best stats you've ever seen | TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+* [선거철 모르면 곤란한 데이터 시각화, 카토그램 - 뉴스젤리 : 데이터 시각화 전문 기업](https://newsjel.ly/archives/newsjelly-report/visualization-report/14212)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
