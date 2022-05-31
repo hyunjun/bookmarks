@@ -1574,6 +1574,7 @@ Programming
 * [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
 * [Frontend Architectural Patterns: Backends-For-Frontends | by Bowei Han | Frontend at Scale | Sep, 2020 | Medium](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
+* [The BFF Pattern (Backend for Frontend): An Introduction | by Viduni Wickramarachchi | Bits and Pieces](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 * [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
 * [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/) multi runtime
@@ -4020,6 +4021,10 @@ Programming
 * [소프트웨어 설계자가 로우코드를 도입해야 하는 이유 5가지 - ITWorld Korea](https://www.itworld.co.kr/mainnews/226744)
 * [노코드로 사업 검증하기](https://brunch.co.kr/@byungjunjang/20)
 * [칼럼ㅣRPA 1.0이 ‘원 트릭 포니’였던 이유 - CIO Korea](https://www.ciokorea.com/news/228104)
+* [마이크로소프트 파워앱스의 Low-code/no-code 새 기능을 꼭 주목하세요](https://www.facebook.com/youngwook.kim.7549/posts/10225258967074688)
+  * [New: turn images and designs into apps using AI-powered express design | Microsoft Power Apps](https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/)
+  * [https://www.microsoft.com/en-us/videoplayer/embed/RE4XPSq](https://www.microsoft.com/en-us/videoplayer/embed/RE4XPSq)
+  * [What is Power Pages (preview)? | Microsoft Docs](https://docs.microsoft.com/en-us/power-pages/introduction)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
 * [메타브 스튜디오 | Disquiet\*](https://disquiet.io/product/%EB%A9%94%ED%83%80%EB%B8%8C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4) 템플릿을 통해 누구나 쉽게 메타 콘텐츠(심리테스트, MBTI, 퀴즈...)를 제작할 수 있는 노코드툴
