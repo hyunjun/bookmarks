@@ -1723,6 +1723,7 @@ Docker
   * [docker-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/node/docker-bench)
 * [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
   * [도커와 k8s 디버거](https://jhrogue.blogspot.com/2021/07/b-k8s.html)
+* [docker-jinja: The extension to Docker you want. ed](https://github.com/Grokzen/docker-jinja)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!](https://github.com/sickcodes/Docker-OSX)
 * [docker-py: A Python library for the Docker Engine API](https://github.com/docker/docker-py)
