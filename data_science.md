@@ -418,6 +418,7 @@ Data Science
 * [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 * [Free Book: Foundations of Data Science (from Microsoft Research Lab) - DataScienceCentral.com](https://www.datasciencecentral.com/new-book-foundations-of-data-science-from-microsoft-research-lab/)
 * [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+  * [판다스 개발자가 직접 쓰고 공개한 파이썬 데이터 분석 3판 - YouTube](https://www.youtube.com/watch?v=GYv5r1SQWe0)
 
 # Conference
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
