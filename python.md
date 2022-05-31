@@ -4481,6 +4481,7 @@ Python
 # Pandas
 * [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 * [pandas documentation — pandas 1.3.1 documentation](https://pandas.pydata.org/pandas-docs/stable/)
+* [파이썬의 대표적인 데이터 분석도구 판다스 공식 문서 활용하기 - YouTube](https://www.youtube.com/watch?v=epkjiyzcSG8)
 * practice
   * [read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
