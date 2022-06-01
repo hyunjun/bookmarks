@@ -632,6 +632,7 @@ Web
   * 2021년의 호환성 문제를 제거하기 위해 `sticky`, `aspect-ratio`, `flex`, `grid`, `transform` 5가지 기능을 테스트할 수 있도록 compat 2021에서 개선
   * 올해는 interop 2022에서 개발자의 경험을 개선하기 위해 `@layer`, 컬러스페이스, `conatain`, `<dialog>`, 폼 호환성, 스크롤, 서브그리드, 타이포그래피, 뷰포트 유닛, 웹 호환성 기능을 계획
   * 2022년의 새로운 기능과 그 이후에 나올 기능을 하나씩 설명
+  * [CSS의 미래를 알려드림. feat. 구글 I/O - YouTube](https://www.youtube.com/watch?v=kkiLBF_YerM)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.1 – tech.kakao.com](https://tech.kakao.com/2022/05/20/on-demand-atomic-css-library/)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.2 – tech.kakao.com](https://tech.kakao.com/2022/05/24/on-demand-atomic-css-library-2/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
@@ -1054,6 +1055,7 @@ Web
   * [“파이썬과 HTML의 결합” 아나콘다 ‘파이스크립트’ 공개 - ITWorld Korea](https://www.itworld.co.kr/news/235064)
   * [“브라우저의 파이썬” 아나콘다, ‘파이스크립트’ 공개 - CIO Korea](https://www.ciokorea.com/news/234899)
   * [PyScript 란? - HTML에서 파이썬 코드 작성](https://velog.io/@taekkim/PyScript-%EB%9E%80)
+  * [자바스크립트 종말각?! HTML에서 파이썬 실행하는 PyScript 등장! - YouTube](https://www.youtube.com/watch?v=3DuyJf_XPtM)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
