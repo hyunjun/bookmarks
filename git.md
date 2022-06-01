@@ -253,6 +253,14 @@ Git
     * GitHub에서는 Puma 대신 Unicorn을 쓰고 있었기 때문에 `rack.after_reply` 구현해서 Unicorn에 기여
       * 이를 통해 사용자에게 응답을 보낸 후에 매트릭을 전송하게 하여 P50에서는 30ms, P99에서는 50ms 이상 감소
 * [Math on GitHub: The Good, the Bad and the Ugly | techematics](https://nschloe.github.io/2022/05/20/math-on-github.html)
+* [Math support in Markdown | The GitHub Blog](https://github.blog/2022-05-19-math-support-in-markdown/)
+  * GitHub 마크다운에서 `$`, `$$` 기호를 이용해서 TeX나 LaTeX 스타일의 수식 작성 가능
+* [Improved REST API documentation | The GitHub Blog](https://github.blog/2022-05-24-improved-rest-api-documentation/)
+  * GitHub의 REST API 문서 개선
+  * OpenAPI 스키마에서 자동으로 문서가 생성되도록 바꾼 후 지속해서 개선하고 있는데 파라미터와 응답을 쉽게 볼 수 있도록 3컬럼 레이아웃 사용
+  * 예제도 cURL 뿐 아니라 JS와 GitHub CLI 같이 제공
+* [Specify theme context for images in Markdown (Beta) | GitHub Changelog](https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/)
+  *  GitHub 마크다운에서 `prefers-color-scheme`를 이용해서 `<picture>` HTML로 라이트/다크 테마에 따라 다른 이미지 출력 가능
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
