@@ -126,7 +126,7 @@ Programming Books
     * B2B로 팔때는 구매담당자가 경영진을 설득하기 쉬운 사이즈로 오퍼하라. (그래서 커야 좋을 수도 있음)
     * 해적판(piracy)는 양날의 칼이다. 이익을 갉아먹기도 하지만, 잠재수요와 잠재고객의 식별이 되기도 한다.
     * 민감도 테스트를 적극적으로 하라. 테스트가 되어 얼추 요량이 서면, 가격인상을 주저하지 마라. 이때 떨어져나가는 고객은, 애초에 비고객 또는 언제고 떠날 취약고객일수도 있다.
-    * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다. 
+    * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다.
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -173,6 +173,7 @@ Programming Books
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 * (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
+  * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
@@ -209,8 +210,19 @@ Programming Books
 * (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
   * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
 * (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
+  * 탐라
   * [데이터 익명화를 위한 이론적인 방법과 절차 : 네이버 블로그](https://blog.naver.com/drvoss/222751471716)
 * (NOT YET) 좋은 코드, 나쁜 코드 [좋은 개발자는 좋은 코드로 말한다!](https://jpub.tistory.com/1272)
+  * 우당
+* (NOT YET) [NFT 실체와 가치 | 위키북스](https://wikibook.co.kr/nft/)
+  * 탐라 문327.2-장53ㅇ
+* (NOT YET) [프로그래머의 길, 멘토에게 묻다 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/116)
+  * 한라 005.104-후44ㅍ
+* (NOT YET) [인간, 조직, 권력 그리고 어느 SW 엔지니어의 변 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/38)
+  * 한라 004-이75ㅇ
+* (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
+  * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
+* (NOT YET) [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
   * 우당
 
 # Agile Scrum
@@ -241,6 +253,7 @@ Programming Books
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
 * (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
+  * 한라
   * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
@@ -255,6 +268,10 @@ Programming Books
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라, 우당
 * (NOT YET) [좋은 팀을 만드는 24가지 안티패턴 타파 기법 | 에이콘출판사](http://www.acornpub.co.kr/book/retrospectives-antipatterns)
+  * 한라
+* (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
+  * 탐라
+* (NOT YET) [사용자를 끌어들이는 UX/UI의 비밀 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/124)
   * 한라
 
 # Algorithm
@@ -333,6 +350,9 @@ Programming Books
 * (NOT YET) [알고리즘으로 생각하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286801220)
   * 탐라 문005.1-양53ㅇ
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
+  * 한라
+* (NOT YET) [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
+  * 우당
 
 # Amazon AWS
 
@@ -507,6 +527,10 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍처 101](https://jybaek.tistory.com/950)
   * 탐라
   * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
+* (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
+  * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
+* (NOT YET) [적정 소프트웨어 아키텍처](https://www.hanbit.co.kr/store/books/look.php?p_code=B6059097161)
+  * 우당
 
 # C
 
@@ -1093,6 +1117,7 @@ Programming Books
 * (NOT YET) [데이터 시각화 교과서 | Facebook](https://www.facebook.com/commerce/products/2865226240202367/)
   * [Data Visualization](https://socviz.co/)
   * [SDS 375](https://wilkelab.org/SDS375/)
+* (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
 
 # Debugging
 
@@ -1152,6 +1177,7 @@ Programming Books
     * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
+  * 한라 005.11-오12ㄷ
 * (NOT YET) [따라하며 배우는 도커와 CI 환경 | 위키북스](https://wikibook.co.kr/docker-ci/)
   * 탐라 문005.1-안72ㄷ
 * (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
@@ -1189,6 +1215,8 @@ Programming Books
   * [<DDD Start! - 최범균> 을 읽고](https://www.reimaginer.me/entry/DDD-start-book-review)
 * (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
   * 한라 005.115-버195ㄷ
+* (NOT YET) [도메인 주도 설계 첫걸음 | 위키북스](https://wikibook.co.kr/lddd/)
+  * 한라
 
 # Elasticsearch
 
@@ -1672,6 +1700,8 @@ Programming Books
 * (NOT YET) [번역서 "BPF로 리눅스 관측 가능성 향상하기" 나왔습니다](http://occamsrazr.net/tt/363)
 * (NOT YET) [칼리 리눅스로 파헤치는 도커 해킹](https://bjpublic.tistory.com/362)
 * (NOT YET) [kkamagui의 작업실 :: 서평 프리-오픈소스 소프트웨어 혁명의 역사](https://kkamagui.tistory.com/939)
+* (NOT YET) [우분투 투게더 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/26)
+  * 한라 005.44-이76우
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
@@ -1830,7 +1860,7 @@ Programming Books
   * [실리콘밸리의 팀장들. Radical Candor — Be A Kick-Ass Leader… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4-f7677ca4f8b7)
   * [실리콘밸리의 팀장들](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4)
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
-  * 탐라
+  * 탐라 문325.21-리58ㅅ
   * ★★★★☆ 2022.05.01~05
   * [The Startup Way | A framework for entrepreneurial management | The Startup Way](http://thestartupway.com/)
   * [Home | Lean Startup Co.](https://leanstartup.co/)
@@ -1906,6 +1936,7 @@ Programming Books
   * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
   * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
+  * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 
 # Math
 
@@ -1967,6 +1998,8 @@ Programming Books
 * (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
   * 한라
   * [textmining](https://github.com/wikibook/textmining)
+* (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2/)
+  * 한라
 
 # NoSQL
 
@@ -2101,6 +2134,8 @@ Programming Books
   * 탐라
   * ★★★☆☆ 2022.05.29
   * [어떤 개발자가 살아남는가](https://brunch.co.kr/@lkj28/208)
+* (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
+  * 한라 325.04-카884ㅅ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
@@ -2247,6 +2282,9 @@ Programming Books
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
   * 한라
 * (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
+  * 탐라 문005.133-포58ㅇ
+* (NOT YET) [엑셀 X 파이썬 업무 자동화 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/90)
+  * 우당
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2349,7 +2387,7 @@ Programming Books
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
 * (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
   * 우당
-* (NOT YET) [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
+* (NOT YET) 나성호의 R 데이터 분석 입문 [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
 * (NOT YET) [혼자 공부하는 R 데이터 분석](https://jybaek.tistory.com/947)
 
 # Rust
@@ -2402,10 +2440,16 @@ Programming Books
 
 # Software engineering
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
+  * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
+  * 탐라 문005.115-파67ㄹ, 우당 문005.115-파67ㄹ
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
 * (NOT YET) [구글 엔지니어는 이렇게 일한다](https://www.hanbit.co.kr/store/books/look.php?p_code=B1207366943)
+  * 탐라
   * [abseil / Software Engineering at Google](https://abseil.io/resources/swe-book)
+* (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
+  * 한라 005.11-맥875ㅋ-2
+* (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 
 # Spark
 
