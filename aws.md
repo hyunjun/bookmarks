@@ -435,6 +435,15 @@ AWS
 * [클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 * [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html) AWS SSO
+* [Introduction to Analytics on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 시작](https://khw742002.tistory.com/32)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 1](https://khw742002.tistory.com/33?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 2](https://khw742002.tistory.com/34?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 3](https://khw742002.tistory.com/35?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 4](https://khw742002.tistory.com/36?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 5](https://khw742002.tistory.com/37?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 6](https://khw742002.tistory.com/38?category=1006667)
+  * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 마무리](https://khw742002.tistory.com/39?category=1006667)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
