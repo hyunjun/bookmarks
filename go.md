@@ -634,6 +634,7 @@ Go
     * golang을 쓰면서 팀 내의 코드 컨벤션을 합의하고 이를 자동으로 검사하기 위해 golangci-lint 선택
     * GitHub Actions 잘 지원, 로컬 개발에서도 사용 용이하기 때문에 이 도구를 선택
     * CI 적용하자 이전에 발견하지 못했던 컨벤션 누락도 탐지 가능
+* [go-linq: .NET LINQ capabilities in Go](https://github.com/ahmetb/go-linq)
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [go-mail: 📧 A cross platform mail driver for GoLang. Featuring Mailgun, Postal, Postmark, SendGrid, SparkPost & SMTP](https://github.com/ainsleyclark/go-mail)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
