@@ -1885,6 +1885,9 @@ Programming Books
   * ★★★★☆ 2022.05.31~06.01
   * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
   * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
+* [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
+  * 탐라 문325.24-슈53ㅅ
+  * ★★★☆☆ 2022.06.01
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1917,8 +1920,6 @@ Programming Books
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
-* (NOT YET) [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
-  * 탐라
 * (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
