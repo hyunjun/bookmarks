@@ -1880,6 +1880,11 @@ Programming Books
   * ★★★★☆ 2022.05.08~09
   * [빠르고 유연한 린스타트업 경영, 대기업의 창의적 혁신에도 유용하다 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/7397/ac/magazine)
   * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
+* 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
+  * 탐라 문325.1-벨58ㅇ
+  * ★★★★☆ 2022.05.31~06.01
+  * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
+  * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1909,10 +1914,6 @@ Programming Books
   * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
 * (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라
-* (NOT YET) 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
-  * 탐라
-  * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
-  * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
