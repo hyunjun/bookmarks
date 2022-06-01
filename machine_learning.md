@@ -1284,6 +1284,24 @@ Machine Learning
 * [MLOps 생태계 2022년 전망과 Backend.AI로 가속하는 하이퍼스케일 AI 실전로드맵 토크아이티 웨비나, 래블업 - YouTube](https://www.youtube.com/watch?v=fdMfbgqkRQ4)
 * [MLOps : 딥랩 세미나 요약- 8회차. 💡 딥랩 세미나 요약은 발표자인 모더레이터의 발표를 듣고 사회자인… | by Eunsoo Park | 모두의연구소 기술 블로그 | May, 2022 | Medium](https://medium.com/modulabs/mlops-%EB%94%A5%EB%9E%A9-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9A%94%EC%95%BD-8%ED%9A%8C%EC%B0%A8-7b2d05c8752d)
 * [INNOPOLIS AI SPACE-S 인공지능 세미나 - MLOps와 높은 진입 장벽 - YouTube](https://www.youtube.com/watch?v=cmJYUD9Xwa4)
+* FastAPI 및 TFServing을 이용한 ML 배포
+  * FastAPI 및 TFServing 으로 모델을 k8s(GKE) 환경에 배포하여, 몇 가지 성능을 확인해보는 간단한 프로젝트
+  * [ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes](https://github.com/sayakpaul/ml-deployment-k8s-fastapi)
+  * [ml-deployment-k8s-tfserving: This project shows how to serve an TF based image classification model as a web service with TFServing, Docker, and Kubernetes(GKE)](https://github.com/deep-diver/ml-deployment-k8s-tfserving)
+  * FastAPI의 경우에 고려된 파라미터
+    * 단순 로컬에서 TF 모델과 TF -> ONNX 변환 모델 추론 속도
+    * FastAPI에는 ONNX로 변환된 모델을 넣었습니다
+    * uvicorn, gunicorn worker 의 개수
+  * TFServing의 경우에 고려된 파라미터
+    * 로컬/리모트 단일 추론에서 RestAPI 보다 gRPC가 뛰어남을 확인
+    * 커스텀 TFServing 이미지 빌드시, CPU 최적화된 TF를 컴파일
+    * TFServing 에 일부 CPU 코어 및 쓰레드 수에 따라 변경해볼만한 파라미터( --inter_op_parallelism_threads, --itra_op_parallelism_threads), TFServing 의 동적 배치 추론 기능 활성화 파라미터( --enable_batching 및 config 파일 작성)
+  * 두 경우에 모두 공통적으로 고려된 사항
+    * 서버를 구동하는 k8s 클러스터의 Pod 개수 (노드마다 여러 Pod이 있을 수 있으나, 각 노드별 하나의 Pod만 프로비져닝)
+    * 클러스터 Node 개수가 많아질 수록 Node의 사양은 ⬇, 클러스터 Node 개수가 적어질 수록 Node의 사양은 ⬆
+  * FastAPI로 ML 추론 서버를 구축하는 예제가 상당히 많이 존재하지만, 현실적으로는 상용 수준으로 쓰기에는 "어렵다"로 생각
+    * 불안정한 부분이 많고, 기본적으로 ML 추론용 서버가 갖춰야 할 다양한 기능이 결여되어 있기 때문에, 직접 이를 모두 구현해야 하는 골치아픈 작업이 발생(동적 배치 추론, 모델 버전 관리, 다중 버전의 다중 모델 동시 추론 기능 등)
+  * 두 저장소 모두 푸쉬, 새로운 모델 릴리즈에 따라 자동으로 GKE 클러스터로 도커 이미지를 빌드한 뒤 배포하는 GitHub Action 도 함께 작성
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
