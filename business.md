@@ -1179,6 +1179,7 @@ Business
     * the winners learned a whole lot more, a whole lot better, a whole lot faster with a whole lot more duration than the losers
     * [SEE TO SOLVE – The Portable Andon Cord](https://wp.seetosolve.com/)
 * [디지털전환기의 오너와 리더](https://brunch.co.kr/@graypool/469) 가치 집중 필요성
+* [관심을 더 기울이기보다 무관심을 철저히 경계해라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240752)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
