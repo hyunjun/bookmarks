@@ -220,6 +220,7 @@ Book
   * 탐라
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
   * 우당
+* (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
