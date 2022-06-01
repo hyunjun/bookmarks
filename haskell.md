@@ -306,6 +306,7 @@ Haskell
   * [Haskell을 Production에서 사용중인 회사들 | GeekNews](https://news.hada.io/topic?id=6497)
 * [프로 하스켈러 1일차 | GHCup. 헛헛, 평소에 참 운이 좋은 편이라 감사하게 생각하고 있습니다. 또… | by 김대현 | HappyProgrammer | May, 2022 | Medium](https://medium.com/happyprogrammer-in-jeju/%ED%94%84%EB%A1%9C-%ED%95%98%EC%8A%A4%EC%BC%88%EB%9F%AC-1%EC%9D%BC%EC%B0%A8-d04fe4f10ec0)
 * [프로그래밍언어의 원리 최광훈 - Google Slides](https://docs.google.com/presentation/d/1CXN9yEuucdLByfWSQOomCbq7C_0Ex-gHT17M3uv7D_w/edit#slide=id.p)
+* [하스켈 GHC.Generics 탐험기](https://velog.io/@todd/%ED%95%98%EC%8A%A4%EC%BC%88-GHC.Generics-%ED%83%90%ED%97%98%EA%B8%B0)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
