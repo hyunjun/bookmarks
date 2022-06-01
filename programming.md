@@ -100,6 +100,7 @@ Programming
     * 하지만 앞의 3가지를 끝내지 않은 상태에서 생산 속도를 밀어붙여선 안된다. 그렇지 않으면 자기 무덤을 더 빠르게 파는 것이나 마찬가지다.
   5. 자동화해라
   * 순서가 중요. 거꾸로 적용하면 안됨
+* [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
@@ -799,6 +800,8 @@ Programming
 * [API 문서 읽는 법](https://spectacular-bottom-6be.notion.site/API-1d5d21326d204bb19a4c6cbab8b37cd4)
 * [6 Traits of an Effective API. Great APIs are opinionated. In this… | by Bobi | Dev Genius](https://blog.devgenius.io/6-traits-of-an-effective-api-b03e22a8d152)
 * [단 하나의 API 사이트를 위한 여정 - Part 1](https://blog.payhere.in/tech-220520/)
+  * 페이히어에서 모노리스에서 MSA로 전환하면서 저장소가 많이 생기게 되어 Swagger API 문서를 어떻게 관리할지 고민
+  * 모든 저장소에 `/docs` 폴더에 Swagger 문서를 배치하도록 규칙을 정하고 이를 한곳에서 볼 수 있도록 `redoc`을 이용해서 각 저장소의 `/docs` 내용을 가져와서 한꺼번에 보여주도록 구현
 * [Design-First Approach to API Development: How to Implement and Why It Works](https://www.infoq.com/articles/design-first-api-development/)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
@@ -3801,6 +3804,7 @@ Programming
   * [기술 뉴스 #196 : 22-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1590)
   * [기술 뉴스 #197 : 22-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1593)
   * [기술 뉴스 #198 : 22-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1595)
+  * [기술 뉴스 #199 : 22-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1599)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
