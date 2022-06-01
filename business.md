@@ -573,6 +573,8 @@ Business
 * [순조로운 퇴사를 위해 해야 할 일 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1313/)
 * [개발자 A씨의 퇴사 이야기 | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/story-of-a-developers-resignation/)
 * [퇴사 인터뷰들은 함정입니다 | GeekNews](https://news.hada.io/topic?id=6304)
+* [How to Ask Whether an Employee Is Happy at Work](https://hbr.org/2022/04/how-to-ask-whether-an-employee-is-happy-at-work)
+  * [퇴사 예방(?) 미팅 방법](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-how_to_ask_whether_an_employee_is_happy_at_work-md)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -1400,6 +1402,7 @@ Business
 * [The MVP is dead, long life to the MAP. (Minimum Awesome Product) | by Carlos Beneyto | The Startup | Medium](https://medium.com/swlh/the-mvp-is-dead-long-life-to-the-map-minimum-awesome-product-404df90fef7f)
   * [번역 MVP는 끝났습니다. 이제는 MAP(Minimum Awesome Product) 입니다. | by Jaewang Lee | Medium](https://medium.com/@jnso5072/%EB%B2%88%EC%97%AD-mvp%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C%EB%8A%94-map-minimum-awesome-product-%EC%9E%85%EB%8B%88%EB%8B%A4-887210c38d7c)
 * [MVP는 최적화가 아닌 학습을 위해 존재한다](https://brunch.co.kr/@cliche-cliche/151)
+  * MVP를 정해진 시간 내에 만들 수 있는 최소한의 기능이나 한두 개의 핵심 기능이라고 말하지만 오해가 많은 개념이고 핵심은 최적화보다는 학습이라고 설명
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
@@ -1553,7 +1556,20 @@ Business
 * [사업에서 속력은 그 무엇보다 중요하다](http://moneyman.kr/archives/4670)
 * [속도가 사업에서 중요한 이유 - 인생지름길](https://lifeshortcut.kr/%EC%86%8D%EB%8F%84%EA%B0%80-%EC%82%AC%EC%97%85%EC%97%90%EC%84%9C-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0/)
 * [Startup Trail: The Game Of Startup Survival](https://startuptrail.engine.is/)
-* [최악을 대비하세요 – YC (번역) – 이바닥늬우스](https://ebadak.news/2022/05/21/plan-for-the-worst/)
+* [YC advises founders to ‘plan for the worst’ amid market teardown | TechCrunch](https://techcrunch.com/2022/05/19/yc-advises-founders-to-plan-for-the-worst/)
+  * [최악을 대비하세요 – YC (번역) – 이바닥늬우스](https://ebadak.news/2022/05/21/plan-for-the-worst/)
+    * YC가 포트폴리오 대표들에게 보낸 메일 번역 글
+    * 경기가 좋지 않은 상황이라 이럴 때 어떻게 하는 게 좋은지 조언
+    * 이럴 때는 성장보다는 생존이 목표, 런웨이가 부족하다면 기업가치가 만족스럽지 않더라도 펀딩을 받아두는 게 좋음
+    * 아직 제품-시장 핏을 찾지 못했다면 펀딩은 포기해야 할 수도 있고 1년 이내에 투자유치를 고민하고 있다면 좋은 성장을 보여주고 있더라도 만족할만한 펀딩은 못 받을 수도 있음
+    * 창업한 지 5년 이내라면 기존의 펀딩이 비정상적이었을 가능성이 커서 돌아보길 권장하고 생존하게 된다면 불황 중에 시장 지배력을 높일 수 있게 될 것
+* [Why to Start a Startup in a Bad Economy](http://www.paulgraham.com/badeconomy.html)
+  * [불경기에 스타트업을 한다는 것 (번역) – 이바닥늬우스](https://ebadak.news/2022/05/21/badeconomy/)
+    * YC의 폴 그레이엄이 2008년 경기 불황 때 작성한 Why to start a startup in a bad economy 번역 글
+    * 스타트업의 흥망성쇠는 경기가 아니라 창업자의 역량에 달려 있어서 요식업이라면 경기가 좋아질 때를 기다릴 수도 있지만 테크에서는 그렇지 않음
+    * 불경기에는 투자자들이 투자를 꺼리기 때문에 가장 중요한 것은 생존
+    * 다행히도 스타트업은 불황이든 아니든 효율적으로 일하면 됨
+    * 오히려 불황에는 경쟁이 적어져서 생존할 수 있다면 그 기술을 가질 수 있게 되므로 좋은 문제를 풀려는 좋은 팀이 있다면 지금이 그 타이밍
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
