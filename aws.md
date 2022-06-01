@@ -1587,6 +1587,10 @@ AWS
   * `dev`, `live` 같은 폴더에서는 복잡성 제어와 복사 붙이기가 쉽도록 `resource` 블록은 절대 가지지 않고 공통 모듈을 가져와서 쓰도록 작성
 * [Jenkins + terraform + tfsec 로 정적 분석 자동화 구성 하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163872)
 * [How Terraform Works: A Visual Intro - Bill - Medium](https://medium.com/@mfundo/how-terraform-works-a-visual-intro-6328cddbe067)
+* [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+  * Terraform에서 상태를 관리하는 부분이 오히려 문제를 어렵게 하므로 상태가 없어야 한다고 설명하는 글
+  * 문서에서 프로바이더와 리소스를 매핑하기 위해 상태가 필요하다고 하지만 속성을 이용해서 상태 없이 매핑 가능, 메타데이터도 꼭 필요한 건 아니라고 설명
+  * 상태를 관리해야 하므로 유지보수하기가 더 어려워진다고 하고 이미 Ansible, Puppet, OctoDNS 등 상태 없이 동작하므로 충분히 상태 없이도 동작
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
