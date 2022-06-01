@@ -696,7 +696,10 @@ SQL
 * [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
 * [MySQL Best of 2021](https://blogs.oracle.com/mysql/post/mysql-best-of-2021)
 * [MySQL의 변신…”이제는 분석용 클라우드 DB” - Byline Network](https://byline.network/2022/04/0406/)
-* [MySQL Command Line Interface. 요즘은 세상의 모든 컴퓨터 화면이 그래픽 인터페이스로 바뀐 것 처럼… | by Sunguck Lee | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/mysql-command-line-interface-21de489e7db5)
+* [MySQL Command Line Interface. 요즘은 세상의 모든 컴퓨터 화면이 그래픽 인터페이스로 바뀐 것 처럼 | by Sunguck Lee | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/mysql-command-line-interface-21de489e7db5)
+  * MySQL client CLI가 다른 데이터베이스에 비해 기능이 부족해서 CLI를 직접 수정해서 편의 기능을 추가하는 방법 설명
+  * 프롬프트에 서버 정보 등을 표시하거나 PostgreSQL처럼 자주 쓰는 명령어의 단축 명령어를 추가해서 `\\d`를 입력하면 `SHOW DATABSAES;` 실행 가능
+  * 미리 파일에 저장해둔 SQL을 실행하거나 회사 정책에 따른 경고문을 표시할 수 있도록 수정한 client 코드 같이 제공
 * [MySQL Heatwave를 살펴보았습니다 – gywndi's database](https://gywn.net/2022/05/mysql-heatwave/)
 
 ## MySQL backup dump
@@ -1149,6 +1152,10 @@ SQL
 * [JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 * [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
 * [I'm All-In on Server-Side SQLite · Fly](https://fly.io/blog/all-in-on-sqlite-litestream/)
+  * Go의 임베디드 키/밸류 데이터베이스인 BoltDB를 만든 Ben Johnson이 배포 서비스인 Fly.io에서 Litestream을 계속 작업
+  * Litestream은 SQLite를 리플리케이션을 이용해서 유지할 수 있게 하는 프로젝트
+  * BoltDB는 Go로 스키마를 작성해야 해서 마이그레이션이 어려운 등의 단점이 있었고 더 많은 프로그램에서 사용할 수 있도록 해야 할 작업을 고민하다가 SQLite이 이를 위해 존재한다는 결론
+  * SQLite를 기본으로 사용하지 않는 이유는 스토리지 오류에 대한 복원력이고 규모에 따른 동시성 때문인데 SQLite에는 우리가 필요로 하는 기능의 99.9%가 있고 애플리케이션 바로 옆에 배치할 수 있어서 속도 이점
 * [Why SQLite may become foundational for digital progress | VentureBeat](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
 * [Temporary tables in SQLite](https://antonz.org/temp-tables/)
   * [SQLite의 Temporary Table 활용하기 | GeekNews](https://news.hada.io/topic?id=6581)
