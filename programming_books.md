@@ -224,6 +224,7 @@ Programming Books
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
   * 우당
+* (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
 
 # Agile Scrum
 
