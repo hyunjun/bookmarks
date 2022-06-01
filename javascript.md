@@ -1959,6 +1959,7 @@ Javascript
     * 이도 충분히 좋지만 Remix를 사용하면 Backend for frontend의 역할까지 해주기 때문에
       * 네트워크 캐즘을 Remix가 처리해 관련한 코드를 훨씬 더 적게 작성, 버그도 감소
   * [Remix로 쉽게 하는 리액트 서버사이드 렌더링](https://velog.io/@velopert/learn-remix)
+    * Remix로 서버를 구성하고 디렉터리 기반으로 라우팅을 설정해서 웹사이트를 만드는데 필요한 페이지 작성, 데이터 불러오기, 리다이렉션 등의 사용 방법을 설명
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2157,7 +2158,10 @@ Javascript
     * 프로젝트 중단을 발표했던 모노레포 도구 Lerna의 소유권을 Nrwl이 넘겨받음
     * Nwrl은 모노레포 도구 Nx를 만드는 회사로 Lerna와 Nx를 둘 다 유지보수 하면서 두 도구를 통합 가능
     * Lerna의 코드를 몇 주간 살펴본 뒤에 로드맵을 발표할 것이지만 많은 프로젝트가 아직 Lerna를 쓰고 있으므로 주요한 버그 수정과 보안 업데이트를 먼저 할 예정
-  * [How Lerna just got 10x faster!. TL;DR: We released a new beta version… | by Juri Strumpflohner | May, 2022 | Nrwl](https://blog.nrwl.io/lerna-used-to-walk-now-it-can-fly-eab7a0fe7700)
+  * [How Lerna just got 10x faster!. TL;DR: We released a new beta version | by Juri Strumpflohner | May, 2022 | Nrwl](https://blog.nrwl.io/lerna-used-to-walk-now-it-can-fly-eab7a0fe7700)
+    * Lerna를 Nrwl에서 관리하게 되면서 `useNx`라는 플래그를 통해 Nx와 통합해서 Lerna의 속도를 개선하는 기능이 5.1 버전에 포함 예정
+    * 이 기능을 통해 테스크 실행을 Nx에 위임해서 프로젝트마다 다르겠지만 2~10배 정도 빨라졌고 Turbo에 비해서도 5.3배 빠르다고 함
+    * 추가로 Nx와 통합해서 사용하면 Nx의 프로젝트 그래프로 이용할 수 있고 NX Cloud를 이용해서 분산 캐싱이나 분산 태스크 실행도 사용 가능
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -2850,6 +2854,17 @@ Javascript
   * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
   * [Web Scraping with Puppeteer & Node.js: Chrome Automation - YouTube](https://www.youtube.com/watch?v=lgyszZhAZOI)
   * [Nodejs Puppeteer Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu)
+  * [Avoiding Puppeteer Antipatterns](https://serpapi.com/blog/puppeteer-antipatterns/)
+    * Node.js에서 브라우저 자동화를 할 수 있는 Puppeteer를 수년간 사용하면서 조심해야 할 안티 패턴을 정리한 글
+    * `waitForTimeout`의 과도하게 사용하지 마라: Puppeteer는 이벤트 드리븐 아키텍처라서 `waitForTimeout`로 일정 시간 대기하기 보다는 `waitForSelector`나 `waitForFunction`가 더 효율적
+    * Puppeteer의 API가 네이티브 브라우저 API처럼 동작할거라고 생각하지 마라: 네이티브 이벤트처럼 동작하지만 실제로 내부엔 많은 동작이 숨겨져 있음
+    * `domcontentloaded`로 충분한데 `domcontentloaded` 미사용
+    * 이미지와 리소스가 필요하지 않음에도 미차단
+    * `page.evaluate` 미사용
+    * 개발자 도구가 만들어준 셀렉터 잘못 사용: 개발자 도구가 생성한 셀렉터는 너무 엄격해서 더 간단한 실렉터가 충분한 경우가 존재
+    * `.waitForSelector`와 `.waitForXPath`의 반환 값 미사용: 해당 요소를 반환하므로 추가로 셀렉트할 필요 없음
+    * 별도 파서 사용: 이미 Puppeteer에 파서가 있으므로 특별한 이유 없이 HTML 파서를 사용하면 느려짐
+    * 다른 도구가 더 적절할 때도 Puppeteer 사용
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
@@ -3265,6 +3280,13 @@ Javascript
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
+* [React Suspense 알아보기](https://velog.io/@xiniha/React-Suspense-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+  * React 18에 `Suspense`가 어떤 문제를 해결하고 어떻게 사용하는지 설명하는 글
+  * 기존에는 개별 컴포넌트가 로딩 상태를 가지고 표현해야 했고 컴포넌트가 마운트되었을 때 데이터를 가져오기 시작하는 문제
+  * `Suspense`를 이용하면 이를 `Suspense`에서 한 번에 처리할 수 있게 해주고 데이터도 마운트 이전부터 가져오기 시작할 수 있어서 사용자 경험 향상
+  * 18에서 새로 추가된 `startTransition()`을 사용하면 급하지 않은 상태 업데이트를 뒤로 미룰 수 있는데 이를 `Suspense`와 조합해서 사용하면 비동기로 페이지를 전환할 때 훨씬 부드럽게 구현 가능
+  * 더군다나 `Suspense`를 통해 React가 비동기 렌더링을 이해할 수 있게 되었으므로 Suspense Streaming SSR을 이용하면 SSR에서 `Suspense` 외부의 내용을 먼저 보내고 `Suspense`의 내용은 이후 클라이언트에게 보내도록 구현 가능
+  * 상황별 예제코드와 설명이 같이 있어서 이해하기 좋음
 * [김맥스 기술 블로그 | Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect)
 * [Transition : 쉿, 이제 안전해 나의 작은 Suspense | by Hyunsuk Jo | Lunit Team Blog | May, 2022 | Medium](https://medium.com/lunit/transition-%EC%89%BF-%EC%9D%B4%EC%A0%9C-%EC%95%88%EC%A0%84%ED%95%B4-%EB%82%98%EC%9D%98-%EC%9E%91%EC%9D%80-suspense-a39cef55d144)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
