@@ -320,6 +320,8 @@
   * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
 * [kotlin-jdsl: Kotlin DSL for JPA Criteria API without generated metamodel and reflection](https://github.com/line/kotlin-jdsl)
   * [Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-jpa-criteria-api-with-kotlin/)
+    * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
+    * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
   * [Kotlin JDSL: Kotlin을 이용해 손쉽게 Reactive Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-reactive-criteria-api-with-kotlin/)
 * [ksp: Kotlin Symbol Processing API](https://github.com/google/ksp)
   * [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
