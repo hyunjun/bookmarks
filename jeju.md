@@ -106,6 +106,7 @@
 * 생각하는 정원 [유명인들이 제주 가면 꼭 방문, 외국 교과서에도 실렸다 제주살이를 꿈꾸는 당신에게- 한 언론인의 탐라국 일기](https://news.v.daum.net/v/20210727185100373)
 * [일본은 정말... 제주도에 이런 곳이 있을 줄이야 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002765375)
 * [서건도 바다갈라짐, 서건도 바다날씨- 바다타임](https://www.badatime.com/s-238-2.html)
+* [쉼을 전해주는 제주 풀멍 코스 5 | 에스콰이어코리아](https://www.esquirekorea.co.kr/article/66836) 스누피가든, 비밀의 숲, 산양큰엉곶, 카페 c.hill
 
 ## Sightseeing 오름
 * [오름나들이 - 제주 오름과 들꽃](http://www.ormstory.kr/)

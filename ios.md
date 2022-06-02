@@ -514,6 +514,7 @@ iOS
 * [SwiftUI의 라이프사이클과 데이터 흐름 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-data-flow/)
 * [SwiftUI Preview 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-preview/)
 * [SwiftUI와 UIKit 같이 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-tutorial-uikit/)
+* [Swift Package Manager 적용기 – tech.kakao.com](https://tech.kakao.com/2022/06/02/swift-package-manager/)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

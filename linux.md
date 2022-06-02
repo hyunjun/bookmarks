@@ -714,6 +714,9 @@ Linux
   * [paste로 파일 두 개 join하기](http://jhrogue.blogspot.com/2020/04/5-paste-join.html)
 * `pbcopy`
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
+* perf
+  * [Linux Tutorial #11 커널 성능 측정 도구 (perf)](https://velog.io/@mythos/Linux-Tutorial-11-%EC%BB%A4%EB%84%90-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-%EB%8F%84%EA%B5%AC-perf)
+  * [Hacking tips for Linux perf porcelain - Paul Khuong: some Lisp](https://pvk.ca/Blog/2022/06/01/hacking-tips-for-linux-perf-porcelain/)
 * `ping`
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
   * [Diagnose connectivity issues with the Linux ping command | Opensource.com](https://opensource.com/article/21/10/linux-ping-command)
