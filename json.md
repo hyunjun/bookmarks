@@ -199,6 +199,7 @@ Json
 * [jsoneditor.com](http://jsoneditor.com/)
 * [json-generator.com](http://www.json-generator.com)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
+* JSON Hero [JSON Viewer - JSON Hero](https://jsonhero.io/)
 * [JSON Lines](https://jsonlines.org/)
   * "Newline Delimited JSON" 1. UTF-8 인코딩 2. 각 라인은 유효한 JSON 값(객체)이어야 함 3. 라인 구분자는 '\n'
   * 한줄 당 하나의 JSON 객체가 들어가는 데이터 저장 포맷 → 데이터 스트리밍에 적합 → 중첩구조 처리가 쉬움 → .jsonl 파일 확장자를 추천
