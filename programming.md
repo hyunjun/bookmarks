@@ -400,6 +400,7 @@ Programming
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
   * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
 * [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
+* [How to Survive in 2022 as a Software Engineer | Better Programming](https://betterprogramming.pub/surviving-cloud-computing-complexity-1aabc1024a54)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 * [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474) 기본에 충실하자는 이야기
@@ -962,6 +963,7 @@ Programming
   * [litmus: Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q ](https://github.com/litmuschaos/litmus)
     * [LitmusChaos Becomes a CNCF Incubator Project – The New Stack](https://thenewstack.io/litmuschaos-becomes-a-cncf-incubator-project/)
 * [What is Chaos Engineering and How Do You Apply it to Docker - YouTube](https://www.youtube.com/watch?v=tYP65Fgq4LE)
+* [Harness Chaos Engineering Practitioner](https://university.harness.io/path/harness-chaos-engineering-practitioner)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
@@ -3326,6 +3328,7 @@ Programming
   * [월간 개발자스럽다 #76 - 개발자스럽다](https://blog.gaerae.com/2022/02/monthly.html)
   * [월간 개발자스럽다 #77 - 개발자스럽다](https://blog.gaerae.com/2022/03/monthly.html)
   * [월간 개발자스럽다 #78 - 개발자스럽다](https://blog.gaerae.com/2022/04/monthly.html)
+  * [월간 개발자스럽다 #79 - 개발자스럽다](https://blog.gaerae.com/2022/05/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
