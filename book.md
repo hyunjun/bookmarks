@@ -221,6 +221,7 @@ Book
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
   * 우당
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
+* (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -319,6 +320,7 @@ Book
   * 한라 673.5309-남36ㅍ 1권, 우당
 * (NOT YET) [어쩌다 클래식 | 지이 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165219253)
 * (NOT YET) [브람스의 밤과 고흐의 별](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292283162)
+* (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
