@@ -946,6 +946,7 @@ Go
 * [Go (programming language) in pidgin tutorial for beginners- part 2 - YouTube](https://www.youtube.com/playlist?list=PL9gVCyzfAQj6407lKbirAeJDEvFbSt2m_)
 * [Go (programming language) in pidgin tutorial for beginners- part 3 - YouTube](https://www.youtube.com/playlist?list=PL9gVCyzfAQj5oOYBEjBG_BjR1cV1Vj04z)
 * [How to Effectively Recover from Panic in Go Applications](https://morioh.com/p/4eef0bedc51c)
+* [Golang Crash Course - YouTube](https://www.youtube.com/playlist?list=PLm5LCMVu2ms_i1MqMtWMyT-HBalhTT64i)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
