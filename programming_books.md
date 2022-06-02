@@ -1888,6 +1888,10 @@ Programming Books
 * [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
   * 탐라 문325.24-슈53ㅅ
   * ★★★☆☆ 2022.06.01
+* [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
+  * 탐라 문005.12-폴58ㄷ
+  * ★★★★☆ 2022.06.02
+  * [고성과 조직으로 가는 길, <디지털 트랜스포메이션 엔진> | Blog | 에이콘출판사](http://acornpub.co.kr/blog/472)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1915,8 +1919,6 @@ Programming Books
 * (NOT YET) [린 스타트업: 실리콘밸리를 뒤흔든 IT 창업 가이드](https://hanbit.co.kr/media/books/book_view.html?p_code=B9955361403)
   * 한라, 탐라
   * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
-* (NOT YET) [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
-  * 탐라
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
