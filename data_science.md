@@ -387,6 +387,8 @@ Data Science
 * [더북(TheBook): 모두의 데이터 과학 with 파이썬](https://thebook.io/006914/) 3~5장만
 * [더북(TheBook): 모두의 데이터 분석 with 파이썬](https://thebook.io/007029/)
 * [추천 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/recommender-systems)
+* [파이썬을 활용한 데이터/AI 분석 사례](https://www.hira.or.kr/sViewer/index.do?ebookSn=659) 건강보험심사평가원에서 만든 "파이썬을 활용한 데이터/AI 분석 사례"
+  * [HIRA OAK Repository: 파이썬을 활용한 데이터·AI 분석 사례](https://repository.hira.or.kr/handle/2019.oak/2586)
 * [12 Data Analytics Books for Beginners: A 2022 Reading List | Coursera](https://www.coursera.org/articles/data-analytics-books-for-beginners)
   * [Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022 | GeekNews](https://news.hada.io/topic?id=6431)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
@@ -418,7 +420,7 @@ Data Science
 * [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 * [Free Book: Foundations of Data Science (from Microsoft Research Lab) - DataScienceCentral.com](https://www.datasciencecentral.com/new-book-foundations-of-data-science-from-microsoft-research-lab/)
 * [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-  * [판다스 개발자가 직접 쓰고 공개한 파이썬 데이터 분석 3판 - YouTube](https://www.youtube.com/watch?v=GYv5r1SQWe0)
+  * [판다스 개발자가 직접 쓰고 공개한 파이썬 데이터 분석 3판](https://www.youtube.com/watch?v=GYv5r1SQWe0)
 
 # Conference
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
