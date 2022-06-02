@@ -3540,6 +3540,7 @@ Javascript
 * [Load More Pagination | React JS - YouTube](https://www.youtube.com/watch?v=wQPhA_zs_-w)
 * [React Developer Log, Sprint 3 - Contact Us Page, Intro to wrappers and map API - YouTube](https://www.youtube.com/watch?v=y_T14e-d8As)
 * [How to Install React App in Seconds - YouTube](https://www.youtube.com/watch?v=JNPPj2OdW9U)
+* [React CSS-in-JS 시스템 만들기 | pyjun01](https://pyjun01.github.io/v/css-in-js/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3934,6 +3935,7 @@ Javascript
   * [React 또는 Next.js에서 이미지가 제대로 적용 안되는 현상 해결하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12311237)
   * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [Next JS | Page Rendering | SSR | SSG | ISR | CSR | Data fetching - YouTube](https://www.youtube.com/watch?v=9up8pWfVpYs)
+  * [Using Non-SSR Friendly Components with Next.js | by Piumi Liyana Gunawardhana | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-non-ssr-friendly-components-with-next-js-916f38e8992c)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
