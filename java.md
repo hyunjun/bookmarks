@@ -147,6 +147,7 @@ Java
 * [Google Best Practices for Java Libraries](https://jlbp.dev/)
 * [Best practices for Java in single-core containers | Red Hat Developer](https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#java_application_lifecycle)
 * [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
+* [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
