@@ -264,6 +264,7 @@ Web
 * [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
 * [머릿말 - 웹 인증 및 SSO 가이드](https://wiki.kreonet.net/web-auth-sso)
 * [SSO 1편: 오픈소스 SSO를 왜 도입하였나요. :: GS Retail Engineering](https://gsretail.tistory.com/13)
+* [SSO 2편: Aerobase (Keycloak) 클러스터링 & 커스텀 테마 :: GS Retail Engineering](https://gsretail.tistory.com/17)
 
 # Book
 * [웹 개발 관련 서적 mind map](https://www.mindmeister.com/535984257/_)
