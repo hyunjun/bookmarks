@@ -1708,6 +1708,7 @@ Docker
   * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+* [controlplane-in-docker: all kubernetes controlplane in container](https://github.com/iwanhae/controlplane-in-docker)
 * [d2hub - kakao Docker Hub](https://github.com/kakao/d2hub)
   * [d2hub playbook](https://github.com/kakao/d2hub-playbook)
   * [Docker Registry 2 authentication server](https://github.com/kakao/docker_auth)
