@@ -68,6 +68,7 @@ Bitcoin
 * [스테이블 코인의 정의: 루나-테라, 그리고 코인 투자에 대하여 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254376) stable coin
 * [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
+* [암호자산, '심판의 날'이 다가온다 < 경제 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1057) 읽으면서 CAP theorem이 연상됨
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
