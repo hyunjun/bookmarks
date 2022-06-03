@@ -495,6 +495,7 @@ Haskell
 * [TESTABLE IO IN HASKELL](http://engineering.imvu.com/2015/06/20/testable-io-in-haskell-2/)
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
 * [Unit testing IO in Haskell](https://blog.pusher.com/unit-testing-io-in-haskell/)
+* [하스켈에서 테스트 mocking 하기](https://velog.io/@todd/%ED%95%98%EC%8A%A4%EC%BC%88%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-mocking-%ED%95%98%EA%B8%B0)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/haskell-hedgehog)
   * [Time Travelling and Fixing Bugs with Property-Based Testing](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
 * [QuickCheck - a combinator library originally written in Haskell](https://en.wikipedia.org/wiki/QuickCheck)
