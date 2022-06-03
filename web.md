@@ -1327,6 +1327,7 @@ Web
   * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548) 
   * [Lighthouse의 User Flow | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211202)
   * [Lighthouse 성능 지표를 사용한, '웹 애플리케이션 성능 측정 자동화 모듈' 개발기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/13)
+  * [Lighthouse CI를 알아보고 Github Actions에 적용하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220602-lighthouse-with-github-actions/)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
