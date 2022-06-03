@@ -172,6 +172,7 @@ Web
   * role로 컴포넌트나 요소 역할 정의
   * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 * [김맥스 기술 블로그 | 웹 접근성 준수가 가져오는 프론트엔드 개발의 이점](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)
+* [접근성 기능 오용 사례 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/889)
 * [‘액세서빌리티 인사이트’로 누구나 접근할 수 있는 코드 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/229234) accessibility
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
