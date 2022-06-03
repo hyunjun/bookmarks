@@ -498,6 +498,8 @@ Book
   * 우당 문911.058-백58ㅈ
 * (NOT YET) [왜, 나쁜 역사는 반복되는가](https://www.facebook.com/fehlerhaft/posts/5227373837300799)
   * 탐라 문909-웰59ㅇ, 우당 문909-웰59ㅇ
+* (NOT YET) [다산의 마지막 질문 | 조윤제 | 청림출판 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788935213733)
+* (NOT YET) [조선 선비 설악에 들다 | 권혁진 | 문자향 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788990535498)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
