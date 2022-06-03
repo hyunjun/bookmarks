@@ -1724,6 +1724,8 @@ Python
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
 * [Clean Architectures in Python](https://www.pycabook.com/)
+* [Python으로 클린 아키텍처 적용하기](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-Clean-Architecture-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [Python으로 클린 아키텍처 적용하기2](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [CPython Internals: Paperback Now Available – Real Python](https://realpython.com/products/cpython-internals-paperback/)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
@@ -2342,6 +2344,7 @@ Python
 * [Django get_or_create 함수 쓸 때는 unique 같이 쓰자 - 구영민의 개발 블로그](https://youngminz.netlify.app/posts/django-get-or-create-with-unique)
 * [Django Mysql - Python DB 연동 방법](https://developer-ankiwoong.tistory.com/931)
 * [장고에서 C mysql 이 임포트 되지 않는 문제 해결하기 · 개발블로그](https://blog.gyus.me/2020/import-c-library-in-python/)
+* [MySQL과 장고(django) 연결하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/mysql-django-conn/)
 * [Django 2 by Example, published by Packt](https://github.com/PacktPublishing/Django-2-by-Example)
 * [Django Mini Project 부트스트랩 랜딩페이지 구름IDE](https://www.youtube.com/watch?v=Z8QyGBUVDdY)
 * [Django, 공공데이터포털, Google Map으로 전기차 충전소 위치찍기](https://www.youtube.com/watch?v=stHfQdcsZFo)
