@@ -1255,6 +1255,7 @@ Programming
   * [Things That Don't Scale, The Software Edition – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=TCPjk8Tpb5c)
 * [Don't blame the developer for what the frameworks did!](https://www.builder.io/blog/dont-blame-the-developer-for-what-the-frameworks-did)
 * [Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture/) 기본 자세(?)
+* [Insider Front-End Architecture | Insider Engineering](https://medium.com/insiderengineering/front-end-architecture-part-%E2%85%B0-d5d1c6f87f12)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
