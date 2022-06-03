@@ -3939,6 +3939,7 @@ Javascript
   * [Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
   * [Next JS | Page Rendering | SSR | SSG | ISR | CSR | Data fetching - YouTube](https://www.youtube.com/watch?v=9up8pWfVpYs)
   * [Using Non-SSR Friendly Components with Next.js | by Piumi Liyana Gunawardhana | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-non-ssr-friendly-components-with-next-js-916f38e8992c)
+  * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
