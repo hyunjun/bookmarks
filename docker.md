@@ -886,6 +886,7 @@ Docker
   * kube-apiserver와 통신할 때 보통 kubectl을 이용하지만 이 kube-apiserver가 그냥 API 서버라는 것을 보여주기 위해 kubectl 대신 curl로 요청 과정 설명
   * 서버 주소를 알아 온 뒤 인증을 위해서 토큰 추출, API에 직업 HTTP 요청을 보내서 kubectl에서 이용, 클러스터 정보 조회 과정 설명
   * kube-apiserver에서 OpeanAPI 스펙 문서도 제공하므로 이를 이용하면 API 목록도 확인 가능
+* [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
