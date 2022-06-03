@@ -152,6 +152,7 @@ Json
 * [bad_json_parsers - Exposing problems in json parsers of several programming languages](https://github.com/lovasoa/bad_json_parsers)
 * [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
+* [csv2json: A brilliant javascript package to parse csv to json](https://github.com/kitavidavis/csv2json)
 * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
 * [GEOJSON](http://geojson.org/)
 * [fx - Command-line tool and terminal JSON viewer http://fx.wtf ](https://github.com/antonmedv/fx)
