@@ -1067,6 +1067,7 @@ Git
   * [내블로그 :: gitlab ci Docker 연동](https://iesay.tistory.com/198)
   * [GitLab Geo 구성하기 — 분석 #1. 개요 | by 허니하린 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
   * [어느날 갑자기 배포가 되지 않았다](https://saramin.github.io/2021-11-09-gitlab-runner/)
+  * [Gitlab CI CD Pipeline Tutorial FULL COURSE🔥 - YouTube](https://www.youtube.com/watch?v=uYaMRn2meJQ)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
