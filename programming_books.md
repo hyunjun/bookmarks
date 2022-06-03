@@ -2446,14 +2446,18 @@ Programming Books
   * 한라
 
 # Software engineering
+* [구글 엔지니어는 이렇게 일한다](https://www.hanbit.co.kr/store/books/look.php?p_code=B1207366943)
+  * 탐라
+  * ★★★★★ 2022.05.20~22
+  * [abseil / Software Engineering at Google](https://abseil.io/resources/swe-book)
+  * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/software_engineering_at_google.md)
+  * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/software-engineering-at-google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4-f57eb7db75e9)
+  * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다](https://jh4hj.tistory.com/entry/Software-Engineering-at-Google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
   * 탐라 문005.115-파67ㄹ, 우당 문005.115-파67ㄹ
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
-* (NOT YET) [구글 엔지니어는 이렇게 일한다](https://www.hanbit.co.kr/store/books/look.php?p_code=B1207366943)
-  * 탐라
-  * [abseil / Software Engineering at Google](https://abseil.io/resources/swe-book)
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
