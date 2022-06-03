@@ -267,6 +267,7 @@ Scala
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://slides.com/guersam/pure-scala-webapp#/)
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
 * [Identify Side Effects And Refactor Fearlessly](http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/)
+* [Tracking Side Effects in Scala - Alexandru Nedelcu](https://alexn.org/blog/2022/05/23/tracking-effects-in-scala/)
 * [Fearless Refactoring with Functional Programming | Scala - YouTube](https://www.youtube.com/watch?v=Lp7YNuzWL-Y)
 * [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
 * [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
@@ -347,6 +348,7 @@ Scala
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
 * [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
+* [Concurrent Sudoku Solver: Part 3 - Using Cats Effect Queue | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-3-using-cats-effect-queue-459e2da28b6)
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 
 # Actor
@@ -473,6 +475,7 @@ Scala
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
+* [(2) Kit Langton on Twitter: "The Two Minute Twenty Second Ten-Step Tail Rec Transformation Technique https://t.co/kI0izGriX0" / Twitter](https://twitter.com/kitlangton/status/1527465896142426116?t=LEHWG3xXOodzPNjdtt5-xA) tail recursion
 * [Tail Recursive Functions (in Scala) - Alexandru Nedelcu](https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html)
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
 * [Akka Steam Graphs — A first Java example](https://medium.com/@suchakjani/akka-steam-graphs-a-first-example-c93fbc1f02f5)
@@ -1342,6 +1345,7 @@ Scala
   * [herding cats — herding cats](https://eed3si9n.com/herding-cats/index.html)
   * [Cats with Scala: Essential Type Class Hierarchy - YouTube](https://www.youtube.com/watch?v=_afyiQB7N0Y)
   * [(re)constructing sequences with Alternative - Scala tutorial - YouTube](https://www.youtube.com/watch?v=s3DRr1dQmrc)
+  * [Data validation using cats Validated](https://yadukrishnan.live/data-validation-and-error-accumulation-using-cats-validated)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1813,6 +1817,7 @@ Scala
   * [part II](https://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/)
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
+* [Free Monad in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/free-monad/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 * [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
 * [Functional Composition And The Kleisli (Scala Exchange 2018 Talk) - YouTube](https://www.youtube.com/watch?v=5cY7sJAwIJc)
@@ -2499,6 +2504,7 @@ Scala
 * [Finally some business logic! SPFS #5 - YouTube](https://www.youtube.com/watch?v=jBU7ZIrtPgU)
 * [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
 * [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
+* [Resource safety is hard - SPFS #10 - YouTube](https://www.youtube.com/watch?v=Ig2rY0hR6JI)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
