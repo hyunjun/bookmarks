@@ -380,6 +380,7 @@ Android
   * [Databinding 사용법](https://brunch.co.kr/@mystoryg/150)
   * [Databinding Observable for Jetpack Compose | by SeongUg Steve Jung | Jun, 2021 | Medium](https://medium.com/@jsuch2362/databinding-observable-for-jetpack-compose-377f8df47449)
   * [Jetpack Compose 에 관한 정리 # Android UI](https://developer88.tistory.com/391)
+  * [Jetpack Compose #1 | Jungwoon Blog](https://jungwoon.github.io/jetpack/2022/05/31/Compose-Summary-1.html)
   * [Pluu Dev - Navigating with Compose ~ Serializable/Parcelable 데이터 전달 ~ 1부](https://pluu.github.io/blog/android/2022/02/03/compose-pending-argument-part-1/)
   * [Pluu Dev - Navigating with Compose ~ Serializable/Parcelable 데이터 전달 ~ 2부](https://pluu.github.io/blog/android/2022/02/04/compose-pending-argument-part-2/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
