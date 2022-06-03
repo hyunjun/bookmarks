@@ -503,6 +503,7 @@ AWS
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
+* [AWS CodeCommit 어디까지 써봤니?](http://labs.brandi.co.kr//2022/05/26/sohnsj.html)
 * [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
 * [AWS로 배포를 해보자!](https://saramin.github.io/2022-02-25-hello-aws/)
 * [AWS CodePipeline을 활용해 CI/CD 적용하기. 요즘 애플리케이션 개발, 어떻게 하고 계시나요? 모던 애플리케이션 개발… | by Phoebe Baek | Cloud Villains | Mar, 2022 | Medium](https://medium.com/ctc-mzc/aws-codepipeline%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-ci-cd-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-bef43bed1346)
