@@ -536,6 +536,7 @@ Business
 * [why is everything so hard in a large organization? | do not look into laser with remaining eye](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
 * [How should our company structure our data team? | by David Murray | Snapcommerce | Medium](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
 * [Building & scaling Engineering team | by Amit Kumar | Medium](https://toamitkumar.medium.com/building-scaling-engineering-team-21bd7471a35a)
+* [전체와 부분 그리고 엔지니어링](https://qurator.co.kr/quration/single/218)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
