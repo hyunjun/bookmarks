@@ -1891,6 +1891,8 @@ Programming Books
 * [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라 문005.12-폴58ㄷ
   * ★★★★☆ 2022.06.02
+    * 좋은 기술 조직을 만들기 위해서는 뭘 해야 한다기 보다(연역) 사례를 수집하고 살펴보니 좋은 조직은 뭘 하더라(귀납) 하는 방식으로 연구한 이야기를 책으로 펴냄
+    * 사례를 통해 좋은 조직은 어떻게 하는지 뿐만 아니라 어떤 연구 방법을 어떤 분석에 썼는지까지 설명하는 매우 좋은 책
   * [고성과 조직으로 가는 길, <디지털 트랜스포메이션 엔진> | Blog | 에이콘출판사](http://acornpub.co.kr/blog/472)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
