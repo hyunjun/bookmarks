@@ -1366,7 +1366,10 @@ Docker
 * [쿠버네티스 실습 랩을 Vagrant가 아닌 이미지로 바로 구성 설치하는 법 - YouTube](https://www.youtube.com/watch?v=KxhSWf0ObEU)
 * [Welcome Tilt: Fixing the pains of microservice development for Kubernetes - Docker](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
+* [Kubernetes Installation Methods The Complete Guide | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-installation-methods-the-complete-guide-1036c860a2b3)
 * [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
+* [Kubernetes Storage — Part 1 — NFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-1-nfs-complete-tutorial-75e6ac2a1f77)
+* [Kubernetes Storage — Part 2 — GlusterFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-2-glusterfs-complete-tutorial-77542c12a602)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1763,6 +1766,9 @@ Docker
   * [Dockerizing a Spring Boot Application and Using the Jib Maven Plugin | by Betül Şahin | Nov, 2021 | Medium](https://betulsahinn.medium.com/dockerizing-a-spring-boot-application-and-using-the-jib-maven-plugin-95c329866f34)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
+* [MAAS | Metal as a Service](https://maas.io/)
+  * [MAAS Integration with VirtualBox (vboxpower) | by Saeid Bostandoust | ITNEXT](https://itnext.io/maas-integration-with-virtualbox-20d850381c21)
+  * [MAAS Terraform Ansible Integration | by Saeid Bostandoust | ITNEXT](https://itnext.io/maas-terraform-ansible-integration-adb57e09caf2)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [miniboss: The most versatile way to manage containers locally](https://github.com/afroisalreadyinu/miniboss)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
