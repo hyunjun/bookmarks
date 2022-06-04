@@ -354,6 +354,7 @@ Programming Books
   * 한라
 * (NOT YET) [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
   * 우당
+* (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
 
 # Amazon AWS
 
@@ -1291,8 +1292,9 @@ Programming Books
 * (NOT YET) [소문난 명강의 : 오준석의 플러터 생존 코딩](http://hanbit.co.kr/store/books/look.php?p_code=B9770627589)
 
 # Functional programming
-* (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
-  * 우당
+* [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
+  * 우당 문005.73-오821ㅅ
+  * SML(Standard ML), 약간의 Haskell
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
   * 한라 005.13-이25ㅎ
 * (NOT YET) 쏙쏙 들어오는 함수형 코딩 [갈수록 커지고 복잡해지는 코드, 쉽게 관리하는 방법은 없을까?](https://jpub.tistory.com/1259)
@@ -2007,6 +2009,7 @@ Programming Books
   * [textmining](https://github.com/wikibook/textmining)
 * (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2/)
   * 한라
+* (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp)
 
 # NoSQL
 
@@ -2538,9 +2541,15 @@ Programming Books
 * (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
 
 # Window
+* [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
+  * 우당 문005.44-싱848ㅊ
+  * [ridicurious.com - Learn cloud, scripting and automation](https://ridicurious.com/)
+  * [W$L/hub>\_](https://wslhub.com/)
+  * [식탁보 (TableCloth) 프로젝트 | yourtablecloth.github.io](https://yourtablecloth.app/)
+    * [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/tablecloth)
+* [효율성이 배가되는 WSL2 가이드북](https://jpub.tistory.com/1247)
+  * 우당 문005.44-리828ㅎ
+  * [Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques: Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques, published by Packt](https://github.com/PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques)
+  * [bash-git-prompt: An informative and fancy bash prompt for Git users](https://github.com/magicmonty/bash-git-prompt)
 * (NOT YET) 실무에서 바로쓰는 파워셸
   * [<실무에서 바로쓰는 파워셸> 출간에 즈음하여](http://www.dokyun.pe.kr/223)
-* (NOT YET) [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
-  * 우당
-* (NOT YET) [효율성이 배가되는 WSL2 가이드북](https://jpub.tistory.com/1247)
-  * 우당
