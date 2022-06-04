@@ -242,6 +242,7 @@
 # Book
 * [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
   * [코틀린을 다루는 기술 #1 | Jungwoon Blog](https://jungwoon.github.io/kotlin/2021/10/06/Advanced-Kotlin-1.html)
+* [더북(TheBook): 코틀린 완벽 가이드](https://thebook.io/080250/) 2~4장
 * [Effective Kotlin](https://kt.academy/book/effectivekotlin)
   * [Effective Kotlin - Item01](https://devroach.tistory.com/114?category=1035492)
   * [EffectiveKotlin-Item02 변수의 스코프를 최소화 해라](https://devroach.tistory.com/116)
