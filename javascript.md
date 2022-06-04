@@ -3745,6 +3745,7 @@ Javascript
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
+  * [Expo-React-Native-Template: Expo React Native + Redux Pattern Ducks + Native Base + EAS](https://github.com/couoheduardo/Expo-React-Native-Template)
 * flipper [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
   * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
@@ -3753,6 +3754,7 @@ Javascript
 * [react-navigation V5 - react-navigation V5를 설치하고 사용하는 방법에 대해서 공유합니다](https://dev-yakuza.posstree.com/ko/react-native/react-navigation-v5)
 * [rn-tourguide: 🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)](https://github.com/xcarpentier/rn-tourguide)
 * [shop-app: A React Native based online shop app where user can buy products and also can open and manage his/her own store](https://github.com/MuhammadRafeh/shop-app)
+* [your-music-rn: Your Music with Spotify API with React Native App](https://github.com/mhmmdvg/your-music-rn)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -3941,6 +3943,7 @@ Javascript
   * [Next JS | Page Rendering | SSR | SSG | ISR | CSR | Data fetching - YouTube](https://www.youtube.com/watch?v=9up8pWfVpYs)
   * [Using Non-SSR Friendly Components with Next.js | by Piumi Liyana Gunawardhana | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-non-ssr-friendly-components-with-next-js-916f38e8992c)
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
+  * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
@@ -4065,6 +4068,7 @@ Javascript
     * interaction 애드온을 이용해서 인터랙션이 자동으로 발생하는 코드를 작성하고 이를 단계별로 실행 가능
     * 인터랙션이 자동으로 실행되게 만들었으니 Cypress나 Playwrigt같은 E2E 테스트 도구를 이용해서 해당 인터렉션의 테스트를 자동화도 가능
   * [Storybook으로 10분 만에 안내 메일 만들고 퇴근하는 법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/10)
+  * [storybook-gen](https://github.com/blacktoast/storybook-gen)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [use-color: The powerful color hook that all designers deserve. ✨ Parse and stringify that just works & 🦾 Strict type checking at compile time](https://github.com/junhoyeo/use-color)
