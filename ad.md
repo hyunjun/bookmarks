@@ -25,6 +25,7 @@
 * [광고 서비스 개발 연대기](http://labs.brandi.co.kr//2022/05/18/kimjs.html)
 * [**디지털 광고 Bidding System에 대한 이해**](https://www.openads.co.kr/content/contentDetail?contsId=8311)
 * [퍼포먼스 마케팅을 위한 "최적화 알고리즘"의 이해-1](https://brunch.co.kr/@edte1020/74)
+* [퍼포먼스 마케팅을 위한 "최적화 알고리즘"의 이해-2](https://brunch.co.kr/@edte1020/86)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
