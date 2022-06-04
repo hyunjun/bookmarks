@@ -577,6 +577,7 @@ Javascript
 * [Who Else Wants to Write Clean JavaScript Code? - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/who-else-wants-to-write-clean-javascript-code-ff4f7896e6bd)
 * [clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code - YouTube](https://www.youtube.com/watch?v=edWbHp_k_9Y)
+* [5 Javascript Clean Coding Patterns To Enhance your Code | by Dgramaciotti | ArionKoder Engineering | May, 2022 | Medium](https://medium.com/arionkoder-engineering/5-javascript-clean-coding-patterns-to-enhance-your-code-cc205d8d1ab6)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * [자주 발생하는 자바스크립트 에러 · shiren the creator](https://blog.shiren.dev/2021-06-29/)
 * JS로 배우는 자료구조와 알고리즘
