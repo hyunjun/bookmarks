@@ -1095,6 +1095,7 @@ Business
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
 * [시키느니 답답해서 직접 하고 있다고요? : 네이버 블로그](https://blog.naver.com/hs_group/222002315523) 위임
 * [리더가 극복할 7가지 필수 스트레스 (上)](https://brunch.co.kr/@graypool/398) 위임
+* [리더가 극복할 7가지 필수 스트레스 (下)](https://brunch.co.kr/@graypool/471) 경청
 * [리더는 어떻게 ‘영향력’을 발휘할 수 있을까? 리더에게 필요한 조직의 심리학 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243682)
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
