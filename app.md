@@ -474,6 +474,7 @@ App
   * [어서 오세요! 아틀라스랩스입니다](https://www.atlaslabs.ai/)
   * [인공지능이 회의록 작성까지 알아서 척척.. 아틀라스랩스, '스위치미팅’ 베타 출시 < 기업 < FOCUS < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24217)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
+* [tampermonkey로 youtube 우측에 있는 비슷한 영상 목록 제거](http://ohyecloudy.com/pnotes/archives/tampermonkey-delete-youtube-recommendation-videos/)
 * ungoogled-chromium [Google Chromium, sans integration with Google | ungoogled-chromium](https://ungoogled-software.github.io/)
 
 # ChromeOS
