@@ -1896,6 +1896,11 @@ Programming Books
     * 좋은 기술 조직을 만들기 위해서는 뭘 해야 한다기 보다(연역) 사례를 수집하고 살펴보니 좋은 조직은 뭘 하더라(귀납) 하는 방식으로 연구한 이야기를 책으로 펴냄
     * 사례를 통해 좋은 조직은 어떻게 하는지 뿐만 아니라 어떤 연구 방법을 어떤 분석에 썼는지까지 설명하는 매우 좋은 책
   * [고성과 조직으로 가는 길, <디지털 트랜스포메이션 엔진> | Blog | 에이콘출판사](http://acornpub.co.kr/blog/472)
+  * [Accelerate | by Nicole Forsgren, Jez Humble & Gene Kim](https://itrevolution.com/book/accelerate/)
+  * [John Shook - How to Change a Culture: Lessons From NUMMI](https://www.lean.org/downloads/35.pdf)
+  * [Accelerate 디지털 트랜스포메이션 엔진](https://github.com/hyunjun/bookmarks/blob/master/programming_books/accelerate.md)
+  * [Accelerate 디지털 트랜스포메이션 엔진. 속도를 안정성과 연계시키기 때문에 훌륭한 IT 프랙티스는 속도와… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84-95dde6cdf801)
+  * [Accelerate 디지털 트랜스포메이션 엔진](https://jh4hj.tistory.com/entry/Accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
