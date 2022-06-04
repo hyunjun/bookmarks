@@ -699,6 +699,7 @@ Web
   * 그러면 `<section>`은 어디 쓰는지가 궁금할 수 있는데 목차를 정할 수 있도록 만들어진 컨테이너 이므로 신경 쓸 필요가 없고
     * `<h1>`등의 태그가 `<section>`과 만날 때 시각적으로는 어떻게 보이고 접근성 레벨에서는 어떻게 다른지 설명
   * `<section>`을 쓰면 안 되는 것은 아니지만 접근성 제공 측면에서 요약 정도 등에 스크린리더가 알 수 있게 `<section>`을 사용하면 된다고 설명
+* [HTML 요소 inert 속성에 대해 알아보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220603)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
