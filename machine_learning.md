@@ -1302,6 +1302,7 @@ Machine Learning
   * FastAPI로 ML 추론 서버를 구축하는 예제가 상당히 많이 존재하지만, 현실적으로는 상용 수준으로 쓰기에는 "어렵다"로 생각
     * 불안정한 부분이 많고, 기본적으로 ML 추론용 서버가 갖춰야 할 다양한 기능이 결여되어 있기 때문에, 직접 이를 모두 구현해야 하는 골치아픈 작업이 발생(동적 배치 추론, 모델 버전 관리, 다중 버전의 다중 모델 동시 추론 기능 등)
   * 두 저장소 모두 푸쉬, 새로운 모델 릴리즈에 따라 자동으로 GKE 클러스터로 도커 이미지를 빌드한 뒤 배포하는 GitHub Action 도 함께 작성
+* [nvidia-ml-py를 사용해서 kubernetes에 배포되어 있는 인스턴스에서 MIG 메모리 사용량 체크하기 | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/nvidia-ml-py%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-kubernetes%EC%97%90-%EB%B0%B0%ED%8F%AC%EB%90%98%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90%EC%84%9C-mig-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0-c73a70d700fa)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
