@@ -2146,7 +2146,7 @@ Programming Books
   * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
   * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
 * [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
-  * 탐라
+  * 탐라 문004-이14ㅇ
   * ★★★☆☆ 2022.05.29
   * [어떤 개발자가 살아남는가](https://brunch.co.kr/@lkj28/208)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
