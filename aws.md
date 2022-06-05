@@ -294,6 +294,7 @@ AWS
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3 | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
+* [AWS Solution Architect $ SysOps Tutorial English - YouTube](https://www.youtube.com/playlist?list=PLCIK028WlYMdlT8Z7m9ea1ZvVjw2wgvoc)
 * [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
 * [AWS 공식 자격 시험 유형 문제 공개. 어느날과 마찬가지로 직무 교육과 테크니컬 온보딩 프로그램에 사용할… | by Jihwan Hyun Cloud Advocate | Cloud Villains | Dec, 2021 | Medium](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186)
 * [2021년 AWS 자격증 취득 가이드 - Google Slides](https://docs.google.com/presentation/d/1tsnHz01Qkd9tSRASv03PL3jqTP095DgvYLO0H2PwDnU/)
