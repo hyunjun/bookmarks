@@ -489,6 +489,7 @@ TensorFlow
 * [TF_Tutorial MoveNet - Pose Detection - 공부 기록장](https://inhopp.github.io/tf_tutorial/Tutorial1/)
 * [코크리 콘텐츠 coarse label 로 custom dataloader 만들어보기 (근데 이제 딥러닝 인퍼런스 값을 곁들인..) | 모두의연구소 기술 블로그](https://medium.com/modulabs/coarse-label-%EB%A1%9C-custom-dataloader-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-%EA%B7%BC%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EA%B0%92%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8-85f962c0ee99) MoveNet
 * [모바일 GPU에서 뉴럴 네트워크를 더 효율적으로 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/neural-network-on-mobile-gpu/)
+* [TensorFlow DTensor: Unified API for Distributed Deep Network Training](https://www.infoq.com/news/2022/05/tensorflow-dtensor/)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
