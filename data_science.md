@@ -89,6 +89,10 @@ Data Science
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
 * [데이터 엔지니어란 무엇일까? - Nephtyw’S Programming Stash](https://nephtyws.github.io/story/what-is-data-engineer/)
+  * [데이터 엔지니어란 무엇인가? | GeekNews](https://news.hada.io/topic?id=6565)
+* [데이터분석가 vs 데이터엔지니어 vs 데이터과학자 차이가 뭘까? (1) 역할과 정의](https://socrates-dissatisfied.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8-%EC%B0%A8%EC%9D%B4%EB%8A%94)
+* [데이터분석가 vs 데이터엔지니어 vs 데이터과학자 차이가 뭘까? (2) 필요 역량, 기술](https://socrates-dissatisfied.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94-2-%ED%95%84%EC%9A%94-%EC%8A%A4%ED%82%AC%EA%B3%BC-%EA%B8%B0%EC%88%A0)
+* [데이터분석가 vs 데이터엔지니어 vs 데이터과학자 차이가 뭘까? (3) 연봉과 보상](https://socrates-dissatisfied.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B0%80-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EC%9E%90-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%98%EA%B9%8C%EC%9A%94-3-%EC%97%B0%EB%B4%89%EA%B3%BC-%EB%B3%B4%EC%83%81)
 * [Roadmap to Data Engineering in 2022. | by Chetan Dekate | Mar, 2022 | Medium](https://medium.com/@chetandekate/roadmap-to-data-engineering-in-2022-5eb788155b72)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [데이터 사이언티스트가 되기 위해 필요한 기술,이 문장만 보면 다 알 수 있다](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0/)
@@ -272,6 +276,7 @@ Data Science
 * [**Data Science. Intro**](https://www.slideshare.net/zzsza/data-science-intro)
 * [Weekly Selection — Mar 2, 2018](https://towardsdatascience.com/weekly-selection-mar-2-2018-f827465a384d)
 * [Big Data Engineering VS Data Warehousing](https://medium.com/@FedakV/big-data-engineering-vs-data-warehousing-987a75d418ed)
+* [데이터 웨어하우스(Data Warehouse)와 데이터 레이크(Data Lake)의 차이](https://loustler.io/data_eng/diff-data_lake-data_warehouse/)
 * [Free Data Engineering Course for Beginners - #1 EXTRACT - YouTube](https://www.youtube.com/watch?v=dvviIUKwH7o)
 * [How ‘Big’ should be your Data?](https://towardsdatascience.com/how-big-should-be-your-data-fdace6e627e4)
 * [Self Driven Data Science — Issue #40](https://medium.com/@conordewey3/self-driven-data-science-issue-40-58b7d7b089d3)
@@ -378,6 +383,8 @@ Data Science
 * [Week 1 - What is advanced data science anyway?](https://jhuadvdatasci.substack.com/p/week-1-what-is-advanced-data-science)
 * [데이터 분석에 필요한 자질은 뭘까? | Popit](https://www.popit.kr/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ec%9e%90%ec%a7%88%ec%9d%80-%eb%ad%98%ea%b9%8c/)
 * [데이터 스토리텔링 연습! Day3](https://brunch.co.kr/@gkicarus/177)
+* [Data Is An Art, Not Just A Science—And Storytelling Is The Key — Data Science & Engineering (2022)](https://shopify.engineering/data-storytelling-shopify)
+* [There's no such thing as data — Benedict Evans](https://www.ben-evans.com/benedictevans/2022/5/27/theres-no-such-thing-as-data)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
