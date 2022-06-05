@@ -719,6 +719,7 @@ Deep Learning
 * [A New Link to an Old Model Could Crack the Mystery of Deep Learning | Quanta Magazine](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 * [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
   * [DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법 | GeekNews](https://news.hada.io/topic?id=6048)
+* [Deep Learning in Neuroimaging](https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
