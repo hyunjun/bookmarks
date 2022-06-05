@@ -180,7 +180,7 @@ History
 * [메이지 일본의 산업혁명 유산과 조선인 강제노동](http://ppss.kr/archives/52111)
 * [조선인 지원병: 일본군이 되고자 했던 조선인들](http://ppss.kr/archives/50722)
 * [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
-* [영화 [암살]의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
+* [영화 암살의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 * 친일과 망각
   * [1부 ‘친일후손 1177′](http://newstapa.org/28140)

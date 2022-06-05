@@ -1246,7 +1246,7 @@ Python
     * [Python Ultimate Regular Expression to Catch HTML Tags](http://kevin.deldycke.com/2008/07/python-ultimate-regular-expression-to-catch-html-tags/) 가장 쓸만했음
     * [How to validate HTML tag with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-html-tag-with-regular-expression/)
   * `re.split('[;|]', s)` [Python: Split string with multiple delimiters](https://stackoverflow.com/questions/4998629/python-split-string-with-multiple-delimiters)
-  * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
+  * [PyCon APAC 2016 Regular Expression`[A-Z]+`](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [Al Sweigart Yes, It's Time to Learn Regular Expressions PyCon 2017](https://www.youtube.com/watch?v=abrcJ9MpF60)
   * [파이썬에서 정규표현식 사용하기](https://jungwoon.github.io/python/2018/03/15/Data-Analysis-With-Python-2/)
 * self
@@ -1925,8 +1925,8 @@ Python
   * [김영욱: Python으로 IoT, 인지(Cognitive), 머신러닝 삼종세트 활용하기 - PyCon APAC 2016](https://www.youtube.com/watch?v=g5cq3apNviw)
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk)
     * [20160813, PyCon2016APAC 뉴스를 재미있게 만드는 방법; 뉴스잼](http://www.slideshare.net/koorukuroo/20160813-pycon2016apac)
-  * [양민지: Regular expression [A-Z]+ - PyCon APAC 2016](https://www.youtube.com/watch?v=pkcTEoUexag)
-    * [PyCon APAC 2016 Regular Expression[A-Z]+](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
+  * [양민지: Regular expression `[A-Z]+` - PyCon APAC 2016](https://www.youtube.com/watch?v=pkcTEoUexag)
+    * [PyCon APAC 2016 Regular Expression`[A-Z]+`](http://www.slideshare.net/ssuser8e2b34/pycon-apac-2016-regular-expressionaz-64976902)
   * [김정주 : 기계학습을 활용한 게임 어뷰징 검출 - PyCon APAC 2016](https://www.youtube.com/watch?v=hsac6_ZoyaQ)
     * [기계학습을 활용한 게임 어뷰징 검출](https://speakerdeck.com/haje01/gigyehagseubeul-hwalyonghan-geim-eobyujing-geomcul)
   * [임성준: Python, VTK를 만나다! - Python, VTK를 활용한 3차원 볼륨 데이터의 시각화 및 활용 - PyCon APAC 2016](https://www.youtube.com/watch?v=qFfwS9qMwpM)

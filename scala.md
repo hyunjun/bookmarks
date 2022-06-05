@@ -127,7 +127,7 @@ Scala
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
   * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
-* [스프링캠프 2016[B-2]: SOURCE OF SLIPP.MAP (JAVA =〉SCALA)](https://www.youtube.com/watch?v=-GP2ByyB3Oc)
+* [스프링캠프 2016 B-2: SOURCE OF SLIPP.MAP (JAVA =〉SCALA)](https://www.youtube.com/watch?v=-GP2ByyB3Oc)
 * [Useful Scala Compiler Options for Better Scala Development: Part 1](http://blog.threatstack.com/useful-scalac-options-for-better-scala-development-part-1)
 
   ```

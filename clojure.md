@@ -35,7 +35,7 @@ Clojure
 * [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
 * [Clojure Remote 2016](https://www.youtube.com/playlist?list=PLPgnbBCmP6ZMfHPJ4yMwuoLEZvEe5LVe8)
 * [What are your favorite Clojure/script youtube channels? : Clojure](https://www.reddit.com/r/Clojure/comments/m1frv9/what_are_your_favorite_clojurescript_youtube/)
-* [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
+* [`(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))`](https://defn.audio/)
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
 * [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
 * [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)

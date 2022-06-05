@@ -1991,7 +1991,7 @@ NLP
 * [한글을 이용한 데이터마이닝및 word2vec이용한 유사도 분석](http://blog.naver.com/2feelus/220384206922)
 * [5-1. 텐서플로우(TensorFlow)를 이용해 자연어를 처리하기(NLP) – Word Embedding(Word2vec)](http://solarisailab.com/archives/374)
 * [On word embeddings - Part 3: The secret ingredients of word2vec](http://sebastianruder.com/secret-word2vec/index.html)
-* [Ali Ghodsi, Lec [3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA&spfreload=10)
+* [Ali Ghodsi, Lec 3,1: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA&spfreload=10)
 * [Play with word embeddings in your browser](https://medium.com/@awjuliani/play-with-word-embeddings-in-your-browser-fc904a009058)
 * [Introduction to Natural Language Processing (NLP) and Bias in AI](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680)
 * [NLP Research part 1. Vector Representations of Words](https://www.facebook.com/notes/enjoydl/nlp-research-part-1-vector-representations-of-words/1237465276335840)

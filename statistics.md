@@ -197,7 +197,7 @@ Statistics
 * [Dongjin | Basic Statistics(1)](https://dongqui.github.io//posts/basic-statistics)
 * [Dongjin | Basic Statistics(2)](https://dongqui.github.io//posts/basic-statistics2)
 * ["표본은 적어도 30개"는 어쩌다 국룰이 되었는가](https://data101.oopy.io/big-enough-sample-30)
-* [비슷한 듯 다른 모집단과 표본공간! 차이가 뭘까?🧐 [모집단 vs 표본공간] (Feat. CLT)](https://velog.io/@hsh/%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%93%AF-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EC%A7%91%EB%8B%A8%EA%B3%BC-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%98%EA%B9%8C-%EB%AA%A8%EC%A7%91%EB%8B%A8-vs-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-Feat.-CLT)
+* [비슷한 듯 다른 모집단과 표본공간! 차이가 뭘까?🧐 모집단 vs 표본공간 (Feat. CLT)](https://velog.io/@hsh/%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%93%AF-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EC%A7%91%EB%8B%A8%EA%B3%BC-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%98%EA%B9%8C-%EB%AA%A8%EC%A7%91%EB%8B%A8-vs-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-Feat.-CLT)
 * [코호트란 무엇인가?](https://brunch.co.kr/@graypool/146)
 * [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 
