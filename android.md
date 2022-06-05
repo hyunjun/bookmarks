@@ -238,6 +238,7 @@ Android
 * [Pluu Dev - AndroidX Jetpack ~ Paging 데이터의 위치 살펴보기](http://pluu.github.io/blog/android/2022/01/02/paging/)
 * [Android 변조앱 만들기(feat. sandhook) : NHN Cloud Meetup](https://meetup.toast.com/posts/322)
 * [apksigner를 이용한 서명과 APK Signature scheme v2](https://liapp.lockincomp.com/ko/blog/blog-Post/tech-apk-signature-scheme-v2-with-apksigner/)
+* [안드로이드 앱 버튼 핸들러 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%B2%84%ED%8A%BC-%ED%95%B8%EB%93%A4%EB%9F%AC-1c5a644e1cdc)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
