@@ -2462,6 +2462,7 @@ Programming Books
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/software_engineering_at_google.md)
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/software-engineering-at-google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4-f57eb7db75e9)
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다](https://jh4hj.tistory.com/entry/Software-Engineering-at-Google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4)
+  * [<구글 엔지니어는 이렇게 일한다> 리뷰(feat. 소프트웨어 개발자로서 딱 한 권만 읽는다면 이 책을 추천합니다) — 별감 아카이빙](https://riedel.tistory.com/569)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
