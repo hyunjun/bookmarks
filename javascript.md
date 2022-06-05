@@ -2062,6 +2062,7 @@ Javascript
   * [JavaScript에서 날짜, 시간과 Temporal API | ~/xo.dev](https://xo.dev/js-temporal-api/)
 * Tern [자바스크립트 정적 분석 도구 턴(Tern)과 이맥스(Emacs) 연동](https://www.44bits.io/ko/post/javascript-static-analysis-server-tern-and-emacs)
 * [Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine](https://tesseract.projectnaptha.com/)
+  * [tesseract.js: Pure Javascript OCR for more than 100 Languages 📖🎉🖥](https://github.com/naptha/tesseract.js)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
   * [The Basics of THREE.js](https://www.youtube.com/playlist?list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg)
