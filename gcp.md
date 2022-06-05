@@ -60,6 +60,7 @@ Google Cloud Platform GCP
 * [Using WITH RECURSIVE in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/using-with-recursive-in-bigquery-sql-e593325f33f)
 * [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
 * [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
+* [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
