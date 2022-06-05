@@ -171,6 +171,7 @@
 * [The Talk You've Been Await-ing for](https://www.youtube.com/watch?v=NNwK5ZPAJCk)
 * [why async fn in traits are hard](https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/)
 * [An Alternative Syntax for Async Functions](https://ibraheem.ca/writings/an-alternative-async-fn-syntax/)
+* [Async I/O in Depth: Thread Pools, Radix Trees, Channels and More - High Performance HTTP Web Servers - YouTube](https://www.youtube.com/watch?v=fdxhcDne2Ww)
 
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
