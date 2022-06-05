@@ -491,7 +491,7 @@ Web
   * [Web Scraping With Beautiful Soup in Python](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-data_science/web-scraping/Web%20Scraping%20Wikipedia.ipynb)
     * [Python Beautiful Soup](https://www.youtube.com/playlist?list=PLcFcktZ0wnNkOo9FQ2wrDcsV0jYqEYu1z)
   * [Scraping URLs with BeautifulSoup](https://hackingandslacking.com/scraping-urls-with-beautifulsoup-e794a555bb0f)
-  * [Web Scraping E-Commerce Website with Beautiful Soup + Excel [Multiple Pages] PART 1/2 - YouTube](https://www.youtube.com/watch?v=y0TpyWhrcDk)
+  * [Web Scraping E-Commerce Website with Beautiful Soup + Excel Multiple Pages PART 1/2 - YouTube](https://www.youtube.com/watch?v=y0TpyWhrcDk)
   * [TOOBUK](https://github.com/ramoi/toobuk)
 * [canrevan: 대량의 네이버 뉴스 기사를 수집하는 라이브러리입니다](https://github.com/affjljoo3581/canrevan)
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
@@ -647,6 +647,7 @@ Web
 * [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML](https://tailwindcss.com/)
   * [Tailwind CSS로 프로젝트에 CSS 작성 안하기 - Tailwind CSS(with React) 🌬](https://xtring-dev.tistory.com/entry/Styling-Tailwind-CSS%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8F%84-%EC%86%90%EC%89%BD%EA%B2%8C-Cool%ED%95%9C-CSS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-tailwindcss)
   * [Tailwind CSS의 설치와 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-06-05T00:00:00.000Z)
+  * [react에서 tailwind 적용하기](https://blog.naver.com/pjt3591oo/222760623661)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
