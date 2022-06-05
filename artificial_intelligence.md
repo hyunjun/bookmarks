@@ -152,6 +152,8 @@ Artificial Intelligence
 * [12 Graphs That Explain the State of AI in 2022 - IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence-index)
   * [2022년 AI의 현재를 보여주는 그래프 12개 | GeekNews](https://news.hada.io/topic?id=6297)
 * [인간 대 기계](https://www.thestartupbible.com/2022/05/human-vs-machine.html)
+* [Beyond interpretability: developing a language to shape our relationships with AI | by Been Kim | Medium | Medium](https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394)
+* [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -197,6 +199,8 @@ Artificial Intelligence
 # Library
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
+* [Codeball -> AI-powered code review](https://codeball.ai/)
+  * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
 * [comma.ai](https://research.fb.com/projects/commai/)
   * [comma.ai](https://comma.ai/)
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
