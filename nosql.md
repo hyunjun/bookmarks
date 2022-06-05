@@ -271,6 +271,7 @@ NoSQL
   * [요즘 만들어지는 안드로이드 앱에서 push와 구글 로그인은 거의 필수라고 할 수 있습니다. | by 이상선 | Medium](https://medium.com/@sunyi233/%EC%9A%94%EC%A6%98-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C-push%EC%99%80-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%80-%EA%B1%B0%EC%9D%98-%ED%95%84%EC%88%98%EB%9D%BC%EA%B3%A0-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-86f8e8adb007)
   * [Firebase로 회원 시스템 만들기 - 이상선 - Medium](https://medium.com/@sunyi233/firebase%EB%A1%9C-%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-4b7ca3e568d9)
   * [React with firebase 9 - Blog app - YouTube](https://www.youtube.com/playlist?list=PLNOLT1mOxGfpVTko9GqsjYduhd9cCJ6zT)
+  * [Host React App on Firebase - YouTube](https://www.youtube.com/watch?v=syvLw6Z50qo)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
