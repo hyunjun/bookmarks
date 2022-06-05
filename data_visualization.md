@@ -227,6 +227,7 @@ Data Visualization
 * [Open MCT - Open Source Mission Control Software — Open MCT](https://nasa.github.io/openmct/)
 * [redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
+* [seoulzoo-map](https://github.com/leejeonghoon/seoulzoo-map) 서울동물원 지도 리디자인
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
   * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)
