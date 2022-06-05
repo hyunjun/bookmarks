@@ -34,9 +34,8 @@ Deep Learning
 * [Deep learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * [nvidia Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
   * [Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
-* [Best Courses to Learn Deep Learning Beginner to Advanced Level-2021](https://www.mltut.com/best-courses-to-learn-deep-learning/)
 * [Best Resources to Learn Deep Learning( YouTube, Tutorials, etc)- 2021](https://www.mltut.com/best-resources-to-learn-deep-learning/)
-* [Best Courses to Learn Deep Learning [Beginner to Advanced Level]-2022](https://www.mltut.com/best-courses-to-learn-deep-learning/)
+* [Best Courses to Learn Deep Learning Beginner to Advanced Level-2022](https://www.mltut.com/best-courses-to-learn-deep-learning/)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
 * [딥러닝 워크샵: 딥러닝의 현재와 미래](http://mlcenter.postech.ac.kr/workshop)
   * [후기](http://whydsp.org/262)
@@ -720,6 +719,7 @@ Deep Learning
 * [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
   * [DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법 | GeekNews](https://news.hada.io/topic?id=6048)
 * [Deep Learning in Neuroimaging](https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/)
+* [2022-1-deep-learning-applications](https://github.com/sjchoi86/2022-1-deep-learning-applications)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
