@@ -53,6 +53,8 @@ Apache
 * [여러 조직에 Airflow 제공하기 1 - 멀티테넌시 Airflow 환경 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/multi-tenancy-airflow-1/)
 * [여러 조직에 Airflow 제공하기 2 - 사용자 테스트 Airflow 제공 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/multi-tenancy-airflow-2/)
 * [Airflow2를 이용한 데이터 파이프라인 구성기. 모델 학습, 데이터 분석, 캠페인 집계, 제품 대시보드에 사용하는… | by Sungmin Han | Riiid Teamblog KR | Mar, 2022 | Medium](https://medium.com/riiid-teamblog-kr/airflow2%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%84%B1%EA%B8%B0-ab1ff1471546)
+* [Lessons Learned From Running Apache Airflow at Scale — Data Science & Engineering (2022)](https://shopify.engineering/lessons-learned-apache-airflow-scale)
+  * [Airflow를 대규모로 운영하며 배운 교훈 | GeekNews](https://news.hada.io/topic?id=6608)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
