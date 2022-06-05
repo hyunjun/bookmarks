@@ -1186,6 +1186,7 @@ Business
     * [SEE TO SOLVE – The Portable Andon Cord](https://wp.seetosolve.com/)
 * [디지털전환기의 오너와 리더](https://brunch.co.kr/@graypool/469) 가치 집중 필요성
 * [관심을 더 기울이기보다 무관심을 철저히 경계해라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240752)
+* [뉴욕타임스 2022년 1분기 실적에서 한국 언론이 배울 점 4가지](https://mediagotosa.com/nyuyogtaimseu-1bungi-siljeogeseo-hangug-eonroni-baeul-jeom-3gaji/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1323,6 +1324,7 @@ Business
 * [토스의 링크페이를 쓰고 받은 충격의 카오스...](https://www.linkedin.com/posts/jeabinleedescartes_%EC%95%88%EC%A0%84%ED%95%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B1%B0%EB%9E%98-%EB%A7%81%ED%81%AC%ED%8E%98%EC%9D%B4-activity-6925263923038367744-ohLF/) 토스란 회사의 문화에 대해서는 불호이나 이런 product에 대한 태도와 실력은 정말 본받아야 한다고 생각함
 * [Shreyas Doshi on Twitter: "Product-Market fit is often viewed as a static concept: either you have it or you don’t. In my experience, it is better to think of fit as a dynamic state based on your progress towards your vision & know what fit you currently have. Check out the 4 Types of Product-Market fit: https://t.co/TARAJGmJvd" / Twitter](https://twitter.com/shreyas/status/1426594663671107585)
   * [Product-Market Fit 의 4가지 종류 | GeekNews](https://news.hada.io/topic?id=6564)
+* [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
