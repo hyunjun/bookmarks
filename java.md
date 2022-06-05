@@ -843,6 +843,9 @@ Java
 * [Java Development in 2022: Predictions and Trends - DZone Java](https://dzone.com/articles/java-development-predictions-and-selected-trends)
 * [All About JDK 18 - Inside Java Newscast #21 // nipafx](https://nipafx.dev/inside-java-newscast-21/)
 
+# Java19
+* [자바19에 추가될 핵심 기능 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/238814)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
