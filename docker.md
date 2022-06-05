@@ -1607,6 +1607,7 @@ Docker
   * [How to Use Own Local Docker Images With Minikube | by Bhargav Bachina | BB Tutorials & Thoughts | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-use-own-local-doker-images-with-minikube-2c1ed0b0968)
   * [How To Run NodeJS API on Minikube | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-run-nodejs-api-on-local-kubernetes-a9e61274be22)
   * [**minikube로 docker와 docker-compose를 대체하기**](https://novemberde.github.io/docker/2021/09/02/podman-minikube.html) docker 유료화에 맞춘 시의적절한 글
+  * [Minikube installation | Kubernetes Tutorial - DEV Community](https://dev.to/jmbharathram/minikube-installation-kubernetes-tutorial-4d30)
 * [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
