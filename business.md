@@ -808,6 +808,7 @@ Business
 * [커뮤니케이션이 어려울 때 꺼내 읽기 좋은 이야기](https://brunch.co.kr/@cliche-cliche/148)
 * [사족 붙이지 말고 말하라](http://moneyman.kr/archives/6316)
 * [국민은행의 앱 통합은 성공할 수 있을까?](https://brunch.co.kr/@graypool/50) 기술 < 조직 내 통합 & 비전
+* [사람을 잃는 말투 vs 사람을 얻는 말투 :: ㅇㅎ!](https://www.aha-contents.com/183)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
