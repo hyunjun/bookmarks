@@ -151,6 +151,12 @@ Book
 * [지브리의 천재들](https://butter-shower.tistory.com/228)
   * 한라 688.6-스77지ㅂ, 탐라 문325.1-스78ㅈ, 우당 문688.6-스78ㅈ
   * ★★☆☆☆ 2022.04.25 지브리의 작품이나 스튜디오와 관련된 뒷 이야기인데 개인적인 기대와 다르게 별로 흥미롭지 않았음
+* 커넥트 스탠퍼드 인간관계 수업 [이로운BOOK촌 잘 풀리는 인간 관계는 다 이유가 있다 < BOOK촌 < 문화 < 기사본문 - 이로운넷](https://www.eroun.net/news/articleView.html?idxno=27557)
+  * 한라, 탐라, 우당 문189.2-브232ㅋ
+  * ★★★☆☆ 2022.05.21~22 관계 전문가들에게도 인간 관계란 어려운 일이라는 걸 보며 정말 쉽지 않다는 걸 다시 한 번 느낌
+  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://github.com/hyunjun/bookmarks/blob/master/books/connect.md)
+  * [Connect 커넥트 스탠퍼드 인간관계 수업. 1장 좋은 관계에서 각별한 관계로 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85-fa9934f7017c)
+  * [Connect 커넥트 스탠퍼드 인간관계 수업](https://jh4hj.tistory.com/entry/Connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
