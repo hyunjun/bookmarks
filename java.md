@@ -633,6 +633,7 @@ Java
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다 | JetBrains Blog](https://blog.jetbrains.com/ko/2020/03/26/local-history-intellij-save-your-code-ko/)
 * [인텔리J에서 이 옵션은 반드시 켜주시는게 좋습니다. - YouTube](https://www.youtube.com/watch?v=1hv8aQOD68M)
 * [JetBrains IntelliJ IDEA 2022.1 Introduces Dependency Analysis](https://www.infoq.com/news/2022/05/jetbrains-intellij-2022-1/)
+* [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/673)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
