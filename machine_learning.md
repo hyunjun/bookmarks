@@ -684,6 +684,8 @@ Machine Learning
 * [PolyCoder is an open source AI code-generator that researchers claim trumps Codex | VentureBeat](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/)
 * [How to Improve Any ML/DL Performance by 10% Easily | by Gurami Keretchashvili | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-improve-any-ml-dl-performance-by-10-easily-90dbbd01a4b3)
 * [멘토특강 클라우드 Big Data & Machine Learning 기초 - YouTube](https://www.youtube.com/watch?v=Yan4XXorhDI)
+* [Evolution of ML Fact Store. by Vivek Kaushal | by Netflix Technology Blog | Apr, 2022 | Netflix TechBlog](https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762)
+* [Fraud Detection Using Random Forest, Neural Autoencoder, and Isolation Forest Techniques](https://www.infoq.com/articles/fraud-detection-random-forest/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
