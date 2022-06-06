@@ -4104,6 +4104,7 @@ Javascript
 * [Tested React: Build and Test Modal using React features and DOM events](https://medium.com/front-end-weekly/tested-react-build-and-test-modal-using-react-features-and-dom-events-39b7246a3a6f)
 * [Test Driven Development Demo: Build a To-Do App with React - YouTube](https://www.youtube.com/watch?v=9PlcvhTTRzo)
 * [How To Test Your React App (unit / functional testing and CI pipeline tutorial) - YouTube](https://www.youtube.com/watch?v=13HIqdtfxrM)
+* [React Test 코드 작성 | Maeng's Blog](https://maeng2418.github.io/react/react_testing_library/)
 * [Jest - create-react-app에서 테스트에 많이 사용되는 Jest에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/jest/)
 * [Enzyme - a JavaScript Testing utility for React that makes it easier to test your React Components' output](https://airbnb.io/enzyme/)
   * [테스팅 코드 작성하기 - Enzyme을 활용하여 React 컴포넌트 테스팅 코드 작성하기](https://medium.com/@sangboaklee/react-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-1c3719cee5af)
