@@ -107,6 +107,7 @@ Food
 * [알기쉽게 정리한 맥주 종류](https://imgur.com/a/TQS2yXk)
 * [1세대 밀맥주는 알프스에서 태어났다? | ㅍㅍㅅㅅ](https://ppss.kr/archives/242044)
 * [모두가 겉으로만 아는 라거와 에일의 차이](https://brunch.co.kr/@beerstory/6)
+* [애주가 15인이 고른 요즘 맥주 | 지큐 코리아 (GQ Korea)](https://www.gqkorea.co.kr/2021/06/11/%EC%95%A0%EC%A3%BC%EA%B0%80-15%EC%9D%B8%EC%9D%B4-%EA%B3%A0%EB%A5%B8-%EC%9A%94%EC%A6%98-%EB%A7%A5%EC%A3%BC/)
 
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)
