@@ -3338,6 +3338,7 @@ Python
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
+* barcode [Generate Barcode using Python - Python Programming - PyShark](https://pyshark.com/generate-barcode-using-python/)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * BaseCrack [A Python tool that can decode all alphanumeric base encoding schemes](https://pythonawesome.com/a-python-tool-that-can-decode-all-alphanumeric-base-encoding-schemes/)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
