@@ -342,6 +342,7 @@ Go
 * [Unexpected Newline, Expecting Comma in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=2wt28guDEVY)
 * [Print a number with (comma) thousands separator in Go (Golang)](https://gosamples.dev/print-number-thousands-separator/)
 * [Some Gotchas And Quirky Syntax In The Go Programming Language - YouTube](https://www.youtube.com/watch?v=klFUb6vWZyU)
+* [Explaining common I/O Patterns in Go | by Naren Yellavula | Dev bits | Jun, 2022 | Medium](https://medium.com/dev-bits/explaining-common-i-o-patterns-in-go-cd01b1b749c4)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
