@@ -1041,6 +1041,7 @@ NLP
 * [머신러닝은 인간의 글쓰기를 어떻게 바꿔 놓을 것인가 | 10x Lessons](https://tkim.co/2022/04/30/how-ml-changes-writing/) DALL-E 2
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
