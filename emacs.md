@@ -39,4 +39,5 @@ Emacs
   * [의존성 관리 도구 캐스크를 사용한 이맥스 환경설정](https://www.44bits.io/ko/post/managing-emacs-configuration-with-cask)
 * [emfy: A dark and sleek Emacs setup for general purpose editing and programming](https://github.com/susam/emfy)
 * [flycheck-popup-tip](https://github.com/flycheck/flycheck-popup-tip)
+* [lazyblorg: Blogging with Org-mode for very lazy people](https://github.com/novoid/lazyblorg)
 * [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)
