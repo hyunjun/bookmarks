@@ -77,6 +77,13 @@ Logging
 * [Apache logging services](https://logging.apache.org)
 * [Apex Logs — Structured log management](https://apex.sh/logs/)
   * [Apex Logs public beta. My latest product Apex Logs is now in… | by TJ Holowaychuk | Aug, 2020 | Medium](https://medium.com/@tjholowaychuk/apex-logs-public-beta-48c683464054)
+* [Clymene-project](https://clymene-project.github.io/)
+  * [Clymene: the Clymene is time-series data and Logs collection platform for distributed systems](https://github.com/Clymene-project/Clymene)
+  * 시계열 데이터 및 로그 데이터를 수집하기 위한 플랫폼, 오픈소스 프로젝트
+    * 따라서 시계열과 로그의 두 가지 파이프라인 존재
+  * 모든 에이전트는 데이터를 수집하여 데이터베이스에 직접 저장 가능, 상황에 따라 Clymene 구성 요소를 사용하여 다양한 아키텍처 구성 가능
+  * 트래픽이 많은 환경에서 사용할 수 있는 아키텍처 구성 가능
+  * Clymene 프로젝트는 다양한 보관 유형을 제공하므로 익숙한 보관 유형 선택 가능
 * lnav [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale](https://lnav.org/)
   * [The Logfile Navigator | GeekNews](https://news.hada.io/topic?id=4606)
 * [LOGAI – AUTOMATED LOG ANALYTICS FOR VALIDATION](https://ko.hortonworks.com/blog/logai-automated-log-analytics-validation/)
