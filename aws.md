@@ -1453,6 +1453,7 @@ AWS
 * [Route53 DNS Delegation (DNS 위임) - 개발 못하는 개발자, 인프라 모르는 운영자](https://stevenshim.github.io/dns-deligation/)
 * [Route 53 Resolver DNS 방화벽](https://zigispace.net/1145)
 * [Creating Disaster Recovery Mechanisms Using Amazon Route 53 | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/creating-disaster-recovery-mechanisms-using-amazon-route-53/)
+* [Route 53에서 Route 53으로 도메인 이전하기 – Lamanus' Archive](https://lamanus.kr/102)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
