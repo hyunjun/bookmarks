@@ -379,6 +379,7 @@ Haskell
 * [Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
 * [Choosing an HTML library in Haskell](https://vrom911.github.io/blog/html-libraries)
 * [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
+* [Reverse Dependencies](https://packdeps.haskellers.com/reverse)
 * [Awake Security](https://github.com/awakesecurity)
 * [azure-demo - Haskell + Azure DevOps Demo](https://github.com/alasconnect/azure-demo/)
 * Cabal
