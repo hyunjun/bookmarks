@@ -47,5 +47,6 @@ Psychology
 * [욕망의 두 형태에 대한 대화 II](https://brunch.co.kr/@graypool/85)
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
 * [미루는 습관은 귀차니즘보단 두려움에서 나온다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247454)
+* [할 일을 미루지 않는 방법 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/1_1/article_no/1859/page/1)
 * [화 내지 않고 어른스럽게 컴플레인 하는 방법 – 체인지그라운드](http://thechangeground.com/archives/16611)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
