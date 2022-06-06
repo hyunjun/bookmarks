@@ -4300,6 +4300,7 @@ Python
   * [Retrieval Augmented Generation with Huggingface Transformers and Ray | Distributed Computing with Ray](https://medium.com/distributed-computing-with-ray/retrieval-augmented-generation-with-huggingface-transformers-and-ray-b09b56161b1e)
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
   * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
+  * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
