@@ -1386,6 +1386,7 @@ Programming
 * [스토리텔링 문법을 개발하라](https://brunch.co.kr/@graypool/474)
 * [문법은 표현의 직관성을 높이는 행위](https://brunch.co.kr/@graypool/478)
 * [도메인 스토리텔링에서 제품생산까지](https://brunch.co.kr/@graypool/475)
+* [실제 행위자와 역할 표기는 어떤 차이를 만드나?](https://brunch.co.kr/@graypool/482)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
