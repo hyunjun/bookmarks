@@ -159,6 +159,9 @@ Book
   * [Connect 커넥트 스탠퍼드 인간관계 수업](https://jh4hj.tistory.com/entry/Connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85)
 * [인공지능과 흙](https://blog.daum.net/marie2005/15723342)
   * ★★★☆☆ 2022.06.07
+  * [인공지능과 흙](https://github.com/hyunjun/bookmarks/blob/master/books/ai_and_soil.md)
+  * [인공지능과 흙. 르네상스, 상상과 현실의 세계 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99-991fbc03b47)
+  * [인공지능과 흙](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -322,6 +325,7 @@ Book
   * ★★☆☆☆ 2021.12.26 스타일이 맞지 않아 보다가 말았음
 * [브람스의 밤과 고흐의 별](http://www.artenews.co.kr/news/articleView.html?idxno=1334)
   * ★★★☆☆ 2022.06.07
+  * [브람스의 밤과 고흐의 별](https://gist.github.com/hyunjun/074b72fd917d55f5f9d3dcda168112a3#file-brahms_and_gogh-md)
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
