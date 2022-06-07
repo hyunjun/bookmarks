@@ -324,6 +324,7 @@
     * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
     * 불편 사항을 해소하기 위해 Kotlin JDSL이라는 오픈소스를 만든 이야기
   * [Kotlin JDSL: Kotlin을 이용해 손쉽게 Reactive Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-reactive-criteria-api-with-kotlin/)
+  * [JPA 맘에 안들어서 쿼리 라이브러리 만든 썰 | Kotlin JDSL part.1 - YouTube](https://www.youtube.com/watch?v=-Kdr6qq6uJI)
 * [ksp: Kotlin Symbol Processing API](https://github.com/google/ksp)
   * [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
   * [Android Developers Blog: Announcing Kotlin Symbol Processing (KSP) Alpha](https://android-developers.googleblog.com/2021/02/announcing-kotlin-symbol-processing-ksp.html)
