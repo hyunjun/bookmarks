@@ -353,6 +353,7 @@ Git
 * [GitHub Actions의 잡 요약 기능 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1594)
 * [GitHub Action 2년간 사용기](https://devocean.sk.com/search/techBoardDetail.do?ID=163365)
 * [Node Project CI 하기 (with Github Action)](https://velog.io/@dev_leewoooo/Node-Project-CI-%ED%95%98%EA%B8%B0-with-Github-Action)
+* [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
   * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
