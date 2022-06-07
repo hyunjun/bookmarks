@@ -157,6 +157,8 @@ Book
   * [Connect 커넥트 스탠퍼드 인간관계 수업](https://github.com/hyunjun/bookmarks/blob/master/books/connect.md)
   * [Connect 커넥트 스탠퍼드 인간관계 수업. 1장 좋은 관계에서 각별한 관계로 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85-fa9934f7017c)
   * [Connect 커넥트 스탠퍼드 인간관계 수업](https://jh4hj.tistory.com/entry/Connect-%EC%BB%A4%EB%84%A5%ED%8A%B8-%EC%8A%A4%ED%83%A0%ED%8D%BC%EB%93%9C-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84-%EC%88%98%EC%97%85)
+* [인공지능과 흙](https://blog.daum.net/marie2005/15723342)
+  * ★★★☆☆ 2022.06.07
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
