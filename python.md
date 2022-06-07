@@ -4399,6 +4399,7 @@ Python
 * [NUMPY TUTORIAL : STEP BY STEP GUIDE](http://www.listendata.com/2017/12/numpy-tutorial.html)
 * [cs228-python-tutorial.ipynb](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 * [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/)
+* [What is Numpy in Python - Everything you Need to Know About](https://www.mygreatlearning.com/blog/python-numpy-tutorial)
 * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 * [100 numpy exercises (100% complete)](https://github.com/rougier/numpy-100)
 * [**NumPy Exercises**](https://github.com/Kyubyong/numpy_exercises)
