@@ -1996,6 +1996,7 @@ Docker
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
+* [HBsmith가 VirtualBox에서 Parallels로 갈아탄 이유 | by Jesang Yoon | Hard Boiled Smith Stories](https://blog.hbsmith.io/hbsmith%EA%B0%80-virtualbox%EC%97%90%EC%84%9C-parallels%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-4dab5005302f)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
