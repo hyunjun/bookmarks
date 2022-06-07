@@ -320,6 +320,8 @@ Book
   * [조지 오웰의 영향을 받은 영화 르포르타주 만화 등](images/george_orwell6.jpg)
 * [렘브란트, 빛의 화가](https://kr.unboxinfo.com/products/7acdf6267d9f44168c7e69fc0a6ee849)
   * ★★☆☆☆ 2021.12.26 스타일이 맞지 않아 보다가 말았음
+* [브람스의 밤과 고흐의 별](http://www.artenews.co.kr/news/articleView.html?idxno=1334)
+  * ★★★☆☆ 2022.06.07
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
@@ -328,7 +330,6 @@ Book
 * (NOT YET) [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
   * 한라 673.5309-남36ㅍ 1권, 우당
 * (NOT YET) [어쩌다 클래식 | 지이 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165219253)
-* (NOT YET) [브람스의 밤과 고흐의 별](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292283162)
 * (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
 
 # Baby
