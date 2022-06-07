@@ -154,6 +154,7 @@ Artificial Intelligence
 * [인간 대 기계](https://www.thestartupbible.com/2022/05/human-vs-machine.html)
 * [Beyond interpretability: developing a language to shape our relationships with AI | by Been Kim | Medium | Medium](https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394)
 * [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
+* [내가 AI 업계를 떠난 이유 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/707/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
