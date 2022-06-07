@@ -366,6 +366,7 @@ Business
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
+* [3개월 만에 10명대 조직이 2배 이상 커지면 생기는 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20220415)
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
   * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
 * [**How HashiCorp Works**](https://works.hashicorp.com/)
@@ -1188,6 +1189,7 @@ Business
 * [디지털전환기의 오너와 리더](https://brunch.co.kr/@graypool/469) 가치 집중 필요성
 * [관심을 더 기울이기보다 무관심을 철저히 경계해라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240752)
 * [뉴욕타임스 2022년 1분기 실적에서 한국 언론이 배울 점 4가지](https://mediagotosa.com/nyuyogtaimseu-1bungi-siljeogeseo-hangug-eonroni-baeul-jeom-3gaji/)
+* [감성 지능이 높은 리더의 특징 – 체인지그라운드](http://thechangeground.com/archives/34958)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
