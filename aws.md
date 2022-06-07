@@ -445,6 +445,7 @@ AWS
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 5](https://khw742002.tistory.com/37?category=1006667)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 6](https://khw742002.tistory.com/38?category=1006667)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 마무리](https://khw742002.tistory.com/39?category=1006667)
+* [AWS의 여러 저장소들 - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EC%97%AC%EB%9F%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%93%A4-c1ee1589b817)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -942,6 +943,7 @@ AWS
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
 * [“클라우드 계정 99% 과잉 권한… 해커에게 문 열어주는 격” - CIO Korea](https://www.ciokorea.com/news/232619)
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
+* [AWS로 클라우드 시작하기: ⑤IAM & Organizations | 요즘IT](https://yozm.wishket.com/magazine/detail/1511/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
