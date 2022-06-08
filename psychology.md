@@ -50,3 +50,4 @@ Psychology
 * [할 일을 미루지 않는 방법 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/1_1/article_no/1859/page/1)
 * [화 내지 않고 어른스럽게 컴플레인 하는 방법 – 체인지그라운드](http://thechangeground.com/archives/16611)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
+* [손흥민, 득점왕 압박감에도 "하하"..뇌과학에 그 비밀이](https://news.v.daum.net/v/20220528064701668)
