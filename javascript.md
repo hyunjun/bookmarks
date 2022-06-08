@@ -3426,6 +3426,7 @@ Javascript
 * [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
 * [Mitigate cross-site scripting (XSS) with a strict Content Security Policy (CSP)](https://web.dev/strict-csp/)
 * [Cross-Origin Web Sessions | Teleport](https://goteleport.com/blog/web-session-sharing-transfer/) xss csrf
+* [server-side-csrf-protection-using-nextjs-and-expressjs: Server-side CSRF Protection Using Nextjs and Expressjs](https://github.com/larbisahli/server-side-csrf-protection-using-nextjs-and-expressjs)
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
 * [~Using a React 16 Portal to do something cool~](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 * [React Portal, Render의 차이점, 활용방안 알아보기! | JaeSeoKim's Blog](https://jaeseokim.dev/React/React-Portal_Render%EC%9D%98_%EC%B0%A8%EC%9D%B4%EC%A0%90_%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%88_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/)
