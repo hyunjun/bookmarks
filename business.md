@@ -1385,6 +1385,7 @@ Business
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
+* [모든 창업자에게 자극이 될 Deel의 피치덱 | Disquiet\*](https://disquiet.io/@minhyung0926/makerlog/440)
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
