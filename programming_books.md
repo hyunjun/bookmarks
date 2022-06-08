@@ -1906,6 +1906,12 @@ Programming Books
   * [Accelerate 디지털 트랜스포메이션 엔진](https://github.com/hyunjun/bookmarks/blob/master/programming_books/accelerate.md)
   * [Accelerate 디지털 트랜스포메이션 엔진. 속도를 안정성과 연계시키기 때문에 훌륭한 IT 프랙티스는 속도와… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84-95dde6cdf801)
   * [Accelerate 디지털 트랜스포메이션 엔진](https://jh4hj.tistory.com/entry/Accelerate-%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%97%94%EC%A7%84)
+* [그들은 어떻게 재택근무로 최고의 성과를 올렸나](https://blog.naver.com/kofin1130/222272019198)
+  * 한라 325.342-이94ㄱ 탐라 문325.342-이94ㄱ
+  * ★★★☆☆ 2022.06.07~08
+  * [그들은 어떻게 재택근무로 최고의 성과를 올렸나](https://github.com/hyunjun/bookmarks/blob/master/programming_books/telework.md)
+  * [그들은 어떻게 재택근무로 최고의 성과를 올렸나. 너무 직접적인 제목이나 책의 조판등은 크게 매력적으로 보이지 않았으나… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4%EB%A1%9C-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%98%AC%EB%A0%B8%EB%82%98-b66e2bafcf5)
+  * [그들은 어떻게 재택근무로 최고의 성과를 올렸나](https://jh4hj.tistory.com/entry/%EA%B7%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4%EB%A1%9C-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%98%AC%EB%A0%B8%EB%82%98)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
