@@ -699,6 +699,7 @@ Programming
 * [4 Reasons why Daily Scrums are stressful for developers | by Rakia Ben Sassi | Serious Scrum | May, 2022 | Medium](https://medium.com/serious-scrum/4-reasons-why-daily-scrums-are-stressful-for-developers-3be4a871db33)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
+* [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1387,6 +1388,7 @@ Programming
 * [문법은 표현의 직관성을 높이는 행위](https://brunch.co.kr/@graypool/478)
 * [도메인 스토리텔링에서 제품생산까지](https://brunch.co.kr/@graypool/475)
 * [실제 행위자와 역할 표기는 어떤 차이를 만드나?](https://brunch.co.kr/@graypool/482)
+* [모호함이 사라질 때까지 매개체를 풀어가기](https://brunch.co.kr/@graypool/483)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
