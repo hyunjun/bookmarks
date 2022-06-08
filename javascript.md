@@ -2179,6 +2179,7 @@ Javascript
   * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
   * [모두 알지만 모두 모르는 package.json | 감성 프로그래밍](https://programmingsummaries.tistory.com/385)
   * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/) semantic version
+  * [미처 알지 못했던 package-lock.json](https://pewww.tistory.com/11)
   * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
   * [Do I really need package-lock.json file?](https://hackernoon.com/do-i-really-need-package-lock-json-file-321ce29e7d2c)
   * [Mastering the Art of NPM](https://hackernoon.com/mastering-the-art-of-npm-ca06357150cb)
