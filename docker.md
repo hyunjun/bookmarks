@@ -1372,6 +1372,7 @@ Docker
 * [Kubernetes Storage — Part 2 — GlusterFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-2-glusterfs-complete-tutorial-77542c12a602)
 * [(공개) 바닐라 쿠베네티스 실습 환경 배포 가이드](https://gasidaseo.notion.site/db0869d191ec4e4d90b1c9bb722a7175)
 * [쿠버네티스 실습 환경 배포 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvP1gmNsWr6YvXIQ7TonCr8h)
+* [SK텔레콤 컨테이너솔루션개발팀 - YouTube](https://www.youtube.com/channel/UCOQoi9CNSy915agW42113WA)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
