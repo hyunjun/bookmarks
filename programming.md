@@ -539,6 +539,7 @@ Programming
 * [Spoqa 기술 블로그 | 서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html)
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
+* [**Pizza as a Service 2.0 – Paul Kerrison**](https://www.paulkerrison.co.uk/random/pizza-as-a-service-2-0)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
