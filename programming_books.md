@@ -1816,16 +1816,6 @@ Programming Books
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
   * [새책 성취예측모형에 관한 기초적 지식과 그 배경을 설명한 영상 - YouTube](https://www.youtube.com/watch?v=CmmIT5kDFRs)
   * [국민 필독서…대통령 최적 인물 진단 ’성취예측모형’ - 브랜드타임즈(Brand Times)](http://www.brandtimes.co.kr/news/articleView.html?idxno=2259)
-* [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
-  * 한라, 탐라, 우당
-  * ★★★☆☆ 2022.03.06~07
-  * 조금 시간이 지난 책(2015년 출간)이라
-    * 시대와 맞지 않는 이야기도 있고(회식을 커뮤니케이션의 장으로 활용하자, 1:1 술자리 활용을 권하는 등)
-    * management에 대해 좀 주제가 흩어져 있고 약간 전문적인 활용은 부족해 보이긴 하지만
-  * 전반적으로 여러가지 주제를 모아 읽기 쉽게
-    * 특히 프로그래머의 입장에서 이해하기 쉽게 좀 더 직접적으로 썼다는 장점이 있음
-  * [프로그래머의 리더십 - Jun - Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-758ccdd7b67c)
-  * [프로그래머의 리더십](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
 * 원온원 일 잘하는 팀장의 대화력
   * 우당
   * ★★★★☆ 2022.04.03
@@ -1858,12 +1848,6 @@ Programming Books
   * [팀 토폴로지](https://github.com/hyunjun/bookmarks/blob/master/programming_books/team_topologies.md)
   * [팀 토폴로지. 기본적 논지는 즉, 시스템을 설계하는 조직은..… 그 조직에서 사용하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80-fb72c5baa77c)
   * [팀 토폴로지](https://jh4hj.tistory.com/entry/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
-* [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
-  * 한라, 탐라, 우당 문325.24스825ㅅ
-  * ★★★★☆ 2022.04.18~21
-  * [실리콘밸리의 팀장들](https://github.com/hyunjun/bookmarks/blob/master/programming_books/radical_candor.md)
-  * [실리콘밸리의 팀장들. Radical Candor — Be A Kick-Ass Leader… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4-f7677ca4f8b7)
-  * [실리콘밸리의 팀장들](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4)
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라 문325.21-리58ㅅ
   * ★★★★☆ 2022.05.01~05
@@ -1892,9 +1876,6 @@ Programming Books
   * ★★★★☆ 2022.05.31~06.01
   * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
   * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
-* [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
-  * 탐라 문325.24-슈53ㅅ
-  * ★★★☆☆ 2022.06.01
 * [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라 문005.12-폴58ㄷ
   * ★★★★☆ 2022.06.02
@@ -1915,23 +1896,11 @@ Programming Books
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
-* (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-* (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
-  * 한라, 탐라, 우당
-  * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
-* (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
-  * 탐라
-  * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
-* (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
-* (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
   * 한라, 탐라
   * [넷플릭스의 인재 확보를 위한 냉혹한 전략 - 테크42](https://www.tech42.co.kr/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%ec%9d%98-%ec%9d%b8%ec%9e%ac-%ed%99%95%eb%b3%b4%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%83%89%ed%98%b9%ed%95%9c-%ec%a0%84%eb%9e%b5/)
-* (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
-  * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
-* (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) 피플웨어
   * 우당 문325.3디31ㅍ
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
@@ -1944,9 +1913,19 @@ Programming Books
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 * (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
-* (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
+* (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
 
 ## Management Leadership
+* [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
+  * 한라, 탐라, 우당
+  * ★★★☆☆ 2022.03.06~07
+  * 조금 시간이 지난 책(2015년 출간)이라
+    * 시대와 맞지 않는 이야기도 있고(회식을 커뮤니케이션의 장으로 활용하자, 1:1 술자리 활용을 권하는 등)
+    * management에 대해 좀 주제가 흩어져 있고 약간 전문적인 활용은 부족해 보이긴 하지만
+  * 전반적으로 여러가지 주제를 모아 읽기 쉽게
+    * 특히 프로그래머의 입장에서 이해하기 쉽게 좀 더 직접적으로 썼다는 장점이 있음
+  * [프로그래머의 리더십 - Jun - Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-758ccdd7b67c)
+  * [프로그래머의 리더십](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
 * [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
   * 탐라, 우당 문325.24아211ㅇ
   * ★★★☆☆ 2022.04.16
@@ -1954,14 +1933,36 @@ Programming Books
   * ["heart. The Life of Kazuo Inamori: A masterpiece handed down to reveal the mystery of the "heart" - iNEWS](https://inf.news/en/culture/6fd795901e9fca6d356cff3c14c2566b.html)
   * [왜 리더인가. 가장 중요한 것은 '사람의 마음'이었다. | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80-60cf95b858f3)
   * [왜 리더인가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EB%A6%AC%EB%8D%94%EC%9D%B8%EA%B0%80)
+* [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
+  * 한라, 탐라, 우당 문325.24스825ㅅ
+  * ★★★★☆ 2022.04.18~21
+  * [실리콘밸리의 팀장들](https://github.com/hyunjun/bookmarks/blob/master/programming_books/radical_candor.md)
+  * [실리콘밸리의 팀장들. Radical Candor — Be A Kick-Ass Leader… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4-f7677ca4f8b7)
+  * [실리콘밸리의 팀장들](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98-%ED%8C%80%EC%9E%A5%EB%93%A4)
 * 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
   * 우당
   * ★★★★☆ 2022.04.23
   * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
   * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
   * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
+* [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
+  * 탐라 문325.24-슈53ㅅ
+  * ★★★☆☆ 2022.06.01
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
+* (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+* (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
+  * 한라, 탐라, 우당
+  * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
+* (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
+  * 탐라
+  * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
+* (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
+* (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
+* (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
+  * 한라, 탐라
+* (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
+* (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
 
 # Math
 
