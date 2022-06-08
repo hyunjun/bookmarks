@@ -1190,6 +1190,7 @@ Business
 * [관심을 더 기울이기보다 무관심을 철저히 경계해라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240752)
 * [뉴욕타임스 2022년 1분기 실적에서 한국 언론이 배울 점 4가지](https://mediagotosa.com/nyuyogtaimseu-1bungi-siljeogeseo-hangug-eonroni-baeul-jeom-3gaji/)
 * [감성 지능이 높은 리더의 특징 – 체인지그라운드](http://thechangeground.com/archives/34958)
+* [조직은 리더의 수준만큼 성장합니다.. 리더를 평가하는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/evaluateleader20220607)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
