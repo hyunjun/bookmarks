@@ -1370,6 +1370,8 @@ Docker
 * [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
 * [Kubernetes Storage — Part 1 — NFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-1-nfs-complete-tutorial-75e6ac2a1f77)
 * [Kubernetes Storage — Part 2 — GlusterFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-2-glusterfs-complete-tutorial-77542c12a602)
+* [(공개) 바닐라 쿠베네티스 실습 환경 배포 가이드](https://gasidaseo.notion.site/db0869d191ec4e4d90b1c9bb722a7175)
+* [쿠버네티스 실습 환경 배포 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvP1gmNsWr6YvXIQ7TonCr8h)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
