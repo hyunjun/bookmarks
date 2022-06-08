@@ -2241,6 +2241,9 @@ Programming Books
   * 탐라 문005.133 구235ㅍ
   * 필요한 게 있을 때 찾아보기 좋은 dictionary 형식의 기초서적
   * [python-recipe-src: 파이썬 코드 레시피 302 샘플 코드](https://github.com/moseskim/python-recipe-src)
+* [혼자 공부하는파이썬(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B1681646737)
+  * [혼자 공부하는 파이썬. python 책은 이제 너무 흔하다. python 초보를 위한 책도… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-3524c8648a11)
+  * [혼자 공부하는 파이썬](https://jh4hj.tistory.com/entry/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
