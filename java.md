@@ -1267,6 +1267,7 @@ Java
   * [Jenkins Tutorial — Part 7 — Interactive Pipelines | by Saeid Bostandoust | ITNEXT](https://itnext.io/jenkins-tutorial-part-7-interactive-pipelines-a739b23ac41c)
   * [Jenkins Tutorial — Part 8 — Triggering Pipeline | by Saeid Bostandoust | ITNEXT](https://itnext.io/jenkins-tutorial-part-8-triggering-pipeline-d53dbba539d6)
   * [Jenkins Tutorial — Part 9 — Basic Pipeline Steps | by Saeid Bostandoust | May, 2022 | ITNEXT](https://itnext.io/jenkins-tutorial-part-9-basic-pipeline-steps-eeb1b9ed79f8)
+  * [Jenkins Tutorial For Beginners - Jenkins Tutorial - Jenkins Crash Course - YouTube](https://www.youtube.com/playlist?list=PL8WTXLSrtyWpgy4ZvhkVmc9uq5dU8ao08)
   * [jenkins-stack-kubernetes: Scripts and manifests to deploy complete Jenkins on Kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes)
   * [jenkins-tutorial: The complete Jenkins tutorial, reference, awesome, examples](https://github.com/ssbostan/jenkins-tutorial)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
