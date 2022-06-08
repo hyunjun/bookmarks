@@ -133,6 +133,7 @@ Json
 ## JWT Go
 * [Golang API Authentication using JWT Tokens](https://morioh.com/p/eedc1b3cd9b0)
 * [Implementing JWT Authentication in Golang REST API - Detailed Guide](https://codewithmukesh.com/blog/jwt-authentication-in-golang/)
+* [fastjson: Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection](https://github.com/valyala/fastjson)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
