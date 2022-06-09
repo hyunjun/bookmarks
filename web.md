@@ -639,6 +639,8 @@ Web
   * [CSS의 미래를 알려드림. feat. 구글 I/O - YouTube](https://www.youtube.com/watch?v=kkiLBF_YerM)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.1 – tech.kakao.com](https://tech.kakao.com/2022/05/20/on-demand-atomic-css-library/)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.2 – tech.kakao.com](https://tech.kakao.com/2022/05/24/on-demand-atomic-css-library-2/)
+* [Two lines of CSS that boosts 7x rendering performance! - DEV Community](https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd)
+  * [렌더링 성능을 7배 빠르게 하는 2줄의 CSS | GeekNews](https://news.hada.io/topic?id=6713)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
@@ -1194,6 +1196,7 @@ Web
   * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
 * [Top 10 REST Interview Questions for Java and Spring Developers | by javinpaul | Javarevisited | Apr, 2022 | Medium](https://medium.com/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)
 * [Java Guides on Twitter: "Amazing REST API Design Cheat Sheet: https://t.co/vqLvNdMjLi" / Twitter](https://twitter.com/GuidesJava/status/1527257487115952128/photo/1)
+* [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
