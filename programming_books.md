@@ -1952,6 +1952,9 @@ Programming Books
 * [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
   * 탐라 문325.24-슈53ㅅ
   * ★★★☆☆ 2022.06.01
+  * [Leading with the Heart 사슴을 이끄는 사자의 리더십](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leading_with_the_heart.md)
+  * [Leading with the Heart 사슴을 이끄는 사자의 리더십 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/leading-with-the-heart-%EC%82%AC%EC%8A%B4%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EC%82%AC%EC%9E%90%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-abe871479a3f)
+  * [Leading with the Heart 사슴을 이끄는 사자의 리더십](https://jh4hj.tistory.com/entry/Leading-with-the-Heart-%EC%82%AC%EC%8A%B4%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EC%82%AC%EC%9E%90%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
