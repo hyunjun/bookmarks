@@ -385,6 +385,7 @@ Data Science
 * [데이터 스토리텔링 연습! Day3](https://brunch.co.kr/@gkicarus/177)
 * [Data Is An Art, Not Just A Science—And Storytelling Is The Key — Data Science & Engineering (2022)](https://shopify.engineering/data-storytelling-shopify)
 * [There's no such thing as data — Benedict Evans](https://www.ben-evans.com/benedictevans/2022/5/27/theres-no-such-thing-as-data)
+* [카카오페이 유저 프로파일링, 페이프로파일 | Kakao Pay Tech](https://tech.kakaopay.com/post/pay-profile)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -515,6 +516,12 @@ Data Science
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
   * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
+* HEARTCOUNT [모든 현업을 위한 데이터 분석 솔루션 :: 하트카운트 HEARTCOUNT](https://www.heartcount.io/)
+  * [홈쇼핑의 취소율 데이터 시계열 분석](https://support.heartcount.io/blog/2)
+  * [데이터에서 Signal(유의미한 차이)과 Noise(우연에 의한 차이) 분리하기](https://support.heartcount.io/blog/5)
+  * [매체별 광고비가 매출에 미치는 영향, 회귀분석](https://support.heartcount.io/blog/6)
+  * [데이터 분석 방법의 종류](https://support.heartcount.io/blog/10)
+  * [Facet Plot, 다이아몬드 같은 시각화](https://support.heartcount.io/blog/17)
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
   * Job 스케줄링, 플로우 요소별 버전 관리와 결과에 대한 Inspecting, 플로우 및 플로우 요소별 라이브러리 의존성 주입, Amazon S3에 대한 built-in 지원, 컴퓨팅 자원에 대한 손쉬운 스케일 인/아웃 등을 가능
