@@ -1311,6 +1311,7 @@ Java
   * [log4j: between a rock and a hard place](https://crawshaw.io/blog/log4j)
   * [역대급 보안구멍 ‘로그4j’ 막아라···개발자들의 고군분투기 - CIO Korea](https://www.ciokorea.com/news/219184)
   * [심각한 아파치 log4j 취약점 대응...이렇게 하면 된다 - 데일리시큐](https://www.dailysecu.com/news/articleView.html?idxno=132550)
+  * [Log4J vulnerability on the 🔥 ? How to check your application is impacted and fix#devops #devsecops - YouTube](https://www.youtube.com/watch?v=4c46SFh7jt4)
   * log4j2-scan [CVE-2021-44228-Scanner/README.md at main · logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/README.md)
   * [Log4Shell: RCE 0-day exploit found in log4j 2, a popular Java logging package | LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day/)
     * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)
