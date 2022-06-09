@@ -4420,6 +4420,8 @@ Programming
 * [세미나 공유 - 테스트 - YouTube](https://www.youtube.com/watch?v=L_1UYlJyNuk)
 * [Unit Testing is Overrated | Oleksii Holub](https://tyrrrz.me/blog/unit-testing-is-overrated)
 * [Software Testing Theory + A Few Less Obvious Testing Techniques - YouTube](https://www.youtube.com/watch?v=K47pr6lPxsA)
+* [<달빛조각사>에서 서버 테스트 코드를 작성하는 방법](https://ndc.nexon.com/session/sessionView?sessNo=100007513)
+  * [NDC22 <달빛조각사>에서 서버 테스트 코드를 작성하는 방법 - Speaker Deck](https://speakerdeck.com/ohyecloudy/ndc22-dalbicjogagsa-eseo-seobeo-teseuteu-kodeureul-jagseonghaneun-bangbeob)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
