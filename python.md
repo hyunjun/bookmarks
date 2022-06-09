@@ -1251,6 +1251,7 @@ Python
   * [파이썬에서 정규표현식 사용하기](https://jungwoon.github.io/python/2018/03/15/Data-Analysis-With-Python-2/)
 * self
   * [Self Reference in Python](http://baruchel.github.io/blog/python/2015/07/16/self-reference-in-python/)
+  * [파이썬에서 self가 꼭 필요할까?](https://lazymatlab.tistory.com/121)
 * serialization
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
   * [파이썬 객체의 직렬화와 역직렬화: 1부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)
