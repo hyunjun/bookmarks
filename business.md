@@ -532,6 +532,7 @@ Business
 * [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
 * [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77) RICE와 비교
 * [3. 당신은 할 일들의 우선순위를 어떻게 판단하시나요?](https://maily.so/boost.life.density/posts/1dd70d5a)
+* [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
 
 # 조직 구조
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
