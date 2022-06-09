@@ -515,6 +515,7 @@ Book
 * (NOT YET) [다산의 마지막 질문 | 조윤제 | 청림출판 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788935213733)
 * (NOT YET) [조선 선비 설악에 들다 | 권혁진 | 문자향 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788990535498)
 * (NOT YET) 세계질서와 문명등급 [문명을 서열화한 서구 중심의 ‘세계질서’ 비판 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1040878.html)
+* (NOT YET) [짱개주의의 탄생](https://www.nocutnews.co.kr/news/5769499)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
