@@ -2634,6 +2634,7 @@ Javascript
   * 이는 앞으로 Node 코어에 새로운 모듈을 만들 때 npm에 있는 기존 모듈과 충돌 방지
 * [Faster initialization of instances with new class features · V8](https://v8.dev/blog/faster-class-features)
 * [What I Don't Like About Node.js 18 | JavaScript in Plain English](https://javascript.plainenglish.io/critic-on-node-18-3eda9e1a7644)
+* [Ajax with Node JS CRUD - Create, Read, Update Delete MySQL Data using Express JS | Webslesson](https://www.webslesson.info/2022/06/ajax-with-node-js-crud-create-read-update-delete-mysql-data-using-express-js.html)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
