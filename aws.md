@@ -1080,6 +1080,7 @@ AWS
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
 * [End Cold Starts in Your Serverless Apps with AWS Lambda Provisioned Concurrency](https://www.youtube.com/watch?v=EML6FKBdsNU)
 * [Cold Starts in AWS Lambda | Mikhail Shilkov](https://mikhail.io/serverless/coldstarts/aws/)
+* [Correlation between Lambda Code Patterns and Cold-Start | by HipoKing | Monday 9 PM | Jun, 2022 | Medium](https://medium.com/monday-9-pm/correlation-between-lambda-code-patterns-and-cold-start-a4a2e8272a8f)
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
 * [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
 * [람다, 모르고 쓰면 병이다](http://jybaek.tistory.com/749)
