@@ -995,6 +995,7 @@ Scala
     * [A Preview of Logging in ZIO 2.0](https://ziverge.com/blog/a-preview-of-logging-in-zio-2/)
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
     * [Introducing Scopes in ZIO 2.0 | Medium](https://murraytodd.medium.com/zio-20-scopes-b583f487c0af)
+    * [Structuring ZIO 2 applications](https://softwaremill.com/structuring-zio-2-applications/)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
@@ -1009,6 +1010,7 @@ Scala
     * [About capture checking. in scala 3 | by Oleg Nizhnik | Feb, 2022 | Medium](https://medium.com/@odomontois/several-days-ago-we-saw-the-new-experimental-feature-called-capture-checking-was-announced-in-e4aa9bc4b3d1)
     * [Grokking ZIO. After a long evolutionary journey, the… | by Murray Todd Williams | Apr, 2022 | Medium](https://murraytodd.medium.com/grokking-zio-ac8fed5e6528)
     * [Building High-Performance Notification Engine Using Pure Functional Scala, ZIO HTTP, ZIO Kafka. Event-Driven Architecture. | LinkedIn](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/)
+    * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1445,6 +1447,7 @@ Scala
   * [Gallia: A Library for Data Transformation | by Anthony Cros | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
 * [graphql4s - Another GraphQL interpreter for Scala based on specification graphql/draft](https://github.com/joacovela16/graphql4s)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
+* [hexdump4s: Example application demonstrating use of scala-cli, scodec, and fs2](https://github.com/scodec/hexdump4s)
 * IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
 * [Izumi Project](https://izumi.7mind.io/)
   * [izumi: Productivity-oriented collection of lightweight fancy stuff for Scala toolchain](https://github.com/7mind/izumi)
@@ -1957,6 +1960,8 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
 * [My Dos and Donts in sbt Build Definitions](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions)
 * [Different Ways to Package a Simple Scala Application | Baeldung on Scala](https://www.baeldung.com/scala/package-app) SBT Assembly, SBT Native Packager, Jlink, SBT ProGuard, Scala-CLI
+* [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
+  * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
