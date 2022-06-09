@@ -844,6 +844,7 @@ Docker
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Kubernetes Tutorial for Beginners | 2 Hours Course With Example | JavaTechie - YouTube](https://www.youtube.com/watch?v=gMmcRbd8L5Y)
 * [Kubernetes Tutorial for Beginners with Practice labs | K8S for Beginners - YouTube](https://www.youtube.com/watch?v=TXMCoJf3vSM)
+* [Basics of Kubernetes - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVYcilrX349DRs4qGgiCkRTi)
 * [Learn Kubernetes with this Introductory Course in One Hour (All Core Components and Hands On!) - YouTube](https://www.youtube.com/watch?v=n4zxKk2an3U)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * Kubernetes
