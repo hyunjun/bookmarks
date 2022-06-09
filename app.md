@@ -2085,6 +2085,7 @@ App
   * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 | 요즘IT](https://yozm.wishket.com/magazine/detail/1381/)
   * [WSL2 에서 React.js 개발환경 설정하기](https://velog.io/@wongue_shin/WSL2-%EC%97%90%EC%84%9C-react-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   * [WSL 활용을 위한 설명 링크 모음 | 웹으로 말하기](https://mytory.net/2022/05/03/WSL-notes.html)
+  * [윈도우 서버 2022에 WSL 2 설치하고 서버 역할로 돌리는 법](https://velog.io/@composite/%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2022%EC%97%90-WSL-2-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B2%95)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
