@@ -335,6 +335,7 @@ ElasticSearch - Lucene
 * [The Future of Search Is Boutique | Future](https://future.a16z.com/the-future-of-search-is-boutique/)
   * ['검색의 미래'에 대한 참고글](https://c-rocket.net/boutique_search_engine_azout/)
   * [검색의 미래는 부티크다 (a16z 글 번역 및 요약) | GeekNews](https://news.hada.io/topic?id=6538)
+  * [검색의 미래 그리고 진실의 순간](https://brunch.co.kr/@graypool/466)
 * [Elasticsearch 검색에서 확률 사용하기](https://tech.buzzvil.com/blog/probability-in-es-search/)
 
 # Book
