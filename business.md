@@ -507,6 +507,7 @@ Business
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
 * [명확하게 요구해야 하는 3가지 이유](http://moneyman.kr/archives/3949)
+* [아무 것도 하지 않으면 아무 일도 일어나지 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242688)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
