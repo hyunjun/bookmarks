@@ -252,7 +252,6 @@ Programming Books
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
-* (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
 * (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
   * 한라
   * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
@@ -1916,6 +1915,9 @@ Programming Books
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
+* (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
+  * 한라 325.23-장73ㄴ
+* (NOT YET) [ 초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
