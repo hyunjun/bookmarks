@@ -1994,6 +1994,7 @@ Programming
 * [성숙기 들어선 클라우드 세계의 새로운 문제점 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/187633)
 * [기업용 클라우드 비용 최적화: 도구과 사례 | 슬로우뉴스](https://slownews.kr/79903)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
+* [개발자가 알아야 할 클라우드 비용 절감 팁 12가지 - CIO Korea](https://www.ciokorea.com/news/239194)
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
