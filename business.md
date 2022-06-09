@@ -395,6 +395,7 @@ Business
   * 이 정도로 이야기할 수 있다는 건 그만큼 엔지니어가 우대받는 문화의 회사이기 때문에 가능한 이야기
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
+* [커리어 변화 = 트리거 × 우연](https://www.linkedin.com/feed/update/urn:li:activity:6940252781563785217/)
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
 * [이메일, 슬랙, 메신저…다 버리자! | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/hive-mind/) 프로세스 개선에 대한 이야기
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
