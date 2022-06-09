@@ -134,6 +134,7 @@ Monitoring
   * [프론트엔드 에러 로그 시스템 Sentry 적용기](https://tech.urbanbase.com/dev/2021/03/04/Sentry.html)
   * [Sentry로 사내 에러 로그 수집 시스템 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/log-collection-system-sentry-on-premise/)
   * [라이브 서비스의 친구 Sentry. 이호성 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=28PAPRLit4Q)
+  * [Sentry로 우아하게 프론트엔드 에러 추적하기 | Kakao Pay Tech](https://tech.kakaopay.com/post/frontend-sentry-monitoring)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [SkyWalking - Apache SkyWalking Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures](https://skywalking.apache.org/)
 * [squzy: Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love](https://github.com/squzy/squzy)
