@@ -260,6 +260,7 @@ Open Source
   * [오픈소스 라이선스 변화의 흐름 | GeekNews](https://news.hada.io/topic?id=4991)
 * [NASA "오픈소스 정확한 의미 모르는 개발자 많아" - ZDNet korea](https://zdnet.co.kr/view/?no=20211111154404)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
+  * [오픈소스 검증 도구: OLIVE CLI 소개 – tech.kakao.com](https://tech.kakao.com/2022/06/09/olive-cli/)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
