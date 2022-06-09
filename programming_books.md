@@ -429,7 +429,8 @@ Programming Books
   * 애월, 동부
 * (NOT YET) [쉽게 배우는 AWS AI 서비스](https://hanbit.co.kr/store/books/look.php?p_code=B2949290774)
   * 한라
-* (NOT YET) AWS로 시작하는 인프라 구축의 정석 [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
+* (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
+  * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
 
 # Android
 
