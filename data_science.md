@@ -369,6 +369,7 @@ Data Science
 * [Modern Data Stack for Startups. “Use the right tool for the job!” | by cyber-venom003 | Nybles | Medium](https://medium.com/nybles/modern-data-stack-for-startups-b63bc383e1d0)
 * [Data Engineering: Major Technologies To Learn In 2022 | by Chandan Kumar | Jan, 2022 | Medium](https://algochan0310.medium.com/data-engineering-major-technologies-to-learn-in-2022-eb879de59cc5)
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
+* [Roadmap to a Successful Data Engineer - Rock the JVM Blog](https://blog.rockthejvm.com/roadmap-to-successful-data-engineer/)
 * [카우레터 B컷 중대재해 데이터를 공개합니다 - alookso](https://alook.so/posts/Vnt45o)
 * [Foundational Infrastructure to Create a Successful Data Science Team | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vM26QPTOPVk)
 * [Bridging Data and Business - Sylvia Lee | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=B0MgNqYn15I)
