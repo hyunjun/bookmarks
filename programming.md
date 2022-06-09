@@ -1758,6 +1758,7 @@ Programming
 * [Smart Step-Into for Microservices Debugging | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2022/02/smart-step-into-for-microservices-debugging/)
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
 * [Managing Technical Debt in a Microservice Architecture](https://www.infoq.com/articles/managing-technical-debt-microservices/)
+* [MSA 환경에서 네트워크 예외를 잘 다루는 방법 | Kakao Pay Tech](https://tech.kakaopay.com/post/msa-transaction)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
