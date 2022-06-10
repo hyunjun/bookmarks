@@ -1170,6 +1170,7 @@ Java
   * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
   * [Sorting and Reporting Your Dependencies with Gradle - Speaker Deck](https://speakerdeck.com/sp4ghetticode/sorting-and-reporting-your-dependencies-with-gradle)
   * [Gradle 7.4 Introduces Aggregated Test Reports](https://www.infoq.com/news/2022/03/gradle-7-4/)
+  * [테스트 의존성 관리로 높은 품질의 테스트 코드 유지하기](https://toss.tech/article/how-to-manage-test-dependency-in-gradle)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Helidon Project](https://helidon.io/) GraalVM native image support
   * [Build REST APIs and Native Java Apps with Helidon | Okta Developer](https://developer.okta.com/blog/2022/01/06/native-java-helidon)
