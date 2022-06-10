@@ -61,6 +61,7 @@ Google Cloud Platform GCP
 * [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
 * [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
 * [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
+* [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
