@@ -337,6 +337,7 @@ ElasticSearch - Lucene
   * [검색의 미래는 부티크다 (a16z 글 번역 및 요약) | GeekNews](https://news.hada.io/topic?id=6538)
   * [검색의 미래 그리고 진실의 순간](https://brunch.co.kr/@graypool/466)
 * [Elasticsearch 검색에서 확률 사용하기](https://tech.buzzvil.com/blog/probability-in-es-search/)
+* [Datastream - 새로운 Elasticsearch 데이터 구조 이해하기 - YouTube](https://www.youtube.com/watch?v=JqKDIg8fgd8)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
