@@ -900,6 +900,8 @@ Python
   * [How to Bruteforce a Hash from Windows Hash File in Python](https://www.thelinuxrain.com/articles/how-to-bruteforce-a-hash-from-windows-hash-file-in-python)
   * [Hashing it Out – Akshay's Blog](https://akshayr.me/blog/articles/python-dictionaries)
   * [How to DeDuplicate in Python using Hashing Technique - YouTube](https://www.youtube.com/watch?v=C5SS8ftNxPc)
+* hashlib
+  * [패스워드와 토큰 자체 발행 - 이상선 - Medium](https://medium.com/@sunyi233/%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C%EC%99%80-%ED%86%A0%ED%81%B0-%EC%9E%90%EC%B2%B4-%EB%B0%9C%ED%96%89-4984d672f0c3) hashlib, base64, uuid
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
