@@ -1826,6 +1826,7 @@ Docker
 * [Man Seok Techne Schoe: macOS (M1) 환경에서 Docker 를 대치할 만한 것들](https://manseok.blogspot.com/2022/04/macos-m1-docker.html) podman minikube multipass lima
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
+  * [Debugging containerd. containerd is the container runtime… | by Sam Lockart | Jun, 2022 | Zendesk Engineering](https://zendesk.engineering/debugging-containerd-a20f28a2a8bf)
   * [containerd-the-hard-way](https://github.com/JeongsikKang/containerd-the-hard-way)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
