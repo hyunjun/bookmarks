@@ -1043,6 +1043,19 @@ NLP
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
+  * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
+  * [Firebase Cloud Messaging 용 API KEY는 어디에서 찾을 수 있습니까? - 리뷰나라](http://daplus.net/firebase-firebase-cloud-messaging-%EC%9A%A9-api-key%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C/)
+  * [플러터 + 파이어베이스 로그인 연동 <firebase admin 설정> part-6 :: 개발하는남자](https://sudarlife.tistory.com/entry/flutter-firebase-auth-%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%B0%EB%8F%99-firebase-admin-%EC%84%A4%EC%A0%95-part-6)
+  * [#18 그림 그리는 AI, DALL-E | by AI Network | AI Network_KR | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-18-%EA%B7%B8%EB%A6%BC-%EA%B7%B8%EB%A6%AC%EB%8A%94-ai-dall-e-d982209ba995)
+    * [scy6500/DALLE-server](https://ainize.ai/scy6500/DALLE-server)
+  * [구글 소셜 로그인 Client ID와 Client Secret Key 설정방법 | 메디프레스](https://medipress.co.kr/archives/2147)
+  * [How to understand the Google Redirect URI correctly? - Stack Overflow](https://stackoverflow.com/questions/28623891/how-to-understand-the-google-redirect-uri-correctly)
+  * [test – 프로젝트 설정 – Firebase Console](https://console.firebase.google.com/project/test-ef755/settings/serviceaccounts/adminsdk)
+  * [서비스 계정 – IAM 및 관리자 – test – Google Cloud Platform](https://console.cloud.google.com/iam-admin/serviceaccounts?authuser=0&project=test-ef755&hl=ko&pli=1)
+  * [사용자 인증 정보 – API 및 서비스 – test – Google Cloud Platform](https://console.cloud.google.com/apis/credentials?project=test-ef755)
+  * [OpenAI API](https://openai.com/api/)
+    * [Account API Keys - OpenAI API](https://beta.openai.com/account/api-keys)
+  * [클라이언트 ID 만들기  |  App Engine용 Cloud Endpoints Frameworks  |  Google Cloud](https://cloud.google.com/endpoints/docs/frameworks/python/creating-client-ids?hl=ko&_ga=2.196418476.-1452048031.1654761680)
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
