@@ -2432,6 +2432,7 @@ Programming Books
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
   * 한라
+* (NOT YET) [동시성 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
 
 # Scala
 
