@@ -841,6 +841,7 @@ Business
 * [피드백, 효과적으로 하는 2가지 방법](https://brunch.co.kr/@flexteam/74) 4A, AAT
 * [직원의 사기를 꺾지 않고 지적하는 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=21472652&memberNo=1464463)
 * [싸우자는 게 아니라 피드백입니다](https://brunch.co.kr/@workingus/79)
+* [피드백이 없으면 큰일나는 이유 & 조해리의 창](https://blog.naver.com/simzi66/222071895101)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
