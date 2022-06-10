@@ -465,6 +465,7 @@ Python
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 3)](https://patrickbrianmooney.tumblr.com/post/677564280839831552/some-notes-on-writing-parser-based-interactive)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 4)](https://patrickbrianmooney.tumblr.com/post/677565126620151808/some-notes-on-writing-parser-based-interactive)
 * [OAuth 2 and Authentication Choices for Your Python Project | Real Python Podcast #99 - YouTube](https://www.youtube.com/watch?v=PHCv_3zfM_Y)
+* [Python은 pass-by-value입니다 · 감자도스](https://blog.potados.com/dev/python-is-pass-by-value/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -3710,6 +3711,7 @@ Python
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
   * [practice - download file](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-file_download-md)
   * [practice - authorization token](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-authorization-py)
+  * [practice - put & post](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-put_post-md)
   * [api](http://docs.python-requests.org/en/master/api/)
     * `timeout=(connect timeout, read timeout)`
       * [Handling Timeouts in Python Requests](https://www.youtube.com/watch?v=X8BaCcrWQBg)
