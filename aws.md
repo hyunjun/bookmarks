@@ -1508,6 +1508,7 @@ AWS
 * [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
 * [How a distributed, Amazon SQS compatible queue works | by Tarantool | Jan, 2022 | Medium](https://medium.com/@tarantool/how-a-distributed-amazon-sqs-compatible-queue-works-f936a85f002f)
 * [Amazon SQS 도입기](https://tech.youha.info/78ae4e5d-c7bb-4bd3-9a6c-8585af17977d)
+* [AWS Serverless Order Processing System using Lambda, SNS and SQS (Simple Queue Service) - YouTube](https://www.youtube.com/watch?v=nKlaaHlE3tk)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
