@@ -1366,6 +1366,7 @@ Docker
 * [Kubernetes: The Basics | DaemonSets - YouTube](https://www.youtube.com/watch?v=cdY67JqGbIc)
 * [쿠버네티스 실습 랩을 Vagrant가 아닌 이미지로 바로 구성 설치하는 법 - YouTube](https://www.youtube.com/watch?v=KxhSWf0ObEU)
 * [Welcome Tilt: Fixing the pains of microservice development for Kubernetes - Docker](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
+* [K8s Session 1 : Kubernetes for beginners #Devops #CICD #Kubernetes #Docker - YouTube](https://www.youtube.com/watch?v=aWtdxQBk73w)
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
 * [Kubernetes Installation Methods The Complete Guide | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-installation-methods-the-complete-guide-1036c860a2b3)
 * [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
