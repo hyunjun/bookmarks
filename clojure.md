@@ -709,6 +709,7 @@ Clojure
 * [제6회 - 2017.11.11 @D2 Startup Factory](https://gist.github.com/ksseono/db476b75f63d98fd0b459d2746913318)
   * [클로저 소개 - 제6회 리스프 세미나 발표](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%86%8C%EA%B0%9C-%EC%A0%9C6%ED%9A%8C-%EB%A6%AC%EC%8A%A4%ED%94%84-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%B0%9C%ED%91%9C-dc6700e0821d)
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
+* [(Clojure) 2022 meetup+ greenlabs - YouTube](https://www.youtube.com/watch?v=BdSoNmWksuk)
 * [Brian Goetz prefers Clojure over Scala and Kotlin on the JVM (Java language architect) nipafx clip - YouTube](https://www.youtube.com/watch?v=GedrGWu16_I)
 * [A History of Clojure by Rich Hickey with Q&A - YouTube](https://www.youtube.com/watch?v=nD-QHbRWcoM)
   * [PLDI 2021: A History of Clojure](https://www.pldi21.org/prerecorded_hopl.11.html)
