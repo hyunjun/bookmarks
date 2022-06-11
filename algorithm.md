@@ -10,9 +10,6 @@ Algorithm
   * [Moar Math!](http://andromeda-express.com/wfcamp/#slide1)
 * [2015-2017 가을학기 자료구조 및 실습](https://www.youtube.com/playlist?list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz)
 * [Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/)
-* [OpenDSA - infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages](https://opendsa-server.cs.vt.edu/)
-  * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
-* [thewalnut.io](https://thewalnut.io)
 * [Intel ME (Manageability engine) Huffman algorithm](http://io.smashthestack.org/me/)
 * [Basics of Huffman Coding](http://bertolami.com/index.php)
 * [BaseClass - What is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
@@ -99,10 +96,6 @@ Algorithm
   * [Shazam은 어떻게 동작하는가? | GeekNews](https://news.hada.io/topic?id=6047)
 * [그렙, 알고리즘 학습 서비스 무료로 공개](http://www.bloter.net/archives/256397)
 * [Coder's high 2016](http://coders-high.com/)
-* [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me)
-  * [ipytracer - Algorithm Visualizer for Jupyter/IPython Notebook](https://github.com/sn0wle0pard/ipytracer)
-* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
 * [자료구조와 알고리즘 with C++](http://ehpub.co.kr/1-%EC%86%8C%EA%B0%9C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-with-c/)
 * [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
@@ -174,7 +167,6 @@ Algorithm
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
   * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo)
-* [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
 * [**알고리즘 학습에 대한 조언**](https://www.haruair.com/blog/4546)
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
@@ -592,6 +584,19 @@ Algorithm
 
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
+
+# Library
+* [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
+* [Algorithm Visualizer](https://algorithm-visualizer.org/)
+  * [ipytracer - Algorithm Visualizer for Jupyter/IPython Notebook](https://github.com/sn0wle0pard/ipytracer)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [OpenDSA - infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages](https://opendsa-server.cs.vt.edu/)
+  * [OpenDSA: Understand algorithms with visualizations](http://algoviz.org/OpenDSA/Books/Everything/html/)
+* [OR-Tools  |  Google Developers](https://developers.google.com/optimization)
+  * [or-tools: Google's Operations Research tools:](https://github.com/google/or-tools)
+  * [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html)
+* [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
+* [thewalnut.io](https://thewalnut.io)
 
 # Linked List
 * [An introduction to linked lists: the why, the what, and the how](https://medium.freecodecamp.org/linked-lists-why-what-and-how-f96b04790ac4)
