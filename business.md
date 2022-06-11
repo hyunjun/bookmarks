@@ -988,6 +988,7 @@ Business
 * [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
 * [직장에서 ‘심리적 안정감’의 중요성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232129)
 * [절박해야 성공한다고? | ㅍㅍㅅㅅ](https://ppss.kr/archives/240758) 심리적 안정감
+* [똑똑한 직원들을 모아두고도, 바보 같은 결과물 내는방법](https://brunch.co.kr/@elfpenguin/327) 심리적 안정감
 * [팀의 구성원들이 실력을 발휘하기 위해서는 안전함을 느껴야 한다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250546)
 * [구글은 생동감 있는 조직을 만들기 위해 어떤 환경을 조성할까? : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=27447489) 심리적 안정감
 * [위기에 강한 조직의 심리적 안전감](https://camp.lemonbase.com/psychologicalsafety0)
