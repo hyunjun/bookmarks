@@ -406,6 +406,7 @@ Business
   * 1) 회사 업무와 관련된 도메인에 관심 2) 자기 동기부여 3) 주도적 업무 처리 4) 열린 마인드 5) 긍정적인 사고
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+* [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167) 비즈니스쪽에 이야기할 개발자와 일 잘 하는 방법
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
