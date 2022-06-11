@@ -1336,6 +1336,7 @@ Business
 * [Shreyas Doshi on Twitter: "Product-Market fit is often viewed as a static concept: either you have it or you don’t. In my experience, it is better to think of fit as a dynamic state based on your progress towards your vision & know what fit you currently have. Check out the 4 Types of Product-Market fit: https://t.co/TARAJGmJvd" / Twitter](https://twitter.com/shreyas/status/1426594663671107585)
   * [Product-Market Fit 의 4가지 종류 | GeekNews](https://news.hada.io/topic?id=6564)
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
+* [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
