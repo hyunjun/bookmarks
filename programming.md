@@ -3269,6 +3269,7 @@ Programming
 * [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
   * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
   * [command line - How to reduce the file size on JPEG images in batch (/Mac)? - Stack Overflow](https://stackoverflow.com/questions/50985087/how-to-reduce-the-file-size-on-jpeg-images-in-batch-mac)
+  * `magick mogrify -monitor -format jpg *.HEIC` [Convert HEIC to JPG on Mac - WPLauncher](https://blog.wplauncher.com/convert-heic-to-jpg-on-mac/)
 * [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
   * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
@@ -3694,6 +3695,7 @@ Programming
   * [5월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/05/b-5-2.html)
   * [5월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/05/b-5-4.html)
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/06/b-6.html)
+  * [6월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-2.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [init-news • init-news](https://news.in-it.io/)
 * [news.hada.io](https://news.hada.io/)
