@@ -84,3 +84,4 @@ Robot
 * [강의 계획서 - ROS for G Camp](https://www.notion.so/ROS-for-G-Camp-410d95df137d403ca176cfec4822351a)
   * [gcamp_ros_basic](https://github.com/Road-Balance/gcamp_ros_basic)
 * ['ROS2_Roadbalance' 태그의 글 목록](https://m-hackathon.tistory.com/tag/ROS2_Roadbalance)
+* [bluerov2: Scripts to help BlueRov2 integration with ROS and UUV Simulator](https://github.com/fredvaz/bluerov2)
