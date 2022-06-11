@@ -2637,6 +2637,8 @@ Javascript
 * [Faster initialization of instances with new class features · V8](https://v8.dev/blog/faster-class-features)
 * [What I Don't Like About Node.js 18 | JavaScript in Plain English](https://javascript.plainenglish.io/critic-on-node-18-3eda9e1a7644)
 * [Ajax with Node JS CRUD - Create, Read, Update Delete MySQL Data using Express JS | Webslesson](https://www.webslesson.info/2022/06/ajax-with-node-js-crud-create-read-update-delete-mysql-data-using-express-js.html)
+* [10 best practices every Node.js developer must follow | by Amine El Were | Medium](https://medium.com/@amine.elwer/10-best-practices-every-node-js-developer-must-follow-95ce4ca74cc4)
+* [Microservices with NodeJS: Benefits & 6 Best Practices | by Terasol Technologies | Medium](https://terasol.medium.com/exploring-microservices-with-node-js-benefits-6-best-practices-88b18aa0c3bc)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2780,6 +2782,7 @@ Javascript
   * [Express vs Fastify performance. The goal of this article is to find out… | by Sergey Onufrienko | Medium](https://medium.com/@onufrienkos/express-vs-fastify-performance-4dd5d73e08e2)
   * [A Fast Introduction to Fastify (NodeJS Web Framework) - YouTube](https://www.youtube.com/watch?v=pGhWPDlF2sM)
   * [Fastify Package Generator](https://fastify.github.io/pacchetto/)
+  * [Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium](https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
@@ -4486,6 +4489,7 @@ Javascript
 * [Static Methods Not Supported in TypeScript Interfaces | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/static-methods-not-supported-in-typescript-interfaces-54a01e1e46ea)
 * [Building PGN Blocks With TypeScript | by Jordi Bassaganas | CodeX | Apr, 2022 | Medium](https://medium.com/codex/building-pgn-blocks-with-typescript-d1ddd58e42ff)
 * [TypeScript에서 전역 개체 타입은 어떻게 정의하나요? | Huns.me](https://huns.me/2022-05-22-43-TypeScript%EC%97%90%EC%84%9C%20%EC%A0%84%EC%97%AD%20%EA%B0%9C%EC%B2%B4%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EB%82%98%EC%9A%94)
+* [Advanced TypeScript With Code Challenges: Awaited Type | by Marius Bongarts | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-awaited-type-e823a3b3dc3d)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
@@ -4494,6 +4498,7 @@ Javascript
   * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
+* [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
