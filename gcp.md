@@ -62,6 +62,8 @@ Google Cloud Platform GCP
 * [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
 * [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
 * [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
+* [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
+* [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
@@ -147,12 +149,12 @@ Google Cloud Platform GCP
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
 * [What is Google Dataplex? — The Data Fabric | by Christianlauer | CodeX | Mar, 2022 | Medium](https://medium.com/codex/what-is-google-dataplex-the-data-fabric-a6faf37e746f)
-* [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Growing Concerns among Developers about Google Cloud Price Increases](https://www.infoq.com/news/2022/03/google-cloud-prices/)
 * [Measuring container size and startup latency for serverless apps written in C#, Node.js, Go, and Java – Richard Seroter's Architecture Musings](https://seroter.com/2022/04/18/measuring-container-size-and-startup-latency-for-serverless-apps-written-in-c-node-js-go-and-java/)
 * [How to cope with large Data in Production Halls with Google Cloud | by Christianlauer | CodeX | May, 2022 | Medium](https://medium.com/codex/how-to-cope-with-large-data-in-production-halls-with-google-cloud-a0c4a34ad8e7)
 * [Google Cloud Networking overview | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview)
 * [Google Cloud Speech API (STT library)와 Unicode 인코딩 문제를 해결한 후기 :: 뇌장하드](https://devming.tistory.com/224)
+* [Using the Natural Language API to Classify Unstructured Text in GCP | by Abhishek Shah | Jun, 2022 | Medium](https://medium.com/@jwbtmf/using-the-natural-language-api-to-classify-unstructured-text-in-gcp-cd211e952bf1)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
