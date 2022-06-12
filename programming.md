@@ -1445,6 +1445,7 @@ Programming
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
+* [SMI | A standard interface for service meshes on Kubernetes](https://smi-spec.io/)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [**Service Mesh 란?**](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
