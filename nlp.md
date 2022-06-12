@@ -1897,6 +1897,7 @@ NLP
 * [Transcribe Audio and Use Speech Recognition in Python - YouTube](https://www.youtube.com/watch?v=L0N2Ve9vhPk)
 * [이렇게 사용하세요! AI 음성인식 API로 음성 변환 서비스 쉽게 만들 (CLOVA Speech Recognition, CSR)](https://blog.naver.com/n_cloudplatform/222583556230)
 * [Neural Instrument Cloning from very few samples](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6)
+* [NDC22 "선생님과 눈을 맞추고 이름을 불러주는 '아로나' 만들기"](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151132)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
