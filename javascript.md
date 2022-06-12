@@ -3558,6 +3558,7 @@ Javascript
 * [React Developer Log, Sprint 3 - Contact Us Page, Intro to wrappers and map API - YouTube](https://www.youtube.com/watch?v=y_T14e-d8As)
 * [How to Install React App in Seconds - YouTube](https://www.youtube.com/watch?v=JNPPj2OdW9U)
 * [React CSS-in-JS 시스템 만들기 | pyjun01](https://pyjun01.github.io/v/css-in-js/)
+* [Responsive React Movies App With API | ReactJS Movies | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=PCBUcSoiEu4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
