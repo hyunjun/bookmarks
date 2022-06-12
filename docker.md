@@ -1091,8 +1091,6 @@ Docker
 * [arisu1000.tistory.com/category/Kubernetes](https://arisu1000.tistory.com/category/Kubernetes)
 * [구글 클라우드 스터디잼 (심화)  가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
-* [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
-* [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
 * [Kubernetes at Scale without GitOps Is a Bad Idea – The New Stack](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
 * [Kubernetes Deep Dive: Kubelet. Part 24 of a series of articles about… | by Tony Li Xu | AWS in Plain English](https://aws.plainenglish.io/kubernetes-deep-dive-kubelet-e4527ed56f4c)
@@ -1457,6 +1455,9 @@ Docker
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
+* [Flux](https://fluxcd.io/)
+  * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
+  * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
 * [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
@@ -1589,7 +1590,8 @@ Docker
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
   * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
-* [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
+* [Kustomize - Kubernetes native configuration management](https://kustomize.io/)
+  * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Kyverno](https://kyverno.io/)
   * [Best practices and lessons learnt from running Kyverno in production kubernetes | by amitagarwal | Feb, 2022 | Medium](https://amit-agarwal.medium.com/best-practices-and-lessons-learnt-from-running-kyverno-in-production-kubernetes-cd1bbecd2305)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
