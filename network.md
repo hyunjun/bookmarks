@@ -298,6 +298,7 @@ Network
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 * Wireshark
   * [Decrypting your own HTTPS traffic with Wireshark – Trickster Dev](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/)
+  * [네트워크 성능 문제를 해결하는 필수 오픈소스 툴 ‘와이어샤크’ - ITWorld Korea](https://www.itworld.co.kr/news/239629)
   * [packet-analyzer - a simple Wireshark frame dissector plugin written in Lua](https://github.com/shanicohen1902/packet-analyzer)
 
 # Protocol
