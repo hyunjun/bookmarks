@@ -147,6 +147,7 @@ Business
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
+* [한국인 구글러 1호는 왜 야놀자로 옮겼을까? (f.이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061018347779901) 조직문화
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
 * [Man Seok Techne Schoe: Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://manseok.blogspot.com/2022/04/samsung-electronics-cultural-issues-are.html)
   * 2022 현재 삼성의 문제점에 대한 이야기
