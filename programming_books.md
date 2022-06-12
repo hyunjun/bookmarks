@@ -1894,6 +1894,11 @@ Programming Books
   * [그들은 어떻게 재택근무로 최고의 성과를 올렸나](https://github.com/hyunjun/bookmarks/blob/master/programming_books/telework.md)
   * [그들은 어떻게 재택근무로 최고의 성과를 올렸나. 너무 직접적인 제목이나 책의 조판등은 크게 매력적으로 보이지 않았으나… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4%EB%A1%9C-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%98%AC%EB%A0%B8%EB%82%98-b66e2bafcf5)
   * [그들은 어떻게 재택근무로 최고의 성과를 올렸나](https://jh4hj.tistory.com/entry/%EA%B7%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4%EB%A1%9C-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%84%B1%EA%B3%BC%EB%A5%BC-%EC%98%AC%EB%A0%B8%EB%82%98)
+* [네이키드 애자일](https://imch.dev/posts/naked-agile)
+  * 한라 325.23-장73ㄴ
+  * ★★★★☆ 2022.06.12
+  * [네이키드 애자일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/naked_agile.md)
+  * [네이키드 애자일. 무엇보다 정답을 (제시할 수 없는 주제라는 걸 알고) 제시하지 않는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%84%A4%EC%9D%B4%ED%82%A4%EB%93%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-7347be4b1f71)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1916,8 +1921,6 @@ Programming Books
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
-* (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
-  * 한라 325.23-장73ㄴ
 * (NOT YET) [ 초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
 
 ## Management Leadership
