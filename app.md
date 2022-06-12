@@ -1419,6 +1419,7 @@ App
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [Free Flowchart Creator and Workflow Diagram Apps – A Guide for Managers](https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/)
 * [How to Create Application Architecture Diagram Online?](https://geekflare.com/create-application-architecture-diagram/) Edraw Max, ProcessOn, Creately, Mindmeister, yED, Visual Paradigm
+* [Mermaid vs PlantUML vs HackerDraw: Which One Is Best For You? - YouTube](https://www.youtube.com/watch?v=tPh9_Cx4yZY)
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
@@ -1441,9 +1442,10 @@ App
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
   * [문자열로 플로우차트 생성하기 | GeekNews](https://news.hada.io/topic?id=3816)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
-* [Kinopio](https://kinopio.club/)
+* [HackerDraw | Diagramming Made Easy](https://www.hackerdraw.com/)
 * [IcePanel | Solution | System docs for visual people](https://icepanel.io/)
 * [Isoflow](https://isoflow.io/)
+* [Kinopio](https://kinopio.club/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io/mermaid/)
   * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
