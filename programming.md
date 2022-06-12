@@ -4536,6 +4536,7 @@ Programming
 * [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
 * [How I Accidentally Deleted 7TB of Videos Before Going To Production](https://blog.thevinter.com/posts/vimeo)
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
+* [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
