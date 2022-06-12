@@ -1262,6 +1262,7 @@ Programming
 * [Insider Front-End Architecture | Insider Engineering](https://medium.com/insiderengineering/front-end-architecture-part-%E2%85%B0-d5d1c6f87f12)
 * [대기업의 ‘토스처럼’과 ‘원 앱’ 전략 | 요즘IT](https://yozm.wishket.com/magazine/detail/1509/)
 * [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요 - YouTube](https://www.youtube.com/watch?v=v9rcKpUZw4o)
+* [프론트엔드 아키텍처: Business Logic의 분리. 왜 프론트엔드 아키텍처에 관심을 가져야 할까? | by 이문기 | Jun, 2022 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
