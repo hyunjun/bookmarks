@@ -342,6 +342,7 @@
 * [Let's Take The Adapter Design Pattern To The Next Level - YouTube](https://www.youtube.com/watch?v=fsB8_79zI_A)
 * [**betterpython: Code examples for my Write Better Python Code series on YouTube**](https://github.com/arjancodes/betterpython)
   * [**Software Design in Python - YouTube**](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
+* [**python-patterns: A collection of design patterns/idioms in Python**](https://github.com/faif/python-patterns)
 * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
 
 # Ruby
