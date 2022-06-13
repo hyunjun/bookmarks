@@ -3807,6 +3807,7 @@ Javascript
   * [Context API - React에서 데이터를 다루는 개념중 하나인 Context API를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/context-api/)
   * [contextAPI 레이어 관리 그리고 테스트](https://blog.naver.com/pjt3591oo/222604995823)
   * [React - Context API - YouTube](https://www.youtube.com/watch?v=JQ_lksQFgNw)
+  * [다른 사람들이 안 알려주는 리액트에서 Context API 잘 쓰는 방법](https://velog.io/@velopert/react-context-tutorial)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
