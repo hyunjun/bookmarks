@@ -428,7 +428,8 @@ Programming Books
 * (NOT YET) [풀스택 서버리스 : 리액트, AWS, 그래프QL을 이용한 최신 애플리케이션 개발](https://hanbit.co.kr/store/books/look.php?p_code=B7015117381)
   * 애월, 동부
 * (NOT YET) [쉽게 배우는 AWS AI 서비스](https://hanbit.co.kr/store/books/look.php?p_code=B2949290774)
-  * 한라
+  * 한라 004.73-엘14ㅅ
+  * [ai-as-a-service: 『쉽게 배우는 AWS AI 서비스』(2022, 한빛미디어)의 예시 코드 저장소입니다](https://github.com/hanbit/ai-as-a-service)
 * (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
   * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
 
@@ -495,7 +496,8 @@ Programming Books
 * [자바 마이크로서비스를 활용한 SRE](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-SRE)
   * [자바 마이크로서비스를 활용한 SRE. SRE는 구글에서 비롯되었다. 대규모 서비스를 하는 회사 특성상… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-sre-f8878efeedba)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
-  * 한라
+  * 한라 005.12-브296ㅁ
+  * [microservices-in-action: Examples and code for Microservices In Action](https://github.com/morganjbruce/microservices-in-action)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
   * 한라
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
@@ -1302,7 +1304,8 @@ Programming Books
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
   * 한라 005.13-이25ㅎ
 * (NOT YET) 쏙쏙 들어오는 함수형 코딩 [갈수록 커지고 복잡해지는 코드, 쉽게 관리하는 방법은 없을까?](https://jpub.tistory.com/1259)
-  * 한라
+  * 한라 005.13-노34ㅎ 탐라 문005.13-노33ㅆ
+  * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 
 # Game
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
@@ -2315,15 +2318,18 @@ Programming Books
 * (NOT YET) [Do it! 점프 투 장고](https://wikidocs.net/105844)
   * [Book Do it! 점프 투 장고](https://sihan-son.github.io/do-it-django/)
 * (NOT YET) [진지한 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2649943562)
+  * 한라 005.133-당76ㅈ 우당 문005.133-당77ㅈ
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
 * (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
   * 탐라 문005.133-오43ㅍ
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
-  * 한라
+  * 한라 005.133-스66ㄸ
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * (NOT YET) [암호화폐 자동매매 시스템 만들기 with 파이썬: 대량의 시뮬레이션과 최적화 전략까지](https://roadbook.co.kr/270)
-  * 한라
+  * 한라 005.133-정54ㅇ
+  * [smtm: 알고리즘 암호화폐 자동매매 시스템](https://smtm.msalt.net/)
 * (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
   * 탐라 문005.133-포58ㅇ
 * (NOT YET) [엑셀 X 파이썬 업무 자동화 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/90)
