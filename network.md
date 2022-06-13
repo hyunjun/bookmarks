@@ -137,6 +137,7 @@ Network
 * [Duck DNS - about](https://www.duckdns.org/about.jsp)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
+* [NextDNS - The new firewall for the modern Internet](https://nextdns.io/)
 
 # HTTP
 * [HTTP ERROR CODE](https://ukjin.tistory.com/2)
