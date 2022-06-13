@@ -100,6 +100,7 @@ Monitoring
   * [Best Practices for Creating Detection Rules With Datadog Security Monitoring | Datadog](https://www.datadoghq.com/blog/writing-datadog-security-detection-rules/)
   * [Datadog 메트릭 데이터를 CSV 파일로 저장하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/28/datadog-log-backup/)
   * [Monitoring AWS Lambda With Datadog | Datadog](https://www.datadoghq.com/blog/monitoring-aws-lambda-with-datadog/)
+  * [Python Logging with Datadog](https://julien.danjou.info/python-logging-with-datadog/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
