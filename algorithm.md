@@ -340,11 +340,12 @@ Algorithm
 
 # Consensus
 * [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
-* [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * [**Byzantine Failure - 블록체인 개발이 어려운 이유**](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)
 * [Protecting Byzantine Fault Tolerance with Trusted Execution](https://hackernoon.com/protecting-byzantine-fault-tolerance-with-trusted-execution-743ab505cb2b)
+* [A review of consensus protocols](https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols)
+* [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 * [Instructors Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)
@@ -356,8 +357,8 @@ Algorithm
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [**Raft 분산 합의 알고리즘과 Python에서의 활용**](https://d2.naver.com/helloworld/5663184)
-* [A review of consensus protocols](https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols)
 * [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://www.infoq.com/presentations/raft-kafka-api/)
+* [Raft Engine: a Log-Structured Embedded Storage Engine for Multi-Raft Logs in TiKV](https://www.infoq.com/articles/raft-engine-tikv-database/)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
