@@ -297,6 +297,7 @@ Bitcoin
 * [지분증명으로 전환을 시도하는 이더리움 - MIT Technology Review](https://www.technologyreview.kr/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%B4-%EC%A7%80%EB%B6%84%EC%A6%9D%EB%AA%85pow%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 * [멘토특강 NFT의 모든것 - YouTube](https://www.youtube.com/watch?v=TTh1OtSpt0A)
 * [하워드 슐츠는 왜 NFT를 들고 컴백했을까? - 티타임즈](https://www.ttimes.co.kr/article/2022052517357716622)
+* [**NDC22 NFT, 게임의 혁명인가 신기루인가?**](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151141)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
