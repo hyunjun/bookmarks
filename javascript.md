@@ -2372,6 +2372,7 @@ Javascript
 * [Node.js Tutorial – Step-by-Step Guide For Getting Started](https://www.airpair.com/javascript/node-js-tutorial)
 * [Best node.js tutorial for beginners | csstack](https://www.csstack.com/node-js-tutorial/)
 * [Node.js Crash Course Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+* [Node.js Tutorial - YouTube](https://www.youtube.com/playlist?list=PLxl69kCRkiI3j7RHumBhAr7MyZ4ehk9Q8)
 * [JavaScript & Node.js](https://www.youtube.com/playlist?list=PLieE0qnqO2kSgBngBK34Yw8jNVovgNJoh)
 * [Node.js: 비동기 프로그래밍 이해](http://www.nextree.co.kr/p7292/)
 * [콜백(callback) 개념 이해하기](http://jybaek.tistory.com/728)
@@ -3304,6 +3305,7 @@ Javascript
   * 상황별 예제코드와 설명이 같이 있어서 이해하기 좋음
 * [김맥스 기술 블로그 | Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect)
 * [Transition : 쉿, 이제 안전해 나의 작은 Suspense | by Hyunsuk Jo | Lunit Team Blog | May, 2022 | Medium](https://medium.com/lunit/transition-%EC%89%BF-%EC%9D%B4%EC%A0%9C-%EC%95%88%EC%A0%84%ED%95%B4-%EB%82%98%EC%9D%98-%EC%9E%91%EC%9D%80-suspense-a39cef55d144)
+* [Understanding the Suspense API in React 18 | by Fernando Doglio | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/understanding-the-suspense-api-in-react-18-bbea3f6f6df1)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Kent C. Dodds 어플리케이션 상태 관리 (Application State Management with React 한글 번역) :: Code Playground](https://im-developer.tistory.com/222)
 * [React 상태관리 | Maeng's Blog](https://maeng2418.github.io/react/state_management/)
@@ -3559,6 +3561,7 @@ Javascript
 * [How to Install React App in Seconds - YouTube](https://www.youtube.com/watch?v=JNPPj2OdW9U)
 * [React CSS-in-JS 시스템 만들기 | pyjun01](https://pyjun01.github.io/v/css-in-js/)
 * [Responsive React Movies App With API | ReactJS Movies | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=PCBUcSoiEu4)
+* [Add Dark Mode in React js App and Website | React js Dark Mode With localStorage - YouTube](https://www.youtube.com/watch?v=5zeuW802NLg)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4227,6 +4230,7 @@ Javascript
 * [Build Discord Clone using REACT.JS | REDUX | Firebase as Backend | For beginners in 2021 | Part 1 | - YouTube](https://www.youtube.com/watch?v=haazYaSys0E)
 * [Discord Clone using ReactJS and Redux | Part 2 | Redux Tutorial in 2021 |Authentication & Deployment - YouTube](https://www.youtube.com/watch?v=CZR2zJNgLcw)
 * [redux를 이용한 컴포넌트 렌더링 최적화. 들어가며 | by Yeongsu Han | 원티드 제품 팀블로그 | Apr, 2021 | Medium](https://medium.com/wantedjobs/redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-7d07e4d7b75f)
+* [Simple Ecommerce Web application | ReactJs & Redux-toolkit | by Bytecode Pandit | Jun, 2022 | Medium](https://bytecodepandit.medium.com/simple-ecommerce-web-application-reactjs-redux-toolkit-719c117203cf)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
