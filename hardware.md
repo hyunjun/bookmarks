@@ -72,6 +72,8 @@ Hardware
   * [기계식 시계는 어떻게 동작하는가 | GeekNews](https://news.hada.io/topic?id=6617)
 * [권석준 칼럼 반도체 칩4동맹과 미국의 패권 | 피렌체의 식탁](https://firenzedt.com/22271)
 * [권석준 칼럼 반도체 칩4동맹과 미국의 패권 2 | 피렌체의 식탁](https://firenzedt.com/22288)
+* [Mario Bros. Clock : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Mario-Bros-Clock/)
+* [Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io](https://mtlynch.io/budget-nas/)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
@@ -347,6 +349,7 @@ Hardware
 * [RPi Zero W, LTE CATM1 내장형 모뎀을 만나 날개를 달다 :: 세상에서 가장 작은 LTE Cat.M1 모듈](https://codezoo.tistory.com/26)
 * [22 Raspberry Pi projects to try in 2022 | Opensource.com](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
 * [Gunnar Wolf• How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
+* [How a Single Raspberry PI made my Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
