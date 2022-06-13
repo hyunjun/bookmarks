@@ -153,6 +153,7 @@ Bitcoin
 * [블록체인 개발의 기초. 블록체인은 한 마디로 노드들의 P2P 연합입니다. 모든 노드는 블록체인… | by 이상선 | Apr, 2022 | Medium](https://medium.com/@sunyi233/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EA%B8%B0%EC%B4%88-e658993301c1)
 * [사이버 공격자들 정조준...블록체인 브릿지들의 세계](https://brunch.co.kr/@delight412/470)
 * [2205.01091 Blockchain in a nutshell](https://arxiv.org/abs/2205.01091)
+* [2022년. 블록체인 개발을 공부해야하는 이유? - YouTube](https://www.youtube.com/watch?v=1yfslVVoL6k)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
