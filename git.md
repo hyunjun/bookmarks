@@ -687,6 +687,7 @@ Git
   * [**Heroku-style deployments with Docker and git tags**](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
   * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
   * [pre-commit 도구로 Git Hook 사용하기 | Engineering Blog by Dale Seo](https://www.daleseo.com/pre-commit/)
+  * [Why & How to Use Git Hooks in ReactJS Application ? - YouTube](https://www.youtube.com/watch?v=ZCXAyd5gcjA)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
