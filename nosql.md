@@ -321,6 +321,7 @@ NoSQL
     * 관계형DB의 ACID 트랜잭션을 지원하는 NoSQL DB
     * 분산 인프라 기반 키-값 구조 저장소와 애플리케이션에 단일 SQL DB처럼 연결되는 추상화 계층 지원
     * 애플이 인수 후 오폰소스로 공개
+  * [tsdb-layer: Time Series and FoundationDB. Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer)
 * [graviton: Graviton Database: ZFS for key-value stores](https://github.com/deroproject/graviton)
 * [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
   * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
@@ -507,6 +508,7 @@ NoSQL
 
 # RocksDB
 * [Libplanet RocksDB 적용기](https://snack.planetarium.dev/kor/2020/04/rocksdb/)
+* [RocksDB Is Eating the Database World | Rockset](https://rockset.com/blog/rocksdb-is-eating-the-database-world/)
 * [Ribbon Filter | RocksDB](http://rocksdb.org/blog/2021/12/29/ribbon-filter.html)
 
 # RYE
