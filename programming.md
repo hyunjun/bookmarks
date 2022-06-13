@@ -459,6 +459,7 @@ Programming
 * [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
 * [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
 * [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
+* [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
@@ -809,6 +810,9 @@ Programming
   * 페이히어에서 모노리스에서 MSA로 전환하면서 저장소가 많이 생기게 되어 Swagger API 문서를 어떻게 관리할지 고민
   * 모든 저장소에 `/docs` 폴더에 Swagger 문서를 배치하도록 규칙을 정하고 이를 한곳에서 볼 수 있도록 `redoc`을 이용해서 각 저장소의 `/docs` 내용을 가져와서 한꺼번에 보여주도록 구현
 * [Design-First Approach to API Development: How to Implement and Why It Works](https://www.infoq.com/articles/design-first-api-development/)
+* [API Platform Landscape](https://twitter.com/bibryam/status/1531316906581495811/photo/1)
+* [Paginating Requests in APIs. | Medium](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
+* [Comparing SOAP vs REST vs GraphQL vs RPC API | AltexSoft](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -1260,6 +1264,7 @@ Programming
   * [Things That Don't Scale, The Software Edition – Dalton Caldwell and Michael Seibel - YouTube](https://www.youtube.com/watch?v=TCPjk8Tpb5c)
 * [Don't blame the developer for what the frameworks did!](https://www.builder.io/blog/dont-blame-the-developer-for-what-the-frameworks-did)
 * [Software Architecture: It Might Not Be What You Think It Is](https://www.infoq.com/articles/what-software-architecture/) 기본 자세(?)
+* [Why You Should Care about Software Architecture](https://www.infoq.com/articles/care-about-architecture/)
 * [Insider Front-End Architecture | Insider Engineering](https://medium.com/insiderengineering/front-end-architecture-part-%E2%85%B0-d5d1c6f87f12)
 * [대기업의 ‘토스처럼’과 ‘원 앱’ 전략 | 요즘IT](https://yozm.wishket.com/magazine/detail/1509/)
 * [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요 - YouTube](https://www.youtube.com/watch?v=v9rcKpUZw4o)
@@ -2071,6 +2076,7 @@ Programming
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
   * [Get a #linux #Ubuntu machine in 10 mins on DigitalOcean Cloud - YouTube](https://www.youtube.com/watch?v=a8a0iPmyMJA)
+  * [DigitalOcean Enters the Serverless Arena with DigitalOcean Functions](https://www.infoq.com/news/2022/05/digitalocean-functions-serverles/)
 * [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 * [GCP Google Cloud Platform](gcp.md)
 * Heroku
@@ -2780,7 +2786,9 @@ Programming
 * [sha 1 - How easy is it in 2022 to find a SHA1 collision? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
 * [media.ccc.de - Practical bruteforce of military grade AES-1024](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
 * [멘토특강 해킹과 보안 BY 박수현 - YouTube](https://www.youtube.com/watch?v=Paa5KU8Cl08)
+* [Google Online Security Blog: Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
+* Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
@@ -3238,6 +3246,8 @@ Programming
   * [메타버스 산업 지도 | GeekNews](https://news.hada.io/topic?id=6357)
   * ["메타버스 업계 지형을 한눈에"··· CB인사이츠, 프레임워크 제시 - CIO Korea](https://www.ciokorea.com/news/232774)
 * [Identity problems get bigger in the metaverse – O’Reilly](https://www.oreilly.com/radar/identity-problems-get-bigger-in-the-metaverse/)
+* [Plumbing for the Metaverse with Universal Scene Description (USD) | by NVIDIA Omniverse | Medium](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
+* [USD Home — Universal Scene Description 22.05 documentation](https://graphics.pixar.com/usd/release/index.html)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
@@ -3269,6 +3279,7 @@ Programming
 * [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
   * [가장 빠른 GIF는 존재하지 않음 | GeekNews](https://news.hada.io/topic?id=6031)
 * [프리 소프트웨어로 구성한 사진작업 워크플로우 | GeekNews](https://news.hada.io/topic?id=6312)
+* [agi-upscale: agi pic viewer](https://github.com/eviltrout/agi-upscale)
 * [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
