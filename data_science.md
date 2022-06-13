@@ -47,6 +47,7 @@ Data Science
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (3/3)](https://cojette.github.io/misunderstoodhero3_3/)
 * [카일데이 : 카일의 데이터 이야기 - YouTube](https://www.youtube.com/playlist?list=PLNC5faq3eyeIe2v-b6KE3DTlzBCokqZoJ)
 * [Full Stack Data Science: The Next Gen of Data Scientists Cohort | by Jay Kachhadia | Towards Data Science](https://towardsdatascience.com/full-stack-data-science-the-next-gen-of-data-scientists-cohort-82842399646e)
+* [Engineers as Data Scientists?. How the Trends of IoT and Big Data can… | by Christianlauer | Jun, 2022 | Medium](https://medium.com/codex/engineers-as-data-scientists-a07112667b18)
 * [Data Science Career Ladder - YouTube](https://www.youtube.com/watch?v=qbgiK7eYvEY)
 * [Data Engineering Technology Tree | Jesse Anderson](https://www.jesse-anderson.com/2020/12/data-engineering-technology-tree/) DBA/Data Warehouse/SQL-Focused, Software Engineer, Data Scientists tech stack tree
 * [Awesome Data Engineering Learning Path - Best resources, books, courses](https://awesomedataengineering.com/)
