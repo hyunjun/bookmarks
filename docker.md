@@ -1373,6 +1373,7 @@ Docker
 * [(공개) 바닐라 쿠베네티스 실습 환경 배포 가이드](https://gasidaseo.notion.site/db0869d191ec4e4d90b1c9bb722a7175)
 * [쿠버네티스 실습 환경 배포 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvP1gmNsWr6YvXIQ7TonCr8h)
 * [SK텔레콤 컨테이너솔루션개발팀 - YouTube](https://www.youtube.com/channel/UCOQoi9CNSy915agW42113WA)
+* [쿠버네티스 데이터베이스 오퍼레이터 소개 및 멤버 글 모음](https://gasidaseo.notion.site/49a7bd791f674dc38093598f9d88d4c2)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
