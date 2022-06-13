@@ -1099,6 +1099,8 @@ App
   * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
   * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
+* `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
+* [AirPlay 5000번 포트](https://jybaek.tistory.com/963)
 * [AirServer Connect - The Most Advanced Screen Mirroring Receiver](https://www.airserver.com/)
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
