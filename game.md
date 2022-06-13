@@ -49,7 +49,7 @@ Game
 * [호오 게임을 만드시겠다구요? 7 - 게임 기획하기 - YouTube](https://www.youtube.com/watch?v=ICiKSSgTfGA)
 * [호오 게임을 만드시겠다구요? 8 - 2D 캔버스 훑어보기 - YouTube](https://www.youtube.com/watch?v=mjQ8o_ZHEFM)
 * [모바일에서의 알파 블렌딩과 테스팅](https://chulin28ho.tistory.com/660)
-* [게임의 재미는 어디에서 오는가? - 자막 · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
+* [게임의 재미는 어디에서 오는가? · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
 * [GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역) | GeekNews](https://news.hada.io/topic?id=4818)
 * [대항해시대 시리즈가 가르쳐준 것들 - Growth | 더플랩 인사이트](https://insight.thepllab.com/post/148)
 * [닌텐도64용 젤다의 전설 풀 디컴파일 완료 | GeekNews](https://news.hada.io/topic?id=5448)
@@ -60,6 +60,8 @@ Game
 * [질긴 고리 - 온라인 퍼즐 게임](https://ko.puzzle-loop.com/)
 * [Summle - a daily maths game](https://summle.net/)
 * [멘토특강 게임 서버 개발자 준비하기 - YouTube](https://www.youtube.com/watch?v=DtdttEhtgjI)
+* [폭력적이지 않고 스토리가 좋은 게임? | GeekNews](https://news.hada.io/topic?id=6679)
+* [가장 좋아하는 오픈소스 게임은? | GeekNews](https://news.hada.io/topic?id=6669)
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
