@@ -52,6 +52,7 @@ Anomaly Detection
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
 
 # Library
+* [CFA_for_anomaly_localization](https://github.com/sungwool/cfa_for_anomaly_localization)
 * [rule_engine: Anomaly classification with rules](https://github.com/jjthomas/rule_engine)
   * [A Fast Decision Rule Engine for Anomaly Detection - YouTube](https://www.youtube.com/watch?v=KSf3NoXONqI)
 
