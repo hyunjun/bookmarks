@@ -452,6 +452,8 @@ Java
 * Effective Java
   * [이펙티브 자바 3/E 효과적으로 읽기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771277)
   * [Effective Java · Present](https://present.do/decks/60c3d9b88ae5e6673633b6eb/embed)
+* [Java Concurrency in Practice](https://jcip.net/)
+  * [Is "Java Concurrency in Practice" Still Valid in the Era of Java 17?](https://javarevisited.blogspot.com/2018/07/is-java-concurrency-in-practice-still-relevant-in-era-of-java8.html)
 
 # Concurrency Parallel Thread
 * [Java Concurrency Utilities](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/index.html)
