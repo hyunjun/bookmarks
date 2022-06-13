@@ -300,6 +300,7 @@ SQL
 * Jailer [Open Jail - The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * Jetbrains
   * [DataGrip 팁 모음](http://ohgyun.com/770) database IDE
+  * [코딩 효율 개선에 도움이 되는 DataGrip 단축키 10가지 | The DataGrip Blog](https://blog.jetbrains.com/ko/datagrip/2022/06/13/top-10-datagrip-shortcuts-to-empower-your-coding/)
   * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
 * [malloy: Malloy is an experimental language for describing data relationships and transformations](https://github.com/looker-open-source/malloy)
   * [Malloy - 더 나은 SQL by Looker | GeekNews](https://news.hada.io/topic?id=5840)
