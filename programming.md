@@ -2570,6 +2570,7 @@ Programming
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
+  * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
@@ -4470,6 +4471,7 @@ Programming
 * [A/B 테스트 자동 분석툴 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
 * [Technology: Push the Boundaries #1 QA 테스트 자동화에 도전하다](https://blog.ncsoft.com/technology-push-the-boundaries-1/)
 * [사용자의 요구를 만족시키는 사용 품질 확보하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/quality-in-use-meet-the-needs-of-users/) QA
+  * [Quality in Use - Meet the Needs of Users - LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/sessions/112/)
 * [파이썬 로봇 프레임워크를 활용한 소프트웨어 자동화 테스트의 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/232029)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
@@ -4512,6 +4514,7 @@ Programming
     * 그나마 다행이었던 점은 server 작업이 email 처리이기 때문에 시간이 밀려도 처리만 제대로 되면 문제가 발생하지 않는 건데, 만약 실시간성 작업이었으면 문제가 커졌을 듯
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 * [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=YS35AGyq4aY)
+* [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
 * [앱 서비스 장애편 #2 - 폰의 발열이 심해요 (CPU/GPU 편)](https://blog.imqa.io/app_failure_overheating_issue/)
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
@@ -4534,7 +4537,6 @@ Programming
 * [아틀라시안의 클라우드 장애에서 배운 4가지 네트워크 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/235539)
 * [How we lost 54k GitHub stars – HTTPie blog](https://httpie.io/blog/stardust)
 * [Slack’s Incident on 2-22-22 - Slack Engineering](https://slack.engineering/slacks-incident-on-2-22-22/)
-* [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-platform-server-outage-process-and-dev-culture/)
 * [How I Accidentally Deleted 7TB of Videos Before Going To Production](https://blog.thevinter.com/posts/vimeo)
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
