@@ -349,3 +349,7 @@ Bitcoin
 * [The Web3 World | Canvas Ventures](https://www.canvas.vc/blog/the-web3-world)
   * [The Web3 World](https://gist.github.com/hyunjun/0c65243188f18882ceeaf266eb3f4334#file-the_web3_world-md)
 * [Web 2.5](https://www.thestartupbible.com/2022/06/web-2-5.html) `Web 1.0은 read, Web 2.0은 read and write, 그리고 Web 3.0은 read, write and own`
+* [Ontology’s Web3 Reputation and Identity Management Solutions – The New Stack](https://thenewstack.io/ontologys-web3-reputation-and-identity-management-solutions/)
+* [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
+* [Web3라는 집단 광기에 여러 사람이 다칠 것이다 – 박세희 Park Sehee](https://parksehee.blog/2022/06/06/web3-hysteria/)
+* [Crash course in Web3 Application Development with Python](https://blog.doppler.com/crash-course-in-web3-application-development-with-python)
