@@ -241,6 +241,7 @@ Programming Books
   * 사실 애자일에 대한 책은 아님
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로. 서문 | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/project-to-product-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C-e3bd4e1fd664)
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로](https://jh4hj.tistory.com/entry/PROJECT-TO-PRODUCT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C)
+  * [공헌이익과는 다른 디지털화 이야기](https://brunch.co.kr/@graypool/480)
 * [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
   * ★★★☆☆ 2022.04.23
