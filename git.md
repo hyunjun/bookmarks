@@ -1039,6 +1039,7 @@ Git
 * [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
   * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
   * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
+* [github-following-tracker: 🌈 GitHub following, followers, only-following, only-follower tracker 🌈](https://github.com/youngkwon02/github-following-tracker)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [github-ko-ext: 깃헙 한글화 확장 프로그램](https://github.com/hatemogi/github-ko-ext)
   * [GitHub 한글화 실험 프로젝트. “개발자가 자주 쓰는 GitHub 웹사이트를 한글화 하면 친숙해서 좋지… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/github-%ED%95%9C%EA%B8%80%ED%99%94-%EC%8B%A4%ED%97%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5b9e040d1d75)
