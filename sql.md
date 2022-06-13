@@ -1,6 +1,7 @@
 SQL
 ===
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
+* [Common DB schema change mistakes | Database Lab · Instant clones of PostgreSQL databases · Postgres.ai](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [누구나 바로 이해할 수 있는 데이터베이스 기초지식](https://brunch.co.kr/@04925bf0d77f43e/8)
 * [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
@@ -271,6 +272,7 @@ SQL
 
 # Library
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
+* [awesome-db-tools: Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [bytebase: Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com ](https://github.com/bytebase/bytebase)
   * [Bytebase - 웹 기반 DB스키마 변경 및 버전 관리도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=4793)
 * [DBCore - Rapidly prototype applications powered by your database](https://www.dbcore.org/)
@@ -985,6 +987,8 @@ SQL
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [metricflow: MetricFlow allows you to define, build, and maintain metrics in code](https://github.com/transform-data/metricflow)
+* [neon: The serverless open source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
+  * [Neon - 서버리스 Postgres 오픈소스 | GeekNews](https://news.hada.io/topic?id=6658)
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦](https://github.com/orioledb/orioledb)
