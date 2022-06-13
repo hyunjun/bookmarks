@@ -150,8 +150,8 @@ Programming Books
 * (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
   * 2018.10 한라
-* (NOT YET) JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기
-  * 2018.10 한라
+* (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기 | 에이콘출판사](http://acornpub.co.kr/book/introduction-jvm)
+  * 2018.10 한라 005.133-렌48ㅈ
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
   * [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
   * 탐라
