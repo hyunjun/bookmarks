@@ -518,6 +518,7 @@ Book
 * (NOT YET) 세계질서와 문명등급 [문명을 서열화한 서구 중심의 ‘세계질서’ 비판 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1040878.html)
 * (NOT YET) [짱개주의의 탄생](https://www.nocutnews.co.kr/news/5769499)
   * [문 전 대통령이 이 책을 추천한 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47644)
+* (NOT YET) [욕망 너머의 한국 고대사 : 왜곡과 날조로 뒤엉킨 사이비역사학의 욕망을 파헤치다](https://www.naon.go.kr/content/html/2019/02/27/2cbe40e4-8ce8-46a9-a733-3f889e9009e0.html)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
