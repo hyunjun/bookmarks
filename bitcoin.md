@@ -346,3 +346,4 @@ Bitcoin
 * [Transition to web3: a guide for non-technical roles](https://guidetoweb3.xyz/)
 * [The Web3 World | Canvas Ventures](https://www.canvas.vc/blog/the-web3-world)
   * [The Web3 World](https://gist.github.com/hyunjun/0c65243188f18882ceeaf266eb3f4334#file-the_web3_world-md)
+* [Web 2.5](https://www.thestartupbible.com/2022/06/web-2-5.html) `Web 1.0은 read, Web 2.0은 read and write, 그리고 Web 3.0은 read, write and own`
