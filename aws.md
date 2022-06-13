@@ -251,7 +251,6 @@ AWS
 * [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
 * [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8)
   * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
-* [Building deep learning inference with AWS Lambda and Amazon EFS | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/building-deep-learning-inference-with-aws-lambda-and-amazon-efs/)
 * [How to build Authentication using Cosmic JS, Vue, and Lambda](https://hackernoon.com/how-to-build-authentication-using-cosmic-js-vue-and-lambda-e0e243d9b90b)
 * 레벨노가다 linux 스마트폰으로 리눅스를 공부하자
   * [(1) 아마존 AWS로 리눅스 컴퓨터 준비하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-1-%EC%95%84%EB%A7%88%EC%A1%B4-aws%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-3c8173620c6a)
@@ -283,7 +282,6 @@ AWS
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
 * [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
 * [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
-* [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
 * [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
 * [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
@@ -320,7 +318,6 @@ AWS
 * [AWS Wavelength - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1119)
 * [AWS Wavelength - Part 3](https://zigispace.net/1120)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
-* [aws-EFS-backup-restore](https://linuxer.name/2020/01/aws-efs-backup-restore/)
 * [Deploying a Flask application on AWS with Gitlab CI/CD | Part 1](https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e)
 * [AWS Well-Architected Tool 서울 리전 출시](https://aws.amazon.com/ko/blogs/korea/aws-well-architected-tool-seoul/)
 * [AWS Well-Architected](https://wa.aws.amazon.com/wat.map.en.html)
@@ -433,7 +430,7 @@ AWS
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 * [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
 * [MORE AGILE: **당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들 (2022년 업데이트)**](https://www.moreagile.net/2022/04/aws-day1-todo_01694645043.html)
-* [클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
+* [**클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그**](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 * [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html) AWS SSO
 * [Introduction to Analytics on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
@@ -826,6 +823,12 @@ AWS
 * [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
+# EFS
+* [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
+* [Building deep learning inference with AWS Lambda and Amazon EFS | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/building-deep-learning-inference-with-aws-lambda-and-amazon-efs/)
+* [EBS Pricing and Performance: A Comparison with AWS EFS and S3](https://cloud.netapp.com/blog/ebs-efs-amazons3-best-cloud-storage-system)
+* [aws-EFS-backup-restore](https://linuxer.name/2020/01/aws-efs-backup-restore/)
+
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
 * [(몰아보기) Amazon EKS 실습](https://brunch.co.kr/@topasvga/1679)
@@ -944,6 +947,7 @@ AWS
 * [“클라우드 계정 99% 과잉 권한… 해커에게 문 열어주는 격” - CIO Korea](https://www.ciokorea.com/news/232619)
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
 * [AWS로 클라우드 시작하기: ⑤IAM & Organizations | 요즘IT](https://yozm.wishket.com/magazine/detail/1511/)
+* [When and where to use IAM permissions boundaries | AWS Security Blog](https://aws.amazon.com/de/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
