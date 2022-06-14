@@ -769,6 +769,7 @@ AWS
 * [(리눅스 업스킬 도전 #22-a) EC2 인스턴스에서 계정 추가 후 공개 키 등록 방법](https://jhrogue.blogspot.com/2020/10/22-ec2.html)
 * [(리눅스 업스킬 도전 #22-b) notepad++ 편집기로 EC2 원격 호스트의 파일 편집하기](https://jhrogue.blogspot.com/2020/10/22-b-notepad-ec2.html)
 * [AWS 클라우드 초보들을 위한 EC2 인스턴스 SSH 로 접속하기. - YouTube](https://www.youtube.com/watch?v=oMVfhT_xlzk)
+* [Secure SSH on EC2: What are the real threats? – Sysdig](https://sysdig.com/blog/aws-secure-ssh-ec2-threats/)
 * [aws ec2 nvme disk 의 device 위치 변경을 고정 시키기 - Cloud](https://vitta.tistory.com/62)
 * [🚚초간단 단독 EC2 서버 배포하는 법, #alias #nojenkins - YouTube](https://www.youtube.com/watch?v=iqd_aWzhtnc)
 * [ec2_auto_stop.py - Finds ec2 of all regions and stops instances where the tag AutoStopProtect is not set to True](https://gist.github.com/serithemage/bb6ac8939a0819406ee27c9f34a55481)
