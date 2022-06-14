@@ -2387,8 +2387,8 @@ Python
 * [Improving Your Django and Python Developer Experience | Real Python Podcast #97 - YouTube](https://www.youtube.com/watch?v=MvOUaxV6LAw)
 * [Is the Django Framework Dead?. Find out whether Django is the right… | by Developer Codie | Feb, 2022 | Python in Plain English](https://python.plainenglish.io/is-the-django-framework-dead-591f9a533ba)
 * [Django에서 toss 결제 연동하기](https://velog.io/@sylee0427/Django%EC%97%90%EC%84%9C-toss-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
-* [django_session 테이블에 저장되어 있는 세션은 어떤 값들을 가지고 있을까요?](https://codingdog.tistory.com/691)
 * [django app config ready 한 번만 실행되게 하려면 어떻게 할까요?](https://codingdog.tistory.com/693)
+* [Django Channels, Celery, Redis: Real Time Broadcasting API response App (Jokes) | Django WebSockets - YouTube](https://www.youtube.com/watch?v=AZNp1CfOjtE)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
@@ -2406,6 +2406,7 @@ Python
   * [Building With Django REST Framework in Python - YouTube](https://www.youtube.com/watch?v=D0OaOw-Jdg4)
   * [Python/Django 웹서비스 5년간의 개발 운영 경험기. 안정호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=r6c9Us0vgRg)
   * [drf-yasg](https://drf-yasg.readthedocs.io/)
+* [django_session 테이블에 저장되어 있는 세션은 어떤 값들을 가지고 있을까요?](https://codingdog.tistory.com/691)
 * [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
 * pytest-django
   * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
