@@ -355,6 +355,7 @@ Programming Books
 * (NOT YET) [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
   * 우당
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
+* (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
 
 # Amazon AWS
 
