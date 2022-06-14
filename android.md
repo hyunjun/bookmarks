@@ -276,6 +276,8 @@ Android
 * [2019 Google IO - Architecture Components 정리](https://thdev.tech/google%20io/2019/05/10/Google-IO-2019-Architecture-Components/)
 * [2019 Google IO - What's New Android 살펴보기](https://thdev.tech/google%20io/2019/05/15/Google-IO-2019-Whats-New-Android/)
 * [I/O에서 발표된 Android의 현재를 정리해보았습니다](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
+* [Pluu Dev - 발표 자료 Whats new in Android development tools](https://pluu.github.io/blog/android/2022/06/11/io22-extended/)
+* [Pluu Dev - 발표 자료 Modern Android Developer](https://pluu.github.io/blog/android/2022/06/14/boostcamp/)
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 * [사내 Android 개발자 행사, LINE Android Day 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-android-day-1-recap/)
 * [Pluu Dev - 요약 What's new in Android testing tools (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/20/whats-new-in-android-testing-tools/)
