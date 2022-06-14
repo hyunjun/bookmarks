@@ -1049,6 +1049,9 @@ Javascript
 * [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Don't use functions as callbacks unless they're designed for it - JakeArchibald.com](https://jakearchibald.com/2021/function-callback-risks/)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+* [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
+* [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
+* [Event Loop in JavaScript - DEV Community](https://dev.to/abhij1607/event-loop-in-javascript-35pk)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
@@ -1063,8 +1066,6 @@ Javascript
 * [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 * [JavaScript: async/await with forEach()](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404)
 * [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
-* [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
-* [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
 * [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await는-어떻게-구현하는가-fa08a3157647)
 * [Aborting a signal: How to cancel an asynchronous task in JavaScript](https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/)
   * [자바스크립트에서 AbortController 를 활용하여 비동기 작업 중단하기 | 오르막길](https://genie-youn.github.io/journal/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C_AbortController%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC_%EB%B9%84%EB%8F%99%EA%B8%B0_%EC%9E%91%EC%97%85_%EC%A4%91%EB%8B%A8%ED%95%98%EA%B8%B0.html)
@@ -3562,6 +3563,7 @@ Javascript
 * [React CSS-in-JS 시스템 만들기 | pyjun01](https://pyjun01.github.io/v/css-in-js/)
 * [Responsive React Movies App With API | ReactJS Movies | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=PCBUcSoiEu4)
 * [Add Dark Mode in React js App and Website | React js Dark Mode With localStorage - YouTube](https://www.youtube.com/watch?v=5zeuW802NLg)
+* [React.js: first class - YouTube](https://www.youtube.com/watch?v=AJLB-hjFhUk)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4088,6 +4090,7 @@ Javascript
     * interaction 애드온을 이용해서 인터랙션이 자동으로 발생하는 코드를 작성하고 이를 단계별로 실행 가능
     * 인터랙션이 자동으로 실행되게 만들었으니 Cypress나 Playwrigt같은 E2E 테스트 도구를 이용해서 해당 인터렉션의 테스트를 자동화도 가능
   * [Storybook으로 10분 만에 안내 메일 만들고 퇴근하는 법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/10)
+  * [스토리북 작성을 통해 얻게 되는 리팩토링 효과 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220609-storybookwise-component-refactoring/)
   * [storybook-gen](https://github.com/blacktoast/storybook-gen)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
