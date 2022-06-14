@@ -624,9 +624,6 @@ Machine Learning
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 * [Why we do machine learning engineering with YAML, not notebooks](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
-* [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
-* [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
-* [Hand Labeling Considered Harmful – O’Reilly](https://www.oreilly.com/radar/arguments-against-hand-labeling/)
 * [What to Do When You Can't Trust Your Labels? - Ramiro Caro | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=-IZ3b6m9GgI)
 * [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
   * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
@@ -1126,6 +1123,12 @@ Machine Learning
 * [Create a K-Nearest Neighbors Algorithm from Scratch in Python | by Turner Luke | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/create-your-own-k-nearest-neighbors-algorithm-in-python-eb7093fc6339)
 * [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
   * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
+
+# Labeling
+* [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
+* [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
+* [Hand Labeling Considered Harmful – O’Reilly](https://www.oreilly.com/radar/arguments-against-hand-labeling/)
+* [awesome-open-data-annotation: Open Source Data Annotation & Labelling Tools](https://github.com/zenml-io/awesome-open-data-annotation)
 
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
