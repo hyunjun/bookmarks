@@ -844,6 +844,7 @@ Algorithm
 * [LeetCode 23 | Merge K Sorted Lists | Hard - YouTube](https://www.youtube.com/watch?v=IADxcB-2zbs)
 * [최소 값과 최대 값을 빠르게 찾을 수 있게 도와주는 힙(Heap)](https://evan-moon.github.io/2019/10/12/introduction-data-structure-heap/)
 * [6 Steps to Understanding a Heap with Python | by Yasufumi TANIGUCHI | Towards Data Science](https://towardsdatascience.com/data-structure-heap-23d4c78a6962)
+* [Data Structures : Heap | Min Heap Construction | Min and Max Heap - YouTube](https://www.youtube.com/watch?v=-tp3cr0lodo)
 
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
