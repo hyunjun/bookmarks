@@ -234,6 +234,7 @@ Docker
     * [nest.js 도커라이징](https://velog.io/@hong-brother/nodeJS-%EB%8F%84%EC%BB%A4%EB%9D%BC%EC%9D%B4%EC%A7%95)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
+    * [Build & Push Docker Image using Jenkins Pipeline | Devops Integration Live Example Step By Step - YouTube](https://www.youtube.com/watch?v=PKcGy9oPVXg)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
     * [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
   * [JupyterHub Image with TensorFlow and PyTorch ](https://hub.docker.com/r/dakshoont/jupyterhub)
