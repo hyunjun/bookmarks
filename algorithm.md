@@ -117,6 +117,7 @@ Algorithm
 * [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
 * [Scala Algorithms - Master your Scala algos](https://www.scala-algorithms.com/)
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
+* [Implement LRU Cache | Implement LRU Cache using HashMap & Doubly Linked List | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=efiWbPSinD8)
 * [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * d2.naver.com
   * [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628)
