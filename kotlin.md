@@ -165,6 +165,7 @@
 * [(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?](https://jojoldu.tistory.com/671)
 * [Context Receivers Are Coming to Kotlin! - YouTube](https://www.youtube.com/watch?v=GISPalIVdQY)
 * [smarter-shared-kotlin-flows | Medium](https://bladecoder.medium.com/smarter-shared-kotlin-flows-d6b75fc66754)
+* [Kotlin Metadata Deep Dive. Recently, I encountered a headache when… | by Johnson Lee | Jun, 2022 | Medium](https://medium.com/@johnson.lee/kotlin-metadata-deep-dive-2a966b45521a)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -319,8 +320,9 @@
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
-* [KotlinDL: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/JetBrains/KotlinDL)
+* [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
   * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
+  * [KotlinDL 0.4 Is Out With Pose Detection API, EfficientDet for Object Detection, and EfficientNet for Image Recognition | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficientnet-for-image-recognition/)
 * [kotlin-jdsl: Kotlin DSL for JPA Criteria API without generated metamodel and reflection](https://github.com/line/kotlin-jdsl)
   * [Kotlin JDSL: Kotlin을 이용해 좀 더 쉽게 JPA Criteria API를 작성해 봅시다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/kotlinjdsl-jpa-criteria-api-with-kotlin/)
     * Spring에서 간단한 쿼리는 Query Method를 이용하고, 복잡한 쿼리는 JPA Specification과 Criteria API를 이용했으나 여러 가지 불편한 점
@@ -366,6 +368,8 @@
 * [코틀린(Kotlin), 꼭 해야하나요? - 박상권의 삽질블로그](https://gun0912.tistory.com/81)
 * [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [코틀린 톺아보기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864365)
+* [코드스피츠 1강 정리](https://devroach.tistory.com/126)
+* [코드스피츠 코틀린 2강 정리](https://devroach.tistory.com/127)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
   * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
