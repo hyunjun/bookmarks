@@ -2493,6 +2493,7 @@ Python
     writer.save()
     ```
   * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
+  * [Using Document Properties to Track Your Excel Reports - Practical Business Python](https://pbpython.com/excel-properties.html)
 
 # Flask
 * practice
