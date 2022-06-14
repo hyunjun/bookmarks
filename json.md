@@ -131,6 +131,7 @@ Json
 * [직접 만들어보며 이해하는 JWT](https://hudi.blog/self-made-jwt/)
 * [인증에 활용하는 JWT는 어떻게 보안을 유지할 수 있는가?](https://blog.naver.com/pjt3591oo/222689578991)
 * [JWT Authentication in React Native | Login Functionality | AsyncStorage - YouTube](https://www.youtube.com/watch?v=QMUii9fSKfQ)
+* [wffweb-demo-deployment: wffweb 12 demo project. It uses embedded tomcat 10. It is deployed in Heroku @ https://wffweb.herokuapp.com](https://github.com/webfirmframework/wffweb-demo-deployment)
 
 ## JWT Go
 * [Golang API Authentication using JWT Tokens](https://morioh.com/p/eedc1b3cd9b0)
