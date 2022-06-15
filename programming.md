@@ -2250,6 +2250,7 @@ Programming
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
+* [Graphite — Modern code review for fast-moving teams](https://graphite.dev/)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 * [PullRequest | Code Review as a Service](https://www.pullrequest.com/)
   * [PullRequest - Code Review as a Service | GeekNews](https://news.hada.io/topic?id=5590)
@@ -4254,6 +4255,8 @@ Programming
 * [Blog Series of Introduction of Developer Productivity Engineering at Mercari | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220116-blog-series-of-introduction-of-developer-productivity-engineering-at-mercari/)
 * [In 1911, a genius revealed a forgotten science of how to be 50x more productive without working more hours | by Michael Simmons | Accelerated Intelligence | Mar, 2022 | Medium](https://medium.com/accelerated-intelligence/in-1911-an-influential-expert-revealed-a-forgotten-science-of-how-to-be-50x-more-productive-8828f86eb1c9) taylor에 대한 이야기인데 영어 실력 탓으로 진심인지 반어법인지 모르겠음
 * [Maybe you should do less 'work' - John's internet house](https://www.johnwhiles.com/posts/work.html) productivity
+* [the-developer-coefficient.pdf](https://stripe.com/files/reports/the-developer-coefficient.pdf) productivity
+* [People don't work as much as you think](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think) productivity
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
