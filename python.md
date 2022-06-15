@@ -833,6 +833,7 @@ Python
   * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
   * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
+  * [LBYL vs EAFP: Preventing or Handling Errors in Python – Real Python](https://realpython.com/python-lbyl-vs-eafp/)
   * [How to Define Custom Exception Classes in Python - Towards Data Science](https://towardsdatascience.com/how-to-define-custom-exception-classes-in-python-bfa346629bca)
   * [Eyal Trabelsi - Elegant Exception Handling - YouTube](https://www.youtube.com/watch?v=6sVDuFQRGgo)
   * [Quick Python Tip: Suppress Known Exception Without Try Except | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/quick-python-tip-suppress-known-exception-without-try-except-a93ec34d3704)
@@ -912,6 +913,7 @@ Python
   * [파이썬 상대경로 import 에러 ImportError: attempted relative import with no known parent package](https://myjorney.tistory.com/52)
   * [Start Python #4 Backend Program 만들기 – library import - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/library/)
   * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
+  * [import-tracker: Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
   * [reorder_python_imports: Rewrites source to reorder python imports](https://github.com/asottile/reorder_python_imports)
     * [A Tool for automatically reordering python imports](https://pythonawesome.com/a-tool-for-automatically-reordering-python-imports/)
 * `__init__.py`
@@ -1723,8 +1725,9 @@ Python
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * [Best Python Books To Read Out in 2021 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
-* ["A Byte of Python" is a free book on programming using the Python language](https://python.swaroopch.com/)
-* [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
+* A Byte of Python [Introduction · HonKit](https://python.swaroopch.com/)
+  * ["A Byte of Python" is a free book on programming using the Python language](https://python.swaroopch.com/)
+  * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
 * [Clean Architectures in Python](https://www.pycabook.com/)
@@ -3227,8 +3230,11 @@ Python
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
+  * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
   * [bun: A Python package for a basic CLI and GUI user interface](https://github.com/caltechlibrary/bun)
     * [A Python package for a basic CLI and GUI user interface](https://pythonawesome.com/a-python-package-for-a-basic-cli-and-gui-user-interface/)
+  * [prompt-toolkit](https://github.com/prompt-toolkit) Tools for building command line applications in Python
+    * [ptpython: A better Python REPL](https://github.com/prompt-toolkit/ptpython)
   * [python_snippet: Python and data science snippets on the command line](https://github.com/khuyentran1401/python_snippet)
     * [Python and data science snippets on the command line](https://pythonawesome.com/python-and-data-science-snippets-on-the-command-line/)
   * [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
@@ -3357,7 +3363,6 @@ Python
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
 * [Boost.Python](http://www.boost.org/doc/libs/master/libs/python/doc/html/index.html)
   * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
-* [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
 * [BrickRegistration - a tool to generate synthetic 3d scenes for toying with bricks registration](https://github.com/GistNoesis/BrickRegistration)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bwa: 이거 봐(Bwa): Notification Sender for Discord, E-mail, Slack, and Telegram](https://github.com/somniumism/bwa)
@@ -3570,6 +3575,7 @@ Python
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
   * [MicroPython Used in Industrial Applications](https://www.youtube.com/watch?v=WgpMWEdKuyY)
+  * [MicroPython in Docker Containers](https://bhave.sh/micropython-docker/)
   * [awesome-micropython: A curated list of awesome MicroPython libraries, frameworks, software and resources](https://github.com/mcauser/awesome-micropython)
 * [minikeyvalue](https://github.com/geohot/minikeyvalue)
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
