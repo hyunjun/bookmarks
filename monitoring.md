@@ -138,6 +138,7 @@ Monitoring
   * [라이브 서비스의 친구 Sentry. 이호성 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=28PAPRLit4Q)
   * [Sentry로 우아하게 프론트엔드 에러 추적하기 | Kakao Pay Tech](https://tech.kakaopay.com/post/frontend-sentry-monitoring)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
+* [SigNoz - an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz)
 * [SkyWalking - Apache SkyWalking Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures](https://skywalking.apache.org/)
 * [squzy: Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love](https://github.com/squzy/squzy)
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)
