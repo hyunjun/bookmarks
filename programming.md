@@ -1885,6 +1885,7 @@ Programming
 * ['PM을 부탁해/JIRA (따라하기)' 카테고리의 글 목록 :: 앵그리 비버's IT를 부탁해](https://hanminwoo.com/category/PM%EC%9D%84%20%EB%B6%80%ED%83%81%ED%95%B4/JIRA%20%28%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0%29)
 * [Jira Release 발생시 Slack에 Release Notes 발행하기](https://jojoldu.tistory.com/670)
 * `Error converting ADF to storage format` [macOS Monterey 키보드 입력 버그](https://jybaek.tistory.com/954)
+* [Spoqa 기술 블로그 | 스포카에서 Jira를 활용하여 프로젝트를 수행하는 방법](https://spoqa.github.io/2022/06/15/how-to-use-jira-in-spoqa.html)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
