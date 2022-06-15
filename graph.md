@@ -224,6 +224,7 @@ Graph
 * [Google Knowledge Graph — The Best Guide For Beginners](https://hackernoon.com/google-knowledge-graph-the-best-guide-for-beginners-d513c1180abf)
 * [Thought Vectors, Knowledge Graphs, and Curious Death(?) of Keyword Search - YouTube](https://www.youtube.com/watch?v=JrORpCkuK3g)
 * [Drug and Vaccine Discovery: Knowledge Graph + Apache Spark - YouTube](https://www.youtube.com/watch?v=Kj5bZ2afWSU)
+* [지식 그래프를 이용한 인재 추천 시스템 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/kgat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EC%9E%AC-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
