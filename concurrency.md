@@ -128,3 +128,4 @@ Concurrency
 * [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙](https://brunch.co.kr/@chris-song/95)
 * [간단하지만 강력한! 멀티스레드 디버깅 팁 (알아두면 쓸데 있음!) - YouTube](https://www.youtube.com/watch?v=7peZb57HGhY)
 * [Thread 생성부하와 TCB(Thread Control Block) - YouTube](https://www.youtube.com/watch?v=v-iM8Wd2Wd4)
+* [프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
