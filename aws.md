@@ -1607,6 +1607,7 @@ AWS
   * 상태를 관리해야 하므로 유지보수하기가 더 어려워진다고 하고 이미 Ansible, Puppet, OctoDNS 등 상태 없이 동작하므로 충분히 상태 없이도 동작
 * [Learn how to use Input Variables in Terraform | Terraform Tutorial For Beginners | Beginner Academy - YouTube](https://www.youtube.com/watch?v=LEob9kb62Ek)
 * [How Terraform Works : Modules Illustrated | by Bill | Jun, 2022 | Medium](https://medium.com/@mfundo/terraform-modules-illustrate-26cbc48be83a)
+* [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
