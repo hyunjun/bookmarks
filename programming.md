@@ -265,6 +265,7 @@ Programming
 * [Top Nine Skills for SREs to Master - DevOps.com](https://devops.com/top-nine-skills-for-sres-to-master/)
 * [What the SRE team wants to achieve with the development team | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
 * [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks)
+* [‘닮은 듯 다른’ 월가 공룡들의 데브옵스 접근법 - CIO Korea](https://www.ciokorea.com/news/238709) SRE
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -1067,6 +1068,7 @@ Programming
     * Cloudflare에서 Worker를 5년 전 런칭, 개발자가 Woker 사용을 주저하는 이유: 락인 & 로컬에서 테스트가 가능한지 여부
       * 이는 런타임을 오픈소스로 공개할 계획이 있는지에 대한 질문으로 이어짐
     * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
+  * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -1772,6 +1774,7 @@ Programming
 * [MSA 환경에서 네트워크 예외를 잘 다루는 방법 | Kakao Pay Tech](https://tech.kakaopay.com/post/msa-transaction)
 * [크몽 MSA 도입 이야기. 크몽 서버 아키텍처는 어떻게 변화 했을까? | by DanielSeo | May, 2022 | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-msa-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-6c20afe6cc1e)
 * [Micro-services - Client Side Discovery - YouTube](https://www.youtube.com/watch?v=Zmk2LZGZ9dE)
+* [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1996,6 +1999,7 @@ Programming
 * [OCI 탐험 일지 8. 로드 밸런서 설정](https://jhrogue.blogspot.com/2022/03/oci-8.html)
 * [OCI 탐험 일지 9. 인스턴스 구성](https://jhrogue.blogspot.com/2022/04/oci-9.html)
 * [전문 지식 없어도 인공지능 모델 구현·배포한다...오라클 'OCI AI 서비스' 한국진출 위해 한국어 학습 중 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=23987)
+* [Free Oracle Cloud Kubernetes cluster with Terraform – Arnold Galovics](https://arnoldgalovics.com/oracle-cloud-kubernetes-terraform/)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
@@ -2564,6 +2568,7 @@ Programming
   * It is faster because it is based on automated tasks; waiting time is eliminated.
   * It is cheaper because automated tasks allow errors to be detected immediately, avoiding the accumulation of defects.
   * It is better because automation provides predictable, standardized, reliable and repeatable results.
+* [Shipping to Production - The Pragmatic Engineer](https://blog.pragmaticengineer.com/shipping-to-production/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
@@ -2960,7 +2965,7 @@ Programming
 * [The Death of DevOps || Graham Zabel - YouTube](https://www.youtube.com/watch?v=l4YCh8Z-pmo)
 * [Comparison bw Docker Vs Kubernetes Vs Ansible | ReviewNPrep](https://reviewnprep.com/blog/devops-tool-comparison-docker-vs-kubernetes-vs-ansible/)
 * [What is DevOps ? Explained DevOps in Detail #DevOPs #Docker #Jenkins #Kubernetes - YouTube](https://www.youtube.com/watch?v=CPJ6YILC8Gs)
-* [Comparison bw Docker Vs Kubernetes Vs Ansible | ReviewNPrep](https://reviewnprep.com/blog/devops-tool-comparison-docker-vs-kubernetes-vs-ansible/)
+* [Seven steps to making DevOps a reality | Google Cloud Blog](https://cloud.google.com/blog/topics/perspectives/seven-steps-to-making-devops-a-reality)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -4557,6 +4562,7 @@ Programming
 * [How I Accidentally Deleted 7TB of Videos Before Going To Production](https://blog.thevinter.com/posts/vimeo)
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
+* [That time we unplugged a data center to test our disaster readiness - Dropbox](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
