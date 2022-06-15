@@ -1928,6 +1928,8 @@ Programming Books
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
 * (NOT YET) [ 초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
+* (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
+  * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
