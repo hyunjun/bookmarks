@@ -55,7 +55,7 @@ PHP
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
 * [PHP 꼴랑이거(1) - 배열 순환에서 참조 변수 사용 시 주의사항 - 완두블로그](https://wani.kr/posts/2014/01/09/php-something-1-array-walk/)
-* [PHP 꼴랑이거(2) - __get, __set에서 바로 배열 접근. - 완두블로그](https://wani.kr/posts/2014/08/18/php-something-2-getter-setter-array-access/)
+* [PHP 꼴랑이거(2) - `__get`, `__set`에서 바로 배열 접근. - 완두블로그](https://wani.kr/posts/2014/08/18/php-something-2-getter-setter-array-access/)
 * [PHP 꼴랑이거(3) - static과 self의 차이 - 완두블로그](https://wani.kr/posts/2015/02/12/php-something-3-static-vs-self/)
 * [PHP 꼴랑이거(4) - Callable - 완두블로그](https://wani.kr/posts/2015/05/02/php-something-4-callable/)
 * [Zeros in PHP - 완두블로그](https://wani.kr/posts/2015/01/27/zeros-in-php/)
@@ -100,6 +100,8 @@ PHP
   * [액션으로 리팩토링하기](https://xly.kr/posts/28)
   * [The simple and awesome way to deploy a Laravel and React.js application on a shared hosting server using git](https://medium.com/@000kelvin/the-simple-and-awesome-way-to-deploy-a-laravel-and-react-js-a8b547cbbc75)
   * [초간단 OSX El Capitan에서 Laravel 개발환경 구축 - 완두블로그](https://wani.kr/posts/2015/11/01/laravel-enviroment-settings/)
+  * [Does Laravel Scale? - Fathom Analytics](https://usefathom.com/blog/does-laravel-scale)
+  * [The Ultimate Guide to Getting Started With Laravel](https://blog.freshbits.in/the-ultimate-guide-to-getting-started-with-laravel)
 * [Leaf 3.0 - PHP 웹앱 & API 프레임워크 | GeekNews](https://news.hada.io/topic?id=5698)
 * opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
 * [Open Swoole: PHP Server with Async IO, Coroutines and Fibers (previously Swoole) | Open Swoole PHP](https://openswoole.com/)
