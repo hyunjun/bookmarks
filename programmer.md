@@ -43,6 +43,7 @@ Programmer
 * [저도 시니어는 처음이라. 시니어 엔지니어는 무슨 일을 해야하나요? | by 조은, John Cho | Mar, 2022 | Medium](https://euncho.medium.com/%EC%A0%80%EB%8F%84-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%8A%94-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-e3fbd6ba99de)
 * [The Things That I Saw Senior Software Engineers Do | by Michael Chi | Better Programming](https://betterprogramming.pub/the-things-that-i-saw-senior-software-engineers-do-6a9f49b9e54f)
   * [시니어 소프트웨어 엔지니어는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/771/)
+* [NDC22 언젠가 시니어가 될 주니어 프로그래머를 위한 강연](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=150977)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
