@@ -94,6 +94,7 @@ Regular Expression
 * [**RegexOne - Learn Regular Expressions with simple, interactive exercises**](http://regexone.com/)
 * [regextester.com](http://www.regextester.com/)
 * [regular-expressions.info](http://www.regular-expressions.info/)
+* [Rulex - Home](https://rulex-rs.github.io/)
 * [**txt2re.com**](http://txt2re.com/)
 * uibakery [**RegEx Library**](https://uibakery.io/regex-library)  a curated list of useful regular expressions for different programming languages
   * [유효성 확인을 위한 상황 별 정규식 샘플이 모여있는 : UI Bakery | 지금 써보러 갑니다](http://icunow.co.kr/uibakery/)
