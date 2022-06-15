@@ -142,6 +142,7 @@ Linux
 * [cpu scheduling image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116314#gistcomment-4116314)
 * [Hints for writing Unix tools](https://monkey.org/~marius/unix-tools-hints.html)
 * [10 resources every sysadmin should know about | Opensource.com](https://opensource.com/article/19/7/resources-sysadmin)
+* [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -625,6 +626,7 @@ Linux
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
   * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
   * [Remove grep command while grepping using ps command - nixCraft](https://www.cyberciti.biz/tips/grepping-ps-output-without-getting-grep.html)
+  * [How to use grep | Enable Sysadmin](https://www.redhat.com/sysadmin/how-to-use-grep)
   * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
     * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
   * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
