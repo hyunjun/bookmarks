@@ -196,6 +196,8 @@ Azure
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [HackaLearn: HackaLearnx Korea 2021](https://github.com/devrel-kr/HackaLearn)
+* Microsoft Dev Box [Introducing Microsoft Dev Box](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063)
+  * [Microsoft Dev Box 공개 | GeekNews](https://news.hada.io/topic?id=6631)
 * [oh-my-azure-cloud-shell: This provides an OPINIONATED collection of scripts to set up oh-my-zsh and oh-my-posh to your Azure Cloud Shell environment](https://github.com/justinyoo/oh-my-azure-cloud-shell)
   * [Oh My Azure Cloud Shell | Aliencube](https://blog.aliencube.org/ko/2021/12/22/oh-my-azure-cloud-shell/)
 
