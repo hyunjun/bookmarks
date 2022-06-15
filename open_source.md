@@ -76,6 +76,7 @@ Open Source
 * [서비스 개발하다 오픈소스 기여한 썰 (완) : NHN Cloud Meetup](https://meetup.toast.com/posts/325)
 * [오픈소스를 수익화 하는 법 - Awesome OSS Monetization | GeekNews](https://news.hada.io/topic?id=6532)
 * [How to make your first #opensource contribution ? |#opensource is next big thing | #github |#devops - YouTube](https://www.youtube.com/watch?v=Y51AF7CTBXM)
+* [내가 오픈소스를 싫어하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1105/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
