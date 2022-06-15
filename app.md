@@ -72,6 +72,7 @@ App
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
   * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
+* [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
@@ -287,6 +288,8 @@ App
     * 댓글 활성화, 블로그 포스트에 대한 깃헙, 코랩 링크 자동 삽입
   * [Introducing fastpages - An easy to use blogging platform with extra features for Jupyter Notebooks](https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
+* [Feather Wiki | About](https://feather.wiki/)
+  * [Feather Wiki - 1개의 HTML로 저장되는 개인용 위키 | GeekNews](https://news.hada.io/topic?id=6667)
 * [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
@@ -899,6 +902,7 @@ App
     * [Advanced Visual Studio Code for Python Developers – Real Python](https://realpython.com/advanced-visual-studio-code-python/)
     * [비주얼 스튜디오 코드의 파이썬 기능 추가와 변경사항(2022년 3월 업데이트)](https://blog.naver.com/drvoss/222663943725) python 버전 변환
     * [Powerful VSCode Tips And Tricks For Python Development And Design - YouTube](https://www.youtube.com/watch?v=fj2tuTIcUys)
+    * [Python in Visual Studio Code – June 2022 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2022-release/)
   * react
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
@@ -1229,6 +1233,7 @@ App
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
+* [UTM: Virtual machines for iOS and macOS](https://github.com/utmapp/UTM)
 * Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
@@ -1708,6 +1713,9 @@ App
 * [무작정 Markdown 으로 문서 사이트를 만들고 싶은 이들에게... - DEV Community](https://dev.to/composite/mujagjeong-markdown-euro-munseoreul-mandeulgo-sipeun-ideulege-2mn9) Retype, Docsify
 * [Render mathematical expressions in Markdown | GitHub Changelog](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
+* [BatNoter](https://batnoter.com/login)
+  * [batnoter: An open source, markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
+  * [GitNoter - 마크다운 기반 셀프호스트 노트 작성 웹앱 오픈소스 | GeekNews](https://news.hada.io/topic?id=6675)
 * [Bear App](https://bear.app/)
   * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
