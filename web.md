@@ -243,7 +243,9 @@ Web
 * [32 UI Elements Designers Need To Know](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
   * [프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소 (번역)](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-32%EA%B0%80%EC%A7%80%EC%9D%98-UI-%EC%9A%94%EC%86%8C-%EB%B2%88%EC%97%AD)
 * [내가 프론트엔드를 학습한 방법 | miryang.dev](https://miryang.dev/blog/how-studied-frontend)
+* [Why is Front-End Development So Unstable?](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [The Medium RSS Feed’s Missing Part | by Sabesan Sathananthan | Geek Culture | Jun, 2022 | Medium](https://medium.com/geekculture/the-medium-rss-feeds-missing-part-65a0b556dda1)
+* [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) http cache
 
 # Apache
 * installation
@@ -704,6 +706,7 @@ Web
     * `<h1>`등의 태그가 `<section>`과 만날 때 시각적으로는 어떻게 보이고 접근성 레벨에서는 어떻게 다른지 설명
   * `<section>`을 쓰면 안 되는 것은 아니지만 접근성 제공 측면에서 요약 정도 등에 스크린리더가 알 수 있게 `<section>`을 사용하면 된다고 설명
 * [HTML 요소 inert 속성에 대해 알아보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220603)
+* [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
@@ -770,6 +773,7 @@ Web
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
+* [tiny frontend](https://tiny-frontend.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 * [Wapp - A Web-Application Framework for TCL](https://wapp.tcl.tk/home/doc/trunk/README.md)
@@ -1023,6 +1027,7 @@ Web
   * [Settings for your FastAPI application + tests | by Gustavo Caetano | May, 2022 | Medium](https://medium.com/@caetanoog/settings-for-your-fastapi-application-tests-e4f91d5800c4)
   * [코딩 알려주는 라이언 - YouTube](https://www.youtube.com/channel/UCdTRjVhVcEKBiuUm4r-PHxw/videos)
   * [원티드 서버개발자 QnA 1편 ‘원티드 서버 FastAPI 도입 장점과 단점’ | by Myounghee jang | 원티드 제품 팀블로그 | Jun, 2022 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-qna-1%ED%8E%B8-%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84-fastapi-%EB%8F%84%EC%9E%85-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%90-c09a67b05d72)
+  * [WebSockets In Python FastAPI — Fetching Data At Super Speed | by Zlliu | May, 2022 | Python in Plain English](https://python.plainenglish.io/websockets-in-python-fastapi-fetching-data-at-super-speed-3c7b355949fd)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
