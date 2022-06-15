@@ -101,6 +101,9 @@ Open Source
 # Apple
 * [Apple Open Source](https://opensource.apple.com/)
 
+# Book
+* [Producing Open Source Software](https://producingoss.com/)
+
 # Contribution
 * [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
 * [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y)
