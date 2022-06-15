@@ -201,6 +201,7 @@ Git
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [OpenGitOps 1.0 is finally here and why you should care | OpenGitOps](https://opengitops.dev/blog/1.0-announcement/)
 * [A ‘Hello World’ GitOps Example Walkthrough – zwischenzugs](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough/)
+* ["쿠버네티스와 깃옵스는 빵과 버터" 구글이 깃옵스를 간소화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/238124) gitops
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
