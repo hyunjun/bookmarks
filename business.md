@@ -498,6 +498,7 @@ Business
 * [아마존 앤디 재시의 2021년 첫 연례 주주서한 (번역) – 이바닥늬우스](https://ebadak.news/2022/04/15/andy-jassy-letter-2021/)
 * [제프 베조스의 마지막 주주서한과 앤디 제시의 첫 주주서한에 담긴 '아마존다움' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/amazonletter20220427)
   * [제프 베조스의 마지막 주주서한과 앤디 제시의 첫 주주서한에 담긴 '아마존다움'](https://drive.google.com/file/d/1DSSVr65EcXvmA4WMYxdfNAMCQ5JLwgoj/view?usp=sharing)
+* [벤더 기고ㅣ아마존의 '데이 원(Day 1)' 문화 - CIO Korea](https://www.ciokorea.com/news/238639)
 * [칼럼 | ‘트랜잭션 앱과 소비 앱’··· 기업 IT 관점의 고찰 - CIO Korea](https://www.ciokorea.com/news/232424)
 * [Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://semianalysis.substack.com/p/samsung-electronics-cultural-issues)
   * [삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다 | GeekNews](https://news.hada.io/topic?id=6402)
@@ -880,6 +881,7 @@ Business
 * [에이블리가 '미친 알고리즘' 만든 비결은? | 컴퍼니 타임스의 생생한 인터뷰 확인하기 | 컴퍼니 타임스 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1725)
 * [EN Specialist : CTO 하쿠](https://recruit.enlighten.kr/3779abfb-c274-4c6a-8e61-628b97b6bd97)
 * [전 웨이브 CTO, 아마존코리아 이사, 34년 경력의 개발자가 세특에 합류한 이유: 세탁특공대 CTO 필릭스 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254169)
+* [기고 | 개발·전략 모두 하는 새로운 길··· ‘코딩 리더’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/238439)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -983,6 +985,7 @@ Business
 * [국내 유소년 훈련 지켜본 히딩크가 '충격' 받은 사연 SS현장](https://sports.v.daum.net/v/20220603184436117) 유소년 훈련만이 아니라 일반적인 업무에서도 이런 자세가 필요
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [나는 우리 직원을 신뢰하는가 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236073)
+* [Friendships form via shared context, not shared activities | Bill Mei](https://billmei.net/blog/friendship) 우정에 대한 이야기지만 신뢰로 바꿔서 생각해봐도 큰 무리는 없음
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
@@ -1201,6 +1204,7 @@ Business
 * [뉴욕타임스 2022년 1분기 실적에서 한국 언론이 배울 점 4가지](https://mediagotosa.com/nyuyogtaimseu-1bungi-siljeogeseo-hangug-eonroni-baeul-jeom-3gaji/)
 * [감성 지능이 높은 리더의 특징 – 체인지그라운드](http://thechangeground.com/archives/34958)
 * [조직은 리더의 수준만큼 성장합니다.. 리더를 평가하는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/evaluateleader20220607)
+* [Empathy is a Technical Skill](https://www.infoq.com/articles/empathy-technical-skill/) leadership 이야기는 아니지만
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1595,6 +1599,7 @@ Business
     * 다행히도 스타트업은 불황이든 아니든 효율적으로 일하면 됨
     * 오히려 불황에는 경쟁이 적어져서 생존할 수 있다면 그 기술을 가질 수 있게 되므로 좋은 문제를 풀려는 좋은 팀이 있다면 지금이 그 타이밍
 * [전직 유니콘 CFO가 말하는 ‘스타트업 허와 실’ - 매경ECONOMY](https://www.mk.co.kr/economy/view/2022/469374/)
+* [스타트업 생활 그리고 성장. 대기업 이커머스 회사에서 스타트업 검색 모델러로 이직한지 1년이 넘는… | by Jukyoung LEE | Jun, 2022 | Medium](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
