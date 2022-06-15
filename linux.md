@@ -141,6 +141,7 @@ Linux
   * [Linux kernel is switching to a modern C! Why? Lets study the source code and see why - YouTube](https://www.youtube.com/watch?v=-G1FuEQqxVI)
 * [cpu scheduling image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116314#gistcomment-4116314)
 * [Hints for writing Unix tools](https://monkey.org/~marius/unix-tools-hints.html)
+* [10 resources every sysadmin should know about | Opensource.com](https://opensource.com/article/19/7/resources-sysadmin)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -260,7 +261,6 @@ Linux
   * `yum list available <package>`
   * `yum update <package>`
   * proxy
-    * ~[(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)~
     * `proxy=http://x.y.z.w:port`
       * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
@@ -450,6 +450,8 @@ Linux
 * [7 Linux commands to use just for fun | Opensource.com](https://opensource.com/article/21/11/fun-linux-commands)
 * [An intro to finding things in Linux](https://www.madebygps.com/an-intro-to-finding-things-in-linux/) locate whereis which find
 * [4 Linux tools to erase your data | Opensource.com](https://opensource.com/article/21/10/linux-tools-erase-data)
+* [20 Linux commands every sysadmin should know | Opensource.com](https://opensource.com/article/17/7/20-sysadmin-commands)
+* [7 infrastructure performance and scaling tools you should be using | Opensource.com](https://opensource.com/article/19/6/performance-scaling-tools)
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
   * [새로 나온 커맨드라인 툴들 | GeekNews](https://news.hada.io/topic?id=6361)
 * `at`
