@@ -235,6 +235,8 @@ Book
 * (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
+* (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
+  * 탐라 그래픽334.222-브231ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
