@@ -171,6 +171,8 @@ Json
   * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
   * [Jackson에서 Boolean 직렬화 시 is가 사라지는 문제 — 맥스의 개발 끄적끄적](https://maxjang.com/7)
   * [jackson-module-scala overview and new scala 3 reflection helper | by PJ Fanning | Mar, 2022 | Medium](https://medium.com/@pjfanning/jackson-module-scala-overview-and-new-scala-3-reflection-helper-b824be8221f7)
+* [Jasonette - Native App over HTTP](https://jasonette.com/)
+  * [Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6652)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
   * [Jan-Piet Mens :: A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
