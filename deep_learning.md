@@ -1006,14 +1006,15 @@ Deep Learning
     * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
     * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
 * [Full Stack Deep Learning - Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
+  * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+    * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
+  * [FSDL 2022 - Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Udacity Deep Learning Nanodegree 수료 후기](https://medium.com/@EJSohn/udacity-deep-learning-nanodegree-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-51449857fc24)
 * [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/board_fpbt85/55766)
 * [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
-* [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
-  * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 * [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
 * [MIT Deep Learning](https://deeplearning.mit.edu/)
 * [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
