@@ -370,6 +370,7 @@ Programming
 * [Why Tacit Knowledge is More Important Than Deliberate Practice - Commonplace - The Commoncog Blog](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
+* [Animated QR codes: how do they work, and how to create your own?](https://www.bleepingcomputer.com/news/technology/animated-qr-codes-how-do-they-work-and-how-to-create-your-own/)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
   * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
   * Most of Google’s code is stored in a single unified source-code repository, and is accessible to all software engineers at Google
