@@ -1524,6 +1524,7 @@ Javascript
 * [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
 * [pzuraq | blog | Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
   * [번역 자바스크립트 프레임워크의 네 시대 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-05-27-Four-Eras-of-JavaScript-Frameworks)
+* [자바스크립트 프레임워크 비교 - 코드쓰는사람](https://taegon.kim/archives/10477)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
