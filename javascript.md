@@ -1053,6 +1053,7 @@ Javascript
 * [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 * [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
 * [Event Loop in JavaScript - DEV Community](https://dev.to/abhij1607/event-loop-in-javascript-35pk)
+* [What you should know to really understand the Node.js Event Loop | by Daniel Khan | Node.js Collection | Medium](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
@@ -1934,6 +1935,8 @@ Javascript
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Rando.js | The better JavaScript random function](https://randojs.com/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
+* [ray-optics: Simulate reflection and refraction of light](https://github.com/ricktu288/ray-optics)
+  * [Ray Optics Simulation - Home](https://ricktu288.github.io/ray-optics/)
 * [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com ](https://github.com/jasonbio/reddit-shell)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [Remix - Build Better Websites](https://remix.run/)
@@ -2052,6 +2055,7 @@ Javascript
   * [개발자가 사랑하는 프론트엔드 프레임워크2 스벨트 Svelte 사용법](https://www.samsungsds.com/kr/insights/svelte2.html)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
+  * [Svelvet](https://svelvet.io/)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [swagger-api-library](https://github.com/satansdeer/swagger-api-library)
@@ -2718,6 +2722,8 @@ Javascript
   * [How to publish Deno modules to NPM](https://deno.com/blog/dnt-oak)
     * Deno 웹 프레임워크인 oak를 만든 Kitson Kelly가 dnt를 이용해서 oak을 NPM 레지스트리에 배포하는 방법 설명
     * dnt는 Deno 코드를 Node 호환 npm으로 변환하는 빌드 파이프라인을 제공하기 때문에 이를 이용해서 oak를 Deno로 개발한 뒤에 npm에 배포해서 node에서 사용
+  * [How we converted our Node.js library to Deno (using Deno) | EdgeDB Blog](https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno)
+    * [EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법 | GeekNews](https://news.hada.io/topic?id=6676)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
@@ -2885,6 +2891,7 @@ Javascript
     * `.waitForSelector`와 `.waitForXPath`의 반환 값 미사용: 해당 요소를 반환하므로 추가로 셀렉트할 필요 없음
     * 별도 파서 사용: 이미 Puppeteer에 파서가 있으므로 특별한 이유 없이 HTML 파서를 사용하면 느려짐
     * 다른 도구가 더 적절할 때도 Puppeteer 사용
+    * [Puppeteer 안티패턴들 피하기 | GeekNews](https://news.hada.io/topic?id=6636)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
@@ -3568,6 +3575,7 @@ Javascript
 * [Responsive React Movies App With API | ReactJS Movies | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=PCBUcSoiEu4)
 * [Add Dark Mode in React js App and Website | React js Dark Mode With localStorage - YouTube](https://www.youtube.com/watch?v=5zeuW802NLg)
 * [React.js: first class - YouTube](https://www.youtube.com/watch?v=AJLB-hjFhUk)
+* [19 GitHub Repositories to Become a React Master ⚛️🧙 - DEV Community](https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
