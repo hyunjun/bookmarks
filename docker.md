@@ -889,6 +889,7 @@ Docker
   * 서버 주소를 알아 온 뒤 인증을 위해서 토큰 추출, API에 직업 HTTP 요청을 보내서 kubectl에서 이용, 클러스터 정보 조회 과정 설명
   * kube-apiserver에서 OpeanAPI 스펙 문서도 제공하므로 이를 이용하면 API 목록도 확인 가능
 * [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
+* [A Primer on Kubernetes Access Control – The New Stack](https://thenewstack.io/a-primer-on-kubernetes-access-control/)
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -1375,6 +1376,7 @@ Docker
 * [쿠버네티스 실습 환경 배포 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvP1gmNsWr6YvXIQ7TonCr8h)
 * [SK텔레콤 컨테이너솔루션개발팀 - YouTube](https://www.youtube.com/channel/UCOQoi9CNSy915agW42113WA)
 * [쿠버네티스 데이터베이스 오퍼레이터 소개 및 멤버 글 모음](https://gasidaseo.notion.site/49a7bd791f674dc38093598f9d88d4c2)
+* [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1618,7 +1620,9 @@ Docker
   * [**minikube로 docker와 docker-compose를 대체하기**](https://novemberde.github.io/docker/2021/09/02/podman-minikube.html) docker 유료화에 맞춘 시의적절한 글
   * [Minikube installation | Kubernetes Tutorial - DEV Community](https://dev.to/jmbharathram/minikube-installation-kubernetes-tutorial-4d30)
   * [Minikube installation | Kubernetes tutorial - YouTube](https://www.youtube.com/watch?v=GaozUc_1zQc)
+  * [Jumpstart Kubernetes Locally with this MiniKube Tutorial](https://adamtheautomator.com/minikube-tutorial/)
 * [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
+  * [mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6721)
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
