@@ -248,6 +248,11 @@ Programming Books
   * [팀장님, 우리도 협업 도구 쓸까요?. 어떻게 보면 여러가지 도구를 다루고 또 애자일에 대한 이야기를 하면서… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%ED%8C%80%EC%9E%A5%EB%8B%98-%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%98%91%EC%97%85-%EB%8F%84%EA%B5%AC-%EC%93%B8%EA%B9%8C%EC%9A%94-445fc839f4b7)
   * [팀장님, 우리도 협업 도구 쓸까요?](https://jh4hj.tistory.com/entry/%ED%8C%80%EC%9E%A5%EB%8B%98-%EC%9A%B0%EB%A6%AC%EB%8F%84-%ED%98%91%EC%97%85-%EB%8F%84%EA%B5%AC-%EC%93%B8%EA%B9%8C%EC%9A%94)
   * [팀장님, 우리도 협업 도구 쓸까요?](programming_books/shall_we_use_collaboration_tool.md)
+* [좋은 팀을 만드는 24가지 안티패턴 타파 기법 | 에이콘출판사](http://www.acornpub.co.kr/book/retrospectives-antipatterns)
+  * 한라 325.1-코298ㅈ
+  * ★★★☆☆ 2022.06.16
+  * [Retrospectives ANTIPATTERNS 좋은 팀을 만드는 24가지 안티패턴 타파 기법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/retrospectives_antipatterns.md)
+  * [Retrospectives ANTIPATTERNS 좋은 팀을 만드는 24가지 안티패턴 타파 기법 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/retrospectives-antipatterns-%EC%A2%8B%EC%9D%80-%ED%8C%80%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-24%EA%B0%80%EC%A7%80-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-%ED%83%80%ED%8C%8C-%EA%B8%B0%EB%B2%95-aad4d1f3fcdd)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -268,8 +273,6 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라, 우당
-* (NOT YET) [좋은 팀을 만드는 24가지 안티패턴 타파 기법 | 에이콘출판사](http://www.acornpub.co.kr/book/retrospectives-antipatterns)
-  * 한라
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라
 * (NOT YET) [사용자를 끌어들이는 UX/UI의 비밀 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/124)
