@@ -804,6 +804,7 @@ Go
   * [Cobra | A Commander for modern Golang CLI interactions](https://morioh.com/p/09d62ef2fa35)
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
+* [goterminal: A cross-platform Go-library for updating progress in terminal](https://github.com/apoorvam/goterminal)
 * [macos-totp-cli: simple TOTP CLI, powered by keychain of macOS](https://github.com/simnalamburt/macos-totp-cli)
   * macOS의 키체인을 이용해서 터미널에서 TOTP(Time-based One-Time Password)를 사용할 수 있는 CLI
 * [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
