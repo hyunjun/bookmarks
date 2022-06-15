@@ -219,6 +219,7 @@ Algorithm
   * [Sort Characters By Frequency LeetCode | Sort Characters by Frequency Java | LeetCode 451 - YouTube](https://www.youtube.com/watch?v=CpH0YzQsYhw)
   * [algo_crawler](https://github.com/SeanHwangG/algo_crawler)
   * [LeetHub: Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository](https://github.com/QasimWani/LeetHub)
+  * [Top FAANG question Top K Frequent Elements - YouTube](https://www.youtube.com/watch?v=hVlGbxx3Veg)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
