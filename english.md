@@ -73,3 +73,4 @@ English
 * [‘I think’ 대신에 쓸 수 있는 영어 표현 정리 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241996)
 * [영어 원서 읽기를 위한 무료 영어 공개 강의](https://philoskim.github.io/english/)
 * [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
+* [How To Say No](https://www.starterstory.com/how-to-say-no)
