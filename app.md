@@ -1682,6 +1682,7 @@ App
   * [Yorkie Team](https://github.com/yorkie-team)
 * zettelkasten
   * [궁극의 노트 재활용 앱 - 창업 멤버 찾습니다!](https://tkim.oopy.io/)
+  * [제텔카스텐: 창의적인 아이디어를 만드는 노트법 – 왜 디지털이 아닌 종이가 더 효과적일까 (1) | 10x Lessons](https://tkim.co/2022/06/16/original-zettelkasten/)
   * [세컨드 브레인 리소스](https://tkim.oopy.io/e9360a90-f44b-44e6-81fc-bc7e11f94d76)
   * [세컨드 브레인 그룹 - YouTube](https://www.youtube.com/channel/UCrdIQzfs-OnnK24gEJq9S_g)
   * zklab [제텔카스텐 연구소](https://www.zklab.kr/)
