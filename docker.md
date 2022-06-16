@@ -591,6 +591,11 @@ Docker
 * [**컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요? | GeekNews**](https://news.hada.io/topic?id=6240)
 * [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/)
 * [Containerize Your Applications And Learn Using Certifications | ReviewNPrep](https://reviewnprep.com/blog/containerize-your-applications-and-learn-using-certifications/)
+* [Build Your First Docker Extension - Docker](https://www.docker.com/blog/build-your-first-docker-extension/?utm_campaign=2022-06-02-extensions-intro)
+  * Docker Desktop 4.8.0부터 추가된 확장 기능을 만드는 방법 설명
+  * UI는 JavaScript, TypeScript로 작성하는데 React/Material UI 추천
+  * 백엔드는 컨테이너 안에서 실행되므로 어떤 언어든 가능
+  * docker extension init 명령어로 프로젝트 초기 구성 가능, 로컬 설치, 디버깅 가능, 개발 완료시 마켓 플레이스 등록 가능
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1628,6 +1633,8 @@ Docker
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [OKD 개요](https://velog.io/@_gyullbb/OKD-%EA%B0%9C%EC%9A%94)
 * [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
+* [opencost: Cross-cloud cost allocation models for Kubernetes workloads](https://github.com/kubecost/opencost)
+  * [OpenCost: Open Source Collaboration on Kubernetes Cost Standards – The New Stack](https://thenewstack.io/opencost-open-source-collaboration-on-kubernetes-cost-standards/)
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
   * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
