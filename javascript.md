@@ -1640,6 +1640,8 @@ Javascript
     * WebView2는 Edge와 DLL을 공유하고 Node.js를 불포함
   * [Why Electron is a Necessary Evil - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/)
   * [electron js의 IPC! 이것만 보면 됩니다 (inter process communication)](https://blog.naver.com/nanotoly/222621831310)
+  * [nativefier: Make any web page a desktop application](https://github.com/nativefier/nativefier)
+    * [Turn any website into separate native application – ServerKernel](https://serverkernel.com/turn-any-website-into-separate-native-application/)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
@@ -3594,6 +3596,9 @@ Javascript
 * [Add Dark Mode in React js App and Website | React js Dark Mode With localStorage - YouTube](https://www.youtube.com/watch?v=5zeuW802NLg)
 * [React.js: first class - YouTube](https://www.youtube.com/watch?v=AJLB-hjFhUk)
 * [19 GitHub Repositories to Become a React Master ⚛️🧙 - DEV Community](https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n)
+* [Building and Sharing React SVG Icon Components | by Lakindu Hewawasam | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/building-and-sharing-react-svg-icon-components-6e6a8f1dcd6d)
+* [Using GoF Design Patterns with React | by Lakindu Hewawasam | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-gof-design-patterns-with-react-c334f3ea3147)
+* [React js Search Filter List | Search Bar in React js | React Search list Easy Tutorial - YouTube](https://www.youtube.com/watch?v=qEefUHvHoW4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4118,6 +4123,7 @@ Javascript
   * [Recoil : 리액트 상태 관리의 새로운 패러다임 - YouTube](https://www.youtube.com/watch?v=t934FOlOMoM)
   * [Recoil은 Context API를 어떻게 사용하길래 상태 변경이 일어나도 RecoilRoot의 자식 컴포넌트들에 대한 불필요한 리렌더링을 유발하지 않을까? | Woomin](https://woomin.netlify.app/recoil-context-api-no-rerender/)
   * [React hook 테스트 코드에서 Recoil snapshot 참조하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-03-13-ref-snapshot-from-react-hook-testing)
+  * [Recoil, 리액트의 상태관리 라이브러리 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/16/recoil-state-management-of-react/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
