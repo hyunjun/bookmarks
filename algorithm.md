@@ -598,6 +598,8 @@ Algorithm
 * [OR-Tools  |  Google Developers](https://developers.google.com/optimization)
   * [or-tools: Google's Operations Research tools:](https://github.com/google/or-tools)
   * [쏘카 예약을 효율적으로 - 수학적 모델링을 활용한 쏘카 예약 테트리스 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/06/10/reservation-tetris.html)
+    * 쏘카에서 차량의 운영효율을 높이기 위해 알고리즘 개발에 비해 짧은 시간 안에 좋은 결과를 도출할 수 있는 Solver를 사용해서 최적화 문제 해결
+    * 최적화 모델을 찾아서 Google OR-Tools로 구현해서 GCP 배포해서 운영한 결과 이전보다 평균적인 차량 사용 비율이 4% 증가
 * [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [thewalnut.io](https://thewalnut.io)
 
