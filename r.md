@@ -549,6 +549,7 @@ R
 * [funique - ⌚️ A faster unique() function](https://github.com/mkearney/funique)
 * [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
 * [getKinQuery](https://github.com/mrchypark/getKinQuery)
+* golem [Meetup/20220615 Shiny Korea meet-up {golem}.pdf at master · shinykorea/Meetup](https://github.com/shinykorea/Meetup/blob/master/20210308/20220615%20Shiny%20Korea%20meet-up%20%7Bgolem%7D.pdf)
 * googleLanguageR
   * [소설 분석, googleLanguageR 소개](https://junhewk.github.io/text/2017/10/05/googlelanguageR-and-novel-analysis/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
@@ -698,6 +699,7 @@ R
   * bslib [R Shiny에 최신 bs 테마를 적용해주는 {bslib}](https://blog.naver.com/leebisu/222494646466)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
   * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
+  * [R-skku-biohrs: R lecture: SKKU-biohrs](https://github.com/jinseob2kim/R-skku-biohrs)
   * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
   * [webrPSM - YouTube](https://www.youtube.com/watch?v=MjzX-DLB0jc) Propensity score matching
 * simplevis [Make ggplot2 Visualisation Easier and Quicker • simplevis](https://statisticsnz.github.io/simplevis/)
