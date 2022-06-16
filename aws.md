@@ -1608,6 +1608,13 @@ AWS
 * [Learn how to use Input Variables in Terraform | Terraform Tutorial For Beginners | Beginner Academy - YouTube](https://www.youtube.com/watch?v=LEob9kb62Ek)
 * [How Terraform Works : Modules Illustrated | by Bill | Jun, 2022 | Medium](https://medium.com/@mfundo/terraform-modules-illustrate-26cbc48be83a)
 * [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
+* [Automation of Terraform for AWS | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220124-automation-of-terraform-for-aws/)
+  * mercari에서 수동으로 직원들을 위한 AWS 계정을 만들어 주다가 규모가 커지면서 이러한 문제를 해결하기 위해 자동화하는 과정
+  * Terraform보다는 AWS 조직 내에서 계정을 생성하고 해당 계정에 환경을 Terraform으로 프로비저닝하면서 보안 문제가 생기지 않도록 권한 최소화
+  * 계정을 생성할 때는 오직 생성 권한만 가지고 권한을 생성하고 Okta와 SSO를 연결해 계정 생성
+    * 각 환경(production, dev, lab)에서 테라폼용 계정을 만들어서 관리 계정과 권한을 분리해서 보안 강화
+  * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
+    * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
