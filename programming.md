@@ -3850,6 +3850,7 @@ Programming
   * [기술 뉴스 #197 : 22-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1593)
   * [기술 뉴스 #198 : 22-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1595)
   * [기술 뉴스 #199 : 22-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1599)
+  * [기술 뉴스 #200 : 22-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1601)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
