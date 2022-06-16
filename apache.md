@@ -738,6 +738,8 @@ Apache
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
+* [kcat: Generic command line non-JVM Apache Kafka producer and consumer](https://github.com/edenhill/kcat)
+  * [kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970)
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
 * [KSETL로 Kafka 스트림 ETL 시스템을 빠르게 구성하기 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=9p0J3yZyXeg)
 * [KubeMQ: A Modern Alternative to Kafka - DZone Microservices](https://dzone.com/articles/seamless-migration-from-kafka-to-kubemq)
