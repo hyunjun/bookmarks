@@ -84,6 +84,7 @@ Network
 * [LINE의 2022년 신년 대응: 리모트 환경에서 트래픽 폭증에 대비하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-2022-new-year/)
 * [리니지W, 기술로 세계인을 연결하다](https://blog.ncsoft.com/lineagew-network-20211102/)
 * [멘토특강 알고 있으면 도움이 되는, 개발자를 위한 네트워크 기초 - YouTube](https://www.youtube.com/watch?v=RsOEDDrNLM4)
+* [Fiber in Paris – Part 4 – Packet Loss and BBR to the Rescue – WirelessMoves](https://blog.wirelessmoves.com/2022/06/fiber-in-paris-part-4-packet-loss-and-bbr-to-the-rescue.html)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
