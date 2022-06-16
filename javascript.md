@@ -1527,6 +1527,10 @@ Javascript
 * [pzuraq | blog | Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
   * [번역 자바스크립트 프레임워크의 네 시대 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-05-27-Four-Eras-of-JavaScript-Frameworks)
 * [자바스크립트 프레임워크 비교 - 코드쓰는사람](https://taegon.kim/archives/10477)
+  * Ryan Carniato가 TodoMVC를 프레임워크별로 구현해서 비교한 작년 글을 현재 기준으로 새로 업데이트해서 테스트
+  * React, Preact, Solid, Svelte, Vue를 비교해서 프레임워크 자체의 크기와 애플리케이션 코드의 크기 비교
+  * 애플리케이션 코드의 규모가 커졌을 때 전체 사이즈의 경향성도 비교
+  * 용량이 전부는 아니지만, 하나의 기준으로 참고하기 좋은 테스트 결과
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -2724,6 +2728,19 @@ Javascript
     * dnt는 Deno 코드를 Node 호환 npm으로 변환하는 빌드 파이프라인을 제공하기 때문에 이를 이용해서 oak를 Deno로 개발한 뒤에 npm에 배포해서 node에서 사용
   * [How we converted our Node.js library to Deno (using Deno) | EdgeDB Blog](https://www.edgedb.com/blog/how-we-converted-our-node-js-library-to-deno-using-deno)
     * [EdgeDB팀이 Node.js 라이브러리를 Deno용으로 컨버팅한 방법 | GeekNews](https://news.hada.io/topic?id=6676)
+    *  EdgeDB에서 Node.js 클라이언트 라이브러리를 직접 만들어서 제공
+      * Deno를 지원하기 위해 런타임 아답터 패턴을 도입해서 기존 Node.js 모듈을 최소한의 리팩토링으로 놔두고 Deno와 호환되는 모듈로 만드는 Denoify한 과정 설명
+    * 이미 Node.js 모듈을 TypeScript로 작성했기 때문에 ESM으로 바꿔줄 필요는 없었고 서드파티 의존성은 없었기에 외부 라이브러리의 호환성에 대한 걱정도 없음
+    * Node.js 표준 라이브러리에서 임포트한 것은 Deno용으로 바꿀 필요는 존재
+      * Deno에서 이미 Node.js 호환 모듈을 제공하고 있어서 대응하는 모듈로 교체하고 어댑터 파일을 만들어서(adapter.node.ts)
+      * 하나의 파일에서 Node.js API를 임포트하고 각 파일에서는 이 파일 사용
+      * Deno에서는 이 어댑터 파일을 Deno용으로(adapter.deno.ts) 교체
+    * 그래서 아래 작업을 진행하는 코드를 작성해서 CI에서 배포할 때마다 deno 모듈에도 등록하도록 설정
+    * Node.js 스타일의 임포트를 Deno 스타일로 제작성
+    * adapter.node.ts를 임포트를 모두 adapter.deno.ts로 변경
+    * process, Buffer같은 Node.js 전역 변수를 Deno 코드로 변경
+    * src 디렉터리를 _src 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
+    * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
@@ -3321,6 +3338,7 @@ Javascript
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Kent C. Dodds 어플리케이션 상태 관리 (Application State Management with React 한글 번역) :: Code Playground](https://im-developer.tistory.com/222)
 * [React 상태관리 | Maeng's Blog](https://maeng2418.github.io/react/state_management/)
+* [React.js: state tutorial - YouTube](https://www.youtube.com/watch?v=L4MZ3EZ19z8)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
 * [Understanding React PropTypes - Type-Checking in React](https://blog.bitsrc.io/understanding-react-proptypes-type-checking-in-react-9648a62ce12e)
 * [React key prop 이해하기](https://www.awesomezero.com/development/react-key/)
@@ -3779,6 +3797,14 @@ Javascript
   * [Expo-React-Native-Template: Expo React Native + Redux Pattern Ducks + Native Base + EAS](https://github.com/couoheduardo/Expo-React-Native-Template)
 * flipper [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
   * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
+* [Metro | Metro](https://facebook.github.io/metro/)
+  * [Faster JavaScript Builds with Metro | by Rae Liu | The Airbnb Tech Blog | May, 2022 | Medium](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f)
+    * Airbnb에서 JavaScript 번들링에 Webpack을 사용하고 있었는데 작년에 코드 베이스가 4배가 커지면서 개발 경험이 안 좋아졌고 단순 변경에도 페이지를 갱신하는데 30초 ~ 2분 소요
+    * Metro로 변경하고 UI 변경은 80% 빨라졌고 가장 느린 프로덕션 빌드는 55%(30.5분에서 13.8분) 빨라짐
+    * Metro는 React Native 번들러인데 Airbnb는 React Native를 이제 쓰지 않지만, Metro가 웹에도 잘 동작하거라 믿음
+    * Webpack은 번들링하기 전에 엔트리포인트를 알아야 하고 Metro 개발 서버는 요청된 JavaScript 번들을 즉석에서 처리하기 때문에 Webpack은 모든 엔트리 포인트를 다 컴파일하고 요청받은 엔트리포인트의 파일만 컴파일
+    * 또한 Metro는 멀티 레이어 캐시를 지원해서 메모리, 디스크, 원격 캐시 순으로 읽어 들이게 할 수 있어서 원격 캐시로 56% 빠르게 할 수 있었고 내장된 워커 지원으로 무거운 작업을 병렬 처리(Webpack은 서드파티 플러그인 설정 필요)
+    * Metro를 웹에서 처리하기 위해 추가적인 설정 작업이 필요했고 먼저 개발환경을 개선하고 프로덕션은 Webpack과 A/B 테스트를 진행해서 Metro의 프로덕션 빌드가 최적화되도록 진행
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation)
@@ -3825,6 +3851,9 @@ Javascript
   * [contextAPI 레이어 관리 그리고 테스트](https://blog.naver.com/pjt3591oo/222604995823)
   * [React - Context API - YouTube](https://www.youtube.com/watch?v=JQ_lksQFgNw)
   * [다른 사람들이 안 알려주는 리액트에서 Context API 잘 쓰는 방법](https://velog.io/@velopert/react-context-tutorial)
+    * React의 Context API를 이용하면 컴포넌트에 Props를 계속 전달해주어야 하는 Props Drilling 문제를 피할 수 있음
+    * createContext 함수로 값을 선언하고 자식 컴포넌트에서 이 값에 접근하는 방법 설명
+    * 이를 이용해서 상태관리를 하거나 최적화를 위해 여러 Context를 사용하는 등 다양한 Context API의 사용법을 예제코드로 설명
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
