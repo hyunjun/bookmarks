@@ -1549,6 +1549,7 @@ Deep Learning
 * [Neural networks for algorithmic trading. Part One — Simple time series forecasting](https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a)
 * [Deep Learning using Deep Neural Networks](https://www.linkedin.com/pulse/deep-learning-using-neural-networks-niraj-kumar)
 * [K-Fold Cross-Validation for Neural Networks](https://jamesmccaffrey.wordpress.com/2013/10/25/k-fold-cross-validation-for-neural-networks/)
+* [데이터 분할과 교차 검증 | Pega Devlog](https://jehyunlee.github.io/2022/06/15/Python-DS-104-kierlecture3/) stratified k fold, cross validation
 * [What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)
   * 신경망에서 activation 함수와 cost(또는 loss, target, objective) 함수는 별개
     * Activation함수, cost함수에 어떤 심오한 (과학적) 의미는 없고, 그냥 인공 신경망을 잘 동작시키기 위해 만든 함수
