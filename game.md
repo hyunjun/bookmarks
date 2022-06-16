@@ -135,6 +135,7 @@ Game
   * [How To Use Python Inside Unreal Engine 4 - YouTube](https://www.youtube.com/playlist?list=PLBLmKCAjA25Br8cOVzUroqi_Nwipg-IdP)
   * [Unreal Engine 5 정식 릴리즈 | GeekNews](https://news.hada.io/topic?id=6317)
   * [간단하지만 까다로운 언리얼 엔진 개발 환경 구축 - 넷마블 기술 블로그](https://netmarble.engineering/unreal-engine-dev-build-setting/)
+  * [언리얼 인사이트와 친해지기 위한 준비 운동 - 넷마블 기술 블로그](https://netmarble.engineering/preparing-for-unreal-insight/)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
