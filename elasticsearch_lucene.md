@@ -614,6 +614,7 @@ ElasticSearch - Lucene
   * [Long live Open Distro for Elasticsearch - Logical Clocks](https://www.logicalclocks.com/blog/elasticsearch-is-dead-long-live-open-distro-for-elasticsearch)
   * [Open Distro for Elasticsearch — 로그를 활용한 장애 탐지 | by Sangsik Kim | 29CM 기술블로그 | Mar, 2021 | Medium](https://medium.com/29cm/open-distro-for-elasticsearch-%EB%A1%9C%EA%B7%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%A5%EC%95%A0-%ED%83%90%EC%A7%80-8ff60dc3e5f)
   * [Amazon Updates Its Elasticsearch Service, Begins Embrace of New Fork](https://www.infoq.com/news/2021/04/amazon-elasticsearch-new-fork/)
+* [Opster - Taking Care of Your Entire Search Operation](https://opster.com/)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
   * [Welcome Prelert to the Elastic Team](https://www.elastic.co/blog/welcome-prelert-to-the-elastic-team)
