@@ -800,6 +800,7 @@ Linux
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
   * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
+  * [What is the sed command || Why do we use sed command || - YouTube](https://www.youtube.com/watch?v=2-ukZ-VVzEs)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
   * [sed-circuit-simulator](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
   * [useful-sed: Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed)
