@@ -182,6 +182,9 @@ Writing
 * [We rebuilt Cloudflare's developer documentation - here's what we learned](https://blog.cloudflare.com/new-dev-docs/)
 * [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
   * [엔지니어를 위한 글쓰기](https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56)
+    * 글을 쓸 때 글감이나 태도에 대해 다루고 글을 쓰기 전에 좋은 글을 쓰기 위해 줄거리나 요약 등을 적는 방법, 글쓰기를 연습하는 방법 소개
+    * `머리에 명확한 메시지가 아직 없다면, 당신은 아직 글 쓸 준비가 되지 않은 것입니다.`
+    * `글쓰기 기술을 향상하는 유일한 방법은, 바로 글을 써보는 것입니다. 대부분의 많은 연습이 그렇듯이, 질보다 양을 중시하는 건 보통 좋은 생각입니다.`
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
