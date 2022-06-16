@@ -148,6 +148,7 @@ Business
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
 * [한국인 구글러 1호는 왜 야놀자로 옮겼을까? (f.이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061018347779901) 조직문화
+* [‘한국인 구글러 1호’가 구글에서 20년간 날마다 받은 것 (이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061618387757979)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
 * [Man Seok Techne Schoe: Samsung Electronics Cultural Issues Are Causing Disasters In Samsung Foundry, LSI, And Even DRAM Memory!](https://manseok.blogspot.com/2022/04/samsung-electronics-cultural-issues-are.html)
   * 2022 현재 삼성의 문제점에 대한 이야기
@@ -1526,6 +1527,7 @@ Business
   * [스타트업 부트스트래핑 가이드 | GeekNews](https://news.hada.io/topic?id=5178)
 * [토스 이승건 대표 "우리는 실패율 95%짜리 조직"](https://brunch.co.kr/@1312capo/48)
 * [토스 이승건 대표 스타트업의 성장에 대한 정의](https://www.facebook.com/spacelee/posts/10158708410809822)
+* [넥스트 라이즈 2022, 토스-이승건 대표님 강연 | Disquiet\*](https://disquiet.io/@blockcustor/makerlog/829) fail fast
 * [일반창업기업과 스타트업의 차이점 : 네이버 블로그](https://blog.naver.com/dmchoi888/222697673190)
 * [김범석 쿠팡 창업자가 이야기하는 스타트업 조직관리법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/%EC%BF%A0%ED%8C%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC%EC%97%90-%EC%84%B1%EA%B3%B5%ED%96%88%EB%82%98) 하나에 집중, 시행착오 회피, 고객 최우선, 직원은 제2의 고객, 실용주의, 실력주의 인사
 * [고객이 의지할 만한 조언자인가?, 시장을 대하는 관점이 승패 갈라 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/10444/ac/magazine)
