@@ -33,6 +33,7 @@ House
   * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
 * [여러분은 당하지 마세요. 누구나 당할 수 있는 전세사기수법 부동산경매 - YouTube](https://www.youtube.com/watch?v=yPDjzTvptoo)
 * [전세보증보험 들어도 전세사기를 당하는 이유는? 국가때문](https://brunch.co.kr/@readme999/241)
+* [결코 남얘기가 아닌 전세사기, 대처법 나왔다? | 부동산 두부레터](https://content.v.daum.net/v/EOhBsziT2j)
 * [매거진 | 전세보증금 반환 보증 보험](https://www.goodchobo.com/magazine/MZTY/269)
 * [전세 연장 하실 때 꼭 이것 확인하세요! 광장히 위험한 상황에 빠질 수 있습니다! - YouTube](https://www.youtube.com/watch?v=moxsBxln4K4)
   * 등기부등본 확인(e.g. 을부 근저당권), 전입 유지(대항력 유지), 기존 계약서의 연장임을 명백히 표시(증액이 있는 경우 확정일자 받기), 전세 대출 활용, 지역 공급 계획 확인
