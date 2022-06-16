@@ -829,6 +829,7 @@ Data Science
 * [Survey 추천시스템 라이브러리 비교](https://velog.io/@tobigs-recsys/RecommenderSystemLibraries)
 * [Real World Recommendation System - Part 1 - by Nikhil Garg](https://blog.fennel.ai/p/real-world-recommendation-system)
 * [Real World Recommendation Systems - Part 2 (Training Data Generation)](https://blog.fennel.ai/p/real-world-recommendation-systems)
+* [‘AI 추천 기술’을 선도하는 카카오 추천팀을 소개합니다. – tech.kakao.com](https://tech.kakao.com/2022/06/16/data-recommendation-system/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
