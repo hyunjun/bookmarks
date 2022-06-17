@@ -618,6 +618,8 @@ Business
 * [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
+* [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
+* [잘 될 거 같았는데 안 된 스타트업 CEO들의 특징](https://eopla.net/magazines/62)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
