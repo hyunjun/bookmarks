@@ -1863,6 +1863,8 @@ Javascript
   * [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
   * [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
   * [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
+  * [TypeORM Transaction을 Test하기 (with queryRunner)](https://velog.io/@dev_leewoooo/TypeORM-Transaction%EC%9D%84-Test%ED%95%98%EA%B8%B0-with-queryRunner)
+  * [시리즈 | NestJs - dev_leewoooo.log](https://velog.io/@dev_leewoooo/series/NestJs)
   * [NestJS (with Mono Repo) WebStorm으로 디버깅 하기](https://jojoldu.tistory.com/607)
   * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
