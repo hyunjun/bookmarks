@@ -3261,6 +3261,7 @@ Programming
 * [Identity problems get bigger in the metaverse – O’Reilly](https://www.oreilly.com/radar/identity-problems-get-bigger-in-the-metaverse/)
 * [Plumbing for the Metaverse with Universal Scene Description (USD) | by NVIDIA Omniverse | Medium](https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12)
 * [USD Home — Universal Scene Description 22.05 documentation](https://graphics.pixar.com/usd/release/index.html)
+* [Meta 넘버3(전 영국 부총리)의 메타버스 이야기](https://www.c-rocket.net/meta_metaverse_nick_clegg/)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
