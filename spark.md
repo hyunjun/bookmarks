@@ -1008,6 +1008,7 @@
 * [Spark 3.0 — New Functions in a Nutshell - Javarevisited - Medium](https://medium.com/javarevisited/spark-3-0-new-functions-in-a-nutshell-a929fca93413)
 * [Spark & AI summit and a glimpse of Spark 3.0 | by Adi Polak | Towards Data Science](https://towardsdatascience.com/spark-ai-summit-and-a-glimpse-of-spark-3-0-5fe0775386de)
 * [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
+* [Apache Spark 3.0 Exciting Capabilities | by Teepika R M | Jun, 2022 | Medium](https://teepika-r-m.medium.com/apache-spark-3-0-exciting-capabilities-f57132e158f)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
