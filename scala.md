@@ -739,7 +739,7 @@ Scala
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
-  * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-_to_t-md)
+  * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-to-t-md)
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
   * [practice - multiple Future -> for, map, flatMap](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-multiple_future-scala)
     * [scala - Alternative to await.ready - Stack Overflow](https://stackoverflow.com/questions/41101633/alternative-to-await-ready) 결국은 `Future[T]` 반환
@@ -996,6 +996,7 @@ Scala
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
     * [Introducing Scopes in ZIO 2.0 | Medium](https://murraytodd.medium.com/zio-20-scopes-b583f487c0af)
     * [Structuring ZIO 2 applications](https://softwaremill.com/structuring-zio-2-applications/)
+    * [ZLayers in ZIO 2.0 are a totally different BEAST! - YouTube](https://www.youtube.com/watch?v=3ScqDZp9X3c)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
@@ -1348,6 +1349,7 @@ Scala
   * [Cats with Scala: Essential Type Class Hierarchy - YouTube](https://www.youtube.com/watch?v=_afyiQB7N0Y)
   * [(re)constructing sequences with Alternative - Scala tutorial - YouTube](https://www.youtube.com/watch?v=s3DRr1dQmrc)
   * [Data validation using cats Validated](https://yadukrishnan.live/data-validation-and-error-accumulation-using-cats-validated)
+  * [Validation in Scala 3 with Cats. In this post we are going to see how to… | by Sergio Cano | May, 2022 | Medium](https://medium.com/@canosergio90/validation-in-scala-3-with-cats-ffa999e4186b)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1507,6 +1509,7 @@ Scala
 * [ScalaCache: A Caching Library To Rule Them All | Baeldung on Scala](https://www.baeldung.com/scala/scalacache)
 * [Scala CLI | Scala CLI](https://scala-cli.virtuslab.org/)
   * ["#Scala CLI" - Tool or Toy? - YouTube](https://www.youtube.com/watch?v=c5lBokinwas)
+  * [Creating CLI tools leveraging ZIO and Decline using scala-cli](https://mpkocher.github.io/2022/06/02/CLI-App-leveraging-ZIO-and-Decline-using-scala-cli/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -2510,6 +2513,7 @@ Scala
 * [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
 * [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
 * [Resource safety is hard - SPFS #10 - YouTube](https://www.youtube.com/watch?v=Ig2rY0hR6JI)
+* [It's time to traverse (SPFS #11) - YouTube](https://www.youtube.com/watch?v=8dE0gZpm8us)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
