@@ -353,3 +353,4 @@ Bitcoin
 * [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
 * [Web3라는 집단 광기에 여러 사람이 다칠 것이다 – 박세희 Park Sehee](https://parksehee.blog/2022/06/06/web3-hysteria/)
 * [Crash course in Web3 Application Development with Python](https://blog.doppler.com/crash-course-in-web3-application-development-with-python)
+* [Two Cents #53 Web3 투자 Thesis - by Jin Ho Hur - Two Cents](https://hur.substack.com/p/web3-thesis)
