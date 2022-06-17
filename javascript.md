@@ -2298,6 +2298,10 @@ Javascript
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
 * [JavaScript 번들러로 본 조선시대 붕당의 이해 | 요즘IT](https://yozm.wishket.com/magazine/detail/1261/)
+* [JavaScript 번들러의 이해 — (1) JavaScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-1-javascript-%EB%AA%A8%EB%93%88-d68c7e438fcd)
+* [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
+* [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
+* [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 * [Parcel 한국어판](https://ko.parceljs.org/)
   * [Parcel 사용해보기](https://velog.io/@juunini/Parcel-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
