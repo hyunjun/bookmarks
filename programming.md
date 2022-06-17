@@ -1776,6 +1776,7 @@ Programming
 * [크몽 MSA 도입 이야기. 크몽 서버 아키텍처는 어떻게 변화 했을까? | by DanielSeo | May, 2022 | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-msa-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-6c20afe6cc1e)
 * [Micro-services - Client Side Discovery - YouTube](https://www.youtube.com/watch?v=Zmk2LZGZ9dE)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
+* [**MSA 환경에서 네트워크 예외를 잘 다루는 방법 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/msa-transaction/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
