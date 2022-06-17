@@ -378,3 +378,4 @@
 * [Has UML died without anyone noticing? | Ernesto Garbarino](https://garba.org/posts/2021/uml/)
 * [UML: 클래스 다이어그램과 소스코드 매핑](https://www.nextree.co.kr/p6753/)
 * [UML 이야기 첫 번째, 클래스 다이어그램 - YouTube](https://www.youtube.com/watch?v=CM61UST1gsQ)
+* [NAVER Glace 신입 적응기: UML을 활용한 코드 리팩토링 및 코드 리뷰 | by Younghoon Yun | Jun, 2022 | Medium](https://medium.com/naver-place-dev/naver-glace-%EC%8B%A0%EC%9E%85-%EC%A0%81%EC%9D%91%EA%B8%B0-uml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%B0%8F-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-3dfc63197768)
