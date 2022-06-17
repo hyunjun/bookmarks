@@ -207,6 +207,7 @@ Sports
 * [빌드업의 원리 (3)](http://blog.naver.com/manutd92/220648589455)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [영국 프리미어 리그 웨스트햄 유나이티드 유스  전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports3)
+* [The map of English football](https://www.facebook.com/NLBantz/posts/1844639279072213)
 * [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편
 * [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)
 * [**한준의 축구환상곡 "선수 탓하면 아마추어" 한국 지도자에 노하우 전수한 '저승사자' 레이몬드**](https://sports.v.daum.net/v/20191212181257725) 축구 레퍼런스에 대해 언급하는 부분이 정말 인상적, 축구 외의 일반적인 영역에도 적용 가능
