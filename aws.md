@@ -1497,6 +1497,7 @@ AWS
 * [Amazon S3 - Same Region Replication Setup](https://programmersblock.hashnode.dev/aws-s3-same-region-replication)
 * [AWS S3 Cross Region Replication](https://programmersblock.hashnode.dev/amazon-s3-cross-region-replication)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
+* [AWS S3 Endpoint (Gateway / Interface Private Link) 사용 방법](https://zigispace.net/1191)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
