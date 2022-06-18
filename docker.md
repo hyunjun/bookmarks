@@ -1384,6 +1384,7 @@ Docker
 * [SK텔레콤 컨테이너솔루션개발팀 - YouTube](https://www.youtube.com/channel/UCOQoi9CNSy915agW42113WA)
 * [쿠버네티스 데이터베이스 오퍼레이터 소개 및 멤버 글 모음](https://gasidaseo.notion.site/49a7bd791f674dc38093598f9d88d4c2)
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
+* [Kubernetes in 2 minutes | Razorops](https://razorops.com/blog/kubernetes-in-2-minutes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
