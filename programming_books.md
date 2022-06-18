@@ -1970,6 +1970,9 @@ Programming Books
   * [Leading with the Heart 사슴을 이끄는 사자의 리더십](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leading_with_the_heart.md)
   * [Leading with the Heart 사슴을 이끄는 사자의 리더십 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/leading-with-the-heart-%EC%82%AC%EC%8A%B4%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EC%82%AC%EC%9E%90%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-abe871479a3f)
   * [Leading with the Heart 사슴을 이끄는 사자의 리더십](https://jh4hj.tistory.com/entry/Leading-with-the-Heart-%EC%82%AC%EC%8A%B4%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-%EC%82%AC%EC%9E%90%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
+* [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
+  * 한라 325.211-시194ㄹ, 탐라 문325.24-시213ㄹ
+  * ★★★☆☆ 2022.06.17~18
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
@@ -1981,8 +1984,6 @@ Programming Books
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
-* (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
-  * 한라, 탐라
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
 
