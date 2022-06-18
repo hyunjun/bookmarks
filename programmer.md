@@ -149,6 +149,8 @@ Programmer
 # Career path
 * [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
 * [Creating a career ladder for engineers - Marco Rogers | #LeadDevNewYork - YouTube](https://www.youtube.com/watch?v=jA1Q94d2z10) 개발자들의 커리어 사다리가 왜 중요하고 어떻게 운영하면 되는가
+* [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
+* [Engineering Ladders을 이용한 성장방향 찾기. 요즘 가장 크게 고민하고 있는 것 중에 하나는 “엔지니어의 성장이란… | by Kyung Jun Park | Jun, 2022 | Medium](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)
 * [What I Learnt Becoming a Tech Lead - Tom Gamon](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
@@ -159,7 +161,6 @@ Programmer
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
-* [The Software Engineering Career Ladder 📈 | by Martin Thoma | Geek Culture | Medium](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2)
 * [IT 커리어를 '서서히 망치는' 11가지 함정 - CIO Korea](https://www.ciokorea.com/news/233599)
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
 
