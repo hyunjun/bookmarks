@@ -1313,6 +1313,7 @@ Machine Learning
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
+* Flyte [ML Pipeline에 Flyte 도입하기. ML 오픈 소스의 망망대해 항해하며, ML Pipeline 구성해… | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/ml-pipeline%EC%97%90-flyte-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1c85528df470)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
   * [MLOps Basics Week 0: Project Setup – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-project-setup-part1) 프로젝트 설정
