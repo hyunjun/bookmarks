@@ -206,6 +206,8 @@ Google Cloud Platform GCP
 * [GCP Kubernets deployment strategy - YouTube](https://www.youtube.com/watch?v=IueIS-u3xXk)
 
 # Library
+* [gcpdiag](https://gcpdiag.dev/)
+  * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
 
 # Tutorial
