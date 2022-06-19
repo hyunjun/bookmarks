@@ -162,6 +162,7 @@ Git
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [기존 프로젝트를 Bitbucket과 SourceTree로 올려보자](https://developer88.tistory.com/65)
+* [Github에서 Bitbucket Import](https://blog.mint-soft.com/10)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 * [Password authentication is temporarily disabled as part of a brownout. Please use a personal access token instead. | by gon Kim | elecle | Jun, 2021 | Medium](https://medium.com/elecle-bike/password-authentication-is-temporarily-disabled-as-part-of-a-brownout-c507835b87f5)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
