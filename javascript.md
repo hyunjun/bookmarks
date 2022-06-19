@@ -3818,6 +3818,7 @@ Javascript
     * Metro를 웹에서 처리하기 위해 추가적인 설정 작업이 필요했고 먼저 개발환경을 개선하고 프로덕션은 Webpack과 A/B 테스트를 진행해서 Metro의 프로덕션 빌드가 최적화되도록 진행
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
+* [react-native-tips: React Native Tips](https://github.com/minhchienwikipedia/react-native-tips)
 * [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation)
 * [react-navigation V5 - react-navigation V5를 설치하고 사용하는 방법에 대해서 공유합니다](https://dev-yakuza.posstree.com/ko/react-native/react-navigation-v5)
 * [rn-tourguide: 🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)](https://github.com/xcarpentier/rn-tourguide)
@@ -4100,6 +4101,7 @@ Javascript
   * [React Router Dom v6](https://blog.naver.com/pjt3591oo/222569574062)
   * [React Router Dom v6 - DEV Community](https://dev.to/w3tsa/react-router-dom-v6-4b7a)
   * [리액트 라우터 v6 튜토리얼](https://velog.io/@velopert/react-router-v6-tutorial)
+  * [React router dom - #shorts - YouTube](https://www.youtube.com/shorts/NbqvJaPT9iA)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
