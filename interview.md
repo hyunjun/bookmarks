@@ -245,6 +245,7 @@ Interview
 * [The 5 Secrets for Getting Hired After 50](https://www.aarp.org/work/job-search/getting-hired-after-50/)
 * [Stop Interviewing With Leet Code](https://fev.al/posts/leet-code/)
 * [Interview Tips for Senior PMs. Some quick tips I’ve been sharing on my… | by Jackie Bavaro | Medium](https://jackiebo.medium.com/interview-tips-for-senior-pms-2424f7b7c967) 제목과 달리 일반적으로 쓸 수 있음
+* [인프런 심야 FE 네트워킹 후기 | 개발자 황준일](https://junilhwang.github.io/TIL/Writing/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8B%AC%EC%95%BC-FE-%ED%9B%84%EA%B8%B0/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
