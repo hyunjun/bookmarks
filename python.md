@@ -593,6 +593,7 @@ Python
   * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
   * [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3)
   * [Converting python string into bytes directly without eval()](https://stackoverflow.com/questions/51775126/converting-python-string-into-bytes-directly-without-eval)
+  * [Bytes Data Type in python - YouTube](https://www.youtube.com/watch?v=F6GhIpUCqco)
 * cgitb
   * [**cgitb로 자세한 오류를 찍어 봅니다**](http://mcchae.egloos.com/11249290) debugging
 * class
