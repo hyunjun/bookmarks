@@ -201,6 +201,7 @@ Web
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
+* [HTTP Status Code Definitions. Each Status-Code is described below… | by Mitku Dubale | Jun, 2022 | Medium](https://medium.com/@mitkudubale3864/http-status-code-definitions-261a7db36bda)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
@@ -1037,6 +1038,7 @@ Web
   * [코딩 알려주는 라이언 - YouTube](https://www.youtube.com/channel/UCdTRjVhVcEKBiuUm4r-PHxw/videos)
   * [원티드 서버개발자 QnA 1편 ‘원티드 서버 FastAPI 도입 장점과 단점’ | by Myounghee jang | 원티드 제품 팀블로그 | Jun, 2022 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-qna-1%ED%8E%B8-%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84-fastapi-%EB%8F%84%EC%9E%85-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%90-c09a67b05d72)
   * [WebSockets In Python FastAPI — Fetching Data At Super Speed | by Zlliu | May, 2022 | Python in Plain English](https://python.plainenglish.io/websockets-in-python-fastapi-fetching-data-at-super-speed-3c7b355949fd)
+  * [uvicorn, fastapi 비동기 메커니즘 이해](https://blog.naver.com/pjt3591oo/222772705407)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
