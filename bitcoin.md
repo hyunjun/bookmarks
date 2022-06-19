@@ -83,7 +83,7 @@ Bitcoin
 * [blockcast - A multi-transaction protocol for storing data in the Bitcoin blockchain](https://github.com/blockai/blockcast)
 * [Bitcoin-NG: A Secure, Faster, Better Blockchain](http://hackingdistributed.com/2015/10/14/bitcoin-ng/)
 * [프로에게 묻다. 블록체인이 뭔가요?](http://techneedle.com/archives/29941)
-* [What i've seen #Blockchain](https://brunch.co.kr/@ejang/9)
+* [What i have seen #Blockchain](https://brunch.co.kr/@ejang/9)
 * [시작 | block1 | 블록체인ers | The Blockchainers](https://www.youtube.com/watch?v=WKrbLt-SG8k)
 * [BlockChain 기초 개념 - 블록, 채굴, 작업증명, 난이도, 보상](https://steemit.com/kr/@hanmomhanda/blockchain)
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
@@ -154,6 +154,7 @@ Bitcoin
 * [사이버 공격자들 정조준...블록체인 브릿지들의 세계](https://brunch.co.kr/@delight412/470)
 * [2205.01091 Blockchain in a nutshell](https://arxiv.org/abs/2205.01091)
 * [2022년. 블록체인 개발을 공부해야하는 이유? - YouTube](https://www.youtube.com/watch?v=1yfslVVoL6k)
+* [이 시국에 꿋꿋하게 스마트컨트랙 만들어보기 - YouTube](https://www.youtube.com/watch?v=8WBvMEql6SQ)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
@@ -199,7 +200,7 @@ Bitcoin
 * [이더리움과 Eclipse attack](http://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [Onther DevCon 1 - Etherum 2.0 개요](http://mobicon.tistory.com/551)
-* [Mining Ethereum on M1 Mac GPU – Yifan Gu's Blog](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
+* [Mining Ethereum on M1 Mac GPU – Yifan Gus Blog](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
 * [GETH를 이용하여 private network 구축하기](https://blog.naver.com/pjt3591oo/222246052626)
 * [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
 * [이더리움 2.0 정복하기 - YouTube](https://www.youtube.com/playlist?list=PLLDf3_vgzDhgVuQTdTZeVl69tAWMFIvIF)
@@ -214,7 +215,7 @@ Bitcoin
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
 * [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
 * [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
-* [DSHR's Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
+* [DSHRs Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
@@ -234,7 +235,7 @@ Bitcoin
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list)
-* [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+* [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you would like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
   * [DeFi 개발자 로드맵 | GeekNews](https://news.hada.io/topic?id=4500)
 * [ELI: 더 안전한 LINE의 가상자산 지갑 플랫폼 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/eli-line-cryptocurrency-wallet-platform/)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
@@ -306,7 +307,7 @@ Bitcoin
     * 전용 스마트 컨트랙트 배포에 있어서도 과정에서 지불되는 가스피를 최소화하는 설계 포함
 
 # Python
-* [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
+* [A peek under Bitcoins hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
 * [비트코인 채굴의 원리를 파이썬으로 구현해보자! - YouTube](https://www.youtube.com/watch?v=JM3j7uBKnt8)
 * [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
