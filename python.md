@@ -3777,6 +3777,8 @@ Python
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [schema - a library for validating Python data structures](https://pypi.python.org/pypi/schema)
+* [schwifty docs](https://schwifty.readthedocs.io/) IBAN is the Internation Bank Account Number and BIC the Business Identifier Code. Both are used for international money transfer
+  * [schwifty: IBAN parsing and validation](https://github.com/mdomke/schwifty)
 * [Scrapy](http://scrapy.org/)
   * proxy 설정을 통해 해결 cf. [scrapy-not-scraping-https@stackoverflow](http://stackoverflow.com/questions/23958073/scrapy-not-scraping-https)
 
