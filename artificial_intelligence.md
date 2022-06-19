@@ -187,6 +187,7 @@ Artificial Intelligence
 * [8 Best Free Courses to Learn AI (Artificial Intelligence) in 2021](https://www.mltut.com/best-free-courses-to-learn-ai/)
 * [6 Best Artificial Intelligence Courses for Healthcare in 2022](https://www.mltut.com/best-artificial-intelligence-courses-for-healthcare/)
 * [10 Best Certification Courses for Artificial Intelligence in 2022](https://www.mltut.com/best-certification-courses-for-artificial-intelligence/)
+* [부스트캠프 AI Tech Product Serving, 러닝 마스터 강의 후기 · 어쩐지 오늘은](https://zzsza.github.io/diary/2022/06/17/boostcamp-aitech-lecture-design-retrospective/)
 * [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
@@ -194,7 +195,7 @@ Artificial Intelligence
 * coursera [**인공지능 개발자를 위한 코세라 강의 소개**](https://brunch.co.kr/@synabreu/68)
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
-  * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+  * [Artificial Intelligence cheatsheets for Stanfords CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 * [matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/](http://matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
