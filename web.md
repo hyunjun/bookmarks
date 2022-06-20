@@ -1043,6 +1043,7 @@ Web
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+  * [fastapi-from-dj: FastAPI quick start from Django](https://github.com/pincoin/fastapi-from-dj)
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
     * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
