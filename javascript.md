@@ -1880,6 +1880,7 @@ Javascript
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
+  * [quasar-ssr-nestjs-boilerplate: Quasar Framework + Vue SSR + NestJS API Server = ULTIMATE FULLSTACK](https://github.com/composite/quasar-ssr-nestjs-boilerplate)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
