@@ -1173,6 +1173,7 @@ Javascript
 * [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
 * [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
+* [WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread - YouTube](https://www.youtube.com/watch?v=0dC11DMR3fU) interaction이 발생할 때 파일을 나눠서 다운로드하도록 해서 효율 향상
 
 # D3 -> [data visualization](data_visualization.md)
 
