@@ -62,6 +62,7 @@ Regular Expression
 
 # Go
 * [Regex Tester - Golang](https://regex-golang.appspot.com/)
+* [rex: Regular expressions constructor for Golang](https://github.com/hedhyw/rex)
 
 # Haskell
 * [Well-Typed - The Haskell Consultants: Fix-ing regular expressions](https://well-typed.com/blog/2020/06/fix-ing-regular-expressions/)
