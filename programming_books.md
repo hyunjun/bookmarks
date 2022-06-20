@@ -1718,6 +1718,7 @@ Programming Books
 * (NOT YET) [kkamagui의 작업실 :: 서평 프리-오픈소스 소프트웨어 혁명의 역사](https://kkamagui.tistory.com/939)
 * (NOT YET) [우분투 투게더 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/26)
   * 한라 005.44-이76우
+* (NOT YET) [0부터 시작하는 OS 자작 입문 | 에이콘출판사](http://www.acornpub.co.kr/book/operating-system)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
