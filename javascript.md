@@ -1590,6 +1590,7 @@ Javascript
 * [combinatorics.js - Combinatorics Javascript Library](https://github.com/devanp92/combinatorics.js)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [create JS](http://createjs.com/Home)
+* [credit-card-checker: Javascript credit card checker - a work in progress](https://github.com/JRK77/credit-card-checker)
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [CubbyFlow - voxel-based fluid simulation engine for computer games based on Jet framework](https://github.com/utilForever/CubbyFlow)
 * [dataflow: An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!](https://github.com/asg017/dataflow)
