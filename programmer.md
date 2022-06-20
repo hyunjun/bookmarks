@@ -81,6 +81,7 @@ Programmer
 * [The New Way to Learn - by Sahil Bloom - The Curiosity Chronicle](https://sahilbloom.substack.com/p/the-new-way-to-learn)
   * [새로운 학습 방법 : 학습은 기술이다 | GeekNews](https://news.hada.io/topic?id=5046)
 * [몸으로 배우기](https://www.thestartupbible.com/2022/04/learning-by-doing.html) 프로그래밍 이야기는 아니지만 학습 방법에 대한 관점에 동의
+* [개발자의 학습과 성장 · Present](https://present.do/documents/62a02582f6365307fc441c7f)
 * [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
