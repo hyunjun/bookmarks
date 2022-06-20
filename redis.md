@@ -18,6 +18,7 @@ Redis
 * [Spring은 왜 memcached 대신 Redis를 선택했을까?](https://deveric.tistory.com/65)
 * [redis 1 - YouTube](https://www.youtube.com/watch?v=LLFMTEaW98g) Redis 와 Memcahed 차이 1부
 * [redis 2 - YouTube](https://www.youtube.com/watch?v=5DstN-gg16o)
+* [redis 3 - YouTube](https://www.youtube.com/watch?v=BWt4XYuDchM)
 * [Scaling Secure Applications with Spring Session and Redis - YouTube](https://www.youtube.com/watch?v=3kGrkVUZ_Fo)
 * [Lazy Redis is better Redis](http://antirez.com/news/93)
 * [A few things about Redis security](http://antirez.com/news/96)
