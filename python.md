@@ -2409,6 +2409,7 @@ Python
   * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
   * [Building With Django REST Framework in Python - YouTube](https://www.youtube.com/watch?v=D0OaOw-Jdg4)
   * [Python/Django 웹서비스 5년간의 개발 운영 경험기. 안정호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=r6c9Us0vgRg)
+  * [Django Rest Framework 레시피 | 44BITS](https://www.44bits.io/ko/post/django-rest-framework-recipes-korean)
   * [drf-yasg](https://drf-yasg.readthedocs.io/)
 * [django_session 테이블에 저장되어 있는 세션은 어떤 값들을 가지고 있을까요?](https://codingdog.tistory.com/691)
 * [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
