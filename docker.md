@@ -1277,6 +1277,7 @@ Docker
 * [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
 * [NDC21-프로그래밍 게임 서버를 품은 쿠버네티스 - YouTube](https://www.youtube.com/watch?v=8R4DDEqjc0I)
 * [Get to Know a Kubernetes Operator!](https://spring.io/blog/2021/11/19/get-to-know-a-kubernetes-operator)
+* [Kubernetes Operators: what are they? Some examples | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/15/kubernetes-operators-what-are-they-some-examples/)
 * [Distroless Container Debugging on K8s/OpenShift | by Zhimin Wen | ITNEXT](https://itnext.io/distroless-container-debugging-on-k8s-openshift-e418fd66fdad)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [네트워크 엔지니어에게 쿠버네티스는 어떤 의미일까요](https://www.slideshare.net/JoHoon1/ss-250737544)
