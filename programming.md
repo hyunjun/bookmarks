@@ -84,6 +84,8 @@ Programming
   * [Part IV: Earth Mover’s Distance](http://www.deepideas.net/building-content-based-search-engine-earth-movers-distance/)
   * [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
 * [Building personal search infrastructure for your knowledge and code Overview of search tools for desktop and mobile; using Emacs and Ripgrep as desktop search engine](https://beepb00p.xyz/pkm-search.html)
+* [Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+  * [Rise of Worse is Better | Daniel Lee](https://typefully.com/dylayed/dxcVfbU) MIT style vs. New Jersey style
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
 * [**엔지니어라면 꼭 보고가야 할 일론 머스크의 5단계 원칙**](https://maily.so/electricshock/posts/767236) 일단 시작하기 전에 0. 현황 파악부터
@@ -1403,6 +1405,7 @@ Programming
 * [도메인 스토리텔링에서 제품생산까지](https://brunch.co.kr/@graypool/475)
 * [실제 행위자와 역할 표기는 어떤 차이를 만드나?](https://brunch.co.kr/@graypool/482)
 * [모호함이 사라질 때까지 매개체를 풀어가기](https://brunch.co.kr/@graypool/483)
+* [도메인 모델, Ongoing 설계 그리고 정원관리](https://brunch.co.kr/@graypool/490)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
