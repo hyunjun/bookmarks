@@ -329,6 +329,7 @@ Web
     * 이때는 JavaScript가 많이 필요하지 않음
     * GitHub에서는 JavaScript를 비활성화해도 기본적인 활동을 대부분 가능
   * 그래서 lint로 브라우저 호환성을 검사하고 최신 기능에 대한 폴리필을 많이 사용했지만, 종종 성능 저하도 있었기에 최소한의 폴리필을 유지하도록 관리
+* [History API는 가라! 이제는 Navigation API의 시대가 온다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/06/20/Navigation-API.html)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
