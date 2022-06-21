@@ -1714,6 +1714,7 @@ Python
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Legally Free Python Books List - Python kitchen](https://www.pythonkitchen.com/legally-free-python-books-list/)
+* [그림으로 배우는 파이썬 기초 문법 - WikiDocs](https://wikidocs.net/book/7449)
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Al Sweigart](https://www.freetechbooks.com/al-sweigart-a4040.html)
   * [Cracking Codes with Python](https://www.freetechbooks.com/cracking-codes-with-python-t1344.html)
