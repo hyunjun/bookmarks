@@ -1616,6 +1616,7 @@ AWS
     * 각 환경(production, dev, lab)에서 테라폼용 계정을 만들어서 관리 계정과 권한을 분리해서 보안 강화
   * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
+* [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
