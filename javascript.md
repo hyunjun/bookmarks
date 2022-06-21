@@ -3608,6 +3608,7 @@ Javascript
 * [Building and Sharing React SVG Icon Components | by Lakindu Hewawasam | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/building-and-sharing-react-svg-icon-components-6e6a8f1dcd6d)
 * [Using GoF Design Patterns with React | by Lakindu Hewawasam | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-gof-design-patterns-with-react-c334f3ea3147)
 * [React js Search Filter List | Search Bar in React js | React Search list Easy Tutorial - YouTube](https://www.youtube.com/watch?v=qEefUHvHoW4)
+* [I hate React (...shhh don't tell anyone) - YouTube](https://www.youtube.com/watch?v=2h_KlGDLKc0)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
