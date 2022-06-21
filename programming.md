@@ -4203,6 +4203,7 @@ Programming
         * 정적 시크릿을 로테이션 불가능
         * 세션 관리나 Audit 로그도 남기기 어려움
     * 이러한 문제를 HashiCorp Vault에서는 해결해 주고 있기 때문에 SaltStack이나 Kubernetes 오퍼레이터로 Vault와 연동하는 방법을 설명
+  * [Application Security with Hashicorp vault( part -1) #devops #kubernetes #hashicorp - YouTube](https://www.youtube.com/watch?v=KN2sGqv_xJU)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
