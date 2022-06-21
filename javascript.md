@@ -4818,6 +4818,7 @@ Javascript
 * [Vue Application Architecture - 프론트앤드 애플리케이션에서의 설계, Infra (Part1) | 오르막길](https://genie-youn.github.io/journal/Vue_Application_Architecture_part1.html)
 * [작고 소중한 Vue를 알아보자 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/05/17/%EC%9E%91%EA%B3%A0-%EC%86%8C%EC%A4%91%ED%95%9C-vue%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EA%B0%9C%EC%9A%94/)
 * [엉망진창 Vue.js 강좌 - dayjs 플러그인 & api 사용하기 - YouTube](https://www.youtube.com/watch?v=p6ZwjWxdhj8)
+* [Vue 3.2 에서 필수로 짚고 넘어가야 할 미래 - DEV Community](https://dev.to/composite/vue-32-eseo-pilsuro-jipgo-neomeogaya-hal-mirae-4mcc)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
