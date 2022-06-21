@@ -507,6 +507,7 @@ Linux
   * [서머타임과 배치작업](https://meetup.toast.com/posts/232)
   * [(리눅스 업스킬 도전 #10) 특정 시각에 반복적으로 작업하기](https://jhrogue.blogspot.com/2020/09/10.html) crontab 이외에 list-timers, apt-daily.timer 등 소개
   * [크론탭(crontab)을 이용한 작업 스케쥴링 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/crontab/)
+  * [Scheduling without CRON | Pega Devlog](https://jehyunlee.github.io/2022/06/22/Python-General-10-schedule_no_cron/)
 * `curl`
   * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
