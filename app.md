@@ -1229,6 +1229,7 @@ App
 * spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [Switcher](https://github.com/tkgka/Switcher) command + q 명령어를 두번 입력한 경우에만 동작하도록 설정 가능
+  * [MacOS 키 입력을 제어해 보자](https://velog.io/@tkgka/MacOS-%ED%82%A4-%EC%9E%85%EB%A0%A5%EC%9D%84-%EC%A0%9C%EC%96%B4%ED%95%B4-%EB%B3%B4%EC%9E%90)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
