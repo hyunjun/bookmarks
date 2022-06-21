@@ -120,6 +120,7 @@ Monitoring
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
+  * [리멤버는 서비스 모니터링을 어떻게 하고 있을까? - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/how-remember-monitors/)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
   * [**java 애플리케이션 트러블 슈팅 사례 & pinpoint**](https://www.slideshare.net/deview/d2-java-pinpoint)
