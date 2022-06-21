@@ -2806,6 +2806,7 @@ Programming
 * [media.ccc.de - Practical bruteforce of military grade AES-1024](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
 * [멘토특강 해킹과 보안 BY 박수현 - YouTube](https://www.youtube.com/watch?v=Paa5KU8Cl08)
 * [Google Online Security Blog: Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
+* [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
