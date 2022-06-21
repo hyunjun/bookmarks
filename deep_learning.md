@@ -721,6 +721,7 @@ Deep Learning
   * [DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법 | GeekNews](https://news.hada.io/topic?id=6048)
 * [Deep Learning in Neuroimaging](https://thegradient.pub/the-role-of-deep-learning-in-understanding-neuroimaging-data/)
 * [2022-1-deep-learning-applications](https://github.com/sjchoi86/2022-1-deep-learning-applications)
+* [딥러닝은 어떻게 동작할까? 현재 어디까지 왔고, 미래는 어떻게 될까?](https://engineering.linecorp.com/ko/blog/how-deep-learning-works-and-how-far-we-now)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
