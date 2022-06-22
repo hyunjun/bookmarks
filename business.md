@@ -608,6 +608,7 @@ Business
     * 29CM에 입사한 신입 개발자가 최대 혜택가 관련 기능을 개발하면서 겪을 경험 정리
     * 도메인 파악이 어려워서 의사 결정 테이블로 조건을 정리하고 QA까지 통과해서 배포했지만, 성능 문제가 발생
     * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
+* [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
