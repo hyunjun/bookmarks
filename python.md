@@ -3389,6 +3389,7 @@ Python
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * [Blaze-Tracker: Automated Production Package Deployment Solution](https://github.com/frostyaxe/Blaze-Tracker)
+* [BlueLink - 현대자동차 제어용 Python API Wrapper (Unofficia | GeekNews](https://news.hada.io/topic?id=6808)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
