@@ -129,6 +129,7 @@ Business
 * [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
 * [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
 * [수평적 문화가 안되는 조직들의 사례와 해결책 | ㅍㅍㅅㅅ](https://ppss.kr/archives/212904)
+* [수평 조직, 업무 효율도 높을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20220621)
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
@@ -622,6 +623,7 @@ Business
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
 * [잘 될 거 같았는데 안 된 스타트업 CEO들의 특징](https://eopla.net/magazines/62)
+* [임직원은 ‘경영 자원’이요, 채용은 ‘자원 내재화’입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hr20220621)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
