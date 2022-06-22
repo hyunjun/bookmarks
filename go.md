@@ -317,6 +317,7 @@ Go
 * [What I am working on? Golang dashboard cms - YouTube](https://www.youtube.com/watch?v=1Ue5ffwENvY)
 * [3년 묶은 Node.js 기반 백엔드를 Golang 으로 옮기다](https://blog.youngbin.xyz/2019-09-09-migrating-skhus-backend-from-nodejs-to-golang/)
 * [Upload files by extension - Golang Web Development Bangla - YouTube](https://www.youtube.com/watch?v=jVMOoacrsvs)
+* [How to write safe and secure Go code](https://www.codiga.io/blog/secure-go-code/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
