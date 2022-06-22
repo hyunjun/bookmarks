@@ -787,6 +787,7 @@ Python
   * [Dictionary as an Alternative to If-Else | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/dictionary-as-an-alternative-to-if-else-76fe57a1e4af)
   * [Python’s Most Powerful Data Type. Everything you ever need to know about… | by Erik van Baaren | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/pythons-most-powerful-data-type-89628a9e1467)
   * [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
+  * [파이썬 성능최적화 : sorted dict array 순회 로직 - YouTube](https://www.youtube.com/watch?v=JywTBamsNGA)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * encoding
