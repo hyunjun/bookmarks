@@ -135,5 +135,8 @@ Elixir
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
+* [rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
+  * [NIF with Rustler](https://presentation.seokmin.dev/presentations/nif#/)
+  * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
 * telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
