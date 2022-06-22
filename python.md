@@ -3092,6 +3092,33 @@ Python
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [jupyverse: A Jupyter server based on FastAPI (Experimental)](https://github.com/jupyter-server/jupyverse)
 * [koreanize-matplotlib: install & import하는 것만으로 matplotlib에서 한국어를 표시할 수 있습니다](https://github.com/ychoi-kr/koreanize-matplotlib)
+* [MakinaRocks Link](https://link.makinarocks.ai/)
+  * 특징
+    * 👉 Jupyter Cell을 컴포넌트로 파이프라인 구성
+    * 👉 Jupyter Lab 위에서 동일하게 실행 (cmd & ctrl + Enter)
+    * 👉 실행시 파이프라인 내 dependency가 있는 컴포넌트들을 순서대로 실행하고나서 실행
+    * 👉 Caching 기능 제공 (반복 실행시 시간 단축)
+    * 👉 Pipeline Export & Import (협업, Kubeflow Pipeline 과 호환)
+    * 👉 JupyterLab Extension - 터미널에서 “jupyter lab” 커맨드로 실행
+    * 👉 whl파일로 개인 가상환경에 설치 (+ 별도의 가상환경을 제공하는 Desktop App 형태로도 제공)
+  * 파이프라인 작성으로 해당 노트북은 언제든지 재현 가능
+    * 메타 머신러닝 테크리드가 지적한 쥬피터의 단점 - “재현등의 이슈로 쥬피터로는 머신러닝 프로젝트에서 프로토타이핑만 하라" - 을 상당 부분 보완
+      * [(8) Post | LinkedIn](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascientists-computerprogramming-activity-6922586810921488384-5ta1/)
+  * 예시
+    1. Spiral Pattern Classification
+    2. Image Restoration using Denoising Autoencoder
+    3. Text Data Classification using RNN
+    4. Image Generation using Variational Autoencoder
+  * Link 시작 방법
+    * 1️⃣ 아래 첨부한 제품 페이지에서 본인 환경에 맞는 whl 파일 or Desktop App 다운로드
+    * 2️⃣ 본인 가상환경에 "python -m pip install <whl 파일>" 로 설치 or Desktop App 설치
+    * 3️⃣ 제품 페이지에서 Product Key 발급 → 이메일로 전달
+    * 4️⃣ "jupyter lab" 커맨드 혹은 App 실행
+    * 5️⃣ Product Key 입력
+    * 6️⃣ Link 시작!
+  * [프롤로그 - MakinaRocks Link](https://makinarocks.gitbook.io/link/v/ko/)
+  * [Link Examples - MakinaRocks Link](https://makinarocks.gitbook.io/link/examples/link-examples)
+  * [link-example: Machine Learning Study](https://github.com/makinarocks/link-example)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
