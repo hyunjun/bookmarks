@@ -992,6 +992,7 @@ Git
       * "Explain this code"는 코드 블록의 동작을 영어로 설명
       * "Translate this code"는 해당 코드를 다른 프로그래밍 언어로 바꿔주는 기능
     * 이 익스텐션은 Copilot 익스텐션을 필요로 하므로 현재는 Copilot 익스텐션을 사용할 수 있는 사람만 사용 가능
+  * [깃허브 코파일럿(Copilot)은 무엇이며, 왜 욕먹는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/933/)
   * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
