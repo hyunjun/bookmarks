@@ -137,6 +137,7 @@ Programmer
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 * [남의 일을 끊임없이 공부해야하는 이유 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/186169)
 * [Subject Matter Expert가 되어라 | zero-base](https://zero-base.co.kr/event/media_insight_contents_50)
+* [FE로 취업하기 전에 알았으면 좋았을 것들 - 코드쓰는사람](https://taegon.kim/archives/10492) 제목과 다르게 개발자들에게 일반적으로 적용할 수 있는 이야기
 * [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
 * [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
