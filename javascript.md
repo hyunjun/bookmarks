@@ -1877,6 +1877,7 @@ Javascript
     * Framework, Controller, Use Cases, Entities의 각 계층에서 담당해야 할 부분과 어떻게 구현하고 관심사를 분리해야 하는지를 전체 예시 코드와 함께 설명
     * NestJS를 설명하는 글은 아니지만, NestJS로 구현했기 때문에 NestJS가 해주는 기능을 사용하는 부분이 어느 정도 포함
   * [NestJs: 🐶 Puppies Api - Dor Moshe's Blog](https://dormoshe.io/trending-news/nestjs-puppies-api-k4d-50266)
+  * [NestJs 파일업로드 이 글로 끝!](https://velog.io/@dev_leewoooo/NestJs-%ED%8C%8C%EC%9D%BC%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4-%EA%B8%80%EB%A1%9C-%EB%81%9D)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
