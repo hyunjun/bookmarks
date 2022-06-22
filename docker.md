@@ -1520,6 +1520,7 @@ Docker
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
   * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
   * [How to Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6 | by KC | Apr, 2022 | Medium](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
+  * [Kubernetes Event-driven Autoscaling | by Moti Malka | Jun, 2022 | Medium](https://medium.com/@moti.malka25/kubernetes-event-driven-autoscaling-d8a6dc5c18a8)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
