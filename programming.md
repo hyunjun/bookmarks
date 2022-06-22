@@ -2597,6 +2597,7 @@ Programming
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
   * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
+* [Qodana: The code quality platform for your favorite CI by JetBrains](https://www.jetbrains.com/qodana/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
