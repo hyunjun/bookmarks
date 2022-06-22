@@ -3427,6 +3427,7 @@ Javascript
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 * [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 - 원지혁 (AUSG 1기) :: AWS Community Day 2020](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 * [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
+* [Class Components vs Functional Components in React: Which is better? - YouTube](https://www.youtube.com/watch?v=7MjZ_tQljlM)
 * [A simplified Jira clone built with React and Node](https://github.com/oldboyxx/jira_clone)
 * [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
