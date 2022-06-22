@@ -625,6 +625,7 @@ Business
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
 * [잘 될 거 같았는데 안 된 스타트업 CEO들의 특징](https://eopla.net/magazines/62)
 * [임직원은 ‘경영 자원’이요, 채용은 ‘자원 내재화’입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hr20220621)
+* [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1182,6 +1183,7 @@ Business
   * [동기 저하의 10가지 사유 – 웹개발공작소](http://w3devlabs.net/wp/?p=1002)
 * [좋은 칭찬의 5가지 원칙](http://moneyman.kr/archives/1047)
 * [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
+* [불만을 없앤다고 만족하지는 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242973) 칭찬시 참고
 * ['동기부여 능력' 관리자가 꼭 가져야 할 자질](https://news.v.daum.net/v/20180904101827967)
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [뚱한 부하직원 일 시키려면? - HSG 휴먼솔.. : 네이버블로그](https://blog.naver.com/hs_group/221353792320)
