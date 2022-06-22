@@ -475,6 +475,8 @@ Programming
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
 * [개발 환경(dev,stage,qa,production)](https://bcho.tistory.com/759)
+* [The End of Localhost](https://dx.tips/the-end-of-localhost)
+  * [Localhost 시대의 종말 | GeekNews](https://news.hada.io/topic?id=6799) 20년전 사라졌던 thin client의 재림일까?
 * [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
 * [Everything is an X - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
 * [Mountain West Ruby 2012 Capability vs. Suitability by Gary Bernhardt - YouTube](https://www.youtube.com/watch?v=NftT6HWFgq0) 소프트웨어 산업의 기념비적인 업적들을 되짚으며 ‘더 많은 일을 가능케 하는’ 그리고 ‘더 안정적이고 예측 가능한’ 서로 충돌하는 두 목표를 어떻게 주거니 받거니 차례로 추구하며 발전해 왔는지 소개
