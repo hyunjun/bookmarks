@@ -1629,6 +1629,7 @@ AWS
 * [AWS 강의실 - YouTube](https://www.youtube.com/channel/UCpDxKxars7BHR3owaNRctaQ)
 * [Amazon EKS Workshop :: Amazon EKS Workshop](https://www.eksworkshop.com/)
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
+* [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
