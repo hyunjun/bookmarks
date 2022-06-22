@@ -4,6 +4,7 @@
 * [Why Digital Marketers Should Learn Python. 김지원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Z5W-e5Ak3VU)
 * [Digital Marketing Course Part - 1 🔥| Digital Marketing Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=nU-IIXBWlS4)
 * [글로벌 칼럼 | 서드파티 쿠키 제한이 바꿔놓은 온라인 광고 시장 - ITWorld Korea](https://www.itworld.co.kr/news/213959)
+* [쿠키 사용 금지하는 구글, 애플.. 디지털 광고 시장은 어떻게 바뀔까? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cookiesad20220621)
 * [if(kakao) 2021 - 카카오 광고와 솔루션 활용을 통한 파트너 비즈니스 성장 사례](https://if.kakao.com/session/7)
 * [LINE 광고 플랫폼이 머신러닝으로 돈 버는 방법 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2JPWIbvFTHQ)
 * [하루 400억 건을 처리하는 데이터 파이프라인 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=rCbzilpjsdY)
