@@ -1910,6 +1910,8 @@ Programming Books
   * ★★★★☆ 2022.06.12
   * [네이키드 애자일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/naked_agile.md)
   * [네이키드 애자일. 무엇보다 정답을 (제시할 수 없는 주제라는 걸 알고) 제시하지 않는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%84%A4%EC%9D%B4%ED%82%A4%EB%93%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-7347be4b1f71)
+* [초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
+  * ★★★★☆ 2022.06.19~22
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1932,7 +1934,6 @@ Programming Books
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
-* (NOT YET) [ 초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
 * (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 
