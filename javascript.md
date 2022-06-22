@@ -2665,6 +2665,7 @@ Javascript
 * [10 best practices every Node.js developer must follow | by Amine El Were | Medium](https://medium.com/@amine.elwer/10-best-practices-every-node-js-developer-must-follow-95ce4ca74cc4)
 * [Microservices with NodeJS: Benefits & 6 Best Practices | by Terasol Technologies | Medium](https://terasol.medium.com/exploring-microservices-with-node-js-benefits-6-best-practices-88b18aa0c3bc)
 * [How to increase NodeJS performance (advance topic) Part 1 | by Saurabh Gupta | May, 2022 | Medium](https://medium.com/@saurabhwithhacks/how-to-increase-nodejs-performance-advance-topic-part-1-623bae87c911)
+* [Deploy Node JS on Heroku, Mongo DB, and Vue JS - YouTube](https://www.youtube.com/watch?v=MBQ-Kxy0EIM)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
