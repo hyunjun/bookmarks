@@ -1762,6 +1762,7 @@ Java
 * [Spring REST Docs에 날개를... (feat: Popup)](https://woowabros.github.io/experience/2020/05/13/rest-docs.html)
 * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
 * [27. Spring - Swagger 기본사용법 및 API 문서자동화](https://kim-jong-hyun.tistory.com/49)
+* [Swagger를 이용한 API 문서 자동화](https://jjingho.tistory.com/8)
 * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
 * [SpringBoot & AWS S3 연동하기](http://jojoldu.tistory.com/300)
 * [스프링 부트와 카오스 몽키](http://blog.younjinjeong.io/post/chaosmonkey-for-spring-boot/)
