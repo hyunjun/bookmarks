@@ -2364,6 +2364,7 @@ Javascript
   * [웹팩 개발 서버로 부족하다면 webpack-dev-middleware를 사용해 보자](http://jeonghwan-kim.github.io/dev/2020/07/18/webpack-dev-middleware.html)
   * [JavaScript 번들러로 본 조선시대 붕당의 이해 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
   * [Top 5 Courses to Learn NPM and WebPack in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-npm-and-webpack.html)
+  * [Webpack Module Federation 도입 전에 알아야 할 것들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
   * [webpack.kr](https://webpack.kr/)
 
 ## Library Internationalization i18n 국제화
@@ -4027,6 +4028,7 @@ Javascript
   * [Using Non-SSR Friendly Components with Next.js | by Piumi Liyana Gunawardhana | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/using-non-ssr-friendly-components-with-next-js-916f38e8992c)
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
+  * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
