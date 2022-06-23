@@ -1347,6 +1347,7 @@ AWS
   * 성능 10%가량 향상, 빌드 타임과 복잡도 증가
 * [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
+* [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
 
 ## Machine Learning SageMaker
