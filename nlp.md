@@ -1064,6 +1064,7 @@ NLP
   * [kogpt at web-app](https://github.com/noah-ko/kogpt/tree/web-app)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
+* [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
 
 # LDA Latent Dirichlet Allocation
 * [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
