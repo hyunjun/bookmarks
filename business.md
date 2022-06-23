@@ -1613,6 +1613,7 @@ Business
     * 오히려 불황에는 경쟁이 적어져서 생존할 수 있다면 그 기술을 가질 수 있게 되므로 좋은 문제를 풀려는 좋은 팀이 있다면 지금이 그 타이밍
 * [전직 유니콘 CFO가 말하는 ‘스타트업 허와 실’ - 매경ECONOMY](https://www.mk.co.kr/economy/view/2022/469374/)
 * [스타트업 생활 그리고 성장. 대기업 이커머스 회사에서 스타트업 검색 모델러로 이직한지 1년이 넘는… | by Jukyoung LEE | Jun, 2022 | Medium](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
+* ['우버전쟁'을 통해 살펴본 스타트업 '허슬'의 3단계](https://eopla.net/magazines/68)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
