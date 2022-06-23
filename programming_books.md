@@ -1114,6 +1114,7 @@ Programming Books
 * (NOT YET) [fastai와 파이토치가 만나 꽃피운 딥러닝(제레미 하워드, 실뱅 거거 著, 박찬성, 김지은 譯, 2021)](https://jehyunlee.tistory.com/27)
   * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
 * (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
+* (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
