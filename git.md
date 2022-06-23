@@ -103,6 +103,7 @@ Git
   * [CI 연동, SVN 마이그레이션](http://d2.naver.com/helloworld/6952033)
   * [gerrit query로 리뷰 데이터 추출하기](http://sunphiz.me/wp/archives/3262)
   * [Gerrit Code Review 도입하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/02/28/gerrit-code-review-introduction.html)
+  * [How To Install Gerrit on an Ec2 Ubuntu | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/how-to-install-gerrit-on-an-ec2-ubuntu-7b526f153d9b)
 * [GitHub으로 협업하기: 클론부터 코드 리뷰까지 | ~/xo.dev](https://xo.dev/github-collaboration-guide/)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
