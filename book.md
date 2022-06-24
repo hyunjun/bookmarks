@@ -494,6 +494,9 @@ Book
   * [이순신의 바다](https://github.com/hyunjun/bookmarks/blob/master/books/sea_of_yisunsin.md)
   * [이순신의 바다. 이순신 장군 | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4-6ac3db4664d6)
   * [이순신의 바다](https://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%B0%94%EB%8B%A4)
+* 나의 이름은 임대운 [5·18 회고록 낸 미국인 "왜곡 반복 안 돼, 윤석열 진실 알아야" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002834726)
+  * 우당 문911.0745-돌239ㄴ
+  * 2022.06.23 마음이 아파 책 표지를 넘기기 힘들었으나 담담하게 썼기에 생각보다 수월하게 읽을 수 있었다. 이런 사람들이 있어 비극속에서도 조금이나마 감사한 마음을 가질 수 있지만, 저런 짓을 저지른 놈들의 생을 보면 화가 치밀어 오르는 건 여전하다.
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -508,8 +511,6 @@ Book
 * (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
   * 우당
 * (NOT YET) 히틀러를 선택한 나라- 민주주의는 어떻게 무너졌는가 [누가 히틀러 집권에 꽃길을 깔아줬나?](https://n.news.naver.com/mnews/article/028/0002587823)
-  * 우당
-* (NOT YET) 나의 이름은 임대운 [5·18 회고록 낸 미국인 "왜곡 반복 안 돼, 윤석열 진실 알아야" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002834726)
   * 우당
 * (NOT YET) [정조와 불량선비 강이천](https://www.khan.co.kr/opinion/column/article/201706212120015)
   * 우당 문911.058-백58ㅈ
