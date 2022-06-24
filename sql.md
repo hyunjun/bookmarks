@@ -520,6 +520,7 @@ SQL
 * [BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
 * [DB Index 동작원리를 알아보자 | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/66)
 * [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
+* [Index Dive 비용 최적화. MySQL 서버의 실행계획 수립(Index Dive) 단계에서 많은… | by Sunguck Lee | 당근마켓 팀블로그 | Jun, 2022 | Medium](https://medium.com/daangn/index-dive-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1a50478f7df8)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 * [MySQL INSERT IF NOT EXISTS](https://number1.co.za/mysql-insert-if-not-exists/)
