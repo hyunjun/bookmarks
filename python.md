@@ -2395,6 +2395,7 @@ Python
 * [Django에서 toss 결제 연동하기](https://velog.io/@sylee0427/Django%EC%97%90%EC%84%9C-toss-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 * [django app config ready 한 번만 실행되게 하려면 어떻게 할까요?](https://codingdog.tistory.com/693)
 * [Django Channels, Celery, Redis: Real Time Broadcasting API response App (Jokes) | Django WebSockets - YouTube](https://www.youtube.com/watch?v=AZNp1CfOjtE)
+* [django mptt와 업뎃이 별로 없는 계층형 구조에 대해 알아봅시다](https://codingdog.tistory.com/707)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
@@ -4037,6 +4038,7 @@ Python
   * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
     * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
   * [Building a Regression Testing Framework for your SQL Database](https://towardsdatascience.com/how-to-regression-test-your-sql-database-c6c8d66848c5)
+* [PyPika - a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis](https://github.com/kayak/pypika)
 * [RasgoQL: Write python locally, execute SQL in your data warehouse](https://github.com/rasgointelligence/RasgoQL)
   * [From Numerical to Categorical. Three ways to bin numeric features | by Andrew Engel | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/from-numerical-to-categorical-3252cf805ea2)
 * SQLAlchemy
