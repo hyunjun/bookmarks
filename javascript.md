@@ -4396,6 +4396,7 @@ Javascript
 * Storybook [스토리북으로 인터랙션 테스트하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220111)
 * [Testing Library | Testing Library](https://testing-library.com/)
   * [How to Write Better UI Component Tests With Testing Library | by Ali Kamalizade | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/how-to-write-better-ui-component-tests-with-testing-library-e80bc489051c)
+  * [JSDOM은 진짜 DOM이 아니다 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220624)
 * [ts-mockito: Mocking library for TypeScript](https://github.com/NagRock/ts-mockito)
   * [(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기](https://jojoldu.tistory.com/638)
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
