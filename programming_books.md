@@ -2519,6 +2519,10 @@ Programming Books
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
+* (NOT YET) [이펙티브 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296893356&start=slayer)
+  * [The Effective Engineer](http://www.effectiveengineer.com/)
+  * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+    * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
 
 # Spark
 
