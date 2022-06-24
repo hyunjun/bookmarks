@@ -49,6 +49,7 @@ Programming
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [pr0gr4m/Newbie-Guideline: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서](https://github.com/pr0gr4m/Newbie-Guideline)
 * [비전공자 프론트엔드 개발자의 취업 후기](https://hollow-snail-bd2.notion.site/c140e9031def4fd895dc452116ffa605)
+* [resources-for-beginner-devs: A collection of useful resources for beginner front end developers from study techniques, supplementary study materials, and more](https://github.com/vivian-mca/resources-for-beginner-devs)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
@@ -1075,6 +1076,7 @@ Programming
       * 이는 런타임을 오픈소스로 공개할 계획이 있는지에 대한 질문으로 이어짐
     * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
+  * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -3450,6 +3452,8 @@ Programming
   * [(11월 28일) 소프트웨어 개발이 어려운 일곱 가지 이유](https://jhrogue.blogspot.com/2020/11/11-28.html) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
     * [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28)
     * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
+    * [Why Learning to Code is So Damn Hard | Thinkful](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+      * [번역 개발 배우기가 정말 어려운 이유](https://brunch.co.kr/@jypthemiracle/14)
   * [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
   * [(12월 13일) 코드 검토자와 사랑에 빠지는 방법](https://jhrogue.blogspot.com/2020/12/12-13.html)
     * [(12/13) 코드 검토자와 사랑에 빠지는 방법 - YouTube](https://www.youtube.com/watch?v=TVzl9pIUV5U)
