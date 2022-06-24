@@ -1616,6 +1616,7 @@ Business
 * [전직 유니콘 CFO가 말하는 ‘스타트업 허와 실’ - 매경ECONOMY](https://www.mk.co.kr/economy/view/2022/469374/)
 * [스타트업 생활 그리고 성장. 대기업 이커머스 회사에서 스타트업 검색 모델러로 이직한지 1년이 넘는… | by Jukyoung LEE | Jun, 2022 | Medium](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
 * ['우버전쟁'을 통해 살펴본 스타트업 '허슬'의 3단계](https://eopla.net/magazines/68)
+* [농구에도 BQ가 있듯이, 스타트업에도 “스타트업 IQ”가 있는 게 아닐까 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254392) 일에 대한 태도
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
