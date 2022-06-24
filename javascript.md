@@ -1118,6 +1118,7 @@ Javascript
   * [JavaScript Promise (callback & async) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI)
   * [Promise.all 과 Transactions (feat. Node.js)](https://jojoldu.tistory.com/639)
   * [Learning Javascript Promise Patterns - DEV Community](https://dev.to/altamashali/learning-javascript-promise-patterns-11ao)
+  * [IMQA 세미나 곽윤설 · Present](https://present.do/documents/62b297e6e214362cce85ad1a)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -1725,6 +1726,8 @@ Javascript
   * [Sanitizer API로 안전하게 DOM 조작하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021124)
 * [hwp.js: Open source hwp viewer and parser library powered by web technology](https://github.com/hahnlee/hwp.js)
   * [hwp.js](https://hanlee.io/hwp.js/)
+* [Hygen | Hygen](https://www.hygen.io/) 코드 제너레이팅 툴
+  * [Hygen을 이용한 컴포넌트 템플릿 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/8268/)
 * [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
 * [hyperid: Uber-fast unique id generation, for Node.js and the browser](https://github.com/mcollina/hyperid)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
@@ -2667,6 +2670,7 @@ Javascript
 * [Microservices with NodeJS: Benefits & 6 Best Practices | by Terasol Technologies | Medium](https://terasol.medium.com/exploring-microservices-with-node-js-benefits-6-best-practices-88b18aa0c3bc)
 * [How to increase NodeJS performance (advance topic) Part 1 | by Saurabh Gupta | May, 2022 | Medium](https://medium.com/@saurabhwithhacks/how-to-increase-nodejs-performance-advance-topic-part-1-623bae87c911)
 * [Deploy Node JS on Heroku, Mongo DB, and Vue JS - YouTube](https://www.youtube.com/watch?v=MBQ-Kxy0EIM)
+* [nodechatapp: Node Express Socket.IO 기본 웹 채팅 샘플 프로젝트](https://github.com/eddykang1074/nodechatapp)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2756,6 +2760,7 @@ Javascript
     * process, Buffer같은 Node.js 전역 변수를 Deno 코드로 변경
     * src 디렉터리를 _src 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
     * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
+  * [Node.js Vs. Deno - Dor Moshe's Blog](https://dormoshe.io/trending-news/nodejs-vs-deno-3ngf-51904)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
@@ -3685,6 +3690,7 @@ Javascript
 * [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
 * [React Hooks 1시간 42분 7초 만에 정복하기 - YouTube](https://www.youtube.com/watch?v=4Md2xcl4fec)
 * [리액트 커스텀 훅을 테스트하는 과정 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220311)
+* [Material UI (mui) + React + Testing Library 적용 간 어려운 점 회고](https://yoonjong-park.tistory.com/entry/React-Test-Material-UI-mui-React-Testing-Library-%EC%A0%81%EC%9A%A9-%EA%B0%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%A0%90-%ED%9A%8C%EA%B3%A0)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
@@ -4122,6 +4128,7 @@ Javascript
 * [React Testing Library | Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
   * [create-react-app에서 react-testing-library로 테스트하기 - create-react-app로 생성한 React 프로젝트에서 react-testing-library를 사용하여 테스트하는 방법에 대해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-testing-library/)
   * [react-testing-library 의 fireEvent 를 userEvent로 마이그레이션 하기 with Antd | by valley | 더핑크퐁컴퍼니 기술 블로그 | May, 2022 | Medium](https://medium.com/pinkfong/react-testing-library-%EC%9D%98-fireevent-%EB%A5%BC-userevent%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-with-antd-ad0de218bb98)
+  * [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [React-UMG](https://github.com/ncsoft/React-UMG)
