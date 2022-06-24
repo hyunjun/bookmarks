@@ -1012,6 +1012,7 @@ Scala
     * [Grokking ZIO. After a long evolutionary journey, the… | by Murray Todd Williams | Apr, 2022 | Medium](https://murraytodd.medium.com/grokking-zio-ac8fed5e6528)
     * [Building High-Performance Notification Engine Using Pure Functional Scala, ZIO HTTP, ZIO Kafka. Event-Driven Architecture. | LinkedIn](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/)
     * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
+    * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1350,6 +1351,7 @@ Scala
   * [(re)constructing sequences with Alternative - Scala tutorial - YouTube](https://www.youtube.com/watch?v=s3DRr1dQmrc)
   * [Data validation using cats Validated](https://yadukrishnan.live/data-validation-and-error-accumulation-using-cats-validated)
   * [Validation in Scala 3 with Cats. In this post we are going to see how to… | by Sergio Cano | May, 2022 | Medium](https://medium.com/@canosergio90/validation-in-scala-3-with-cats-ffa999e4186b)
+  * [Disjoint Graph Unions: Performance Case Study](https://github.com/mpilquist/graph-unions)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -2191,6 +2193,7 @@ Scala
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
+* [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=dv7fPmgFTNA)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
