@@ -268,8 +268,10 @@ Business
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
+* [Amazon과 Apple의 문화 차이. 글로벌 공룡으로 불리우는 두 A사. 리딩 기업으로 혁신의 아이콘… | by KyungHeon Kim | Medium](https://medium.com/@kyungheonkim/amazon%EA%B3%BC-apple%EC%9D%98-%EB%AC%B8%ED%99%94-%EC%B0%A8%EC%9D%B4-b8514e615145) 조직 문화
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
+* [무엇이 직원의 애사심을 만드는가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/254153) 만족도
 * [나는 회사에서 '프로'와 일하고 싶다](https://brunch.co.kr/@1slide1message/112)
 * [HR 컨설턴트가 전하는 ‘효과적인 직원 참여 전략’ - CIO Korea](https://www.ciokorea.com/news/234619) 이직하지 않고 머무르는 이유: 성장과 발전의 문화가 핵심 + 인정의 중요성
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
