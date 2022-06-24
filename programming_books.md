@@ -93,6 +93,7 @@ Programming Books
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
   * [프로그래머의 뇌 · TheoryDB](https://theorydb.github.io/review/2022/04/10/review-book-programmers-brain/)
   * [The Programmer's Brain](https://www.infoq.com/presentations/reading-code/)
+  * [놀라운책, 프로그래머의 뇌를 읽고 :: 소프트웨어 이야기](https://software-creator.tistory.com/36)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
