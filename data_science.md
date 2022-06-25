@@ -377,6 +377,7 @@ Data Science
 * [2021년 가트너 Data Science hype graph에 등장한 용어들 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/hypegraph/) 기술적인 이야기는 아니지만 봐둘만함
 * [The Importance of Ratios & KPIs in Data Science | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-importance-of-ratios-kpis-in-data-science-d9a2623d5cb1)
 * [데이터 실험에서의 실험자 편향 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/expbias/)
+* [SEF2021 빅데이터가 도대체 무엇? 빅데이터 분석가는 또 무엇? - YouTube](https://www.youtube.com/watch?v=UWTrs_cbDxc)
 * [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
 * [7 Must-Know Data Buzzwords in 2022 | by Coco Li | Kyligence | Jan, 2022 | Medium](https://medium.com/kyligence/7-must-know-data-buzzwords-in-2022-9d3d977a43f4)
 * [Data Management Trends You Need to Know - Gradient Flow](https://gradientflow.com/data-management-trends-you-need-to-know/)
