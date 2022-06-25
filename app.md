@@ -1671,6 +1671,8 @@ App
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [Stormah: Own Your Data](https://stormah.com/) your notes, stored in your git repo
+* [Transno - Outlines, Notes, Mind Map](https://transno.com/)
+  * [Transno 트랜스노 생각 정리하기 끝판왕](https://www.howtodo.kr/2020/11/transno.html)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
   * [Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스 | GeekNews](https://news.hada.io/topic?id=5871)
@@ -1830,6 +1832,7 @@ App
 # TODOs To-Dos
 * [TODO 리스트 앱 탐험기 - tebica story](https://earlybird.kr/2603)
 * [dynalist.io](https://dynalist.io/) todo
+  * [Dynalist.io : 업무속도를 높이는 아웃라이너](https://brunch.co.kr/@pletalk/28)
 * workflowy
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
 * [Taskbook - 커맨드 라인 환경에서의 테스크, board, 노트 관리](https://github.com/klaussinani/taskbook/blob/master/docs/readme.KR.md)
