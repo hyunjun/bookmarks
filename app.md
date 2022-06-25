@@ -812,6 +812,7 @@ App
   * [프리지아 랩 :: Visual Studio Code 터미널의 한글 출력 문제 해결하기](https://www.dokyun.pe.kr/273)
   * [Localhost에서 구글 로그인 웹 구현 - 이상선 - Medium](https://medium.com/@sunyi233/localhost%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9B%B9-%EA%B5%AC%ED%98%84-9c7a5879df61)
   * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
+  * [learn_vscode_shortcuts: Learn VSCode Shortcuts](https://github.com/nallwhy/learn_vscode_shortcuts)
   * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
   * Debug
