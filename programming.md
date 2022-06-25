@@ -784,6 +784,7 @@ Programming
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [The Single Most Important Internal Email in the History of Amazon | Pulse](https://pulseasync.com/operators/frameworks-for-remote-working/)
   * [아마존 역사에서 가장 중요한 제프베조스의 2002년 사내 메일 | GeekNews](https://news.hada.io/topic?id=638)
+* [한글자막 아마존 베조스의 5가지 핵심명령 (2명의 저명인사 Erik Wilde, Mike Amundsen의 설명) - YouTube](https://www.youtube.com/watch?v=bXELD5wNsyA)
 * [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 * [EP02: Basics of API, Authorization, Authentication and integration - YouTube](https://www.youtube.com/watch?v=JLKIRBkG1N4)
