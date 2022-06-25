@@ -314,6 +314,11 @@ Programming Books
 * [가장 쉬운 독학 알고리즘 첫걸음 - C&자바편 | 동양북스](http://www.dongyangtv.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2740)
   * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편. 제목에서 알 수 있듯 이 책은 초보자가 독학으로 알고리즘을 배우는 걸… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-c-%EC%9E%90%EB%B0%94%ED%8E%B8-9abd8fea21c3)
   * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%E2%80%94-C%EC%9E%90%EB%B0%94%ED%8E%B8)
+* [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
+  * 우당
+  * ★★★★☆
+  * [똑똑한 코드 작성을 위한 실전 알고리즘. 이미 수많은 자료구조 & 알고리즘 책들이 있는데, 이 책의 가치는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2110c1fcface)
+  * [똑똑한 코드 작성을 위한 실전 알고리즘](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * (NOT YET) 알고리즘 : 컴퓨터 과학의 기본, 숫자 알고리즘에서 양자 알고리즘까지
 * (NOT YET) 알고리즘 문제 풀이 전략
 * (NOT YET) 코딩 트레이닝
@@ -357,8 +362,6 @@ Programming Books
   * 탐라 문005.1-양53ㅇ
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
   * 한라
-* (NOT YET) [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
-  * 우당
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
 
