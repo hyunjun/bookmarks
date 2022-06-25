@@ -170,6 +170,7 @@ Azure
 * [Azure Private DNS Resolvers 구성해보기](https://zigispace.net/1189)
 * [프리지아 랩 :: Azure에서 사용자 지정 역할 정의 만들 때 만난 오류 해결하기](https://www.dokyun.pe.kr/275)
 * [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed - YouTube](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
+* [Google BigQuery vs. Microsoft Azure Synapse | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-bigquery-vs-microsoft-azure-synapse-efac3b06e4a8)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
