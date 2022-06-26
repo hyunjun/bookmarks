@@ -31,6 +31,7 @@ Vim
 * find
   * `:/<pattern>/` [substitute - Find and replace using regular expressions - Vi and Vim Stack Exchange](https://vi.stackexchange.com/questions/3115/find-and-replace-using-regular-expressions)
     * e.g. `:/micro[ ]\?frontend/` 'microfrontend' or 'micro frontend'
+* help [vim help - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/help/)
 * join
   * [How to join lines without producing a space?](https://vi.stackexchange.com/questions/439/how-to-join-lines-without-producing-a-space)
 * quickfix
@@ -86,7 +87,9 @@ Vim
   * [Tweak Your Vim As A Powerful IDE. Vim is a joy to use, it is so well… | by Dery Rahman Ahaddienata | Level Up Coding](https://levelup.gitconnected.com/tweak-your-vim-as-a-powerful-ide-fcea5f7eff9c)
   * [set gvim font in .vimrc file](http://stackoverflow.com/questions/3316244/set-gvim-font-in-vimrc-file)
   * [5 lines I put in a blank .vimrc | Sword and Signals](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
+  * [vim 설정 파일을 주제별로 여러 파일로 분리하자 - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/configure-split/)
   * gvim portable; `GVimPortable\App\DefaultData\settings\vimrc`
+* window [Vim window - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/window/)
 * xmllint [Vim에서 XML 포맷팅하기](https://rein.kr/blog/archives/5551)
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
@@ -167,6 +170,7 @@ Vim
 * [**All I do is VIM VIM VIM**](http://engineering.pivotal.io/post/all-i-do-is-vim/)
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 * [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
+* [Vim 공백 문자 조작 설정 - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/set-empty-chars/)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
 * [mastering-vim-quickly](https://jovicailic.org/mastering-vim-quickly/)
 * [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
@@ -207,6 +211,8 @@ Vim
 * [vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 * [vim-quickui - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !!](https://github.com/skywind3000/vim-quickui)
+* [vim-rest-console: A REST console for Vim](https://github.com/diepm/vim-rest-console)
+  * [vim-rest-console 사용법 - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/rest-console/)
 * [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
   * [How I made $10k in one month from an online vim course](https://www.slip.so/blog/how-I-made-10k-teaching-vim)
 * [vimwiki - A Personal Wiki For Vim](https://github.com/vimwiki/vimwiki)
@@ -224,6 +230,7 @@ Vim
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
 * autosave
   * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
+* [coc.nvim - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/coc-nvim/)
 * [context.vim: Vim plugin that shows the context of the currently visible buffer contents](https://github.com/wellle/context.vim)
 * [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [EditorConfig plugin for Vim http://editorconfig.org](https://github.com/editorconfig/editorconfig-vim)
