@@ -4587,6 +4587,8 @@ Javascript
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
+* [FnApi – FnApi](https://fnapi.dev/)
+  * [fnapi: A function is enough](https://github.com/fnapi/fnapi)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
