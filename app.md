@@ -626,7 +626,7 @@ App
 * HTTP Toolkit [Intercept, debug & mock HTTP with HTTP Toolkit](https://httptoolkit.tech/)
   * [HTTP Toolkit - HTTP 디버깅용 오픈소스 | GeekNews](https://news.hada.io/topic?id=5589)
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
-* paw
+* [Paw – The most advanced API tool for Mac](https://paw.cloud/)
 * postman
   * [practice - test 예제](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/test.postman_collection.json)
     * [Expect / Should - Chai](https://www.chaijs.com/api/bdd/) postman에 직접 관련된 건 아니지만 postman test 작성시 문법 참고
@@ -1068,6 +1068,8 @@ App
 * [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
 * [10 Tips - Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)
   * [맥 Preview 앱의 잘 안 알려진 기능들 | GeekNews](https://news.hada.io/topic?id=6524)
+* [소중한 나의 1초를 위한 10가지 생산성 도구 for MacOS | by 송요창 | Jun, 2022 | Medium](https://medium.com/@totuworld/%EC%86%8C%EC%A4%91%ED%95%9C-%EB%82%98%EC%9D%98-1%EC%B4%88%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%8F%84%EA%B5%AC-for-macos-cc6db97cd798)
+  * Charles, Paw, GitKraken, Alfred, 1Password, Bear App, BetterSnapTool, GrabIt, Ecamm Live, DemoPro
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
@@ -1216,6 +1218,7 @@ App
   * [CapturePlus](http://captureplus.net/)
   * [Flameshot](https://flameshot.org/)
     * [Flameshot - 강력한 오픈소스 캡쳐도구 | GeekNews](https://news.hada.io/topic?id=3777)
+  * GrabIt
   * [Greenshot](https://getgreenshot.org/)
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
   * [**픽픽 (PicPick)**](https://picpick.app/ko/)
@@ -1255,6 +1258,7 @@ App
 * [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
 * karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [kawa - A better input source switcher for OS X](https://github.com/utatti/kawa)
+* [kindaVim](https://kindavim.app/) Vim Mode for macOS
 
 ## Mac development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
@@ -1555,6 +1559,7 @@ App
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
+  [Ecamm Live - Powerful Live Streaming Platform for Mac](https://www.ecamm.com/)
 * Erase.bg [수초 만에 뚝딱! 사진, 로고, 이미지 배경 제거 무료 도구 : 디자인로그(DESIGN LOG)](https://www.designlog.org/2512919)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
   * [SmartRename Script by farn501](https://docs.google.com/forms/d/e/1FAIpQLSfsG-wxJUAGlwaz8elKdQB9lTLOnv4KlrgXKGsfSeyy-nRk_g/viewform)
@@ -1830,6 +1835,7 @@ App
 
 # Screen marker
 * [macOS Screen Annotation Tools: What's the best app? - 9to5Mac](https://9to5mac.com/2020/05/03/macos-screen-annotation-tools/)
+  [DemoPro – Screen annotation and countdown timer for Mac](http://www.demoproapp.com/)
 * [Epic Pen: The worlds most popular screen marker app!](https://epic-pen.com/)
 * [ZoomIt - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/ko-kr/sysinternals/downloads/zoomit)
 
