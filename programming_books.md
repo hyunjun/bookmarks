@@ -535,7 +535,7 @@ Programming Books
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
   * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
-  * 탐라
+  * 탐라 문005.1-핸58ㅅ
   * [Gerald Jay Sussman keynote and discussion - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=EbzQg7R2pYU)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
   * 한라
