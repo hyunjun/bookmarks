@@ -956,6 +956,10 @@ Linux
 * `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
   * [watch 명령을 이용한 linux 시스템 모니터링](https://www.sharedit.co.kr/posts/2000)
+  * [hwatch: A modern alternative to the watch command, records the differences in execution results and can check this differences at after](https://github.com/blacknon/hwatch)
+    * [hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티 | GeekNews](https://news.hada.io/topic?id=5347)
+  * [viddy: 👀 A modern watch command. Time machine and pager etc](https://github.com/sachaos/viddy)
+    * [Viddy - Go로 재작성한 모던 Watch 커맨드 | GeekNews](https://news.hada.io/topic?id=6824)
 * `wc`
   * `wc -c <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
 * `wget`
