@@ -116,6 +116,7 @@ AWS
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
+* [AWS 보안 점검 및 보안 설정 가이드](https://rogue-gouda-f87.notion.site/AWS-de0b5749d03b464ea2e555cba3974d0b)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
