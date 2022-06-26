@@ -620,8 +620,13 @@ Book
 * [무라카미 T](https://jh4hj.tistory.com/entry/%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8-T)
   * ★★★☆☆ 2022.01.30
   * [무라카미 T - Jun - Medium](https://nymets.medium.com/%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8-t-43fc00d4c433)
-* (NOT YET) [오래되고 멋진 클래식 레코드 | 연합뉴스](https://www.yna.co.kr/view/AKR20220331164600005)
+* [오래되고 멋진 클래식 레코드 | 연합뉴스](https://www.yna.co.kr/view/AKR20220331164600005)
   * 우당 문670.15-무231ㅇ
+  * ★★☆☆☆ 2022.06.26
+  * 하루키 책 중에서 이렇게 성의없이 읽은 책은 처음. 다른 분들이 왜 비추천했는지 알겠다.
+  * 당연히 글이 나뻐서가 아니다. 다만 다른 수필에서 읽을 수 있는 하루키의 글에서 느낄 수 있는 재미를 거의 느낄 수 없다.
+  * 위스키를 잘 알아서 위스키 성지여행을 재미있게 읽은게 아닌데, 이 책은 정말 클래식에 조예가 있어야 글의 느낌이 전해질 듯한 느낌이다.
+  * 지휘자나 오케스트라단에 따른 차이는 커녕 작곡가 이름도 잘 모르는 사람들이 음감의 질 따위를 논할 수는 없는 수준이니까.
 
 # Note, Memo
 * [Write … One Note at at Time](https://takesmartnotes.com/)
