@@ -127,6 +127,7 @@ Religion
 * [국회보다 낮은 한국교회 신뢰도…비신자 85% "코로나19 이후 개신교인에게 부정적 감정" < 코로나19와 개신교 < 교계 < 기사본문 - 뉴스앤조이](http://www.newsnjoy.or.kr/news/articleView.html?idxno=302654)
 * ["기업도 시장조사 거쳐 신제품 내놓는데…목회자들도 데이터 기반한 목회 전략 세워야" < 교계 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303303)
 * [‘정치 목사’ 김장환의 힘은 어디서 나오나 < 김용민 칼럼 < 칼럼 < 쩌날리즘 < 기사본문 - 평화나무](https://www.logosian.com/news/articleView.html?idxno=2565)
+* [꼭 그 길이 아니어도 괜찮습니다 < 다른 길로 간 신학생들 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=304475)
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
