@@ -495,6 +495,8 @@ App
 * Jami [The Jami conferencing system](https://jami.net/the-jami-conferencing-system/)
 * [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
   * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
+* [Lorien: Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot](https://github.com/mbrlabs/Lorien)
+  * [Lorien - 무한 칠판/노트 작성 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=6754)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [mirotalksfu: 🏆 WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.🏆](https://github.com/miroslavpejic85/mirotalksfu)
   * [MiroTalk SFU - 오픈소스 Zoom/Teams 대체제 | GeekNews](https://news.hada.io/topic?id=5497)
@@ -578,6 +580,7 @@ App
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
 * [codelite](http://codelite.org/) `brew cask install codelite`
+* [Dans Tools - Online tools for users and developers](https://www.danstools.com/)
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
@@ -1005,6 +1008,8 @@ App
 * [macOS 안내서](https://subicura.com/mac/)
 * ['기본 앱에서 정답 찾기' 아이폰∙아이패드∙맥의 메모 앱 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/219309)
 * [“의외로 유용하다” 데스크톱 경험을 바꿔줄 맥의 10가지 숨은 기능 - ITWorld Korea](https://www.itworld.co.kr/news/235764)
+* [Hardening macOS](https://www.bejarano.io/hardening-macos/)
+* [4 macOS Screenshot Tricks To Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -1100,6 +1105,8 @@ App
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
       * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
+    * [Shotcut - Home](https://shotcut.org/)
+      * [Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기 | GeekNews](https://news.hada.io/topic?id=6733)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
       * [vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구 | GeekNews](https://news.hada.io/topic?id=5252)
 * 절전 모드 방지
