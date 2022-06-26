@@ -1387,6 +1387,7 @@ Docker
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
 * [Kubernetes in 2 minutes | Razorops](https://razorops.com/blog/kubernetes-in-2-minutes/)
 * [How to Monitor Kubernetes clusters like an Expert ?| DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=J9ijNhGATnE)
+* [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1429,6 +1430,8 @@ Docker
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
     * [Rollout_Cheat_Sheet.png (5160×6176)](https://raw.githubusercontent.com/jangjaelee/tutorials-argo-rollouts/main/cheat_sheet/Rollout_Cheat_Sheet.png)
+* [autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler)
+  * [Dynamic Kubernetes Cluster Scaling at Airbnb | by David Morrison | The Airbnb Tech Blog | May, 2022 | Medium](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132)
 * [aws-controllers-k8s](https://github.com/aws-controllers-k8s)
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
@@ -1830,6 +1833,7 @@ Docker
   * [How Podman can transfer container images without a registry | Enable Sysadmin](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
     * [Podman, Registry 없이 컨테이너 이미지 전송 가능 | GeekNews](https://news.hada.io/topic?id=6175)
   * [당신의 컨테이너 이미지가 더 작아야 하는 이유를 알고 계시나요? - NGINX STORE](https://www.nginxplus.co.kr/best-practices/building-smaller-container-images/)
+  * [컨테이너 분야의 '요즘 애들', 포드맨을 아시나요? - CIO Korea](https://www.ciokorea.com/news/241109)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
   * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
