@@ -330,3 +330,4 @@ Redis
 * [개발자를 위한 레디스 튜토리얼 04](https://meetup.toast.com/posts/227)
 * [Redis Crash Course - the What, Why and How to use Redis as your primary database - YouTube](https://www.youtube.com/watch?v=OqCK95AS-YE)
 * [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js & Redis - YouTube](https://www.youtube.com/watch?v=DOIWQddRD5M)
+* [How to develop a Todo App in Next JS and Redis database from scratch](https://www.linkedin.com/pulse/how-develop-todo-app-next-js-redis-database-from-scratch-bilal/)
