@@ -135,6 +135,8 @@ Network
   * Question은 질의하는 부분이고 Answer는 해당 도메인의 IP 주소가 담겨있고 이 IP를 찾을 수 있는 네임 서버는 Authority에, 이 네임 서버들의 IP 주소는 Additional에 존재 
 * [New tool: Mess with DNS!](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
 * [DNS leak test](https://dnsleaktest.com/what-is-a-dns-leak.html)
+* [dns.toys: A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc](https://github.com/knadh/dns.toys)
+  * [Useful utilities and toys over DNS](https://www.dns.toys/)
 * [Duck DNS - about](https://www.duckdns.org/about.jsp)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
