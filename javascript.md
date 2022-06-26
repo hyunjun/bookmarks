@@ -1071,6 +1071,7 @@ Javascript
 * [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await는-어떻게-구현하는가-fa08a3157647)
 * [Aborting a signal: How to cancel an asynchronous task in JavaScript](https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/)
   * [자바스크립트에서 AbortController 를 활용하여 비동기 작업 중단하기 | 오르막길](https://genie-youn.github.io/journal/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C_AbortController%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC_%EB%B9%84%EB%8F%99%EA%B8%B0_%EC%9E%91%EC%97%85_%EC%A4%91%EB%8B%A8%ED%95%98%EA%B8%B0.html)
+* [AbortController로 요청 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1602)
 * [How the new ‘Top Level Await’ feature works in JavaScript](https://medium.com/javascript-in-plain-english/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
 * [**await의 함정, 숨은 병목을 찾자**](https://jaeheon.kr/161)
 * [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
@@ -3691,6 +3692,7 @@ Javascript
 * [React Hooks 1시간 42분 7초 만에 정복하기 - YouTube](https://www.youtube.com/watch?v=4Md2xcl4fec)
 * [리액트 커스텀 훅을 테스트하는 과정 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220311)
 * [Material UI (mui) + React + Testing Library 적용 간 어려운 점 회고](https://yoonjong-park.tistory.com/entry/React-Test-Material-UI-mui-React-Testing-Library-%EC%A0%81%EC%9A%A9-%EA%B0%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%A0%90-%ED%9A%8C%EA%B3%A0)
+* [React Tutorial Project 2022 - How To Use Axios With React Hooks 2022 - YouTube](https://www.youtube.com/watch?v=9L3aEMBzmwk)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
@@ -4340,6 +4342,7 @@ Javascript
 * [Babel, Mocha, Karma and Webpack with coverage in order](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps | by Mostafa Moradian | The Startup | Medium](https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518)
 * [Mock Service Worker Library Enables Resilient REST and GraphQL API Testing](https://www.infoq.com/news/2020/11/msw-mocking-graphql-rest-api/)
+* [Random notes around service workers development and testing · mmazzarolo.com](https://mmazzarolo.com/blog/2022-06-18-service-workers-tips-and-tricks/)
 * [Mocking으로 생산성까지 챙기는 FE 개발 – tech.kakao.com](https://tech.kakao.com/2021/09/29/mocking-fe/)
 * [FEConf2020 프론트엔드 TDD 발표 후기 | 마이크로프로텍트 블로그](https://microprotect.github.io/2020/12/16/frontend-tdd-feconf2020/)
 * [프론트엔드 테스트의 모든 것. 저와 같은 사람이라면 개발 워크플로우에서 테스트를 자동화하여 원치 않는… | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
