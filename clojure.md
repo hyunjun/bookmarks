@@ -438,6 +438,9 @@ Clojure
 * [Working with binary data in clojure](https://fctorial.com/posts/parse_struct.html) serialization
 * [Clojure Sequence API Cheatsheet – Nextjournal](https://nextjournal.com/try/jackrusher/clojure-sequence-api-cheatsheet)
 * [Clojure: Sequences, part 1](https://tylerrhodes.net/posts/clojure-sequences/)
+* [Sequences - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/sequences/)
+* [Metadata - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/metadata/)
+* [Datatypes - deftype, defrecord and reify - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/datatypes/)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
