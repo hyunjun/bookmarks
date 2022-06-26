@@ -248,6 +248,7 @@ Java
   * [Enum값의 사용](http://developer88.tistory.com/148)
   * [Java enum](https://medium.com/@jooyunghan/java-enum-9a5c53e4cd15)
   * [Micro optimizations in Java. Good, nice and slow Enum | by Dmytro Dumanskiy | Javarevisited | Aug, 2020 | Medium](https://medium.com/javarevisited/micro-optimizations-in-java-good-nice-and-slow-enum-261e6f77bd2e)
+  * [Java enum의 사용 - 기계인간 John Grib](https://johngrib.github.io/wiki/java/enum/)
 * Exception
   * [Java의 Exception(예외) 처리](https://chocozero.github.io/IT/Java/2017-08-31/Exception-%EC%B2%98%EB%A6%AC/)
   * [Null is your friend, not a mistake | by Roman Elizarov | Medium](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
@@ -315,9 +316,11 @@ Java
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
   * [java deepequals 메서드 정말 깊게 비교한다](https://codingdog.tistory.com/entry/java-deepequals-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EB%A7%90-%EA%B9%8A%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%9C%EB%8B%A4)
+  * [java.lang.Object.toString 메소드 - 기계인간 John Grib](https://johngrib.github.io/wiki/java/object-tostring/)
   * equals
     * [자바 == 연산자 vs equals()](https://brunch.co.kr/@mystoryg/132)
     * [java 다른 객체를 참조하는데 ==이 참인 경우가 있을까요?](https://codingdog.tistory.com/entry/java-%EB%8B%A4%EB%A5%B8-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%9D%B4-%EC%B0%B8%EC%9D%B8-%EA%B2%BD%EC%9A%B0%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+    * [java.lang.Object.equals 메소드 - 기계인간 John Grib](https://johngrib.github.io/wiki/java/object-equals/)
   * hashCode
     * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
     * [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
