@@ -331,6 +331,7 @@ Programming
   * 주 업무가 아니라서 시간도 부족하고 주제 선정에도 어려움이 있었지만, 같이 글을 써줄 사람도 생기고 사내 개발자들에게 관심도 받게됨
   * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
 * [페이스북은 어떻게 배포하는가? – IT의 중심에서](https://subokim.wordpress.com/2022/06/12/how_facebook_work/) 오래된 이야기지만, 개발자 중심 문화
+  * [페이스북은 어떻게 배포하는가 | GeekNews](https://news.hada.io/topic?id=6740)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
@@ -2556,6 +2557,7 @@ Programming
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
 * [**실용주의 데브옵스 for MSA – tech.kakao.com**](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
 * [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
+* [CI/CD에서 한 단계 더 나아간 '지속적 배포 자동화' 준비하는 5가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/241504)
 * [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
 * [Safe Updates of Client Applications at Netflix | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c)
 * [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=MYVrLXKJp0Y)
@@ -3049,6 +3051,7 @@ Programming
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+* [Min Sans - 민 산스, 프로덕트 디자인에 적합한 폰트를 만들어가고 있습니다](https://github.com/poposnail61/min-sans)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
