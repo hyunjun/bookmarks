@@ -79,6 +79,7 @@ Presentation
 * [the noun project](https://thenounproject.com/) icon
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
+* [pptx-tool: A script to fix up pptx font configurations considering Latin/EastAsian/ComplexScript/Symbol typeface mappings](https://github.com/achimnol/pptx-tool)
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
 * [prezi](https://prezi.com/)
