@@ -929,6 +929,7 @@ Web
 * [Infra 리버스 프록시(reverse proxy) 서버 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/reverse-proxy/)
 * [**System Design Basics: Proxy vs. Reverse Proxy | by Coder girl | InterviewNoodle | Medium**](https://medium.com/interviewnoodle/system-design-basics-proxy-vs-reverse-proxy-90d48da385be)
 * [A Primer on Proxies](https://blog.cloudflare.com/a-primer-on-proxies/)
+* [Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/)
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
