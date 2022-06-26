@@ -235,6 +235,8 @@ Programming
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [Top 8 Cross-Platform Frameworks for App Development in 2021 - Messapps](https://messapps.com/allcategories/development/best-cross-platform-app-development-frameworks/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
+* [KISS 원칙 (KISS Principle) - 기계인간 John Grib](https://johngrib.github.io/wiki/jargon/kiss-principle/)
+* [비행기 법칙 (airplane rule) - 기계인간 John Grib](https://johngrib.github.io/wiki/jargon/airplane-rule/)
 * [2 Defensive Coding Techniques You Should Use Today | The Startup](https://medium.com/swlh/2-defensive-coding-techniques-you-should-use-today-4225cacc1c29)
 * [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
@@ -550,6 +552,7 @@ Programming
 * [Choosing the Right Integers :: The Coded Message](https://www.thecodedmessage.com/posts/programming-integers/)
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 * [**Pizza as a Service 2.0 – Paul Kerrison**](https://www.paulkerrison.co.uk/random/pizza-as-a-service-2-0)
+* [특수문자 모음 - 기계인간 John Grib](https://johngrib.github.io/wiki/special-chars/)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -2587,6 +2590,7 @@ Programming
   * It is cheaper because automated tasks allow errors to be detected immediately, avoiding the accumulation of defects.
   * It is better because automation provides predictable, standardized, reliable and repeatable results.
 * [Shipping to Production - The Pragmatic Engineer](https://blog.pragmaticengineer.com/shipping-to-production/)
+* [Continuous Integration(지속적 통합) - 기계인간 John Grib](https://johngrib.github.io/wiki/continuous-integration/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
@@ -2834,6 +2838,7 @@ Programming
     * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [GnuPG 사용법 - 기계인간 John Grib](https://johngrib.github.io/wiki/gpg/)
 * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 * [Hacker Test: A site to test and learn about web hacking](https://www.hackertest.net/)
@@ -4632,6 +4637,7 @@ Programming
 * [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
   * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
   * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
+  * [유의적 버전 (Semantic Versioning) - 기계인간 John Grib](https://johngrib.github.io/wiki/semantic-versioning/)
 * [ZeroVer: 0-based Versioning — zer0ver](https://0ver.org/)
 
 # Virtual Machine
