@@ -1315,6 +1315,8 @@ Programming Books
   * 한라 005.13-이25ㅎ
 * (NOT YET) 쏙쏙 들어오는 함수형 코딩 [갈수록 커지고 복잡해지는 코드, 쉽게 관리하는 방법은 없을까?](https://jpub.tistory.com/1259)
   * 한라 005.13-노34ㅎ 탐라 문005.13-노33ㅆ
+  * [source code](https://www.manning.com/downloads/2263)
+  * [Grokking Simplicity - A book on Functional Programming](https://grokkingsimplicity.com/)
   * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 
 # Game
@@ -2049,6 +2051,7 @@ Programming Books
 * (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정판) | 위키북스](https://wikibook.co.kr/nlp-tf2/)
 * (NOT YET) [파이토치로 배우는 자연어 처리](https://hanbit.co.kr/store/books/look.php?p_code=B1231887279)
 * (NOT YET) [구글 BERT의 정석](https://hanbit.co.kr/store/books/look.php?p_code=B2201215526)
+  * [BERT의 정석을 톺아보기 : 네이버 블로그](https://blog.naver.com/drvoss/222789955056)
 * (NOT YET) [BERT와 GPT로 배우는 인공지능 자연어처리](http://www.aitimes.kr/news/articleView.html?idxno=23390)
   * [**트랜스포머 관련 책 독서 후기**](https://www.facebook.com/Thomas.CS.Park/posts/10222184767793514)
   * [Tutorial Links - ratsgo's NLPBOOK](https://ratsgo.github.io/nlpbook/docs/tutorial_links)
