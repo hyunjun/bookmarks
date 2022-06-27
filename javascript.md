@@ -570,6 +570,8 @@ Javascript
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 * [프론트엔드 모니터링에서 Script error. 만 나올때](https://jojoldu.tistory.com/582)
+* [An Introduction to JavaScript Error Handling](https://blog.openreplay.com/an-introduction-to-javascript-error-handling)
+  * [번역 자바스크립트 에러 핸들링 방법](https://velog.io/@cookie004/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95-%EC%86%8C%EA%B0%9C)
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
 * [JavaScript Clean Code — Quick Best Practices | by Denis Cangemi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-clean-code-best-practices-461c24c53cae)
