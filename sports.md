@@ -101,6 +101,7 @@ Sports
 * [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
 * [메이저리그의 '야구 실험'은 성공했을까?(1)](https://spoflix.tistory.com/119)
 * [메이저리그의 '야구 실험'은 성공했을까?(2)](https://spoflix.tistory.com/120)
+* [더 빨라지는 야구공, 느리게 던져도 성공할 수 있다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47730) 효과구속 이론(Effective Velocity Theory)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
