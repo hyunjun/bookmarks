@@ -3888,7 +3888,6 @@ Javascript
     * React의 Context API를 이용하면 컴포넌트에 Props를 계속 전달해주어야 하는 Props Drilling 문제를 피할 수 있음
     * createContext 함수로 값을 선언하고 자식 컴포넌트에서 이 값에 접근하는 방법 설명
     * 이를 이용해서 상태관리를 하거나 최적화를 위해 여러 Context를 사용하는 등 다양한 Context API의 사용법을 예제코드로 설명
-  * [React Context API in One Video | ReactJS | ReactJS Tutorial In Hindi - YouTube](https://www.youtube.com/watch?v=73Tz6qTgNuU)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
