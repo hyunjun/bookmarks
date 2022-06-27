@@ -1300,6 +1300,7 @@ Clojure
 * [Understanding Transducers - Elben Shira](https://elbenshira.com/blog/understanding-transducers/)
 * [Clojure Koans 26 Transducers Notebook – Nextjournal](https://nextjournal.com/avidrucker/clojure-koans-26-transducers-notebook)
 * [Grokking Clojure transducers - /dev/solita](https://dev.solita.fi/2021/10/14/grokking-clojure-transducers.html)
+* [Transducers - 기계인간 John Grib](https://johngrib.github.io/wiki/clojure/reference/transducers/)
 * [danzig - a easy-to-use transducer based data analysis tools for the clojure programming language](https://github.com/ribelo/danzig)
 
 # Tutorial
