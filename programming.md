@@ -612,6 +612,7 @@ Programming
       * 이에 따라 자율성이 높아지고 더 큰 영향력을 발휘
   * [빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재 | GeekNews](https://news.hada.io/topic?id=6467)
 * [The age of Scrum is over. Scrum has given us a lot, but its time… | by Chris Lennon | Medium](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
+* [스크럼, 입고팀이 애자일하게 일하는 법 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/inbound-squad-sprint-1/)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
