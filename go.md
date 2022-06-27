@@ -647,6 +647,7 @@ Go
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
 * [go-password-hasher: Password hasher with random salts](https://github.com/Edmartt/go-password-hasher)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
+* gopkgs [Custom Domain Module Import Service for Google Go (golang) | GoPkgs.org](https://gopkgs.org/)
 * [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
 * [gops - a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
 * [goqrexfil: A mini project to exfiltrate data via QR codes](https://github.com/sourcefrenchy/goqrexfil)
