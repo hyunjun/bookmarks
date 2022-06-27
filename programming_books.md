@@ -1996,6 +1996,8 @@ Programming Books
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
+* (NOT YET) [모두를 움직이는 힘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280313083)
+  * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
 
 # Math
 
