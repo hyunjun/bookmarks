@@ -162,6 +162,12 @@ Book
   * [인공지능과 흙](https://github.com/hyunjun/bookmarks/blob/master/books/ai_and_soil.md)
   * [인공지능과 흙. 르네상스, 상상과 현실의 세계 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99-991fbc03b47)
   * [인공지능과 흙](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC-%ED%9D%99)
+* [데일카네기 인간관계론](https://brunch.co.kr/@reading15m/94)
+  * 탐라 문331.18-카213ㅋ
+  * ★★★☆☆ 2022.06.27
+  * [How to Win Friends & Influence People 데일 카네기 인간관계론](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_win_friends_and_influence_people.md)
+  * [How to Win Friends & Influence People 데일 카네기 인간관계론 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%B4%EB%A9%B4-%EB%84%88%EB%AC%B4-%EB%BB%94%ED%95%9C-%EB%A7%88%EC%B9%98-%EA%B6%8C%EC%84%A0%EC%A7%95%EC%95%85%EA%B0%99%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EC%9D%B4-%EC%B1%85%EC%9D%98-%EC%B4%88%ED%8C%90%EC%9D%B4-1936%EB%85%84%EC%97%90-%EB%82%98%EC%98%A4%EA%B8%B0%EB%8F%84-%ED%96%88%EB%8B%A4-1917839fee1f)
+  * [How to Win Friends & Influence People 데일 카네기 인간관계론](https://jh4hj.tistory.com/entry/How-to-Win-Friends-Influence-People-%EB%8D%B0%EC%9D%BC-%EC%B9%B4%EB%84%A4%EA%B8%B0-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
