@@ -1415,6 +1415,7 @@ Programming
 * [실제 행위자와 역할 표기는 어떤 차이를 만드나?](https://brunch.co.kr/@graypool/482)
 * [모호함이 사라질 때까지 매개체를 풀어가기](https://brunch.co.kr/@graypool/483)
 * [도메인 모델, Ongoing 설계 그리고 정원관리](https://brunch.co.kr/@graypool/490)
+* [모델, 모델링, 측정 그리고 가치의 객관화](https://brunch.co.kr/@graypool/494)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
