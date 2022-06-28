@@ -147,6 +147,7 @@ Java
 * [Best practices for Java in single-core containers | Red Hat Developer](https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#java_application_lifecycle)
 * [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
 * [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
+* [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -771,6 +772,7 @@ Java
 * [A Year with Java 11 in Production!](https://www.infoq.com/presentations/java-11-production-story/)
 * [Java 8에서 Java 11로 전환 - Azure | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/developer/java/fundamentals/transition-from-java-8-to-java-11) jdeprscan jdeps
 * [The Things I Love and Use from Java 11 - CodersTea](https://www.coderstea.com/post/java/the-things-i-love-and-use-from-java-11/)
+* [LinkedIn’s journey to Java 11 | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/linkedin-s-journey-to-java-11)
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
@@ -1694,10 +1696,6 @@ Java
 * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
 * [Spring Boot Tutorials](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
 * [Top 5 Spring Boot and Spring Cloud Books for Java Developers](https://medium.com/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
-* [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
-* [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
-* [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
-* [jhipster - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/jhipster)
 * 스프링 배치(스프링 Boot 기반)삽질기
   * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
   * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)
@@ -1888,6 +1886,12 @@ Java
 * [SpringBoot 예외처리하기 - Exception Handling | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-exception-handling-basic/)
 * [A Quick Guide to Elasticsearch with Spring Data and Spring Boot | Okta Developer](https://developer.okta.com/blog/2022/02/16/spring-data-elasticsearch)
 * [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
+* JHipster
+  * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
+  * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
+  * [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
+  * [jhipster - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/jhipster)
+  * [자바ㆍ자바스크립트용 풀 스택 프레임워크, 제이힙스터의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/239909)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
