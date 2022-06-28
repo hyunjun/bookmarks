@@ -46,6 +46,7 @@ Presentation
 * [Creating effective slides: Design, Construction, and Use in Science - YouTube](https://www.youtube.com/watch?v=meBXuTIPJQk)
 * [The 10/20/30 Rule of PowerPoint - Guy Kawasaki](https://guykawasaki.com/the_102030_rule/)
 * [아직도 PPT와 텍스트로 보고하나요? 그렇다면 비주얼싱킹 - T Times](https://www.ttimes.co.kr/article/2022050418257792651)
+* [최고의 개발툴 발표는 어떤 건가요? | GeekNews](https://news.hada.io/topic?id=6790)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
