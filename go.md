@@ -319,6 +319,7 @@ Go
 * [Upload files by extension - Golang Web Development Bangla - YouTube](https://www.youtube.com/watch?v=jVMOoacrsvs)
 * [How to write safe and secure Go code](https://www.codiga.io/blog/secure-go-code/)
 * [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
+* [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -795,6 +796,7 @@ Go
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
 * [bigcache - Efficient cache for gigabytes of data written in Go](https://github.com/allegro/bigcache)
+* [fastcache: Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead](https://github.com/VictoriaMetrics/fastcache)
 * [go-cache: A Go library to deal with multi-layered caching between in-memory cache and shared cache (i.e. Redis) by adopting Cache-Aside pattern.](https://github.com/viney-shih/go-cache)
 * [Groupcache | How to cache and fill cache with Golang](https://morioh.com/p/371b25a11c35)
 
