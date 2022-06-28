@@ -328,6 +328,7 @@ Interview
 * [System Design : The Algorists](https://systemsdesign.cloud/)
 * [system-design-resources: These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)
   * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
+* [System Design - Low Level - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
