@@ -883,6 +883,7 @@ Web
 * [What Is NGINX? An Overview of the Basics | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/what-is-nginx-an-overview-of-the-basics)
 * [Improving NGINX Performance with Kernel TLS and SSL_sendfile( ) - NGINX](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
 * [NGINX를 API Gateway로 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/deploying-nginx-plus-as-an-api-gateway-part-1/)
+* [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
 * [엔진엑스 플러스(NGINX Plus)의 웹방화벽과 인그레스 콘트롤러의 활용 디지털투데이TV Live - YouTube](https://www.youtube.com/watch?v=eNZ9q5mJmFk)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
