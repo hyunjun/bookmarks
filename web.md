@@ -248,6 +248,7 @@ Web
 * [Why is Front-End Development So Unstable?](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [The Medium RSS Feed’s Missing Part | by Sabesan Sathananthan | Geek Culture | Jun, 2022 | Medium](https://medium.com/geekculture/the-medium-rss-feeds-missing-part-65a0b556dda1)
 * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) http cache
+* [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
 
 # Apache
 * installation
@@ -1087,6 +1088,8 @@ Web
   * [“브라우저의 파이썬” 아나콘다, ‘파이스크립트’ 공개 - CIO Korea](https://www.ciokorea.com/news/234899)
   * [PyScript 란? - HTML에서 파이썬 코드 작성](https://velog.io/@taekkim/PyScript-%EB%9E%80)
   * [자바스크립트 종말각?! HTML에서 파이썬 실행하는 PyScript 등장! - YouTube](https://www.youtube.com/watch?v=3DuyJf_XPtM)
+  * [PyScript (Pt.1) — Python Packages in The Browser | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/pyscript-pt-1-python-packages-in-the-browser-c4e165625f32)
+  * [PyScript (Pt.2) — Building Wordle with PyScript + Other Examples | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/pyscript-pt-2-building-wordle-with-pyscript-other-examples-8c62c12e788)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
@@ -1340,6 +1343,7 @@ Web
 * [Http Server Performance: NodeJS vs. Go | by Jan Sunavec | Jan, 2022 | Better Programming](https://betterprogramming.pub/http-server-performance-nodejs-vs-go-397751e8d275)
 * [The Definitive Guide to Image Optimization](https://www.builder.io/blog/the-definitive-guide-to-image-optimization)
   * [(번역) 이미지 최적화에 대한 명확한 가이드](https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization)
+* [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -1453,6 +1457,7 @@ Web
 * [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
 * [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
 * [웹어셈블리 기반의 유력 언어 프로젝트 13종 - ITWorld Korea](https://www.itworld.co.kr/news/231854)
+* [Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작 | GeekNews](https://news.hada.io/topic?id=6743)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
