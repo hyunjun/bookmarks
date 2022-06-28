@@ -1383,6 +1383,7 @@ Docker
 * [(공개) 바닐라 쿠베네티스 실습 환경 배포 가이드](https://gasidaseo.notion.site/db0869d191ec4e4d90b1c9bb722a7175)
 * [쿠버네티스 실습 환경 배포 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvP1gmNsWr6YvXIQ7TonCr8h)
 * [배포를 우아하게 - 원-클릭(one-click) 배포](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C/)
+* [배포를 안전하게 - 카나리 배포, 롤백](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C/)
 * [SK텔레콤 컨테이너솔루션개발팀 - YouTube](https://www.youtube.com/channel/UCOQoi9CNSy915agW42113WA)
 * [쿠버네티스 데이터베이스 오퍼레이터 소개 및 멤버 글 모음](https://gasidaseo.notion.site/49a7bd791f674dc38093598f9d88d4c2)
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
