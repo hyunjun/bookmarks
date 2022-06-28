@@ -310,6 +310,7 @@ Bitcoin
 * [A peek under Bitcoins hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
 * [비트코인 채굴의 원리를 파이썬으로 구현해보자! - YouTube](https://www.youtube.com/watch?v=JM3j7uBKnt8)
 * [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+* [Building a Blockchain in Python - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/06/building-a-blockchain-in-python/)
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
 * [SmartPy - an intuitive and powerful smart contract development platform for Tezos](https://smartpy.io/)
 
@@ -355,3 +356,4 @@ Bitcoin
 * [Web3라는 집단 광기에 여러 사람이 다칠 것이다 – 박세희 Park Sehee](https://parksehee.blog/2022/06/06/web3-hysteria/)
 * [Crash course in Web3 Application Development with Python](https://blog.doppler.com/crash-course-in-web3-application-development-with-python)
 * [Two Cents #53 Web3 투자 Thesis - by Jin Ho Hur - Two Cents](https://hur.substack.com/p/web3-thesis)
+* [TBD, Web5 발표 | GeekNews](https://news.hada.io/topic?id=6735)
