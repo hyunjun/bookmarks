@@ -532,6 +532,7 @@ C
 
 # Standard Library
 * [fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234)
+* [fork() without exec() is dangerous in large programs (evanjones.ca)](https://www.evanjones.ca/fork-is-dangerous.html)
 * file
   * [C언어 파일포인터 \_fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
 * gettimeofday [practice](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
