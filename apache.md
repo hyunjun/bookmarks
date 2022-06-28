@@ -708,6 +708,7 @@ Apache
 * [Kafka with k8s on Virtualbox](https://gasidaseo.notion.site/Kafka-with-k8s-on-Virtualbox-95e0fa7e40b24c3eb0f4a14bfd80ba01)
 * [Fine-tune Kafka performance with the Kafka optimization theorem | Red Hat Developer](https://developers.redhat.com/articles/2022/05/03/fine-tune-kafka-performance-kafka-optimization-theorem)
 * [A Guide To Apache Kafka - A Data Streaming Platform](https://www.decipherzone.com/blog-detail/apache-kafka)
+* [Exporter Review: Kafka - NexClipper](https://nexclipper.io/exporter-review-kafka/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
