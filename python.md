@@ -2983,6 +2983,7 @@ Python
 * [Jupyter notebook HTML output에 템플릿 적용하기](http://ohgyun.com/772)
 * [JupyterCon in New York 2018](https://www.youtube.com/playlist?list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
 * [**Installing Python Packages from a Jupyter Notebook**](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+* [How To Set Up Jupyter Notebook with Python 3 on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04)
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 * [파이썬 기초 강좌 #6 Jupyter Notebook](https://www.youtube.com/watch?v=nLDylDLR1VU)
 * [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
