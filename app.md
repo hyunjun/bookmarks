@@ -375,6 +375,7 @@ App
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
 * [**medium-unlimited: A browser extension to read medium.com articles for free without membership**](https://github.com/manojVivek/medium-unlimited)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
+* [Miniflux - 경량 오픈소스 RSS 리더 | GeekNews](https://news.hada.io/topic?id=6832)
 * moniwiki
   * [Ubuntu 20.04 LTS 에 모니위키(moniwiki) 설치하기 ](http://parkpd.egloos.com/4205558)
   * [Ubuntu 20.04 LTS 에 Docker 로 모니위키(moniwiki) 설치하기](http://parkpd.egloos.com/4205573)
@@ -865,6 +866,7 @@ App
     * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
     * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
     * [코드를 나 대신 읽고 써주는 Figstack | Disquiet\*](https://disquiet.io/@yeoularu/makerlog/611)
+    * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
   * Git
     * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
     * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -1812,6 +1814,8 @@ App
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
+* [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
+  * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * Powerpoint
   * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
 * [TreeSheets](http://strlen.com/treesheets/)
@@ -1862,7 +1866,8 @@ App
   * [Figma Assistant by Grida | Disquiet\*](https://disquiet.io/product/figma-assistant-by-grida) 당신의 디자인 / 개발 어씨스턴트. Figma 에서 Flutter 로 클릭한번에 완성
   * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
   * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
-* [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
+* [Penpot - Design Freedom for Teams](https://penpot.app/)
+  * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)
