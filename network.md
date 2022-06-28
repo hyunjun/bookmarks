@@ -379,6 +379,7 @@ Network
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
   * [NDC2016 오픈 소스 '헤이스트' 배포! UDP를 사용해서 게임 서버 만들기](http://www.inven.co.kr/webzine/news/?news=155627&vtype=pc)
+* [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [**HTTP/3는 왜 UDP를 선택한 것일까?**](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
 * [QUIC과 HTTP/3 - 2. 기존의 성능 개선 기법 및 한계](https://www.saturnsoft.net/network/2019/03/26/quic-http3-2)
@@ -394,7 +395,7 @@ Network
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
   * 안전한 웹사이트 방문, 오디오비주얼 채팅, 모바일 브라우징에 가장 큰 개선 예상
 * [How Facebook Is Bringing QUIC to Billions - YouTube](https://www.youtube.com/watch?v=tJBmuSmtxRg)
-* [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
+* [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
 * [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
   * [Introducing s2n-quic, a new open-source QUIC protocol implementation in Rust | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/introducing-s2n-quic-open-source-protocol-rust/)
