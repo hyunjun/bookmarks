@@ -338,6 +338,7 @@ ElasticSearch - Lucene
   * [검색의 미래 그리고 진실의 순간](https://brunch.co.kr/@graypool/466)
 * [Elasticsearch 검색에서 확률 사용하기](https://tech.buzzvil.com/blog/probability-in-es-search/)
 * [Datastream - 새로운 Elasticsearch 데이터 구조 이해하기 - YouTube](https://www.youtube.com/watch?v=JqKDIg8fgd8)
+* [**How to build a scalable backend to query and search billions of records? | by Saiful Khan | Elucidata | May, 2022 | Medium**](https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
