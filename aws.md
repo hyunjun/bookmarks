@@ -25,11 +25,6 @@ AWS
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
 * LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
-* [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
-* [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
-* [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
-* [API Gateway로 웹소켓 서버 만들기 - 이상선 - Medium](https://medium.com/@sunyi233/api-gateway%EB%A1%9C-%EC%9B%B9%EC%86%8C%EC%BC%93-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-d0a1a8df06ee)
-* [AWS API Gateway의 Authorizer. AWS의 API Gateway를 보면 authorizer를 설정할 수… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/aws-api-gateway%EC%9D%98-authorizer-ef90429d33db)
 * [AWS AG의 WebSocket의 default - 이상선 - Medium](https://medium.com/@sunyi233/aws-ag%EC%9D%98-websocket%EC%9D%98-default-4fc71fa06fd8)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
@@ -189,7 +184,6 @@ AWS
 * [AWS 멀티 계정 환경에서 취약한 Security Group 설정 모니터링](http://woowabros.github.io/security/2020/02/07/Security-Group-Monitoring.html)
 * [AWS-Security-Group-Tip](https://linuxer.name/2020/05/aws-security-group-tip/)
 * [Top 10 security best practices for securing backups in AWS | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/)
-* [How to secure API Gateway HTTP endpoints with JWT authorizer | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/how-to-secure-api-gateway-http-endpoints-with-jwt-authorizer/)
 * [AWS 기반 게임 개발자를 위한 안내서 – 1부. DDoS 공격 방어 방법](https://aws.amazon.com/ko/blogs/korea/anti-ddos-for-game/)
 * [인터넷을 통해 유입되는 트래픽을 보호하기 위한 AWS 기반 방화벽 배포방식 설계 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/design-your-firewall-deployment-for-internet-ingress-traffic-flows/)
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
@@ -365,8 +359,6 @@ AWS
 * [AWS and their Billions in IPv4 addresses](https://toonk.io/aws-and-their-billions-in-ipv4-addresses/index.html)
 * [**코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog**](https://blog.opsnow.com/15)
 * [AWS를 이용해 SPA 호스팅하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
-* [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
-* [API Gateway 에 관한 정리 # AWS](https://developer88.tistory.com/340)
 * [다른 AWS Reseller를 이용하면서 OpsNow를 이용하는 방법! – OpsNow Tech Blog](https://blog.opsnow.com/22)
 * [입 개발 AWS S3 503 Slow Down과 AWS S3 Versioning은 관계가 있다. | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/26/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-s3-503-slow-down%ea%b3%bc-aws-s3-versioning%ec%9d%80-%ea%b4%80%ea%b3%84%ea%b0%80-%ec%9e%88%eb%8b%a4/)
 * [AWS-apple-MAC-instance - 리눅서의 기술술 블로그](https://linuxer.name/2020/12/aws-apple-mac-instance/)
@@ -444,6 +436,8 @@ AWS
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 6](https://khw742002.tistory.com/38?category=1006667)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 마무리](https://khw742002.tistory.com/39?category=1006667)
 * [AWS의 여러 저장소들 - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EC%97%AC%EB%9F%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%93%A4-c1ee1589b817)
+* [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD) - Percona Database Performance Blog](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/) Graviton
+* [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -471,6 +465,17 @@ AWS
 * [AWS Amplify Studio 소개](https://aws.amazon.com/ko/about-aws/whats-new/2021/12/aws-amplify-studio/) Figma의 디자인을 React UI 코드로 자동 변환
 * [AWS Amplify 로 리얼타임 앱 만들기. 10분컷! - YouTube](https://www.youtube.com/watch?v=o7FkmtqIYOE)
 * [Setup sign-up and sign-in flows for your Flutter app in minutes with AWS Amplify | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/amplify-flutter-authenticator/)
+
+# API Gateway
+* [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
+* [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
+* [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
+* [API Gateway로 웹소켓 서버 만들기 - 이상선 - Medium](https://medium.com/@sunyi233/api-gateway%EB%A1%9C-%EC%9B%B9%EC%86%8C%EC%BC%93-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-d0a1a8df06ee)
+* [AWS API Gateway의 Authorizer. AWS의 API Gateway를 보면 authorizer를 설정할 수… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/aws-api-gateway%EC%9D%98-authorizer-ef90429d33db)
+* [How to secure API Gateway HTTP endpoints with JWT authorizer | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/how-to-secure-api-gateway-http-endpoints-with-jwt-authorizer/)
+* [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
+* [API Gateway 에 관한 정리 # AWS](https://developer88.tistory.com/340)
+* [Managing multi-tenant APIs using Amazon API Gateway | AWS Compute Blog](https://aws.amazon.com/de/blogs/compute/managing-multi-tenant-apis-using-amazon-api-gateway/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
