@@ -318,6 +318,7 @@ Go
 * [3년 묶은 Node.js 기반 백엔드를 Golang 으로 옮기다](https://blog.youngbin.xyz/2019-09-09-migrating-skhus-backend-from-nodejs-to-golang/)
 * [Upload files by extension - Golang Web Development Bangla - YouTube](https://www.youtube.com/watch?v=jVMOoacrsvs)
 * [How to write safe and secure Go code](https://www.codiga.io/blog/secure-go-code/)
+* [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
