@@ -1033,6 +1033,7 @@ Linux
 * [GCC x86 Performance Hints](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
 * [Static analysis updates in GCC 11 - Red Hat Developer](https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/)
 * [Bounded dynamicism with cross-modifying code - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/12/19/bounded-dynamicism-with-cross-modifying-code/)
+* [Diving into GCC internals — GCC Contributors Guide 0.1 documentation](https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
