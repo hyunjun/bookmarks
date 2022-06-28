@@ -268,6 +268,7 @@ Business
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
+* ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
 * [Amazon과 Apple의 문화 차이. 글로벌 공룡으로 불리우는 두 A사. 리딩 기업으로 혁신의 아이콘… | by KyungHeon Kim | Medium](https://medium.com/@kyungheonkim/amazon%EA%B3%BC-apple%EC%9D%98-%EB%AC%B8%ED%99%94-%EC%B0%A8%EC%9D%B4-b8514e615145) 조직 문화
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
@@ -1360,6 +1361,7 @@ Business
   * [Product-Market Fit 의 4가지 종류 | GeekNews](https://news.hada.io/topic?id=6564)
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
+* [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -1620,6 +1622,8 @@ Business
 * [스타트업 생활 그리고 성장. 대기업 이커머스 회사에서 스타트업 검색 모델러로 이직한지 1년이 넘는… | by Jukyoung LEE | Jun, 2022 | Medium](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
 * ['우버전쟁'을 통해 살펴본 스타트업 '허슬'의 3단계](https://eopla.net/magazines/68)
 * [농구에도 BQ가 있듯이, 스타트업에도 “스타트업 IQ”가 있는 게 아닐까 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254392) 일에 대한 태도
+* [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
+  * [가장 효과적인 창업자들을 연구해서 얻은 교훈들 | GeekNews](https://news.hada.io/topic?id=6792)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
