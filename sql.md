@@ -2,6 +2,7 @@ SQL
 ===
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [Common DB schema change mistakes | Database Lab · Instant clones of PostgreSQL databases · Postgres.ai](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
+* [Keeping track of database schema changes - DEV Community](https://dev.to/hernanreyes/keeping-track-of-database-schema-changes-2g62)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [누구나 바로 이해할 수 있는 데이터베이스 기초지식](https://brunch.co.kr/@04925bf0d77f43e/8)
 * [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
@@ -248,6 +249,8 @@ SQL
 * [Leveraging AWS Aurora for Event Sourcing | by Lomig Mégard | SwissBorg Engineering | Feb, 2022 | Medium](https://medium.com/swissborg-engineering/leveraging-aws-aurora-for-event-sourcing-e8323dce58b6)
 * [**Aurora MySQL vs Aurora PostgreSQL | 우아한형제들 기술블로그**](https://techblog.woowahan.com/6550/)
 * [Amazon Aurora Serverless v2 정식 출시 – 워크로드 요구 사항에 따른 즉각적인 DB 크기 조정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
+* [No, AWS, Aurora Serverless v2 Is Not Serverless - Last Week in AWS Blog](https://www.lastweekinaws.com/blog/no-aws-aurora-serverless-v2-is-not-serverless/)
+  * [AWS Aurora Serverless v2 는 Serverless가 아니다 | GeekNews](https://news.hada.io/topic?id=6796)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -297,6 +300,7 @@ SQL
   * [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
 * [falcon - Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
+* goose [Overview - pressly/goose](https://pressly.github.io/goose/)
 * [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
   * [SQL문의 가독성을 높여주는 웹사이트 소개 feat.instant SQL formatter](https://stricky.tistory.com/154)
 * Jailer [Open Jail - The Jailer Project Web Site](https://wisser.github.io/Jailer/)
@@ -1166,9 +1170,11 @@ SQL
 * [Temporary tables in SQLite](https://antonz.org/temp-tables/)
   * [SQLite의 Temporary Table 활용하기 | GeekNews](https://news.hada.io/topic?id=6581)
 * [Cron-based backup - Litestream](https://litestream.io/alternatives/cron/)
+* [One-liner for running queries against CSV files with SQLite | Simon Willison’s TILs](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
+* [IceFireDB SQLite database - a decentralized SQLite database](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite)
 * [Litestream - Streaming SQLite Replication](https://litestream.io/)
   * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
   * [Litestream - SQLite 스트리밍 복제 도구 | GeekNews](https://news.hada.io/topic?id=6438)
