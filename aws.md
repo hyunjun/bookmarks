@@ -1037,6 +1037,7 @@ AWS
 * [Cloud-Native Microservices Evolves to AWS Serverless Event-driven Architectures | by Mehmet Özkaya | AWS Serverless Microservices with Patterns & Best Practices | Mar, 2022 | Medium](https://medium.com/aws-serverless-microservices-with-patterns-best/cloud-native-microservices-evolves-to-aws-serverless-event-driven-architectures-9a38c473f4f8)
   * [aws-microservices: AWS Serverless Event-driven Microservices with using AWS Lambda, AWS DynamoDB, AWS API Gateway, AWS EventBridge, AWS SQS, AWS CDK stands for Cloud Development Kit for IaC — Infrastructure as Code tool and AWS CloudWatch for monitoring.](https://github.com/awsrun/aws-microservices)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
+* [Building Serverless Applications That Scale The Perfect Amount | Ready, Set, Cloud!](https://www.readysetcloud.io/blog/allen.helton/how-to-design-serverless-apps-that-scale-the-perfect-amount/)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
