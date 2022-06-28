@@ -1531,6 +1531,7 @@ Javascript
 * [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
 * [pzuraq | blog | Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
   * [번역 자바스크립트 프레임워크의 네 시대 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-05-27-Four-Eras-of-JavaScript-Frameworks)
+* [The Cost of Javascript Frameworks - Web Performance Consulting | TimKadlec.com](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 * [자바스크립트 프레임워크 비교 - 코드쓰는사람](https://taegon.kim/archives/10477)
   * Ryan Carniato가 TodoMVC를 프레임워크별로 구현해서 비교한 작년 글을 현재 기준으로 새로 업데이트해서 테스트
   * React, Preact, Solid, Svelte, Vue를 비교해서 프레임워크 자체의 크기와 애플리케이션 코드의 크기 비교
@@ -1770,6 +1771,7 @@ Javascript
 * [Layer Visualizer - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)](https://github.com/romannurik/LayerVisualizer)
 * Leaflet [엑셀로 관리하던 자리 배치도, Leaflet을 통해 웹 시스템으로 탈바꿈하다](https://engineering.linecorp.com/ko/blog/floor-map-management-system-on-web-with-leaflet/)
 * [Lexical](https://lexical.dev/) An extensible text editor library that does things differently
+  * [Lexical Playground](https://playground.lexical.dev/)
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [LinkeDOM: A JSDOM Alternative. JSDOM is awesome, but it’s slow at… | by Andrea Giammarchi | Feb, 2021 | Medium](https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
@@ -2196,6 +2198,7 @@ Javascript
     * Lerna를 Nrwl에서 관리하게 되면서 `useNx`라는 플래그를 통해 Nx와 통합해서 Lerna의 속도를 개선하는 기능이 5.1 버전에 포함 예정
     * 이 기능을 통해 테스크 실행을 Nx에 위임해서 프로젝트마다 다르겠지만 2~10배 정도 빨라졌고 Turbo에 비해서도 5.3배 빠르다고 함
     * 추가로 Nx와 통합해서 사용하면 Nx의 프로젝트 그래프로 이용할 수 있고 NX Cloud를 이용해서 분산 캐싱이나 분산 태스크 실행도 사용 가능
+* [A build system for the JavaScript ecosystem | moon](https://moonrepo.dev/)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -2770,6 +2773,7 @@ Javascript
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
+  * [fresh - The next-gen web framework.](https://fresh.deno.dev/)
   * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
@@ -4171,6 +4175,7 @@ Javascript
     * 인터랙션이 자동으로 실행되게 만들었으니 Cypress나 Playwrigt같은 E2E 테스트 도구를 이용해서 해당 인터렉션의 테스트를 자동화도 가능
   * [Storybook으로 10분 만에 안내 메일 만들고 퇴근하는 법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/10)
   * [스토리북 작성을 통해 얻게 되는 리팩토링 효과 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220609-storybookwise-component-refactoring/)
+  * [UI Component Encyclopedia | GeekNews](https://news.hada.io/topic?id=6772)
   * [storybook-gen](https://github.com/blacktoast/storybook-gen)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
@@ -4591,6 +4596,8 @@ Javascript
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
   * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
+* [Deepkit Framework | Deepkit - High-Performance TypeScript Framework](https://deepkit.io/)
+  * [Deepkit - 고성능 TypeScript 프레임워크 | GeekNews](https://news.hada.io/topic?id=6726)
 * [fake-iamport-server: Fake Iamport Server with Real SDK](https://github.com/samchon/fake-iamport-server)
 * [fake-toss-payments-server: Fake Toss Payments Server with Real SDK Library](https://github.com/samchon/fake-toss-payments-server)
 * [fast-object: Fast object creator, via JSON.parse(), but type safe](https://github.com/samchon/fast-object)
@@ -4652,6 +4659,7 @@ Javascript
 * [typescript-boilerplate: A modern TypeScript project setup, for Node.js and browsers (using esbuild)](https://github.com/metachris/typescript-boilerplate)
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
+* [websites: Daangn on the WWW](https://github.com/daangn/websites)
 * [xstate: State machines and statecharts for the modern web](https://github.com/davidkpiano/xstate)
 
 # Vue.js
