@@ -46,6 +46,7 @@ Programming
   * 온라인에 공개된 로드맵을 기준으로 공부해야 할 부분
   * 코딩테스트에 대한 준비와 기본기를 쌓는 부분
   * 클론코딩과 스터디 모임, 모각코, 콘퍼런스 등에서 이용할 수 있는 사이트와 어떤 부분이 도움 되었는지 설명
+* [a-picture-is-worth-a-1000-words: I am trying to describe complex matters in simple doodles!](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [pr0gr4m/Newbie-Guideline: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서](https://github.com/pr0gr4m/Newbie-Guideline)
 * [비전공자 프론트엔드 개발자의 취업 후기](https://hollow-snail-bd2.notion.site/c140e9031def4fd895dc452116ffa605)
@@ -553,6 +554,8 @@ Programming
 * [😵💫 Why billing systems are a nightmare for engineers](https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers)
 * [**Pizza as a Service 2.0 – Paul Kerrison**](https://www.paulkerrison.co.uk/random/pizza-as-a-service-2-0)
 * [특수문자 모음 - 기계인간 John Grib](https://johngrib.github.io/wiki/special-chars/)
+* [칼럼 | 프로그래밍의 ‘짜릿함’과 ‘위대함’에 대하여 - CIO Korea](https://www.ciokorea.com/news/239959)
+* [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -826,6 +829,7 @@ Programming
 * [API Platform Landscape](https://twitter.com/bibryam/status/1531316906581495811/photo/1)
 * [Paginating Requests in APIs. | Medium](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c)
 * [Comparing SOAP vs REST vs GraphQL vs RPC API | AltexSoft](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
+* [API 디자인, 개발, 테스트를 위한 무료 도구 12선 - ITWorld Korea](https://www.itworld.co.kr/news/239924)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -3766,6 +3770,7 @@ Programming
   * [6월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-2.html)
   * [6월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-4.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
+* [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
 * [news.hada.io](https://news.hada.io/)
 * Outsider's Dev Story
@@ -4383,6 +4388,7 @@ Programming
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
   * [**Mocking은 코드 냄새(Code Smell)입니다**](https://midojeong.github.io/2018/04/19/mocking-is-a-code-smell/)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting)
+* [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
@@ -4612,6 +4618,7 @@ Programming
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
 * [That time we unplugged a data center to test our disaster readiness - Dropbox](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
+* [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
