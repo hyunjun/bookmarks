@@ -672,6 +672,7 @@ Algorithm
 * [How to build up an intuition for recursion](https://medium.com/free-code-camp/how-to-build-up-an-intuition-for-recursion-986032c2f6ad)
 * [Finally! A proven strategy for quickly solving any recursive problem...](https://www.byte-by-byte.com/recursion-sp-closed/)
 * [하노이의 탑 설명 · Present](https://present.do/presentations/617241e2417aaf0eecb24c22)
+* [7 Best Courses to learn Recursion for Programming and Coding Interviews in 2022 | by javinpaul | Javarevisited | May, 2022 | Medium](https://medium.com/javarevisited/7-best-courses-to-learn-recursion-for-programming-and-coding-interviews-1f8b0bcfd44)
 
 # Stack
 * [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
