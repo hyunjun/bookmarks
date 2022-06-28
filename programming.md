@@ -1083,6 +1083,9 @@ Programming
     * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
+  * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
+  * [Cache made consistent: Meta’s cache invalidation solution | 문섭스블로그](https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/)
+    * [Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역) | GeekNews](https://news.hada.io/topic?id=6725)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -1364,6 +1367,7 @@ Programming
 * [Distributed Systems Are a UX Problem - Speaker Deck](https://speakerdeck.com/tylertreat/distributed-systems-are-a-ux-problem)
 * [Testing Distributed Systems | Curated list of resources on testing distributed systems](https://asatarin.github.io/testing-distributed-systems/)
 * [Managing Complex Dependencies with Distributed Architecture at eBay](https://www.infoq.com/news/2022/04/distributed-arch-ebay/)
+* [Distributed System Design Patterns | by Nishant | May, 2022 | Medium](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1907,6 +1911,9 @@ Programming
 * [Jira Release 발생시 Slack에 Release Notes 발행하기](https://jojoldu.tistory.com/670)
 * `Error converting ADF to storage format` [macOS Monterey 키보드 입력 버그](https://jybaek.tistory.com/954)
 * [Spoqa 기술 블로그 | 스포카에서 Jira를 활용하여 프로젝트를 수행하는 방법](https://spoqa.github.io/2022/06/15/how-to-use-jira-in-spoqa.html)
+* [I fucking hate Jira](https://ifuckinghatejira.com/)
+  * [난 Jira가 정말 싫어요 | GeekNews](https://news.hada.io/topic?id=6834)
+* [Shortcut | Plan, build, ship. All in one tool.](https://shortcut.com/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -2049,6 +2056,7 @@ Programming
 * [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [CNCF Publishes State of Cloud Native Development Report](https://www.infoq.com/news/2022/01/cncf-state-of-cloud-native/)
 * [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
+* [Netflix Drive: Building a Cloud-Native Filesystem for Media Assets](https://www.infoq.com/articles/netflix-drive-cloud-native-filesystem/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
@@ -2822,6 +2830,7 @@ Programming
 * [멘토특강 해킹과 보안 BY 박수현 - YouTube](https://www.youtube.com/watch?v=Paa5KU8Cl08)
 * [Google Online Security Blog: Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
+* [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
@@ -4012,6 +4021,7 @@ Programming
   * "Data Loss by Design"이라는 개념을 소개
   * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
+* [NoSQL, NoMQ: Palo Alto Networks’ New Event Streaming Paradigm – The New Stack](https://thenewstack.io/nosql-nomq-palo-alto-networks-new-event-streaming-paradigm/)
 * [**Spark, Flink, Kafka Streaming**](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/) 자세한 비교. 매우 좋음
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
@@ -4329,6 +4339,7 @@ Programming
   * 인프라 마이그레이션이 실패하는 이유, 대부분의 이유가 부족한 인력 때문이 아니라는 점 지적
   * 단순히 "모놀리스의 해체" 혹은 "마이크로 서비스로의 이전"등의 단어들에 집착할 것이 아니라
     * 회사 내의 엔지니어들이 어떤부분에 문제의식을 느끼고 있고 어떤 부분이 필수불가결하게 개선되어야 하는지를 먼저 인식하는게 중요한지 알려주는 글
+* [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
