@@ -1983,6 +1983,7 @@ Programming Books
 * [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
   * 한라 325.211-시194ㄹ, 탐라 문325.24-시213ㄹ
   * ★★★☆☆ 2022.06.17~18
+  * [나쁜 회사를 구별하는 매우 효과적인 방법 – 체인지그라운드](http://thechangeground.com/archives/85506)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
