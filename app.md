@@ -2151,5 +2151,6 @@ App
   * 회사에서 보안을 위해서 VPN을 구현하는 일은 흔하고 구현하는 방법은 다양한 접근이 존재
   * 쉽게 사용할 수 있는 OpenVPN을 AWS EC2에 설치해서 사설망(AWS 내부망)에 접근하는 환경 설정을 설명
 * Tailscale 개인 무료
+  * [headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
   * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
