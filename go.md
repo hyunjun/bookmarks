@@ -368,6 +368,7 @@ Go
     * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
     * [golang - 인 메모리 DB를 사용하여 RDB를 사용 하는 코드를 단위 테스트(Golang + Gorm를 예로) - jacking75](https://jacking75.github.io/go_unittest_gorm/)
     * [Gorm level UP: how to upgrade and start to use Gorm v2 | by Michael Ushakov | Feb, 2022 | Medium](https://m-ushakov.medium.com/gorm-level-up-how-to-upgrade-and-start-to-use-gorm-v2-d68920e64e55)
+    * [How to use GORM to interact with SQL databases in Golang](https://morioh.com/p/a56fc270c064)
   * [orm: A lightweight yet powerful ORM (Object-relation mapper) for Go projects](https://github.com/golobby/orm)
   * [ql · GitLab](https://gitlab.com/cznic/ql)
 * defer
