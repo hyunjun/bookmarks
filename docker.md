@@ -50,6 +50,15 @@ Docker
 * [Infra 도커(docker)(7) 도커 볼륨(docker volume)을 이용한 데이터 관리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker07/)
 * [documents.docker.co.kr: Docker 한국어 문서 / 영상 모음집](https://github.com/remotty/documents.docker.co.kr)
 * [무료 DevOps 강의 Docker - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RFFeGYI3JksmZd1MPHR2HwG)
+* [Docker 시작하기. 리눅스의 컨테이너 기술은 굉장히 오래전부터 있던 기술입니다.  그런데… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-f930c5484f71)
+* [Docker 기본(1/8) Hello Docker!. Docker란 리눅스의 응용프로그램들을 소프트웨어 Container… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-1-8-hello-docker-5165abd00a3d)
+* [Docker 기본(2/8) Docker’s Skeleton | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-2-8-dockers-skeleton-649f818b5c3e)
+* [Docker 기본(3/8) Container는 뭘까?. Docker는 Application의 배포와 운영을 쉽게 도와주는… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-3-8-container%EB%8A%94-%EB%AD%98%EA%B9%8C-bf3df8cbaf44)
+* [Docker 기본(4/8) docker build & push | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-4-8-docker-build-push-71d740c1d629)
+* [Docker 기본(5/8) Volume을 활용한 Data 관리 | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-5-8-volume%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-data-%EA%B4%80%EB%A6%AC-9a9ac1db978c)
+* [Docker 기본(6/8) Docker의 Container Ochestartion: Swarm | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-6-8-docker%EC%9D%98-container-ochestartion-swarm-4ddfb3a8cd83)
+* [Docker 기본(7/8) Docker Swarm의 구조와 Service 배포하기 | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-7-8-docker-swarm%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-service-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1d5c05967b0d)
+* [Docker 기본(8/8) Docker의 Network. Docker Swarm은 두 가지 종류의 Traffic을 생성합니다. | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-8-8-docker%EC%9D%98-network-c75f3077335d)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
@@ -119,6 +128,8 @@ Docker
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24) php 예제
 * [Docker 101: Fundamentals and Practice](https://medium.freecodecamp.org/docker-101-fundamentals-and-practice-edb047b71a51t)
 * [How To Run Docker in Docker Container 3 Methods Explained](https://devopscube.com/run-docker-in-docker/)
+* [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
+* [Docker in docker. 지난 한주 동안 애플리케이션을 Kubernetes 배포하는 CI/CD… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-in-docker-fb54252e3188)
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
@@ -559,7 +570,6 @@ Docker
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
 * ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
 * [도커 데스크톱, 대기업 사용자에게는 유료화된다 - CIO Korea](https://www.ciokorea.com/t/537/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/206529)
-* [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
 * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
 * [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
 * [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
@@ -870,6 +880,7 @@ Docker
 * [Infra 쿠버네티스(kubernetes)(2) 쿠버네티스 설치(Kubernetes install) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes02/)
 * [Infra 쿠버네티스(kubernetes)(3) 쿠버네티스로 nginx, flask 연동 후 배포하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes03/)
 * [Infra 쿠버네티스(kubernetes)(4) 컨테이너 IP와 파드 IP의 관계 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes04/)
+* [Kubernetes 활용(1/8) 시작하기. Kubernetes를 처음 접하는 사용자를 위해 Kubernetes… | by 강훈기 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-%ED%99%9C%EC%9A%A9-1-8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-b208a2d28649)
 * [A guide to Kubernetes architecture | Opensource.com](https://opensource.com/article/22/2/kubernetes-architecture)
 * [K8s Architecture. Hurray! Vehement readers, I’m up with… | by Gokula Santhiya | Mar, 2022 | Medium](https://santhiyasandyrc.medium.com/k8s-architecture-e7e317cde1a5)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
@@ -1391,6 +1402,7 @@ Docker
 * [How to Monitor Kubernetes clusters like an Expert ?| DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=J9ijNhGATnE)
 * [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
   * [아직은 쿠버네티스를 사용하지 마라 | GeekNews](https://news.hada.io/topic?id=6802&fbclid=IwAR0TqehQZzLATUNxq6ymsWFf00Gndqc3HL614wZqoYe8XQFlzPwQNYZfQUw)
+* [Kubernetes App Deploy script. 최근 Container 기술이 각광을 받고 있습니다. 그래서 저도… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-app-deploy-script-f6b2ed6f43a5)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
