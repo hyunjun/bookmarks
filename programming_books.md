@@ -901,6 +901,7 @@ Programming Books
   * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
 * (NOT YET) [코딩은 처음이라 with 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633964)
 * (NOT YET) [딥러닝을 이용한 정형 데이터 분석](https://www.onlybook.co.kr/entry/structured-data)
+  * [독서광 책 vs 책:정형 vs 비정형 딥러닝 - YouTube](https://www.youtube.com/watch?v=TlikY0zge-g)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 
 ## Machine Learning
