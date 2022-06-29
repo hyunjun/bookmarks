@@ -985,6 +985,7 @@ Clojure
 * [java.data - Functions for recursively converting Java beans to Clojure and vice versa](https://github.com/clojure/java.data)
 * [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
   * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
+* [jo clojure: Fast Embeddable Clojure in C/C++](https://github.com/Zelex/jo_clojure)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [kalai: A source-to-source transpiler to convert Clojure to multiple target languages (Rust, C++, Java, ...)](https://github.com/echeran/kalai)
 * [lab-ml/nn: 🧠 Minimal implementations of neural network architectures and layers in PyTorch with side-by-side notes](https://github.com/lab-ml/nn)
