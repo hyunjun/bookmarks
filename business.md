@@ -86,8 +86,10 @@ Business
 * [쿠팡이 아직 열지 않은 세 개의 흑자 주머니 박동휘의 컨슈머 리포트 | 한경닷컴](https://www.hankyung.com/finance/article/202204132729i) 오퍼레이팅 레버리지(operating leverage), 수확체증의 법칙, 코호트(cohort)
 * [🚀쿠팡은 정말 돈을 벌 수 있는 기 | 커리어리](https://careerly.co.kr/comments/58640)
 * [쿠팡, 이러다 큰일 난다. 실적 뜯어본 회계사의 경고 f. 이재용 회계사 컴퍼니 백브리핑 - YouTube](https://www.youtube.com/watch?v=1VA9DcCvASg)
+* [쿠팡과 한진의 이별이 의미하는 것](https://brunch.co.kr/@trendlite/253)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
 * [쏘카 패스트파이브 재무제표 뜯어보기 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=H_Ia5oHT7nc)
+* [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
