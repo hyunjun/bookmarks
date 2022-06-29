@@ -243,6 +243,8 @@ Book
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
+* (NOT YET) [짱깨주의의 탄생](https://www.hani.co.kr/arti/international/international_general/1048436.html)
+* (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -344,6 +346,8 @@ Book
   * 한라 673.5309-남36ㅍ 1권, 우당
 * (NOT YET) [어쩌다 클래식 | 지이 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165219253)
 * (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
+* (NOT YET) [명화로 보는 단테의 신곡 - 신곡을 좀 더 쉽.. : 네이버블로그](https://blog.naver.com/sanmandi/221567404550)
+* (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -530,7 +534,12 @@ Book
 * (NOT YET) [욕망 너머의 한국 고대사 : 왜곡과 날조로 뒤엉킨 사이비역사학의 욕망을 파헤치다](https://www.naon.go.kr/content/html/2019/02/27/2cbe40e4-8ce8-46a9-a733-3f889e9009e0.html)
 * (NOT YET) [세금의 세계사](https://hanbit.co.kr/biz/books/book_view.html?p_code=B2277305433)
 * (NOT YET) [실크로드 세계사](https://blog.naver.com/tosoha1/221312861797)
+  * [실크로드 세계사 - 고대 제국에서 G2 시대까지 : 네이버 블로그](https://blog.naver.com/taejj5115/221077379918)
 * (NOT YET) [인류본사](https://www.humanistbooks.com/f851f429-8c58-40f6-bac8-ec7928a35fbf)
+* (NOT YET) [처음 읽는 술의 세계사](https://brunch.co.kr/@roadkeeper/64)
+* (NOT YET) [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
+* (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
+* (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
