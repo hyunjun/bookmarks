@@ -1563,6 +1563,7 @@ Java
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
 * [Spring Service Layer에 대한 고찰](https://velog.io/@sumusb/Spring-Service-Layer%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) MVC
 * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
+* [로컬 개발 환경에서 Spring Cloud Connector 사용하기 | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/%EB%A1%9C%EC%BB%AC-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-spring-cloud-connector-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e46e155f0111)
 * [Spring Guide - Exception 전략 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-guide-exception/)
 * [Spring Cloud Gateway Error Handling & Filter - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-cloud-gateway-2/)
 * [스프링 리액터 Reactor 기초 글 목록](https://javacan.tistory.com/entry/spring-reactor-intro-list)
