@@ -557,6 +557,7 @@ Programming
 * [특수문자 모음 - 기계인간 John Grib](https://johngrib.github.io/wiki/special-chars/)
 * [칼럼 | 프로그래밍의 ‘짜릿함’과 ‘위대함’에 대하여 - CIO Korea](https://www.ciokorea.com/news/239959)
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
+* [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -617,6 +618,7 @@ Programming
   * [빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재 | GeekNews](https://news.hada.io/topic?id=6467)
 * [The age of Scrum is over. Scrum has given us a lot, but its time… | by Chris Lennon | Medium](https://chrisjameslennon.medium.com/the-age-of-scrum-is-over-185407ad705b)
 * [스크럼, 입고팀이 애자일하게 일하는 법 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/inbound-squad-sprint-1/)
+* [애자일 Scrum(스크럼) 이해하기. 애자일 실천 방법 | by 민현기(Min, Hyun Gi) | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/scrum-dfc6523a3604)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
@@ -1426,6 +1428,7 @@ Programming
 * [모호함이 사라질 때까지 매개체를 풀어가기](https://brunch.co.kr/@graypool/483)
 * [도메인 모델, Ongoing 설계 그리고 정원관리](https://brunch.co.kr/@graypool/490)
 * [모델, 모델링, 측정 그리고 가치의 객관화](https://brunch.co.kr/@graypool/494)
+* [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -1446,6 +1449,7 @@ Programming
 * [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
 * [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
+* [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
@@ -1496,6 +1500,7 @@ Programming
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
 * [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
+* [istio. 최근 MSA(Micro Service Architecture) 관련… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/istio-45952521fc0e)
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
@@ -1509,6 +1514,7 @@ Programming
 * [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
 * [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
 * [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
+* [Service Mesh 란?. 수년간 Enterprise IT환경은 급격하게 변하고 있습니다. 특히… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/service-mesh-%EB%9E%80-8dfafb56fc07)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
