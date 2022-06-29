@@ -4352,6 +4352,7 @@ Programming
   * 단순히 "모놀리스의 해체" 혹은 "마이크로 서비스로의 이전"등의 단어들에 집착할 것이 아니라
     * 회사 내의 엔지니어들이 어떤부분에 문제의식을 느끼고 있고 어떤 부분이 필수불가결하게 개선되어야 하는지를 먼저 인식하는게 중요한지 알려주는 글
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
+* [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
