@@ -217,6 +217,7 @@ Programming Books
   * 우당
 * (NOT YET) [NFT 실체와 가치 | 위키북스](https://wikibook.co.kr/nft/)
   * 탐라 문327.2-장53ㅇ
+* (NOT YET) [이토록 쉬운 NFT 개발 스타터팩](https://www.rubypaper.co.kr/entry/%EC%9D%B4%ED%86%A0%EB%A1%9D-%EC%89%AC%EC%9A%B4-NFT-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%84%B0%ED%8C%A9%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 * (NOT YET) [프로그래머의 길, 멘토에게 묻다 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/116)
   * 한라 005.104-후44ㅍ
 * (NOT YET) [인간, 조직, 권력 그리고 어느 SW 엔지니어의 변 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/38)
@@ -441,6 +442,8 @@ Programming Books
   * [ai-as-a-service: 『쉽게 배우는 AWS AI 서비스』(2022, 한빛미디어)의 예시 코드 저장소입니다](https://github.com/hanbit/ai-as-a-service)
 * (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
   * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
+* (NOT YET) [AWS 컨테이너 설계와 구축 철저 입문 | 위키북스](https://wikibook.co.kr/awsc/)
+* (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
 
 # Android
 
@@ -786,6 +789,7 @@ Programming Books
 * (NOT YET) [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
 * (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
 * (NOT YET) [Do it! 쉽게 배우는 파이썬 데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293059248)
+* (NOT YET) [노코딩AI 코딩 없이 AI 만들기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296456424)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -897,6 +901,7 @@ Programming Books
   * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
 * (NOT YET) [코딩은 처음이라 with 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633964)
 * (NOT YET) [딥러닝을 이용한 정형 데이터 분석](https://www.onlybook.co.kr/entry/structured-data)
+* (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1461,6 +1466,7 @@ Programming Books
 * (NOT YET) [서비스 개발의 시작 – 클라우드플랫폼팀 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/28/cloud-platform/)
 * (NOT YET) 클라우드 전환 그 실제 이야기 : 지속 가능한 클라우드
   * 탐라 문004.588-공66ㅋ
+* (NOT YET) [서비스 메시 마스터 | 에이콘출판사](http://acornpub.co.kr/book/mastering-service-mesh)
 
 # Interview
 
@@ -1589,6 +1595,7 @@ Programming Books
   * [취준생을 위한 웹프론트앤드 - 도서 추천 (feat. 스벨트로 시작하는 웹 프런트엔드) - YouTube](https://www.youtube.com/watch?v=5STDzb_6kHw)
   * [‘스벨트로 시작하는 웹 프런트엔드’ 출판 후기. 내가 Svelte를 알게된 것은 2020년 어느 때인가로 기억한다. 이… | by freeseamew | hollo coding story | Feb, 2022 | Medium](https://medium.com/freeseamew/%EC%8A%A4%EB%B2%A8%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%9C%ED%8C%90-%ED%9B%84%EA%B8%B0-c1ac66f9b309)
 * (NOT YET) [함수형 자바스크립트: 모던 웹 개발에 충실한 실전 함수형 프로그래밍 안내서 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/03/08/Functional-Programming-in-JavaScript.html)
+* (NOT YET) [멀티스레드 기반 자바스크립트](https://www.rubypaper.co.kr/entry/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 ## Angular
 
