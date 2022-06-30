@@ -1141,6 +1141,8 @@ Linux
 * [exodus: Painless relocation of Linux binaries–and all of their dependencies–without containers](https://github.com/intoli/exodus)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail)
+* [FreeIPA](https://www.freeipa.org/)
+  * [FreeIPA 를 활용한 IdM 구축](https://saramin.github.io/2022-06-30-idm/)
 * [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
