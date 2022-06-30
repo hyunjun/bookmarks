@@ -345,10 +345,12 @@ Scala
 * [BoundedContext - YouTube](https://www.youtube.com/watch?v=sHG-LgKr7dA) DDD
 * [Diamond Architecture - How to build HUMONGOUS apps FAST! - YouTube](https://www.youtube.com/watch?v=B6bmlh1hCLo)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 2 - YouTube](https://www.youtube.com/watch?v=IY7WglVTBFo)
+* [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3 - YouTube](https://www.youtube.com/watch?v=gmwNDYWRprE)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
 * [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
 * [Concurrent Sudoku Solver: Part 3 - Using Cats Effect Queue | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-3-using-cats-effect-queue-459e2da28b6)
+* [Concurrent Sudoku Solver: Part 4 - Using FS2 Stream + Topic | by Farooq Qaiser | Jun, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-4-using-fs2-stream-topic-949c8b099abb)
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 
 # Actor
@@ -1421,6 +1423,8 @@ Scala
 * [etcd4s - Scala etcd client implementing V3 APIs](https://github.com/mingchuno/etcd4s)
   * [Scala etcd client with etcd4s and cats-effects](https://medium.com/rahasak/scala-etcd-client-with-etcd4s-and-cats-effects-f393ae94404e)
   * [Etcd watch API integration with scala and cats-effect](https://medium.com/rahasak/etcd-watch-api-integration-with-scala-and-cats-effect-78123dc9d71d)
+* [fields: Lightweight and extendable validation library for Scala](https://github.com/jap-company/fields)
+  * [Fields — Scala Validation Library | by Oleh Dubynskiy | Jun, 2022 | Medium](https://medium.com/@oleh.dubynskiy/fields-scala-validation-library-86ac818cd704)
 * [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
@@ -2520,3 +2524,4 @@ Scala
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
+* [Zymposium - Derivable Differs - YouTube](https://www.youtube.com/watch?v=4GWnMvbfgyE)
