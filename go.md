@@ -320,6 +320,7 @@ Go
 * [How to write safe and secure Go code](https://www.codiga.io/blog/secure-go-code/)
 * [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
 * [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
+* [Vidya | Scala or Go: Who Wore It Better?](https://www.vidyasource.com/blog/scala-go)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
