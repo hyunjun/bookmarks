@@ -1220,6 +1220,7 @@ AWS
 * [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
 * [How to Write a Secure Python Serverless App on AWS Lambda | Okta Developer](https://developer.okta.com/blog/2021/07/26/python-serverless)
 * [Install Python Library in Lambda | AWS Lambda Layer - YouTube](https://www.youtube.com/watch?v=HBt8MXHcaPI)
+* [Python Lambda 함수 기초 틀 - 이상선 - Medium](https://medium.com/@sunyi233/python-lambda-%ED%95%A8%EC%88%98-%EA%B8%B0%EC%B4%88-%ED%8B%80-ea08d27d17b1)
 
 ## Lambda Rust
 * [Rust On AWS (Really FAST Lambdas) - YouTube](https://www.youtube.com/watch?v=EqV5wKD233c)
@@ -1627,6 +1628,8 @@ AWS
   * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
+* [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
+  * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
