@@ -371,6 +371,8 @@
 * [코드스피츠 1강 정리](https://devroach.tistory.com/126)
 * [코드스피츠 코틀린 2강 정리](https://devroach.tistory.com/127)
 * [코드스피츠 코틀린 3강 정리](https://devroach.tistory.com/129)
+* [코드스피츠 90-코틀린 언어 4회차](https://velog.io/@inust33/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%94%BC%EC%B8%A0-90-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%96%B8%EC%96%B4-4%ED%9A%8C%EC%B0%A8)
+* [코틀린과 변성](https://velog.io/@inust33/%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%BC-%EB%B3%80%EC%84%B1)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
   * [리액티브 코프링 R2DBC 사용법 (데이터 조회)](https://anomie7.tistory.com/93)
