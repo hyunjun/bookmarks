@@ -438,6 +438,7 @@ AWS
 * [AWS의 여러 저장소들 - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EC%97%AC%EB%9F%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%93%A4-c1ee1589b817)
 * [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD) - Percona Database Performance Blog](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/) Graviton
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
+* [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
