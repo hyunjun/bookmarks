@@ -123,6 +123,7 @@ Functional Programming
 * [FP is the new OOP - YouTube](https://www.youtube.com/watch?v=Z84Z1Fi-Hxs)
 * [‘액션-계산-데이터’ 관점으로 보는 함수형 프로그래밍 패러다임 | 요즘IT](https://yozm.wishket.com/magazine/detail/1485/)
 * [함수형 프로그래밍 언어 3대장. (1) 세상 가장 우아한 코드를 만드는 Clojure, (2) 실무에… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-3%EB%8C%80%EC%9E%A5-d97729e97d4c)
+* [Persistent data structures in functional programming](https://softwaremill.com/persistent-data-structures-in-functional-programming/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
