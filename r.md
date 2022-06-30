@@ -323,6 +323,7 @@ R
 * [Analysing the correlation between arm and leg length in professional fighters | by Thomas Richardson | Towards Data Science](https://towardsdatascience.com/the-correlation-between-arm-and-leg-length-in-mma-fighters-a-tutorial-on-data-analysis-in-r-3936efe12cb4)
 * [R과 Python로 하는 문서자동화 | Issac Lee](https://www.theissaclee.com/ko/courses/rdocs101/)
 * [Reverse-engineering the problematic tail behavior of the Fivethirtyeight presidential election forecast « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/2020/10/24/reverse-engineering-the-problematic-tail-behavior-of-the-fivethirtyeight-presidential-election-forecast/)
+* [한국R 컨퍼런스 이은조, 게임 데이터로 인과 추론 분석하기](https://ugong2san.tistory.com/4421) causal inference
 * [Become a Superlearner! An Illustrated Guide to Superlearning | KHstats](https://www.khstats.com/blog/sl/superlearning/)
 * [shinyMobile 설명](https://tidyverse-korea.github.io/seoul-R/data/2.%20shinyMobile%20%EC%86%8C%EA%B0%9C%20(%EC%A7%80%EB%82%A8%ED%98%84).pdf)
 * [R) 전처리 - 객체 및 변수 명명하기 - Data Doctor](https://datadoctorblog.com/2021/01/22/R-Preprocessing-naming-object-variables/)
