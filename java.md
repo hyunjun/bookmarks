@@ -148,6 +148,7 @@ Java
 * [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
 * [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
 * [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
+* [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8357/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
