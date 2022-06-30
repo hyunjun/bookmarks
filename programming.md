@@ -4361,6 +4361,8 @@ Programming
     * Quanta Magazine
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
+* [Shape Up: Stop Running in Circles and Ship Work that Matters | Basecamp](https://basecamp.com/shapeup)
+  * [Shape Up : 한국어 요약. by 서형일, 와이즐리 웹 프로덕트 팀 리더 | by 느린 저울 | Medium](https://medium.com/@slow_scale/shape-up-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9A%94%EC%95%BD-e6436f6eba8a)
 
 # TDD, Test
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
