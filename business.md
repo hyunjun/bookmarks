@@ -839,6 +839,7 @@ Business
 * [국민은행의 앱 통합은 성공할 수 있을까?](https://brunch.co.kr/@graypool/50) 기술 < 조직 내 통합 & 비전
 * [사람을 잃는 말투 vs 사람을 얻는 말투 :: ㅇㅎ!](https://www.aha-contents.com/183)
 * [우리가 잘못 배운 미스 커뮤니케이션 3가지 (feat. 관계마스터) – 체인지그라운드](http://thechangeground.com/archives/84662)
+* [Celeste Headlee: 10 ways to have a better conversation | TED - YouTube](https://www.youtube.com/watch?v=R1vskiVDwl4)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
