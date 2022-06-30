@@ -1199,6 +1199,7 @@ Business
 * [뚱한 부하직원 일 시키려면? - HSG 휴먼솔.. : 네이버블로그](https://blog.naver.com/hs_group/221353792320)
 * [The Power of Small Wins](https://hbr.org/2011/05/the-power-of-small-wins) motivation
 * [리더의 역할 - 팀 동기부여를 잘 시킬수 있는 방법 13가지](https://smartincome.tistory.com/267) motivation
+* [직원의 업무효율을 높이는 CEO의 질문법 | 티피아이 인사이트](https://www.tpiinsight.co.kr/insight/2020/05/21/%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%85%eb%ac%b4%ed%9a%a8%ec%9c%a8%ec%9d%84-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%98%91%eb%98%91%ed%95%9c-ceo-%ec%a7%88%eb%ac%b8/) motivation
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
