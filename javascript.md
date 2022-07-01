@@ -2375,6 +2375,8 @@ Javascript
   * [JavaScript 번들러로 본 조선시대 붕당의 이해 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
   * [Top 5 Courses to Learn NPM and WebPack in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-npm-and-webpack.html)
   * [Webpack Module Federation 도입 전에 알아야 할 것들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
+    * 다른 웹에서 원격으로 모듈을 임포트해서 사용할 수 있는 Webpack Module Federation 동작 방식 설명
+    * 원격 모듈은 다른 도메인에서 가져올 수 있고 별도로 빌드 가능하나 모듈의 타입을 알기가 어렵고 `remoteEntry.js`의 경로 관리 불편
   * [webpack.kr](https://webpack.kr/)
 
 ## Library Internationalization i18n 국제화
@@ -3440,6 +3442,15 @@ Javascript
 * [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
 * [C언어와 React로 Server Side Rendering 만들기](https://velog.io/@tbvjaos510/C%EC%96%B8%EC%96%B4%EC%99%80-React%EB%A1%9C-SSR%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90)
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
+* [Non-blocking <canvas /> Rendering in Concurrent React | by Piotr Oleś | Jun, 2022 | Level Up Coding](https://levelup.gitconnected.com/non-blocking-canvas-rendering-with-concurrent-react-f46032b03efa)
+  * React 18에 concurrent 기능이 들어깄지만 컴포넌트 렌더링만 지원하고 컴포넌트 이팩트는 여전히 메인 스레드를 블로킹
+  * 브라우저가 오래 걸리는 작업을 실행 중일 때 페이지를 느리게 만드는데 여기서 오래 걸리는 작업은 50ms 이상 걸리는 작업을 의미
+  * 메인 스레드를 블로킹하지 않는 방법은 병렬성(parallelism)과 동시성(concurrency)
+  * WebWorker는 제약 사항도 많으므로 WebWorker가 적합하지 않으면 동시성과 스케줄링을 사용해야 함
+  * 제너레이터 함수를 사용해서 10ms마다 작업을 멈추고 다른 작업을 하게 하면
+    * 브라우저는 6ms의 여유를(60FPS를 위한 16ms) 가지게 하는 게 일반적이고 어떤 작업을 해야 할지를 위해 스케쥴링 필요
+  * React팀이 만든 scheduler가 있지만 이를 렌더링이 아닌 이팩트에도 쓰기 위해 use-transition-effect 작성
+  * 해당 패키지를 꼭 쓰지 않더라도 각 단계에서 비교할 수 있는 예제까지 제공하고 있어서 성능 비교 용이
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
