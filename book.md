@@ -236,15 +236,17 @@ Book
 * (NOT YET) 한국인들의 이상한 행복 [“한국인들의 미소 속에는 균열과 얼룩이 있다” - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47523)
   * 탐라
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
-  * 우당
+  * 한라 321.97-달298ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
 * (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
+  * 우당
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
+  * 한라 004.73-메85ㅇ
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
-* (NOT YET) [짱깨주의의 탄생](https://www.hani.co.kr/arti/international/international_general/1048436.html)
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
+  * 한라 918.63-산27ㅁ 탐라 문918.63-산228ㅁ 우당 문918.63-산228ㅁ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -529,7 +531,9 @@ Book
 * (NOT YET) [다산의 마지막 질문 | 조윤제 | 청림출판 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788935213733)
 * (NOT YET) [조선 선비 설악에 들다 | 권혁진 | 문자향 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788990535498)
 * (NOT YET) 세계질서와 문명등급 [문명을 서열화한 서구 중심의 ‘세계질서’ 비판 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1040878.html)
-* (NOT YET) [짱개주의의 탄생](https://www.nocutnews.co.kr/news/5769499)
+  * 우당
+* (NOT YET) [짱깨주의의 탄생](https://www.hani.co.kr/arti/international/international_general/1048436.html)
+  * 우당
   * [문 전 대통령이 이 책을 추천한 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47644)
 * (NOT YET) [욕망 너머의 한국 고대사 : 왜곡과 날조로 뒤엉킨 사이비역사학의 욕망을 파헤치다](https://www.naon.go.kr/content/html/2019/02/27/2cbe40e4-8ce8-46a9-a733-3f889e9009e0.html)
 * (NOT YET) [세금의 세계사](https://hanbit.co.kr/biz/books/book_view.html?p_code=B2277305433)
@@ -538,6 +542,7 @@ Book
 * (NOT YET) [인류본사](https://www.humanistbooks.com/f851f429-8c58-40f6-bac8-ec7928a35fbf)
 * (NOT YET) [처음 읽는 술의 세계사](https://brunch.co.kr/@roadkeeper/64)
 * (NOT YET) [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
+  * 우당
 * (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
 

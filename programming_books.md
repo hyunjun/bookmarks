@@ -175,16 +175,21 @@ Programming Books
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 * (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
+  * 탐라
   * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
+  * 탐라
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
+  * 탐라
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
   * [손에 잡히는 10분 정규 표현식 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/86)
 * (NOT YET) [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
+  * 우당 문325.581-차94ㄷ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
+  * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
 * (NOT YET) [일상 속 사물이 알려주는 웹 API 디자인](https://yongho1037.tistory.com/818) API 설계
@@ -197,6 +202,7 @@ Programming Books
   * 탐라 문005.76아829ㅅ
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
+  * 한라 005.104-김54ㄴ
 * (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
 * (NOT YET) [『컴퓨터과학이 여는 세계』 세상을 바꾼 컴퓨터, 소프트웨어의 원천 아이디어 그리고 미래 – 도서출판 인사이트](https://blog.insightbook.co.kr/2015/05/21/%E3%80%8E%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EC%9D%B4-%EC%97%AC%EB%8A%94-%EC%84%B8%EA%B3%84%E3%80%8F-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%86%8C-2/)
   * 한라, 탐라, 우당
@@ -229,6 +235,7 @@ Programming Books
   * 우당
   * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
+  * 탐라
 
 # Agile Scrum
 
@@ -444,7 +451,9 @@ Programming Books
 * (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
   * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
 * (NOT YET) [AWS 컨테이너 설계와 구축 철저 입문 | 위키북스](https://wikibook.co.kr/awsc/)
+  * 탐라
 * (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
+  * 한라 005.118-이25ㅅ 탐라 문005.118-이225ㅅ 우당 문005.118-이225ㅅ
 
 # Android
 
@@ -557,6 +566,7 @@ Programming Books
   * 한라 005.13리57ㅆ
 * (NOT YET) [모던 C 언어 프로그래밍 IDE, 디자인 패턴, XP, TDD, 리팩터링, 지속적인 통합](https://wikibook.co.kr/modern-c-programming/)
 * (NOT YET) [컴파일러 개발자가 들려주는 C 이야기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/07/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%93%A4%EB%A0%A4%EC%A3%BC%EB%8A%94-c-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
+  * 탐라 문005.133-판223ㅋ
 
 # C++
 
@@ -902,6 +912,7 @@ Programming Books
   * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
 * (NOT YET) [코딩은 처음이라 with 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633964)
 * (NOT YET) [딥러닝을 이용한 정형 데이터 분석](https://www.onlybook.co.kr/entry/structured-data)
+  * 한라
   * [독서광 책 vs 책:정형 vs 비정형 딥러닝 - YouTube](https://www.youtube.com/watch?v=TlikY0zge-g)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 
@@ -1028,6 +1039,11 @@ Programming Books
   * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
 * (NOT YET) [머신러닝 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B3931996053)
 * (NOT YET) [파이썬 머신러닝 완벽 가이드(개정2판) | 위키북스](https://wikibook.co.kr/pymlrev2/)
+  * 한라
+* (NOT YET) [텐서플로 2로 배우는 금융 머신러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284461051)
+  * 탐라 문004.73-헐69ㅌ
+* (NOT YET) [금융 전략을 위한 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B2331794765)
+  * 탐라 문004.73-탓52ㄱ
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -1067,6 +1083,7 @@ Programming Books
 * (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
 * (NOT YET) [리뷰 GAN 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/03/20/review-book-first-gan/)
 * (NOT YET) [케라스로 구현하는 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B5392144310)
+  * 한라
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -1127,6 +1144,7 @@ Programming Books
   * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
 * (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
 * (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
+  * 한라
   * [책 vs 책: 정형 vs 비정형 딥러닝](https://jhrogue.blogspot.com/2022/06/vs-vs.html)
 
 ## Visualization
@@ -2481,6 +2499,7 @@ Programming Books
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
   * 한라
 * (NOT YET) [동시성 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
+  * 우당
 
 # Scala
 
@@ -2544,6 +2563,7 @@ Programming Books
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 * (NOT YET) [이펙티브 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296893356&start=slayer)
+  * 한라
   * [The Effective Engineer](http://www.effectiveengineer.com/)
   * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
     * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
