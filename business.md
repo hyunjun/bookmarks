@@ -1640,6 +1640,9 @@ Business
 * [농구에도 BQ가 있듯이, 스타트업에도 “스타트업 IQ”가 있는 게 아닐까 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254392) 일에 대한 태도
 * [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/)
   * [가장 효과적인 창업자들을 연구해서 얻은 교훈들 | GeekNews](https://news.hada.io/topic?id=6792)
+* [스타트업은 유치원이 아닙니다.. 😊 (무표정하게 키보드 치고 있으면서) | by Kurt Lee | Jun, 2022 | Medium](https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f)
+  * [스타트업은 유치원이 아닙니다 | GeekNews](https://news.hada.io/topic?id=6878)
+* [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
