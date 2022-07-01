@@ -740,7 +740,7 @@ Apache
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
 * [kcat: Generic command line non-JVM Apache Kafka producer and consumer](https://github.com/edenhill/kcat)
-  * [kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970)
+  * [kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970) kcat으로 이름이 바뀐 kafkacat CLI 도구 사용 방법 설명. kcat은 non-JVM 기반 프로듀서, 컨슈머 기능을 제공하는 도구, kafka의 메타 정보 확인 메시지 전송하고 가져오는 방법
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
 * [KSETL로 Kafka 스트림 ETL 시스템을 빠르게 구성하기 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=9p0J3yZyXeg)
 * [KubeMQ: A Modern Alternative to Kafka - DZone Microservices](https://dzone.com/articles/seamless-migration-from-kafka-to-kubemq)
