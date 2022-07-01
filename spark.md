@@ -614,6 +614,7 @@
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
 * [Apache Spark Setup in Windows|Intellij IDE|CommandLine|Databricks|Zeppelin|All Methods Covered 2021. - YouTube](https://www.youtube.com/watch?v=S5p-2vlUBYo)
+* [IntelliJ로 Spark 개발 환경 구축하기](https://blog.doosikbae.com/175)
 
 # Kubernetes
 * [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
