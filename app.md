@@ -1012,6 +1012,7 @@ App
 * [“의외로 유용하다” 데스크톱 경험을 바꿔줄 맥의 10가지 숨은 기능 - ITWorld Korea](https://www.itworld.co.kr/news/235764)
 * [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 * [4 macOS Screenshot Tricks To Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
+* [Quick Tip: Enable Touch ID for sudo – Six Colors](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/) `/etc/pam.d/sudo` 파일을 수정해서 `sudo` 명령어 사용할 때 비밀번호 대신 맥북 TouchID 사용
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
