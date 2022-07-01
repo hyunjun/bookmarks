@@ -1428,6 +1428,8 @@ Business
 * [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
 * [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
 * [토스 리더가 말하는 유저를 끌어당기는 서비스 개선 | PO SESSION - YouTube](https://www.youtube.com/watch?v=D9x7Tln2DI4)
+* [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
+* [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
 * [How To Transition From Being A Programmer to Project Manager Position | HackerNoon](https://hackernoon.com/how-to-transition-from-being-a-programmer-to-project-manager-position-op2j3ulg)
 
 # Startup
