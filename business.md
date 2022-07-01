@@ -152,6 +152,7 @@ Business
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
 * [CEO 심리학 `아무일 없음` 만드는 개인의 힘 읽어야](https://n.news.naver.com/mnews/hotissue/article/009/0003119869?cid=1064673) 마치 인프라 팀같이 아무 일이 없어야 잘 하는 경우에 대한 이야기
+* [내리막길 걷던 마이크로소프트를 일으킨 하나의 철학 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47786) 고정/성장 마인드셋
 * [한국인 구글러 1호는 왜 야놀자로 옮겼을까? (f.이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061018347779901) 조직문화
 * [‘한국인 구글러 1호’가 구글에서 20년간 날마다 받은 것 (이준영 야놀자 수석부대표) - 티타임즈](https://www.ttimes.co.kr/article/2022061618387757979)
 * [기업문화는 ‘Why’에서 시작한다 스타트업 밑바닥 HR ② | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/startwithnothing2/)
