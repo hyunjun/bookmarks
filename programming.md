@@ -407,6 +407,11 @@ Programming
 * [쉽게 살 수 있을까 ? :: 5. DevRel의 성과는 어떻게 평가할 것인가? (5/6)](https://hl1itj.tistory.com/241)
 * [쉽게 살 수 있을까 ? :: 6. DevRel의 미래는? (6/6)](https://hl1itj.tistory.com/242)
 * [LINE Developer Relations 뉴비의 100일 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-relations-team-newbie/)
+* [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
+  * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
+  * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
+  * Vecel에서 DX의 4가지 기둥이 있는데 교육, 문서, 커뮤니티, 템플릿
+    * 좋은 DX를 제공하기 위해 노출 시간을 늘리고 만들면서 직접 테스트가 되어 배우고 개발자에게 공감하고 엄청 좋은 게 아니라면 선택하지 않아서 중요한 작업에 집중할 수 있게 한다
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
@@ -3016,6 +3021,14 @@ Programming
 * [Comparison bw Docker Vs Kubernetes Vs Ansible | ReviewNPrep](https://reviewnprep.com/blog/devops-tool-comparison-docker-vs-kubernetes-vs-ansible/)
 * [What is DevOps ? Explained DevOps in Detail #DevOPs #Docker #Jenkins #Kubernetes - YouTube](https://www.youtube.com/watch?v=CPJ6YILC8Gs)
 * [Seven steps to making DevOps a reality | Google Cloud Blog](https://cloud.google.com/blog/topics/perspectives/seven-steps-to-making-devops-a-reality)
+* [The human scalability of “DevOps” | by Matt Klein | Medium](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
+  * [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops/)
+    * Envoy를 만든 Matt Klein가 쓴 The human scalability of “DevOps” 번역 글
+    * 글쓴이의 다양한 경험을 통해 조직이 커가면서 DevOps를 업계가 어떻게 받아들이고 어떤 문제가 있는지를 짚어내고 있음
+    * 개발자가 코드를 작성하고 운영할 때 시스템의 퀄리티가 향상
+      * 초기 스타트업에 특히 이런 사람들이 많고 조직이 급 성장하면서 대부분 중앙 인프라팀을 만들어서 다른 제품팀을 지원하는 구조가 됨
+    * 하지만 단일 DevOps 모델은 조직이 커가면서 교육이 부족해지고 중앙 인프라팀이 버거워지는 시점이 오면서 번아웃
+    * 이를 방지하기 위해서는 SRE 모델 도입 주장
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -3318,6 +3331,7 @@ Programming
 # Mobile
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
 * [Code on Mobile : C and Other Programming Languages. - YouTube](https://www.youtube.com/watch?v=7gZdAks-xaw) mobile compiler
+* [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
@@ -3908,6 +3922,7 @@ Programming
   * [기술 뉴스 #198 : 22-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1595)
   * [기술 뉴스 #199 : 22-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1599)
   * [기술 뉴스 #200 : 22-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1601)
+  * [기술 뉴스 #201 : 22-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1606)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
