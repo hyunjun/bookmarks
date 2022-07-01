@@ -1162,6 +1162,11 @@ Business
 * [‘첫 단추 잘 꿰기’ 신임 CIO를 위한 팀 내 신뢰 구축 ABC - CIO Korea](https://www.ciokorea.com/news/227679)
 * [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [토스에서의 시간을 돌아보며 | Evans Library](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
+  * Toss에서 프론트엔드 리더(명확히 얘기하진 않지만, 글의 내용으로 봤을 때)로 일하고 나서의 경험
+  * Toss는 DRI(Directly Responsible Indivisual)라고 각자 최종의사 결정권을 갖는 문화가 있고 이 문화를 통해서 빠르게 일할 수 있는 문화 정착
+  * 뒷부분은 프론트엔드 챕터 이야기
+    * 각자 자기 일을 하는 소규모 챕터에서 규모가 커지면서 주니어 개발자가 합류하게 되고
+    * 이러한 분들이 자신감을 잃지 않도록 도와주는 사람을 배치하고 "싼 똥"을 자랑하는 자리와 강점 찾기 테스트 등 성장에 대한 다양한 시도를 한 과정 소개
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
 * [**What Makes an Effective Executive**](https://hbr.org/2004/06/what-makes-an-effective-executive)
   * [번역 What Makes an Effective Executive](https://www.linkedin.com/posts/jayden-kang_what-makes-an-effective-executive-activity-6898080373327179776-wkm8)
