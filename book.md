@@ -243,6 +243,7 @@ Book
   * 우당
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
+* (NOT YET) [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
