@@ -3239,6 +3239,7 @@ Javascript
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 * [Authentication in SPA (ReactJS and VueJS) the right way](https://medium.com/@jcbaey/authentication-in-spa-reactjs-and-vuejs-the-right-way-e4a9ac5cd9a3)
+* [How to Add authentication to your React app with Nhost - YouTube](https://www.youtube.com/watch?v=q4PJz9PWD94)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
 * [React prod, staging, dev 환경별 환경 설정하기](https://engineering.huiseoul.com/react-prod-staging-dev-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-8eb6bbccddfe)
@@ -3641,6 +3642,7 @@ Javascript
 * [React js Search Filter List | Search Bar in React js | React Search list Easy Tutorial - YouTube](https://www.youtube.com/watch?v=qEefUHvHoW4)
 * [I hate React (...shhh don't tell anyone) - YouTube](https://www.youtube.com/watch?v=2h_KlGDLKc0)
 * [Create Cocktails App With ReactJS & TheCocktailDB | React Hooks | Axios | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=fOHqSJAKo7g)
+* [How I Created A Secure, Self-Hosted Survey In Minutes With React + SurveyJS | by Soumadri Banerjee | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-i-created-a-secure-self-hosted-survey-in-minutes-with-react-surveyjs-9adc15207af2)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
