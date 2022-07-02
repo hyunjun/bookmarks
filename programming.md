@@ -2049,6 +2049,7 @@ Programming
 * [OCI 탐험 일지 8. 로드 밸런서 설정](https://jhrogue.blogspot.com/2022/03/oci-8.html)
 * [OCI 탐험 일지 9. 인스턴스 구성](https://jhrogue.blogspot.com/2022/04/oci-9.html)
 * [전문 지식 없어도 인공지능 모델 구현·배포한다...오라클 'OCI AI 서비스' 한국진출 위해 한국어 학습 중 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=23987)
+* [프라이빗 클라우드 구현 ’13억원이면 OK’…오라클, 전용 리전 진입 가격 1/6로 대폭 인하 – 테크수다](http://www.techsuda.com/archives/17459)
 * [Free Oracle Cloud Kubernetes cluster with Terraform – Arnold Galovics](https://arnoldgalovics.com/oracle-cloud-kubernetes-terraform/)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
