@@ -2116,6 +2116,7 @@ Programming
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
 * [사용중인 클라우드를 바꿔보신 분 ? | GeekNews](https://news.hada.io/topic?id=6341)
 * [AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는? | GeekNews](https://news.hada.io/topic?id=6475)
+* [Scalability Vs. Elasticity - Cloud Computing | ReviewNPrep](https://reviewnprep.com/blog/scalability-vs-elasticity-in-cloud-computing/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3438,6 +3439,7 @@ Programming
   * [월간 개발자스럽다 #77 - 개발자스럽다](https://blog.gaerae.com/2022/03/monthly.html)
   * [월간 개발자스럽다 #78 - 개발자스럽다](https://blog.gaerae.com/2022/04/monthly.html)
   * [월간 개발자스럽다 #79 - 개발자스럽다](https://blog.gaerae.com/2022/05/monthly.html)
+  * [월간 개발자스럽다 #80 - 개발자스럽다](https://blog.gaerae.com/2022/06/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
@@ -3794,6 +3796,7 @@ Programming
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/06/b-6.html)
   * [6월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-2.html)
   * [6월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-4.html)
+  * [7월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/07/b-7.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
