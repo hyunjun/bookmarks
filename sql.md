@@ -365,6 +365,7 @@ SQL
 * [mariadb procedure exception 처리 예제](https://stricky.tistory.com/522)
 * [MariaDB vs MySQL - 호환성/포크된 이유/주요 차이점 비교 | GeekNews](https://news.hada.io/topic?id=232)
 * [mariadb instr 함수 커스트마이징 하기 (오라클 버전 파라미터 적용)](https://stricky.tistory.com/523)
+* [#MariaDB - 데이터베이스(DB) 초기화](https://velog.io/@discphy/MariaDB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4DB-%EC%B4%88%EA%B8%B0%ED%99%94)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * CDC
   * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
