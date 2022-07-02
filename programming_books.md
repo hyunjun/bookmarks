@@ -526,10 +526,10 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
   * 한라
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
-  * 탐라
+  * 탐라 문005.12-인228ㅇ
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
+  * 탐라 문005.133-퍼59ㅍ
   * [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
-  * 탐라
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
   * [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
@@ -554,7 +554,7 @@ Programming Books
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
   * 한라
 * (NOT YET) [소프트웨어 아키텍처 101](https://jybaek.tistory.com/950)
-  * 탐라
+  * 탐라 문005.12-리813ㅅ
   * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
