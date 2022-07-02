@@ -268,7 +268,7 @@ Haskell
 * [Reanimate: a tutorial on making programmatic animations](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
 * [The abstract nature of the Cardano consensus layer](https://iohk.io/en/blog/posts/2020/05/28/the-abstract-nature-of-the-consensus-layer/)
 * [CircleCI and Haskell](https://dev.to/codenoodle/circleci-and-haskell-46g6)
-* [Cleaning up threads in Haskell](https://chrismwendt.github.io/blog/2020/05/31/cleaning-up-threads-in-haskell.html)
+* [Cleaning up threads in Haskell](https://dev.to/chrismwendt/cleaning-up-threads-in-haskell-1ng6)
 * [CodeWorld as a Haskell Playground: Call for Package Requests](https://medium.com/@cdsmithus/codeworld-as-a-haskell-playground-call-for-package-requests-3b9ae3bcd840)
 * [Competitive programming in Haskell: permutations](https://byorgey.wordpress.com/2020/05/30/competitive-programming-in-haskell-permutations/)
 * [Function Domain](https://dev.to/samhh/function-domain-33fb)
