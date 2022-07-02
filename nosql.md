@@ -272,6 +272,7 @@ NoSQL
   * [Firebase로 회원 시스템 만들기 - 이상선 - Medium](https://medium.com/@sunyi233/firebase%EB%A1%9C-%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-4b7ca3e568d9)
   * [React with firebase 9 - Blog app - YouTube](https://www.youtube.com/playlist?list=PLNOLT1mOxGfpVTko9GqsjYduhd9cCJ6zT)
   * [Host React App on Firebase - YouTube](https://www.youtube.com/watch?v=syvLw6Z50qo)
+  * [What is Firebase? | ReactJS with Firebase Tutorial Hindi | Firebase React Tutorial Series - YouTube](https://www.youtube.com/watch?v=qBBWo1R5OC4)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
