@@ -225,6 +225,7 @@ Programming Books
 * (NOT YET) [NFT 실체와 가치 | 위키북스](https://wikibook.co.kr/nft/)
   * 탐라 문327.2-장53ㅇ
 * (NOT YET) [이토록 쉬운 NFT 개발 스타터팩](https://www.rubypaper.co.kr/entry/%EC%9D%B4%ED%86%A0%EB%A1%9D-%EC%89%AC%EC%9A%B4-NFT-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%84%B0%ED%8C%A9%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+* (NOT YET) [NFT 아트 실전 수업](https://blog.naver.com/creatalk/222785283525)
 * (NOT YET) [프로그래머의 길, 멘토에게 묻다 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/116)
   * 한라 005.104-후44ㅍ
 * (NOT YET) [인간, 조직, 권력 그리고 어느 SW 엔지니어의 변 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/38)
@@ -1044,6 +1045,8 @@ Programming Books
   * 탐라 문004.73-헐69ㅌ
 * (NOT YET) [금융 전략을 위한 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B2331794765)
   * 탐라 문004.73-탓52ㄱ
+* (NOT YET) [XGBoost와 사이킷런을 활용한 그레이디언트 부스팅](https://hanbit.co.kr/store/books/look.php?p_code=B5725043400)
+  * 우당 문004.73-웨69ㅇ
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -2055,6 +2058,8 @@ Programming Books
 * (NOT YET) [더북(TheBook): 머신 러닝을 위한 수학 with 파이썬, R](https://thebook.io/007019/)
 * (NOT YET) [제대로 배우는 수학적 최적화: 드디어 제대로된 최적화 책이 나왔다](https://developer-kelvin.tistory.com/32)
 * (NOT YET) [이득우의 게임 수학](https://jhrogue.blogspot.com/2022/03/blog-post.html)
+* (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
+  * 우당 문005.11-강77ㅅ
 
 # Network
 
@@ -2558,6 +2563,7 @@ Programming Books
   * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
   * 탐라 문005.115-파67ㄹ, 우당 문005.115-파67ㄹ
+  * [Refactoring: 『리팩터링, 2판』(한빛미디어, 2020)](https://github.com/wegraLee/Refactoring)
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
