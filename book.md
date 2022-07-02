@@ -646,6 +646,12 @@ Book
   * [Haruki Murakami Old and Nice Classic Records 오래되고 멋진 클래식 레코드](https://github.com/hyunjun/bookmarks/blob/master/books/old_and_nice_classic_records.md)
   * [Haruki Murakami Old and Nice Classic Records 오래되고 멋진 클래식 레코드 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/haruki-murakami-old-and-nice-classic-records-%EC%98%A4%EB%9E%98%EB%90%98%EA%B3%A0-%EB%A9%8B%EC%A7%84-%ED%81%B4%EB%9E%98%EC%8B%9D-%EB%A0%88%EC%BD%94%EB%93%9C-15da804a615b)
   * [Haruki Murakami Old and Nice Classic Records 오래되고 멋진 클래식 레코드](https://jh4hj.tistory.com/entry/Haruki-Murakami-Old-and-Nice-Classic-Records-%EC%98%A4%EB%9E%98%EB%90%98%EA%B3%A0-%EB%A9%8B%EC%A7%84-%ED%81%B4%EB%9E%98%EC%8B%9D-%EB%A0%88%EC%BD%94%EB%93%9C)
+* [장수고양이의 비밀](https://blog.naver.com/peachbirch/221780964466)
+  * 한라 834-무292ㅈ 탐라 문834-무231ㅈ 우당 문834-무231ㅈ
+  * ★★★☆☆ 2022.07.02
+  * [장수 고양이의 비밀](https://github.com/hyunjun/bookmarks/blob/master/books/murakami_asahido.md)
+  * [장수 고양이의 비밀 - Jun - Medium](https://nymets.medium.com/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80-d07ea8ce4506)
+  * [장수 고양이의 비밀](https://jh4hj.tistory.com/entry/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80)
 
 # Note, Memo
 * [Write … One Note at at Time](https://takesmartnotes.com/)
