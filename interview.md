@@ -319,6 +319,7 @@ Interview
 * [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/)
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
   * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
+* [Horizontal vs Vertical Scaling | System Design | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=QUlBh64vdH8)
 * [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
 * [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
