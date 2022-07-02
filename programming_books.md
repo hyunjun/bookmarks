@@ -802,6 +802,7 @@ Programming Books
 * (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
 * (NOT YET) [Do it! 쉽게 배우는 파이썬 데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293059248)
 * (NOT YET) [노코딩AI 코딩 없이 AI 만들기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296456424)
+* (NOT YET) [인공지능은 게임을 어떻게 움직이는가?](http://www.easyspub.co.kr/20_Menu/BookView/523/PUB)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
