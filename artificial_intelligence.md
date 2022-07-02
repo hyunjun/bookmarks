@@ -157,6 +157,7 @@ Artificial Intelligence
 * [Beyond interpretability: developing a language to shape our relationships with AI | by Been Kim | Medium | Medium](https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394)
 * [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
 * [내가 AI 업계를 떠난 이유 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/707/)
+* [Open API를 이용한 고속 논문 분석 | Pega Devlog](https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
