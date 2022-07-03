@@ -168,6 +168,12 @@ Book
   * [How to Win Friends & Influence People 데일 카네기 인간관계론](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_win_friends_and_influence_people.md)
   * [How to Win Friends & Influence People 데일 카네기 인간관계론 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B3%B4%EB%A9%B4-%EB%84%88%EB%AC%B4-%EB%BB%94%ED%95%9C-%EB%A7%88%EC%B9%98-%EA%B6%8C%EC%84%A0%EC%A7%95%EC%95%85%EA%B0%99%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EC%9D%B4-%EC%B1%85%EC%9D%98-%EC%B4%88%ED%8C%90%EC%9D%B4-1936%EB%85%84%EC%97%90-%EB%82%98%EC%98%A4%EA%B8%B0%EB%8F%84-%ED%96%88%EB%8B%A4-1917839fee1f)
   * [How to Win Friends & Influence People 데일 카네기 인간관계론](https://jh4hj.tistory.com/entry/How-to-Win-Friends-Influence-People-%EB%8D%B0%EC%9D%BC-%EC%B9%B4%EB%84%A4%EA%B8%B0-%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84%EB%A1%A0)
+* 한국인들의 이상한 행복 [“한국인들의 미소 속에는 균열과 얼룩이 있다” - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47523)
+  * 탐라 문309.111-숄818ㅎ
+  * ★★☆☆☆ 2022.07.03
+  * [한국인들의 이상한 행복](https://github.com/hyunjun/bookmarks/blob/master/books/korean_weird_happiness.md)
+  * [한국인들의 이상한 행복. 전반적으로 틀린 이야기는 아니라고 생각하지만, 어떻게 보면 전형적인… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%ED%95%9C%EA%B5%AD%EC%9D%B8%EB%93%A4%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%ED%96%89%EB%B3%B5-1577030644b1)
+  * [한국인들의 이상한 행복](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%9D%B8%EB%93%A4%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%ED%96%89%EB%B3%B5)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -232,8 +238,6 @@ Book
     * 전체적인 상황을 이해하고, 우리 장단점을 명확히 인식하고, 협상대상자에 대해 면밀히 살펴 대처하고, 기다려야 할 때는 인내하고, 상대방 약점을 파악해 집요하게 물고 늘어지고, 상대방이 고전할 때 면을 세워주고... 그것이 김현종의 협상전략이다.
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
 * (NOT YET) [뛰지 마라, 지친다](https://hanbit.co.kr/store/books/look.php?p_code=B1102492805)
-  * 탐라
-* (NOT YET) 한국인들의 이상한 행복 [“한국인들의 미소 속에는 균열과 얼룩이 있다” - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47523)
   * 탐라
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
   * 한라 321.97-달298ㅂ 우당 문321.97-달239ㅂ
