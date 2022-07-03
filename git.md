@@ -520,6 +520,7 @@ Git
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [An Efficient Git Branching Strategy Every Developer Should Know | by Anurag Sidana | Better Programming | Medium](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
   * [브랜칭 전략 소개 : Ship / Show / Ask :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/branching-strategy-Ship-Show-Ask)
+  * [브랜치 전략 수립을 위한 전문가의 조언](https://www.linkedin.com/pulse/014-%25EB%25B8%258C%25EB%259E%259C%25EC%25B9%2598-%25EC%25A0%2584%25EB%259E%25B5-%25EC%2588%2598%25EB%25A6%25BD%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-%25EC%25A0%2584%25EB%25AC%25B8%25EA%25B0%2580%25EC%259D%2598-%25EC%25A1%25B0%25EC%2596%25B8-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
