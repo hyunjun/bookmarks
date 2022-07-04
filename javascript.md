@@ -3644,6 +3644,7 @@ Javascript
 * [I hate React (...shhh don't tell anyone) - YouTube](https://www.youtube.com/watch?v=2h_KlGDLKc0)
 * [Create Cocktails App With ReactJS & TheCocktailDB | React Hooks | Axios | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=fOHqSJAKo7g)
 * [How I Created A Secure, Self-Hosted Survey In Minutes With React + SurveyJS | by Soumadri Banerjee | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-i-created-a-secure-self-hosted-survey-in-minutes-with-react-surveyjs-9adc15207af2)
+* [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4336,6 +4337,7 @@ Javascript
 * [redux를 이용한 컴포넌트 렌더링 최적화. 들어가며 | by Yeongsu Han | 원티드 제품 팀블로그 | Apr, 2021 | Medium](https://medium.com/wantedjobs/redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-7d07e4d7b75f)
 * [Simple Ecommerce Web application | ReactJs & Redux-toolkit | by Bytecode Pandit | Jun, 2022 | Medium](https://bytecodepandit.medium.com/simple-ecommerce-web-application-reactjs-redux-toolkit-719c117203cf)
 * [복잡하고 어려운 Redux 적응기 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/29/%EB%B3%B5%EC%9E%A1%ED%95%98%EA%B3%A0-%EC%96%B4%EB%A0%A4%EC%9A%B4-redux-%EC%A0%81%EC%9D%91%EA%B8%B0/)
+* [Redux toolkit - YouTube](https://www.youtube.com/watch?v=9wrHxqI6zuM)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
@@ -4633,6 +4635,7 @@ Javascript
 * [psd: A lightweight Adobe Photoshop .psd/.psb file parser in typescript with zero-dependency for WebBrowser and NodeJS](https://github.com/webtoon/psd)
   * [타입스크립트 기반 포토샵 psd 파서 | GeekNews](https://news.hada.io/topic?id=5671)
   * [@webtoon/psd 라이브러리 개발기](https://d2.naver.com/helloworld/6631477)
+* [pullcode - a typescript http client code generation cli compatible with Swagger 2 and OpenAPI 3](https://github.com/wubin1989/pullcode)
 * [Reason](https://reasonml.github.io)
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
   * [JavaScript vs. TypeScript vs. ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
