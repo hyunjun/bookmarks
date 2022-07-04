@@ -1630,6 +1630,7 @@ AWS
   * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
+* [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 
