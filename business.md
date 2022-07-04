@@ -80,6 +80,7 @@ Business
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [컬리의 흑자는 과연 결정의 문제일까?](https://brunch.co.kr/@fbrudtjr1/50)
+* [쿠팡 '워너비' 컬리, 흑자구조 가능한가? - YouTube](https://www.youtube.com/watch?v=R5vtBkBLziY)
 * [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
 * [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 1부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1437/)
 * [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 2부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1450/)
