@@ -660,6 +660,7 @@ App
   * [5분만에 배우는 당신이 몰랐던 Postman 기능 - YouTube](https://www.youtube.com/watch?v=hZJNwZssuhg)
   * [당신이 몰랐던 Postman 기능 #Shorts - YouTube](https://www.youtube.com/watch?v=eQYDezwh2XE)
   * [API Network | 10,000s of APIs, Collections and Workspaces | Postman](https://www.postman.com/explore)
+  * [Generating Flutter Dart code for api integration in Postman | Flutter Tricks - YouTube](https://www.youtube.com/watch?v=Kgxd1XS5MJI)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
