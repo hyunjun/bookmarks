@@ -174,6 +174,12 @@ Book
   * [한국인들의 이상한 행복](https://github.com/hyunjun/bookmarks/blob/master/books/korean_weird_happiness.md)
   * [한국인들의 이상한 행복. 전반적으로 틀린 이야기는 아니라고 생각하지만, 어떻게 보면 전형적인… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%ED%95%9C%EA%B5%AD%EC%9D%B8%EB%93%A4%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%ED%96%89%EB%B3%B5-1577030644b1)
   * [한국인들의 이상한 행복](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%9D%B8%EB%93%A4%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%ED%96%89%EB%B3%B5)
+* [뛰지 마라, 지친다](https://hanbit.co.kr/store/books/look.php?p_code=B1102492805)
+  * 탐라 문325.211-이79ㄸ
+  * ★★★☆☆ 2022.07.04
+  * [뛰지 마라, 지친다](https://github.com/hyunjun/bookmarks/blob/master/books/dont_run.md)
+  * [뛰지 마라, 지친다. 비록 전문 작가는 아니라서 유려한 문체로 썼다고 볼 수는 없으나 그래서… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EB%9B%B0%EC%A7%80-%EB%A7%88%EB%9D%BC-%EC%A7%80%EC%B9%9C%EB%8B%A4-14deb73bf9b3)
+  * [뛰지 마라, 지친다](https://jh4hj.tistory.com/entry/%EB%9B%B0%EC%A7%80-%EB%A7%88%EB%9D%BC-%EC%A7%80%EC%B9%9C%EB%8B%A4)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -237,8 +243,6 @@ Book
     * 김현종은 한 인터뷰에서 ‘미국과 협상할 때 우리가 무슨 조건을 제시 했는가’하는 질문에 다음과 같이 답했다. “우리가 무슨 조건을 내세우면 그들은 더 많은 반대급부를 요구한다. 그렇기 때문에 그런 조건을 내세우지 않는다.” 그것이 김현종이다.
     * 전체적인 상황을 이해하고, 우리 장단점을 명확히 인식하고, 협상대상자에 대해 면밀히 살펴 대처하고, 기다려야 할 때는 인내하고, 상대방 약점을 파악해 집요하게 물고 늘어지고, 상대방이 고전할 때 면을 세워주고... 그것이 김현종의 협상전략이다.
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
-* (NOT YET) [뛰지 마라, 지친다](https://hanbit.co.kr/store/books/look.php?p_code=B1102492805)
-  * 탐라
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
   * 한라 321.97-달298ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
