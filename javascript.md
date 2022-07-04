@@ -2767,12 +2767,13 @@ Javascript
     * Node.js 스타일의 임포트를 Deno 스타일로 제작성
     * adapter.node.ts를 임포트를 모두 adapter.deno.ts로 변경
     * process, Buffer같은 Node.js 전역 변수를 Deno 코드로 변경
-    * src 디렉터리를 _src 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
+    * src 디렉터리를 `_src` 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
     * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
   * [Node.js Vs. Deno - Dor Moshe's Blog](https://dormoshe.io/trending-news/nodejs-vs-deno-3ngf-51904)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
+  * [노드.js 대체제에 관심 있다면 주목! ‘디노(Deno)’ 런타임 프로젝트 9선 - CIO Korea](https://www.ciokorea.com/news/242569)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
@@ -4334,6 +4335,7 @@ Javascript
 * [Discord Clone using ReactJS and Redux | Part 2 | Redux Tutorial in 2021 |Authentication & Deployment - YouTube](https://www.youtube.com/watch?v=CZR2zJNgLcw)
 * [redux를 이용한 컴포넌트 렌더링 최적화. 들어가며 | by Yeongsu Han | 원티드 제품 팀블로그 | Apr, 2021 | Medium](https://medium.com/wantedjobs/redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-7d07e4d7b75f)
 * [Simple Ecommerce Web application | ReactJs & Redux-toolkit | by Bytecode Pandit | Jun, 2022 | Medium](https://bytecodepandit.medium.com/simple-ecommerce-web-application-reactjs-redux-toolkit-719c117203cf)
+* [복잡하고 어려운 Redux 적응기 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/29/%EB%B3%B5%EC%9E%A1%ED%95%98%EA%B3%A0-%EC%96%B4%EB%A0%A4%EC%9A%B4-redux-%EC%A0%81%EC%9D%91%EA%B8%B0/)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
