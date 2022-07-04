@@ -1803,6 +1803,8 @@ Programming
 * [느슨한 설계시점 결합이란 무슨 말인가?](https://brunch.co.kr/@graypool/359) loose design-time coupling
 * [느슨한 설계시점 결합을 안하면 무엇이 문제인가?](https://brunch.co.kr/@graypool/360)
 * [느슨한 설계시점 결합은 어떻게 구현하나?](https://brunch.co.kr/@graypool/366)
+* [**Netflix API 아키텍처 진화**](https://brunch.co.kr/@graypool/487)
+* [MSA에서 정합성 보장은 어떻게 하나요?](https://brunch.co.kr/@graypool/500)
 * [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
 * [Complex Systems: Microservices and Humans](https://www.infoq.com/presentations/microservices-best-practices/)
 * [Understanding True Microservices. Microservices isn’t about deploying… | by Tyler Eon | InterviewNoodle | Medium](https://medium.com/interviewnoodle/understanding-true-microservices-3c056d7fee37)
@@ -1818,7 +1820,6 @@ Programming
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * [**MSA 환경에서 네트워크 예외를 잘 다루는 방법 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/msa-transaction/)
 * [**마이크로서비스 아키텍처를 구성하는 핵심 요소 8가지 | 무조건 MSA가 정답일까? — 시행착오를 줄이는 방법 | 진태양**](https://dataportal.kr/81)
-* [**Netflix API 아키텍처 진화**](https://brunch.co.kr/@graypool/487)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
