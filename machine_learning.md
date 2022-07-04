@@ -254,6 +254,7 @@ Machine Learning
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
+* [Overcoming overfitting a model in Machine Learning | by Abhishek Shah | Jun, 2022 | Medium](https://medium.com/@jwbtmf/overcoming-overfitting-a-model-in-machine-learning-7dd6324d15bf)
 * [L2 Regularization](https://bcho.tistory.com/1386)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [The Secret behind Train and Test Split in Machine Learning Process - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/the-secret-behind-train-and-test-split)
