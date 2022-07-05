@@ -256,6 +256,8 @@ Book
   * 탐라 그래픽334.222-브231ㅇ
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
   * 한라 918.63-산27ㅁ 탐라 문918.63-산228ㅁ 우당 문918.63-산228ㅁ
+* (NOT YET) [말, 바퀴, 언어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63822545)
+  * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -554,6 +556,8 @@ Book
   * 우당
 * (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
+* (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
+  * 한라 915-쉬34ㅇ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
