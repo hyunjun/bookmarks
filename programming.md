@@ -1247,6 +1247,7 @@ Programming
 * [**End to End Design of food delivery app (Zomato or Swiggy) | by Ravinder Singh Sengar | Aug, 2021 | Medium**](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
   * [음식 배달 앱 아키텍처(Zomato, Swiggy)분석](https://www.joinc.co.kr/w/man/12/architecture/EndToEndDesignOfFoodDeliveryApp)
 * [카카오페이지 운영툴을 점진적으로 개선한 이야기](https://brunch.co.kr/@wapj2000/38)
+* [서버 개발자를 위한 운영툴 개발 – tech.kakao.com](https://tech.kakao.com/2022/07/04/admin-tool-for-server-side-developers/)
 * [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Multi-Tenant Application. Software Architecture | blackthorn.ai | by Alex Gurbych | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/multi-tenant-application-a29153d31c5a)
