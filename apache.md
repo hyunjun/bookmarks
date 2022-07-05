@@ -57,6 +57,7 @@ Apache
   * [Airflow를 대규모로 운영하며 배운 교훈 | GeekNews](https://news.hada.io/topic?id=6608)
 * [Build An Airflow Data Pipeline To Download Podcasts [Beginner Data Engineer Tutorial] - YouTube](https://www.youtube.com/watch?v=s-r2gEr7YW4)
 * [Airflow 2.0 - SLS - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Airflow+2.0)
+* [사장님용 통계 데이터 서빙하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/8240/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
