@@ -1243,6 +1243,7 @@ Business
 * [감성 지능이 높은 리더의 특징 – 체인지그라운드](http://thechangeground.com/archives/34958)
 * [조직은 리더의 수준만큼 성장합니다.. 리더를 평가하는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/evaluateleader20220607)
 * [Empathy is a Technical Skill](https://www.infoq.com/articles/empathy-technical-skill/) leadership 이야기는 아니지만
+* [리더십 키우기 낙천적 성격과 낙관적 성격의 차이](https://pinkpet79.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EB%82%99%EC%B2%9C%EC%A0%81-%EC%84%B1%EA%B2%A9%EA%B3%BC-%EB%82%99%EA%B4%80%EC%A0%81-%EC%84%B1%EA%B2%A9%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
