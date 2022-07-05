@@ -1435,6 +1435,7 @@ Machine Learning
     * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
   * [Intro to JAX: Accelerating Machine Learning research - YouTube](https://www.youtube.com/watch?v=WdTeDXsOSj4)
   * [Engineering Trade-Offs in Automatic Differentiation: from TensorFlow and PyTorch to Jax and Julia - Stochastic Lifestyle](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
+  * [잭스로 구현하는 딥러닝 - 잭스AI 1회 - YouTube](https://www.youtube.com/watch?v=B7kNLGlzWF0)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [mindsdb: In-Database Machine Learning](https://github.com/mindsdb/mindsdb)
