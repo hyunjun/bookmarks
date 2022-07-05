@@ -503,6 +503,7 @@ Vision
     * [yolov5-knowledge-distillation: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/wonbeomjang/yolov5-knowledge-distillation)
   * yolox
     * [202107 CVPR YOLOX Paper review!! - YouTube](https://www.youtube.com/watch?v=N2rLSzEqqI8)
+    * [Deploying Custom YOLOX on the Cloud and Building a Visual Search Engine off the Deployed Model - YouTube](https://www.youtube.com/playlist?list=PL2L83ZcMO-5PZN8Ixp5y4wi6atPwbreVl)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
