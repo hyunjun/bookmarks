@@ -81,6 +81,7 @@ Business
 * [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [컬리의 흑자는 과연 결정의 문제일까?](https://brunch.co.kr/@fbrudtjr1/50)
 * [쿠팡 '워너비' 컬리, 흑자구조 가능한가? - YouTube](https://www.youtube.com/watch?v=R5vtBkBLziY)
+* [주식 폭락에도 컬리가 상장하려는 이유 - YouTube](https://www.youtube.com/watch?v=FxrvaB3OqPU)
 * [쿠팡은 왜 적자를 탈출할 수 없는걸까?](https://brunch.co.kr/@fbrudtjr1/44)
 * [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 1부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1437/)
 * [쿠팡은 왜 적자를 탈출할 수 없는 걸까? – 2부 | 요즘IT](https://yozm.wishket.com/magazine/detail/1450/)
@@ -621,6 +622,8 @@ Business
 * [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
+* [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
+* [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
@@ -842,6 +845,7 @@ Business
 * [사람을 잃는 말투 vs 사람을 얻는 말투 :: ㅇㅎ!](https://www.aha-contents.com/183)
 * [우리가 잘못 배운 미스 커뮤니케이션 3가지 (feat. 관계마스터) – 체인지그라운드](http://thechangeground.com/archives/84662)
 * [Celeste Headlee: 10 ways to have a better conversation | TED - YouTube](https://www.youtube.com/watch?v=R1vskiVDwl4)
+* [당신의 메세지는 어디에 담겨 있습니까?. 살아가면서 가장 중요한 것은 소통을 하는 일입니다. 말 한마디에 많은… | by 김준형 | Jul, 2022 | Medium](https://medium.com/@ghilbut/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A9%94%EC%84%B8%EC%A7%80%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EB%8B%B4%EA%B2%A8-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-5264e329c63e)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
