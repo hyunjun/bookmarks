@@ -2680,6 +2680,7 @@ Javascript
 * [How to increase NodeJS performance (advance topic) Part 1 | by Saurabh Gupta | May, 2022 | Medium](https://medium.com/@saurabhwithhacks/how-to-increase-nodejs-performance-advance-topic-part-1-623bae87c911)
 * [Deploy Node JS on Heroku, Mongo DB, and Vue JS - YouTube](https://www.youtube.com/watch?v=MBQ-Kxy0EIM)
 * [nodechatapp: Node Express Socket.IO 기본 웹 채팅 샘플 프로젝트](https://github.com/eddykang1074/nodechatapp)
+* [웹 서비스를 위한 Node.js 병렬처리 구현 | 요즘IT](https://yozm.wishket.com/magazine/detail/1556/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3646,6 +3647,7 @@ Javascript
 * [Create Cocktails App With ReactJS & TheCocktailDB | React Hooks | Axios | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=fOHqSJAKo7g)
 * [How I Created A Secure, Self-Hosted Survey In Minutes With React + SurveyJS | by Soumadri Banerjee | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-i-created-a-secure-self-hosted-survey-in-minutes-with-react-surveyjs-9adc15207af2)
 * [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
+* [Responsive Video Gallery in React js | Build a Video Gallery With React js | Video Gallery in React - YouTube](https://www.youtube.com/watch?v=B_IYFFbKkfY)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
