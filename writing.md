@@ -111,6 +111,7 @@ Writing
 * [글쓰는 개발자가 되자](http://www.popit.kr/%EA%B8%80%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%9E%90/)
 * [Tech has a Toxic Tone Problem — Let’s Fix It!](https://compassionatecoding.com/blog/2016/8/25/tech-has-a-toxic-tone-problemlets-fix-it/)
   * [기술 업계의 독성 말투 문제, 고칩시다! 독성 말투의 예시, 발생하는 커뮤니케이션 문제와 대안, 번역](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it)
+* [동료를 선배, 선생님으로 부르게 된 사연. 기술 업계의 독성 말투 문제, 고칩시다! 글을 읽어보면 장구한 역사를… | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%EB%8F%99%EB%A3%8C%EB%A5%BC-%EC%84%A0%EB%B0%B0-%EC%84%A0%EC%83%9D%EB%8B%98%EC%9C%BC%EB%A1%9C-%EB%B6%80%EB%A5%B4%EA%B2%8C-%EB%90%9C-%EC%82%AC%EC%97%B0-db7120b8ca2c) writing과는 직접 관련은 없지만
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
   * [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
 * [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
@@ -186,6 +187,7 @@ Writing
     * 글을 쓸 때 글감이나 태도에 대해 다루고 글을 쓰기 전에 좋은 글을 쓰기 위해 줄거리나 요약 등을 적는 방법, 글쓰기를 연습하는 방법 소개
     * `머리에 명확한 메시지가 아직 없다면, 당신은 아직 글 쓸 준비가 되지 않은 것입니다.`
     * `글쓰기 기술을 향상하는 유일한 방법은, 바로 글을 써보는 것입니다. 대부분의 많은 연습이 그렇듯이, 질보다 양을 중시하는 건 보통 좋은 생각입니다.`
+* [아마존에서 배운 5가지 글쓰기와 소통 방식 :: Channy's Blog](https://channy.creation.net/blog/1620)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
