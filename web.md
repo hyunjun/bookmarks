@@ -1515,6 +1515,7 @@ Web
   * [WebSocket 핸드북(64p 영문 PDF) | GeekNews](https://news.hada.io/topic?id=5743)
 * [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
+* [WebSockets vs. Server-Sent Events | Bits and Pieces](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
