@@ -1805,6 +1805,7 @@ Programming
 * [느슨한 설계시점 결합은 어떻게 구현하나?](https://brunch.co.kr/@graypool/366)
 * [**Netflix API 아키텍처 진화**](https://brunch.co.kr/@graypool/487)
 * [MSA에서 정합성 보장은 어떻게 하나요?](https://brunch.co.kr/@graypool/500)
+* [MSA는 서비스 병행 운영을 추구한다](https://brunch.co.kr/@graypool/501)
 * [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
 * [Complex Systems: Microservices and Humans](https://www.infoq.com/presentations/microservices-best-practices/)
 * [Understanding True Microservices. Microservices isn’t about deploying… | by Tyler Eon | InterviewNoodle | Medium](https://medium.com/interviewnoodle/understanding-true-microservices-3c056d7fee37)
