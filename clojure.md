@@ -664,6 +664,8 @@ Clojure
   * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)
   * [Reagent deep dive part 1: Hiccup and ratoms](http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html)
   * [ClojureScript Reagent Reframe](http://slides.com/dongwoo-kim/clojurescript-reagent-reframe#/)
+  * [만들면서 배우는 Reagent. ClojureScript의 React wrapper 라이브러리인… | by Jeongbong Seo | bgpworks | Medium](https://medium.com/bgpworks/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-reagent-39c88fa0b131)
+  * [만들면서 배우는 Reagent Part 1 | Jeongbong Seo](https://code-read-blog.vercel.app/didact-reagent/)
   * [re-frame - A Reagent Framework For Writing SPAs, in Clojurescript](https://github.com/Day8/re-frame)
     * [Re-frame 시작하기 (1)](http://clojure.kr/getting-started-re-frame-1/)
     * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
