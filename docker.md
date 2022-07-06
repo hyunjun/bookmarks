@@ -1653,6 +1653,7 @@ Docker
   * [Minikube installation | Kubernetes Tutorial - DEV Community](https://dev.to/jmbharathram/minikube-installation-kubernetes-tutorial-4d30)
   * [Minikube installation | Kubernetes tutorial - YouTube](https://www.youtube.com/watch?v=GaozUc_1zQc)
   * [Jumpstart Kubernetes Locally with this MiniKube Tutorial](https://adamtheautomator.com/minikube-tutorial/)
+  * [How to install a single node Kubernetes cluster on Ubuntu using Minikube - YouTube](https://www.youtube.com/watch?v=rl_sQ0SOT4M)
 * [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
   * [mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6721)
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
