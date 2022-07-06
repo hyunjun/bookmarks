@@ -841,6 +841,7 @@ Algorithm
 * [Tree data structure: Binary Search Tree | CODER SITE for developers](https://codersite.dev/tree-data-structure-binary-search-tree/)
 * [How to find Kth Smallest Element in a Binary Search Tree? Solved | Java67](https://www.java67.com/2022/01/how-to-find-kth-smallest-element-in.html)
 * [Tree data structure: Binary Search Tree | Javarevisited](https://medium.com/javarevisited/tree-data-structure-binary-search-tree-170a33d9bcd0)
+* [Binary Search Trees using Python. All you need to know about Binary… | by Andreas Soularidis | Jul, 2022 | Medium](https://medium.com/@andreas.soularidis/binary-search-trees-using-python-652e8d25d11b)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
