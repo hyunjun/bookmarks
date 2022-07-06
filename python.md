@@ -1345,6 +1345,8 @@ Python
   * [6 Python f-strings tips and tricks - 30 seconds of code](https://www.30secondsofcode.org/articles/s/6-python-f-strings-tips)
   * [The unreasonable effectiveness of f-strings and re.VERBOSE - death and gravity](https://death.andgravity.com/f-re)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
+  * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
+  * [Python String Formatting - ThePythonGuru.com](https://thepythonguru.com/python-string-formatting/)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
     ```
@@ -1367,7 +1369,6 @@ Python
   * [Converting Between Strings and Lists in Python](https://www.youtube.com/watch?v=vhzxtXwIHYI)
   * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
-  * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)
   * [5 Python String Methods For Better Formatting | by Tate Galbraith | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-python-string-methods-for-better-formatting-a2c3b92a2d33)
   * [22 Pythonic Tricks for Working with Strings | by Richard Quinn | Python In Plain English | Medium](https://medium.com/python-in-plain-english/22-pythonic-tricks-for-working-with-strings-8b893776743c)
