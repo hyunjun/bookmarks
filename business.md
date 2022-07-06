@@ -99,6 +99,7 @@ Business
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
+* [인간관계 부정적인 사람의 5가지 특징](http://moneyman.kr/archives/2269)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
 * [함께 성장하며 함께 일하기 위한 3가지 필수 조건](https://brunch.co.kr/@graypool/449)
 * ~[우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)~
