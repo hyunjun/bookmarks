@@ -196,6 +196,7 @@ Redis
 * [RedisAI | Real-Time ML Model Serving](https://redis.com/modules/redis-ai/)
   * [RedisAI - A Server for Machine and Deep Learning Models](https://oss.redislabs.com/redisai/)
   * [MLOps Multi-Model 서빙을 위한 RedisAI Cluster 구축하기 1편 - What is RedisAI ?](https://velog.io/@jaehyeong/MLOps-RedisAI-Cluster)
+  * [MLOps Multi-Model 서빙을 위한 RedisAI Cluster 구축하기 2편 - How to build RedisAI Cluster?](https://velog.io/@jaehyeong/MLOps-Multi-Model-%EC%84%9C%EB%B9%99%EC%9D%84-%EC%9C%84%ED%95%9C-RedisAI-Cluster-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2%ED%8E%B8-How-to-build-RedisAI-Cluster)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redisgrip: Redis GUI Client](https://github.com/FiaDot/redisgrip)
 * Redis Labs [Community Projects | Redis Labs](https://redislabs.com/community/oss-projects/)
