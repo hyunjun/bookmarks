@@ -241,6 +241,7 @@ Android
 * [안드로이드 앱 버튼 핸들러 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%B2%84%ED%8A%BC-%ED%95%B8%EB%93%A4%EB%9F%AC-1c5a644e1cdc)
 * [중력센서를 사용해 기기의 기울기 각도 확인하기](https://cliearl.github.io/posts/android/find-tilt-angle-with-gravity-sensor/)
 * [안드로이드 12 스플래시(Splash Screen) 화면 적용하기 | 커피한잔의 여유와 코딩](http://sjava.net/2022/06/android-12-splash-screen/)
+* [Junior 개발자의 글로벌 서비스 경험기 1탄 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/07/06/azar-android-junior-developer-view.html)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
