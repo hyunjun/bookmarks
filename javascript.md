@@ -1252,6 +1252,7 @@ Javascript
       * JavaScript에 익숙해지기 시작하면 언어/플랫폼의 복잡성을 이해하는데 명세가 도움이 될 것이라고 설명
     * 명세를 처음부터 끝까지 읽는 사람은 없으므로 필요한 부분을 찾아서 보는 게 좋음
     * 명세에서 많은 약칭과 규칙들이 있어서 처음 볼 때 어려운데 이러한 약칭을 설명하고 예시를 보여줘서 한번 파악해두면 ECMAScript 명세 볼 때 도움
+* [ECMAScript 2022 살펴보기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/07/06/ECMAScript-2022.html)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -2704,6 +2705,7 @@ Javascript
 * [boardgame.io](https://google.github.io/boardgame.io/) React + Redux + socket.io + koa.js
 * [bookshelf.js - Bookshelf is a JavaScript ORM for Node.js](https://github.com/tgriesser/bookshelf)
 * Bree [The best job scheduler for Node.js - Bree](https://jobscheduler.net/#/)
+* [Bun - a fast all-in-one JavaScript runtime](https://bun.sh/)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
 * [Calipers: The Fastest Way to Measure Image Dimensions in Node](https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/)
 * [caniuse-cmd - Just what you've always wanted, it's a caniuse command line tool](https://github.com/sgentle/caniuse-cmd)
@@ -3648,6 +3650,7 @@ Javascript
 * [How I Created A Secure, Self-Hosted Survey In Minutes With React + SurveyJS | by Soumadri Banerjee | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-i-created-a-secure-self-hosted-survey-in-minutes-with-react-surveyjs-9adc15207af2)
 * [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
 * [Responsive Video Gallery in React js | Build a Video Gallery With React js | Video Gallery in React - YouTube](https://www.youtube.com/watch?v=B_IYFFbKkfY)
+* [Build a Blog with React and Markdown files | Bits and Pieces](https://blog.bitsrc.io/build-a-blog-with-react-and-markdown-files-30d969ce62d5)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4560,6 +4563,7 @@ Javascript
 * [ORM typeorm-uml을 이용하여 데이터베이스 다이어그램 그리기](https://blog.naver.com/pjt3591oo/222472579823)
 * [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
 * [TypeORM 마개조했습니다. · 감자도스](https://blog.potados.com/dev/typeorm-extended/)
+* [TypeORM의 built-in migration 이용하기](https://velog.io/@dev_leewoooo/TypeORM%EC%9D%98-built-in-migration-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
