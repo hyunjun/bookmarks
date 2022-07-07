@@ -406,6 +406,7 @@ Go
   * [Assignment to entry in nil map in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=whstXtUBJ0E)
   * [Avoid The Three Mistakes When Using a Map in Go | by Jerry An | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/avoid-the-three-mistakes-when-using-a-map-in-go-699435db226c)
   * [Introduction to Golang Maps With Examples](https://morioh.com/p/d745e4166b46)
+  * [Golang JSON Tutorial | Convert JSON to Map in Go](https://morioh.com/p/28707df19032)
 * module
   * [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
   * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
