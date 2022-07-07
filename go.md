@@ -980,7 +980,6 @@ Go
 * [10 Potent Golang Frontend Frameworks in 2021](https://www.cmarix.com/blog/top-golang-web-frameworks-for-developers-in-2021/)
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Displaying Movies By Genre | Creating a Web App Using Golang & Reactjs - YouTube](https://www.youtube.com/watch?v=QshMixuPOnY)
-* [Build a Rest API with GoLang - YouTube](https://www.youtube.com/watch?v=d_L64KT3SFM)
 * [Zero downtime API in Golang. If we start a new application we should… | by Daniel Sedlak | Medium](https://wutch.medium.com/zero-downtime-api-in-golang-d5b6a52cc0ed)
 * [Creating a simple WebAPI in GoLang](https://www.sourishchakraborty.com/post/creating-a-simple-webapi-in-golang)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
@@ -990,8 +989,6 @@ Go
 * [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
   * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
   * [Introducing Caddy-SSH | Caffeinated Wonders](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
-* [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
-  * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
 * [fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
   * [📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers - DEV Community](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
@@ -1011,7 +1008,6 @@ Go
 * [mux: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux)
   * [CRUD in Golang REST API with Mux & GORM - Comprehensive Guide](https://codewithmukesh.com/blog/implementing-crud-in-golang-rest-api/)
   * [Golang / Go Crash Course 01 | Building a REST API with Mux - YouTube](https://www.youtube.com/watch?v=kd-8mb6HfGA)
-* [notes: A REST API backend application that can be used to manage personal notes in a multi-user environment](https://github.com/Uzama/notes)
 * [password-service](https://github.com/jruben-rg/password-service)
 * [pglet: Pglet - build internal web apps quickly in the language you already know!](https://github.com/pglet/pglet)
   * [Pglet - 백엔드 개발자를 위한 Web UI 프레임워크 | GeekNews](https://news.hada.io/topic?id=5467)
@@ -1020,18 +1016,23 @@ Go
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
 * [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
 
-# Web React
+## Web React
 * React, Go로 만든 WordPress 읽기 서비스 구축 사례
   * [1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
   * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
 * [React + Golang Web Application - YouTube](https://www.youtube.com/playlist?list=PLn5OXHZVoLZQ_mn0c2ueT96bdIMhxXOLb)
 
-# Web Restful
+## Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [REST Servers in Go: Part 1 - standard library - Eli Bendersky's website](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 * [Golang Rest API - Lazy Loading, Search & Sorting using MySQL](https://morioh.com/p/da47d282e0cf)
+* [Build a Rest API with GoLang - YouTube](https://www.youtube.com/watch?v=d_L64KT3SFM)
+* [Golang — Consuming Rest API. Today we will see how we can consume… | by Rajkumar soni | Jul, 2022 | Medium](https://medium.com/@rajasoni1995/golang-consuming-rest-api-87aa12e0d213)
+* [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
+  * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
+* [notes: A REST API backend application that can be used to manage personal notes in a multi-user environment](https://github.com/Uzama/notes)
 
 # Websocket
 * [10M Concurrent Websockets](http://goroutines.com/10m)
