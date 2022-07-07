@@ -1401,7 +1401,7 @@ Docker
 * [Kubernetes in 2 minutes | Razorops](https://razorops.com/blog/kubernetes-in-2-minutes/)
 * [How to Monitor Kubernetes clusters like an Expert ?| DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=J9ijNhGATnE)
 * [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
-  * [아직은 쿠버네티스를 사용하지 마라 | GeekNews](https://news.hada.io/topic?id=6802&fbclid=IwAR0TqehQZzLATUNxq6ymsWFf00Gndqc3HL614wZqoYe8XQFlzPwQNYZfQUw)
+  * [아직은 쿠버네티스를 사용하지 마라 | GeekNews](https://news.hada.io/topic?id=6802)
 * [Kubernetes App Deploy script. 최근 Container 기술이 각광을 받고 있습니다. 그래서 저도… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-app-deploy-script-f6b2ed6f43a5)
 
 ## Kubernetes Library
