@@ -691,6 +691,7 @@ Git
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [Husky 사용할 때 주의! - 코드쓰는사람](https://taegon.kim/archives/10276)
+  * [husky로 git hooking하기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222803877946)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
   * [SwiftLint와 Git Hook을 이용해서 코딩 스타일 관리하기](http://woowabros.github.io/tools/2019/08/05/swiftlint-githooks.html)
   * [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-커밋-메세지에-jira-이슈번호-자동으로-넣어주기-779048784037)
