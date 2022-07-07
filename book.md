@@ -258,6 +258,8 @@ Book
   * 한라 918.63-산27ㅁ 탐라 문918.63-산228ㅁ 우당 문918.63-산228ㅁ
 * (NOT YET) [말, 바퀴, 언어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63822545)
   * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
+* (NOT YET) [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
+  * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
