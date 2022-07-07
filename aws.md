@@ -809,6 +809,7 @@ AWS
 * [Bottlerocket을 프로덕션 클러스터에 사용하기 - 조성원(하이퍼커넥트), TDS로 DevSecOps - 주성식(AWS) :: 제23회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=1nR7MzgAW-0)
 * [Flowchart: How should I run containers on AWS? :: Vlad Ionescu](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
 * [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1484/introduction-to-containers-korean)
+* [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
