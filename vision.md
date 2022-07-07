@@ -674,6 +674,7 @@ Vision
 * [OpenCV Tutorial: YOLO Object Detection using OpenCV and Python Code](https://omdena.com/blog/opencv-pedestrian-detector)
 * [What Is A Digital Image? | Image Processing with OpenCV | Computer Vision - YouTube](https://www.youtube.com/watch?v=CeWJRwTYbnY)
 * [How to Make an AI Dog Eat Your Homework with Computer Vision | by Rohan Agarwal | May, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-make-an-ai-dog-eat-your-homework-with-computer-vision-1866ada7ac08)
+* [OpenCV - YouTube](https://www.youtube.com/playlist?list=PLg-IITsdNncg_adeJbNBok8ubZtj0UGHr)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
