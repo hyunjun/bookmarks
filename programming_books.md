@@ -180,7 +180,7 @@ Programming Books
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
   * 탐라
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
-  * 탐라
+  * 탐라 문005.1-김813ㄱ
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
@@ -371,7 +371,7 @@ Programming Books
 * (NOT YET) [알고리즘으로 생각하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286801220)
   * 탐라 문005.1-양53ㅇ
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
-  * 한라
+  * 한라 005.1-레48ㅇ
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
 

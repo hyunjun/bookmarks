@@ -244,7 +244,7 @@ Book
     * 전체적인 상황을 이해하고, 우리 장단점을 명확히 인식하고, 협상대상자에 대해 면밀히 살펴 대처하고, 기다려야 할 때는 인내하고, 상대방 약점을 파악해 집요하게 물고 늘어지고, 상대방이 고전할 때 면을 세워주고... 그것이 김현종의 협상전략이다.
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
-  * 한라 321.97-달298ㅂ 우당 문321.97-달239ㅂ
+  * 한라 321.97-달298ㅂ 탐라 문321.97-달239ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
 * (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
