@@ -173,6 +173,7 @@ Business
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [How To Be Successful - Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+  * [Yc 샘 알트만이 말하는 성공 방정식](https://sonujung.com/how-to-be-successful)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
@@ -594,6 +595,7 @@ Business
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
 * [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
 * [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
+* [인재, 빼앗겼다고 생각하는가](https://velog.io/@zetlos/%EC%9D%B8%EC%9E%AC-%EB%B9%BC%EC%95%97%EA%B2%BC%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%EA%B0%80)
 * [Why People Really Quit Their Jobs](https://hbr.org/2018/01/why-people-really-quit-their-jobs)
   * [회사를 그만두는 3가지 진짜 이유](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-why_people_really_quit_their_jobs-md)
     * 일을 더 재미있게, 강점을 활용할 수 있게, 개인의 욕구 반영
