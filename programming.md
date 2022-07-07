@@ -3343,6 +3343,7 @@ Programming
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
 * [Code on Mobile : C and Other Programming Languages. - YouTube](https://www.youtube.com/watch?v=7gZdAks-xaw) mobile compiler
 * [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
+* [해커는 왜 모바일 앱을 공격할까? 모바일 앱 해킹 유형과 보안 방법](https://liapp.lockincomp.com/ko/blog/blog-Post/mobile-app-hacking-and-protection/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
