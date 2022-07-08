@@ -746,10 +746,11 @@ Book
   * ★★★☆☆ 2022.02.07
   * [트리니티 — 신의 불을 훔친 인류 최초의 핵실험 - Jun - Medium](https://nymets.medium.com/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0-%EC%8B%A0%EC%9D%98-%EB%B6%88%EC%9D%84-%ED%9B%94%EC%B9%9C-%EC%9D%B8%EB%A5%98-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%95%B5%EC%8B%A4%ED%97%98-5a60732e05a7)
   * [그래픽노블 트리니티 - DVDPrime](https://dvdprime.com/g2/bbs/board.php?bo_table=comm&wr_id=8588091)
+* 역사가 묻고 화학이 답하다 [시간과 경계를 넘나드는 종횡무진 화학 잡담 《역사가 묻고 화학이 답하다》 출간!](https://post.naver.com/viewer/postView.naver?volumeNo=33843532)
+  * 탐라 문430-장95ㅇ
+  * ★★★☆☆ 2022.07.08
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
-* (NOT YET) 역사가 묻고 화학이 답하다 [시간과 경계를 넘나드는 종횡무진 화학 잡담 《역사가 묻고 화학이 답하다》 출간!](https://post.naver.com/viewer/postView.naver?volumeNo=33843532)
-  * 탐라
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
