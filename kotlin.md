@@ -57,6 +57,7 @@
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 * [코틀린(Kotlin) data class를 JPA에서 사용시 주의할 점](https://anomie7.tistory.com/64)
+* [Spoqa 기술 블로그 | 우당탕탕 주문서 개발기](https://spoqa.github.io/2022/07/08/order-sheet-development-story.html) JPA, 잠금 lock
 * [Kotlin, Data Class Inheritance by Delegation | by nwillc | Medium](https://medium.com/@nwillc/kotlin-data-class-inheritance-by-delegation-2ad3fe6f9bd7)
 * [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
 * [brunch.co.kr/@mystoryg](https://brunch.co.kr/@mystoryg/12)
