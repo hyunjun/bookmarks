@@ -358,3 +358,4 @@ Bitcoin
 * [Two Cents #53 Web3 투자 Thesis - by Jin Ho Hur - Two Cents](https://hur.substack.com/p/web3-thesis)
 * [TBD, Web5 발표 | GeekNews](https://news.hada.io/topic?id=6735)
 * [탈중앙화의 원조 월드와이드웹이 DID를 품에 안다](https://stibee.com/api/v1.0/emails/share/WcZop7ckncCmKnEgaIuqi_2P-uVH5s8=)
+* [블파스 Decentralized Society : Web3의 영혼을 찾아서 | 윤두식 - YouTube](https://www.youtube.com/watch?v=NSL_FDNRyKE)
