@@ -1015,6 +1015,7 @@ Scala
     * [Building High-Performance Notification Engine Using Pure Functional Scala, ZIO HTTP, ZIO Kafka. Event-Driven Architecture. | LinkedIn](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/)
     * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
     * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
+    * [Scala 3 + ZIO 2 + zhttp + Laminar: proof of concept & impressions – Adrian Filip](https://adrianfilip.com/2022/06/27/scala-3-zio-2-zhttp-laminar-proof-of-concept-impressions/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1354,6 +1355,7 @@ Scala
   * [Data validation using cats Validated](https://yadukrishnan.live/data-validation-and-error-accumulation-using-cats-validated)
   * [Validation in Scala 3 with Cats. In this post we are going to see how to… | by Sergio Cano | May, 2022 | Medium](https://medium.com/@canosergio90/validation-in-scala-3-with-cats-ffa999e4186b)
   * [Disjoint Graph Unions: Performance Case Study](https://github.com/mpilquist/graph-unions)
+  * [Foldable and Traverse with Scala and Cats 😼 | by Francisco Perrotta | Jul, 2022 | Medium](https://medium.com/@PerrottaFrancisco/foldable-and-traverse-with-scala-and-cats-bf4e5ab08b5b)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1969,6 +1971,8 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
 * [My Dos and Donts in sbt Build Definitions](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions)
 * [Different Ways to Package a Simple Scala Application | Baeldung on Scala](https://www.baeldung.com/scala/package-app) SBT Assembly, SBT Native Packager, Jlink, SBT ProGuard, Scala-CLI
+* [sbt-interactive-update](https://twitter.com/kitlangton/status/1541417514823028740)
+* [a sane local dependency workflow! Kill publishLocal with fire 2 minute tutorial](https://twitter.com/kitlangton/status/1544797176890642437)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
