@@ -109,6 +109,7 @@
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
 * [코틀린의 인라인에 대해 한 번에 알아보자. inline, noinline, crossinline, reified… | by jisungbin | Sep, 2021 | Medium](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%B4-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-591c7da73219)
+* [inline 함수 #1 - Bsidesoft co.](https://www.bsidesoft.com/8603)
 * [Jeremy's Blog | 코틀린에서 reified는 왜 쓸까?](https://sungjk.github.io/2019/09/07/kotlin-reified.html)
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
@@ -170,6 +171,7 @@
 * [Context Receivers Are Coming to Kotlin! - YouTube](https://www.youtube.com/watch?v=GISPalIVdQY)
 * [smarter-shared-kotlin-flows | Medium](https://bladecoder.medium.com/smarter-shared-kotlin-flows-d6b75fc66754)
 * [Kotlin Metadata Deep Dive. Recently, I encountered a headache when… | by Johnson Lee | Jun, 2022 | Medium](https://medium.com/@johnson.lee/kotlin-metadata-deep-dive-2a966b45521a)
+* [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
