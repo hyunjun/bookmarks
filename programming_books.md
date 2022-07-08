@@ -1976,6 +1976,7 @@ Programming Books
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
 * (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
+* (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
