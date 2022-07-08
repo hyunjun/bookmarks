@@ -25,7 +25,6 @@ AWS
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
 * LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
-* [AWS AG의 WebSocket의 default - 이상선 - Medium](https://medium.com/@sunyi233/aws-ag%EC%9D%98-websocket%EC%9D%98-default-4fc71fa06fd8)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
@@ -478,6 +477,8 @@ AWS
 * [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
 * [API Gateway 에 관한 정리 # AWS](https://developer88.tistory.com/340)
 * [Managing multi-tenant APIs using Amazon API Gateway | AWS Compute Blog](https://aws.amazon.com/de/blogs/compute/managing-multi-tenant-apis-using-amazon-api-gateway/)
+* [AWS AG의 WebSocket의 default - 이상선 - Medium](https://medium.com/@sunyi233/aws-ag%EC%9D%98-websocket%EC%9D%98-default-4fc71fa06fd8)
+* [웹 소켓 연결 받는 법 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9-%EC%86%8C%EC%BC%93-%EC%97%B0%EA%B2%B0-%EB%B0%9B%EB%8A%94-%EB%B2%95-d717f18f1117)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
