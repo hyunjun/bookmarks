@@ -1162,6 +1162,7 @@ Clojure
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
   * [Transit format: An interactive tutorial - better than JSON (part 1)](http://blog.klipse.tech/clojure/2016/09/22/transit-clojure.html)
 * [typedclojure: An optional type system for Clojure](https://github.com/typedclojure/typedclojure)
+* [uix: Idiomatic ClojureScript interface to modern React.js](https://github.com/pitch-io/uix)
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
 * [unifyDB - a time-traveling graph database written in Clojure - YouTube](https://www.youtube.com/watch?v=hqQQyxeE-4Q)
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
