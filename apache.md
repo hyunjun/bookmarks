@@ -55,9 +55,10 @@ Apache
 * [Airflow2를 이용한 데이터 파이프라인 구성기. 모델 학습, 데이터 분석, 캠페인 집계, 제품 대시보드에 사용하는… | by Sungmin Han | Riiid Teamblog KR | Mar, 2022 | Medium](https://medium.com/riiid-teamblog-kr/airflow2%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%84%B1%EA%B8%B0-ab1ff1471546)
 * [Lessons Learned From Running Apache Airflow at Scale — Data Science & Engineering (2022)](https://shopify.engineering/lessons-learned-apache-airflow-scale)
   * [Airflow를 대규모로 운영하며 배운 교훈 | GeekNews](https://news.hada.io/topic?id=6608)
-* [Build An Airflow Data Pipeline To Download Podcasts [Beginner Data Engineer Tutorial] - YouTube](https://www.youtube.com/watch?v=s-r2gEr7YW4)
+* [Build An Airflow Data Pipeline To Download Podcasts Beginner Data Engineer Tutorial - YouTube](https://www.youtube.com/watch?v=s-r2gEr7YW4)
 * [Airflow 2.0 - SLS - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Airflow+2.0)
 * [사장님용 통계 데이터 서빙하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/8240/)
+* [Airflow k8s 로컬 개발환경 셋팅](https://blog.doosikbae.com/178)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
