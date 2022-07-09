@@ -367,6 +367,7 @@ Book
 * (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
 * (NOT YET) [명화로 보는 단테의 신곡 - 신곡을 좀 더 쉽.. : 네이버블로그](https://blog.naver.com/sanmandi/221567404550)
 * (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
+* (NOT YET) [The Cinema of George Lucas 조지루카스의 시네마](https://www.youtube.com/watch?v=Ip03xB992P0)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
