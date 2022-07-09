@@ -220,6 +220,8 @@ SQL
 * [Alternative to MapReduce for search in distributed databases - DEV Community](https://dev.to/tarantool/alternative-to-mapreduce-for-search-in-distributed-databases-890)
 * [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/)
 * [아직도 DBA는 좋은 직업인가요? | GeekNews](https://news.hada.io/topic?id=6530)
+* [Why SQL Needs Software Libraries | Future](https://future.com/sql-needs-software-libraries/)
+* [Everything Is a Funnel, But SQL Doesn’t Get It | by Motif Analytics | Jun, 2022 | Medium](https://motifanalytics.medium.com/everything-is-a-funnel-but-sql-doesnt-get-it-c35356424044)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -288,6 +290,7 @@ SQL
   * [.ini 파일 설정](https://baekjungho.github.io/database-dbeaverini/)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
+* [Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 * ERD
@@ -314,7 +317,7 @@ SQL
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
 * [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
-* [prql: PRQL is a modern language for transforming data — a simpler and more powerful SQL](https://github.com/max-sixty/prql)
+* [prql: PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement](https://github.com/prql/prql)
   * [PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안 | GeekNews](https://news.hada.io/topic?id=5853)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [Rel – The desktop relational database management system](https://reldb.org/c/)
@@ -494,6 +497,7 @@ SQL
   * [Access denied for user 'root@'@'localhost' 해결방법 :: oziguyo](https://oziguyo.tistory.com/36)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
+* [mysql](https://hackmysql.com/tags/mysql/)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
 * [count 2편 - benchmarking 해보기](http://blog.naver.com/pjt3591oo/221030656488)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
@@ -667,6 +671,7 @@ SQL
 * median 값 구하기 [SQL MySQL의와 계산의 중간에 간단한 방법](https://cnpnote.tistory.com/entry/SQL-MySQL%EC%9D%98%EC%99%80-%EA%B3%84%EC%82%B0%EC%9D%98-%EC%A4%91%EA%B0%84%EC%97%90-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B0%A9%EB%B2%95)
 * [MySql 의 기본 사용법과 주요 명령어들 총정리](https://developer88.tistory.com/20)
 * [Explain의 도움을 받아 Full Scan을 방지하자 #풀스캔 방지](https://developer88.tistory.com/326)
+* [MySQL EXPLAIN ANALYZE](https://hackmysql.com/post/book-2/)
 * [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
@@ -1172,6 +1177,7 @@ SQL
   * [SQLite의 Temporary Table 활용하기 | GeekNews](https://news.hada.io/topic?id=6581)
 * [Cron-based backup - Litestream](https://litestream.io/alternatives/cron/)
 * [One-liner for running queries against CSV files with SQLite | Simon Willison’s TILs](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+* [SQLite or PostgreSQL? It's Complicated!](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
