@@ -233,7 +233,8 @@ Programming Books
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
-  * 우당
+  * 우당 문005.1-셍41ㄱ
+  * [DevRel-Book: <기업의 성공을 이끄는 Developer Relations>책에 실린 리소스 정리와 함께, 데브렐을 이해하는데 도움되실 수있는 링크와 콘텐츠를 공유드립니다](https://github.com/silverjade/DevRel-Book)
   * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라
@@ -559,7 +560,7 @@ Programming Books
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
 * (NOT YET) [적정 소프트웨어 아키텍처](https://www.hanbit.co.kr/store/books/look.php?p_code=B6059097161)
-  * 우당
+  * 우당 문005.1-페63ㅈ
 
 # C
 
@@ -2394,7 +2395,9 @@ Programming Books
 * (NOT YET) [엑셀 대신 파이썬으로 업무 자동화하기 (포스코 인재창조원 著, 2022)](https://jehyunlee.tistory.com/40)
   * 탐라 문005.133-포58ㅇ
 * (NOT YET) [엑셀 X 파이썬 업무 자동화 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/90)
-  * 우당
+  * 탐라 문005.53-카213ㅇ 우당 문005.53-카213ㅇ
+  * [엑셀 × 파이썬 업무 자동화 : 매크로, VBA는 이제 낡았다! – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/11/18/%ec%97%91%ec%85%80-x-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%eb%a7%a4%ed%81%ac%eb%a1%9c-vba%eb%8a%94-%ec%9d%b4%ec%a0%9c-%eb%82%a1%ec%95%98%eb%8b%a4/)
+  * [source](https://insightbookblog.files.wordpress.com/2020/11/excel_pythonec8ba4ec8ab5ec9888eca09c.zip)
 * (NOT YET) [실전 파이썬 핸즈온 프로젝트](https://www.onlybook.co.kr/entry/python-projects)
   * [실전 파이썬 핸즈온 프로젝트 오현석 인터뷰 - YouTube](https://www.youtube.com/watch?v=456VaXge93w)
 
