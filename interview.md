@@ -247,12 +247,17 @@ Interview
 * [Interview Tips for Senior PMs. Some quick tips I’ve been sharing on my… | by Jackie Bavaro | Medium](https://jackiebo.medium.com/interview-tips-for-senior-pms-2424f7b7c967) 제목과 달리 일반적으로 쓸 수 있음
 * [인프런 심야 FE 네트워킹 후기 | 개발자 황준일](https://junilhwang.github.io/TIL/Writing/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8B%AC%EC%95%BC-FE-%ED%9B%84%EA%B8%B0/)
 * [내가 개발 인터뷰에서 면접자에게 감동한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/700/)
+* [신입 백엔드 면접 질문 Ver. 1.9.0](https://velog.io/@yukina1418/%EC%B5%9C%EA%B7%BC-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%8B%88%EB%A9%B4%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
+* [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0)
 
-# 면접 후 질문 예
+# 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
 * [Reverse Interview](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+  * [회사에 궁금한 점은 없으신가요? - Reverse Interview 한글 번역 | GeekNews](https://news.hada.io/topic?id=503)
 * [지원자도 회사를 평가합니다. 이렇게요](https://brunch.co.kr/@goodgdg/142)
 * [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
+* [**The really important job interview questions engineers should ask (but don't) - PostHog**](https://posthog.com/blog/what-to-ask-in-interviews)
+  * [엔지니어들이 면접에서 물어야 할 질문들 | GeekNews](https://news.hada.io/topic?id=6862)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -899,6 +904,7 @@ Interview
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
 * [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
+* [graduate-resume: 취업/이직을 준비하시는 분들을 위해 F-Lab 수료생들의 이력서를 무료로 배포합니다](https://github.com/f-lab-edu/graduate-resume)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
@@ -941,6 +947,7 @@ Interview
 * [연봉을 올리기 위한 5가지 준비물 | ㅍㅍㅅㅅ](https://ppss.kr/archives/195592)
 * [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
 * [My Salary Negotiation Strategy. To earn more, I never ask for a higher… | by Alex Ewerlöf | Jan, 2022 | Medium](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd)
+* [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [~perks.guide~](http://perks.guide/) 회사 복지 비교
