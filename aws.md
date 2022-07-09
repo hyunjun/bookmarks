@@ -439,6 +439,7 @@ AWS
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
+* [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1314,6 +1315,8 @@ AWS
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
+* [OpsFlow](https://opsflow.app/)
+  * [OpsFlow - No-Code DevOps | GeekNews](https://news.hada.io/topic?id=6872)
 * [PageNow](https://github.com/PageNow)
   * [Presence API - Part 1 (Architecture, AWS CDK)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%201%20%28Architecture,%20AWS%20CDK%29)
   * [Presence API - Part 2 (AWS VPC, Security Group, ElastiCache, RDS Proxy, DynamoDB)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%202%20%28AWS%20VPC,%20Security%20Group,%20ElastiCache,%20RDS%20Proxy,%20DynamoDB%29)
@@ -1464,6 +1467,7 @@ AWS
 * [Redshift 란? 다른DB들과 의 차이점은?](https://pearlluck.tistory.com/648)
 * [distkey 및 분산 관련 :: Louis.Kim 의 제 3막](https://hyunki1019.tistory.com/149)
 * [최상의 정렬 키 선택 - Amazon Redshift](https://docs.aws.amazon.com/ko_kr/redshift/latest/dg/c_best-practices-sort-key.html)
+* [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
