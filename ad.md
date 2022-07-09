@@ -29,6 +29,7 @@
 * [퍼포먼스 마케팅을 위한 "최적화 알고리즘"의 이해-2](https://brunch.co.kr/@edte1020/86)
 * [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 * [데이터 마케팅 도우미··· 주요 DMP 플랫폼 15선 - CIO Korea](https://www.ciokorea.com/news/239799)
+* [글로벌 칼럼 | 개인정보가 더 위험해진다 '서드파티 쿠키 종말의 역설' - ITWorld Korea](https://www.itworld.co.kr/news/243109)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
