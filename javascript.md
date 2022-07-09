@@ -587,6 +587,7 @@ Javascript
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
 * [Hacks for Creating JavaScript Arrays](https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b)
 * [What you should know about JavaScript arrays](https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8)
+* [Everything You Need to Know About JavaScript Array Methods](https://morioh.com/p/342e832eeadc)
 * [Javascript Method Chaining](https://www.youtube.com/watch?v=Iz3F3yv5rN0)
 * [Learn How to Create Chainable Methods in Javascript With a Practical Example](https://levelup.gitconnected.com/learn-how-to-create-chainable-methods-in-javascript-with-a-practical-example-da8ed81d560d)
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
