@@ -301,6 +301,7 @@
 * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 * [Kotlin Coroutines Flow in a nutshell | by Alexey Bykov | ProAndroidDev](https://proandroiddev.com/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 * [Android 104 : Do we really need Kotlin Coroutines? | by Saurabh Kumar | May, 2022 | Dev Genius](https://blog.devgenius.io/android-104-do-we-really-need-kotlin-coroutines-c57e5d0278c8)
+* [코틀린 코루틴 완벽가이드 #1 - Bsidesoft co](https://www.bsidesoft.com/8656)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
