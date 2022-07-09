@@ -1403,6 +1403,7 @@ Docker
 * [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
   * [아직은 쿠버네티스를 사용하지 마라 | GeekNews](https://news.hada.io/topic?id=6802)
 * [Kubernetes App Deploy script. 최근 Container 기술이 각광을 받고 있습니다. 그래서 저도… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-app-deploy-script-f6b2ed6f43a5)
+* [Why Mercedes-Benz runs on 900 Kubernetes clusters | InfoWorld](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
