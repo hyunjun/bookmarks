@@ -72,6 +72,7 @@ App
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
   * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
+* [Browsh](https://www.brow.sh/) a fully-modern text-based browser
 * [calcure: Modern TUI calendar and task manager with minimal and customizable UI](https://github.com/anufrievroman/calcure)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
@@ -136,6 +137,7 @@ App
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [Look Scanned](https://lookscanned.io/)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
+  * [OCRmyPDF](https://ocrmypdf.readthedocs.io/)
   * [pdf2image: pdfium 라이브러리를 이용한 pdf2image](https://github.com/sokcuri/pdf2image)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
@@ -1187,6 +1189,8 @@ App
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [LuLu - the free, open-source firewall](https://objective-see.com/products/lulu.html)
+* [Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
+  * [Maccy - 맥용 클립보드 매니저 오픈소스 앱 | GeekNews](https://news.hada.io/topic?id=6853)
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766) spectacle 유사. 워크스페이스 정리. 유료
@@ -1934,6 +1938,7 @@ App
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
 * HangulJasoFixer [맥에서 보낸 파일명이 윈도우에서 깨질때 - 파일명 자모 분리 현상 :: Sotheb](https://www.sotheb.co.kr/65)
+* [jsmpeg-vnc: A low latency, high framerate screen sharing server for Windows and client for browsers](https://github.com/phoboslab/jsmpeg-vnc)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
 * [mactype: Better font rendering for Windows](https://github.com/snowie2000/mactype)
