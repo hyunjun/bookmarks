@@ -1121,6 +1121,7 @@ Java
 * [3 new Java tools to try in 2021 | Opensource.com](https://opensource.com/article/21/3/enterprise-java-tools) Quarkus, Eclipse JKube, MicroProfile
 * [Top 3 Groovy Frameworks and Tools Java Developers Should Learn | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/top-3-groovy-frameworks-and-tools-java-developers-should-learn-736da9731e16)
 * [Java에서 MySQL 비동기 쿼리 사용하기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/11) MySQL X DevAPI, jasync-SQL 
+* ["클라우드 네이티브로 한 걸음 더 가까이" 다가간 자바 프레임워크 8종 - ITWorld Korea](https://www.itworld.co.kr/news/242709)
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
