@@ -1069,6 +1069,7 @@ Apache
 * [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
 * [🌲Parquet(파케이)란? 컬럼기반 포맷 장점/구조/파일생성 및 열기](https://pearlluck.tistory.com/561)
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
+* [One Stone, Three Birds: Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/)
 
 # Phoenix
 * [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
