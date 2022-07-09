@@ -576,5 +576,6 @@ Data Visualization
   * [Advanced visualization tutorial with Seaborn - Datalore View](https://view.datalore.jetbrains.com/notebook/v8mLoENq8XTfmStTCLNMV6)
   * [쿠팡이츠 배달단가 통계분석 (2500원 기준) | Statistical data analysis using Python with Seaborn - YouTube](https://www.youtube.com/watch?v=WMLqcM7cAdI)
   * [seaborn regplot vs lmplot | Pega Devlog](https://jehyunlee.github.io/2022/06/06/Python-DS-103-snsreglmplot/)
+  * [#Python | Seaborn, A Popular Statistical Graphics Library! | #seaborn #DataVisualization #Pairplot - YouTube](https://www.youtube.com/watch?v=aGRFomGbv6M)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
