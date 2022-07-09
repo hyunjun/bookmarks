@@ -188,6 +188,7 @@ Writing
     * `머리에 명확한 메시지가 아직 없다면, 당신은 아직 글 쓸 준비가 되지 않은 것입니다.`
     * `글쓰기 기술을 향상하는 유일한 방법은, 바로 글을 써보는 것입니다. 대부분의 많은 연습이 그렇듯이, 질보다 양을 중시하는 건 보통 좋은 생각입니다.`
 * [아마존에서 배운 5가지 글쓰기와 소통 방식 :: Channy's Blog](https://channy.creation.net/blog/1620)
+* [개발자에서 기술 작가로 전직하기까지 2년 간의 이야기](https://tech.devsisters.com/posts/from-engineer-to-techwriter/)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
