@@ -57,6 +57,7 @@ Bitcoin
 * [(보고서) 암호자산 성장은 국채와 통화정책에까지 영향을 미칠까? | GeekNews](https://news.hada.io/topic?id=4187)
 * [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 * [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
+* [Director's Decision on DID 1.0 Proposed Recommendation Formal Objections](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
 * [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
@@ -69,6 +70,7 @@ Bitcoin
 * [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
 * [암호자산, '심판의 날'이 다가온다 < 경제 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1057) 읽으면서 CAP theorem이 연상됨
+* [**해킹당한 모든 브릿지들에게 - by MOYED - Why Matters**](https://whymatters.substack.com/p/--92a)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -359,3 +361,4 @@ Bitcoin
 * [TBD, Web5 발표 | GeekNews](https://news.hada.io/topic?id=6735)
 * [탈중앙화의 원조 월드와이드웹이 DID를 품에 안다](https://stibee.com/api/v1.0/emails/share/WcZop7ckncCmKnEgaIuqi_2P-uVH5s8=)
 * [블파스 Decentralized Society : Web3의 영혼을 찾아서 | 윤두식 - YouTube](https://www.youtube.com/watch?v=NSL_FDNRyKE)
+* [Aleph.im decentralized infrastructure](https://aleph.im/)
