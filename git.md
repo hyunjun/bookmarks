@@ -1138,6 +1138,7 @@ Git
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
   * [Emacsair! Magit, the magical Git interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
+* [Oh My Git!](https://ohmygit.org/) An open source game about learning Git!
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
   * [“깃보다 더 확장 가능하고 빠르다”··· 피줄(Pijul), 베타로 이동 - CIO Korea](https://www.ciokorea.com/news/223129)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
