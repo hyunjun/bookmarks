@@ -943,6 +943,7 @@ Web
     * Consul에 새로 추가된 스트리밍 기능 설명
     * 기존에는 에이전트가 서버에 요청을 보내고 대기, 변경사항이 생겼을 때 모든 결과를 보내다 보니 수만 대의 인스턴스에서 부하가 심해서 새 인스턴스를 추가할 때마다 성능 우려
     * 스트리밍 기능은 해당 서비스의 변경사항만 gRPC로 보내기 때문에 성능과 밴드위스에서 이득
+* [CRProxy](https://crproxy.com/) command line tool allow you to serve web content from your local machine, or behind any firewall
 * [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
   * [빠르고 안전한 오픈소스 이미지 프록시 서버 | GeekNews](https://news.hada.io/topic?id=3949)
 * Keepalived
@@ -1347,6 +1348,7 @@ Web
 * [The Definitive Guide to Image Optimization](https://www.builder.io/blog/the-definitive-guide-to-image-optimization)
   * [(번역) 이미지 최적화에 대한 명확한 가이드](https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization)
 * [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
+* [**When Network is Faster than Cache – Simon Hearne**](https://simonhearne.com/2020/network-faster-than-cache/)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
