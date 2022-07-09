@@ -435,13 +435,13 @@ Programming Books
   * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539)
 * (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
-  * 우당
+  * 우당 문004.588-김39ㅇ
 * (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
   * 2020, 우당 문004.588가66ㅇ
 * (NOT YET) [AWS 기반 AI 애플리케이션 개발 | 에이콘출판사](http://www.acornpub.co.kr/book/ai-aws)
-  * 우당
+  * 우당 문004.73-트239ㅇ
 * (NOT YET) [생활코딩! 아마존 웹 서비스 | 위키북스](https://wikibook.co.kr/aws/)
-  * 우당
+  * 우당 문004.588-이15ㅇ
 * (NOT YET) [비즈니스 머신러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6474110466)
   * 한라 004.73-허74ㅂ
 * (NOT YET) [풀스택 서버리스 : 리액트, AWS, 그래프QL을 이용한 최신 애플리케이션 개발](https://hanbit.co.kr/store/books/look.php?p_code=B7015117381)
