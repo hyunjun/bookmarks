@@ -563,6 +563,7 @@ Programming
 * [칼럼 | 프로그래밍의 ‘짜릿함’과 ‘위대함’에 대하여 - CIO Korea](https://www.ciokorea.com/news/239959)
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
+* [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -2309,6 +2310,7 @@ Programming
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
+* [How to do a Code Review: The Ultimate Guide](https://www.codiga.io/blog/code-review-guide-checklist/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -3806,6 +3808,7 @@ Programming
   * [6월 2주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-2.html)
   * [6월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/06/b-6-4.html)
   * [7월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/07/b-7.html)
+  * [7월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/07/b-7-1.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
