@@ -521,6 +521,7 @@ Programming
 * [What Does It Take To Be a Tech Giant? | Miguel Rochefort](https://miguelrochefort.com/blog/tech-giant/)
   * [Tech Giant가 되려면 뭐가 필요한가 ? | GeekNews](https://news.hada.io/topic?id=4600)
 * [Data-Driven Development in the Automotive Field - YouTube](https://www.youtube.com/watch?v=SExQZna9x90)
+* [JDD-Description: Ju-Dung-A-Li Driven Development](https://github.com/Lee-WonJun/JDD-Description) 재미로만 읽을 건 아님
 * [쏘카 백오피스 팀 내 공통 코드(Common Code) 관리 변천사 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/17/common-code-management.html)
 * [**Software development topics I've changed my mind on after 6 years in the industry - Blogomatano**](https://chriskiehl.com/article/thoughts-after-6-years)
   * [업계에서 6년 있은 뒤, 마음이 바뀐 소프트웨어 개발 토픽들 | GeekNews](https://news.hada.io/topic?id=3635) 매우 좋은 글. 대부분 동의함
@@ -968,6 +969,7 @@ Programming
 * [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+* [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
@@ -1494,6 +1496,7 @@ Programming
   * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
+* [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
 * [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
