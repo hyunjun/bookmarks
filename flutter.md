@@ -145,6 +145,7 @@ Flutter
 * [Flutter 3 업데이트. 2022년 5월 11~12일에 구글 io 2022 행사가… | by valas | Flutter Korea | May, 2022 | Medium](https://medium.com/flutter-korea/flutter-3-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-52039e156312)
 * [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)
 * [여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 | 요즘IT](https://yozm.wishket.com/magazine/detail/1525/)
+* [Flutter로 UI를 구현하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1566/)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
