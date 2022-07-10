@@ -1258,6 +1258,7 @@ App
 * [Vimac](https://vimacapp.com/)
 * [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
+* [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
