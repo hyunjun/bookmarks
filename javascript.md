@@ -1539,6 +1539,7 @@ Javascript
   * React, Preact, Solid, Svelte, Vue를 비교해서 프레임워크 자체의 크기와 애플리케이션 코드의 크기 비교
   * 애플리케이션 코드의 규모가 커졌을 때 전체 사이즈의 경향성도 비교
   * 용량이 전부는 아니지만, 하나의 기준으로 참고하기 좋은 테스트 결과
+* [How do JavaScript Frameworks differ from JavaScript Libraries? | by Thomas Sentre | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-do-javascript-frameworks-differ-from-javascript-libraries-6bd433e395e4)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
