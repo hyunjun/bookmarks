@@ -69,6 +69,7 @@ Algorithm
 * [Using Ring Buffer Logging to Help Find Bugs](http://www.exampler.com/writing/ring-buffer.pdf)
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
 * [A step-by-step guide to building a simple chess AI](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977)
+* [Chess Engines: A Zero to One](https://www.chessengines.org/)
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 * [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
@@ -338,6 +339,7 @@ Algorithm
 # Compression
 * [Use Fast Data Algorithms | Joey Lynch's Site](https://jolynch.github.io/posts/use_fast_data_algorithms/)
 * [Time-series compression algorithms, explained](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
+* [History of Lossless Data Compression Algorithms - ETHW](https://ethw.org/History_of_Lossless_Data_Compression_Algorithms)
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
 * [Zip: Data compression (20분만에 배우는 압축 알고리즘) - Speaker Deck](https://speakerdeck.com/dalinaum/zip-data-compression-20bunmane-baeuneun-abcug-algorijeum)
 
