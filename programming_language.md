@@ -148,6 +148,7 @@ Programming Language
 * [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * ["틈새를 파고든다" 새로운 프로그래밍 언어 11선 - ITWorld Korea](https://www.itworld.co.kr/news/236219)
+* [Top 10 Weirdest Programming Languages in Use in 2022](https://www.analyticsinsight.net/top-10-weirdest-programming-languages-in-use-in-2022)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
@@ -184,6 +185,7 @@ Programming Language
     * [canonical.org/~kragen/sw/dev3/server.s](http://canonical.org/~kragen/sw/dev3/server.s)
     * [httpdito - i386 어셈블리로 된 초소형 웹서버 | GeekNews](https://news.hada.io/topic?id=4008)
   * [Keystone - a lightweight multi-platform, multi-architecture assembler framework](http://www.keystone-engine.org/)
+  * [some-assembly-required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
   * [xorpd](https://www.xorpd.net/)
 * ATL [A new programming language for high-performance computers | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
 * [atto](https://jamesl.me/atto/)
@@ -554,6 +556,7 @@ Programming Language
   * [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-프로그래밍-언어-80f94f20b23c)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * [verse: The Verse Programming Language](https://github.com/verse-lang/verse)
+* [virgil: A fast and lightweight native programming language](https://github.com/titzer/virgil)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)
 * Wolfram Language
