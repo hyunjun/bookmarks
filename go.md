@@ -967,6 +967,7 @@ Go
 * [How to Effectively Recover from Panic in Go Applications](https://morioh.com/p/4eef0bedc51c)
 * [Golang Crash Course - YouTube](https://www.youtube.com/playlist?list=PLm5LCMVu2ms_i1MqMtWMyT-HBalhTT64i)
 * [Golang - YouTube](https://www.youtube.com/playlist?list=PLSuzwxF6LC4B-71Adipqc2nto7I3TYZQb)
+* [GO Language - YouTube](https://www.youtube.com/playlist?list=PLaSWSLwUFCJJtPMBaqz67S9mVFFGBlJIf)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
