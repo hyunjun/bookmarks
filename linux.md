@@ -89,6 +89,7 @@ Linux
 * [Run Fedora Workstation (or any OS) in Mac OS Environment with an open source QEMU - YouTube](https://www.youtube.com/watch?v=oFkbLeEMwA0)
 * [Introduction | QEMU internals](https://airbus-seclab.github.io/qemu_blog/)
 * [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
+* [Running the Steam Deck’s OS in a virtual machine using QEMU | The world won't listen](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
@@ -143,6 +144,7 @@ Linux
 * [Hints for writing Unix tools](https://monkey.org/~marius/unix-tools-hints.html)
 * [10 resources every sysadmin should know about | Opensource.com](https://opensource.com/article/19/7/resources-sysadmin)
 * [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
+* [A journey into the Linux scheduler | Maxgio's blog](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -761,6 +763,7 @@ Linux
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
   * [RSYNC 리눅스 서버 자동 백업하기](https://www.runit.cloud/2020/06/bash-rsync.html)
   * [rclone "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files https://rclone.org ](https://github.com/rclone/rclone)
+  * [rsync: Series Overview - Michael Stapelberg](https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview/)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
   * [practice - 지난 14일간 average CPU load + memory usage 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-test_sar-sh)
@@ -915,6 +918,7 @@ Linux
   * [telnet과 ssh가 어떻게 패킷을 날리는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/entry/telnet%EA%B3%BC-ssh%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8C%A8%ED%82%B7%EC%9D%84-%EB%82%A0%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * `time`
   * [`time(1)` and CPU frequency scaling](https://www.uninformativ.de/blog/postings/2021-07-14/0/POSTING-en.html)
+  * [철도 시간표가 유닉스 시간이 되기까지](https://parksb.github.io/article/39.html)
 * `top`
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
   * [catching top waits – domas mituzas](https://dom.as/2020/07/06/catching-top-waits/)
@@ -1234,6 +1238,7 @@ Linux
 * Wayland
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
+  * [Boycott Wayland. It breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
