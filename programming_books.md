@@ -2646,8 +2646,13 @@ Programming Books
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
-  * 2021.12.08
-  * ★★★☆☆ 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
+  * ★★★☆☆ 2021.12.08 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
+* [사용자를 끌어들이는 UX/UI의 비밀](https://story.pxd.co.kr/1582)
+  * 한라 004.78-티27ㅅ
+  * ★★★☆☆ * 2022.07.10 디자인은 모르지만, 구조적으로 논리적으로 접근하고 설명한다는 점은 충분히 이해할 수 있었다
+  * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://github.com/hyunjun/bookmarks/blob/master/programming_books/designing_interfaces.md)
+  * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-ux-ui%EC%9D%98-%EB%B9%84%EB%B0%80-designing-interfaces-cae1fe9c76b4)
+  * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://jh4hj.tistory.com/entry/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-UXUI%EC%9D%98-%EB%B9%84%EB%B0%80-Designing-Interfaces)
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
