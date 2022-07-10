@@ -157,6 +157,7 @@
 * [Part 1: The life of an optimization barrier | Trail of Bits Blog](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 * [Allocating Less: Really Thin Rust Cloud Apps - YouTube](https://www.youtube.com/watch?v=nO-BFKyWYgE)
 * [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+* [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -298,6 +299,7 @@
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
   * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)
+* [xlite: SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables](https://github.com/x2bool/xlite)
 * [xplr: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
 * [xsv - A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
   * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
