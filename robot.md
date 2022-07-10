@@ -69,6 +69,8 @@ Robot
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org)
   * [PyRobot - An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot)
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
+* [symforce: Fast symbolic computation, code generation, and nonlinear optimization for robotics](https://github.com/symforce-org/symforce)
+  * [Open-sourcing SymForce | Skydio](https://www.skydio.com/blog/open-sourcing-symforce/)
 
 # ROS
 * [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
