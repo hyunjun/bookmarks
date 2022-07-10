@@ -1705,6 +1705,7 @@ Javascript
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Frappe: Frameworks + Apps](https://frappe.io/gantt)
   * [Frappe - 인터랙티브 Gantt 차트 오픈소스 | GeekNews](https://news.hada.io/topic?id=6504)
+* [fresh - The next-gen web framework](https://fresh.deno.dev/)
 * [frontend-challenges: Listing some playful open-source's challenges of jobs to test your knowledge](https://github.com/felipefialho/frontend-challenges)
 * fullPage.js
   * [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
