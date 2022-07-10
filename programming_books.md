@@ -272,7 +272,7 @@ Programming Books
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
-  * 한라
+  * 한라 005.1-마888클
   * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
@@ -1266,7 +1266,7 @@ Programming Books
 * (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
   * 한라 005.115-버195ㄷ
 * (NOT YET) [도메인 주도 설계 첫걸음 | 위키북스](https://wikibook.co.kr/lddd/)
-  * 한라
+  * 한라 005.115-코195ㄷ
 
 # Elasticsearch
 
@@ -2102,7 +2102,7 @@ Programming Books
   * 한라
   * [textmining](https://github.com/wikibook/textmining)
 * (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2/)
-  * 한라
+  * 한라 004.73-전82자
 * (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp)
 
 # NoSQL
