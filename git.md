@@ -23,6 +23,7 @@ Git
 * [Introduction to Git - Core Concepts - YouTube](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [Introduction to Git - Branching and Merging - YouTube](https://www.youtube.com/watch?v=FyAAIHHClqI)
 * [Introduction to Git - Remotes - YouTube](https://www.youtube.com/watch?v=Gg4bLk8cGNo)
+* [The Universe of Discourse : Things I wish everyone knew about Git (Part I)](https://blog.plover.com/prog/git/tips.html)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
   * [Git Large File Storage v1.0](https://github.com/blog/2069-git-large-file-storage-v1-0)
