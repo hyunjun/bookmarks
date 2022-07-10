@@ -303,6 +303,7 @@ Bitcoin
 * [멘토특강 NFT의 모든것 - YouTube](https://www.youtube.com/watch?v=TTh1OtSpt0A)
 * [하워드 슐츠는 왜 NFT를 들고 컴백했을까? - 티타임즈](https://www.ttimes.co.kr/article/2022052517357716622)
 * [**NDC22 NFT, 게임의 혁명인가 신기루인가?**](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151141)
+* [NFTGo 소셜 미디어의 재정의: 현재 Web2에서 Web3까지](https://blog.naver.com/nftgo/222804465178)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
