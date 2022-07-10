@@ -1909,6 +1909,7 @@ Javascript
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
   * [Create documentation easily using NuxtJS VueJS content plugin | by Bikram KC | Nov, 2020 | Medium](https://bikramkc.medium.com/create-documentation-easily-using-nuxtjs-vuejs-content-plugin-e06b220ce37c)
   * [내가 쓰는 Nuxt3 ESLint 설정 | Univdev](https://www.univdev.page/posts/nuxt3-eslint/)
+  * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
   * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku. https://oclif.io ](https://github.com/oclif/oclif)
