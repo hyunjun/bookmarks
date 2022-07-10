@@ -4079,6 +4079,7 @@ Javascript
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
+  * [Improving page performance | Next.js - YouTube](https://www.youtube.com/watch?v=hZr4J42JDoc)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
