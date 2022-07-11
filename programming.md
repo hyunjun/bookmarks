@@ -725,11 +725,12 @@ Programming
   * [“솔직히 우리가 하는 것은 스크럼이 아닙니다!” | 요즘IT](https://yozm.wishket.com/magazine/detail/1474/)
 * [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
 * [4 Reasons why Daily Scrums are stressful for developers | by Rakia Ben Sassi | Serious Scrum | May, 2022 | Medium](https://medium.com/serious-scrum/4-reasons-why-daily-scrums-are-stressful-for-developers-3be4a871db33)
-* [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
-  * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 * [강남언니가 극도로 애자일하게 협업하는 방법](https://blog.gangnamunni.com/post/radical-collaboration/)
 * [Software development: do good manners matter? PeerJ](https://peerj.com/articles/cs-73/) This paper investigates social aspects among developers working on software projects developed with the support of Agile tools
+* [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
+  * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
+* [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
