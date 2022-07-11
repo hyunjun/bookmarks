@@ -1233,6 +1233,7 @@ Machine Learning
 * [SynapseML: Simple and Distributed Machine Learning](https://github.com/microsoft/SynapseML)
   * [SynapseML - 머신러닝 파이프라인 생성용 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=5662)
 * [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
+* [tensor-house: A collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain](https://github.com/ikatsov/tensor-house)
 * [traingenerator: 🧙 A web app to generate template code for machine learning](https://github.com/jrieke/traingenerator)
 * [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
   * [오라클, 자바 머신러닝 라이브러리 ‘트리뷰오’ 오픈소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17811)
