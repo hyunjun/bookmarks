@@ -10,3 +10,4 @@ Speaking
 * [말수가 적어지는 이유: 나이가 들수록 ‘내 말’이 나를 해칠 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250806)
 * [“기술적”이라는 단어의 마력](https://www.sungdoo.dev/opinion/magic-of-word-technical)
 * [습관 말은 무조건 간결하게 하라](http://moneyman.kr/archives/1944)
+* [습관 멋있게 말하는 5가지 방법](http://moneyman.kr/archives/3513)
