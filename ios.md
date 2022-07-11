@@ -107,6 +107,7 @@ iOS
 * [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기 | Fernando 기술 블로그](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
 * [How I Shaved 187MB Off United Airline's 439mb iOS App](https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/)
 * [사람인 iOS App Refactoring](https://saramin.github.io/2022-06-21-ios-refactoring/)
+* [HTML을 NSAttributedString으로 변환하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/html-to-nsattributedstring/)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
