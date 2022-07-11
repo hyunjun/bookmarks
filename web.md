@@ -722,6 +722,7 @@ Web
   * `<section>`을 쓰면 안 되는 것은 아니지만 접근성 제공 측면에서 요약 정도 등에 스크린리더가 알 수 있게 `<section>`을 사용하면 된다고 설명
 * [HTML 요소 inert 속성에 대해 알아보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220603)
 * [Write HTML Right](http://lofi.limo/blog/write-html-right)
+* [하이퍼링크를 신뢰할 수 없다면? noopener, noreferrer, nofollow - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/07/11/When-should-we-apply-noopener-noreferrer-nofollow-on-hyperlinks.html)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
