@@ -145,6 +145,7 @@ Linux
 * [10 resources every sysadmin should know about | Opensource.com](https://opensource.com/article/19/7/resources-sysadmin)
 * [A decade of dotfiles](https://evanhahn.com/a-decade-of-dotfiles/)
 * [A journey into the Linux scheduler | Maxgio's blog](https://blog.maxgio.me/posts/linux-scheduler-journey/)
+* [뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 - 넷마블 기술 블로그](https://netmarble.engineering/protect-root-account-at-linux/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
