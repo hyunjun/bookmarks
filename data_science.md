@@ -844,6 +844,7 @@ Data Science
 * [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
 * [Keeping Sensitive Data Safe Using Recommendation Systems | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7ZP5NIbY8Eg)
 * [Machine Learning Recommender System With Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
+* [상품 추천 알고리즘 Item-CF의 최적화 여정](https://tech.buzzvil.com/blog/optimizing-itemcf/)
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 * [Recommender Utilities — Microsoft Recommenders 1.1.0 documentation](https://microsoft-recommenders.readthedocs.io/)
   * [recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
