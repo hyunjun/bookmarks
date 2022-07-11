@@ -590,6 +590,11 @@ App
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
 * [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
   * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
+* Fleet
+  * [Fleet의 내부 구조, 파트 I – 아키텍처 개요 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/01/fleet-below-deck-part-i-architecture-overview/)
+  * [Fleet의 내부 구조, 파트 II – 에디터 해부하기 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
+  * [Fleet의 내부 구조, 파트 III – 상태 관리 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/06/fleet-below-deck-part-iii-state-management/)
+  * [Fleet의 내부 구조, 파트 IV – 분산형 트랜잭션 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/07/fleet-below-deck-part-iv-distributed-transactions/)
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
