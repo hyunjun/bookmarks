@@ -1284,6 +1284,7 @@ AWS
   * [CDK로 EKS 클러스터 풀스택 관리하기 :: CDK로 멀티 리전 EKS 클러스터 풀스택 배포](https://cdk-eks-devops.workshop.aws/ko)
   * [CDK code snippet-1 – Jinho's journal about software engineering](https://jinhoyoo.github.io/CDK-code-snippet1/)
   * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
+  * [AWS Amplify 애플리케이션을 AWS CDK와 함께 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-amplify-application-with-aws-cdk/)
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
     * [JSii - 어떤 언어든 JS 클래스와 인터랙션 가능하게 만드는 컴파일러 | GeekNews](https://news.hada.io/topic?id=4789)
@@ -1646,6 +1647,8 @@ AWS
 * [How To Install and Configure Terraform on Amazon Cloud - DevOps Titan](https://devopstitan.com/how-to-install-and-configure-terraform-on-amazon-cloud/)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
+* [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
+  * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
