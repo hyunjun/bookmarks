@@ -4301,6 +4301,16 @@ Javascript
 * [Redux-Saga tutorial for beginners and dog lovers](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
 * [How to load data in React with redux-thunk, redux-saga, suspense, & hooks](https://medium.freecodecamp.org/loading-data-in-react-redux-thunk-redux-saga-suspense-hooks-666b21da1569)
 * [Understanding Redux Thunk in React.js with Example - DEV Community](https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd)
+* [redux toolkit - thunk 를 이용해서 비동기 작업을 처리하는 방법 - YouTube](https://www.youtube.com/watch?v=K-3sBc2pUJ4)
+  * createAsyncThunk은 비동기작업을 처리하는 action creator 작성
+  * action creator의 3가지 상태
+    * action creator.pending 대기 상태
+    * action creator.fulfilled 완료 상태
+    * action creator.rejected 오류 상태
+  * thunk는 각각의 상태에 따른 reducer를 체계적으로 작성할 수 있도록 유도
+  * thunk를 처리할 때는 extraReducers 사용
+  * [redux - redux-toolkit-thunk-final - StackBlitz](https://stackblitz.com/edit/react-bnjjtz?file=src%2FApp.js)
+  * [redux - redux-toolkit-thunk-start - StackBlitz](https://stackblitz.com/edit/react-advdyf?file=src%2FApp.js)
 * [redux-saga와 typescript 편하게 사용하기](https://jonir227.github.io/develop/2019/06/04/redux-saga%EC%99%80-typescript-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
 * [How to use redux-saga](https://dailyhotel.io/how-to-use-redux-saga-63a6078c74b3)
 * [리액트 사가 사용하기 (타입스크립트 버전) - 1편](http://jeonghwan-kim.github.io//dev/2019/07/22/react-saga-ts-1.html)
