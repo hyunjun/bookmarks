@@ -251,6 +251,7 @@ Web
 * [The Medium RSS Feed’s Missing Part | by Sabesan Sathananthan | Geek Culture | Jun, 2022 | Medium](https://medium.com/geekculture/the-medium-rss-feeds-missing-part-65a0b556dda1)
 * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) http cache
 * [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
+* [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 
 # Apache
 * installation
