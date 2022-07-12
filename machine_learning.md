@@ -827,6 +827,7 @@ Machine Learning
 * [Hands-On with Unsupervised Learning](https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7)
 * [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
 * [Introduction to K-Means Clustering | Pinecone](https://www.pinecone.io/learn/k-means-clustering/)
+* [K-means Clustering From Scratch in Python Beginner Tutorial - YouTube](https://www.youtube.com/watch?v=lX-3nGHDhQg)
 
 ## Clustering Python
 * [RFMT Segmentation Using K-Means Clustering](https://medium.com/@blaizh/rfmt-segmentation-using-k-means-clustering-76bc5040ead5)
