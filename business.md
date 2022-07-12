@@ -1259,6 +1259,7 @@ Business
 * [초짜 매니저 가이드 – Andrew Ahn](https://www.andrewahn.co/silicon-valley/first-time-manager-guide/)
 * [최고 매니저들의 10가지 덕목 | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/greatmanager10/)
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
+* [Amazon의 거꾸로 일하기(Working Backward) 문화 :: Channy's Blog](http://channy.creation.net/blog/1269)
 * [PURSUIT: Framework for your next great product idea](https://uxdesign.cc/pursuit-a-product-framework-for-product-y-folks-9575244fe9d2)
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
