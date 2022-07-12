@@ -2407,6 +2407,7 @@ Programming Books
   * [source](https://insightbookblog.files.wordpress.com/2020/11/excel_pythonec8ba4ec8ab5ec9888eca09c.zip)
 * (NOT YET) [실전 파이썬 핸즈온 프로젝트](https://www.onlybook.co.kr/entry/python-projects)
   * [실전 파이썬 핸즈온 프로젝트 오현석 인터뷰 - YouTube](https://www.youtube.com/watch?v=456VaXge93w)
+* (NOT YET) 파이썬 자동화 교과서 - 업무 생산성을 3배 높이는 엑셀, 워드, 크롤링, 메일 자동화 기술 [파이썬과 함께 사무 작업을 3배 빠르게](https://jpub.tistory.com/1296)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
