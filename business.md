@@ -89,6 +89,7 @@ Business
 * [🚀쿠팡은 정말 돈을 벌 수 있는 기 | 커리어리](https://careerly.co.kr/comments/58640)
 * [쿠팡과 한진의 이별이 의미하는 것](https://brunch.co.kr/@trendlite/253)
 * [쿠팡, 이러다 큰일 난다. 실적 뜯어본 회계사의 경고 f. 이재용 회계사 컴퍼니 백브리핑 - YouTube](https://www.youtube.com/watch?v=1VA9DcCvASg)
+* [티몬의 기업가치가 떡락한 이유](https://brunch.co.kr/@trendlite/255)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
 * [쏘카 패스트파이브 재무제표 뜯어보기 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=H_Ia5oHT7nc)
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
