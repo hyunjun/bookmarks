@@ -266,14 +266,18 @@ Programming Books
   * ★★★☆☆ 2022.06.16
   * [Retrospectives ANTIPATTERNS 좋은 팀을 만드는 24가지 안티패턴 타파 기법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/retrospectives_antipatterns.md)
   * [Retrospectives ANTIPATTERNS 좋은 팀을 만드는 24가지 안티패턴 타파 기법 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/retrospectives-antipatterns-%EC%A2%8B%EC%9D%80-%ED%8C%80%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-24%EA%B0%80%EC%A7%80-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-%ED%83%80%ED%8C%8C-%EA%B8%B0%EB%B2%95-aad4d1f3fcdd)
+* [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
+  * 한라 005.1-마888클
+  * ★★★★★ 2022.07.11
+  * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
+  * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천](https://github.com/hyunjun/bookmarks/blob/master/programming_books/clean_agile.md)
+  * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/clean-agile-back-to-basics-%ED%81%B4%EB%A6%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%B8%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C-f9592191a327)
+  * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천](https://jh4hj.tistory.com/entry/Clean-Agile-Back-to-Basics-%ED%81%B4%EB%A6%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%B8%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
-* (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
-  * 한라 005.1-마888클
-  * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
