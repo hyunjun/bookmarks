@@ -1172,6 +1172,9 @@ Programming Books
   * [Data Visualization](https://socviz.co/)
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
+* (NOT YET) [핸즈온 데이터 시각화](https://hanbit.co.kr/store/books/look.php?p_code=B1996635146)
+  * [Hands-On Data Visualization](https://handsondataviz.org/)
+  * [HandsOnDataViz/book: Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book-in-progress, under contract with O'Reilly Media.](https://github.com/handsondataviz/book)
 
 # Debugging
 
