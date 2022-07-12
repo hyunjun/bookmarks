@@ -302,6 +302,7 @@
 * [Kotlin Coroutines Flow in a nutshell | by Alexey Bykov | ProAndroidDev](https://proandroiddev.com/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 * [Android 104 : Do we really need Kotlin Coroutines? | by Saurabh Kumar | May, 2022 | Dev Genius](https://blog.devgenius.io/android-104-do-we-really-need-kotlin-coroutines-c57e5d0278c8)
 * [코틀린 코루틴 완벽가이드 #1 - Bsidesoft co](https://www.bsidesoft.com/8656)
+* [A Perception of Exception in Kotlin Coroutines | by Saurabh Pant | Jul, 2022 | Better Programming](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
@@ -310,6 +311,7 @@
   * [Functional programming in Kotlin with Arrow.kt - YouTube](https://www.youtube.com/watch?v=IDMmmrRhUvQ)
 * [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/)
   * [Compose for Web 개발 후기](https://holykisa.tistory.com/71)
+  * [Creating User Authentication UI with Compose for Desktop | Engineering Education (EngEd) Program | Section](https://www.section.io/engineering-education/creating-user-authentication-ui-with-compose-for-desktop/)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
   * [exposed-study at master · cheese10yun/blog-sample](https://github.com/cheese10yun/blog-sample/tree/master/exposed-study)
     * [Exposed - Yun Blog | 기술 블로그](https://cheese10yun.github.io/exposed/)
