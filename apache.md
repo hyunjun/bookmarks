@@ -59,6 +59,7 @@ Apache
 * [Airflow 2.0 - SLS - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Airflow+2.0)
 * [사장님용 통계 데이터 서빙하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/8240/)
 * [Airflow k8s 로컬 개발환경 셋팅](https://blog.doosikbae.com/178)
+* [Airflow Sensor 정리 (feat. S3 Sensor)](https://blog.doosikbae.com/entry/Airflow-Sensor-%EC%A0%95%EB%A6%AC-feat-S3-Sensor)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
