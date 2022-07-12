@@ -634,6 +634,7 @@ Javascript
 * [Getting Started with the MERN Stack](https://medium.com/@alphakoder/getting-started-with-the-mern-stack-4e73f34aaa28)
 * [Learn the MERN stack by building an exercise tracker — MERN Tutorial](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1)
 * [Create a MERN Stack App with a Serverless Backend](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
+* [How to learn MERN Stack in 2022? Books, Courses, and Projects | by javinpaul | Javarevisited | Jun, 2022 | Medium](https://medium.com/javarevisited/how-to-learn-mern-stack-from-scratch-1784618eaffa)
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
@@ -2691,6 +2692,7 @@ Javascript
 * [Deploy Node JS on Heroku, Mongo DB, and Vue JS - YouTube](https://www.youtube.com/watch?v=MBQ-Kxy0EIM)
 * [nodechatapp: Node Express Socket.IO 기본 웹 채팅 샘플 프로젝트](https://github.com/eddykang1074/nodechatapp)
 * [웹 서비스를 위한 Node.js 병렬처리 구현 | 요즘IT](https://yozm.wishket.com/magazine/detail/1556/)
+* [How to Test Side-Effects in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/12/how-to-test-side-effects-in-nodejs.html)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
