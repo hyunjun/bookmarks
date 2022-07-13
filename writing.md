@@ -143,13 +143,16 @@ Writing
 * [Writing as a dominant engineering skill | LinkedIn](https://www.linkedin.com/pulse/writing-dominant-engineering-skill-maksim-ekimovskii/)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/document-ide.html)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/latex-writing.html)
-* [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/) c4model
 * [The Renaissance of Code Documentation: Introducing Code Walkthrough](https://www.infoq.com/articles/code-walkthrough-documentation/)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
 * [The C4 model for visualising software architecture](https://c4model.com/)
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
+  * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
+  * [Structurizr](https://structurizr.com/)
+    * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E) C4 model
+    * [structurizr/dsl: Structurizr DSL](https://github.com/structurizr/dsl)
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
