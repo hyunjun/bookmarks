@@ -30,6 +30,7 @@
 * [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 * [데이터 마케팅 도우미··· 주요 DMP 플랫폼 15선 - CIO Korea](https://www.ciokorea.com/news/239799)
 * [글로벌 칼럼 | 개인정보가 더 위험해진다 '서드파티 쿠키 종말의 역설' - ITWorld Korea](https://www.itworld.co.kr/news/243109)
+* ['쿠키리스 시대' 앞두고 CDP 뜨나...고객 데이터 확보 총력전](https://www.bloter.net/newsView/blt202207120015)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
