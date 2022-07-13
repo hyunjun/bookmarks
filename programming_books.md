@@ -2491,7 +2491,7 @@ Programming Books
 * (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
 * (NOT YET) [ggplot2 - R로 분석한 데이터를 멋진 그래픽으로](https://freelec.co.kr/book/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%8C%A8%ED%82%A4%EC%A7%80-ggplot2/)
 * (NOT YET) [**R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)**](http://jpub.tistory.com/875)
-* (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화](http://ds.sumeun.org/?p=2069)
+* (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화(제3판) – 숨은원리](http://books.sumeun.org/?p=190)
 * (NOT YET) [시작하세요! 데이터 분석 with R R로 배우는 기초 통계와 데이터 분석 기법](http://wikibook.co.kr/data-analysis-with-r/)
 * (NOT YET) [앤디 필드의 유쾌한 R 통계학](https://jpub.tistory.com/900)
   * ['Discovering Statistics Using R' 번역서 '앤디 필드의 유쾌한 R 통계학' 출간 소식 및 근황](http://occamsrazr.net/tt/350)
