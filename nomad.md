@@ -61,6 +61,7 @@ Nomad & Remote
 * [4 Ways To Make Strong Connections As A Remote Worker](https://blog.trello.com/remote-work-connections)
 * [브런치북 슬기로운 외노자생활](https://brunch.co.kr/brunchbook/beyondborders)
 * ['디지털 노마드' 삶에 대해 아무도 말하지 않는 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/240644)
+* [재택근무에 대한 법적 권리 인정](https://www.traw.io/blog/recognition-of-your-legal-right-to-work-from-home)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
