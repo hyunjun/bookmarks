@@ -206,6 +206,7 @@ Monitoring
 * [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
 * [Prometheus 를 이용한 모니터링 — Part 1. 프로메테우스란 무엇인가? | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/prometheus-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-part-1-69de3e87d427)
 * [바른모 블로그: Prometheus 와 Grafana 로 시스템과 애플리케이션 모니터링](https://barunmo.blogspot.com/2022/04/prometheus-grafana.html)
+* [Exporter Review: Elasticsearch - NexClipper](https://nexclipper.io/exporter-review-elasticsearch/)
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
