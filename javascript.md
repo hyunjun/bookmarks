@@ -3435,6 +3435,7 @@ Javascript
 * [Common React Mistakes: useEffect, useCallback and useMemo Hooks - YouTube](https://www.youtube.com/watch?v=UQkTu-PQ5gQ)
 * [useMemo, useCallback을 언제 써야되나?. Kent C. Dodds의 블로그 글을 읽고 검증해봤다. | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/usememo-usecallback%EC%9D%84-%EC%96%B8%EC%A0%9C-%EC%8D%A8%EC%95%BC%EB%90%98%EB%82%98-6a5e6f30f759)
 * [Mastering React Memo - YouTube](https://www.youtube.com/watch?v=DEPwA3mv_R8)
+* [React.memo & useMemo | What's the difference | In Urdu - YouTube](https://www.youtube.com/watch?v=qKESJIZgjHE)
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [React + Typescript + SSR + Code-splitting 환경설정하기](https://medium.com/@minoo/react-typescript-ssr-code-splitting-환경설정하기-d8cec9567871)
