@@ -1395,6 +1395,14 @@ Business
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
+* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
+* [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
+* [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
+* [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
+* [토스 리더가 말하는 유저를 끌어당기는 서비스 개선 | PO SESSION - YouTube](https://www.youtube.com/watch?v=D9x7Tln2DI4)
+* [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
+* [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
+* [토스는 이렇게 시작했습니다 | PO SESSION - YouTube](https://www.youtube.com/watch?v=Tmj1HEFnKpE)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -1444,13 +1452,6 @@ Business
 * [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
 * [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
 * [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
-* [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
-* [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
-* [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
-* [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
-* [토스 리더가 말하는 유저를 끌어당기는 서비스 개선 | PO SESSION - YouTube](https://www.youtube.com/watch?v=D9x7Tln2DI4)
-* [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
-* [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
 * [How To Transition From Being A Programmer to Project Manager Position | HackerNoon](https://hackernoon.com/how-to-transition-from-being-a-programmer-to-project-manager-position-op2j3ulg)
 
 # Startup
