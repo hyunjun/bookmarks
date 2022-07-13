@@ -114,6 +114,7 @@ AWS
 * [개발자를 위한 AWS 클라우드 보안 (1) - 클라우드 설계 원칙과 IAM – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-1/)
 * [개발자를 위한 AWS 클라우드 보안 (2) - 로깅 및 모니터링과 데이터 보호 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-2/)
 * [개발자를 위한 AWS 클라우드 보안 (3) - 인프라 보안과 사고 대응 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-cloud-security-for-devs-3/)
+* [AWS SecurityHub. The AWS:SecurityHub:Hub resource… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/aws-securityhub-hub-1d42cb1199d2)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
@@ -445,6 +446,7 @@ AWS
 * [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
 * [AWS Inferentia 를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
 * [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
+* [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
