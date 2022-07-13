@@ -1253,6 +1253,7 @@ Business
 * [리더십 키우기 낙천적 성격과 낙관적 성격의 차이](https://pinkpet79.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EB%82%99%EC%B2%9C%EC%A0%81-%EC%84%B1%EA%B2%A9%EA%B3%BC-%EB%82%99%EA%B4%80%EC%A0%81-%EC%84%B1%EA%B2%A9%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 * [일 잘하는 직원이 꼭 좋은 리더가 되지 못하는 이유 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=15544890)
 * [임원에게도, 팀원에게도 사랑받는 리더의 소통 법칙 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27530572)
+* [홍석환의 인사 잘하는 남자 직원을 성장시키는 리더의 특징 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202108089486Q)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1665,6 +1666,7 @@ Business
 * [스타트업은 유치원이 아닙니다.. 😊 (무표정하게 키보드 치고 있으면서) | by Kurt Lee | Jun, 2022 | Medium](https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f)
   * [스타트업은 유치원이 아닙니다 | GeekNews](https://news.hada.io/topic?id=6878)
 * [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
+* [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
