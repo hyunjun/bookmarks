@@ -4201,6 +4201,7 @@ Javascript
   * [Recoil은 Context API를 어떻게 사용하길래 상태 변경이 일어나도 RecoilRoot의 자식 컴포넌트들에 대한 불필요한 리렌더링을 유발하지 않을까? | Woomin](https://woomin.netlify.app/recoil-context-api-no-rerender/)
   * [React hook 테스트 코드에서 Recoil snapshot 참조하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-03-13-ref-snapshot-from-react-hook-testing)
   * [Recoil, 리액트의 상태관리 라이브러리 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/16/recoil-state-management-of-react/)
+  * [Context API -> Recoil - Byeongjin Jason Kang](https://jasonkang14.github.io/react/introducing-recoil)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
