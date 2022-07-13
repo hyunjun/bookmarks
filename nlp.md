@@ -968,6 +968,7 @@ NLP
   * [KLUE 한국어 데이터 셋 | GeekNews](https://news.hada.io/topic?id=4644)
   * [NIKL-KLUE: 모두의 말뭉치 인공 지능 언어 능력 평가 1등 솔루션입니다](https://github.com/NIKL-Team-BC/NIKL-KLUE)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
+* [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
