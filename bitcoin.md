@@ -364,3 +364,4 @@ Bitcoin
 * [탈중앙화의 원조 월드와이드웹이 DID를 품에 안다](https://stibee.com/api/v1.0/emails/share/WcZop7ckncCmKnEgaIuqi_2P-uVH5s8=)
 * [블파스 Decentralized Society : Web3의 영혼을 찾아서 | 윤두식 - YouTube](https://www.youtube.com/watch?v=NSL_FDNRyKE)
 * [Aleph.im decentralized infrastructure](https://aleph.im/)
+* [웹3에서 차용해보는, "잘 먹히는" 커뮤니티 구축 전략 5단계](https://www.grownbetter.com/article/132)
