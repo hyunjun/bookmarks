@@ -158,6 +158,7 @@ Artificial Intelligence
 * [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
 * [내가 AI 업계를 떠난 이유 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/707/)
 * [Open API를 이용한 고속 논문 분석 | Pega Devlog](https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/)
+* [2022 AI페스티벌 / 실용 인공지능 학술대회 공개세션 - YouTube](https://www.youtube.com/watch?v=js4Lh2RJ5YM)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
