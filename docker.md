@@ -1407,6 +1407,7 @@ Docker
   * [아직은 쿠버네티스를 사용하지 마라 | GeekNews](https://news.hada.io/topic?id=6802)
 * [Kubernetes App Deploy script. 최근 Container 기술이 각광을 받고 있습니다. 그래서 저도… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-app-deploy-script-f6b2ed6f43a5)
 * [Why Mercedes-Benz runs on 900 Kubernetes clusters | InfoWorld](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html)
+* [Setup Microservices on Kubernetes — Write a Configuration File | by Quân Huỳnh | Jul, 2022 | Better Programming](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1664,7 +1665,9 @@ Docker
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [OKD 개요](https://velog.io/@_gyullbb/OKD-%EA%B0%9C%EC%9A%94)
-* [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
+* [Okteto - The Kubernetes development platform](https://okteto.com/)
+  * [okteto: Develop your applications directly in your Kubernetes Cluster](https://github.com/okteto/okteto)
+  * [Okteto Cloud as another way for local development in Kubernetes – Flant blog](https://blog.flant.com/okteto-cloud-for-local-development-in-kubernetes/)
 * [opencost: Cross-cloud cost allocation models for Kubernetes workloads](https://github.com/kubecost/opencost)
   * [OpenCost: Open Source Collaboration on Kubernetes Cost Standards – The New Stack](https://thenewstack.io/opencost-open-source-collaboration-on-kubernetes-cost-standards/)
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
