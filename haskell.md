@@ -385,6 +385,7 @@ Haskell
 * [Choosing an HTML library in Haskell](https://vrom911.github.io/blog/html-libraries)
 * [Implementing HTTP/3 in Haskell - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2020/06/09/155236)
 * [Reverse Dependencies](https://packdeps.haskellers.com/reverse)
+* [21 Awesome Open-Source Haskell Projects](https://serokell.io/blog/best-haskell-open-source-projects)
 * [Awake Security](https://github.com/awakesecurity)
 * [azure-demo - Haskell + Azure DevOps Demo](https://github.com/alasconnect/azure-demo/)
 * Cabal
