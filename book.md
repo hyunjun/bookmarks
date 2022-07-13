@@ -896,3 +896,6 @@ Book
 * (NOT YET) 특별하게 제주 :SNS 속 핫 스폿부터 SNS에 없는 히든 스폿까지
 * (NOT YET) [송일준 PD 제주도 한 달 살기](http://www.jejuilbo.net/news/articleView.html?idxno=164569)
 * (NOT YET) [여행선언문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292070879)
+* (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
+  * [알라딘: 유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
+  * [알라딘: 유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
