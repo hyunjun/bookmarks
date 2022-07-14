@@ -1408,6 +1408,7 @@ Docker
 * [Kubernetes App Deploy script. 최근 Container 기술이 각광을 받고 있습니다. 그래서 저도… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-app-deploy-script-f6b2ed6f43a5)
 * [Why Mercedes-Benz runs on 900 Kubernetes clusters | InfoWorld](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html)
 * [Setup Microservices on Kubernetes — Write a Configuration File | by Quân Huỳnh | Jul, 2022 | Better Programming](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)
+* [Adopting FinOps tool for pod-level Kubernetes cost management | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/05/11/adopting-finops-tool-for-pod-level-kubernetes-cost-management/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
