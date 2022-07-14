@@ -86,6 +86,7 @@ AWS
 * [SD-WAN connectivity with AWS Transit Gateway Connect](https://www.notion.so/SD-WAN-connectivity-with-AWS-Transit-Gateway-Connect-ad8dcc8b43cc4a509d75e4b81a041f8c)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
 * [MFA 활성화하고 계정을 안전하게 관리하기 - YouTube](https://www.youtube.com/watch?v=gTa8pHOrfMg)
+* [AWS 환경에서 사용하는 멀티 팩터 인증(MFA)의 모든 것 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/all-for-mfa-in-aws-environment/)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
 * [AWS IoT SiteWise Example 오픈소스 업로드 :: 세상에서 가장 작은 LTE Cat.M1 모듈](https://codezoo.tistory.com/23)
@@ -568,6 +569,7 @@ AWS
 * [CloudFront 모니터링 하기](https://jojoldu.tistory.com/666)
 * [Datadog vs Grafana vs AWS CloudWatch | by Rajith | Innovation Incubator | Apr, 2022 | Medium](https://medium.com/innovation-incubator/datadog-vs-grafana-vs-aws-cloudwatch-ad9d6063d55c)
 * [Athena로 CloudWatch Logs query 하기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/athena-cloudwatch-logs-query)
+* [클라우드 워치를 통한 프로세스 모니터링 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/07/13/cloudwatch-process-monitoring/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -801,6 +803,7 @@ AWS
 * [EC2 스파크 설치 및 EC2 이미지 생성 - 미완성의신](https://unfinishedgod.netlify.app/2022/03/28/aws-ec2-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%84%A4%EC%B9%98-%EB%B0%8F-ec2-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%83%9D%EC%84%B1/)
 * [GitOps Tutorial: How to Provision an EC2 Instance with Crossplane and Flux | HackerNoon](https://hackernoon.com/gitops-tutorial-how-to-provision-an-ec2-instance-with-crossplane-and-flux)
   * Flux로 Git 소스 저장소를 등록하고 Kustomization을 이용해서 Crossplane으로 EC2 인스턴스를 생성해서 관리하도록 하는 흐름을 등록하는 과정 설명, 이를 테스트할 수 있는 예제 저장소 제공
+* [What is an EC2 instance in AWS || How many types of EC2 instances are there || AWS EC2 IN HINDI || - YouTube](https://www.youtube.com/watch?v=-uqFhUCLUUg)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
