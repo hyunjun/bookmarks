@@ -1879,6 +1879,7 @@ App
   * [Figma Assistant by Grida | Disquiet\*](https://disquiet.io/product/figma-assistant-by-grida) 당신의 디자인 / 개발 어씨스턴트. Figma 에서 Flutter 로 클릭한번에 완성
   * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
   * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
+  * [React 개발자를 위한 피그마 플러그인 개발(feat. 온보딩) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8339/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 
