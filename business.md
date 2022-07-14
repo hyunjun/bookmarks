@@ -1668,6 +1668,7 @@ Business
   * [스타트업은 유치원이 아닙니다 | GeekNews](https://news.hada.io/topic?id=6878)
 * [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 * [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
+* [“스타트업은 용병이 아니라 선교사를 채용하라” (권도균 대표) - YouTube](https://www.youtube.com/watch?v=GJy-hWiB2pg)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
