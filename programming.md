@@ -2323,6 +2323,7 @@ Programming
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [How to do a Code Review: The Ultimate Guide](https://www.codiga.io/blog/code-review-guide-checklist/)
+* [Best Code Reviews Tools in 2022](https://www.codiga.io/blog/best-code-review-tools-2022/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
