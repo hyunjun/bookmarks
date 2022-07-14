@@ -449,6 +449,7 @@ Javascript
 * [알아두면 좋은 WebStorm용 플러그인 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2021/06/plugins-for-webstorm-you-need-to-know-about/)
 * [추천하는 WebStorm Plugin](https://jojoldu.tistory.com/624)
 * [WebStorm에서 TypeScript 파일 단독으로 실행하기](https://jojoldu.tistory.com/669)
+* [FOMO Digest #1: JavaScript 개발을 위한 JetBrains IDE의 새로운 기능 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2022/07/fomo-digest-1/)
 * [**Javascript Image Filter 만들기**](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
@@ -1543,6 +1544,7 @@ Javascript
   * 애플리케이션 코드의 규모가 커졌을 때 전체 사이즈의 경향성도 비교
   * 용량이 전부는 아니지만, 하나의 기준으로 참고하기 좋은 테스트 결과
 * [How do JavaScript Frameworks differ from JavaScript Libraries? | by Thomas Sentre | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-do-javascript-frameworks-differ-from-javascript-libraries-6bd433e395e4)
+* [Use These JavaScript Libraries To Level Up Your Project! - YouTube](https://www.youtube.com/watch?v=ZrFfPIPA5gs)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -3207,6 +3209,7 @@ Javascript
 * [How I structure React apps. Because structuring an app is like… | by Chetan Raj | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/how-i-structure-react-apps-a76304277786)
 * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
 * [번역 탄력적인 컴포넌트 작성하기](https://blog.rhostem.com/posts/2019-07-14-writing-resilient-components)
+* [Use Component Composition to Improve the Reusability of Your React Code | by Fernando Doglio | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-component-composition-to-improve-the-reusability-of-your-react-code-942bf55e0463)
 * [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
@@ -4001,6 +4004,7 @@ Javascript
 * [jotai: 👻 Primitive and flexible state management for React](https://github.com/pmndrs/jotai)
   * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  * [Jotai는 조-타이 라고 읽습니다.. 사내에서 새로운 프로젝트를 맡게 되면서 상태 관리에 대한 필요성을… | by valley | 더핑크퐁컴퍼니 기술 블로그 | Jul, 2022 | Medium](https://medium.com/pinkfong/jotai%EB%8A%94-%EC%A1%B0-%ED%83%80%EC%9D%B4-%EB%9D%BC%EA%B3%A0-%EC%9D%BD%EC%8A%B5%EB%8B%88%EB%8B%A4-6498535abe11)
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
 * Liqvid [Create interactive videos in React | Liqvid](https://liqvidjs.org/)
@@ -4090,6 +4094,7 @@ Javascript
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
   * [Improving page performance | Next.js - YouTube](https://www.youtube.com/watch?v=hZr4J42JDoc)
+  * [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
