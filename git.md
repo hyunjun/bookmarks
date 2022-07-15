@@ -1144,6 +1144,8 @@ Git
 * [Oh My Git!](https://ohmygit.org/) An open source game about learning Git!
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
   * [“깃보다 더 확장 가능하고 빠르다”··· 피줄(Pijul), 베타로 이동 - CIO Korea](https://www.ciokorea.com/news/223129)
+* [Plastic SCM - The Distributed Version Control for Big Projects](https://www.plasticscm.com/)
+  * [플라스틱 SCM - YouTube](https://www.youtube.com/playlist?list=PLNfnSiTQHkLqlh8Dz2scg1w78AA0R-Mhu)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
   * [Probot: Commands를 사용해서 GitHub 댓글로 봇 실행하기](https://blog.outsider.ne.kr/1391)
   * [Probot에서 YAML 설정파일 사용하기](https://blog.outsider.ne.kr/1392)
