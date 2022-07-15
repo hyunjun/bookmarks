@@ -1098,6 +1098,7 @@ Web
   * [자바스크립트 종말각?! HTML에서 파이썬 실행하는 PyScript 등장! - YouTube](https://www.youtube.com/watch?v=3DuyJf_XPtM)
   * [PyScript (Pt.1) — Python Packages in The Browser | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/pyscript-pt-1-python-packages-in-the-browser-c4e165625f32)
   * [PyScript (Pt.2) — Building Wordle with PyScript + Other Examples | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/pyscript-pt-2-building-wordle-with-pyscript-other-examples-8c62c12e788)
+  * [PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
