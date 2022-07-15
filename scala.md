@@ -713,6 +713,7 @@ Scala
     * [practice - collections methods](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-collections_methods-scala)
   * [Linear Collections in Scala: Seq, List, Array, Vector, Set, Range - YouTube](https://www.youtube.com/watch?v=UvUkpduo6uE)
   * [List vs Vector in 2022](https://august.nagro.us/list-vs-vector.html)
+  * [Ep 16: NonEmptyLists more or less - YouTube](https://www.youtube.com/watch?v=7A2xuRkCZBg)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -1356,6 +1357,7 @@ Scala
   * [Validation in Scala 3 with Cats. In this post we are going to see how to… | by Sergio Cano | May, 2022 | Medium](https://medium.com/@canosergio90/validation-in-scala-3-with-cats-ffa999e4186b)
   * [Disjoint Graph Unions: Performance Case Study](https://github.com/mpilquist/graph-unions)
   * [Foldable and Traverse with Scala and Cats 😼 | by Francisco Perrotta | Jul, 2022 | Medium](https://medium.com/@PerrottaFrancisco/foldable-and-traverse-with-scala-and-cats-bf4e5ab08b5b)
+  * [Cats vs ZIO - YouTube](https://www.youtube.com/watch?v=RaQnGCGmWI4)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
