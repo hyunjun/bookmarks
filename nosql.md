@@ -44,6 +44,7 @@ NoSQL
 * [Xata | Serverless Jamstack Database](https://www.xata.io/) combination of a relational database, an analytics engine, and a free-text search engine
 * [Writing a document database from scratch in Go: Lucene-like filters and indexes | notes.eatonphil.com](https://notes.eatonphil.com/documentdb.html)
 * [클라우드 스케일!··· SQL과의 비교로 알아본 NoSQL - CIO Korea](https://www.ciokorea.com/news/242074)
+* [SQL vs NoSQL](https://velog.io/@yh_lee/SQL-vs-NoSQL)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
