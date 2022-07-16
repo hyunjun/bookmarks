@@ -97,6 +97,7 @@
 * [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
 * [100% KOTLIN FRONTEND](https://www.youtube.com/watch?v=dcx64qQvuw0)
 * [How to implement an Object-Pool with an Actor in Kotlin](https://medium.freecodecamp.org/how-to-implement-an-object-pool-with-an-actor-in-kotlin-ed06d3ba6257)
+* [Channel 을 이용한 Actor Model 구현](https://devroach.tistory.com/145)
 * [Deep Dive into object](https://medium.com/@joongwon/kotlin-deep-dive-into-object-a0d6dc649736)
 * [Why Bother with Kotlin - Not Just Another Language Tour](https://www.youtube.com/watch?v=n7-L5w33Esk)
 * [Why You Should Use Class Delegation In Kotlin](https://hackernoon.com/why-you-should-use-class-delegation-in-kotlin-fb0a3ebf151e)
@@ -238,6 +239,7 @@
 * [vararg 로 가변 인자를 전달하는 방법](https://developer88.tistory.com/322)
 * [Kotlin Collection Functions Cheat Sheet](https://medium.com/@elye.project/kotlin-collection-functions-cheat-sheet-975371a96c4b)
   * [Kotlin의 Collection 함수](https://medium.com/hongbeomi-dev/kotlin-collection-%ED%95%A8%EC%88%98-7a4b1290bce4)
+* [Hot And Cold Data Stream](https://devroach.tistory.com/146)
 * [코틀린with,run,let,apply,also](https://brunch.co.kr/@mystoryg/151) 범위 지정 함수
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
