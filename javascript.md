@@ -2090,6 +2090,7 @@ Javascript
   * [Svelte 기초 학습 - YouTube](https://www.youtube.com/playlist?list=PLEU9vwKdoCqQhmfnasP6y_ySfYESiEXdE)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
+    * [SvelteKit 라우팅 구성 시 주의할 점 - DEV Community](https://dev.to/composite/sveltekit-rauting-guseong-si-juyihal-jeom-2cjl)
   * [Svelvet](https://svelvet.io/)
   * [Svelte Add](https://github.com/svelte-add)
     * [Svelte의 안내데스크, svelte-add - DEV Community](https://dev.to/composite/svelteyi-annaedeseukeu-svelte-add-52k7)
@@ -2699,6 +2700,7 @@ Javascript
 * [nodechatapp: Node Express Socket.IO 기본 웹 채팅 샘플 프로젝트](https://github.com/eddykang1074/nodechatapp)
 * [웹 서비스를 위한 Node.js 병렬처리 구현 | 요즘IT](https://yozm.wishket.com/magazine/detail/1556/)
 * [How to Test Side-Effects in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/12/how-to-test-side-effects-in-nodejs.html)
+* [5 Tips to Speed Up Your Node.js Performance | by CODE EVERYWHERE | Jul, 2022 | Medium](https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3212,6 +3214,7 @@ Javascript
 * [번역 탄력적인 컴포넌트 작성하기](https://blog.rhostem.com/posts/2019-07-14-writing-resilient-components)
 * [Use Component Composition to Improve the Reusability of Your React Code | by Fernando Doglio | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-component-composition-to-improve-the-reusability-of-your-react-code-942bf55e0463)
 * [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
+* [React Crash Course - React Component - YouTube](https://www.youtube.com/watch?v=Jze7-iNREh4)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
