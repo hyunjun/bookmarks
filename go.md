@@ -935,6 +935,7 @@ Go
 * [Unit Testing RESTful APIs | TDD | Golang with Docker - YouTube](https://www.youtube.com/watch?v=tTz7b2AongA)
 * [Internals of Go's new fuzzing system — jayconrod.com](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
 * [Unit Testing A Golang Application That Includes HTTP](https://morioh.com/p/7baf5b444bd5)
+* [Testing and benchmarking a Go(Golang) app - YouTube](https://www.youtube.com/watch?v=dzfcsaZ1ZDQ)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [go-testing-mocks: This project is for learning about mocking external services calls](https://github.com/Edmartt/go-testing-mocks)
