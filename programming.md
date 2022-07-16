@@ -1828,6 +1828,7 @@ Programming
 * [Micro Service, Docker로 할 수 밖에 없었던 사연 | Popit](https://www.popit.kr/micro-service-docker%eb%a1%9c-%ed%95%a0-%ec%88%98-%eb%b0%96%ec%97%90-%ec%97%86%ec%97%88%eb%8d%98-%ec%82%ac%ec%97%b0/)
 * [Complex Systems: Microservices and Humans](https://www.infoq.com/presentations/microservices-best-practices/)
 * [Understanding True Microservices. Microservices isn’t about deploying… | by Tyler Eon | InterviewNoodle | Medium](https://medium.com/interviewnoodle/understanding-true-microservices-3c056d7fee37)
+* [5 Ways to Deploy Microservices](https://semaphoreci.com/blog/deploy-microservices)
 * [오늘의집 MSA Phase 1. 백엔드 분리작업 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2022-01-14-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85)
 * [What Breaks Our Systems: A Taxonomy of Black Swans](https://www.infoq.com/presentations/taxonomy-black-swans/)
 * [Reasons for Cancelling a Move to Microservices](https://www.infoq.com/news/2019/08/cancelling-move-to-microservices/)
