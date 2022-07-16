@@ -1409,6 +1409,7 @@ Docker
 * [Why Mercedes-Benz runs on 900 Kubernetes clusters | InfoWorld](https://www.infoworld.com/article/3664052/why-mercedes-benz-runs-on-900-kubernetes-clusters.html)
 * [Setup Microservices on Kubernetes — Write a Configuration File | by Quân Huỳnh | Jul, 2022 | Better Programming](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)
 * [Adopting FinOps tool for pod-level Kubernetes cost management | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/05/11/adopting-finops-tool-for-pod-level-kubernetes-cost-management/)
+* [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
