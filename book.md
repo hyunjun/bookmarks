@@ -330,6 +330,11 @@ Book
 * [남무성 Jazz Life 재즈 라이프](https://blog.naver.com/ruye90/221602764711)
   * 탐라 문673.53남37ㅈ
   * ★★★★★ 2021.11.29~12.01
+* [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
+  * 한라 673.5309-남36ㅍ 1권 탐라 문673.53-남36ㅍ-1~3 우당 문673.5309-남37ㅁ-1
+  * ★★★★★ 2022.07.11~16
+  * [Rock Genealogy](images/paint_it_rock_0.jpg) [Rock Genealogy](images/rock_genealogy.jpeg)
+  * [Progressive rock](images/paint_it_rock_1.jpg)
 * [피카소 / 쥘리 비르망, 클레망 우브르리 - 인간 피카소 - 수평선, 생각](https://sealine86.tistory.com/157)
   * ★★★☆☆ 2021.11.26~27
 * (진중권의) 서양미술사 : 고전예술 편
@@ -361,8 +366,6 @@ Book
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
   * 탐라 개609.2-진76ㅅ
   * 한라 609.2-진76ㅈ
-* (NOT YET) [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
-  * 한라 673.5309-남36ㅍ 1권 탐라 문673.53-남36ㅍ-1~3 우당 문673.5309-남37ㅁ-1
 * (NOT YET) [어쩌다 클래식 | 지이 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165219253)
 * (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
 * (NOT YET) [명화로 보는 단테의 신곡 - 신곡을 좀 더 쉽.. : 네이버블로그](https://blog.naver.com/sanmandi/221567404550)
