@@ -854,6 +854,7 @@ Business
 * [Celeste Headlee: 10 ways to have a better conversation | TED - YouTube](https://www.youtube.com/watch?v=R1vskiVDwl4)
 * [당신의 메세지는 어디에 담겨 있습니까?. 살아가면서 가장 중요한 것은 소통을 하는 일입니다. 말 한마디에 많은… | by 김준형 | Jul, 2022 | Medium](https://medium.com/@ghilbut/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A9%94%EC%84%B8%EC%A7%80%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EB%8B%B4%EA%B2%A8-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-5264e329c63e)
 * [상사가 말하는 '상식', 부하에게도 과연 상식일까](https://contents.premium.naver.com/saramin/waytowork/contents/220711102630929sc)
+* [대화를 지배하는 건 내용이 아닌 말투다 :: ㅇㅎ!](https://www.aha-contents.com/180)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
