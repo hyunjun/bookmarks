@@ -845,6 +845,11 @@ Javascript
 * [valueOf 메소드, 뭐하러 있냐? - DEV Community](https://dev.to/composite/valueof-mesodeu-mweohareo-issnya-1n97)
 * [자바스크립트 중괄호의 노래 - DEV Community](https://dev.to/composite/jabaseukeuribteu-junggwalho-sayongbeob-4e7p)
 * [평문을 HTML로 변환하기 | Univdev](https://www.univdev.page/posts/text-to-html/)
+* [Retry XMLHttpRequest Carefully](https://lofi.limo/blog/retry-xmlhttprequest-carefully)
+  * [(번역) 주의 깊게 XMLHttpRequest 재시도하기. 원문… | by Jung Han | Jul, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%A3%BC%EC%9D%98-%EA%B9%8A%EA%B2%8C-xmlhttprequest-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0-2895dfa66b43)
+    * `XMLHttpRequest`이나 `fetch`로 요청이 실패했을 때 재시도하는 전략 설명
+    * 실패했을 때 즉시 재시도하면 불필요하게 과도한 트래픽을 서버에 일으킬 수 있어서 장애를 더욱 심하게 만들 수 있으므로
+    * 지연시간 추가, 백오프로 실패할수록 지연 시간을 늘리고 이 시간을 랜덤화해서 분산되도록 개선하는 과정 설명
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -2702,6 +2707,13 @@ Javascript
 * [웹 서비스를 위한 Node.js 병렬처리 구현 | 요즘IT](https://yozm.wishket.com/magazine/detail/1556/)
 * [How to Test Side-Effects in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/12/how-to-test-side-effects-in-nodejs.html)
 * [5 Tips to Speed Up Your Node.js Performance | by CODE EVERYWHERE | Jul, 2022 | Medium](https://medium.com/@codeeverywhere/5-tips-to-speed-up-your-node-js-performance-8977153490c1)
+* [Isolating and fixing a memory leak in a real Node.js web application](https://www.useanvil.com/blog/engineering/isolating-memory-leak-in-node/)
+  * Anvil이라는 회사에서 Node.js 앱의 메모리 누수를 추적 과정 설명
+  * 예전에는 서드파티 도구도 많이 사용했지만 이젠 Node.js에 내장된 디버그 모드나 v8.getHeapSnapshot() 등을 사용하는 것이 훨씬 좋지만
+    * 프로덕션에서는 직접 사용하기 어렵고 로컬에서는 환경이 달라서 제대로 추적하기 어려우므로 스테이징 환경 사용
+  * 스테이징에서 메모리 힙 덤프를 뜨도록 설정한 뒤 트래픽을 대량으로 보내면서 메모리를 추적해서 메모리 누수가 있는 코드 파악
+  * 앞의 설명에 비하면 힙 덤프를 비교해서 찾는 과정은 간단해서 더 자세히 설명했으면 좋겠지만
+    * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4011,6 +4023,9 @@ Javascript
   * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Jotai는 조-타이 라고 읽습니다.. 사내에서 새로운 프로젝트를 맡게 되면서 상태 관리에 대한 필요성을… | by valley | 더핑크퐁컴퍼니 기술 블로그 | Jul, 2022 | Medium](https://medium.com/pinkfong/jotai%EB%8A%94-%EC%A1%B0-%ED%83%80%EC%9D%B4-%EB%9D%BC%EA%B3%A0-%EC%9D%BD%EC%8A%B5%EB%8B%88%EB%8B%A4-6498535abe11)
+    * React에서 상태관리를 위해 Redux, Context API, Recoil, Jotai를 비교하고 Jotai를 선택
+      * Recoil처럼 Atom 개념을 쓰고 있고 쉬우면서도 가벼워서 선택
+    * 리액트스럽기 때문에 useState를 쓰듯이 jotai의 useAtom를 사용할 수 있는데 jotai의 동작 방식과 사용 방법 정리
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
 * Liqvid [Create interactive videos in React | Liqvid](https://liqvidjs.org/)
