@@ -1155,6 +1155,7 @@ Programming Books
 * (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
   * 한라
   * [책 vs 책: 정형 vs 비정형 딥러닝](https://jhrogue.blogspot.com/2022/06/vs-vs.html)
+* (NOT YET) [파이토치와 유니티 ML-Agents로 배우는 강화학습 | 위키북스](https://wikibook.co.kr/pytorch-mlagents/)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
