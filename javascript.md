@@ -2128,6 +2128,7 @@ Javascript
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
 * [urlcat: A URL builder library for JavaScript](https://github.com/balazsbotond/urlcat)
 * [urlpack: Pure JavaScript toolkit for data URLs](https://github.com/daangn/urlpack)
+* [useful-js-snippets: Awesome collection of useful javascript snippet 💡](https://github.com/le2sky/useful-js-snippets)
 * [Vanta.js - Animated 3D Backgrounds For Your Website](https://www.vantajs.com/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
