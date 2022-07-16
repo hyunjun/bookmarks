@@ -104,6 +104,7 @@ Concurrency
 * [process와 thread에 대한 정리](https://magi82.github.io/process-thread/)
 * [프로세스 동기화 (Process Synchronization)](https://jungwoon.github.io/os/2019/07/31/Process-Synchronization/) lock, semaphore, mutex, deadlock
 * [메모리 관점에서 본 프로세스(Process)](https://mooneegee.blogspot.com/2015/01/os-process.html)
+* [Difference Between Process And Thread | Process Vs Thread - YouTube](https://www.youtube.com/watch?v=-ukFWIjpU5o)
 
 # Semaphore
 * [Mutex vs Semaphore](http://www.geeksforgeeks.org/mutex-vs-semaphore/)
