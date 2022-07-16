@@ -1140,6 +1140,7 @@ AWS
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
 * [SNS와 Lambda로 백그라운드 작업 처리하기](https://yeoubi.net/2020/01/22/sns-lambda-background-processing/)
+* [How to configure AWS SNS Notification for S3 event | Programmer Block](https://programmerblock.com/configure-aws-sns-notification-for-s3-bucket-event/)
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
 * [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
