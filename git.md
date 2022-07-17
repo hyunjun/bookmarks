@@ -23,6 +23,7 @@ Git
 * [Introduction to Git - Core Concepts - YouTube](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [Introduction to Git - Branching and Merging - YouTube](https://www.youtube.com/watch?v=FyAAIHHClqI)
 * [Introduction to Git - Remotes - YouTube](https://www.youtube.com/watch?v=Gg4bLk8cGNo)
+* [Git과 Github | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-git-github/)
 * [The Universe of Discourse : Things I wish everyone knew about Git (Part I)](https://blog.plover.com/prog/git/tips.html)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)

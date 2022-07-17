@@ -448,6 +448,11 @@ AWS
 * [AWS Inferentia 를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
 * [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
+  * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
+  * 보통 가장 많이 나오는 EC2, RDS, CloudWatch, S3, DynamoDB 등을 살펴보고
+    * Reserved Instance와 Savings Plan을 분기별로 나누어 구매해서 약정해도 유연함을 가지도록 관리하고
+    * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
+  * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)

@@ -1671,6 +1671,15 @@ Business
 * [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 * [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
 * [“스타트업은 용병이 아니라 선교사를 채용하라” (권도균 대표) - YouTube](https://www.youtube.com/watch?v=GJy-hWiB2pg)
+* [Y Combinator: The Institute of Innovation | The Generalist](https://www.readthegeneralist.com/briefing/yc)
+  * [Y Combinator : 혁신 연구소 | GeekNews](https://news.hada.io/topic?id=6952)
+    * Paul Graham, Robert Morris, Trevor Blackwell, Jessica Livingston이 만든 Y Combinator가 어떻게 만들어졌는지 역사 소개
+    * 초기 Batch 1 프로그램과 두 번째 프로그램을 통해 Y Combinator가 어떻게 성장했는지 설명
+    * 이후 YC를 단순한 액셀러레이터가 아니라 Full-Stack Product로 정의하고 Pre-idea부터 Pre-IP까지 다루기 위해 Pre-idea, Idea, Inflection, Growth, Evolution별로 지원
+    * YC는 이 업계에서 이름만으로도 아주 유명하지만 YC가 어떤 영향력을 가지고 있고 어떻게 발전했는지 이해 가능
+* [Launch YC: The Launchpad for YC Startups | Y Combinator](https://www.ycombinator.com/blog/launch-yc-the-launchpad-for-yc-startups)
+  *  Y Combinator가 최근에 투자한 스타트업과 제품 업데이트를 올리는 Launch YC 공개
+  *  YC 내부 플랫폼으로 운영하다가 이번에 공개했고 산업 분야별로 나누어서 볼 수 있음
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

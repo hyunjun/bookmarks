@@ -46,6 +46,13 @@ Programming
   * 온라인에 공개된 로드맵을 기준으로 공부해야 할 부분
   * 코딩테스트에 대한 준비와 기본기를 쌓는 부분
   * 클론코딩과 스터디 모임, 모각코, 콘퍼런스 등에서 이용할 수 있는 사이트와 어떤 부분이 도움 되었는지 설명
+* [토이 프로젝트🤖 주도 학습+성장. 백엔드 스터디나 프론트엔드 스쿨 라이브세션에서 많이 받는 질문이 있다. | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EB%8F%84-%ED%95%99%EC%8A%B5-%EC%84%B1%EC%9E%A5-94fc304984b0)
+  * 토이 프로젝트로 학습하면
+    * 장기기억에서 인출 연습을 할 수 있는 학습 방법이라 효율적
+    * 업무에 비해서 실패해도 괜찮으므로 다양한 시도 가능
+    * 구직/이직을 위한 재료도 될 수 있다
+  * 토이 프로젝트 주제를 정할 때는 주위에 피드백을 받을 수 있는 고객이 있는 것이 좋고 작은 제품으로 일단 시작
+  * 처음 토이 프로젝트를 하려고 해도 아이디어가 없을 수 있는데 직접 만들었던 프로젝트와 효과 등도 정리
 * [a-picture-is-worth-a-1000-words: I am trying to describe complex matters in simple doodles!](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [pr0gr4m/Newbie-Guideline: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서](https://github.com/pr0gr4m/Newbie-Guideline)
@@ -273,6 +280,12 @@ Programming
 * [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks)
 * [‘닮은 듯 다른’ 월가 공룡들의 데브옵스 접근법 - CIO Korea](https://www.ciokorea.com/news/238709) SRE
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
+* [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
+  * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
+    * 딜리버리 히어로에서 트래픽이 계속 성장하는 서비스를 안정적으로 수년간 구축하면서
+      * 인프라팀 없이 분산된 방식으로 일을 하면서 각 테크 리더가 올바르게 일하도록 신뢰성 선언문 작성
+    * 이 문서는 계속해서 개선하고 있는데 아키텍처, 딜리버리, 복원성, 지속적 개선, 보안, 성능 등으로 나누어서 지켜야 할 규칙 정리
+    * 각 항목이 꽤 명확하고 의미가 있어서 정말 좋은 문서
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
@@ -1633,6 +1646,13 @@ Programming
 * [Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service) - YouTube](https://www.youtube.com/watch?v=Op_Os7jVNDg)
 * [Istio  트래픽 흐름 Life of a packet](https://gasidaseo.notion.site/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
   * [Istio 트래픽 흐름 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvPIY7PHDtMaqbUUWEbE6-6H)
+* [Istio / Extending Gateway API support in Istio](https://istio.io/latest/blog/2022/gateway-api-beta/)
+  * Google의 API 경험과 IBM의 Amalgam8 프로젝트의 경험으로 2017년 Istio 공개
+    * 그러나 Kubernetes Ingress API의 한계에 직면했고 이러한 문제를 해결하기 위해 traffic API 작성
+    * Kubernetes SIG Network에서 Ingress 버전 2를 설계하면서 Istio의 traffic API 기반으로 새로운 제안 성립
+  * 이를 바탕으로 Kubernetes Gateway API 작성, Gateway API가 이제 SIG Network에서 베타로 승격
+  * Istio는 2020년 11월 Gateway API 지원 시작, Gateway API가 v1이 될 때 맞춰서 Istio도 변경 예정이나, 기존 Traffic API도 계속 사용 가능
+  * [Kubernetes Gateway API Graduates to Beta | Kubernetes](https://kubernetes.io/blog/2022/07/13/gateway-api-graduates-to-beta/)
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
@@ -3959,6 +3979,7 @@ Programming
   * [기술 뉴스 #199 : 22-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1599)
   * [기술 뉴스 #200 : 22-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1601)
   * [기술 뉴스 #201 : 22-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1606)
+  * [기술 뉴스 #202 : 22-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1607)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call

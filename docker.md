@@ -1824,6 +1824,7 @@ Docker
   * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
   * [Dockerizing a Spring Boot Application and Using the Jib Maven Plugin | by Betül Şahin | Nov, 2021 | Medium](https://betulsahinn.medium.com/dockerizing-a-spring-boot-application-and-using-the-jib-maven-plugin-95c329866f34)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
+* [Kyverno](https://kyverno.io/) Kubernetes Native Policy Management
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [MAAS | Metal as a Service](https://maas.io/)
   * [MAAS Integration with VirtualBox (vboxpower) | by Saeid Bostandoust | ITNEXT](https://itnext.io/maas-integration-with-virtualbox-20d850381c21)

@@ -660,6 +660,8 @@ Web
 * [Two lines of CSS that boosts 7x rendering performance! - DEV Community](https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd)
   * [렌더링 성능을 7배 빠르게 하는 2줄의 CSS | GeekNews](https://news.hada.io/topic?id=6713)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [Defensive CSS](https://defensivecss.dev/)
+  * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
