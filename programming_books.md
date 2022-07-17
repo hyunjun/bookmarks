@@ -129,6 +129,14 @@ Programming Books
     * 해적판(piracy)는 양날의 칼이다. 이익을 갉아먹기도 하지만, 잠재수요와 잠재고객의 식별이 되기도 한다.
     * 민감도 테스트를 적극적으로 하라. 테스트가 되어 얼추 요량이 서면, 가격인상을 주저하지 마라. 이때 떨어져나가는 고객은, 애초에 비고객 또는 언제고 떠날 취약고객일수도 있다.
     * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다.
+* [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
+  * 우당 문005.1-셍41ㄱ
+  * ★★★☆☆ 2022.07.12
+  * [DevRel-Book: <기업의 성공을 이끄는 Developer Relations>책에 실린 리소스 정리와 함께, 데브렐을 이해하는데 도움되실 수있는 링크와 콘텐츠를 공유드립니다](https://github.com/silverjade/DevRel-Book)
+  * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
+  * [기업의 성공을 이끄는 Developer Relations](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_relations.md)
+  * [기업의 성공을 이끄는 Developer Relations. 5 Things We Learned About Creating a… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/why-diversity-matters-mckinsey-8844a963c0db)
+  * [기업의 성공을 이끄는 Developer Relations](https://jh4hj.tistory.com/entry/%EA%B8%B0%EC%97%85%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-Developer-Relations)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -232,10 +240,6 @@ Programming Books
   * 한라 004-이75ㅇ
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
-* (NOT YET) [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
-  * 우당 문005.1-셍41ㄱ
-  * [DevRel-Book: <기업의 성공을 이끄는 Developer Relations>책에 실린 리소스 정리와 함께, 데브렐을 이해하는데 도움되실 수있는 링크와 콘텐츠를 공유드립니다](https://github.com/silverjade/DevRel-Book)
-  * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라
 
