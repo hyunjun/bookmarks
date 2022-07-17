@@ -1190,6 +1190,7 @@ Docker
 * [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
 * [Living with Kubernetes: 12 Commands to Debug Your Workloads – The New Stack](https://thenewstack.io/living-with-kubernetes-12-commands-to-debug-your-workloads/)
+* [Cheat Sheet – Kubernetes and Linux Commands | ReviewNPrep](https://reviewnprep.com/blog/cheat-sheet-kubernetes-and-linux-commands/)
 * [Ariadne Conill on Twitter: "ok guys time to debug kubernetes https://t.co/jNr1OMgWpr" / Twitter](https://twitter.com/ariadneconill/status/1526658992474361857/photo/1)
 * [4 Simple Kubernetes Terminal Customizations to Boost Your Productivity | by Komal Venkatesh Ganesan | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/4-simple-kubernetes-terminal-customizations-to-boost-your-productivity-deda60a19924)
 * [4 ways to run Kubernetes locally | Opensource.com](https://opensource.com/article/20/11/run-kubernetes-locally)
@@ -1410,6 +1411,7 @@ Docker
 * [Setup Microservices on Kubernetes — Write a Configuration File | by Quân Huỳnh | Jul, 2022 | Better Programming](https://betterprogramming.pub/set-up-microservice-on-kubernetes-write-config-file-8df7c2b07a4c)
 * [Adopting FinOps tool for pod-level Kubernetes cost management | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/05/11/adopting-finops-tool-for-pod-level-kubernetes-cost-management/)
 * [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
+* [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2058,6 +2060,7 @@ Docker
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
 * [HBsmith가 VirtualBox에서 Parallels로 갈아탄 이유 | by Jesang Yoon | Hard Boiled Smith Stories](https://blog.hbsmith.io/hbsmith%EA%B0%80-virtualbox%EC%97%90%EC%84%9C-parallels%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-4dab5005302f)
+* [bootstrapping-microservices/example-vagrant-vm: An example Vagrant virtual machine setup with Docker and Terraform installed](https://github.com/bootstrapping-microservices/example-vagrant-vm)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
