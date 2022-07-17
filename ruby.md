@@ -59,6 +59,7 @@ Ruby
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
+* [Ruby DSL Handbook - the ebook about creating Ruby code that speaks your language while avoiding metaprogramming hell. Written by Jim Gay](http://clean-ruby.com/dsl)
 
 # Library
 * [classroom: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub](https://github.com/education/classroom)
