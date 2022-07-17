@@ -264,6 +264,7 @@ Book
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [까면서 보는 해부학 만화](https://www.hanbit.co.kr/store/books/look.php?p_code=B3354514449)
   * 한라 511.4-압26ㅎ 탐라 문511.4-압227ㅎ 우당 문511.4-압227ㅎ
+* (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
