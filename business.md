@@ -91,6 +91,7 @@ Business
 * [쿠팡, 이러다 큰일 난다. 실적 뜯어본 회계사의 경고 f. 이재용 회계사 컴퍼니 백브리핑 - YouTube](https://www.youtube.com/watch?v=1VA9DcCvASg)
 * [티몬의 기업가치가 떡락한 이유](https://brunch.co.kr/@trendlite/255)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
+* ['3중고' 겪고 있는 토스 해부 - YouTube](https://www.youtube.com/watch?v=ucPqG3E6o9M)
 * [쏘카 패스트파이브 재무제표 뜯어보기 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=H_Ia5oHT7nc)
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
 * [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
@@ -257,6 +258,7 @@ Business
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [기획이 소설은 아니니까 경영을 과학으로 어떻게 만들 것인가](https://brunch.co.kr/@lunarshore/336)
+* [신입 때 키운 기획력이 동기보다 5년 앞선 커리어를 만든다ㅣSeries.04 | 원티드](https://www.wanted.co.kr/events/21_07_s04_t011)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
@@ -298,6 +300,7 @@ Business
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
 * [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
 * [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
+* [감정을 다스리는 7가지 기술 - Wonderful Mind](https://wonderfulmind.co.kr/7-techniques-processing-your-emotions/)
 * [스포티파이에서는 결정권자인지 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
@@ -532,6 +535,7 @@ Business
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
 * [명확하게 요구해야 하는 3가지 이유](http://moneyman.kr/archives/3949)
 * [아무 것도 하지 않으면 아무 일도 일어나지 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242688)
+* [인정받고자 하는 욕구를 배반하는 5가지 태도 - Wonderful Mind](https://wonderfulmind.co.kr/5-attitudes-betray-need-for-approval/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -855,6 +859,8 @@ Business
 * [당신의 메세지는 어디에 담겨 있습니까?. 살아가면서 가장 중요한 것은 소통을 하는 일입니다. 말 한마디에 많은… | by 김준형 | Jul, 2022 | Medium](https://medium.com/@ghilbut/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A9%94%EC%84%B8%EC%A7%80%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EB%8B%B4%EA%B2%A8-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C-5264e329c63e)
 * [상사가 말하는 '상식', 부하에게도 과연 상식일까](https://contents.premium.naver.com/saramin/waytowork/contents/220711102630929sc)
 * [대화를 지배하는 건 내용이 아닌 말투다 :: ㅇㅎ!](https://www.aha-contents.com/180)
+* [대화 잘하는 사람의 5가지 특징](http://moneyman.kr/archives/3448)
+* [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
