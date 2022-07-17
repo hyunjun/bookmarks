@@ -382,6 +382,7 @@ Functional Programming
 * [PyCon AU 2018 | FP demystified](https://2018.pycon-au.org/talks/45075-fp-demystified/)
 * [Going Functional in Python (with code) | by Hair Parra | Analytics Vidhya | Sep, 2020 | Medium](https://medium.com/analytics-vidhya/going-functional-in-python-with-code-b50ba7742469)
 * [Functioning with python functional programming- lambda, map, filter, zip, reduce, accumulate | LinkedIn](https://www.linkedin.com/pulse/functioning-python-functional-programming-lambda-map-shaleen-taneja/)
+* [3 Simple Ideas From Functional Programming To Improve Your Code - YouTube](https://www.youtube.com/watch?v=4B24vYj_vaI)
 * [funcy: A fancy and practical functional tools](https://github.com/Suor/funcy)
   * [A collection of fancy functional tools focused on practicality](https://pythonawesome.com/a-collection-of-fancy-functional-tools-focused-on-practicality/)
 * [Monads, in my Python? by Xuanyi Chew - YouTube](https://www.youtube.com/watch?v=WNwV3wR4JjA)
