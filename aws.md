@@ -849,6 +849,7 @@ AWS
   * EKS on ECS에서는 cluster-autoscaler보다 karpenter가 더 빠르고 IPv6를 썼을 때 약간 더 빠름
 * [AWS ECS Anywhere - Part 1 (클러스터 생성 및 외부 인스턴스 등록)](https://zigispace.net/1133)
 * [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
+* [AWS ECS Fargate Demo | AWS ECS Tutorial | AWS Fargate - YouTube](https://www.youtube.com/watch?v=C8Z8XrGTicQ)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EFS
@@ -1658,6 +1659,7 @@ AWS
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [How To Install and Configure Terraform on Amazon Cloud - DevOps Titan](https://devopstitan.com/how-to-install-and-configure-terraform-on-amazon-cloud/)
 * [Terraform을 활용한 NCP 인프라 생성. IAC (Infrastructure as a Code)란? | by 노윤지 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/terraform%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ncp-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%9D%EC%84%B1-2a2be6a94687)
+* [Terraform Archives - DevOps Titan](https://devopstitan.com/category/terraform/)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
