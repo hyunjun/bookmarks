@@ -265,6 +265,7 @@ Book
 * (NOT YET) [까면서 보는 해부학 만화](https://www.hanbit.co.kr/store/books/look.php?p_code=B3354514449)
   * 한라 511.4-압26ㅎ 탐라 문511.4-압227ㅎ 우당 문511.4-압227ㅎ
 * (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
+* (NOT YET) 지극히 사적인 러시아 ['비정상' 일리야가 말하는 러시아…러시아인들은 왜 푸틴을 좋아할까?](https://www.pressian.com/pages/articles/2022071516575646212)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
