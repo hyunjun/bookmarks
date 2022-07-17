@@ -527,6 +527,12 @@ Programming Books
     * [ms-deploy/ms-flights at master · implementing-microservices/ms-deploy](https://github.com/implementing-microservices/ms-deploy/tree/master/ms-flights)
 * [자바 마이크로서비스를 활용한 SRE](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-SRE)
   * [자바 마이크로서비스를 활용한 SRE. SRE는 구글에서 비롯되었다. 대규모 서비스를 하는 회사 특성상… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B0%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-sre-f8878efeedba)
+* [도커, 쿠버네티스, 테라폼으로 구현하는 마이크로서비스 | 에이콘출판사](http://acornpub.co.kr/book/bootstrapping-ms)
+  * 탐라 문005.12-데69ㄷ
+  * [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform/)
+  * [bootstrapping-microservices](https://github.com/bootstrapping-microservices)
+  * [AcornPublishing/bootstrapping-ms: 도커, 쿠버네티스, 테라폼으로 구현하는 마이크로서비스](https://github.com/AcornPublishing/bootstrapping-ms)
+  * [Code Capers](https://www.the-data-wrangler.com/)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
   * 한라 005.12-브296ㅁ
   * [microservices-in-action: Examples and code for Microservices In Action](https://github.com/morganjbruce/microservices-in-action)
