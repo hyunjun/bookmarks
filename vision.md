@@ -677,6 +677,7 @@ Vision
 * [OpenCV - YouTube](https://www.youtube.com/playlist?list=PLg-IITsdNncg_adeJbNBok8ubZtj0UGHr)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
+* [GymLytics: Visual Analytics of different exercises for humans 🏋️](https://github.com/akshaybahadur21/GymLytics)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 * [pyimagesearch.com](http://www.pyimagesearch.com/)
   * [Image Difference with OpenCV and Python](http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
