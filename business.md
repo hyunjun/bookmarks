@@ -861,6 +861,7 @@ Business
 * [대화를 지배하는 건 내용이 아닌 말투다 :: ㅇㅎ!](https://www.aha-contents.com/180)
 * [대화 잘하는 사람의 5가지 특징](http://moneyman.kr/archives/3448)
 * [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
+* [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
