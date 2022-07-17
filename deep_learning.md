@@ -1232,6 +1232,18 @@ Deep Learning
   * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
   * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
 * [malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
+* [Rarity-Score: Rarity Score : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)
+  * 생성모델 연구하시는 분들을 위해 유용한 평가지표(metric)
+  * 생성모델의 metric이라고 하면 Inception score나 FID 연상하나 다음과 같은 한계 존재
+    * 기본적으로 이미지의 품질 측정에 적합한 녀석들이라 모델이 얼마나 다양한 이미지를 만들어내는지 평가하기 어려움
+    * 생성된 이미지에 매겨지는 점수가 아니라 많은 생성 이미지들로 부터 계산된 분포 기반으로 계산되는 모델에 매겨지는 점수여서 특정 이미지가 얼마나 좋은 점수를 갖는지 알기 어려움
+    * 이건 Precision & Recall이나 NAVER CLOVA 의 density & coverage도 마찬가지
+    * LPIPS같은 다양성 척도가 있긴 하나 이 또한 모델에 매겨지는 지표
+  * 특히 요즘같이 생성모델이 얼마나 창의적이고 독특한 이미지를 잘 만들어내는가가 중요한 시점에 그리고 만들어진 개별 이미지가 일정 수준 이상 품질을 유지하면서 독특한 정도를 평가할 수 있다면 매우 유용
+    * CLOVA AI Lab에서 KAIST-NAVER Hypercreative Center Jaesik Choi 교수님 연구실과 함께 한지연님 주도로 Rarity-score 작성
+  * rarity-score는 학습이미지 데이터 latent feature와의 거리기반으로 각 생성된 이미지가 얼마만큼 훈련 데이터들과 비교했을 때 전형적인지 아닌지를 이미지 단위로 계산. 점수가 클수록 특이한 이미지
+    * 이미지 개별 점수를 계산 수 있으니 누적을 통해 점수분포를 히스토그램 형태로 그려서 각 생성모델이 얼마나 독특한 이미지를 만들어낼 수 있는지도 평가 가능
+    * 다양한 실험으로 각 모델마다 rarity-score와 feature extractor 효과, FID 유지를 위해 널리 쓰이는 truncation trick이 독특함에 미치는 효과 등을 확인 가능
 * [sefa: Code for paper `Closed-Form Factorization of Latent Semantics in GANs`](https://github.com/genforce/sefa)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
 * [This beach does not exist](https://thisbeachdoesnotexist.com/)
