@@ -52,3 +52,4 @@ Psychology
 * [화 내지 않고 어른스럽게 컴플레인 하는 방법 – 체인지그라운드](http://thechangeground.com/archives/16611)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
 * [손흥민, 득점왕 압박감에도 "하하"..뇌과학에 그 비밀이](https://news.v.daum.net/v/20220528064701668)
+* [말을 통한 심리적 조종의 9가지 징후 - Wonderful Mind](https://wonderfulmind.co.kr/psychological-manipulation-words/)
