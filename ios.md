@@ -297,6 +297,7 @@ iOS
 * [Swift : Struct 와 Class 에 대한 개인적인 생각들~ | Medium](https://showcove.medium.com/swift-struct-vs-class-1-68cf9cbf87ca) struct with protocol vs class
 * [Generics](http://wlaxhrl.tistory.com/60)
 * [Swift Generics](https://dailyhotel.io/swift-generics-5d88e834b2cc)
+* [Swift Generics와 타입 시스템 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-generics/)
 * [Access Control](http://wlaxhrl.tistory.com/61)
 * [Basic Operators](http://wlaxhrl.tistory.com/72)
 * [Advanced Operators](http://wlaxhrl.tistory.com/62)
