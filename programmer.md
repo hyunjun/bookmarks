@@ -145,6 +145,7 @@ Programmer
 * [Thorsten Ball - Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 * [소프트웨어 개발자가 ‘소프트 스킬’ 쌓는 방법 :: Channy's Blog](https://channy.creation.net/blog/1593) soft skill
 * [27년차 실리콘밸리 개발자의 인생 이야기 한기용 1부 - YouTube](https://www.youtube.com/watch?v=nLL409se8sM&t=578s)
+* [40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 한기용 2부 - YouTube](https://www.youtube.com/watch?v=XKqLz6WJSRA)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
