@@ -1412,6 +1412,7 @@ Docker
 * [Adopting FinOps tool for pod-level Kubernetes cost management | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/05/11/adopting-finops-tool-for-pod-level-kubernetes-cost-management/)
 * [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
 * [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
+* [Kubernetes Deployment Strategies | DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=aU-EtdEOdlM)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
