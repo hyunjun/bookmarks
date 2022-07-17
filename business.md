@@ -1447,6 +1447,7 @@ Business
 * [What do I do as a Product Manager? - YouTube](https://www.youtube.com/watch?v=pCmh6XaMVxs)
   * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
 * [얼떨결에 프로덕트 오너](https://brunch.co.kr/@cliche-cliche/149)
+* [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
