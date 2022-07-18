@@ -556,6 +556,11 @@ Machine Learning
 * [Getting hyped about automated hyperparameter tuning](https://sararobinson.dev/2019/09/12/hyperparameter-tuning-xgboost.html) xgboost
 * [Intro to XGBoost Models (decision-tree-based ensemble ML algorithms) - YouTube](https://www.youtube.com/watch?v=0ikyjpaUDFQ)
 * [XGBoost 개념 정리 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1643)
+* [한국어 XGBoost Tutorial | Kaggle](https://www.kaggle.com/code/songseungwon/xgboost-tutorial/notebook)
+  * 캐글 카드 미납 예측(American Express - Default Prediction) 대회에서 ratings 1위를 하고 있는 커널 한국어 튜토리얼
+  * 1) 개인 GPU 없이 캐글 서버로도 실행할 수 있도록 Data Load하는 부분을 배치-잡으로 변경, CPU to GPU로 던져주면서 데이터 프로세싱 하도록 수정
+  * 2) RAPIDS로 GPU 기반 데이터 프로세싱하는 것부터 간단명료하게 XGB 최적화하는 것까지 원문 내용이 매우 좋음. 전반적인 한국어 설명과 주석을 코드 한줄 한줄마다 추가
+  * 3) CPU뿐만 아니라 GPU 메모리 관리하는 부분에 대해 전반적으로 공부할 수 있도록 변수 복사 및 참조 개념부터 차근차근 작성
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
