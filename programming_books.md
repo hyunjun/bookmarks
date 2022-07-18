@@ -1285,6 +1285,8 @@ Programming Books
   * 한라 005.115-버195ㄷ
 * (NOT YET) [도메인 주도 설계 첫걸음 | 위키북스](https://wikibook.co.kr/lddd/)
   * 한라 005.115-코195ㄷ
+  * [vladikk/learning-ddd](https://github.com/vladikk/learning-ddd)
+  * [wikibook/lddd: 《도메인 주도 설계 첫걸음》 예제 코드](https://github.com/wikibook/lddd)
 
 # Elasticsearch
 
