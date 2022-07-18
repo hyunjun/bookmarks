@@ -1679,6 +1679,7 @@ Business
 * [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
 * [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
 * [“스타트업은 용병이 아니라 선교사를 채용하라” (권도균 대표) - YouTube](https://www.youtube.com/watch?v=GJy-hWiB2pg)
+* [스타트업 CEO들이 가장 많이 하는 실수 (권도균 대표) - YouTube](https://www.youtube.com/watch?v=07BEUEu9nwM)
 * [Y Combinator: The Institute of Innovation | The Generalist](https://www.readthegeneralist.com/briefing/yc)
   * [Y Combinator : 혁신 연구소 | GeekNews](https://news.hada.io/topic?id=6952)
     * Paul Graham, Robert Morris, Trevor Blackwell, Jessica Livingston이 만든 Y Combinator가 어떻게 만들어졌는지 역사 소개
