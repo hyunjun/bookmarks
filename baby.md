@@ -63,6 +63,7 @@ Baby
 * [물고기 잡는 법](https://www.thestartupbible.com/2019/10/show-your-founder-how-to-catch-a-fish-and-she-will-make-magic-happen.html) 투자 이야기이지만 어느 교육에나 적용할 수 있는 이야기
 * [심정섭의 학군과 교육](https://blog.naver.com/jonathanshim)
 * [기사 - 사교육에 빨대 꽂힌 학부모들 2: 공교육과 독서면 충분하다](https://www.ddanzi.com/ddanziNews/695545873)
+* [아이들의 창의성이 사라지는 것에 대한 단편 영화: 어라이크(Alike) - Wonderful Mind](https://wonderfulmind.co.kr/alike-short-film-reflect-childrens-creativity/)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
