@@ -151,6 +151,7 @@ Algorithm
 * [2021 카카오 인턴십 for Tech developers 코딩 테스트 해설 – tech.kakao.com](https://tech.kakao.com/2021/07/08/2021-%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%9d%b8%ed%84%b4%ec%8b%ad-for-tech-developers-%ec%bd%94%eb%94%a9-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%95%b4%ec%84%a4/)
 * [2022 카카오 신입공채 1차 온라인 코딩 테스트 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)
 * [2022 카카오 신입공채 2차 온라인 코딩 테스트 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2022/02/04/2022-kakao-recruitment-round-2/)
+* [2022 테크 여름인턴십 코딩테스트 해설 – tech.kakao.com](https://tech.kakao.com/2022/07/13/2022-coding-test-summer-internship/)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 * ["I don't know the numbers": a math puzzle · Caffeinspiration](https://alexanderell.is/posts/numbers-game/)
