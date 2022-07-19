@@ -208,6 +208,7 @@ Google Cloud Platform GCP
 * [GCGS를 이용한 게임 서버 배포. Agones라는 OSS를 이용해 Kubernetes에 Dedicated… | by 김도영 | Cloud Villains | Apr, 2022 | Medium](https://medium.com/ctc-mzc/gcgs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC-4df8cb22dc7)
 * [GCP Kubernets deployment strategy - YouTube](https://www.youtube.com/watch?v=IueIS-u3xXk)
 * [GKE에서 Calico CNI 사용하기. Why? | by 김도영 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/gke%EC%97%90%EC%84%9C-calico-cni-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b3fa505e6f38)
+* [Load-testing TensorFlow Serving and FastAPI on GKE | by Chansung Park and Sayak Paul | Google Developers Experts](https://medium.com/google-developer-experts/load-testing-tensorflow-serving-and-fastapi-on-gke-411bc14d96b2)
 
 # Library
 * [gcpdiag](https://gcpdiag.dev/)
