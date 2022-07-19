@@ -167,6 +167,7 @@
 * [Optics/Lens 내 멋대로 Optics 이해하기 Feat) arrow-kt](https://see-ro-e.tistory.com/333)
 * [Get started with Kotlin/JS for React | Kotlin](https://kotlinlang.org/docs/js-get-started.html)
   * [kotlin to javascript (client side) - 밍피디의 개발노트](https://mingpd.github.io/2019/04/18/newtech/kotlin-to-javascript/)
+* [Different ways to distribute and integrate Kotlin/JS library - DEV Community](https://dev.to/touchlab/different-ways-to-distribute-and-integrate-kotlinjs-library-1hg3)
 * [Meta-Programming with Kotlin for Android | by Mehdi Yari | Apr, 2022 | ProAndroidDev](https://proandroiddev.com/meta-programming-with-kotlin-for-android-6097307a9fe3)
 * [(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?](https://jojoldu.tistory.com/671)
 * [Context Receivers Are Coming to Kotlin! - YouTube](https://www.youtube.com/watch?v=GISPalIVdQY)
