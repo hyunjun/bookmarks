@@ -203,6 +203,7 @@ Art
   3. 작품 선택 후 이미지를 클릭해 확대. 작품 이미지 밑에 다운로드 버튼이 있다면 다운 가능 e.g. [A Sunday on La Grande Jatte — 1884](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884)
 * [개발자의 그림 읽기: 아테네 학당](http://blog.hwang.gg/20190216)
 * [장 미쉘 바스키아의 빛과 그림자 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/3752)
+* [컬렉션의 세계, 미래를 내다본 최고 컬렉터는? < 문화 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1146)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
