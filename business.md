@@ -1621,6 +1621,7 @@ Business
   * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
+* [어떻게 이직할 것인가? | RBBM](https://www.redbusbagman.com/howtoarrivewell/)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
@@ -1713,6 +1714,7 @@ Business
 * [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (2)](https://brunch.co.kr/@suzy8347/11)
 * [고객이 원하는게 무엇인지 모르겠다면 이 방법들을 활용해보세요 - YouTube](https://www.youtube.com/watch?v=7u4puOduOMA)
 * [칼럼 | ‘콰이강의 다리 문제’··· 테크놀로지스트의 전형적인 실수 - CIO Korea](https://www.ciokorea.com/news/236719) 고객이 진짜로 이용할 무언가를 만들기
+* [사용자 습관 형성을 위한 6가지 방법](https://brunch.co.kr/@cliche-cliche/156)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
@@ -1769,6 +1771,7 @@ Business
 * [롯데ON은 어떤 보이스&톤으로 고객과 커뮤니케이션하고 있을까? | by hey choi | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EB%A1%AF%EB%8D%B0on%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%B3%B4%EC%9D%B4%EC%8A%A4%EC%95%A4%ED%86%A4%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EA%B0%9D%EA%B3%BC-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-51ccec5bc18b)
 * [카카오워크 캘린더팀에서 사용한 figma를 이용한 기획-디자이너-QA-개발 방법](https://velog.io/@teo/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-%EC%BA%98%EB%A6%B0%EB%8D%94%ED%8C%80%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%9C-figma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-QA-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
 * [How To Use Storytelling In UX — Smashing Magazine](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
+* [실전 UI/UX -  피플카 고객경험 개선하기](https://brunch.co.kr/@fbrudtjr1/52)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
