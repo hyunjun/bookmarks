@@ -252,6 +252,7 @@ Web
 * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) http cache
 * [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
 * [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
+* [웹 개발 시간을 줄여주는 팁 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1585/)
 
 # Apache
 * installation
