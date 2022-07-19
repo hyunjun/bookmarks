@@ -278,7 +278,9 @@
 * [snakeos: bootable x86 snake game in rust](https://github.com/trusch/snakeos)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
 * [swcify](https://github.com/Shopify/swcify) wraps swc with a napi-rs package that implements custom transforms used by Shopify
-* [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
+* [tauri: Build smaller, faster, and more secure desktop applications with a web frontend](https://github.com/tauri-apps/tauri)
+  * [Create Modern Desktop Apps With Tauri & ReactJS - YouTube](https://www.youtube.com/watch?v=BbZmLXBDGnU)
+  * [Tauri에 대한 몇가지 포인트 | Daniel Lee](https://typefully.com/dylayed/XIF9j9L)
 * [tlqkf: You feeling 'tlqkf' when using shell, typing 'tlqkf'](https://github.com/juunini/tlqkf)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
