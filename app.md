@@ -1138,6 +1138,7 @@ App
     * macOS의 생산성 도구 중 하나인 Alfred를 이용해 원하는 네이버 카페에서 바로 검색하는 커스텀 워크플로우 작성 방법 설명
     * 네이버 카페가 UTF-8이 아니라 CP949이므로 이를 변환하는 Python과 PHP 스크립트를 작성
   * [네이버 카페 검색용 알프레드 워크플로우 v2 - 코드쓰는사람](https://taegon.kim/archives/10419)
+  * [원클릭으로 Zoom 미팅에 입장하기 for MacOS. 코로나 이후 많은 미팅이 온라인에서 이뤄진다. 주로 Google… | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%EC%9B%90%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-zoom-%EB%AF%B8%ED%8C%85%EC%97%90-%EC%9E%85%EC%9E%A5%ED%95%98%EA%B8%B0-for-macos-38f18c69b80c)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
@@ -2163,6 +2164,7 @@ App
 * [X server 4 Windows 10](https://x410.dev/)
 
 # VPN
+* [“무료인데 속도까지 빠르다” 최고의 크롬 브라우저용 VPN 4선 - ITWorld Korea](https://www.itworld.co.kr/news/244898)
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
 * [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
