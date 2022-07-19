@@ -1690,6 +1690,8 @@ Business
 * [Launch YC: The Launchpad for YC Startups | Y Combinator](https://www.ycombinator.com/blog/launch-yc-the-launchpad-for-yc-startups)
   *  Y Combinator가 최근에 투자한 스타트업과 제품 업데이트를 올리는 Launch YC 공개
   *  YC 내부 플랫폼으로 운영하다가 이번에 공개했고 산업 분야별로 나누어서 볼 수 있음
+* [😸 Github - by Ali Abouelatta - First 1000](https://read.first1000.co/p/-github)
+  * [github같이 혁신적인 서비스는 이렇게 만들어진다](https://brunch.co.kr/@nanotoly/86)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
