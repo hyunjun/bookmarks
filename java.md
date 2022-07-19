@@ -1047,6 +1047,7 @@ Java
 * [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
 * [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 * [Java Garbage Collection - Java Heap Debugging](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
+* [**JVM + Container 환경에서 수상한 Memory 사용량 증가 현상 분석하기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/07/19/suspicious-jvm-memory-in-container.html) 매우 좋은 분석 debugging 글
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [GCGC](https://github.com/apple/GCGC)
   * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
