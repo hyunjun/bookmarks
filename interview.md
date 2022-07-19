@@ -442,6 +442,7 @@ Interview
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
     * [How to build a Tiny URL service that scales to billions? | by Vaibhav Singh | The Startup | Medium](https://medium.com/swlh/how-to-build-a-tiny-url-service-that-scales-to-billions-f6fb5ea22e8c)
     * [초보 개발자 URL Shortener 서버 만들기 1편 : Base62와 춤을 | by Jaeyeoul Ahn | Monday 9 PM | Jan, 2022 | Medium](https://medium.com/monday-9-pm/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-url-shortener-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%8E%B8-base62%EC%99%80-%EC%B6%A4%EC%9D%84-9acc226fb7eb)
+    * [System Design Interview: Tiny Url](https://www.hackpack.io/problems/tiny-url)
   * Social Media
     * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247) timeline architecture 개선
     * [**소셜 네트워크 서비스의 아키텍처에 대하여**](https://d2.naver.com/helloworld/551588) push vs. pull에 대한 매우 좋은 분석글
@@ -519,6 +520,7 @@ Interview
   * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
   * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
   * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
+  * [System Design Interview: Search Engine](https://www.hackpack.io/problems/search-engine)
   * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
   * [인터뷰 : 시스템 / API 디자인](https://ko.programqa.com/question/14061381/)
   * [Notification Service System Design Interview Question to handle Billions of users & Notifications - YouTube](https://www.youtube.com/watch?v=CUwt9_l0DOg)
