@@ -160,6 +160,7 @@ Deep Learning
   * [Introducing Text and Code Embeddings in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/)
   * [Solving (Some) Formal Math Olympiad Problems](https://openai.com/blog/formal-math/)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+    * [DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)￼ – 이바닥늬우스](https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
