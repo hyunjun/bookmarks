@@ -1452,6 +1452,7 @@ Docker
     * [Kubernetes CI/CD with Tekton and ArgoCD - Piotr's TechBlog](https://piotrminkowski.com/2021/08/05/kubernetes-ci-cd-with-tekton-and-argocd/)
     * [Create and Manage Kubernetes Clusters with Cluster API and ArgoCD](https://piotrminkowski.com/2021/12/03/create-kubernetes-clusters-with-cluster-api-and-argocd/)
     * [How to implement GitOps with ArgoCD to deploy Helm Charts on Kubernetes | Level Up Coding](https://levelup.gitconnected.com/gitops-ci-cd-using-github-actions-and-argocd-on-kubernetes-909d85d37746)
+    * [How to Deploy the Application automatically using Argo CD - FoxuTech](https://foxutech.com/how-to-create-the-application-automatically-using-argo-cd/)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
