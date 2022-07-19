@@ -1413,6 +1413,7 @@ Docker
 * [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
 * [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
 * [Kubernetes Deployment Strategies | DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=aU-EtdEOdlM)
+* [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1565,6 +1566,7 @@ Docker
 * [Krustlet - a Kubelet written in Rust](https://krustlet.dev/)
 * [KServe: A Robust and Extensible Cloud Native Model Server – The New Stack](https://thenewstack.io/kserve-a-robust-and-extensible-cloud-native-model-server)
   * [Kubeflow KFServing 그 존재의 이유](https://devocean.sk.com/blog/techBoardDetail.do?ID=163645)
+  * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: KServe 이 보다 더 쉬운 ML Model Serving 은 없다](https://ahnseungkyu.com/302)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
