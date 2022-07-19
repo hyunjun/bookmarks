@@ -726,6 +726,7 @@ Web
 * [HTML 요소 inert 속성에 대해 알아보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220603)
 * [Write HTML Right](http://lofi.limo/blog/write-html-right)
 * [하이퍼링크를 신뢰할 수 없다면? noopener, noreferrer, nofollow - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/07/11/When-should-we-apply-noopener-noreferrer-nofollow-on-hyperlinks.html)
+* [How To Add Javascript To HTML Page | by React Dojo | Jul, 2022 | Medium](https://akbar-alizadeh5.medium.com/javascript-where-to-aba0ac91054f)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
