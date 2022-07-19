@@ -864,6 +864,7 @@ SQL
 * [PostgreSQL 업그레이드 이야기](http://nrise.github.io/2016/08/19/upgradedatabase/)
 * [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)
 * [MySQL vs PostgreSQL - Why you shouldn't use MySQL](https://www.youtube.com/watch?v=emgJtr9tIME)
+* [PostgreSQL Schema를 MySQL로 마이그레이션 시켜보자](https://donghun.dev/PostgreSQL-To-MySQL)
 * [PostgreSQL 9.6 Parallel Query & FDW](http://www.popit.kr/postgresql-9-6-parallel-query-fdw/)
 * [Parallel queries in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/21/parallel-queries-in-postgresql/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
