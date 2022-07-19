@@ -304,6 +304,7 @@ Bitcoin
 * [하워드 슐츠는 왜 NFT를 들고 컴백했을까? - 티타임즈](https://www.ttimes.co.kr/article/2022052517357716622)
 * [**NDC22 NFT, 게임의 혁명인가 신기루인가?**](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151141)
 * [NFTGo 소셜 미디어의 재정의: 현재 Web2에서 Web3까지](https://blog.naver.com/nftgo/222804465178)
+* [프리민트(free-to-mint)에 대하여](https://ansubin.com/free-to-mint/)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
@@ -330,6 +331,7 @@ Bitcoin
 * [상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부 - T Times](http://www.ttimes.co.kr/view.html?no=2022012616397756758)
 * [The Promise of DAOs, the Latest Craze in Crypto | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
 * [DAO에 대한 생각](https://www.thestartupbible.com/2022/04/some-thoughts-on-dao.html)
+* [How Blockchain Is Reinventing Entrepreneurship For Developing Countries](https://www.forbes.com/sites/forbestechcouncil/2022/07/05/how-blockchain-is-reinventing-entrepreneurship-for-developing-countries/)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
 * [웹삼뽀개기](https://page.stibee.com/archives/156387)
