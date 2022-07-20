@@ -961,13 +961,14 @@ TensorFlow
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows)
 * [Tensorflow-Project-Template - A best practice for tensorflow project template architecture](https://github.com/MrGemy95/Tensorflow-Project-Template)
-* TensorFlow.text
-  * [Google launches TensorFlow.Text library for language AI models](https://venturebeat.com/2019/06/10/google-launches-tensorflow-text-library-for-language-ai-models)
 * TENSORFLOWSHARP
   * [01. 기본 함수 사용하기(콘솔 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp01.html)
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)
   * [03-1 내가 만든 TENSORFLOW SLIM 모델 사용 (INCEPTIONV1 CKPT TO PB CONVERSION)](https://euhyeji.blogspot.com/2018/08/Tensorflowsharp031.html)
   * [03-2 내가 만든 TENSORFLOW SLIM 모델 사용 (INCEPTIONV1 PREPROCESSING IN TENSORFLOWSHARP)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp032.html))
+* TensorFlow.text
+  * [Google launches TensorFlow.Text library for language AI models](https://venturebeat.com/2019/06/10/google-launches-tensorflow-text-library-for-language-ai-models)
+* [tensorflow-triplet-loss: Implementation of triplet loss in TensorFlow](https://github.com/omoindrot/tensorflow-triplet-loss)
 * [TensorflowTTS - Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
 * [Tensorlang, a differentiable programming language based on TensorFlow](https://github.com/tensorlang/tensorlang)
 * [TensorLy: Tensor Learning in Python](http://tensorly.org/)
