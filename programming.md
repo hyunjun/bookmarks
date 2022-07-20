@@ -1861,6 +1861,7 @@ Programming
 * [크몽 MSA 도입 이야기. 크몽 서버 아키텍처는 어떻게 변화 했을까? | by DanielSeo | May, 2022 | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-msa-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-6c20afe6cc1e)
 * [Micro-services - Client Side Discovery - YouTube](https://www.youtube.com/watch?v=Zmk2LZGZ9dE)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
+* [**How to Test Microservices**](https://semaphoreci.com/blog/test-microservices)
 * [**MSA 환경에서 네트워크 예외를 잘 다루는 방법 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/msa-transaction/)
 * [**마이크로서비스 아키텍처를 구성하는 핵심 요소 8가지 | 무조건 MSA가 정답일까? — 시행착오를 줄이는 방법 | 진태양**](https://dataportal.kr/81)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
@@ -3388,6 +3389,7 @@ Programming
 * [Code on Mobile : C and Other Programming Languages. - YouTube](https://www.youtube.com/watch?v=7gZdAks-xaw) mobile compiler
 * [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
 * [해커는 왜 모바일 앱을 공격할까? 모바일 앱 해킹 유형과 보안 방법](https://liapp.lockincomp.com/ko/blog/blog-Post/mobile-app-hacking-and-protection/)
+* [딥링크의 모든것(feat. App Link, Universal Link, Deferred DeepLink) | 헤이딜러 기술블로그 | by Ted Park | PRND | Jul, 2022 | Medium](https://medium.com/prnd/%EB%94%A5%EB%A7%81%ED%81%AC%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83-feat-app-link-universal-link-deferred-deeplink-61d6cf63a0a5)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
