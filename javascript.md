@@ -811,6 +811,7 @@ Javascript
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
 * [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰. 당근마켓 앱 화면의 많은 부분들이 네이티브 웹뷰와 웹 기술을 활용해서… | by Hyeseong Kim | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 * [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
+* [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3691,6 +3692,7 @@ Javascript
 * [Responsive Video Gallery in React js | Build a Video Gallery With React js | Video Gallery in React - YouTube](https://www.youtube.com/watch?v=B_IYFFbKkfY)
 * [Build a Blog with React and Markdown files | Bits and Pieces](https://blog.bitsrc.io/build-a-blog-with-react-and-markdown-files-30d969ce62d5)
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
+* [How to Build a Skeleton Loader with React | by L Javier Tovar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-skeleton-loader-with-react-1dd359cda582)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4702,6 +4704,7 @@ Javascript
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 * [jscpd: Copy/paste detector for programming source code](https://github.com/kucherenko/jscpd)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
+* [MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
   * [Payload - Headless CMS 오픈소스 | GeekNews](https://news.hada.io/topic?id=6634)
