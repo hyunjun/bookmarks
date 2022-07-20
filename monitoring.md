@@ -36,6 +36,7 @@ Monitoring
   * 매트릭을 서비스의 어떤 기능이 가장 많이 보내고 있는지, 어떤 매트릭 키스페이스가 많은 매트릭을 생성했는지 알기 위해 flame graph 적용
   * 쉽게 어떤 매트릭 키스페이스가 큰지 찾음. 이 분석으로 가장 큰 서비스 중 하나인 광고팀의 매트릭을 33% 감소
 * [Introducing logs from the dashboard for Cloudflare Workers](https://blog.cloudflare.com/introducing-workers-dashboard-logs/)
+* [대시보드 빠르게 개발하는 법](https://brunch.co.kr/@04925bf0d77f43e/16) finereport
 * [Elastic 초간단 모니터링 시스템 만들기](https://jjeong.tistory.com/1568)
 * [Why the Future of Monitoring Is Agentless](https://www.infoq.com/articles/future-monitoring-agentless/)
 * [Understand Your System Like Never Before With OpenTelemetry, Grafana, Promscale - YouTube](https://www.youtube.com/watch?v=0LuLRjIP-Oc)
