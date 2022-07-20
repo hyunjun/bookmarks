@@ -103,6 +103,7 @@
 * [Asp.Net MVC Tutorial For Beginners | Asp.Net MVC 5 - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tVLpCKEK17_it4GZlLyGYwr)
 * [ASP.NET CORE WEB API 5.0 Tutorial - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tWHde1XMdZ914HAHNPvFJsp)
 * [ASP.NET Core 에서 커스텀 json 파일 사용하기 : zelon's blog](https://blog.wimy.com/468/)
+* [Asp.net Core platformda Devextreme Scheduler - YouTube](https://www.youtube.com/watch?v=yx_tTRgi3BE)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
