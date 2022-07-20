@@ -982,6 +982,7 @@ SQL
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
+* [AlloyDB versus PostgreSQL: a performance review - Vettabase](https://vettabase.com/blog/alloydb-versus-postgresql/)
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
