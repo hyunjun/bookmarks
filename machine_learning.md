@@ -1445,6 +1445,7 @@ Machine Learning
   * [Intro to JAX: Accelerating Machine Learning research - YouTube](https://www.youtube.com/watch?v=WdTeDXsOSj4)
   * [Engineering Trade-Offs in Automatic Differentiation: from TensorFlow and PyTorch to Jax and Julia - Stochastic Lifestyle](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
   * [잭스로 구현하는 딥러닝 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTAtneTLH23tvEAIZlE7E-g8)
+  * [코파일럿과 함께 구현하는 딥러닝. 깃허브가 제공하는 코파일럿을 사용하면 편리하게 코드를 구현할 수 있다… | by Sungjin (James) Kim, Ph.D. | Jul, 2022 | Medium](https://medium.com/@jskDr/%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%ED%95%A8%EA%BB%98-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%89%B4%EB%9F%B4%EB%84%B7-b1d6ccaefdfb)
   * [haiku-baseline](https://github.com/TinkTheBoush/haiku-baseline)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
