@@ -612,6 +612,7 @@ Programming
 * [애자일과 디지털 전환은 무슨 관계인가?](https://brunch.co.kr/@graypool/329)
 * [문제 정의를 위한 디지털 현장 답사와 칸반 개선](https://brunch.co.kr/@graypool/356)
 * [계획은 개나 주자](https://brunch.co.kr/@graypool/429) SAFe, Lean Budgets
+* [프로그램이나 사업이나 끝임없이 변한다](https://brunch.co.kr/@graypool/517)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
@@ -3085,6 +3086,7 @@ Programming
     * 이를 방지하기 위해서는 SRE 모델 도입 주장
 * [당근마켓 인프라실, 새로운 비전을 소개 합니다.. 최근에 당근마켓 인프라실은 새로운 비전을 만들었습니다. 기존과는 조금… | by 강진우 | 당근마켓 팀블로그 | Jul, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%8B%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B9%84%EC%A0%84%EC%9D%84-%EC%86%8C%EA%B0%9C-%ED%95%A9%EB%8B%88%EB%8B%A4-8f22e72d46d9)
 * [Shift left vs shift right: A DevOps mystery solved | Dynatrace news](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
+* [Top DevOps Trends To Watch In 2022 | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/top-devops-trends-to-watch-in-2022-bc832b4f4d17)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
