@@ -150,8 +150,9 @@ Writing
 * [The C4 model for visualising software architecture](https://c4model.com/)
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
+  * [Devin Horsman – Simple, useful software architecture with C4 - YouTube](https://www.youtube.com/watch?v=6y3XvcRO28I)
   * [Structurizr](https://structurizr.com/)
-    * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E) C4 model
+    * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
     * [structurizr/dsl: Structurizr DSL](https://github.com/structurizr/dsl)
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * GitBook
