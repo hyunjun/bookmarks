@@ -686,6 +686,7 @@ Business
 * [헤이딜러 안드로이드팀은 어떻게 일하나요?(2) — 업무방식. - 모든것을 기록하기, 귀찮은것들을 자동화 하기 - 코드… | by Ted Park | PRND | May, 2022 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-2-%EC%97%85%EB%AC%B4%EB%B0%A9%EC%8B%9D-a8e68fe7321b)
 * [Onboard New Developers with Better Coding Practices | HackerNoon](https://hackernoon.com/onboard-new-developers-with-better-coding-practices)
 * [티켓플레이스는 개발을 어떻게 하나?](https://tech.youha.info/ba6dca66-a1f6-4c73-912a-c3e4b438ef0f)
+* [#5 번역 Tesla 'Anti-Handbook' Handbook - BZCF’s Newsletter](https://bzcf.substack.com/p/5-tesla-anti-handbook-handbook)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
