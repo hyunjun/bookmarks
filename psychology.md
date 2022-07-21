@@ -12,6 +12,7 @@ Psychology
 * [Behind the Mask: The Myth of the Psychopath](http://www.psmag.com/books-and-culture/do-psychopaths-even-exist)
 * [성실성 파라독스(1/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness1/)
 * [성실성 파라독스(2/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness2/)
+* [꾸준함을 유지하는 3가지 방법](http://moneyman.kr/archives/3587)
 * [왜 나는 너를 이해하지 못하는가](http://ppss.kr/archives/54292)
 * [사람들이 인생의 동반자를 선택할 때 저지르는 가장 큰 실수들](http://ppss.kr/archives/54898)
 * [선입견, 없앨 수 없다면 제도적으로 억누릅시다](http://newspeppermint.com/2015/09/08/tech-to-mitigate-bias/)
