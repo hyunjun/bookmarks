@@ -2529,6 +2529,7 @@ Python
   * [Automation Testing with Pytest. We live in an era where software is… | by Harshil Modi | Tenable TechBlog | Medium](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)
   * [Start Python #6 Backend Program 만들기 – Test하기 - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/test%ED%95%98%EA%B8%B0/)
   * [기획자가 한 번 추천한 음식은 당분간 추천하지 말라고 했다. 김다현 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=n3eY_FiV8ac)
+  * [Introduction to PyTest - TestingLPoint](https://www.testinglpoint.com/introduction-to-pytest)
 * [How to test Flask applications | Analytics Vidhya](https://medium.com/analytics-vidhya/how-to-test-flask-applications-aef12ae5181c)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
