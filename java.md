@@ -149,6 +149,7 @@ Java
 * [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
 * [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 * [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8357/)
+* [자바가 여전히 위대한 개발 언어인 7가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/245956)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1369,6 +1370,7 @@ Java
 * [Mojave - Java Web MVC Framework](http://mojavemvc.org/)
 * Nexus
   * [아티팩트 저장소로 사용](https://www.lesstif.com/pages/viewpage.action?pageId=18219542)
+* [NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java](https://github.com/brettwooldridge/NuProcess)
 * [op4j](http://www.op4j.org/)
 * [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
