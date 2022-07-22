@@ -609,6 +609,7 @@ Docker
   * UI는 JavaScript, TypeScript로 작성하는데 React/Material UI 추천
   * 백엔드는 컨테이너 안에서 실행되므로 어떤 언어든 가능
   * docker extension init 명령어로 프로젝트 초기 구성 가능, 로컬 설치, 디버깅 가능, 개발 완료시 마켓 플레이스 등록 가능
+* [How Docker Container Works?](https://www.decipherzone.com/blog-detail/how-docker-works)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
