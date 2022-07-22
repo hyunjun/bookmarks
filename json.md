@@ -302,3 +302,4 @@ Json
 * [Paul Kuruvilla - I accidentally used YAML.parse instead of JSON.parse, and it... worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
 * [2분만에 배우는 YAML - YouTube](https://www.youtube.com/watch?v=1GRKklx4xeo)
 * [How I learned to stop worrying and love the YAML | lbr.](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
+* [snakeyaml / snakeyaml — Bitbucket](https://bitbucket.org/snakeyaml/snakeyaml/)
