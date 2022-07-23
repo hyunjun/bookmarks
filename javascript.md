@@ -2715,6 +2715,7 @@ Javascript
   * 스테이징에서 메모리 힙 덤프를 뜨도록 설정한 뒤 트래픽을 대량으로 보내면서 메모리를 추적해서 메모리 누수가 있는 코드 파악
   * 앞의 설명에 비하면 힙 덤프를 비교해서 찾는 과정은 간단해서 더 자세히 설명했으면 좋겠지만
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
+* [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3693,6 +3694,7 @@ Javascript
 * [Build a Blog with React and Markdown files | Bits and Pieces](https://blog.bitsrc.io/build-a-blog-with-react-and-markdown-files-30d969ce62d5)
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [How to Build a Skeleton Loader with React | by L Javier Tovar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-skeleton-loader-with-react-1dd359cda582)
+* [Solved - TypeError: map is not a function in Reactjs - YouTube](https://www.youtube.com/watch?v=V7id121k_ds)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4121,6 +4123,7 @@ Javascript
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
   * [Improving page performance | Next.js - YouTube](https://www.youtube.com/watch?v=hZr4J42JDoc)
   * [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
+  * [NextJs Application Architecture for best performance | by Sushin Pv | May, 2022 | Medium](https://medium.com/@sushinpv/nextjs-application-architecture-for-best-performance-8f1d22e33ba1)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
