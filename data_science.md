@@ -391,6 +391,7 @@ Data Science
 * [Data Is An Art, Not Just A Science—And Storytelling Is The Key — Data Science & Engineering (2022)](https://shopify.engineering/data-storytelling-shopify)
 * [There's no such thing as data — Benedict Evans](https://www.ben-evans.com/benedictevans/2022/5/27/theres-no-such-thing-as-data)
 * [카카오페이 유저 프로파일링, 페이프로파일 | Kakao Pay Tech](https://tech.kakaopay.com/post/pay-profile)
+* [Data Versioning for Modern Data Teams and Platforms | by Christianlauer | CodeX | Jul, 2022 | Medium](https://medium.com/codex/data-versioning-for-modern-data-teams-and-platforms-86e8bba14f14)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

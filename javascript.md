@@ -4688,6 +4688,7 @@ Javascript
 * [TypeScript에서 전역 개체 타입은 어떻게 정의하나요? | Huns.me](https://huns.me/2022-05-22-43-TypeScript%EC%97%90%EC%84%9C%20%EC%A0%84%EC%97%AD%20%EA%B0%9C%EC%B2%B4%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%98%EB%82%98%EC%9A%94)
 * [Advanced TypeScript With Code Challenges: Awaited Type | by Marius Bongarts | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-awaited-type-e823a3b3dc3d)
 * [How to Share Types Between Frontend and Backend Apps | by Jonathan Saring | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-share-types-between-frontend-and-backend-apps-15753f26d53e)
+* [How to master advanced TypeScript patterns](https://morioh.com/p/0d8b3523d82f)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)

@@ -1467,6 +1467,7 @@ Programming
 * [입장에 맞춰 맥락을 나눈 BoundedContext](https://brunch.co.kr/@graypool/509)
 * [시스템 구동의 맥락(context) 파악하기](https://brunch.co.kr/@graypool/510)
 * [언제 맥락을 나누고, 어떻게 연결할까?](https://brunch.co.kr/@graypool/511)
+* [DDD의 재발견](https://brunch.co.kr/@graypool/522)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
 * [클린 아키텍처 보충 2 — 엔티티(EBI), 도메인 주도 설계(DDD) | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-2-%EC%97%94%ED%8B%B0%ED%8B%B0-ebi-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-55ea98c62cb6)
@@ -2674,6 +2675,7 @@ Programming
 * [Shipping to Production - The Pragmatic Engineer](https://blog.pragmaticengineer.com/shipping-to-production/)
 * [Continuous Integration(지속적 통합) - 기계인간 John Grib](https://johngrib.github.io/wiki/continuous-integration/)
 * [Agile, DevOps, and CI/CD – How are they related? | ReviewNPrep](https://reviewnprep.com/blog/agile-devops-and-ci-cd/)
+* [CICD Integration tools and best practices as per stage Razorops Webinars | Razorops](https://razorops.com/webinars/cicd-integration-tools-and-best-practices-as-per-stage/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
@@ -3087,6 +3089,7 @@ Programming
 * [당근마켓 인프라실, 새로운 비전을 소개 합니다.. 최근에 당근마켓 인프라실은 새로운 비전을 만들었습니다. 기존과는 조금… | by 강진우 | 당근마켓 팀블로그 | Jul, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EC%9D%B8%ED%94%84%EB%9D%BC%EC%8B%A4-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B9%84%EC%A0%84%EC%9D%84-%EC%86%8C%EA%B0%9C-%ED%95%A9%EB%8B%88%EB%8B%A4-8f22e72d46d9)
 * [Shift left vs shift right: A DevOps mystery solved | Dynatrace news](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
 * [Top DevOps Trends To Watch In 2022 | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/top-devops-trends-to-watch-in-2022-bc832b4f4d17)
+* [WhaTip | 와탭랩스 DevOps 이야기 - YouTube](https://www.youtube.com/watch?v=9KELZN8fNqM)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
