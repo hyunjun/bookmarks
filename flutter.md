@@ -147,6 +147,7 @@ Flutter
 * [여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 | 요즘IT](https://yozm.wishket.com/magazine/detail/1525/)
 * [Flutter로 UI를 구현하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1566/)
 * [오늘학교에 입학한 Flutter 주니어 개발자의 6개월. 안녕하세요 아테나스랩 클라이언트 챕터 Lego👾입니다. | by 아테나스랩 | 아테나스랩 팀블로그 | Jul, 2022 | Medium](https://medium.com/athenaslab/%EC%98%A4%EB%8A%98%ED%95%99%EA%B5%90%EC%97%90-%EC%9E%85%ED%95%99%ED%95%9C-flutter-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-6%EA%B0%9C%EC%9B%94-14c1fd25f992)
+* [Flutter IO 2022 Extended ‘애니메이션 적용기’ | by valas(김선호) | Flutter Korea | Jul, 2022 | Medium](https://medium.com/flutter-korea/flutter-io-2022-extended-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A0%81%EC%9A%A9%EA%B8%B0-38a31707139d)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
