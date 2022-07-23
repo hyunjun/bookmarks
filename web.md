@@ -671,6 +671,7 @@ Web
   * [Tailwind CSS로 프로젝트에 CSS 작성 안하기 - Tailwind CSS(with React) 🌬](https://xtring-dev.tistory.com/entry/Styling-Tailwind-CSS%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8F%84-%EC%86%90%EC%89%BD%EA%B2%8C-Cool%ED%95%9C-CSS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-tailwindcss)
   * [Tailwind CSS의 설치와 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-06-05T00:00:00.000Z)
   * [react에서 tailwind 적용하기](https://blog.naver.com/pjt3591oo/222760623661)
+  * [Let's create a link in bio with React.js (Next.js, Tailwind CSS, Sanity) - YouTube](https://www.youtube.com/watch?v=KicSDficynY)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
