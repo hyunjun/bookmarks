@@ -199,6 +199,8 @@ Programming Language
   * [Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
+* [carbon-language](https://github.com/carbon-language)
+  * [러스트 경쟁자 등장…구글, C++ 대체언어 '카본' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20220721165257)
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
   * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
