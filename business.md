@@ -1775,6 +1775,7 @@ Business
 * [카카오워크 캘린더팀에서 사용한 figma를 이용한 기획-디자이너-QA-개발 방법](https://velog.io/@teo/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-%EC%BA%98%EB%A6%B0%EB%8D%94%ED%8C%80%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%9C-figma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-QA-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
 * [How To Use Storytelling In UX — Smashing Magazine](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
 * [실전 UI/UX -  피플카 고객경험 개선하기](https://brunch.co.kr/@fbrudtjr1/52)
+* [문제정의에 집중하는 팀의 디자이너는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1589/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
