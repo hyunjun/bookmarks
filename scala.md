@@ -525,6 +525,7 @@ Scala
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Part 1 - YouTube](https://www.youtube.com/watch?v=PPIPGzrc2wo)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
+* [akka-dynamic-batch-tensorflow-gpu-bert at main · go-noah/akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-tensorflow-gpu-bert)
 * Akka gRPC
   * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
   * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
