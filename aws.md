@@ -1359,6 +1359,7 @@ AWS
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
   * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
   * [Deploy a Serverless Flask App using Zappa](https://www.youtube.com/watch?v=Vl5wroVmSuk)
+  * [Zappa와 함께 Lambda에서 Playwright를 써보자! | by Haze Lee | Jul, 2022 | Realignist’s LifeLog](https://realignist.me/zappa-python-playwright-1e684e42ba1c)
 
 # Logging
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
