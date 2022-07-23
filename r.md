@@ -347,6 +347,7 @@ R
 * [파일 읽기에서 BOM(Byte Order Marks) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2428)
 * [서울시 미세/초미세 먼지(2/N) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2507)
 * [(R) 엑셀 데이터를 워드클라우드(wordcloud)로 표현하기](https://blog.naver.com/sasrspss/222674740381)
+* [R code snippet : Transform from long format to wide format | R-bloggers](https://www.r-bloggers.com/2022/07/r-code-snippet-transform-from-long-format-to-wide-format/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
