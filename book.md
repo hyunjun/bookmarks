@@ -180,6 +180,9 @@ Book
   * [뛰지 마라, 지친다](https://github.com/hyunjun/bookmarks/blob/master/books/dont_run.md)
   * [뛰지 마라, 지친다. 비록 전문 작가는 아니라서 유려한 문체로 썼다고 볼 수는 없으나 그래서… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EB%9B%B0%EC%A7%80-%EB%A7%88%EB%9D%BC-%EC%A7%80%EC%B9%9C%EB%8B%A4-14deb73bf9b3)
   * [뛰지 마라, 지친다](https://jh4hj.tistory.com/entry/%EB%9B%B0%EC%A7%80-%EB%A7%88%EB%9D%BC-%EC%A7%80%EC%B9%9C%EB%8B%A4)
+* [까면서 보는 해부학 만화](https://www.hanbit.co.kr/store/books/look.php?p_code=B3354514449)
+  * 한라 511.4-압26ㅎ 탐라 문511.4-압227ㅎ 우당 문511.4-압227ㅎ
+  * ★★★☆☆ 2022.07.23
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -262,10 +265,12 @@ Book
   * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
 * (NOT YET) [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
-* (NOT YET) [까면서 보는 해부학 만화](https://www.hanbit.co.kr/store/books/look.php?p_code=B3354514449)
-  * 한라 511.4-압26ㅎ 탐라 문511.4-압227ㅎ 우당 문511.4-압227ㅎ
 * (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
 * (NOT YET) 지극히 사적인 러시아 ['비정상' 일리야가 말하는 러시아…러시아인들은 왜 푸틴을 좋아할까?](https://www.pressian.com/pages/articles/2022071516575646212)
+* (NOT YET) [만화로 배우는 곤충의 진화](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B7076585695)
+  * 한라 495.2-김25ㄱ 탐라 그래픽495.2-김225ㄱ 우당 문495.2-김225ㄱ
+* (NOT YET) [만화로 배우는 공룡의 생태](https://www.hanbit.co.kr/store/books/look.php?p_code=B4285908843)
+  * 한라 아457.279-김25고 탐라 아457-김225ㄱ 우당 문457-김225ㄱ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -761,6 +766,7 @@ Book
   * ★★★☆☆ 2022.07.08
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
+* (NOT YET) [퀀텀 만화로 배우는 양자역학과 상대성이론](https://www.hanbit.co.kr/store/books/look.php?p_code=B6144385733)
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
