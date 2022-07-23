@@ -2167,6 +2167,7 @@ Programming
 * [Scalability Vs. Elasticity - Cloud Computing | ReviewNPrep](https://reviewnprep.com/blog/scalability-vs-elasticity-in-cloud-computing/)
 * [(추천) 개발 서버 무료로 구하는 법 7가지](https://brunch.co.kr/@topasvga/705)
 * [모든 것은 클라우드로…비용 폭탄의 역습 | 한경닷컴](https://www.hankyung.com/it/article/2022071190291)
+* [Netflix Architecture: How Much Does Netflix's AWS Cost?](https://www.cloudzero.com/blog/netflix-aws)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2862,6 +2863,7 @@ Programming
   * single-sign on에 사용하는 표준인 SAML(Security Assertion Markup Language)이 왜 보안에 취약한지 설명
   * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
 * [SAML로 싱글사인온을 구현하는 방법  - ITWorld Korea](https://www.itworld.co.kr/news/237559)
+* [특별강의 Cloud 환경의 필수선택 SAML, SCIM 2강 SAML 과 SCIM by 세종사이버대학교 소프트웨어공학과(https://sw.sjcu.ac.kr) 박관순 교수 - YouTube](https://www.youtube.com/watch?v=Lvg35nh9W8c)
 * [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
 * [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
@@ -3090,6 +3092,9 @@ Programming
 * [Shift left vs shift right: A DevOps mystery solved | Dynatrace news](https://www.dynatrace.com/news/blog/what-is-shift-left-and-what-is-shift-right/)
 * [Top DevOps Trends To Watch In 2022 | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/top-devops-trends-to-watch-in-2022-bc832b4f4d17)
 * [WhaTip | 와탭랩스 DevOps 이야기 - YouTube](https://www.youtube.com/watch?v=9KELZN8fNqM)
+* [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#)
+  * [StackOverflow는 9대의 on-prem 서버로 운영중 | GeekNews](https://news.hada.io/topic?id=6993)
+* [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -3158,6 +3163,8 @@ Programming
 * [Min Sans - 민 산스, 프로덕트 디자인에 적합한 폰트를 만들어가고 있습니다](https://github.com/poposnail61/min-sans)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
+* [Programming Fonts - Test Drive](https://www.programmingfonts.org/)
+  * [프로그래밍 폰트 테스트 드라이브 | GeekNews](https://news.hada.io/topic?id=6976)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 * [SUIT](http://sunn.us/suit/)
