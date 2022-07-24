@@ -188,7 +188,6 @@ SQL
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
-* [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
 * [Database Performance Secrets of the Stars! - YouTube](https://www.youtube.com/watch?v=J9Z30ie5J6Q)
 * [Demystifying Database Performance for Developers](https://www.crunchydata.com/blog/demystifying-database-performance-for-developers)
@@ -846,6 +845,8 @@ SQL
 * [Transaction ID Wraparound in Postgres](http://blog.getsentry.com/2015/07/23/transaction-id-wraparound-in-postgres.html)
 * [Making Postgres Bloom](http://www.pipelinedb.com/blog/making-postgres-bloom)
 * [POSTGRESQL: A FULL TEXT SEARCH ENGINE - PART 1](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
+* [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
+* [Postgres Full-Text Search: A Search Engine in a Database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)
 * [PostgreSQL 9.5 New Features With Examples](http://h30507.www3.hp.com/hpblogs/attachments/hpblogs/Japan-Enterprise-Topics/124/1/PostgreSQL%209.5%20New%20Features%20English%2020150807-1.pdf)
 * ["Big data" features coming in PostgreSQL 9.5](http://lwn.net/Articles/653411/)
 * [Scaling out PostgreSQL at CloudFlare with CitusDB](https://www.citusdata.com/blog/19-ozgun/148-scaling-out-postgresql-at-cloudflare-with-citusdb)
@@ -906,7 +907,6 @@ SQL
 * [Handling NULL Values in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/03/05/handling-null-values-in-postgresql/)
 * [PostgreSQL의 슬로우 쿼리에 대처하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
 * [Why PostgreSQL WAL Archival is Slow - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/09/why-postgresql-wal-archival-is-slow/)
-* [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
 * [Lessons Learned from Running Postgres 13: Better Performance, Monitoring & More](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability)
 * [Mastering PostgreSQL Administration](https://momjian.us/main/writings/pgsql/administration.pdf)
 * [PostgreSQL 13 Features Distilled. Index optimization, incremental… | by Kovid Rathee | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/postgresql-13-features-distilled-c0c0adcfa020)
@@ -970,6 +970,8 @@ SQL
 * [How To Benchmark PostgreSQL Queries Well](https://www.tangramvision.com/blog/how-to-benchmark-postgresql-queries-well)
 * [Speeding up sort performance in Postgres 15](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/)
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
+* [PostgreSQL 14 Internals : Postgres Professional](https://postgrespro.com/community/books/internals)
+* [Postgres 15 improves UNIQUE and NULL - Blog @ RustProof Labs](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -1117,6 +1119,8 @@ SQL
 * [Sharding: How Many Shards Are Safe?](https://medium.com/logos-network/sharding-how-many-shards-are-safe-bc361c487083)
 * [DB분산처리를 위한 sharding - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
 * [Database의 샤딩(Sharding)이란?](https://nesoy.github.io/articles/2018-05/Database-Shard)
+* [Understanding Database Sharding | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+* [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 
 # SQLite
 * [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
@@ -1194,6 +1198,7 @@ SQL
   * [7 years of open-source database development: lessons learned - Vallified](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)
     * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
+* [SpatiaLite: SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)
 * [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
 * [SQLime - SQLite Playground](https://sqlime.org/)
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
