@@ -863,6 +863,7 @@ Business
 * [대화 잘하는 사람의 5가지 특징](http://moneyman.kr/archives/3448)
 * [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
 * [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
+* [유치원생도 이해하는 커뮤니케이션 노하우 - Kyuhan Nam Universe](https://www.morethanair.com/103554/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1693,6 +1694,7 @@ Business
   *  YC 내부 플랫폼으로 운영하다가 이번에 공개했고 산업 분야별로 나누어서 볼 수 있음
 * [😸 Github - by Ali Abouelatta - First 1000](https://read.first1000.co/p/-github)
   * [github같이 혁신적인 서비스는 이렇게 만들어진다](https://brunch.co.kr/@nanotoly/86)
+* [스타트업 4년을 마무리 하며](https://velog.io/@jeonjay/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-4%EB%85%84%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC-%ED%95%98%EB%A9%B0)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
