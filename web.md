@@ -1058,6 +1058,7 @@ Web
   * [원티드 서버개발자 QnA 1편 ‘원티드 서버 FastAPI 도입 장점과 단점’ | by Myounghee jang | 원티드 제품 팀블로그 | Jun, 2022 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%9E%90-qna-1%ED%8E%B8-%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%84%9C%EB%B2%84-fastapi-%EB%8F%84%EC%9E%85-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%90-c09a67b05d72)
   * [WebSockets In Python FastAPI — Fetching Data At Super Speed | by Zlliu | May, 2022 | Python in Plain English](https://python.plainenglish.io/websockets-in-python-fastapi-fetching-data-at-super-speed-3c7b355949fd)
   * [uvicorn, fastapi 비동기 메커니즘 이해](https://blog.naver.com/pjt3591oo/222772705407)
+  * [느슨해진 백엔드씬에 긴장감을 주는 FastAPI 프레임워크 - YouTube](https://www.youtube.com/watch?v=5A67mQ2Pt9s)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
