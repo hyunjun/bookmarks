@@ -253,6 +253,7 @@ Web
 * [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
 * [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 * [웹 개발 시간을 줄여주는 팁 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1585/)
+* [완벽 정리! 쿠키, 세션, 토큰, 캐시 그리고 CDN](https://hongong.hanbit.co.kr/%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%ED%86%A0%ED%81%B0-%EC%BA%90%EC%8B%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-cdn/)
 
 # Apache
 * installation
