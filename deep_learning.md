@@ -944,10 +944,12 @@ Deep Learning
 * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 * [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 * [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
+* [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/board_fpbt85/55766)
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [CS 221: 인공지능 (봄 2019), CS 229: 기계 학습 (가을 2018), CS 230: 딥 러닝 (겨울 2019)](https://stanford.edu/~shervine/l/ko/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 * [시리즈 | CS224W Review - 투빅스 GNN 스터디](https://velog.io/@tobigs-gnn1213/series/Part1-CS224W)
@@ -972,8 +974,6 @@ Deep Learning
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
-* [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
-* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 * [deeplearning.ai/courses](https://www.deeplearning.ai/courses/)
   * [Review of Deeplearning.ai Courses](https://towardsdatascience.com/review-of-deeplearning-ai-courses-aed1328e4ffe)
   * [github.com/shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai)
@@ -987,41 +987,43 @@ Deep Learning
     * [합성곱 신경망 네트워크 (CNN)](https://www.edwith.org/deeplearningai4)
   * [Sequence Models](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
   * [Heroes of Deep Learning Interviews](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
+* [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
+* [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
+* [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+* [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
+* [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [DS-GA 1008 · 2020 봄 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/ko/) 한글
 * [**edwith.org/deeplearningchoi**](http://www.edwith.org/deeplearningchoi/)
-* [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
-* [Practical Deep Learning for Coders (2020) - YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
-  * [**Practical Deep Learning For Coders, Part 1**](http://course.fast.ai/)
-  * [**Practical Deep Learning For Coders, Part 2**](http://course.fast.ai/part2.html)
-  * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
-* [fast.ai literate programming](https://medium.com/@dienhoa.t/fast-ai-literature-programming-2d0d4230dd81)
-* [fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai](https://www.fast.ai/2020/08/21/fastai2-launch/)
-  * fastai-v2: 원래 fastai는 교육용 딥러닝 라이브러리
-    * 그러나, 이를 활용하여 강의를 수강한 여러 학생들이 좋은 성과를 내면서 유사한 컨셉의 새로운 라이브러리 작성(v1과 호환되지 않음)
-  * 책 (Deep Learning for Coders): fastai 라이브러리 사용법이 포함되지만, PyTorch, Python 고급 기법등도 함께 다룸. 밑바닥부터 구현
-  * Practical Deep Learning for Coders: 파트 1과 파트2로 구분되었던 fastai 강의 중 파트 1부분
-    * 일반적으로 파트2는 보다 내부적인 코드레벨로의 deep dive입니다.
-    * Your first models, Evidence and p values, Production and Deployment, SGD from scratch, Data ethics, Collaborative Filtering, Tabular data, Natural Language Processing
-  * 부가적으로 공개된 라이브러리
-    * fastcore: fastai에서 사용되는 기초적인 라이브러리. 테스팅, Mixins/Delegation/Composition 등, 함수형 프로그래밍/병렬 프로세싱 등, Dispatch, Transform 등을 Python에서 쉽게 코딩할 수 있는 방법 제공
-    * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
-    * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
+* [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+  * [Practical Deep Learning for Coders (2020) - YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+    * [**Practical Deep Learning For Coders, Part 1**](http://course.fast.ai/)
+    * [**Practical Deep Learning For Coders, Part 2**](http://course.fast.ai/part2.html)
+    * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
+    * [fast.ai 버전3 튜토리얼 3 (v3 lesson 3 - head pose) | Kaggle](https://www.kaggle.com/code/sungjunghwan/fast-ai-3-3-v3-lesson-3-head-pose)
+  * [fast.ai literate programming](https://medium.com/@dienhoa.t/fast-ai-literature-programming-2d0d4230dd81)
+  * [fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai](https://www.fast.ai/2020/08/21/fastai2-launch/)
+    * fastai-v2: 원래 fastai는 교육용 딥러닝 라이브러리
+      * 그러나, 이를 활용하여 강의를 수강한 여러 학생들이 좋은 성과를 내면서 유사한 컨셉의 새로운 라이브러리 작성(v1과 호환되지 않음)
+    * 책 (Deep Learning for Coders): fastai 라이브러리 사용법이 포함되지만, PyTorch, Python 고급 기법등도 함께 다룸. 밑바닥부터 구현
+    * Practical Deep Learning for Coders: 파트 1과 파트2로 구분되었던 fastai 강의 중 파트 1부분
+      * 일반적으로 파트2는 보다 내부적인 코드레벨로의 deep dive입니다.
+      * Your first models, Evidence and p values, Production and Deployment, SGD from scratch, Data ethics, Collaborative Filtering, Tabular data, Natural Language Processing
+    * 부가적으로 공개된 라이브러리
+      * fastcore: fastai에서 사용되는 기초적인 라이브러리. 테스팅, Mixins/Delegation/Composition 등, 함수형 프로그래밍/병렬 프로세싱 등, Dispatch, Transform 등을 Python에서 쉽게 코딩할 수 있는 방법 제공
+      * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
+      * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
 * [Full Stack Deep Learning - Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
   * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
     * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
   * [FSDL 2022 - Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)
+* [MIT Deep Learning](https://deeplearning.mit.edu/)
+* [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
+* [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
-* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Udacity Deep Learning Nanodegree 수료 후기](https://medium.com/@EJSohn/udacity-deep-learning-nanodegree-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-51449857fc24)
-* [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/board_fpbt85/55766)
-* [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
-* [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
-* [MIT Deep Learning](https://deeplearning.mit.edu/)
-* [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 * [**UCL x DeepMind Deep Learning Lecture Series - General**](https://www.eventbrite.co.uk/o/ucl-x-deepmind-deep-learning-lecture-series-general-29078980901)
-* [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 * [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 * [Yann LeCun’s Deep Learning Course at CDS – NYU Center for Data Science](https://cds.nyu.edu/deep-learning/)
 
