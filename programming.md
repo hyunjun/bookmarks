@@ -863,6 +863,9 @@ Programming
 * [API 디자인, 개발, 테스트를 위한 무료 도구 12선 - ITWorld Korea](https://www.itworld.co.kr/news/239924)
 * [The End of the Public API Strangler | SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/end-of-the-strangler)
 * [기획자로서 필요한 Open API 개념 이해하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1575/)
+* [The 2022 API Platform Landscape: Trends and Challenges | Postman Blog](https://blog.postman.com/2022-api-platform-landscape-trends-and-challenges/)
+* [**Stack under attack: what we learned about handling DDoS attacks - Stack Overflow Blog**](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) API를 만드는 원칙에 해당하는 이야기
+  * [StackOverflow가 DDOS를 대응하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=7006)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2892,6 +2895,8 @@ Programming
   * 브라우저에서 해싱하지 말아야 한다고 정리. 클라이언트 해싱을 하지 말아야 하고 의미도 없다고 함
 * [Facebook collecting people's data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
 * [반면교사 삼아야 할 2021년 ‘IT 재앙’ 8선 - CIO Korea](https://www.ciokorea.com/news/220229)
+* [API라는 ‘거대 공격 표면’ 이해하기 - CIO Korea](https://www.ciokorea.com/news/244566)
+* [차등 개인정보보호의 의미와 관련 기업 사용례의 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/178024)
 * [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
 * [보안인들의 유쾌한 모임! Becks KR 온라인 밋업에 참가했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-becks-kr-1/)
@@ -2903,6 +2908,7 @@ Programming
 * [Project Zero: Racing against the clock -- hitting a tiny kernel race window](https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html)
 * [Elliptic Curve Cryptography: A Basic Introduction | Boot.dev Blog](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/)
 * ['고르고 고른' 네트워크·보안 전문가용 필수 리눅스 툴 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/232349)
+* [sw 개발자가 공급망 보안에서 던져야 할 질문 "너무 많이 신뢰하지는 않는가?" - ITWorld Korea](https://www.itworld.co.kr/news/244830)
 * [How to design a 𝐬𝐞𝐜𝐮𝐫𝐞 web API access for your website?](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6920033960039260160-VMNA/)
 * [sha 1 - How easy is it in 2022 to find a SHA1 collision? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
 * [media.ccc.de - Practical bruteforce of military grade AES-1024](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
