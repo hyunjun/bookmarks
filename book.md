@@ -579,6 +579,7 @@ Book
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
 * (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
   * 한라 915-쉬34ㅇ
+* (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
