@@ -83,6 +83,7 @@ Programmer
 * [몸으로 배우기](https://www.thestartupbible.com/2022/04/learning-by-doing.html) 프로그래밍 이야기는 아니지만 학습 방법에 대한 관점에 동의
 * [개발자의 학습과 성장 · Present](https://present.do/documents/62a02582f6365307fc441c7f)
 * [성장하는 개발자가 되는 사고방식](https://www.slid.cc/share/vdocs/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EC%82%AC%EA%B3%A0%EB%B0%A9%EC%8B%9D-41013172a5c44b66a1a8aa29d3518295)
+* [개발자의 성장 가능성은 어떻게 측정 가능한가?. 간혹 신입 개발자를 채용한다는 회사의 이야기를 듣다보면, 나를… | by 조은, John Cho | Jul, 2022 | Medium](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33)
 * [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
