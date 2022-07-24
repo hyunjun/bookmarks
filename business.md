@@ -1034,6 +1034,13 @@ Business
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [나는 우리 직원을 신뢰하는가 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236073)
 * [Friendships form via shared context, not shared activities | Bill Mei](https://billmei.net/blog/friendship) 우정에 대한 이야기지만 신뢰로 바꿔서 생각해봐도 큰 무리는 없음
+* [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
+* [‘첫 단추 잘 꿰기’ 신임 CIO를 위한 팀 내 신뢰 구축 ABC - CIO Korea](https://www.ciokorea.com/news/227679)
+* [Coaching Leader가 된다는 것 ② 최고의 리더 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/coaching-leader%ea%b0%80-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83-2%ed%99%94-_-%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a6%ac%eb%8d%94/)
+* [**계속되는 불확실성에 대처하기 위한 3단계 접근법**](https://www.thinkwithgoogle.com/intl/ko-kr/future-of-marketing/management-and-culture/%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-3%EB%8B%A8%EA%B3%84-%EC%A0%91%EA%B7%BC%EB%B2%95/)
+  * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
+  * 3D - Define, Design, Deliver
+* [신뢰 자본](https://jojoldu.tistory.com/675)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
@@ -1185,8 +1192,6 @@ Business
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
-* [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
-* [‘첫 단추 잘 꿰기’ 신임 CIO를 위한 팀 내 신뢰 구축 ABC - CIO Korea](https://www.ciokorea.com/news/227679)
 * [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [토스에서의 시간을 돌아보며 | Evans Library](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
   * Toss에서 프론트엔드 리더(명확히 얘기하진 않지만, 글의 내용으로 봤을 때)로 일하고 나서의 경험
@@ -1215,10 +1220,6 @@ Business
 * [Seven Transformations of Leadership](https://hbr.org/2005/04/seven-transformations-of-leadership)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 * [리더는 무엇에 집중해야 하는가?](http://moneyman.kr/archives/2471)
-* [Coaching Leader가 된다는 것 ② 최고의 리더 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/coaching-leader%ea%b0%80-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83-2%ed%99%94-_-%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a6%ac%eb%8d%94/)
-* [**계속되는 불확실성에 대처하기 위한 3단계 접근법**](https://www.thinkwithgoogle.com/intl/ko-kr/future-of-marketing/management-and-culture/%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-3%EB%8B%A8%EA%B3%84-%EC%A0%91%EA%B7%BC%EB%B2%95/)
-  * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
-  * 3D - Define, Design, Deliver
 * [신한은행 구나단 감독대행 전격 감독 승격, 3년간 구나단·이휘걸 체제](https://sports.v.daum.net/v/20220222143925194) 프로스포츠에서도 소통, 설명의 중요성
 * [학교 탐방 박수호 분당경영고 코치의 지도 방식, '이유'를 자세히 설명하는 것](https://sports.v.daum.net/v/20220223084624454) 운동부도 이제 설명이 필요한 시대
 * [스푼라디오가 목적 조직으로 일하는 방법(1) : 팀 빌딩 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-1-%ED%8C%80-%EB%B9%8C%EB%94%A9-889fe5571c05)
