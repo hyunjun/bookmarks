@@ -3097,6 +3097,7 @@ Programming
 * [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Engineering Stack Overflow with Roberta Arcoverde](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#)
   * [StackOverflow는 9대의 on-prem 서버로 운영중 | GeekNews](https://news.hada.io/topic?id=6993)
 * [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+* [5 Deployment Best Practices For DevOps | LetsTalkDevOps - YouTube](https://www.youtube.com/watch?v=Gl5Hp9SHvO4)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
