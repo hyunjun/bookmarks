@@ -55,3 +55,4 @@ Psychology
 * [손흥민, 득점왕 압박감에도 "하하"..뇌과학에 그 비밀이](https://news.v.daum.net/v/20220528064701668)
 * [말을 통한 심리적 조종의 9가지 징후 - Wonderful Mind](https://wonderfulmind.co.kr/psychological-manipulation-words/)
 * [공감과 인내에 관한 심리학자 칼 로저스의 7가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/7-of-the-best-quotes-from-psychologist-carl-rogers-empathy-tolerance-and-more/)
+* [인간의 성장에 관한 칼 융의 4가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/quotes-by-carl-jung-on-personal-growth/)
