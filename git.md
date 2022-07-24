@@ -1232,3 +1232,4 @@ Git
 * [10 Best Websites and Tutorials to learn Git for FREE - DEV Community](https://dev.to/javinpaul/10-best-websites-and-tutorials-to-learn-git-for-free-47g6)
 * [누구나 쉽게 이해할 수 있는 Git 입문~버전 관리를 완벽하게 이용해보자~ | Backlog](https://backlog.com/git-tutorial/kr/)
 * [Git & Github Full Course | Part 1 | Introduction to Git | Git Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=UaeZEE4PIG8)
+* [Git for Network Engineers Series - The Basics Part 1 - Cisco Blogs](https://blogs.cisco.com/learning/git-for-network-engineers-series-the-basics-part-1)
