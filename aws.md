@@ -1665,6 +1665,7 @@ AWS
 * [How To Install and Configure Terraform on Amazon Cloud - DevOps Titan](https://devopstitan.com/how-to-install-and-configure-terraform-on-amazon-cloud/)
 * [Terraform을 활용한 NCP 인프라 생성. IAC (Infrastructure as a Code)란? | by 노윤지 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/terraform%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ncp-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%9D%EC%84%B1-2a2be6a94687)
 * [Terraform Archives - DevOps Titan](https://devopstitan.com/category/terraform/)
+* [Terraform Version Upgrade – DEVOPS DONE RIGHT](https://blog.opstree.com/2022/07/19/terraform-version-upgrade/)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
