@@ -100,6 +100,7 @@ Business
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
+* [직장에서 공감이 필요한 이유](https://www.traw.io/blog/why-you-need-empathy-at-work)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [인간관계 부정적인 사람의 5가지 특징](http://moneyman.kr/archives/2269)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
@@ -864,6 +865,7 @@ Business
 * [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
 * [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
 * [유치원생도 이해하는 커뮤니케이션 노하우 - Kyuhan Nam Universe](https://www.morethanair.com/103554/)
+* [Can You Read People's Emotions? - The New York Times](https://archive.nytimes.com/well.blogs.nytimes.com/2013/10/03/well-quiz-the-mind-behind-the-eyes/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -890,6 +892,7 @@ Business
 * [직원의 사기를 꺾지 않고 지적하는 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=21472652&memberNo=1464463)
 * [싸우자는 게 아니라 피드백입니다](https://brunch.co.kr/@workingus/79)
 * [피드백이 없으면 큰일나는 이유 & 조해리의 창](https://blog.naver.com/simzi66/222071895101)
+* [티타임즈 황성현 대표님의 '피드백 노하우' 정리](https://www.slid.cc/share/vdocs/%ED%99%A9%EC%84%B1%ED%98%84-%EB%8C%80%ED%91%9C%EB%8B%98%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%85%B8%ED%95%98%EC%9A%B0-%EC%A0%95%EB%A6%AC-49cfab2dcea94d29b17247b299b8721e)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -1265,6 +1268,8 @@ Business
 * [일 잘하는 직원이 꼭 좋은 리더가 되지 못하는 이유 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=15544890)
 * [임원에게도, 팀원에게도 사랑받는 리더의 소통 법칙 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27530572)
 * [홍석환의 인사 잘하는 남자 직원을 성장시키는 리더의 특징 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202108089486Q)
+* [평사원 히라이 가즈오가 소니를 살린 비결 - 티타임즈](https://www.ttimes.co.kr/article/2022072118297793163)
+* [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
