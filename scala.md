@@ -1018,6 +1018,7 @@ Scala
     * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
     * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
     * [Scala 3 + ZIO 2 + zhttp + Laminar: proof of concept & impressions – Adrian Filip](https://adrianfilip.com/2022/06/27/scala-3-zio-2-zhttp-laminar-proof-of-concept-impressions/)
+    * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1476,6 +1477,7 @@ Scala
 * [macwire: Lightweight and Nonintrusive Scala Dependency Injection Library](https://github.com/softwaremill/macwire)
   * [Autowire - an overview](https://softwaremill.com/autowire-overview/)
 * [Metals - Scala language server with rich IDE features](https://scalameta.org/metals/)
+  * [metals/architecture.md at main · scalameta/metals](https://github.com/scalameta/metals/blob/main/architecture.md)
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
   * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
   * [A Dive into Configuring Metals · Metals](https://scalameta.org/metals/blog/2020/07/23/configuring-a-client.html)
@@ -1611,6 +1613,7 @@ Scala
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
+* [Secure the Dependencies of your Scala Project on GitHub | The Scala Programming Language](https://scala-lang.org/blog/2022/07/18/secure-your-dependencies-on-github.html)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
   * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
@@ -2407,6 +2410,7 @@ Scala
   * [Refined Types in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/refined-types/)
   * [Refined Types in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=IDrGbsupaok)
   * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=Ts_zsamUq7Y) Refined type
+  * [Type safety with refined - Dev notes](https://blog.michalp.net/posts/scala/refined/)
 * [scala-newtype - NewTypes for Scala with no runtime overhead](https://github.com/estatico/scala-newtype)
   * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
   * [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
@@ -2528,6 +2532,7 @@ Scala
 * [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
 * [Resource safety is hard - SPFS #10 - YouTube](https://www.youtube.com/watch?v=Ig2rY0hR6JI)
 * [It's time to traverse (SPFS #11) - YouTube](https://www.youtube.com/watch?v=8dE0gZpm8us)
+* [This is the end! (SPFS #12) - YouTube](https://www.youtube.com/watch?v=erzlLMnf_8s)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
