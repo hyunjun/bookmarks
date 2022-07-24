@@ -744,6 +744,7 @@ Programming
 * [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 * [강남언니가 극도로 애자일하게 협업하는 방법](https://blog.gangnamunni.com/post/radical-collaboration/)
 * [Software development: do good manners matter? PeerJ](https://peerj.com/articles/cs-73/) This paper investigates social aspects among developers working on software projects developed with the support of Agile tools
+* [Agile QA Build Quality In (public ver).pptx - Google Slides](https://docs.google.com/presentation/d/1mY854UAFg6nJ9PIL4i5l0WLMSadc3Ec6/edit)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
