@@ -47,6 +47,7 @@
 * [Why SOLID principles are still the foundation for modern software architecture - Stack Overflow Blog](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
 * [Interface Segregation Principle of SOLID | ISP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/interface-segregation-principle.html)
 * [SOLID Principles : The Single Responsibility Principle - Making Java easy to learn](https://javatechonline.com/solid-principles-the-single-responsibility-principle)
+* [SOLID Principles - YouTube](https://www.youtube.com/playlist?list=PLUg9hRlm7gxTX5b_CYoTsNTI9h5IJU3XG)
 * [Single Responsibility Principle | SOLID Principles - YouTube](https://www.youtube.com/watch?v=ji4VNtbi_70)
 * [결합도와 응집도 이야기](https://devkingdom.tistory.com/300)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
