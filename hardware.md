@@ -327,6 +327,7 @@ Hardware
 * [라즈베리파이 3 B+를 이용해 홈 서버 구축하기](https://blog.rajephon.dev/2019/07/12/setup-raspberrypi-home-server/)
 * [라즈베리 파이로 스마트 오디오 시스템을 만들어 보자](https://blog.chosunghyun.com/kr-raspberry-pi-smart-audio-system/)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi - Christian Hollinger](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
+* [What is Edge Computing?](https://skolaparthi.com/edge-computing/)
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
