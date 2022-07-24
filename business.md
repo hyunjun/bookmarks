@@ -1694,6 +1694,8 @@ Business
   *  YC 내부 플랫폼으로 운영하다가 이번에 공개했고 산업 분야별로 나누어서 볼 수 있음
 * [😸 Github - by Ali Abouelatta - First 1000](https://read.first1000.co/p/-github)
   * [github같이 혁신적인 서비스는 이렇게 만들어진다](https://brunch.co.kr/@nanotoly/86)
+* [스타트업들의 파티는 끝났나? (최재홍×황성현×차경진×김영덕×윤종영) - 티타임즈](https://www.ttimes.co.kr/article/2022072118137726536)
+* [회사가 어려울 때 CEO가 해야할 것, 하지 말아야 할 것 - 티타임즈](https://www.ttimes.co.kr/article/2022072218477792296)
 * [스타트업 4년을 마무리 하며](https://velog.io/@jeonjay/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-4%EB%85%84%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC-%ED%95%98%EB%A9%B0)
 
 # Sillicon Valley
