@@ -234,6 +234,9 @@
 * [개발 실무 디자인 패턴 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771279)
 * [Service와 ServiceImpl 구조에 대해서 - See One](https://see-one.tistory.com/1)
 
+# Go
+* [Design Patterns](https://refactoring.guru/design-patterns/)
+
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
