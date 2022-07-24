@@ -368,6 +368,8 @@ NoSQL
 * [입 개발 아는 사람은 알지만 모르는 사람은 모르는 memcached expire 이슈…](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%95%84%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%95%8C%EC%A7%80%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-memcached/)
 * [Memcrashed DDOS에 대해서 살짝 아는척 해봅시다](https://charsyam.wordpress.com/2018/03/06/%EC%9E%85-%EA%B0%9C%EB%B0%9C-memcrashed-ddos%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%82%B4%EC%A7%9D-%EC%95%84%EB%8A%94%EC%B2%99-%ED%95%B4%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [간단하고 효과적으로 사이트 접속자 수를 세어보자 : 네이버블로그](https://blog.naver.com/crucifyer/222162198110)
+* [Improving Distributed Caching Performance and Efficiency at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b)
+  * [Pinterest의 Memcached Fleet은 EC2 5000대를 사용 | GeekNews](https://news.hada.io/topic?id=6995)
 * [Arcus - the NAVER memcached cloud with list, set and b+tree collections](https://naver.github.io/arcus/)
   * [Java 환경에서 기본 패턴의 캐시 적용을 돕는 ARCUS 공통 모듈 | by Hyeong Jun Yun | JaM2in | Nov, 2020 | Medium](https://medium.com/jam2in/java-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%BA%90%EC%8B%9C-%EC%A0%81%EC%9A%A9%EC%9D%84-%EB%8F%95%EB%8A%94-arcus-%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%93%88-672ae54c32ce)
   * [ARCUS에서 데이터 영구 보존을 위한 Persistence 기능의 개요와 사용법 | by JaM2in | Dec, 2020 | Medium](https://jam2in.medium.com/arcus%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EA%B5%AC-%EB%B3%B4%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-persistence-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EA%B0%9C%EC%9A%94%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95-a7c03d6d1e14)
