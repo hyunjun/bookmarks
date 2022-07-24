@@ -198,7 +198,6 @@ Programming Books
   * 우당 문325.581-차94ㄷ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
-* (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
 * (NOT YET) [일상 속 사물이 알려주는 웹 API 디자인](https://yongho1037.tistory.com/818) API 설계
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
@@ -242,6 +241,7 @@ Programming Books
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라
+* (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 
 # Agile Scrum
 
@@ -383,6 +383,7 @@ Programming Books
   * 한라 005.1-레48ㅇ
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
+* (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
 
 # Amazon AWS
 
@@ -1140,6 +1141,8 @@ Programming Books
 * (NOT YET) [텐서플로를 이용한 고급 딥러닝 수학의 기초와 함께 이해하는 파이썬 딥러닝](http://acornpub.co.kr/book/pro-deep-learning-tensorflow)
 * (NOT YET) [텐서플로와 유니티 ML-Agents로 배우는 강화학습 - 다섯 가지 게임을 제작하며 살펴보는 심층 강화학습](https://wikibook.co.kr/tensorflow-mlagents/)
 * (NOT YET) [텐서플로로 하는 딥러닝 기초와 응용 | 에이콘출판사](http://www.acornpub.co.kr/book/nn-tensorflow2)
+* (NOT YET) [텐서플로 라이트를 활용한 안드로이드 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B2354289186)
+* (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
 
 ## PyTorch
 * [만들면서 배우는 파이토치 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B7628794939)
@@ -1254,6 +1257,7 @@ Programming Books
   * 탐라 문005.1-안72ㄷ
 * (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
   * 탐라 문005.1-이94ㄷ
+* (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -1359,9 +1363,11 @@ Programming Books
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
 
 # Flutter
+* (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
   * [처음 배우는 플러터 :: 배워서 남주자](https://countryxide.tistory.com/177)
 * (NOT YET) [소문난 명강의 : 오준석의 플러터 생존 코딩](http://hanbit.co.kr/store/books/look.php?p_code=B9770627589)
+* (NOT YET) [플러터 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B6928806254)
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
@@ -2527,6 +2533,7 @@ Programming Books
 * (NOT YET) [메이저리그 야구 통계학 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mlb-statistics-2e)
   * 한라, 탐라
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
+  * [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R: 교육, 고용, 코로나 데이터를 활용한 시계열 프로젝트](https://jpub.tistory.com/1177)
 * (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
   * 우당
 * (NOT YET) 나성호의 R 데이터 분석 입문 [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
@@ -2671,6 +2678,7 @@ Programming Books
 
 # TDD Test
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
+* (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
