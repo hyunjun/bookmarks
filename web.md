@@ -1239,6 +1239,7 @@ Web
 * [Top 10 REST Interview Questions for Java and Spring Developers | by javinpaul | Javarevisited | Apr, 2022 | Medium](https://medium.com/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)
 * [Java Guides on Twitter: "Amazing REST API Design Cheat Sheet: https://t.co/vqLvNdMjLi" / Twitter](https://twitter.com/GuidesJava/status/1527257487115952128/photo/1)
 * [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
+* [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
