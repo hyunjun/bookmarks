@@ -579,6 +579,7 @@ Programming
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
+* [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
