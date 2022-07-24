@@ -174,6 +174,7 @@
 * [smarter-shared-kotlin-flows | Medium](https://bladecoder.medium.com/smarter-shared-kotlin-flows-d6b75fc66754)
 * [Kotlin Metadata Deep Dive. Recently, I encountered a headache when… | by Johnson Lee | Jun, 2022 | Medium](https://medium.com/@johnson.lee/kotlin-metadata-deep-dive-2a966b45521a)
 * [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
+* [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
