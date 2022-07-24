@@ -4124,6 +4124,7 @@ Javascript
   * [Improving page performance | Next.js - YouTube](https://www.youtube.com/watch?v=hZr4J42JDoc)
   * [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
   * [NextJs Application Architecture for best performance | by Sushin Pv | May, 2022 | Medium](https://medium.com/@sushinpv/nextjs-application-architecture-for-best-performance-8f1d22e33ba1)
+  * [Next.js + TypeScript + ESLint + Prettier + 절대경로 + styled-components + Recoil + React Query 프로젝트 세팅](https://velog.io/@bjy100/Next.js-Next.js-TypeScript-ESLint-Prettier-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-styled-components-Recoil-React-Query-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
