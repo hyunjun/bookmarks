@@ -256,6 +256,7 @@ Machine Learning
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
 * [Overcoming overfitting a model in Machine Learning | by Abhishek Shah | Jun, 2022 | Medium](https://medium.com/@jwbtmf/overcoming-overfitting-a-model-in-machine-learning-7dd6324d15bf)
 * [L2 Regularization](https://bcho.tistory.com/1386)
+* [#Python | Reduce Overfitting: 1) Model Capacity 2) Regularization 3) Dropout | #Regularization - YouTube](https://www.youtube.com/watch?v=pZfYLPLpTzw)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [The Secret behind Train and Test Split in Machine Learning Process - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/the-secret-behind-train-and-test-split)
 * [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
