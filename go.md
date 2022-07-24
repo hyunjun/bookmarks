@@ -322,6 +322,7 @@ Go
 * [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 * [Vidya | Scala or Go: Who Wore It Better?](https://www.vidyasource.com/blog/scala-go)
 * [P1 How to build real go project (library & micro-service) with source code - YouTube](https://www.youtube.com/watch?v=EFrs0-0KWns)
+* [Go Developer Roadmap - YouTube](https://www.youtube.com/watch?v=RVgJ2rvPjEU)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
