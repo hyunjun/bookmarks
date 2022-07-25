@@ -271,6 +271,7 @@ Book
   * 한라 495.2-김25ㄱ 탐라 그래픽495.2-김225ㄱ 우당 문495.2-김225ㄱ
 * (NOT YET) [만화로 배우는 공룡의 생태](https://www.hanbit.co.kr/store/books/look.php?p_code=B4285908843)
   * 한라 아457.279-김25고 탐라 아457-김225ㄱ 우당 문457-김225ㄱ
+* (NOT YET) 폴 크루그먼, 좀비와 싸우다 [실패한 ‘부자감세 좀비’ 국민을 더 가난으로 내몬다 - 경향신문](https://www.khan.co.kr/culture/book/article/202207221124001)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -911,3 +912,4 @@ Book
 * (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
   * [알라딘: 유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
   * [알라딘: 유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
+* (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)
