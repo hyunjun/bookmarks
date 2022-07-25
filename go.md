@@ -597,6 +597,8 @@ Go
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
+* [excelize: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets](https://github.com/qax-os/excelize)
+  * [Golang Excelize Library - YouTube](https://www.youtube.com/playlist?list=PLW-1ky8wqAU7ZqtH-xEVAQNqjarVc0pTl)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [~FRAGMENTA - websites with Go~](http://fragmenta.eu/)
