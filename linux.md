@@ -147,6 +147,7 @@ Linux
 * [A journey into the Linux scheduler | Maxgio's blog](https://blog.maxgio.me/posts/linux-scheduler-journey/)
 * [뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 - 넷마블 기술 블로그](https://netmarble.engineering/protect-root-account-at-linux/)
 * [알리바바가 외친 “열려라 참깨”에는 열리지 않는 문 - 넷마블 기술 블로그](https://netmarble.engineering/optimize-linux-account-and-password/) 계정
+* [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -316,6 +317,7 @@ Linux
 * [Ubuntu 20.04 LTS 개발 설정](https://gist.github.com/azyu/ea28c2e929ffd59b93f1fc4275bb7339)
 * [AppArmor 란 무엇이며 Ubuntu를 어떻게 안전하게 유지합니까? - TheFastCode](https://www.thefastcode.com/ko-krw/article/what-is-apparmor-and-how-does-it-keep-ubuntu-secure)
 * [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
+* [How to Setup GlusterFS in Ubuntu - YouTube](https://www.youtube.com/watch?v=gEG7Eu320Rk)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 
 # Automation
