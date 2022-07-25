@@ -1271,6 +1271,7 @@ Business
 * [홍석환의 인사 잘하는 남자 직원을 성장시키는 리더의 특징 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202108089486Q)
 * [평사원 히라이 가즈오가 소니를 살린 비결 - 티타임즈](https://www.ttimes.co.kr/article/2022072118297793163)
 * [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
+* [게임 '문명'이 보여주는 보상 체계](https://brunch.co.kr/@drunkensky/298)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
