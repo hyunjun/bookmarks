@@ -4639,6 +4639,7 @@ Javascript
 * [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
 * [TypeORM 마개조했습니다. · 감자도스](https://blog.potados.com/dev/typeorm-extended/)
 * [TypeORM의 built-in migration 이용하기](https://velog.io/@dev_leewoooo/TypeORM%EC%9D%98-built-in-migration-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [TypeORM을 sqlite로 Test하기](https://velog.io/@dev_leewoooo/TypeORM%EC%9D%84-sqlite%EB%A1%9C-Test%ED%95%98%EA%B8%B0)
 * [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
