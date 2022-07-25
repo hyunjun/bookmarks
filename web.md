@@ -1059,6 +1059,7 @@ Web
   * [WebSockets In Python FastAPI — Fetching Data At Super Speed | by Zlliu | May, 2022 | Python in Plain English](https://python.plainenglish.io/websockets-in-python-fastapi-fetching-data-at-super-speed-3c7b355949fd)
   * [uvicorn, fastapi 비동기 메커니즘 이해](https://blog.naver.com/pjt3591oo/222772705407)
   * [느슨해진 백엔드씬에 긴장감을 주는 FastAPI 프레임워크 - YouTube](https://www.youtube.com/watch?v=5A67mQ2Pt9s)
+  * [개발자의 공부법! 파이썬 FastAPI 공식문서로 처음부터 공부하기 - YouTube](https://www.youtube.com/watch?v=ZqSpl0Ic8ik)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
