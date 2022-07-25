@@ -51,6 +51,7 @@
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
     * 세션이 중심이었던 대신 사용자가 중심이 되어서 세션이 GA3보다 적게 수집될 가능성이 커졌고 이탈률이 사라지고 Engagement 이벤트를 통해서 사용자의 관여 정도와 목표설정이 가능
   * [Next.js와 Google analytics + Google optimize 설정하기](https://tech.youha.info/27e8f606-69a5-487b-ae92-c743106b187f)
+  * [구글 애널리틱스4 지표에서 사라진 브라우저 크기 수집하기 - 넷마블 기술 블로그](https://netmarble.engineering/collecting-viewport-at-ga4-with-gtm/)
 * Topic API
   * [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
   * [Get to know the new Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
