@@ -4191,6 +4191,7 @@ Programming
 * [**레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 :: Kaden Sungbin Cho**](https://kadensungbincho.tistory.com/72)
 * [How I Failed to Deal With Legacy Code](https://medium.com/better-programming/how-i-failed-to-deal-with-legacy-code-8e123cff5bce)
 * [피할 수 없다면 관리하라··· '레거시 IT' 정돈 팁 8가지 - CIO Korea](https://www.ciokorea.com/news/214289)
+* [레거시는 과감하게 버려야 하는가?](https://brunch.co.kr/@graypool/523)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
