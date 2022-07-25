@@ -456,6 +456,7 @@ AWS
     * Reserved Instance와 Savings Plan을 분기별로 나누어 구매해서 약정해도 유연함을 가지도록 관리하고
     * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
   * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
+* [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
