@@ -105,6 +105,7 @@
 * [ASP.NET Core 에서 커스텀 json 파일 사용하기 : zelon's blog](https://blog.wimy.com/468/)
 * [Asp.net Core platformda Devextreme Scheduler - YouTube](https://www.youtube.com/watch?v=yx_tTRgi3BE)
 * [Asp.Net Core Ip Black List and White List Middleware - YouTube](https://www.youtube.com/watch?v=IWXy-JCFqxY)
+* [Create Web-API in just 1sec, with asp.net core with clean Architecture V2.0 - YouTube](https://www.youtube.com/watch?v=tvmJii2y9o8)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
