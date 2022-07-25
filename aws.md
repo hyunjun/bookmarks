@@ -1207,6 +1207,7 @@ AWS
 * [AWS Lambda GraalVM native: Quarkus vs plain Java | by Aleksandr Filichkin | May, 2022 | Medium](https://filia-aleks.medium.com/aws-lambda-graalvm-native-quarkus-vs-plain-java-90176eff515d)
 * [Cold Start Comparison of AWS Lambda, Cloudfront, Cloudflare Workers | Ddosify](https://medium.com/ddosify/cold-start-comparison-of-aws-lambda-and-cloudflare-workers-a3f9021ee60a)
   * [AWS Lambda 와 Cloudflare Workers 의 콜드스타트 비교 | GeekNews](https://news.hada.io/topic?id=6562)
+* [AWS Lambda 함수 URL을 이용하여 편리하고 안전한 API 서버와 클라이언트 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/creating-api-server-using-aws-lambda-function-url/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
