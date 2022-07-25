@@ -61,6 +61,7 @@ Programming
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
+* [A Complete Learning Path to Becoming a Backend Developer | Boot.dev](https://blog.boot.dev/backend/become-backend-developer/)
 * [66.(요약) 개발자 분류와 공부해야 하는 기술](https://brunch.co.kr/@topasvga/1382)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
@@ -3104,6 +3105,7 @@ Programming
   * [StackOverflow는 9대의 on-prem 서버로 운영중 | GeekNews](https://news.hada.io/topic?id=6993)
 * [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
 * [5 Deployment Best Practices For DevOps | LetsTalkDevOps - YouTube](https://www.youtube.com/watch?v=Gl5Hp9SHvO4)
+* [Let's Talk DevOps | Project Setup | Colima & Docker | Akshay Pk in Tamil - YouTube](https://www.youtube.com/watch?v=qAPRWDB8o6g)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
