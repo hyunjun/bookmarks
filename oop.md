@@ -311,6 +311,7 @@
 * [자바스크립트에서 객체 지향을 하는 게 맞나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1396/)
   * 프로그래밍이 발전하면서 구조체, 클래스, 객체가 생기게 된 흐름과 객체지향 프로그래밍의 캡슐화, 추상화, 다형성, SOLID까지 간단한 예제로 쉽게 읽히게 잘 설명
   * 뒷부분에서는 JavaScript는 브랜든 아이크가 객체지향을 좋아하지 않았기 때문에 다른 방법으로 객체지향을 할 수 있게 설계하면서 지금의 구조가 된 과정을 설명
+* [Design Patterns in Node.js: A Practical Guide](https://morioh.com/p/4044a1d621b0)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
