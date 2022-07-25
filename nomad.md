@@ -226,6 +226,7 @@ Nomad & Remote
 * [리엑트네이티브서울 11. 베를린 Software engineer 취업기 (독일 개발자 취업)](https://www.youtube.com/watch?v=Etfzh8IqH1A)
 * [독일에 프로덕트 매니저로 취직하기 매거진](https://brunch.co.kr/magazine/pmingermany) Zalando
   * [베를린 직장인 1년 기념 셀프Q&A 👋🙈 #셀프인터뷰 #해외취업 #독일직장인 - YouTube](https://www.youtube.com/watch?v=rq0CXsblX5Y)
+* [Developer Salaries 2022 Report Germany | .cult by Honeypot](https://cult.honeypot.io/reads/developer-salaries-2022-report-germany/)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
