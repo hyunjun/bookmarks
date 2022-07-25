@@ -58,6 +58,7 @@ Business
   * 구글에서 일하던 스캇 케네디라는 사람이 Replit이라는 스타트업으로 이직한 회고를 번역한 글
   * 2011년 구글에 합류해서 너무 좋았고 재정 상태도 좋아졌지만, 시간이 지나면서 인생의 균형이 깨졌다는 것을 깨달음
   * 구글이 너무 큰 조직이 되다 보니 업무 시간이 많지 않음에도 번아웃이 오는 것을 느끼고 큰 조직의 걱정이 없는 작은 스타트업으로 이직
+* [Burnout Guide: Symptoms, Causes, and Prevention - Commoncog](https://commoncog.com/g/burnout/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
@@ -121,6 +122,7 @@ Business
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
+* [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
 * [**Don't (guess)timate your projects, forecast with confidence - Reaktor**](https://www.reaktor.com/blog/forecasting-method/)
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
@@ -688,6 +690,8 @@ Business
 * [Onboard New Developers with Better Coding Practices | HackerNoon](https://hackernoon.com/onboard-new-developers-with-better-coding-practices)
 * [티켓플레이스는 개발을 어떻게 하나?](https://tech.youha.info/ba6dca66-a1f6-4c73-912a-c3e4b438ef0f)
 * [#5 번역 Tesla 'Anti-Handbook' Handbook - BZCF’s Newsletter](https://bzcf.substack.com/p/5-tesla-anti-handbook-handbook)
+* [왓챠의 온보딩 프로세스. 동료들의 피드백으로 더 단단해지고, 체계를 갖춘 왓챠의 온보딩… | by 왓챠 | WATCHA | Jul, 2022 | Medium](https://medium.com/watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278)
+  * [왓차의 온보딩 프로세스 | GeekNews](https://news.hada.io/topic?id=6992)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -930,6 +934,7 @@ Business
 * [EN Specialist : CTO 하쿠](https://recruit.enlighten.kr/3779abfb-c274-4c6a-8e61-628b97b6bd97)
 * [전 웨이브 CTO, 아마존코리아 이사, 34년 경력의 개발자가 세특에 합류한 이유: 세탁특공대 CTO 필릭스 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254169)
 * [기고 | 개발·전략 모두 하는 새로운 길··· ‘코딩 리더’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/238439)
+* [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
