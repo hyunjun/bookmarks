@@ -1277,6 +1277,7 @@ Business
 * [평사원 히라이 가즈오가 소니를 살린 비결 - 티타임즈](https://www.ttimes.co.kr/article/2022072118297793163)
 * [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
 * [게임 '문명'이 보여주는 보상 체계](https://brunch.co.kr/@drunkensky/298)
+* [대기업이 엔터사를 베껴야 하는 이유 (f. 형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072518277769727)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
