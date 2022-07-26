@@ -851,6 +851,7 @@ Javascript
     * `XMLHttpRequest`이나 `fetch`로 요청이 실패했을 때 재시도하는 전략 설명
     * 실패했을 때 즉시 재시도하면 불필요하게 과도한 트래픽을 서버에 일으킬 수 있어서 장애를 더욱 심하게 만들 수 있으므로
     * 지연시간 추가, 백오프로 실패할수록 지연 시간을 늘리고 이 시간을 랜덤화해서 분산되도록 개선하는 과정 설명
+* [Retry mechanism in JavaScript - YouTube](https://www.youtube.com/watch?v=f4yxN8KimK8)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
