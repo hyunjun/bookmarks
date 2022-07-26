@@ -203,6 +203,7 @@ Business
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
+* [할 말을 안해서 사고가 나는 경우 > 안 할 말도 해서 사고가 나는 경우](https://www.facebook.com/cjunekim/posts/pfbid0XZFKUXc71BDb8EMZbB9e2eSd1uq172bW7t2i3odBbtZFCVP81x7uep43snd2KNQDl) 항공업계 이야기
 * [美 IT업계서 45년 일한 어느 개발자의 여섯가지 조언 - ZDNet korea](https://zdnet.co.kr/view/?no=20210108154359)
 * [스타트업 업계에선 "허락을 받지 말고 용서를 구해라 (Don't | 김영민 | 퍼블리 뉴스](https://news.publy.co/comments/10393) 용서를 구하지 말고 의도를 밝혀라 (Don't ask forgiveness, radiate intent)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
