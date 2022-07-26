@@ -199,6 +199,7 @@ Business
 * [내가 왜 옆 팀 업무를 알아야 돼···스타트업 갉아먹는 사일로 현상 위험경보 │ 매거진한경](https://magazine.hankyung.com/job-joy/article/202107136908d)
 * [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
 * [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
+* [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
