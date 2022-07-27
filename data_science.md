@@ -393,6 +393,7 @@ Data Science
 * [There's no such thing as data — Benedict Evans](https://www.ben-evans.com/benedictevans/2022/5/27/theres-no-such-thing-as-data)
 * [카카오페이 유저 프로파일링, 페이프로파일 | Kakao Pay Tech](https://tech.kakaopay.com/post/pay-profile)
 * [Data Versioning for Modern Data Teams and Platforms | by Christianlauer | CodeX | Jul, 2022 | Medium](https://medium.com/codex/data-versioning-for-modern-data-teams-and-platforms-86e8bba14f14)
+* [데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html) data build tool
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
