@@ -456,6 +456,8 @@ AWS
     * Reserved Instance와 Savings Plan을 분기별로 나누어 구매해서 약정해도 유연함을 가지도록 관리하고
     * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
   * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
+* [FinOps](https://github.com/newstars/FinOps)
+* [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
 
 # AMI Amazon Machine Image
@@ -1188,6 +1190,7 @@ AWS
 * [Running the stock NGINX container image with AWS Lambda · IT 2.0](https://it20.info/2021/11/running-the-stock-nginx-container-image-with-aws-lambda/)
 * [Issues to Avoid When Implementing Serverless Architecture with AWS Lambda | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/mistakes-to-avoid-when-implementing-serverless-architecture-with-lambda/)
 * [AWS의 람다는 api를 만드는 유용한 도구입니다. 람다를 지원하는 여러 언어가 있지만 Python을 쓰는 것이 합리적입니다. 온라인 에디터를 지원하는 3개의 언어 중 하나이고 대기 상태에서 깨어나는 시간이 가장 빠른 언어이기 때문입니다. 파이썬으로 DynamoDB를 다룰 때 필요한 여러 예제가 있습니다. 먼저, get_item은 테이블에서 키의 조건에… - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EB%9E%8C%EB%8B%A4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9E%85%EB%8B%88%EB%8B%A4-2a801d280866)
+* [AWS Lambda의 저장소. 람다는 AWS 서버리스의 핵심 서비스이고 MSA의 교과서 같은… | by 이상선의 개발 블로그 | Jun, 2022 | Medium](https://medium.com/@sunyi233/aws-lambda%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%86%8C-676fcd0bf92b)
 * [Project using Lambda (Python), S3, DynamoDB, RDS (MySQL), SNS with step by step explanation & guide - YouTube](https://www.youtube.com/watch?v=K1jqLUeLEwU)
 * [AWS Lambda Tutorial | Beginners to Advanced | Lambda Functions Tutorial - YouTube](https://www.youtube.com/watch?v=D5HsgNtqStk)
 * [AWS Lambda의 동작 원리 - 전역 변수가 유지될까? | blog.hoseung.me](https://blog.hoseung.me/2022-02-27-lambda-global-variables/)
@@ -1688,6 +1691,7 @@ AWS
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
 * [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
 * [AWS Builders 온라인 시리즈](https://aws.amazon.com/ko/events/builders-online-series/)
+* [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
