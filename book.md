@@ -582,6 +582,7 @@ Book
 * (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
   * 한라 915-쉬34ㅇ
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
+* (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
