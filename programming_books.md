@@ -242,6 +242,7 @@ Programming Books
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
+* (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
 
 # Agile Scrum
 
@@ -2675,6 +2676,7 @@ Programming Books
 * (NOT YET) [통계학: 파이썬을 이용한 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=164788166)
 * (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
 * (NOT YET) [파이썬으로 배우는 통계학 교과서 기초 이론부터, 모델, 머신러닝까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7226175941)
+* (NOT YET) [<파이썬을 활용한 베이지안 통계(2판)> 번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/thinkbayes2nd/)
 
 # TDD Test
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
