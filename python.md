@@ -433,6 +433,7 @@ Python
 * [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
 * [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
 * [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
+* [파이썬 초보자가 저지르는 10가지 실수 | 요즘IT](https://yozm.wishket.com/magazine/detail/1605/)
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
 * [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
@@ -4732,6 +4733,8 @@ Python
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
   * [Speed up your Pandas Processing with Swifter - Towards Data Science](https://towardsdatascience.com/speed-up-your-pandas-processing-with-swifter-6aa314600a13)
+  * [Swifter Speeds Up Pandas DataFrames - YouTube](https://www.youtube.com/watch?v=UpZf1uIo1M4)
+  * [swifter_tutorial.ipynb - Colaboratory](https://colab.research.google.com/drive/1GVo3y-ul19DA5f8yLW8s4Innubc8iAwI)
 * [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
   * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
   * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
