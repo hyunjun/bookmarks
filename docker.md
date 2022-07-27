@@ -1414,6 +1414,7 @@ Docker
 * [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
 * [Kubernetes Deployment Strategies | DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=aU-EtdEOdlM)
 * [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
+* [쿠버네티스 애플리케이션에서 Bus Error (Core Dumped) 대처법 정리 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-bus-error-core-dumped-%EB%8C%80%EC%B2%98%EB%B2%95-%EC%A0%95%EB%A6%AC-55580e14e003)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1454,6 +1455,7 @@ Docker
     * [How to implement GitOps with ArgoCD to deploy Helm Charts on Kubernetes | Level Up Coding](https://levelup.gitconnected.com/gitops-ci-cd-using-github-actions-and-argocd-on-kubernetes-909d85d37746)
     * [How to Deploy the Application automatically using Argo CD - FoxuTech](https://foxutech.com/how-to-create-the-application-automatically-using-argo-cd/)
     * [Argo CD에서 App 배포도 GitOps스럽게 하기](https://heumsi.github.io/blog/posts/argocd-apps-deployment/)
+    * [Argo CD Projects and Examples - FoxuTech](https://foxutech.com/argo-cd-projects-and-examples/)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
