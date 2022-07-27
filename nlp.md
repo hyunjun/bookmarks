@@ -276,6 +276,7 @@ NLP
 * [Transformer:언어 이해를 위한 새 신경망 구조](https://brunch.co.kr/@synabreu/94)
 * [How-to Build a Transformer for Language Classification in TensorFlow](https://morioh.com/p/549c05d48f8e)
 * [NLP 논문 구현 pytorch로 구현하는 Transformer (Attention is All You Need) – Hansu Kim](https://cpm0722.github.io/pytorch-implementation/transformer)
+* [트랜스포머 transformer positional encoding](https://www.blossominkyung.com/deeplearning/transfomer-positional-encoding)
 * [tta: Transformer-based Text Auto-encoder (T-TA) using TensorFlow 2](https://github.com/jeongukjae/tta)
 * [Transformers Explained Visually (Part 1): Overview of Functionality | by Ketan Doshi | Towards Data Science](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 * [Transformers Explained Visually (Part 2): How it works, step-by-step | by Ketan Doshi | Towards Data Science](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
