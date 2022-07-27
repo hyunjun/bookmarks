@@ -541,6 +541,7 @@ Business
 * [명확하게 요구해야 하는 3가지 이유](http://moneyman.kr/archives/3949)
 * [아무 것도 하지 않으면 아무 일도 일어나지 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242688)
 * [인정받고자 하는 욕구를 배반하는 5가지 태도 - Wonderful Mind](https://wonderfulmind.co.kr/5-attitudes-betray-need-for-approval/)
+* [일의 매듭 짓기: 개발자의 ABC · Soojin Ro](https://soojin.ro/blog/abc-of-devs) Always Be Closing
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -655,6 +656,7 @@ Business
 * [잘 될 거 같았는데 안 된 스타트업 CEO들의 특징](https://eopla.net/magazines/62)
 * [임직원은 ‘경영 자원’이요, 채용은 ‘자원 내재화’입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hr20220621)
 * [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
+* [빨라지는 HR의 진화 속도 긱스](https://news.v.daum.net/v/20220721164601921)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1280,6 +1282,7 @@ Business
 * [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
 * [게임 '문명'이 보여주는 보상 체계](https://brunch.co.kr/@drunkensky/298)
 * [대기업이 엔터사를 베껴야 하는 이유 (f. 형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072518277769727)
+* [나의 외국인 매니저 체험기 :: Channy's Blog](http://channy.creation.net/blog/1663)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
