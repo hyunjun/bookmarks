@@ -784,6 +784,7 @@ Javascript
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
 * [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
+* [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [How we Build a Component Library. How we implement a UI component library… | by Jonathan Saring | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131) design system
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
@@ -4655,6 +4656,7 @@ Javascript
 * [프런트엔드 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmSkhWw-JxxjLqqtV50eF8tG)
 * [JavaScript 에서 TypeScript 로](https://www.nextree.io/typescript-vs-javascript/)
 * [TypeScript에서 generic과 index type의 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-20T00:00:00.000Z)
+* [What Are Generics in TypeScript?. TypeScript is missing part of… | by Mahesh Haldar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/what-are-generics-in-typescript-learn-this-for-better-typescripting-22bed7529f89)
 * [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 * [Implementing the Elo Rating System | by Matt Mazzola | Medium](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065)
 * [올해 버려야 할 타입스크립트 나쁜 버릇 10가지 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210217)
