@@ -57,6 +57,10 @@ App
 * [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
 * [빠른 목업 제작을 위해 알아두면 좋은 서비스들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1083/) mockup
 * [35년간의 뉴스레터 운영에서 얻은 경험들 | GeekNews](https://news.hada.io/topic?id=6201) newsletter
+* [개발자와 대화할 때 유용한 도구 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1597/)
+  * whatismybrowser.com [What browser? My browser? Is my browser out of date?](https://www.whatismybrowser.com/)
+  * locaping.com/traceroute [Traceroute From Multiple Locations | LocaPing](https://locaping.com/traceroute)
+  * [Screenfly - The Ultimate Screen Testing Tool 📱 - Blue Tree](https://bluetree.ai/screenfly/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
@@ -1476,6 +1480,7 @@ App
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
   * [Create Beautiful Architecture Diagrams with Python | by Dylan Roy | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97)
+* [Diagram as Code - by Alex Xu - ByteByteGo Newsletter](https://blog.bytebytego.com/p/diagram-as-code) diagrams, mermaid, ascii editor, plantuml, markmap, go diagrams
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [Domain Story Modeler](https://www.wps.de/modeler/)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
