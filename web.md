@@ -189,6 +189,7 @@ Web
 * [The Cookieless World - 디지털 마케팅의 새 시대를 위한 가이드 | GeekNews](https://news.hada.io/topic?id=4761)
 * [Cookie와 WebStorage에 대한 정리 # Web](https://developer88.tistory.com/390)
 * [What are Cookies? | Explained in Detail](https://blog4hacking.blogspot.com/2022/01/what-are-cookies-explained-in-detail.html)
+* [Cookies Policy | Why you need a Cookie Policy Page in 2021 - YouTube](https://www.youtube.com/watch?v=RGX5u8fu-1o)
 * [쿠키와 세션 - 김다은 · Present](https://present.do/presentations/6252916c12168b359e2e5f21)
 * [파이어폭스, 무분별한 쿠키 활용 막는 ‘쿠키 통’ 기능 추가 - ITWorld Korea](https://www.itworld.co.kr/news/240099)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
