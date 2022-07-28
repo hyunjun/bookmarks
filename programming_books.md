@@ -544,6 +544,7 @@ Programming Books
   * 한라
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
   * 탐라 문005.12-인228ㅇ
+* (NOT YET) 그림으로 공부하는 마이크로서비스 구조 [기술적 부채, monolith vs. 마이크로서비스](https://jpub.tistory.com/1300?category=203154)
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
   * 탐라 문005.133-퍼59ㅍ
   * [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
@@ -934,6 +935,7 @@ Programming Books
   * 한라
   * [독서광 책 vs 책:정형 vs 비정형 딥러닝 - YouTube](https://www.youtube.com/watch?v=TlikY0zge-g)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
+* (NOT YET) 딥러닝을 위한 수학 [론 크노이젤의 친절한 딥러닝 수학](https://jpub.tistory.com/1299?category=203154)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
