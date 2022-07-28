@@ -1287,6 +1287,7 @@ Business
 * [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
 * [게임 '문명'이 보여주는 보상 체계](https://brunch.co.kr/@drunkensky/298)
 * [대기업이 엔터사를 베껴야 하는 이유 (f. 형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072518277769727)
+* [‘환꼰탈태 프로그램’ 만든 사장님의 꼰대 치료법 (f.형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072818087764135)
 * [나의 외국인 매니저 체험기 :: Channy's Blog](http://channy.creation.net/blog/1663)
 
 # Manager Management
