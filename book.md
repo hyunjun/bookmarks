@@ -204,6 +204,7 @@ Book
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
   * [김현종, 한미 FTA를 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/FTA.md)
   * [김현종, 한미 FTA를 말하다. 1부 22세기 희망 전략 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-fta%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4-9b19010d0daf)
+  * [김현종, 한미 FTA를 말하다](https://jh4hj.tistory.com/entry/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-FTA%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
