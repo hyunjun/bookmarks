@@ -202,6 +202,8 @@ Book
     * 김현종은 한 인터뷰에서 ‘미국과 협상할 때 우리가 무슨 조건을 제시 했는가’하는 질문에 다음과 같이 답했다. “우리가 무슨 조건을 내세우면 그들은 더 많은 반대급부를 요구한다. 그렇기 때문에 그런 조건을 내세우지 않는다.” 그것이 김현종이다.
     * 전체적인 상황을 이해하고, 우리 장단점을 명확히 인식하고, 협상대상자에 대해 면밀히 살펴 대처하고, 기다려야 할 때는 인내하고, 상대방 약점을 파악해 집요하게 물고 늘어지고, 상대방이 고전할 때 면을 세워주고... 그것이 김현종의 협상전략이다.
   * [대미 통상외교의 '막전막후'](https://news.v.daum.net/v/M0KIuLwUxD)
+  * [김현종, 한미 FTA를 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/FTA.md)
+  * [김현종, 한미 FTA를 말하다. 1부 22세기 희망 전략 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-fta%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4-9b19010d0daf)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
