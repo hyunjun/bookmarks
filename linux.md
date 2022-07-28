@@ -319,6 +319,7 @@ Linux
 * [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 * [How to Setup GlusterFS in Ubuntu - YouTube](https://www.youtube.com/watch?v=gEG7Eu320Rk)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
+* [우분투 하드 디스크 추가 마운트 하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/add-harddisk/)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
