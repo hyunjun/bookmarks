@@ -1269,6 +1269,7 @@ Javascript
 * [ECMAScript 2022 살펴보기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/07/06/ECMAScript-2022.html)
 * [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
   * [번역 Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요?](https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+* [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
@@ -3703,6 +3704,7 @@ Javascript
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [How to Build a Skeleton Loader with React | by L Javier Tovar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-skeleton-loader-with-react-1dd359cda582)
 * [Solved - TypeError: map is not a function in Reactjs - YouTube](https://www.youtube.com/watch?v=V7id121k_ds)
+* [Reactjs 18 React Router Dom Working Example - Therichpost](https://therichpost.com/reactjs-18-react-router-dom-working-example/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4702,6 +4704,7 @@ Javascript
 * [Advanced TypeScript With Code Challenges: Awaited Type | by Marius Bongarts | Jun, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-awaited-type-e823a3b3dc3d)
 * [How to Share Types Between Frontend and Backend Apps | by Jonathan Saring | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-share-types-between-frontend-and-backend-apps-15753f26d53e)
 * [How to master advanced TypeScript patterns](https://morioh.com/p/0d8b3523d82f)
+* [Why I'm Learning Typescript - DEV Community](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
