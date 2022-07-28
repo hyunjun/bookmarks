@@ -1452,6 +1452,7 @@ App
 * discord
   * [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
   * [Scala's Gitter to Discord migration mistake - Alexandru Nedelcu](https://alexn.org/blog/2022/04/09/scala-gitter-discord-mistake/)
+  * [디스코드에서 대용량파일 보내는 쉽고 새로운 방법](https://about.file.kiwi/35)
 * [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 * slack
