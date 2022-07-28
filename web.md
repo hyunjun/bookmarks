@@ -130,6 +130,7 @@ Web
 * [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
 * [How to Learn Fullstack Development: A Roadmap in Charts](https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f)
 * [2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
+* [frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [Node.js, PHP/JSP/ASP 및 Apache/Nginx에 대한 비교](https://okky.kr/article/403922)
