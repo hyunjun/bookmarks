@@ -2684,6 +2684,7 @@ Programming
 * [Continuous Integration(지속적 통합) - 기계인간 John Grib](https://johngrib.github.io/wiki/continuous-integration/)
 * [Agile, DevOps, and CI/CD – How are they related? | ReviewNPrep](https://reviewnprep.com/blog/agile-devops-and-ci-cd/)
 * [CICD Integration tools and best practices as per stage Razorops Webinars | Razorops](https://razorops.com/webinars/cicd-integration-tools-and-best-practices-as-per-stage/)
+* [GitLab CI/CD pipeline con i custom runners e Docker - YouTube](https://www.youtube.com/watch?v=yHBgQoGcu_o)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
@@ -3009,6 +3010,7 @@ Programming
 * ["Finding bugs without running or even looking at code" by Jay Parlar - YouTube](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
   * [Alloy | MIT CSAIL](https://www.csail.mit.edu/research/alloy)
 * [Bugs in Hello World · sunfishcode's blog](https://blog.sunfishcode.online/bugs-in-hello-world/)
+* [Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?](https://engineering.ab180.co/stories/player-unknowns-bug)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
@@ -4646,6 +4648,7 @@ Programming
 * [Interpreting A/B test results: false positives and statistical significance | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
 * [1주 1개 실험하는 프로덕트 팀이 되는 여정. 안녕하세요 당근마켓 중고거래팀에서 데이터 분석가로 일하고 있는… | by matthew l | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
 * [데이터 기반의 의사결정, 실패하지 않는 프로덕트의 비밀 #핵클 | 원티드](https://www.wanted.co.kr/events/22_04_s06_b01)
+* [1주 1개 실험하는 프로덕트 팀이 되는 여정. 안녕하세요 당근마켓 중고거래팀에서 데이터 분석가로 일하고 있는… | by matthew l | 당근마켓 팀블로그 | Medium](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
