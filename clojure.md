@@ -921,6 +921,7 @@ Clojure
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
   * [Conditional Queries in Datomic](https://grishaev.me/en/datomic-query/)
   * [Migration from Postgres to Datomic](https://grishaev.me/en/pg-to-datomic/)
+  * [Day of Datomic Cloud - Session 2 - YouTube](https://www.youtube.com/watch?v=ZP-E2IgqKfA&t=2255s)
 * [deps.clj: A port of the clojure CLI bash script to Clojure. Can be run as executable or from source with babashka or JVM](https://github.com/borkdude/deps.clj)
 * [devart-codefactory: Create a piece of art using code](https://github.com/postspectacular/devart-codefactory)
 * [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
