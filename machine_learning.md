@@ -961,6 +961,8 @@ Machine Learning
   * [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m)
 
 # Go
+* [Gorgonia](https://gorgonia.org/)
+* [Goro: A High-level Machine Learning Library for Go](https://morioh.com/p/b54273591a92)
 * [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
   * [Goml](https://github.com/cdipaolo/goml)
   * [Golearn](https://github.com/sjwhitworth/golearn)
