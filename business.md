@@ -460,6 +460,7 @@ Business
 * [우리의 일, 제품, 사람, 문화 이 모든 것의 기준 '핵심가치 10가지'](https://www.devsisters.com/ko/story/68/)
 * [네카라쿠배당토 핵심가치는 뭐가 다를까? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/wcms3/) core value
   * [네카라쿠배당토 핵심가치는 뭐가 다를까? | GeekNews](https://news.hada.io/topic?id=6330)
+* [실패와 패배가 지긋지긋할 때](https://blog.toss.im/article/core-values-are-evolving) 토스 핵심 가치
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
