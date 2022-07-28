@@ -828,6 +828,7 @@ R
 * [문서는 커뮤니케이션이다](https://statkclee.github.io/ds-authoring/useR-r2doc2r.html) Tidyverse, R Markdown, Pro PDFs, Shiny
 * [Rstudio1.4.10 preview 파이썬 작업환경 리뷰 (+마크다운 편집기 리뷰 통합) - YouTube](https://www.youtube.com/watch?v=RjrStX9-Oh0)
 * [R) RStudio 1.4의 Python 사용 - Data Doctor](https://datadoctorblog.com/2021/01/25/R-update-rstudio-1-4-using-python/)
+* [RStudio is becoming Posit - RStudio](https://www.rstudio.com/blog/rstudio-is-becoming-posit/)
 * [Distill for R Markdown](https://rstudio.github.io/distill/)
   * [데이터 과학을 위한 저작도구: Computational Documents blog](https://statkclee.github.io/comp_document/ds-distill-blog.html)
   * [데이터 과학을 위한 저작도구: Computational Documents business card](https://statkclee.github.io/comp_document/ds-business-card.html)
