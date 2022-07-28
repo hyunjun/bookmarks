@@ -117,6 +117,7 @@ Python
 * [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
 * [Python Best Practices for a New Project in 2021 - Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 * [Python Projects – Technozune](http://technozune.com/?cat=325)
+* [Python Extras – Technozune](http://technozune.com/?cat=329)
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
