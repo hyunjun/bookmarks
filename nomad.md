@@ -253,6 +253,7 @@ Nomad & Remote
 * [7 Great Tools to Help You While Working Remotely](https://medium.com/better-programming/hidden-gems-among-tools-to-help-you-while-working-remotely-a7c975d379a5)
 * [The Remote Work Report by GitLab: The Future of Work is Remote | GitLab](https://about.gitlab.com/remote-work-report/)
   * [원격 근무 리포트 2021 51p PDF | GeekNews](https://news.hada.io/topic?id=4202)
+* [“가족과 함께하는 워케이션, 이게 일할 맛!, 여행, 고객의 365일을 점유할 수 있어” | 경영일반 | DBR](https://dbr.donga.com/article/view/1206/article_no/10534/ac/magazine)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [nagaja.net](http://www.nagaja.net)
