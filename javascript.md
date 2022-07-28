@@ -2721,6 +2721,7 @@ Javascript
   * 앞의 설명에 비하면 힙 덤프를 비교해서 찾는 과정은 간단해서 더 자세히 설명했으면 좋겠지만
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 * [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
+* [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3405,6 +3406,7 @@ Javascript
 * [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
+* [What the heck is lazy loading in React? | In Urdu - YouTube](https://www.youtube.com/watch?v=j4n9PvNXkRk)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
 * [React Suspense 알아보기](https://velog.io/@xiniha/React-Suspense-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
@@ -4715,6 +4717,9 @@ Javascript
 * [FnApi – FnApi](https://fnapi.dev/)
   * [fnapi: A function is enough](https://github.com/fnapi/fnapi)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
+* [fp-ts: Functional programming in TypeScript](https://github.com/gcanti/fp-ts)
+  * [Introduction - fp-ts](https://gcanti.github.io/fp-ts/)
+  * [폼 데이터를 우아하게 관리하는 방법](https://tech.devsisters.com/posts/functional-react-state-management/)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [get-tsconfig: Find and parse the tsconfig.json file from a directory path](https://github.com/privatenumber/get-tsconfig)
 * [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
