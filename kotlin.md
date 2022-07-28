@@ -309,6 +309,7 @@
 * [코틀린 코루틴 완벽가이드 #1 - Bsidesoft co](https://www.bsidesoft.com/8656)
 * [코틀린 코루틴 완벽가이드 #2 - Bsidesoft co.](https://www.bsidesoft.com/8663)
 * [A Perception of Exception in Kotlin Coroutines | by Saurabh Pant | Jul, 2022 | Better Programming](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
+* [바삭한 신입들의 동시성 이야기 - Kotlin 편](https://tech.devsisters.com/posts/crunchy-concurrency-kotlin/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
