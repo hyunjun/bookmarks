@@ -174,6 +174,7 @@ Business
     * 문화가 너무 안좋아져서, 파운드리가 수율에 대해 고객과 삼성 회장에게 거짓말을 한다는 소문까지 있음
 * [6 tips for building a successful risk-taking culture | MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture) 조직 문화
   * [성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁 | GeekNews](https://news.hada.io/topic?id=6434)
+* [회사는 성장할 때 망가지기 쉽습니다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/189886) 문화
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
@@ -1432,6 +1433,7 @@ Business
 * [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
 * [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
 * [토스는 이렇게 시작했습니다 | PO SESSION - YouTube](https://www.youtube.com/watch?v=Tmj1HEFnKpE)
+* [정성적 차이](https://www.thestartupbible.com/2022/07/unquantifiable-moats.html)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
