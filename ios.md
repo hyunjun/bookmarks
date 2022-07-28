@@ -522,6 +522,7 @@ iOS
 * [Swift Package Manager 적용기 – tech.kakao.com](https://tech.kakao.com/2022/06/02/swift-package-manager/)
 * [Combine에서 async/await로 변경하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/combine-to-async-await/)
 * [Swift 5.5의 async/await | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-async-await/)
+* [SwiftUI task에서 비동기 작업하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-task-modifier/)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
