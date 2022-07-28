@@ -33,6 +33,7 @@ Web
 * [**The Gold Standard Checklist for Web Components**](https://github.com/webcomponents/gold-standard/wiki)
 * [깃헙 개발자들이 React 안쓰는 이유 : Web Component - YouTube](https://www.youtube.com/watch?v=RtvSgptpfnY)
 * [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/)
+* [Web Components are Dead: Long Live Web Components | by Fernando Doglio | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/web-components-are-dead-long-live-web-components-1de76ab4890d)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Knowre web development curriculum 2018](https://github.com/Knowre-Dev/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
