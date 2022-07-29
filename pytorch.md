@@ -298,6 +298,8 @@ PyTorch
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
   * 음성을 STFT 변환하여 Phase를 도메인으로 사용할 경우 복소수가 필요
+* [D2Go is a toolkit for efficient deep learning](https://github.com/facebookresearch/d2go)
+  * [d2go_beginner.ipynb at main · facebookresearch/d2go](https://github.com/facebookresearch/d2go/blob/main/demo/d2go_beginner.ipynb)
 * [DALLE2-pytorch: Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch](https://github.com/lucidrains/DALLE2-pytorch)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
