@@ -310,6 +310,7 @@ Data Science
 * [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 * [Generating and visualizing alpha with Vectorspace AI datasets and Canvas](https://www.elastic.co/kr/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas)
 * [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
+* [데이터 플랫폼 구현 사례](https://devocean.sk.com/vlog/view.do?id=331&vcode=A03)
 * [When your data doesn’t fit in memory: the basic techniques](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
 * [Top 5 must-have Data Science skills for 2020](https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html)
 * [순차 패턴 마이닝을 활용한 EHR 분석 – 1편](https://linewalks.com/archives/6452)
