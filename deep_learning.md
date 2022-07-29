@@ -1234,6 +1234,18 @@ Deep Learning
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
   * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
   * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
+* [KID-F: Korean Idol Dataset - Female : High Quality Korean Female Idol Face Image Dataset with Identity Labels](https://github.com/PCEO-AI-CLUB/KID-F)
+  * 자체적으로 구축한 테스트 데이터셋을 대상으로 실험한 결과
+    * FSR(Facel Super Resolution) 분야의 SOTA 모델과 토파즈의 상용 소프트웨어보다 모든 metric에서 좋은 성능, 원본 초고화질 사진과 굉장히 유사하게 복원
+  * 아직은 얼굴의 이목구비를 복원하는 모델
+  * 기존 모델은 훈련시에 지나치게 다양한 조건의 사진들을 고려한 데이터셋(예 : FFHQ)을 사용
+  * 그보다는 아이돌의 아름다움과 특징을 가장 잘 학습할 수 있도록 데이터를 제한해야한다고 생각
+    * 그래서 여자 아이돌 사진을 9만장 수집. 그 중 얼굴 영역의 해상도가 512x512가 넘는 사진들의 얼굴을 잘라 1만장 선별
+    * 그 중에서도 진짜 고화질 사진을 골라 약 6천 장(5591장의 훈련용 데이터셋과 300장의 테스트용 데이터셋)의 여자 아이돌 고화질 얼굴 사진 수집
+    * 이 데이터셋을 KID-F(Korean Idol Dataset - Female)으로 이름 붙이고 다른 연구자 분들도 편하게 사용하실 수 있도록 깃허브(KID-F)에 공개했습니다.
+  * 위 결과가 도출된 모델은 Dual-Blind SR 구조로 이 분야의 SOTA 중 하나를 달성한 HiFaceGAN(2020)을 최적화 하고, 데이터셋을 변경하여 훈련
+    * 아직은 얼굴 이목구비와 헤어 등으로 꽉찬 얼굴 사진만 복원할 수 있다는 한계, 실용화는 더 시간 필요
+  * [IdolGAN: Project for restoring beautiful Korean Idols Images to high quality](https://github.com/PCEO-AI-CLUB/IdolGAN)
 * [malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
 * [Rarity-Score: Rarity Score : A New Metric to Evaluate the Uncommonness of Synthesized Images](https://github.com/hichoe95/Rarity-Score)
   * 생성모델 연구하시는 분들을 위해 유용한 평가지표(metric)
@@ -2470,6 +2482,7 @@ CVPR2016)
   * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/abs/1801.08116)
   * [Open-sourcing Psychlab](https://deepmind.com/blog/open-sourcing-psychlab/)
   * [Psychlab 'visual search' task in DeepMind Lab](https://www.youtube.com/watch?v=54AS3a6niPo)
+* [RL_BASIC](https://github.com/kkugosu/RL_BASIC)
 * [rliable: Open-source library for reliable evaluation on reinforcement learning and machine learning benchmarks. See NeurIPS 2021 oral for details](https://github.com/google-research/rliable)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 * [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
@@ -2578,6 +2591,9 @@ CVPR2016)
     * 알고리즘 문제 풀이 사이트인 Codeforces와 협력해서 최근 문제 10개를 기준으로 실험한 결과 상위 54% 랭크
     * 상위에 랭크된 것은 아니지만 의미 있는 결과이고 AlphaCode는 알고리즘 문제를 입력으로 받아서 출력으로 프로그램 작성
     * 사용된 데이터 세트는 [GitHub CodeContests](https://github.com/deepmind/code_contests) 저장소에 공개되어 있고 [AlphaCode Attention Visualizatio](https://alphacode.deepmind.com/)에서 처리되는 과정 확인 가능
+* AlphaFold
+  * [AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
+    * 데이터베이스를 만들기 시작한지 단 1년만에 2억개의 단백질 구조 데이터베이스 오픈. 50년간 인류가 실험적으로 밝혀낸 단백질 구조 갯수인 약 20만개 보다 1000배 많은 숫자
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
   * [AI가 스타크래프트2를 정복한 원리(알파스타)](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
   * [AlphaStar: Mastering the Game of StarCraft II](https://slideslive.com/38916905/alphastar-mastering-the-game-of-starcraft-ii)
