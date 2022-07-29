@@ -608,6 +608,7 @@ C
 * [C언어 기초 CURSE Hello, World 출력하기](https://www.jiwon.me/hello-world/)
 * [42_CheatSheet: A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language](https://github.com/agavrel/42_CheatSheet)
 * [C Programming Tutorial - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxEagJrL8j7Uom6CYU8JE1l_)
+* [Adimission Started For C Basic Languavage#cprogramming #clanguage - YouTube](https://www.youtube.com/watch?v=jgiEByNt-Tc)
 
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
