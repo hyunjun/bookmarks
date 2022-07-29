@@ -2393,6 +2393,8 @@ Programming
 * [인터넷 검색 팁 | GeekNews](https://news.hada.io/topic?id=4140)
 * [**30 seconds of code - Short code snippets for all your development needs**](https://www.30secondsofcode.org)
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
+* [Hello: Search Engine for Developers](https://beta.sayhello.so/)
+  * [Hello - 소프트웨어 개발자를 위한 검색엔진 | GeekNews](https://news.hada.io/topic?id=7065)
 * [omniref.com/tour](https://www.omniref.com/tour)
 * [raw code - The new home for your code snippets](http://rawcode.io/)
 * [recall](https://recalll.co/app/)
