@@ -275,6 +275,7 @@ PyTorch
 * [Ubuntu에 Pytorch 설치하기](https://booiljung.github.io/technical_articles/pytorch/installation_of_pytorch_on_ubuntu.html)
 * [PyTorch Anaconda, JupyterLab을 통한 환경 구축 :: JSYoo94](https://jsyoo94.tistory.com/12)
 * [Setting up your PC/Workstation for Deep Learning: Tensorflow and PyTorch — Windows | by Abhinand | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/setting-up-your-pc-workstation-for-deep-learning-tensorflow-and-pytorch-windows-9099b96035cb)
+* [딥러닝 실험 환경 구축하기 Conda 설치, Conda 가상환경 만들기, Pytorch 설치, 원격으로 서버환경에서 쥬피터 실행](https://velog.io/@kbin6961/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%ED%97%98-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-Conda-%EC%84%A4%EC%B9%98-Conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-Pytorch-%EC%84%A4%EC%B9%98-%EC%9B%90%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B2%84%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%A5%AC%ED%94%BC%ED%84%B0-%EC%8B%A4%ED%96%89)
 
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
