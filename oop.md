@@ -105,6 +105,7 @@
 * [개발자 교양필수? 객체지향 개념정리 10분컷. - YouTube](https://www.youtube.com/watch?v=IeLWSKq0xIQ)
 * [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
 * [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
+* [Command pattern - YouTube](https://www.youtube.com/watch?v=u6xmUXQ_APM)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
