@@ -1675,6 +1675,7 @@ AWS
 * [Terraform Archives - DevOps Titan](https://devopstitan.com/category/terraform/)
 * [Terraform Version Upgrade – DEVOPS DONE RIGHT](https://blog.opstree.com/2022/07/19/terraform-version-upgrade/)
 * [Terraform Cloud | Creating IAM Roles and User in AWS Using Terraform | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/terraform-cloud-creating-iam-roles-and-user-in-aws-using-terraform-cb701add8f81)
+* [Terraform으로 AWS EKS에 Kubernetes 클러스터 프로비저닝 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1608)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
