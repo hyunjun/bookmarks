@@ -57,3 +57,4 @@ Psychology
 * [공감과 인내에 관한 심리학자 칼 로저스의 7가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/7-of-the-best-quotes-from-psychologist-carl-rogers-empathy-tolerance-and-more/)
 * [인간의 성장에 관한 칼 융의 4가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/quotes-by-carl-jung-on-personal-growth/)
 * [모교 강단 선 허준이 교수 "근거 없는 자신감이 중요" | 연합뉴스](https://www.yna.co.kr/view/AKR20220727167600004)
+* [자신감 넘치는 사람들이 갈등을 해결하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/this-is-how-assertive-people-resolve-conflicts/)

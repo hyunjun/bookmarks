@@ -701,6 +701,7 @@ Business
 * [#5 번역 Tesla 'Anti-Handbook' Handbook - BZCF’s Newsletter](https://bzcf.substack.com/p/5-tesla-anti-handbook-handbook)
 * [왓챠의 온보딩 프로세스. 동료들의 피드백으로 더 단단해지고, 체계를 갖춘 왓챠의 온보딩… | by 왓챠 | WATCHA | Jul, 2022 | Medium](https://medium.com/watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278)
   * [왓차의 온보딩 프로세스 | GeekNews](https://news.hada.io/topic?id=6992)
+* [⛺️ 구성원의 이탈을 막는 '온보딩'](https://stibee.com/api/v1.0/emails/share/LN4NYBPcJDWCqfGj4oMQgWWPE9Ucwkk=)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)

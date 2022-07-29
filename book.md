@@ -586,6 +586,7 @@ Book
   * 한라 915-쉬34ㅇ
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
 * (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
+* (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
