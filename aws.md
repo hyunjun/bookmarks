@@ -1308,6 +1308,7 @@ AWS
   * [CDK code snippet-1 – Jinho's journal about software engineering](https://jinhoyoo.github.io/CDK-code-snippet1/)
   * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [AWS Amplify 애플리케이션을 AWS CDK와 함께 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-amplify-application-with-aws-cdk/)
+  * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
     * [JSii - 어떤 언어든 JS 클래스와 인터랙션 가능하게 만드는 컴파일러 | GeekNews](https://news.hada.io/topic?id=4789)
