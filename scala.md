@@ -523,7 +523,7 @@ Scala
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
-* [An Akka, Cats and Cassandra Project in Scala - Part 1 - YouTube](https://www.youtube.com/watch?v=PPIPGzrc2wo)
+* [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [akka-dynamic-batch-tensorflow-gpu-bert at main · go-noah/akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-tensorflow-gpu-bert)
 * Akka gRPC
@@ -2082,6 +2082,7 @@ Scala
 * [Type Class Derivation in Scala 3. Deriving type classes without macros in… | by Ron Aharoni | Riskified Technology | Dec, 2021 | Medium](https://medium.com/riskified-technology/type-class-derivation-in-scala-3-ba3c7c41d3ef)
 * [Alex Nedelcu - OOP versus Type Classes in Scala - YouTube](https://www.youtube.com/watch?v=UT2K9c66xCU)
   * [OOP vs Type Classes, Part 1: Ideology - Alexandru Nedelcu](https://alexn.org/blog/2022/05/13/oop-vs-type-classes-part-1-ideology/)
+* [Containers - Associating items by Type Class](https://mhammons.hashnode.dev/containers)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
