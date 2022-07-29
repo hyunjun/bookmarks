@@ -4705,6 +4705,7 @@ Javascript
 * [How to Share Types Between Frontend and Backend Apps | by Jonathan Saring | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-share-types-between-frontend-and-backend-apps-15753f26d53e)
 * [How to master advanced TypeScript patterns](https://morioh.com/p/0d8b3523d82f)
 * [Why I'm Learning Typescript - DEV Community](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
+* [Advanced TypeScript With Code Challenges: Utility Types | by Marius Bongarts | Jul, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-utility-types-e8c30efd9021)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
