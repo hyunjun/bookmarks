@@ -3952,6 +3952,7 @@ Javascript
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
 * [Chaty: Chaty is a simple chat app UI create with React Native framework](https://github.com/blaiti/Chaty)
+* [conjoined: ReactJS / Next.js helpers for Laravel](https://github.com/dillingham/conjoined)
 * Context API
   * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
   * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
