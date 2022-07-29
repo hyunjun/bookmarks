@@ -280,6 +280,9 @@ Programming Books
   * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천](https://jh4hj.tistory.com/entry/Clean-Agile-Back-to-Basics-%ED%81%B4%EB%A6%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%B8%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C)
 * [《애자일 조직은 이렇게 일합니다》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/06/%E3%80%8A%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4%E3%80%8B/)
   * ★★★★★ 2022.07.18~21
+  * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://github.com/hyunjun/bookmarks/blob/master/programming_books/more_effective_agile.md)
+  * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-more-effective-agile-a-roadmap-for-software-leaders-56f66796e26)
+  * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-More-Effective-Agile-A-Roadmap-for-Software-Leaders)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
