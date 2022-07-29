@@ -1065,6 +1065,7 @@ Web
   * [느슨해진 백엔드씬에 긴장감을 주는 FastAPI 프레임워크 - YouTube](https://www.youtube.com/watch?v=5A67mQ2Pt9s)
   * [개발자의 공부법! 파이썬 FastAPI 공식문서로 처음부터 공부하기 - YouTube](https://www.youtube.com/watch?v=ZqSpl0Ic8ik)
   * [How to version your fast api application? | by Gustavo Caetano | Jul, 2022 | Medium](https://medium.com/@caetanoog/how-to-version-your-fast-api-application-a37737ee777e)
+  * [파이썬 FastAPI 학습 - YouTube](https://www.youtube.com/playlist?list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
