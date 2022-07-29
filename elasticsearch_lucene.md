@@ -341,6 +341,8 @@ ElasticSearch - Lucene
 * [**How to build a scalable backend to query and search billions of records? | by Saiful Khan | Elucidata | May, 2022 | Medium**](https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda)
 * [간단한 검색엔진의 원리 - Google Slides](https://docs.google.com/presentation/d/1lHJlrKoaK76ly43aWarwfpvrKRiQC1NO6J4ly5MhzJk/edit?fbclid=IwAR00W0xGEGPMr9JCz3IVkVIK_wO2fuNjCp0UyTUbicxr1RPx9x3jg8hwIZA)
 * [2022-07-21 Elastic Ask Me Anything - YouTube](https://www.youtube.com/watch?v=oemrLo03DjY)
+* [Expert Elasticsearch 8.2 설치. Startup Elasticsearch 8.2.2, Single… | by HAJI | Jul, 2022 | Medium](https://hajix.medium.com/elasticsearch-8-2-%EC%84%A4%EC%B9%98-1c4149b92b3b)
+  * [AWS Architecture for ELK - HAJI - Medium](https://hajix.medium.com/aws-architecture-for-elk-3a07af5876e7)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
