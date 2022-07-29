@@ -278,6 +278,8 @@ Programming Books
   * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천](https://github.com/hyunjun/bookmarks/blob/master/programming_books/clean_agile.md)
   * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/clean-agile-back-to-basics-%ED%81%B4%EB%A6%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%B8%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C-f9592191a327)
   * [Clean Agile Back to Basics 클린 애자일 새로운 세대를 위한 애자일 가치와 실천](https://jh4hj.tistory.com/entry/Clean-Agile-Back-to-Basics-%ED%81%B4%EB%A6%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%84%B8%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C)
+* [《애자일 조직은 이렇게 일합니다》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/06/%E3%80%8A%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4%E3%80%8B/)
+  * ★★★★★ 2022.07.18~21
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -2436,6 +2438,7 @@ Programming Books
   * [실전 파이썬 핸즈온 프로젝트 오현석 인터뷰 - YouTube](https://www.youtube.com/watch?v=456VaXge93w)
 * (NOT YET) 파이썬 자동화 교과서 - 업무 생산성을 3배 높이는 엑셀, 워드, 크롤링, 메일 자동화 기술 [파이썬과 함께 사무 작업을 3배 빠르게](https://jpub.tistory.com/1296)
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
+* (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
