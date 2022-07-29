@@ -661,6 +661,7 @@ Business
 * [임직원은 ‘경영 자원’이요, 채용은 ‘자원 내재화’입니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hr20220621)
 * [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
 * [빨라지는 HR의 진화 속도 긱스](https://news.v.daum.net/v/20220721164601921)
+* [심각하게 망가진 채용 면접, 이렇게 복구해보세요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/repairinterview20220728)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
