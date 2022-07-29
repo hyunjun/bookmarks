@@ -257,6 +257,7 @@ Web
 * [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 * [웹 개발 시간을 줄여주는 팁 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1585/)
 * [완벽 정리! 쿠키, 세션, 토큰, 캐시 그리고 CDN](https://hongong.hanbit.co.kr/%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%ED%86%A0%ED%81%B0-%EC%BA%90%EC%8B%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-cdn/)
+* [30 Ways to Validate Configuration Files or Scripts in Linux](https://www.tecmint.com/check-configuration-files-linux/)
 
 # Apache
 * installation
@@ -1063,6 +1064,7 @@ Web
   * [uvicorn, fastapi 비동기 메커니즘 이해](https://blog.naver.com/pjt3591oo/222772705407)
   * [느슨해진 백엔드씬에 긴장감을 주는 FastAPI 프레임워크 - YouTube](https://www.youtube.com/watch?v=5A67mQ2Pt9s)
   * [개발자의 공부법! 파이썬 FastAPI 공식문서로 처음부터 공부하기 - YouTube](https://www.youtube.com/watch?v=ZqSpl0Ic8ik)
+  * [How to version your fast api application? | by Gustavo Caetano | Jul, 2022 | Medium](https://medium.com/@caetanoog/how-to-version-your-fast-api-application-a37737ee777e)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
