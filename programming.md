@@ -3110,6 +3110,7 @@ Programming
 * [Monitoring tiny web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
 * [5 Deployment Best Practices For DevOps | LetsTalkDevOps - YouTube](https://www.youtube.com/watch?v=Gl5Hp9SHvO4)
 * [Let's Talk DevOps | Project Setup | Colima & Docker | Akshay Pk in Tamil - YouTube](https://www.youtube.com/watch?v=qAPRWDB8o6g)
+* [Containerization In DevOps Explained | ReviewNPrep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -3220,6 +3221,7 @@ Programming
 * [Build Your First Serverless Application - Part 1: The Read Layer - YouTube](https://www.youtube.com/watch?v=jtN4ejaJrgg)
 * [Build Your First Serverless Application - Part 2: The Write Layer - YouTube](https://www.youtube.com/watch?v=B64kl2SnEDE)
 * [Build Your First Serverless Application - Part 3: Infrastructure As Code - YouTube](https://www.youtube.com/watch?v=0Fj6L-6wL3k)
+* [The Best Infrastructure as Code Tools for 2022 - DZone Cloud](https://dzone.com/articles/the-best-infrastructure-as-code-tools-for-2022-1)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
