@@ -1458,6 +1458,7 @@ Docker
     * [Argo CD에서 App 배포도 GitOps스럽게 하기](https://heumsi.github.io/blog/posts/argocd-apps-deployment/)
     * [Argo CD Projects and Examples - FoxuTech](https://foxutech.com/argo-cd-projects-and-examples/)
     * [ArgoCD Tracking Strategies | ArgoCD Best Practices | GitOps - YouTube](https://www.youtube.com/watch?v=lEhO3caUhM8)
+    * [Manage Argo CD Repositories and Applications using Argo CD CLI - FoxuTech](https://foxutech.com/manage-argo-cd-repositories-and-applications-using-argo-cd-cli/)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
