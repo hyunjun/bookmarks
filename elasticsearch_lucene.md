@@ -340,6 +340,7 @@ ElasticSearch - Lucene
 * [Datastream - 새로운 Elasticsearch 데이터 구조 이해하기 - YouTube](https://www.youtube.com/watch?v=JqKDIg8fgd8)
 * [**How to build a scalable backend to query and search billions of records? | by Saiful Khan | Elucidata | May, 2022 | Medium**](https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda)
 * [간단한 검색엔진의 원리 - Google Slides](https://docs.google.com/presentation/d/1lHJlrKoaK76ly43aWarwfpvrKRiQC1NO6J4ly5MhzJk/edit?fbclid=IwAR00W0xGEGPMr9JCz3IVkVIK_wO2fuNjCp0UyTUbicxr1RPx9x3jg8hwIZA)
+* [2022-07-21 Elastic Ask Me Anything - YouTube](https://www.youtube.com/watch?v=oemrLo03DjY)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
