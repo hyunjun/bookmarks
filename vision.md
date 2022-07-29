@@ -336,6 +336,7 @@ Vision
 * [서비스에서 야경 좋은 식당 찾기 — Vision, Semi-supervised learning, Hierarchical classification | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%BC%EA%B2%BD-%EC%A2%8B%EC%9D%80-%EC%8B%9D%EB%8B%B9-%EC%B0%BE%EA%B8%B0-vision-semi-supervised-learning-hierarchical-classification-126b19572d8b)
 * [Face Recognition](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23)
 * [데이터야놀자2021 Transfer Learning으로 효율적인 이미지 분류모델 만들기 - 박경호/정현희님 - YouTube](https://www.youtube.com/watch?v=EVCKPRmlQGA)
+* [donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 * [fight_detection: Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition](https://github.com/imsoo/fight_detection)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
