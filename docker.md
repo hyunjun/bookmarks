@@ -1376,6 +1376,7 @@ Docker
 * [NGINX Kubernetes Gateway에 대해 꼭 알아야 할 5가지 사항 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/5-things-to-know-about-nginx-kubernetes-gateway/)
 * [리소스 제약적인 MicroK8s 환경에서 MARA로 배포하는 모범사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/mara-now-running-on-workstation-near-you/)
 * [네임스페이스와 cgroup은 무엇이며 어떻게 작동합니까? - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/what-are-namespaces-cgroups-how-do-they-work/)
+* [Kubernetes Namespace Resource Quotas and Limits | CKAD | Kubernetes Troubleshooting - YouTube](https://www.youtube.com/watch?v=iADfzLI3qDI)
 * [Kubernetes 보안, 확장성, 안정성, 관찰 가능성 설계된 모던 앱 아키텍처의 예 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/announcing-version-1-0-0-nginx-modern-apps-reference-architecture/)
 * [NGINX를 사용하여 Kubernetes에서 TCP 및 UDP 트래픽 로드 밸런싱 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/load-balancing-tcp-and-udp-traffic-in-kubernetes-with-nginx/)
 * [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
