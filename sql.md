@@ -972,6 +972,7 @@ SQL
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 * [PostgreSQL 14 Internals : Postgres Professional](https://postgrespro.com/community/books/internals)
 * [Postgres 15 improves UNIQUE and NULL - Blog @ RustProof Labs](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
+* [Money operations with Node.js and PostgreSQL | by Alex Vasilyev | Jul, 2022 | Medium](https://luckylibora.medium.com/money-operations-with-node-js-and-postgresql-91d1f06ff263)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
