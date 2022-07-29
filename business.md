@@ -1291,6 +1291,7 @@ Business
 * [‘환꼰탈태 프로그램’ 만든 사장님의 꼰대 치료법 (f.형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072818087764135)
 * [나의 외국인 매니저 체험기 :: Channy's Blog](http://channy.creation.net/blog/1663)
 * ['이상한 변호사 우영우'로 본 리더가 가져야 할 자질](https://brunch.co.kr/@lovelylucia/74)
+* [가장 중요한 리더의 조건…자신을 정확히 파악하라 │ 매거진한경](https://magazine.hankyung.com/business/article/202102035722b)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
