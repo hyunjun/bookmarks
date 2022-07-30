@@ -1595,6 +1595,7 @@ Machine Learning
   * [Getting Started with Steamlit for Python - Build a Functioning Web App in Minutes - YouTube](https://www.youtube.com/watch?v=f9c_19Btnvo)
   * [Streamlit Tutorials - YouTube](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)
   * [streamlit #shorts - YouTube](https://www.youtube.com/shorts/4BUwV1DcHZA)
+  * [How to build dashboard apps with Streamlit Python (quick Tutorial) - YouTube](https://www.youtube.com/watch?v=6Wc8ttX-SBU)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
