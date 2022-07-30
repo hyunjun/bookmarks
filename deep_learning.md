@@ -996,6 +996,7 @@ Deep Learning
 * [DS-GA 1008 · 2020 봄 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/ko/) 한글
 * [**edwith.org/deeplearningchoi**](http://www.edwith.org/deeplearningchoi/)
 * [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+  * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
   * [Practical Deep Learning for Coders (2020) - YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
     * [**Practical Deep Learning For Coders, Part 1**](http://course.fast.ai/)
     * [**Practical Deep Learning For Coders, Part 2**](http://course.fast.ai/part2.html)
@@ -1013,6 +1014,7 @@ Deep Learning
       * fastcore: fastai에서 사용되는 기초적인 라이브러리. 테스팅, Mixins/Delegation/Composition 등, 함수형 프로그래밍/병렬 프로세싱 등, Dispatch, Transform 등을 Python에서 쉽게 코딩할 수 있는 방법 제공
       * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
       * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
+  * [FastAI Deep Learning Course - Study with Me - YouTube](https://www.youtube.com/playlist?list=PLpdmBGJ6ELULBj7a16Dl2m9ABQTrgUOuS)
 * [Full Stack Deep Learning - Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
   * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
     * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
@@ -2677,7 +2679,6 @@ CVPR2016)
 * [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
 * [How-to-learn-Deep-Learning/README_kr.md](https://github.com/Huffon/How-to-learn-Deep-Learning/blob/master/README_kr.md)
 * [딥러닝/데이터사이언스를 위한 파이썬 입문 - 마이캠퍼스](https://github.com/mycampus-io/python-for-deep-learning)
-* [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
 * [딥러닝 강의 자료 - 패스트캠퍼스의 비전공자를 위한 데이터 사이언스 스쿨에서 진행한 한국어 딥러닝 강의 자료](https://github.com/nmhkahn/deep_learning_tutorial)
 * [딥러닝 교육 자료 (Deep Learning Lecture)](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
