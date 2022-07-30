@@ -1491,6 +1491,7 @@ NLP
 * [핑퐁팀 ML 세미나, 그 여섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-6/)
 * [**집현전 NLP 리뷰 모임**](https://github.com/jiphyeonjeon/nlp-review)
 * [Kakao Enterprise AI Research | 카카오엔터프라이즈 연구 성과를 공개하는 리서치 플랫폼](https://kakaoenterprise.github.io/)
+* [SSL-narratives-NLP-1: 거꾸로 읽는 self-supervised learning in NLP](https://github.com/jwkanggist/SSL-narratives-NLP-1)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)
