@@ -6,6 +6,7 @@ Psychology
 * [진중권이 비정상회담에서 말한 혐오주의의 4가지 진실](http://www.huffingtonpost.kr/2015/05/19/story_n_7310306.html)
 * [소셜미디어 속 남과 여: 우리는 SNS에서 사랑을 창조한다](http://slownews.kr/41110)
 * [인간은 자신을 위해 자신을 속입니다](http://newspeppermint.com/2015/05/27/m-brain/)
+* [How to think for yourself | Psyche Guides](https://psyche.co/guides/how-to-read-less-and-think-for-yourself-more)
 * [위기의 순간, 모든 것이 슬로우모션으로 보일 때(1/2)](http://newspeppermint.com/2015/06/01/m-cff1/)
 * [위기의 순간, 모든 것이 슬로우모션으로 보일 때(2/2)](http://newspeppermint.com/2015/06/01/m-cff2/)
 * [Pre-Socratics: A Painless Introduction](http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/)
