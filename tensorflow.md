@@ -472,6 +472,7 @@ TensorFlow
 * [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
 * [Using TensorFlow to predict product weight and dimensions](https://medium.com/tensorflow/using-tensorflow-to-predict-product-weight-and-dimensions-8e6af3ab3466)
 * [TensorFlow Serving Example. Part 2: Model Deployment](https://www.youtube.com/watch?v=CUpUPY5g8NE)
+* [Load-testing TensorFlow Serving’s REST Interface — The TensorFlow Blog](https://blog.tensorflow.org/2022/07/load-testing-TensorFlow-Servings-REST-interface.html)
 * [Implementation of IMPALA with Distributed Tensorflow](https://github.com/RLOpensource/IMPALA-Distributed-Tensorflow)
 * [10 TensorFlow Tricks Every ML Practioner Mush Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
 * [Air Cognizer predicts air quality with machine learning](https://morioh.com/p/a9c5a0e394ad)
