@@ -185,8 +185,6 @@ Programming Books
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
   * 탐라
   * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
-* (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
-  * 탐라 문005.12-카213ㅅ
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * 탐라 문005.1-김813ㄱ
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
@@ -2612,6 +2610,9 @@ Programming Books
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/software-engineering-at-google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4-f57eb7db75e9)
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다](https://jh4hj.tistory.com/entry/Software-Engineering-at-Google-%EA%B5%AC%EA%B8%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%9C%EB%8B%A4)
   * [<구글 엔지니어는 이렇게 일한다> 리뷰(feat. 소프트웨어 개발자로서 딱 한 권만 읽는다면 이 책을 추천합니다) — 별감 아카이빙](https://riedel.tistory.com/569)
+* [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
+  * 탐라 문005.12-카213ㅅ
+  * ★★★☆☆ 2022.07.30
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
@@ -2699,7 +2700,7 @@ Programming Books
   * ★★★☆☆ 2021.12.08 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
 * [사용자를 끌어들이는 UX/UI의 비밀](https://story.pxd.co.kr/1582)
   * 한라 004.78-티27ㅅ
-  * ★★★☆☆ * 2022.07.10 디자인은 모르지만, 구조적으로 논리적으로 접근하고 설명한다는 점은 충분히 이해할 수 있었다
+  * ★★★☆☆ 2022.07.10 디자인은 모르지만, 구조적으로 논리적으로 접근하고 설명한다는 점은 충분히 이해할 수 있었다
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://github.com/hyunjun/bookmarks/blob/master/programming_books/designing_interfaces.md)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-ux-ui%EC%9D%98-%EB%B9%84%EB%B0%80-designing-interfaces-cae1fe9c76b4)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://jh4hj.tistory.com/entry/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-UXUI%EC%9D%98-%EB%B9%84%EB%B0%80-Designing-Interfaces)
