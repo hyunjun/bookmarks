@@ -186,7 +186,7 @@ Programming Books
   * 탐라
   * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
-  * 탐라
+  * 탐라 문005.12-카213ㅅ
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * 탐라 문005.1-김813ㄱ
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
@@ -240,9 +240,11 @@ Programming Books
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
-  * 탐라
+  * 탐라 문004.099-구45ㅈ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
+* (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
+  * 탐라 문005.1-송67ㅇ
 
 # Agile Scrum
 
@@ -468,7 +470,9 @@ Programming Books
 * (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
   * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
 * (NOT YET) [AWS 컨테이너 설계와 구축 철저 입문 | 위키북스](https://wikibook.co.kr/awsc/)
-  * 탐라
+  * 탐라 문005.118-아231ㅇ
+  * [awsc: 《AWS 컨테이너 설계와 구축 철저 입문》 프런트엔드 예제 파일](https://github.com/wikibook/awsc)
+  * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
 * (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
   * 한라 005.118-이25ㅅ 탐라 문005.118-이225ㅅ 우당 문005.118-이225ㅅ
 
