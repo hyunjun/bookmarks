@@ -445,6 +445,7 @@ AWS
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 마무리](https://khw742002.tistory.com/39?category=1006667)
 * [AWS의 여러 저장소들 - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EC%97%AC%EB%9F%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%93%A4-c1ee1589b817)
 * [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD) - Percona Database Performance Blog](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/) Graviton
+* [왜 우리는 AWS Graviton2 사용해야 하는가?. 안녕하세요 저는 Spoon Radio에서 SRE 업무를 담당하고 있는… | by Paul | Spoon Radio | Jul, 2022 | Medium](https://medium.com/spoontech/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-aws-gravition2-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-6cb8b5858552)
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
