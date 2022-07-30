@@ -107,6 +107,7 @@ Git
   * [Gerrit Code Review 도입하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/02/28/gerrit-code-review-introduction.html)
   * [How To Install Gerrit on an Ec2 Ubuntu | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/how-to-install-gerrit-on-an-ec2-ubuntu-7b526f153d9b)
 * [GitHub으로 협업하기: 클론부터 코드 리뷰까지 | ~/xo.dev](https://xo.dev/github-collaboration-guide/)
+* [GitHub Branch Lock and Automated code reviewer | GitHub Branch Policy | CODEOWNER - YouTube](https://www.youtube.com/watch?v=CXgNd3hketM)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git 커밋, 브랜치, HEAD의 관계는?](https://blog.naver.com/codeitofficial/221941216489)
