@@ -229,6 +229,7 @@ Statistics
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
 * [Bayesian Inference : Kalman filter 에서 Optimization 까지 - 김홍배 박사님](https://www.slideshare.net/roboticskrai/bayesian-inference-kalman-filter-optimization-179401407)
 * [공학자를 위한 Python 사용법 25 - Quaternion을 이용한 자세 추정 칼만 필터](http://myjr52.tumblr.com/post/128707132156/%EA%B3%B5%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-python-%EC%82%AC%EC%9A%A9%EB%B2%95-25)
+* [Is the Kalman filter a low-pass filter? Sometimes!](https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass)
 * [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
 * [Continuous Bayes](http://www.sidhantgodiwala.com/blog/2015/03/14/continuous-bayes/)
 * [A Case Study in Empirical Bayes](http://www.ebaytechblog.com/2015/02/06/a-case-study-in-empirical-bayes/)
