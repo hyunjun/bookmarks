@@ -247,6 +247,7 @@ Keras
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
+* [gcnn_keras: Graph convolution with tf.keras](https://github.com/aimat-lab/gcnn_keras)
 * [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
 * [Kapre — Keras Audio Preprocessors - compute STFT, InverseSTFT, Melspectrogram, and others on GPU real-time](https://kapre.readthedocs.io/)
 * [keras_application_3D](https://github.com/BbChip0103/keras_application_3D)
