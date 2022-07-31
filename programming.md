@@ -466,6 +466,7 @@ Programming
   * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
   * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애
   * 원인을 알고 보면 쉽지만, 장애는 급한 상황이고 원인 파악에도 시간이 걸리는 경우가 많고 어떤 서비스든 겪을 수 있기 때문에 이렇게 각 상황에 가설을 세우고 원인을 찾아서 해결해 나가는 과정이 정리된 글 소중
+* [I Regret My $46k Website Redesign · mtlynch.io](https://mtlynch.io/tinypilot-redesign/) postmortem
 * [Roblox Return to Service 10/28-10/31 2021 - Roblox Blog](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
   * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
   * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
@@ -2509,7 +2510,10 @@ Programming
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
+* [Decompiler Explorer](https://dogbolt.org/)
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
+* [the-super-tiny-compiler: Possibly the smallest compiler ever](https://github.com/jamiebuilds/the-super-tiny-compiler)
+  * [아주 조그마한 컴파일러 만들기 | 보통의 비망록](https://edykim.com/ko/post/the-super-tiny-compiler/)
 
 # Conference
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
