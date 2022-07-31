@@ -85,6 +85,7 @@ Docker
 * [Docker Tutorial for Beginners Part-I - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)
 * [Docker Tutorial for Beginners with practice lab 😱 | Run Jenkins in Docker Container | Docker basics😱 - YouTube](https://www.youtube.com/watch?v=Y_1mIttlabk)
 * [DevOps Training Course and Tutorials - Beginner - ScanSkill](https://scanskill.com/course/devops-training-course-and-tutorials-beginner/)
+* [Docker for Beginner - YouTube](https://www.youtube.com/playlist?list=PL7yCeT0QPg1_t_vIsDGST88jjEwAu51_1)
 * [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
 * [WHAT IS DOCKER?](https://www.gangboard.com/blog/what-is-docker)
