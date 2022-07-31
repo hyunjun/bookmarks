@@ -4448,6 +4448,7 @@ Javascript
 * [How Real-Time Communication in Web Development Made | by Bilal Rifas | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/real-time-communication-in-web-development-c29a38a7bdb0)
 * [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub' - 채널톡](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
 * [채널톡 실시간 채팅 서버 개선 여정 - 2편 : Nats.io로 Redis 대체하기 - 채널톡](https://channel.io/ko/blog/real-time-chat-server-2-redis-pub-sub)
+* [Socket.IO - YouTube](https://www.youtube.com/playlist?list=PLYPSNemjHjP9nD8egM2jlXL8Ze2ZoDQJg)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
