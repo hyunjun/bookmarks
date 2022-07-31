@@ -584,6 +584,7 @@ Programming
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
+* [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -2788,6 +2789,7 @@ Programming
   * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
 * [computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [coursebuffet.com](https://www.coursebuffet.com/)
+* [CS101 Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
 * [cs-video-courses: List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 * [edwith.org](https://www.edwith.org)
 * [everdevel.com](http://www.everdevel.com/)
@@ -3369,6 +3371,7 @@ Programming
     * [RabbitMQ Streams | GeekNews](https://news.hada.io/topic?id=4613)
   * [NestJS + RabbitMQ를 활용한 효율적인 비동기 구현](https://velog.io/@hong-brother/NestJS-RabbitMQ%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B5%AC%ED%98%84)
   * [RabbitMQ Message Queues for beginners - YouTube](https://www.youtube.com/watch?v=btGIuOTdg5M)
+  * [What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late – Ryan Rodemoyer – Growth-minded software developer trying to change the world.](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
@@ -4346,6 +4349,8 @@ Programming
 # Safe, Secret
 * [blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
   * [blackbox 설정](https://medium.com/@strncpy/blackbox-설정-80e1b8700e9d)
+* [logto: 🧑🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support](https://github.com/logto-io/logto)
+  * [Logto - 오픈소스 사용자 아이덴티티 솔루션 | GeekNews](https://news.hada.io/topic?id=7020)
 * [Vault - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
   * [Docker + Consul + Vault: A Practical Guide](https://www.marcolancini.it/2017/blog-vault/)
   * [Vault - HashiCorp에 의해서 개발된 크로스플랫폼 패스워드 및 인증 관리 시스템. 공개되면 안되는 비밀번호, API 키, 토큰 등을 저장하고 관리](https://www.joinc.co.kr/w/man/12/vault)
