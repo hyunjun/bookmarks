@@ -87,8 +87,7 @@ Programming Books
   * [처음 배우는 애저. 회사를 옮겼는데, 스타트업이 보통 그렇듯 회사 시스템은 전부 AWS에서… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80-a27207be748f)
   * ★★★★☆ 2021.11.16
 * [프로그래머의 뇌](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C)
-  * 2022.01.14
-  * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
+  * ★★★★☆ 2022.01.14 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
   * [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
   * [프로그래머의 뇌 · TheoryDB](https://theorydb.github.io/review/2022/04/10/review-book-programmers-brain/)
@@ -137,6 +136,12 @@ Programming Books
   * [기업의 성공을 이끄는 Developer Relations](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_relations.md)
   * [기업의 성공을 이끄는 Developer Relations. 5 Things We Learned About Creating a… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/why-diversity-matters-mckinsey-8844a963c0db)
   * [기업의 성공을 이끄는 Developer Relations](https://jh4hj.tistory.com/entry/%EA%B8%B0%EC%97%85%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-Developer-Relations)
+* [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
+  * 탐라 문005.1-송67ㅇ
+  * ★★★☆☆ 2022.07.30~31
+  * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://github.com/hyunjun/bookmarks/blob/master/programming_books/forge_your_future.md)
+  * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source - Jun - Medium](https://nymets.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-forge-your-future-with-open-source-9dd017e0f7b6)
+  * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://jh4hj.tistory.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-Forge-Your-Future-with-Open-Source)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -241,8 +246,6 @@ Programming Books
   * 탐라 문004.099-구45ㅈ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
-* (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
-  * 탐라 문005.1-송67ㅇ
 
 # Agile Scrum
 
