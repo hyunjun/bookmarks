@@ -753,6 +753,7 @@ Web
 * [웹 개발자의 비밀무기들 | GeekNews](https://news.hada.io/topic?id=6199)
   * Loom, Markup.io, Hoverify, Waapalyzer, PixelParallel, 구글 Lighthouse
   * 크롬 확장들 : CSSPeeper, SVG Grabber, WAVE, CSS Magic, WhatFont,Full Page Screenshot Capture
+* [The best tools for web development | Web Code Tools](https://webcode.tools/)
 * [100-days-of-code-frontend: Curriculum for learning front-end development during #100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
