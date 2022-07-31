@@ -1816,6 +1816,8 @@ Business
 * [How To Use Storytelling In UX — Smashing Magazine](https://www.smashingmagazine.com/2022/04/use-storytelling-ux/)
 * [실전 UI/UX -  피플카 고객경험 개선하기](https://brunch.co.kr/@fbrudtjr1/52)
 * [문제정의에 집중하는 팀의 디자이너는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1589/)
+* [The History of User Interfaces](https://history.user-interface.io/)
+* [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
