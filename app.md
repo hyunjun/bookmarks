@@ -478,6 +478,7 @@ App
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
+* [myAlgorithm: A self hosted recommendation feed generated from your browsing habits](https://github.com/jawerty/myAlgorithm)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * MuteTab [크롬 탭 별 음소거(mute) 처리](https://jybaek.tistory.com/953)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
@@ -584,6 +585,7 @@ App
 * [5 Dev Tools To Look Out For In 2022 | by Carlo Morrone | Dec, 2021 | Better Programming](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf)
 * [8 Best Developers Tools for Linux | Linux Tutorial](https://blog4hacking.blogspot.com/2022/01/8-best-developers-tools-for-linux-linux.html)
 * [최고의 오픈 소스 개발 도구 Top 8 | 요즘IT](https://yozm.wishket.com/magazine/detail/1569/) VS Code, Budibase, Snyk, PostHog, Prisma, Gitlab, Storybook, Supabase
+* [Dev tools: The ex-Googler guide](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
@@ -680,7 +682,8 @@ App
   * [Generating Flutter Dart code for api integration in Postman | Flutter Tricks - YouTube](https://www.youtube.com/watch?v=Kgxd1XS5MJI)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
-* RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
+  * [vscode-restclient: REST Client Extension for Visual Studio Code](https://github.com/Huachao/vscode-restclient)
+  * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 * xh
 * [yaade: Yaade is an open-source, self-hosted, collaborative API development environment](https://github.com/EsperoTech/yaade)
