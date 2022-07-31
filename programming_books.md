@@ -306,8 +306,8 @@ Programming Books
   * 한라, 우당
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라
-* (NOT YET) [사용자를 끌어들이는 UX/UI의 비밀 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/124)
-  * 한라
+* (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data)
+  * 탐라
 
 # Algorithm
 
@@ -947,6 +947,7 @@ Programming Books
   * [독서광 책 vs 책:정형 vs 비정형 딥러닝 - YouTube](https://www.youtube.com/watch?v=TlikY0zge-g)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 * (NOT YET) 딥러닝을 위한 수학 [론 크노이젤의 친절한 딥러닝 수학](https://jpub.tistory.com/1299?category=203154)
+* (NOT YET) [실무자를 위한 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/practical-deep-learning)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1377,6 +1378,8 @@ Programming Books
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
 * (NOT YET) [솔리디티 프로그래밍 완벽 가이드 | 위키북스](https://wikibook.co.kr/solidity/)
+  * 탐라
+* (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
@@ -2020,10 +2023,14 @@ Programming Books
 * (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
   * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
+  * 탐라 문331.17-클231ㅂ
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
+  * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
+  * 한라
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
+  * 한라
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -2072,18 +2079,23 @@ Programming Books
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
-  * 한라, 탐라, 우당
+  * 한라 325.24-백75ㅇ 탐라 문325.24-백75ㅇ 우당 문325.24-백75ㅇ
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
-  * 탐라
+  * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
+  * 한라 325.24-주65ㅌ
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
+  * 우당
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
+  * 한라
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
 * (NOT YET) [모두를 움직이는 힘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280313083)
+  * 한라 325.24-하63ㅁ 탐라 문325.24-하62ㅁ 우당 문331.17-하62ㅁ
   * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
 * (NOT YET) [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
+  * 우당
 
 # Math
 
@@ -2151,6 +2163,9 @@ Programming Books
 * (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2/)
   * 한라 004.73-전82자
 * (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp)
+  * 한라
+* (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer)
+  * 한라
 
 # NoSQL
 
@@ -2451,6 +2466,7 @@ Programming Books
 * (NOT YET) 파이썬 자동화 교과서 - 업무 생산성을 3배 높이는 엑셀, 워드, 크롤링, 메일 자동화 기술 [파이썬과 함께 사무 작업을 3배 빠르게](https://jpub.tistory.com/1296)
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
+* (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2559,10 +2575,11 @@ Programming Books
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
-  * 한라
+  * 한라 005.133-클292ㄹ 우당 문005.133-스839ㄹ
 * (NOT YET) [동시성 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
   * 우당
 * (NOT YET) [한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/08/%ED%95%9C-%EC%A4%84-%ED%95%9C-%EC%A4%84-%EC%A7%9C%EB%A9%B4%EC%84%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EB%9F%AC%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
+  * 우당
 
 # Scala
 
@@ -2704,6 +2721,8 @@ Programming Books
 # TDD Test
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
+* (NOT YET) [A/B 테스트 | 에이콘출판사](http://acornpub.co.kr/book/trustworthy-abtest)
+  * 탐라
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
@@ -2711,6 +2730,7 @@ Programming Books
 * [사용자를 끌어들이는 UX/UI의 비밀](https://story.pxd.co.kr/1582)
   * 한라 004.78-티27ㅅ
   * ★★★☆☆ 2022.07.10 디자인은 모르지만, 구조적으로 논리적으로 접근하고 설명한다는 점은 충분히 이해할 수 있었다
+  * [사용자를 끌어들이는 UX/UI의 비밀 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/124)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://github.com/hyunjun/bookmarks/blob/master/programming_books/designing_interfaces.md)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-ux-ui%EC%9D%98-%EB%B9%84%EB%B0%80-designing-interfaces-cae1fe9c76b4)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://jh4hj.tistory.com/entry/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-UXUI%EC%9D%98-%EB%B9%84%EB%B0%80-Designing-Interfaces)
