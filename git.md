@@ -554,6 +554,8 @@ Git
   * [Git에서의 branch name을 대신하는 '-' (hyphen)](https://jusths.tistory.com/230)
   * [How to Delete Branches in Git | Erik August Johnson](https://www.eaj.io/articles/deleting-a-git-branch/)
   * [How to delete all merged git branches with one terminal command](https://whitep4nth3r.com/blog/delete-all-merged-git-branches-one-terminal-command/)
+  * [git-branchless: High-velocity, monorepo-scale workflow for Git](https://github.com/arxanas/git-branchless)
+    * [Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음 | GeekNews](https://news.hada.io/topic?id=6970)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
