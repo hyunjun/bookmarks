@@ -176,6 +176,7 @@
 * [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
 * [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
 * [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
+* [CPS Style](https://devroach.tistory.com/149) continuation
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
