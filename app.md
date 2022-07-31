@@ -126,6 +126,8 @@ App
   * [**Writing a Book with Pandoc, Make, and Vim**](https://keleshev.com/my-book-writing-setup/)
   * [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
   * [Quarto](https://quarto.org/)
+    * [Create beautiful documents with Quarto and R - YouTube](https://www.youtube.com/watch?v=y5VcxMOnj3M)
+    * ["파이썬, 비주얼 스튜디오 사용자 품는다” 차세대 R 마크다운, 콰르토 - ITWorld Korea](https://www.itworld.co.kr/news/245776)
 * pdf
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
