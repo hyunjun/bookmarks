@@ -28,7 +28,6 @@ Finance
 * [코스피 주가 데이터 (17년치, 2000-01-04 부터)](http://devse.tistory.com/entry/%EC%BD%94%EC%8A%A4%ED%94%BC-%EC%A3%BC%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-17%EB%85%84%EC%B9%98-20000104-%EB%B6%80%ED%84%B0)
 * [10년치 코스피 기업별 외국인/기관 보유 현황(2007-02-23~2017-11-08)](http://devse.tistory.com/entry/10%EB%85%84%EC%B9%98-%EC%BD%94%EC%8A%A4%ED%94%BC-%EA%B8%B0%EC%97%85%EB%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B8%B0%EA%B4%80-%EB%B3%B4%EC%9C%A0-%ED%98%84%ED%99%A9)
 * [초단타매매 전략 소개 및 트렌드](https://tv.naver.com/v/3255292)
-* [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
 * [JP MORGAN의 DEEP HEDGING 둘째](https://smallake.kr/?p=28132)
@@ -175,6 +174,7 @@ Finance
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
