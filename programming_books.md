@@ -1372,6 +1372,7 @@ Programming Books
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
+* (NOT YET) [솔리디티 프로그래밍 완벽 가이드 | 위키북스](https://wikibook.co.kr/solidity/)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
