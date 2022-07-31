@@ -248,6 +248,7 @@ Business
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
 * [성공을 목표로 하면 안 되는 이유](http://moneyman.kr/archives/1675)
+* [실리콘밸리 거물의 깨달음, “성공은 찐-우정에서 나오더라”](https://nosettling.notion.site/04f6ebdc78364de29c84497971cf2bdb)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
@@ -842,6 +843,7 @@ Business
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 * [성장하는 사람의 큰 특징: 설득의 자세 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213121)
+* [존잡생각 Ep.18 (회사에서 본인을 빠르게 성장시키는 방법) 보고 요약 & 느낀 점 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/1071)
 * [설득은 타고난 것? 충분히 배울 수 있어요! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32773558)
 * [전략 상대를 설득하는 4가지 방법](http://moneyman.kr/archives/13430)
 * [Hello Guru '변화경영의 대가' 설득에 심취한 이유는?](https://news.v.daum.net/v/20110114153928553)
