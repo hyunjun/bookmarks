@@ -191,6 +191,7 @@
 * [Dependency Inversion vs. Dependency Injection | by Guy Erez | Feb, 2022 | Better Programming](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 * [From dependency injection to dependency rejection](https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/)
 * [Loosely-coupled 그리고 스프링 프레임워크](https://brunch.co.kr/@graypool/512)
+* [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
 * [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
   * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
 
