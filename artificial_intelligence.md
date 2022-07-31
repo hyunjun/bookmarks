@@ -158,6 +158,7 @@ Artificial Intelligence
 * [AI for Software Developers: a Future or a New Reality?](https://www.infoq.com/articles/ai-for-software-developers/)
 * [내가 AI 업계를 떠난 이유 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/707/)
 * [Open API를 이용한 고속 논문 분석 | Pega Devlog](https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/)
+  * [Open API를 이용한 고속 논문 분석 | GeekNews](https://news.hada.io/topic?id=6895)
 * [2022 AI페스티벌 / 실용 인공지능 학술대회 공개세션 - YouTube](https://www.youtube.com/watch?v=js4Lh2RJ5YM)
 * [우리는 왜 인공지능을 공부해야 하는가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48070)
 * [이제 사람 없이도 AI가 학습할 수 있는 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022072915407721178)
