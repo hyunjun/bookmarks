@@ -386,6 +386,8 @@ Book
 * (NOT YET) [빈센트 반고흐 번역서 Van gogh TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
 * (NOT YET) [뮤지엄×여행](https://blog.naver.com/ihk0704/221669710616)
   * 탐라 문069.04-최39ㅁ 한라 069.6-최38ㅁ 우당 문069.6-최39ㅁ
+* (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
+* (NOT YET) [단테 『신곡』 강의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298319176)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
