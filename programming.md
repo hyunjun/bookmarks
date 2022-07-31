@@ -33,6 +33,7 @@ Programming
   * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning)
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
+  * [build-your-own-x: Master programming by recreating your favorite technologies from scratch](https://github.com/codecrafters-io/build-your-own-x)
   * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [The Best Github Repos for Self-Taught - DEV Community](https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
