@@ -718,6 +718,7 @@ Machine Learning
 * [evalml: EvalML is an AutoML library written in python](https://github.com/alteryx/evalml)
   * [Home — EvalML 0.23.0 documentation](https://evalml.alteryx.com/)
 * [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
+  * [mindsdb: In-Database Machine Learning](https://github.com/mindsdb/mindsdb)
 
 # Book
 * [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
@@ -1319,6 +1320,8 @@ Machine Learning
   * 두 저장소 모두 푸쉬, 새로운 모델 릴리즈에 따라 자동으로 GKE 클러스터로 도커 이미지를 빌드한 뒤 배포하는 GitHub Action 도 함께 작성
 * [nvidia-ml-py를 사용해서 kubernetes에 배포되어 있는 인스턴스에서 MIG 메모리 사용량 체크하기 | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/nvidia-ml-py%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-kubernetes%EC%97%90-%EB%B0%B0%ED%8F%AC%EB%90%98%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90%EC%84%9C-mig-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0-c73a70d700fa)
 * [머신러닝 시스템 디자인 패턴](https://github.com/mercari/ml-system-design-pattern/blob/master/README_ko.md)
+* [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
+* [2205.02302 Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
@@ -1451,10 +1454,10 @@ Machine Learning
   * [Engineering Trade-Offs in Automatic Differentiation: from TensorFlow and PyTorch to Jax and Julia - Stochastic Lifestyle](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
   * [잭스로 구현하는 딥러닝 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTAtneTLH23tvEAIZlE7E-g8)
   * [코파일럿과 함께 구현하는 딥러닝. 깃허브가 제공하는 코파일럿을 사용하면 편리하게 코드를 구현할 수 있다… | by Sungjin (James) Kim, Ph.D. | Jul, 2022 | Medium](https://medium.com/@jskDr/%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%ED%95%A8%EA%BB%98-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%89%B4%EB%9F%B4%EB%84%B7-b1d6ccaefdfb)
+  * ["가속기를 단 넘파이" 구글 JAX 시작하기 - ITWorld Korea](https://www.itworld.co.kr/news/245590)
   * [haiku-baseline](https://github.com/TinkTheBoush/haiku-baseline)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
-* [mindsdb: In-Database Machine Learning](https://github.com/mindsdb/mindsdb)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
   * [P MLJAR + Optuna = simple tuning interface (for tabular data) : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/m64xwd/p_mljar_optuna_simple_tuning_interface_for/)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
