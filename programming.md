@@ -1878,6 +1878,7 @@ Programming
 * [**How to Test Microservices**](https://semaphoreci.com/blog/test-microservices)
 * [**MSA 환경에서 네트워크 예외를 잘 다루는 방법 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/msa-transaction/)
 * [**마이크로서비스 아키텍처를 구성하는 핵심 요소 8가지 | 무조건 MSA가 정답일까? — 시행착오를 줄이는 방법 | 진태양**](https://dataportal.kr/81)
+* [디지털 혁신의 엔진-마이크로서비스 유형과 특징](https://brunch.co.kr/@ywkim36/85)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
