@@ -866,6 +866,7 @@ Docker
 * [Kubernetes Tutorial for Beginners with Practice labs | K8S for Beginners - YouTube](https://www.youtube.com/watch?v=TXMCoJf3vSM)
 * [Basics of Kubernetes - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVYcilrX349DRs4qGgiCkRTi)
 * [Learn Kubernetes with this Introductory Course in One Hour (All Core Components and Hands On!) - YouTube](https://www.youtube.com/watch?v=n4zxKk2an3U)
+* [Kubernetes Tutorial | Metrics Server | Explained Simply - YouTube](https://www.youtube.com/watch?v=7I3h1G-ik-E)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
