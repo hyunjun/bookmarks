@@ -680,6 +680,7 @@ Deep Learning
 * [AutoML 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
 * [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
 * [How to Train a Very Large and Deep Model on One GPU? | by Synced | SyncedReview | Medium](https://medium.com/syncedreview/how-to-train-a-very-large-and-deep-model-on-one-gpu-7b7edfe2d072)
+* [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 * [Releasing first online 3D Point Cloud labeling tool in Supervisely](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e)
 * [작고 빠른 딥러닝 그리고 Edge Computing](https://www.slideshare.net/slideshow/embed_code/key/9gaEyFbAxBOw9Q)
 * [Is Rectified Adam actually better than Adam?](https://www.pyimagesearch.com/2019/10/07/is-rectified-adam-actually-better-than-adam/)
@@ -996,6 +997,7 @@ Deep Learning
 * [DS-GA 1008 · 2020 봄 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/ko/) 한글
 * [**edwith.org/deeplearningchoi**](http://www.edwith.org/deeplearningchoi/)
 * [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+  * [Practical Deep Learning for Coders - Practical Deep Learning](https://course.fast.ai/)
   * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
   * [Practical Deep Learning for Coders (2020) - YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
     * [**Practical Deep Learning For Coders, Part 1**](http://course.fast.ai/)
@@ -1669,6 +1671,7 @@ Deep Learning
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
 * [신경망(neural networks)에서 편향(bais)의 역할 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1655)
+* [Brain.js: GPU accelerated Neural Networks in JavaScript](https://brain.js.org/)
 * [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
 * [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
 * [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
@@ -1785,6 +1788,7 @@ Deep Learning
   * [Graph Neural Network 찍어먹기 - TooTouch](https://tootouch.github.io/research/gnn_summary/)
   * [How Powerful are Graph Neural Networks? - Graph ML review](https://harryjo97.github.io/paper%20review/How-Powerful-are-Graph-Neural-Networks/)
   * [**DGL-tutorial: 그래프 딥러닝 라이브러리 DGL 쉽게 배우기**](https://github.com/myeonghak/DGL-tutorial)
+  * [Graph Machine Learning at Airbnb. How Airbnb is leveraging graph neural… | by Devin Soni | The Airbnb Tech Blog | Jun, 2022 | Medium](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [How Uber uses Graph Neural Networks to recommend you food (live stream) - YouTube](https://www.youtube.com/watch?v=9O9osybNvyY)
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
