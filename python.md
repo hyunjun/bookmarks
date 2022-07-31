@@ -22,6 +22,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [practical-python](https://dabeaz-course.github.io/practical-python/) dabeaz, David Beazley
 * [blog.thepythontutor.com](http://blog.thepythontutor.com/)
+* [Python Tutor code visualizer: Visualize code in Python, JavaScript, C, C++, and Java](https://pythontutor.com/visualize.html)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 * [Top 11 Github Repositories to Learn Python | by Claire D. Costa | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-11-github-repositories-to-learn-python-e75e8676757a)
@@ -1516,6 +1517,7 @@ Python
 * [왜 asyncio에 뮤텍스 락이 필요할까?](https://seonghyeon.dev/whats-the-asyncio-lock-for/) asyncio.Lock()
 * [asyncio를 이용한 비동기 처리 이해와 promise와 비교하기](https://blog.naver.com/pjt3591oo/221979921090)
 * [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
+* ["파이썬 웹 개발의 미래" ASGI의 개념과 활용 방법 - ITWorld Korea](https://www.itworld.co.kr/news/245062)
 * [Sync vs. Async Python: What is the Difference? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
