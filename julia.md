@@ -118,6 +118,8 @@ Julia
 * [220417 - Julia Memory Layout - 김종수.pdf - Google Drive](https://drive.google.com/file/d/1p6nsYOEBQJVSLJDtjjU54mrClzJ6MtaY/view)
 * [All about Regular Expressions in Julia - YouTube](https://www.youtube.com/watch?v=WeXJ0-cCgKY)
 * [AI for HVAC: How Julia Computing Uses Machine Learning to Tackle Building Efficiency with JuliaSim - YouTube](https://www.youtube.com/watch?app=desktop&v=_G9jfE-xNFM)
+* [High-performance xPU Stencil Computations in Julia :: JuliaCon 2022 (Times are UTC) :: pretalx](https://pretalx.com/juliacon-2022/talk/AKVUKM/)
+* [Simulation of atmospheric turbulence with MicroHH.jl :: JuliaCon 2022 (Times are UTC) :: pretalx](https://pretalx.com/juliacon-2022/talk/X37FHS/)
 
 # API
 * Pkg.add
