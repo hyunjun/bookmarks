@@ -989,6 +989,7 @@ Linux
     * `xxd -r BINARY.bin > (Filename)` 변환된 바이너리 덤프 -> 원본 파일 형식
       * hex 값을 수정한 이후 이를 다시 원본 형태로 돌려놓아야 할 때 유용
   * [꿀벌개발일지 :: 파일을 바이너리로 보기](https://ohgyun.com/793)
+* `yes` [A Little Story About the `yes` Unix Command | Matthias Endler](https://endler.dev/2017/yes/)
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
 
 ## Command Mail
