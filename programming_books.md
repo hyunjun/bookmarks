@@ -1174,6 +1174,7 @@ Programming Books
   * [책 펭귄브로의 3분 딥러닝, 파이토치맛](https://jybaek.tistory.com/879)
 * (NOT YET) [fastai와 파이토치가 만나 꽃피운 딥러닝(제레미 하워드, 실뱅 거거 著, 박찬성, 김지은 譯, 2021)](https://jehyunlee.tistory.com/27)
   * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
+  * [Practical Deep Learning for Coders - The book](https://course.fast.ai/Resources/book.html)
 * (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
 * (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
   * 한라
@@ -2368,6 +2369,7 @@ Programming Books
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
   * [Python for Data Analysis](https://jybaek.tistory.com/815)
+  * [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 * (NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](https://blog.insightbook.co.kr/2017/08/16/%ED%95%84%EC%9A%94%ED%95%9C-%EB%A7%8C%ED%81%BC-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%E3%80%8E%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC/)
   * 한라 005.133-젤75ㅍ
 * (NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
