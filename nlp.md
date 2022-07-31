@@ -1656,6 +1656,7 @@ NLP
 * [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
   * [The Rise of Vector Data - YouTube](https://www.youtube.com/watch?v=hw2ZS5CVs8s)
 * [Find anything blazingly fast with Google's vector search technology | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+* [string-similarity: Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance](https://github.com/aceakash/string-similarity)
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
