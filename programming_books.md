@@ -2615,6 +2615,9 @@ Programming Books
 * [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
   * 탐라 문005.12-카213ㅅ
   * ★★★☆☆ 2022.07.30
+  * [심플 소프트웨어 Understanding Software](https://github.com/hyunjun/bookmarks/blob/master/programming_books/simple_software.md)
+  * [심플 소프트웨어 Understanding Software. Understanding Software | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%8B%AC%ED%94%8C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-understanding-software-c7aa6a9e9d0c)
+  * [심플 소프트웨어 Understanding Software](https://jh4hj.tistory.com/entry/%EC%8B%AC%ED%94%8C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-Understanding-Software)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
