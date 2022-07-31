@@ -262,6 +262,8 @@ Vision
 * [딥러닝 해체신서 :: ViT(Vision Transformer) 해체신서](https://10cho.tistory.com/14)
 * [위상편차를 이용한 이미지간의 차이 계산](https://gist.github.com/june9713/a4ccb35481f4fd823e4781b67f9d5bcc)
 * [Coding with voice dictation using Talon Voice](https://www.joshwcomeau.com/blog/hands-free-coding/)
+* [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
+  * [논문 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기 | GeekNews](https://news.hada.io/topic?id=7066)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
