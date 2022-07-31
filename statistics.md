@@ -327,6 +327,7 @@ Statistics
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * [**github.com/hyunblee/ISLR-with-Python**](https://github.com/hyunblee/ISLR-with-Python) Introduction to Statistical Learning in R (ISLR)을 Python으로
     * [K-Nearest Neighbors Regression/Classification & Model Evaluations](http://nbviewer.jupyter.org/github/hyunblee/ISLR-with-Python/blob/master/Ch4-Classification/Ch4_KNN_Reg_Clf_n_Evaluation.ipynb)
+* [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)
 * [Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis (Multivariate Applications Series)](https://www.amazon.com/Understanding-New-Statistics-Meta-Analysis-Multivariate/dp/041587968X)
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
