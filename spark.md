@@ -1087,6 +1087,7 @@
 * [입 개발 Spark Structured Streaming 에서 Offset 은 어떻게 관리되는가(아주 간략한 버전)? | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/09/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-structured-streaming-%EC%97%90%EC%84%9C-offset-%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80%EC%95%84%EC%A3%BC-%EA%B0%84/)
 * [입 개발 Spark Kafka Streaming 에서의 BackPressure 에 대한 아주 간단한 정리. | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/24/%EC%9E%85%EA%B0%9C%EB%B0%9C-spark-kafka-streaming-%EC%97%90%EC%84%9C%EC%9D%98-backpressure-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%A0%95%EB%A6%AC/)
 * [Structured Streaming Use-Cases at Apple - YouTube](https://www.youtube.com/watch?v=bcIJFCtsRXs)
+* [Apache Spark - Spark Structured Streaming Kafka Sink는 Exactly-Once를 지원하지 않는다 | leeyh0216's devlog](https://leeyh0216.github.io/posts/spark-structured-streaming-kafka-sink/)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
