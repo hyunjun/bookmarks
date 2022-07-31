@@ -36,6 +36,7 @@
 
 # Apple
 * [애플의 앱 추적 투명성(App Tracking Transparency)에 대한 염려로 모바일 게임 앱 리타게팅을 놓치지 마세요](https://blog.naver.com/remerge_korea/222668609921)
+* [애플이 디지털 광고 시장에 불러온 나비 효과](https://blog.toss.im/article/global-business-lounge-13)
 
 # Facebook
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
