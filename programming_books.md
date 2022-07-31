@@ -230,6 +230,7 @@ Programming Books
 * (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
   * 탐라
   * [데이터 익명화를 위한 이론적인 방법과 절차 : 네이버 블로그](https://blog.naver.com/drvoss/222751471716)
+  * [데이터 익명화를 위한 파이프라인 Building an Anonymization Pipeline](https://github.com/hyunjun/bookmarks/blob/master/programming_books/building_an_anonymization_pipeline.md)
 * (NOT YET) 좋은 코드, 나쁜 코드 [좋은 개발자는 좋은 코드로 말한다!](https://jpub.tistory.com/1272)
   * 우당
 * (NOT YET) [NFT 실체와 가치 | 위키북스](https://wikibook.co.kr/nft/)
