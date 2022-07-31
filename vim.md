@@ -199,6 +199,7 @@ Vim
 * [Why (and How) I Use Vim. When I started programming I never… | by Mark Lavin | Level Up Coding](https://levelup.gitconnected.com/why-and-how-i-use-vim-da322260aa6c)
 * [Vim 단축키 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/540)
 * [빔 교정학원 VIMRC 2022 - YouTube](https://www.youtube.com/watch?v=8wQ7c2Tbtkw)
+* [Learn Vim the Simple Way](https://www.vimified.com/)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
