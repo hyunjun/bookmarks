@@ -369,3 +369,4 @@ Bitcoin
 * [블파스 Decentralized Society : Web3의 영혼을 찾아서 | 윤두식 - YouTube](https://www.youtube.com/watch?v=NSL_FDNRyKE)
 * [Aleph.im decentralized infrastructure](https://aleph.im/)
 * [웹3에서 차용해보는, "잘 먹히는" 커뮤니티 구축 전략 5단계](https://www.grownbetter.com/article/132)
+* [ReFi와 ImpactDAO. 웹3의 regeneration movement와 임팩트에 대해 알아보기 | by JinYoung Yoo | Jul, 2022 | Medium](https://medium.com/@uj_/refi-impactdao-kr-ff171545aab9)
