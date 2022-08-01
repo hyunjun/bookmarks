@@ -509,6 +509,7 @@ Data Visualization
 * [Datetime X-axis Control | Pega Devlog](https://jehyunlee.github.io/2021/06/29/Python-DS-77-datetime/)
 * [Matplotlib 3D Plots (1) | Pega Devlog](https://jehyunlee.github.io/2021/07/09/Python-DS-79-mpl3d/)
 * [Matplotlib 3D Plots (2) | Pega Devlog](https://jehyunlee.github.io/2021/07/10/Python-DS-80-mpl3d2/)
+* [Matplotlib 3D Plots (3) | Pega Devlog](https://jehyunlee.github.io/2022/08/01/Python-DS-108-mpl3d3/)
 * [Streamgraph - Movie Genres | Pega Devlog](https://jehyunlee.github.io/2021/08/09/Python-DS-81-streamgraph/)
 * [3D curved surfaces | Pega Devlog](https://jehyunlee.github.io/2021/09/03/Python-DS-84-sphere/)
 * [Population by gender and age | Pega Devlog](https://jehyunlee.github.io/2021/10/05/Python-DS-85-popkr/)
