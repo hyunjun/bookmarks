@@ -368,6 +368,7 @@ Git
   * 회사의 프라이빗 네트워크에 연결이 필요한 경우 보통 self-hosted 러너를 네트워크 안에 띄워서 실행 가능
   * 하지만 self-hosted 러너를 관리할 리소스가 없는 경우 GitHub-hosted 러너에서 프라이빗 네트워크에 연결할 방법 설명
   * OpenID Connect(OICD) 토큰을 이용해서 API 게이트웨이에 인증해서 접속하거나 WireGuard로 오버레이 네트워크를 설정하거나 TailScale같은 사용 솔루션으로 오버레이 네트워크 설정해서 연결
+* [Automate Deploy Jupyter Notebooks with Github Actions | MLOps | Productionize Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=jVag3kUhUXQ)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
