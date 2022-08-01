@@ -3107,6 +3107,7 @@ Programming
 * [Seven steps to making DevOps a reality | Google Cloud Blog](https://cloud.google.com/blog/topics/perspectives/seven-steps-to-making-devops-a-reality)
 * [The human scalability of “DevOps” | by Matt Klein | Medium](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
   * [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops/)
+    * 엔지니어링 조직이 갖는 당면 과제는 '비즈니스 성장, 개인의 성장 및 (비즈니스/채용에 대한) 경쟁 등에 대한 극심한 압박과 시스템 신뢰성(reliability) 간의 균형을 어떻게 맞추는가'
     * Envoy를 만든 Matt Klein가 쓴 The human scalability of “DevOps” 번역 글
     * 글쓴이의 다양한 경험을 통해 조직이 커가면서 DevOps를 업계가 어떻게 받아들이고 어떤 문제가 있는지를 짚어내고 있음
     * 개발자가 코드를 작성하고 운영할 때 시스템의 퀄리티가 향상
@@ -3537,6 +3538,7 @@ Programming
   * [월간 개발자스럽다 #78 - 개발자스럽다](https://blog.gaerae.com/2022/04/monthly.html)
   * [월간 개발자스럽다 #79 - 개발자스럽다](https://blog.gaerae.com/2022/05/monthly.html)
   * [월간 개발자스럽다 #80 - 개발자스럽다](https://blog.gaerae.com/2022/06/monthly.html)
+  * [월간 개발자스럽다 #81 - 개발자스럽다](https://blog.gaerae.com/2022/07/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
@@ -4029,6 +4031,7 @@ Programming
   * [기술 뉴스 #200 : 22-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1601)
   * [기술 뉴스 #201 : 22-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1606)
   * [기술 뉴스 #202 : 22-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1607)
+  * [기술 뉴스 #203 : 22-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1611)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
