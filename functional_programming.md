@@ -284,6 +284,7 @@ Functional Programming
 * [Ultra small code using Functional Programming - Yoganathan Palaniswamy - Medium](https://medium.com/@pyoganathan99/ultra-small-code-using-functional-programming-javascript-a437d01e59d5)
 * [Brad Barrow's Blog | Javascript FlatMap Usage](https://bradbarrows.com/post/jsflatmapusage)
 * [**Framework Free - Functional HTML Rendering and State Management in Vanilla JS - Drew Warren - YouTube**](https://www.youtube.com/watch?v=yBg8w_5THS4)
+* [**PostCSS, IE 그리고 함수형 프로그래밍. Glace CIC에서 담당하는 서비스인 스마트플레이스는 글로벌 진출을… | by 권세규 | 네이버 플레이스 개발 블로그 | Aug, 2022 | Medium**](https://medium.com/naver-place-dev/postcss-ie-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-87804ba73ef3)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
