@@ -849,6 +849,7 @@ Javascript
 * [평문을 HTML로 변환하기 | Univdev](https://www.univdev.page/posts/text-to-html/)
 * [Retry XMLHttpRequest Carefully](https://lofi.limo/blog/retry-xmlhttprequest-carefully)
   * [(번역) 주의 깊게 XMLHttpRequest 재시도하기. 원문… | by Jung Han | Jul, 2022 | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%A3%BC%EC%9D%98-%EA%B9%8A%EA%B2%8C-xmlhttprequest-%EC%9E%AC%EC%8B%9C%EB%8F%84%ED%95%98%EA%B8%B0-2895dfa66b43)
+    * HTTP 요청에서 일시적인 네트워크 중단(interruption)과 서버 중단(outage)으로 실패한 경우 재시도는 어떻게 하면 좋은지 고민해보게 하는 글
     * `XMLHttpRequest`이나 `fetch`로 요청이 실패했을 때 재시도하는 전략 설명
     * 실패했을 때 즉시 재시도하면 불필요하게 과도한 트래픽을 서버에 일으킬 수 있어서 장애를 더욱 심하게 만들 수 있으므로
     * 지연시간 추가, 백오프로 실패할수록 지연 시간을 늘리고 이 시간을 랜덤화해서 분산되도록 개선하는 과정 설명
