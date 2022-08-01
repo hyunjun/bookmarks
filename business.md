@@ -1739,6 +1739,7 @@ Business
 * [회사가 어려울 때 CEO가 해야할 것, 하지 말아야 할 것 - 티타임즈](https://www.ttimes.co.kr/article/2022072218477792296)
 * [스타트업 4년을 마무리 하며](https://velog.io/@jeonjay/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-4%EB%85%84%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC-%ED%95%98%EB%A9%B0)
 * [본 궤도에 오르는 스타트업이 되기 위한 요건](https://brunch.co.kr/@seunghoon82/164)
+* [프리토타입: 실패의 세계에 오신 걸 환영합니다](https://brunch.co.kr/@cliche-cliche/157) pretotype
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
