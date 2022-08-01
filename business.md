@@ -1222,6 +1222,7 @@ Business
   * 뒷부분은 프론트엔드 챕터 이야기
     * 각자 자기 일을 하는 소규모 챕터에서 규모가 커지면서 주니어 개발자가 합류하게 되고
     * 이러한 분들이 자신감을 잃지 않도록 도와주는 사람을 배치하고 "싼 똥"을 자랑하는 자리와 강점 찾기 테스트 등 성장에 대한 다양한 시도를 한 과정 소개
+* [스티브 잡스가 사랑한 의사결정 구조 : DRI](https://eopla.net/magazines/79)
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
 * [**What Makes an Effective Executive**](https://hbr.org/2004/06/what-makes-an-effective-executive)
   * [번역 What Makes an Effective Executive](https://www.linkedin.com/posts/jayden-kang_what-makes-an-effective-executive-activity-6898080373327179776-wkm8)
