@@ -2032,6 +2032,9 @@ Programming Books
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
+* (NOT YET) [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280417087)
+  * 탐라 문325.152-황72ㄷ
+  * [AI, 메타버스한다고 그것이 DT일까? (f.황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080115417792486/)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
