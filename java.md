@@ -413,6 +413,8 @@ Java
   * [Armeria를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/introduce-armeria/)
     * [Armeria 아르메리아를 소개합니다 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=jlKb61lHOOw)
   * [Armeria로 서버 간 인증 마이크로서비스 개발하기](https://engineering.linecorp.com/ko/blog/building-an-authentication-microservice-with-Armeria)
+    * 인증 MSA를 Armeria로 개발한 내용
+    * API를 요청하는 여러 서버 컴포넌트의 요청을 추적하고 서버별로 접근 제어를 구현이 아닌 공통으로 사용할 수 있는 접근 제어를 위해 개발
   * [LINE 개발자들이 Spring 대신 Armeria를 사용하는 이유](https://engineering.linecorp.com/ko/blog/hello-armeria-bye-spring)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
