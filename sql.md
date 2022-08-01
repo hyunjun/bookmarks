@@ -716,6 +716,7 @@ SQL
   * 프롬프트에 서버 정보 등을 표시하거나 PostgreSQL처럼 자주 쓰는 명령어의 단축 명령어를 추가해서 `\\d`를 입력하면 `SHOW DATABSAES;` 실행 가능
   * 미리 파일에 저장해둔 SQL을 실행하거나 회사 정책에 따른 경고문을 표시할 수 있도록 수정한 client 코드 같이 제공
 * [MySQL Heatwave를 살펴보았습니다 – gywndi's database](https://gywn.net/2022/05/mysql-heatwave/)
+* [MySQL table lock / table mutex / 송장번호 가상계번호 발급 / 번호 중복 발급 방지 방법](https://blog.naver.com/oralol/222836743527)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
