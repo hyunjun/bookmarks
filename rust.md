@@ -158,6 +158,7 @@
 * [Allocating Less: Really Thin Rust Cloud Apps - YouTube](https://www.youtube.com/watch?v=nO-BFKyWYgE)
 * [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
 * [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
+* [Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정 | GeekNews](https://news.hada.io/topic?id=7080)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
