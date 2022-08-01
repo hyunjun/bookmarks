@@ -239,7 +239,7 @@ Book
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
-  * 탐라
+  * 한라 340.98-마53ㅈ-1, 2 탐라 문340.98-마52ㅈ-1, 2 우당 문340.98-마52ㅈ-1, 2
 * (NOT YET) [권력의 심리학 - 권력을 잡으면 인간은 어떻게 변하는가](https://news.v.daum.net/v/20220211050606263)
   * [김지수의 인터스텔라 "왜 우리는 부패한 리더에게 표를 던지나" 英 최고 선거 전문가의 통찰](https://news.v.daum.net/v/20220305070213023)
 * (NOT YET) [브런치북 퇴직 후 그림책을 봅니다](https://brunch.co.kr/brunchbook/wjhee20)
@@ -268,6 +268,7 @@ Book
 * (NOT YET) [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
   * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
 * (NOT YET) [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
+  * 우당
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
 * (NOT YET) 지극히 사적인 러시아 ['비정상' 일리야가 말하는 러시아…러시아인들은 왜 푸틴을 좋아할까?](https://www.pressian.com/pages/articles/2022071516575646212)
@@ -276,6 +277,7 @@ Book
 * (NOT YET) [만화로 배우는 공룡의 생태](https://www.hanbit.co.kr/store/books/look.php?p_code=B4285908843)
   * 한라 아457.279-김25고 탐라 아457-김225ㄱ 우당 문457-김225ㄱ
 * (NOT YET) 폴 크루그먼, 좀비와 싸우다 [실패한 ‘부자감세 좀비’ 국민을 더 가난으로 내몬다 - 경향신문](https://www.khan.co.kr/culture/book/article/202207221124001)
+  * 탐라
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -384,10 +386,12 @@ Book
 * (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
 * (NOT YET) [The Cinema of George Lucas 조지루카스의 시네마](https://www.youtube.com/watch?v=Ip03xB992P0)
 * (NOT YET) [빈센트 반고흐 번역서 Van gogh TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
+  * 탐라
 * (NOT YET) [뮤지엄×여행](https://blog.naver.com/ihk0704/221669710616)
   * 탐라 문069.04-최39ㅁ 한라 069.6-최38ㅁ 우당 문069.6-최39ㅁ
 * (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
 * (NOT YET) [단테 『신곡』 강의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298319176)
+  * 탐라
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -574,7 +578,7 @@ Book
 * (NOT YET) 세계질서와 문명등급 [문명을 서열화한 서구 중심의 ‘세계질서’ 비판 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1040878.html)
   * 우당
 * (NOT YET) [짱깨주의의 탄생](https://www.hani.co.kr/arti/international/international_general/1048436.html)
-  * 우당
+  * 한라 309.112-김97ㅉ 탐라 문309.112-김98ㅉ 우당 문309.112-김98ㅉ
   * [문 전 대통령이 이 책을 추천한 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47644)
 * (NOT YET) [욕망 너머의 한국 고대사 : 왜곡과 날조로 뒤엉킨 사이비역사학의 욕망을 파헤치다](https://www.naon.go.kr/content/html/2019/02/27/2cbe40e4-8ce8-46a9-a733-3f889e9009e0.html)
 * (NOT YET) [세금의 세계사](https://hanbit.co.kr/biz/books/book_view.html?p_code=B2277305433)
@@ -590,6 +594,7 @@ Book
   * 한라 915-쉬34ㅇ
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
 * (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
+  * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
 * (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 * (NOT YET) [서학, 조선을 관통하다 - 위클리서울](http://www.weeklyseoul.net/news/articleView.html?idxno=69512)
 
@@ -781,6 +786,7 @@ Book
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [퀀텀 만화로 배우는 양자역학과 상대성이론](https://www.hanbit.co.kr/store/books/look.php?p_code=B6144385733)
+  * 우당
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
@@ -923,5 +929,6 @@ Book
 * (NOT YET) [여행선언문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292070879)
 * (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
   * [알라딘: 유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
+    * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
   * [알라딘: 유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
 * (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)

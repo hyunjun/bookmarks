@@ -55,6 +55,7 @@ Robot
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 
 # Library
+* [foros: Failover ROS framework](https://github.com/42dot/foros)
 * [Robocode Home](https://robocode.sourceforge.io/)
 * [uoais: Codes of paper "Unseen Object Amodal Instance Segmentation via Hierarchical Occlusion Modeling", ICRA 2022](https://github.com/gist-ailab/uoais)
   * [학습하지 않은 물체 인식하는 '로봇 시각 인공지능'... 지스트 이규빈 교수팀, 오픈소스로 공개 < 이미지 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24251)

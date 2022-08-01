@@ -1327,6 +1327,7 @@ Web
   * [Load Testing Your API with Postman | by Mostafa Moradian | k6.io | Medium](https://medium.com/k6-io/load-testing-your-api-with-postman-180915c0d03e)
   * [Integrating k6 with Apache Kafka. How to send k6 output to Apache Kafka? | by Mostafa Moradian | k6.io | Medium](https://medium.com/k6-io/integrating-k6-with-apache-kafka-eda96ea7c749)
   * [Integrating NewRelic with K6 in kubernetes cluster | by Nayan Gaur | capillary-tech | Nov, 2021 | Medium](https://medium.com/capillary-tech/integrating-newrelic-with-k6-in-kubernetes-cluster-483c381daba9)
+  * [부하 테스트 도구 Grafana k6 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1610)
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)

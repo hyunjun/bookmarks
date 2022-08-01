@@ -215,6 +215,8 @@ Google Cloud Platform GCP
 * [gcpdiag](https://gcpdiag.dev/)
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
+* [gcp-infra-by-terraform](https://github.com/jybaek/gcp-infra-by-terraform)
+  * [테라폼 모듈 구조잡기 - feat with GCP](https://jybaek.tistory.com/966)
 
 # Tutorial
 * [구글 클라우드에서 데이터 처리하고 AI 적용하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582981)
