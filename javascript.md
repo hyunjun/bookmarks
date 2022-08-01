@@ -3780,6 +3780,7 @@ Javascript
 * [리액트 커스텀 훅을 테스트하는 과정 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220311)
 * [Material UI (mui) + React + Testing Library 적용 간 어려운 점 회고](https://yoonjong-park.tistory.com/entry/React-Test-Material-UI-mui-React-Testing-Library-%EC%A0%81%EC%9A%A9-%EA%B0%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%A0%90-%ED%9A%8C%EA%B3%A0)
 * [React Tutorial Project 2022 - How To Use Axios With React Hooks 2022 - YouTube](https://www.youtube.com/watch?v=9L3aEMBzmwk)
+* [How to test onClick on ReactJs Hooks - YouTube](https://www.youtube.com/watch?v=l4W62TewkQc)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
@@ -4838,6 +4839,8 @@ Javascript
 * [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #2](http://cpdev.tistory.com/100)
 * [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #3](http://cpdev.tistory.com/101)
 * [Vuex 시작하기](https://joshua1988.github.io/web_dev/vuex-start/)
+* [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
+* [7분 안에 Vuex 마스터 - YouTube](https://www.youtube.com/watch?v=A3vmGPdXlyA)
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
@@ -4917,7 +4920,6 @@ Javascript
   * [Input handling, Loops, Components](https://medium.com/@wesharehoodies/from-zero-to-hero-with-vue-input-handling-loops-components-edde0e3c4ee5)
   * [Advanced Components, Parcel, Dev Tools](https://medium.com/cleversonder/from-zero-to-hero-with-vue-advanced-components-parcel-dev-tools-fab980a62259)
   * [Styling, Computed Props, Slots](https://medium.com/cleversonder/from-zero-to-hero-with-vue-styling-computed-props-slots-6f4f4ac1912e)
-* [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
 * [5 Tools for Faster Vue.js App Development](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
 * Vue.js App Performance Optimization
   * [part 1 — Introduction to performance optimization and lazy loading](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
