@@ -176,6 +176,7 @@ Business
 * [6 tips for building a successful risk-taking culture | MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture) 조직 문화
   * [성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁 | GeekNews](https://news.hada.io/topic?id=6434)
 * [회사는 성장할 때 망가지기 쉽습니다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/189886) 문화
+* [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
@@ -1085,6 +1086,7 @@ Business
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
 * [대표가 남 탓하려면 창업을 하지 마시라](https://brunch.co.kr/@graypool/66) 좋은 조직
+* [진화하는 창업가](https://www.thestartupbible.com/2022/08/on-founder-evolution.html) 제품 펀딩 채용 진화
 * [스스로 효과적이라고 생각한 일하는 방식 몇 가지](https://brunch.co.kr/@windydog/416)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
@@ -1298,6 +1300,7 @@ Business
 * [나의 외국인 매니저 체험기 :: Channy's Blog](http://channy.creation.net/blog/1663)
 * ['이상한 변호사 우영우'로 본 리더가 가져야 할 자질](https://brunch.co.kr/@lovelylucia/74)
 * [가장 중요한 리더의 조건…자신을 정확히 파악하라 │ 매거진한경](https://magazine.hankyung.com/business/article/202102035722b)
+* [똑똑한 상사는 왜 멍청한 소리를 할까](https://contents.premium.naver.com/saramin/waytowork/contents/220801094745312pe) 피터의 법칙, 승자의 아집, 자기애/나르시스트, (경쟁으로 인한) 우려
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1609,6 +1612,7 @@ Business
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
   * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
+* [HR인사이트 리뷰로 보는 망해가는 스타트업의 특징 < 벤처 < Industry < 기사본문 - 포춘코리아(FORTUNE KOREA)](http://www.fortunekorea.co.kr/news/articleView.html?idxno=22858)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
   * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
 * [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
