@@ -84,7 +84,6 @@ Redis
 * [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
 * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
 * [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
-* [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
 * [**배민쇼핑라이브를 만드는 기술: 채팅 편 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/5268/)
   * 배달의민족 쇼핑라이브에서 많을 때는 분당 2만 건이 넘는 메시지를 처리하기 위한 채팅을 직접 구현하기로 하면서 Redis의 Pub/Sub과 Webflux를 이용해서 채팅을 구현한 과정을 설명
   * 이전에 구현했던 경험을 통해 WebSocket의 사용 최소화, REST API를 사용할 수 있는 부분은 WebSocket의 커맨드를 이용하지 않도록 하여 WebSocket 처리에는 메시지를 보내고 받는 부분에 집중
@@ -170,6 +169,16 @@ Redis
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
   * [**패턴으로 TTL 적용하기**](https://jojoldu.tistory.com/349) scan으로 pattern match되는 key를 찾아 expire 적용하는 script
   * [Redis keys 대신 scan 이용하기](https://tjdrnr05571.tistory.com/11)
+
+# ElasticCache
+* [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
+* [ElastiCache Redis - Parameter Group 설정 변경](https://jybaek.tistory.com/930)
+* [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
+* [환상(장)의 (ElastiCache + Spring Session + Spring Security) Memory Leak](https://velog.io/@betalabs/%ED%99%98%EC%83%81%EC%9D%98-%EC%A1%B0%ED%95%A9ElastiCache-Spring-Session-Spring-Security-Memory-Leak)
+  * Spring Session, Spring Security, ElastiCache를 쓰면서 Redis의 메모리 릭을 경험하고 이를 해결하는 과정
+  * 메모리 릭을 경험하고 Redis의 SET이나 Pub/Sub을 의심했지만, 이 문제는 아니었고 사용자가 많은 시간대에 패턴이 달라지는 것을 보고 세션 클러스터링을 의심하기 시작
+  * REDIS의 키를 추적해서 문제가 있는 키를 찾아내고 이 키의 용도와 언제 생성되고 삭제되는지 코드까지 확인했는데 코드에는 이상이 없는 걸 확인
+    * ElastiCache에서 이벤트에 대한 설정이 되어 있지 않아서 삭제 처리가 안 되었음을 발견
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
