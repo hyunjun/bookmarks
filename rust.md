@@ -158,7 +158,11 @@
 * [Allocating Less: Really Thin Rust Cloud Apps - YouTube](https://www.youtube.com/watch?v=nO-BFKyWYgE)
 * [Teleforking a process onto a different computer! - Tristan Hume](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
 * [Could Rust be the Future of JavaScript Infrastructure? – The New Stack](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)
-* [Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정 | GeekNews](https://news.hada.io/topic?id=7080)
+* [Programming languages endorsed for server-side use at Meta](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)
+  * Meta(Facebook)은 다양한 언어를 쓰고 있지만 새로운 언어를 지원할 때 가볍게 결정하진 않는데 이번에 Rust를 Meta의 서버 사이드 언어 중 하나로 추가
+  * 지원한다는 의미는 Meta 내에서 좋은 개발 경험을 기대할 수 있다는 의미
+  * Meta의 서버 사이드 주요 지원 언어는 Hack, C++, Rust, Python인데 성능이 중요한 백엔드에는 C++와 Rust를 추천. CLI에도 Rust 추천
+  * [Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정 | GeekNews](https://news.hada.io/topic?id=7080)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
