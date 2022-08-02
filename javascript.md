@@ -722,6 +722,11 @@ Javascript
 * [**Vanilla JS에서 SPA 라우팅 시스템 구현하기 - Dev. DY**](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
 * [channel.io 분석 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/Etc/analysis-channel.io/) SPA
 * [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰. 당근마켓 앱 화면의 많은 부분들이 네이티브 웹뷰와 웹 기술을 활용해서… | by Hyeseong Kim | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c) SPA
+* [당근마켓에 웹 프로젝트 배포하기 #2 — 웹 서버로 돌아가기 | by Hyeseong Kim | 당근마켓 팀블로그 | Jul, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-2-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A1%9C-%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0-3030daea456c)
+  * 로컬 웹뷰를 사용하던 방식에서 웹서버를 도입하기로 결정하고 프론트엔드의 다양한 배포 서비스를 고민
+  * Cloudflare Workers로 정적 웹사이트를 배포할 수 있다는 걸 알게 되어 다양한 테스트를 해본 후
+    * 당근 미니 앱을 배포할 때 Zip 파일로 배포를 하면 Cloudflare Workers에서 압축을 풀어서 클라이언트에게는 필요한 컨텐츠만 보내는 방식 선택
+  * 비슷한 문제에 관해 Web Packaging이라는 사양 그룹이 있어서 표준을 논의 중
 * [POLA Would Have Prevented the Event-Stream Incident](https://medium.com/agoric/pola-would-have-prevented-the-event-stream-incident-45653ecbda99)
 * [**웹 개발자의 지옥, 이메일 폼 개발하기**](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html) 내용 자체뿐만 아니라 내용 전개 방법도 좋음
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
@@ -810,7 +815,6 @@ Javascript
   * "The Network Is the Computer"라는 개념을 구현한 것이 Cloudflare Workers와 Deno Deploy
     * Shell의 역할을 JavaScript가 대체하고 JavaScript 샌드박스는 Wasm을 호출하게 될 것이고
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
-* [당근마켓에 웹 프로젝트 배포하기 #1 — 파일 기반 웹뷰. 당근마켓 앱 화면의 많은 부분들이 네이티브 웹뷰와 웹 기술을 활용해서… | by Hyeseong Kim | 당근마켓 팀블로그 | May, 2022 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90-%EC%9B%B9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%ED%8C%8C%EC%9D%BC-%EA%B8%B0%EB%B0%98-%EC%9B%B9%EB%B7%B0-d312b17e697c)
 * [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
 
@@ -2728,6 +2732,10 @@ Javascript
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 * [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
 * [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
+* [An Introduction to Multithreading in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
+  * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
+  * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
+  * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3710,6 +3718,12 @@ Javascript
 * [How to Build a Skeleton Loader with React | by L Javier Tovar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-skeleton-loader-with-react-1dd359cda582)
 * [Solved - TypeError: map is not a function in Reactjs - YouTube](https://www.youtube.com/watch?v=V7id121k_ds)
 * [Reactjs 18 React Router Dom Working Example - Therichpost](https://therichpost.com/reactjs-18-react-router-dom-working-example/)
+* [Build your own web framework – Vercel](https://vercel.com/blog/build-your-own-web-framework)
+  * Vercel의 Build Output API을 이용해서 React 기반의 웹 프레임워크를 만드는 방법 설명
+  * Build Output API는 Vercel에서 배포할 수 있는 디렉터리 구조의 명세로 프레임워크를 만들어서 출력 결과가 이 디렉터리 구조를 따른다면 Vercel의 배포를 이용 가능
+    * 정적 파일 배포, 증분 재생성, 엣지 펑션, 이미지 자동 최적화, 서버리스 함수, 엣지 캐시 등의 장점 이용 가능
+  * 데모 코드도 제공하고 있고 쇼핑몰 같은 페이지를 만드는 데 각 장점을 이용하기 위해 구현한 접근 방법을 설명
+  * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
