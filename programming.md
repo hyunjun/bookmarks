@@ -2932,6 +2932,7 @@ Programming
 * [Google Online Security Blog: Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
 * [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
+* [GCP 보안 운영 시리즈  제로 트러스트 기반 보안 운영 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/identity-security/google-cloud-security-based-on-zerotrust)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
