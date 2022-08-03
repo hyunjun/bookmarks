@@ -656,6 +656,7 @@ TensorFlow
 * [Anomaly Detection with GANs](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-with-gans)
   * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
 * [BicycleGAN implementation in Tensorflow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)
+* [denoising-diffusion-gan-Tensorflow: Tensorflow implementation of "Tackling the Generative Learning Trilemma with Denoising Diffusion GANs" (ICLR 2022 Spotlight)](https://github.com/taki0112/denoising-diffusion-gan-Tensorflow)
 * [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
   * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
   * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
