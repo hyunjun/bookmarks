@@ -667,6 +667,7 @@ Business
 * [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
 * [빨라지는 HR의 진화 속도 긱스](https://news.v.daum.net/v/20220721164601921)
 * [심각하게 망가진 채용 면접, 이렇게 복구해보세요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/repairinterview20220728)
+* [체계 없는 스타트업 채용, 왜 이렇게 어렵죠? | 원티드](https://www.wanted.co.kr/events/22_07_s18_b01)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -765,6 +766,7 @@ Business
     * 평가는 매년, 연봉협상 필요할 때
     * 평가는 대상자가 제출하는 성과 보고서를 기준으로 진행
 * [Reinventing Performance Management](https://hbr.org/2015/04/reinventing-performance-management)
+* [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
