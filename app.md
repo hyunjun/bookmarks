@@ -298,6 +298,7 @@ App
     * 이미지 캡셔닝, 트위터 카드 삽입, 유투브 비디오 삽입, Warning, Important, Tip, Note 에 대한 박스 삽입 가능
     * 댓글 활성화, 블로그 포스트에 대한 깃헙, 코랩 링크 자동 삽입
   * [Introducing fastpages - An easy to use blogging platform with extra features for Jupyter Notebooks](https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html)
+  * [Build Free Machine Learning Blog with FastPages - Jupyter Notebook based Data Science Blog - YouTube](https://www.youtube.com/watch?v=oGNN1hTebyI)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [Feather Wiki | About](https://feather.wiki/)
   * [Feather Wiki - 1개의 HTML로 저장되는 개인용 위키 | GeekNews](https://news.hada.io/topic?id=6667)
