@@ -423,6 +423,10 @@ Programming
 * [쉽게 살 수 있을까 ? :: 5. DevRel의 성과는 어떻게 평가할 것인가? (5/6)](https://hl1itj.tistory.com/241)
 * [쉽게 살 수 있을까 ? :: 6. DevRel의 미래는? (6/6)](https://hl1itj.tistory.com/242)
 * [LINE Developer Relations 뉴비의 100일 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-relations-team-newbie/)
+* [What is DevRel?](https://www.whatisdevrel.com/)
+  * DevRel이 어떤 일을 하고 어떻게 해야하는지를 설명한 사이트
+  * DevRel의 활동은 커뮤니티, 컨텐츠, 제품 3가지 타입으로 구분되므로 DevRel로 취직하기 위해서는 코딩, 커뮤니티 구축, 컨텐츠 제작의 기술을 보여줄 수 있어야 함
+  * DevRel에게 가장 어려운 건 개발자의 관심을 받는 것인데 이를 위한 조언도 정리
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
   * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
   * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
@@ -2786,6 +2790,8 @@ Programming
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
   * [Class Central - 온라인 강의 검색엔진 | GeekNews](https://news.hada.io/topic?id=6153)
+* codecatalog [A collection of code examples from prominent open-source projects - Code Catalog](https://codecatalog.org/)
+  * [Code Catalog - 오픈소스로 코딩 배우기 | GeekNews](https://news.hada.io/topic?id=7094)
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
