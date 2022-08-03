@@ -988,6 +988,12 @@ AWS
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
 * [AWS로 클라우드 시작하기: ⑤IAM & Organizations | 요즘IT](https://yozm.wishket.com/magazine/detail/1511/)
 * [When and where to use IAM permissions boundaries | AWS Security Blog](https://aws.amazon.com/de/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
+* [AWS IAM 역할과 함께 신뢰 정책을 사용하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-use-trust-policies-with-iam-roles-html/)
+  * AWS IAM role에서 권한 관리를 할 때 신뢰 관계(trust relationship)를 설명하는 글
+  * 신뢰 관계의 정책을 이용해서 보안 주체가 해당 역할을 사용하는 조건에 제한 가능
+  * 신뢰 정책도 일반적인 IAM 정책과 비슷하지만, IAM role이 리소스 역할을 하므로 `Resource` 속성은 없고
+    * `Action`에는 `sts:AssumeRole`, `sts:AssumeRoleWithSAML`, `sts:AssumeRoleWithWebIdentity` 사용 가능
+  * `Principal`과 `Condition`을 이용해서 범위를 제어하는 데 시간 기반으로 하거나 IP 주소로 하는 방법 등 설명
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
@@ -1678,6 +1684,7 @@ AWS
 * [Terraform Version Upgrade – DEVOPS DONE RIGHT](https://blog.opstree.com/2022/07/19/terraform-version-upgrade/)
 * [Terraform Cloud | Creating IAM Roles and User in AWS Using Terraform | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/terraform-cloud-creating-iam-roles-and-user-in-aws-using-terraform-cb701add8f81)
 * [Terraform으로 AWS EKS에 Kubernetes 클러스터 프로비저닝 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1608)
+* [Complete Terraform Course for beginners with Hands On Practice and Terraform Commands in 10 minutes - YouTube](https://www.youtube.com/watch?v=80szTnzBs2M)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
