@@ -217,8 +217,11 @@ PyTorch
 * [pytorch-bert - A implementation of BERT using PyTorch https://pypi.org/project/pytorch-bert ](https://github.com/jeongukjae/pytorch-bert)
 
 # Book
+* [새로운 머피책(3권 같은 2권)의 Draft PDF가 공개되었습니다! (+ 2권 같은 1권의 Draft PDF 링크도 있어요!) - 새로운 소식 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/3-2-draft-pdf-2-1-draft-pdf/470)
 * [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
   * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [pml-book: "Probabilistic Machine Learning" - a book series by Kevin Murphy](https://github.com/probml/pml-book)
+* [pml2-book: Probabilistic Machine Learning: Advanced Topics](https://github.com/probml/pml2-book)
 
 # Classification
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
@@ -516,3 +519,4 @@ PyTorch
 * [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 * [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)
 * [M1 iMac 24” 에 pytorch 를 돌려보았다](https://taekangwoo.notion.site/M1-iMac-24-pytorch-2b2998c452c2430e921399b67cae3299)
+* [Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
