@@ -392,6 +392,7 @@ Book
 * (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
 * (NOT YET) [단테 『신곡』 강의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298319176)
   * 탐라
+* (NOT YET) [영화평도 리콜이 되나요?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299022504)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
