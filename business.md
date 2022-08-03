@@ -1741,6 +1741,13 @@ Business
 * [스타트업 4년을 마무리 하며](https://velog.io/@jeonjay/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-4%EB%85%84%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC-%ED%95%98%EB%A9%B0)
 * [본 궤도에 오르는 스타트업이 되기 위한 요건](https://brunch.co.kr/@seunghoon82/164)
 * [프리토타입: 실패의 세계에 오신 걸 환영합니다](https://brunch.co.kr/@cliche-cliche/157) pretotype
+* [The 5 Things That Kill Startups Post Seed Rounds : YC Startup Library | Y Combinator](https://www.ycombinator.com/library/8a-the-5-things-that-kill-startups-post-seed-rounds)
+  * [시드 투자 받은 후 망하는 스타트업의 5가지 특징](https://eopla.net/posts/4831)
+    * 가짜 프로덕트-마켓 핏
+    * 뭘할 지 몰라서 투자자를 보스처럼 모시게 됨
+    * 공동창업자들이 싸우는 경우가 많음
+    * 주변을 카피하면서 평범
+    * 제품이 아주 느리게 개선
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
