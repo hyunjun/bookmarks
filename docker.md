@@ -367,8 +367,16 @@ Docker
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
 * [Docker Without Docker](https://chimeracoder.github.io/docker-without-docker/)
+* [Fly.io wants to change the way companies deploy apps at the edge | TechCrunch](https://techcrunch.com/2022/07/28/fly-io-wants-to-change-the-way-companies-deploy-apps-at-the-edge/)
+  * Fly.io의 CEO인 Kurt Mackey 인터뷰
+  * Kurt Mackey는 엣지 컴퓨팅의 의미를 대부분 이해하지 못하고 있고 CDN은 결함이 있는 접근 방법으로 Fly.io는 더 효율적으로 배포하려고 함
+  * Fly.io는 클라우드를 쓰지 않고 자체 하드웨어를 사용하는데
+    * CDN은 서버는 한곳에 두고 일부 에셋을 CDN에 태우지만
+    * Fly.io는 애플리케이션 자체를 사용자에 가깝게 띄우도록 함
 * [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)
-* [도커 컨테이너 5분 만에 무료로 배포하기(feat. fly.io) | 44BITS](https://www.44bits.io/ko/post/docker-container-deploy-in-5-minitues-with-fly-io)
+* [도커 컨테이너 5분 만에 무료로 배포하기(feat. fly.io) | 44BITS](https://www.44bits.io/ko/post/docker-container-deploy-in-5-minitues-with-fly-io/)
+  * 차세대 Heroku라고 불리는 fly.io의 사용 방법 소개
+  * fly.io에 가입하고 `flyctl`을 이용해서 nginx와 커스텀 이미지를 배포하는 방법, 볼륨을 생성해서 컨테이너에서 사용하는 방법 설명
 * [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
 * [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
@@ -1459,7 +1467,9 @@ Docker
     * [Create and Manage Kubernetes Clusters with Cluster API and ArgoCD](https://piotrminkowski.com/2021/12/03/create-kubernetes-clusters-with-cluster-api-and-argocd/)
     * [How to implement GitOps with ArgoCD to deploy Helm Charts on Kubernetes | Level Up Coding](https://levelup.gitconnected.com/gitops-ci-cd-using-github-actions-and-argocd-on-kubernetes-909d85d37746)
     * [How to Deploy the Application automatically using Argo CD - FoxuTech](https://foxutech.com/how-to-create-the-application-automatically-using-argo-cd/)
-    * [Argo CD에서 App 배포도 GitOps스럽게 하기](https://heumsi.github.io/blog/posts/argocd-apps-deployment/)
+    * [Argo CD에서 App 배포도 GitOps스럽게 하기](https://heumsi.github.io/blog/posts/argocd-apps-deployment)
+      * Argo CD에서 앱을 배포하려고 UI에서 동기화 할때 이는 GitOps의 흐름과는 다른 문제가 있는데 이를 App of Apps와 ApplicationSet으로 해결하는 방법 설
+      * App of Apps는 Argo CD의 Application이 리소스임을 이용한 패턴이고 ApplicationSetdms Argo CD에 새로 추가된 앱 관리를 위한 리소스
     * [Argo CD Projects and Examples - FoxuTech](https://foxutech.com/argo-cd-projects-and-examples/)
     * [ArgoCD Tracking Strategies | ArgoCD Best Practices | GitOps - YouTube](https://www.youtube.com/watch?v=lEhO3caUhM8)
     * [Manage Argo CD Repositories and Applications using Argo CD CLI - FoxuTech](https://foxutech.com/manage-argo-cd-repositories-and-applications-using-argo-cd-cli/)
