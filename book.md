@@ -205,6 +205,12 @@ Book
   * [김현종, 한미 FTA를 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/FTA.md)
   * [김현종, 한미 FTA를 말하다. 1부 22세기 희망 전략 | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-fta%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4-9b19010d0daf)
   * [김현종, 한미 FTA를 말하다](https://jh4hj.tistory.com/entry/%EA%B9%80%ED%98%84%EC%A2%85-%ED%95%9C%EB%AF%B8-FTA%EB%A5%BC-%EB%A7%90%ED%95%98%EB%8B%A4)
+* [임포스터 (Impostor)](https://blog.naver.com/junedec369/222670625109)
+  * 한라 598.5-손298ㅇ, 탐라 문378.9-손239ㅇ, 우당 문378.9-손239ㅇ
+  * ★★★☆☆ 2022.08.01~02
+  * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://github.com/hyunjun/bookmarks/blob/master/books/impostor.md)
+  * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-impostor-c5cebae9a5ae)
+  * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-IMPOSTOR)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -245,8 +251,6 @@ Book
 * (NOT YET) [브런치북 퇴직 후 그림책을 봅니다](https://brunch.co.kr/brunchbook/wjhee20)
 * (NOT YET) [소련 독재와 전체주의 비판, 2022년에는 어떤 의미로 다가올까? 조지 오웰의 1984 - YouTube](https://www.youtube.com/watch?v=d5xv67iJ1Mg)
 * (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
-* (NOT YET) [임포스터 (Imposter)](https://blog.naver.com/junedec369/222670625109)
-  * 한라 598.5-손298ㅇ, 탐라 문378.9-손239ㅇ, 우당 문378.9-손239ㅇ
 * (NOT YET) [소년은 어떻게 사라지는가](https://blog.naver.com/nextdoor72/221650443129)
   * 서부, 한경
 * (NOT YET) 아파트 민주주의 [슬기로운 아파트회장 분투기, (아파트민주주의) 저자 남기업 | YTN](https://www.ytn.co.kr/_ln/0102_202007071647381486)
