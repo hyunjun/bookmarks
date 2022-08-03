@@ -2781,6 +2781,7 @@ Programming
 * [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/videos)
 * [컴퓨터 개념 및 실습 서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
+* [5 Best Web API Design and Development Courses for Beginners in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-web-api-design-and-development-courses-for-beginners-fb1c8dd83379)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
   * [Class Central - 온라인 강의 검색엔진 | GeekNews](https://news.hada.io/topic?id=6153)
