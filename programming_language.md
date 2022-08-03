@@ -203,6 +203,7 @@ Programming Language
   * [러스트 경쟁자 등장…구글, C++ 대체언어 '카본' 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20220721165257)
   * [Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어 | GeekNews](https://news.hada.io/topic?id=7027)
   * [Google’s New Programming Language is Called Carbon | by Aniket | Geek Culture | Jul, 2022 | Medium](https://medium.com/geekculture/googles-new-programming-language-is-called-carbon-43b2b859ff63)
+  * ["C++의 기술적 부채 털자" 구글, 개발언어 '카본' 공개 - ITWorld Korea](https://www.itworld.co.kr/news/247654)
 * [Ceylon](http://ceylon-lang.org/)
   * [Programming with type functions in Ceylon](http://ceylon-lang.org/blog/2015/06/03/generic-function-refs/)
   * [A little more about type functions](http://ceylon-lang.org/blog/2015/06/12/more-type-functions/)
