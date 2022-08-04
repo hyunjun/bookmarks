@@ -63,6 +63,7 @@ Nomad & Remote
 * ['디지털 노마드' 삶에 대해 아무도 말하지 않는 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/240644)
 * [재택근무에 대한 법적 권리 인정](https://www.traw.io/blog/recognition-of-your-legal-right-to-work-from-home)
 * [워크라이프: 해외 노동자들을 유혹하는 디지털 노마드 비자 - BBC News 코리아](https://www.bbc.com/korean/international-62062093)
+* [외국 한달 살기 하기 좋은 도시 & 한달 비용 총정리 8 | 지큐 코리아 (GQ Korea)](https://www.gqkorea.co.kr/2018/05/24/%EC%99%B8%EA%B5%AD%EC%97%90%EC%84%9C-%ED%95%9C%EB%8B%AC-%EC%82%B4%EC%95%84%EB%B3%BC%EA%B9%8C/)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
