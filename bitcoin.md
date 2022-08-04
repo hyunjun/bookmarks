@@ -307,6 +307,7 @@ Bitcoin
 * [프리민트(free-to-mint)에 대하여](https://ansubin.com/free-to-mint/)
 * [Weekly AINFT Stradivarius 0편 - AI Showcase - AI Network Community Forum](https://forum2.ainetwork.ai/t/weekly-ainft-stradivarius-0/289)
 * [Weekly AINFT Stradivarius 1편 - NeRF - AI Showcase - AI Network Community Forum](https://forum2.ainetwork.ai/t/weekly-ainft-stradivarius-1-nerf/293)
+* [Soulbound Token 이해하기 : ① POAP](https://ansubin.com/understanding-soulboundtoken-poap/)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
@@ -359,6 +360,7 @@ Bitcoin
 * [The Web3 World | Canvas Ventures](https://www.canvas.vc/blog/the-web3-world)
   * [The Web3 World](https://gist.github.com/hyunjun/0c65243188f18882ceeaf266eb3f4334#file-the_web3_world-md)
 * [Web 2.5](https://www.thestartupbible.com/2022/06/web-2-5.html) `Web 1.0은 read, Web 2.0은 read and write, 그리고 Web 3.0은 read, write and own`
+* [탈중앙화 vs. 중앙화](https://www.thestartupbible.com/2022/08/decentralization-vs-centralization.html)
 * [Ontology’s Web3 Reputation and Identity Management Solutions – The New Stack](https://thenewstack.io/ontologys-web3-reputation-and-identity-management-solutions/)
 * [The Pivot to Web3 Is Going to Get People Hurt](https://www.vice.com/en/article/jgmyzk/the-pivot-to-web3-is-going-to-get-people-hurt)
 * [Web3라는 집단 광기에 여러 사람이 다칠 것이다 – 박세희 Park Sehee](https://parksehee.blog/2022/06/06/web3-hysteria/)
