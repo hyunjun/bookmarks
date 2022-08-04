@@ -273,3 +273,4 @@ Flutter
 * [5분만에 배워보는 Flutter 앱개발 - YouTube](https://www.youtube.com/watch?v=ZWLoYecgzTU)
 * ["안드로이드부터 윈도우, iOS까지" 구글이 만든 멀티플랫폼 개발 툴 '플러터' - ITWorld Korea](https://www.itworld.co.kr/news/243294)
 * [flutter-learn: Flutter와 Firebase를 사용하여 단일 Dart 코드베이스로 Android, iOS, 웹에서 커뮤니티 앱을 빌드합니다](https://github.com/ska2519/flutter-learn)
+* [Flutter 3.0 Master Class for Beginners to Advanced 2022 | Ticket Booking App Development Tutorial - YouTube](https://www.youtube.com/watch?v=71AsYo2q_0Y)
