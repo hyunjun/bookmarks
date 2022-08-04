@@ -1070,6 +1070,7 @@ Web
   * [파이썬 FastAPI 학습 - YouTube](https://www.youtube.com/playlist?list=PLr_ki3_GfpZMTSdQehJRrIwuDGOHh5LvB)
   * [FullStack FastAPI Redis - YouTube](https://www.youtube.com/playlist?list=PLU7aW4OZeUzxUqnmhOT6P2Wnka1EvojVF)
   * [Backend Dev With FastAPI - YouTube](https://www.youtube.com/playlist?list=PLU7aW4OZeUzxL1wZVOS31LfbB1VNL3MeX)
+  * [Full-stack Development with FastAPI, Redis And Next.js Full Course For Absolute beginners P-2 - YouTube](https://www.youtube.com/watch?v=hUpWZrLsSik)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
