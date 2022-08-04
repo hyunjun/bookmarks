@@ -162,6 +162,7 @@ Monitoring
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)
 * [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
+* [오픈소스를 이용한 다중 k8s 클러스터 환경의 모니터링 시스템 구축 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-4666c21788c7)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [The Future of Observability with OpenTelemetry](https://go.lightstep.com/rs/260-KGM-472/images/oreilly-opentelemetry-lightstep.pdf)
   * [Observability Powered by SQL: Understand Your Systems Like Never Before With OpenTelemetry Traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
