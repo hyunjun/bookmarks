@@ -3725,6 +3725,7 @@ Javascript
     * 정적 파일 배포, 증분 재생성, 엣지 펑션, 이미지 자동 최적화, 서버리스 함수, 엣지 캐시 등의 장점 이용 가능
   * 데모 코드도 제공하고 있고 쇼핑몰 같은 페이지를 만드는 데 각 장점을 이용하기 위해 구현한 접근 방법을 설명
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
+* [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
