@@ -395,6 +395,7 @@ Programming Books
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
+* (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
 
 # Amazon AWS
 
