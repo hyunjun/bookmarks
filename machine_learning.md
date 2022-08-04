@@ -1752,5 +1752,6 @@ Machine Learning
 * [40+ Modern Tutorials Covering All Aspects of Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning)
 * [머신러닝야학](https://ml.yah.ac/)
 * [How to Learn Machine Learning Online Free in 2021?- Free Resources](https://www.mltut.com/how-to-learn-machine-learning-online-free/)
-* [문제해결 관점으로 머신러닝 이해하기 - YouTube](https://www.youtube.com/watch?v=FDIWkzwxZHU)
+* [문제해결 관점으로 머신러닝 이해하기 - YouTube](https://www.youtube.com/watch?v=FDIWkzwxZHU)
   * [유클리드소프트, '인공지능팩토리'와 '언택트 콘퍼런스' 대전러닝데이-DLD 개최](https://blog.naver.com/euclidsoft/222100209222)
+* [독학으로 머신러닝 개발자로 입문하기 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Y5XOpgE-O_0)
