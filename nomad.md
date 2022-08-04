@@ -255,6 +255,7 @@ Nomad & Remote
 * [The Remote Work Report by GitLab: The Future of Work is Remote | GitLab](https://about.gitlab.com/remote-work-report/)
   * [원격 근무 리포트 2021 51p PDF | GeekNews](https://news.hada.io/topic?id=4202)
 * [“가족과 함께하는 워케이션, 이게 일할 맛!, 여행, 고객의 365일을 점유할 수 있어” | 경영일반 | DBR](https://dbr.donga.com/article/view/1206/article_no/10534/ac/magazine)
+* [“하이브리드 아닌 완전 원격 선택한 이유는...” 드롭박스의 ‘버추얼 퍼스트’ 전환기 - CIO Korea](https://www.ciokorea.com/news/247096)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [nagaja.net](http://www.nagaja.net)
