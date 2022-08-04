@@ -1099,6 +1099,8 @@ Web
   * [FastWSGI : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222599564643)
 * [HTTPX](https://www.python-httpx.org/)
   * [How to use httpx, a web client for Python | Opensource.com](https://opensource.com/article/22/3/python-httpx)
+  * [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-httpx-and-asyncio)
+  * [HTTPX Tutorial - A next-generation HTTP client for Python - YouTube](https://www.youtube.com/watch?v=qAh5dDODJ5k)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * mod_wsgi
