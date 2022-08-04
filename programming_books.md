@@ -247,6 +247,7 @@ Programming Books
   * 탐라 문004.099-구45ㅈ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
+* (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
 
 # Agile Scrum
 
