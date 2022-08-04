@@ -3000,6 +3000,7 @@ Programming
 * [A Data Mesh Of Streams – Ben Stopford, Confluent - YouTube](https://www.youtube.com/watch?v=1SV0eEY9qv8)
 * [Data Mesh in Practice: How to set up a data driven organization - Max Schultze, Zalando - YouTube](https://www.youtube.com/watch?v=rqYFqtztWi4)
 * [Lessons from the trenches in Data Mesh – Zhamak Dehghani and Sina Jahan - YouTube](https://www.youtube.com/watch?v=Nw_bxIyR1L0)
+* [Data Mesh — A Data Movement and Processing Platform @ Netflix | by Netflix Technology Blog | Aug, 2022 | Netflix TechBlog](https://netflixtechblog.com/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
