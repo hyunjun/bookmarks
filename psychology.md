@@ -60,3 +60,4 @@ Psychology
 * [모교 강단 선 허준이 교수 "근거 없는 자신감이 중요" | 연합뉴스](https://www.yna.co.kr/view/AKR20220727167600004)
 * [자신감 넘치는 사람들이 갈등을 해결하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/this-is-how-assertive-people-resolve-conflicts/)
 * [긍정적으로 짜증을 해결하는 방법: 5가지 핵심 팁 - Wonderful Mind](https://wonderfulmind.co.kr/managing-frustration-positively-5-essential-tips/)
+* [관계에서 긍정적으로 문제를 제기하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/positively-bring-issue-relationship/)
