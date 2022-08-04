@@ -954,6 +954,7 @@ Docker
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
+* [Cloud Native Days Korea 2019 - kakao's k8s_as_a_service](https://www.slideshare.net/DennisHong18/cloud-native-days-korea-2019-kakaos-k8sasaservice)
 * Kubernetes
   * [#1 - 소개](http://bcho.tistory.com/1255)
   * [#2 - 개념 이해 (1/2)](http://bcho.tistory.com/1256)
