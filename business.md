@@ -253,6 +253,7 @@ Business
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
+* [프로젝트의 방해꾼, 조급함](https://brunch.co.kr/@drunkensky/328)
 * [팀원들의 시간을 뺏는 '가짜 일' : 네이버 블로그](https://blog.naver.com/collabee/222377281888)
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
 * [사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북](https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310)
