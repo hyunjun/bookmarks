@@ -504,6 +504,7 @@ Vision
     * [AYolov2](https://github.com/j-marple-dev/AYolov2)
     * [YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5/)
     * [yolov5-knowledge-distillation: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/wonbeomjang/yolov5-knowledge-distillation)
+  * v7 [Training YOLOv7 on Custom Data - Colaboratory](https://colab.research.google.com/gist/hyunjun/21ca4aa61727173cf5e55435a7448afa/training-yolov7-on-custom-data.ipynb)
   * yolox
     * [202107 CVPR YOLOX Paper review!! - YouTube](https://www.youtube.com/watch?v=N2rLSzEqqI8)
     * [Deploying Custom YOLOX on the Cloud and Building a Visual Search Engine off the Deployed Model - YouTube](https://www.youtube.com/playlist?list=PL2L83ZcMO-5PZN8Ixp5y4wi6atPwbreVl)
