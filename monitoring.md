@@ -40,6 +40,7 @@ Monitoring
 * [Elastic 초간단 모니터링 시스템 만들기](https://jjeong.tistory.com/1568)
 * [Why the Future of Monitoring Is Agentless](https://www.infoq.com/articles/future-monitoring-agentless/)
 * [Understand Your System Like Never Before With OpenTelemetry, Grafana, Promscale - YouTube](https://www.youtube.com/watch?v=0LuLRjIP-Oc)
+* [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More - YouTube](https://www.youtube.com/watch?v=jx5hdo50a2M)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
