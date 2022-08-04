@@ -19,6 +19,8 @@ Baby
 * [재수 실패해 좌절한 친아들에게 오은영 박사님이 해준 ‘한마디’, 전국의 자녀들을 울렸다 | NTD Korea](https://www.ntdtv.kr/uplifting/%EB%9D%BC%EC%9D%B4%ED%94%84/%EC%9E%AC%EC%88%98-%EC%8B%A4%ED%8C%A8%ED%95%B4-%EC%A2%8C%EC%A0%88%ED%95%9C-%EC%B9%9C%EC%95%84%EB%93%A4%EC%97%90%EA%B2%8C-%EC%98%A4%EC%9D%80%EC%98%81-%EB%B0%95%EC%82%AC%EB%8B%98%EC%9D%B4-%ED%95%B4.htm)
 * [노키즈존/키즈존 지도](http://yesnokids.net/)
   * [‘노키즈’ 하니 ‘힙’하고 편한가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47424)
+* [RAJ CHETTY의 FACEBOOK 데이터를 활용한 논문 분석 글 1 - 소개](https://www.facebook.com/hyeunseung82/posts/pfbid08t2z9PNNt7XpHUL7vzwZXPDe8FwtfqrmujPVWEXjVvaqxbCBvT5b9NC8rKuvsDAul) ECONOMIC CONNECTEDNESS
+  * [Vast New Study Shows a Key to Reducing Poverty: More Friendships Between Rich and Poor - The New York Times](https://www.nytimes.com/interactive/2022/08/01/upshot/rich-poor-friendships.html)
 
 # 육아휴직
 * [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
