@@ -1394,6 +1394,7 @@ Clojure
 * [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 * [클로져 소개 강의 (한국정보통신산업노동조합)](https://www.slideshare.net/SangKyuPark1/ss-18350615)
 * [clj-easy/about](https://github.com/clj-easy/about)
+* [clojure-quick-intro/core.clj at master · hatemogi/clojure-quick-intro](https://github.com/hatemogi/clojure-quick-intro/blob/master/src/intro/core.clj)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
