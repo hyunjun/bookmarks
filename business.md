@@ -1307,6 +1307,8 @@ Business
 * [가장 중요한 리더의 조건…자신을 정확히 파악하라 │ 매거진한경](https://magazine.hankyung.com/business/article/202102035722b)
 * [똑똑한 상사는 왜 멍청한 소리를 할까](https://contents.premium.naver.com/saramin/waytowork/contents/220801094745312pe) 피터의 법칙, 승자의 아집, 자기애/나르시스트, (경쟁으로 인한) 우려
 * [리더십 상대를 파악하는 3가지 질문](http://moneyman.kr/archives/1964)
+* [김성회의 리더의 언어 실어증에 걸린 조직.. 상사가 무서워서가 아니라 우스워서 입 닫는다](https://news.v.daum.net/v/20171107070018521)
+* [안타깝지만… 우리 주변에 좋은 리더는 거의 없다 – 체인지그라운드](http://thechangeground.com/archives/23108)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
