@@ -786,6 +786,7 @@ Javascript
 * [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
 * [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
 * [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
+* [합성 컴포넌트로 재사용성 극대화하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220731-composition-component/) atomic design pattern
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
 * [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
