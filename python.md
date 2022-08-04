@@ -4852,6 +4852,8 @@ Python
 * [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2)
 * [Envelope for Least Square Filtering and Smoothing | Pega Devlog](https://jehyunlee.github.io/2020/07/14/Python-DS-20-envelope/)
 * [Scipy Lecture Notes — Scipy lecture notes](http://scipy-lectures.org/index.html)
+* [SciPy Conference 2022, Austin -- Scientific Computing with Python](https://www.scipy2022.scipy.org/)
+  * [Enthought - YouTube](https://www.youtube.com/c/enthought/playlists)
 
 # Slack
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
