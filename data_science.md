@@ -161,6 +161,7 @@ Data Science
 * [Data Warehouse vs. Data Mart vs. Data Lake | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-mart-vs-data-lake-a335f328e6a8)
 * [기획특집 ‘창고’와 ‘호수’를 넘어서는 데이터 레이크하우스](http://www.itdaily.kr/news/articleViewAmp.html?idxno=208876) lakehouse
 * [‘일관성·유연성’ 덕에 각광… 데이터 레이크하우스 활용 사례 - CIO Korea](https://www.ciokorea.com/news/244060)
+* [What is a Data Fabric?. How to realize modern Data Management | by Christianlauer | Aug, 2022 | Medium](https://christianlauer90.medium.com/what-is-a-data-fabric-c825ce8da0a1)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
