@@ -1305,6 +1305,7 @@ Business
 * ['이상한 변호사 우영우'로 본 리더가 가져야 할 자질](https://brunch.co.kr/@lovelylucia/74)
 * [가장 중요한 리더의 조건…자신을 정확히 파악하라 │ 매거진한경](https://magazine.hankyung.com/business/article/202102035722b)
 * [똑똑한 상사는 왜 멍청한 소리를 할까](https://contents.premium.naver.com/saramin/waytowork/contents/220801094745312pe) 피터의 법칙, 승자의 아집, 자기애/나르시스트, (경쟁으로 인한) 우려
+* [리더십 상대를 파악하는 3가지 질문](http://moneyman.kr/archives/1964)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
