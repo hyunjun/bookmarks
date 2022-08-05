@@ -2474,6 +2474,7 @@ Programming Books
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
+* (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
