@@ -142,6 +142,7 @@ Business
 * [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
 * [수평적 문화가 안되는 조직들의 사례와 해결책 | ㅍㅍㅅㅅ](https://ppss.kr/archives/212904)
 * [수평 조직, 업무 효율도 높을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20220621)
+* [밸브 인터뷰 ③ 수직구조 없는 회사 밸브, "우리의 상사는 고객"](https://www.thisisgame.com/webzine/special/nboard/5/?n=154907)
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
