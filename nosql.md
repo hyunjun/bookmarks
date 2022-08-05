@@ -275,6 +275,7 @@ NoSQL
   * [React with firebase 9 - Blog app - YouTube](https://www.youtube.com/playlist?list=PLNOLT1mOxGfpVTko9GqsjYduhd9cCJ6zT)
   * [Host React App on Firebase - YouTube](https://www.youtube.com/watch?v=syvLw6Z50qo)
   * [What is Firebase? | ReactJS with Firebase Tutorial Hindi | Firebase React Tutorial Series - YouTube](https://www.youtube.com/watch?v=qBBWo1R5OC4)
+  * [SMS 인증 쉽게 하기 - 이상선 - Medium](https://medium.com/@sunyi233/sms-%EC%9D%B8%EC%A6%9D-%EC%89%BD%EA%B2%8C-%ED%95%98%EA%B8%B0-fe7f31d5c08e)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
