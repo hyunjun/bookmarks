@@ -2762,6 +2762,7 @@ Javascript
 * [bookshelf.js - Bookshelf is a JavaScript ORM for Node.js](https://github.com/tgriesser/bookshelf)
 * Bree [The best job scheduler for Node.js - Bree](https://jobscheduler.net/#/)
 * [Bun - a fast all-in-one JavaScript runtime](https://bun.sh/)
+  * [Node.js is Dead. — Long Live Bun. | by Yannis Burghardt | Jul, 2022 | Medium](https://medium.com/@YNNSme/node-js-is-dead-long-live-bun-3d888eab63d7)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
 * [Calipers: The Fastest Way to Measure Image Dimensions in Node](https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/)
 * [caniuse-cmd - Just what you've always wanted, it's a caniuse command line tool](https://github.com/sgentle/caniuse-cmd)
@@ -3727,6 +3728,7 @@ Javascript
   * 데모 코드도 제공하고 있고 쇼핑몰 같은 페이지를 만드는 데 각 장점을 이용하기 위해 구현한 접근 방법을 설명
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
+* [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
