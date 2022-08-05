@@ -1677,6 +1677,7 @@ NLP
 * [분석 DeepTitle : 한국어 기사 자동 요약](https://www.slideshare.net/BOAZbigdata/deeptitle)
 * [Natural Language Processing: A Road Map leading to Extractive Summarization | LinkedIn](https://www.linkedin.com/pulse/natural-language-processing-road-map-leading-extractive-summarization-/)
 * [NLP 맛보기(Text Summarization Series) — 추출 요약1 편 | by 박은지 | Modulabs Tech Blog | Mar, 2022 | Medium](https://medium.com/modulabs/nlp-%EB%A7%9B%EB%B3%B4%EA%B8%B0-text-summarization-series-%EC%B6%94%EC%B6%9C-%EC%9A%94%EC%95%BD1-%ED%8E%B8-7122f35b0300)
+* [naver-news-summarization-ko · Datasets at Hugging Face](https://huggingface.co/datasets/daekeun-ml/naver-news-summarization-ko)
 * [summarizers: Package for controllable summarization](https://github.com/hyunwoongko/summarizers)
 * [text-summarization](https://github.com/Jay-Ppark/text-summarization)
 * [Text-Summarization-Repo: 텍스트 요약 관련 paper 및 관련 추천자료, data에 대한 정보를 축적해나가는 저장소입니다](https://github.com/uoneway/Text-Summarization-Repo)
