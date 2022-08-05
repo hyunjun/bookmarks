@@ -222,6 +222,7 @@ Bitcoin
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
+* [SMARTIAN: 데이터 흐름 분석을 활용한 스마트 컨트랙트 퍼징](https://engineering.linecorp.com/ko/blog/smartian-smart-contract-fuzzing-with-data-flow-analyses)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
   * [Ethereum ditching Solidity for Vyper?(이더리움은 바이퍼 때문에 솔리디티를 버렸나?)](https://medium.com/@elastic7327/ethereum-ditching-solidity-for-vyper-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EB%B0%94%EC%9D%B4%ED%8D%BC-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%EB%A5%BC-%EB%B2%84%EB%A0%B8%EB%82%98-a47434e02d56)
