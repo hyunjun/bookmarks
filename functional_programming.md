@@ -410,6 +410,7 @@ Functional Programming
 * [Scala code examples for Functional Programming Jargon](https://github.com/ikhoon/functional-programming-jargon.scala)
 * [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
 * [진짜 함수형 초보자들을 위한 트레이닝(1) in Scala](http://hamait.tistory.com/900)
+* [Functional Programming Crash Course for Scala Beginners - YouTube](https://www.youtube.com/watch?v=XXkYBncbz0c)
 * [**DDD(domain driven design) 관점에서 객체지향 vs 함수형 코드 비교**](http://hamait.tistory.com/902)
 * [Domain-Driven Design with FP in Scala | Medium](https://bszwej.medium.com/domain-driven-design-with-fp-in-scala-21b557f94aa5)
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
