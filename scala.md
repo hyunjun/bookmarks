@@ -352,6 +352,7 @@ Scala
 * [Concurrent Sudoku Solver: Part 3 - Using Cats Effect Queue | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-3-using-cats-effect-queue-459e2da28b6)
 * [Concurrent Sudoku Solver: Part 4 - Using FS2 Stream + Topic | by Farooq Qaiser | Jun, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-4-using-fs2-stream-topic-949c8b099abb)
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
+* [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1172,6 +1173,8 @@ Scala
 * [akka in actoin - livebook.manning.com/book/akka-in-action](https://livebook.manning.com/book/akka-in-action/)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
+* [EffectOrientedProgramming/book: Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2](https://github.com/EffectOrientedProgramming/book)
+  * [Happy Path Programming: #63 ZIO 2 dot Ohhhhh! with Bill Frasure on Apple Podcasts](https://podcasts.apple.com/us/podcast/63-zio-2-dot-ohhhhh-with-bill-frasure/id1531666706?i=1000568491863)
 * [Essential Effects: a book for learning effectful programming in Scala](https://essentialeffects.dev/) cats effect
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
