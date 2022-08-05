@@ -357,6 +357,7 @@ Go
   * [Golang tips: why pointers to slices are useful and how ignoring them can lead to tricky bugs](https://medium.com/swlh/golang-tips-why-pointers-to-slices-are-useful-and-how-ignoring-them-can-lead-to-tricky-bugs-cac90f72e77b)
   * [Bad Go: slices of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
   * [Array Manipulation in Go: Insert | Amit Biswas](https://amitbiswas.me/posts/array-manipulation-in-go-insert/)
+  * [How to get Min/Max value from slice for int and float with Golang? - CodeTips - Helping Developers](https://codetips.dev/min-max-value-from-slice-golang/)
 * [database/sql](https://golang.org/pkg/database/sql/)
   * [Golang database/sql 패키지 삽질기 - 1편 매개변수 표시자](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-1%ED%8E%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%91%9C%EC%8B%9C%EC%9E%90/)
   * [Golang database/sql 패키지 삽질기 - 2편 SQLite 메모리 데이터베이스](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-2%ED%8E%B8-sqlite-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)
