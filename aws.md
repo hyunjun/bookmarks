@@ -145,6 +145,7 @@ AWS
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [Backend 개발자의 임무는 API를 만드는 것과 운영 인프라를 만드는 것이라고 볼 수 있습니다. | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/backend-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%84%EB%AC%B4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%9A%B4%EC%98%81-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-561ec2aeb89e) cloud9
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
+* [Best Courses for AWS Advanced Networking Specialty Certification Exam | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-courses-for-aws-advanced-networking-specialty-certification-exam-15a282130b21)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
