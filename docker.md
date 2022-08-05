@@ -1429,6 +1429,7 @@ Docker
 * [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
 * [쿠버네티스 애플리케이션에서 Bus Error (Core Dumped) 대처법 정리 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-bus-error-core-dumped-%EB%8C%80%EC%B2%98%EB%B2%95-%EC%A0%95%EB%A6%AC-55580e14e003)
 * [쿠버네티스 에러 정리 : Pod에 GPU 할당 과정에서 발생한 UnexpectedAdmissionError 해결하기 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%97%90%EB%9F%AC-%EC%A0%95%EB%A6%AC-pod%EC%97%90-gpu-%ED%95%A0%EB%8B%B9-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-unexpectedadmissionerror-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-23faddea7d6c)
+* [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1573,6 +1574,7 @@ Docker
   * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
   * [How to Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6 | by KC | Apr, 2022 | Medium](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
   * [Kubernetes Event-driven Autoscaling | by Moti Malka | Jun, 2022 | Medium](https://medium.com/@moti.malka25/kubernetes-event-driven-autoscaling-d8a6dc5c18a8)
+  * [이벤트 베이스 쿠버네티스 오토스케일링 KEDA](https://bcho.tistory.com/1390)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
