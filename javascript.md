@@ -3157,6 +3157,7 @@ Javascript
 * [Learn the React useEffect Hook - YouTube](https://www.youtube.com/watch?v=kH3_g_Njeb0)
 * [React useEffect (included api 호출) 가 있는 컴포넌트 분리 방법](https://yoonjong-park.tistory.com/entry/React-useEffect-included-api-%ED%98%B8%EC%B6%9C-%EA%B0%80-%EC%9E%88%EB%8A%94-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 * [Why Does useEffect run Two Times ? | useEffect | React 18 - YouTube](https://www.youtube.com/watch?v=Vw0BJ3XB3dM)
+* [React useEffect / clean-up 함수 알아보기](https://velog.io/@kkyu0718/React-useEffect-clean-up-%ED%95%A8%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 * [React, Firebase를 이용한 다이어리 사이트를 만들어보며...](https://hamsoter.tistory.com/5) useEffect
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
