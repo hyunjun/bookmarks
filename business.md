@@ -153,6 +153,7 @@ Business
 * [중간 관리자의 역할 - 취합만 하고 마구 간섭하는 자리가 아니다](https://brunch.co.kr/@lunarshore/297)
 * [구글이 제시한 '관리자의 자격' - ZDNet korea](https://zdnet.co.kr/view/?no=20170227091914)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
+* [전략 창업해서 망하는 4가지 이유](http://moneyman.kr/archives/3049)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [회사의 성장을 나의 성장으로 착각하는 이들에게](https://brunch.co.kr/@539insight/104)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
@@ -1419,7 +1420,6 @@ Business
 * [OKR에 성공하려면 팀원들의 마음을 얻어야 한다! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33123511&memberNo=38695667) CFR Conversation Feedback Recognition
 * [DBR/Management Solution ‘스스로 목표 설정’ OKR, 구글 키운 핵심 비결](https://www.donga.com/news/Economy/article/all/20220301/112103470/1)
 * [강남언니가 3년째 OKR로 일하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1439/)
-* [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 
 # Patent
 * 세기의 특허전쟁
