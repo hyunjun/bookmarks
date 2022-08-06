@@ -921,6 +921,7 @@ AWS
 * [소개 :: Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/introduction/)
 * [How an Elastic Kubernetes Service Can Help You Manage Your Containers? | by Learnlogik | Jun, 2022 | Medium](https://learnlogik.medium.com/how-an-elastic-kubernetes-service-can-help-you-manage-your-containers-3fd93e355967)
 * [GuideDoc Deploy EKS thru eksctl - v1.22 v0.105.0.pdf](https://www.slideshare.net/JoHoon1/guidedoc-deploy-eks-thru-eksctl-v122v01050pdf)
+* [AWS EKS에서 Kubernetes 클러스터에 사용자 추가하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1612)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
