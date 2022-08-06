@@ -87,6 +87,7 @@ Elixir
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
 * [The Little Elixir & OTP Guidebook / Benjamin Tan Wei Hao](http://ohyecloudy.com/pnotes/archives/book-the-little-elixir-otp-guidebook/)
 * [#book Designing Elixir Systems with OTP(2019) 독후감](http://ohyecloudy.com/pnotes/archives/book-designing-elixir-systems-with-otp-2019/)
+* [#book Testing Elixir(2021) 독후감](http://ohyecloudy.com/pnotes/archives/book-testing-elixir-2021/)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)

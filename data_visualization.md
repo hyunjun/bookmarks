@@ -478,6 +478,7 @@ Data Visualization
 * [Matplotlib — Making data visualization interesting](https://towardsdatascience.com/matplotlib-making-data-visualization-interesting-8bac1eb3d25c)
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
+* [Matplotlib Animation | Pega Devlog](https://jehyunlee.github.io/2022/08/05/Python-DS-110-anim/)
 * [korean_font_on_matplotlib.ipynb](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
 * [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
 * [Matplotlib Colormap (1)](https://jehyunlee.github.io/2020/03/01/Python-DS-4-matplotlib_colormap/)
