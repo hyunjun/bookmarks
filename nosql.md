@@ -544,6 +544,7 @@ NoSQL
 * [ScyllaDB: world's fastest NoSQL column store database Fully compatible with Apache Cassandra at 10x the throughput and jaw dropping low latency](http://www.scylladb.com/)
 * [Supporting 4 Million transactions per second and 7 TB of data per node with Scylla on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/scylla-on-oracle-cloud-infrastructure)
 * [Scylla Summit 2017: Running a Soft Real-time Service at One Million QPS](https://youtu.be/HhGvA75F1xM)
+* [Benchmarking Apache Cassandra (40 Nodes) vs. ScyllaDB (4 Nodes) – The New Stack](https://thenewstack.io/benchmarking-apache-cassandra-40-nodes-vs-scylladb-4-nodes/)
 
 # Supabase
 * [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
