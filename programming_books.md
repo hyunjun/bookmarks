@@ -142,6 +142,9 @@ Programming Books
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://github.com/hyunjun/bookmarks/blob/master/programming_books/forge_your_future.md)
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source - Jun - Medium](https://nymets.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-forge-your-future-with-open-source-9dd017e0f7b6)
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://jh4hj.tistory.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-Forge-Your-Future-with-Open-Source)
+* [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
+  * 탐라 문004.099-구45ㅈ
+  * ★★★★☆ 2022.08.03~05
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -243,8 +246,6 @@ Programming Books
   * 한라 004-이75ㅇ
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
-* (NOT YET) [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
-  * 탐라 문004.099-구45ㅈ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
 * (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
@@ -549,6 +550,9 @@ Programming Books
   * [bootstrapping-microservices](https://github.com/bootstrapping-microservices)
   * [AcornPublishing/bootstrapping-ms: 도커, 쿠버네티스, 테라폼으로 구현하는 마이크로서비스](https://github.com/AcornPublishing/bootstrapping-ms)
   * [Code Capers](https://www.the-data-wrangler.com/)
+* [적정 소프트웨어 아키텍처](https://www.hanbit.co.kr/store/books/look.php?p_code=B6059097161)
+  * 우당 문005.1-페63ㅈ
+  * ★★★★☆ ~2022.08.06
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
   * 한라 005.12-브296ㅁ
   * [microservices-in-action: Examples and code for Microservices In Action](https://github.com/morganjbruce/microservices-in-action)
@@ -590,8 +594,6 @@ Programming Books
   * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
-* (NOT YET) [적정 소프트웨어 아키텍처](https://www.hanbit.co.kr/store/books/look.php?p_code=B6059097161)
-  * 우당 문005.1-페63ㅈ
 
 # C
 
@@ -2648,12 +2650,13 @@ Programming Books
   * [심플 소프트웨어 Understanding Software](https://github.com/hyunjun/bookmarks/blob/master/programming_books/simple_software.md)
   * [심플 소프트웨어 Understanding Software. Understanding Software | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%8B%AC%ED%94%8C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-understanding-software-c7aa6a9e9d0c)
   * [심플 소프트웨어 Understanding Software](https://jh4hj.tistory.com/entry/%EC%8B%AC%ED%94%8C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-Understanding-Software)
-* (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
-  * 한라 005.12-김68ㅅ
-* (NOT YET) [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
+* [리팩터링 2판 - 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1586)
   * 탐라 문005.115-파67ㄹ, 우당 문005.115-파67ㄹ
+  * ★★★★☆ ~2022.08.06
   * [Refactoring: 『리팩터링, 2판』(한빛미디어, 2020)](https://github.com/wegraLee/Refactoring)
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
+* (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
+  * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
