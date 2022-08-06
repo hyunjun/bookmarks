@@ -22,6 +22,7 @@ Machine Learning
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [How to Get Hired as a Machine Learning Engineer](https://www.infoq.com/articles/get-hired-machine-learning-engineer/)
 * [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
+* [ML엔지니어가 데이터 엔지니어링으로 커리어를 시작하면 좋은 이유 - YouTube](https://www.youtube.com/watch?v=qfRjd5xeXn0) data engineering
 * Machine Learning is Fun!
   * [The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   * [Part 2 Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
