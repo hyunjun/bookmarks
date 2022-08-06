@@ -985,6 +985,7 @@ SQL
     * 요즘 추세대로 하나의 바이너리로 모든 걸 할 수 있어서 서버 설치, 데이터베이스 관리, 마이그레이션 모두 가능
     * 1년 전부터 사용하기 시작했는데 지금은 회사의 프로젝트도 EdgeDB로 바꾸고 있고 대부분의 경우 "It just works"를 경험, 다양한 기능을 소개
     * [EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야" | GeekNews](https://news.hada.io/topic?id=7052)
+  * [All You Need to Know about EdgeDB | AppSignal Blog](https://blog.appsignal.com/2022/08/02/all-you-need-to-know-about-edgedb.html)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
