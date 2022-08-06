@@ -748,6 +748,14 @@ Book
   * 한라 104-박95ㄱ 탐라 문001.3-박95ㄱ 우당 문001.3-박95ㄱ
   * ★★☆☆☆ 2022.07.09
 
+# Politics
+* (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
+  * 한라 322.8-케68ㅂ-805 우당 문321.89-삭58ㅂ
+* (NOT YET) 프로테스탄트 윤리와 자본주의 정신 [religiousstudy_v22_111.pdf](https://s-space.snu.ac.kr/bitstream/10371/5154/3/religiousstudy_v22_111.pdf)
+  * 한라 320-베44ㅍ 320.904-노34ㅍ 탐라 320.904-노34ㅍ 우당 문108-청55ㅍ-16 문320-베43ㅍ
+* (NOT YET) [국가는 왜 실패하는가 국가간 격차가 존재하는 진짜 이유는? - YouTube](https://www.youtube.com/watch?v=jHTPbrdPwS0)
+  * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
+
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
 * [만들어진 신](https://jh4hj.tistory.com/entry/%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84-%EC%8B%A0) 리차드 도킨스
