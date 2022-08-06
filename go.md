@@ -1047,6 +1047,7 @@ Go
 * [Golang Rest API - Lazy Loading, Search & Sorting using MySQL](https://morioh.com/p/da47d282e0cf)
 * [Build a Rest API with GoLang - YouTube](https://www.youtube.com/watch?v=d_L64KT3SFM)
 * [Golang — Consuming Rest API. Today we will see how we can consume… | by Rajkumar soni | Jul, 2022 | Medium](https://medium.com/@rajasoni1995/golang-consuming-rest-api-87aa12e0d213)
+* [How to Build a REST API with the Go Programming Language](https://morioh.com/p/9950221b1161)
 * [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
   * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
