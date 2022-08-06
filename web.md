@@ -1493,6 +1493,8 @@ Web
 * [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
 * [웹어셈블리 기반의 유력 언어 프로젝트 13종 - ITWorld Korea](https://www.itworld.co.kr/news/231854)
 * [Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작 | GeekNews](https://news.hada.io/topic?id=6743)
+* [AssemblyScript](https://www.assemblyscript.org/)
+  * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
