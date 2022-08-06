@@ -118,6 +118,7 @@ AWS
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [AWS SecurityHub. The AWS:SecurityHub:Hub resource… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/aws-securityhub-hub-1d42cb1199d2)
 * [Security SA 의 re:Inforce 행사 탐방기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-sa-%EC%9D%98-reinforce-%ED%96%89%EC%82%AC-%ED%83%90%EB%B0%A9%EA%B8%B0/)
+* [Internet Facing Load Balancer 생성 탐지 및 제거 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/internet-facing-load-balancer-%EC%83%9D%EC%84%B1-%ED%83%90%EC%A7%80-%EB%B0%8F-%EC%A0%9C%EA%B1%B0/)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
