@@ -572,6 +572,8 @@ Go
   * [golang - go.uber.org/atomic 패키지를 사용하여 atomic 다루기 - jacking75](https://jacking75.github.io/go_lib_uber_atomic/)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
   * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
+* [badger: Fast key-value DB in Go](https://github.com/dgraph-io/badger)
+  * [BadgerDB: Fast key-value DB in Go](https://morioh.com/p/d0fc6c58ca33)
 * [binclude: Include files in your binary the easy way](https://github.com/lu4p/binclude)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
@@ -715,6 +717,7 @@ Go
     * python service를 go로 바꾸는 과정에서 발생한 여러가지 기술 문제들을 자세히 설명하는 좋은 글
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger](https://github.com/Sirupsen/logrus)
+* [lo: A Lodash-style Go Library Based on Go 1.18+ Generics](https://morioh.com/p/f1999a786ab5)
 * [lorca: Build cross-platform modern desktop apps in Go + HTML5](https://github.com/zserge/lorca)
   * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
@@ -868,6 +871,7 @@ Go
 * [golang Mysql 여러줄 insert 속도 문제 - Sean - Medium](https://ykish72.medium.com/golang-mysql-%EC%97%AC%EB%9F%AC%EC%A4%84-insert-%EC%86%8D%EB%8F%84-%EB%AC%B8%EC%A0%9C-c784a7922ae7)
 * [Mysql 테스트프로그램에 C++이나 C#대신 익숙하지 않은 golang쓴 이유 | by Sean | May, 2021 | Medium](https://ykish72.medium.com/mysql-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90-c-%EC%9D%B4%EB%82%98-c-%EB%8C%80%EC%8B%A0-%EC%9D%B5%EC%88%99%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-golang%EC%93%B4-%EC%9D%B4%EC%9C%A0-45d0902c979f)
 * [Golang With MySQL](https://www.tech3code.com/2022/02/golang-with-mysql-this-lesson-covers.html)
+* [Golang Project | Build an Entire CRUD API using MYSQL and Golang](https://morioh.com/p/f2c0908100ea)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 
 ## Library PostgreSQL
