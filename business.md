@@ -294,10 +294,14 @@ Business
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
   * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
+* [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
+* [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
+* [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
 * [Amazon과 Apple의 문화 차이. 글로벌 공룡으로 불리우는 두 A사. 리딩 기업으로 혁신의 아이콘… | by KyungHeon Kim | Medium](https://medium.com/@kyungheonkim/amazon%EA%B3%BC-apple%EC%9D%98-%EB%AC%B8%ED%99%94-%EC%B0%A8%EC%9D%B4-b8514e615145) 조직 문화
+* [Creating High Performance Culture | Patty McCord | Talks at Google - YouTube](https://www.youtube.com/watch?v=thzDy5A-KfE) 조직 문화
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [무엇이 직원의 애사심을 만드는가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/254153) 만족도
@@ -446,8 +450,6 @@ Business
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167) 비즈니스쪽에 이야기할 개발자와 일 잘 하는 방법
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
-* [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
-* [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [스피드로 성공한 회사보다, 손익분기 맞춰 성공한 회사가 오래 간다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/181275)
 * [How to operate](https://www.notion.so/How-to-operate-b7a3f2591bd043dd81ef0861f47035d7)
 * [스킬맵 : 나는 팀에 어떤 도움이 될 수 있을까 ?](https://brunch.co.kr/@pletalk/24)
@@ -671,6 +673,7 @@ Business
 * [빨라지는 HR의 진화 속도 긱스](https://news.v.daum.net/v/20220721164601921)
 * [심각하게 망가진 채용 면접, 이렇게 복구해보세요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/repairinterview20220728)
 * [체계 없는 스타트업 채용, 왜 이렇게 어렵죠? | 원티드](https://www.wanted.co.kr/events/22_07_s18_b01)
+* [지원자 경험 향상을 위한 채용 담당자의 역할](https://blog.greetinghr.com/applicant-experience-for-recruiter/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1110,6 +1113,7 @@ Business
 * [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
 * [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
 * [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
+* [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
@@ -1465,6 +1469,7 @@ Business
 * [정성적 차이](https://www.thestartupbible.com/2022/07/unquantifiable-moats.html)
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
+* [Better/Sooner/Cheaper/More - by Kent Beck](https://tidyfirst.substack.com/p/bettersoonercheapermore) iron cross
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -1654,6 +1659,7 @@ Business
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 * [토스가 타다를 인수한 진짜 이유를 공개합니다](https://blog.toss.im/article/outside-the-box)
 * [토스가 타다를 왜 인수할까? II](https://brunch.co.kr/@graypool/244)
+* [토스는 왜 알뜰폰 사업을 시작할까요?](https://brunch.co.kr/@jinsekil/133)
 * [회색분자의 SW창작 놀이터 :: '스타트업' 카테고리의 글 목록](https://greypencil.tistory.com/category/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
 * [k-startups: List of tech startups in South Korea](https://github.com/sooftware/k-startups)
 * [당신의 혁신 능력을 망가뜨리지 마라 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1786)
