@@ -701,6 +701,7 @@ NLP
   * [Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
     * [페이스북 Blenderbot 2.0 공개 | GeekNews](https://news.hada.io/topic?id=4630)
   * [Facebook Open-Sources BlenderBot 2.0 Chatbot](https://www.infoq.com/news/2021/08/facebook-blenderbot-2/)
+  * [대화를 통해 더 똑똑해지는 인공지능 챗봇...메타 AI, 거의 모든 주제에 말할 수 있는 '블렌더봇 3' 오픈소스로 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=25726)
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
   * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
@@ -1035,6 +1036,7 @@ NLP
     * 이를 이용하면 기존 문단을 콘텍스트에 맞게 수정할 수도 있고 이미 작성된 코드를 업데이트도 가능
   * [Building games and apps entirely through natural language using OpenAI’s code-davinci model – @AndrewMayne](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/)
     * 이 모델을 사용해 자연어로 게임을 만들도록 지시만 하고 코드는 하나도 수정 안 한 채로 만든 게임 데모 공개
+* [GPT-3로 AI 철학자 만들어 보니..."인간 철학자와 구분 힘들어" < 테크 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=146149)
 * [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
 * [블로그는 되고 뉴스는 안 된다? 말뭉치의 종류에 따른 HyperCLOVA 인컨텍스트 러닝(In-context Learning) 성능 변화 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/05/hyperclova-corpus)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
