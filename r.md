@@ -733,6 +733,7 @@ R
   * [swirl-tidy: Learn tidyverse in R via a set of swirl (https://swirlstats.com) lessons on introductions to tidyverse](https://github.com/sysilviakim/swirl-tidy)
   * [방태모의 블로그: tidyverse principle로 머신러닝 하기](https://www.taemobang.com/posts/2022-04-04-tidyvese-principle/)
   * [방태모의 블로그: tidyverse로 데이터베이스랑 대화하기 - 1편](https://www.taemobang.com/posts/2022-04-07-talk-with-database-using-tidyverse-part-i/)
+  * [통계청X슬기로운 통계생활 MDIS 데이터 친해지기 2-1강 - 통계지표 계산과정 이해하기 - YouTube](https://www.youtube.com/watch?v=-w76Xl9SqVM)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
