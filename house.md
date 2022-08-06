@@ -122,6 +122,8 @@ House
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (2) - 계약갱신청구권의 이해 : 클리앙](https://www.clien.net/service/board/lecture/17152957)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (3) - 손해배상까지의 과정 : 클리앙](https://www.clien.net/service/board/lecture/17154278?type=recommend)
 * [회색 코뿔소, 입주물량의 역습](https://www.koreamonitor.co.kr/view.php?ud=20220312163216790bb0cd1e55_41)
+* [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
+* [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
