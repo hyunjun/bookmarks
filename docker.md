@@ -1431,6 +1431,7 @@ Docker
 * [쿠버네티스 애플리케이션에서 Bus Error (Core Dumped) 대처법 정리 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-bus-error-core-dumped-%EB%8C%80%EC%B2%98%EB%B2%95-%EC%A0%95%EB%A6%AC-55580e14e003)
 * [쿠버네티스 에러 정리 : Pod에 GPU 할당 과정에서 발생한 UnexpectedAdmissionError 해결하기 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%97%90%EB%9F%AC-%EC%A0%95%EB%A6%AC-pod%EC%97%90-gpu-%ED%95%A0%EB%8B%B9-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-unexpectedadmissionerror-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-23faddea7d6c)
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
+* [About - Kubernetes](https://kubernetes.youngwjung.com/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
