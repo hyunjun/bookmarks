@@ -820,6 +820,7 @@ AWS
 * [GitOps Tutorial: How to Provision an EC2 Instance with Crossplane and Flux | HackerNoon](https://hackernoon.com/gitops-tutorial-how-to-provision-an-ec2-instance-with-crossplane-and-flux)
   * Flux로 Git 소스 저장소를 등록하고 Kustomization을 이용해서 Crossplane으로 EC2 인스턴스를 생성해서 관리하도록 하는 흐름을 등록하는 과정 설명, 이를 테스트할 수 있는 예제 저장소 제공
 * [What is an EC2 instance in AWS || How many types of EC2 instances are there || AWS EC2 IN HINDI || - YouTube](https://www.youtube.com/watch?v=-uqFhUCLUUg)
+* [How To Launch EC2 Linux Instance in AWS Cloud | Ashok IT - YouTube](https://www.youtube.com/watch?v=uI2iDk8iTps)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
