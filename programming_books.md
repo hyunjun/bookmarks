@@ -2149,6 +2149,7 @@ Programming Books
 * (NOT YET) [이득우의 게임 수학](https://jhrogue.blogspot.com/2022/03/blog-post.html)
 * (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
   * 우당 문005.11-강77ㅅ
+* (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
 
 # Network
 
@@ -2495,6 +2496,9 @@ Programming Books
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
 * (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
+* (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
+  * 한라 005.133-포47ㅍ
+* (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2605,7 +2609,7 @@ Programming Books
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
   * 한라 005.133-클292ㄹ 우당 문005.133-스839ㄹ
 * (NOT YET) [동시성 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
-  * 우당
+  * 우당 문005.133-다821ㄷ
 * (NOT YET) [한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/08/%ED%95%9C-%EC%A4%84-%ED%95%9C-%EC%A4%84-%EC%A7%9C%EB%A9%B4%EC%84%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EB%9F%AC%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
   * 우당
 
