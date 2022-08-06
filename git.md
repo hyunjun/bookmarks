@@ -523,6 +523,7 @@ Git
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
   * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
   * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
+  * [Git Flow에서 트렁크 기반 개발으로 나아가기 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
   * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
