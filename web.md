@@ -739,6 +739,7 @@ Web
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
   * [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
+* [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 
 # Java
 * [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
