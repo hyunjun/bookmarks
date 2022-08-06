@@ -511,6 +511,7 @@ SQL
 * [JSON Labs Release: Native JSON Data Type and Binary Format](http://mysqlserverteam.com/json-labs-release-native-json-data-type-and-binary-format/)
 * [30 mins with JSON in MySQL](http://dasini.net/blog/2015/11/17/30-mins-with-json-in-mysql/)
 * [Max JSON column length in MySQL](https://stackoverflow.com/questions/40711101/max-json-column-length-in-mysql)
+* [MySQL JSON vs. TEXT. JSON 타입 컬럼으로 저장하는 것이 좋을까요 ?  TEXT타입 컬럼이… | by Sunguck Lee | 당근마켓 팀블로그 | Aug, 2022 | Medium](https://medium.com/daangn/json-vs-text-c2c1448b8b1f)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
