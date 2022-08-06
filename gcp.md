@@ -62,6 +62,7 @@ Google Cloud Platform GCP
 * [New-In: Analyzing Google Trends within BigQuery | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/new-in-analyzing-google-trends-within-bigquery-da17e6b411bd)
 * [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
 * [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
+* [Read Data directly with BigQuery SQL with the Zero — ETL Approach | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/read-data-directly-with-bigquery-sql-with-the-zero-etl-approach-a2dc34ff76ff)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
