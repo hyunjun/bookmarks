@@ -1691,6 +1691,7 @@ Java
 * [1인분을 해내기 위한 신입 서버 개발자의 좌충우돌 1년 - 넷마블 기술 블로그](https://netmarble.engineering/past-1year-to-be-server-programmer-as-one-developer/)
 * [Spring 개발환경에 따라 Profile 분리하는 방법과 활용 예제를 알아보자](https://velog.io/@couchcoding/Spring-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%97%90-%EB%94%B0%EB%9D%BC-Profile-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%ED%99%9C%EC%9A%A9-%EC%98%88%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [Spring 개념 정리](https://velog.io/@betterfuture4/Spring-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+* [Spring - ActiveProfilesResolver를 이용하여 Test 코드 실행 시 Spring Profile을 동적으로 주입하기](https://kim-jong-hyun.tistory.com/134)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
@@ -1922,6 +1923,7 @@ Java
 * [Finding Memory Leaks in Java Microservices – Part 2](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-2/)
 * [하나의 메모리 누수를 잡기까지](https://d2.naver.com/helloworld/1326256)
 * [어랏!! 여기에서 OOM이 발생할 줄이야…. OOM 에러 케이스와 함께 Mybatis의 캐시 정책과 GC의 동작방식… | by HAEUN JEONG | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%96%B4%EB%9E%8F-%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C-oom-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%A4%84%EC%9D%B4%EC%95%BC-503ddf286fd)
+* [How to Fix java.lang.OutOfMemoryError: GC overhead limit exceeded Error in JVM Solution](https://javarevisited.blogspot.com/2015/06/javalangoutofmemoryerror-gc-overhead-limit-exceeded-error-jvm.html)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
