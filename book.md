@@ -211,6 +211,9 @@ Book
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://github.com/hyunjun/bookmarks/blob/master/books/impostor.md)
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-impostor-c5cebae9a5ae)
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-IMPOSTOR)
+* 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
+  * 우당 문325.555-기36ㄱ
+  * ★★★☆☆ 2022.08.06
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -258,8 +261,6 @@ Book
   * 한라 321.97-달298ㅂ 탐라 문321.97-달239ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
 * (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
-* (NOT YET) 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
-  * 우당
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
 * (NOT YET) [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
