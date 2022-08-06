@@ -247,6 +247,8 @@ Book
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
+* (NOT YET) [마키아벨리 : 르네상스 피렌체가 낳은 이단아](https://japan114.tistory.com/11323)
+  * 한라 340.99-김14ㅁ
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
   * 한라 340.98-마53ㅈ-1, 2 탐라 문340.98-마52ㅈ-1, 2 우당 문340.98-마52ㅈ-1, 2
 * (NOT YET) [권력의 심리학 - 권력을 잡으면 인간은 어떻게 변하는가](https://news.v.daum.net/v/20220211050606263)
@@ -283,6 +285,10 @@ Book
   * 한라 아457.279-김25고 탐라 아457-김225ㄱ 우당 문457-김225ㄱ
 * (NOT YET) 폴 크루그먼, 좀비와 싸우다 [실패한 ‘부자감세 좀비’ 국민을 더 가난으로 내몬다 - 경향신문](https://www.khan.co.kr/culture/book/article/202207221124001)
   * 탐라
+* (NOT YET) [1센티 인문학](https://post.naver.com/viewer/postView.nhn?volumeNo=29774012&memberNo=1748988)
+  * 탐라 문001.3-조69ㅇ 우당 문001.3-조69ㅇ
+* (NOT YET) [삶이 허기질 때 나는 교양을 읽는다](https://www.youtube.com/watch?v=DJ5iAOvujMI)
+  * 우당 문001.3-지59ㅅ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -583,7 +589,7 @@ Book
 * (NOT YET) [다산의 마지막 질문 | 조윤제 | 청림출판 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788935213733)
 * (NOT YET) [조선 선비 설악에 들다 | 권혁진 | 문자향 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788990535498)
 * (NOT YET) 세계질서와 문명등급 [문명을 서열화한 서구 중심의 ‘세계질서’ 비판 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1040878.html)
-  * 우당
+  * 우당 문909-류239ㅅ
 * (NOT YET) [짱깨주의의 탄생](https://www.hani.co.kr/arti/international/international_general/1048436.html)
   * 한라 309.112-김97ㅉ 탐라 문309.112-김98ㅉ 우당 문309.112-김98ㅉ
   * [문 전 대통령이 이 책을 추천한 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47644)
@@ -940,3 +946,7 @@ Book
     * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
   * [알라딘: 유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
 * (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)
+* (NOT YET) [인문 여행자, 도시를 걷다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281626217)
+  * 한라 001.3-김14이 탐라 문001.3-김14ㅇ 우당 문001.3-김14ㅇ
+* (NOT YET) [랜선 인문학 여행](https://blog.naver.com/indiecat/222057447388)
+  * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
