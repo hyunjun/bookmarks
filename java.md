@@ -169,6 +169,7 @@ Java
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [Java Reflection API: The Magical World of Java | CodersTea](https://www.coderstea.com/post/java/the-magic-of-javas-reflection-api/)
 * [Core Java Reflection Vs Spring Reflection - YouTube](https://www.youtube.com/watch?v=5SqptI9A0LU)
+* [자바의 리플렉션이란](https://cliearl.github.io/posts/android/java-reflection/)
 * [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
