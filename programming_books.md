@@ -249,6 +249,8 @@ Programming Books
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
 * (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
+* (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
+  * 우당 문004.588-윤94ㅋ
 
 # Agile Scrum
 
@@ -832,11 +834,17 @@ Programming Books
   * [데이터 분석가의 숫자유감 2화 숫자의 불확실성: 큰 수를 더 크다고 말하지 못하고 - 골든래빗](https://goldenrabbit.co.kr/2022/03/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80%EC%9D%98-%EC%88%AB%EC%9E%90%EC%9C%A0%EA%B0%90-%E1%84%89%E1%85%AE%E1%86%BA%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%87%E1%85%AE%E1%86%AF/)
 * (NOT YET) [데이터 과학자 되는 법 (에밀리 로빈슨, 재클린 놀리스 著, 이창화 譯, 2021)](https://jehyunlee.tistory.com/31)
 * (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
-* (NOT YET) [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
+* (NOT YET) Apache airflow 기반의 데이터 파이프라인 [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
+  * 한라 005.75-하294ㅇ
 * (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
 * (NOT YET) [Do it! 쉽게 배우는 파이썬 데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293059248)
 * (NOT YET) [노코딩AI 코딩 없이 AI 만들기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296456424)
 * (NOT YET) [인공지능은 게임을 어떻게 움직이는가?](http://www.easyspub.co.kr/20_Menu/BookView/523/PUB)
+  * 우당 문004.73-미62ㅇ
+* (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
+  * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
+* (NOT YET) [우리는 인공지능과 함께할 수 있을까?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285091584)
+  * 탐라 문004.73-조53ㅇ 우당 문004.73-조53ㅇ
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1124,6 +1132,7 @@ Programming Books
 * (NOT YET) [리뷰 GAN 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/03/20/review-book-first-gan/)
 * (NOT YET) [케라스로 구현하는 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B5392144310)
   * 한라
+  * [케라스로 구현하는 딥러닝 / 양자인공지능(QAI) 예제](https://sysout.tistory.com/90)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -1186,6 +1195,7 @@ Programming Books
   * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
   * [Practical Deep Learning for Coders - The book](https://course.fast.ai/Resources/book.html)
 * (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
+  * 탐라 문004.73-자61ㅍ
 * (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
   * 한라
   * [책 vs 책: 정형 vs 비정형 딥러닝](https://jhrogue.blogspot.com/2022/06/vs-vs.html)
@@ -1280,6 +1290,8 @@ Programming Books
   * 탐라 문005.1-이94ㄷ
 * (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
+* (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -1548,6 +1560,10 @@ Programming Books
 * (NOT YET) 클라우드 전환 그 실제 이야기 : 지속 가능한 클라우드
   * 탐라 문004.588-공66ㅋ
 * (NOT YET) [서비스 메시 마스터 | 에이콘출판사](http://acornpub.co.kr/book/mastering-service-mesh)
+* (NOT YET) [클라우드 네이티브 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289969087)
+  * 탐라 문004.588-레78ㅋ
+* (NOT YET) [클라우드 네이티브 애플리케이션 디자인 패턴](https://jybaek.tistory.com/965)
+  * 한라 004.588-인27ㅋ
 
 # Interview
 
@@ -2106,6 +2122,7 @@ Programming Books
   * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
 * (NOT YET) [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
   * 우당
+* (NOT YET) 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
 
 # Math
 
@@ -2752,6 +2769,8 @@ Programming Books
 * (NOT YET) [사용자를 사로잡는 UX UI 실전 가이드](https://ugong2san.tistory.com/4189)
   * 탐라 문004.78-김53ㅅ
 * (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
+* (NOT YET) [UX/UI 디자이너를 위한 실무 피그마](https://hanbit.co.kr/store/books/look.php?p_code=B7944573971)
+  * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
