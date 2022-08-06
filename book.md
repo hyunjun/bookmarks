@@ -77,8 +77,6 @@ Book
   * 2014.04.03
 * [이방인](https://jh4hj.tistory.com/entry/%EC%9D%B4%EB%B0%A9%EC%9D%B8)
   * 2014.07.29
-* [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
-  * 2014.10.10
 * [THAAD](https://jh4hj.tistory.com/entry/THAAD)
   * 2014.10.28
 * [왓슨 인간의 사고를 시작하다](https://jh4hj.tistory.com/entry/%EC%99%93%EC%8A%A8-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8B%A4)
@@ -217,7 +215,6 @@ Book
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
-* (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [나는 연구하는 회사원입니다](https://brunch.co.kr/@lunarshore/373)
 * (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
 * (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
@@ -420,6 +417,12 @@ Book
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
 * (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
+
+# Economy
+* [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
+  * 2014.10.10
+* (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
+* (NOT YET) [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
