@@ -1597,6 +1597,7 @@ App
 * Erase.bg [수초 만에 뚝딱! 사진, 로고, 이미지 배경 제거 무료 도구 : 디자인로그(DESIGN LOG)](https://www.designlog.org/2512919)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
   * [SmartRename Script by farn501](https://docs.google.com/forms/d/e/1FAIpQLSfsG-wxJUAGlwaz8elKdQB9lTLOnv4KlrgXKGsfSeyy-nRk_g/viewform)
+  * [비디오 파일의 파일명에 날짜와 시간을 박는 bash script | 웹으로 말하기](https://mytory.net/2022/08/06/add-datetime-to-video-file-script.html)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
 * Files [Single-file PHP file manager, browser and photo gallery | Files](https://www.files.gallery/)
