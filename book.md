@@ -751,6 +751,8 @@ Book
 * [고양이 맙소사, 소크라테스!](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406986)
   * 한라 104-박95ㄱ 탐라 문001.3-박95ㄱ 우당 문001.3-박95ㄱ
   * ★★☆☆☆ 2022.07.09
+* (NOT YET) [데리다와의 데이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298757673)
+  * [데리다와의 데이트 (1) 자크 데리다와 환대 : 네이버 블로그](https://blog.naver.com/wei-jung/222087395769)
 
 # Politics
 * (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
