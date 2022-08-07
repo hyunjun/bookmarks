@@ -62,6 +62,7 @@ Redis
   * [입 개발 Redis 장애 종류 정리 | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/20/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%9e%a5%ec%95%a0-%ec%a2%85%eb%a5%98-%ec%a0%95%eb%a6%ac/)
   * [입 컨설팅 Self Managed Redis 가 좋을까? Managed Redis 가 좋을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/11/30/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-self-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c/)
   * [입 개발 Redis LRU(Least Recently Used Algorithm)에 대해서 | Charsyam's Blog](https://charsyam.wordpress.com/2022/01/28/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-lruleast-recently-used-algorithm%ec%97%90-%eb%8c%80%ed%95%b4%ec%84%9c/)
+  * [입 개발 Redis 지표 중에 instantaneous 정보들은 어떤걸까? | Charsyam's Blog](https://charsyam.wordpress.com/2022/08/07/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A7%80%ED%91%9C-%EC%A4%91%EC%97%90-instantaneous-%EC%A0%95%EB%B3%B4%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B1%B8%EA%B9%8C/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
