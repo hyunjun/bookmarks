@@ -3127,6 +3127,7 @@ Javascript
 * [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [Getting Started with React - Sabe.io](https://sabe.io/tutorials/getting-started-with-react)
+* [Getting started with React | Full Stack Development with React & Node JS - Live | GeeksforGeeks - YouTube](https://www.youtube.com/watch?v=iK1CvGHbK2k)
 * [리액트 quick start 노트](https://www.haruair.com/blog/4303)
 * [리액트 Advanced guides 전반부 노트](https://www.haruair.com/blog/4313)
 * [리액트 Advanced guides 후반부 노트](https://www.haruair.com/blog/4329)
