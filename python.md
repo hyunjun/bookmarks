@@ -3191,6 +3191,7 @@ Python
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
   * [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
   * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
+  * [Getting Started With Google Colab | by Anne Bonner | Towards Data Science](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
   * [Google Cloud Codelabs and Challenges](https://codelabs.developers.google.com)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
