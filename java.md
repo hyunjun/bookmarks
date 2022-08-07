@@ -1709,6 +1709,7 @@ Java
   * [9. Spring Thymeleaf Util class](https://kim-jong-hyun.tistory.com/20)
   * [24. Spring - Thymeleaf 템플릿 메일발송](https://kim-jong-hyun.tistory.com/43)
   * [26. Spring - Model 과 HttpSession에 데이터를 저장할 때 주의점](https://kim-jong-hyun.tistory.com/45)
+  * [Thymeleaf에서 th:fragment나 title 태그를 조건문으로 써서 인클루드하기 | 웹으로 말하기](https://mytory.net/2022/08/08/thymeleaf-conditional-fragment.html)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
