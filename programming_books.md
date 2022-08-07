@@ -2032,6 +2032,14 @@ Programming Books
   * [네이키드 애자일. 무엇보다 정답을 (제시할 수 없는 주제라는 걸 알고) 제시하지 않는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%84%A4%EC%9D%B4%ED%82%A4%EB%93%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-7347be4b1f71)
 * [초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
   * ★★★★☆ 2022.06.19~22
+* [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280417087)
+  * 탐라 문325.152-황72ㄷ
+  * ★★★☆☆ 2022.08.07
+  * [AI, 메타버스한다고 그것이 DT일까? (f.황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080115417792486/)
+  * [버튼 누르면 비품 채워지는 경험, 이런 게 DT (황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080415477748975)
+  * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/dx.md)
+  * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일. 습관은 반드시 실천할 때 만들어 집니다. | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%8A%B5%EA%B4%80%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%BC-25e795a033d1)
+  * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일](https://jh4hj.tistory.com/entry/%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%8A%B5%EA%B4%80%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%BC)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2061,10 +2069,6 @@ Programming Books
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
-* (NOT YET) [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280417087)
-  * 탐라 문325.152-황72ㄷ
-  * [AI, 메타버스한다고 그것이 DT일까? (f.황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080115417792486/)
-  * [버튼 누르면 비품 채워지는 경험, 이런 게 DT (황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080415477748975)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
