@@ -5012,6 +5012,7 @@ Javascript
 * [Vue 3.2 에서 필수로 짚고 넘어가야 할 미래 - DEV Community](https://dev.to/composite/vue-32-eseo-pilsuro-jipgo-neomeogaya-hal-mirae-4mcc)
 * [Why I Left Vue.js for React. As a front-end developer with… | by David Nienajadlo | Jul, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/why-i-left-vue-for-react-67070cfb3bca)
 * [Vue.js에서 체크박스 하나만으로 true, false값 잡기 | 웹으로 말하기](https://mytory.net/2022/08/06/vue-checkbox-true-value-false-value.html)
+* [엉망진창 Vue.js 날씨 웹 만들기 - Vuex Store1️⃣ - YouTube](https://www.youtube.com/watch?v=S4sVuL5ORAQ)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
