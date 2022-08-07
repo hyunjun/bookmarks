@@ -821,6 +821,7 @@ Go
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
   * [Cobra | A Commander for modern Golang CLI interactions](https://morioh.com/p/09d62ef2fa35)
+  * [How to build a CLI tool with Go and Cobra | Go Project Building - YouTube](https://www.youtube.com/watch?v=-PUHtTNSqWQ)
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
