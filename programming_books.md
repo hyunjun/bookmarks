@@ -2677,6 +2677,9 @@ Programming Books
   * ★★★★☆ ~2022.08.06
   * [Refactoring: 『리팩터링, 2판』(한빛미디어, 2020)](https://github.com/wegraLee/Refactoring)
   * [refactoring-python: Refactoring 2nd Edition Example Source Code Written in Python](https://github.com/mwjjeong/refactoring-python)
+  * [REFACTORING 리팩터링 2판](https://github.com/hyunjun/bookmarks/blob/master/programming_books/refactoring.md)
+  * [REFACTORING 리팩터링 2판. Refactoring | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/refactoring-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-2%ED%8C%90-18b3a7ed7769)
+  * [REFACTORING 리팩터링 2판](https://jh4hj.tistory.com/entry/REFACTORING-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-2%ED%8C%90)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
@@ -2687,6 +2690,13 @@ Programming Books
   * [The Effective Engineer](http://www.effectiveengineer.com/)
   * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
     * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
+* (NOT YET) [리팩터링 워크북](https://insightbooklist.wordpress.com/books/individual/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-%EC%9B%8C%ED%81%AC%EB%B6%81/)
+  * 한라 004.575-웨68ㄹ
+* (NOT YET) [패턴을 활용한 리팩터링](https://andromedarabbit.net/refactoring_to_patterns/)
+* (NOT YET) [리팩토링 데이터베이스](https://wikibook.co.kr/refactoring-databases/)
+* (NOT YET) [리팩토링 HTML | 에이콘출판사](http://acornpub.co.kr/book/refactoring-html)
+* (NOT YET) [리팩토링 자바스크립트](https://velog.io/@devgosunman/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%B4%EB%9E%80)
+  * 한라 005.138-버82ㄹ
 
 # Spark
 
@@ -2756,6 +2766,7 @@ Programming Books
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
 * (NOT YET) [A/B 테스트 | 에이콘출판사](http://acornpub.co.kr/book/trustworthy-abtest)
   * 탐라
+* (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
