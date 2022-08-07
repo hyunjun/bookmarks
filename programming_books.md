@@ -2200,8 +2200,10 @@ Programming Books
 * (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
   * 한라
   * [textmining](https://github.com/wikibook/textmining)
-* (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2/)
+* (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정2판) | 위키북스](https://wikibook.co.kr/nlprev2)
   * 한라 004.73-전82자
+  * [tensorflow-ml-nlp-tf2: 텐서플로2와 머신러닝으로 시작하는 자연어처리 (로지스틱회귀부터 BERT와 GPT3까지) 실습자료](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
+  * [tensorflow-ml-nlp-tf2-colab](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab)
 * (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp)
   * 한라
 * (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer)
