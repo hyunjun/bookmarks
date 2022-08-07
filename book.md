@@ -271,6 +271,8 @@ Book
   * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
 * (NOT YET) [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
   * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
+  * [서울대 공대 교수 25명의 성찰 메시지. 위기의 시대, 'NEW 메이드 인 코리아를 위하여' ｜축적의 시간 2부작 ① 착각의 시간 (KBS 20170304 방송) - YouTube](https://www.youtube.com/watch?v=8MugD6Cwhl8)
+  * [백지 위에 그림을 그리듯 '세상에 없던 새로운 것을 만들어내는 힘' ｜축적의 시간 2부작 ② 축적에서 길을 찾다 (KBS 20170305 방송) - YouTube](https://www.youtube.com/watch?v=YsI8GLLx0Ng)
 * (NOT YET) [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
   * 우당
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
