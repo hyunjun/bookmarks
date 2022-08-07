@@ -276,6 +276,7 @@ NoSQL
   * [Host React App on Firebase - YouTube](https://www.youtube.com/watch?v=syvLw6Z50qo)
   * [What is Firebase? | ReactJS with Firebase Tutorial Hindi | Firebase React Tutorial Series - YouTube](https://www.youtube.com/watch?v=qBBWo1R5OC4)
   * [SMS 인증 쉽게 하기 - 이상선 - Medium](https://medium.com/@sunyi233/sms-%EC%9D%B8%EC%A6%9D-%EC%89%BD%EA%B2%8C-%ED%95%98%EA%B8%B0-fe7f31d5c08e)
+  * [구글의 GCP와 Firebase. 흔히 3대 클라우드를 AWS, 구글, Azure라고 합니다. AWS는… | by 이상선 | Jul, 2022 | Medium](https://medium.com/@sunyi233/%EA%B5%AC%EA%B8%80%EC%9D%98-gpc%EC%99%80-firebase-99210cec003d)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
