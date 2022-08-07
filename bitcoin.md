@@ -335,6 +335,7 @@ Bitcoin
 * [상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부 - T Times](http://www.ttimes.co.kr/view.html?no=2022012616397756758)
 * [The Promise of DAOs, the Latest Craze in Crypto | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
 * [DAO에 대한 생각](https://www.thestartupbible.com/2022/04/some-thoughts-on-dao.html)
+* [DAO란 무엇인가? - 업비트 투자자보호센터](https://m.upbitcare.com/academy/education/blockchain/246)
 * [How Blockchain Is Reinventing Entrepreneurship For Developing Countries](https://www.forbes.com/sites/forbestechcouncil/2022/07/05/how-blockchain-is-reinventing-entrepreneurship-for-developing-countries/)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
@@ -373,3 +374,4 @@ Bitcoin
 * [Aleph.im decentralized infrastructure](https://aleph.im/)
 * [웹3에서 차용해보는, "잘 먹히는" 커뮤니티 구축 전략 5단계](https://www.grownbetter.com/article/132)
 * [ReFi와 ImpactDAO. 웹3의 regeneration movement와 임팩트에 대해 알아보기 | by JinYoung Yoo | Jul, 2022 | Medium](https://medium.com/@uj_/refi-impactdao-kr-ff171545aab9)
+* [10 Free NFT (Non Fungible Tokens), Metaverse, and Web3.0 Courses for Beginners | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/10-free-nft-non-fungible-tokens-metaverse-and-web3-0-courses-for-beginners-421b1d6ca263)
