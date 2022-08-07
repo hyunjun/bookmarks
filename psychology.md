@@ -14,6 +14,7 @@ Psychology
 * [성실성 파라독스(1/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness1/)
 * [성실성 파라독스(2/2)](http://newspeppermint.com/2015/08/03/m-conscientiousness2/)
 * [꾸준함을 유지하는 3가지 방법](http://moneyman.kr/archives/3587)
+* [습관 성실함에 집착하지 마라](http://moneyman.kr/archives/2066)
 * [왜 나는 너를 이해하지 못하는가](http://ppss.kr/archives/54292)
 * [사람들이 인생의 동반자를 선택할 때 저지르는 가장 큰 실수들](http://ppss.kr/archives/54898)
 * [선입견, 없앨 수 없다면 제도적으로 억누릅시다](http://newspeppermint.com/2015/09/08/tech-to-mitigate-bias/)
@@ -39,6 +40,7 @@ Psychology
   * 스스로에게 안좋은 말들 하지 않기
   * 남에게 의존해서 자존감을 높이지 말고 스스로 만족할줄 알기
   * 본인이 좋아하는 시간, 공간 만들기
+* [자존감과 자존심의 7가지 미묘한 차이점 - Wonderful Mind](https://wonderfulmind.co.kr/self-esteem-and-ego-7-differences/)
 * [혹독한 조언이 나를 살릴까?](http://agile.egloos.com/5931859)
 * [CEO 심리학 행복한 사람과 목적없는 대화…스트레스 피하는 최고의 방법 - 매일경제](https://www.mk.co.kr/news/business/view/2019/11/941310/)
 * [거절하기](https://www.thestartupbible.com/2021/12/saying-no-is-the-best-stress-management-technique.html) 번아웃을 피하는 방법
@@ -56,6 +58,7 @@ Psychology
 * [손흥민, 득점왕 압박감에도 "하하"..뇌과학에 그 비밀이](https://news.v.daum.net/v/20220528064701668)
 * [말을 통한 심리적 조종의 9가지 징후 - Wonderful Mind](https://wonderfulmind.co.kr/psychological-manipulation-words/)
 * [공감과 인내에 관한 심리학자 칼 로저스의 7가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/7-of-the-best-quotes-from-psychologist-carl-rogers-empathy-tolerance-and-more/)
+* [습관 인내심을 기르는 최고의 훈련법](http://moneyman.kr/archives/4553)
 * [인간의 성장에 관한 칼 융의 4가지 명언 - Wonderful Mind](https://wonderfulmind.co.kr/quotes-by-carl-jung-on-personal-growth/)
 * [모교 강단 선 허준이 교수 "근거 없는 자신감이 중요" | 연합뉴스](https://www.yna.co.kr/view/AKR20220727167600004)
 * [자신감 넘치는 사람들이 갈등을 해결하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/this-is-how-assertive-people-resolve-conflicts/)
