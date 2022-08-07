@@ -74,6 +74,8 @@ Web
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
 * [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
 * [정적 사이트에서 한국어 웹 폰트 최적화하기](https://palindrom615.dev/optimizing-web-font)
+* [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 1: 기존 서비스 구경](https://velog.io/@filekiwi/optimization-web-font-hangul-part-1)
+* [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 2: 꼼수로 완성하다](https://velog.io/@filekiwi/optimization-web-font-hangul-part-2)
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
