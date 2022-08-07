@@ -286,6 +286,7 @@ Book
   * 탐라 문001.3-조69ㅇ 우당 문001.3-조69ㅇ
 * (NOT YET) [삶이 허기질 때 나는 교양을 읽는다](https://www.youtube.com/watch?v=DJ5iAOvujMI)
   * 우당 문001.3-지59ㅅ
+* (NOT YET) [진리는 바뀔 수도 있습니다](https://ibric.org/myboard/read.php?Board=thbksn&id=3621&Page=1&&skin=thbksn)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
