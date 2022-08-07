@@ -624,6 +624,7 @@ Book
   * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
 * (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 * (NOT YET) [서학, 조선을 관통하다 - 위클리서울](http://www.weeklyseoul.net/news/articleView.html?idxno=69512)
+* (NOT YET) [인류 최초의 문명과 이스라엘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298971522)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
