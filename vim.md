@@ -200,6 +200,7 @@ Vim
 * [Vim 단축키 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/540)
 * [빔 교정학원 VIMRC 2022 - YouTube](https://www.youtube.com/watch?v=8wQ7c2Tbtkw)
 * [Learn Vim the Simple Way](https://www.vimified.com/)
+* [간단한 16진수 변환기를 만들고 vim에서 사용하기 - YouTube](https://www.youtube.com/watch?v=oa8lc6qOo5A)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
