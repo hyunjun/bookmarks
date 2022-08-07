@@ -1433,6 +1433,7 @@ Docker
 * [Kubernetes K8s Article - YouTube](https://www.youtube.com/watch?v=rld_y56Q09I)
 * [About - Kubernetes](https://kubernetes.youngwjung.com/)
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
+* [Kubernetes ImagePullBackOff: Live Troubleshooting with Examples | Kubernetes - YouTube](https://www.youtube.com/watch?v=MVDwuOR3Z_c)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
