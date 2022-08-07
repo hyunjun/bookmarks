@@ -956,8 +956,11 @@ Programming Books
   * [머신러닝·딥러닝 문제해결 전략](https://jhrogue.blogspot.com/2022/04/blog-post.html)
 * (NOT YET) [코딩은 처음이라 with 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633964)
 * (NOT YET) [딥러닝을 이용한 정형 데이터 분석](https://www.onlybook.co.kr/entry/structured-data)
-  * 한라
+  * 한라 004.73-라68ㄷ
   * [독서광 책 vs 책:정형 vs 비정형 딥러닝 - YouTube](https://www.youtube.com/watch?v=TlikY0zge-g)
+  * [structured-data: 딥러닝을 이용한 정형 데이터 분석](https://github.com/onlybooks/structured-data)
+  * [deep_learning_for_structured_data: Production repo to accompany Deep Learning with Structured Data book from Manning: https://www.manning.com/books/deep-learning-with-structured-data ](https://github.com/ryanmark1867/deep_learning_for_structured_data)
+  * [TTC Streetcar Delay Data - City of Toronto Open Data Portal](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 * (NOT YET) 딥러닝을 위한 수학 [론 크노이젤의 친절한 딥러닝 수학](https://jpub.tistory.com/1299?category=203154)
 * (NOT YET) [실무자를 위한 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/practical-deep-learning)
@@ -1085,7 +1088,8 @@ Programming Books
   * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
 * (NOT YET) [머신러닝 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B3931996053)
 * (NOT YET) [파이썬 머신러닝 완벽 가이드(개정2판) | 위키북스](https://wikibook.co.kr/pymlrev2/)
-  * 한라
+  * 한라 004.73-권83파
+  * [pymlrev2: 《파이썬 머신러닝 완벽 가이드(개정2판)》 예제 코드](https://github.com/wikibook/pymlrev2)
 * (NOT YET) [텐서플로 2로 배우는 금융 머신러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284461051)
   * 탐라 문004.73-헐69ㅌ
 * (NOT YET) [금융 전략을 위한 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B2331794765)
@@ -1131,7 +1135,8 @@ Programming Books
 * (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
 * (NOT YET) [리뷰 GAN 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/03/20/review-book-first-gan/)
 * (NOT YET) [케라스로 구현하는 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B5392144310)
-  * 한라
+  * 한라 004.73-김54ㅋ
+  * [keraspp_2022: Codes in My Book - Keras](https://github.com/jskDr/keraspp_2022)
   * [케라스로 구현하는 딥러닝 / 양자인공지능(QAI) 예제](https://sysout.tistory.com/90)
 
 ## Tensorflow
@@ -1196,9 +1201,12 @@ Programming Books
   * [Practical Deep Learning for Coders - The book](https://course.fast.ai/Resources/book.html)
 * (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
   * 탐라 문004.73-자61ㅍ
-* (NOT YET) [파이토치 딥러닝 마스터](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296883495&start=slayer)
-  * 한라
+* (NOT YET) [파이토치 딥러닝 마스터](https://www.onlybook.co.kr/entry/pytorch)
+  * 한라 004.73-스888ㅍ
   * [책 vs 책: 정형 vs 비정형 딥러닝](https://jhrogue.blogspot.com/2022/06/vs-vs.html)
+  * [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
+  * [dlwpt-code: Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
+  * [pytorch: 파이토치 딥러닝 마스터](https://github.com/onlybooks/pytorch)
 * (NOT YET) [파이토치와 유니티 ML-Agents로 배우는 강화학습 | 위키북스](https://wikibook.co.kr/pytorch-mlagents/)
 
 ## Visualization
