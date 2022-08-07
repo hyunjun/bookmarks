@@ -188,6 +188,7 @@ Food
 * [아이스크림 젤라또 먹어보고서](https://brunch.co.kr/@kkang/2)
 * [나라 별 국민간식 10선](http://media.daum.net/life/food/cooking/newsview?newsId=20150804105111916&RIGHT_LIFE=R2)
 * [맥주 + 크림치즈 + 체다치즈 = 나쵸 딥 소스](http://www.huffingtonpost.kr/2015/09/21/story_n_8168942.html)
+* [아는 척 좀 하며 먹을 수 있는 디저트의 세계사? 파이와 애플파이 SSUL | 음식 문화, 미국 문화 - YouTube](https://www.youtube.com/watch?v=aKOfJbZH0M8)
 
 ## Macaron
 * [초간단 마카롱](http://media.daum.net/life/food/photo/newsview?newsId=20150225103418166)
