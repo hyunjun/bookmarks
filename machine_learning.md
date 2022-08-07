@@ -22,6 +22,9 @@ Machine Learning
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [How to Get Hired as a Machine Learning Engineer](https://www.infoq.com/articles/get-hired-machine-learning-engineer/)
 * [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
+* [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
+  * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
+* [Top 5 Machine Learning Trends For 2022 | by Suzzy Writes | Jul, 2022 | Heartbeat](https://heartbeat.comet.ml/top-5-machine-learning-trends-for-2022-e3facd83f18f)
 * [ML엔지니어가 데이터 엔지니어링으로 커리어를 시작하면 좋은 이유 - YouTube](https://www.youtube.com/watch?v=qfRjd5xeXn0) data engineering
 * Machine Learning is Fun!
   * [The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
@@ -448,8 +451,6 @@ Machine Learning
 * [한국어 기계 학습 강좌](http://seslab.kaist.ac.kr/xe2/index.php?mid=page_GBex27)
 * [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
 * [Understand these 5 basic concepts to sound like a machine learning expert](https://medium.com/towards-data-science/understand-these-5-basic-concepts-to-sound-like-a-machine-learning-expert-6221ec0fe960)
-* [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
-  * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
 * [Machine learning overview (infographic)](http://usblogs.pwc.com/emerging-technology/a-look-at-machine-learning-infographic/)
 * [**Machine learning methods (infographic)**](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)
 * [Machine learning evolution (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-evolution-infographic/)
