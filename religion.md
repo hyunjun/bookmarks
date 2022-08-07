@@ -38,6 +38,7 @@ Religion
 # Buddhism
 * [The largest Buddhist settlement in the world: Inside the village where 40,000 monks and nuns are segregated and televisions are banned... but iPhones are allowed Read more: http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html#ixzz3ZucdEPLE](http://www.dailymail.co.uk/travel/travel_news/article-3043400/Inside-largest-Buddhist-settlement-world.html)
 * [달라이 라마, '종교가 더 좋은 세상 만드는 데 실패하고 있다'](http://www.huffingtonpost.kr/2015/06/10/story_n_7549154.html)
+* [불교의 가르침: 고통을 끝내는 8가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/the-8-ways-to-end-suffering-according-to-buddhism/)
 
 ## 한국 불교
 * [명진 스님 "우리 조계종이 패륜집단처럼 돼버렸다"](http://www.huffingtonpost.kr/2015/06/06/story_n_7524602.html)
