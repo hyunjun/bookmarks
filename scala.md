@@ -526,6 +526,7 @@ Scala
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
+* [akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving)
 * [akka-dynamic-batch-tensorflow-gpu-bert at main · go-noah/akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-tensorflow-gpu-bert)
 * Akka gRPC
   * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
