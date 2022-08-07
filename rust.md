@@ -184,6 +184,7 @@
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+* [Rust in Action](https://github.com/rust-in-action)
 
 # Concurrency
 * [cs492-concur](https://github.com/kaist-cp/cs492-concur)
