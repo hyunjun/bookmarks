@@ -1434,6 +1434,7 @@ Docker
 * [About - Kubernetes](https://kubernetes.youngwjung.com/)
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
 * [Kubernetes ImagePullBackOff: Live Troubleshooting with Examples | Kubernetes - YouTube](https://www.youtube.com/watch?v=MVDwuOR3Z_c)
+* [Expedite Infrastructure Investigations With Kubernetes Anomalies | Datadog](https://www.datadoghq.com/blog/monitor-kubernetes-anomalies/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1573,6 +1574,7 @@ Docker
   * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autocaler/)
   * [My first impression of AWS Karpenter](https://heuristicwave.github.io/Karpenter)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
+  * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
   * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
