@@ -2510,6 +2510,7 @@ Programming Books
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
 * (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
+  * 탐라
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
@@ -2700,7 +2701,7 @@ Programming Books
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 * (NOT YET) [이펙티브 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296893356&start=slayer)
-  * 한라
+  * 한라 005.04-라66ㅇ
   * [The Effective Engineer](http://www.effectiveengineer.com/)
   * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
     * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
