@@ -636,6 +636,9 @@ AWS
   * [AWS re:Invent 2021 AI/ML 신규 서비스 요약 - AWS On-Air 한국어 라이브 (12월 2일) - YouTube](https://www.youtube.com/watch?v=9fMwObd5wk0)
   * [탈중앙 게임과 AWS re:Invent](https://snack.planetarium.dev/kor/2022/01/2021-aws-reinvent/)
   * [AWS re:Invent 2021을 통해 본 클라우드의 미래 - 윤석찬, AWS 수석테크에반젤리스트 :: AWS re:Invent re:Cap - YouTube](https://www.youtube.com/watch?v=7bbXmuGAUdQ)
+* AWS re:MARS
+  * [AWS Events - YouTube](https://www.youtube.com/c/AWSEventsChannel/playlists?view=50&sort=dd&shelf_id=3)
+  * [Amazon re:MARS 2022를 다녀오고. 6년 간의 뉴욕 생활을 정리하고 작년에 귀국해서 메가존클라우드에서… | by Soonmo Seong | Cloud Villains | Jul, 2022 | Medium](https://medium.com/ctc-mzc/amazon-re-mars-2022%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0-570eef90e774)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
@@ -710,6 +713,7 @@ AWS
 * [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [**AWS_Skill_Builder at main · serithemage/AWS_class_resources**](https://github.com/serithemage/AWS_class_resources/tree/main/AWS_Skill_Builder) 한글 자막 처리가 되어 있는 주요 AWS Skill Builder 교육 목록
+  * [AWS Skill Builder 개인 및 팀 유료 구독을 통한 더 많은 클라우드 교육 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-skill-builder-subscriptions/)
 * [AWS Tutorial – Learn Amazon Web Services from Experts](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
