@@ -674,6 +674,7 @@ Business
 * [심각하게 망가진 채용 면접, 이렇게 복구해보세요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/repairinterview20220728)
 * [체계 없는 스타트업 채용, 왜 이렇게 어렵죠? | 원티드](https://www.wanted.co.kr/events/22_07_s18_b01)
 * [지원자 경험 향상을 위한 채용 담당자의 역할](https://blog.greetinghr.com/applicant-experience-for-recruiter/)
+* [링크드인 인재 트렌드 보고서 2022 총정리](https://brunch.co.kr/@nutilde/22)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
