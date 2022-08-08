@@ -744,6 +744,8 @@ Web
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 
 # Java
+* Hilla [The modern web framework for Java · Hilla](https://hilla.dev/)
+  * [Hilla: The Modern Web Framework for Java - YouTube](https://www.youtube.com/watch?v=1Nc_-8gk_mk)
 * [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
 
 # Library
