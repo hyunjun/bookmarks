@@ -572,8 +572,6 @@ Programming Language
 * Wuffs [구글 Wuffs - 안전하게 파일포맷을 다루기 위한 개발언어 | GeekNews](https://news.hada.io/topic?id=4032)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 * [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
-* [Zig Programming Language](https://ziglang.org/)
-  * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)

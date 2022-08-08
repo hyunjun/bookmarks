@@ -216,11 +216,14 @@ C
 * [Ubuntu에 Clang 9 설치하기 : 네이버블로그](https://blog.naver.com/hikari1224/221742416148)
 * [cldoc - clang based documentation generator for C and C++](https://jessevdk.github.io/cldoc/index.html)
 * [include-what-you-use - A tool for use with clang to analyze #includes in C and C++ source files](https://include-what-you-use.org/)
-* [Home ⚡ Zig Programming Language](https://ziglang.org/)
+* Zig [Home ⚡ Zig Programming Language](https://ziglang.org/)
+  * [홈 ⚡ Zig Programming Language](https://ziglang.org/ko/)
   * [Using Zig As Cross Platform C Toolchain](https://ruoyusun.com/2022/02/27/zig-cc.html)
   * [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
   * [How Uber Uses Zig - Motiejus Jakštys Public Record](https://jakstys.lt/2022/how-uber-uses-zig/)
     * [Uber가 Zig를 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=6616)
+  * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+  * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 # Debugging
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
