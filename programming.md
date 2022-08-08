@@ -427,6 +427,7 @@ Programming
   * DevRel이 어떤 일을 하고 어떻게 해야하는지를 설명한 사이트
   * DevRel의 활동은 커뮤니티, 컨텐츠, 제품 3가지 타입으로 구분되므로 DevRel로 취직하기 위해서는 코딩, 커뮤니티 구축, 컨텐츠 제작의 기술을 보여줄 수 있어야 함
   * DevRel에게 가장 어려운 건 개발자의 관심을 받는 것인데 이를 위한 조언도 정리
+* [우리는 이 모든 것을 DevRel이라고 부르기로 했어요](https://brunch.co.kr/@moon-sky/20)
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
   * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
   * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
@@ -1486,6 +1487,7 @@ Programming
 * [Bounded Context Canvas 소개](https://brunch.co.kr/@graypool/527)
 * [데이터 제품 접근방식과 그 표현](https://brunch.co.kr/@graypool/529)
 * [아키텍처는 의사소통에 관한 문제라서?](https://brunch.co.kr/@graypool/530)
+* [아주 이상적인 아키텍처](https://brunch.co.kr/@graypool/533)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
 * [클린 아키텍처 보충 2 — 엔티티(EBI), 도메인 주도 설계(DDD) | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-2-%EC%97%94%ED%8B%B0%ED%8B%B0-ebi-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-55ea98c62cb6)
