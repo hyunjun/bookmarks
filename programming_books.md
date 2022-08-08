@@ -2695,16 +2695,17 @@ Programming Books
   * [REFACTORING 리팩터링 2판](https://github.com/hyunjun/bookmarks/blob/master/programming_books/refactoring.md)
   * [REFACTORING 리팩터링 2판. Refactoring | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/refactoring-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-2%ED%8C%90-18b3a7ed7769)
   * [REFACTORING 리팩터링 2판](https://jh4hj.tistory.com/entry/REFACTORING-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-2%ED%8C%90)
+* [이펙티브 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296893356&start=slayer)
+  * 한라 005.04-라66ㅇ
+  * ★★★★☆ 2022.08.08
+  * [The Effective Engineer](http://www.effectiveengineer.com/)
+  * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+    * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
-* (NOT YET) [이펙티브 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296893356&start=slayer)
-  * 한라 005.04-라66ㅇ
-  * [The Effective Engineer](http://www.effectiveengineer.com/)
-  * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-    * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
 * (NOT YET) [리팩터링 워크북](https://insightbooklist.wordpress.com/books/individual/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-%EC%9B%8C%ED%81%AC%EB%B6%81/)
   * 한라 004.575-웨68ㄹ
 * (NOT YET) [패턴을 활용한 리팩터링](https://andromedarabbit.net/refactoring_to_patterns/)
