@@ -405,7 +405,7 @@ Book
 * (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
 * (NOT YET) [The Cinema of George Lucas 조지루카스의 시네마](https://www.youtube.com/watch?v=Ip03xB992P0)
 * (NOT YET) [빈센트 반고흐 번역서 Van gogh TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
-  * 탐라
+  * 탐라 문650.99-650.99
 * (NOT YET) [뮤지엄×여행](https://blog.naver.com/ihk0704/221669710616)
   * 탐라 문069.04-최39ㅁ 한라 069.6-최38ㅁ 우당 문069.6-최39ㅁ
 * (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
