@@ -2701,6 +2701,9 @@ Programming Books
   * [The Effective Engineer](http://www.effectiveengineer.com/)
   * [Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
     * [이펙티브 엔지니어](https://dev200ok.blogspot.com/2020/04/dev_13.html)
+  * [이펙티브 엔지니어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/effective_engineer.md)
+  * [이펙티브 엔지니어. 1부 올바른 마인드셋을 갖춰라 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-97392783c051)
+  * [이펙티브 엔지니어](https://jh4hj.tistory.com/entry/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
