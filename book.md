@@ -212,6 +212,12 @@ Book
 * 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
   * 우당 문325.555-기36ㄱ
   * ★★★☆☆ 2022.08.06
+* [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://brunch.co.kr/@planetraveler/89)
+  * 한라 325.19-이45ㅅ 탐라 문325.19-이45ㅅ 우당 문325.19-이45ㅅ
+  * ★★☆☆☆ 2022.08.08 디자인씽킹을 몰라서 그런지 모르겠지만 스타벅스의 (대부분은 성공인) 사례를 잘 이야기했을 뿐 특별히 디자인씽킹을 배우거나 알 수 있는 책은 아니란 생각
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://github.com/hyunjun/bookmarks/blob/master/books/starbucks.md)
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인. 디자인을 하는 과정에서 거치는 생각 방식인 디자인씽킹 Design… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8-7cb23cee950)
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
