@@ -336,7 +336,7 @@ R
 * [기술통계, 통계결과를 ppt,word로 다운받기 - YouTube](https://www.youtube.com/watch?v=2HQ8_OiQk-c)
 * [R+port](https://bookdown.org/allenpark88/market_report/2021-market-report.html)
   * [R-code-for-finance/market-report.rmd at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/market-report.rmd)
-    * [네이버주가데이터(Integrated).R at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%8C%E1%85%AE%E1%84%80%E1%85%A1%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5(Integrated).R)
+    * [네이버주가데이터(Integrated).R at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%A5%E1%84%8C%E1%85%AE%E1%84%80%E1%85%A1%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5(Integrated).R)
 * [집값예측 캐글스터디 - R에서 Box-Cox 변환 전처리 하기 - YouTube](https://www.youtube.com/watch?v=Mz2baOYbXtg)
 * [Best Practices for Durable R Code | R-bloggers](https://www.r-bloggers.com/2021/09/best-practices-for-durable-r-code/)
 * [R을 사용해 아웃룩 이메일과 팀즈 메시지를 보내는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/216399)
@@ -496,6 +496,7 @@ R
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * autoReg [Automatic Linear and Logistic Regression and Survival Analysis • autoReg](https://cardiomoon.github.io/autoReg/)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
+* [book tm: R 텍스트마이닝 - bitTA](https://github.com/bit2r/book_tm)
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
 * box [R 개발/분석을 위한 안전한 모듈 관리 - BOX](https://lumiamitie.github.io/dev/r-module-using-box/)
