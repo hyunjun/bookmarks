@@ -1298,6 +1298,7 @@ Java
   * [Jenkins Tutorial — Part 9 — Basic Pipeline Steps | by Saeid Bostandoust | May, 2022 | ITNEXT](https://itnext.io/jenkins-tutorial-part-9-basic-pipeline-steps-eeb1b9ed79f8)
   * [Jenkins Tutorial For Beginners - Jenkins Tutorial - Jenkins Crash Course - YouTube](https://www.youtube.com/playlist?list=PL8WTXLSrtyWpgy4ZvhkVmc9uq5dU8ao08)
   * [#jenkins #springboot Spring Boot Application Deployment Using Jenkins CI & CD #lovetolearn - YouTube](https://www.youtube.com/watch?v=gV1wq2E6Lqc)
+  * [Monitoring Jenkins with Java Melody - YouTube](https://www.youtube.com/watch?v=FK5EW2AJ6_k)
   * [jenkins-stack-kubernetes: Scripts and manifests to deploy complete Jenkins on Kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes)
   * [jenkins-tutorial: The complete Jenkins tutorial, reference, awesome, examples](https://github.com/ssbostan/jenkins-tutorial)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
