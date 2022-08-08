@@ -1471,6 +1471,8 @@ Business
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
 * [Better/Sooner/Cheaper/More - by Kent Beck](https://tidyfirst.substack.com/p/bettersoonercheapermore) iron cross
+* [What Product Market Fit Feels Like - by CJ Gustafson](https://www.mostlymetrics.com/p/what-product-market-fit-feels-like)
+  * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
