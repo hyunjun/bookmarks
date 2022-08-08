@@ -162,6 +162,7 @@
 * [블로그에 코틀린 플레이그라운드 넣기](https://dalinaum.github.io/blog/2022/01/28/blog-kotlin-playground.html)
 * [상태를 가변적으로 관리했을 때 발생하는 문제 — 시행착오를 줄이는 방법](https://weekly.ac/65)
 * [K2 컴파일러로 가는 길 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/02/the-road-to-the-k2-compiler/)
+* [Kotlin의 증분 컴파일에 대한 새로운 접근 방식 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/08/a-new-approach-to-incremental-compilation-in-kotlin/?mibextid=3f2an5)
 * [Differentiable Programming in Kotlin - YouTube](https://www.youtube.com/watch?v=VO7pYFa-TeE)
 * [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
 * [Optics/Lens 내 멋대로 Optics 이해하기 Feat) arrow-kt](https://see-ro-e.tistory.com/333)
