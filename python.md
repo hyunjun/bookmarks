@@ -2401,6 +2401,7 @@ Python
 * [Python Django Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
 * [Django 4.0 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-0-release-note-summary)
   * [Django 4.0 릴리스와 주요 변경 사항 | GeekNews](https://news.hada.io/topic?id=5659)
+* [Django 4.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-1-release-note-summary)
 * [Django 4.0.4 Best Practices Tutorial : Part 1](https://ayat.hashnode.dev/django-404-best-practices-tutorial-part-1)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기. 정경업 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=SbIQuDKmig0)
 * [6 Harmful Defaults in Django | Confuzeus](https://confuzeus.com/hub/django-web-framework/dangerous-defaults/)
