@@ -223,6 +223,8 @@ App
 * [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [woob - Web Outside of Browsers](https://woob.tech/)
+* Wordnote [Why I built a dictionary app even with more than +300 apps available at AppStore?](https://www.wordnote.app/blog/why-i-built-dictionary-app)
+  * [내가 Wordnote 사전 앱을 만든 이유 | GeekNews](https://news.hada.io/topic?id=7138)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Wormhole - Simple, private file sharing](https://wormhole.app/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
