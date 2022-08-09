@@ -9,6 +9,7 @@ Web
 * [깃플 기술스택 구경하세요~ (프론트엔드 편)](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/)
 * [Interesting Web Technologies to follow in 2019](https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b)
 * [Top 10 Web Development Trends to Follow in 2019](https://dzone.com/articles/top-10-web-development-trends-to-follow-in-2019)
+* [The State of Frontend 2022](https://tsh.io/state-of-frontend/)
 * [번역 2020년에 봐야하는 6가지 웹성능 기술](https://brunch.co.kr/@jowlee/98)
 * [Top Technologies That Will Transform Web Development in 2020 | by Sophia Martin | Quick Code | Medium](https://medium.com/quick-code/top-technologies-that-will-transform-the-web-development-in-2020-cccb8abe8f4e)
 * [How to become Kickass Web Developer Frontend & Backend Tips](https://www.wrappixel.com/become-kickass-web-developer-2021/)
