@@ -451,6 +451,7 @@ NoSQL
 * [Memory Allocator for MongoDB. DBMS 서버에서 메모리 관리는 매우 중요한 부분중 하나에요. DBMS… | by Sunguck Lee | 당근마켓 팀블로그 | Apr, 2022 | Medium](https://medium.com/daangn/memory-allocator-for-mongodb-1953f9cee06c)
 * [MongoDB - Nodejs Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1Nwdrc5l8e6rn9rTIaHTDhKt5I)
 * [글로벌 칼럼 | 몽고DB, 조롱거리에서 거물이 되다 - ITWorld Korea](https://www.itworld.co.kr/news/239739)
+* [다시보기 MongoDB ‘아틀라스 서치’(Atlas Search) 파헤치기 웨비나 | MongoDB](https://www.mongodb.com/presentations/intro-to-mongodb-atlas-search-webinar-korea)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
