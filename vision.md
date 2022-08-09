@@ -97,6 +97,7 @@ Vision
   * [2019 cvpr paper_overview](https://www.slideshare.net/HoseongLee6/2019-cvpr-paperoverview)
   * [Computational Imaging for Self-Driving Vehicles](https://imagingav.media.mit.edu/) MIT Media Lab과 NVIDIA에서 발표한 CVPR 2018 자율주행차량을 위한 전산이미징 튜토리얼
   * [cvpr2019.thecvf.com/program/tutorials](http://cvpr2019.thecvf.com/program/tutorials)
+* [Beyond Convolutional Neural Networks | CVPR 2022 Tutorial - YouTube](https://www.youtube.com/watch?v=QdGWCUOO6xw)
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
