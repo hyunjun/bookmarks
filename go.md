@@ -125,6 +125,7 @@ Go
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
+* [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a)
 * [On Go, Portability, and System Interfaces](http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
