@@ -1435,6 +1435,7 @@ Docker
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
 * [Kubernetes ImagePullBackOff: Live Troubleshooting with Examples | Kubernetes - YouTube](https://www.youtube.com/watch?v=MVDwuOR3Z_c)
 * [Expedite Infrastructure Investigations With Kubernetes Anomalies | Datadog](https://www.datadoghq.com/blog/monitor-kubernetes-anomalies/)
+* [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
