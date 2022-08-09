@@ -1510,6 +1510,7 @@ Business
   * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
 * [얼떨결에 프로덕트 오너](https://brunch.co.kr/@cliche-cliche/149)
 * [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
+* [요기요 PO는 어떻게 일하나요?. “면접관이 전하는 요기요 PO가 일하는 방식” | by Sunyoung Go | Aug, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%94%EA%B8%B0%EC%9A%94-po%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ea0dbee09c06)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
