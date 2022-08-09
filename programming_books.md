@@ -2069,6 +2069,9 @@ Programming Books
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
+* (NOT YET) [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
+  * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
+  * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
