@@ -2069,6 +2069,7 @@ Javascript
       * TRP에서는 Observable과 Reaction이 기본 구성 요소인데 SolidJS도 이를 이용해서 반응형 모델을 구축
       * 이를 이용한 SolidJS의 사용 방법도 간단히 소개
   * [SolidJS와 함께 되짚어보는 반응형 프로그래밍 : NHN Cloud Meetup](https://meetup.toast.com/posts/326)
+  * [Solid JS is a game changer - YouTube](https://www.youtube.com/watch?v=MgC-ESbahR0)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
