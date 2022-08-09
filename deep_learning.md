@@ -553,6 +553,7 @@ Deep Learning
 * [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 * [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
   * [How to Train Your ResNet - 8: Bag of Tricks](https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb#scrollTo=6IGml3SMd6ID) ipynb
+* [#Python | Non-linear Connectivity Topology | #ResNet #DeepLearning #Tensorflow #NeuralNetworks - YouTube](https://www.youtube.com/watch?v=CjFL6Ada5Xk) cifar10
 * [AI For Filmmaking Recognising Shot Types with ResNets](https://rsomani95.github.io/ai-film-1.html)
 * [ResNet: The Most Popular Network in the Computer-Vision Era](https://towardsdatascience.com/resnet-the-most-popular-network-in-computer-vision-era-973df3e92809)
 * [ResNet: Deep Residual Learning for Image Recognition (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - YouTube](https://www.youtube.com/watch?v=671BsKl8d0E)
