@@ -1011,6 +1011,7 @@ Git
   * [GitHub Copilot JetBrains IDE/VS Code에서 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1603)
   * [“개발자들, 코파일럿 많이 쓸수록 생산성 향상됐다 느껴” 깃허브 - CIO Korea](https://www.ciokorea.com/news/245056)
   * [ML code generation vs. coding by hand - what we think programming is going to look like | Wasp](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
+  * [GitHub Copilot: your AI pair programmer - GitHub Checkout - YouTube](https://www.youtube.com/watch?v=St2CMvK4hK0)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
