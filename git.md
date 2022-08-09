@@ -1104,6 +1104,7 @@ Git
   * [GitLab CI/CD pipeline con i custom runners e Docker - YouTube](https://www.youtube.com/watch?v=yHBgQoGcu_o)
   * [Git스러운 협업 체인 만들기](https://brunch.co.kr/@graypool/422)
   * [깃허브 vs. 깃랩, 무엇을 써야할까 - ZDNet korea](https://zdnet.co.kr/view/?no=20220804135812)
+  * [Gitlab CI/CD With Docker And Kubernetes For Microservices | Full Episode - YouTube](https://www.youtube.com/watch?v=FDXbkijB0pY)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
