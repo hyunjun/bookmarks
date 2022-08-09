@@ -1181,6 +1181,7 @@ NLP
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
   * [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
+* [Go-nlp: A Few Structures for Doing NLP analysis / Experiments](https://morioh.com/p/81956277d782)
 * [graph4nlp: Graph4nlp is the library for the easy use of Graph Neural Networks for NLP](https://github.com/graph4ai/graph4nlp)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
