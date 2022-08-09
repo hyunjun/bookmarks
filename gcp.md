@@ -161,6 +161,7 @@ Google Cloud Platform GCP
 * [Google Cloud Speech API (STT library)와 Unicode 인코딩 문제를 해결한 후기 :: 뇌장하드](https://devming.tistory.com/224)
 * [Using the Natural Language API to Classify Unstructured Text in GCP | by Abhishek Shah | Jun, 2022 | Medium](https://medium.com/@jwbtmf/using-the-natural-language-api-to-classify-unstructured-text-in-gcp-cd211e952bf1)
 * [#8 Google Cloud IAM - YouTube](https://www.youtube.com/watch?v=RbyjG1Ckd-k)
+* [Workflows와 커넥터로 서버리스 앱 빌드하기 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/application-development/3common-serverless-patterns-to-build-with-workflows)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
