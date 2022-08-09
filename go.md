@@ -882,6 +882,7 @@ Go
 * [A practical introduction to PostgreSQL in Go (Golang)](https://gosamples.dev/postgresql-intro/)
 * [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
   * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
+  * [Pgx: PostgreSQL Driver and toolkit for Go](https://morioh.com/p/36f41b6fd991)
 
 # Machine Learning
 * [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
