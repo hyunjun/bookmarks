@@ -2942,6 +2942,7 @@ Programming
 * [How to design a 𝐬𝐞𝐜𝐮𝐫𝐞 web API access for your website?](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6920033960039260160-VMNA/)
 * [sha 1 - How easy is it in 2022 to find a SHA1 collision? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision)
 * [media.ccc.de - Practical bruteforce of military grade AES-1024](https://media.ccc.de/v/rc3-2021-r3s-216-practical-bruteforce-of-military-grade-aes-1024)
+* [Plan B for UUIDs: double AES-128 - Paul Khuong: some Lisp](https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/)
 * [멘토특강 해킹과 보안 BY 박수현 - YouTube](https://www.youtube.com/watch?v=Paa5KU8Cl08)
 * [Google Online Security Blog: Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
