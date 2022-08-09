@@ -1769,6 +1769,7 @@ Business
     * 주변을 카피하면서 평범
     * 제품이 아주 느리게 개선
 * [유니콘이 된 스타트업들의 Go to Market 전략 12가지](https://www.fall-moon.com/64?category=935177)
+* [소노스 CEO가 블랙베리 실패에서 배운 4가지 교훈 - 티타임즈](https://www.ttimes.co.kr/article/2022080818247772113) 안전지대
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
