@@ -156,6 +156,7 @@ Time Series
   * [It’s About Time For Time Series Databases](https://www.nextplatform.com/2018/01/25/time-time-series-databases/)
   * [TimescaleDB vs. Amazon Timestream: 6000x faster inserts, 5-175x query speed](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
+* TSCoke [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
 
 # Python
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
