@@ -87,6 +87,7 @@ Javascript
 * [Vanilla Javascript로 가상돔(Virtual DOM) 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 * [Vanilla Javascript로 React UseState Hook 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
 * [Vanilla List - 순수 JavaScript 플러그인 저장소 | GeekNews](https://news.hada.io/topic?id=5841)
+* [How to call an API using vanilla Javascript - My Day To-Do](https://mydaytodo.com/how-to-call-an-api-using-vanilla-javascript/)
 * [Web 브라우저 렌더링(Layout, Paint) 원리 그리고 가상돔(Virtual DOM)](https://blog.naver.com/pjt3591oo/222495673377)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
