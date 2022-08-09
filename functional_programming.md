@@ -368,6 +368,7 @@ Functional Programming
 * [A Monad is just a Monoid… - Michele Stieven - Medium](https://medium.com/@michelestieven/a-monad-is-just-a-monoid-a02bd2524f66)
 * [Functional Programming with Effects by Rob Norris - YouTube](https://www.youtube.com/watch?v=30q6BkBv5MY&t=22s)
 * [Ep 9: Transformers, Monads in Disguise - YouTube](https://www.youtube.com/watch?v=KMm71HLoy0w)
+* [**The Absolute Best Intro to Monads For Software Engineers - YouTube**](https://www.youtube.com/watch?v=C2w45qRc3aU) 지금까지 봤던 모나드 설명 중 최고
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
