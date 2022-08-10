@@ -2072,6 +2072,8 @@ Programming Books
 * (NOT YET) [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
   * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
   * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
+* (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
+  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
