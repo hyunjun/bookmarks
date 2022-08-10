@@ -913,6 +913,7 @@ R
   * [데이터 시각화 with ggplot2 핵심 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLKtLBdGREmMl_feHpXU-xS6BBJDrEWNQh)
   * [Draw Grouped ggplot2 Barplot with Text Labels in R (Example) | How to Specify Position of geom_text - YouTube](https://www.youtube.com/watch?v=NQ4XIt27JSo)
   * [Overlay ggplot2 Density Plots in R (2 Examples) | Draw Multiple Densities | Change Opacity of Graph - YouTube](https://www.youtube.com/watch?v=v0UL2uE1bV4)
+  * [ggplot2 컬러링 가이드](https://be-favorite.github.io/Presentation_archive/coloring_guide/coloring_guide.html#1)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * ggside [#R | ggside package ...UPGRADE Visualization | #ggside #DataVisualization #RPackage - YouTube](https://www.youtube.com/watch?v=NpjdXhD0GEw)
