@@ -904,6 +904,7 @@ Docker
 * [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [How to switch container runtime in a Kubernetes cluster - DEV Community](https://dev.to/stack-labs/how-to-switch-container-runtime-in-a-kubernetes-cluster-1628)
+* [CRI and ShimV2: A New Idea for Kubernetes Integrating Container Runtime - Alibaba Cloud Community](https://www.alibabacloud.com/blog/cri-and-shimv2-a-new-idea-for-kubernetes-integrating-container-runtime_594783)
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
 * [Granulate Blog - A Deep Dive into Kubernetes Scheduling](https://granulate.io/a-deep-dive-into-kubernetes-scheduling/)
 * [CoreOS and Kubernetes 1.0](https://coreos.com/blog/kubernetes-1.0-and-cloud-native-computing-foundation/)
@@ -952,6 +953,7 @@ Docker
 * [Deploy your machine learning models with tensorflow serving and kubernetes](https://towardsdatascience.com/deploy-your-machine-learning-models-with-tensorflow-serving-and-kubernetes-9d9e78e569db)
 * [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
+* [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Cloud Native Days Korea 2019 - kakao's k8s_as_a_service](https://www.slideshare.net/DennisHong18/cloud-native-days-korea-2019-kakaos-k8sasaservice)
@@ -1009,7 +1011,6 @@ Docker
 * [Securing Access to Kubernetes Environments with Zero Trust – The New Stack](https://thenewstack.io/securing-access-to-kubernetes-environments-with-zero-trust/)
 * [Kubernetes에서 제로 트러스트(Zero Trust)를 구현하기 위한 7가지 지침 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/seven-guidelines-implementing-zero-trust-in-kubernetes/)
 * [NSA on How to Harden Kubernetes – The New Stack](https://thenewstack.io/nsa-on-how-to-harden-kubernetes/)
-* [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * 권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기
   * [(1)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part1-af745bcc0e03)
