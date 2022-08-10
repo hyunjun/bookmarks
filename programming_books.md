@@ -483,6 +483,7 @@ Programming Books
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
 * (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
   * 한라 005.118-이25ㅅ 탐라 문005.118-이225ㅅ 우당 문005.118-이225ㅅ
+* (NOT YET) [AWS 비용 최적화 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299501047)
 
 # Android
 
