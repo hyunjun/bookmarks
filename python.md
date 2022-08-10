@@ -3042,6 +3042,7 @@ Python
 * [📚 Notebook To Production 👷🏼 - Nir Barazida | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=e57_HvuHTDQ)
 * [MATLAB을 주피터 노트북에서 사용하기 - Hello, world! I'm JunPyoPark](https://junpyopark.github.io/matlab_jupyter/)
 * [Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks](https://blog.aquasec.com/python-ransomware-jupyter-notebook)
+* [PyData Chicago: Running Notebooks in Production? Blessing or Curse? by Eduardo Blancas - YouTube](https://www.youtube.com/watch?v=ywL9egN1Iyk)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
