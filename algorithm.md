@@ -271,6 +271,7 @@ Algorithm
 * [Decimal Number To Binary | Python | Problem #1 - YouTube](https://www.youtube.com/watch?v=cUc2cGWPij8)
 * [Algorithm – 1ambda](https://1ambda.blog/category/algorithm/)
 * [Given N, find the smallest number with the same number of digits | CODER SITE for developers](https://codersite.dev/given-positive-number-n-find-smallest-number-same-number-digits/)
+* [Find the smallest number with the same number of digits | Javarevisited](https://medium.com/javarevisited/given-n-find-the-smallest-number-with-the-same-number-of-digits-d0f4d990ae5d)
 * [Shopping options | CODER SITE for developers](https://codersite.dev/shopping-options/)
 * [Merge two Sorted Lists | CODER SITE for developers](https://codersite.dev/merge-two-sorted-lists/)
 * [Optimize a basket in online purchases | CODER SITE for developers](https://codersite.dev/optimize-online-purchases/)
