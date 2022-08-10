@@ -45,6 +45,7 @@ Json
 # Go
 * [JSON is not Visible in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=ARmaPihNwvY)
 * [Loading JSON string in Go – Hello World!](https://learnai1.home.blog/2022/04/18/laoding-json-string-in-go/)
+* [How to Work with JSON in Go with Practical Examples](https://morioh.com/p/e3ab5cb9aeb8)
 * [miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
   * [Miller - CSV/JSON 데이터 처리용 CLI 도구 | GeekNews](https://news.hada.io/topic?id=4888)
 * [ojg - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools](https://github.com/ohler55/ojg/tree/master)
