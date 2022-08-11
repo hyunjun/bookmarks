@@ -2742,6 +2742,7 @@ Javascript
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
   * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
+* [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3738,6 +3739,7 @@ Javascript
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
+* [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4176,6 +4178,7 @@ Javascript
   * [Next.js에서 서버로 인증하는 방법 - Byeongjin Jason Kang](https://jasonkang14.github.io/nextjs/authenticate-with-next-auth)
   * [Next.js E-Commerce for Developers: Quick Shopping Cart Integration](https://morioh.com/p/fc9738434429)
   * [How to Upload Files with React and Next.js API Routes](https://morioh.com/p/c7ad109c8fd4)
+  * [How to Create Server Side Rendered React application using Next.js](https://morioh.com/p/36082354b43b?f=5cb7d89d660c8335951ca454)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
