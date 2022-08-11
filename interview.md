@@ -900,6 +900,7 @@ Interview
 * [이동욱 | Java & NodeJS 백엔드 엔지니어](https://jojoldu.github.io/)
 * [조은, John Cho - Resume (public)](https://eun.notion.site/eun/John-Cho-Resume-public-0208d6fec948496c95ecb031a583010c)
 * [진짜개발자 - 기업체가 찾는 정확한 이력서 규칙을 따르는 이력서](https://realdeveloper.pro/)
+* [잘 쓴 자기소개서는 뭘까 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243844)
 * [How to Increase Your Chances of Getting a Job | by Valentin Podkamennyi | Medium](https://vpodk.medium.com/how-to-increase-your-chances-of-getting-a-job-254c97c3b448)
 * [How to Write a Cover Letter in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-cover-letter-guide)
 * [Resumes are dangerous](https://blog.alexmaccaw.com/resumes-are-dangerous/)
