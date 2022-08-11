@@ -58,8 +58,10 @@ Bitcoin
 * [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 * [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
 * [Director's Decision on DID 1.0 Proposed Recommendation Formal Objections](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
+* [Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
 * [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
 * [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+* [블록체인 신흥 강자, ‘솔라나’란 무엇인가? - CIO Korea](https://www.ciokorea.com/news/247882) solana
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
 * [How to Design A Real-time CryptoCurrency Price Alert Backend | by Jerry An | Feb, 2022 | Medium](https://jerryan.medium.com/how-to-design-a-real-time-cryptocurrency-price-alert-backend-470f6245a7cd)
 * [I was wrong, we need crypto | GeekNews](https://news.hada.io/topic?id=6024)
@@ -252,6 +254,7 @@ Bitcoin
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [tierion - Your Bridge To The Blockchain](https://tierion.com/)
+* [use-upbit-api: This is React custom hooks for upbit API](https://github.com/devKangMinHyeok/use-upbit-api)
 * [ZeroNet - Real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network](http://zeronet.io/)
 
 # NFT
@@ -309,6 +312,8 @@ Bitcoin
 * [Weekly AINFT Stradivarius 0편 - AI Showcase - AI Network Community Forum](https://forum2.ainetwork.ai/t/weekly-ainft-stradivarius-0/289)
 * [Weekly AINFT Stradivarius 1편 - NeRF - AI Showcase - AI Network Community Forum](https://forum2.ainetwork.ai/t/weekly-ainft-stradivarius-1-nerf/293)
 * [Soulbound Token 이해하기 : ① POAP](https://ansubin.com/understanding-soulboundtoken-poap/)
+* [“원숭이 잔치는 끝나지 않았다” NFT의 미래 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/248560)
+* [디센트 지갑 UX 스토리 : “approve” 그 특별한 트랜잭션에 관하여 | by Minho, Yoo | D'CENT Wallet | IOTRUST : Team Blog | Medium](https://medium.com/iotrustlab/%EB%94%94%EC%84%BC%ED%8A%B8-%EC%A7%80%EA%B0%91-ux-%EC%8A%A4%ED%86%A0%EB%A6%AC-approve-%EA%B7%B8-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6296ce9eb7a0)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
