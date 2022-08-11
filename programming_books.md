@@ -2036,6 +2036,7 @@ Programming Books
 * [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280417087)
   * 탐라 문325.152-황72ㄷ
   * ★★★☆☆ 2022.08.07
+  * [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://brunch.co.kr/@graypool/231)
   * [AI, 메타버스한다고 그것이 DT일까? (f.황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080115417792486/)
   * [버튼 누르면 비품 채워지는 경험, 이런 게 DT (황재선 SK디스커버리 부사장) - 티타임즈](https://www.ttimes.co.kr/article/2022080415477748975)
   * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/dx.md)
