@@ -69,6 +69,7 @@ Azure
 * [애저 DevOps 파이프라인을 리팩토링하는 6가지 방법 | 마이크로소프트 기술 블로그](https://microsoft.github.io/developerkorea/posts/2021/01/12/6-ways-refactoring-azure-devops-pipelines/)
 * [A DevOps journey using Azure DevOps – Thomas Thornton](https://thomasthornton.cloud/2021/12/26/a-devops-journey-using-azure-devops/)
 * [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
+* [Azure Pipelines | React JS | CI/CD | Continuous Integration | Delivery | Deployment | Multi-Stage - YouTube](https://www.youtube.com/watch?v=wP-wAK3mSw0)
 * [GitOps, 애저 Durable Functions, GitHub Actions을 이용한 블로그 예약 포스팅 구현](https://blog.aliencube.org/ko/2020/03/25/scheduling-posts-with-gitops-durable-functions-and-github-actions/)
 * [GitHub Actions로 개발 주기 자동화 | ep1. Welcome 세션 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=MhGpFunlmMQ)
 * [GitHub Actions로 개발 주기 자동화 | ep2-1. GitHub Actions 소개 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=kS3wD-QhYUs)
