@@ -63,6 +63,8 @@ Google Cloud Platform GCP
 * [Using the Split Function in BigQuery | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/using-the-split-function-in-bigquery-47a966e3ae87)
 * [Google BigQuery와 Data Studio를 활용한 매출 분석 대시보드 개발기 | by Yesung Han | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/google-bigquery%EC%99%80-data-studio%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%95%B1-%EA%B4%91%EA%B3%A0-%EB%A7%A4%EC%B6%9C-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-af4e227ba77b)
 * [Read Data directly with BigQuery SQL with the Zero — ETL Approach | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/read-data-directly-with-bigquery-sql-with-the-zero-etl-approach-a2dc34ff76ff)
+* [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
+* [Run BigQuery SQL using Python API Client | by Cristian Saavedra Desmoineaux | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/run-bigquery-sql-using-python-api-client-b5287ac05b99)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
@@ -152,7 +154,6 @@ Google Cloud Platform GCP
   * [Google Java App Engine Standard is Now Open Source](https://www.infoq.com/news/2022/03/google-appengine-java/)
 * [Google's Managed Continuous Delivery Service for Kubernetes Moves to GA](https://www.infoq.com/news/2022/02/google-cloud-deploy/)
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
-* [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
 * [What is Google Dataplex? — The Data Fabric | by Christianlauer | CodeX | Mar, 2022 | Medium](https://medium.com/codex/what-is-google-dataplex-the-data-fabric-a6faf37e746f)
 * [Growing Concerns among Developers about Google Cloud Price Increases](https://www.infoq.com/news/2022/03/google-cloud-prices/)
 * [Measuring container size and startup latency for serverless apps written in C#, Node.js, Go, and Java – Richard Seroter's Architecture Musings](https://seroter.com/2022/04/18/measuring-container-size-and-startup-latency-for-serverless-apps-written-in-c-node-js-go-and-java/)
@@ -213,6 +214,7 @@ Google Cloud Platform GCP
 * [GCP Kubernets deployment strategy - YouTube](https://www.youtube.com/watch?v=IueIS-u3xXk)
 * [GKE에서 Calico CNI 사용하기. Why? | by 김도영 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/gke%EC%97%90%EC%84%9C-calico-cni-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-b3fa505e6f38)
 * [Load-testing TensorFlow Serving and FastAPI on GKE | by Chansung Park and Sayak Paul | Google Developers Experts](https://medium.com/google-developer-experts/load-testing-tensorflow-serving-and-fastapi-on-gke-411bc14d96b2)
+* [gke-policy-automation: Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices](https://github.com/google/gke-policy-automation)
 
 # Library
 * [gcpdiag](https://gcpdiag.dev/)
