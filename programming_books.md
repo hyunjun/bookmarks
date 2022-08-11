@@ -1920,6 +1920,7 @@ Programming Books
     * <img src="images/product_owner.png" alt="" width="300"/>
   * p199 PO는 늘 다른 팀원보다 조금 더 멀리 내다보고 있어야 한다. 개발자나 디자이너가 궁금해하기도 전에, 최대한 미리 정의를 다 해놓고 제공하는 것이 최적화된 협업 방식이라고 생각한다
   * [프로덕트 오너. 친구는 우버라는 서비스를 사용하는 그 순간, 감동을 느꼈던 것이다. | by Jun | Oct, 2021 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%98%A4%EB%84%88-d0bedcc2335) 3번째 읽고 기록
+  * [조직을 성공으로 이끄는, 프로덕트 오너 - 김성한](https://blog.naver.com/teincept/221905630896)
 * [인스파이어드(Inspired) - 개발자스럽다](https://blog.gaerae.com/2019/01/inspired-2nd-edition.html)
   * ★★★★☆ 2021.09.05
   * 프로덕트 오너에 이어 읽은 책. 프로덕트 오너에 비해 조금 더 high level의 관점으로 이해했음
