@@ -636,6 +636,7 @@ Book
 * (NOT YET) [인류 최초의 문명과 이스라엘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298971522)
 * (NOT YET) [썬킴의 세계사 완전 정복](https://www.hankyung.com/life/article/202208102679Y)
 * (NOT YET) [도조 히데키와 제2차 세계대전](https://www.hankyung.com/life/article/202208102679Y)
+* (NOT YET) [기차 시간표 전쟁](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299133830)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
