@@ -305,6 +305,7 @@ Book
 * (NOT YET) [진리는 바뀔 수도 있습니다](https://ibric.org/myboard/read.php?Board=thbksn&id=3621&Page=1&&skin=thbksn)
 * (NOT YET) 상대적이며 절대적인 지식의 백과사전 [잡다한 지식의 집합체 <상·절·지·백> 무엇이.. : 네이버블로그](https://blog.naver.com/openbooks21/222559484428)
   * 탐라 문868-베238ㅅ 한라 868-베297ㅅ우당 문868-베238ㅈ
+* (NOT YET) [십 대를 위한 정치 사전](https://www.hankyung.com/life/article/202208102679Y)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -633,6 +634,8 @@ Book
 * (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 * (NOT YET) [서학, 조선을 관통하다 - 위클리서울](http://www.weeklyseoul.net/news/articleView.html?idxno=69512)
 * (NOT YET) [인류 최초의 문명과 이스라엘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298971522)
+* (NOT YET) [썬킴의 세계사 완전 정복](https://www.hankyung.com/life/article/202208102679Y)
+* (NOT YET) [도조 히데키와 제2차 세계대전](https://www.hankyung.com/life/article/202208102679Y)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -985,3 +988,4 @@ Book
   * 한라 001.3-김14이 탐라 문001.3-김14ㅇ 우당 문001.3-김14ㅇ
 * (NOT YET) [랜선 인문학 여행](https://blog.naver.com/indiecat/222057447388)
   * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
+* (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
