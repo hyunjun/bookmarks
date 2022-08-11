@@ -2032,7 +2032,10 @@ Programming Books
   * [네이키드 애자일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/naked_agile.md)
   * [네이키드 애자일. 무엇보다 정답을 (제시할 수 없는 주제라는 걸 알고) 제시하지 않는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%84%A4%EC%9D%B4%ED%82%A4%EB%93%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-7347be4b1f71)
 * [초개인주의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293008123)
-  * ★★★★☆ 2022.06.19~22
+  * ★★★★★ 2022.06.19~22
+  * [초개인주의](https://github.com/hyunjun/bookmarks/blob/master/programming_books/overindivisualism.md)
+  * [초개인주의. 프롤로그 불안의 시대, 어떻게 생존하고 성장할 것인가? | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%B4%88%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98-3d743eb506f6)
+  * [초개인주의](https://jh4hj.tistory.com/entry/%EC%B4%88%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98)
 * [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280417087)
   * 탐라 문325.152-황72ㄷ
   * ★★★☆☆ 2022.08.07
