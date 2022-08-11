@@ -812,6 +812,7 @@ Go
 * [fastcache: Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead](https://github.com/VictoriaMetrics/fastcache)
 * [go-cache: A Go library to deal with multi-layered caching between in-memory cache and shared cache (i.e. Redis) by adopting Cache-Aside pattern.](https://github.com/viney-shih/go-cache)
 * [Groupcache | How to cache and fill cache with Golang](https://morioh.com/p/371b25a11c35)
+* [kvass: a personal key-value store](https://github.com/maxmunzel/kvass)
 
 ## Library CLI command line interface
 * [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
