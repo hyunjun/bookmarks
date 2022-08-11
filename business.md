@@ -821,7 +821,6 @@ Business
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
 * [직장에서 인정받는 언어습관 6가지..효과적인 커뮤니케이션 노하우](http://bonlivre.tistory.com/575)
 * [회사에서 인정받는 언어 생활](https://brunch.co.kr/@lunarshore/364)
-* [상대방을 설득하고 싶다면 마음부터 알아야](http://outstanding.kr/%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%84%A4%EB%93%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EB%A7%88%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC/)
 * [FBI의 '호감 가는 사람이 되는 법'](http://live.media.daum.net/ttimes/ttimes_1509101123)
 * [직장인에게 필요한 능력 – 생각 말하기 (1)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-1/)
 * [직장인에게 필요한 능력 – 생각 말하기 (2)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-2/)
@@ -855,6 +854,7 @@ Business
 * [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/217174)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 : 네이버블로그](https://blog.naver.com/wishket/221881394270)
+* [상대방을 설득하고 싶다면 마음부터 알아야](http://outstanding.kr/%EC%83%81%EB%8C%80%EB%B0%A9%EC%9D%84-%EC%84%A4%EB%93%9D%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EB%A7%88%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%95%8C%EC%95%84%EC%95%BC/)
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 * [성장하는 사람의 큰 특징: 설득의 자세 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213121)
@@ -863,6 +863,9 @@ Business
 * [전략 상대를 설득하는 4가지 방법](http://moneyman.kr/archives/13430)
 * [Hello Guru '변화경영의 대가' 설득에 심취한 이유는?](https://news.v.daum.net/v/20110114153928553)
   * [buy in, 동의와 지지 얻어내기](https://gist.github.com/hyunjun/393e0e8e8f20af27a27b898c82b3951c#file-buy_in-md)
+* [설득을 잘하면 협상도 잘 될까?](https://www.venturesquare.net/849479)
+* [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
+* [전략 감정을 공략하는 4가지 기술](http://moneyman.kr/archives/3569) 설득
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [화상회의, 카메라를 켜야할까? | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/524/page/1)
@@ -877,7 +880,6 @@ Business
 * [누구나 쏙쏙 이해하도록 말하는 방법 – 체인지그라운드](http://thechangeground.com/archives/21634)
 * [타협하지 않고 이기는 3가지 방법](http://moneyman.kr/archives/3531)
 * [사소할수록 타협하지 마라](http://moneyman.kr/archives/9734)
-* [설득을 잘하면 협상도 잘 될까?](https://www.venturesquare.net/849479)
 * [전략 원하는 게 있다면 먼저 줘라](http://moneyman.kr/archives/1978)
 * [최악의 직원을 180도 바꾼 방법 – 체인지그라운드](http://thechangeground.com/archives/30561) yes/no list
 * [말의 힘](https://www.thestartupbible.com/2022/03/power-of-speech.html)
@@ -896,7 +898,6 @@ Business
 * [대화를 지배하는 건 내용이 아닌 말투다 :: ㅇㅎ!](https://www.aha-contents.com/180)
 * [대화 잘하는 사람의 5가지 특징](http://moneyman.kr/archives/3448)
 * [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
-* [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
 * [유치원생도 이해하는 커뮤니케이션 노하우 - Kyuhan Nam Universe](https://www.morethanair.com/103554/)
 * [Can You Read People's Emotions? - The New York Times](https://archive.nytimes.com/well.blogs.nytimes.com/2013/10/03/well-quiz-the-mind-behind-the-eyes/)
 
@@ -986,6 +987,7 @@ Business
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859)
 * [의사결정을 잘하는 사람의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255881)
 * ['잘못된 비즈니스 결정'이 또 다른 '내부자 위협'이 된 사례 - ITWorld Korea](https://www.itworld.co.kr/news/231314)
+* [의사 결정과 데이터](https://www.facebook.com/keeyong.han/posts/pfbid0RmmCCdrTqqQuSGaTbsJUXQztNFpYSQ9NzNZXQpwpW3KeW26jGKjMzPdZ4AY1WLHrl)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -1775,6 +1777,8 @@ Business
     * 제품이 아주 느리게 개선
 * [유니콘이 된 스타트업들의 Go to Market 전략 12가지](https://www.fall-moon.com/64?category=935177)
 * [소노스 CEO가 블랙베리 실패에서 배운 4가지 교훈 - 티타임즈](https://www.ttimes.co.kr/article/2022080818247772113) 안전지대
+* [비키, 빙글, 더벤처스 그리고 캔 문지원·호창성 부부의 창업기 - 티타임즈](https://www.ttimes.co.kr/article/2022080817567789392)
+* [호창성‧문지원 부부의 15년 커뮤니티 비즈니스 노하우 - 티타임즈](https://www.ttimes.co.kr/article/2022081017327720594)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
