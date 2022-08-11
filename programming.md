@@ -1896,6 +1896,8 @@ Programming
 * [**마이크로서비스 아키텍처를 구성하는 핵심 요소 8가지 | 무조건 MSA가 정답일까? — 시행착오를 줄이는 방법 | 진태양**](https://dataportal.kr/81)
 * [디지털 혁신의 엔진-마이크로서비스 유형과 특징](https://brunch.co.kr/@ywkim36/85)
 * [마이크로서비스 아키텍처(MSA) 패턴의 이해 - NGINX STORE](https://nginxstore.com/blog/microservices/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98msa-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4/)
+* [마이크로서비스 아키텍처로의 전환 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/how-coupang-built-a-microservice-architecture-fd584fff7f2b)
+* [마이크로서비스 아키텍처 환경에서 플랫폼 서비스 개발하기 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/@coupang-engineering-kr/integrating-platform-services-to-a-microservice-architecture-6f19f7816e15)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
