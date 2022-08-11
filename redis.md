@@ -132,6 +132,7 @@ Redis
 * [우아한테크세미나 191121 우아한레디스 by 강대명님 - YouTube](https://www.youtube.com/watch?v=mPB2CZiAkKM)
 * [Redis 야무지게 사용하기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/16)
 * [Render Redis | Render · Cloud Hosting for Developers](https://render.com/blog/redis)
+* [Alex Xu on Twitter: "1. How do we build a simple 𝐜𝐡𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 using 𝐑𝐞𝐝𝐢𝐬? The diagram below shows how we can leverage the pub-sub functionality of Redis to develop a chat application. https://t.co/4w7aFPrNvg" / Twitter](https://twitter.com/alexxubyte/status/1555210693921542144)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -176,7 +177,6 @@ Redis
 # ElasticCache
 * [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
 * [ElastiCache Redis - Parameter Group 설정 변경](https://jybaek.tistory.com/930)
-* [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
 * [환상(장)의 (ElastiCache + Spring Session + Spring Security) Memory Leak](https://velog.io/@betalabs/%ED%99%98%EC%83%81%EC%9D%98-%EC%A1%B0%ED%95%A9ElastiCache-Spring-Session-Spring-Security-Memory-Leak)
   * Spring Session, Spring Security, ElastiCache를 쓰면서 Redis의 메모리 릭을 경험하고 이를 해결하는 과정
   * 메모리 릭을 경험하고 Redis의 SET이나 Pub/Sub을 의심했지만, 이 문제는 아니었고 사용자가 많은 시간대에 패턴이 달라지는 것을 보고 세션 클러스터링을 의심하기 시작
