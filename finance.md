@@ -164,6 +164,7 @@ Finance
 * [2015년 2분기 국내외 핀테크 지표 동향 분석](http://verticalplatform.kr/archives/5337)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
+* [삼성페이를 도입하는 카드사의 속사정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1638/)
 * [Column — The developer infrastructure bank](https://column.com/)
   * [Column - 개발자를 위한 은행 | GeekNews](https://news.hada.io/topic?id=6419)
 
