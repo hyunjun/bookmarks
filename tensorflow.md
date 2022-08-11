@@ -1341,3 +1341,4 @@ TensorFlow
 * [꿀벌개발일지 :: DeepLearning.AI TensorFlow Developer 노트](https://ohgyun.com/799)
 * [7 Best Free Tensorflow Courses You Must Know in 2021](https://www.mltut.com/best-free-tensorflow-courses/)
 * [Best TensorFlow Courses from World-Class Educators](https://kanger.dev/tensorflow-courses)
+* [Tensorflow (python) - 생활코딩](https://opentutorials.org/course/4570)
