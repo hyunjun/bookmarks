@@ -47,6 +47,7 @@
 * [웨비나 다시보기 Android Privacy Sandbox: 구글 광고 아이디도 이젠 끝난 건가요?](https://www2.branch.io/WBN-2022-Q10221-APAC_Korea-Android_Privacy_Sandbox_LP-Thank-You-OnDemand.html)
 * [매출 82%를 광고로 만드는 구글, 사용자 정보 보호를 강화하다 – 컨버젼 by 리메이크](https://convrsion.co/2022/03/06/%eb%a7%a4%ec%b6%9c-82%eb%a5%bc-%ea%b4%91%ea%b3%a0%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-%ea%b5%ac%ea%b8%80-%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%a5%bc-%ea%b0%95%ed%99%94/)
 * [AdMob 광고 중단 제재를 당했다가 해결까지의 과정 (무효 트래픽과 트래픽 품질) : 네이버 블로그](https://m.blog.naver.com/sorang226/222732936139)
+* [구글, 타사 쿠키 제거를 2024년으로 연기 | GeekNews](https://news.hada.io/topic?id=7116)
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
