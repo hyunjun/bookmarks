@@ -429,6 +429,7 @@ Programming
   * DevRel의 활동은 커뮤니티, 컨텐츠, 제품 3가지 타입으로 구분되므로 DevRel로 취직하기 위해서는 코딩, 커뮤니티 구축, 컨텐츠 제작의 기술을 보여줄 수 있어야 함
   * DevRel에게 가장 어려운 건 개발자의 관심을 받는 것인데 이를 위한 조언도 정리
 * [우리는 이 모든 것을 DevRel이라고 부르기로 했어요](https://brunch.co.kr/@moon-sky/20)
+* [1년 만에 돌아왔습니다. DevRel 담당자들의 근황! | 4구 멀티탭⚡️ - YouTube](https://www.youtube.com/watch?v=Hx90j4cP5o0)
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
   * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
   * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
