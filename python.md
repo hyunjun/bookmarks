@@ -2779,6 +2779,7 @@ Python
 * [Which GUI Framework is the best for Python coders?](https://www.activestate.com/blog/top-10-python-gui-frameworks-compared/)
 * [Introduction to Python GUI Development with Delphi for Python - Part 1: Delphi VCL for Python - YouTube](https://www.youtube.com/watch?v=m0r80fxZWPI)
   * [Introduction to Python GUI Development with Delphi for Python (VCL & FMX)](https://blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx/)
+* [Python Desktop GUI App with SQLite DB (PyQt/PySide/Qt Designer) - YouTube](https://www.youtube.com/watch?v=X8fY8uFgzb4)
 * [Dear PyGUI API Docs](https://hoffstadt.github.io/DearPyGui/)
   * [Create a Python App with Dear PyGui - Graphic User Interface - YouTube](https://www.youtube.com/watch?v=2RocXKPPx4o)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
