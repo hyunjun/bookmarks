@@ -220,8 +220,6 @@ AWS
   * [Part 3 Direct Connect 구성 절차](http://zigispace.net/1006)
 * [아마존 라이트세일 서버 리전 이동하기 – AWS Lightsail 워드프레스를 서울 서버로 복사 후 옮기기, 업그레이드 방법](https://swiftcoding.org/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%B8%EC%9D%BC-%EC%84%9C%EB%B2%84%EC%9D%B4%EC%A0%84-transfer)
 * [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)
-* [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
-* [AWS 관리형 데이터베이스 서비스 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/exploring-data-transfer-costs-for-aws-managed-databases/)
 * [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
 * [Amazon Lightsail 시작해보기](https://jojoldu.tistory.com/512)
 * [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
@@ -451,18 +449,8 @@ AWS
 * [AWS Graviton Fast Start – 그라비톤 기반 완전 관리 서비스 이전 지원 프로그램 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
-* [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
-* [AWS Inferentia 를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
-* [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
-* [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
-  * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
-  * 보통 가장 많이 나오는 EC2, RDS, CloudWatch, S3, DynamoDB 등을 살펴보고
-    * Reserved Instance와 Savings Plan을 분기별로 나누어 구매해서 약정해도 유연함을 가지도록 관리하고
-    * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
-  * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
-* [FinOps](https://github.com/newstars/FinOps)
-* [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
+* [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -698,6 +686,21 @@ AWS
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS 블록 스토리지 개요와 비용](https://andromedarabbit.net/aws-%EB%B8%94%EB%A1%9D-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B0%9C%EC%9A%94%EC%99%80-%EB%B9%84%EC%9A%A9/)
 * [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
+* [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
+* [AWS 관리형 데이터베이스 서비스 전송 비용 알아보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/exploring-data-transfer-costs-for-aws-managed-databases/)
+* [회사에 매달 청구되는 aws 비용을 1,000 달러이상 절감했던 이야기](https://kim-jong-hyun.tistory.com/133)
+* [AWS Inferentia 를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
+* [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
+* [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
+  * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
+  * 보통 가장 많이 나오는 EC2, RDS, CloudWatch, S3, DynamoDB 등을 살펴보고
+    * Reserved Instance와 Savings Plan을 분기별로 나누어 구매해서 약정해도 유연함을 가지도록 관리하고
+    * CUR(Cost and Usage Reports)를 이용해서 최근 6개월의 최솟값으로 안정적으로 구매
+  * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
+* [FinOps](https://github.com/newstars/FinOps)
+* [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
+* [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
+  * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
   * [AWS에서 아주 저렴하게 온디맨드 Minecraft 서버 운영하기 | GeekNews](https://news.hada.io/topic?id=4978)
 
