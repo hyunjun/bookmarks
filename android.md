@@ -77,6 +77,9 @@ Android
 * [안드로이드에서 클린 아키텍처 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/04/12/Android-CleanArchitecture.html)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Google Developers Korea Blog: 새롭게 개정된 앱 아키텍처 가이드를 확인해보세요](https://developers-kr.googleblog.com/2022/02/rebuilding-our-guide-to-app-architecture.html)
+* [쿠팡 안드로이드 아키텍처 — Part 1. 관심사의 분리 (Separation of Concerns, SoC) | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Aug, 2022 | Medium](https://medium.com/coupang-engineering/concerned-separate-the-concerns-7f5e1e39ce8)
+* [쿠팡 안드로이드 아키텍처 — Part 2. 앱의 모듈화 | by 쿠팡 엔지니어링 | Aug, 2022 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/the-android-app-modularization-5044010198ef)
+* [쿠팡 안드로이드 아키텍처 — Part 3. 리패키징을 통한 의존성 제거 | by 쿠팡 엔지니어링 | Aug, 2022 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/packaging-by-feature-for-loose-coupling-63cada079480)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * [TensorFlow Lite로 Android에서 실시간으로 사람의 포즈 추적해보세요](https://developers-kr.googleblog.com/2019/08/track-human-poses-in-real-time-on-android-with-tensorflow-lite.html)
 * Mastering the World of Android Testing
