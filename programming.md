@@ -389,6 +389,7 @@ Programming
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자)](http://woowabros.github.io/experience/2018/11/29/pilot-project-minzy.html)
 * [How to Organize Software Development In a Super-Efficient Way: Three Practical Tips](https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0)
 * [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
+* [소소하지만 확실한 공부 방법, ‘수파리 공부법’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/243852)
 * [프로그래머를 위한 공부론.pdf](http://databaser.net/moniwiki/pds/Programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B3%B5%EB%B6%80%EB%A1%A0.pdf)
 * [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/)
 * [Why Tacit Knowledge is More Important Than Deliberate Practice - Commonplace - The Commoncog Blog](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
@@ -838,6 +839,7 @@ Programming
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 * [EP02: Basics of API, Authorization, Authentication and integration - YouTube](https://www.youtube.com/watch?v=JLKIRBkG1N4)
 * [‘비즈니스 의제로 부상한 API 관리’··· 추천 도구 15선 - CIO Korea](https://www.ciokorea.com/news/219179)
+* [경험 경제 시대, ‘API 설계’가 핵심 경쟁우위인 이유 - CIO Korea](https://www.ciokorea.com/news/247390)
 * [**Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/)
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 :: Channy's Blog](http://channy.creation.net/blog/1514)
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | GeekNews](https://news.hada.io/topic?id=5823)
@@ -887,6 +889,7 @@ Programming
     * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
   * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
   * [API Improvement Proposals](https://google.aip.dev/)
+* [Handshake](https://handshake.org/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
 * Microsoft
@@ -1191,7 +1194,6 @@ Programming
   * [Don’t stop your migration! | InfoWorld](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html)
 * [LINE 앱의 다자간 대화 기능 통합 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-group-talk/) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
-* [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://brunch.co.kr/@graypool/231)
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
@@ -1208,6 +1210,7 @@ Programming
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
+* [리팩토링을 내장할 수 있다면?](https://brunch.co.kr/@graypool/534) 좋은 코드 = 수정하기 쉬운 코드
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
 * [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
 * [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
@@ -1269,6 +1272,7 @@ Programming
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
 * [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
   * [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
+* [Application Architecture: A Quick Guide for Startups](https://www.cockroachlabs.com/blog/startup-reference-architecture/)
 * [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [How image search works at Dropbox - Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
@@ -2949,6 +2953,7 @@ Programming
 * [스타트업이 해킹사고를 당하는 이유 | Disquiet\*](https://disquiet.io/@wonderz/makerlog/849)
 * [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
 * [GCP 보안 운영 시리즈  제로 트러스트 기반 보안 운영 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/identity-security/google-cloud-security-based-on-zerotrust)
+* [애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성 | GeekNews](https://news.hada.io/topic?id=7153)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
@@ -2968,6 +2973,8 @@ Programming
     * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [GDPR For Developers By Example | Blether](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
+  * [예제로 배우는 GDPR - 개발자용 | GeekNews](https://news.hada.io/topic?id=7117)
 * [GnuPG 사용법 - 기계인간 John Grib](https://johngrib.github.io/wiki/gpg/)
 * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
