@@ -949,6 +949,7 @@ Web
 * [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 * [PWA가 뭔가요? (+모바일 앱의 종류) - YouTube](https://www.youtube.com/watch?v=NMdnzvPsGu8)
 * [Build a Full Stack PWA App With Spring Boot (Step By Step Tutorial) - YouTube](https://www.youtube.com/watch?v=Lym-bvv_2sI)
+* [How to Build a Progressive Web App (PWA) with Create React App | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-progressive-web-app-pwa-with-create-react-app-acfd176c2876)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
