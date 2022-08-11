@@ -81,10 +81,12 @@ Docker
 * [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [Docker Tutorial For Beginners | Introduction To Docker | Invensis Learning - YouTube](https://www.youtube.com/watch?v=7vriS2zd0lM)
-* [Docker Tutorial For Beginners - How To Containerize Python Applications with terraform - YouTube](https://www.youtube.com/watch?v=CMyTMfSwb_c)
 * [Docker Tutorial for Beginners Part-I - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)
 * [Docker Tutorial for Beginners with practice lab 😱 | Run Jenkins in Docker Container | Docker basics😱 - YouTube](https://www.youtube.com/watch?v=Y_1mIttlabk)
 * [DevOps Training Course and Tutorials - Beginner - ScanSkill](https://scanskill.com/course/devops-training-course-and-tutorials-beginner/)
+* [Docker Tutorial For Beginners - How To Containerize Python Applications with terraform - YouTube](https://www.youtube.com/watch?v=CMyTMfSwb_c)
+* [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
+* [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=QLENvSMSD-0)
 * [Docker for Beginner - YouTube](https://www.youtube.com/playlist?list=PL7yCeT0QPg1_t_vIsDGST88jjEwAu51_1)
 * [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
@@ -134,7 +136,6 @@ Docker
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
-* [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Top 8 Docker Best Practices for using Docker in Production - YouTube](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
 * [Top 5 Docker Best Practices - DEV Community](https://dev.to/karanpratapsingh/top-5-docker-best-practices-57oh)
 * [Local Docker Best Practices | Viget](https://www.viget.com/articles/local-docker-best-practices/)
@@ -619,6 +620,7 @@ Docker
   * 백엔드는 컨테이너 안에서 실행되므로 어떤 언어든 가능
   * docker extension init 명령어로 프로젝트 초기 구성 가능, 로컬 설치, 디버깅 가능, 개발 완료시 마켓 플레이스 등록 가능
 * [How Docker Container Works?](https://www.decipherzone.com/blog-detail/how-docker-works)
+* [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -885,6 +887,7 @@ Docker
 * [Kubernetes 101 - Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters)
 * [Hands on Kubernetes Part I - YouTube](https://www.youtube.com/watch?v=BqaQfYLSDAk)
 * [Containers vs. Pods - Taking a Deeper Look - Ivan Velichko](https://iximiuz.com/en/posts/containers-vs-pods/)
+* [Ivan Velichko on Twitter: "Containers vs Pods 🧵 A "container" is an isolated and restricted execution environment, typically optimized to run just one service. Being fully isolated from neighbors may feel good, but only at first. What if you need a few _supporting_ services around? Pods to the rescue! https://t.co/QEVdvqB01h" / Twitter](https://twitter.com/iximiuz/status/1551964110295912448)
 * [Let's Learn Kubernetes - Basics - 1 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7)
 * [Let's Learn Kubernetes - Basics - 2 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-2-2a9a)
 * [Let's Learn Kubernetes - Basics - 3 - DEV Community](https://dev.to/pghildiyal/lets-learn-kubernetes-basics-3-4lm)
@@ -1435,8 +1438,10 @@ Docker
 * [About - Kubernetes](https://kubernetes.youngwjung.com/)
 * [Real time issue in Kubernetes | how do we restore tomcat application in Kubernetes #aks #kubernetes - YouTube](https://www.youtube.com/watch?v=FK2ljTJlIsE)
 * [Kubernetes ImagePullBackOff: Live Troubleshooting with Examples | Kubernetes - YouTube](https://www.youtube.com/watch?v=MVDwuOR3Z_c)
+* [Kubernetes CrashLoopBackOff – Live Troubleshoot with Examples | Kubernetes Practice - YouTube](https://www.youtube.com/watch?v=ALAMyiQNOcw)
 * [Expedite Infrastructure Investigations With Kubernetes Anomalies | Datadog](https://www.datadoghq.com/blog/monitor-kubernetes-anomalies/)
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
+* [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1530,6 +1535,8 @@ Docker
   * [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator](https://www.infoq.com/news/2020/01/falco-security-cncf/)
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
+* [fluent-operator: Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator](https://github.com/fluent/fluent-operator)
+  * [로그수집기 fluentbit in TACO LMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164136)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
 * [Flux](https://fluxcd.io/)
   * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
