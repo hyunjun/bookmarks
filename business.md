@@ -1138,6 +1138,7 @@ Business
 * [신수정의 리더십 코칭 ⑨ 전문가는 자신이 움직이고 리더는 타인을 움직인다 - T Times](http://www.ttimes.co.kr/view.html?no=2020040814187746617)
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
+* [개발자를 코칭하며 배운 7 가지 | Popit](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%BD%94%EC%B9%AD%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-7-%EA%B0%80%EC%A7%80)
 * [좋은 멘토의 3가지 기준](http://moneyman.kr/archives/4003) 구체적인 숫자, 편안함 + 약간의 불편함, 자극과 휴식
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
