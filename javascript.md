@@ -1109,6 +1109,9 @@ Javascript
 * [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
 * [Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers - YouTube](https://www.youtube.com/watch?v=SLHcfmZ6m14)
 * [Why I avoid async/await. Whatever your stance on async/await… | by Cory | Mar, 2022 | Medium](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
+* [Node.js await vs return vs return await: 비동기 이해하기](https://ooeunz.tistory.com/47)
+* [1. 낡은 코드를 뜯어고쳐봅시다](https://velog.io/@phw3071/%EB%82%A1%EC%9D%80-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%98%EA%B8%B0-1)
+* [2. 화살표 비동기 익명 꼬리 재귀 즉시 실행 함수 표현식을 만들어보자](https://velog.io/@phw3071/2-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9D%B5%EB%AA%85-%EA%BC%AC%EB%A6%AC-%EC%9E%AC%EA%B7%80-%EC%A6%89%EC%8B%9C-%EC%8B%A4%ED%96%89-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
