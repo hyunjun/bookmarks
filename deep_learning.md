@@ -953,6 +953,7 @@ Deep Learning
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+  * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [CS 221: 인공지능 (봄 2019), CS 229: 기계 학습 (가을 2018), CS 230: 딥 러닝 (겨울 2019)](https://stanford.edu/~shervine/l/ko/)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
@@ -964,9 +965,7 @@ Deep Learning
 * [CS W182 / 282A](https://cs182sp21.github.io/)
   * [Deep Learning: CS 182 Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
   * [CS W182 / 282A at UC Berkeley Designing, Visualizing and Understanding Deep Neural Networks - Deep Learnings - 2021 - YouTube](https://www.youtube.com/playlist?list=PLuv1FSpHurUevSXe_k0S7Onh6ruL-_NNh)
-* [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
-* [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-  * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
+* [Deep Learning Roadmap for Mechanical Engineering Students - KAsimov Wiki](https://kasimov.korea.ac.kr/dokuwiki/doku.php/activity/public/reference/how_we_study_deep_learning)
 * [**Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers**](http://d2l.ai/)
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
@@ -999,6 +998,7 @@ Deep Learning
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
 * [DS-GA 1008 · 2020 봄 · NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/ko/) 한글
 * [**edwith.org/deeplearningchoi**](http://www.edwith.org/deeplearningchoi/)
+* [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
   * [Practical Deep Learning for Coders - Practical Deep Learning](https://course.fast.ai/)
   * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
