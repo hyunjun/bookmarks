@@ -727,6 +727,7 @@ Deep Learning
 * [2022-1-deep-learning-applications](https://github.com/sjchoi86/2022-1-deep-learning-applications)
 * [딥러닝은 어떻게 동작할까? 현재 어디까지 왔고, 미래는 어떻게 될까?](https://engineering.linecorp.com/ko/blog/how-deep-learning-works-and-how-far-we-now)
 * [1. 딥러닝이란 무엇인가? | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/1-%eb%94%a5%eb%9f%ac%eb%8b%9d%ec%9d%b4%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80/)
+* [How “Deep Learning” Will Radically Change Our Lives | by Upen Singh | DataDrivenInvestor](https://medium.datadriveninvestor.com/how-deep-learning-will-radically-change-our-lives-8b0f251e0f54)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
