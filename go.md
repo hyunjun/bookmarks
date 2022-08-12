@@ -371,6 +371,7 @@ Go
   * [Golang ORM, 무엇이 좋을까? · Billo Park](https://blog.billo.io/devposts/go_orm_recommandation/)
   * [Golang xORM 편리한 기능 소개 | Popit](https://www.popit.kr/golang-xorm-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C/)
   * [Go nulls and SQL](https://ente.io/blog/tech/go-nulls-and-sql/)
+  * [How to Work With SQL Database In Golang (Fetch, Insert & Paginate Records)](https://morioh.com/p/22a5245f4321)
   * [ent. An entity framework for Go](https://entgo.io/) ORM
     * [ent: An entity framework for Go](https://github.com/ent/ent)
   * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
