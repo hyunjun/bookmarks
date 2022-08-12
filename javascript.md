@@ -3754,6 +3754,7 @@ Javascript
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
 * [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
+* [7 Best Ways to Create a New React Application | Bits and Pieces](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4194,6 +4195,7 @@ Javascript
   * [Next.js E-Commerce for Developers: Quick Shopping Cart Integration](https://morioh.com/p/fc9738434429)
   * [How to Upload Files with React and Next.js API Routes](https://morioh.com/p/c7ad109c8fd4)
   * [How to Create Server Side Rendered React application using Next.js](https://morioh.com/p/36082354b43b?f=5cb7d89d660c8335951ca454)
+  * [Next.js Cheat Sheet | Page Rendering with Next.js](https://morioh.com/p/181b91576ba8)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
