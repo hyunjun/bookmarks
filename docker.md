@@ -621,6 +621,7 @@ Docker
   * docker extension init 명령어로 프로젝트 초기 구성 가능, 로컬 설치, 디버깅 가능, 개발 완료시 마켓 플레이스 등록 가능
 * [How Docker Container Works?](https://www.decipherzone.com/blog-detail/how-docker-works)
 * [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
+* [How to increase UDP buffer size on Docker Desktop | by h0n9 | Aug, 2022 | Medium](https://h0n9.medium.com/how-to-increase-udp-buffer-size-on-docker-desktop-b28d02d656e1)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
