@@ -4168,6 +4168,7 @@ Javascript
   * [Next.js - React, Express.js 그리고 SSR을 한방에 - YouTube](https://www.youtube.com/watch?v=ECMB4kUCKWQ)
   * [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기 - YouTube](https://www.youtube.com/watch?v=IKyA8BKxpXc)
   * [SSR은 풀스택이 아니다](https://velog.io/@composite/SSR%EC%9D%80-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
+  * [How to Disable SSR for a Next.js Page](https://morioh.com/p/177629e93bb3)
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
