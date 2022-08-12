@@ -1109,6 +1109,9 @@ Javascript
 * [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
 * [Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers - YouTube](https://www.youtube.com/watch?v=SLHcfmZ6m14)
 * [Why I avoid async/await. Whatever your stance on async/await… | by Cory | Mar, 2022 | Medium](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
+* [Node.js await vs return vs return await: 비동기 이해하기](https://ooeunz.tistory.com/47)
+* [1. 낡은 코드를 뜯어고쳐봅시다](https://velog.io/@phw3071/%EB%82%A1%EC%9D%80-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%98%EA%B8%B0-1)
+* [2. 화살표 비동기 익명 꼬리 재귀 즉시 실행 함수 표현식을 만들어보자](https://velog.io/@phw3071/2-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9D%B5%EB%AA%85-%EA%BC%AC%EB%A6%AC-%EC%9E%AC%EA%B7%80-%EC%A6%89%EC%8B%9C-%EC%8B%A4%ED%96%89-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -1712,8 +1715,6 @@ Javascript
   * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
-* [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
-  * [**streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현**](https://d2.naver.com/helloworld/9423440)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
@@ -2425,6 +2426,11 @@ Javascript
     * 원격 모듈은 다른 도메인에서 가져올 수 있고 별도로 빌드 가능하나 모듈의 타입을 알기가 어렵고 `remoteEntry.js`의 경로 관리 불편
   * [webpack.kr](https://webpack.kr/)
 
+## Library excel xlsx
+* [10 Best Node.js XLSX Builder Libraries in 2022 | Openbase](https://openbase.com/categories/js/best-nodejs-xlsx-builder-libraries)
+* [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
+  * [**streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현**](https://d2.naver.com/helloworld/9423440)
+
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
 * [자동완성, 힌트, 오류 확인되는 국제화 개발 환경 만든 이야기](https://www.notion.so/24434e28291049359918441c582ac4bb)
@@ -2742,6 +2748,7 @@ Javascript
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
   * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
+* [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3738,6 +3745,7 @@ Javascript
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
+* [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4166,6 +4174,7 @@ Javascript
   * [Next.js - React, Express.js 그리고 SSR을 한방에 - YouTube](https://www.youtube.com/watch?v=ECMB4kUCKWQ)
   * [토스ㅣSLASH 22 - 잃어버린 유저의 시간을 찾아서 : 100년을 아껴준 SSR 이야기 - YouTube](https://www.youtube.com/watch?v=IKyA8BKxpXc)
   * [SSR은 풀스택이 아니다](https://velog.io/@composite/SSR%EC%9D%80-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
+  * [How to Disable SSR for a Next.js Page](https://morioh.com/p/177629e93bb3)
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
@@ -4176,6 +4185,7 @@ Javascript
   * [Next.js에서 서버로 인증하는 방법 - Byeongjin Jason Kang](https://jasonkang14.github.io/nextjs/authenticate-with-next-auth)
   * [Next.js E-Commerce for Developers: Quick Shopping Cart Integration](https://morioh.com/p/fc9738434429)
   * [How to Upload Files with React and Next.js API Routes](https://morioh.com/p/c7ad109c8fd4)
+  * [How to Create Server Side Rendered React application using Next.js](https://morioh.com/p/36082354b43b?f=5cb7d89d660c8335951ca454)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)

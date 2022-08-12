@@ -759,6 +759,7 @@ Programming
 * [강남언니가 극도로 애자일하게 협업하는 방법](https://blog.gangnamunni.com/post/radical-collaboration/)
 * [Software development: do good manners matter? PeerJ](https://peerj.com/articles/cs-73/) This paper investigates social aspects among developers working on software projects developed with the support of Agile tools
 * [Agile QA Build Quality In (public ver).pptx - Google Slides](https://docs.google.com/presentation/d/1mY854UAFg6nJ9PIL4i5l0WLMSadc3Ec6/edit)
+* [애자일 관점에서 본 아마존의 개발 문화와 프로세스 - YouTube](https://www.youtube.com/watch?v=NkiHu9zGYKU)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -1495,6 +1496,7 @@ Programming
 * [아키텍처는 의사소통에 관한 문제라서?](https://brunch.co.kr/@graypool/530)
 * [아주 이상적인 아키텍처](https://brunch.co.kr/@graypool/533)
 * [모델 저장소의 의미와 구현](https://brunch.co.kr/@graypool/535)
+* [Repository 빌딩 블록에 대해 생각해보기](https://brunch.co.kr/@graypool/537)
 * [도메인 모델링에서 맥락은 왜 필요한가?](https://brunch.co.kr/@graypool/538)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
@@ -2205,6 +2207,7 @@ Programming
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
   * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
+* [Cloud Champ - YouTube](https://www.youtube.com/channel/UCbg9O0JF3rVKev6wpI5_u5g)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [클라우드타입](https://cloudtype.io/)
   * [클라우드타입 | Disquiet\*](https://disquiet.io/product/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%83%80%EC%9E%85-1652628787292)
@@ -4705,6 +4708,7 @@ Programming
 * [데이터 기반의 의사결정, 실패하지 않는 프로덕트의 비밀 #핵클 | 원티드](https://www.wanted.co.kr/events/22_04_s06_b01)
 * [1주 1개 실험하는 프로덕트 팀이 되는 여정. 안녕하세요 당근마켓 중고거래팀에서 데이터 분석가로 일하고 있는… | by matthew l | 당근마켓 팀블로그 | Medium](https://medium.com/daangn/1%EC%A3%BC-1%EA%B0%9C-%EC%8B%A4%ED%97%98%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-b8a4c337a8e1)
 * [A/B 테스트 제대로 이해하기: ①테스트를 설계할 때 우리의 진짜 질문은? | 요즘IT](https://yozm.wishket.com/magazine/detail/1633/)
+* [직관만 믿고 까불었다가 망한 PM의 사연. 안녕하세요, 검색 프로덕트 매니저 Demi예요. | by 김단 Demi | 당근마켓 팀블로그 | Aug, 2022 | Medium](https://medium.com/daangn/%EC%A7%81%EA%B4%80%EB%A7%8C-%EB%AF%BF%EA%B3%A0-%EA%B9%8C%EB%B6%88%EC%97%88%EB%8B%A4%EA%B0%80-%EB%A7%9D%ED%95%9C-pm%EC%9D%98-%EC%82%AC%EC%97%B0-61946dc969eb)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform

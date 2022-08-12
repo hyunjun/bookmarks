@@ -1197,6 +1197,7 @@ AWS
 * [AWS Lambda Performance and Cost Optimization | by Ram Vadranam | Nov, 2021 | Medium](https://ramchandra-vadranam.medium.com/following-are-key-factors-affecting-the-performance-of-serverless-applications-8582b0a33e21)
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
+* [AWS Step Functions Workflows Collection을 활용하여 빠르게 비즈니스 워크플로 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-step-functions-workflows-collection/)
 * [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
 * [심의 프로세스 개선을 위한 Digital Tool 개발 :: GS Retail Engineering](https://gsretail.tistory.com/2)
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)

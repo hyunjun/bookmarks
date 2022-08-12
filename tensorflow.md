@@ -684,6 +684,7 @@ TensorFlow
 * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
 * [TensorFlow Serving의 혁신적인 기능들을 확인해 보세요](https://developers-kr.googleblog.com/2017/12/latest-innovations-in-tensorflow-serving.html)
 * [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
+* [Deploying 🤗 ViT on Kubernetes with TF Serving](https://huggingface.co/blog/deploy-tfserving-kubernetes)
 * [**Deploying Keras models using TensorFlow Serving and Flask**](https://yjucho1.github.io/tensorflow/tensorflow-serving)
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
