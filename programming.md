@@ -982,6 +982,9 @@ Programming
   * [MVC 패턴에서 Service Model의 역할](https://abn-abn.tistory.com/190)
   * [서비스(Service) 라고?](https://velog.io/@juunini/%EC%84%9C%EB%B9%84%EC%8A%A4Service%EB%9D%BC%EA%B3%A0)
   * [10 REASONS MVC FRAMEWORKS AREN'T DINOSAURS BUT SHARKS](https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks)
+* MVI
+  * [프론트엔드에서 MV\* 아키텍쳐란 무엇인가요?](https://velog.io/@teo/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-MV-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+  * [프론트엔드에서 비즈니스 로직과 뷰 로직 분리하기 (feat. MVI 아키텍쳐)](https://velog.io/@teo/MVI-Architecture)
 * MVP
   * [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
   * [MVP Library 소개](http://softwaree.tistory.com/10)
@@ -3157,6 +3160,7 @@ Programming
 * [5 Deployment Best Practices For DevOps | LetsTalkDevOps - YouTube](https://www.youtube.com/watch?v=Gl5Hp9SHvO4)
 * [Let's Talk DevOps | Project Setup | Colima & Docker | Akshay Pk in Tamil - YouTube](https://www.youtube.com/watch?v=qAPRWDB8o6g)
 * [Containerization In DevOps Explained | ReviewNPrep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
+* [Dev, SRE, Operations, DevOps - What’s the Difference?](https://www.bytebase.com/blog/dev-sre-ops-devops-difference)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
