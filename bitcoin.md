@@ -74,6 +74,7 @@ Bitcoin
 * [암호자산, '심판의 날'이 다가온다 < 경제 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1057) 읽으면서 CAP theorem이 연상됨
 * [**해킹당한 모든 브릿지들에게 - by MOYED - Why Matters**](https://whymatters.substack.com/p/--92a)
 * [가상자산 지갑 종류 알아보기 (크립토 월렛)](https://soccer-programming.tistory.com/52)
+* [블파스 Next Keyword? Soulbound Token | 신은옥 - YouTube](https://www.youtube.com/watch?v=7nmIU21B2f8)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
