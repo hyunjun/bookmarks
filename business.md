@@ -1315,6 +1315,7 @@ Business
 * [임원에게도, 팀원에게도 사랑받는 리더의 소통 법칙 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27530572)
 * [홍석환의 인사 잘하는 남자 직원을 성장시키는 리더의 특징 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202108089486Q)
 * [평사원 히라이 가즈오가 소니를 살린 비결 - 티타임즈](https://www.ttimes.co.kr/article/2022072118297793163)
+* [소니 부활시킨 히라이 가즈오의 리더십 - 티타임즈](https://www.ttimes.co.kr/article/2022081214477788449)
 * [AI시대, 리더에게 필요한 역량](https://www.carnegie.co.kr/forum/view/626528)
 * [게임 '문명'이 보여주는 보상 체계](https://brunch.co.kr/@drunkensky/298)
 * [대기업이 엔터사를 베껴야 하는 이유 (f. 형원준 대표) - 티타임즈](https://www.ttimes.co.kr/article/2022072518277769727)
