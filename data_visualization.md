@@ -151,6 +151,7 @@ Data Visualization
 * [Greylock Data Visualization Library](https://greylock.js.org/)
 * [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
+* [nivo](https://nivo.rocks/)
 * [plotly.js](https://plot.ly/javascript/)
   * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
 * [rawgraphs-app: A web interface to create custom vector-based visualizations on top of RAWGraphs core](https://github.com/rawgraphs/rawgraphs-app)
