@@ -1715,8 +1715,6 @@ Javascript
   * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
-* [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
-  * [**streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현**](https://d2.naver.com/helloworld/9423440)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
@@ -2427,6 +2425,11 @@ Javascript
     * 다른 웹에서 원격으로 모듈을 임포트해서 사용할 수 있는 Webpack Module Federation 동작 방식 설명
     * 원격 모듈은 다른 도메인에서 가져올 수 있고 별도로 빌드 가능하나 모듈의 타입을 알기가 어렵고 `remoteEntry.js`의 경로 관리 불편
   * [webpack.kr](https://webpack.kr/)
+
+## Library excel xlsx
+* [10 Best Node.js XLSX Builder Libraries in 2022 | Openbase](https://openbase.com/categories/js/best-nodejs-xlsx-builder-libraries)
+* [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
+  * [**streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현**](https://d2.naver.com/helloworld/9423440)
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
