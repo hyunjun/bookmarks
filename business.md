@@ -559,6 +559,7 @@ Business
 * [일의 매듭 짓기: 개발자의 ABC · Soojin Ro](https://soojin.ro/blog/abc-of-devs) Always Be Closing
 * [당신이 궁금해하는 ‘IT 아웃소싱 개발 생태계’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1612/)
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
+* ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
