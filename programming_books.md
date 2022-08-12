@@ -2522,6 +2522,7 @@ Programming Books
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
 * (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
   * 탐라
+  * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
