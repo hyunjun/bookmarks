@@ -1608,6 +1608,7 @@ Machine Learning
   * [How to Add a User Authentication Service (Login Form) in Streamlit + Database - YouTube](https://www.youtube.com/watch?v=eCbH2nPL9sU)
   * [Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn | Python Tutorial - YouTube](https://www.youtube.com/watch?v=Klqn--Mu2pE)
   * [Building A Simple SQL Playground App with Streamlit & Python - YouTube](https://www.youtube.com/watch?v=ns-Pd-1F4uU)
+  * [Building a Machine Learning API in 15 Minutes | Coding Challenge - YouTube](https://www.youtube.com/watch?v=C82lT9cWQiA)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
