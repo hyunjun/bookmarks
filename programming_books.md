@@ -605,6 +605,9 @@ Programming Books
 * (NOT YET) [모던 C 언어 프로그래밍 IDE, 디자인 패턴, XP, TDD, 리팩터링, 지속적인 통합](https://wikibook.co.kr/modern-c-programming/)
 * (NOT YET) [컴파일러 개발자가 들려주는 C 이야기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/07/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%93%A4%EB%A0%A4%EC%A3%BC%EB%8A%94-c-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
   * 탐라 문005.133-판223ㅋ
+* (NOT YET) [실전 대비 C 알고리즘 인터뷰](https://thebook.io/007031/)
+  * 우당 문005.1-자69ㅅ
+  * [007031: <실전대비 C 알고리즘 인터뷰> 소스 코드](https://github.com/gilbutITbook/007031)
 
 # C++
 
@@ -636,6 +639,16 @@ Programming Books
 * (NOT YET) [고성능을 위한 언어 C++ - 이론과 C++17, 메모리 관리, 동시성, STL 알고리즘 모범 사례](http://acornpub.co.kr/book/c-high-performance)
 * (NOT YET) [C++20: 풍부한 예제로 익히는 핵심 기능 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/10/c20-%ED%92%8D%EB%B6%80%ED%95%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5/)
   * [(번역서) C++20: 풍부한 예제로 익히는 핵심 기능 :: 류광의 번역 이야기](https://occamsrazr.net/book/Cpp20GetTheDetails)
+* (NOT YET) [모던 C++ 디자인 패턴](https://devjino.tistory.com/39)
+  * 우당 문005.133-네58ㅁ
+  * [design-patterns-in-modern-cpp: Source code for 'Design Patterns in Modern C++' by Dmitri Nesteruk](https://github.com/Apress/design-patterns-in-modern-cpp)
+  * [007028: <모던 C++ 디자인 패턴> 소스 코드](https://github.com/gilbutITbook/007028)
+  * Boost, C++ REST SDK, Google Test, Code Guideline Support Library
+* (NOT YET) [핵심 C++ 표준 라이브러리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=283821595)
+  * 우당 문005.133-그239ㅎ
+  * [080248: 핵심 C++ 표준 라이브러리, 2판](https://github.com/gilbutiTbook/080248)
+* (NOT YET) [C++20: 풍부한 예제로 익히는 핵심 기능 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/10/c20-%ED%92%8D%EB%B6%80%ED%95%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5/)
+  * 우당 문005.133-그239ㅆ
 
 # C#
 
@@ -1426,6 +1439,7 @@ Programming Books
   * [source code](https://www.manning.com/downloads/2263)
   * [Grokking Simplicity - A book on Functional Programming](https://grokkingsimplicity.com/)
   * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+  * [다시 쓰는 함수형 프로그래밍](https://velog.io/@teo/functional-programming)
 
 # Game
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
@@ -2685,6 +2699,10 @@ Programming Books
 * (NOT YET) [Akka 쿡북 다양한 레시피로 아카를 쉽게 배워보기](http://acornpub.co.kr/book/akka-cookbook)
 * (NOT YET) [아카를 이용한 마이크로서비스 개발 예제 애플리케이션 구축과 함께하는 아카 이해하기](http://acornpub.co.kr/book/mastering-akka)
   * 한라
+
+# Scratch
+* (NOT YET) [스크래치 주니어로 시작하는 우리 아이 첫코딩 with QR코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286365231)
+  * 한라 005.1-김14ㅅ 탐라 문005.1-김14ㅅ 우당 아005.1-김14ㅅ
 
 # Software engineering
 * [구글 엔지니어는 이렇게 일한다](https://www.hanbit.co.kr/store/books/look.php?p_code=B1207366943)
