@@ -218,6 +218,13 @@ Book
   * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://github.com/hyunjun/bookmarks/blob/master/books/starbucks.md)
   * [스타벅스 커피 스타벅스 은행 스타벅스 코인. 디자인을 하는 과정에서 거치는 생각 방식인 디자인씽킹 Design… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8-7cb23cee950)
   * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8)
+* [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
+  * ★★★☆☆ 2022.08.13
+  * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
+  * [서울대 공대 교수 25명의 성찰 메시지. 위기의 시대, 'NEW 메이드 인 코리아를 위하여' ｜축적의 시간 2부작 ① 착각의 시간 (KBS 20170304 방송) - YouTube](https://www.youtube.com/watch?v=8MugD6Cwhl8)
+    * 시행착오의 총량, 실수없이/벤치마킹/단기 성과주의 실행역량의 시대, know how/know why
+  * [백지 위에 그림을 그리듯 '세상에 없던 새로운 것을 만들어내는 힘' ｜축적의 시간 2부작 ② 축적에서 길을 찾다 (KBS 20170305 방송) - YouTube](https://www.youtube.com/watch?v=YsI8GLLx0Ng)
+    * 개념설계, 경험지식, 시행착오 경험의 축적, 인재육성, 혁신은 축적의 결과
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -275,18 +282,14 @@ Book
   * 한라 918.63-산27ㅁ 탐라 문918.63-산228ㅁ 우당 문918.63-산228ㅁ
 * (NOT YET) [말, 바퀴, 언어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63822545)
   * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
-* (NOT YET) [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
-  * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
-  * [서울대 공대 교수 25명의 성찰 메시지. 위기의 시대, 'NEW 메이드 인 코리아를 위하여' ｜축적의 시간 2부작 ① 착각의 시간 (KBS 20170304 방송) - YouTube](https://www.youtube.com/watch?v=8MugD6Cwhl8)
-    * 시행착오의 총량, 실수없이/벤치마킹/단기 성과주의 실행역량의 시대, know how/know why
-  * [백지 위에 그림을 그리듯 '세상에 없던 새로운 것을 만들어내는 힘' ｜축적의 시간 2부작 ② 축적에서 길을 찾다 (KBS 20170305 방송) - YouTube](https://www.youtube.com/watch?v=YsI8GLLx0Ng)
-    * 개념설계, 경험지식, 시행착오 경험의 축적, 인재육성, 혁신은 축적의 결과
 * (NOT YET) [축적의 길 : 도전적 시행착오를 축적하는 5가지 전략과 4개의 열쇠](https://blog.naver.com/airline36/221278686111)
   * 한라 323.0911-이74ㅊ 탐라 문323.0911-이73ㅊ 우당 문323.0911-이73ㅊ
   * [추격자에서 선도자로! 치열했던 추격의 시간을 지나 우리는 어떻게 대체불가능해질 것인가 | 신년기획 다음이온다 1부 KBS 220106 방송 - YouTube](https://www.youtube.com/watch?v=V61Ird4Wq_g)
   * [우리가 가진 건 인적 자원뿐 모방형 인재로는 절대 깰 수 없는 성장률 하락 저성장 시대의 필요한 능력은? | 신년기획 다음이온다 2부 KBS 220106 방송 - YouTube](https://www.youtube.com/watch?v=zoC4nWKDqIM)
   * [저무는 석유의 시대⛽⛽ 기후위기는 돈의 문제다💸 뒤쳐지면 생존할 수 없는 무탄소 경제가 온다 | 신년기획 다음이온다 3부 KBS 220120 방송 - YouTube](https://www.youtube.com/watch?v=5CMPS9UEe58)
   * [팬데믹 위기로 다시 시작된 편가르기👍👎 끝나지 않은 전세계적 위기 속에서 우리는 어떤 길을 갈 것인가🤷‍♂️🤷‍♀️ | 신년기획 다음이온다 마지막회 KBS 220127 방송 - YouTube](https://www.youtube.com/watch?v=LZ1sjpfy4cc)
+* (NOT YET) [패권의 비밀](https://www.hellodd.com/news/articleView.html?idxno=70680)
+  * 한라 321.93-김883ㅍ 탐라 문321.93-김832ㅍ
 * (NOT YET) [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
   * 우당
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
