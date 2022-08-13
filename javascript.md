@@ -3449,6 +3449,7 @@ Javascript
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
 * [What the heck is lazy loading in React? | In Urdu - YouTube](https://www.youtube.com/watch?v=j4n9PvNXkRk)
+* [Lazy load images in React using Intersection Observer - YouTube](https://www.youtube.com/watch?v=5L_XYLTjgiQ)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
 * [React Suspense 알아보기](https://velog.io/@xiniha/React-Suspense-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
