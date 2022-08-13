@@ -120,6 +120,7 @@ Programming
 * [Software Design — Orthogonality. Software Design can seem tricky or… | by Yoganathan Shiv | Level Up Coding](https://levelup.gitconnected.com/software-design-orthogonality-7cd2d50267b6)
 * [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
+* [BDD? SDD? 팀 프로젝트 다같이 개발설계하는 방법](https://velog.io/@teo/behavior-driven-development-schema-driven-development) design
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -657,6 +658,7 @@ Programming
 * [스크럼, 입고팀이 애자일하게 일하는 법 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/inbound-squad-sprint-1/)
 * [스크럼, 입고팀이 애자일하게 일하는 법 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/inbound-squad-sprint-2/)
 * [애자일 Scrum(스크럼) 이해하기. 애자일 실천 방법 | by 민현기(Min, Hyun Gi) | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/scrum-dfc6523a3604)
+* [협업에 관한 수다: 스크럼과 스프린트](https://velog.io/@teo/scrum-sprint)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
@@ -4167,6 +4169,7 @@ Programming
 * [리액티브 프로그래밍 기초 1 - 옵저버 패턴과 이터레이터 패턴 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4)
 * [리액티브 프로그래밍 기초 2 - 비동기 프로그래밍 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [리액티브 프로그래밍 기초 3 - 리액티브 스트림 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-3-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
+* [**프로그래밍 패러다임과 반응형 프로그래밍 그리고 Rx**](https://velog.io/@teo/reactive-programming) cycle.js등 javascript 관점
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
