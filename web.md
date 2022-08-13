@@ -910,6 +910,7 @@ Web
 * [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
 * [엔진엑스 플러스(NGINX Plus)의 웹방화벽과 인그레스 콘트롤러의 활용 디지털투데이TV Live - YouTube](https://www.youtube.com/watch?v=eNZ9q5mJmFk)
 * [Best Courses to learn Nginx in depth | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/best-courses-to-learn-nginx-in-36ed9ccca804)
+* [Webserver - Apache & Nginx - YouTube](https://www.youtube.com/playlist?list=PL0xeHY_ImQVUvHIXno_CKyupaEZBcwZvC)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
