@@ -699,6 +699,7 @@ AWS
   * 그리고 비용 거버넌스를 이용해서 태그를 사용하고 팀별/법인별로 관리할 수 있게 대시보드를 제공
 * [FinOps](https://github.com/newstars/FinOps)
 * [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
+* [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
 * [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
