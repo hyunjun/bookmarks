@@ -3905,6 +3905,7 @@ Python
   * [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
   * [From Zero to a Working Twitter Bot in Python - All You Need to do in 6 Easy Steps - Learn Python with Rune](https://www.learnpythonwithrune.org/create-a-twitter-bot-in-python-an-easy-step-through-guide/)
   * [Working with Text , Twitter and Databases with python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1lrmTT3ciQpU4lW6eF4ej3Q)
+  * [How to Access Twitter Data using Twitter API in Python | Twitter Data Analysis - YouTube](https://www.youtube.com/watch?v=jDHwRbezPw0)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [UltraDict: Shared, streaming Python dict](https://github.com/ronny-rentner/UltraDict)
