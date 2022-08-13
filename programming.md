@@ -350,6 +350,7 @@ Programming
   * 주 업무가 아니라서 시간도 부족하고 주제 선정에도 어려움이 있었지만, 같이 글을 써줄 사람도 생기고 사내 개발자들에게 관심도 받게됨
   * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
 * [국내 최고의 개발 문화를 가진 회사는? – 설문 조사 결과 :: Channy's Blog](https://channy.creation.net/blog/1600)
+* [좋은 개발 조직을 구별하는 12가지 질문들 | Daniel Lee](https://typefully.com/dylayed/a1I3jnP)
 * [페이스북은 어떻게 배포하는가? – IT의 중심에서](https://subokim.wordpress.com/2022/06/12/how_facebook_work/) 오래된 이야기지만, 개발자 중심 문화
   * [페이스북은 어떻게 배포하는가 | GeekNews](https://news.hada.io/topic?id=6740)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
