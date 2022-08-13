@@ -121,6 +121,7 @@ Julia
 * [AI for HVAC: How Julia Computing Uses Machine Learning to Tackle Building Efficiency with JuliaSim - YouTube](https://www.youtube.com/watch?app=desktop&v=_G9jfE-xNFM)
 * [High-performance xPU Stencil Computations in Julia :: JuliaCon 2022 (Times are UTC) :: pretalx](https://pretalx.com/juliacon-2022/talk/AKVUKM/)
 * [Simulation of atmospheric turbulence with MicroHH.jl :: JuliaCon 2022 (Times are UTC) :: pretalx](https://pretalx.com/juliacon-2022/talk/X37FHS/)
+* [Matěj Račinský - Julia in Python’s den PyData Prague 2022-06-27 - YouTube](https://www.youtube.com/watch?v=U5zt6OZVxrs)
 
 # API
 * Pkg.add
