@@ -457,6 +457,7 @@ Business
 * [How to operate](https://www.notion.so/How-to-operate-b7a3f2591bd043dd81ef0861f47035d7)
 * [스킬맵 : 나는 팀에 어떤 도움이 될 수 있을까 ?](https://brunch.co.kr/@pletalk/24)
 * [Do You Think Like a Lawyer, a Scientist, or an Engineer?](https://www.infoq.com/articles/think-lawyer-scientist-engineer/) OODA Observe, Orient, Decide, Act
+* [The Best Engineers Think Like Investors, Not Builders | by Michael Lin | Jul, 2022 | Level Up Coding](https://levelup.gitconnected.com/the-best-engineers-think-like-investors-not-builders-cf005e75ab80)
 * [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
 * [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
@@ -1281,6 +1282,7 @@ Business
 * [리더의 역할 - 팀 동기부여를 잘 시킬수 있는 방법 13가지](https://smartincome.tistory.com/267) motivation
 * [직원의 업무효율을 높이는 CEO의 질문법 | 티피아이 인사이트](https://www.tpiinsight.co.kr/insight/2020/05/21/%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%85%eb%ac%b4%ed%9a%a8%ec%9c%a8%ec%9d%84-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%98%91%eb%98%91%ed%95%9c-ceo-%ec%a7%88%eb%ac%b8/) motivation
 * [성과를 내는 리더들의 특징 – 체인지그라운드](http://thechangeground.com/archives/25156) motivation
+* [주먹구구식 경영 탈피 직원의 능력을 120% 발휘하게 하는 법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/08/12/employee-ability/)
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
 * [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
@@ -1698,12 +1700,11 @@ Business
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
 * [어떻게 이직할 것인가? | RBBM](https://www.redbusbagman.com/howtoarrivewell/)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
+  * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 * [스타트업을 떠나며 알게 된 것들](https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4) 현실적인 이야기
   * [스타트업을 떠나며... | GeekNews](https://news.hada.io/topic?id=6381)
-* [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast)
-  * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * JORDAN MECHNER'S [20 TIPS ON MAKING GAMES](https://jordanmechner.com/downloads/20_tips.pdf) 제목과는 달리 일반적으로도 적용할 수 있는 이야기들
   1. Prototype and test key game elements as early as possible.
   2. Build the game in incremental steps. Don't make big design documents.
