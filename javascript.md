@@ -1721,6 +1721,7 @@ Javascript
   * [How I learned to write cleaner code using ESLint](https://blog.usejournal.com/how-i-learned-to-write-cleaner-code-using-eslint-11b5c8b0e1b8)
   * [WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)](https://jojoldu.tistory.com/655)
   * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
+  * [How to Build a Web Scraper using Golang with Colly](https://morioh.com/p/8d07efbd9e9f)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
