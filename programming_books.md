@@ -2080,6 +2080,8 @@ Programming Books
   * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
+* (NOT YET) [픽사 스토리텔링](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287110908)
+  * 한라 325.1-룬33ㅍ 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
