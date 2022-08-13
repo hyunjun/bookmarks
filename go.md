@@ -326,6 +326,7 @@ Go
 * [P1 How to build real go project (library & micro-service) with source code - YouTube](https://www.youtube.com/watch?v=EFrs0-0KWns)
 * [Go Developer Roadmap - YouTube](https://www.youtube.com/watch?v=RVgJ2rvPjEU)
 * [How We Use Github Issues to Track Customer Feedback | Boot.dev](https://blog.boot.dev/misc/github-issues-for-customers/)
+* [Building Development Environment for Go Lang](https://morioh.com/p/c6acd58df237)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
