@@ -472,6 +472,7 @@ Python
 * [OAuth 2 and Authentication Choices for Your Python Project | Real Python Podcast #99 - YouTube](https://www.youtube.com/watch?v=PHCv_3zfM_Y)
 * [Python은 pass-by-value입니다 · 감자도스](https://blog.potados.com/dev/python-is-pass-by-value/)
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
+* [ASMR Programming - coding Game OF Life in Python - No Talking - YouTube](https://www.youtube.com/watch?v=nCcAz1LHz9k)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
