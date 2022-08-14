@@ -167,6 +167,7 @@ Go
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
 * [MongoDB Golang 드라이버의 컨텍스트와 커넥션](https://www.popit.kr/mongodb-golang-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BB%A4%EB%84%A5%EC%85%98)
+* [Build a live analytics dashboard using Go and MongoDB](https://morioh.com/p/b6c2d4867c35)
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
 * [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 * [Phishing with a reverse proxy in Go](https://codeburst.io/phishing-with-a-reverse-proxy-23dd99557b5b)
