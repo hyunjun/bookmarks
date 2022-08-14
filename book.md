@@ -314,6 +314,7 @@ Book
   * 탐라 문868-베238ㅅ 한라 868-베297ㅅ우당 문868-베238ㅈ
 * (NOT YET) [십 대를 위한 정치 사전](https://www.hankyung.com/life/article/202208102679Y)
 * (NOT YET) [오십, 나는 이제 다르게 읽는다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298038671)
+* (NOT YET) [차이나 쇼크 한국의 선택](https://www.hankyung.com/life/article/202208104083Y)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
