@@ -235,6 +235,8 @@ Book
   * [우리가 가진 건 인적 자원뿐 모방형 인재로는 절대 깰 수 없는 성장률 하락 저성장 시대의 필요한 능력은? | 신년기획 다음이온다 2부 KBS 220106 방송 - YouTube](https://www.youtube.com/watch?v=zoC4nWKDqIM)
   * [저무는 석유의 시대⛽⛽ 기후위기는 돈의 문제다💸 뒤쳐지면 생존할 수 없는 무탄소 경제가 온다 | 신년기획 다음이온다 3부 KBS 220120 방송 - YouTube](https://www.youtube.com/watch?v=5CMPS9UEe58)
   * [팬데믹 위기로 다시 시작된 편가르기👍👎 끝나지 않은 전세계적 위기 속에서 우리는 어떤 길을 갈 것인가🤷‍♂️🤷‍♀️ | 신년기획 다음이온다 마지막회 KBS 220127 방송 - YouTube](https://www.youtube.com/watch?v=LZ1sjpfy4cc)
+  * [축적의 길](https://github.com/hyunjun/bookmarks/blob/master/books/accumulation_road.md)
+  * [축적의 길. PART1 대전환: 착각에서 축적으로 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%B6%95%EC%A0%81%EC%9D%98-%EA%B8%B8-49fd717831ba)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
