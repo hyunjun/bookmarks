@@ -3003,7 +3003,7 @@ Programming
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
-* [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
+* scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
 * [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
