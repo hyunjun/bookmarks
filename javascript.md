@@ -1690,6 +1690,8 @@ Javascript
     * WebView2는 Edge와 DLL을 공유하고 Node.js를 불포함
   * [Why Electron is a Necessary Evil - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/)
   * [electron js의 IPC! 이것만 보면 됩니다 (inter process communication)](https://blog.naver.com/nanotoly/222621831310)
+  * [Electron in Action](https://github.com/electron-in-action)
+  * [Electron-Projects: Electron Projects, published by Packt](https://github.com/PacktPublishing/Electron-Projects)
   * [electron-python-example: Electron as GUI of Python Applications](https://github.com/fyears/electron-python-example)
     * [Building a deployable Python-Electron App | by Andy Bulka | Medium](https://medium.com/@abulka/electron-python-4e8c807bfa5e)
   * [nativefier: Make any web page a desktop application](https://github.com/nativefier/nativefier)
