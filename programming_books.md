@@ -2562,6 +2562,10 @@ Programming Books
   * [geospatial-python: 파이썬을 활용한 지리공간 분석 마스터하기 GeoDjango, CARTOframes, MapboxGL-Jupyter를 활용한 GIS 프로세싱](https://github.com/AcornPublishing/geospatial-python)
 * (NOT YET) [파이썬 네트워킹 마스터 2/e | 에이콘출판사](http://acornpub.co.kr/book/mastering-python-networking-2e)
   * 한라 005.133-추64ㅍ
+* (NOT YET) [Black Hat Python 2/e | 에이콘출판사](http://acornpub.co.kr/book/black-hat-python2e) 보안 security
+  * 탐라 문004.67-지69B
+  * [Black Hat Python, 2nd Edition | No Starch Press](https://nostarch.com/black-hat-python2E)
+  * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
