@@ -4203,6 +4203,7 @@ Javascript
   * [How to Create Server Side Rendered React application using Next.js](https://morioh.com/p/36082354b43b?f=5cb7d89d660c8335951ca454)
   * [Next.js Cheat Sheet | Page Rendering with Next.js](https://morioh.com/p/181b91576ba8)
   * [How To Build A Dynamic SiteMap For Your Next.JS App](https://morioh.com/p/764bcffa719d)
+  * [Building a Shopping Cart Web App with Next.js](https://morioh.com/p/2c222e29db1c)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
