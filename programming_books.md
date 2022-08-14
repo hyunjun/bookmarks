@@ -128,14 +128,6 @@ Programming Books
     * 해적판(piracy)는 양날의 칼이다. 이익을 갉아먹기도 하지만, 잠재수요와 잠재고객의 식별이 되기도 한다.
     * 민감도 테스트를 적극적으로 하라. 테스트가 되어 얼추 요량이 서면, 가격인상을 주저하지 마라. 이때 떨어져나가는 고객은, 애초에 비고객 또는 언제고 떠날 취약고객일수도 있다.
     * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다.
-* [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
-  * 우당 문005.1-셍41ㄱ
-  * ★★★☆☆ 2022.07.12
-  * [DevRel-Book: <기업의 성공을 이끄는 Developer Relations>책에 실린 리소스 정리와 함께, 데브렐을 이해하는데 도움되실 수있는 링크와 콘텐츠를 공유드립니다](https://github.com/silverjade/DevRel-Book)
-  * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
-  * [기업의 성공을 이끄는 Developer Relations](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_relations.md)
-  * [기업의 성공을 이끄는 Developer Relations. 5 Things We Learned About Creating a… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/why-diversity-matters-mckinsey-8844a963c0db)
-  * [기업의 성공을 이끄는 Developer Relations](https://jh4hj.tistory.com/entry/%EA%B8%B0%EC%97%85%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-Developer-Relations)
 * [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
   * 탐라 문005.1-송67ㅇ
   * ★★★☆☆ 2022.07.30~31
@@ -178,12 +170,6 @@ Programming Books
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
 * (NOT YET) [**HTTP 완벽 가이드: 웹은 어떻게 동작하는가**](https://blog.outsider.ne.kr/1431)
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
-* (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
-  * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
-* (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
-  * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
-* (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
-* (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
   * 탐라 문005-니51ㅁ
   * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
@@ -251,6 +237,8 @@ Programming Books
 * (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
   * 우당 문004.588-윤94ㅋ
+* (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
+  * 한라 005.12-오44ㅅ
 
 # Agile Scrum
 
@@ -649,6 +637,8 @@ Programming Books
   * [080248: 핵심 C++ 표준 라이브러리, 2판](https://github.com/gilbutiTbook/080248)
 * (NOT YET) [C++20: 풍부한 예제로 익히는 핵심 기능 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/10/c20-%ED%92%8D%EB%B6%80%ED%95%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5/)
   * 우당 문005.133-그239ㅆ
+* (NOT YET) [Accelerated C++](https://www.hanbit.co.kr/store/books/look.php?p_code=B4851649517)
+  * 한라 005.133-쾨198ㅇ
 
 # C#
 
@@ -859,6 +849,8 @@ Programming Books
   * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
 * (NOT YET) [우리는 인공지능과 함께할 수 있을까?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285091584)
   * 탐라 문004.73-조53ㅇ 우당 문004.73-조53ㅇ
+* (NOT YET) [실무로 배우는 빅데이터 기술 (개정2판): 데이터 수집, 적재, 처리 분석, 머신러닝까지 | 위키북스](https://wikibook.co.kr/bigdata2nd/)
+  * 한라 005.76-김12빅
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1097,6 +1089,9 @@ Programming Books
 * (NOT YET) [파이썬 머신러닝 실무테크닉 100 - 머신러닝 실무를 지원하는 100가지 무기!](https://jpub.tistory.com/1218)
 * (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
 * (NOT YET) [파이썬으로 완성하는 비지도 학습 알고리즘](https://bjpublic.tistory.com/428)
+* (NOT YET) [파이썬을 활용한 비지도 학습 | 에이콘출판사](http://acornpub.co.kr/book/unsupervised-learning-python)
+  * 한라 005.133-존57ㅍ
+  * [unsupervised-learning-python: 파이썬을 활용한 비지도 학습 비구조 데이터로부터 숨겨진 패턴과 관계 찾기](https://github.com/AcornPublishing/unsupervised-learning-python)
 * (NOT YET) [머신러닝 프로젝트 수명주기로 배우는 머신러닝 엔지니어링](https://jpub.tistory.com/1223?category=203154)
 * (NOT YET) [금융 머신러닝 - 이론에서 실전까지](https://brunch.co.kr/@gauss92tgrd/47)
   * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
@@ -1250,7 +1245,19 @@ Programming Books
 # Debugging
 
 * (NOT YET) [이펙티브 디버깅 디버깅 지옥에서 탈출하는 66가지 전략과 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B5607403301)
-  * 2017.06 한라
+  * 한라 005.12-스898ㅇ
+
+# DevRel Developer Relation Tech Evangelist
+* [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
+  * 우당 문005.1-셍41ㄱ
+  * ★★★☆☆ 2022.07.12
+  * [DevRel-Book: <기업의 성공을 이끄는 Developer Relations>책에 실린 리소스 정리와 함께, 데브렐을 이해하는데 도움되실 수있는 링크와 콘텐츠를 공유드립니다](https://github.com/silverjade/DevRel-Book)
+  * [기업의 성공을 이끄는 Developer Relations](https://jybaek.tistory.com/964)
+  * [기업의 성공을 이끄는 Developer Relations](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_relations.md)
+  * [기업의 성공을 이끄는 Developer Relations. 5 Things We Learned About Creating a… | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/why-diversity-matters-mckinsey-8844a963c0db)
+  * [기업의 성공을 이끄는 Developer Relations](https://jh4hj.tistory.com/entry/%EA%B8%B0%EC%97%85%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EC%9D%B4%EB%81%84%EB%8A%94-Developer-Relations)
+* (NOT YET) [디벨로퍼 애드보킷/테크 에반젤리스트로 산다는 것](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=267009549)
+  * 한라 005.133-빌294ㄷ
 
 # Docker
 
@@ -1716,6 +1723,9 @@ Programming Books
   * [‘스벨트로 시작하는 웹 프런트엔드’ 출판 후기. 내가 Svelte를 알게된 것은 2020년 어느 때인가로 기억한다. 이… | by freeseamew | hollo coding story | Feb, 2022 | Medium](https://medium.com/freeseamew/%EC%8A%A4%EB%B2%A8%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%9C%ED%8C%90-%ED%9B%84%EA%B8%B0-c1ac66f9b309)
 * (NOT YET) [함수형 자바스크립트: 모던 웹 개발에 충실한 실전 함수형 프로그래밍 안내서 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/03/08/Functional-Programming-in-JavaScript.html)
 * (NOT YET) [멀티스레드 기반 자바스크립트](https://www.rubypaper.co.kr/entry/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  * 탐라 문005.133-헌833ㅁ
+  * [책 내용 정리 및 기억해둘만한 점 등](https://gist.github.com/hyunjun/84e6ab9f8bb5347a1002ee0d9357d3f1#file-multithreaded_javascrtip-md)
+  * [code-samples: Code samples for the book Multithreaded JavaScript, O'Reilly, 2021](https://github.com/MultithreadedJSBook/code-samples)
 
 ## Angular
 
@@ -1828,6 +1838,9 @@ Programming Books
 * (NOT YET) [Joyce의 안드로이드 앱 프로그래밍 with 코틀린 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%BD%94%ED%8B%80%EB%A6%B0/)
   * [프로젝트 스톱워치 안드로이드 앱 개발, 이렇게 시작하세요 - 골든래빗](https://goldenrabbit.co.kr/2022/03/14/%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94/)
 * (NOT YET) [이펙티브 코틀린 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/111)
+  * 한라 005.133-모57ㅇ 탐라 문005.133-모58ㅇ 우당 문005.133-모58ㅇ
+* (NOT YET) [코틀린 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-kotlin)
+  * 한라 005.13-토294ㅋ
 
 # Linux
 
@@ -2188,7 +2201,6 @@ Programming Books
 * (NOT YET) [이득우의 게임 수학](https://jhrogue.blogspot.com/2022/03/blog-post.html)
 * (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
   * 우당 문005.11-강77ㅅ
-* (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
 
 # Network
 
@@ -2505,6 +2517,7 @@ Programming Books
 * (NOT YET) [마야 파이썬 - 3D를 위한 파이썬](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190909980&orderClick=LAN&Kc)
 * (NOT YET) [파이썬에 참 좋은 PyCharm - 나에게 가장 필요한 파이썬 개발 환경 구축하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=213458036&start=slayer)
   * [파이썬에 참 좋은 PyCharm](https://github.com/bjpublic/pycharm)
+  * 한라 005.133-테298ㅍ
 * (NOT YET) [프로그래머를 위한 파이썬](https://jpub.tistory.com/1097)
   * [practices-of-the-python-pro: Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘](https://github.com/daneah/practices-of-the-python-pro)
   * [리뷰 프로그래머를 위한 파이썬 · TheoryDB](https://theorydb.github.io/review/2021/02/22/review-book-practice-of-python-pro/)
@@ -2542,6 +2555,13 @@ Programming Books
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
+* (NOT YET) [마케터의 파이썬 - 코딩의 C도 모르는 우리들을 위한 맞춤 프로그래밍 가이드 :: e비즈북스](https://ebizbooks.tistory.com/1400)
+  * 한라 005.133-정97ㅁ 탐라 문005.133-정98ㅁ 우당 문005.133-정98ㅁ
+* (NOT YET) [파이썬을 활용한 지리공간 분석 마스터하기 | 에이콘출판사](http://acornpub.co.kr/book/geospatial-python)
+  * 한라 005.133-크298ㅍ
+  * [geospatial-python: 파이썬을 활용한 지리공간 분석 마스터하기 GeoDjango, CARTOframes, MapboxGL-Jupyter를 활용한 GIS 프로세싱](https://github.com/AcornPublishing/geospatial-python)
+* (NOT YET) [파이썬 네트워킹 마스터 2/e | 에이콘출판사](http://acornpub.co.kr/book/mastering-python-networking-2e)
+  * 한라 005.133-추64ㅍ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2837,6 +2857,17 @@ Programming Books
 * (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
 * (NOT YET) [UX/UI 디자이너를 위한 실무 피그마](https://hanbit.co.kr/store/books/look.php?p_code=B7944573971)
   * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
+
+# Vision
+* (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
+* (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
+  * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
+* (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
+  * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
+* (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
+* (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
+* (NOT YET) [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
+  * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
