@@ -225,6 +225,9 @@ Book
     * 시행착오의 총량, 실수없이/벤치마킹/단기 성과주의 실행역량의 시대, know how/know why
   * [백지 위에 그림을 그리듯 '세상에 없던 새로운 것을 만들어내는 힘' ｜축적의 시간 2부작 ② 축적에서 길을 찾다 (KBS 20170305 방송) - YouTube](https://www.youtube.com/watch?v=YsI8GLLx0Ng)
     * 개념설계, 경험지식, 시행착오 경험의 축적, 인재육성, 혁신은 축적의 결과
+  * [축적의 시간](https://github.com/hyunjun/bookmarks/blob/master/books/accumulation_time.md)
+  * [축적의 시간. 책이 나온지 좀 오래되어서 지금와서 보면 세부적인 부분은 약간 맞지… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%B6%95%EC%A0%81%EC%9D%98-%EC%8B%9C%EA%B0%84-7dbe54e8106c)
+  * [축적의 시간](https://jh4hj.tistory.com/entry/%EC%B6%95%EC%A0%81%EC%9D%98-%EC%8B%9C%EA%B0%84)
 * [축적의 길 : 도전적 시행착오를 축적하는 5가지 전략과 4개의 열쇠](https://blog.naver.com/airline36/221278686111)
   * ★★★☆☆ 2022.08.14
   * 한라 323.0911-이74ㅊ 탐라 문323.0911-이73ㅊ 우당 문323.0911-이73ㅊ
