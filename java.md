@@ -247,6 +247,7 @@ Java
   * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [Convert Milliseconds to & from LocalDateTime in Java8 & Above | CodersTea](https://www.coderstea.com/post/java/convert-milliseconds-to-and-from-localdatetime-in-java8-above/)
   * [How to format/parse dates with LocalDateTime in Java 8 - Example Tutorial](https://javarevisited.blogspot.com/2017/08/how-to-format-parse-dates-with-LocalDateTime-Java-8.html)
+  * [타임존, 날짜 그리고 시간객체 뽀개기. 항상 헷갈리는 타임존과 관련된 용어를 정리고, 데이터베이스에 어떻게… | by chrisjune | 29CM 기술블로그 | Aug, 2022 | Medium](https://medium.com/29cm/java-%ED%83%80%EC%9E%84%EC%A1%B4-%EB%82%A0%EC%A7%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%8B%9C%EA%B0%84%EA%B0%9D%EC%B2%B4-%EB%BD%80%EA%B0%9C%EA%B8%B0-c8c896eb3094) ZoneId, ZoneOffset, DateTime, Time
 * Enum
   * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
   * [Enum값의 사용](http://developer88.tistory.com/148)
