@@ -2153,6 +2153,9 @@ Programming Books
   * [Leader Different 리더 디퍼런트](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leader_different.md)
   * [Leader Different 리더 디퍼런트. 들어가며 사람을 중시하는 리더는 실패하지 않는다 | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/leader-different-%EB%A6%AC%EB%8D%94-%EB%94%94%ED%8D%BC%EB%9F%B0%ED%8A%B8-f2889211e892)
   * [Leader Different 리더 디퍼런트](https://jh4hj.tistory.com/entry/Leader-Different-%EB%A6%AC%EB%8D%94-%EB%94%94%ED%8D%BC%EB%9F%B0%ED%8A%B8)
+* [오늘부터 팀장입니다](https://hanbit.co.kr/store/books/look.php?p_code=B2119731751)
+  * ★★★★☆ 2022.08.15
+  * 탐라 문325.24-파813ㅇ
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
