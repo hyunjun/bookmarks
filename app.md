@@ -410,6 +410,7 @@ App
   * [컴퓨터 vs 책: 설치의 정석 EC2에서 워드프레스 설치하기](https://jhrogue.blogspot.com/2020/05/ec2.html)
   * [아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (1) | Open Sea](https://opensea.kr/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%ED%94%84%EB%A1%9C%EC%99%80-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1/)
   * [아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (2) | Open Sea](https://opensea.kr/%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ed%94%84%eb%a1%9c%ec%99%80-%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0-2/)
+  * [수동으로 파일 첨부한 경우 후처리해 줄 것들 | 웹으로 말하기](https://mytory.net/2022/08/14/wordpress-post-attachment-process.html)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
