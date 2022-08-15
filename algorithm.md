@@ -443,6 +443,7 @@ Algorithm
 * [Top 5 Courses to Learn Dynamic Programming for Coding Interviews in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/12/top-5-courses-to-learn-dynamic-programming-for-interivews.html)
 * [Dynamic Programming Tutorial - Coin Change Problem Using Dynamic Programming | Scaler Academy - YouTube](https://www.youtube.com/watch?v=2fuHenlyHAc)
 * [Dynamic Programming Crash Course | Advanced Data Structures And Algorithms Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
+* [30 Recursion Interview Questions and Coding Exercises for Programming Interviews | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/30-recursion-interview-questions-and-coding-exercises-for-programming-interviews-2816302e9ab)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
