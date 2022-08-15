@@ -221,6 +221,7 @@ SQL
 * [아직도 DBA는 좋은 직업인가요? | GeekNews](https://news.hada.io/topic?id=6530)
 * [Why SQL Needs Software Libraries | Future](https://future.com/sql-needs-software-libraries/)
 * [Everything Is a Funnel, But SQL Doesn’t Get It | by Motif Analytics | Jun, 2022 | Medium](https://motifanalytics.medium.com/everything-is-a-funnel-but-sql-doesnt-get-it-c35356424044)
+* [DataBase](https://velog.io/@oceanwater1234/DB-SQL)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
