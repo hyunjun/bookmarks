@@ -587,6 +587,7 @@ Business
 * [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
 
 # 조직 구조
+* [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [슈퍼셀의 역삼각형 조직 구조: 관리는 줄이고, 성공을 늘리기](http://masterfarseer.blogspot.com/2018/05/blog-post.html)
 * [Etsy CEO가 에자일한 조직 구조를 만든 방법](https://brunch.co.kr/@yongjinjinipln/89)
@@ -780,6 +781,7 @@ Business
 * [Reinventing Performance Management](https://hbr.org/2015/04/reinventing-performance-management)
 * [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
 * [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
+* [평가자에게 당부하고 싶은 것 < 인사관리 < 아티클 < 기사본문 - 월간 인재경영](https://www.abouthr.co.kr/news/articleView.html?idxno=5247)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
@@ -1573,6 +1575,8 @@ Business
   * [번역 MVP는 끝났습니다. 이제는 MAP(Minimum Awesome Product) 입니다. | by Jaewang Lee | Medium](https://medium.com/@jnso5072/%EB%B2%88%EC%97%AD-mvp%EB%8A%94-%EB%81%9D%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EC%A0%9C%EB%8A%94-map-minimum-awesome-product-%EC%9E%85%EB%8B%88%EB%8B%A4-887210c38d7c)
 * [MVP는 최적화가 아닌 학습을 위해 존재한다](https://brunch.co.kr/@cliche-cliche/151)
   * MVP를 정해진 시간 내에 만들 수 있는 최소한의 기능이나 한두 개의 핵심 기능이라고 말하지만 오해가 많은 개념이고 핵심은 최적화보다는 학습이라고 설명
+* [A guide for launching successful MVPs quickly | Along the Roadmap](https://medium.com/particles-by-paralect/a-guide-for-launching-successful-mvps-quickly-74755c12c29e)
+  * [성공적인 MVP를 빠르게 출시하기 위한 가이드](https://brunch.co.kr/@yongjinjinipln/98)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
