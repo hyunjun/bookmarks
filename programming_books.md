@@ -14,6 +14,7 @@ Programming Books
   * [한빛미디어](https://www.mindmeister.com/523584665/_?fullscreen=1)
 * [bigbook.or.kr](http://www.bigbook.or.kr/)
 * [thebook.io](https://thebook.io/) 길벗
+* [ReadIT Letter : 개발자를 위한 IT전문서 아카이빙](https://www.notion.so/ReadIT-Letter-IT-6c11b1b3749e45e58268e816b1e473ea)
 * [SW교육도서 소개](http://hicoding.kr/?page_id=38623) 초등학생용이지만 수준이 상당함
 * [전자책 출간 후기](https://www.popit.kr/%EC%A0%84%EC%9E%90%EC%B1%85-%EC%B6%9C%EA%B0%84-%ED%9B%84%EA%B8%B0)
 * [전자책 1인출판 도전기 #6 출판사 신고하기 (1)](https://brunch.co.kr/@merryseo/9)
