@@ -41,6 +41,7 @@ Json
 * [Cuetorials](https://cuetorials.com/)
 * [구성(Configuration) 복잡도의 저주 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1596)
 * [CUE가 승리하는 방법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1600)
+* [CUE의 기본적인 사용 방법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1613)
 
 # Go
 * [JSON is not Visible in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=ARmaPihNwvY)
