@@ -1471,6 +1471,7 @@ Javascript
   * [Prisma Schema 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Schema-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
   * [Prisma Model, 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Model-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
   * [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
+  * [Node.js/TypeScript용 ORM Prisma 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1614)
 * Relay
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
