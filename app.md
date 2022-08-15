@@ -1965,6 +1965,7 @@ App
 * [Everything](https://www.voidtools.com)
   * [🎗초간단 SOHO용 파일서버 구축하기 (feat Everything) : 클리앙](https://www.clien.net/service/board/lecture/16068207?type=recommend)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
+* [GestureWheel: Mouse wheel gestures app for Windows](https://github.com/iodes/GestureWheel)
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
 * HangulJasoFixer [맥에서 보낸 파일명이 윈도우에서 깨질때 - 파일명 자모 분리 현상 :: Sotheb](https://www.sotheb.co.kr/65)
