@@ -122,6 +122,7 @@ Go
 * [**See Python, See Python Go, Go Python Go**](https://blog.heroku.com/see_python_see_python_go_go_python_go) python <-> go <-> c
 * [Nine reasons to switch from Python to Go](https://medium.com/datadriveninvestor/nine-reasons-to-switch-from-python-to-go-f1b0cd746974)
 * [One in two Pythonistas should learn Golang now](https://towardsdatascience.com/one-in-two-pythonistas-should-learn-golang-now-ba8dacaf06e8)
+* [Moving from JavaScript to Golang](https://morioh.com/p/17b3e6283081)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
