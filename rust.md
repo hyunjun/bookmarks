@@ -242,6 +242,11 @@
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
+* [minirust: A precise specification for "Rust lite / MIR plus"](https://github.com/RalfJung/minirust)
+  * [Announcing: MiniRust](https://www.ralfj.de/blog/2022/08/08/minirust.html)
+    * 오랫동안 Rust 프로그램이 안전하지 않은 코드로 동작할 때를 많이 고민했는데 이는 머릿속에만 있고 확장될 수 없다는 생각에 MiniRust라는 프로젝트를 공개
+    * Rust로 MiniRust를 만들었다고 볼 수 있지만 저자인 Ralf Jung은 이를 pseudo Rust라고 부름
+    * Rust를 아는 사람이라면 MiniRust를 보고도 어떤 동작을 할 것인지 알 수 있을 거라고 함
 * [Nannou - a library that aims to make it easy for artists to express themselves with simple, fast, reliable code](https://nannou.cc/)
 * [napi-rs: A framework for building compiled Node.js add-ons in Rust via Node-API](https://github.com/napi-rs/napi-rs)
   * [Node.js와 Rust의 우아한 결합 napi-rs | 명시지(形式知)](https://blog.hanlee.io/2022/napi-rs)
