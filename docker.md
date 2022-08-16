@@ -1457,6 +1457,7 @@ Docker
     * StatefulSet을 제거하면 재생성하는 바람에 우회 방법을 쓰기 어렵게 만들고
     * 각 Vitess 오퍼레이터 등에서 각자 구현하고 있다고 함
   * 글 자체는 자사 제품을 홍보하는 느낌
+* [Kubernetes Pod Graceful Shutdown - How? - FoxuTech](https://foxutech.com/kubernetes-pod-graceful-shutdown-how/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
