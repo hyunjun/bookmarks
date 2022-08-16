@@ -41,9 +41,6 @@ Web
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
-* [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
-* [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
-* [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
 * [웹 애니메이션을 구현하는 4가지 방법 (feat. animation API) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220630-four-ways-web-animation/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
@@ -1305,6 +1302,12 @@ Web
 * [Sticky Session과 Session Clustering - SMJ Blog](https://smjeon.dev/web/sticky-session/)
 * [openreplay: OpenReplay is developer-friendly, open-source session replay](https://github.com/openreplay/openreplay)
 
+# SVG
+* [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
+* [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
+* [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
+* [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
+
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
 * [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
@@ -1514,6 +1517,7 @@ Web
 * [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
 * [WebAssembly in my Browser Desktop Environment - Wasm Builders](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc)
 * [웹어셈블리 기반의 유력 언어 프로젝트 13종 - ITWorld Korea](https://www.itworld.co.kr/news/231854)
+* [WebContainers are now supported in Firefox on desktop and Android](https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/)
 * [Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작 | GeekNews](https://news.hada.io/topic?id=6743)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
