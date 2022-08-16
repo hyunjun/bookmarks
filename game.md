@@ -91,6 +91,7 @@ Game
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
 * [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
+* [EasyRPG](https://easyrpg.org/)
 * [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
   * [엘리베이터 프로그래밍 게임 | GeekNews](https://news.hada.io/topic?id=4703)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
