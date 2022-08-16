@@ -48,6 +48,12 @@
 * [매출 82%를 광고로 만드는 구글, 사용자 정보 보호를 강화하다 – 컨버젼 by 리메이크](https://convrsion.co/2022/03/06/%eb%a7%a4%ec%b6%9c-82%eb%a5%bc-%ea%b4%91%ea%b3%a0%eb%a1%9c-%eb%a7%8c%eb%93%9c%eb%8a%94-%ea%b5%ac%ea%b8%80-%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%a5%bc-%ea%b0%95%ed%99%94/)
 * [AdMob 광고 중단 제재를 당했다가 해결까지의 과정 (무효 트래픽과 트래픽 품질) : 네이버 블로그](https://m.blog.naver.com/sorang226/222732936139)
 * [구글, 타사 쿠키 제거를 2024년으로 연기 | GeekNews](https://news.hada.io/topic?id=7116)
+* [Google 한국 블로그: ‘웹 프라이버시 샌드박스’ 테스트 확대](https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html)
+  * 타사 쿠키 및 사이트 간 추적에서 개인정보를 보호하기 위해 "프라이버시 샌드박스" 시작
+  * 더 테스트할 시간이 필요하다는 피드백을 많이 받아서 테스트 기간 늘리기로 결정
+  * 사용자가 참여 여부를 결정해서 이 API를 테스트할 수 있고
+    * 2023년 3분기에는 프라이버시 샌드박스 API로 일반 이용자도 사용할 수 있을 거라고 기대하고
+    * 2024년 하반기에는 타사 쿠키를 단계적으로 폐지할 예정
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
