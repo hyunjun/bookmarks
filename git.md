@@ -1078,6 +1078,12 @@ Git
   * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
   * [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
   * [React GitHub Pages에 배포 - create-react-app으로 만든 React 프로젝트를 GitHub Pages에 배포해 보도록 합시다](https://dev-yakuza.posstree.com/ko/react/github-pages/)
+  * [GitHub Pages now uses Actions by default | The GitHub Blog](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
+    * Jekyll로 시작되었던 GitHub의 정적 페이지 서비스인 GitHub Pages가 GitHub Actions를 사용하도록 변경
+      * 6개월 정도 공개 저장소에서 테스트한 뒤 이제 비공개 저장소에서도 사용 가능
+    * 이제 정적 사이트 생성기가 많아서 GitHub Pages에도 관련 요구 사항이 많아졌는데
+      * 이제 Actions를 사용하게 되면서 브랜치로 한정되는 제약이 없어지고
+      * github-pages 배포 환경 컨텍스트에 따라 작성 가능
 * [github.surf](https://github.surf/)
   * [Github.surf를 소개합니다! — 코드를 서핑하기 가장 빠르고 쿨한 방법 (CLI, Extension 지원) | by softmarshmallow | bridgedxyz | Feb, 2021 | Medium](https://medium.com/bridgedxyz/ko-%EF%B8%8F-github-surf%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%84%9C%ED%95%91%ED%95%98%EA%B8%B0-%EA%B0%80%EC%9E%A5-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%BF%A8%ED%95%9C-%EB%B0%A9%EB%B2%95-cli-extension-%EC%A7%80%EC%9B%90-65e6a9a07bd5)
 * [Gitiny - iOS app for GitHub with exploring trending](https://github.com/k-lpmg/GiTiny)
