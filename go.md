@@ -492,6 +492,7 @@ Go
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 * [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [**컨테이너 내부 Go 애플리케이션 디버깅하기**](https://mingrammer.com/debugging-containerized-go-app/)
+* [Debugging Go Inside Docker, Using Visual Studio Code and Remote Containers](https://morioh.com/p/30d23663447b)
 * [delve: Delve is a debugger for the Go programming language](https://github.com/go-delve/delve)
   * [Using Delve to Run Your Process - YouTube](https://www.youtube.com/watch?v=zG_sCnPCOC8)
 * [Gebug: Debug Dockerized Go Applications Better](https://morioh.com/p/f70670093a77)
