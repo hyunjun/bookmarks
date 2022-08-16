@@ -1447,6 +1447,16 @@ Docker
 * [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
 * [Troubleshooting Kubernetes Permission Error | Troubleshooting | RBAC | Role & Role binding - YouTube](https://www.youtube.com/watch?v=LL6CIXLjd_Y)
+* [Kubernetes StatefulSets are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
+  * Kubernetes StatefulSets이 디스크 볼륨이 필요한 앱을 위해서 만들어졌고
+    * 네트워크 연결과 볼륨 유지, 롤링 업데이트를 잘 지원하고 있지만
+    * 볼륨 리사이즈를 지원하고 있어서 많은 문제가 생기고 있다고 설명하는 글
+  * 이는 CSI 구현체가 대부분 볼륨 리사이징을 지원하고 있음에도
+    * StatefulSet 컨트롤러가 리사이징을 지원하지 않고 있어서 수동으로 작업해야 하는 우회 방법을 취해야 함
+  * 하지만 오퍼레이터가 이 문제에 대해 StatefulSet 워크로드를 관리하기 때문에
+    * StatefulSet을 제거하면 재생성하는 바람에 우회 방법을 쓰기 어렵게 만들고
+    * 각 Vitess 오퍼레이터 등에서 각자 구현하고 있다고 함
+  * 글 자체는 자사 제품을 홍보하는 느낌
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1512,6 +1522,10 @@ Docker
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
   * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
+  * [Getting started with Cilium for Kubernetes networking and observability - Spectro Cloud](https://www.spectrocloud.com/blog/getting-started-with-cilium-for-kubernetes-networking-and-observability/)
+    * Kubernetes에서 Cilium을 테스트해보는 간단한 소개 글
+    * Cilium은 eBPF 기반의 네트워크 플러그인으로 그 특성상 성능이 좋고 네트워크, 보안, 관측성을 제공할 수 있고 최근에 Mesh도 추가
+    * 로컬에서 K3s로 Kubernetes 클러스터를 구성해서 여기에 cilium CLI로 설치하고 Hubble로 대시보드까지 확인하는 방법 설명
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
