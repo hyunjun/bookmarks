@@ -40,6 +40,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
+* [PLAYCODE - Javascript Playground](https://playcode.io/)
 * [JS Is Weird](https://jsisweird.com/) JavaScript의 이상한 문법 25개 문제
 * [1주차-Trello 아키텍처 overview, javascript 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=19530125)
 * [Modern JavaScript for Python Developers - YouTube](https://www.youtube.com/watch?v=jAbDjt0pens)
