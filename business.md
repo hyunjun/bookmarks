@@ -59,6 +59,7 @@ Business
   * 2011년 구글에 합류해서 너무 좋았고 재정 상태도 좋아졌지만, 시간이 지나면서 인생의 균형이 깨졌다는 것을 깨달음
   * 구글이 너무 큰 조직이 되다 보니 업무 시간이 많지 않음에도 번아웃이 오는 것을 느끼고 큰 조직의 걱정이 없는 작은 스타트업으로 이직
 * [Burnout Guide: Symptoms, Causes, and Prevention - Commoncog](https://commoncog.com/g/burnout/)
+* [Developers are burned out, quitting their jobs and creating a crisis for recruiters  - WorkLife](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
@@ -578,6 +579,7 @@ Business
   * [면접, 1:1, 설문.. 좋은 경영은 좋은 질문에서 시작됩니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1W98C_yGllCjXTh6rW0zWiR_phwk3PRxe/view?usp=sharing)
 * [1:1 미팅에서 리더가 해야 할 말, 하지 말아야 할 말 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/oneononemeeting20220413)
   * [1:1 미팅에서 리더가 해야 할 말, 하지 말아야 할 말 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1OQ_mwrOv_1j74w3GRJvj_x5q5D-3-WM8/view?usp=sharing)
+* [X세대가 매월 100억원씩 쓰는 ‘퀸잇’ 운영하는 라포랩스 “1:1 미팅이 동기를 부여하는 문화의 핵심”](https://camp.lemonbase.com/ceo_interview/rapportlabs)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -1753,6 +1755,7 @@ Business
     * 오히려 불황에는 경쟁이 적어져서 생존할 수 있다면 그 기술을 가질 수 있게 되므로 좋은 문제를 풀려는 좋은 팀이 있다면 지금이 그 타이밍
 * [39 Moves to Survive (& Thrive) in a Downturn: 2022 Edition](https://www.nfx.com/post/39-moves-survive-thrive-downturn)
   * [39 Moves to Survive (& Thrive) in a Downturn: 2022 Edition](https://jordanc.notion.site/39-Moves-to-Survive-Thrive-in-a-Downturn-2022-Edition-e4206db055544e0ca93f60385c4f647c) 경기 침체에서 살아남고 성장하기 위한 플레이북
+  * [회사의 겨울나기를 위한 39가지 Tip | GeekNews](https://news.hada.io/topic?id=7107)
 * [전직 유니콘 CFO가 말하는 ‘스타트업 허와 실’ - 매경ECONOMY](https://www.mk.co.kr/economy/view/2022/469374/)
 * [스타트업 생활 그리고 성장. 대기업 이커머스 회사에서 스타트업 검색 모델러로 이직한지 1년이 넘는… | by Jukyoung LEE | Jun, 2022 | Medium](https://medium.com/@leejukyung/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%83%9D%ED%99%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B1%EC%9E%A5-aadd15eda833)
 * ['우버전쟁'을 통해 살펴본 스타트업 '허슬'의 3단계](https://eopla.net/magazines/68)
