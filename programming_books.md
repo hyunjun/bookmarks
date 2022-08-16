@@ -138,6 +138,12 @@ Programming Books
 * [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라 문004.099-구45ㅈ
   * ★★★★☆ 2022.08.03~05
+* 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
+  * 한라 530-김74ㄱ 탐라 문504-김73ㄱ 우당 문320.911-김73ㄱ
+  * ★★★☆☆ 2022.07.06
+  * [AI Platform Odyssey 공학의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ai_platform_odyssey.md)
+  * [AI Platform Odyssey 공학의 미래. PROLOGUE 문명사적 변곡점, 공학은 무엇을 해야 하는가 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/ai-platform-odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98-97bbb564ab8)
+  * [AI Platform Odyssey 공학의 미래](https://jh4hj.tistory.com/entry/AI-Platform-Odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
