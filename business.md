@@ -1788,6 +1788,7 @@ Business
 * [소노스 CEO가 블랙베리 실패에서 배운 4가지 교훈 - 티타임즈](https://www.ttimes.co.kr/article/2022080818247772113) 안전지대
 * [비키, 빙글, 더벤처스 그리고 캔 문지원·호창성 부부의 창업기 - 티타임즈](https://www.ttimes.co.kr/article/2022080817567789392)
 * [호창성‧문지원 부부의 15년 커뮤니티 비즈니스 노하우 - 티타임즈](https://www.ttimes.co.kr/article/2022081017327720594)
+* [무조건 선순환 구조를 만들어라](http://moneyman.kr/archives/6768) 문제점을 찾아 최대한 빨리 개선하는 기본
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
