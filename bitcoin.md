@@ -69,6 +69,7 @@ Bitcoin
 * [세상을 늦게 보기 위해 잃었던 것들](https://snack.planetarium.dev/kor/2022/03/things-i-lost-to-see-the-world-late/) 확정 confirmation 문제
 * [Smart-Contract-Resources/Build.md at master · ErichDylus/Smart-Contract-Resources](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
 * [스테이블 코인의 정의: 루나-테라, 그리고 코인 투자에 대하여 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254376) stable coin
+* [무너진 모래성, 스테이블 코인은 존재해야 하는가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48158)
 * [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
 * [암호자산, '심판의 날'이 다가온다 < 경제 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1057) 읽으면서 CAP theorem이 연상됨
