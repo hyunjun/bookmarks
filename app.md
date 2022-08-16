@@ -125,6 +125,7 @@ App
   * `pandoc <markdown filename> -f markdown -t html -s -o <html filename>`
   * [**Writing a Book with Pandoc, Make, and Vim**](https://keleshev.com/my-book-writing-setup/)
   * [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
+  * [Writing my PhD using groff](https://jstutter.netlify.app/#220721-writing-my-phd-using-groff)
   * [Quarto](https://quarto.org/)
     * [Create beautiful documents with Quarto and R - YouTube](https://www.youtube.com/watch?v=y5VcxMOnj3M)
     * ["파이썬, 비주얼 스튜디오 사용자 품는다” 차세대 R 마크다운, 콰르토 - ITWorld Korea](https://www.itworld.co.kr/news/245776)
@@ -141,6 +142,7 @@ App
     * [PDF 번역 프로그램 | GeekNews](https://news.hada.io/topic?id=6141)
   * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
+  * [Ghostscript : PDFI](https://www.ghostscript.com/blog/pdfi.html)
   * [Look Scanned](https://lookscanned.io/)
   * [MuPDF](https://mupdf.com/)
     * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
@@ -636,6 +638,7 @@ App
 * [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
+  * [Nix – taming Unix with functional programming - Tweag](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
