@@ -638,6 +638,7 @@ Linux
   * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
   * [Remove grep command while grepping using ps command - nixCraft](https://www.cyberciti.biz/tips/grepping-ps-output-without-getting-grep.html)
   * [How to use grep | Enable Sysadmin](https://www.redhat.com/sysadmin/how-to-use-grep)
+  * [why GNU grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
   * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
     * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
   * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
@@ -720,6 +721,8 @@ Linux
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
   * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
+  * [It’s time to leave the leap second in the past - Engineering at Meta](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
+    * [이제 '윤초'는 과거로 남겨둘 때가 되었다 | GeekNews](https://news.hada.io/topic?id=7046)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `parallel` [GNU Parallel Tutorial — GNU Parallel 20220222 documentation](https://www.gnu.org/software/parallel/parallel_tutorial.html)
@@ -913,6 +916,7 @@ Linux
   * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
   * [(리눅스 업스킬 도전 #16) tar와 친구들](https://jhrogue.blogspot.com/2020/10/16-tar.html)
   * [리눅스 tar.gz 파일 압축/삭제 하기 :: Jechue World](https://jechue.tistory.com/100) `find . -name "<file name pattern>" -exec sh -c 'tar cvzf {}.tar.gz {}; rm -f {};' \;`
+  * [The tar archive format, its extensions, and why GNU tar extracts in quadratic time - Mort's Ramblings](https://mort.coffee/home/tar/)
 * `taskset`
   * [리눅스의 CPU affinity. 리눅스에서 SMP(Symmetric MultiProcessing)을… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98-cpu-affinity-5df1a7ab3d99)
 * `tcpdump`
@@ -1301,6 +1305,7 @@ Linux
 * [데이터 고속전송 가이드](https://wiki.kreonet.net/faster-data)
 * [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 * [Linux Kernel network (networking stack)](https://pr0gr4m.tistory.com/entry/Linux-Kernel-network-networking-stack)
+* [What they don't teach you about sockets](https://macoy.me/blog/programming/Sockets)
 
 # Shell
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
