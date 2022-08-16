@@ -161,6 +161,22 @@ Deep Learning
   * [Solving (Some) Formal Math Olympiad Problems](https://openai.com/blog/formal-math/)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
     * [DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)￼ – 이바닥늬우스](https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/)
+    * [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned | Deephaven](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
+      * 이미지가 있는 블로그 글은 2.3배 더 engagement가 높은데, 이 블로그 이미지를 만들 사람이 없으므로
+        * DALL·E 2를 이용해서 블로그의 이미지를 만들어 내면서 배운 과정 설명
+      * DALL·E 2 프롬프트에 설명을 적으면 이미지를 얻을 수 있는데 이때
+        * 창의성이 꽤 필요, 원하는 이미지를 얻으려면 연습이 좀 필요
+        * 스타일 수정 요구사항을 주면 도움
+        * 아이디어를 얻기 위해 Reddit의 도움을 받을 수 있고
+        * 이상한 문자를 종종 출력하므로 이는 따로 지우는 게 좋음
+        * 특히 숫자에 대한 것은 잘 처리 못함
+      * 예술에서 사람의 역할이 곧 사라지진 않겠지만 이미지 사이트는 오래 가지 않을 거라고 얘기, 100개 블로그 이미지를 얻는데 45달러
+    * [How I Used DALL·E 2 to Generate The Logo for OctoSQL | Jacob Martin](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
+      * OctoSQL이라는 프로젝트의 로고를 만들기 위해서 DALL·E 2를 사용하는 과정 설명
+      * Octo라는 이름이 붙은 만큼 문어가 들어간 원하는 아이디어가 있었고
+      * 원하는 이미지를 얻기 위해서 계속해서 키워드를 바꿔가면서 얻어낸 로고의 기록
+    * [The-DALL·E-2-prompt-book-v1.02.pdf](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
+      * DALL·E 2의 프롬프트를 어떻게 이용할 수 있고 어떤 결과가 나오는지 정리된 PDF. DALL·E 2를 활용하기 전에 참고해 보기 좋은 문서
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
