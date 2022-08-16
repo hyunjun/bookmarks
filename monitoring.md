@@ -70,6 +70,9 @@ Monitoring
 * [Announcing Grafana OnCall, the easiest way to do on-call management | Grafana Labs](https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/)
 * [Monitoring distributed Systems with Grafana and Prometheus | by Aich Ali | Nov, 2021 | Medium](https://medium.com/@aichali42471/monitoring-distributed-systems-with-grafana-and-prometheus-f8cd3ca674cc)
 * [Utilizing Grafana & Prometheus Kubernetes Cluster Monitoring](https://adamtheautomator.com/prometheus-kubernetes/)
+* [TCP packets traffic visualization for kubernetes by k8spacket | Medium](https://medium.com/@bareckidarek/tcp-packets-traffic-visualization-for-kubernetes-by-k8spacket-and-grafana-bb87cb106f30)
+  * `gopacket`을 사용하는 `k8spacket`으로 Kubernetes 클러스터 안에서 TCP 패킷을 모니터링해서 Grafana로 시각화하는 방법을 설명
+  * `k8spacket`을 `DemonSet`으로 띄워서 10초마다 네트워크를 모니터링하고 각 Pod, Service 간에 TCP 연결과 트래픽이 오가는 것을 확인 가능
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
 * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
 * Grafana k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
