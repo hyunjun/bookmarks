@@ -647,6 +647,7 @@ Python
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
   * [Use Python to parse configuration files | Opensource.com](https://opensource.com/article/21/6/parse-configuration-files-python) INI, JSON, YAML, TOML
+  * [파이썬 앱 구성을 더 쉽게⋯TOML의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/248128)
 * contextlib
   * [On the Beauty of Python's ExitStack — Nikolaus Rath's Website](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * copy
@@ -4226,6 +4227,7 @@ Python
 * [Which Python Dependency Manager Should I Choose? - ActiveState](https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/)
 * [파이썬 패키징의 과거, 현재, 그리고 미래 - Morgenrøde](https://ryanking13.github.io/2021/07/11/python-packaging.html)
 * [Abandon requirements.txt for managing dependencies in Python immediately | by Vitor Ramalho | Medium](https://medium.com/@ramalhodevitor/abandon-requirements-txt-for-managing-dependencies-in-python-immediately-50b1c45b824a)
+* [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
@@ -4736,7 +4738,8 @@ Python
 * [파이썬으로 서울시 코로나19 현황 분석하기 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmoMV8cuTV6EKlN1zon0XfZm)
 * [How to handle Missing Values in Python, using Rank Method - YouTube](https://www.youtube.com/watch?v=V7b1sJ7e7Dk)
 * [How to DeDuplicate in Python using Hashing Technique - YouTube](https://www.youtube.com/watch?v=C5SS8ftNxPc)
-* [나도 판다스 오픈소스 기여자?! - YouTube](https://www.youtube.com/watch?v=Oj2u7SN7-Bk)
+* [나도 판다스 오픈소스 기여자?! - YouTube](https://www.youtube.com/watch?v=Oj2u7SN7-Bk)
+* [Loading Data into Pandas: 5 Tips and Tricks You May or May Not Know](https://dataground.io/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
