@@ -733,6 +733,7 @@ App
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
   * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
+* [ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
@@ -1024,6 +1025,7 @@ App
   10. [스토리보더 Storyboarder](https://wonderunit.com/storyboarder)
     * 원더 유니트(Wonder Unit)에서 만든 오픈 소스 스토리보드 프로그램. 6가지 그리기 도구. 타블렛 지원. 인터페이스가 단순하고 직관적이며 부가 기능으로 3D를 통해 편리하게 씬을 제작할 수 있는 씬 제작기 제공
 * kolourpaint4 [리눅스 그림판 프로그램 - kolourpaint4](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B7%B8%EB%A6%BC%ED%8C%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-kolourpaint4)
+* Camera for OBS Studio [Use your iPhone camera to stream with in OBS Studio](https://obs.camera/)
 * [obs-mac-virtualcam - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS](https://github.com/johnboiles/obs-mac-virtualcam)
 
 # Mac
@@ -1852,6 +1854,7 @@ App
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
+* [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
 * Powerpoint
   * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
 * [TreeSheets](http://strlen.com/treesheets/)
