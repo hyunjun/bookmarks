@@ -575,6 +575,7 @@ Interview
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
 * [Ace the System Design Interview — Distributed ID Generator | by Zixuan Zhang | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
+* ["System Design Interview Questions with solution A thread 🧵 1. How to implement a non-blocking Queue https://t.co/5fGUnyKaN3" / Twitter](https://twitter.com/javarevisited/status/1552286870813298689)
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
 * [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
