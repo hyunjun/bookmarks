@@ -148,6 +148,7 @@ Writing
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
+* [art-of-readme: Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 * [The C4 model for visualising software architecture](https://c4model.com/)
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
@@ -158,6 +159,7 @@ Writing
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
+* [ko-translation-terms: 더 나은 번역을 위한 프로그래밍 용어 번역 용례집입니다](https://github.com/RanolP/ko-translation-terms)
 * [Mintlify | Continuous Documentation Platform](https://www.mintlify.com/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
