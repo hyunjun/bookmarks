@@ -146,9 +146,11 @@ Programming Language
 * [The spectra of programming languages | by Hong Jiang | Ruminations on Programming | Medium](https://medium.com/really-learn-programming/rlp-02-the-spectra-of-programming-languages-1292042a91e1)
 * [Green Vs. Brown Programming Languages - Earthly Blog](https://earthly.dev/blog/brown-green-language/)
 * [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
+* [Safety - by Jeff Schwab - Deeply Nested](https://nested.substack.com/p/safety) memory safety, c++ rust go
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * ["틈새를 파고든다" 새로운 프로그래밍 언어 11선 - ITWorld Korea](https://www.itworld.co.kr/news/236219)
 * [Top 10 Weirdest Programming Languages in Use in 2022](https://www.analyticsinsight.net/top-10-weirdest-programming-languages-in-use-in-2022)
+* [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust](https://benhoyt.com/writings/count-words/)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
@@ -515,6 +517,8 @@ Programming Language
   * [더북(TheBook): 모두의 스크래치 알고리즘](https://thebook.io/007033/)
   * [더북(TheBook): 모두의 스크래치 개정 2판](https://thebook.io/080213/)
   * [더북(TheBook): 모두의 인공지능 with 스크래치](https://thebook.io/080210/)
+  * [Pickcode](https://www.pickcode.io/)
+    * [PickCode - Scratch 다음을 위한 교육용 코딩 환경 | GeekNews](https://news.hada.io/topic?id=7074)
 * self
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen
