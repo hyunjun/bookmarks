@@ -236,7 +236,6 @@ Go
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
 * [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
-* [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 * [**Request-Response Olympics — The Search For The Perfect Request-Response Protocol**](https://medium.com/perimeterx/rpc-olympics-the-search-for-the-perfect-rpc-protocol-269ae97f59cc)
 * [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
@@ -692,6 +691,7 @@ Go
 * [graphjin: GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler](https://github.com/dosco/graphjin)
   * [GraphJin - 빠른 GraphQL API 만들기 | GeekNews](https://news.hada.io/topic?id=5501)
 * gRPC
+  * [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
   * [gRPC Deadline](https://jusths.tistory.com/131)
   * [gRPC Error in Golang](https://jusths.tistory.com/132)
   * [Clean Architecture in Go - An example of clean architecture in Go using gRPC](https://medium.com/@hatajoe/clean-architecture-in-go-4030f11ec1b1)
@@ -704,6 +704,7 @@ Go
   * [Notification Microservice Project With gRPC](https://www.tech3code.com/2022/02/microservice-project-with-grpc-golang.html)
   * [Building Microapps with gRPC-Web, Go and React. | Alva Labs](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
   * [Writing a Simple gRPC Application in Golang From Scratch | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/writing-a-simple-grpc-application-in-golang-from-scratch-6b70e8688f14)
+  * [How to writing a microservice in Golang which communicates over gRPC](https://morioh.com/p/a5cb3c4e1af2)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [gvm: Go Version Manager enables seamless installing and swapping between Go versions with a single command. This tool manages a Go environment for the user by allowing a user to specify which Go version they wish to use and handling all of the steps to install and configure that Go version. GVM also supports installing Go from the official Golang master branch so that you can easily try the next version of Go without waiting for a pre release build](https://github.com/devnw/gvm)
 * [hangulize.org](https://hangulize.org)
