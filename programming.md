@@ -2969,6 +2969,9 @@ Programming
 * [Cryptanalysis of the Algorand Subset-Sum Hash Function (UPDATED 25th June 2022) | EF Cryptography Research](https://crypto.ethereum.org/blog/algorand-hash-analysis)
 * [GCP 보안 운영 시리즈  제로 트러스트 기반 보안 운영 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/identity-security/google-cloud-security-based-on-zerotrust)
 * [애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성 | GeekNews](https://news.hada.io/topic?id=7153)
+* [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser · Felix Krause](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
+  * Instagram과 Facebook에서 인앱브라우저로 웹사이트를 열었을 때 pcm.js같은 파일을 자동으로 주입하기 때문에
+    * 사용자와 웹사이트 제공자와 상관없이 Meta가 사용자의 모든 것을 모니터링 가능
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
