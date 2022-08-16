@@ -800,6 +800,14 @@ Business
 * [What to Do If Your Career Is Stalled and You Don’t Know Why](https://hbr.org/2018/11/what-to-do-if-your-career-is-stalled-and-you-dont-know-why)
   * [커리어가 정체되었을 때, 팬더를 의심하라](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-what_to_do_if_your_career_is_stalled_and_you_dont_know_why-md)
 * [잡스의 애플을 10배로 만든 팀쿡의 마법 - YouTube](https://www.youtube.com/watch?v=LP1t3ebw9jQ)
+* [CEO Shadow Program | GitLab](https://about.gitlab.com/handbook/ceo/shadow/)
+  * GitLab에서 운영하는 CEO 그림자 프로그램을 설명한 문서
+  * CEO 그림자 프로그램은 GitLab의 구성원이 2주마다 번갈아 가면서 CEO와 함께 CEO 업무를 하는 프로그램
+    * 기존에는 본사가 있는 샌프란시스코에 와서 했지만 코로나 시대에는 원격으로 진행
+  * 이 프로그램을 통해서 GitLab의 멤버들이 회사의 관점을 이해하게 되어 더 잘 협업 가능
+    * 회사는 즉각적인 피드백을 얻고 외부에도 좋은 인상
+  * 그동안의 인터뷰 영상과 진행 방식, 비용 처리 등 아주 자세히 나와 있음
+    * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘 
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
