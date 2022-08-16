@@ -1903,6 +1903,23 @@ App
   * [스케치에서 피그마로 디자인 툴 전환하기 | idus-Tech](https://medium.com/idus-tech/sketch-to-figma-de254567bbf)
   * [웹 디자이너가 PX대신 REM을 사용해야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1410/) figma 자체에 대한 이야기는 아님
   * [React 개발자를 위한 피그마 플러그인 개발(feat. 온보딩) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8339/)
+  * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
+    * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
+    * 사용법
+      * 작업공간에서 아래와 같이 디자인 모듈을 추가한후, `grida add https://www.figma.com/file/xxx?node-id=xxx`
+      * 아래처럼 한줄로 임포트하여 사용하면 끝
+
+        ```
+        // index.tsx (also works with flutter)
+        import { MyDesign } from "../grida"
+
+        export default function (){
+             //...
+             return <MyDesign/>
+             //...
+        }
+    * [grida cli 소개페이지](https://grida.co/cli)가 grida cli 로 작성
+    * [code: Design to code engine. A design ✌️ code standard. Supports React, Flutter and more](https://github.com/gridaco/code)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 
