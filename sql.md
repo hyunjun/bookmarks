@@ -336,6 +336,16 @@ SQL
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
 * table_ddl [mariadb mysql 특정 스키마 테이블 ddl 추출 프로그램 배포](https://stricky.tistory.com/468)
+* [Trino | Distributed SQL query engine for big data](https://trino.io/)
+  * [Trino | Why leaving Facebook/Meta was the best thing we could do for the Trino Community](https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html)
+    * 페이스북에서 만든 Presto의 초기 멤버들이 페이스북을 나와서 Trino로 리브랜딩하고 Trino 재단을 만들었는데 그게 왜 좋은 결정이었는지를 설명한 글
+    * Presto를 처음 오픈소스로 릴리스한 2012년은 Facebook이 IPO 하기 전, 오픈소스로 프로젝트를 오픈하는 데 문제가 없었음
+    * 사람들은 커뮤니티를 만들지 회사를 만드는 게 아니고 회사는 목표 자체가 커뮤니티와는 다름
+    * 오픈소스는 "누구도 특별하지 않다"는 엄격한 정책이 있지만
+    * Facebook 내에서 Prestor가 중요한 프로젝트가 되면서 승인/성과를 위해서 프로젝트의 커밋 권한을 받으려고 함
+    * 처음에 한 실수는 Presto라는 이름의 애정이 있어서 이름을 바꾸지 않으려고 했고
+    * 페이스북도 Presto가 커뮤니티 소속이라는 합의가 있다고 믿었지만 실제로는 커뮤니티가 나가자 페이스북의 소유가 됨
+    * 그래서 페이스북을 나와야 했고 Trino로 리브랜딩해서 홍보도 새로 해야 했지만 그래도 커뮤니티의 힘을 믿었고 빠르게 스타도 증가
 * [usql - Universal command-line interface for SQL databases](https://github.com/xo/usql)
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
@@ -513,6 +523,12 @@ SQL
 * [30 mins with JSON in MySQL](http://dasini.net/blog/2015/11/17/30-mins-with-json-in-mysql/)
 * [Max JSON column length in MySQL](https://stackoverflow.com/questions/40711101/max-json-column-length-in-mysql)
 * [MySQL JSON vs. TEXT. JSON 타입 컬럼으로 저장하는 것이 좋을까요 ?  TEXT타입 컬럼이… | by Sunguck Lee | 당근마켓 팀블로그 | Aug, 2022 | Medium](https://medium.com/daangn/json-vs-text-c2c1448b8b1f)
+  * MySQL에서 데이터타입인 JSON과 TEXT 성능 비교
+    * 데이터베이스에서 JSON을 지원한 뒤로 유용한 기능이지만 언제 JSON을 쓰고 언제 TEXT를 써야 할 지 파악 가능
+  * 큰 데이터를 기준으로 비교한 결과 COUNT 쿼리는 JSON을 파싱하지 않아서 거의 비슷한 성능
+  * JSON 내부의 필드로 COUNT 쿼리를 하는 경우는 파싱하느라고 시간이 좀 더 소요
+  * 대신 데이터를 조회하는 경우는 JSON 처리에 TEXT보다 오래 걸리기 때문에 JSON이 TEXT보다 훨씬 오래 소요
+  * 대신 JSON은 내부의 특정 필드만 접근하거나 업데이트하는 경우나 특정 JSON 필드를 인덱스로 생성할 때는 그 효과를 볼 수 있음
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
