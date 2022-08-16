@@ -317,6 +317,8 @@ Book
 * (NOT YET) [십 대를 위한 정치 사전](https://www.hankyung.com/life/article/202208102679Y)
 * (NOT YET) [오십, 나는 이제 다르게 읽는다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298038671)
 * (NOT YET) [차이나 쇼크 한국의 선택](https://www.hankyung.com/life/article/202208104083Y)
+* (NOT YET) [마음은 단단하게 인생은 유연하게](https://www.gilbut.co.kr/book/view?bookcode=BN003483)
+* (NOT YET) [알고 있다는 착각](https://www.facebook.com/kichul.kim.75/posts/pfbid05iZzs8vpLLAZQdY3rSy3zytvCd4otheXFatUyfcz65zcYc2aZu1QszbVg8ExX6s3l)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
