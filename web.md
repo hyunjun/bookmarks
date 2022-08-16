@@ -75,8 +75,19 @@ Web
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
 * [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726)
 * [정적 사이트에서 한국어 웹 폰트 최적화하기](https://palindrom615.dev/optimizing-web-font)
-* [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 1: 기존 서비스 구경](https://velog.io/@filekiwi/optimization-web-font-hangul-part-1)
-* [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 2: 꼼수로 완성하다](https://velog.io/@filekiwi/optimization-web-font-hangul-part-2)
+* 빠른 첫화면을 위한 한글 폰트 최적화 여행
+  * [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 1: 기존 서비스 구경](https://velog.io/@filekiwi/optimization-web-font-hangul-part-1)
+  * [빠른 첫화면을 위한 한글 폰트 최적화 여행 - part 2: 꼼수로 완성하다](https://velog.io/@filekiwi/optimization-web-font-hangul-part-2)
+  * 한글은 용량 때문에 웹에서 다루기가 어려운데 이를 최적화하기 위한 과정을 설명한 글
+  * 대부분의 한국어로 번역된 폰트 최적화 글도 영어를 번역한 것일 뿐이라 `font-display:optional`만 쓰면 최적화되는 줄 알고 있다가
+    * 이는 폰트라 100ms 이내 폰트가 로딩되어야만 유효하다는 것을 알게 되고
+    * 유명한 사이트를 찾아보면서 웹 폰트를 어떻게 쓰는지 추적했지만 안 쓰면 안 섰지 제대로 쓰는 곳은 없었음
+  * 깜빡거리지 않고 처음부터 웹폰트로 보여주는 방법을 고민하다가
+    * 사용하는 글자만으로 구성한 서브셋 폰트를 만들어봤지만 해결이 안되어
+    * 첫 로딩 때 나오는 상단 부분만의 폰트로 서브 셋을 만들어서 드디어 문제 해결
+  * 하지만 이후 아랫부분의 문제는 제대로 해결이 안 되어서
+    * JavaScript로 스크롤을 감지해서 폰트를 바꾸도록 해서 해결하고
+    * 첫 뷰포트에 보이는 부분의 글자만 탐지해서 서브 셋을 만들도록 자동화
 * [ReadingShare - 영어 독해 문장 공유 사이트](https://github.com/parkheesung/ReadingShare)
 * [모던 웹 스택 심층 분석](https://medium.com/@manyoung/%EB%AA%A8%EB%8D%98-%EC%9B%B9-%EC%8A%A4%ED%83%9D-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-713eb1492f4e)
 * [웹 개발자의 10가지 흔한 실수](https://code.tutsplus.com/ko/articles/10-common-web-developer-mistakes--cms-24791)
