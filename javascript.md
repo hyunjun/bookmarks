@@ -2159,6 +2159,7 @@ Javascript
   * [개발자가 사랑하는 프론트엔드 프레임워크2 스벨트 Svelte 사용법](https://www.samsungsds.com/kr/insights/svelte2.html)
   * [Svelte에 적용하는 Typescript | Univdev](https://www.univdev.page/posts/svelte-typescript/)
   * [Svelte 기초 학습 - YouTube](https://www.youtube.com/playlist?list=PLEU9vwKdoCqQhmfnasP6y_ySfYESiEXdE)
+  * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
     * [SvelteKit 라우팅 구성 시 주의할 점 - DEV Community](https://dev.to/composite/sveltekit-rauting-guseong-si-juyihal-jeom-2cjl)
