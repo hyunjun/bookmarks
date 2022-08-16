@@ -4613,6 +4613,7 @@ Javascript
   * [단언문 (expect/assert) 안에서 비교하지 않기](https://jojoldu.tistory.com/663)
   * [expect에서 false와 falsy 구분하기](https://jojoldu.tistory.com/664)
   * [MSW를 활용한 Clean UI Integration Test | goohooh.github.io](https://goohooh.github.io/Testing/clean_ui_test_code/)
+  * [아직도 커버리지에 집착하는가? : 네이버 블로그](https://blog.naver.com/pjt3591oo/222850170026)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
