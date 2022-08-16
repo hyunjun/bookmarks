@@ -1332,6 +1332,7 @@ Business
 * [김성회의 리더의 언어 실어증에 걸린 조직.. 상사가 무서워서가 아니라 우스워서 입 닫는다](https://news.v.daum.net/v/20171107070018521)
 * [김성회의 '3대 소통병법' 리더 여러분, 지시와 코칭 헷갈리지 마세요](https://news.v.daum.net/v/20190107092402146)
 * [안타깝지만… 우리 주변에 좋은 리더는 거의 없다 – 체인지그라운드](http://thechangeground.com/archives/23108)
+* [미팅으로 가득한 팀장의 하루](https://brunch.co.kr/@zseo/44)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
