@@ -125,6 +125,7 @@ Functional Programming
 * [함수형 프로그래밍 언어 3대장. (1) 세상 가장 우아한 코드를 만드는 Clojure, (2) 실무에… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-3%EB%8C%80%EC%9E%A5-d97729e97d4c)
 * [Persistent data structures in functional programming](https://softwaremill.com/persistent-data-structures-in-functional-programming/)
 * [Functional programming is finally going mainstream](https://github.com/readme/featured/functional-programming)
+* [TECH l 월간FP(Functional Programming) - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV1Ltml73FGrG3XoS7I02ADx) clojure, ReScript
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
