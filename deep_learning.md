@@ -1400,6 +1400,8 @@ Deep Learning
 * [LabNotebook - A simple experiment manager for deep learning experiments](https://github.com/henripal/labnotebook)
 * Lasagne
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
+* [micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
+  * [The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [MindSpore - a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
