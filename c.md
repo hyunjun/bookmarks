@@ -515,6 +515,7 @@ C
   * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
   * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
   * [Valgrind - A neglected tool from the shadows or a serious debugging tool? | craft::cpp](https://m-peko.github.io/craft-cpp/posts/valgrind-a-neglected-tool-from-the-shadows-or-a-serious-debugging-tool/)
+  * [Twenty years of Valgrind | Nicholas Nethercote](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 
 # Pointer
 * [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
