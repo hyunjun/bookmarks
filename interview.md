@@ -178,6 +178,7 @@ Interview
 * [외국계 기업과 면접과 보기 전에 반드시 알아야할 것 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-know-before-interview/)
 * [Programming trick questions](https://qntm.org/trick)
 * [신입 개발자 면접 질문 시리즈](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1) 여러 주제를 전반적으로 다루는 데 꽤 괜찮음
+* [취준생들을 위한 신입 개발자 면접 가이드](https://velog.io/@yukina1418/%EC%B7%A8%EC%A4%80%EC%83%9D%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [기술 면접 질문 기술 면접 예상 질문 대비하기 - 운영체제(OS)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
 * [싱가폴 개발자 면접 최종까지 프로세스 정리](https://tacogrammer.com/%EC%8B%B1%EA%B0%80%ED%8F%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%B5%9C%EC%A2%85%EA%B9%8C%EC%A7%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%95%EB%A6%AC/)
 * [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
@@ -875,6 +876,7 @@ Interview
 * [개발자가 회사에 지원할 때 점검해야 할 것 5가지](https://www.notion.so/5-29e9d83ea9ac4da491d8a3e95938d276)
 * [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
 * [자소서에 절대 쓰지 말아야 하는 다섯 가지 표현 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243171)
+* [주니어 개발자 이력서 쓰는 법](https://velog.io/@yukina1418/%EC%A3%BC%EB%8B%88%EC%96%B4-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
