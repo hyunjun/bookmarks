@@ -430,6 +430,7 @@ Programming
   * DevRel이 어떤 일을 하고 어떻게 해야하는지를 설명한 사이트
   * DevRel의 활동은 커뮤니티, 컨텐츠, 제품 3가지 타입으로 구분되므로 DevRel로 취직하기 위해서는 코딩, 커뮤니티 구축, 컨텐츠 제작의 기술을 보여줄 수 있어야 함
   * DevRel에게 가장 어려운 건 개발자의 관심을 받는 것인데 이를 위한 조언도 정리
+  * [DevRel 이란 무엇인가 | GeekNews](https://news.hada.io/topic?id=7061)
 * [우리는 이 모든 것을 DevRel이라고 부르기로 했어요](https://brunch.co.kr/@moon-sky/20)
 * [1년 만에 돌아왔습니다. DevRel 담당자들의 근황! | 4구 멀티탭⚡️ - YouTube](https://www.youtube.com/watch?v=Hx90j4cP5o0)
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
