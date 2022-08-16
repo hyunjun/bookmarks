@@ -1135,6 +1135,8 @@ Git
 * [GitScraper - Downloads entire Git repositories from publicly accessible .git folders over HTTP](https://github.com/delight-im/PHP-GitScraper)
 * [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [Git Sketch Plugin - A Git client generating pretty diffs built right into Sketch](https://mathieudutour.github.io/git-sketch-plugin/)
+* [git-story - Tell the story of your Git project by creating video animations (.mp4) of your commit history directly from your Git repo](https://initialcommit.com/tools/git-story)
+  * [Git-Story : 커밋 히스토리를 애니메이션으로 만들어 설명하기 | GeekNews](https://news.hada.io/topic?id=7038)
 * [gitswarm](http://www.perforce.com/gitswarm)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/extrawurst/gitui)
