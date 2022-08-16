@@ -156,7 +156,13 @@ Time Series
   * [It’s About Time For Time Series Databases](https://www.nextplatform.com/2018/01/25/time-time-series-databases/)
   * [TimescaleDB vs. Amazon Timestream: 6000x faster inserts, 5-175x query speed](https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/)
 * TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
-* TSCoke [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
+* TSCoke
+  * [TSDB as a Service, TSCoke 개발기 – tech.kakao.com](https://tech.kakao.com/2022/08/09/developing-tsdb-as-a-service-tscoke/)
+    * 카카오에서 TSCoke라는 시계열 데이터베이스를 만들게 된 과정 설명
+    * Redicoke라는 분산 키-밸류 스토어를 사용
+      * Redicoke는 특성상 저장공간이 많이 남았기 때문에 이 공간을 지표 데이터를 저장하는 데 활용하기로 선택
+      * 이에 따라 웹 콘솔을 제공하고 오픈소스를 연동하고 무중단 수평 확장을 제공하는 등의 기능을 기획해서 구현
+      * 메모리 문제와 타임 스탬프가 역전되는 현상이 발견되어 Adaptive Radix Tree와 Dictionary coding을 도입하고 SSL을 구현해서 문제 해결
 
 # Python
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
