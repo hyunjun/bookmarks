@@ -1889,6 +1889,7 @@ Business
 * [문제정의에 집중하는 팀의 디자이너는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1589/)
 * [The History of User Interfaces](https://history.user-interface.io/)
 * [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
+* [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
