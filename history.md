@@ -82,10 +82,6 @@ History
 * [기사 - 무속으로 선 넘었던 사람들: 명성황후와 진령군의 시대는 반복될 것인가](https://www.ddanzi.com/ddanziNews/720237226)
 
 # 한국
-* [3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
-* [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
-* [극우반공주의자 김구는 어떻게 진보의 아이콘이 될 수 있었나](http://m.ohmynews.com/NWS_Web/Mobile/ss_pg.aspx?CNTN_CD=A0002027939)
-* [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
 * 김진명의 '대한민국 7대 미스터리'
   * [우리나라가 왜 대한민국일까?](https://storyfunding.daum.net/episode/1700)
   * [역사조작, 전쟁도 불러온다](https://storyfunding.daum.net/episode/1865)
@@ -157,6 +153,11 @@ History
 * [영화 “택시운전사”에 나오지 않은 네가지 이야기](http://channy.creation.net/blog/1159)
 
 ## 일제 강점기
+* [3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
+* [첫 광복절 기념식에서 발언하는 김구(동영상)](http://www.huffingtonpost.kr/2015/08/13/story_n_7980282.html)
+* [극우반공주의자 김구는 어떻게 진보의 아이콘이 될 수 있었나](http://m.ohmynews.com/NWS_Web/Mobile/ss_pg.aspx?CNTN_CD=A0002027939)
+* [광복 70주년, 이제는 알아야 할 숨겨진 역사](http://slownews.kr/44732)
+* [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 * [동북아 과거사 갈등과 미국의 책임](http://www.huffingtonpost.kr/seiyoung-cho/story_b_6828782.html)
 * [박유하 논란에서 우리가 깨달아야 할 것](http://www.huffingtonpost.kr/jeongil-jang-/story_b_6860430.html)
 * [조선 민중은 호랑 영감에게 잡아먹힐 토끼가 불쌍했다](http://www.huffingtonpost.kr/2015/03/21/story_n_6914696.html)
@@ -179,7 +180,6 @@ History
 * [천황을 위해 죽으라! ‘야스쿠니의 신’이 되도록?](http://ppss.kr/archives/48460)
 * [메이지 일본의 산업혁명 유산과 조선인 강제노동](http://ppss.kr/archives/52111)
 * [조선인 지원병: 일본군이 되고자 했던 조선인들](http://ppss.kr/archives/50722)
-* [광복 70주년, 미완의 해방: "우리가 죽기를 기다리는 것 같다"](http://slownews.kr/44414)
 * [영화 암살의 몇 가지 역사적 사실에 관하여](http://slownews.kr/44444)
 * [우리는 진정 해방됐나?](http://www.huffingtonpost.kr/taekyung-lee/story_b_7945124.html)
 * 친일과 망각
@@ -214,6 +214,7 @@ History
 * [서울 한복판에 식민 통치 핵심기구가 눌러 앉은 사연 서울 근대건축 톺아보기](https://news.v.daum.net/v/20220116113001656)
 * [유학생들의 출세주의와 과학기술 1세대의 지연 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=748)
 * [과학적 계몽주의자 '이광수의 친일' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=839)
+* [흩어진 역사, 잊혀진 이름들](https://monument.sisain.co.kr/) 일본 근대화의 '심장'은 조선인 노동자였다
 
 ## 조선
 * [조선왕실 가계도](http://www.heritage.go.kr/heri/html/HtmlPage.do?pg=/royaltombs/royalFamilyGen.jsp)
