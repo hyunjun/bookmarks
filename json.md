@@ -126,6 +126,7 @@ Json
 * [쉽게 알아보는 서버 인증 2편(Access Token + Refresh Token) — 그랩의 블로그](https://tansfil.tistory.com/59)
 * [직접 만들어보며 이해하는 JWT](https://hudi.blog/self-made-jwt/)
 * [인증에 활용하는 JWT는 어떻게 보안을 유지할 수 있는가?](https://blog.naver.com/pjt3591oo/222689578991)
+* [JWT 인증은 무엇이고 어떻게 사용해야 할까? | Popit](https://www.popit.kr/jwt-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [wffweb-demo-deployment: wffweb 12 demo project. It uses embedded tomcat 10. It is deployed in Heroku @ https://wffweb.herokuapp.com](https://github.com/webfirmframework/wffweb-demo-deployment)
 
 ## JWT Go
