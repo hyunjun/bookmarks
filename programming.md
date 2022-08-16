@@ -2209,6 +2209,7 @@ Programming
 * [(추천) 개발 서버 무료로 구하는 법 7가지](https://brunch.co.kr/@topasvga/705)
 * [모든 것은 클라우드로…비용 폭탄의 역습 | 한경닷컴](https://www.hankyung.com/it/article/2022071190291)
 * [Netflix Architecture: How Much Does Netflix's AWS Cost?](https://www.cloudzero.com/blog/netflix-aws)
+* [5 open source tools for developing on the cloud | Opensource.com](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3479,6 +3480,7 @@ Programming
 * [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
 * [해커는 왜 모바일 앱을 공격할까? 모바일 앱 해킹 유형과 보안 방법](https://liapp.lockincomp.com/ko/blog/blog-Post/mobile-app-hacking-and-protection/)
 * [딥링크의 모든것(feat. App Link, Universal Link, Deferred DeepLink) | 헤이딜러 기술블로그 | by Ted Park | PRND | Jul, 2022 | Medium](https://medium.com/prnd/%EB%94%A5%EB%A7%81%ED%81%AC%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83-feat-app-link-universal-link-deferred-deeplink-61d6cf63a0a5)
+* [모바일 웹에서 뷰포트 역할. 역사적으로 처음 널리 알려진 모바일 웹 브라우저는 아이폰용… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9%EC%97%90%EC%84%9C-%EB%B7%B0%ED%8F%AC%ED%8A%B8-%EC%97%AD%ED%95%A0-845c9fb0a983)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
