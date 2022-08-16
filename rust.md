@@ -243,6 +243,8 @@
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nannou - a library that aims to make it easy for artists to express themselves with simple, fast, reliable code](https://nannou.cc/)
+* [napi-rs: A framework for building compiled Node.js add-ons in Rust via Node-API](https://github.com/napi-rs/napi-rs)
+  * [Node.js와 Rust의 우아한 결합 napi-rs | 명시지(形式知)](https://blog.hanlee.io/2022/napi-rs)
 * [navi: An interactive cheatsheet tool for the command-line and application launchers](https://github.com/denisidoro/navi)
 * [Neothesia: Flashy Synthesia Like Software For Linux,Windows and MacOs](https://github.com/PolyMeilex/Neothesia)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
