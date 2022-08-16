@@ -152,6 +152,13 @@ Programmer
 * [이런 얘기를 하면 화내는 사람도 있죠 한기용 3부 최종화 - YouTube](https://www.youtube.com/watch?v=3U0cbzmwSYc)
 * [27년차 실리콘밸리 개발자가 ‘10번의 이직’ 후 알게 된 것들](https://eopla.net/magazines/80)
 * [구글 13년 차가 넥스트스텝으로 선택한 야놀자 | 원티드](https://www.wanted.co.kr/events/22_07_s12_b01) 개인의 이야기와 커리어 이야기가 섞여 있고 일반적인 이야기지만 좋음
+* [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career | by bytefish | Frontend Canteen | Aug, 2022 | Medium](https://medium.com/frontend-canteen/from-a-dropout-to-a-core-contributor-to-deno-heres-the-story-of-my-10-year-programming-career-d54a1a7add0f)
+  * 대학을 중퇴하고 10년 뒤에 Deno의 핵심 기여자가 된 [justjavac (迷渡)](https://github.com/justjavac)의 이야기
+  * 대학 등록금을 내지 못해서 중퇴, 10,000시간의 법칙을 믿고 프로그래밍 공부를 하다가
+  * Ryan Dahl의 Node.js 발표를 그를 존경하게 되어 Node.js에 관해 공부
+  * 이후 Ryan이 Deno를 공개했을 때 관심을 가지고 관련 생태계에 도움이 될 프로젝트를 진행하고 VS Code 확장도 만든 끝에 Deno의 핵심 기여자로 합류
+  * 지금은 GitHub의 300여 개의 오픈소스 프로젝트를 공개해서 스타 수로 상위 10명 중의 한 명인 개발자
+  * "Education represents the past, ability represents the present, and learning ability represents the future."
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
