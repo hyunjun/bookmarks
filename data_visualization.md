@@ -156,6 +156,7 @@ Data Visualization
   * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
 * [rawgraphs-app: A web interface to create custom vector-based visualizations on top of RAWGraphs core](https://github.com/rawgraphs/rawgraphs-app)
   * [Home | RAWGraphs](https://rawgraphs.io/)
+* [react-native-animated-charts: Set of components and helpers for building complex and beautifully animated charts](https://github.com/rainbow-me/react-native-animated-charts)
 * [revogrid: Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance](https://github.com/revolist/revogrid)
 * [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
   * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
