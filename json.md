@@ -205,6 +205,17 @@ Json
 * [json2table.com](http://json2table.com/)
 * [json2ts - generate TypeScript interfaces from json](http://json2ts.com/)
 * [JSON2XML](https://esstudio.site/json2xml/)
+* [json5: JSON5 — JSON for Humans](https://github.com/json5/json5)
+  * [“Ignore the f’ing haters!” - Aseem Kishore](https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5)
+    * 10년 전인 2012년에 JSON의 문제를 해결하기 위해서 JSON5를 오픈소스로 만들어 해커뉴스에 공개
+      * 그 결과는 수많은 조롱과 비난, HashiCorp의 Mitchell Hashimoto는 HTML7이라는 패러디 저장소까지 만들면서 농담으로 사용
+    * 다행히 이 일에 화가 났다기 보다는 놀랬고 이러한 의견들을 무시하고 계속해서 개발한 결과
+      * JSON5는 이제 주당 6천만 다운로드를 기록, npm에서 상위 0.1%, Apple도 JSON5 도입
+    * 이를 통해 혐오자들은 무시하라는 것을 배움
+      * 싫어하는 사람들보다 일부라도 좋아하는 사람들을 위해서 제품을 만들어야 하고
+      * 기여한 사람을 홍보할 뿐만 아니라 Pull Request를 올린 사람에게 커밋 엑세스 권한 부여
+        * 통제권을 잃을까 봐 걱정했지만 실제로는 잘 동작
+    * 우리는 모두 미래를 예측할 수 없으니 친절해야 한다는 점도 알게 됨
 * [json65: A JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
 * [JSON to CSV - CSVJSON](https://csvjson.com/json2csv)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
