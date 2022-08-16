@@ -58,6 +58,7 @@
 * [올리다버거](https://blog.naver.com/yinjung7777/222224733506)
 * [제주시청 가드망제 - 메뉴판, 시금치 리조또, 차돌 랑귀니](https://langueihr.tistory.com/31)
 * [제주 한림 맛집 - 레스토랑 모디카](https://blog.naver.com/gorgeous_ha/221383368789)
+* [제주도에 진심인 연예인 추천 맛집 모음(김나영, 이효리, 엄정화의 봉성식당, 서황, 해녀세자매, 제주해물밥, 중문조림식당) | 얼루어 코리아 (Allure Korea)](https://www.allurekorea.com/2022/07/28/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EC%85%80%EB%9F%BD%EB%93%A4%EC%9D%98-%EB%A7%9B%EC%A7%91-%EB%A6%AC%EC%8A%A4%ED%8A%B8-5/) 봉성식당 서황 명랑스낵 제주해물집 중문조림식당
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
