@@ -1763,6 +1763,7 @@ Docker
   * [Coding in Java with Joy - YouTube](https://www.youtube.com/watch?v=pA1UaFH9mMY)
   * [Top 5 Courses to learn Quarkus Framework in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-courses-to-learn-quarkus.html)
   * [Techniques for Maintainable Quarkus Applications - YouTube](https://www.youtube.com/watch?v=j1oRrDstW9A)
+  * [Kubernetes Native Java with Quarkus](https://www.infoq.com/articles/native-java-quarkus/)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
