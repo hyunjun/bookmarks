@@ -4209,6 +4209,7 @@ Javascript
   * [How To Build A Dynamic SiteMap For Your Next.JS App](https://morioh.com/p/764bcffa719d)
   * [Building a Shopping Cart Web App with Next.js](https://morioh.com/p/2c222e29db1c)
   * [5 pro tips for #nextjs - YouTube](https://www.youtube.com/watch?v=ZXdVuR_DXkQ)
+  * [Building Real-time Weather Alerts Webapp using Nextjs , Tailwind CSS](https://morioh.com/p/c6b153cc1e93)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
