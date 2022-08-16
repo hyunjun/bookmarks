@@ -2432,6 +2432,8 @@ Python
   * [drf-yasg](https://drf-yasg.readthedocs.io/)
 * [django_session 테이블에 저장되어 있는 세션은 어떤 값들을 가지고 있을까요?](https://codingdog.tistory.com/691)
 * [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
+* [Paperless — Paperless-ng 1.5.0 documentation](https://paperless-ng.readthedocs.io/)
+  * [paperless-ng: A supercharged version of paperless: scan, index and archive all your physical documents](https://github.com/jonaswinkler/paperless-ng)
 * pytest-django
   * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
   * [pytest-django 셋업하기 2022-02-01 재활코딩 - YouTube](https://www.youtube.com/watch?v=vQjZ7JFBYnM)
