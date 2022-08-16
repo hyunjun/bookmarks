@@ -1726,6 +1726,33 @@ Javascript
   * [WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)](https://jojoldu.tistory.com/655)
   * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
   * [How to Build a Web Scraper using Golang with Colly](https://morioh.com/p/8d07efbd9e9f)
+  * ESLint's new config system
+    * [ESLint's new config system, Part 1: Background - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2022/08/new-config-system-part-1/)
+    * [ESLint's new config system, Part 2: Introduction to flat config - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2022/08/new-config-system-part-2/)
+    * [ESLint's new config system, Part 3: Developer preview - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2022/08/new-config-system-part-3/)
+    * 배경
+      * 2013년 ESLint를 런칭 당시 config 시스템은 간단, 그냥 `.eslintrc`에서 켜거나 끄면 ok
+      * 점진적인 변경으로 복잡도가 최대로 증가
+      * 대표적으로 `extends`가 있는데 다른 설정을 공유해서 활용할 수 있게 하는 방법
+      * `.eslintrc`외에도 `eslintrc.json`, `eslintrc.yml`을 추가하고 `eslintrc.js도 추가했지만, JavaScript 구성 파일은 다른 파일 형식과 호환이 안 되는 문제 존재
+      * npm이 v3에서 `peerDependencies`를 기본 설치 안 하기로 하면서 `require()`에 의존하던 `extends`가 문제가 되었고
+        * `extents` 작성자에게 가이드하고 CLI 옵션도 추가했지만 잘 해결되지 않았고(그래서 `require()`도 재구현)
+        * npm v7에서 다시 `peerDependencies`를 설치하기로 했지만 ESLint 생태계는 이미 엉망
+      * 최상위 디렉터리를 찾기 위해 `root: true`를 추가하고 glob 기반으로 설정하기 위해 `overrides` 추가
+        * `overrides`에 `extends` 추가하면서 복잡도는 더욱 증가
+      * 이 복잡한 config 시스템을 제대로 이해하고 있는 사람은 아무도 없고 유지보수도 어려웠기에 새로운 config 시스템이 필요하다고 생각
+        * 지금 지식에서 config 시스템을 만들면 어떻게 될까를 고민해서 "flat config" 시스템을 만들기로 결정
+    * flat config
+      * flat config 목표
+        * 현재 JS에서 사용하는 논리적인 기본값을 가진다
+        * 똑같은 걸 여러 가지로 설정하는 게 아니라 단 한 가지 방법으로 설정
+        * 이미 사용하던 Rules 설정은 변경안하고 사용
+        * `require()`를 재구현한 게 가장 큰 후회인데 JavaScript 런타임의 네이티브 로딩을 그대로 사용
+        * eslintrc의 최상위 키를 더 잘 관리
+        * 기존 플러그인은 동작해야 하고, 하위 호환성 유지
+      * 새 구성 파일은 `eslint.config.js`
+      * 이는 JS 파일이라서 `extends`, `plugins`, `globals` 등 대부분을 모듈을 임포트에서 사용하는 방식
+    * 새 flat config 시스템은 아직 CLI에 통합되지는 않았고 개발자가 테스트할 수 있게 API로 사용 가능
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
@@ -2304,6 +2331,9 @@ Javascript
   * [흙 대신 NPM 퍼나르는 삽질 · 감자도스](https://blog.potados.com/dev/struggle-with-npm/)
   * [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.croquis.com/ko/2022-03-07-1-npm-private-repository/)
   * [Difference Between npm i & npm ci - YouTube](https://www.youtube.com/watch?v=YdxNR7zqYdA)
+  * [Introducing the new npm Dependency Selector Syntax | GitHub Changelog](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax/)
+    * npm v8.15.0에서 의존성 선택자로 npm query 명령어 추가
+    * 이는 CSS 셀렉터와 유사한 형식을 가지고 있고 `npm query "*"`, `npm query "#react:not(.peer)"`같은 형식으로 의존성 조회 가능
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
@@ -3677,6 +3707,12 @@ Javascript
 * [번역 React v18.0. 원문… | by Jisu Yuk | Apr, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-react-v18-0-9da9a6b838bd)
 * [React 18 버전의 실상을 파헤치다. - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/05/03/react-18-%EB%B2%84%EC%A0%84%EC%9D%98-%EC%8B%A4%EC%83%81%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B9%98%EB%8B%A4/)
 * [React 18: 리액트 서버 컴포넌트 준비하기 | Kakao Pay Tech](https://tech.kakaopay.com/post/react-server-components)
+* [Improving INP with React 18 and Suspense – Vercel](https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense)
+  * Interaction to Next Paint(INP)는 사용자 인터랙션에 반응성을 측정하기 위한 실험적인 지표로 First Input Delay(FID)보다 반응성을 더 잘 측정하기 위해서 만듦
+  * React 18에는 반응성을 높이기 위한 선택적 하이드레이션이나 `startTransition`같은 기능 존재
+  * React 17까지는 페이지의 전체 JavaScript를 로드해야 반응할 수 있었지만 18부터는 `Suspense`를 이용해서 논 블로킹 하이드레이션 가능
+    * 그래서 반응성을 더 빠르게 만들어서 FID와 INP 향상 가능
+  * 이 글에서는 케이스 스터디로 nextjs.org에서 `Suspense`로 선택적 하이드레이션을 사용해서 Total Blocking Time(TBT)을 430ms에서 80ms로 감소
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
