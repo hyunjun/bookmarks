@@ -681,6 +681,8 @@ Business
 * [체계 없는 스타트업 채용, 왜 이렇게 어렵죠? | 원티드](https://www.wanted.co.kr/events/22_07_s18_b01)
 * [지원자 경험 향상을 위한 채용 담당자의 역할](https://blog.greetinghr.com/applicant-experience-for-recruiter/)
 * [링크드인 인재 트렌드 보고서 2022 총정리](https://brunch.co.kr/@nutilde/22)
+* [기획 MZ세대 리크루팅 전략 1 신입사원의 조기퇴사와 이탈 방지](https://blog.comento.kr/how-to-reduce-resign/)
+* [기획 MZ세대 리크루팅 전략 2 연령대별 지원자 타겟하기](https://blog.comento.kr/recruiting-sterategy-by-age-group/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
