@@ -986,6 +986,7 @@ Clojure
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Janet - a functional and imperative programming language](https://janet-lang.org/)
   * [janet - A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
+* [jank programming language - Clojure/LLVM/Gradual Typing](https://jank-lang.org/)
 * [jasentaa: A parser combinator library for Clojure and ClojureScript](https://github.com/rm-hull/jasentaa)
 * [java.data - Functions for recursively converting Java beans to Clojure and vice versa](https://github.com/clojure/java.data)
 * [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
