@@ -758,6 +758,7 @@ Javascript
 * [fe-news/2020-09.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-09.md)
 * [fe-news/2021-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-08.md)
 * [fe-news/2022-06.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2022-06.md)
+* [fe-news/2022-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2022-08.md)
 * [The Front-End Features You Might Have Missed | by Adrien Miquel | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
 * [Multi Segment Display in JavaScript | by Chris Webb | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/multi-segment-display-in-javascript-6f256153cda8)
@@ -2202,6 +2203,7 @@ Javascript
 * [useful-js-snippets: Awesome collection of useful javascript snippet 💡](https://github.com/le2sky/useful-js-snippets)
 * [Vanta.js - Animated 3D Backgrounds For Your Website](https://www.vantajs.com/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
+* [viewlet-js](https://github.com/dknam/viewlet-js)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [watermark.js](http://brianium.github.io/watermarkjs/)
