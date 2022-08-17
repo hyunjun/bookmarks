@@ -491,6 +491,7 @@ Algorithm
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * [0-1 bfs 알고리즘 : 가중치가 0과 1만 있을 때 최단거리는 어떻게 구할까요?](https://codingdog.tistory.com/entry/0-1-bfs-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%80%EC%A4%91%EC%B9%98%EA%B0%80-0%EA%B3%BC-1%EB%A7%8C-%EC%9E%88%EC%9D%84-%EB%95%8C-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [미로에 물을 쏟아 최단 경로를 구해요. BFS 알고리즘 코딩테스트 Python - YouTube](https://www.youtube.com/watch?v=R-G34E1trCk)
+* [Breadth First Search (BFS) | Graph Traversal | Graph Search Algorithm - YouTube](https://www.youtube.com/watch?v=0-P0CcNcbxw)
 * [양방향 탐색 : 시작점과 도착점에서 동시에 탐색을 한다](https://codingdog.tistory.com/entry/%EC%96%91%EB%B0%A9%ED%96%A5-%ED%83%90%EC%83%89-%EC%8B%9C%EC%9E%91%EC%A0%90%EA%B3%BC-%EB%8F%84%EC%B0%A9%EC%A0%90%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%ED%83%90%EC%83%89%EC%9D%84-%ED%95%9C%EB%8B%A4)
 * Centrality
   * PageRank
