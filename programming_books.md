@@ -2580,6 +2580,7 @@ Programming Books
   * 탐라 문004.67-지69B
   * [Black Hat Python, 2nd Edition | No Starch Press](https://nostarch.com/black-hat-python2E)
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
+* (NOT YET) [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
