@@ -878,6 +878,7 @@ Interview
 * [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
 * [자소서에 절대 쓰지 말아야 하는 다섯 가지 표현 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243171)
 * [주니어 개발자 이력서 쓰는 법](https://velog.io/@yukina1418/%EC%A3%BC%EB%8B%88%EC%96%B4-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
+* [개발 실력이 눈에 보이는 이력서 작성법 - Google Slides](https://docs.google.com/presentation/d/1lBxxuynGG75lfq_IeAUw1ovG_ch2mIGER_C_ubqwEW0/edit#slide=id.p)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
