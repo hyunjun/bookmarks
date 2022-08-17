@@ -2106,6 +2106,7 @@ NLP
 * [**그래프 임베딩 요약**](https://medium.com/watcha/그래프-임베딩-요약-bc2732048999)
 * [MODUCON 2019 자연어 처리 모델의 성능을 높이는 비결 Embedding - 이기창](https://www.youtube.com/watch?v=FpWe2PBu_PE)
 * [Identifying Lexico-Semantic Word Relations — A Beginner’s Guide | by Karan Praharaj | Towards Data Science](https://towardsdatascience.com/identification-of-lexico-semantic-word-relations-a-beginners-guide-427ed331e287)
+* [#Python | GloVe, Global Vectors for Word Representation | #GlobalVector #WordEmbedding #Stanford - YouTube](https://www.youtube.com/watch?v=_K7ZuZi0gXE)
 * [bilm-tf](https://github.com/allenai/bilm-tf)
   * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
   * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
