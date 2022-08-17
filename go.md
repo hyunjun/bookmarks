@@ -450,6 +450,7 @@ Go
   * [Demystifying Bytes, Runes, and Strings in Go | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/demystifying-bytes-runes-and-strings-in-go-1f94df215615)
 * struct
   * [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
+  * [Golang Tutorial - Structs in Golang](https://morioh.com/p/ebd692a897e7)
   * [Saving Memory In Golang By Composing Struct Correctly | by Ananda Dwi Rahma | Jan, 2022 | Medium](https://anandadwirahma.medium.com/save-memory-in-golang-by-compose-struct-correctly-f649d1f457dd)
 * sync
   * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
