@@ -304,6 +304,7 @@ Go
 * [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a) e.g. ahocorasick
 * [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
 * [Get an Authentication system up and running with Go(Golang) in less than 30secs - DEV Community](https://dev.to/hisyntax/get-an-authentication-system-up-and-running-with-gogolang-in-less-than-30secs-46po)
+* [How to Build an OAuth 2.0 client application in Go](https://morioh.com/p/e1815c06360f)
 * [Use Redis as caching for the Golang API](https://morioh.com/p/3056dfb29f2f)
 * [Golden Rules or Mistakes in Golang | Common Mistakes | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=3aLFnB86nMQ)
 * [Why We Write Everything in Go | Bitly](https://bitly.com/blog/why-we-write-everything-in-go/)
