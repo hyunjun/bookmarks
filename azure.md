@@ -68,6 +68,9 @@ Azure
 * [애저 데브옵스 파이프라인에서 애저 스토리지 에뮬레이터 사용하기](https://blog.aliencube.org/ko/2019/10/16/azure-storage-emulator-on-azure-pipelines/)
 * [애저 DevOps 파이프라인을 리팩토링하는 6가지 방법 | 마이크로소프트 기술 블로그](https://microsoft.github.io/developerkorea/posts/2021/01/12/6-ways-refactoring-azure-devops-pipelines/)
 * [A DevOps journey using Azure DevOps – Thomas Thornton](https://thomasthornton.cloud/2021/12/26/a-devops-journey-using-azure-devops/)
+* [CI/CD Docker Application to the Azure Web Apps via Azure Container Registries | Azure DevOps - YouTube](https://www.youtube.com/watch?v=tQH1EsVLmoU)
+* [Explore Azure DevOps with Jenkins Pipeline | by Learnlogik | Jun, 2022 | Medium](https://learnlogik.medium.com/explore-azure-devops-with-jenkins-pipeline-fd253cfb91ee)
+* [Azure DevOps vs GitHub | Comparing DevOps tools | Which DevOps tool is better? | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/azure-devops-vs-github-b34585c894ff)
 * [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
 * [Azure Pipelines | React JS | CI/CD | Continuous Integration | Delivery | Deployment | Multi-Stage - YouTube](https://www.youtube.com/watch?v=wP-wAK3mSw0)
 * [GitOps, 애저 Durable Functions, GitHub Actions을 이용한 블로그 예약 포스팅 구현](https://blog.aliencube.org/ko/2020/03/25/scheduling-posts-with-gitops-durable-functions-and-github-actions/)
@@ -149,7 +152,6 @@ Azure
 * [통합 데이터 거버넌스 솔루션 애저 Purview | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=8zEwV0PakxY)
 * [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions | by Dennis Zielke | Nov, 2021 | Medium](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
 * [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
-* [CI/CD Docker Application to the Azure Web Apps via Azure Container Registries | Azure DevOps - YouTube](https://www.youtube.com/watch?v=tQH1EsVLmoU)
 * [Deploy a Dockerized Golang App to Azure Container Instance](https://morioh.com/p/3c7401c3e195)
 * [How to set up an Azure Data Warehouse | by Christianlauer | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/how-to-set-up-an-azure-data-warehouse-8aef4391a5bf)
 * [프리지아 랩 :: 앱 등록(서비스 주체) 삭제 이슈가 있는 Azure AD 테넌트 삭제 방법](https://www.dokyun.pe.kr/272)
@@ -174,7 +176,6 @@ Azure
 * [Google BigQuery vs. Microsoft Azure Synapse | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-bigquery-vs-microsoft-azure-synapse-efac3b06e4a8)
 * [Best Practices when working with Azure Synapse | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/best-practices-when-working-with-azure-synapse-e811cf882b63)
 * [Good News for Microsoft Azure Synapse Users | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/good-news-for-microsoft-azure-synapse-users-7d21a5c91516)
-* [Explore Azure DevOps with Jenkins Pipeline | by Learnlogik | Jun, 2022 | Medium](https://learnlogik.medium.com/explore-azure-devops-with-jenkins-pipeline-fd253cfb91ee)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
