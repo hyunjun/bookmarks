@@ -105,6 +105,7 @@ Business
 * [김지수의 인터스텔라 "탁월함은 완벽함 아냐.. 공감, 성실 등 정서 저력이 핵심"](https://news.v.daum.net/v/20220402070031199)
 * [직장에서 공감이 필요한 이유](https://www.traw.io/blog/why-you-need-empathy-at-work)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
+* [사회심리학자 허태균 교수가 말하는 인생에서 반드시 조심해야 할 ‘인간관계’ – 체인지그라운드](http://thechangeground.com/archives/91187) 갈등. 뭘 이야기하는지 알겠는데 그렇다고 협의/설득 과정을 버릴 순 없지 않나?
 * [인간관계 부정적인 사람의 5가지 특징](http://moneyman.kr/archives/2269)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
 * [함께 성장하며 함께 일하기 위한 3가지 필수 조건](https://brunch.co.kr/@graypool/449)
