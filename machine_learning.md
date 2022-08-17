@@ -1119,6 +1119,7 @@ Machine Learning
 * [2020 캐글 설문조사 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq7L8oPO57W91Vx-nP1TvSh)
 * [Kaggle 30 Days of ML Learning - YouTube](https://www.youtube.com/playlist?list=PLpdmBGJ6ELUKeCuPLvuqU46QlgOlwsheG)
 * [AI Factory](http://aifactory.space/)
+* [kaggle-study: TIA(Today I Analyzed) - Data Analysis, Kaggle Study](https://github.com/sw-song/kaggle-study)
 * [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
 * [Numerai](https://numer.ai/)
 
