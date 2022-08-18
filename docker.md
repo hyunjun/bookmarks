@@ -1503,6 +1503,7 @@ Docker
     * [Argo CD Projects and Examples - FoxuTech](https://foxutech.com/argo-cd-projects-and-examples/)
     * [ArgoCD Tracking Strategies | ArgoCD Best Practices | GitOps - YouTube](https://www.youtube.com/watch?v=lEhO3caUhM8)
     * [Manage Argo CD Repositories and Applications using Argo CD CLI - FoxuTech](https://foxutech.com/manage-argo-cd-repositories-and-applications-using-argo-cd-cli/)
+    * [Argo CD with Azure DevOps || GitOps || Azure Repos || CICD || k8s || #devopsinterviewquestions - YouTube](https://www.youtube.com/watch?v=O9vZiAQObmA)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
@@ -1811,6 +1812,7 @@ Docker
     * 앱으로 Docker containers를 만들고 werf를 사용하여 Kubernetes 에 배치할 수 있도록
       * 단계별 튜토리얼 안내 앱이 실행 중일 때 소스 코드와 K8s 리소스를 변경한 다음 업데이트가 어떻게 쉽게 적용되는지 확인 가능
     * [first-steps-example: Applications for articles "First steps"](https://github.com/werf/first-steps-example)
+  * [Running one-time tasks and debugging images in the Kubernetes cluster using werf – Flant blog](https://blog.flant.com/kubectl-run-tasks-in-kubernetes-with-werf/)
 
 ## Kubernetes Monitoring
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
