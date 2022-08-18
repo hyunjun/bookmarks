@@ -241,6 +241,7 @@ Network
 * [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
 * [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
   * [**로컬 개발환경에서 HTTPS 이용하기 | GeekNews**](https://news.hada.io/topic?id=6144) OpenSSL, mkcert, ...
+* [The First Few Milliseconds of an HTTPS Connection](https://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
