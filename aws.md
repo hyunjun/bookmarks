@@ -1139,6 +1139,7 @@ AWS
 * [CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞 | by jpapa | 원티드 제품 팀블로그 | Oct, 2021 | Medium](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
 * [Amazon CloudFront: Brotli, Gzip 동시 사용시 cache에 대한 동작 탐구 | by Hedy Kim | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-brotli-gzip-%EB%8F%99%EC%8B%9C-%EC%82%AC%EC%9A%A9%EC%8B%9C-cache-%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%99%EC%9E%91-2cecc49874ac)
 * [New – HTTP/3 Support for Amazon CloudFront | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
+* [AWS CloudFront 에서 HTTP | 커리어리](https://careerly.co.kr/comments/65079) http3
 * [How to Setup AWS Cloudfront distribution to serve static Cotent - YouTube](https://www.youtube.com/watch?v=fMhj20GbmMM)
 * [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
