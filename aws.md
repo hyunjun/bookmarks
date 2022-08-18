@@ -286,6 +286,7 @@ AWS
 * [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
 * [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
 * [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
+* [Amazon EBS 프로비저닝 IOPS – 10년간의 변화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
