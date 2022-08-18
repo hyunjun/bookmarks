@@ -4252,6 +4252,7 @@ Javascript
   * [Building Real-time Weather Alerts Webapp using Nextjs , Tailwind CSS](https://morioh.com/p/c6b153cc1e93)
   * [Learn Next.js | Advanced Next.js Course](https://morioh.com/p/3d40d4580a81)
   * [How to Build an Image Gallery with Next using Pexels API and Chakra UI](https://morioh.com/p/dfa79a31cca6)
+  * [Building a Full-stack Application with Next.js and Firestore DB](https://morioh.com/p/18af2b7c2b12)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
