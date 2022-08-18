@@ -549,6 +549,9 @@ Web
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
+  * ['Scrapy' 태그의 글 목록 :: 배워서 광명찾자](https://suen0904.tistory.com/tag/Scrapy)
+  * [파이썬 웹 스크래핑할 때 이거 쓰세요. 최고의 파이썬 웹 스크래핑 솔루션 scrapy](https://xzio.tistory.com/1087)
+  * [Python 웹 크롤러 도구 비교 및 사용 후기(Scrapy vs selenium vs Requests, urllib) | by Key Kim | Medium](https://keyhyuk-kim.medium.com/python-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8F%84%EA%B5%AC-%EB%B9%84%EA%B5%90-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0-scrapy-vs-selenium-vs-requests-urllib-6483041ca1ba)
 * Selenium
   * [(python) selenium에서 xpath를 이용해 크롤링 하기 – Jang](https://wkdtjsgur100.github.io/selenium-xpath/)
   * [Selenium with Python](http://meetahsan.com/selenium-with-python/)
