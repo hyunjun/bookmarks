@@ -314,6 +314,7 @@ Interview
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) 기본 component와 문제, 그 외 여러가지 주제들에 대한 links
   * [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md)
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
+* [system-design: Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
