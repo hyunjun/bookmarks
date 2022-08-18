@@ -206,6 +206,7 @@ Network
 * [HTTP-2 Session, Cookie, JWT에 대해서 알아보자](https://velog.io/@couchcoding/HTTP-2-HTTP%EC%97%90%EC%84%9C-%EC%83%81%ED%83%9C%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Session-Cookie)
 * [HTTP Cache 업데이트로 더 강력한 보안 및 개인 정보 보호하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220223)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
+* [HTTP 총정리(정의,메세지,응답, 요청,메소드)](https://velog.io/@fejigu/HTTP%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%A0%95%EC%9D%98%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%91%EB%8B%B5-%EC%9A%94%EC%B2%AD%EB%A9%94%EC%86%8C%EB%93%9C)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
