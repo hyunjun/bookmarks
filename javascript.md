@@ -1474,6 +1474,7 @@ Javascript
   * [Prisma Model, 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Model-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
   * [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
   * [Node.js/TypeScript용 ORM Prisma 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1614)
+  * [Benchmark: Prisma VS TypeORM - DEV Community](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
 * Relay
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
@@ -3723,6 +3724,7 @@ Javascript
 * [React 상태 관리 기술 소개 2021 ⚜️🌐 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210707)
 * [대수적 데이터 타입과 리액트 상태 관리 | 그린랩스](https://green-labs.github.io/algebraic-data-type)
 * [React 상태관리 소개편](https://clelab.io/course/react-state-management)
+* [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [husky, lint-staged - React에서 husky와 lint-staged를 사용하여 Git에 커밋할 때, ESLint와 Prettier를 실행하도록 설정해 봅시다](https://dev-yakuza.posstree.com/ko/react/husky-lint-staged/)
 * [GitHub Actions으로 Prettier와 ESLint 사용하기 - React 프로젝트에 설정한 Prettier와 ESLint를 GitHub Actions를 사용하여 실행해 봅시다](https://dev-yakuza.posstree.com/ko/react/github-actions/prettier-eslint/)
 * [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
@@ -3805,6 +3807,7 @@ Javascript
 * [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
 * [7 Best Ways to Create a New React Application | Bits and Pieces](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 * [Create Instagram Filters with React and CSS | by L Javier Tovar | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-create-instagram-filters-with-react-and-css-dce9f92753d0)
+* [Handling Events In ReactJS | JavaScript Events vs ReactJS Events - YouTube](https://www.youtube.com/watch?v=dOGQFahqXJ8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4255,6 +4258,8 @@ Javascript
   * [How to Build an Image Gallery with Next using Pexels API and Chakra UI](https://morioh.com/p/dfa79a31cca6)
   * [Building a Full-stack Application with Next.js and Firestore DB](https://morioh.com/p/18af2b7c2b12)
   * [Build a Next JS app with the Github API](https://morioh.com/p/81bd7f2eba94)
+  * [Static Blog With Next.js and Markdown](https://morioh.com/p/a5c9b7e31b37)
+  * [React vs Next JS framework: Which is the best choice for your project?](https://www.hiddenbrains.com/blog/react-or-next-js.html)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
