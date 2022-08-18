@@ -4327,6 +4327,8 @@ Programming
 * [코드너리 | Disquiet\*](https://disquiet.io/product/%EC%BD%94%EB%93%9C%EB%84%88%EB%A6%AC) 다른 스타트업은 어떤 기술 스택을 사용하고 있을까요?
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
+  * [노코드 툴 버블 기본기 강의 (bubble.io BASICS) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1qvMYfsqD1k0xzMrNTfoBH)
+  * [노코드 툴 버블로 클론코딩 (CLONE NO-CODING with bubble.io) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1NOBaYavRaztP2Yvhp6mk2)
 * [Figstack | Disquiet\*](https://disquiet.io/product/figstack) 코드를 영어로 또는 다른 개발 언어로 번역해주는 개발자 도구
 * [Hola | Disquiet\*](https://disquiet.io/product/hola) 개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
