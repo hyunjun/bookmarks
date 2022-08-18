@@ -319,6 +319,8 @@ Book
 * (NOT YET) [차이나 쇼크 한국의 선택](https://www.hankyung.com/life/article/202208104083Y)
 * (NOT YET) [마음은 단단하게 인생은 유연하게](https://www.gilbut.co.kr/book/view?bookcode=BN003483)
 * (NOT YET) [알고 있다는 착각](https://www.facebook.com/kichul.kim.75/posts/pfbid05iZzs8vpLLAZQdY3rSy3zytvCd4otheXFatUyfcz65zcYc2aZu1QszbVg8ExX6s3l)
+* (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
+* (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
