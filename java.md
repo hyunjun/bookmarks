@@ -1337,6 +1337,7 @@ Java
   * [Say Good-Bye to Boilerplate Code with Lombok: Part 1-Installation | CodersTea](https://coderstea.com/post/java/say-good-bye-to-boilerplate-code-with-lombok-part-1-installation/)
   * [Say Good-Bye to Boilerplate Code with Lombok: Part 2-The Code | CodersTea](https://www.coderstea.com/post/java/say-good-bye-to-boilerplate-code-with-lombok-part-2-the-code/)
   * [Lombok with MapStructs](https://tempestcgi.notion.site/Lombok-with-MapStructs-c49c40b1d61942c59279cfefecf91ba1)
+  * [Java 14 Record vs. Lombok | Baeldung](https://www.baeldung.com/java-record-vs-lombok)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
