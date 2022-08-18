@@ -86,6 +86,8 @@ Network
 * [리니지W, 기술로 세계인을 연결하다](https://blog.ncsoft.com/lineagew-network-20211102/)
 * [멘토특강 알고 있으면 도움이 되는, 개발자를 위한 네트워크 기초 - YouTube](https://www.youtube.com/watch?v=RsOEDDrNLM4)
 * [Fiber in Paris – Part 4 – Packet Loss and BBR to the Rescue – WirelessMoves](https://blog.wirelessmoves.com/2022/06/fiber-in-paris-part-4-packet-loss-and-bbr-to-the-rescue.html)
+* [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
+  * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
