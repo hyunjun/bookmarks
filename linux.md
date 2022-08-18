@@ -1091,6 +1091,7 @@ Linux
 * [확장 BPF | 네트워크 언저리](https://wariua.github.io/facility/extended-bpf.html)
 * [BPF/eBPF란 무엇인가](https://hyeyoo.com/133)
 * [Production ready eBPF, or how we fixed the BSD socket API](https://blog.cloudflare.com/tubular-fixing-the-socket-api-with-ebpf/)
+* [A Beginner's Guide to eBPF Programming with Go • Liz Rice • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=uBqRv8bDroc)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
