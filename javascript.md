@@ -3804,6 +3804,7 @@ Javascript
 * [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
 * [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
 * [7 Best Ways to Create a New React Application | Bits and Pieces](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
+* [Create Instagram Filters with React and CSS | by L Javier Tovar | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-create-instagram-filters-with-react-and-css-dce9f92753d0)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
