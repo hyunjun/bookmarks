@@ -68,6 +68,7 @@ AWS
 * [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
 * [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
 * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
+* [AWS Cheat Sheet - ELB](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/elb)
 * [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
@@ -1037,6 +1038,7 @@ AWS
 # Lambda
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [Serverless Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136/ko-KR)
+* [AWS Cheat Sheet - AWS Lambda](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/Lambda)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
@@ -1148,6 +1150,7 @@ AWS
 * [Amazon CloudFront: Brotli, Gzip 동시 사용시 cache에 대한 동작 탐구 | by Hedy Kim | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-brotli-gzip-%EB%8F%99%EC%8B%9C-%EC%82%AC%EC%9A%A9%EC%8B%9C-cache-%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%99%EC%9E%91-2cecc49874ac)
 * [New – HTTP/3 Support for Amazon CloudFront | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
 * [How to Setup AWS Cloudfront distribution to serve static Cotent - YouTube](https://www.youtube.com/watch?v=fMhj20GbmMM)
+* [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
 * [AWS Global Accelerator를 사용해서 애플리케이션 성능 개선하기 - YouTube](https://www.youtube.com/watch?v=1Evp9-GPCoc)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
