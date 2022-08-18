@@ -164,6 +164,7 @@
   * [dotMemory를 활용한 dotMemory 최적화 | The .NET Tools Blog](https://blog.jetbrains.com/ko/dotnet/2022/06/10/how-we-used-dotmemory-to-optimize-dotmemory/)
 * dotnet
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
+* [.NET MAUI란? - .NET MAUI | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/maui/what-is-maui)
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
