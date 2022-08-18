@@ -1620,6 +1620,7 @@ Programming Books
 * (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
 * (NOT YET) [266가지 문제로 정복하는 코딩 인터뷰 in C++ · TheoryDB](https://theorydb.github.io/review/2021/10/30/review-book-cpp-algorithm-266/)
 * (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
+* (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
 
 # iOS
 
