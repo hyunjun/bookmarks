@@ -350,7 +350,6 @@ AWS
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
-* [SQS 메시지 양으로 EB Auto Scale 하기. HBsmith 에서는 QA 테스트를 돌리는 Worker 로서… | by HyeonKu Kang | Hard Boiled Smith Stories | Dec, 2020 | Medium](https://medium.com/hbsmith/sqs-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%96%91%EC%9C%BC%EB%A1%9C-eb-auto-scale-%ED%95%98%EA%B8%B0-70bbfc7b7f5f)
 * [AutoScalingGroup의 Scheduled action 활용하기 :: Alden's Dev Story](https://fallwalker.tistory.com/5)
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
@@ -1026,15 +1025,6 @@ AWS
 * [infograph-iam.pdf](https://static.tpschmidt.com/infograph-iam.pdf)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
 
-# Kinesis
-* [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
-* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
-* [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
-* [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
-* [AWS Kinesis python으로 다뤄보기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/python-kinesis/)
-* [AWS로 간단하고 신속하게 실시간 데이터 처리 및 분석하기. Kinesis Data Streams과 Kinesis… | by ywjo | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-6ce048b3b1ee)
-* [kinesumer: A Go client implementing a client-side distributed consumer group client for Amazon Kinesis](https://github.com/daangn/kinesumer)
-
 # Lambda
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [Serverless Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136/ko-KR)
@@ -1185,9 +1175,6 @@ AWS
 * [AWS Lambda 사용하는 방법 # Gateway와 연동](https://developer88.tistory.com/339)
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
-* [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
-* [SNS와 Lambda로 백그라운드 작업 처리하기](https://yeoubi.net/2020/01/22/sns-lambda-background-processing/)
-* [How to configure AWS SNS Notification for S3 event | Programmer Block](https://programmerblock.com/configure-aws-sns-notification-for-s3-bucket-event/)
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
 * [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
@@ -1478,6 +1465,33 @@ AWS
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
+# Messaging service
+* [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
+* [AWS Serverless Order Processing System using Lambda, SNS and SQS (Simple Queue Service) - YouTube](https://www.youtube.com/watch?v=nKlaaHlE3tk)
+* [메시징서비스 비교 : Kinesis, SQS, SNS | by Jaemun Jung | Medium](https://jaemunbro.medium.com/aws-%EB%A9%94%EC%8B%9C%EC%A7%95%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90-kinesis-sqs-sns-ab397a07cb1d)
+
+## Messaging service Kinesis
+* [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
+* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
+* [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
+* [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
+* [AWS Kinesis python으로 다뤄보기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/python-kinesis/)
+* [AWS로 간단하고 신속하게 실시간 데이터 처리 및 분석하기. Kinesis Data Streams과 Kinesis… | by ywjo | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-6ce048b3b1ee)
+* [kinesumer: A Go client implementing a client-side distributed consumer group client for Amazon Kinesis](https://github.com/daangn/kinesumer)
+
+## Messaging service SNS
+* [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
+* [SNS와 Lambda로 백그라운드 작업 처리하기](https://yeoubi.net/2020/01/22/sns-lambda-background-processing/)
+* [How to configure AWS SNS Notification for S3 event | Programmer Block](https://programmerblock.com/configure-aws-sns-notification-for-s3-bucket-event/)
+
+## Messaging service SQS
+* [SQS 메시지 양으로 EB Auto Scale 하기. HBsmith 에서는 QA 테스트를 돌리는 Worker 로서… | by HyeonKu Kang | Hard Boiled Smith Stories | Dec, 2020 | Medium](https://medium.com/hbsmith/sqs-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%96%91%EC%9C%BC%EB%A1%9C-eb-auto-scale-%ED%95%98%EA%B8%B0-70bbfc7b7f5f)
+* [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
+* [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](http://labs.brandi.co.kr/2020/06/09/leejp.html)
+* [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
+* [How a distributed, Amazon SQS compatible queue works | by Tarantool | Jan, 2022 | Medium](https://medium.com/@tarantool/how-a-distributed-amazon-sqs-compatible-queue-works-f936a85f002f)
+* [Amazon SQS 도입기](https://tech.youha.info/78ae4e5d-c7bb-4bd3-9a6c-8585af17977d)
+
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
@@ -1594,15 +1608,6 @@ AWS
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
 * [Scala Compilation Got 5x Faster With Triplequote Hydra](https://www.triplequote.com/blog/2019-scala-compilation-got-5-times-faster-with-triplequote-hydra/)
-
-# SQS
-* [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
-* [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
-* [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](http://labs.brandi.co.kr/2020/06/09/leejp.html)
-* [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
-* [How a distributed, Amazon SQS compatible queue works | by Tarantool | Jan, 2022 | Medium](https://medium.com/@tarantool/how-a-distributed-amazon-sqs-compatible-queue-works-f936a85f002f)
-* [Amazon SQS 도입기](https://tech.youha.info/78ae4e5d-c7bb-4bd3-9a6c-8585af17977d)
-* [AWS Serverless Order Processing System using Lambda, SNS and SQS (Simple Queue Service) - YouTube](https://www.youtube.com/watch?v=nKlaaHlE3tk)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
