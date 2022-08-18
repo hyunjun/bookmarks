@@ -4437,6 +4437,7 @@ Javascript
   * [Difference between Shallow, Mount and render of Enzyme](https://gist.github.com/fokusferit/e4558d384e4e9cab95d04e5f35d4f913)
   * [Testing ReactJS app with Jest and Enzyme tutorial](https://morioh.com/p/01ff78d76a45)
   * [Jest로 Error 검증시 catch 보다는 expect](https://jojoldu.tistory.com/656)
+  * [단위 테스트로 복잡한 도메인의 프론트 프로젝트 정복하기(feat. Jest) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8942/)
 * [React Testing Library](https://testing-library.com/)
   * [react-testing-library](https://github.com/kentcdodds/react-testing-library)
   * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
