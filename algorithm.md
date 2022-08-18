@@ -832,6 +832,7 @@ Algorithm
 * [Merge Two Binary Trees - Solutions2Coding - S2C- An online Platform for Coding solutions.](https://www.solutions2coding.com/2021/12/merge-two-binary-trees.html)
 * [Tree Node Data Structure, Quicksort Algorithm, and BFS Algorithm with Python for Department Store’s Shops, Categories and Products | by Petia Velikova (scallopy) | Jan, 2022 | Medium](https://medium.com/@petia.t.velikova/tree-node-data-structure-quicksort-algorithm-and-bfs-algorithm-with-python-for-department-stores-6eb417857182)
 * [**Semantic Diff for SQL**](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md)
+* [Object Storage 구현을 위한 분산 Radix Tree – tech.kakao.com](https://tech.kakao.com/2022/08/18/radix-tree-for-object-storage/)
 
 ## AVL Tree
 * [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
