@@ -195,6 +195,7 @@ Artificial Intelligence
 * [10 Best Certification Courses for Artificial Intelligence in 2022](https://www.mltut.com/best-certification-courses-for-artificial-intelligence/)
 * [부스트캠프 AI Tech Product Serving, 러닝 마스터 강의 후기 · 어쩐지 오늘은](https://zzsza.github.io/diary/2022/06/17/boostcamp-aitech-lecture-design-retrospective/)
 * [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
+* [AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/ai-for-beginners)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
