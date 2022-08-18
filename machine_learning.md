@@ -694,6 +694,7 @@ Machine Learning
 * [Fraud Detection Using Random Forest, Neural Autoencoder, and Isolation Forest Techniques](https://www.infoq.com/articles/fraud-detection-random-forest/)
 * [**머신러닝 어플리케이션을 위한 데이터 저장소 기술 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/07/11/data-stores-for-ml-apps.html)
 * [What is SciML? – SciML Research Group](https://sites.brown.edu/bergen-lab/research/what-is-sciml/)
+* [SHIELD: LINE VOOM을 어뷰저로부터 보호하기](https://engineering.linecorp.com/ko/blog/shield-abusing-detection-with-rule-and-ml)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
