@@ -563,6 +563,8 @@ Business
 * [당신이 궁금해하는 ‘IT 아웃소싱 개발 생태계’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1612/)
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
+* [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
+  * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1346,6 +1348,8 @@ Business
 * [김성회의 '3대 소통병법' 리더 여러분, 지시와 코칭 헷갈리지 마세요](https://news.v.daum.net/v/20190107092402146)
 * [안타깝지만… 우리 주변에 좋은 리더는 거의 없다 – 체인지그라운드](http://thechangeground.com/archives/23108)
 * [미팅으로 가득한 팀장의 하루](https://brunch.co.kr/@zseo/44)
+* [손에 잡히는 비전과 실행 , 스타트업 리더십은 더 구체적이어야 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10519/ac/search)
+* [“진정성을 보여라, 너 자신이 되라”는 충고는 무시하자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255690)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
