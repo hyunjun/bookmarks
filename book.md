@@ -648,6 +648,8 @@ Book
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
 * (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
   * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
+  * 고려사2
+    * 한라
 * (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 * (NOT YET) [서학, 조선을 관통하다 - 위클리서울](http://www.weeklyseoul.net/news/articleView.html?idxno=69512)
 * (NOT YET) [인류 최초의 문명과 이스라엘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298971522)
@@ -999,9 +1001,9 @@ Book
 * (NOT YET) [송일준 PD 제주도 한 달 살기](http://www.jejuilbo.net/news/articleView.html?idxno=164569)
 * (NOT YET) [여행선언문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292070879)
 * (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
-  * [알라딘: 유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
+  * [유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
     * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
-  * [알라딘: 유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
+  * [유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
 * (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)
 * (NOT YET) [인문 여행자, 도시를 걷다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281626217)
   * 한라 001.3-김14이 탐라 문001.3-김14ㅇ 우당 문001.3-김14ㅇ

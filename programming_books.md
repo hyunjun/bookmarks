@@ -384,7 +384,7 @@ Programming Books
 * (NOT YET) [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B8945183661)
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
-* (NOT YET) [알라딘: 코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
+* (NOT YET) [코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
 * (NOT YET) [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/106)
 * (NOT YET) [문제 해결력을 높이는 알고리즘과 자료 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289274245)
   * 탐라 문005.1-오818ㅁ
@@ -1703,7 +1703,7 @@ Programming Books
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
-* (NOT YET) [알라딘: 자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
+* (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
   * [Practical 모던 자바 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/87)
 
@@ -2581,6 +2581,7 @@ Programming Books
   * [Black Hat Python, 2nd Edition | No Starch Press](https://nostarch.com/black-hat-python2E)
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 * (NOT YET) [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
+  * 한라
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
