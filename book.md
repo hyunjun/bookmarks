@@ -659,6 +659,7 @@ Book
 * (NOT YET) [도조 히데키와 제2차 세계대전](https://www.hankyung.com/life/article/202208102679Y)
 * (NOT YET) [기차 시간표 전쟁](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299133830)
 * (NOT YET) [조선을 떠나며](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21426689)
+* (NOT YET) [전쟁과 목욕탕](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299398004)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
