@@ -1812,6 +1812,7 @@ Business
 * [호창성‧문지원 부부의 15년 커뮤니티 비즈니스 노하우 - 티타임즈](https://www.ttimes.co.kr/article/2022081017327720594)
 * [무조건 선순환 구조를 만들어라](http://moneyman.kr/archives/6768) 문제점을 찾아 최대한 빨리 개선하는 기본
 * [진짜 Zero to One 시작부터 Global DNA](https://brunch.co.kr/@powervision/44)
+* [(d·camp x 분당서울대학교병원) 스타트업 창업자 정신건강 실태조사 보고서 발간 | D.CAMP](https://dcamp.kr/node/460)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
