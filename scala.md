@@ -346,6 +346,7 @@ Scala
 * [Diamond Architecture - How to build HUMONGOUS apps FAST! - YouTube](https://www.youtube.com/watch?v=B6bmlh1hCLo)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 2 - YouTube](https://www.youtube.com/watch?v=IY7WglVTBFo)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3 - YouTube](https://www.youtube.com/watch?v=gmwNDYWRprE)
+* [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 4 - The Grand Finale - YouTube](https://www.youtube.com/watch?v=LAjwu6qtMvU)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
 * [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
@@ -353,6 +354,7 @@ Scala
 * [Concurrent Sudoku Solver: Part 4 - Using FS2 Stream + Topic | by Farooq Qaiser | Jun, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-4-using-fs2-stream-topic-949c8b099abb)
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 * [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
+* [Selection functions are interesting notion with tricky implementation | Anton Kovalevsky](https://antonkw.github.io/scala/selection-functions/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1020,6 +1022,7 @@ Scala
     * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
     * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
     * [Scala 3 + ZIO 2 + zhttp + Laminar: proof of concept & impressions – Adrian Filip](https://adrianfilip.com/2022/06/27/scala-3-zio-2-zhttp-laminar-proof-of-concept-impressions/)
+    * [Zymposium - ZIO- API - DSL - YouTube](https://www.youtube.com/watch?v=biAjx4zt3GU)
     * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -1920,6 +1923,7 @@ Scala
 * [The Death of Tagless Final by John A. De Goes - YouTube](https://www.youtube.com/watch?v=p98W4bUtbO8)
 * [The Tagless Final Pattern in Scala | Baeldung on Scala](https://www.baeldung.com/scala/tagless-final-pattern)
 * [Tagless Final in Scala: A Practical example | Juan Pablo Royo Sales](https://jproyo.github.io/posts/2019-02-07-practical-tagless-final-in-scala.html)
+* [Tagless final — from a different perspective | by Daniel Balazs | Aug, 2022 | Emarsys Craftlab](https://blog.craftlab.hu/tagless-final-from-a-different-perspective-72321a29bbe3)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -2106,6 +2110,7 @@ Scala
 * [Why Scala 3 will be awesome by Piotr Gołębiewski - YouTube](https://www.youtube.com/watch?v=lA37gzEiQw4)
 * [Scala 3: New Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=orTmm6OMaLw)
 * [Generalized Algebraic Datatypes in Scala 3](https://blog.oyanglul.us/scala/dotty/en/gadt)
+* [Static Dynamics - Expression definable datatypes in Scala](http://mark.hammons.fr/blog/static-dynamic-2022-08-09.gmi)
 * [Build your own refinement types in Scala 3](https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html)
 * [Examples: Refinement types in Scala 3](https://gist.github.com/Kevin-Lee/94df3994b22aa625eaf484b8d2df8552)
 * [NewtypeRefinementTypeInScala3.scala](https://gist.github.com/Kevin-Lee/158d3d5c3e036560f8962087a34c95c5)
