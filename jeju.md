@@ -34,31 +34,25 @@
 
 # Food
 * ['수요미식회'가 소개한 제주도 맛집 5곳(사진, 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608864.html)
-* [제주 자게이가 추천하는 제주도 맛집 총정리본 #1 ~ 7](http://www.slrclub.com/bbs/vx2.php?id=free&no=25481990)
 * [스시 호시카이](http://blog.naver.com/mardukas/220400592544)
 * [제주 최고의 식재를 만날 수 있는 식당 7선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013322.html)
-* [제주도에서 가장 유명한 그 집, 옆집에 가 봤다 - 음식 먹는 데 줄 서는 건 딱 질색인 당신을 위한 제주도 맛집 5](http://univ20.com/10383.tomorrow)
 * [제주 가볼 만한 식당들](https://www.google.com/maps/d/viewer?mid=zkJkYp0Gc2tM.k6v9BEmXB5A0)
 * [제주에서의 특별한 한 끼](http://media.daum.net/life/outdoor/photo/newsview?newsId=20141218133132885)
-* [테이스트로그 제주맛집 BEST 10](https://www.tastelog.net/toplists/jeju_top10)
 * [코삿헌](http://blog.naver.com/artzon2)
 * [제주에 가면 먹어야 할 5가지 음식](http://www.huffingtonpost.kr/2016/05/19/story_n_10040452.html)
 * [호텔신라 '맛있는 제주만들기', 영세 점주들 '웃음꽃'](http://media.daum.net/economic/industry/newsview?newsid=20160529110022513)
 * [제주먹방](https://www.facebook.com/foodjeju)
-* [오세득 따라 제주 원나잇 푸드 트립](http://1boon.kakao.com/share/jejumapfoodtrip)
-* [제주맛집11개 카테고리로 담아낸 제주의 모든 맛](http://book.daum.net/detail/book.do?bookid=KOR9788996417392)
-* [푸드트럭 따라 가는 제주여행 어때?](http://1boon.kakao.com/share/jejufoodtruck)
 * [월간맛집지도](http://blog.naver.com/jejubnf/220948291355)
 * [제주도민이 추천하는 맛집.jpg](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703130000658981&select=&query=&user=&site=&reply=&source=&sig=hgjXGgtY63HRKfX@hca9Gf-gghlq)
 * [동서남북 양조장으로 둘러싸인 삼다도, 술 여행 떠나볼까](http://v.media.daum.net/v/20170418104544259)
 * [제주도에서 먹고온 음식점 사용기](https://www.clien.net/service/board/use/10748210)
-* [제주도 빵집 서귀포 봉주르마담](http://wangeme.blog.me/220951950308)
 * [제주도 식당 및 카페, 베이커리 정보](https://docs.google.com/spreadsheets/d/17PIrAN80zpt8Q7tg-jCC3shyv0P-YzoBhispqMrf22Y)
 * [함덕 수제버거맛집 '무거버거' 메뉴와 가격](https://blog.naver.com/lingfei0212/222321921764)
 * [올리다버거](https://blog.naver.com/yinjung7777/222224733506)
 * [제주시청 가드망제 - 메뉴판, 시금치 리조또, 차돌 랑귀니](https://langueihr.tistory.com/31)
 * [제주 한림 맛집 - 레스토랑 모디카](https://blog.naver.com/gorgeous_ha/221383368789)
 * [제주도에 진심인 연예인 추천 맛집 모음(김나영, 이효리, 엄정화의 봉성식당, 서황, 해녀세자매, 제주해물밥, 중문조림식당) | 얼루어 코리아 (Allure Korea)](https://www.allurekorea.com/2022/07/28/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EC%85%80%EB%9F%BD%EB%93%A4%EC%9D%98-%EB%A7%9B%EC%A7%91-%EB%A6%AC%EC%8A%A4%ED%8A%B8-5/) 봉성식당 서황 명랑스낵 제주해물집 중문조림식당
+* [지붕위제주바다](https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020381)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
@@ -109,6 +103,7 @@
 * [서건도 바다갈라짐, 서건도 바다날씨- 바다타임](https://www.badatime.com/s-238-2.html)
 * [쉼을 전해주는 제주 풀멍 코스 5 | 에스콰이어코리아](https://www.esquirekorea.co.kr/article/66836) 스누피가든, 비밀의 숲, 산양큰엉곶, 카페 c.hill
 * ["믿겨지지 않는 우리나라 숨은 여행지" 유명해지기 전에 꼭 가야하는 이색적인 최고의 국내 여행지](https://totoba.co.kr/168) 제주 산양 곶자왈
+* [6개월동안 제주도에 300만원 쓴 사람의 제주 여행 추천](https://brobronews.cafe24.com/?p=969)
 
 ## Sightseeing 오름
 * [오름나들이 - 제주 오름과 들꽃](http://www.ormstory.kr/)
