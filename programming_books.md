@@ -246,6 +246,7 @@ Programming Books
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
+* (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
 
 # Agile Scrum
 
