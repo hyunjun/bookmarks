@@ -133,6 +133,7 @@ Docker
 * [How To Run Docker in Docker Container 3 Methods Explained](https://devopscube.com/run-docker-in-docker/)
 * [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
 * [Docker in docker. 지난 한주 동안 애플리케이션을 Kubernetes 배포하는 CI/CD… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-in-docker-fb54252e3188)
+* [Devops Project | CI/CD Setup | Part-6 | Real Time | Docker Image Build Stage - YouTube](https://www.youtube.com/watch?v=dg3PRhQOXUg)
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
