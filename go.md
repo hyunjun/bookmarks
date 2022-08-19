@@ -329,6 +329,7 @@ Go
 * [Go Developer Roadmap - YouTube](https://www.youtube.com/watch?v=RVgJ2rvPjEU)
 * [How We Use Github Issues to Track Customer Feedback | Boot.dev](https://blog.boot.dev/misc/github-issues-for-customers/)
 * [Building Development Environment for Go Lang](https://morioh.com/p/c6acd58df237)
+* [Event Listener and Dispatcher Example with Golang](https://morioh.com/p/d72e972394c8)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
