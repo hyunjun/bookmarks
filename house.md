@@ -125,6 +125,7 @@ House
 * [회색 코뿔소, 입주물량의 역습](https://www.koreamonitor.co.kr/view.php?ud=20220312163216790bb0cd1e55_41)
 * [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
 * [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
+* [기사 - 총력 분석 굥교로운 집값 하락의 비밀: 부동산은 무얼 먹고 자라는가](https://www.ddanzi.com/ddanziNews/747153446)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
