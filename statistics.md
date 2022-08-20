@@ -336,6 +336,7 @@ Statistics
 * naked statistics [(책 추천) 벌거벗은 통계학 | 이상현 IN 베를린](https://iamsang.com/blog/2022/03/13/naked-statistics/)
 * [Practical Statistics for Data Scientists - Chapter 1 - Exploratory Data Analysis - YouTube](https://www.youtube.com/watch?v=wwsizzg6UjU)
 * [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
+* [Statistics and Machine Learning in Python](https://www.mathgame-py.com/search/search_result_page?page=Statistics_and_machine_learning_in_python)
 
 # Course MOOC Lecture
 * [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
