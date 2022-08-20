@@ -849,6 +849,8 @@ Clojure
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
 * [clj-time: A date and time library for Clojure, wrapping the Joda Time library](https://github.com/KirinDave/clj-time)
 * [cljs-time: A clj-time inspired date library for clojurescript](https://github.com/andrewmcveigh/cljs-time)
+* [clavascript: ClojureScript syntax to JavaScript compiler](https://github.com/clavascript/clavascript)
+  * [ClavaScript: a ClojureScript syntax to JS compiler : Clojure](https://www.reddit.com/r/Clojure/comments/wrqm7u/clavascript_a_clojurescript_syntax_to_js_compiler/)
 * [clods: A microservice and toolchain for providing UK organisational data services (ODS)](https://github.com/wardle/clods)
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
 * [clojisr: Clojure speaks statistics - a bridge between Clojure to R](https://github.com/scicloj/clojisr)
