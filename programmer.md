@@ -150,6 +150,7 @@ Programmer
 * [27년차 실리콘밸리 개발자의 인생 이야기 한기용 1부 - YouTube](https://www.youtube.com/watch?v=nLL409se8sM&t=578s)
 * [40대 중반이 돼서야 깨닫고 실천할 수 있게 된 것 한기용 2부 - YouTube](https://www.youtube.com/watch?v=XKqLz6WJSRA)
 * [이런 얘기를 하면 화내는 사람도 있죠 한기용 3부 최종화 - YouTube](https://www.youtube.com/watch?v=3U0cbzmwSYc)
+* [개발자 커리어, 무엇이든 물어봤더니 무엇이든 답해줌😎 | 개발자 커리어 클리닉 1편 - YouTube](https://www.youtube.com/watch?v=I4JLbF-mVoI) 한기용
 * [27년차 실리콘밸리 개발자가 ‘10번의 이직’ 후 알게 된 것들](https://eopla.net/magazines/80)
 * [구글 13년 차가 넥스트스텝으로 선택한 야놀자 | 원티드](https://www.wanted.co.kr/events/22_07_s12_b01) 개인의 이야기와 커리어 이야기가 섞여 있고 일반적인 이야기지만 좋음
 * [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career | by bytefish | Frontend Canteen | Aug, 2022 | Medium](https://medium.com/frontend-canteen/from-a-dropout-to-a-core-contributor-to-deno-heres-the-story-of-my-10-year-programming-career-d54a1a7add0f)
