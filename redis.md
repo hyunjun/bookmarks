@@ -227,6 +227,8 @@ Redis
   * [RedisTimeSeries - Time-Series data structure for Redis](https://oss.redislabs.com/redistimeseries/)
 * RedisRaft [Jepsen report on RedisRaft – The Last Mind](http://blog.lastmind.io/archives/932)
 * [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
+* [redisson: Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...](https://github.com/redisson/redisson)
+  * [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
 * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)
