@@ -4928,6 +4928,8 @@ Python
 * [Unit testing with Python. Like most developers who started using… | by Saif | Mar, 2022 | Dev Genius](https://blog.devgenius.io/unit-testing-with-python-b7f41985e542)
 * [How To Write Unit Tests For Existing Python Code // Part 1 of 2 - YouTube](https://www.youtube.com/watch?v=ULxMQ57engo)
 * [How To Write Unit Tests For Existing Python Code // Part 2 of 2 - YouTube](https://www.youtube.com/watch?v=NI5IGAim8XU)
+* [A/B Testing for Data Science ( Python and R) | June 30th, 2021](https://ugong2san.tistory.com/4555)
+  * [ABTest at main · diligejy/Growth](https://github.com/diligejy/Growth/tree/main/ABTest)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * [Coverage.py — a tool for measuring code coverage of Python programs](https://coverage.readthedocs.io/)
   * [Ned Batchelder: Blog: #coverage](https://nedbatchelder.com/blog/tag/coverage.html)
