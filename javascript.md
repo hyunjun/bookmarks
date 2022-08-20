@@ -822,6 +822,7 @@ Javascript
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
 * [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
+* [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2798,6 +2799,7 @@ Javascript
   * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
 * [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
+* [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4260,6 +4262,10 @@ Javascript
   * [Build a Next JS app with the Github API](https://morioh.com/p/81bd7f2eba94)
   * [Static Blog With Next.js and Markdown](https://morioh.com/p/a5c9b7e31b37)
   * [React vs Next JS framework: Which is the best choice for your project?](https://www.hiddenbrains.com/blog/react-or-next-js.html)
+  * [Using getStaticProps and getStaticPaths with TypeScript - Next.js](https://morioh.com/p/3821107fc355)
+  * [Getting started with Next.js](https://morioh.com/p/58b8f416f94d)
+  * [Build a Sports News Blog Website using NEXT JS and Strapi CMS in 7 hour](https://morioh.com/p/2aad282815bf)
+  * [Build Google 2.0 with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Pagination)](https://morioh.com/p/e38f9bf2e665)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
