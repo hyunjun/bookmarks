@@ -1505,6 +1505,7 @@ Programming
 * [모델 저장소의 의미와 구현](https://brunch.co.kr/@graypool/535)
 * [Repository 빌딩 블록에 대해 생각해보기](https://brunch.co.kr/@graypool/537)
 * [도메인 모델링에서 맥락은 왜 필요한가?](https://brunch.co.kr/@graypool/538)
+* [맥락은 어떻게 표현할 것인가?](https://brunch.co.kr/@graypool/542)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
 * [클린 아키텍처 보충 2 — 엔티티(EBI), 도메인 주도 설계(DDD) | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-2-%EC%97%94%ED%8B%B0%ED%8B%B0-ebi-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-55ea98c62cb6)
@@ -3950,6 +3951,7 @@ Programming
   * [7월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/07/b-7-3.html)
   * [7월 두 번째 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/07/b-7_30.html)
   * [8월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/08/b-8-1.html)
+  * [8월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/08/b-8-3.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
@@ -4861,6 +4863,7 @@ Programming
 # Versioning
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
 * [Calendar Versioning — CalVer](https://calver.org/)
+* [headver: SemVer compatible version specification that has {head}.{yearweek}.{build} system](https://github.com/line/headver)
 * [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
   * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
   * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
