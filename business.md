@@ -9,6 +9,7 @@ Business
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
+* [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
 * [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
   * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
@@ -74,7 +75,6 @@ Business
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
-* [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [A mile wide, an inch deep](https://medium.com/@ev/a-mile-wide-an-inch-deep-48f36e48d4cb)
   * [너비는 1km, 깊이는 1cm](http://ppss.kr/archives/42854)
 * [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
@@ -1351,6 +1351,7 @@ Business
 * [안타깝지만… 우리 주변에 좋은 리더는 거의 없다 – 체인지그라운드](http://thechangeground.com/archives/23108)
 * [미팅으로 가득한 팀장의 하루](https://brunch.co.kr/@zseo/44)
 * [손에 잡히는 비전과 실행 , 스타트업 리더십은 더 구체적이어야 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10519/ac/search)
+* [CEO 심리학 일의 막판으로 갈수록…유능한 리더는 구체적, 무능한 리더는 채찍질](https://n.news.naver.com/mnews/hotissue/article/009/0004846479?cid=1064673)
 * [“진정성을 보여라, 너 자신이 되라”는 충고는 무시하자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255690)
 
 # Manager Management
@@ -1581,6 +1582,8 @@ Business
   * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
+* [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
+* [사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집 - YouTube](https://www.youtube.com/watch?v=GJ6Sw4T5gAI)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [예비창업자들이 앤틀러 프로그램을 선택해야 하는 이유](https://blog.naver.com/antlerkorea/222667025289)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
