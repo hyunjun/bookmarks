@@ -1724,10 +1724,12 @@ AWS
 * [Terraform으로 AWS EKS에 Kubernetes 클러스터 프로비저닝 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1608)
 * [Complete Terraform Course for beginners with Hands On Practice and Terraform Commands in 10 minutes - YouTube](https://www.youtube.com/watch?v=80szTnzBs2M)
 * [How to manage multiple environments with Terraform | by Yevgeniy Brikman | Aug, 2022 | Gruntwork](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
+* [Terraform - Part 15 - Basic Concept .. Discussion on Terraform Data Resource - YouTube](https://www.youtube.com/watch?v=SI3lGDdNglM)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
+* [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
