@@ -1194,6 +1194,7 @@ AWS
   * AWS Lambda에서 Node.js, Python, Go, Ruby 등 다양한 런타임 간의 성능 비교
   * 콜드 스타트에 걸리는 시간과 JMeter로 15,000 요청을 보내면서 WARM 테스트를 수행해서 런타임 간의 요청 시간을 비교해 볼 수 있게 정리
 * [AWS Lambda Performance and Cost Optimization | by Ram Vadranam | Nov, 2021 | Medium](https://ramchandra-vadranam.medium.com/following-are-key-factors-affecting-the-performance-of-serverless-applications-8582b0a33e21)
+* [The best ways to save money on Lambda | theburningmonk.com](https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/)
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
 * [AWS Step Functions Workflows Collection을 활용하여 빠르게 비즈니스 워크플로 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-step-functions-workflows-collection/)
