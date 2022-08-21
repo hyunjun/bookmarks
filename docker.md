@@ -1309,6 +1309,7 @@ Docker
 * [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
 * [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 * [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
+* [Kubernetes Volumes Simplified - YouTube](https://www.youtube.com/watch?v=LPy6Q-q1MVQ)
 * [NDC21-프로그래밍 게임 서버를 품은 쿠버네티스 - YouTube](https://www.youtube.com/watch?v=8R4DDEqjc0I)
 * [Get to Know a Kubernetes Operator!](https://spring.io/blog/2021/11/19/get-to-know-a-kubernetes-operator)
 * [Kubernetes Operators: what are they? Some examples | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/06/15/kubernetes-operators-what-are-they-some-examples/)
