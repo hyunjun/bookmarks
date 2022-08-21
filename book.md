@@ -323,6 +323,8 @@ Book
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
 * (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 * (NOT YET) [디즈니 & 픽사의 신비로운 지도들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292936345)
+* (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
+  * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -440,6 +442,7 @@ Book
 * (NOT YET) [영화평도 리콜이 되나요?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299022504)
 * (NOT YET) [우리는 사랑의 얼굴을 가졌고](https://www.electimes.com/news/articleView.html?idxno=307338)
 * (NOT YET) [20세기 미국 미술 : 현대 예술과 문화 1950~2000 휘트니미술관 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=867)
+* (NOT YET) [Gaudi Basic Architecture 2.0 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/basicartseries/?idx=266)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -609,7 +612,7 @@ Book
   * 한라 909-주14ㅂ 탐라 문909-주14ㅂ 우당 문909-주14ㅂ
   * ★★★★☆ 2022.06.27~07.01, 07.04~08
 * [로마사를 쉽고 재미있게 읽기, <만화 로마사>.. : 네이버블로그](https://blog.naver.com/youngtak96/220918603946)
-  * ★★★☆☆ 2022.08.18
+  * ★★★☆☆ 2022.08.18, 21
   * 탐라 문922-이68ㅁ-1, 2 우당 문922-이69ㅁ-1, 2
 * [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
   * ★★★☆☆ 2022.08.20
@@ -663,6 +666,41 @@ Book
 * (NOT YET) [기차 시간표 전쟁](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299133830)
 * (NOT YET) [조선을 떠나며](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21426689)
 * (NOT YET) [전쟁과 목욕탕](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299398004)
+* (NOT YET) [베르베르 문명](https://brunch.co.kr/@sangmin0113/61)
+  * 한라 930-임18ㅂ 탐라 문931-임19ㅂ
+* (NOT YET) 미국인 이야기 [이야기하듯 쉽게 푼 정통 미국史 | 한경닷컴](https://www.hankyung.com/life/article/2022012531231)
+  * 한라 942-미27ㅁ-1~3 탐라 문942.04-미228ㅁ-1~3 우당 문942-미228ㅁ-1~3
+* (NOT YET) [미국인 이야기](https://www.pennmike.com/news/articleView.html?idxno=28288)
+  * 우당 문340.942-송18ㅁ-1
+* (NOT YET) [팔레스타인 100년 전쟁, 외세와 결탁한 정착민 식민주의의 희생양들](https://www.pressian.com/pages/articles/2022050416314337969)
+  * 탐라 문918.63-할239ㅍ 우당 문918.63-할239ㅍ
+* (NOT YET) [이희수의 이슬람](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279370830)
+  * 한라 918-이97이 탐라 문918-이98ㅇ 우당 문918-이98ㅇ
+* (NOT YET) [욤 키푸르 전쟁…검열해제로 드러난 '욤 키푸르 전쟁'의 진실](https://www.yeongnam.com/web/view.php?key=20220217010001977)
+  * 한라 392.19-라48ㅇ 탐라 문918-라49ㅇ
+* (NOT YET) [도시로 보는 동남아시아사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290967565)
+  * 한라 914-강97ㄷ 탐라 문914-강98ㄷ 우당 문914-강98ㄷ
+* (NOT YET) [《강철왕국 프로이센》 프로이센에 관한 최고의 .. : 네이버블로그](https://blog.naver.com/nyjini79/222061109206)
+  * 한라 925-클292ㄱ 탐라 문925-클231ㄱ
+* (NOT YET) [일본의 근대화와 민중사상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265441374)
+  * 탐라 문913.05-야58ㅇ
+* (NOT YET) [일본의 각성](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285444967)
+  * 탐라 문913-오821ㅇ 우당 문913-오821ㅇ
+* (NOT YET) [인간은 왜 전쟁을 하는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285850571)
+  * 탐라 문913-마58ㅇ
+* (NOT YET) [이탈리아역사 다이제스트 100](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=165513635)
+  * 탐라 문928-임225ㅇ
+* (NOT YET) [우즈베키스탄의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279421470)
+  * 한라 916.5-성25ㅇ
+* [골목길 역사산책](https://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=641575)
+  * (NOT YET) [골목길 역사산책 : 서울편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=140847649)
+    * 우당 문911-최53고
+  * (NOT YET) [골목길 역사산책 : 개항도시편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=157729240)
+    * 우당 문911-최53ㄱ
+  * (NOT YET) [골목길 역사산책 : 한국사편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290206106)
+    * 한라 911-최54ㄱ
+* (NOT YET) [나폴레옹 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285847567)
+  * 한라 926.06-미872ㄴ 우당 문909-미821ㄴ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -995,6 +1033,9 @@ Book
 * [7개 코드로 읽는 유럽 도시 (윤혜준 저)](https://brunch.co.kr/@natsume/101)
   * ★★★☆☆ 2022.06.06
   * 가끔씩 저자의 평(?)이 맘에 들지 않는 부분만 제외하면 재미있게 읽을 수 있음
+* [나도 한번은 발트 3국, 발칸반도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296820589)
+  * ★★★☆☆ 2022.08.21
+  * 탐라 문929.902-박67ㄴ 우당 문929.902-박67ㄴ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
