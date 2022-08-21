@@ -378,6 +378,7 @@ Go
   * [Golang SQL Beginner Tutorial + SQLX](https://morioh.com/p/e4dcce4eb4f6)
   * [ent. An entity framework for Go](https://entgo.io/) ORM
     * [ent: An entity framework for Go](https://github.com/ent/ent)
+  * [genji: Document-oriented, embedded SQL database](https://github.com/genjidb/genji)
   * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
     * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
     * [golang - 인 메모리 DB를 사용하여 RDB를 사용 하는 코드를 단위 테스트(Golang + Gorm를 예로) - jacking75](https://jacking75.github.io/go_unittest_gorm/)
