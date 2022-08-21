@@ -855,6 +855,9 @@ Docker
 # Kubernetes
 * [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
+  * [쿠버네티스 문서 한글화 가이드 | Kubernetes](https://kubernetes.io/ko/docs/contribute/localization_ko/)
+  * [README-ko.md at main · kubernetes/website](https://github.com/kubernetes/website/blob/main/README-ko.md)
+  * [Kubernetes 오픈소스 컨트리뷰션 방법 소개 (한글화 기여를 통해 쿠버네티스에 참여하기, CNCG2020 발표) - YouTube](https://www.youtube.com/watch?v=2JiKkPv_IGs)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
 * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
