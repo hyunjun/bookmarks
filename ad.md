@@ -62,6 +62,7 @@
   * [Next.js와 Google analytics + Google optimize 설정하기](https://tech.youha.info/27e8f606-69a5-487b-ae92-c743106b187f)
   * [구글 애널리틱스4 지표에서 사라진 브라우저 크기 수집하기 - 넷마블 기술 블로그](https://netmarble.engineering/collecting-viewport-at-ga4-with-gtm/)
   * [Introduction to Conversion Rate | Marketing Analytics for Beginners | Part-29 - YouTube](https://www.youtube.com/watch?v=rxJCADJFHKg)
+  * [Working with Google Analytics Data Using Python and Jupyter Notebooks - Reflective Data](https://reflectivedata.com/working-with-google-analytics-data-using-python-and-jupyter-notebooks)
 * Topic API
   * [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
   * [Get to know the new Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
