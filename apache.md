@@ -364,6 +364,7 @@ Apache
   * Cloudera Manger의 차트와 메트릭 기능을 사용하여 Impala 성능 이슈를 해결하는 방법
 * [Impala At Scale - 임상배 이사 (Cloudera)](https://www.youtube.com/watch?v=8RlqL2kZ-NA)
 * [practice - extract hour from unixtimestamp](https://gist.github.com/hyunjun/bc930e0bb463d8993ef11163895d6438#file-extract_hour_from_unixtimestamp-md)
+* [SQL On Hadoop 분석 도구인 Hive와 Impala는 어떤 차이가 있을까? - YouTube](https://www.youtube.com/watch?v=TwMP1vtWFPo)
 
 # Jena
 * [Jena](http://jena.apache.org)
