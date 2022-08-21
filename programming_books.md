@@ -199,6 +199,7 @@ Programming Books
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
 * (NOT YET) [일상 속 사물이 알려주는 웹 API 디자인](https://yongho1037.tistory.com/818) API 설계
+  * 한라 005.138-로294ㅇ
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
 * (NOT YET) [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://www.onlybook.co.kr/entry/secret-programs)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
@@ -247,6 +248,8 @@ Programming Books
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
 * (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
+* (NOT YET) [아파치 플링크로 하는 스트림 데이터 처리 | 에이콘출판사](http://acornpub.co.kr/book/stream-processing-flink)
+  * 탐라 문005.76-휴58ㅇ
 
 # Agile Scrum
 
@@ -2590,6 +2593,8 @@ Programming Books
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 * (NOT YET) [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
   * 한라
+* (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
+  * 한라 005.133-윤74ㅍ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -2885,6 +2890,8 @@ Programming Books
 * (NOT YET) [찐 UXer가 알려주는 UX/UI 실무 가이드](https://blog.naver.com/axiomatic/222709539570)
 * (NOT YET) [UX/UI 디자이너를 위한 실무 피그마](https://hanbit.co.kr/store/books/look.php?p_code=B7944573971)
   * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
+* (NOT YET) [UX 원칙 Uxer를 위한 101가지 원칙](https://medium.com/heeheewuwu/ux-%EC%9B%90%EC%B9%99-uxer%EB%A5%BC-%EC%9C%84%ED%95%9C-101%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-1-2-f9fd97f9bc37)
+  * 탐라 문004.78-그232ㅇ
 
 # Vision
 * (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
