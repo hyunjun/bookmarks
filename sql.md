@@ -1221,6 +1221,7 @@ SQL
 * [One-liner for running queries against CSV files with SQLite | Simon Willison’s TILs](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [SQLite or PostgreSQL? It's Complicated!](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [SQLite Internals: Pages & B-trees · Fly](https://fly.io/blog/sqlite-internals-btree/)
+* [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
