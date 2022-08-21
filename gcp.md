@@ -1,6 +1,7 @@
 Google Cloud Platform GCP
 =========================
 
+* [Architecting with Google Cloud  |  Developer Center](https://cloud.google.com/developers/architecting-with-google-cloud)
 * [Google Compute Engine을 처음 사용할 때 겪을 수 있는 삽질](http://www.vonzone.kr/google-compute-engine%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EA%B2%AA%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%82%BD%EC%A7%88/)
 * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
 * [datalab 버전 업그레이드](http://jybaek.tistory.com/679)
