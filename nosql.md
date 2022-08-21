@@ -455,6 +455,7 @@ NoSQL
 * [다시보기 MongoDB ‘아틀라스 서치’(Atlas Search) 파헤치기 웨비나 | MongoDB](https://www.mongodb.com/presentations/intro-to-mongodb-atlas-search-webinar-korea)
 * [Build a CRUD App with Node.js and MongoDB | AppSignal Blog](https://blog.appsignal.com/2022/08/17/build-a-crud-app-with-nodejs-and-mongodb.html)
 * [Creating Next Generation Applications with Next.js and MongoDB](https://morioh.com/p/d5f669bb30b2)
+* [EP(4) - Chat application Using NodeJs, MongoDb, Socket IO, ReactJs || User Page 🔥🔥🔥 - YouTube](https://www.youtube.com/watch?v=dkx6EsUC8ic)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
