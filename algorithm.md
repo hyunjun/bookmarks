@@ -241,7 +241,6 @@ Algorithm
 * [lis 알고리즘 : lower_bound 이용해서 그리디하게 해결해 봅시다](https://codingdog.tistory.com/entry/lis-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-lowerbound-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A6%AC%EB%94%94%ED%95%98%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4) longest increasing sequence 최장 증가 수열
 * [marking 배열과 sparse array](https://codingdog.tistory.com/entry/marking-%EB%B0%B0%EC%97%B4%EA%B3%BC-sparse-array)
 * [슬라이딩 윈도우 알고리즘 : 2개의 커서가 중요하다](https://codingdog.tistory.com/entry/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2%EA%B0%9C%EC%9D%98-%EC%BB%A4%EC%84%9C%EB%A7%8C-%EA%B3%84%EC%86%8D-%EC%A6%9D%EA%B0%80%EC%8B%9C%EC%BC%9C-%EB%B3%B8%EB%8B%A4)
-* [Longest Substring Without Repeating Characters 문제를 풀면서 슬라이딩 윈도우를 정복해 봅시다](https://codingdog.tistory.com/589)
 * [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7)
 * [알고리즘 문제풀이 #4 코딩도장 지뢰찾기 이야기](https://adunhansa.tistory.com/325)
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
@@ -763,7 +762,9 @@ Algorithm
 * [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
 * [문자열 padding 처리로 가희와 파일탐색기 문제를 풀어봅시다](https://codingdog.tistory.com/554)
 * [Top 20 String Algorithm Questions from Coding Interviews](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html)
+* [Longest Substring Without Repeating Characters 문제를 풀면서 슬라이딩 윈도우를 정복해 봅시다](https://codingdog.tistory.com/589)
 * [Longest Substring with maximum K Distinct Characters - YouTube](https://www.youtube.com/watch?v=lTBQacDJvnA)
+* [DSA-1.25 (Longest Substring With Unique Characters) - YouTube](https://www.youtube.com/watch?v=pk61hSSFYTo)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
