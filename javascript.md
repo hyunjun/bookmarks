@@ -2276,6 +2276,7 @@ Javascript
 * [차세대 빌드 도구 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220127) esbuild, snowpack, vite, wmr
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884)
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804) 모노레포에 사용할 수 있는 도구인 Yarn(v1, v2), Lerna, Nx, Turborepo의 사용법, 특징, 차이점 설명
+* [궁극의 JavaScript 모노레포 설정 - fromundefined by Tony](https://fromundefined.com/posts/2022-08-ultimate-monorepo/) lerna yarn workspace ultra runner
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -3810,6 +3811,7 @@ Javascript
 * [7 Best Ways to Create a New React Application | Bits and Pieces](https://blog.bitsrc.io/6-best-ways-to-create-a-new-react-application-57b17e5d331a)
 * [Create Instagram Filters with React and CSS | by L Javier Tovar | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-create-instagram-filters-with-react-and-css-dce9f92753d0)
 * [Handling Events In ReactJS | JavaScript Events vs ReactJS Events - YouTube](https://www.youtube.com/watch?v=dOGQFahqXJ8)
+* [React YouTube UI Clone working example with source code - Therichpost](https://therichpost.com/react-youtube-ui-clone-working-example-with-source-code/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4843,6 +4845,7 @@ Javascript
 * [Why I'm Learning Typescript - DEV Community](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
 * [Advanced TypeScript With Code Challenges: Utility Types | by Marius Bongarts | Jul, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-utility-types-e8c30efd9021)
 * [(번역)타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿](https://velog.io/@lky5697/the-ultimate-clean-architecture-template-for-typescript-projects)
+* [How to Use Type Guards in TypeScript - Byte This!](https://bytethisstore.com/articles/pg/typescript-type-guards)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
