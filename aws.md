@@ -149,6 +149,7 @@ AWS
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [Best Courses for AWS Advanced Networking Specialty Certification Exam | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-courses-for-aws-advanced-networking-specialty-certification-exam-15a282130b21)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
+* [15탄- (정리) AWS 마이그레이션 2022](https://brunch.co.kr/@topasvga/2641)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
@@ -1603,6 +1604,7 @@ AWS
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 * [AWS S3 Endpoint (Gateway / Interface Private Link) 사용 방법](https://zigispace.net/1191)
 * [Optimize storage costs with new Amazon S3 Lifecycle filters and actions | AWS Storage Blog](https://aws.amazon.com/ko/blogs/storage/optimize-storage-costs-with-new-amazon-s3-lifecycle-filters-and-actions/)
+* [AWS S3 Service | What is? | How to create Buckets? | Simple Storage Service - YouTube](https://www.youtube.com/watch?v=SiVMXuO00eM)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
@@ -1721,6 +1723,7 @@ AWS
 * [Terraform Cloud | Creating IAM Roles and User in AWS Using Terraform | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/terraform-cloud-creating-iam-roles-and-user-in-aws-using-terraform-cb701add8f81)
 * [Terraform으로 AWS EKS에 Kubernetes 클러스터 프로비저닝 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1608)
 * [Complete Terraform Course for beginners with Hands On Practice and Terraform Commands in 10 minutes - YouTube](https://www.youtube.com/watch?v=80szTnzBs2M)
+* [How to manage multiple environments with Terraform | by Yevgeniy Brikman | Aug, 2022 | Gruntwork](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
