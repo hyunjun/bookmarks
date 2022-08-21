@@ -237,6 +237,9 @@ Book
   * [팬데믹 위기로 다시 시작된 편가르기👍👎 끝나지 않은 전세계적 위기 속에서 우리는 어떤 길을 갈 것인가🤷‍♂️🤷‍♀️ | 신년기획 다음이온다 마지막회 KBS 220127 방송 - YouTube](https://www.youtube.com/watch?v=LZ1sjpfy4cc)
   * [축적의 길](https://github.com/hyunjun/bookmarks/blob/master/books/accumulation_road.md)
   * [축적의 길. PART1 대전환: 착각에서 축적으로 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%B6%95%EC%A0%81%EC%9D%98-%EA%B8%B8-49fd717831ba)
+* [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
+  * ★★★☆☆ 2022.08.21 생각보다 깊은 여러가지 내용을 담고 있어서 조선/유교와 관계된 신화에 대해 재미있게 읽을 수 있음
+  * 우당 문911.05-우66ㅈ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -296,8 +299,6 @@ Book
   * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
 * (NOT YET) [패권의 비밀](https://www.hellodd.com/news/articleView.html?idxno=70680)
   * 한라 321.93-김883ㅍ 탐라 문321.93-김832ㅍ
-* (NOT YET) [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
-  * 우당
 * (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
 * (NOT YET) 지극히 사적인 러시아 ['비정상' 일리야가 말하는 러시아…러시아인들은 왜 푸틴을 좋아할까?](https://www.pressian.com/pages/articles/2022071516575646212)
@@ -610,6 +611,9 @@ Book
 * [로마사를 쉽고 재미있게 읽기, <만화 로마사>.. : 네이버블로그](https://blog.naver.com/youngtak96/220918603946)
   * ★★★☆☆ 2022.08.18
   * 탐라 문922-이68ㅁ-1, 2 우당 문922-이69ㅁ-1, 2
+* [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
+  * ★★★☆☆ 2022.08.20
+  * 우당 문510.9-파49ㅇ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -642,8 +646,6 @@ Book
   * [실크로드 세계사 - 고대 제국에서 G2 시대까지 : 네이버 블로그](https://blog.naver.com/taejj5115/221077379918)
 * (NOT YET) [인류본사](https://www.humanistbooks.com/f851f429-8c58-40f6-bac8-ec7928a35fbf)
 * (NOT YET) [처음 읽는 술의 세계사](https://brunch.co.kr/@roadkeeper/64)
-* (NOT YET) [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
-  * 우당
 * (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
 * (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
