@@ -225,6 +225,8 @@ SQL
 * [Why SQL Needs Software Libraries | Future](https://future.com/sql-needs-software-libraries/)
 * [Everything Is a Funnel, But SQL Doesn’t Get It | by Motif Analytics | Jun, 2022 | Medium](https://motifanalytics.medium.com/everything-is-a-funnel-but-sql-doesnt-get-it-c35356424044)
 * [DataBase](https://velog.io/@oceanwater1234/DB-SQL)
+* [Scan sharing - IBM Documentation](https://www.ibm.com/docs/en/db2/11.1?topic=methods-scan-sharing)
+* [05 - Buffer Pools (CMU Intro to Database Systems / Fall 2021) - YouTube](https://www.youtube.com/watch?v=Moz2AgC9hG4)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
