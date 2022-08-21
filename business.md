@@ -1511,6 +1511,7 @@ Business
 * [Better/Sooner/Cheaper/More - by Kent Beck](https://tidyfirst.substack.com/p/bettersoonercheapermore) iron cross
 * [What Product Market Fit Feels Like - by CJ Gustafson](https://www.mostlymetrics.com/p/what-product-market-fit-feels-like)
   * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
+* [“테슬라를 끊으면 부들부들 금단증상이 생긴다” - YouTube](https://www.youtube.com/watch?v=RrKq6EuSARM) 테슬라 이야기보다 서비스에 대한 관점이 더 들을만했음
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
