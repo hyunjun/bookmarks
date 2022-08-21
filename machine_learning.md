@@ -1077,6 +1077,8 @@ Machine Learning
 * [Decision Trees in Machine Learning (ML) with Python Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 * [Know How to Create and Visualize a Decision Tree with Python](https://www.dasca.org/world-of-big-data/article/know-how-to-create-and-visualize-a-decision-tree-with-python)
 * [트리 모델 | Pega Devlog](https://jehyunlee.github.io/2022/07/15/Python-DS-107-kierlecture4/)
+* [Tabular data는 딥러닝보다 트리 모델](https://www.facebook.com/jehyun.lee.9615/posts/763397698345890)
+  * [2110.01889.pdf](https://arxiv.org/pdf/2110.01889.pdf)
 * [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 * [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
