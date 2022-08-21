@@ -124,6 +124,8 @@ SQL
 * [How to Optimize SQL Queries Part II | by Pawan Jain | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-part-ii-407311784112)
 * [SQL Query Optimization: Level Up Your SQL Performance Tuning | by Garvit Arya | Feb, 2022 | Better Programming](https://betterprogramming.pub/sql-query-optimization-level-up-your-sql-performance-tuning-d93af175b24b)
 * [Top 10 Tips to Improve SQL Query Performance | by Bigscal Technologies | Medium](https://medium.com/@Bigscal-Technologies/top-10-tips-to-improve-sql-query-performance-f40f25047661)
+* [Valentina Cupać on Twitter: "What's the logical order of SQL query operations? SQL Query Execution Order (Visualized). #SQL #Databases https://t.co/PWgGe0SNbU" / Twitter](https://twitter.com/ValentinaCupac/status/1556906177686036480)
+* [SQL Query Order of Execution | Sisense](https://www.sisense.com/blog/sql-query-order-of-operations/)
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [초보자 확실히 기억해야 하는 SQL 가이드](https://brunch.co.kr/@04925bf0d77f43e/7)
@@ -184,6 +186,7 @@ SQL
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
 * [**ConnectionStrings.com - Forgot that connection string? Get it here!**](https://www.connectionstrings.com/) 각 DB별 connection string 모음
+* [Maximum number of database connections - Vlad Mihalcea](https://vladmihalcea.com/maximum-database-connections/)
 * [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards](https://blog.arctype.com/sql-50-years/)
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
@@ -993,17 +996,7 @@ SQL
 * [PostgreSQL 14 Internals : Postgres Professional](https://postgrespro.com/community/books/internals)
 * [Postgres 15 improves UNIQUE and NULL - Blog @ RustProof Labs](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
 * [Money operations with Node.js and PostgreSQL | by Alex Vasilyev | Jul, 2022 | Medium](https://luckylibora.medium.com/money-operations-with-node-js-and-postgresql-91d1f06ff263)
-* EdgeDB
-  * [EdgeDB—The next generation database](https://edgedb.com/)
-  * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
-  * [EdgeDB - 개발자를 위한 차세대 오픈소스 ORDB | GeekNews](https://news.hada.io/topic?id=4602)
-  * [My experience with EdgeDB · divan's blog](https://divan.dev/posts/edgedb/)
-    * EdgeDB는 Postures 위에 만들어진 관계형/그래프 데이터베이스
-    * SQL이 없고 EdgeQL이라는 자체 쿼리 언어가 있는데 이게 엄청 좋아서 다시는 SQL로 돌아가지 않을 생각
-    * 요즘 추세대로 하나의 바이너리로 모든 걸 할 수 있어서 서버 설치, 데이터베이스 관리, 마이그레이션 모두 가능
-    * 1년 전부터 사용하기 시작했는데 지금은 회사의 프로젝트도 EdgeDB로 바꾸고 있고 대부분의 경우 "It just works"를 경험, 다양한 기능을 소개
-    * [EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야" | GeekNews](https://news.hada.io/topic?id=7052)
-  * [All You Need to Know about EdgeDB | AppSignal Blog](https://blog.appsignal.com/2022/08/02/all-you-need-to-know-about-edgedb.html)
+* [Postgres Tutorials | Crunchy Data](https://www.crunchydata.com/developers/tutorials)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1017,6 +1010,17 @@ SQL
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
+* EdgeDB
+  * [EdgeDB—The next generation database](https://edgedb.com/)
+  * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+  * [EdgeDB - 개발자를 위한 차세대 오픈소스 ORDB | GeekNews](https://news.hada.io/topic?id=4602)
+  * [My experience with EdgeDB · divan's blog](https://divan.dev/posts/edgedb/)
+    * EdgeDB는 Postures 위에 만들어진 관계형/그래프 데이터베이스
+    * SQL이 없고 EdgeQL이라는 자체 쿼리 언어가 있는데 이게 엄청 좋아서 다시는 SQL로 돌아가지 않을 생각
+    * 요즘 추세대로 하나의 바이너리로 모든 걸 할 수 있어서 서버 설치, 데이터베이스 관리, 마이그레이션 모두 가능
+    * 1년 전부터 사용하기 시작했는데 지금은 회사의 프로젝트도 EdgeDB로 바꾸고 있고 대부분의 경우 "It just works"를 경험, 다양한 기능을 소개
+    * [EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야" | GeekNews](https://news.hada.io/topic?id=7052)
+  * [All You Need to Know about EdgeDB | AppSignal Blog](https://blog.appsignal.com/2022/08/02/all-you-need-to-know-about-edgedb.html)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/)
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
@@ -1232,6 +1236,8 @@ SQL
 * [SQLime - SQLite Playground](https://sqlime.org/)
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlite3 fiddle](https://sqlite.org/fiddle/)
+* [sqlite-http: A SQLite extension for making HTTP requests purely in SQL](https://github.com/asg017/sqlite-http)
+  * [Introducing sqlite-http: A SQLite extension for making HTTP requests / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-sqlite-http)
 * [sqlite-lines: A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)](https://github.com/asg017/sqlite-lines)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 * [SQL OnLine IDE](https://sqliteonline.com/)
