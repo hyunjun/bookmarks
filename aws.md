@@ -741,6 +741,7 @@ AWS
 # DevOps Guru
 * [Amazon DevOps Guru for Serverless – AWS Lambda 함수 운영 문제 자동 감지 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
 * [AWS, 서버리스 앱에 ‘ML 기반 분석’ 추가 - CIO Korea](https://www.ciokorea.com/news/233504)
+* [Introduction to AWS Opsworks. What is AWS OpsWorks? AWS OpsWorks is… | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/introduction-to-aws-opsworks-83fd80ebc92d)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
@@ -836,6 +837,7 @@ AWS
 * [What is an EC2 instance in AWS || How many types of EC2 instances are there || AWS EC2 IN HINDI || - YouTube](https://www.youtube.com/watch?v=-uqFhUCLUUg)
 * [How To Launch EC2 Linux Instance in AWS Cloud | Ashok IT - YouTube](https://www.youtube.com/watch?v=uI2iDk8iTps)
 * [아마존 웹 서비스 EBS 용량 늘리기(EC2) 간단한 개념 | 웹으로 말하기](https://mytory.net/2022/08/15/extends-aws-storage.html)
+* [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
