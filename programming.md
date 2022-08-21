@@ -4243,6 +4243,7 @@ Programming
 * [Streaming 101: Hello Streaming - YouTube](https://www.youtube.com/watch?v=A1YC_AC0qf8)
 * [Auto-Diagnosis and Remediation in Netflix Data Platform | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1)
 * [The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure | by Zhenzhong Xu | Feb, 2022 | Medium](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
+* [2022-Streaming-Summit-Netflix.pdf](http://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
