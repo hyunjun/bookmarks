@@ -76,6 +76,12 @@ Bitcoin
 * [**해킹당한 모든 브릿지들에게 - by MOYED - Why Matters**](https://whymatters.substack.com/p/--92a)
 * [가상자산 지갑 종류 알아보기 (크립토 월렛)](https://soccer-programming.tistory.com/52)
 * [블파스 Next Keyword? Soulbound Token | 신은옥 - YouTube](https://www.youtube.com/watch?v=7nmIU21B2f8)
+* [SAFT](https://gist.github.com/hyunjun/0c65243188f18882ceeaf266eb3f4334#file-saft-md)
+  * [The SAFT Project](https://saftproject.com/)
+  * [https://www.sec.gov/Archives/edgar/data/1693656/000110465919039476/a18-15736_1ex1a3hldrsrtsd1.htm](https://www.sec.gov/Archives/edgar/data/1693656/000110465919039476/a18-15736_1ex1a3hldrsrtsd1.htm)
+  * [SAFT 란? ICO와 다른점은?](https://soccer-programming.tistory.com/57)
+  * [Simple Agreement for Future Tokens (SAFT) Definition](https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp)
+  * [What is SAFT in Crypto: Why is it important? - Phemex Academy](https://phemex.com/academy/what-is-saft-crypto)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
