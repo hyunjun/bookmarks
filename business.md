@@ -1816,6 +1816,7 @@ Business
 * [무조건 선순환 구조를 만들어라](http://moneyman.kr/archives/6768) 문제점을 찾아 최대한 빨리 개선하는 기본
 * [진짜 Zero to One 시작부터 Global DNA](https://brunch.co.kr/@powervision/44)
 * [(d·camp x 분당서울대학교병원) 스타트업 창업자 정신건강 실태조사 보고서 발간 | D.CAMP](https://dcamp.kr/node/460)
+* ['10만 다운' 대박 앱 만들고도 '폐업'..스타트업 망하는 4가지 이유](https://news.v.daum.net/v/20220820090004009)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
