@@ -133,6 +133,7 @@ Redis
 * [Redis 야무지게 사용하기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/16)
 * [Render Redis | Render · Cloud Hosting for Developers](https://render.com/blog/redis)
 * [Alex Xu on Twitter: "1. How do we build a simple 𝐜𝐡𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 using 𝐑𝐞𝐝𝐢𝐬? The diagram below shows how we can leverage the pub-sub functionality of Redis to develop a chat application. https://t.co/4w7aFPrNvg" / Twitter](https://twitter.com/alexxubyte/status/1555210693921542144)
+* [Redis Explained](https://architecturenotes.co/redis/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
