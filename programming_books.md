@@ -397,6 +397,8 @@ Programming Books
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
+* (NOT YET) [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
+  * 우당 문005.73-수43ㅋ
 
 # Amazon AWS
 
@@ -605,6 +607,8 @@ Programming Books
 * (NOT YET) [실전 대비 C 알고리즘 인터뷰](https://thebook.io/007031/)
   * 우당 문005.1-자69ㅅ
   * [007031: <실전대비 C 알고리즘 인터뷰> 소스 코드](https://github.com/gilbutITbook/007031)
+* (NOT YET) [C 언어 코딩 도장: 따라하기, 연습하기, 심사하기로 배우는 C 언어 프로그래밍](https://pyrasis.com/book/CCodingDojang)
+  * 한라 005.133-남73ㅆ
 
 # C++
 
@@ -2515,7 +2519,9 @@ Programming Books
 * (NOT YET) [파이썬 해킹 레시피 책이 출간되었습니다](https://whackur.tistory.com/184) 소켓 통신 구현, 백도어 제작, 은닉 채널을 이용한 메세지 송 수신, 네트워크 해킹, 크롤링등의 해킹 기법
 * (NOT YET) [마인크래프트와 함께 즐겁게 파이썬](http://bjpublic.tistory.com/314)
 * (NOT YET) 파이썬 핵심 개발자들과의 인터뷰 - 파이썬 커뮤니티 코어 개발자들이 말하는 파이썬의 과거, 현재 그리고 미래
-* (NOT YET) [파이썬 코딩도장](https://www.stomx.net/entry/Review-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9E%A5)
+* (NOT YET) [파이썬 코딩 도장: 프로그래밍은 공부가 아닙니다. 연습입니다](https://pyrasis.com/book/PythonCodingDojang)
+  * 한라 005.133-남73ㅍ
+  * [파이썬 코딩도장](https://www.stomx.net/entry/Review-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9E%A5)
 * (NOT YET) [깐깐하게 배우는 파이썬 3](https://blog.insightbook.co.kr/2019/01/23/%EA%B9%90%EA%B9%90%ED%95%98%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-3/)
   * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
