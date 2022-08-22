@@ -483,6 +483,7 @@ Business
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 * [조직을 학습곡선의 포트폴리오로 관리하라 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1803) S학습곡선
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
+* [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
 * [지속할 힘을 주는 루틴 만들기 5가지 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245300)
 * [루틴의 힘](https://www.thestartupbible.com/2022/02/power-of-routine.html)
@@ -1421,6 +1422,7 @@ Business
 * [모바일 마케팅 분석 무작정 따라하기 #2](https://danbi-ncsoft.github.io/works/2019/08/19/works-mobile_mkt-2.html)
 * [오랫동안 사랑받는 게임이 되도록, 유저의 LTV(유저 생애 가치) 예측하기](https://blog.ncsoft.com/game-data-analytics-20201014/)
 * [AI 글에서 업무 자동화를 떠올리기](https://brunch.co.kr/@graypool/108)
+* [닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"](https://www.longblack.co/note/392?ticket=NTc496aef98e291d4d434144a964512b21bb9e94f7)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -1475,6 +1477,7 @@ Business
 * [오라클 V. 구글, 제2라운드](http://www.helloiplaw.com/598)
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 * [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
+* [방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중 | 인공지능 & 소프트웨어 | 파이특허법률사무소](https://piip.co.kr/ko/blog/google-dropout-patent)
 
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
