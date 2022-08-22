@@ -62,6 +62,8 @@ Business
   * 구글이 너무 큰 조직이 되다 보니 업무 시간이 많지 않음에도 번아웃이 오는 것을 느끼고 큰 조직의 걱정이 없는 작은 스타트업으로 이직
 * [Burnout Guide: Symptoms, Causes, and Prevention - Commoncog](https://commoncog.com/g/burnout/)
 * [Developers are burned out, quitting their jobs and creating a crisis for recruiters  - WorkLife](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
+* [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
+* [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
@@ -123,6 +125,7 @@ Business
 * [대성할 30대 실무자들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/238464) 선택과 집중
 * [소수의 일에 집중하기 - 인생지름길](https://lifeshortcut.kr/%EC%86%8C%EC%88%98%EC%9D%98-%EC%9D%BC%EC%97%90-%EC%A7%91%EC%A4%91%ED%95%98%EA%B8%B0/)
 * [일을 다양하게 하지 마라](http://moneyman.kr/archives/11571) 분업, 집중
+* [6 Ways to Stay Focused While Working on Your Startup and Having a 9 to 5 | by Fernando Pessagno | Aug, 2022 | Medium](https://fernandopessagno.medium.com/6-ways-to-stay-focused-while-working-on-your-startup-and-having-a-9-to-5-fb0b2d2c8db3)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
@@ -479,7 +482,6 @@ Business
   * [네카라쿠배당토 핵심가치는 뭐가 다를까?](https://brunch.co.kr/@wcms/18)
 * [실패와 패배가 지긋지긋할 때](https://blog.toss.im/article/core-values-are-evolving) 토스 핵심 가치
 * [유정식님의 핵심가치에 대한 이야기](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-core_value-md)
-* [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 * [조직을 학습곡선의 포트폴리오로 관리하라 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1803) S학습곡선
@@ -667,6 +669,7 @@ Business
     * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
 * [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
+* [Why is recruiting developers so difficult?](https://polyfill.work/blog/why-is-recruiting-developers-so-difficult)
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
@@ -1153,6 +1156,7 @@ Business
   * 효율적인 관리를 위한 휴리스틱들
     1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
     10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
+* [Why It’s Easier to Manage 4 People Than It Is to Manage 1 Person | Stay SaaSy](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
 * [“처음으로 팀장이 됩니다” 좋은 팀장은 어떻게 해야 하나요? – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/163797)
 * [Ep.20 우리팀에선 언제 매니저/팀장 채용을 해야할까? - YouTube](https://www.youtube.com/watch?v=vXH2cmjsxb0)
