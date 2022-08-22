@@ -177,6 +177,7 @@ Open Source
   * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
     * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
   * [The Rise of ZStandard: Apache Spark/Parquet/ORC/Avro - YouTube](https://www.youtube.com/watch?v=dTGxhHwjONY)
+  * [AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음 | GeekNews](https://news.hada.io/topic?id=7227)
 
 # fossasia
 * [fossasia](https://fossasia.org/)
