@@ -1782,7 +1782,6 @@ Javascript
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [Frappe: Frameworks + Apps](https://frappe.io/gantt)
   * [Frappe - 인터랙티브 Gantt 차트 오픈소스 | GeekNews](https://news.hada.io/topic?id=6504)
-* [fresh - The next-gen web framework](https://fresh.deno.dev/)
 * [frontend-challenges: Listing some playful open-source's challenges of jobs to test your knowledge](https://github.com/felipefialho/frontend-challenges)
 * fullPage.js
   * [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
@@ -2902,7 +2901,8 @@ Javascript
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
-  * [fresh - The next-gen web framework.](https://fresh.deno.dev/)
+  * [fresh - The next-gen web framework](https://fresh.deno.dev/)
+    * [Getting started with Fresh: The New Deno Framework | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-fresh-the-new-deno-framework-47ac30545891)
   * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
