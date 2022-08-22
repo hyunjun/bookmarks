@@ -189,6 +189,7 @@ Programmer
 * [콜드콜로 자문을 받고 싶을 때 '꿀팁 3가지' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coldcall20210726)
   * [콜드콜로 자문을 받고 싶을 때 '꿀팁 3가지' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/17qExH1W8vs-_Px9qrSP3CI8LsSCVSIZi/view?usp=sharing)
 * [컨설턴트, 이렇게 쓰면 망한다··· CIO들의 3가지 실수 - CIO Korea](https://www.ciokorea.com/news/235769)
+* [한기용 - 컨설팅 경험](https://www.linkedin.com/feed/update/urn:li:activity:6966791695581556736/)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
