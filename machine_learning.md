@@ -1172,6 +1172,7 @@ Machine Learning
   * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM](https://github.com/lablup/backend.ai)
   * [Backend.AI 오픈소스 기여 가이드 | Lablup Blog](https://blog.lablup.com/posts/2021/07/05/backendai-contribution-guide/)
   * [백엔드닷에이아이(Backend.AI)로 시작해 보는 AI 오픈소스 소개 및 실습 - 01 - YouTube](https://www.youtube.com/watch?v=wIa14otnAps)
+  * [포크리프트 활용하기 | Lablup Blog](https://blog.lablup.com/posts/2022/08/03/image-builder)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
 * [cuml: cuML - RAPIDS Machine Learning Library](https://github.com/rapidsai/cuml)
