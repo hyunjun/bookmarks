@@ -78,6 +78,7 @@ Open Source
 * [How to make your first #opensource contribution ? |#opensource is next big thing | #github |#devops - YouTube](https://www.youtube.com/watch?v=Y51AF7CTBXM)
 * [내가 오픈소스를 싫어하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1105/)
 * [글로벌 칼럼 | AI 시대 필요한 것은 오픈‘소스’가 아닌 오픈소스 ‘접근권’ - ITWorld Korea](https://www.itworld.co.kr/news/246010)
+* [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
