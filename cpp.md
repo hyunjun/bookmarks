@@ -267,6 +267,7 @@ C++
 * [Lambda expressions in C++ 11/14](https://www.youtube.com/watch?v=p7b-6EFIN28)
 * [New C++ features – lambdas](http://arne-mertz.de/2015/10/new-c-features-lambdas/)
 * [Back to Basics: Lambdas from Scratch - Arthur O'Dwyer - CppCon 2019 - YouTube](https://www.youtube.com/watch?v=3jCOwajNch0)
+* [The Advanced Guide To Lambda Expression In C++ Software](https://blogs.embarcadero.com/the-advanced-guide-to-lambda-expression-in-c-software/)
 * [gtkmm now uses C++11](http://www.murrayc.com/permalink/2015/07/31/gtkmm-now-uses-c11/)
 * [Why You Have to Learn Modern C++](http://blogs.microsoft.co.il/sasha/2015/08/15/why-you-have-to-learn-modern-c/)
 * [New C++ Features – templated rvalue References and std::forward](http://arne-mertz.de/2015/10/new-c-features-templated-rvalue-references-and-stdforward/)
