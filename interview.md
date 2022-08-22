@@ -438,6 +438,7 @@ Interview
     * [System Design Rate Limiter | Leaky Bucket Implementation | System Design Interview - YouTube](https://www.youtube.com/watch?v=nxraKcWpBvs)
     * [System Design Rate Limiter | Token Bucket Implementation | System Design Interview - YouTube](https://www.youtube.com/watch?v=TCTkkVoY3-I)
     * [How I Would Design… An API Rate Limiter! | by James Collerton | Medium](https://jc1175.medium.com/how-i-would-design-an-api-rate-limiter-acad9b8e5a2e)
+    * [System Design Basics: Rate Limiter | by Abhinav Singh | Geek Culture | Medium](https://medium.com/geekculture/system-design-basics-rate-limiter-351c09a57d14)
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
