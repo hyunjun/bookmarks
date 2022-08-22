@@ -248,6 +248,7 @@ Open Source
   * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [Tyk - an open source API Gateway that is fast, scalable and modern](https://tyk.io/)
   * [tyk(API Gateway) 설치 메뉴얼 (Redhat)](http://cloudsemina.com/index.php?mid=micro_architecture&document_srl=374)
+* [Windmill](https://docs.windmill.dev/) Scripts to internal apps and workflows in minutes
 
 # License
 * [Elasticsearch 와 Kibana 의 SSPL & Elastic License 듀얼 라이선스 전환 정리](https://blog.naver.com/occidere/222209247067) SSPL
