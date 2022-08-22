@@ -2276,6 +2276,7 @@ Programming
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
+* [Static Code Analysis - A Behind-the-scenes Look • Arno Haase • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=4HhHER0n8ls)
 * [ApplicationInspector - A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine](https://github.com/microsoft/ApplicationInspector)
   * [Introducing Microsoft Application Inspector](https://www.microsoft.com/security/blog/2020/01/16/introducing-microsoft-application-inspector/)
   * [MS가 개발한 새로운 코드 분석 툴, 오픈소스로 풀렸다](https://www.boannews.com/media/view.asp?idx=85876)
