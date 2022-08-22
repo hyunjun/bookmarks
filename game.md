@@ -62,6 +62,7 @@ Game
 * [멘토특강 게임 서버 개발자 준비하기 - YouTube](https://www.youtube.com/watch?v=DtdttEhtgjI)
 * [폭력적이지 않고 스토리가 좋은 게임? | GeekNews](https://news.hada.io/topic?id=6679)
 * [가장 좋아하는 오픈소스 게임은? | GeekNews](https://news.hada.io/topic?id=6669)
+* [게임 수학, 어느 정도까지 배워야 할까? - BatStudio](https://www.ibatstudio.com/%EA%B2%8C%EC%9E%84-%EC%88%98%ED%95%99-%EC%96%B4%EB%8A%90-%EC%A0%95%EB%8F%84%EA%B9%8C%EC%A7%80-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0%EA%B9%8C/)
 
 # Board game
 * Carnegie [보드게임 리뷰 : 카네기(Carnegie) – “또 하고 싶다” - Guru's Blog](https://xguru.net/2258)
