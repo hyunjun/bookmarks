@@ -55,6 +55,7 @@ Algorithm
 * [javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 * [5 Best JavaScript Data Structure and Algorithms Courses for Beginners to Learn in 2022 - DEV Community](https://dev.to/javinpaul/5-best-data-structure-and-algorithms-courses-for-javascript-developers-2hbd)
 * [JavaScript 기술면접 라이브 코딩 대비 I](https://velog.io/@blcklamb/JavaScript-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9-%EB%8C%80%EB%B9%84)
+* [자바스크립트 개발자가 알고리즘을 C언어로 푸는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1651/)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
