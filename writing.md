@@ -97,6 +97,7 @@ Writing
 * [How I Motivate Myself to Write - The Pragmatic Engineer](https://blog.pragmaticengineer.com/writing-motivation/)
 * [개발자가 경영책 써서 3개월 동안 책 30권 판 썰](https://brunch.co.kr/@nanotoly/81)
 * [신입/주니어에게 글쓰기가 주는 5가지 혜택. 글쓰기는 초기 개발자 커리어에 도움이 된다. 어쩌면 경력 내내… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4%EC%97%90%EA%B2%8C-%EA%B8%80%EC%93%B0%EA%B8%B0%EA%B0%80-%EC%A3%BC%EB%8A%94-5%EA%B0%80%EC%A7%80-%ED%98%9C%ED%83%9D-93dec2e4a07e)
+* [좋은 1 pager의 시작: 객관적으로 관찰하기](https://brunch.co.kr/@cliche-cliche/160)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
