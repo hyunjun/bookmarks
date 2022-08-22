@@ -1615,6 +1615,7 @@ Machine Learning
   * [Building A Simple SQL Playground App with Streamlit & Python - YouTube](https://www.youtube.com/watch?v=ns-Pd-1F4uU)
   * [Building a Machine Learning API in 15 Minutes | Coding Challenge - YouTube](https://www.youtube.com/watch?v=C82lT9cWQiA)
   * [허깅페이스와 스트림릿으로 데이터 시각화 웹서비스 간단히 만들기](https://tykimos.github.io/2022/08/15/building_datavisualization_service_using_huggingface/)
+  * [Streamlit - HTML, CSS, JS 없이 Python으로 웹사이트 만들기 - YouTube](https://www.youtube.com/watch?v=XACHCUduqh0)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
