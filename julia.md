@@ -181,6 +181,7 @@ Julia
 * [Genie Framework - Highly Productive Web Development with Julia](https://genieframework.com/)
   * [GenieFramework - Julia용 웹 개발 프레임워크 | GeekNews](https://news.hada.io/topic?id=6325)
 * [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
+* [jnumpy: Writing Python C extensions in Julia within 5 minutes](https://github.com/Suzhou-Tongyuan/jnumpy)
 * [**Juno is a powerful, free environment for the Julia language**](http://junolab.org/)
 * [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)
 * [Julia for VSCode](https://www.julia-vscode.org)
