@@ -87,7 +87,6 @@ C
 * [Struct Iteration through (Ab)use of the C Preprocessor](https://natecraun.net/articles/struct-iteration-through-abuse-of-the-c-preprocessor.html)
 * [FreeBSD Userspace Coredumps](http://backtrace.io/blog/blog/2015/10/03/whats-a-coredump/)
 * [Algorithmic symphonies from one line of code -- how and why?](http://countercomplex.blogspot.kr/2011/10/algorithmic-symphonies-from-one-line-of.html)
-* [PAPERS ARE AMAZING: Profiling threaded programs with Coz](http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/)
 * [8-bit number to binary string ("01011010")](http://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010)
 * [Why C and C++ are Awful Programming Languages](http://www.radford.edu/ibarland/Manifestoes/c++isBad.shtml)
 * [counting up vs counting down](http://www.tedunangst.com/flak/post/counting-up-vs-counting-down)
@@ -149,7 +148,6 @@ C
 * [Getting started with C programming: a lightning-fast start for absolute beginners | The Not Café - Enjoy Technology](https://not.cafe/2020/10/12/getting-started-with-c-programming.html)
 * [embedding binary objects in c](https://flak.tedunangst.com/post/embedding-binary-objects-in-c)
 * [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
-* [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [The Ten Commandments for C Programmers (Annotated Edition)](https://www.lysator.liu.se/c/ten-commandments.html)
 * [C언어 예제 디지털 시계 만들기 예제 Center](https://www.youtube.com/watch?v=FzMHurNF7W8)
 * [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
@@ -252,6 +250,7 @@ C
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
+* [Using Landlock to Sandbox GNU Make](https://justine.lol/make/)
 * [blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 * [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
@@ -602,6 +601,11 @@ C
   * [practice - test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
+
+# Thread
+* [PAPERS ARE AMAZING: Profiling threaded programs with Coz](http://jvns.ca/blog/2015/10/31/papers-are-amazing-profiling-threaded-programs-with-coz/)
+* [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
+* [Sleep Sort – The King of Laziness / Sorting while Sleeping - GeeksforGeeks](https://www.geeksforgeeks.org/sleep-sort-king-laziness-sorting-sleeping/)
 
 # Tutorial
 * [C Programming FAQs](http://cinsk.github.io//cfaqs/html/cfaqs-ko.html)
