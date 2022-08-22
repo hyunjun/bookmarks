@@ -168,6 +168,7 @@ Bitcoin
 * [2205.01091 Blockchain in a nutshell](https://arxiv.org/abs/2205.01091)
 * [2022년. 블록체인 개발을 공부해야하는 이유? - YouTube](https://www.youtube.com/watch?v=1yfslVVoL6k)
 * [이 시국에 꿋꿋하게 스마트컨트랙 만들어보기 - YouTube](https://www.youtube.com/watch?v=8WBvMEql6SQ)
+* [영지식 증명과 함께 블록체인의 미래로 향하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/249082) ZKP Zero-knowledge Proof
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
@@ -232,6 +233,7 @@ Bitcoin
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
+* [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
 * [SMARTIAN: 데이터 흐름 분석을 활용한 스마트 컨트랙트 퍼징](https://engineering.linecorp.com/ko/blog/smartian-smart-contract-fuzzing-with-data-flow-analyses)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
