@@ -1516,6 +1516,7 @@ Business
 * [What Product Market Fit Feels Like - by CJ Gustafson](https://www.mostlymetrics.com/p/what-product-market-fit-feels-like)
   * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
 * [“테슬라를 끊으면 부들부들 금단증상이 생긴다” - YouTube](https://www.youtube.com/watch?v=RrKq6EuSARM) 테슬라 이야기보다 서비스에 대한 관점이 더 들을만했음
+* [로그인, 회원가입, ..회원 서비스 기획 너무 어렵다!](https://brunch.co.kr/@zungyeonlee/11)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -1568,6 +1569,7 @@ Business
 * [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
 * [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
 * [How To Transition From Being A Programmer to Project Manager Position | HackerNoon](https://hackernoon.com/how-to-transition-from-being-a-programmer-to-project-manager-position-op2j3ulg)
+* [What are non-functional requirements (NFRs) | Planio](https://plan.io/blog/non-functional-requirements-nfrs/)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
@@ -1910,6 +1912,8 @@ Business
 * [The History of User Interfaces](https://history.user-interface.io/)
 * [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
 * [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
+* [Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+  * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
