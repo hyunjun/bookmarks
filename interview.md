@@ -250,6 +250,7 @@ Interview
 * [내가 개발 인터뷰에서 면접자에게 감동한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/700/)
 * [신입 백엔드 면접 질문 Ver. 1.9.0](https://velog.io/@yukina1418/%EC%B5%9C%EA%B7%BC-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%8B%88%EB%A9%B4%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 * [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0)
+* [InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -601,6 +602,7 @@ Interview
 * [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
 * [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
 * [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
+* [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
