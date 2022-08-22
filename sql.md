@@ -107,6 +107,7 @@ SQL
   * [(즐겁게 배우는 SQL #50) 윈도우 함수 - 윈도우 함수(2)](https://jhrogue.blogspot.com/2021/02/sql-50-2.html)
   * [(즐겁게 배우는 SQL #51) (보충) where와 having 차이점 설명](https://jhrogue.blogspot.com/2021/12/sql-51-where-having.html)
 * [The difference between WHERE and HAVING – SQL Bits](https://sql-bits.com/the-difference-between-where-and-having/)
+* [SQLrevisited: Difference between DELETE vs DROP vs TRUNCATE in SQL](https://www.sqlrevisited.com/2022/08/delete-vs-drop-vs-truncate-in-sql.html)
 * [WHERE vs HAVING and GROUP BY vs PARTITION BY Clause in SQL - Tech Point Fundamentals](https://www.techpointfunda.com/2021/12/where-vs-having-clause-in-sql.html)
 * [DB에 하지 말아야 할 겪은 일들](https://velog.io/@juunini/DB%EC%97%90-%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B2%AA%EC%9D%80-%EC%9D%BC%EB%93%A4)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
