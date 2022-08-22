@@ -291,6 +291,9 @@ Programming Books
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://github.com/hyunjun/bookmarks/blob/master/programming_books/more_effective_agile.md)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-more-effective-agile-a-roadmap-for-software-leaders-56f66796e26)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-More-Effective-Agile-A-Roadmap-for-Software-Leaders)
+* [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
+  * ★★★★☆ 2022.08.22
+  * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
@@ -2109,8 +2112,6 @@ Programming Books
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
-* (NOT YET) [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
-  * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
 * (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
   * 탐라 문331.17-클231ㅂ
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
