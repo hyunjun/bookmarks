@@ -358,6 +358,7 @@ Linux
   * [Ansible Tower with OSP16 - YouTube](https://www.youtube.com/watch?v=yuqcgckq0xA)
   * [DevOps - Part 12 - First Ansible PlayBook To Create Docker Image and Container ... Very Easy Steps - YouTube](https://www.youtube.com/watch?v=SsQdi3y8Trg)
   * [8 ways to speed up your Ansible playbooks | Enable Sysadmin](https://www.redhat.com/sysadmin/faster-ansible-playbook-execution)
+  * [How To Write An Ansible Playbook To Change SSH Banner Message On Linux | Copy Module Example - YouTube](https://www.youtube.com/watch?v=E1uG9lcZcKE)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -860,6 +861,7 @@ Linux
   * [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
   * [Introducing SSH command logging](https://blog.cloudflare.com/ssh-command-logging/)
   * [How To Set Correct SSH Directory Permissions in Linux](https://www.tecmint.com/set-ssh-directory-permissions-in-linux/)
+  * [SSH tips and tricks | Carlos Becker](https://carlosbecker.dev/posts/ssh-tips-and-tricks/)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
