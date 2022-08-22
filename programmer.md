@@ -183,6 +183,7 @@ Programmer
 * [IT 커리어를 '서서히 망치는' 11가지 함정 - CIO Korea](https://www.ciokorea.com/news/233599)
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
 * [Why You Should Build a “Career Portfolio” (Not a “Career Path”)](https://hbr.org/2021/10/why-you-should-build-a-career-portfolio-not-a-career-path)
+* [Curated paths for developers | pathify](https://pathify.dev/)
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
