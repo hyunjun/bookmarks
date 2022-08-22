@@ -389,6 +389,7 @@ Network
 * [TCP Connection Passing](http://tcpcp.sourceforge.net/)
 * [mTCP TCP/IP applications for DOS PCs](http://www.brutman.com/mTCP/mTCP.html)
 * [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+* [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
