@@ -201,6 +201,7 @@ Json
   * [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
 * [JQL — Rust based JSON Query Language | by Robby Boney | Short Bits | Medium](https://medium.com/short-bits/jql-rust-based-json-query-language-ed1d7c6a1ae0)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
+* [jsend: JSend is a specification for a simple, no-frills, JSON based format for application-level communication](https://github.com/omniti-labs/jsend)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
 * [JSON 2 HTML](https://json.bloople.net/)
 * [json2kotlin.com | Online JSON to Kotlin Data Class Models Generator](https://www.json2kotlin.com/)
