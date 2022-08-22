@@ -188,6 +188,7 @@ App
 * [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) 윈도우 샌드박스를 이용해 인터넷 뱅킹/전자정부 인터넷 서비스를 사용하도록 하는 프로젝트
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
+* [**Tiny Helpers**](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
@@ -258,6 +259,7 @@ App
 * [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)
 * [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
   * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
+* [restic: Fast, secure, efficient backup program](https://github.com/restic/restic)
 
 # Blog
 * [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380)
@@ -521,6 +523,8 @@ App
   * [MiroTalk SFU - 오픈소스 Zoom/Teams 대체제 | GeekNews](https://news.hada.io/topic?id=5497)
 * [neko: A self hosted virtual browser that runs in docker and uses WebRTC](https://github.com/m1k1o/neko)
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
+* [rallly: Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails](https://github.com/lukevella/rallly)
+  * [Rallly - 미팅 날짜 선택을 도와주는 Doodle Poll 대체제 오픈소스 | GeekNews](https://news.hada.io/topic?id=7195)
 * [Strive](https://www.openstrive.org/)
   * [Strive - 오픈소스 화상 회의 플랫폼 | GeekNews](https://news.hada.io/topic?id=4524)
 * [wire](https://wire.com/) skype alternative
@@ -1140,6 +1144,7 @@ App
     * [linux - How to join/merge many mp3 files? - Super User](https://superuser.com/questions/314239/how-to-join-merge-many-mp3-files) 여러 mp3 file 하나로 합치기
     * [번역 ffmpeg로 비디오 합치기 | 웹으로 말하기](https://mytory.net/2022/05/23/ffmpeg-concat-videos.html)
     * [하위폴더를 훑으며 ffmpeg 영상 파일 용량 줄이기 스크립트 | 웹으로 말하기](https://mytory.net/2022/05/23/video-optimize-script.html)
+    * [Laurence Tratt: Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
     * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
@@ -1157,6 +1162,7 @@ App
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * `afplay` [macOS에서 음원 파일 노동요 모드로 재생하기](https://rein.kr/blog/archives/5575)
 * [AirPlay 5000번 포트](https://jybaek.tistory.com/963)
+* [airplay2-receiver: AirPlay 2 Receiver - Python implementation](https://github.com/openairplay/airplay2-receiver)
 * [AirServer Connect - The Most Advanced Screen Mirroring Receiver](https://www.airserver.com/)
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
@@ -1832,6 +1838,7 @@ App
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
+* [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
@@ -1974,6 +1981,7 @@ App
 * ['한번 쓰면 빠져나올 수 없는' 윈도우 고급 사용자 도구 5종 - ITWorld Korea](https://www.itworld.co.kr/news/213399)
 * ['필수를 넘어 고전이 된' 윈도우 PC 관리 소프트웨어 12종 - ITWorld Korea](https://www.itworld.co.kr/news/227494)
 * ["화면 캡처부터 주석까지 윈도우에서 쓰기 가장 좋은" MS 스토어 앱 어워드 수상작 - ITWorld Korea](https://www.itworld.co.kr/news/238509)
+* [컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트) | GeekNews](https://news.hada.io/topic?id=7214)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
@@ -2196,6 +2204,7 @@ App
   * [WSL 활용을 위한 설명 링크 모음 | 웹으로 말하기](https://mytory.net/2022/05/03/WSL-notes.html)
   * [윈도우 서버 2022에 WSL 2 설치하고 서버 역할로 돌리는 법](https://velog.io/@composite/%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2022%EC%97%90-WSL-2-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B2%95)
   * [그래서 님 OS가 뭐라구요?](https://velog.io/@queue/%EA%B7%B8%EB%9E%98%EC%84%9C-OS%EA%B0%80-%EB%AD%90%EB%9D%BC%EA%B5%AC%EC%9A%94) 칼리 kali 리눅스 설치
+  * [Get started mounting a Linux disk in WSL 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-mount-disk)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
