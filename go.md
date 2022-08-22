@@ -131,6 +131,7 @@ Go
 * [Top 24 Common Mistakes In GO Programming](https://www.bacancytechnology.com/blog/top-24-common-mistakes-in-go-programming)
 * [Proposal: Dense mark bits and sweep-free allocation](https://github.com/golang/proposal/blob/master/design/12800-sweep-free-alloc.md)
 * [5 Common mistakes in Go - DeepSource](https://deepsource.io/blog/common-mistakes-in-go/)
+* [5 Mistakes in Golang Developers Need to Know](https://morioh.com/p/61b2329ee4f0)
 * [Go Maps Don’t Appear to be O(1)](https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf)
 * [The Go netpoller](https://morsmachine.dk/netpoller)
 * [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
