@@ -632,6 +632,7 @@ AWS
   * [AWS Events - YouTube](https://www.youtube.com/c/AWSEventsChannel/playlists?view=50&sort=dd&shelf_id=3)
   * [Amazon re:MARS 2022를 다녀오고. 6년 간의 뉴욕 생활을 정리하고 작년에 귀국해서 메가존클라우드에서… | by Soonmo Seong | Cloud Villains | Jul, 2022 | Medium](https://medium.com/ctc-mzc/amazon-re-mars-2022%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0-570eef90e774)
 * AWS Summit
+  * [6탄-(요약)AWS Summit Korea-2022](https://brunch.co.kr/@topasvga/2439)
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
   * [AWS Summit Online Korea 2020 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82)
@@ -1607,6 +1608,7 @@ AWS
 * [AWS S3 Endpoint (Gateway / Interface Private Link) 사용 방법](https://zigispace.net/1191)
 * [Optimize storage costs with new Amazon S3 Lifecycle filters and actions | AWS Storage Blog](https://aws.amazon.com/ko/blogs/storage/optimize-storage-costs-with-new-amazon-s3-lifecycle-filters-and-actions/)
 * [AWS S3 Service | What is? | How to create Buckets? | Simple Storage Service - YouTube](https://www.youtube.com/watch?v=SiVMXuO00eM)
+* [AWS Tutorial: AWS S3 simple operations from web console and CLI - YouTube](https://www.youtube.com/watch?v=ItKED-GGa10)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
@@ -1787,6 +1789,7 @@ AWS
 * [AWS로 클라우드 시작하기: ①VPC | 요즘IT](https://yozm.wishket.com/magazine/detail/1318/)
 * [AWS VPC 개념 씹어먹고 상위 1% 연봉 개발자되기 | 이론 002-2001 CHAPTER 1 BY YUNDREAM - YouTube](https://www.youtube.com/watch?v=3XdcU6JIro4)
 * [AWS ACCOUNT 등록 이제 클라우드 전문가 세계로 | 쇼타임 001-200A APPENDIX 1 BY YUNDREAM - YouTube](https://www.youtube.com/watch?v=MXIUL9v23wA)
+* [AWS Cheat Sheet - VPC](https://www.joinc.co.kr/w/aws_cheat_sheet_vpc)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
