@@ -992,6 +992,7 @@ Programming Books
   * [TTC Streetcar Delay Data - City of Toronto Open Data Portal](https://open.toronto.ca/dataset/ttc-streetcar-delay-data/)
 * (NOT YET) [그림으로 배우는 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/visual-dl)
 * (NOT YET) 딥러닝을 위한 수학 [론 크노이젤의 친절한 딥러닝 수학](https://jpub.tistory.com/1299?category=203154)
+  * [번역서 "딥러닝을 위한 수학" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/384)
 * (NOT YET) [실무자를 위한 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/practical-deep-learning)
 
 ## Machine Learning
