@@ -3255,6 +3255,7 @@ Javascript
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 * [react compose - Simpler Stateless Components](http://reactcompose.com/)
 * [React Stateless VS Stateful Components](https://techstack.hashnode.dev/react-stateless-vs-stateful-components)
+* [Lifting the State Up In ReactJS | Interview Question - YouTube](https://www.youtube.com/watch?v=1cj7sfz8Rvs)
 * [리액트네이티브 0.50](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-50-c24d804d0281)
 * [React에 대한 여러 가지 생각](http://youngrok.com/React%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%83%9D%EA%B0%81)
 * [REACT & WEBPACK STARTER](http://dalkstudy.github.io/react-webpack-starter/#/)
