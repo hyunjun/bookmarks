@@ -499,6 +499,7 @@ Programming Language
 * Prolog
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
   * [How to learn Prolog by watching Game of Thrones](https://medium.freecodecamp.org/how-to-learn-prolog-by-watching-game-of-thrones-4852ea960017)
+  * [trealla: A compact, efficient Prolog interpreter written in plain-old C](https://github.com/trealla-prolog/trealla)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Pyret](https://www.pyret.org/index.html)
 * [Octave](http://www.gnu.org/software/octave/)
