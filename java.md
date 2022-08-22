@@ -1910,6 +1910,7 @@ Java
 * [SpringBoot 예외처리하기 - Exception Handling | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-exception-handling-basic/)
 * [A Quick Guide to Elasticsearch with Spring Data and Spring Boot | Okta Developer](https://developer.okta.com/blog/2022/02/16/spring-data-elasticsearch)
 * [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
+* [Full Stack Application with Spring Boot, Next.js, Tailwind CSS & Next-Auth.js](https://morioh.com/p/827c8f265270)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
