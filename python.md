@@ -1414,6 +1414,7 @@ Python
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
 * tarfile
   * [Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar? - Super User](https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac)
+  * [Python tarfile tar.gz 패키징/언패키징](https://blog.warpmemory.com/63)
 * `timeit`
   * [practice timeit](https://gist.github.com/hyunjun/108701fa3436710c39fd)
   * [practice timeit - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
