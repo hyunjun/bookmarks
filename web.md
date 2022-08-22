@@ -146,7 +146,6 @@ Web
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [Node.js, PHP/JSP/ASP 및 Apache/Nginx에 대한 비교](https://okky.kr/article/403922)
-* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
 * [개알못인 당신이 웹개발을 시작한다면 (2)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-2-b1eefc9c12ca)
 * [개알못인 당신이 웹개발을 시작한다면 (3)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-3-ee14496bbca4)
