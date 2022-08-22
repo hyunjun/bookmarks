@@ -726,6 +726,7 @@ NLP
   * [Rasa youtube channel](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ)
   * [GPT-3 vs. Rasa chatbots. Comparing the performance of GPT-3 and… | by Mark Ryan | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/gpt-3-vs-rasa-chatbots-8b3041daf91d)
   * [Building your first chatbot in Python - Rachael Tatman | PyData Jeddah - YouTube](https://www.youtube.com/watch?v=wgP3JffApic)
+  * [Chatbots Using Python and Rasa - GeeksforGeeks](https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/)
 * [TextFeatureSelection](https://pypi.org/project/TextFeatureSelection/)
 
 # Classification
