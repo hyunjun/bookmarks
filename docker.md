@@ -623,6 +623,7 @@ Docker
 * [How Docker Container Works?](https://www.decipherzone.com/blog-detail/how-docker-works)
 * [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 * [How to increase UDP buffer size on Docker Desktop | by h0n9 | Aug, 2022 | Medium](https://h0n9.medium.com/how-to-increase-udp-buffer-size-on-docker-desktop-b28d02d656e1)
+* [Top 6 Best practices for Container Orchestration | by Hardik Shah | Jul, 2022 | Medium](https://hardiks.medium.com/top-6-best-practices-for-container-orchestration-b4b0d3398ebc)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1690,6 +1691,8 @@ Docker
 * kubernetes scheduler
   * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: Kubernetes Scheduler 살펴보기](https://ahnseungkyu.com/294)
   * [(1) 스케줄러 동작 원리와 Scheduling Framework 이해 - DeepDivers](https://deepdivers.gitbook.io/deepdivers/kubernetes-scheduler/1)
+* [Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning](https://github.com/armosec/kubescape)
+  * [쿠버네티스용 오픈소스 보안 플랫폼 ‘쿠버스케이프'에 취약성 검사 기능 추가 - ITWorld Korea](https://www.itworld.co.kr/news/250618)
 * [kube-schedule-scaler: Kubernetes Controller which provides schedule scaling to Kubernetes deployments and other custom resources in the cluster](https://github.com/amelbakry/kube-schedule-scaler)
   * [kube schedule scaler 도입기](https://www.linkedin.com/posts/gunwoo-park-iwan_%EC%B9%B4%EC%82%AC-%EC%9E%85%EC%82%AC%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EC%B2%AB-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EB%82%A8%EA%B2%A8%EB%86%93%EC%9C%BC%EB%A0%A4%EA%B3%A0%ED%95%9C%EB%8B%A4-activity-6921404760088600576-oaMg/)
 * kubespray
