@@ -206,6 +206,8 @@ Vim
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
 
 # Library
+* [Penumbra Color Theme](https://github.com/nealmckee/penumbra)
+  * [Penumbra - 자연광을 기반으로 만든 색상구성표 | GeekNews](https://news.hada.io/topic?id=7172)
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
 * [quick.nvim: A very fast Lua based Neovim configuration that uses coc.nvim for intellisense](https://github.com/albingroen/quick.nvim)
   * [quick.nvim | A fast, modern and reliable Neovim configuration - YouTube](https://www.youtube.com/watch?v=OhbgZbORFd4)
