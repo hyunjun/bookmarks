@@ -438,6 +438,7 @@ Go
   * [Martin Baillie | Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
   * [SMTP protocol basics from scratch in Go: receiving email from Gmail | notes.eatonphil.com](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
   * [Transforming TCP Sockets to HTTP With Go](https://morioh.com/p/2c848ef7ed5a)
+  * [I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
