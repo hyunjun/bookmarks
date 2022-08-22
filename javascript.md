@@ -146,6 +146,7 @@ Javascript
 * [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥 - YouTube](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
+  * [Learning Patterns - 웹 앱 설계를 위한 패턴들 | GeekNews](https://news.hada.io/topic?id=7182)
 * [Building a YouTube Clone With React — Part 1 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-1-40fb09ae2837)
 * [Building a YouTube Clone Using React — Part 2 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-2-a23a9dded270)
 * [최종 완성본! 자바스크립트로 생산성 앱 클론하기](https://www.youtube.com/watch?v=yLNuqWCUA8A)
