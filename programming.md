@@ -1917,7 +1917,9 @@ Programming
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
-* Eureka [How To Register & Discover Microservices Using Netflix Eureka? | Making Java Easy To Learn](https://javatechonline.com/how-to-register-discover-microservices-using-netflix-eureka)
+* Eureka
+  * [How To Register & Discover Microservices Using Netflix Eureka? | Making Java Easy To Learn](https://javatechonline.com/how-to-register-discover-microservices-using-netflix-eureka)
+  * [마이크로서비스 아키텍처(MSA)의 서비스 검색 - NGINX STORE](https://nginxstore.com/blog/microservices/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98msa%ec%9d%98-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b2%80%ec%83%89/)
 * [kong: 🦍 The Cloud-Native API Gateway](https://github.com/Kong/kong)
   * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
   * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
