@@ -2005,6 +2005,8 @@ Programming
 * [Kubernetes vs Serverless – How do you choose? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/kubernetes-vs-serverless-how-do-you-choose/)
 * [Is Serverless Just a Stopover for Event-Driven Architecture? – The New Stack](https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/)
 * [The State of Serverless Computing](https://www.infoq.com/presentations/state-serverless-computing/)
+* [The State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
+  * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
