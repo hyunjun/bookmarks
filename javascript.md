@@ -40,6 +40,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
+* [Creating Website Using Javascript | How to Make Website Using Javascript? | Simplilearn - YouTube](https://www.youtube.com/watch?v=cAa-s32oWiI)
 * [PLAYCODE - Javascript Playground](https://playcode.io/)
 * [JS Is Weird](https://jsisweird.com/) JavaScript의 이상한 문법 25개 문제
 * [1주차-Trello 아키텍처 overview, javascript 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=19530125)
@@ -3812,6 +3813,7 @@ Javascript
 * [Create Instagram Filters with React and CSS | by L Javier Tovar | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-create-instagram-filters-with-react-and-css-dce9f92753d0)
 * [Handling Events In ReactJS | JavaScript Events vs ReactJS Events - YouTube](https://www.youtube.com/watch?v=dOGQFahqXJ8)
 * [React YouTube UI Clone working example with source code - Therichpost](https://therichpost.com/react-youtube-ui-clone-working-example-with-source-code/)
+* [ReactJs 2022 - CRUD TododList App for beginners - YouTube](https://www.youtube.com/watch?v=QTvKbGVnEg4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4268,6 +4270,7 @@ Javascript
   * [Getting started with Next.js](https://morioh.com/p/58b8f416f94d)
   * [Build a Sports News Blog Website using NEXT JS and Strapi CMS in 7 hour](https://morioh.com/p/2aad282815bf)
   * [Build Google 2.0 with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Pagination)](https://morioh.com/p/e38f9bf2e665)
+  * [How to add Self-Hosted Fonts to a Next.js App](https://morioh.com/p/9035f7269277)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
