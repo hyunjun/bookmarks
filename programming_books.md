@@ -313,6 +313,7 @@ Programming Books
 * (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data)
   * 탐라
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
+* (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
 
 # Algorithm
 
