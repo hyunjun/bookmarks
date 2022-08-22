@@ -1359,6 +1359,9 @@ Programming
 * [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요 - YouTube](https://www.youtube.com/watch?v=v9rcKpUZw4o)
 * [프론트엔드 아키텍처: Business Logic의 분리. 왜 프론트엔드 아키텍처에 관심을 가져야 할까? | by 이문기 | Jun, 2022 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 * [**Netflix API 아키텍처 진화**](https://brunch.co.kr/@graypool/487)
+* [Gutenberg – a Publish-Subscribe Service for Datasets Created by Netflix](https://www.infoq.com/news/2019/10/gutenberg-netflix/)
+  * [How Netflix microservices tackle dataset pub-sub | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
+  * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog](https://tech.deliveryhero.com/delivery-hero-architecture-reviews/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
@@ -2187,6 +2190,7 @@ Programming
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
 * [한 번쯤은 물어야 할 '클라우드 보안' 질문 9가지 - CIO Korea](https://www.ciokorea.com/news/236919)
+* ["AWS vs. GCP vs. 애저" 클라우드 보안 기능 승자는? - ITWorld Korea](https://www.itworld.co.kr/news/249778)
 * [칼럼 | 클라우드 충격파, 아무도 예상 못했던 5가지 문제 - CIO Korea](https://www.ciokorea.com/news/224199)
 * [칼럼 | ‘편리함이 라이선스보다 유의미하다’ 클라우드와 오픈소스의 역학 살펴보기 - CIO Korea](https://www.ciokorea.com/news/229809)
 * [AWS·애저·GCP에 도전장··· ‘가성비 갑’ 클라우드 9곳 - CIO Korea](https://www.ciokorea.com/news/233269)
@@ -2981,6 +2985,7 @@ Programming
 * [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser · Felix Krause](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
   * Instagram과 Facebook에서 인앱브라우저로 웹사이트를 열었을 때 pcm.js같은 파일을 자동으로 주입하기 때문에
     * 사용자와 웹사이트 제공자와 상관없이 Meta가 사용자의 모든 것을 모니터링 가능
+  * [인스타그램/페북은 인앱브라우저에서 하는 모든 일을 추적가능합니다 | GeekNews](https://news.hada.io/topic?id=7170)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
@@ -3290,6 +3295,7 @@ Programming
 * [Build Your First Serverless Application - Part 2: The Write Layer - YouTube](https://www.youtube.com/watch?v=B64kl2SnEDE)
 * [Build Your First Serverless Application - Part 3: Infrastructure As Code - YouTube](https://www.youtube.com/watch?v=0Fj6L-6wL3k)
 * [The Best Infrastructure as Code Tools for 2022 - DZone Cloud](https://dzone.com/articles/the-best-infrastructure-as-code-tools-for-2022-1)
+* [Infrastructure-as-Code Goes Low Code/No Code – The New Stack](https://thenewstack.io/infrastructure-as-code-goes-low-code-no-code/)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
