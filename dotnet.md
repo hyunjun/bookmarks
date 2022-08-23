@@ -166,6 +166,7 @@
 * dotnet
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
 * [.NET MAUI란? - .NET MAUI | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/maui/what-is-maui)
+  * [Learn .NET MAUI | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/en-us/learn/maui)
   * [.net maui 로 앱을 만들어볼까 했다가 | K리그 프로그래머](https://jeho.page/essay/2022/08/19/maui.html)
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
