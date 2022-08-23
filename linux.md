@@ -1224,6 +1224,7 @@ Linux
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
+* [oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [pam-duress: A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password](https://github.com/nuvious/pam-duress)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
