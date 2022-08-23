@@ -1108,6 +1108,7 @@ Business
   * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
   * 3D - Define, Design, Deliver
 * [신뢰 자본](https://jojoldu.tistory.com/675)
+* ['심심한 사과'에 대한 정지우 작가 이야기](https://www.facebook.com/writerjiwoo/posts/pfbid03261noPcgLLkQuUKiCBwmYDE41vSuWDVFBEx5pmQCqGAn2SqNjLhFZwxjUxaugFTfl) business에 대한 이야기는 아니지만 '신뢰'에 대한 이야기라 여기 기록
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
