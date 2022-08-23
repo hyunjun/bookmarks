@@ -4376,6 +4376,9 @@ Programming
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 * [RPC vs Messaging: When to use which? - YouTube](https://www.youtube.com/watch?v=LMKVzguhFw4)
 * [분산된 환경에서의 호출을 위한 RPC, JSON-RPC, gRPC](https://blog.naver.com/pjt3591oo/222634341234)
+* [connect-web: Simple, reliable, interoperable. A better gRPC-Web](https://github.com/bufbuild/connect-web)
+  * [Buf | Connect-Web: It's time for Protobuf and gRPC to be your first choice in the browser](https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser)
+  * [Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리 | GeekNews](https://news.hada.io/topic?id=7163)
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
