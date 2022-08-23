@@ -1466,6 +1466,8 @@ Docker
 * [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 * [Kubeadm을 이용한 ARMv8 클러스터 구축. 최근 다양한 기업들이 ARM 진영에 관심을 가지면서 고성능 프로세서들이… | by inerplat | Aug, 2021 | Medium](https://medium.com/@inerplat/kubeadm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-armv8-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95-12a642af3213)
 * [DevOps Tutorials | Set Up k8s with KubeAdm Initializing a worker Node and Joining to K8S Cluster - YouTube](https://www.youtube.com/watch?v=R8llq3z2D3Y)
+* [VITO CI/CD 변천사 #1 | 손스케일링. 안녕하세요. 리턴제로에서 서버팀을 맡고있는 Castor입니다. 저희가… | by Kim Seong Su | returnzero | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-1-%EC%86%90%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-a7a8eb9a4407)
+* [VITO CI/CD 변천사 #2 | Container Orchestration | by Choi Geonu | returnzero | Aug, 2022 | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-2-container-orchestration-fcd466d6479c)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
