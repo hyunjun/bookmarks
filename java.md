@@ -150,6 +150,9 @@ Java
 * [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
 * [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8357/)
 * [자바가 여전히 위대한 개발 언어인 7가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/245956)
+* [Quiz](https://blogs.oracle.com/javamagazine/category/jm-quiz)
+* [Ten Java coding antipatterns to avoid: Worst practices #5 through #1](https://blogs.oracle.com/javamagazine/post/java-worst-practices-antipatterns-part-two)
+* ["자바 앱 서버의 표준" 톰캣의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/249508)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
