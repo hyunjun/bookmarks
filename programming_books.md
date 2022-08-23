@@ -250,6 +250,7 @@ Programming Books
 * (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
 * (NOT YET) [아파치 플링크로 하는 스트림 데이터 처리 | 에이콘출판사](http://acornpub.co.kr/book/stream-processing-flink)
   * 탐라 문005.76-휴58ㅇ
+* (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
 
 # Agile Scrum
 
