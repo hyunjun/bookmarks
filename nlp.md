@@ -1745,6 +1745,7 @@ NLP
   * [Symspell을 이용한 한글 맞춤법 교정. 맞춤법 교정 혹은 오타 교정이라고 부르는 방법은 입력 중 발생하는… | by 김희규 | Oct, 2021 | Medium](https://heegyukim.medium.com/symspell%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%9C%EA%B8%80-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B5%90%EC%A0%95-3def9ca00805)
   * [Symspell을 이용한 한글 맞춤법 교정 2 — 복합어와 띄어쓰기 교정 | by 김희규 | Nov, 2021 | Medium](https://heegyukim.medium.com/symspell%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%9C%EA%B8%80-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B5%90%EC%A0%95-2-%EB%B3%B5%ED%95%A9%EC%96%B4%EC%99%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%EA%B5%90%EC%A0%95-7605ec2fcebc)
   * [symspellpy-ko: symspellpy를 한글 특성에 맞춰서 수정한 라이브러리. 음소분해를 이용해 더 정확한 오타교정을 해준다](https://github.com/HeegyuKim/symspellpy-ko)
+* [vscode-hanspell: 비주얼 스튜디오 코드 한스펠(vscode-hanspell)은, (주)다음과 부산대학교 인공지능연구실/(주)나라인포테크의 웹 서비스를 이용해서 한글 맞춤법 검사 기능을 제공하는 비주얼 스튜디오 코드용 익스텐션입니다](https://github.com/9beach/vscode-hanspell)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
