@@ -590,12 +590,14 @@ Programming
 * [**Pizza as a Service 2.0 – Paul Kerrison**](https://www.paulkerrison.co.uk/random/pizza-as-a-service-2-0)
 * [특수문자 모음 - 기계인간 John Grib](https://johngrib.github.io/wiki/special-chars/)
 * [칼럼 | 프로그래밍의 ‘짜릿함’과 ‘위대함’에 대하여 - CIO Korea](https://www.ciokorea.com/news/239959)
+* [The Essence of Programming - gingerBill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
+* [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -926,6 +928,7 @@ Programming
 * [Tesla API - Tesla API](https://www.teslaapi.io/)
 * [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
+* [Webhooks.fyi](https://webhooks.fyi/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
@@ -4305,6 +4308,7 @@ Programming
 * [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
 * [일본 1위 배달 앱, 바닥부터 다시 짠다 - Recode 프로젝트 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-demaecan-recode-project/)
 * [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
+* [What is Refactoring? - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/what-is-refactoring)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
