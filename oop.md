@@ -265,6 +265,7 @@
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 * [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html)
 * [Abstract Factory Design Pattern in Java](http://www.codenuclear.com/abstract-factory-design-pattern-java/)
+* [Design Pattern 팩토리 패턴 총정리](https://devkingdom.tistory.com/350)
 * [Mediator pattern](http://designpattern.co.il/Mediator.html)
 * [커맨드 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/26/Head-First-%EC%BB%A4%EB%A7%A8%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [Extending Object Behavior with the Decorator Pattern](https://hackernoon.com/extending-object-behavior-with-the-decorator-pattern-6b6b329c6c10)
