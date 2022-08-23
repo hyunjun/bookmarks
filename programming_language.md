@@ -287,6 +287,7 @@ Programming Language
   * [Millions of Users, Purely Functional Code - YouTube](https://www.youtube.com/watch?v=bpBeRnyqaIQ)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
+* [erg: A statically typed language that can deeply improve the Python ecosystem](https://github.com/erg-lang/erg)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
 * [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
