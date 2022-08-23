@@ -695,6 +695,7 @@ Web
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
+* [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
 * [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML](https://tailwindcss.com/)
@@ -737,6 +738,8 @@ Web
       * GraphQL의 유지보수가 다른 API 형식보다 어렵다는 얘기는 들어보지 못했고 유지보수성은 특정 기술보다는 어떻게 소프트웨어를 작성했느냐에 더 영향
     * 주장 3: 쿼리 기능을 잠근다는 것은 일반적인 API라는 것을 의미하지만 잠그지 않는 다는 것은 무한 성능 작업을 의미
       * 잘 설계되고 구현된 GraphQL API는 임의의 쿼리를 다른 공개 API처럼 적절한 시간에 수행할 수 있으며 쿼리를 잠근다고 하더라도 클라이언트에 유연성을 제공하고 새로운 쿼리마다 서버팀이 작업할 필요를 제거
+* [GraphQL kinda sucks | Hacker News](https://news.ycombinator.com/item?id=32366759)
+  * [GraphQL은 좀 짜증나요 | GeekNews](https://news.hada.io/topic?id=7145)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
