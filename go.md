@@ -328,6 +328,7 @@ Go
 * [Building Development Environment for Go Lang](https://morioh.com/p/c6acd58df237)
 * [Event Listener and Dispatcher Example with Golang](https://morioh.com/p/d72e972394c8)
 * [Building Modern Desktop Apps with Go and HTML5](https://morioh.com/p/213be5859393)
+* [How to Generate QR Code In Golang](https://morioh.com/p/a2d4f7ff17d9)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
