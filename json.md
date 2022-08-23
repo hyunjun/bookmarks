@@ -97,6 +97,11 @@ Json
 * [4장. JWT 이해 및 적용](https://backend-intro.vlpt.us/4/)
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
 * [JSON Web Token 소개 및 구조](https://velopert.com/2389)
+* [`JWT 는 “인증” 정보가 아니라 “인증된 정보” 를 교환하는 기술`](https://www.linkedin.com/posts/golbin_jwt-%EC%9D%B4%EC%8A%88%EC%97%90-%EC%88%9F%EA%B0%80%EB%9D%BD-%EC%96%BB%EA%B8%B0-jwt-%EB%8A%94-%EC%9D%B8%EC%A6%9D-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%9D%B8%EC%A6%9D%EB%90%9C-%EC%A0%95%EB%B3%B4-activity-6967372724734234624-CEDm/)
+  * 사용처를 찾다보니 로그인에 사용하게 되었는데, 긴 세션의 처리에는 보안문제가 존재
+  * 따라서 JWT 는 독립 서비스간 인증 정보를 전달하는데 사용하는데 적합하며 그래서 OpenID 로그인에 사용
+  * 즉, 원타임성으로 이 서비스에 로그인 한 사람이 맞다는 것을 다른 서비스측에 증명하기 위한 정보를 주고 받는데 적합
+  * 그러므로 긴 세션을 처리하기 위해서는 인증정보를 받은 후 이를 통한 2차 처리가 필요(서버 사이드 세션 굽기나 2차 Code 인증 등)
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
 * [Deep Dive into Keystone Tokens and Lessons Learned](https://www.slideshare.net/priti_desai/deep-dive-into-keystone-tokens-and-lessons-learned)
 * [Understanding OpenStack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
