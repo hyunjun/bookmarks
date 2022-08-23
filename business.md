@@ -571,6 +571,7 @@ Business
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
 * [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
   * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
+* [집단사고(group think) vs. 집단지성(collective intelligence)](https://www.linkedin.com/feed/update/urn:li:activity:6967499027290419200/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
