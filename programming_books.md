@@ -298,6 +298,9 @@ Programming Books
   * [Making Work Visible 업무 시각화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/making_work_visible.md)
   * [Making Work Visible 업무 시각화. Dominica DeGrandis — More No Less WIP | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/making-work-visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94-fa65d54325e0)
   * [Making Work Visible 업무 시각화](https://jh4hj.tistory.com/entry/Making-Work-Visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94)
+* [애자일 전략](https://ilsang2.tistory.com/950)
+  * ★★★★☆ 2022.08.23
+  * 우당 문325.19-릭49ㅇ
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
