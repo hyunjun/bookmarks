@@ -65,6 +65,7 @@ AWS
 * [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
 * [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
+* [AWS 서비스에 Let's Encrypt 인증서 적용하기](https://docsify.sokuricat.com/b1tk3y/1843/#/129)
 * [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
 * [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
 * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
