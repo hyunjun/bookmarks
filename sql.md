@@ -432,6 +432,7 @@ SQL
     * 다른 table에 존재하는 record 삭제하는 DELETE 구문
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
   * [MySQL: 테이블 이름 변경에 view 활용하기](https://ohgyun.com/789)
+  * [MySQL 중복 데이터 제거 트러블 슈팅 - 현구막 기술 블로그](https://hyeon9mak.github.io/mysql-delete-duplicate-data-troubleshooting/)
   * [`date_trunc` 함수를 구현하자](https://walkingfox.tistory.com/175)
   * ALTER
     * [MySQL 테이블 수정](http://egloos.zum.com/kwon37xi/v/1635464)
