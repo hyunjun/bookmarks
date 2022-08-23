@@ -614,6 +614,7 @@ Go
 * [doggo: Command-line DNS Client for Humans. Written in Golang](https://github.com/mr-karan/doggo)
 * dqlite
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
+* [echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
