@@ -279,6 +279,7 @@ Functional Programming
 * [JavaScript Immutability](https://opentutorials.org/module/4075)
 * [An introduction to Functional JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-javascript-e8dab63bb51d)
 * [선언형으로 대체 가능한 문법들 정리](https://chodragon9.github.io//blog/declarative-function/)
+* [명령형 코드와 선언형 코드, 그리고 추상화 다시보기 | blog.hoseung.me](https://blog.hoseung.me/2022-08-23-imperative-declarative-abstract/)
 * [변하지 않는 상태를 유지하는 방법, 불변성(Immutable)](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
 * [Learn JavaScript functional programming from Avengers](https://codeburst.io/learn-javascript-functional-programming-from-avengers-36fc40fca7ab)
 * [함수형 프로그래밍 정리](https://dongqui.github.io//posts/functional)
