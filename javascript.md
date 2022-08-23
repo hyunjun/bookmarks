@@ -4274,6 +4274,7 @@ Javascript
   * [Build Google 2.0 with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Pagination)](https://morioh.com/p/e38f9bf2e665)
   * [How to add Self-Hosted Fonts to a Next.js App](https://morioh.com/p/9035f7269277)
   * [How to Build File Upload Forms on Next.js](https://morioh.com/p/39a41dd2c259)
+  * [Build a Fullstack Next.js Application with Storybook & TailwindCSS](https://morioh.com/p/f300ca767cdc)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
