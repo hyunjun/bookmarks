@@ -1321,6 +1321,7 @@ Business
   * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1DTzYBO2xDwG2P2UxfcoDdW1Lcb0-HcrC/view?usp=sharing)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
 * [디지털 트랜스포메이션 잘 안 되나요?, 개발 조직 키우는 리더십부터 체크해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10409)
+* [한기용 - 디지털 트랜스포메이션에서 중요한 포인트](https://www.linkedin.com/feed/update/urn:li:activity:6967530578409648128/)
 * [Hello Guru 많은 리더들이 하는 착각, 통제하고 관리하면 성과난다? : 네이버 뉴스](https://news.naver.com/main/read.naver?oid=009&aid=0003163679)
 * ["좋은 팀장과 좋은 선배는 달라".. 팀원을 성장시키는 팀장 비법](https://blog.naver.com/businessinsight/222673092879)
 * [리더, 조직문화, 근무환경에 대하여 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/408)
