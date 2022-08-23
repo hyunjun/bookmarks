@@ -416,6 +416,7 @@ Clojure
 * [그린랩스 클로저 사용 실태 조사 2022 | 그린랩스](https://green-labs.github.io/greenlabs-clojurians-2022)
 * [Cuddly, Octo-Palm Tree: Notes on Optimizing Clojure Code: Measurements](https://cuddly-octo-palm-tree.com/posts/2022-01-23-opt-clj-2/)
 * [Clojure isnt for me](https://swlkr.com/posts/clojure-isnt-for-me/)
+* [How to create a library that works with Clojure and ClojureScript - YouTube](https://www.youtube.com/watch?v=KVWxr9dvGZ8)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
