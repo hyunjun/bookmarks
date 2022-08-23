@@ -4276,6 +4276,7 @@ Javascript
   * [How to add Self-Hosted Fonts to a Next.js App](https://morioh.com/p/9035f7269277)
   * [How to Build File Upload Forms on Next.js](https://morioh.com/p/39a41dd2c259)
   * [Build a Fullstack Next.js Application with Storybook & TailwindCSS](https://morioh.com/p/f300ca767cdc)
+  * [IE 격리공간을 만들어보자. 2022년 6월 15일, 웹 생태계에 역사적인 순간이 탄생했습니다… | by 권세규 | 네이버 플레이스 개발 블로그 | Aug, 2022 | Medium](https://medium.com/naver-place-dev/ie-%EA%B2%A9%EB%A6%AC%EA%B3%B5%EA%B0%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-b23e8ef21e0)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
