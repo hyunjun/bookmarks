@@ -618,6 +618,9 @@ Book
 * [만화로 배우는 의학의 역사(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4323864133)
   * ★★★☆☆ 2022.08.20
   * 우당 문510.9-파49ㅇ
+* [썬킴의 거침없는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269805929)
+  * ★★★☆☆ 2022.08.23
+  * 한라 909-썬878ㅆ 탐라 문909-썬829ㅆ 우당 문909-썬829ㅆ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
