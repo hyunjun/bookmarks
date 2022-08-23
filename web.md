@@ -45,7 +45,6 @@ Web
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
-* [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
 * [Building Real Time Web Apps](https://www.dropbox.com/s/u4vcao2equgpck9/BuildingRealTimeWebAppsBook_1.1.pdf?dl=0)
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [6 Rules of thumb to build blazing fast web server applications](http://loige.co/6-rules-of-thumb-to-build-blazing-fast-web-applications/)
@@ -351,6 +350,8 @@ Web
     * GitHub에서는 JavaScript를 비활성화해도 기본적인 활동을 대부분 가능
   * 그래서 lint로 브라우저 호환성을 검사하고 최신 기능에 대한 폴리필을 많이 사용했지만, 종종 성능 저하도 있었기에 최소한의 폴리필을 유지하도록 관리
 * [History API는 가라! 이제는 Navigation API의 시대가 온다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/06/20/Navigation-API.html)
+* [Etsy Engineering | Priority Hints - What Your Browser Doesn’t Know (Yet)](https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet)
+* [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -768,6 +769,8 @@ Web
   * [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
+* [sqlite-html: A SQLite extension for querying, manipulating, and creating HTML elements](https://github.com/asg017/sqlite-html)
+  * [SQLite-html : HTML을 쿼리,조작,생성하는 확장 | GeekNews](https://news.hada.io/topic?id=7174)
 
 # Java
 * Hilla [The modern web framework for Java · Hilla](https://hilla.dev/)
