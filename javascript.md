@@ -40,6 +40,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
+* [Mohammed Junaid 🎯 on Twitter: "Master JavaScript. Top 22 Github Repos for JavaScript Developers. Thread 🧵" / Twitter](https://twitter.com/mdjunaidap/status/1558696637593272321)
 * [Creating Website Using Javascript | How to Make Website Using Javascript? | Simplilearn - YouTube](https://www.youtube.com/watch?v=cAa-s32oWiI)
 * [PLAYCODE - Javascript Playground](https://playcode.io/)
 * [JS Is Weird](https://jsisweird.com/) JavaScript의 이상한 문법 25개 문제
@@ -825,6 +826,7 @@ Javascript
 * [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
 * [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
+* [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1118,6 +1120,7 @@ Javascript
 * [Node.js await vs return vs return await: 비동기 이해하기](https://ooeunz.tistory.com/47)
 * [1. 낡은 코드를 뜯어고쳐봅시다](https://velog.io/@phw3071/%EB%82%A1%EC%9D%80-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%98%EA%B8%B0-1)
 * [2. 화살표 비동기 익명 꼬리 재귀 즉시 실행 함수 표현식을 만들어보자](https://velog.io/@phw3071/2-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9D%B5%EB%AA%85-%EA%BC%AC%EB%A6%AC-%EC%9E%AC%EA%B7%80-%EC%A6%89%EC%8B%9C-%EC%8B%A4%ED%96%89-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
+* [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -1510,6 +1513,7 @@ Javascript
 * [JS 꼴랑이거(1) - Submit 이벤트 완전히 막기! - 완두블로그](https://wani.kr/posts/2014/12/25/js-something-1-block-submit-event-completely/)
 * [Essential Cheat Sheet: Convert jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633)
 * [jQuery에 대한 슬픈 고찰](https://velog.io/@juunini/jQuery%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8A%AC%ED%94%88-%EA%B3%A0%EC%B0%B0)
+* [The impact of removing jQuery on our web performance - Inside GOV.UK](https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/)
 * [jqTree - a jQuery widget for displaying a tree structure in html It supports json data, loading via ajax and drag-and-drop](http://mbraak.github.io/jqTree/)
 
 # Library
@@ -2220,6 +2224,7 @@ Javascript
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
+  * [Taotajima.jp WebGL deconstruction | by Yuri akella Artiukh | Medium](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
   * [cobe: 5kB WebGL globe lib](https://github.com/shuding/cobe)
     * WebGL로 구현한 [지구](https://cobe.vercel.app/)로 자세한 구현과정은 [트위터 스레드](https://twitter.com/shuding_/status/1475916082875666441)에
     * 기존에 Three.js로 지구를 구현했지만, 최적화를 잘하지는 못했는데 GitHub이 구현한 글을 보고 아이디어를 얻어서 점으로 구성된 세계 지도를 구성하고 극점 부분의 표현을 최적화
@@ -2895,6 +2900,8 @@ Javascript
     * src 디렉터리를 `_src` 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
     * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
   * [Node.js Vs. Deno - Dor Moshe's Blog](https://dormoshe.io/trending-news/nodejs-vs-deno-3ngf-51904)
+  * [Deno’s Fresh Uses Server-Side Rendering for Faster Apps – The New Stack](https://thenewstack.io/denos-fresh-uses-server-side-rendering-for-faster-apps/)
+  * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
@@ -3938,6 +3945,7 @@ Javascript
 * [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
 * [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+* [Why Airbnb Dumped React Native? - Programmer Couple](https://www.theimmigrantprogrammers.com/p/why-airbnb-dumped-react-native)
 * [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 * [React로 보는 COSMEE](https://slides.com/bobinlee-1/deck)
   * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
