@@ -1154,6 +1154,7 @@ Programming Books
   * [tensorflow.org/tutorials/keras](https://www.tensorflow.org/tutorials/keras)
   * [3장. 신경망 시작하기 (1)](https://subinium.github.io/Keras-3-1/)
   * [케라스 창시자에게 배우는 딥러닝](https://jh4hj.tistory.com/entry/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * (NOT YET) [“케라스 창시자에게 배우는 딥러닝 2판”이 출간되었습니다! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2022/08/17/%ec%bc%80%eb%9d%bc%ec%8a%a4-%ec%b0%bd%ec%8b%9c%ec%9e%90%ec%97%90%ea%b2%8c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%94%a5%eb%9f%ac%eb%8b%9d-2%ed%8c%90%ec%9d%b4-%ec%b6%9c%ea%b0%84%eb%90%98%ec%97%88%ec%8a%b5/)
 * [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
   * 2017.12
   * 한라 004.73 스15ㅈ
