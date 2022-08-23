@@ -15,6 +15,7 @@
 * [개별 수영장이 있는 가족풀빌라펜션 5곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254343)
   * 여수 웨스트힐스 프라이빗 풀빌라, 경주 엘라포니시풀빌라, 제주 아르츠 스파 앤 풀빌라, 가평 텔렘키즈풀빌라 펜션, 포항 항사리91풀빌라
 * [여름 휴가 떠나기 좋은 제주 수영장 호텔 5곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254519)
+* [제주<->인천, 비욘드트러스트호 사용기 (1/2부) : 클리앙](https://www.clien.net/service/board/use/17505823)
 
 # Coffee
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
