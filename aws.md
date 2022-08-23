@@ -433,6 +433,7 @@ AWS
 * [AWS Networking & Content Delivery Services - YouTube](https://www.youtube.com/watch?v=lS6qoA2_VeQ)
 * [3 Things To Know Before Getting AWS DMS - YouTube](https://www.youtube.com/watch?v=OoI-3-3Vacs)
 * [**AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들 – 이것만은 피하세요! | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them/)
+* [AWS 사용자의 10가지 실수 – 이것만은 피하세요! | AWS Builders 온라인 시리즈 7월, 2022 - YouTube](https://www.youtube.com/watch?v=XBhC1QCmrbA)
 * [MORE AGILE: **당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들 (2022년 업데이트)**](https://www.moreagile.net/2022/04/aws-day1-todo_01694645043.html)
 * [**클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그**](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
@@ -1019,6 +1020,7 @@ AWS
   * 신뢰 정책도 일반적인 IAM 정책과 비슷하지만, IAM role이 리소스 역할을 하므로 `Resource` 속성은 없고
     * `Action`에는 `sts:AssumeRole`, `sts:AssumeRoleWithSAML`, `sts:AssumeRoleWithWebIdentity` 사용 가능
   * `Principal`과 `Condition`을 이용해서 범위를 제어하는 데 시간 기반으로 하거나 IP 주소로 하는 방법 등 설명
+* [ABAC 구성을 위한 AWS IAM 정책 설정(EC2권한)하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-iam-policy-for-abac/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
