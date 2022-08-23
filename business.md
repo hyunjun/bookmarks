@@ -1605,6 +1605,7 @@ Business
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
 * [대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
+* [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
@@ -1618,7 +1619,8 @@ Business
   * [성공적인 MVP를 빠르게 출시하기 위한 가이드](https://brunch.co.kr/@yongjinjinipln/98)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/) MLP
 * [스타트업 실패 가능성 확 줄이는 MVT 완전정복](https://www.nextunicorn.kr/content/f68bdd38e49122da)
-* [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
+* [Vertical Slice vs MVP: What’s the Difference? – Tiny Hydra](https://tinyhydra.com/vertical-slice-vs-mvp/)
+* [버티컬 슬라이스(Vertical Slice)란 무엇인가? - BatStudio](https://www.ibatstudio.com/%EB%B2%84%ED%8B%B0%EC%BB%AC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
 * [대기업 신사업 TFT가 늘 실패하는 이유](https://brunch.co.kr/@fbrudtjr1/43)
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/)
