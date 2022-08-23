@@ -45,6 +45,7 @@ Psychology
 * [CEO 심리학 행복한 사람과 목적없는 대화…스트레스 피하는 최고의 방법 - 매일경제](https://www.mk.co.kr/news/business/view/2019/11/941310/)
 * [거절하기](https://www.thestartupbible.com/2021/12/saying-no-is-the-best-stress-management-technique.html) 번아웃을 피하는 방법
 * [무례하지 않게 거절하는 방법 | 지큐 코리아 (GQ Korea)](https://www.gqkorea.co.kr/2022/02/11/%EB%AC%B4%EB%A1%80%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EA%B1%B0%EC%A0%88%ED%95%98%EB%8A%94-%EB%B2%95/)
+* [톰 크루즈 명언 l ‘이렇게 말하면’ 무례한 상대를 쉽게 제압할 수 있습니다.. - YouTube](https://www.youtube.com/watch?v=DJQwU3TK7PI)
 * [게으름인지 번아웃인지 5분만에 구분하는 방법 (한창수 고려대학교 정신건강의학교실 교수) - YouTube](https://www.youtube.com/watch?v=9kVqGE5W3bI)
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [정신과 의사가 말하는 유독 예민한 사람들의 네가지 특징 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=4900623)
