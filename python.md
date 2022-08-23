@@ -1013,6 +1013,7 @@ Python
   * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
   * [What to Log? From Python ETL Pipelines! | by Shiva Koreddi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/what-to-log-from-python-etl-pipelines-9e0cfe29950e)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
+  * [Eliot: Logging that tells you why it happened — Eliot 1.14.0+0.g3584072 documentation](https://eliot.readthedocs.io/en/stable/)
   * [json-logging-python: Cloud-native distributed Python logging library to emit JSON log that can be easily indexed by logging infrastructure](https://github.com/bobbui/json-logging-python)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
     * [loguru를 사용하여 python 로깅 쉽게하기 | 잡잡 블로그](https://kimeuichan.github.io/posts/python-logging-with-loguru/)
@@ -1226,12 +1227,16 @@ Python
   * [파이썬 코드 프로파일링에 유용한 라이브러리 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/176579) Time, Timeit, cProfile, Pyinstrument, Py-spy, Yappi
   * [Visualizing the Results of Profiling Python Code - Thirld Word Blog](https://thirld.com/blog/2014/11/30/visualizing-the-results-of-profiling-python-code/) pyprof2calltree pyinstrument
   * [How to profile slow code in Python - YouTube](https://www.youtube.com/watch?v=nnkY3dcH74o)
+  * [Finding performance problems: profiling or logging?](https://pythonspeed.com/articles/logging-vs-profiling/)
   * [Memray - a memory profiler for Python](https://github.com/bloomberg/memray)
     * [Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스 | GeekNews](https://news.hada.io/topic?id=6417)
+  * [Prodfiler](https://prodfiler.com/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [pyperf: Toolkit to run Python benchmarks](https://github.com/psf/pyperf)
     * [CPython 3.11 recursive benchmark](https://gist.github.com/corona10/bb782b1d85a501747d2738d724cb9dd1)
+  * pyroscope [Open Source Continuous Profiling Platform | Debug performance issues down to a single line of code | Open Source Continuous Profiling Platform](https://pyroscope.io/)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  * [Sciagraph, performance observability for Python batch jobs](https://www.sciagraph.com/)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
   * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
