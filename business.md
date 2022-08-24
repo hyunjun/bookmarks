@@ -292,6 +292,7 @@ Business
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
 * [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
+* [How do you want to be remembered?](https://www.linkedin.com/posts/hacking-hr_hackinghr-hr-humanresources-activity-6967956677744635905-UUzH/) 사람들이 기억하지 않는 것과 기억하는 것
 * [동료와 직원의 차이는 무엇일까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249607)
 * [직장에 못된 놈 많은데…그들이 잘나간다고요? 뉴욕대 심리학 교수 인터뷰 - 매일경제](https://www.mk.co.kr/news/business/view/2022/03/243963/) 못된 직장 동료들을 어떻게 대할까
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
@@ -1108,7 +1109,9 @@ Business
   * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
   * 3D - Define, Design, Deliver
 * [신뢰 자본](https://jojoldu.tistory.com/675)
-* ['심심한 사과'에 대한 정지우 작가 이야기](https://www.facebook.com/writerjiwoo/posts/pfbid03261noPcgLLkQuUKiCBwmYDE41vSuWDVFBEx5pmQCqGAn2SqNjLhFZwxjUxaugFTfl) business에 대한 이야기는 아니지만 '신뢰'에 대한 이야기라 여기 기록
+* business에 대한 이야기는 아니지만 '신뢰'에 대한 이야기라 여기 기록
+  * ['심심한 사과'에 대한 정지우 작가 이야기](https://www.facebook.com/writerjiwoo/posts/pfbid03261noPcgLLkQuUKiCBwmYDE41vSuWDVFBEx5pmQCqGAn2SqNjLhFZwxjUxaugFTfl)
+  * [‘심심한 사과’ 문해력 논쟁과 ‘헤어질 결심’ 서래에게 배울 것 유레카 : 칼럼 : 사설.칼럼 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/opinion/column/1055817.html)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
