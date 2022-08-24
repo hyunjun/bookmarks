@@ -1607,6 +1607,7 @@ Programming
 * [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
 * [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
 * [Service Mesh 란?. 수년간 Enterprise IT환경은 급격하게 변하고 있습니다. 특히… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/service-mesh-%EB%9E%80-8dfafb56fc07)
+* [What is a Service Mesh, and why do you need one? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/what-is-service-mesh-why-you-need-one/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
@@ -1648,6 +1649,7 @@ Programming
   * [4편 REST Retry](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-4%ED%8E%B8-rest-retry/)
 * [REST APIs for Microservices? Beware! - YouTube](https://www.youtube.com/watch?v=_4gyR6CBkUE)
 * [Eventual Consistency isn’t for Streaming – Materialize](https://materialize.io/eventual-consistency-isnt-for-streaming/)
+* [From Monolith to State-of-the-Art Banking • Flavio Deroo • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=gVucnhnyYTw) CQRS eventual consistency
 * [Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략 - YouTube](https://www.youtube.com/watch?v=qzHjK1-07fI)
   * Unified NoSQL에 각 MSA가 queue를 통해 data를 입력하고 모든 MSA는 core/common serving layer를 통해 읽는 방식
   * time sensitive data는 real time cache로 streaming을 통해 data update
