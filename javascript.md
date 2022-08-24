@@ -2808,6 +2808,7 @@ Javascript
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
 * [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 * [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
+* [Payment Gateway integration | NodeJs | ReactJs | Razorpay 🔥🔥 - YouTube](https://www.youtube.com/watch?v=NrzthCtKCho)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4287,6 +4288,7 @@ Javascript
   * [Build a Fullstack Next.js Application with Storybook & TailwindCSS](https://morioh.com/p/f300ca767cdc)
   * [IE 격리공간을 만들어보자. 2022년 6월 15일, 웹 생태계에 역사적인 순간이 탄생했습니다… | by 권세규 | 네이버 플레이스 개발 블로그 | Aug, 2022 | Medium](https://medium.com/naver-place-dev/ie-%EA%B2%A9%EB%A6%AC%EA%B3%B5%EA%B0%84%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-b23e8ef21e0)
   * [Exploring zones in Next.js](https://morioh.com/p/d553e2ce957c)
+  * [Next.js Project | Build Scalable Architecture for your Next.js Project](https://morioh.com/p/7718992244af)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
