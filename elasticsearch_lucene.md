@@ -343,6 +343,7 @@ ElasticSearch - Lucene
 * [2022-07-21 Elastic Ask Me Anything - YouTube](https://www.youtube.com/watch?v=oemrLo03DjY)
 * [Expert Elasticsearch 8.2 설치. Startup Elasticsearch 8.2.2, Single… | by HAJI | Jul, 2022 | Medium](https://hajix.medium.com/elasticsearch-8-2-%EC%84%A4%EC%B9%98-1c4149b92b3b)
   * [AWS Architecture for ELK - HAJI - Medium](https://hajix.medium.com/aws-architecture-for-elk-3a07af5876e7)
+* [5 Best Elastic Search Courses for Beginners to Learn Kibna, Logstash and ELK Stack in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/5-best-elastic-search-courses-for-beginners-to-learn-kibna-logstash-and-elk-stack-in-2022-eb3e1e0015c4)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
