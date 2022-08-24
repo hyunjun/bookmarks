@@ -466,6 +466,7 @@ Linux
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
   * [새로 나온 커맨드라인 툴들 | GeekNews](https://news.hada.io/topic?id=6361)
 * [Most Important Linux commands for Devops and Cloud Engineer | Hands on Linux devops training in 2022 - YouTube](https://www.youtube.com/watch?v=lCq4mYQL0WY)
+* [파일과 디렉터리에는 정확한 소유권과 적당한 권한을 부여하라 - 넷마블 기술 블로그](https://netmarble.engineering/setting-setuid-umask-environmental-parameters-of-files-and-directories/) `find / -nouser -o -nogroup` suid sgid stickybit chmod chgrp umask home directory environmental variable
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
