@@ -329,6 +329,7 @@ Go
 * [Event Listener and Dispatcher Example with Golang](https://morioh.com/p/d72e972394c8)
 * [Building Modern Desktop Apps with Go and HTML5](https://morioh.com/p/213be5859393)
 * [How to Generate QR Code In Golang](https://morioh.com/p/a2d4f7ff17d9)
+* [Golang with Examples: Keeping Your Modules Compatible](https://morioh.com/p/b2fdfb1ddba8)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -345,6 +346,7 @@ Go
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
 * [Golang: 같은 필드명을 가진 다른 구조체로 데이터를 옮기기](https://jusths.tistory.com/241) marshaling/unmarshaling
 * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
+* [Recover function in Go (Golang)](https://gosamples.dev/recover/)
 * [src/runtime/HACKING.md - The Go Programming Language](https://golang.org/src/runtime/HACKING.md)
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
 * [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
