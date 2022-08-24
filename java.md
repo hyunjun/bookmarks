@@ -153,6 +153,7 @@ Java
 * [Quiz](https://blogs.oracle.com/javamagazine/category/jm-quiz)
 * [Ten Java coding antipatterns to avoid: Worst practices #5 through #1](https://blogs.oracle.com/javamagazine/post/java-worst-practices-antipatterns-part-two)
 * ["자바 앱 서버의 표준" 톰캣의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/249508)
+* [Java APM에 대하여 : 네이버 블로그](https://blog.naver.com/tmondev/222856816055)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
