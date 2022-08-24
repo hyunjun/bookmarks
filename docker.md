@@ -782,6 +782,7 @@ Docker
 * [Docker & Docker Compose / Projects / codingforentrepreneurs.com / codingforentrepreneurs.com](https://www.codingforentrepreneurs.com/projects/docker-and-docker-compose)
 * [docker-compose로 구성된 서버 Elastic Beanstalk에 배포하기 | by Woosik Kim | Apr, 2022 | Medium](https://well-balanced.medium.com/docker-compose%EB%A1%9C-%EA%B5%AC%EC%84%B1%EB%90%9C-%EC%84%9C%EB%B2%84-elastic-beanstalk%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-58fe8f993b5d)
 * [데이터베이스를 docker-compose로 구축하기(mysql, mongodb, redis)](https://www.wool-dev.com/database-with-docker-compose/)
+* [Docker, Spring, MySQL Docker Compose에서 Spring과 MySQL이 연결되지 않는 문제 - Communications link failure](https://velog.io/@wo_ogie/Docker-Spring-Boot-MySQL-Spring%EA%B3%BC-MySQL%EC%9D%B4-%EC%97%B0%EA%B2%B0%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AC%B8%EC%A0%9C-Communications-link-failure)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
