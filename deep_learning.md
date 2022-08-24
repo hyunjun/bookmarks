@@ -1486,6 +1486,7 @@ Deep Learning
 * [tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️](https://github.com/geohot/tinygrad)
   * [geohot/tinygrad - 미니멀한 딥러닝 프레임워크 | GeekNews](https://news.hada.io/topic?id=6320)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
+* [train-clm-multi-gpu](https://github.com/Joonsun-Hwang/train-clm-multi-gpu)
 * [TurboTransformers: a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU](https://github.com/Tencent/TurboTransformers)
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
