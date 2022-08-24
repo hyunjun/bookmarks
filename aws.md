@@ -455,6 +455,7 @@ AWS
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
 * [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
+* [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
