@@ -301,6 +301,9 @@ Programming Books
 * [애자일 전략](https://ilsang2.tistory.com/950)
   * ★★★★☆ 2022.08.23
   * 우당 문325.19-릭49ㅇ
+  * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략](https://github.com/hyunjun/bookmarks/blob/master/programming_books/doing_agile_right.md)
+  * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/doing-agile-right-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5-bab1c1861924)
+  * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략](https://jh4hj.tistory.com/entry/DOING-AGILE-RIGHT-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
