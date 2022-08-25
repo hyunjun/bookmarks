@@ -23,6 +23,7 @@ AWS
 * [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac)
   * AWS에서 CloudWatch의 알람을 Slack을 받을 수 있도록 AWS Chatbot을 이용한 과정 정리
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
+* [New – AWS Support App in Slack to Manage Support Cases | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
 * LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
@@ -1271,7 +1272,14 @@ AWS
 * [Java and AWS Lambda - Best of frenemies?](https://www.cockroachlabs.com/blog/java-and-aws-lambda/)
 
 ## Lambda Javascript
+* [serverless framework plugins · /usr/lib/libsora.so](https://if1live.github.io/posts/serverless-framework-plugins/)
+* [callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so](https://if1live.github.io/posts/trap-callback-waits-for-empty-event-loop/)
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
+* [serverless 배포하기 (2) serverless-webpack 기반으로 배포 패키지 크기 줄이기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-2-serverless-webpack-advance/)
+* [serverless 배포하기 (3) serverless-webpack의 결함 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-3-flaw-of-serverless-webpack/)
+* [serverless 배포하기 (4) 플러그인 안쓰고 타입스크립트 함수 배포하기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-4-pnpm-with-script/)
+* [serverless 배포하기 (5) 최소한의 설정파일로 타입스크립트 함수 배포하기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-5-zero-configuration/)
+* [AWS Lambda에 Next.js 배포하기](https://velog.io/@grotesq/AWS-Lambda%EC%97%90-Next.js-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
 ## Lambda Kotlin
 * [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
@@ -1733,6 +1741,7 @@ AWS
 * [Complete Terraform Course for beginners with Hands On Practice and Terraform Commands in 10 minutes - YouTube](https://www.youtube.com/watch?v=80szTnzBs2M)
 * [How to manage multiple environments with Terraform | by Yevgeniy Brikman | Aug, 2022 | Gruntwork](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
 * [Terraform - Part 15 - Basic Concept .. Discussion on Terraform Data Resource - YouTube](https://www.youtube.com/watch?v=SI3lGDdNglM)
+* [A guide to Cloud Cost Optimization with Terraform - Discover Better Value Faster](https://www.cloudnowtech.com/blog/a-guide-to-cloud-cost-optimization-with-terraform/)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
