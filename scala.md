@@ -476,7 +476,6 @@ Scala
 * [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
 * [Taming Distribution: Formal Protocols for Akka Typed by Roland Kuhn](https://www.youtube.com/watch?v=eE_Iaxjy05Y)
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
-* [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기

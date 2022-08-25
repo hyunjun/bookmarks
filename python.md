@@ -3159,8 +3159,8 @@ Python
 * notebook-environments [Manage python virtual environments on the working notebook server](https://pythonawesome.com/manage-python-virtual-environments-on-the-working-notebook-server/)
 * [Notebooks Academy — Notebooks Academy](https://notebooks.academy/)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
-* [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
-  * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
+* Oasis [Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/data-system-opens-its-doors-to-all-liners/)
+  * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/data-system-opens-its-doors-to-all-liners/)
 * [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
 * [Papermill is a tool for parameterizing and executing Jupyter Notebooks](https://papermill.readthedocs.io)
   * [A blog post about report generation and automation in python](https://github.com/duarteocarmo/automation-post)

@@ -773,8 +773,8 @@ Apache
   4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
 * [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 * [Tweeter: Processing Tweets with Kafka Streams](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)
-* [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/detail/80)
-  * [Line: Applying Kafka Streams for internal message delivery pipeline](https://engineering.linecorp.com/en/blog/detail/80)
+* [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/applying-kafka-streams-for-internal-message-delivery-pipeline/)
+  * [Applying Kafka Streams for internal message delivery pipeline](https://engineering.linecorp.com/en/blog/applying-kafka-streams-for-internal-message-delivery-pipeline/)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정

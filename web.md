@@ -835,7 +835,7 @@ Web
   * [Rails에서 Swagger를 이용하여 API Docs 사용 시 인증 처리](http://www.popit.kr/rails%EC%97%90%EC%84%9C-swagger%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-api-docs-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC/)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
-  * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
+  * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/api-the-docs-recap/)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
 * [tiny frontend](https://tiny-frontend.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)

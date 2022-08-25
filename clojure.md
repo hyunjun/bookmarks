@@ -246,7 +246,7 @@ Clojure
 * [What little clojure tricks did you not realize for years?](https://www.reddit.com/r/Clojure/comments/89eeiv/what_little_clojure_tricks_did_you_not_realize/)
 * [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
 * [example - 게임 상태 관리 예](https://groups.google.com/forum/#!topic/clojure-kr/u3RKn-PkQBg)
-* [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/detail/244)
+* [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/functional-programing-language-and-line-game-cloud/)
 * [Reasoned Schemer for Clojure](https://github.com/philoskim/reasoned-schemer-for-clojure)
 * [Clojure/ClojureScript Boot literate programming template](https://maximgb.github.io/clojure-boot-literate)
 * [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
