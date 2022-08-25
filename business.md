@@ -1520,6 +1520,7 @@ Business
 * [토스 리더가 말하는 바이럴 성장이란 무엇인가 | PO SESSION - YouTube](https://www.youtube.com/watch?v=fDbidmqfjIA)
 * [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
 * [토스는 이렇게 시작했습니다 | PO SESSION - YouTube](https://www.youtube.com/watch?v=Tmj1HEFnKpE)
+* [토스 리더가 직접 답해드립니다 | PO SESSION Q&A - YouTube](https://www.youtube.com/watch?v=GFERag7kjFM)
 * [정성적 차이](https://www.thestartupbible.com/2022/07/unquantifiable-moats.html)
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
