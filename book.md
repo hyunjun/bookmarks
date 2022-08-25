@@ -621,6 +621,9 @@ Book
 * [썬킴의 거침없는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269805929)
   * ★★★☆☆ 2022.08.23
   * 한라 909-썬878ㅆ 탐라 문909-썬829ㅆ 우당 문909-썬829ㅆ
+* [도시로 보는 동남아시아사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290967565)
+  * ★★★☆☆ 2022.08.25
+  * 한라 914-강97ㄷ 탐라 문914-강98ㄷ 우당 문914-강98ㄷ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -682,8 +685,6 @@ Book
   * 한라 918-이97이 탐라 문918-이98ㅇ 우당 문918-이98ㅇ
 * (NOT YET) [욤 키푸르 전쟁…검열해제로 드러난 '욤 키푸르 전쟁'의 진실](https://www.yeongnam.com/web/view.php?key=20220217010001977)
   * 한라 392.19-라48ㅇ 탐라 문918-라49ㅇ
-* (NOT YET) [도시로 보는 동남아시아사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290967565)
-  * 한라 914-강97ㄷ 탐라 문914-강98ㄷ 우당 문914-강98ㄷ
 * (NOT YET) [《강철왕국 프로이센》 프로이센에 관한 최고의 .. : 네이버블로그](https://blog.naver.com/nyjini79/222061109206)
   * 한라 925-클292ㄱ 탐라 문925-클231ㄱ
 * (NOT YET) [일본의 근대화와 민중사상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265441374)
