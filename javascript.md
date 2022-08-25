@@ -3827,6 +3827,7 @@ Javascript
 * [React YouTube UI Clone working example with source code - Therichpost](https://therichpost.com/react-youtube-ui-clone-working-example-with-source-code/)
 * [ReactJs 2022 - CRUD TododList App for beginners - YouTube](https://www.youtube.com/watch?v=QTvKbGVnEg4)
 * [Polymorphic한 React 컴포넌트 만들기 | kciter.so](https://kciter.so/posts/polymorphic-react-component)
+* [Building Simple ReactJS Component - YouTube](https://www.youtube.com/watch?v=Xsro25m92lg)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
