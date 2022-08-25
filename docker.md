@@ -1516,6 +1516,7 @@ Docker
     * [ArgoCD Tracking Strategies | ArgoCD Best Practices | GitOps - YouTube](https://www.youtube.com/watch?v=lEhO3caUhM8)
     * [Manage Argo CD Repositories and Applications using Argo CD CLI - FoxuTech](https://foxutech.com/manage-argo-cd-repositories-and-applications-using-argo-cd-cli/)
     * [Argo CD with Azure DevOps || GitOps || Azure Repos || CICD || k8s || #devopsinterviewquestions - YouTube](https://www.youtube.com/watch?v=O9vZiAQObmA)
+    * [How do you run ArgoCD? | ArgoCD Full Crash Course Tutorial - YouTube](https://www.youtube.com/watch?v=WX6VmBo7FUY)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
