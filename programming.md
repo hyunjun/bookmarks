@@ -4360,6 +4360,7 @@ Programming
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
   * [노코드 툴 버블 기본기 강의 (bubble.io BASICS) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1qvMYfsqD1k0xzMrNTfoBH)
   * [노코드 툴 버블로 클론코딩 (CLONE NO-CODING with bubble.io) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1NOBaYavRaztP2Yvhp6mk2)
+  * [버블 제작 프로덕트 아카이빙](https://wooden-temple-2b2.notion.site/fcf109d580b344d98103b33da9c15470)
 * [Figstack | Disquiet\*](https://disquiet.io/product/figstack) 코드를 영어로 또는 다른 개발 언어로 번역해주는 개발자 도구
 * [Hola | Disquiet\*](https://disquiet.io/product/hola) 개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
@@ -4367,6 +4368,7 @@ Programming
 * [Make | Work the way you imagine](https://www.make.com/)
   * [Make - 노코드 자동화 도구 | GeekNews](https://news.hada.io/topic?id=6101)
 * [Nebo | Disquiet\*](https://disquiet.io/product/nebo) 리액티, 개츠비, 부트스트랩을 노코드로 개발하게 해줄 수 있는 툴
+* [NOCODECORE](https://nocodecore.com/)
 * numble [IT Open Innovation Platform, ‘NUMBLE’](https://www.numble.it/) IT 사람들의 프로젝트 기반 챌린지 커뮤니티
 * [Oopy. 우피 | Disquiet\*](https://disquiet.io/product/oopy.-%EC%9A%B0%ED%94%BC) 노션을 이용한 노코드 웹페이지 빌더
 * [Outcode | Disquiet\*](https://disquiet.io/product/outcode) 문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc
@@ -4888,6 +4890,7 @@ Programming
 * [Unicode Normalization Forms: When ö != ö :: OpenCore Blog](https://blog.opencore.ch/posts/unicode-normalization-forms/)
 * [Two Phonetic Scripts: Vietnamese and Korean - Math in Office](https://devblogs.microsoft.com/math-in-office/two-phonetic-scripts-vietnamese-and-korean)
   * [한국어가 유니코드에 들어간 역사 : 네이버 블로그](https://blog.naver.com/drvoss/222662727953)
+* [이모지와 유니코드 | blog.hoseung.me](https://blog.hoseung.me/2022-08-25-emoji-and-unicode/)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
