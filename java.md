@@ -1002,6 +1002,7 @@ Java
 * [Java in Containers - Part Deux](https://www.infoq.com/presentations/openjdk-containers/)
 * [Understanding the constant pool inside a Java class file](https://blogs.oracle.com/javamagazine/post/java-class-file-constant-pool)
 * [Inside JVM debug symbols | It’s All Relative](https://jpbempel.github.io/2022/03/22/jvm-debug-symbols.html)
+* [자바 컴파일 과정 & JVM 내부 구조](https://velog.io/@minseojo/Java-%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95-JVM-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
