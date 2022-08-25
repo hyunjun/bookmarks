@@ -548,6 +548,7 @@ Go
 * [Channels and Go Routines - CodeTips - Helping Developers](https://codetips.dev/channels-and-go-routines/)
 * [Diving in Async programming tricks with Golang | by Nikhil Chawla | Feb, 2022 | Medium](https://medium.com/@chawlanikhil24/diving-in-async-programming-tricks-with-golang-8b2155f7bcd3)
 * [Go (Golang) with Async/Await. Go (Golang) with Async/Await | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/go-golang-with-async-await-a0c2e259a668)
+* [Async/Await in Golang: An Introductory Guide](https://morioh.com/p/741a732a6179)
 * [**Simulating A Real-World System (Coffee Shop) In Go**](https://www.youtube.com/watch?v=jJS6G7irZSc)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
