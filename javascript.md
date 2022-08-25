@@ -2010,6 +2010,8 @@ Javascript
   * [p5.js - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEvYJCyey1AlwT1yyBZK6c)
 * [Pablo](http://pablojs.com/) a small, open-source JavaScript library for SVG
 * [paged.js - an open-source library to paginate content in the browser](https://www.pagedmedia.org/paged-js/)
+* [particles.js - A lightweight JavaScript library for creating particles](https://vincentgarreau.com/particles.js/)
+  * [How to make Fireworks in React with Particle JS React | Tekolio](https://tekolio.com/how-to-make-fireworks-in-react-with-particle-js-react/)
 * [passport-github: GitHub authentication strategy for Passport and Node.js](https://github.com/jaredhanson/passport-github)
   * [Passport.js](https://opentutorials.org/course/3402)
   * [Node Passport를 이용한 Login](https://cheese10yun.github.io/Passport-part1/)
