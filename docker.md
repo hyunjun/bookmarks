@@ -1469,6 +1469,7 @@ Docker
 * [DevOps Tutorials | Set Up k8s with KubeAdm Initializing a worker Node and Joining to K8S Cluster - YouTube](https://www.youtube.com/watch?v=R8llq3z2D3Y)
 * [VITO CI/CD 변천사 #1 | 손스케일링. 안녕하세요. 리턴제로에서 서버팀을 맡고있는 Castor입니다. 저희가… | by Kim Seong Su | returnzero | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-1-%EC%86%90%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-a7a8eb9a4407)
 * [VITO CI/CD 변천사 #2 | Container Orchestration | by Choi Geonu | returnzero | Aug, 2022 | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-2-container-orchestration-fcd466d6479c)
+* [Kubernetes Native Edge Computing Framework, kubeEdge I Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=JEdRAW6O-kM)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
