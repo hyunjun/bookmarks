@@ -70,6 +70,7 @@ Android
 * [안드로이드 아키텍처 with TDD - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528548) MVVM
 * [MVVM의 ViewModel에서 이벤트를 처리하는 방법 6가지 | by Ted Park | PRND | Sep, 2021 | Medium](https://medium.com/prnd/mvvm%EC%9D%98-viewmodel%EC%97%90%EC%84%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-6%EA%B0%80%EC%A7%80-31bb183a88ce)
 * [사람인 Android App Refactoring](https://saramin.github.io/2022-05-23-android-app-refactoring/) MVC -> MVVM, AAC / dagger-hilt / databinding, viewbinding
+* [아름다운 코드를 향한 함께하는 여정 - Part 1 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/08/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%ED%96%A5%ED%95%9C-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%97%AC%EC%A0%95-part-1/)
 * [SingleLiveEvent와 Event 정리 - Jungwoon Blog](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent/)
 * [Android LiveData의 사용법과 내부 코드를 통한 UI 처리, 중복 처리 등 살펴보기](https://thdev.tech/android/2021/02/01/LiveData-Intro/)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
