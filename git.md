@@ -373,6 +373,7 @@ Git
 * [Automate Deploy Jupyter Notebooks with Github Actions | MLOps | Productionize Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=jVag3kUhUXQ)
 * [MLOps with Hugging Face Spaces, Gradio and Github Actions - YouTube](https://www.youtube.com/watch?v=VYSGjUa5sc4) Github Action기반으로 Hugging Face에 CD하는 MLOps tutorial
 * [Introduction to GitHub Actions | Workflow of GitHub Actions | GitHub Actions Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=67fvIzYqD_I)
+* [Auto Label in Issue · Actions · GitHub Marketplace](https://github.com/marketplace/actions/auto-label-in-issue)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
@@ -1016,6 +1017,7 @@ Git
   * [“개발자들, 코파일럿 많이 쓸수록 생산성 향상됐다 느껴” 깃허브 - CIO Korea](https://www.ciokorea.com/news/245056)
   * [ML code generation vs. coding by hand - what we think programming is going to look like | Wasp](https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future)
   * [GitHub Copilot: your AI pair programmer - GitHub Checkout - YouTube](https://www.youtube.com/watch?v=St2CMvK4hK0)
+  * [Could GitHub Copilot produce a vulnerable code? | by YevhSec1 | Aug, 2022 | Medium](https://yevhsec1.medium.com/could-github-copilot-produce-a-vulnerable-code-8c23c890e578)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
