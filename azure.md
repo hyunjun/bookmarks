@@ -52,6 +52,7 @@ Azure
 * [애저 서버리스에서 파이썬/장고 웹서비스 쉽게 배포/운영하기 | ep0. 시작하기 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=22lYkOEV2jY)
 * [allieus/django-with-azure-functions: Azure Function 3.x에서 장고 프로젝트 구동 샘플](https://github.com/allieus/django-with-azure-functions)
 * [Azure Devops - 스크럼 테스크 관리, 빌드, 소스코드 리파지토리, 테스트툴](https://bcho.tistory.com/1331)
+* [Azure Devops - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tVSWQYJ5WzKTha1NP-7Cq-4)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 설계편](https://blog.aliencube.org/ko/2019/06/26/building-azure-devops-extension-on-azure-devops-1/)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 개발편](https://blog.aliencube.org/ko/2019/07/03/building-azure-devops-extension-on-azure-devops-2/)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 배포편 계정 생성](https://blog.aliencube.org/ko/2019/07/10/building-azure-devops-extension-on-azure-devops-3/)
