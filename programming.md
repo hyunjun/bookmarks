@@ -1366,6 +1366,7 @@ Programming
   * [How Netflix microservices tackle dataset pub-sub | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
   * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog](https://tech.deliveryhero.com/delivery-hero-architecture-reviews/)
+* [Our backend strategy to handle massive traffic | Coupang Engineering | Coupang Engineering Blog](https://medium.com/coupang-engineering/our-backend-strategy-to-handle-massive-traffic-d30cd6cc4fb2)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
