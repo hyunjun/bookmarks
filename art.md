@@ -204,6 +204,7 @@ Art
 * [개발자의 그림 읽기: 아테네 학당](http://blog.hwang.gg/20190216)
 * [장 미쉘 바스키아의 빛과 그림자 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/3752)
 * [컬렉션의 세계, 미래를 내다본 최고 컬렉터는? < 문화 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1146)
+* ['인상주의'는 어떻게 탄생했는가? < 문화 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1227)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
