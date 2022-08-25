@@ -706,6 +706,10 @@ Book
     * 한라 911-최54ㄱ
 * (NOT YET) [나폴레옹 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285847567)
   * 한라 926.06-미872ㄴ 우당 문909-미821ㄴ
+* (NOT YET) [도시로 보는 유럽사](https://www.idaegu.co.kr/news/articleView.html?idxno=315524)
+  * 한라 920-백57ㄷ 탐라 문920-백58ㄷ 우당 문920-백58ㄷ
+* (NOT YET) [도시로 보는 유럽통합사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37477360)
+  * 한라 920-통92ㄷ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
