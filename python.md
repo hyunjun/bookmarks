@@ -4420,6 +4420,7 @@ Python
 * pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 
 ## Library refactoring
+* [플랫폼 리팩터링 경험 공유. Code Complexity 줄이기 with Python | by David K. Kim | 네이버 플레이스 개발 블로그 | Aug, 2022 | Medium](https://medium.com/naver-place-dev/%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-code-complexity-%EC%A4%84%EC%9D%B4%EA%B8%B0-with-python-a34c4b6b3021)
 * [Brett Slatkin - Refactoring Python: Why and how to restructure your code - PyCon 2016](https://www.youtube.com/watch?v=D_6ybDcU5gc)
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
 * [Bowler: Safe code refactoring for modern Python](https://github.com/facebookincubator/bowler)
