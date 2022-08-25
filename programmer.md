@@ -160,6 +160,8 @@ Programmer
   * 이후 Ryan이 Deno를 공개했을 때 관심을 가지고 관련 생태계에 도움이 될 프로젝트를 진행하고 VS Code 확장도 만든 끝에 Deno의 핵심 기여자로 합류
   * 지금은 GitHub의 300여 개의 오픈소스 프로젝트를 공개해서 스타 수로 상위 10명 중의 한 명인 개발자
   * "Education represents the past, ability represents the present, and learning ability represents the future."
+* [Noninertial Frame](https://noninertialframe.com/blog/Joining%20Onehouse)
+  * [1년차 개발자의 골드만삭스 → 스타트업 이직 후기 | GeekNews](https://news.hada.io/topic?id=7247)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
