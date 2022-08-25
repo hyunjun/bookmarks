@@ -1065,3 +1065,4 @@ Book
   * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
+* (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
