@@ -714,6 +714,7 @@ Apache
 * [A Guide To Apache Kafka - A Data Streaming Platform](https://www.decipherzone.com/blog-detail/apache-kafka)
 * [Exporter Review: Kafka - NexClipper](https://nexclipper.io/exporter-review-kafka/)
 * [컬리 검색이 카프카를 들여다본 이야기 1 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/search-system-with-kafka-1/)
+* [컬리 검색이 카프카를 들여다본 이야기 2 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/search-system-with-kafka-2/)
 * [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
 
 ## Kafka Library
