@@ -537,7 +537,8 @@ DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략
 
 > 확장 가능한 애자일은 애자일 원칙이 기업의 다른 부분에 퍼지지 않았는데도 애자일팀이 광범위하게 확산된 것을 의미한다.
 * 원문은 `Agile at scale, remember, refers to widespread proliferation of agile teams, even when agile principles have not spread to the rest of the enterprise.`
-  * 무슨 뜻인지 잘 이해가 가지 않음
+  * 무슨 뜻인지 잘 이해가 가지 않아 저자에게 질문했는데 답변을 받았고, 간단히 말하면 제도보다 문화가 더 중요하다는 뜻
+  * [Doing Agile Right - Rigby, Darrell <Darrell.Rigby@Bain.com>](https://gist.github.com/hyunjun/7ab272793c30413c7c6e1ebf7f6f7fa2#file-qa-md)
 > 확장 가능한 애자일이 적용되면 기업에 테스트와 학습의 분위기가 퍼져가고, 직원들은 자신들의 모든 업무에서 개선할 기회를 찾는다.
 
 <img src="doing_agile_right/119.jpg" alt="" width="400"/>
