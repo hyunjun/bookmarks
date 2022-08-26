@@ -283,6 +283,7 @@ Programming
 * [What the SRE team wants to achieve with the development team | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
 * [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks)
 * [‘닮은 듯 다른’ 월가 공룡들의 데브옵스 접근법 - CIO Korea](https://www.ciokorea.com/news/238709) SRE
+* [글로벌 칼럼 | 데브옵스 시대는 끝났다 - ITWorld Korea](https://www.itworld.co.kr/topnews/251626) DevOps, SRE, Platform engineering
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
