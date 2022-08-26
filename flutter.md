@@ -151,6 +151,7 @@ Flutter
 * [왜 플러터는 쓰레기인가? 리액트네이티브 vs 플러터 - YouTube](https://www.youtube.com/watch?v=qxyiCG-oSsk)
 * [Flutter Node Auth Tutorial with State Management - Email Password Login/Sign Up - YouTube](https://www.youtube.com/watch?v=EuP3xycjiM4)
 * [Node js And Flutter: Build RestApi ,MongoDB(PART 1) - YouTube](https://www.youtube.com/watch?v=yAdwZnRCsao)
+* [Flutter Game 만들기 - YouTube](https://www.youtube.com/playlist?list=PL_K0yFEgjop-DzrXy2kxA02bynrxPL6VI)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
