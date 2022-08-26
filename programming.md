@@ -4668,6 +4668,7 @@ Programming
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
 * [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [쏘카 QA는 무슨 일을 하고 어떻게 일하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
+* [QA가 Shift-left와 Shift-right 접근 방법을 통해 더 나은 품질을 확보하는 방법](https://engineering.linecorp.com/ko/blog/quality-advocator-shift-left-shift-right)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
