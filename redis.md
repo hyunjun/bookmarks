@@ -183,6 +183,7 @@ Redis
   * 메모리 릭을 경험하고 Redis의 SET이나 Pub/Sub을 의심했지만, 이 문제는 아니었고 사용자가 많은 시간대에 패턴이 달라지는 것을 보고 세션 클러스터링을 의심하기 시작
   * REDIS의 키를 추적해서 문제가 있는 키를 찾아내고 이 키의 용도와 언제 생성되고 삭제되는지 코드까지 확인했는데 코드에는 이상이 없는 걸 확인
     * ElastiCache에서 이벤트에 대한 설정이 되어 있지 않아서 삭제 처리가 안 되었음을 발견
+* [팔로우 기능 개발 노트 - Feed | Disquiet\*](https://disquiet.io/@jeong7331/makerlog/1503)
 
 # Go
 * [miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis)
