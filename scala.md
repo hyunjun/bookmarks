@@ -355,6 +355,8 @@ Scala
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 * [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
 * [Selection functions are interesting notion with tricky implementation | Anton Kovalevsky](https://antonkw.github.io/scala/selection-functions/)
+* [Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
+* [Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
