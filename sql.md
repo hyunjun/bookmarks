@@ -846,6 +846,7 @@ SQL
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Compressing PostgreSQL JSONB data 12x using cstore_fdw](https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw)
 * [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
+* [Using PostgreSQL JSONB with Go](https://morioh.com/p/c0009e8ffe11)
 * [Migrating to JSON in PostgreSQL](https://developer.s24.com/blog/migrating-json-postgresql.html)
 * [Unleash the Power of Storing JSON in Postgres](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
 * [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
