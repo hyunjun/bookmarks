@@ -219,7 +219,6 @@ Go
 * [Hexagonal Architecture using Go (Fiber) | by Carlos García Rosales | Medium](https://cgarciarosales97.medium.com/hexagonal-architecture-using-go-fiber-b2925fd677b5)
 * [**golang을 이용한 구독 커머스 아키텍처 설계 | funes-days**](https://funes-days.com/dev/backend-architecture-with-golang)
 * [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
-* [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
 * [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
 * [Go: Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
 * [Exceptional Go](https://medium.com/extreme-programming/exceptional-go-3943c2230cf8)
@@ -290,7 +289,6 @@ Go
   * 실제로 플러그인을 어떤 함수를 구현해야 하는지를 설명하고 이러한 동작이 Terraform에서는 어떻게 되는지 설명
 * [Go Programming Language Installation - GO Tutorial](https://technologystrive.com/golang/go-installation/)
 * [Containerize Go + SQLite with Docker | by hüseyin nurbaki | Jan, 2022 | AWS Tip](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
-* [Top 6 Golang Programming Courses for Beginners to Learn in 2022 UPDATED - Best of Lot | Java67](https://www.java67.com/2019/12/top-5-courses-to-learn-go-or-golang.html)
 * [How To Watch For File Change in Golang | by Jerry An | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/how-to-watch-for-file-change-in-golang-4d1eaa3d2964)
 * [Using Golang to Listen to and Parsing GitHub Webhooks | by Pascal Zwikirsch | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/using-golang-to-listen-to-and-parsing-github-webhooks-1e072686b55f)
 * [Write Golang CODE FASTER in vscode | Write code faster in vscode for Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=r7sx02cuWWc)
@@ -1015,6 +1013,9 @@ Go
 * [GO Language - YouTube](https://www.youtube.com/playlist?list=PLaSWSLwUFCJJtPMBaqz67S9mVFFGBlJIf)
 * [Writing Your First Program with Go](https://morioh.com/p/2a51bb67269d)
 * [Introduction to The Go Programming Language for Beginners](https://morioh.com/p/cb2101abe8e5)
+* [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
+* [Top 6 Golang Programming Courses for Beginners to Learn in 2022 UPDATED - Best of Lot | Java67](https://www.java67.com/2019/12/top-5-courses-to-learn-go-or-golang.html)
+* [Learn Golang with Projects for Beginners](https://morioh.com/p/c889427ac08a)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
