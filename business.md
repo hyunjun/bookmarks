@@ -1113,6 +1113,7 @@ Business
 * business에 대한 이야기는 아니지만 '신뢰'에 대한 이야기라 여기 기록
   * ['심심한 사과'에 대한 정지우 작가 이야기](https://www.facebook.com/writerjiwoo/posts/pfbid03261noPcgLLkQuUKiCBwmYDE41vSuWDVFBEx5pmQCqGAn2SqNjLhFZwxjUxaugFTfl)
   * [‘심심한 사과’ 문해력 논쟁과 ‘헤어질 결심’ 서래에게 배울 것 유레카 : 칼럼 : 사설.칼럼 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/opinion/column/1055817.html)
+  * ['심심한 사과' 논란, 오상진의 중재가 돋보인 이유 - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg_m.aspx?CNTN_CD=A0002860076)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
