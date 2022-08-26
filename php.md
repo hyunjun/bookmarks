@@ -105,6 +105,7 @@ PHP
   * [초간단 OSX El Capitan에서 Laravel 개발환경 구축 - 완두블로그](https://wani.kr/posts/2015/11/01/laravel-enviroment-settings/)
   * [Does Laravel Scale? - Fathom Analytics](https://usefathom.com/blog/does-laravel-scale)
   * [The Ultimate Guide to Getting Started With Laravel](https://blog.freshbits.in/the-ultimate-guide-to-getting-started-with-laravel)
+  * [Using a Laravel REST API with a Next.js App](https://morioh.com/p/0f3d50e7fe69)
 * [Leaf 3.0 - PHP 웹앱 & API 프레임워크 | GeekNews](https://news.hada.io/topic?id=5698)
 * opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
 * [Open Swoole: PHP Server with Async IO, Coroutines and Fibers (previously Swoole) | Open Swoole PHP](https://openswoole.com/)
