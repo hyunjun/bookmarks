@@ -1969,6 +1969,7 @@ Docker
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
   * [Debugging containerd. containerd is the container runtime… | by Sam Lockart | Jun, 2022 | Zendesk Engineering](https://zendesk.engineering/debugging-containerd-a20f28a2a8bf)
   * [containerd-the-hard-way](https://github.com/JeongsikKang/containerd-the-hard-way)
+* [devbox: Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
