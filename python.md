@@ -2419,6 +2419,7 @@ Python
 * [django app config ready 한 번만 실행되게 하려면 어떻게 할까요?](https://codingdog.tistory.com/693)
 * [Django Channels, Celery, Redis: Real Time Broadcasting API response App (Jokes) | Django WebSockets - YouTube](https://www.youtube.com/watch?v=AZNp1CfOjtE)
 * [django mptt와 업뎃이 별로 없는 계층형 구조에 대해 알아봅시다](https://codingdog.tistory.com/707)
+* [Build And Deploy A REST API With Django REST Framework | Full Project](https://morioh.com/p/43ee3bd4c8ac)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
