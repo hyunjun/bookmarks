@@ -334,6 +334,7 @@ Business
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
+* [이 다섯 가지 준비가 되어 있지 않다면, 창업하지 마세요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/256218)
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
 * [대규모 AI 프로젝트 진행 노하우](https://brunch.co.kr/@graypool/69) 전략
 * [7 Powers: 전략의 본질](https://www.canda.blog/7-powers/)
