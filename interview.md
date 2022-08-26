@@ -783,6 +783,7 @@ Interview
   * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
+* [5 Best Frontend Developer Interview Courses | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/5-best-frontend-developer-interview-courses-b9c0809efbf3)
 * [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [**데이터 사이언스 인터뷰 질문 모음집**](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
 * Top Interview Questions and Tricks
