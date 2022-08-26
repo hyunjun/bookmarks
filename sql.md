@@ -50,6 +50,7 @@ SQL
 * [#WDILTW – To use a RDBMS is to use a transaction](http://ronaldbradford.com/blog/wdiltw-to-use-a-rdbms-is-to-use-a-transaction-2021-02-19/)
 * [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 * [Enterprise Architecting Series: Transaction Service · Present](https://present.do/presentations/61346fa75b179c0da7466a9a?page=0)
+* [DB 트랜잭션 격리 수준 그림과 예시로 쉽게 이해하기 - 1편 | by 10x 개발자 | Aug, 2022 | Medium](https://medium.com/@10x.developer.kr/db-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-%EA%B7%B8%EB%A6%BC%EA%B3%BC-%EC%98%88%EC%8B%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1%ED%8E%B8-5bef68de8b7b)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Learn SQL - Free Interactive SQL Tutorial](https://www.learnsqlonline.org/)
 * [SQL Tutorial for Beginners – Learn SQL Programming Online -Intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/)
