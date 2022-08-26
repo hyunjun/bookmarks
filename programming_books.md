@@ -2914,6 +2914,11 @@ Programming Books
   * 탐라 문004.78-그232ㅇ
 
 # Vision
+* [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
+  * ★★★★☆ 2022.08.26
+  * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
+  * [비전 시스템을 위한 딥러닝. 제목은 비전이 들어가고, 그래서 비전 관련된 내용이 주된 부분이긴… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EB%B9%84%EC%A0%84-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-d642e34dcab)
+  * [비전 시스템을 위한 딥러닝](https://jh4hj.tistory.com/entry/%EB%B9%84%EC%A0%84-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D)
 * (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
 * (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
   * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
@@ -2921,8 +2926,6 @@ Programming Books
   * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
 * (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
-* (NOT YET) [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
-  * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
