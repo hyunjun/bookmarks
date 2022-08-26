@@ -664,6 +664,7 @@ Docker
 * buildx
   * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
   * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
+  * [Support multi-architecture on Docker](https://www.notion.so/Support-multi-architecture-on-Docker-160e4e71a4064f5cae3e052e545eabe0)
   * [Docker buildx를 활용하여 Multi-Architecture 이미지 빌드](https://judo0179.tistory.com/99)
   * [Building Multi-Architecture Docker Images With Buildx | by Artur Klauser | Medium](https://medium.com/@artur.klauser/building-multi-architecture-docker-images-with-buildx-27d80f7e2408)
   * [Docker builx - multi architecture | nalbam’s blog](https://nalbam.github.io/2021/09/03/docker-builx.html)
