@@ -1025,6 +1025,7 @@ SQL
     * 1년 전부터 사용하기 시작했는데 지금은 회사의 프로젝트도 EdgeDB로 바꾸고 있고 대부분의 경우 "It just works"를 경험, 다양한 기능을 소개
     * [EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야" | GeekNews](https://news.hada.io/topic?id=7052)
   * [All You Need to Know about EdgeDB | AppSignal Blog](https://blog.appsignal.com/2022/08/02/all-you-need-to-know-about-edgedb.html)
+* [ElephantSQL - PostgreSQL as a Service](https://www.elephantsql.com/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/)
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
