@@ -75,6 +75,7 @@
 * [From Spring Boot Apps to Functional Kotlin • Nicolas Frankel • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=f6a78mCrSeE)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
+* [코틀린 멀티플랫폼, 미지와의 조우](https://www.slideshare.net/arawnkr/ss-252699629)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Clean Architecture Example in Kotlin | by The Code Gang | HackerNoon.com | Medium](https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be)
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
