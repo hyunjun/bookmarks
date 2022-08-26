@@ -1150,6 +1150,7 @@ Programming
     * Cloudflare에서 Worker를 5년 전 런칭, 개발자가 Woker 사용을 주저하는 이유: 락인 & 로컬에서 테스트가 가능한지 여부
       * 이는 런타임을 오픈소스로 공개할 계획이 있는지에 대한 질문으로 이어짐
     * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
+  * [Deploy Next.js to Cloudflare Pages - Cloudflare Static Web Apps Tutorial](https://morioh.com/p/9c1c2bcbe607)
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
   * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
