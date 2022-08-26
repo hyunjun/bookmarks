@@ -741,6 +741,7 @@ Web
       * 잘 설계되고 구현된 GraphQL API는 임의의 쿼리를 다른 공개 API처럼 적절한 시간에 수행할 수 있으며 쿼리를 잠근다고 하더라도 클라이언트에 유연성을 제공하고 새로운 쿼리마다 서버팀이 작업할 필요를 제거
 * [GraphQL kinda sucks | Hacker News](https://news.ycombinator.com/item?id=32366759)
   * [GraphQL은 좀 짜증나요 | GeekNews](https://news.hada.io/topic?id=7145)
+* [What is GraphQL (An Overview) – ScriptsView](https://scriptsview.com/apis/what-is-graphql-an-overview/)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
