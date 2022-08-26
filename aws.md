@@ -790,6 +790,7 @@ AWS
 * [DynamoDB를 사용하는 Go 서비스의 응답 시간 최적화 #2 TLS Handshake](https://tech.buzzvil.com/blog/dynamo-go-latency-optimization-2-tls-handshake/)
 * [DynamoDB, Python 기초 - 이상선 - Medium](https://medium.com/@sunyi233/dynamodb-python-%EA%B8%B0%EC%B4%88-54ea399c139b)
 * [The DynamoDB paper - Marc's Blog](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
+* [Build a CRUD REST API for DynamoDB w/ AWS Lambda & API Gateway using Node.js AWS-SDK V3](https://morioh.com/p/a08b3e6c27e5)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
