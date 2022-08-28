@@ -40,7 +40,6 @@ Product
 * [세탁기가 걸어 다닌다](http://techholic.co.kr/archives/36416)
 * [서퍼를 위한 정장?](http://techholic.co.kr/archives/32770)
 * [서서 일한 당신, 떠나라](http://www.earlyadopter.co.kr/61816)
-* [Refold - cardboard standing desk](http://www.refold.co/)
 * [30만원대 세그웨이 “역시 가격 파괴자”](http://techholic.co.kr/archives/42673)
 * [자성유체로 만든 액체화면 시계](http://techholic.co.kr/archives/42060)
 * [시간 궁금하면…계산식 디지털시계](http://techholic.co.kr/archives/42158)
@@ -126,6 +125,10 @@ Product
 # Car
 * [자동차 필수 상비 용품 7가지와 활용법](http://ppss.kr/archives/50401)
 * [자동차 컵 홀더를 잇하게 만들어주는 5가지 아이템](http://www.earlyadopter.co.kr/59866)
+
+# Desk
+* [루나랩 수동 높이조절 책상 모션데스크 블랙 1200mm : LUNA LAB](https://lunalab.co.kr/desk/?idx=78)
+* [Refold - cardboard standing desk](http://www.refold.co/)
 
 # Drone
 * [방안에서 날아오르는 '미니 드론'·'RC헬기'가 있다?](http://underkg.co.kr/news/629432)
