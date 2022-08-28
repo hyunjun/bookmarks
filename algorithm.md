@@ -514,6 +514,7 @@ Algorithm
 * [위상 정렬 (topological sort)](https://www.youtube.com/watch?v=m-Z19d2uS0w)
   * [위상정렬.ipynb](https://github.com/minsuk-heo/coding_interview_kr/blob/master/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.ipynb)
 * [왜 위상 정렬을 이용하면 그래프 사이클이 있는지 판단할 수 있을까요?](https://codingdog.tistory.com/entry/%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%A9%B4-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%B4-%EC%9E%88%EB%8A%94%EC%A7%80-%ED%8C%90%EB%8B%A8%ED%95%A0%EA%B9%8C%EC%9A%94)
+* [Topological Sort | Graph Ordering Algorithm | Sorting | Graph Theory - YouTube](https://www.youtube.com/watch?v=leggLs1ZGPg)
 * [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
 * [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 * [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
