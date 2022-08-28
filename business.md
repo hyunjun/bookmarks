@@ -1370,6 +1370,7 @@ Business
 * [손에 잡히는 비전과 실행 , 스타트업 리더십은 더 구체적이어야 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10519/ac/search)
 * [CEO 심리학 일의 막판으로 갈수록…유능한 리더는 구체적, 무능한 리더는 채찍질](https://n.news.naver.com/mnews/hotissue/article/009/0004846479?cid=1064673)
 * [“진정성을 보여라, 너 자신이 되라”는 충고는 무시하자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255690)
+* [리더가 코딩을 배울 필요는 없지만, 리터러시는 필요하다](https://brunch.co.kr/@ccb89679260a48c/7)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
