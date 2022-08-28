@@ -509,6 +509,7 @@ AWS
 * [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
 * [Amazon Athena 및 Amazon QuickSight를 활용한 2백년간 글로벌 기후 데이터 시각화](https://aws.amazon.com/ko/blogs/korea/visualize-over-200-years-of-global-climate-data-using-amazon-athena-and-amazon-quicksight)
 * [AWS에서 데이터처리 맛보기 AWS S3, Athena, Quicksight](https://jen6.github.io/2019/07/aws-aws-s3-athena-quicksihtiaws.html)
+* [Amazon QuickSight, 세부적 시각 자료 임베딩 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-fine-grained-visual-embedding-powered-by-amazon-quicksight/)
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
@@ -845,6 +846,7 @@ AWS
 * [How To Launch EC2 Linux Instance in AWS Cloud | Ashok IT - YouTube](https://www.youtube.com/watch?v=uI2iDk8iTps)
 * [아마존 웹 서비스 EBS 용량 늘리기(EC2) 간단한 개념 | 웹으로 말하기](https://mytory.net/2022/08/15/extends-aws-storage.html)
 * [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
+* [Using AWS EC2 to Deploy NodeJS and MongoDB Application - codewithAzzan](https://codewithazzan.com/deploying-nodejs-application-on-aws-ec2/)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
@@ -1744,6 +1746,7 @@ AWS
 * [How to manage multiple environments with Terraform | by Yevgeniy Brikman | Aug, 2022 | Gruntwork](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
 * [Terraform - Part 15 - Basic Concept .. Discussion on Terraform Data Resource - YouTube](https://www.youtube.com/watch?v=SI3lGDdNglM)
 * [A guide to Cloud Cost Optimization with Terraform - Discover Better Value Faster](https://www.cloudnowtech.com/blog/a-guide-to-cloud-cost-optimization-with-terraform/)
+* [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
