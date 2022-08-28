@@ -321,6 +321,7 @@ Interview
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
+* [System Design: Fundamentals - by Ravi Tandon](https://ravisystemdesign.substack.com/p/system-design-fundamentals)
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
@@ -381,14 +382,20 @@ Interview
     * [System design architecture for hotel booking apps (Like Airbnb, OYO) | by Purnendu Kar | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
+    * [Interview Preparation: Designing An Auto-Complete Engine From Scratch](https://ravisystemdesign.substack.com/p/interview-preparation-designing-an)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
     * [System Design Analysis of Google Auto-Suggestion Service | by Ashis Chakraborty | codeburst](https://codeburst.io/system-design-analysis-for-auto-suggestion-service-d28bf1701658)
+  * Blockchain
+    * [Blockchain Fundamentals And Smart Contracts](https://ravisystemdesign.substack.com/p/blockchain-fundamentals-and-smart)
+    * [Proof-Of-Work: Bitcoin’s Consensus Algorithm](https://ravisystemdesign.substack.com/p/proof-of-work-bitcoins-consensus)
+    * [Bitcoin Fundamentals 3: Proof Of Stake - by Ravi Tandon](https://ravisystemdesign.substack.com/p/bitcoin-fundamentals-3-proof-of-stake)
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
       * cache policy; write through, write back, 문제점
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
     * [System Design: (Lecture -4): - What is Distributed Caching? Explained in Detailed - YouTube](https://www.youtube.com/watch?v=0dZgyW4zSts)
+    * [Interview Prep: Designing A Distributed Cache](https://ravisystemdesign.substack.com/p/interview-prep-designing-a-distributed)
     * [**Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem**](https://www.youtube.com/watch?v=l9JSK9OBzA4)
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
@@ -603,10 +610,12 @@ Interview
 * [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
 * [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
 * [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
+* [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
+* [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
