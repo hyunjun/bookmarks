@@ -857,6 +857,7 @@ App
   * [learn_vscode_shortcuts: Learn VSCode Shortcuts](https://github.com/nallwhy/learn_vscode_shortcuts)
   * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
+  * [VSCode와 GitHub. GitHub은 git repository들의 모임입니다. 자체적으로… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/vscode%EC%99%80-github-db05ca48bb9b)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
