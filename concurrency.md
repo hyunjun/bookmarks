@@ -24,6 +24,7 @@ Concurrency
 * [멀티코어 프로그래밍에서 흔히 발생하는 문제, 1부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-1%eb%b6%80/)
 * [멀티코어 프로그래밍에서 흔히 발생하는 문제, 2부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0-%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-2%eb%b6%80/)
 * [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
+* [백엔드 개발자들이 알아야할 동시성 5 — Continuation Passing Style | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-5-continuation-passing-style-5058ab5cb781)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
