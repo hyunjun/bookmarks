@@ -374,6 +374,7 @@ Git
 * [MLOps with Hugging Face Spaces, Gradio and Github Actions - YouTube](https://www.youtube.com/watch?v=VYSGjUa5sc4) Github Action기반으로 Hugging Face에 CD하는 MLOps tutorial
 * [Introduction to GitHub Actions | Workflow of GitHub Actions | GitHub Actions Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=67fvIzYqD_I)
 * [Auto Label in Issue · Actions · GitHub Marketplace](https://github.com/marketplace/actions/auto-label-in-issue)
+* [How to build Python Project using GitHub Actions | GitHub Actions CI/CD Pipeline for Python Project - YouTube](https://www.youtube.com/watch?v=PsO5dZqBckY)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
