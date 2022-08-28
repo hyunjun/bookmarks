@@ -63,6 +63,7 @@ Business
 * [Burnout Guide: Symptoms, Causes, and Prevention - Commoncog](https://commoncog.com/g/burnout/)
 * [Developers are burned out, quitting their jobs and creating a crisis for recruiters  - WorkLife](https://www.worklife.news/talent/developers-are-burned-out-quitting-their-jobs-and-creating-a-crisis-for-recruiters/)
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
+* [끝없는 애자일·디지털 변혁 등에 지쳤다면... '번아웃' 대처법 5가지 - CIO Korea](https://www.ciokorea.com/news/251392)
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
@@ -196,6 +197,20 @@ Business
   * [Yc 샘 알트만이 말하는 성공 방정식](https://sonujung.com/how-to-be-successful)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
+* [역사와 현실 경복궁 경회루와 구종직 설화 - 경향신문](https://www.khan.co.kr/opinion/column/article/202208250300025)
+  * 직접적인 이야기는 아니나 채용 뿐 아니라 조직 운영 관점에서 개인의 권한과 시스템 사이의 균형에 대해 생각해볼만한 이야기로 기록
+  * 이 글을 기록하는 시점(2022.08.29)에서 얼마전 소프트뱅크 손정의 회장의 막대한 손실 및 그 사과에 대한 이야기가 화제
+    * [1등 스타트업 모으던 손정의는 왜 반성문 써야했나 - 티타임즈](https://www.ttimes.co.kr/article/2022082617427723998)
+    * 막대한 손실을 기록해 그간의 이익을 모두 잃을 정도로 상황이 안 좋음 
+    * 도쿠가와 이에야스가 다케다 신겐에게 크게 지고 난 후 반성을 위해 그렸다는 그림을 걸고 사과
+    * 투자 방법의 문제: 분석이 아니라 손정의의 감으로 막대한 자금을 투자
+      * 2000년 알리바바 투자 당시 이름없던 영어교사 마윈에게 2천만달러 투자, 2014년 상장 당시 580억 달러
+      * 위워크 투자 시 아담 뉴면을 10분(15분?) 대면하고 한화 14조 투자(아랍의 비전펀드 투자자들이 부동산 임대회사에 불과하다고 반대했는데도 불구하고)
+    * 인재 보상 문제: 손정의 개인이 모든 투자 성공의 영광과 보상을 가져간다고 함
+      * VC도 당연히 좋은 인재가 필요
+      * 그러나 일반적인 VC와 달리 투자사가 exit을 할 때 그에 대한 보상이 없었다고 함
+      * 당연히 경영진급의 좋은 인재들이 퇴사하고 더 이상 리크루팅도 어려운 상황이라고 함
+      * 60세 당시 은퇴를 번복했던 게 악수였을까?
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
@@ -677,6 +692,7 @@ Business
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
+* [취업‧이직때 대박날 스타트업 고르는 법 - YouTube](https://www.youtube.com/watch?v=SuDldpt1Vlc)
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
@@ -700,6 +716,7 @@ Business
 * [링크드인 인재 트렌드 보고서 2022 총정리](https://brunch.co.kr/@nutilde/22)
 * [기획 MZ세대 리크루팅 전략 1 신입사원의 조기퇴사와 이탈 방지](https://blog.comento.kr/how-to-reduce-resign/)
 * [기획 MZ세대 리크루팅 전략 2 연령대별 지원자 타겟하기](https://blog.comento.kr/recruiting-sterategy-by-age-group/)
+* [월드클래스 채용팀이 역량 강화를 위해 참고하는 10가지 영업 조직의 운영 노하우 - Kimchi hill](https://kimchihill.com/2022/08/28/kr-10lessons-world-class-recruitingteam-learn-from-sales/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1911,6 +1928,7 @@ Business
 * [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
 * [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
 * [고령층 친화 디지털 접근성 표준(키오스크 적용가이드)](https://sdf.seoul.kr/research-report/1663)
+* [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
 * [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
 * [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
 * [유저리서치1 어떻게 시작해야 할까? | Disquiet\*](https://disquiet.io/@kim_saeu/makerlog/326)
