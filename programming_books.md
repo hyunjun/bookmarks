@@ -215,6 +215,7 @@ Programming Books
   * 한라, 탐라, 우당
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
+  * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
@@ -1487,6 +1488,8 @@ Programming Books
 * (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 입문편 · TheoryDB](https://theorydb.github.io/review/2021/03/02/review-book-python-game-low/)
 * (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 실전편 · TheoryDB](https://theorydb.github.io/review/2021/03/04/review-book-python-game-mid/)
 * (NOT YET) [피, 땀, 픽셀 - 트리플 A 게임은 어떻게 만들어지는가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1597)
+* (NOT YET) [피, 땀, 리셋 : 게임 개발 속 숨은 영웅들의 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9325418967)
+  * [게임산업 이면의 무자비한 이야기, 그리고 여운.. : 네이버블로그](https://blog.naver.com/drvoss/222860583517)
 
 # Git
 
@@ -2719,6 +2722,9 @@ Programming Books
   * 우당
 * (NOT YET) 나성호의 R 데이터 분석 입문 [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
 * (NOT YET) [혼자 공부하는 R 데이터 분석](https://jybaek.tistory.com/947)
+
+# Robot
+* [ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300466186)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
