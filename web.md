@@ -152,6 +152,7 @@ Web
 * [개알못인 당신이 웹개발을 시작한다면 (5)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-5-12b7d3e78264)
 * [Become a Full-Stack Web Developer](http://poiemaweb.com/)
 * [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+* [The Ultimate Guide On How To Become A Full Stack Web Developer](https://ishantchauhan.hashnode.dev/the-ultimate-guide-on-how-to-become-a-full-stack-web-developer)
 * [Guide to Web Application Development](https://medium.com/development-io/guide-to-web-application-development-23d958104f1c)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
@@ -704,6 +705,7 @@ Web
   * [Tailwind CSS의 설치와 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-06-05T00:00:00.000Z)
   * [react에서 tailwind 적용하기](https://blog.naver.com/pjt3591oo/222760623661)
   * [Let's create a link in bio with React.js (Next.js, Tailwind CSS, Sanity) - YouTube](https://www.youtube.com/watch?v=KicSDficynY)
+  * [Simple Responsive Navigation Menu with Tailwind CSS in ReactJS - YouTube](https://www.youtube.com/watch?v=k7LrSw_pl2g)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
@@ -1326,6 +1328,7 @@ Web
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
 * [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
 * [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
+* [SVG 애니메이션 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/893)
 * [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 
 # Test
