@@ -90,6 +90,7 @@ Linux
 * [Introduction | QEMU internals](https://airbus-seclab.github.io/qemu_blog/)
 * [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
 * [Running the Steam Deck’s OS in a virtual machine using QEMU | The world won't listen](https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/)
+* [Introduction to VirtIO](https://blogs.oracle.com/linux/post/introduction-to-virtio) with QEMU
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
