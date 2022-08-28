@@ -1944,6 +1944,7 @@ Java
 * [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
 * [Java Annotated Monthly – November 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/11/java-annotated-monthly-november-2020/)
 * [Java News Roundup: Jakarta EE 10 Core Profile, OpenJDK, Open Liberty, Payara, Groovy and Quarkus](https://www.infoq.com/news/2021/09/java-news-roundup-sep06-2021/)
+* [Don’t call it a comeback: Why Java is still champ](https://github.com/readme/featured/java-programming-language)
 
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
