@@ -299,7 +299,6 @@ Data Visualization
 * [파이썬 데이터 분석 범죄 데이터 실습](https://stricky.tistory.com/190)
 * [파이썬 인구 데이터 분석, 제주도엔 정말 여자가 더 많을까?](https://stricky.tistory.com/218)
 * [제주도에 정말 여자가 많을까? 2편, 파이썬 인구 데이터 분석](https://stricky.tistory.com/237)
-* [Dataprep.eda : Accelerate your EDA (EDA 자동화 패키지)](https://eda-ai-lab.tistory.com/484)
 * [MODUCON 2019 서울 생활인구 데이터 사용법 - 박지민](https://www.youtube.com/watch?v=smw_dKPm3ow)
 * [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 1부 (Python Data Analysis with COVID-19/Corona virus data in USA)](https://www.youtube.com/watch?v=FLLajW8MBm0)
 * [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 2/2 (Python Data Analysis with COVID-19/Corona virus data in USA 2/2)](https://www.youtube.com/watch?v=GIZOiNIpEO4)
@@ -354,6 +353,8 @@ Data Visualization
 * Datapane [Analyse in Python. Share with Datapane](https://datapane.com/)
   * [Introduction to Datapane: A Python Library to Build Interactive Reports | by Khuyen Tran | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
   * [How to Share your Python Objects Across Different Environments in One Line of Code | by Khuyen Tran | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-share-your-python-objects-across-different-environments-in-one-line-of-code-f30a25e5f50e)
+* [DataPrep——The easiest way to prepare data in Python](https://dataprep.ai/)
+  * [Dataprep.eda : Accelerate your EDA (EDA 자동화 패키지)](https://eda-ai-lab.tistory.com/484)
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a) 배달 루트 최적화
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
