@@ -138,6 +138,9 @@ Programming Books
 * [전길남, 연결의 탄생 : 한국 인터넷의 개척자 전길남 이야기 - 컨슈머타임스(Consumertimes)](http://www.cstimes.com/news/articleView.html?idxno=499975)
   * 탐라 문004.099-구45ㅈ
   * ★★★★☆ 2022.08.03~05
+  * [전길남, 연결의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/birth_of_connection.md)
+  * [전길남, 연결의 탄생. ‘전길남, 연결의 탄생’ 구본권 저자와의 만남 — YouTube | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%A0%84%EA%B8%B8%EB%82%A8-%EC%97%B0%EA%B2%B0%EC%9D%98-%ED%83%84%EC%83%9D-77789bec0763)
+  * [전길남, 연결의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%84%EA%B8%B8%EB%82%A8-%EC%97%B0%EA%B2%B0%EC%9D%98-%ED%83%84%EC%83%9D)
 * 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
   * 한라 530-김74ㄱ 탐라 문504-김73ㄱ 우당 문320.911-김73ㄱ
   * ★★★☆☆ 2022.07.06
