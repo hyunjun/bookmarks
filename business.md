@@ -674,6 +674,7 @@ Business
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
 * [당신 조직에 제대로 된 팀원이 없는 이유](https://brunch.co.kr/@1312capo/53)
 * [2015 나는 프로그래머다 컨퍼런스 (6) 정개발 - 슬램덩크에게서 배우는 개발팀 빌딩전략](https://www.slideshare.net/iamprogrammerofficial/2015-6-54991145)
+* [MBTI가 I로 시작하는 팀장의 팀빌딩](https://brunch.co.kr/@zseo/50)
 * [화제의 삼프로TV 대표 “후보 철학 깊이 알려면 끝을 봐야”](https://www.mediatoday.co.kr/news/articleView.html?idxno=301417) 직접 관련된 내용은 아니나 깊이있게 알려면 답변에 대해 계속 질문해서 끝을 봐야 한다는 점에 동감
 * [채용에 대해](https://www.thestartupbible.com/2022/01/hire-as-if-today-is-your-last-day.html) 이렇게까지 해야 하나 싶을 정도로 절박하게 하라는 이야기
 * [채용이 곧 회사의 수준입니다 | RBBM](https://www.redbusbagman.com/recruiting/)
@@ -1014,6 +1015,7 @@ Business
 * [전 웨이브 CTO, 아마존코리아 이사, 34년 경력의 개발자가 세특에 합류한 이유: 세탁특공대 CTO 필릭스 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254169)
 * [기고 | 개발·전략 모두 하는 새로운 길··· ‘코딩 리더’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/238439)
 * [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
+* [CTO와 그냥 개발자의 차이](https://brunch.co.kr/@graypool/551)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1907,6 +1909,7 @@ Business
   * UX 문구에 관해서 좋은 지표를 만들기 위해 사용자에게 불편함을 주는 다크 패턴이나 컴펌 쉐이밍(Confirm shaming)을 다룬 글
   * 컴펌 쉐이밍은 서비스가 원하는 액션을 수행하지 않을 때 사용자가 불안감이나 수치심을 느끼는 "혜택을 포기할래요"나 "비싸게 구매하기" 같은 문구
   * 이러한 접근은 지표는 오를지 몰라도 사용자에게 안 좋은 경험을 주기 때문에 서비스 자체에 대한 불신을 주어서 안 좋다
+* [화이트 넛지가 새로운 UX 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/162)
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
 * ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)
 * [프로덕트 디자인 in 스타트업](https://sonujung.com/product-design-in-startup)
