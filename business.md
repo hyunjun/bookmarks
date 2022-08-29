@@ -841,6 +841,7 @@ Business
     * 회사는 즉각적인 피드백을 얻고 외부에도 좋은 인상
   * 그동안의 인터뷰 영상과 진행 방식, 비용 처리 등 아주 자세히 나와 있음
     * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘 
+* [스타트업 대표는 외롭다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/191668)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
