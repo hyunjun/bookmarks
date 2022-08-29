@@ -168,6 +168,13 @@ Vision
 * [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](http://arxiv.org/abs/1604.00449)
   * [3D-R2N2: 3D Recurrent Reconstruction Neural Network](https://github.com/chrischoy/3D-R2N2)
 * [FACE DETECTION BY LITERATURE](http://www.erogol.com/face-detection-networks-literature/)
+* [How to visualize data with cartoonish faces ala Chernoff | FlowingData](https://flowingdata.com/2010/08/31/how-to-visualize-data-with-cartoonish-faces/)
+  * 혹시 시각화 종류 중 하나 '체르노프 얼굴(Chernoff Face)'
+    * 얼굴의 가로 너비, 세로 높이, 눈, 코, 입, 귀 등 각 부위를 변수로 대체하여 데이터의 속성을 쉽게 파악할 수 있도록 하기 위해 만들어진 시각화
+  * 다변량 변수의 속성값들을 표에 나오는 것처럼 15가지의 얼굴의 생김새(얼굴 높이, 얼굴 넓이, 입 높이, 입 넓이...등) 특성에 매핑해서 얼굴 모양이 달라지게 하는 방식
+  * 이러한 방식 덕분에 체르노프 얼굴그림은 얼굴 모양을 가지고 다양한 데이터 관측치들의 특성을 직관적으로 파악할 수 있다는 장점
+  * 다만, 각 변수가 얼굴 모양의 어느 특성에 매핑이 되었는지를 확인하고자 한다면 레이터 차트나 별그림, 평행좌표그림 등에 비해 불편
+  * 그래도 다변량 데이터를 신속하게, 직관적으로 탐색적분석 하는 용도로는 알맞은 듯
 * [Can you solve a person detection task in 10 minutes?](https://hackernoon.com/can-you-solve-a-person-detection-task-in-10-minutes-74fba061194c)
 * [Amenity Detection and Beyond — New Frontiers of Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
 * [Segmenting and refining images with SharpMask](https://code.facebook.com/posts/561187904071636)
