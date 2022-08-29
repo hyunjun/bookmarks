@@ -279,6 +279,7 @@ NoSQL
   * [구글의 GCP와 Firebase. 흔히 3대 클라우드를 AWS, 구글, Azure라고 합니다. AWS는… | by 이상선 | Jul, 2022 | Medium](https://medium.com/@sunyi233/%EA%B5%AC%EA%B8%80%EC%9D%98-gpc%EC%99%80-firebase-99210cec003d)
   * [insert data in firebase react 🔥🔥 #reactjs - YouTube](https://www.youtube.com/watch?v=dvF-_79c6VI)
   * [Implementing Authentication in Next.js with Firebase and React](https://morioh.com/p/5b840786d261)
+  * [하루만에 포트폴리오 끝내기 React + Firebase 왕초보 40분 완성 - 체크리스트 (Todo list) 만들기 - 프론트 + 백엔드 + 유저 로그인 - YouTube](https://www.youtube.com/watch?v=Y2qlUkRlGyU)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
