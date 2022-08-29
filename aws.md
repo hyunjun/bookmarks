@@ -1808,6 +1808,7 @@ AWS
 * [AWS VPC 개념 씹어먹고 상위 1% 연봉 개발자되기 | 이론 002-2001 CHAPTER 1 BY YUNDREAM - YouTube](https://www.youtube.com/watch?v=3XdcU6JIro4)
 * [AWS ACCOUNT 등록 이제 클라우드 전문가 세계로 | 쇼타임 001-200A APPENDIX 1 BY YUNDREAM - YouTube](https://www.youtube.com/watch?v=MXIUL9v23wA)
 * [AWS Cheat Sheet - VPC](https://www.joinc.co.kr/w/aws_cheat_sheet_vpc)
+* [Learning and Hacking VPC JOINC EDU](https://www.joinc.co.kr/w/Learning-and-Hacking-VPC/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
