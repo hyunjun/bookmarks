@@ -154,6 +154,7 @@ Web
 * [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 * [The Ultimate Guide On How To Become A Full Stack Web Developer](https://ishantchauhan.hashnode.dev/the-ultimate-guide-on-how-to-become-a-full-stack-web-developer)
 * [Guide to Web Application Development](https://medium.com/development-io/guide-to-web-application-development-23d958104f1c)
+* [The Evolution of the Modern Web Application Development | by Fernando Doglio | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/the-evolution-of-the-modern-web-application-development-18aa95b7c1a)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 * [Static vs Dynamic Website — What’s the Difference in 2019?](https://hackernoon.com/static-vs-dynamic-website-whats-the-difference-in-2019-327064bfd4a9)
