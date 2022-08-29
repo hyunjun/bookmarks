@@ -875,6 +875,7 @@ Book
   * 2010.05.10~13
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
   * 한라 236.911-김78ㄱ, 우당 문236.911-김79ㄱ
+* (NOT YET) 한국전쟁과 기독교 [한국 기독교, 어떻게 '기득권 종교'가 되었나](https://v.daum.net/v/20151128144402501)
 
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
