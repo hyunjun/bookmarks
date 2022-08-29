@@ -664,6 +664,7 @@ Web
   * 기존 개념이나 방법과 충돌하기도 하고 달라지기도 했기 때문에 CSS의 역사를 통해서 어떻게 발전해 왔는지를 정리한 글
   * CSS가 만들어진 90년대부터 현재 최신 트랜드까지 깔끔하게 잘 정리되어 있고 관련 링크도 정리해 주어서 더 관심 있다면 자세히 보면서 흐름을 이해 가능
 * [Responsive Personal Portfolio Website Using HTML CSS And JavaScript - YouTube](https://www.youtube.com/watch?v=Uu8MJhtbQnY)
+* [Responsive Movies Website Design In HTML CSS & JavaScript](https://morioh.com/p/c4b90babfdfe)
 * [CSS { In Real Life } | Aspect Ratio is Great](https://css-irl.info/aspect-ratio-is-great/)
   * 선호하는 비율을 지정하는 aspect-ratio가 대부분의 브라우저에서 지원되어 이제 쓸 수 있고 장점이 많다는 이야기
   * 이전에는 요소의 비율을 맞추려면 padding hack을 써서 비율을 강제로 설정
