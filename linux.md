@@ -149,6 +149,7 @@ Linux
 * [뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 - 넷마블 기술 블로그](https://netmarble.engineering/protect-root-account-at-linux/)
 * [알리바바가 외친 “열려라 참깨”에는 열리지 않는 문 - 넷마블 기술 블로그](https://netmarble.engineering/optimize-linux-account-and-password/) 계정
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
+* [etc 디렉터리에 있는 소중한 아이들 - 넷마블 기술 블로그](https://netmarble.engineering/watch-out-important-files-in-etc-directory/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
