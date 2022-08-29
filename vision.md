@@ -462,6 +462,7 @@ Vision
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [labelImg: 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images](https://github.com/tzutalin/labelImg)
+  * [MS-DAYOLO: Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection](https://github.com/Mazin-Hnewa/MS-DAYOLO)
   * [tfjs-yolo: YOLO v3 and Tiny YOLO v1, v2, v3 with Tensorflow.js](https://github.com/shaqian/tfjs-yolo)
   * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
   * v2
