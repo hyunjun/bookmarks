@@ -319,7 +319,7 @@ ElasticSearch - Lucene
 * [How to monitor Spring Boot Microservices using ELK Stack? | Making Java easy to learn](https://javatechonline.com/how-to-monitor-spring-boot-microservices-using-elk-stack)
 * [컴퓨터 vs 책: 알도개 엘라스틱 스택과 ELK 의의](https://jhrogue.blogspot.com/2021/08/elk.html)
   * [알도개 엘라스틱 스택과 ELK 의의 - YouTube](https://www.youtube.com/watch?v=1x59QE2YS4E)
-* [Elastic Security - 내부 정보 유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
+* [Elastic Security - 내부정보유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
 * [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) es가 아니라 search 일반
 * [제가 등록한 물건이 보이지 않아요: 텀분절. 검색 서비스를 운영하다보면 등록한 게시글이 검색 결과에 보이지 않는다는… | by Jukyoung LEE | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EC%A0%9C%EA%B0%80-%EB%93%B1%EB%A1%9D%ED%95%9C-%EB%AC%BC%EA%B1%B4%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-%ED%85%80%EB%B6%84%EC%A0%88-30117c95c5fc)
 * [Hot-Warm Architecture in Elasticsearch 1/n | CODER SITE for developers](https://codersite.dev/hot-warm-architecture-elasticsearch/)
@@ -344,6 +344,7 @@ ElasticSearch - Lucene
 * [Expert Elasticsearch 8.2 설치. Startup Elasticsearch 8.2.2, Single… | by HAJI | Jul, 2022 | Medium](https://hajix.medium.com/elasticsearch-8-2-%EC%84%A4%EC%B9%98-1c4149b92b3b)
   * [AWS Architecture for ELK - HAJI - Medium](https://hajix.medium.com/aws-architecture-for-elk-3a07af5876e7)
 * [5 Best Elastic Search Courses for Beginners to Learn Kibna, Logstash and ELK Stack in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/5-best-elastic-search-courses-for-beginners-to-learn-kibna-logstash-and-elk-stack-in-2022-eb3e1e0015c4)
+* [ELK Session 1 : Centralise Logging with ELK in Just 15 Minutes #Devops #Docker #Kubernetes - YouTube](https://www.youtube.com/watch?v=QvXzhDiDJz4)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
