@@ -2196,6 +2196,9 @@ Programming Books
 * [리더의 오판](https://blog.naver.com/hrk007/222289614410)
   * ★★★★☆ 2022.08.24
   * 한라 325.24-유95ㄹ 탐라 문325.24-유96ㄹ
+  * [A LEADER'S MISJUDGMENTS 리더의 오판](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leaders_misjudgements.md)
+  * [A LEADER’S MISJUDGMENTS 리더의 오판. “리더가 가장 잘해야 하는 일 중 하나가 자신이 틀렸다는 것을… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8-%EC%99%9C-%EB%98%91%EB%98%91%ED%95%9C-%EB%A6%AC%EB%8D%94%EB%93%A4%EC%9D%B4-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9D%84-%ED%95%A0%EA%B9%8C-c30a5ecc8d03)
+  * [A LEADER'S MISJUDGMENTS 리더의 오판](https://jh4hj.tistory.com/entry/A-LEADERS-MISJUDGMENTS-%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%98%A4%ED%8C%90)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
