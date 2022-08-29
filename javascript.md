@@ -2820,9 +2820,10 @@ Javascript
 * [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
 * [14 Most Useful NodeJS Libraries in 2020](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
 * [Logging Solutions for Node.js. Recommended Logging Solutions for your… | by Nipuni Arunodi | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/logging-solutions-for-node-js-964487f169ea)
-* AdonisJS
+* [AdonisJS - A fully featured web framework for Node.js](https://adonisjs.com/)
   * [Node.js 웹 프레임워크 ‘AdonisJS’](https://medium.com/@larkbless/node-js%EC%9D%98-%EB%9D%BC%EB%9D%BC%EB%B2%A8-adonisjs-d9ef209ade9c)
   * [AdonisJS - Node.js용 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=4768)
+  * [AWS Lambda에 Adonis 배포하기](https://velog.io/@grotesq/AWS-Lambda%EC%97%90-Adonis-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * axios
   * [client 인증(Athentication) & 인가(Ahtuorization) handler 구현 - 클라이언트편](https://blog.naver.com/pjt3591oo/222121552945)
   * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
