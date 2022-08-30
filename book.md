@@ -625,6 +625,12 @@ Book
 * [도시로 보는 동남아시아사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290967565)
   * ★★★☆☆ 2022.08.25
   * 한라 914-강97ㄷ 탐라 문914-강98ㄷ 우당 문914-강98ㄷ
+* [자본가의 탄생](https://blog.naver.com/hikaru25/221598231696)
+  * ★★★☆☆ ~2022.08.30
+  * 한라 327.099-스882ㅈ 탐라 문327.099-스831ㅈ
+  * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://github.com/hyunjun/bookmarks/blob/master/books/jacob_fugger.md)
+  * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-the-life-and-times-of-jaco-fuger-the-richest-man-who-ever-lived-844225ae3fcd)
+  * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-The-Life-and-Times-of-JACO-FUGER-THE-RICHEST-MAN-WHO-EVER-LIVED)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
