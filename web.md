@@ -709,6 +709,7 @@ Web
   * [Let's create a link in bio with React.js (Next.js, Tailwind CSS, Sanity) - YouTube](https://www.youtube.com/watch?v=KicSDficynY)
   * [Simple Responsive Navigation Menu with Tailwind CSS in ReactJS - YouTube](https://www.youtube.com/watch?v=k7LrSw_pl2g)
   * [Responsive Navbar Menu in React with Tailwind CSS and NextJS](https://morioh.com/p/861d59a7c6c2)
+  * [A Customizable Next.js and Tailwind Blog Starter](https://morioh.com/p/38f8f7b37164)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
