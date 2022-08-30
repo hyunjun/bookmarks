@@ -1870,6 +1870,7 @@ Business
 * [진짜 Zero to One 시작부터 Global DNA](https://brunch.co.kr/@powervision/44)
 * [(d·camp x 분당서울대학교병원) 스타트업 창업자 정신건강 실태조사 보고서 발간 | D.CAMP](https://dcamp.kr/node/460)
 * ['10만 다운' 대박 앱 만들고도 '폐업'..스타트업 망하는 4가지 이유](https://news.v.daum.net/v/20220820090004009)
+* [투자자에게 스타트업 아이디어를 한 줄로 설명하는 방법](https://www.slid.cc/share/vdocs/%ED%88%AC%EC%9E%90%EC%9E%90%EC%97%90%EA%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-32edc42f45cb42b3a434eaf506ce1ce3)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
