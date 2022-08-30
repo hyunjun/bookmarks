@@ -2202,6 +2202,7 @@ Javascript
   * [Three.js와 WebXR 몰입형 웹 경험의 랜더링. 인텔오픈소스 그룹에서 Three.js와 WebXR의 랜더링 아키텍처에… | by BELIVVR | BELIVVR | Oct, 2021 | Medium](https://medium.com/belivvr/three-js%EC%99%80-webxr-%EB%AA%B0%EC%9E%85%ED%98%95-%EC%9B%B9-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%9E%9C%EB%8D%94%EB%A7%81-b2e7b6af9dda)
   * [three.js examples](https://threejs.org/examples/)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
+* [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
   * [ui.toast.com/weekly-pick/ko](https://ui.toast.com/weekly-pick/ko/)
@@ -3913,6 +3914,7 @@ Javascript
 * [React Tutorial Project 2022 - How To Use Axios With React Hooks 2022 - YouTube](https://www.youtube.com/watch?v=9L3aEMBzmwk)
 * [How to test onClick on ReactJs Hooks - YouTube](https://www.youtube.com/watch?v=l4W62TewkQc)
 * [Simple TypeWriter Effect in react js | Typewriting effect react hook | simple typewriting react - YouTube](https://www.youtube.com/watch?v=73XsuajJOkU)
+* [A Tiny Router for Modern React and Preact Apps That Relies on Hooks](https://morioh.com/p/6b186a8c794f)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
