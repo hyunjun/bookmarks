@@ -202,6 +202,7 @@ Vim
 * [Learn Vim the Simple Way](https://www.vimified.com/)
 * [간단한 16진수 변환기를 만들고 vim에서 사용하기 - YouTube](https://www.youtube.com/watch?v=oa8lc6qOo5A)
 * [John Carmack: Best programming setup and IDE | Lex Fridman Podcast Clips - YouTube](https://www.youtube.com/watch?v=tzr7hRXcwkw)
+* [Vim 제대로 가르쳐 줌 🤓 (개발자라면 한번쯤 꼭 쓴다는 Vim) - YouTube](https://www.youtube.com/watch?v=cY0JxzENBJg)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
