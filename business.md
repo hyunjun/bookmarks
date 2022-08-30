@@ -330,6 +330,7 @@ Business
 * ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
 * [Amazon과 Apple의 문화 차이. 글로벌 공룡으로 불리우는 두 A사. 리딩 기업으로 혁신의 아이콘… | by KyungHeon Kim | Medium](https://medium.com/@kyungheonkim/amazon%EA%B3%BC-apple%EC%9D%98-%EB%AC%B8%ED%99%94-%EC%B0%A8%EC%9D%B4-b8514e615145) 조직 문화
 * [Creating High Performance Culture | Patty McCord | Talks at Google - YouTube](https://www.youtube.com/watch?v=thzDy5A-KfE) 조직 문화
+* [조직 문화는 그 스타트업의 세계관을 의미한다](https://www.slid.cc/share/vdocs/%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94%EB%8A%94-%EA%B7%B8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%84-%EC%9D%98%EB%AF%B8%ED%95%9C%EB%8B%A4-006bc32a3d264887b671da4ad3151f92)
 * [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [무엇이 직원의 애사심을 만드는가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/254153) 만족도
