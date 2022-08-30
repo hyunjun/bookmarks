@@ -2288,6 +2288,7 @@ Javascript
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884)
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804) 모노레포에 사용할 수 있는 도구인 Yarn(v1, v2), Lerna, Nx, Turborepo의 사용법, 특징, 차이점 설명
 * [궁극의 JavaScript 모노레포 설정 - fromundefined by Tony](https://fromundefined.com/posts/2022-08-ultimate-monorepo/) lerna yarn workspace ultra runner
+* ['모노레포' 태그의 글 목록](https://yeoulcoding.me/tag/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
