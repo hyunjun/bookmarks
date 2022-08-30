@@ -645,6 +645,7 @@ Javascript
 * [Create a MERN Stack App with a Serverless Backend](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
 * [How to learn MERN Stack in 2022? Books, Courses, and Projects | by javinpaul | Javarevisited | Jun, 2022 | Medium](https://medium.com/javarevisited/how-to-learn-mern-stack-from-scratch-1784618eaffa)
 * [MERN Stack | Build a Food Ordering App using MERN Stack](https://morioh.com/p/11dd76507d5d)
+* [How to Authenticate user by using MERN STACK | MERN Stack Tutorial](https://morioh.com/p/e7fecd9bf1ce)
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
