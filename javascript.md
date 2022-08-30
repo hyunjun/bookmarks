@@ -1825,10 +1825,6 @@ Javascript
 * [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
 * [hyperid: Uber-fast unique id generation, for Node.js and the browser](https://github.com/mcollina/hyperid)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
-* [immer: Create the next immutable state by mutating the current one](https://github.com/immerjs/immer)
-  * [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
-  * [불변 객체와 immer : NHN Cloud Meetup](https://meetup.toast.com/posts/327)
-* [immutable-js: Immutable persistent data collections for Javascript which increase efficiency and simplicity](https://github.com/immutable-js/immutable-js)
 * [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * inferno.js
   * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
