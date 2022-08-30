@@ -2700,6 +2700,7 @@ Programming
 * [Deploying or upgrading services](https://www.linkedin.com/posts/alex-xu-a8131b11_systemdesign-coding-interviewtips-activity-6922208134409179136-J2XQ/)
 * [배포 전략: Rolling, Blue/Green, Canary](https://onlywis.tistory.com/10)
 * [카나리 테스트와 함께하는 안전한 서버 배포 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2021/04/canary/)
+* [**무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)**](https://hudi.blog/zero-downtime-deployment/) 그림으로 잘 표현
 * [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
 * [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 * [개발 (CODING) 하는 회사에서 제일 기본적으로 갖추어져야 하는것 1 - 릴리스 파이프라인 (Release Pipeline)](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EA%B0%9C%EB%B0%9C-coding-%ED%95%98%EB%8A%94-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A0%9C%EC%9D%BC-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83-1-%EB%A6%B4%EB%A6%AC%EC%8A%A4-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-release-pipeline/10156481526308462)
