@@ -4751,6 +4751,8 @@ Python
 * [How to DeDuplicate in Python using Hashing Technique - YouTube](https://www.youtube.com/watch?v=C5SS8ftNxPc)
 * [나도 판다스 오픈소스 기여자?! - YouTube](https://www.youtube.com/watch?v=Oj2u7SN7-Bk)
 * [Loading Data into Pandas: 5 Tips and Tricks You May or May Not Know](https://dataground.io/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/)
+* [파일 용량을 1/10 로 줄이는 방법?! pandas 로 parquet 파일 포맷 다루기 - YouTube](https://www.youtube.com/watch?v=dPsHFI11EfE)
+  * [Development update: High speed Apache Parquet in Python with Apache Arrow - Wes McKinney](https://wesmckinney.com/blog/python-parquet-update/)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
