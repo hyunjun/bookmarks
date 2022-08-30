@@ -19,6 +19,7 @@ Json
 * [json포맷을 다양한 다른 포맷으로 변경할 수](https://open-support.tistory.com/entry/json%ED%8F%AC%EB%A7%B7%EC%9D%84-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%EB%A7%B7%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98)
 * [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [JSON이란 무엇인가?](https://velog.io/@surim014/JSON%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [JSON Editor | A Web-Based Tool to View, Edit, Format, and Validate JSON](https://morioh.com/p/159b63572594)
 
 # C++
 * [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
