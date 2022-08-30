@@ -5,6 +5,7 @@ Business
 * [위대한 제품의 특성](http://www.andrewahn.co/product/great-products/)
 * [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
 * [Agile Otter Blog: Maximize Value, not Quantity](http://agileotter.blogspot.com/2022/02/maximize-value-not-quantity.html)
+* [회사에서 일이 안 될 때 보기 좋은 블로그 10곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255111) startup & product 관련
 * [Known vs Unknown Product Framework | by Gustavo Guiomar | Medium](https://guguiomar.medium.com/known-vs-unknown-framework-5808cb66f219)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
