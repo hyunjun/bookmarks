@@ -320,6 +320,7 @@ Interview
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
+* [System Design Practice Problems | LeetDesign](https://leetdesign.com/)
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
 * [System Design: Fundamentals - by Ravi Tandon](https://ravisystemdesign.substack.com/p/system-design-fundamentals)
 * [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
