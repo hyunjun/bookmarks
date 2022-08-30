@@ -2815,6 +2815,7 @@ Javascript
 * [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
 * [Payment Gateway integration | NodeJs | ReactJs | Razorpay 🔥🔥 - YouTube](https://www.youtube.com/watch?v=NrzthCtKCho)
 * [Node-2fa | How to Two-Factor Authentication with Node.js](https://morioh.com/p/81134f3f2f4e)
+* [When Should You Scale a Node.js App? | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/when-to-scale-a-node-js-app-44d2e34e5ab0)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
