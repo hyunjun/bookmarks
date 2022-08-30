@@ -1485,6 +1485,7 @@ Javascript
   * [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
   * [Node.js/TypeScript용 ORM Prisma 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1614)
   * [Benchmark: Prisma VS TypeORM - DEV Community](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
+  * [Prisma 클라이언트 설정 파악하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1617)
 * Relay
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
