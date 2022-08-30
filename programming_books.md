@@ -1140,6 +1140,7 @@ Programming Books
   * 탐라 문004.73-탓52ㄱ
 * (NOT YET) [XGBoost와 사이킷런을 활용한 그레이디언트 부스팅](https://hanbit.co.kr/store/books/look.php?p_code=B5725043400)
   * 우당 문004.73-웨69ㅇ
+* (NOT YET) [파이썬을 활용한 머신러닝 자동화 시스템 구축 | 위키북스](https://wikibook.co.kr/automl/)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
