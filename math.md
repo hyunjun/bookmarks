@@ -350,6 +350,7 @@ Math
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
 * [Software Carpentry: 기호 수학(Symbolic Math)](https://statkclee.github.io/symbolic-math/)
 * [T>T: When Double Precision is Not Enough | Dr Adam Luke Baskerville](https://adambaskerville.github.io/posts/LespEigenvalues/)
+* [한 점이 다각형 내부에 위치하는지 판별하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/py-polygon01/#)
 * [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 
 # Set
