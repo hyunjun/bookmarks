@@ -1270,6 +1270,7 @@ AWS
 * [Deploy a Complete AWS Serverless Stack using Go Programming Language](https://morioh.com/p/1a29e996d5e3)
 * [AWS Lambda](https://www.tech3code.com/2022/02/aws-lambda-in-recent-years-aws-lambda.html)
 * [Getting Started with AWS Lambda and Go](https://morioh.com/p/c4afa757f234)
+* [AWS Lambda Project Structure Using Go (Golang)](https://morioh.com/p/c36859a368ba)
 
 ## Lambda Java
 * [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
