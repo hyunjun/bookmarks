@@ -618,7 +618,6 @@ Go
 * [doggo: Command-line DNS Client for Humans. Written in Golang](https://github.com/mr-karan/doggo)
 * dqlite
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
-* [echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
@@ -792,7 +791,6 @@ Go
 * [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
-* [Stout - a deploy tool for static websites](http://stout.is/)
 * [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
 * [sup - a simple deployment tool that performs given set of commands on multiple hosts in parallel](https://github.com/pressly/sup)
 * [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)
@@ -1042,7 +1040,9 @@ Go
 * [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
   * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
   * [Introducing Caddy-SSH | Caffeinated Wonders](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)
-* [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
+* [Echo - High performance, minimalist Go web framework](https://echo.labstack.com/)
+  * [echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
+  * [Create a Simple To-Do App With Go, Echo and Vue.js](https://morioh.com/p/7f21e9e5c06a)
 * [fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
   * [📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers - DEV Community](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
   * [Building APIs in Go beyond Hello World | by Oliver Mascarenhas | Code Uncomplicated | Jan, 2022 | Medium](https://medium.com/code-uncomplicated/building-apis-in-go-beyond-hello-world-5d501d6403de)
@@ -1067,6 +1067,7 @@ Go
   * [Pglet - 백엔드 개발자를 위한 Web UI 프레임워크 | GeekNews](https://news.hada.io/topic?id=5467)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
+* [Stout - a deploy tool for static websites](http://stout.is/)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
 * [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
 
