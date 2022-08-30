@@ -483,6 +483,7 @@ Business
 * [스킬맵 : 나는 팀에 어떤 도움이 될 수 있을까 ?](https://brunch.co.kr/@pletalk/24)
 * [Do You Think Like a Lawyer, a Scientist, or an Engineer?](https://www.infoq.com/articles/think-lawyer-scientist-engineer/) OODA Observe, Orient, Decide, Act
 * [The Best Engineers Think Like Investors, Not Builders | by Michael Lin | Jul, 2022 | Level Up Coding](https://levelup.gitconnected.com/the-best-engineers-think-like-investors-not-builders-cf005e75ab80)
+* [피드백, Payoff 그리고 적절함](https://brunch.co.kr/@graypool/553) 윗 글과 연결되 운영상 문제를 해결하는게 중요함을 이야기하는 글
 * [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
 * [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
