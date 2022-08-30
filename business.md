@@ -728,6 +728,7 @@ Business
 * [카카오의 Data는 어떻게 다를까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-data/)
 * [카카오의 Server 개발자가 된다면? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-server/)
 * [Client 기술, 어떤 직무가 나에게 딱 맞을까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-client/)
+* [서버와 계정계를 잇는 뱅킹API 개발자 이야기](https://brunch.co.kr/@kakaobankplus/28) 카카오뱅크
 
 ## 채용 onboarding
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
