@@ -1000,6 +1000,7 @@ Programming
 * MVVM
   * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
   * [MVVM 아키텍처 패턴 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
+* [**프론트엔드 아키텍처의 가장 최근 트렌드는? | 요즘IT**](https://yozm.wishket.com/magazine/detail/1663/)
 * [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
@@ -1463,6 +1464,7 @@ Programming
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 * [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
 * [Database Driven Development에서 진짜 DDD로의 선회, 이벤트 스토밍 -2-](https://helloworld.kurly.com/blog/event-storming/)
+* [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?. 타이어 커머스 서비스 이벤트 스토밍 적용기 | by 김승수 | 오토피디아 | Aug, 2022 | Medium](https://medium.com/autopedia/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%B0%8D-%ED%9B%84%EA%B8%B0-cb01794bff9f)
 * [**DDD와 MSA 기반으로 좋은 서비스 개발하기 - 컬리 기술 블로그**](https://helloworld.kurly.com/blog/ddd-msa-service-development/)
 * [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
