@@ -464,6 +464,7 @@ PyTorch
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
+* [Easy Object Detection with Transformers: Simple Implementation of… – Towards AI](https://towardsai.net/p/l/easy-object-detection-with-transformers-simple-implementation-of-pix2seq-model-in-pytorch)
 * [3detr: Code & Models for 3DETR - an End-to-end transformer model for 3D object detection](https://github.com/facebookresearch/3detr)
   * [3D object detection in the real world | by Jan Van Looy | ML6team](https://blog.ml6.eu/3d-object-detection-in-the-real-world-6368bdbbdc0b)
 * [Accelerate — accelerate documentation](https://huggingface.co/docs/accelerate)
