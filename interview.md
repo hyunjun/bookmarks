@@ -776,6 +776,7 @@ Interview
 * [solved.ac - 문제](https://solved.ac/problems/level)
 * [SWE Careers Mock Interviews](https://www.swecareers.com/mock-interviews)
 * [swexpertacademy.com](https://www.swexpertacademy.com)
+* [System Design Simplified | Gaurav Sen](https://get.interviewready.io/)
 * [talview.com](https://www.talview.com/)
 * [testdome.com](https://www.testdome.com/)
 * [topcoder](http://www.topcoder.com/)
