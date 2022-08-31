@@ -3502,6 +3502,7 @@ Python
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
+    * [Faster CPython, 어떻게 더 빨라졌을까? | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=KSNIslmwPyI)
   * [FasterCPythonDark.pdf at main · faster-cpython/ideas](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
