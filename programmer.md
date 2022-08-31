@@ -186,6 +186,7 @@ Programmer
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
 * [Why You Should Build a “Career Portfolio” (Not a “Career Path”)](https://hbr.org/2021/10/why-you-should-build-a-career-portfolio-not-a-career-path)
 * [Curated paths for developers | pathify](https://pathify.dev/)
+* [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
