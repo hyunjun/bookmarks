@@ -1457,6 +1457,8 @@ Web
     * 최근 PageSpeed Insights의 UI를 개편하면서 개선한 내용 설명
     * 성능의 필드 데이터와 실험실 데이터를 명확히 이해할 수 있도록 구분해서 보여주고 모바일/데스크톱의 성능을 구분해서 보여주는 UI 등이 변경
 * [the-benchmarker/web-frameworks: Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
+* [ttvc: Measure Visually Complete metrics in real time](https://github.com/dropbox/ttvc)
+  * [We’re using TTVC to measure performance on the web—and now you can too - Dropbox](https://dropbox.tech/frontend/measuring-ttvc-web-performance-metric-open-source-library)
 * [webhint, the hinting engine for web best practices](https://webhint.io/)
   * [WebHint - 웹사이트 개선을 위한 도구 | GeekNews](https://news.hada.io/topic?id=4480)
 * [Web Vitals](https://web.dev/vitals/)
