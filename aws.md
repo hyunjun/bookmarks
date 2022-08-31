@@ -312,6 +312,7 @@ AWS
 * [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
 * [AWS GLUE Serverless PySpark](https://velog.io/@hsh/AWSGLUE-Serverless-Spark/)
 * [Apache Iceberg Connector for AWS Glue를 이용하여 데이터레이크 CRUD 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/transactional-datalake-using-apache-iceberg-connector-for-aws-glue/)
+* [Simplify Snowflake data loading and processing with AWS Glue DataBrew | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/simplify-snowflake-data-loading-and-processing-with-aws-glue-databrew/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
