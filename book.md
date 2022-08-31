@@ -615,6 +615,9 @@ Book
 * 바다 인류 ["바다는 검푸른 장벽 아닌 인류 역사 발전 원동력" - 매일경제](https://www.mk.co.kr/news/culture/view/2022/01/48534/)
   * 한라 909-주14ㅂ 탐라 문909-주14ㅂ 우당 문909-주14ㅂ
   * ★★★★☆ 2022.06.27~07.01, 07.04~08
+  * [바다 인류 A Maritime History](https://github.com/hyunjun/bookmarks/blob/master/books/maritime_history.md)
+  * [바다 인류 A Maritime History. 지중해 세계는 흔히 서구 문명의 기원지로 거론된다… 그렇지만 이런… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EB%B0%94%EB%8B%A4-%EC%9D%B8%EB%A5%98-a-maritime-history-dba14a954ea2)
+  * [바다 인류 A Maritime History](https://jh4hj.tistory.com/entry/%EB%B0%94%EB%8B%A4-%EC%9D%B8%EB%A5%98-A-Maritime-History)
 * [로마사를 쉽고 재미있게 읽기, <만화 로마사>.. : 네이버블로그](https://blog.naver.com/youngtak96/220918603946)
   * ★★★☆☆ 2022.08.18, 21
   * 탐라 문922-이68ㅁ-1, 2 우당 문922-이69ㅁ-1, 2
