@@ -39,6 +39,7 @@ GIS
 # Javascript
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
 * [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
+* [Getting the user's location with JavaScript (Geolocation API tutorial)](https://morioh.com/p/cb9c5fa39d2c)
 * Deck.gl [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
 * [Geo3x3: geo zone encoding, serialize latitude and longitude](https://github.com/taisukef/Geo3x3)
 * GeoTIFF
