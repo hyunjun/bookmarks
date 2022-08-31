@@ -591,8 +591,6 @@ Business
 * [당신이 궁금해하는 ‘IT 아웃소싱 개발 생태계’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1612/)
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
-* [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
-  * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
 * [집단사고(group think) vs. 집단지성(collective intelligence)](https://www.linkedin.com/feed/update/urn:li:activity:6967499027290419200/)
 
 # 1 on 1
@@ -847,6 +845,7 @@ Business
   * 그동안의 인터뷰 영상과 진행 방식, 비용 처리 등 아주 자세히 나와 있음
     * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘 
 * [스타트업 대표는 외롭다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/191668)
+* [이케아(IKEA)창업주, 잉바르 캄프라드](https://blog.naver.com/help2000/222858967777)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1614,6 +1613,15 @@ Business
 * [How To Transition From Being A Programmer to Project Manager Position | HackerNoon](https://hackernoon.com/how-to-transition-from-being-a-programmer-to-project-manager-position-op2j3ulg)
 * [What are non-functional requirements (NFRs) | Planio](https://plan.io/blog/non-functional-requirements-nfrs/)
 
+# Sales
+* [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
+  * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
+* [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
+* [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
+* [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
+* [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
+* [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
+
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
 * [모든 창업자에게 자극이 될 Deel의 피치덱 | Disquiet\*](https://disquiet.io/@minhyung0926/makerlog/440)
@@ -1687,8 +1695,6 @@ Business
 * [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
-* [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
-* [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
