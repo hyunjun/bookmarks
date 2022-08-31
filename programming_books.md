@@ -1608,6 +1608,7 @@ Programming Books
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
+  * (NOT YET) [코드로 인프라 관리하기(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4910879762)
 * Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
   * 한라 004.79-이885ㅅ
 * [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
