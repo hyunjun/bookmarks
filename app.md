@@ -1648,6 +1648,7 @@ App
 * [pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos](https://github.com/pytube/pytube)
   * [pytube — pytube 11.0.1 documentation](https://pytube.io/)
   * [파이썬 유튜브 음원 추출 Youtube mp4 mp3](https://blog.naver.com/dsz08082/221753467977)
+  * [Pytube | How to Build a YouTube Video Downloader with Python](https://morioh.com/p/40ec5e26bd22)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
   * React로 programmatically하게 동영상 만들기
