@@ -331,6 +331,7 @@ Go
 * [Building Modern Desktop Apps with Go and HTML5](https://morioh.com/p/213be5859393)
 * [How to Generate QR Code In Golang](https://morioh.com/p/a2d4f7ff17d9)
 * [Golang with Examples: Keeping Your Modules Compatible](https://morioh.com/p/b2fdfb1ddba8)
+* [Dynamic Programming in Golang](https://morioh.com/p/6fb8265b7bf5)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
