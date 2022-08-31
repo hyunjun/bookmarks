@@ -1,8 +1,9 @@
 Flutter
 =======
 
-* [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
+* [Flutter - Build apps for any screen](https://flutter.dev/)
 * [flutter-ko.dev](https://flutter-ko.dev/)
+* [Flutter Korea – Medium](https://medium.com/flutter-korea)
 * [쉽고 빠르고 간단하게! 멋진 네이티브 앱을 빌드할 수 있는 Flutter 베타를 소개합니다](https://developers-kr.googleblog.com/2018/03/announcing-flutter-beta-1.html)
 * [Flutter 1.0: Google의 휴대용 UI 도구 키트](https://developers-kr.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html)
 * [회사나 고객에게 효과적으로 Flutter 소개하는 방법을 알려드립니다](https://developers-kr.googleblog.com/2019/01/pitching-flutter.html)
@@ -49,6 +50,9 @@ Flutter
 * [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
 * [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
 * [flutter web과 aws, github actions 로 반응형 웹사이트 제작하기 | by NAMKYU PARK | Jun, 2021 | Medium](https://trialxxerror.medium.com/flutter-web%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3c9925b55101)
+* [하나의 코드로 안드로이드, ios, web 개발하기(flutter) | by 박남규, Loyle Park | Medium](https://loyle.medium.com/%ED%95%98%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-ios-web-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-flutter-ff1d9b8f7d41)
+* [flutter-web-example · GitHub Topics](https://github.com/topics/flutter-web-example)
+* [samples/web at main · flutter/samples](https://github.com/flutter/samples/tree/main/web)
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
 * [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
 * [MacBook M1에 iOS와 Android를 위한 Flutter 개발 환경 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1688)
