@@ -323,10 +323,12 @@ Book
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
 * (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 * (NOT YET) [디즈니 & 픽사의 신비로운 지도들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292936345)
+  * 우당
 * (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
+  * 우당
 * (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
 
@@ -468,6 +470,7 @@ Book
   * 2014.10.10
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
+  * 우당
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)

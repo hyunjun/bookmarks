@@ -331,6 +331,9 @@ Programming Books
   * 탐라
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
+  * 탐라
+* (NOT YET) [애자일 팀 코칭](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287259709)
+  * 탐라 문325.2-앳829ㅇ
 
 # Algorithm
 
@@ -1609,6 +1612,7 @@ Programming Books
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
   * (NOT YET) [코드로 인프라 관리하기(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4910879762)
+    * 탐라
 * Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
   * 한라 004.79-이885ㅅ
 * [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
@@ -1651,8 +1655,11 @@ Programming Books
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
 * (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
 * (NOT YET) [266가지 문제로 정복하는 코딩 인터뷰 in C++ · TheoryDB](https://theorydb.github.io/review/2021/10/30/review-book-cpp-algorithm-266/)
+* (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
+  * 우당
 * (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
 * (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
+  * 우당
 
 # iOS
 
@@ -1738,6 +1745,7 @@ Programming Books
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
+  * 한라
   * [Practical 모던 자바 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/87)
 
 # JavaScript
@@ -2142,6 +2150,7 @@ Programming Books
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
 * (NOT YET) [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
+  * 한라 325.1-유95ㅇ 탐라 문325.25-유95ㅇ 우당 문325.1-유95ㅇ
   * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
   * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
@@ -2228,6 +2237,7 @@ Programming Books
 * (NOT YET) [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
   * 우당
 * (NOT YET) 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
+  * 한라
 
 # Math
 
@@ -2585,6 +2595,7 @@ Programming Books
   * 한라 005.133-당76ㅈ 우당 문005.133-당77ㅈ
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
 * (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
+  * 한라
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
   * 탐라 문005.133-오43ㅍ
@@ -2601,17 +2612,22 @@ Programming Books
   * [엑셀 × 파이썬 업무 자동화 : 매크로, VBA는 이제 낡았다! – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/11/18/%ec%97%91%ec%85%80-x-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%eb%a7%a4%ed%81%ac%eb%a1%9c-vba%eb%8a%94-%ec%9d%b4%ec%a0%9c-%eb%82%a1%ec%95%98%eb%8b%a4/)
   * [source](https://insightbookblog.files.wordpress.com/2020/11/excel_pythonec8ba4ec8ab5ec9888eca09c.zip)
 * (NOT YET) [실전 파이썬 핸즈온 프로젝트](https://www.onlybook.co.kr/entry/python-projects)
+  * 한라
   * [실전 파이썬 핸즈온 프로젝트 오현석 인터뷰 - YouTube](https://www.youtube.com/watch?v=456VaXge93w)
 * (NOT YET) 파이썬 자동화 교과서 - 업무 생산성을 3배 높이는 엑셀, 워드, 크롤링, 메일 자동화 기술 [파이썬과 함께 사무 작업을 3배 빠르게](https://jpub.tistory.com/1296)
+  * 탐라 문004.73-구79ㅍ
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
+  * 탐라
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
+  * 탐라
 * (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
   * 탐라
   * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
+  * 탐라
 * (NOT YET) [마케터의 파이썬 - 코딩의 C도 모르는 우리들을 위한 맞춤 프로그래밍 가이드 :: e비즈북스](https://ebizbooks.tistory.com/1400)
   * 한라 005.133-정97ㅁ 탐라 문005.133-정98ㅁ 우당 문005.133-정98ㅁ
 * (NOT YET) [파이썬을 활용한 지리공간 분석 마스터하기 | 에이콘출판사](http://acornpub.co.kr/book/geospatial-python)
@@ -2838,6 +2854,7 @@ Programming Books
 * (NOT YET) [리팩토링 자바스크립트](https://velog.io/@devgosunman/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%B4%EB%9E%80)
   * 한라 005.138-버82ㄹ
 * (NOT YET) [KODE VICIOUS 개발 지옥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300238581)
+  * 한라
 
 # Spark
 
