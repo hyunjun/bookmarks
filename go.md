@@ -447,6 +447,7 @@ Go
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
+* protobuf [A new Go API for Protocol Buffers - The Go Programming Language](https://go.dev/blog/protobuf-apiv2)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
