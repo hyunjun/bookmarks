@@ -41,6 +41,7 @@ Go
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [Interfaces Example in Go. If it walks like a duck and it quacks… | by Jerry An | Jan, 2022 | Medium](https://jerryan.medium.com/interfaces-example-in-go-ca34a7ec001d)
+* [Golang Interfaces Tutorial with Examples for Developers](https://morioh.com/p/e6edae5f9ddb)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
@@ -442,6 +443,7 @@ Go
   * [SMTP protocol basics from scratch in Go: receiving email from Gmail | notes.eatonphil.com](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
   * [Transforming TCP Sockets to HTTP With Go](https://morioh.com/p/2c848ef7ed5a)
   * [I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
+  * [Set HTTP client timeout in Go (Golang)](https://gosamples.dev/http-client-timeout/)
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
