@@ -479,6 +479,7 @@ App
   * [크롬 97의 새 기능 - 사용자 플로우 녹화 | GeekNews](https://news.hada.io/topic?id=5331)
 * [Google Chrome Hidden Features For Developers | Bits and Pieces](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30)
 * [업무 집중력을 높여주는 구글 크롬 확장 프로그램 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/217254)
+* [Building a Simple Google Chrome Extension with Vue](https://morioh.com/p/0db574ae88e8)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
 * [Automa - 크롬 브라우저 자동화 확장 | GeekNews](https://news.hada.io/topic?id=5464)
