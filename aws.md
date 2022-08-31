@@ -1516,6 +1516,7 @@ AWS
 * [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
 * [How a distributed, Amazon SQS compatible queue works | by Tarantool | Jan, 2022 | Medium](https://medium.com/@tarantool/how-a-distributed-amazon-sqs-compatible-queue-works-f936a85f002f)
 * [Amazon SQS 도입기](https://tech.youha.info/78ae4e5d-c7bb-4bd3-9a6c-8585af17977d)
+* [Connecting a SQS Queue to a Lambda Function](https://morioh.com/p/efbcc78354b2)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
