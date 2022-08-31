@@ -769,6 +769,7 @@ Programming
 * [Agile QA Build Quality In (public ver).pptx - Google Slides](https://docs.google.com/presentation/d/1mY854UAFg6nJ9PIL4i5l0WLMSadc3Ec6/edit)
 * [애자일 관점에서 본 아마존의 개발 문화와 프로세스 - YouTube](https://www.youtube.com/watch?v=NkiHu9zGYKU)
 * [무엇이 애자일 팀을 만드는가? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32731753&memberNo=43908477)
+* [Sabotaging an Agile Transformation • Fred George • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=3cDpLVuQXEo)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -1933,6 +1934,7 @@ Programming
 * [마이크로서비스 아키텍처 환경에서 플랫폼 서비스 개발하기 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/@coupang-engineering-kr/integrating-platform-services-to-a-microservice-architecture-6f19f7816e15)
 * [Principles Of The Microservice Architecture (Part 1)](https://ravisystemdesign.substack.com/p/principles-of-the-microservice-architecture)
 * [Microservices Vs. APIs: Highlighting the Major Differences](https://haripatel.me/major-differences-of-microservices-vs-apis/)
+* [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -4124,6 +4126,7 @@ Programming
   * [기술 뉴스 #202 : 22-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1607)
   * [기술 뉴스 #203 : 22-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1611)
   * [기술 뉴스 #204 : 22-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1615)
+  * [기술 뉴스 #205 : 22-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1619)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
