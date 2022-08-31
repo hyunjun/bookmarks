@@ -2147,6 +2147,8 @@ Programming Books
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 * (NOT YET) [픽사 스토리텔링](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287110908)
   * 한라 325.1-룬33ㅍ 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
+* (NOT YET) [무엇이 성과를 이끄는가: 세계 최고 기업에서 찾은 고성과의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255193)
+  * 한라 325.345-도56ㅁ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
