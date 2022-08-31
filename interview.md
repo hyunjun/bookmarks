@@ -967,9 +967,10 @@ Interview
 * [**개발자가 알아야 할 스톡옵션의 모든 것 | Evans Library**](https://evan-moon.github.io/2021/12/04/what-is-stock-options/)
   * 스톡옵션이 정확히 무엇이고 행사하려면 어떻게 해야 하는지 설명
   * 그냥 무료로 받는 주식으로 생각하는 경우도 많은데 스타트업에서 스톡옵션을 받게 되었다면 여기서 말하는 "옵션"의 의미와 베스팅, 클리프 등의 개념을 이해하고 실제로 행사할 때 필요한 자금과 세금 관련된 부분을 이해해 두면 아주 유용
+* [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
+* [존잡생각 스톡옵션에 대한 이해](https://www.slid.cc/share/vdocs/%EC%A1%B4%EC%9E%A1%EC%83%9D%EA%B0%81-%EC%8A%A4%ED%86%A1%EC%98%B5%EC%85%98%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-cbf10ef680bf4f23bf6538c08484d2a4)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary-well)
-* [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
 * [개발자 연봉이 올랐어요! – Dreaming for the Future](http://www.chidoo.me/index.php/2021/05/07/2021-developer-salary-shock/)
 * [연봉을 올리기 위한 5가지 준비물 | ㅍㅍㅅㅅ](https://ppss.kr/archives/195592)
