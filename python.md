@@ -570,6 +570,8 @@ Python
 * [최신 ‘파이썬’ 작성 팁 4가지 - CIO Korea](https://www.ciokorea.com/news/223879)
 * [파이썬 언더바, 언더스코어, 밑줄, 맹글링, 매직메소드 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-underscore/)
 * [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
+* [Uploading file data in a performant manner - Dropbox](https://dropbox.tech/developers/performant-upload)
+  * [`Developer-Samples/Blog/performant_upload` at master · dropbox/Developer-Samples](https://github.com/dropbox/Developer-Samples/tree/master/Blog/performant_upload)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
