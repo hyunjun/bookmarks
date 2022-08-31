@@ -375,6 +375,7 @@ Git
 * [Introduction to GitHub Actions | Workflow of GitHub Actions | GitHub Actions Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=67fvIzYqD_I)
 * [Auto Label in Issue · Actions · GitHub Marketplace](https://github.com/marketplace/actions/auto-label-in-issue)
 * [How to build Python Project using GitHub Actions | GitHub Actions CI/CD Pipeline for Python Project - YouTube](https://www.youtube.com/watch?v=PsO5dZqBckY)
+* [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
