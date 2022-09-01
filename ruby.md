@@ -138,6 +138,11 @@ Ruby
 * [Rails 7: The Demo - YouTube](https://www.youtube.com/watch?v=mpWFrUwAN88)
 * [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
+* [Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
+  * [Introducing Trilogy: a new database adapter for Ruby on Rails | The GitHub Blog](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
+    * GitHub가 내부에서 Ruby on Rails로 사용하는 MySQL 호환 데이터베이스의 Active Record 클라이언트 라이브러리인 Trilogy를 오픈소스로 공개
+    * Trilogy는 Ruby VM 같은 환경에 임베딩해서 효율적으로 동작하도록 작성
+    * GitHub의 성능과 신뢰성을 개선하기 위해 2015년부터 사용
 
 # TDD, Test
 * [rspec-rails: RSpec for Rails 5+](https://github.com/rspec/rspec-rails)
