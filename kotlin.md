@@ -329,6 +329,9 @@
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+* [Kotlin-Algorithms-and-Design-Patterns: This repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns)
+* [apollo-kotlin:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform](https://github.com/apollographql/apollo-kotlin)
+  * [Apollo Kotlin: New Multiplatform Memory Manager - Apollo GraphQL Blog](https://www.apollographql.com/blog/mobile/kotlin/apollo-kotlin-new-multiplatform-memory-manager/)
 * [ΛRROW · GitHub](https://github.com/arrow-kt)
   * [Functional programming in Kotlin with Arrow.kt - YouTube](https://www.youtube.com/watch?v=IDMmmrRhUvQ)
 * [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/)
