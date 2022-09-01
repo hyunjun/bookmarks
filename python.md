@@ -572,6 +572,7 @@ Python
 * [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/)
 * [Uploading file data in a performant manner - Dropbox](https://dropbox.tech/developers/performant-upload)
   * [`Developer-Samples/Blog/performant_upload` at master · dropbox/Developer-Samples](https://github.com/dropbox/Developer-Samples/tree/master/Blog/performant_upload)
+* [20 Python Gem Libraries Buried In the Installation Waiting To Be Found | by Bex T. | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
