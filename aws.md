@@ -25,6 +25,7 @@ AWS
   * Slack으로 알림을 받는 방법은 다양, Lambda를 운영하는 등 관리가 어려워서 AWS Chatbot을 Terraform으로 생성해서 쉽게 알림을 추가할 수 있도록 만들고 알림을 PagerDuty와도 연동하기 위해 SNS까지 연결하는 방법 소개
 * [New – AWS Support App in Slack to Manage Support Cases | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
   * [Slack 기반 AWS Support 앱 출시 – 서포트 케이스 생성 및 관리 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/)
+    * AWS에 서포트 티켓을 만들기 위해 AWS Support Center로 이동할 필요 없이 Slack 내에서 바로 티켓을 만들고 엔지니어와 채팅할 수 있는 AWS Suuport 앱 발표
 * LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
