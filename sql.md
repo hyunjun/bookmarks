@@ -554,7 +554,9 @@ SQL
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [Index에 대해서 정리해 봅니다. #MySQL](https://developer88.tistory.com/332)
 * [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
-* [BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
+* [인덱스 1편 - BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
+* [인덱스 2편 - 여러분은 페이지네이션을 limit과 offset을 이용하여 구현하지 않나요?](https://blog.naver.com/pjt3591oo/222646508657)
+* [인덱스 3편 - 다중 컬럼 인덱스와 사용되는 인덱스 만들기](https://blog.naver.com/pjt3591oo/222863820957)
 * [DB Index 동작원리를 알아보자 | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/66)
 * [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
 * [Index Dive 비용 최적화. MySQL 서버의 실행계획 수립(Index Dive) 단계에서 많은… | by Sunguck Lee | 당근마켓 팀블로그 | Jun, 2022 | Medium](https://medium.com/daangn/index-dive-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1a50478f7df8)
