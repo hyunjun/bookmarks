@@ -1557,6 +1557,13 @@ Docker
 * [Crossplane](https://crossplane.io/) Compose cloud infrastructure and services into custom platform APIs
   * [Crossplane #1 - 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1561)
   * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
+  * [Scaling Kubernetes to Thousands of CRDs](https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/)
+    * Kubernetes에서 클라우드 리소스를 관리할 수 있게 하는 Crossplane에서는 수백 개의 CRD가 필요
+      * 이로 인한 Kubernetes의 문제를 개선해나가는 과정을 정리한 글
+    * 대부분은 수십 개의 CR만을 운영했는데 CR이 수백 개가 되다 보니 발견하게 된 클라이언트와 서버 쪽 병목지점 존재
+      * 이를 Kubernetes에 기여해서 성능 개선
+      * 내부 동작도 이해 가능
+    * [Kubernetes에서 수천개의 CRD를 사용하도록 확장하기 | GeekNews](https://news.hada.io/topic?id=7231)
 * [Cryostat | JDK Flight Recorder Management for Kubernetes and OpenShift](https://cryostat.io/)
   * [Announcing Cryostat 2.0: JDK Flight Recorder for Containers](https://www.infoq.com/news/2021/11/cryostat-jvm-profiler-container/)
 * [ctx-cleaner: Easy to clean up garbage cluster & user information](https://github.com/sysnet4admin/ctx-cleaner)
