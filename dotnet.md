@@ -164,6 +164,7 @@
 * [dotMemory: JetBrains가 만든 .NET용 메모리 프로파일러 겸 유닛 테스트 프레임워크](https://www.jetbrains.com/ko-kr/dotmemory/)
   * [dotMemory를 활용한 dotMemory 최적화 | The .NET Tools Blog](https://blog.jetbrains.com/ko/dotnet/2022/06/10/how-we-used-dotmemory-to-optimize-dotmemory/)
 * dotnet
+  * [.NET 6 is now in Ubuntu 22.04 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
 * [.NET MAUI란? - .NET MAUI | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/maui/what-is-maui)
   * [Learn .NET MAUI | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/en-us/learn/maui)
