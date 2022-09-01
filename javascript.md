@@ -1455,6 +1455,7 @@ Javascript
 * [운명의 Devs 클래스101에서 GraphQL을 쓰는 법(서버 편) - 조이 - YouTube](https://www.youtube.com/watch?v=rre1iQfbo7M)
 * [제3회 스포카콘 React + TypeScript + GraphQL 으로 시작하는 Web Front-End](https://www.slideshare.net/ssuserd3aacb/3-react-typescript-graphql-web-frontend)
 * [Thinking in GraphQL | Relay](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
+* [GraphQL에서 N+1 쿼리 점진적으로 개선하기. 이번 게시글에서는 GraphQL에서 발생하는 N+1 문제와 이를… | by Woosik Kim | Sep, 2022 | Medium](https://well-balanced.medium.com/graphql%EC%97%90%EC%84%9C-n-1-%EC%BF%BC%EB%A6%AC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-d758e925cc19)
 * Apollo
   * [튜토리얼: React Apollo 2.1 의 Render Props (Tutorial: Render Props in React Apollo 2.1)](https://www.vobour.com/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-react-apollo-2-1%EC%9D%98-render-props-tu)
   * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
