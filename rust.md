@@ -396,6 +396,7 @@
 * [Rust 101 Lecture Series - YouTube](https://www.youtube.com/playlist?list=PL-zQguBgjr2O4d-B9g_b0WYh1fyXr6MMq)
 * [Masterclass - Introduction to Rust with Markus - YouTube](https://www.youtube.com/watch?v=AezhwkSmkW0)
 * [Rust Ports - YouTube](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
+* [What is Unit Testing? How to Perform Unit Tests in Rust](https://www.freecodecamp.org/news/unit-testing-in-rust/)
 * [2022-Make-Interpreter-Rust: 2022년 온라인 스터디 - Rust로 만드는 인터프리터](https://github.com/utilForever/2022-Make-Interpreter-Rust)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
