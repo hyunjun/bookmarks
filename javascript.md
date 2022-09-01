@@ -2911,6 +2911,11 @@ Javascript
     * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
   * [Node.js Vs. Deno - Dor Moshe's Blog](https://dormoshe.io/trending-news/nodejs-vs-deno-3ngf-51904)
   * [Deno’s Fresh Uses Server-Side Rendering for Faster Apps – The New Stack](https://thenewstack.io/denos-fresh-uses-server-side-rendering-for-faster-apps/)
+  * [Big Changes Ahead for Deno](https://deno.com/blog/changes)
+    * Deno에서 준비 중인 큰 변경 발표
+    * (2022.08.15 기준) 3달 이내에 대부분의 npm 패키지를 쉽게 임포트 할 수 있게 될 예정
+      * `import express from "npm:express@5";` 같은 형식
+    * Deno는 가장 빠른 JavaScript 런타임이 목표, 조만간 가장 빠른 HTTP 서버를 Deno에 추가 예정
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
