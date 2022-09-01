@@ -327,6 +327,7 @@ Book
 * (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
+* (NOT YET) [C레벨의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300705957)
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * 우당
 * (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
