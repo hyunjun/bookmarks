@@ -38,6 +38,12 @@
 # Apple
 * [애플의 앱 추적 투명성(App Tracking Transparency)에 대한 염려로 모바일 게임 앱 리타게팅을 놓치지 마세요](https://blog.naver.com/remerge_korea/222668609921)
 * [애플이 디지털 광고 시장에 불러온 나비 효과](https://blog.toss.im/article/global-business-lounge-13)
+* [How Apple pushed its ad-vantage](https://www.axios.com/2022/08/21/apple-advertising-privacy-tracking-iphone)
+  * Apple이 아이폰의 개인 정보보호 조치로 광고 경쟁업체를 약화하고 광고 제국을 건설하기 시작했다고 이야기
+  * 애플은 하드웨어 판매 둔화에 따라 소프트 제품에서 수익을 만들기 위해 서비스 팀을 재구성
+    * 지난 분기 296억 달러를 벌어 분기 매출의 25%를 차지
+  * 사용자가 추적 금지할 수 있게 적용하면서 Meta 등의 광고 사업이 어려워졌고 애플은 광고가 성장하기 시작
+    * 이는 (아직은 움직임이 없지만) 독점 금지 규제 기관의 관심을 끌 수 있다고 이야기
 
 # Facebook
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
