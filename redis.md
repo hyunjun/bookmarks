@@ -196,6 +196,8 @@ Redis
 * [dragonflydb](https://github.com/dragonflydb)
   * [dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
     * [Dragonflydb – A modern replacement for Redis and Memcached | Hacker News](https://news.ycombinator.com/item?id=31560547)
+* [findstival: Redis Hackathon on DEV Project](https://github.com/Quadricular/findstival)
+  * [Findstival: Python + Redis Festival Tracker - DEV Community 👩💻👨💻](https://dev.to/danielmgzzg/findstival-python-redis-festival-tracker-29p5)
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [ioredis: 🚀 A robust, performance-focused and full-featured Redis client for Node.js](https://github.com/luin/ioredis)
