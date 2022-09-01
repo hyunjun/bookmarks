@@ -309,31 +309,36 @@ Programming Books
   * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/doing-agile-right-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5-bab1c1861924)
   * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략](https://jh4hj.tistory.com/entry/DOING-AGILE-RIGHT-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
+  * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
+  * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
+  * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
+  * 한라 005.1-크198ㅋ 탐라 개005.1-크198ㅋ
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [린 소프트웨어 개발 : 애자일 실천 도구 22가지 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/49)
 * (NOT YET) [애자일 프랙티스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/50)
 * (NOT YET) [경험과 사례로 풀어낸 성공하는 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/51)
 * (NOT YET) [사용자 스토리 : 고객 중심의 요구사항 기법 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/53)
-* (NOT YET) [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
-  * 한라, 탐라
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
-  * 한라, 우당
+  * 한라 004-마888클 우당 문005.1-마839ㅋ
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
-  * 탐라
+  * 탐라 004.78-패838ㅅ
 * (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data)
-  * 탐라
+  * 탐라 문325.15-골228ㄱ
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * 탐라
 * (NOT YET) [애자일 팀 코칭](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287259709)
   * 탐라 문325.2-앳829ㅇ
+* (NOT YET) [The Nature of Software Development](https://www.hanbit.co.kr/store/books/look.php?p_code=B2161499374)
+  * 한라 005.104-제897ㄴ
+  * [우리 팀은 어떻게 일 해야할까? | kciter.so](https://kciter.so/posts/the-nature-of-software-development-book-report)
 
 # Algorithm
 
@@ -2855,6 +2860,8 @@ Programming Books
   * 한라 005.138-버82ㄹ
 * (NOT YET) [KODE VICIOUS 개발 지옥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300238581)
   * 한라
+* (NOT YET) [클린 코더 (단순 기술자에서 진정한 소프트웨어 장인이 되기까지)](https://joosjuliet.github.io/clean_code/)
+  * 한라 005.1-마888ㅋ
 
 # Spark
 
