@@ -59,6 +59,13 @@
 * [코틀린(Kotlin) data class를 JPA에서 사용시 주의할 점](https://anomie7.tistory.com/64)
 * [Spoqa 기술 블로그 | 우당탕탕 주문서 개발기](https://spoqa.github.io/2022/07/08/order-sheet-development-story.html) JPA, 잠금 lock
 * [Spoqa 기술 블로그 | 스포카에서 Kotlin으로 JPA Entity를 정의하는 방법](https://spoqa.github.io/2022/08/16/kotlin-jpa-entity.html)
+  * JPA는 Java 기준으로 Entity를 정의하기 쉽게 만들어졌기 때문에 Kotlin에서 JPA Entity를 제대로 쓰려면 어떻게 해야 하는지 고민한 결과를 담은 글
+  * Kotlin으로 JPA를 설명하는 글에서는 Kotlin 장점을 소개하다 보니 Entity 설계에서는 아쉬운 부분이 많음
+    * mutable 프로퍼티를 너무 많이 사용
+    * Data class로 Entity를 정의해서 실제 의도와 달리 `equals` 등이 잘못 동작
+    * 연관관계를 정의할 때 오류를 피하고자 `lateinit`를 사용하는데 이는 런타임 오류 유발
+  * 그래서 `allOpen` 설정 추가하고 `PrimaryKeyEntity`로 Entity를 생성할 때 `ULID`를 강제하고 `equals`와 `hashCode`를 정의해서 공통 동일성을 보장
+  * 프로퍼티 접근 제어, 연관관계 등 Kotlin으로 JPA Entity를 정의하면서 했던 많은 고민과 해결책을 기술
 * [Kotlin, Data Class Inheritance by Delegation | by nwillc | Medium](https://medium.com/@nwillc/kotlin-data-class-inheritance-by-delegation-2ad3fe6f9bd7)
 * [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
 * [brunch.co.kr/@mystoryg](https://brunch.co.kr/@mystoryg/12)
