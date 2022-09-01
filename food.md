@@ -168,6 +168,7 @@ Food
 * [31 coffees](https://imgur.com/a/IHNfcm1)
 * [커피가 나쁠까 차가 나쁠까, 죄수에게 매일 먹였더니](https://news.v.daum.net/v/20180917150057346)
 * [프랑스 카페의 역사](https://bookedit.tistory.com/724)
+* [프랑스 커피에 빠졌다면, 이 글을 꼭 보십시오 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002859544&SRS_CD=0000013831)
 * [기사 - K의 기원을 찾아서 한국인이 커피의 산미를 좋아하지 않는 이유 1](https://www.ddanzi.com/ddanziNews/699465235)
 * [바리스타의 장난감? 맨손으로 만드는 커피, 에어로프레스 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252924)
 
