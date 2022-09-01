@@ -56,6 +56,7 @@ Ruby
 * [Ruby 3, concurrency and the ecosystem · Kir Shatrov](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
 * [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
 * [Why Ruby has Symbols | dmitrytsepelev.dev](https://dmitrytsepelev.dev/why-has-ruby-symbols)
+* [(Not always) Cool methods to be careful when working with rails - DEV Community 👩💻👨💻](https://dev.to/jplethier/not-always-cool-methods-to-be-careful-when-working-with-rails-8cf)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
