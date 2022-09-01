@@ -354,6 +354,9 @@ Web
 * [History API는 가라! 이제는 Navigation API의 시대가 온다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/06/20/Navigation-API.html)
 * [Etsy Engineering | Priority Hints - What Your Browser Doesn’t Know (Yet)](https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet)
 * [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
+* [Browserslist](https://browsersl.ist/)
+  * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
+  * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
