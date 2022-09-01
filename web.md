@@ -1359,6 +1359,7 @@ Web
 * [초식 - 서버 성능 올리기 (처리량, 응답시간) - YouTube](https://www.youtube.com/watch?v=JJJ4LReZ5q4)
 * [무조건 스켈레톤 화면을 보여주는게 사용자 경험에 도움이 될까요? | Kakao Pay Tech](https://tech.kakaopay.com/post/skeleton-ui-idea)
 * [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
+* [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io/)
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
