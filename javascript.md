@@ -3846,6 +3846,7 @@ Javascript
 * [Polymorphic한 React 컴포넌트 만들기 | kciter.so](https://kciter.so/posts/polymorphic-react-component)
 * [Building Simple ReactJS Component - YouTube](https://www.youtube.com/watch?v=Xsro25m92lg)
 * [Build a Weather App with React.js and Tailwind CSS | Hourly And Daily Forecast](https://morioh.com/p/14bef021ff8c)
+* [React + WebSockets Project – Build a Real-Time Order Book Application](https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
