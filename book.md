@@ -323,7 +323,6 @@ Book
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
 * (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 * (NOT YET) [디즈니 & 픽사의 신비로운 지도들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292936345)
-  * 우당
 * (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)

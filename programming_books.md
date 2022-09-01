@@ -1287,6 +1287,7 @@ Programming Books
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
 * (NOT YET) [데이터로 전문가처럼 말하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B5424596013)
+  * 우당
 
 # Debugging
 
