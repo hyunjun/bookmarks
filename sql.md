@@ -1195,6 +1195,14 @@ SQL
   * → SQLite는 Client/Server 방식이 아니고 프로세스내에서 함수호출하는 방식이기에 N+1 Query Problem이 적용되지 않음
   * SQLite의 소스 타임라인을 표시하는 동적 웹페이지에서 사용하는 실제 SQL 문장 240여개를 볼 수 있음
 * [SQLite is not a toy database | Anton Zhiyanov](https://antonz.org/sqlite-is-not-a-toy-database/)
+  * SQLite를 토이 데이터베이스로 보는 사람도 많지만, 개발자가 아니어도 SQLite 활용 부문 많음
+  * Console을 제공하므로 쉽게 조회 가능
+  * CSV 파일도 임포트해서 SQL 문으로 조회 가능
+  * 가상 테이블로 만들어서 조회하면 2배나 빠름
+  * JSON 파일로 SQLite로 읽어서 조회 가능
+  * 미디언, 퍼센타일 등의 값도 쉽게 조회 가능
+  * Full-text 검색 지원
+  * SQLite는 동시 엑세스를 지원하지 않는다는 오해도 있지만 write-ahead log 모드가 오래전에 추가되어 리더를 원하는 대로 추가 가능
 * [What’s new in SQLite 3.35 | Anton Zhiyanov](https://antonz.org/sqlite-3-35/)
 * [Cross-database queries in SQLite (and weeknotes)](https://simonwillison.net/2021/Feb/21/cross-database-queries/) Querying json data
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
