@@ -193,6 +193,7 @@ Git
 * [Resolving issue with Git not able to differentiate between letter cases (uppercase & lowercase) with folder/directory](https://medium.com/@bryantjiminson/resolving-issue-with-git-not-able-to-differentiate-between-letter-cases-uppercase-lowercase-88b4974b8188) git에서 대소문자 구분
 * [Github Issue로 오픈소스 기여하기 | Univdev](https://www.univdev.page/posts/comment-on-github-issues/)
 * [Introducing GitHub Super Linter: one linter to rule them all - The GitHub Blog](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
+* [How to Use GitHub Super Linter in Your Projects](https://www.freecodecamp.org/news/github-super-linter/)
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
