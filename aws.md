@@ -805,6 +805,7 @@ AWS
 * [AWS S3를 EC2 인스턴스에 Mount 예제](https://millionairedeveloper.tistory.com/m/3)
 * [AWS EC2에 SSH 쉽게 접속하기 (3mins)](https://stevenshim.github.io/easy-ssh-ec2)
 * [AWS에서 수동으로 ssh 접속을 위한 Pem key 생성하기](https://jojoldu.tistory.com/540)
+* [AWS 아마존 리눅스 유저 추가하고 password 접속 허용 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/aws-add-user/)
 * [AWS 클라우드 초보들을 위한 EC2 인스턴스 SSH 로 접속하기. - YouTube](https://www.youtube.com/watch?v=oMVfhT_xlzk)
 * [Secure SSH on EC2: What are the real threats? – Sysdig](https://sysdig.com/blog/aws-secure-ssh-ec2-threats/)
 * [Amazon EC2 Instance Connect를 통해 EC2 인스턴스에 대한 SSH 연결하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-using-amazon-ec2-instance-connect-for-ssh-access-to-your-ec2-instances/)
