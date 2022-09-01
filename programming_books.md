@@ -1013,6 +1013,7 @@ Programming Books
 * (NOT YET) 딥러닝을 위한 수학 [론 크노이젤의 친절한 딥러닝 수학](https://jpub.tistory.com/1299?category=203154)
   * [번역서 "딥러닝을 위한 수학" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/384)
 * (NOT YET) [실무자를 위한 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/practical-deep-learning)
+* (NOT YET) [개발자를 위한 머신러닝&딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B9073454247)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1733,6 +1734,7 @@ Programming Books
   * [독자가 풀어보는 "자바로 배우는 핵심 자료 구조와 알고리즘" 1회](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4973879534)
 * [이것이 자바다](http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937)
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4-a18d98b4b5b8)
+  * (NOT YET) [이것이 자바다(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4861113361)
 * [Think Data Structures 자바로 배우는 핵심 자료구조와 알고리즘](https://nymets.medium.com/think-data-structures-%EC%9E%90%EB%B0%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%95%B5%EC%8B%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-d26ba67c7179)
 * (NOT YET) 자바 성능 튜닝
 * (NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
@@ -2565,6 +2567,7 @@ Programming Books
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 * (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
+* (NOT YET) [판다스 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4172751734)
 * (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
