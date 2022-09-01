@@ -933,6 +933,8 @@ Programming
 * [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Webhooks.fyi](https://webhooks.fyi/)
+  * 웹 훅은 모던 API 개발의 기반이지만 표준화되어 있지도 않고 설계, 보안, 운영 경험에 관심을 가지지 않고 있어서 이를 바꾸기 위해서 만든 사이트
+  * 웹훅 디렉터리를 제공해서 각 웹 훅을 비교할 수 있게 하고 웹 훅의 보안과 운영 경험에 대한 문서를 정리해서 제공
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
@@ -2026,6 +2028,18 @@ Programming
 * [Is Serverless Just a Stopover for Event-Driven Architecture? – The New Stack](https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/)
 * [The State of Serverless Computing](https://www.infoq.com/presentations/state-serverless-computing/)
 * [The State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
+  * Datadog이 AWS, Azure, Google Cloud의 서버리스 사용 통계를 리포트로 작성
+    * 여기서 서버리스는 AWS Lambda, AWS App Runner, ECS Fargate, EKS Fargate, Azure Functions, AKS running on Azure Container Instances, Google Cloud Functions, Google App Engine, Google Cloud Run 포함
+  * 각 클라우드에서 절반 이상의 조직이 서버리스 채택
+  * Lambda 사용자에서 Python, Node.js가 여전히 지배적
+    * 편하고 자료 많은 Python, Node.js를 주로 사용하고 익숙해지면 다른 언어의 워크로드로 마이그레이션
+    * 최소 3개의 언어로 Lambda를 배포하는 큰 조직이 60% 이상. 즉, 사용사례에 따라 다른 런타임을 이용
+    * Lambda 함수를 가장 많이 호출하는 AWS 기술은 API Gateway와 SQS
+    * API Gateway가 호출하는 Lambda의 80%는 단일 목적 함수
+    * Lambda 사용자 5명 중 한 명은 컨테이너 이미지로 배포
+    * Lambda 사용자의 20% 이상은 ECS Fargate도 사용
+  * Google Cloud에서 서버리스 애플리케이션을 배포하는 방법 중 Google Cloud Run이 가장 빠르게 증가
+  * Azure Functions는 Azure에가 가장 인기 있는 서버리스 제품이지만 Azure Container Instances의 채택이 빠르게 증가
   * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
 
 # Atlassian Jira
@@ -3039,6 +3053,17 @@ Programming
 * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 * [Hacker Test: A site to test and learn about web hacking](https://www.hackertest.net/)
+* [inAppBrowser.com](https://inappbrowser.com/)
+  * [iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser · Felix Krause](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
+    * 얼마 전 [Instagram/Facebook이 인 앱 브라우저에서 코드를 주입해서 사용자의 활동을 모두 추적한다는 보고](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
+    * 이를 탐지할 수 있는 InAppBrowser.com를 공개
+    * 사용하는 앱에서 https://inappbrowser.com/를 공유하고 이를 열어서 보면
+      * 앱이 어떤 코드를 주입했는지 무엇을 추적할 수 있는지를 분석해서 보여줌
+      * 물론 여기서 탐지하지 못했다고 코드 주입이 없다는 의미는 아님
+    * 2020년 12월에 나온 iOS 14.3부터 WKContentWorld에서 JavaScript 코드 실행을 지원하기 시작
+      * 이를 통해 웹사이트 소유자 모르게 코드를 주입
+      * Apple에서는 SFSafariViewController를 지원해서 이를 사용하면 앱이 웹사이트에 코드 주입 불가능
+    * 사용자는 가능하면 "Open in Browser"를 눌러서 인 앱 브라우저 말고 기본 브라우저를 사용하기를 권장
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [neuvector](https://github.com/neuvector/neuvector)
@@ -3523,6 +3548,13 @@ Programming
 * [네이티브 vs 크로스 플랫폼 모바일 개발 현황 | Daniel Lee](https://typefully.com/dylayed/DCtn6sZ)
 * [해커는 왜 모바일 앱을 공격할까? 모바일 앱 해킹 유형과 보안 방법](https://liapp.lockincomp.com/ko/blog/blog-Post/mobile-app-hacking-and-protection/)
 * [딥링크의 모든것(feat. App Link, Universal Link, Deferred DeepLink) | 헤이딜러 기술블로그 | by Ted Park | PRND | Jul, 2022 | Medium](https://medium.com/prnd/%EB%94%A5%EB%A7%81%ED%81%AC%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83-feat-app-link-universal-link-deferred-deeplink-61d6cf63a0a5)
+  * 앱에서 링크를 누르면 앱의 특정 화면으로 이동하게 하는 딥링크의 히스토리와 특징을 정리한 글
+  * 처음엔 스킴 딥 링크로 이를 지원
+    * 아무나 스킴을 만들 수 있고 앱이 설치되어 있어야만 동작하므로 유니버설 링크(iOS)와 앱 링크(Android)가 나옴
+  * 이는 도메인을 기반으로 동작하고 도메인으로 소유권을 확인해서 사용 가능
+    * 브라우저에서 제대로 동작 안 하는 등의 문제
+  * Deferred DeepLink는 앱이 설치되어 있으면 바로 열리지만 그렇지 않으면 설치한 뒤에 열리게 할 수 있음
+  * 이 Deferred DeepLink를 제공하는 서비스와 동작 방식 소개
 * [모바일 웹에서 뷰포트 역할. 역사적으로 처음 널리 알려진 모바일 웹 브라우저는 아이폰용… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9%EC%97%90%EC%84%9C-%EB%B7%B0%ED%8F%AC%ED%8A%B8-%EC%97%AD%ED%95%A0-845c9fb0a983)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
