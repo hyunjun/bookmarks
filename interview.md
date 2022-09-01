@@ -606,6 +606,7 @@ Interview
 * [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
 * [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
 * [Back-of-the-envelope Calculations - byte-by-byte](https://byte-by-byte.wistia.com/medias/19dr9infcj?wvideo=19dr9infcj)
+* [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
 * [Giving back - how I cleared L6 System Design - Part 1 - Blind](https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-System-Design---Part-1-4yufM3RY)
 * [Giving back - how I cleared L6 System Design - Part 2 - Blind](https://www.teamblind.com/post/rBrt5bV8)
 * [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
