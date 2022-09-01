@@ -1303,6 +1303,7 @@ Web
 * [Java Guides on Twitter: "Amazing REST API Design Cheat Sheet: https://t.co/vqLvNdMjLi" / Twitter](https://twitter.com/GuidesJava/status/1527257487115952128/photo/1)
 * [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
 * [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+* [REST API & RESTful Web Services Explained | Web Services Tutorial](https://morioh.com/p/dcfcf57aeb0d)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
