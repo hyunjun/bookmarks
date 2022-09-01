@@ -1118,6 +1118,7 @@ Web
   * [FullStack FastAPI Redis - YouTube](https://www.youtube.com/playlist?list=PLU7aW4OZeUzxUqnmhOT6P2Wnka1EvojVF)
   * [Backend Dev With FastAPI - YouTube](https://www.youtube.com/playlist?list=PLU7aW4OZeUzxL1wZVOS31LfbB1VNL3MeX)
   * [Full-stack Development with FastAPI, Redis And Next.js Full Course For Absolute beginners P-2 - YouTube](https://www.youtube.com/watch?v=hUpWZrLsSik)
+  * [Create a REST API with FastAPI in 5 Steps](https://morioh.com/p/b774a8543752)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
