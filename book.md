@@ -313,6 +313,7 @@ Book
 * (NOT YET) [삶이 허기질 때 나는 교양을 읽는다](https://www.youtube.com/watch?v=DJ5iAOvujMI)
   * 우당 문001.3-지59ㅅ
 * (NOT YET) [진리는 바뀔 수도 있습니다](https://ibric.org/myboard/read.php?Board=thbksn&id=3621&Page=1&&skin=thbksn)
+  * [억압적이고 정적인 사회, 지식 성장 힘들다](https://v.daum.net/v/20220813003154117)
 * (NOT YET) 상대적이며 절대적인 지식의 백과사전 [잡다한 지식의 집합체 <상·절·지·백> 무엇이.. : 네이버블로그](https://blog.naver.com/openbooks21/222559484428)
   * 탐라 문868-베238ㅅ 한라 868-베297ㅅ우당 문868-베238ㅈ
 * (NOT YET) [십 대를 위한 정치 사전](https://www.hankyung.com/life/article/202208102679Y)
