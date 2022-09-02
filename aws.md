@@ -501,6 +501,7 @@ AWS
 * [AWS AG의 WebSocket의 default - 이상선 - Medium](https://medium.com/@sunyi233/aws-ag%EC%9D%98-websocket%EC%9D%98-default-4fc71fa06fd8)
 * [웹 소켓 연결 받는 법 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9-%EC%86%8C%EC%BC%93-%EC%97%B0%EA%B2%B0-%EB%B0%9B%EB%8A%94-%EB%B2%95-d717f18f1117)
 * [Serverless Architecture using AWS Lambda, API Gateway and DynamoDB](https://morioh.com/p/915be75bf31c)
+* [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
