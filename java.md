@@ -1005,7 +1005,8 @@ Java
 * [자바 컴파일 과정 & JVM 내부 구조](https://velog.io/@minseojo/Java-%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95-JVM-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
-* [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
+* [Loom: https://openjdk.org/projects/loom ](https://github.com/openjdk/loom)
+  * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
   * [Project Loom? Better Futures? What’s next for JVM concurrent programming - YouTube](https://www.youtube.com/watch?v=_fFzyY_7UmA)
@@ -1014,6 +1015,7 @@ Java
   * [Going inside Java’s Project Loom and virtual threads](https://blogs.oracle.com/javamagazine/going-inside-javas-project-loom-and-virtual-threads)
   * ['프로젝트 룸' 최신 자바 동시성 모델 따라잡기 - CIO Korea](https://www.ciokorea.com/news/228714)
   * [Using Java's Project Loom to build more reliable distributed systems · James Baker](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
+  * [Implementing Raft using Project Loom](https://softwaremill.com/implementing-raft-using-project-loom/) scala지만 loom 연관
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
