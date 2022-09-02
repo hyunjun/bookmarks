@@ -3,6 +3,8 @@ Git
 * [**깃허브(GitHub)란?**](https://www.44bits.io/ko/keyword/github)
 * [practice - installation](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
 * [The Architecture and History of Git: A Distributed Version Control System](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
+* [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
+* [(비개발자를 위한) GitHub의 역사와 기능 | 요즘IT](https://yozm.wishket.com/magazine/detail/1674/)
 * [GitHub Engineering](http://githubengineering.com/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [Git, GitHub, SSH 이용한 완벽한 작업흐름](http://code.tutsplus.com/ko/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
@@ -254,7 +256,6 @@ Git
 * [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
 * [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
 * [My tips for maintaining dotfiles in source control | Opensource.com](https://opensource.com/article/22/2/dotfiles-source-control)
-* [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 * [Performance at GitHub: deferring stats with rack.after_reply | The GitHub Blog](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
   * GitHub에서 `rack.after_reply`를 이용해서 30~50ms 정도 응답 시간을 줄일 개선을 정리한 글
   * GitHub의 성능 분석을 하면서 요청을 처리할 때 매트릭을 보내기 위해 요청당 최대 65ms를 사용한다는 것을 발견
