@@ -4321,6 +4321,7 @@ Javascript
   * [Next.js Project | Build Scalable Architecture for your Next.js Project](https://morioh.com/p/7718992244af)
   * [How to Build Medium 2.0 CLONE with NEXT.JS](https://morioh.com/p/20b3cc9ad0bd)
   * [Build a Game App with React and Next.JS | Project Full Tutorial](https://morioh.com/p/c972c95d5d43)
+  * [React and Next JS Gaming Application Project Full Tutorial - YouTube](https://www.youtube.com/watch?v=H3YtJkPv89E)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
