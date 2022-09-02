@@ -189,6 +189,7 @@ Network
   * 이는 HTTP/3에서는 head-of-line 블러킹 이슈가 없고 0-RTT 지원으로 서버와 TLS 연결을 하면서 라운드 트립이 적기 때문
 * [HTTP/3 is Fast. HTTP/3 is here, and it’s a big deal for… | by Todd H. Gardner | Request Metrics | Medium](https://medium.com/request-metrics/http-3-is-fast-dc7f8871df6)
 * [HTTP/3: Everything you need to know about the next-generation web protocol | The Daily Swig](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
+* [웹 개발자라면 알고 있어야 할 HTTP의 진화 과정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
