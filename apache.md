@@ -716,6 +716,7 @@ Apache
 * [컬리 검색이 카프카를 들여다본 이야기 1 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/search-system-with-kafka-1/)
 * [컬리 검색이 카프카를 들여다본 이야기 2 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/search-system-with-kafka-2/)
 * [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
+* [Setting up a local Apache Kafka instance for testing - DEV Community 👩💻👨💻](https://dev.to/sahan/setting-up-a-local-apache-kafka-instance-for-testing-ibf)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
