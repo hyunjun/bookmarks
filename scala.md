@@ -1187,6 +1187,7 @@ Scala
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
   * [Hands on Scala With Li Haoyi – Scala Love](https://scala.love/hands-on-scala-with-li-haoyi/)
   * [How I Self-Published My First Technical Book](https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html)
+* [Learn Scala 3 The Fast Way! | alvinalexander.com](https://alvinalexander.com/scala/learn-scala-3-the-fast-way-book/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
