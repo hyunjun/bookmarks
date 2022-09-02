@@ -1529,6 +1529,7 @@ Programming
 * [Context와 그 시점 문제인지 여부](https://brunch.co.kr/@graypool/545)
 * [개체(시스템)의 재설계와 경계의 변경](https://brunch.co.kr/@graypool/552)
 * [도메인 모델링은 어떻게 하는가?](https://brunch.co.kr/@graypool/539)
+* [기능을 함수로 포착하고 맥락을 표현하기](https://brunch.co.kr/@graypool/567)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
 * [클린 아키텍처 보충 2 — 엔티티(EBI), 도메인 주도 설계(DDD) | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-2-%EC%97%94%ED%8B%B0%ED%8B%B0-ebi-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-55ea98c62cb6)
@@ -4795,6 +4796,7 @@ Programming
 * [<달빛조각사>에서 서버 테스트 코드를 작성하는 방법](https://ndc.nexon.com/session/sessionView?sessNo=100007513)
   * [NDC22 <달빛조각사>에서 서버 테스트 코드를 작성하는 방법 - Speaker Deck](https://speakerdeck.com/ohyecloudy/ndc22-dalbicjogagsa-eseo-seobeo-teseuteu-kodeureul-jagseonghaneun-bangbeob)
 * [테스트 케이스 관리를 JIRA로 하자! : 웹서비스셀의 테스트 관리 툴 도입기](https://tech.devsisters.com/posts/jira-tool-qa/) QAlity, Zephyr Scale
+* [테스트 코드와 반증가능성에 대한 메모 - 기계인간 John Grib](https://johngrib.github.io/wiki/article/test-code-and-falsifiability/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
