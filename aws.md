@@ -1338,6 +1338,8 @@ AWS
 * [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
   * [영상 현직 개발자가 추천하는 쉽고 편한 오픈소스 2종 - ZDNet korea](https://zdnet.co.kr/view/?no=20210714134829) aws ssm send-command, tailwind css
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
+* [aws-transcription-to-srt: Convert AWS transcriptions to SRT](https://github.com/TinyNova/aws-transcription-to-srt)
+  * [Convert an AWS transcription to an SRT file using Node.js — Shotstack](https://shotstack.io/learn/convert-aws-transcriptions-to-srt-subtitles/)
 * Boto3
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
   * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
