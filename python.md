@@ -7,6 +7,7 @@ Python
 * [Python Cheatsheet - DEV Community](https://dev.to/envoy_/python-cheatsheet-33ec)
 * [A Comprehensive Cheatsheet for python developer](https://pythonawesome.com/a-comprehensive-cheatsheet-for-python-developer/)
 * [파이썬 요약집(기초)](https://pycheatsheet.junekim.xyz/)
+* [a bunch of cheatsheats](https://www.linkedin.com/posts/the-ai-journal_python-cheatsheets-activity-6970249607394021376-qgwX/)
 * [PB Python Article Roadmap - Practical Business Python](https://pbpython.com/roadmap.html)
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
