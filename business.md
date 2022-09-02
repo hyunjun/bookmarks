@@ -68,6 +68,7 @@ Business
 * [On being tired - Jukka Niiranen](https://jukkaniiranen.com/2022/02/on-being-tired/)
 * [Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
   * [내가 구글 WebAssembly 팀에서 그만둔 이유와 나를 아프게 한 것 | GeekNews](https://news.hada.io/topic?id=6573)
+* [기업 경영진이 정신 건강을 챙겨야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244797)
 * [8가지 방어기제로 스타트업 빌런 이해하기](https://brunch.co.kr/@cliche-cliche/152)
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
