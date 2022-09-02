@@ -1935,6 +1935,7 @@ Programming
 * [마이크로서비스 아키텍처(MSA) 패턴의 이해 - NGINX STORE](https://nginxstore.com/blog/microservices/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98msa-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%9D%B4%ED%95%B4/)
 * [마이크로서비스 아키텍처로의 전환 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/how-coupang-built-a-microservice-architecture-fd584fff7f2b)
 * [마이크로서비스 아키텍처 환경에서 플랫폼 서비스 개발하기 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/@coupang-engineering-kr/integrating-platform-services-to-a-microservice-architecture-6f19f7816e15)
+* [대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략. 마이크로서비스로 고객에게 데이터 서빙하기: 고가용성, 고처리량, 그리고… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Sep, 2022 | Medium](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367)
 * [Principles Of The Microservice Architecture (Part 1)](https://ravisystemdesign.substack.com/p/principles-of-the-microservice-architecture)
 * [Microservices Vs. APIs: Highlighting the Major Differences](https://haripatel.me/major-differences-of-microservices-vs-apis/)
 * [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
