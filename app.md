@@ -1042,6 +1042,7 @@ App
     * 오픈 소스 페인팅 프로그램. 드로잉과 페인팅 뿐 아니라 이미지 편집을 위한 다양한 도구 제공. 비슷한 기능을 제공하는 Gimp보다 인터페이스가 친숙하며 꾸준하게 개발되고 있다는 장점
   10. [스토리보더 Storyboarder](https://wonderunit.com/storyboarder)
     * 원더 유니트(Wonder Unit)에서 만든 오픈 소스 스토리보드 프로그램. 6가지 그리기 도구. 타블렛 지원. 인터페이스가 단순하고 직관적이며 부가 기능으로 3D를 통해 편리하게 씬을 제작할 수 있는 씬 제작기 제공
+* [15 Best Free and Open Source Software I Found for Linux](https://www.tecmint.com/best-free-open-source-tools-for-linux/)
 * kolourpaint4 [리눅스 그림판 프로그램 - kolourpaint4](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B7%B8%EB%A6%BC%ED%8C%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-kolourpaint4)
 * Camera for OBS Studio [Use your iPhone camera to stream with in OBS Studio](https://obs.camera/)
 * [obs-mac-virtualcam - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS](https://github.com/johnboiles/obs-mac-virtualcam)
