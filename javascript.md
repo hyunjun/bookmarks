@@ -2818,6 +2818,7 @@ Javascript
 * [Payment Gateway integration | NodeJs | ReactJs | Razorpay 🔥🔥 - YouTube](https://www.youtube.com/watch?v=NrzthCtKCho)
 * [Node-2fa | How to Two-Factor Authentication with Node.js](https://morioh.com/p/81134f3f2f4e)
 * [When Should You Scale a Node.js App? | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/when-to-scale-a-node-js-app-44d2e34e5ab0)
+* [Building an IPFS app with Node.js - YouTube](https://www.youtube.com/watch?v=RMlo9_wfKYU) InterPlanetary File System
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4324,6 +4325,7 @@ Javascript
   * [How to Build Medium 2.0 CLONE with NEXT.JS](https://morioh.com/p/20b3cc9ad0bd)
   * [Build a Game App with React and Next.JS | Project Full Tutorial](https://morioh.com/p/c972c95d5d43)
   * [React and Next JS Gaming Application Project Full Tutorial - YouTube](https://www.youtube.com/watch?v=H3YtJkPv89E)
+  * [Next.js API Routes using next-connect](https://morioh.com/p/2b0b50fd8940)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
