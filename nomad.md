@@ -298,6 +298,7 @@ Nomad & Remote
 * [Expat Living Singapore - Your Guide For Moving To & Living In Singapore](https://expatliving.sg/)
 * [Income Tax Rates](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Income-Tax-Rates/)
 * [싱가폴 연봉](https://senaland.blog.me/220961828467)
+* [Singapore salary guide 2022 | The Straits Times](https://www.straitstimes.com/multimedia/graphics/2022/01/singapore-salary-guide/index.html?shell)
 * [michaelpage.com.sg/salary-guide](https://www.michaelpage.com.sg/salary-guide)
 
 # Sweden
