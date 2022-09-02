@@ -240,6 +240,9 @@ Book
 * [만화로 배우는 조선 왕실의 신화](https://www.hanbit.co.kr/store/books/look.php?p_code=B1421228776)
   * ★★★☆☆ 2022.08.21 생각보다 깊은 여러가지 내용을 담고 있어서 조선/유교와 관계된 신화에 대해 재미있게 읽을 수 있음
   * 우당 문911.05-우66ㅈ
+* 폴 크루그먼, 좀비와 싸우다 [실패한 ‘부자감세 좀비’ 국민을 더 가난으로 내몬다 - 경향신문](https://www.khan.co.kr/culture/book/article/202207221124001)
+  * ★★★★☆ ~2022.09.02
+  * 탐라 문320.4-크237ㅍ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -306,8 +309,6 @@ Book
   * 한라 495.2-김25ㄱ 탐라 그래픽495.2-김225ㄱ 우당 문495.2-김225ㄱ
 * (NOT YET) [만화로 배우는 공룡의 생태](https://www.hanbit.co.kr/store/books/look.php?p_code=B4285908843)
   * 한라 아457.279-김25고 탐라 아457-김225ㄱ 우당 문457-김225ㄱ
-* (NOT YET) 폴 크루그먼, 좀비와 싸우다 [실패한 ‘부자감세 좀비’ 국민을 더 가난으로 내몬다 - 경향신문](https://www.khan.co.kr/culture/book/article/202207221124001)
-  * 탐라
 * (NOT YET) [1센티 인문학](https://post.naver.com/viewer/postView.nhn?volumeNo=29774012&memberNo=1748988)
   * 탐라 문001.3-조69ㅇ 우당 문001.3-조69ㅇ
 * (NOT YET) [삶이 허기질 때 나는 교양을 읽는다](https://www.youtube.com/watch?v=DJ5iAOvujMI)
