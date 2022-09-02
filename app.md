@@ -864,6 +864,7 @@ App
     * Markdown Language Service와 Markdown Language Server로 구성
     * [vscode-markdown-languageservice: The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools](https://github.com/microsoft/vscode-markdown-languageservice)
     * [vscode/extensions/markdown-language-features/server at main · microsoft/vscode](https://github.com/microsoft/vscode/tree/main/extensions/markdown-language-features/server)
+  * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
