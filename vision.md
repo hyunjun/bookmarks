@@ -516,6 +516,7 @@ Vision
     * [yolov5-knowledge-distillation: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/wonbeomjang/yolov5-knowledge-distillation)
   * v7
     * [Training YOLOv7 on Custom Data - Colaboratory](https://colab.research.google.com/gist/hyunjun/21ca4aa61727173cf5e55435a7448afa/training-yolov7-on-custom-data.ipynb)
+    * [코딩없이 YOLOv7을 체험해보자! | Smilegate.AI](https://smilegate.ai/2022/08/21/%EC%BD%94%EB%94%A9%EC%97%86%EC%9D%B4-yolov7%EC%9D%84-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90/)
     * [yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/wongkinyiu/yolov7)
       * [코딩없이 YOLOv7을 체험해보자! | Smilegate.AI](https://smilegate.ai/2022/08/21/%EC%BD%94%EB%94%A9%EC%97%86%EC%9D%B4-yolov7%EC%9D%84-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90/)
   * yolox
