@@ -3850,6 +3850,7 @@ Javascript
 * [Build a Weather App with React.js and Tailwind CSS | Hourly And Daily Forecast](https://morioh.com/p/14bef021ff8c)
 * [React + WebSockets Project – Build a Real-Time Order Book Application](https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/)
 * [바나나 먹는 미니언 게임을 만들어 보자(feat. 캔버스) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220830-simple-canvas-game/)
+* [5 Tools To Speed Up React Development Productivity | JavaScript in Plain English](https://javascript.plainenglish.io/5-tools-practices-to-help-you-develop-faster-in-react-b884c1b20fc2)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
