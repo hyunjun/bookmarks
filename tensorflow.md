@@ -1177,6 +1177,7 @@ TensorFlow
 * [CNN vs RNN 을 이용하여 MNIST 데이타셋 다루기](http://blog.naver.com/beodeulpiri/221040970355)
 * [10. 텐서플로우(TensorFlow)를 이용해서 MNIST 숫자 분류를 위한 Convolutional Neural Networks(CNNs) 구현해보기](http://solarisailab.com/archives/1308)
 * [python – MNIST 데이터 세트 만들기 (MNIST 형식과 동일)](https://codeday.me/ko/qa/20190706/984622.html)
+* [혼공머신-번외편 패션 MNIST의 레이블명을 데이터셋에서 가져오기](https://lazymatlab.tistory.com/155)
 * [VisualizeMnist - real-time visualization of a network recognizing digits from user's input](https://github.com/okdalto/VisualizeMNIST)
 * [AI 코드 리뷰 Fashion MNIST Tutorial - Tensorflow 2.0 Deep Learning Code Review](https://www.youtube.com/watch?v=XfTV00McbLk)
 * [ActiveLearning-MNIST.ipynb](https://github.com/andy-bosyi/articles/blob/master/ActiveLearning-MNIST.ipynb)
