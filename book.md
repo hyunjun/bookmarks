@@ -735,6 +735,7 @@ Book
 * (NOT YET) [『패배를 껴안고』 그들에게 ‘천황’이란? | 민음사 출판그룹](http://minumsa.com/booklife/20578/)
   * 한라 913.075-다66ㅍ
   * [전쟁은 일본을 어떻게 바꿨을까? | 전후 일본, 역사, 문화 - YouTube](https://www.youtube.com/watch?v=EX7e7DtxBvg)
+* (NOT YET) [혁명과 배신의 시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704886)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
