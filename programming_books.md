@@ -1563,6 +1563,7 @@ Programming Books
 * (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
 * (NOT YET) [밑바닥부터 만드는 인터프리터 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/101)
 * (NOT YET) [밑바닥부터 만드는 컴파일러 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/102)
+* (NOT YET) [백엔드를 위한 Go 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299624701)
 
 # Hadoop
 
@@ -1647,6 +1648,7 @@ Programming Books
   * 탐라 문004.588-레78ㅋ
 * (NOT YET) [클라우드 네이티브 애플리케이션 디자인 패턴](https://jybaek.tistory.com/965)
   * 한라 004.588-인27ㅋ
+* (NOT YET) [모두를 위한 클라우드 컴퓨팅](https://jpub.tistory.com/1310)
 
 # Interview
 
