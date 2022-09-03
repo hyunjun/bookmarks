@@ -1,5 +1,6 @@
 iOS
 ===
+* [swift-docc: Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package](https://github.com/apple/swift-docc)
 * [Drop-in embedded Telnet server for iOS and OS X apps](https://github.com/swisspol/GCDTelnetServer)
 * [An App Launch Guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md)
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
