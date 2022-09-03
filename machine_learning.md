@@ -301,6 +301,7 @@ Machine Learning
 * [Machine Learning - Bayesian Learning](https://www.youtube.com/channel/UCW62JEpbr1yW-kHymblwgnA)
 * [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
 * [Spring XD: The Foundation for Real-time Streaming and Machine Learning Systems](https://blog.pivotal.io/big-data-pivotal/products/spring-xd-the-foundation-for-real-time-streaming-and-machine-learning-systems)
+* [Introduction to streaming for data scientists](https://huyenchip.com//2022/08/03/stream-processing-for-data-scientists.html)
 * [로보어드바이져를 개발하면서 알게 된 것들 1 – 알고리즘에 대한 환상](http://www.deepnumbers.com/index.php/2016/05/16/robo_adviser_1/)
 * [Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
 * [Machine Learning - Authors and titles for recent submissions](https://arxiv.org/list/stat.ML/pastweek?show=45)
