@@ -293,6 +293,8 @@ AWS
 * [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
 * [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
 * [Amazon EBS 프로비저닝 IOPS – 10년간의 변화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
+  * AWS 블록 스토리지 서비스인 EBS의 10년간의 아키텍처 변화를 간략하게 소개
+  * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
