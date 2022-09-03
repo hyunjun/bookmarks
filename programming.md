@@ -3048,6 +3048,7 @@ Programming
     * FIDO2는 다양한 웹브라우저에서 지원하고 있기 때문에 FIDO2로 자리 잡는 분위기
     * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
+  * [생각보다 쉬웠던 오픈소스 기여하기](https://dc-choi.tistory.com/69)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
 * [GDPR For Developers By Example | Blether](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
   * [예제로 배우는 GDPR - 개발자용 | GeekNews](https://news.hada.io/topic?id=7117)
