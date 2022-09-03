@@ -4026,6 +4026,7 @@ Programming
   * [7월 두 번째 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/07/b-7_30.html)
   * [8월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/08/b-8-1.html)
   * [8월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/08/b-8-3.html)
+  * [8월 5주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/09/b-8-5.html)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
 * [init-news • init-news](https://news.in-it.io/)
