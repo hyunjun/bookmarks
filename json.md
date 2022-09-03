@@ -209,6 +209,7 @@ Json
   * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
   * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
   * [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
+  * [gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
 * [JQL — Rust based JSON Query Language | by Robby Boney | Short Bits | Medium](https://medium.com/short-bits/jql-rust-based-json-query-language-ed1d7c6a1ae0)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * [jsend: JSend is a specification for a simple, no-frills, JSON based format for application-level communication](https://github.com/omniti-labs/jsend)
@@ -322,7 +323,6 @@ Json
     * `& -> &amp;amp;`
 
 # YAML
-* [YAML Validator](https://codebeautify.org/yaml-validator)
 * [YAML: probably not so great after all](https://arp242.net/yaml-config.html)
 * [What does YAML do better than JSON?](https://www.quora.com/What-does-YAML-do-better-than-JSON)
 * [YAML - Quick Reference Cheat Sheet](https://quickref.me/yaml)
@@ -331,4 +331,6 @@ Json
 * [Paul Kuruvilla - I accidentally used YAML.parse instead of JSON.parse, and it... worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
 * [2분만에 배우는 YAML - YouTube](https://www.youtube.com/watch?v=1GRKklx4xeo)
 * [How I learned to stop worrying and love the YAML | lbr.](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
+* [YAML의 숨은 오류를 미리 막아주는 7가지 팁 - ITWorld Korea](https://www.itworld.co.kr/news/251080)
 * [snakeyaml / snakeyaml — Bitbucket](https://bitbucket.org/snakeyaml/snakeyaml/)
+* [YAML Validator](https://codebeautify.org/yaml-validator)
