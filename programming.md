@@ -2200,6 +2200,10 @@ Programming
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [개발자가 알아야 할 클라우드 비용 절감 팁 12가지 - CIO Korea](https://www.ciokorea.com/news/239194)
 * ["클라우드 비용이 새고 있다" 3가지 이유와 그 해결 방법 - ITWorld Korea](https://www.itworld.co.kr/news/251350)
+  * 클라우드 비용 증가의 3가지 원인
+    1. 클라우드 리소스와 비용에 대한 모니터링을 하지 않는다
+    2. 클라우드 비용에 대한 책임자가 없다
+    3. 클라우드 리소스를 최적화하지 못하거나 하지 않는다
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
