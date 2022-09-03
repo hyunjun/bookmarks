@@ -19,6 +19,7 @@ Json
 * [json포맷을 다양한 다른 포맷으로 변경할 수](https://open-support.tistory.com/entry/json%ED%8F%AC%EB%A7%B7%EC%9D%84-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%EB%A7%B7%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98)
 * [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [JSON이란 무엇인가?](https://velog.io/@surim014/JSON%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [거의 모든 SW 개발의 필수⋯JSON 데이터 포맷의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/252478)
 * [JSON Editor | A Web-Based Tool to View, Edit, Format, and Validate JSON](https://morioh.com/p/159b63572594)
 
 # C++
@@ -232,6 +233,7 @@ Json
 * [JSON to CSV - CSVJSON](https://csvjson.com/json2csv)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
+* [JSON Crack - Crack your data into pieces](https://jsoncrack.com/)
 * [Json Data Generator - A robust, generic, streaming random json data generator for your data](https://github.com/acesinc/json-data-generator)
   * [JSON-DATA-GENERATOR](http://www.popit.kr/json-data-generator/)
 * [jsoneditor.com](http://jsoneditor.com/)
