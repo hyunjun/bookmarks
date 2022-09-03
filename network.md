@@ -88,6 +88,7 @@ Network
 * [Fiber in Paris – Part 4 – Packet Loss and BBR to the Rescue – WirelessMoves](https://blog.wirelessmoves.com/2022/06/fiber-in-paris-part-4-packet-loss-and-bbr-to-the-rescue.html)
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
   * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
+* [칼럼ㅣ네트워크 가용성, 적은 내부에 있다 - CIO Korea](https://www.ciokorea.com/news/251992)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
