@@ -4708,6 +4708,7 @@ Javascript
   * [**Mock Service Worker로 만드는 모의 서버 | blog.rhostem.com**](https://blog.rhostem.com/posts/2021-03-20-mock-service-worker)
   * [MSW 사용하여 테스트 코드 작성하기 with GraphQL, react-query | by valley | 더핑크퐁컴퍼니 기술 블로그 | Jun, 2022 | Medium](https://medium.com/pinkfong/msw-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-with-graphql-react-query-382da1529950)
   * [MSW를 활용하는 Front-End 통합테스트 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220825-msw-integration-testing/)
+  * [MSW(Mock Service Worker)를 사용한 네트워크 단 API Mocking 테스트](https://somedaycode.tistory.com/27)
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
