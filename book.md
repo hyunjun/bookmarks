@@ -333,6 +333,8 @@ Book
   * 우당
 * (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
+* (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
+  * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -641,6 +643,9 @@ Book
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://github.com/hyunjun/bookmarks/blob/master/books/jacob_fugger.md)
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-the-life-and-times-of-jaco-fuger-the-richest-man-who-ever-lived-844225ae3fcd)
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-The-Life-and-Times-of-JACO-FUGER-THE-RICHEST-MAN-WHO-EVER-LIVED)
+* [조선왕조실톡 1~7](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=116510634)
+  * 한라 911.05-무74ㅈ-1~7 탐라 문911.05-무74ㅈ-2~7 우당 문911.05-무73ㅈ-1~7
+  * ★★★☆☆ 2022.09.03 2권만 봤는데 내 스타일은 아니지만 나쁘지 않음
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -922,12 +927,13 @@ Book
   * [트리니티 — 신의 불을 훔친 인류 최초의 핵실험 - Jun - Medium](https://nymets.medium.com/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0-%EC%8B%A0%EC%9D%98-%EB%B6%88%EC%9D%84-%ED%9B%94%EC%B9%9C-%EC%9D%B8%EB%A5%98-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%95%B5%EC%8B%A4%ED%97%98-5a60732e05a7)
   * [그래픽노블 트리니티 - DVDPrime](https://dvdprime.com/g2/bbs/board.php?bo_table=comm&wr_id=8588091)
 * 역사가 묻고 화학이 답하다 [시간과 경계를 넘나드는 종횡무진 화학 잡담 《역사가 묻고 화학이 답하다》 출간!](https://post.naver.com/viewer/postView.naver?volumeNo=33843532)
-  * 탐라 문430-장95ㅇ
   * ★★★☆☆ 2022.07.08
+  * 탐라 문430-장95ㅇ
+* [퀀텀 만화로 배우는 양자역학과 상대성이론](https://www.hanbit.co.kr/store/books/look.php?p_code=B6144385733)
+  * ★★★☆☆ 2022.09.03
+  * 한라 420.13-셰894ㅋ 우당 문420.13-셰843ㅋ
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
-* (NOT YET) [퀀텀 만화로 배우는 양자역학과 상대성이론](https://www.hanbit.co.kr/store/books/look.php?p_code=B6144385733)
-  * 우당
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
 * (NOT YET) 오래된 기억들의 방 우리 내면을 완성하는 기억과 뇌과학의 세계 [책&생각 신경세포의 네트워크가 두뇌-마음의 출발점](https://www.hani.co.kr/arti/culture/book/1048317.html)
   * 우당 문511.1813-오829ㅇ
