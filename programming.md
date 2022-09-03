@@ -3666,6 +3666,7 @@ Programming
   * [월간 개발자스럽다 #79 - 개발자스럽다](https://blog.gaerae.com/2022/05/monthly.html)
   * [월간 개발자스럽다 #80 - 개발자스럽다](https://blog.gaerae.com/2022/06/monthly.html)
   * [월간 개발자스럽다 #81 - 개발자스럽다](https://blog.gaerae.com/2022/07/monthly.html)
+  * [월간 개발자스럽다 #82 - 개발자스럽다](https://blog.gaerae.com/2022/08/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
