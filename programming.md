@@ -3573,6 +3573,7 @@ Programming
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # Multimedia
+* [LC3는 블루투스 오디오의 “은탄환”인가?. LE Audio를 이해하기 | by Haze Lee | Sep, 2022 | Realignist’s LifeLog](https://realignist.me/lc3-is-not-silverbullet-48d5a0b3e078)
 * [H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/)
 * [HowVideo.works](https://howvideo.works/#processing)
 
@@ -4207,6 +4208,7 @@ Programming
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [ARM 64 Assembly Series — Data Processing (Part 1) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b)
 * [ARM 64 Assembly Series — Data Processing (Part 2) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
+* [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
 
 # Paper
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
