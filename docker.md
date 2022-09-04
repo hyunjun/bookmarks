@@ -888,6 +888,7 @@ Docker
 * [Basics of Kubernetes - YouTube](https://www.youtube.com/playlist?list=PL39tDLzWvRVYcilrX349DRs4qGgiCkRTi)
 * [Learn Kubernetes with this Introductory Course in One Hour (All Core Components and Hands On!) - YouTube](https://www.youtube.com/watch?v=n4zxKk2an3U)
 * [Kubernetes Tutorial | Metrics Server | Explained Simply - YouTube](https://www.youtube.com/watch?v=7I3h1G-ik-E)
+* [Kubernetes Tutorial For Beginners | Full Practical Course - YouTube](https://www.youtube.com/watch?v=mfodU3kCXQE)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
@@ -969,6 +970,7 @@ Docker
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
+* [A Simplistic Overview of Kubernetes – Towards AI](https://towardsai.net/p/l/a-simplistic-overview-of-kubernetes)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Cloud Native Days Korea 2019 - kakao's k8s_as_a_service](https://www.slideshare.net/DennisHong18/cloud-native-days-korea-2019-kakaos-k8sasaservice)
 * Kubernetes
