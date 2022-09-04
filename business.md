@@ -493,6 +493,7 @@ Business
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
 * [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
+* [오늘회와 커머스 플랫폼 전략](https://www.facebook.com/whyhyo/posts/pfbid02b6UXo9FfWzZvbm7R14pnbyXYfRkHa4yF6g8fG7PhKCeRaXhXXMo6nf1KNSzSidf2l) 오늘회 반면교사
 * [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
 * [대표님, 왜 우리는 목적 없이 일해야 하나요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/215281)
 * [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
