@@ -329,8 +329,17 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라 004.78-패838ㅅ
-* (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data)
-  * 탐라 문325.15-골228ㄱ
+* (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data/)
+  * 탐라 문325.15-골228ㄱ 우당 문325.15-골228ㄱ
+  * [Churn Book for Data Scientists - Fighting Churn With Data](https://fightchurnwithdata.com/)
+  * [1 The world of churn - Fighting Churn with Data: The science and strategy of customer retention](https://livebook.manning.com/book/fighting-churn-with-data/discussion)
+  * [carl24k - Twitch](https://www.twitch.tv/carl24k)
+  * [fight-churn: Code from the book Fighting Churn With Data](https://github.com/carl24k/fight-churn)
+  * [churn-data: 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라](https://github.com/AcornPublishing/churn-data)
+  * 주오라의 구독 경제 지수 [Subscription Economy Index™ - Zuora](https://www.zuora.com/resources/subscription-economy-index/)
+  * 프로핏웰 Profitwell 평균 이탈률 벤치마크 [Average Revenue Churn Rate Benchmarks](https://www.profitwell.com/recur/all/average-revenue-churn-rate-benchmarks)
+  * 리컬리 Recurly 이탈률 벤치마크 [Subscription churn rate industry benchmarks - Recurly research | Recurly](https://recurly.com/research/churn-rate-benchmarks/)
+  * [CHURN.FM - It's your churn!](https://www.churn.fm/)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * 탐라
@@ -1464,6 +1473,8 @@ Programming Books
 * (NOT YET) [블록체인 거번먼트](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110487241)
   * 2017.06 탐라
 * (NOT YET) [예제로 배우는 블록체인' 출간 소식](http://occamsrazr.net/tt/356)
+* (NOT YET) [처음 배우는 블록체인](https://hanbit.co.kr/store/books/look.php?p_code=B8083970938)
+  * 한라 327.2-가52ㅊ
 * (NOT YET) [코어 이더리움 프로그래밍](http://jhrogue.blogspot.com/2019/03/blog-post_23.html)
 * (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
 * (NOT YET) [누구나 할 수 있다. 비트코인 자동 매매](https://pystock.net/2) PyQt, scraping
@@ -1474,8 +1485,14 @@ Programming Books
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
-* (NOT YET) [솔리디티 프로그래밍 완벽 가이드 | 위키북스](https://wikibook.co.kr/solidity/)
-  * 탐라
+* (NOT YET) [이더리움과 솔리디티 입문: 이더리움을 이용한 블록체인과 암호화폐 개발 이론과 실무 | 위키북스](https://wikibook.co.kr/ethereum-solidity/)
+* (NOT YET) [솔리디티 프로그래밍 에센셜: 이더리움과 블록체인을 위한 스마트 계약 프로그래밍 입문 | 위키북스](https://wikibook.co.kr/solidity-essentials/)
+  * 한라 004.6-모28ㅅ
+* (NOT YET) [이토록 쉬운 NFT 개발 스타터팩](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296261902)
+  * 탐라 문005.11-박73ㅇ
+* (NOT YET) [솔리디티 프로그래밍 완벽 가이드 | 위키북스](https://wikibook.co.kr/solidity)
+  * 탐라 문005.11-조222ㅅ
+  * [Remix - Ethereum IDE](https://remix.ethereum.org/)
 * (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
 
 # Flutter
@@ -2320,10 +2337,11 @@ Programming Books
   * 한라 004.73-전82자
   * [tensorflow-ml-nlp-tf2: 텐서플로2와 머신러닝으로 시작하는 자연어처리 (로지스틱회귀부터 BERT와 GPT3까지) 실습자료](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
   * [tensorflow-ml-nlp-tf2-colab](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab)
-* (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp)
-  * 한라
-* (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer)
-  * 한라
+* (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp/)
+  * 한라 004.735-에68ㅈ
+* (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer/)
+  * 한라 004.735-이78ㅇ
+  * [hello-transformer](https://github.com/jinkilee/hello-transformer)
 
 # NoSQL
 
