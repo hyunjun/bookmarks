@@ -2160,6 +2160,7 @@ Deep Learning
 * [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * [어텐션 메커니즘과 transfomer(self-attention) | by platfarm tech team | platfarm | Medium](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
 * [A Bird’s Eye View of Research on Attention](https://machinelearningmastery.com/a-birds-eye-view-of-research-on-attention/)
+* [The Attention Mechanism from Scratch](https://machinelearningmastery.com/the-attention-mechanism-from-scratch/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
