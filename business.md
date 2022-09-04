@@ -1585,6 +1585,8 @@ Business
 * [쏘카 PM의 차량 예약 퍼널 단계 개선기(feat. AB TEST) - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/06/02/reservation-funnel-improvement-with-abtest.html)
 * [Practical Ways to Earn Respect as a Product Manager - Department of Product](https://www.departmentofproduct.com/blog/practical-ways-to-earn-respect-as-a-product-manager/)
   * [프로덕트 매니저로서 존경 받는 실용적인 방법](https://janepark.notion.site/b2d0838274b14d71af1d37dab51d875e)
+* [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
+  * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
