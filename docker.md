@@ -1243,6 +1243,7 @@ Docker
 * [Bottlerocket in Production Kubernetes Cluster | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html)
 * [Docker & Kubernetes - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582977)
 * [Jenkins에서 Kubernetes 플러그인을 이용해 보다 쉽고 효율적으로 성능 테스트하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/performance-test-in-jenkins-run-dynamic-pod-executors-in-kubernetes-parallelly/)
+* [Jenkins End to End Pipeline with Pods as Build Agents, Maven, Nexus, SonarQube, MailHog & Helm - YouTube](https://www.youtube.com/watch?v=l9mf8K3vBvQ)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
 * [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you • The Register](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 * [Two reasons Kubernetes is so complex • Buttondown](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
