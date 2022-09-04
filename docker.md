@@ -969,6 +969,7 @@ Docker
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
+* [A Simplistic Overview of Kubernetes – Towards AI](https://towardsai.net/p/l/a-simplistic-overview-of-kubernetes)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Cloud Native Days Korea 2019 - kakao's k8s_as_a_service](https://www.slideshare.net/DennisHong18/cloud-native-days-korea-2019-kakaos-k8sasaservice)
 * Kubernetes
