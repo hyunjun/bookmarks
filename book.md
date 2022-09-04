@@ -684,6 +684,7 @@ Book
   * 한라 915-쉬34ㅇ
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
 * (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
+  * ★★★☆☆ 2022.09.04
   * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
   * 고려사2
     * 한라
@@ -736,6 +737,8 @@ Book
   * 한라 913.075-다66ㅍ
   * [전쟁은 일본을 어떻게 바꿨을까? | 전후 일본, 역사, 문화 - YouTube](https://www.youtube.com/watch?v=EX7e7DtxBvg)
 * (NOT YET) [혁명과 배신의 시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704886)
+* (NOT YET) [35년 1~7 세트 - 전7권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247913882)
+  * 한라 911.06-박58ㅅ-1~7 탐라 문911.06-박59-1~5 우당 문911.06-박59ㅅ-1~7
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
