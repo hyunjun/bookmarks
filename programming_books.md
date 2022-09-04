@@ -2175,7 +2175,7 @@ Programming Books
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
-  * 한라
+  * 한라 325.19-로57아
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
@@ -2258,7 +2258,7 @@ Programming Books
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
   * 한라 325.24-주65ㅌ
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
-  * 우당
+  * 우당 문325.24-김79ㅌ 문325.24-김79ㅌ-2
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
   * 한라
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
@@ -2266,7 +2266,7 @@ Programming Books
   * 한라 325.24-하63ㅁ 탐라 문325.24-하62ㅁ 우당 문331.17-하62ㅁ
   * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
 * (NOT YET) [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
-  * 우당
+  * 우당 문325.2-김53ㅊ
 * (NOT YET) 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
   * 한라
 
@@ -2960,7 +2960,7 @@ Programming Books
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
 * (NOT YET) [A/B 테스트 | 에이콘출판사](http://acornpub.co.kr/book/trustworthy-abtest)
-  * 탐라
+  * 탐라 문331.65-코91A
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
 
 # UI/UX
