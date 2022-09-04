@@ -850,6 +850,7 @@ Business
     * GitLab을 만드는 만큼 프로그램 신청을 Merge Request로 올리고 이 프로그램은 성과나 승진을 위한 게 아님을 명확히 밝힘 
 * [스타트업 대표는 외롭다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/191668)
 * [이케아(IKEA)창업주, 잉바르 캄프라드](https://blog.naver.com/help2000/222858967777)
+* [창업자 CEO는 언제 어디서나 항상 평가 받아요](https://www.linkedin.com/posts/douglasguen_qwurbaqya-swmtnktxuslh-qsvsmpstcslh-activity-6971979293669150720-lR3i/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
