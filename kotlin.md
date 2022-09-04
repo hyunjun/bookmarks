@@ -325,6 +325,8 @@
 * [A Perception of Exception in Kotlin Coroutines | by Saurabh Pant | Jul, 2022 | Better Programming](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
 * [바삭한 신입들의 동시성 이야기 - Kotlin 편](https://tech.devsisters.com/posts/crunchy-concurrency-kotlin/)
 * [Coroutine DeepDive - 1](https://devroach.tistory.com/153)
+* [KotlinConf 2017 - Introduction to Coroutines by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=_hfBv0a09Jc)
+* [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
