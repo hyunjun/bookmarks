@@ -3261,6 +3261,7 @@ Javascript
 * [React, Firebase를 이용한 다이어리 사이트를 만들어보며...](https://hamsoter.tistory.com/5) useEffect
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
+* [React Axios CRUD with JSON SERVER | ReactJS Axios REST API | React Tutorials for Beginners - YouTube](https://www.youtube.com/watch?v=_lCVq5m5XpQ)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
