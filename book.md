@@ -448,7 +448,7 @@ Book
   * 탐라 문069.04-최39ㅁ 한라 069.6-최38ㅁ 우당 문069.6-최39ㅁ
 * (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
 * (NOT YET) [단테 『신곡』 강의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298319176)
-  * 탐라
+  * 탐라 문881.09-이31ㄷ
 * (NOT YET) [영화평도 리콜이 되나요?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299022504)
 * (NOT YET) [우리는 사랑의 얼굴을 가졌고](https://www.electimes.com/news/articleView.html?idxno=307338)
 * (NOT YET) [20세기 미국 미술 : 현대 예술과 문화 1950~2000 휘트니미술관 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=867)
@@ -739,6 +739,8 @@ Book
 * (NOT YET) [혁명과 배신의 시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704886)
 * (NOT YET) [35년 1~7 세트 - 전7권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247913882)
   * 한라 911.06-박58ㅅ-1~7 탐라 문911.06-박59-1~5 우당 문911.06-박59ㅅ-1~7
+* (NOT YET) [지도의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281358057)
+  * 한라 989-스65ㅈ 우당 문989-스66ㅈ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
