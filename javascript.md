@@ -2846,6 +2846,7 @@ Javascript
 * [Bun - a fast all-in-one JavaScript runtime](https://bun.sh/)
   * [Node.js is Dead. — Long Live Bun. | by Yannis Burghardt | Jul, 2022 | Medium](https://medium.com/@YNNSme/node-js-is-dead-long-live-bun-3d888eab63d7)
   * [속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개! - YouTube](https://www.youtube.com/watch?v=t9924eteb-4)
+  * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
 * [Calipers: The Fastest Way to Measure Image Dimensions in Node](https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/)
 * [caniuse-cmd - Just what you've always wanted, it's a caniuse command line tool](https://github.com/sgentle/caniuse-cmd)
