@@ -903,6 +903,7 @@ Programming Books
   * 탐라 문004.73-조53ㅇ 우당 문004.73-조53ㅇ
 * (NOT YET) [실무로 배우는 빅데이터 기술 (개정2판): 데이터 수집, 적재, 처리 분석, 머신러닝까지 | 위키북스](https://wikibook.co.kr/bigdata2nd/)
   * 한라 005.76-김12빅
+* (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
