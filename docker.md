@@ -909,6 +909,7 @@ Docker
 * [Kubernetes 활용(1/8) 시작하기. Kubernetes를 처음 접하는 사용자를 위해 Kubernetes… | by 강훈기 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/kubernetes-%ED%99%9C%EC%9A%A9-1-8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-b208a2d28649)
 * [A guide to Kubernetes architecture | Opensource.com](https://opensource.com/article/22/2/kubernetes-architecture)
 * [K8s Architecture. Hurray! Vehement readers, I’m up with… | by Gokula Santhiya | Mar, 2022 | Medium](https://santhiyasandyrc.medium.com/k8s-architecture-e7e317cde1a5)
+* [Kubernetes Architecture and components | by jaffar shaik | Sep, 2022 | Medium](https://jaffarshaik.medium.com/kubernetes-architecture-and-components-bf637dbd0526)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
