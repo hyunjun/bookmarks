@@ -234,6 +234,7 @@ PyTorch
 * [Implementing CNN with Pytorch - 딥러닝 홀로서기](https://www.youtube.com/watch?v=uskpN90u-dE)
 * [Introduction to CNN & Image Classification using CNN in PyTorch](https://morioh.com/p/2c04dc0e6203)
 * [Image Classification with Convolutional Neural Networks | Deep Learning with PyTorch: Zero to GANs | - YouTube](https://www.youtube.com/watch?v=d9QHNkD_Pos)
+* [#Python | PyTorch ConvNet ... classify FashionMNIST clothing! | #NeuralNetwork #ComputerVision - YouTube](https://www.youtube.com/watch?v=EE7spP7P4yc)
 * Graph CNN
   * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
   * [Pytorch Implementation for Graph Convolutional Neural Networks](https://github.com/meliketoy/graph-cnn.pytorch)
