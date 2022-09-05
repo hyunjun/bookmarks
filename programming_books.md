@@ -2261,8 +2261,10 @@ Programming Books
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
   * 한라 325.24-주65ㅌ
-* (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
+* (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang/)
+  * ★★★☆☆ 2022.09.05
   * 우당 문325.24-김79ㅌ 문325.24-김79ㅌ-2
+  * [Connecting the Dots](https://leadersclub.tistory.com/)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
   * 한라
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
