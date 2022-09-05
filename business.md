@@ -1102,6 +1102,7 @@ Business
 * [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 * [직원 900명을 줌으로 해고한 회사의 최후 - T Times](http://www.ttimes.co.kr/view.html?no=2021121717457753101)
 * [The Sunny Side of Firing Someone - The Mad Ned Memo](https://madned.substack.com/p/the-sunny-side-of-firing-someone)
+* [한기용 - 해고란?](https://www.linkedin.com/posts/activity-6972064364631666688-0WLd/)
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
@@ -1588,6 +1589,7 @@ Business
   * [프로덕트 매니저로서 존경 받는 실용적인 방법](https://janepark.notion.site/b2d0838274b14d71af1d37dab51d875e)
 * [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
+* [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -1885,6 +1887,7 @@ Business
 * [(d·camp x 분당서울대학교병원) 스타트업 창업자 정신건강 실태조사 보고서 발간 | D.CAMP](https://dcamp.kr/node/460)
 * ['10만 다운' 대박 앱 만들고도 '폐업'..스타트업 망하는 4가지 이유](https://news.v.daum.net/v/20220820090004009)
 * [투자자에게 스타트업 아이디어를 한 줄로 설명하는 방법](https://www.slid.cc/share/vdocs/%ED%88%AC%EC%9E%90%EC%9E%90%EC%97%90%EA%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-32edc42f45cb42b3a434eaf506ce1ce3)
+* [Doda CEO가 미국 출장을 통해 배운 것](https://www.linkedin.com/posts/doyoung-kwak_%EB%AF%B8%EA%B5%AD-%EC%B6%9C%EC%9E%A5%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-swit-josh-activity-6972003481385676800-G834/) 1. USP와 타 서비스 기능 캐치업 사이에서의 균형 2. 한국은 여러 시장 중 하나의 시장일 뿐
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
