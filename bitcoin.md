@@ -84,6 +84,7 @@ Bitcoin
   * [SAFT 란? ICO와 다른점은?](https://soccer-programming.tistory.com/57)
   * [Simple Agreement for Future Tokens (SAFT) Definition](https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp)
   * [What is SAFT in Crypto: Why is it important? - Phemex Academy](https://phemex.com/academy/what-is-saft-crypto)
+* [이 코드를 사용하면 감옥에 갈 수 있습니다..!? - YouTube](https://www.youtube.com/watch?v=_yFXW1wzhzY) tornado cash
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
