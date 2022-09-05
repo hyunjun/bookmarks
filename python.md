@@ -3462,6 +3462,7 @@ Python
   * [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
   * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](https://www.sangkon.com/celery_read_article/)
   * [Flower - Celery monitoring tool](https://flower.readthedocs.io/)
+  * [How to Cancel a Running Task in Celery - YouTube](https://www.youtube.com/watch?v=mlK_DikhNCA)
 * [clubhouse-py: Clubhouse API written in Python. Standalone client included. For reference and education purposes only](https://github.com/stypr/clubhouse-py)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
   * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
