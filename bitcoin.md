@@ -45,6 +45,7 @@ Bitcoin
 * [비트코인과 수학공식 (1/2)](https://brunch.co.kr/@amangkim/50)
 * [#51. Zeppelin Solidity의 SmartContract에 대해서 알아보자!(1)](https://steemit.com/kr/@kblock/52-zeppelin-solidity-smartcontract-1)
 * [handshake - Decentralized certificate authority and naming](https://handshake.org/)
+* [Handshake domains are a scam | Akshat's Blog](https://akshat.sh/posts/handshake-scam/)
 * [춤추는 철학자의 문제, 검증 게임 그리고 사이드 체인과 데이터 가용성(Dancing philosophers problem, verification game, sidechain and data availability)](https://medium.com/onther-tech/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EA%B2%80%EC%A6%9D-%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%9A%A9%EC%84%B1-dancing-philosophers-problem-verification-game-sidechain-fa2b5e1e0ca3)
 * [대학원 과정 입문 - Openhash Platform](https://www.youtube.com/playlist?list=PLlSZlNj22M7QKwIhAplWtFCGJYt5bJLBy)
 * [WTF is Cuckoo Cycle PoW algorithm that attract projects like Grin and Cortex?](https://hackernoon.com/wtf-is-cuckoo-cycle-pow-algorithm-that-attract-projects-like-cortex-and-grin-ad1ff96effa9)
@@ -169,6 +170,7 @@ Bitcoin
 * [2022년. 블록체인 개발을 공부해야하는 이유? - YouTube](https://www.youtube.com/watch?v=1yfslVVoL6k)
 * [이 시국에 꿋꿋하게 스마트컨트랙 만들어보기 - YouTube](https://www.youtube.com/watch?v=8WBvMEql6SQ)
 * [영지식 증명과 함께 블록체인의 미래로 향하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/249082) ZKP Zero-knowledge Proof
+* ["영지식 인증 기대주" zk-SNARK의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251230)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
@@ -231,6 +233,7 @@ Bitcoin
 * [이더리움 지갑 주소를 제대로 검증하려면?](https://jhrogue.blogspot.com/2022/03/b.html)
 * [DSHRs Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
+* [Mainnet Merge Announcement | Ethereum Foundation Blog](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
