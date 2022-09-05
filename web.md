@@ -305,6 +305,7 @@ Web
 
 # Browser
 * [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
+* [리소스 로딩 순서 최적화 | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/loading-sequence/)
 * [Web Browser Engineering](https://browser.engineering/)
   * [브라우저 이해하기 시리즈 | GeekNews](https://news.hada.io/topic?id=5965)
 * [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/)
