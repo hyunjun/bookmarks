@@ -101,6 +101,9 @@ Logging
 * [mulog: μ/log is a micro-logging library that logs events and data, not words!](https://github.com/BrunoBonacci/mulog) clojure, log 기록을 text가 아니라 clojure data로 기록
 * [Palallax - Open Source Log Analyzer for Palo Alto Networks Next-Generation Firewall](http://www.ap-com.co.jp/ja/paloalto/palallax/index_en.html)
 * [SenseLogs - Instant log data in seconds, not minutes](https://www.sensedeep.com/senselogs/)
+* [spring-cloud-sleuth: Distributed tracing for spring cloud](https://github.com/spring-cloud/spring-cloud-sleuth)
+  * [Sleuth 분산 환경 트래킹 With Fuel - Yun Blog | 기술 블로그](https://cheese10yun.github.io/slueth-fuel/)
+* [varlog: Scalable distributed log storage for strong consistency, total order, and high availability](https://github.com/kakao/varlog)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
   * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
@@ -111,8 +114,6 @@ Logging
   * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
   * [Distributed tracing with Spring Cloud Sleuth and Zipkin | Spring Boot | Microservices | Example Code - YouTube](https://www.youtube.com/watch?v=hEgdIT7AEfc)
   * [How to Implement Distributed Logging & Tracing using Sleuth & Zipkin? - Making Java easy to learn](https://javatechonline.com/how-to-implement-distributed-logging-tracing-using-sleuth-zipkin/)
-* [spring-cloud-sleuth: Distributed tracing for spring cloud](https://github.com/spring-cloud/spring-cloud-sleuth)
-  * [Sleuth 분산 환경 트래킹 With Fuel - Yun Blog | 기술 블로그](https://cheese10yun.github.io/slueth-fuel/)
 
 # Logrotate
 * [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
