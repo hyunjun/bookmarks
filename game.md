@@ -36,7 +36,6 @@ Game
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 * [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation](https://github.com/FreeCol/freecol)
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
-* [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
 * ['둠'의 무서운 악마들은 플레이어를 봐주며 게임 한다](https://www.gamemeca.com/view.php?gid=1444361)
 * [Writing a Game From Scratch - Part One | Legion](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
@@ -99,7 +98,6 @@ Game
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Invaders: Space Invaders clone, written in Java](https://github.com/RobertoIA/Invaders)
-* [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
 * [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
@@ -110,8 +108,6 @@ Game
 * [Playdate](https://play.date/)
 * [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
   * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
-* [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
-  * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
 * [Q1K3 | js13kGames](https://js13kgames.com/entries/q1k3)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
@@ -150,6 +146,13 @@ Game
 
 ## Library Go
 * [Ebiten - A dead simple 2D game library for Go](https://ebiten.org/)
+
+## Library Javascript
+* [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
+* [conway: real-time, persistent, multiplayer version of Conway's Game of Life](https://github.com/drewblaisdell/conway)
+* [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
+* [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
+  * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
 
 ## Library Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
