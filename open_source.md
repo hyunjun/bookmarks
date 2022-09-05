@@ -107,6 +107,7 @@ Open Source
 * [Apple Open Source](https://opensource.apple.com/)
 
 # Book
+* [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 * [Producing Open Source Software](https://producingoss.com/)
 
 # Contribution
