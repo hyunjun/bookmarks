@@ -261,6 +261,7 @@ SQL
 * [No, AWS, Aurora Serverless v2 Is Not Serverless - Last Week in AWS Blog](https://www.lastweekinaws.com/blog/no-aws-aurora-serverless-v2-is-not-serverless/)
   * [AWS Aurora Serverless v2 는 Serverless가 아니다 | GeekNews](https://news.hada.io/topic?id=6796)
 * [Amazon RDS Custom에서 Oracle Database 재생성 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/recreate-amazon-rds-custom-oracle-instance/)
+* [Common pitfalls when migrating MySQL to Aurora using AWS DMS | EverSQL](https://www.eversql.com/common-pitfalls-when-migrating-mysql-to-aurora-using-aws-dms/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -271,6 +272,8 @@ SQL
 * [더북(TheBook): 누구나 쉽게 SQL](https://thebook.io/080202/)
 * [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 * [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
+* [PostgreSQL 14 Internals : Postgres Professional](https://postgrespro.com/community/books/internals)
+* [PostgreSQL 14 Internals, Part II : Postgres Professional](https://postgrespro.com/blog/pgsql/5969682)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
@@ -1008,6 +1011,7 @@ SQL
 * [Money operations with Node.js and PostgreSQL | by Alex Vasilyev | Jul, 2022 | Medium](https://luckylibora.medium.com/money-operations-with-node-js-and-postgresql-91d1f06ff263)
 * [Postgres Tutorials | Crunchy Data](https://www.crunchydata.com/developers/tutorials)
 * [Multi-tenant application architecture with Node.js — Express, and PostgreSQL | by Larbi Sahli | Jul, 2022 | Medium](https://medium.com/@larbisahli/multi-tenant-application-architecture-with-node-js-express-and-postgresql-3b94ea270a72)
+* [Open sourcing our fork of PgBouncer](https://blog.cloudflare.com/open-sourcing-our-fork-of-pgbouncer/)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -1239,7 +1243,7 @@ SQL
 * [One-liner for running queries against CSV files with SQLite | Simon Willison’s TILs](https://til.simonwillison.net/sqlite/one-line-csv-operations)
 * [SQLite or PostgreSQL? It's Complicated!](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [SQLite Internals: Pages & B-trees · Fly](https://fly.io/blog/sqlite-internals-btree/)
-* [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+* [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
