@@ -563,6 +563,10 @@ NoSQL
 * [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
 * [Building a Full Stack App with Supabase, React, Next.js and TailwindCSS](https://morioh.com/p/f55788332af3)
 
+# SurrealDB
+* [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
+* [SurrealDB - 분산 Document-Graph 데이터베이스 | GeekNews](https://news.hada.io/topic?id=7239)
+
 # Tarantool
 * [Tarantool, an in-memory computing platform](https://www.tarantool.io/)
 * [Synchronous Replication in Tarantool (Part 1) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-1)
