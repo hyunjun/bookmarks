@@ -1182,6 +1182,7 @@ App
     * 네이버 카페가 UTF-8이 아니라 CP949이므로 이를 변환하는 Python과 PHP 스크립트를 작성
   * [네이버 카페 검색용 알프레드 워크플로우 v2 - 코드쓰는사람](https://taegon.kim/archives/10419)
   * [원클릭으로 Zoom 미팅에 입장하기 for MacOS. 코로나 이후 많은 미팅이 온라인에서 이뤄진다. 주로 Google… | by 송요창 | Jul, 2022 | Medium](https://medium.com/@totuworld/%EC%9B%90%ED%81%B4%EB%A6%AD%EC%9C%BC%EB%A1%9C-zoom-%EB%AF%B8%ED%8C%85%EC%97%90-%EC%9E%85%EC%9E%A5%ED%95%98%EA%B8%B0-for-macos-38f18c69b80c)
+* [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
@@ -1652,6 +1653,8 @@ App
 * PeerTube [JoinPeerTube](https://joinpeertube.org/)
 * [Photopea | Online Photo Editor](https://www.photopea.com/)
   * [Photopea - 웹 기반 PSD 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=534)
+* [pianochord.io: A pure frontend Web Application for people to browse through a large collection of piano chords](https://github.com/JNKKKK/pianochord.io)
+  * [PianoChord.io - Explore Piano Chords Freely](https://pianochord.io/)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
 * [pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos](https://github.com/pytube/pytube)
   * [pytube — pytube 11.0.1 documentation](https://pytube.io/)
@@ -1747,6 +1750,7 @@ App
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [Stormah: Own Your Data](https://stormah.com/) your notes, stored in your git repo
+* [Thunk Notes | The Modern Daily Thinking Tool](https://www.thunknotes.com/)
 * [Transno - Outlines, Notes, Mind Map](https://transno.com/)
   * [Transno 트랜스노 생각 정리하기 끝판왕](https://www.howtodo.kr/2020/11/transno.html)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
