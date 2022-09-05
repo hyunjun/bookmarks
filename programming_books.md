@@ -2250,6 +2250,10 @@ Programming Books
 * [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
   * ★★★☆☆ 2022.09.04
   * 우당 문325.2-김53ㅊ
+* [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang/)
+  * ★★★☆☆ 2022.09.05
+  * 우당 문325.24-김79ㅌ 문325.24-김79ㅌ-2
+  * [Connecting the Dots](https://leadersclub.tistory.com/)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
@@ -2261,10 +2265,6 @@ Programming Books
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
   * 한라 325.24-주65ㅌ
-* (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang/)
-  * ★★★☆☆ 2022.09.05
-  * 우당 문325.24-김79ㅌ 문325.24-김79ㅌ-2
-  * [Connecting the Dots](https://leadersclub.tistory.com/)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
   * 한라
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
