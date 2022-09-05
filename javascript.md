@@ -4451,6 +4451,7 @@ Javascript
   * [Recoil, 리액트의 상태관리 라이브러리 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/16/recoil-state-management-of-react/)
   * [Context API -> Recoil - Byeongjin Jason Kang](https://jasonkang14.github.io/react/introducing-recoil)
   * [How to Use Recoil.js Library in Next.js Framework](https://morioh.com/p/dd85203d4db5)
+  * [Recoil 정확하게 사용하기! (feat. Selector) - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/09/02/recoil-selector/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
