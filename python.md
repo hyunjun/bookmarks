@@ -3745,6 +3745,7 @@ Python
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [PyNaver: naver open api for python](https://github.com/WooilJeong/PyNaver)
+  * [PyNaver - 파이썬 네이버 API 라이브러리 - 정우일 블로그](https://wooiljeong.github.io/python/pynaver/)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc ](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
