@@ -469,6 +469,7 @@ Linux
   * [새로 나온 커맨드라인 툴들 | GeekNews](https://news.hada.io/topic?id=6361)
 * [Most Important Linux commands for Devops and Cloud Engineer | Hands on Linux devops training in 2022 - YouTube](https://www.youtube.com/watch?v=lCq4mYQL0WY)
 * [파일과 디렉터리에는 정확한 소유권과 적당한 권한을 부여하라 - 넷마블 기술 블로그](https://netmarble.engineering/setting-setuid-umask-environmental-parameters-of-files-and-directories/) `find / -nouser -o -nogroup` suid sgid stickybit chmod chgrp umask home directory environmental variable
+* [내 서버도 머글이 지나갈 수 없는 9와 4분의 3 승강장처럼 - 넷마블 기술 블로그](https://netmarble.engineering/linux-server-login-and-logon-connection-settings/)
 * [10 Essential Linux Commands Every Developer and DevOps Should Know | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/10-essential-linux-commands-every-developer-and-devops-should-know-9df39391aac7)
 * [Next-level Commands for the terminal - DEV Community](https://dev.to/jmau111/next-level-commands-for-the-terminal-4ml7)
 * `at`
