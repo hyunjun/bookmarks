@@ -263,6 +263,7 @@ NoSQL
   * [Supabase - The open source Firebase alternative](https://supabase.io/)
   * [구글의 머신러닝을 배워요. Firebase ML - YouTube](https://www.youtube.com/watch?v=CSuHEuWpesc)
   * [Migrate your Firebase Cloud Functions to Node.js 10 | by Doug Stevenson | Firebase Developers | Jun, 2020 | Medium](https://medium.com/firebase-developers/migrate-your-firebase-cloud-functions-to-node-js-10-d9c677933ee)
+  * [Write beautiful Node.js APIs using async/await and Firebase](https://morioh.com/p/37a47c69b899)
   * [로그인 구현 5분컷? 파이어베이스 무료 강의! - YouTube](https://www.youtube.com/watch?v=cQimgQdTpeQ)
   * [Firebase Dynamic Link Creation Guide | by Muffaddal Qutbuddin | Firebase Developers](https://medium.com/firebase-developers/firebase-dynamic-links-guide-76552c0f292e)
   * [빌드 타입별로 파이어베이스키 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/firebase/2021/02/16/BuildType-Firebase.html)
