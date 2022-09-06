@@ -766,6 +766,7 @@ Python
   * [Decorators in Python. Introduction to the design pattern. | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/decorators-in-python-2c830015d719)
   * [Practical Python: Introduction to Decorators | by Soner Yıldırım | Dec, 2020 | Towards Data Science](https://towardsdatascience.com/practical-python-introduction-to-decorators-ac33d6f736cb)
   * [파이썬 데코레이터를 작성하는 법을 배워야 하는 5가지 이유 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5689111564)
+  * [파이썬 5분 강좌: Higher Order Function(ft. Decorator) - 고위함수 - YouTube](https://www.youtube.com/watch?v=XgmSu2miWCM)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
