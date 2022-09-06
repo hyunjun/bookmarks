@@ -600,6 +600,7 @@ Programming
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 * [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
+* [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1027,6 +1028,7 @@ Programming
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
+* [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
 * [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
@@ -1385,6 +1387,7 @@ Programming
   * [CodeSee Helps Developers ‘Understand the Codebase’ – The New Stack](https://thenewstack.io/codesee-helps-developers-understand-the-codebase/)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
   * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
+* [kic-reference-architectures: MARA: Modern Application Reference Architecture](https://github.com/nginxinc/kic-reference-architectures)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
 ## Architecture CQRS & Event Sourcing
@@ -1454,6 +1457,7 @@ Programming
 * [Testing Distributed Systems | Curated list of resources on testing distributed systems](https://asatarin.github.io/testing-distributed-systems/)
 * [Managing Complex Dependencies with Distributed Architecture at eBay](https://www.infoq.com/news/2022/04/distributed-arch-ebay/)
 * [Distributed System Design Patterns | by Nishant | May, 2022 | Medium](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc)
+* [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
