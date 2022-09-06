@@ -858,6 +858,7 @@ Java
 * [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
 * [What's new with Java 17 and containers? | Opensource.com](https://opensource.com/article/22/3/java-17-quarkus)
 * [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
+* [우리팀이 JDK 17을 도입한 이유. 안녕하세요, T플랫폼개발실 개발3팀 제이든입니다. 이번 포스팅에서는… | by 김동기Jayden(제이든)/개발3팀 | Jul, 2022 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%9A%B0%EB%A6%AC%ED%8C%80%EC%9D%B4-jdk-17%EC%9D%84-%EB%8F%84%EC%9E%85%ED%95%9C-%EC%9D%B4%EC%9C%A0-ced2b754cd7)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -1211,6 +1212,7 @@ Java
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Helidon Project](https://helidon.io/) GraalVM native image support
   * [Build REST APIs and Native Java Apps with Helidon | Okta Developer](https://developer.okta.com/blog/2022/01/06/native-java-helidon)
+  * ["자바 고속 직렬화의 진화" 마이크로스트림의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251026) helidon에 대한 직접적인 기사는 아님
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
