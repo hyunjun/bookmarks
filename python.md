@@ -4627,6 +4627,7 @@ Python
 * [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 * [Python Pandas Tutorial | What is Pandas | Features of Pandas # 1 - YouTube](https://www.youtube.com/watch?v=2NwUfnKhsuU)
 * [Python Pandas Tutorial : Series and DataFrame Basics #2 - YouTube](https://www.youtube.com/watch?v=iWsEfpWAJ3U)
+* [Introduction to pandas Library (Python Tutorial & Examples) | Learn Basics](https://statisticsglobe.com/pandas-library-python)
 * [엑셀 자동화 - 사무직을 위한 파이썬](https://maeng-gun.github.io/excel) excel xlwings
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
