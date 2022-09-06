@@ -2820,6 +2820,7 @@ Javascript
 * [When Should You Scale a Node.js App? | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/when-to-scale-a-node-js-app-44d2e34e5ab0)
 * [Building an IPFS app with Node.js - YouTube](https://www.youtube.com/watch?v=RMlo9_wfKYU) InterPlanetary File System
 * [Node JS Tutorial - 6 - Best way to handle Async functions | Learn Web Development - YouTube](https://www.youtube.com/watch?v=mliu_aT64v0)
+* [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1 - Dor Moshe's Blog](https://dormoshe.io/trending-news/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841-54730)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
