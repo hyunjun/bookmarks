@@ -694,6 +694,7 @@ Web
   * 올해는 interop 2022에서 개발자의 경험을 개선하기 위해 `@layer`, 컬러스페이스, `conatain`, `<dialog>`, 폼 호환성, 스크롤, 서브그리드, 타이포그래피, 뷰포트 유닛, 웹 호환성 기능을 계획
   * 2022년의 새로운 기능과 그 이후에 나올 기능을 하나씩 설명
   * [CSS의 미래를 알려드림. feat. 구글 I/O - YouTube](https://www.youtube.com/watch?v=kkiLBF_YerM)
+* [Spoqa 기술 블로그 | 다국어 환경에 맞게 타이포그래피 세팅하기 - 다국어 반응형 타이포그래피](https://spoqa.github.io/2016/06/03/localize-type-setting.html)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.1 – tech.kakao.com](https://tech.kakao.com/2022/05/20/on-demand-atomic-css-library/)
 * [내가 하면 더 잘 만들 것 같아서 만들어 본 세상 귀여운 on-demand Atomic CSS Library. -Part.2 – tech.kakao.com](https://tech.kakao.com/2022/05/24/on-demand-atomic-css-library-2/)
 * [Two lines of CSS that boosts 7x rendering performance! - DEV Community](https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd)
@@ -735,6 +736,7 @@ Web
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use?](https://www.infoq.com/presentations/rest-graphql-grpc/)
+* [Java Guides on Twitter: "𝗚𝗿𝗮𝗽𝗵𝗤𝗟 𝘃𝘀. 𝗴𝗥𝗣𝗖 𝘃𝘀. 𝗥𝗘𝗦𝗧: 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝗔𝗣𝗜 #api #apidesign #grpc #rest #GraphQL https://t.co/lhVA5SaZnG" / Twitter](https://twitter.com/GuidesJava/status/1563825575818498048/photo/1)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [Stop Using REST For APIs. GraphQL Is Way Better | by Harsha Vardhan | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-rest-for-apis-d697727ae6dd)
 * [GraphQL과 REST의 차이점 | Hwasurr's Devlog](https://hwasurr.io/api/rest-graphql-differences/)
