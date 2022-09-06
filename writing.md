@@ -100,6 +100,7 @@ Writing
 * [좋은 1 pager의 시작: 객관적으로 관찰하기](https://brunch.co.kr/@cliche-cliche/160)
 * [Scott Meyers: Advice to Prospective Book Authors](https://www.aristeia.com/authorAdvice.html)
 * [김훈의 글쓰기에서 배우는 보고서 작성법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/harbin20220831)
+* [Don’t think to write, write to think - Herbert Lui](https://herbertlui.net/dont-think-to-write-write-to-think/)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
