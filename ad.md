@@ -83,3 +83,6 @@
 # Library
 * [The Simple Guide to Building a Martech Stack](https://ahrefs.com/blog/martech-stack/)
   * [MarTech 스택 만들기 가이드 | GeekNews](https://news.hada.io/topic?id=6096)
+
+# Line
+* [글로벌을 향한 LINE 광고 플랫폼의 도전 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=Xe1dbcFjYvA)
