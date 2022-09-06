@@ -1027,6 +1027,7 @@ Business
 * [기고 | 개발·전략 모두 하는 새로운 길··· ‘코딩 리더’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/238439)
 * [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
 * [CTO와 그냥 개발자의 차이](https://brunch.co.kr/@graypool/551)
+* [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1273,6 +1274,7 @@ Business
 * [성장하는 조직, 성장하는 리더십](https://brunch.co.kr/@coupangdesign/67)
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
+* [‘덜어야 더한다’··· 지친 리더를 위한 위임의 기술 6가지 - CIO Korea](https://www.ciokorea.com/news/252202)
 * [시키느니 답답해서 직접 하고 있다고요? : 네이버 블로그](https://blog.naver.com/hs_group/222002315523) 위임
 * [리더가 극복할 7가지 필수 스트레스 (上)](https://brunch.co.kr/@graypool/398) 위임
 * [리더가 극복할 7가지 필수 스트레스 (下)](https://brunch.co.kr/@graypool/471) 경청
@@ -1404,6 +1406,7 @@ Business
 * [리더가 코딩을 배울 필요는 없지만, 리터러시는 필요하다](https://brunch.co.kr/@ccb89679260a48c/7)
 * [리더의 성패를 결정하는 7가지 도전 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32131984&memberNo=43908477)
 * [리드가 구성원을 못 믿으면 모두가 힘들어진다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/256659)
+* [인터뷰 | ‘신입사원에서 대표까지 20년’ 한국HPE 김영채 대표가 전하는 커리어 노하우 - CIO Korea](https://www.ciokorea.com/news/251272)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
