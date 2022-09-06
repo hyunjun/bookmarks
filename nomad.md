@@ -259,6 +259,7 @@ Nomad & Remote
 * [“하이브리드 아닌 완전 원격 선택한 이유는...” 드롭박스의 ‘버추얼 퍼스트’ 전환기 - CIO Korea](https://www.ciokorea.com/news/247096)
 * [Remote Startups Will Win the War for Top Talent | Future](https://future.com/remote-startups-hire-top-talent/)
   * [원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것 | GeekNews](https://news.hada.io/topic?id=7253)
+* [온라인 근무환경에서 심리적 안전감 높이는 쉬운 방법 3가지. 아침에 모여서 커피 한 잔 하며 이야기 나누던 시대는 저멀리 사라지고… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B7%BC%EB%AC%B4%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%AC%EB%A6%AC%EC%A0%81-%EC%95%88%EC%A0%84%EA%B0%90-%EB%86%92%EC%9D%B4%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80-31849b6a2224)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [nagaja.net](http://www.nagaja.net)
