@@ -81,6 +81,7 @@ Open Source
 * [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
   * [TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간 | GeekNews](https://news.hada.io/topic?id=7281)
+* [How to pay your rent with your open source project | Plausible Analytics](https://plausible.io/blog/open-source-funding)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
