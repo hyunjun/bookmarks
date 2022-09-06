@@ -158,6 +158,8 @@
   * [번역 Design Pattern In Kotlin — 1. Behavioral](https://medium.com/@hongbeomi/design-pattern-in-kotlin-1-behavioral-7185d0f71aea)
   * [번역 Design Pattern In Kotlin — 2. Creational](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-2-creational-25a30d3bdeba)
   * [번역 Design Pattern In Kotlin — 3. Structural](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-3-structural-2e5e007fc0e3)
+* [Design patterns with Kotlin Part 1 | by Sandesh Bodake | ScaleReal | Medium](https://medium.com/scalereal/design-patterns-with-kotlin-part-1-dcd230d14c6e)
+* [Design patterns with Kotlin Part 2 | by Sandesh Bodake | ScaleReal | Aug, 2022 | Medium](https://medium.com/scalereal/design-patterns-with-kotlin-part-2-319b5d4faa66)
 * [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
 * [Discovering Kotlin Contracts. The next release of Kotlin, 1.3, is… | by Nicola Corti | ProAndroidDev](https://proandroiddev.com/discovering-kotlin-contracts-3e7ed1360602)
@@ -189,6 +191,7 @@
 * [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
 * [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
 * [CPS Style](https://devroach.tistory.com/149) continuation
+* [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
