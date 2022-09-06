@@ -359,6 +359,8 @@
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
+  * [An Investigation of Dependency Management Libraries for Kotlin Multiplatform Mobile](https://www.pamelaahill.com/post/an-investigation-of-dependency-management-libraries-for-kotlin-multiplatform-mobile)
+  * [An Investigation of Dependency Management Libraries for Kotlin Multiplatform Mobile: Koin](https://www.pamelaahill.com/post/an-investigation-of-dependency-management-libraries-for-kotlin-multiplatform-mobile-part-2-koin)
 * [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
   * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
   * [KotlinDL 0.4 Is Out With Pose Detection API, EfficientDet for Object Detection, and EfficientNet for Image Recognition | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2022/06/kotlindl-0-4-is-out-with-pose-detection-api-efficientdet-for-object-detection-and-efficientnet-for-image-recognition/)
