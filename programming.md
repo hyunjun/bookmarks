@@ -892,6 +892,7 @@ Programming
 * [The 2022 API Platform Landscape: Trends and Challenges | Postman Blog](https://blog.postman.com/2022-api-platform-landscape-trends-and-challenges/)
 * [**Stack under attack: what we learned about handling DDoS attacks - Stack Overflow Blog**](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) API를 만드는 원칙에 해당하는 이야기
   * [StackOverflow가 DDOS를 대응하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=7006)
+* [한 GCP 고객사, ‘사상 최대’ 디도스 공격 막아냈다 - CIO Korea](https://www.ciokorea.com/news/251098) DDoS
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2980,6 +2981,7 @@ Programming
 * [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
 * ['사례로 본' 코드 재사용이 여전히 보안 악몽인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/202964)
+* [블로그 | 보안은 원래 어렵다, 쉬워지는 '기적'은 없을 터다 - CIO Korea](https://www.ciokorea.com/news/251134)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
 * [SAML is insecure by design | joonas.fi](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
