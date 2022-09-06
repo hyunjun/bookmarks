@@ -595,6 +595,7 @@ Business
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
 * [집단사고(group think) vs. 집단지성(collective intelligence)](https://www.linkedin.com/feed/update/urn:li:activity:6967499027290419200/)
+* [기술 분야의 성공을 이끄는 11가지 법칙 67p PDF | GeekNews](https://news.hada.io/topic?id=7236)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
