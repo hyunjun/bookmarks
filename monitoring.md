@@ -122,6 +122,7 @@ Monitoring
   * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
 * [internet-monitoring: Monitor your network and internet speed with Docker & Prometheus](https://github.com/geerlingguy/internet-monitoring)
 * [Jaeger: open source, end-to-end distributed tracing](https://www.jaegertracing.io/)
+  * [A beginner’s guide to Jaeger. Welcome to A beginner’s guide to Jaeger… | by Magsther | Aug, 2022 | FAUN Publication](https://faun.pub/a-beginners-guide-to-jaeger-ed75ce5ed8f4)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
