@@ -575,6 +575,7 @@ Java
 * [Handling checked exceptions in Java streams](https://www.oreilly.com/ideas/handling-checked-exceptions-in-java-streams)
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 * [How to use groupingBy Collector in Java Streams - CodersTea](https://www.coderstea.com/post/java/how-to-use-groupingby-collector-in-java-streams/)
+* [Stream API -most useful operations | by Deepika sharma | Javarevisited | Medium](https://medium.com/javarevisited/stream-api-most-useful-operations-28e3988002d0)
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
 * [5. JAVA - 스트림과 함수형 인터페이스(람다식)](https://kim-jong-hyun.tistory.com/38)
