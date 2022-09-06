@@ -89,6 +89,7 @@ Network
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
   * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
 * [칼럼ㅣ네트워크 가용성, 적은 내부에 있다 - CIO Korea](https://www.ciokorea.com/news/251992)
+* [**HTTP/1 to HTTP/2 to HTTP/3 - YouTube**](https://www.youtube.com/watch?v=a-sBfyiXysI)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -209,6 +210,8 @@ Network
 * [HTTP에 대해서 알아보자(정의와 구조)](https://velog.io/@couchcoding/HTTP%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%EC%A1%B0)
 * [HTTP-2 Session, Cookie, JWT에 대해서 알아보자](https://velog.io/@couchcoding/HTTP-2-HTTP%EC%97%90%EC%84%9C-%EC%83%81%ED%83%9C%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Session-Cookie)
 * [HTTP Cache 업데이트로 더 강력한 보안 및 개인 정보 보호하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220223)
+* [HTTP 캐시 (Cache-Control, 유효성 검증 및 조건부 요청 등)](https://hudi.blog/http-cache/)
+* [HTTP 캐시 무효화 (Cache Busting)](https://hudi.blog/http-cache-busting/)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
 * [HTTP 총정리(정의,메세지,응답, 요청,메소드)](https://velog.io/@fejigu/HTTP%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%A0%95%EC%9D%98%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%91%EB%8B%B5-%EC%9A%94%EC%B2%AD%EB%A9%94%EC%86%8C%EB%93%9C)
 
