@@ -937,6 +937,7 @@ Programming
 * [Webhooks.fyi](https://webhooks.fyi/)
   * 웹 훅은 모던 API 개발의 기반이지만 표준화되어 있지도 않고 설계, 보안, 운영 경험에 관심을 가지지 않고 있어서 이를 바꾸기 위해서 만든 사이트
   * 웹훅 디렉터리를 제공해서 각 웹 훅을 비교할 수 있게 하고 웹 훅의 보안과 운영 경험에 대한 문서를 정리해서 제공
+  * [Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드 | GeekNews](https://news.hada.io/topic?id=7248)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
@@ -2686,6 +2687,8 @@ Programming
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
   * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
   * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
+* InfCon
+  * [인프콘 2022 회고](https://velog.io/@yukina1418/%EC%9D%B8%ED%94%84%EC%BD%98-2022-%ED%9A%8C%EA%B3%A0)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
   * [LINE 앱을 위한 확장 가능한 멀티 데이터 센터 ID제너레이터 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=Nj6z8NgKun0) ULI
