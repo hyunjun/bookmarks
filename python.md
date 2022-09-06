@@ -4247,6 +4247,7 @@ Python
 * [파이썬 패키징의 과거, 현재, 그리고 미래 - Morgenrøde](https://ryanking13.github.io/2021/07/11/python-packaging.html)
 * [Abandon requirements.txt for managing dependencies in Python immediately | by Vitor Ramalho | Medium](https://medium.com/@ramalhodevitor/abandon-requirements-txt-for-managing-dependencies-in-python-immediately-50b1c45b824a)
 * [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
+* [Convert PY to EXE Automatically - YouTube](https://www.youtube.com/watch?v=OZSZHmWSOeM)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
