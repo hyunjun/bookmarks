@@ -102,6 +102,7 @@ Programming Language
 * [Programming Idioms](https://programming-idioms.org/)
 * [Programming Language Tourism: Leave Python and See the World! - YouTube](https://www.youtube.com/watch?v=O2ArH_MoeKQ) 트렌드 변화 및 Elm, Idris등 다른 언어들에 대한 이야기
 * [The Problem with Popular Programming Languages | by Charles Scalfani | Sep, 2021 | Medium](https://cscalfani.medium.com/the-problem-with-popular-programming-languages-67faa14ac13b)
+* [람보르기니와 지프랭글러](https://jojoldu.tistory.com/677) 적정 적합한 기술 선택
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
