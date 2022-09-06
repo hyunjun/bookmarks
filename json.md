@@ -62,6 +62,9 @@ Json
 * [aeson: Fast JSON parsing and encoding](http://hackage.haskell.org/package/aeson)
   * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
 
+# Kotlin
+* [Using JSON schema with statically typed object-oriented languages — Illustrated in Kotlin | by Martin Devillers | Aug, 2022 | Medium](https://medium.com/@martin.devillers/using-json-schema-with-statically-typed-object-oriented-languages-illustrated-in-kotlin-cb2cd34244f5)
+
 # Java
   * [3 Examples to parse JSON in Java using Jackson, Gson, and json-simple](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html#axzz7OtRG48iP)
 * json to java class
