@@ -87,3 +87,6 @@
 
 # Line
 * [글로벌을 향한 LINE 광고 플랫폼의 도전 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=Xe1dbcFjYvA)
+
+# Naver
+* [python-PowerNad: Naver search Ad Lib for Python](https://github.com/devkingsejong/python-PowerNad)
