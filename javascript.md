@@ -4065,6 +4065,7 @@ Javascript
 * [Build Gmail-like UI with React Native](https://morioh.com/p/fff231ce712b)
 * [5 Best Emulators for React Native to Run and Test the Mobile Applications](https://technologytrim.blogspot.com/2022/08/%205-Best-Emulator-for-React-Native-to-Run-and-Test-the-Mobile-Applications.html)
 * [Using CSS Modules in React Native - LogRocket Blog](https://blog.logrocket.com/css-modules-react-native/)
+* [Dynamic Dependent Dropdown List in React Native | Create Cascading Dropdowns - YouTube](https://www.youtube.com/watch?v=tN6MpJ9ElJY)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
