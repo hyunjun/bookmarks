@@ -741,6 +741,7 @@ Book
   * 한라 911.06-박58ㅅ-1~7 탐라 문911.06-박59-1~5 우당 문911.06-박59ㅅ-1~7
 * (NOT YET) [지도의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281358057)
   * 한라 989-스65ㅈ 우당 문989-스66ㅈ
+* (NOT YET) [폭풍 전의 폭풍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=201299176)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
