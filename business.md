@@ -960,6 +960,7 @@ Business
 * [효율적이고 우아하게 의견에 반대하는 4가지 방법 - Wonderful Mind](https://wonderfulmind.co.kr/disagree-effectively-elegantly-4-key-ways/)
 * [유치원생도 이해하는 커뮤니케이션 노하우 - Kyuhan Nam Universe](https://www.morethanair.com/103554/)
 * [Can You Read People's Emotions? - The New York Times](https://archive.nytimes.com/well.blogs.nytimes.com/2013/10/03/well-quiz-the-mind-behind-the-eyes/)
+* [**여전히 궁금하니까, 일 잘하는 사람의 커뮤니케이션**](https://brunch.co.kr/@minheelee3/54)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
