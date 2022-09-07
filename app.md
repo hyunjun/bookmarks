@@ -1855,6 +1855,7 @@ App
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
+* [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
