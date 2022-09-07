@@ -3160,6 +3160,7 @@ Python
   * [프롤로그 - MakinaRocks Link](https://makinarocks.gitbook.io/link/v/ko/)
   * [Link Examples - MakinaRocks Link](https://makinarocks.gitbook.io/link/examples/link-examples)
   * [link-example: Machine Learning Study](https://github.com/makinarocks/link-example)
+  * [The Best Jupyterlab Extension That You Didn't Know Existed! - YouTube](https://www.youtube.com/watch?v=fClT4PWlGoA)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
