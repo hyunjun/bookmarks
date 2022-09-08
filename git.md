@@ -275,6 +275,7 @@ Git
 * [git tips and tricks - Part 1: the fundamentals](https://gajon.org/git-tips-and-tricks-part-1-the-fundamentals)
 * [GitHub Sponsors](https://github.com/sponsors)
   * [GitHub Sponsors가 국내에 열렸습니다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1609)
+* [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI - DEV Community 👩💻👨💻](https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
