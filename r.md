@@ -492,6 +492,7 @@ R
 * [R) 패키지 문제해결](https://datadoctorblog.com/2020/04/18/R-package-troubleshooting/)
 * [Detecting Security Vulnerabilities in R Packages | R-bloggers](https://www.r-bloggers.com/2020/08/detecting-security-vulnerabilities-in-r-packages-2/)
 * [Top 10 R Packages for Data Science in 2022 that I Recommend - My Guide Info](https://www.myguideinfo.com/2022/02/top-10-r-packages-for-data-science-in-2022.html)
+* [R Libraries Every Data Scientist Should Know - PYOFLIFE](https://pyoflife.com/r-libraries-every-data-scientist-should-know/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * autoReg [Automatic Linear and Logistic Regression and Survival Analysis • autoReg](https://cardiomoon.github.io/autoReg/)
