@@ -1041,8 +1041,11 @@ Javascript
 * [RxJS : 네이버 블로그](https://blog.naver.com/pjt3591oo/222613928170)
 * [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
-* [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
-* [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/) web component
+* [Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+  * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
+  * [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/) web component
+  * [FAST](https://www.fast.design/)
+    * [How to Use Web Components with React | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-use-web-components-with-react-5b8bb59d6c5)
 * [The Many Flavours of Micro Front Ends - Better Programming - Medium](https://medium.com/better-programming/the-many-flavours-of-micro-front-ends-2db4b21dfbaa)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
