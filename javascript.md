@@ -909,6 +909,7 @@ Javascript
   * [JavaScript Date Get and Set Methods](https://techstack.hashnode.dev/javascript-date-get-and-set-methods)
   * [Code에서 날짜와 시간을 처리하는 것은 상당히 번거로운 일입니다. 사실, 기술적인 어려움이라기보단 시간에 대한 물리학적인 이해의 부족이죠. | by 이상선 | Jan, 2022 | Medium](https://medium.com/@sunyi233/code%EC%97%90%EC%84%9C-%EB%82%A0%EC%A7%9C%EC%99%80-%EC%8B%9C%EA%B0%84%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%83%81%EB%8B%B9%ED%9E%88-%EB%B2%88%EA%B1%B0%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%8B%A4-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9D%B8-%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%B4%EB%9D%BC%EA%B8%B0%EB%B3%B4%EB%8B%A8-%EC%8B%9C%EA%B0%84%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AC%BC%EB%A6%AC%ED%95%99%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%95%B4%EC%9D%98-%EB%B6%80%EC%A1%B1%EC%9D%B4%EC%A3%A0-fe3fd343478d)
   * [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
+  * [Measure Time Taken by a Function to Execute in JavaScript - YouTube](https://www.youtube.com/watch?v=3dkTjy9AX6k)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
