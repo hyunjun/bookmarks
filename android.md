@@ -81,6 +81,7 @@ Android
 * [쿠팡 안드로이드 아키텍처 — Part 1. 관심사의 분리 (Separation of Concerns, SoC) | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Aug, 2022 | Medium](https://medium.com/coupang-engineering/concerned-separate-the-concerns-7f5e1e39ce8)
 * [쿠팡 안드로이드 아키텍처 — Part 2. 앱의 모듈화 | by 쿠팡 엔지니어링 | Aug, 2022 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/the-android-app-modularization-5044010198ef)
 * [쿠팡 안드로이드 아키텍처 — Part 3. 리패키징을 통한 의존성 제거 | by 쿠팡 엔지니어링 | Aug, 2022 | Medium | Coupang Engineering Blog](https://medium.com/coupang-engineering/packaging-by-feature-for-loose-coupling-63cada079480)
+* [Android Architecture 패턴: MV 형제들, 옆에서 볼까 앞에서 볼까? : NHN Cloud Meetup](https://meetup.toast.com/posts/342)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * [TensorFlow Lite로 Android에서 실시간으로 사람의 포즈 추적해보세요](https://developers-kr.googleblog.com/2019/08/track-human-poses-in-real-time-on-android-with-tensorflow-lite.html)
 * Mastering the World of Android Testing
