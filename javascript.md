@@ -1457,7 +1457,6 @@ Javascript
 * [A Guide to GraphQL Errors | Production Ready GraphQL | Blog](https://productionreadygraphql.com/2020-08-01-guide-to-graphql-errors)
 * [운명의 Devs 클래스101에서 GraphQL을 쓰는 법(서버 편) - 조이 - YouTube](https://www.youtube.com/watch?v=rre1iQfbo7M)
 * [제3회 스포카콘 React + TypeScript + GraphQL 으로 시작하는 Web Front-End](https://www.slideshare.net/ssuserd3aacb/3-react-typescript-graphql-web-frontend)
-* [Thinking in GraphQL | Relay](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
 * [GraphQL에서 N+1 쿼리 점진적으로 개선하기. 이번 게시글에서는 GraphQL에서 발생하는 N+1 문제와 이를… | by Woosik Kim | Sep, 2022 | Medium](https://well-balanced.medium.com/graphql%EC%97%90%EC%84%9C-n-1-%EC%BF%BC%EB%A6%AC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-d758e925cc19)
 * Apollo
   * [튜토리얼: React Apollo 2.1 의 Render Props (Tutorial: Render Props in React Apollo 2.1)](https://www.vobour.com/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-react-apollo-2-1%EC%9D%98-render-props-tu)
@@ -1493,9 +1492,11 @@ Javascript
   * [Benchmark: Prisma VS TypeORM - DEV Community](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
   * [Prisma 클라이언트 설정 파악하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1617)
 * Relay
+  * [Thinking in GraphQL | Relay](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
   * [Introducing Relay Hooks: Improved React APIs for Relay](https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/)
+  * [쉽게 배우는 Relay - 1. Relay 소개](https://velog.io/@xiniha/%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Relay-1-Relay-%EC%86%8C%EA%B0%9C)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
