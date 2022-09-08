@@ -31,6 +31,8 @@ Emacs
 * [spacemacs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/spacemacs)
 * [Introduction to Emacs - YouTube](https://www.youtube.com/watch?v=Ap8n70DkVOw)
 * [인텔맥에서 iTerm 2와 함께하는 Emacs 친화적인 환경설정 : 클리앙](https://www.clien.net/service/board/cm_mac/16149146)
+* [emacs를 배우며 남기는 조각들](http://ohyecloudy.com/emacsian/)
+  * [매일 동료가 어제 커밋한 코드를 읽는 방법 ver.2022](http://ohyecloudy.com/pnotes/archives/how-to-read-merged-commits-2022/)
 
 # Library
 * Cask
