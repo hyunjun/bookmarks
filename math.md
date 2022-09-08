@@ -354,6 +354,7 @@ Math
 * [Software Carpentry: 기호 수학(Symbolic Math)](https://statkclee.github.io/symbolic-math/)
 * [T>T: When Double Precision is Not Enough | Dr Adam Luke Baskerville](https://adambaskerville.github.io/posts/LespEigenvalues/)
 * [한 점이 다각형 내부에 위치하는지 판별하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/py-polygon01/#)
+* [Manim Community v0.16.0.post0](https://docs.manim.community/en/stable/index.html) 수학을 이용한 설명을 할때, 관련되는 애니메이션을 만들어주는 라이브러리
 * [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 * [PyDualNumber: Basic implementation of dual numbers in Python](https://github.com/kaifishr/PyDualNumber)
 
