@@ -4346,6 +4346,7 @@ Javascript
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM](https://preactjs.com/)
+  * [Signals: React의 그늘에서 벗어나는 Preact? - 코드쓰는사람](https://taegon.kim/archives/10540)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [reakit: Toolkit for building accessible rich web apps with React](https://github.com/reakit/reakit)
 * [react-axes npm version - A react component that can easily use egjs-axes](https://github.com/naver/egjs-axes/tree/master/packages/react)
