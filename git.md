@@ -275,6 +275,7 @@ Git
 * [git tips and tricks - Part 1: the fundamentals](https://gajon.org/git-tips-and-tricks-part-1-the-fundamentals)
 * [GitHub Sponsors](https://github.com/sponsors)
   * [GitHub Sponsors가 국내에 열렸습니다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1609)
+* [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI - DEV Community 👩💻👨💻](https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -865,6 +866,7 @@ Git
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
   * [git - reflog - YouTube](https://www.youtube.com/watch?v=1OihCn5BoT4)
   * [내 마음대로 커밋을 다뤄보자 - reset, revert, reflog](https://blog.naver.com/pjt3591oo/222553996993)
+  * [Git reflog: Restore Version Control History - DEV Community 👩💻👨💻](https://dev.to/lobunto/git-reflog-restore-version-control-history-ke1)
 * remote
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 
