@@ -329,6 +329,7 @@ Bitcoin
 * [Soulbound Token 이해하기 : ① POAP](https://ansubin.com/understanding-soulboundtoken-poap/)
 * [“원숭이 잔치는 끝나지 않았다” NFT의 미래 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/248560)
 * [디센트 지갑 UX 스토리 : “approve” 그 특별한 트랜잭션에 관하여 | by Minho, Yoo | D'CENT Wallet | IOTRUST : Team Blog | Medium](https://medium.com/iotrustlab/%EB%94%94%EC%84%BC%ED%8A%B8-%EC%A7%80%EA%B0%91-ux-%EC%8A%A4%ED%86%A0%EB%A6%AC-approve-%EA%B7%B8-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6296ce9eb7a0)
+* [A Survey of NFT Licenses: Facts & Fictions | Galaxy — Engineering a new economic paradigm](https://www.galaxy.com/research/insights/a-survey-of-nft-licenses-facts-and-fictions/)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
