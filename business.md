@@ -596,6 +596,7 @@ Business
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
 * [집단사고(group think) vs. 집단지성(collective intelligence)](https://www.linkedin.com/feed/update/urn:li:activity:6967499027290419200/)
 * [기술 분야의 성공을 이끄는 11가지 법칙 67p PDF | GeekNews](https://news.hada.io/topic?id=7236)
+* [삼성 vs. TSMC, 글로벌 반도체 전쟁...신뢰게임ㅣ시사멘터리 추적 17회 풀영상 - YouTube](https://www.youtube.com/watch?v=RJIwtkvDkkQ) 고객의 '신뢰'
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
