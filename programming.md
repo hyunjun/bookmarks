@@ -2691,6 +2691,7 @@ Programming
 * InfCon
   * [인프콘 2022 다시보기 - 인프런 | 강의](https://www.inflearn.com/course/infcon2022)
   * [인프콘 2022 회고](https://velog.io/@yukina1418/%EC%9D%B8%ED%94%84%EC%BD%98-2022-%ED%9A%8C%EA%B3%A0)
+  * [INFCON 2022에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/infcon-2022-recap)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
   * [LINE 앱을 위한 확장 가능한 멀티 데이터 센터 ID제너레이터 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=Nj6z8NgKun0) ULI
