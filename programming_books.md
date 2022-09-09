@@ -2167,6 +2167,10 @@ Programming Books
   * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/dx.md)
   * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일. 습관은 반드시 실천할 때 만들어 집니다. | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%8A%B5%EA%B4%80%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%BC-25e795a033d1)
   * [디지털 트랜스포메이션 조직의 습관을 바꾸는 일](https://jh4hj.tistory.com/entry/%EB%94%94%EC%A7%80%ED%84%B8-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A1%B0%EC%A7%81%EC%9D%98-%EC%8A%B5%EA%B4%80%EC%9D%84-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%9D%BC)
+* [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
+  * ★★★☆☆ ~2022.09.09
+  * 한라 325.19-로57아
+  * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2189,9 +2193,6 @@ Programming Books
   * 탐라 문331.17-클231ㅂ
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
-* (NOT YET) [아마존처럼 생각하라... 디지털 경제 시대를 압도할 비즈니스 바이블 - 미래한국 Weekly](https://www.futurekorea.co.kr/news/articleView.html?idxno=121806)
-  * 한라 325.19-로57아
-  * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
 * (NOT YET) [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
