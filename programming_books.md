@@ -31,8 +31,6 @@ Programming Books
 * 넘버스 - 수학으로 범죄 해결하기
   * 한라 410 데47ㄴ
   * 약간의 수학이 나오지만, 현실에서 수학을 어떻게 사용하는지에 대한 재미있는 이야기
-* 아파치 플링크 - Learning Apache Flink
-  * 한라 005.76 데56ㅇ
 * [반갑다 Ionic](http://bjpublic.tistory.com/296)
   * 한라 005.11이14ㅂ
 * [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
@@ -208,8 +206,6 @@ Programming Books
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://jhrogue.blogspot.com/2021/04/blog-post.html)
 * (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
-* (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책
-  * 탐라 문005.76아829ㅅ
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
   * 한라 005.104-김54ㄴ
@@ -252,8 +248,6 @@ Programming Books
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
 * (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
-* (NOT YET) [아파치 플링크로 하는 스트림 데이터 처리 | 에이콘출판사](http://acornpub.co.kr/book/stream-processing-flink)
-  * 탐라 문005.76-휴58ㅇ
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
 * (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
 * (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
@@ -1506,6 +1500,12 @@ Programming Books
 * (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
 * (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
+
+# Flink
+* 아파치 플링크 - Learning Apache Flink
+  * 한라 005.76 데56ㅇ
+* (NOT YET) [아파치 플링크로 하는 스트림 데이터 처리 | 에이콘출판사](http://acornpub.co.kr/book/stream-processing-flink)
+  * 탐라 문005.76-휴58ㅇ
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
@@ -2959,6 +2959,7 @@ Programming Books
 * (NOT YET) [스파크 완벽 가이드 스파크를 활용한 빅데이터 처리와 분석의 모든 것](http://www.hanbit.co.kr/store/books/look.php?p_code=B6709029941)
   * [github.com/databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
   * [github.com/ethany21/Spark-The-Definitive-Guide](https://github.com/ethany21/Spark-The-Definitive-Guide)
+* (NOT YET) [스파크를 활용한 실시간 처리](https://hanbit.co.kr/store/books/look.php?p_code=B7070333457)
 
 # Statistics
 
@@ -2974,6 +2975,11 @@ Programming Books
 * (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
 * (NOT YET) [파이썬으로 배우는 통계학 교과서 기초 이론부터, 모델, 머신러닝까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7226175941)
 * (NOT YET) [<파이썬을 활용한 베이지안 통계(2판)> 번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/thinkbayes2nd/)
+
+# Streaming
+* (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책
+  * 탐라 문005.76아829ㅅ
+* (NOT YET) [실시간 분석의 모든 것: 스트리밍 데이터 분석 및 시각화 시스템 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B7481998792)
 
 # TDD Test
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
