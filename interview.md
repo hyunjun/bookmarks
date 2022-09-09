@@ -95,6 +95,7 @@ Interview
 * [HOW TO ACE YOUR TECHNICAL INTERVIEW - EFFECTIVE COMMUNICATION | Tips from a Twitter engineer](https://www.youtube.com/watch?v=id7d0HeLT5g)
   * edge cases, scope, use case, future extensions, tests, performance requirements
 * [7 Steps To Approach A Coding Interview Question + Practice Tips!](https://ankurkhemani.com/best-coding-interview-tips)
+* [면접관(면접하는 사람)을 위한 교육 – Dreaming for the Future](http://www.chidoo.me/index.php/2022/09/09/interviewer-training/)
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
