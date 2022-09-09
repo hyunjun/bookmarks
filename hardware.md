@@ -30,6 +30,7 @@ Hardware
 * [Building a REST API in Python | Home Automation #02](https://www.youtube.com/watch?v=4T5Gnrmzjak)
 * [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
 * [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
+* [누구나 3만원으로 홈 네트워크 만들기, 인터넷 기사님이 안해주는 이유 - YouTube](https://www.youtube.com/watch?v=FxGQ1le-Si8)
 * [Smart Home Hacking in Real World](http://codegate.org/assets/kr/files/Smart%20Home%20Hacking%20in%20Real%20World.pdf)
 * [My Smart Home 2021 | Joris Roovers](https://jorisroovers.com/posts/my-smart-home-2021)
 * [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
