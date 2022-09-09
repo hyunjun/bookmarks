@@ -5028,6 +5028,8 @@ Python
     * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
   * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
   * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
+  * [pytest-postgresql: This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client](https://github.com/ClearcodeHQ/pytest-postgresql)
+    * [Pytest Postgresql: A Plugin That Helps Check Running PostgreSQL](https://morioh.com/p/ffd751a4a2b7)
 * [Tabletests](http://horia141.com/tabletests.html)
 * unittest
   * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
