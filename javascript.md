@@ -3867,6 +3867,7 @@ Javascript
 * [5 Tools To Speed Up React Development Productivity | JavaScript in Plain English](https://javascript.plainenglish.io/5-tools-practices-to-help-you-develop-faster-in-react-b884c1b20fc2)
 * [React Custom Icon Component 개발기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/09/06/react-icon-component.html)
 * [How To Implement Environment Variables in React Native - YouTube](https://www.youtube.com/watch?v=qi8Op1ihD0E)
+* [React 이벤트와 브라우저 이벤트 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220908-react-event-and-browser-event/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
