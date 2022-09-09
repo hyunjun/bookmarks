@@ -307,6 +307,7 @@ Hadoop
 * [order by, sort by, cluster by 의 차이](https://118k.tistory.com/441)
 * [How to generate Hive Random Data based on input data schema 1](https://www.youtube.com/watch?v=bLKdT2WW2-s)
 * [Extending Hive Replication: Transactional Tables, External Tables, and Statistics](https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/)
+* [Hive에서 실시간으로 쇼핑 데이터를 조회할 수 있게 ETL 개선하기](https://engineering.linecorp.com/ko/blog/improve-ETL-to-view-data-real-time-on-Hive)
 
 # Hue
 * [Hue](http://gethue.com/)
