@@ -505,6 +505,7 @@ Scala
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
+* [CQRS with Event Sourcing, Scala, Akka and Cassandra - YouTube](https://www.youtube.com/watch?v=elG3jEGjGFk)
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
@@ -1069,12 +1070,14 @@ Scala
       * [Write a simple message processing pipeline using ZIO Streams](https://medium.com/@brianxiang/write-a-simple-message-processing-pipeline-using-zio-streams-cb72a3289913)
       * [A Tour of ZIO Streams - YouTube](https://www.youtube.com/watch?v=OiuKbpMOKsc)
       * [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=bbss7elSfxs)
-    * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
-    * ZIO stream
       * [Autorecovery for (JMS) Streams | Blended - ZIO](http://blended-scala.org/posts/2020-10-30-recoveringstreams/)
       * [Keep alive for JMS connections | Blended - ZIO](http://blended-scala.org/posts/2020-11-05-jmskeepalive/)
       * [Exploring ZIO - Part I - SmartJava](https://www.smartjava.org/content/exploring-zio-part-1/)
       * [Exploring ZIO - Part II - ZStream and modules - SmartJava](https://www.smartjava.org/content/exploring-zio-part-2/)
+      * [ZIO Streams, Part 1: Essential Stream Components - YouTube](https://www.youtube.com/watch?v=bp3nM6bfzJk)
+      * [ZIO Streams, Part 2: Error Handling - YouTube](https://www.youtube.com/watch?v=eewZHxuBA3E)
+      * [ZIO Streams, Part 3: A Bigger Example - YouTube](https://www.youtube.com/watch?v=hZ8Ht6UlXcY)
+    * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
       * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
     * ZIO test
@@ -1677,6 +1680,10 @@ Scala
   * [Architecting a flexible and purely functional Scala back-end using Slick and Tagless Final](https://medium.com/panaseer-labs-engineering-data-science/architecting-a-flexible-and-purely-functional-scala-back-end-using-slick-and-tagless-final-97b9754f5817)
   * [Playing With Scala - Slick | Philippe’s Blog](https://plippe.github.io/blog/2020/06/01/playing-with-scala-slick.html)
   * [Storing date and time into MySQL using Slick/Scala - Stack Overflow](https://stackoverflow.com/questions/31351361/storing-date-and-time-into-mysql-using-slick-scala/31368875)
+  * [Slick Tutorial with Scala, Part 1 - Setup and Essential CRUD Operations - YouTube](https://www.youtube.com/watch?v=Uwqf_8nwYN4)
+  * [Scala and Slick Tutorial, Part 2 - Advanced Queries - YouTube](https://www.youtube.com/watch?v=9gbgy1XdK8Q)
+  * [Scala and Slick Tutorial, Part 3 - Advanced Features: Mapping to Enums, DDL Scripts - YouTube](https://www.youtube.com/watch?v=M3zsW7RF0L8)
+  * [Scala and Slick Tutorial, Part 4 - Slick with PostgreSQL - YouTube](https://www.youtube.com/watch?v=jd4pvAb83OU)
   * [slick-pg - Slick extensions for PostgreSQL](https://github.com/tminglei/slick-pg)
 
 ## Library Documentation
@@ -2103,6 +2110,8 @@ Scala
 * [Alex Nedelcu - OOP versus Type Classes in Scala - YouTube](https://www.youtube.com/watch?v=UT2K9c66xCU)
   * [OOP vs Type Classes, Part 1: Ideology - Alexandru Nedelcu](https://alexn.org/blog/2022/05/13/oop-vs-type-classes-part-1-ideology/)
 * [Containers - Associating items by Type Class](https://mhammons.hashnode.dev/containers)
+* [Containers - Associating items by Type Class](http://mark.hammons.fr/blog/containers.gmi)
+* [Containers Redux - Capturing Type Class information for myriad types](http://mark.hammons.fr/blog/containers-redux-2022-08-26.gmi)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
@@ -2171,6 +2180,7 @@ Scala
 * [Writing a simple CLI game in Scala 3](https://softwaremill.com/writing-a-simple-cli-game-in-scala-3/)
 * [Scala 3: “Erased” Definitions. Martin Odersky and the EPFL Scala… | by Dean Wampler | Scala 3 | Mar, 2022 | Medium](https://medium.com/scala-3/scala-3-erased-definitions-6130a30fbba4)
 * [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
+* [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
