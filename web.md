@@ -1131,6 +1131,7 @@ Web
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
     * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
   * [FastyAPI: FastyAPI is a Stack boilerplate optimised for heavy loads](https://github.com/achaayb/FastyAPI)
+  * [full-stack-fastapi-postgresql: Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more](https://github.com/tiangolo/full-stack-fastapi-postgresql)
   * [mnist-fastapi-aio-triton: Simple example of FastAPI + gRPC AsyncIO + Triton](https://github.com/Curt-Park/mnist-fastapi-aio-triton)
   * [mnist-fastapi-celery-triton: Simple example of FastAPI + Celery + Triton for benchmarking](https://github.com/Curt-Park/mnist-fastapi-celery-triton)
     * A: FastAPI + Celery (w/ Redis Task Queue) + One Torch Script Model per One worker process
