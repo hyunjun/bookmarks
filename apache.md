@@ -98,6 +98,9 @@ Apache
 * [Apache Atlas — Using the v2 Rest API](https://medium.com/hashmapinc/apache-atlas-using-the-v2-rest-api-6f9be1c256ae) Atlas의 Rest API를 사용하여 데이터를 기록하는 방법 소개
 
 # Beam
+* [Apache Beam](https://beam.apache.org/)
+  * 직접적으로 스트림 처리 기능을 제공하지는 않지만, 배치 처리와 스트림 처리 모두에 사용 가능한 통합된 프로그래밍 모델 제공
+  * 전체 처리 파이프라인의 컴포넌트들을 실행하기 위해 삼자, 스파크, 플링크와 같은 플랫폼 사용
 * Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal)
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
   * 스트림 및 테이블을 기반으로 작성된 Apache Beam 모델에 대한 내용
@@ -192,7 +195,10 @@ Apache
 * [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 
 # Flink
-* [Flink](https://flink.apache.org/)
+* [Flink](https://flink.apache.org)
+  * 스트림 처리를 목적으로 개발된 프로젝트, 동작의 지연이 매우 낮음
+  * 삼자와 마찬가지로 YARN을 지원하지만, 메소스(Mesos), 쿠버네티스(Kubernetes), 혹은 독립 실행 클러스터(standalone cluster)도 지원
+  * 파이썬이나 R에서 사용할 수 있는 고수준 API 역시 지원
 * [Apache Flink Training](http://dataartisans.github.io/flink-training/)
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 * [스사모 테크톡 - Apache Flink 둘러보기](http://www.slideshare.net/sangwookimme/apache-flink-48832827)
@@ -435,7 +441,6 @@ Apache
 * [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 * [Presto SQL을 이용하여 Kafka topic 데이터 조회하기](http://www.popit.kr/presto-sql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-kafka-topic-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/)
 * [New in Cloudera Enterprise 5.8: Flafka Improvements for Real-Time Data Ingest](http://blog.cloudera.com/blog/2016/08/new-in-cloudera-enterprise-5-8-flafka-improvements-for-real-time-data-ingest/)
-* [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 * [Understanding of Apache Kafka – Part.1](http://bitnine.net/blog-computing/understanding-of-apache-kafka-part-1/)
 * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
 * [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
@@ -688,8 +693,6 @@ Apache
 * [컨플루언트 김현수 상무 I 이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할 on Vimeo](https://vimeo.com/649824818)
 * [Building and Scaling a Control Plane for 1000s of Kafka Clusters - YouTube](https://www.youtube.com/watch?v=akv8jqgNScg)
 * [Consuming over 1 billion Kafka messages per day at Ifood | by felipe volpone | Nov, 2021 | Medium](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
-* [Kafka로 메시지와 이벤트 처리하기 - (1) Kafka 세팅하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/1/)
-* [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
 * [3 Libraries You Should Know to Master Apache Kafka in Python | by Xiaoxu Gao | Towards Data Science](https://towardsdatascience.com/3-libraries-you-should-know-to-master-apache-kafka-in-python-c95fdf8700f2)
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 * [APACHE-KAFKA - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUJIIIMbWvHHrp83SrtbpgWU)
@@ -720,16 +723,6 @@ Apache
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
-* [akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...](https://github.com/tchiotludo/akhq)
-  * [카프카 매니저를 대체할 수 있을까?! AKHQ (Apache Kafka HQ) :: 언제나 김김](https://always-kimkim.tistory.com/entry/Kafka-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-AKHQ-Apache-Kafka-HQ)
-* [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
-  * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
-  * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
-  * [Apache Kafka Lag Monitoring and Metrics at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)
-  * [kafka-lag-dashboard](https://github.com/AndersonChoi/kafka-lag-dashboard)
-  * [kafka-lag-dashboard](https://blog.voidmainvoid.net/279)
-* [Conduktor - the ultimate Apache Kafka Desktop Client](https://www.conduktor.io)
-* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * [Greyhound - Rich Kafka client library](https://github.com/wix/greyhound)
   * [Kafka Cron using wix/greyhound. I think one of the best ways to learn… | by Algimantas Krasauskas | Wix Engineering | Dec, 2020 | Medium](https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e)
@@ -740,37 +733,129 @@ Apache
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
   * 디테일하게 'Destionation Topic의 Partition별 offset' 을 보고 싶은 경우 Destination Topic을 모니터링 시스템에 연결하는 방식
-* [kafka-monitor - Monitor the availability of Kafka clusters with generated messages](https://github.com/linkedin/kafka-monitor)
-  * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
 * [Kafka Offset Monitor - an app to monitor your kafka consumers and their position (offset) in the queue](https://github.com/quantifind/KafkaOffsetMonitor)
 * [Kafka-Sprout: Web GUI for Kafka Cluster Management](https://github.com/oslabs-beta/Kafka-Sprout)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
-* [kcat: Generic command line non-JVM Apache Kafka producer and consumer](https://github.com/edenhill/kcat)
-  * [kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970) kcat으로 이름이 바뀐 kafkacat CLI 도구 사용 방법 설명. kcat은 non-JVM 기반 프로듀서, 컨슈머 기능을 제공하는 도구, kafka의 메타 정보 확인 메시지 전송하고 가져오는 방법
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
 * [KSETL로 Kafka 스트림 ETL 시스템을 빠르게 구성하기 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=9p0J3yZyXeg)
 * [KSETL로 Kafka 스트림 ETL 시스템을 빠르게 구성하기](https://engineering.linecorp.com/ko/blog/quickly-build-kafka-stream-etl-system-with-ksetl)
 * [KubeMQ: A Modern Alternative to Kafka - DZone Microservices](https://dzone.com/articles/seamless-migration-from-kafka-to-kubemq)
-* [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
 * MAADS [Machine Learning and AI at Scale with MAADS-VIPER and Apache Kafka](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/)
 * rest proxy
   * [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345)
   * [Confluent REST Proxy 6.0: Putting Apache Kafka to REST](https://www.confluent.io/blog/confluent-rest-proxy-putting-kafka-to-rest/)
 * [spring-kafka-example: Example source code for KafkaKRU meetup](https://github.com/gnu-gnu/spring-kafka-example)
+* [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
+* [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
+  * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
+* uGroup [Introducing uGroup: Uber’s Consumer Management Framework](https://eng.uber.com/introducing-ugroup-ubers-consumer-management-framework/)
+* [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
+
+## Kafka Client library
+* [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+* [confluent-kafka-python: Confluent's Kafka Python Client](https://github.com/confluentinc/confluent-kafka-python)
+* [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
+  * 카프카 클라이언트의 C 구현체로, 현존하는 최고의 라이브러리 중 하나 평가
+  * 컨플루언트가 지원하는 Go, 파이썬, 닷넷 클라이언트가 librdkafka를 감싸고 있는 형태로 구현되었을 정도
+  * BSD 2조항 라이선스를 따르기 때문에 어느 애플리케이션에서건 쉽게 사용 가능
+* [kafka-python: Python client for Apache Kafka](https://github.com/dpkp/kafka-python)
+  * 파이썬으로 개발된 또 다른 네이티브 구현체. 아파치 2.0 라이선스
+  * [Kafka로 메시지와 이벤트 처리하기 - (1) Kafka 세팅하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/1/)
+  * [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
+* [pykafka: Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance](https://github.com/Parsely/pykafka)
+* [Sarama - a Go library for Apache Kafka](https://github.com/Shopify/sarama)
+  * 쇼피파이(Shopify)에서 개발한 네이티브 Go 언어 구현체. MIT 라이선스
+
+## Kafka Installation & Management
+* [akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...](https://github.com/tchiotludo/akhq)
+  * 카프카 클러스터를 관리하고 조작하는 데 사용할 수 있는 GUI
+  * 사용자와 ACL을 포함한 설정 관리 기능을 지원
+  * 스키마 레지스트리나 카프카 커넥트와 같은 컴포넌트 역시 약간 지원
+  * 콘솔 툴의 대체재로 사용이 가능한, 클러스터 내의 데이터를 다룰 수 있는 툴 역시 제공
+  * [Home | AKHQ](https://akhq.io/)
+  * [카프카 매니저를 대체할 수 있을까?! AKHQ (Apache Kafka HQ) :: 언제나 김김](https://always-kimkim.tistory.com/entry/Kafka-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-AKHQ-Apache-Kafka-HQ)
+* [Conduktor | Enterprise Apache Kafka platform. | Conduktor](https://www.conduktor.io/)
+  * 오픈소스는 아니지만, 널리 쓰이는 카프카 클러스터 관리 및 조작용 데스크톱 툴
+  * 많은 매니지드 플랫폼(컨플루언트, 아이븐, 그리고 아마존 MSK)과 컴포넌트(커넥트, KSQL, 그리고 스트림즈) 지원
+  * 콘솔 툴과는 달리 클러스터 안의 데이터 역시 다룰 수 있음
+  * 하나의 클러스터에 대해서만 사용 가능한 개발용 라이선스가 무료 제공
+* [cruise-control: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
+  * 수천 대의 브로커로 이루어진 수백 대의 클러스터를 어떻게 관리해야 할까라는 질문에 대해 링크드인이 내놓은 답
+  * 원래 클러스터 안의 데이터를 자동으로 리밸런싱하는 솔루션으로 시작했지만, 이상 탐지나 브로커 추가 및 삭제와 같은 관리 작업까지도 포괄하는 시스템으로 발전
+  * 테스트용 클러스터가 아니라면 크루즈 컨트롤은 필수품
+* [julie: A solution to help you build automation and gitops in your Apache Kafka deployments. The Kafka gitops!](https://github.com/kafka-ops/julie)
+  * 줄리옵스(예전 이름: 카프카 토폴로지 빌더(Kafka Topology Builder))는 GitOps 모델을 사용해서 토픽과 ACL에 대한 자동화된 관리 기능 제공
+  * 현재 설정 상태를 보는 것을 넘어서서 줄리옵스는 토픽, 스키마, ACL 설정 등을 선언적으로 정의, 변경 가능
 * [Strimzi - Apache Kafka on Kubernetes](https://strimzi.io/)
+  * 쿠버네티스 환경에 카프카 클러스터를 쉽게 설치할 수 있도록 해 주는 쿠버네티스 오퍼레이터 제공
+  * 매니지드 서비스를 제공하진 않지만 퍼블릭이든 프라이빗이든 상관없이, 클라우드 상에서 카프카를 실행시키는 것을 쉽게 해 줌
+  * 아파치 2.0 라이선스로 제공되는 REST 프록시 구현체인 스트림지 카프카 브리지(Strimzi Kafka Bridge) 역시 제공
+  * 라이선스 문제 때문에 현재로서는 스트림지가 스키마 레지스트리 미지원
   * [strimzi-kafka-operator: Apache Kafka® running on Kubernetes](https://github.com/strimzi/strimzi-kafka-operator)
   * [Strimzi를 활용한 kafka 클러스터 구성하기 - 설치](https://chancethecoder.tistory.com/22)
   * [Kubernetes 위에 kafka 구축 - strimzi :: JackCokebb dev blog](https://jackcokebb.tistory.com/7)
   * [Strimzi 오퍼레이터 실습 가이드](https://gasidaseo.notion.site/KafkaKRU-Strimzi-9ec024740ac64041a5ff7ff2e6d68cac)
   * [Strimzi Kafka Operator로 Kafka 설치](https://blackho1e.github.io/2020-07-03-strimzi/)
   * [kafka on kubernetes (with Strimzi)](https://sotl.tistory.com/292)
-* [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
-* [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
-  * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
-* uGroup [Introducing uGroup: Uber’s Consumer Management Framework](https://eng.uber.com/introducing-ugroup-ubers-consumer-management-framework/)
-* [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
+
+## Kafka Monitoring
+* [Burrow: Kafka Consumer Lag Checking](https://github.com/linkedin/burrow)
+  * 링크드인이 개발한 또 다른 툴로, 카프카 클러스터 안의 컨슈머 랙을 전체적으로 모니터링
+  * 컨슈머에 직접 접속할 필요 없이 컨슈머가 제대로 돌아가고 있는지를 보여 줌
+  * 커뮤니티에 의해 활발하게 지원, 다른 컴포넌트들과 연결할 수 있게 해 주는 툴들에 대한 자체적인 생태계 소유
+  * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
+  * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
+  * [Apache Kafka Lag Monitoring and Metrics at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)
+  * [kafka-lag-dashboard](https://github.com/AndersonChoi/kafka-lag-dashboard)
+  * [kafka-lag-dashboard](https://blog.voidmainvoid.net/279)
+* [Kafka Dashboard | Datadog](https://www.datadoghq.com/dashboards/kafka-dashboard/)
+  * 모니터링을 위해 DataDog을 사용하는 사람들에게 카프카 클러스터와 모니터링 스택을 통합하는 것을 도와주는 훌륭한 카프카 대시보드를 제공
+  * 많은 지푯값들을 단순화함으로써 카프카 클러스터의 상태를 한눈에 알아볼 수 있도록 디자인
+* [kafka-monitor: Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more](https://github.com/linkedin/kafka-monitor) 
+  * 엑스 인프라 모니터(예전 이름: 카프카 모니터(Kafka Monitor))는 링크드인에서 카프카 클러스터와 브로커의 가용성을 모니터링하기 위해 개발
+  * 클러스터의 토픽 집합에 인위적으로 데이터를 생성해 넣은 뒤 지연, 가용성, 누락 여부 등을 측정하는 식으로 동작
+  * 클라이언트로 직접 조작할 필요 없이 카프카 클러스터의 상태를 측정할 수 있게 해 주는 귀중한 툴
+  * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
+* [kcat: Generic command line non-JVM Apache Kafka producer and consumer](https://github.com/edenhill/kcat)
+  * kcat(예전 이름: kafkacat)은 코어 아파치 카프카 프로젝트에 포함된 콘솔 프로듀서와 컨슈머의 대체재로서 인기
+  * 작고, 빠르고, C로 작성되었기 때문에 JVM 오버헤드 없음
+  * 클러스터에 대한 메타데이터를 보여줌으로써 클러스터 상태를 제한적으로나마 확인 가능
+  * [kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970) kcat으로 이름이 바뀐 kafkacat CLI 도구 사용 방법 설명. kcat은 non-JVM 기반 프로듀서, 컨슈머 기능을 제공하는 도구, kafka의 메타 정보 확인 메시지 전송하고 가져오는 방법
+* [streams-explorer: Explore Data Pipelines in Apache Kafka](https://github.com/bakdata/streams-explorer)
+  * 스트림즈 익스플로러는 쿠버네티스 안에서 동작하는 애플리케이션과 커넥터들 사이의 데이터 흐름을 시각화해서 보여주는 툴
+  * bakdata의 툴을 통해 카프카 스트림즈나 Faust를 사용해서 전체 시스템을 구축해야 하지만, 애플리케이션과 그 지표들을 쉽게 이해할 수 있는 형태로 보여 줌
+
+## Kafka Platform
+* [Aiven - Data infrastructure made simple](https://aiven.io/)
+  * 아파치 카프카를 포함한 많은 데이터 플랫폼을 위한 매니지드 솔루션 제공
+  * 스키마 레지스트리와 REST 프록시 역할을 수행하는 카라스페이스(Karapace) 개발
+    * 두 컨플루언트 솔루션의 API와 호환되지만 아파치 2.0 라이선스를 따르기 때문에 제한되는 활용 사례 같은 것은 없음
+  * 3개 주요 클라우드 제공자 외에도 디지털오션(DigitalOcean)과 업클라우드(UpCloud) 지원
+* Amazon MSK [완전관리형 Apache Kafka – Amazon MSK – Amazon Web Services](https://aws.amazon.com/ko/msk/)
+  * REST 프록시는 직접적으로 지원되지 않지만, 스키마 지원은 [AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html)와의 통합을 통해 제공
+  * 크루즈 컨트롤, 버로우, 컨플루언트 REST 프록시와 같은 커뮤니티 툴 사용을 권장
+    * 하지만, 직접 지원은 없으므로 다른 것들에 비해 통합성은 약간 떨어지지만 여전히 코어 카프카 클러스터는 지원
+* [Azure HDInsight - Hadoop, Spark, and Kafka | Microsoft Azure](https://azure.microsoft.com/en-us/services/hdinsight/)
+  * HDInsight 안에 하둡, 스파크, 다른 빅데이터 컴포넌트들과 함께 매니지드 카프카 플랫폼 제공
+  * MSK와 비슷하게, HDInsight는 코어 카프카 클러스터에 초점
+    * 스키마 레지스트리와 REST 프록시를 포함한 다른 컴포넌트들은 사용자의 선택
+  * 몇몇 서드 파티들이 이러한 시스템들을 설치할 수 있도록 해 주는 템플릿을 제공하지만 마이크로소프트 지원은 없음
+* Cloudera [Apache Kafka supported by Cloudera Enterprise](https://www.cloudera.com/products/open-source/apache-hadoop/apache-kafka.html)
+  * 클라우데라는 아파치 카프카 초기부터 카프카 커뮤니티의 일원
+  * 클라우데라 데이터 플랫폼(Cloudera Data Platform, CDP) 제품의 스트림 데이터 컴포넌트로서 매니지드 카프카 제공
+  * CDP는 단순한 카프카 이상의 것에 초점을 맞추지만, 프라이빗 옵션은 물론이고 퍼블릭 클라우드 환경에서도 동작
+* [CloudKarafka - Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/)
+  * 데이터독(DataDog)이나 스플렁크(Splunk)와 같이 널리 쓰이는 인프라스트럭처 서비스와의 통합과 함께, 매니지드 카프카 솔루션을 제공하는 데 초점
+  * 컨플루언트의 스키마 레지스트리와 REST 프록시 역시 사용할 수 있도록 지원
+    * 컨플루언트 측의 라이선스 변경으로 인해 5.0 버전까지만 지원
+  * AWS와 구글 클라우드 플랫폼에서 사용 가능
+* [Confluent Cloud: Fully Managed Kafka as a Cloud-Native Service](https://www.confluent.io/confluent-cloud/)
+  * 여러 필수 툴들(스키마 관리, 클라이언트, REST 인터페이스, 모니터링)과 함께 제공
+  * 3개 주요 클라우드 플랫폼(AWS, Microsoft Azure, Google Cloud Platform) 모두에서 사용 가능
+  * 컨플루언트에서 일하고 있는 상당수의 아파치 카프카 코어 개발자들에 의한 지원 제공
+  * 스키마 레지스트리와 REST 프록시와 같이 플랫폼에 포함되어 있는 많은 컴포넌트들은 몇몇 활용 사례를 제한하는 컨플루언트 커뮤니티 라이선스 하에 단독으로 사용 가능
 
 ## Kafka Stream
 * [카프카 스트림즈 All stream threads have died. 오류 해결 방안](https://voidmainvoid.tistory.com/437)
@@ -950,6 +1035,12 @@ Apache
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
+* Spark -> [Spark](spark.md)
+  * 데이터의 배치 처리를 목적으로 개발된 또 다른 아파치 프로젝트
+  * 데이터 스트림을 빠른 속도로 실행되는 극소배치(microbatch) 단위로 처리
+  * 덕분에 지연이 다소 높지만, 배치를 재처리하는 것만으로도 간단하게 내고장성이 제공
+  * 람다 아키텍처(Lambda architecture) 역시 쉽게 구현 가능
+  * 광대한 커뮤니티 지원 역시 강점
 * [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner ](https://github.com/datamountaineer/stream-reactor)
 
 # Kudu
@@ -1150,6 +1241,10 @@ Apache
 * [River](https://river.apache.org/)
 
 # Samza
+* [Samza](https://samza.apache.org/)
+  * 카프카를 위해 설계된 스트림 처리 프레임워크
+  * 카프카 스트림즈보다 더 오래되긴 했지만, 개발팀의 상당수가 겹치기 때문에 둘은 많은 개념들을 공유
+  * 단, 카프카 스트림즈와는 달리 삼자는 YARN에서 돌아가며, 애플리케이션이 동작할 수 있는 완전한 프레임워크를 제공
 * [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 * [Concourse: Generating Personalized Content Notifications in Near-Real-Time](https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
