@@ -255,6 +255,8 @@ Programming Books
 * (NOT YET) [아파치 플링크로 하는 스트림 데이터 처리 | 에이콘출판사](http://acornpub.co.kr/book/stream-processing-flink)
   * 탐라 문005.76-휴58ㅇ
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
+* (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
+* (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
 
 # Agile Scrum
 
@@ -635,6 +637,7 @@ Programming Books
   * [소프트웨어 아키텍트를 준비하는 히치하이커를 위.. : 네이버블로그](https://blog.naver.com/drvoss/222687857043)
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
+* (NOT YET) [소프트웨어 아키텍처 이론과 실제 4/e | 에이콘출판사](http://acornpub.co.kr/book/swarchitect-4e)
 
 # C
 
@@ -648,6 +651,7 @@ Programming Books
   * [007031: <실전대비 C 알고리즘 인터뷰> 소스 코드](https://github.com/gilbutITbook/007031)
 * (NOT YET) [C 언어 코딩 도장: 따라하기, 연습하기, 심사하기로 배우는 C 언어 프로그래밍](https://pyrasis.com/book/CCodingDojang)
   * 한라 005.133-남73ㅆ
+* (NOT YET) [CERT C 프로그래밍 2/e | 에이콘출판사](http://acornpub.co.kr/book/cert-c-2e)
 
 # C++
 
@@ -1302,6 +1306,7 @@ Programming Books
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
 * (NOT YET) [데이터로 전문가처럼 말하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B5424596013)
   * 우당
+* (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
 
 # Debugging
 
@@ -1382,6 +1387,7 @@ Programming Books
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
+* (NOT YET) [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -1442,6 +1448,7 @@ Programming Books
   * Logstash는 다루지 않으나, 데이터 분석 플랫폼 구축 및 활용에 도움
   * Fluentd의 비중이 높아 데이터 수집 및 정제에 대한 사례 참고에 좋음
 * (NOT YET) [일래스틱서치 쿡북 3/e 170가지 단계별 레시피](http://acornpub.co.kr/book/elasticsearch-cookbook-3)
+* (NOT YET) [일래스틱서치 쿡북 4/e | 에이콘출판사](http://acornpub.co.kr/book/elastic-4e)
 * (NOT YET) [실전비급 아파치 루씬 7](http://www.hanbit.co.kr/store/books/look.php?p_code=E1000467446)
 * (NOT YET) [실전비급 엘라스틱 스택 6.4](http://www.hanbit.co.kr/store/books/look.php?p_code=E2111484583)
 * (NOT YET) [엘라스틱서치 실무 가이드 - 한글 검색 시스템 구축부터 대용량 클러스터 운영까지](https://wikibook.co.kr/practical-elasticsearch/)
@@ -1487,6 +1494,7 @@ Programming Books
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
+* (NOT YET) [퀀트의 세계 | 에이콘출판사](http://acornpub.co.kr/book/quant-career)
 * (NOT YET) [이더리움과 솔리디티 입문: 이더리움을 이용한 블록체인과 암호화폐 개발 이론과 실무 | 위키북스](https://wikibook.co.kr/ethereum-solidity/)
 * (NOT YET) [솔리디티 프로그래밍 에센셜: 이더리움과 블록체인을 위한 스마트 계약 프로그래밍 입문 | 위키북스](https://wikibook.co.kr/solidity-essentials/)
   * 한라 004.6-모28ㅅ
@@ -1496,6 +1504,8 @@ Programming Books
   * 탐라 문005.11-조222ㅅ
   * [Remix - Ethereum IDE](https://remix.ethereum.org/)
 * (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
+* (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
+  * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
@@ -1888,6 +1898,9 @@ Programming Books
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자](https://www.onlybook.co.kr/entry/kafka)
 * (NOT YET) [실전 카프카 개발부터 운영까지](https://jhrogue.blogspot.com/2021/10/blog-post_21.html)
   * [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
+* (NOT YET) [Kafka Streams in Action | 에이콘출판사](http://acornpub.co.kr/book/kafka-streams-in-action)
+* (NOT YET) [아파치 카프카 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/kafka-cookbook)
+  * 탐라 문005.74-에67ㅇ
 
 # Kotlin
 
@@ -2789,6 +2802,7 @@ Programming Books
 
 # Robot
 * [ROS2 혼자공부하는 로봇SW 직접 만들고 코딩하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300466186)
+* (NOT YET) [ROS 로보틱스 프로그래밍 3/e | 에이콘출판사](http://acornpub.co.kr/book/ros-robotics-3e)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
