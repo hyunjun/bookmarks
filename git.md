@@ -272,6 +272,7 @@ Git
   * 예제도 cURL 뿐 아니라 JS와 GitHub CLI 같이 제공
 * [Specify theme context for images in Markdown (Beta) | GitHub Changelog](https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/)
   *  GitHub 마크다운에서 `prefers-color-scheme`를 이용해서 `<picture>` HTML로 라이트/다크 테마에 따라 다른 이미지 출력 가능
+* [GitHub에서 사용자 테마에 따라 다른 이미지 보여주기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1620) theme
 * [git tips and tricks - Part 1: the fundamentals](https://gajon.org/git-tips-and-tricks-part-1-the-fundamentals)
 * [GitHub Sponsors](https://github.com/sponsors)
   * [GitHub Sponsors가 국내에 열렸습니다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1609)
