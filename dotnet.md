@@ -166,6 +166,9 @@
 * dotnet
   * [.NET 6 is now in Ubuntu 22.04 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
+* Kestrel
+  * [ASP.NET Core에서 Kestrel 웹 서버 구현 | Microsoft Docs](https://docs.microsoft.com/ko-kr/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-6.0)
+  * [IIS의 훌륭한 대체 웹 서버, 마이크로소프트 케스트렐 - ITWorld Korea](https://www.itworld.co.kr/news/252016)
 * [.NET MAUI란? - .NET MAUI | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/maui/what-is-maui)
   * [Learn .NET MAUI | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/en-us/learn/maui)
   * [.net maui 로 앱을 만들어볼까 했다가 | K리그 프로그래머](https://jeho.page/essay/2022/08/19/maui.html)
