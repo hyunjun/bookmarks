@@ -865,6 +865,7 @@ App
     * [vscode-markdown-languageservice: The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools](https://github.com/microsoft/vscode-markdown-languageservice)
     * [vscode/extensions/markdown-language-features/server at main · microsoft/vscode](https://github.com/microsoft/vscode/tree/main/extensions/markdown-language-features/server)
   * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
+  * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -1784,6 +1785,7 @@ App
 * [마크다운(Markdown) 기반 OSX 프레젠테이션 도구 덱셋(Deckset)](http://blog.remotty.com/blog/2015/08/26/deckset/)
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Guide](https://www.markdownguide.org/)
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
@@ -1821,6 +1823,7 @@ App
 * [lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
   * [lookatme - 터미널 기반 마크다운 프리젠테이션 도구 | GeekNews](https://news.hada.io/topic?id=4433)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
+* [markdown: A Python implementation of John Gruber’s Markdown with Extension support](https://github.com/Python-Markdown/markdown)
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
