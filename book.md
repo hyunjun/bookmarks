@@ -644,8 +644,20 @@ Book
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-the-life-and-times-of-jaco-fuger-the-richest-man-who-ever-lived-844225ae3fcd)
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-The-Life-and-Times-of-JACO-FUGER-THE-RICHEST-MAN-WHO-EVER-LIVED)
 * [조선왕조실톡 1~7](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=116510634)
-  * 한라 911.05-무74ㅈ-1~7 탐라 문911.05-무74ㅈ-2~7 우당 문911.05-무73ㅈ-1~7
   * ★★★☆☆ 2022.09.03 2권만 봤는데 내 스타일은 아니지만 나쁘지 않음
+  * 한라 911.05-무74ㅈ-1~7 탐라 문911.05-무74ㅈ-2~7 우당 문911.05-무73ㅈ-1~7
+* [지도의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281358057)
+  * ★★★☆☆ 2022.09.09~10
+  * 한라 989-스65ㅈ 우당 문989-스66ㅈ
+  * 지도보다는 지도를 둘러싼 역사적인 이야기
+    * 단편적이지만 고대부터 현대까지 매우 긴 호흡을 다루고 있음
+    * 글을 잘 쓴 편은 아니어서 재미있게 읽히진 않지만 역사에 관심있는 사람에겐 이렇게 특정 주제로 접근하는 이야기도 흥미로운 지점이 분명히 있음
+  * [다리엔 계획 Darien Scheme](https://gist.github.com/hyunjun/074b72fd917d55f5f9d3dcda168112a3?permalink_comment_id=4296217#gistcomment-4296217)
+    * 처음 알게된 거 중 흥미로워서 기록
+    * 스코틀랜드가 잉글랜드와 합병하게 된 계기
+      * 파나마쪽에 '뉴에든버러'라는 식민지를 건설하기 위해 나라의 운명을 건 투자(사실은 투기)를 했다가 파산할 지경에 이르러서였기 때문
+    * 다시 잉글랜드와 분리 독립을 추진하는 이유도 북해 유전을 둘러싼 갈등, 결국 경제적인 요인이 매우 크니
+      * 역시 돈 문제는 역사에서 땔래야 땔 수 없는 문제라는 걸 다시 한 번 느끼게 됨
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -739,8 +751,6 @@ Book
 * (NOT YET) [혁명과 배신의 시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704886)
 * (NOT YET) [35년 1~7 세트 - 전7권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247913882)
   * 한라 911.06-박58ㅅ-1~7 탐라 문911.06-박59-1~5 우당 문911.06-박59ㅅ-1~7
-* (NOT YET) [지도의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281358057)
-  * 한라 989-스65ㅈ 우당 문989-스66ㅈ
 * (NOT YET) [폭풍 전의 폭풍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=201299176)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
