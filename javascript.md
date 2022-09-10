@@ -146,6 +146,7 @@ Javascript
 * [5 projects to master Front End Development - DEV Community](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
 * [15+ Free JavaScript Projects to Boost Resume (2021) | Crio.Do](https://www.crio.do/projects/category/javascript-projects)
 * [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥 - YouTube](https://www.youtube.com/watch?v=8GPPJpiLqHk)
+* [초보자를 위한 40가지의 자바스크립트 프로젝트](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
   * [Learning Patterns - 웹 앱 설계를 위한 패턴들 | GeekNews](https://news.hada.io/topic?id=7182)
@@ -2930,6 +2931,7 @@ Javascript
     * (2022.08.15 기준) 3달 이내에 대부분의 npm 패키지를 쉽게 임포트 할 수 있게 될 예정
       * `import express from "npm:express@5";` 같은 형식
     * Deno는 가장 빠른 JavaScript 런타임이 목표, 조만간 가장 빠른 HTTP 서버를 Deno에 추가 예정
+  * ["데노 vs. Node.js" JS 런타임 선택 가이드 - ITWorld Korea](https://www.itworld.co.kr/news/250828)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
@@ -4746,6 +4748,7 @@ Javascript
 # Typescript
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
+* [beginners-typescript-tutorial: An interactive TypeScript tutorial for beginners](https://github.com/total-typescript/beginners-typescript-tutorial)
 * [Typescript 기초편](https://clelab.io/course/typescript-basic)
 * [코딩애플 보고 정리한 TypeScript 기본 문법](https://velog.io/@dumibell/%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C-%EB%B3%B4%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%9C-TypeScript-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
@@ -4928,6 +4931,7 @@ Javascript
 * [Advanced TypeScript With Code Challenges: Utility Types | by Marius Bongarts | Jul, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-utility-types-e8c30efd9021)
 * [(번역)타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿](https://velog.io/@lky5697/the-ultimate-clean-architecture-template-for-typescript-projects)
 * [How to Use Type Guards in TypeScript - Byte This!](https://bytethisstore.com/articles/pg/typescript-type-guards)
+* [Typescript is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
