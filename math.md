@@ -108,6 +108,7 @@ Math
 * [이산수학 at main · simnalamburt/snucse](https://github.com/simnalamburt/snucse/tree/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99)
 * [The Map of Mathematics | Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 * [한국수학자열전](https://blog.naver.com/choi_joonsuk)
+* [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
