@@ -345,6 +345,7 @@ ElasticSearch - Lucene
   * [AWS Architecture for ELK - HAJI - Medium](https://hajix.medium.com/aws-architecture-for-elk-3a07af5876e7)
 * [5 Best Elastic Search Courses for Beginners to Learn Kibna, Logstash and ELK Stack in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/5-best-elastic-search-courses-for-beginners-to-learn-kibna-logstash-and-elk-stack-in-2022-eb3e1e0015c4)
 * [ELK Session 1 : Centralise Logging with ELK in Just 15 Minutes #Devops #Docker #Kubernetes - YouTube](https://www.youtube.com/watch?v=QvXzhDiDJz4)
+* [YaCy - free software for your own search engine](https://yacy.net/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
