@@ -133,6 +133,7 @@ Docker
 * [How To Run Docker in Docker Container 3 Methods Explained](https://devopscube.com/run-docker-in-docker/)
 * [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
 * [Docker in docker. 지난 한주 동안 애플리케이션을 Kubernetes 배포하는 CI/CD… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-in-docker-fb54252e3188)
+* [Learning Docker with Docker - Toying With DinD For Fun And Profit](https://iximiuz.com/en/posts/containers-learning-docker-with-docker/)
 * [Devops Project | CI/CD Setup | Part-6 | Real Time | Docker Image Build Stage - YouTube](https://www.youtube.com/watch?v=dg3PRhQOXUg)
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
@@ -625,6 +626,8 @@ Docker
 * [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 * [How to increase UDP buffer size on Docker Desktop | by h0n9 | Aug, 2022 | Medium](https://h0n9.medium.com/how-to-increase-udp-buffer-size-on-docker-desktop-b28d02d656e1)
 * [Top 6 Best practices for Container Orchestration | by Hardik Shah | Jul, 2022 | Medium](https://hardiks.medium.com/top-6-best-practices-for-container-orchestration-b4b0d3398ebc)
+* [How we clone a running VM in 2 seconds - CodeSandbox Blog](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) mmap CoW copy-on-write
+* [Debunking Container Myths 🧵 A (never-ending) series of articles that I started writing a couple of years ago to fix my own misconceptions about containers https://t.co/bD7Iw48ere / Twitter](https://twitter.com/iximiuz/status/1563851156417298434?s=20&t=k9U_jpi2l-s4egt7TvZH6A)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1992,6 +1995,7 @@ Docker
   * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
   * [Docker Removed from Kubernetes - How To Switch To ContainerD - YouTube](https://www.youtube.com/watch?v=MUcs5ekgtQs)
 * [devbox: Instant, easy, predictable shells and containers](https://github.com/jetpack-io/devbox)
+  * [Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구 | GeekNews](https://news.hada.io/topic?id=7279)
 * [docker-machine-for-mac: Docker Machine for Mac - an alternative to Docker for Mac](https://github.com/stenh0use/docker-machine-for-mac)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
