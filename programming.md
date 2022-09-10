@@ -3270,6 +3270,7 @@ Programming
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 * [What's in email tracking links and pixels? | Beng Tan](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
 * [Can You Validate These Emails? - YouTube](https://www.youtube.com/watch?v=60BPETbra9U)
+* [Why don't we do email verification in reverse?](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse)
 * [emailengine: Headless email client](https://github.com/postalsys/emailengine)
   * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
