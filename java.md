@@ -154,6 +154,7 @@ Java
 * [Ten Java coding antipatterns to avoid: Worst practices #5 through #1](https://blogs.oracle.com/javamagazine/post/java-worst-practices-antipatterns-part-two)
 * ["자바 앱 서버의 표준" 톰캣의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/249508)
 * [Java APM에 대하여 : 네이버 블로그](https://blog.naver.com/tmondev/222856816055)
+* [Using Java to Orchestrate Robot Swarms](https://www.infoq.com/articles/java-robot-swarms/) Ocado 오카도
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1321,6 +1322,7 @@ Java
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * jobrunr [Distributed Java Background Job Scheduler · JobRunr](https://www.jobrunr.io/en/)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
+* [JPro for Java/JavaFX](https://www.jpro.one/)
 * jps [Check Java processes on Linux with the jps command | Opensource.com](https://opensource.com/article/21/10/check-java-jps)
 * [JReleaser](https://jreleaser.org/) publish binaries to Homebrew, Scoop, Snapcraft, Chocolatey, among others
   * [Quick and Seamless Release Management for Java Projects with JReleaser](https://www.infoq.com/articles/java-release-management-with-jreleaser/)
