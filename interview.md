@@ -343,6 +343,7 @@ Interview
   * [시스템 설계 관련 자료들 모음 | GeekNews](https://news.hada.io/topic?id=6686)
 * [System Design - Low Level - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
 * [**Crack the System Design Interview - TianPan.co**](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+* [System Design Series' Articles - DEV Community 👩💻👨💻](https://dev.to/karanpratapsingh/series/19332)
 * [Top 10 Object Oriented Analysis and Design Interview Questions and Problems for Experienced Developers | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
