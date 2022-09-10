@@ -1365,6 +1365,7 @@ Python
   * [String Formatting in Python — 6 Things to Know About f-strings | by Yong Cui, Ph.D. | The Startup | Medium](https://medium.com/swlh/string-formatting-in-python-6-things-to-know-about-f-strings-72fd38d96172)
   * [6 Python f-strings tips and tricks - 30 seconds of code](https://www.30secondsofcode.org/articles/s/6-python-f-strings-tips)
   * [The unreasonable effectiveness of f-strings and re.VERBOSE - death and gravity](https://death.andgravity.com/f-re)
+  * [Python F-Strings Number Formatting Cheat Sheet by BrianAllan - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Python String Formatting - ThePythonGuru.com](https://thepythonguru.com/python-string-formatting/)
@@ -4209,6 +4210,7 @@ Python
 ## Library Lint
 ['오류 줄이고 보기도 좋은' 파이썬 코드 정리 툴 5가지 - ITWorld Korea](http://www.itworld.co.kr/news/162580) pycodestyle, autopep8, flake8, pylint, black
 * [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
+  * [Flake8: Your Tool For Style Guide Enforcement — flake8 5.0.4 documentation](https://flake8.pycqa.org/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
   * [flake8 git pre-commit hook 문제와 해결](http://curzy95.tumblr.com/post/156810698531/flake8-git-pre-commit-hook-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0)
 * [Pylint - Star your Python code!](https://www.pylint.org/)
