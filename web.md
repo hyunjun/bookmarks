@@ -30,6 +30,7 @@ Web
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
 * [Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
   * [Web Development for Beginners - A Curriculum](https://devrel-kr.github.io/Web-Dev-For-Beginners/)
+* [Microsoft Days in the Web - Welcome](https://microsoft.github.io/frontend-bootcamp/)
 * [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 * [**The Gold Standard Checklist for Web Components**](https://github.com/webcomponents/gold-standard/wiki)
 * [깃헙 개발자들이 React 안쓰는 이유 : Web Component - YouTube](https://www.youtube.com/watch?v=RtvSgptpfnY)
@@ -415,6 +416,8 @@ Web
 
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
+* [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://crawlee.dev/)
+  * [Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리 | GeekNews](https://news.hada.io/topic?id=7259)
 * [estela, an elastic web scraping cluster](https://github.com/bitmakerla/estela)
 * [NIGHTMARE - A high-level browser automation library](http://www.nightmarejs.org)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
@@ -951,6 +954,7 @@ Web
 * [엔진엑스 플러스(NGINX Plus)의 웹방화벽과 인그레스 콘트롤러의 활용 디지털투데이TV Live - YouTube](https://www.youtube.com/watch?v=eNZ9q5mJmFk)
 * [Best Courses to learn Nginx in depth | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/best-courses-to-learn-nginx-in-36ed9ccca804)
 * [Webserver - Apache & Nginx - YouTube](https://www.youtube.com/playlist?list=PL0xeHY_ImQVUvHIXno_CKyupaEZBcwZvC)
+* [The Future of NGINX: Getting Back to Our Open Source Roots - NGINX](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
@@ -1365,6 +1369,7 @@ Web
 * [무조건 스켈레톤 화면을 보여주는게 사용자 경험에 도움이 될까요? | Kakao Pay Tech](https://tech.kakaopay.com/post/skeleton-ui-idea)
 * [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 * [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
+* [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io/)
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
@@ -1616,6 +1621,8 @@ Web
 * [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
 * [WebSockets vs. Server-Sent Events | Bits and Pieces](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
+* [soketi](https://soketi.app/)
+  * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
