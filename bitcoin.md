@@ -236,6 +236,7 @@ Bitcoin
 * [DSHRs Blog: Ethereum Has Issues](https://blog.dshr.org/2022/04/ethereum-has-issues.html)
 * [2021년, 이더리움이 걸어온 한 해. The Year in Ethereum 2021 (by Josh… | by hersheycrypto | Apr, 2022 | Medium](https://medium.com/@hersheycrypto/the-year-in-ethereum-2021-61ef133b2bc5)
 * [Mainnet Merge Announcement | Ethereum Foundation Blog](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement)
+* [이더리움 머지(Merge), 긴 여정의 시작일 뿐](https://xangle.io/insight/research/63107797f69fa8b075aeb490)
 * [eth2-book: A book about Ethereum](https://github.com/smartcontracts/eth2-book)
 * [Polygon: A Multi-Sided Approach to ZK Scaling | Messari](https://messari.io/article/polygon-a-multi-sided-approach-to-zk-scaling?referrer=category:all-research)
 * [Polygon 시리즈 #1: Polygon PoS — Mass Adoption을 향한 여정의 시작 | by 100y | a41-allforone | Medium](https://medium.com/a41-ventures/polygon-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-polygon-pos-mass-adoption%EC%9D%84-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95%EC%9D%98-%EC%8B%9C%EC%9E%91-b907d20fd84f)
