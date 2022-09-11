@@ -4345,6 +4345,7 @@ Javascript
   * [Build a Game App with React and Next.JS | Project Full Tutorial](https://morioh.com/p/c972c95d5d43)
   * [React and Next JS Gaming Application Project Full Tutorial - YouTube](https://www.youtube.com/watch?v=H3YtJkPv89E)
   * [Next.js API Routes using next-connect](https://morioh.com/p/2b0b50fd8940)
+  * [Next Auth credentials example #nextjs #javascript #tutorial #beginner #howto - YouTube](https://www.youtube.com/watch?v=k_x6kGHhEns)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
