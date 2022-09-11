@@ -5,6 +5,7 @@ Linux
 * [Linux Fundamentals](https://www.youtube.com/playlist?list=PL8A83A276F0D85E70)
 * [pubdata.tistory.com/category/Lecture_Linux](http://pubdata.tistory.com/category/Lecture_Linux)
 * [아무도 가르쳐주지 않는 리눅스 기초](https://wiki.kreonet.net/linux-guide)
+* [따배리 리눅스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohKeqFR3Mf6V2AB5TO5dr4m)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
