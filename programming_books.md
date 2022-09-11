@@ -2983,10 +2983,14 @@ Programming Books
 * (NOT YET) [실시간 분석의 모든 것: 스트리밍 데이터 분석 및 시각화 시스템 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B7481998792)
 
 # TDD Test
+* [A/B 테스트 | 에이콘출판사](http://acornpub.co.kr/book/trustworthy-abtest)
+  * ★★★★☆ 2022.09.10~11 내가 이쪽 분야 지식이 부족해 이해를 못하는 게 아쉬워서 별 넷. 매우 좋은 책이다
+  * 탐라 문331.65-코91A
+  * [Experiment Guide – Accelerate innovation using trustworthy online controlled experiments](https://experimentguide.com/)
+  * [Tags | DevJin-Blog](https://devjin-blog.com/tags#online-controlled-experiment)
+  * [(책 요약) Trustworthy Online Controlled Experiments - A Practical Guide to A/B Testing - 13. Instrumentation | 수줍은 동그래 블로그](https://shylog.com/read-book-practical-guide-to-abtesting/)
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
-* (NOT YET) [A/B 테스트 | 에이콘출판사](http://acornpub.co.kr/book/trustworthy-abtest)
-  * 탐라 문331.65-코91A
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
 
 # UI/UX
