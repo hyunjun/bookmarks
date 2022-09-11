@@ -166,3 +166,4 @@ Shell
 
 # Tutorial
 * [Learn Shell - Free Interactive Shell Tutorial](https://www.learnshell.org/)
+* [따배셸 셸 프로그래밍 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKog2XlvGJQh9KY8ePCvUG7Je)
