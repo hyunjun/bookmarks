@@ -1576,6 +1576,7 @@ Business
 * [로그인, 회원가입, ..회원 서비스 기획 너무 어렵다!](https://brunch.co.kr/@zungyeonlee/11)
 * [주니어 PM의 '중요한 고객' 발굴하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/08/26/important-customer.html)
 * [디지털 프로덕트를 만들며 깨달은 11가지 사실](https://brunch.co.kr/@cliche-cliche/164)
+* [마켓관찰 레거시는 왜 쇠퇴하는가](https://v.daum.net/v/20220903000606836)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
