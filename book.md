@@ -335,6 +335,7 @@ Book
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
+* (NOT YET) [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
