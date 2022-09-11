@@ -85,6 +85,7 @@ Docker
 * [Docker Tutorial for Beginners with practice lab 😱 | Run Jenkins in Docker Container | Docker basics😱 - YouTube](https://www.youtube.com/watch?v=Y_1mIttlabk)
 * [DevOps Training Course and Tutorials - Beginner - ScanSkill](https://scanskill.com/course/devops-training-course-and-tutorials-beginner/)
 * [Docker Tutorial For Beginners - How To Containerize Python Applications with terraform - YouTube](https://www.youtube.com/watch?v=CMyTMfSwb_c)
+* [따배도 도커 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogb78kKq1wRvrjg1VMwYrvi)
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=QLENvSMSD-0)
 * [Docker for Beginner - YouTube](https://www.youtube.com/playlist?list=PL7yCeT0QPg1_t_vIsDGST88jjEwAu51_1)
@@ -894,6 +895,7 @@ Docker
 * [Kubernetes Tutorial For Beginners | Full Practical Course - YouTube](https://www.youtube.com/watch?v=mfodU3kCXQE)
 * [Kubernetes Tutorial For Beginners | Kubernetes Secrets Explained - YouTube](https://www.youtube.com/watch?v=_PhZVtf_IgQ)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
+* [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
