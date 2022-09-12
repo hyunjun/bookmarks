@@ -512,6 +512,7 @@ Web
 * [웹크롤링 랜덤 uger-agent, 랜덤 Proxy IP 우회 class](https://sulung-sulung.tistory.com/32)
 * [Scrape Table from a Website using Python - YouTube](https://www.youtube.com/watch?v=E_EVZsSK2I8)
 * [How to Collect Amazon.com Data Using Python | Python in Plain English](https://python.plainenglish.io/how-to-collect-amazon-com-data-using-python-a30d3ea33fda)
+* [Modern Web Scraping with Python - YouTube](https://www.youtube.com/playlist?list=PLRzwgpycm-Fio7EyivRKOBN4D3tfQ_rpu)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
