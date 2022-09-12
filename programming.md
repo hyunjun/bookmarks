@@ -1561,6 +1561,7 @@ Programming
 * [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
+* [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
