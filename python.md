@@ -4932,6 +4932,7 @@ Python
 * [파이썬 심파이(Sympy)와 함께하는 수학여행](http://sympy.xwmooc.org/02-sympy-install.html)
 * [Generating Python code from SymPy](https://www.johndcook.com/blog/2019/10/31/generating-python-code-from-sympy/)
 * [Doing symbolic math with SymPy LWN.net](https://lwn.net/Articles/840986/)
+* [Quantum Addition of Angular Momentum in Python: Obtaining the Clebsch-Gordan Coefficients - YouTube](https://www.youtube.com/watch?v=ILDEKi6x6Cg)
 
 # TDD, Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
