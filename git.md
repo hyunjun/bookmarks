@@ -277,6 +277,7 @@ Git
 * [GitHub Sponsors](https://github.com/sponsors)
   * [GitHub Sponsors가 국내에 열렸습니다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1609)
 * [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI - DEV Community 👩💻👨💻](https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5)
+* [10년차도 실수하는 Git의 화살표 방향. 프로그래밍에 발을 들이고 조금 지나면 프로그래밍 언어만큼이나 뇌를… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/10%EB%85%84%EC%B0%A8%EB%8F%84-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-git%EC%9D%98-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B0%A9%ED%96%A5-1d8cd7949d36)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -529,6 +530,7 @@ Git
   * [git flow model - YouTube](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
   * [git-flow 소개, 설치 및 사용법](https://hbase.tistory.com/60)
   * [git flow - 출시와 개발을 동시에 진행하는 방법 - YouTube](https://www.youtube.com/watch?v=w2F8O9J1keM)
+  * [Gitflow-toolkit: A Simple toolkit for GitFlow](https://morioh.com/p/b80bb1f2b7aa)
   * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
