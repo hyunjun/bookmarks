@@ -3870,6 +3870,7 @@ Javascript
 * [React Custom Icon Component 개발기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/09/06/react-icon-component.html)
 * [How To Implement Environment Variables in React Native - YouTube](https://www.youtube.com/watch?v=qi8Op1ihD0E)
 * [React 이벤트와 브라우저 이벤트 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220908-react-event-and-browser-event/)
+* [Declarative React, and Inversion of Control :: Normal Coder](https://yeoulcoding.me/325)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4664,6 +4665,7 @@ Javascript
 * [채널톡 실시간 채팅 서버 개선 여정 - 1편 : 레디스의 'Pub/Sub' - 채널톡](https://channel.io/ko/blog/real-time-chat-server-1-redis-pub-sub)
 * [채널톡 실시간 채팅 서버 개선 여정 - 2편 : Nats.io로 Redis 대체하기 - 채널톡](https://channel.io/ko/blog/real-time-chat-server-2-redis-pub-sub)
 * [Socket.IO - YouTube](https://www.youtube.com/playlist?list=PLYPSNemjHjP9nD8egM2jlXL8Ze2ZoDQJg)
+* [Realtime Notification App Using React and Socket.io - YouTube](https://www.youtube.com/watch?v=7vVqMR96T5o)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
