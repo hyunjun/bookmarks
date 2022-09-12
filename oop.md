@@ -107,6 +107,9 @@
 * [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
 * [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
 * [Command pattern - YouTube](https://www.youtube.com/watch?v=u6xmUXQ_APM)
+* [**이유와 솔루션으로 정리하는 객체지향 생활체조 원칙**](https://hudi.blog/thoughtworks-anthology-object-calisthenics/)
+  * [더 나은 소프트웨어를 향한 9단계: 객체지향 생활 체조(1) | developerFarm 개발자 농장](https://developerfarm.wordpress.com/2012/01/26/object_calisthenics_1/)
+  * [Java 객체지향 생활 체조 원칙 9가지 (from 소트웍스 앤솔러지) :: Jamie의 성장기](https://jamie95.tistory.com/99)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
