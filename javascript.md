@@ -4979,6 +4979,7 @@ Javascript
   * [프론트엔드 개발 ReasonML이라 좋았던 점 | 그린랩스](https://green-labs.github.io/reason-ml-the-good-parts)
   * [앗, ReasonML의 분기문에서는 타입이 다른 데이터를 리턴할 수 없다고요?! | 그린랩스](https://green-labs.github.io/reasonml-ways-with-types)
 * [remult: A CRUD framework for full stack TypeScript](https://github.com/remult/remult)
+  * [Remult: Build a type-safe, full-stack app - LogRocket Blog](https://blog.logrocket.com/remult-build-type-safe-full-stack-app-typescript/)
 * [ReScript Documentation](https://rescript-lang.org/)
   * [ReScript in Korean](https://green-labs.github.io/rescript-in-korean/)
   * [(2) 그린랩스 ReScript 부트캠프 | LinkedIn](https://www.linkedin.com/pulse/%EA%B7%B8%EB%A6%B0%EB%9E%A9%EC%8A%A4-rescript-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-sungmin-yang/)
