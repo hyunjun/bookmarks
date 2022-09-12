@@ -770,6 +770,15 @@ Programming
 * [애자일 관점에서 본 아마존의 개발 문화와 프로세스 - YouTube](https://www.youtube.com/watch?v=NkiHu9zGYKU)
 * [무엇이 애자일 팀을 만드는가? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32731753&memberNo=43908477)
 * [Sabotaging an Agile Transformation • Fred George • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=3cDpLVuQXEo)
+* [Scope Creep or Embrace Change? A Survey of the Connections Between Requirement Changes, Use of Agile, and Software Project Success | Simula Research Laboratory](https://www.simula.no/publications/scope-creep-or-embrace-change-survey-connections-between-requirement-changes-use-agile)
+  * [agile의 효과를 크게 보려면](https://www.facebook.com/cjunekim/posts/pfbid02Q549G7KL9T1MqXhh3Vj1hmPBCpaJBjVhmY1w3GwgbyvKwWFPZFRVCvHqE1ddjR7el)
+    * 1) 개발기간 중 얼마나 자주 릴리스했는가
+    * 2) 그 과정 중 애초의 요구사항이 얼마나 바뀌었는가
+    * 노르웨이의 시뮬라 연구소에서 공개한 논문에 따르면
+      * 프로젝트 요구사항이 30% 이상 추가, 삭제 혹은 변경된 프로젝트의 경우 애자일로 진행하면 비애자일에 비해 성공률이 훨씬 높게 나옴
+      * 심지어 같은 애자일 내에서 요구사항 변화가 별로 없는 프로젝트랑 비교해도 성공률이 더 높음
+    * 즉, 변화가 프로젝트를 불리하게 만든 게 아니라 오히려 유리하게 만들었다는 뜻
+      * 단, 애자일이라고 다 그런 게 아니라 자주 릴리스를 한 경우
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
