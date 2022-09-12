@@ -1023,6 +1023,7 @@ Docker
 * [Best practices for deploying highly available apps in Kubernetes. Part 1 – Flant blog](https://blog.flant.com/best-practices-for-deploying-highly-available-apps-in-kubernetes-part-1/)
 * [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
 * [Secure containerized environments with updated threat matrix for Kubernetes - Microsoft Security Blog](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
+* [How To Secure Docker Images With Encryption Through Containerd - Mend](https://www.mend.io/free-developer-tools/blog/secure-docker-with-containerd/)
 * [Kubernetes Security 101 - Best Practices - YouTube](https://www.youtube.com/watch?v=fsfEthTZgFw)
 * [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
 * [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
