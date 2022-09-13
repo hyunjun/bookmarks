@@ -1119,6 +1119,7 @@ Python
   * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
   * [Start Multithreading vs Multiprocessing in 5 minutes using Python](https://medium.com/swlh/how-to-start-multithreading-in-python-in-just-5-minutes-fe1f28d7aa56)
   * [Advanced Python: Python Programming guidelines For Multiprocessing | by Farhad Malik | FinTechExplained | Sep, 2020 | Medium](https://medium.com/fintechexplained/advanced-python-python-programming-guidelines-for-multiprocessing-c8385752af3a)
+  * [Unlocking your CPU cores in Python (feat. multiprocessing) - YouTube](https://www.youtube.com/watch?v=X7vBbelRXn0)
   * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
@@ -4900,6 +4901,7 @@ Python
 * [Scipy Lecture Notes — Scipy lecture notes](http://scipy-lectures.org/index.html)
 * [SciPy Conference 2022, Austin -- Scientific Computing with Python](https://www.scipy2022.scipy.org/)
   * [Enthought - YouTube](https://www.youtube.com/c/enthought/playlists)
+* [Roman Neruda, Petra Vidnerová: Tested on agents - an agent-based epidemiological model PyData Prg - YouTube](https://www.youtube.com/watch?v=aIxrvlL47io)
 
 # Slack
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
