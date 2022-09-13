@@ -83,6 +83,8 @@ Government
 * [Common Voice](https://commonvoice.mozilla.org/ko)
   * Mozilla Common Voice: 오픈 소스 음성 데이터베이스를 쉽게 다운로드하거나 기여하여 더욱 풍부한 데이터베이스를 만드는 프로젝트
     * 기업이 아닌 누구나 고품질의 음성 데이터로 애플리케이션 구축의 기회를 주자는 취지의 오픈소스
+* [Congress.gov API](https://api.congress.gov/)
+  * [미국 의회 API 베타 공개 | GeekNews](https://news.hada.io/topic?id=7386)
 * [falso: All the Fake Data for All Your Real Needs 🙂](https://github.com/ngneat/falso)
   * [Falso - 가짜 데이터 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=5850)
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
