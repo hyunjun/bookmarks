@@ -895,6 +895,7 @@ Go
 * [Go kit - A toolkit for microservices](http://gokit.io/)
   * [gokit-examples](https://github.com/shijuvar/gokit-examples)
   * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
+  * [Building Microservices with the Go Kit Toolkit - YouTube](https://www.youtube.com/watch?v=sjd2ePF3CuQ)
 * [Go Micro - a framework for microservice development](https://go-micro.dev/)
 
 ## Library MySQL
