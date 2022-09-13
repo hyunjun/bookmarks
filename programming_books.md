@@ -1992,12 +1992,23 @@ Programming Books
 
 # Management
 * [스타트업 대표 132명이 직접 추천했다?! 대표 책상에 놓여있는 조직문화 필독서!! - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/organizational20220114)
+* ['경영의 신'이 남긴 유산.. 6권의 추천서 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/inamorigazuobook20220913)
+  * [왜 일하는가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80)
+    * 2010.05.16
+    * 탐라 문325.04-이211ㅇ 우당 문325.211-이211ㅇ
+  * (NOT YET) 불패경영의 원칙
+    * 한라 325.24-이192부
+  * (NOT YET) 아메바 경영
+    * 한라 325.1-이192아 탐라 문325.1-이211ㅇ
+  * (NOT YET) 회계 경영
+  * (NOT YET) 사장의 그릇
+    * 우당 문325.24-이211ㅅ
+  * (NOT YET) 인생을 바라보는 안목
+    * 한라 199.1-이192ㅇ 탐라 문199.1-이211ㅇ 우당 문199.1-이211ㅇ
 * [똑똑하고 100배 일 잘하는 개발자 모시기 : 조엘 온 소프트웨어 시즌 2](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%98%EA%B3%A0-100%EB%B0%B0-%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%8B%9C%EA%B8%B0-%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%9C%EC%A6%8C-2)
   * 2010.03.14
 * [조엘 온 소프트웨어](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
   * 2010.03.29~30
-* [왜 일하는가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80)
-  * 2010.05.16
 * [드리밍 인 코드](https://jh4hj.tistory.com/entry/%EB%93%9C%EB%A6%AC%EB%B0%8D-%EC%9D%B8-%EC%BD%94%EB%93%9C)
   * 2010.05.30 앨런 케이 등
 * [More Joel on Software](https://jh4hj.tistory.com/entry/More-Joel-on-Software)
@@ -2237,6 +2248,7 @@ Programming Books
   * [리더의 질문법](https://github.com/hyunjun/bookmarks/blob/master/programming_books/humble_inquiry.md)
   * [리더의 질문법. '심리적 안전감psychological safety'은 샤인이 리더십… | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95-c91c2a4d7e11)
   * [리더의 질문법](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%9D%98-%EC%A7%88%EB%AC%B8%EB%B2%95)
+  * ['질문'이라 쓰고, '관계'라고 읽는다](https://brunch.co.kr/@minheelee3/58)
 * [사슴을 이끄는 사자의 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292258064)
   * 탐라 문325.24-슈53ㅅ
   * ★★★☆☆ 2022.06.01
