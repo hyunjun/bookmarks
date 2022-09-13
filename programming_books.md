@@ -2180,8 +2180,7 @@ Programming Books
   * [넷플릭스의 인재 확보를 위한 냉혹한 전략 - 테크42](https://www.tech42.co.kr/%eb%84%b7%ed%94%8c%eb%a6%ad%ec%8a%a4%ec%9d%98-%ec%9d%b8%ec%9e%ac-%ed%99%95%eb%b3%b4%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%83%89%ed%98%b9%ed%95%9c-%ec%a0%84%eb%9e%b5/)
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
   * 한라, 탐라
-* (NOT YET) 피플웨어
-  * 우당 문325.3디31ㅍ
+* (NOT YET) 피플웨어 [IT 프로젝트 관리와 팀워크 구축에 관한 통찰, 『피플웨어』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/07/04/it-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ea%b4%80%eb%a6%ac%ec%99%80-%ed%8c%80%ec%9b%8c%ed%81%ac-%ea%b5%ac%ec%b6%95%ec%97%90-%ea%b4%80%ed%95%9c-%ed%86%b5%ec%b0%b0-%e3%80%8e%ed%94%bc%ed%94%8c%ec%9b%a8/)
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
 * (NOT YET) [린 스타트업: 실리콘밸리를 뒤흔든 IT 창업 가이드](https://hanbit.co.kr/media/books/book_view.html?p_code=B9955361403)
