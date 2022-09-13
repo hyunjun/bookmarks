@@ -848,6 +848,8 @@ Docker
   * [:latest 를 사용하지 마세요 | GeekNews](https://news.hada.io/topic?id=6097)
 * [`COPY --chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
 * [Dockerfiles now Support Multiple Build Contexts - Docker](https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/)
+* [Dockerfile 버전선택](https://malwareanalysis.tistory.com/410)
+* [Dockerfile 버전선택(with buildkit) - YouTube](https://www.youtube.com/watch?v=WfhnFLb1tg8)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
