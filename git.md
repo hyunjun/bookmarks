@@ -1272,3 +1272,4 @@ Git
 * [누구나 쉽게 이해할 수 있는 Git 입문~버전 관리를 완벽하게 이용해보자~ | Backlog](https://backlog.com/git-tutorial/kr/)
 * [Git & Github Full Course | Part 1 | Introduction to Git | Git Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=UaeZEE4PIG8)
 * [Git for Network Engineers Series - The Basics Part 1 - Cisco Blogs](https://blogs.cisco.com/learning/git-for-network-engineers-series-the-basics-part-1)
+* [자, 이제부터 이 글을 보는 순간 Git이 쉬워집니다? - 원리로 알아보는 Git의 기초 | Dable Tech Blog](https://teamdable.github.io/techblog/Git-Basic)
