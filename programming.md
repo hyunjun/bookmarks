@@ -2281,6 +2281,7 @@ Programming
 * [모든 것은 클라우드로…비용 폭탄의 역습 | 한경닷컴](https://www.hankyung.com/it/article/2022071190291)
 * [Netflix Architecture: How Much Does Netflix's AWS Cost?](https://www.cloudzero.com/blog/netflix-aws)
 * [5 open source tools for developing on the cloud | Opensource.com](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
+* [Cloud for dummies Series' Articles - DEV Community 👩💻👨💻](https://dev.to/hellonehha/series/17981)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
