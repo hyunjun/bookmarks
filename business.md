@@ -677,6 +677,7 @@ Business
 * [How to Ask Whether an Employee Is Happy at Work](https://hbr.org/2022/04/how-to-ask-whether-an-employee-is-happy-at-work)
   * [퇴사 예방(?) 미팅 방법](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-how_to_ask_whether_an_employee_is_happy_at_work-md)
 * [⛺️ 퇴사의 이유, "소속감을 느끼지 못해서"](https://stibee.com/api/v1.0/emails/share/wCu0oRbkfJRnADKyxhW2wFmIyJxy_7s=)
+* [(조용히) 회사를 떠나게 하는 이유들 : 네이버 블로그](https://blog.naver.com/help2000/222867303150)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -1046,6 +1047,7 @@ Business
 * [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
 * [CTO와 그냥 개발자의 차이](https://brunch.co.kr/@graypool/551)
 * [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
+* [Web2 개발자가 Web3 세상에 온 소감. 진심으로 내가 Web3에 오게되리라고는 상상하지 못했다. | by Chris Song | Sep, 2022 | NFT뱅크](https://blog.nftbank.ai/web2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-web3-%EC%84%B8%EC%83%81-%EC%97%90-%EC%98%A8-%EC%86%8C%EA%B0%90-dea8985f30f6) 간접적으로 좋은 글
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1208,6 +1210,7 @@ Business
 * [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
 * [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
 * [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
+* [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
@@ -1427,6 +1430,7 @@ Business
 * [리더의 성패를 결정하는 7가지 도전 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32131984&memberNo=43908477)
 * [리드가 구성원을 못 믿으면 모두가 힘들어진다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/256659)
 * [인터뷰 | ‘신입사원에서 대표까지 20년’ 한국HPE 김영채 대표가 전하는 커리어 노하우 - CIO Korea](https://www.ciokorea.com/news/251272)
+* [이상을 좇는 리더 vs 현실과 타협하는 리더](https://brunch.co.kr/@seanpang/44)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
