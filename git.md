@@ -1058,6 +1058,7 @@ Git
   * [GitHub CLI 2.0 includes extensions! | The GitHub Blog](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
   * [Do more with GitHub through GitHub CLI & what is new in GitHub CLI 2.0! - YouTube](https://www.youtube.com/watch?v=4rZrw1s9AbA)
   * [gh-dash: gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI](https://github.com/dlvhdr/gh-dash)
+    * [GH-dash: A Beautiful CLI Dashboard for GitHub](https://morioh.com/p/95cb4777d8a6)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
