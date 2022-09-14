@@ -746,6 +746,7 @@ Deep Learning
 * [1. 딥러닝이란 무엇인가? | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/%ec%bc%80%eb%9d%bc%ec%8a%a4-%eb%94%a5%eb%9f%ac%eb%8b%9d/1-%eb%94%a5%eb%9f%ac%eb%8b%9d%ec%9d%b4%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80/)
 * [How “Deep Learning” Will Radically Change Our Lives | by Upen Singh | DataDrivenInvestor](https://medium.datadriveninvestor.com/how-deep-learning-will-radically-change-our-lives-8b0f251e0f54)
 * [Learnable Dynamics Model로 무엇을 할 수 있을까? | by Taeho Lee | We’re Team MakinaRocks! | Aug, 2022 | Medium](https://medium.com/makinarocks/learnable-dynamics-model%EB%A1%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-b801c6d4fe5b)
+* [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -2675,6 +2676,18 @@ CVPR2016)
   * Scalable Deep Learning in Baidu
     * [slide](http://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
     * [video](https://youtu.be/n9yZNmC20pc)
+
+# Text to image text2image
+* [Jina.ai X AI Network Text to image 의 흐름과 Web 3 환경에서의 활용 - Google Slides](https://docs.google.com/presentation/d/1M1yhe0Cy-hcvUEWkjT6zLUBZ5CLhxLorDxR36sAiCBs/edit#slide=id.p)
+* [awesome-diffusion: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources](https://github.com/cobanov/awesome-diffusion)
+* [clip-as-service: 🏄 Embed/reason/rank images and sentences with CLIP models](https://github.com/jina-ai/clip-as-service)
+  * [CLIP-as-a-Service: Apples and Oranges - Colaboratory](https://colab.research.google.com/github/jina-ai/workshops/blob/main/notebooks/clip-as-service/CLIP_as_a_Service_Apples_and_Oranges.ipynb)
+* [Disco Diffusion v5.61 Now with portrait_generator_v001 - Colaboratory](https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb)
+* [discoart: 🪩 Create Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
+* [Lexica](https://lexica.art/)
+* [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
+* [Stability.Ai](https://stability.ai/)
+  * [Stable Diffusion - What, Why, How? - YouTube](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
