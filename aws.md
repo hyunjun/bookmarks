@@ -1670,6 +1670,7 @@ AWS
 * [Terraform으로 Digital Ocean의 Droplet 생성하기](https://blog.outsider.ne.kr/1337)
 * [Terraform의 provisioner 사용하기](https://blog.outsider.ne.kr/1342)
 * [Terraform의 provisioner와 Ansible 연동하기](https://blog.outsider.ne.kr/1344)
+* [Ansible vs. Terraform Demystified](https://www.ansible.com/blog/ansible-vs.-terraform-demystified)
 * [AWS Summit Seoul 2018에서 발표한 "Terraform을 이용한 Infrastructure as Code 실전 구성하기"](https://blog.outsider.ne.kr/1369)
 * [Terraform에 다중 Provider 사용하기](https://blog.outsider.ne.kr/1399)
 * [AWS Bastion with Terraform Modules](https://blog.2dal.com/2017/10/29/aws-bastion-with-terraform-modules/)
