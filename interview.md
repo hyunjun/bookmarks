@@ -620,6 +620,7 @@ Interview
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
+* [8 Best System Design and Software Design Books for Programmers | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/8-best-system-design-and-software-design-books-for-programmers-be54cb313106)
 * [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 # Data Science
