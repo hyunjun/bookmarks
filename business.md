@@ -507,6 +507,7 @@ Business
   * [네카라쿠배당토 핵심가치는 뭐가 다를까?](https://brunch.co.kr/@wcms/18)
 * [실패와 패배가 지긋지긋할 때](https://blog.toss.im/article/core-values-are-evolving) 토스 핵심 가치
 * [유정식님의 핵심가치에 대한 이야기](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-core_value-md)
+* [⛺️ 핵심가치로 가장 많이 쓰이는 단어, Integrity의 의미](https://stibee.com/api/v1.0/emails/share/P5OJZznl1tARcHzgEV_Uhr4BsJ2Qmfo=)
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 * [조직을 학습곡선의 포트폴리오로 관리하라 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1803) S학습곡선
