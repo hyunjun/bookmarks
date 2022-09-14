@@ -1650,6 +1650,7 @@ Programming
 * [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
 * [Monolithic to Microservices Architecture with Patterns & Best Practices | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Aug, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 * [From monolith to microservices: How applications evolve | Red Hat Developer](https://developers.redhat.com/articles/2022/01/19/monolith-microservices-how-applications-evolve)
+* [Monolithic to Microservices: Why and How - Discover Better Value Faster](https://www.cloudnowtech.com/blog/monolithic-to-microservices-why-and-how/)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
