@@ -22,6 +22,7 @@ Programming
   * VM Warmup Blows Hot and Cold
   * Scaling SQLite to 4M QPS on a Single Server
   * Understanding Real-World Concurrency Bugs in Go (PDF)
+* [dev-info: 좋은 학습 자료 및 GitHub 활동 하시는 분들을 정리했습니다](https://github.com/cheese10yun/dev-info)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
