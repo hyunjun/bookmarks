@@ -325,6 +325,7 @@ Programming Books
 * (NOT YET) [사용자 스토리 : 고객 중심의 요구사항 기법 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/53)
 * (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
   * 한라 004-마888클 우당 문005.1-마839ㅋ
+  * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라 004.78-패838ㅅ
 * (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data/)
