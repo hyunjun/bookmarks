@@ -559,8 +559,6 @@ Data Science
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
-* [Stability.Ai](https://stability.ai/) text to image, text2image
-  * [Stable Diffusion - What, Why, How? - YouTube](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
