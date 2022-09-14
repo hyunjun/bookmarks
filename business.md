@@ -634,6 +634,7 @@ Business
 * [How should our company structure our data team? | by David Murray | Snapcommerce | Medium](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
 * [Building & scaling Engineering team | by Amit Kumar | Medium](https://toamitkumar.medium.com/building-scaling-engineering-team-21bd7471a35a)
 * [전체와 부분 그리고 엔지니어링](https://qurator.co.kr/quration/single/218)
+* [조직 구조 파악의 핵심 – Essential Node, Villain Node – hwansookim.com](https://hwansookim.com/2022/09/13/%ec%a1%b0%ec%a7%81-%ea%b5%ac%ec%a1%b0-%ed%8c%8c%ec%95%85%ec%9d%98-%ed%95%b5%ec%8b%ac-essential-node-villain-node/)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
