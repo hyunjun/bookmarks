@@ -729,6 +729,7 @@ Apache
 * hive
   * [Kafka Storage Handler Module](https://github.com/apache/hive/tree/master/kafka-handler)
 * [kafka-docker: Dockerfile for Apache Kafka](https://github.com/vcho1958/kafka-docker)
+* [KafkaJS · KafkaJS, a modern Apache Kafka client for Node.js](https://kafka.js.org/)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
