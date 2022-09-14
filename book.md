@@ -954,6 +954,9 @@ Book
 * [퀀텀 만화로 배우는 양자역학과 상대성이론](https://www.hanbit.co.kr/store/books/look.php?p_code=B6144385733)
   * ★★★☆☆ 2022.09.03
   * 한라 420.13-셰894ㅋ 우당 문420.13-셰843ㅋ
+  * [만화로 배우는 양자역학과 상대성이론 QUANTUM](https://github.com/hyunjun/bookmarks/blob/master/books/quantum.md)
+  * [만화로 배우는 양자역학과 상대성이론 QUANTUM. 시간의 정의 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%96%91%EC%9E%90%EC%97%AD%ED%95%99%EA%B3%BC-%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0-quantum-f8da19fdce64)
+  * [만화로 배우는 양자역학과 상대성이론 QUANTUM](https://jh4hj.tistory.com/entry/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%96%91%EC%9E%90%EC%97%AD%ED%95%99%EA%B3%BC-%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0-QUANTUM)
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
