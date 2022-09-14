@@ -4653,6 +4653,7 @@ Javascript
 * [복잡하고 어려운 Redux 적응기 - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/06/29/%EB%B3%B5%EC%9E%A1%ED%95%98%EA%B3%A0-%EC%96%B4%EB%A0%A4%EC%9A%B4-redux-%EC%A0%81%EC%9D%91%EA%B8%B0/)
 * [Redux toolkit - YouTube](https://www.youtube.com/watch?v=9wrHxqI6zuM)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
+* [How to make API call in React Redux Toolkit | React Redux Tutorial - YouTube](https://www.youtube.com/watch?v=2JBx_06dD1k)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
 
