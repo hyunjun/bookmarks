@@ -160,6 +160,7 @@ Json
 * [React Authentication: How to Store JWT in a Cookie | by Ryan Chenkie | Medium](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81)
 * [JWT Authentication in React Native | Login Functionality | AsyncStorage - YouTube](https://www.youtube.com/watch?v=QMUii9fSKfQ)
 * [NestJs에서 토큰기반 인증 구현하기 (with JWT)](https://velog.io/@dev_leewoooo/NestJs%EC%97%90%EC%84%9C-%ED%86%A0%ED%81%B0%EA%B8%B0%EB%B0%98-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-JWT)
+* [Secure Your Node.js App with JSON Web Tokens | AppSignal Blog](https://blog.appsignal.com/2022/09/14/secure-your-nodejs-app-with-json-web-tokens)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
