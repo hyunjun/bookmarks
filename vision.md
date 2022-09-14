@@ -276,6 +276,7 @@ Vision
 * [Coding with voice dictation using Talon Voice](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
   * [논문 레고 매뉴얼을 머신이 실행 가능한 계획으로 번역하기 | GeekNews](https://news.hada.io/topic?id=7066)
+* [3D Computer Vision | National University of Singapore - YouTube](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
