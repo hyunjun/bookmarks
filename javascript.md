@@ -3115,6 +3115,7 @@ Javascript
     * 별도 파서 사용: 이미 Puppeteer에 파서가 있으므로 특별한 이유 없이 HTML 파서를 사용하면 느려짐
     * 다른 도구가 더 적절할 때도 Puppeteer 사용
     * [Puppeteer 안티패턴들 피하기 | GeekNews](https://news.hada.io/topic?id=6636)
+  * [Build an Interactive Screen-Sharing App with Puppeteer and React | by Nevo David | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-906c7c9a1b2b)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
@@ -3854,6 +3855,10 @@ Javascript
     * 정적 파일 배포, 증분 재생성, 엣지 펑션, 이미지 자동 최적화, 서버리스 함수, 엣지 캐시 등의 장점 이용 가능
   * 데모 코드도 제공하고 있고 쇼핑몰 같은 페이지를 만드는 데 각 장점을 이용하기 위해 구현한 접근 방법을 설명
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
+  * [vercel-submodules: 🍣 CLI to handle Private Git Submodules in your Vercel Project](https://github.com/junhoyeo/vercel-submodules)
+    * Vercel에서는 아직 Private Submodule 기능을 미제공
+    * 완성된 CLI를 Vercel의 Install Command에 포함시키면, 자동으로 서브모듈의 경로와 커밋 해시를 가져와서 해당 버전으로 의존성 설치 전에 하나씩 클론
+    * 빌드 커맨드가 실행되도록 설정된 Root Directory와 무관하게 일관성 있는 동작을 보장하기에, 모노레포 배포에도 적용 가능
 * [Web Frontend | 우아한형제들 기술블로그 만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
 * [Column Grouping with Custom Aggregate Function - React Table 8 - हिंदी में - YouTube](https://www.youtube.com/watch?v=Y1QEIcAyHhU)
 * [React JS Responsive Portfolio Website Design Tutorial | Responsive Services Section #04 - YouTube](https://www.youtube.com/watch?v=qFQ8TK_YVVo)
