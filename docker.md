@@ -1463,6 +1463,7 @@ Docker
 * [Kubernetes ImagePullBackOff: Live Troubleshooting with Examples | Kubernetes - YouTube](https://www.youtube.com/watch?v=MVDwuOR3Z_c)
 * [Kubernetes CrashLoopBackOff – Live Troubleshoot with Examples | Kubernetes Practice - YouTube](https://www.youtube.com/watch?v=ALAMyiQNOcw)
 * [Expedite Infrastructure Investigations With Kubernetes Anomalies | Datadog](https://www.datadoghq.com/blog/monitor-kubernetes-anomalies/)
+* [Equip Any User to Monitor Kubernetes With the Overview Page | Datadog](https://www.datadoghq.com/blog/unify-kubernetes-insights-with-the-kubernetes-overview-page/)
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
 * [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
