@@ -2279,6 +2279,9 @@ Programming Books
 * [최고의 조직](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298321810)
   * ★★★☆☆ 2022.09.04
   * 우당 문325.2-김53ㅊ
+  * [최고의 조직 리더가 지켜야할 것과 버려야할 것](https://github.com/hyunjun/bookmarks/blob/master/programming_books/best_organization.md)
+  * [최고의 조직 리더가 지켜야할 것과 버려야할 것. 1부 지금까지의 조직은 잊어라 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A1%B0%EC%A7%81-%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%A7%80%EC%BC%9C%EC%95%BC%ED%95%A0-%EA%B2%83%EA%B3%BC-%EB%B2%84%EB%A0%A4%EC%95%BC%ED%95%A0-%EA%B2%83-dedfcfe79d08)
+  * [최고의 조직 리더가 지켜야할 것과 버려야할 것](https://jh4hj.tistory.com/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A1%B0%EC%A7%81-%EB%A6%AC%EB%8D%94%EA%B0%80-%EC%A7%80%EC%BC%9C%EC%95%BC%ED%95%A0-%EA%B2%83%EA%B3%BC-%EB%B2%84%EB%A0%A4%EC%95%BC%ED%95%A0-%EA%B2%83)
 * [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang/)
   * ★★★☆☆ 2022.09.05
   * 우당 문325.24-김79ㅌ 문325.24-김79ㅌ-2
