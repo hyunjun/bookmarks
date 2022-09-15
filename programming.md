@@ -4439,6 +4439,7 @@ Programming
   * [What is Power Pages (preview)? | Microsoft Docs](https://docs.microsoft.com/en-us/power-pages/introduction)
 * [어떤 노코드 툴을 써야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1291/)
 * [예전에 해봤던 노코드 MVP 테스트들 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/1933)
+* [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
 * [메타브 스튜디오 | Disquiet\*](https://disquiet.io/product/%EB%A9%94%ED%83%80%EB%B8%8C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4) 템플릿을 통해 누구나 쉽게 메타 콘텐츠(심리테스트, MBTI, 퀴즈...)를 제작할 수 있는 노코드툴
