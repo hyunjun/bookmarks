@@ -771,6 +771,7 @@ Business
 * [왓챠의 온보딩 프로세스. 동료들의 피드백으로 더 단단해지고, 체계를 갖춘 왓챠의 온보딩… | by 왓챠 | WATCHA | Jul, 2022 | Medium](https://medium.com/watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278)
   * [왓차의 온보딩 프로세스 | GeekNews](https://news.hada.io/topic?id=6992)
 * [⛺️ 구성원의 이탈을 막는 '온보딩'](https://stibee.com/api/v1.0/emails/share/LN4NYBPcJDWCqfGj4oMQgWWPE9Ucwkk=)
+* [카카오 공채 입사 후 10개월 FE개발팀에서의 여정 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220915-10month-after-join-fe-team/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1924,6 +1925,7 @@ Business
 * ['10만 다운' 대박 앱 만들고도 '폐업'..스타트업 망하는 4가지 이유](https://news.v.daum.net/v/20220820090004009)
 * [투자자에게 스타트업 아이디어를 한 줄로 설명하는 방법](https://www.slid.cc/share/vdocs/%ED%88%AC%EC%9E%90%EC%9E%90%EC%97%90%EA%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-32edc42f45cb42b3a434eaf506ce1ce3)
 * [Doda CEO가 미국 출장을 통해 배운 것](https://www.linkedin.com/posts/doyoung-kwak_%EB%AF%B8%EA%B5%AD-%EC%B6%9C%EC%9E%A5%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-swit-josh-activity-6972003481385676800-G834/) 1. USP와 타 서비스 기능 캐치업 사이에서의 균형 2. 한국은 여러 시장 중 하나의 시장일 뿐
+* [진짜 전문가들은 '스킨 인 더 게임'을 한다](https://www.slid.cc/share/vdocs/%EC%A7%84%EC%A7%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%EC%8A%A4%ED%82%A8-%EC%9D%B8-%EB%8D%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%ED%95%9C%EB%8B%A4-a0571cb65d5b4dedb3d43eca8c2d6319)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
