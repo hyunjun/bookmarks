@@ -770,6 +770,7 @@ Javascript
 * [fe-news/2021-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-08.md)
 * [fe-news/2022-06.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2022-06.md)
 * [fe-news/2022-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2022-08.md)
+* [fe-news/2022-09.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2022-09.md)
 * [The Front-End Features You Might Have Missed | by Adrien Miquel | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
 * [Multi Segment Display in JavaScript | by Chris Webb | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/multi-segment-display-in-javascript-6f256153cda8)
@@ -4355,6 +4356,7 @@ Javascript
   * [React and Next JS Gaming Application Project Full Tutorial - YouTube](https://www.youtube.com/watch?v=H3YtJkPv89E)
   * [Next.js API Routes using next-connect](https://morioh.com/p/2b0b50fd8940)
   * [Next Auth credentials example #nextjs #javascript #tutorial #beginner #howto - YouTube](https://www.youtube.com/watch?v=k_x6kGHhEns)
+  * [Next.js 프로젝트 Migration과 Refactoring 과정을 공유합니다. | by valley | 더핑크퐁컴퍼니 기술 블로그 | Aug, 2022 | Medium](https://medium.com/pinkfong/nextjs-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-migration%EA%B3%BC-refactoring-%EA%B3%BC%EC%A0%95%EC%9D%84-%EA%B3%B5%EC%9C%A0-%ED%95%A9%EB%8B%88%EB%8B%A4-fbab8c43f504)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
