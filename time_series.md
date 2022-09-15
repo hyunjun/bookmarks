@@ -163,6 +163,8 @@ Time Series
       * Redicoke는 특성상 저장공간이 많이 남았기 때문에 이 공간을 지표 데이터를 저장하는 데 활용하기로 선택
       * 이에 따라 웹 콘솔을 제공하고 오픈소스를 연동하고 무중단 수평 확장을 제공하는 등의 기능을 기획해서 구현
       * 메모리 문제와 타임 스탬프가 역전되는 현상이 발견되어 Adaptive Radix Tree와 Dictionary coding을 도입하고 SSL을 구현해서 문제 해결
+* [WaveletBuffer: A universal C++ compression library based on wavelet transformation](https://github.com/panda-official/WaveletBuffer)
+  * [Denoising time series data by using wavelet transformation - DEV Community 👩💻👨💻](https://dev.to/panda-official/denoising-timeseries-data-by-using-waveletbuffer-121a)
 
 # Python
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
