@@ -345,6 +345,9 @@ Bitcoin
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
 * [SmartPy - an intuitive and powerful smart contract development platform for Tezos](https://smartpy.io/)
 
+# SBT
+* [영혼을 담은 토큰은 어디에 쓸까? - YouTube](https://www.youtube.com/watch?v=4cMfDP1eLkw)
+
 # Web3
 * [Defining the Web3 Stack - Nader Dabit - (Next.js Conf 2021) - YouTube](https://www.youtube.com/watch?v=f9XRH7bjV8M)
 * [실리콘밸리는 웹 3.0 논쟁 중이래요!](https://stibee.com/api/v1.0/emails/share/xJZlbV0k-4beUjVVNmJTR8CLYeRACQ==)
