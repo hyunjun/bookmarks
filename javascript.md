@@ -5243,5 +5243,6 @@ Javascript
   * [Vue Material Design 컴포넌트 프레임워크 — Vuetify.js](https://vuetifyjs.com/ko/)
   * [I Built A $300K/Year Vue.js Component Library - Starter Story](https://www.starterstory.com/stories/i-built-a-300k-year-vue-js-component-library)
     * [년 3.5억 수익내는 Vue.js UI 라이브러리 만든 후기 | GeekNews](https://news.hada.io/topic?id=4961)
+* [VueTorrent: The sleekest looking WEBUI for qBittorrent made with Vuejs!](https://github.com/WDaan/VueTorrent)
 * [VueUse](https://vueuse.org/)
   * [Vue 프로젝트의 단짝, VueUse - DEV Community](https://dev.to/composite/vue-vueuse-jal)
