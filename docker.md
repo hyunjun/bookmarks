@@ -1030,6 +1030,9 @@ Docker
 * [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
 * [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
 * [awesome-kubernetes-security: A curated list of awesome Kubernetes security resources](https://github.com/ksoclabs/awesome-kubernetes-security)
+* [Security Checklist | Kubernetes](https://kubernetes.io/docs/concepts/security/security-checklist/)
+  * Kubernetes에서 기본적인 보안을 점검할 수 있는 체크리스 문서
+  * 인증/인가부터 네트워크, Pod, 시크릿, 이미지 등 기본적으로 확인해야 할 사항들
 * [(픽션) cloud의 kubernetes 서비스에서 숨겨둔 master 노드에 들어가기](https://gist.github.com/leoh0/1a41ff65ed3b720363382b13bbb82e3f)
 * [The race to secure Kubernetes at run time | InfoWorld](https://www.infoworld.com/article/3639829/the-race-to-secure-kubernetes-at-runtime.html)
 * [SQL Injection으로부터 Kubernetes 앱 보호 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/microservices-march-protect-kubernetes-apps-from-sql-injection/)
