@@ -559,6 +559,10 @@ Data Science
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
+* Velox [Hello from Velox | Velox](https://velox-lib.io/)
+  * [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
+    * Meta에서 데이터 관리 시스템을 가속화하고 간소화하는 통합 실행 엔진 Velox를 오픈소스로 공개
+    * presto, Spark, PyTorch 등 많은 발전이 있었지만 여러 시스템 간에 상호 작용해야 하는 어려움을 Meta 내에서 Velox로 해결하기 위해서 개발
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
