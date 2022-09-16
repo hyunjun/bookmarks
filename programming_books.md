@@ -2232,6 +2232,7 @@ Programming Books
 * (NOT YET) [피터 드러커 넥스트 소사이어티](https://blog.naver.com/airline36/221095564854)
 * (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
   * 한라 325-드29ㄱ 우당 문325-피833ㄱ
+* (NOT YET) [파타고니아 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9108907099)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
