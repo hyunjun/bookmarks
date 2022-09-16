@@ -143,6 +143,9 @@ Apache
 # Crunch
 * [Crunch](https://crunch.apache.org/)
 
+# Doris
+* [Home - Apache Doris](https://doris.apache.org/)
+
 # Drill
 * [Drill](http://drill.apache.org/)
 * [Apache Drill SQL Query Optimization | Whiteboard Walkthrough](https://www.mapr.com/blog/apache-drill-sql-query-optimization-whiteboard-walkthrough)
