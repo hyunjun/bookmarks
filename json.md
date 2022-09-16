@@ -95,6 +95,7 @@ Json
 * [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
 * [No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid - Paragon Initiative Enterprises Blog](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
 * [자바스크립트에서의 JSON 모듈 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211209)
+* [How to Display Records or Data from a JSON File in React](https://morioh.com/p/2444f227ac80)
 * [nearley.js - JS Parsing Toolkit](https://nearley.js.org/)
   * [**JSON.parse 직접 만들어보기. By 최종찬 | by Riiid Techblog | Dec, 2020 | Medium**](https://riiidtechblog.medium.com/json-parse-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f567ecdf08c0)
 * [typescript-json: 2x faster JSON stringify function with only one line](https://github.com/samchon/typescript-json)
