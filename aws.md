@@ -1009,6 +1009,8 @@ AWS
 # EventBridge
 * [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
 * [Save costs by automating the start and stop of Amazon RDS instances with AWS Lambda and Amazon EventBridge | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/save-costs-by-automating-the-start-and-stop-of-amazon-rds-instances-with-aws-lambda-and-amazon-eventbridge/)
+* [event-ruler](https://github.com/aws/event-ruler)
+  * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
