@@ -780,6 +780,10 @@ Programming
       * 심지어 같은 애자일 내에서 요구사항 변화가 별로 없는 프로젝트랑 비교해도 성공률이 더 높음
     * 즉, 변화가 프로젝트를 불리하게 만든 게 아니라 오히려 유리하게 만들었다는 뜻
       * 단, 애자일이라고 다 그런 게 아니라 자주 릴리스를 한 경우
+* [Less is more agile | Tales about Software Engineering](https://beny23.github.io/posts/my_take_on_engineering_room_9/)
+  * Dave Farley와 Allen Holub이 애자일에 관해서 얘기한 내용을 정리한 글
+  * 스크럼이 경영진에 더 적합하게 만들어져서 민첩하지 않다고 하고 있고, 추정은 어렵기 때문에 추정하지 않는 게 오히려 더 좋고, 깊은 이해 없이 스프린트란 형식만 취하는 것을 문제라고 지적
+  * 문제가 생기면 2주 뒤 스프린트가 아니고 바로 말해야 한다, Allen이 "행복하지 않다면 제대로 하는 것이 아니다"
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -1612,18 +1616,13 @@ Programming
 * [SMI | A standard interface for service meshes on Kubernetes](https://smi-spec.io/)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [**Service Mesh 란?**](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
-* [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
 * [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 * [**오픈소스컨설팅 서비스 메쉬(Service mesh)**](https://www.slideshare.net/OpenSourceConsulting/service-mesh-248775710) Istio Linkerd
-* [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
-* [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
-* [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
-* [istio. 최근 MSA(Micro Service Architecture) 관련… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/istio-45952521fc0e)
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
@@ -1722,24 +1721,6 @@ Programming
 * [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
 * [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들](https://www.slideshare.net/deview/115-119061611)
 * [마이크로 서비스 아키텍쳐와 컨테이너](http://bcho.tistory.com/1289)
-* [Istio #1 - 마이크로 서비스와 서비스 매쉬](http://bcho.tistory.com/1293)
-* [Istio #2 - Envoy Proxy](http://bcho.tistory.com/1295)
-* [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
-* [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
-* [Istio Traffic management](https://bcho.tistory.com/1367)
-* [Back to Microservices with Istio (Part 1) | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53)
-* [Back to Microservices with Istio (Part 2) — Authentication & Authorization | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-part-2-authentication-authorization-b079f77358ac)
-* [Architecture Design 101 (From Monolith to Multi-Cluster with Istio) | by SianLoong | Medium](https://sianloong90.medium.com/architecture-design-101-from-monolith-to-multi-cluster-with-istio-509fadd807c0)
-* [Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service) - YouTube](https://www.youtube.com/watch?v=Op_Os7jVNDg)
-* [Istio  트래픽 흐름 Life of a packet](https://gasidaseo.notion.site/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
-  * [Istio 트래픽 흐름 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvPIY7PHDtMaqbUUWEbE6-6H)
-* [Istio / Extending Gateway API support in Istio](https://istio.io/latest/blog/2022/gateway-api-beta/)
-  * Google의 API 경험과 IBM의 Amalgam8 프로젝트의 경험으로 2017년 Istio 공개
-    * 그러나 Kubernetes Ingress API의 한계에 직면했고 이러한 문제를 해결하기 위해 traffic API 작성
-    * Kubernetes SIG Network에서 Ingress 버전 2를 설계하면서 Istio의 traffic API 기반으로 새로운 제안 성립
-  * 이를 바탕으로 Kubernetes Gateway API 작성, Gateway API가 이제 SIG Network에서 베타로 승격
-  * Istio는 2020년 11월 Gateway API 지원 시작, Gateway API가 v1이 될 때 맞춰서 Istio도 변경 예정이나, 기존 Traffic API도 계속 사용 가능
-  * [Kubernetes Gateway API Graduates to Beta | Kubernetes](https://kubernetes.io/blog/2022/07/13/gateway-api-graduates-to-beta/)
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
@@ -1964,9 +1945,55 @@ Programming
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+* Envoy
+  * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
+  * [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
+  * [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+  * [Productionizing Envoy Mobile at Lyft | by JP Simard | Sep, 2022 | Lyft Engineering](https://eng.lyft.com/productionizing-envoy-mobile-at-lyft-88d49c9c8d14)
+    * Envoy Mobile은 Envoy Proxy의 강력함을 모바일 앱으로 가져간 프로젝트. Lyft 모바일앱의 모든 네트워크가 Envoy Mobile로 처리하도록 바꾸고 발견한 부분 정리한 글
+    * 모바일 앱에서 점진적으로 교체를 시도, 처음에는 이전과 같은 성능이 목표였지만 일부 영역에서는 상당한 개선
+    * 이전에는 클라이언트의 네트워크에 훅을 넣어서 일부 트래픽만 분석하도록 보냈지만, Envoy Mobile은 훨씬 풍부한 매트릭을 볼 수 있게 되어 이전에는 탐지 못한 장애 발견
+    * Envoy Mobile을 사용해서 OOM 크래시가 69.3% 줄어들었고 행은 47.9, ANR은 30% 감소
 * Eureka
   * [How To Register & Discover Microservices Using Netflix Eureka? | Making Java Easy To Learn](https://javatechonline.com/how-to-register-discover-microservices-using-netflix-eureka)
   * [마이크로서비스 아키텍처(MSA)의 서비스 검색 - NGINX STORE](https://nginxstore.com/blog/microservices/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98msa%ec%9d%98-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b2%80%ec%83%89/)
+* Istio
+  * [Learn Istio – How to Manage, Monitor, and Secure Microservices](https://www.freecodecamp.org/news/learn-istio-manage-microservices)
+  * [istio. 최근 MSA(Micro Service Architecture) 관련… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/istio-45952521fc0e)
+  * [Istio #1 - 마이크로 서비스와 서비스 매쉬](http://bcho.tistory.com/1293)
+  * [Istio #2 - Envoy Proxy](http://bcho.tistory.com/1295)
+  * [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
+  * [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
+  * [Istio Traffic management](https://bcho.tistory.com/1367)
+  * [Back to Microservices with Istio (Part 1) | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53)
+  * [Back to Microservices with Istio (Part 2) — Authentication & Authorization | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-part-2-authentication-authorization-b079f77358ac)
+  * [Architecture Design 101 (From Monolith to Multi-Cluster with Istio) | by SianLoong | Medium](https://sianloong90.medium.com/architecture-design-101-from-monolith-to-multi-cluster-with-istio-509fadd807c0)
+  * [Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service) - YouTube](https://www.youtube.com/watch?v=Op_Os7jVNDg)
+  * [Istio  트래픽 흐름 Life of a packet](https://gasidaseo.notion.site/Istio-Life-of-a-packet-6ad9808e14594296bf854dcc203cab71)
+    * [Istio 트래픽 흐름 - YouTube](https://www.youtube.com/playlist?list=PLDoAIZhHTMvPIY7PHDtMaqbUUWEbE6-6H)
+  * [Istio / Extending Gateway API support in Istio](https://istio.io/latest/blog/2022/gateway-api-beta/)
+    * Google의 API 경험과 IBM의 Amalgam8 프로젝트의 경험으로 2017년 Istio 공개
+      * 그러나 Kubernetes Ingress API의 한계에 직면했고 이러한 문제를 해결하기 위해 traffic API 작성
+      * Kubernetes SIG Network에서 Ingress 버전 2를 설계하면서 Istio의 traffic API 기반으로 새로운 제안 성립
+    * 이를 바탕으로 Kubernetes Gateway API 작성, Gateway API가 이제 SIG Network에서 베타로 승격
+    * Istio는 2020년 11월 Gateway API 지원 시작, Gateway API가 v1이 될 때 맞춰서 Istio도 변경 예정이나, 기존 Traffic API도 계속 사용 가능
+    * [Kubernetes Gateway API Graduates to Beta | Kubernetes](https://kubernetes.io/blog/2022/07/13/gateway-api-graduates-to-beta/)
+  * [Istio / Introducing Ambient Mesh](https://istio.io/latest/blog/2022/introducing-ambient-mesh/)
+    * Istio의 사이드카 없는 새 데이터 플레인 모드인 Ambient mesh가 추가
+    * Ambient mesh는 운영 간소화, 애플리케이션 호환성을 높이고 인프라 비용을 줄일 수 있도록 설계
+    * Istio의 핵심 기능은 유지하면서 사이드카 프락시를 사용하지 않을 수 있음
+    * 기존 사이드카 프락시에 많은 장점이 있지만
+      * 침투적이라서 Pod에 반드시 주입되어야 하고
+      * 사이드카를 수정하면 Pod도 리스타트 필요
+      * 리소스 차지
+      * 트래픽을 거치는 데 고비용
+      * HTTP가 아니면 깨질 수도 있음
+    * 사이드카 프락시에서는 암호화부터 L7 정책까지 모두 사이드카에서 제공, 모든 기능을 쓰지 않더라고 사이드카를 사용해야 하는 문제
+    * Ambient mesh에서는 두 가지 레이어로 나누어서
+      * Secure overlay 계층에서는 라우팅과 트래픽의 제로-트러스터 보안을 나누고 필요할 때 L7 처리 레이어를 활성화 가능
+    * Ambient mesh는 Kubernetes 클러스터의 각 노드에 zero-trust tunnel(ztunnel) 사용
+      * ztunnel에서 mTLS, 텔레메트리, 인증, L4 인가 등을 지원
+    * L7 기능이 필요하면 Envoy 기반의 waypoint 프락시를 사용해서 L7 처리 기능 제공
 * [kong: 🦍 The Cloud-Native API Gateway](https://github.com/Kong/kong)
   * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
   * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
@@ -2551,6 +2578,9 @@ Programming
 * [Pieces - Save, find and reuse code with a simple copy & paste](https://code.pieces.app/)
   * [You’re still not using code snippets?! | by Anushka | Pieces | Dec, 2021 | Medium](https://medium.com/getpieces/youre-still-not-using-code-snippets-4a8899d53151)
 * Replit [The collaborative browser based IDE - Replit](https://replit.com/)
+  * [Replit - GhostWriter Beta and AI Mode](https://blog.replit.com/ai)
+    * 코드를 자동완성 해주고 변환해주는 ML 기반의 페어 프로그래머 AI Mode 공개
+    * GhostWriter를 이용하면 모바일에서도 코딩 가능
   * [Repl.it - A database for every repl](https://blog.repl.it/database)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [RosettaGit - to present solutions to the same task in as many different programming languages as possible](https://rosettagit.org/)
@@ -4202,6 +4232,7 @@ Programming
   * [기술 뉴스 #203 : 22-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1611)
   * [기술 뉴스 #204 : 22-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1615)
   * [기술 뉴스 #205 : 22-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1619)
+  * [기술 뉴스 #206 : 22-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1622)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
