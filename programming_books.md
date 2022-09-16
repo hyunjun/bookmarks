@@ -1373,6 +1373,7 @@ Programming Books
     * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
     * [troubleshooting-kubernetes.ko_kr.v2.pdf](https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.ko_kr.v2.pdf)
     * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
+    * [GitHub - `sysnet4admin/_Lecture_k8s_starter.kit`: '쉽게 시작하는 쿠버네티스' 온라인 강의](https://github.com/sysnet4admin/_Lecture_k8s_starter.kit)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
   * 한라 005.11-오12ㄷ
