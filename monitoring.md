@@ -74,7 +74,10 @@ Monitoring
   * `gopacket`을 사용하는 `k8spacket`으로 Kubernetes 클러스터 안에서 TCP 패킷을 모니터링해서 Grafana로 시각화하는 방법을 설명
   * `k8spacket`을 `DemonSet`으로 띄워서 10초마다 네트워크를 모니터링하고 각 Pod, Service 간에 TCP 연결과 트래픽이 오가는 것을 확인 가능
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
-* [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
+* Grafana Incident 장애를 관리하는 서비스
+  * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
+  * [Grafana Incident for incident management is now generally available in Grafana Cloud | Grafana Labs](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
+    * 무료를 포함해서 모든 Grafana Cloud 사용자가 Grafana Incident 사용 가능
 * Grafana k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
   * [Deployment-time testing with Grafana k6 and Flagger | Grafana Labs](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
     * 성능 테스트 도구인 Grafana k6와 Kubernetes의 블루/그린, 카나리 배포를 지원하는 [Flagger](https://flagger.app/)를 조합해서 카나리 배포에서 트래픽을 받기 전에 k6로 성능 테스트하는 방법
