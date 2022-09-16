@@ -4424,6 +4424,7 @@ Javascript
   * [카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 | Kakao Pay Tech](https://tech.kakaopay.com/post/react-query-1)
   * [My구독의 React Query 전환기 – tech.kakao.com](https://tech.kakao.com/2022/06/13/react-query/)
   * [React-Query 도입을 위한 고민 (feat. Recoil) - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/07/13/react-query/)
+  * [React Query Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=jnIPUkNOJ9A)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
