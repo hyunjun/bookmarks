@@ -2688,6 +2688,12 @@ CVPR2016)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
 * [Stability.Ai](https://stability.ai/)
   * [Stable Diffusion - What, Why, How? - YouTube](https://www.youtube.com/watch?v=ltLNYA3lWAQ)
+  * [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
+    * Stability.ai에서 text-to-image diffusion 모델인 Stable Diffusion 모델 공개
+    * Open AI의 DALL-E와 비슷하지만, 전체를 다 공개했다는 점이 달라서 모델을 다운로드 받아서 직접 실행 가능
+    * [Creative ML OpenRAIL-M 라이선스]([License - a Hugging Face Space by CompVis](https://huggingface.co/spaces/CompVis/stable-diffusion-license))하에 상업적/비상업적으로 사용 가능
+    * https://beta.dreamstudio.ai 에서 무료 테스트 가능
+    * 공개된 지 얼마 되지 않았지만 벌써 WebUI도 생기고 text-to-image뿐 아니라 image-to-image도 가능
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
