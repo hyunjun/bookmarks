@@ -2219,6 +2219,7 @@ Programming Books
 * (NOT YET) [무엇이 성과를 이끄는가: 세계 최고 기업에서 찾은 고성과의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255193)
   * 한라 325.345-도56ㅁ
 * (NOT YET) [한계 없음](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300680034)
+* (NOT YET) [피터 드러커의 <경영과 세계 경제>를 읽고](https://brunch.co.kr/@graypool/597)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
