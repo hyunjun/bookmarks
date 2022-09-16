@@ -3116,6 +3116,7 @@ Programming
 * [shhgit - Secret 유출 방지용 검색 오픈소스 | GeekNews](https://news.hada.io/topic?id=6323)
 * [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
 * SSRF ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
+* [Suricata - Intrusion Detection and Prevention Security Tool](https://www.tecmint.com/suricata-intrusion-detection-prevention-linux/)
 * [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
 
 # Data Mesh
