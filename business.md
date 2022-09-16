@@ -1583,6 +1583,10 @@ Business
 * [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
 * [SaaS 성공의 핵심은 신규 고객 유치가 아니다](https://www.linkedin.com/posts/jhyunpark_saas-churnabrrate-stwtnsrcg-activity-6969945898332151808-L6wD/) 기존 유저의 이탈률(Churn rate)
 * [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
+* [Calm: 바이럴 제품 만들기](https://aerial-tip-118.notion.site/Calm-ac1caa71c6a94ac09aab9f33eb36d59a)
+  * 미국의 명상 앱인 Calm을 만든 Alex Tew가 어떻게 바이럴 제품을 만들었는지 정리한 글
+  * Alex는 7%의 명상하는 사람이 아닌 명상하지 않는 93%의 사람에게 집중했는데 과거에 Million Dollar Homepage로 픽셀을 팔고 Sock and Awe 게임으로 성공했던 경험을 바탕으로 Do Noting FOr 2 Minutes 웹사이트 작성
+  * 이 웹사이트는 2분 동안 아무것도 안 해야 성공하는 사이트인데 하루 이틀 만에 만들어서 트위터에 실제 사람이 한 것처럼 트윗을 올리고 Hacker News에 홍보에서 주류 언론의 주목을 받으면서 성공
 * [이 개념을 알면 실패는 줄어듭니다! 토스의 한계수용력 | Disquiet\*](https://disquiet.io/@swallo/makerlog/584)
 * [토스 리더가 말하는 유저를 떠나지 않게 만드는 단 하나의 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=0KgOCKJ1PG4) Retention & Activation
 * [토스 리더가 말하는 유저를 끌어당기는 서비스 개선 | PO SESSION - YouTube](https://www.youtube.com/watch?v=D9x7Tln2DI4)
