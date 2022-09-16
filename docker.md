@@ -896,6 +896,7 @@ Docker
 * [Kubernetes Tutorial | Metrics Server | Explained Simply - YouTube](https://www.youtube.com/watch?v=7I3h1G-ik-E)
 * [Kubernetes Tutorial For Beginners | Full Practical Course - YouTube](https://www.youtube.com/watch?v=mfodU3kCXQE)
 * [Kubernetes Tutorial For Beginners | Kubernetes Secrets Explained - YouTube](https://www.youtube.com/watch?v=_PhZVtf_IgQ)
+* [Kubernetes Tutorials | How to Create Replicaset Controller and deploy in Kubernetes | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=ueJ46LMIpHQ)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
 * Kubernetes
@@ -1998,6 +1999,8 @@ Docker
 * [LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog](https://earthly.dev/blog/lxc-vs-docker/)
 * [Man Seok Techne Schoe: macOS (M1) 환경에서 Docker 를 대치할 만한 것들](https://manseok.blogspot.com/2022/04/macos-m1-docker.html) podman minikube multipass lima
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
+  * [How I switched from Docker Desktop to Colima | Opensource.com](https://opensource.com/article/22/9/docker-desktop-colima)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
   * [Debugging containerd. containerd is the container runtime… | by Sam Lockart | Jun, 2022 | Zendesk Engineering](https://zendesk.engineering/debugging-containerd-a20f28a2a8bf)
   * [containerd-the-hard-way](https://github.com/JeongsikKang/containerd-the-hard-way)
