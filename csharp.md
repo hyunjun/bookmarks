@@ -106,6 +106,7 @@ C#
 * Linq
   * [linqpad - The .NET Programmer’s Playground](https://www.linqpad.net)
   * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
+  * [Getting Started with LINQ Series' Articles - DEV Community 👩💻👨💻](https://dev.to/canro91/series/18769)
 * [moq - The most popular and friendly mocking library for .NET](https://github.com/moq/moq4)
   * [Why does the property I want to mock need to be virtual?](https://stackoverflow.com/questions/5670902/why-does-the-property-i-want-to-mock-need-to-be-virtual)
 * System
