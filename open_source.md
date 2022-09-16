@@ -82,6 +82,14 @@ Open Source
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
   * [TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간 | GeekNews](https://news.hada.io/topic?id=7281)
 * [How to pay your rent with your open source project | Plausible Analytics](https://plausible.io/blog/open-source-funding)
+* [Why We Are Changing the License for Akka | Lightbend](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka)
+  * 동시성, 분산 애플리케이션을 만드는 툴킷인 akka의 라이센스가 Business Source License (BSL) v1.1로 변경
+  * Akka는 13년전 Apache 2.0으로 공개, 오픈소스 커뮤니티의 도움을 많이 받아서 성장
+  * 큰 조직의 핵심 인프라가 되면서 작은 회사가 유지 보수하기엔 위험하다고 판단했다고 함
+  * BSL은 MariaDB, Cockroach Labs, Sentry, Materialized에서 채택한 라이센스
+    * 비 프로덕션에서는 무료 사용
+    * 프로덕션에서는 Lightbend의 상용 라이센스 구매 필요
+    * BSL이 오픈소스가 아니므로 akka는 더 이상 오픈소스가 아님
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
