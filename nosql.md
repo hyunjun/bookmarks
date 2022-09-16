@@ -136,6 +136,9 @@ NoSQL
 # CryptDB
 * [CryptDB - A database system that can process SQL queries over encrypted data](https://github.com/CryptDB/cryptdb)
 
+# Curve
+* [Welcom to Curve](https://opencurve.io/Curve/HOME)
+
 # Datomic
 * [Datomic](http://www.datomic.com/)
 
