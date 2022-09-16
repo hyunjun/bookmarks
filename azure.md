@@ -208,6 +208,7 @@ Azure
   * [Microsoft Dev Box 공개 | GeekNews](https://news.hada.io/topic?id=6631)
 * [oh-my-azure-cloud-shell: This provides an OPINIONATED collection of scripts to set up oh-my-zsh and oh-my-posh to your Azure Cloud Shell environment](https://github.com/justinyoo/oh-my-azure-cloud-shell)
   * [Oh My Azure Cloud Shell | Aliencube](https://blog.aliencube.org/ko/2021/12/22/oh-my-azure-cloud-shell/)
+* [Pulumi and .NET Interactive (I) - DEV Community 👩💻👨💻](https://dev.to/cognipla/pulumi-and-net-interactive-i-5epm)
 
 # Machine Learning
 * [Getting Started with Machine Learning](https://www.youtube.com/watch?v=fiaBgLPYYd4)
