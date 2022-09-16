@@ -271,6 +271,13 @@ Web
 * [완벽 정리! 쿠키, 세션, 토큰, 캐시 그리고 CDN](https://hongong.hanbit.co.kr/%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%ED%86%A0%ED%81%B0-%EC%BA%90%EC%8B%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-cdn/)
 * [30 Ways to Validate Configuration Files or Scripts in Linux](https://www.tecmint.com/check-configuration-files-linux/)
 * [웹 표준 미니앱의 어려움 @ Sunghyun Cho](https://cho.sh/ko/blog/A370F3)
+* [내가 온라인 청첩장을 만든 방법](https://blog.roto.codes/how-to-make-wedding-invitation)
+  * 온라인 청첩장을 레트로풍으로 만드는 과정 설명
+  * nes.css와 둥근모체를 사용하고 좋아하는 게임 풍의 이미지를 사용해서 사이트 작성
+  * Astro와 tailwind를 사용해서 사이트를 작성
+  * 결혼식장 안내는 티맵, 카카오내비, 네이버 지도를 연동
+  * 송금 카카오페이와 토스뱅크를 연동
+  * 방명록은 Firebase 연동
 
 # Apache
 * installation
