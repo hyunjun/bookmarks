@@ -2522,6 +2522,7 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
+* (NOT YET) [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
