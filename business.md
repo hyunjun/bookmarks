@@ -1011,6 +1011,7 @@ Business
 * [티타임즈 황성현 대표님의 '피드백 노하우' 정리](https://www.slid.cc/share/vdocs/%ED%99%A9%EC%84%B1%ED%98%84-%EB%8C%80%ED%91%9C%EB%8B%98%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%85%B8%ED%95%98%EC%9A%B0-%EC%A0%95%EB%A6%AC-49cfab2dcea94d29b17247b299b8721e)
 * [피드백의 핵심은 ‘솔직함’이 아니에요 - YouTube](https://www.youtube.com/watch?v=zLJD5ycwn3U)
 * [저처럼 답을 잘 모르는 팀장은 피드백하면 안 되나요?](https://brunch.co.kr/@seanpang/43)
+* [인퓨처컨설팅 & 유정식 직원에게 피드백하지 마라. '조언'하라](https://infuture.kr/1783)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
