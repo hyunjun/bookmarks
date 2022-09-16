@@ -2221,6 +2221,17 @@ Programming Books
   * 한라 325.345-도56ㅁ
 * (NOT YET) [한계 없음](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300680034)
 * (NOT YET) [피터 드러커의 <경영과 세계 경제>를 읽고](https://brunch.co.kr/@graypool/597)
+* (NOT YET) [피터 드러커 자기경영노트](https://blog.naver.com/myway855/221791603776)
+  * 탐라 문325.211-드233ㅍ
+* (NOT YET) [피터 드러커 매니지먼트](https://blog.naver.com/kuk34/221346658589)
+  * 탐라 개325.1-드29ㅁ 우당 문325.1-드233ㅍ
+  * (NOT YET) [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 外 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/4248/ac/magazine)
+    * 한라 833.6-이65만 탐라 개833.6-이65ㅁ 우당 문833.6-이66ㅁ
+  * (NOT YET) [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신 편](https://blog.naver.com/hkscsh89/220834633682)
+    * 한라 833.6-이65ㅁ 우당 문833.6-이66ㅁ
+* (NOT YET) [피터 드러커 넥스트 소사이어티](https://blog.naver.com/airline36/221095564854)
+* (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
+  * 한라 325-드29ㄱ 우당 문325-피833ㄱ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
