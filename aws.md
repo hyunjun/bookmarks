@@ -1770,6 +1770,7 @@ AWS
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 * [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
+* [terraform-provider-dominos: The Terraform plugin for the Dominos Pizza provider](https://github.com/nat-henderson/terraform-provider-dominos)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
