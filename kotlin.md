@@ -331,6 +331,7 @@
 * [Coroutine DeepDive - 1](https://devroach.tistory.com/153)
 * [KotlinConf 2017 - Introduction to Coroutines by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=_hfBv0a09Jc)
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=a3agLJQ6vt8)
+* [Kotlin coroutine dispatchers overview | by Vasiliy Nikitin | MobilePeople | Medium](https://medium.com/mobilepeople/kotlin-coroutine-dispatchers-overview-f8000a6037f4)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
