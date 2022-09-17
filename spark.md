@@ -444,6 +444,7 @@
   * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
 * [Migrating to Spark 2.4 Data Source API](http://blog.madhukaraphatak.com/migrate-spark-datasource-2.4/)
 * [Map Filter Reduce & Lambda in Python & Scala| Comparison of Lambda Syntaxes Step by Step| Beginners - YouTube](https://www.youtube.com/watch?v=ugbad1B0IZ4)
+* [Reconciling Spark APIs for Scala - VirtusLab](https://virtuslab.com/blog/reconciling-spark-apis-for-scala/)
 * aggregate
 
   ```
