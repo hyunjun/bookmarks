@@ -862,6 +862,8 @@ Java
 * [What’s New Between Java 11 and Java 17?](https://mydeveloperplanet.com/2021/09/28/whats-new-between-java-11-and-java-17/)
 * [우리팀이 JDK 17을 도입한 이유. 안녕하세요, T플랫폼개발실 개발3팀 제이든입니다. 이번 포스팅에서는… | by 김동기Jayden(제이든)/개발3팀 | Jul, 2022 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%9A%B0%EB%A6%AC%ED%8C%80%EC%9D%B4-jdk-17%EC%9D%84-%EB%8F%84%EC%9E%85%ED%95%9C-%EC%9D%B4%EC%9C%A0-ced2b754cd7)
 * [자바 17을 쓰도록 설득하는 방법 - DEV Community 👩💻👨💻](https://dev.to/composite/jaba-17eul-sseudorog-seoldeughaneun-bangbeob-1bn4)
+* [Latest Java Features from a Scala Dev Perspective - Part 1: Type Inference](https://blog.madhukaraphatak.com/latest-java-1)
+* [Latest Java Features from a Scala Dev Perspective - Part 2: Lambda Expressions](https://blog.madhukaraphatak.com/latest-java-2)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
