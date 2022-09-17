@@ -306,6 +306,18 @@ Programming Books
   * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략](https://github.com/hyunjun/bookmarks/blob/master/programming_books/doing_agile_right.md)
   * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/doing-agile-right-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5-bab1c1861924)
   * [DOING AGILE RIGHT 조직을 민첩하고 유연하게 바꾸는 애자일 전략](https://jh4hj.tistory.com/entry/DOING-AGILE-RIGHT-%EC%A1%B0%EC%A7%81%EC%9D%84-%EB%AF%BC%EC%B2%A9%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A0%84%EB%9E%B5)
+* [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data/)
+  * ★★★★☆ 2022.09.17
+  * 탐라 문325.15-골228ㄱ 우당 문325.15-골228ㄱ
+  * [Churn Book for Data Scientists - Fighting Churn With Data](https://fightchurnwithdata.com/)
+  * [1 The world of churn - Fighting Churn with Data: The science and strategy of customer retention](https://livebook.manning.com/book/fighting-churn-with-data/discussion)
+  * [carl24k - Twitch](https://www.twitch.tv/carl24k)
+  * [fight-churn: Code from the book Fighting Churn With Data](https://github.com/carl24k/fight-churn)
+  * [churn-data: 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라](https://github.com/AcornPublishing/churn-data)
+  * 주오라의 구독 경제 지수 [Subscription Economy Index™ - Zuora](https://www.zuora.com/resources/subscription-economy-index/)
+  * 프로핏웰 Profitwell 평균 이탈률 벤치마크 [Average Revenue Churn Rate Benchmarks](https://www.profitwell.com/recur/all/average-revenue-churn-rate-benchmarks)
+  * 리컬리 Recurly 이탈률 벤치마크 [Subscription churn rate industry benchmarks - Recurly research | Recurly](https://recurly.com/research/churn-rate-benchmarks/)
+  * [CHURN.FM - It's your churn!](https://www.churn.fm/)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
@@ -328,17 +340,6 @@ Programming Books
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라 004.78-패838ㅅ
-* (NOT YET) [고객 리텐션의 전략 | 에이콘출판사](http://acornpub.co.kr/book/churn-data/)
-  * 탐라 문325.15-골228ㄱ 우당 문325.15-골228ㄱ
-  * [Churn Book for Data Scientists - Fighting Churn With Data](https://fightchurnwithdata.com/)
-  * [1 The world of churn - Fighting Churn with Data: The science and strategy of customer retention](https://livebook.manning.com/book/fighting-churn-with-data/discussion)
-  * [carl24k - Twitch](https://www.twitch.tv/carl24k)
-  * [fight-churn: Code from the book Fighting Churn With Data](https://github.com/carl24k/fight-churn)
-  * [churn-data: 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라](https://github.com/AcornPublishing/churn-data)
-  * 주오라의 구독 경제 지수 [Subscription Economy Index™ - Zuora](https://www.zuora.com/resources/subscription-economy-index/)
-  * 프로핏웰 Profitwell 평균 이탈률 벤치마크 [Average Revenue Churn Rate Benchmarks](https://www.profitwell.com/recur/all/average-revenue-churn-rate-benchmarks)
-  * 리컬리 Recurly 이탈률 벤치마크 [Subscription churn rate industry benchmarks - Recurly research | Recurly](https://recurly.com/research/churn-rate-benchmarks/)
-  * [CHURN.FM - It's your churn!](https://www.churn.fm/)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * 탐라

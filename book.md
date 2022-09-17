@@ -647,7 +647,7 @@ Book
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-the-life-and-times-of-jaco-fuger-the-richest-man-who-ever-lived-844225ae3fcd)
   * [자본가의 탄생 The Life and Times of JACO FUGER THE RICHEST MAN WHO EVER LIVED](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B3%B8%EA%B0%80%EC%9D%98-%ED%83%84%EC%83%9D-The-Life-and-Times-of-JACO-FUGER-THE-RICHEST-MAN-WHO-EVER-LIVED)
 * [조선왕조실톡 1~7](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=116510634)
-  * ★★★☆☆ 2022.09.03 2권만 봤는데 내 스타일은 아니지만 나쁘지 않음
+  * ★★★☆☆ 2022.09.03, 17 1, 2권만 봤는데 내 스타일은 아니지만 나쁘지 않음
   * 한라 911.05-무74ㅈ-1~7 탐라 문911.05-무74ㅈ-2~7 우당 문911.05-무73ㅈ-1~7
 * [지도의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281358057)
   * ★★★☆☆ 2022.09.09~10
