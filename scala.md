@@ -54,6 +54,7 @@ Scala
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [Zalando case study: why they chose Scala?](https://scalac.io/why-zalando-chose-scala/)
 * [3 programming languages to replace shell scripting](http://ju.outofmemory.cn/entry/198831)
+* [Scripting with Scala - Alexandru Nedelcu](https://alexn.org/blog/2022/09/13/scripting-with-scala/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
@@ -210,6 +211,7 @@ Scala
 * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b) type safety
 * [The Unison Language and its Scala-based Runtime—Paul Chiusano](https://www.youtube.com/watch?v=knqlWboqf_U)
   * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
+* [Trying out Unison, part 1: code as hashes](https://softwaremill.com/trying-out-unison-part-1-code-as-hashes/)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
 * [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
@@ -359,6 +361,8 @@ Scala
 * [Selection functions are interesting notion with tricky implementation | Anton Kovalevsky](https://antonkw.github.io/scala/selection-functions/)
 * [Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
 * [Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
+* [Reactive Event Sourcing benchmarks, part 2: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-2-postgresql/)
+* [ING Contact Center 2.0 — Creating Resilient APIs | by ayush mittal | ING Blog | Sep, 2022 | Medium](https://medium.com/ing-blog/ing-contact-center-2-0-creating-resilient-apis-442c2e9ca6a7)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -632,6 +636,7 @@ Scala
 * [学ぼう！ コレクションフレームワーク](https://medium.com/nextbeat-engineering/%E5%AD%A6%E3%81%BC%E3%81%86-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-4b6ffaaf42d5) collection framework
 * [Applying a function to just one previous term in a Scala lazy collection](https://medium.com/swlh/applying-a-function-to-just-one-previous-term-in-a-scala-lazy-collection-59db607a05c2)
 * [Scala Val, Lazy Val And Def | Understand The Difference between val and lazy val in Scala | 2021 HD - YouTube](https://www.youtube.com/watch?v=7VC6znXIKY8)
+* [Ep 17: The Magic of LazyLists - YouTube](https://www.youtube.com/watch?v=laB15gG5bjY)
 * [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
 * [Using Scala to Read Really, Really Large Files](https://medium.com/@morgen.peschke/using-scala-to-read-really-really-large-files-c9e3e9538bac)
   * Comparisons of The Standard Libraries, better-files, Akka Streams, FS2 (I/O helpers), FS2 (core), Reference Implementation in Java
@@ -1077,6 +1082,10 @@ Scala
       * [ZIO Streams, Part 1: Essential Stream Components - YouTube](https://www.youtube.com/watch?v=bp3nM6bfzJk)
       * [ZIO Streams, Part 2: Error Handling - YouTube](https://www.youtube.com/watch?v=eewZHxuBA3E)
       * [ZIO Streams, Part 3: A Bigger Example - YouTube](https://www.youtube.com/watch?v=hZ8Ht6UlXcY)
+      * [Zymposium - ZIO Streams Part 1 (The Channel Type) - YouTube](https://www.youtube.com/watch?v=8hG_UY0Dazw)
+      * [Zymposium - ZIO Streams Part 2 (Using Channels) - YouTube](https://www.youtube.com/watch?v=Pfu8m3XBBuQ)
+      * [Zymposium - ZIO Streams Part 3 (Streaming Sandwiches) - YouTube](https://www.youtube.com/watch?v=SGr7mQ15-Pw)
+      * [Zymposium - ZIO Streams - Final Part (Fan In/Fan Out) - YouTube](https://www.youtube.com/watch?v=3EO0yVf63xI)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
       * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
@@ -1405,6 +1414,7 @@ Scala
     * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
     * [The Cats Effect 3 Course for Scala Developers | Rock the JVM](https://rockthejvm.com/p/cats-effect)
     * [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
+    * [Functional event sourcing with cats-effect | by Jonas Chapuis | Sep, 2022 | Medium](https://jonas-chapuis.medium.com/functional-event-sourcing-with-akka-and-cats-7c075939fbdc)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
