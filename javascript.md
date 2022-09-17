@@ -2935,11 +2935,12 @@ Javascript
       * `import express from "npm:express@5";` 같은 형식
     * Deno는 가장 빠른 JavaScript 런타임이 목표, 조만간 가장 빠른 HTTP 서버를 Deno에 추가 예정
   * ["데노 vs. Node.js" JS 런타임 선택 가이드 - ITWorld Korea](https://www.itworld.co.kr/news/250828)
-  * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
-  * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
   * [노드.js 대체제에 관심 있다면 주목! ‘디노(Deno)’ 런타임 프로젝트 9선 - CIO Korea](https://www.ciokorea.com/news/242569)
+  * [Deno 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1623)
+  * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
+  * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
