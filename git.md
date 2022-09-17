@@ -382,6 +382,7 @@ Git
 * [How to build Python Project using GitHub Actions | GitHub Actions CI/CD Pipeline for Python Project - YouTube](https://www.youtube.com/watch?v=PsO5dZqBckY)
 * [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
 * [Using Different Shell in GitHub Actions | Running Inline Shell and Checkout code with GitHub Actions - YouTube](https://www.youtube.com/watch?v=99Zdjb0ySBQ)
+* [Create Simple GitHub Actions Workflow for Java Application |GitHub Actions Crash Course | DevOpsHint - YouTube](https://www.youtube.com/watch?v=ODG0d-9Kh6U)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
