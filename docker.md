@@ -896,6 +896,7 @@ Docker
 * [Kubernetes Tutorial | Metrics Server | Explained Simply - YouTube](https://www.youtube.com/watch?v=7I3h1G-ik-E)
 * [Kubernetes Tutorial For Beginners | Full Practical Course - YouTube](https://www.youtube.com/watch?v=mfodU3kCXQE)
 * [Kubernetes Tutorial For Beginners | Kubernetes Secrets Explained - YouTube](https://www.youtube.com/watch?v=_PhZVtf_IgQ)
+* [Kubernetes Tutorial For Beginners | Kubernetes Backup and Restore Explained Step by Step - YouTube](https://www.youtube.com/watch?v=vtSUlcN4Kfg)
 * [Kubernetes Tutorials | How to Create Replicaset Controller and deploy in Kubernetes | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=ueJ46LMIpHQ)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
