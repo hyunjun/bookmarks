@@ -287,6 +287,7 @@ NoSQL
   * [Implementing Authentication in Next.js with Firebase and React](https://morioh.com/p/5b840786d261)
   * [하루만에 포트폴리오 끝내기 React + Firebase 왕초보 40분 완성 - 체크리스트 (Todo list) 만들기 - 프론트 + 백엔드 + 유저 로그인 - YouTube](https://www.youtube.com/watch?v=Y2qlUkRlGyU)
   * [Firebase와 Cloud Firestore로 실시간 메신저 서비스 이전 Part 1 | by Bubble(김동현) | 번개장터 기술 블로그 | Sep, 2022 | Medium](https://medium.com/bunjang-tech-blog/firebase%EC%99%80-cloud-firestore%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%A9%94%EC%8B%A0%EC%A0%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%A0%84-part-1-fbcc5cae6718)
+  * [Firebase Cloud Messaging API(V1) 키 만들기 | 웹으로 말하기](https://mytory.net/2022/09/17/how-to-create-fcm-api-v1-key.html)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
