@@ -126,6 +126,8 @@ Functional Programming
 * [Persistent data structures in functional programming](https://softwaremill.com/persistent-data-structures-in-functional-programming/)
 * [Functional programming is finally going mainstream](https://github.com/readme/featured/functional-programming)
 * [TECH l 월간FP(Functional Programming) - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV1Ltml73FGrG3XoS7I02ADx) clojure, ReScript
+* [프론트엔드에서 함수형을 추구하면 안되는 걸까? - Slidev](https://moonlit-nougat-422445.netlify.app/1)
+  * [GitHub - alstn2468/2022-jsconf-presentation: 🖥 2022 JSConf "프론트엔드에서 함수형을 추구하면 안되는걸까?" 발표 자료 🌈](https://github.com/alstn2468/2022-jsconf-presentation)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -292,6 +294,8 @@ Functional Programming
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
+* [fp-ts: Functional programming in TypeScript](https://github.com/gcanti/fp-ts)
+  * [Ecosystem - fp-ts](https://gcanti.github.io/fp-ts/ecosystem/)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
   * [03 - Michel Weststrate - Immer Immutability made easy](https://www.youtube.com/watch?v=-gJbS7YjcSo)
   * [Immer: Immutability made easy](https://immer.surge.sh/)
@@ -304,6 +308,8 @@ Functional Programming
 * [immutable-js: Immutable persistent data collections for Javascript which increase efficiency and simplicity](https://github.com/immutable-js/immutable-js)
   * [React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기](https://velopert.com/3486)
   * [How Immutable Data Structures (E.g. Immutable.js) are Optimized](https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56)
+* [io-ts: Runtime type system for IO decoding/encoding](https://github.com/gcanti/io-ts)
+* [monocle-ts: Functional optics: a (partial) porting of Scala monocle](https://github.com/gcanti/monocle-ts)
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [Ramda - A practical functional library for JavaScript programmers](https://ramdajs.com/)
   * [람다(Ramda)와 로다시(Lodash) 그리고 함수형 프로그래밍](https://engineering.huiseoul.com/%EB%9E%8C%EB%8B%A4-ramda-%EC%99%80-%EB%A1%9C%EB%8B%A4%EC%8B%9C-lodash-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-709ef969c9a5)
