@@ -1484,6 +1484,7 @@ Docker
     * StatefulSet을 제거하면 재생성하는 바람에 우회 방법을 쓰기 어렵게 만들고
     * 각 Vitess 오퍼레이터 등에서 각자 구현하고 있다고 함
   * 글 자체는 자사 제품을 홍보하는 느낌
+* [Statefulsets | Deploying MongoDB cluster to Kubernetes - YouTube](https://www.youtube.com/watch?v=eUa-IDPGL-Q)
 * [Kubernetes Pod Graceful Shutdown - How? - FoxuTech](https://foxutech.com/kubernetes-pod-graceful-shutdown-how/)
 * [kubeadm으로 클러스터 구성하기 | Kubernetes](https://kubernetes.io/ko/docs/setup/production-environment/tools/kubeadm/)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
