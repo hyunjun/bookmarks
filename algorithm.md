@@ -291,6 +291,7 @@ Algorithm
 * [코딩 테스트 및 알고리즘 문제해결 공부 방법 (고려대학교 KUCC, 2022년 4월)](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 * [How to Solve the Parking Lot Challenge in JavaScript](https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/)
 * [알고리즘 문제해결의 관점에서 프로그래밍 언어라는 것은 – shifted](https://blog.shift.moe/2022/07/18/on-programming-languages-in-competitive-programming/)
+* [GitHub - jskDr/Rust: All Algorithms implemented in Rust](https://github.com/jskDr/Rust)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
