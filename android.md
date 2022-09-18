@@ -250,6 +250,7 @@ Android
 * [Junior 개발자의 글로벌 서비스 경험기 1탄 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/07/06/azar-android-junior-developer-view.html)
 * [Android Developers Blog: Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html)
   * [구글, 안드로이드용 Cross Device SDK 공개 | GeekNews](https://news.hada.io/topic?id=7291)
+* [Pluu Dev - 앱의 Version Code 변경](https://pluu.github.io/blog/android/2022/09/17/update-version-code/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
