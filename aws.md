@@ -1849,3 +1849,4 @@ AWS
 * [AWS WAF 운영에 대한 이야기 - 우아한형제들 기술 블로그](https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html)
 * [AWS WAF 설정 및 접근 제한하기 – OpsNow Tech Blog](https://blog.opsnow.com/40)
 * [Guidelines for Implementing AWS WAF](https://d1.awsstatic.com/whitepapers/guidelines-implementing-aws-waf.pdf)
+* [AWS WAF – Label 을 활용한 예외 규칙의 사용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-waf-using-label-to-use-exception-rules/)
