@@ -1754,6 +1754,7 @@ AWS
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
+* [Terraform Tutorial For Complete Beginners | Ashok IT - YouTube](https://www.youtube.com/watch?v=4hnI7QvPimI)
 * [How To Install and Configure Terraform on Amazon Cloud - DevOps Titan](https://devopstitan.com/how-to-install-and-configure-terraform-on-amazon-cloud/)
 * [Terraform을 활용한 NCP 인프라 생성. IAC (Infrastructure as a Code)란? | by 노윤지 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/terraform%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ncp-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%9D%EC%84%B1-2a2be6a94687)
 * [Terraform Archives - DevOps Titan](https://devopstitan.com/category/terraform/)
