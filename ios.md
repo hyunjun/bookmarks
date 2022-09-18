@@ -629,3 +629,4 @@ iOS
   * [Tuist를 활용한 하쿠나 iOS 프로젝트 모듈화 적용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/04/19/ios-modularization.html)
 * [Xcode Cloud 베타 가벼운 체험기. 드디어 신청했던 Xcode Cloud 서비스를 사용할 수 있었습니다! | by Jung Kim | Nov, 2021 | Medium](https://medium.com/@jungkim/xcode-cloud-%EB%B2%A0%ED%83%80-%EA%B0%80%EB%B2%BC%EC%9A%B4-%EC%B2%B4%ED%97%98%EA%B8%B0-a12eceb50f11)
 * [Xcode: 비밀스러운 인덱스 저장소. 그 숨겨진 비밀의 문을 열어봅시다🧐 | by Jung Kim | Apr, 2022 | Medium](https://medium.com/@jungkim/xcode-%EB%B9%84%EB%B0%80%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-ee62b7cf46e7)
+* [Xcode 14부터 바뀐 것들. 릴리스 노트를 개발자 관점에서 살펴본 소소한 사항 | by Jung Kim | Sep, 2022 | Medium](https://medium.com/@jungkim/xcode-14%EB%B6%80%ED%84%B0-%EB%B0%94%EB%80%90-%EA%B2%83%EB%93%A4-9dda016f25bd)
