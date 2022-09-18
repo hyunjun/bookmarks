@@ -328,6 +328,8 @@ Finance
   * [Predicting Stock Price Movement With Random Forests | Building the Model](https://www.youtube.com/watch?v=E2LX_hUHMn0)
   * [Predicting Stock Price Movement With Random Forests | Model Evaluation](https://www.youtube.com/watch?v=iJmteST6fP8)
   * [Predicting Stock Price Movement With Random Forests | Model Improvement](https://www.youtube.com/watch?v=ioUtR92tDAA)
+* [py_finance: 파이썬 금융 데이터 분석 튜토리얼 (Python Finance Data Analysis Tutorial)](https://github.com/sw-song/py_finance)
+* [py_finance_practice: data science tutorials](https://github.com/sw-song/py_finance_practice)
 * [Pythonic: Graphical Python programming for trading and automation](https://github.com/hANSIc99/Pythonic)
   * [Convert your Raspberry Pi into a trading bot with Pythonic | Opensource.com](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
 * [qspy: python package for verifying quantative strategies](https://github.com/GilseungAhn/qspy)
