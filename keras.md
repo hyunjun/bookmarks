@@ -259,6 +259,7 @@ Keras
   * [Hyperparameter tuning with Keras Tuner](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
   * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
   * [Keras Tuner를 사용하여 하이퍼파라미터 찾는 예제 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1642)
+  * [#Python | Keras Tuner, HyperTuning | #Hyperparameter #Keras #Tensorflow #DeepLearning - YouTube](https://www.youtube.com/watch?v=RgCKhtPD_FM)
 * [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
 * [plaidML-Keras](https://www.facebook.com/groups/KerasKorea/permalink/3077728298909781/)
   * mac 에서 딥러닝을 하는 방법은 크게, 1. CPU 이용, 2. PlaidML + OpenCL 이용, 3. ROCm (RadeonOpenCompute) 이용, 4. eGPU enclosure + NVIDIA GPU
