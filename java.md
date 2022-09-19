@@ -1315,6 +1315,7 @@ Java
   * [Jenkins Tutorial For Beginners - Jenkins Tutorial - Jenkins Crash Course - YouTube](https://www.youtube.com/playlist?list=PL8WTXLSrtyWpgy4ZvhkVmc9uq5dU8ao08)
   * [#jenkins #springboot Spring Boot Application Deployment Using Jenkins CI & CD #lovetolearn - YouTube](https://www.youtube.com/watch?v=gV1wq2E6Lqc)
   * [Monitoring Jenkins with Java Melody - YouTube](https://www.youtube.com/watch?v=FK5EW2AJ6_k)
+  * [Learn Jenkins by Building a CI/CD Pipeline](https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/)
   * [jenkins-stack-kubernetes: Scripts and manifests to deploy complete Jenkins on Kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes)
   * [jenkins-tutorial: The complete Jenkins tutorial, reference, awesome, examples](https://github.com/ssbostan/jenkins-tutorial)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
