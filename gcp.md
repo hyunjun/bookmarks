@@ -33,8 +33,6 @@ Google Cloud Platform GCP
 * [Google Cloud Platform 제품들 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/11/GCP-Products/)
 * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
 * [프로젝트 종료하기](http://jybaek.tistory.com/718)
-* [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
-* [Google Dev Library | What will you build?](https://devlibrary.withgoogle.com/products/cloud/repos/jybaek-gcp-infra-by-terraform) terraform
 * [Stack driver profiler](http://bcho.tistory.com/1248)
 * [GCP의 새로운 대화형 CLI](https://developers-kr.googleblog.com/2018/04/gcp-cli.html)
 * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
@@ -224,6 +222,11 @@ Google Cloud Platform GCP
 * [gcpdiag](https://gcpdiag.dev/)
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
+
+# Terraform
+* [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
+* [Google Dev Library | What will you build?](https://devlibrary.withgoogle.com/products/cloud/repos/jybaek-gcp-infra-by-terraform)
+* [Hands on Terraform with GCP](https://heumsi.github.io/hands-on-terraform-with-gcp/)
 * [gcp-infra-by-terraform](https://github.com/jybaek/gcp-infra-by-terraform)
   * [테라폼 모듈 구조잡기 - feat with GCP](https://jybaek.tistory.com/966)
 
