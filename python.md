@@ -4130,6 +4130,7 @@ Python
 ## Library IDE
 * [Best Python IDEs and Code Editors You Must Use in 2020](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24)
 * [A Python IDE meant for learning programming](https://pythonawesome.com/a-python-ide-meant-for-learning-programming/)
+* [Top 5 open source Python IDEs | Opensource.com](https://opensource.com/resources/python/ides)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
