@@ -629,6 +629,7 @@ Docker
 * [Top 6 Best practices for Container Orchestration | by Hardik Shah | Jul, 2022 | Medium](https://hardiks.medium.com/top-6-best-practices-for-container-orchestration-b4b0d3398ebc)
 * [How we clone a running VM in 2 seconds - CodeSandbox Blog](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) mmap CoW copy-on-write
 * [Debunking Container Myths 🧵 A (never-ending) series of articles that I started writing a couple of years ago to fix my own misconceptions about containers https://t.co/bD7Iw48ere / Twitter](https://twitter.com/iximiuz/status/1563851156417298434?s=20&t=k9U_jpi2l-s4egt7TvZH6A)
+* [Why Docker isn't always a good idea Part 1 - DEV Community 👩💻👨💻](https://dev.to/n00d13/why-docker-isnt-always-a-good-idea-part-1-5ha1)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1436,6 +1437,8 @@ Docker
 * [Welcome Tilt: Fixing the pains of microservice development for Kubernetes - Docker](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 * [K8s Session 1 : Kubernetes for beginners #Devops #CICD #Kubernetes #Docker - YouTube](https://www.youtube.com/watch?v=aWtdxQBk73w)
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
+* [K8s Session 3 : Stateful application deployment on Kubernetes - Part 1 #Kubernetes - YouTube](https://www.youtube.com/watch?v=NF75lYT26pE)
+* [K8s Session 4 : Understanding Kubernetes YAML Files #Kubernetes - YouTube](https://www.youtube.com/watch?v=Y7sVJ7R18PQ)
 * [Kubernetes Installation Methods The Complete Guide | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-installation-methods-the-complete-guide-1036c860a2b3)
 * [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
 * [Kubernetes Storage — Part 1 — NFS complete tutorial | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-storage-part-1-nfs-complete-tutorial-75e6ac2a1f77)
