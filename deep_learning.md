@@ -2695,6 +2695,15 @@ CVPR2016)
     * [Creative ML OpenRAIL-M 라이선스]([License - a Hugging Face Space by CompVis](https://huggingface.co/spaces/CompVis/stable-diffusion-license))하에 상업적/비상업적으로 사용 가능
     * https://beta.dreamstudio.ai 에서 무료 테스트 가능
     * 공개된 지 얼마 되지 않았지만 벌써 WebUI도 생기고 text-to-image뿐 아니라 image-to-image도 가능
+  * [Access Stable Diffusion from Hugging Face with Colab Tutorial | Stable Diffusion Python - YouTube](https://www.youtube.com/watch?v=cxJ_cBuBpUU)
+  * [stable-diffusion-tensorflow: TensorFlow/Keras port of Stable Diffusion](https://github.com/fchollet/stable-diffusion-tensorflow)
+    * m1 mac 에서 구동 가능하다(단지 m1용으로 준비된 requirements 만 잘 설치해주면 됨)
+    * out-of-the-box 로, 멀티 GPU 추론 및 TPU 추론 수행 가능. 분산 학습 strategy 를 적절하게 컨피그 해주면 됨
+    * 케라스 스탠다드 모델(SavedModel)로 구현되었기 때문에, 다양한 형식의 배포 용이. TFServing / TFLite / TF.js 로 쉽게 변환될 수 있으며, 이를 통해 다양한 애플리케이션 작성 가능
+
+# Text to video text2video
+* [Runway - Online Video Editor | Everything you need to edit video, fast](https://runwayml.com/)
+  * [Text to Video: Early Access - YouTube](https://www.youtube.com/watch?v=mYjfIc9xw90)
 
 # Tutorial
 * [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
