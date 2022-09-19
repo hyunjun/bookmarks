@@ -318,6 +318,13 @@ Programming Books
   * 프로핏웰 Profitwell 평균 이탈률 벤치마크 [Average Revenue Churn Rate Benchmarks](https://www.profitwell.com/recur/all/average-revenue-churn-rate-benchmarks)
   * 리컬리 Recurly 이탈률 벤치마크 [Subscription churn rate industry benchmarks - Recurly research | Recurly](https://recurly.com/research/churn-rate-benchmarks/)
   * [CHURN.FM - It's your churn!](https://www.churn.fm/)
+* [The Nature of Software Development](https://www.hanbit.co.kr/store/books/look.php?p_code=B2161499374)
+  * ★★★★☆ 2022.09.19
+  * 한라 005.104-제897ㄴ
+  * [우리 팀은 어떻게 일 해야할까? | kciter.so](https://kciter.so/posts/the-nature-of-software-development-book-report)
+  * [THE NATURE OF SOFTWARE DEVELOPMENT](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_nature_of_software_development.md)
+  * [THE NATURE OF SOFTWARE DEVELOPMENT | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/the-nature-of-software-development-ac34752e0114)
+  * [THE NATURE OF SOFTWARE DEVELOPMENT](https://jh4hj.tistory.com/entry/THE-NATURE-OF-SOFTWARE-DEVELOPMENT)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
@@ -345,9 +352,6 @@ Programming Books
   * 탐라
 * (NOT YET) [애자일 팀 코칭](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287259709)
   * 탐라 문325.2-앳829ㅇ
-* (NOT YET) [The Nature of Software Development](https://www.hanbit.co.kr/store/books/look.php?p_code=B2161499374)
-  * 한라 005.104-제897ㄴ
-  * [우리 팀은 어떻게 일 해야할까? | kciter.so](https://kciter.so/posts/the-nature-of-software-development-book-report)
 
 # Algorithm
 
