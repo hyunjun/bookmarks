@@ -958,6 +958,7 @@
 * Snowflake
   * [Read from Kafka & Write to Snowflake via Spark Databricks | LinkedIn](https://www.linkedin.com/pulse/read-from-kafka-write-snowflake-via-spark-databricks-deepak-rajak/?trackingId=nV2nP1ws2QRWZVSBOpNkDw%3D%3D)
   * [입 개발 Spark SQL Query to Snowflake Query | Charsyam's Blog](https://charsyam.wordpress.com/2021/09/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-spark-sql-query-to-snowflake-query/)
+  * [Snowflake 와 Spark on EMR 연동하기. Snowflake Connector for Spark 와 JDBC… | by MJ Lee | Snowflake Korea | Aug, 2022 | Medium](https://medium.com/snowflake-korea/snowflake-%EC%99%80-spark-on-emr-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-cbeeddd8c3e2)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
