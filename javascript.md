@@ -1991,6 +1991,7 @@ Javascript
   * [Nest.js는 실제로 어떻게 의존성을 주입해줄까?](https://velog.io/@coalery/nest-injection-how)
   * [The Beginners Guide: NestJS and How it is the Best JS Framework in the Market | by Yannis | Medium](https://medium.com/@YNNSme/the-beginners-guide-nestjs-and-how-it-is-the-best-js-framework-in-the-market-c128852a23aa)
   * [스파르타코딩클럽 | 블로그](https://spartacodingclub.kr/blog/shall-we-nestjs-1-overview)
+  * [Why NestJS is The Best Node.js Framework for Microservices? | by Mohammad Yaser Ahmadi | Sep, 2022 | Medium](https://myas92.medium.com/why-nestjs-is-the-best-node-js-framework-for-microservices-3e56b65e0cda)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
@@ -2304,6 +2305,8 @@ Javascript
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804) 모노레포에 사용할 수 있는 도구인 Yarn(v1, v2), Lerna, Nx, Turborepo의 사용법, 특징, 차이점 설명
 * [궁극의 JavaScript 모노레포 설정 - fromundefined by Tony](https://fromundefined.com/posts/2022-08-ultimate-monorepo/) lerna yarn workspace ultra runner
 * ['모노레포' 태그의 글 목록](https://yeoulcoding.me/tag/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC)
+* [JavaScript package managers compared - npm, Yarn, or pnpm? – Sebastian Weber – Frontend developer who likes to learn by teaching](https://doppelmutzi.github.io/packageManagers/)
+  * [번역 JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm?](https://velog.io/@dev_boku/JavaScript-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EB%B9%84%EA%B5%90-npm-Yarn-%EB%98%90%EB%8A%94-pnpm)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -3234,6 +3237,7 @@ Javascript
 * [lets-react: React tutorial written in React](https://github.com/Avantgarde95/lets-react)
 * [React Website Tutorial - Beginner React JS Project Fully Responsive - YouTube](https://www.youtube.com/watch?v=6SCYzHkve9E)
 * [Conditional Rendering in React JS | React Tutorial for Beginners | Edureka - YouTube](https://www.youtube.com/watch?v=ZeP3Kw-VsGI)
+* [Conditional Rendering In ReactJS - YouTube](https://www.youtube.com/watch?v=Gb9C5SwzWs8)
 * [Introduction to Modern React (2 Hour Course) - YouTube](https://www.youtube.com/watch?v=Siy-pU8Wzcs)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
