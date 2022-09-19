@@ -279,6 +279,14 @@ Web
   * 결혼식장 안내는 티맵, 카카오내비, 네이버 지도를 연동
   * 송금 카카오페이와 토스뱅크를 연동
   * 방명록은 Firebase 연동
+* [PRPL Pattern](https://www.patterns.dev/posts/prpl/)
+  * [PRPL Pattern | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/prpl-pattern/)
+* [Airbnb Case Study](https://www.patterns.dev/posts/airbnb-casestudy/)
+  * [Airbnb Case Study | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/airbnb-case-study/)
+* [Optimize loading third-parties](https://www.patterns.dev/posts/third-party/)
+  * [Third Parties | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/third-parties/)
+* [Hey.com](https://www.patterns.dev/posts/case-studies/)
+  * [Hey.com | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/hey-com/)
 
 # Apache
 * installation
