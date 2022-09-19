@@ -57,6 +57,7 @@ Ruby
 * [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
 * [Why Ruby has Symbols | dmitrytsepelev.dev](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 * [(Not always) Cool methods to be careful when working with rails - DEV Community 👩💻👨💻](https://dev.to/jplethier/not-always-cool-methods-to-be-careful-when-working-with-rails-8cf)
+* [Best Ruby on Rails IDEs and Editors To Use In 2022 - DEV Community 👩💻👨💻](https://dev.to/rachgrey/best-ruby-on-rails-ides-and-editors-to-use-in-2022-3cph)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
