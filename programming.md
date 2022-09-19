@@ -2504,6 +2504,7 @@ Programming
 * [How to do a Code Review: The Ultimate Guide](https://www.codiga.io/blog/code-review-guide-checklist/)
 * [Best Code Reviews Tools in 2022](https://www.codiga.io/blog/best-code-review-tools-2022/)
 * [**2022 INFCON - 박미정.pdf - Google Drive**](https://drive.google.com/file/d/1nrjCp289WhUps0D1SWDn2cvIpPkg-VOL/view) code review뿐만이 아니라 개발 과정 전체에 걸친 review 이야기
+* [code review, clean code, code, development, github, good practices | Medium](https://medium.com/@ashokrawat086/code-review-software-engineering-bedff59f5a16)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
