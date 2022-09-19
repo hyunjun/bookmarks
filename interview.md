@@ -686,8 +686,6 @@ Interview
 * [코딩테스트 준비 사이트 모음집(단순링크만)](https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C)
 * [10 Common Coding Interview Problems - Solved! - YouTube](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 * [System Design Guide for Front-end Developers - DEV Community](https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl/)
-* [Blind 75 Leetcode problems : Detailed Video Solutions](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions/)
-* [Leetcode BLIND-75 Solutions - YouTube](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
 * [acmicpc-kit: Let's practice algorithms with Acmicpc Kit ! Acmicpc Kit is a template project for creating the problem project using fully customizable templates](https://github.com/silentsoft/acmicpc-kit)
 * [Advent of Code 2021](https://adventofcode.com/)
   * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
@@ -760,6 +758,9 @@ Interview
   * [How to solve coding interview problems ("Let's leetcode")](https://www.youtube.com/watch?v=dIrS31CCITM)
   * [Software Interview Questions](https://www.youtube.com/playlist?list=PL7ka-zjE4mZ1Odmc6d25UWTnAspyOEYxY)
   * [Leetcode Scouter](https://dev-jelly.github.io/leetcode_scouter_js/)
+  * [Blind 75 Leetcode problems : Detailed Video Solutions](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions/)
+  * [Leetcode BLIND-75 Solutions - YouTube](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+  * [https://leetcode-company-tagged.vercel.app](https://leetcode-company-tagged.vercel.app/) 회사별
 * [LintCode - Home](https://www.lintcode.com/en/)
 * [mailprogramming.com](https://mailprogramming.com/)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
