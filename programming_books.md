@@ -2238,6 +2238,7 @@ Programming Books
 * (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
   * 한라 325-드29ㄱ 우당 문325-피833ㄱ
 * (NOT YET) [파타고니아 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9108907099)
+* (NOT YET) [지금 살아남은 승자의 이유](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301514355)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
