@@ -2945,6 +2945,7 @@ Javascript
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
+  * [deno task 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1624)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
   * [fresh - The next-gen web framework](https://fresh.deno.dev/)
