@@ -474,6 +474,7 @@ Python
 * [Python은 pass-by-value입니다 · 감자도스](https://blog.potados.com/dev/python-is-pass-by-value/)
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [ASMR Programming - coding Game OF Life in Python - No Talking - YouTube](https://www.youtube.com/watch?v=nCcAz1LHz9k)
+* [Day 16 : Live Weather Updates with Python - YouTube](https://www.youtube.com/watch?v=DpZIA0vzT7Y)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -489,6 +490,7 @@ Python
 * jamos_separator.py [한글 자모 분리](https://jybaek.tistory.com/790)
 * [jamotools](https://pypi.org/project/jamotools/)
 * [langdetect - Port of Google's language-detection library (version from 03/03/2014) to Python](https://github.com/Mimino666/langdetect)
+  * [Day 12 : Language Detection using Python - YouTube](https://www.youtube.com/watch?v=BCfoj2sZpXY)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
 # Android
@@ -706,6 +708,7 @@ Python
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
   * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
+  * [Day 40 : Calculation of Execution Time of a Python Program - YouTube](https://www.youtube.com/watch?v=4Utsueu0_n4)
   * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
@@ -1473,7 +1476,9 @@ Python
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
   * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
   * [What Are Generators, Yields, and Streams in Python?](https://medium.com/better-programming/what-are-generators-yields-and-streams-in-python-a94072b3eb93)
-* zipfile [파이썬을 사용해 한글 파일명을 포함한 ZIP 파일 압축 해제 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8947142043)
+* zipfile
+  * [파이썬을 사용해 한글 파일명을 포함한 ZIP 파일 압축 해제 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8947142043)
+  * [Day 82 : Unzip Files using Python - YouTube](https://www.youtube.com/watch?v=CFFI5cEtopc)
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
@@ -3474,6 +3479,7 @@ Python
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [Connexion - a framework that automagically handles HTTP requests based on OpenAPI Specification (formerly known as Swagger Spec) of your API described in YAML format](https://github.com/zalando/connexion/blob/master/README.rst)
+* countryinfo [Day 13 : Country info in Python - YouTube](https://www.youtube.com/watch?v=nF5rH-JNCZg)
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
@@ -3560,6 +3566,7 @@ Python
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
+* forex_python [Day 26 : Real time Currency Converter with Python - YouTube](https://www.youtube.com/watch?v=Hn0lnCa8VzI)
 * [fsspec: Filesystem interfaces for Python — fsspec 2021.06.1+1.gd915d3e.dirty documentation](https://filesystem-spec.readthedocs.io/en/latest/index.html)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
@@ -3890,6 +3897,7 @@ Python
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
+* sounddevice [Day 44 : Voice Recorder in Python - YouTube](https://www.youtube.com/watch?v=8tnt5rZW7hY)
 * [spongebob-cli: Watch classic spongebob from the terminal!](https://github.com/trakBan/spongebob-cli)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
@@ -3903,8 +3911,7 @@ Python
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
 * [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
-* [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
-  * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* TextBlob -> [nlp](nlp.md)
 * [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * tox
