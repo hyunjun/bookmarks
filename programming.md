@@ -3282,6 +3282,7 @@ Programming
 * [The Death of DevOps || Graham Zabel - YouTube](https://www.youtube.com/watch?v=l4YCh8Z-pmo)
 * [Comparison bw Docker Vs Kubernetes Vs Ansible | ReviewNPrep](https://reviewnprep.com/blog/devops-tool-comparison-docker-vs-kubernetes-vs-ansible/)
 * [What is DevOps ? Explained DevOps in Detail #DevOPs #Docker #Jenkins #Kubernetes - YouTube](https://www.youtube.com/watch?v=CPJ6YILC8Gs)
+* [What Is DevOps? 5 Essential Features for DevOps Adoption | ReviewNPrep](https://reviewnprep.com/blog/what-is-devops-5-essential-features-for-devops-adoption/)
 * [Seven steps to making DevOps a reality | Google Cloud Blog](https://cloud.google.com/blog/topics/perspectives/seven-steps-to-making-devops-a-reality)
 * [The human scalability of “DevOps” | by Matt Klein | Medium](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
   * [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops/)
