@@ -3423,6 +3423,7 @@ Javascript
   * [아무것도 모르고 React 시작하기](http://harbor.school/stories/data-visualization-2/)
   * [React 그놈.. (props vs state)](http://harbor.school/stories/data-visualization-3-props-state/)
 * [Props와 State - React에서 데이터를 다루는 주요 개념인 Props와 State가 무엇인지 알아보고, 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/react/props-state/)
+* [How To Manage React States Like A Pro | by Amit Kumar | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-manage-react-states-like-a-pro-4127cf7df5e0)
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 * [Useful Custom Hooks for Tired React Devs | by Tom Norton | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/useful-custom-hooks-for-tired-react-devs-f2f602dc754f)
 * [React 커스텀 훅 함수의 테스트 코드 작성 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-10-18T00:00:00.000Z)
