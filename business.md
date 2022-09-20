@@ -1050,6 +1050,7 @@ Business
 * [EN Specialist : CTO 하쿠](https://recruit.enlighten.kr/3779abfb-c274-4c6a-8e61-628b97b6bd97)
 * [전 웨이브 CTO, 아마존코리아 이사, 34년 경력의 개발자가 세특에 합류한 이유: 세탁특공대 CTO 필릭스 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254169)
 * [기고 | 개발·전략 모두 하는 새로운 길··· ‘코딩 리더’에 주목할 이유 - CIO Korea](https://www.ciokorea.com/news/238439)
+* [‘개발자’를 알면 '접근법'이 보인다, IT 리더를 위한 지피지기 전략 6가지 - CIO Korea](https://www.ciokorea.com/news/255790)
 * [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
 * [CTO와 그냥 개발자의 차이](https://brunch.co.kr/@graypool/551)
 * [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
