@@ -383,6 +383,7 @@ Git
 * [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
 * [Using Different Shell in GitHub Actions | Running Inline Shell and Checkout code with GitHub Actions - YouTube](https://www.youtube.com/watch?v=99Zdjb0ySBQ)
 * [Create Simple GitHub Actions Workflow for Java Application |GitHub Actions Crash Course | DevOpsHint - YouTube](https://www.youtube.com/watch?v=ODG0d-9Kh6U)
+* [CircleCI에서 GitHub Actions로 이전하며 배포 속도 개선하기 | by Seungwook Seo | 당근마켓 팀블로그 | Sep, 2022 | Medium](https://medium.com/daangn/circleci%EC%97%90%EC%84%9C-github-actions%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EB%A9%B0-%EB%B0%B0%ED%8F%AC-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-39fc41617993)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
