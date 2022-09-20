@@ -158,6 +158,7 @@ Product
 * [Matias ergo pro](http://matias.ca/ergopro/pc/)
 * [아두이노 커스텀 키보드 제작](https://lazygyu.net/blog/make_a_custom_machanical_keyboard)
 * [HacKeyboard, a mechanical keyboard built from scratch](http://www.instructables.com/id/HacKeyboard-a-mechanical-keyboard-built-from-scrat/)
+* [An Enthusiast's Deep Dive Into Mechanical Keyboard Switches](https://switchandclick.com/mechanical-keyboard-switch-guide/)
 * [서울 야경 담은 기계식 키보드?](http://techholic.co.kr/archives/47695)
 * [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
