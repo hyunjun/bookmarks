@@ -249,7 +249,7 @@ Programming Books
   * 한라 005.12-오44ㅅ
 * (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
   * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
-  * [독서광 안드로이드 뜻밖의 역사 - YouTube](https://www.youtube.com/watch?v=HKPt2L8pgNE)
+  * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
 * (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
 * (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
