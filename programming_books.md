@@ -318,6 +318,9 @@ Programming Books
   * 프로핏웰 Profitwell 평균 이탈률 벤치마크 [Average Revenue Churn Rate Benchmarks](https://www.profitwell.com/recur/all/average-revenue-churn-rate-benchmarks)
   * 리컬리 Recurly 이탈률 벤치마크 [Subscription churn rate industry benchmarks - Recurly research | Recurly](https://recurly.com/research/churn-rate-benchmarks/)
   * [CHURN.FM - It's your churn!](https://www.churn.fm/)
+  * [Fighting Churn with Data 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라](https://github.com/hyunjun/bookmarks/blob/master/programming_books/fighting_churn_with_data.md)
+  * [Fighting Churn with Data 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/fighting-churn-with-data-%EA%B3%A0%EA%B0%9D-%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%98-%EC%A0%84%EB%9E%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EA%B3%A0%EA%B0%9D-%EC%9D%B4%ED%83%88%EC%9D%84-%EB%A7%89%EC%95%84%EB%9D%BC-bb66e0fe0dc4)
+  * [Fighting Churn with Data 고객 리텐션의 전략 데이터를 통해 고객 이탈을 막아라](https://jh4hj.tistory.com/entry/Fighting-Churn-with-Data-%EA%B3%A0%EA%B0%9D-%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%98-%EC%A0%84%EB%9E%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EA%B3%A0%EA%B0%9D-%EC%9D%B4%ED%83%88%EC%9D%84-%EB%A7%89%EC%95%84%EB%9D%BC)
 * [The Nature of Software Development](https://www.hanbit.co.kr/store/books/look.php?p_code=B2161499374)
   * ★★★★☆ 2022.09.19
   * 한라 005.104-제897ㄴ
