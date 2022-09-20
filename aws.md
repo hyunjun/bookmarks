@@ -1644,6 +1644,7 @@ AWS
 * [AWS S3 Service | What is? | How to create Buckets? | Simple Storage Service - YouTube](https://www.youtube.com/watch?v=SiVMXuO00eM)
 * [AWS Tutorial: AWS S3 simple operations from web console and CLI - YouTube](https://www.youtube.com/watch?v=ItKED-GGa10)
 * [AWS Tutorial: Share a temporary downloadable URL to S3 Object with presign - YouTube](https://www.youtube.com/watch?v=zA91Zw-sGqI)
+* [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
