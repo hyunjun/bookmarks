@@ -2629,6 +2629,11 @@ Programming Books
   * [혼자 공부하는 파이썬](https://jh4hj.tistory.com/entry/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 * [책 vs 책 - 파이썬 신간 분석 - YouTube](https://www.youtube.com/watch?v=H2ffDHW1Xp0)
   * 독서광 클린 코드 이제는 파이썬이다, 파이써닉한 파이썬을 익히는 간결한 안내서, 전문가를 위한 파이썬 프로그래밍
+* [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
+  * ★★★★☆ 2022.09.19~20 예상보다는 초보자용 도서였지만 내용은 좋음
+  * 탐라 문005.133-스67ㅋ
+  * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
+  * [Invent with Python - Beyond the Basic Stuff with Python](https://inventwithpython.com/#beyond)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -2720,9 +2725,6 @@ Programming Books
   * 탐라
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
   * 탐라
-* (NOT YET) [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
-  * 탐라
-  * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
