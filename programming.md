@@ -601,6 +601,7 @@ Programming
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 * [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
+* [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1392,6 +1393,7 @@ Programming
   * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog](https://tech.deliveryhero.com/delivery-hero-architecture-reviews/)
 * [Our backend strategy to handle massive traffic | Coupang Engineering | Coupang Engineering Blog](https://medium.com/coupang-engineering/our-backend-strategy-to-handle-massive-traffic-d30cd6cc4fb2)
+* [When to use a trait? — Matthias Noback - Blog](https://matthiasnoback.nl/2022/07/when-to-use-a-trait/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1936,10 +1938,12 @@ Programming
 * [마이크로서비스 아키텍처로의 전환 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/how-coupang-built-a-microservice-architecture-fd584fff7f2b)
 * [마이크로서비스 아키텍처 환경에서 플랫폼 서비스 개발하기 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/@coupang-engineering-kr/integrating-platform-services-to-a-microservice-architecture-6f19f7816e15)
 * [대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략. 마이크로서비스로 고객에게 데이터 서빙하기: 고가용성, 고처리량, 그리고… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Sep, 2022 | Medium](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367)
+* [캐시를 활용한 대용량 트래픽 처리 성능 향상. 마이크로서비스와 캐시 레이어를 함께 운영하며 쿠팡이 겪은 복잡한 기술적… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Sep, 2022 | Medium](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07)
 * [Our backend strategy to handle massive traffic | Coupang Engineering | Coupang Engineering Blog](https://medium.com/coupang-engineering/our-backend-strategy-to-handle-massive-traffic-d30cd6cc4fb2)
 * [Principles Of The Microservice Architecture (Part 1)](https://ravisystemdesign.substack.com/p/principles-of-the-microservice-architecture)
 * [Microservices Vs. APIs: Highlighting the Major Differences](https://haripatel.me/major-differences-of-microservices-vs-apis/)
 * [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
+* [Microservices – Please, don’t | Riak Technologies](https://riak.com/posts/technical/microservices-please-dont/index.html)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2312,6 +2316,7 @@ Programming
 * [Netflix Architecture: How Much Does Netflix's AWS Cost?](https://www.cloudzero.com/blog/netflix-aws)
 * [5 open source tools for developing on the cloud | Opensource.com](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
 * [Cloud for dummies Series' Articles - DEV Community 👩💻👨💻](https://dev.to/hellonehha/series/17981)
+* [어쩌다 천덕꾸러기 됐을까... ‘클라우드 송환’한 기업의 속사정 - CIO Korea](https://www.ciokorea.com/news/254014)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
