@@ -1500,6 +1500,12 @@ Docker
 * [Kubernetes Tutorial | How to set environment variables in Pods - YouTube](https://www.youtube.com/watch?v=kbN8nMDqkRM)
 * [Re: 제로부터 구축한 새 홈페이지, homin.dev | Homin Lee's blog](https://suapapa.github.io/blog/post/20220908_homin-dev_with_k8s/)
 * [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
+* [For the love of god, stop using CPU limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits/)
+* [Access your local cluster like a managed Kubernetes engine – Inlets – The Cloud Native Tunnel](https://inlets.dev/blog/2022/07/07/access-kubernetes-api-server.html)
+* [Service Mesh: The best way to Encrypt East-West traffic in Kubernetes | by Nagarjoon B | Sep, 2022 | Medium](https://medium.com/@nagarjoon.b/service-mesh-the-best-way-to-encrypt-east-west-traffic-in-kubernetes-89aab0c77794)
+* [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
+* [Accidental complexity, essential complexity, and Kubernetes | Drifting in Space](https://driftingin.space/posts/complexity-kubernetes)
+* [Kubernetes Was Never Designed for Batch Jobs | by Meadowrun | Sep, 2022 | Better Programming](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
