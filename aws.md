@@ -1764,6 +1764,7 @@ AWS
 * [Terraform을 활용한 NCP 인프라 생성. IAC (Infrastructure as a Code)란? | by 노윤지 | Cloud Villains | Jun, 2022 | Medium](https://medium.com/ctc-mzc/terraform%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ncp-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%83%9D%EC%84%B1-2a2be6a94687)
 * [Terraform Archives - DevOps Titan](https://devopstitan.com/category/terraform/)
 * [Terraform Version Upgrade – DEVOPS DONE RIGHT](https://blog.opstree.com/2022/07/19/terraform-version-upgrade/)
+* [DevOps Tutorials | How to use Terraform Modules to build a AWS network VPC | Terraform Modules - YouTube](https://www.youtube.com/watch?v=mqyekr3bOCg)
 * [Terraform Cloud | Creating IAM Roles and User in AWS Using Terraform | by S3CloudHub | Jun, 2022 | Medium](https://s3cloudhub.medium.com/terraform-cloud-creating-iam-roles-and-user-in-aws-using-terraform-cb701add8f81)
 * [Terraform으로 AWS EKS에 Kubernetes 클러스터 프로비저닝 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1608)
 * [Complete Terraform Course for beginners with Hands On Practice and Terraform Commands in 10 minutes - YouTube](https://www.youtube.com/watch?v=80szTnzBs2M)
