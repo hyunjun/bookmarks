@@ -4514,6 +4514,7 @@ Javascript
   * [스토리북 작성을 통해 얻게 되는 리팩토링 효과 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220609-storybookwise-component-refactoring/)
   * [UI Component Encyclopedia | GeekNews](https://news.hada.io/topic?id=6772)
   * [개발자를 위한 친절한 UI 컴포넌트 라이브러리 만들기](https://engineering.linecorp.com/ko/blog/ui-component-library-for-developers-with-typescript-storybook)
+  * [당신2 9하던 Storybook. 여러 프론트엔드팀에서 이미 사용하고 있거나 도입을 고민하시는… | by Sanghyup Jeong | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EB%8B%B9%EC%8B%A02-9%ED%95%98%EB%8D%98-storybook-a6b10a62e825)
   * [storybook-gen](https://github.com/blacktoast/storybook-gen)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
