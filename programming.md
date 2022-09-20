@@ -3027,6 +3027,7 @@ Programming
   * passwordless는 핸드폰에서 FIDO 인증을 하면 passkey를 저장하고 이 passkey를 이용해서 온라인 계정 로그인 가능
   * 컴퓨터에서는 근처에 있는 폰을 이용해서 로그인할 수 있고 한번 로그인하고 나면 이후부터는 컴퓨터의 잠금만 풀면 핸드폰이 없어도 로그인 가능
     * 폰에 저장된 passkey는 클라우드 백업으로 새 폰에서도 이용
+* [블로그 | 로그인의 미래?··· 애플 패스키 미리 써보니... - CIO Korea](https://www.ciokorea.com/news/254056)
 * [애플·구글·MS, '암호 없는 로그인'에 협력한다··· 2023년부터 지원 예정 - CIO Korea](https://www.ciokorea.com/news/235534)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [The Three Things to Never Build In Your App: Authentication, Notifications, and Payments | Courier](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
@@ -3038,6 +3039,7 @@ Programming
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
 * ['사례로 본' 코드 재사용이 여전히 보안 악몽인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/202964)
 * [블로그 | 보안은 원래 어렵다, 쉬워지는 '기적'은 없을 터다 - CIO Korea](https://www.ciokorea.com/news/251134)
+* [“기업의 약 3분의 1, 클라우드서 민감 데이터 암호화 안해” - CIO Korea](https://www.ciokorea.com/news/254710)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
 * [SAML is insecure by design | joonas.fi](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
@@ -3100,6 +3102,7 @@ Programming
     * 사용자와 웹사이트 제공자와 상관없이 Meta가 사용자의 모든 것을 모니터링 가능
   * [인스타그램/페북은 인앱브라우저에서 하는 모든 일을 추적가능합니다 | GeekNews](https://news.hada.io/topic?id=7170)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
+* [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
