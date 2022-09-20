@@ -1499,6 +1499,7 @@ Docker
 * [Kubernetes Native Edge Computing Framework, kubeEdge I Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=JEdRAW6O-kM)
 * [Kubernetes Tutorial | How to set environment variables in Pods - YouTube](https://www.youtube.com/watch?v=kbN8nMDqkRM)
 * [Re: 제로부터 구축한 새 홈페이지, homin.dev | Homin Lee's blog](https://suapapa.github.io/blog/post/20220908_homin-dev_with_k8s/)
+* [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
