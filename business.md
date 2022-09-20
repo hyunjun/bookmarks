@@ -105,6 +105,7 @@ Business
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
 * [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
 * [야놀자의 나스닥행, 가능할까? f. 이재용 회계사 22.07.26 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=FLWX2DhH3tE) OTA
+* [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
