@@ -54,6 +54,7 @@ PHP
 * [My PHP enum style guide - stitcher.io](https://stitcher.io/blog/php-enum-style-guide)
 * [Create a Rest API with PHP - YouTube](https://www.youtube.com/watch?v=sPfpEoaILls)
 * [PHP-FPM tuning: Using 'pm static' for max performance](https://haydenjames.io/php-fpm-tuning-using-pm-static-max-performance/)
+* [The difference between Traits, Interfaces, and Abstract Classes in PHP - Andrew Schmelyun](https://aschmelyun.com/blog/the-difference-between-traits-interfaces-and-abstract-classes-in-php/)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
