@@ -1303,6 +1303,7 @@ Business
 * [원티드×사이먼시넥 | ep.1 리더의 조건✍️ 존경받는 리더가 되고 싶다면? - YouTube](https://www.youtube.com/watch?v=e4TT30CBPMY) "리더 디퍼런트"
 * [성장하는 조직, 성장하는 리더십](https://brunch.co.kr/@coupangdesign/67)
 * [한기용 - 성장하는 조직의 성장통 - 개인 주도에서 조직 주도로 움직이기 (1)](https://www.linkedin.com/posts/activity-6976759191948455937-WguK/)
+* [한기용 - 성장하는 조직의 성장통 - 개인 주도에서 조직 주도로 움직이기 (2)](https://www.linkedin.com/posts/activity-6978024428165111808--bRA/)
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
 * [‘덜어야 더한다’··· 지친 리더를 위한 위임의 기술 6가지 - CIO Korea](https://www.ciokorea.com/news/252202)
