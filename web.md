@@ -1176,6 +1176,7 @@ Web
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * [fastwsgi: An ultra fast WSGI server for Python 3](https://github.com/jamesroberts/fastwsgi)
   * [FastWSGI : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222599564643)
+* [Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required](https://github.com/flet-dev/flet)
 * [HTTPX](https://www.python-httpx.org/)
   * [How to use httpx, a web client for Python | Opensource.com](https://opensource.com/article/22/3/python-httpx)
   * [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-httpx-and-asyncio)
