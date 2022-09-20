@@ -1314,6 +1314,7 @@ NLP
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
+* better_profanity [Day 36 : Remove Cuss Words using Python - YouTube](https://www.youtube.com/watch?v=r9qeg-T_9_s)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [ecco: Visuals and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2)](https://github.com/jalammar/ecco)
 * [Ekphrasis - a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction](https://github.com/cbaziotis/ekphrasis)
@@ -1403,6 +1404,7 @@ NLP
   * [spaCyOpenTapioca · spaCy Universe](https://spacy.io/universe/project/spacyopentapioca/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+  * [Day 20 : Spelling Correction with Python - YouTube](https://www.youtube.com/watch?v=RQMrtwEjqAg)
 * [TextFeatureSelection · PyPI](https://pypi.org/project/TextFeatureSelection/)
   * [TextFeatureSelection — A Python package - Praveen Govindaraj - Medium](https://medium.com/@praveengovi/textfeatureselection-a-python-package-c7493207b92)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
