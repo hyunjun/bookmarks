@@ -189,11 +189,13 @@ App
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
 * [**Tiny Helpers**](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers
+* [Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps](https://github.com/meienberger/runtipi)
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
+* [Twine / An open-source tool for telling interactive, nonlinear stories](https://twinery.org/)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
@@ -1679,6 +1681,7 @@ App
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
   * [Vrew의 Web 기술 - VoyagerX](https://v6x.github.io/2020/06/04/vrew-web-tech.html)
+* [Wavvy - 웹기반 오디오 편집기 (Audacity 포팅) | GeekNews](https://news.hada.io/topic?id=7329)
 * [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
 
   ```
@@ -1694,6 +1697,7 @@ App
     youtube-dl --output "captions.%(ext)s" --write-auto-sub --skip-download [비디오링크]
     sed '/-->/d' captions.en.vtt | sed '/<c>/d' | sed '/^[[:space:]]*$/d' | uniq > captions.txt
     ```
+  * [jsinterp.py at master · ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/jsinterp.py)
   * [yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 * [YouTube.js: 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
   * [Youtube.js - 유튜브 Private API를 전체 커버하는 라이브러리 | GeekNews](https://news.hada.io/topic?id=6372)
