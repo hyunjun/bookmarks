@@ -178,6 +178,7 @@ Azure
 * [Best Practices when working with Azure Synapse | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/best-practices-when-working-with-azure-synapse-e811cf882b63)
 * [Good News for Microsoft Azure Synapse Users | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/good-news-for-microsoft-azure-synapse-users-7d21a5c91516)
 * [Create & Deploy a Node API app on Azure](https://qwertycod.com/create-deploy-a-node-api-app-on-azure/)
+* [Lift and shift Windows applications to containers | InfoWorld](https://www.infoworld.com/article/3670093/lift-and-shift-windows-applications-to-containers.html)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
