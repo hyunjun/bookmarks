@@ -50,6 +50,7 @@ Bitcoin
 * [대학원 과정 입문 - Openhash Platform](https://www.youtube.com/playlist?list=PLlSZlNj22M7QKwIhAplWtFCGJYt5bJLBy)
 * [WTF is Cuckoo Cycle PoW algorithm that attract projects like Grin and Cortex?](https://hackernoon.com/wtf-is-cuckoo-cycle-pow-algorithm-that-attract-projects-like-cortex-and-grin-ad1ff96effa9)
 * [Consensus Models: PoW, PoS and New Pioneer, PoF](https://hackernoon.com/consensus-models-pow-pos-and-new-pioneer-pof-702fa2f55d49) proof of work, proof of stake, proof of formulation
+* ["이중 지급 문제 해결사" 블록체인 합의 메커니즘 13가지 - ITWorld Korea](https://www.itworld.co.kr/news/253492)
 * [앵무새 죽이기 - by MOYED - Sunday Services](https://sundayservices.substack.com/p/--d4c) proof of work
 * [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
 * [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
@@ -74,9 +75,11 @@ Bitcoin
 * [무너진 모래성, 스테이블 코인은 존재해야 하는가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48158)
 * [Two thought experiments to evaluate automated stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
+* [Design and evaluation of IPFS | Proceedings of the ACM SIGCOMM 2022 Conference](https://dl.acm.org/doi/abs/10.1145/3544216.3544232)
 * [암호자산, '심판의 날'이 다가온다 < 경제 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1057) 읽으면서 CAP theorem이 연상됨
 * [**해킹당한 모든 브릿지들에게 - by MOYED - Why Matters**](https://whymatters.substack.com/p/--92a)
 * [가상자산 지갑 종류 알아보기 (크립토 월렛)](https://soccer-programming.tistory.com/52)
+* [핵심 개념부터 사용 방법까지... ‘암호화폐 지갑’ 시작하기 - CIO Korea](https://www.ciokorea.com/news/254746)
 * [블파스 Next Keyword? Soulbound Token | 신은옥 - YouTube](https://www.youtube.com/watch?v=7nmIU21B2f8)
 * [SAFT](https://gist.github.com/hyunjun/0c65243188f18882ceeaf266eb3f4334#file-saft-md)
   * [The SAFT Project](https://saftproject.com/)
@@ -331,6 +334,7 @@ Bitcoin
 * [“원숭이 잔치는 끝나지 않았다” NFT의 미래 가능성 - ITWorld Korea](https://www.itworld.co.kr/news/248560)
 * [디센트 지갑 UX 스토리 : “approve” 그 특별한 트랜잭션에 관하여 | by Minho, Yoo | D'CENT Wallet | IOTRUST : Team Blog | Medium](https://medium.com/iotrustlab/%EB%94%94%EC%84%BC%ED%8A%B8-%EC%A7%80%EA%B0%91-ux-%EC%8A%A4%ED%86%A0%EB%A6%AC-approve-%EA%B7%B8-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6296ce9eb7a0)
 * [A Survey of NFT Licenses: Facts & Fictions | Galaxy — Engineering a new economic paradigm](https://www.galaxy.com/research/insights/a-survey-of-nft-licenses-facts-and-fictions/)
+* [The Spectacular Collapse of CryptoKitties, the First Big Blockchain Game - IEEE Spectrum](https://spectrum.ieee.org/cryptokitties)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
