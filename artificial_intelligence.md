@@ -30,6 +30,7 @@ Artificial Intelligence
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 * [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
 * ['사람이 이해할 수 있는 AI' 설명가능한 AI를 설명하다 - ITWorld Korea](https://www.itworld.co.kr/news/210149) XAI
+* [사례로 살펴보는 AI 역량 내재화가 어려운 이유 - ITWorld Korea](https://www.itworld.co.kr/t/73492/Cognet9_Plugnet/254428)
 * [설명 가능한 인공지능(XAI)과 UX. 스켈터랩스 디자인 팀은 인공지능에 대해 다양한 방면으로의 연구를 하고… | by Park Minji | Skelter Labs Designer | Jan, 2022 | Medium](https://medium.com/skelterlabs-designer/%EC%84%A4%EB%AA%85-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-xai-%EA%B3%BC-ux-1aa7f17f28af)
 * [머신러닝 모델을 설명할 수 있어야 하는 이유 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/ai-machine-learning/why-you-need-to-explain-machine-learning-models) XAI
 * [인공지능의 오해와 진실…기초·응용분야 집중해야](http://www.itnews.or.kr/?p=18306)
