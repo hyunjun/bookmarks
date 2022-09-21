@@ -602,6 +602,7 @@ Programming
 * [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
+* [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -3386,6 +3387,7 @@ Programming
 * [Min Sans - 민 산스, 프로덕트 디자인에 적합한 폰트를 만들어가고 있습니다](https://github.com/poposnail61/min-sans)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
+* [noto-kr-vf-distilled: 용량을 줄인 Noto Sans 및 Noto Serif 가변폰트](https://github.com/akngs/noto-kr-vf-distilled)
 * [Programming Fonts - Test Drive](https://www.programmingfonts.org/)
   * [프로그래밍 폰트 테스트 드라이브 | GeekNews](https://news.hada.io/topic?id=6976)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
