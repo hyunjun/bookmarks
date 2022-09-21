@@ -399,6 +399,7 @@ Data Science
 * [Data Versioning for Modern Data Teams and Platforms | by Christianlauer | CodeX | Jul, 2022 | Medium](https://medium.com/codex/data-versioning-for-modern-data-teams-and-platforms-86e8bba14f14)
 * [데이터에 신뢰성과 재사용성까지, Analytics Engineering with dbt - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/07/25/analytics-engineering-with-dbt.html) data build tool
 * [Typical Problems and Challenges in Data Science | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/typical-problems-and-challenges-in-data-science-b572bac8e476)
+* [DataFest Seoul 발표자료](https://www.linkedin.com/smart-links/AQHevxD2vksslQ/a45125f6-83ab-467d-ad02-1b4c5cb027f4)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
