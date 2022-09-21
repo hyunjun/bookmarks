@@ -1503,6 +1503,7 @@ Programming Books
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
 * (NOT YET) [퀀트의 세계 | 에이콘출판사](http://acornpub.co.kr/book/quant-career)
+  * [퀀트의 세계 (홍창수)](https://brunch.co.kr/@gauss92tgrd/61)
 * (NOT YET) [이더리움과 솔리디티 입문: 이더리움을 이용한 블록체인과 암호화폐 개발 이론과 실무 | 위키북스](https://wikibook.co.kr/ethereum-solidity/)
 * (NOT YET) [솔리디티 프로그래밍 에센셜: 이더리움과 블록체인을 위한 스마트 계약 프로그래밍 입문 | 위키북스](https://wikibook.co.kr/solidity-essentials/)
   * 한라 004.6-모28ㅅ
