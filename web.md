@@ -775,6 +775,7 @@ Web
 * [GraphQL kinda sucks | Hacker News](https://news.ycombinator.com/item?id=32366759)
   * [GraphQL은 좀 짜증나요 | GeekNews](https://news.hada.io/topic?id=7145)
 * [What is GraphQL (An Overview) – ScriptsView](https://scriptsview.com/apis/what-is-graphql-an-overview/)
+* [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
