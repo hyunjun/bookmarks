@@ -57,6 +57,7 @@ Programmer
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
+* [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
 * [How To Be A GREAT Programmer - YouTube](https://www.youtube.com/watch?v=X99Be8wJBMI)
 * [쉽게 살 수 있을까 ? :: 소프트웨어 개발자가 되기 위해 발을 내딛으신 분들에게](https://hl1itj.tistory.com/230)
@@ -165,6 +166,7 @@ Programmer
   * [1년차 개발자의 골드만삭스 → 스타트업 이직 후기 | GeekNews](https://news.hada.io/topic?id=7247)
 * [Developer Imposter Syndrome. Imposter Syndrome을 겪고 계신 많은 분께 이 글이… | by Whatsup | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8)
   * [Developer Imposter Syndrome | GeekNews](https://news.hada.io/topic?id=7258)
+* [Build Your Career on Dirty Work | Stay SaaSy](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
