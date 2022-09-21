@@ -2196,6 +2196,9 @@ Programming Books
   * ★★★☆☆ ~2022.09.09
   * 한라 325.19-로57아
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
+* [문샷 : 불가능을 가능으로 만든 화이자의 대담한 전략](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291842975)
+  * ★★★☆☆ 2022.09.19~21
+  * 한라 325.1-불292ㅁ 탐라 문325.24-불231ㅁ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
