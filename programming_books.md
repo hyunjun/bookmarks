@@ -2199,6 +2199,9 @@ Programming Books
 * [문샷 : 불가능을 가능으로 만든 화이자의 대담한 전략](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291842975)
   * ★★★☆☆ 2022.09.19~21
   * 한라 325.1-불292ㅁ 탐라 문325.24-불231ㅁ
+  * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략](https://github.com/hyunjun/bookmarks/blob/master/programming_books/moonshot.md)
+  * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/moonshot-%EB%AC%B8%EC%83%B7-%EB%B6%88%EA%B0%80%EB%8A%A5%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%99%94%EC%9D%B4%EC%9E%90%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EC%A0%84%EB%9E%B5-6119c59d2c90)
+  * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략](https://jh4hj.tistory.com/entry/Moonshot-%EB%AC%B8%EC%83%B7-%EB%B6%88%EA%B0%80%EB%8A%A5%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%99%94%EC%9D%B4%EC%9E%90%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EC%A0%84%EB%9E%B5)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
