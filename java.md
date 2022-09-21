@@ -856,6 +856,7 @@ Java
 * [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
 * [Not stagnation, but regression of Java. Where modern Java 17 loses to Java 8 | by Marian Čaikovski | Dec, 2021 | Medium](https://marian-caikovski.medium.com/not-stagnation-but-regression-of-java-where-modern-java-17-loses-to-java-8-e45b31fec5ac)
   * [Benchmarks Java 8 vs 17](https://horstmann.com/unblog/2022-01-06/index.html)
+* [Java 17 features: A comparison between versions 8 and 17 - Pretius](https://pretius.com/blog/java-17-features/)
 * [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
 * [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
 * [What's new with Java 17 and containers? | Opensource.com](https://opensource.com/article/22/3/java-17-quarkus)
@@ -877,6 +878,7 @@ Java
 
 # Java19
 * [자바19에 추가될 핵심 기능 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/238814)
+* [JDK 19 and JDK 20: What We Know So Far](https://www.infoq.com/news/2022/09/java-19-so-far/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
