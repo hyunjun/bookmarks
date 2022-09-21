@@ -23,6 +23,7 @@ Psychology
   * [180개가 넘는 인지편향(Cognitive Bias)을 일목요연하게 정리한 차트(codex) : 클리앙](https://www.clien.net/service/board/park/17547855?type=recommend)
   * [A comprehensive guide to cognitive biases — Quartz](https://qz.com/776168/a-comprehensive-guide-to-cognitive-biases/)
     * [A comprehensive guide to cognitive biases — Quartz](https://gist.github.com/hyunjun/123107861294398e7cde4f74f3967b13#file-a_comprehensive_guide_to_cognitive_biases-md)
+* [The IKEA Effect - Why people fall in love with their own ideas](https://mannhowie.com/ikea-effect) cognitive bias
 * [인사이드 아웃 속 심리학](http://ppss.kr/archives/59482)
 * [넌 왜 자꾸 남 얘기를 해.. '낙인효과' 몰라?](http://media.daum.net/life/health/wellness/newsview?newsId=20151030100806490)
 * [겟젤스-잭슨 효과: 조직은 튀는 사람을 좋아하지 않는다](http://ksc12545.blog.me/220643712219)
