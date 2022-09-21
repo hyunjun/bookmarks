@@ -1390,6 +1390,7 @@ App
   * [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
   * [M1 맥북에서 처음해야하는 일 - Homebrew부터](http://dalinaum.github.io/mac/2021/03/15/m1-init.html)
   * [brew bundle로 이사하기 (인텔맥 -> M1 pro) | by Jude Park | Medium](https://judepark-6960.medium.com/brew-bundle%EB%A1%9C-%EC%9D%B4%EC%82%AC%ED%95%98%EA%B8%B0-%EC%9D%B8%ED%85%94%EB%A7%A5-m1-pro-2b46ba9ea166)
+  * [Lightly "sandboxed" homebrew on macOS](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
   * [brew-updates: Get Brew Packages to update, just like you've experienced from Ubuntu](https://github.com/code-yeongyu/brew-updates)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
