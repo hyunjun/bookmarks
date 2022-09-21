@@ -1947,6 +1947,7 @@ App
   * [React 개발자를 위한 피그마 플러그인 개발(feat. 온보딩) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8339/)
   * [No.1 디자인 협업 도구 피그마의 성장 스토리](https://sonujung.com/growth-strategies-of-figma) Adobe 피인수에 맞춰 기술보다는 figma를 비롯한 디자인도구의 변화, figma 창업 관련 이야기
   * [Why Figma Wins (Figma는 왜 이기는가?)](https://www.relate.kr/blog/why-figma-wins-korean/)
+  * [피그마는 여러분을 나쁜 디자이너로 만들고 있습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1699/)
   * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
     * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
     * 사용법
