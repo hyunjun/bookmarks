@@ -188,6 +188,7 @@ C
 * [philosophers bonus 프로세스간 통신](https://velog.io/@junppyo/philosophers-bonus-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B0%84-%ED%86%B5%EC%8B%A0)
 * [everything you ever wanted to know about terminals](http://xn--rpa.cc/irl/term.html)
 * [What is A Void Function In The C Programming language?](https://learncplusplus.org/what-is-a-void-function-in-the-c-programming-language/)
+* [NaN boxing or how to make the world dynamic - Blog by Piotr Duperas](https://piotrduperas.com/posts/nan-boxing)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -276,6 +277,7 @@ C
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [buffet: All-inclusive Buffer Type for C](https://github.com/alcover/buffet)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
+* [cake: Cake a C23 front end and transpiler written in C](https://github.com/thradams/cake)
 * [cdecl: C gibberish ↔ English](https://cdecl.org/)
 * [**Cello - a library that brings higher level programming to C**](http://libcello.org/)
   * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
