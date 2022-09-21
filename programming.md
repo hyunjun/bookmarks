@@ -377,6 +377,7 @@ Programming
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
+* [Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Sep, 2022 | Better Programming](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson - YouTube](https://www.youtube.com/watch?v=9LfmrkyP81M) 업계에 만연한 잘못된 인식, 좋은 소프트웨어는 무엇이며 어떻게 만들지
 * [블로그ㅣ개발자에게 듣는 '좋은 소프트웨어'의 조건 - CIO Korea](https://www.ciokorea.com/news/230519)
@@ -546,6 +547,7 @@ Programming
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 * [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
+* [Alex Xu on Twitter: "/1 How do we generate unique IDs in distributed systems? How do we avoid ID conflicts? The diagram below shows 5 ways. 👇 https://t.co/heA5cXZPcy" / Twitter](https://twitter.com/alexxubyte/status/1570430639836639239)
 * [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
 * [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
 * [0x7FDE623822FC16E6 : a magic constant for double float reciprocal - Paul Khuong mostly on Lisp](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
@@ -2172,6 +2174,7 @@ Programming
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+  * [프로그래밍 무료 학습 자료 모음 | GeekNews](https://news.hada.io/topic?id=7378)
 * [GOTO Book Club - GOTOpia](https://gotopia.tech/bookclub)
 * [hacker shelf](http://hackershelf.com/)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
@@ -2509,6 +2512,7 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
+* [Code Red: The Business Impact of Code Quality– A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [How to do a Code Review: The Ultimate Guide](https://www.codiga.io/blog/code-review-guide-checklist/)
