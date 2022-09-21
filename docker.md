@@ -1330,6 +1330,7 @@ Docker
 * [컨테이너 탐험가를 위한 ‘쿠버네티스’ 안내서 - CIO Korea](https://www.ciokorea.com/news/211809)
 * [install k8s on ubuntu20.04](https://uni2u.tistory.com/126)
 * [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
+* [Install Node K8s Cluster | Setup Kubernetes Cluster | Kubernetes Training | K21Academy - YouTube](https://www.youtube.com/watch?v=5VWYJ4evllQ)
 * [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 * [Kubernetes에서 HPA를 활용한 오토스케일링(Auto Scaling)](https://saramin.github.io/2022-05-17-kubernetes-autoscaling/)
 * [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
