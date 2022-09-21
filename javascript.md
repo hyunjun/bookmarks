@@ -151,6 +151,7 @@ Javascript
 * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
   * [Learning Patterns - 웹 앱 설계를 위한 패턴들 | GeekNews](https://news.hada.io/topic?id=7182)
   * [Home | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/)
+* [Infinite Scrolling: When to Use It, When to Avoid It](https://www.nngroup.com/articles/infinite-scrolling-tips/)
 * [Building a YouTube Clone With React — Part 1 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-1-40fb09ae2837)
 * [Building a YouTube Clone Using React — Part 2 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-2-a23a9dded270)
 * [최종 완성본! 자바스크립트로 생산성 앱 클론하기](https://www.youtube.com/watch?v=yLNuqWCUA8A)
@@ -836,6 +837,7 @@ Javascript
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
 * [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
 * [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
+* [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1895,6 +1897,8 @@ Javascript
 * [MaskPassword: This is a suggestion for passwords that change over time, not always a constant string of passwords](https://github.com/danwha/MaskPassword)
 * [massCode - A free and open source code snippets manager for developers. https://masscode.io ](https://github.com/antonreshetov/massCode)
 * [Material Design Hierarchical Display](http://zavoloklom.github.io/material-design-hierarchical-display/)
+* [memlab: A framework for finding JavaScript memory leaks and analyzing heap snapshots](https://github.com/facebookincubator/memlab)
+  * [Facebook MemLab Helps Finding JavaScript Memory Leaks](https://www.infoq.com/news/2022/09/memlab-javascript-memory-leaks/)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
   * [Scaling Meteor to 20,000+ Users in 7 Days](http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/)
