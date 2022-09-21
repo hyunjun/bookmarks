@@ -48,6 +48,7 @@ Network
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
 * [URL 구조 이해하기](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
+* [Shortest URLs on the Internet | James Williams](https://jameswillia.ms/posts/shortest-urls.html)
 * [Developers Need to Learn Basic Network Engineering | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/developers-need-to-learn-basic-network-engineering-c67767969cd5)
 * [박피디의 게임 개발 이야기 : python 으로 이더넷 mac 주소 얻는 코드](http://parkpd.egloos.com/4189114)
 * [Change your MAC address with a shell script · Josh Thompson](https://josh.works/shell-script-basics-change-mac-address)
@@ -398,6 +399,7 @@ Network
 * [TCP Connection Passing](http://tcpcp.sourceforge.net/)
 * [mTCP TCP/IP applications for DOS PCs](http://www.brutman.com/mTCP/mTCP.html)
 * [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
+* [TCP Socket Listen: A Tale of Two Queues](http://arthurchiao.art/blog/tcp-listen-a-tale-of-two-queues/)
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 
 # UDP
@@ -414,6 +416,7 @@ Network
 * [Benchmarking QUIC. Summer 2020 | by Alex Yu | Medium](https://medium.com/@the.real.yushuf/benchmarking-quic-1fd043e944c7)
 * [페이스북 엔지니어링 블로그 번역 QUIC으로 수십억 트래픽을 대응하는 법](https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb)
 * [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
+* [HTTP/3 From A To Z: Core Concepts — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
 * [QUIC 버전 1의 RFC 승인 | saturnsoft.net](https://www.saturnsoft.net/network/2021/05/27/quic-rfc9000/)
   * QUIC은 TCP(트랜스미션 컨트롤 프로토콜) 대신 더 빠른 UDP(유저 데이터그램 프로토콜) 사용
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
