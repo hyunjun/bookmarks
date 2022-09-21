@@ -55,6 +55,8 @@ Regular Expression
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
+* [hyperscan: High-performance regular expression matching library](https://github.com/intel/hyperscan)
+  * [Introduction — Hyperscan 5.4.0 documentation](http://intel.github.io/hyperscan/dev-reference/intro.html)
 * [REGEX - How to match and search any pattern or validate input? (Regular expressions 30-min course) - YouTube](https://www.youtube.com/watch?v=dxJHQYtck0k)
 
 # C#
