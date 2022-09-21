@@ -594,8 +594,6 @@ Go
   * [golang - go.uber.org/atomic 패키지를 사용하여 atomic 다루기 - jacking75](https://jacking75.github.io/go_lib_uber_atomic/)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
   * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
-* [badger: Fast key-value DB in Go](https://github.com/dgraph-io/badger)
-  * [BadgerDB: Fast key-value DB in Go](https://morioh.com/p/d0fc6c58ca33)
 * [binclude: Include files in your binary the easy way](https://github.com/lu4p/binclude)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
@@ -824,11 +822,14 @@ Go
 ## Library cache
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
+* [badger: Fast key-value DB in Go](https://github.com/dgraph-io/badger)
+  * [BadgerDB: Fast key-value DB in Go](https://morioh.com/p/d0fc6c58ca33)
 * [bigcache - Efficient cache for gigabytes of data written in Go](https://github.com/allegro/bigcache)
 * [fastcache: Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead](https://github.com/VictoriaMetrics/fastcache)
 * [go-cache: A Go library to deal with multi-layered caching between in-memory cache and shared cache (i.e. Redis) by adopting Cache-Aside pattern.](https://github.com/viney-shih/go-cache)
 * [Groupcache | How to cache and fill cache with Golang](https://morioh.com/p/371b25a11c35)
 * [kvass: a personal key-value store](https://github.com/maxmunzel/kvass)
+* [pebble: RocksDB/LevelDB inspired key-value database in Go](https://github.com/cockroachdb/pebble)
 
 ## Library CLI command line interface
 * [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
