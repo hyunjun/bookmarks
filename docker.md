@@ -630,6 +630,7 @@ Docker
 * [How we clone a running VM in 2 seconds - CodeSandbox Blog](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) mmap CoW copy-on-write
 * [Debunking Container Myths 🧵 A (never-ending) series of articles that I started writing a couple of years ago to fix my own misconceptions about containers https://t.co/bD7Iw48ere / Twitter](https://twitter.com/iximiuz/status/1563851156417298434?s=20&t=k9U_jpi2l-s4egt7TvZH6A)
 * [Why Docker isn't always a good idea Part 1 - DEV Community 👩💻👨💻](https://dev.to/n00d13/why-docker-isnt-always-a-good-idea-part-1-5ha1)
+* [Implementing Container Manager](https://iximiuz.com/en/series/implementing-container-manager/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -813,6 +814,7 @@ Docker
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 * [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
 * [dockerfile: Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
+* [Dockerfile Best Practices for Developers - DEV Community 👩💻👨💻](https://dev.to/pavanbelagatti/dockerfile-best-practices-for-developers-mh2)
 * practice
   * [some project with apache](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-some_project_and_apache-md)
   * [ubuntu + python3, 한글](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-ubuntu_python3_korean-md)
