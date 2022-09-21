@@ -1598,6 +1598,7 @@ Javascript
 * [How do JavaScript Frameworks differ from JavaScript Libraries? | by Thomas Sentre | Jun, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-do-javascript-frameworks-differ-from-javascript-libraries-6bd433e395e4)
 * [Use These JavaScript Libraries To Level Up Your Project! - YouTube](https://www.youtube.com/watch?v=ZrFfPIPA5gs)
 * [2022년 프론트엔드 개발 동향 | 요즘IT](https://yozm.wishket.com/magazine/detail/1590/)
+* [Top 2 ORMs in JavaScript. When working with Ruby applications, I… | by Himanshu Gupta | Medium](https://medium.com/@himanshu_dev/top-2-orms-in-javascript-fadd2e57b81c)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
