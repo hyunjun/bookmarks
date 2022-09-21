@@ -616,6 +616,7 @@ Interview
 * [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
 * [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 * [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
+* [ How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
