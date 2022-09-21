@@ -1032,6 +1032,8 @@ Git
   * [GitHub Copilot: your AI pair programmer - GitHub Checkout - YouTube](https://www.youtube.com/watch?v=St2CMvK4hK0)
   * [Could GitHub Copilot produce a vulnerable code? | by YevhSec1 | Aug, 2022 | Medium](https://yevhsec1.medium.com/could-github-copilot-produce-a-vulnerable-code-8c23c890e578)
   * [Github Copilot AI가 만든 코인 자동매매 봇 돌려봄... 와 - YouTube](https://www.youtube.com/watch?v=PQigbak7H9I)
+  * [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness | The GitHub Blog](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+    * [Github Copilot이 개발자의 생산성과 행복에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=7359)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
