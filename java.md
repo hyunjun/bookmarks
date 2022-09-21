@@ -793,7 +793,6 @@ Java
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
 * [Java Futures, 2019 Edition](https://www.youtube.com/watch?v=hryQIIasGY4) Java12에 국한된 이야기는 아니며 type inference, switch pattern matching, project Valhalla, Panama, Loom 등 다양한 새로운 기능에 대한 이야기
-* [미래의 Java 미리보기 - 앰버와 발할라 프로젝트를 중심으로](https://www.slideshare.net/OracleDeveloperkr/main-session-java)
 
 # Java13
 * [Definitive Guide To Java 13](https://blog.codefx.org/java/java-13-guide/)
@@ -1058,6 +1057,7 @@ Java
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
 * [영상 : G1 GC 써볼까? :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/try-g1-gc)
+* [Concurrent Marking in G1](https://tschatzl.github.io/2022/08/04/concurrent-marking.html)
 * [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
@@ -1970,6 +1970,9 @@ Java
 * [11 Simple Java Performance Tuning Tips](https://stackify.com/java-performance-tuning/)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 1 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
+* Valhalla
+  * [미래의 Java 미리보기 - 앰버와 발할라 프로젝트를 중심으로](https://www.slideshare.net/OracleDeveloperkr/main-session-java)
+  * [Project Valhalla – Java on the path to better performance - Pretius](https://pretius.com/blog/project-valhalla-java/)
 
 # Reactive
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
