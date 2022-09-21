@@ -2250,6 +2250,12 @@ Programming Books
   * 한라 325-드29ㄱ 우당 문325-피833ㄱ
 * (NOT YET) [파타고니아 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9108907099)
 * (NOT YET) [지금 살아남은 승자의 이유](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301514355)
+* (NOT YET) [비즈니스 모델의 탄생(Business Model Gerneration)](https://blog.msalt.net/260)
+  * 한라 325.1-오57ㅂ 탐라 문325.1-오58ㅂ 우당 문325.1-오58ㅂ
+* (NOT YET) [비즈니스 아이디어의 탄생](https://theorydb.github.io/review/2020/09/01/review-book-testing-business-ideas/)
+  * 우당 문325.19-블232ㅂ
+* (NOT YET) [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
+  * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
