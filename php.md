@@ -65,8 +65,10 @@ PHP
 * [Zeros in PHP - 완두블로그](https://wani.kr/posts/2015/01/27/zeros-in-php/)
 * [PHP에서 pthread 사용하기. - 완두블로그](https://wani.kr/posts/2013/12/23/pthread-with-php/)
 * [PHP 소식 - Attribute](https://velog.io/@qroffle/PHP-%EC%86%8C%EC%8B%9D-Attribute)
+* [The 100 PHP functions in 2022 – Exakat](https://www.exakat.io/en/the-100-php-functions-in-2022/)
 
 # Book
+* [The PHP Handbook – Learn PHP for Beginners](https://www.freecodecamp.org/news/the-php-handbook/)
 * [PHP: The "Right" Way](https://leanpub.com/phptherightway/read_full)
 
 # Installation
