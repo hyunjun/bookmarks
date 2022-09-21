@@ -785,6 +785,7 @@ Programming
   * Dave Farley와 Allen Holub이 애자일에 관해서 얘기한 내용을 정리한 글
   * 스크럼이 경영진에 더 적합하게 만들어져서 민첩하지 않다고 하고 있고, 추정은 어렵기 때문에 추정하지 않는 게 오히려 더 좋고, 깊은 이해 없이 스프린트란 형식만 취하는 것을 문제라고 지적
   * 문제가 생기면 2주 뒤 스프린트가 아니고 바로 말해야 한다, Allen이 "행복하지 않다면 제대로 하는 것이 아니다"
+* [‘짝퉁 애자일 기업’이 자신을 속이는 말 7가지 - CIO Korea](https://www.ciokorea.com/news/255064)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -4717,6 +4718,7 @@ Programming
     * 회사 내의 엔지니어들이 어떤부분에 문제의식을 느끼고 있고 어떤 부분이 필수불가결하게 개선되어야 하는지를 먼저 인식하는게 중요한지 알려주는 글
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
+* [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
