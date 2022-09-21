@@ -3914,6 +3914,9 @@ Python
 * [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
 * TextBlob -> [nlp](nlp.md)
 * [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
+* [Taichi Lang, parallel programming for everyone](https://www.taichi-lang.org/)
+  * [taichi-dev/faster-python-with-taichi](https://github.com/taichi-dev/faster-python-with-taichi)
+    * [Accelerate Python code 100x by import taichi as ti | Taichi Docs](https://docs.taichi-lang.org/blog/accelerate-python-code-100x)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * tox
   * [Unit Testing in Python — tox and nox | by Martin Thoma | Python In Plain English | Medium](https://medium.com/python-in-plain-english/unit-testing-in-python-tox-and-nox-833e4bbce729)
@@ -3961,6 +3964,8 @@ Python
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * vyper [Pythonic Smart Contract Language for the EVM](https://pythonawesome.com/pythonic-smart-contract-language-for-the-evm/)
+* [wakaq: Distributed background task queue for Python backed by Redis, a super minimal Celery](https://github.com/wakatime/wakaq)
+  * [Building a Distributed Task Queue in Python - WakaTime](https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
   * [Watching a directory for file changes with Python](http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html)
   * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
