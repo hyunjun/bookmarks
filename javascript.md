@@ -3059,6 +3059,7 @@ Javascript
 * [node.js-stackoverflow-back-end-clone: stackoverflow back end clone with node.js](https://github.com/mertkaandev/node.js-stackoverflow-back-end-clone)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
 * [node-report - Delivers a human-readable diagnostic summary, written to file](https://github.com/nodejs/node-report)
+* [node-sdk: Node SDK for Nitric](https://github.com/nitrictech/node-sdk)
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
   * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
 * [npm.click](http://npm.click/)
