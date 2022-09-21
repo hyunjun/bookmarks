@@ -90,6 +90,7 @@ Open Source
     * 비 프로덕션에서는 무료 사용
     * 프로덕션에서는 Lightbend의 상용 라이센스 구매 필요
     * BSL이 오픈소스가 아니므로 akka는 더 이상 오픈소스가 아님
+* [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
