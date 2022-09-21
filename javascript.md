@@ -1782,6 +1782,7 @@ Javascript
       * 새 구성 파일은 `eslint.config.js`
       * 이는 JS 파일이라서 `extends`, `plugins`, `globals` 등 대부분을 모듈을 임포트에서 사용하는 방식
     * 새 flat config 시스템은 아직 CLI에 통합되지는 않았고 개발자가 테스트할 수 있게 API로 사용 가능
+  * [SafeQL - an ESLint plugin for writing SQL queries in a type-safe way](https://safeql.dev/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
