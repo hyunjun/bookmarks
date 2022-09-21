@@ -2016,6 +2016,7 @@ Docker
 * [Top Docker alternatives for 2022 - LogRocket Blog](https://blog.logrocket.com/top-docker-alternatives-2022/)
 * [LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog](https://earthly.dev/blog/lxc-vs-docker/)
 * [Man Seok Techne Schoe: macOS (M1) 환경에서 Docker 를 대치할 만한 것들](https://manseok.blogspot.com/2022/04/macos-m1-docker.html) podman minikube multipass lima
+* [Build and Run Containers without Docker | #buildah |#podman |#skopeo | Problems with Docker|#devops - YouTube](https://www.youtube.com/watch?v=yatyVLfhlic)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
   * [How I switched from Docker Desktop to Colima | Opensource.com](https://opensource.com/article/22/9/docker-desktop-colima)
