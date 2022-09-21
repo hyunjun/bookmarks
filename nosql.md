@@ -46,6 +46,10 @@ NoSQL
 * [클라우드 스케일!··· SQL과의 비교로 알아본 NoSQL - CIO Korea](https://www.ciokorea.com/news/242074)
 * [SQL vs NoSQL](https://velog.io/@yh_lee/SQL-vs-NoSQL)
 
+# AnnaDB
+* [AnnaDB](https://annadb.dev/)
+* [Announcing AnnaDB - next-gen NoSQL database - DEV Community 👩💻👨💻](https://dev.to/romanright/announcing-annadb-next-gen-nosql-database-3k3n)
+
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
 * [Benchmark: PostgreSQL, MongoDB, Neo4j, OrientDB and ArangoDB](https://www.arangodb.com/2015/10/benchmark-postgresql-mongodb-arangodb/)
@@ -67,6 +71,9 @@ NoSQL
 
 # Book
 * [더북(TheBook): NoSQL 철저 입문](https://thebook.io/006765/) 3~8장만
+
+# Cachegrand
+* [cachegrand - a modern OSS Key-Value store built for today's hardware](https://github.com/danielealbano/cachegrand)
 
 # Cassandra
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
