@@ -222,6 +222,7 @@ Business
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
 * [한 명의 인재가 수(십)만명을 먹여 살린다 v.. : 네이버블로그](https://blog.naver.com/help2000/222831465184) 팀워크
+* [팀워크의 종말 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/644)
 * [잘 나가는 팀의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/20478) teamwork
 * [teamwork - 프로 레벨의 선수들에게 서로 책임감을 가지게 하는건 더이상 코치들이 할 일이 아니야 프로인 너희에게 달려 있어](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-teamwork-md)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
