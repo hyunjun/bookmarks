@@ -776,6 +776,7 @@ Web
   * [GraphQL은 좀 짜증나요 | GeekNews](https://news.hada.io/topic?id=7145)
 * [What is GraphQL (An Overview) – ScriptsView](https://scriptsview.com/apis/what-is-graphql-an-overview/)
 * [GraphQL](https://velog.io/@hyunjine/GraphQL)
+* [DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching](https://github.com/graphql/dataloader)
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
@@ -882,6 +883,7 @@ Web
 * [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
 * [WebDevCurriculum: Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
   * [Knowre 신입 웹개발 커리큘럼 | GeekNews](https://news.hada.io/topic?id=4968)
+* [WebTransport 실험하기](https://web.dev/webtransport/)
 * [zero: Allow startup developers to ship to production on day 1](https://github.com/commitdev/zero)
   * [Zero - 스타트업이 첫날부터 개발 & 배포 가능하게 해주는 부트스트래핑 도구 | GeekNews](https://news.hada.io/topic?id=4957)
 
