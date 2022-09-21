@@ -2642,6 +2642,9 @@ Programming Books
   * 탐라 문005.133-스67ㅋ
   * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
   * [Invent with Python - Beyond the Basic Stuff with Python](https://inventwithpython.com/#beyond)
+  * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/beyond_the_basic_stuff_with_python.md)
+  * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/beyond-the-basic-stuff-with-python-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%A0%9C%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%8B%A4-c77ecb7b139)
+  * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다](https://jh4hj.tistory.com/entry/BEYOND-THE-BASIC-STUFF-WITH-PYTHON-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%A0%9C%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%8B%A4)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
