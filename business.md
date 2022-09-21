@@ -235,6 +235,7 @@ Business
 * [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
 * [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
 * [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
+* [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
@@ -1468,6 +1469,7 @@ Business
   * Archive "다른 세 범주의 비활성 항목" 포함
 * [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+* [Shifting from Passenger to Driver Mindset](https://www.infoq.com/podcasts/passenger-shifting-driver-mindset/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
@@ -1614,6 +1616,7 @@ Business
 * [주니어 PM의 '중요한 고객' 발굴하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/08/26/important-customer.html)
 * [디지털 프로덕트를 만들며 깨달은 11가지 사실](https://brunch.co.kr/@cliche-cliche/164)
 * [마켓관찰 레거시는 왜 쇠퇴하는가](https://v.daum.net/v/20220903000606836)
+* [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
