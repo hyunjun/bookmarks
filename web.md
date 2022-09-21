@@ -775,6 +775,7 @@ Web
 * [GraphQL kinda sucks | Hacker News](https://news.ycombinator.com/item?id=32366759)
   * [GraphQL은 좀 짜증나요 | GeekNews](https://news.hada.io/topic?id=7145)
 * [What is GraphQL (An Overview) – ScriptsView](https://scriptsview.com/apis/what-is-graphql-an-overview/)
+* [GraphQL](https://velog.io/@hyunjine/GraphQL)
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
 # Haskell
@@ -1017,6 +1018,7 @@ Web
 * [Build a Full Stack PWA App With Spring Boot (Step By Step Tutorial) - YouTube](https://www.youtube.com/watch?v=Lym-bvv_2sI)
 * [How to Build a Progressive Web App (PWA) with Create React App | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-progressive-web-app-pwa-with-create-react-app-acfd176c2876)
 * [PWA의 manifest. PWA이 일반 웹과 구분되는 것 중 하나는 manifest입니다… | by 이상선 | Jul, 2022 | Medium](https://medium.com/@sunyi233/pwa%EC%9D%98-manifest-json-1081829ad153)
+* [Why haven’t PWAs killed native apps yet? | by Kevin Basset | Sep, 2022 | Medium](https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
@@ -1338,6 +1340,7 @@ Web
 * [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
 * [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [REST API & RESTful Web Services Explained | Web Services Tutorial](https://morioh.com/p/dcfcf57aeb0d)
+* [How to Test a REST API with .NET and xUnit - Code Maze](https://code-maze.com/dotnet-test-rest-api-xunit/)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
