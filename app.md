@@ -2116,6 +2116,8 @@ App
   * [WSL(Windows Subsystem for Linux)로 SSH 연결하기](https://joojy.net/p/2017010342)
   * [윈도우 10 리눅스 서브시스템에서 OpenSSH Server 돌리는 방법](https://www.clien.net/service/board/lecture/9502940)
 * [BDRouter.Window.Client - 개인이 개발한 package router tool](https://blog.naver.com/berdo_seok/221120203259)
+* BigFAT [SEGGER emFile BigFAT](https://www.segger.com/products/file-system/emfile/bigfat/)
+  * [BigFAT - 파일크기 제한 없는 하위호환 가능 FAT 확장 | GeekNews](https://news.hada.io/topic?id=7370)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
   * e.g. `choco install openssh` install ssh
   * [rkttu dotfiles](https://github.com/rkttu/dotfiles)
