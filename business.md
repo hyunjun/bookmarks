@@ -2034,6 +2034,7 @@ Business
 * [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
 * [Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
   * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
+* [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
