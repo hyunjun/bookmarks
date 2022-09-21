@@ -2400,6 +2400,7 @@ Programming
 * [You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=t92iupKHo8M)
 * [Race between pair programming tools by Kaya Weers - YouTube](https://www.youtube.com/watch?v=LY1ViNekw_Q)
 * [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
+* [개발자는 페어 프로그래밍으로 성장한다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1698/)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
