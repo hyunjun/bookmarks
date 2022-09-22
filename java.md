@@ -1718,6 +1718,7 @@ Java
 * [Spring 개발환경에 따라 Profile 분리하는 방법과 활용 예제를 알아보자](https://velog.io/@couchcoding/Spring-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%97%90-%EB%94%B0%EB%9D%BC-Profile-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%ED%99%9C%EC%9A%A9-%EC%98%88%EC%A0%9C%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [Spring 개념 정리](https://velog.io/@betterfuture4/Spring-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 * [Spring - ActiveProfilesResolver를 이용하여 Test 코드 실행 시 Spring Profile을 동적으로 주입하기](https://kim-jong-hyun.tistory.com/134)
+* [셀렉트샵에서 예약하기 서비스 개발기. 기존 서비스의 한계 안에서 예약하기 서비스를 개발하며 겪은 해결방법과… | by chrisjune | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EC%85%80%EB%A0%89%ED%8A%B8%EC%83%B5%EC%97%90%EC%84%9C-%EC%98%88%EC%95%BD%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-f7578ffcfbf7)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
