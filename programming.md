@@ -4898,6 +4898,7 @@ Programming
   * [NDC22 <달빛조각사>에서 서버 테스트 코드를 작성하는 방법 - Speaker Deck](https://speakerdeck.com/ohyecloudy/ndc22-dalbicjogagsa-eseo-seobeo-teseuteu-kodeureul-jagseonghaneun-bangbeob)
 * [테스트 케이스 관리를 JIRA로 하자! : 웹서비스셀의 테스트 관리 툴 도입기](https://tech.devsisters.com/posts/jira-tool-qa/) QAlity, Zephyr Scale
 * [테스트 코드와 반증가능성에 대한 메모 - 기계인간 John Grib](https://johngrib.github.io/wiki/article/test-code-and-falsifiability/)
+* [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
