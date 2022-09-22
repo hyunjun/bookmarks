@@ -3440,6 +3440,7 @@ Programming
 * [Build Your First Serverless Application - Part 3: Infrastructure As Code - YouTube](https://www.youtube.com/watch?v=0Fj6L-6wL3k)
 * [The Best Infrastructure as Code Tools for 2022 - DZone Cloud](https://dzone.com/articles/the-best-infrastructure-as-code-tools-for-2022-1)
 * [Infrastructure-as-Code Goes Low Code/No Code – The New Stack](https://thenewstack.io/infrastructure-as-code-goes-low-code-no-code/)
+* [인프라, 어디까지 구축해 봤어? - 우리 서비스는 장애에 강건하고 확장이 가능할까요? 4회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1sOCkOQprNTKhKCgucH1SWdsjB_Kc3Mvog3BwLwGOa5Y/edit)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
