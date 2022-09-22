@@ -417,6 +417,7 @@ Clojure
 * [Cuddly, Octo-Palm Tree: Notes on Optimizing Clojure Code: Measurements](https://cuddly-octo-palm-tree.com/posts/2022-01-23-opt-clj-2/)
 * [Clojure isnt for me](https://swlkr.com/posts/clojure-isnt-for-me/)
 * [How to create a library that works with Clojure and ClojureScript - YouTube](https://www.youtube.com/watch?v=KVWxr9dvGZ8)
+* [**Simple Made Easy**](https://muchtrans.com/translations/simple-made-easy.ko.html) Rich Hickey
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
