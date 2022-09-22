@@ -1472,6 +1472,8 @@ Business
 * [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 * [Shifting from Passenger to Driver Mindset](https://www.infoq.com/podcasts/passenger-shifting-driver-mindset/)
+* [**The Set-Up-To-Fail Syndrome**](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
+  * [한기용 - 좋은 사람을 뽑았다면 그 다음은?](https://www.linkedin.com/posts/activity-6978605574007459840-ATGu/)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
