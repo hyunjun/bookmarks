@@ -2325,6 +2325,7 @@ Programming
 * [5 open source tools for developing on the cloud | Opensource.com](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
 * [Cloud for dummies Series' Articles - DEV Community 👩💻👨💻](https://dev.to/hellonehha/series/17981)
 * [어쩌다 천덕꾸러기 됐을까... ‘클라우드 송환’한 기업의 속사정 - CIO Korea](https://www.ciokorea.com/news/254014)
+* [AWSKRUG DS 2022/09 발표 - 클라우드 데이터 플랫폼을 구성하는 최신 기술 알아보기 - Speaker Deck](https://speakerdeck.com/woongseok/09-balpyo-keulraudeu-deiteo-peulraespomeul-guseonghaneun-coesin-gisul-alabogi)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
