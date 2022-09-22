@@ -1928,6 +1928,14 @@ NLP
 * [이렇게 사용하세요! AI 음성인식 API로 음성 변환 서비스 쉽게 만들 (CLOVA Speech Recognition, CSR)](https://blog.naver.com/n_cloudplatform/222583556230)
 * [Neural Instrument Cloning from very few samples](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6)
 * [NDC22 "선생님과 눈을 맞추고 이름을 불러주는 '아로나' 만들기"](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151132)
+* [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/drive/1g8TYPv9sy4usQsHSB7tm8OiB6Q6gO0VE?usp=sharing)
+  * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/05bcd18509affd900308c63857f930db/asr_whisper_korea_colab.ipynb)
+  * OpenAI에서 공개한 Transformer 기반 다국어 음성인식모델(ASR, STT) Whisper 모델을 colab에서 한국어 음성에 맞춰 쉽게 돌려볼 수 있는 코드
+  * 한국어도 되는 다중언어 모델, 680,000 hours 데이터로 학습
+  * 음성을 입력하면 language detection과 음성인식을 모두 수행
+  * 음성을 log melspectogram으로 변환한 후 transformer 기반 sequence-to-sequence 모델로 학습
+  * 실습 코드에선 한국어 25초 음성을 인식하는데 12sec 정도 소요(base 모델 기준)
+  * 예시 음성파일로 실험해 보니 '수서'->'수소', '우리역엔' -> '우리옆엔', '전동차와 승강장 사이가' -> '전동장와 생강장사위가'로 인식되긴 하지만 monolingual이 아닌 multilingual임에도 불구하고 전체적으로 잘 되는 느낌. 일본어 음성도 잘 인식
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
