@@ -265,6 +265,7 @@ Programming
 * [#4 예제로 보는 SLI/SLO 정의 방법](https://bcho.tistory.com/1329)
 * [#5 Error budget](https://bcho.tistory.com/1332)
 * [#6 운영에서 반복적인 노가다 Toil](https://bcho.tistory.com/1333)
+* [SRE Journey — Starting SLO Implementation (Part 1 — Start with SLI) | by Muhammad Jihad A | Sep, 2022 | Medium](https://medium.com/@abbdurahman/sre-journey-starting-slo-implementation-part-1-start-with-sli-e6277e560753)
 * [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
