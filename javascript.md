@@ -4506,6 +4506,7 @@ Javascript
   * [Context API -> Recoil - Byeongjin Jason Kang](https://jasonkang14.github.io/react/introducing-recoil)
   * [How to Use Recoil.js Library in Next.js Framework](https://morioh.com/p/dd85203d4db5)
   * [Recoil 정확하게 사용하기! (feat. Selector) - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/09/02/recoil-selector/)
+  * [GitpleLive React Sample Application | Programming Cloud-Native](https://tech.finset.io/2022/09/21/gitplelive-sample/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
@@ -5052,7 +5053,9 @@ Javascript
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
 * [websites: Daangn on the WWW](https://github.com/daangn/websites)
-* [xstate: State machines and statecharts for the modern web](https://github.com/davidkpiano/xstate)
+* [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/)
+  * [GitHub - statelyai/xstate: State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
+  * [자바스크립트로 만든 유한 상태 기계 XState | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220922-make-cart-with-xstate/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
