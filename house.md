@@ -127,6 +127,7 @@ House
 * [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
 * [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
 * [기사 - 총력 분석 굥교로운 집값 하락의 비밀: 부동산은 무얼 먹고 자라는가](https://www.ddanzi.com/ddanziNews/747153446)
+* [여러분 GTX 큰 문제가 생겼습니다ㅠㅠ (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=Hygle79f2Pg) 구분지상권
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
