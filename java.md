@@ -88,6 +88,8 @@ Java
 * [Parallel Merge Sort in Java](https://hackernoon.com/parallel-merge-sort-in-java-e3213ae9fa2c)
 * [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html) clean code 책을 읽고 진행한 refactoring 정리
 * [VENKAT SUBRAMANIAM - Refactor your language knowledge portfolio - we are what we can code in](https://www.youtube.com/watch?v=zajUPJI19ZQ)
+* [ReduceDependency](https://github.com/prostars/ReduceDependency)
+  * [고차 함수로 의존성 줄이기 | Popit](https://www.popit.kr/%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A4%84%EC%9D%B4%EA%B8%B0/) refactoring
 * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
 * [java 엑셀 파일 읽기 (xlsx)](https://huskdoll.tistory.com/890)
