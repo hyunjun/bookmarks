@@ -2197,6 +2197,8 @@ Programming Books
   * ★★★☆☆ ~2022.09.09
   * 한라 325.19-로57아
   * [Grads of Life BrandVoice: 4 Effective DEI Strategies Business Leaders Should Measure](https://www.forbes.com/sites/gradsoflife/2021/12/03/4-effective-dei-strategies-business-leaders-should-measure/)
+  * [think like amazon 아마존처럼 생각하라](https://github.com/hyunjun/bookmarks/blob/master/programming_books/think_like_amazon.md)
+  * [think like amazon 아마존처럼 생각하라. ‘파괴’가 진정한 위협인 이유는 무엇일까? … 변화가 정말로 어려운… | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/think-like-amazon-%EC%95%84%EB%A7%88%EC%A1%B4%EC%B2%98%EB%9F%BC-%EC%83%9D%EA%B0%81%ED%95%98%EB%9D%BC-703be31943cd)
 * [문샷 : 불가능을 가능으로 만든 화이자의 대담한 전략](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291842975)
   * ★★★☆☆ 2022.09.19~21
   * 한라 325.1-불292ㅁ 탐라 문325.24-불231ㅁ
