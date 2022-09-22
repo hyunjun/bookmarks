@@ -193,6 +193,7 @@
 * [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
 * [CPS Style](https://devroach.tistory.com/149) continuation
 * [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
+* [Type modelling in Kotlin](https://kt.academy/article/type-modelling-kotlin)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
