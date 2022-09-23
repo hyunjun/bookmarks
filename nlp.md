@@ -1979,6 +1979,8 @@ NLP
   * [Wav2vec: Semi and Unsupervised Speech Recognition | Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
+* Whisper [Introducing Whisper](https://openai.com/blog/whisper/)
+  * [사람 말귀 더 잘 알아듣는 AI...오픈AI, 다국어 음성 인식 '위스퍼' 아키텍처 공개](https://www.zoominlife.com/2163)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
