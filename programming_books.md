@@ -2157,6 +2157,8 @@ Programming Books
   * ★★★★☆ 2022.05.31~06.01
   * [The Messy Middle - by Scott Belsky](https://www.themessymiddle.com/)
   * [Amazon.com: The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture: 9780735218079: Belsky, Scott: 도서](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
+  * [The Messy Middle 어도비 CPO의 혁신 전략](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_messy_middle.md)
+  * [The Messy Middle 어도비 CPO의 혁신 전략. 무에서 유를 창조하는 여정에는 많은 변화가 생기기 마련이다. 우리는… | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/the-messy-middle-%EC%96%B4%EB%8F%84%EB%B9%84-cpo%EC%9D%98-%ED%98%81%EC%8B%A0-%EC%A0%84%EB%9E%B5-f47ccf73f7d1)
 * [디지털 트랜스포메이션 엔진 | 에이콘출판사](http://acornpub.co.kr/book/accelerate)
   * 탐라 문005.12-폴58ㄷ
   * ★★★★☆ 2022.06.02
@@ -2259,6 +2261,7 @@ Programming Books
   * 우당 문325.19-블232ㅂ
 * (NOT YET) [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
   * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
+* (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
