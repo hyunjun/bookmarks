@@ -622,6 +622,7 @@ Go
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
+* [Ferrum: Go OpenId authorization server with Keycloak like behaviour (similar endpoint, reaction and so on)](https://github.com/Wissance/Ferrum)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [excelize: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets](https://github.com/qax-os/excelize)
   * [Golang Excelize Library - YouTube](https://www.youtube.com/playlist?list=PLW-1ky8wqAU7ZqtH-xEVAQNqjarVc0pTl)
