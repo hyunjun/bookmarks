@@ -2861,6 +2861,7 @@ Python
   * [Python GUI Development With PySimpleGUI - YouTube](https://www.youtube.com/watch?v=-_z2RPAH0Qk)
   * [Simplify Python GUI Development With PySimpleGUI – Real Python](https://realpython.com/courses/simplify-gui-dev-pysimplegui/)
   * [Creating 10 apps in Python with PySimpleGUI - YouTube](https://www.youtube.com/watch?v=QeMaWQZllhg)
+* [pytermgui: Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!](https://github.com/bczsalba/pytermgui)
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
