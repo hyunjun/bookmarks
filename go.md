@@ -627,6 +627,7 @@ Go
   * [Golang Excelize Library - YouTube](https://www.youtube.com/playlist?list=PLW-1ky8wqAU7ZqtH-xEVAQNqjarVc0pTl)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
+* [File-Handling-Packages-in-Golang: The built-in library of Go offers excellent support to perform file-related operations, such as creating a file, read/write operations, file rename or move, copy, getting metadata information of the file, and so forth.](https://github.com/mustafakraizim98/File-Handling-Packages-in-Golang)
 * [~FRAGMENTA - websites with Go~](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
