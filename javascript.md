@@ -3870,6 +3870,7 @@ Javascript
   * Build Output API는 Vercel에서 배포할 수 있는 디렉터리 구조의 명세로 프레임워크를 만들어서 출력 결과가 이 디렉터리 구조를 따른다면 Vercel의 배포를 이용 가능
     * 정적 파일 배포, 증분 재생성, 엣지 펑션, 이미지 자동 최적화, 서버리스 함수, 엣지 캐시 등의 장점 이용 가능
   * 데모 코드도 제공하고 있고 쇼핑몰 같은 페이지를 만드는 데 각 장점을 이용하기 위해 구현한 접근 방법을 설명
+  * [Introducing Commenting on Preview Deployments – Vercel](https://vercel.com/blog/introducing-commenting-on-preview-deployments)
   * [byof-demo: WIP Demo](https://github.com/lydiahallie/byof-demo)
   * [vercel-submodules: 🍣 CLI to handle Private Git Submodules in your Vercel Project](https://github.com/junhoyeo/vercel-submodules)
     * Vercel에서는 아직 Private Submodule 기능을 미제공
