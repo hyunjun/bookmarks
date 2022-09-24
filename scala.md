@@ -458,6 +458,7 @@ Scala
 * [Akka and Kafka Webinar Build Powerful Concurrent & Distributed Applications](https://www.youtube.com/watch?v=sezp1YHg5RI)
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
+* [How to make Akka serialization bulletproof - VirtusLab](https://virtuslab.com/blog/how-to-make-akka-serialization-bulletproof/)
 * [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
 * Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
   * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
@@ -536,6 +537,7 @@ Scala
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
+* [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
 * [akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving)
 * [akka-dynamic-batch-tensorflow-gpu-bert at main · go-noah/akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-tensorflow-gpu-bert)
 * Akka gRPC
@@ -1557,6 +1559,7 @@ Scala
   * [Getting started with #Scalafix](https://www.youtube.com/watch?v=Xl8oOmFNGgQ)
   * [Write your own #Scalafix rules from scratch!](https://www.youtube.com/watch?v=uh7VFcOpu20)
   * [How to organize imports in #Scala with #Metals and/or #Scalafix - YouTube](https://www.youtube.com/watch?v=E06VRtUfdVM)
+  * [Manage library breaking changes with Scalafix - Contentsquare Engineering Blog](https://engineering.contentsquare.com/2022/how-to-manage-library-breaking-changes-with-scalafix/)
 * scalafmt
   * [avoidinfix](https://scalameta.org/scalafmt/docs/configuration.html#avoidinfix)
   * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
@@ -1577,6 +1580,8 @@ Scala
   * [스칼라 네이티브 사용자 가이드. 스칼라는 함수형 프로그래밍 언어이면서 동시에 객체지향적인 특징을 함께… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/scala-native-dc93d810a23f)
   * [Revisiting Scala Native performance | by Wojciech Mazur | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/revisiting-scala-native-performance-67029089f241)
   * [An introduction to Scala Native | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=u2CnE-sRdBw)
+  * [Scala Native Internals Overview – Wojciech Mazur - YouTube](https://www.youtube.com/watch?v=U2GUUjxn5xQ)
+  * [Typelevel | Typelevel Native](https://typelevel.org/blog/2022/09/19/typelevel-native.html)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
@@ -1739,6 +1744,7 @@ Scala
   * [Tapir serverless: a proof of concept | by Adam Warski | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396)
   * [Security improvements in tapir 0.19](https://softwaremill.com/security-improvements-in-tapir-0-19/)
   * [My first Tapir stream - SPFS #9 - YouTube](https://www.youtube.com/watch?v=GNleUFwgzWc)
+  * [Migrating from Akka HTTP to tapir](https://softwaremill.com/migrating-from-akka-http-to-tapir/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2015,6 +2021,7 @@ Scala
 * [Different Ways to Package a Simple Scala Application | Baeldung on Scala](https://www.baeldung.com/scala/package-app) SBT Assembly, SBT Native Packager, Jlink, SBT ProGuard, Scala-CLI
 * [sbt-interactive-update](https://twitter.com/kitlangton/status/1541417514823028740)
 * [a sane local dependency workflow! Kill publishLocal with fire 2 minute tutorial](https://twitter.com/kitlangton/status/1544797176890642437)
+* [SBT in Scala (part 1) - Setting Up a Scala Project, Adding Libraries, Configurations - YouTube](https://www.youtube.com/watch?v=itiL7QT2WkI)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
