@@ -2249,7 +2249,8 @@ Programming Books
   * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 外 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/4248/ac/magazine)
     * ★★★☆☆ 2022.09.23~24 소설 자체로는 크게 재미있거나 대단한 정도는 아니지만 매니지먼트의 핵심만 쉽고 재미있게 읽을 수 있음
     * 한라 833.6-이65만 탐라 개833.6-이65ㅁ 우당 문833.6-이66ㅁ
-  * (NOT YET) [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신 편](https://blog.naver.com/hkscsh89/220834633682)
+  * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신 편](https://blog.naver.com/hkscsh89/220834633682)
+    * ★★★☆☆ 2022.09.24 역시 전편과 비슷한 느낌
     * 한라 833.6-이65ㅁ 우당 문833.6-이66ㅁ
 * (NOT YET) [피터 드러커 넥스트 소사이어티](https://blog.naver.com/airline36/221095564854)
 * (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
