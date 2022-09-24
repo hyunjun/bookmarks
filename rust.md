@@ -425,6 +425,7 @@
 * Yew [What is Yew? | Yew](https://yew.rs/)
   * [Build A Rust Frontend (Really FAST Web Apps with Yew) - YouTube](https://www.youtube.com/watch?v=MddGbXgIt2E) webassembly
   * [Write a Frontend app with Rust and Yew! - YouTube](https://www.youtube.com/watch?v=Xcdb0ydIXVg)
+  * [Let's Build a RUST WebAssembly Frontend App With Yew - YouTube](https://www.youtube.com/watch?v=lJllt5X6ELg)
 
 # WebAssembly
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
