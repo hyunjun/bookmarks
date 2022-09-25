@@ -1726,6 +1726,7 @@ Business
   * MVP를 정해진 시간 내에 만들 수 있는 최소한의 기능이나 한두 개의 핵심 기능이라고 말하지만 오해가 많은 개념이고 핵심은 최적화보다는 학습이라고 설명
 * [A guide for launching successful MVPs quickly | Along the Roadmap](https://medium.com/particles-by-paralect/a-guide-for-launching-successful-mvps-quickly-74755c12c29e)
   * [성공적인 MVP를 빠르게 출시하기 위한 가이드](https://brunch.co.kr/@yongjinjinipln/98)
+* [MVP 출시의 고통](https://www.thestartupbible.com/2022/09/growing-pains-of-the-mvp-launch.html)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/) MLP
 * [스타트업 실패 가능성 확 줄이는 MVT 완전정복](https://www.nextunicorn.kr/content/f68bdd38e49122da)
 * [Vertical Slice vs MVP: What’s the Difference? – Tiny Hydra](https://tinyhydra.com/vertical-slice-vs-mvp/)
