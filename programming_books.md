@@ -2249,9 +2249,15 @@ Programming Books
   * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 外 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/4248/ac/magazine)
     * ★★★☆☆ 2022.09.23~24 소설 자체로는 크게 재미있거나 대단한 정도는 아니지만 매니지먼트의 핵심만 쉽고 재미있게 읽을 수 있음
     * 한라 833.6-이65만 탐라 개833.6-이65ㅁ 우당 문833.6-이66ㅁ
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면](https://github.com/hyunjun/bookmarks/blob/master/programming_books/high_school_baseball_manager_drucker.md)
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 - Jun - Medium](https://nymets.medium.com/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4-d446ee2301b3)
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면](https://jh4hj.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4)
   * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신 편](https://blog.naver.com/hkscsh89/220834633682)
     * ★★★☆☆ 2022.09.24 역시 전편과 비슷한 느낌
     * 한라 833.6-이65ㅁ 우당 문833.6-이66ㅁ
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신편](https://github.com/hyunjun/bookmarks/blob/master/programming_books/high_school_baseball_manager_drucker_innovation.md)
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신편 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B3%BC-%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%ED%8E%B8-9ec3e07b781)
+    * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신편](https://jh4hj.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B3%BC-%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%ED%8E%B8)
 * (NOT YET) [피터 드러커 넥스트 소사이어티](https://blog.naver.com/airline36/221095564854)
 * (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
   * 한라 325-드29ㄱ 우당 문325-피833ㄱ
