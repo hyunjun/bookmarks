@@ -433,6 +433,7 @@ Statistics
   * [BAYESIAN A/B TESTING WITH EXPECTED LOSS](https://lumiamitie.github.io/data/bayesian-ab-testing/)
   * [The State of the Art for Probabilistic Programming - Thomas Wiecki | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Q9_S7rRnMRs)
   * [BayPiggies April 2021: Data Formats and PyMC3 - YouTube](https://www.youtube.com/watch?v=FbKW2nJUHiw)
+  * [Probabilistic Python: An Introduction to Bayesian Modeling with PyM || Chris Fonnesbeck - YouTube](https://www.youtube.com/watch?v=woXdiyezCPA)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
