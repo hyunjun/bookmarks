@@ -271,6 +271,7 @@ Android
 * [요약 Android Studio: Debugging Tips n' Tricks (Android Dev Summit '19)](http://pluu.github.io/blog/android/androiddevsummit/2019/11/14/ads19-android-studio-debugging/)
 * [안드로이드 스튜디오에서 Open Android module in Android Studio 메뉴가 사라졌어요!](https://www.androidhuman.com/2021-06-03-flutter_android_missing_open_android_module)
 * [Android Studio 플러그인으로 코드 자동 리팩토링하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/02/03/refactoring-with-intellij-plugin.html)
+* [내 장비의 안드로이드 스튜디오 빌드능력 벤치마킹하기](https://cliearl.github.io/posts/android/build-performance-benchmark/)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
@@ -379,6 +380,7 @@ Android
   * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
   * [How to improve the build speed of your Android projects](https://medium.freecodecamp.org/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602)
   * [Android Gradle Tip들 정리](https://developer88.tistory.com/198)
+  * [Pluu Dev - 메모 Gradle의 Version Category를 사용하여 Extra Properties 호환성 유지](https://pluu.github.io/blog/android/gradle/2022/09/25/version-category/)
 * Jandroid [Android 취약점 탐색 자동화를 위한 Jandroid 적용기](https://engineering.linecorp.com/ko/blog/use-jandroid-for-automated-android-vulnerability-detection/)
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
