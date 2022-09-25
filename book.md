@@ -245,6 +245,9 @@ Book
   * 탐라 문320.4-크237ㅍ
 * [뉴턴의 아틀리에](https://blog.naver.com/gon103/221928567074)
   * ★★★☆☆ 2022.09.25
+  * [뉴턴의 아틀리에](https://github.com/hyunjun/bookmarks/blob/master/books/newtons_atelier.md)
+  * [뉴턴의 아틀리에. 인간의 감각을 믿지 마라. 감각에 의존하여 구축된 의식은 더욱 믿지… | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EB%89%B4%ED%84%B4%EC%9D%98-%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90-5d1aa2ba0497)
+  * [뉴턴의 아틀리에](https://jh4hj.tistory.com/entry/%EB%89%B4%ED%84%B4%EC%9D%98-%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
