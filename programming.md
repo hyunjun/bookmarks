@@ -4901,6 +4901,7 @@ Programming
 * [테스트 케이스 관리를 JIRA로 하자! : 웹서비스셀의 테스트 관리 툴 도입기](https://tech.devsisters.com/posts/jira-tool-qa/) QAlity, Zephyr Scale
 * [테스트 코드와 반증가능성에 대한 메모 - 기계인간 John Grib](https://johngrib.github.io/wiki/article/test-code-and-falsifiability/)
 * [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
+* [회사에서 TDD 쓰려다 실패한 후기](https://velog.io/@skynet/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-TDD-%EC%93%B0%EB%A0%A4%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%95%9C-%ED%9B%84%EA%B8%B0)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
