@@ -2949,6 +2949,7 @@ Javascript
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
   * [노드.js 대체제에 관심 있다면 주목! ‘디노(Deno)’ 런타임 프로젝트 9선 - CIO Korea](https://www.ciokorea.com/news/242569)
   * [Deno 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1623)
+  * [Deno의 Node.js 호환 기능 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1625)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
@@ -4624,8 +4625,9 @@ Javascript
     * action creator.rejected 오류 상태
   * thunk는 각각의 상태에 따른 reducer를 체계적으로 작성할 수 있도록 유도
   * thunk를 처리할 때는 extraReducers 사용
-  * [redux - redux-toolkit-thunk-final - StackBlitz](https://stackblitz.com/edit/react-bnjjtz?file=src%2FApp.js)
   * [redux - redux-toolkit-thunk-start - StackBlitz](https://stackblitz.com/edit/react-advdyf?file=src%2FApp.js)
+  * [redux - redux-toolkit-thunk-final - StackBlitz](https://stackblitz.com/edit/react-bnjjtz?file=src%2FApp.js)
+  * [Redux vs Redux Toolkit | Advanced React Native | React Native Tutorial - YouTube](https://www.youtube.com/watch?v=Z6r4AOYW0T8)
 * [redux-saga와 typescript 편하게 사용하기](https://jonir227.github.io/develop/2019/06/04/redux-saga%EC%99%80-typescript-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
 * [How to use redux-saga](https://dailyhotel.io/how-to-use-redux-saga-63a6078c74b3)
 * [리액트 사가 사용하기 (타입스크립트 버전) - 1편](http://jeonghwan-kim.github.io//dev/2019/07/22/react-saga-ts-1.html)
