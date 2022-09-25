@@ -299,6 +299,7 @@
 * [Kotlin Coroutines Exception 알아보기](https://thdev.tech/coroutines/2019/04/30/Coroutines-Job-Exception/)
 * [코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d)
 * [**코루틴 공식 가이드 읽고 분석하기— Part 0**](https://medium.com/@myungpyo/reading-coroutine-official-guide-thoroughly-part-0-20176d431e9d)
+* [**왜 코루틴을 사용해야 할까?**](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/WHY_USE_COROUTINE.md)
 * [Google Play Billing Library meets Kotlin Coroutine](https://proandroiddev.com/google-play-billing-library-meets-kotlin-coroutine-c68e10553786)
 * [코틀린 Coroutine으로 네트워크 Retry 구현하는 방법](https://developer88.tistory.com/250)
 * [Coroutine의 Flow에 대한 정리](https://developer88.tistory.com/249)
