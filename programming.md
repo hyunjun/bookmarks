@@ -3070,6 +3070,7 @@ Programming
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 * [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 * [Sha256 Algorithm Explained](https://sha256algorithm.com/) visualization of sha algorithm
+* [SHA-256 해시 알고리즘에 대해 알아보자 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/blockchain/sha256/)
 * [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [돈 들이지 않고 사이버보안 기술을 쌓는 8가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212589)
 * [“클라우드와 제로 트러스트가 답이다” 소프트웨어 보안을 유지하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/223289)
