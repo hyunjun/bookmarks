@@ -295,7 +295,8 @@ Book
 * (NOT YET) [변화하는 세계 질서](https://hanbit.co.kr/store/books/look.php?p_code=B7422209817)
   * 한라 321.97-달298ㅂ 탐라 문321.97-달239ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
-* (NOT YET) [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
+* (NOT YET) [자동차 인터페이스 디자인](https://www.onlybook.co.kr/entry/car-ux-design)
+  * [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
 * (NOT YET) [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
