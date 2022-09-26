@@ -228,6 +228,7 @@ Redis
     * 새로운 도큐먼트 스토어. RediSearch 기반이며 실시간 도큐먼트 스토어로 JSON 타입을 사용해서 쿼리와 풀텍스트 서치 지원
     * Reids에서는 MongoDB와 ElasticSearch보다 더 빠르고 실시간 업데이트가 검색과 읽기에 영향을 주지 않는다고 주장
     * [RedisJSON: Public Preview & Performance Benchmarking | Redis](https://redis.com/blog/redisjson-public-preview-performance-benchmarking/)
+    * [How to develop a RealTime Chat App using RedisJSON and Next JS from scratch. | LinkedIn](https://www.linkedin.com/pulse/how-develop-realtime-chat-app-using-redisjson-next-js-muhammad-bilal/)
   * [RediSearch - Redis Secondary Index & Query Engine](https://oss.redislabs.com/redisearch/)
   * [RedisTimeSeries - Time-Series data structure for Redis](https://oss.redislabs.com/redistimeseries/)
 * RedisRaft [Jepsen report on RedisRaft – The Last Mind](http://blog.lastmind.io/archives/932)
