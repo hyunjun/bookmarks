@@ -109,6 +109,7 @@ Math
 * [The Map of Mathematics | Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 * [한국수학자열전](https://blog.naver.com/choi_joonsuk)
 * [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
+* [1/499999 | Cool Math Stuff | Abakcus](https://abakcus.com/directory/1-499999/) 신기한 숫자 패턴
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
