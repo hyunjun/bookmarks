@@ -2270,6 +2270,7 @@ Programming Books
 * (NOT YET) [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
   * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
 * (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
+* (NOT YET) [인재집착경영](https://v.daum.net/v/20220914114557601)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
