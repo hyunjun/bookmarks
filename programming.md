@@ -3333,6 +3333,7 @@ Programming
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
+* [learn-devops: DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose](https://github.com/codeaprendiz/learn-devops)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
