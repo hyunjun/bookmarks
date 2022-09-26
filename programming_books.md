@@ -446,6 +446,7 @@ Programming Books
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
 * (NOT YET) [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
   * 우당 문005.73-수43ㅋ
+* (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
 
 # Amazon AWS
 
