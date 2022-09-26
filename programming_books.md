@@ -2271,6 +2271,10 @@ Programming Books
   * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
 * (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
 * (NOT YET) [인재집착경영](https://v.daum.net/v/20220914114557601)
+* (NOT YET) [학습하는 조직](https://blog.naver.com/clarion62/221223161635)
+  * 한라 325.1-센14ㅎ
+  * [요즘 HR: 책 읽어드립니다 4편 ‘학습하는 조직’ | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/%EC%9A%94%EC%A6%98-hr-%EC%B1%85-%EC%9D%BD%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4_4%ED%8E%B8-%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94-%EC%A1%B0%EC%A7%81/)
+  * [조직은 어떻게 구성원의 성장을 돕는가? 구성원의 성장은 어떻게 조직에 기여하는가?](https://www.linkedin.com/posts/seula-lee-025ba2140_%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%8F%95%EB%8A%94%EA%B0%80-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%84%B1%EC%9E%A5%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94%EA%B0%80-activity-6979849587410833408-RByf/)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
