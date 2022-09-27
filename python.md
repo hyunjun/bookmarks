@@ -4663,6 +4663,7 @@ Python
 * [GroupBy-fu: improvements in grouping and aggregating data in pandas](http://wesmckinney.com/blog/groupby-fu-improvements-in-grouping-and-aggregating-data-in-pandas/)
 * [Comprehensive Guide to Grouping and Aggregating with Pandas - Practical Business Python](https://pbpython.com/groupby-agg.html)
 * [Q . Pandas GroupBy의 대괄호 & 소괄호는 어떻게 구분해서 사용하나요? - YouTube](https://www.youtube.com/watch?v=OPHPBkM4cfI)
+* [Pandas Groupby Warning - Practical Business Python](https://pbpython.com/groupby-warning.html)
 * [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
