@@ -149,6 +149,7 @@ App
     * [PyMuPDF: Python bindings for MuPDF's rendering library](https://github.com/pymupdf/PyMuPDF)
       * [PyMuPDF로 PDF 페이지의 일부를 이미지로 갈무리하기 :: 류광의 번역 이야기](https://occamsrazr.net/tt/383)
   * [OCRmyPDF](https://ocrmypdf.readthedocs.io/)
+  * [Parsr: Transforms PDF, Documents and Images into Enriched Structured Data](https://github.com/axa-group/Parsr)
   * [pdf2image: pdfium 라이브러리를 이용한 pdf2image](https://github.com/sokcuri/pdf2image)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
@@ -699,6 +700,7 @@ App
   * [당신이 몰랐던 Postman 기능 #Shorts - YouTube](https://www.youtube.com/watch?v=eQYDezwh2XE)
   * [API Network | 10,000s of APIs, Collections and Workspaces | Postman](https://www.postman.com/explore)
   * [Generating Flutter Dart code for api integration in Postman | Flutter Tricks - YouTube](https://www.youtube.com/watch?v=Kgxd1XS5MJI)
+  * [Import Swagger APIs into Postman | Baeldung](https://www.baeldung.com/swagger-apis-in-postman)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
   * [How to use VScode for more efficient development work. - YouTube](https://www.youtube.com/watch?v=7stAiN5VzqE)
