@@ -105,6 +105,7 @@ Business
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
 * [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
 * [야놀자의 나스닥행, 가능할까? f. 이재용 회계사 22.07.26 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=FLWX2DhH3tE) OTA
+* [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
@@ -1446,6 +1447,7 @@ Business
 * [리드가 구성원을 못 믿으면 모두가 힘들어진다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/256659)
 * [인터뷰 | ‘신입사원에서 대표까지 20년’ 한국HPE 김영채 대표가 전하는 커리어 노하우 - CIO Korea](https://www.ciokorea.com/news/251272)
 * [이상을 좇는 리더 vs 현실과 타협하는 리더](https://brunch.co.kr/@seanpang/44)
+* [사무실에 앉아 있는 시간이 중요하지 않은 시대.. 리더가 해야 할 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productivity20220926) 생산성, 인풋의 양 -> 아웃풋의 질, 생산적 소통,  적극적 코칭
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
