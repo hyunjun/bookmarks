@@ -4734,6 +4734,7 @@ Javascript
 * [프론트엔드 테스트 팁 | MADTECH](https://tech.madup.com/front-test-tips/)
 * [1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드](https://jojoldu.tistory.com/674)
 * [2. 테스트하기 좋은 코드 - 제어할 수 없는 코드 개선](https://jojoldu.tistory.com/676)
+* [3. 테스트하기 좋은 코드 - 외부에 의존하는 코드 개선](https://jojoldu.tistory.com/680)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
   * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
