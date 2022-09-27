@@ -300,6 +300,7 @@
 * [tauri: Build smaller, faster, and more secure desktop applications with a web frontend](https://github.com/tauri-apps/tauri)
   * [Create Modern Desktop Apps With Tauri & ReactJS - YouTube](https://www.youtube.com/watch?v=BbZmLXBDGnU)
   * [Tauri에 대한 몇가지 포인트 | Daniel Lee](https://typefully.com/dylayed/XIF9j9L)
+  * [Will Tauri Be an Electron Killer? | by Zachary Lee | Better Programming](https://betterprogramming.pub/will-tauri-be-an-electron-killer-38fd6478004)
 * [tlqkf: You feeling 'tlqkf' when using shell, typing 'tlqkf'](https://github.com/juunini/tlqkf)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
