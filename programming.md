@@ -1121,6 +1121,7 @@ Programming
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 * [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
+* [**개발자 1인 회사인 분들, 기술 스택은 어떤걸 쓰시나요? | GeekNews**](https://news.hada.io/topic?id=7478)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
