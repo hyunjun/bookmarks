@@ -2208,6 +2208,14 @@ Programming Books
   * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략](https://github.com/hyunjun/bookmarks/blob/master/programming_books/moonshot.md)
   * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/moonshot-%EB%AC%B8%EC%83%B7-%EB%B6%88%EA%B0%80%EB%8A%A5%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%99%94%EC%9D%B4%EC%9E%90%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EC%A0%84%EB%9E%B5-6119c59d2c90)
   * [Moonshot 문샷 불가능을 가능으로 만든 화이자의 대담한 전략](https://jh4hj.tistory.com/entry/Moonshot-%EB%AC%B8%EC%83%B7-%EB%B6%88%EA%B0%80%EB%8A%A5%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A0-%ED%99%94%EC%9D%B4%EC%9E%90%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EC%A0%84%EB%9E%B5)
+* [Innovation & Business Books by the Business Model Canvas Creators](https://www.strategyzer.com/books)
+  * (NOT YET) [비즈니스 모델의 탄생](http://www.businessbooks.co.kr/businessbooks/book_detail.asp?idx=470)
+    * 한라 325.1-오57ㅂ 탐라 문325.1-오58ㅂ 우당 문325.1-오58ㅂ
+  * (NOT YET) [비즈니스 아이디어의 탄생](http://www.businessbooks.co.kr/businessbooks/book_detail.asp?idx=432)
+    * 우당 문325.19-블232ㅂ
+  * [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
+    * ★★★☆☆ ~2022.09.27 좋은 책임은 분명한데 어쩐지 눈에 잘 들어오지도 읽히지도 않는 묘한 기분
+    * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2268,8 +2276,6 @@ Programming Books
   * 한라 325.1-오57ㅂ 탐라 문325.1-오58ㅂ 우당 문325.1-오58ㅂ
 * (NOT YET) [비즈니스 아이디어의 탄생](https://theorydb.github.io/review/2020/09/01/review-book-testing-business-ideas/)
   * 우당 문325.19-블232ㅂ
-* (NOT YET) [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
-  * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
 * (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
 * (NOT YET) [인재집착경영](https://v.daum.net/v/20220914114557601)
 * (NOT YET) [학습하는 조직](https://blog.naver.com/clarion62/221223161635)
