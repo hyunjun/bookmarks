@@ -24,6 +24,7 @@ Programmer
 * [046.016 컴퓨터과학이 여는 세계](http://ropas.snu.ac.kr/~kwang/046.016/benew/)
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
 * [가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 | 요즘IT](https://yozm.wishket.com/magazine/detail/969/)
+* [똑똑한 개발자와 현명한 개발자](https://www.joinc.co.kr/w/clever_and_wise_developer)
 * [11 Pieces Of Advice For Programmers | by Daan | Level Up Coding](https://levelup.gitconnected.com/11-pieces-of-advice-for-programmers-8bcbad6330e9)
 * [All the best engineering advice I stole from non-technical people | by Marianne Bellotti | Medium](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 * [21 lessons I wish I’d known earlier in my software engineering career. | by Harsh Makadia | Geek Culture | Medium](https://medium.com/geekculture/21-lessons-i-wish-id-known-earlier-in-my-software-engineering-career-751b2158e8e1)
