@@ -322,9 +322,10 @@ SQL
   * [SQL문의 가독성을 높여주는 웹사이트 소개 feat.instant SQL formatter](https://stricky.tistory.com/154)
 * Jailer [Open Jail - The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * Jetbrains
-  * [DataGrip 팁 모음](http://ohgyun.com/770) database IDE
+  * [DataGrip 팁 모음](http://ohgyun.com/770)
   * [코딩 효율 개선에 도움이 되는 DataGrip 단축키 10가지 | The DataGrip Blog](https://blog.jetbrains.com/ko/datagrip/2022/06/13/top-10-datagrip-shortcuts-to-empower-your-coding/)
   * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
+  * [DataGrip 살펴 보기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/data-grip/)
 * [malloy: Malloy is an experimental language for describing data relationships and transformations](https://github.com/looker-open-source/malloy)
   * [Malloy - 더 나은 SQL by Looker | GeekNews](https://news.hada.io/topic?id=5840)
 * migration
