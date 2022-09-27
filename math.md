@@ -110,6 +110,7 @@ Math
 * [한국수학자열전](https://blog.naver.com/choi_joonsuk)
 * [Visual Sum of Cubes](https://x.st/visual-sum-of-cubes/)
 * [1/499999 | Cool Math Stuff | Abakcus](https://abakcus.com/directory/1-499999/) 신기한 숫자 패턴
+* [각도가 적용 된 사각형 도형의 각 꼭짓점 좌표 구하기 | Univdev](https://www.univdev.page/posts/get-points-rotated-rect/)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
