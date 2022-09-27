@@ -1381,6 +1381,7 @@ Docker
 * [Kubernetes: The Documentary PART 2 - YouTube](https://www.youtube.com/watch?v=318elIq37PE)
 * [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
 * [쿠버네티스 시험(CKA, CKAD, CKS)을 위한 공부법 - YouTube](https://www.youtube.com/watch?v=WDanHeELZcA)
+* [Building Multi Node Kubernetes Cluster CKS LAB Environment -- Completely Automated - YouTube](https://www.youtube.com/watch?v=t8RRS3Gg-nk)
 * [App Modernization: 5 Tips When Migrating to Kubernetes – The New Stack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
 * [A Primer: Accessing services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 * [Kubernetes 컨테이너 환경에서의 컴퓨팅 리소스 정보 및 제한](https://effectivesquid.tistory.com/entry/Kubernetes-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%8C%85-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%A0%9C%ED%95%9C)
