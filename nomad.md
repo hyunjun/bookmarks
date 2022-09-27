@@ -285,8 +285,6 @@ Nomad & Remote
 
 # Singapore
 * [싱가포르에서 직장 구하기](https://www.linkedin.com/pulse/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5-%EA%B5%AC%ED%95%98%EA%B8%B0-getting-job-singapore-ht-kim)
-* [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
-* [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 * [싱가폴에서 일하기](https://brunch.co.kr/magazine/workinsingapore)
 * [해외 개발자 채용 과정](https://brunch.co.kr/@imagineer/266)
 * [싱가폴의 코딩 테스트 - 그들은 코딩 테스트로 당신의 무엇이 알고 싶은가?](https://brunch.co.kr/@imagineer/261)
@@ -297,10 +295,13 @@ Nomad & Remote
 * [싱가포르 5년차 40대 가장이 경험한 살인적인 생활비](https://brunch.co.kr/@sangcheolkim/7)
 * [싱가포르 공기업 직장인이 말하는 현지 이직 장점 5가지](https://www.youtube.com/watch?v=6H_Ct0DXIwQ)
 * [iOS 개발자 싱가폴 이직기](https://soojin.ro/blog/singapore)
+* [싱가폴 연봉](https://senaland.blog.me/220961828467)
+* [싱가포르 발령 및 취업이 당신 노후의 죽음의 .. : 네이버블로그](https://blog.naver.com/ttkkiiaa/222882991364)
+* [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
+* [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 * [Cost of Living Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/cost-of-living-calculator.html)
 * [Expat Living Singapore - Your Guide For Moving To & Living In Singapore](https://expatliving.sg/)
 * [Income Tax Rates](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Income-Tax-Rates/)
-* [싱가폴 연봉](https://senaland.blog.me/220961828467)
 * [Singapore salary guide 2022 | The Straits Times](https://www.straitstimes.com/multimedia/graphics/2022/01/singapore-salary-guide/index.html?shell)
 * [michaelpage.com.sg/salary-guide](https://www.michaelpage.com.sg/salary-guide)
 
