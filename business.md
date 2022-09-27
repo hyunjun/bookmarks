@@ -13,6 +13,7 @@ Business
 * [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
 * [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
   * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+* [조직 살리는 '숨은 재능' 찾아내기 Monday HBR/빌 테일러](https://v.daum.net/v/20220919030305406)
 * [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
 * [잔디 월간일잘러: 빠르게 성장하는 당근마켓에서 효율적으로 일하는 방법 | Novemberde's Blog](https://novemberde.github.io/post/2021/08/31/Jandi-monthly/)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
@@ -354,6 +355,7 @@ Business
 * [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
 * [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
 * [감정을 다스리는 7가지 기술 - Wonderful Mind](https://wonderfulmind.co.kr/7-techniques-processing-your-emotions/)
+* [Feeling Wheel](https://www.linkedin.com/posts/ivantay_ivanpost-socialmedia-personaldevelopment-activity-6977370751045681152-sB0U/)
 * [스포티파이에서는 결정권자인지 누구인지 아무도 신경쓰지 않는다](https://hahnryu.com/2017/06/15/spotify/)
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
@@ -648,6 +650,7 @@ Business
 * [9. 역할 조직 인재 선발의 원칙](https://brunch.co.kr/@svillustrated/85)
 * [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590)
 * [개발자 비급(祕笈) – 5. 스타트업의 개발자 채용 비법 :: Channy's Blog](http://channy.creation.net/blog/1443)
+* [스타트업에서 개발자를 구하는 법 — Steemit](https://steemit.com/kr-startup/@mymy/3sq4kg)
 * [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
 * [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
@@ -1448,6 +1451,7 @@ Business
 * [인터뷰 | ‘신입사원에서 대표까지 20년’ 한국HPE 김영채 대표가 전하는 커리어 노하우 - CIO Korea](https://www.ciokorea.com/news/251272)
 * [이상을 좇는 리더 vs 현실과 타협하는 리더](https://brunch.co.kr/@seanpang/44)
 * [사무실에 앉아 있는 시간이 중요하지 않은 시대.. 리더가 해야 할 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productivity20220926) 생산성, 인풋의 양 -> 아웃풋의 질, 생산적 소통,  적극적 코칭
+* [포용적 리더십(Inclusive Leadership), 성공적인OKR을 위한 리더의 덕목 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=30143554&memberNo=46548453)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1950,6 +1954,8 @@ Business
 * [투자자에게 스타트업 아이디어를 한 줄로 설명하는 방법](https://www.slid.cc/share/vdocs/%ED%88%AC%EC%9E%90%EC%9E%90%EC%97%90%EA%B2%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-32edc42f45cb42b3a434eaf506ce1ce3)
 * [Doda CEO가 미국 출장을 통해 배운 것](https://www.linkedin.com/posts/doyoung-kwak_%EB%AF%B8%EA%B5%AD-%EC%B6%9C%EC%9E%A5%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-swit-josh-activity-6972003481385676800-G834/) 1. USP와 타 서비스 기능 캐치업 사이에서의 균형 2. 한국은 여러 시장 중 하나의 시장일 뿐
 * [진짜 전문가들은 '스킨 인 더 게임'을 한다](https://www.slid.cc/share/vdocs/%EC%A7%84%EC%A7%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%EC%8A%A4%ED%82%A8-%EC%9D%B8-%EB%8D%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%ED%95%9C%EB%8B%A4-a0571cb65d5b4dedb3d43eca8c2d6319)
+* [구독과 함께 완전히 새로워진 클래스101. 구독 제품을 만들며 설정한 제품 원칙과 그 원칙에 따라 새로워진 제품을… | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/%EA%B5%AC%EB%8F%85%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%99%84%EC%A0%84%ED%9E%88-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%81%B4%EB%9E%98%EC%8A%A4101-b1beb363aa91)
+* [300명이 넘는 조직에서 6개월만에 비즈니스 모델 피봇하기. 전사원이 함께 참여한 구독 BM 전환기 | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/300%EB%AA%85%EC%9D%B4-%EB%84%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-6%EA%B0%9C%EC%9B%94%EB%A7%8C%EC%97%90-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%ED%94%BC%EB%B4%87%ED%95%98%EA%B8%B0-f827e8110a0f)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
