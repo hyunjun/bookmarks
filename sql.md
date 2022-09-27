@@ -603,6 +603,9 @@ SQL
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
+* [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
+* [MySQL Group Replication 구축](https://saramin.github.io/2021-09-28-mysql-group-replication/)
+* [데이터베이스의 확장성과 가용성을 위한 MySQL Replication](https://hudi.blog/mysql-replication/)
 * [부하 분산을 위해 MySQL을 Master/Slave로 이중화를 구성해 본 이야기 | Recoding Life](https://jane096.github.io/project/mysql-master-slave-replication/)
 * [**MySQL을 NoSQL로 사용하기**](http://advent.perl.kr/2012/2012-12-12.html)
   * 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
@@ -628,8 +631,6 @@ SQL
 * [Difference between Primary key and Unique key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/)
 * [Create foreign key in mysql | Create table with foreign key | Tutorial 9 in hindi - YouTube](https://www.youtube.com/watch?v=TLD0zkD9MtQ)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
-* [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
-* [MySQL Group Replication 구축](https://saramin.github.io/2021-09-28-mysql-group-replication/)
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
