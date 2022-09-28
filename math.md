@@ -340,6 +340,7 @@ Math
 # Number Theory
 * [Mathematicians Chase Moonshine’s Shadow - Researchers are on the trail of a mysterious connection between number theory, algebra and string theory](https://www.quantamagazine.org/20150312-mathematicians-chase-moonshines-shadow/)
 * [Software packages of interest to number theory](http://homepages.warwick.ac.uk/~masgaj/packages.html)
+* [Number theory explained from first principles](https://explained-from-first-principles.com/number-theory/)
 
 # Prime Numbers
 * [unusual and physical methods for finding prime numbers](http://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/unusual.htm)
