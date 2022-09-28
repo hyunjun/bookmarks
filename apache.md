@@ -1208,6 +1208,7 @@ Apache
 * [Introducing Apache Pinot 0.5.0. We are excited to announce that Apache… | by Ting Chen | Apache Pinot Developer Blog | Sep, 2020 | Medium](https://medium.com/apache-pinot-developer-blog/introducing-apache-pinot-0-5-0-e27983b6a678)
 * [Intro to Apache Pinot - YouTube](https://www.youtube.com/watch?v=T70jTTYhYyM)
 * [What is Apache Pinot? (and User-Facing Analytics) | A StarTree Lightboard by Tim Berglund - YouTube](https://www.youtube.com/watch?v=_lqdfq2c9cQ)
+* [Uber Freight Carrier Metrics with Near-Real-Time Analytics | Uber Blog](https://www.uber.com/en-GB/blog/uber-freight-carrier-metrics-with-near-real-time-analytics/)
 
 # PredictionIO
 * [PredictionIO](http://predictionio.incubator.apache.org/)
