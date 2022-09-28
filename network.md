@@ -216,6 +216,7 @@ Network
 * [HTTP 캐시 무효화 (Cache Busting)](https://hudi.blog/http-cache-busting/)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
 * [HTTP 총정리(정의,메세지,응답, 요청,메소드)](https://velog.io/@fejigu/HTTP%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%A0%95%EC%9D%98%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%91%EB%8B%B5-%EC%9A%94%EC%B2%AD%EB%A9%94%EC%86%8C%EB%93%9C)
+* [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
