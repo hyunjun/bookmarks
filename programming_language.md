@@ -422,6 +422,8 @@ Programming Language
     * [the Fennel programming language](https://fennel-lang.org/)
     * [~technomancy/fennel: from-clojure.md - sourcehut git](https://git.sr.ht/~technomancy/fennel/tree/main/from-clojure.md)
   * [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
+  * [lrexlib: A Lua (5.1 and later) binding of various regex library APIs (POSIX, PCRE, PCRE2, GNU, Oniguruma and TRE)](https://github.com/rrthomas/lrexlib)
+    * [루아(Lua)와 정규표현식 :: 류광의 번역 이야기](https://occamsrazr.net/tt/385)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * Nim
