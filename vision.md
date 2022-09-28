@@ -410,6 +410,8 @@ Vision
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
 * [paz: Hierarchical perception library in Python for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition, etc](https://github.com/oarriaga/paz)
+* [pico.js, a face-detection library in 200 lines of JavaScript](https://nenadmarkus.com/p/picojs-intro/)
+  * [pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리 | GeekNews](https://news.hada.io/topic?id=7326)
 * [Pl@ntNet](https://github.com/plantnet)
   * [Identify flowers and trees with open source | Opensource.com](https://opensource.com/article/21/7/open-source-plantnet)
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
