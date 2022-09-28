@@ -2055,6 +2055,7 @@ Business
 * [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process)
 * [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
 * [디자이너의, 디자이너에 의한, 디자이너를 위한 채용 설계하기](https://toss.tech/article/2022-product-designer-challenge)
+* [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
