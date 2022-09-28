@@ -8,7 +8,6 @@ Artificial Intelligence
 * [github.com/kjw0612](https://github.com/kjw0612/)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
-* [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
 * [Artificial Intelligence insight from Deep Learning 'Godfather' - May 5, 2015](http://www.cbc.ca/player/Radio/The+Current/ID/2666350952/)
 * [Don't be evil, AI! | Anthony Paek | TEDxSNU](https://www.youtube.com/watch?v=Av_ERJgKv1o)
@@ -231,6 +230,7 @@ Artificial Intelligence
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
+* [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
@@ -242,6 +242,7 @@ Artificial Intelligence
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
+* [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
   * [AI이미지 추출 (2/5)](https://tariat.tistory.com/360)
