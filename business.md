@@ -192,6 +192,7 @@ Business
   * [성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁 | GeekNews](https://news.hada.io/topic?id=6434)
 * [회사는 성장할 때 망가지기 쉽습니다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/189886) 문화
 * [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
+* [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
