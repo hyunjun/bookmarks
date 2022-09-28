@@ -185,6 +185,7 @@ Keras
 * [케라스 API를 사용한 사용자 정의 모델 만들기 with 텐서플로 2.3+2.4 Colaboratory](https://colab.research.google.com/github/rickiepark/handson-ml2/blob/master/custom_model_in_keras.ipynb)
 * [딥러닝 으로 리뷰에서 제품 속성 정보 추출하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5967/)
 * [Train a Vision Transformer on small datasets](https://keras.io/examples/vision/vit_small_ds/)
+* [A Deep Dive into Transformers with TensorFlow and Keras: Part 1 - PyImageSearch](https://pyimagesearch.com/2022/09/05/a-deep-dive-into-transformers-with-tensorflow-and-keras-part-1/)
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 
 # Book
