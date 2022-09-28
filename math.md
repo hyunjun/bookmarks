@@ -69,6 +69,7 @@ Math
 * [Information Geometry](http://math.ucr.edu/home/baez/information/)
 * [Zarathu Blog: 괴델의 불완전성 정리](https://blog.zarathu.com/posts/2019-05-20-godelincompleteness/)
 * [Gödel's Incompleteness Theorem, in Bash](https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html)
+* [Book review Gödel, Escher, Bach: an in-depth explainer - AI Alignment Forum](https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer)
 * [www.mathplanet.com/education/sat/section-1/problem-1](http://www.mathplanet.com/education/sat/section-1/problem-1)
 * [1부 : 복소수](https://www.facebook.com/lab4all/posts/565829610276678)
 * [2부 : 오일러의 공식](https://www.facebook.com/lab4all/posts/573903102802662)
