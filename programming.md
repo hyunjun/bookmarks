@@ -1586,6 +1586,8 @@ Programming
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
+* [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
+  * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
@@ -3020,6 +3022,7 @@ Programming
 * [M1은 RISC-V의 상승을 예고한다 | GeekNews](https://news.hada.io/topic?id=3447)
 * [애플 M1 맥이 그렇게 빠른 이유 - LunaTK's Blog](https://lunatk.github.io/2020/12/14/20201214-why-is-apple-m1-chip-so-fast/) CPU에 국한되는 이야기는 아님
 * [동영상 45분만에 보는 현대 CPU 아키텍쳐 정리 | GeekNews](https://news.hada.io/topic?id=4047)
+* [Hot Chips 34 – Tesla’s Dojo Microarchitecture – Chips and Cheese](https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/)
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 
 # Cryptography, Security
@@ -3693,6 +3696,8 @@ Programming
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
 * [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
   * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
+* [upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy](https://github.com/upscayl/upscayl)
+  * [Upscayl - 오픈소스 AI 이미지 업스케일러 | GeekNews](https://news.hada.io/topic?id=7324)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
