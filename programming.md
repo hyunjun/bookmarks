@@ -2167,6 +2167,7 @@ Programming
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
 * [32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Pg698WXPtYw)
 * [5 Books Every Software Developer NEEDS - YouTube](https://www.youtube.com/watch?v=RfOYWeu5pGk)
+* [10 Best Coding and Software Development Books for Programmers of All Level | by javinpaul | Sep, 2022 | Medium](https://javinpaul.medium.com/10-best-coding-and-software-development-books-for-programmers-of-all-level-6034912e5de2)
 * [influential-cs-books: Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
