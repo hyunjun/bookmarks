@@ -1021,6 +1021,7 @@ Web
 * [How to Build a Progressive Web App (PWA) with Create React App | by Thomas Sentre | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-progressive-web-app-pwa-with-create-react-app-acfd176c2876)
 * [PWA의 manifest. PWA이 일반 웹과 구분되는 것 중 하나는 manifest입니다… | by 이상선 | Jul, 2022 | Medium](https://medium.com/@sunyi233/pwa%EC%9D%98-manifest-json-1081829ad153)
 * [Why haven’t PWAs killed native apps yet? | by Kevin Basset | Sep, 2022 | Medium](https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa)
+* [프로그레시브 웹앱(PWA) 푸시 알람 A to Z • 캡틴판교](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
@@ -1524,6 +1525,7 @@ Web
 * [WEB과 WAS의 차이점](https://velog.io/@chamominedev/WEB%EA%B3%BC-WAS%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
 * [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
+* [여기보기 누구나 아는 기본 계정명은 비밀이 아니다 - 넷마블 기술 블로그](https://netmarble.engineering/avoid-was-console-default-account-and-setting/)
 
 # WebAssembly
 * [WebAssembly](https://github.com/WebAssembly/)
