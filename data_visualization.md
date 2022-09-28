@@ -70,6 +70,7 @@ Data Visualization
 * [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
 * [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM)
 * [How To Choose The Right Chart Type For Your Data](https://www.kdnuggets.com/2018/04/right-chart-your-data.html)
+* [Data Visualization Types: Everything a Marketer Needs to Know - TapClicks](https://www.tapclicks.com/resources/blog/data-visualization-types/)
 * [Frustrations with DataViz Tools](https://towardsdatascience.com/frustrations-with-dataviz-tools-de27cbcd2ff1)
 * [Designing a Data Visualization Dashboard Like It was a Game](https://medium.com/@Elijah_Meeks/designing-a-data-visualization-dashboard-like-it-was-a-game-b347858c1bce)
 * [Data visualization favorites from 2017](https://medium.com/@tafsiri/data-visualization-favorites-from-2017-8f68f558f4f5)
