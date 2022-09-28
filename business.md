@@ -595,6 +595,7 @@ Business
   * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
+* [AI 스타트업 유감. 시대가 변하고 있다는 건 스타트업 씬에 있고 이직 한두번 해본… | by Ghost_0503 | Sep, 2022 | Medium](https://nep-kim.medium.com/ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9C%A0%EA%B0%90-4f4f7055681)
 * [명확하게 요구해야 하는 3가지 이유](http://moneyman.kr/archives/3949)
 * [아무 것도 하지 않으면 아무 일도 일어나지 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242688)
 * [인정받고자 하는 욕구를 배반하는 5가지 태도 - Wonderful Mind](https://wonderfulmind.co.kr/5-attitudes-betray-need-for-approval/)
@@ -739,6 +740,7 @@ Business
 * [기획 MZ세대 리크루팅 전략 1 신입사원의 조기퇴사와 이탈 방지](https://blog.comento.kr/how-to-reduce-resign/)
 * [기획 MZ세대 리크루팅 전략 2 연령대별 지원자 타겟하기](https://blog.comento.kr/recruiting-sterategy-by-age-group/)
 * [월드클래스 채용팀이 역량 강화를 위해 참고하는 10가지 영업 조직의 운영 노하우 - Kimchi hill](https://kimchihill.com/2022/08/28/kr-10lessons-world-class-recruitingteam-learn-from-sales/)
+* [압도적인 '데이터 과학자'가 필요하다··· 전문가들이 전하는 ‘채용·유지’ 전략 - CIO Korea](https://www.ciokorea.com/news/253480)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
