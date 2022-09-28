@@ -1109,6 +1109,7 @@ Programming
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
   * [Effective Atomic Design | kciter.so](https://kciter.so/posts/effective-atomic-design)
   * [Atomic Design Pattern의 Best Practice 여정기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1531/)
+  * [Atomic Design 설계와 Container Component | Univdev](https://www.univdev.page/posts/atomic-design-with-container-component/)
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * Instagram
@@ -2129,6 +2130,7 @@ Programming
 * [Spoqa 기술 블로그 | 스포카에서 Jira를 활용하여 프로젝트를 수행하는 방법](https://spoqa.github.io/2022/06/15/how-to-use-jira-in-spoqa.html)
 * [I fucking hate Jira](https://ifuckinghatejira.com/)
   * [난 Jira가 정말 싫어요 | GeekNews](https://news.hada.io/topic?id=6834)
+* [JIRA 기한 설정 자동화](https://coolengineer.com/entry/JIRA-%EA%B8%B0%ED%95%9C-%EC%84%A4%EC%A0%95-%EC%9E%90%EB%8F%99%ED%99%94)
 * [Shortcut | Plan, build, ship. All in one tool.](https://shortcut.com/)
 
 # Benchmark
