@@ -1047,6 +1047,7 @@ NLP
   * [Building games and apps entirely through natural language using OpenAI’s code-davinci model – @AndrewMayne](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/)
     * 이 모델을 사용해 자연어로 게임을 만들도록 지시만 하고 코드는 하나도 수정 안 한 채로 만든 게임 데모 공개
 * [GPT-3로 AI 철학자 만들어 보니..."인간 철학자와 구분 힘들어" < 테크 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=146149)
+* [Responding to recruiter emails with GPT-3 | Matt’s programming blog](https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3)
 * [What to expect in GPT 4? (Natural Language Processing) - YouTube](https://www.youtube.com/watch?v=46nCp8kzAK4)
 * [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
 * [블로그는 되고 뉴스는 안 된다? 말뭉치의 종류에 따른 HyperCLOVA 인컨텍스트 러닝(In-context Learning) 성능 변화 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/05/hyperclova-corpus)
