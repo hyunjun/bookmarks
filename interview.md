@@ -320,6 +320,7 @@ Interview
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
+* [Is Grokking Advanced System Design Interview on Educative worth it? Review | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/is-grokking-advanced-system-design-interview-on-educative-worth-it-review-d0be0148c9f0)
 * [ByteByteGo System Design | Substack](https://blog.bytebytego.com/)
 * [System Design Practice Problems | LeetDesign](https://leetdesign.com/)
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
@@ -616,7 +617,7 @@ Interview
 * [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
 * [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 * [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
-* [ How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
+* [How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
