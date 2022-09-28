@@ -3788,6 +3788,7 @@ Javascript
   * React 17까지는 페이지의 전체 JavaScript를 로드해야 반응할 수 있었지만 18부터는 `Suspense`를 이용해서 논 블로킹 하이드레이션 가능
     * 그래서 반응성을 더 빠르게 만들어서 FID와 INP 향상 가능
   * 이 글에서는 케이스 스터디로 nextjs.org에서 `Suspense`로 선택적 하이드레이션을 사용해서 Total Blocking Time(TBT)을 430ms에서 80ms로 감소
+* [Suspense SSR Architecture in React 18 :: Normal Coder](https://yeoulcoding.me/333)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
