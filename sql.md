@@ -938,6 +938,7 @@ SQL
 * [Oracle vs PostgreSQL: First Glance](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
 * [PostgreSQL vs. Oracle: Difference in Costs, Ease of Use & Functionality | by Kristi Anderson | Jul, 2020 | Medium](https://medium.com/@kristi.anderson/postgresql-vs-oracle-difference-in-costs-ease-of-use-functionality-642638152509)
 * [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
+* [윈도우에 PostgreSQL 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/postgresql-win/)
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
