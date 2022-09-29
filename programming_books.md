@@ -253,6 +253,9 @@ Programming Books
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
 * (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
 * (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
+* (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
+  * 중앙 005.1-해233ㅋ
+  * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 
 # Agile Scrum
 
@@ -1662,6 +1665,9 @@ Programming Books
 
 # Haskell
 * [하스켈로 배우는 함수형 프로그래밍](https://jpub.tistory.com/511)
+* (NOT YET) [하스켈로 배우는 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4315070)
+  * [하스켈로 배우는 프로그래밍 by kyagrd](https://kyagrd.github.io/haskell/)
+  * [Kizoo: Programming in Haskell의 머릿글 원본](https://kizoo.blogspot.com/2009/05/programming-in-haskell.html)
 
 # Infrastructure
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
