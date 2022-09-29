@@ -884,6 +884,7 @@ Business
 * [이케아(IKEA)창업주, 잉바르 캄프라드](https://blog.naver.com/help2000/222858967777)
 * [창업자 CEO는 언제 어디서나 항상 평가 받아요](https://www.linkedin.com/posts/douglasguen_qwurbaqya-swmtnktxuslh-qsvsmpstcslh-activity-6971979293669150720-lR3i/)
 * [아마존 CEO 앤디 재시(Andy Jassy) 경험을 위한 압축 알고리즘은 없다](https://blog.naver.com/help2000/222881564868)
+* [벌레의 눈으로 본 혁신 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/columnView.do?cidx=13983) 스타벅스 하워드 슐츠
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1455,6 +1456,11 @@ Business
 * [이상을 좇는 리더 vs 현실과 타협하는 리더](https://brunch.co.kr/@seanpang/44)
 * [사무실에 앉아 있는 시간이 중요하지 않은 시대.. 리더가 해야 할 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productivity20220926) 생산성, 인풋의 양 -> 아웃풋의 질, 생산적 소통,  적극적 코칭
 * [포용적 리더십(Inclusive Leadership), 성공적인OKR을 위한 리더의 덕목 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=30143554&memberNo=46548453)
+* [우크라이나가 키이우를 지킬수 있었던 이유? 워싱턴포스트 탐사보도 2부! |우크라이나, 키이우, 워싱턴포스트 - YouTube](https://www.youtube.com/watch?v=6rf-CuEvAkI)
+  * 젤렌스키의 키이우에 남는 선택(키이우 밤 산책)이나 러시아 군의 어이없는 전술(과거 세계대전과 비슷한 양으로 쏟아붓는)도 영향을 줬지만
+  * 시르스키 상장(육군 사령관)이 가장 인상적이었음
+    * 키이우 방어전을 위해 구역을 나누고 각 지휘관에게 맡긴 뒤, 전황중에는 통신에 문제가 있을 수 있으니 재량권을 주고 스스로 판단해서 결정하도록 함
+    * [클라우제비츠의 전략](https://blog.daum.net/mil-world/15107638)에 대한 이야기와도 연결되는 듯
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
