@@ -1269,6 +1269,7 @@ AWS
   * [AWS Lambda 와 Cloudflare Workers 의 콜드스타트 비교 | GeekNews](https://news.hada.io/topic?id=6562)
 * [AWS Lambda 함수 URL을 이용하여 편리하고 안전한 API 서버와 클라이언트 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/creating-api-server-using-aws-lambda-function-url/)
 * [How to Deploy Swagger in AWS API Gateway with AWS Lambda? - YouTube](https://www.youtube.com/watch?v=zlaBvAjOddc)
+* [DevOps Tutorials | Start and Stop EC2 Instance using Aws lambda and Cloud watch | EC2 Automation | - YouTube](https://www.youtube.com/watch?v=vOLILhTshCE)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
