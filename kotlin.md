@@ -301,6 +301,8 @@
 * [**코루틴 공식 가이드 읽고 분석하기— Part 0**](https://medium.com/@myungpyo/reading-coroutine-official-guide-thoroughly-part-0-20176d431e9d)
 * [**왜 코루틴을 사용해야 할까?**](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/WHY_USE_COROUTINE.md)
   * [kotlin-coroutine-series/CONTINUATION.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/CONTINUATION.md)
+  * [kotlin-coroutine-series/COROUTINE_CONTEXT.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/COROUTINE_CONTEXT.md)
+  * [kotlin-coroutine-series/JOB_LIFE_CYCLE.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/JOB_LIFE_CYCLE.md)
 * [Google Play Billing Library meets Kotlin Coroutine](https://proandroiddev.com/google-play-billing-library-meets-kotlin-coroutine-c68e10553786)
 * [코틀린 Coroutine으로 네트워크 Retry 구현하는 방법](https://developer88.tistory.com/250)
 * [Coroutine의 Flow에 대한 정리](https://developer88.tistory.com/249)
