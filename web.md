@@ -373,6 +373,7 @@ Web
 * [History API는 가라! 이제는 Navigation API의 시대가 온다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/06/20/Navigation-API.html)
 * [Etsy Engineering | Priority Hints - What Your Browser Doesn’t Know (Yet)](https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet)
 * [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
+* [Internet Explorer 와 작별하기. 번개장터에서 Internet Explorer 지원을 종료하게 된 배경과… | by leo.kang | 번개장터 기술 블로그 | Sep, 2022 | Medium](https://medium.com/bunjang-tech-blog/internet-explorer-%EC%99%80-%EC%9E%91%EB%B3%84%ED%95%98%EA%B8%B0-1675dcc700e4)
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
