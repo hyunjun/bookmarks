@@ -1239,8 +1239,8 @@ Web
 * [REST API Design Best Practices for Parameter and Query String Usage](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Best-Practices-for-Parameters-and-Query-String-Usage/)
 * [REST 이해하기](http://sueng.tistory.com/entry/REST-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * REST 알아보기
-  * [1부, 연동의 역사](http://annehouse.tistory.com/m/466)
-  * [2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/m/467)
+  * [1부, 연동의 역사](http://annehouse.tistory.com/466)
+  * [2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/467)
 * REST API의 이해와 설계
   * [#1 개념 소개](http://bcho.tistory.com/m/post/953)
   * [#2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
