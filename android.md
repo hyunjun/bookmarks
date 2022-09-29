@@ -76,6 +76,7 @@ Android
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 * [제3회 스포카콘 Clean Architecture on Android](https://www.slideshare.net/RyanHKang/clean-architecture-on-android-243156618)
 * [안드로이드에서 클린 아키텍처 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/04/12/Android-CleanArchitecture.html)
+* [요즘 핫한 Clean Architecture 왜 쓰는 거야? : NHN Cloud Meetup](https://meetup.toast.com/posts/345)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Google Developers Korea Blog: 새롭게 개정된 앱 아키텍처 가이드를 확인해보세요](https://developers-kr.googleblog.com/2022/02/rebuilding-our-guide-to-app-architecture.html)
 * [쿠팡 안드로이드 아키텍처 — Part 1. 관심사의 분리 (Separation of Concerns, SoC) | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Aug, 2022 | Medium](https://medium.com/coupang-engineering/concerned-separate-the-concerns-7f5e1e39ce8)
