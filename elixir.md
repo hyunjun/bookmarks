@@ -83,6 +83,7 @@ Elixir
 * [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1 - YouTube](https://www.youtube.com/watch?v=iGTCZt9Z8A8)
 * [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 2 - YouTube](https://www.youtube.com/watch?v=617whtd2tdk)
 * [10 tips for new Elixir developers - DEV Community 👩💻👨💻](https://dev.to/chriis/10-tips-for-new-elixir-developers-48jl)
+* [Elixir 는 어떻게 10년도 안되어 성숙한 언어가 되었나 · Json Media](https://json.media/blog/how_elixir_became_a_mature_language_in_less_than_10_years)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
