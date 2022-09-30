@@ -5050,6 +5050,8 @@ Javascript
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [TrackPurchase: 단 몇줄의 코드로 다양한 쇼핑 플랫폼에서 결제 내역을 긁어오자!](https://github.com/code-yeongyu/trackpurchase)
+* [tRPC - Move Fast and Break Nothing. End-to-end typesafe APIs made easy. | tRPC](https://trpc.io/)
+  * [Awesome tRPC Collection | tRPC](https://trpc.io/docs/v10/awesome-trpc)
 * [ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
 * [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
