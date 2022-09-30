@@ -631,6 +631,8 @@ Docker
 * [Debunking Container Myths 🧵 A (never-ending) series of articles that I started writing a couple of years ago to fix my own misconceptions about containers https://t.co/bD7Iw48ere / Twitter](https://twitter.com/iximiuz/status/1563851156417298434?s=20&t=k9U_jpi2l-s4egt7TvZH6A)
 * [Why Docker isn't always a good idea Part 1 - DEV Community 👩💻👨💻](https://dev.to/n00d13/why-docker-isnt-always-a-good-idea-part-1-5ha1)
 * [Implementing Container Manager](https://iximiuz.com/en/series/implementing-container-manager/)
+* [What are Docker, Containers, Virtual Machines, and Containerization? | by Dineshchandgr | Medium](https://dineshchandgr.medium.com/what-are-docker-containers-virtual-machines-and-containerization-e68bf076edf4)
+* [Container Orchestration and Kubernetes — Part 2 | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/container-orchestration-and-kubernetes-part-2-8bf0ff2637e0)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
