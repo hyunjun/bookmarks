@@ -402,5 +402,6 @@ Bitcoin
 * [블파스 Decentralized Society : Web3의 영혼을 찾아서 | 윤두식 - YouTube](https://www.youtube.com/watch?v=NSL_FDNRyKE)
 * [Aleph.im decentralized infrastructure](https://aleph.im/)
 * [웹3에서 차용해보는, "잘 먹히는" 커뮤니티 구축 전략 5단계](https://www.grownbetter.com/article/132)
+* [웹3는 무엇인가? | 혁신 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/5_1/article_no/1913)
 * [ReFi와 ImpactDAO. 웹3의 regeneration movement와 임팩트에 대해 알아보기 | by JinYoung Yoo | Jul, 2022 | Medium](https://medium.com/@uj_/refi-impactdao-kr-ff171545aab9)
 * [10 Free NFT (Non Fungible Tokens), Metaverse, and Web3.0 Courses for Beginners | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/10-free-nft-non-fungible-tokens-metaverse-and-web3-0-courses-for-beginners-421b1d6ca263)
