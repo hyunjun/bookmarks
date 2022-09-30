@@ -536,6 +536,7 @@ Scala
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
+* [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
 * [akka-dynamic-batch-serving](https://github.com/go-noah/akka-dynamic-batch-serving)
@@ -1034,6 +1035,8 @@ Scala
     * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
     * [Scala 3 + ZIO 2 + zhttp + Laminar: proof of concept & impressions – Adrian Filip](https://adrianfilip.com/2022/06/27/scala-3-zio-2-zhttp-laminar-proof-of-concept-impressions/)
     * [Zymposium - ZIO- API - DSL - YouTube](https://www.youtube.com/watch?v=biAjx4zt3GU)
+    * [Zymposium - ZIO Metrics - YouTube](https://www.youtube.com/watch?v=CT053oX4n5w)
+    * [Zymposium - From Akka to ZIO - YouTube](https://www.youtube.com/watch?v=pokgLDZaTu0)
     * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
