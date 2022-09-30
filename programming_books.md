@@ -2294,6 +2294,8 @@ Programming Books
 * (NOT YET) [생산성 (Productivity) 기업 제1의 존재 이유](https://blog.naver.com/airline36/221155971407)
   * 서부 DO325.41-이11ㅅ 한경 325.41-이11ㅅ
 * (NOT YET) [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
+* (NOT YET) [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
+  * 한라 325.24-렌58ㅊ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
