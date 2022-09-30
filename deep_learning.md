@@ -2708,6 +2708,7 @@ CVPR2016)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 # Text to video text2video
+* [Make-A-Video](https://makeavideo.studio/)
 * [Runway - Online Video Editor | Everything you need to edit video, fast](https://runwayml.com/)
   * [Text to Video: Early Access - YouTube](https://www.youtube.com/watch?v=mYjfIc9xw90)
 
