@@ -364,6 +364,8 @@ Git
   * 대신 private 저장소의 워크플로우는 참조할 수 없고 하나 이상을 참조도 불가능
 * [GitHub Actions의 workflow_call로 워크플로우 재사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1591)
 * [다른 저장소의 GitHub Actions 워크플로우를 호출할 수 있는 repository_dispatch :: Outsider's Dev Story](https://blog.outsider.ne.kr/1589)
+* [Introduction to GitHub Actions | Workflow of GitHub Actions | GitHub Actions Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=67fvIzYqD_I)
+* [GitHub Actions에서 워크플로우 실행의 이름을 바꿀 수 있는 run-name :: Outsider's Dev Story](https://blog.outsider.ne.kr/1626)
 * [GitHub Actions의 Composite 액션 작성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1592)
 * [GitHub Actions에서 도커 캐시를 적용해 이미지 빌드하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220414-docker-cache/)
 * [release 브랜치 merge시 Tag 생성, 브랜치 삭제하기 (feat. Gihtub Action)](https://jojoldu.tistory.com/668)
@@ -379,7 +381,6 @@ Git
   * OpenID Connect(OICD) 토큰을 이용해서 API 게이트웨이에 인증해서 접속하거나 WireGuard로 오버레이 네트워크를 설정하거나 TailScale같은 사용 솔루션으로 오버레이 네트워크 설정해서 연결
 * [Automate Deploy Jupyter Notebooks with Github Actions | MLOps | Productionize Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=jVag3kUhUXQ)
 * [MLOps with Hugging Face Spaces, Gradio and Github Actions - YouTube](https://www.youtube.com/watch?v=VYSGjUa5sc4) Github Action기반으로 Hugging Face에 CD하는 MLOps tutorial
-* [Introduction to GitHub Actions | Workflow of GitHub Actions | GitHub Actions Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=67fvIzYqD_I)
 * [Auto Label in Issue · Actions · GitHub Marketplace](https://github.com/marketplace/actions/auto-label-in-issue)
 * [How to build Python Project using GitHub Actions | GitHub Actions CI/CD Pipeline for Python Project - YouTube](https://www.youtube.com/watch?v=PsO5dZqBckY)
 * [The Database CI/CD Best Practice with GitHub](https://www.bytebase.com/blog/database-cicd-best-practice-with-github)
