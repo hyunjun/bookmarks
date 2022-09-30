@@ -1813,6 +1813,7 @@ Programming
 * [11 Micro Frontends Frameworks You Should Know | by Jonathan Saring | Sep, 2020 | ITNEXT](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
+* [Microfrontends: Apply the Microservices Pattern to the Frontend](https://semaphoreci.com/blog/microfrontends)
 * [Event-Based Routing for Angular Micro Frontends | by Marcin Milewicz | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1)
 * [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
 * [How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
