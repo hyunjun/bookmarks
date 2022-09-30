@@ -1815,6 +1815,7 @@ Java
 * [Spring Rest Docs IntelliJ에서 미리보기](http://jojoldu.tistory.com/299)
 * [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
 * [Spring REST Docs에 날개를... (feat: Popup)](https://woowabros.github.io/experience/2020/05/13/rest-docs.html)
+* [내가 만든 API를 널리 알리기 - Spring REST Docs 가이드편 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/spring-rest-docs-guide/)
 * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
 * [27. Spring - Swagger 기본사용법 및 API 문서자동화](https://kim-jong-hyun.tistory.com/49)
 * [Swagger를 이용한 API 문서 자동화](https://jjingho.tistory.com/8)
