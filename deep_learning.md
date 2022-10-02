@@ -2677,6 +2677,9 @@ CVPR2016)
     * [slide](http://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
     * [video](https://youtu.be/n9yZNmC20pc)
 
+# Text to audio text2audio
+* [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
+
 # Text to image text2image
 * [Jina.ai X AI Network Text to image 의 흐름과 Web 3 환경에서의 활용 - Google Slides](https://docs.google.com/presentation/d/1M1yhe0Cy-hcvUEWkjT6zLUBZ5CLhxLorDxR36sAiCBs/edit#slide=id.p)
 * [Jina AI X AI Network Text to image office hour | by AI Network | AI Network | Sep, 2022 | Medium](https://medium.com/ai-network/jina-ai-x-ai-network-text-to-image-office-hour-89671c85cacd)
