@@ -248,6 +248,7 @@ Programming Books
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
 * (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
+  * 우당
   * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
   * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
@@ -436,7 +437,9 @@ Programming Books
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
+  * 우당
 * (NOT YET) [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/106)
+  * 한라
 * (NOT YET) [문제 해결력을 높이는 알고리즘과 자료 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289274245)
   * 탐라 문005.1-오818ㅁ
 * (NOT YET) [알고리즘으로 생각하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286801220)
@@ -444,12 +447,17 @@ Programming Books
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
   * 한라 005.1-레48ㅇ
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
+  * 한라
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
+  * 한라
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
+  * 탐라
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
+  * 탐라
 * (NOT YET) [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
   * 우당 문005.73-수43ㅋ
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
+  * 탐라
 
 # Amazon AWS
 
@@ -650,7 +658,9 @@ Programming Books
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
 * (NOT YET) [소프트웨어 아키텍처 이론과 실제 4/e | 에이콘출판사](http://acornpub.co.kr/book/swarchitect-4e)
+  * 탐라
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
+  * 탐라
 
 # C
 
@@ -2296,6 +2306,7 @@ Programming Books
 * (NOT YET) [생산성 (Productivity) 기업 제1의 존재 이유](https://blog.naver.com/airline36/221155971407)
   * 서부 DO325.41-이11ㅅ 한경 325.41-이11ㅅ
 * (NOT YET) [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
+  * 한라
 * (NOT YET) [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
   * 한라 325.24-렌58ㅊ
 
@@ -2500,6 +2511,7 @@ Programming Books
   * 스톰 프로젝트 창시자의 저서
   * 람다 아키텍처, thrift 스리프트, 하둡, 맵리듀스, J캐스캘로그, 엘리펀트DB, 카산드라, 스톰
 * (NOT YET) [그래프 알고리즘 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-algorithms)
+  * 한라
 
 ## Casandra
 
@@ -2602,7 +2614,9 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
+  * 우당
 * (NOT YET) [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
+  * 우당
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
@@ -2806,6 +2820,7 @@ Programming Books
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
 * (NOT YET) [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
+  * 우당
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
