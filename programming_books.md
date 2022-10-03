@@ -363,7 +363,7 @@ Programming Books
   * 탐라 004.78-패838ㅅ
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
-  * 탐라
+  * 탐라 문325.211-벤58ㅍ
 * (NOT YET) [애자일 팀 코칭](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287259709)
   * 탐라 문325.2-앳829ㅇ
 
@@ -1693,7 +1693,7 @@ Programming Books
   * 한라 004.78-모298ㅋ
   * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
   * (NOT YET) [코드로 인프라 관리하기(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4910879762)
-    * 탐라
+    * 탐라 문004.588-모239코
 * Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
   * 한라 004.79-이885ㅅ
 * [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
@@ -2409,6 +2409,8 @@ Programming Books
   * 한라
 * (NOT YET) [어디서든 리드하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273501382)
   * 한라 325.2-버874ㅇ
+* (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
+  * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
 
 # Math
 
@@ -2433,6 +2435,9 @@ Programming Books
 * (NOT YET) [더북(TheBook): 머신 러닝을 위한 수학 with 파이썬, R](https://thebook.io/007019/)
 * (NOT YET) [제대로 배우는 수학적 최적화: 드디어 제대로된 최적화 책이 나왔다](https://developer-kelvin.tistory.com/32)
 * (NOT YET) [이득우의 게임 수학](https://jhrogue.blogspot.com/2022/03/blog-post.html)
+  * 한라 005.11-이27ㄱ
+  * [<이득우의 게임 수학> 예제 결과 화면](https://ideugu.notion.site/05b87813fe644590bf0a09d5e7030909)
+  * [gamemath: <이득우의 게임 수학> 공식 깃허브 페이지](https://github.com/onlybooks/gamemath)
 * (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
   * 우당 문005.11-강77ㅅ
 
@@ -2803,17 +2808,17 @@ Programming Books
   * 탐라 문004.73-구79ㅍ
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
-  * 탐라
+  * 탐라 문005.133-야45ㅈ
   * [Expert-Python-Programming-Fourth-Edition: Expert Python Programming, Fourth Edition published by Packt](https://github.com/moseskim/Expert-Python-Programming-Fourth-Edition)
   * [9781801071109_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801071109_ColorImages.pdf)
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
-  * 탐라
+  * 탐라 문005.133-로838ㅍ
   * [Python-Object-Oriented-Programming---4th-edition: Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
   * [9781801077262_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801077262_ColorImages.pdf)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
-  * 탐라
+  * 탐라 문005.133-비61ㄷ
   * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
 * (NOT YET) [마케터의 파이썬 - 코딩의 C도 모르는 우리들을 위한 맞춤 프로그래밍 가이드 :: e비즈북스](https://ebizbooks.tistory.com/1400)
   * 한라 005.133-정97ㅁ 탐라 문005.133-정98ㅁ 우당 문005.133-정98ㅁ
