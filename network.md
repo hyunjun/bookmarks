@@ -240,6 +240,8 @@ Network
 * [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
 * [The Illustrated TLS Connection: Every Byte Explained](https://tls.ulfheim.net/)
 * [블로그 설정 개편 (2021-05)](https://rein.kr/blog/archives/5359) Blog에 TLS 1.3 / HTTP2 / ECDSA 인증서 적용
+* [What is TLS and why is it important? | Explained simply - YouTube](https://www.youtube.com/watch?v=jDScXhBl_DI)
+* [TLS and Certificate Authorities | Part 2 | Explained Simply - YouTube](https://www.youtube.com/watch?v=E526dTotQc8)
 * [Revisiting BetterTLS: Certificate Path Building | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f)
 * [블로그 설정 개편: ECDSA 인증서 체인](https://rein.kr/blog/archives/5492)
 * [HTTPS - 1. 그림으로 이해하는 HTTPS](https://www.youtube.com/watch?v=NhTstvC7DYY)
