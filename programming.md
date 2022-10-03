@@ -4279,6 +4279,7 @@ Programming
   * [기술 뉴스 #204 : 22-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1615)
   * [기술 뉴스 #205 : 22-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1619)
   * [기술 뉴스 #206 : 22-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1622)
+  * [기술 뉴스 #207 : 22-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1627)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
