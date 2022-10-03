@@ -346,6 +346,8 @@ Book
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
 * (NOT YET) [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
   * 탐라
+* (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
+  * 탐라 문594.392-로31ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
