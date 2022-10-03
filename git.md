@@ -390,6 +390,7 @@ Git
 * [How to use actions/checkout in GitHub Actions | GitHub - jobs : what is : use actions/checkout - YouTube](https://www.youtube.com/watch?v=nAK3mFRxfFA)
 * [Automatically create GitHub repository, enable branch protection with Terraform and GitHub Actions - YouTube](https://www.youtube.com/watch?v=nZPyCdyJe4A)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
+  * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
