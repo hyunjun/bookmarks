@@ -239,6 +239,7 @@ Business
 * [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
 * [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
 * [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
+* [함께 일한다는 것에 대하여 — 프로세스보단 상호작용에 가치를! | by Katanazero | Sep, 2022 | Medium](https://medium.com/@zero86/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%97%90-%EA%B0%80%EC%B9%98%EB%A5%BC-e7929fcc0c18) 협업
 * [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
@@ -1624,6 +1625,7 @@ Business
 * [토스 리더가 말하는 지속가능한 성장을 만드는 법 | PO SESSION - YouTube](https://www.youtube.com/watch?v=4gjRPJZk2us)
 * [토스는 이렇게 시작했습니다 | PO SESSION - YouTube](https://www.youtube.com/watch?v=Tmj1HEFnKpE)
 * [토스 리더가 직접 답해드립니다 | PO SESSION Q&A - YouTube](https://www.youtube.com/watch?v=GFERag7kjFM)
+* [토스 PO 세션 1~7편 총 정리](https://brunch.co.kr/@ashashash/186)
 * [정성적 차이](https://www.thestartupbible.com/2022/07/unquantifiable-moats.html)
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
@@ -1965,6 +1967,7 @@ Business
 * [진짜 전문가들은 '스킨 인 더 게임'을 한다](https://www.slid.cc/share/vdocs/%EC%A7%84%EC%A7%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%EC%8A%A4%ED%82%A8-%EC%9D%B8-%EB%8D%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%ED%95%9C%EB%8B%A4-a0571cb65d5b4dedb3d43eca8c2d6319)
 * [구독과 함께 완전히 새로워진 클래스101. 구독 제품을 만들며 설정한 제품 원칙과 그 원칙에 따라 새로워진 제품을… | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/%EA%B5%AC%EB%8F%85%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%99%84%EC%A0%84%ED%9E%88-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%81%B4%EB%9E%98%EC%8A%A4101-b1beb363aa91)
 * [300명이 넘는 조직에서 6개월만에 비즈니스 모델 피봇하기. 전사원이 함께 참여한 구독 BM 전환기 | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/300%EB%AA%85%EC%9D%B4-%EB%84%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-6%EA%B0%9C%EC%9B%94%EB%A7%8C%EC%97%90-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%ED%94%BC%EB%B4%87%ED%95%98%EA%B8%B0-f827e8110a0f)
+* [스타트업 성공을 위한 다섯 가지 조건 (+ 1 추가) : 네이버 블로그](https://m.blog.naver.com/help2000/222888883807)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
