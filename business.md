@@ -2062,7 +2062,10 @@ Business
   * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
 * [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
-* [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process)
+* [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process/)
+  * Toss에서 입력 필드가 많은 본인 인증 화면을 설계하는 과정
+  * 본인 인증은 입력 필드가 많아서 스크롤 아래 가려진 필드와 액션을 알기가 어려워서 반대로 한 필드씩 입력하면 위에 새로운 필드가 나오게 구현
+  * 사용성 테스트에서는 심지어 역순으로 쌓이고 있다는 것을 사용자들이 눈치채지도 못했다고 함
 * [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
 * [디자이너의, 디자이너에 의한, 디자이너를 위한 채용 설계하기](https://toss.tech/article/2022-product-designer-challenge)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
