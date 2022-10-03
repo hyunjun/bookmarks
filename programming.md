@@ -4990,6 +4990,7 @@ Programming
   * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
 
 ## TDD, Test, BDD
+* [Introducing BDD - Dan North & Associates Ltd](https://dannorth.net/introducing-bdd/)
 * [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
 * [BDD와 TDD의 차이](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
 * [1. Mocha - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-1-mocha/)
