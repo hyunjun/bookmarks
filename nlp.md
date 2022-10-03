@@ -1983,7 +1983,8 @@ NLP
   * [Wav2vec: Semi and Unsupervised Speech Recognition | Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
-* Whisper [Introducing Whisper](https://openai.com/blog/whisper/)
+* Whisper
+  * [Introducing Whisper](https://openai.com/blog/whisper/) OpenAI에서 음성인식 데이터를 680,000 시간 학습시킨 음성 인식 모델을 오픈소스로 공개
   * [사람 말귀 더 잘 알아듣는 AI...오픈AI, 다국어 음성 인식 '위스퍼' 아키텍처 공개](https://www.zoominlife.com/2163)
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
@@ -2002,6 +2003,7 @@ NLP
 * [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 * [한국어 위키백과내 주요 문서 16만개에 포함된 지식을 추출하여 객체(entity), 속성(attribute), 값(value)을 갖는 트리플 형식의 데이터 75만개](http://www.aihub.or.kr/content/142)
 * [Data-Mining Wikipedia for Fun and Profit – 🦉 billpg industries™](https://billpg.com/data-mining-wikipedia/)
+* [namuwiki-extracted · Datasets at Hugging Face](https://huggingface.co/datasets/heegyu/namuwiki-extracted)
 
 # Word2Vec
 * [awesome-sentence-embedding - A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
