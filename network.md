@@ -193,7 +193,13 @@ Network
 * [HTTP/3 is Fast. HTTP/3 is here, and it’s a big deal for… | by Todd H. Gardner | Request Metrics | Medium](https://medium.com/request-metrics/http-3-is-fast-dc7f8871df6)
 * [HTTP/3: Everything you need to know about the next-generation web protocol | The Daily Swig](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
 * [Setup Nginx HTTP3 - Zodinet](https://zodinet.com/setup-nginx-http3/)
-* [웹 개발자라면 알고 있어야 할 HTTP의 진화 과정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html)
+* [웹 개발자라면 알고 있어야 할 HTTP의 진화 과정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html/)
+  * HTTP 표준이 달라진 과정을 정리한 글
+  * 처음에는 아주 간단한 HTTP/0.9 명세가 존재
+  * 요구사항이 늘어나면서 HTTP 워킹그룹이 생겨서 1996년 HTTP/1.0을 작성
+  * 연결 재사용, 파이프라이닝, 청크 전송, 캐시 제어 등을 추가해서 1997년에 HTTP/1.1 발표
+  * HTTP/1.1의 헤더 중복 문제와 HOLB(Head-of-Line Blocking) 문제 등을 해결하기 위해 2015년 SPDY 기반으로 HTTP/2 작성
+  * 기존의 HTTP는 모두 TCP 기반이라 TCP의 문제는 해결하기 위해 UDP 기반의 QUIC 프로토콜에서 동작하는 HTTP/3 등장
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
