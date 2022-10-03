@@ -742,6 +742,7 @@ Web
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [emotion.js 소개 및 사용법 (feat. CSS-in-JS) | MJ Kim](https://www.howdy-mj.me/css/emotion.js-intro/)
 * [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/)
+* [xstyled: A utility-first CSS-in-JS framework built for React. 💅👩🎤⚡️](https://github.com/gregberge/xstyled)
 
 # Frontend
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
