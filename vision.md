@@ -367,6 +367,8 @@ Vision
   * [Mind AR JS - 웹 증강현실 라이브러리 | GeekNews](https://news.hada.io/topic?id=5664)
 
 # Library
+* [Albumentations: fast and flexible image augmentations](https://albumentations.ai/)
+  * [쉽게 Computer Vision 성능을 높여보자!](https://brunch.co.kr/@fermat39/108)
 * [CLOUD VISION API](https://cloud.google.com/vision/)
   * [구글 클라우드 비젼 API 사용하기 (Google Cloud Vision API)](http://bcho.tistory.com/1075)
   * [Explore the Galaxy of images with Cloud Vision API](https://cloud.google.com/blog/big-data/2016/05/explore-the-galaxy-of-images-with-cloud-vision-api)
