@@ -2684,6 +2684,7 @@ CVPR2016)
 # Text to image text2image
 * [Jina.ai X AI Network Text to image 의 흐름과 Web 3 환경에서의 활용 - Google Slides](https://docs.google.com/presentation/d/1M1yhe0Cy-hcvUEWkjT6zLUBZ5CLhxLorDxR36sAiCBs/edit#slide=id.p)
 * [Jina AI X AI Network Text to image office hour | by AI Network | AI Network | Sep, 2022 | Medium](https://medium.com/ai-network/jina-ai-x-ai-network-text-to-image-office-hour-89671c85cacd)
+* [고성능(3장15초) 텍스트입력 이미지 생성모델 사용하기 - Stable Diffusion](https://aifactory.space/competition/2147/discussion/16)
 * [awesome-diffusion: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources](https://github.com/cobanov/awesome-diffusion)
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
   * [natural-language-youtube-search: Search inside YouTube videos using natural language](https://github.com/haltakov/natural-language-youtube-search)
@@ -2714,6 +2715,7 @@ CVPR2016)
 
 # Text to video text2video
 * [Make-A-Video](https://makeavideo.studio/)
+  * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Runway - Online Video Editor | Everything you need to edit video, fast](https://runwayml.com/)
   * [Text to Video: Early Access - YouTube](https://www.youtube.com/watch?v=mYjfIc9xw90)
 
