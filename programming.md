@@ -286,6 +286,12 @@ Programming
 * [What SREs Can Learn from Capt. Sully: When to Follow Playbooks | Rootly](https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks)
 * [‘닮은 듯 다른’ 월가 공룡들의 데브옵스 접근법 - CIO Korea](https://www.ciokorea.com/news/238709) SRE
 * [글로벌 칼럼 | 데브옵스 시대는 끝났다 - ITWorld Korea](https://www.itworld.co.kr/topnews/251626) DevOps, SRE, Platform engineering
+* [How Is Platform Engineering Different from DevOps and SRE? - The New Stack](https://thenewstack.io/how-is-platform-engineering-different-from-devops-and-sre)
+  * Platform Engineering이 DevOps와 SRE의 다음 단계라고 설명하는 글
+  * DevOps가 주목받고 많은 성공 사례가 있었지만 잘못된 도입으로 개발자에게 과한 책임을 요구하면서 인지 부하 증가
+  * 구글이 만든 SRE도 이론상은 괜찮지만, 인력이 부족해서 가짜 SRE 출현
+  * 플랫폼 엔지니어링은 셀프서비스를 가능하게 하는 도구와 워크플로를 만드는 분야라고 하면서 이 플랫폼이 DevOps와 SRE의 문제를 완화할 수 있다고 주장
+  * 약간 홍보 글 같은 느낌이 있기도 하지만 셀프서비스를 할 수 있는 플랫폼을 만드는 가치에 대해서는 동의
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
@@ -833,9 +839,6 @@ Programming
 * [APIs Explained for Product Manager](https://www.notion.so/APIs-Explained-for-Product-Manager-53ce50635bad462f9665cf4836b91429)
 * [웹 버전 관리 시스템](https://kdinner.tistory.com/101)
 * [Web API 유용한 곳 정리 및 모아보기](https://open-support.tistory.com/entry/Web-API-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B3%B3-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
-* [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
-  * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
-* [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
 * [결제 시스템의 SDK와 API 디자인](https://toss.im/slash-21/sessions/1-7)
 * [Rebuilding Twitter’s Public API - YouTube](https://www.youtube.com/watch?v=axFSaH_-IMw)
 * [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
@@ -2224,6 +2227,11 @@ Programming
 * [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
 * [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
+* [AWS vs GCP reliability is wildly different | Pierce Freeman](https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different)
+  * AWS와 GCP에서 3,000 T4 GPU를 2주간 띄워 보면서 비교
+  * AWS는 일관적으로 15초 이내에(평균 11.4초) 실행, GCP는 45초 가까이(평균 42.6초) 소요
+  * AWS는 1번의 실패가 있었지만, GCP는 84번의 실패
+  * 둘의 준비 상태가 다른가 의심해 봤지만, SSH 접속이 되는 걸 봤을 때 그렇지는 않아보인다고 함
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
 * [알리바바 클라우드 SDK 설치 및 계정연동](https://jybaek.tistory.com/849)
@@ -3125,8 +3133,11 @@ Programming
   * Instagram과 Facebook에서 인앱브라우저로 웹사이트를 열었을 때 pcm.js같은 파일을 자동으로 주입하기 때문에
     * 사용자와 웹사이트 제공자와 상관없이 Meta가 사용자의 모든 것을 모니터링 가능
   * [인스타그램/페북은 인앱브라우저에서 하는 모든 일을 추적가능합니다 | GeekNews](https://news.hada.io/topic?id=7170)
+* [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
+  * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
+* [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
 * Census II [Secure Your Code with Census II Open Source Libraries – The New Stack](https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/)
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
@@ -3183,6 +3194,11 @@ Programming
   * [Defending against SSRF attacks (with help from our bug bounty program) - Dropbox](https://dropbox.tech/security/bug-bounty-program-ssrf-attack)
 * [Suricata - Intrusion Detection and Prevention Security Tool](https://www.tecmint.com/suricata-intrusion-detection-prevention-linux/)
 * [TruffleHog - Credential 검색 도구 | GeekNews](https://news.hada.io/topic?id=6344)
+* [Turnstile, 캡차의 대안 | Cloudflare](https://www.cloudflare.com/ko-kr/lp/turnstile/)
+  * [Announcing Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
+    * 로그인 등에서 시각적 퍼즐로 봇을 걸러내기 위해 사용하는 CAPTCHA의 대안으로 Cloudflare에서 Turnstile을 오픈 베타로 공개
+    * Turnstile는 Managed Challenge 시스템으로 사용자의 정보를 기반으로 과제를 수행하여 CAPTCHA 없이도 사람 구분
+    * Cloudflare에서 키를 받아서 무료로 사용할 수 있고 프라이버시 측면에서도 훨씬 안전
 
 # Data Mesh
 * [Data Mesh 101: What is Data Mesh? - YouTube](https://www.youtube.com/watch?v=zfFyE3xmJ7I)
@@ -3340,6 +3356,13 @@ Programming
 * [Dev, SRE, Operations, DevOps - What’s the Difference?](https://www.bytebase.com/blog/dev-sre-ops-devops-difference)
 * [5 Most Useful CI/CD Tools for DevOps Engineers in 2022](https://spacelift.io/blog/ci-cd-tools)
 * [Become an Elite Team With Dora Metrics - Semaphore](https://semaphoreci.com/blog/dora-metrics) DORA (DevOps Research and Assessment)
+* [DORA 2022 Accelerate State of DevOps Report now out | Google Cloud Blog](https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out)
+  * DORA(DevOps Research and Assessment)에서 지난 8년간 설문을 진행해 온 Accelerate State of DevOps의 2022년 보고서
+  * 작년 보안 사고가 잦아서 올해 보고서는 보안에 집중하기로 했고 새로운 보안 관행이 대부분 조직에서 부분적으로 채택
+    * CI/CD에서 보안 수준을 검토하는 것이 가장 일반적
+  * 배포 빈도, 변경 리드 타임, 평균 복구 시간, 실패율, 안정성으로 5가지 메트릭으로 응답자를 나누었을 때 중간 그룹이 69%로 많이 증가
+    * 낮은 그룹도 7%에서 19%로 증
+  * 보고서 전체는 [2022 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -3458,6 +3481,13 @@ Programming
 * [The Best Infrastructure as Code Tools for 2022 - DZone Cloud](https://dzone.com/articles/the-best-infrastructure-as-code-tools-for-2022-1)
 * [Infrastructure-as-Code Goes Low Code/No Code – The New Stack](https://thenewstack.io/infrastructure-as-code-goes-low-code-no-code/)
 * [인프라, 어디까지 구축해 봤어? - 우리 서비스는 장애에 강건하고 확장이 가능할까요? 4회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1sOCkOQprNTKhKCgucH1SWdsjB_Kc3Mvog3BwLwGOa5Y/edit)
+* [How DoorDash Ensures Velocity and Reliability through Policy Automation - DoorDash Engineering Blog](https://doordash.engineering/2022/09/20/how-doordash-ensures-velocity-and-reliability-through-policy-automation/)
+  * DoorDash가 OPA(Open Policy Agent)를 도입하는 과정
+  * Terraform과 Atlantis를 이용해서 인프라스트럭처 프로비저닝에 GitOps 워크플로를 사용하고 있었는데
+    * 조직과 인프라가 커지면서 인프라팀 엔지니어는 온종일 인프라 변경에 대한 PR을 리뷰하는데 보내게 되었고
+    * 문제가 생겼을 때 인프라의 영향도 너무 커짐
+  * 인프라 자동화로 신뢰성과 가속도를 높이기 위해 OPA(Open Policy Agent)를 사용하기로 결정
+    * Atlantis에 [Conftest](https://www.conftest.dev/)를 사용해서 PR 리뷰 과정 중에 자동으로 OPA 규칙을 검사
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
