@@ -73,6 +73,10 @@ Monitoring
 * [TCP packets traffic visualization for kubernetes by k8spacket | Medium](https://medium.com/@bareckidarek/tcp-packets-traffic-visualization-for-kubernetes-by-k8spacket-and-grafana-bb87cb106f30)
   * `gopacket`을 사용하는 `k8spacket`으로 Kubernetes 클러스터 안에서 TCP 패킷을 모니터링해서 Grafana로 시각화하는 방법을 설명
   * `k8spacket`을 `DemonSet`으로 띄워서 10초마다 네트워크를 모니터링하고 각 Pod, Service 간에 TCP 연결과 트래픽이 오가는 것을 확인 가능
+* Grafana Agent Flow
+  * [Introducing programmable pipelines with Grafana Agent Flow | Grafana Labs](https://grafana.com/blog/2022/09/29/introducing-programmable-pipelines-with-grafana-agent-flow/)
+    * Agent는 Grafana 스택에 최적화되어 매트릭, 로그 등을 수집해서 보내주는 에이전트
+    * 이 에이전트에 프로그래밍할 수 있는 Flow가 실험적으로 추가되어 쉽게 설정해서 사용해 볼 수 있고 복잡한 워크플로를 정의해서 사용 가능
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
 * Grafana Incident 장애를 관리하는 서비스
   * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
