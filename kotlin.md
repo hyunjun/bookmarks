@@ -80,6 +80,7 @@
 * [My favorite examples of functional programming in Kotlin](https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112)
 * [Functional Effect System in Kotlin | by Alexey Soshin | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/functional-effect-system-in-kotlin-599f1d8778cc)
 * [From Spring Boot Apps to Functional Kotlin • Nicolas Frankel • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=f6a78mCrSeE)
+* [kotlin-spring-jsr-303-issue](https://github.com/tmdgusya/kotlin-spring-jsr-303-issue)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
 * [코틀린 멀티플랫폼, 미지와의 조우](https://www.slideshare.net/arawnkr/ss-252699629)
