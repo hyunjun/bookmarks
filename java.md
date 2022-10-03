@@ -308,6 +308,9 @@ Java
     * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
     * [입 개발 HikariCP 는 왜 나를 물먹이는가… | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hikaricp-%EB%8A%94-%EC%99%9C-%EB%82%98%EB%A5%BC-%EB%AC%BC%EB%A8%B9%EC%9D%B4%EB%8A%94%EA%B0%80/)
     * [JDBC Connection Pooling Explained with HikariCP | CodersTea](https://www.coderstea.com/post/best-practices/jdbc-connection-pooling-explained-with-hikaricp/)
+    * [HikariCP Dead lock에서 벗어나기 (이론편) | 우아한형제들 기술블로그](https://techblog.woowahan.com/2664/)
+    * [HikariCP Dead lock에서 벗어나기 (실전편)](https://techblog.woowahan.com/2663/)
+    * [데이터베이스 커넥션 풀 (Connection Pool)과 HikariCP](https://hudi.blog/dbcp-and-hikaricp/)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
@@ -1501,6 +1504,8 @@ Java
 * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
 * [ID로 다른 애그리게잇을 참조하라](https://www.popit.kr/id%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87%EC%9D%84-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC)
 * [DDD 값 객체와 마이크로서비스](https://www.popit.kr/ddd-%EA%B0%92-%EA%B0%9D%EC%B2%B4%EC%99%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
+* [DDD Repository Pattern 이란, 이론편](https://wonit.tistory.com/636)
+* [DDD Repository Pattern - 실전편 (Spring 에서 DIP 를 통해 Repository 의 선언과 구현 분리시키기)](https://wonit.tistory.com/637)
 * [우아한형제들 JPA 강의 소감과 적용 사례](http://woowabros.github.io/woowabros/2018/12/29/woowahan-jpa1.html)
 * Legacy DB의 JPA Entity Mapping
   * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
