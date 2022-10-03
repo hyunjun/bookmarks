@@ -1136,3 +1136,5 @@ Book
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
 * (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
+* (NOT YET) [제물포구락부의 서재 - <로마시티> (이상록, 책과 함께) : 제물포 구락부](https://jemulpoclub.com/Notice/?idx=9420341&bmode=view)
+  * 한라 922-이52ㄹ 우당 문922-이51ㄹ
