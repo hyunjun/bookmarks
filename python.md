@@ -12,6 +12,8 @@ Python
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
+* [pycrumbs: Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
+* [pythonidae: Curated decibans of scientific programming resources in Python](https://github.com/svaksha/pythonidae)
 * [**A Curated List of 57 Amazing GitHub Repositories for Every Python Developer | by Angelica Dietzel | Better Programming | Nov, 2020 | Medium**](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)
 * [**The best of Python: a collection of my favorite articles from 2017 and 2018 (so far)**](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
@@ -4984,6 +4986,14 @@ Python
 * [A/B Testing for Data Science ( Python and R) | June 30th, 2021](https://ugong2san.tistory.com/4555)
   * [ABTest at main · diligejy/Growth](https://github.com/diligejy/Growth/tree/main/ABTest)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
+* behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
+  * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
+
+    ```
+    pip install junit2html
+    behave code_examples/chapter22/features/ --junit
+    junit2html <filename>
+    ```
 * [Coverage.py — a tool for measuring code coverage of Python programs](https://coverage.readthedocs.io/)
   * [Ned Batchelder: Blog: #coverage](https://nedbatchelder.com/blog/tag/coverage.html)
   * [Test Everything Easily in Python | Python in Plain English](https://python.plainenglish.io/test-everything-easily-in-python-8d98c7b0c135)
