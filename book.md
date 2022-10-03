@@ -345,6 +345,7 @@ Book
 * (NOT YET) 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
 * (NOT YET) [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
+  * 탐라
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
