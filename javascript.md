@@ -4180,6 +4180,7 @@ Javascript
     * createContext 함수로 값을 선언하고 자식 컴포넌트에서 이 값에 접근하는 방법 설명
     * 이를 이용해서 상태관리를 하거나 최적화를 위해 여러 Context를 사용하는 등 다양한 Context API의 사용법을 예제코드로 설명
   * [React의 Context사용하기](https://tech.youha.info/6d6ce954-625a-4083-93b4-d35139e775d7)
+  * [React Context | Univdev](https://www.univdev.page/posts/react-context-introduction/)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -4737,6 +4738,7 @@ Javascript
 * [1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드](https://jojoldu.tistory.com/674)
 * [2. 테스트하기 좋은 코드 - 제어할 수 없는 코드 개선](https://jojoldu.tistory.com/676)
 * [3. 테스트하기 좋은 코드 - 외부에 의존하는 코드 개선](https://jojoldu.tistory.com/680)
+* [4. 테스트하기 좋은 코드 - 검증이 필요한 비공개 함수](https://jojoldu.tistory.com/681)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
   * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
