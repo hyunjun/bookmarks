@@ -1308,6 +1308,7 @@ AWS
 * [serverless 배포하기 (5) 최소한의 설정파일로 타입스크립트 함수 배포하기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-5-zero-configuration/)
 * [AWS Lambda에 Next.js 배포하기](https://velog.io/@grotesq/AWS-Lambda%EC%97%90-Next.js-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [How to Build AWS Lambdas with TypeScript | AppSignal Blog](https://blog.appsignal.com/2022/09/21/how-to-build-aws-lambdas-with-typescript)
+* [Nodejs Puppeteer Tutorial #14 - AWS Lambda Deployment - YouTube](https://www.youtube.com/watch?v=ch6qKgkYbgM)
 
 ## Lambda Kotlin
 * [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
