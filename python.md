@@ -4994,8 +4994,9 @@ Python
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
-  * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
   * [Mutation Testing with Python. Test the tests — automatically, by… | by Martin Thoma | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8)
+  * [mutmut - python mutation tester — mutmut documentation](https://mutmut.readthedocs.io/)
+    * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 * property based testing
   * [Property-based Testing from Scratch (in Python)](https://medium.com/russell-duhon/property-based-testing-from-scratch-in-python-bb1a8b56daf6)
   * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
