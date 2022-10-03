@@ -2804,12 +2804,17 @@ Programming Books
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
 * (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
   * 탐라
+  * [Expert-Python-Programming-Fourth-Edition: Expert Python Programming, Fourth Edition published by Packt](https://github.com/moseskim/Expert-Python-Programming-Fourth-Edition)
+  * [9781801071109_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801071109_ColorImages.pdf)
 * (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
   * 탐라
+  * [Python-Object-Oriented-Programming---4th-edition: Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
+  * [9781801077262_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801077262_ColorImages.pdf)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
 * (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
   * 탐라
+  * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
 * (NOT YET) [마케터의 파이썬 - 코딩의 C도 모르는 우리들을 위한 맞춤 프로그래밍 가이드 :: e비즈북스](https://ebizbooks.tistory.com/1400)
   * 한라 005.133-정97ㅁ 탐라 문005.133-정98ㅁ 우당 문005.133-정98ㅁ
 * (NOT YET) [파이썬을 활용한 지리공간 분석 마스터하기 | 에이콘출판사](http://acornpub.co.kr/book/geospatial-python)
