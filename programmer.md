@@ -168,6 +168,8 @@ Programmer
 * [Developer Imposter Syndrome. Imposter Syndrome을 겪고 계신 많은 분께 이 글이… | by Whatsup | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8)
   * [Developer Imposter Syndrome | GeekNews](https://news.hada.io/topic?id=7258)
 * [Build Your Career on Dirty Work | Stay SaaSy](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
+* [5 Signs That You're a Great Developer | JavaScript in Plain English](https://javascript.plainenglish.io/5-signs-that-youre-a-great-developer-1209f432be76)
+  * [당신이 훌륭한 개발자라는 5가지 증거](https://www.facebook.com/youngwook.kim.7549/posts/pfbid05y81CETwuFeF3gNMreAiGQ7RFp8x99vzFJjctk4GfLGxeHvfzWVmPKb4pJBqTiYsl)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
