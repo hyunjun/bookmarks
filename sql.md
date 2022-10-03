@@ -1261,6 +1261,10 @@ SQL
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [IceFireDB SQLite database - a decentralized SQLite database](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite)
+* LiteFS [Introducing LiteFS · Fly](https://fly.io/blog/introducing-litefs/)
+  * fly.io에서 Litestream의 아이디어를 확장한 LiteFS 공개
+  * Litestream이 SQLite WAL 파일을 복사한다면 LiteFS는 각 트랜잭션을 검사하고 전달하는 역할
+  * 이를 위해서 FUSE를 선택해서 앱과 데이터베이스 파일 사이에 파일 시스템 프락시 같은 걸 넣어서 트랜잭션을 리플리카에 복사 가능
 * [Litestream - Streaming SQLite Replication](https://litestream.io/)
   * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
   * [Litestream - SQLite 스트리밍 복제 도구 | GeekNews](https://news.hada.io/topic?id=6438)
