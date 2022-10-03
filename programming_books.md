@@ -1058,6 +1058,7 @@ Programming Books
   * [번역서 "딥러닝을 위한 수학" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/384)
 * (NOT YET) [실무자를 위한 딥러닝 | 에이콘출판사](http://acornpub.co.kr/book/practical-deep-learning)
 * (NOT YET) [개발자를 위한 머신러닝&딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B9073454247)
+  * [텐서플로를 이용해 머신러닝에 대해 조망해 보는 좋은 시작점](https://blog.naver.com/drvoss/222890051291)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
