@@ -158,6 +158,7 @@ C
 * [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
 * [C’s Biggest Mistake - Digital Mars](https://digitalmars.com/articles/C-biggest-mistake.html)
 * [흔한 C 프로그래밍 오류 4가지, '그리고 5가지 대처법' - CIO Korea](http://www.ciokorea.com/news/167460)
+* [수십 년째 요지부동, 'C 언어'가 왕좌 지키는 이유 - CIO Korea](https://www.ciokorea.com/news/257842)
 * [Étude in C minor](https://zserge.com/posts/etude-in-c/)
 * [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html)
 * [Gtk4-tutorial/Readme.md at main · ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
