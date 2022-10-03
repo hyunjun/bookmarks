@@ -1341,6 +1341,8 @@ Programming Books
 * (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
 * (NOT YET) [데이터 시각화 입문(후지 토시쿠니, 와타나베 료이치 著, 김태현 譯, 2020)](https://jehyunlee.tistory.com/46)
   * 탐라 문325.484-후79ㄷ
+* (NOT YET) [대시보드 설계와 데이터 시각화(스티브 웩슬러, 제프리 섀퍼, 앤디 코트그리브 著, 최윤석 譯, 2018)](https://jehyunlee.tistory.com/48)
+  * 한라 325.152-웩57ㄷ
 
 # Debugging
 
