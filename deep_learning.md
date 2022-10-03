@@ -2262,6 +2262,7 @@ CVPR2016)
 * [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
 * [self-supervised-learning-narratives-1: 거꾸로 읽는 self-supervised learning 파트 1](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
   * [AI 코드 이야기 Deep Adaptive Clustering 코드분석! - YouTube](https://www.youtube.com/watch?v=Yp9GgiBKzts)
+* [**Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace**](https://github.com/NielsRogge/Transformers-Tutorials)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
