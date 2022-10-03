@@ -1065,7 +1065,13 @@ Web
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
   * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
 * Pingora
-  * [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
+  * [How we built Pingora, the proxy that connects Cloudflare to the Internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet)
+    * Cloudflare에서 Nginx를 수년 동안 잘 사용했지만 Cloudflare가 커짐에 따라 한계를 느껴
+      * Rust로 만든 HTTP 프락시 Pingora를 만들어서 하루에 1조 요청을 처리하게 되었고 Nginx 때보다 CPU와 메모리는 이전보다 1/3로 감소
+    * Nginx의 워커 구조에서 각 요청은 하나의 워커로만 처리되므로 CPU 불균형이 발생했고 커넥션 풀이 작업자마다 할당되므로 연결 재사용이 좋지 않았음
+    * 이를 해결하기 위해 Nginx를 포크할지, 다른 프락시로 바꿀지, 프락시를 새로 만들지를 고민하다가 새로 만들기로 결정
+    * Rust를 선택하고 HTTP 라이브러리는 직접 구축하기로 하고 커넥션 풀을 공유하기 위해 멀티 스레딩 선택
+    * Pingora는 TTFB(time-to-first-byte)가 중윗값에서 5ms 줄었고 95 퍼센타일에서 80ms 감소시켰고 새로운 연결도 1/3로 감소
     * [cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 | GeekNews](https://news.hada.io/topic?id=7400)
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
@@ -1638,6 +1644,11 @@ Web
 * [webassembly.sh](https://webassembly.sh/)
 * [WebVM](https://webvm.io/)
   * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
+* [workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd)
+  * [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+    * Cloudflare에서 JavaScript/Wasm 런타임인 workerd의 첫 베타를 오픈소스로 공개
+    * workerd는 Cloudflare Workers와 대부분의 코드를 같이 사용하지만 다른 환경에서도 동작할 수 있도록 설계
+    * workerd는 셀프 호스트 애플리케이션에 사용될 것이고 주로 웹서버가 될 것이며 워커의 로컬 테스트에도 사용 가능
 * [Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6343)
   * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
