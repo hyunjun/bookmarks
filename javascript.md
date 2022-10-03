@@ -2950,6 +2950,7 @@ Javascript
   * [노드.js 대체제에 관심 있다면 주목! ‘디노(Deno)’ 런타임 프로젝트 9선 - CIO Korea](https://www.ciokorea.com/news/242569)
   * [Deno 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1623)
   * [Deno의 Node.js 호환 기능 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1625)
+  * [How to learn Deno as an alternative to Node.js - DEV Community 👩💻👨💻](https://dev.to/bryantson/how-to-learn-deno-as-an-alternative-to-nodejs-4dcg)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
