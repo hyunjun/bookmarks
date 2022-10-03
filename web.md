@@ -721,6 +721,7 @@ Web
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
+* [Keyframes.app](https://keyframes.app/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
