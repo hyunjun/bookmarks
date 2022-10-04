@@ -3652,6 +3652,7 @@ Programming
   * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
   * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
   * [Why should I have written ZeroMQ in C, not C++ (part I)](http://250bpm.com/blog:4)
+* [zsmq: 📬Zola (Extremely) Simple Message Queue for spring, It is the simplest Message Queue you've ever experienced](https://github.com/dhslrl321/zsmq)
 * Zuul 2
   * [Open Sourcing Zuul 2. The latest version of Netflix's Cloud… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
