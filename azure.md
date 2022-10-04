@@ -144,6 +144,7 @@ Azure
 * [It's tough being an Azure fan – Alex Hudson](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/)
 * [OpenAPI 인증 플로우를 이용한 애저 펑션 엔드포인트 접근 권한 관리 | Aliencube](https://blog.aliencube.org/ko/2021/10/06/securing-azure-function-endpoints-via-openapi-auth/)
 * [Microsoft Announces the General Availability of Azure Database for MySQL - Flexible Server](https://www.infoq.com/news/2021/11/azure-db-mysql-flexible-server/)
+* [Azure VM Deployment on Multiple Availability Zone - YouTube](https://www.youtube.com/watch?v=8n0pIW0Egho)
 * [Azure Gateway Load Balancer(GWLB)](https://zigispace.net/1147)
 * [더 단순해진 쿠버네티스··· MS '애저 컨테이너 앱스' 살펴보기 - CIO Korea](https://www.ciokorea.com/news/214574) Azure Container Apps ACA
 * [Azure - VirtualWAN Part 1](https://zigispace.net/1069)
