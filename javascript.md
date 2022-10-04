@@ -2018,6 +2018,7 @@ Javascript
   * [내가 쓰는 Nuxt3 ESLint 설정 | Univdev](https://www.univdev.page/posts/nuxt3-eslint/)
   * [Gatsby vs. Next vs. Nuxt: Best JavaScript Framework for Server-side Rendering](https://morioh.com/p/fdc22ed3d90b)
   * [Building a Full Stack Social Media App with Nuxt 3, TailwindCSS and Prisma](https://morioh.com/p/31770a67dcad)
+  * [How to use Cloudinary Images with Nuxt 3 - DEV Community 👩💻👨💻](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
