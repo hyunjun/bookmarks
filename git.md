@@ -279,6 +279,7 @@ Git
   * [GitHub Sponsors가 국내에 열렸습니다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1609)
 * [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI - DEV Community 👩💻👨💻](https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5)
 * [10년차도 실수하는 Git의 화살표 방향. 프로그래밍에 발을 들이고 조금 지나면 프로그래밍 언어만큼이나 뇌를… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/10%EB%85%84%EC%B0%A8%EB%8F%84-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-git%EC%9D%98-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B0%A9%ED%96%A5-1d8cd7949d36)
+* [만화로 보는 GIT 탄생 이야기 | GeekNews](https://news.hada.io/topic?id=7529)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
