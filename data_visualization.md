@@ -106,6 +106,7 @@ Data Visualization
 * [선거철 모르면 곤란한 데이터 시각화, 카토그램 - 뉴스젤리 : 데이터 시각화 전문 기업](https://newsjel.ly/archives/newsjelly-report/visualization-report/14212)
 * [Compound pejoratives on Reddit – from 'buttface' to 'wankpuffin'](https://colinmorris.github.io/blog/compound-curse-words)
 * [데이터 시각화 종류 고르기 - 모두의연구소](https://modulabs.co.kr/blog/data-visualization/)
+* [데이터 스토리텔링 연습! Day 23](https://brunch.co.kr/@gkicarus/220)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
