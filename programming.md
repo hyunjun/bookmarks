@@ -163,6 +163,7 @@ Programming
 * [watchpeoplecode.com](http://www.watchpeoplecode.com/)
 * [Devhints — TL;DR for developer documentation](https://devhints.io/) 각 app별 cheatsheet 모음
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
+* Cheatography.com [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/) 치트 시트를 쉽게 만들고 공유하는 사이트
 * [cheat sheets](http://www.cheat-sheets.org/)
 * [devdocs.io](https://devdocs.io/)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -3806,6 +3807,7 @@ Programming
   * [월간 개발자스럽다 #80 - 개발자스럽다](https://blog.gaerae.com/2022/06/monthly.html)
   * [월간 개발자스럽다 #81 - 개발자스럽다](https://blog.gaerae.com/2022/07/monthly.html)
   * [월간 개발자스럽다 #82 - 개발자스럽다](https://blog.gaerae.com/2022/08/monthly.html)
+  * [월간 개발자스럽다 #83 - 개발자스럽다](https://blog.gaerae.com/2022/09/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
@@ -4873,7 +4875,9 @@ Programming
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
 * [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [쏘카 QA는 무슨 일을 하고 어떻게 일하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
-* [QA가 Shift-left와 Shift-right 접근 방법을 통해 더 나은 품질을 확보하는 방법](https://engineering.linecorp.com/ko/blog/quality-advocator-shift-left-shift-right)
+* [QA가 Shift-left와 Shift-right 접근 방법을 통해 더 나은 품질을 확보하는 방법](https://engineering.linecorp.com/ko/blog/quality-advocator-shift-left-shift-right/)
+  * QA가 'Quality Assurance'에서 'Quality Assistance', 'Quality Advocator'로 변화하게 된 과정
+  * 'Shift-left'와 'Shift-right' 접근 방법을 통해 어떻게 더 나은 품질을 확보할 수 있는지 공유
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
