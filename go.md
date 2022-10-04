@@ -856,6 +856,7 @@ Go
 * [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Redo - the ultimate tool to create reusable functions from your history in an interactive way](https://github.com/barthr/redo)
+* [ricecake: The lightweight framework for building CLI applications in Go. Zero dependencies](https://github.com/burntcarrot/ricecake)
 * [trdsql: CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats](https://github.com/noborus/trdsql)
   * [trdsql - CSV/JSON 등에 SQL로 쿼리하는 CLI도구 | GeekNews](https://news.hada.io/topic?id=6533)
 
