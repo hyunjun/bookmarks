@@ -230,7 +230,11 @@ Data Science
 * [Common Probability Distributions: The Data Scientist’s Crib Sheet](http://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet)
 * [dataplatforms.com](https://www.dataplatforms.com/)
 * [빅데이터 파라독스](http://jaekwangkim.com/articles/2017-02/Big-Data-Paradox) 표본수가 클수록 정확할 거 같지만, 선택편향이 있는 경우 실제 정확도는 400명의 확률표본으로 조사한 것과 마찬가지
-* [How to start a Data Science project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
+* [**How to Start a Data Science Project in Python**](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
+  * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
+  * Anaconda의 Conda를 활용해 분리된 환경 설정
+  * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
+* [50 Best Data Science Project Ideas You Must Know in 2022](https://www.mltut.com/best-data-science-project-ideas/)
 * [이야기 12. 당신은 데이터 문맹(Data Illiterate) 인가?](https://smartdigitalearning.com/2017/03/12/%EC%9D%B4%EC%95%BC%EA%B8%B0-12-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EB%A7%B9data-illiteracy-%EC%9D%B8%EA%B0%80/)
 * [Q&A with leading Data Scientists](https://www.linkedin.com/pulse/qa-leading-data-scientists-roberto-v-zicari)
 * [수많은 데이터 사이언티스트들이 직장을 떠나는 이유는 무엇인가?](https://github.com/youngwoos/etc/blob/master/Here%E2%80%99s%20why%20so%20many%20data%20scientists%20are%20leaving%20their%20jobs.md)
@@ -241,11 +245,6 @@ Data Science
 * [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [Data Science Bowl 2017, Predicting Lung Cancer: Solution Write-up, Team Deep Breath](http://blog.kaggle.com/2017/05/16/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath/)
-* [**How to Start a Data Science Project in Python**](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
-  * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
-  * Anaconda의 Conda를 활용해 분리된 환경 설정
-  * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
-* [50 Best Data Science Project Ideas You Must Know in 2022](https://www.mltut.com/best-data-science-project-ideas/)
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
@@ -681,6 +680,7 @@ Data Science
 * [Refactoring A Data Science Project Part 1 - Abstraction and Composition - YouTube](https://www.youtube.com/watch?v=ka70COItN40)
 * [Refactoring A Data Science Project Part 2 - The Information Expert - YouTube](https://www.youtube.com/watch?v=Tx4AxbQNv3U)
 * [Refactoring A Data Science Project Part 3 - Configuration Cleanup - YouTube](https://www.youtube.com/watch?v=8fFqakxhW84)
+* [Ian Ozsvald - Building Successful Data Science Projects | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=X7E916dfHuE)
 * [날씨마루 파이썬 날씨 데이터 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqSAjjlx91-tLY-5HPrSpFH)
 * [Sebastiaan J. van Zelst: Process Mining in Python | PyData Eindhoven 2019](https://ugong2san.tistory.com/4591)
 
