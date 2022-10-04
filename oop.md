@@ -304,6 +304,7 @@
 * [A guide to prototype-based class inheritance in JavaScript](https://medium.freecodecamp.org/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0)
 * [How to build reliable objects with factory functions in JavaScript](https://medium.freecodecamp.org/how-to-build-reliable-objects-with-factory-functions-in-javascript-9ec1c089ea6f)
 * [추상 팩토리 패턴 Abstract Factory Pattern](https://dev-momo.tistory.com/entry/%EC%B6%94%EC%83%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4-Abstract-Factory-Pattern)
+* [Abstract Factory pattern in TypeScript - DEV Community 👩💻👨💻](https://dev.to/jmalvarez/abstract-factory-pattern-in-typescript-6c8)
 * [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 * [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
 * [Object Creation Patterns in JavaScript](https://medium.com/developers-arena/object-creation-patterns-in-javascript-8922d52fad2c)
