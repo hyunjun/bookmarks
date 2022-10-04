@@ -3903,6 +3903,7 @@ Javascript
 * [React 이벤트와 브라우저 이벤트 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220908-react-event-and-browser-event/)
 * [Declarative React, and Inversion of Control :: Normal Coder](https://yeoulcoding.me/325)
 * [5 Tips To Scale Up Your React Apps | JavaScript in Plain English](https://javascript.plainenglish.io/5-tips-to-scale-up-your-react-apps-8fb68319062e)
+* [Designing & Implementing Access Control in React | by Lakindu Hewawasam | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/designing-implementing-access-control-in-react-34eb8bc67511)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
