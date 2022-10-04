@@ -3674,6 +3674,7 @@ Javascript
 * [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
 * [Build a Facebook Clone with React and Firebase](https://morioh.com/p/9fe6b56e50f5)
+* [How To Build A Facebook Clone Using React JS? | React JS Projects for Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=movArJHov-A)
 * [Javascript(React)로 이미지 파일 용량 줄이기](https://www.popit.kr/react-%EC%9B%B9%EC%97%90%EC%84%9C-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
 * [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)
 * [Delayed rendering of React Components](https://medium.com/trabe/delayed-render-of-react-components-3482f8ad48ad)
