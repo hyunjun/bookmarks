@@ -676,6 +676,11 @@ Book
 * [“친일파 열전” 박시백 글·그림 / 민족문제연구소 기획 | 민족문제연구소](https://www.minjok.or.kr/archives/122172)
   * ★★★☆☆ 2022.09.17~18 수없이 많은 친일파들과 그 이후의 현실을 보면 유신론자가 될 수가 없다
   * 탐라 문911.06-민75ㅊ 우당 문911.06-박59ㅊ
+* [인류본사](https://www.humanistbooks.com/f851f429-8c58-40f6-bac8-ec7928a35fbf)
+  * ★★★★☆ 2022.09.27~29
+  * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사](https://github.com/hyunjun/bookmarks/blob/master/books/human_history.md)
+  * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EB%A5%98%EB%B3%B8%EC%82%AC-%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8-%EC%A4%91%EB%8F%99%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B3%B8-1%EB%A7%8C-2-000%EB%85%84-%EC%9D%B8%EB%A5%98%EC%82%AC-ff698117fe43)
+  * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사](https://jh4hj.tistory.com/entry/%EC%9D%B8%EB%A5%98%EB%B3%B8%EC%82%AC-%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8-%EC%A4%91%EB%8F%99%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B3%B8-1%EB%A7%8C-2000%EB%85%84-%EC%9D%B8%EB%A5%98%EC%82%AC)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -706,7 +711,6 @@ Book
 * (NOT YET) [세금의 세계사](https://hanbit.co.kr/biz/books/book_view.html?p_code=B2277305433)
 * (NOT YET) [실크로드 세계사](https://blog.naver.com/tosoha1/221312861797)
   * [실크로드 세계사 - 고대 제국에서 G2 시대까지 : 네이버 블로그](https://blog.naver.com/taejj5115/221077379918)
-* (NOT YET) [인류본사](https://www.humanistbooks.com/f851f429-8c58-40f6-bac8-ec7928a35fbf)
 * (NOT YET) [처음 읽는 술의 세계사](https://brunch.co.kr/@roadkeeper/64)
 * (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
