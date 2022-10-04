@@ -2844,6 +2844,7 @@ Javascript
 * [Node JS Tutorial - 6 - Best way to handle Async functions | Learn Web Development - YouTube](https://www.youtube.com/watch?v=mliu_aT64v0)
 * [Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1 - Dor Moshe's Blog](https://dormoshe.io/trending-news/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841-54730)
 * [How to Using Multiple Database in Nodejs](https://morioh.com/p/54b361988798)
+* [Don’t worry, Nobody is Replacing Node, not Even Bun and Even less Deno | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
