@@ -602,6 +602,8 @@ Business
 * [인정받고자 하는 욕구를 배반하는 5가지 태도 - Wonderful Mind](https://wonderfulmind.co.kr/5-attitudes-betray-need-for-approval/)
 * [일의 매듭 짓기: 개발자의 ABC · Soojin Ro](https://soojin.ro/blog/abc-of-devs) Always Be Closing
 * [당신이 궁금해하는 ‘IT 아웃소싱 개발 생태계’ | 요즘IT](https://yozm.wishket.com/magazine/detail/1612/)
+* [아웃소싱 전문가가 밝히는: ① 요구사항 정의서 작성법 A to Z | 요즘IT](https://yozm.wishket.com/magazine/detail/1696/)
+* [아웃소싱 전문가가 밝히는: ② 소프트웨어 개발 견적, 왜 천차만별일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1731/)
 * [사분면 혹은 매트릭스 활용하기](https://brunch.co.kr/@graypool/528) 분석의 4분면, 고객 여정 매트릭스, 아이젠하워 매트릭스, 콘텐츠 마케팅 매트릭스
 * ['Chief of Staff'(CoS)라는 포지션을 아시나요?](https://eopla.net/magazines/85)
 * [집단사고(group think) vs. 집단지성(collective intelligence)](https://www.linkedin.com/feed/update/urn:li:activity:6967499027290419200/)
