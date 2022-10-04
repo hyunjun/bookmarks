@@ -174,7 +174,7 @@ Redis
   * [**패턴으로 TTL 적용하기**](https://jojoldu.tistory.com/349) scan으로 pattern match되는 key를 찾아 expire 적용하는 script
   * [Redis keys 대신 scan 이용하기](https://tjdrnr05571.tistory.com/11)
 * `ZSET`
-  * [팔로우 기능 개발 노트 - Feed | Disquiet\*](https://disquiet.io/@jeong7331/makerlog/1503)
+  * [팔로우 기능 개발 노트 - Feed | Disquiet\*](https://disquiet.io/@jeong7331/makerlog/1503) Redis Cluster를 운영하면서 나올 수 있는 split-brain problem 문제를 AWS ElastiCache를 사용하여 해소한 사례
 
 # ElasticCache
 * [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
