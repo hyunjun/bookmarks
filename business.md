@@ -1971,6 +1971,7 @@ Business
 * [구독과 함께 완전히 새로워진 클래스101. 구독 제품을 만들며 설정한 제품 원칙과 그 원칙에 따라 새로워진 제품을… | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/%EA%B5%AC%EB%8F%85%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%99%84%EC%A0%84%ED%9E%88-%EC%83%88%EB%A1%9C%EC%9B%8C%EC%A7%84-%ED%81%B4%EB%9E%98%EC%8A%A4101-b1beb363aa91)
 * [300명이 넘는 조직에서 6개월만에 비즈니스 모델 피봇하기. 전사원이 함께 참여한 구독 BM 전환기 | by Beige | CLASS101 | Sep, 2022 | Medium](https://medium.com/class101/300%EB%AA%85%EC%9D%B4-%EB%84%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-6%EA%B0%9C%EC%9B%94%EB%A7%8C%EC%97%90-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%ED%94%BC%EB%B4%87%ED%95%98%EA%B8%B0-f827e8110a0f)
 * [스타트업 성공을 위한 다섯 가지 조건 (+ 1 추가) : 네이버 블로그](https://m.blog.naver.com/help2000/222888883807)
+* [야곰 테크캐스트 발표 - 여러 규모의 스타트업에서 개발자로 살아남는 방법 - Speaker Deck](https://speakerdeck.com/woongseok/yagom-tekeukaeseuteu-balpyo-yeoreo-gyumoyi-seutateueobeseo-gaebaljaro-salanamneun-bangbeob)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
