@@ -614,6 +614,7 @@ Programming
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
 * [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
 * [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [VR Environments for Collaborative Software Development - YouTube](https://www.youtube.com/watch?v=SBigUZtHlC4)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
