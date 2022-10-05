@@ -331,6 +331,7 @@ Go
 * [How to Generate QR Code In Golang](https://morioh.com/p/a2d4f7ff17d9)
 * [Golang with Examples: Keeping Your Modules Compatible](https://morioh.com/p/b2fdfb1ddba8)
 * [Dynamic Programming in Golang](https://morioh.com/p/6fb8265b7bf5)
+* [나의 10+년 Go 언어 이야기 | Homin Lee's blog](https://homin.dev/blog/post/20221004_my_golang_story_since_10years_ago/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
