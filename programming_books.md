@@ -339,14 +339,15 @@ Programming Books
   * [THE NATURE OF SOFTWARE DEVELOPMENT](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_nature_of_software_development.md)
   * [THE NATURE OF SOFTWARE DEVELOPMENT | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/the-nature-of-software-development-ac34752e0114)
   * [THE NATURE OF SOFTWARE DEVELOPMENT](https://jh4hj.tistory.com/entry/THE-NATURE-OF-SOFTWARE-DEVELOPMENT)
+* [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
+  * ★★★★☆ 2022.10.04~05
+  * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
+  * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
-* (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
-  * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
-  * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
   * 한라 005.1-크198ㅋ 탐라 개005.1-크198ㅋ
