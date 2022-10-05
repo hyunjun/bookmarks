@@ -297,6 +297,7 @@ Nomad & Remote
 * [iOS 개발자 싱가폴 이직기](https://soojin.ro/blog/singapore)
 * [싱가폴 연봉](https://senaland.blog.me/220961828467)
 * [싱가포르 발령 및 취업이 당신 노후의 죽음의 .. : 네이버블로그](https://blog.naver.com/ttkkiiaa/222882991364)
+* [싱가포르에서 IT 사업하기, A부터 Z < 기고 < 오피니언 < 기사본문 - 무역경제신문](https://www.tradetimes.co.kr/news/articleView.html?idxno=11631)
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
 * [Singapore Rising: The Plot to Be the Next Big Tech Hub](http://recode.net/2015/06/16/singapore-rising-the-plot-to-be-the-next-big-tech-hub/)
 * [Cost of Living Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/cost-of-living-calculator.html)
