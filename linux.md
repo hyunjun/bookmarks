@@ -1112,6 +1112,7 @@ Linux
 * [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 * [Linux Kernel 101 for Beginner - YouTube](https://www.youtube.com/watch?v=96T6OCEqZNk)
   * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
+* [Linux 커널 6.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=7525)
 * [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [like-dbg: Fully dockerized Linux kernel debugging environment](https://github.com/0xricksanchez/like-dbg)
 * [parca: Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability](https://github.com/parca-dev/parca)
