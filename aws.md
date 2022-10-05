@@ -466,6 +466,7 @@ AWS
 * [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
+* [홈서버(?)에서 서빙하던 서비스 클라우드 이전 썰 (feat. OPGC, AWS Lightsail) :: Jay's Code Factory](https://jay-ji.tistory.com/116)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
