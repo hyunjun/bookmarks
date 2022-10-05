@@ -307,6 +307,7 @@ Docker
     $ nc -v 127.0.0.1 56379
     info
     ```
+    * [당신이 Docker로 개발환경을 구축해야 하는 이유(Docker로 Postgresql과 Redis 설치하기 예제)](https://velog.io/@couchcoding/%EB%8B%B9%EC%8B%A0%EC%9D%B4-Docker%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0Docker%EB%A1%9C-Postgresql%EA%B3%BC-Redis-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EC%98%88%EC%A0%9C)
   * scala
     * [How to Dockerise a Scala and Akka HTTP Application — the easy way](https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa)
   * [Selenium Grid With Docker. Automation using Selenium WebDriver has… | by Nitin Bhardwaj | Medium](https://medium.com/@nitinbhardwaj6/selenium-grid-with-docker-c8ecb0d8404)
