@@ -1095,6 +1095,7 @@ Business
 * [의사결정을 잘하는 사람의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255881)
 * ['잘못된 비즈니스 결정'이 또 다른 '내부자 위협'이 된 사례 - ITWorld Korea](https://www.itworld.co.kr/news/231314)
 * [의사 결정과 데이터](https://www.facebook.com/keeyong.han/posts/pfbid0RmmCCdrTqqQuSGaTbsJUXQztNFpYSQ9NzNZXQpwpW3KeW26jGKjMzPdZ4AY1WLHrl)
+* [어떤 결정을 내릴 때 '직감'이나 '데이터'를 믿는 건 하수에요](https://www.facebook.com/somewon.yoon/posts/pfbid0UppjvtUM4X315XzZ2zQ14NwiJgcouniQVscetMoKzKh1SZKwjamD8JiFzfHGfHJdl) 의사결정에 프로세스 > 분석
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
