@@ -2708,6 +2708,7 @@ CVPR2016)
     * 공개된 지 얼마 되지 않았지만 벌써 WebUI도 생기고 text-to-image뿐 아니라 image-to-image도 가능
   * [Access Stable Diffusion from Hugging Face with Colab Tutorial | Stable Diffusion Python - YouTube](https://www.youtube.com/watch?v=cxJ_cBuBpUU)
   * [나만의 Stable Diffusion 서비스 배포 | Lomit tech blog](https://dshomin.github.io/bentoml/2022/10/03/Stable-Diffusion-bento.html)
+  * [전세계가 경악중인 최신 AI 사용법 왕초보 실전 가이드 (ft. Stable Diffusion) - YouTube](https://www.youtube.com/watch?v=vVdNmnEb--E)
   * [stable-diffusion-tensorflow: TensorFlow/Keras port of Stable Diffusion](https://github.com/fchollet/stable-diffusion-tensorflow)
     * m1 mac 에서 구동 가능하다(단지 m1용으로 준비된 requirements 만 잘 설치해주면 됨)
     * out-of-the-box 로, 멀티 GPU 추론 및 TPU 추론 수행 가능. 분산 학습 strategy 를 적절하게 컨피그 해주면 됨
