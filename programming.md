@@ -3364,6 +3364,7 @@ Programming
   * 배포 빈도, 변경 리드 타임, 평균 복구 시간, 실패율, 안정성으로 5가지 메트릭으로 응답자를 나누었을 때 중간 그룹이 69%로 많이 증가
     * 낮은 그룹도 7%에서 19%로 증
   * 보고서 전체는 [2022 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
+* [DevOps Bus Technology - YouTube](https://www.youtube.com/channel/UClBlu3bJiq4zn1a3Vdg0LOQ)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
