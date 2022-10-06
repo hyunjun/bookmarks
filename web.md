@@ -1541,6 +1541,7 @@ Web
 * [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
 * [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
 * [여기보기 누구나 아는 기본 계정명은 비밀이 아니다 - 넷마블 기술 블로그](https://netmarble.engineering/avoid-was-console-default-account-and-setting/)
+* [여기보기 WAS 프로세스가 다진 마음은 루트와 헤어질 결심 - 넷마블 기술 블로그](https://netmarble.engineering/managing-was-process-permission-do-not-use-root/)
 
 # WebAssembly
 * [WebAssembly](https://github.com/WebAssembly/)
