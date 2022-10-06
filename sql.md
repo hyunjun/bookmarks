@@ -763,6 +763,7 @@ SQL
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
 * [**장애와 관련된 XtraBackup 적용기**](http://woowabros.github.io/experience/2018/05/28/billingjul.html) mysqldump, mysqlbinlog, XtraBackup
 * [The MySQL Clone Wars: Plugin vs. Percona XtraBackup - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/19/the-mysql-clone-wars-plugin-vs-percona-xtrabackup/)
+* [How to Migrate MySQL to AWS RDS Using mysqldump and DMS | by Phoebe Baek | Cloud Villains | Sep, 2022 | Medium](https://medium.com/@phoebebaek/how-to-migrate-mysql-to-aws-rds-using-dump-and-dms-1db41eb248b7)
 * [Xtrabackup으로 DB 복구하기](https://jojoldu.tistory.com/469)
 
 ## MySQL Library
