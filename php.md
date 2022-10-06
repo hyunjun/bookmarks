@@ -123,6 +123,7 @@ PHP
 * [Roadrunner - Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 * [Slim - a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](https://github.com/slimphp/Slim)
 * [Symfony at a Glance](https://symfony.com/at-a-glance)
+* [uwuify-php: String uwuifying library for PHP](https://github.com/nemo9l/uwuify-php)
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
 * [webrtc-php: WebRTC PHP SSE shared-hosting without websockets](https://github.com/nielsbaloe/webrtc-php)
