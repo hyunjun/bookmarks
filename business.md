@@ -102,6 +102,7 @@ Business
 * [티몬의 기업가치가 떡락한 이유](https://brunch.co.kr/@trendlite/255)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
 * ['3중고' 겪고 있는 토스 해부 - YouTube](https://www.youtube.com/watch?v=ucPqG3E6o9M)
+* [토스가 20조? 기업가치 평가하는 방법 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o)
 * [쏘카 패스트파이브 재무제표 뜯어보기 f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=H_Ia5oHT7nc)
 * [우아한 형제들, 재무재표도 우아할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=1F1VnareJ54)
 * [쏘카는 상장보다 그 이후가 중요합니다](https://brunch.co.kr/@trendlite/256)
