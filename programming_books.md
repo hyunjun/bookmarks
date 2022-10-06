@@ -667,6 +667,7 @@ Programming Books
   * 탐라
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
   * 탐라
+* (NOT YET) [소프트웨어 아키텍처 The Hard Parts](https://www.hanbit.co.kr/store/books/look.php?p_code=B9812407060)
 
 # C
 
