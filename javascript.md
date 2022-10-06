@@ -3908,6 +3908,7 @@ Javascript
 * [Declarative React, and Inversion of Control :: Normal Coder](https://yeoulcoding.me/325)
 * [5 Tips To Scale Up Your React Apps | JavaScript in Plain English](https://javascript.plainenglish.io/5-tips-to-scale-up-your-react-apps-8fb68319062e)
 * [Designing & Implementing Access Control in React | by Lakindu Hewawasam | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/designing-implementing-access-control-in-react-34eb8bc67511)
+* [VirtualScroll을 만들어보자](https://velog.io/@dev-redo/React-VirtualScroll%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
