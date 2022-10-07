@@ -44,6 +44,7 @@ R
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
 * [신경망과 회귀분석 비교하기 (Neural Net vs. Regression)](https://statisticsplaybook.tistory.com/14)
+* [Ordinal Regression as a Model for Signal Detection | R-bloggers](https://www.r-bloggers.com/2022/10/ordinal-regression-as-a-model-for-signal-detection/)
 * [A Semi-Supervised Classification Algorithm using Markov Chain and Random Walk in R](http://www.datasciencecentral.com/profiles/blogs/a-semi-supervised-classification-algorithm-using-markov-chain-and)
 * [Tufte in R](http://motioninsocial.com/tufte/)
 * [Exploring the Demographics of Ferguson, Missouri](http://www.arilamstein.com/blog/2015/07/02/exploring-the-demographics-of-ferguson-missouri/)
