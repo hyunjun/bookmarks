@@ -168,6 +168,7 @@ Artificial Intelligence
 * [2022 AI페스티벌 / 실용 인공지능 학술대회 공개세션 - YouTube](https://www.youtube.com/watch?v=js4Lh2RJ5YM)
 * [우리는 왜 인공지능을 공부해야 하는가 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48070)
 * [이제 사람 없이도 AI가 학습할 수 있는 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022072915407721178)
+* [**The State of AI & Art 2022**](https://velog.io/@laeyoung/The-State-of-AI-Art-2022) 최근의 흐름에 대한 매우 좋은 글. stable diffusion으로 끝남
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
