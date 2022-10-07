@@ -161,6 +161,7 @@ Flutter
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
+* [NAVER Tech Talk: Flutter meetup (2022)](https://d2.naver.com/news/1554376)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
