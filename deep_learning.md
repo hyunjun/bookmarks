@@ -2716,6 +2716,7 @@ CVPR2016)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 # Text to video text2video
+* [Imagen Video](https://imagen.research.google/video/)
 * [Make-A-Video](https://makeavideo.studio/) Meta에서 영어로 문장을 입력하면 비디오로 만들어주는 논문 발표
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Runway - Online Video Editor | Everything you need to edit video, fast](https://runwayml.com/)
