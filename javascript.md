@@ -2847,6 +2847,7 @@ Javascript
 * [How to Using Multiple Database in Nodejs](https://morioh.com/p/54b361988798)
 * [Don’t worry, Nobody is Replacing Node, not Even Bun and Even less Deno | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)
 * [Minimize Heap Allocations in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
+* [The new test framework built-in to Node.js 18.8.0 | by David Herron | Sep, 2022 | ITNEXT](https://itnext.io/the-new-test-framework-built-in-to-node-js-18-8-0-1d78315ac9f9)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2874,6 +2875,7 @@ Javascript
 * [Bun - a fast all-in-one JavaScript runtime](https://bun.sh/)
   * [Node.js is Dead. — Long Live Bun. | by Yannis Burghardt | Jul, 2022 | Medium](https://medium.com/@YNNSme/node-js-is-dead-long-live-bun-3d888eab63d7)
   * [속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개! - YouTube](https://www.youtube.com/watch?v=t9924eteb-4)
+  * [“제 2의 노드JS 노린다” 오픈소스 런타임 환경 ‘번’이란? - ITWorld Korea](https://www.itworld.co.kr/news/258112)
   * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
 * [Calipers: The Fastest Way to Measure Image Dimensions in Node](https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/)
