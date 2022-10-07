@@ -4884,7 +4884,9 @@ Programming
 * [QA가 Shift-left와 Shift-right 접근 방법을 통해 더 나은 품질을 확보하는 방법](https://engineering.linecorp.com/ko/blog/quality-advocator-shift-left-shift-right/)
   * QA가 'Quality Assurance'에서 'Quality Assistance', 'Quality Advocator'로 변화하게 된 과정
   * 'Shift-left'와 'Shift-right' 접근 방법을 통해 어떻게 더 나은 품질을 확보할 수 있는지 공유
+* [가파르게 성장하는 서비스를 담당한, 한 품질담당자의 회고 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9220/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
+* [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
