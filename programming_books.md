@@ -343,6 +343,9 @@ Programming Books
   * ★★★★☆ 2022.10.04~05
   * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
+* [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
+  * ★★★☆☆ 2022.10.06~07
+  * 탐라 문325.211-벤58ㅍ
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
@@ -363,8 +366,6 @@ Programming Books
 * (NOT YET) [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * 탐라 004.78-패838ㅅ
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
-* (NOT YET) [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
-  * 탐라 문325.211-벤58ㅍ
 * (NOT YET) [애자일 팀 코칭](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287259709)
   * 탐라 문325.2-앳829ㅇ
 
