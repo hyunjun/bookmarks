@@ -1415,6 +1415,7 @@ AWS
     * A/B 테스팅을 위한 트래픽 분할
 * [gossm: 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager](https://github.com/gjbae1212/gossm)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
+* [ksmin23 (Sungmin Kim) · GitHub](https://github.com/ksmin23)
 * [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
