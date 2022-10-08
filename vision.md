@@ -316,17 +316,6 @@ Vision
 * [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 * [180525 mobile visionnet_hanlim_extended](https://www.slideshare.net/JaewookKang1/180525-mobile-visionnethanlimextended)
-* [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
-* [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
-* [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
-* [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
-* [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
-* [#42. 사진 속 글자 읽기, OCR (Optical Character Recognition)](http://t-robotics.blogspot.com/2019/02/42-ocr-optical-character-recognition.html)
-* [한국어 OCR 해내기 (With Naver Cloud Platform) 1편: 가뿐하게 OCR API를 만들고 쓰는 법](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-1/)
-* [한국어 OCR 해내기 (With Naver Cloud Platform) 2편: 입맛대로 커스텀한 OCR 만들기](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-2)
-* [CHARACTER REGION AWARENESS FOR TEXT DETECTION](http://hugrypiggykim.com/2019/10/04/character-region-awareness-for-text-detection/) OCR
-* [알도개 RPA와 AI](https://jhrogue.blogspot.com/2021/10/rpa-ai.html) OCR
-* [파이썬으로 사진에서 문자인식하는 AI 쉽게 만들기 - YouTube](https://www.youtube.com/watch?v=L8q-KCbXybc) OCR
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 * Tutorials of Object Detection using Deep Learning
   * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
@@ -532,6 +521,23 @@ Vision
   * yolox
     * [202107 CVPR YOLOX Paper review!! - YouTube](https://www.youtube.com/watch?v=N2rLSzEqqI8)
     * [Deploying Custom YOLOX on the Cloud and Building a Visual Search Engine off the Deployed Model - YouTube](https://www.youtube.com/playlist?list=PL2L83ZcMO-5PZN8Ixp5y4wi6atPwbreVl)
+
+# OCR
+* [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
+* [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
+* [#42. 사진 속 글자 읽기, OCR (Optical Character Recognition)](http://t-robotics.blogspot.com/2019/02/42-ocr-optical-character-recognition.html)
+* [한국어 OCR 해내기 (With Naver Cloud Platform) 1편: 가뿐하게 OCR API를 만들고 쓰는 법](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-1/)
+* [한국어 OCR 해내기 (With Naver Cloud Platform) 2편: 입맛대로 커스텀한 OCR 만들기](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-2)
+* [CHARACTER REGION AWARENESS FOR TEXT DETECTION](http://hugrypiggykim.com/2019/10/04/character-region-awareness-for-text-detection/)
+* [알도개 RPA와 AI](https://jhrogue.blogspot.com/2021/10/rpa-ai.html)
+* [파이썬으로 사진에서 문자인식하는 AI 쉽게 만들기 - YouTube](https://www.youtube.com/watch?v=L8q-KCbXybc)
+* [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
+  * [master-easy-ocr-wook-2.endpoint.ainize.ai](https://master-easy-ocr-wook-2.endpoint.ainize.ai)
+  * `curl -X POST "https://master-easy-ocr-wook-2.endpoint.ainize.ai/word_extraction" -H "accept: images/*" -H "Content-Type: multipart/form-data" -F "language=ko" -F "base_image=@<file name>.jpg;type=image/jpeg"` .jpg file이 있는 directory에서 실행
+* [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
+* [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
+* [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
@@ -796,9 +802,6 @@ Vision
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
-* [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
-  * [master-easy-ocr-wook-2.endpoint.ainize.ai](https://master-easy-ocr-wook-2.endpoint.ainize.ai)
-  * `curl -X POST "https://master-easy-ocr-wook-2.endpoint.ainize.ai/word_extraction" -H "accept: images/*" -H "Content-Type: multipart/form-data" -F "language=ko" -F "base_image=@<file name>.jpg;type=image/jpeg"` .jpg file이 있는 directory에서 실행
 * [efficientdet · google/automl](https://github.com/google/automl/tree/master/efficientdet)
   * [Decoding: State Of The Art Object Detection | by Kb Pachauri | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/decoding-state-of-the-art-object-detection-99f79d97b75d)
 * [evanet - Evolving Space-Time Neural Architectures for Videos](https://github.com/google-research/google-research/tree/master/evanet)
