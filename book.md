@@ -336,7 +336,7 @@ Book
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
 * (NOT YET) [C레벨의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300705957)
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
-  * 우당
+  * 우당 문331.5412-윈833ㅅ
 * (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
@@ -486,9 +486,10 @@ Book
 # Economy
 * [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
   * 2014.10.10
+* [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
+  * ★★★★☆ 2022.10.08
+  * 우당 문320.1-신69ㅎ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
-* (NOT YET) [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
-  * 우당
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
