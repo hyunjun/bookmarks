@@ -1331,6 +1331,9 @@ Programming Books
   * [핸즈온 데이터 시각화 Hands-On Data Visualization | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-hands-on-data-visualization-a39e54f8de39)
   * [핸즈온 데이터 시각화 Hands-On Data Visualization](https://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-Hands-On-Data-Visualization)
   * [핸즈온 데이터 시각화(잭 도허티, 일리야 일라얀코우 著, 김태헌 譯, 2022)](https://jehyunlee.tistory.com/47)
+* [데이터로 전문가처럼 말하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B5424596013)
+  * ★★★☆☆ 2022.10.08
+  * 우당 문005.75-올819ㄷ
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술](https://blog.insightbook.co.kr/2019/05/02/%E3%80%8A%EC%A7%84%EC%8B%A4%EC%9D%84-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%98%88%EC%88%A0%E3%80%8B/)
   * 한라 004.76-카68ㅈ
   * [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
@@ -1339,8 +1342,6 @@ Programming Books
   * [Data Visualization](https://socviz.co/)
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [데이터가 한눈에 보이는 시각화: 데이터 시각화 기초부터 분석 사례, 다양한 차트 유형까지 알아보는](https://wikibook.co.kr/dataviz/)
-* (NOT YET) [데이터로 전문가처럼 말하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B5424596013)
-  * 우당
 * (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
 * (NOT YET) [데이터 시각화 입문(후지 토시쿠니, 와타나베 료이치 著, 김태현 譯, 2020)](https://jehyunlee.tistory.com/46)
   * 탐라 문325.484-후79ㄷ
@@ -1746,8 +1747,12 @@ Programming Books
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
 * (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
 * (NOT YET) [266가지 문제로 정복하는 코딩 인터뷰 in C++ · TheoryDB](https://theorydb.github.io/review/2021/10/30/review-book-cpp-algorithm-266/)
+  * 우당 문005.133-아79ㅋ
 * (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
-  * 우당
+  * 우당 문005.138-레65ㅈ
+  * [java-coding-interview: 동양북스 『자바 코딩 인터뷰 완벽 가이드』 예제 저장소](https://github.com/dybooksIT/java-coding-interview)
+  * [9781839212062_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781839212062_ColorImages.pdf)
+  * [The-Complete-Coding-Interview-Guide-in-Java: The Complete Coding Interview Guide in Java, published by Packt](https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java)
 * (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
 * (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
   * 우당
