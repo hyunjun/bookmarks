@@ -490,6 +490,18 @@ Book
   * ★★★★☆ 2022.10.08
   * 우당 문320.1-신69ㅎ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
+* (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
+  * 한라 321.89-탈294ㄴ 탐라 문L독321.89-탈294ㄴ 우당 문321.89-탈233ㄴ
+* (NOT YET) [똑똑한 사람들의 멍청한 선택(Misbehaving)](https://blog.naver.com/int9708/220719201529)
+  * 한라 321.89-탈294ㄸ 탐라 문321.89-리83ㄸ 우당 이321.89-탈233ㄸ
+* (NOT YET) [생각에 관한 생각](https://brunch.co.kr/@truese/9)
+  * 한라 320.4-카194새 탐라 문181.3-카213ㅅ 우당 이181.3-카213ㅅ
+* (NOT YET) [야성적 충동 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/naraView.do?cidx=6831)
+  * 한라 320.73-애874ㅇ 탐라 개320.904-조78ㅇ 우당 문320.73-애823ㅇ
+* (NOT YET) [비이성적 과열 (로버트 쉴러, 2014) : 네이버 블로그](https://blog.naver.com/yeojh1/221082801309)
+  * 한라 327.85-쉴294ㅂ
+* (NOT YET) [버블 경제학](https://joohyeon.com/74)
+  * 한라 327.9-쉴294ㅂ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
