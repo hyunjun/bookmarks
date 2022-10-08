@@ -4820,6 +4820,7 @@ Python
   * [Beyond Pandas: Spark, Dask, Vaex and other big data technologies battling head to head | by Jonathan Alexander | Towards Data Science](https://towardsdatascience.com/beyond-pandas-spark-dask-vaex-and-other-big-data-technologies-battling-head-to-head-a453a1f8cc13)
   * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
   * [Uncluster Your Data Science Using Vaex • Maarten Breddels & Jovan Veljanoski • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ykxhj9xJdWY)
+  * [Juan Luis Cano Rodríguez - Beyond Pandas: The Great Python Dataframe Showdown | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=GvYeBHNGlvM)
 
 # Parser
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
