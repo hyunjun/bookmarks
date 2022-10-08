@@ -4550,6 +4550,7 @@ Programming
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [The Road to Intelligent Process Automation - Gradient Flow](https://gradientflow.com/the-road-to-intelligent-process-automation/)
 * [Low-Code Platforms and the Rise of the Community Developer: Lots of Solutions, or Lots of Problems?](https://www.infoq.com/articles/low-code-community-developer/)
+* [Will Low Code/No Code Kill Programming Jobs? • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=iD2GOvfJy28)
 * [소프트웨어 설계자가 로우코드를 도입해야 하는 이유 5가지 - ITWorld Korea](https://www.itworld.co.kr/mainnews/226744)
 * [노코드로 사업 검증하기](https://brunch.co.kr/@byungjunjang/20)
 * [칼럼ㅣRPA 1.0이 ‘원 트릭 포니’였던 이유 - CIO Korea](https://www.ciokorea.com/news/228104)
