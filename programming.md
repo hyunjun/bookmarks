@@ -800,6 +800,7 @@ Programming
   * 스크럼이 경영진에 더 적합하게 만들어져서 민첩하지 않다고 하고 있고, 추정은 어렵기 때문에 추정하지 않는 게 오히려 더 좋고, 깊은 이해 없이 스프린트란 형식만 취하는 것을 문제라고 지적
   * 문제가 생기면 2주 뒤 스프린트가 아니고 바로 말해야 한다, Allen이 "행복하지 않다면 제대로 하는 것이 아니다"
 * [‘짝퉁 애자일 기업’이 자신을 속이는 말 7가지 - CIO Korea](https://www.ciokorea.com/news/255064)
+* [스크럼이 개발자를 괴롭히는 9가지 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1728/)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
