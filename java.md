@@ -430,6 +430,7 @@ Java
   * [LINE 개발자들이 Spring 대신 Armeria를 사용하는 이유](https://engineering.linecorp.com/ko/blog/hello-armeria-bye-spring) Spring으로 작성된 레거시 애플리케이션을 Armeria로 마이그레이션 하면서 얻었던 인사이트 + 성능 향상
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1) C, multiprocess, multithread, multiplex
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 2부 - Java NIO와 멀티플렉싱 기반의 다중 접속 서버**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part2)
+  * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
@@ -1729,6 +1730,7 @@ Java
 * [Spring 개념 정리](https://velog.io/@betterfuture4/Spring-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 * [Spring - ActiveProfilesResolver를 이용하여 Test 코드 실행 시 Spring Profile을 동적으로 주입하기](https://kim-jong-hyun.tistory.com/134)
 * [셀렉트샵에서 예약하기 서비스 개발기. 기존 서비스의 한계 안에서 예약하기 서비스를 개발하며 겪은 해결방법과… | by chrisjune | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EC%85%80%EB%A0%89%ED%8A%B8%EC%83%B5%EC%97%90%EC%84%9C-%EC%98%88%EC%95%BD%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-f7578ffcfbf7)
+* [**Spring WebClient에서 새어나가는 메모리 잡기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html) OpenTelemetry
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
