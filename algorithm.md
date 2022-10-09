@@ -577,6 +577,7 @@ Algorithm
 * [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
 * [MinHash란? - 완두블로그](https://wani.kr/posts/2016/11/24/minhash/)
+* [MurmurHash - Wikipedia](https://en.wikipedia.org/wiki/MurmurHash)
 * [neuralhash-collisions: A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 
 ## Hash Consistent Hashing
