@@ -635,6 +635,7 @@ Web
   * [Building a python bot to fill out online forms - Check this thing out](https://checkthisthingout.com/building-a-python-bot-to-fill-out-forms/)
   * [Python Selenium Tutorial - YouTube](https://www.youtube.com/playlist?list=PLuJJZ-W1NwdoTS0UXLUZoPH7GQ0kURHgH)
   * [Introduction to Web App Reporting API | by Bhagya Vithana | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-web-app-reporting-api-3c4cf6be839a)
+  * [Top 8 Web Scraping Tips Every Beginner Should Know - YouTube](https://www.youtube.com/watch?v=JjQ5hXhxWMU)
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
   * [selenium-python-helium: Selenium-python but lighter: Helium is the best Python library for web automation](https://github.com/mherrmann/selenium-python-helium)
