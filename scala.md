@@ -21,6 +21,7 @@ Scala
   * [Episode #112: Abstracting Stateful Serverless with Jonas Bonér - Serverless Chats Podcast](https://www.serverlesschats.com/112/)
   * [Happy Path Programming • Anchor 팟캐스트](https://anchor.fm/happypathprogramming/)
   * [Tooling Talks - Scaladoc from Scratch](https://www.tooling-talks.com/episode-15)
+  * [Tooling Talks - The Scala Improvement Process (SIP)](https://www.tooling-talks.com/episode-16)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -750,6 +751,9 @@ Scala
   * [practice - Try vs. Either](https://gist.github.com/hyunjun/a3969336a5b8032260ba19efc74136c7#file-either_try-md)
     * [Try Either 비교](https://lascala.slack.com/archives/C11CB042G/p1608585060008900)
   * [Scala's Either, Try and the M word - Maurício Linhares' ramblings](https://mauricio.github.io/2014/02/17/scala-either-try-and-the-m-word.html)
+* Exception
+  * [On Bifunctor IO and Java's Checked Exceptions - Alexandru Nedelcu](https://alexn.org/blog/2018/05/06/bifunctor-io/)
+  * [The Trouble with Checked Exceptions: Part 2 - Alexandru Nedelcu](https://alexn.org/blog/2022/09/28/the-trouble-with-checked-exceptions-part-2/)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
@@ -1748,6 +1752,7 @@ Scala
   * [Security improvements in tapir 0.19](https://softwaremill.com/security-improvements-in-tapir-0-19/)
   * [My first Tapir stream - SPFS #9 - YouTube](https://www.youtube.com/watch?v=GNleUFwgzWc)
   * [Migrating from Akka HTTP to tapir](https://softwaremill.com/migrating-from-akka-http-to-tapir/)
+  * [A tapir looms in the distance](https://softwaremill.com/a-tapir-looms-in-the-distance/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2025,6 +2030,7 @@ Scala
 * [sbt-interactive-update](https://twitter.com/kitlangton/status/1541417514823028740)
 * [a sane local dependency workflow! Kill publishLocal with fire 2 minute tutorial](https://twitter.com/kitlangton/status/1544797176890642437)
 * [SBT in Scala (part 1) - Setting Up a Scala Project, Adding Libraries, Configurations - YouTube](https://www.youtube.com/watch?v=itiL7QT2WkI)
+* [SBT in Scala (part 2) - Setting up Modules, Organizing Builds, Using Plugins - YouTube](https://www.youtube.com/watch?v=HBZDKt9ZqSg)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
@@ -2116,6 +2122,7 @@ Scala
 * [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
 * [Scala 3: A Look at “inline” (and “Programming Scala” is Now Published!) | by Dean Wampler | Scala 3 | Jun, 2021 | Medium](https://medium.com/scala-3/scala-3-a-look-at-inline-and-programming-scala-is-now-published-9690ca43c23a)
 * [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
+* [Metaprogramming in Scala 2 & 3 - VirtusLab](https://virtuslab.com/blog/metaprogramming-in-scala-2-3/)
 * [The inline Modifier in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/inline-modifier)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
