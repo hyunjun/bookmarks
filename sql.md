@@ -233,6 +233,7 @@ SQL
 * [Scan sharing - IBM Documentation](https://www.ibm.com/docs/en/db2/11.1?topic=methods-scan-sharing)
 * [05 - Buffer Pools (CMU Intro to Database Systems / Fall 2021) - YouTube](https://www.youtube.com/watch?v=Moz2AgC9hG4)
 * [MVCC 구조와 이해](https://mozi.tistory.com/561)
+* [고가용성의 웹 서비스를 위한 데이터베이스 클러스터링](https://hudi.blog/database-clustering/) clustering
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
