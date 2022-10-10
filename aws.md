@@ -334,6 +334,8 @@ AWS
 * [AWS Wavelength - Part 3](https://zigispace.net/1120)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 * [Deploying a Flask application on AWS with Gitlab CI/CD | Part 1](https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e)
+* [Deploying a Flask application on AWS with Gitlab CI/CD | Part 2 | by Thomas Himblot | Medium](https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-2-a175dc132950)
+* [Webapp Service by Flask on AWS - Sungjin (James) Kim, Ph.D. - Medium](https://medium.com/@jskDr/webapp-service-by-flask-on-aws-9bf4b6f3d328)
 * [AWS Well-Architected Tool 서울 리전 출시](https://aws.amazon.com/ko/blogs/korea/aws-well-architected-tool-seoul/)
 * [AWS Well-Architected](https://wa.aws.amazon.com/wat.map.en.html)
 * [Let’s Architect! Creating resilient architecture | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-creating-resilient-architecture/)
