@@ -696,6 +696,9 @@ Book
   * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사](https://github.com/hyunjun/bookmarks/blob/master/books/human_history.md)
   * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%EB%A5%98%EB%B3%B8%EC%82%AC-%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8-%EC%A4%91%EB%8F%99%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B3%B8-1%EB%A7%8C-2-000%EB%85%84-%EC%9D%B8%EB%A5%98%EC%82%AC-ff698117fe43)
   * [인류본사 오리엔트-중동의 눈으로 본 1만 2,000년 인류사](https://jh4hj.tistory.com/entry/%EC%9D%B8%EB%A5%98%EB%B3%B8%EC%82%AC-%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8-%EC%A4%91%EB%8F%99%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%B3%B8-1%EB%A7%8C-2000%EB%85%84-%EC%9D%B8%EB%A5%98%EC%82%AC)
+* [로마시티 (이상록, 책과 함께)](https://jemulpoclub.com/Notice/?idx=9420341&bmode=view)
+  * ★★★★☆ 2022.10.09~10 600쪽에 가까운 두꺼운 책이지만 로마의 전반적인 역사를 저자의 멋진 일러스트레이트와 함께 재미있게 볼 수 있다. 로마에 당장 가고 싶은 충동이 들게끔 만드는 책.
+  * 한라 922-이52ㄹ 우당 문922-이51ㄹ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1157,5 +1160,3 @@ Book
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
 * (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
-* (NOT YET) [제물포구락부의 서재 - <로마시티> (이상록, 책과 함께) : 제물포 구락부](https://jemulpoclub.com/Notice/?idx=9420341&bmode=view)
-  * 한라 922-이52ㄹ 우당 문922-이51ㄹ
