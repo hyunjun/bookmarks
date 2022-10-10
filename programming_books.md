@@ -265,6 +265,7 @@ Programming Books
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 * (NOT YET) [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
   * 탐라 문004.76-김77ㅇ
+* (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
 
 # Agile Scrum
 
@@ -2051,6 +2052,7 @@ Programming Books
 
 # Management
 * [스타트업 대표 132명이 직접 추천했다?! 대표 책상에 놓여있는 조직문화 필독서!! - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/organizational20220114)
+* [스타트업 창업자들이 꼽은, 경영에 도움이 된 책 TOP 10권 | ㅍㅍㅅㅅ](https://ppss.kr/archives/254419)
 * ['경영의 신'이 남긴 유산.. 6권의 추천서 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/inamorigazuobook20220913)
   * [왜 일하는가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80)
     * 2010.05.16
