@@ -1288,3 +1288,4 @@ Git
 * [Git & Github Full Course | Part 1 | Introduction to Git | Git Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=UaeZEE4PIG8)
 * [Git for Network Engineers Series - The Basics Part 1 - Cisco Blogs](https://blogs.cisco.com/learning/git-for-network-engineers-series-the-basics-part-1)
 * [자, 이제부터 이 글을 보는 순간 Git이 쉬워집니다? - 원리로 알아보는 Git의 기초 | Dable Tech Blog](https://teamdable.github.io/techblog/Git-Basic)
+* [.git으로 알아보는 git 동작원리 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222896391872)
