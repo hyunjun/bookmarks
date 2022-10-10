@@ -1891,6 +1891,7 @@ Docker
       * 단계별 튜토리얼 안내 앱이 실행 중일 때 소스 코드와 K8s 리소스를 변경한 다음 업데이트가 어떻게 쉽게 적용되는지 확인 가능
     * [first-steps-example: Applications for articles "First steps"](https://github.com/werf/first-steps-example)
   * [Running one-time tasks and debugging images in the Kubernetes cluster using werf – Flant blog](https://blog.flant.com/kubectl-run-tasks-in-kubernetes-with-werf/)
+* [xlskubectl — a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 
 ## Kubernetes Monitoring
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
