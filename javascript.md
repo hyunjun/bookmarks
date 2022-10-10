@@ -4191,6 +4191,7 @@ Javascript
   * [리액트를 처음부터 배워보자. — 05. Context API | by Stark Jeon | Jul, 2020 | Medium](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-05-context-api-d053f92cd645)
   * [How to Use React’s Context API and useContext() Hooks Effectively | by Paige Niedringhaus | Better Programming | Medium](https://medium.com/better-programming/how-to-use-reacts-context-api-and-usecontext-hooks-effectively-ed98ad9343b6)
   * [Using the React useContext Hook](https://medium.com/digio-australia/using-the-react-usecontext-hook-9f55461c4eae)
+  * [Reactjs Share Data Between Components Method 3 : Context Hook - Therichpost](https://therichpost.com/reactjs-share-data-between-components-method-3-context-hook/)
   * [**Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog**](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
   * [Context API - React에서 데이터를 다루는 개념중 하나인 Context API를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/context-api/)
   * [contextAPI 레이어 관리 그리고 테스트](https://blog.naver.com/pjt3591oo/222604995823)
