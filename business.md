@@ -1542,6 +1542,7 @@ Business
 * [오랫동안 사랑받는 게임이 되도록, 유저의 LTV(유저 생애 가치) 예측하기](https://blog.ncsoft.com/game-data-analytics-20201014/)
 * [AI 글에서 업무 자동화를 떠올리기](https://brunch.co.kr/@graypool/108)
 * [닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"](https://www.longblack.co/note/392?ticket=NTc496aef98e291d4d434144a964512b21bb9e94f7)
+* [B2B 마케팅 업무를 더 나아지게 만드는 지표들](https://brunch.co.kr/@yennyjeong/38)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
