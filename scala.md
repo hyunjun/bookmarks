@@ -1503,7 +1503,8 @@ Scala
 * [Izumi Project](https://izumi.7mind.io/)
   * [izumi: Productivity-oriented collection of lightweight fancy stuff for Scala toolchain](https://github.com/7mind/izumi)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
-* [just-fp - A small Functional Programming library](https://kevin-lee.github.io/just-fp/)
+* [Just FP | Just FP](https://just-fp.kevinly.dev/)
+* Just SemVer [Hello from Just SemVer | Just SemVer](https://just-semver.kevinly.dev/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * Kryo
   * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
