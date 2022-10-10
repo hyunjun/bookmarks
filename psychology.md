@@ -71,3 +71,4 @@ Psychology
 * [자신감 넘치는 사람들이 갈등을 해결하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/this-is-how-assertive-people-resolve-conflicts/)
 * [긍정적으로 짜증을 해결하는 방법: 5가지 핵심 팁 - Wonderful Mind](https://wonderfulmind.co.kr/managing-frustration-positively-5-essential-tips/)
 * [관계에서 긍정적으로 문제를 제기하는 방법 - Wonderful Mind](https://wonderfulmind.co.kr/positively-bring-issue-relationship/)
+* [왜 “귀여우면 다” 용서될까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/257321)
