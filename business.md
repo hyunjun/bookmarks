@@ -193,6 +193,7 @@ Business
   * [성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁 | GeekNews](https://news.hada.io/topic?id=6434)
 * [회사는 성장할 때 망가지기 쉽습니다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/189886) 문화
 * [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
+* ["조직문화, 제대로 못할거면 차라리 내버려둬라"](https://v.daum.net/v/20221007130515369)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
@@ -1471,6 +1472,8 @@ Business
   * 시르스키 상장(육군 사령관)이 가장 인상적이었음
     * 키이우 방어전을 위해 구역을 나누고 각 지휘관에게 맡긴 뒤, 전황중에는 통신에 문제가 있을 수 있으니 재량권을 주고 스스로 판단해서 결정하도록 함
     * [클라우제비츠의 전략](https://blog.daum.net/mil-world/15107638)에 대한 이야기와도 연결되는 듯
+* ['시작하는 리더를 위해' 이미지 요약](https://www.linkedin.com/posts/%EC%9E%AC%ED%98%B8-%EC%9D%B4-3a7b45148_reeqyssxh-uikrxgsxjtxurfiqwiswg-spgskn-activity-6982482024813002752-XGPh/)
+* [팀 전체가 리더가 되는 ‘WE-리더십’, 역할과 함께 책임 공유도 강화해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/9390/ac/editorpick)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
