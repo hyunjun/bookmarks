@@ -106,6 +106,9 @@ Programming Language
 * [PLDB: a Programming Language Database](https://github.com/breck7/pldb)
 * [Why do arrays start at 0? • Buttondown](https://buttondown.email/hillelwayne/archive/why-do-arrays-start-at-0/)
 * [2030년엔 사라질 수도 있는 프로그래밍 언어 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/762/)
+* [flex & bison Book](https://www.oreilly.com/library/view/flex-bison/9780596805418/)
+  * [계산기 만들기 - flex & bison 소개 - YouTube](https://www.youtube.com/watch?v=KxYE78CB398)
+  * [계산기 만들기 - flex & bison 사용방법 - YouTube](https://www.youtube.com/watch?v=n5Opi1AlPS4)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
