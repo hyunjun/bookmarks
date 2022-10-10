@@ -1225,6 +1225,7 @@ Javascript
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
   * [FEconf 2022 - TRACK A - YouTube](https://www.youtube.com/watch?v=jZNk-Ncez6E)
   * [FEconf 2022 - TRACK B - YouTube](https://www.youtube.com/watch?v=ajtpcFkXqqg)
+  * [FEConf 2022 참석 후기](https://noogoonaa.tistory.com/120)
   * [FEConf2020 at Home](https://2020.feconf.kr/)
   * [Fe Conf 2019 후기](https://blog.woolta.com/categories/9/posts/192)
 * [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
