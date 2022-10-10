@@ -802,6 +802,7 @@ Programming
   * 문제가 생기면 2주 뒤 스프린트가 아니고 바로 말해야 한다, Allen이 "행복하지 않다면 제대로 하는 것이 아니다"
 * [‘짝퉁 애자일 기업’이 자신을 속이는 말 7가지 - CIO Korea](https://www.ciokorea.com/news/255064)
 * [스크럼이 개발자를 괴롭히는 9가지 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1728/)
+* [**애자일 이야기 : 실수는 예방하는 것이 아니라 관리하는 것이다**](http://agile.egloos.com/5774862)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
