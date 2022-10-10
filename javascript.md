@@ -4399,6 +4399,7 @@ Javascript
   * [Next.js 프로젝트 Migration과 Refactoring 과정을 공유합니다. | by valley | 더핑크퐁컴퍼니 기술 블로그 | Aug, 2022 | Medium](https://medium.com/pinkfong/nextjs-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-migration%EA%B3%BC-refactoring-%EA%B3%BC%EC%A0%95%EC%9D%84-%EA%B3%B5%EC%9C%A0-%ED%95%A9%EB%8B%88%EB%8B%A4-fbab8c43f504)
   * [Optimizing Core Web Vitals on a Next.js app](https://www.patterns.dev/posts/nextjs-casestudy/)
     * [Optimizing Core Web Vitals on a Next.js app | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/optimizing-core-web-vitals-on-a-nextjs-app/)
+  * [GraphQL with NextJS | Real-life project structure with GraphQL client and server - YouTube](https://www.youtube.com/watch?v=w5wPs4R1Guw)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
