@@ -412,6 +412,7 @@ App
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * [tistory: 티스토리 블로그 오픈 API 파이썬 라이브러리](https://github.com/WooilJeong/tistory)
+  * [Python tistory 패키지로 블로그 자동화하기 - 정우일 블로그](https://wooiljeong.github.io/python/tistory/)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
 * [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [widdler: A WebDAV server for TiddlyWikis](https://github.com/qbit/widdler)
