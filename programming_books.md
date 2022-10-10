@@ -248,6 +248,7 @@ Programming Books
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
 * (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
+  * 탐라 문004.588-프239ㅋ
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
@@ -262,6 +263,8 @@ Programming Books
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
+* (NOT YET) [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
+  * 탐라 문004.76-김77ㅇ
 
 # Agile Scrum
 
@@ -925,6 +928,8 @@ Programming Books
   * [데이터 분석가의 숫자유감 2화 숫자의 불확실성: 큰 수를 더 크다고 말하지 못하고 - 골든래빗](https://goldenrabbit.co.kr/2022/03/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80%EC%9D%98-%EC%88%AB%EC%9E%90%EC%9C%A0%EA%B0%90-%E1%84%89%E1%85%AE%E1%86%BA%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%87%E1%85%AE%E1%86%AF/)
   * [데이터 분석가의 숫자유감](https://jybaek.tistory.com/970)
 * (NOT YET) [데이터 과학자 되는 법 (에밀리 로빈슨, 재클린 놀리스 著, 이창화 譯, 2021)](https://jehyunlee.tistory.com/31)
+* (NOT YET) [데이터 과학자의 일](https://brunch.co.kr/@sobong3/93)
+  * 한라 005.7-박76ㄷ 탐라 문005.7-박77ㄷ 우당 문005.7-박77ㄷ
 * (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
 * (NOT YET) Apache airflow 기반의 데이터 파이프라인 [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
   * 한라 005.75-하294ㅇ
@@ -2819,6 +2824,11 @@ Programming Books
   * 탐라 문005.53-카213ㅇ 우당 문005.53-카213ㅇ
   * [엑셀 × 파이썬 업무 자동화 : 매크로, VBA는 이제 낡았다! – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/11/18/%ec%97%91%ec%85%80-x-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%eb%a7%a4%ed%81%ac%eb%a1%9c-vba%eb%8a%94-%ec%9d%b4%ec%a0%9c-%eb%82%a1%ec%95%98%eb%8b%a4/)
   * [source](https://insightbookblog.files.wordpress.com/2020/11/excel_pythonec8ba4ec8ab5ec9888eca09c.zip)
+* (NOT YET) [일 잘하는 직장인을 위한 엑셀 자동화 with 파이썬 | 위키북스](https://wikibook.co.kr/pyexcel/)
+  * 탐라 문005.133-최68ㅇ 
+  * [pyexcel: 《일 잘하는 직장인을 위한 엑셀 자동화 with 파이썬》 예제 코드](https://github.com/wikibook/pyexcel)
+* (NOT YET) [일잘러의 비밀, 엑셀 대신 파이썬으로 업무 자동화하기](https://hanbit.co.kr/store/books/look.php?p_code=B3346434043)
+  * 탐라 문005.133-포58ㅇ
 * (NOT YET) [실전 파이썬 핸즈온 프로젝트](https://www.onlybook.co.kr/entry/python-projects)
   * 한라
   * [실전 파이썬 핸즈온 프로젝트 오현석 인터뷰 - YouTube](https://www.youtube.com/watch?v=456VaXge93w)
