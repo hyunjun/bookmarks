@@ -112,6 +112,7 @@ Hardware
 * [TV 현장감 살리는 앰비라이트, 직접 만든다?](http://techholic.co.kr/archives/35744)
 * [한글로 시간을 알려주는 시계](http://www.earlyadopter.co.kr/59409)
 * [아름다운 한글시계, 직접 만들어봐?](http://techholic.co.kr/archives/36180)
+* [11년 만에 완성한, 원조, 한글시계 | Homin Lee's blog](https://homin.dev/blog/post/20221009_hangulclock_is_re-written_in_golang/)
 * [아두이노로 직접 만든 ‘자동 실내커튼’](http://techholic.co.kr/archives/36393)
 * [ArduGraph is open-source easy to use serial graph monitor for Arduino](http://www.open-electronics.org/guest_projects/ardugraph/)
 * [아두이노로 터널북 만들어볼까](http://techholic.co.kr/archives/36908)
