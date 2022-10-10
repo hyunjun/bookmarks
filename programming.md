@@ -4997,6 +4997,7 @@ Programming
 * [A/B 테스트 제대로 이해하기: ①테스트를 설계할 때 우리의 진짜 질문은? | 요즘IT](https://yozm.wishket.com/magazine/detail/1633/)
 * [직관만 믿고 까불었다가 망한 PM의 사연. 안녕하세요, 검색 프로덕트 매니저 Demi예요. | by 김단 Demi | 당근마켓 팀블로그 | Aug, 2022 | Medium](https://medium.com/daangn/%EC%A7%81%EA%B4%80%EB%A7%8C-%EB%AF%BF%EA%B3%A0-%EA%B9%8C%EB%B6%88%EC%97%88%EB%8B%A4%EA%B0%80-%EB%A7%9D%ED%95%9C-pm%EC%9D%98-%EC%82%AC%EC%97%B0-61946dc969eb)
 * [Sona Hambaryan - A/B Testing in Production | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=U2DtBTxRkCM)
+* [AutoParams: Enjoy your TDD! AutoParams is an arbitrary test data generator for parameterized tests in Java inspired by AutoFixture](https://github.com/AutoParams/AutoParams)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
