@@ -220,6 +220,7 @@ Programming Language
   * [Constructors in Ceylon](http://ceylon-lang.org/blog/2015/06/21/constructors/)
 * [Céu: Structured Synchronous Reactive Programming](http://www.ceu-lang.org/)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
+* [chaltteok: 자연스러운 한국어를 꿈꾸는 프로그래밍 언어 '찰떡'](https://github.com/dragonteros/chaltteok)
 * Chapel
   * [Learn Chapel in Y minutes](http://learnxinyminutes.com/docs/chapel/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
@@ -340,6 +341,7 @@ Programming Language
   * [Top 5 Courses to Learn F# (F Sharp) for Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-f-f-sharp-for.html)
   * [Functional Patterns in FSharp - YouTube](https://www.youtube.com/watch?v=XiG-uuNKzF8)
 * [F\*](https://www.fstar-lang.org/)
+* [Garam-Interpreter: "훈민정음은 디자인이다" 가람은 튜링 완전 프로그래밍 언어입니다](https://github.com/ericlee05/Garam-Interpreter)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
   * [type folding in guile](http://wingolog.org/archives/2015/10/29/type-folding-in-guile)
@@ -442,6 +444,7 @@ Programming Language
   * [Extract a plain text corpus from MediaWiki XML dumps, such as Wikipedia](https://github.com/rspeer/wiki2text)
   * [A Python Substitute? I Tried Out the Best Programming Language You’ve Never Heard Of | by Yakko Majuri | Better Programming | Medium](https://medium.com/better-programming/a-python-substitute-i-tried-out-the-best-programming-language-youve-never-heard-of-9e29cd1893c0)
   * [Nim tutorial for setting up a website.](https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim)
+* [nuri: 누리 : 함수형 한글 프로그래밍 언어](https://github.com/suhdonghwi/nuri)
 * mathematica
   * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 * [monkey-compiler: implement a compiler for the Monkey programming language](https://github.com/jeongukjae/monkey-compiler)
@@ -567,6 +570,7 @@ Programming Language
   * [learnxinyminutes.com/docs/tcl](http://learnxinyminutes.com/docs/tcl/)
   * [The tclcsv extension for Tcl provides a fast and flexible means of reading text files in Comma Separated Value (CSV) format](http://tclcsv.sourceforge.net/)
   * [annual tcl/tk conference](https://core.tcl.tk/conference/tcl2015/abstracts.html)
+* [umjunsik-lang: 어떻게 엄준식이 언어이름이냐🤣](https://github.com/rycont/umjunsik-lang)
 * Unison [Magic refactoring with Unison: much more than a new programming language](https://medium.com/gft-engineering/magic-refactoring-with-unison-much-more-than-a-new-programming-language-7ad080bf9b72)
 * [Unlambda - The Unlambda Programming Language](http://www.madore.org/~david/programs/unlambda/)
 * [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
