@@ -598,6 +598,7 @@ Data Science
 * [Best Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 
 # Python
+* [awesome-data-and-analytics-governance: 데이터 & 분석 거버넌스 제고를 위한 양질의 레퍼런스들을 수집하고 생각을 나눌 수 있습니다.](https://github.com/playinpap/awesome-data-and-analytics-governance)
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience)
 * [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
