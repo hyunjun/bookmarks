@@ -97,6 +97,7 @@ App
   * ['강의/Framer' 카테고리의 글 목록](https://webruden.tistory.com/category/%EA%B0%95%EC%9D%98/Framer)
   * [Framer에 관한 오해의 단상](https://brunch.co.kr/@jinbread/187)
   * [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기) | by ruucm | Harbor School (하버 스쿨) | Medium](https://medium.com/harbor-school/%EB%82%B4%EA%B0%80-framer-x%EC%97%90-%EB%AF%B8%EC%B3%90%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0-framer-x-6%EA%B0%9C%EC%9B%94-%EC%82%AC%EC%9A%A9%EA%B8%B0-a3a400eddca)
+  * [Framer로 블로그 만들기 - 01 - My Framer Site](https://hyojung.framer.website/blog/create-blog-with-framer-01)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
