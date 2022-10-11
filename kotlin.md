@@ -414,6 +414,9 @@
 * [Kotlin — Unit Testing Classes Without Leaking Public API! | by Stanislav Kozlovski | Level Up Coding](https://levelup.gitconnected.com/kotlin-unit-testing-classes-without-leaking-public-api-871468695447)
 * [Spy와 Mock의 차이. 그리고 Spy 사용](https://coco-log.tistory.com/194)
 * [Writing a Property Based Testing library in Kotlin, a Journey (part 1)](https://blog.agilogy.com/2022-10-04-writing-a-pbt-ibrary-1.html)
+* [외부 인프라스트럭처 테스트 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/external-infrastructure-testing/)
+* [mockserver-netty at master · cheese10yun/blog-sample · GitHub](https://github.com/cheese10yun/blog-sample/tree/master/mockserver-netty)
+  * [Mockserver Netty 사용해서 HTTP 통신 Mocking 하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mock-server-netty/)
 
 # Tutorial
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
