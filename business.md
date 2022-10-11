@@ -894,6 +894,7 @@ Business
 * [창업자 CEO는 언제 어디서나 항상 평가 받아요](https://www.linkedin.com/posts/douglasguen_qwurbaqya-swmtnktxuslh-qsvsmpstcslh-activity-6971979293669150720-lR3i/)
 * [아마존 CEO 앤디 재시(Andy Jassy) 경험을 위한 압축 알고리즘은 없다](https://blog.naver.com/help2000/222881564868)
 * [벌레의 눈으로 본 혁신 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/columnView.do?cidx=13983) 스타벅스 하워드 슐츠
+* [기술창업 36계: 대표이사의 3가지 미션 | ㅍㅍㅅㅅ](https://ppss.kr/archives/246376)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
