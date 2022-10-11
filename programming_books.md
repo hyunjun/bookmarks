@@ -3169,6 +3169,7 @@ Programming Books
   * [A/B 테스트 신뢰도 높은 온라인 통제 실험 TRUSTWORTHY ONLINE CONTROLLED EXPERIMENTS](https://jh4hj.tistory.com/entry/AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%A0%EB%A2%B0%EB%8F%84-%EB%86%92%EC%9D%80-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%86%B5%EC%A0%9C-%EC%8B%A4%ED%97%98-TRUSTWORTHY-ONLINE-CONTROLLED-EXPERIMENTS)
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
+  * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
 
 # UI/UX
