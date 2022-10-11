@@ -580,6 +580,7 @@ Programming Language
   * [vlang/v: Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in \<1s with zero library dependencies. https://vlang.io ](https://github.com/vlang/v)
   * [V Lang 톺아보기 1 : 첫 만남](https://beomi.github.io/2019/10/20/Learning-VLang/)
   * [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-프로그래밍-언어-80f94f20b23c)
+  * [V lang이 0.1.18로 업그레이드!](https://brunch.co.kr/@fermat39/89)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * [verse: The Verse Programming Language](https://github.com/verse-lang/verse)
 * [virgil: A fast and lightweight native programming language](https://github.com/titzer/virgil)
