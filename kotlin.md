@@ -413,6 +413,7 @@
 * [테스트 커버리지 100%](https://toss.im/slash-21/sessions/1-6)
 * [Kotlin — Unit Testing Classes Without Leaking Public API! | by Stanislav Kozlovski | Level Up Coding](https://levelup.gitconnected.com/kotlin-unit-testing-classes-without-leaking-public-api-871468695447)
 * [Spy와 Mock의 차이. 그리고 Spy 사용](https://coco-log.tistory.com/194)
+* [Writing a Property Based Testing library in Kotlin, a Journey (part 1)](https://blog.agilogy.com/2022-10-04-writing-a-pbt-ibrary-1.html)
 
 # Tutorial
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
