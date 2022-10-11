@@ -839,6 +839,7 @@ Javascript
 * [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
 * [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
 * [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
+* [프론트엔드는 무엇인가?. Web Application의 패러다임은 어떻게 되는걸까? | by 조은, John Cho | Oct, 2022 | Medium](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-30919634f80d)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3917,6 +3918,8 @@ Javascript
 * [5 Tips To Scale Up Your React Apps | JavaScript in Plain English](https://javascript.plainenglish.io/5-tips-to-scale-up-your-react-apps-8fb68319062e)
 * [Designing & Implementing Access Control in React | by Lakindu Hewawasam | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/designing-implementing-access-control-in-react-34eb8bc67511)
 * [VirtualScroll을 만들어보자](https://velog.io/@dev-redo/React-VirtualScroll%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
+* [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
+  * [리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
