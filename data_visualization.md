@@ -360,6 +360,7 @@ Data Visualization
   * [How to Share your Python Objects Across Different Environments in One Line of Code | by Khuyen Tran | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-share-your-python-objects-across-different-environments-in-one-line-of-code-f30a25e5f50e)
 * [DataPrep——The easiest way to prepare data in Python](https://dataprep.ai/)
   * [Dataprep.eda : Accelerate your EDA (EDA 자동화 패키지)](https://eda-ai-lab.tistory.com/484)
+  * [효율적으로 EDA를 하자! - dataprep편](https://brunch.co.kr/@fermat39/112)
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a) 배달 루트 최적화
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
@@ -423,6 +424,7 @@ Data Visualization
 * [sweetviz: Visualize and compare datasets, target values and associations, with one line of code](https://github.com/fbdesignpro/sweetviz)
   * [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
   * [EDA sweetviz로 쉽게 시각화 구현하기 : 네이버블로그](https://blog.naver.com/pjt3591oo/222064675329)
+  * [효율적으로 EDA를 하자! - sweetviz편](https://brunch.co.kr/@fermat39/118)
 * [visidata: A terminal spreadsheet multitool for discovering and arranging data](https://github.com/saulpw/visidata)
   * [Open-source data multitool | VisiData](https://www.visidata.org/)
 * [VisPy - a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
