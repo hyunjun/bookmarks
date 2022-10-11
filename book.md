@@ -699,6 +699,9 @@ Book
 * [로마시티 (이상록, 책과 함께)](https://jemulpoclub.com/Notice/?idx=9420341&bmode=view)
   * ★★★★☆ 2022.10.09~10 600쪽에 가까운 두꺼운 책이지만 로마의 전반적인 역사를 저자의 멋진 일러스트레이트와 함께 재미있게 볼 수 있다. 로마에 당장 가고 싶은 충동이 들게끔 만드는 책.
   * 한라 922-이52ㄹ 우당 문922-이51ㄹ
+  * [ROME CITY THE ILLUSTRATED STORY OF ROME](https://github.com/hyunjun/bookmarks/blob/master/books/rome_city.md)
+  * [ROME CITY THE ILLUSTRATED STORY OF ROME | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/rome-city-the-illustrated-story-of-rome-f1eded35fc21)
+  * [ROME CITY THE ILLUSTRATED STORY OF ROME](https://jh4hj.tistory.com/entry/ROME-CITY-THE-ILLUSTRATED-STORY-OF-ROME)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
