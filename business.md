@@ -109,6 +109,7 @@ Business
 * [야놀자의 나스닥행, 가능할까? f. 이재용 회계사 22.07.26 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=FLWX2DhH3tE) OTA
 * [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
+* [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
