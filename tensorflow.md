@@ -662,6 +662,7 @@ TensorFlow
   * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
   * discriminator 의 loss 를 bce 에서 hinge 로 바꾸고 auto-encoder 를 도입해 discriminator 의 training 을 어렵게 만든게 (일종의 regualarizer 효과) 포인트
   * GAN 트레이닝 과정에서 종종 나오는 collapse 현상 ( GAN 트레이닝 하다 보면 어느 순간 1, 1, 1 ... 만 그려 냄) 을 막기 위해 pull-away term 이라는 regularizer 를 추가했는데 OpenAI 의 InfoGAN 보다 그 효과가 미미
+* [esrgan-tf2: ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks, published in ECCV 2018) implemented in Tensorflow 2.0+. This is an unofficial implementation. With Colab](https://github.com/peteryuX/esrgan-tf2)
 * ["InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)"
   * [supervised_infogan](https://github.com/buriburisuri/supervised_infogan)
   * repo 명에 supervised 가 들어간 이유는 원논문과 달리 supervised loss 를 추가해서 학습시켰기 때문
