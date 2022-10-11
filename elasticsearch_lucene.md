@@ -525,6 +525,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치와 키바나 실용적인 소개서](https://velog.io/@jakeseo_me/%EB%B2%88%EC%97%AD-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%99%80-%ED%82%A4%EB%B0%94%EB%82%98-%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%EC%86%8C%EA%B0%9C%EC%84%9C)
 * [엘라스틱서치의 Enrich Processor를 활용해서 여러 데이터 소스의 데이터를 통합하고 연동하기](https://olpaemi.blog.me/221727104894)
 * [Elastic 사용자 그룹 온라인 밋업 - Kibana 한글 언어팩 적용하기](https://www.youtube.com/watch?v=DE_2TD9PBrY)
+* [kibana-dashboard-custom-css: Kibana Plugin to Associate custom CSS to Dashboards](https://github.com/nimocks/kibana-dashboard-custom-css)
 
 # Library
 * [CRUD Operation in Elasticsearch using C# and NEST](https://social.technet.microsoft.com/wiki/contents/articles/35095.crud-operation-in-elasticsearch-using-c-and-nest.aspx)
