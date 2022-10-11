@@ -3644,6 +3644,7 @@ Programming
   * [What I Wish Someone Would Have Told Me About Using Rabbitmq Before It Was Too Late – Ryan Rodemoyer – Growth-minded software developer trying to change the world.](https://ryanrodemoyer.github.io/what-i-wish-someone-would-have-told-me-about-using-rabbitmq-before-it-was-too-late/)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
   * [Working With RabbitMQ in Golang](https://morioh.com/p/cd085b9269fc)
+  * [Django and FastAPI with RabbitMQ. Hello developers, during the last… | by Gustavo Caetano | Oct, 2022 | Medium](https://medium.com/@caetanoog/django-and-fastapi-with-rabbitmq-b4b068db5aa2)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
