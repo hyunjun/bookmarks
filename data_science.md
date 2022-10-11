@@ -704,6 +704,8 @@ Data Science
 * [dagster: A data orchestrator for machine learning, analytics, and ETL](https://github.com/dagster-io/dagster)
   * [Introducing Dagster. A open-source Python library for… | by Nick Schrock | Dagster | Medium](https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7)
   * [Dagster: The Data Orchestrator. As machine learning, analytics, and… | by Nick Schrock | Dagster | Aug, 2020 | Medium](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb)
+* [DataPrep——The easiest way to prepare data in Python](https://dataprep.ai/)
+  * [효율적으로 EDA를 하자! - dataprep편](https://brunch.co.kr/@fermat39/112)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun ](https://github.com/lucidrains/deep-daze)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
