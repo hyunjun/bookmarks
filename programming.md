@@ -616,6 +616,9 @@ Programming
 * [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
 * [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [VR Environments for Collaborative Software Development - YouTube](https://www.youtube.com/watch?v=SBigUZtHlC4)
+* [frida: Clone this repo to build Frida](https://github.com/frida/frida)
+  * [frida-gum: Cross-platform instrumentation and introspection library written in C](https://github.com/frida/frida-gum)
+    * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
