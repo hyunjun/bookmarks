@@ -2794,6 +2794,8 @@ Python
 * [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
 * [GraphQL Python](https://github.com/graphql-python)
 * [graphene-python.org](http://graphene-python.org/)
+* [strawberry: A GraphQL library for Python that leverages type annotations 🍓](https://github.com/strawberry-graphql/strawberry)
+  * [Strawberry의 Generic 타입 구현 살펴보기](https://doc.iamdt.co.kr/blog/2022-10-03-strawberry-generic-type)
 
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
