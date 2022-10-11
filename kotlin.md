@@ -185,6 +185,7 @@
 * [Meta-Programming with Kotlin for Android | by Mehdi Yari | Apr, 2022 | ProAndroidDev](https://proandroiddev.com/meta-programming-with-kotlin-for-android-6097307a9fe3)
 * [(Kotlin) 단일 함수만 존재하는 경우 파일명은 어떻게 해야할까?](https://jojoldu.tistory.com/671)
 * [Context Receivers Are Coming to Kotlin! - YouTube](https://www.youtube.com/watch?v=GISPalIVdQY)
+* [Context receivers](https://kt.academy/article/fk-context-receivers)
 * [smarter-shared-kotlin-flows | Medium](https://bladecoder.medium.com/smarter-shared-kotlin-flows-d6b75fc66754)
 * [Redundant DTO-Domain Mapping in Kotlin Flow | by Florent Blot | Jul, 2022 | Medium](https://florentblot.medium.com/redundant-dto-domain-mapping-in-kotlin-flow-bffbd1d28fc8)
 * [Go with the Kotlin Flow😀. What’s special about Kotlin Flow 🤔 | by Prachi Mishra | Sep, 2022 | Medium](https://p-mishra2905.medium.com/go-with-the-kotlin-flow-973dd2824a1d)
