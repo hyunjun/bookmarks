@@ -641,6 +641,7 @@ Docker
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
 * [Introduction - The Kubebuilder Book](https://book.kubebuilder.io/)
+* [**PYRASIS.COM: 이재홍의 언제나 최신 Docker**](https://pyrasis.com/jHLsAlwaysUpToDateDocker)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
