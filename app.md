@@ -2178,6 +2178,7 @@ App
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
+  * [winget 사용하여 간단하게 프로그램 설치하기 : zelon's blog](https://blog.wimy.com/471/)
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winstall - GUI for Windows Package Manager](https://winstall.app/)
