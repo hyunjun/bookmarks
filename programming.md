@@ -2528,6 +2528,8 @@ Programming
 * [Clean Code | CODER SITE for developers](https://codersite.dev/clean-code/)
 * [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
   * [Clean Code 라는 건 없습니다 | GeekNews](https://news.hada.io/topic?id=5881)
+* [Want Cleaner Code? Use the Rule of Six](https://davidamos.dev/the-rule-of-six/)
+  * [클린코드를 위한 6의법칙 - 개발블로그로 영어공부하기 - YouTube](https://www.youtube.com/watch?v=aGcXiH1Nfmo)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
