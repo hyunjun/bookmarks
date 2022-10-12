@@ -2359,6 +2359,7 @@ Programming
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
   * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
+* [cign - Cloud As Design](https://www.cigncloud.com/) visualization
 * [Cloud Champ - YouTube](https://www.youtube.com/channel/UCbg9O0JF3rVKev6wpI5_u5g)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [클라우드타입](https://cloudtype.io/)
