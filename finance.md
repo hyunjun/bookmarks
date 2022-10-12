@@ -278,6 +278,7 @@ Finance
 * [Dynamic Fee Mechanism Simulation with Reinforcement Learning](https://medium.com/decon-simulation/dynamic-fee-mechanism-simulation-with-reinforcement-learning-6d15951dec05)
 * [OpenDartReader 금융감독원 전자공시 시스템의 "Open DART"서비스 API를 손쉽게 사용할 수 있도록 돕는 오픈소스 라이브러리](https://github.com/FinanceData/OpenDartReader)
   * [OpenDartReader - 비상장 기업 데이터 조회와 활용 jupyter](https://nbviewer.jupyter.org/gist/FinanceData/12440c298682c44758e4789909a3f333)
+  * [OpenDartReader Short Tutorial 01](https://nbviewer.org/gist/FinanceData/bfc14034e39de672d67624bc8b99cb00)
 * [Open DART를 이용한 기업공시 수집 (1) 환경 설정](https://gils-lab.tistory.com/36)
 * [Open DART를 이용한 기업공시 수집 (2) 주당 배당금 수집](https://gils-lab.tistory.com/37)
 * [Open DART를 이용한 기업공시 수집 (3) 주요 재무지표 수집 및 가공](https://gils-lab.tistory.com/38)
