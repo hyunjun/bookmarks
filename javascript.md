@@ -3920,6 +3920,7 @@ Javascript
 * [VirtualScroll을 만들어보자](https://velog.io/@dev-redo/React-VirtualScroll%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 * [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
   * [리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down)
+* [How to structure a React application that can scale, using local state. | by Alejandro Yanes | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-scaleable-react-application-992137939a0b)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
