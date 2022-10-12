@@ -490,6 +490,7 @@ App
 * [Building a Simple Google Chrome Extension with Vue](https://morioh.com/p/0db574ae88e8)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
+  * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
 * [Automa - 크롬 브라우저 자동화 확장 | GeekNews](https://news.hada.io/topic?id=5464)
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
