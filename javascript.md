@@ -5010,6 +5010,8 @@ Javascript
 * [How to master advanced TypeScript patterns](https://morioh.com/p/0d8b3523d82f)
 * [Why I'm Learning Typescript - DEV Community](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
 * [Advanced TypeScript With Code Challenges: Utility Types | by Marius Bongarts | Jul, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/advanced-typescript-with-code-challenges-utility-types-e8c30efd9021)
+* [유틸리티 타입 - 1 — BetaMan의 공사장](https://blog.betaman.kr/107)
+* [유틸리티 타입 - 2 — BetaMan의 공사장](https://blog.betaman.kr/108)
 * [(번역)타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿](https://velog.io/@lky5697/the-ultimate-clean-architecture-template-for-typescript-projects)
 * [How to Use Type Guards in TypeScript - Byte This!](https://bytethisstore.com/articles/pg/typescript-type-guards)
 * [Typescript is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
