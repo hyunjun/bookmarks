@@ -3486,6 +3486,7 @@ Programming
 * [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
 * [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
 * [What Infrastructure as Code is All About & How Terraform Helps you Work With It - YouTube](https://www.youtube.com/watch?v=IRHqgXRLb0w)
+* [(몰아보기) 네이버 클라우드,GCP,AWS 테라폼 시작](https://brunch.co.kr/@topasvga/2124) terraform
 * [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Infrastructure as Code - comparing tools](https://techcommunity.microsoft.com/t5/itops-talk-blog/infrastructure-as-code-iac-comparing-the-tools/ba-p/3205045)
