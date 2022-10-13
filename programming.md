@@ -1606,6 +1606,7 @@ Programming
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
+* [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
 
 ## Architecture Microservice MSA
 * [What are microservices?](https://microservices.io/)
