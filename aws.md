@@ -1789,6 +1789,7 @@ AWS
 * [Terraform - Part 15 - Basic Concept .. Discussion on Terraform Data Resource - YouTube](https://www.youtube.com/watch?v=SI3lGDdNglM)
 * [A guide to Cloud Cost Optimization with Terraform - Discover Better Value Faster](https://www.cloudnowtech.com/blog/a-guide-to-cloud-cost-optimization-with-terraform/)
 * [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
+* [Import Existing AWS Infrastructure to Terraform | by Melissa Gibson | Oct, 2022 | Towards AWS](https://towardsaws.com/import-existing-aws-architecture-to-terraform-368b66c48275)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
