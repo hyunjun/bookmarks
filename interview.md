@@ -661,6 +661,7 @@ Interview
 * [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기 :: Jeina, De'vLog](https://jeinalog.tistory.com/30)
 * [Google Python Challenge #1. The cake is not a lie. | by Keno Leon | The Startup | Medium](https://medium.com/swlh/google-python-challenge-1-58c0eb760c92)
 * [Google Python Challenge #2.a. Elevator Maintenance | by Keno Leon | Medium](https://medium.com/@k3no/google-python-challenge-2-a-d6331ce36576)
+* [구글 입사에 관한 모든것: 인터뷰, 인턴에서 풀타임 까지 by Sehoan Choi (최세환), Software Engineer @ Waymo (Google/Alphabet) - YouTube](https://www.youtube.com/watch?v=yL5dg27YMhQ)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
