@@ -107,6 +107,7 @@ Data Visualization
 * [Compound pejoratives on Reddit – from 'buttface' to 'wankpuffin'](https://colinmorris.github.io/blog/compound-curse-words)
 * [데이터 시각화 종류 고르기 - 모두의연구소](https://modulabs.co.kr/blog/data-visualization/)
 * [데이터 스토리텔링 연습! Day 23](https://brunch.co.kr/@gkicarus/220)
+* [Python Script in Power BI Desktop | Pega Devlog](https://jehyunlee.github.io/2022/10/14/Python-DS-116-powerbi/)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
