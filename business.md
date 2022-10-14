@@ -110,6 +110,7 @@ Business
 * [야놀자는 정말 테크기업일까?](https://brunch.co.kr/@fbrudtjr1/54)
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
+  * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
