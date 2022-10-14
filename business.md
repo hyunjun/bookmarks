@@ -1080,6 +1080,7 @@ Business
 * [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
 * [Web2 개발자가 Web3 세상에 온 소감. 진심으로 내가 Web3에 오게되리라고는 상상하지 못했다. | by Chris Song | Sep, 2022 | NFT뱅크](https://blog.nftbank.ai/web2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-web3-%EC%84%B8%EC%83%81-%EC%97%90-%EC%98%A8-%EC%86%8C%EA%B0%90-dea8985f30f6) 간접적으로 좋은 글
 * [새로온 CTO는 정복자일까](https://velog.io/@zetlos/%EC%83%88%EB%A1%9C%EC%98%A8-CTO%EB%8A%94-%EC%A0%95%EB%B3%B5%EC%9E%90%EC%9D%BC%EA%B9%8C)
+* [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
