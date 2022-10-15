@@ -1623,6 +1623,7 @@ Machine Learning
   * [Streamlit - HTML, CSS, JS 없이 Python으로 웹사이트 만들기 - YouTube](https://www.youtube.com/watch?v=XACHCUduqh0)
   * [Build A Digital Resume Using Python & Streamlit - YouTube](https://www.youtube.com/watch?v=BXAeMICmUSQ)
   * [STREAMLIT Python TRICKS - make your WEB APP look BETTER in 6 Minutes |Machine Learning| Data Science - YouTube](https://www.youtube.com/watch?v=G9U4Uixssf0)
+  * [Building a Dashboard web app in Python - Full Streamlit Tutorial - YouTube](https://www.youtube.com/watch?v=o6wQ8zAkLxc)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
