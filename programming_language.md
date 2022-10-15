@@ -133,6 +133,7 @@ Programming Language
 * [FLVIz - Finite Automata Simulator written in QT/Graphviz](https://github.com/wkoszek/flviz)
 * [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
 * [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
+* [타다 드라이버 앱 상태관리 개선하기](https://blog-tech.tadatada.com/2022-09-16-app-state-managing)
 
 # Generic
 * [Modern programming languages require generics - Ayende @ Rahien](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics)
