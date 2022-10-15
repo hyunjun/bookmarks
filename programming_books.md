@@ -150,6 +150,9 @@ Programming Books
     * 다빈치를 중심으로 프로그래밍 언어로 코드를 작성하는 것만이 코딩이 아니고, 문제를 해결하는 사고 방식이 코딩이라는 좋은 주제의 글
     * 약간 저자의 억지스러운 면도 없진 않지만 전반적으로는 나쁘지 않음
   * 한라 325.211-최82ㄷ 탐라 문325.211-최811ㄷ
+* [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
+  * ★★★☆☆ 2022.10.15~16 3개는 부족하단 생각이나 4개까지는 확신이 들지 않았음
+  * 탐라 문004.588-프239ㅋ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -247,8 +250,6 @@ Programming Books
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
-* (NOT YET) [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
-  * 탐라 문004.588-프239ㅋ
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
