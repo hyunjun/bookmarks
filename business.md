@@ -1837,6 +1837,7 @@ Business
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
   * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 * [피치 덱](https://www.thestartupbible.com/2022/09/the-first-pitch-deck.html) IR은 콩글리시, deck 혹은 pitch deck이 맞음. 숫자가 중요
+* [피치 덱 분석](https://www.thestartupbible.com/2022/10/the-pitch-deck-analytics.html)
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 * [HR인사이트 리뷰로 보는 망해가는 스타트업의 특징 < 벤처 < Industry < 기사본문 - 포춘코리아(FORTUNE KOREA)](http://www.fortunekorea.co.kr/news/articleView.html?idxno=22858)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
