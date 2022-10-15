@@ -736,6 +736,7 @@ Web
   * [Simple Responsive Navigation Menu with Tailwind CSS in ReactJS - YouTube](https://www.youtube.com/watch?v=k7LrSw_pl2g)
   * [Responsive Navbar Menu in React with Tailwind CSS and NextJS](https://morioh.com/p/861d59a7c6c2)
   * [A Customizable Next.js and Tailwind Blog Starter](https://morioh.com/p/38f8f7b37164)
+  * [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
