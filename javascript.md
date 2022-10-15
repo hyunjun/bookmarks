@@ -5044,6 +5044,8 @@ Javascript
   * [Payload - Headless CMS 오픈소스 | GeekNews](https://news.hada.io/topic?id=6634)
 * [payments: 통합 결제 서버](https://github.com/archidraw/payments)
 * [pixel-font-maker: 픽셀 폰트를 디자인하고 TTF 파일로 뽑을 수 있는 프로그램입니다](https://github.com/exqt/pixel-font-maker)
+* [planck.js: 2D JavaScript Physics Engine](https://github.com/shakiba/planck.js)
+  * [당첨자 뽑기 룰렛 개발](https://lazygyu.net/blog/marble_roulette)
 * [psd: A lightweight Adobe Photoshop .psd/.psb file parser in typescript with zero-dependency for WebBrowser and NodeJS](https://github.com/webtoon/psd)
   * [타입스크립트 기반 포토샵 psd 파서 | GeekNews](https://news.hada.io/topic?id=5671)
   * [@webtoon/psd 라이브러리 개발기](https://d2.naver.com/helloworld/6631477)
