@@ -1019,6 +1019,7 @@ AWS
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 * [Spark 쓰면서 겪은 이야기들](https://tech.youha.info/6acde37d-25c5-4005-bc6a-b69d8c248eea)
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+* [Amazon EMR에서 Trino와 Apache Superset을 이용한 Federated Query 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-emr-trino-apache-superset-federated-query/)
 
 # EventBridge
 * [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
