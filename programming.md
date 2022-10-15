@@ -509,7 +509,6 @@ Programming
 * [**기술부채가 쌓여있는 상황에서 서비스 성능 임팩트 있게 개선하기 | by GeonHo Tony Han | CLASS101 | Jul, 2021 | Medium**](https://medium.com/class101/%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EA%B0%80-%EC%8C%93%EC%97%AC%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EC%9E%88%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-b4c6d8ccc9c6)
 * [What Is Technical Debt and Why Is It So Painful? | by Ben "The Hosk" Hosking | Jan, 2022 | Dev Genius](https://blog.devgenius.io/what-is-technical-debt-and-why-is-it-so-painful-96ef269aebd4)
 * [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
-* [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
 * [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
 * [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
 * [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
@@ -3564,7 +3563,10 @@ Programming
     * Airbnb has open sourced Dynein, their job queuing system that they use for offloading tasks from the main request path and performing other asynchronous operations. It uses DynamoDB as a scheduler for future jobs and SQS for queuing—the post describes how this is built in a highly scalable way.
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
-* messaging-hub [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
+* messaging-hub
+  * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
+  * [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
+  * [messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
 * [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
@@ -5091,7 +5093,8 @@ Programming
 * [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
 * [What You Can Learn from the AWS Tokyo Outage – The New Stack](https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/)
 * [디아블로 II: 레저렉션 서버 문제에 대한 설명 및 그간의 개선 노력과 향후 계획 안내 - 일반 토론장 - Diablo 2 Resurrected Forums](https://kr.forums.blizzard.com/ko/d2r/t/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C-ii-%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98-%EC%84%9C%EB%B2%84-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B7%B8%EA%B0%84%EC%9D%98-%EA%B0%9C%EC%84%A0-%EB%85%B8%EB%A0%A5%EA%B3%BC-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D-%EC%95%88%EB%82%B4/13261) architecture 관점에서 취한 조치들에 주목
-* [우리는 모의장애훈련에 진심입니다. – part1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
+* [우리는 모의장애훈련에 진심입니다 – part 1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
+* [우리는 모의장애훈련에 진심입니다 – Part 2 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9314/)
 * [외부 시스템 장애에 대처하는 우리의 자세 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6447/)
 * [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
