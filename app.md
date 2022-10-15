@@ -183,6 +183,7 @@ App
     2. 스캔 이미지를 흑백모드와 그레이스케일, 컬러모드로 수동 지정 가능. 즉, 텍스트 영역을 모두 흑백처리해 용량 축소
     3. 600DPI로 이미지를 처리해도 책한권 파일 용량이 20메가 정도 -> OCR성능 및 가독성 향상
 * [send-anywhere.com](https://send-anywhere.com/)
+* sendtime [센드타임 무료로 시작하기 | 비즈니스 미팅 스케줄링에는, sendtime!](https://landing.sendtime.io/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [Spacedrive - an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust](https://github.com/spacedriveapp/spacedrive)
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
