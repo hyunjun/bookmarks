@@ -412,6 +412,7 @@ Business
     * 다른 사람의 피드백이 필요한가? 아니면 단지 정보 제공인가?
     * 의견 수렴 등 피드백이 필요한 경우, 미팅이 메시지나 이메일보다 더 효율적인가?
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
+* [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
@@ -1080,6 +1081,7 @@ Business
 * [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
 * [Web2 개발자가 Web3 세상에 온 소감. 진심으로 내가 Web3에 오게되리라고는 상상하지 못했다. | by Chris Song | Sep, 2022 | NFT뱅크](https://blog.nftbank.ai/web2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-web3-%EC%84%B8%EC%83%81-%EC%97%90-%EC%98%A8-%EC%86%8C%EA%B0%90-dea8985f30f6) 간접적으로 좋은 글
 * [새로온 CTO는 정복자일까](https://velog.io/@zetlos/%EC%83%88%EB%A1%9C%EC%98%A8-CTO%EB%8A%94-%EC%A0%95%EB%B3%B5%EC%9E%90%EC%9D%BC%EA%B9%8C)
+* [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)

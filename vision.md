@@ -535,6 +535,8 @@ Vision
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
   * [master-easy-ocr-wook-2.endpoint.ainize.ai](https://master-easy-ocr-wook-2.endpoint.ainize.ai)
   * `curl -X POST "https://master-easy-ocr-wook-2.endpoint.ainize.ai/word_extraction" -H "accept: images/*" -H "Content-Type: multipart/form-data" -F "language=ko" -F "base_image=@<file name>.jpg;type=image/jpeg"` .jpg file이 있는 directory에서 실행
+* [Inverse-DALL-E-for-Optical-Character-Recognition: Inverse DALL-E for Optical Character Recognition](https://github.com/affjljoo3581/Inverse-DALL-E-for-Optical-Character-Recognition)
+  * [PyTorchKR에 쓴 개발자의 동기](https://www.facebook.com/groups/PyTorchKR/posts/2456108624528804/)
 * [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
 * [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
 * [PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
