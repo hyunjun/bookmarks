@@ -1546,6 +1546,9 @@ Programming Books
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 * (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
+  * 한라 005.133-길57ㅋ
+  * [GIL's LAB](https://gils-lab.tistory.com/)
+  * [quant: 《손에 잡히는 퀀트 투자 with 파이썬》 예제 코드](https://github.com/wikibook/quant)
 * (NOT YET) [퀀트의 세계 | 에이콘출판사](http://acornpub.co.kr/book/quant-career)
   * [퀀트의 세계 (홍창수)](https://brunch.co.kr/@gauss92tgrd/61)
 * (NOT YET) [이더리움과 솔리디티 입문: 이더리움을 이용한 블록체인과 암호화폐 개발 이론과 실무 | 위키북스](https://wikibook.co.kr/ethereum-solidity/)
@@ -2441,6 +2444,7 @@ Programming Books
   * 한라 325.2-버874ㅇ
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
+* (NOT YET) [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
 
 # Math
 
