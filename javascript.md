@@ -2008,6 +2008,7 @@ Javascript
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
+    * [Do not use Swagger but build SDK instead for frontend developers - DEV Community 👩💻👨💻](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
   * [quasar-ssr-nestjs-boilerplate: Quasar Framework + Vue SSR + NestJS API Server = ULTIMATE FULLSTACK](https://github.com/composite/quasar-ssr-nestjs-boilerplate)
 * Netlify
