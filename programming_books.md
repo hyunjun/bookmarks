@@ -1769,7 +1769,7 @@ Programming Books
   * [The-Complete-Coding-Interview-Guide-in-Java: The Complete Coding Interview Guide in Java, published by Packt](https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java)
 * (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
 * (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
-  * 우당
+  * 우당 문005.138-레65ㅈ
 
 # iOS
 
@@ -2871,7 +2871,7 @@ Programming Books
   * [Black Hat Python, 2nd Edition | No Starch Press](https://nostarch.com/black-hat-python2E)
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 * (NOT YET) [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
-  * 한라
+  * 한라 005.133-비77ㅍ
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
 * (NOT YET) [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
