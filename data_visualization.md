@@ -108,6 +108,7 @@ Data Visualization
 * [데이터 시각화 종류 고르기 - 모두의연구소](https://modulabs.co.kr/blog/data-visualization/)
 * [데이터 스토리텔링 연습! Day 23](https://brunch.co.kr/@gkicarus/220)
 * [Python Script in Power BI Desktop | Pega Devlog](https://jehyunlee.github.io/2022/10/14/Python-DS-116-powerbi/)
+* [혼란한 Matplotlib에서 질서 찾기 | Pega Devlog](https://jehyunlee.github.io/2022/10/16/Python-DS-117-pycon2022/)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
