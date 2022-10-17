@@ -207,6 +207,8 @@ Programming
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
+* [김창준 - 전문성 101 - 연습을 통하지 않고서는 전문가가 될 수 없다](https://www.facebook.com/cjunekim/posts/pfbid02mqDNcDevaJrrrv8MVbAEu19qhoypJ7xX8w4bzNMAXfFavBAcnnQ6CUuKu2WVCkQMl)
+  * [애자일 이야기 : 달인이 되는 비결](http://agile.egloos.com/5612585)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
@@ -1096,6 +1098,7 @@ Programming
     * [LitmusChaos Becomes a CNCF Incubator Project – The New Stack](https://thenewstack.io/litmuschaos-becomes-a-cncf-incubator-project/)
 * [What is Chaos Engineering and How Do You Apply it to Docker - YouTube](https://www.youtube.com/watch?v=tYP65Fgq4LE)
 * [Harness Chaos Engineering Practitioner](https://university.harness.io/path/harness-chaos-engineering-practitioner)
+* [카오스엔지니어링 (Chaos Engineering) 알아보기 - YouTube](https://www.youtube.com/playlist?list=PLVKMvBGg2tCdrxH_IMWlSijR2YcBLjEHy)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
