@@ -470,6 +470,8 @@ Programming Books
   * 우당 문005.73-수43ㅋ
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
   * 탐라
+* (NOT YET) [Learning Algorithms Book](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
+  * [LearningAlgorithms: Code repository associated with Learning Algorithms: A Programmer's Guide to Writing Better Code. https://oreil.ly/learn-algorithms ](https://github.com/heineman/LearningAlgorithms)
 
 # Amazon AWS
 
