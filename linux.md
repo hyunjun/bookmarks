@@ -151,6 +151,7 @@ Linux
 * [알리바바가 외친 “열려라 참깨”에는 열리지 않는 문 - 넷마블 기술 블로그](https://netmarble.engineering/optimize-linux-account-and-password/) 계정
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 * [etc 디렉터리에 있는 소중한 아이들 - 넷마블 기술 블로그](https://netmarble.engineering/watch-out-important-files-in-etc-directory/)
+* [에스코어 | swappiness 커널 파라미터 관련(SWAP)](https://s-core.co.kr/post_os/swappiness-%EC%BB%A4%EB%84%90-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EA%B4%80%EB%A0%A8swap/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -508,6 +509,8 @@ Linux
 * `comm`
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
+* `cp`
+  * `cp -Rf source_dir/* dest_dir` [mac/unix 디렉토리 병합하기](https://nolran.tistory.com/35)
 * crontab
   * [**Crontab Generator**](https://crontab-generator.org/)
   * [crontab.guru](http://crontab.guru/)
