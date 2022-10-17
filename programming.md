@@ -2675,6 +2675,13 @@ Programming
 * [The 7 Coding Styles That Are Dated | by Elye | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/the-7-coding-styles-that-are-dated-90eff1408d6e)
 * [dprint - Code Formatter](https://dprint.dev/)
   * [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint/)
+* [Prettier · Opinionated Code Formatter](https://prettier.io/)
+  * [Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
+    * Prettier를 좋아하지만, 프로젝트에서 Prettier를 사용하지 않는 이유를 설명한 글
+    * Prettier는 편리하지만, Opinionated하므로 일부 코드 스타일은 변경 불가능
+      * 대표적으로 printWidth 때문에 80자로 라인을 맞추기 위해서 오히려 가독성이 안 좋아지는 경우도 존재
+    * 보통 Prettier만 쓰지 않고 ESLint를 같이 쓰게 되는데 이때 오히려 구성이 복잡해진다고 느낌
+    * ESLint에도 코드 스타일을 지정할 수 있는 기능이 있으므로 이 구성을 만들어서 사용하는 것이 더 간편했다고 설명
 
 # Compiler, Interpreter
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
