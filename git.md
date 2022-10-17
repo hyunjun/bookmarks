@@ -940,6 +940,23 @@ Git
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
   * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
   * [**git merge 커밋 리버트(revert)**](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)
+* `scalar`
+  * [The Story of Scalar | The GitHub Blog](https://github.blog/2022-10-13-the-story-of-scalar/)
+    * 이번 Git v2.38.0에 포함된 `scalar` 명령어는 대규모 저장소의 성능 문제를 특별히 해결하기 위한 명령어
+      * git clone 대신 scalar clone 사용
+    * partial clone, sparse checkout, maintenance같은 성능 관련 명령어가 여기 모두 포함되어 있고
+      * 이미 클론한 저장소라면 scalar register로 사용 가능
+    * 이 글은 Scalar가 만들어져서 Git에 포함되기까지의 과정을 설명한 글
+    * [VFS for Git](https://github.com/microsoft/vfsforgit)은 Microsoft의 Windows OS 모노레포를 Git으로 전환하기 위해 작성, 읽기 할 때만 파일 로드 가능
+    * Microsoft Office 모노레포도 VFS for Git을 이용하여 Git으로 갈아탈 예정이었지만 여기서는 macOS도 지원해야 했는데 macOS에서는 VFS 사용 어려움
+    * Office 모노레포틑 sparse checkout을 사용할 수 있었지만, sparse checkout은 성능 때문에 VFS for Git에서는 사용하지 않음
+    * sparse checkout의 성능 때문에 cone 모드를 추가했고 이를 통해 VFS와 비슷한 성능 도달 가능
+    * 이러한 프로토타입의 가치가 증명되었고 VFS for Git과 별개로 만들기로 결정해서 Scalar라는 이름 선택
+    * 기존 VFS for Git 대신 Scalar라는 새로운 저장소를 선택하고
+      * VFS for Git의 코드를 새 아키텍처로 개선하고
+      * 백그라운드에서 git 명령어를 계속 수행하고 파일을 최신 상태로 유지하는 서비스도 git background maintenance를 개발해서 대체
+    * 이렇게 변경하고 보니 Git 위에 있는 CLI 형태로 바뀌었기 때문에 C# 코드를 유지할 필요가 없어서 C로 포팅하고 아키텍처가 훨씬 단순화
+    * 대규모 저장소의 요구사항이 Microsoft에만 있는 것이 아니므로 Git의 `contrib/` 디텍로리를 통해 Git 업스트림에 기여 시작, 2.38.0 릴리스에 맞춰서 Git의 일부로 포함
 * stash
   * [A practical guide to using the git stash command | Opensource.com](https://opensource.com/article/21/4/git-stash)
 * submodule
