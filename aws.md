@@ -1877,3 +1877,4 @@ AWS
 * [AWS WAF 설정 및 접근 제한하기 – OpsNow Tech Blog](https://blog.opsnow.com/40)
 * [Guidelines for Implementing AWS WAF](https://d1.awsstatic.com/whitepapers/guidelines-implementing-aws-waf.pdf)
 * [AWS WAF – Label 을 활용한 예외 규칙의 사용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-waf-using-label-to-use-exception-rules/)
+* [AWS WAF의 도입과 운영, 무엇을 고민해야할까?. 아이디어스의 WAF 도입과 운영 과정에서 고민했던 부분을 나눠보려고… | by Jiyoung Lee | idus-Tech | Oct, 2022 | Medium](https://medium.com/idus-tech/aws-waf%EC%9D%98-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%9A%B4%EC%98%81-%EB%AC%B4%EC%97%87%EC%9D%84-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-31d88d97dbdf)
