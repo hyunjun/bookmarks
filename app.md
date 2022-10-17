@@ -628,6 +628,11 @@ App
   * [Fleet의 내부 구조, 파트 II – 에디터 해부하기 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
   * [Fleet의 내부 구조, 파트 III – 상태 관리 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/06/fleet-below-deck-part-iii-state-management/)
   * [Fleet의 내부 구조, 파트 IV – 분산형 트랜잭션 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/07/fleet-below-deck-part-iv-distributed-transactions/)
+  * [Fleet 공개 테스트 버전이 출시되었습니다 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/10/introducing-the-fleet-public-preview/)
+    * JetBrains가 만든 새로운 IDE Fleet 프리뷰 공개
+    * Fleet은 IntelliJ 코드 처리 엔진을 사용
+      * 분산 IDE로 설계되어 JetBrains의 Space를 이용해서 원격에서 코드 처리
+      * 로컬에서는 Fleet만 가볍게 사용하는 것도 가능
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
