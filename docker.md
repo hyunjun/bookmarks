@@ -1521,6 +1521,14 @@ Docker
 * [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
 * [Accidental complexity, essential complexity, and Kubernetes | Drifting in Space](https://driftingin.space/posts/complexity-kubernetes)
 * [Kubernetes Was Never Designed for Batch Jobs | by Meadowrun | Sep, 2022 | Better Programming](https://betterprogramming.pub/kubernetes-was-never-designed-for-batch-jobs-f59be376a338)
+* [Restructuring the Kubernetes Threat Matrix and Evaluating Attack Detection by Falco | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220928-kubernetes-threat-matrix-and-attack-detection-by-falco/)
+  * Mercari에서 인턴십을 하면서 Kubernetes의 보안 탐지를 강화한 작업 소개
+  * Mercari는 Kuberentes 클러스터의 공격 감지를 위해 Sysdig Secure를 2020년부터 사용
+    * [sysdig](https://sysdig.com/)는 Falco에 기반한 보안 기능을 제공하는 유료 SaaS
+    * [Falco](https://falco.org/)는 커널의 시스템 호출을 수집해서 Kubernetes와 컨테이너 공격을 감지하는 프로젝트
+  * 적용한 지 2년이 지나서 Falco나 sysdig나 새로운 기능이 나왔고 보안에 관한 정보도 많아졌으므로 재평가가 필요
+  * [Microsoft에서 발행한 Kubernetes의 위협 메트릭](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)을 기반으로 위협 메트릭을 정의해서 새로운 Falco 규칙을 Falco에도 적용하게 기여
+  * 현재 Falco는 애플리케이션 내의 공격은 탐지하지 못하고 단일 시스템 호출로 식별하므로 여러 시스템 호출의 조합으로 공격하는 경우는 탐지 불가능
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
