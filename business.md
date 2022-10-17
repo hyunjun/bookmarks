@@ -796,6 +796,7 @@ Business
   * [왓차의 온보딩 프로세스 | GeekNews](https://news.hada.io/topic?id=6992)
 * [⛺️ 구성원의 이탈을 막는 '온보딩'](https://stibee.com/api/v1.0/emails/share/LN4NYBPcJDWCqfGj4oMQgWWPE9Ucwkk=)
 * [카카오 공채 입사 후 10개월 FE개발팀에서의 여정 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220915-10month-after-join-fe-team/)
+* [신입 백엔드 개발자의 우당탕탕 엔지니어링 온보딩팀 교육 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/10/17/onboarding-service-engineering.html)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
