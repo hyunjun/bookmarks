@@ -1,6 +1,7 @@
 Business
 ========
 
+* [WorkLab: Vital facts about the future of work](https://www.microsoft.com/en-us/worklab/)
 * [위대한 제품의 6가지 속성](http://www.venturesquare.net/577006)
 * [위대한 제품의 특성](http://www.andrewahn.co/product/great-products/)
 * [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
@@ -1735,6 +1736,10 @@ Business
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
 * [모든 창업자에게 자극이 될 Deel의 피치덱 | Disquiet\*](https://disquiet.io/@minhyung0926/makerlog/440)
+* [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
+  * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
+* [피치 덱](https://www.thestartupbible.com/2022/09/the-first-pitch-deck.html) IR은 콩글리시, deck 혹은 pitch deck이 맞음. 숫자가 중요
+* [피치 덱 분석](https://www.thestartupbible.com/2022/10/the-pitch-deck-analytics.html)
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
@@ -1751,6 +1756,7 @@ Business
   * [(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
   * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
+* [How to Build a Startup | Udacity Free Courses](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
 * [사업에서 시장이 중요한 이유ㅣ82 STARTUP 액셀러레이팅 프로그램 모집 - YouTube](https://www.youtube.com/watch?v=GJ6Sw4T5gAI)
@@ -1809,6 +1815,7 @@ Business
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
+* [장난감, 취미, 그리고 사업](https://www.thestartupbible.com/2022/07/when-toys-become-great-businesses.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
@@ -1843,10 +1850,6 @@ Business
 * [Kihong Bae - YouTube](https://www.youtube.com/user/khbae/videos)
 * [스타트업의 첫 이사회 보고용 PPT 템플릿 | GeekNews](https://news.hada.io/topic?id=3893)
 * [브런치북 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
-* [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
-  * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
-* [피치 덱](https://www.thestartupbible.com/2022/09/the-first-pitch-deck.html) IR은 콩글리시, deck 혹은 pitch deck이 맞음. 숫자가 중요
-* [피치 덱 분석](https://www.thestartupbible.com/2022/10/the-pitch-deck-analytics.html)
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 * [HR인사이트 리뷰로 보는 망해가는 스타트업의 특징 < 벤처 < Industry < 기사본문 - 포춘코리아(FORTUNE KOREA)](http://www.fortunekorea.co.kr/news/articleView.html?idxno=22858)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
