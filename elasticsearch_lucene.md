@@ -346,6 +346,7 @@ ElasticSearch - Lucene
 * [5 Best Elastic Search Courses for Beginners to Learn Kibna, Logstash and ELK Stack in 2022 | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/5-best-elastic-search-courses-for-beginners-to-learn-kibna-logstash-and-elk-stack-in-2022-eb3e1e0015c4)
 * [ELK Session 1 : Centralise Logging with ELK in Just 15 Minutes #Devops #Docker #Kubernetes - YouTube](https://www.youtube.com/watch?v=QvXzhDiDJz4)
 * [YaCy - free software for your own search engine](https://yacy.net/)
+* [엘라스틱이 쉬웠던 이유 - 2nd | Popit](https://www.popit.kr/%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1%ec%9d%b4-%ec%89%ac%ec%9b%a0%eb%8d%98-%ec%9d%b4%ec%9c%a0-2nd/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
