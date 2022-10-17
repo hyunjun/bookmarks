@@ -287,6 +287,14 @@ Web
   * [Third Parties | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/third-parties/)
 * [Hey.com](https://www.patterns.dev/posts/case-studies/)
   * [Hey.com | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/hey-com/)
+* [The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
+  * Deno Company에서 엣지 컴퓨팅의 미래를 설명한 글
+  * 너무 과거부터 얘기하는 거 아닌가 싶기도 한데
+    * CDN이 1998년 CDN을 런칭하면서 정적 파일을 사용자에 가까운 캐싱 서버에서 제공할 수 있게 했지만
+  * 이젠 동적인 웹도 엣지에 배포해서 각 사용자가 자신에게 가까운 서버에 요청을 보내서 레이턴시를 줄이고
+    * 서버리스처럼 사용한 만큼만 사용할 수 있게 된다고 설명
+  * DDoS도 자연히 막을 수 있어서 보안도 좋지만
+  * 기존 프레임워크가 엣지에 최적화되진 않아서 Fresh같은 프레임워크가 엣지에 맞게 설계되었다고 하고 있다
 
 # Apache
 * installation
@@ -721,7 +729,9 @@ Web
   * [렌더링 성능을 7배 빠르게 하는 2줄의 CSS | GeekNews](https://news.hada.io/topic?id=6713)
 * [Create A Age Calculator Using HTML CSS & JAVASCRIPT | Age Calculator | Neumorphism CSS - YouTube](https://www.youtube.com/watch?v=CsVN9NHbw2U)
 * [테이블에 border-radius가 적용되지 않을 때 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/894)
-* [CSS 말줄임표 뒤에 컨텐츠 두기 - 코드쓰는사람](https://taegon.kim/archives/10549)
+* [CSS 말줄임표 뒤에 컨텐츠 두기 - 코드쓰는사람](https://taegon.kim/archives/10549/)
+  * 긴 텍스트를 2줄로만 표시하고 말줄임 표시를 하고 위에 "더보기" 버튼을 넣는 것을 CSS로 구현하는 방법
+  * 줄임표 표시와 버튼 배치 후 CSS Shape 적용까지 단계별로 설명하는데 이후 문제가 발견되어 이 문제도 해결하는 방법까지 제안
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
@@ -738,7 +748,12 @@ Web
   * [Simple Responsive Navigation Menu with Tailwind CSS in ReactJS - YouTube](https://www.youtube.com/watch?v=k7LrSw_pl2g)
   * [Responsive Navbar Menu in React with Tailwind CSS and NextJS](https://morioh.com/p/861d59a7c6c2)
   * [A Customizable Next.js and Tailwind Blog Starter](https://morioh.com/p/38f8f7b37164)
-  * [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/)
+  * [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system)
+    * 카카오페이지에서 웹사이트를 개편하면서 Tailwind CSS를 사용한 경험 정리
+    * 기존에 공통 컴포넌트가 없어서 비슷한 컴포넌트가 늘어났고 스타일에 이름을 붙이지 않아서 수정할 때 어려움이 존재
+      * 이를 Emotion CSS로 해결해 보려했지만 여전히 문제
+    * 그래서 디자인 시스템의 부가적인 코드가 실제 기능 코드를 침범하지 않고 컴포넌트의 가동성을 해치지 않도록 하는 방법을 찾다 보니 Tailwind CSS를 도입
+    * 이를 직접 사용하는 대신 Twin.Marco를 사용해서 Emotion CSS와 tailwind를 같이 쓸 수 있게 되었고 이를 적용하면서 적용했던 팁 정리
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
