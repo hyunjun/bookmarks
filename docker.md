@@ -1848,6 +1848,7 @@ Docker
   * [Rancher Desktop: Kubernetes and container management on the desktop](https://rancherdesktop.io/)
   * [RKE2 - Rancher's Next Generation Kubernetes Distribution](https://docs.rke2.io/)
     * [온프레미스 쿠버네티스 프로덕션 환경 10개월 운영기 | 오토피디아](https://medium.com/autopedia/rke2-%EA%B8%B0%EB%B0%98%EC%9D%98-on-premise-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%B0%EA%B4%80%EA%B3%B5-%EC%83%9D%EC%A1%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-2%ED%8E%B8-f4c71bce65a2)
+      * [온프레미스 쿠버네티스 프로덕션 환경 10개월 운영기.pdf - Google Drive](https://drive.google.com/file/d/1Atl5TPsIaPMQuRCWMhtr1LY17Qz7inp-/view)
     * [온프레미스 쿠버네티스에서 NAS, GPU 사용하기 (with RKE2, NFS, gpu-operator) | by Kevin Jo | 오토피디아 | Aug, 2022 | Medium](https://medium.com/autopedia/%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%97%90%EC%84%9C-gpu-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-with-rke2-gpu-operator-12ec53919a25)
 * [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
 * [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
