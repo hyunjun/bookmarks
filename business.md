@@ -619,6 +619,7 @@ Business
 * [모바일인덱스 2주 체험기](https://brunch.co.kr/@hyungsukkim/170)
 * [실행력의 비밀... '아는 것'과 '할 줄 아는 것' - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119929)
   * [실행력의 비밀... '아는 것'과 '할 줄 아는 것'](https://www.linkedin.com/posts/annette-meejeong-kim_%EB%A5%98%EB%9E%91%EB%8F%84-%EC%B9%BC%EB%9F%BC-%EC%8B%A4%ED%96%89%EB%A0%A5%EC%9D%98-%EB%B9%84%EB%B0%80-%EC%95%84%EB%8A%94-%EA%B2%83%EA%B3%BC-%ED%95%A0-%EC%A4%84-%EC%95%84%EB%8A%94-%EA%B2%83-activity-6987375687074557952-tOFe/)
+* [여행정보 서비스가 흥하기 어려운 이유](https://yslab.kr/81)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -740,6 +741,7 @@ Business
 * [스타트업의 핵심인력이 가져야할 조건 1편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696110781)
 * [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
 * [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
+* [스타트업 인재 채용, ‘보상 설계’가 중요합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiresystem20220825)
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
@@ -1650,6 +1652,7 @@ Business
 * [토스는 이렇게 시작했습니다 | PO SESSION - YouTube](https://www.youtube.com/watch?v=Tmj1HEFnKpE)
 * [토스 리더가 직접 답해드립니다 | PO SESSION Q&A - YouTube](https://www.youtube.com/watch?v=GFERag7kjFM)
 * [토스 PO 세션 1~7편 총 정리](https://brunch.co.kr/@ashashash/186)
+* [PO SESSION, 토스의 핵심 노하우를 나누다](https://blog.toss.im/article/toss-posession)
 * [정성적 차이](https://www.thestartupbible.com/2022/07/unquantifiable-moats.html)
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
@@ -1702,6 +1705,7 @@ Business
 * [얼떨결에 프로덕트 오너](https://brunch.co.kr/@cliche-cliche/149)
 * [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
 * [요기요 PO는 어떻게 일하나요?. “면접관이 전하는 요기요 PO가 일하는 방식” | by Sunyoung Go | Aug, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%94%EA%B8%B0%EC%9A%94-po%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ea0dbee09c06)
+* [PO린이를 위한, 프로덕트 오너 '필수 역량'](https://brunch.co.kr/@kiril/19)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -2004,6 +2008,9 @@ Business
   * 분석할 수 있는 1,061개 회사 중에서 38.8%가 시리즈 A 투자유치에 성공
     * 이 중 32.4%가 시리즈 B
     * 이 중 21.2%가 시리즈 C 이상
+* [변호사와 심사역이 WeCrashed를 보았다👀](https://stibee.com/api/v1.0/emails/share/-n1kPKOb9XFCEe5TXvl_gR6OQXDVPg==)
+* [스타트업의 자금 조달 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=5176006)
+* [스머프 스타트업의 머리속을 들여다보는 프로들 - YouTube](https://www.youtube.com/playlist?list=PLQvqXcm97CTD5EGNe_yrFlprol5lE59qH)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
