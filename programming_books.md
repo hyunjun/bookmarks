@@ -689,6 +689,7 @@ Programming Books
 * (NOT YET) [C 언어 코딩 도장: 따라하기, 연습하기, 심사하기로 배우는 C 언어 프로그래밍](https://pyrasis.com/book/CCodingDojang)
   * 한라 005.133-남73ㅆ
 * (NOT YET) [CERT C 프로그래밍 2/e | 에이콘출판사](http://acornpub.co.kr/book/cert-c-2e)
+* (NOT YET) [전문가를 위한 C](https://www.hanbit.co.kr/store/books/look.php?p_code=B6135642963)
 
 # C++
 
