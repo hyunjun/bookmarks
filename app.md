@@ -30,6 +30,7 @@ App
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
 * [널리 세상을 ‘클라우드’하다··· SaaS 기업 27선 - CIO Korea](https://www.ciokorea.com/news/203314)
+* [2022년에 이용해볼 만한 최신 SaaS 추천](https://www.traw.io/blog/latest-saas-recommendations-in-2022)
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
@@ -286,7 +287,6 @@ App
 * [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
 * [블로그 새단장 후기, 2탄 | imch.dev](https://imch.dev/posts/blog-renewal-2021) headless CMS
 * [Next Gen Static Blogging | mmackh](https://inoads.com/articles/2021-01-09-Next-Gen-Static-Blogging)
-* [티스토리 개인도메인 사이트 기존 URL 유지하면서 이전하기 - tebica story](https://earlybird.kr/2655)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
@@ -414,8 +414,10 @@ App
 * [Site.js - Small Web construction set](https://sitejs.org/)
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
-* [tistory: 티스토리 블로그 오픈 API 파이썬 라이브러리](https://github.com/WooilJeong/tistory)
-  * [Python tistory 패키지로 블로그 자동화하기 - 정우일 블로그](https://wooiljeong.github.io/python/tistory/)
+* tistory [소개 · GitBook](https://tistory.github.io/document-tistory-apis/)
+  * [티스토리 개인도메인 사이트 기존 URL 유지하면서 이전하기 - tebica story](https://earlybird.kr/2655)
+  * [tistory: 티스토리 블로그 오픈 API 파이썬 라이브러리](https://github.com/WooilJeong/tistory)
+    * [Python tistory 패키지로 블로그 자동화하기 - 정우일 블로그](https://wooiljeong.github.io/python/tistory/)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
 * [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [widdler: A WebDAV server for TiddlyWikis](https://github.com/qbit/widdler)
