@@ -91,6 +91,15 @@ Open Source
     * 프로덕션에서는 Lightbend의 상용 라이센스 구매 필요
     * BSL이 오픈소스가 아니므로 akka는 더 이상 오픈소스가 아님
 * [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
+* [How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)
+  * 오픈소스 회사가 첫 1,000명의 커뮤니티 멤버를 모으려고 어떻게 했는지 알기 위해
+    * HashiCorp의 Mitchell Hashimoto, Databricks의 Reynold Xin, Cockroach의 Peter Mattis, Confluent의 Ale Murray에게 질문해서 정리한 글
+  * 처음에 어떤 전략을 사용했는지 북극성 지표는 무엇이었는지, 천명까지 얼마나 걸렸는지를 질문
+    * 전략 1: CockroachDB는 Hackernews에 기술 관련 글을 지속해서 작성
+    * 전략 2: HashiCorp, Databricks, Confluent는 밋업을 주로 열었는데 당시에는 온라인 및 비동기 협업이 지금보다 적었다는 점도 감안해야 함
+    * 전략 3: Databrikc는 초기 Spark 사용자의 질문이나 이슈에 적극적으로 지원
+  * 메트릭으로는 Slack 멤버, GitHub 스타 수, 다운로드나 문서의 조회수 사용
+  * 1,000명까지 걸린 시간은 CockroachDB는 9개월, Confluent는 6개월이 걸렸고 Databricks와 HashiCrop는 회사를 만들기 전부터 커뮤니티를 시작
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
