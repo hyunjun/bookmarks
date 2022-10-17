@@ -2149,6 +2149,7 @@ Javascript
 * [simplePARALLAX - the easiest way to get a parallax effect with javascript](https://simpleparallax.com/)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [Skypack - A new kind of JavaScript delivery network](https://www.skypack.dev/)
+* [slash: A collection of TypeScript/JavaScript packages to build high-quality web services](https://github.com/toss/slash)
 * [Smartcrop.js implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
   * [Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기 | GeekNews](https://news.hada.io/topic?id=4958)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
