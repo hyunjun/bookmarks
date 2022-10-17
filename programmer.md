@@ -171,6 +171,7 @@ Programmer
 * [5 Signs That You're a Great Developer | JavaScript in Plain English](https://javascript.plainenglish.io/5-signs-that-youre-a-great-developer-1209f432be76)
   * [당신이 훌륭한 개발자라는 5가지 증거](https://www.facebook.com/youngwook.kim.7549/posts/pfbid05y81CETwuFeF3gNMreAiGQ7RFp8x99vzFJjctk4GfLGxeHvfzWVmPKb4pJBqTiYsl)
 * [전설의 프로그래머 형님들의 '찐' 개발 훈수 - YouTube](https://www.youtube.com/watch?v=ZGSJsaA3ma4)
+* [버즈빌 개발자 JD의 개발 성장기 한 장 정리](https://nullptr.notion.site/JD-8424ebc797524a4086ba8157c9561679)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
