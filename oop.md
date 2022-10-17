@@ -22,6 +22,7 @@
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
   * 도메인 로직을 서술하기 위한 if는 사용
+* [초식 - 의존방향 생각하기 - YouTube](https://www.youtube.com/watch?v=cPdB-UBAVn8)
 * [다형성을 사용해 if/else를 제거하는 리팩토링을 하라](https://www.slipp.net/questions/566)
 * [Different Ways to Replace If/Else Statements | The Startup](https://medium.com/swlh/5-ways-to-replace-if-else-statements-857c0ff19357)
 * [Replacing If-Else with Commands and Handlers (CQS) | Level Up Coding](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
