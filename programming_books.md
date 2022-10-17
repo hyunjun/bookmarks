@@ -2446,6 +2446,7 @@ Programming Books
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
 * (NOT YET) [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
+* (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
 
 # Math
 
