@@ -645,6 +645,7 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
 
 ## Ukraine
 * [기사 - 우크라이나를 말한다 1: 러시아와 우크라이나가 서로 미워하는 이유](https://www.ddanzi.com/ddanziNews/718418055)
+* [As Russia prepared to invade Ukraine, U.S. struggled to convince Zelensky, allies of threat - Washington Post](https://www.washingtonpost.com/national-security/interactive/2022/ukraine-road-to-war/)
 
 # Oceania
 
