@@ -1811,6 +1811,7 @@ AWS
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
 * [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
 * [AWS Builders 온라인 시리즈](https://aws.amazon.com/ko/events/builders-online-series/)
+* [AWS Cloud Quest | 대화형 롤플레잉 게임 | AWS](https://aws.amazon.com/ko/training/digital/aws-cloud-quest/)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
 
