@@ -357,6 +357,8 @@ Data Science
 * [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
 * [Why and how should you learn “Productive Data Science”? - KDnuggets](https://www.kdnuggets.com/2021/07/learn-productive-data-science.html)
 * [**The Quick and Dirty Guide to Building Your Data Platform | by Barr Moses | Jul, 2021 | Towards Data Science**](https://towardsdatascience.com/the-quick-and-dirty-guide-to-building-your-data-platform-2f21dc4b7c94)
+* [데이터 플랫폼 2022: 페타바이트 규모의 글로벌 확장. 쿠팡 데이터 플랫폼의 데이터 인제스천(Ingestion), 머신 러닝… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Medium](https://medium.com/coupang-engineering/data-platform-2022-global-expansion-in-petabytes-b127f093da0d)
+* [데이터 플랫폼 2022: 데이터를 비즈니스 인사이트로 전환하기 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/data-platform-2022-transforming-bytes-to-business-insights-d2bc839899b6)
 * [Big Data World, Part 1: Definitions | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/05/04/big-data-world-part-1-definitions/)
 * [빅데이터의 세계, 2부: 직무 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/01/big-data-world-part-2-roles/)
 * [빅데이터의 세계, 3부: 데이터 파이프라인 구축 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/07/big-data-world-part-3-building-data-pipelines/)
