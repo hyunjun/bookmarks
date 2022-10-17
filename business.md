@@ -617,6 +617,8 @@ Business
 * [기술 분야의 성공을 이끄는 11가지 법칙 67p PDF | GeekNews](https://news.hada.io/topic?id=7236)
 * [삼성 vs. TSMC, 글로벌 반도체 전쟁...신뢰게임ㅣ시사멘터리 추적 17회 풀영상 - YouTube](https://www.youtube.com/watch?v=RJIwtkvDkkQ) 고객의 '신뢰'
 * [모바일인덱스 2주 체험기](https://brunch.co.kr/@hyungsukkim/170)
+* [실행력의 비밀... '아는 것'과 '할 줄 아는 것' - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119929)
+  * [실행력의 비밀... '아는 것'과 '할 줄 아는 것'](https://www.linkedin.com/posts/annette-meejeong-kim_%EB%A5%98%EB%9E%91%EB%8F%84-%EC%B9%BC%EB%9F%BC-%EC%8B%A4%ED%96%89%EB%A0%A5%EC%9D%98-%EB%B9%84%EB%B0%80-%EC%95%84%EB%8A%94-%EA%B2%83%EA%B3%BC-%ED%95%A0-%EC%A4%84-%EC%95%84%EB%8A%94-%EA%B2%83-activity-6987375687074557952-tOFe/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
