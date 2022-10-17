@@ -1633,7 +1633,7 @@ Programming
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
 * [Spring boot Circuit breaker Hystrix | Spring boot hystrix - YouTube](https://www.youtube.com/watch?v=kkX7oEzkqd8)
-* [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/)
+* [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/) circuit breaker
 * [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
   * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
   * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
@@ -1641,7 +1641,6 @@ Programming
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
 * [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
-* [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/) circuit breaker
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
 * [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
