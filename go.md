@@ -332,6 +332,13 @@ Go
 * [Golang with Examples: Keeping Your Modules Compatible](https://morioh.com/p/b2fdfb1ddba8)
 * [Dynamic Programming in Golang](https://morioh.com/p/6fb8265b7bf5)
 * [나의 10+년 Go 언어 이야기 | Homin Lee's blog](https://homin.dev/blog/post/20221004_my_golang_story_since_10years_ago/)
+* [Status update of my tsc port](https://kdy1.dev/posts/2022/10/tsc-port-status)
+  * swc를 만든 강동윤 님이 `tsc`를 Go로 포팅하고 있는 프로젝트에 대한 상황을 정리
+  * Rust를 쓰지만, TypeScript가 Go와 많은 프로퍼티를 공유하기 때문에 Go 언어를 선택
+    * TypeScript를 라인별로 Go로 재작성하는 것이 가능
+  * 하지만 tsc는 작은 버전에도 변경이 많이 발생하고 있고 34만 라인이나 되기 때문에 현실적으로는 이 모두를 재작성하는 것이 어려움
+  * 그래서 TypeScript 컴파일러를 입력으로 받아서 Go로 작성된 TypeScript 컴파일러를 출력하는 컴파일러를 생각하게 되어 ts2go를 생각
+  * 이렇게 만든 Go 코드에 컴파일 오류가 자주 발생했기 때문에 tsfix라는 Go 자동수정 도구를 만들어서 10만 개가 넘는 컴파일 오류를 1,298개로 감소
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
