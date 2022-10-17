@@ -209,6 +209,7 @@ Programming
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
 * [김창준 - 전문성 101 - 연습을 통하지 않고서는 전문가가 될 수 없다](https://www.facebook.com/cjunekim/posts/pfbid02mqDNcDevaJrrrv8MVbAEu19qhoypJ7xX8w4bzNMAXfFavBAcnnQ6CUuKu2WVCkQMl)
   * [애자일 이야기 : 달인이 되는 비결](http://agile.egloos.com/5612585)
+* [MIT 컴공을 1년만에 독학으로 끝낸 문과생의 학습법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ultralearning20191017)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
@@ -2403,6 +2404,7 @@ Programming
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
+* [Ploomber - Build data pipelines. FAST.⚡️](https://ploomber.io/)
 * [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
@@ -2831,7 +2833,9 @@ Programming
   * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
-* Toss [SLASH 21](https://toss.im/slash-21)
+* Toss
+  * [SLASH 22](https://toss.im/slash-22)
+  * [SLASH 21](https://toss.im/slash-21)
   * [토스 서비스를 구성하는 서버 기술](https://toss.im/slash-21/sessions/1-3)
 
 # Continuous Integration, CI
