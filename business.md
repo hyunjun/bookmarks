@@ -197,6 +197,7 @@ Business
 * [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
 * ["조직문화, 제대로 못할거면 차라리 내버려둬라"](https://v.daum.net/v/20221007130515369)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
+* [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
@@ -1082,6 +1083,7 @@ Business
 * [Web2 개발자가 Web3 세상에 온 소감. 진심으로 내가 Web3에 오게되리라고는 상상하지 못했다. | by Chris Song | Sep, 2022 | NFT뱅크](https://blog.nftbank.ai/web2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-web3-%EC%84%B8%EC%83%81-%EC%97%90-%EC%98%A8-%EC%86%8C%EA%B0%90-dea8985f30f6) 간접적으로 좋은 글
 * [새로온 CTO는 정복자일까](https://velog.io/@zetlos/%EC%83%88%EB%A1%9C%EC%98%A8-CTO%EB%8A%94-%EC%A0%95%EB%B3%B5%EC%9E%90%EC%9D%BC%EA%B9%8C)
 * [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
+* [CTO가 CTO를 뽑습니다](https://brunch.co.kr/@leehosung/54)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
