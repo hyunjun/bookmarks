@@ -405,6 +405,9 @@ Data Science
 * [Typical Problems and Challenges in Data Science | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/typical-problems-and-challenges-in-data-science-b572bac8e476)
 * [DataFest Seoul 발표자료](https://www.linkedin.com/smart-links/AQHevxD2vksslQ/a45125f6-83ab-467d-ad02-1b4c5cb027f4)
 * [2022 카카오 채용연계형 겨울 인턴십 for Tech Developers을 진행합니다! – tech.kakao.com](https://tech.kakao.com/2022/10/05/2022-kakao-winter-internship-for-tech-developers/)
+* [빅데이터로 살펴본 '택시대란' : (1) 수요편](https://report.kakaomobility.com/taxi-problem-with-big-data-demand)
+* [빅데이터로 살펴본 '택시대란' : (2) 공급편](https://report.kakaomobility.com/taxi-problem-with-big-data-supply)
+* [빅데이터로 살펴본 '택시대란' : (3) 종합편](https://report.kakaomobility.com/taxi-problem-with-big-data-ending)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

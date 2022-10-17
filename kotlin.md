@@ -197,6 +197,7 @@
 * [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
 * [Type modelling in Kotlin](https://kt.academy/article/type-modelling-kotlin)
 * [kotlin_build_performance](https://github.com/ganadist/kotlin_build_performance)
+* [Java 개발자가 보면 좋을 Kotlin 팁 모음 - 현구막 기술 블로그](https://hyeon9mak.github.io/kotlin-tips-for-java-developer/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

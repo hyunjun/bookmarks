@@ -4343,6 +4343,7 @@ Programming
   * [기술 뉴스 #205 : 22-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1619)
   * [기술 뉴스 #206 : 22-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1622)
   * [기술 뉴스 #207 : 22-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1627)
+  * [기술 뉴스 #208 : 22-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1630)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5112,6 +5113,8 @@ Programming
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
 * [That time we unplugged a data center to test our disaster readiness - Dropbox](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
+* [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
+  * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

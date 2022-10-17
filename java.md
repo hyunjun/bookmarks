@@ -2040,6 +2040,7 @@ Java
 * [검증부 (assert / expect)는 하드코딩한다](https://jojoldu.tistory.com/615)
 * [메세지의 템플릿 내용 단위 테스트 하기](https://jojoldu.tistory.com/619)
 * [Pragmatic Behavior Driven Development Using Cucumber](https://www.madrascoder.com/tutorials/001-pragmatic-cucumber/) BDD
+* [테스트 대역폭 늘리기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/test-bandwidth/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
