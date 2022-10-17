@@ -1090,6 +1090,7 @@ Book
 * (NOT YET) [워렌 버핏 바이블](https://www.thestartupbible.com/2020/02/warren-buffett-on-business.html)
 * (NOT YET) 돈의 역사
   * [8개월 만에, 1억 5천이 떨어졌다](http://thechangeground.com/archives/3137)
+* (NOT YET) [퀀트투자 무작정 따라하기](https://www.gilbut.co.kr/book/view?bookcode=BN003532)
 
 # Travel
 * [카페 도쿄](https://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
