@@ -725,6 +725,7 @@ Apache
 * [Kafka on Kubernetes: What could go wrong?](https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons)
 * [Setting up a local Apache Kafka instance for testing - DEV Community 👩💻👨💻](https://dev.to/sahan/setting-up-a-local-apache-kafka-instance-for-testing-ibf)
 * [카프카 생태계 기반의 비즈니스 메트릭 생성하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/10/14/grafana-with-ksqlDB.html)
+* [Apache Kafka Best Practices](https://skolaparthi.com/apache-kafka-best-practices/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
