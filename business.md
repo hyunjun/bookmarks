@@ -1095,6 +1095,7 @@ Business
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
 * [의사결정 방식을 개선해서 혁신을 추진하라](https://brunch.co.kr/@graypool/276)
+* [소프트웨어 기능과 구조에 대한 이야기](https://brunch.co.kr/@graypool/638)
 * [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
 * ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/204459)
 * [결정을 내리지 못하는 사람들을 위한 '좋은 의사결정' 이야기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodchoice20220302)
