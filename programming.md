@@ -210,6 +210,7 @@ Programming
 * [김창준 - 전문성 101 - 연습을 통하지 않고서는 전문가가 될 수 없다](https://www.facebook.com/cjunekim/posts/pfbid02mqDNcDevaJrrrv8MVbAEu19qhoypJ7xX8w4bzNMAXfFavBAcnnQ6CUuKu2WVCkQMl)
   * [애자일 이야기 : 달인이 되는 비결](http://agile.egloos.com/5612585)
 * [MIT 컴공을 1년만에 독학으로 끝낸 문과생의 학습법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ultralearning20191017)
+* [야생학습 하고 있나요?. 쿠키런 킹덤이란 게임을 1년이상 했다. 수집형 RPG 게임이라 적당히… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/%EC%95%BC%EC%83%9D%ED%95%99%EC%8A%B5-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-fc35f2954a07)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
@@ -1978,6 +1979,7 @@ Programming
 * [Microservices Vs. APIs: Highlighting the Major Differences](https://haripatel.me/major-differences-of-microservices-vs-apis/)
 * [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
 * [Microservices – Please, don’t | Riak Technologies](https://riak.com/posts/technical/microservices-please-dont/index.html)
+* [What Are Microservices Really All About? (And When Not To Use It) - YouTube](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -5005,6 +5007,7 @@ Programming
 * [테스트 코드와 반증가능성에 대한 메모 - 기계인간 John Grib](https://johngrib.github.io/wiki/article/test-code-and-falsifiability/)
 * [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
 * [회사에서 TDD 쓰려다 실패한 후기](https://velog.io/@skynet/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-TDD-%EC%93%B0%EB%A0%A4%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%95%9C-%ED%9B%84%EA%B8%B0)
+* [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
