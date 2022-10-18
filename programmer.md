@@ -131,6 +131,7 @@ Programmer
 * [Are We Really Engineers? • Hillel Wayne](https://www.hillelwayne.com/post/are-we-really-engineers/)
 * [The developer's essential knowledge pyramid](https://chrisrichardson.net/post/development/2022/02/18/what-a-developer-needs-to-understand.html)
 * [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking) 인맥구축
+* [지금 연봉 10배가 오릅니다 : '네트워킹 드리븐'으로 일하기](https://eopla.net/magazines/205) 일종의 인맥 이야기
 * [How to Be a 10x Software Engineer | by Michael Lin | Feb, 2022 | Medium](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
 * [10배 이상 뛰어난 개발자가 되는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1373/)
 * [The Platform Engineer | By Varun Achar | Razorpay Engineering](https://engineering.razorpay.com/the-platform-engineer-db2b21434911)
@@ -172,6 +173,9 @@ Programmer
   * [당신이 훌륭한 개발자라는 5가지 증거](https://www.facebook.com/youngwook.kim.7549/posts/pfbid05y81CETwuFeF3gNMreAiGQ7RFp8x99vzFJjctk4GfLGxeHvfzWVmPKb4pJBqTiYsl)
 * [전설의 프로그래머 형님들의 '찐' 개발 훈수 - YouTube](https://www.youtube.com/watch?v=ZGSJsaA3ma4)
 * [버즈빌 개발자 JD의 개발 성장기 한 장 정리](https://nullptr.notion.site/JD-8424ebc797524a4086ba8157c9561679)
+* 신수정 KT 부사장
+  * [신수정의 통찰을 위한 폴더블폰 활용법 - YouTube](https://www.youtube.com/watch?v=7kemotC762M)
+  * [“80점 이상짜리 재능 3개를 만들어보라” - YouTube](https://www.youtube.com/watch?v=aqhGohmjNGY)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
