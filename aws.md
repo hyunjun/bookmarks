@@ -866,6 +866,7 @@ AWS
 * [아마존 웹 서비스 EBS 용량 늘리기(EC2) 간단한 개념 | 웹으로 말하기](https://mytory.net/2022/08/15/extends-aws-storage.html)
 * [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
 * [Using AWS EC2 to Deploy NodeJS and MongoDB Application - codewithAzzan](https://codewithazzan.com/deploying-nodejs-application-on-aws-ec2/)
+* [AWS 저도 잘 모르지만, 한번 해 봤습니다 — Amazon EC2편 | by Jieun Park | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/aws-%EC%A0%80%EB%8F%84-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EC%A7%80%EB%A7%8C-%ED%95%9C%EB%B2%88-%ED%95%B4-%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-amazon-ec2%ED%8E%B8-e59956cbeb83)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
