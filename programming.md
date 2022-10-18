@@ -642,6 +642,7 @@ Programming
 * [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
 * [2020년 마이리얼트립 개발 조직의 변화와 성과 대한 회고-2편 : No.1 Travel Tech Leader를 향한 도전기 | by Lego | How we build MyRealTrip | Feb, 2021 | Medium](https://medium.com/myrealtrip-product/20%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%A1%B0%EC%A7%81%EC%97%90-%EC%9E%88%EC%97%88%EB%8D%98-%EB%B3%80%ED%99%94%EC%99%80-%EC%84%B1%EA%B3%BC-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0-2%ED%8E%B8-no-1-travel-tech-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-f6216be9fd09)
 * [제품개발팀의 온라인 회고 | Medium](https://eyegochild.medium.com/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%9A%8C%EA%B3%A0-da5e846a447c)
+* [#5 성장을 위해, (조금은 아픈) 소통의 도구 : 회고, Retrospect](https://techbizinsight.tistory.com/35)
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
