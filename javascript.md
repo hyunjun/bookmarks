@@ -4790,6 +4790,8 @@ Javascript
     * Angular 프로젝트에 Protractor를 사용 중이었는데 개발이 중단되었기 때문에 새로운 테스트 도구로 Cypress를 리서치
     * Cypress는 Automatic waiting 기능으로 같은 동작에 성공할 때까지 반복하므로 비동기 처리 불필요, 간헐적인 실패 감소, Headless 모드도 지원해 Cypress로 E2E 테스트를 작성하기로 결정
     * 시각적 테스트는 수정될 가능성이 높으므로 기능적 테스트에 더 집중하기로 했고 테스트를 작성하기 쉽게 가이드 문서도 작성
+* [Faker | Faker](https://fakerjs.dev/)
+  * [MSW+Faker.js · Present](https://present.do/documents/633d087e70efd011b8f6c393?page=0)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
