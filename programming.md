@@ -297,6 +297,7 @@ Programming
   * 구글이 만든 SRE도 이론상은 괜찮지만, 인력이 부족해서 가짜 SRE 출현
   * 플랫폼 엔지니어링은 셀프서비스를 가능하게 하는 도구와 워크플로를 만드는 분야라고 하면서 이 플랫폼이 DevOps와 SRE의 문제를 완화할 수 있다고 주장
   * 약간 홍보 글 같은 느낌이 있기도 하지만 셀프서비스를 할 수 있는 플랫폼을 만드는 가치에 대해서는 동의
+* [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
@@ -810,6 +811,8 @@ Programming
 * [‘짝퉁 애자일 기업’이 자신을 속이는 말 7가지 - CIO Korea](https://www.ciokorea.com/news/255064)
 * [스크럼이 개발자를 괴롭히는 9가지 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1728/)
 * [**애자일 이야기 : 실수는 예방하는 것이 아니라 관리하는 것이다**](http://agile.egloos.com/5774862)
+* [Agile organization · Present](https://present.do/documents/6330f6cfc7bd6826ee8ff992)
+* [Agile_애자일 문화와 마인드셋 · Present](https://present.do/documents/633c024b70efd011b8f6b87c)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
@@ -4854,6 +4857,7 @@ Programming
 * [Test Doubles 정리 Dummy, Fake, Stub, Mock](https://brunch.co.kr/@tilltue/55)
 * [Test And Test Doubles - YouTube](https://www.youtube.com/watch?v=4q9d8Aye0nY)
   * [Test와 Test Double의 종류](https://www.notion.so/Test-Test-Double-03b480e651f14159bf14af0719279d97)
+* [Test Double · Present](https://present.do/documents/633c01b270efd011b8f6b7d8)
 * [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
