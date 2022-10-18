@@ -1436,6 +1436,7 @@ Web
 * [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 * [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+* [웹 성능 최적화 · Present](https://present.do/documents/633c002170efd011b8f6b7aa)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io/)
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
