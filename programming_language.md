@@ -370,6 +370,8 @@ Programming Language
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
+* [jazzlang: 샤빱두비뚜밥 두비두비두비두비 뚜비두밥 사바두비두봐 샤바다 두붸둡 🎷](https://github.com/kciter/jazzlang)
+  * [난해한 프로그래밍 언어 만들기 · Present](https://present.do/documents/633be7e170efd011b8f6b5d4)
 * [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
 * [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 * [kinx: Looks like JavaScript, feels like Ruby, and it is a script language fitting in C programmers](https://github.com/Kray-G/kinx)
