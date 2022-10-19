@@ -38,6 +38,7 @@ Business
 * [CIA가 알려주는 조직 망치는 비결 – Subin Kim](https://subin.kim/2581)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [CEO 심리학 직원들 번아웃 막고 싶다면 성장하는 재미를 느끼게하라](https://n.news.naver.com/mnews/hotissue/article/009/0004984823)
+* [회사 다니면서 바쁜 와중에도 성장하는 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1742/)
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [State of Burnout in Tech 2022 | Yerbo](https://report.yerbo.co/)
   * [번역 & 요약 State of Burnout in Tech 2022 | Yerbo](https://gist.github.com/hyunjun/c36ed09d94c60d6163ab071f906a4060#file-the_state_of_burnout_in_tech_2022_edition-md)
