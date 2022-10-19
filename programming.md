@@ -519,6 +519,7 @@ Programming
 * [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
 * [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
 * [기술 부채와 이율](https://jojoldu.tistory.com/682)
+* [organizations waste up to 42% of their time due to technical debt](https://www.linkedin.com/posts/pojos_pdf-code-red-the-business-impact-of-code-activity-6983109983836020736-toO2/)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
@@ -658,6 +659,7 @@ Programming
 * [문제 정의를 위한 디지털 현장 답사와 칸반 개선](https://brunch.co.kr/@graypool/356)
 * [계획은 개나 주자](https://brunch.co.kr/@graypool/429) SAFe, Lean Budgets
 * [프로그램이나 사업이나 끝임없이 변한다](https://brunch.co.kr/@graypool/517)
+* [스크럼이 낡은 방식이긴 하다](https://brunch.co.kr/@graypool/640)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
