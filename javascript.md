@@ -4870,6 +4870,7 @@ Javascript
 * [TypeScript: Enum](https://hyunseob.github.io/2017/07/18/typescript-enums/)
 * [A Smaller Bundle with Const Enums in TypeScript](https://netbasal.com/a-smaller-bundle-with-const-enums-in-typescript-b7f786227e5e)
 * [Typescript — Enum](https://engineering.huiseoul.com/typescript-enum-bff9b7666b14)
+* ['타입스크립트 enum 을 사용하지 않는 방법' 을 사용하지 않는게 좋은 이유](https://velog.io/@vraimentres/typescript-enum)
 * [TypeScript + React + Express Template](https://github.com/wooyaggo/typescript_react)
 * [타입스크립트의 네임스페이스와 모듈](http://www.haruair.com/blog/4024)
 * [TypeScript: 타입 추론과 타입 단언](https://hyunseob.github.io/2017/12/12/typescript-type-inteference-and-type-assertion/)
