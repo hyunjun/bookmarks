@@ -509,6 +509,7 @@ C
 * [Writing a Memory Allocator – Dmitry Soshnikov](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
 * [Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator | USENIX](https://www.usenix.org/conference/osdi21/presentation/hunter)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
+  * [마지막 남은 공짜 점심. Facebook의 메모리 할당자 jemalloc | kth 개발자 블로그](http://channy.creation.net/project/dev.kthcorp.com/2011/05/12/last-free-lunch-facebooks-memory-allocator-jemalloc/index.html)
 * [libpas at main · WebKit/WebKit](https://github.com/WebKit/WebKit/tree/main/Source/bmalloc/libpas)
 * [malloc_geiger - a hook for malloc that plays geiger counter blips in proportion to the amount of calls to malloc as a way of knowing what an application does](https://github.com/laserallan/malloc_geiger)
 * [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
