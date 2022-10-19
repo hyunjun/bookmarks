@@ -619,6 +619,7 @@ iOS
 * [당근마켓 iOS 프로젝트에 XcodeGen 도입하기 | 당근마켓 팀블로그](https://medium.com/daangn/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-xcodegen-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-d0fd54691aad)
 * [Xcode 프로젝트 내부 경로 관리](https://medium.com/@jungkim/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B2%BD%EB%A1%9C-%EA%B4%80%EB%A6%AC-b5e00f2a114a)
 * [Xcode Pro 처럼 빌드환경 세팅하기](https://xtring-dev.tistory.com/entry/iOS-Xcode-Pro-%EC%B2%98%EB%9F%BC-%EB%B9%8C%EB%93%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+* [Xcode4 그리고 10년. 2011년에 쓴 저서가 드디어 절판되었다. 지난 10년의 변화를… | by Jung Kim | Oct, 2022 | Medium](https://medium.com/@jungkim/xcode4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-10%EB%85%84-a89febd6c703)
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
 * [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
