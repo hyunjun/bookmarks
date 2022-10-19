@@ -5113,6 +5113,8 @@ Programming
 * [앱 서비스 장애편 #2 - 폰의 발열이 심해요 (CPU/GPU 편)](https://blog.imqa.io/app_failure_overheating_issue/)
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
   * [GitHub이 세션 처리에서 흔치 않은 레이스 컨디션을 어떻게 찾고 수정했는가 | GeekNews](https://news.hada.io/topic?id=3927)
+* [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
+  * [github.com/unicode-table](https://github.com/unicode-table)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 * [WhaTip 시스템 장애 해결을 위해 기억할 것 (Feat. 모니터링, 또 모니터링) - YouTube](https://www.youtube.com/watch?v=2QzolGatzc8)
 * [WhaTip 시스템 장애 해결을 위한 조언 여섯가지! - YouTube](https://www.youtube.com/watch?v=iVHZTB3H6iU)
@@ -5126,7 +5128,6 @@ Programming
 * [우리는 모의장애훈련에 진심입니다 – part 1 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6557/)
 * [우리는 모의장애훈련에 진심입니다 – Part 2 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9314/)
 * [외부 시스템 장애에 대처하는 우리의 자세 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6447/)
-* [An update on recent service disruptions | The GitHub Blog](https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/)
 * [하쿠나 입장 API 개선하기 - 괴물 API 리팩토링과 성능개선하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/03/14/develop-liveroom-entrance-on-hakuna.html) API의 느린 구간을 APM으로 분석하고 성능을 개선한 개발 과정
 * [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian)
 * [아틀라시안의 클라우드 장애에서 배운 4가지 네트워크 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/235539)
@@ -5139,10 +5140,10 @@ Programming
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
+* [깃헙의 10월 21일 장애 사후 분석](https://muchtrans.com/translations/github-oct-21-post-incident-analysis.ko.html)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
-  * [github.com/unicode-table](https://github.com/unicode-table)
 * [github.com/jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode/)
 * [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Dark corners of Unicode](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
