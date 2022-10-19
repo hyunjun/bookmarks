@@ -4760,6 +4760,8 @@ Programming
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
+* [**장애는 ‘우리의 문제’다 | Popit**](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/) 기술적인 내용은 아니나 매우 중요한 부분
+* [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
 * [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -5137,7 +5139,6 @@ Programming
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
-* [장애는 ‘우리의 문제’다 | Popit](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
