@@ -5135,6 +5135,7 @@ Programming
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
+* [장애는 ‘우리의 문제’다 | Popit](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
