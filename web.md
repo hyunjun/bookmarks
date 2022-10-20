@@ -295,6 +295,7 @@ Web
     * 서버리스처럼 사용한 만큼만 사용할 수 있게 된다고 설명
   * DDoS도 자연히 막을 수 있어서 보안도 좋지만
   * 기존 프레임워크가 엣지에 최적화되진 않아서 Fresh같은 프레임워크가 엣지에 맞게 설계되었다고 하고 있다
+* [링크, 현재창에서 열어야 할까 새 창에서 열어야 할까 | 웹으로 말하기](https://mytory.net/2022/10/19/link-current-tab-or-new-tab.html)
 
 # Apache
 * installation
