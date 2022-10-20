@@ -153,6 +153,10 @@ Programming Books
 * [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
   * ★★★☆☆ 2022.10.15~16 3개는 부족하단 생각이나 4개까지는 확신이 들지 않았음
   * 탐라 문004.588-프239ㅋ
+* [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
+  * 탐라 문005.58-하58ㅇ
+  * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
+  * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -254,10 +258,6 @@ Programming Books
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
-* (NOT YET) [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
-  * 우당
-  * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
-  * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
 * (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
 * (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
@@ -449,7 +449,8 @@ Programming Books
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
-  * 우당
+  * 우당 문005.73-수43ㅋ
+  * [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
 * (NOT YET) [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/106)
   * 한라
 * (NOT YET) [문제 해결력을 높이는 알고리즘과 자료 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289274245)
@@ -466,8 +467,6 @@ Programming Books
   * 한라 005.1-아32ㅍ
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
   * 탐라
-* (NOT YET) [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
-  * 우당 문005.73-수43ㅋ
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
   * 탐라
 * (NOT YET) [Learning Algorithms Book](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
@@ -952,6 +951,7 @@ Programming Books
 * (NOT YET) [실무로 배우는 빅데이터 기술 (개정2판): 데이터 수집, 적재, 처리 분석, 머신러닝까지 | 위키북스](https://wikibook.co.kr/bigdata2nd/)
   * 한라 005.76-김12빅
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
+  * 우당
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)

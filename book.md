@@ -252,6 +252,12 @@ Book
 * [아베 야로 <날 때부터 서툴렀다>](https://blog.naver.com/gambol75/220858161460)
   * ★★★☆☆ 2022.10.11
   * 탐라 문838-아43ㄴ-1, 그래픽830-아43ㄴ-2
+* [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
+  * ★★☆☆☆ 2022.10.18~19 도저히 읽히지가 않아 중간에 멈춤
+  * 우당 문331.5412-윈833ㅅ
+* [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
+  * ★★★☆☆ 2022.10.20
+  * 탐라 문598.55-이53ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
