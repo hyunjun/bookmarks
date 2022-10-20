@@ -2922,6 +2922,7 @@ Programming
 * [GitLab CI/CD pipeline con i custom runners e Docker - YouTube](https://www.youtube.com/watch?v=yHBgQoGcu_o)
 * [What is CI/CD | GitLab?. Automate your software development… | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/what-is-ci-cd-gitlab-4c014f4499ca)
 * [Practical Tips & Tricks for CI/CD Success • Zan Markan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sDMBdcquxl4)
+* [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * [dagger.io | Introducing Dagger: a new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
   * Docker를 만들었던 Solomon Hykes가 Docker, Inc에서 물러난 후에 돌아와서 Docker 초기 멤버들과 만든 새 프로젝트 공개
