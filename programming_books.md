@@ -2351,6 +2351,8 @@ Programming Books
   * 한라
 * (NOT YET) [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
   * 한라 325.24-렌58ㅊ
+* (NOT YET) [탁월한 리더는 피드백이 다르다](https://m.post.naver.com/viewer/postView.naver?volumeNo=19305483&memberNo=29566044)
+  * 중앙 BO325.24-김51ㅌ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
