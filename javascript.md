@@ -4013,6 +4013,7 @@ Javascript
 * [Testing your React Components — Step by Step | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/testing-your-react-components-step-by-step-2ce9c3b4f299)
 * [Simple TypeWriter Effect in react js | Typewriting effect react hook | simple typewriting react - YouTube](https://www.youtube.com/watch?v=73XsuajJOkU)
 * [A Tiny Router for Modern React and Preact Apps That Relies on Hooks](https://morioh.com/p/6b186a8c794f)
+* [Detect user Online and Offline network status using React hook - YouTube](https://www.youtube.com/watch?v=QOvRGSIYzEg)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
