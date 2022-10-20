@@ -477,6 +477,7 @@ NoSQL
 * [How to Build RESTful API in Go and MongoDB](https://morioh.com/p/44b550f990dc)
 * [Build a CRUD API with TypeScript, Express, MongoDB, Zod and Jest](https://morioh.com/p/f2d674cb2dc3)
 * [Build a Node.js API with MySQL and Docker](https://morioh.com/p/b2542f656964)
+* [LINE 알림 센터의 메인 스토리지를 Redis에서 MongoDB로 전환하기](https://engineering.linecorp.com/ko/blog/LINE-integrated-notification-center-from-redis-to-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
