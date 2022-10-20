@@ -3421,6 +3421,7 @@ Javascript
 * [Use Component Composition to Improve the Reusability of Your React Code | by Fernando Doglio | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-component-composition-to-improve-the-reusability-of-your-react-code-942bf55e0463)
 * [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
 * [React Crash Course - React Component - YouTube](https://www.youtube.com/watch?v=Jze7-iNREh4)
+* [React 컴포넌트와 추상화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
