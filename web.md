@@ -891,6 +891,8 @@ Web
   * [Google’s PRPL Web development pattern](http://www.slideshare.net/inureyes/googles-prpl-web-development-pattern)
 * postwoman [API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io https://liyasthomas.github.io/postwoman ](https://github.com/liyasthomas/postwoman)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
+* [satori: Enlightened library to convert HTML and CSS to SVG](https://github.com/vercel/satori)
+  * [Build Images with React using Vercel’s Hot New Library: Satori | by Guillaume Renard | Oct, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-the-hot-new-library-from-vercel-to-generate-images-from-your-browser-bfd4939e36c)
 * [SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
 * Swagger
