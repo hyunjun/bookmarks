@@ -1590,6 +1590,7 @@ Programming
 * [**이벤트는 변경을 알리는 표준 프로그래밍 단위**](https://brunch.co.kr/@graypool/626)
 * [이벤트를 제대로 정의하려면 맥락을 잘 구축해야 한다](https://brunch.co.kr/@graypool/634)
   * [hotel-demo: Hotel booking application - Demo - Axon Framework & Axon Server](https://github.com/AxonIQ/hotel-demo)
+* [모델을 개발하는 리포지토리(?)](https://brunch.co.kr/@graypool/639)
 * [MSA 에서 유비쿼터스 언어(보편 언어)의 중요성. Health-Care Application의 MS 분리 워크샵을 진행한… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/msa-%EC%97%90%EC%84%9C-%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4-%EC%96%B8%EC%96%B4-%EB%B3%B4%ED%8E%B8-%EC%96%B8%EC%96%B4-%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-ca22b96aaeea)
 * [클린 아키텍처 보충 1 — 포트와 어댑터, 의존성 규칙 | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-1-%ED%8F%AC%ED%8A%B8%EC%99%80-%EC%96%B4%EB%8C%91%ED%84%B0-%EC%9D%98%EC%A1%B4%EC%84%B1-%EA%B7%9C%EC%B9%99-d79921b62aff)
 * [클린 아키텍처 보충 2 — 엔티티(EBI), 도메인 주도 설계(DDD) | junhabaek](https://tech.junhabaek.net/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%B6%A9-2-%EC%97%94%ED%8B%B0%ED%8B%B0-ebi-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-55ea98c62cb6)
@@ -1616,6 +1617,7 @@ Programming
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
+* [Event Driven Architectures vs Workflows (with AWS Services!) - YouTube](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
