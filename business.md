@@ -198,6 +198,7 @@ Business
 * [회사는 성장할 때 망가지기 쉽습니다 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/189886) 문화
 * [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
 * ["조직문화, 제대로 못할거면 차라리 내버려둬라"](https://v.daum.net/v/20221007130515369)
+* [조직문화가 실제로 작동하는 것이 되려면](https://brunch.co.kr/@peoplevalue/3)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
@@ -341,6 +342,7 @@ Business
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
+* [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
@@ -459,6 +461,7 @@ Business
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
+* [People Analytics must benefit the people. An ethical analysis of data-driven algorithmic systems in human resources management - AlgorithmWatch](https://algorithmwatch.org/en/auto-hr/ethical-analysis-loi/)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [3개월 만에 10명대 조직이 2배 이상 커지면 생기는 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20220415)
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
@@ -603,6 +606,7 @@ Business
   * 목적(purpose의 적합한 번역인지는 따로 생각해봐야 할 문제)이 조직에 영향을 미치는 영역: 수요 창출, 직원 참여, 거버넌스와 지속가능성, 전략과 비즈니스 가능성
 * `Efficiency is doing things right; effectiveness is doing the right things. Peter Drucker`
   * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+* [피터 드러커의 7가지 명언(ft, 삶의 지혜가 된다) : 네이버 블로그](https://blog.naver.com/help2000/222904305859)
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
 * [AI 스타트업 유감. 시대가 변하고 있다는 건 스타트업 씬에 있고 이직 한두번 해본… | by Ghost_0503 | Sep, 2022 | Medium](https://nep-kim.medium.com/ai-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%9C%A0%EA%B0%90-4f4f7055681)
@@ -727,6 +731,7 @@ Business
     * 도메인 파악이 어려워서 의사 결정 테이블로 조건을 정리하고 QA까지 통과해서 배포했지만, 성능 문제가 발생
     * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
 * [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
+* [좋은 팀 구성 및 개발 문화 조성의 중요성 | 요즘IT](https://yozm.wishket.com/magazine/detail/1738/)
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
 * [Why is recruiting developers so difficult?](https://polyfill.work/blog/why-is-recruiting-developers-so-difficult)
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
@@ -817,6 +822,7 @@ Business
 * [스타트업이 알아야 할 성장의 방법 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1482)
 * [“3년 치 이력서를 미리 썼더니 마법이 일어났다.”(f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=9unwtrZQDuA)
 * [대한민국 양궁 대표팀이 정상을 유지하는 비결에서 찾은 성과 관리의 핵심](https://camp.lemonbase.com/column/performance) 황성현님
+* [어떤 상황에서든 좋은 퍼포먼스를 내는 사람들의 특징](https://brunch.co.kr/@somewonyoon/107)
 * [다면평가 시 리뷰를 꼭 써주고 싶은 동료가 있다면](https://camp.lemonbase.com/review/nomination)
 * [다면평가, 나무가 아닌 숲을 보라](https://camp.lemonbase.com/column/360-degreefeedback)
 * [리뷰가 성장으로 이어지려면](https://camp.lemonbase.com/review/pdp)
@@ -906,6 +912,7 @@ Business
 * [아마존 CEO 앤디 재시(Andy Jassy) 경험을 위한 압축 알고리즘은 없다](https://blog.naver.com/help2000/222881564868)
 * [벌레의 눈으로 본 혁신 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/columnView.do?cidx=13983) 스타벅스 하워드 슐츠
 * [기술창업 36계: 대표이사의 3가지 미션 | ㅍㅍㅅㅅ](https://ppss.kr/archives/246376)
+* [2022년 평가 Quick-Win 전략 세미나 정리](https://www.linkedin.com/posts/sunghyunchung_flex-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4%EC%97%90%EC%84%9C-%EA%B0%9C%EC%B5%9C%ED%95%9C-2022%EB%85%84-%ED%8F%89%EA%B0%80-quick-win-%EC%A0%84%EB%9E%B5-%EC%84%B8%EB%AF%B8%EB%82%98%EC%97%90-activity-6988503124671963137-TJL1/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
