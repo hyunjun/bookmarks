@@ -727,6 +727,7 @@ Apache
 * [카프카 생태계 기반의 비즈니스 메트릭 생성하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/10/14/grafana-with-ksqlDB.html)
 * [Apache Kafka Best Practices](https://skolaparthi.com/apache-kafka-best-practices/)
 * [Apache Kafka-Installation Steps](https://skolaparthi.com/apache-kafka-installation/)
+* [Kafka in Action • Viktor Gamov & Tim Berglund • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=2l-JsB10WaI)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
