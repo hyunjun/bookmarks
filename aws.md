@@ -1125,7 +1125,7 @@ AWS
 * [How we built Melio’s payments platform on AWS Serverless | by Omer Baki | Melio’s R&D blog | Medium](https://medium.com/meliopayments/how-we-built-melios-payments-platform-on-aws-serverless-18f730c4d78a)
 * [Plain Journal • A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 * [Cloud-Native Microservices Evolves to AWS Serverless Event-driven Architectures | by Mehmet Özkaya | AWS Serverless Microservices with Patterns & Best Practices | Mar, 2022 | Medium](https://medium.com/aws-serverless-microservices-with-patterns-best/cloud-native-microservices-evolves-to-aws-serverless-event-driven-architectures-9a38c473f4f8)
-  * [aws-microservices: AWS Serverless Event-driven Microservices with using AWS Lambda, AWS DynamoDB, AWS API Gateway, AWS EventBridge, AWS SQS, AWS CDK stands for Cloud Development Kit for IaC — Infrastructure as Code tool and AWS CloudWatch for monitoring.](https://github.com/awsrun/aws-microservices)
+  * [aws-microservices: AWS Serverless Event-driven Microservices with using AWS Lambda, AWS DynamoDB, AWS API Gateway, AWS EventBridge, AWS SQS, AWS CDK stands for Cloud Development Kit for IaC — Infrastructure as Code tool and AWS CloudWatch for monitoring](https://github.com/awsrun/aws-microservices)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [Building Serverless Applications That Scale The Perfect Amount | Ready, Set, Cloud!](https://www.readysetcloud.io/blog/allen.helton/how-to-design-serverless-apps-that-scale-the-perfect-amount/)
 * [Serverless Design Patterns - The Ambassador - YouTube](https://www.youtube.com/watch?v=kB4yChEzHa0)
