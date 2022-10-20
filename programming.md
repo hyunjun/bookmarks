@@ -1501,6 +1501,7 @@ Programming
 * [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
+* [Anthony Murphy's 8 Different Ways to Organize Your Backlog template | Miroverse](https://miro.com/miroverse/8-different-ways-to-organize-your-backlog/)
 * [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [Ordering Distributed Events. One of the hardest things about… | by Vaidehi Joshi | baseds | Medium](https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff)
 * [Distributed Systems Are a UX Problem - Speaker Deck](https://speakerdeck.com/tylertreat/distributed-systems-are-a-ux-problem)
@@ -4693,6 +4694,7 @@ Programming
   * [Practical API Design at Netflix, Part 2: Protobuf FieldMask for Mutation Operations | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4)
   * [Performance comparison: REST vs gRPC vs asynchronous communication | by Tim Bastin | l3montree TechBlog | Feb, 2022 | Medium](https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13) go code
   * [Implement gRPC client in Golang - YouTube](https://www.youtube.com/watch?v=Xjy_RdSd6XU)
+  * [안드로이드 gRPC 개념 및 사용법 — HolyKisa](https://holykisa.tistory.com/79)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
