@@ -1531,6 +1531,7 @@ Docker
   * [Microsoft에서 발행한 Kubernetes의 위협 메트릭](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)을 기반으로 위협 메트릭을 정의해서 새로운 Falco 규칙을 Falco에도 적용하게 기여
   * 현재 Falco는 애플리케이션 내의 공격은 탐지하지 못하고 단일 시스템 호출로 식별하므로 여러 시스템 호출의 조합으로 공격하는 경우는 탐지 불가능
 * [스트릿 클라우드 파이터 with Red Hat](https://www.redhat.com/ko/cloud_fighters?sc_cid=7013a0000030r3PAAQ)
+* [Kubernetes Real Time Challenges with Solutions | Scenario based Interviews| Problems in Production | - YouTube](https://www.youtube.com/watch?v=bjoLPBNfCjs)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2066,6 +2067,7 @@ Docker
 * multipass: 우분투 기반 도커 호스팅을 매우 빠르게 실행
   * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)
   * [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
+  * [WSL2보다 더 간단하게 구축하는 Multipass와 도커 개발 환경 - 넷마블 기술 블로그](https://netmarble.engineering/docker-on-multipass-as-replacement-for-wsl2/)
 
 # Network
 * [Networking](https://docs.docker.com/engine/userguide/networking/)
