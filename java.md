@@ -671,6 +671,7 @@ Java
 * [JetBrains IntelliJ IDEA 2022.1 Introduces Dependency Analysis](https://www.infoq.com/news/2022/05/jetbrains-intellij-2022-1/)
 * [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/673)
 * [Pluu Dev - Lint 작업할 때 쓰면 좋은 도구 UAST/PSI Viewer](https://pluu.github.io/blog/lint/2022/07/09/lint/)
+* [인텔리제이에서 Git 사용하기](https://brunch.co.kr/@jiwonleeqa/259)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
