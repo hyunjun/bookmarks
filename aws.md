@@ -971,6 +971,7 @@ AWS
 * [AWS EKS에서 Kubernetes 클러스터에 사용자 추가하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1612)
 * [따배클 클라우드 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKoielYfY9_7gqS7oB4MTMI9G)
 * [인터뷰 백패커, 솔트웨어 통해 AWS EKS로 쾌적하고 유연한 플랫폼 환경 구현 < 인터뷰 < 인터뷰·사람들 < 기사본문 - 아이티데일리](http://www.itdaily.kr/news/articleView.html?idxno=210421)
+* [롯데이커머스 사례로 본 Amazon EKS 운영 안정성 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/case-study-lotteon-running-on-amazon-eks/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
