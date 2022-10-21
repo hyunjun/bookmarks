@@ -310,6 +310,7 @@
   * [kotlin-coroutine-series/COROUTINE_CONTEXT.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/COROUTINE_CONTEXT.md)
   * [kotlin-coroutine-series/JOB_LIFE_CYCLE.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/JOB_LIFE_CYCLE.md)
   * [kotlin-coroutine-series/COROUTINE_SCOPE.md at main · tmdgusya/kotlin-coroutine-series](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/COROUTINE_SCOPE.md)
+  * [kotlin-coroutine-series/DISPATCHER.md at main · tmdgusya/kotlin-coroutine-series · GitHub](https://github.com/tmdgusya/kotlin-coroutine-series/blob/main/chapter/DISPATCHER.md)
 * [Google Play Billing Library meets Kotlin Coroutine](https://proandroiddev.com/google-play-billing-library-meets-kotlin-coroutine-c68e10553786)
 * [코틀린 Coroutine으로 네트워크 Retry 구현하는 방법](https://developer88.tistory.com/250)
 * [Coroutine의 Flow에 대한 정리](https://developer88.tistory.com/249)
