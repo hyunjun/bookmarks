@@ -737,6 +737,7 @@ Programming Books
 * (NOT YET) [Accelerated C++](https://www.hanbit.co.kr/store/books/look.php?p_code=B4851649517)
   * 한라 005.133-쾨198ㅇ
 * (NOT YET) [필요한 것만 골라 배우는 모던 C++ – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/11/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EB%A7%8C-%EA%B3%A8%EB%9D%BC-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%AA%A8%EB%8D%98-c/)
+  * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
 
 # C#
 
