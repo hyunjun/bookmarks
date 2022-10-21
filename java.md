@@ -875,6 +875,8 @@ Java
 * [자바 17을 쓰도록 설득하는 방법 - DEV Community 👩💻👨💻](https://dev.to/composite/jaba-17eul-sseudorog-seoldeughaneun-bangbeob-1bn4)
 * [Latest Java Features from a Scala Dev Perspective - Part 1: Type Inference](https://blog.madhukaraphatak.com/latest-java-1)
 * [Latest Java Features from a Scala Dev Perspective - Part 2: Lambda Expressions](https://blog.madhukaraphatak.com/latest-java-2)
+* [Latest Java Features from a Scala Dev Perspective - Part 3: Functional Interfaces](https://blog.madhukaraphatak.com/latest-java-3)
+* [Latest Java Features from a Scala Dev Perspective - Part 4: Higher Order Functions](https://blog.madhukaraphatak.com/latest-java-4)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
