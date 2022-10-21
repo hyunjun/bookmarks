@@ -618,6 +618,7 @@ Interview
 * [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before)
 * [Interview Preparation: Design A System To Get TopK Elements At Scale](https://ravisystemdesign.substack.com/p/interview-preparation-design-a-system)
 * [How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
+* [모든 개발자가 시스템 디자인을 배워야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1745/)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
