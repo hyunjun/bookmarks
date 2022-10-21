@@ -645,6 +645,7 @@ Business
   * [1:1 미팅에서 리더가 해야 할 말, 하지 말아야 할 말 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1OQ_mwrOv_1j74w3GRJvj_x5q5D-3-WM8/view?usp=sharing)
 * [X세대가 매월 100억원씩 쓰는 ‘퀸잇’ 운영하는 라포랩스 “1:1 미팅이 동기를 부여하는 문화의 핵심”](https://camp.lemonbase.com/ceo_interview/rapportlabs)
 * [1:1 미팅, 그냥 하지 마세요.. 성장하는 조직을 위한 5가지 팁 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/meetingtip20221005)
+* [구성원분들과 1:1 할때 (or 셀프 체크업) 활용하기 좋은 질문 리스트](https://www.facebook.com/naieekim/posts/pfbid0c9SaQoKDC24AGqUv19QC7Yt93fL7Adtuyar25BXNfrZza6nRuw9G2odQ8mQvbA92l)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
