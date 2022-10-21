@@ -1007,6 +1007,7 @@ Web
 * [Best Courses to learn Nginx in depth | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/best-courses-to-learn-nginx-in-36ed9ccca804)
 * [Webserver - Apache & Nginx - YouTube](https://www.youtube.com/playlist?list=PL0xeHY_ImQVUvHIXno_CKyupaEZBcwZvC)
 * [The Future of NGINX: Getting Back to Our Open Source Roots - NGINX](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/)
+* [Nginx 기반의 API Gateway 구현(with Python) :: GS Retail Engineering](https://gsretail.tistory.com/21)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
