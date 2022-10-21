@@ -491,6 +491,8 @@ Functional Programming
 * [Functional Programming in scala – Raghav Speaks](https://techraaga.wordpress.com/2022/01/11/functional-programming-in-scala/)
 * [Functional Programming in Scala Part II – Raghav Speaks](https://techraaga.wordpress.com/2022/01/11/functional-programming-in-scala-part-ii/)
 * [Functional Programming in scala Part III – Raghav Speaks](https://techraaga.wordpress.com/2022/01/11/functional-programming-in-scala-part-iii/)
+* [The case against Effect Systems (e.g., the IO data type) - Alexandru Nedelcu](https://alexn.org/blog/2022/10/13/the-case-against-effect-systems-io-data-type/)
+* [Cut the Technobabble - Alexandru Nedelcu](https://alexn.org/blog/2022/10/19/cut-the-technobabble/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
