@@ -1702,6 +1702,7 @@ Business
 * [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
 * [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
+* ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
