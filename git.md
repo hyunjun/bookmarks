@@ -390,6 +390,7 @@ Git
 * [CircleCI에서 GitHub Actions로 이전하며 배포 속도 개선하기 | by Seungwook Seo | 당근마켓 팀블로그 | Sep, 2022 | Medium](https://medium.com/daangn/circleci%EC%97%90%EC%84%9C-github-actions%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EB%A9%B0-%EB%B0%B0%ED%8F%AC-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-39fc41617993)
 * [How to use actions/checkout in GitHub Actions | GitHub - jobs : what is : use actions/checkout - YouTube](https://www.youtube.com/watch?v=nAK3mFRxfFA)
 * [Automatically create GitHub repository, enable branch protection with Terraform and GitHub Actions - YouTube](https://www.youtube.com/watch?v=nZPyCdyJe4A)
+* [Making CI workflow faster with Github Actions - Blog | luminousmen](https://luminousmen.com/post/making-ci-workflow-faster-with-github-actions)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [GitHub Skills](https://skills.github.com/)
