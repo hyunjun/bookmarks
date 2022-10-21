@@ -29,6 +29,10 @@ Concurrency
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
 
+# Book
+* [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
+  * [Concurrency vs Parallelism - Blog | luminousmen](https://luminousmen.com/post/concurrency-vs-parallelism)
+
 # C
 * [멀티플렉싱 기반의 다중 접속 서버로 가기까지 멀티프로세스 -> 멀티스레드 -> 멀티플렉싱](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
 
