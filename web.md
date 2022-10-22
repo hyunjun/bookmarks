@@ -1143,6 +1143,7 @@ Web
 * Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
 * [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
   * [FastAPI](https://fastapi.tiangolo.com/)
+  * [점프 투 FastAPI - WikiDocs](https://wikidocs.net/book/8531)
   * [FastAPI - API 개발용 고성능 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=3686)
   * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
   * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
