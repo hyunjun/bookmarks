@@ -2076,6 +2076,7 @@ Java
   * [JUnit5로 계층 구조의 테스트 코드 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/junit5-nested/)
   * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/)
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
+  * [효율적인 JUnit 사용 방법과 유용한 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1748/)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Tutorial
