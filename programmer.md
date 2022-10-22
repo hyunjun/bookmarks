@@ -144,6 +144,7 @@ Programmer
 * [Tips 개발자가 질문과 검색을 잘하는 법](https://velog.io/@kshired/Tips-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-%EB%B2%95)
 * [The XY Problem](https://xyproblem.info/)
   * [XY 문제](https://lazymatlab.tistory.com/165) 진짜 문제를 질문하지 않고, 해결책을 미리 가정하고 질문하는 것
+* [내 질문에 답이 달리지 않는다면?](https://lazymatlab.tistory.com/166)
 * [남의 일을 끊임없이 공부해야하는 이유](https://now.rememberapp.co.kr/2022/03/18/16905/)
 * [남의 일을 끊임없이 공부해야하는 이유 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/186169)
 * [Subject Matter Expert가 되어라 | zero-base](https://zero-base.co.kr/event/media_insight_contents_50)
