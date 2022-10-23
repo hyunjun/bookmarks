@@ -840,6 +840,7 @@ Javascript
 * [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
 * [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
 * [프론트엔드는 무엇인가?. Web Application의 패러다임은 어떻게 되는걸까? | by 조은, John Cho | Oct, 2022 | Medium](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-30919634f80d)
+* [veltrends 개발 후기](https://velog.io/@velopert/veltrends-dev-review) 1. 모바일 우선 디자인 (Mobile First Design) 2. Remix 후기 3. Terraform 4. Fastify, 5. Prisma
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
