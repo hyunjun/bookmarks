@@ -1844,6 +1844,10 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4-a18d98b4b5b8)
   * (NOT YET) [이것이 자바다(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B4861113361)
 * [Think Data Structures 자바로 배우는 핵심 자료구조와 알고리즘](https://nymets.medium.com/think-data-structures-%EC%9E%90%EB%B0%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%95%B5%EC%8B%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-d26ba67c7179)
+* [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
+  * ★★★☆☆ 2022.10.23 자바를 본 게 너무 오래되어 새로운 문법은 잘 이해되진 않지만 8 이후의 변화를 잘 설명했다는 건 알 수 있었음
+  * 한라 005.133-장66ㅍ
+  * [Practical 모던 자바 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/87)
 * (NOT YET) 자바 성능 튜닝
 * (NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
   * 한라 005.133-웨57ㅈ
@@ -1861,9 +1865,6 @@ Programming Books
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
-* (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
-  * 한라
-  * [Practical 모던 자바 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/87)
 
 # JavaScript
 
@@ -2447,7 +2448,7 @@ Programming Books
   * 한라 325.24-하63ㅁ 탐라 문325.24-하62ㅁ 우당 문331.17-하62ㅁ
   * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
 * (NOT YET) 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
-  * 한라
+  * 한라 325.24-시194ㅇ
 * (NOT YET) [어디서든 리드하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273501382)
   * 한라 325.2-버874ㅇ
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
@@ -2763,6 +2764,27 @@ Programming Books
   * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/beyond_the_basic_stuff_with_python.md)
   * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/beyond-the-basic-stuff-with-python-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%A0%9C%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%8B%A4-c77ecb7b139)
   * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다](https://jh4hj.tistory.com/entry/BEYOND-THE-BASIC-STUFF-WITH-PYTHON-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%A0%9C%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4%EB%8B%A4)
+* [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
+  * ★★★★☆ 2022.10.21 데이비드 비즐리의 책이란 점에서부터 일단 믿고 볼 수 있음
+  * 한라 005.133-비77ㅍ
+* [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
+  * ★★★★☆ 2022.10.21 파이썬을 전반적인 프로그래밍의 큰 관점에서 볼 수 있는 책
+  * 탐라 문005.133-비61ㄷ
+  * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
+* 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
+  * ★★★★☆ 2022.10.21 제목처럼 아키텍처나 패키징, 배포 등 여러가지 실무에 관한 필요한 것들도 많이 다루는 좋은 책
+  * 탐라 문005.133-야45ㅈ
+  * [Expert-Python-Programming-Fourth-Edition: Expert Python Programming, Fourth Edition published by Packt](https://github.com/moseskim/Expert-Python-Programming-Fourth-Edition)
+  * [9781801071109_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801071109_ColorImages.pdf)
+* [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
+  * ★★★★☆ 2022.10.21 책 제목처럼 기본적으로는 OOP에 대한 책이지만 1/3 정도는 TDD등 다른 부분도 같이 잘 다룸
+  * 탐라 문005.133-로838ㅍ
+  * [Python-Object-Oriented-Programming---4th-edition: Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
+  * [9781801077262_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801077262_ColorImages.pdf)
+* [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
+  * ★★★☆☆ 2022.10.23 concurrent.futures나 CircleCI부분이 있는 등의 부분은 괜찮음
+  * 한라 005.133-스63ㅎ
+  * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -2827,9 +2849,6 @@ Programming Books
 * (NOT YET) [진지한 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2649943562)
   * 한라 005.133-당76ㅈ 우당 문005.133-당77ㅈ
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
-* (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
-  * 한라
-  * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
   * 탐라 문005.133-오43ㅍ
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
@@ -2855,19 +2874,8 @@ Programming Books
 * (NOT YET) 파이썬 자동화 교과서 - 업무 생산성을 3배 높이는 엑셀, 워드, 크롤링, 메일 자동화 기술 [파이썬과 함께 사무 작업을 3배 빠르게](https://jpub.tistory.com/1296)
   * 탐라 문004.73-구79ㅍ
   * [pyauto-textbook: 제이펍 <파이썬 자동화 교과서> 예제 소스 저장소입니다](https://github.com/mjh117/pyauto-textbook)
-* (NOT YET) 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
-  * 탐라 문005.133-야45ㅈ
-  * [Expert-Python-Programming-Fourth-Edition: Expert Python Programming, Fourth Edition published by Packt](https://github.com/moseskim/Expert-Python-Programming-Fourth-Edition)
-  * [9781801071109_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801071109_ColorImages.pdf)
-* (NOT YET) [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
-  * 탐라 문005.133-로838ㅍ
-  * [Python-Object-Oriented-Programming---4th-edition: Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
-  * [9781801077262_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801077262_ColorImages.pdf)
 * (NOT YET) [파이썬 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-python)
   * 한라 005.133-포47ㅍ
-* (NOT YET) [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
-  * 탐라 문005.133-비61ㄷ
-  * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
 * (NOT YET) [마케터의 파이썬 - 코딩의 C도 모르는 우리들을 위한 맞춤 프로그래밍 가이드 :: e비즈북스](https://ebizbooks.tistory.com/1400)
   * 한라 005.133-정97ㅁ 탐라 문005.133-정98ㅁ 우당 문005.133-정98ㅁ
 * (NOT YET) [파이썬을 활용한 지리공간 분석 마스터하기 | 에이콘출판사](http://acornpub.co.kr/book/geospatial-python)
@@ -2879,8 +2887,6 @@ Programming Books
   * 탐라 문004.67-지69B
   * [Black Hat Python, 2nd Edition | No Starch Press](https://nostarch.com/black-hat-python2E)
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
-* (NOT YET) [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
-  * 한라 005.133-비77ㅍ
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
 * (NOT YET) [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
@@ -3101,7 +3107,7 @@ Programming Books
 * (NOT YET) [리팩토링 자바스크립트](https://velog.io/@devgosunman/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%B4%EB%9E%80)
   * 한라 005.138-버82ㄹ
 * (NOT YET) [KODE VICIOUS 개발 지옥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300238581)
-  * 한라
+  * 한라 005.104-네48ㄱ
 * (NOT YET) [클린 코더 (단순 기술자에서 진정한 소프트웨어 장인이 되기까지)](https://joosjuliet.github.io/clean_code/)
   * 한라 005.1-마888ㅋ
 * (NOT YET) [소트웍스 앤솔러지: 소프트웨어 기술과 혁신에 관한 에세이 | 위키북스](https://wikibook.co.kr/thoughtworks-anthology/)

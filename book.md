@@ -716,6 +716,12 @@ Book
   * [ROME CITY THE ILLUSTRATED STORY OF ROME](https://github.com/hyunjun/bookmarks/blob/master/books/rome_city.md)
   * [ROME CITY THE ILLUSTRATED STORY OF ROME | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/rome-city-the-illustrated-story-of-rome-f1eded35fc21)
   * [ROME CITY THE ILLUSTRATED STORY OF ROME](https://jh4hj.tistory.com/entry/ROME-CITY-THE-ILLUSTRATED-STORY-OF-ROME)
+* [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
+  * ★★★☆☆ 2022.09.04
+  * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
+  * 고려사2
+    * ★★★☆☆ 2022.10.23
+    * 한라 911.04-박58ㄱ-2 탐라 문911.04-박59ㄱ-2
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -752,11 +758,6 @@ Book
 * (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
   * 한라 915-쉬34ㅇ
 * (NOT YET) 임진전쟁과 민족의 탄생 [여여한 독서 왜 조선왕조는 망하지 않았을까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48020)
-* (NOT YET) [박시백의 '고려사1' - 한라일보](http://www.ihalla.com/article.php?aid=1646924400722194084)
-  * ★★★☆☆ 2022.09.04
-  * 한라 911.04-박58ㄱ-1 탐라 문911.04-박59ㅂ-1
-  * 고려사2
-    * 한라
 * (NOT YET) 고대 그리스에서 1년 살기 [사람 사는 세상 늘 그렇듯…평범하고도 신기한 2200년 전 그리스 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1052793.html)
 * (NOT YET) [서학, 조선을 관통하다 - 위클리서울](http://www.weeklyseoul.net/news/articleView.html?idxno=69512)
 * (NOT YET) [인류 최초의 문명과 이스라엘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298971522)
