@@ -1751,6 +1751,8 @@ Docker
 * [kubekey: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳](https://github.com/kubesphere/kubekey)
   * [Quickly Install a Kubernetes Cluster with KubeKey – The New Stack](https://thenewstack.io/quickly-install-a-kubernetes-cluster-with-kubekey)
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+* [kube-prometheus: Use Prometheus to monitor Kubernetes and applications running on Kubernetes](https://github.com/prometheus-operator/kube-prometheus)
+  * [Introduction | kube-prometheus runbooks](https://runbooks.prometheus-operator.dev/)
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
   * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
