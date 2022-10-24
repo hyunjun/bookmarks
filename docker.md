@@ -1941,6 +1941,7 @@ Docker
   * [registryv2](https://github.com/kakao/d2hub-registry)
   * [deploy-registryv2](https://github.com/kakao/d2hub-deploy-registryv2)
 * [ddocker - Distributed Docker](https://github.com/jsikyoon/ddocker)
+* [detek: Extensible problem-detecting CLI tool for reliable Kubernetes cluster operations and rapid problem detections](https://github.com/kakao/detek)
 * [DevLab is a utility that allows you to easily containerize your development workflow using Docker](https://github.com/TechnologyAdvice/DevLab)
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
