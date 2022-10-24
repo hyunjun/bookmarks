@@ -987,6 +987,7 @@ Python
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * [Python List Comprehensions in 5-minutes | by Daniel Bourke | Towards Data Science](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
   * [List Comprehension in Python Explained for Beginners](https://www.freecodecamp.org/news/list-comprehension-in-python/)
+  * [왜 리스트 컴프리헨션에 if만 있을때와 else도 있을 때 문법이 다를까?](https://lazymatlab.tistory.com/167)
   * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
