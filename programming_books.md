@@ -2767,20 +2767,33 @@ Programming Books
 * [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
   * ★★★★☆ 2022.10.21 데이비드 비즐리의 책이란 점에서부터 일단 믿고 볼 수 있음
   * 한라 005.133-비77ㅍ
+  * <img src="programming_books/python_distilled/1.jpg" alt="IO, encoding" width="400"/>
+  * <img src="programming_books/python_distilled/2.jpg" alt="async" width="400"/>
 * [단단한 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/robust-python)
   * ★★★★☆ 2022.10.21 파이썬을 전반적인 프로그래밍의 큰 관점에서 볼 수 있는 책
   * 탐라 문005.133-비61ㄷ
   * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
+  * <img src="programming_books/robust_python/4.jpg" alt="" width="400"/> <img src="programming_books/robust_python/5.jpg" alt="" width="400"/>
+  * <img src="programming_books/robust_python/6.jpg" alt="C.A.R Hoare" width="400"/>
+
+    * `소프트웨어 설계 구축에는 두 가지 방법이 있다. 하나는 아주 간단하게 구축해 결점이 발생할 여지가 없게 만드는 것이며, 다른 하나는 아주 복잡하게 만들어 결점을 발견하기 어렵게 하는 것이다. 전자의 방법이 훨씬 어렵다.`
+    * [The emperor's old clothes | Communications of the ACM](https://dl.acm.org/doi/10.1145/358549.358561)
 * 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
   * ★★★★☆ 2022.10.21 제목처럼 아키텍처나 패키징, 배포 등 여러가지 실무에 관한 필요한 것들도 많이 다루는 좋은 책
   * 탐라 문005.133-야45ㅈ
   * [Expert-Python-Programming-Fourth-Edition: Expert Python Programming, Fourth Edition published by Packt](https://github.com/moseskim/Expert-Python-Programming-Fourth-Edition)
   * [9781801071109_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801071109_ColorImages.pdf)
+  * <img src="programming_books/expert_python_programming_fourth_edition.jpg" alt="TDD" width="400"/>
+
+    * TDD를 이용해 소프트웨어를 개발할 때 가장 중요한 것은 항상 테스트 케이스로 시작한다는 것이다. 오로지 이 방법만이 단위 코드를 쉽게 테스트할 수 있음을 보장한다. 이는 또한 좋은 디자인 프랙티스(단일 책임의 원칙이나 제어 반전 등)를 독려한다. 이런 원칙을 지키는 것은 좋은 습관이며 유지보수 가능한 코드를 작성하는 데 도움이 된다.
 * [파이썬 객체지향 프로그래밍 4/e | 에이콘출판사](http://acornpub.co.kr/book/python-oop-4e)
   * ★★★★☆ 2022.10.21 책 제목처럼 기본적으로는 OOP에 대한 책이지만 1/3 정도는 TDD등 다른 부분도 같이 잘 다룸
   * 탐라 문005.133-로838ㅍ
   * [Python-Object-Oriented-Programming---4th-edition: Code Repository for Python Object-Oriented Programming - 4th edition, Published by Packt](https://github.com/PacktPublishing/Python-Object-Oriented-Programming---4th-edition)
   * [9781801077262_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781801077262_ColorImages.pdf)
+  * <img src="programming_books/python_object_oriented_programming.jpg" alt="TDD" width="400"/>
+
+    * 자동화된 테스트로 시연할 수 없는 소프트웨어 기능은 존재하지 않는 기능이다. - 익스트림 프로그래밍(Extreme Programming Explained(인사이트 2006)
 * [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
   * ★★★☆☆ 2022.10.23 concurrent.futures나 CircleCI부분이 있는 등의 부분은 괜찮음
   * 한라 005.133-스63ㅎ
