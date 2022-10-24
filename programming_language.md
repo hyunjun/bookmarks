@@ -109,6 +109,7 @@ Programming Language
 * [flex & bison Book](https://www.oreilly.com/library/view/flex-bison/9780596805418/)
   * [계산기 만들기 - flex & bison 소개 - YouTube](https://www.youtube.com/watch?v=KxYE78CB398)
   * [계산기 만들기 - flex & bison 사용방법 - YouTube](https://www.youtube.com/watch?v=n5Opi1AlPS4)
+* [Transforming Programming • Dave Thomas • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Nbdjzd22Z3A)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
