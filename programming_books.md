@@ -2281,6 +2281,11 @@ Programming Books
   * [최강 기업의 탄생](https://micca.tistory.com/entry/Review-%EC%B5%9C%EA%B0%95-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%83%84%EC%83%9D-%EC%95%8C%EB%A0%89%EC%82%B0%EB%8D%94-%EC%98%A4%EC%8A%A4%ED%84%B0%EC%99%88%EB%8D%94-%E5%A4%96-%E5%85%B1%E8%91%97-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%B6%81%EC%8A%A4)
     * ★★★☆☆ ~2022.09.27 좋은 책임은 분명한데 어쩐지 눈에 잘 들어오지도 읽히지도 않는 묘한 기분
     * 한라 325.1-오57ㅊ 탐라 문325.1-오58ㅊ 우당 문325.1-오58ㅊ
+* [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
+  * ★★★☆☆ 2022.10.24 비행기에서 단숨에 다 읽었다. 특별히 깊은 내용은 없지만 실제 경험을 바탕으로 여러가지 기본적인 이야기들을 잘 알려준다.
+  * 한라 325.1-유95ㅇ 탐라 문325.25-유95ㅇ 우당 문325.1-유95ㅇ
+  * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
+  * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2304,10 +2309,6 @@ Programming Books
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
-* (NOT YET) [이기적 직원들이 만드는 최고의 회사](http://www.futurekorea.co.kr/news/articleView.html?idxno=117235)
-  * 한라 325.1-유95ㅇ 탐라 문325.25-유95ㅇ 우당 문325.1-유95ㅇ
-  * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
-  * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 * (NOT YET) [픽사 스토리텔링](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287110908)
