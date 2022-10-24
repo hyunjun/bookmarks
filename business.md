@@ -914,6 +914,7 @@ Business
 * [벌레의 눈으로 본 혁신 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/columnView.do?cidx=13983) 스타벅스 하워드 슐츠
 * [기술창업 36계: 대표이사의 3가지 미션 | ㅍㅍㅅㅅ](https://ppss.kr/archives/246376)
 * [2022년 평가 Quick-Win 전략 세미나 정리](https://www.linkedin.com/posts/sunghyunchung_flex-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4%EC%97%90%EC%84%9C-%EA%B0%9C%EC%B5%9C%ED%95%9C-2022%EB%85%84-%ED%8F%89%EA%B0%80-quick-win-%EC%A0%84%EB%9E%B5-%EC%84%B8%EB%AF%B8%EB%82%98%EC%97%90-activity-6988503124671963137-TJL1/)
+* ["CEO 리더십, 디지털 전환 승패 가른다"..딜로이트 400명 설문조사](https://v.daum.net/v/20220925175401242)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1692,13 +1693,9 @@ Business
 * [PM의 시간 다루기: 로드맵, 타임라인, 릴리즈 플랜](https://brunch.co.kr/@ywkim36/70)
 * [프로젝트에서 프로덕트로··· IT 리더들, '제품 기반 접근법'에 주목하다 - CIO Korea](https://www.ciokorea.com/t/540/%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC/218429) 프로젝트 방식을 아예 배재할 건 아니지만 일반적으로 프로덕트 중심 접근 방법이 더 좋다는 주장
 * [제품주도성장(Product Led Growth)의 일곱가지 FAQ - Kimchi hill](https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/)
-* [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
 * [15 Statistics You Should Know About A Career In Product Management](https://theproductmanager.com/general/statistics-career-product-management/)
 * [Product School - YouTube](https://www.youtube.com/c/ProductSchoolSanFrancisco)
 * [토스, 넥스트 애자일을 고민하다](https://blog.toss.im/article/next-agile-with-pm)
-* [쏘카 PM의 차량 예약 퍼널 단계 개선기(feat. AB TEST) - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/06/02/reservation-funnel-improvement-with-abtest.html)
-* [Practical Ways to Earn Respect as a Product Manager - Department of Product](https://www.departmentofproduct.com/blog/practical-ways-to-earn-respect-as-a-product-manager/)
-  * [프로덕트 매니저로서 존경 받는 실용적인 방법](https://janepark.notion.site/b2d0838274b14d71af1d37dab51d875e)
 * [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
 * [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
@@ -1712,14 +1709,19 @@ Business
 * [쫄래쫄래의 브런치](https://brunch.co.kr/@jjollae)
 * [Product Coalition](https://productcoalition.com/)
 * [Silicon Valley Product Group || Silicon Valley Product Group](https://svpg.com/)
-* [쏘카 PM(Product Manager)은 어떻게 성장하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/02/23/growing-up-together-with-the-pm-team.html)
-* [What do I do as a Product Manager? - YouTube](https://www.youtube.com/watch?v=pCmh6XaMVxs)
-  * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
+* [프로덕트 매니저의 질문 프로덕트 매니저의 미래는 어떨까요?](https://blog.naver.com/madaboutit/222893109964)
 * [얼떨결에 프로덕트 오너](https://brunch.co.kr/@cliche-cliche/149)
-* [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
 * [요기요 PO는 어떻게 일하나요?. “면접관이 전하는 요기요 PO가 일하는 방식” | by Sunyoung Go | Aug, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%94%EA%B8%B0%EC%9A%94-po%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ea0dbee09c06)
 * [PO린이를 위한, 프로덕트 오너 '필수 역량'](https://brunch.co.kr/@kiril/19)
 * [AGILE > Product Owner · Present](https://present.do/documents/633c03ae70efd011b8f6b969)
+* [What's the difference between a product owner vs. a product manager?](https://www.productplan.com/learn/product-manager-vs-product-owner/)
+* [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
+* [쏘카 PM의 차량 예약 퍼널 단계 개선기(feat. AB TEST) - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/06/02/reservation-funnel-improvement-with-abtest.html)
+* [쏘카 PM(Product Manager)은 어떻게 성장하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/02/23/growing-up-together-with-the-pm-team.html)
+* [Practical Ways to Earn Respect as a Product Manager - Department of Product](https://www.departmentofproduct.com/blog/practical-ways-to-earn-respect-as-a-product-manager/)
+  * [프로덕트 매니저로서 존경 받는 실용적인 방법](https://janepark.notion.site/b2d0838274b14d71af1d37dab51d875e)
+* [What do I do as a Product Manager? - YouTube](https://www.youtube.com/watch?v=pCmh6XaMVxs)
+  * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -2027,6 +2029,7 @@ Business
 * [변호사와 심사역이 WeCrashed를 보았다👀](https://stibee.com/api/v1.0/emails/share/-n1kPKOb9XFCEe5TXvl_gR6OQXDVPg==)
 * [스타트업의 자금 조달 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=5176006)
 * [스머프 스타트업의 머리속을 들여다보는 프로들 - YouTube](https://www.youtube.com/playlist?list=PLQvqXcm97CTD5EGNe_yrFlprol5lE59qH)
+* [맹목적인 성장의 늪 : 네이버 블로그](https://blog.naver.com/bizucafe/222848916662)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
