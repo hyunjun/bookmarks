@@ -2141,6 +2141,8 @@ Javascript
     * 멀티레포에서 갈라진 여러 의존성과 다른 레포의 변경사항을 보기 어려운 점, 퍼블리싱 순서의 어려움과 의존성의 업데이트를 위해 모노레포로 변경 결정
     * 모노레포 관리 도구를 모두 나열한 뒤 각각의 이유로 후보군 제거, Nx와 Rush의 기능을 자세히 비교한 뒤 장단점이 있지만 Nx에서 플러그인을 만드는 부담, 현재 프로젝트를 점진적으로 바꾸기 위해서는 Rush가 더 낫다고 판단
     * 이렇게 선택한 Rush를 이용해서 사용하던 React 버전을 점진적으로 올릴 수 있게 프로젝트 설정하는 방법 설명
+* [RxJS](https://rxjs.dev/)
+  * [RxJS 한번 배워보실래요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1753/)
 * [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
   * [실행 취소 / 다시 실행 기능 구현하기(feat. serializr)](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
 * [Shepherd — Guide your users through a tour of your app](https://shepherdjs.dev/)
