@@ -356,6 +356,7 @@ Programming Books
   * ★★★★☆ 2022.10.04~05
   * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
+  * [오너프로그래머 #11 소프트웨어 장인과 프로그래머](https://blog.naver.com/birdparang/222812501674)
 * [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * ★★★☆☆ 2022.10.06~07
   * 탐라 문325.211-벤58ㅍ
