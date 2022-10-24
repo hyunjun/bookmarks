@@ -160,6 +160,9 @@ Programming Books
   * 탐라 문005.58-하58ㅇ
   * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
   * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
+  * [안드로이드 뜻밖의 역사](https://github.com/hyunjun/bookmarks/blob/master/programming_books/androids.md)
+  * [안드로이드 뜻밖의 역사. Androids. A Book is Born | by Chet… | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%9C%BB%EB%B0%96%EC%9D%98-%EC%97%AD%EC%82%AC-a320e5423ac7)
+  * [안드로이드 뜻밖의 역사](https://jh4hj.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%9C%BB%EB%B0%96%EC%9D%98-%EC%97%AD%EC%82%AC)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
