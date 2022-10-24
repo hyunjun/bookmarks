@@ -153,6 +153,9 @@ Programming Books
 * [클라우드 엔지니어를 위한 97가지 조언](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299156323)
   * ★★★☆☆ 2022.10.15~16 3개는 부족하단 생각이나 4개까지는 확신이 들지 않았음
   * 탐라 문004.588-프239ㅋ
+  * [클라우드 엔지니어를 위한 97 가지 조언](https://github.com/hyunjun/bookmarks/blob/master/programming_books/97_things_every_cloud_engineer_should_know.md)
+  * [클라우드 엔지니어를 위한 97 가지 조언. “스스로 테스트를 하세요. 테스트를 대체할 수있는 것은 없습니다.” | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-97-%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8-d73528510b8a)
+  * [클라우드 엔지니어를 위한 97 가지 조언](https://jh4hj.tistory.com/entry/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-97-%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8)
 * [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
   * 탐라 문005.58-하58ㅇ
   * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
