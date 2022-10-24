@@ -3770,6 +3770,7 @@ Javascript
 * [How To Write Beautiful React Code | by Vini | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/writing-beautiful-react-code-using-a-good-old-mate-ca1450c0dc06)
 * [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 * [react 스로틀링(throttling)을 활용하여 캡스락(capslock)키 제어](https://blog.naver.com/pjt3591oo/222193586940)
+* [Throttling in React - YouTube](https://www.youtube.com/watch?v=1fmj6ItKxzc)
 * [What is React? - YouTube](https://www.youtube.com/watch?v=O_YYFuVBGp4)
 * [list component key에 대하여](https://hokeydokey.tistory.com/121)
 * [쪼그라드는 웹페이지](https://tech.devsisters.com/posts/shrinking-webpage/)
