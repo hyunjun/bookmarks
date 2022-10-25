@@ -3412,6 +3412,7 @@ Programming
   * 보고서 전체는 [2022 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
 * [DevOps Bus Technology - YouTube](https://www.youtube.com/channel/UClBlu3bJiq4zn1a3Vdg0LOQ)
 * [Top 5 DevOps Skills You Need To Succeed | ReviewNPrep](https://reviewnprep.com/blog/top-5-devops-skills-you-need-to-succeed/)
+* [193 Easy Steps to DevOpsing Your Monolith • Cat Swetel • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=0YOHHTjBOgQ)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -3540,6 +3541,7 @@ Programming
     * Atlantis에 [Conftest](https://www.conftest.dev/)를 사용해서 PR 리뷰 과정 중에 자동으로 OPA 규칙을 검사
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
+  * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -5148,6 +5150,7 @@ Programming
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
 * [깃헙의 10월 21일 장애 사후 분석](https://muchtrans.com/translations/github-oct-21-post-incident-analysis.ko.html)
+* [카카오 사태로 필수개념된 DR 시스템? 설명 10분컷! - YouTube](https://www.youtube.com/watch?v=tLLs7fKts2o) disaster recovery, RTO, RPO
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
