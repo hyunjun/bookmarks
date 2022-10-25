@@ -2722,6 +2722,7 @@ CVPR2016)
     * m1 mac 에서 구동 가능하다(단지 m1용으로 준비된 requirements 만 잘 설치해주면 됨)
     * out-of-the-box 로, 멀티 GPU 추론 및 TPU 추론 수행 가능. 분산 학습 strategy 를 적절하게 컨피그 해주면 됨
     * 케라스 스탠다드 모델(SavedModel)로 구현되었기 때문에, 다양한 형식의 배포 용이. TFServing / TFLite / TF.js 로 쉽게 변환될 수 있으며, 이를 통해 다양한 애플리케이션 작성 가능
+  * [stable-diffusion-video-maker: Video generation tool for Stable Diffusion.](https://github.com/mix1009/stable-diffusion-video-maker)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 # Text to video text2video
