@@ -12,6 +12,7 @@ Business
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
 * [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
+* [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
 * [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
   * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [조직 살리는 '숨은 재능' 찾아내기 Monday HBR/빌 테일러](https://v.daum.net/v/20220919030305406)
@@ -113,6 +114,7 @@ Business
 * [적자 나는 회사의 매우 근본적인 문제점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=LZV0bEdIcgY) 공헌이익
 * [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
   * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
+* [왓차와 오늘의집 비즈니스의 결정적인 차이점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=7LNhvZblRMc)
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
