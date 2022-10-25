@@ -470,6 +470,7 @@ AWS
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [홈서버(?)에서 서빙하던 서비스 클라우드 이전 썰 (feat. OPGC, AWS Lightsail) :: Jay's Code Factory](https://jay-ji.tistory.com/116)
+* [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
