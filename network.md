@@ -257,6 +257,7 @@ Network
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
 * [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
+* [HTTP vs HTTPS: Pros and Cons - Tanveer Sayem](https://www.tanveersayem.io/blogs/http-vs-https-pros-and-cons)
 * [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
   * [**로컬 개발환경에서 HTTPS 이용하기 | GeekNews**](https://news.hada.io/topic?id=6144) OpenSSL, mkcert, ...
 * [The First Few Milliseconds of an HTTPS Connection](https://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
