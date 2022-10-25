@@ -418,3 +418,4 @@ Bitcoin
 * [드디어 개발자가 제대로 설명해드림. WEB 3.0! - YouTube](https://www.youtube.com/watch?v=RLVl22v3djc)
 * [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐖𝐞𝐛 3.0? Why doesn’t it have 𝐚𝐝𝐬?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6985263220735234048-3cBl/)
 * [3시간 웹3.0 길라집이 - Google Docs](https://docs.google.com/document/d/1EmccW21YVGA35R17-D8hHd0KUrPR1Y67lhUcc-LFxM4/edit)
+* [스타벅스의 웹3 전략 '오디세이' 총정리 - YouTube](https://www.youtube.com/watch?v=jpZaymNCFK4)
