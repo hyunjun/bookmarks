@@ -2438,6 +2438,9 @@ Programming Books
   * [팀장으로 산다는 건 2](https://github.com/hyunjun/bookmarks/blob/master/programming_books/team_leader_2.md)
   * [팀장으로 산다는 건 2. PART 1 팀장으로 시작한다는 건 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%82%B0%EB%8B%A4%EB%8A%94-%EA%B1%B4-2-62c65352023f)
   * [팀장으로 산다는 건 2](https://jh4hj.tistory.com/entry/%ED%8C%80%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%82%B0%EB%8B%A4%EB%8A%94-%EA%B1%B4-2)
+* 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
+  * ★★★★☆ 2022.10.24~25 나이가 들어서 그런가 사이먼 시넥의 글이 좋아서 그런가 아무튼 굉장히 맘에 들고 좋았음
+  * 한라 325.24-시194ㅇ
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
@@ -2455,8 +2458,6 @@ Programming Books
 * (NOT YET) [모두를 움직이는 힘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280313083)
   * 한라 325.24-하63ㅁ 탐라 문325.24-하62ㅁ 우당 문331.17-하62ㅁ
   * [실패하는 리더들의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/85329)
-* (NOT YET) 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
-  * 한라 325.24-시194ㅇ
 * (NOT YET) [어디서든 리드하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273501382)
   * 한라 325.2-버874ㅇ
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
