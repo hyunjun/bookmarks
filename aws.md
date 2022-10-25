@@ -226,11 +226,7 @@ AWS
   * [Part 1](http://zigispace.net/986)
   * [Part 2 Hosted Connected](http://zigispace.net/999)
   * [Part 3 Direct Connect 구성 절차](http://zigispace.net/1006)
-* [아마존 라이트세일 서버 리전 이동하기 – AWS Lightsail 워드프레스를 서울 서버로 복사 후 옮기기, 업그레이드 방법](https://swiftcoding.org/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%B8%EC%9D%BC-%EC%84%9C%EB%B2%84%EC%9D%B4%EC%A0%84-transfer)
 * [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)
-* [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
-* [Amazon Lightsail 시작해보기](https://jojoldu.tistory.com/512)
-* [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [내게 알맞는 AWS 컴퓨팅 서비스 찾기](https://medium.com/harrythegreat/%EB%82%B4%EA%B2%8C-%EC%95%8C%EB%A7%9E%EB%8A%94-aws-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B0%BE%EA%B8%B0-bfd2c409273c)
 * [AWS 전체서비스 Overview — 1](https://medium.com/harrythegreat/aws-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-overview-1-4cc3ffdd6b59)
@@ -469,7 +465,6 @@ AWS
 * [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
-* [홈서버(?)에서 서빙하던 서비스 클라우드 이전 썰 (feat. OPGC, AWS Lightsail) :: Jay's Code Factory](https://jay-ji.tistory.com/116)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 
 # AMI Amazon Machine Image
@@ -1449,6 +1444,14 @@ AWS
   * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
   * [Deploy a Serverless Flask App using Zappa](https://www.youtube.com/watch?v=Vl5wroVmSuk)
   * [Zappa와 함께 Lambda에서 Playwright를 써보자! | by Haze Lee | Jul, 2022 | Realignist’s LifeLog](https://realignist.me/zappa-python-playwright-1e684e42ba1c)
+
+# Lightsail
+* [아마존 라이트세일 서버 리전 이동하기 – AWS Lightsail 워드프레스를 서울 서버로 복사 후 옮기기, 업그레이드 방법](https://swiftcoding.org/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%B8%EC%9D%BC-%EC%84%9C%EB%B2%84%EC%9D%B4%EC%A0%84-transfer)
+* [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
+* [Amazon Lightsail 시작해보기](https://jojoldu.tistory.com/512)
+* [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
+* [홈서버(?)에서 서빙하던 서비스 클라우드 이전 썰 (feat. OPGC, AWS Lightsail) :: Jay's Code Factory](https://jay-ji.tistory.com/116)
+* [Let's make a easy web page with Amazon Lightsail](https://catalog.us-east-1.prod.workshops.aws/workshops/48b49818-88d8-4958-b2bc-c219cb185fa5/ko-KR)
 
 # Logging
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
