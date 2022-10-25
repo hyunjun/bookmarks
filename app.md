@@ -1623,6 +1623,7 @@ App
 * ['제법 쓸 만 하다' 무료 동영상 편집 SW 5선 - CIO Korea](http://www.ciokorea.com/news/40273)
 * [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
 * [4K YouTube to MP3 유튜브 영상을 MP3(음원)로 추출 다운로드](https://truesale.tistory.com/entry/4K-YouTube-to-MP3-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-MP3%EC%9D%8C%EC%9B%90%EB%A1%9C-%EC%B6%94%EC%B6%9C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)
+* [KxCoding 5년 삽질기 #1. 강의 만들기로 결심했다가 음향 장비에 잠깐 빠졌던 이야기 | KxCoding](https://kxcoding.com/community/playground/da2ba76e-44ed-406f-8002-0e4f69f9423b)
 * [9xbuddy : 그냥 최고 온라인 다운로더](https://9xbuddy.in/)
   * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
 * AllDUP [How-To : 무료 소프트웨어로 중복 사진을 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/226129)
