@@ -386,6 +386,7 @@ Docker
 * [도커 컨테이너 5분 만에 무료로 배포하기(feat. fly.io) | 44BITS](https://www.44bits.io/ko/post/docker-container-deploy-in-5-minitues-with-fly-io/)
   * 차세대 Heroku라고 불리는 fly.io의 사용 방법 소개
   * fly.io에 가입하고 `flyctl`을 이용해서 nginx와 커스텀 이미지를 배포하는 방법, 볼륨을 생성해서 컨테이너에서 사용하는 방법 설명
+* [fly.io로 Next.js 어플리케이션 배포하기. 컨테이너 기반의 클라우드 플랫폼 서비스인 Heroku 가 지난 8월… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/fly-io%EB%A1%9C-next-js-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-9125081a4791)
 * [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
 * [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
