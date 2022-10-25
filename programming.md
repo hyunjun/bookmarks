@@ -816,6 +816,8 @@ Programming
 * [**애자일 이야기 : 실수는 예방하는 것이 아니라 관리하는 것이다**](http://agile.egloos.com/5774862)
 * [Agile organization · Present](https://present.do/documents/6330f6cfc7bd6826ee8ff992)
 * [Agile_애자일 문화와 마인드셋 · Present](https://present.do/documents/633c024b70efd011b8f6b87c)
+* [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
+  * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
