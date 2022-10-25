@@ -2441,6 +2441,9 @@ Programming Books
 * 인피니트 게임 - 새로운 판도를 만들어낸 사람들의 5가지 무한 원칙 [김지수의 인터스텔라 "한번 1등으로 끝나지 않아, 기업도 인생도.. '무한게임' 하라" 사이먼 시넥](https://news.v.daum.net/v/20220806070033096)
   * ★★★★☆ 2022.10.24~25 나이가 들어서 그런가 사이먼 시넥의 글이 좋아서 그런가 아무튼 굉장히 맘에 들고 좋았음
   * 한라 325.24-시194ㅇ
+  * [인피니트 게임](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_infinite_game.md)
+  * [인피니트 게임. ‘대의명분 Just Cause’ | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84-14177aaf05b2)
+  * [인피니트 게임](https://jh4hj.tistory.com/entry/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
