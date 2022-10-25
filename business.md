@@ -626,6 +626,7 @@ Business
 * [실행력의 비밀... '아는 것'과 '할 줄 아는 것' - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119929)
   * [실행력의 비밀... '아는 것'과 '할 줄 아는 것'](https://www.linkedin.com/posts/annette-meejeong-kim_%EB%A5%98%EB%9E%91%EB%8F%84-%EC%B9%BC%EB%9F%BC-%EC%8B%A4%ED%96%89%EB%A0%A5%EC%9D%98-%EB%B9%84%EB%B0%80-%EC%95%84%EB%8A%94-%EA%B2%83%EA%B3%BC-%ED%95%A0-%EC%A4%84-%EC%95%84%EB%8A%94-%EA%B2%83-activity-6987375687074557952-tOFe/)
 * [여행정보 서비스가 흥하기 어려운 이유](https://yslab.kr/81)
+* [Funnel을 마케팅 말고 engagement 분석에?](https://brunch.co.kr/@graypool/649)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -765,6 +766,7 @@ Business
 * [기획 MZ세대 리크루팅 전략 2 연령대별 지원자 타겟하기](https://blog.comento.kr/recruiting-sterategy-by-age-group/)
 * [월드클래스 채용팀이 역량 강화를 위해 참고하는 10가지 영업 조직의 운영 노하우 - Kimchi hill](https://kimchihill.com/2022/08/28/kr-10lessons-world-class-recruitingteam-learn-from-sales/)
 * [압도적인 '데이터 과학자'가 필요하다··· 전문가들이 전하는 ‘채용·유지’ 전략 - CIO Korea](https://www.ciokorea.com/news/253480)
+* [매경경영지원본부 칼럼 최근 채용을 잘하는 회사의 5가지 특징](https://v.daum.net/v/20221024085100367)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
