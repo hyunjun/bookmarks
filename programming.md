@@ -818,6 +818,7 @@ Programming
 * [Agile_애자일 문화와 마인드셋 · Present](https://present.do/documents/633c024b70efd011b8f6b87c)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
+  * [Comic Agile](comicagile.md)
 * [SAFe 5 for Lean Enterprises](https://www.scaledagileframework.com/)
   * [Lean Budgets - Scaled Agile Framework](https://www.scaledagileframework.com/lean-budgets/)
 * [SAFe: Lean-Agile principles according to the Scaled Agile Framework](https://en.itpedia.nl/2022/07/09/safe-lean-agile-principes-volgens-het-scaled-agile-framework/)
