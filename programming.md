@@ -2385,6 +2385,7 @@ Programming
   * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
 * [cign - Cloud As Design](https://www.cigncloud.com/) visualization
 * [Cloud Champ - YouTube](https://www.youtube.com/channel/UCbg9O0JF3rVKev6wpI5_u5g)
+* [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [클라우드타입](https://cloudtype.io/)
   * [클라우드타입 | Disquiet\*](https://disquiet.io/product/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%83%80%EC%9E%85-1652628787292)
