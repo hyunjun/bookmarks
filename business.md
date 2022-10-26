@@ -1620,6 +1620,7 @@ Business
 * [DBR/Management Solution ‘스스로 목표 설정’ OKR, 구글 키운 핵심 비결](https://www.donga.com/news/Economy/article/all/20220301/112103470/1)
 * [강남언니가 3년째 OKR로 일하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1439/)
 * [OKR(Objectives and Key Results)](https://www.linkedin.com/posts/edward-jee-480225a_okrobjectives-and-key-results%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%8B%9C%EB%8A%94-activity-6975949535973937152-XBLM/)
+* [OKR의 오용과 경영의 가치](https://brunch.co.kr/@graypool/663)
 
 # Patent
 * 세기의 특허전쟁
