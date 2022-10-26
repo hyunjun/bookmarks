@@ -203,6 +203,8 @@ Business
 * [조직문화가 실제로 작동하는 것이 되려면](https://brunch.co.kr/@peoplevalue/3)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
+* [culture '상식과 반복'이 문화를 변화시킵니다](https://community.rememberapp.co.kr/post/85713)
+  * [리멤버 커뮤니티 이야기 당연한 걸 반복해야 문화가 바뀐다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/06/17/organizational-culture/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
