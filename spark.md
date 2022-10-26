@@ -647,6 +647,7 @@
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [AWS Athena Data Source for Apache Spark](https://github.com/tmheo/spark-athena)
+* [batch-processing-gateway: The gateway component to make Spark on K8s much easier for Spark users](https://github.com/apple/batch-processing-gateway)
 * [BigDL: Distributed Deep learning on Apache Spark](https://software.intel.com/en-us/articles/bigdl-distributed-deep-learning-on-apache-spark)
   * [BigDL: Distributed Deep learning on Apache Spark](https://github.com/intel-analytics/BigDL)
 * [CLOUD DATAPROC - Google Cloud Dataproc is a managed Spark and Hadoop service that is fast, easy to use, and low cost](https://cloud.google.com/dataproc/)
