@@ -2718,6 +2718,8 @@ CVPR2016)
   * [나만의 Stable Diffusion 서비스 배포 | Lomit tech blog](https://dshomin.github.io/bentoml/2022/10/03/Stable-Diffusion-bento.html)
   * [전세계가 경악중인 최신 AI 사용법 왕초보 실전 가이드 (ft. Stable Diffusion) - YouTube](https://www.youtube.com/watch?v=vVdNmnEb--E)
   * [8장에 8초! 텍스트입력 이미지 생성모델 - Stable Diffusion+JAX+TPU](https://aifactory.space/forum/discussion/38)
+  * [stable-diffusion-pytorch: Yet another PyTorch implementation of Stable Diffusion](https://github.com/kjsman/stable-diffusion-pytorch)
+    * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/kjsman/stable-diffusion-pytorch/blob/main/demo.ipynb)
   * [stable-diffusion-tensorflow: TensorFlow/Keras port of Stable Diffusion](https://github.com/fchollet/stable-diffusion-tensorflow)
     * m1 mac 에서 구동 가능하다(단지 m1용으로 준비된 requirements 만 잘 설치해주면 됨)
     * out-of-the-box 로, 멀티 GPU 추론 및 TPU 추론 수행 가능. 분산 학습 strategy 를 적절하게 컨피그 해주면 됨
