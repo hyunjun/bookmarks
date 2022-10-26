@@ -455,6 +455,7 @@ AWS
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 6](https://khw742002.tistory.com/38?category=1006667)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 마무리](https://khw742002.tistory.com/39?category=1006667)
 * [Tracking email engagement with AWS Analytics services | AWS Messaging & Targeting Blog](https://aws.amazon.com/ko/blogs/messaging-and-targeting/tracking-email-engagement-with-aws-analytics-services/)
+* [AWS에서 데이터를 분석하는 방법 - AWS Startup](https://www.awsstartup.io/analytics/analytics-on-aws)
 * [AWS의 여러 저장소들 - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EC%97%AC%EB%9F%AC-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%93%A4-c1ee1589b817)
 * [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD) - Percona Database Performance Blog](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/) Graviton
 * [왜 우리는 AWS Graviton2 사용해야 하는가?. 안녕하세요 저는 Spoon Radio에서 SRE 업무를 담당하고 있는… | by Paul | Spoon Radio | Jul, 2022 | Medium](https://medium.com/spoontech/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-aws-gravition2-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-6cb8b5858552)
@@ -466,6 +467,7 @@ AWS
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
+* [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -524,6 +526,7 @@ AWS
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
 * [Query 10 new data sources with Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/query-10-new-data-sources-with-amazon-athena/)
+* [버즈빌 사례 | 일일 6억 건 이상의 광고 데이터 처리 플랫폼 구축을 향한 여정 - 서주은, CTO, 버즈빌 - YouTube](https://www.youtube.com/watch?v=MxmxXK3Xqkk) Athena, S3 기반 data lake
 * [PyAthena - a Python DB API 2.0 (PEP 249) client for Amazon Athena](https://github.com/laughingman7743/PyAthena/)
   * [파이썬으로 아테나에 쿼리하기 (boto3 vs pyathena vs awswrangler)](https://velog.io/@hsh/AWSPythonAthena-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%95%84%ED%85%8C%EB%82%98%EC%97%90-%EC%BF%BC%EB%A6%AC%ED%95%98%EA%B8%B0-boto3-vs-pyathena-vs-awswrangler)
     * athena는 S3에 있는 데이터에 쿼리를 날릴 수 있는 서버리스 쿼리엔진
@@ -1480,6 +1483,7 @@ AWS
 * [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
+* [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
 
 ## Machine Learning SageMaker
@@ -1522,6 +1526,7 @@ AWS
 * [AWS re:Invent 2021 - 삼성전자 'Mobile R&D Hub 3.0', AWS 기반 자연어 처리를 통한 대규모 버그/이슈 추적 서비스 - YouTube](https://www.youtube.com/watch?v=EbPndLdQ_Rg)
 * [Thomson Reuters, Amazon SageMaker기반 자연어 처리 솔루션 개발 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/)
 * [Amazon SageMaker Studio에서 유저별 접근 권한 관리하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sagemaker-studio-userauthorization/)
+* [Amazon SageMaker 단기 집중 과정 (Intensive Course) - AWS Startup Bootcamp](https://www.awsbootcamp.io/ai-ml-and-personalization/ai-ml/amazon-sagemaker-intensive-course)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -1819,6 +1824,7 @@ AWS
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
 * [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
 * [AWS Builders 온라인 시리즈](https://aws.amazon.com/ko/events/builders-online-series/)
+* [AWS 리소스 허브](https://kr-resources.awscloud.com/)
 * [AWS Cloud Quest | 대화형 롤플레잉 게임 | AWS](https://aws.amazon.com/ko/training/digital/aws-cloud-quest/)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
