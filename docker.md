@@ -1689,6 +1689,7 @@ Docker
   * [Karpenter](https://karpenter.sh/)
   * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autocaler/)
   * [My first impression of AWS Karpenter](https://heuristicwave.github.io/Karpenter)
+  * [Kurly만의 MLOps 구축하기 - 초석 다지기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/first-mlops/)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
