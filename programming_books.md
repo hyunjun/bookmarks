@@ -360,14 +360,16 @@ Programming Books
 * [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * ★★★☆☆ 2022.10.06~07
   * 탐라 문325.211-벤58ㅍ
-* (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
+* [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
+  * ★★★★☆ 2022.10.27 컬럼 형태로 쓴 글들을 많이 읽어서 이미 읽었던 내용도 있고 아닌 거도 있고 구체적인 방법론도 있으나 무엇보다 마음가짐을 다시 하는데 큰 도움이 된다
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
-* (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
-* (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
+* [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
+  * ★★★★☆ 2022.10.27 둘을 구분하는 게 때로는 여전히 헷갈릴 때가 있는데 짧은 책에 잘 설명해둠
   * 한라 005.1-크198ㅋ 탐라 개005.1-크198ㅋ
+* (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [린 소프트웨어 개발 : 애자일 실천 도구 22가지 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/49)
