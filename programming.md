@@ -2852,6 +2852,8 @@ Programming
   * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
+* [Tech-Verse 2022](https://tech-verse.me/)
+  * [LINE과 Yahoo! JAPAN의 공동 테크 콘퍼런스 'Tech-Verse 2022'를 개최합니다](https://engineering.linecorp.com/ko/blog/line-zholdings-tech-conference-tech-verse-2022)
 * Toss
   * [SLASH 22](https://toss.im/slash-22)
   * [SLASH 21](https://toss.im/slash-21)
