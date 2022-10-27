@@ -2108,6 +2108,7 @@ Docker
 * [The Host Network Driver | Networking in Docker #5 - TechMormo](https://techmormo.com/posts/docker-networking-5-host-driver/)
 * [The Bridge Network Driver | Networking in Docker #6 - TechMormo](https://techmormo.com/posts/docker-networking-6-bridge-driver/)
 * [The Overlay Network Driver | Networking in Docker #7 - TechMormo](https://techmormo.com/posts/docker-networking-7-overlay-driver/)
+* [Docker Networking Summary | Networking in Docker #8 - YouTube](https://www.youtube.com/watch?v=3c0miSU038E)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
