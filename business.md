@@ -1506,6 +1506,7 @@ Business
     * [클라우제비츠의 전략](https://blog.daum.net/mil-world/15107638)에 대한 이야기와도 연결되는 듯
 * ['시작하는 리더를 위해' 이미지 요약](https://www.linkedin.com/posts/%EC%9E%AC%ED%98%B8-%EC%9D%B4-3a7b45148_reeqyssxh-uikrxgsxjtxurfiqwiswg-spgskn-activity-6982482024813002752-XGPh/)
 * [팀 전체가 리더가 되는 ‘WE-리더십’, 역할과 함께 책임 공유도 강화해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/9390/ac/editorpick)
+* [뼈 때리는 리더가 환영받는 이유(feat.스토브리그)](https://now.rememberapp.co.kr/2022/10/26/23081/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
