@@ -1508,6 +1508,7 @@ Business
 * ['시작하는 리더를 위해' 이미지 요약](https://www.linkedin.com/posts/%EC%9E%AC%ED%98%B8-%EC%9D%B4-3a7b45148_reeqyssxh-uikrxgsxjtxurfiqwiswg-spgskn-activity-6982482024813002752-XGPh/)
 * [팀 전체가 리더가 되는 ‘WE-리더십’, 역할과 함께 책임 공유도 강화해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/9390/ac/editorpick)
 * [뼈 때리는 리더가 환영받는 이유(feat.스토브리그)](https://now.rememberapp.co.kr/2022/10/26/23081/)
+* [IT 팀장으로서 팀원들에게 나쁜 소식을 잘 전달하려면](https://www.boannews.com/media/view.asp?idx=110986)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1927,6 +1928,7 @@ Business
   * [cash vs. stock](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112156#gistcomment-4112156)
   * [commission based vs. fixed income based](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112158#gistcomment-4112158)
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
+* [영입제안을 받을 때 스스로에게 할 질문들](https://www.linkedin.com/posts/activity-6990077419395112960-8g21/)
 * [어떻게 이직할 것인가? | RBBM](https://www.redbusbagman.com/howtoarrivewell/)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
