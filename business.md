@@ -771,6 +771,7 @@ Business
 * [월드클래스 채용팀이 역량 강화를 위해 참고하는 10가지 영업 조직의 운영 노하우 - Kimchi hill](https://kimchihill.com/2022/08/28/kr-10lessons-world-class-recruitingteam-learn-from-sales/)
 * [압도적인 '데이터 과학자'가 필요하다··· 전문가들이 전하는 ‘채용·유지’ 전략 - CIO Korea](https://www.ciokorea.com/news/253480)
 * [매경경영지원본부 칼럼 최근 채용을 잘하는 회사의 5가지 특징](https://v.daum.net/v/20221024085100367)
+* [Startup Engineering Hiring Anti-Patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
