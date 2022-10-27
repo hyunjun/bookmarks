@@ -1667,7 +1667,6 @@ Java
 * [Spring 에서 AOP 구현하기 1편 - 개념설명 및 로깅 구현 - YouTube](https://www.youtube.com/watch?v=bszNuXKZeCs)
 * [Spring 에서 AOP 구현하기 2편 - 보안 모듈 - YouTube](https://www.youtube.com/watch?v=TO1LJ6Bg9M8)
 * [AOP를 활용한 중복코드 리팩토링 | Recoding Life](https://jane096.github.io/project/aop-refactoring/)
-* [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [스프링캠프 2017 Day1 A2 : Async & Spring](https://www.youtube.com/watch?v=HKlUvCv9hvA)
 * [레거시 코드를 점진적으로 개선한 경험 스프링 레거시 코드를 개선하는데 실천한 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 * [Get 요청시 LocalDate 필드에 2월 31일자가 올 경우 정상 처리 방법](https://jojoldu.tistory.com/503)
@@ -1734,6 +1733,9 @@ Java
 * [Spring - ActiveProfilesResolver를 이용하여 Test 코드 실행 시 Spring Profile을 동적으로 주입하기](https://kim-jong-hyun.tistory.com/134)
 * [셀렉트샵에서 예약하기 서비스 개발기. 기존 서비스의 한계 안에서 예약하기 서비스를 개발하며 겪은 해결방법과… | by chrisjune | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EC%85%80%EB%A0%89%ED%8A%B8%EC%83%B5%EC%97%90%EC%84%9C-%EC%98%88%EC%95%BD%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-f7578ffcfbf7)
 * [**Spring WebClient에서 새어나가는 메모리 잡기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html) OpenTelemetry
+* Actuator
+  * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
+  * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
