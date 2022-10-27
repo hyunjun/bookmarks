@@ -1636,6 +1636,7 @@ Docker
   * [How to Get Started With DevSpace and Rapidly Develop Kubernetes Apps – CloudSavvy IT](https://www.cloudsavvyit.com/14690/how-to-get-started-with-devspace-and-rapidly-develop-kubernetes-apps/)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
+* [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
   * [OpenFaaS - Run Containerized Functions On Your Own Terms - Ivan Velichko](https://iximiuz.com/en/posts/openfaas-case-study/)
 * [Falco](https://falco.org/)
