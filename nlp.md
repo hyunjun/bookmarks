@@ -1751,6 +1751,7 @@ NLP
 * [Spelling Checker Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-checker-program-in-python/)
 * [Spelling Corrector Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-corrector-program-in-python/)
 * [검색 시스템 톺아보기 - 1. 검색어 자동완성과 오타 교정 기능](https://blog.lbox.kr/search-engine-1)
+* [카테고리 자동완성 개발기. 안녕하세요. 29CM 발견스쿼드에서 백엔드개발을 담당하고 있는… | by Circlee7 | 29CM TEAM | Oct, 2022 | Medium](https://medium.com/29cm/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B0%9C%EB%B0%9C%EA%B8%B0-93069d5835c4)
 * [hanspell: (주)다음과 부산대학교 인공지능연구실/(주)나라인포테크의 웹 서비스를 이용한 한글 맞춤법 검사기](https://github.com/9beach/hanspell)
 * [hanspellr: R package for Korean spell checker](https://github.com/bayesiahn/hanspellr)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
