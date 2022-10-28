@@ -364,6 +364,9 @@ Scala
 * [Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
 * [Reactive Event Sourcing benchmarks, part 2: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-2-postgresql/)
 * [ING Contact Center 2.0 — Creating Resilient APIs | by ayush mittal | ING Blog | Sep, 2022 | Medium](https://medium.com/ing-blog/ing-contact-center-2-0-creating-resilient-apis-442c2e9ca6a7)
+* [Scala for Game Server Development](https://tech.devsisters.com/posts/scala-for-game-server-development/)
+  * [게임 서버 개발에 스칼라 사용하기](https://tech.devsisters.com/posts/scala-for-game-server-development-kr)
+* [WHERE to find a REMOTE Scala Job? - YouTube](https://www.youtube.com/watch?v=OaxsAXXjcYQ)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -860,6 +863,7 @@ Scala
   * [NULL, NULLPOINTEREXCEPTION AND DEALING WITH IT](https://scalac.io/null-pointer-exception-npe/)
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
   * [Dealing with Optional Values | Functional Scala - YouTube](https://www.youtube.com/watch?v=-DsBMyXqeM4)
+  * [On Scala 3's Optional Braces - Alexandru Nedelcu](https://alexn.org/blog/2022/10/24/scala-3-optional-braces/)
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
   * [Option — the null of our times. Things I would have told my… | by Adam Gajek | VirtusLab | Sep, 2020 | Medium](https://medium.com/virtuslab/option-the-null-of-our-times-77f3bfd7c234)
@@ -1043,6 +1047,8 @@ Scala
     * [Zymposium - ZIO Metrics - YouTube](https://www.youtube.com/watch?v=CT053oX4n5w)
     * [Zymposium - From Akka to ZIO - YouTube](https://www.youtube.com/watch?v=pokgLDZaTu0)
     * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
+    * [ZIO - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0Bzu7NfhTiGK7iCYjcFAYlal)
+      * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
