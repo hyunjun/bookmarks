@@ -392,6 +392,7 @@ Git
 * [How to use actions/checkout in GitHub Actions | GitHub - jobs : what is : use actions/checkout - YouTube](https://www.youtube.com/watch?v=nAK3mFRxfFA)
 * [Automatically create GitHub repository, enable branch protection with Terraform and GitHub Actions - YouTube](https://www.youtube.com/watch?v=nZPyCdyJe4A)
 * [Making CI workflow faster with Github Actions - Blog | luminousmen](https://luminousmen.com/post/making-ci-workflow-faster-with-github-actions)
+* [Github Actions 과 함께 Continuous Delivery 구축하기 | by Yuwon Oh | 29CM TEAM | 29CM TEAM](https://medium.com/29cm/github-actions-%EA%B3%BC-%ED%95%A8%EA%BB%98-continuous-delivery-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-c712dec2dd3)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [GitHub Skills](https://skills.github.com/)
