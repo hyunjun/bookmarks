@@ -4537,6 +4537,7 @@ Javascript
   * [react-testing-library 의 fireEvent 를 userEvent로 마이그레이션 하기 with Antd | by valley | 더핑크퐁컴퍼니 기술 블로그 | May, 2022 | Medium](https://medium.com/pinkfong/react-testing-library-%EC%9D%98-fireevent-%EB%A5%BC-userevent%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-with-antd-ad0de218bb98)
   * [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
+* [React-translator-i18next: open-source project made to auto translate react apps using i18next, this project should extract components text, translate, and replace it with i18n function, also it generates the json file for your target languages](https://github.com/AbdelhamidLarachi/React-translator-i18next)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
 * [React-UMG](https://github.com/ncsoft/React-UMG)
 * [React-yearly-calendar - React calendar component with yearly view](https://github.com/BelkaLab/react-yearly-calendar)
