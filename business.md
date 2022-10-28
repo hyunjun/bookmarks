@@ -1509,6 +1509,7 @@ Business
 * [팀 전체가 리더가 되는 ‘WE-리더십’, 역할과 함께 책임 공유도 강화해야 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/9390/ac/editorpick)
 * [뼈 때리는 리더가 환영받는 이유(feat.스토브리그)](https://now.rememberapp.co.kr/2022/10/26/23081/)
 * [IT 팀장으로서 팀원들에게 나쁜 소식을 잘 전달하려면](https://www.boannews.com/media/view.asp?idx=110986)
+* [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
