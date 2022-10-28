@@ -166,6 +166,7 @@
 * [GCC Rust Monthly Report #19 July 2022 – Philip Herrons Personal Blog](https://thephilbert.io/2022/08/01/gcc-rust-monthly-report-19-july-2022/)
 * [Azure CTO: "이제 새 프로젝트를 C/C++로 시작하는 것은 중단할 때가 되었음" | GeekNews](https://news.hada.io/topic?id=7447)
 * [C++의 시대는 저물고 있고, Rust는 떠오르고 있다 - 엘키의 주절 주절](https://elky84.github.io/2022/09/25/cpp_time_is_end_rust_is_rising/)
+* [Rust Before Main - Ryan Levick - Rust Linz, July 2022 - YouTube](https://www.youtube.com/watch?v=q8irLfXwaFM)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -195,6 +196,7 @@
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 * [Why the Future of the Cloud will be Built on Rust - YouTube](https://www.youtube.com/watch?v=8zuvqDYWUTw)
 * [Ready for Rust • Erik Doernenburg • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=WgLlwjZNEtY)
+* [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 
 # Go
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
