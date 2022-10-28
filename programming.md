@@ -3760,6 +3760,7 @@ Programming
     * 브라우저에서 제대로 동작 안 하는 등의 문제
   * Deferred DeepLink는 앱이 설치되어 있으면 바로 열리지만 그렇지 않으면 설치한 뒤에 열리게 할 수 있음
   * 이 Deferred DeepLink를 제공하는 서비스와 동작 방식 소개
+* [Branch Webinars 딥링크, 정말 아무거나 써도 괜찮을까요? | Branch](https://branch.io/ko/resources/webinar/how-to-choose-deeplink-solution/)
 * [모바일 웹에서 뷰포트 역할. 역사적으로 처음 널리 알려진 모바일 웹 브라우저는 아이폰용… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9%EC%97%90%EC%84%9C-%EB%B7%B0%ED%8F%AC%ED%8A%B8-%EC%97%AD%ED%95%A0-845c9fb0a983)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
