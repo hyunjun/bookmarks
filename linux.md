@@ -479,6 +479,7 @@ Linux
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
   * [One Time Task Scheduling using `at` Command in Linux](http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/)
   * [Understand at, atq, atrm, batch Commands using 9 Examples](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/)
+  * [Cron과 At이 주는 자유를 위해, 실행 권한을 점검하라 - 넷마블 기술 블로그](https://netmarble.engineering/cron-and-at-command-access-control-with-allow-deny-files/)
 * `awk`
   * [AWK script 가이드](https://mug896.github.io/awk-script)
   * `$0` means whole line
