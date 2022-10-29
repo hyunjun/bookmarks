@@ -723,6 +723,8 @@ Book
   * 고려사2
     * ★★★☆☆ 2022.10.23
     * 한라 911.04-박58ㄱ-2 탐라 문911.04-박59ㄱ-2
+* [세계사톡 1~5 세트 - 전5권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259542547)
+  * ★★★☆☆ 2022.10.28~29 1~3권 장점; 세계 역사를 교차해서 보여줌. 동시대에 어떤 일들이 있었는지 보기 좋음. 단점; 전형적인 시각(e.g. 4대 문명, 서구 중심의 세계관)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
