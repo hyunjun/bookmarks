@@ -1512,7 +1512,9 @@ Machine Learning
   * [Sacred와 Omniboard를 활용한 실험 및 로그 모니터링](https://zzsza.github.io/mlops/2019/07/22/sacred-with-omniboard/)
   * [Sacred Example Code Pytorch](https://github.com/maartjeth/sacred-example-pytorch)
   * [Sacred_Deep_Learning](https://github.com/AAbercrombie0492/Sacred_Deep_Learning)
-* scikit
+* [scikit-image: Image processing in Python — scikit-image](https://scikit-image.org/)
+  * [Auto Contrast on SEM image | Pega Devlog](https://jehyunlee.github.io/2022/10/29/Python-DS-118-autocontrast/)
+* scikit-learn
   * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
   * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
   * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
