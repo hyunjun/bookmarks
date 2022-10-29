@@ -2381,6 +2381,7 @@ Programming
 * [AWSKRUG DS 2022/09 발표 - 클라우드 데이터 플랫폼을 구성하는 최신 기술 알아보기 - Speaker Deck](https://speakerdeck.com/woongseok/09-balpyo-keulraudeu-deiteo-peulraespomeul-guseonghaneun-coesin-gisul-alabogi)
 * [GCP, AWS, Azure의 ARM 기반 서버들 성능 비교 | GeekNews](https://news.hada.io/topic?id=7484)
 * [5 Best Cloud Computing Platform Every Programmer Should Know | by javinpaul | Sep, 2022 | Medium](https://javinpaul.medium.com/5-best-cloud-computing-platform-every-programmer-should-know-4ecb033e5a96)
+* [Cloud Performance Root Cause Analysis at Netflix • Brendan Gregg • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=LLZmTuTSEB8)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
