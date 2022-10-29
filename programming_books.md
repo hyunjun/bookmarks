@@ -157,12 +157,16 @@ Programming Books
   * [클라우드 엔지니어를 위한 97 가지 조언. “스스로 테스트를 하세요. 테스트를 대체할 수있는 것은 없습니다.” | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-97-%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8-d73528510b8a)
   * [클라우드 엔지니어를 위한 97 가지 조언](https://jh4hj.tistory.com/entry/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-97-%EA%B0%80%EC%A7%80-%EC%A1%B0%EC%96%B8)
 * [《안드로이드 뜻밖의 역사》  – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%e3%80%8a%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-%eb%9c%bb%eb%b0%96%ec%9d%98-%ec%97%ad%ec%82%ac%e3%80%8b/)
+  * ★★★☆☆ 2022.10.24
   * 탐라 문005.58-하58ㅇ
   * [안드로이드 뜻밖의 역사 - 세상을 뒤흔든 모바일 OS에 담긴 숨은 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1621)
   * [독서광 안드로이드 뜻밖의 역사](https://jhrogue.blogspot.com/2022/09/blog-post_21.html)
   * [안드로이드 뜻밖의 역사](https://github.com/hyunjun/bookmarks/blob/master/programming_books/androids.md)
   * [안드로이드 뜻밖의 역사. Androids. A Book is Born | by Chet… | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%9C%BB%EB%B0%96%EC%9D%98-%EC%97%AD%EC%82%AC-a320e5423ac7)
   * [안드로이드 뜻밖의 역사](https://jh4hj.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%9C%BB%EB%B0%96%EC%9D%98-%EC%97%AD%EC%82%AC)
+* [코딩을 지탱하는 기술: 원리로 깨우치는 프로그래밍 기법](https://bjpublic.tistory.com/171)
+  * ★★★☆☆ 2022.10.29
+  * 한라 005.11-니58ㅋ 탐라 개005.1-니58ㅋ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -170,9 +174,6 @@ Programming Books
   * 2017.12 탐라
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
-* (NOT YET) (더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법
-  * 탐라 개005.1-니58ㅋ
-  * 한라 005.11-니58ㅋ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
 * (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
