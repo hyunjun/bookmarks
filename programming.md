@@ -2248,9 +2248,11 @@ Programming
   * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
   * [Can we build better?](https://blog.earthly.dev/better-builds/)
-* [Pants: A fast, scalable build system](https://v1.pantsbuild.org/)
-  * [A brief intro to the Pants build system | InfoWorld](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html)
-  * ["완전한 병렬성과 원격 작업 지원" 획기적인 프로젝트 빌드 툴 '팬츠' - ITWorld Korea](https://www.itworld.co.kr/news/226664)
+* [Pants](https://www.pantsbuild.org/)
+  * [Pantsbuild를 활용하여 대규모 Python 프로젝트를 모노리포로 이전하기, 김준기 - PyCon Korea 2022 - YouTube](https://www.youtube.com/watch?v=r2FpfmcoL5M&list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk&index=28)
+  * [Pants: A fast, scalable build system](https://v1.pantsbuild.org/)
+    * [A brief intro to the Pants build system | InfoWorld](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html)
+    * ["완전한 병렬성과 원격 작업 지원" 획기적인 프로젝트 빌드 툴 '팬츠' - ITWorld Korea](https://www.itworld.co.kr/news/226664)
 * [Please](https://please.build/)
 
 # Cloud
