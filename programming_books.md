@@ -168,8 +168,11 @@ Programming Books
   * ★★★☆☆ 2022.10.29
   * 한라 005.11-니58ㅋ 탐라 개005.1-니58ㅋ
 * [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
-  * ★★★☆☆ 2022.10.29 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
+  * ★★★☆☆ 2022.10.30 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
   * 탐라 문005.1-김813ㄱ
+* [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
+  * ★★★☆☆ 2022.10.30 기술적인 책은 아니고 데이터를 기업이 활용하기 위한 기본적인 자세나 개념에 대한 책으로 받아들이면 될 듯
+  * 우당 문325.581-차94ㄷ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -214,8 +217,6 @@ Programming Books
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
   * [손에 잡히는 10분 정규 표현식 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/86)
-* (NOT YET) [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
-  * 우당 문325.581-차94ㄷ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
