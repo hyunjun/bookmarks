@@ -1465,6 +1465,7 @@ Java
 
 ## Library logger logging
 * [Logging Performance Comparison - Sebastian Daschner](https://blog.sebastian-daschner.com/entries/logging-performance-comparison)
+* [Logging in Java — Log4j vs Logback vs SLF4J | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/logging-in-java-log4j-vs-logback-vs-slf4j-88c533088d2a)
 * [java-logger-benchmark: Different Java Loggers Benchmarks.](https://github.com/GoodforGod/java-logger-benchmark)
 * [log4j 2](http://logging.apache.org/log4j/2.x/)
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
