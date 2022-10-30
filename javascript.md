@@ -2377,7 +2377,6 @@ Javascript
   * [npm에 새로 추가된 audit 기능](https://blog.outsider.ne.kr/1375)
   * [Node.js: npm asyncWrite 오류 발생할 때](http://ohgyun.com/771)
   * [npm package permissions — an idea](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
-  * [아직도 몰랐어? 똑똑하게 모듈 설치하는 방법: NPX! (Introducing NPX - npm package runner)](https://www.youtube.com/watch?v=MIn0kpzSkT8)
   * [How to publish a React Native component to NPM — it’s easier than you think](https://medium.freecodecamp.org/how-to-publish-a-react-native-component-to-npm-its-easier-than-you-think-51f6ae1ef850)
   * [npm 설치 오류: code EBADKEY](https://ohgyun.com/783)
   * [5분만에 CLI 만들어보기](https://appear.github.io/2019/03/17/NODE/my-cli-01)
@@ -2385,7 +2384,6 @@ Javascript
   * [NPM1](https://www.youtube.com/playlist?list=PLuHgQVnccGMCwEXgZ-dep4SJlGEuYip-6)
   * [How to publish packages to npm (the way the industry does things)](https://medium.freecodecamp.org/how-to-publish-packages-to-npm-the-way-the-industry-does-things-2077ec34d7e8)
   * [How to keep your sanity while managing NPM & functions in Node](https://medium.com/free-code-camp/how-to-keep-your-sanity-while-managing-npm-functions-in-node-9a5889cce80d)
-  * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
   * [프론트엔드 개발환경의 이해: NPM](http://jeonghwan-kim.github.io//series/2019/12/09/frontend-dev-env-npm.html)
   * [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
   * [NPM in the console](https://github.com/egoing/NPM-in-the-console)
@@ -2410,6 +2408,10 @@ Javascript
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
     * create-react-app으로 프로젝트 생성하자마자 나오는 5개의 취약점이 모두 개발 단계/빌드 시에만 쓰여서 실제 공격당할 가능성이 없음에도 이를 경고, 프로젝트 메인테이너들은 이와 관련한 업데이트 리포트를 계속 받아 시간 낭비
+  * npx
+    * [아직도 몰랐어? 똑똑하게 모듈 설치하는 방법: NPX! (Introducing NPX - npm package runner)](https://www.youtube.com/watch?v=MIn0kpzSkT8)
+    * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+    * [Difference between npm and npx - YouTube](https://www.youtube.com/watch?v=xvI_Mm4iC3I)
 * [Nx is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft](https://nx.dev/)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77) microfrontend
     * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
