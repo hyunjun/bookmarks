@@ -4427,6 +4427,7 @@ Javascript
   * [Optimizing Core Web Vitals on a Next.js app](https://www.patterns.dev/posts/nextjs-casestudy/)
     * [Optimizing Core Web Vitals on a Next.js app | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/optimizing-core-web-vitals-on-a-nextjs-app/)
   * [GraphQL with NextJS | Real-life project structure with GraphQL client and server - YouTube](https://www.youtube.com/watch?v=w5wPs4R1Guw)
+  * [Next.js 13 신버전 발표회 요약 (웹개발자 비상!!) - YouTube](https://www.youtube.com/watch?v=5BRFGMs1v_o)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
