@@ -167,6 +167,9 @@ Programming Books
 * [코딩을 지탱하는 기술: 원리로 깨우치는 프로그래밍 기법](https://bjpublic.tistory.com/171)
   * ★★★☆☆ 2022.10.29
   * 한라 005.11-니58ㅋ 탐라 개005.1-니58ㅋ
+* [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
+  * ★★★☆☆ 2022.10.29 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
+  * 탐라 문005.1-김813ㄱ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -206,8 +209,6 @@ Programming Books
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
   * 탐라
   * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
-* (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
-  * 탐라 문005.1-김813ㄱ
   * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
