@@ -173,6 +173,9 @@ Programming Books
 * [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
   * ★★★☆☆ 2022.10.30 기술적인 책은 아니고 데이터를 기업이 활용하기 위한 기본적인 자세나 개념에 대한 책으로 받아들이면 될 듯
   * 우당 문325.581-차94ㄷ
+* [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
+  * ★★★☆☆ 2022.10.30
+  * 탐라 문004.76-김77ㅇ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -273,8 +276,6 @@ Programming Books
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
-* (NOT YET) [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
-  * 탐라 문004.76-김77ㅇ
 * (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
 
 # Agile Scrum
