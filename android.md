@@ -412,6 +412,7 @@ Android
   * [Pluu Dev - Navigating with Compose ~ Serializable/Parcelable 데이터 전달 ~ 2부](https://pluu.github.io/blog/android/2022/02/04/compose-pending-argument-part-2/)
   * [Pluu Dev - 요약 Performance best practices for Jetpack Compose (Google I/O '22)](https://pluu.github.io/blog/android/io22/2022/06/24/io22-Performance_best_practices_for_Jetpack_Compose/)
   * [Google Developers Korea Blog: 한 명의 Android 개발자가 Lyft Driver 앱 시작 시간을 한 달 만에 21% 단축한 방법을 소개합니다](https://developers-kr.googleblog.com/2022/08/how-single-android-developer-improved.html)
+  * [Google Developers Korea Blog: Airbnb가 Jetpack Compose를 활용해 개발 역량을 강화하고 최고의 결과물을 얻어낸 방법을 확인해보세요](https://developers-kr.googleblog.com/2022/10/airbnb-uses-jetpack-compose.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
