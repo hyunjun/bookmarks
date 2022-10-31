@@ -3792,6 +3792,7 @@ Programming
 * [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
   * [가장 빠른 GIF는 존재하지 않음 | GeekNews](https://news.hada.io/topic?id=6031)
 * [프리 소프트웨어로 구성한 사진작업 워크플로우 | GeekNews](https://news.hada.io/topic?id=6312)
+* [Reduce File Size of Images in Linux - CLI and GUI methods | DigitalOcean](https://www.digitalocean.com/community/tutorials/reduce-file-size-of-images-linux)
 * [agi-upscale: agi pic viewer](https://github.com/eviltrout/agi-upscale)
 * [Cascade - GPU가속되는 노드 기반 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=6332)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
@@ -3802,6 +3803,7 @@ Programming
 * [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
   * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
 * [imgp: Fast batch image resizer and rotator](https://github.com/jarun/imgp)
+* [jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
 * [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
   * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
