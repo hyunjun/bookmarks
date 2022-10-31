@@ -431,6 +431,7 @@ Java
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1) C, multiprocess, multithread, multiplex
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 2부 - Java NIO와 멀티플렉싱 기반의 다중 접속 서버**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part2)
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3)
+  * [켠 김에 PR까지 0화 - YouTube](https://www.youtube.com/watch?v=9LRFLCtFPTo) VMWare, Manjaro linux, intelliJ
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
