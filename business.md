@@ -2147,6 +2147,7 @@ Business
 * [디자이너의, 디자이너에 의한, 디자이너를 위한 채용 설계하기](https://toss.tech/article/2022-product-designer-challenge)
 * [2초만에 불필요한 클릭 없애는 4가지 방법](https://toss.tech/article/4-ways-for-minimum-input)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
+* [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
