@@ -490,9 +490,9 @@ Programming Books
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
   * 한라 005.1-아32ㅍ
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
-  * 탐라
+  * 탐라 문005.1-박51ㅇ
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
-  * 탐라
+  * 탐라 문005.133-푸227ㅋ
 * (NOT YET) [Learning Algorithms Book](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
   * [LearningAlgorithms: Code repository associated with Learning Algorithms: A Programmer's Guide to Writing Better Code. https://oreil.ly/learn-algorithms ](https://github.com/heineman/LearningAlgorithms)
 
@@ -699,7 +699,7 @@ Programming Books
 * (NOT YET) [클린 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/69)
   * 한라 004-마888클ㄹ, 탐라 문004-마839ㅋ
 * (NOT YET) [소프트웨어 아키텍처 이론과 실제 4/e | 에이콘출판사](http://acornpub.co.kr/book/swarchitect-4e)
-  * 탐라
+  * 탐라 문005.12-베58ㅅ
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
   * 탐라
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
