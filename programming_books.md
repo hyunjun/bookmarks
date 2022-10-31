@@ -127,9 +127,10 @@ Programming Books
     * 해적판(piracy)는 양날의 칼이다. 이익을 갉아먹기도 하지만, 잠재수요와 잠재고객의 식별이 되기도 한다.
     * 민감도 테스트를 적극적으로 하라. 테스트가 되어 얼추 요량이 서면, 가격인상을 주저하지 마라. 이때 떨어져나가는 고객은, 애초에 비고객 또는 언제고 떠날 취약고객일수도 있다.
     * 정확한 가격을 찾으려하지말라. 최대한 따져본 추측(informed guess)이면 충분하다.
-* [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
+* [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
   * 탐라 문005.1-송67ㅇ
   * ★★★☆☆ 2022.07.30~31
+  * [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://github.com/hyunjun/bookmarks/blob/master/programming_books/forge_your_future.md)
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source - Jun - Medium](https://nymets.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-forge-your-future-with-open-source-9dd017e0f7b6)
   * [오픈소스로 미래를 연마하라 Forge Your Future with Open Source](https://jh4hj.tistory.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%98%EB%9D%BC-Forge-Your-Future-with-Open-Source)
@@ -170,6 +171,7 @@ Programming Books
 * [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * ★★★☆☆ 2022.10.30 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
   * 탐라 문005.1-김813ㄱ
+  * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
   * [개발자의 글쓰기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developers_writing.md)
   * [개발자의 글쓰기 - Jun - Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-eaa6f81c9342)
   * [개발자의 글쓰기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
@@ -186,56 +188,65 @@ Programming Books
   * [오늘도 개발자가 안 된다고 말했다. PART 01 — 가깝고도 먼 개발자 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4-6560f13758a2)
   * [오늘도 개발자가 안 된다고 말했다](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
+  * 탐라 문802-모77ㄱ
+* (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
+  * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
-* (NOT YET) 앤서블 철저 입문
-  * 2017.12 탐라
+* (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
+  * 탐라 문005.1-히235ㅇ
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
+  * 한라 005.76-베68ㅅ
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
+  * 한라 004.588-아52ㄱ
 * (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
-  * 2018.10 탐라
-* (NOT YET) 우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기
-  * 2018.10 탐라
+  * 한라 325.04-김94실 탐라 문325.04-김94ㅅ 우당 문325.04-김94ㅅ
+* (NOT YET) [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
+  * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
   * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
 * (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
-  * 2018.10 한라
+  * 한라 005.11-박73ㅅ 우당 문005.104-박72ㅅ
 * (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기 | 에이콘출판사](http://acornpub.co.kr/book/introduction-jvm)
-  * 2018.10 한라 005.133-렌48ㅈ
+  * 한라 005.133-렌48ㅈ
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
   * [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
-  * 탐라
+  * 탐라 문005.11-우63ㅍ
 * (NOT YET) [**빅데이터를 지탱하는 기술**](http://jpub.tistory.com/8610)
+  * 한라 005.76-니58ㅂ 탐라 문005.76-니59ㅂ
 * (NOT YET) [인텔리제이 IDEA 기본 사용법부터 고급 기능까지 마스터하기](http://acornpub.co.kr/book/intellij-idea)
+  * 애월 005.1-야31ㅇ
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
+  * 한라 004.015-우76ㅅ 탐라 문004.015-우77ㅅ 우당 문004.015-우77ㅅ
 * (NOT YET) [**HTTP 완벽 가이드: 웹은 어떻게 동작하는가**](https://blog.outsider.ne.kr/1431)
+  * 한라 004.583-고66H
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
+  * 탐라 문331.5412-빅88ㅂ
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
   * 탐라 문005-니51ㅁ
   * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
+  * 탐라 문005.104-강67ㄴ 우당 문005.104-강67ㄴ
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
+  * 우당 문004.1-실41ㅇ
 * (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
-* (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
-  * 탐라
-  * [오픈 소스로 미래를 연마하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/70)
-  * [개발자의 글쓰기](https://www.notion.so/3252727e7f374d499b4ec93691fd5e7e)
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
-* (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
+  * 탐라 문326.41-니59I
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
+  * 탐라 문005.13-벤845ㅅ
   * [손에 잡히는 10분 정규 표현식 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/86)
-* (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
-  * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
+  * 삼매봉 005.13-로63ㅈ
 * (NOT YET) [일상 속 사물이 알려주는 웹 API 디자인](https://yongho1037.tistory.com/818) API 설계
   * 한라 005.138-로294ㅇ
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
 * (NOT YET) [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://www.onlybook.co.kr/entry/secret-programs)
+  * 한라 005.1-스882ㅋ 탐라 문004.22-스831ㅋ 우당 문004.22-스831ㅋ
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://jhrogue.blogspot.com/2021/04/blog-post.html)
 * (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
@@ -244,29 +255,36 @@ Programming Books
   * 한라 005.104-김54ㄴ
 * (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
 * (NOT YET) [『컴퓨터과학이 여는 세계』 세상을 바꾼 컴퓨터, 소프트웨어의 원천 아이디어 그리고 미래 – 도서출판 인사이트](https://blog.insightbook.co.kr/2015/05/21/%E3%80%8E%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EC%9D%B4-%EC%97%AC%EB%8A%94-%EC%84%B8%EA%B3%84%E3%80%8F-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%86%8C-2/)
-  * 한라, 탐라, 우당
+  * 한라 004-이15ㅋ 탐라 개004-이15ㅋ 우당 문004-이16ㅋ
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
+  * 탐라 문005.74-두61ㄷ
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
+  * 탐라 문004.61-애228ㅇ
   * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
+  * 탐라 문005.76-부211ㄱ
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
 * (NOT YET) [마인드스톰 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/76)
+  * 한라 005.13-패894ㅁ
 * (NOT YET) [레고 마인드스톰 EV3 프로그래밍 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/110)
 * (NOT YET) [CODE 코드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/80)
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
+  * 중앙 BO005-로43ㅅ
 * (NOT YET) [원스어폰어타임인 실리콘밸리 / 월가의 승자들 - 머니S](https://moneys.mt.co.kr/news/mwView.php?no=2020122707008070743)
   * 한라 325.211-피54ㅇ, 탐라 325.211-피54ㅇ
 * (NOT YET) [데이터 익명화를 위한 파이프라인](https://hanbit.co.kr/store/books/look.php?p_code=B7550382130)
-  * 탐라
+  * 탐라 문004.613-아43ㄷ
   * [데이터 익명화를 위한 이론적인 방법과 절차 : 네이버 블로그](https://blog.naver.com/drvoss/222751471716)
   * [데이터 익명화를 위한 파이프라인 Building an Anonymization Pipeline](https://github.com/hyunjun/bookmarks/blob/master/programming_books/building_an_anonymization_pipeline.md)
 * (NOT YET) 좋은 코드, 나쁜 코드 [좋은 개발자는 좋은 코드로 말한다!](https://jpub.tistory.com/1272)
-  * 우당
+  * 우당 문005.1-롱835ㅈ
 * (NOT YET) [NFT 실체와 가치 | 위키북스](https://wikibook.co.kr/nft/)
   * 탐라 문327.2-장53ㅇ
 * (NOT YET) [이토록 쉬운 NFT 개발 스타터팩](https://www.rubypaper.co.kr/entry/%EC%9D%B4%ED%86%A0%EB%A1%9D-%EC%89%AC%EC%9A%B4-NFT-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%84%B0%ED%8C%A9%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  * 탐라 005.11-박73ㅇ
 * (NOT YET) [NFT 아트 실전 수업](https://blog.naver.com/creatalk/222785283525)
+  * 탐라 문601.3-돈59N
 * (NOT YET) [프로그래머의 길, 멘토에게 묻다 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/116)
   * 한라 005.104-후44ㅍ
 * (NOT YET) [인간, 조직, 권력 그리고 어느 SW 엔지니어의 변 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/38)
@@ -274,14 +292,18 @@ Programming Books
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
+  * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
+  * 한라 005.5-다872ㄱ
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
   * 우당 문004.588-윤94ㅋ
 * (NOT YET) [실용주의 소프트웨어 개발: 현장에서 길어올린 소프트웨어 개발 베스트 프랙티스(Best Practices)](https://roadbook.co.kr/181)
   * 한라 005.12-오44ㅅ
 * (NOT YET) [혼자 공부하는 컴퓨터 구조+운영체제](https://www.hanbit.co.kr/store/books/look.php?p_code=B9177037040)
+  * 한라 004.22-강38ㅎ 탐라 문004.22-강39ㅎ
 * (NOT YET) [커넥티드카 해킹 | 에이콘출판사](http://acornpub.co.kr/book/hacking-connected-cars)
 * (NOT YET) [보안 취약점 관리 자동화 | 에이콘출판사](http://acornpub.co.kr/book/vulnerability-management)
+  * 동부 004.6-매18보
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
