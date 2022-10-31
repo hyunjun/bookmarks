@@ -3801,6 +3801,7 @@ Programming
   * `magick mogrify -monitor -format jpg *.HEIC` [Convert HEIC to JPG on Mac - WPLauncher](https://blog.wplauncher.com/convert-heic-to-jpg-on-mac/)
 * [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
   * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
+* [imgp: Fast batch image resizer and rotator](https://github.com/jarun/imgp)
 * [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
 * [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
   * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
