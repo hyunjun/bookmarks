@@ -4433,6 +4433,7 @@ Javascript
     * [Optimizing Core Web Vitals on a Next.js app | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/case-studies/optimizing-core-web-vitals-on-a-nextjs-app/)
   * [GraphQL with NextJS | Real-life project structure with GraphQL client and server - YouTube](https://www.youtube.com/watch?v=w5wPs4R1Guw)
   * [Next.js 13 신버전 발표회 요약 (웹개발자 비상!!) - YouTube](https://www.youtube.com/watch?v=5BRFGMs1v_o)
+  * [Next.js 13 버전을 알아보자 - Turbopack, Layouts, Server Components...](https://mechaniccoder.tistory.com/entry/Nextjs-13-%EB%B2%84%EC%A0%84%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Turbopack-Layouts-Server-Components-cystin-fonts-and-images-Dynamic-HTML-streaming)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
