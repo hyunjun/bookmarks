@@ -2045,6 +2045,7 @@ Business
 * [스타트업의 자금 조달 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=5176006)
 * [스머프 스타트업의 머리속을 들여다보는 프로들 - YouTube](https://www.youtube.com/playlist?list=PLQvqXcm97CTD5EGNe_yrFlprol5lE59qH)
 * [맹목적인 성장의 늪 : 네이버 블로그](https://blog.naver.com/bizucafe/222848916662)
+* [브런치북 스타트업의 창업자 vs. 경영자](https://brunch.co.kr/brunchbook/startupleader)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
