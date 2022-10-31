@@ -176,6 +176,9 @@ Programming Books
 * [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
   * ★★★☆☆ 2022.10.30
   * 탐라 문004.76-김77ㅇ
+  * [오늘도 개발자가 안 된다고 말했다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_said_no_today.md)
+  * [오늘도 개발자가 안 된다고 말했다. PART 01 — 가깝고도 먼 개발자 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4-6560f13758a2)
+  * [오늘도 개발자가 안 된다고 말했다](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
