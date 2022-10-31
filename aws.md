@@ -132,6 +132,7 @@ AWS
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
 * [AWS Cognito 로 앱 로그인 구현을 준비하기 # UserPool](https://developer88.tistory.com/343)
+* [Use Amazon Cognito to add claims to an identity token for fine-grained authorization | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/use-amazon-cognito-to-add-claims-to-an-identity-token-for-fine-grained-authorization/)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)
 * [코드로 인프라 관리하기 GamesOnAWS 2019.pptx - Google Drive](https://drive.google.com/file/d/1Bsc5hic_p8nNfGTSa8Dz4UXx49PVFOd4/view)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
