@@ -170,6 +170,9 @@ Programming Books
 * [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * ★★★☆☆ 2022.10.30 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
   * 탐라 문005.1-김813ㄱ
+  * [개발자의 글쓰기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developers_writing.md)
+  * [개발자의 글쓰기 - Jun - Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-eaa6f81c9342)
+  * [개발자의 글쓰기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
 * [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
   * ★★★☆☆ 2022.10.30 기술적인 책은 아니고 데이터를 기업이 활용하기 위한 기본적인 자세나 개념에 대한 책으로 받아들이면 될 듯
   * 우당 문325.581-차94ㄷ
