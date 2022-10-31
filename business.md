@@ -1514,6 +1514,7 @@ Business
 * [Quiet quitting을 막기 위해 리더가 할 수 있는 일 7가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/quitequitting20221026)
 * [‘좋은 기술자 넘어 위대한 기술자로···’ IT 고수의 10가지 특성 - CIO Korea](https://www.ciokorea.com/news/262012)
 * [Industry Review '어쩌다 리더' 시대는 끝났다…매일 훈련해야 준비된 리더](https://n.news.naver.com/mnews/article/009/0005032798?sid=101)
+* [big story언어는 리더십의 화력火力이다 │ 매거진한경](https://magazine.hankyung.com/money/article/202101204604c)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
