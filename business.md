@@ -1062,6 +1062,7 @@ Business
 * [피드백의 핵심은 ‘솔직함’이 아니에요 - YouTube](https://www.youtube.com/watch?v=zLJD5ycwn3U)
 * [저처럼 답을 잘 모르는 팀장은 피드백하면 안 되나요?](https://brunch.co.kr/@seanpang/43)
 * [인퓨처컨설팅 & 유정식 직원에게 피드백하지 마라. '조언'하라](https://infuture.kr/1783)
+* [부정적 피드백을 쓸모 있게 만드는 3가지 전략ㅣ인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/222882076025)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -1511,6 +1512,7 @@ Business
 * [IT 팀장으로서 팀원들에게 나쁜 소식을 잘 전달하려면](https://www.boannews.com/media/view.asp?idx=110986)
 * [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 * [Quiet quitting을 막기 위해 리더가 할 수 있는 일 7가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/quitequitting20221026)
+* [‘좋은 기술자 넘어 위대한 기술자로···’ IT 고수의 10가지 특성 - CIO Korea](https://www.ciokorea.com/news/262012)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
