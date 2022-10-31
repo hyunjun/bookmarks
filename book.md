@@ -213,6 +213,9 @@ Book
 * 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
   * 우당 문325.555-기36ㄱ
   * ★★★☆☆ 2022.08.06
+* [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
+  * ★★★★☆ 2022.10.31 정말 30년 가까운 한국 이커머스의 역사를 한 권으로 잘 정리했고, 이커머스의 구조에 대해서 알 수 있다. 직접 관계가 없더라도 프로덕트와 관련있는 사람이라면 읽어볼 가치가 있다.
+  * 탐라 문325.555-이39대
 * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://brunch.co.kr/@planetraveler/89)
   * 한라 325.19-이45ㅅ 탐라 문325.19-이45ㅅ 우당 문325.19-이45ㅅ
   * ★★☆☆☆ 2022.08.08 디자인씽킹을 몰라서 그런지 모르겠지만 스타벅스의 (대부분은 성공인) 사례를 잘 이야기했을 뿐 특별히 디자인씽킹을 배우거나 알 수 있는 책은 아니란 생각
@@ -354,8 +357,6 @@ Book
 * (NOT YET) [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
 * (NOT YET) 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
-* (NOT YET) [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
-  * 탐라
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
   * 탐라 문594.392-로31ㅇ
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
