@@ -477,6 +477,7 @@ Python
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [ASMR Programming - coding Game OF Life in Python - No Talking - YouTube](https://www.youtube.com/watch?v=nCcAz1LHz9k)
 * [Day 16 : Live Weather Updates with Python - YouTube](https://www.youtube.com/watch?v=DpZIA0vzT7Y)
+* [Bitbucket Server Api Python Code Example](https://www.skolaparthi.com/bitbucket-api/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
