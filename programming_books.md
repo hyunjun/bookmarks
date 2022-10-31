@@ -308,6 +308,7 @@ Programming Books
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 * (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
+  * 탐라
 
 # Agile Scrum
 
@@ -725,6 +726,7 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
   * 탐라
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
+  * 탐라
 
 # C
 
@@ -740,6 +742,7 @@ Programming Books
   * 한라 005.133-남73ㅆ
 * (NOT YET) [CERT C 프로그래밍 2/e | 에이콘출판사](http://acornpub.co.kr/book/cert-c-2e)
 * (NOT YET) [전문가를 위한 C](https://www.hanbit.co.kr/store/books/look.php?p_code=B6135642963)
+  * 한라
 
 # C++
 
@@ -784,6 +787,7 @@ Programming Books
 * (NOT YET) [Accelerated C++](https://www.hanbit.co.kr/store/books/look.php?p_code=B4851649517)
   * 한라 005.133-쾨198ㅇ
 * (NOT YET) [필요한 것만 골라 배우는 모던 C++ – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/11/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EB%A7%8C-%EA%B3%A8%EB%9D%BC-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%AA%A8%EB%8D%98-c/)
+  * 우당
   * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
 
 # C#
@@ -848,6 +852,7 @@ Programming Books
 * (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
 * (NOT YET) [이경오의 SQL+SQLD 비밀노트 (한빛미디어, 이경오 저)](https://goaloflife.tistory.com/220)
 * (NOT YET) [실무자를 위한 그래프 데이터 활용법](https://hanbit.co.kr/store/books/look.php?p_code=B6334451644)
+  * 우당
 
 # Data Science
 
@@ -1407,6 +1412,7 @@ Programming Books
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [데이터가 한눈에 보이는 시각화: 데이터 시각화 기초부터 분석 사례, 다양한 차트 유형까지 알아보는](https://wikibook.co.kr/dataviz/)
 * (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
+  * 한라
 * (NOT YET) [데이터 시각화 입문(후지 토시쿠니, 와타나베 료이치 著, 김태현 譯, 2020)](https://jehyunlee.tistory.com/46)
   * 탐라 문325.484-후79ㄷ
 * (NOT YET) [대시보드 설계와 데이터 시각화(스티브 웩슬러, 제프리 섀퍼, 앤디 코트그리브 著, 최윤석 譯, 2018)](https://jehyunlee.tistory.com/48)
@@ -1493,6 +1499,7 @@ Programming Books
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
+  * 우당
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -1568,7 +1575,7 @@ Programming Books
 
 # Elixir
 * (NOT YET) [처음 배우는 엘릭서 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B5732906061)
-  * 우당
+  * 우당 문005.133-토33ㅊ
   * [엘릭서 배우기의 좋은 출발점 : 네이버 블로그](https://blog.naver.com/drvoss/222705630021)
 
 # Finance
@@ -1613,6 +1620,7 @@ Programming Books
   * 탐라 문005.11-조222ㅅ
   * [Remix - Ethereum IDE](https://remix.ethereum.org/)
 * (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
+  * 우당
 * (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
 
@@ -1623,11 +1631,14 @@ Programming Books
   * 탐라 문005.76-휴58ㅇ
 
 # Flutter
-* (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
+  * 한라 005.11-유25ㅍ
   * [처음 배우는 플러터 :: 배워서 남주자](https://countryxide.tistory.com/177)
+  * [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [소문난 명강의 : 오준석의 플러터 생존 코딩](http://hanbit.co.kr/store/books/look.php?p_code=B9770627589)
+  * 한라 005.58-오76ㅍ 우당 문005.11-오77ㅍ
 * (NOT YET) [플러터 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B6928806254)
+  * 한라 005.58-윈27ㅍ
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
@@ -1676,6 +1687,7 @@ Programming Books
 * (NOT YET) [팀 개발을 위한 Git・GitHub 시작하기](https://jybaek.tistory.com/874)
 * (NOT YET) [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 * (NOT YET) [토미의 Git with 소스트리 – 토미의 개발노트 – iOS 개발관련 지식을 공유합니다](https://jusung.github.io/%ED%86%A0%EB%AF%B8%EC%9D%98-Git-%EC%B1%85%EC%86%8C%EA%B0%9C/)
+  * 한라
 
 # Go
 
@@ -1709,6 +1721,7 @@ Programming Books
 * (NOT YET) [밑바닥부터 만드는 인터프리터 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/101)
 * (NOT YET) [밑바닥부터 만드는 컴파일러 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/102)
 * (NOT YET) [백엔드를 위한 Go 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299624701)
+  * 한라
 
 # Hadoop
 
@@ -1760,7 +1773,10 @@ Programming Books
   * 탐라 개004.지67ㅁ
 
 # Haskell
+* (NOT YET) [가장 쉬운 하스켈 책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=36960427)
+  * 한라 005.133-리895ㄱ 탐라 개005.13-리895ㄱ
 * [하스켈로 배우는 함수형 프로그래밍](https://jpub.tistory.com/511)
+  * 한라 005.136-오872ㅎ
 * (NOT YET) [하스켈로 배우는 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4315070)
   * [하스켈로 배우는 프로그래밍 by kyagrd](https://kyagrd.github.io/haskell/)
   * [Kizoo: Programming in Haskell의 머릿글 원본](https://kizoo.blogspot.com/2009/05/programming-in-haskell.html)
@@ -1797,6 +1813,7 @@ Programming Books
 * (NOT YET) [클라우드 네이티브 애플리케이션 디자인 패턴](https://jybaek.tistory.com/965)
   * 한라 004.588-인27ㅋ
 * (NOT YET) [모두를 위한 클라우드 컴퓨팅](https://jpub.tistory.com/1310)
+  * 한라
 
 # Interview
 
@@ -2506,7 +2523,10 @@ Programming Books
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
 * (NOT YET) [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
+  * 탐라
 * (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
+  * 탐라
+* (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
 
 # Math
 
@@ -2709,7 +2729,7 @@ Programming Books
   * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041216177718768)
   * [면접을 앞둔 개발자 지망생에게 - 골든래빗](https://goldenrabbit.co.kr/2022/03/23/%eb%a9%b4%ec%a0%91%ec%9d%84-%ec%95%9e%eb%91%94-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%a7%80%eb%a7%9d%ec%83%9d%ec%97%90%ea%b2%8c/)
 * [커리어 스킬](https://brunch.co.kr/@yudong/103)
-  * 한라
+  * 한라 005.104-손34ㅋ 탐라 문005.104-스33ㅋ 우당 문005.104-손33ㅋ
   * ★★★☆☆ 2022.05.10~12 근육질의 프로그래머 존 숀메즈의 개발자 로드맵. 약간 뻔한 소리로 받아들일 수도 있지만 전반적으로 실용적으로 배우기에 좋다고 생각. 자기 관리가 정말 대단한 사람이라 이런 면 중 하나만 배워도 성장할 수 있을 거 같다
   * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
   * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
@@ -3106,6 +3126,7 @@ Programming Books
 * (NOT YET) 누구나 쉽게 스칼라+플레이스칼라 입문부터 게시판, 채팅 프로그램 제작까지
   * 2016.11
 * (NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
+  * 한라 005.133-스65ㄹ
   * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
 
 ## Scala Akka

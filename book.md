@@ -363,6 +363,7 @@ Book
 * (NOT YET) [반도체 삼국지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302939277)
   * 우당
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
+  * 우당
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
