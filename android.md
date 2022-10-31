@@ -165,6 +165,7 @@ Android
 * [Android 앱 빌드 속도를 높이는 10가지 방법](https://engineering.linecorp.com/ko/blog/how-to-make-android-app-build-faster/)
 * [안드로이드 Build 속도를 개선하는 방법](https://developer88.tistory.com/177)
 * [Pluu Dev - 요약 Make your build faster and more robust with the latest Android Gradle plugin (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/10/31/ads21-agp/)
+* [Pluu Dev - 요약 What's new in Android Build (Android Dev Summit '22)](https://pluu.github.io/blog/android/androiddevsummit/2022/10/30/ads22-Whats-new-in-Android-Build/)
 * [Android Checkbox에 Custom 이미지 사용하기](https://developer88.tistory.com/200)
 * [APK 빌드 시 Lint found fatal errors가 발생할 경우의 대응](https://developer88.tistory.com/191)
 * [Google Ads에 광고하는 방법](https://developer88.tistory.com/201)
