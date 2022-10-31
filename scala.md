@@ -2135,6 +2135,7 @@ Scala
 * [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
 * [Metaprogramming in Scala 2 & 3 - VirtusLab](https://virtuslab.com/blog/metaprogramming-in-scala-2-3/)
 * [The inline Modifier in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/inline-modifier)
+* [Compile time validation using inline modifier in Scala 3](https://yadukrishnan.live/compile-time-error-generation-using-inline-in-scala-3)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
