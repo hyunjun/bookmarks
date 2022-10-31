@@ -173,6 +173,9 @@ Programming Books
 * [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
   * ★★★☆☆ 2022.10.30 기술적인 책은 아니고 데이터를 기업이 활용하기 위한 기본적인 자세나 개념에 대한 책으로 받아들이면 될 듯
   * 우당 문325.581-차94ㄷ
+  * [데이터 읽기의 기술](https://github.com/hyunjun/bookmarks/blob/master/programming_books/skill_of_reading_data.md)
+  * [데이터 읽기의 기술. ‘관점’이라는 것은 ‘암묵지’의 영역 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%BD%EA%B8%B0%EC%9D%98-%EA%B8%B0%EC%88%A0-53dc0fbe28cb)
+  * [데이터 읽기의 기술](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%BD%EA%B8%B0%EC%9D%98-%EA%B8%B0%EC%88%A0)
 * [오늘도 개발자가 안 된다고 말했다](https://brunch.co.kr/@chiri/25)
   * ★★★☆☆ 2022.10.30
   * 탐라 문004.76-김77ㅇ
