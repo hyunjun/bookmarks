@@ -844,7 +844,9 @@ Javascript
 * [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
 * [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
 * [프론트엔드는 무엇인가?. Web Application의 패러다임은 어떻게 되는걸까? | by 조은, John Cho | Oct, 2022 | Medium](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-30919634f80d)
-* [veltrends 개발 후기](https://velog.io/@velopert/veltrends-dev-review) 1. 모바일 우선 디자인 (Mobile First Design) 2. Remix 후기 3. Terraform 4. Fastify, 5. Prisma
+* [veltrends 개발 후기](https://velog.io/@velopert/veltrends-dev-review)
+  * Velopert님이 개발, IT, 디자인, 스타트업 소식을 한 번에 볼 수 있는 veltrends을 개발하면서 배운 내용을 정리
+  * 1. 모바일 우선 디자인 (Mobile First Design) 2. 풀 스택 프레임워크 Remix 후기 3. Terraform 4. Fastify, 5. Prisma
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -893,6 +895,10 @@ Javascript
     * 실패했을 때 즉시 재시도하면 불필요하게 과도한 트래픽을 서버에 일으킬 수 있어서 장애를 더욱 심하게 만들 수 있으므로
     * 지연시간 추가, 백오프로 실패할수록 지연 시간을 늘리고 이 시간을 랜덤화해서 분산되도록 개선하는 과정 설명
 * [Retry mechanism in JavaScript - YouTube](https://www.youtube.com/watch?v=f4yxN8KimK8)
+* [Using Default Exports Makes JavaScript Harder to Read!](https://cichocinski.dev/blog/using-default-exports-makes-javascript-harder)
+  * JavaScript에서 `export default`를 사용하지 말라는 주장
+  * `export default`는 CommonJS의 호환성을 위해서 추가된 기능으로 보통은 사용할 일이 없음
+  * 오히려 export default를 사용하면 임포트할 때 함수 이름을 따로 고민해야 하고 모듈 전부를 임포트할 때 default가 어색하다고 이야기
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -2289,6 +2295,12 @@ Javascript
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
   * [Taotajima.jp WebGL deconstruction | by Yuri akella Artiukh | Medium](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
+  * [Building an interactive WebGL experience in Next.js – Vercel](https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js)
+    * Vercel이 이번 Next.js에서 방문자가 프리즘에 무지갯빛을 비추게 할 수 있는 기능을 구현했는데 이를 구현하는 과정 설명
+    * 무지개를 사용자가 조정할 수 있게 하자는 아이디어를 구현하기 위해
+      * React 컴포넌트에서 three.js를 사용할 수 있는 react-three-fiber를 이용해서 빛을 구현하는 방법을 단계적으로 보여주고
+      * Bloom으로 시각 효과를 개선하고
+      * three.js의 일반적인 패턴을 편하게 도와주는 drei를 성능을 최적화
   * [cobe: 5kB WebGL globe lib](https://github.com/shuding/cobe)
     * WebGL로 구현한 [지구](https://cobe.vercel.app/)로 자세한 구현과정은 [트위터 스레드](https://twitter.com/shuding_/status/1475916082875666441)에
     * 기존에 Three.js로 지구를 구현했지만, 최적화를 잘하지는 못했는데 GitHub이 구현한 글을 보고 아이디어를 얻어서 점으로 구성된 세계 지도를 구성하고 극점 부분의 표현을 최적화
@@ -2429,7 +2441,13 @@ Javascript
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
   * [create-react-app에서 snowpack으로의 마이그레이션 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-12-16-migration-from-cra-to-snowpack)
-* Turbo [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥 | by Eric Simons | StackBlitz Blog | Medium](https://medium.com/stackblitz-blog/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
+* [Turbo](https://turbo.build/)
+  * [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥 | by Eric Simons | StackBlitz Blog | Medium](https://medium.com/stackblitz-blog/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
+  * [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://vercel.com/blog/turbopack)
+    * Webpack의 뒤를 이을 Turbopack을 Vercel에서 공개
+    * Turbopack은 Rust로 작성된 JavaScript/TypeScript 증분 번들러이면서 빌드 시스템
+    * Vercel에 따르면 Next.js 13에서 Turbopack을 이용했을 때 700배 빠름
+    * Turbopack은 Rust의 증분 메모이제이션 프레임워크인 Turbo에 기반
 * [Turborepo](https://turborepo.org/)
   * [Turborepo로 모노레포 개발 경험 향상하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/monorepo-with-turborepo/)
     * 모노레포를 관리하기 위해 모노레포 도구인 Turborepo 도입
@@ -5059,7 +5077,15 @@ Javascript
 * [(번역)타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿](https://velog.io/@lky5697/the-ultimate-clean-architecture-template-for-typescript-projects)
 * [How to Use Type Guards in TypeScript - Byte This!](https://bytethisstore.com/articles/pg/typescript-type-guards)
 * [Typescript is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
-* [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
+* [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility/)
+  * TypeScript의 구조적 서브 타이핑을 이용한 타입 호환성을 자세히 살펴보는 글
+  * 구조적 서브 타이핑은 명목적 서브 타이핑과 달리 객체의 프로퍼티가 같으면 타입을 허용하는 방식으로 덕 타이핑이라고도 부름
+  * 그래서 TypeScript에서도 같은 타입이 아니어도 프로퍼티가 같으면 타입 허용
+  * 오브젝트 리터럴을 직접 전달하면 타입 호환이 되지 않음
+  * 이는 TypeScript가 객체의 Freshness를 추적하는데 Freshness는 타입 단언을 하거나 타입 추론으로 확장될 때 Freshness가 사라짐
+  * 오브젝트 리터럴은 Freshness가 사라지지 않았으므로 타입 호환이 되지 않은 것
+  * 오브젝트 리터럴을 허용하는 경우 불필요한 프로퍼티도 사용된다고 오해할 수 있고 타입의 오타가 있는 경우도 허용되는 문제가 있어서 이를 지원하지 않는 결정
+  * 이를 허용하고자 한다면 타입에 Index signature를 포함할 수 있고 아니면 Branded type을 적용해서 지정한 타입 외에는 허용하지 않도록 할 수 있음
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
