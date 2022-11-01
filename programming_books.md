@@ -168,6 +168,9 @@ Programming Books
 * [코딩을 지탱하는 기술: 원리로 깨우치는 프로그래밍 기법](https://bjpublic.tistory.com/171)
   * ★★★☆☆ 2022.10.29
   * 한라 005.11-니58ㅋ 탐라 개005.1-니58ㅋ
+  * [코딩을 지탱하는 기술](https://github.com/hyunjun/bookmarks/blob/master/programming_books/technologies_that_supports_coding.md)
+  * [코딩을 지탱하는 기술. static typed language가 dynamic typed… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-cb99795658ad)
+  * [코딩을 지탱하는 기술](https://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0)
 * [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
   * ★★★☆☆ 2022.10.30 별 기대 없이 읽었지만 괜찮은 부분들이 많아 나중에도 참고할만 함
   * 탐라 문005.1-김813ㄱ
