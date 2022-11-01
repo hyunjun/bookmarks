@@ -1518,6 +1518,12 @@ Programming
 * [Managing Complex Dependencies with Distributed Architecture at eBay](https://www.infoq.com/news/2022/04/distributed-arch-ebay/)
 * [Distributed System Design Patterns | by Nishant | May, 2022 | Medium](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc)
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
+* [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
+  * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
+  * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
+    * 한 서비스가 소셜 네트워크를 운영하는 것이 아니라
+    * 이메일처럼 여러 소셜 네트워크가 서로 통신할 수 있게 해주어 사용자는 원하는 프로바이더를 선택할 수 있게 해주는 프로토콜
+  * 블루스카이 앱도 곧 공개할 예정
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -2951,6 +2957,7 @@ Programming
     * 모든 액션은 자동으로 캐싱
   * [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
+  * [dagger.io | Your CI pipelines should be code: introducing the Dagger Go SDK](https://dagger.io/blog/go-sdk)
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
@@ -4973,6 +4980,9 @@ Programming
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
 * [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
+* [Jeremy's Blog | Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
+  * 오랫동안 머지하지 않는 브랜치의 고통을 피하고자 피처 플래그를 이용해서 새로운 기능에 대한 피처 플래그에 대해 전반적인 내용을 설명
+  * 이 피처 플래그도 릴리스, 실험, 운영, 권한 등 목적에 따라 구분하고 피처 플래그를 사용할 때 주의할 점 등을 설명
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
