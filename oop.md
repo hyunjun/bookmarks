@@ -111,6 +111,7 @@
 * [**이유와 솔루션으로 정리하는 객체지향 생활체조 원칙**](https://hudi.blog/thoughtworks-anthology-object-calisthenics/)
   * [더 나은 소프트웨어를 향한 9단계: 객체지향 생활 체조(1) | developerFarm 개발자 농장](https://developerfarm.wordpress.com/2012/01/26/object_calisthenics_1/)
   * [Java 객체지향 생활 체조 원칙 9가지 (from 소트웍스 앤솔러지) :: Jamie의 성장기](https://jamie95.tistory.com/99)
+* [**OOP 기반 선착순 투표 시스템 아키텍처**](https://zuminternet.github.io/vote-architecture/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
