@@ -162,6 +162,10 @@ Docker
 * [Travis CI에서 Docker Hub에 이미지 푸시하기](https://blog.outsider.ne.kr/1388)
 * [Docker Hub Pull 횟수 6시간에 100회 제한 정책 | 쿠버네티스 안내서](https://subicura.com/k8s/2021/01/02/docker-hub-pull-limit/)
 * [GitHub may replace DockerHub. It’s been interesting to witness the… | by James Read | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/github-may-replace-dockerhub-a5da5e547f01)
+* [Announcing Docker Hub OCI Artifacts Support - Docker](https://www.docker.com/blog/announcing-docker-hub-oci-artifacts-support/)
+  * 기존에는 Docker Hub에 컨테이너 이미지만 저장해서 사용할 수 있었지만 이제 OCI 아티팩트도 지원
+  * 이로써 컨테이너뿐 아니라 Helm 차트나 Docker 볼륨 등을 패키징해서 Docker Hub에 등록해서 관리 가능
+  * 이 글에서 Helm 차트나 볼륨 등록 예제 제공
 * [Docker - 이미지와 컨테이너, 10분 정리](https://www.sangkon.com/hands-on-docker-part1/)
 * [Docker - 컴포넌트, 20분 정리](https://www.sangkon.com/hands-on-docker-part2/)
 * [Managing Open-Source Docker Images on Docker Hub using Travis](https://medium.com/vaidikkapoor/managing-open-source-docker-images-on-docker-hub-using-travis-7fd33bc96d65)
@@ -639,6 +643,15 @@ Docker
 * [What are Docker, Containers, Virtual Machines, and Containerization? | by Dineshchandgr | Medium](https://dineshchandgr.medium.com/what-are-docker-containers-virtual-machines-and-containerization-e68bf076edf4)
 * [Container Orchestration and Kubernetes — Part 2 | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/container-orchestration-and-kubernetes-part-2-8bf0ff2637e0)
 * [컨테이너 인터널 #1 컨테이너 톺아보기](https://tech.kakaoenterprise.com/154)
+* [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
+  * Docker의 Wasm 지원이 테크니컬 프리뷰로 공개되어 테크니컬 프리뷰 버전의 Docker Desktop을 다운로드 받으면 사용 가능
+  * 최근 이미지 관리를 containerd가 하게 바꾸면서 OCI 호환 아티팩트와 containerd shim을 모두 사용 가능
+  * CNCF 프로젝트인 WasmEdge와 협업해서 OCI 아티팩트에서 Wasm 모듈을 추출해서 WasmEdge 런타임에서 실행할 수 있게 하는 containerd shim 작성
+    * 이를 이용해서 새로운 shim을 사용할 수 있게 해서 Wasm 지원
+  * 실행
+    * `--runtime=io.containerd.wasmedge.v1`로 cointainerd shim을 사용하도록 해야 하고
+    * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
+    * 글에서 실행 가능한 예제 제공
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1693,7 +1706,11 @@ Docker
   * [Karpenter](https://karpenter.sh/)
   * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autocaler/)
   * [My first impression of AWS Karpenter](https://heuristicwave.github.io/Karpenter)
-  * [Kurly만의 MLOps 구축하기 - 초석 다지기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/first-mlops/)
+  * [Kurly만의 MLOps 구축하기 - 초석 다지기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/first-mlops)
+    * Kurly에서 학습에 사용하는 GPU를 좀더 자유롭고 효율적으로 사용하기 위해 MLOps 플랫폼을 만들기로 하고 그 과정의 첫번째 글
+    * 필요할 때마다 GPU 인스턴스를 연결해야 하는데
+      * Cloud Auto Scaler는 AWS의 오토 스케일링 그룹을 이용하지만
+      * Karpenter는 직접 노드를 관리하기 때문에 더 빠르게 Karpenter를 사용하기로 결정
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
