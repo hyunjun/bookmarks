@@ -1220,6 +1220,7 @@ Programming
   * [Cache made consistent: Meta’s cache invalidation solution | 문섭스블로그](https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/)
     * [Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역) | GeekNews](https://news.hada.io/topic?id=6725)
   * [Hard things in Computer Science](https://blog.frankel.ch/hard-things-computer-science/)
+  * [Caching things every Programmer must know | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/caching-things-every-programmer-must-know-28d4a7e8b9b1)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
