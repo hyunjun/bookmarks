@@ -288,13 +288,14 @@
 
 # Conference
 * [A TypeScript Fan's KotlinJS Adventures • Eamonn Boyle & Garth Gilmour • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9p60bBBpG6A)
+* [Kotlin is *Way* More Than Just Android - YouTube](https://www.youtube.com/watch?v=7zx_KjDXAAw)
+* [Google's Journey from Java to Kotlin for Server Side Programming by James Ward , Brad Hawkes , John - YouTube](https://www.youtube.com/watch?v=o14wGByBRAQ)
 * [Kotlin 2021 - Wrapped Up! - YouTube](https://www.youtube.com/watch?v=wYoo4dkwZwM)
 * [kotlinconf.com](https://kotlinconf.com/)
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
   * [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
   * [KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton - YouTube](https://www.youtube.com/watch?v=te3OU9fxC8U)
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
-* [Kotlin is *Way* More Than Just Android - YouTube](https://www.youtube.com/watch?v=7zx_KjDXAAw)
 
 # Coroutine
 * [Kotlin Coroutines – Retrofit2 + Coroutines 동시에 다루기](http://www.kmshack.kr/2018/05/kotlin-coroutines-retrofit2-coroutines-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
