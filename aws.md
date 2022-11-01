@@ -1807,6 +1807,11 @@ AWS
 * [Create EC2 with Terraform | IaC with Terraform and AWS | Automation Infra deployments - YouTube](https://www.youtube.com/watch?v=yrwRItpt_lw)
 * [Import Existing AWS Infrastructure to Terraform | by Melissa Gibson | Oct, 2022 | Towards AWS](https://towardsaws.com/import-existing-aws-architecture-to-terraform-368b66c48275)
 * [Terraform IaC 도구를 활용한 AWS 웹콘솔 클릭 노가다 해방기](https://saramin.github.io/2022-10-21-terraform/)
+* [Tracking Infrastructure with SSM and Terraform](https://www.davehall.com.au/blog/2022/10/19/tracking-infrastructure-with-ssm-and-terraform/)
+  * Terraform을 사용할 때 SSM을 활용하는 방법 설명
+  * 인프라에는 잘 안 바뀌는 낮은 수준의 인프라도 있으므로 VPC를 만들 때 서브넷 정보 등을 SSM 파라미터 스토어에 저장하게 하고
+    * 자주 바뀌는 애플리케이션에서는 SSM 파라미터 스토어에서 서브넷 정보를 가져와서 사용하는 방법 설명
+  * 같은 방식은 S3나 VPC 엔드포인트에서도 활용 가능
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
