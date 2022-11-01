@@ -940,6 +940,7 @@ Programming
 * [**Stack under attack: what we learned about handling DDoS attacks - Stack Overflow Blog**](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) API를 만드는 원칙에 해당하는 이야기
   * [StackOverflow가 DDOS를 대응하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=7006)
 * [한 GCP 고객사, ‘사상 최대’ 디도스 공격 막아냈다 - CIO Korea](https://www.ciokorea.com/news/251098) DDoS
+* [12 Patterns for Evolvable Web APIs • Mike Amundsen • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=g6n3UGsQpSs)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -4390,6 +4391,7 @@ Programming
   * [기술 뉴스 #206 : 22-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1622)
   * [기술 뉴스 #207 : 22-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1627)
   * [기술 뉴스 #208 : 22-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1630)
+  * [기술 뉴스 #209 : 22-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1631)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -4962,6 +4964,7 @@ Programming
   * QA가 'Quality Assurance'에서 'Quality Assistance', 'Quality Advocator'로 변화하게 된 과정
   * 'Shift-left'와 'Shift-right' 접근 방법을 통해 어떻게 더 나은 품질을 확보할 수 있는지 공유
 * [가파르게 성장하는 서비스를 담당한, 한 품질담당자의 회고 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9220/)
+* [CPaaS QA가 하는 일 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/11/01/What-CPaaS-QA-does.html)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
