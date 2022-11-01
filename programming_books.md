@@ -1406,6 +1406,9 @@ Programming Books
 * [데이터로 전문가처럼 말하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B5424596013)
   * ★★★☆☆ 2022.10.08
   * 우당 문005.75-올819ㄷ
+  * [데이터로 전문가처럼 말하기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/communicating_with_data.md)
+  * [데이터로 전문가처럼 말하기. 최근 액센츄어 Accenture 조사에 따르면, 오직 21% 직원만이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0-a7b95f92dbf2)
+  * [데이터로 전문가처럼 말하기](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0)
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술](https://blog.insightbook.co.kr/2019/05/02/%E3%80%8A%EC%A7%84%EC%8B%A4%EC%9D%84-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%98%88%EC%88%A0%E3%80%8B/)
   * 한라 004.76-카68ㅈ
   * [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
