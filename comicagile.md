@@ -2,6 +2,15 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Burning Down – Comic Agilé](https://www.comicagile.net/comic/burned-down/)
+  * 와우, 이렇게 멋진 번다운 차트를 가진 팀은 본 적이 없어요. 여러분들 정말 팀을 일관성 있게 운영했군요.
+  * 저건 번다운이 아니에요. 코로나 사태로 인한 우리 회사 주식 가치예요.
+  * Authors comments:
+    * 지난 주 세계 주식 시장이 폭락하면서, 시각적으로 보기에 번다운 차트와 닮았다는 건 분명하다.
+    * 성숙한 스크럼 팀은 속도를 잘 이해하고 있다. 전달된 스토리 포인트의 흐름은 실제 번다운으로 볼 수 있고 스프린트 번다운 차트에서 예상하는 "이상적인" 번다운 선과 비교할 수 있다.
+    * 팀이 이상적인 번다운을 따르기 위해 고군분투하는 데에는 여러가지 이유가 있다. 과도한 커밋, 의존성, PO 비가용성 및 비현실적인 DoD를 예로 들 수 있다. 번다운은 이런 모든 문제를 반영하고, 팀이 방해를 극복할 수 있게 돕는 건 스크럼 마스터나 애자일 코치의 책임이다.
+  * [#4 — Burning Down - Jun - Medium](https://nymets.medium.com/4-burning-down-adc4345429b1)
+  * [#4 – Burning Down -](https://jh4hj.tistory.com/entry/4-%E2%80%93-Burning-Down)
 * [Skateboards – Comic Agilé](https://www.comicagile.net/comic/skateboards/)
   * 그래서, 인수 조건을 만족할 수 있게 필요한 최소한의 일만 해주세요. 보통 그러듯 예산이 빡빡하기 때문에, 요구조건을 넘어서서 할 필요는 없어요. MVP 접근 방식은 마음가짐이 전부라는 걸 기억해서, 스케이트보드에서 시작하고 고객에게서 피드백을 얻읍시다!
   * 음, 그래서 이것들로 뭘 하지?
