@@ -1080,6 +1080,7 @@ Go
   * [Apache JMeter를 사용해 Go 서버 테스트하기](https://kevink1103.oopy.io/414df295-027c-4f7e-a065-4f7cce1793dd)
   * [Crash course in Gin Framework - YouTube](https://www.youtube.com/watch?v=N14HOh10ghY)
   * [Build RESTful API in Golang using Gin and Gorm](https://morioh.com/p/17f2e7997e16)
+  * [RESTful web service using Go and Gin](https://codersdaily.in/blog/restful-web-service-using-Go-and-Gin)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [golang-redis-webserver: web server using redis](https://github.com/Paulo-Lopes-Estevao/golang-redis-webserver)
