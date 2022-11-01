@@ -4911,6 +4911,7 @@ Python
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
 * [Python is About to Become 64% Faster — Python 3.10 vs. Python 3.11 Benchmark | by Dario Radečić | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/python-is-about-to-become-64-faster-python-3-10-vs-python-3-11-benchmark-3a6abcc25b90)
 * [Python 3.11 Is Indeed Faster Than 3.10 | by Thuwarakesh Murallie | May, 2022 | Towards Data Science](https://towardsdatascience.com/python-3-11-is-indeed-faster-than-3-10-1247531e771b)
+* [Some New Features in Python 3.11 - YouTube](https://www.youtube.com/watch?v=tEh3oJcE0do)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * 2to3
