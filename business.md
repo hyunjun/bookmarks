@@ -1515,6 +1515,7 @@ Business
 * [‘좋은 기술자 넘어 위대한 기술자로···’ IT 고수의 10가지 특성 - CIO Korea](https://www.ciokorea.com/news/262012)
 * [Industry Review '어쩌다 리더' 시대는 끝났다…매일 훈련해야 준비된 리더](https://n.news.naver.com/mnews/article/009/0005032798?sid=101)
 * [big story언어는 리더십의 화력火力이다 │ 매거진한경](https://magazine.hankyung.com/money/article/202101204604c)
+* [일 잘하는 팀원 만드는 팀장은 업무 지시하는 방법부터 다르다! < 비즈니스 사례 < 기사본문 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=3571) COP context outcome principle
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
