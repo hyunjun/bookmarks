@@ -1920,6 +1920,7 @@ Business
   * [당신의 혁신 능력을 망가뜨리지 마라](https://brunch.co.kr/@graypool/282)
   * `가장 중요한 걸 찾고 나머지는 내버려둬라` 이게 가장 어려운 일 아닌가?
 * [스타트업계 전설 권도균 "창업자는 철학자가 돼야···모든 것 쓰고 갈 것" - ZDNet korea](https://zdnet.co.kr/view/?no=20211214095913) 드러커는 경영을 규율이라고 했다
+* [스타트업 창업가는 왜 번아웃의 늪에 빠지나](https://eopla.net/magazines/229)
 * [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
