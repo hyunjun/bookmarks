@@ -638,6 +638,7 @@ Docker
 * [Implementing Container Manager](https://iximiuz.com/en/series/implementing-container-manager/)
 * [What are Docker, Containers, Virtual Machines, and Containerization? | by Dineshchandgr | Medium](https://dineshchandgr.medium.com/what-are-docker-containers-virtual-machines-and-containerization-e68bf076edf4)
 * [Container Orchestration and Kubernetes — Part 2 | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/container-orchestration-and-kubernetes-part-2-8bf0ff2637e0)
+* [컨테이너 인터널 #1 컨테이너 톺아보기](https://tech.kakaoenterprise.com/154)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
