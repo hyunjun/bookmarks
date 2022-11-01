@@ -1619,6 +1619,8 @@ Javascript
 * [Use These JavaScript Libraries To Level Up Your Project! - YouTube](https://www.youtube.com/watch?v=ZrFfPIPA5gs)
 * [2022년 프론트엔드 개발 동향 | 요즘IT](https://yozm.wishket.com/magazine/detail/1590/)
 * [Top 2 ORMs in JavaScript. When working with Ruby applications, I… | by Himanshu Gupta | Medium](https://medium.com/@himanshu_dev/top-2-orms-in-javascript-fadd2e57b81c)
+* [How to write your own state management library · Jude Hunter](https://judehunter.dev/blog/how-to-write-your-own-state-management-library)
+  * [(번역) 자신만의 상태 관리 라이브러리를 작성하는 방법](https://velog.io/@lky5697/how-to-write-your-own-state-management-library)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -2094,6 +2096,9 @@ Javascript
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
 * [Quark - Lightning fast app creation](https://quarkjs.io/)
   * [Announcing “Quark” — A Software sketchbook for your projects](https://hackernoon.com/announcing-quark-a-software-sketchbook-for-your-projects-2f53553415b)
+* Qwik [Framework reimagined for the edge! - Qwik](https://qwik.builder.io/)
+  * [The Fastest JavaScript Framework. A glimpse of the world’s first O(1)… | by Code Ceeker | Sep, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/the-fastest-javascript-framework-b843c6d25979)
+    * [(번역) 가장 빠른 자바스크립트 프레임워크](https://velog.io/@sehyunny/the-fastest-js-framework)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Rando.js | The better JavaScript random function](https://randojs.com/)
@@ -2879,6 +2884,9 @@ Javascript
 * [Don’t worry, Nobody is Replacing Node, not Even Bun and Even less Deno | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)
 * [Minimize Heap Allocations in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 * [The new test framework built-in to Node.js 18.8.0 | by David Herron | Sep, 2022 | ITNEXT](https://itnext.io/the-new-test-framework-built-in-to-node-js-18-8-0-1d78315ac9f9)
+* [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
+  * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
+* [6 Major Features of Node.js 19. Details of Node.js 19 new features… | by Jennifer Fu | Oct, 2022 | Better Programming](https://betterprogramming.pub/6-major-features-of-node-js-19-b98e28b9670c)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
