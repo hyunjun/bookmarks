@@ -1063,6 +1063,18 @@ Git
   * [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness | The GitHub Blog](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
     * [Github Copilot이 개발자의 생산성과 행복에 미치는 영향 | GeekNews](https://news.hada.io/topic?id=7359)
   * [Google Published Results on How ML-Enhanced Code Compilation Could Improve Developers’ Productivity](https://www.infoq.com/news/2022/08/google-ai-code-compilation/)
+  * [GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](https://githubcopilotinvestigation.com/)
+    * GitHub Copilot을 조사하는 사이트
+    * Copilot이 학습한 코드에 대해 문제 제기
+      * 오픈소스는 라이선스의 의무를 따르거나 라이선스의 예외 적용을 받는 공정 사용 둘 중 하나여야 하는데
+      * Copilot이 라이선스 의무를 따를 수는 없으므로 공정 사용이어야 하고 실제로 GitHub에서도 공정 사용이라고 대답
+    * 하지만 이에 대한 자료를 제공하지 않고 있고
+      * AI의 공정 사용도 어떻게 적용될지 알 수 없고
+      * 일부에서는 라이센스 문제가 있는 코드도 학습에 사용되었다는 의혹도 제기
+    * 이 사이트에서는 AI 코딩을 반대한다기보다
+      * GitHub Copilot에 문제를 제기하고 있고
+      * 잘못된 코드의 생산으로 오픈소스 생태계에 장기적으로 안 좋은 영향을 줄 수 있다고 하며
+      * 사용자들의 의견과 제보를 받고 있음
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
