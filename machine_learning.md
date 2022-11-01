@@ -1336,6 +1336,7 @@ Machine Learning
 * [머신러닝 시스템 디자인 패턴](https://github.com/mercari/ml-system-design-pattern/blob/master/README_ko.md)
 * [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
 * [2205.02302 Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
+* [PyData Chicago: Building an MLOps platform at HelloFresh, by Dr. Erik Widman - YouTube](https://www.youtube.com/watch?v=W_tyjkHbqBk)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
