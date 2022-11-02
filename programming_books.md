@@ -461,6 +461,7 @@ Programming Books
 * [똑똑한 코드 작성을 위한 실전 알고리즘](https://www.hanbit.co.kr/store/books/look.php?p_code=B3563253053)
   * 우당
   * ★★★★☆
+  * [LearningAlgorithms: Code repository associated with Learning Algorithms: A Programmer's Guide to Writing Better Code. https://oreil.ly/learn-algorithms ](https://github.com/heineman/LearningAlgorithms)
   * [똑똑한 코드 작성을 위한 실전 알고리즘. 이미 수많은 자료구조 & 알고리즘 책들이 있는데, 이 책의 가치는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2110c1fcface)
   * [똑똑한 코드 작성을 위한 실전 알고리즘](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * (NOT YET) 알고리즘 : 컴퓨터 과학의 기본, 숫자 알고리즘에서 양자 알고리즘까지
@@ -519,8 +520,6 @@ Programming Books
   * 탐라 문005.1-박51ㅇ
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
   * 탐라 문005.133-푸227ㅋ
-* (NOT YET) [Learning Algorithms Book](https://www.oreilly.com/library/view/learning-algorithms/9781492091059/)
-  * [LearningAlgorithms: Code repository associated with Learning Algorithms: A Programmer's Guide to Writing Better Code. https://oreil.ly/learn-algorithms ](https://github.com/heineman/LearningAlgorithms)
 
 # Amazon AWS
 
