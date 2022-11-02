@@ -136,6 +136,7 @@ Redis
 * [Alex Xu on Twitter: "1. How do we build a simple 𝐜𝐡𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 using 𝐑𝐞𝐝𝐢𝐬? The diagram below shows how we can leverage the pub-sub functionality of Redis to develop a chat application. https://t.co/4w7aFPrNvg" / Twitter](https://twitter.com/alexxubyte/status/1555210693921542144)
 * [Redis Explained](https://architecturenotes.co/redis/)
 * [레디스를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
+* [**Redis를 활용한 다양한 시스템 설계**](https://devs0n.tistory.com/92) Redis로 구현 가능한 예제 간결하게 설명한 글, 토이 프로젝트에 참고하기 좋음
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
