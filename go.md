@@ -354,7 +354,6 @@ Go
 * [Introduction to Golang's pointers (Go programming language) - YouTube](https://www.youtube.com/watch?v=dRsL_4ghmfE)
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
 * [Golang: 같은 필드명을 가진 다른 구조체로 데이터를 옮기기](https://jusths.tistory.com/241) marshaling/unmarshaling
-* [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * [Recover function in Go (Golang)](https://gosamples.dev/recover/)
 * [src/runtime/HACKING.md - The Go Programming Language](https://golang.org/src/runtime/HACKING.md)
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
@@ -455,6 +454,9 @@ Go
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
+* panic
+  * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
+  * [Golang Panic을 Rocover 할 때 Error Stack Trace 함께 출력하기 | Popit](https://www.popit.kr/golang-panic%ec%9d%84-rocover-%ed%95%a0-%eb%95%8c-error-stack-trace-%ed%95%a8%ea%bb%98-%ec%b6%9c%eb%a0%a5%ed%95%98%ea%b8%b0/)
 * protobuf [A new Go API for Protocol Buffers - The Go Programming Language](https://go.dev/blog/protobuf-apiv2)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
