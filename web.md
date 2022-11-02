@@ -1009,6 +1009,8 @@ Web
 * [Webserver - Apache & Nginx - YouTube](https://www.youtube.com/playlist?list=PL0xeHY_ImQVUvHIXno_CKyupaEZBcwZvC)
 * [The Future of NGINX: Getting Back to Our Open Source Roots - NGINX](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/)
 * [Nginx 기반의 API Gateway 구현(with Python) :: GS Retail Engineering](https://gsretail.tistory.com/21)
+* [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
+  * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
