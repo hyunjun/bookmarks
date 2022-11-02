@@ -1695,6 +1695,7 @@ Business
 * [디지털 프로덕트를 만들며 깨달은 11가지 사실](https://brunch.co.kr/@cliche-cliche/164)
 * [마켓관찰 레거시는 왜 쇠퇴하는가](https://v.daum.net/v/20220903000606836)
 * [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
+* [사용자 습관 형성을 위한 6가지 방법 - DIGITAL iNSIGHT 디지털 인사이트](https://ditoday.com/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-6%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
