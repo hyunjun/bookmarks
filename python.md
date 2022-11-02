@@ -3528,6 +3528,7 @@ Python
   * [Python behind the scenes #10: how Python dictionaries work](https://tenthousandmeters.com/blog/python-behind-the-scenes-10-how-python-dictionaries-work/)
   * [Python behind the scenes #11: how the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
   * [Learn CPython by Breaking It - YouTube](https://www.youtube.com/watch?v=CRuXP2jvJ8U)
+  * [Python 내부의 C 코드 들여다보기 | tempkdw blog](https://tempkdw.github.io/posts/cpython-debug/)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
