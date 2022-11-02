@@ -418,6 +418,7 @@ App
   * [티스토리 개인도메인 사이트 기존 URL 유지하면서 이전하기 - tebica story](https://earlybird.kr/2655)
   * [tistory: 티스토리 블로그 오픈 API 파이썬 라이브러리](https://github.com/WooilJeong/tistory)
     * [Python tistory 패키지로 블로그 자동화하기 - 정우일 블로그](https://wooiljeong.github.io/python/tistory/)
+  * [파이썬으로 티스토리 백업 유틸리티 만들기 | Popit](https://www.popit.kr/%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9c%bc%eb%a1%9c-%ed%8b%b0%ec%8a%a4%ed%86%a0%eb%a6%ac-%eb%b0%b1%ec%97%85-%ec%9c%a0%ed%8b%b8%eb%a6%ac%ed%8b%b0-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
 * [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [widdler: A WebDAV server for TiddlyWikis](https://github.com/qbit/widdler)
