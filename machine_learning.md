@@ -1471,6 +1471,7 @@ Machine Learning
   * [잭스로 구현하는 딥러닝 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTAtneTLH23tvEAIZlE7E-g8)
   * [코파일럿과 함께 구현하는 딥러닝. 깃허브가 제공하는 코파일럿을 사용하면 편리하게 코드를 구현할 수 있다… | by Sungjin (James) Kim, Ph.D. | Jul, 2022 | Medium](https://medium.com/@jskDr/%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%EA%B3%BC-%ED%95%A8%EA%BB%98-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EB%89%B4%EB%9F%B4%EB%84%B7-b1d6ccaefdfb)
   * ["가속기를 단 넘파이" 구글 JAX 시작하기 - ITWorld Korea](https://www.itworld.co.kr/news/245590)
+  * [Unfolding the paper windmills - presented by Mai Giménez - YouTube](https://www.youtube.com/watch?v=_Lhix9keTss)
   * [haiku-baseline](https://github.com/TinkTheBoush/haiku-baseline)
 * [mango: Parallel Hyperparameter Tuning in Python](https://github.com/ARM-software/mango)
   * [Mango: A new way to do Bayesian optimization in Python | by Carmen Adriana Martinez Barbosa | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/mango-a-new-way-to-make-bayesian-optimisation-in-python-a1a09989c6d8)
