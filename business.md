@@ -2101,6 +2101,10 @@ Business
 * [화이트 넛지가 새로운 UX 트렌드가 될 수 있을까?](https://brunch.co.kr/@cliche-cliche/162)
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
 * ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)
+* [Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+  * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
+* [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
+* [어느 날, 버튼이 나에게 말을 걸었다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1774/)
 * [프로덕트 디자인 in 스타트업](https://sonujung.com/product-design-in-startup)
   * 프로덕트 디자이너 설명, 어떤 일을 하냐 보다는 기업이 어떻게 일하기를 원하는지에 초점을 맞추어야 이해하기 좋다는 부분을 강조
   * 프로덕트 디자이너는 기능 중심 조직과 제품 중심 조직이 일하는 방식의 차이 때문에 발생, 두 조직에서 일하는 방식의 다른 점을 비교 설명
@@ -2117,7 +2121,6 @@ Business
 * [Pretendard 커스텀 폰트 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/01/pretendard-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%8f%b0%ed%8a%b8-%eb%8f%84%ec%9e%85%ea%b8%b0/)
 * [스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사](https://brunch.co.kr/@fbrudtjr1/41)
 * [쿠팡이츠는 어떻게 팔리는 경험을 만들어냈을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coupangeats20220118)
-* [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
 * [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
 * [고령층 친화 디지털 접근성 표준(키오스크 적용가이드)](https://sdf.seoul.kr/research-report/1663)
 * [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
@@ -2140,8 +2143,6 @@ Business
 * [The History of User Interfaces](https://history.user-interface.io/)
 * [키오스크는 편리한가?. 프로그래머는 문제를 확인하고 가설을 세운뒤 제품에 적용해 사용자 반응을… | by 송요창 | Aug, 2022 | Medium](https://medium.com/@totuworld/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%8A%94-%ED%8E%B8%EB%A6%AC%ED%95%9C%EA%B0%80-93dd31d1f91d)
 * [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
-* [Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
-  * [자동차에선 터치스크린보다 물리적 버튼이 훨씬 조작이 빠름 | GeekNews](https://news.hada.io/topic?id=7201)
 * [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process/)
