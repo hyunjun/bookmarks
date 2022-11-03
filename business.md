@@ -1925,6 +1925,8 @@ Business
 * [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
+* [스타트업의 해외진출과 플립 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243263)
+* [한국에서 싱가포르로 ‘플립’하기 < 기고 < 오피니언 < 기사본문 - K글로벌타임스](https://www.kglobaltimes.com/news/articleView.html?idxno=11854)
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
   * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
