@@ -462,6 +462,7 @@ Python
 * [Advanced Python: Metaprogramming. Explaining what, why and how… | by Farhad Malik | FinTechExplained | Medium](https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d)
 * [7 Best Hosting Platforms for Python Application](https://geekflare.com/python-hosting-platform/)
 * [I created my own YouTube algorithm (to stop me wasting time) | by Chris Lovejoy | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a)
+* [Lessons learnt from building my own library - presented by Stephanos - YouTube](https://www.youtube.com/watch?v=EikDuE7Uwp8)
 * [Start Python #3 Backend Program 만들기 - Class - Kowana's coding](https://www.kowanas.com/coding/2020/12/20/class/)
 * [Common anti-patterns in Python - DeepSource](https://deepsource.io/blog/8-new-python-antipatterns/)
 * [**Building a full-text search engine in 150 lines of Python code · Bart de Goede**](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
@@ -4247,7 +4248,8 @@ Python
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 
 ## Library Lint
-['오류 줄이고 보기도 좋은' 파이썬 코드 정리 툴 5가지 - ITWorld Korea](http://www.itworld.co.kr/news/162580) pycodestyle, autopep8, flake8, pylint, black
+* ['오류 줄이고 보기도 좋은' 파이썬 코드 정리 툴 5가지 - ITWorld Korea](http://www.itworld.co.kr/news/162580) pycodestyle, autopep8, flake8, pylint, black
+* [Lint All the Things! - presented by Luke Lee - YouTube](https://www.youtube.com/watch?v=9psDYv4kVvE)
 * [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
   * [Flake8: Your Tool For Style Guide Enforcement — flake8 5.0.4 documentation](https://flake8.pycqa.org/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
@@ -4496,6 +4498,8 @@ Python
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [rapidfuzz - Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance](https://github.com/rhasspy/rapidfuzz)
+  * [RapidFuzz 2.13.1 documentation](https://maxbachmann.github.io/RapidFuzz/)
+  * [Correlating messy data with "correlate" - presented by Larry Hastings - YouTube](https://www.youtube.com/watch?v=htgy5g-0x1U)
 * [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
 
 ## Library syntax highlighter
