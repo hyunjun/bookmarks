@@ -1623,6 +1623,7 @@ AWS
 * [최상의 정렬 키 선택 - Amazon Redshift](https://docs.aws.amazon.com/ko_kr/redshift/latest/dg/c_best-practices-sort-key.html)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 * [Amazon Redshift는 가격 대비 성능 우위를 지속합니다 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-continues-its-price-and-performance/)
+* [Amazon Redshift 스트리밍 수집을 이용한 실시간 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/real-time-analytics-with-amazon-redshift-streaming-ingestion/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
