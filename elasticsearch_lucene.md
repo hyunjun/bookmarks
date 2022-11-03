@@ -312,6 +312,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치에 대한 단상 - 오픈소스 검색엔진으로서의 특징 및 고려사항 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=28766210&memberNo=36733075&navigationType=push)
 * [엘라스틱서치의 멀티테넌트 환경 적용하기 - 케이스로 살펴보는 테넌트 적용 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30127970&memberNo=36733075&navigationType=push)
 * [엘라스틱서치(Elasticsearch)에서 관계형 데이터 모델링하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31824430&memberNo=36733075&navigationType=push)
+* [엘라스틱서치[Elasticsearch]에서 관계형 데이터 모델링하기](https://www.samsungsds.com/kr/insights/elastic_data_modeling.html)
 * [10분 이내에 페타바이트 규모의 클라우드 저장 공간 쿼리 작업 | Elastic Blog](https://www.elastic.co/kr/blog/querying-a-petabyte-of-cloud-storage-in-10-minutes)
 * [Google Cloud Platform 마켓플레이스에서 Elastic Cloud 시작하기 - YouTube](https://www.youtube.com/watch?v=ntT_jqPpPRE)
 * [검색어 분석을 통한 상품 정렬 개선 | MUSINSA tech](https://medium.com/musinsa-tech/%EA%B2%80%EC%83%89%EC%96%B4-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%83%81%ED%92%88-%EC%A0%95%EB%A0%AC-%EA%B0%9C%EC%84%A0-b92ded2923c3)
