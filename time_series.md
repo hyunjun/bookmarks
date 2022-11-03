@@ -49,6 +49,10 @@ Time Series
 * [딥러닝 전에, 알아보자 시계열 분석! - (1) 시작하자 시계열! -](https://albertmade.tistory.com/3)
 * [시계열 분석 첫걸음 8강 - 이동평균 (MA) 모형에 대하여 - YouTube](https://www.youtube.com/watch?v=fPFo5U0Q4IE)
 * [Paper Review GNN for Time Series Anomaly detection - YouTube](https://www.youtube.com/watch?v=n-ZDl3d7vR4)
+* [업무 하면서 조사했던 시계열 관련 파이썬 라이브러리들](https://www.facebook.com/aldente0630/posts/pfbid0mVtx4vEhMfshRGZiGgNjidauK3zkxF1N4qvQc87nD2EnJi9kGVjg4A6E7Hssiz5Vl)
+  1. 현재 많이 쓰이는 딥러닝 기반 시계열 예측 라이브러리는 Darts, GluonTS, PyTorch Forecasting 정도? TensorFlow는 시계열 쪽은 별로 관심 없음
+  2. 재미있는 건 시계열 예측 오픈소스 개발에 상당히 많은 테크 기업이 관여하고 있다는 점, PyTorch Forecasting도 BCG 컨설턴트가 만든 것이고 tsfresh 또한 Blue Yonder라는 수요 예측 쪽에서 잔뼈가 굵은 컨설팅 업체에서 개발. 이 시장에 얼마나 ML 수요가 많은지 간접적으로나마 알 수 있음
+  3. 태뷸러 데이터셋은 사실 부스팅 3 대장이 천하통일을 했고 AutoML 적용이 쉽기 때문에 대학생 뉴비든, 수석 데이터 과학자든 모델링 성과에서 큰 차이를 보여주기 어려움. 그러니까 테크 스킬 분야가 평준화. 조금 더 다루기 어렵고 아직 파편화된 테크 스킬 분야(사람 손을 많이 탄다는 뜻)를 공략해보고 싶다면 시계열 모델링 쪽도 나쁘지 않아 보이나 Amazon Forecast 서비스가 있음
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
@@ -99,7 +103,8 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * [M3 - The fully open source metrics platform built on M3DB, a distributed timeseries database](https://www.m3db.io/)
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
-* [Merlion: Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/merlion)
+* [Merlion: Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/merlion) 시계열 예측, 이상치 탐지, Salesforce
+  * [Welcome to Merlion’s documentation! — Merlion 1.3.1 documentation](https://opensource.salesforce.com/Merlion/)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
@@ -107,7 +112,8 @@ Time Series
 * [PipelineDB](http://www.pipelinedb.com/)
   * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
   * [High-Performance Time-Series Aggregation for PostgreSQL 11](https://www.pipelinedb.com/blog/high-performance-time-series-aggregation-for-postgresql-11)
-* [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
+* [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)
+  * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
   * “일반인”들도 시계열 예측을 쉽게 할 수 있는 패키지를 오픈소스로 릴리즈(Python, R 지원)
   * 내부적인 동작은 대표적인 시계열 예측 방식인 ARIMA 계열이 아니라 Bayesian 방식의 Generalized Additive Model로 동작
   * 구간별로 나눠서 트렌드를 보기 때문에 추세의 변화를 자동으로 감지
@@ -183,10 +189,20 @@ Time Series
 * [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Basic Time Series Manipulation with Pandas](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea)
 * [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
-* [darts: A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
+* [darts: A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts) 시계열 예측, PyTorch
+  * [Time Series Made Easy in Python — darts documentation](https://unit8co.github.io/darts/)
   * [Darts For Time Series Forecasting (Python Library for Forecasting) - YouTube](https://www.youtube.com/watch?v=mWZfHxQLp_4)
   * [Darts for Time Series Forecasting - Julien Herzen, Francesco Lässig | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Kf6b5falv0M)
-* [Kats: Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.](https://github.com/facebookresearch/Kats)
-* [sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+* [GluonTS documentation](https://ts.gluon.ai/) 시계열 예측, MXNet, PyTorch
+* [Kats](https://facebookresearch.github.io/Kats/) 시계열 예측, 이상치 탐지, 시계열 피쳐 추출, PyTorch
+  * [Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends](https://github.com/facebookresearch/Kats)
+* [orbit: A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood](https://github.com/uber/orbit) 베이즈 시계열 예측, uber
+  * [Welcome to Orbit’s Documentation! — orbit 1.1.3dev documentation](https://orbit-ml.readthedocs.io/en/latest/)
+* [PyTorch Forecasting Documentation — pytorch-forecasting documentation](https://pytorch-forecasting.readthedocs.io/en/stable/) 시계열 예측, PyTorch
+* [sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime) 시계열 분석
+  * [Welcome to sktime — sktime documentation](https://www.sktime.org/en/stable/)
   * [sktime - A Unified Toolbox for ML with Time Series - Markus Löning | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ODspi8-uWgo)
   * [sktime - A Unified Toolbox for ML with Time Series - YouTube](https://www.youtube.com/watch?v=GbRfbXHXUKM)
+* [statsmodels](https://www.statsmodels.org/stable/index.html) 통계 모델
+* [tsfresh — tsfresh 0.18.1.dev39+g611e04f documentation](https://tsfresh.readthedocs.io/) 시계열 피쳐 추출, Dask, Spark
+* [tslearn’s documentation — tslearn 0.5.2 documentation](https://tslearn.readthedocs.io/) 시계열 분석
