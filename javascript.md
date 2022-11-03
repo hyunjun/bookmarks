@@ -4831,6 +4831,7 @@ Javascript
 * [4. 테스트하기 좋은 코드 - 검증이 필요한 비공개 함수](https://jojoldu.tistory.com/681)
 * [5. 테스트하기 좋은 코드 - SQL](https://jojoldu.tistory.com/683)
 * [프론트엔드 테스트 해야할까? - (1)](https://velog.io/@couchcoding/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8Cwith-react-testing-library)
+* [프론트엔드 테스트 해야할까? - (2) React-Testing-Library 사용해보기](https://velog.io/@couchcoding/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-2-React-Testing-Library-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
   * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
