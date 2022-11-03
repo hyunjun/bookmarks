@@ -3167,6 +3167,7 @@ Programming Books
   * [구글 엔지니어는 이렇게 일한다 - 구글러가 전하는 문화, 프로세스, 도구의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1618)
   * [SE@Google - Google Slides](https://docs.google.com/presentation/d/1xEPcs1-q10QMy8WbBpzS-kdBCGH6d3RooKvHouCX7sE/edit)
   * [Software Engineering at Google 구글 엔지니어는 이렇게 일한다 - Google Slides](https://docs.google.com/presentation/d/1HFdS9PJW6427ziXvMTZwU3NUyyaoxrVas0xpjebhAIQ/edit)
+  * [Software Engineering at Google • Titus Winters & Matt Kulukundis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NNMnbBf0Itw)
 * [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
   * 탐라 문005.12-카213ㅅ
   * ★★★☆☆ 2022.07.30
