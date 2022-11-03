@@ -81,6 +81,8 @@ Python
     * [talks/subinterpreters.pdf at main · vstinner/talks](https://github.com/vstinner/talks/blob/main/2021-PyconUS/subinterpreters.pdf)
   * [Python Software Foundation News: The 2022 Python Language Summit: Python without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
     * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
+  * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
+    * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
@@ -1167,7 +1169,6 @@ Python
     * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
     * [Threads in Python: Speed Up Python With Concurrency - YouTube](https://www.youtube.com/watch?v=OtdL6jeyEE4)
     * [Python threads synchronization: Locks, RLocks, Semaphores, Conditions and Queues – Laurent Luce's Blog](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
-    * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
