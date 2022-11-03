@@ -2429,6 +2429,9 @@ Programming Books
   * 한라 325.24-렌58ㅊ
 * (NOT YET) [탁월한 리더는 피드백이 다르다](https://m.post.naver.com/viewer/postView.naver?volumeNo=19305483&memberNo=29566044)
   * 중앙 BO325.24-김51ㅌ
+* (NOT YET) [인간 본성 불패의 법칙](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
+* (NOT YET) [잘나가는 조직은 무엇이 다를까](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
+  * 우당 문325.23-모58ㅈ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
