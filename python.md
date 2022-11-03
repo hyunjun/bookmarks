@@ -83,6 +83,7 @@ Python
     * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
+    * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
