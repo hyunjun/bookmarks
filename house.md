@@ -129,6 +129,8 @@ House
 * [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
 * [기사 - 총력 분석 굥교로운 집값 하락의 비밀: 부동산은 무얼 먹고 자라는가](https://www.ddanzi.com/ddanziNews/747153446)
 * [여러분 GTX 큰 문제가 생겼습니다ㅠㅠ (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=Hygle79f2Pg) 구분지상권
+* [권원보험 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EA%B6%8C%EC%9B%90%EB%B3%B4%ED%97%98)
+  * [Pgr21 - 등기부 등본상 깨끗한 집을 사고 전재산를 날린 사례](https://pgr21.com/freedom/97067)
 
 # Library
 * [데이터노우즈](https://www.dataknows.ai/)
