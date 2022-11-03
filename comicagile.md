@@ -2,6 +2,16 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [The ‘Why’ of going agile – Comic Agilé](https://www.comicagile.net/comic/the-why-of-going-agile/)
+  * 좋은 소식을 가져왔습니다. 이제 우리가 agile해질 시간입니다, 우리의 agile 여정을 시작합니다.
+  * 몇 년째 이야기하던 거잖아요. 뭐가 달라지나요?
+  * 어떻게 해서든 경영진을 설득해서, 우리가 agile해지면, 마침내 우리가 처음에 합의한 예산과 일정과 범위 안에서 프로젝트를 전달할 수 있게 됩니다!
+  * ‘Going agile’ will most likely increase the value-add of your organization, happiness of employees and engagement of customers, but it will not make you better at meeting the Iron Triangle. Therefore, if your company is adopting agility for improving your current waterfall approaches, educate your leaders on what agile really means, exactly what it will improve and what it will definitely not improve. Do it before AgileBS Consulting arrives because then, it’s too late…
+  * '애자일해지기'는 대개 당신의 조직에 더하는 가치, 고객 참여와 일하는 사람들의 행복을 증대시키지만 철의 삼각형을 충족하는데 더 낫게하지는 못합니다. 그러므로, 당신의 회사가 현재의 워터폴 접근방식을 개선하기 위해 agility를 채택한다면, 당신의 리더에게 애자일이 정말로 뭘 뜻하는지, 정확하게 어떤 점을 개선하게 되고, 명확하게 개선하지 못하는 걸 알려줘야 합니다. AgileBS 컨설팅이 도착하기 전에 하세요. 그렇지 못하면 너무 늦습니다.
+  * [What is the Iron Triangle of Project Management?](https://www.villanovau.com/resources/project-management/iron-triangle-project-management/)
+  * AgileBS는 뭔지 잘 모르겠음
+  * [#5 — The ‘Why’ of Going Agile - Jun - Medium](https://nymets.medium.com/5-the-why-of-going-agile-8ba509011dd4)
+  * [#5 – The ‘Why’ of Going Agile -](https://jh4hj.tistory.com/entry/5-%E2%80%93-The-%E2%80%98Why%E2%80%99-of-Going-Agile)
 * [Burning Down – Comic Agilé](https://www.comicagile.net/comic/burned-down/)
   * 와우, 이렇게 멋진 번다운 차트를 가진 팀은 본 적이 없어요. 여러분들 정말 팀을 일관성 있게 운영했군요.
   * 저건 번다운이 아니에요. 코로나 사태로 인한 우리 회사 주식 가치예요.
