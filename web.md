@@ -1285,9 +1285,9 @@ Web
   * [1부, 연동의 역사](http://annehouse.tistory.com/466)
   * [2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/467)
 * REST API의 이해와 설계
-  * [#1 개념 소개](http://bcho.tistory.com/m/post/953)
-  * [#2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
-  * [#3 API 보안](http://bcho.tistory.com/m/post/955)
+  * [#1 개념 소개](http://bcho.tistory.com/953)
+  * [#2 API 설계 가이드](http://bcho.tistory.com/954)
+  * [#3 API 보안](http://bcho.tistory.com/955)
 * [가볍게 시작하는 REST API 개념잡기 - YouTube](https://www.youtube.com/watch?v=Q2vRv98EQ7c)
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 * [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
