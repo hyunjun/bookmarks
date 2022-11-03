@@ -364,6 +364,8 @@ Book
   * 우당
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
   * 우당
+* (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
+  * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
