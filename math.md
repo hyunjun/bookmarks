@@ -116,6 +116,7 @@ Math
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
 * [Warping Text to a Bézier curves](http://www.planetclegg.com/projects/WarpingTextToSplines.html)
+* [JavaScript: Bezier Curve를 Polyline으로 변환하기(Curve Flattening) | by Heechan | HcleeDev | Nov, 2022 | Medium](https://medium.com/hcleedev/javascript-bezier-curve%EB%A5%BC-polyline%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0-curve-flattening-7f90708d40a8)
 
 # Book
 * [공돌이의 수학정리노트](https://wikidocs.net/book/563)
