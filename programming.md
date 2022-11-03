@@ -4609,6 +4609,8 @@ Programming
 * [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
 * [What is Refactoring? - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/what-is-refactoring)
 * [새로운 컬리몰 NX를 소개합니다. - 컬리 기술 블로그](https://helloworld.kurly.com/blog/introduction_new_kurlymall_web/)
+* [Refactoring and Design Patterns](https://refactoring.guru/)
+  * [리팩터링과 디자인 패턴](https://refactoring.guru/ko)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
