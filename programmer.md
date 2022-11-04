@@ -182,6 +182,7 @@ Programmer
   * [신수정의 통찰을 위한 폴더블폰 활용법 - YouTube](https://www.youtube.com/watch?v=7kemotC762M)
   * [“80점 이상짜리 재능 3개를 만들어보라” - YouTube](https://www.youtube.com/watch?v=aqhGohmjNGY)
 * [고급 프로그래머들은 인성 문제있어?](https://sunyzero.tistory.com/281)
+* [공학과 SW 개발의 정의](https://brunch.co.kr/@cleancode/50)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
