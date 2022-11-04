@@ -243,6 +243,7 @@ Artificial Intelligence
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
 * [nebullvm: Easy-to-use library to boost AI inference leveraging multiple DL compilers](https://github.com/nebuly-ai/nebullvm)
   * [Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=6225)
+* [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
