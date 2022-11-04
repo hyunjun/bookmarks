@@ -1507,6 +1507,7 @@ Programming Books
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
   * 우당
+* (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
