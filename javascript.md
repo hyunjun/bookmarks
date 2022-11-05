@@ -4466,6 +4466,7 @@ Javascript
   * [Nextjs의 hydration이란? | Univdev](https://www.univdev.page/posts/nextjs-hydration/)
   * [Nextjs에서 React Portal 사용해보기 | Univdev](https://www.univdev.page/posts/nextjs-portal/)
   * [Next.js 13 introduces layouts, React Server Components, and streaming in the app directory, as well as Turbopack - YouTube](https://www.youtube.com/playlist?list=PLCag8k3PYB40N97s5DWMecnfyCs02b0MS)
+  * [Next.js 13 HMR Is 700 Times Faster | by Tom Smykowski | Nov, 2022 | Medium](https://tomaszs2.medium.com/next-js-13-hmr-is-700-times-faster-81f7249b68a7)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
