@@ -4648,6 +4648,7 @@ Programming
 * [어떤 노코드 툴을 써야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1291/)
 * [예전에 해봤던 노코드 MVP 테스트들 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/1933)
 * [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
+* [노코드: 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴 | 10x Lessons](https://tkim.co/2020/04/19/no-code/)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
