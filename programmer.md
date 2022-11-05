@@ -135,6 +135,7 @@ Programmer
 * [지금 연봉 10배가 오릅니다 : '네트워킹 드리븐'으로 일하기](https://eopla.net/magazines/205) 일종의 인맥 이야기
 * [How to Be a 10x Software Engineer | by Michael Lin | Feb, 2022 | Medium](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
 * [10배 이상 뛰어난 개발자가 되는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1373/)
+* [영리한 개발자와 현명한 개발자의 차이점 | 요즘IT](https://yozm.wishket.com/magazine/detail/1769/)
 * [The Platform Engineer | By Varun Achar | Razorpay Engineering](https://engineering.razorpay.com/the-platform-engineer-db2b21434911)
 * [ㅈ형 인재가 되어라 - Prologue 모든 사람이 T자형 인재가 될 수는 없다](https://community.rememberapp.co.kr/post/76780)
 * [ㅈ형 인재가 되어라 - 1편 대체 ㅈ형 인재란 무엇인가?](https://community.rememberapp.co.kr/post/77022)
