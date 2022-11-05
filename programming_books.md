@@ -2749,12 +2749,13 @@ Programming Books
   * 탐라 문004-이14ㅇ
   * ★★★☆☆ 2022.05.29
   * [어떤 개발자가 살아남는가](https://brunch.co.kr/@lkj28/208)
+* [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
+  * ★★★☆☆ 2022.11.05 '죽을 때까지 코딩하며 사는 법'을 쓴 분의 새 책. '독서와 글쓰기를 훈련해 자신만의 컨텐츠를 만들라'로 정리할 수 있다
+  * 우당 문005.13-홍73ㅋ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
-* (NOT YET) [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
-  * 우당
 * (NOT YET) [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
-  * 우당
+  * 우당 문005.104-라58ㅅ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
@@ -2986,7 +2987,7 @@ Programming Books
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
 * (NOT YET) [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
-  * 우당
+  * 우당 문005.133-쇼62ㅆ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
