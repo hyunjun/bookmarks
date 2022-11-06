@@ -102,6 +102,7 @@ Writing
 * [김훈의 글쓰기에서 배우는 보고서 작성법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/harbin20220831)
 * [Don’t think to write, write to think - Herbert Lui](https://herbertlui.net/dont-think-to-write-write-to-think/)
 * [<책 나왔니?> 개앞맵시와 신백균의 첫 책으로 가는 길](https://brunch.co.kr/@wegra/3) 글쓰기에 대한 직접적인 이야기는 아니고 책 발간에 대한 이야기
+* [해결 지향의 접근, '야마'를 버리고 복잡한 내러티브를 끌어내라](https://v.daum.net/v/20221105080504245)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
