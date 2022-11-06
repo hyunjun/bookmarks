@@ -261,9 +261,10 @@ Book
 * [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
   * ★★★☆☆ 2022.10.20
   * 탐라 문598.55-이53ㅇ
-* [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111&sid1=al)
+* [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
   * ★★★☆☆ 2022.11.06
   * 탐라 문573.2-정17ㄴ
+  * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
