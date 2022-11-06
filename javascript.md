@@ -1192,6 +1192,7 @@ Javascript
   * [Learning Javascript Promise Patterns - DEV Community](https://dev.to/altamashali/learning-javascript-promise-patterns-11ao)
   * [IMQA 세미나 곽윤설 · Present](https://present.do/documents/62b297e6e214362cce85ad1a)
   * [자바스크립트는 어떻게 약속을 지킬까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220725)
+  * [프라미스 깊게 이해하기](https://brunch.co.kr/@skykamja24/670)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
