@@ -1554,6 +1554,7 @@ Docker
   * 개발 그룹의 A 사람이 쿠버네티스 클러스터 접근 시 ID/PW를 입력해야 해당 클러스터에 접근할 수 있도록 해주는 기능이 있는지는 모름
     * 즉, 개발 그룹의 A 사람이 "kubectl config use-context" 명령어를 입력한 뒤 바로 자원 조회를 하는 것이 아니라
     * 로그인을 통해 해당 컨텍스트로 스위치하는 기능이 있는지
+* [Avoid Kubernetes IF... - YouTube](https://www.youtube.com/watch?v=NpYUYjQd8fI)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
