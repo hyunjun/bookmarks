@@ -2,6 +2,13 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Let’s call it – Comic Agilé](https://www.comicagile.net/comic/lets-call-it-kanban/)
+  * 새 스크럼 마스터 자격증 축하해요. 팀은 어떻게 되어가고 있나요?
+  * 사실 매우 좋아요. 다만 대개 스프린트 중간에 백로그를 변경하거나, 스프린트 목표가 없고, PO가 리뷰를 원하지 않고 개발자들이 회고를 싫어한다는 점이 있긴 하지만요
+…정말로 우리가 애자일 스프린트에 다가가고 있다고 느껴요!
+  * 그래서… 당신은 뭘 하고 있는 거죠? 우리는 그걸 칸반이라고 부르기로 했어요.
+  * [#6 — Let’s call it… - Jun - Medium](https://nymets.medium.com/6-lets-call-it-c8b18b755049)
+  * [#6 – Let’s call it… -](https://jh4hj.tistory.com/entry/6-%E2%80%93-Let%E2%80%99s-call-it%E2%80%A6)
 * [The ‘Why’ of going agile – Comic Agilé](https://www.comicagile.net/comic/the-why-of-going-agile/)
   * 좋은 소식을 가져왔습니다. 이제 우리가 agile해질 시간입니다, 우리의 agile 여정을 시작합니다.
   * 몇 년째 이야기하던 거잖아요. 뭐가 달라지나요?
