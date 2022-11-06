@@ -514,9 +514,9 @@ Programming Books
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
   * 한라 005.1-레48ㅇ
 * (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
-  * 한라
+  * 한라 005.133-권16ㅋ
 * (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
-  * 한라
+  * 한라 005.1-마57ㄱ
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
   * 한라 005.1-아32ㅍ
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
@@ -2426,7 +2426,7 @@ Programming Books
 * (NOT YET) [생산성 (Productivity) 기업 제1의 존재 이유](https://blog.naver.com/airline36/221155971407)
   * 서부 DO325.41-이11ㅅ 한경 325.41-이11ㅅ
 * (NOT YET) [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
-  * 한라
+  * 한라 325.1-델32ㅍ
 * (NOT YET) [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
   * 한라 325.24-렌58ㅊ
 * (NOT YET) [탁월한 리더는 피드백이 다르다](https://m.post.naver.com/viewer/postView.naver?volumeNo=19305483&memberNo=29566044)
@@ -2539,6 +2539,8 @@ Programming Books
 * (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
   * 탐라
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
+* (NOT YET) [서번트 리더의 품격(세상이 필요로 하는 것을 하라!) - YouTube](https://www.youtube.com/watch?v=Qfep6N98aZ0)
+  * 한라 325.24-버292ㅅ 탐라 문325.24-버231ㅅ
 
 # Math
 
@@ -2650,7 +2652,7 @@ Programming Books
   * 스톰 프로젝트 창시자의 저서
   * 람다 아키텍처, thrift 스리프트, 하둡, 맵리듀스, J캐스캘로그, 엘리펀트DB, 카산드라, 스톰
 * (NOT YET) [그래프 알고리즘 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-algorithms)
-  * 한라
+  * 한라 005.1-니24ㄱ
 
 ## Casandra
 
