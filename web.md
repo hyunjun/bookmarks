@@ -1388,6 +1388,7 @@ Web
 * [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [REST API & RESTful Web Services Explained | Web Services Tutorial](https://morioh.com/p/dcfcf57aeb0d)
 * [How to Test a REST API with .NET and xUnit - Code Maze](https://code-maze.com/dotnet-test-rest-api-xunit/)
+* [Etag를 이용하여 더 나은 Restful API 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1772/)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
