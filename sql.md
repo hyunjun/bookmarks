@@ -760,6 +760,8 @@ SQL
 * [MySQL table lock / table mutex / 송장번호 가상계번호 발급 / 번호 중복 발급 방지 방법](https://blog.naver.com/oralol/222836743527)
 * [How to Make a Simple CRUD Application using ReactJS, NodeJS and MySQL](https://morioh.com/p/0ecf22d4888d)
 * [MySQL Infusion UDF | A MySQL functionality enhancement UDF](https://morioh.com/p/2232cef40044)
+* [MySQL Batch Update 성능 측정 및 분석 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mysql-batch-update/)
+* [MySQL CATS (Contention-Aware Transaction Scheduling) | by Sunguck Lee | 당근마켓 팀블로그 | Nov, 2022 | Medium](https://medium.com/daangn/mysql-cats-contention-aware-transaction-scheduling-71fe6956e87e)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
