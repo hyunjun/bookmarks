@@ -577,6 +577,7 @@ Algorithm
 * [재해싱 (rehashing) : 시간 복잡도를 분석해 보면서 왜 필요한지 알아봅시다](https://codingdog.tistory.com/entry/%EC%9E%AC%ED%95%B4%EC%8B%B1-rehashing-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
+* [해시 - YouTube](https://www.youtube.com/watch?v=O8NG9FLe5X4)
 * [MinHash란? - 완두블로그](https://wani.kr/posts/2016/11/24/minhash/)
 * [MurmurHash - Wikipedia](https://en.wikipedia.org/wiki/MurmurHash)
 * [neuralhash-collisions: A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
