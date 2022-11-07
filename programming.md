@@ -1768,6 +1768,12 @@ Programming
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 * [API Gateway Throttling 구현 | Doublem.org](https://doublem.org/api-gateway-basic/)
 * [How Do I Choose? API Gateway vs. Ingress Controller vs. Service Mesh - NGINX](https://www.nginx.com/blog/how-do-i-choose-api-gateway-vs-ingress-controller-vs-service-mesh/)
+* [What is API Gateway? - YouTube](https://www.youtube.com/watch?v=6ULyxuHKxg8)
+  * authentication and security policy enforcements
+  * load balancing and circuit breaking
+  * protocol translation and service discovery
+  * monitoring, logging, analytics and billing
+  * caching
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
@@ -3076,6 +3082,8 @@ Programming
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
   * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
+  * [Video Lectures | Introduction to Computer Science and Programming | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
+  * [Mathematics for Computer Science | MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 * [nand2tetris](https://www.nand2tetris.org/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [Online-Computer-Science-Degree: Open-Source Computer Science Degree](https://github.com/eeeear/Online-Computer-Science-Degree)
@@ -3093,6 +3101,7 @@ Programming
 * [Slip](https://www.slip.so/)
   * [Slip - 프로그래밍 강의를 만들어서 판매하기 | GeekNews](https://news.hada.io/topic?id=4804)
 * [sololearn.com](https://www.sololearn.com/)
+* [Stanford Engineering Everywhere | CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 * [Stepik](https://stepik.org)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
   * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
