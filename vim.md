@@ -231,7 +231,6 @@ Vim
 * [Vim Awesome](https://vimawesome.com/)
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
 * [레거시 코드를 파괴하는 Vim 벽돌 깨기](http://woowabros.github.io/tools/2017/07/06/vim-game-code-break.html)
-* [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 * [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
 * [How to Configure Vim like VSCode - YouTube](https://www.youtube.com/watch?v=gnupOrSEikQ)
 * [4 Vim Plugins to Boost Your Programming Efficiency | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/4-vim-plugins-to-boost-efficiency-6922add12e83)
@@ -244,6 +243,9 @@ Vim
 * [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [EditorConfig plugin for Vim http://editorconfig.org](https://github.com/editorconfig/editorconfig-vim)
   * [EditorConfig](http://editorconfig.org/) 서로 다른 IDE에서 코딩 스타일을 통일
+* IdeaVim
+  * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
+  * [WebStorm 및 기타 JetBrains IDE에서 Vim의 강력한 성능 이용하기 | The WebStorm Blog](https://blog.jetbrains.com/ko/webstorm/2022/11/ideavim-in-webstorm/)
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
