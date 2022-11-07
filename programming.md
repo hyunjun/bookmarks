@@ -63,6 +63,7 @@ Programming
 * [resources-for-beginner-devs: A collection of useful resources for beginner front end developers from study techniques, supplementary study materials, and more](https://github.com/vivian-mca/resources-for-beginner-devs)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
+* [developer-roadmap: 2020년 웹 개발자가 되기 위한 로드맵](https://github.com/pocojang/developer-roadmap)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
 * [A Complete Learning Path to Becoming a Backend Developer | Boot.dev](https://blog.boot.dev/backend/become-backend-developer/)
 * [66.(요약) 개발자 분류와 공부해야 하는 기술](https://brunch.co.kr/@topasvga/1382)
@@ -3344,6 +3345,12 @@ Programming
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
+* [DevOps-Roadmap: DevOps Roadmap for 2022. with learning resources](https://github.com/milanm/DevOps-Roadmap)
+  * [DevOps Roadmap 2022 | GeekNews](https://news.hada.io/topic?id=7747)
+* [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+* [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
+* [What do you do as a DevOps?](https://ilhicas.com/2019/08/11/What-you-as-a-Devops.html)
+  * [DevOps 는 어떤 일을 하나요? | GeekNews](https://news.hada.io/topic?id=432)
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
 * [What Is DevOps?](http://theagileadmin.com/what-is-devops/)
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
@@ -3371,7 +3378,6 @@ Programming
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
 * [Devops를 위한 인터뷰 문제](http://jhrogue.blogspot.com/2019/01/b-devop.html)
-* [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 * [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
 * [DevOps Reading List](http://uncontained.io/articles/devops-reading-list/)
 * [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html) Software disenchantment 번역글. 소프트웨어 산업 전반에 대한 비판
@@ -4608,6 +4614,7 @@ Programming
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
+* [Code Smells Series' Articles - DEV Community 👩💻👨💻](https://dev.to/mcsee/series/9470)
 * [리팩터링에 대한 단상](https://huns.me/posts/2020-05-06-36)
 * [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
