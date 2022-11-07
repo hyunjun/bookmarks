@@ -2545,6 +2545,8 @@ Programming Books
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
 * (NOT YET) [서번트 리더의 품격(세상이 필요로 하는 것을 하라!) - YouTube](https://www.youtube.com/watch?v=Qfep6N98aZ0)
   * 한라 325.24-버292ㅅ 탐라 문325.24-버231ㅅ
+* (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
+  * 우당 문325.3-버231ㅅ
 
 # Math
 
