@@ -268,6 +268,9 @@ Book
 * [픽사스토리텔링, 9가지 이야기 법칙](https://thankyoubk.com/entry/%ED%94%BD%EC%82%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-9%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%95%EC%B9%99)
   * ★★★☆☆ 2022.11.06
   * 한라 325.1-룬33ㅍ-2 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://github.com/hyunjun/bookmarks/blob/master/books/pixar_storytelling.md)
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙. 위대한 스토리는 위대한 소설이나 연극,영화, TV에만 필요한 것이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99-c50946f032a6)
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://jh4hj.tistory.com/entry/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
