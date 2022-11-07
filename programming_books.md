@@ -2391,6 +2391,7 @@ Programming Books
   * 한라 325.1-룬33ㅍ 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
 * (NOT YET) [무엇이 성과를 이끄는가: 세계 최고 기업에서 찾은 고성과의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255193)
   * 한라 325.345-도56ㅁ
+  * [무엇이 성과를 이끄는가?](https://brunch.co.kr/@azafa/418)
 * (NOT YET) [한계 없음](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300680034)
 * (NOT YET) [피터 드러커의 <경영과 세계 경제>를 읽고](https://brunch.co.kr/@graypool/597)
 * (NOT YET) [피터 드러커 자기경영노트](https://blog.naver.com/myway855/221791603776)
