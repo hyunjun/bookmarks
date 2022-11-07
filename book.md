@@ -373,6 +373,7 @@ Book
   * 우당
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
+* (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
