@@ -817,6 +817,7 @@ Business
 * [⛺️ 구성원의 이탈을 막는 '온보딩'](https://stibee.com/api/v1.0/emails/share/LN4NYBPcJDWCqfGj4oMQgWWPE9Ucwkk=)
 * [카카오 공채 입사 후 10개월 FE개발팀에서의 여정 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220915-10month-after-join-fe-team/)
 * [신입 백엔드 개발자의 우당탕탕 엔지니어링 온보딩팀 교육 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/10/17/onboarding-service-engineering.html)
+* [페이히어에서의 1년, 백엔드 엔지니어 세준님의 이야기](https://blog.payhere.in/people-221104/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1700,6 +1701,7 @@ Business
 * [마켓관찰 레거시는 왜 쇠퇴하는가](https://v.daum.net/v/20220903000606836)
 * [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
 * [사용자 습관 형성을 위한 6가지 방법 - DIGITAL iNSIGHT 디지털 인사이트](https://ditoday.com/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-6%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95/)
+* [고객의 행동에서 찾은 임팩트 기회. 안녕하세요. 29CM 모먼트 스쿼드 PO 한종완입니다. 29CM PO가… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/%EA%B3%A0%EA%B0%9D%EC%9D%98-%ED%96%89%EB%8F%99%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EA%B8%B0%ED%9A%8C-13c5509c8cb7)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2161,6 +2163,7 @@ Business
 * [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
 * [디자이너의, 디자이너에 의한, 디자이너를 위한 채용 설계하기](https://toss.tech/article/2022-product-designer-challenge)
 * [2초만에 불필요한 클릭 없애는 4가지 방법](https://toss.tech/article/4-ways-for-minimum-input)
+* [가이드라인을 시스템으로 만드는 법](https://toss.tech/article/introducing-toss-error-message-system)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
