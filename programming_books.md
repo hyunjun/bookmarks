@@ -2217,6 +2217,7 @@ Programming Books
   * CEO에 대한 책이라 나와는 약간 안 맞는 부분도 있지만 전반적으로 매우 맘에 듦
   * 본인의 경험(성공 + 실패)에서 오는 정말 솔직한 이야기가 인상깊었음
   * [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
+  * [a16z 벤 호로위츠, 하드씽 – 스타트업 CEO의 필독서 (and Hiphop ♪) – 박세희 Park Sehee](https://parksehee.blog/2022/11/06/hard-thing/)
 * [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
   * ★★★★☆ 2021.09.27
   * 아마존에 대해 알고 싶으면 정말 좋은 책. 확실히 여러 가지 다른 점들이 있고 적용해보고 싶은 것들이 있음
@@ -2513,6 +2514,7 @@ Programming Books
   * [인피니트 게임](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_infinite_game.md)
   * [인피니트 게임. ‘대의명분 Just Cause’ | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84-14177aaf05b2)
   * [인피니트 게임](https://jh4hj.tistory.com/entry/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84)
+  * [사이먼 시넥, 인피니트 게임: “오로지 돈만 버는 기업은 형편없는 기업이다” – 박세희 Park Sehee](https://parksehee.blog/2022/11/06/simon-sinek-the-infinite-game/)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
