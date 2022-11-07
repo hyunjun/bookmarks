@@ -2037,6 +2037,7 @@ App
 * ['필수를 넘어 고전이 된' 윈도우 PC 관리 소프트웨어 12종 - ITWorld Korea](https://www.itworld.co.kr/news/227494)
 * ["화면 캡처부터 주석까지 윈도우에서 쓰기 가장 좋은" MS 스토어 앱 어워드 수상작 - ITWorld Korea](https://www.itworld.co.kr/news/238509)
 * [컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트) | GeekNews](https://news.hada.io/topic?id=7214)
+* [윈도우 랜덤 배경 화면 이미지 파일 저장하기 : zelon's blog](https://blog.wimy.com/472/)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
