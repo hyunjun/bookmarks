@@ -735,6 +735,7 @@ Scala
   * [Linear Collections in Scala: Seq, List, Array, Vector, Set, Range - YouTube](https://www.youtube.com/watch?v=UvUkpduo6uE)
   * [List vs Vector in 2022](https://august.nagro.us/list-vs-vector.html)
   * [Ep 16: NonEmptyLists more or less - YouTube](https://www.youtube.com/watch?v=7A2xuRkCZBg)
+  * [Immutable Collections should be Your Default - Alexandru Nedelcu](https://alexn.org/blog/2022/10/27/immutable-collections-your-default/)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -1555,6 +1556,8 @@ Scala
   * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
   * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
   * [prox part 3 — effect abstraction and ZIO](https://engineering.prezi.com/prox-part-3-effect-abstraction-and-zio-2a2a12f8f9c8)
+* [Quine • a streaming graph • https://quine.io • Slack: https://that.re/quine-slack ](https://github.com/thatdot/quine)
+  * [Quine 1.4.0: Scale, Stability, Supernode Mitigation](https://www.thatdot.com/blog/quine-1-4-0-scale-stability-supernode-mitigation)
 * [ratelimiter4s - Rate limiter library designed for Scala](https://github.com/ayushworks/ratelimiter4s)
   * [Ratelimiter4s : A functional rate limiting library](https://medium.com/@ayushm4489/ratelimiter4s-a-functional-rate-limiting-library-639c04d247ee)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
