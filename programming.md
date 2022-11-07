@@ -817,6 +817,7 @@ Programming
 * [Agile organization · Present](https://present.do/documents/6330f6cfc7bd6826ee8ff992)
 * [Agile 애자일 문화와 마인드셋 · Present](https://present.do/documents/633c024b70efd011b8f6b87c)
 * [How Agile helps Developer Productivity - Discover Better Value Faster](https://www.cloudnowtech.com/blog/how-agile-helps-developer-productivity/)
+* [그 사람(들)은 믿는 것이 다를 뿐이다 | Popit](https://www.popit.kr/%ea%b7%b8-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%80-%eb%af%bf%eb%8a%94-%ea%b2%83%ec%9d%b4-%eb%8b%a4%eb%a5%bc-%eb%bf%90%ec%9d%b4%eb%8b%a4/)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
