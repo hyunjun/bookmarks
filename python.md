@@ -4928,6 +4928,8 @@ Python
 * [Python 3.11 Is Indeed Faster Than 3.10 | by Thuwarakesh Murallie | May, 2022 | Towards Data Science](https://towardsdatascience.com/python-3-11-is-indeed-faster-than-3-10-1247531e771b)
 * [Some New Features in Python 3.11 - YouTube](https://www.youtube.com/watch?v=tEh3oJcE0do)
 * [How we are making Python 3.11 faster - presented by Mark Shannon - YouTube](https://www.youtube.com/watch?v=xKk7IXm0XO0)
+* [Python 3.11: Cool New Features for You to Try – Real Python](https://realpython.com/python311-new-features/)
+  * [번역글 파이썬 3.11에서의 새로운 기능들](https://heumsi.github.io/blog/posts/python311-new-features/)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * 2to3
