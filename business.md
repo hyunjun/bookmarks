@@ -772,6 +772,7 @@ Business
 * [압도적인 '데이터 과학자'가 필요하다··· 전문가들이 전하는 ‘채용·유지’ 전략 - CIO Korea](https://www.ciokorea.com/news/253480)
 * [매경경영지원본부 칼럼 최근 채용을 잘하는 회사의 5가지 특징](https://v.daum.net/v/20221024085100367)
 * [Startup Engineering Hiring Anti-Patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
+* [인재의 유치(Acquisition)보다 중요한 유지(Retention)](https://www.linkedin.com/posts/heejung-cho-97378130_smpsqtswhqzcslh-talentrxgqystmiqzcuqmrditrztymukqqviuqmsmc-activity-6995025203235864576-9P2d/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -874,6 +875,7 @@ Business
     * 모든 성과는 측정 가능해야
     * 평가는 매년, 연봉협상 필요할 때
     * 평가는 대상자가 제출하는 성과 보고서를 기준으로 진행
+* [우리는 성과를 잘못 알고 있다 < 김영학의 직장에서 살아남기 < 전문가칼럼 < 오피니언 < 기사본문 - 이코노믹리뷰](https://www.econovill.com/news/articleView.html?idxno=377271)
 * [Reinventing Performance Management](https://hbr.org/2015/04/reinventing-performance-management)
 * [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
 * [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
@@ -1379,6 +1381,7 @@ Business
 * [우리 조직 핵심인재 퇴사 막는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/dontgoaway20210503)
   * [우리 조직 핵심인재 퇴사 막는 법](https://drive.google.com/file/d/1QaFrYKVqo4wS4Lr2VmT-YWON8qIzZtP9/view?usp=sharing)
 * [MZ세대, 근속하게 하는 노하우는... '워라밸과 존중' - CIO Korea](https://www.ciokorea.com/news/228554)
+* [존중하는 리더십이 조직을 망쳤다](https://contents.premium.naver.com/saramin/waytowork/contents/221007154234368gc)
 * [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
 * [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
 * ["단 한번도 후회 안 해" 김태호 PD가 21년만에 MBC 퇴사한 구체적 이유를 고백했고, '시대가 정말 달라졌구나' 싶다(서울체크인) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/kim-tae-ho-ott_kr_624d12b8e4b0981745076861) 핵심 인재에 대한 자율 보장
@@ -1741,6 +1744,7 @@ Business
   * [프로덕트 매니저로서 존경 받는 실용적인 방법](https://janepark.notion.site/b2d0838274b14d71af1d37dab51d875e)
 * [What do I do as a Product Manager? - YouTube](https://www.youtube.com/watch?v=pCmh6XaMVxs)
   * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
+* [지피지기면 백전백승, 스타트업의 프로덕트 매니저(PM) 직무 뜯어보기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257948)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -1942,6 +1946,7 @@ Business
   * [growth](https://gist.github.com/hyunjun/81a8258197980604b9e9e690b2657d32?permalink_comment_id=4112159#gistcomment-4112159)
 * [영입제안을 받을 때 스스로에게 할 질문들](https://www.linkedin.com/posts/activity-6990077419395112960-8g21/)
 * [어떻게 이직할 것인가? | RBBM](https://www.redbusbagman.com/howtoarrivewell/)
+* [실패하는 이직](https://brunch.co.kr/@taehyo/93)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
@@ -2054,6 +2059,7 @@ Business
 * [스머프 스타트업의 머리속을 들여다보는 프로들 - YouTube](https://www.youtube.com/playlist?list=PLQvqXcm97CTD5EGNe_yrFlprol5lE59qH)
 * [맹목적인 성장의 늪 : 네이버 블로그](https://blog.naver.com/bizucafe/222848916662)
 * [브런치북 스타트업의 창업자 vs. 경영자](https://brunch.co.kr/brunchbook/startupleader)
+* ['한국판 구글'... 수천억 자산가들이 줄 서서 기다리는 미친 잠재력 - YouTube](https://www.youtube.com/watch?v=tDVhGYDyOhU)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
