@@ -866,6 +866,8 @@ Data Science
 * [Real World Recommendation Systems - Part 2 (Training Data Generation)](https://blog.fennel.ai/p/real-world-recommendation-systems)
 * [‘AI 추천 기술’을 선도하는 카카오 추천팀을 소개합니다. – tech.kakao.com](https://tech.kakao.com/2022/06/16/data-recommendation-system/)
 * [Reinforcement Learning for Budget Constrained Recommendations | by Netflix Technology Blog | Aug, 2022 | Netflix TechBlog](https://netflixtechblog.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a)
+* [추천 시스템: Bloom Filter for Filtering Layer](https://www.linkedin.com/posts/huffonism_%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-bloom-filter-for-filtering-layer-activity-6994114281055141889-Tr6u/)
+* [Why do we need two-stage Recommender System?](https://www.linkedin.com/posts/activity-6994975784205459456-4vy_/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
