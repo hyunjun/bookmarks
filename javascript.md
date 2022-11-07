@@ -3023,6 +3023,7 @@ Javascript
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
   * [fresh - The next-gen web framework](https://fresh.deno.dev/)
     * [Getting started with Fresh: The New Deno Framework | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-fresh-the-new-deno-framework-47ac30545891)
+    * [Deno 팀에서 만든 웹 프레임워크 Fresh :: Outsider's Dev Story](https://blog.outsider.ne.kr/1632)
   * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
   * [Ruck - An open source buildless React web application framework for Deno](https://ruck.tech/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
