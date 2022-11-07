@@ -2729,6 +2729,8 @@ Python
 * [Building a Full Stack Flask HTMx Application - Code Capsules](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
 * [Flask Web Framework - 생활코딩](https://opentutorials.org/course/4904)
 * [Python Flask Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y)
+* [darkmode-session: walk through darkmode with redis session clustering](https://github.com/cloudacode/darkmode-session)
+  * [Build a dark/light mode feature with a session from scratch | by KC | Nov, 2022 | Medium](https://blog.cloudacode.com/build-a-dark-light-mode-feature-with-a-session-from-scratch-fc371c40dd69)
 
 ## Flask Library
 * [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
