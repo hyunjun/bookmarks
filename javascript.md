@@ -3129,6 +3129,7 @@ Javascript
   * [NodeGUI - Electron alternatives: Exploring NodeGUI and React NodeGUI](https://blog.logrocket.com/electron-alternatives-exploring-nodegui-and-react-nodegui)
   * [NodeGUI - 고성능 크로스플랫폼 데스크탑 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=3846)
   * [svelte-nodegui: Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀](https://github.com/nodegui/svelte-nodegui)
+* [node-gyp: Node.js native addon build tool](https://github.com/nodejs/node-gyp)
 * [node-hwp: A HWP library for Node.js](https://github.com/123jimin/node-hwp)
 * [Node.js-JServer: Node.js Server Framework](https://github.com/codeblock/Node.js-JServer)
   * [JServer: Node.js Server Framework](https://morioh.com/p/87b89094e6c0)
