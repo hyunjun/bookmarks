@@ -2759,6 +2759,9 @@ Programming Books
 * [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
   * ★★★☆☆ 2022.11.05 '죽을 때까지 코딩하며 사는 법'을 쓴 분의 새 책. '독서와 글쓰기를 훈련해 자신만의 컨텐츠를 만들라'로 정리할 수 있다
   * 우당 문005.13-홍73ㅋ
+  * [코딩의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/future_of_coding.md)
+  * [코딩의 미래. 세계적인 경영컨설턴트이자 미래학자인 니콜라스카는 ‘띄어쓰기’에… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98-a3be8737b466)
+  * [코딩의 미래](https://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
