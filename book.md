@@ -265,6 +265,9 @@ Book
   * ★★★☆☆ 2022.11.06
   * 탐라 문573.2-정17ㄴ
   * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
+* [픽사스토리텔링, 9가지 이야기 법칙](https://thankyoubk.com/entry/%ED%94%BD%EC%82%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-9%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%95%EC%B9%99)
+  * ★★★☆☆ 2022.11.06
+  * 한라 325.1-룬33ㅍ-2 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -348,8 +351,6 @@ Book
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
 * (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 * (NOT YET) [디즈니 & 픽사의 신비로운 지도들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292936345)
-* (NOT YET) [픽사스토리텔링, 9가지 이야기 법칙](https://thankyoubk.com/entry/%ED%94%BD%EC%82%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-9%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%95%EC%B9%99)
-  * 한라 325.1-룬33ㅍ-2 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
 * (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
