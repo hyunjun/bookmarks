@@ -611,7 +611,9 @@ AWS
 * 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
   * [데이터사이언스 없이 추천시스템 만들기 - 디큐 :: 제39회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=bOjE3IWYSS8)
 * [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
-* [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
+* AWS Community Day
+  * [AWS Community Day 2022 - Seoul - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
+  * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [AWS re:Invent 2019 AI/ML](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
