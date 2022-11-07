@@ -2,6 +2,16 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Manager vs. Sprint Backlog – Comic Agilé](https://www.comicagile.net/comic/the-sprint-backlog/)
+  * 아, 그래서 우리 스프린트 백로그는 제품 백로그에서 온 사용자 스토리뿐만 아니라, 버그, 위험 관리, 개선 항목들도 포함했네.
+  * 그래서, 뭐든 스프린트 백로그로 갈 수 있는 거야?
+  * 그렇지, 만약 팀이 동의한다면, 하지만…
+  * 그러면 다음도 더해줘. 매니저로서, 시간당 스프린트 속도를 포함시켜서 경영진에 효율성도 보고할 수 있게 해 줘.
+  * Authors’ comments:
+    * 스크럼 가이드에는 "스프린트 백로그는 스프린트를 위해 선택한 제품 백로그 항목의 집합이며, 제품 증분을 제공하고 스프린트 목표를 실현하기 위한 계획"이라고 명시되어 있습니다. 또한 버그, 위험을 완화하기 위한 조치 및 이전 회고를 기반으로 하는 스크럼 팀의 작업 방식을 개선하기 위한 활동이 포함되어 있음을 알 수 있습니다.
+    * 위의 관리자 명령에서 몇 가지 안티 패턴을 볼 수 있습니다. 조직 계층을 사용하여 팀에게 스프린트 백로그에 항목을 포함하도록 지시하고, 항목의 내용(아마도) 항목의 내용은 팀의 스프린트 목표나 회고 결과에 기여하지 않으며, 요청 동기는 "효율성"을 측정하고 보고하는 것입니다. 적어도 관리자는 사용자 스토리의 목소리를 올바르게 얻었습니다...
+  * [#8 — Manager vs. Sprint Backlog - Jun - Medium](https://nymets.medium.com/8-manager-vs-sprint-backlog-9cdaeed73adf)
+  * [#8 – Manager vs. Sprint Backlog -](https://jh4hj.tistory.com/entry/8-%E2%80%93-Manager-vs-Sprint-Backlog)
 * [Social Distancing – Comic Agilé](https://www.comicagile.net/comic/social-distancing/)
   * 그래서…
   * …내일부터, 우리는 물리적으로 같이할 수 없습니다. 사회적 거리두기를 실천해서 코로나 전파를 막아야만 합니다!
