@@ -36,6 +36,7 @@ Business
 * [습관이 되는 주니어의 25가지 실수 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232804)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
+* [류랑도 칼럼 잘못된 성과주의 문화가 기업을 망친다... 성과주의 문화, 성과평가 그리고 성과급주의 - 위키리크스한국](http://www.wikileaks-kr.org/news/articleView.html?idxno=119590)
 * [CIA가 알려주는 조직 망치는 비결 – Subin Kim](https://subin.kim/2581)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [CEO 심리학 직원들 번아웃 막고 싶다면 성장하는 재미를 느끼게하라](https://n.news.naver.com/mnews/hotissue/article/009/0004984823)
