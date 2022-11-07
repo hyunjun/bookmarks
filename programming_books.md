@@ -93,6 +93,7 @@ Programming Books
   * [The Programmer's Brain](https://www.infoq.com/presentations/reading-code/)
   * [놀라운책, 프로그래머의 뇌를 읽고 :: 소프트웨어 이야기](https://software-creator.tistory.com/36)
   * [프로그래머의 뇌 - 훌륭한 프로그래머가 알아야 할 인지과학의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1605)
+  * [프로그래머의 뇌 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/11/06/Programmers-Brain.html)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
@@ -808,6 +809,7 @@ Programming Books
 * (NOT YET) [C# 으로 배우는 적응형 코드](https://www.haruair.com/blog/4452)
 * (NOT YET) [이것이 C#이다](http://greentec.egloos.com/4440971)
 * (NOT YET) [UWP 퀵스타트](https://kaki104.tistory.com/703)
+* (NOT YET) [이펙티브(effective) C#(2016) 독후감](http://ohyecloudy.com/pnotes/archives/book-effective-csharp/)
 
 # Clojure
 
