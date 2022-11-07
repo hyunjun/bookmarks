@@ -1437,6 +1437,7 @@ Programming
 * [우당탕탕 Server Driven UI 개발기. 안녕하세요! 요기요 R&D Center의 BE Developer… | by Seungwon Jeong | Sep, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-server-driven-ui-%EA%B0%9C%EB%B0%9C%EA%B8%B0-b1b80f47760b)
 * [01 Software Architecture Concepts - YouTube](https://www.youtube.com/watch?v=bNxSWIl5kpo)
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
+* [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
