@@ -2,6 +2,15 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Social Distancing – Comic Agilé](https://www.comicagile.net/comic/social-distancing/)
+  * 그래서…
+  * …내일부터, 우리는 물리적으로 같이할 수 없습니다. 사회적 거리두기를 실천해서 코로나 전파를 막아야만 합니다!
+  * 우리 PO가 the curve를 이미 평탄하게 하려고 했던 거 같은데! 앞으로 몇 번의 스프린트 기간동안 같이 하지 못할 거 같아…
+  * Authors’ comment:
+    * 우리 모두는 사회적 거리두기를 실천하고, 재택근무를 하고, 우리 사회에서 가장 취약한 사람들을 보호하기 위해 목숨을 걸고 있는 사람들을 지원함으로써 코로나가 확산되지 않도록 할 수 있는 모든 걸 해야만 합니다.
+    * 너무 자주 우리는 PO가 개발 팀과 멀리 떨어져 있고 최악의 경우 함께 할 수 없는 것처럼 보일 수 있음을 보았습니다. 이러한 일이 발생하기 전에 애자일 코치와 스크럼 마스터인 우리는 PO가 최종 사용자 및 고객과의 요구 사항 워크숍과 같은 외부 활동을 수행하는 것과 팀과 함께 백로그 개선과 같은 내부 활동을 수행하는 것 사이에서 미묘한 균형을 찾도록 도와야 합니다. PO가 팀과 함께 배치되지 않은 경우 가용성을 보장하는 한 가지 방법은 PO에 연결해야 할 때 팀이 참여할 수 있는 통화를 유휴 상태로 유지하면서 PO가 작업하는 매일 몇 시간의 정해놓은 시간을 갖는 것입니다.
+  * [#7 — Social Distancing - Jun - Medium](https://nymets.medium.com/7-social-distancing-98931ba62a2f)
+  * [#7 – Social Distancing -](https://jh4hj.tistory.com/entry/7-%E2%80%93-Social-Distancing)
 * [Let’s call it – Comic Agilé](https://www.comicagile.net/comic/lets-call-it-kanban/)
   * 새 스크럼 마스터 자격증 축하해요. 팀은 어떻게 되어가고 있나요?
   * 사실 매우 좋아요. 다만 대개 스프린트 중간에 백로그를 변경하거나, 스프린트 목표가 없고, PO가 리뷰를 원하지 않고 개발자들이 회고를 싫어한다는 점이 있긴 하지만요
