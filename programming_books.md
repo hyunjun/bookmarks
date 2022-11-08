@@ -2362,6 +2362,9 @@ Programming Books
   * 한라 325.1-유95ㅇ 탐라 문325.25-유95ㅇ 우당 문325.1-유95ㅇ
   * [실리콘밸리 회사들이 직원들을 평가하는 법 - YouTube](https://www.youtube.com/watch?v=CZwZ9oim5vs)
   * [에어비앤비 엔지니어가 행복하게 일할 수 있는 이유 | 에어비앤비 엔지니어 유호현 리얼밸리 시즌 2 EP 04 - YouTube](https://www.youtube.com/watch?v=iaNl6zKTBfg)
+* [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
+  * ★★★☆☆ 2022.11.08 마이클 델의 위인전같은 느낌이라 다시 읽을 거 같진 않지만 몇몇 부분은 괜찮았음
+  * 한라 325.1-델32ㅍ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2429,8 +2432,6 @@ Programming Books
   * 우당 문325.23-칠228ㅋ
 * (NOT YET) [생산성 (Productivity) 기업 제1의 존재 이유](https://blog.naver.com/airline36/221155971407)
   * 서부 DO325.41-이11ㅅ 한경 325.41-이11ㅅ
-* (NOT YET) [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
-  * 한라 325.1-델32ㅍ
 * (NOT YET) [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
   * 한라 325.24-렌58ㅊ
 * (NOT YET) [탁월한 리더는 피드백이 다르다](https://m.post.naver.com/viewer/postView.naver?volumeNo=19305483&memberNo=29566044)
