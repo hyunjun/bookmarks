@@ -203,6 +203,8 @@ ElasticSearch - Lucene
 * [실시간 인덱싱을 위한 Elasticsearch 구조를 찾아서 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7425/)
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
+* [interview 나만의 취향을 발견해 주는 아이디어스의 힘, 검색 추천 기술을 이야기하다. | by Saeyeon Park | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B7%A8%ED%96%A5%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%B4-%EC%A3%BC%EB%8A%94-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%EC%9D%98-%ED%9E%98-%EA%B2%80%EC%83%89-%EC%B6%94%EC%B2%9C-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4-c189f0ea594f)
+* [추천 시스템 서비스 적용을 위한 Elastic Search 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/11/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%81%EC%9A%A9%EC%9D%84-%EC%9C%84%ED%95%9C-elastic-search-%EB%8F%84%EC%9E%85%EA%B8%B0/)
 * [HowTo: Migrate data from an Elasticsearch Cluster to another Elasticsearch Cluster with Spark](https://medium.com/@mykidong/howto-migrate-data-from-an-elasticsearch-cluster-to-another-elasticsearch-cluster-with-spark-adf550e3a7ec)
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
   * [Elastic 솔루션](https://www.elastic.co/kr/solutions)
@@ -331,7 +333,6 @@ ElasticSearch - Lucene
 * [검색 랭킹 흐름 만들기: 검색은 처음 인디요. 안녕하세요! 당근마켓 검색 시스템을 개발하고있는 Hy(하이) 에요 | by Hy Lee | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-39fb8577c4c7)
 * [Elasticsearch 확장성을 향상시킨 3가지 방법 | Elastic Blog](https://www.elastic.co/kr/blog/three-ways-improved-elasticsearch-scalability/)
 * [Keyword-Document Ranking 효율화. 이 글에서는 검색어가 문서에 종속된 피처의… | by Youngsoo Chang | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/keyword-document-ranking-%ED%9A%A8%EC%9C%A8%ED%99%94-9a71bd9e34f7)
-* [interview 나만의 취향을 발견해 주는 아이디어스의 힘, 검색 추천 기술을 이야기하다. | by Saeyeon Park | idus-Tech | Mar, 2022 | Medium](https://medium.com/idus-tech/interview-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%B7%A8%ED%96%A5%EC%9D%84-%EB%B0%9C%EA%B2%AC%ED%95%B4-%EC%A3%BC%EB%8A%94-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%EC%9D%98-%ED%9E%98-%EA%B2%80%EC%83%89-%EC%B6%94%EC%B2%9C-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4-c189f0ea594f)
 * [Hot-Warm Architecture in Elasticsearch 1/n | codersite](https://codersite.dev/hot-warm-architecture-elasticsearch/)
 * [Almost all searches on my independent search engine are now from SEO spam bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
 * [The Future of Search Is Boutique | Future](https://future.a16z.com/the-future-of-search-is-boutique/)
