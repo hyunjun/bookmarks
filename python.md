@@ -3661,6 +3661,7 @@ Python
 * [Informer (TGInformer) - a bot library that allows you to masquerade as multiple REAL users on telegram and spy on 500+ Telegram channels per account](https://github.com/paulpierre/informer)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Instagram Private API - A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs](https://github.com/ping/instagram_private_api)
+* [instaviz: Instant visualization of Python AST and Code Objects](https://github.com/tonybaloney/instaviz)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
