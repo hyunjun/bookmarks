@@ -2261,6 +2261,7 @@ App
   * [WSL2 활용도를 높여주는 고정 IP 설정 - 넷마블 기술 블로그](https://netmarble.engineering/wsl2-static-ip-scheduler-settings/)
   * [멀티패스 우분투 VM에도 고정 IP를 붙여보자 - 넷마블 기술 블로그](https://netmarble.engineering/multipass-ubuntu-static-ip-configuration-on-hyper-v/)
   * [도커 데스크톱 없이 구축하는 WSL2와 도커 개발 환경 - 넷마블 기술 블로그](https://netmarble.engineering/docker-on-wsl2-without-docker-desktop/)
+  * [도커 데스크톱 없이 구축하는 WSL2와 도커 개발 환경 | 요즘IT](https://yozm.wishket.com/magazine/detail/1776/)
   * [WSL2 에서 React.js 개발환경 설정하기](https://velog.io/@wongue_shin/WSL2-%EC%97%90%EC%84%9C-react-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
   * [WSL 활용을 위한 설명 링크 모음 | 웹으로 말하기](https://mytory.net/2022/05/03/WSL-notes.html)
   * [윈도우 서버 2022에 WSL 2 설치하고 서버 역할로 돌리는 법](https://velog.io/@composite/%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2022%EC%97%90-WSL-2-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B2%95)
