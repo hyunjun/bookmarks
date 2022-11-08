@@ -469,6 +469,7 @@ AWS
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
+* [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
 
 # AMI Amazon Machine Image
@@ -1836,8 +1837,9 @@ AWS
 * [Amazon EKS Workshop :: Amazon EKS Workshop](https://www.eksworkshop.com/)
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
 * [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
-* [AWS Builders 온라인 시리즈](https://aws.amazon.com/ko/events/builders-online-series/)
+* [AWS 입문자를 위한 WorkShops](https://newstars.cloud/556)
 * [AWS 리소스 허브](https://kr-resources.awscloud.com/)
+* [AWS Builders 온라인 시리즈](https://aws.amazon.com/ko/events/builders-online-series/)
 * [AWS Cloud Quest | 대화형 롤플레잉 게임 | AWS](https://aws.amazon.com/ko/training/digital/aws-cloud-quest/)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
