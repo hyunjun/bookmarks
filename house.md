@@ -56,6 +56,7 @@ House
 * [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
 * [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
 * [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
+* [피해자가 속출하는 전세금 미반환 사고! 이렇게 대처하면 바로 줍니다! - YouTube](https://www.youtube.com/watch?v=kmNu62ul8b0)
 * [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
 * [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
 * [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
