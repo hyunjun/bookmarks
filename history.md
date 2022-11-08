@@ -37,6 +37,7 @@ History
 * [TECHNOLOGY YOU DIDN'T KNOW STILL EXISTED: THE TELEGRAM](http://www.atlasobscura.com/articles/telegrams)
 * [중립도 힘이 있어야 한다 – 발트해의 포성](http://ppss.kr/archives/46648)
 * [귀족은 초컬릿을 먹지 않는다. 다만 마실 뿐이다](http://ppss.kr/archives/46646)
+* [귀족의 작위에 대하여](https://brunch.co.kr/@zhoyp/20)
 * [오래 가는 기업이 가진 6가지 공통적인 요소](http://ppss.kr/archives/48388)
 * [프랑스어, 영어를 침공하다!](http://ppss.kr/archives/46631)
 * [Hellenism and the History of Homosexuality](https://medium.com/eidolon/hellenism-and-the-history-of-homosexuality-2f327018886f)
