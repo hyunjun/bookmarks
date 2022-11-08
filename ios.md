@@ -111,6 +111,7 @@ iOS
 * [HTML을 NSAttributedString으로 변환하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/html-to-nsattributedstring/)
 * [iOS 15에서 UIButton의 title이 Button으로 나타나는 현상해결방법 | Joohee Kim's Blog](https://imjhk03.github.io/posts/solve-ios15-button-title-showing/)
 * [아이폰 사파리에서 구글 로그인 구현. PWA은 아이폰에서 앱처럼 동작합니다. 물론 카메라를 조작하거나 이런… | by 이상선 | Jun, 2022 | Medium](https://medium.com/@sunyi233/%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84-b7a3a417f003)
+* [실험과 현지화에 흔들리지 않는 모바일 엔지니어링. 다양한 국가에서 현지화를 하며 시장을 뚫어가며 유저에게 더 나은 가치를… | by Hyeonsu Ha | 당근마켓 팀블로그 | Nov, 2022 | Medium](https://medium.com/daangn/%EC%8B%A4%ED%97%98%EA%B3%BC-%ED%98%84%EC%A7%80%ED%99%94%EC%97%90-%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-3c648f2ac74) cleanswift, i18n
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
