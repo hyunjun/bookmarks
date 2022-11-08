@@ -19,6 +19,9 @@ Comic Agile
   * Authors’ comment:
     * 우리 모두는 사회적 거리두기를 실천하고, 재택근무를 하고, 우리 사회에서 가장 취약한 사람들을 보호하기 위해 목숨을 걸고 있는 사람들을 지원함으로써 코로나가 확산되지 않도록 할 수 있는 모든 걸 해야만 합니다.
     * 너무 자주 우리는 PO가 개발 팀과 멀리 떨어져 있고 최악의 경우 함께 할 수 없는 것처럼 보일 수 있음을 보았습니다. 이러한 일이 발생하기 전에 애자일 코치와 스크럼 마스터인 우리는 PO가 최종 사용자 및 고객과의 요구 사항 워크숍과 같은 외부 활동을 수행하는 것과 팀과 함께 백로그 개선과 같은 내부 활동을 수행하는 것 사이에서 미묘한 균형을 찾도록 도와야 합니다. PO가 팀과 함께 배치되지 않은 경우 가용성을 보장하는 한 가지 방법은 PO에 연결해야 할 때 팀이 참여할 수 있는 통화를 유휴 상태로 유지하면서 PO가 작업하는 매일 몇 시간의 정해놓은 시간을 갖는 것입니다.
+  * the curve에 대한 Mikkel의 comment
+    * The 'Curve' was something the health authorities used in the beginning of the covid crisis to describe the number of infected persons - If we had too steep a curve our hospitals wouldn't be able to cope with covid admissions... To flatten the curve, we had to stay at home etc...
+    * In Denmark 'the curve' became sort of a daily talk.
   * [#7 — Social Distancing - Jun - Medium](https://nymets.medium.com/7-social-distancing-98931ba62a2f)
   * [#7 – Social Distancing -](https://jh4hj.tistory.com/entry/7-%E2%80%93-Social-Distancing)
 * [Let’s call it – Comic Agilé](https://www.comicagile.net/comic/lets-call-it-kanban/)
