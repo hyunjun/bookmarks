@@ -2365,6 +2365,9 @@ Programming Books
 * [플레이 나이스 벗 윈](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301042852)
   * ★★★☆☆ 2022.11.08 마이클 델의 위인전같은 느낌이라 다시 읽을 거 같진 않지만 몇몇 부분은 괜찮았음
   * 한라 325.1-델32ㅍ
+  * [플레이 나이스 벗 윈](https://github.com/hyunjun/bookmarks/blob/master/programming_books/play_nice_but_win.md)
+  * [플레이 나이스 벗 윈. Chapter 1 중요한 건 '성장'이다 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%94%8C%EB%A0%88%EC%9D%B4-%EB%82%98%EC%9D%B4%EC%8A%A4-%EB%B2%97-%EC%9C%88-1c18b25f2c57)
+  * [플레이 나이스 벗 윈](https://jh4hj.tistory.com/entry/%ED%94%8C%EB%A0%88%EC%9D%B4-%EB%82%98%EC%9D%B4%EC%8A%A4-%EB%B2%97-%EC%9C%88)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
