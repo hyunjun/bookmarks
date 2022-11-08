@@ -662,6 +662,7 @@ Programming
 * [계획은 개나 주자](https://brunch.co.kr/@graypool/429) SAFe, Lean Budgets
 * [프로그램이나 사업이나 끝임없이 변한다](https://brunch.co.kr/@graypool/517)
 * [스크럼이 낡은 방식이긴 하다](https://brunch.co.kr/@graypool/640)
+* [애자일에 대한 비판 글이 나오는 이유](https://brunch.co.kr/@graypool/672)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
