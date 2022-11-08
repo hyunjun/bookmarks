@@ -372,6 +372,9 @@ Book
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
 * (NOT YET) [반도체 삼국지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302939277)
   * 우당
+  * [논란의 칩4 동맹, 우리에게 이득일까? f.권석준 교수 압권 6화 1부 - YouTube](https://www.youtube.com/watch?v=z_jtwbOWBr8)
+  * [반도체 1등을 노리는 중국, 우리에게 위협이 되나? f.권석준 교수 압권 6화 2부 - YouTube](https://www.youtube.com/watch?v=eUFzit_VBNY)
+  * [일본, 기술력의 함정에 빠지다 f.권석준 교수 압권 : 반도체 삼국지 1부 - YouTube](https://www.youtube.com/watch?v=QEeoHddvE6Q)
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
   * 우당
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
