@@ -243,6 +243,7 @@ Programming
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
+* [일본 B2B 비즈니스 일본에서 온 편지 (1편) / 일본 로컬라이징, 일본 서버 도메인 편](https://blog.naver.com/rokomokodon/222910078482)
 * [글로벌 서비스 개발 - 우아한형제들 세미나](https://devtimothy.tistory.com/140) 지역별 특성에 맞는 개발 방식 및 주의점
 * [풋내기 창업자의 스타트업 창업하기 11화 — 해외시장 진출. 페북의 MAU 그래프입니다. 2004년 2월에 창업한 페북은 3년만에… | by gary | 당근마켓 팀블로그 | Nov, 2020 | Medium](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-11%ED%99%94-%ED%95%B4%EC%99%B8%EC%8B%9C%EC%9E%A5-%EC%A7%84%EC%B6%9C-6d735072deb9)
 * [딜리셔스 개발팀 연대기 | dealicious-inc.github.io](https://dealicious-inc.github.io/2021/06/14/dev-team-chronicle.html)
