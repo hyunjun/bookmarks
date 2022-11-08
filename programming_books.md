@@ -2754,14 +2754,14 @@ Programming Books
   * [블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’ - T Times](http://www.ttimes.co.kr/view.html?no=2022041216177718768)
   * [면접을 앞둔 개발자 지망생에게 - 골든래빗](https://goldenrabbit.co.kr/2022/03/23/%eb%a9%b4%ec%a0%91%ec%9d%84-%ec%95%9e%eb%91%94-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%a7%80%eb%a7%9d%ec%83%9d%ec%97%90%ea%b2%8c/)
 * [커리어 스킬](https://brunch.co.kr/@yudong/103)
-  * 한라 005.104-손34ㅋ 탐라 문005.104-스33ㅋ 우당 문005.104-손33ㅋ
   * ★★★☆☆ 2022.05.10~12 근육질의 프로그래머 존 숀메즈의 개발자 로드맵. 약간 뻔한 소리로 받아들일 수도 있지만 전반적으로 실용적으로 배우기에 좋다고 생각. 자기 관리가 정말 대단한 사람이라 이런 면 중 하나만 배워도 성장할 수 있을 거 같다
+  * 한라 005.104-손34ㅋ 탐라 문005.104-스33ㅋ 우당 문005.104-손33ㅋ
   * [커리어 스킬](https://github.com/hyunjun/bookmarks/blob/master/programming_books/career_skill.md)
   * [커리어 스킬. 1부 소프트웨어 개발자로 입문하기 | by Jun | May, 2022 | Medium](https://nymets.medium.com/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC-857a07598813)
   * [커리어 스킬](https://jh4hj.tistory.com/entry/%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%8A%A4%ED%82%AC)
 * [어떤 개발자가 살아남는가](https://bjpublic.tistory.com/441?category=537527)
-  * 탐라 문004-이14ㅇ
   * ★★★☆☆ 2022.05.29
+  * 탐라 문004-이14ㅇ
   * [어떤 개발자가 살아남는가](https://brunch.co.kr/@lkj28/208)
 * [코딩의 미래: 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://roadbook.co.kr/272)
   * ★★★☆☆ 2022.11.05 '죽을 때까지 코딩하며 사는 법'을 쓴 분의 새 책. '독서와 글쓰기를 훈련해 자신만의 컨텐츠를 만들라'로 정리할 수 있다
@@ -2769,10 +2769,11 @@ Programming Books
   * [코딩의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/future_of_coding.md)
   * [코딩의 미래. 세계적인 경영컨설턴트이자 미래학자인 니콜라스카는 ‘띄어쓰기’에… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98-a3be8737b466)
   * [코딩의 미래](https://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98)
+* [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
+  * ★★★★☆ 2022.11.08 매우 좋다. 여러 모로 커리어 관련된 부분에서 살펴보기 좋은 책. 내 커리어를 위해서도, 커리어 패스를 만드는 측면에서도 좋음
+  * 우당 문005.104-라58ㅅ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
-* (NOT YET) [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
-  * 우당 문005.104-라58ㅅ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
