@@ -1526,6 +1526,8 @@ Business
 * [big story언어는 리더십의 화력火力이다 │ 매거진한경](https://magazine.hankyung.com/money/article/202101204604c)
 * [일 잘하는 팀원 만드는 팀장은 업무 지시하는 방법부터 다르다! < 비즈니스 사례 < 기사본문 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=3571) COP context outcome principle
 * [브런치북 어느 날 팀장이 되었다](https://brunch.co.kr/brunchbook/oneday-teamlead)
+* [마크 저커버그와 마리사 메이어의 평행이론 - 티타임즈](https://www.ttimes.co.kr/article/2022111018177781467)
+* ["그저 요구를 들어주는 접근법 아니다"··· 서번트 리더십 'Do & Don't' - CIO Korea](https://www.ciokorea.com/ciostory/244842) servant leadership
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1729,6 +1731,7 @@ Business
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
 * [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
 * ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
+* [제품 관리자가 가져야 하는 데이터 문해력이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1779/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -2067,6 +2070,7 @@ Business
 * [맹목적인 성장의 늪 : 네이버 블로그](https://blog.naver.com/bizucafe/222848916662)
 * [브런치북 스타트업의 창업자 vs. 경영자](https://brunch.co.kr/brunchbook/startupleader)
 * ['한국판 구글'... 수천억 자산가들이 줄 서서 기다리는 미친 잠재력 - YouTube](https://www.youtube.com/watch?v=tDVhGYDyOhU)
+* [시가 총액의 89% 가 증발, 트윌리오와 B2B 스타트업 매출 총이익 관리의 중요성 - Kimchi hill](https://kimchihill.com/2022/11/10/twilio-and-importance-of-gross-margin/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
