@@ -147,6 +147,7 @@ Data Visualization
 * [Quaternions: Part 3 - Lior Sinai](https://liorsinai.github.io/mathematics/2021/12/03/quaternion-3)
 * [Quaternions: Part 4 - Lior Sinai](https://liorsinai.github.io/mathematics/2021/12/06/quaternion-4-interpolation)
 * [Let's remove Quaternions from every 3D Engine (An Interactive Introduction to Rotors from Geometric Algebra) - Marc ten Bosch](https://marctenbosch.com/quaternions/)
+* [7 JavaScript Chart Libraries You Can Use in Your Next Project | JavaScript in Plain English](https://javascript.plainenglish.io/7-javascript-chart-libraries-you-can-use-in-your-next-project-8dbb6e960dcf)
 * chart.js
   * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
   * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
