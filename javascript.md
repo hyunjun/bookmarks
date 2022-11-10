@@ -2830,6 +2830,7 @@ Javascript
 * [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
 * [libuv의 이벤트 루프(Event Loop)에 대해 알아보자](https://blog.naver.com/dlaxodud2388/222218703957)
 * [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM - YouTube](https://www.youtube.com/watch?v=PNa9OMajw9w)
+* [An animated guide for Node.js event loop - DEV Community 👩💻👨💻](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
 * [**Asynchronous Engine — (1) libuv. 최근 fastapi 1.0.0 버전 출시를 앞두고 있다는 소식을 듣고… | by 달가을 | Feb, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-1-libuv-2508a4bebb42)
 * [libuv 디자인과 libuv 동작시켜보기](https://blog.naver.com/pjt3591oo/222339028273)
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
