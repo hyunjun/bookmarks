@@ -2900,6 +2900,11 @@ Programming Books
   * ★★★☆☆ 2022.10.23 concurrent.futures나 CircleCI부분이 있는 등의 부분은 괜찮음
   * 한라 005.133-스63ㅎ
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
+* [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
+  * ★★★★☆ 2022.11.08 CPython을 build하는 쉽지않은 경험 하나만으로도 충분한 가치가 있을 책
+  * 우당 문005.133-쇼62ㅆ
+  * [CPython Internals Book Resources – Real Python](https://realpython.com/cpython-internals/resources/)
+  * [CPython Internals](https://gist.github.com/hyunjun/6c6f6905ddc98372cac9e6d7d8e5bad8) tracemalloc, AddressSanitizer, MemorySanitizer, UndefinedBehaviorSanitizer, PyArena, pickle, threading, SnakeViz
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -3004,9 +3009,6 @@ Programming Books
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
-* (NOT YET) [CPython 파헤치기: 따라 하면서 이해하는 파이썬 내부의 동작 원리 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/09/19/cpython-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EB%94%B0%EB%9D%BC-%ED%95%98%EB%A9%B4%EC%84%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%B4%EB%B6%80%EC%9D%98-%EB%8F%99/)
-  * 우당 문005.133-쇼62ㅆ
-  * [CPython Internals Book Resources – Real Python](https://realpython.com/cpython-internals/resources/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
