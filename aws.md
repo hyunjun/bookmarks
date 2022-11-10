@@ -471,6 +471,7 @@ AWS
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
+* [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1013,6 +1014,7 @@ AWS
 * [K-Means Python script to Flask application (step by step) - YouTube](https://www.youtube.com/watch?v=HC7fdYyAcUc)
 * [Deploy Flask application to AWS Beanstalk as a web app. | ML project (part #2) - YouTube](https://www.youtube.com/watch?v=fGxY_Hji8_U)
 * [Implement 3Tier Architecture with Elasticbeanstalk - YouTube](https://www.youtube.com/watch?v=NkELE5kFV8k)
+* [Elastic Beanstalk graceful shutdown (feat. AutoScaling Lifecycle Hook - TERMINATING)](https://coding-groot.tistory.com/176)
 
 # ElasticCache -> [redis](redis.md)
 
