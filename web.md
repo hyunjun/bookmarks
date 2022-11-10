@@ -735,6 +735,7 @@ Web
 * [CSS 말줄임표 뒤에 컨텐츠 두기 - 코드쓰는사람](https://taegon.kim/archives/10549/)
   * 긴 텍스트를 2줄로만 표시하고 말줄임 표시를 하고 위에 "더보기" 버튼을 넣는 것을 CSS로 구현하는 방법
   * 줄임표 표시와 버튼 배치 후 CSS Shape 적용까지 단계별로 설명하는데 이후 문제가 발견되어 이 문제도 해결하는 방법까지 제안
+* [CSS로 세로 사진 좌우에 블러 효과 넣기 backdrop filter | 웹으로 말하기](https://mytory.net/2022/11/09/fill-with-blur-effect-around-portrait-image.html)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
@@ -1486,6 +1487,8 @@ Web
   * [ECS+Locust로 부하 테스트 진행하기](https://www.slideshare.net/YungonPark/ecslocust-232571377)
   * [Episode 4 — Testing your Python/Django app’s performance | by Francisco Betancourt | Dec, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-4-testing-your-python-django-apps-performance-4661f5e78f85)
   * [locust-k8s: Locust on k8s example for scalable load tests](https://github.com/Curt-Park/locust-k8s)
+* [MeasureThat.net](https://measurethat.net/)
+  * [소스코드의 퍼포먼스를 벤치마킹하는 방법 | Univdev](https://www.univdev.page/posts/benchmark-your-code/)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
   * [내 서버는 동시 사용자 몇명일 때 터질까? - Ngrinder를 이용해 성능/부하 테스트](https://tjdrnr05571.tistory.com/17)
   * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 2편(nGrinder를 활용한 성능테스트)](https://hyuntaeknote.tistory.com/11)
