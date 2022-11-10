@@ -350,6 +350,7 @@ ElasticSearch - Lucene
 * [ELK Session 1 : Centralise Logging with ELK in Just 15 Minutes #Devops #Docker #Kubernetes - YouTube](https://www.youtube.com/watch?v=QvXzhDiDJz4)
 * [YaCy - free software for your own search engine](https://yacy.net/)
 * [엘라스틱이 쉬웠던 이유 - 2nd | Popit](https://www.popit.kr/%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1%ec%9d%b4-%ec%89%ac%ec%9b%a0%eb%8d%98-%ec%9d%b4%ec%9c%a0-2nd/)
+* [CCS 과 CCR 을 이용한 Elastic Cloud 마이그레이션 전략 - YouTube](https://www.youtube.com/watch?v=62T4wOXmhbg)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
