@@ -50,6 +50,7 @@ Docker
 * [Infra 도커(docker)(7) 도커 볼륨(docker volume)을 이용한 데이터 관리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker07/)
 * [Infra 도커(docker)(8) 도커 장고 이미지 컨테이너 살펴보기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker08/)
 * [Infra 도커(docker)(9) 도커 PostgreSQL 컨테이너 배포하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker09/)
+* [Infra 도커(docker)(10) 도커 이미지 삭제 안될때 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker10/)
 * [documents.docker.co.kr: Docker 한국어 문서 / 영상 모음집](https://github.com/remotty/documents.docker.co.kr)
 * [무료 DevOps 강의 Docker - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RFFeGYI3JksmZd1MPHR2HwG)
 * [Docker 시작하기. 리눅스의 컨테이너 기술은 굉장히 오래전부터 있던 기술입니다.  그런데… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-f930c5484f71)
@@ -651,6 +652,7 @@ Docker
     * `--runtime=io.containerd.wasmedge.v1`로 cointainerd shim을 사용하도록 해야 하고
     * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
     * 글에서 실행 가능한 예제 제공
+* [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
