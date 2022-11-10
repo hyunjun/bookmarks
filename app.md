@@ -1800,6 +1800,7 @@ App
   * [제텔카스텐: 창의적인 아이디어를 만드는 노트법 – 왜 디지털이 아닌 종이가 더 효과적일까 (1) | 10x Lessons](https://tkim.co/2022/06/16/original-zettelkasten/)
   * [세컨드 브레인 리소스](https://tkim.oopy.io/e9360a90-f44b-44e6-81fc-bc7e11f94d76)
   * [세컨드 브레인 그룹 - YouTube](https://www.youtube.com/channel/UCrdIQzfs-OnnK24gEJq9S_g)
+  * [1st PKM Conference 2. 연구자를 위한 세컨드 브레인 구축과 연구 프로세스 - 구요한 연구원(한양대) - YouTube](https://www.youtube.com/watch?v=vVfz4iO1-vU)
   * zklab [제텔카스텐 연구소](https://www.zklab.kr/)
 
 ## Note Flashcard
