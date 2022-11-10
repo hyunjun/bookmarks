@@ -2522,6 +2522,12 @@ Programming Books
   * [인피니트 게임. ‘대의명분 Just Cause’ | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84-14177aaf05b2)
   * [인피니트 게임](https://jh4hj.tistory.com/entry/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8-%EA%B2%8C%EC%9E%84)
   * [사이먼 시넥, 인피니트 게임: “오로지 돈만 버는 기업은 형편없는 기업이다” – 박세희 Park Sehee](https://parksehee.blog/2022/11/06/simon-sinek-the-infinite-game/)
+* [서번트 리더의 품격(세상이 필요로 하는 것을 하라!) - YouTube](https://www.youtube.com/watch?v=Qfep6N98aZ0)
+  * ★★★☆☆ 2022.11.07 좋은 책이긴 하지만 약간 애매한 점도 있음. 리더쉽과 도덕책의 사이에서 아슬아슬한 경계를 타는 느낌이랄까.
+  * 한라 325.24-버292ㅅ 탐라 문325.24-버231ㅅ
+  * [서번트 리더의 품격](https://github.com/hyunjun/bookmarks/blob/master/programming_books/never_offer_your_comb_to_a_bald_man.md)
+  * [서번트 리더의 품격. Amazon.com: Alexander J. Berardi… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9-91bb4cc65679)
+  * [서번트 리더의 품격](https://jh4hj.tistory.com/entry/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9)
 * (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
@@ -2548,8 +2554,6 @@ Programming Books
 * (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
   * 탐라
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
-* (NOT YET) [서번트 리더의 품격(세상이 필요로 하는 것을 하라!) - YouTube](https://www.youtube.com/watch?v=Qfep6N98aZ0)
-  * 한라 325.24-버292ㅅ 탐라 문325.24-버231ㅅ
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
   * 우당 문325.3-버231ㅅ
 
