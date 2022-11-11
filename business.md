@@ -1528,6 +1528,7 @@ Business
 * [브런치북 어느 날 팀장이 되었다](https://brunch.co.kr/brunchbook/oneday-teamlead)
 * [마크 저커버그와 마리사 메이어의 평행이론 - 티타임즈](https://www.ttimes.co.kr/article/2022111018177781467)
 * ["그저 요구를 들어주는 접근법 아니다"··· 서번트 리더십 'Do & Don't' - CIO Korea](https://www.ciokorea.com/ciostory/244842) servant leadership
+* [직장생존을 위한 비즈니스 괜찮은 리더 없나요 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/08/13/good-leader/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
