@@ -407,6 +407,9 @@ Programming Books
   * [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
+  * [함께 자라기 애자일로 가는 길](https://github.com/hyunjun/bookmarks/blob/master/programming_books/grow_together.md)
+  * [함께 자라기 애자일로 가는 길. 개선 효과가 높은 것은… 관리, 시스템, 사람, 도구 순서… 실제로… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%A1%9C-%EA%B0%80%EB%8A%94-%EA%B8%B8-939dbe77d7a7)
+  * [함께 자라기 애자일로 가는 길](https://jh4hj.tistory.com/entry/%ED%95%A8%EA%BB%98-%EC%9E%90%EB%9D%BC%EA%B8%B0-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%A1%9C-%EA%B0%80%EB%8A%94-%EA%B8%B8)
 * [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
   * ★★★★☆ 2022.10.27 둘을 구분하는 게 때로는 여전히 헷갈릴 때가 있는데 짧은 책에 잘 설명해둠
   * 한라 005.1-크198ㅋ 탐라 개005.1-크198ㅋ
