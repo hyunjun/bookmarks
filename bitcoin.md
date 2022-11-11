@@ -375,6 +375,7 @@ Bitcoin
 * [The Promise of DAOs, the Latest Craze in Crypto | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
 * [DAO에 대한 생각](https://www.thestartupbible.com/2022/04/some-thoughts-on-dao.html)
 * [DAO란 무엇인가? - 업비트 투자자보호센터](https://m.upbitcare.com/academy/education/blockchain/246)
+* [블파스 NOUNS DAO : NFT를 통한 지속가능한 DAO 구현 전략 | 임윤호 - YouTube](https://www.youtube.com/watch?v=lKXTNAH73FE)
 * [How Blockchain Is Reinventing Entrepreneurship For Developing Countries](https://www.forbes.com/sites/forbestechcouncil/2022/07/05/how-blockchain-is-reinventing-entrepreneurship-for-developing-countries/)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
