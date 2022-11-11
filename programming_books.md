@@ -413,6 +413,9 @@ Programming Books
 * [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
   * ★★★★☆ 2022.10.27 둘을 구분하는 게 때로는 여전히 헷갈릴 때가 있는데 짧은 책에 잘 설명해둠
   * 한라 005.1-크198ㅋ 탐라 개005.1-크198ㅋ
+  * [칸반과 스크럼](https://github.com/hyunjun/bookmarks/blob/master/programming_books/kanban_and_scrum.md)
+  * [칸반과 스크럼. 가장 중요한 것은 팀의 협력과 커뮤니케이션 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%B9%B8%EB%B0%98%EA%B3%BC-%EC%8A%A4%ED%81%AC%EB%9F%BC-435d22b984f0)
+  * [칸반과 스크럼](https://jh4hj.tistory.com/entry/%EC%B9%B8%EB%B0%98%EA%B3%BC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
 * [사용자 스토리 맵 만들기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/119)
   * ★★★★☆ 2022.11.01~02
   * 탐라 004.78-패838ㅅ
