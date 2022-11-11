@@ -691,6 +691,7 @@ Data Science
 * [Ian Ozsvald - Building Successful Data Science Projects | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=X7E916dfHuE)
 * [날씨마루 파이썬 날씨 데이터 분석 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqSAjjlx91-tLY-5HPrSpFH)
 * [Sebastiaan J. van Zelst: Process Mining in Python | PyData Eindhoven 2019](https://ugong2san.tistory.com/4591)
+* [Python Fundamentals For Data Engineering: Create your first ETL Pipeline - YouTube](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
