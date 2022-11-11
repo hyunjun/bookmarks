@@ -467,6 +467,7 @@ Business
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
 * [People Analytics must benefit the people. An ethical analysis of data-driven algorithmic systems in human resources management - AlgorithmWatch](https://algorithmwatch.org/en/auto-hr/ethical-analysis-loi/)
+* [Data-Driven하게 일하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1785/)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [3개월 만에 10명대 조직이 2배 이상 커지면 생기는 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20220415)
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
@@ -2072,6 +2073,7 @@ Business
 * [브런치북 스타트업의 창업자 vs. 경영자](https://brunch.co.kr/brunchbook/startupleader)
 * ['한국판 구글'... 수천억 자산가들이 줄 서서 기다리는 미친 잠재력 - YouTube](https://www.youtube.com/watch?v=tDVhGYDyOhU)
 * [시가 총액의 89% 가 증발, 트윌리오와 B2B 스타트업 매출 총이익 관리의 중요성 - Kimchi hill](https://kimchihill.com/2022/11/10/twilio-and-importance-of-gross-margin/)
+* [미국의 배달의민족 DoorDash에 대한 세 가지 이야기](https://blog.naver.com/bizucafe/222925791474)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
