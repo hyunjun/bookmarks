@@ -258,6 +258,7 @@ Android
   * 안드로이드 크롬에서 [passkey](https://developers.google.com/identity/passkeys)를 생성하는 방법 설명
   * 브라우저가 WebAuthn을 지원하고 디바이스가 플랫폼 authenticator를 지원해야 사용할 수 있는데
   * 이를 검사하고 `navigator.credentials.create()`를 호출하고 받은 크리덴셜 ID, 사용자 ID, 공개키, transports를 저장하면 ok
+* [Becoming A Successful Android Open-Source Librarian | by Jaewoong Eum | Nov, 2022 | ProAndroidDev](https://skydoves.medium.com/becoming-a-successful-open-source-librarian-3a008b50b808)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
