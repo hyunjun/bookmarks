@@ -1482,6 +1482,7 @@ Programming
 * [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 * [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
 * [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
+* [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
