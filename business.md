@@ -675,6 +675,7 @@ Business
 * [전체와 부분 그리고 엔지니어링](https://qurator.co.kr/quration/single/218)
 * [조직 구조 파악의 핵심 – Essential Node, Villain Node – hwansookim.com](https://hwansookim.com/2022/09/13/%ec%a1%b0%ec%a7%81-%ea%b5%ac%ec%a1%b0-%ed%8c%8c%ec%95%85%ec%9d%98-%ed%95%b5%ec%8b%ac-essential-node-villain-node/)
 * [홀라크라시의 문제점](https://www.linkedin.com/posts/activity-6975585654055309312-0kgv/)
+* [업무를 구분 짓자 팀이 흔들리기 시작했다](https://eopla.net/magazines/241)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
