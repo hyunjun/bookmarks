@@ -1578,6 +1578,7 @@ AWS
 * [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
 * [Migrating to AWS Managed Streaming Kafka (MSK) | by Sandeep Mehta | softrock.io | Jan, 2022 | Medium](https://medium.com/softrock-io/migrating-to-aws-managed-streaming-kafka-msk-9b29d0137287)
 * [MSK and Glue Schema Registry: managed event stream platform on AWS. | by Igoreulalio Ie | Mar, 2022 | Medium](https://medium.com/@igoreulalio.ie/msk-and-glue-schema-registry-managed-event-stream-platform-on-aws-dcaaf451d77c)
+* [How SOCAR built a streaming data pipeline to process IoT data for real-time analytics and control | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/how-socar-built-a-streaming-data-pipeline-to-process-iot-data-for-real-time-analytics-and-control/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
@@ -1822,6 +1823,7 @@ AWS
   * 인프라에는 잘 안 바뀌는 낮은 수준의 인프라도 있으므로 VPC를 만들 때 서브넷 정보 등을 SSM 파라미터 스토어에 저장하게 하고
     * 자주 바뀌는 애플리케이션에서는 SSM 파라미터 스토어에서 서브넷 정보를 가져와서 사용하는 방법 설명
   * 같은 방식은 S3나 VPC 엔드포인트에서도 활용 가능
+* [테라폼으로  AWS 미니 랜딩존 구축-2022](https://brunch.co.kr/@topasvga/2797)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
