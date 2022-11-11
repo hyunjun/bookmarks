@@ -572,6 +572,7 @@ Javascript
 * [The Differences Between Arrow and Regular Functions You Should Know](https://medium.com/javascript-in-plain-english/the-differences-between-arrow-and-regular-functions-you-should-know-401c4bf22ad3)
 * [Do you really know when to use an Arrow Function in JavaScript?](https://medium.com/javascript-in-plain-english/do-you-really-know-when-to-an-arrow-function-in-javascript-fdcbcdae7297)
 * [Two situations where to avoid Arrow Functions | by Edgar Rodríguez | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/you-should-never-use-an-arrow-function-in-any-of-these-two-situations-8bc2fbbc39b8)
+* [Difference between Regular and Arrow Functions in JavaScript](https://morioh.com/p/761768c97ae4)
 * [JavaScript: Can (a==1 && a==2 && a==3) ever evaluate to true?](https://codeburst.io/javascript-can-a-1-a-2-a-3-ever-evaluate-to-true-aca13ff4462d)
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
