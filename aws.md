@@ -980,6 +980,7 @@ AWS
 * [쿠알못이 Amazon EKS로 안정적인 서비스 운영하기 - 최용호 (넥슨코리아) :: AWS Community Day 2020 - YouTube](https://www.youtube.com/watch?v=O3znWPUdt18)
 * [데브옵스 오픈 소스 Karpenter를 활용한 Amazon EKS 확장 운영 전략 | 신재현, 무신사 - YouTube](https://www.youtube.com/watch?v=FPlCVVrCD64)
 * [Amazon EKS 환경에서 Pod Security Standard 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-pod-security-standards-in-amazon-eks/)
+* [Amazon EKS 마이그레이션 요점정리 - 강인호 솔루션즈 아키텍트, AWS :: AWS Summit Korea 2022 - YouTube](https://www.youtube.com/watch?v=bksogA-WXv8)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
