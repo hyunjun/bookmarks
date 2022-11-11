@@ -692,6 +692,8 @@ Scala
 * [Fast number parsing in Scala](https://softwaremill.com/fast-number-parsing-in-scala/) `Try(value.toInt).toOption`
 * [An identifier, by any other name, … | by Robin Hillyard | Nov, 2021 | Medium](https://scala-prof.medium.com/an-identifier-by-any-other-name-c9c8f32b1477)
 * [Different ways to implement wrappers in Scala 2.x | Awethon's Page](https://awethon.github.io/posts/scala-wrappers/)
+* [Top 10 Skills to Learn to Be a Scala Developer - YouTube](https://www.youtube.com/watch?v=kVDgurLi-CA)
+* [The Scala community will exile me for this - YouTube](https://www.youtube.com/watch?v=rSk_mea4U1E)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1050,6 +1052,7 @@ Scala
     * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
     * [ZIO - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0Bzu7NfhTiGK7iCYjcFAYlal)
       * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
+    * [Day to day stuff: Speed up ZIOs with memoization](https://day-to-day-stuff.blogspot.com/2022/11/speed-up-zios-with-memoization.html)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1433,6 +1436,7 @@ Scala
     * [The Cats Effect 3 Course for Scala Developers | Rock the JVM](https://rockthejvm.com/p/cats-effect)
     * [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
     * [Functional event sourcing with cats-effect | by Jonas Chapuis | Sep, 2022 | Medium](https://jonas-chapuis.medium.com/functional-event-sourcing-with-akka-and-cats-7c075939fbdc)
+    * [Integrating Java APIs with Cats Effect](https://softwaremill.com/integrating-java-apis-with-cats-effect/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -1766,6 +1770,7 @@ Scala
   * [My first Tapir stream - SPFS #9 - YouTube](https://www.youtube.com/watch?v=GNleUFwgzWc)
   * [Migrating from Akka HTTP to tapir](https://softwaremill.com/migrating-from-akka-http-to-tapir/)
   * [A tapir looms in the distance](https://softwaremill.com/a-tapir-looms-in-the-distance/)
+  * [Episode 537: Adam Warski on Scala and Tapir : Software Engineering Radio](https://www.se-radio.net/2022/11/episode-537-adam-warski-on-scala-and-tapir/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1791,6 +1796,7 @@ Scala
   * [#circe - Part 4 - Golden Testing](https://www.youtube.com/watch?v=vo7RgPm6Qh4)
   * [Parsing JSON with Circe — Beyond the Basics | by Edward Huang | Level Up Coding](https://levelup.gitconnected.com/parsing-json-with-circe-beyond-the-basics-334014de393e)
   * [Working with JSON in Scala, a Circe Crash Course - YouTube](https://www.youtube.com/watch?v=uCtKqp2tdrg)
+  * [Ross A. Baker: Archive your toots to Hugo](https://rossabaker.com/projects/toot-archive/)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
