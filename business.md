@@ -252,6 +252,7 @@ Business
 * [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
 * [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
 * [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
+* [팀장님은 어느 팀 소속인가요? – Dreaming for the Future](http://www.chidoo.me/index.php/2022/11/12/what-team-a-leader-belongs-to/) 협업
 * [함께 일한다는 것에 대하여 — 프로세스보단 상호작용에 가치를! | by Katanazero | Sep, 2022 | Medium](https://medium.com/@zero86/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%97%90-%EA%B0%80%EC%B9%98%EB%A5%BC-e7929fcc0c18) 협업
 * [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
