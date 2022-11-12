@@ -523,6 +523,7 @@ Programming
 * [기술 부채와 이율](https://jojoldu.tistory.com/682)
 * [organizations waste up to 42% of their time due to technical debt](https://www.linkedin.com/posts/pojos_pdf-code-red-the-business-impact-of-code-activity-6983109983836020736-toO2/)
 * [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
+* [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
