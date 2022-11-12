@@ -319,10 +319,12 @@ Book
   * 한라 321.97-달298ㅂ 탐라 문321.97-달239ㅂ 우당 문321.97-달239ㅂ
 * (NOT YET) [실험실의 쥐](https://theorydb.github.io/review/2020/06/18/review-book-lab-rats/)
 * (NOT YET) [자동차 인터페이스 디자인](https://www.onlybook.co.kr/entry/car-ux-design)
+  * 우당 문556.11-박57ㅈ
   * [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
 * (NOT YET) [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
+  * 한라 511.1813-스884ㅇ 우당 문181.3-스833ㅇ
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
@@ -349,6 +351,7 @@ Book
 * (NOT YET) [십 대를 위한 정치 사전](https://www.hankyung.com/life/article/202208102679Y)
 * (NOT YET) [오십, 나는 이제 다르게 읽는다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298038671)
 * (NOT YET) [차이나 쇼크 한국의 선택](https://www.hankyung.com/life/article/202208104083Y)
+  * 한라 340.912-한83ㅊ 우당 문340.912-한813ㅊ
 * (NOT YET) [마음은 단단하게 인생은 유연하게](https://www.gilbut.co.kr/book/view?bookcode=BN003483)
 * (NOT YET) [알고 있다는 착각](https://www.facebook.com/kichul.kim.75/posts/pfbid05iZzs8vpLLAZQdY3rSy3zytvCd4otheXFatUyfcz65zcYc2aZu1QszbVg8ExX6s3l)
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
@@ -358,6 +361,7 @@ Book
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
 * (NOT YET) [C레벨의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300705957)
+  * 탐라
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * 우당 문331.5412-윈833ㅅ
 * (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
@@ -365,8 +369,11 @@ Book
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
+  * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
 * (NOT YET) 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
+  * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
+  * 한라 367.43-골27ㅇ 우당 문367.431-골228ㅇ
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
   * 탐라 문594.392-로31ㅇ
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
@@ -376,7 +383,6 @@ Book
   * [반도체 1등을 노리는 중국, 우리에게 위협이 되나? f.권석준 교수 압권 6화 2부 - YouTube](https://www.youtube.com/watch?v=eUFzit_VBNY)
   * [일본, 기술력의 함정에 빠지다 f.권석준 교수 압권 : 반도체 삼국지 1부 - YouTube](https://www.youtube.com/watch?v=QEeoHddvE6Q)
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
-  * 우당
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
@@ -384,6 +390,7 @@ Book
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
 * (NOT YET) [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
+  * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
