@@ -2409,6 +2409,9 @@ Programming Books
   * 한라 325.345-도56ㅁ
   * [무엇이 성과를 이끄는가?](https://brunch.co.kr/@azafa/418)
 * (NOT YET) [한계 없음](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300680034)
+  * 탐라 문325.1-슬237ㅎ
+  * [증폭 경영 핵심 프로세스 5단계](https://www.linkedin.com/posts/%EA%B8%88%EC%9A%B1-%EC%84%9C-30013b8_%EC%A0%80%EC%9E%90%EC%9D%B8-%ED%94%84%EB%9E%AD%ED%81%AC-%EC%8A%AC%EB%A3%A8%ED%8A%B8%EB%A7%8C%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%82%98%EC%9A%B0-%EC%8A%A4%EB%85%B8%EC%9A%B0%ED%94%8C%EB%A0%88%EC%9D%B4%ED%81%AC-%EB%93%B1%EC%9D%98-%ED%9A%8C%EC%82%AC%EB%93%A4%EC%9D%84-activity-6997179572064591872-gN3m/)
+    * 첫째, 기준을 높여라. 둘째, 기업과 조직문화를 정렬하라. 셋째, 초점을 좁혀라. 넷째, 속도를 올려라. 다섯째, 전략을 전환하라.
 * (NOT YET) [피터 드러커의 <경영과 세계 경제>를 읽고](https://brunch.co.kr/@graypool/597)
 * (NOT YET) [피터 드러커 자기경영노트](https://blog.naver.com/myway855/221791603776)
   * 탐라 문325.211-드233ㅍ
