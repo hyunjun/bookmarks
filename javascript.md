@@ -2888,6 +2888,7 @@ Javascript
   * 앞의 설명에 비하면 힙 덤프를 비교해서 찾는 과정은 간단해서 더 자세히 설명했으면 좋겠지만
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 * [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
+* [High Performance Node.js Powered by Rust and WebAssembly - YouTube](https://www.youtube.com/watch?v=9GMU5vT866I)
 * [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
 * [An Introduction to Multithreading in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
