@@ -81,6 +81,7 @@ Python
     * [talks/subinterpreters.pdf at main · vstinner/talks](https://github.com/vstinner/talks/blob/main/2021-PyconUS/subinterpreters.pdf)
   * [Python Software Foundation News: The 2022 Python Language Summit: Python without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
     * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
+  * [올바르게 GIL 이해하기 - 바이트코드와 쓰레드 안정성](https://blog.naver.com/pjt3591oo/222926625510)
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
     * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
