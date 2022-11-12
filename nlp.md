@@ -360,6 +360,7 @@ NLP
 * [NLU 중심의 연구를 하고있는 AI팀이 일하는 방법. 원티드 서비스를 이용하다 보면 한 번쯤은 AI 기능은 누가, 어떻게… | by Myounghee jang | 원티드 제품 팀블로그 | Apr, 2022 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C-ai%ED%8C%80%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-5292e6220f1b)
 * [2022 Hugging Face & ETH Typical decoding for Natural Language - YouTube](https://www.youtube.com/watch?v=1_xw30L31n8)
 * [자연어 처리](https://velog.io/@djarkdud27/NLP-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
+* [딥러닝 공개 모델 활용 정보 수집 효율화 | Pega Devlog](https://jehyunlee.github.io/2022/11/11/Python-DS-120-eost2022/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
