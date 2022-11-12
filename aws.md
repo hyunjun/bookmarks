@@ -1828,6 +1828,18 @@ AWS
     * 자주 바뀌는 애플리케이션에서는 SSM 파라미터 스토어에서 서브넷 정보를 가져와서 사용하는 방법 설명
   * 같은 방식은 S3나 VPC 엔드포인트에서도 활용 가능
 * [테라폼으로  AWS 미니 랜딩존 구축-2022](https://brunch.co.kr/@topasvga/2797)
+* [(Start) 1. 테라폼-AWS-설치](https://brunch.co.kr/@topasvga/2752)
+* [2. 테라폼-AWS- userdata 사용해 웹서버](https://brunch.co.kr/@topasvga/2753)
+* [3. 테라폼-AWS-코드와  형상이 다른 경우](https://brunch.co.kr/@topasvga/2754)
+* [4. 테라폼-AWS-VPC, data사용.보안그룹](https://brunch.co.kr/@topasvga/2762)
+* [5. 테라폼-AWS-오토스케일링](https://brunch.co.kr/@topasvga/2763)
+* [6. 테라폼-AWS-로드밸런서](https://brunch.co.kr/@topasvga/2764)
+* [7. 테라폼-AWS-테라폼 상태관리](https://brunch.co.kr/@topasvga/2768)
+* [8. 테라폼-AWS-DEV,STG 환경에서 백엔드 적용](https://brunch.co.kr/@topasvga/2769)
+* [9. 테라폼-AWS-상태 파일 격리-워크 스페이스](https://brunch.co.kr/@topasvga/2782)
+* [10. 테라폼-AWS-상태 파일 격리-파일 레이아웃](https://brunch.co.kr/@topasvga/2783)
+* [테라폼으로  AWS 미니 랜딩존 구축-2022](https://brunch.co.kr/@topasvga/2797)
+* [테라폼-AWS-네트워크 구축하기 예제](https://brunch.co.kr/@topasvga/2798)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
