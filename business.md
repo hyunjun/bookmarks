@@ -1072,7 +1072,7 @@ Business
 * [피드백의 핵심은 ‘솔직함’이 아니에요 - YouTube](https://www.youtube.com/watch?v=zLJD5ycwn3U)
 * [저처럼 답을 잘 모르는 팀장은 피드백하면 안 되나요?](https://brunch.co.kr/@seanpang/43)
 * [인퓨처컨설팅 & 유정식 직원에게 피드백하지 마라. '조언'하라](https://infuture.kr/1783)
-* [부정적 피드백을 쓸모 있게 만드는 3가지 전략ㅣ인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/222882076025)
+* [부정적 피드백을 쓸모 있게 만드는 3가지 전략ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222882076025)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
