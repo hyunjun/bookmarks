@@ -895,6 +895,7 @@ Java
 # Java19
 * [자바19에 추가될 핵심 기능 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/238814)
 * [JDK 19 and JDK 20: What We Know So Far](https://www.infoq.com/news/2022/09/java-19-so-far/)
+* [To Java 19 and Beyond - YouTube](https://www.youtube.com/watch?v=Hd0WESDRRJw)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
