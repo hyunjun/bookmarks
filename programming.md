@@ -3222,6 +3222,7 @@ Programming
     * 사용자와 웹사이트 제공자와 상관없이 Meta가 사용자의 모든 것을 모니터링 가능
   * [인스타그램/페북은 인앱브라우저에서 하는 모든 일을 추적가능합니다 | GeekNews](https://news.hada.io/topic?id=7170)
 * [Phylum Discovers Dozens More PyPI Packages Attempting to Deliver W4SP Stealer in Ongoing Supply-Chain Attack](https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack)
+* [Webhooks(웹훅) 시스템 체크리스트 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/86)
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
