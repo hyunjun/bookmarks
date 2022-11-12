@@ -130,10 +130,6 @@ AWS
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [Clare Liguori on Automating Safe and “Hands-Off” Deployments at AWS - YouTube](https://www.youtube.com/watch?v=4yA8-E-vdf4)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
-* [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
-* [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
-* [AWS Cognito 로 앱 로그인 구현을 준비하기 # UserPool](https://developer88.tistory.com/343)
-* [Use Amazon Cognito to add claims to an identity token for fine-grained authorization | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/use-amazon-cognito-to-add-claims-to-an-identity-token-for-fine-grained-authorization/)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)
 * [코드로 인프라 관리하기 GamesOnAWS 2019.pptx - Google Drive](https://drive.google.com/file/d/1Bsc5hic_p8nNfGTSa8Dz4UXx49PVFOd4/view)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
@@ -603,6 +599,13 @@ AWS
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
+
+# Cognito
+* [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
+* [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
+* [AWS Cognito 로 앱 로그인 구현을 준비하기 # UserPool](https://developer88.tistory.com/343)
+* [Use Amazon Cognito to add claims to an identity token for fine-grained authorization | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/use-amazon-cognito-to-add-claims-to-an-identity-token-for-fine-grained-authorization/)
+* [Amazon Cognito로 빠르게 인증 체계 만들기 | 와탭 블로그](https://www.whatap.io/ko/blog/117/)
 
 # Comprehend
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
