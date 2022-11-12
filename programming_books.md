@@ -3334,6 +3334,10 @@ Programming Books
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
   * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
+* (NOT YET) 이펙티브 소프트웨어 테스팅
+  * [Effective Software Testing: A Developer's Guide, by Maurício Aniche](https://www.effective-software-testing.com/)
+  * [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
+  * [effective-software-testing/code: The code examples of the "Effective Software Testing: A Developer's Guide" book](https://github.com/Effective-software-testing/code)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
