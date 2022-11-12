@@ -156,6 +156,8 @@ Programming Language
 * [Green Vs. Brown Programming Languages - Earthly Blog](https://earthly.dev/blog/brown-green-language/)
 * [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
 * [Safety - by Jeff Schwab - Deeply Nested](https://nested.substack.com/p/safety) memory safety, c++ rust go
+* [NSA Releases Guidance on How to Protect Against Software Memory Safety Issues > National Security Agency/Central Security Service > Article](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/)
+  * [CSI_SOFTWARE_MEMORY_SAFETY.PDF](https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF)
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * ["틈새를 파고든다" 새로운 프로그래밍 언어 11선 - ITWorld Korea](https://www.itworld.co.kr/news/236219)
 * [Top 10 Weirdest Programming Languages in Use in 2022](https://www.analyticsinsight.net/top-10-weirdest-programming-languages-in-use-in-2022)
