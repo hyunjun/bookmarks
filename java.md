@@ -2065,6 +2065,7 @@ Java
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
   * [DbUnit 적용해보기 예제코드](https://github.com/woowa-kwon/dbunit)
+* [jqwik](https://jqwik.net/)
 * JUnit
   * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
   * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
