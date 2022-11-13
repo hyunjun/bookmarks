@@ -272,6 +272,9 @@ Book
   * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://github.com/hyunjun/bookmarks/blob/master/books/pixar_storytelling.md)
   * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙. 위대한 스토리는 위대한 소설이나 연극,영화, TV에만 필요한 것이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99-c50946f032a6)
   * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://jh4hj.tistory.com/entry/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99)
+* [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
+  * ★★★☆☆ 2022.11.13
+  * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -390,8 +393,6 @@ Book
 * (NOT YET) [반대의 놀라운 힘](https://post.naver.com/viewer/postView.naver?volumeNo=28399123)
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
-* (NOT YET) [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
-  * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
