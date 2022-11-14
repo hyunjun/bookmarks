@@ -840,6 +840,7 @@ Scala
   * [Journey of Implicits in Scala — part 3 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-3-963f824ad9ba)
   * [Scala & the Three Implicits | Medium](https://murraytodd.medium.com/scala-the-three-implicits-4fa68e9eb397)
   * [Implicit vs Scala 3's Given - Alexandru Nedelcu](https://alexn.org/blog/2022/05/11/implicit-vs-scala-3-given/)
+  * [Implicit parameters, when to use them (or not)!](https://www.slideshare.net/JulienTruffaut/implicit-parameters-when-to-use-them-or-not)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
