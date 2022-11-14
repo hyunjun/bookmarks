@@ -2906,6 +2906,7 @@ Javascript
 * [Don’t worry, Nobody is Replacing Node, not Even Bun and Even less Deno | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/dont-worry-nobody-is-replacing-node-js-not-even-bun-and-even-less-deno-4e7148cff78)
 * [Minimize Heap Allocations in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 * [The new test framework built-in to Node.js 18.8.0 | by David Herron | Sep, 2022 | ITNEXT](https://itnext.io/the-new-test-framework-built-in-to-node-js-18-8-0-1d78315ac9f9)
+* [New features in Node.js 18. Introduction | by 20ce108_20ce112_20ce158 | Oct, 2022 | Medium](https://medium.com/@20ce_108_112_158/new-features-in-node-js-18-f187388ec618)
 * [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
   * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
 * [6 Major Features of Node.js 19. Details of Node.js 19 new features… | by Jennifer Fu | Oct, 2022 | Better Programming](https://betterprogramming.pub/6-major-features-of-node-js-19-b98e28b9670c)
