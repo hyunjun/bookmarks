@@ -1332,6 +1332,8 @@ App
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
 * [VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon](https://github.com/insidegui/VirtualBuddy)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
+* [Warp: The terminal for the 21st century](https://www.warp.dev/)
+  * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
 
