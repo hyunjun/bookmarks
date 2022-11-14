@@ -118,6 +118,7 @@ Programmer
   * 다른 팀에서 엔지니어를 빌림
 * [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기 | Evans Library](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
 * [F-Lab이 생각하는 좋은 멘토의 모습 - F-Lab](https://blog.f-lab.kr/2021/09/30/what-is-good-mentor.html) mentor
+* [쿠팡 엔지니어링의 멘토십 프로그램. 직원의 성장을 돕는 사내 멘토십 프로그램을 소개합니다 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Oct, 2022 | Medium](https://medium.com/coupang-engineering/%EC%BF%A0%ED%8C%A1-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%98-%EB%A9%98%ED%86%A0%EC%8B%AD-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-7ea814e1eef2)
 * [인프런 수습 회고](https://jojoldu.tistory.com/612) 개발팀이 개발만 하면 망한다
 * [Celebrating Grace Hopper and the Origins of Debugging | Bugsnag Blog](https://www.bugsnag.com/blog/celebrating-grace-hopper-and-the-origins-of-debugging)
 * [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
