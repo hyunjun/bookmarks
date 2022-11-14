@@ -270,6 +270,7 @@
 * [코틀린with,run,let,apply,also](https://brunch.co.kr/@mystoryg/151) 범위 지정 함수
 * [Nullable (Feat. Kotlin, C#) - 엘키의 주절 주절](https://elky84.github.io/2022/09/18/nullable/)
 * [Execute Shell Commands in Java/Scala/Kotlin - Alexandru Nedelcu](https://alexn.org/blog/2022/10/03/execute-shell-commands-in-java-scala-kotlin/)
+* [Is Kotlin’s Destructuring Useful? | by Renee Vandervelde | ReadySet.build](https://readyset.build/is-destructuring-useful-5b6cf32307d2)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
