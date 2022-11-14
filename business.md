@@ -1162,6 +1162,8 @@ Business
 * [당신의 아이디어가 쓸만해지기 위해 필요한 6가지](http://ppss.kr/archives/48508)
 * [컨설턴트의 스웨그를 느껴보자](https://ppss.kr/archives/201528) 컨설턴트가 사용하는 방법론에 대한 이야기, OPE, SOP, VSM 등
 * [Need business ideas? Watch out for unbundlings – Jakob Greenfeld – Health, Wealth, Happiness](https://jakobgreenfeld.com/unbundlings)
+* [Keep ’Em Coming: Why Your First Ideas Aren’t Always the Best | Stanford Graduate School of Business](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
+  * [Keep 'Em Coming: 첫번째 아이디어가 최고가 아닌 이유 | GeekNews](https://news.hada.io/topic?id=7810)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
