@@ -298,7 +298,9 @@ Network
   * `curl ifconfig.co`
 * ifconfig.me [What Is My IP Address? - ifconfig.me](https://ifconfig.me/)
 * [ipify - A Simple Public IP Address API](https://www.ipify.org/)
-* IPinfo.io[Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
+* IPinfo.io [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
+* [IPv4](https://ipv4.dev.sarl/)
+  * [Map of the Internet - 인터넷 지도 | GeekNews](https://news.hada.io/topic?id=7808)
 
 # Library
 * [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
