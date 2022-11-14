@@ -868,6 +868,8 @@ Book
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)
 * (NOT YET) [수학은 어떻게 무기가 되는가](https://sensio.tistory.com/114)
 * (NOT YET) [수학의 이유 : 수학은 현대 사회를 어떻게 지탱하는가](https://mkstyle.tistory.com/2725)
+* (NOT YET) [미치도록 기발한 수학 천재들](https://brunch.co.kr/@paulquinn/16)
+  * 탐라 문410.99-송34ㅁ
 
 # Murakami Haruki
 * [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)
@@ -1062,6 +1064,8 @@ Book
 * (NOT YET) [물고기는 존재하지 않는다 - YouTube](https://www.youtube.com/watch?v=wqKmGB2KZxw)
   * 한라 490.99-밀294ㅁ 탐라 문490.99-밀233ㅁ 우당 문490.99-밀233ㅁ
 * (NOT YET) [박테리아에서 바흐까지, 그리고 다시 박테리아로](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302982694)
+* (NOT YET) [그림으로 읽는 서양과학사](https://www.hellodd.com/news/articleView.html?idxno=96197)
+  * 탐라 문409-김53ㄱ
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
