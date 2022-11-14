@@ -782,6 +782,7 @@ Business
 * [매경경영지원본부 칼럼 최근 채용을 잘하는 회사의 5가지 특징](https://v.daum.net/v/20221024085100367)
 * [Startup Engineering Hiring Anti-Patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
 * [인재의 유치(Acquisition)보다 중요한 유지(Retention)](https://www.linkedin.com/posts/heejung-cho-97378130_smpsqtswhqzcslh-talentrxgqystmiqzcuqmrditrztymukqqviuqmsmc-activity-6995025203235864576-9P2d/)
+* [꿈이 없다는 것이 불행은 아니다](https://brunch.co.kr/@wonjoonlee/7) 인재
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -2079,6 +2080,7 @@ Business
 * ['한국판 구글'... 수천억 자산가들이 줄 서서 기다리는 미친 잠재력 - YouTube](https://www.youtube.com/watch?v=tDVhGYDyOhU)
 * [시가 총액의 89% 가 증발, 트윌리오와 B2B 스타트업 매출 총이익 관리의 중요성 - Kimchi hill](https://kimchihill.com/2022/11/10/twilio-and-importance-of-gross-margin/)
 * [미국의 배달의민족 DoorDash에 대한 세 가지 이야기](https://blog.naver.com/bizucafe/222925791474)
+* [한기용 - 스타트업 성장통: 나보다 똑똑한 사람을 뽑고 그 사람을 성공으로 이끌 수 있는가?](https://www.linkedin.com/posts/activity-6997403417153351680-xJE4/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
