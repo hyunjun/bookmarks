@@ -736,7 +736,7 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍처 이론과 실제 4/e | 에이콘출판사](http://acornpub.co.kr/book/swarchitect-4e)
   * 탐라 문005.12-베58ㅅ
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
-  * 탐라
+  * 탐라 문005.12-호843ㅅ
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
   * 탐라
 
@@ -2096,6 +2096,7 @@ Programming Books
   * 한라 005.133-모57ㅇ 탐라 문005.133-모58ㅇ 우당 문005.133-모58ㅇ
 * (NOT YET) [코틀린 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-kotlin)
   * 한라 005.13-토294ㅋ
+* (NOT YET) [자바에서 코틀린으로](https://www.hanbit.co.kr/store/books/look.php?p_code=B8465247545)
 
 # Linux
 
@@ -2458,6 +2459,8 @@ Programming Books
   * 우당 문325.23-모58ㅈ
 * (NOT YET) [세상에 모든 창업가가 묻고 싶은 질문들 : 하버드 MBA 스타트업 수업](https://www.linkedin.com/posts/%EA%B8%88%EC%9A%B1-%EC%84%9C-30013b8_%EC%9D%B4-%EC%B1%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EB%B6%80%EB%B6%84%EC%9D%80-%EC%8B%A4%ED%8C%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%98%EB%A6%84%EC%9D%98-%EB%AA%85%ED%99%95%ED%95%9C-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A0%9C%EC%8B%9C%ED%95%98%EA%B3%A0-activity-6994998047478865920-re0l/)
   * 한라 325.21-아68ㅅ 탐라 문325.21-아69ㅅ 우당 문325.21-아69ㅅ
+* (NOT YET) [피터 드러커 일의 철학](https://www.cbmc.or.kr/bbs/board.php?bo_table=book&wr_id=64)
+  * 탐라 문325.24-드233ㅇ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
