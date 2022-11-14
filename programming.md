@@ -3355,6 +3355,7 @@ Programming
   * [DevOps Roadmap 2022 | GeekNews](https://news.hada.io/topic?id=7747)
 * [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 * [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
+* [DevOps엔지니어가 반드시 배워야 할 기술](https://brunch.co.kr/@topasvga/2803)
 * [What do you do as a DevOps?](https://ilhicas.com/2019/08/11/What-you-as-a-Devops.html)
   * [DevOps 는 어떤 일을 하나요? | GeekNews](https://news.hada.io/topic?id=432)
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
@@ -3463,6 +3464,7 @@ Programming
 * [Top 5 DevOps Skills You Need To Succeed | ReviewNPrep](https://reviewnprep.com/blog/top-5-devops-skills-you-need-to-succeed/)
 * [193 Easy Steps to DevOpsing Your Monolith • Cat Swetel • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=0YOHHTjBOgQ)
 * [Let's Talk DevOps | Secure SDLC | Akshay Pk in Tamil - YouTube](https://www.youtube.com/watch?v=AKp2nz1rCAU)
+* [DevOps Real Time Scenarios | DevOps Real Time Issues - YouTube](https://www.youtube.com/playlist?list=PL8WTXLSrtyWo5qTkjyLoHn2BQ-5_N6smF)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
