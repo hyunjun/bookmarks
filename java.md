@@ -1792,6 +1792,7 @@ Java
   * [10. Spring Batch 가이드 - Spring Batch 테스트 코드](https://jojoldu.tistory.com/455)
   * [10.1. Spring Batch 단위 테스트 코드 - Reader 편](https://jojoldu.tistory.com/456)
 * [Spring Batch ItemWriter 성능 비교](https://jojoldu.tistory.com/507)
+* [Spring Batch 업데이트 성능 최적화 및 분석 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-batch-update-performance/)
 * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
 * [파일럿 프로젝트를 통한 배치경험기!](http://woowabros.github.io/experience/2019/03/31/pilot-batch.html)
 * [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
