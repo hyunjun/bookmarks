@@ -635,6 +635,8 @@ Business
 * [여행정보 서비스가 흥하기 어려운 이유](https://yslab.kr/81)
 * [Funnel을 마케팅 말고 engagement 분석에?](https://brunch.co.kr/@graypool/649)
 * [코스트코는 왜 유통의 문법과 모조리 반대일까? - YouTube](https://www.youtube.com/watch?v=W9SrFrsibvo)
+* [Gartner Identifies 7 Technology Disruptions That Will Impact Sales Through 2027](https://www.gartner.com/en/newsroom/press-releases/2022-10-10-gartner-identifies-seven-technology-disruptions-that-will-impact-sales-through-2027)
+  * [가트너가 선정한 2027년까지 Sales에 영향을 미칠 7가지 기술 혁신들 | GeekNews](https://news.hada.io/topic?id=7787)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
