@@ -1939,6 +1939,7 @@ NLP
 * [이렇게 사용하세요! AI 음성인식 API로 음성 변환 서비스 쉽게 만들 (CLOVA Speech Recognition, CSR)](https://blog.naver.com/n_cloudplatform/222583556230)
 * [Neural Instrument Cloning from very few samples](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6)
 * [NDC22 "선생님과 눈을 맞추고 이름을 불러주는 '아로나' 만들기"](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151132)
+* [Building a highly accurate Speech to Text API supporting dozens of languages with Python and Whisper | by Adriel | Slid | Nov, 2022 | Medium](https://medium.com/slid/building-a-highly-accurate-speech-to-text-api-supporting-dozens-of-languages-with-python-and-1ba0312fa770)
 * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/drive/1g8TYPv9sy4usQsHSB7tm8OiB6Q6gO0VE?usp=sharing)
   * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/05bcd18509affd900308c63857f930db/asr_whisper_korea_colab.ipynb)
   * OpenAI에서 공개한 Transformer 기반 다국어 음성인식모델(ASR, STT) Whisper 모델을 colab에서 한국어 음성에 맞춰 쉽게 돌려볼 수 있는 코드
