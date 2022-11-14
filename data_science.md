@@ -88,6 +88,7 @@ Data Science
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
 * [Analytics Engineer 란? (Feat. Modern Data Stack)](https://myjorney.tistory.com/entry/Analytics-Engineer-%EB%9E%80-Feat-Modern-Data-Stack)
 * [Analytics Engineer 란? (Feat. Modern Data Stack)](https://blog.doosikbae.com/entry/Analytics-Engineer-%EB%9E%80-Feat-Modern-Data-Stack)
+* [Coalesce 2022 New Orleans 후기 - Analytics Engineering 그리고 Modern DataStack](https://blog.doosikbae.com/entry/Coalesce-2022-New-Orleans-%ED%9B%84%EA%B8%B0-Analytics-Engineering-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Modern-DataStack)
 * [Data Engineering Principles - Build frameworks not pipelines - Gatis Seja - YouTube](https://www.youtube.com/watch?v=pzfgbSfzhXg)
 * [Live Data Demo – Practical Pipelines - YouTube](https://www.youtube.com/watch?v=7GXuQjp_AcY)
 * [**How The Modern Data Stack Is Reshaping Data Engineering | Preset - Blog | Preset**](https://preset.io/blog/reshaping-data-engineering/)
@@ -166,6 +167,7 @@ Data Science
 * [기획특집 ‘창고’와 ‘호수’를 넘어서는 데이터 레이크하우스](http://www.itdaily.kr/news/articleViewAmp.html?idxno=208876) lakehouse
 * [‘일관성·유연성’ 덕에 각광… 데이터 레이크하우스 활용 사례 - CIO Korea](https://www.ciokorea.com/news/244060)
 * [What is a Data Fabric?. How to realize modern Data Management | by Christianlauer | Aug, 2022 | Medium](https://christianlauer90.medium.com/what-is-a-data-fabric-c825ce8da0a1)
+* [Data Warehouse vs. Data Lake vs. Data Fabric | by Christianlauer | Nov, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-lake-vs-data-fabric-b264dc02228b)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
