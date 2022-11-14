@@ -528,6 +528,7 @@ Javascript
 * [You don't need that CORS request - Nick Olinger](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
 * [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
 * [출처가 다른 윈도우 간에는 데이터를 어떻게 통신할까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220831) CORS `document.domain`의 `setter` 지원 중단
+* [CORS가 캐시를 만났을 때 | 요즘IT](https://yozm.wishket.com/magazine/detail/1782/)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -3365,6 +3366,7 @@ Javascript
 * [Why Does useEffect run Two Times ? | useEffect | React 18 - YouTube](https://www.youtube.com/watch?v=Vw0BJ3XB3dM)
 * [React useEffect / clean-up 함수 알아보기](https://velog.io/@kkyu0718/React-useEffect-clean-up-%ED%95%A8%EC%88%98-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 * [React, Firebase를 이용한 다이어리 사이트를 만들어보며...](https://hamsoter.tistory.com/5) useEffect
+* [Replace useEffect for API calls with React Query | React Query Setup + Example | ReactJS Tutorial - YouTube](https://www.youtube.com/watch?v=NL-sOhe46Eg)
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
 * [React Axios CRUD with JSON SERVER | ReactJS Axios REST API | React Tutorials for Beginners - YouTube](https://www.youtube.com/watch?v=_lCVq5m5XpQ)
