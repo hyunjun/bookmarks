@@ -1933,6 +1933,7 @@ Docker
 * Velero
   * [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
   * [NKS: 복제 기능 소개 : NHN Cloud Meetup](https://meetup.toast.com/posts/329)
+  * [(1) How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
 * [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 * [Volcano](https://github.com/volcano-sh)
