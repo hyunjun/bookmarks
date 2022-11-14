@@ -409,6 +409,7 @@ Data Science
 * [빅데이터로 살펴본 '택시대란' : (2) 공급편](https://report.kakaomobility.com/taxi-problem-with-big-data-supply)
 * [빅데이터로 살펴본 '택시대란' : (3) 종합편](https://report.kakaomobility.com/taxi-problem-with-big-data-ending)
 * [컬리는 물류 최적화 문제를 어떻게 풀고 있을까? - 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/logistics-optimization-1/)
+* [컬리는 물류 최적화 문제를 어떻게 풀고 있을까? - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/logistics-optimization-2/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
