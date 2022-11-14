@@ -1164,6 +1164,7 @@ Business
 * [Need business ideas? Watch out for unbundlings – Jakob Greenfeld – Health, Wealth, Happiness](https://jakobgreenfeld.com/unbundlings)
 * [Keep ’Em Coming: Why Your First Ideas Aren’t Always the Best | Stanford Graduate School of Business](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
   * [Keep 'Em Coming: 첫번째 아이디어가 최고가 아닌 이유 | GeekNews](https://news.hada.io/topic?id=7810)
+* [세상에 없던 아이디어에 함부로 꽂히면 안 되는 이유](https://contents.premium.naver.com/saramin/waytowork/contents/221110175233168ng)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -1538,6 +1539,7 @@ Business
 * [마크 저커버그와 마리사 메이어의 평행이론 - 티타임즈](https://www.ttimes.co.kr/article/2022111018177781467)
 * ["그저 요구를 들어주는 접근법 아니다"··· 서번트 리더십 'Do & Don't' - CIO Korea](https://www.ciokorea.com/ciostory/244842) servant leadership
 * [직장생존을 위한 비즈니스 괜찮은 리더 없나요 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/08/13/good-leader/)
+* [대체, 보고(報告)는 왜 하는 걸까?](https://brunch.co.kr/@matigevic/17) design thinking
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

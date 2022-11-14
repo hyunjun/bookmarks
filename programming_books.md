@@ -3237,6 +3237,12 @@ Programming Books
   * [이펙티브 엔지니어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/effective_engineer.md)
   * [이펙티브 엔지니어. 1부 올바른 마인드셋을 갖춰라 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-97392783c051)
   * [이펙티브 엔지니어](https://jh4hj.tistory.com/entry/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)
+* [KODE VICIOUS 개발 지옥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300238581)
+  * ★★★★☆ 2022.10.27
+  * 한라 005.104-네48ㄱ
+  * [KODE VICIOUS](https://github.com/hyunjun/bookmarks/blob/master/programming_books/kode_vicious.md)
+  * [KODE VICIOUS. CHAPTER 1 손 안의 코드 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/kode-vicious-69b31fc82f3a)
+  * [KODE VICIOUS](https://jh4hj.tistory.com/entry/KODE-VICIOUS)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
@@ -3249,8 +3255,6 @@ Programming Books
 * (NOT YET) [리팩토링 HTML | 에이콘출판사](http://acornpub.co.kr/book/refactoring-html)
 * (NOT YET) [리팩토링 자바스크립트](https://velog.io/@devgosunman/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%B4%EB%9E%80)
   * 한라 005.138-버82ㄹ
-* (NOT YET) [KODE VICIOUS 개발 지옥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300238581)
-  * 한라 005.104-네48ㄱ
 * (NOT YET) [클린 코더 (단순 기술자에서 진정한 소프트웨어 장인이 되기까지)](https://joosjuliet.github.io/clean_code/)
   * 한라 005.1-마888ㅋ
 * (NOT YET) [소트웍스 앤솔러지: 소프트웨어 기술과 혁신에 관한 에세이 | 위키북스](https://wikibook.co.kr/thoughtworks-anthology/)

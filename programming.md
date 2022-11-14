@@ -28,6 +28,7 @@ Programming
 * [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
 * [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
@@ -5095,6 +5096,7 @@ Programming
 * [Why is Robot Framework Important in QA AutomationTesting?](https://volansys.com/blog/robot-framework-in-qa-automation-testing/)
 * [회사에서 TDD 쓰려다 실패한 후기](https://velog.io/@skynet/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-TDD-%EC%93%B0%EB%A0%A4%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%95%9C-%ED%9B%84%EA%B8%B0)
 * [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
+* [Simple testing can prevent most critical failures | the morning paper](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/) 단순한 테스트가 대부분의 끔찍한 실패를 예방한다
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
