@@ -275,6 +275,9 @@ Book
 * [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
   * ★★★☆☆ 2022.11.13
   * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
+  * [리프트오프](https://github.com/hyunjun/bookmarks/blob/master/books/liftoff.md)
+  * [리프트오프. 1 초창기 EARLY YEARS 2000년 9월~2004년 12월 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%98%A4%ED%94%84-8f4fa98c831b)
+  * [리프트오프](https://jh4hj.tistory.com/entry/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%98%A4%ED%94%84)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
