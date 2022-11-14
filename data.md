@@ -67,6 +67,7 @@ Government
 * [데이터 분석에 필요한 오픈 공공데이터 포털 20가지](https://blog.naver.com/zhangyun123/221963865663)
 * [AI 학습용 텍스트 데이터 모음 | GeekNews](https://news.hada.io/topic?id=3087)
 * [빅데이터 거버넌스(Data Governance)의 정의 및 목적, 그리고 고려사항과 도구들 :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/12)
+* [데이터 거버넌스와 데이터 관리는 어떻게 다를까? (DG의 8단계)](https://www.grownbetter.com/article/201)
 * [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
   * [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
 * [정부 데이터 API를 이용해서 가져오기 - YouTube](https://www.youtube.com/watch?v=eBV6tAfekyw)
