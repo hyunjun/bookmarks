@@ -101,6 +101,7 @@ Julia
 * [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U)
 * [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 * [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
+* [Meet Julia: The Future of Data Science | by Natassha Selvaraj | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/meet-julia-the-future-of-data-science-52414b29ebb)
 * [Apart from the lack of libraries (if compared to Python, for example), is there any reason Julia wouldn't be a good general purpose programming language?](https://www.quora.com/Apart-from-the-lack-of-libraries-if-compared-to-Python-for-example-is-there-any-reason-Julia-wouldnt-be-a-good-general-purpose-programming-language)
 * [Bisection method - 1](https://otter275.tistory.com/18) 수치적 방법으로 방정식의 해를 근사적으로 찾는 iterative method중 가장 간단한 알고리즘
 * [줄리아 언어로 구현 해 보는 Bisection method - 1](https://velog.io/@otter275/%EC%A4%84%EB%A6%AC%EC%95%84-%EC%96%B8%EC%96%B4%EB%A1%9C-%EA%B5%AC%ED%98%84-%ED%95%B4-%EB%B3%B4%EB%8A%94-Bisection-method-1)
