@@ -3983,6 +3983,8 @@ Javascript
 * [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
   * [리액트, 널 사랑하지만 넌 나를 슬프게 해](https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down)
 * [How to structure a React application that can scale, using local state. | by Alejandro Yanes | Bits and Pieces](https://blog.bitsrc.io/how-to-build-a-scaleable-react-application-992137939a0b)
+* [React Spinner: Building a React Spinner Component with Bit | by Victor Yakubu | Nov, 2022 | Bits and Pieces](https://blog.bitsrc.io/react-loading-spinner-building-a-react-spinner-component-with-bit-2e028da9c60)
+* [How to encrypt data in React js | data encryption in react | React js Tutorial in Hindi - YouTube](https://www.youtube.com/watch?v=gwBJFuirKi8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
