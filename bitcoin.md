@@ -194,6 +194,7 @@ Bitcoin
 ## Blockchain Go
 * [How to Build a Blockchain from Scratch with Go](https://morioh.com/p/817e68463b9c)
 * [Creating A Basic Blockchain Wallet In Go - YouTube](https://www.youtube.com/watch?v=Yr249lx_-eU)
+* [How to Build a Blockchain from scratch with Go On Linux - YouTube](https://www.youtube.com/watch?v=kQjzmaogXPk)
 
 ## Blockchain Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
