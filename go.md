@@ -339,6 +339,7 @@ Go
   * 하지만 tsc는 작은 버전에도 변경이 많이 발생하고 있고 34만 라인이나 되기 때문에 현실적으로는 이 모두를 재작성하는 것이 어려움
   * 그래서 TypeScript 컴파일러를 입력으로 받아서 Go로 작성된 TypeScript 컴파일러를 출력하는 컴파일러를 생각하게 되어 ts2go를 생각
   * 이렇게 만든 Go 코드에 컴파일 오류가 자주 발생했기 때문에 tsfix라는 Go 자동수정 도구를 만들어서 10만 개가 넘는 컴파일 오류를 1,298개로 감소
+* [Go / Golang e Validation Request - YouTube](https://www.youtube.com/watch?v=xRI4NkLhYmE)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
