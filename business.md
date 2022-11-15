@@ -1194,6 +1194,8 @@ Business
 * [애자일, OKR, 플랫폼… 키워드가 당신을 ‘일잘’로 만들어주진 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233881)
 * [일 잘하는 사람들의 5가지 습관 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244794)
 * [현직자들이 말하는 (뻔하지 않은)일잘러 특징](https://now.rememberapp.co.kr/2021/09/17/14468/) 리더십 이야기는 아님
+* [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
+* [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
