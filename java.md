@@ -677,6 +677,7 @@ Java
 * [IntelliJ (Kotlin) 매 파일마다 newline 자동으로 추가하기 (feat. EditorConfig)](https://jojoldu.tistory.com/673)
 * [Pluu Dev - Lint 작업할 때 쓰면 좋은 도구 UAST/PSI Viewer](https://pluu.github.io/blog/lint/2022/07/09/lint/)
 * [인텔리제이에서 Git 사용하기](https://brunch.co.kr/@jiwonleeqa/259)
+* [@Nullable and @NotNull | IntelliJ IDEA](https://www.jetbrains.com/help/idea/nullable-and-notnull-annotations.html)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -1408,21 +1409,6 @@ Java
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
   * [R2DBC 03 스프링 데이터 R2DBC DatabaseClient](https://javacan.tistory.com/entry/R2DBC-03-Spring-Data-R2DBC-DatabaseClient)
   * [Reactive Systems: Creating Full Reactive Applications with R2DBC - YouTube](https://www.youtube.com/watch?v=3tXeS-mtv_s) MariaDB
-* [Real world mutation testing](http://pitest.org/)
-  * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
-  * 리액티브 프로그래밍
-    * [1부 리액티브 프로그래밍 소개](https://www.youtube.com/watch?v=VeSHa_Xsd2U)
-    * [2부 Flux와 Mono](https://www.youtube.com/watch?v=v0BnqWLxYjQ)
-    * [3부 StepVerifier](https://www.youtube.com/watch?v=iqV5eKjnbFs)
-    * [4. Transform](https://www.youtube.com/watch?v=yaE2jyRdk_I)
-    * [flatMap 보충 학습](https://www.youtube.com/watch?v=sbPFDLZirnw)
-    * [5. Merge](https://www.youtube.com/watch?v=Mu188MJXkh8)
-    * [6부. Request (backpressure, 토비님과 함께)](https://www.youtube.com/watch?v=eZbssAcTem4)
-    * [Backpressure 보충 학습](https://www.youtube.com/watch?v=8hB1C4OCbz0)
-    * [7부 에러 처리](https://www.youtube.com/watch?v=27ugpDCLoG0)
-    * [8부 Adapt](https://www.youtube.com/watch?v=AXwZgh3cAh0)
-    * [9부 기타 등등](https://www.youtube.com/watch?v=cKzwa9kl2Ts)
-    * [10부. 블록킹을 리액티브로 또는 반대로](https://www.youtube.com/watch?v=Bh8vTfO_4CE)
 * [RefactorFirst - This tool for Java codebases will help you identify the God Classes you should refactor first](https://github.com/jimbethancourt/RefactorFirst/blob/main/README.md)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SaltluxLiveStock - 솔트룩스 주식을 실시간으로 라이언이 알려줍니다](https://github.com/MrBananaHuman/SaltluxLiveStock)
@@ -2052,9 +2038,12 @@ Java
 * [The Best Java Testing Frameworks to focus in 2021 - pCloudy](https://www.pcloudy.com/blogs/the-best-java-testing-frameworks-to-focus-in-2021/)
 * [테스트 코드 한 줄을 작성하기까지의 고난 – tech.kakao.com](https://tech.kakao.com/2021/11/08/test-code/)
 * [검증부 (assert / expect)는 하드코딩한다](https://jojoldu.tistory.com/615)
+* [java - When should I use Apache Commons' Validate.isTrue, and when should I just use the 'assert' keyword? - Stack Overflow](https://stackoverflow.com/questions/5049163/when-should-i-use-apache-commons-validate-istrue-and-when-should-i-just-use-th/5452329#5452329)
+* [java - Cobertura coverage and the assert keyword - Stack Overflow](https://stackoverflow.com/questions/4995471/cobertura-coverage-and-the-assert-keyword/6486294#6486294)
 * [메세지의 템플릿 내용 단위 테스트 하기](https://jojoldu.tistory.com/619)
 * [Pragmatic Behavior Driven Development Using Cucumber](https://www.madrascoder.com/tutorials/001-pragmatic-cucumber/) BDD
 * [테스트 대역폭 늘리기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/test-bandwidth/)
+* [**MC/DC coverage - YouTube**](https://www.youtube.com/watch?v=HzmnCVaICQ4) modified condition / decision coverage
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
@@ -2068,6 +2057,9 @@ Java
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
   * [DbUnit 적용해보기 예제코드](https://github.com/woowa-kwon/dbunit)
+* [The Fuzzing Book](https://www.fuzzingbook.org/)
+* [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
+* [Jakarta Bean Validation - Home](https://beanvalidation.org/)
 * [jqwik](https://jqwik.net/)
 * JUnit
   * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
@@ -2089,6 +2081,22 @@ Java
   * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/)
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
   * [효율적인 JUnit 사용 방법과 유용한 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1748/)
+* [Real world mutation testing](http://pitest.org/)
+  * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
+  * 리액티브 프로그래밍
+    * [1부 리액티브 프로그래밍 소개](https://www.youtube.com/watch?v=VeSHa_Xsd2U)
+    * [2부 Flux와 Mono](https://www.youtube.com/watch?v=v0BnqWLxYjQ)
+    * [3부 StepVerifier](https://www.youtube.com/watch?v=iqV5eKjnbFs)
+    * [4. Transform](https://www.youtube.com/watch?v=yaE2jyRdk_I)
+    * [flatMap 보충 학습](https://www.youtube.com/watch?v=sbPFDLZirnw)
+    * [5. Merge](https://www.youtube.com/watch?v=Mu188MJXkh8)
+    * [6부. Request (backpressure, 토비님과 함께)](https://www.youtube.com/watch?v=eZbssAcTem4)
+    * [Backpressure 보충 학습](https://www.youtube.com/watch?v=8hB1C4OCbz0)
+    * [7부 에러 처리](https://www.youtube.com/watch?v=27ugpDCLoG0)
+    * [8부 Adapt](https://www.youtube.com/watch?v=AXwZgh3cAh0)
+    * [9부 기타 등등](https://www.youtube.com/watch?v=cKzwa9kl2Ts)
+    * [10부. 블록킹을 리액티브로 또는 반대로](https://www.youtube.com/watch?v=Bh8vTfO_4CE)
+  * [Mutation operators](https://pitest.org/quickstart/mutators/)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Tutorial
