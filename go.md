@@ -390,6 +390,7 @@ Go
   * [ent. An entity framework for Go](https://entgo.io/) ORM
     * [ent: An entity framework for Go](https://github.com/ent/ent)
   * [genji: Document-oriented, embedded SQL database](https://github.com/genjidb/genji)
+  * [go-dsb: Go - Data Struct Bag](https://github.com/vianaddsv/go-dsb)
   * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
     * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
     * [golang - 인 메모리 DB를 사용하여 RDB를 사용 하는 코드를 단위 테스트(Golang + Gorm를 예로) - jacking75](https://jacking75.github.io/go_unittest_gorm/)
@@ -731,6 +732,8 @@ Go
   * [Building Microapps with gRPC-Web, Go and React. | Alva Labs](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
   * [Writing a Simple gRPC Application in Golang From Scratch | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/writing-a-simple-grpc-application-in-golang-from-scratch-6b70e8688f14)
   * [How to writing a microservice in Golang which communicates over gRPC](https://morioh.com/p/a5cb3c4e1af2)
+  * [twirp: A simple RPC framework with protobuf service definitions](https://github.com/twitchtv/twirp)
+    * [RPC in Go using Twitch's Twirp - TheDeveloperCafe](https://thedevelopercafe.com/articles/rpc-in-go-using-twitchs-twirp-3dcb78ece775)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [gvm: Go Version Manager enables seamless installing and swapping between Go versions with a single command. This tool manages a Go environment for the user by allowing a user to specify which Go version they wish to use and handling all of the steps to install and configure that Go version. GVM also supports installing Go from the official Golang master branch so that you can easily try the next version of Go without waiting for a pre release build](https://github.com/devnw/gvm)
 * [hangulize.org](https://hangulize.org)
@@ -926,6 +929,7 @@ Go
 ## Library PostgreSQL
 * [Golang Connecting to Database Postgresql | Golang Postgresql Tutorial - YouTube](https://www.youtube.com/watch?v=zj12MYTrkdc)
 * [A practical introduction to PostgreSQL in Go (Golang)](https://gosamples.dev/postgresql-intro/)
+* [How to Work With SQL Database In Golang (Fetch, Insert & Paginate Records)](https://morioh.com/p/22a5245f4321)
 * [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
   * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
   * [Pgx: PostgreSQL Driver and toolkit for Go](https://morioh.com/p/36f41b6fd991)
