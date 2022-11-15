@@ -641,6 +641,7 @@ Business
 * [코스트코는 왜 유통의 문법과 모조리 반대일까? - YouTube](https://www.youtube.com/watch?v=W9SrFrsibvo)
 * [Gartner Identifies 7 Technology Disruptions That Will Impact Sales Through 2027](https://www.gartner.com/en/newsroom/press-releases/2022-10-10-gartner-identifies-seven-technology-disruptions-that-will-impact-sales-through-2027)
   * [가트너가 선정한 2027년까지 Sales에 영향을 미칠 7가지 기술 혁신들 | GeekNews](https://news.hada.io/topic?id=7787)
+* [사업개발 도대체 뭐하는 건가요?(feat.현직자 시점) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/businessdevelopment20221115) business development
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
