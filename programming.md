@@ -1827,6 +1827,7 @@ Programming
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * [The BFF Pattern (Backend for Frontend): An Introduction | by Viduni Wickramarachchi | Bits and Pieces](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
+* [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
 * [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/) multi runtime
