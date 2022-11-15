@@ -429,6 +429,7 @@ Network
 * [페이스북 엔지니어링 블로그 번역 QUIC으로 수십억 트래픽을 대응하는 법](https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb)
 * [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
 * [HTTP/3 From A To Z: Core Concepts — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+* [초보개발자 HTTP3 살펴보기. 웹과 관련된 개발을 하고 있는 개발자라면 반드시 HTTP를 들어보고… | by Jaeyeoul Ahn | 월요일 오후 9시 | Nov, 2022 | Medium](https://medium.com/monday-9-pm/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-http3-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-98da26749cb9)
 * [QUIC 버전 1의 RFC 승인 | saturnsoft.net](https://www.saturnsoft.net/network/2021/05/27/quic-rfc9000/)
   * QUIC은 TCP(트랜스미션 컨트롤 프로토콜) 대신 더 빠른 UDP(유저 데이터그램 프로토콜) 사용
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
