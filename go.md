@@ -1071,6 +1071,7 @@ Go
 * [Echo - High performance, minimalist Go web framework](https://echo.labstack.com/)
   * [echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
   * [Create a Simple To-Do App With Go, Echo and Vue.js](https://morioh.com/p/7f21e9e5c06a)
+  * [echo-grpc-triton: Inference API server with echo and gRPC to triton server (golang)](https://github.com/Curt-Park/echo-grpc-triton)
 * [fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
   * [📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers - DEV Community](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
   * [Building APIs in Go beyond Hello World | by Oliver Mascarenhas | Code Uncomplicated | Jan, 2022 | Medium](https://medium.com/code-uncomplicated/building-apis-in-go-beyond-hello-world-5d501d6403de)
