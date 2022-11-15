@@ -893,6 +893,7 @@ Business
 * [직원의 마음을 훔치는 연봉협상 방법 3가지 | 원티드](https://www.wanted.co.kr/events/22_07_s18_b02) 보상 커뮤니케이션
 * [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
 * [평가자에게 당부하고 싶은 것 < 인사관리 < 아티클 < 기사본문 - 월간 인재경영](https://www.abouthr.co.kr/news/articleView.html?idxno=5247)
+* [등급이라는 후광이 착시를 일으킨다! - YouTube](https://www.youtube.com/watch?v=IDvW4Ul1aHI)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
