@@ -2890,7 +2890,15 @@ Python
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
+  * ['기타/tkinter 한꼬집씩만 따라해보기' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%EA%B8%B0%ED%83%80/tkinter%20%ED%95%9C%EA%BC%AC%EC%A7%91%EC%94%A9%EB%A7%8C%20%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EA%B8%B0)
   * [1. tkinter 모듈 시작하기](https://alegruz.imweb.me/blog/?bmode=view&idx=221667)
+  * [2. 위젯에 간단한 오브젝트 생성하기 : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=221692)
+  * [3. tkinter 키 입력 : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=221718&t=board)
+  * [4. 벽돌깨기. 게임 물리 구현하기. : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=222450)
+  * [5. 벽돌깨기. 경쟁적 요소 구성하기. : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=224867)
+  * [6. Cocos2d 입문 : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=243177)
+  * [7. Cocos2d 기초. 키 입력. : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=254750)
+  * [8. Cocos2D 기초. 충돌 판정. : Alegruz](https://alegruz.imweb.me/blog/?bmode=view&idx=263504)
   * [GUI with Python's Tkinter, by Robert Jomar Malate](https://www.youtube.com/watch?v=JrWHyqonGj8)
   * [Learn Tkinter in 20 Minutes](https://www.youtube.com/watch?v=_lSNIrR1nZU)
   * [Learn to Program 20 : TkInter Tutorial](https://www.youtube.com/watch?v=-tbWoZSi3LU)
