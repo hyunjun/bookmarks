@@ -4487,6 +4487,7 @@ Javascript
   * [play-nextjs-mysql-graphql](https://github.com/notlamc/play-nextjs-mysql-graphql)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
+* [Parallx Scrolling Effect in React js | React Parallax Effect With react-parallax-Package - YouTube](https://www.youtube.com/watch?v=robIIDWt6SA)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM](https://preactjs.com/)
