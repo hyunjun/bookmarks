@@ -404,6 +404,7 @@ Interview
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
+    * [Implement LRU Cache | Implement LRU Cache using HashMap & Doubly Linked List | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=efiWbPSinD8)
     * [6 Distributed storage & computing systems interview Q&As | Java-Success.com](https://www.java-success.com/1-overview-distributed-systems/)
     * [Database Sharding: Data Partitioning | 10 Min System Design #database #sharding #systemdesign - YouTube](https://www.youtube.com/watch?v=pf9exB00398)
     * [System Design: Build a Real-World Physical Storage Application | by Nishant Sabharwal | Mar, 2022 | Better Programming](https://betterprogramming.pub/system-design-real-world-physical-storage-application-8859c2415175)
