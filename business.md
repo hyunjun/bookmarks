@@ -425,6 +425,12 @@ Business
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
+* [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
+* [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
+* [현직자들이 말하는 (뻔하지 않은)일잘러 특징](https://now.rememberapp.co.kr/2021/09/17/14468/) 리더십 이야기는 아님
+* [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
+* [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
+* [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
@@ -538,8 +544,6 @@ Business
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 * [조직을 학습곡선의 포트폴리오로 관리하라 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1803) S학습곡선
-* [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
-* [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
 * [지속할 힘을 주는 루틴 만들기 5가지 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245300)
 * [루틴의 힘](https://www.thestartupbible.com/2022/02/power-of-routine.html)
@@ -1193,9 +1197,6 @@ Business
 * [실력만큼 중요한, 일 잘하는 이미지 쌓기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218888)
 * [애자일, OKR, 플랫폼… 키워드가 당신을 ‘일잘’로 만들어주진 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233881)
 * [일 잘하는 사람들의 5가지 습관 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244794)
-* [현직자들이 말하는 (뻔하지 않은)일잘러 특징](https://now.rememberapp.co.kr/2021/09/17/14468/) 리더십 이야기는 아님
-* [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
-* [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
