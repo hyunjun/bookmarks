@@ -5165,6 +5165,7 @@ Programming
   * [katalon studio 툴을 이용한 GUI 테스트 자동화 가이드](https://www.slideshare.net/genycho/korean-gui-test-withkatalonstudio)
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
+* [Robot Framework](https://robotframework.org/)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
   * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
@@ -5183,6 +5184,7 @@ Programming
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
 * [버그는 막을 수 있을까](https://medium.com/@erish/%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B2%84%EA%B7%B8%EB%8A%94-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-1392e6bba933)
 * [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
+* Cucumber [BDD Testing & Collaboration Tools for Teams | Cucumber](https://cucumber.io/)
 * Spock
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
   * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
