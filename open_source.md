@@ -100,6 +100,11 @@ Open Source
     * 전략 3: Databrikc는 초기 Spark 사용자의 질문이나 이슈에 적극적으로 지원
   * 메트릭으로는 Slack 멤버, GitHub 스타 수, 다운로드나 문서의 조회수 사용
   * 1,000명까지 걸린 시간은 CockroachDB는 9개월, Confluent는 6개월이 걸렸고 Databricks와 HashiCrop는 회사를 만들기 전부터 커뮤니티를 시작
+* [Octoverse 2022: The state of open source | The State of the Octoverse](https://octoverse.github.com/)
+  * GitHub가 매년 공개하는 리포터인 Octoverse의 2022년 버전 공개
+  * 다양한 통계가 나와 있는데 큰 트렌드로는 HCL, Shell, Go 언어를 Infrastructure as Code 분야에서 많이 사용
+  * 가장 큰 오픈소스 프로젝트는 빅테크 기업의 상업적 지원
+  * 처음 OSS에 기여하는 사람은 상업적으로 지원받는 프로젝트 선호
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
