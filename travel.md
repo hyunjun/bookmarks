@@ -155,6 +155,7 @@ Travel
 ## Portugal
 * [포르투갈 생태마을 타메라 기행기 | 모든 존재의 평화를 꿈꾸는 실험](http://www.huffingtonpost.kr/wooin-kim/story_b_8268296.html)
 * [포르투갈 여행시 먹어볼 만한 음식들 (사진도 많고 글도 좀 기네요)](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201909080035310131&select=&query=&user=&site=&reply=&source=&sig=h4aRSg-Yi3DRKfX@h-j9Rg-YLmlq)
+* [Awesome Workaction - 데이터 사이언티스트의 워케이션 기록](https://zzsza.github.io/awesome-workaction/)
 
 ## Russia
 * [타임랩스에 담은 모스크바의 아름다움](http://techholic.co.kr/archives/24197)
