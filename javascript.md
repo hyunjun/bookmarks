@@ -816,6 +816,12 @@ Javascript
 * [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [How we Build a Component Library. How we implement a UI component library… | by Jonathan Saring | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131) design system
+* [디자인 시스템, 형태를 넘어서 - Speaker Deck](https://speakerdeck.com/soyoung210/dijain-siseutem-hyeongtaereul-neomeoseo)
+* [**Design System Decision Record | SOSOLOG**](https://so-so.dev/react/design-system-decision-record/)
+  * linear라는 디자인 시스템을 만들면서 했던 고민과 결정을 정리한 글
+  * 유연함을 추구해서 일관성을 위한 제약은 많이 두지 않음
+  * 직관적으로 사용할 수 있도록 Compound Component를 선택
+  * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -2451,6 +2457,15 @@ Javascript
     * Turbopack은 Rust로 작성된 JavaScript/TypeScript 증분 번들러이면서 빌드 시스템
     * Vercel에 따르면 Next.js 13에서 Turbopack을 이용했을 때 700배 빠름
     * Turbopack은 Rust의 증분 메모이제이션 프레임워크인 Turbo에 기반
+  * [Is Turbopack really 10x Faster than Vite? · Discussion #8 · yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8)
+    * Vue.js와 Vite를 만든 Evan You가 Vercel이 새로 Turbopack을 발표하면서 Turbopack이 Vite보다 10배 빠르다고 홍보한 것에 반박 글을 정리
+    * 자세한 벤치마크 내용이 공개되지 않아서 Next.js에서 HMR 성능을 비교해 보았으나 Turbopack이 2배 정도 빠르게 나옴
+    * 이는 Vite가 Bebel을 쓴 경우이고 SWC를 사용한다면 거의 비슷한 결과
+    * 이 글이 올라온 이후 Vercel에서 벤치마크 내용을 공개
+      * Evan You에 따르면 역시 Babel 기반의 Vite와 비교
+        * Turbopack의 15ms는 0.01s로 표시하고 Vite의 87ms는 0.09로 표시
+        * 실제는 6배 정도임에도 10배로 표시
+        * 모듈이 3만 개 일 때 10배의 속도 차이가 나기 때문에 이는 10배를 주장하기 위한 체리피킹이라고 얘기
 * [Turborepo](https://turborepo.org/)
   * [Turborepo로 모노레포 개발 경험 향상하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/monorepo-with-turborepo/)
     * 모노레포를 관리하기 위해 모노레포 도구인 Turborepo 도입
