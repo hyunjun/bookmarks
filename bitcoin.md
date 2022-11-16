@@ -363,6 +363,7 @@ Bitcoin
 # SBT
 * [영혼을 담은 토큰은 어디에 쓸까? - YouTube](https://www.youtube.com/watch?v=4cMfDP1eLkw)
 * [블파스 SBT와 DID 비교 | 함지현 - YouTube](https://www.youtube.com/watch?v=__I5zkWgfKw)
+* [SoulBoundToken 사례 : Learn & Earn을 중심으로 | 윤두식 블파스](https://blockchain101.oopy.io/bcb75a47-4595-44b5-8d4a-42f7815747bf)
 
 # Web3
 * [Defining the Web3 Stack - Nader Dabit - (Next.js Conf 2021) - YouTube](https://www.youtube.com/watch?v=f9XRH7bjV8M)
