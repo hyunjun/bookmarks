@@ -1805,6 +1805,8 @@ Business
   * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 * [피치 덱](https://www.thestartupbible.com/2022/09/the-first-pitch-deck.html) IR은 콩글리시, deck 혹은 pitch deck이 맞음. 숫자가 중요
 * [피치 덱 분석](https://www.thestartupbible.com/2022/10/the-pitch-deck-analytics.html)
+* [VC가 꼽은 가장 훌륭한 IR 장표 7가지 (번역본 포함)](https://www.grownbetter.com/article/193)
+  * 글로벌 스타트업 훌륭한 IR 장표로 Airbnb, Uber, Buffer, Facebook, Front Mattermark, Dwolla 선택. 당시의 IR 장표에 대한 링크도 존재
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
