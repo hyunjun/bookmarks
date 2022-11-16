@@ -1727,6 +1727,7 @@ Java
 * [Spring - ActiveProfilesResolver를 이용하여 Test 코드 실행 시 Spring Profile을 동적으로 주입하기](https://kim-jong-hyun.tistory.com/134)
 * [셀렉트샵에서 예약하기 서비스 개발기. 기존 서비스의 한계 안에서 예약하기 서비스를 개발하며 겪은 해결방법과… | by chrisjune | 29CM TEAM | Sep, 2022 | Medium](https://medium.com/29cm/%EC%85%80%EB%A0%89%ED%8A%B8%EC%83%B5%EC%97%90%EC%84%9C-%EC%98%88%EC%95%BD%ED%95%98%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-f7578ffcfbf7)
 * [**Spring WebClient에서 새어나가는 메모리 잡기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html) OpenTelemetry
+* [포트폴리오용 무료 백엔드 서버 만들기 (Qoddi) - Spring 배포 예제](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9A%A9-%EB%AC%B4%EB%A3%8C-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-Qoddi-Spring-%EB%B0%B0%ED%8F%AC-%EC%98%88%EC%A0%9C)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
