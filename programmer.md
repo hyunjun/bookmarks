@@ -153,6 +153,11 @@ Programmer
 * [FE로 취업하기 전에 알았으면 좋았을 것들 - 코드쓰는사람](https://taegon.kim/archives/10492) 제목과 다르게 개발자들에게 일반적으로 적용할 수 있는 이야기
 * [2022 프로그래머스 개발자 설문조사 | 프로그래머스](https://programmers.co.kr/pages/2022-dev-survey)
   * [2022 프로그래머스 개발자 설문조사 리포트 | GeekNews](https://news.hada.io/topic?id=6305)
+* [Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017/)
+* [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
+  * [스택오버플로우의 개발자 설문조사 2021 | GeekNews](https://news.hada.io/topic?id=4765)
+  * [2021년 개발 트렌드는 과연 어떻게 변화했나? - YouTube](https://www.youtube.com/watch?v=nNdj0cE1BSw)
+* [Jamstack Community Survey Results 2022 | Jamstack](https://jamstack.org/survey/2022/)
 * [What does the work-life balance of a Software Engineer look like? | by Phil from 4 day week | Medium](https://4dayweek.medium.com/what-does-the-work-life-balance-of-a-software-engineer-look-like-fe16cc46bb0)
 * [complexity is the mind killer](https://github.com/PhilipK/articles/blob/main/complexity-is-the-mind-killer.md)
 * [Thorsten Ball - Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
