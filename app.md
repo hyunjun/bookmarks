@@ -1525,6 +1525,7 @@ App
   * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
   * [스타트업에서 슬랙(Slack) 거침없이 사용하기1편 — 업무 자동화 | by Ryan Kim | Medium](https://equus3144.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%8A%AC%EB%9E%99-slack-%EA%B1%B0%EC%B9%A8%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B01%ED%8E%B8-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94-6fdb51499b71)
   * [스타트업에서 슬랙(Slack) 거침없이 사용하기 2편 — Zapier를 사용한 구글 설문지 응답 내용 자동으로 받기 | by Ryan Kim | Oct, 2020 | Medium](https://equus3144.medium.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%8A%AC%EB%9E%99-%EA%B1%B0%EC%B9%A8%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2%ED%8E%B8-zapier%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EA%B5%AC%EA%B8%80-%EC%84%A4%EB%AC%B8%EC%A7%80-%EC%9D%91%EB%8B%B5-%EB%82%B4%EC%9A%A9-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%9B%EA%B8%B0-747b8fb456c6)
+  * [더 효과적인 커뮤니케이션을 위한 7가지 Slack 팁 | Disquiet\*](https://disquiet.io/@dave/makerlog/3529)
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
 * [Zulip](https://zulip.com/)
