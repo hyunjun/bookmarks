@@ -3,7 +3,6 @@ Git
 * [**깃허브(GitHub)란?**](https://www.44bits.io/ko/keyword/github)
 * [practice - installation](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
 * [The Architecture and History of Git: A Distributed Version Control System](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
-* [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 * [(비개발자를 위한) GitHub의 역사와 기능 | 요즘IT](https://yozm.wishket.com/magazine/detail/1674/)
 * [GitHub Engineering](http://githubengineering.com/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
@@ -135,9 +134,15 @@ Git
 * github 하나로 1인 개발 워크플로우 완성하기
   * [이론 편 git으로 백업만 하셨던 분들 여기여기 붙어라~](https://www.huskyhoochu.com/issue-based-version-control-101)
   * [실전 편 딱 일곱 단계로 끝장내는 이슈 기반 버전 관리](https://www.huskyhoochu.com/issue-based-version-control-201)
+* [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 * [Towards Natural Language Semantic Code Search](https://githubengineering.com/towards-natural-language-semantic-code-search/)
   * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
   * [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
+* [Introducing an all-new code search and code browsing experience | GitHub Changelog](https://github.blog/changelog/2022-11-09-introducing-an-all-new-code-search-and-code-browsing-experience/)
+  * GitHub Universe에서 GitHub의 새 코드 검색과 코드 브라우징 기능 공개
+  * 코드 검색은 빠른 속도로 기존보다 훨씬 다양한 조건으로 검색 가능
+  * 코드 브라우징은 저장소에서 코드를 볼 때 마치 에디터처럼 트리 뷰로 파일을 탐색 가능
+    * 파일의 심볼도 분석, 바로 각 심볼로 이동하
 * [Git 뽀개기(자료 모음집) (비)개발자들을 위한 Git과 Github 기초 자료 모음집입니다](https://seanlion.github.io/blog/23)
 * [Version Control with Git: Git Cheatsheets for Quick Reference](https://swcarpentry.github.io/git-novice/reference)
 * [Git으로 버전제어](https://statkclee.github.io/git-novice-kr/)
@@ -394,6 +399,8 @@ Git
 * [Making CI workflow faster with Github Actions - Blog | luminousmen](https://luminousmen.com/post/making-ci-workflow-faster-with-github-actions)
 * [Github Actions 과 함께 Continuous Delivery 구축하기 | by Yuwon Oh | 29CM TEAM | 29CM TEAM](https://medium.com/29cm/github-actions-%EA%B3%BC-%ED%95%A8%EA%BB%98-continuous-delivery-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-c712dec2dd3)
 * [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
+* [Introducing GitHub Actions Importer | The GitHub Blog](https://github.blog/2022-11-10-introducing-github-actions-importer/)
+  * Azure DevOps, Jenkins, CircleCI 등 다른 CI의 파이프라인을 분석해서 임포트할 수 있게 해주는 GitHub Actions Importer가 GitHub Universe에서 공개
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [GitHub Skills](https://skills.github.com/)
