@@ -172,6 +172,7 @@
   * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
 * [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
   * DI와 DIP의 차이
+* [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
 * [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
 * [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
 * [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
