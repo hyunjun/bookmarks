@@ -200,6 +200,15 @@
 * [Java 개발자가 보면 좋을 Kotlin 팁 모음 - 현구막 기술 블로그](https://hyeon9mak.github.io/kotlin-tips-for-java-developer/)
 * [Curried Kotlin. Kotlin supports functional programming… | by TheCililing | Medium](https://medium.com/@przemek.materna/curried-kotlin-48166885ddfa)
 * [Call multile API calls with Combine and Stateflow. | by Keyvan Norouzi | Nov, 2022 | Medium](https://medium.com/@keyvan.nrz/call-multile-api-calls-with-combine-and-stateflow-1cf4ea4ac322)
+* [From zero to 10 million lines of Kotlin - Engineering at Meta](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
+  * Meta에서 안드로이드 개발을 Java에서 Kotlin으로 전환하는 과정 정리
+  * 마이그레이션 방법 중에 모든 코드를 Kotlin으로 전환하는 것을 목표
+    * 안드로이드에서 천만 라인 이상의 Kotlin 코드 작성
+  * 일부 라이브러리에서 호환성 문제가 발생
+    * 이를 해결하기 위한 도구 작성
+    * 변환 도구인 J2K를 이용해서 변환했지만 J2K가 이해하지 못해서 수동으로 처리해야 하는 사례 발견
+  * 그래서 Java 코드를 내부 도구에 필요한 변환 작업을 한 뒤 J2K를 실행하고 Kontlin 파일을 후처리
+  * 마이그레이션 후 기대보다는 적은 11%의 코드 라인 감소, 실행 속도 동일, 빌드 속도는 KSP로 주석을 처리해서 해결
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
