@@ -2786,6 +2786,7 @@ Programming
 * [공개소프트웨어 페스티벌 - YouTube](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa)
 * [Using Tooling To Improve Your Codebase - YouTube](https://www.youtube.com/watch?v=xA3peCxMV10)
 * [Programming is writing is programming - Felienne - YouTube](https://www.youtube.com/watch?v=uO3a4HIBDU4)
+* [우아콘2022 비하인드: 작은 경험도 괜찮아, 기술로 함께 문제를 풀어가는 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9524/)
 * [calltospeakers.com](https://calltospeakers.com)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
