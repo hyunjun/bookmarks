@@ -1854,6 +1854,7 @@ AWS
   * 이후 Terrafrom과 AWS 프로바이더를 함께 업그레이드하기로 하고 테라폼 버전 파일을 만들어서 여러 버전의 Terraform과 AWS 프로바이더를 배포해서 선택적으로 업그레이드
     * 모듈을 관리하기 쉽게 S3에 버전 파일과 함께 업로드해서 모듈을 조회할 수 있도록 구현
     * Terraform Smart Planner를 도입해서 Plan할 때 영향받는 상태 파일을 찾아서 함께 변경 가능하게 반영
+* [Creating an AWS VPC with Terraform, Snyk and GitHub Actions. #shorts - YouTube](https://www.youtube.com/shorts/Qye84H7cHQo)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
