@@ -1549,6 +1549,7 @@ Business
 * ["그저 요구를 들어주는 접근법 아니다"··· 서번트 리더십 'Do & Don't' - CIO Korea](https://www.ciokorea.com/ciostory/244842) servant leadership
 * [직장생존을 위한 비즈니스 괜찮은 리더 없나요 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/08/13/good-leader/)
 * [대체, 보고(報告)는 왜 하는 걸까?](https://brunch.co.kr/@matigevic/17) design thinking
+* [그 리더의 좋은 말씀, 왜 아무도 들어 먹질 않았나](https://contents.premium.naver.com/saramin/waytowork/contents/221024104335355lu)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
