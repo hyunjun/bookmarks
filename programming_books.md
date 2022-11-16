@@ -3350,6 +3350,9 @@ Programming Books
   * [Effective Software Testing: A Developer's Guide, by Maurício Aniche](https://www.effective-software-testing.com/)
   * [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
   * [effective-software-testing/code: The code examples of the "Effective Software Testing: A Developer's Guide" book](https://github.com/Effective-software-testing/code)
+* (NOT YET) [레거시 코드 활용 전략 | 에이콘출판사](http://acornpub.co.kr/book/legacy-code)
+* (NOT YET) 테스트 주도 개발로 배우는 객체 지향 설계와 실천 [TDD로 한 땀 한 땀 짜는 소프트웨어 – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/06/11/tdd%eb%a1%9c-%ed%95%9c-%eb%95%80-%ed%95%9c-%eb%95%80-%ec%a7%9c%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4/)
+  * 한라 005.115-프298ㅌ
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
