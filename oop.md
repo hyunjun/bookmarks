@@ -87,14 +87,9 @@
 * [Smit Thakkar - Writing Clean Abstractions - YouTube](https://www.youtube.com/watch?v=Lgof_5yxw3Q)
 * [Why does object-oriented programming mean so many different things to different people?](https://www.quora.com/Why-does-object-oriented-programming-mean-so-many-different-things-to-different-people)
 * [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
-* [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
 * [5. 상태 패턴 with Unity](https://velog.io/@sonohoshi/5.-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-with-Unity) FSM Finite State Machine
-* [Design pattern - State pattern | 10분 TV](http://10bun.tv/etc/design-pattern-1/)
 * [클래스 상속과 인터페이스 구현의 차이 | 10분 TV](http://10bun.tv/beginner/episode-7/)
-* [**Design Patterns**](https://refactoring.guru/design-patterns)
-* [**Design Pattern : 구조 패턴(Structural Patterns)**](https://velog.io/@ha0kim/Design-Pattern-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4Structural-Patterns)
 * [The Functional Evolution of Object-Oriented Programming - YouTube](https://www.youtube.com/watch?v=j5a4K0u1HOw)
-* [Object Oriented Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLJN9ydlFnJsi6-lev2fQ2f1X7YD-VPQVW)
 * [002. 객체지향 근간, 오브젝트 1/6 | LinkedIn](https://www.linkedin.com/pulse/002-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B7%BC%EA%B0%84-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-16-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [003. 타입과 책임 기반 설계, 오브젝트 2/6 | LinkedIn](https://www.linkedin.com/pulse/003-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B1%85%EC%9E%84-%EA%B8%B0%EB%B0%98-%EC%84%A4%EA%B3%84-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-26-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [004. 객체지향과 이를 지키기 위한 방법, 오브젝트 3/6 | LinkedIn](https://www.linkedin.com/pulse/004-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC-%EC%9D%B4%EB%A5%BC-%EC%A7%80%ED%82%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-36-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
@@ -103,10 +98,7 @@
 * [007. 상속과 합성, 오브젝트 6/6 | LinkedIn](https://www.linkedin.com/pulse/007-%EC%83%81%EC%86%8D%EA%B3%BC-%ED%95%A9%EC%84%B1-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-66-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [창시자 앨런 케이가 말하는, 객체 지향 프로그래밍의 본질](https://velog.io/@eddy_song/alan-kay-OOP) messaging, hiding of state-process, late-binding
 * [가변 Context 클래스는 신중하게 사용하자 | Popit](https://www.popit.kr/%ea%b0%80%eb%b3%80-context-%ed%81%b4%eb%9e%98%ec%8a%a4%eb%8a%94-%ec%8b%a0%ec%a4%91%ed%95%98%ea%b2%8c-%ec%82%ac%ec%9a%a9%ed%95%98%ec%9e%90/) 가변 상태 mutable state
-* [Design Patterns in Game Engine Development — Harold Serrano - Game Engine Developer](https://www.haroldserrano.com/blog/design-patterns-in-game-engine-development)
 * [개발자 교양필수? 객체지향 개념정리 10분컷. - YouTube](https://www.youtube.com/watch?v=IeLWSKq0xIQ)
-* [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
-* [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
 * [Command pattern - YouTube](https://www.youtube.com/watch?v=u6xmUXQ_APM)
 * [**이유와 솔루션으로 정리하는 객체지향 생활체조 원칙**](https://hudi.blog/thoughtworks-anthology-object-calisthenics/)
   * [더 나은 소프트웨어를 향한 9단계: 객체지향 생활 체조(1) | developerFarm 개발자 농장](https://developerfarm.wordpress.com/2012/01/26/object_calisthenics_1/)
@@ -225,7 +217,7 @@
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
-* [Design Patterns](https://refactoring.guru/design-patterns)
+* [**Design Patterns**](https://refactoring.guru/design-patterns)
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
 * [어댑터와 퍼사드 패턴](https://astrod.github.io/design_pattern/2018/09/29/Head-First-%EC%96%B4%EB%8C%91%ED%84%B0%EC%99%80-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4/)
@@ -245,9 +237,16 @@
 * [객체지향 디자인패턴 2](https://www.youtube.com/watch?v=q3_WXP9pPUQ)
 * [개발 실무 디자인 패턴 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771279)
 * [Service와 ServiceImpl 구조에 대해서 - See One](https://see-one.tistory.com/1)
+* [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
+* [Design pattern - State pattern | 10분 TV](http://10bun.tv/etc/design-pattern-1/)
+* [**Design Pattern : 구조 패턴(Structural Patterns)**](https://velog.io/@ha0kim/Design-Pattern-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4Structural-Patterns)
+* [Object Oriented Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLJN9ydlFnJsi6-lev2fQ2f1X7YD-VPQVW)
+* [Design Patterns in Game Engine Development — Harold Serrano - Game Engine Developer](https://www.haroldserrano.com/blog/design-patterns-in-game-engine-development)
+* [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
+* [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
 
 # Go
-* [Design Patterns](https://refactoring.guru/design-patterns/)
+* [Design Patterns](https://refactoring.guru/design-patterns/go)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)

@@ -4632,7 +4632,6 @@ Programming
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
 * [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
-* [Refactoring and Design Patterns](https://refactoring.guru/)
 * [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
 * [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
 * [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
