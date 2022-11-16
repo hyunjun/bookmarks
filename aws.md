@@ -1845,6 +1845,15 @@ AWS
 * [테라폼으로  AWS 미니 랜딩존 구축-2022](https://brunch.co.kr/@topasvga/2797)
 * [테라폼-AWS-네트워크 구축하기 예제](https://brunch.co.kr/@topasvga/2798)
 * [테라폼 기초 입문 스터디 참여 멤버 글 모음](https://gasidaseo.notion.site/f336822864634d8b922e31caf4aea1f9)
+* [How We Use Terraform At Slack - Slack Engineering](https://slack.engineering/how-we-use-terraform-at-slack/)
+  * Slack 대부분의 인프라가 AWS에서 돌아가지만 CloudFormation 대신 AWS, DigitalOcean, NS1, GCP에 걸쳐서 하나의 도구를 쓰기 위해 Terraform을 사용하는 과정 설명
+  * 초기에는 AWS 계정이 하나였기에 상태 파일도 리전당 하나, 글로벌 서비스당 하나
+    * 인프라가 커지면서 서비스/팀별로 AWS 계정 사용
+    * Jenkins로 plan/apply 파이프라인을 사용해서 배포
+  * Terraform 버전을 0.11에서 0.12로 올릴 때 문법 변경도 많았기에 한 분기를 업그레이드에만 사용
+  * 이후 Terrafrom과 AWS 프로바이더를 함께 업그레이드하기로 하고 테라폼 버전 파일을 만들어서 여러 버전의 Terraform과 AWS 프로바이더를 배포해서 선택적으로 업그레이드
+    * 모듈을 관리하기 쉽게 S3에 버전 파일과 함께 업로드해서 모듈을 조회할 수 있도록 구현
+    * Terraform Smart Planner를 도입해서 Plan할 때 영향받는 상태 파일을 찾아서 함께 변경 가능하게 반영
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
