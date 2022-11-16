@@ -2869,6 +2869,7 @@ Python
   * [**Handling SQL Databases With PyQt: The Basics – Real Python**](https://realpython.com/python-pyqt-database/)
   * [Creating PyQt Layouts for GUI Python Applications - YouTube](https://www.youtube.com/watch?v=MY29YV9Wk7I)
   * [Electron alternative: Python and Qt. Create desktop apps in minutes.](https://build-system.fman.io/)
+  * [생짜 :: 'karma( 업 )/QT&QML 시작하기' 카테고리의 글 목록](https://saengjja.tistory.com/category/karma%28%20%EC%97%85%20%29/QT%26QML%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
   * [fbs - build-system.fman.io](https://build-system.fman.io)
   * [make-a-story](https://github.com/dailyInsight6/make-a-story)
   * [user-group-csv-cleaner](https://github.com/Buzzvil/user-group-csv-cleaner)
