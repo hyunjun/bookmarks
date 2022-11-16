@@ -105,6 +105,8 @@ Open Source
   * 다양한 통계가 나와 있는데 큰 트렌드로는 HCL, Shell, Go 언어를 Infrastructure as Code 분야에서 많이 사용
   * 가장 큰 오픈소스 프로젝트는 빅테크 기업의 상업적 지원
   * 처음 OSS에 기여하는 사람은 상업적으로 지원받는 프로젝트 선호
+* [0x00D - Open-source Business Models 💸](https://unzip.dev/0x00d-open-source-business-models/)
+  * [오픈소스 비즈니스 모델들 | GeekNews](https://news.hada.io/topic?id=7822)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
