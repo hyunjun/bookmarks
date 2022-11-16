@@ -109,6 +109,7 @@ Bitcoin
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
 * [Blockchain Programming with Lisp](https://www.slideshare.net/cheolhee/blockchain-programming-with-lisp)
 * [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
+* [블록체인? 채굴해서 코인 나오는 건 알겠는데...](https://snack.planetarium.dev/kor/2022/11/the-simple-of-blockchain/)
 * [**JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)**](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)
 * [Java 코드로 이해하는 블록체인(Blockchain)](https://www.popit.kr/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain)
 * [File on blockchain 개발기](https://winterj.me/file-on-blockchain/)
