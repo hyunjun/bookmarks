@@ -900,6 +900,9 @@ Business
 * [평가자에게 당부하고 싶은 것 < 인사관리 < 아티클 < 기사본문 - 월간 인재경영](https://www.abouthr.co.kr/news/articleView.html?idxno=5247)
 * [등급이라는 후광이 착시를 일으킨다! - YouTube](https://www.youtube.com/watch?v=IDvW4Ul1aHI)
 
+# CBO
+* [마크의 슬기로운 직장생활 7개월 단명한 스타트업 C레벨 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/11/16/startup-cbo/)
+
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
 * [투자금 2000억원을 말아먹은 한 CEO의 악전고투기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/bhorowitz20160406)
