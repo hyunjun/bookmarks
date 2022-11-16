@@ -148,6 +148,7 @@ Ruby
     * GitHub의 성능과 신뢰성을 개선하기 위해 2015년부터 사용
 
 # TDD, Test
+* [factory_bot: A library for setting up Ruby objects as test data](https://github.com/thoughtbot/factory_bot)
 * [rspec-rails: RSpec for Rails 5+](https://github.com/rspec/rspec-rails)
   * [RSpec is for the literate - avdi.codes](https://avdi.codes/rspec-is-for-the-literate/)
   * [parallel_tests: Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber](https://github.com/grosser/parallel_tests)
