@@ -4433,6 +4433,7 @@ Programming
   * [기술 뉴스 #207 : 22-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1627)
   * [기술 뉴스 #208 : 22-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1630)
   * [기술 뉴스 #209 : 22-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1631)
+  * [기술 뉴스 #210 : 22-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1633)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5098,6 +5099,7 @@ Programming
 * [회사에서 TDD 쓰려다 실패한 후기](https://velog.io/@skynet/%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-TDD-%EC%93%B0%EB%A0%A4%EB%8B%A4-%EC%8B%A4%ED%8C%A8%ED%95%9C-%ED%9B%84%EA%B8%B0)
 * [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 * [Simple testing can prevent most critical failures | the morning paper](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/) 단순한 테스트가 대부분의 끔찍한 실패를 예방한다
+* [**Michael Feathers - the deep synergy between testability and good design - YouTube**](https://www.youtube.com/watch?v=4cVZvoFGJTU) 잘 설계된 제품 코드와 테스트 가능성 간의 큰 상승효과
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
