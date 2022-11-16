@@ -79,6 +79,10 @@ Monitoring
     * Agent는 Grafana 스택에 최적화되어 매트릭, 로그 등을 수집해서 보내주는 에이전트
     * 이 에이전트에 프로그래밍할 수 있는 Flow가 실험적으로 추가되어 쉽게 설정해서 사용해 볼 수 있고 복잡한 워크플로를 정의해서 사용 가능
 * Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
+* [Grafana Faro OSS | Web SDK for real user monitoring (RUM)](https://grafana.com/oss/faro/)
+  * Grafana Labs에서 프론트엔드 애플리케이션의 실사용자를 모니터링(RUM)할 수 있는 웹 SDK를 포함한 Grafana Faro를 오픈소스로 공개
+  * 프론트앤드 애플리케이션에 Grafana Faro SDK를 포함해서 에러, 로그, 성능 메트릭을 수집해서 Grafana에서 확인 가능
+  * [Introducing Grafana Faro, an open source project for frontend application observability | Grafana Labs](https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/)
 * Grafana Incident 장애를 관리하는 서비스
   * [Grafana Incident Early Access Program](https://go2.grafana.com/incident-beta-interest.html)
   * [Grafana Incident for incident management is now generally available in Grafana Cloud | Grafana Labs](https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/)
@@ -94,6 +98,10 @@ Monitoring
   * [How Istio, Tempo, and Loki speed up debugging for microservices | Grafana Labs](https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/)
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
+* [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
+  * Grafana Labs에서 지속적 프로파일링(continuous profiling) 데이터의 백엔드인 Grafana Phlare를 오픈소스로 공개
+  * Phlare는 애플리케이션의 프로파일 데이터를 수집해서 Grafana에서 조회해서 flame graph로 시각화 가능
+  * [Announcing Grafana Phlare, the open source database for continuous profiling at massive scale | Grafana Labs](https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/)
 
 # Library
 * [Anitya is a release monitoring project](https://github.com/fedora-infra/anitya)
