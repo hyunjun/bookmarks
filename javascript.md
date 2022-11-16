@@ -2871,6 +2871,7 @@ Javascript
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
 * [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 * [A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog](https://www.honeybadger.io/blog/errors-nodejs/)
+* [Node.js Error Handling: Tips and Tricks | AppSignal Blog](https://blog.appsignal.com/2022/11/16/nodejs-error-handling-tips-and-tricks.html)
 * [Node.js 모범 사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
 * [BIG new feature lands in Node.js // The Code Report - YouTube](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 * [Node.js 에 Fetch API 추가 | GeekNews](https://news.hada.io/topic?id=5872)
