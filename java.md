@@ -2023,7 +2023,6 @@ Java
 * [자바 직렬화(Java Object Serialization)에 유연성 더하기 | Popit](https://www.popit.kr/%EC%9E%90%EB%B0%94-%EC%A7%81%EB%A0%AC%ED%99%94java-object-serialization%EC%97%90-%EC%9C%A0%EC%97%B0%EC%84%B1-%EB%8D%94%ED%95%98%EA%B8%B0)
 
 # TDD Test
-* [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
 * [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
 * [Implementing a comparable numeric data type in Java the TDD way](https://medium.com/@alonso.delarte/implementing-a-comparable-numeric-data-type-in-java-the-tdd-way-36db536b0d0d)
 * [0425 TDD 리팩토링 - 자바지기 박재성님 강의](https://www.youtube.com/watch?v=bIeqAlmNRrA)
@@ -2062,6 +2061,7 @@ Java
 * [Jakarta Bean Validation - Home](https://beanvalidation.org/)
 * [jqwik](https://jqwik.net/)
 * JUnit
+  * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
   * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
   * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
   * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
@@ -2069,8 +2069,6 @@ Java
   * [JUnit 테스트 메소드 실행 순서](https://www.youtube.com/watch?v=ouaHBQ-z2uI)
   * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
   * [Unit Testing like a Pro - Towards a Testable Design by Victor Rentea](https://www.youtube.com/watch?v=mMvrCDW6rVM)
-  * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
-  * [Stubbing and Mocking with Mockito and JUnit - Semaphore Tutorial](https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
   * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
   * [연과 백엔드 팀은 유닛 테스트를 어떻게 할까?](https://blog.scienceoflove.co.kr/how-sol-tdd)
   * [단위 테스트 활용 방법: JUnit 참조 가이드](https://jinson.tistory.com/entry/번역-Unit-Testing-Best-Practices-JUnit-Reference-Guide-단위-테스트-활용-방법-JUnit-참조-가이드)
@@ -2081,6 +2079,9 @@ Java
   * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/)
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
   * [효율적인 JUnit 사용 방법과 유용한 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1748/)
+* [Mockito framework site](https://site.mockito.org/)
+  * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
+  * [Stubbing and Mocking with Mockito and JUnit - Semaphore Tutorial](https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
 * [Real world mutation testing](http://pitest.org/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
