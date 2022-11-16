@@ -2062,6 +2062,7 @@ Java
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [Jakarta Bean Validation - Home](https://beanvalidation.org/)
+* [java-faker: Brings the popular ruby faker gem to Java](https://github.com/DiUS/java-faker)
 * [jqwik](https://jqwik.net/)
 * JUnit
   * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
