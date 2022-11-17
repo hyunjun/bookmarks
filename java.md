@@ -1423,7 +1423,6 @@ Java
   * [Skija - 자바를 위한 Skia 바인딩 | GeekNews](https://news.hada.io/topic?id=3225)
 * [**snappy-java - Snappy compressor/decompressor for Java**](https://github.com/xerial/snappy-java)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
-* SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * [SproutLife: Evolving version of Conway’s Game of Life](https://github.com/ShprAlex/SproutLife)
 * [STOMP - The Simple Text Oriented Messaging Protocol](https://stomp.github.io/)
   * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
@@ -2059,6 +2058,7 @@ Java
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
   * [DbUnit 적용해보기 예제코드](https://github.com/woowa-kwon/dbunit)
+* [EvoSuite | Automatic Test Suite Generation for Java](https://www.evosuite.org/) 테스트 케이스 자동생성
 * [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [Jakarta Bean Validation - Home](https://beanvalidation.org/)
@@ -2103,6 +2103,8 @@ Java
     * [9부 기타 등등](https://www.youtube.com/watch?v=cKzwa9kl2Ts)
     * [10부. 블록킹을 리액티브로 또는 반대로](https://www.youtube.com/watch?v=Bh8vTfO_4CE)
   * [Mutation operators](https://pitest.org/quickstart/mutators/)
+* [SpotBugs](https://spotbugs.github.io/) 정적 분석
+  * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Tutorial
