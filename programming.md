@@ -2026,6 +2026,8 @@ Programming
 * [마이크로서비스의 6가지 베스트 프랙티스](https://brunch.co.kr/@ywkim36/87)
 * [Microservices – Please, don’t | Riak Technologies](https://riak.com/posts/technical/microservices-please-dont/index.html)
 * [What Are Microservices Really All About? (And When Not To Use It) - YouTube](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
+* [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
+  * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -4650,6 +4652,7 @@ Programming
 * [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
 * [What is Refactoring? - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/what-is-refactoring)
 * [새로운 컬리몰 NX를 소개합니다. - 컬리 기술 블로그](https://helloworld.kurly.com/blog/introduction_new_kurlymall_web/)
+* [서비스 패턴으로 조립하기 쉬운 백엔드 만들기 - DEV Community 👩💻👨💻](https://dev.to/0916dhkim-kr/seobiseu-paeteoneuro-joribhagi-swiun-baegendeu-mandeulgi-69b) express
 * [Refactoring and Design Patterns](https://refactoring.guru/)
   * [리팩터링과 디자인 패턴](https://refactoring.guru/ko)
 
