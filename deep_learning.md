@@ -1531,6 +1531,10 @@ Deep Learning
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
   * [Welcome to AirSim](https://microsoft.github.io/AirSim/)
 
+# NeRF
+* [NeRF: 2D 이미지를 3D로 바꿔준다고요? - 모두의연구소](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
+* [NeRF의 단점과 후속 연구 소개 - 모두의연구소](https://modulabs.co.kr/blog/nerf-followup/)
+
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
 * [1. Overview of Mini Batch Gradient Descent](https://www.youtube.com/watch?v=GvHmwBc9N30)
@@ -1706,6 +1710,10 @@ Deep Learning
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
 * [신경망(neural networks)에서 편향(bais)의 역할 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1655)
+* [Mixture-of-Experts with Expert Choice Routing – Google AI Blog](https://ai.googleblog.com/2022/11/mixture-of-experts-with-expert-choice.html)
+  * 딥러닝의 성능을 높이기 위해서는 파라미터의 수를 증가시키는 것이 일반적
+    * Mixture-of-Experts라는 방법을 활용하면 네트워크의 일부가 조건부로 활성화 가능
+  * 이번 NeurIPS에서 게재 예정인 논문은 Expert Choice라는 새로운 Mixture-of-Experts 방법
 * [Brain.js: GPU accelerated Neural Networks in JavaScript](https://brain.js.org/)
 * [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
 * [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
@@ -2267,6 +2275,7 @@ CVPR2016)
 * [self-supervised-learning-narratives-1: 거꾸로 읽는 self-supervised learning 파트 1](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
   * [AI 코드 이야기 Deep Adaptive Clustering 코드분석! - YouTube](https://www.youtube.com/watch?v=Yp9GgiBKzts)
 * [**Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace**](https://github.com/NielsRogge/Transformers-Tutorials)
+* Wave2Vec [2206.01685 Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685) wave2vec의 self supervised learning이 우리 뇌의 인식방식과 비슷하게 학습한다는 것을 보여줌
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
@@ -2718,6 +2727,7 @@ CVPR2016)
   * [나만의 Stable Diffusion 서비스 배포 | Lomit tech blog](https://dshomin.github.io/bentoml/2022/10/03/Stable-Diffusion-bento.html)
   * [전세계가 경악중인 최신 AI 사용법 왕초보 실전 가이드 (ft. Stable Diffusion) - YouTube](https://www.youtube.com/watch?v=vVdNmnEb--E)
   * [8장에 8초! 텍스트입력 이미지 생성모델 - Stable Diffusion+JAX+TPU](https://aifactory.space/forum/discussion/38)
+  * [13 Mind-Bending Stable Diffusion Uses I've Seen So Far 🌈 - YouTube](https://www.youtube.com/watch?v=SdgN1cCeqk0)
   * [stable-diffusion-pytorch: Yet another PyTorch implementation of Stable Diffusion](https://github.com/kjsman/stable-diffusion-pytorch)
     * [demo.ipynb - Colaboratory](https://colab.research.google.com/github/kjsman/stable-diffusion-pytorch/blob/main/demo.ipynb)
   * [stable-diffusion-tensorflow: TensorFlow/Keras port of Stable Diffusion](https://github.com/fchollet/stable-diffusion-tensorflow)
