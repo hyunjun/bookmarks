@@ -3354,6 +3354,10 @@ Programming Books
 * (NOT YET) [레거시 코드 활용 전략 | 에이콘출판사](http://acornpub.co.kr/book/legacy-code)
 * (NOT YET) 테스트 주도 개발로 배우는 객체 지향 설계와 실천 [TDD로 한 땀 한 땀 짜는 소프트웨어 – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/06/11/tdd%eb%a1%9c-%ed%95%9c-%eb%95%80-%ed%95%9c-%eb%95%80-%ec%a7%9c%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4/)
   * 한라 005.115-프298ㅌ
+* (NOT YET) [Full Stack Testing](https://www.oreilly.com/library/view/full-stack-testing/9781098108120/) 비기능적 테스트: 성능이나 확장성, 보안과 같은 비기능적 요구사항에 대한 설명
+* (NOT YET) [Testing Web APIs](https://www.manning.com/books/testing-web-apis)
+* (NOT YET) [Exploring Testing Java Microservices](https://www.manning.com/books/exploring-testing-java-microservices)
+* (NOT YET) [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
