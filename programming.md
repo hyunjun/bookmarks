@@ -4972,6 +4972,7 @@ Programming
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
   * [**Mocking은 코드 냄새(Code Smell)입니다**](https://midojeong.github.io/2018/04/19/mocking-is-a-code-smell/)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting)
+* [QA in Production](https://martinfowler.com/articles/qa-in-production.html)
 * [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
