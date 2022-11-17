@@ -178,6 +178,7 @@ NLP
   * [FFNN for 한글 띄어쓰기](https://github.com/bage79/nlp4kor/blob/master/ipynb/FFNN_for_word-spaceing.ipynb)
   * [DAE for 철자 오류 교정](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/DAE_for_spelling_error_correction.ipynb)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
+* [루다, 눈을 뜨다! 포토챗 베타의 멀티모달 기술 소개 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/photochat-beta/) image comment
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 * [Deep Learning for Speech and Language](https://www.facebook.com/nextobe1/posts/339301146505887)
@@ -220,6 +221,10 @@ NLP
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
 * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+* [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
+  * 시간 문제에 불과하다는 결론, BERT의 등장으로 현실에 가까워짐(ELMO - LSTM / OpenAI의 GPT, BERT - Transformer)
+  * Pre-trained Models의 fine-tuning은 필수, 인간이 언어를 이해한다는 것이 그저 엄청난 계산에 불과할 뿐이라는 사실(정말인가?)
+  * 이제 계산량을 줄이는 방법이 아니라 계산량을 늘리고 계산 속도를 높이는 방향이 옳을 지도 모름
 * [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 * [Feature-wise transformations - A simple and surprisingly effective family of conditioning mechanisms](https://distill.pub/2018/feature-wise-transformations/)
 * [RNN과 Beam search](https://ratsgo.github.io/deep%20learning/2017/06/26/beamsearch/)
@@ -231,10 +236,6 @@ NLP
 * [딥러닝이 탐구하지 못한 언어와 5가지 태스크](https://brunch.co.kr/@kakao-it/295)
 * [How NLP is Automating the complete Text Analysis Process for Enterprises?](https://blog.paralleldots.com/data-science/nlp/nlp-is-automating-the-complete-text-analysis)
 * [강화학습을 자연어 처리에 이용할 수 있을까? (보상의 희소성 문제와 그 방안)](https://tv.naver.com/v/4336217)
-* [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
-  * 시간 문제에 불과하다는 결론, BERT의 등장으로 현실에 가까워짐(ELMO - LSTM / OpenAI의 GPT, BERT - Transformer)
-  * Pre-trained Models의 fine-tuning은 필수, 인간이 언어를 이해한다는 것이 그저 엄청난 계산에 불과할 뿐이라는 사실(정말인가?)
-  * 이제 계산량을 줄이는 방법이 아니라 계산량을 늘리고 계산 속도를 높이는 방향이 옳을 지도 모름
 * [github.com/warnikchow](https://github.com/warnikchow)
   * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
     * [3i4K - Intonation-aided intention identification for Korean](https://github.com/warnikchow/3i4k)
