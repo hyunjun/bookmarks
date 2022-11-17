@@ -52,6 +52,7 @@ Statistics
 * [Gaussian Process Regression Example in Sklearn Document](https://gist.github.com/jskDr/d57a0395b40c270696565d64f19a2456)
 * [Gaussian processing](https://www.slideshare.net/ssuser06e0c5/gaussian-processing)
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+* [Gaussian Process Practice (1) 1D | Pega Devlog](https://jehyunlee.github.io/2022/11/16/Python-DS-121-gpr1/)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
