@@ -533,6 +533,7 @@ Clojure
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com ](https://github.com/clojure-cookbook/clojure-cookbook)
   * [clojure-cookbook: This is the home of O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [Clojure in Action, Second Edition](https://www.manning.com/books/clojure-in-action-second-edition)
 * [The Joy of Clojure](http://www.joyofclojure.com/)
   * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
@@ -1289,6 +1290,7 @@ Clojure
 * [Clojure test coverage with Eftest and Cloverage | Andrey Bogoyavlensky](https://bogoyavlensky.com/blog/eftest-cloverage/)
 * [Inline unit tests in Clojure](http://johannes.tax/Inline_unit_tests_in_Clojure.html)
 * [Tests are living documentation - Jake McCrary](https://jakemccrary.com/blog/2021/09/11/tests-can-act-as-living-documentation/)
+* [My Experience With TDD In Clojure](https://philcalcado.com/2011/08/29/my_experience_with_test_driven_development_in_clojure_and_functional_programming.html)
 * [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
