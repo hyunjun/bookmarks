@@ -401,6 +401,7 @@ Git
 * [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
 * [Introducing GitHub Actions Importer | The GitHub Blog](https://github.blog/2022-11-10-introducing-github-actions-importer/)
   * Azure DevOps, Jenkins, CircleCI 등 다른 CI의 파이프라인을 분석해서 임포트할 수 있게 해주는 GitHub Actions Importer가 GitHub Universe에서 공개
+* [GitHub Actions 배포 동시성 설정 - 현구막 기술 블로그](https://hyeon9mak.github.io/github-actions-deployment-concurrency-setting/)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [GitHub Skills](https://skills.github.com/)
