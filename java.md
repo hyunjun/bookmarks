@@ -1951,6 +1951,8 @@ Java
 * [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
 * [Full Stack Application with Spring Boot, Next.js, Tailwind CSS & Next-Auth.js](https://morioh.com/p/827c8f265270)
 * [Springboot 통합 테스트로 불안한 리팩토링에서 벗어나기](https://coco-log.tistory.com/196)
+* [스프링 부트 3.0 을 맞이하는 개발자의 자세 - Google Slides](https://docs.google.com/presentation/d/1Vezn8gZXDdb7I1OeDMHR_j0e04ip0DOBuju2IXcfO7o/edit)
+  * [스프링 부트 3.0 을 맞이하는 개발자의 자세 - Google Slides](https://docs.google.com/presentation/d/1zTLfx5RQeIxLshGmQjm3UD1eF4WO9GRjZ66sALKveh8/edit)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
