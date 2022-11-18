@@ -789,6 +789,8 @@ Business
 * [Startup Engineering Hiring Anti-Patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
 * [인재의 유치(Acquisition)보다 중요한 유지(Retention)](https://www.linkedin.com/posts/heejung-cho-97378130_smpsqtswhqzcslh-talentrxgqystmiqzcuqmrditrztymukqqviuqmsmc-activity-6995025203235864576-9P2d/)
 * [꿈이 없다는 것이 불행은 아니다](https://brunch.co.kr/@wonjoonlee/7) 인재
+* [20~40대 절반 “연봉 줄어도 조직문화 맞으면 이직”… 휴가 최우선](https://v.daum.net/v/20221117030054820)
+* [방만한 접근이 인재난 키운다··· 기업의 채용 실수 24가지 - CIO Korea](https://www.ciokorea.com/news/260710)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
