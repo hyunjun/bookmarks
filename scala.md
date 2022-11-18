@@ -367,6 +367,7 @@ Scala
 * [Scala for Game Server Development](https://tech.devsisters.com/posts/scala-for-game-server-development/)
   * [게임 서버 개발에 스칼라 사용하기](https://tech.devsisters.com/posts/scala-for-game-server-development-kr)
 * [WHERE to find a REMOTE Scala Job? - YouTube](https://www.youtube.com/watch?v=OaxsAXXjcYQ)
+* [Google Summer of Code 2022: How It Was | The Scala Programming Language](https://scala-lang.org/blog/2022/11/15/gsoc-report.html)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1577,6 +1578,7 @@ Scala
 * [Scala CLI | Scala CLI](https://scala-cli.virtuslab.org/)
   * ["#Scala CLI" - Tool or Toy? - YouTube](https://www.youtube.com/watch?v=c5lBokinwas)
   * [Creating CLI tools leveraging ZIO and Decline using scala-cli](https://mpkocher.github.io/2022/06/02/CLI-App-leveraging-ZIO-and-Decline-using-scala-cli/)
+  * [Scala Toolkit makes Scala powerful straight out of the box](https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -1927,6 +1929,7 @@ Scala
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
 * [scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk](https://www.youtube.com/watch?v=L0aYcq1tqMo)
+* [Nicolas Rinaudo - Things that are things, but not other things](https://nrinaudo.github.io/articles/things_that_are_things.html)
 * [What's the Point of Applicative?](http://www.doscienceto.it/blog/posts/2020-03-24-applicative.html)
 * [What's Ap?](http://justinhj.github.io/2020/04/04/whats-ap.html)
 * [Scala의 모나드(Monad)에 대한 정리](https://wingnim.tistory.com/106)
@@ -1950,6 +1953,7 @@ Scala
 * [**Monad란 무엇인가? - YouTube**](https://www.youtube.com/watch?v=jI4aMyqvpfQ)
 * [What is a Monad? Adam Warski | SoftwareMill - YouTube](https://www.youtube.com/watch?v=Bgvfyezalos&list=TLGGfzA1ci2XdpUxMTA1MjAyMg)
 * [You already know Monad(ic) stuff - blog.sake.ba](https://blog.sake.ba/en/posts/programming/monads.html)
+* [Nicolas Rinaudo - Function reuse is just wishful thinking](https://nrinaudo.github.io/articles/function_reuse.html)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -2115,6 +2119,7 @@ Scala
 * [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
 * [Scala 3 Migration guide · An evolving guide to support the migration to Scala 3](https://scalacenter.github.io/scala-3-migration-guide/)
 * [Kind Projector Migration | Scala 3 Migration Guide | Scala Documentation](https://docs.scala-lang.org/scala3/guides/migration/plugin-kind-projector.html)
+* [Scala 3 migration: 7 benefits that outweigh the risks - VirtusLab](https://virtuslab.com/blog/scala-3-migration-benefits-risks/)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
@@ -2230,6 +2235,7 @@ Scala
 * [Scala 3: “Erased” Definitions. Martin Odersky and the EPFL Scala… | by Dean Wampler | Scala 3 | Mar, 2022 | Medium](https://medium.com/scala-3/scala-3-erased-definitions-6130a30fbba4)
 * [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
 * [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
+* [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
