@@ -1405,6 +1405,7 @@ AWS
   * [CDK for Kubernetes(CDK8s) 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1537)
   * [AWS Amplify 애플리케이션을 AWS CDK와 함께 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-amplify-application-with-aws-cdk/)
   * [Announcing CDK for Terraform on AWS | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/announcing-cdk-for-terraform-on-aws/)
+  * [Deploy a NextJS 13 application to Amplify with the AWS CDK | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/deploy-a-nextjs-13-application-to-amplify-with-the-aws-cdk/)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
