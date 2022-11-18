@@ -2118,6 +2118,8 @@ Java
 * [Javarevisited - YouTube](https://www.youtube.com/javarevisitedTech)
 * [Java and Java Projects Complete Course for Beginners | Learn Java Programming Language from Scratch - YouTube](https://www.youtube.com/watch?v=CMmexQ0iwrs)
 * [Voice Of Calling NPO - YouTube](https://www.youtube.com/channel/UCJjI6xVTz_4os-Z6QX5E6RQ/playlists)
+* [Java 백엔드 프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PLHpaQi-LiUCxVX_GuPu42vdAbcBz8Bvdc)
+* [강좌 즐거운 스프링 부트 - YouTube](https://www.youtube.com/playlist?list=PLHpaQi-LiUCz9fX2gXiutdLpuut72mWsb)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)
