@@ -42,6 +42,8 @@ Linux
 * [**Different I/O Access Methods for Linux, What We Chose for Scylla, and Why**](http://www.scylladb.com/2017/10/05/io-access-methods-scylla/)
   * (데이터베이스, 개체 저장소, 기타 마이크로 서비스를 운영하는 엔지니어라면 반드시 알아야할 주제인) 리눅스 시스템의 I/O 엑세스 방법들 설명
   * Scylla가 asynchronous direct I/O를 선택한 이유 설명
+* [Ringing in a new asynchronous I/O API LWN.net](https://lwn.net/Articles/776703/)
+  * [Ringing을 이용한 새로운 비동기 I/O API (io_uring) - developer blog](https://realwakka.github.io/linux/ringing-in-a-new-asynchronous-io-api/)
 * `~/.bash_profile`
   * `export TMOUT=0` 자동 로그아웃 off
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
