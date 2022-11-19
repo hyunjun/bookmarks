@@ -4338,6 +4338,7 @@ Python
   * [pip 설치 SSLError 오류 해결 방법: SSLCertVerificationError SSL: CERTIFICATE_VERIFY_FAILED](https://curryyou.tistory.com/179)
   * [모듈(.py) 안에서 library 설치 | Pega Devlog](https://jehyunlee.github.io/2022/10/12/Python-General-13-install/)
   * [Pip constraints files - Blog | luminousmen](https://luminousmen.com/post/pip-constraints-files)
+  * [How to Create Python Packages for Sharing Code and Installing with pip - YouTube](https://www.youtube.com/watch?v=fT-3V8t01DE)
 * [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
 * pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
