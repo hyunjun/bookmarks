@@ -719,6 +719,7 @@ Clojure
   * [PLDI 2021: A History of Clojure](https://www.pldi21.org/prerecorded_hopl.11.html)
 * [Changing to Clojure mid-flight by Marcus Rydberg - YouTube](https://www.youtube.com/watch?v=zK9y1nvmft8)
 * [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
+* [TECHㅣ컨퍼런스 - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) 그린랩스
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
