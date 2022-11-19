@@ -372,6 +372,7 @@ Business
 * [직장인의 3가지 힘: 실력, 정치력, 운력 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222547)
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
 * [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
+* [일의 무기 : 상사를 무기로 활용하는 법](https://brunch.co.kr/@jinonet/132)
 * [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
 * [감정을 다스리는 7가지 기술 - Wonderful Mind](https://wonderfulmind.co.kr/7-techniques-processing-your-emotions/)
 * [Feeling Wheel](https://www.linkedin.com/posts/ivantay_ivanpost-socialmedia-personaldevelopment-activity-6977370751045681152-sB0U/)
@@ -1555,6 +1556,11 @@ Business
 * [대체, 보고(報告)는 왜 하는 걸까?](https://brunch.co.kr/@matigevic/17) design thinking
 * [그 리더의 좋은 말씀, 왜 아무도 들어 먹질 않았나](https://contents.premium.naver.com/saramin/waytowork/contents/221024104335355lu)
 * [리더십의 3가지 속성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/65149)
+* [17화 스타트업의 여성과 임포스터 신드롬](https://brunch.co.kr/@unsparing/31)
+* [18화 스타트업의 히어로, 리더들](https://brunch.co.kr/@unsparing/32)
+* [19화 권력의 맛, 리더의 멋](https://brunch.co.kr/@unsparing/34)
+* [20화 왕관을 쓰려는 자, 그 무게를 견뎌라](https://brunch.co.kr/@unsparing/33)
+* [21화 권력 중독과 창업자의 해독제](https://brunch.co.kr/@unsparing/35)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
