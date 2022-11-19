@@ -857,6 +857,7 @@ App
   * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
   * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
   * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
+  * [vscode 설정값 초기화하기 (settings.json)](https://memostack.tistory.com/158)
   * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
   * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
   * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
