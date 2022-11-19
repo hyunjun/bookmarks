@@ -54,6 +54,7 @@ Statistics
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian Process Practice (1) 1D | Pega Devlog](https://jehyunlee.github.io/2022/11/16/Python-DS-121-gpr1/)
 * [Gaussian Process Practice (2) Kernels | Pega Devlog](https://jehyunlee.github.io/2022/11/17/Python-DS-122-gpr2/)
+* [Gaussian Process Practice (3) Beware Boundaries | Pega Devlog](https://jehyunlee.github.io/2022/11/19/Python-DS-123-gpr3/)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
