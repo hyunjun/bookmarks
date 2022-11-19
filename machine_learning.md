@@ -1350,7 +1350,11 @@ Machine Learning
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 - 1 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-1/)
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 – 2 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-2/)
   * [코드로 이해하는 BentoML](https://blog.lbox.kr/model-serving-bentoml)
-* Flyte [ML Pipeline에 Flyte 도입하기. ML 오픈 소스의 망망대해 항해하며, ML Pipeline 구성해… | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/ml-pipeline%EC%97%90-flyte-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1c85528df470)
+* Flyte
+  * [ML Pipeline에 Flyte 도입하기. ML 오픈 소스의 망망대해 항해하며, ML Pipeline 구성해… | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/ml-pipeline%EC%97%90-flyte-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1c85528df470)
+  * [Flyte MLOps Pipeline 특징 정리. Kubeflow, Airflow와 비교해보는 Flyte 특징 분석과… | by Ryan Kim | Medium](https://equus3144.medium.com/flyte-mlops-pipeline-%ED%8A%B9%EC%A7%95-%EC%A0%95%EB%A6%AC-7b871eb51a40)
+  * [nvidia-ml-py를 사용해서 kubernetes에 배포되어 있는 인스턴스에서 MIG 메모리 사용량 체크하기 | by Ryan Kim | Medium](https://equus3144.medium.com/nvidia-ml-py%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-kubernetes%EC%97%90-%EB%B0%B0%ED%8F%AC%EB%90%98%EC%96%B4-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%97%90%EC%84%9C-mig-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0-c73a70d700fa)
+  * [Github CI와 Flyte를 사용하여 리서치 엔지니어를 위한 ML 환경 구성해주기 | by Ryan Kim | Nov, 2022 | Medium](https://equus3144.medium.com/github-ci%EC%99%80-flyte%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ml-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%B4%EC%A3%BC%EA%B8%B0-327cb5b96ba0)
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
