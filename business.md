@@ -1093,6 +1093,8 @@ Business
 * [저처럼 답을 잘 모르는 팀장은 피드백하면 안 되나요?](https://brunch.co.kr/@seanpang/43)
 * [인퓨처컨설팅 & 유정식 직원에게 피드백하지 마라. '조언'하라](https://infuture.kr/1783)
 * [부정적 피드백을 쓸모 있게 만드는 3가지 전략ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222882076025)
+* [How to Deliver Constructive Feedback in Difficult Situations | LinkedIn](https://www.linkedin.com/pulse/how-deliver-constructive-feedback-difficult-dave-bailey/?articleId=6598144297483149314)
+  * [번역 챌린징한 상황에서 어려운 대화를 하는 방법 – Retriever in Jeju](https://retrieverinjeju.com/%EC%B1%8C%EB%A6%B0%EC%A7%95%ED%95%9C-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -1743,6 +1745,9 @@ Business
 * [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
 * [사용자 습관 형성을 위한 6가지 방법 - DIGITAL iNSIGHT 디지털 인사이트](https://ditoday.com/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-6%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95/)
 * [고객의 행동에서 찾은 임팩트 기회. 안녕하세요. 29CM 모먼트 스쿼드 PO 한종완입니다. 29CM PO가… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/%EA%B3%A0%EA%B0%9D%EC%9D%98-%ED%96%89%EB%8F%99%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EA%B8%B0%ED%9A%8C-13c5509c8cb7)
+* [디스콰이엇 Pre A 회고: 프로덕트 - 1 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3554)
+* [디스콰이엇 Pre A 회고: 프로덕트 - 2 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3584)
+* [디스콰이엇 Pre A 회고: 프로덕트 - 3 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3612)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
