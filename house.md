@@ -74,6 +74,8 @@ House
     * 표제부 - 건물 전체, 전유부 - 호실에 대한 내용
     * 호/가구/세대: 호 - 오피스텔, 가구 - 다가구, 세대 - 다세대
     * 위반건축물은 열람시 '위반건출물'이란 노란색 표시가 있음
+* [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
+* [충격! 부동산 등기부등본을 믿을 수 없다니 (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=QcutAWg58pU)
 * [근저당 해지해주세요](https://brunch.co.kr/@buildingking/143)
 * [비품, 장기수선충당금 등의 문제](https://pgr21.com/qna/139934)
   * 부동산 전문 변호사와 대한법률구조공단을 통해 안내받은 내용
@@ -126,7 +128,6 @@ House
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (2) - 계약갱신청구권의 이해 : 클리앙](https://www.clien.net/service/board/lecture/17152957)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (3) - 손해배상까지의 과정 : 클리앙](https://www.clien.net/service/board/lecture/17154278?type=recommend)
 * [회색 코뿔소, 입주물량의 역습](https://www.koreamonitor.co.kr/view.php?ud=20220312163216790bb0cd1e55_41)
-* [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
 * [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
 * [기사 - 총력 분석 굥교로운 집값 하락의 비밀: 부동산은 무얼 먹고 자라는가](https://www.ddanzi.com/ddanziNews/747153446)
 * [여러분 GTX 큰 문제가 생겼습니다ㅠㅠ (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=Hygle79f2Pg) 구분지상권
