@@ -1304,6 +1304,7 @@ Docker
 * [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 * [DevOps Tutorials | How to List All Containers in a Pod in Kubernetes Cluster and Nodes. - YouTube](https://www.youtube.com/watch?v=XKuV-nXO6XA)
 * [Kubernetes Pod Creation - What happen when we are create a pod?](https://foxutech.com/kubernetes-pod-creation/)
+* [k8s 서비스 품질 관리 (QoS) 도입으로 Pod 리소스 관리하기 | by Ryan Kim | Medium](https://equus3144.medium.com/k8s-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-qos-%EB%8F%84%EC%9E%85%EC%9C%BC%EB%A1%9C-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-36a4cab9e385)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
   * Kubernetes를 이용한 마이크로 서비스 구현
   * 최신 분산 애플리케이션은 클라우드 네이티브 플랫폼이 제공해야 하는 라이프사이클, 네트워킹, 바인딩 및 상태 관리에 대한 요구사항을 가지고 있음
