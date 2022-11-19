@@ -278,6 +278,15 @@ Book
   * [리프트오프](https://github.com/hyunjun/bookmarks/blob/master/books/liftoff.md)
   * [리프트오프. 1 초창기 EARLY YEARS 2000년 9월~2004년 12월 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%98%A4%ED%94%84-8f4fa98c831b)
   * [리프트오프](https://jh4hj.tistory.com/entry/%EB%A6%AC%ED%94%84%ED%8A%B8%EC%98%A4%ED%94%84)
+* [반도체 삼국지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302939277)
+  * ★★★☆☆ 2022.11.19
+  * 우당 문569.4-권53ㅂ
+  * [논란의 칩4 동맹, 우리에게 이득일까? f.권석준 교수 압권 6화 1부 - YouTube](https://www.youtube.com/watch?v=z_jtwbOWBr8)
+  * [반도체 1등을 노리는 중국, 우리에게 위협이 되나? f.권석준 교수 압권 6화 2부 - YouTube](https://www.youtube.com/watch?v=eUFzit_VBNY)
+  * [일본, 기술력의 함정에 빠지다 f.권석준 교수 압권 : 반도체 삼국지 1부 - YouTube](https://www.youtube.com/watch?v=QEeoHddvE6Q)
+  * [반도체 삼국지](https://github.com/hyunjun/bookmarks/blob/master/books/semiconductor_of_three_kingdoms.md)
+  * [반도체 삼국지. 반도체 산업의 역사에 대한 이야기도 재미있으나 그보다 더 인상적이었던… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80-cf8427952f6f)
+  * [반도체 삼국지](https://jh4hj.tistory.com/entry/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -384,11 +393,7 @@ Book
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
   * 탐라 문594.392-로31ㅇ
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
-* (NOT YET) [반도체 삼국지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302939277)
-  * 우당
-  * [논란의 칩4 동맹, 우리에게 이득일까? f.권석준 교수 압권 6화 1부 - YouTube](https://www.youtube.com/watch?v=z_jtwbOWBr8)
-  * [반도체 1등을 노리는 중국, 우리에게 위협이 되나? f.권석준 교수 압권 6화 2부 - YouTube](https://www.youtube.com/watch?v=eUFzit_VBNY)
-  * [일본, 기술력의 함정에 빠지다 f.권석준 교수 압권 : 반도체 삼국지 1부 - YouTube](https://www.youtube.com/watch?v=QEeoHddvE6Q)
+  * 한라 325.211-다48ㄷ 탐라 문181.91-스839ㄷ 우당 문181.91-다49ㄷ
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
