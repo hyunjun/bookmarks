@@ -167,7 +167,9 @@ Business
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
-* [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
+* [조직을 성공적으로 변화시키는 5가지 방법 : 네이버 블로그](https://blog.naver.com/puriu/220241801733) 구체적 행동, 핵심, 환경, 변화를 위한 동료, 저항과 실패를 당연시
+* [TED Giver & Taker](https://www.slid.cc/ko/share/vdocs/ted-giver-taker-68bc78d2806a403290ff161ce85111aa) 성공하는 조직의 giver, taker
+  * [여러분의 조직은 Giver가 많은가요, Taker가 많은가요?](https://www.linkedin.com/posts/jhyunpark_ted-giver-taker-activity-6999590026170818560-OPIT/)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
 * [It's not your job to fix a toxic workplace from the bottom - Adam Grant](https://www.linkedin.com/posts/adammgrant_its-not-your-job-to-fix-a-toxic-workplace-activity-6915309253305995265-AuQN)
@@ -1552,6 +1554,7 @@ Business
 * [직장생존을 위한 비즈니스 괜찮은 리더 없나요 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/08/13/good-leader/)
 * [대체, 보고(報告)는 왜 하는 걸까?](https://brunch.co.kr/@matigevic/17) design thinking
 * [그 리더의 좋은 말씀, 왜 아무도 들어 먹질 않았나](https://contents.premium.naver.com/saramin/waytowork/contents/221024104335355lu)
+* [리더십의 3가지 속성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/65149)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1669,6 +1672,7 @@ Business
 * [강남언니가 3년째 OKR로 일하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1439/)
 * [OKR(Objectives and Key Results)](https://www.linkedin.com/posts/edward-jee-480225a_okrobjectives-and-key-results%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%8B%9C%EB%8A%94-activity-6975949535973937152-XBLM/)
 * [OKR의 오용과 경영의 가치](https://brunch.co.kr/@graypool/663)
+* [책으로 독학한 OKR이 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213815)
 
 # Patent
 * 세기의 특허전쟁
