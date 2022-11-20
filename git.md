@@ -1254,6 +1254,9 @@ Git
 * [release: Generate changelogs with a single command](https://github.com/vercel/release)
 * [Robb Oat is a robot software engineer](https://robboat.com/) GitHub 이슈를 읽어서 이해한 뒤, 문제를 해결한 PR을 자동 발행하는 깃헙 앱
   * [Robb Oat - 로봇 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=7750)
+* [Sapling from Meta | Sapling](https://sapling-scm.com/)
+  * [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+  * [메타, 대규모 소스코드 관리 시스템 오픈소스화 - 테크레시피](https://techrecipe.co.kr/posts/47513)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
 * [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
