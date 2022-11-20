@@ -124,7 +124,6 @@ Programmer
 * [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
 * [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
-* [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
 * [Ten years against division of labor in software](http://akkartik.name/post/division-of-labor)
 * [**18 Trends That Will Shape Our Careers in 2022**](https://junglegym.substack.com/p/18-trends-that-will-shape-our-careers)
@@ -215,6 +214,7 @@ Programmer
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
+* [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
 * [IT 커리어를 '서서히 망치는' 11가지 함정 - CIO Korea](https://www.ciokorea.com/news/233599)
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
