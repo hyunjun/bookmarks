@@ -341,6 +341,7 @@ Git
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
 * [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
+* [Publish to NPM using GitHub Actions | Publishing Node.js packages to NPM using GitHub Actions - YouTube](https://www.youtube.com/watch?v=GW1sY_Ipfd0)
 * [GitHub 프로필을 iMessage 대화 메시지로 꾸며보기 | by Jin Hyung Park | Aug, 2021 | Medium](https://medium.com/@jypthemiracle/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921)
   * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
   * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
