@@ -27,7 +27,6 @@ App
 * [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
 * [5 Free Software That Are Actually Great! 2 (2018)](https://www.youtube.com/watch?v=CG3uge3OomA)
 * [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
-* [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
 * [널리 세상을 ‘클라우드’하다··· SaaS 기업 27선 - CIO Korea](https://www.ciokorea.com/news/203314)
 * [2022년에 이용해볼 만한 최신 SaaS 추천](https://www.traw.io/blog/latest-saas-recommendations-in-2022)
@@ -46,7 +45,6 @@ App
 * [6 Must-Have Tools for Developers](https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd)
   * oh my zsh, direnv, fzf, silver searcher (ag)
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
 * [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [7 Developer Tools to Make Work That Little bit Easier | by Marat Levit | Servian | Medium](https://medium.com/weareservian/7-developer-tools-to-make-work-that-little-bit-easier-4f1832c81e91)
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
@@ -1016,6 +1014,8 @@ App
 
 # Google
 * [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
+* [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
+* [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
   * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
 
@@ -1897,6 +1897,8 @@ App
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
 * [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
+* Calendar
+  * [Google Calendar API 분석 및 시스템 구축 전략 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/88)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
