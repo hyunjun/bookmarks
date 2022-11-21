@@ -1424,6 +1424,7 @@ Web
 * [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
 * [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
 * [SVG 애니메이션 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/893)
+* [HTML을 SVG로 변환하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/895)
 * [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 
 # Test
