@@ -1864,6 +1864,7 @@ AWS
     * 모듈을 관리하기 쉽게 S3에 버전 파일과 함께 업로드해서 모듈을 조회할 수 있도록 구현
     * Terraform Smart Planner를 도입해서 Plan할 때 영향받는 상태 파일을 찾아서 함께 변경 가능하게 반영
 * [Creating an AWS VPC with Terraform, Snyk and GitHub Actions. #shorts - YouTube](https://www.youtube.com/shorts/Qye84H7cHQo)
+* [Terraform으로 기본 인프라 구축하기. AWS 기본 인프라 구성을 Terraform으로 작성해 업무에 활용한… | by ImOk | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/terraform%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EB%B3%B8-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-5433805bd472)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
