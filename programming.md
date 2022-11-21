@@ -1649,6 +1649,7 @@ Programming
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 * [Event Driven Architectures vs Workflows (with AWS Services!) - YouTube](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
+* [Clustered Event-Driven Services • Olivier Deheurles & James Watson • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=N5xBUrf_iV0)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
