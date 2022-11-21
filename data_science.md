@@ -325,7 +325,6 @@ Data Science
 * [**다시 찾아간 지표의 세계**](https://cojette.github.io/metrics_revisited/) vanity metrics, actionable metrics
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
 * [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
-* [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [제로베이스 데이터 사이언스 스쿨 | 직무 인터뷰 ③ 현직 네이버 계열사 데이터 분석가가 말하는 ‘데이터 분석가의 일’ | zero-base](https://zero-base.co.kr/event/media_ds_school_interview_da)
 * [컬리에서 데이터 분석가로 일한다는 것 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/how-to-work-da/) 요구사항에 대한 이야기가 인상적, 맘에 듦
 * [Becoming A Data Analyst: Step by Step Guide - YouTube](https://www.youtube.com/watch?v=mzE-6l5W4QE)
@@ -356,6 +355,7 @@ Data Science
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
+* [How to structure a data team to climb the pyramid of Data Science | Airbyte](https://airbyte.com/blog/structure-a-data-team-to-climb-the-pyramid-of-data-science)
 * [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
 * [Why and how should you learn “Productive Data Science”? - KDnuggets](https://www.kdnuggets.com/2021/07/learn-productive-data-science.html)
 * [**The Quick and Dirty Guide to Building Your Data Platform | by Barr Moses | Jul, 2021 | Towards Data Science**](https://towardsdatascience.com/the-quick-and-dirty-guide-to-building-your-data-platform-2f21dc4b7c94)
