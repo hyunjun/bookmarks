@@ -541,6 +541,12 @@ Book
 * [처음 만나는 행동경제학 | 에이콘출판사](http://acornpub.co.kr/book/behavioral-economics)
   * ★★★★☆ 2022.10.08
   * 우당 문320.1-신69ㅎ
+* [만화로 보는 맨큐의 경제학 1~7 세트 - 전7권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=240436505)
+  * ★★★☆☆ 2022.11.21 1권
+  * 탐라 문320.1-맨827ㅁ-1~7
+  * [만화로 보는 맨큐의 경제학](https://github.com/hyunjun/bookmarks/blob/master/books/principles_of_economics.md)
+  * [만화로 보는 맨큐의 경제학. 만화로 보는 맨큐의 경제학 — YouTube | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%A7%A8%ED%81%90%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-bb9bafb020ab)
+  * [만화로 보는 맨큐의 경제학](https://jh4hj.tistory.com/entry/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%A7%A8%ED%81%90%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문L독321.89-탈294ㄴ 우당 문321.89-탈233ㄴ
