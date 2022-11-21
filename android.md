@@ -248,6 +248,7 @@ Android
 * [apksigner를 이용한 서명과 APK Signature scheme v2](https://liapp.lockincomp.com/ko/blog/blog-Post/tech-apk-signature-scheme-v2-with-apksigner/)
 * [안드로이드 앱 버튼 핸들러 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%B2%84%ED%8A%BC-%ED%95%B8%EB%93%A4%EB%9F%AC-1c5a644e1cdc)
 * [Pluu Dev - 삽질 버튼의 클릭 터치 영역 커스텀 해보기](https://pluu.github.io/blog/android/2022/09/04/hitrect/)
+* [Pluu Dev - 메모 splitMotionEvents=false 처리 테스트](https://pluu.github.io/blog/android/2022/11/19/splitMotionEvents/) multi touch
 * [중력센서를 사용해 기기의 기울기 각도 확인하기](https://cliearl.github.io/posts/android/find-tilt-angle-with-gravity-sensor/)
 * [안드로이드 12 스플래시(Splash Screen) 화면 적용하기 | 커피한잔의 여유와 코딩](http://sjava.net/2022/06/android-12-splash-screen/)
 * [Junior 개발자의 글로벌 서비스 경험기 1탄 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/07/06/azar-android-junior-developer-view.html)
@@ -382,6 +383,7 @@ Android
   * [Glide의 AppGlideModule을 통해 고급 설정 하기](http://sunphiz.me/wp/archives/3546)
   * [Glide#into 사용시 주의점](http://pluu.github.io/blog/android/2020/04/28/glide-fail-case/)
   * [Glide vs. Coil 메모리 사용량 비교. 우리 APP에서 OOM을 피하기 위한 비교적 안전한 라이브러리는… | by Sang Young Lee | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/glide-vs-coil-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%B9%84%EA%B5%90-cb93cffb9fc0)
+  * [Pluu Dev - Glide로 불러오는 이미지의 종횡비가 크다면, optionalCircleCrop()가 필수](https://pluu.github.io/blog/android/glide/2022/11/20/glide-circlecrop/)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
