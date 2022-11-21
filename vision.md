@@ -573,6 +573,7 @@ Vision
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 * [리멤버는 어떻게 명함을 정확히 인식할까? : OpenCV 이미지 프로세싱 - DRAMA&COMPANY](https://blog.dramancompany.com/2019/03/opencv%eb%a1%9c-%ec%8b%a4%ec%8b%9c%ea%b0%84-%eb%aa%85%ed%95%a8-%ec%9d%b8%ec%8b%9d%ed%95%98%ea%b8%b0/)
 * [AI 명함 촬영 인식 ‘리오(RIO)’ 적용기 1부 - 명함촬영인식 위한 Instance Segmentation & Computer Vision - DRAMA&COMPANY](https://blog.dramancompany.com/2022/11/ai-%EB%AA%85%ED%95%A8-%EC%B4%AC%EC%98%81-%EC%9D%B8%EC%8B%9D-%EB%A6%AC%EC%98%A4rio-%EC%A0%81%EC%9A%A9%EA%B8%B0-1%EB%B6%80-%EB%AA%85%ED%95%A8%EC%B4%AC%EC%98%81%EC%9D%B8%EC%8B%9D-%EC%9C%84%ED%95%9C-ins/)
+* [리멤버 유저에게 보다 깨끗한 명함 이미지 제공을 위한 이미지 복원 방법 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/11/%EB%A6%AC%EB%A9%A4%EB%B2%84-%EC%9C%A0%EC%A0%80%EC%97%90%EA%B2%8C-%EB%B3%B4%EB%8B%A4-%EA%B9%A8%EB%81%97%ED%95%9C-%EB%AA%85%ED%95%A8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84/)
 * [Getting Started with OpenCV | Learn OpenCV](https://learnopencv.com/getting-started-with-opencv/)
 * [Object Tracking using OpenCV (C++/Python)](https://learnopencv.com/object-tracking-using-opencv-cpp-python/)
 * [‘Object Tracking’ 카테고리의 설명](http://openresearch.ai/t/object-tracking/124)
