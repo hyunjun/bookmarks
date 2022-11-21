@@ -526,6 +526,7 @@ Programming
 * [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
 * [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
+* [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
@@ -2983,6 +2984,7 @@ Programming
     * 액션은 안전하게 공유하고 재사용 가능
     * 파이프라인은 로컬에서 테스트하고 디버깅 한 뒤 어떤 CI 시스템에서도 실행 가능
     * 모든 액션은 자동으로 캐싱
+  * [dagger: A programmable CI/CD engine that runs your pipelines in containers](https://github.com/dagger/dagger)
   * [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
   * [dagger.io | Your CI pipelines should be code: introducing the Dagger Go SDK](https://dagger.io/blog/go-sdk)
@@ -4725,6 +4727,7 @@ Programming
 * [NOCODECORE](https://nocodecore.com/)
 * numble [IT Open Innovation Platform, ‘NUMBLE’](https://www.numble.it/) IT 사람들의 프로젝트 기반 챌린지 커뮤니티
 * [Oopy. 우피 | Disquiet\*](https://disquiet.io/product/oopy.-%EC%9A%B0%ED%94%BC) 노션을 이용한 노코드 웹페이지 빌더
+* [openblocks: 🔥 🔥 🔥 The Open Source Retool Alternative](https://github.com/openblocks-dev/openblocks)
 * [Outcode | Disquiet\*](https://disquiet.io/product/outcode) 문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
