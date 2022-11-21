@@ -1626,6 +1626,7 @@ Programming
 * [Why DDD, Clean Architecture and Hexagonal ? — 시행착오를 줄이는 방법](https://dataportal.kr/74)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 * [DDD and Microservices: At Last, Some Boundaries! - YouTube](https://www.youtube.com/watch?v=sFCgXH7DwxM)
+* [FECONF 2022 A3 프론트엔드 DDD를 만나다 - YouTube](https://www.youtube.com/watch?v=FeDBlSBPUz8)
 * [Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - YouTube](https://www.youtube.com/watch?v=VzsRu5za4-g)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
@@ -2402,6 +2403,7 @@ Programming
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
+* [AWS vs AZURE vs GCP | Which cloud should you choose for a better career 🤔 - YouTube](https://www.youtube.com/watch?v=i4a_D2a9ILY)
 * [사용중인 클라우드를 바꿔보신 분 ? | GeekNews](https://news.hada.io/topic?id=6341)
 * [AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는? | GeekNews](https://news.hada.io/topic?id=6475)
 * [Scalability Vs. Elasticity - Cloud Computing | ReviewNPrep](https://reviewnprep.com/blog/scalability-vs-elasticity-in-cloud-computing/)
