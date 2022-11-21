@@ -1249,13 +1249,15 @@ Javascript
 * [Open sourcing nearby.lk data models library](http://vpj.github.io/models.html)
 
 # Conference
+* [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
+* [Typed JavaScript? For real? The type annotations proposal and what it’s all about - YouTube](https://www.youtube.com/watch?v=8EXuuLtYFY0)
+  * [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about - NodeConf EU - Google Slides](https://docs.google.com/presentation/d/12SYdKy75FsSwO9-wzHADPL9JP6uXplxSKMQe1qsJKR8/edit)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
   * [FEconf 2022 - TRACK A - YouTube](https://www.youtube.com/watch?v=jZNk-Ncez6E)
   * [FEconf 2022 - TRACK B - YouTube](https://www.youtube.com/watch?v=ajtpcFkXqqg)
   * [FEConf 2022 참석 후기](https://noogoonaa.tistory.com/120)
   * [FEConf2020 at Home](https://2020.feconf.kr/)
   * [Fe Conf 2019 후기](https://blog.woolta.com/categories/9/posts/192)
-* [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
 * [JS CONF 2022에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/jsconf-korea-2022-recap)
 * [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
