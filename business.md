@@ -165,6 +165,7 @@ Business
 * [수평 조직, 업무 효율도 높을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20220621)
 * [밸브 인터뷰 ③ 수직구조 없는 회사 밸브, "우리의 상사는 고객"](https://www.thisisgame.com/webzine/special/nboard/5/?n=154907)
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
+* [**조직문화 개선에 대한 기대감을 잃지 않게 하려면**](https://brunch.co.kr/@matigevic/30) Edgar H. Schein 인공물(artifact) 표방하는 가치(espoused beliefs and values) 암묵적 가정(underlying assumptions)
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
 * [조직을 성공적으로 변화시키는 5가지 방법 : 네이버 블로그](https://blog.naver.com/puriu/220241801733) 구체적 행동, 핵심, 환경, 변화를 위한 동료, 저항과 실패를 당연시
@@ -762,6 +763,7 @@ Business
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(1)](http://qurator.co.kr/quration/single/212)
 * [직장 동료들의 평가 – 이직에 주는 영향은 ?(2)](http://qurator.co.kr/quration/single/213)
 * [취업‧이직때 대박날 스타트업 고르는 법 - YouTube](https://www.youtube.com/watch?v=SuDldpt1Vlc)
+* [커리어편 이직을 고민할 때 생각할 질문 10가지](https://brunch.co.kr/@mobility/116)
 * [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 * [직원 추천 제도의 수혜자가 되는 방법](https://brunch.co.kr/@jcmarkpark/191)
 * [최고의 헤드헌터, 내부에 주목하라](https://brunch.co.kr/@seanchoi-hr/14)
@@ -781,6 +783,7 @@ Business
 * [능력주의 채용](https://www.thestartupbible.com/2022/06/meritocracy-based-hiring.html) 동일임금으로 시작하는 coinbase 채용 방식
 * [빨라지는 HR의 진화 속도 긱스](https://news.v.daum.net/v/20220721164601921)
 * [심각하게 망가진 채용 면접, 이렇게 복구해보세요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/repairinterview20220728)
+* [하루 중 면접에 유리한 시간이 있을까요?](https://www.linkedin.com/posts/sryoo_extraneous-factors-in-judicial-decisions-activity-6999895727107698688-oUAz/) 면접의 객관성에 대한 이야기
 * [체계 없는 스타트업 채용, 왜 이렇게 어렵죠? | 원티드](https://www.wanted.co.kr/events/22_07_s18_b01)
 * [지원자 경험 향상을 위한 채용 담당자의 역할](https://blog.greetinghr.com/applicant-experience-for-recruiter/)
 * [링크드인 인재 트렌드 보고서 2022 총정리](https://brunch.co.kr/@nutilde/22)
@@ -1563,6 +1566,9 @@ Business
 * [19화 권력의 맛, 리더의 멋](https://brunch.co.kr/@unsparing/34)
 * [20화 왕관을 쓰려는 자, 그 무게를 견뎌라](https://brunch.co.kr/@unsparing/33)
 * [21화 권력 중독과 창업자의 해독제](https://brunch.co.kr/@unsparing/35)
+* [브런치북 생각하는 리더, 행동하는 리더](https://brunch.co.kr/brunchbook/onemore73-0)
+  * [06화 영화 속 메버릭은 현실에서 만날 수 없는가?](https://brunch.co.kr/@onemore73/139)
+* [회의록을 통해 본 '이건희 회장의 무시무시한 디테일' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saumsungchairman20190918)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1748,6 +1754,7 @@ Business
 * [디스콰이엇 Pre A 회고: 프로덕트 - 1 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3554)
 * [디스콰이엇 Pre A 회고: 프로덕트 - 2 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3584)
 * [디스콰이엇 Pre A 회고: 프로덕트 - 3 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3612)
+* [**피그마 CPO 인터뷰 "Figma는 어떻게 제품팀을 구성할까?"**](https://www.grownbetter.com/article/206)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
