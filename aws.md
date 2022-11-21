@@ -18,6 +18,7 @@ AWS
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 * [Lessons learned from running GraphQL at scale | by Dream11 Engineering | Dream11 Engineering](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
+* [AWS AppSync GraphQL APIs Supports JavaScript Resolvers | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
 * [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac)
