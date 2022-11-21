@@ -305,6 +305,7 @@ SQL
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
   * [`Failed to create the Java Virtual Machine`](https://gist.github.com/hyunjun/7de243f9871514fa4aa7e8c3b0d00f97)
   * [.ini 파일 설정](https://baekjungho.github.io/database-dbeaverini/)
+  * [#Docker | DBeaver for Data Import | #PostgreSQL #DBeaver #Database #디비버 - YouTube](https://www.youtube.com/watch?v=pflNgrCiBE8)
 * [dblab: The database client every command line junkie deserves](https://github.com/danvergara/dblab)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
