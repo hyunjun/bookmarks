@@ -308,6 +308,7 @@ Hadoop
 * [How to generate Hive Random Data based on input data schema 1](https://www.youtube.com/watch?v=bLKdT2WW2-s)
 * [Extending Hive Replication: Transactional Tables, External Tables, and Statistics](https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/)
 * [Hive에서 실시간으로 쇼핑 데이터를 조회할 수 있게 ETL 개선하기](https://engineering.linecorp.com/ko/blog/improve-ETL-to-view-data-real-time-on-Hive)
+* [효율적인 하둡 플랫폼 운영을 위한 “Hive 사용량 통계 레포트” 개발기 | by 서원국 | 네이버 플레이스 개발 블로그 | Nov, 2022 | Medium](https://medium.com/naver-place-dev/hive-usage-report-%EA%B0%9C%EB%B0%9C%EA%B8%B0-575c0d501533)
 
 # Hue
 * [Hue](http://gethue.com/)
