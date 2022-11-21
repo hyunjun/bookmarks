@@ -142,6 +142,7 @@ Shell
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
 * [commit.sh: Generate commit message according to AngularJS Commit Message Conventions](https://github.com/outstanding1301/commit.sh)
 * [dotdrop: Save your dotfiles once, deploy them everywhere](https://github.com/deadc0de6/dotdrop)
+* [hishtory: Your shell history: synced, queryable, and in context](https://github.com/ddworken/hishtory)
 * [Hush - a unix shell based on the Lua programming language](https://github.com/hush-shell/hush)
   * [Foreword - Hush](https://hush-shell.github.io/)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
