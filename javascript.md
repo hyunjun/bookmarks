@@ -4463,6 +4463,7 @@ Javascript
   * [Next/Image를 활용한 이미지 최적화 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220714-next-image/)
   * [NextJs Application Architecture for best performance | by Sushin Pv | May, 2022 | Medium](https://medium.com/@sushinpv/nextjs-application-architecture-for-best-performance-8f1d22e33ba1)
   * [Next.js + TypeScript + ESLint + Prettier + 절대경로 + styled-components + Recoil + React Query 프로젝트 세팅](https://velog.io/@bjy100/Next.js-Next.js-TypeScript-ESLint-Prettier-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-styled-components-Recoil-React-Query-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
+  * [내가 주로 쓰는 Next.js ESLint 설정 | Univdev](https://www.univdev.page/posts/nextjs-eslint/)
   * [Next.js에서 서버로 인증하는 방법 - Byeongjin Jason Kang](https://jasonkang14.github.io/nextjs/authenticate-with-next-auth)
   * [Next.js E-Commerce for Developers: Quick Shopping Cart Integration](https://morioh.com/p/fc9738434429)
   * [How to Upload Files with React and Next.js API Routes](https://morioh.com/p/c7ad109c8fd4)
