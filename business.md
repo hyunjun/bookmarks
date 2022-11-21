@@ -1571,6 +1571,7 @@ Business
 * [브런치북 생각하는 리더, 행동하는 리더](https://brunch.co.kr/brunchbook/onemore73-0)
   * [06화 영화 속 메버릭은 현실에서 만날 수 없는가?](https://brunch.co.kr/@onemore73/139)
 * [회의록을 통해 본 '이건희 회장의 무시무시한 디테일' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saumsungchairman20190918)
+* [리더는 그때 그때 달라야 한다](https://brunch.co.kr/@wonjoonlee/10) 시기에 맞는 리더십의 변경 or 변화
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
