@@ -436,6 +436,7 @@ Java
   * [켠 김에 PR까지 0화 - YouTube](https://www.youtube.com/watch?v=9LRFLCtFPTo) VMWare, Manjaro linux, intelliJ
   * [켠 김에 PR까지 1화: 오픈 소스 릴리즈하고 Maven Central 리포지터리에 올리기 - YouTube](https://www.youtube.com/watch?v=HC3xTMWU9M0)
   * [켠 김에 PR까지 2화 - YouTube](https://www.youtube.com/watch?v=0lYy0nOSlm0) gRPC와 HTTP/2
+  * [켠 김에 PR까지 3화: DNS 쿼리와 동시성 제어 - YouTube](https://www.youtube.com/watch?v=oObE-g5RGWM)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
@@ -1446,6 +1447,7 @@ Java
   * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
   * [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
   * [Java Web Apps in 2022: Building Web Apps 100% in Java - YouTube](https://www.youtube.com/watch?v=TGSDz-_dNhI)
+  * [Let's Build a Java Web Project - YouTube](https://www.youtube.com/watch?v=WStksLI_D3M)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
