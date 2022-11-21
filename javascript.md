@@ -5199,6 +5199,8 @@ Javascript
   * [그린랩스 개발자 채용 설명회 - YouTube](https://www.youtube.com/watch?v=JwiH41oC8dE&t=1200s)
   * [그린랩스에서 리스크립트 시작하기 | 그린랩스](https://green-labs.github.io/rescript-bootcamp)
   * [Remix로 블로그 만들기, 근데 이제 ReScript를 곁들인 | miryang.dev](https://miryang.dev/blog/create-remix-res-blog)
+  * [Dev Dive_ Frontend Day 내 코드의 품질을 높여주는 Type-Driven Development - YouTube](https://www.youtube.com/watch?v=M3pMCZqPvzI)
+  * [FECONF 2022 A1 ReScript 같이 해요 - YouTube](https://www.youtube.com/watch?v=208ZBisLuXw)
 * [saas: Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript](https://github.com/async-labs/saas)
 * [safe-typeorm: TypeORM helper for safe type development](https://github.com/samchon/safe-typeorm)
 * [sapa: sapa is a library that creates a UI with a simple event system](https://github.com/easylogic/sapa)
