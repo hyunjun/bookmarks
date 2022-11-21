@@ -165,6 +165,7 @@
 * [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
   * DI와 DIP의 차이
 * [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
+* [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/) react IoC
 * [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
 * [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
 * [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
