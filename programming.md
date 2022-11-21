@@ -4611,6 +4611,7 @@ Programming
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [Kappa vs Lambda Architectures and Technology Comparison - YouTube](https://www.youtube.com/watch?v=j7D29eyysDw)
 * [How to Design Realtime Data Consumption using Lambda and Kappa Architectures - YouTube](https://www.youtube.com/watch?v=wEueOJ4OSlg)
+* [Kappa Architecture](https://skolaparthi.com/kappa-architecture/)
 * [Streaming 101: Hello Streaming - YouTube](https://www.youtube.com/watch?v=A1YC_AC0qf8)
 * [Auto-Diagnosis and Remediation in Netflix Data Platform | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1)
 * [The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure | by Zhenzhong Xu | Feb, 2022 | Medium](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
