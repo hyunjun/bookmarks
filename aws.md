@@ -577,6 +577,8 @@ AWS
 * [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
 * [AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - YouTube](https://www.youtube.com/watch?v=NwzJCSPSPZs)
   * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
+* [terraform-aws-codepipline-github-dockerhub: Terraform module which builds multiple architecture docker images using AWS CodeBuild and AWS CodePipeline](https://github.com/cloudacode/terraform-aws-codepipline-github-dockerhub) AWS CodePipeline 같은 경우 매번 설정하기 번거로워서 Terraform Module로 개발해 가져다 쓸 수 있도록 해당 모듈을 공식 Terraform registry에 Public으로 등록
+  * [How to Automate Building Multi-Architecture Container Images | by KC | Nov, 2022 | Medium](https://blog.cloudacode.com/how-to-automate-building-multi-architecture-container-images-4c57c759cb2c) github action, codepipeline codebuild
 
 # CloudWatch
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
