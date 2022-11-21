@@ -133,7 +133,6 @@ AWS
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)
 * [코드로 인프라 관리하기 GamesOnAWS 2019.pptx - Google Drive](https://drive.google.com/file/d/1Bsc5hic_p8nNfGTSa8Dz4UXx49PVFOd4/view)
-* [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
 * [Elastic IP 에 대해 정리해 봅니다](https://developer88.tistory.com/321)
@@ -350,7 +349,6 @@ AWS
 * [AWS에서 NodeJS 환경 구축하고 NPM 모듈 설치하기](https://developer88.tistory.com/296)
 * [AWS FreeTier 제한 스펙과 사용량 확인하는 방법](https://developer88.tistory.com/295)
 * [Amazon Builders Library를 아십니까?](http://channy.creation.net/blog/1317)
-* [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
 * [AWSKRUG DS 2020/12 - Let the Airflow in AWS](https://www2.slideshare.net/ssuser9c8444/awskrug-ds-202012-let-the-airflow-in-aws)
 * [Airflow 오류 - Some workers seem to have died and gunicorn did not restart them as expected - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-gunicorn-worker-error/)
 * [Airflow 오류 - The session is unavailable because no secret key was set - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-flask-key-error/)
@@ -360,7 +358,6 @@ AWS
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
 * [AutoScalingGroup의 Scheduled action 활용하기 :: Alden's Dev Story](https://fallwalker.tistory.com/5)
-* [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
@@ -396,7 +393,6 @@ AWS
   * [Amazon Timestream - Time series is the new black](https://www.allthingsdistributed.com/2021/06/amazon-timestream-time-series-is-the-new-black.html)
 * [AWS 대회에서 1등 했습니다! – DRAMA&COMPANY](https://blog.dramancompany.com/2021/06/awsgameday2021/)
 * [AWS 대회 2관왕한 사람이 푸는 우승 Know-Hows | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/04/19/AWS-GameDay-Know-Hows.html)
-* [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 * [**금융 IT 그리고 클라우드**](https://www.joinc.co.kr/w/man/12/finance/ITandFinance)
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
@@ -512,6 +508,13 @@ AWS
 * [웹 소켓 연결 받는 법 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9-%EC%86%8C%EC%BC%93-%EC%97%B0%EA%B2%B0-%EB%B0%9B%EB%8A%94-%EB%B2%95-d717f18f1117)
 * [Serverless Architecture using AWS Lambda, API Gateway and DynamoDB](https://morioh.com/p/915be75bf31c)
 * [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
+
+# Architecture
+* [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
+* [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
+* [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
+* [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
+* [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -1611,6 +1614,7 @@ AWS
 * [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
 * [이미지 자동 태깅하는 API #aws #클라우드AI - YouTube](https://www.youtube.com/watch?v=5CNyBHmkMgc)
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style-case-study/)
+* [Amazon Lookout for Vision과 Rekognition을 이용한 부품 결함 감지 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/defect-detection-l4v-rekog/)
 * [voightkampff — Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/)
 
 # RDS
