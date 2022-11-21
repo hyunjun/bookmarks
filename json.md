@@ -198,6 +198,7 @@ Json
   * [jackson-module-scala overview and new scala 3 reflection helper | by PJ Fanning | Mar, 2022 | Medium](https://medium.com/@pjfanning/jackson-module-scala-overview-and-new-scala-3-reflection-helper-b824be8221f7)
 * [Jasonette - Native App over HTTP](https://jasonette.com/)
   * [Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6652)
+* [jc: CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts](https://github.com/kellyjonbrazil/jc)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
   * [Jan-Piet Mens :: A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
@@ -327,6 +328,7 @@ Json
     * `< -> &amp;lt;`
     * `> -> &amp;gt;`
     * `& -> &amp;amp;`
+* [xq: Command-line XML and HTML beautifier and content extractor](https://github.com/sibprogrammer/xq)
 
 # YAML
 * [YAML: probably not so great after all](https://arp242.net/yaml-config.html)
