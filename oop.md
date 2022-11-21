@@ -134,6 +134,7 @@
 * [Factory Pattern Without Switch and If-Else | The Startup](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)
 * [C# Design Patterns | Design Pattern Tutorial For Beginners | C# Programming Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=OP1tBC6dBW0)
 * [Design Patterns Explained with Food - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
+* [(초보 시청 금지) 디자인패턴 - 전략 패턴(Strategy Pattern) - YouTube](https://www.youtube.com/watch?v=63miHKtooo4)
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
@@ -245,6 +246,7 @@
 * [Design Patterns in Game Engine Development — Harold Serrano - Game Engine Developer](https://www.haroldserrano.com/blog/design-patterns-in-game-engine-development)
 * [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
 * [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
+* [디자인패턴 - YouTube](https://www.youtube.com/playlist?list=PL1-3t3AP7xRAVNf15bJnm7nzNlRzj8gFg)
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
@@ -267,6 +269,7 @@
 * [Strategy 패턴 쉽게 이해하기 - YouTube](https://www.youtube.com/watch?v=WLRtCO5QUVo)
 * [Using Java 8 to Simplify Strategy Design Pattern | Simplifying Design Patterns - Part 1 - YouTube](https://www.youtube.com/watch?v=aWh_6JH3Ea4)
 * [결제 로직에 전략 패턴을 적용하여 재사용성 높이기](https://seohoon-dev.tistory.com/1)
+* [10분 테코톡 📣 완태의 전략패턴 - YouTube](https://www.youtube.com/watch?v=vNsZXC3VgUA)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 * [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html)
