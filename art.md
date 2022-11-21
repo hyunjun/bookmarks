@@ -206,6 +206,7 @@ Art
 * [컬렉션의 세계, 미래를 내다본 최고 컬렉터는? < 문화 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1146)
 * ['인상주의'는 어떻게 탄생했는가? < 문화 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=1227)
 * [밤에 듣는 미술관 여성의 누드는 왜 그려졌을까? - 티타임즈](https://www.ttimes.co.kr/article/2022110418197780629)
+* [밤에 듣는 미술관 마네가 엄청난 악플에 시달렸던 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022111816387774895)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
