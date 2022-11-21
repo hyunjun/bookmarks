@@ -103,6 +103,7 @@ Business
 * [🚀쿠팡은 정말 돈을 벌 수 있는 기 | 커리어리](https://careerly.co.kr/comments/58640)
 * [쿠팡과 한진의 이별이 의미하는 것](https://brunch.co.kr/@trendlite/253)
 * [쿠팡, 이러다 큰일 난다. 실적 뜯어본 회계사의 경고 f. 이재용 회계사 컴퍼니 백브리핑 - YouTube](https://www.youtube.com/watch?v=1VA9DcCvASg)
+* [쿠팡 8년만의 흑자전환의 이면 - 티타임즈](https://www.ttimes.co.kr/article/2022111818397779640)
 * [티몬의 기업가치가 떡락한 이유](https://brunch.co.kr/@trendlite/255)
 * [스타트업 기업가치는 어떻게 평가할까? f. 이재용 회계사 언더스탠딩 - YouTube](https://www.youtube.com/watch?v=bx2Zee2K8_o) 토스
 * ['3중고' 겪고 있는 토스 해부 - YouTube](https://www.youtube.com/watch?v=ucPqG3E6o9M)
@@ -1143,6 +1144,7 @@ Business
 * [새로온 CTO는 정복자일까](https://velog.io/@zetlos/%EC%83%88%EB%A1%9C%EC%98%A8-CTO%EB%8A%94-%EC%A0%95%EB%B3%B5%EC%9E%90%EC%9D%BC%EA%B9%8C)
 * [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
 * [CTO가 CTO를 뽑습니다](https://brunch.co.kr/@leehosung/54)
+* [CTO는 어떤 일을 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1791/)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -1836,6 +1838,7 @@ Business
 * [피치 덱 분석](https://www.thestartupbible.com/2022/10/the-pitch-deck-analytics.html)
 * [VC가 꼽은 가장 훌륭한 IR 장표 7가지 (번역본 포함)](https://www.grownbetter.com/article/193)
   * 글로벌 스타트업 훌륭한 IR 장표로 Airbnb, Uber, Buffer, Facebook, Front Mattermark, Dwolla 선택. 당시의 IR 장표에 대한 링크도 존재
+* [도어대시(DoorDash) 10년 전 데모데이 발표 영상 (2013년, YC demoday) - YouTube](https://www.youtube.com/watch?v=qugQsO_6ivo) pitch deck
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
@@ -2121,6 +2124,7 @@ Business
 * [시가 총액의 89% 가 증발, 트윌리오와 B2B 스타트업 매출 총이익 관리의 중요성 - Kimchi hill](https://kimchihill.com/2022/11/10/twilio-and-importance-of-gross-margin/)
 * [미국의 배달의민족 DoorDash에 대한 세 가지 이야기](https://blog.naver.com/bizucafe/222925791474)
 * [한기용 - 스타트업 성장통: 나보다 똑똑한 사람을 뽑고 그 사람을 성공으로 이끌 수 있는가?](https://www.linkedin.com/posts/activity-6997403417153351680-xJE4/)
+* [스타트업 창업 1년간 배운 11가지 교훈 - wishket](https://blog.wishket.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85-1%EB%85%84%EA%B0%84-%EB%B0%B0%EC%9A%B4-11%EA%B0%80%EC%A7%80-%EA%B5%90%ED%9B%88/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
