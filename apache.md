@@ -62,6 +62,7 @@ Apache
 * [Airflow Sensor 정리 (feat. S3 Sensor)](https://blog.doosikbae.com/entry/Airflow-Sensor-%EC%A0%95%EB%A6%AC-feat-S3-Sensor)
 * [전사 구성원들이 사용하는 배치 데이터 플랫폼 만들기 - Airflow Advanced - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/11/09/advanced-airflow-for-databiz.html)
 * [Airflow Taskflow로 DAG refactoring하기](https://blog.doosikbae.com/entry/Airflow-Taskflow%EB%A1%9C-DAG-refactoring%ED%95%98%EA%B8%B0)
+* [Airflow(에어플로우) could not queue task issue](https://blog.doosikbae.com/entry/Airflow%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-could-not-queue-task-issue)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
