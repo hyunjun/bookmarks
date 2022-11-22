@@ -4510,6 +4510,8 @@ Javascript
   * [Next.js13 (beta) Review](https://jiyunpark.notion.site/Next-js13-beta-Review-36be3efe9f2f44ada0c116356965ec34)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
+  * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
+    * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
