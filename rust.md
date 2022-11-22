@@ -320,6 +320,7 @@
 * [typos: Source code spell checker](https://github.com/crate-ci/typos)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
   * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
+* [video-search-rust-demo: This repo is a sample video search app using AWS services](https://github.com/aws-samples/video-search-rust-demo)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
