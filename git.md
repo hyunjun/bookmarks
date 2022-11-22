@@ -259,6 +259,7 @@ Git
 * [Using ChatOps to help Actions on-call engineers | The GitHub Blog](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
   * GitHub에서는 터미널 대신 슬랙에서 명령어를 입력해서 자동화하는 "Hubot"이라는 ChatOps 활용
   * Hubot은 로그 수집 도구인 Kusto에 질의를 할 수 있으므로 문제가 생겼을 때 Hubot을 이용해서 바로 조회, 처음 온 사람도 비상대기할 때 장애 상황에 대처할 플레이 북 문서를 Hubot을 통해서 조회, 플레이 북을 자동화해서 문제 검색
+* [개발팀 퇴근시간을 앞당겨줄 git, github 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1796/) 자동화, 이슈 템플릿
 * [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
 * [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
 * [My tips for maintaining dotfiles in source control | Opensource.com](https://opensource.com/article/22/2/dotfiles-source-control)
@@ -312,6 +313,11 @@ Git
 * [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Automate releases and more with the new Sentry Release GitHub Action - The GitHub Blog](https://github.blog/2020-08-24-automate-releases-and-more-with-the-new-sentry-release-github-action/)
 * [**GitHub Action을 이용한 알림 자동화 | 딥백수**](https://dl4ab.github.io/2020/09/18/slack-github-action-automation/) slack
+* [GitHub Actions를 활용한 ECS 배포자동화. Deployment Automation (Django + Docker… | by Woosik Kim | Feb, 2021 | Medium](https://well-balanced.medium.com/github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ecs-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-dd359c259910)
+* [github action과 heroku를 이용한 빌드/배포 자동화 - YouTube](https://www.youtube.com/watch?v=YMdwYPCyxRk)
+* [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
+  * [springboot-helloworld: springboot 데모 프로젝트 - helloworld](https://github.com/choisungwookDevops/springboot-helloworld)
+* [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
 * [GitHub Actions에서 Chrome WebDriver 테스트 오류 해결법 (pytest)](https://blog.joonas.io/158)
 * [GitHub 액션과 ARM 템플릿 검사도구를 이용한 Bicep 코드 품질 테스트 | Aliencube](https://blog.aliencube.org/ko/2020/09/30/github-actions-and-arm-template-toolkit-to-test-bicep-codes/)
 * [Docker Github Actions - Docker Blog](https://www.docker.com/blog/docker-github-actions/)
@@ -320,11 +326,8 @@ Git
 * [ci skip 커밋 메시지로 GitHub Actions 실행 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1513)
 * [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기 - GitHub Actions와 Fastlane을 사용해서 React Native로 개발한 앱을 자동으로 배포해 봅시다](https://dev-yakuza.posstree.com/ko/react-native/github-actions-fastlane/)
 * [리서치 코드의 지속적 통합(CI) 튜토리얼(상편). By 송호연 | by Riiid Techblog | Feb, 2021 | Medium](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%83%81%ED%8E%B8-aae5fabea681)
-* [GitHub Actions를 활용한 ECS 배포자동화. Deployment Automation (Django + Docker… | by Woosik Kim | Feb, 2021 | Medium](https://well-balanced.medium.com/github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ecs-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-dd359c259910)
 * [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
   * [actions](https://okdevtv.com/mib/github/actions)
-* [github action과 heroku를 이용한 빌드/배포 자동화 - YouTube](https://www.youtube.com/watch?v=YMdwYPCyxRk)
-  * [springboot-helloworld: springboot 데모 프로젝트 - helloworld](https://github.com/choisungwookDevops/springboot-helloworld)
 * [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
 * [내 깃허브가 털렸다](https://code-yeongyu.tistory.com/37)
 * [GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들 - YouTube](https://www.youtube.com/watch?v=356L7uv_W8Q)
@@ -338,9 +341,6 @@ Git
     •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기 
 * [CI/CD Github Actions으로 내 포트폴리오에 CI/CD를 적용하기](https://velog.io/@couchcoding/CICD-Github-Actions%EC%9C%BC%EB%A1%9C-%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%97%90-CICD%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-1)
 * [GitHub Actions 워크플로우의 승인 기능 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1556)
-* [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
-* [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
-* [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
 * [Publish to NPM using GitHub Actions | Publishing Node.js packages to NPM using GitHub Actions - YouTube](https://www.youtube.com/watch?v=GW1sY_Ipfd0)
 * [GitHub 프로필을 iMessage 대화 메시지로 꾸며보기 | by Jin Hyung Park | Aug, 2021 | Medium](https://medium.com/@jypthemiracle/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921)
   * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
@@ -405,6 +405,7 @@ Git
 * [GitHub Actions 배포 동시성 설정 - 현구막 기술 블로그](https://hyeon9mak.github.io/github-actions-deployment-concurrency-setting/)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
+* [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [GitHub Skills](https://skills.github.com/)
   * [Introducing GitHub Skills | The GitHub Blog](https://github.blog/2022-06-06-introducing-github-skills/)
 * [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
