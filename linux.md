@@ -251,6 +251,7 @@ Linux
 * [Quay - YouTube](https://www.youtube.com/playlist?list=PLrvNoNIHON5bd6aqjpSJeYPMeI9ODv05U)
 * [하위 버전 CentOS Linux에 배포할 때의 glibc, libstdc++ 라이브러리 버전 문제 | Popit](https://www.popit.kr/%ED%95%98%EC%9C%84-%EB%B2%84%EC%A0%84-centos-linux%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%A0-%EB%95%8C%EC%9D%98-glibc-libstdc-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B2%84%EC%A0%84-%EB%AC%B8)
 * [Centos Installation and RHEL-8 Installation with CLI method for beginners Student - YouTube](https://www.youtube.com/watch?v=zXfqOKZoHRs)
+* [CentOS 7 vim 7.4의 python3 지원](https://sunyzero.tistory.com/283)
 * checksec [Identify security properties on Linux using checksec | Opensource.com](https://opensource.com/article/21/6/linux-checksec)
 * service
 
