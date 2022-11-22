@@ -1355,6 +1355,7 @@ AWS
 * [How to Write a Secure Python Serverless App on AWS Lambda | Okta Developer](https://developer.okta.com/blog/2021/07/26/python-serverless)
 * [Install Python Library in Lambda | AWS Lambda Layer - YouTube](https://www.youtube.com/watch?v=HBt8MXHcaPI)
 * [Python Lambda 함수 기초 틀 - 이상선 - Medium](https://medium.com/@sunyi233/python-lambda-%ED%95%A8%EC%88%98-%EA%B8%B0%EC%B4%88-%ED%8B%80-ea08d27d17b1)
+* [서버리스 / 크롤링 일본 조조타운 크롤링하기](https://blog.naver.com/rokomokodon/222905641295)
 
 ## Lambda Rust
 * [Rust On AWS (Really FAST Lambdas) - YouTube](https://www.youtube.com/watch?v=EqV5wKD233c)
