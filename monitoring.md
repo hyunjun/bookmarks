@@ -240,6 +240,7 @@ Monitoring
 * [Exporter Review: Elasticsearch - NexClipper](https://nexclipper.io/exporter-review-elasticsearch/)
 * [블록체인 노드 모니터링 해보기 Part 1(feat. Grafana, Prometheus) | by HS | Boom💥Labs — The open basecamp for Web3 Builders. | Sep, 2022 | Medium](https://medium.com/boom-labs/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%85%B8%EB%93%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%95%B4%EB%B3%B4%EA%B8%B0-part-1-feat-grafana-prometheus-c6274b8f0edb)
 * [블록체인 노드 모니터링 해보기 Part 2(feat. Grafana, Prometheus) | by HS | Boom💥Labs — The open basecamp for Web3 Builders. | Sep, 2022 | Medium](https://medium.com/boom-labs/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%85%B8%EB%93%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%95%B4%EB%B3%B4%EA%B8%B0-part-2-feat-grafana-prometheus-662b65c6cb61)
+* [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
