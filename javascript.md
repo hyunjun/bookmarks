@@ -1117,6 +1117,7 @@ Javascript
 * [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
 * [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
+* [10분 테코톡 빅터의 Generator와 Async/Await - YouTube](https://www.youtube.com/watch?v=ZrdHtL1gcEI)
 * [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
 * [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
