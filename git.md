@@ -1086,6 +1086,7 @@ Git
       * GitHub Copilot에 문제를 제기하고 있고
       * 잘못된 코드의 생산으로 오픈소스 생태계에 장기적으로 안 좋은 영향을 줄 수 있다고 하며
       * 사용자들의 의견과 제보를 받고 있음
+  * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
