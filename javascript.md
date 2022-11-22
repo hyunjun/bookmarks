@@ -4585,6 +4585,8 @@ Javascript
   * [React-Query 도입을 위한 고민 (feat. Recoil) - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/07/13/react-query/)
   * [React Query로 관리하는 효율적인 서버 데이터 핸들링 | Univdev](https://www.univdev.page/posts/react-query-tutorial/)
   * [React Query Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=jnIPUkNOJ9A)
+  * [Seeding the Query Cache | TkDodo's blog](https://tkdodo.eu/blog/seeding-the-query-cache)
+    * [번역 쿼리 캐시에 데이터 채워 넣기 (React Query)](https://velog.io/@eunbinn/seeding-the-query-cache)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
