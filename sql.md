@@ -758,6 +758,7 @@ SQL
   * MySQL client CLI가 다른 데이터베이스에 비해 기능이 부족해서 CLI를 직접 수정해서 편의 기능을 추가하는 방법 설명
   * 프롬프트에 서버 정보 등을 표시하거나 PostgreSQL처럼 자주 쓰는 명령어의 단축 명령어를 추가해서 `\\d`를 입력하면 `SHOW DATABSAES;` 실행 가능
   * 미리 파일에 저장해둔 SQL을 실행하거나 회사 정책에 따른 경고문을 표시할 수 있도록 수정한 client 코드 같이 제공
+* [MySQL kill 명령어 (프로세스 kill하기)](https://blog.doosikbae.com/entry/MySQL-kill-%EB%AA%85%EB%A0%B9%EC%96%B4)
 * [MySQL Heatwave를 살펴보았습니다 – gywndi's database](https://gywn.net/2022/05/mysql-heatwave/)
 * [MySQL table lock / table mutex / 송장번호 가상계번호 발급 / 번호 중복 발급 방지 방법](https://blog.naver.com/oralol/222836743527)
 * [How to Make a Simple CRUD Application using ReactJS, NodeJS and MySQL](https://morioh.com/p/0ecf22d4888d)
