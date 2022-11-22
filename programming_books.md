@@ -191,6 +191,13 @@ Programming Books
   * [오늘도 개발자가 안 된다고 말했다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developer_said_no_today.md)
   * [오늘도 개발자가 안 된다고 말했다. PART 01 — 가깝고도 먼 개발자 | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4-6560f13758a2)
   * [오늘도 개발자가 안 된다고 말했다](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%96%88%EB%8B%A4)
+* [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+  * ★★★★☆ 2022.11.22~23
+  * 탐라 문005-니51ㅁ
+  * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
+  * [밑바닥부터 만드는 컴퓨팅 시스템](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_elements_of_computing_systems.md)
+  * [밑바닥부터 만드는 컴퓨팅 시스템. Home | nand2tetris | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-464662b82389)
+  * [밑바닥부터 만드는 컴퓨팅 시스템](https://jh4hj.tistory.com/entry/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -232,9 +239,6 @@ Programming Books
   * 한라 004.583-고66H
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
   * 탐라 문331.5412-빅88ㅂ
-* (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
-  * 탐라 문005-니51ㅁ
-  * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
   * 탐라 문005.104-강67ㄴ 우당 문005.104-강67ㄴ
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
