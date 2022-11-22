@@ -401,6 +401,7 @@ Book
 * (NOT YET) [반대의 놀라운 힘](https://post.naver.com/viewer/postView.naver?volumeNo=28399123)
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
+* (NOT YET) [처음 배우는 그래픽 레코팅](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
