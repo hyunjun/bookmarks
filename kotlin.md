@@ -363,6 +363,7 @@
 * [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 * [Kotlin coroutine dispatchers overview | by Vasiliy Nikitin | MobilePeople | Medium](https://medium.com/mobilepeople/kotlin-coroutine-dispatchers-overview-f8000a6037f4)
 * [Mastering Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
+* [Kotlin Coroutine의 Structured Concurrency 구현 상세](https://suhwan.dev/2022/01/21/Kotlin-coroutine-structured-concurrency/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
