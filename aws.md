@@ -1261,7 +1261,6 @@ AWS
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
 * [AWS Step Functions Workflows Collection을 활용하여 빠르게 비즈니스 워크플로 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-step-functions-workflows-collection/)
-* [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
 * [심의 프로세스 개선을 위한 Digital Tool 개발 :: GS Retail Engineering](https://gsretail.tistory.com/2)
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
@@ -1300,7 +1299,6 @@ AWS
 * [AWS Lambda 함수 URL을 이용하여 편리하고 안전한 API 서버와 클라이언트 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/creating-api-server-using-aws-lambda-function-url/)
 * [How to Deploy Swagger in AWS API Gateway with AWS Lambda? - YouTube](https://www.youtube.com/watch?v=zlaBvAjOddc)
 * [DevOps Tutorials | Start and Stop EC2 Instance using Aws lambda and Cloud watch | EC2 Automation | - YouTube](https://www.youtube.com/watch?v=vOLILhTshCE)
-* [Deploy a machine learning inference data capture solution on AWS Lambda | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
@@ -1358,6 +1356,7 @@ AWS
 * [서버리스 / 크롤링 일본 조조타운 크롤링하기](https://blog.naver.com/rokomokodon/222905641295)
 
 ## Lambda Rust
+* [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
 * [Rust On AWS (Really FAST Lambdas) - YouTube](https://www.youtube.com/watch?v=EqV5wKD233c)
 * [Rust Linz, July 2021 - Stefan Baumgartner - Serverless Rust - YouTube](https://www.youtube.com/watch?v=EXqqsCss8Gk)
 * [Build an AWS Lambda in Rust (2021) - YouTube](https://www.youtube.com/watch?v=PmtwtK6jyLc)
@@ -1435,15 +1434,6 @@ AWS
 * [Construct Hub](https://constructs.dev/)
   * AWS CDK, CDK8s, CDKtf를 이용해서 TypeScript나 Python으로 작성한 재사용 가능한 컴포넌트를 검색
 * [containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS)](https://github.com/aws/containers-roadmap)
-* [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
-  * "Run inference at scale"
-    * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
-    * AWS/GCP/Azure 등에 대규모 배포 및 Request 기반 자동 스케일링
-    * CI/CD 시스템과 연계
-    * 성능 메트릭 & 로그를 모니터링 도구들로 스트리밍
-    * 멀티모델 캐슁으로 다수 모델을 효율적으로 서빙
-    * 다운타임 없는 롤링 업데이트 지원
-    * A/B 테스팅을 위한 트래픽 분할
 * [gossm: 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager](https://github.com/gjbae1212/gossm)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [ksmin23 (Sungmin Kim) · GitHub](https://github.com/ksmin23)
@@ -1497,6 +1487,8 @@ AWS
   * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
   * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
+* [Deploy a machine learning inference data capture solution on AWS Lambda | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/)
+* [AWS Lambda를 이용한 XGBoost 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ml-inference-based-on-xgboost-using-aws-lambda-with-cdk/)
 * [Amazon making online machine learning courses available for free](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Graviton2 EC2로 BERT 돌리기?](https://brunch.co.kr/@ueber/321)
 * [Python x ARM: Graviton2 실전 도입기](https://engineering.ab180.co/stories/migrating-python-application-to-arm) ML 내용은 아님
@@ -1510,6 +1502,15 @@ AWS
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
 * [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
+* [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
+  * "Run inference at scale"
+    * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
+    * AWS/GCP/Azure 등에 대규모 배포 및 Request 기반 자동 스케일링
+    * CI/CD 시스템과 연계
+    * 성능 메트릭 & 로그를 모니터링 도구들로 스트리밍
+    * 멀티모델 캐슁으로 다수 모델을 효율적으로 서빙
+    * 다운타임 없는 롤링 업데이트 지원
+    * A/B 테스팅을 위한 트래픽 분할
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
 
 ## Machine Learning SageMaker
