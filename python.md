@@ -4308,6 +4308,7 @@ Python
 * [Python is Actually Portable](https://ahgamut.github.io/2021/07/13/ape-python/)
 * [Convert PY to EXE Automatically - YouTube](https://www.youtube.com/watch?v=OZSZHmWSOeM)
 * [Packaging Python in 2022 - presented by Jeremiah Paige - YouTube](https://www.youtube.com/watch?v=RXoDukRu9G4)
+* [Packaging Python in 2022 - YouTube](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
