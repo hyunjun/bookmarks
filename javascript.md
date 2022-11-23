@@ -4227,6 +4227,7 @@ Javascript
 * [Dynamic Dependent Dropdown List in React Native | Create Cascading Dropdowns - YouTube](https://www.youtube.com/watch?v=tN6MpJ9ElJY)
 * [React Native Cars App || React Native Project || React Native Tutorial - YouTube](https://www.youtube.com/watch?v=1gWYDaDd-fw)
 * [Building Your Own Hooks in React Native | Custom Hook for API | Advanced React Native | Axios Hook - YouTube](https://www.youtube.com/watch?v=5YX8vKjH8_Y)
+* [How To Build Dynamic Island For React Native - Tutorial Step by Step - YouTube](https://www.youtube.com/watch?v=OqLW0iMfuwU)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
