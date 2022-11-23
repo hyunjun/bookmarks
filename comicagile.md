@@ -2,6 +2,17 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Homeschooling – Comic Agilé](https://www.comicagile.net/comic/homeschooling/)
+  * 코로나 위기로 우리 모두 집에 머물러야 하니, 엄마와 내가 너희들에게 홈스쿨링을 시작하는 게 좋겠다고 합의했단다.
+  * 차를 만드는 방법을 배우고 싶어요! … 그리고 태양이 뜨거운 이유를 알고 싶어요!
+  * 좋은 제안이지만, 우리는 훨씬 나은 걸로 시작할 거야.
+  * 오늘, 너희들은 인수 기준과 완료 조건의 차이를 배울 거야!
+  * Authors’ comments:
+    * 애자일, 빠른 실패, 린 스타트업 및 PDCA 주기와 같은 주제를 배경으로 하는 사고 방식, 즉 현대 개발의 기반이 되어야 하는 개념이 실제로 학교에서 배운 내용의 일부였다면 얼마나 좋을까요?
+    * 따라서 COVID-19 발생으로 인해 재택근무를 해야 하고 원하는 대로 시간을 사용할 수 있는 자유가 있다면 지금이야말로 실제 유용한 지식을 자녀에게 알려줄 때입니다! 아이들이 하루 종일 원격 수업에 있지 않다면, 지금이 아이들이 배워야 한다고 생각하는 교훈을 알려줄 수 있는 기회입니다. 따라서 기회를 잡고 어떻게 인수 기준이 완료 조건의 일부인지 또는 Gemba가 얼마나 중요한지 알려주십시오. 필요하다면, 아이들이 애자일에 대해 배울 수 있는 학습 자료를 만드는 것도 고려할 수 있습니다.
+    * [Launch Your ART: Do a Gemba Walk - Implementing SAFe - Scaled Agile](https://scaledagile.com/blog/launching-an-art-do-a-gemba-walk/)
+  * [#9 — Homeschooling - Jun - Medium](https://nymets.medium.com/9-homeschooling-362841e08838)
+  * [#9 – Homeschooling -](https://jh4hj.tistory.com/entry/9-%E2%80%93-Homeschooling)
 * [Manager vs. Sprint Backlog – Comic Agilé](https://www.comicagile.net/comic/the-sprint-backlog/)
   * 아, 그래서 우리 스프린트 백로그는 제품 백로그에서 온 사용자 스토리뿐만 아니라, 버그, 위험 관리, 개선 항목들도 포함했네.
   * 그래서, 뭐든 스프린트 백로그로 갈 수 있는 거야?
