@@ -2649,6 +2649,10 @@ Javascript
 * [Event loop from 10,000ft - core concept behind Node.js](http://bytearcher.com/articles/event-loop-10-000ft/)
 * [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop)
 * [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
+* [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
+* [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
+  * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
+* [Node.js Architecture Pitfalls to Avoid | AppSignal Blog](https://blog.appsignal.com/2022/11/23/nodejs-architecture-pitfalls-to-avoid.html)
 * [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 * [nodejs error handling](http://dev-momo.tistory.com/entry/nodejs-error-handling)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
@@ -2701,7 +2705,6 @@ Javascript
 * [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
 * [한글 깨지는(인코딩) 문제 해결하기 | 잡동사니 수집광](https://d2fault.github.io/2018/06/18/20180618-nodejs-encoding/)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
-* [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
 * [Windows에서 Node.js Native Module 설치하기](http://inspiredjw.com/entry/Windows%EC%97%90%EC%84%9C-Nodejs-Native-Module-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)](https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools)
 * [Node.js 로 TDD 를 도전해보자](http://seokjun.kr/node-js-tdd/)
@@ -2936,8 +2939,6 @@ Javascript
 * [Minimize Heap Allocations in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 * [The new test framework built-in to Node.js 18.8.0 | by David Herron | Sep, 2022 | ITNEXT](https://itnext.io/the-new-test-framework-built-in-to-node-js-18-8-0-1d78315ac9f9)
 * [New features in Node.js 18. Introduction | by 20ce108_20ce112_20ce158 | Oct, 2022 | Medium](https://medium.com/@20ce_108_112_158/new-features-in-node-js-18-f187388ec618)
-* [An overview of Node.js: architecture, APIs, event loop, concurrency • Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/ch_nodejs-overview.html)
-  * [번역 Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성](https://velog.io/@cookie004/nodejs-overview)
 * [6 Major Features of Node.js 19. Details of Node.js 19 new features… | by Jennifer Fu | Oct, 2022 | Better Programming](https://betterprogramming.pub/6-major-features-of-node-js-19-b98e28b9670c)
 
 ## Node.js Library
