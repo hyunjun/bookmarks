@@ -1160,6 +1160,7 @@ AWS
 * [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
 * [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
 * [Building a Highly Scalable Imgur Clone with Lambda and S3](https://hackernoon.com/building-a-highly-scalable-imgur-clone-with-lambda-and-s3-aaf9da422c3e)
+* [AWS Lab - How to Automatically Process Data in S3 using AWS Lambda - YouTube](https://www.youtube.com/watch?v=ME45SITXNlE)
 * [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/) zappa, aws lambda
 * [Massive Parallel Data Processing using PyWren and AWS Lambda](https://github.com/awslabs/pywren-workshops)
 * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
