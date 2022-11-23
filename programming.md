@@ -301,6 +301,7 @@ Programming
   * 플랫폼 엔지니어링은 셀프서비스를 가능하게 하는 도구와 워크플로를 만드는 분야라고 하면서 이 플랫폼이 DevOps와 SRE의 문제를 완화할 수 있다고 주장
   * 약간 홍보 글 같은 느낌이 있기도 하지만 셀프서비스를 할 수 있는 플랫폼을 만드는 가치에 대해서는 동의
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
+* [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
