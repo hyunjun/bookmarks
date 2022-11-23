@@ -1787,6 +1787,7 @@ Python
   * [Python으로 클린 아키텍처 적용하기2](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [CPython Internals: Paperback Now Available – Real Python](https://realpython.com/products/cpython-internals-paperback/)
+* [Demystifying Python’s Internals - YouTube](https://www.youtube.com/watch?v=2_TmUOCr1nw)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
 * Django
