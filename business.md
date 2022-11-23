@@ -2126,6 +2126,9 @@ Business
 * [미국의 배달의민족 DoorDash에 대한 세 가지 이야기](https://blog.naver.com/bizucafe/222925791474)
 * [한기용 - 스타트업 성장통: 나보다 똑똑한 사람을 뽑고 그 사람을 성공으로 이끌 수 있는가?](https://www.linkedin.com/posts/activity-6997403417153351680-xJE4/)
 * [스타트업 창업 1년간 배운 11가지 교훈 - wishket](https://blog.wishket.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85-1%EB%85%84%EA%B0%84-%EB%B0%B0%EC%9A%B4-11%EA%B0%80%EC%A7%80-%EA%B5%90%ED%9B%88/)
+* [미국에서의 창업, 그 3년의 짧은 기록들 | by Taeho Kim | Medium](https://medium.com/@xissy/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-%EC%B0%BD%EC%97%85-%EA%B7%B8-3%EB%85%84%EC%9D%98-%EC%A7%A7%EC%9D%80-%EA%B8%B0%EB%A1%9D%EB%93%A4-ad48d393652f)
+* [두 회사의 이야기 – part.1(Recomio)](https://www.thestartupbible.com/2016/01/tale-of-two-startups-part-one-recomio.html)
+* [두 회사의 이야기 – part.2(한인텔)](https://www.thestartupbible.com/2016/01/a-tale-of-two-startups-part-two-hanintel.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
