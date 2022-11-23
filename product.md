@@ -169,6 +169,7 @@ Product
 * [Keyboardio: keyboards for serious typists](https://shop.keyboard.io/)
   * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
+* Logitech MX mechanical [사무용 무선 기계식 키보드 (2) - YouTube](https://www.youtube.com/watch?v=h4IhV6xOgNc)
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
 * [NuPhy® Studio | Premium keyboards and gear beyond imagination.](https://nuphy.com/)
   * [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
