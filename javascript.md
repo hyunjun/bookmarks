@@ -5151,6 +5151,7 @@ Javascript
   * 오브젝트 리터럴은 Freshness가 사라지지 않았으므로 타입 호환이 되지 않은 것
   * 오브젝트 리터럴을 허용하는 경우 불필요한 프로퍼티도 사용된다고 오해할 수 있고 타입의 오타가 있는 경우도 허용되는 문제가 있어서 이를 지원하지 않는 결정
   * 이를 허용하고자 한다면 타입에 Index signature를 포함할 수 있고 아니면 Branded type을 적용해서 지정한 타입 외에는 허용하지 않도록 할 수 있음
+* [unknown , any, never 타입 이해하기](https://blog.naver.com/pjt3591oo/222931827299)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
