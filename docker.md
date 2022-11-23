@@ -1337,6 +1337,7 @@ Docker
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
+* [쿠버네티스 발 인재난을 극복하는 4가지 전략 - ITWorld Korea](https://www.itworld.co.kr/news/266032)
 * [번역 쿠버네티스 7,500개 노드 운영하기 | 커피고래의 노트](https://coffeewhale.com/scaling-node02)
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
@@ -1564,7 +1565,6 @@ Docker
     * 즉, 개발 그룹의 A 사람이 "kubectl config use-context" 명령어를 입력한 뒤 바로 자원 조회를 하는 것이 아니라
     * 로그인을 통해 해당 컨텍스트로 스위치하는 기능이 있는지
 * [Avoid Kubernetes IF... - YouTube](https://www.youtube.com/watch?v=NpYUYjQd8fI)
-* [kubernetes-event-exporter 오래된 쿠버네티스 이벤트 조회 | 박성훈의 블로그](https://pseonghoon.github.io/post/kubernetes-event-exporter/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1798,6 +1798,8 @@ Docker
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
   * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
 * kubernetes-client [Package kubernetes-client - man pages | ManKier](https://www.mankier.com/package/kubernetes-client)
+* [kubernetes-event-exporter: Export Kubernetes events to multiple destinations with routing and filtering](https://github.com/opsgenie/kubernetes-event-exporter)
+  * [kubernetes-event-exporter 오래된 쿠버네티스 이벤트 조회 | 박성훈의 블로그](https://pseonghoon.github.io/post/kubernetes-event-exporter/)
 * [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
   * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
     * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
@@ -2116,6 +2118,8 @@ Docker
   * [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)
   * [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
   * [WSL2보다 더 간단하게 구축하는 Multipass와 도커 개발 환경 - 넷마블 기술 블로그](https://netmarble.engineering/docker-on-multipass-as-replacement-for-wsl2/)
+* [runfinch](https://github.com/runfinch)
+  * [Finch – 오픈 소스 기반 컨테이너 빌드 클라이언트 프로젝트 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/finch-opensource-container-build-client/)
 
 # Network
 * [Networking](https://docs.docker.com/engine/userguide/networking/)
