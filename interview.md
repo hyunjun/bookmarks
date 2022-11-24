@@ -490,6 +490,7 @@ Interview
       * [Design Twitter | System Design Interview | Amazon Interview questions](https://www.youtube.com/watch?v=SaqAOa77ysk)
       * [Twitter System Architecture. Please clap and share if you like. | by JIN KANG LOW | InterviewNoodle | Oct, 2021 | Medium](https://medium.com/interviewnoodle/twitter-system-architecture-8dafce16aec4)
       * [The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds - High Scalability -](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
+      * [엘런 머스크, 트위터 아키텍쳐 리뷰하기](https://greypencil.tistory.com/175)
   * Uber, Lyft, and, Yelp
     * [UBER System design | OLA system design | uber architecture | amazon interview question](https://www.youtube.com/watch?v=umWABit-wbk)
     * [System Design: Uber Lyft ride sharing services - Interview question](https://www.youtube.com/watch?v=J3DY3Te3A_A)
