@@ -2,6 +2,9 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [The Scaling Agile Showdown – Comic Agilé](https://www.comicagile.net/comic/the-showdown/)
+  * 랩 형식을 빌려 운율을 맞춰서 번역하기 어렵기도 하고 맛을 살리기엔 내가 너무 부족함
+  * The Shelter는 디트로이트의 공연장 https://en.wikipedia.org/wiki/The_Shelter_(Detroit)
 * [Homeschooling – Comic Agilé](https://www.comicagile.net/comic/homeschooling/)
   * 코로나 위기로 우리 모두 집에 머물러야 하니, 엄마와 내가 너희들에게 홈스쿨링을 시작하는 게 좋겠다고 합의했단다.
   * 차를 만드는 방법을 배우고 싶어요! … 그리고 태양이 뜨거운 이유를 알고 싶어요!
