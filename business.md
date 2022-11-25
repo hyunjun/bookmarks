@@ -206,6 +206,7 @@ Business
 * [조직 문화의 중요성을 알려주는 멋진 말들(ft.. : 네이버블로그](https://blog.naver.com/help2000/222835282529)
 * ["조직문화, 제대로 못할거면 차라리 내버려둬라"](https://v.daum.net/v/20221007130515369)
 * [조직문화가 실제로 작동하는 것이 되려면](https://brunch.co.kr/@peoplevalue/3)
+* [자유로운 조직문화가 부럽나요? 이를 위해 리더.. : 네이버블로그](https://blog.naver.com/hs_group/222809897411)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [culture '상식과 반복'이 문화를 변화시킵니다](https://community.rememberapp.co.kr/post/85713)
@@ -776,6 +777,7 @@ Business
 * [스타트업의 핵심인력이 가져야할 조건 2편 : 네이버 블로그](https://blog.naver.com/dmchoi888/222696224561)
 * [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
 * [스타트업 인재 채용, ‘보상 설계’가 중요합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiresystem20220825)
+* [“네 사진도 언젠간 여기 걸릴 것이라 생각하면 설레지 않니?”](https://contents.premium.naver.com/saramin/waytowork/contents/221118103945167kd) 즉각적인 보상에 대한 이야기
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
@@ -1332,6 +1334,8 @@ Business
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
 * [개발자를 코칭하며 배운 7 가지 | Popit](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%BD%94%EC%B9%AD%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-7-%EA%B0%80%EC%A7%80)
+* [**Mochary Method Curriculum - Google Docs**](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/)
+  * [CEO & VC 필독서 스타트업 멘토링 커리큘럼 by Notion과 Sequoia의 멘토 Matt Mochary](https://www.romanceip.xyz/startup101withmochary/)
 * [좋은 멘토의 3가지 기준](http://moneyman.kr/archives/4003) 구체적인 숫자, 편안함 + 약간의 불편함, 자극과 휴식
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
@@ -1995,6 +1999,7 @@ Business
 * [스타트업의 해외진출과 플립 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243263)
 * [한국에서 싱가포르로 ‘플립’하기 < 기고 < 오피니언 < 기사본문 - K글로벌타임스](https://www.kglobaltimes.com/news/articleView.html?idxno=11854)
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
+* [사내정치는 반드시 필요합니다. (feat 결정.. : 네이버블로그](https://blog.naver.com/madaboutit/222932198024)
 * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
   * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
