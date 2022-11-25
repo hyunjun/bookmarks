@@ -896,6 +896,7 @@ Algorithm
 * [트라이 (trie)](https://www.youtube.com/watch?v=7e1b70dTAd4)
 * [trie에서 공간을 줄이기 위해 포인터를 어떻게 쪼갤까요](https://codingdog.tistory.com/entry/trie%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%AA%BC%EA%B0%A4%EA%B9%8C%EC%9A%94)
 * [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections | the morning paper](https://blog.acolyer.org/2015/11/27/hamt/)
+* [TRIE(검색어추천알고리즘) - YouTube](https://www.youtube.com/watch?v=QpxDQ-euMok)
 
 # Viterbi
 * greedy의 문제점을 해결하기 위해 only one best path를 찾는 방법
