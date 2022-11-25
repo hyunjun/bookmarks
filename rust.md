@@ -167,6 +167,7 @@
 * [Azure CTO: "이제 새 프로젝트를 C/C++로 시작하는 것은 중단할 때가 되었음" | GeekNews](https://news.hada.io/topic?id=7447)
 * [C++의 시대는 저물고 있고, Rust는 떠오르고 있다 - 엘키의 주절 주절](https://elky84.github.io/2022/09/25/cpp_time_is_end_rust_is_rising/)
 * [Rust Before Main - Ryan Levick - Rust Linz, July 2022 - YouTube](https://www.youtube.com/watch?v=q8irLfXwaFM)
+* [Using Rust at a startup: A cautionary tale | by Matt Welsh | Nov, 2022 | Medium](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
