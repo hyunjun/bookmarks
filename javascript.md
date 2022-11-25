@@ -3352,6 +3352,7 @@ Javascript
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
 * [lets-react: React tutorial written in React](https://github.com/Avantgarde95/lets-react)
 * [React Website Tutorial - Beginner React JS Project Fully Responsive - YouTube](https://www.youtube.com/watch?v=6SCYzHkve9E)
+* [React Website Tutorial - Beginner ReactJS Project Fully Responsive | Online Course Website Design #1 - YouTube](https://www.youtube.com/watch?v=tRS9vACJc68)
 * [Conditional Rendering in React JS | React Tutorial for Beginners | Edureka - YouTube](https://www.youtube.com/watch?v=ZeP3Kw-VsGI)
 * [Conditional Rendering In ReactJS - YouTube](https://www.youtube.com/watch?v=Gb9C5SwzWs8)
 * [Introduction to Modern React (2 Hour Course) - YouTube](https://www.youtube.com/watch?v=Siy-pU8Wzcs)
@@ -4232,6 +4233,7 @@ Javascript
 * [React Native Cars App || React Native Project || React Native Tutorial - YouTube](https://www.youtube.com/watch?v=1gWYDaDd-fw)
 * [Building Your Own Hooks in React Native | Custom Hook for API | Advanced React Native | Axios Hook - YouTube](https://www.youtube.com/watch?v=5YX8vKjH8_Y)
 * [How To Build Dynamic Island For React Native - Tutorial Step by Step - YouTube](https://www.youtube.com/watch?v=OqLW0iMfuwU)
+* [React Native in 2022 and Beyond - Semaphore](https://semaphoreci.com/blog/react-native)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
@@ -5156,6 +5158,7 @@ Javascript
   * 오브젝트 리터럴을 허용하는 경우 불필요한 프로퍼티도 사용된다고 오해할 수 있고 타입의 오타가 있는 경우도 허용되는 문제가 있어서 이를 지원하지 않는 결정
   * 이를 허용하고자 한다면 타입에 Index signature를 포함할 수 있고 아니면 Branded type을 적용해서 지정한 타입 외에는 허용하지 않도록 할 수 있음
 * [unknown , any, never 타입 이해하기](https://blog.naver.com/pjt3591oo/222931827299)
+* [Typescript - Union Type, Intersection Type, Etc. | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-typescript-tip/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
