@@ -645,6 +645,7 @@ Scala
 * [Applying a function to just one previous term in a Scala lazy collection](https://medium.com/swlh/applying-a-function-to-just-one-previous-term-in-a-scala-lazy-collection-59db607a05c2)
 * [Scala Val, Lazy Val And Def | Understand The Difference between val and lazy val in Scala | 2021 HD - YouTube](https://www.youtube.com/watch?v=7VC6znXIKY8)
 * [Ep 17: The Magic of LazyLists - YouTube](https://www.youtube.com/watch?v=laB15gG5bjY)
+* [The Magic of Lazy Lists](https://justinhj.github.io/2022/11/05/magic-of-lazy-lists.html)
 * [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
 * [Using Scala to Read Really, Really Large Files](https://medium.com/@morgen.peschke/using-scala-to-read-really-really-large-files-c9e3e9538bac)
   * Comparisons of The Standard Libraries, better-files, Akka Streams, FS2 (I/O helpers), FS2 (core), Reference Implementation in Java
@@ -769,6 +770,7 @@ Scala
   * [Destroy your foldLeft with traverse and State - Scala tutorial - YouTube](https://www.youtube.com/watch?v=UC1OTg5zBnY)
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
+  * [Automatic parallelisation of for-comprehensions in Scala 3 - VirtusLab](https://virtuslab.com/blog/automatic-parallelisation-of-for-comprehensions-in-scala-3/)
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-to-t-md)
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
@@ -1030,6 +1032,7 @@ Scala
     * [Introducing Scopes in ZIO 2.0 | Medium](https://murraytodd.medium.com/zio-20-scopes-b583f487c0af)
     * [Structuring ZIO 2 applications](https://softwaremill.com/structuring-zio-2-applications/)
     * [ZLayers in ZIO 2.0 are a totally different BEAST! - YouTube](https://www.youtube.com/watch?v=3ScqDZp9X3c)
+    * [Native Config Lands in ZIO 2.0 – John A De Goes](https://degoes.net/articles/zio-config)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
@@ -2236,6 +2239,7 @@ Scala
 * [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
 * [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
 * [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
+* [Scala 3: the missing compiler plugin • gvolpe's blog](https://gvolpe.com/blog/scala3-missing-compiler-plugin/)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2257,6 +2261,7 @@ Scala
   * [RJUG #20 : Scala for the People (again)! Simpler coding with Scala 3/Dotty by Mikołaj Koziarkiewicz - YouTube](https://www.youtube.com/watch?v=BMFrBf7QtDA)
   * [Dotty becomes Scala 3](https://dotty.epfl.ch/blog/2020/09/21/naming-schema-change.html)
   * [ING Scala Meetup : Working with Dotty - YouTube](https://www.youtube.com/watch?v=qqqfImDtduE)
+  * [The Journey of a Dotty Diagnostic](https://www.chris-kipp.io/blog/the-journey-of-a-dotty-diagnostic)
   * dotty-cps-async [CAN WE FREE CONCURRENT PROGRAMMING FROM THE MONADIC STYLE - Ruslan Shevchenko | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=ImlUuTQUeaQ)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
