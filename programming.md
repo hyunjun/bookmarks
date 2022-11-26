@@ -4562,6 +4562,7 @@ Programming
 * [리액티브 프로그래밍 기초 2 - 비동기 프로그래밍 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [리액티브 프로그래밍 기초 3 - 리액티브 스트림 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-3-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 * [**프로그래밍 패러다임과 반응형 프로그래밍 그리고 Rx**](https://velog.io/@teo/reactive-programming) cycle.js등 javascript 관점
+* [A More Elegant Specification for Functional Reactive Programming • Conal Elliott • YOW! 2015 - YouTube](https://www.youtube.com/watch?v=9vMFHLHq7Y0)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
