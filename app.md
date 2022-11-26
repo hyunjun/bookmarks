@@ -706,6 +706,7 @@ App
   * [Postman Mock Server로 팀 프로젝트의 개발 속도와 갈등을 개선하기](https://velog.io/@couchcoding/Postman-Mock-Server%EB%A1%9C-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EC%86%8D%EB%8F%84%EC%99%80-%EA%B0%88%EB%93%B1%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
   * [postman 똑똑한 runner 활용방법 - csv 기반으로 요청하기](https://blog.naver.com/pjt3591oo/222633514486)
   * [postman APIs로 collection, mockup, document, test 통합관리](https://blog.naver.com/pjt3591oo/222635644050)
+  * [포스트맨(postman) mock server 똑똑하게 활용하기](https://blog.naver.com/pjt3591oo/222938585401)
   * [Postman Now Supports gRPC | Postman Blog](https://blog.postman.com/postman-now-supports-grpc/)
     * [Postman, gRPC 지원 | GeekNews](https://news.hada.io/topic?id=5878)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법 : NHN Cloud Meetup](https://meetup.toast.com/posts/107)
