@@ -402,6 +402,8 @@ Book
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
 * (NOT YET) [처음 배우는 그래픽 레코팅](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
+* (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
+  * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
