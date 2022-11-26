@@ -800,6 +800,7 @@ Business
 * [꿈이 없다는 것이 불행은 아니다](https://brunch.co.kr/@wonjoonlee/7) 인재
 * [20~40대 절반 “연봉 줄어도 조직문화 맞으면 이직”… 휴가 최우선](https://v.daum.net/v/20221117030054820)
 * [방만한 접근이 인재난 키운다··· 기업의 채용 실수 24가지 - CIO Korea](https://www.ciokorea.com/news/260710)
+* [‘처음 3년’을 버텨라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/207638) 경력 인재
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1997,6 +1998,11 @@ Business
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
 * [스타트업의 해외진출과 플립 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243263)
+* [당근마켓 영국 사업 회고록 (1/N) - by Laurie Hwang](https://lauriehwang.substack.com/p/work-1n)
+* [당근마켓 영국 사업 회고록 (2/N) - by Laurie Hwang](https://lauriehwang.substack.com/p/2n)
+* [당근마켓 영국 사업 회고록 (3/N) - 런던 출장 Part 1 - by Laurie Hwang](https://lauriehwang.substack.com/p/3n-part-1)
+* [영국 사업 회고록 (4/N) - 런던 출장 Part 2. - by Laurie Hwang](https://lauriehwang.substack.com/p/4n-part-2)
+* [영국 사업 회고록 (5/N) - 현지 그로스 어디까지 해봤니? - by Laurie Hwang](https://lauriehwang.substack.com/p/5n)
 * [한국에서 싱가포르로 ‘플립’하기 < 기고 < 오피니언 < 기사본문 - K글로벌타임스](https://www.kglobaltimes.com/news/articleView.html?idxno=11854)
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 * [사내정치는 반드시 필요합니다. (feat 결정.. : 네이버블로그](https://blog.naver.com/madaboutit/222932198024)
