@@ -1822,6 +1822,7 @@ Docker
   * [쿠버네티스용 오픈소스 보안 플랫폼 ‘쿠버스케이프'에 취약성 검사 기능 추가 - ITWorld Korea](https://www.itworld.co.kr/news/250618)
 * [kube-schedule-scaler: Kubernetes Controller which provides schedule scaling to Kubernetes deployments and other custom resources in the cluster](https://github.com/amelbakry/kube-schedule-scaler)
   * [kube schedule scaler 도입기](https://www.linkedin.com/posts/gunwoo-park-iwan_%EC%B9%B4%EC%82%AC-%EC%9E%85%EC%82%AC%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%9C-%EC%B2%AB-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EB%82%A8%EA%B2%A8%EB%86%93%EC%9C%BC%EB%A0%A4%EA%B3%A0%ED%95%9C%EB%8B%A4-activity-6921404760088600576-oaMg/)
+* [kubeshark: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes](https://github.com/kubeshark/kubeshark)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
