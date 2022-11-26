@@ -129,6 +129,7 @@ SQL
 * [Top 10 Tips to Improve SQL Query Performance | by Bigscal Technologies | Medium](https://medium.com/@Bigscal-Technologies/top-10-tips-to-improve-sql-query-performance-f40f25047661)
 * [Valentina Cupać on Twitter: "What's the logical order of SQL query operations? SQL Query Execution Order (Visualized). #SQL #Databases https://t.co/PWgGe0SNbU" / Twitter](https://twitter.com/ValentinaCupac/status/1556906177686036480)
 * [SQL Query Order of Execution | Sisense](https://www.sisense.com/blog/sql-query-order-of-operations/)
+* [SQL queries run in this order](https://www.linkedin.com/feed/update/urn:li:activity:7001435210026225664/)
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [초보자 확실히 기억해야 하는 SQL 가이드](https://brunch.co.kr/@04925bf0d77f43e/7)
