@@ -166,6 +166,7 @@ Finance
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [삼성페이를 도입하는 카드사의 속사정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1638/)
 * 저축하나로 [최근에 예금 적금 가입하신 분은 이 영상 보지 마세요 (씨비파이낸셜솔루션 최혜윤 대표) - YouTube](https://www.youtube.com/watch?v=uiK4Sqi0egM)
+* [해빗팩토리가 보험에서 미 주담대, 연금까지 진출한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/habitfactory20221125)
 * [Column — The developer infrastructure bank](https://column.com/)
   * [Column - 개발자를 위한 은행 | GeekNews](https://news.hada.io/topic?id=6419)
 
