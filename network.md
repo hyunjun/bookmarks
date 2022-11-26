@@ -46,6 +46,7 @@ Network
 * [OVN overview](https://uni2u.tistory.com/124)
 * [HTTP 통신간의 쿠키와 세션의 동작방식](https://www.kurien.net/post/view/31)
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
+* [브라우저에서 google.com을 치면 일어나는 일들에 대해 알아볼까요? - YouTube](https://www.youtube.com/watch?v=0Oqkw8wVY_c)
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
 * [URL 구조 이해하기](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
 * [Shortest URLs on the Internet | James Williams](https://jameswillia.ms/posts/shortest-urls.html)
