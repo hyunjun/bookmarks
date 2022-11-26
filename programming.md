@@ -1489,6 +1489,7 @@ Programming
 * [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 * [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
 * [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
+* [Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
@@ -1653,6 +1654,8 @@ Programming
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 * [Event Driven Architectures vs Workflows (with AWS Services!) - YouTube](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
 * [Clustered Event-Driven Services • Olivier Deheurles & James Watson • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=N5xBUrf_iV0)
+* [Event Modeling Part 1 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=7sfJQ9doETQ)
+* [Event Modeling Part 2 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
