@@ -727,6 +727,7 @@ Programming
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
   * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
+  * [스포티파이의 실수에서 배울 점](https://www.linkedin.com/posts/youngmin-kim-073672ba_spotify%EC%9D%98-squad-%ED%8C%80-%EB%AA%A8%EB%8D%B8%EC%9D%80-%EC%8B%A4%ED%8C%A8%EC%98%80%EB%8B%A4-geeknews-activity-7002171789795610624-y0hQ/)
 * [Death Of The "Spotify Model" • Gijs Meijer & Marcin Pakulnicki • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X3AHdo34gWM)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
