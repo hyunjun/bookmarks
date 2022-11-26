@@ -5040,6 +5040,8 @@ Python
 * [How To Write Unit Tests For Existing Python Code // Part 2 of 2 - YouTube](https://www.youtube.com/watch?v=NI5IGAim8XU)
 * [A/B Testing for Data Science ( Python and R) | June 30th, 2021](https://ugong2san.tistory.com/4555)
   * [ABTest at main · diligejy/Growth](https://github.com/diligejy/Growth/tree/main/ABTest)
+* [How to Support A/B Testing in Your Python Code - YouTube](https://www.youtube.com/watch?v=115SeMub-P0)
+  * [2022-abtest](https://github.com/ArjanCodes/2022-abtest)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
