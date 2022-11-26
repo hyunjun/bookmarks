@@ -163,6 +163,7 @@ Data Science
   * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (2) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163210)
   * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (3) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163238)
   * [빅데이터 분석 위한 대규모 확장형 스토리지··· ‘데이터 레이크’ A to Z - CIO Korea](https://www.ciokorea.com/news/235019)
+* [Data Lake with Serverless | 월요일 오후 9시](https://medium.com/monday-9-pm/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
 * [Data Warehouse vs. Data Mart vs. Data Lake | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-mart-vs-data-lake-a335f328e6a8)
 * [기획특집 ‘창고’와 ‘호수’를 넘어서는 데이터 레이크하우스](http://www.itdaily.kr/news/articleViewAmp.html?idxno=208876) lakehouse
 * [‘일관성·유연성’ 덕에 각광… 데이터 레이크하우스 활용 사례 - CIO Korea](https://www.ciokorea.com/news/244060)
