@@ -2018,6 +2018,9 @@ Programming Books
 * [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
   * 2018.07
   * 한라 004.73박14ㅊ
+* [소문난 명강의 : 김범준의 핸즈온 리액트 네이티브](https://hanbit.co.kr/store/books/look.php?p_code=B2920695216)
+  * [소문난 명강의: 김범준의 핸즈온 리액트 네이티브. 최근 flutter의 성장세가 거세지만, 여전히 react… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%86%8C%EB%AC%B8%EB%82%9C-%EB%AA%85%EA%B0%95%EC%9D%98-%EA%B9%80%EB%B2%94%EC%A4%80%EC%9D%98-%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-e6baacce24a)
+  * [소문난 명강의: 김범준의 핸즈온 리액트 네이티브 -](https://jh4hj.tistory.com/entry/%EC%86%8C%EB%AC%B8%EB%82%9C-%EB%AA%85%EA%B0%95%EC%9D%98-%EA%B9%80%EB%B2%94%EC%A4%80%EC%9D%98-%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C)
 * (NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
   * 2018.02 한라
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)
