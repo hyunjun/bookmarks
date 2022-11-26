@@ -74,6 +74,7 @@ Government
 * [Google AI Blog: Training Machine Learning Models More Efficiently with Dataset Distillation](https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
 * [Submodular Optimization for Minimizing Redundancy in Massive Data Sets | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vJ3ErkmUpLU)
 * [데이터란 무엇인가 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/whatisdata/) 기술 이야기는 아니고 그냥 재미있게 읽을 거리지만 근본적인 걸 묻는다는 점에서 기록할 가치가 있음
+* [ 경제적 "해자" 가득한 학습용 데이터를 만드려면?](https://www.linkedin.com/pulse/%EA%B2%BD%EC%A0%9C%EC%A0%81-%ED%95%B4%EC%9E%90-%EA%B0%80%EB%93%9D%ED%95%9C-%ED%95%99%EC%8A%B5%EC%9A%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%A0%A4%EB%A9%B4-kyle-kyungmin-ko/)
 
 # Library
 * [데이터 분석에 필요한 오픈 공공데이터포털 20가지- FineReport 빅데이터 포털](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EC%98%A4%ED%94%88-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%8C%EC%8A%A4-%ED%8F%AC%ED%84%B8-20%EA%B0%80/)
