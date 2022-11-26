@@ -1647,6 +1647,7 @@ Javascript
 * [Use These JavaScript Libraries To Level Up Your Project! - YouTube](https://www.youtube.com/watch?v=ZrFfPIPA5gs)
 * [2022년 프론트엔드 개발 동향 | 요즘IT](https://yozm.wishket.com/magazine/detail/1590/)
 * [Top 2 ORMs in JavaScript. When working with Ruby applications, I… | by Himanshu Gupta | Medium](https://medium.com/@himanshu_dev/top-2-orms-in-javascript-fadd2e57b81c)
+* [I Would Never Use an ORM, by Matteo Collina - YouTube](https://www.youtube.com/watch?v=qfRQ5zhYuJE)
 * [How to write your own state management library · Jude Hunter](https://judehunter.dev/blog/how-to-write-your-own-state-management-library)
   * [(번역) 자신만의 상태 관리 라이브러리를 작성하는 방법](https://velog.io/@lky5697/how-to-write-your-own-state-management-library)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -2067,6 +2068,7 @@ Javascript
   * [Gatsby vs. Next vs. Nuxt: Best JavaScript Framework for Server-side Rendering](https://morioh.com/p/fdc22ed3d90b)
   * [Building a Full Stack Social Media App with Nuxt 3, TailwindCSS and Prisma](https://morioh.com/p/31770a67dcad)
   * [How to use Cloudinary Images with Nuxt 3 - DEV Community 👩💻👨💻](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
+  * [Nuxt 3 – More Than Vue 3 on Steroids, by Alexander Lichter - YouTube](https://www.youtube.com/watch?v=cSjlefuZlaI)
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
@@ -2211,6 +2213,7 @@ Javascript
       * 이를 이용한 SolidJS의 사용 방법도 간단히 소개
   * [SolidJS와 함께 되짚어보는 반응형 프로그래밍 : NHN Cloud Meetup](https://meetup.toast.com/posts/326)
   * [Solid JS is a game changer - YouTube](https://www.youtube.com/watch?v=MgC-ESbahR0)
+  * [The World Beyond Components, by Ryan Carniato - YouTube](https://www.youtube.com/watch?v=-CrsHsBZFg4)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
