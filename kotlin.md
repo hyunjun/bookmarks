@@ -423,6 +423,7 @@
   * [Ktor로 Todo 서비스 빠르게 만들기](https://www.popit.kr/ktor%EB%A1%9C-todo-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   * [How to schedule jobs with Quartz on Ktor - Marco Gomiero](https://www.marcogomiero.com/posts/2022/ktor-jobs-quartz/)
   * [Ktor REST Apis - Integrating SQL Database using Ktorm | by Saurabh Pant | Sep, 2022 | Dev Genius](https://blog.devgenius.io/ktor-rest-apis-integrating-sql-database-using-ktorm-7adacdf41003)
+  * [Create a Kotlin/Native Web Server With Ktor and SQLDelight PostgresSQL | by Jonas TM | Nov, 2022 | Better Programming](https://betterprogramming.pub/create-a-kotlin-native-web-server-with-ktor-and-sqldelight-postgressql-44485267c340)
 * MockK [코틀린 mock 프레임워크 MockK 소개](https://javacan.tistory.com/entry/kotlin-mock-framework-mockk-intro)
 * [parsix: Parse, don't validate](https://github.com/parsix/parsix)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
