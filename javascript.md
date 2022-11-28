@@ -2032,6 +2032,7 @@ Javascript
   * [NestJS (with Mono Repo) WebStorm으로 디버깅 하기](https://jojoldu.tistory.com/607)
   * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
+  * [NestJS 환경에 맞는 Custom Decorator 만들기](https://toss.tech/article/nestjs-custom-decorator)
   * [Nest.js ConfigService를 주입받는 UseCase 테스트하기 | 강준영 기술 블로그](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
   * [Bank API as Microservices with CQRS in TypeScript | Level Up Coding](https://levelup.gitconnected.com/microservices-with-cqrs-in-typescript-and-nestjs-5a8af0a56c3a)
   * [Clean Node.js Architecture —With NestJs and TypeScript | by Royi Benita | Better Programming](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)
