@@ -1148,6 +1148,7 @@ Business
 * [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
 * [CTO가 CTO를 뽑습니다](https://brunch.co.kr/@leehosung/54)
 * [CTO는 어떤 일을 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1791/)
+* [Zero Sum Game - CTO의 변신이 R&D 혁신의 출발점이다](https://supremacy.tistory.com/378)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
