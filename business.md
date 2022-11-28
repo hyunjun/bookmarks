@@ -1259,6 +1259,7 @@ Business
 * [국내 유소년 훈련 지켜본 히딩크가 '충격' 받은 사연 SS현장](https://sports.v.daum.net/v/20220603184436117) 유소년 훈련만이 아니라 일반적인 업무에서도 이런 자세가 필요
 * [Golden State Warriors Coach Steve Kerr on building a culture of joy & competitiveness - YouTube](https://www.youtube.com/watch?v=1HqEYqyZnqM)
   * [번역 스티브 커가 말하는 문화, 코칭, 승리 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=230220) 주춧돌 = 재능 + 문화, 투명한 대화/소통(매일), 문화와 구조/가치 = 성공의 토대, 지름길/타협 X, 개인적인 관심, 공credit 최대한 분배, 대화를 만드는 게 중요
+* ['이게 팀이야?' 사우디 버전... 감독의 한마디에 선수들이 각성했다｜크랩 - YouTube](https://www.youtube.com/watch?v=6q5qGnW7JM0) 르나우 감독
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [나는 우리 직원을 신뢰하는가 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236073)
 * [Friendships form via shared context, not shared activities | Bill Mei](https://billmei.net/blog/friendship) 우정에 대한 이야기지만 신뢰로 바꿔서 생각해봐도 큰 무리는 없음
