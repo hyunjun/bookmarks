@@ -3126,6 +3126,7 @@ Javascript
   * [Express JS Tutorial - 0 - What are APIs | Introduction to Express JS - YouTube](https://www.youtube.com/watch?v=od1P-HA0tm8)
   * [Express JS Tutorial - 1 - Get API | Express JS for beginners - YouTube](https://www.youtube.com/watch?v=EAZbZsct48k)
   * [Express JS Tutorial - 2 - Create a GET api - YouTube](https://www.youtube.com/watch?v=c4PH09FpzRk)
+  * [데이터 변환 계층 (Data Transform Layer)](https://jojoldu.tistory.com/685) DTO
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
