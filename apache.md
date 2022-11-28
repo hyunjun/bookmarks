@@ -120,6 +120,7 @@ Apache
 * [Type safe BigQuery in Apache Beam with Spotify’s Scio](https://medium.com/swlh/type-safe-bigquery-in-apache-beam-with-spotifys-scio-c519fd44553d)
 * [Apache Beam으로 머신러닝 데이터 파이프라인 구축하기 1편 - 도입과 사용 – 핑퐁팀 블로그](https://blog.pingpong.us/apache-beam-1/)
 * [Apache Beam으로 머신러닝 데이터 파이프라인 구축하기 2편 - 개발 및 최적화 – 핑퐁팀 블로그](https://blog.pingpong.us/apache-beam-2/)
+* [Apache Beam으로 머신러닝 데이터 파이프라인 구축하기 3편 - RunInference로 모델 추론하기 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/apache-beam-3/)
 
 # BookKeeper
 * [Apache BookKeeper: A High Performance and Low Latency Storage Service](https://www.slideshare.net/hustlmsp/apache-bookkeeper-a-high-performance-and-low-latency-storage-service)
