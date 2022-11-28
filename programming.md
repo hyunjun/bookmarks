@@ -5137,6 +5137,7 @@ Programming
 * [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MWsk1h8pv2Q)
 * [Simple testing can prevent most critical failures | the morning paper](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/) 단순한 테스트가 대부분의 끔찍한 실패를 예방한다
 * [**Michael Feathers - the deep synergy between testability and good design - YouTube**](https://www.youtube.com/watch?v=4cVZvoFGJTU) 잘 설계된 제품 코드와 테스트 가능성 간의 큰 상승효과
+* [Test Driven Development: That’s Not What We Meant • Steve Freeman • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=yuEbZYKgZas)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
