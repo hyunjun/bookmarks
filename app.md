@@ -1017,6 +1017,23 @@ App
 * [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
 * [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
+* Apps Script
+  * [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
+  * [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
+  * [아웃룩(outlook) 일정을 구글 캘린더(google calendar)에서 보기](http://ohyecloudy.com/pnotes/archives/sync-outlook-calendar-with-google-calendar/)
+* Calendar
+  * [Google Calendar API 분석 및 시스템 구축 전략 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/88)
+* Google sheet
+  * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
+  * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
+  * [불쌍한 개발자를 데이터 요청에서 해방시키는 방법 - YouTube](https://www.youtube.com/watch?v=32yNrr8rzP0)
+  * [‘구글시트’로 30분 만에 공짜 이더리움+ERC20+ERC721 입금 감지 서버 만들기 | by 김선태 | Dooda | Mar, 2021 | Medium](https://medium.com/doodateam/%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EA%B3%B5%EC%A7%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-erc20-erc721-%EC%9E%85%EA%B8%88-%EA%B0%90%EC%A7%80-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-8de64dd5a166)
+  * [AppsScript를 이용해 구글시트 우편번호 입력 기능 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/apps-script/)
+  * [Google Sheets - 일정 간격의 값들을 가져와 자동으로 채우기](https://jusths.tistory.com/240)
+* Gmail
+  * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
+  * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
+  * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 * [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
   * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
 
@@ -1896,10 +1913,6 @@ App
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
-* [Google Apps Script Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=Nd3DV_heK2Q)
-* [Real time projects on Google Apps Script - YouTube](https://www.youtube.com/playlist?list=PLe_F6wC3FvdqtFWtyymOCCjnyLSvKBIKJ)
-* Calendar
-  * [Google Calendar API 분석 및 시스템 구축 전략 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/88)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
@@ -1914,17 +1927,6 @@ App
   * [알아두면 유용한 윈도우 및 맥용 엑셀 단축키 - CIO Korea](https://www.ciokorea.com/news/199979)
   * [스프레드시트가 비즈니스를 망치는 5가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/228424)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
-* Google sheet
-  * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
-  * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
-  * [불쌍한 개발자를 데이터 요청에서 해방시키는 방법 - YouTube](https://www.youtube.com/watch?v=32yNrr8rzP0)
-  * [‘구글시트’로 30분 만에 공짜 이더리움+ERC20+ERC721 입금 감지 서버 만들기 | by 김선태 | Dooda | Mar, 2021 | Medium](https://medium.com/doodateam/%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EA%B3%B5%EC%A7%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-erc20-erc721-%EC%9E%85%EA%B8%88-%EA%B0%90%EC%A7%80-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-8de64dd5a166)
-  * [AppsScript를 이용해 구글시트 우편번호 입력 기능 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/apps-script/)
-  * [Google Sheets - 일정 간격의 값들을 가져와 자동으로 채우기](https://jusths.tistory.com/240)
-* Gmail
-  * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
-  * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
-  * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 * [Layer — Collaborate on spreadsheets like never before](https://golayer.io/)
   * [Layer — A New Tool for Spreadsheet Management | by Robby Boney | Short Bits | May, 2022 | Medium](https://medium.com/short-bits/layer-a-new-tool-for-spreadsheet-management-6f45278c1cf7)
 * [OfficerBreaker: OOXML password remover](https://github.com/nedlir/OfficerBreaker)
