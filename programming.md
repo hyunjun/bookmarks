@@ -5092,7 +5092,7 @@ Programming
 * [생각을 그대로 프로그래밍하는 방법 part 1: 학부생의 방법론 / TDD 방법론 - YouTube](https://www.youtube.com/watch?v=uk-UQf7d5UY)
 * [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL - YouTube](https://www.youtube.com/watch?v=xkRwR0sLwVA) property based testing
 * [Using ASCII waveforms to test real-time audio code - Q2Q](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
-* [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
+* ~[소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)~
 * Test pyramid
 * [테스트기반개발 실습 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278788)
 * [Unit Test - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Unit+Test)
