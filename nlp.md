@@ -856,6 +856,7 @@ NLP
   * [apeach.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/8a2ce7fa1bf59883e8aa51b38f76f3e7/apeach.ipynb)
   * [jason9693/APEACH · Datasets at Hugging Face](https://huggingface.co/datasets/jason9693/APEACH)
 * [hatescore-korean-hate-speech: 8K human in the loop hate speech dataset and 2.2K neutral sentences](https://github.com/sgunderscore/hatescore-korean-hate-speech/)
+* [kmhas_korean_hate_speech · Datasets at Hugging Face](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) 혐오발언 데이터
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 단일 문장에 대해 8개의 혐오카테고리로 multi-labeling한 데이터
 * [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
