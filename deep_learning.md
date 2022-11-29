@@ -744,6 +744,7 @@ Deep Learning
 * [Learnable Dynamics Model로 무엇을 할 수 있을까? | by Taeho Lee | We’re Team MakinaRocks! | Aug, 2022 | Medium](https://medium.com/makinarocks/learnable-dynamics-model%EB%A1%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-b801c6d4fe5b)
 * [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
 * [Hadi Abdi Khojasteh - Large Scale Representation Learning In-the-wild | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=YRJTpk3yfTc)
+* [Deep Learning by Open API | Pega Devlog](https://jehyunlee.github.io/2022/11/29/Python-DS-124-kierlecture8/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
