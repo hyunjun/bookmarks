@@ -756,8 +756,6 @@ Business
     * 도메인 파악이 어려워서 의사 결정 테이블로 조건을 정리하고 QA까지 통과해서 배포했지만, 성능 문제가 발생
     * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
 * [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
-* [좋은 팀 구성 및 개발 문화 조성의 중요성 | 요즘IT](https://yozm.wishket.com/magazine/detail/1738/)
-* [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
 * [Why is recruiting developers so difficult?](https://polyfill.work/blog/why-is-recruiting-developers-so-difficult)
 * [물경력을 피하는 방법](https://brunch.co.kr/@zseo/59)

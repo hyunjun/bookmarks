@@ -374,6 +374,9 @@ Programming
 * [페이스북은 어떻게 배포하는가? – IT의 중심에서](https://subokim.wordpress.com/2022/06/12/how_facebook_work/) 오래된 이야기지만, 개발자 중심 문화
   * [페이스북은 어떻게 배포하는가 | GeekNews](https://news.hada.io/topic?id=6740)
 * [Tech Company를 지향하는 오늘의집 개발 문화 #1 - 오늘의집 블로그](https://www.bucketplace.com/post/2022-11-23-tech-company%EB%A5%BC-%EC%A7%80%ED%96%A5%ED%95%98%EB%8A%94-%EB%B2%84%ED%82%B7%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-ver-2022_01/)
+* [좋은 팀 구성 및 개발 문화 조성의 중요성 | 요즘IT](https://yozm.wishket.com/magazine/detail/1738/)
+* [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
+* [우리는 개발 문화에 진심입니다 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/10639/)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
