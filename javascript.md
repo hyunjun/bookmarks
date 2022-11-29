@@ -2533,6 +2533,7 @@ Javascript
   * [yarn berry 프로젝트 생성해보기](https://velog.io/@juunini/yarn-berry-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0)
   * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7976/)
+  * [yarn berry로 React.js 프로젝트 시작하기 | Kasterra's Archive](https://kasterra.github.io/setting-yarn-berry/)
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
