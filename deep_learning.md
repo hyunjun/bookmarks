@@ -444,6 +444,7 @@ Deep Learning
 * [Introduction to Deep Learning Normalization](https://subinium.github.io/introduction-to-normalization)
 * [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
+* [XPU(GPU, IPU, TPU 등) – Hardware Acceleration #1 – <A Story about…/>](http://kyunam.com/?p=259)
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
 * [김현호: 오늘 당장 딥러닝 실험하기 - PyCon Korea 2015](https://www.youtube.com/watch?v=j-CojQwIt70)
 * [Nuts and Bolts of Applying Deep Learning](https://kevinzakka.github.io/2016/09/26/applying-deep-learning/)
