@@ -47,6 +47,7 @@ Anomaly Detection
 * [Simple Anomaly Detection Using Plain SQL | Haki Benita](https://hakibenita.com/sql-anomaly-detection)
 * [Anomaly Detection on AWS (Korean) | AWS 교육 및 자격증](https://www.aws.training/Details/Video?id=61180)
 * [실시간 데이터 검증하기 | MakinaRocks Tech Blog](https://makinarocks.github.io/testing-data-in-online-env/)
+* [머신러닝 이상치 분석 성능 평가 - 실루엣 스코어 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/silhouette-score/)
 
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
