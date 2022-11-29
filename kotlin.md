@@ -279,6 +279,7 @@
 * [Execute Shell Commands in Java/Scala/Kotlin - Alexandru Nedelcu](https://alexn.org/blog/2022/10/03/execute-shell-commands-in-java-scala-kotlin/)
 * [Is Kotlin’s Destructuring Useful? | by Renee Vandervelde | ReadySet.build](https://readyset.build/is-destructuring-useful-5b6cf32307d2)
 * [무지성으로 사용하는 코틀린은 당신의 서비스를 위태롭게 할 수 있다. | by Inpyo Jeon | 월요일 오후 9시 | Nov, 2022 | Medium](https://medium.com/monday-9-pm/%EB%AC%B4%EC%A7%80%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%80-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%83%9C%EB%A1%AD%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-9a61ce9d6d7e) collection sequence
+* [코틀린에서 if 문 다뤄보기](https://www.roach-dev.com/kotlin_take_if/)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
