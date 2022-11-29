@@ -153,6 +153,7 @@ Linux
 * [알리바바가 외친 “열려라 참깨”에는 열리지 않는 문 - 넷마블 기술 블로그](https://netmarble.engineering/optimize-linux-account-and-password/) 계정
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 * [etc 디렉터리에 있는 소중한 아이들 - 넷마블 기술 블로그](https://netmarble.engineering/watch-out-important-files-in-etc-directory/)
+* [여기보기 장치를 연결하고 인식하는 과정에도 빈틈은 있다 - 넷마블 기술 블로그](https://netmarble.engineering/check-device-files-and-disable-automountd/)
 * [에스코어 | swappiness 커널 파라미터 관련(SWAP)](https://s-core.co.kr/post_os/swappiness-%EC%BB%A4%EB%84%90-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EA%B4%80%EB%A0%A8swap/)
 
 # 배포판
