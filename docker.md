@@ -2187,6 +2187,7 @@ Docker
 * [클라우드 시스템 운영 비율](https://naleejang.tistory.com/246)
 * [오픈소스 컨트리뷰션 1주차 스프린트 : 오픈스택 환경 구성하기 | by Ryan Kim | Aug, 2021 | Medium](https://equus3144.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-%EC%84%A4%EC%B9%98-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-be44aed886)
 * [Open Infra How to calculate the cloud system operating rate](https://naleejang.tistory.com/247)
+* [컴퓨트 노드에서 DHCP 가상 네트워크 찾기](https://naleejang.tistory.com/256)
 * [Heat Template를 이용한 오픈스택 프로비저닝 - YouTube](https://www.youtube.com/watch?v=dGkMWdTsjxc)
 * [셸 스크립트를 이용한 인스턴스 생성](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
 * [셸 스크립트를 활용한 클라우드 모니터링](https://www.youtube.com/watch?v=f5_JMY2nHFs)
