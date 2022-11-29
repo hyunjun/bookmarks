@@ -68,9 +68,6 @@ Book
   * 2012.12.13
 * [올로프 팔메 스웨덴이 사랑한 정치인](https://www.evernote.com/shard/s31/client/snv?noteGuid=a8e3d2a0-53e2-45c5-81b3-e72cbf90f6af&noteKey=1d36c28cbf36fd155d224fe4819ef252&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs31%2Fsh%2Fa8e3d2a0-53e2-45c5-81b3-e72cbf90f6af%2F1d36c28cbf36fd155d224fe4819ef252&title=%25EC%2598%25AC%25EB%25A1%259C%25ED%2594%2584%2B%25ED%258C%2594%25EB%25A9%2594%2B%25EC%258A%25A4%25EC%259B%25A8%25EB%258D%25B4%25EC%259D%25B4%2B%25EC%2582%25AC%25EB%259E%2591%25ED%2595%259C%2B%25EC%25A0%2595%25EC%25B9%2598%25EC%259D%25B8)
   * ★★★★★ 2013.02.23
-* [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
-  * 2013.04.03~04
-  * (이미 늦은 감이 있지만) 빅데이터 시대의 도래에 따른 사회 변화, 사례, 앞으로의 전망을 엮은 빅데이터 관련 입문서와 같은 책. 프로그래머들보다는 기획자나 관심있는 사람들이 읽기에 좋다. 결론은 '지금도 이미 널리 활용되고 있고, 앞으로는 더 폭넓고 깊게 사용된다.'
 * [모사드](https://jh4hj.tistory.com/entry/%EB%AA%A8%EC%82%AC%EB%93%9C)
   * 2013.09.23
 * [나는 마당있는 작은 집에 산다](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EB%A7%88%EB%8B%B9%EC%9E%88%EB%8A%94-%EC%9E%91%EC%9D%80-%EC%A7%91%EC%97%90-%EC%82%B0%EB%8B%A4)
@@ -109,15 +106,6 @@ Book
 * [고서 수집가의 기이한 책 이야기 : 네이버 블로그](https://blog.naver.com/eastia/221321461180)
   * ★★★☆☆ 2021.08.23
   * 오랜만의 소설. 내용도 흥미롭고 재미있게 잘 읽히는데 아무래도 우리나라와 관련된 부분이나 마지막 장의 인피 장정은 썩 유쾌하진 않다
-* [팩트풀니스 <비판리뷰> 의심하며 읽어야 할 책](https://blog.naver.com/muchloveme/221700777416)
-  * ★★★☆☆ 2021.08.26
-  * 통계를 바탕으로 데이터 시각화를 통해 편견에서 벗어날 것을 요구하는 책
-  * 직관이나 비난, 이분법 등 우리가 빠지기 쉬운 오류를 벗어나도록 통계를 바탕으로 세상에 대한 시선이 얼마나 왜곡되어 있는지(특히 이른바 '선진국' 사람들이라면 더)를 말한다
-  * [p60 내 생각에 인간에게는 이분법적 사고를 추구하는 강력하고 극적인 본능이 있는 것 같다](images/factufullness.jpeg)
-    * 그래서 양당제가 다당제보다 더 활발할까?
-  * [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
-    * 저자가 만든 재단에서 제작한 사이트 중 하나
-    * 소득에 따른 삶의 모습을 보여주는 게 흔히 책에서 볼 수 있는 각 나라의 고유 복장을 보여주는 거 보다 현실에 가깝기 때문에 이런 사이트를 만들었다고 함
 * [21세기를 위한 21가지 제언](https://science-infuse.tistory.com/1003)
   * 2021.08.27
   * 유발 하라리의 책이라기에 읽어봤지만 문제만 제기하는 데 그쳐 읽다가 멈춤
@@ -136,8 +124,6 @@ Book
   * [`고독한 미식가` 다니구치 지로, 영혼을 위로하는 만화가 - 매경프리미엄](https://www.mk.co.kr/premium/life/view/2018/09/23538/)
 * [넬슨 만델라 그래픽 평전](https://blog.naver.com/ary68017/220054245724)
   * ★★★★☆ 2021.12.20 대략은 알고 있었지만 생각보다 훨씬 힘들었던 넬슨 만델라의 생애. 27년의 감옥생활은 정말 상상도 할 수가 없다. 풀려난 후에도 그 지난한 협상과 설득의 기록은 범인으로서는 도저히 따라갈 수 없는 정치력, 끈질김등을 조금이나마 느낄 수 있게 해준다
-* [데이터 스토리](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC)
-  * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
 * [앨런 튜링: 생각하는 기계, 인공지능을 처음 생각한 남자](https://www.itworld.co.kr/news/100542)
   * ★★★☆☆ 2021.12.21 비극적인 천재의 전형이랄까. 2013년에 영국 왕실에서 사면을 했다고 하지만 그게 튜링에게 무슨 의미가 있을까. 마음이 좀 좋지 않았다
 * [그래픽 노블로 읽는 에드가 앨런 포 단편선](https://blog.naver.com/naninkan/220532569136)
@@ -392,8 +378,6 @@ Book
   * 한라 367.43-골27ㅇ 우당 문367.431-골228ㅇ
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
   * 탐라 문594.392-로31ㅇ
-* (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
-  * 한라 325.211-다48ㄷ 탐라 문181.91-스839ㄷ 우당 문181.91-다49ㄷ
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
@@ -537,6 +521,26 @@ Book
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
 * (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
+
+# Data
+* [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
+  * 2013.04.03~04
+  * (이미 늦은 감이 있지만) 빅데이터 시대의 도래에 따른 사회 변화, 사례, 앞으로의 전망을 엮은 빅데이터 관련 입문서와 같은 책. 프로그래머들보다는 기획자나 관심있는 사람들이 읽기에 좋다. 결론은 '지금도 이미 널리 활용되고 있고, 앞으로는 더 폭넓고 깊게 사용된다.'
+* [팩트풀니스 <비판리뷰> 의심하며 읽어야 할 책](https://blog.naver.com/muchloveme/221700777416)
+  * ★★★☆☆ 2021.08.26
+  * 통계를 바탕으로 데이터 시각화를 통해 편견에서 벗어날 것을 요구하는 책
+  * 직관이나 비난, 이분법 등 우리가 빠지기 쉬운 오류를 벗어나도록 통계를 바탕으로 세상에 대한 시선이 얼마나 왜곡되어 있는지(특히 이른바 '선진국' 사람들이라면 더)를 말한다
+  * [p60 내 생각에 인간에게는 이분법적 사고를 추구하는 강력하고 극적인 본능이 있는 것 같다](images/factufullness.jpeg)
+    * 그래서 양당제가 다당제보다 더 활발할까?
+  * [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
+    * 저자가 만든 재단에서 제작한 사이트 중 하나
+    * 소득에 따른 삶의 모습을 보여주는 게 흔히 책에서 볼 수 있는 각 나라의 고유 복장을 보여주는 거 보다 현실에 가깝기 때문에 이런 사이트를 만들었다고 함
+* [데이터 스토리](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC)
+  * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
+* (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
+  * 한라 325.211-다48ㄷ 탐라 문181.91-스839ㄷ 우당 문181.91-다49ㄷ
+* (NOT YET) [컨버티드 : 마음을 훔치는 데이터분석의 기술](https://www.linkedin.com/posts/%EA%B8%88%EC%9A%B1-%EC%84%9C-30013b8_%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EB%94%94%EC%A7%80%ED%84%B8%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EA%B3%A0-%EB%82%9C-%EC%9D%B4%ED%9B%84-%ED%8A%B9%EC%A0%95-%EA%B3%A0%EA%B0%9D%EC%9D%84-%ED%83%80%EA%B2%9F%ED%8C%85-%ED%95%A0-%EC%88%98-%EC%9E%88%EA%B2%8C-%EB%90%98%EA%B3%A0-activity-6994475326525382656-7YpG/)
+  * 우당 문325.512-호69ㅋ
 
 # Economy
 * [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
