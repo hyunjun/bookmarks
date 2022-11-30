@@ -834,6 +834,7 @@ Programming
 * [성장하는 조직에서 계속 애자일한 문화를 유지할 수 있을까?. 안녕하세요. 아테나스랩 Otis입니다. 저는 현재 아테나스랩의 기획챕터… | by 아테나스랩 | 아테나스랩 팀블로그 | Nov, 2022 | Medium](https://medium.com/athenaslab/%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%95%A0%EC%9E%90%EC%9D%BC%ED%95%9C-%EB%AC%B8%ED%99%94%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-3d504a3ae879)
 * [How we can correct the mistakes made with Agile • Allen Holub - YouTube](https://www.youtube.com/watch?v=F42A3R28WMU)
 * [애자일/스크럼의 역사 :: Welcome to DJ's Story](https://dj-kim73.tistory.com/9)
+* [Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? • Gabrielle Benefield • GOTO 2012 - YouTube](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
