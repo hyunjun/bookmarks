@@ -252,6 +252,7 @@ Interview
 * [신입 백엔드 면접 질문 Ver. 1.9.0](https://velog.io/@yukina1418/%EC%B5%9C%EA%B7%BC-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%8B%88%EB%A9%B4%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 * [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0)
 * [InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
+* [자바 백엔드 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
