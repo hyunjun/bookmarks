@@ -88,6 +88,7 @@ Programmer
 * [성장하는 개발자가 되는 사고방식](https://www.slid.cc/share/vdocs/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EC%82%AC%EA%B3%A0%EB%B0%A9%EC%8B%9D-41013172a5c44b66a1a8aa29d3518295)
 * [개발자의 성장 가능성은 어떻게 측정 가능한가?. 간혹 신입 개발자를 채용한다는 회사의 이야기를 듣다보면, 나를… | by 조은, John Cho | Jul, 2022 | Medium](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33)
 * [못하지 않는 개발자 되기 - 신입용 - YouTube](https://www.youtube.com/watch?v=wogrRJlqUFw)
+* [개발자로 살아남는 "진짜" 방법](https://f-lab.kr/blog/how-to-be-good-developer)
 * [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
@@ -166,8 +167,9 @@ Programmer
 * [이런 얘기를 하면 화내는 사람도 있죠 한기용 3부 최종화 - YouTube](https://www.youtube.com/watch?v=3U0cbzmwSYc)
 * [개발자 커리어, 무엇이든 물어봤더니 무엇이든 답해줌😎 | 개발자 커리어 클리닉 1편 - YouTube](https://www.youtube.com/watch?v=I4JLbF-mVoI) 한기용
 * [@지난주 목요일 한기용님 x oneononenote Firesidechat](https://jordanc.notion.site/x-oneononenote-Firesidechat-8f51689280c645899ae999f6a8f5b3bb)
-* [“좋은 커리어, 자신감에서 나온다”](https://v.daum.net/v/20221110155709870) 한기용
+* [“좋은 커리어, 자신감에서 나온다”](https://v.daum.net/v/20221110155709870)
 * [27년차 실리콘밸리 개발자가 ‘10번의 이직’ 후 알게 된 것들](https://eopla.net/magazines/80)
+* [2022 SILLY TALK | 한기용 그렙 USA CTO의 “풀타임으로 일했던 12개의 회사썰 모음ZIP” - YouTube](https://www.youtube.com/watch?v=Is2EfBruplI)
 * [구글 13년 차가 넥스트스텝으로 선택한 야놀자 | 원티드](https://www.wanted.co.kr/events/22_07_s12_b01) 개인의 이야기와 커리어 이야기가 섞여 있고 일반적인 이야기지만 좋음
 * [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career | by bytefish | Frontend Canteen | Aug, 2022 | Medium](https://medium.com/frontend-canteen/from-a-dropout-to-a-core-contributor-to-deno-heres-the-story-of-my-10-year-programming-career-d54a1a7add0f)
   * 대학을 중퇴하고 10년 뒤에 Deno의 핵심 기여자가 된 [justjavac (迷渡)](https://github.com/justjavac)의 이야기
