@@ -1105,6 +1105,7 @@ App
 * [Hardening macOS](https://www.bejarano.io/hardening-macos/)
 * [4 macOS Screenshot Tricks To Impress Your Co-Workers](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 * [Quick Tip: Enable Touch ID for sudo – Six Colors](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/) `/etc/pam.d/sudo` 파일을 수정해서 `sudo` 명령어 사용할 때 비밀번호 대신 맥북 TouchID 사용
+* [**50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!) - YouTube**](https://www.youtube.com/watch?v=qOrlYzqXPa8) command
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
@@ -1477,6 +1478,7 @@ App
     * ASCII tool [link 1](https://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=PRODUCTION) [link 2](https://www.patorjk.com/software/taag/#p=display&f=Calvin%20S&t=PRODUCTION) [link 3](https://www.patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=PRODUCTION)
   * [iterm2 에 한글 자소 분리 문제](https://jojoldu.tistory.com/580)
   * [Combining the terminal (iTerm) with the IDE - Alexandru Nedelcu](https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html)
+  * [개발자가 맥북사면 가장 먼저 하는일 - YouTube](https://www.youtube.com/watch?v=mba8cnGcgqE)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
