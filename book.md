@@ -388,6 +388,7 @@ Book
 * (NOT YET) [처음 배우는 그래픽 레코팅](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
+* (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
