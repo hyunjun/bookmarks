@@ -118,6 +118,7 @@ AWS
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [컬리 공통 암호화 모듈의 동시성 이슈 해결하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/concurrency-issue-solving/) KMS
   * [caffeine: A high performance caching library for Java](https://github.com/ben-manes/caffeine)
+* [AWS KMS 외부 키 스토어(XKS) 발표 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-aws-kms-external-key-store-xks/)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
 * [AWS 보안 점검 및 보안 설정 가이드](https://rogue-gouda-f87.notion.site/AWS-de0b5749d03b464ea2e555cba3974d0b)
@@ -1826,6 +1827,7 @@ AWS
     * 각 환경(production, dev, lab)에서 테라폼용 계정을 만들어서 관리 계정과 권한을 분리해서 보안 강화
   * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
+* [AWS Control Tower 미리 보기 – 포괄적인 제어 관리 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-aws-control-tower-comprehensive-controls-management-preview/)
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [Terraform Tutorial For Complete Beginners | Ashok IT - YouTube](https://www.youtube.com/watch?v=4hnI7QvPimI)
