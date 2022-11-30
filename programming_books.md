@@ -2405,6 +2405,9 @@ Programming Books
 * [최고의 팀은 왜 기본에 충실한가](https://brunch.co.kr/@peoplevalue/1)
   * ★★★☆☆ 2022.11.28
   * 한라 325.24-렌58ㅊ
+  * [최고의 팀은 왜 기본에 충실한가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_ideal_team_player.md)
+  * [최고의 팀은 왜 기본에 충실한가. Ideal Team Player | The Table Group | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%8C%80%EC%9D%80-%EC%99%9C-%EA%B8%B0%EB%B3%B8%EC%97%90-%EC%B6%A9%EC%8B%A4%ED%95%9C%EA%B0%80-4241aaeb641b)
+  * [최고의 팀은 왜 기본에 충실한가](https://jh4hj.tistory.com/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%8C%80%EC%9D%80-%EC%99%9C-%EA%B8%B0%EB%B3%B8%EC%97%90-%EC%B6%A9%EC%8B%A4%ED%95%9C%EA%B0%80)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
