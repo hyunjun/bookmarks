@@ -345,6 +345,9 @@ PyTorch
 * libtorch
   * [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
   * [LibTorch Example of transfer-learning](https://github.com/kerry-Cho/transfer-learning-Libtorch)
+* [lovely-tensors: Tensors, ready for human consumption](https://github.com/xl0/lovely-tensors/)
+  * PyTorch 디버깅시 직접 텐서를 열어보고 값을 확인하시는 경우도 발생
+  * 이 작업을 보다 직관적으로 수행해줄 수 있는 패키지(JAX, NUmPy 등 시리즈로 나옴)
 * [matorage: matorage is Matrix or Tensor(multidimensional matrix) Object Storage with high availability distributed systems for Deep Learning framework](https://github.com/graykode/matorage)
   * [matorage documentation — matorage 0.1.0 documentation](https://matorage.readthedocs.io/en/stable/)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
