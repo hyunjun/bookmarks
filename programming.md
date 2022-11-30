@@ -2194,6 +2194,7 @@ Programming
   * Google Cloud에서 서버리스 애플리케이션을 배포하는 방법 중 Google Cloud Run이 가장 빠르게 증가
   * Azure Functions는 Azure에가 가장 인기 있는 서버리스 제품이지만 Azure Container Instances의 채택이 빠르게 증가
   * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
+* [클라우드와 서버리스. 이 블로그를 시작한 계기가 서버리스인데 글들을 살펴 보니 서버리스 관련… | by 이상선 | Nov, 2022 | Medium](https://medium.com/@sunyi233/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-5fc05c1a637e)
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
