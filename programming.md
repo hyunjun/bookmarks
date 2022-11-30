@@ -2981,6 +2981,7 @@ Programming
   * It is cheaper because automated tasks allow errors to be detected immediately, avoiding the accumulation of defects.
   * It is better because automation provides predictable, standardized, reliable and repeatable results.
 * [Shipping to Production - The Pragmatic Engineer](https://blog.pragmaticengineer.com/shipping-to-production/)
+* [How Corsearch Manages Software Delivery at Scale • N. Durkin, N. Papageorgiou & A. Silva • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=5iVnpOahwK0)
 * [Continuous Integration(지속적 통합) - 기계인간 John Grib](https://johngrib.github.io/wiki/continuous-integration/)
 * [Agile, DevOps, and CI/CD – How are they related? | ReviewNPrep](https://reviewnprep.com/blog/agile-devops-and-ci-cd/)
 * [CICD Integration tools and best practices as per stage Razorops Webinars | Razorops](https://razorops.com/webinars/cicd-integration-tools-and-best-practices-as-per-stage/)
