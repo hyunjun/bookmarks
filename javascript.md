@@ -708,6 +708,7 @@ Javascript
 * [How to manipulate the DOM in Vanilla JavaScript](https://medium.freecodecamp.org/dom-manipulation-in-vanilla-js-2036a568dcd9)
 * [DOM 이란? (feat. BOM)](https://velog.io/@remon/Web-DOM-%EC%9D%B4%EB%9E%80-feat.-BOM)
 * [web 웹 컴포넌트를 위한 shadow dom과 custom element 그리고 template](https://blog.naver.com/pjt3591oo/222546552344)
+* [DOM 트리를 트리 자료구조로 바라보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1803/)
 * [Element가 서로 같은지 비교하기 | Univdev](https://www.univdev.page/posts/compare-elements/)
 * [A Toolkit to Harness the Full Power of JavaScript Functions](https://itnext.io/a-toolkit-to-harness-the-full-power-of-javascript-functions-633baaaba337)
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
