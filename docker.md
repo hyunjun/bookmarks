@@ -83,6 +83,7 @@ Docker
 * [Docker - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhjcTj7y6RQzCfq2gmQVEd7t)
 * [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [Learning container from scratch](https://devocean.sk.com/vlog/view.do?id=340&vcode=A03)
+* [**서비스 개발자를 위한 컨테이너 뽀개기 (a.k.a 컨테이너 인터널)**](https://tech.kakaoenterprise.com/150)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [Docker Tutorial For Beginners | Introduction To Docker | Invensis Learning - YouTube](https://www.youtube.com/watch?v=7vriS2zd0lM)
 * [Docker Tutorial for Beginners Part-I - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)
