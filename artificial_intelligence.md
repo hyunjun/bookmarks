@@ -171,6 +171,7 @@ Artificial Intelligence
 * [이제 사람 없이도 AI가 학습할 수 있는 이유 - 티타임즈](https://www.ttimes.co.kr/article/2022072915407721178)
 * [**The State of AI & Art 2022**](https://velog.io/@laeyoung/The-State-of-AI-Art-2022) 최근의 흐름에 대한 매우 좋은 글. stable diffusion으로 끝남
 * [인공지능, 머신러닝 연구가 현실과 멀어지고 고립되는 이유 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/ml-isolation/#%EC%95%9E%EC%9C%BC%EB%A1%9C%EB%8A%94)
+* [요즘 핫한 제너레이티브AI.. 시장을 뒤흔든 글로벌 서비스 10개 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/generativeai20221201) Generative AI
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
