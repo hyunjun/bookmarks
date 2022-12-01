@@ -377,6 +377,7 @@ Programming
 * [좋은 팀 구성 및 개발 문화 조성의 중요성 | 요즘IT](https://yozm.wishket.com/magazine/detail/1738/)
 * [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
 * [우리는 개발 문화에 진심입니다 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/10639/)
+* [Guide to Better Dev Culture. 믿음직한 라이프스타일 가이드 29CM의 개발 조직은 어떻게 협업하고… | by 29CM | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/guide-to-better-dev-culture-590e905e2f5b)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
