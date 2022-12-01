@@ -739,7 +739,10 @@ Linux
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
   * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
-  * [It’s time to leave the leap second in the past - Engineering at Meta](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/)
+  * [It’s time to leave the leap second in the past - Engineering at Meta](https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past)
+    * Meta에서 쓴 글
+    * UT1과 UTC를 보정하는 윤초(Leap Second)가 지금까지는 괜찮았지만
+    * 윤초의 문제가 많이 발생하고 있고 앞으로는 음의 윤초가 생길 가능성이 있기 때문에 페이스북에서는 현재의 윤초를 그대로 유지하려고 노력
     * [이제 '윤초'는 과거로 남겨둘 때가 되었다 | GeekNews](https://news.hada.io/topic?id=7046)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
