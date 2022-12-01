@@ -4517,6 +4517,7 @@ Programming
 * [ARM 64 Assembly Series — Data Processing (Part 1) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-1-b6f6f877c56b)
 * [ARM 64 Assembly Series — Data Processing (Part 2) | by +Ch0pin🕷️ | Aug, 2022 | Medium](https://valsamaras.medium.com/arm-64-assembly-series-data-processing-part-2-3d0526dc07b6)
 * [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
+* [오픈소스 운영체제 100선 - WikiDocs](https://wikidocs.net/book/7739)
 
 # Paper
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
