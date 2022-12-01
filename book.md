@@ -1001,6 +1001,8 @@ Book
   * [장수 고양이의 비밀](https://github.com/hyunjun/bookmarks/blob/master/books/murakami_asahido.md)
   * [장수 고양이의 비밀 - Jun - Medium](https://nymets.medium.com/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80-d07ea8ce4506)
   * [장수 고양이의 비밀](https://jh4hj.tistory.com/entry/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80)
+* (NOT YET) [달리기를 말할 때 내가 하고 싶은 이야기](https://brunch.co.kr/@wonsss/10)
+  * 한라 838-무292ㄷ 탐라 문838-무292ㄷ 우당 문838-무231ㄷ
 
 # Note, Memo
 * [Write … One Note at at Time](https://takesmartnotes.com/)
