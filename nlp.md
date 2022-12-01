@@ -657,6 +657,7 @@ NLP
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
+* [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
