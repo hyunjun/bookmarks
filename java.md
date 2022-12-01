@@ -1032,6 +1032,15 @@ Java
 * [Understanding the constant pool inside a Java class file](https://blogs.oracle.com/javamagazine/post/java-class-file-constant-pool)
 * [Inside JVM debug symbols | It’s All Relative](https://jpbempel.github.io/2022/03/22/jvm-debug-symbols.html)
 * [자바 컴파일 과정 & JVM 내부 구조](https://velog.io/@minseojo/Java-%EC%9E%90%EB%B0%94-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EA%B3%BC%EC%A0%95-JVM-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0)
+* [Seeing through hardware counters: a journey to threefold performance increase | by Netflix Technology Blog | Nov, 2022 | Netflix TechBlog](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
+  * Neflix에서 Java 서비스 중 하나인 GS2를 m5.4xl(vCPU 16개)에서 m5.12xl(vCPU 48개)로 올려서 성능이 3배 증가할 것으로 기대
+    * 처리량은 25%만 증가했고 지연시간을 오히려 증가하는 문제 발견
+    * 매트릭을 살펴보다가 CPU와 대기시간이 낮은 노드가 있다는 것을 발견
+  * 더 낮은 수준을 보기 위해 PMC를 살펴보다가 2개의 코어가 동일한 L1 캐시 라인을 공유하면서 관련 없는 변수에서 읽고 쓸 때 발생하는 False Sharing의 일반적인 패턴 발견
+    * JDK의 동작을 수정하진 않고 데이터 레이아웃에서 `_secondary_super_cache`, `_secondary_supers`에 패딩을 추가해서 느린 노드가 사라짐
+    * 하지만 여전히 목표인 250 RPS에 못 미치는 150 RPS만 처리
+  * 이 문제는 동일한 변수를 여러 스레드/코어에서 읽고 쓰는 True Sharing임을 깨닫고 공유 변수에 모두 쓰지 않고 JVM의 보조 슈퍼클래스 캐시를 효과적으로 우회하도록 수정하고 3.5배의 성능 향상
+  * [더 빠른 인스턴스로 옮겼는데 성능이 안 나오면 어디를 봐야 할까? | GeekNews](https://news.hada.io/topic?id=7911)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
 * [Loom: https://openjdk.org/projects/loom ](https://github.com/openjdk/loom)
