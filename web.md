@@ -1426,6 +1426,9 @@ Web
 * [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
 * [SVG 애니메이션 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/893)
 * [HTML을 SVG로 변환하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/895)
+* [Forking Chrome to turn HTML into SVG - Fathy](https://fathy.fr/html2svg)
+  * Chromium을 포크해서 HTML 페이지를 SVG로 변환하는 프로젝트인 html2svg를 만드는 과정 설명
+  * Blink와 Skia 코드를 수정해서 페이지를 SVG로 변환하는 함수를 만들고 폰트나 그림자 등의 문제를 해결하는 과정
 * [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 
 # Test
