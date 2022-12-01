@@ -716,6 +716,7 @@ App
   * [API Network | 10,000s of APIs, Collections and Workspaces | Postman](https://www.postman.com/explore)
   * [Generating Flutter Dart code for api integration in Postman | Flutter Tricks - YouTube](https://www.youtube.com/watch?v=Kgxd1XS5MJI)
   * [Import Swagger APIs into Postman | Baeldung](https://www.baeldung.com/swagger-apis-in-postman)
+  * [Postman에 API 컬렉션 빠르게 생성하기. Postman은 API 테스트 용도로 많이 활용되는 도구입니다… | by Seunghoon Lee | 원티드랩 기술 블로그 | Medium](https://medium.com/wantedjobs/postman%EC%97%90-api-%EC%BB%AC%EB%A0%89%EC%85%98-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-b77dec698921)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
   * [How to use VScode for more efficient development work. - YouTube](https://www.youtube.com/watch?v=7stAiN5VzqE)
