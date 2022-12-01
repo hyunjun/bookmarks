@@ -401,6 +401,7 @@ Scala
 # Akka
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
 * [Actor model and akka](https://blog.seulgi.kim/2014/04/actor-model-and-akka.html)
+* [What is Akka Toolkit?](https://skolaparthi.com/akka-toolkit/)
 * [Learning Akka Typed from Classic](https://doc.akka.io/docs/akka/2.6/typed/from-classic.html)
 * [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
 * [One year with Akka 2.6 | Akka](https://akka.io/blog/news/2020/11/16/one-year-with-akka-2-6)
