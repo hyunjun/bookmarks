@@ -381,6 +381,7 @@ PyTorch
   * [An introduction to PyTorch Lightning with comparisons to PyTorch | Making commits each day, towards a better future](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
   * [the-clean-rnns: wandb와 pytorch-lightning으로 밑바닥부터 깔끔하게 구현해보는 RNN 패밀리](https://github.com/eubinecto/the-clean-rnns)
   * [the-clean-transformer: pytorch-lightning과 wandb로 깔끔하게 구현해보는 트랜스포머](https://github.com/eubinecto/the-clean-transformer)
+* [pytorch-lightning-template: my useful torch ligntning training template](https://github.com/YooSungHyun/pytorch-lightning-template)
 * [pytorch-minimal-gaussian-process: A minimal implementation of Gaussian process regression in PyTorch](https://github.com/swyoon/pytorch-minimal-gaussian-process)
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
