@@ -168,6 +168,8 @@ Product
 * [HHKB USB-C 개조기 2부](https://blog.aioo.ooo/hhkb-usb-c-diy-2/)
 * [Keyboardio: keyboards for serious typists](https://shop.keyboard.io/)
   * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
+* Keychron [Q8 Knob – 키크론 Keychron](https://keychron.kr/q8/)
+  * [키보드는 기계가 아닙니다 과학입니다(?) 손목의 편안함~ 키크론 Q8 리뷰 (feat. 백축!) - YouTube](https://www.youtube.com/watch?v=Ou_W9MGCDqU)
 * [Keycool Rainbow Keyboard | Mechanical Keyboards | TKL Mechanical Keyboards | Drop](https://drop.com/buy/keycool-rainbow-keyboard)
 * Logitech MX mechanical [사무용 무선 기계식 키보드 (2) - YouTube](https://www.youtube.com/watch?v=h4IhV6xOgNc)
 * [Matias Laptop Pro Keyboard for Mac](https://matias.ca/laptoppro/mac/)
