@@ -218,6 +218,7 @@ Programming Books
   * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [Linkedin 링크드인 취업혁명](https://blog.naver.com/netspee/222904944527)
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
+  * 한라 005.44-랜878ㄷ
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
   * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
@@ -244,6 +245,7 @@ Programming Books
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
   * 우당 문004.1-실41ㅇ
 * (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
+  * 우당 문004.73-랄231ㅇ
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
   * 탐라 문326.41-니59I
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
@@ -271,6 +273,7 @@ Programming Books
   * 탐라 문004.61-애228ㅇ
   * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
+  * 우당
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
   * 탐라 문005.76-부211ㄱ
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
@@ -634,6 +637,7 @@ Programming Books
 * (NOT YET) [안드로이드 개발 레벨업 교과서](http://wikibook.co.kr/advanced-android-book)
   * 2017.06 한라
 * (NOT YET) [아키텍처를 알아야 앱 개발이 보인다](https://bjpublic.tistory.com/357)
+  * 우당
 
 # Architecture
 
@@ -712,6 +716,7 @@ Programming Books
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
   * 탐라 문005.12-인228ㅇ
 * (NOT YET) 그림으로 공부하는 마이크로서비스 구조 [기술적 부채, monolith vs. 마이크로서비스](https://jpub.tistory.com/1300?category=203154)
+  * 탐라 문005.12-다237ㄱ
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
   * 탐라 문005.133-퍼59ㅍ
   * [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
@@ -733,8 +738,8 @@ Programming Books
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
-  * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
   * 탐라 문005.1-핸58ㅅ
+  * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
   * [Gerald Jay Sussman keynote and discussion - reClojure 2021 - YouTube](https://www.youtube.com/watch?v=EbzQg7R2pYU)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
   * 한라
@@ -987,6 +992,7 @@ Programming Books
 * (NOT YET) [데이터 분석을 떠받치는 수학(개정판) 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](https://wikibook.co.kr/math-ds-rev/)
 * (NOT YET) [인공지능을 위한 수학](https://freelec.co.kr/book/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99/)
 * (NOT YET) [데이터 중심 애플리케이션 설계 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어](https://wikibook.co.kr/data-intensive-applications)
+  * 한라 005.1-클294ㄷ
   * [데이터 중심 애플리케이션 설계 - 1장](https://astrod.github.io/data/2019/07/07/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5/)
   * [데이터 중심 애플리케이션 설계 2장 - 데이터 모델과 질의 언어](https://astrod.github.io/data/2019/07/27/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-2%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%A7%88%EC%9D%98-%EC%96%B8%EC%96%B4/)
   * [데이터 중심 애플리케이션 설계 3장 - 저장소와 검색](http://astrod.github.io/data/2019/08/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-3%EC%9E%A5-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%99%80-%EA%B2%80%EC%83%89/)
@@ -997,16 +1003,21 @@ Programming Books
   * 우당 문005.7-모835ㄷ
   * [Sihan's Blog](https://sihan-son.github.io/data-preprocessing/)
 * (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
+  * 한라 005.76-이94ㄷ 탐라 문005.76-이94ㄷ 우당 문005.76-이94ㄷ
 * (NOT YET) [인공지능 100점을 위한 파이썬 수학](https://bjpublic.tistory.com/360)
+  * 우당
 * (NOT YET) [쏙쏙 들어오는 인공지능 알고리즘](https://jhrogue.blogspot.com/2021/06/blog-post.html)
 * (NOT YET) [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
 * (NOT YET) [파이썬 데이터 분석 실무 테크닉 100 | 위키북스](https://wikibook.co.kr/pyda100/)
+  * 탐라 문005.76-시35ㅍ
   * [제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100 | 딥백수](https://dl4ab.github.io/2020/09/04/python-data-analysis-technique)
 * (NOT YET) [데이터 과학 트레이닝 북: 넘파이, 사이파이, 판다스, 매트플롯립을 활용하여 직접 실습해 보는 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d-%eb%b6%81/)
+  * 우당
 * (NOT YET) [팩트풀니스 - 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1528)
   * 한라 331.1-로57ㅍ 탐라 문331.1-로58ㅍ 우당 문331.54-로58ㅍ
   * [데이터 분석가의 팩트풀니스](https://brunch.co.kr/@secreties86/40)
 * (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * 우당
 * (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)

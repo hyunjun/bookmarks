@@ -296,9 +296,11 @@ Book
 * (NOT YET) [전망하는 인간, 호모 프로스펙투스](https://jhrogue.blogspot.com/2021/12/blog-post_16.html)
 * (NOT YET) [하마터면 깨달을 뻔](https://jhrogue.blogspot.com/2022/01/blog-post.html)
 * (NOT YET) 인구 대역전 [인플레이션과 고금리의 '30년 시대'가 오고 있다 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=002&aid=0002192823)
+  * 한라 321.97-굿92ㅇ 탐라 문321.9-굿91ㅇ
   * [2000년대 이후 - 미국 제조업 일자리는 왜 700만개가 사라졌을까?](https://www.facebook.com/permalink.php?story_fbid=5367750163252459&id=100000525857011)
   * [제조업 일자리 축소 – 한국, 중국은 왜 감소하고, 미국, 독일은 왜 늘어날까?](https://www.facebook.com/permalink.php?story_fbid=5365491030145039&id=100000525857011)
 * (NOT YET) [어른답게 말합니다 -강원국](https://brunch.co.kr/@sijiques/184)
+  * 한라 802.5-강66ㄱ 탐라 문802.5-강67ㄱ 우당 문802.5-강67ㅇ
   * [말거울에 나를 비춰봅니다](https://brunch.co.kr/@graypool/300)
   * [어른답게 존중하고 존중받습니다](https://brunch.co.kr/@graypool/301)
   * [유연하게 듣고 단단하게 말합니다](https://brunch.co.kr/@graypool/302)
@@ -356,17 +358,20 @@ Book
   * 한라 340.912-한83ㅊ 우당 문340.912-한813ㅊ
 * (NOT YET) [마음은 단단하게 인생은 유연하게](https://www.gilbut.co.kr/book/view?bookcode=BN003483)
 * (NOT YET) [알고 있다는 착각](https://www.facebook.com/kichul.kim.75/posts/pfbid05iZzs8vpLLAZQdY3rSy3zytvCd4otheXFatUyfcz65zcYc2aZu1QszbVg8ExX6s3l)
+  * 한라 331.5-테887ㅇ 탐라 문389-테838ㅇ 우당 문389-테838ㅇ
+  * ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
 * (NOT YET) 내 집에 갇힌 사회 [왜 집을 샀는데도 ‘패닉’이 계속될까 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=48232)
 * (NOT YET) [믹스 MIX](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299820325)
 * (NOT YET) [디즈니 & 픽사의 신비로운 지도들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292936345)
+  * 한라
 * (NOT YET) [복스 포풀리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286683415)
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
+  * 한라
 * (NOT YET) [C레벨의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300705957)
   * 탐라
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * 우당 문331.5412-윈833ㅅ
-* (NOT YET) 알고 있다는 착각 ["낯익은 것을 낯설게"..인류학자가 말하는 인류학의 '쓸모'](https://v.daum.net/v/20220827090112933)
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
@@ -382,10 +387,13 @@ Book
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
+  * 탐라
 * (NOT YET) [반대의 놀라운 힘](https://post.naver.com/viewer/postView.naver?volumeNo=28399123)
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
-* (NOT YET) [처음 배우는 그래픽 레코팅](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
+  * 한라
+* (NOT YET) [처음 배우는 그래픽 레코딩](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
+  * 탐라
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 * (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
@@ -492,21 +500,33 @@ Book
   * 탐라 개609.2-진76ㅅ
   * 한라 609.2-진76ㅈ
 * (NOT YET) [어쩌다 클래식 | 지이 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165219253)
+  * 탐라 문670.15-지69ㅇ 우당 문670.15-지69ㅇ
 * (NOT YET) [파이널 페인팅 : 화가 생애 마지막 그림을 그리다 마로니에북스 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=993)
+  * 한라
 * (NOT YET) [명화로 보는 단테의 신곡 - 신곡을 좀 더 쉽.. : 네이버블로그](https://blog.naver.com/sanmandi/221567404550)
+  * 한라 881-알298ㄷ 탐라 문881-알239ㄷ 우당 문881-알239ㄷ
 * (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
+  * 한라 650.4-서38ㅁ 탐라 문420-서39ㅁ 우당 문420-서39ㅁ
 * (NOT YET) [The Cinema of George Lucas 조지루카스의 시네마](https://www.youtube.com/watch?v=Ip03xB992P0)
+  * 탐라
 * (NOT YET) [빈센트 반고흐 번역서 Van gogh TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
   * 탐라 문650.99-650.99
 * (NOT YET) [뮤지엄×여행](https://blog.naver.com/ihk0704/221669710616)
   * 탐라 문069.04-최39ㅁ 한라 069.6-최38ㅁ 우당 문069.6-최39ㅁ
 * (NOT YET) [발칵 뒤집힌 현대 미술 : 세상을 뒤흔든 가장 혁신적인 예술 작품들 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=969)
+  * 한라 609-호78바
 * (NOT YET) [단테 『신곡』 강의](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298319176)
   * 탐라 문881.09-이31ㄷ
 * (NOT YET) [영화평도 리콜이 되나요?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299022504)
+  * 한라 688.04-김25ㅇ 탐라 문688.04-김225ㅇ 우당 문688.04-김225ㅇ
 * (NOT YET) [우리는 사랑의 얼굴을 가졌고](https://www.electimes.com/news/articleView.html?idxno=307338)
+  * 탐라 문650.4-김57ㅇ
 * (NOT YET) [20세기 미국 미술 : 현대 예술과 문화 1950~2000 휘트니미술관 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=867)
+  * 탐라 문609.42-필239ㅇ 우당 문609.42-필239ㅇ
 * (NOT YET) [Gaudi Basic Architecture 2.0 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/basicartseries/?idx=266)
+  * 탐라
+* (NOT YET) [Van Gogh The Complete Paintings compact 반고흐 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/138/?idx=282)
+  * 한라
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -519,9 +539,12 @@ Book
 
 # Business
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
+  * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
 * (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
+  * 한라 325.555-버14ㅋ 탐라 문325.5-버13ㅋ
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
+  * 한라 325.19-사45ㅇ 탐라 문325.19-사45ㅇ 우당 문325.19-사45ㅇ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1011,6 +1034,7 @@ Book
   * [데리다와의 데이트 (1) 자크 데리다와 환대 : 네이버 블로그](https://blog.naver.com/wei-jung/222087395769)
 * (NOT YET) [무력할 땐 니체](https://brunch.co.kr/@cliche-cliche/166)
 * (NOT YET) 마흔에 읽는 니체 [4050에 빠지기 쉬운 '도파민 중독', 얕보면 안 되는 이유 | 책방구](https://v.daum.net/v/60db8l5J1Q)
+  * 한라 165.77-장73ㅁ 우당 문165.77-장72ㅁ
 
 # Politics
 * (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
@@ -1037,6 +1061,7 @@ Book
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
   * 한라 236.911-김78ㄱ, 우당 문236.911-김79ㄱ
 * (NOT YET) 한국전쟁과 기독교 [한국 기독교, 어떻게 '기득권 종교'가 되었나](https://v.daum.net/v/20151128144402501)
+  * 한라 235.83-윤74ㅎ
 
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
@@ -1244,3 +1269,4 @@ Book
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
 * (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
+  * 탐라
