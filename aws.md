@@ -467,8 +467,12 @@ AWS
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
 * [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
-* [Seeing through hardware counters: a journey to threefold performance increase | by Netflix Technology Blog | Nov, 2022 | Netflix TechBlog](https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822)
-  * [더 빠른 인스턴스로 옮겼는데 성능이 안 나오면 어디를 봐야 할까? | GeekNews](https://news.hada.io/topic?id=7911)
+* [NRISE를 지탱하는 기술 — 인프라. NRISE는 국내 소셜 디스커버리 시장을 선도하는 위피(WIPPY)와… | by Daegeun Kim | Nov, 2022 | NRISE](https://blog.nrise.net/nrise%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%9D%B8%ED%94%84%EB%9D%BC-b93f9771d6e0)
+  * 위피와 콰트를 운영하는 엔라이즈에서 지난 1년간 인프라를 개선 시킨 과정과 도입한 도구 정리
+  * 기존 인프라를 EKS와 풀 매니지드 서비스로 전환하는 것을 목표로
+    * Terraform, Helm, Helmfile을 도입
+    * Kubernetes는 Karpenter와 KEDA로 스케일링
+    * Argo CD와 GitHub Actions 등 사용
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1306,6 +1310,8 @@ AWS
 * [AWS Lambda 함수 URL을 이용하여 편리하고 안전한 API 서버와 클라이언트 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/creating-api-server-using-aws-lambda-function-url/)
 * [How to Deploy Swagger in AWS API Gateway with AWS Lambda? - YouTube](https://www.youtube.com/watch?v=zlaBvAjOddc)
 * [DevOps Tutorials | Start and Stop EC2 Instance using Aws lambda and Cloud watch | EC2 Automation | - YouTube](https://www.youtube.com/watch?v=vOLILhTshCE)
+* [AWS Lambda SnapStart – 함수 실행 속도 및 성능 가속화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
+  * 스냅숏을 사용해서 Lambda의 초기화 시간을 줄일 수 있는 SnapStart 지원
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
