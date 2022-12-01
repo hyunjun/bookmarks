@@ -143,6 +143,7 @@ Json
 * [JWT 인증은 무엇이고 어떻게 사용해야 할까? | Popit](https://www.popit.kr/jwt-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 * [Creating and validating a JWT RSA token in Golang](https://morioh.com/p/a8f3fefefd8e)
 * [JWT 인증 방식을 왜 사용해야할까?](https://soohey.tistory.com/entry/JWT-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-%ED%86%A0%ED%81%B0-%EC%84%B8%EC%85%98%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EC%84%A0%ED%83%9D%EB%B0%9B%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94)
+* [What are JWT tokens and their different forms — JWS and JWE? | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/what-are-jwt-tokens-and-their-different-forms-jws-and-jwe-bea92e61a6c2)
 * [wffweb-demo-deployment: wffweb 12 demo project. It uses embedded tomcat 10. It is deployed in Heroku @ https://wffweb.herokuapp.com](https://github.com/webfirmframework/wffweb-demo-deployment)
 
 ## JWT Go
@@ -274,6 +275,8 @@ Json
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [Korean JSON - 한국어 데이터를 제공하는 초간단 JSON API](https://koreanjson.com/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
+* [lowdb: Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)](https://github.com/typicode/lowdb)
+  * [json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
 * [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
   * [NestedText: A Human Friendly Data Format](https://nestedtext.org/)
 * [open bucket - A simple API to store & retrieve JSON objects](http://openbucket.io/)
