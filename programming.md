@@ -1550,7 +1550,10 @@ Programming
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 * [The Distributed Computing Manifesto | All Things Distributed](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
-  * [Werner Vogels – Amazon 분산 컴퓨팅 선언문 (1998) :: Channy's Blog](https://channy.creation.net/blog/1715)
+  * [Werner Vogels – Amazon 분산 컴퓨팅 선언문 (1998) :: Channy's Blog](https://channy.creation.net/blog/1715/)
+    * Amazon의 CTO의 Werner Vogels가 1998년 아마존에서 작성되었던 분산 컴퓨팅 선언문 공개
+    * 25년이 지난 지금 놀라운 얘기는 아니지만, 당시에 저렇게 생각했다는 게 놀라움
+    * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
 
 ## Architecture Domain Driven Development DDD
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
@@ -3006,6 +3009,7 @@ Programming
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
   * [dagger.io | Your CI pipelines should be code: introducing the Dagger Go SDK](https://dagger.io/blog/go-sdk)
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
+  * [dagger.io | Introducing the Dagger Node.js SDK](https://dagger.io/blog/nodejs-sdk)
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
@@ -4473,6 +4477,7 @@ Programming
   * [기술 뉴스 #208 : 22-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1630)
   * [기술 뉴스 #209 : 22-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1631)
   * [기술 뉴스 #210 : 22-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1633)
+  * [기술 뉴스 #211 : 22-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1638)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
