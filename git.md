@@ -1259,7 +1259,9 @@ Git
 * [Robb Oat is a robot software engineer](https://robboat.com/) GitHub 이슈를 읽어서 이해한 뒤, 문제를 해결한 PR을 자동 발행하는 깃헙 앱
   * [Robb Oat - 로봇 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=7750)
 * [Sapling from Meta | Sapling](https://sapling-scm.com/)
-  * [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+  * [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable)
+    * Meta에서 10년 동안 내부에서 개발해서 사용 중이던 Git 호환 클라이언트를 오픈소스 공개
+    * Git 호환 클라이언트라 Git과 함께 쓸 수 있고 ReviewStack을 같이 쓰면 GitHub에서 stacked changes도 쉽게 볼 수 있음
   * [메타, 대규모 소스코드 관리 시스템 오픈소스화 - 테크레시피](https://techrecipe.co.kr/posts/47513)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
