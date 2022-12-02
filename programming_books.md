@@ -968,6 +968,9 @@ Programming Books
 * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://brunch.co.kr/@lluvia/401)
   * ★★★★☆ 2022.11.27 별 생각없이 꺼내든 책인데 내용이 좋다. AI가 아니라 그냥 기술 관련된 회사/팀을 운영하는 이야기로 대입해도 크게 어긋남이 없음
   * 한라 325.1-로877ㄷ 탐라 문325.1-로828ㄷ
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/you_shall_develop_ai.md)
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도. 일관되게 나타나지만, 책의 주제는 AI이고 구체적인 내용은 AI의… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%80-ai%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84-cd5b61f0a94e)
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%80-AI%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84)
 * (NOT YET) 비즈니스를 위한 데이터 과학
   * 탐라 개005.7-프295ㄷ
 * (NOT YET) 데이터로 말하라 : 냉철한 판단과 완벽한 설득의 기술
