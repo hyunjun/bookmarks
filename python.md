@@ -5181,6 +5181,7 @@ Python
 * [파이썬 Typing 파헤치기 - 기초편](https://sjquant.tistory.com/68)
 * [파이썬 Typing 파헤치기 - 심화편](https://sjquant.tistory.com/69)
 * [`typing.Protocol`: type hints as Guido intended - presented by Luciano Ramalho - YouTube](https://www.youtube.com/watch?v=0_IQoxBFepw)
+* [`typing.Protocol`: Type Hints in Python - YouTube](https://www.youtube.com/watch?v=aD9lEfUB9xk)
 * [Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
   * [2021-protocol-vs-abc: Protocols vs ABC - which one should you use when?](https://github.com/ArjanCodes/2021-protocol-vs-abc)
 * [파이썬 타입 힌트 제대로 활용하기, 최보성 - PyCon Korea 2022 - YouTube](https://www.youtube.com/watch?v=3dGMBwARuN0)
