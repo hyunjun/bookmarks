@@ -141,6 +141,7 @@ Bitcoin
 * [Hyperledger Sawtooth - Introduction to the XO Transaction Family (Sawtooth v1.0.2](http://js94.tistory.com/233)
 * [Taste all the Features of the Hyperledger Fabric v1.4 Network](https://hackernoon.com/taste-all-the-features-of-hyperledger-fabric-v1-4-4275fd9b9d8e)
 * [Safety & Liveness - FLP impossibility으로 보는 블록체인](https://blog.seulgi.kim/2018/05/safety-liveness-in-blockchain.html)
+* [쉽게 설명하는 블록체인 : 머클트리(Merkle Trees)란 | 뱅크샐러드](https://www.banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%A8%B8%ED%81%B4%ED%8A%B8%EB%A6%AC-Merkle-Trees-%EB%9E%80-ilULl)
 * [Skewed Merkle Tree](https://blog.seulgi.kim/2018/06/skewed-merkle-tree.html)
 * [토큰 이코노미에 대하여](https://brunch.co.kr/@jeffpaik/53)
 * [27 Online Courses to Learn Blockchain and Cryptocurrency Programming](https://www.inc.com/jeff-haden/27-online-courses-to-learn-blockchain-cryptocurrency-programming.html)
