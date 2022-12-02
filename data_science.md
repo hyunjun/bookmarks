@@ -368,6 +368,7 @@ Data Science
 * [빅데이터의 세계, 2부: 직무 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/01/big-data-world-part-2-roles/)
 * [빅데이터의 세계, 3부: 데이터 파이프라인 구축 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/07/big-data-world-part-3-building-data-pipelines/)
 * [빅데이터의 세계, 4부: 아키텍처 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/09/big-data-world-part-4-architecture/)
+* [Building a Scalable Data Science Pipeline at REA • Justin Hamman & Jack Low • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=hbVOJ0NgJ1M)
 * [Big Data World, Part 5: CAP Theorem | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/06/03/big-data-world-part-5-cap-theorem/)
 * [현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016) | GeekNews](https://news.hada.io/topic?id=4812) 기술적으로 관련이 있는 건 없지만 시사점이 있음
 * [Why MapReduce is making a comeback — Estuary](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
