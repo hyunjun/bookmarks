@@ -1708,6 +1708,7 @@ Machine Learning
 * [서포트벡터머신Support Vector Machine을 위한 비선형 계획 문제의 쌍대정리](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/svm/duality.ipynb)
 * [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 * [서포트 벡터 머신(support vector machine) 개념 정리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/svm/)
+* [비지도학습 - One Class SVM - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/oneclass-svm/#2-one-class-svm%EC%9D%98-%EB%AA%A9%EC%A0%81)
 
 # TDD, Test
 * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
