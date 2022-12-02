@@ -2837,6 +2837,7 @@ Programming Books
   * 우당 문005.104-라58ㅅ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
+* (NOT YET) [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
