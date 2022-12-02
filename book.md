@@ -578,6 +578,9 @@ Book
   * [만화로 보는 맨큐의 경제학](https://github.com/hyunjun/bookmarks/blob/master/books/principles_of_economics.md)
   * [만화로 보는 맨큐의 경제학. 만화로 보는 맨큐의 경제학 — YouTube | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%A7%A8%ED%81%90%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-bb9bafb020ab)
   * [만화로 보는 맨큐의 경제학](https://jh4hj.tistory.com/entry/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%A7%A8%ED%81%90%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99)
+* [노이즈: 생각의 잡음](https://www.khan.co.kr/ePR/article/202206232100055)
+  * ★★★★☆ 2022.11.29~12.02 편향, 잡음, 규칙, 기준. 별 하나를 뺀 건 책이 어려워서 내가 이해를 못해서일뿐 사실 5개도 부족하다
+  * 한라 320.1-카194ㄴ 탐라 문181.91-카213ㄴ 우당 문181.91-카213ㄴ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
