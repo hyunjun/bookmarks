@@ -947,6 +947,7 @@ Interview
 * [5 Steps To Build A Great Developer Portfolio | How to Build a Great Developer Resume - YouTube](https://www.youtube.com/watch?v=xG1KPuKpLE4)
 * [The resume that got me into FAANG (ft. dark theme) - YouTube](https://www.youtube.com/watch?v=kCgn-7NBPSs)
 * [이력서, 웹 서비스처럼 만들어야 하는 이유 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1718/)
+* [이력서, 웹서비스처럼 만들어야 하는 이유 4가지](https://www.datarian.io/blog/why-you-should-create-resume-website)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
