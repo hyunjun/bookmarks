@@ -638,6 +638,7 @@ AWS
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [AWS re:Invent 2022 Korean Daily Recap Live - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
   * [AWS re:Invent 2022 주요 서비스 출시 총정리 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2022/)
   * [Amazon CTO 버너 보겔스의 2022년 이후 기술 예측 :: Channy's Blog](http://channy.creation.net/blog/1492)
   * [탈중앙 게임과 AWS re:Invent](https://snack.planetarium.dev/kor/2022/01/2021-aws-reinvent/)
