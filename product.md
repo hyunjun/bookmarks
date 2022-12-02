@@ -163,6 +163,7 @@ Product
 * [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 * [Why Are Topre Keyboards So Expensive? - Switch and Click](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 * [내가 써본 최고의 기계식 키보드 TOP5 / 2022년 신제품 포함 - YouTube](https://www.youtube.com/watch?v=R_VKJJ7cctg)
+* DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
 * [HHKB USB-C 개조기 1부](https://blog.aioo.ooo/hhkb-usb-c-diy-1/)
