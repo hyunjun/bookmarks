@@ -4813,6 +4813,7 @@ Programming
   * [Performance comparison: REST vs gRPC vs asynchronous communication | by Tim Bastin | l3montree TechBlog | Feb, 2022 | Medium](https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13) go code
   * [Implement gRPC client in Golang - YouTube](https://www.youtube.com/watch?v=Xjy_RdSd6XU)
   * [안드로이드 gRPC 개념 및 사용법 — HolyKisa](https://holykisa.tistory.com/79)
+  * [Top 8 Tips To Get More Value Out of gPRC - YouTube](https://www.youtube.com/watch?v=kBO95r-mEqU)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
