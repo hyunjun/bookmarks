@@ -50,6 +50,8 @@ Shell
 * [How to write idempotent Bash scripts · Fatih Arslan](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 * [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * [Please stop writing shell scripts](https://pythonspeed.com/articles/shell-scripts)
+* [Shell Scripting for DevOps|Shell Scripting Zero 2 Hero|Shell Scripting Interview Questions| #devops - YouTube](https://www.youtube.com/watch?v=zsajhz2_50g)
+* [Shell Scripting for DevOps | Zero 2 Hero Part-2 | Shell Scripting Interview Q&A | #devops - YouTube](https://www.youtube.com/watch?v=CyQtk9f646Q)
 * [Wordle in less than 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 * [10 Bash Script Code Challenges for Beginners](https://www.codecademy.com/resources/blog/bash-script-code-challenges-for-beginners/)
 * argument
