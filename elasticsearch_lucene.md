@@ -84,6 +84,7 @@ ElasticSearch - Lucene
   * [Monitoring underlying hardware failures for EC2 instances by logging them with Amazon OpenSearch Service | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/monitoring-underlying-hardware-failures-for-ec2-instances-by-logging-them-with-amazon-opensearch-service/)
   * [Open-Source Kubernetes Operator for OpenSearch - GitHub Repo & More](https://opster.com/blogs/open-source-kubernetes-operator-opensearch/)
   * [Amazon OpenSearch의 새로운 기능 집중 탐구하기 - 박진우, 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=etRtqFYebCg)
+  * [Amazon OpenSearch 서버리스 미리보기 – 클러스터 관리 없이 검색 및 분석 워크로드 실행 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-amazon-opensearch-serverless-run-search-and-analytics-workloads-without-managing-clusters/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 * [Getting AWS logs from S3 using Filebeat and the Elastic Stack | Elastic Blog](https://www.elastic.co/kr/blog/getting-aws-logs-from-s3-using-filebeat-and-the-elastic-stack)
@@ -179,7 +180,7 @@ ElasticSearch - Lucene
 * [The new elasticsearch java Rest Client](https://amsterdam.luminis.eu/2016/07/07/the-new-elasticsearch-java-rest-client/)
 * [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
 * [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
-* [elasticsearch_적용 및 활용 정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
+* [elasticsearch 적용 및 활용 정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
