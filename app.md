@@ -1357,6 +1357,7 @@ App
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [Warp: The terminal for the 21st century](https://www.warp.dev/)
   * [New *incredible* mac OS terminal! (warp + starship + zsh) - YouTube](https://www.youtube.com/watch?v=NfggT5enF4o)
+  * [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
 
