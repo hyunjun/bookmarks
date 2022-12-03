@@ -3258,6 +3258,7 @@ Programming
   * [인스타그램/페북은 인앱브라우저에서 하는 모든 일을 추적가능합니다 | GeekNews](https://news.hada.io/topic?id=7170)
 * [Phylum Discovers Dozens More PyPI Packages Attempting to Deliver W4SP Stealer in Ongoing Supply-Chain Attack](https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack)
 * [Webhooks(웹훅) 시스템 체크리스트 — 시행착오를 줄이는 방법 | 진태양](https://dataportal.kr/86)
+* [브런치북 보안쟁이의 넋두리 2](https://brunch.co.kr/brunchbook/secutales-2)
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
@@ -5154,6 +5155,7 @@ Programming
 * [Simple testing can prevent most critical failures | the morning paper](https://blog.acolyer.org/2016/10/06/simple-testing-can-prevent-most-critical-failures/) 단순한 테스트가 대부분의 끔찍한 실패를 예방한다
 * [**Michael Feathers - the deep synergy between testability and good design - YouTube**](https://www.youtube.com/watch?v=4cVZvoFGJTU) 잘 설계된 제품 코드와 테스트 가능성 간의 큰 상승효과
 * [Test Driven Development: That’s Not What We Meant • Steve Freeman • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=yuEbZYKgZas)
+* [The 3 Types of Unit Test in TDD • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ihOUzzwPFIk)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
