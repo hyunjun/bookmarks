@@ -394,6 +394,8 @@ Book
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 * (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
+* (NOT YET) [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
+  * 탐라 문325.3-페231ㅍ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -533,6 +535,8 @@ Book
 * [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
   * ★★★☆☆ 2022.10.20
   * 탐라 문598.55-이53ㅇ
+* (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
+  * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
 
