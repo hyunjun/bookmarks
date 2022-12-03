@@ -245,9 +245,6 @@ Book
 * [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * ★★☆☆☆ 2022.10.18~19 도저히 읽히지가 않아 중간에 멈춤
   * 우당 문331.5412-윈833ㅅ
-* [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
-  * ★★★☆☆ 2022.10.20
-  * 탐라 문598.55-이53ㅇ
 * [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
   * ★★★☆☆ 2022.11.06
   * 탐라 문573.2-정17ㄴ
@@ -533,6 +530,11 @@ Book
   * 2014.03.31
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
   * ★★★★☆ 2017.05.26
+* [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
+  * ★★★☆☆ 2022.10.20
+  * 탐라 문598.55-이53ㅇ
+* (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
+  * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
@@ -596,6 +598,7 @@ Book
   * 한라 327.85-쉴294ㅂ
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
+* (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
@@ -1194,6 +1197,8 @@ Book
 * (NOT YET) 돈의 역사
   * [8개월 만에, 1억 5천이 떨어졌다](http://thechangeground.com/archives/3137)
 * (NOT YET) [퀀트투자 무작정 따라하기](https://www.gilbut.co.kr/book/view?bookcode=BN003532)
+* (NOT YET) [몰라서 못 사는 미국 히든 유망주 25](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300217494)
+  * [“반박불가” 지금 사면 무조건 오르는 주식 BEST 3 | 책썰미](https://v.daum.net/v/6Xw3uLLZuQ)
 
 # Travel
 * [카페 도쿄](https://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
