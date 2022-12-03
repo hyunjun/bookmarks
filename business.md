@@ -1710,6 +1710,13 @@ Business
 * [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
 * [방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중 | 인공지능 & 소프트웨어 | 파이특허법률사무소](https://piip.co.kr/ko/blog/google-dropout-patent)
 
+# People Analytics
+* [‘피플 애널리틱스’가 몰고 올 혁신 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/8310/ac/magazine)
+* [HR의 新패러다임, 데이터의 ‘진짜’ 의미는?](https://now.rememberapp.co.kr/2022/10/11/22587/)
+* [넓은 관점에서 보는 피플 애널리틱스의 현황과 마이크로소프트의 사례 < 특집 < 기사본문 - 월간 인재경영](http://www.abouthr.co.kr/news/articleView.html?idxno=4809)
+* [피플 애널리틱스의 숨은 영웅 : 데이터 가공과 표준화](https://www.hrinsight.co.kr/view/view.asp?in_cate=112&gopage=1&bi_pidx=33170)
+* [공정하고 설득력있는 의사결정을 도와주는 피플 애널리틱스](https://brunch.co.kr/@clap/9)
+
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Linear vs. Honest vs. Strategic Roadmap](https://www.linkedin.com/posts/wirtzdan_linear-vs-honest-vs-strategic-roadmap-activity-6917095504090660865-s9Cx/)
