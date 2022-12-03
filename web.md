@@ -1655,6 +1655,7 @@ Web
 * [Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작 | GeekNews](https://news.hada.io/topic?id=6743)
 * [웹어셈블리(Wasm)가 클라우드 컴퓨팅의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/263104)
 * [WebAssembly: The Path to Components - YouTube](https://www.youtube.com/watch?v=DkpNqcfuPOM)
+* [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
