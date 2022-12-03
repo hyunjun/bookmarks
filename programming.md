@@ -1457,6 +1457,7 @@ Programming
 * [01 Software Architecture Concepts - YouTube](https://www.youtube.com/watch?v=bNxSWIl5kpo)
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 * [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
+* [Software Architecture for Developers • Simon Brown • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=dtVI7PvgVsQ)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
