@@ -814,8 +814,9 @@ Programming Books
 * (NOT YET) [Accelerated C++](https://www.hanbit.co.kr/store/books/look.php?p_code=B4851649517)
   * 한라 005.133-쾨198ㅇ
 * (NOT YET) [필요한 것만 골라 배우는 모던 C++ – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/11/%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EB%A7%8C-%EA%B3%A8%EB%9D%BC-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%AA%A8%EB%8D%98-c/)
-  * 우당
+  * 우당 문005.13-고819ㅍ
   * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
+  * [dmc3: Example programs from "Discovering Modern C++" 2nd edition (3rd code update)](https://github.com/petergottschling/dmc3)
 
 # C#
 
@@ -880,7 +881,9 @@ Programming Books
 * (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
 * (NOT YET) [이경오의 SQL+SQLD 비밀노트 (한빛미디어, 이경오 저)](https://goaloflife.tistory.com/220)
 * (NOT YET) [실무자를 위한 그래프 데이터 활용법](https://hanbit.co.kr/store/books/look.php?p_code=B6334451644)
-  * 우당
+  * 우당 문005.76-고78ㅅ
+  * [graph-book: The Code Examples and Notebooks for The Practitioners Guide to Graph Data](https://github.com/datastax/graph-book)
+  * [애플리케이션에서 그래프 기술의 적용 가능성과 사용법을 탐색하는 방법](images/graph-book.jpg)
 
 # Data Science
 
@@ -1545,7 +1548,7 @@ Programming Books
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
-  * 우당
+  * 우당 문005.1-레57ㅂ
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 
@@ -1668,7 +1671,8 @@ Programming Books
   * 탐라 문005.11-조222ㅅ
   * [Remix - Ethereum IDE](https://remix.ethereum.org/)
 * (NOT YET) [실전 알고리듬 트레이딩 레벨업 | 에이콘출판사](http://acornpub.co.kr/book/trading-evolved)
-  * 우당
+  * 우당 문005.1-클233ㅅ
+  * [Trading Evolved – Following the Trend](https://www.followingthetrend.com/trading-evolved/)
 * (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
 
@@ -2425,6 +2429,9 @@ Programming Books
   * [최고의 팀은 왜 기본에 충실한가](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_ideal_team_player.md)
   * [최고의 팀은 왜 기본에 충실한가. Ideal Team Player | The Table Group | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%8C%80%EC%9D%80-%EC%99%9C-%EA%B8%B0%EB%B3%B8%EC%97%90-%EC%B6%A9%EC%8B%A4%ED%95%9C%EA%B0%80-4241aaeb641b)
   * [최고의 팀은 왜 기본에 충실한가](https://jh4hj.tistory.com/entry/%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%8C%80%EC%9D%80-%EC%99%9C-%EA%B8%B0%EB%B3%B8%EC%97%90-%EC%B6%A9%EC%8B%A4%ED%95%9C%EA%B0%80)
+* [인간 본성 불패의 법칙](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
+  * ★★★★☆ 2022.12.03
+  * 우당 문325.581-노228ㅇ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2495,8 +2502,6 @@ Programming Books
   * 서부 DO325.41-이11ㅅ 한경 325.41-이11ㅅ
 * (NOT YET) [탁월한 리더는 피드백이 다르다](https://m.post.naver.com/viewer/postView.naver?volumeNo=19305483&memberNo=29566044)
   * 중앙 BO325.24-김51ㅌ
-* (NOT YET) [인간 본성 불패의 법칙](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
-  * 우당
 * (NOT YET) [잘나가는 조직은 무엇이 다를까](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
   * 우당 문325.23-모58ㅈ
 * (NOT YET) [세상에 모든 창업가가 묻고 싶은 질문들 : 하버드 MBA 스타트업 수업](https://www.linkedin.com/posts/%EA%B8%88%EC%9A%B1-%EC%84%9C-30013b8_%EC%9D%B4-%EC%B1%85%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EB%B6%80%EB%B6%84%EC%9D%80-%EC%8B%A4%ED%8C%A8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%82%98%EB%A6%84%EC%9D%98-%EB%AA%85%ED%99%95%ED%95%9C-%EA%B8%B0%EC%A4%80%EC%9D%84-%EC%A0%9C%EC%8B%9C%ED%95%98%EA%B3%A0-activity-6994998047478865920-re0l/)
