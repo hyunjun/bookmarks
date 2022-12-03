@@ -1675,6 +1675,8 @@ Python
   * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
   * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
   * [STFT and Melspectrogram in Tensorflow vs Librosa](https://colab.research.google.com/drive/1ptS1UkpHa-dW8w7WEf8xTE63mEQg8NQZ)
+* [pedalboard: 🎛 🔊 A Python library for working with audio](https://github.com/spotify/pedalboard)
+  * [Working with Audio in Python - YouTube](https://www.youtube.com/watch?v=Grg3Klnw5i8)
 * [pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub/)
 * [PySynth — A Music Synthesizer for Python](https://mdoege.github.io/PySynth/)
 
