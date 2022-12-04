@@ -1464,7 +1464,7 @@ Programming Books
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [데이터가 한눈에 보이는 시각화: 데이터 시각화 기초부터 분석 사례, 다양한 차트 유형까지 알아보는](https://wikibook.co.kr/dataviz/)
 * (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
-  * 한라
+  * 한라 005.7-슈65ㅇ
 * (NOT YET) [데이터 시각화 입문(후지 토시쿠니, 와타나베 료이치 著, 김태현 譯, 2020)](https://jehyunlee.tistory.com/46)
   * 탐라 문325.484-후79ㄷ
 * (NOT YET) [대시보드 설계와 데이터 시각화(스티브 웩슬러, 제프리 섀퍼, 앤디 코트그리브 著, 최윤석 譯, 2018)](https://jehyunlee.tistory.com/48)
@@ -1782,7 +1782,8 @@ Programming Books
 * (NOT YET) [밑바닥부터 만드는 인터프리터 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/101)
 * (NOT YET) [밑바닥부터 만드는 컴파일러 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/102)
 * (NOT YET) [백엔드를 위한 Go 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299624701)
-  * 한라
+  * 한라 005.133-박58ㅂ
+  * [Tanmay-Teaches/golang](https://github.com/tanmay-teaches/golang)
 
 # Hadoop
 

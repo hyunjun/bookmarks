@@ -539,6 +539,8 @@ Book
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
+* (NOT YET) [아이의 미래를 바꾸는 아빠의 습관혁명](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=848825)
+  * 탐라 개598.1-권65ㅇ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
@@ -603,6 +605,8 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
+* (NOT YET) [편의점에 간 멍청한 경제학자](https://brunch.co.kr/brunchbook/allofthenudge)
+  * 탐라 문321.89-고53ㅍ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
