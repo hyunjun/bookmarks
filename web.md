@@ -1237,6 +1237,8 @@ Web
   * [HTTPX Tutorial - A next-generation HTTP client for Python - YouTube](https://www.youtube.com/watch?v=qAh5dDODJ5k)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
+* [Lumi is an nano framework to convert your python functions into a REST API without any extra headache](https://github.com/Tanmoy741127/lumi)
+  * [Lumi - 파이썬 함수를 REST API로 변환하는 초소형 프레임워크 | GeekNews](https://news.hada.io/topic?id=7945)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
