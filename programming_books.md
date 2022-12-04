@@ -1507,6 +1507,14 @@ Programming Books
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
 * [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
+* [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
+  * 우당 문005.1-레57ㅂ
+  * [docker-jenkins: 배포 자동화와 지속적 인도](https://github.com/AcornPublishing/docker-jenkins)
+  * [Continuous-Delivery-with-Docker-and-Jenkins-Second-Edition: Continuous Delivery with Docker and Jenkins Second Edition, published by Packt](https://github.com/PacktPublishing/Continuous-Delivery-with-Docker-and-Jenkins-Second-Edition)
+  * [9781838552183_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781838552183_ColorImages.pdf)
+  * [배포 자동화와 지속적 인도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/continuous_delivery_with_docker_and_jenkins.md)
+  * [배포 자동화와 지속적 인도. 지속적 통합(CI) | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80-%EC%A7%80%EC%86%8D%EC%A0%81-%EC%9D%B8%EB%8F%84-dbfbe6d35df)
+  * [배포 자동화와 지속적 인도](https://jh4hj.tistory.com/entry/%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80-%EC%A7%80%EC%86%8D%EC%A0%81-%EC%9D%B8%EB%8F%84)
 * (NOT YET) 제대로 배우는 도커
   * 2017.01
 * (NOT YET) Docker로 PaaS 구성하기
@@ -1547,8 +1555,6 @@ Programming Books
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
-* (NOT YET) [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
-  * 우당 문005.1-레57ㅂ
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 
