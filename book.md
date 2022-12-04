@@ -541,6 +541,8 @@ Book
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
 * (NOT YET) [아이의 미래를 바꾸는 아빠의 습관혁명](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=848825)
   * 탐라 개598.1-권65ㅇ
+* (NOT YET) [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
+  * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
