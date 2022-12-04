@@ -1131,6 +1131,11 @@ Book
 * (NOT YET) [박테리아에서 바흐까지, 그리고 다시 박테리아로](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302982694)
 * (NOT YET) [그림으로 읽는 서양과학사](https://www.hellodd.com/news/articleView.html?idxno=96197)
   * 탐라 문409-김53ㄱ
+* (NOT YET) [종의 기원](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198419735)
+  * 한라 476.0162-다66ㅈ
+  * [91페이지 내내 비둘기만 등장하는 다윈의 〈종의 기원〉, 고도의 전략이었다?! #알쓸인잡 EP.1 | tvN 221202 방송 - YouTube](https://www.youtube.com/watch?v=J1ciQbXHwG0)
+* (NOT YET) [종의 기원 톺아보기 (양장 특별한정판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226626028)
+  * 한라 476.0162-다66종 우당 문476.0162-다67ㅈ
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
