@@ -163,8 +163,6 @@ Javascript
 * [How I made my own YouTube Downloader | by Samira Valiveti | Coding GYM | Oct, 2020 | Medium](https://medium.com/coding-gym/how-i-made-my-own-youtube-downloader-e7929a6b9132)
 * [Clone Medium on Nodejs and Reactjs](https://morioh.com/p/2030ab9683d7)
 * [How to Build a Netflix Clone with GraphQL, React, and DataStax Astra - YouTube](https://www.youtube.com/watch?v=pA5BMSFBO9c)
-* [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
-* [**Case study: Analyzing Notion app performance · PerfPerfPerf**](https://3perf.com/blog/notion/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
@@ -360,8 +358,6 @@ Javascript
   * [변수 변경 탐지하기](https://www.zerocho.com/category/JavaScript/post/5a6578a3c994bd001ba0f9d9)
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 * [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
-* [Optimising Largest Contentful Paint – CSS Wizardry – Web Performance Optimisation](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
-  * [LCP 최적화 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220426)
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 * [자바스크립트에서 for 루프를 다시 생각해보자](http://hamait.tistory.com/889)
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
@@ -483,16 +479,9 @@ Javascript
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
-* [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
-* [<번역>앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁](https://junwoo45.github.io/2019-10-05-frontend-performance/)
-* [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist)
-* [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
-* [네이버 스마트 주문 페이지 성능 개선 경험담 공유. 안녕하세요. 네이버 Glace 예약&주문 개발팀에서 일하고 있는 새내기… | by Jiwon Kim | 네이버 플레이스 개발 블로그 | Aug, 2020 | Medium](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
-* [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
-* [사용자 경험과 성능 개선 방법 in 카카오웹툰 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220120-ux-and-perf-in-kakaowebtoon/)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 * [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
 * [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
@@ -675,8 +664,6 @@ Javascript
 * [How to reverse a number in JavaScript](https://medium.freecodecamp.org/js-basics-how-to-reverse-a-number-9aefc20afa8d)
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
-* [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
-* [Create a memoized function in JavaScript - DEV Community](https://dev.to/jeremydmarx813/create-a-memoized-function-in-javascript-43pi)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [호이스팅과 var, let, const | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/hoisting-var-let-const/)
 * [실행 컨텍스트(Execution Context)를 통해 알아본 호이스팅(Hoisting) 현상의 발생 원인과 이를 통한 let과 var의 차이](https://blog.naver.com/dlaxodud2388/222238394694)
@@ -850,8 +837,6 @@ Javascript
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
 * [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
-* [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
-* [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
 * [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
 * [프론트엔드는 무엇인가?. Web Application의 패러다임은 어떻게 되는걸까? | by 조은, John Cho | Oct, 2022 | Medium](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-30919634f80d)
 * [veltrends 개발 후기](https://velog.io/@velopert/veltrends-dev-review)
@@ -1627,7 +1612,7 @@ Javascript
 * [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
 * [Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
 * [The Top 12 Node.js Frameworks on GitHub️ - Dor Moshe's Blog](https://dormoshe.io/trending-news/the-top-12-nodejs-frameworks-on-github-beg-50091)
-* [Data Fetching on the Web Still Sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
+* ~[Data Fetching on the Web Still Sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)~
 * [**15 DevTool Secrets for JavaScript Developers**](https://blog.asayer.io/15-devtool-secrets-for-javascript-developers)
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
@@ -1638,7 +1623,6 @@ Javascript
 * [The JavaScript framework war is over | by David Rodenas, Ph. D. | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732)
 * [pzuraq | blog | Four Eras of JavaScript Frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
   * [번역 자바스크립트 프레임워크의 네 시대 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-05-27-Four-Eras-of-JavaScript-Frameworks)
-* [The Cost of Javascript Frameworks - Web Performance Consulting | TimKadlec.com](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 * [자바스크립트 프레임워크 비교 - 코드쓰는사람](https://taegon.kim/archives/10477)
   * Ryan Carniato가 TodoMVC를 프레임워크별로 구현해서 비교한 작년 글을 현재 기준으로 새로 업데이트해서 테스트
   * React, Preact, Solid, Svelte, Vue를 비교해서 프레임워크 자체의 크기와 애플리케이션 코드의 크기 비교
@@ -2223,7 +2207,6 @@ Javascript
 * [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
 * [Stardust - GPU 기반 시각화 라이브러리](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/334526306983371/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
-* [stats.js - JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 * [Stimulus, the "JavaScript Framework for the HTML You Already Have", Releases 2.0](https://www.infoq.com/news/2021/01/stimulus-2-javascript-framework/)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io/)
@@ -3281,6 +3264,30 @@ Javascript
   * [WebContainers, Running Node.JS in the Browser](https://www.infoq.com/news/2021/07/webcontainers-nodejs/)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
+
+# Performance
+* [<번역>앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁](https://junwoo45.github.io/2019-10-05-frontend-performance/)
+* [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist)
+* [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
+* [네이버 스마트 주문 페이지 성능 개선 경험담 공유. 안녕하세요. 네이버 Glace 예약&주문 개발팀에서 일하고 있는 새내기… | by Jiwon Kim | 네이버 플레이스 개발 블로그 | Aug, 2020 | Medium](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
+* [사용자 경험과 성능 개선 방법 in 카카오웹툰 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220120-ux-and-perf-in-kakaowebtoon/)
+* [The Cost of Javascript Frameworks - Web Performance Consulting | TimKadlec.com](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
+* [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+* [**Case study: Analyzing Notion app performance · PerfPerfPerf**](https://3perf.com/blog/notion/)
+* [Optimising Largest Contentful Paint – CSS Wizardry – Web Performance Optimisation](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
+  * [LCP 최적화 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220426)
+* [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
+* [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
+* [Create a memoized function in JavaScript - DEV Community](https://dev.to/jeremydmarx813/create-a-memoized-function-in-javascript-43pi)
+* [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions/)
+* [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem/)
+  * 최근 Go, Rust로 도구가 다시 만들어지지만 JS는 여러 도구의 집합체. 각 도구들을 개선한 리뷰
+  * PostCSS - 주석이 있는지 확인하는 정규식(4.63s 중 4.6s 감소)
+  * SVGO
+    * SVG파일의 숫자 압축에서 캐스팅이 많이 사용되어 숫자로 표현하도록 변경 (3.1s 중 1.4s 감소)
+    * 소수점 처리에 있어서 문자열로 변환하고 정규식 사용하는 부분 개선 (1.7s 중 0.9s 감소)
+* [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
+* [stats.js - JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 
 # Prototype
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
@@ -4712,6 +4719,7 @@ Javascript
   * [리액트가 쉬워지는 채신기술 Zustand - YouTube](https://www.youtube.com/watch?v=zNHZJ_iEMPA)
   * [전역 상태 관리자 주스탠드(zustand)](https://blog.naver.com/pjt3591oo/222676339976)
   * [Using Zustand with React JS! 🚀 - DEV Community](https://dev.to/franklin030601/using-zustand-with-react-js-9di)
+  * [Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
 
 ## React TDD Test
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
