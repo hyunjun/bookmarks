@@ -151,6 +151,7 @@ Functional Programming
 * [2015-09 Category Theory in Functional Programming](https://www.youtube.com/watch?v=T5uhoCPV69Y)
 * [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
 * [Applied Category Theory - The Emerging Science of Compositionality](http://lambda-the-ultimate.org/node/5581)
+* [Applied Category Theory • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=M3qQFBGC9tk)
 * [What’s in a Name? The ABC’s of Category Theory and Functional Programming](https://medium.com/@magdastenius/whats-in-a-name-2a7e75bb4faf)
 * [Data Juggling - Part 5 - Curry-Howard-Lambek Correspondence](https://www.youtube.com/watch?v=8l8ZCWgyFrw)
 * [Category Theory - Chapter 1: Basic Constructions](https://www.youtube.com/playlist?list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8)
