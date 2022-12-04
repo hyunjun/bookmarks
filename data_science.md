@@ -462,6 +462,8 @@ Data Science
   * [판다스 개발자가 직접 쓰고 공개한 파이썬 데이터 분석 3판](https://www.youtube.com/watch?v=GYv5r1SQWe0)
 
 # Conference
+* [데이터야놀자(2022) - 데이터로 토이 서비스만들기 · Present](https://present.do/documents/637a2ac83e3ad95cc83113c9) google sheets, telegram chatbot, pandas dataframe, airflow
+  * [chatbot-reviewrate-compare: 네이버/카카오/구글 맛집 평점을 비교해주는 챗봇입니다](https://github.com/ddongmiin/chatbot-reviewrate-compare)
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
 * [데이터야놀자2021 공공데이터를 활용한 서울시 공/사교육 분석 - 고동우(데이터드림)님 - YouTube](https://www.youtube.com/watch?v=QDV19lPrMGU)
 * [Agile Data Science - John Sandall | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7HR-vrYN1oU)
