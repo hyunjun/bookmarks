@@ -5170,6 +5170,7 @@ Javascript
   * 이를 허용하고자 한다면 타입에 Index signature를 포함할 수 있고 아니면 Branded type을 적용해서 지정한 타입 외에는 허용하지 않도록 할 수 있음
 * [unknown , any, never 타입 이해하기](https://blog.naver.com/pjt3591oo/222931827299)
 * [Typescript - Union Type, Intersection Type, Etc. | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-typescript-tip/)
+* [(TypeScript) satisfies 연산자 - ZeroCho Blog](https://www.zerocho.com/category/TypeScript/post/638c327844d418915ee64b0b)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
