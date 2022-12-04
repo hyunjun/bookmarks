@@ -852,6 +852,9 @@ Programming Books
   * 한라 005.453 로894ㅇ
 * (NOT YET) [Crafting Interpreters: A Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 
+# Continuous Integration & Continuous Delivery CI CD
+* (NOT YET) [지속적인 통합: 소프트웨어 품질을 높이고 위험을 줄이기 | 위키북스](https://wikibook.co.kr/continuous-integration/)
+
 # Database, SQL
 
 * Effective SQL SQL 코딩의 기술
