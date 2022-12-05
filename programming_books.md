@@ -2239,6 +2239,7 @@ Programming Books
   * 한라
 * [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
   * ★★★★★
+  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
   * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
   * [개발 7년차, 매니저 1일차](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C-7%EB%85%84%EC%B0%A8-%EB%A7%A4%EB%8B%88%EC%A0%80-1%EC%9D%BC%EC%B0%A8-3189fcbc2d54)
 * [나는 아마존에서 미래를 다녔다, 박정준](http://valuevine.kr/archives/2560)
@@ -2604,10 +2605,11 @@ Programming Books
   * [서번트 리더의 품격](https://github.com/hyunjun/bookmarks/blob/master/programming_books/never_offer_your_comb_to_a_bald_man.md)
   * [서번트 리더의 품격. Amazon.com: Alexander J. Berardi… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9-91bb4cc65679)
   * [서번트 리더의 품격](https://jh4hj.tistory.com/entry/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9)
-* (NOT YET) 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
+* 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
+  * ★★★☆☆ 2022.12.05
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
-* (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
-* (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
+* [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
+  * ★★★☆☆ 2022.12.05
   * 한라 325.24-백75ㅇ 탐라 문325.24-백75ㅇ 우당 문325.24-백75ㅇ
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
