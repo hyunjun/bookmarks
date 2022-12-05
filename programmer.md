@@ -197,6 +197,7 @@ Programmer
 * [함께 일하고 싶은 사람 - 3. 경험들](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-3.-%EA%B2%BD%ED%97%98%EB%93%A4-7eoz24s6)
 * [함께 일하고 싶은 사람 - 4. 마음가짐](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-4.-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-newad9vz)
 * [함께 일하고 싶은 사람 - 5. 여담 : 개인적인 팁, 성서](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-5.-%EC%97%AC%EB%8B%B4-%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%ED%8C%81-%EC%84%B1%EC%84%9C-q8ltwtyu)
+* [프로그래머로 산다는 것 - Google Slides](https://docs.google.com/presentation/d/1e1c0eyB1zYZFZyr4eIl0LSfhrp6SI9N_zy0ZIrZ4fVM/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
