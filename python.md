@@ -5193,6 +5193,7 @@ Python
 * [`typing.Protocol`: Type Hints in Python - YouTube](https://www.youtube.com/watch?v=aD9lEfUB9xk)
 * [Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
   * [2021-protocol-vs-abc: Protocols vs ABC - which one should you use when?](https://github.com/ArjanCodes/2021-protocol-vs-abc)
+* [Protocols - Static duck typing for decoupled code - presented by Ran Zvi - YouTube](https://www.youtube.com/watch?v=adxG_7bBy1w)
 * [파이썬 타입 힌트 제대로 활용하기, 최보성 - PyCon Korea 2022 - YouTube](https://www.youtube.com/watch?v=3dGMBwARuN0)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
