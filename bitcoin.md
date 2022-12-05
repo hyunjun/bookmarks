@@ -68,6 +68,7 @@ Bitcoin
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
 * [How to Design A Real-time CryptoCurrency Price Alert Backend | by Jerry An | Feb, 2022 | Medium](https://jerryan.medium.com/how-to-design-a-real-time-cryptocurrency-price-alert-backend-470f6245a7cd)
 * [I was wrong, we need crypto | GeekNews](https://news.hada.io/topic?id=6024)
+* [그럼에도 불구하고, 크립토는 불가피한 시대의 흐름입니다. (웹3의 현 상황과 미래)](https://www.grownbetter.com/article/215)
 * [중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼! | GeekNews](https://news.hada.io/topic?id=6133) CDBC
 * [세상을 늦게 보기 위해 잃었던 것들](https://snack.planetarium.dev/kor/2022/03/things-i-lost-to-see-the-world-late/) 확정 confirmation 문제
 * [Smart-Contract-Resources/Build.md at master · ErichDylus/Smart-Contract-Resources](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
