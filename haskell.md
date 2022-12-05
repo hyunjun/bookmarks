@@ -372,6 +372,7 @@ Haskell
 # Conference
 * ["Building Haskell Programs with Fused Effects" by Patrick Thomson - YouTube](https://www.youtube.com/watch?v=vfDazZfxlNs)
 * [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
+* [Full-Stack Haskell: From Prototype to Production • Ryan Trinkle • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=guhrVxY63tg)
 * [Haskell conference](https://haskell.love/)
 * [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen](https://www.youtube.com/watch?v=Bg9ccYzMbxc)
 * [LambdaConf 2015 - Modeling Data in Haskell for Beginners Chris Allen](https://www.youtube.com/watch?v=p-NBJm0kIYU)
