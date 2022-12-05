@@ -5036,6 +5036,7 @@ Javascript
 * [ES6 화살표 함수에 없는 3가지?](https://www.youtube.com/watch?v=4zjKltnIBug)
 * [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 * [타입스크립트에서 if문 안에 promise가 들어가는 문제 피하기](https://libsora.so/posts/prevent-bug-by-if-statement-with-promise/)
+* [당신의 JS코드에서 if문을 줄여줄 기본 연산자 5가지 — BetaMan의 공사장](https://betaman-workshop.tistory.com/113)
 * [Typescript inheritance deep dive](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
 * [번역 TypeScript at Google](https://hyunseob.github.io/2018/11/27/typescript-at-google/)
 * [react-native 프로젝트에 typescript를 적용하여 개발해 보자](https://dev-yakuza.github.io/ko/react-native/typescript/)
