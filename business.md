@@ -1771,6 +1771,7 @@ Business
 * [디스콰이엇 Pre A 회고: 프로덕트 - 1 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3554)
 * [디스콰이엇 Pre A 회고: 프로덕트 - 2 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3584)
 * [디스콰이엇 Pre A 회고: 프로덕트 - 3 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3612)
+* [Pre A 회고: 투자유치시 멘탈 관리 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/4024)
 * [**피그마 CPO 인터뷰 "Figma는 어떻게 제품팀을 구성할까?"**](https://www.grownbetter.com/article/206)
 
 # Product Management
@@ -2257,6 +2258,7 @@ Business
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
 * [서비스 이용자에게 꼭 필요한 나침반, '내비게이션'은 어떻게 기획해야 할까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/navigation20221125)
+* [중고거래 검색 필터 사용성 개선하기. 안녕하세요, 검색모델러 Aiden(에이든)이에요. | by Jukyoung LEE | 당근마켓 팀블로그 | Dec, 2022 | Medium](https://medium.com/daangn/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EA%B2%80%EC%83%89-%ED%95%84%ED%84%B0-%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-71c9e000cfa3)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
