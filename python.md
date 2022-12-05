@@ -4846,6 +4846,7 @@ Python
   * [Development update: High speed Apache Parquet in Python with Apache Arrow - Wes McKinney](https://wesmckinney.com/blog/python-parquet-update/)
 * [Pandas NaN이란 그리고 None 차이](https://blog.doosikbae.com/entry/Pandas-NaN%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-None-%EC%B0%A8%EC%9D%B4)
 * [Pandas dataframe 메모리 사용량 확인하기](https://blog.doosikbae.com/entry/Pandas-dataframe-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC)
+* [Hossein Mortazavi - How to use Pandas Efficiently | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=IRr3gx71rnk)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
