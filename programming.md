@@ -2050,6 +2050,7 @@ Programming
 * [What Are Microservices Really All About? (And When Not To Use It) - YouTube](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
 * [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
   * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
+* [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
