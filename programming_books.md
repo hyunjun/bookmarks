@@ -1463,8 +1463,11 @@ Programming Books
   * [Data Visualization](https://socviz.co/)
   * [SDS 375](https://wilkelab.org/SDS375/)
 * (NOT YET) [데이터가 한눈에 보이는 시각화: 데이터 시각화 기초부터 분석 사례, 다양한 차트 유형까지 알아보는](https://wikibook.co.kr/dataviz/)
-* (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations)
+* (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations/)
   * 한라 005.7-슈65ㅇ
+  * [better data visualizations](images/better_data_visualizations.jpg)
+    * “원래부터 직관적인 그래픽이란 존재하지 않는다. 시각화 자료를 읽고 해석하는 능력을 날 때부터 가지고 태어난 사람은 없다."
+    * 데이터 시각화 전문가는 반드시 청중을 이해해야 하며, 어떤 그래프가 청중의 관심을 끄는지 알아야 한다. 그리고 청중의 그래픽 문해력을 키워줘야 한다.
 * (NOT YET) [데이터 시각화 입문(후지 토시쿠니, 와타나베 료이치 著, 김태현 譯, 2020)](https://jehyunlee.tistory.com/46)
   * 탐라 문325.484-후79ㄷ
 * (NOT YET) [대시보드 설계와 데이터 시각화(스티브 웩슬러, 제프리 섀퍼, 앤디 코트그리브 著, 최윤석 譯, 2018)](https://jehyunlee.tistory.com/48)
