@@ -2618,6 +2618,9 @@ Programming Books
   * ★★★☆☆ 2022.12.05
   * 한라 325.24-백75ㅇ 탐라 문325.24-백75ㅇ 우당 문325.24-백75ㅇ
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
+  * [요즘 팀장은 이렇게 일합니다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/nowadays_team_leaders.md)
+  * [요즘 팀장은 이렇게 일합니다. 1장 팀장은 뭐하는 사람일까? | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%9A%94%EC%A6%98-%ED%8C%80%EC%9E%A5%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-462d92c72b4f)
+  * [요즘 팀장은 이렇게 일합니다](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%ED%8C%80%EC%9E%A5%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
