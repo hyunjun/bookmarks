@@ -659,6 +659,9 @@ NLP
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
   * [ChatGPT란 무엇이고 어떻게 미디어 산업을 혁신할 것인가? (번역) – 이바닥늬우스](https://ebadak.news/2022/12/04/what-is-chatgpt/)
+  * [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+    * [ChatGPT 속에 VM 만들기](https://www.facebook.com/groups/TensorFlowKR/posts/1910790999261949/)
+      * ChatGPT 에게 리눅스 머신의 터미널인 척 행동 하라고 지시한 다음, 각종 명령어를 수행하는 흥미로운 글
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
