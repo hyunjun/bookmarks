@@ -591,6 +591,10 @@ Book
 * [노이즈: 생각의 잡음](https://www.khan.co.kr/ePR/article/202206232100055)
   * ★★★★☆ 2022.11.29~12.02 편향, 잡음, 규칙, 기준. 별 하나를 뺀 건 책이 어려워서 내가 이해를 못해서일뿐 사실 5개도 부족하다
   * 한라 320.1-카194ㄴ 탐라 문181.91-카213ㄴ 우당 문181.91-카213ㄴ
+* [편의점에 간 멍청한 경제학자](https://brunch.co.kr/brunchbook/allofthenudge)
+  * ★★★☆☆ 2022.12.05 읽은 후 가장 관심이 가는 건 앵커링을 내가 쓰려면 어떻게 해야 할까? 하는 생각
+  * 탐라 문321.89-고53ㅍ
+  * [앵커링효과(Anchoring Effect)란?.. : 네이버블로그](https://blog.naver.com/no1_hanafax/220030635825)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
@@ -607,8 +611,6 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
-* (NOT YET) [편의점에 간 멍청한 경제학자](https://brunch.co.kr/brunchbook/allofthenudge)
-  * 탐라 문321.89-고53ㅍ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
