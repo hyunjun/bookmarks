@@ -209,6 +209,7 @@
     * 변환 도구인 J2K를 이용해서 변환했지만 J2K가 이해하지 못해서 수동으로 처리해야 하는 사례 발견
   * 그래서 Java 코드를 내부 도구에 필요한 변환 작업을 한 뒤 J2K를 실행하고 Kontlin 파일을 후처리
   * 마이그레이션 후 기대보다는 적은 11%의 코드 라인 감소, 실행 속도 동일, 빌드 속도는 KSP로 주석을 처리해서 해결
+* [Semaphore & Mutex. Today we will discuss what is Semaphore… | by Erselan Khan | Nov, 2022 | Towards Dev](https://towardsdev.com/semaphore-mutex-erselan-khan-2e7df18c4cd5)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -280,6 +281,7 @@
 * [Is Kotlin’s Destructuring Useful? | by Renee Vandervelde | ReadySet.build](https://readyset.build/is-destructuring-useful-5b6cf32307d2)
 * [무지성으로 사용하는 코틀린은 당신의 서비스를 위태롭게 할 수 있다. | by Inpyo Jeon | 월요일 오후 9시 | Nov, 2022 | Medium](https://medium.com/monday-9-pm/%EB%AC%B4%EC%A7%80%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%80-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%83%9C%EB%A1%AD%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-9a61ce9d6d7e) collection sequence
 * [코틀린에서 if 문 다뤄보기](https://www.roach-dev.com/kotlin_take_if/)
+* [코틀린의 불변 컬렉션은 불변일까?](https://www.roach-dev.com/kotlin_mutable/)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
