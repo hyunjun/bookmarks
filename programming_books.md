@@ -2608,9 +2608,12 @@ Programming Books
   * [서번트 리더의 품격](https://github.com/hyunjun/bookmarks/blob/master/programming_books/never_offer_your_comb_to_a_bald_man.md)
   * [서번트 리더의 품격. Amazon.com: Alexander J. Berardi… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9-91bb4cc65679)
   * [서번트 리더의 품격](https://jh4hj.tistory.com/entry/%EC%84%9C%EB%B2%88%ED%8A%B8-%EB%A6%AC%EB%8D%94%EC%9D%98-%ED%92%88%EA%B2%A9)
-* 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509)
-  * ★★★☆☆ 2022.12.05
+* 리더는 칭찬하지 않는다 ['미움받을 용기' 저자의 서툰 리더를 위한 7가지 조언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadershipadvice20220509/)
+  * ★★★☆☆ 2022.12.05 제목은 출판사에서 일부러 자극적으로 지은 듯. 아들러 '가치 저감 경향' '우월성의 추구' '논리적 결말' '불완전할 용기' '공동체 감각' '자립' 감사 용기
   * 한라 325.24-기58ㄹ, 탐라 문325.24-기59ㄹ
+  * [리더는 칭찬하지 않는다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leader_doesnot_give_compliments.md)
+  * [리더는 칭찬하지 않는다. '가치 저감 경향' 자신의 가치를 높이려는 건설적인 노력을 하지 않고… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EB%8A%94-%EC%B9%AD%EC%B0%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-e4dab14efee0)
+  * [리더는 칭찬하지 않는다](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EB%8A%94-%EC%B9%AD%EC%B0%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
 * [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * ★★★☆☆ 2022.12.05
   * 한라 325.24-백75ㅇ 탐라 문325.24-백75ㅇ 우당 문325.24-백75ㅇ
