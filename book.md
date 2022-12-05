@@ -909,6 +909,8 @@ Book
 * (NOT YET) [35년 1~7 세트 - 전7권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247913882)
   * 한라 911.06-박58ㅅ-1~7 탐라 문911.06-박59-1~5 우당 문911.06-박59ㅅ-1~7
 * (NOT YET) [폭풍 전의 폭풍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=201299176)
+* (NOT YET) [병자호란, 홍타이지의 전쟁](https://blog.naver.com/mkparang/221787988183)
+  * 한라 911.0557-구44ㅂ 우당 문911.0557-구43ㅂ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
