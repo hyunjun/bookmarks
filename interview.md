@@ -587,6 +587,7 @@ Interview
   * [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
   * [EP03: Load balancer basics, usage and configuration - YouTube](https://www.youtube.com/watch?v=cXYm0nNhKJw)
   * [EP04: API Gateway vs Load Balancer concepts and usage (AWS config) - YouTube](https://www.youtube.com/watch?v=Z1lejCLTRXY)
+  * [System Design Basics: What is an API Gateway?](https://www.linkedin.com/posts/arslanahmad_microservices-systemdesign-microservices-activity-7005330977480732673-ADAL/)
   * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
   * [High-Performance Software Load Balancer for Cloud-Native Architecture | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9524915)
 * [Proxy vs Reverse Proxy vs LB | 10 Min System Design #whatisproxy #proxyvsreverseproxy #loadbalancer - YouTube](https://www.youtube.com/watch?v=zyv4NJCTVnw)
