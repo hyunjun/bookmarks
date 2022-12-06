@@ -5187,10 +5187,23 @@ Programming
 * [직관만 믿고 까불었다가 망한 PM의 사연. 안녕하세요, 검색 프로덕트 매니저 Demi예요. | by 김단 Demi | 당근마켓 팀블로그 | Aug, 2022 | Medium](https://medium.com/daangn/%EC%A7%81%EA%B4%80%EB%A7%8C-%EB%AF%BF%EA%B3%A0-%EA%B9%8C%EB%B6%88%EC%97%88%EB%8B%A4%EA%B0%80-%EB%A7%9D%ED%95%9C-pm%EC%9D%98-%EC%82%AC%EC%97%B0-61946dc969eb)
 * [방태모의 블로그 - A/B 테스트 용어 사전](https://www.taemobang.com/posts/2022-10-31-abtest-terms/)
 * [Sona Hambaryan - A/B Testing in Production | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=U2DtBTxRkCM)
+* [프로덕트를 빠르게 개선하기 위한 베이지안 A/B 테스트](https://www.slideshare.net/lumiamitie/ab-249770435)
 * [AutoParams: Enjoy your TDD! AutoParams is an arbitrary test data generator for parameterized tests in Java inspired by AutoFixture](https://github.com/AutoParams/AutoParams)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
+
+## TDD, Test, A/B test alternatives
+* [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 (2020-01-18 잔디콘)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
+* [준실험 Quasi-experiments: 인과 관계를 추정하는 방법 | A/B 테스트를 할 수 없을 때 | BON DATA | Medium | BON DATA](https://medium.com/bondata/quasi-experiments-%EC%9D%B8%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9D%98-%ED%9A%A8%EA%B3%BC-%EB%A5%BC-%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-da34ceefc34f)
+* [데이터 과학자가 알아야할 인과적 추론들의 우위관계](https://newspeppermint.com/2020/07/31/m-causalinference/)
+* [Causal Inference KR 스타트업에서의 인과추론](https://www.slideshare.net/choibokyung/causal-inference-kr-250571261)
+* [스타트업에서의 인과추론 | Product Analytics Playground](https://playinpap.github.io/causal-inference-startup/)
+* [Causal Inference 기본 이해 및 파이썬 라이브러리](https://data-newbie.tistory.com/866)
+* [Causal Inference (인과관계추론) – 내 낡은 서랍 속의 바다](https://lovablebaby1015.wordpress.com/2019/06/04/causal-inference-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84%EC%B6%94%EB%A1%A0/)
+* [Chapter 1. Motivation](https://pseudolabcausalinference.tistory.com/6)
+* [Beyond A/B Testing: Primer on Causal Inference | by Wicaksono Wijono | Towards Data Science](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
+* [Using Causal ML Instead of A/B Testing | by Samuele Mazzanti | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7fc0)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
