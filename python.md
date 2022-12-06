@@ -1131,6 +1131,7 @@ Python
   * [Functional Programming in Python: Parallel Processing with "concurrent.futures"](https://www.youtube.com/watch?v=0NNV8FDuck8)
   * [Amber Brown Implementing Concurrency and Parallelism From The Ground Up PyCon 2017](https://www.youtube.com/watch?v=31fXwpb0P9c)
   * [**Advanced Python: Concurrency And Parallelism | by Farhad Malik | FinTechExplained | Medium**](https://medium.com/fintechexplained/advanced-python-concurrency-and-parallelism-82e378f26ced)
+  * [Taking charge of your race conditions - presented by Borjan Tchakaloff - YouTube](https://www.youtube.com/watch?v=95D5Hv9muUs)
   * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
   * [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
   * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
@@ -5061,6 +5062,7 @@ Python
   * [ABTest at main · diligejy/Growth](https://github.com/diligejy/Growth/tree/main/ABTest)
 * [How to Support A/B Testing in Your Python Code - YouTube](https://www.youtube.com/watch?v=115SeMub-P0)
   * [2022-abtest](https://github.com/ArjanCodes/2022-abtest)
+* [Code coverage through unit tests running in sub-processes/threads - presented by Saransh Chopra - YouTube](https://www.youtube.com/watch?v=OwA8hfLclTg)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
