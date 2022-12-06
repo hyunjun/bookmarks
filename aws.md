@@ -466,6 +466,8 @@ AWS
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
+* [Data Lake with Serverless | 월요일 오후 9시](https://medium.com/monday-9-pm/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
+  * Data Warehouse와 Data Lake의 탄생 배경, AWS의 Serverless로 구조를 설계하는 방법 설명
 * [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
 * [NRISE를 지탱하는 기술 — 인프라. NRISE는 국내 소셜 디스커버리 시장을 선도하는 위피(WIPPY)와… | by Daegeun Kim | Nov, 2022 | NRISE](https://blog.nrise.net/nrise%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%9D%B8%ED%94%84%EB%9D%BC-b93f9771d6e0)
   * 위피와 콰트를 운영하는 엔라이즈에서 지난 1년간 인프라를 개선 시킨 과정과 도입한 도구 정리
@@ -1520,6 +1522,7 @@ AWS
 * [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
+* [IoT 디바이스에서 쉽고 편리하게 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/iot-device-ml-inference/)
 * [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
   * "Run inference at scale"
@@ -1576,6 +1579,7 @@ AWS
 * [Amazon SageMaker 차세대 노트북 – 데이터 준비, 실시간 협업 및 노트북 자동화 기능 내장 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/next-generation-sagemaker-notebooks-now-with-built-in-data-preparation-real-time-collaboration-and-notebook-automation/)
 * [Amazon SageMaker 단기 집중 과정 (Intensive Course) - AWS Startup Bootcamp](https://www.awsbootcamp.io/ai-ml-and-personalization/ai-ml/amazon-sagemaker-intensive-course)
 * [Amazon SageMaker 섀도우 테스트 기능 – ML 모델 변형 간 추론 성능 비교 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-amazon-sagemaker-perform-shadow-tests-to-compare-inference-performance-between-ml-model-variants/)
+* [Amazon SageMaker에서 code-server 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/host-code-server-on-amazon-sagemaker/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -1958,6 +1962,7 @@ AWS
 * [AWS Cheat Sheet - VPC](https://www.joinc.co.kr/w/aws_cheat_sheet_vpc)
 * [Learning and Hacking VPC JOINC EDU](https://www.joinc.co.kr/w/Learning-and-Hacking-VPC/)
 * [DevOps Tutorials |How to Create a VPC/Subnets in AWS Using Ansible | Aws Tutorials - YouTube](https://www.youtube.com/watch?v=rSK7-XvWYAc)
+* [Amazon VPC Lattice 미리 보기 – 서비스 간 통신을 위한 네트워킹 간소화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
