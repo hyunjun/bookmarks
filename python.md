@@ -2148,6 +2148,8 @@ Python
   * [2. 파일 새로 생성하고, 이름 바꾸기](https://martinii.fun/232)
   * [3. 번거로운 타수를 확 줄여주는 똑똑한 파이참의 단축키들(코드자동완성)](https://martinii.fun/233)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
+  * [PySnooper: Never use print for debugging again - presented by Ram Rachum - YouTube](https://www.youtube.com/watch?v=9H3Y0ofTMtY)
+  * [pysnooper 을 활용한 debug 하기](https://data-newbie.tistory.com/80)
 * [python-devtools](https://python-devtools.helpmanual.io/)
   * [Python's missing debug print command and other development tools](https://pythonawesome.com/pythons-missing-debug-print-command-and-other-development-tools/)
 * [traceback_with_variables: Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works in Jupyter and IPython. Install with pip or conda](https://github.com/andy-landy/traceback_with_variables)
