@@ -872,6 +872,7 @@ Python
   * [Eyal Trabelsi - Elegant Exception Handling - YouTube](https://www.youtube.com/watch?v=6sVDuFQRGgo)
   * [Quick Python Tip: Suppress Known Exception Without Try Except | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/quick-python-tip-suppress-known-exception-without-try-except-a93ec34d3704)
   * [Robust exception handling - Eli Bendersky's website](https://eli.thegreenplace.net/2008/08/21/robust-exception-handling/)
+  * [Raise better errors with Exception Groups - presented by Or Chen - YouTube](https://www.youtube.com/watch?v=w2aSfeXVn8A) 3.11
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
