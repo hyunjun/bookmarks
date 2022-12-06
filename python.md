@@ -3669,6 +3669,8 @@ Python
   * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
+* [HPy - A better C API for Python | HPy](https://hpyproject.org/)
+  * [HPy: a better C API for Python - presented by Ronan Lamy - YouTube](https://www.youtube.com/watch?v=L8X2d_O5IMo)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
