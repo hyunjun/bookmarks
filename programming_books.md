@@ -2446,6 +2446,7 @@ Programming Books
 * [인간 본성 불패의 법칙](https://dbr.donga.com/article/view/total/article_no/10640/ac/a_view)
   * ★★★★☆ 2022.12.03
   * 우당 문325.581-노228ㅇ
+  * [The Human Element](https://www.humanelementbook.com/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
