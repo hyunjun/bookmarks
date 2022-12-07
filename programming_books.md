@@ -638,6 +638,7 @@ Programming Books
   * 2017.06 한라
 * (NOT YET) [아키텍처를 알아야 앱 개발이 보인다](https://bjpublic.tistory.com/357)
   * 우당
+* (NOT YET) [핵심만 골라 배우는 젯팩 컴포즈](https://jpub.tistory.com/1351)
 
 # Architecture
 
@@ -2299,6 +2300,7 @@ Programming Books
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
   * [새책 성취예측모형에 관한 기초적 지식과 그 배경을 설명한 영상 - YouTube](https://www.youtube.com/watch?v=CmmIT5kDFRs)
   * [국민 필독서…대통령 최적 인물 진단 ’성취예측모형’ - 브랜드타임즈(Brand Times)](http://www.brandtimes.co.kr/news/articleView.html?idxno=2259)
+  * [성취역량모델.pdf - Google Drive](https://drive.google.com/file/d/10HUVg0aRpciNrkl5iYw25mOZPkBbzVmK/edit)
 * 원온원 일 잘하는 팀장의 대화력
   * 우당
   * ★★★★☆ 2022.04.03
