@@ -242,6 +242,7 @@ Programmer
 * [‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1458/)
 
 # Programmers
+* [도널드 커누스 - 튜링상 수상자 시리즈, 지식함지](https://knowledgebasin.com/archives/persons/%EB%8F%84%EB%84%90%EB%93%9C-%EC%BB%A4%EB%88%84%EC%8A%A4)
 * [Donald Knuth on work habits, problem solving, and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * Leslie Lamport [The Man Who Revolutionized Computer Science With Math - YouTube](https://www.youtube.com/watch?v=rkZzg7Vowao)
