@@ -175,6 +175,8 @@ Programming
 * [2018 개발자 추천 블로그 10선](https://www.huskyhoochu.com/suggested-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 * [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
+* [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+* [Coding Complex App Logic, Visually - YouTube](https://www.youtube.com/watch?v=wgWwJSnhgDU)
 * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
 * [These are some of my favorite talks for software engineers to watch](https://news.ycombinator.com/item?id=9791739)
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
@@ -188,7 +190,6 @@ Programming
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/)
-* [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
 * [Quantify your coding - Metrics and insights about your programming using open source text editor plugins](https://wakatime.com/)
 * [learn to code through message chatting](http://www.jasymchat.com/)
@@ -1458,6 +1459,7 @@ Programming
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 * [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
 * [Software Architecture for Developers • Simon Brown • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=dtVI7PvgVsQ)
+* [Shortening the Architectural Feedback Loop • Eltjo R. Poort • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=lshfKKeB1Io)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -2159,7 +2161,6 @@ Programming
 * [Cloud Made Simple with Serverless Python](https://www.youtube.com/watch?v=3Dbxu-J4c5s) IBM cloud
 * [Full Stack Serverless](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
-* [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 * [GOTO 2019 • Serverless: Five Key Things you need to Know • Gojko Adzic](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 * [Real world serverless - architecture, patterns and lessons learned by David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 * [MASOCON 2019 Serverless - Kimminjun](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
@@ -2203,6 +2204,7 @@ Programming
   * Azure Functions는 Azure에가 가장 인기 있는 서버리스 제품이지만 Azure Container Instances의 채택이 빠르게 증가
   * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
 * [클라우드와 서버리스. 이 블로그를 시작한 계기가 서버리스인데 글들을 살펴 보니 서버리스 관련… | by 이상선 | Nov, 2022 | Medium](https://medium.com/@sunyi233/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-5fc05c1a637e)
+* [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
