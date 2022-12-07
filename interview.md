@@ -32,6 +32,8 @@ Interview
 * [How I got into Google](https://blog.usejournal.com/how-i-got-into-google-161c97913b8b)
 * [YC Interview Prep Tool](http://ycinterview.com/)
 * [The Rise And Looming Fall Of The Engineering Whiteboard Interview](http://www.forbes.com/sites/vivekravisankar/2015/05/04/the-rise-and-looming-fall-of-the-engineering-whiteboard-interview/)
+* [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
+* [왜 화이트보드 코딩 인터뷰를 하는가?. 지난 7월 4일 루닛케어(이하 케어)의 백엔드 채용 프로세스에… | by 김준형 | Dec, 2022 | Medium](https://medium.com/@ghilbut/%EC%99%9C-%ED%99%94%EC%9D%B4%ED%8A%B8%EB%B3%B4%EB%93%9C-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EB%A5%BC-%ED%95%98%EB%8A%94%EA%B0%80-6c15e5c868ff)
 * [Embarrassing code I wrote under stress at a job interview](http://www.smashcompany.com/technology/embarrassing-code-i-wrote-under-stress-at-a-job-interview)
 * [Technical Phone Screen HOWTO](http://caseywest.com/technical-phone-screen-howto/)
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
@@ -39,7 +41,6 @@ Interview
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
 * [채용 담당자한테 꼭 물어봐야하는 6가지 질문 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-ask-to-recruiters)
 * [면접 후, 이메일로 어필하는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-send-email-after-interview/)
-* [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
 * [Interview cake - I will teach you to be good at programming interviews](https://www.interviewcake.com/)
 * [Interviewing candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
@@ -253,6 +254,7 @@ Interview
 * [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0)
 * [InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
 * [자바 백엔드 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
+* [자바 백엔드 기술 면접 대비하기 - 2편 (고급편)](https://f-lab.kr/blog/java-backend-interview-2)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
