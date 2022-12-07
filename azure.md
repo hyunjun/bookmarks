@@ -72,6 +72,7 @@ Azure
 * [CI/CD Docker Application to the Azure Web Apps via Azure Container Registries | Azure DevOps - YouTube](https://www.youtube.com/watch?v=tQH1EsVLmoU)
 * [Explore Azure DevOps with Jenkins Pipeline | by Learnlogik | Jun, 2022 | Medium](https://learnlogik.medium.com/explore-azure-devops-with-jenkins-pipeline-fd253cfb91ee)
 * [Azure DevOps vs GitHub | Comparing DevOps tools | Which DevOps tool is better? | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/azure-devops-vs-github-b34585c894ff)
+* [DevOps Tutorial Full Courses | Azure | Drive Link Series - YouTube](https://www.youtube.com/watch?v=sednS3x1Bpw)
 * [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
 * [Azure Pipelines | React JS | CI/CD | Continuous Integration | Delivery | Deployment | Multi-Stage - YouTube](https://www.youtube.com/watch?v=wP-wAK3mSw0)
 * [GitOps, 애저 Durable Functions, GitHub Actions을 이용한 블로그 예약 포스팅 구현](https://blog.aliencube.org/ko/2020/03/25/scheduling-posts-with-gitops-durable-functions-and-github-actions/)
