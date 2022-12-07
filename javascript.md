@@ -842,6 +842,7 @@ Javascript
 * [veltrends 개발 후기](https://velog.io/@velopert/veltrends-dev-review)
   * Velopert님이 개발, IT, 디자인, 스타트업 소식을 한 번에 볼 수 있는 veltrends을 개발하면서 배운 내용을 정리
   * 1. 모바일 우선 디자인 (Mobile First Design) 2. 풀 스택 프레임워크 Remix 후기 3. Terraform 4. Fastify, 5. Prisma
+* [라이브러리 없이 라우터(Router) 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-router-without-library/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1498,6 +1499,7 @@ Javascript
 * [운명의 Devs 클래스101에서 GraphQL을 쓰는 법(서버 편) - 조이 - YouTube](https://www.youtube.com/watch?v=rre1iQfbo7M)
 * [제3회 스포카콘 React + TypeScript + GraphQL 으로 시작하는 Web Front-End](https://www.slideshare.net/ssuserd3aacb/3-react-typescript-graphql-web-frontend)
 * [GraphQL에서 N+1 쿼리 점진적으로 개선하기. 이번 게시글에서는 GraphQL에서 발생하는 N+1 문제와 이를… | by Woosik Kim | Sep, 2022 | Medium](https://well-balanced.medium.com/graphql%EC%97%90%EC%84%9C-n-1-%EC%BF%BC%EB%A6%AC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-d758e925cc19)
+* [Lunit CARE는 왜 GraphQL을 선택했는가?. Lunit CARE (https://www.lunit.care)… | by 김준형 | Lunit Team Blog | Medium](https://medium.com/lunit/lunit-care%EB%8A%94-%EC%99%9C-graphql%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-f4d9bdc183ee)
 * Apollo
   * [튜토리얼: React Apollo 2.1 의 Render Props (Tutorial: Render Props in React Apollo 2.1)](https://www.vobour.com/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-react-apollo-2-1%EC%9D%98-render-props-tu)
   * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
@@ -2518,6 +2520,7 @@ Javascript
   * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7976/)
   * [yarn berry로 React.js 프로젝트 시작하기 | Kasterra's Archive](https://kasterra.github.io/setting-yarn-berry/)
+  * [Styled components - Module not found](https://velog.io/@aneb/yarn-berry-Styled-components-Module-not-found)
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
@@ -5169,7 +5172,7 @@ Javascript
 * [How to Use Type Guards in TypeScript - Byte This!](https://bytethisstore.com/articles/pg/typescript-type-guards)
 * [Typescript is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
 * [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility/)
-  * TypeScript의 구조적 서브 타이핑을 이용한 타입 호환성을 자세히 살펴보는 글
+  * TypeScript의 구조적 서브 타이핑을 이용한 타입 호환성(type compatibility)을 자세히 살펴보는 글
   * 구조적 서브 타이핑은 명목적 서브 타이핑과 달리 객체의 프로퍼티가 같으면 타입을 허용하는 방식으로 덕 타이핑이라고도 부름
   * 그래서 TypeScript에서도 같은 타입이 아니어도 프로퍼티가 같으면 타입 허용
   * 오브젝트 리터럴을 직접 전달하면 타입 호환이 되지 않음
