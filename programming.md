@@ -2051,6 +2051,7 @@ Programming
 * [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
   * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
+* [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -3393,6 +3394,7 @@ Programming
   * [DevOps Roadmap 2022 | GeekNews](https://news.hada.io/topic?id=7747)
 * [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 * [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
+* [YOUTUBE LINKS TO LEARN DEVOPS](https://www.linkedin.com/posts/annfelix70_devops-aws-python-activity-7005125117684936704-O32b/)
 * [DevOps엔지니어가 반드시 배워야 할 기술](https://brunch.co.kr/@topasvga/2803)
 * [What do you do as a DevOps?](https://ilhicas.com/2019/08/11/What-you-as-a-Devops.html)
   * [DevOps 는 어떤 일을 하나요? | GeekNews](https://news.hada.io/topic?id=432)
@@ -3968,6 +3970,8 @@ Programming
   * [월간 개발자스럽다 #81 - 개발자스럽다](https://blog.gaerae.com/2022/07/monthly.html)
   * [월간 개발자스럽다 #82 - 개발자스럽다](https://blog.gaerae.com/2022/08/monthly.html)
   * [월간 개발자스럽다 #83 - 개발자스럽다](https://blog.gaerae.com/2022/09/monthly.html)
+  * [월간 개발자스럽다 #84 - 개발자스럽다](https://blog.gaerae.com/2022/10/monthly.html)
+  * [월간 개발자스럽다 #85 - 개발자스럽다](https://blog.gaerae.com/2022/11/monthly.html)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
 * [재미있는 개발 이야기(w/ 허광남-박재호) - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPKvRB0mSqC5tyKUv7HFtcqg)
   * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
