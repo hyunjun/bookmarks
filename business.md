@@ -599,6 +599,7 @@ Business
 * [실패를 배움의 기회로 삼는 용기](https://brunch.co.kr/@graypool/221) 딱히 분류하기 힘듦. TDD의 정신?
 * [The Economics of Data Businesses - by Abraham Thomas](https://pivotal.substack.com/p/economics-of-data-biz)
 * [전략 인맥 영업이 어려운 4가지 이유](http://moneyman.kr/archives/2276)
+* [내향적인 사람도 네트워크를 만들 수 있을까](https://eopla.net/magazines/1418) 인맥
 * [면접에서 문제 해결 능력 보여주기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250779) MBA, 면접하고만 관계있는 이야기는 아님
 * [전략 단순함이 중요한 4가지 이유](http://moneyman.kr/archives/1435)
 * [현명해야 가능한 단순화 하는 능력 - 인생지름길](https://lifeshortcut.kr/%ED%98%84%EB%AA%85%ED%95%B4%EC%95%BC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8B%A8%EC%88%9C%ED%99%94-%ED%95%98%EB%8A%94-%EB%8A%A5%EB%A0%A5/)
@@ -1721,6 +1722,7 @@ Business
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Linear vs. Honest vs. Strategic Roadmap](https://www.linkedin.com/posts/wirtzdan_linear-vs-honest-vs-strategic-roadmap-activity-6917095504090660865-s9Cx/)
+* [스타트업을 위한 첫 '프로덕트 로드맵' 설정하는 법 - wishket](https://blog.wishket.com/%EF%BF%BC%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B2%AB-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95/)
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
