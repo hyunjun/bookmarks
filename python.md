@@ -2595,6 +2595,7 @@ Python
   * [Start Python #6 Backend Program 만들기 – Test하기 - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/test%ED%95%98%EA%B8%B0/)
   * [기획자가 한 번 추천한 음식은 당분간 추천하지 말라고 했다. 김다현 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=n3eY_FiV8ac)
   * [Introduction to PyTest - TestingLPoint](https://www.testinglpoint.com/introduction-to-pytest)
+  * [Intro to Automated Browser Testing Flask Apps With Playwright and Pytest - YouTube](https://www.youtube.com/watch?v=T-y3_T1HgTI)
 * [How to test Flask applications | Analytics Vidhya](https://medium.com/analytics-vidhya/how-to-test-flask-applications-aef12ae5181c)
 * [Getting Started With Testing in Flask - YouTube](https://www.youtube.com/watch?v=RLKW7ZMJOf4)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
