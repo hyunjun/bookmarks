@@ -946,6 +946,7 @@ Linux
   * [**tcpdump를 활용한 타임아웃 분석**](https://brunch.co.kr/@alden/38)
   * [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
   * [tcpdump 기본 사용법](http://jojoldu.tistory.com/316)
+  * [네트워크 패킷 덤프 - tcpdump (1)](https://naleejang.tistory.com/257)
 * `tee`
   * [리눅스 tee 명령어 : 여러 파일과 표준 출력에 결과를 쓸 때 이용한다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-tee-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%97%AC%EB%9F%AC-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%ED%91%9C%EC%A4%80-%EC%B6%9C%EB%A0%A5%EC%97%90-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%93%B8-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%9C%EB%8B%A4)
 * `telnet`
