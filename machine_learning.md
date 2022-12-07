@@ -1262,6 +1262,7 @@ Machine Learning
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [replicate: Version control for machine learning](https://github.com/replicate/replicate)
   * [Replicate – Version control for machine learning](https://replicate.ai/)
+* [SimpleML for Sheets documentation](https://simplemlforsheets.com/index.html) Machine Learning (ML) in Google Sheets
 * [SynapseML: Simple and Distributed Machine Learning](https://github.com/microsoft/SynapseML)
   * [SynapseML - 머신러닝 파이프라인 생성용 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=5662)
 * [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
