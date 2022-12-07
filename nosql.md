@@ -355,6 +355,7 @@ NoSQL
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
   * [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
   * [IndexedDB를 활용한 카트라이더 룰렛으로 성공한 덕후 되기](https://medium.com/@justdummyforall/indexeddb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%A3%B0%EB%A0%9B%EC%9C%BC%EB%A1%9C-%EC%84%B1%EA%B3%B5%ED%95%9C-%EB%8D%95%ED%9B%84-%EB%90%98%EA%B8%B0-b32cac013f06)
+  * [디버깅 사례 공유 잘못된 IndexedDB 사용으로 인한 무한 Suspense 문제 해결](https://steady-study.super.site/indexeddb-suspense)
   * [bxd: 📦 Object relational mapping for IndexedDB](https://github.com/leegeunhyeok/bxd)
     * [Getting Started | BoxDB](https://bxd.vercel.app/kr/getting-started)
 * [lf - Fully Decentralized Fully Replicated Key/Value Store](https://github.com/zerotier/lf)
