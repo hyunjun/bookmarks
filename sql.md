@@ -1038,6 +1038,7 @@ SQL
   * [Speeding up recovery and VACUUM in Postgres 14 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071)
   * [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
   * [PostgreSQL Autovacuum 장애 대응기 (1). 29CM에서는 Amazon RDS for PostgreSQL를 사용하고… | by Jimin Lee | 29CM 기술블로그 | May, 2021 | Medium](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
+  * [PostgreSQL Vacuum에 대한 거의 모든 것 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9478/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
