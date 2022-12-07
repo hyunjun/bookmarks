@@ -180,6 +180,7 @@ Bitcoin
 * [이 시국에 꿋꿋하게 스마트컨트랙 만들어보기 - YouTube](https://www.youtube.com/watch?v=8WBvMEql6SQ)
 * [영지식 증명과 함께 블록체인의 미래로 향하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/249082) ZKP Zero-knowledge Proof
 * ["영지식 인증 기대주" zk-SNARK의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251230)
+* [오픈 소스, 블록체인 그리고 탈중앙 애플리케이션](https://snack.planetarium.dev/kor/2022/12/oss-blockchain-and-decentralized/)
 * [Holochain | App framework with P2P networking](https://www.holochain.org/)
   * [What is Holochain? - Holochain Docs](https://developer.holochain.org/what-is-holochain/)
 
