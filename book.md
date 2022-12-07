@@ -537,12 +537,13 @@ Book
 * [아들아 성교육 하자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=272205409)
   * ★★★☆☆ 2022.10.20
   * 탐라 문598.55-이53ㅇ
+* [아이의 미래를 바꾸는 아빠의 습관혁명](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=848825)
+  * ★★★☆☆ 2022.12.07
+  * 탐라 개598.1-권65ㅇ
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
-* (NOT YET) [아이의 미래를 바꾸는 아빠의 습관혁명](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=848825)
-  * 탐라 개598.1-권65ㅇ
 * (NOT YET) [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
   * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
 
