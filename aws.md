@@ -1919,6 +1919,7 @@ AWS
 * [AWS Cloud Quest | 대화형 롤플레잉 게임 | AWS](https://aws.amazon.com/ko/training/digital/aws-cloud-quest/)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
+* [AWS Cloud Computing Full Course Tutorial | Drive Link Series - YouTube](https://www.youtube.com/watch?v=Qym5fLd80oU)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
@@ -1963,6 +1964,7 @@ AWS
 * [Learning and Hacking VPC JOINC EDU](https://www.joinc.co.kr/w/Learning-and-Hacking-VPC/)
 * [DevOps Tutorials |How to Create a VPC/Subnets in AWS Using Ansible | Aws Tutorials - YouTube](https://www.youtube.com/watch?v=rSK7-XvWYAc)
 * [Amazon VPC Lattice 미리 보기 – 서비스 간 통신을 위한 네트워킹 간소화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
+* [AWS Organization 계정 간의 VPC Reachability Analyzer를 이용한 reachability analysis](https://zigispace.net/1194)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
