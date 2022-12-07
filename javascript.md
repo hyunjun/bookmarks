@@ -2933,6 +2933,7 @@ Javascript
 * [The new test framework built-in to Node.js 18.8.0 | by David Herron | Sep, 2022 | ITNEXT](https://itnext.io/the-new-test-framework-built-in-to-node-js-18-8-0-1d78315ac9f9)
 * [New features in Node.js 18. Introduction | by 20ce108_20ce112_20ce158 | Oct, 2022 | Medium](https://medium.com/@20ce_108_112_158/new-features-in-node-js-18-f187388ec618)
 * [6 Major Features of Node.js 19. Details of Node.js 19 new features… | by Jennifer Fu | Oct, 2022 | Better Programming](https://betterprogramming.pub/6-major-features-of-node-js-19-b98e28b9670c)
+* [원활한 협업을 위한 .nvmrc | Univdev](https://www.univdev.page/posts/nvmrc/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
