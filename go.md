@@ -931,6 +931,7 @@ Go
 * [Golang Connecting to Database Postgresql | Golang Postgresql Tutorial - YouTube](https://www.youtube.com/watch?v=zj12MYTrkdc)
 * [A practical introduction to PostgreSQL in Go (Golang)](https://gosamples.dev/postgresql-intro/)
 * [How to Work With SQL Database In Golang (Fetch, Insert & Paginate Records)](https://morioh.com/p/22a5245f4321)
+* [Go-PostgreSQL-Database-Migration](https://github.com/mustafakraizim98/Go-PostgreSQL-Database-Migration)
 * [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
   * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
   * [Pgx: PostgreSQL Driver and toolkit for Go](https://morioh.com/p/36f41b6fd991)
