@@ -2880,6 +2880,7 @@ Programming
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
   * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
   * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
+  * [if(kakao)dev 2022, 2일차 안내 – tech.kakao.com](https://tech.kakao.com/2022/12/08/ifkakao2022-day2/)
 * InfCon
   * [인프콘 2022 다시보기 - 인프런 | 강의](https://www.inflearn.com/course/infcon2022)
   * [인프콘 2022 회고](https://velog.io/@yukina1418/%EC%9D%B8%ED%94%84%EC%BD%98-2022-%ED%9A%8C%EA%B3%A0)
@@ -5207,9 +5208,10 @@ Programming
 * [스타트업에서의 인과추론 | Product Analytics Playground](https://playinpap.github.io/causal-inference-startup/)
 * [Causal Inference 기본 이해 및 파이썬 라이브러리](https://data-newbie.tistory.com/866)
 * [Causal Inference (인과관계추론) – 내 낡은 서랍 속의 바다](https://lovablebaby1015.wordpress.com/2019/06/04/causal-inference-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84%EC%B6%94%EB%A1%A0/)
-* [Chapter 1. Motivation](https://pseudolabcausalinference.tistory.com/6)
 * [Beyond A/B Testing: Primer on Causal Inference | by Wicaksono Wijono | Towards Data Science](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
+* [Chapter 1. Motivation](https://pseudolabcausalinference.tistory.com/6)
 * [Using Causal ML Instead of A/B Testing | by Samuele Mazzanti | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7fc0)
+* [Causal-Inference-with-Python: Causal Inference for The Brave and True 책의 한국어 번역 자료입니다](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
