@@ -443,6 +443,7 @@
 * [Spy와 Mock의 차이. 그리고 Spy 사용](https://coco-log.tistory.com/194)
 * [Writing a Property Based Testing library in Kotlin, a Journey (part 1)](https://blog.agilogy.com/2022-10-04-writing-a-pbt-ibrary-1.html)
 * [외부 인프라스트럭처 테스트 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/external-infrastructure-testing/)
+* [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9440/)
 * [mockserver-netty at master · cheese10yun/blog-sample · GitHub](https://github.com/cheese10yun/blog-sample/tree/master/mockserver-netty)
   * [Mockserver Netty 사용해서 HTTP 통신 Mocking 하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mock-server-netty/)
 
