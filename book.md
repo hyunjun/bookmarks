@@ -601,6 +601,9 @@ Book
 * [생각에 관한 생각 프로젝트](https://blog.naver.com/onwall/221340668197)
   * ★★★★☆ 2022.12.06~07 '생각에 관한 생각'을 빌리려는데 마침 대출중(!)이라 그냥 대신 빌렸던 책인데 이쪽 분야에 무지한 나에게는 적절한 수준으로 적당히 재미있게 읽을 수 있는 좋은 책이었다. 마침 저자가 '머니볼'이나 '빅숏'으로 유명한 마이클 루이스여서 더 그랬던 듯.
   * 한라 320.1-루68ㅅ 탐라 문320.1-루69ㅅ 우당 문320.1-루69ㅅ
+  * [생각에 관한 생각 프로젝트](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_undoing_project.md)
+  * [생각에 관한 생각 프로젝트. 1 유방남 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%83%9D%EA%B0%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42f3da3f7f39)
+  * [생각에 관한 생각 프로젝트](https://jh4hj.tistory.com/entry/%EC%83%9D%EA%B0%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
