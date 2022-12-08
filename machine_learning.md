@@ -1342,6 +1342,7 @@ Machine Learning
 * [PyData Chicago: Building an MLOps platform at HelloFresh, by Dr. Erik Widman - YouTube](https://www.youtube.com/watch?v=W_tyjkHbqBk)
 * [AI 인프라 스케일 아웃을 고려하는 스타트업을 위하여 (FEAT. MLOps) | by Ryan Kim | Nov, 2022 | Medium](https://equus3144.medium.com/ai-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%8A%A4%EC%BC%80%EC%9D%BC-%EC%95%84%EC%9B%83%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC-feat-mlops-4237a14933c6)
 * [리디의 머신러닝 파이프라인 톺아보기 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/machine-learning-pipeline/)
+* [if kakao 2022 ML 모델 학습 파이프라인 설계 (feat. MLOps 플랫폼) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-mlops-model-training-pipeline/)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
