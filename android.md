@@ -71,6 +71,7 @@ Android
 * [MVVM의 ViewModel에서 이벤트를 처리하는 방법 6가지 | by Ted Park | PRND | Sep, 2021 | Medium](https://medium.com/prnd/mvvm%EC%9D%98-viewmodel%EC%97%90%EC%84%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-6%EA%B0%80%EC%A7%80-31bb183a88ce)
 * [사람인 Android App Refactoring](https://saramin.github.io/2022-05-23-android-app-refactoring/) MVC -> MVVM, AAC / dagger-hilt / databinding, viewbinding
 * [DonggeunJung/SimpleMvvmDaggerKotlin: Android-Kotlin MVVM, ViewModel, LiveData, Observer, DataBinding, Repository, Retrofit, Dagger example](https://github.com/DonggeunJung/SimpleMvvmDaggerKotlin/)
+* [헤이딜러 안드로이드팀은 어떻게 일하나요?(3) — 프로젝트 구조 | by Ted Park | PRND | Dec, 2022 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%ED%8C%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-1928c9ca5e6) MVVM
 * [아름다운 코드를 향한 함께하는 여정 - Part 1 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/08/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%ED%96%A5%ED%95%9C-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%97%AC%EC%A0%95-part-1/)
 * [SingleLiveEvent와 Event 정리 - Jungwoon Blog](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent/)
 * [Android LiveData의 사용법과 내부 코드를 통한 UI 처리, 중복 처리 등 살펴보기](https://thdev.tech/android/2021/02/01/LiveData-Intro/)
