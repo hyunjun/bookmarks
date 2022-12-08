@@ -269,6 +269,7 @@ iOS
 * [The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
 * [Swift optimizer considered harmful](http://blog.krzyzanowskim.com/2015/06/21/optimizer-considered-harmful/)
 * [Simple Universal Webview App](https://github.com/nabilfreeman/ios-universal-webview-boilerplate)
+* [if kakao 2022 카카오페이 iOS 웹뷰 소개, 그리고 세션에서 못다한 이야기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-ios-webview/)
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd)
 * [Swift is a joke! Yup, even Swift 2.0](http://tilemapkit.com/2015/06/swift-is-a-joke-yup-even-swift-2-0/)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/)
