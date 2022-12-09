@@ -136,6 +136,9 @@ Open Source
 * [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 * [Producing Open Source Software](https://producingoss.com/)
 
+# Conference
+* [개발자 성장을 위한 오픈 소스 활용 비법 - 윤석찬 (AWS 수석테크에반젤리스트) :: 2022 공개 SW 페스티벌 - YouTube](https://www.youtube.com/watch?v=bgZIFNTSR3Q)
+
 # Contribution
 * [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
 * [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y)
@@ -299,6 +302,7 @@ Open Source
 * [NASA "오픈소스 정확한 의미 모르는 개발자 많아" - ZDNet korea](https://zdnet.co.kr/view/?no=20211111154404)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
   * [오픈소스 검증 도구: OLIVE CLI 소개 – tech.kakao.com](https://tech.kakao.com/2022/06/09/olive-cli/)
+  * [if(kakao)dev2022 - 오픈소스 더 똑똑하게 관리하자](https://if.kakao.com/2022/session/92)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
