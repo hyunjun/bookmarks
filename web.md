@@ -1660,6 +1660,7 @@ Web
 * [웹어셈블리(Wasm)가 클라우드 컴퓨팅의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/263104)
 * [WebAssembly: The Path to Components - YouTube](https://www.youtube.com/watch?v=DkpNqcfuPOM)
 * [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
+* [Matt Butcher on Web Assembly as the Next Wave of Cloud Computing - YouTube](https://www.youtube.com/watch?v=0Co2tBshrSg)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
