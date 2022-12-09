@@ -404,6 +404,7 @@ Git
 * [Introducing GitHub Actions Importer | The GitHub Blog](https://github.blog/2022-11-10-introducing-github-actions-importer/)
   * Azure DevOps, Jenkins, CircleCI 등 다른 CI의 파이프라인을 분석해서 임포트할 수 있게 해주는 GitHub Actions Importer가 GitHub Universe에서 공개
 * [GitHub Actions 배포 동시성 설정 - 현구막 기술 블로그](https://hyeon9mak.github.io/github-actions-deployment-concurrency-setting/)
+* [if(kakao)dev2022 GitHub Actions Runner 빌드 실전 적용기](https://if.kakao.com/2022/session/73)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)

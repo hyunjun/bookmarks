@@ -2248,6 +2248,7 @@ Javascript
     * [스벨트 vs 리액트, 누가 더 뛰어날까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1176/)
   * [Chrome Extension manifest v3 — BetaMan의 공사장](https://blog.betaman.kr/104)
   * [Svelte로 Chrome Extension 개발하기 — BetaMan의 공사장](https://blog.betaman.kr/105)
+  * [if(kakao)dev2022 복잡한 상태관리도구 Svelte스럽게 만들기](https://if.kakao.com/2022/session/81)
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)

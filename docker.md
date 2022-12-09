@@ -84,6 +84,7 @@ Docker
 * [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [Learning container from scratch](https://devocean.sk.com/vlog/view.do?id=340&vcode=A03)
 * [**서비스 개발자를 위한 컨테이너 뽀개기 (a.k.a 컨테이너 인터널)**](https://tech.kakaoenterprise.com/150)
+  * [if(kakao)dev2022 이게 돼요? 도커 없이 컨테이너 만들기](https://if.kakao.com/2022/session/104)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [Docker Tutorial For Beginners | Introduction To Docker | Invensis Learning - YouTube](https://www.youtube.com/watch?v=7vriS2zd0lM)
 * [Docker Tutorial for Beginners Part-I - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)
@@ -1572,6 +1573,8 @@ Docker
     * 즉, 개발 그룹의 A 사람이 "kubectl config use-context" 명령어를 입력한 뒤 바로 자원 조회를 하는 것이 아니라
     * 로그인을 통해 해당 컨텍스트로 스위치하는 기능이 있는지
 * [Avoid Kubernetes IF... - YouTube](https://www.youtube.com/watch?v=NpYUYjQd8fI)
+* [if(kakao)dev2022 쿠버네티스 펀하고 쿨하고 섹시하게 만들기](https://if.kakao.com/2022/session/58)
+* [if(kakao)dev2022 모든 것이 kubernetes인 세상에서 안전하게 배포하기](https://if.kakao.com/2022/session/59)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -2200,6 +2203,7 @@ Docker
 * [셸 스크립트를 활용한 클라우드 모니터링](https://www.youtube.com/watch?v=f5_JMY2nHFs)
 * [Bad News for Cloud Computing: OpenStack Use Plummets and Discounts Dry Up – The New Stack](https://thenewstack.io/bad-news-for-cloud-computing-openstack-use-plummets-and-discounts-dry-up/)
 * [Man Seok Techne Schoe: OpenStack Yoga 클라우드 구성](https://manseok.blogspot.com/2022/04/openstack-yoga.html)
+* [if(kakao)dev2022 Openstack을 쿠버네티스 네이티브하게 운영하는 방법](https://if.kakao.com/2022/session/57)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
