@@ -296,6 +296,7 @@
 * [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2020/04/difference-between-inheritance-and-Polymorphism-in-java-oop.html)
 * [Learn SOLID Principles with CLEAN CODE Examples - YouTube](https://www.youtube.com/watch?v=_jDNAf3CzeY)
 * [Interface Segregation Principle | SOLID Principles | Java Code - YouTube](https://www.youtube.com/watch?v=w5Funt8A48Q)
+* [Design Patterns Revisited in Modern Java by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=yTuwi--LFsM)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
