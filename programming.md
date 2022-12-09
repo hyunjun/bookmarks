@@ -769,6 +769,7 @@ Programming
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/815/)
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/910/)
 * [우리회사는 왜 애자일 전환에 실패했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/917/)
+* [실리콘밸리가 열광한 '애자일 방법론' 5가지 소개 - wishket](https://blog.wishket.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EA%B0%80-%EC%97%B4%EA%B4%91%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0-5%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C/)
 * [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
