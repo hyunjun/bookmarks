@@ -589,6 +589,7 @@ NoSQL
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
 * [SurrealDB - 분산 Document-Graph 데이터베이스 | GeekNews](https://news.hada.io/topic?id=7239)
+* [Rust Powered Database SurrealDB (It's Pretty Ambitious) - YouTube](https://www.youtube.com/watch?v=DPQbuW9dQ7w)
 
 # Tarantool
 * [Tarantool, an in-memory computing platform](https://www.tarantool.io/)
