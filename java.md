@@ -556,6 +556,7 @@ Java
 * [Hugh Mckee - Building Stateful Clustered Microservices with Java, Actors, and Kubernetes](https://www.youtube.com/watch?v=AJD4RjYRIaU)
 * [Keeping Pace with Java - YouTube](https://www.youtube.com/watch?v=A9ilnniaUmA)
 * [Keeping Pace with Java](https://www.infoq.com/presentations/java-update-versions/)
+* [Java *is* agile by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=HaKvT18xXNM)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -904,6 +905,7 @@ Java
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
+* [Staying JDK: Current in Production - YouTube](https://www.youtube.com/watch?v=YaoGXCwiG9M)
 * [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
   * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
   * [윈도우 지원이 약한 SDKMan!을 대신할 JDKMon](https://jhrogue.blogspot.com/2021/10/b-sdkman-jdkmon.html)
@@ -1054,6 +1056,8 @@ Java
   * ['프로젝트 룸' 최신 자바 동시성 모델 따라잡기 - CIO Korea](https://www.ciokorea.com/news/228714)
   * [Using Java's Project Loom to build more reliable distributed systems · James Baker](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
   * [Implementing Raft using Project Loom](https://softwaremill.com/implementing-raft-using-project-loom/) scala지만 loom 연관
+  * [Project Loom: Revolution in Java Concurrency or Obscure Implementation Detail? - YouTube](https://www.youtube.com/watch?v=9P9DZCZTq4E)
+  * [Loom is Blooming by José Paumard & Remi Forax - YouTube](https://www.youtube.com/watch?v=eU9mUmnhjb4)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
