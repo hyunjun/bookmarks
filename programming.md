@@ -4739,6 +4739,7 @@ Programming
 * [예전에 해봤던 노코드 MVP 테스트들 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/1933)
 * [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
 * [노코드: 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴 | 10x Lessons](https://tkim.co/2020/04/19/no-code/)
+* [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
@@ -5197,6 +5198,7 @@ Programming
 * [방태모의 블로그 - A/B 테스트 용어 사전](https://www.taemobang.com/posts/2022-10-31-abtest-terms/)
 * [Sona Hambaryan - A/B Testing in Production | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=U2DtBTxRkCM)
 * [프로덕트를 빠르게 개선하기 위한 베이지안 A/B 테스트](https://www.slideshare.net/lumiamitie/ab-249770435)
+* [대규모 A/B 테스트의 인시던트를 최소화하다. 코드 리뷰 자동화를 통한 A 로직의 변경 감지 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Medium](https://medium.com/coupang-engineering/minimizing-technical-incidents-during-a-b-testing-at-scale-a9c35c6b2ca3)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
