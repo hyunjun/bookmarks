@@ -642,6 +642,7 @@ AWS
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [아마존 CTO "이벤트 드리븐 아키텍처로 가라" - ZDNet korea](https://zdnet.co.kr/view/?no=20221202183934)
+  * [AWS re:Invent 2022 - Serverless Compute - YouTube](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD)
   * [AWS re:Invent 2022: Everything You Need To Know](https://www.aboutamazon.com/news/aws/aws-reinvent-2022)
   * [AWS re:Invent 2022 Korean Daily Recap Live - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
   * [AWS re:Invent 2022 주요 서비스 출시 총정리 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2022/)
