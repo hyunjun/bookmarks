@@ -128,6 +128,7 @@
 * [마크다운 파서 만들기 고군분투 (1) | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/markdown-parser/)
 * [Adventures in Rust and Load Balancers | by Ben Parli | Medium](https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192)
 * [Data Processing In Rust With DataFusion (Arrow) | by Chengzhi Zhao | Towards Data Science](https://towardsdatascience.com/data-processing-in-rust-with-datafusion-arrow-56df5432de68)
+* [Is Rust the New King of Data Science? - YouTube](https://www.youtube.com/watch?v=mlcSpxicx-4)
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * rustup [Rust 크로스 컴파일 방법](https://happygrammer.github.io/rust/problem/cross-compile/)
 * [Calling .NET APIs from Rust](https://ericsink.com/entries/lousygrep.html)
@@ -169,6 +170,7 @@
 * [Rust Before Main - Ryan Levick - Rust Linz, July 2022 - YouTube](https://www.youtube.com/watch?v=q8irLfXwaFM)
 * [Using Rust at a startup: A cautionary tale | by Matt Welsh | Nov, 2022 | Medium](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [개발자를 위한 Next-Level Database Techniques 무료 e북 / 50 | GeekNews](https://news.hada.io/topic?id=7963)
+* [Rust Demystified Simplifying The Toughest Parts - YouTube](https://www.youtube.com/watch?v=TJTDTyNdJdY)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -177,6 +179,7 @@
 * [rust 에서 print()의 format 관련 내용](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-print%EC%9D%98-format-%EA%B4%80%EB%A0%A8-%EB%82%B4%EC%9A%A9?)
 * [rust 에서 String 에서 요소 하나 하나를 index 인덱싱 하는 방법](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-String-%EC%97%90%EC%84%9C-%EC%9A%94%EC%86%8C-%ED%95%98%EB%82%98-%ED%95%98%EB%82%98%EB%A5%BC-index-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [반복자에게 할 일 더해주기 - Iterator adapters](https://blog.seulgi.kim/2021/08/iterator-adapters.html)
+* [Rust's Alien Data Types 👽 Box, Rc, Arc - YouTube](https://www.youtube.com/watch?v=CTTiaOo4cbY)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
@@ -346,6 +349,7 @@
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
+* [Mocking Rust 🤪 and Testing 🧪 - YouTube](https://www.youtube.com/watch?v=8XaVlL3lObQ)
 
 # Tutorial
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
