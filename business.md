@@ -1596,6 +1596,7 @@ Business
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
 * [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
+* [Making the Most of Your Manager • Katrina Clokie • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=1RknpWB0wRQ)
 * [Hard to work with. | Irrational Exuberance](https://lethain.com/hard-to-work-with/)
 * [PARA 방식: 디지털 정보 구성을 위한 범용 시스템 - Forte Labs](https://fortelabs.co/blog/para/)
   * Project - Area of responsibility - Resource - Archive
