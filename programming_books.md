@@ -2455,6 +2455,9 @@ Programming Books
   * 우당 문325.24-김39ㄱ
   * [`교정적 피드백` - 투쟁 도피 반응 Fight or Flight Response / `지지적 피드백`](images/good_feedback_0.jpg)
   * [`단일순환학습 Single loop Learning` 넓은 범위의 피드백 학습 과정으로, 일상적이고 즉각적인 피드백이 학습과 성장에 필수적이라고 제시](images/good_feedback_1.jpg)
+  * [팩트로 말하는 굿 피드백 ① 굿 피드백은 팩트에서 온다](https://now.rememberapp.co.kr/2022/05/19/18209/)
+  * [팩트로 말하는 굿 피드백 ② 지혜를 제시하는 피드백 프로세스와 격을 높이는 피드백 센스](https://now.rememberapp.co.kr/2022/06/28/19337/)
+  * [💡 실전에서 써먹는 리더의 피드백 스킬!](https://now.rememberapp.co.kr/2022/07/31/20366/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
