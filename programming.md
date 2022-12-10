@@ -1671,6 +1671,7 @@ Programming
 * [Clustered Event-Driven Services • Olivier Deheurles & James Watson • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=N5xBUrf_iV0)
 * [Event Modeling Part 1 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=7sfJQ9doETQ)
 * [Event Modeling Part 2 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
+* [Event Modeling • Adam Dymitruk • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
