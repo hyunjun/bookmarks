@@ -252,6 +252,7 @@ Web
 * [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
 * [CMO를 위한 SEO가이드 48p PDF | GeekNews](https://news.hada.io/topic?id=4915)
 * [글로벌 SaaS 만드시려면, ‘제발’ 영어 콘텐츠랑 SEO 하셔야 합니다 - Kimchi hill](https://kimchihill.com/2022/09/17/please-kr-do-seo-for-going-global/)
+* [SEO 개선 초심자 가이드 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221208-basic-seo-guide/)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
