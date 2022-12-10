@@ -2198,6 +2198,7 @@ Docker
 * [Open Infra How to calculate the cloud system operating rate](https://naleejang.tistory.com/247)
 * [컴퓨트 노드에서 DHCP 가상 네트워크 찾기](https://naleejang.tistory.com/256)
 * [컴퓨트 노드 별 인스턴스 개수 세기](https://naleejang.tistory.com/258)
+* [쉘 스크립트로 오픈스택 모니터링하기](https://naleejang.tistory.com/259)
 * [Heat Template를 이용한 오픈스택 프로비저닝 - YouTube](https://www.youtube.com/watch?v=dGkMWdTsjxc)
 * [셸 스크립트를 이용한 인스턴스 생성](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
 * [셸 스크립트를 활용한 클라우드 모니터링](https://www.youtube.com/watch?v=f5_JMY2nHFs)
