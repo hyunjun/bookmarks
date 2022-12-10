@@ -1813,6 +1813,8 @@ Java
 * [Spring Batch CSV Reader & Writer | Popit](https://www.popit.kr/spring-batch-csv-reader-writer/)
 * [Spring Batch Architecture - YouTube](https://www.youtube.com/watch?v=6DrwirLIoiU)
 * [Spring Batch HTTP Page Item Reader - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-batch-http-page-item-reader/)
+* [if kakao 2022 Batch Performance를 고려한 최선의 Reader | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-read/) itemreader
+* [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
