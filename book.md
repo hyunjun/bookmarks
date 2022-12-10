@@ -546,6 +546,9 @@ Book
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
 * (NOT YET) [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
   * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
+* (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
+  * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
+  * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)

@@ -2450,6 +2450,11 @@ Programming Books
   * ★★★★☆ 2022.12.03
   * 우당 문325.581-노228ㅇ
   * [The Human Element](https://www.humanelementbook.com/)
+* [굿 피드백](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289319007)
+  * ★★★☆☆ 2022.12.10
+  * 우당 문325.24-김39ㄱ
+  * [`교정적 피드백` - 투쟁 도피 반응 Fight or Flight Response / `지지적 피드백`](images/good_feedback_0.jpg)
+  * [`단일순환학습 Single loop Learning` 넓은 범위의 피드백 학습 과정으로, 일상적이고 즉각적인 피드백이 학습과 성장에 필수적이라고 제시](images/good_feedback_1.jpg)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2526,6 +2531,12 @@ Programming Books
   * 한라 325.21-아68ㅅ 탐라 문325.21-아69ㅅ 우당 문325.21-아69ㅅ
 * (NOT YET) [인간의 이름으로 다시 쓰는 경영학](https://brunch.co.kr/@overdye0714/223)
   * 우당 문325-최225ㄷ
+* (NOT YET) [성과를 만드는 성품의 힘, 인테그리티 Integrity](https://post.naver.com/viewer/postView.naver?volumeNo=32571281&memberNo=34997180)
+  * 우당 문199.1-클231ㅇ
+* (NOT YET) [프로세스 이코노미](https://brunch.co.kr/@rory/1046)
+  * 한라 325.5-오42ㅍ 탐라 문325.5-오41ㅍ 우당 문325.5-오41ㅍ
+* (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
+  * 우당 문325.21-최73ㄹ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -2648,6 +2659,10 @@ Programming Books
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
   * 우당 문325.3-버231ㅅ
+* (NOT YET) [세계 최고의 CEO는 어떻게 일하는가](https://gangsanilee.tistory.com/2783)
+  * 우당 문325.2-듀63ㅅ
+* (NOT YET) [리더는 목적을 먹고 산다](http://www.brandtimes.co.kr/news/articleView.html?idxno=2381)
+  * 우당 문325.24-매829ㄹ
 
 # Math
 
