@@ -2075,6 +2075,7 @@ Programming Books
 * (NOT YET) [파이썬과 리액트를 활용한 주식 자동거래 시스템 구축 데이터 수집부터 거래 자동화, API 서버, 웹 개발, 데이터 분석까지 아우르는](https://wikibook.co.kr/stock-trading/)
 * (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
 * (NOT YET) [소문난 명강의 : 소플의 처음 만난 리액트](https://hanbit.co.kr/store/books/look.php?p_code=B9365371874)
+* (NOT YET) [나 혼자 만든다! 영화 추천 웹 서비스로 배우는 풀스택](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306366957)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
