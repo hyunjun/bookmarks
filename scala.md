@@ -1059,6 +1059,7 @@ Scala
     * [ZIO - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0Bzu7NfhTiGK7iCYjcFAYlal)
       * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
     * [Day to day stuff: Speed up ZIOs with memoization](https://day-to-day-stuff.blogspot.com/2022/11/speed-up-zios-with-memoization.html)
+    * [DI in Play for Scala3 with ZIO - YouTube](https://www.youtube.com/watch?v=9fr4pWIG-Tw)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -2242,6 +2243,7 @@ Scala
 * [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
 * [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
 * [Scala 3: the missing compiler plugin • gvolpe's blog](https://gvolpe.com/blog/scala3-missing-compiler-plugin/)
+* [thibault의 블로그 • Lichess on scala3 - help needed • lichess.org](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2297,6 +2299,7 @@ Scala
 * [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
 * [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=dv7fPmgFTNA)
 * [Indoor Vivants:: Cloudflare functions with Scala.js](https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs)
+* [Use Typescript libraries with Scala.js! · ScalablyTyped](https://scalablytyped.org/docs/readme.html)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
@@ -2614,6 +2617,7 @@ Scala
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
 * [A Sweet Beginner's Guide to Scala by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=NV6bfdUEGIQ)
+* [Scala Center Advent of Code | Scala Center Advent of Code](https://scalacenter.github.io/scala-advent-of-code/2022/)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
