@@ -616,6 +616,7 @@ ElasticSearch - Lucene
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
   * [PyKOMORAN - wrapped KOMORAN in Python using Py4J. https://pydocs.komoran.kr ](https://github.com/shineware/PyKOMORAN)
+* [Lyra: Disrupting full Text Search industry with JavaScript - YouTube](https://www.youtube.com/watch?v=B0MfK-rBK90)
 * [Manticore Search – Open-source database for search applications – Manticore Search](https://manticoresearch.com/homepage/)
   * [es2ms: Elasticsearch -> Manticore Search data migration tool](https://github.com/manticoresoftware/es2ms)
 * [MeiliSearch](https://www.meilisearch.com/)
