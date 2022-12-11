@@ -4833,6 +4833,7 @@ Python
 * [The ten most important Pandas functions, and how to work with them](https://www.activestate.com/blog/the-ten-most-important-pandas-functions-and-how-to-work-with-them/)
 * [How To Make Your Pandas Loop 71803 Times Faster | by Benedikt Droste | Towards Data Science](https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06)
 * [Pandas not enough? Here are a few good alternatives to processing larger and faster data in Python - KDnuggets](https://www.kdnuggets.com/2021/07/pandas-alternatives-processing-larger-faster-data-python.html)
+* [Faster Pandas: Make your code run faster and consume less memory| Miki Tebeke, CEO 353solutions. - YouTube](https://www.youtube.com/watch?v=d9YfwxuaylI)
 * [Py) 전처리-데이터프레임 데이터타입 확인 - Data Doctor](https://datadoctorblog.com/2021/09/01/Py-Preprocessing-dataframe-03-checking-column-dtype/)
 * [How To Add New Column to Pandas DataFrame | Towards Data Science](https://towardsdatascience.com/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f)
 * [데이터분석 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://songseungwon.tistory.com/53)
