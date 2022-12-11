@@ -319,6 +319,8 @@ Json
 # Scala
 * [json2caseclass , #scala case class generator](https://json2caseclass.cleverapps.io/)
   * [Are you still creating JSON #Scala case classes by hand? - YouTube](https://www.youtube.com/watch?v=zz3q6BB-AX4)
+* [jsoniter-scala: Scala macros for compile-time generation of safe and ultra-fast JSON codecs](https://github.com/plokhotnyuk/jsoniter-scala)
+  * [The fastest and safest JSON parser and serializer for Scala](https://blog.lambdaspot.dev/the-fastest-and-safest-json-parser-and-serializer-for-scala)
 
 # Swift
 * [When JSONDecoder meets the real world, things get ugly…](http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world)
