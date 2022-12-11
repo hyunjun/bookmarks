@@ -1152,6 +1152,7 @@ Programming
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
+* [Clean Architectures in Python - presented by Leonardo Giordani - YouTube](https://www.youtube.com/watch?v=C7MRkqP5NRI)
 * [클린 아키텍처: 아름다운 코드에서 아키텍처까지 - HumanBrain](https://dongjunlee.github.io/book/Clean_Architecture/)
 * [Clean architecture - making Node.js API shine! | by Michael Kibenko | ITNEXT](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
 * [**The Grand Unified Theory of Software Architecture - danuker | freedom & tech**](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) I/O at the top & decoupling, pure function
