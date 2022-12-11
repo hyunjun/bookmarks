@@ -3357,6 +3357,8 @@ Programming Books
   * [소트웍스 앤솔러지 - 소프트웨어 기술과 혁신에 관한 에세이 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](http://sigmadream.github.io/The_Thought_Works_Anthology/)
 * (NOT YET) [Release It: 성공적인 출시를 위한 소프트웨어 설계와 배치 | 위키북스](https://wikibook.co.kr/release-it/)
   * [Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+* (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
+  * 한라 005.4-리893ㅈ
 
 # Spark
 
