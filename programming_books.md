@@ -2477,8 +2477,6 @@ Programming Books
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
-* (NOT YET) [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
-  * 탐라 문331.17-클231ㅂ
 * (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
@@ -2642,6 +2640,11 @@ Programming Books
   * [요즘 팀장은 이렇게 일합니다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/nowadays_team_leaders.md)
   * [요즘 팀장은 이렇게 일합니다. 1장 팀장은 뭐하는 사람일까? | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%9A%94%EC%A6%98-%ED%8C%80%EC%9E%A5%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-462d92c72b4f)
   * [요즘 팀장은 이렇게 일합니다](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%ED%8C%80%EC%9E%A5%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
+* [바운더리 성과를 만드는 통제와 책임의 힘](https://www.youtube.com/watch?v=qAhSGPg7FeE)
+  * ★★★★☆ 2022.12.11 요즘 조직에 고민하는 상황과 맞물려서 그런지 와닿는 점도 많고 공감이 감. 명확한 범위를 줘야 명확한 목표 설정도 가능해지고 권한과 책임도 확실히 해줄 수 있을테니.
+  * 탐라 문331.17-클231ㅂ
+  * [Dr. Henry Cloud 2021®](https://www.drcloud.com/books/boundaries-for-leaders)
+  * [Boundaries for Leaders - Boundaries Books](https://www.boundariesbooks.com/products/boundaries-for-leaders)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
