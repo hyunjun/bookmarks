@@ -146,6 +146,7 @@ Google Cloud Platform GCP
   * [조대협의 블로그 :: Vertex AI : 모델 학습 및 하이퍼 패러미터 튜닝](https://bcho.tistory.com/1384)
   * [MLOps System with AutoML and Pipeline in Vertex AI | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/mlops-system-automl-and-pipeline-vertex-ai)
   * [Deploying 🤗 ViT on Vertex AI](https://huggingface.co/blog/deploy-vertex-ai)
+* [GCP Recommendations AI(Retail) 서비스를 활용한 추천 서비스 구축 | by 윤원진 | 29CM TEAM | Dec, 2022 | Medium](https://medium.com/29cm/gcp-recommendations-ai-retail-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-eb68a0cd5d97)
 * [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
 * [구글 클라우드 앱시트 리뷰 | 머신러닝 모델까지 적용 가능한 노코드 앱 빌더 - ITWorld Korea](https://www.itworld.co.kr/news/217289)
