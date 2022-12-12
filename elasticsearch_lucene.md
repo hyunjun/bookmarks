@@ -353,6 +353,7 @@ ElasticSearch - Lucene
 * [엘라스틱이 쉬웠던 이유 - 2nd | Popit](https://www.popit.kr/%ec%97%98%eb%9d%bc%ec%8a%a4%ed%8b%b1%ec%9d%b4-%ec%89%ac%ec%9b%a0%eb%8d%98-%ec%9d%b4%ec%9c%a0-2nd/)
 * [CCS 과 CCR 을 이용한 Elastic Cloud 마이그레이션 전략 - YouTube](https://www.youtube.com/watch?v=62T4wOXmhbg)
 * [삼성 AI 포럼, KAIST AI 대학원 서민준 교수, Generative Search Engine 소개](https://www.linkedin.com/posts/huffonism_%EC%A7%80%EB%82%9C-8%EC%9D%BC-%EC%82%BC%EC%84%B1-ai-%ED%8F%AC%EB%9F%BC%EC%97%90%EC%84%9C-kaist-ai-%EB%8C%80%ED%95%99%EC%9B%90-%EC%84%9C%EB%AF%BC%EC%A4%80-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%B4-generative-activity-6996473187198787584-g37Z/)
+* [엘라스틱서치를 활용한 수평 확장 가능한 광고 서버 만들기](https://tech.buzzvil.com/blog/tech-blog-building-scalable-ad-server-with-elasticsearch/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
