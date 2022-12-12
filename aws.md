@@ -99,6 +99,7 @@ AWS
 * [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
 * [차량용 단말을 위한 IoT 파이프라인 구축기 (feat. Kafka) #2 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/09/socar-iot-pipeline-2.html)
 * [AWS IoT TwinMaker로 비디오 스트림을 연동한 디지털 트윈 생성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-twinmaker-stream/)
+* [AWS IoT TwinMaker에서 자체 데이터 소스를 사용하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-use-your-own-data-source-aws-iot-twinmaker/)
 * [쏘카의 관제 장치(Telematics Device)가 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/15/control-device-with-car-sharing.html)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
