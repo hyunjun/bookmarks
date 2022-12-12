@@ -5192,6 +5192,7 @@ Javascript
 * [unknown , any, never 타입 이해하기](https://blog.naver.com/pjt3591oo/222931827299)
 * [Typescript - Union Type, Intersection Type, Etc. | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-typescript-tip/)
 * [(TypeScript) satisfies 연산자 - ZeroCho Blog](https://www.zerocho.com/category/TypeScript/post/638c327844d418915ee64b0b)
+* [우리 팀의 우아한 타입스크립트 컨벤션 정하기 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9804/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
