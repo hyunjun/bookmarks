@@ -335,6 +335,9 @@ Hadoop
 * [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 * [Hadoop filesystem at Twitter](https://blog.twitter.com/2015/hadoop-filesystem-at-twitter)
 * [HDFS Shell - a HDFS manipulation tool](https://github.com/avast/hdfs-shell) hbase-shell처럼 HDFS 작업을 할 수 있는 CLI interface
+* Kakao Hadoop Platform(KHP)
+  * [카카오 자체 개발 하둡 플랫폼, Kakao Hadoop Platform(KHP) – tech.kakao.com](https://tech.kakao.com/2022/12/12/kakao-hadoop-platform-khp/)
+  * [KHP 하둡 배포판 릴리즈 관리하기](https://tech.kakao.com/2022/12/12/kakao-hadoop-platform-khp-release-control/)
 * [MR3 - A new execution engine for Hadoop](https://mr3.postech.ac.kr/)
   * [Performance Comparison of HDP LLAP, Presto, SparkSQL, Hive on Tez, and Hive on MR3 using the TPC-DS Benchmark](https://mr3.postech.ac.kr/blog/2018/08/15/comparison-llap-presto-spark-mr3/)
 * [PULSE - Hadoop log aggregation, alerting, and lifecycle management](https://github.com/phdata/pulse)
