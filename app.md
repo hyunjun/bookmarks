@@ -285,6 +285,7 @@ App
 * [RSS로 블로그를 한 번에 백업하자](https://blog.chosunghyun.com/kr-backup-with-rss/)
 * [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
 * [블로그 새단장 후기, 2탄 | imch.dev](https://imch.dev/posts/blog-renewal-2021) headless CMS
+* [콘텐츠 브로드캐스팅이 가능한 CMS 만들기: 배민외식업광장 슬롯화 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9521/)
 * [Next Gen Static Blogging | mmackh](https://inoads.com/articles/2021-01-09-Next-Gen-Static-Blogging)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
