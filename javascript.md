@@ -4356,7 +4356,9 @@ Javascript
   * [쉽다, 코딩으로 모션 뽀개기 with Framer-motion](https://jackface.oopy.io/framer)
   * [Animated Modals with Framer Motion](https://fireship.io/lessons/framer-motion-modal/)
     * [Springy Animated Modals // Framer Motion & React Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=SuqU904ZHA4)
-* Framer X [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
+* Framer X
+  * [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
+  * [Framer로 포트폴리오 만들기 - 01 - My Framer Site](https://hyojung.framer.website/blog/create-portfolio-with-framer-01)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)
   * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
