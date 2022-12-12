@@ -767,6 +767,7 @@ SQL
 * [MySQL Batch Update 성능 측정 및 분석 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mysql-batch-update/)
 * [MySQL CATS (Contention-Aware Transaction Scheduling) | by Sunguck Lee | 당근마켓 팀블로그 | Nov, 2022 | Medium](https://medium.com/daangn/mysql-cats-contention-aware-transaction-scheduling-71fe6956e87e)
 * [최신 하드웨어를 활용하는 MySQL 스토리지 엔진 공동 연구 -한국어판- - YouTube](https://www.youtube.com/watch?v=UuYWwDlGvBE)
+* [MySQL `sql_mode`로 알아보는 시스템 변수 permanent, runtime설정](https://blog.jiniworld.me/64)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
