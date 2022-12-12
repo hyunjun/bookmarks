@@ -85,13 +85,16 @@ Elixir
 * [10 tips for new Elixir developers - DEV Community 👩💻👨💻](https://dev.to/chriis/10-tips-for-new-elixir-developers-48jl)
 * [Elixir 는 어떻게 10년도 안되어 성숙한 언어가 되었나 · Json Media](https://json.media/blog/how_elixir_became_a_mature_language_in_less_than_10_years)
 * [Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=mkGq1WoEvI4)
-* [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
 * [The Little Elixir & OTP Guidebook / Benjamin Tan Wei Hao](http://ohyecloudy.com/pnotes/archives/book-the-little-elixir-otp-guidebook/)
 * [#book Designing Elixir Systems with OTP(2019) 독후감](http://ohyecloudy.com/pnotes/archives/book-designing-elixir-systems-with-otp-2019/)
 * [#book Testing Elixir(2021) 독후감](http://ohyecloudy.com/pnotes/archives/book-testing-elixir-2021/)
+
+# Conference
+* [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
+* [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
