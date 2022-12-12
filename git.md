@@ -433,6 +433,7 @@ Git
 * [더북(TheBook): Git 교과서](https://thebook.io/080212/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
 * [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
+* [확장본#3 - 깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서.pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%ED%99%95%EC%9E%A5%EB%B3%B8%233%20-%20%EA%B9%83%EC%98%B5%EC%8A%A4(GitOps)%EB%A5%BC%20%EC%97%AC%ED%96%89%ED%95%98%EB%A0%A4%EB%8A%94%20%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%EC%84%9C.pdf)
 
 # Codespaces
 * [GitHub Codespaces](https://github.com/features/codespaces)
