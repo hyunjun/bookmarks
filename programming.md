@@ -807,6 +807,7 @@ Programming
   * [“솔직히 우리가 하는 것은 스크럼이 아닙니다!” | 요즘IT](https://yozm.wishket.com/magazine/detail/1474/)
 * [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
 * [4 Reasons why Daily Scrums are stressful for developers | by Rakia Ben Sassi | Serious Scrum | May, 2022 | Medium](https://medium.com/serious-scrum/4-reasons-why-daily-scrums-are-stressful-for-developers-3be4a871db33)
+* [제품 스쿼드의 스크럼 프로세스 개선기 1부. IT 서비스의 제품 스쿼드에서 스크럼을 사용하면서 어떤 어려움을… | by Labhong | 레몬베이스 (Lemonbase) | Dec, 2022 | Medium](https://medium.com/lemonbase/%EC%A0%9C%ED%92%88-%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9F%BC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-1%EB%B6%80-18197f8a0158)
 * [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 * [강남언니가 극도로 애자일하게 협업하는 방법](https://blog.gangnamunni.com/post/radical-collaboration/)
 * [Software development: do good manners matter? PeerJ](https://peerj.com/articles/cs-73/) This paper investigates social aspects among developers working on software projects developed with the support of Agile tools
