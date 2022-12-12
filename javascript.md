@@ -2496,6 +2496,7 @@ Javascript
     * [Webpack → Vite: 번들러 마이그레이션 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1435)
   * [와 Vite 쓰면 리액트 10배 빨라짐 (과장아님) - YouTube](https://www.youtube.com/watch?v=iX3Nu1FcZKA)
   * [Vite 환경에서 .env 활용하기 | Univdev](https://www.univdev.page/posts/vite-enviroment-variables/)
+  * [Vite 4.0 is out! | Vite](https://vitejs.dev/blog/announcing-vite4.html)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
