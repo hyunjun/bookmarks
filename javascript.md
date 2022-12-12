@@ -2042,6 +2042,7 @@ Javascript
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
     * [Do not use Swagger but build SDK instead for frontend developers - DEV Community 👩💻👨💻](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
+  * [nestjs-aop](https://github.com/toss/nestjs-aop)
   * [quasar-ssr-nestjs-boilerplate: Quasar Framework + Vue SSR + NestJS API Server = ULTIMATE FULLSTACK](https://github.com/composite/quasar-ssr-nestjs-boilerplate)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
