@@ -811,6 +811,7 @@ Javascript
   * 유연함을 추구해서 일관성을 위한 제약은 많이 두지 않음
   * 직관적으로 사용할 수 있도록 Compound Component를 선택
   * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
+* [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -2521,6 +2522,8 @@ Javascript
   * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7976/)
   * [yarn berry로 React.js 프로젝트 시작하기 | Kasterra's Archive](https://kasterra.github.io/setting-yarn-berry/)
+  * [Experiment: The hidden costs of waiting on slow build times | The GitHub Blog](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
+    * [2022.12.05 WantedDB migration 추가 확인 - hyunjun chung - Confluence](https://wantedlab.atlassian.net/wiki/spaces/~6368bd2a4bca78179baa2bfb/pages/2701983890/2022.12.05+WantedDB+migration)
   * [Styled components - Module not found](https://velog.io/@aneb/yarn-berry-Styled-components-Module-not-found)
 
 ## Library Bundler
