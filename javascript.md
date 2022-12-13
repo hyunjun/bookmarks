@@ -4047,6 +4047,8 @@ Javascript
 * [How to encrypt data in React js | data encryption in react | React js Tutorial in Hindi - YouTube](https://www.youtube.com/watch?v=gwBJFuirKi8)
 * [React의 Error Boundary를 이용하여 효과적으로 에러 처리하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-error-boundary/)
 * [The weird things about React - YouTube](https://www.youtube.com/watch?v=-NPUjrjusPA)
+* [Data Structures In Frontend JavaScript In The Real World (With React Code Examples)](https://profy.dev/article/javascript-data-structures)
+  * [번역 현실 세계 프런트엔드에서 사용되는 자바스크립트 자료구조: 리액트 코드 예시와 함께](https://velog.io/@eunbinn/javascript-data-structures)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
