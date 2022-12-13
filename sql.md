@@ -1033,6 +1033,8 @@ SQL
 * [Postgres Tutorials | Crunchy Data](https://www.crunchydata.com/developers/tutorials)
 * [Multi-tenant application architecture with Node.js — Express, and PostgreSQL | by Larbi Sahli | Jul, 2022 | Medium](https://medium.com/@larbisahli/multi-tenant-application-architecture-with-node-js-express-and-postgresql-3b94ea270a72)
 * [Open sourcing our fork of PgBouncer](https://blog.cloudflare.com/open-sourcing-our-fork-of-pgbouncer/)
+* [Just Use Postgres for Everything | Amazing CTO](https://www.amazingcto.com/postgres-for-everything/)
+  * [그냥 Postgres를 모든 곳에 사용하세요 | GeekNews](https://news.hada.io/topic?id=8018)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
