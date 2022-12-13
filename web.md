@@ -1434,6 +1434,7 @@ Web
 * [Forking Chrome to turn HTML into SVG - Fathy](https://fathy.fr/html2svg)
   * Chromium을 포크해서 HTML 페이지를 SVG로 변환하는 프로젝트인 html2svg를 만드는 과정 설명
   * Blink와 Skia 코드를 수정해서 페이지를 SVG로 변환하는 함수를 만들고 폰트나 그림자 등의 문제를 해결하는 과정
+* [Safari SVG Blurry 현상 해결 방법 | Univdev](https://www.univdev.page/posts/safari-svg-blurry/)
 * [svg-hush: Make it safe to serve untrusted SVG files](https://github.com/cloudflare/svg-hush)
 
 # Test
