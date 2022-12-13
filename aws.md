@@ -754,6 +754,7 @@ AWS
 * [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://blog.pingpong.us/aws-inferentia/)
 * [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/aws-inferentia/)
 * [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 2탄 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/aws-inferentia-2/)
+* [머신러닝 모델 서빙 비용 1/4로 줄이기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html)
 * [**Modern Cloud for Multiplayer Games**](https://blog.hathora.dev/modern-cloud-for-multiplayer-games/)
 * [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
   * 조직 내에서 AWS 비용을 관리하기 위해 FinOps 적용, 비용 관리를 하려는 조직에 도움 될 내용
