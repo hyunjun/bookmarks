@@ -5087,6 +5087,7 @@ Programming
   * 'Shift-left'와 'Shift-right' 접근 방법을 통해 어떻게 더 나은 품질을 확보할 수 있는지 공유
 * [가파르게 성장하는 서비스를 담당한, 한 품질담당자의 회고 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9220/)
 * [CPaaS QA가 하는 일 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/11/01/What-CPaaS-QA-does.html)
+* [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
