@@ -2541,6 +2541,8 @@ Programming Books
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
 * (NOT YET) 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
+* (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://khrd.co.kr/news/view.php?idx=5053771)
+  * [마크 저커버그 바로 건너편에서 일해보니 - 티타임즈](https://ttimes.co.kr/article/2022121318237788636)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
