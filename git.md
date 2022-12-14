@@ -1257,6 +1257,7 @@ Git
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * PyGithub [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
 * [ReadmePlants/about-project.md at main · devxb/ReadmePlants](https://github.com/devxb/ReadmePlants/blob/main/about-project.md)
+* [refined-github: Browser extension that simplifies the GitHub interface and adds useful features](https://github.com/refined-github/refined-github)
 * [release: Generate changelogs with a single command](https://github.com/vercel/release)
 * [Robb Oat is a robot software engineer](https://robboat.com/) GitHub 이슈를 읽어서 이해한 뒤, 문제를 해결한 PR을 자동 발행하는 깃헙 앱
   * [Robb Oat - 로봇 소프트웨어 엔지니어 | GeekNews](https://news.hada.io/topic?id=7750)
