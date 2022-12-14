@@ -4918,6 +4918,7 @@ Javascript
 * [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps | by Mostafa Moradian | The Startup | Medium](https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518)
 * [Mock Service Worker Library Enables Resilient REST and GraphQL API Testing](https://www.infoq.com/news/2020/11/msw-mocking-graphql-rest-api/)
 * [Random notes around service workers development and testing · mmazzarolo.com](https://mmazzarolo.com/blog/2022-06-18-service-workers-tips-and-tricks/)
+* [서비스 워커에 대해 알아보고 Mock Response 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221208-service-worker/)
 * [Mocking으로 생산성까지 챙기는 FE 개발 – tech.kakao.com](https://tech.kakao.com/2021/09/29/mocking-fe/)
 * [FEConf2020 프론트엔드 TDD 발표 후기 | 마이크로프로텍트 블로그](https://microprotect.github.io/2020/12/16/frontend-tdd-feconf2020/)
 * [프론트엔드 테스트의 모든 것. 저와 같은 사람이라면 개발 워크플로우에서 테스트를 자동화하여 원치 않는… | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
