@@ -335,6 +335,7 @@ Programming Books
 * [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
   * ★★★★☆ 2022.04.01~02
   * 사실 애자일에 대한 책은 아님
+  * [PROJECT TO PRODUCT 프로젝트에서 제품으로](https://github.com/hyunjun/bookmarks/blob/master/programming_books/project_to_product.md)
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로. 서문 | by Jun | Apr, 2022 | Medium](https://nymets.medium.com/project-to-product-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C-e3bd4e1fd664)
   * [PROJECT TO PRODUCT 프로젝트에서 제품으로](https://jh4hj.tistory.com/entry/PROJECT-TO-PRODUCT-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C)
   * [공헌이익과는 다른 디지털화 이야기](https://brunch.co.kr/@graypool/480)
@@ -2856,6 +2857,9 @@ Programming Books
   * 한라 005.138 김76ㅅ
   * 설치, 라라벨 기본, 실전프로젝트 3가지로 구성. php 기본 문법은 간략하게 나옴
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
+
+# Product
+* (NOT YET) [제품의 탄생](https://jhrogue.blogspot.com/2022/12/blog-post.html)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
