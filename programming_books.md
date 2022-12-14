@@ -321,6 +321,8 @@ Programming Books
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 * (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
   * 탐라
+* (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
+  * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
 
 # Agile Scrum
 
