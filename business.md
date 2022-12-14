@@ -1275,6 +1275,7 @@ Business
   * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
   * 3D - Define, Design, Deliver
 * [신뢰 자본](https://jojoldu.tistory.com/675)
+* [당신의 신뢰 자산(Credibility Asset)은 얼마인가요?](https://eopla.net/magazines/1640#)
 * business에 대한 이야기는 아니지만 '신뢰'에 대한 이야기라 여기 기록
   * ['심심한 사과'에 대한 정지우 작가 이야기](https://www.facebook.com/writerjiwoo/posts/pfbid03261noPcgLLkQuUKiCBwmYDE41vSuWDVFBEx5pmQCqGAn2SqNjLhFZwxjUxaugFTfl)
   * [‘심심한 사과’ 문해력 논쟁과 ‘헤어질 결심’ 서래에게 배울 것 유레카 : 칼럼 : 사설.칼럼 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/opinion/column/1055817.html)
