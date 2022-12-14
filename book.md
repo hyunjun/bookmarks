@@ -607,11 +607,12 @@ Book
   * [생각에 관한 생각 프로젝트](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_undoing_project.md)
   * [생각에 관한 생각 프로젝트. 1 유방남 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%83%9D%EA%B0%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42f3da3f7f39)
   * [생각에 관한 생각 프로젝트](https://jh4hj.tistory.com/entry/%EC%83%9D%EA%B0%81%EC%97%90-%EA%B4%80%ED%95%9C-%EC%83%9D%EA%B0%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+* [넛지: 파이널 에디션](https://dbr.donga.com/article/view/1303/article_no/10527/ac/a_view)
+  * ★★★★☆ 2022.12.12~14
+  * 한라 321.89-탈294너 탐라 문321.89-탈233ㄴ 우당 문321.89-탈233ㄴ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
-* (NOT YET) [넛지: 파이널 에디션](https://dbr.donga.com/article/view/1303/article_no/10527/ac/a_view)
-  * 한라 321.89-탈294너 탐라 문321.89-탈233ㄴ 우당 문321.89-탈233ㄴ
 * (NOT YET) [똑똑한 사람들의 멍청한 선택(Misbehaving)](https://blog.naver.com/int9708/220719201529)
   * 한라 321.89-탈294ㄸ 탐라 문321.89-리83ㄸ 우당 이321.89-탈233ㄸ
 * (NOT YET) [생각에 관한 생각](https://brunch.co.kr/@truese/9)
