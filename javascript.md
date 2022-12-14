@@ -1397,6 +1397,7 @@ Javascript
   * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
   * [✍🏼ES6 빠르게 훑어보기 - YouTube](https://www.youtube.com/watch?v=Fknu06X4qV4)
   * [✍🏼ES6 빠르게 훑어보기 #node.js - YouTube](https://www.youtube.com/watch?v=fI-ebwytPrM)
+  * [서브클래스 평가하기 - Bsidesoft co.](https://www.bsidesoft.com/8674)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -3962,6 +3963,7 @@ Javascript
 * [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
 * [React Derived State 다시 보기 | Dev Log](https://reactiver.dev/review-react-derived-state/)
 * [React VAC Pattern - View 로직과 JSX의 의존성을 최소화 하자!](https://d2.naver.com/news/0568192)
+* [React에서 View의 렌더링 관심사 분리를 위한 VAC 패턴 소개 | WIT블로그](https://wit.nts-corp.com/2021/08/11/6461)
 * [리액트 서버 컴포넌트와 프리즈마. 리액트 18버전에서 가장 관심을 많이 받고있는 기능은 단연 서버… | by Danny Kim | Prisma Korea | Dec, 2021 | Medium](https://medium.com/prisma-korea/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%94%84%EB%A6%AC%EC%A6%88%EB%A7%88-c1652a997927)
 * [리액트 React 로 리팩토링! 웹 프론트엔드 개발자 모여라 | RIDIBOOKS web 1부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=6BG6O5F5dIs)
 * [React 컴포넌트 설계 방법 공개! 웹 코드 리팩토링 프로젝트 | RIDIBOOKS web 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=ofBhjQZeC0o)
@@ -4049,6 +4051,7 @@ Javascript
 * [The weird things about React - YouTube](https://www.youtube.com/watch?v=-NPUjrjusPA)
 * [Data Structures In Frontend JavaScript In The Real World (With React Code Examples)](https://profy.dev/article/javascript-data-structures)
   * [번역 현실 세계 프런트엔드에서 사용되는 자바스크립트 자료구조: 리액트 코드 예시와 함께](https://velog.io/@eunbinn/javascript-data-structures)
+* [프론트엔드 폴더 구조 방법론 정리](https://yoonjong-park.tistory.com/entry/React-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%A0%95%EB%A6%AC)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
