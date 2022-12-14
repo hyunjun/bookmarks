@@ -882,6 +882,7 @@ Docker
 * [Dockerfiles now Support Multiple Build Contexts - Docker](https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/)
 * [Dockerfile 버전선택](https://malwareanalysis.tistory.com/410)
 * [Dockerfile 버전선택(with buildkit) - YouTube](https://www.youtube.com/watch?v=WfhnFLb1tg8)
+* [컨테이너 이미지 용량 줄이기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/11/08/container-imagesize-diet/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
