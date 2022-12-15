@@ -3275,6 +3275,7 @@ Programming
 * [브런치북 보안쟁이의 넋두리 2](https://brunch.co.kr/brunchbook/secutales-2)
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
+* [시큐어 코딩의 의미와 실천 방안: ①시큐어 코딩이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1822/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
