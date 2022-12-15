@@ -313,6 +313,7 @@ Haskell
 * [하스켈 GHC.Generics 탐험기](https://velog.io/@todd/%ED%95%98%EC%8A%A4%EC%BC%88-GHC.Generics-%ED%83%90%ED%97%98%EA%B8%B0)
 * [하스켈에서 어니언 아키텍처 구현하기](https://velog.io/@todd/%ED%95%98%EC%8A%A4%EC%BC%88%EC%97%90%EC%84%9C-%EC%96%B4%EB%8B%88%EC%96%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [하스켈 ByteString](https://gist.github.com/nattybear/99e035b8968540b0bc044378aac5177e)
+* [JavaScript backend merged into GHC | IOG Engineering](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged/)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
