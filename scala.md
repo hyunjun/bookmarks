@@ -2244,6 +2244,7 @@ Scala
 * [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
 * [Scala 3: the missing compiler plugin • gvolpe's blog](https://gvolpe.com/blog/scala3-missing-compiler-plugin/)
 * [thibault의 블로그 • Lichess on scala3 - help needed • lichess.org](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
+* [thibault의 블로그 • Lichess & Scala 3 • lichess.org](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
