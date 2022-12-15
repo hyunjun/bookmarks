@@ -540,12 +540,13 @@ Book
 * [아이의 미래를 바꾸는 아빠의 습관혁명](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=848825)
   * ★★★☆☆ 2022.12.07
   * 탐라 개598.1-권65ㅇ
+* [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
+  * ★★☆☆☆ 2022.12.14~15
+  * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
   * 한라 598.1-윤78ㅇ 탐라 문598.1-윤79ㅇ 우당 문598.1-윤79ㅇ
-* (NOT YET) [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
-  * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
 * (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
