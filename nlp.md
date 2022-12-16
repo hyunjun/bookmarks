@@ -657,7 +657,11 @@ NLP
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
-* [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+* [ChatGPT](https://chat.openai.com/)
+  * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+    * OpenAI에서 대화형으로 질문을 하면 답변을 받을 수 있는 ChatGPT 공개
+    * 한국어를 포함해서 자연어로 질문을 하면 ChatGPT가 답변
+    * 모든 정보가 정확한 것은 아니더라도 상당히 자연스럽게 답변을 해주기 때문에 많은 관심
   * [ChatGPT란 무엇이고 어떻게 미디어 산업을 혁신할 것인가? (번역) – 이바닥늬우스](https://ebadak.news/2022/12/04/what-is-chatgpt/)
   * [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
     * [ChatGPT 속에 VM 만들기](https://www.facebook.com/groups/TensorFlowKR/posts/1910790999261949/)
