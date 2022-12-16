@@ -656,6 +656,7 @@ Docker
     * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
     * 글에서 실행 가능한 예제 제공
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
+* [AAAP – 작업환경 as a Service 개발기 – tech.kakao.com](https://tech.kakao.com/2022/12/15/aaap/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2097,6 +2098,8 @@ Docker
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [testcontainers](https://github.com/testcontainers)
+  * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
+    * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
   * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
   * [Hello, youki! – utam0k](https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/)
