@@ -2828,6 +2828,7 @@ Programming
 * [Programming is writing is programming - Felienne - YouTube](https://www.youtube.com/watch?v=uO3a4HIBDU4)
 * [우아콘2022 비하인드: 작은 경험도 괜찮아, 기술로 함께 문제를 풀어가는 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9524/)
 * [calltospeakers.com](https://calltospeakers.com)
+* [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
 * Naver
@@ -2878,17 +2879,18 @@ Programming
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * if kakao
-  * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
-    * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
   * [program](https://if.kakao.com/program)
+  * [카카오페이 if(kakao) 발표 준비 과정 엿보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-kakaopay-dr-02/)
+  * [if(kakao)dev 2022, 2일차 안내 – tech.kakao.com](https://tech.kakao.com/2022/12/08/ifkakao2022-day2/)
+  * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
+  * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
   * [if kakao 2019 Day1 후기](https://ryanpark.dev/2019/08/29/if-kakao-2019-후기/)
   * [if (kakao) dev 2019, Day 1 참석 후기](https://dico.me/topic/articles/257)
     * [if (kakao) dev 2019, Day 1 - 서비스 장애를 극복하는 게임플랫폼 구축하기 요약](https://dico.me/topic/articles/255)
     * [if (kakao) dev 2019, Day 1 - 초당옥수수의 취소를 막아라! : 수만 건의 주문을 1초내에 처리하는 기술 요약](https://dico.me/topic/articles/256)
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
-  * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
-  * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
-  * [if(kakao)dev 2022, 2일차 안내 – tech.kakao.com](https://tech.kakao.com/2022/12/08/ifkakao2022-day2/)
+  * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
+    * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
 * InfCon
   * [인프콘 2022 다시보기 - 인프런 | 강의](https://www.inflearn.com/course/infcon2022)
   * [인프콘 2022 회고](https://velog.io/@yukina1418/%EC%9D%B8%ED%94%84%EC%BD%98-2022-%ED%9A%8C%EA%B3%A0)
@@ -3022,8 +3024,10 @@ Programming
   * [Docker founder launches Dagger, a new DevOps platform | TechCrunch](https://techcrunch.com/2022/03/30/docker-founder-launches-dagger-a-new-devops-platform/)
   * [Dagger - CI/CD 파이프라인 개발킷 | GeekNews](https://news.hada.io/topic?id=6269)
   * [dagger.io | Your CI pipelines should be code: introducing the Dagger Go SDK](https://dagger.io/blog/go-sdk)
-  * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
+  * [dagger.io | Introducing the Dagger GraphQL API](https://dagger.io/blog/graphql)
+    * CI/CD 엔진인 Dagger의 GraphQL API 공개. 사실상 다른 언어의 SDK도 GraphQL API를 이용해서 Dagger 엔진 접근
   * [dagger.io | Introducing the Dagger Node.js SDK](https://dagger.io/blog/nodejs-sdk)
+  * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
@@ -4497,6 +4501,7 @@ Programming
   * [기술 뉴스 #209 : 22-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1631)
   * [기술 뉴스 #210 : 22-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1633)
   * [기술 뉴스 #211 : 22-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1638)
+  * [기술 뉴스 #212 : 22-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1639)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5180,6 +5185,9 @@ Programming
 * [**Michael Feathers - the deep synergy between testability and good design - YouTube**](https://www.youtube.com/watch?v=4cVZvoFGJTU) 잘 설계된 제품 코드와 테스트 가능성 간의 큰 상승효과
 * [Test Driven Development: That’s Not What We Meant • Steve Freeman • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=yuEbZYKgZas)
 * [The 3 Types of Unit Test in TDD • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ihOUzzwPFIk)
+* [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
+  * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
+  * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
