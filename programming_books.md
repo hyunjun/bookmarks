@@ -448,6 +448,8 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
+* (NOT YET) [매니지먼트 3.0 | 에이콘출판사](http://acornpub.co.kr/book/management-3.0)
+  * 한라 325.2-아894ㅁ
 
 # Algorithm
 
