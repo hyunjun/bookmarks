@@ -562,6 +562,7 @@ Apache
 * [CDC & CDC Sink Platform 개발 1편 - CDC Platform 개발 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/01/11/cdc-platform.html) Event Bus, Event Driven
 * [CDC & CDC Sink Platform 개발 2편 - CDC Sink Platform 개발 및 CQRS 패턴의 적용 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/22/cdc-sink-platform.html)
 * [CDC & CDC Sink Platform 개발 3편 - CDC Event Application Consuming 및 Event Stream Join의 구현 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/06/21/cdc-event-application-consuming.html)
+* [CDC 너두 할 수 있어(feat. B2B 알림 서비스에 Kafka CDC 적용하기) | 우아한형제들 기술블로그](https://techblog.woowahan.com/10000/)
 * [카프카 컨슈머 애플리케이션 배포 전략](https://medium.com/11st-pe-techblog/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-4cb2c7550a72)
 * [**cloudurable.com/categories/kafka**](http://cloudurable.com/categories/kafka/index.html)
   * [**Kafka Tutorial 13: Creating Advanced Kafka Producers in Java**](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)
