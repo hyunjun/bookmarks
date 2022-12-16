@@ -1634,6 +1634,7 @@ Java
 * [Spring Guide - Exception 전략 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-guide-exception/)
 * [Spring Cloud Gateway Error Handling & Filter - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-cloud-gateway-2/)
 * [Spring cloud config server | Microservices architecture | Spring boot - YouTube](https://www.youtube.com/watch?v=ArOV5VIShq0)
+* [Spring Cloud Stream 재시도 구현하기](https://saramin.github.io/2022-12-07-spring-cloud-stream/)
 * [스프링 리액터 Reactor 기초 글 목록](https://javacan.tistory.com/entry/spring-reactor-intro-list)
   * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
   * [2 - 시퀀스 생성 just, generate](http://javacan.tistory.com/entry/Reactor-Start-2-RS-just-generate)
