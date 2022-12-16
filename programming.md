@@ -5224,6 +5224,8 @@ Programming
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
+* [KPI_ABTest.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/KPI_ABTest.md)
+  * [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST - YouTube](https://www.youtube.com/watch?v=5Qw05CvbH1g)
 
 ## TDD, Test, A/B test alternatives
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 (2020-01-18 잔디콘)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
