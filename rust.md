@@ -171,6 +171,13 @@
 * [Using Rust at a startup: A cautionary tale | by Matt Welsh | Nov, 2022 | Medium](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454)
 * [개발자를 위한 Next-Level Database Techniques 무료 e북 / 50 | GeekNews](https://news.hada.io/topic?id=7963)
 * [Rust Demystified Simplifying The Toughest Parts - YouTube](https://www.youtube.com/watch?v=TJTDTyNdJdY)
+* [AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/)
+  * Rust를 공부하려고 Advent of Code의 문제를 풀면서 GitHub Copilot과 ChatGPT의 도움을 받아서 Rust를 공부하는 과정 정리
+  * ChatGPT를 이용해서 모든 라인을 설명하는 주석을 추가
+    * Rust 컴파일러 오류를 설명하고 수정하게 하고
+    * ChatGPT에게 Rust의 사용 방법을 물어보면서 Rust 학습
+  * 물론 꽤 잘 동작했지만 두 AI가 잘못된 부분을 알려주기도 해서 디버깅하느라고 시간을 쓰기도 했지만
+    * 지금까지는 Rust를 배우는 데 도움이 되고 있다고 함
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
