@@ -314,6 +314,16 @@ Haskell
 * [하스켈에서 어니언 아키텍처 구현하기](https://velog.io/@todd/%ED%95%98%EC%8A%A4%EC%BC%88%EC%97%90%EC%84%9C-%EC%96%B4%EB%8B%88%EC%96%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [하스켈 ByteString](https://gist.github.com/nattybear/99e035b8968540b0bc044378aac5177e)
 * [JavaScript backend merged into GHC | IOG Engineering](https://engineering.iog.io/2022-12-13-ghc-js-backend-merged/)
+* [**Parse, don’t validate**](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+  * [**검증하지 말고 파싱하라 · 잇창명 개발 블로그**](https://eatchangmyeong.github.io/2022/12/04/parse-don-t-validate.html)
+    * Alexis King의 Parse, don’t validate의 번역 글
+    * 평소 타입 주도 설계를 설명하는데 고생하다가 "검증하지 말고 파싱하라"는 것을 깨닫고 이를 설명
+    * 함수를 작성할 때 입력의 어떤 조건을 검증하는 경우
+      * 잘못하면 호출자에게 검증의 책임을 떠넘기게 되어 코드가 복잡해질 수 있음
+      * 이를 인자 타입을 강화시켜서 훨씬 간결하게 구현하는 방법 설명
+    * 이를 탕해 타입 시스템을 충분히 활용해서 검증으로 인한 샷건 파싱 문제를 피할 수 있다
+    * 예제 코드가 전부 Haskell이라서 Haskell을 알지 못하고 이해가 어려운데
+      * 다행히 급하게 배우는 Haskell ("검증하지 말고 파싱하라" 보충)에 글을 읽는 데 도움이 되는 간단한 문법 설명이 있으므로 먼저 읽어보면 좋다
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
