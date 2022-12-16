@@ -542,6 +542,7 @@ Scala
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
+* [Benchmarking Kafka vs Akka Brokerless Pub/Sub | Lightbend](https://www.lightbend.com/blog/benchmarking-kafka-vs-akka-brokerless-pub-sub)
 * [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
