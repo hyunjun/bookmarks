@@ -1733,6 +1733,7 @@ Programming Books
 * (NOT YET) [피, 땀, 픽셀 - 트리플 A 게임은 어떻게 만들어지는가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1597)
 * (NOT YET) [피, 땀, 리셋 : 게임 개발 속 숨은 영웅들의 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9325418967)
   * [게임산업 이면의 무자비한 이야기, 그리고 여운.. : 네이버블로그](https://blog.naver.com/drvoss/222860583517)
+* (NOT YET) [레트로 게임 개발 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307083643)
 
 # Git
 
