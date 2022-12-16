@@ -287,6 +287,16 @@ Git
 * [Automate GitHub API Calls With Ruby, Keyboard Maestro, and 1Password CLI - DEV Community 👩💻👨💻](https://dev.to/monfresh/automate-github-api-calls-with-ruby-keyboard-maestro-and-1password-cli-2ge5)
 * [10년차도 실수하는 Git의 화살표 방향. 프로그래밍에 발을 들이고 조금 지나면 프로그래밍 언어만큼이나 뇌를… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/10%EB%85%84%EC%B0%A8%EB%8F%84-%EC%8B%A4%EC%88%98%ED%95%98%EB%8A%94-git%EC%9D%98-%ED%99%94%EC%82%B4%ED%91%9C-%EB%B0%A9%ED%96%A5-1d8cd7949d36)
 * [만화로 보는 GIT 탄생 이야기 | GeekNews](https://news.hada.io/topic?id=7529)
+* [Experiment: The hidden costs of waiting on slow build times | The GitHub Blog](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
+  * 개발자에게 더 강력한 하드웨어를 물으면 항상 그렇다고 대답
+    * GitHub에서 실제 더 강력한 하드웨어를 사용했을 때 비용이 어느 정도인지 알기 위한 실험
+  * Linux 커널을 컴파일하는 프로젝트를 대상으로 2 코어에서 64코어로 빌드해서 얼마나 많은 시간이 절약되었는지 점검
+    * 이 시간이 비즈니스 비용이 얼마나 되는지 검색
+  * 미국 개발자의 평균 비용으로 시간당 75달러를 기준으로 빌드 중에 다른 일은 하지 않는다고 계산
+    * 코어가 늘어나면 빌드 시간이 많이 감소하므로 개발자 비용도 많이 감소
+  * 두 번째 실험에서는 빌드 동안 기다리는 대신 다른 작업을 한다고 가정
+    * 결국 컨텍스트 스위칭이 일어나는데 컨텍스트 스위칭에 1시간이 걸린다고 가정하면 빌드 시간이 큰 의미 없어지지만
+    * 15분, 30분이라고 생각하면 빌드시간을 줄이는 데 드는 비용이 개발자 비용보다 훨씬 적기 때문에 강력한 하드웨어를 쓰는 게 타당
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -405,6 +415,10 @@ Git
   * Azure DevOps, Jenkins, CircleCI 등 다른 CI의 파이프라인을 분석해서 임포트할 수 있게 해주는 GitHub Actions Importer가 GitHub Universe에서 공개
 * [GitHub Actions 배포 동시성 설정 - 현구막 기술 블로그](https://hyeon9mak.github.io/github-actions-deployment-concurrency-setting/)
 * [if(kakao)dev2022 GitHub Actions Runner 빌드 실전 적용기](https://if.kakao.com/2022/session/73)
+* [GitHub Actions workflow notifications in Slack and Microsoft Teams | GitHub Changelog](https://github.blog/changelog/2022-12-06-github-actions-workflow-notifications-in-slack-and-microsoft-teams/)
+  * Slack과 Microsoft Teams의 GitHub 앱을 통해 GitHub Actions의 워크플로우의 알림 수신 가능
+  * `/github subscribe owner/repo workflows` 명령어로 알림 구독
+  * `/github subscribe owner/repo workflows:{name:"your workflow name" event:"workflow event" branch:"branch name" actor:"actor name"}`같은 식으로 워크플로를 필터링해서 구독 가능
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
