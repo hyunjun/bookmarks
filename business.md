@@ -2273,6 +2273,7 @@ Business
 * [2초만에 불필요한 클릭 없애는 4가지 방법](https://toss.tech/article/4-ways-for-minimum-input)
 * [가이드라인을 시스템으로 만드는 법](https://toss.tech/article/introducing-toss-error-message-system)
 * [플랫폼 디자이너가 효율을 만들어내는 법](https://toss.tech/article/how-platform-designer-make-effectiveness)
+* [토스 디자인 원칙, Easy to answer](https://toss.tech/article/insurance-claim-process)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
