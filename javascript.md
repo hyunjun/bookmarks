@@ -3552,7 +3552,13 @@ Javascript
 * [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)
 * [Refactoring A Junior’s React Code - 43% Less Code With A Better Data Structure](https://profy.dev/article/react-junior-code-review-and-refactoring-1)
   * [Refactoring A Junior’s React Code - 43% Less Code With A Better Data Structure - YouTube](https://www.youtube.com/watch?v=SESyE3himZs)
-  * [(번역) 데이터 구조를 개선하여 코드 43% 줄이기](https://velog.io/@lky5697/react-junior-code-review-and-refactoring)
+  * [(번역) 데이터 구조를 개선하여 코드 43% 줄이기](https://velog.io/@lky5697/react-junior-code-review-and-refactoring/)
+    * 주니어 개발자가 React 코드의 코드 리뷰를 요청해서 이를 개선하는 과정
+    * 체크 리스트에서 전체 선택과 해제를 할 수 있는 코드인데 잘 동작하지만
+    * 데이터 구조의 문제와 다른 상태에서 생성할 수 있는 값을 저장해 두는 문제
+      * DOM에 직접 접근하는 문제를 짚어내고 하나씩 개선해나가면서
+      * 이전 코드와 개선된 코드를 비교 설명
+    * 어떤 식으로 React 코드를 개선할 수 있는지 명확하게 보여주고 있어서 도움
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
 * [ReactJS quirks to improve your code](https://codeburst.io/reactjs-quirks-to-improve-your-code-69170ce71a1a)
 * [React.js Frequently Faced Problems - FFPs? Version 1](https://medium.com/@samerbuna/react-js-frequently-faced-problems-45e7060ef884)
