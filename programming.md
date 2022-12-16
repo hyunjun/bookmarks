@@ -2630,6 +2630,7 @@ Programming
   * [Clean Code 라는 건 없습니다 | GeekNews](https://news.hada.io/topic?id=5881)
 * [Want Cleaner Code? Use the Rule of Six](https://davidamos.dev/the-rule-of-six/)
   * [클린코드를 위한 6의법칙 - 개발블로그로 영어공부하기 - YouTube](https://www.youtube.com/watch?v=aGcXiH1Nfmo)
+* [CleanCode 읽기 좋은 코드로 변경시키기 예제](https://www.couchcoding.kr/blogs/couchcoding/%5BCleanCode%5D%20%EC%9D%BD%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B3%80%EA%B2%BD%EC%8B%9C%ED%82%A4%EA%B8%B0%20%EC%98%88%EC%A0%9C)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
