@@ -1412,6 +1412,7 @@ Business
 * [한기용 - 성장하는 조직의 성장통 - 개인 주도에서 조직 주도로 움직이기 (1)](https://www.linkedin.com/posts/activity-6976759191948455937-WguK/)
 * [한기용 - 성장하는 조직의 성장통 - 개인 주도에서 조직 주도로 움직이기 (2)](https://www.linkedin.com/posts/activity-6978024428165111808--bRA/)
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
+* ["거짓말과 공감 결여, 직원 경멸⋯" 머스크가 나델라와 달랐던 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/269421)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
 * [‘덜어야 더한다’··· 지친 리더를 위한 위임의 기술 6가지 - CIO Korea](https://www.ciokorea.com/news/252202)
 * [시키느니 답답해서 직접 하고 있다고요? : 네이버 블로그](https://blog.naver.com/hs_group/222002315523) 위임
