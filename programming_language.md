@@ -163,6 +163,7 @@ Programming Language
 * [Top 10 Weirdest Programming Languages in Use in 2022](https://www.analyticsinsight.net/top-10-weirdest-programming-languages-in-use-in-2022)
 * [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust](https://benhoyt.com/writings/count-words/)
 * [C++ vs Node.js vs Go - 멀티스레드 퀵정렬 수행속도 비교](https://remocon33.tistory.com/672)
+* [다른 언어로 성장하기](https://jojoldu.tistory.com/687)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
