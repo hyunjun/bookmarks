@@ -2470,6 +2470,9 @@ Programming Books
   * [팩트로 말하는 굿 피드백 ① 굿 피드백은 팩트에서 온다](https://now.rememberapp.co.kr/2022/05/19/18209/)
   * [팩트로 말하는 굿 피드백 ② 지혜를 제시하는 피드백 프로세스와 격을 높이는 피드백 센스](https://now.rememberapp.co.kr/2022/06/28/19337/)
   * [💡 실전에서 써먹는 리더의 피드백 스킬!](https://now.rememberapp.co.kr/2022/07/31/20366/)
+* [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
+  * ★★★★☆ 2022.12.17
+  * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2487,8 +2490,6 @@ Programming Books
 * (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
   * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
-* (NOT YET) [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
-  * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
 * (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
