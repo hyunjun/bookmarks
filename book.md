@@ -611,6 +611,9 @@ Book
 * [넛지: 파이널 에디션](https://dbr.donga.com/article/view/1303/article_no/10527/ac/a_view)
   * ★★★★☆ 2022.12.12~14
   * 한라 321.89-탈294너 탐라 문321.89-탈233ㄴ 우당 문321.89-탈233ㄴ
+  * [Nudge The Final Edition](https://github.com/hyunjun/bookmarks/blob/master/books/nudge_the_final_edition.md)
+  * [Nudge The Final Edition. ‘넛지’ 행동을 예측 가능한 방식으로 이끄는 선택 설계의 특정한 측면…… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/nudge-the-final-edition-8f25b63ca3af)
+  * [Nudge The Final Edition](https://jh4hj.tistory.com/entry/Nudge-The-Final-Edition)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
