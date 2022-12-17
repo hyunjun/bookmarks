@@ -159,6 +159,13 @@ Functional Programming
   * 스테판 울프럼이 온라인 세션으로 다른 물리학자들과 진행한 "Relations to Category Theory"
   * 4시간 가까이 이론 설명 및 토론 + 매스매티카로 예제 구현, 어려움
 
+# Conference
+* [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
+* [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
+* ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman - YouTube](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
+* [Functional Programming for Pragmatists • Richard Feldman • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=3n17wHe5wEw)
+* [Why Functional Programming Matters • John Hughes • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=JQDRCTa32jY)
+
 # Clojure
 * [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU)
 * [Functional programming, meet OOP - The Startup - Medium](https://medium.com/swlh/functional-programming-meet-oop-3dc12a14e38e)
@@ -172,12 +179,6 @@ Functional Programming
 * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 * [This is why people say that in functional programming the order of execution doesn’t matter - Learning Resources - ClojureVerse](https://clojureverse.org/t/this-is-why-people-say-that-in-functional-programming-the-order-of-execution-doesn-t-matter/7737)
 * [Functional Programming: Rapid Prototyping and Fast Delivery with Clojure - YouTube](https://www.youtube.com/watch?v=KPHBbaTFckk)
-
-# Conference
-* [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
-* [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
-* ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman - YouTube](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
-* [Functional Programming for Pragmatists • Richard Feldman • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=3n17wHe5wEw)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
