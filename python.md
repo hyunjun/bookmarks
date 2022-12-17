@@ -2141,6 +2141,7 @@ Python
   * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
   * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
   * [Are you writing print() statements to debug your Python code? | by Pradeepa Gollapalli | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)
+  * [BayPiggies September 2022: Debugging with ipdb - YouTube](https://www.youtube.com/watch?v=_G7bNMOhwWE)
 * PyCharm
   * [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
   * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
