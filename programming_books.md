@@ -776,6 +776,10 @@ Programming Books
 * (NOT YET) [CERT C 프로그래밍 2/e | 에이콘출판사](http://acornpub.co.kr/book/cert-c-2e)
 * (NOT YET) [전문가를 위한 C](https://www.hanbit.co.kr/store/books/look.php?p_code=B6135642963)
   * 한라
+* (NOT YET) [WONDER C 놀랄 만큼 재미있는 C언어 기초](https://www.infinitybooks.co.kr/product/item.php?it_id=1639364379&sca=0201)
+  * 우당 문005.13-조53ㅇ
+* (NOT YET) [명품 C언어 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282950081)
+  * 우당 문005.13-안19ㅁ
 
 # C++
 
