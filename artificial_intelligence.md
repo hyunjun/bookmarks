@@ -189,6 +189,10 @@ Artificial Intelligence
 * [Artificial Intelligence and Games](http://gameaibook.org/)
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
 
+# Conference
+* [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
+  * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
+
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
 * [한국인공지능연구소](https://www.youtube.com/channel/UCHG74ooFWbEvEtSCbJmupaQ)
