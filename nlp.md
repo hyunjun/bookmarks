@@ -380,6 +380,12 @@ NLP
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
 * [soyspacing. Heuristic Korean Space Correction, A safer space corrector](https://lovit.github.io/nlp/2018/04/25/soyspacing/)
 
+# ANN Approximate Nearest Neighbours
+* [Billion Scale Deduplication using Approximate Nearest Neighbours| Idan Richman Goshen, Sr Ds@Lusha - YouTube](https://www.youtube.com/watch?v=SL7hZ8gC-rs)
+* [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
+  * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
+  * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
+
 # Annotation
 * [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
@@ -1337,9 +1343,6 @@ NLP
 ## Library Python
 * [**13 Deep Learning Frameworks for Natural Language Processing in Python**](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
 * [자연어 처리(NLP)가 필요하다면?··· 추천 파이썬 라이브러리 8종 - CIO Korea](https://www.ciokorea.com/news/187313) CoreNLP Gensim NLTK Pattern Polyglot PyNLPI SpaCy TextBlob
-* [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
-  * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
-  * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * better_profanity [Day 36 : Remove Cuss Words using Python - YouTube](https://www.youtube.com/watch?v=r9qeg-T_9_s)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [ecco: Visuals and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2)](https://github.com/jalammar/ecco)
