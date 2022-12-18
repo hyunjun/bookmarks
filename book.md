@@ -398,6 +398,10 @@ Book
   * 탐라 문325.3-페231ㅍ
 * (NOT YET) [공감의 반경](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303676207)
   * [공감의 역설! 공감이 갈등, 혐오를 유발한다(진화학자 장대익 교수) - 티타임즈](https://www.ttimes.co.kr/article/2022120217537792369)
+* (NOT YET) [대통령의 글쓰기 : 김대중, 노무현 대통령에게 배우는 사람을 움직이는 글쓰기 비법 :: Library Newsletter](https://dgulibrary.tistory.com/822)
+  * 한라 344.5-강66ㄷ 탐라 개344.5-강66ㄷ 우당 문802-강67ㄷ
+  * [대통령의 글쓰기. 1. 말하기를 하고 글쓰기 10시간 정도 말을 할 수 있으면 좀 더… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-88b5d6709222)
+  * [대통령의 글쓰기](https://jh4hj.tistory.com/entry/%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
