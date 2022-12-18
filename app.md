@@ -767,6 +767,8 @@ App
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
   * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
+* [Helix](https://helix-editor.com/)
+  * [Helix the Rust Powered Development Environment - YouTube](https://www.youtube.com/watch?v=xHebvTGOdH8)
 * [ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
