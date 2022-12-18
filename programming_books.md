@@ -2760,6 +2760,7 @@ Programming Books
   * 한라 004.73-전82자
   * [tensorflow-ml-nlp-tf2: 텐서플로2와 머신러닝으로 시작하는 자연어처리 (로지스틱회귀부터 BERT와 GPT3까지) 실습자료](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2)
   * [tensorflow-ml-nlp-tf2-colab](https://github.com/NLP-kr/tensorflow-ml-nlp-tf2-colab)
+  * [가상 환경 및 실습 프로젝트 구성](https://github.com/hyunjun/bookmarks/blob/master/programming_books/starting_nlp_with_tensorflow2_and_ml.md)
 * (NOT YET) [자연어 처리의 정석 | 에이콘출판사](http://www.acornpub.co.kr/book/introduction-nlp/)
   * 한라 004.735-에68ㅈ
 * (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer/)
