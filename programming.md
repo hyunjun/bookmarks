@@ -839,6 +839,7 @@ Programming
 * [How we can correct the mistakes made with Agile • Allen Holub - YouTube](https://www.youtube.com/watch?v=F42A3R28WMU)
 * [애자일/스크럼의 역사 :: Welcome to DJ's Story](https://dj-kim73.tistory.com/9)
 * [Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? • Gabrielle Benefield • GOTO 2012 - YouTube](https://www.youtube.com/watch?v=2JNXx8VdbAE)
+* [40 Agile Methods in 40 Minutes • Craig Smith • YOW! 2015 - YouTube](https://www.youtube.com/watch?v=41czJq-YW-c)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
