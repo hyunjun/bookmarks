@@ -1522,8 +1522,6 @@ Programming Books
   * 2017.04
   * 한라 005.1 용82ㅅ
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
-* [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
-  * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
 * [배포 자동화와 지속적 인도 | 에이콘출판사](http://acornpub.co.kr/book/docker-jenkins)
   * 우당 문005.1-레57ㅂ
   * [docker-jenkins: 배포 자동화와 지속적 인도](https://github.com/AcornPublishing/docker-jenkins)
@@ -1536,6 +1534,19 @@ Programming Books
   * 2017.01
 * (NOT YET) Docker로 PaaS 구성하기
   * 2017.06 한라
+* (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
+  * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
+* (NOT YET) [따라하며 배우는 도커와 CI 환경 | 위키북스](https://wikibook.co.kr/docker-ci/)
+  * 탐라 문005.1-안72ㄷ
+* (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
+  * 탐라 문005.1-이94ㄷ
+* (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
+* (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
+
+## Kubernetes
+
+* [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
 * (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
 * (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
@@ -1545,8 +1556,6 @@ Programming Books
 * (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
 * (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
   * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
-* (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
-  * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
 * (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
 * (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
 * (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
@@ -1564,16 +1573,11 @@ Programming Books
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
   * 한라 005.11-오12ㄷ
-* (NOT YET) [따라하며 배우는 도커와 CI 환경 | 위키북스](https://wikibook.co.kr/docker-ci/)
-  * 탐라 문005.1-안72ㄷ
-* (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
-  * 탐라 문005.1-이94ㄷ
-* (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
-* (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
+* (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5/)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
