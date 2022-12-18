@@ -3499,8 +3499,10 @@ Programming Books
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
   * ★★★★☆ 2022.08.26
   * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems)
+  * [deep_learning_for_vision_systems: This repository accompanies the book "Deep Learning for Vision Systems"](https://github.com/moelgendy/deep_learning_for_vision_systems)
   * [비전 시스템을 위한 딥러닝. 제목은 비전이 들어가고, 그래서 비전 관련된 내용이 주된 부분이긴… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EB%B9%84%EC%A0%84-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-d642e34dcab)
   * [비전 시스템을 위한 딥러닝](https://jh4hj.tistory.com/entry/%EB%B9%84%EC%A0%84-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * [실습 환경 설정하기 - Anaconda](https://github.com/hyunjun/bookmarks/blob/master/programming_books/deep_learning_for_vision_systems.md)
 * (NOT YET) [컴퓨터 비전을 위한 다중 시점 기하학 2/e | 에이콘출판사](http://acornpub.co.kr/book/multipleview-geometry)
 * (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
   * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
