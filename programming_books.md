@@ -1372,6 +1372,7 @@ Programming Books
   * 한라 004.73-김54ㅋ
   * [keraspp_2022: Codes in My Book - Keras](https://github.com/jskDr/keraspp_2022)
   * [케라스로 구현하는 딥러닝 / 양자인공지능(QAI) 예제](https://sysout.tistory.com/90)
+  * [아나콘다, 윈도우, 주피터 설치](https://github.com/hyunjun/bookmarks/blob/master/programming_books/deep_learning_implementation_with_keras.md)
 
 ## Tensorflow
 * 텐서플로 첫걸음
