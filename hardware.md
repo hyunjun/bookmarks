@@ -356,6 +356,7 @@ Hardware
 * [Gunnar Wolf• How is the free firmware for the Raspberry progressing?](https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html)
 * [How a Single Raspberry PI made my Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [Programming in Go with a Raspberry Pi 4 & Xbox Controller (faster than 250 WPM!) - YouTube](https://www.youtube.com/watch?v=9a5l2J0BTrQ)
+* [영수증 사진기 제작](https://lazygyu.net/blog/making_instant_receipt_camera)
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
