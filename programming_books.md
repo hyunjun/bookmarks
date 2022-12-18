@@ -3520,5 +3520,6 @@ Programming Books
   * 우당 문005.44-리828ㅎ
   * [Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques: Windows Subsystem for Linux 2 (WSL 2) Tips, Tricks, and Techniques, published by Packt](https://github.com/PacktPublishing/Windows-Subsystem-for-Linux-2-WSL-2-Tips-Tricks-and-Techniques)
   * [bash-git-prompt: An informative and fancy bash prompt for Git users](https://github.com/magicmonty/bash-git-prompt)
+  * [효율성이 배가되는 WSL2 가이드북](https://github.com/hyunjun/bookmarks/blob/master/programming_books/wsl2.md)
 * (NOT YET) 실무에서 바로쓰는 파워셸
   * [<실무에서 바로쓰는 파워셸> 출간에 즈음하여](http://www.dokyun.pe.kr/223)
