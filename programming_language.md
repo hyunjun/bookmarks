@@ -645,3 +645,4 @@ Programming Language
 * [Static vs. dynamic typing: The details and differences](https://www.femar.co.ke/2022/01/sd.html)
 * [『프로그래밍 언어 속 타입』(가제) 책 소개 :: Jaemin Hong's Blog](https://blog.hjaem.info/2)
 * [9가지 프로그래밍 언어로 배우는 타입 이론](https://tech.devsisters.com/posts/programming-languages-1-type-theory/)
+* [A Taste of Type Theory • Bartosz Milewski • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=--2jJwdQ5js)
