@@ -108,7 +108,6 @@ Data Visualization
 * [데이터 시각화 종류 고르기 - 모두의연구소](https://modulabs.co.kr/blog/data-visualization/)
 * [데이터 스토리텔링 연습! Day 23](https://brunch.co.kr/@gkicarus/220)
 * [Python Script in Power BI Desktop | Pega Devlog](https://jehyunlee.github.io/2022/10/14/Python-DS-116-powerbi/)
-* [혼란한 Matplotlib에서 질서 찾기 | Pega Devlog](https://jehyunlee.github.io/2022/10/16/Python-DS-117-pycon2022/)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
@@ -537,6 +536,8 @@ Data Visualization
 * [Step-by-Step Depth Introduction of Matplotlib with Python | by Amit Chauhan | The Pythoneers | Mar, 2022 | Medium](https://medium.com/pythoneers/step-by-step-depth-introduction-of-matplotlib-with-python-8386d75b361d)
 * [bar graph – 사라지는 막대들](https://lazymatlab.tistory.com/144)
 * [데이터 시각화의 모든 것 | ● Matplotlib의 두 가지 방식 | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/5373587546067487/) 상태 기반(state-based), 객체 지향(object oriented)
+* [혼란한 Matplotlib에서 질서 찾기 | Pega Devlog](https://jehyunlee.github.io/2022/10/16/Python-DS-117-pycon2022/)
+* [한/글 표로 차트 그리기(확산형 누적막대)](https://employeecoding.tistory.com/372)
 * [colorsys - Conversions between Color Systems | Pega Devlog](https://jehyunlee.github.io/2022/01/04/Python-DS-95-tiger/)
 * [gravity | Pega Devlog](https://jehyunlee.github.io/2022/01/13/Python-Physics-1-gravity/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
