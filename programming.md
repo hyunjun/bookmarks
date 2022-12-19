@@ -1654,6 +1654,7 @@ Programming
 * [Architecture for Flow with Wardley Mapping, DDD, and Team Topologies - YouTube](https://www.youtube.com/watch?v=VzsRu5za4-g)
 * [백엔드 서버 아키텍처 — Domain Layer1. Domain Layer와 DDD | by Junha Baek | junhabaek](https://tech.junhabaek.net/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-domain-layer1-domain-layer%EC%99%80-ddd-e97a7587a7b0)
 * [추천팀의 DDD 도입기 – tech.kakao.com](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
+* [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
