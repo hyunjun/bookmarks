@@ -756,6 +756,8 @@ Git
   * [Automatic .gitignore generation | Pega Devlog](https://jehyunlee.github.io/2020/11/07/Python-General-7-make_gitignore/)
   * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.gitignore.io/)
   * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
+* grep
+  * [git으로 파일내용이나 커밋로그 검색하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/849)
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [Husky 사용할 때 주의! - 코드쓰는사람](https://taegon.kim/archives/10276)
