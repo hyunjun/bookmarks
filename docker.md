@@ -1656,6 +1656,7 @@ Docker
     * Kubernetes에서 Cilium을 테스트해보는 간단한 소개 글
     * Cilium은 eBPF 기반의 네트워크 플러그인으로 그 특성상 성능이 좋고 네트워크, 보안, 관측성을 제공할 수 있고 최근에 Mesh도 추가
     * 로컬에서 K3s로 Kubernetes 클러스터를 구성해서 여기에 cilium CLI로 설치하고 Hubble로 대시보드까지 확인하는 방법 설명
+  * [eBPF와 함께 이해하는 Cilium 네트워킹 - Speaker Deck](https://speakerdeck.com/hadaney/ebpfwa-hamgge-ihaehaneun-cilium-neteuweoking)
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
