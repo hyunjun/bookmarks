@@ -338,6 +338,8 @@ Hadoop
 * Kakao Hadoop Platform(KHP)
   * [카카오 자체 개발 하둡 플랫폼, Kakao Hadoop Platform(KHP) – tech.kakao.com](https://tech.kakao.com/2022/12/12/kakao-hadoop-platform-khp/)
   * [KHP 하둡 배포판 릴리즈 관리하기](https://tech.kakao.com/2022/12/12/kakao-hadoop-platform-khp-release-control/)
+  * [KHP 모니터링과 알림 – 1부 – tech.kakao.com](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-1st/)
+  * [KHP 모니터링과 알림 – 2부 – tech.kakao.com](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-2nd/)
 * [MR3 - A new execution engine for Hadoop](https://mr3.postech.ac.kr/)
   * [Performance Comparison of HDP LLAP, Presto, SparkSQL, Hive on Tez, and Hive on MR3 using the TPC-DS Benchmark](https://mr3.postech.ac.kr/blog/2018/08/15/comparison-llap-presto-spark-mr3/)
 * [PULSE - Hadoop log aggregation, alerting, and lifecycle management](https://github.com/phdata/pulse)
