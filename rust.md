@@ -178,6 +178,7 @@
     * ChatGPT에게 Rust의 사용 방법을 물어보면서 Rust 학습
   * 물론 꽤 잘 동작했지만 두 AI가 잘못된 부분을 알려주기도 해서 디버깅하느라고 시간을 쓰기도 했지만
     * 지금까지는 Rust를 배우는 데 도움이 되고 있다고 함
+* [High Performance Rust UI - YouTube](https://www.youtube.com/watch?v=zVUTZlNCb8U)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
