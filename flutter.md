@@ -241,6 +241,7 @@ Flutter
   * [retrofit을 이용하여 서버데이터 받아오기](https://blog.naver.com/pjt3591oo/222332468185)
 * [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
   * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
+* [ZeroTo7Seg: ⚗️ (Team 0to100) Flutter 7-segment OCR using Tesseract LSTM](https://github.com/SemteulGaram/ZeroTo7Seg)
 
 # TDD, Test
 * [통합 테스트(Integration Test) - 이번 블로그 포스트에서는 Flutter에서 통합 테스트(Integration Test)를 하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/integration-test/)
