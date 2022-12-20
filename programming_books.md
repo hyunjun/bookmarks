@@ -2486,6 +2486,11 @@ Programming Books
   * [유난한 도전](https://github.com/hyunjun/bookmarks/blob/master/programming_books/exceptional_challenge.md)
   * [유난한 도전 - Jun - Medium](https://nymets.medium.com/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84-f279a2179d9e)
   * [유난한 도전](https://jh4hj.tistory.com/entry/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84)
+* [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
+  * ★★★★☆ 2022.12.21
+  * [실리콘밸리에선 어떻게 일하나요](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_work_in_silicon_valley.md)
+  * [실리콘밸리에선 어떻게 일하나요. 1 BOTTOM-UP CULTURE 가까운 사람의 책임이 더 크다 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ef1ce9721500)
+  * [실리콘밸리에선 어떻게 일하나요](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2540,7 +2545,6 @@ Programming Books
   * 한라 325.1-오57ㅂ 탐라 문325.1-오58ㅂ 우당 문325.1-오58ㅂ
 * (NOT YET) [비즈니스 아이디어의 탄생](https://theorydb.github.io/review/2020/09/01/review-book-testing-business-ideas/)
   * 우당 문325.19-블232ㅂ
-* (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
 * (NOT YET) [인재집착경영](https://v.daum.net/v/20220914114557601)
 * (NOT YET) [학습하는 조직](https://blog.naver.com/clarion62/221223161635)
   * 한라 325.1-센14ㅎ
