@@ -431,6 +431,7 @@ Python
     * [교육업무자동화5/10 청구서자동화5(개선할 부분 찾아보기) #중급](https://www.martinii.fun/134)
     * [교육업무자동화6/10 청구서자동화6(pyinstaller로 배포하기)](https://www.martinii.fun/135)
   * [한/글 없이 hwpx 파일의 표를 pd.DataFrame으로 추출하는 방법](https://martinii.fun/220)
+  * [모든 날짜 문자열 끝에 요일 붙이기](https://martinii.fun/374)
   * [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX : NHN Cloud Meetup](https://meetup.toast.com/posts/311) python 무관, 한글파일 포맷 자체에 대한 이야기
     * [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX | GeekNews](https://news.hada.io/topic?id=6052)
   * [파이썬으로 아래아한글 실행하는 방법](https://employeecoding.tistory.com/239)
