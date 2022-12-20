@@ -480,6 +480,7 @@ iOS
 * [Explore SwiftUI and Jetpack Compose | by Yevhenii Datsenko | The Startup | Medium](https://medium.com/swlh/explore-swiftui-and-jetpack-compose-6c3efa6d8bb)
 * [Introducing SwiftUI 따라잡기 - 장소 소개하는 화면 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1623)
 * [LINE Pay에서 SwiftUI TextField 사용하기](https://engineering.linecorp.com/ko/blog/line-pay-swiftui-textfield)
+* [SwiftUI NavigationView로 Coordinator Pattern 사용하기](https://labs.brandi.co.kr//2022/12/12/leehs81.html)
 * [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
