@@ -239,6 +239,7 @@ Business
       * 당연히 경영진급의 좋은 인재들이 퇴사하고 더 이상 리크루팅도 어려운 상황이라고 함
       * 60세 당시 은퇴를 번복했던 게 악수였을까?
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
+* [미션과 비전, 그리고 서비스](https://brunch.co.kr/@mojuns/16)
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
