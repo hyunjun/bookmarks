@@ -2914,9 +2914,10 @@ Programming Books
 * [스태프 엔지니어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411563)
   * ★★★★☆ 2022.11.08 매우 좋다. 여러 모로 커리어 관련된 부분에서 살펴보기 좋은 책. 내 커리어를 위해서도, 커리어 패스를 만드는 측면에서도 좋음
   * 우당 문005.104-라58ㅅ
+* [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
+  * ★★★☆☆ 2022.12.20
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
-* (NOT YET) [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
