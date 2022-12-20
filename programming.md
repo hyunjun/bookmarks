@@ -1291,6 +1291,7 @@ Programming
   * '모던 웹 브라우저 들여다보기' 번역글이 있었는데 사라졌음
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
+* [베스트콘2022 Fault Tolerance Pattern - YouTube](https://www.youtube.com/watch?v=OLsv7oG0VPo)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * Valley of pain
