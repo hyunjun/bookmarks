@@ -75,10 +75,6 @@ Programming Books
   * 2016.05.03~04
 * [임백준의 대살개문](https://jh4hj.tistory.com/entry/%EC%9E%84%EB%B0%B1%EC%A4%80%EC%9D%98-%EB%8C%80%EC%82%B4%EA%B0%9C%EB%AC%B8)
   * 2016.08.31
-* [데브옵스 2.0 툴킷](http://acornpub.co.kr/book/devops-2.0-toolkit)
-  * 2018.09
-  * 한라 005.12파297ㄷ
-  * vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
 * [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
   * 2018.09
   * 한라 569몽877ㅎ
@@ -217,11 +213,6 @@ Programming Books
 * (NOT YET) [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
   * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [Linkedin 링크드인 취업혁명](https://blog.naver.com/netspee/222904944527)
-* (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
-  * 한라 005.44-랜878ㄷ
-* (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
-  * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
-  * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
 * (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
   * 한라 005.11-박73ㅅ 우당 문005.104-박72ㅅ
@@ -269,9 +260,6 @@ Programming Books
   * 한라 004-이15ㅋ 탐라 개004-이15ㅋ 우당 문004-이16ㅋ
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
   * 탐라 문005.74-두61ㄷ
-* (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
-  * 탐라 문004.61-애228ㅇ
-  * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
   * 우당
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
@@ -1489,6 +1477,20 @@ Programming Books
 
 * (NOT YET) [이펙티브 디버깅 디버깅 지옥에서 탈출하는 66가지 전략과 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B5607403301)
   * 한라 005.12-스898ㅇ
+
+# DevOps
+* [데브옵스 2.0 툴킷](http://acornpub.co.kr/book/devops-2.0-toolkit)
+  * 2018.09
+  * 한라 005.12파297ㄷ
+  * vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
+* (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
+  * 한라 005.44-랜878ㄷ
+* (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
+  * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
+  * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
+* (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
+  * 탐라 문004.61-애228ㅇ
+  * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
 
 # DevRel Developer Relation Tech Evangelist
 * [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
