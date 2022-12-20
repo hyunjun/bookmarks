@@ -2128,6 +2128,7 @@ Programming Books
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자](https://www.onlybook.co.kr/entry/kafka)
 * (NOT YET) [실전 카프카 개발부터 운영까지](https://jhrogue.blogspot.com/2021/10/blog-post_21.html)
   * [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
+  * [실전 카프카 개발부터 운영까지 - 데이터 플랫폼의 중추 아파치 카프카의 내부 동작과 개발, 운영, 보안의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1641)
 * (NOT YET) [Kafka Streams in Action | 에이콘출판사](http://acornpub.co.kr/book/kafka-streams-in-action)
 * (NOT YET) [아파치 카프카 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/kafka-cookbook)
   * 탐라 문005.74-에67ㅇ
