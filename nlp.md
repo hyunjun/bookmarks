@@ -1266,6 +1266,7 @@ NLP
     * [mecab-ko-dic-prebuilt: 미리 빌드되어 있는 mecab-ko-dic](https://github.com/jeongukjae/mecab-ko-dic-prebuilt)
   * [natto-py - combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language](https://github.com/buruzaemon/natto-py)
   * [python-mecab - A repository to bind mecab for Python 3.5+. Not using swig nor pybind. https://pypi.org/project/python-mecab ](https://github.com/jeongukjae/python-mecab)
+  * [python-mecab-ko: A python binding for mecab-ko](https://github.com/jonghwanhyeon/python-mecab-ko)
   * [python-mecab-kor: Yet another python binding for mecab-ko](https://github.com/hyunwoongko/python-mecab-kor)
 * [Memory Networks](https://github.com/facebook/MemNN)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
