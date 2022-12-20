@@ -2478,6 +2478,11 @@ Programming Books
 * [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
   * ★★★★☆ 2022.12.17
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
+* [유난한 도전 - 경계를 부수는 사람들, 토스팀 이야기 | Hoing](https://hoing.io/archives/70873)
+  * ★★★☆☆ 2022.12.20
+  * [유난한 도전](https://github.com/hyunjun/bookmarks/blob/master/programming_books/exceptional_challenge.md)
+  * [유난한 도전 - Jun - Medium](https://nymets.medium.com/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84-f279a2179d9e)
+  * [유난한 도전](https://jh4hj.tistory.com/entry/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
