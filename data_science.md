@@ -594,6 +594,7 @@ Data Science
 * [데이터 디스커버리 플랫폼 도입기 - 2편. GKE에 Datahub 구축하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/03/16/metdata-platform-02.html)
 * [DDP를 말할 때 같이 고려해 볼 것들(1) – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/ddp1/)
 * [DDP를 말할 때 같이 고려해 볼 것들(2) – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/ddp2/)
+* [DDP를 말할 때 같이 고려해 볼 것들(3) – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/ddp3/)
 * amundsen [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 * datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
   * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
