@@ -1107,6 +1107,10 @@ Business
   * [번역 챌린징한 상황에서 어려운 대화를 하는 방법 – Retriever in Jeju](https://retrieverinjeju.com/%EC%B1%8C%EB%A6%B0%EC%A7%95%ED%95%9C-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * [엉성하고 부드러운 피드백 보다는 '팩폭'이 낫다](https://m.hankookilbo.com/News/Read/A2022101711110004294)
 
+# CPO
+* [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
+  * [you are a first time cpo.md](https://github.com/diligejy/Growth/blob/main/Amplitude/Notes/you_are_a_first_time_cpo.md)
+
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
 * [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
@@ -2265,6 +2269,7 @@ Business
 * [The better way to explain your UX/UI design | by Ky Pham | Prototypr](https://blog.prototypr.io/the-better-way-to-explain-your-ux-ui-design-d8ebb9a5544f)
 * [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
+* [왜 앱 화면을 단순히 만들어야 할까?](https://brunch.co.kr/@cliche-cliche/170)
 * [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process/)
   * Toss에서 입력 필드가 많은 본인 인증 화면을 설계하는 과정
   * 본인 인증은 입력 필드가 많아서 스크롤 아래 가려진 필드와 액션을 알기가 어려워서 반대로 한 필드씩 입력하면 위에 새로운 필드가 나오게 구현
