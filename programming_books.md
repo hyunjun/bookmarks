@@ -2486,8 +2486,9 @@ Programming Books
   * [유난한 도전](https://github.com/hyunjun/bookmarks/blob/master/programming_books/exceptional_challenge.md)
   * [유난한 도전 - Jun - Medium](https://nymets.medium.com/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84-f279a2179d9e)
   * [유난한 도전](https://jh4hj.tistory.com/entry/%EC%9C%A0%EB%82%9C%ED%95%9C-%EB%8F%84%EC%A0%84)
-* [실리콘밸리에선 어떻게 일하나요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301762059)
+* [실리콘밸리에선 어떻게 일하나요](https://khrd.co.kr/news/view.php?idx=5053771)
   * ★★★★☆ 2022.12.21
+  * [마크 저커버그 바로 건너편에서 일해보니 - 티타임즈](https://ttimes.co.kr/article/2022121318237788636)
   * [실리콘밸리에선 어떻게 일하나요](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_work_in_silicon_valley.md)
   * [실리콘밸리에선 어떻게 일하나요. 1 BOTTOM-UP CULTURE 가까운 사람의 책임이 더 크다 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ef1ce9721500)
   * [실리콘밸리에선 어떻게 일하나요](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94)
@@ -2569,8 +2570,7 @@ Programming Books
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
 * (NOT YET) 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
-* (NOT YET) [실리콘밸리에선 어떻게 일하나요](https://khrd.co.kr/news/view.php?idx=5053771)
-  * [마크 저커버그 바로 건너편에서 일해보니 - 티타임즈](https://ttimes.co.kr/article/2022121318237788636)
+* (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
