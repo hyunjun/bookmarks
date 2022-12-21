@@ -1111,6 +1111,9 @@ AWS
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
 
 # Lambda
+* [Serverless - Digital and Classroom Training | AWS](https://aws.amazon.com/ko/training/learn-about/serverless/)
+* [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
+  * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [Serverless Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136/ko-KR)
 * [AWS Cheat Sheet - AWS Lambda](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/Lambda)
@@ -1129,8 +1132,6 @@ AWS
 * [AWS - serverless-image-handler](https://medium.com/@kevin_park/aws-serverless-image-handler-de68255bc879)
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 * [The AWS Serverless LAMP Stack: the Future of PHP or Vendor Lock-in?](https://www.infoq.com/news/2020/07/aws-serverless-lamp/)
-* [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
-  * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
@@ -1326,6 +1327,7 @@ AWS
 * [DevOps Tutorials | Start and Stop EC2 Instance using Aws lambda and Cloud watch | EC2 Automation | - YouTube](https://www.youtube.com/watch?v=vOLILhTshCE)
 * [AWS Lambda SnapStart – 함수 실행 속도 및 성능 가속화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
   * 스냅숏을 사용해서 Lambda의 초기화 시간을 줄일 수 있는 SnapStart 지원
+* [**AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R) - YouTube**](https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
