@@ -2573,6 +2573,8 @@ Programming Books
   * 우당 문325.21-최73ㄹ
 * (NOT YET) 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
 * (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
+* (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
+  * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
