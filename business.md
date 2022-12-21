@@ -1722,6 +1722,7 @@ Business
 * [OKR(Objectives and Key Results)](https://www.linkedin.com/posts/edward-jee-480225a_okrobjectives-and-key-results%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AC%BC%EC%96%B4%EB%B3%B4%EC%8B%9C%EB%8A%94-activity-6975949535973937152-XBLM/)
 * [OKR의 오용과 경영의 가치](https://brunch.co.kr/@graypool/663)
 * [책으로 독학한 OKR이 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213815)
+* [WBS를 조심하세요](https://brunch.co.kr/@jinhoyooephf/26)
 
 # Patent
 * 세기의 특허전쟁
