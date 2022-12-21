@@ -1648,6 +1648,7 @@ Docker
 * Chaos Mesh [A Powerful Chaos Engineering Platform for Kubernetes | Chaos Mesh](https://chaos-mesh.org/)
   * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
   * [Attaining harmony of chaos in Kubernetes with Chaos Mesh – Flant blog](https://blog.flant.com/chaos-mesh-in-kubernetes/)
+  * [Chaos Engineering in Kubernetes using Chaos Mesh | by Pavan Kumar | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/chaos-engineering-in-kubernetes-using-chaos-mesh-431c1587ef0a)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
