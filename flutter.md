@@ -234,6 +234,7 @@ Flutter
 * [flutter_fastapi: crossplatform flutter with fastapi backend](https://github.com/comfuture/flutter_fastapi)
 * [flutter-folio: A platform adaptive Flutter app for desktop, mobile, and web](https://github.com/gskinnerTeam/flutter-folio)
   * [Flutter Folio: A platform adaptive Flutter app for desktop, mobile, and web](https://flutter.gskinner.com/)
+* [live_background: Provide nice moving wall paper on your background](https://github.com/BansookNam/live_background)
 * Pluto packages [Open source packages used by Flutter](https://pluto.weblaze.dev/)
   * [pluto_grid: PlutoGrid is a dataGrid for flutter that can be controlled by the keyboard on desktop and web. Of course, it works well on Android and IOS](https://github.com/bosskmk/pluto_grid)
 * Retrofit
