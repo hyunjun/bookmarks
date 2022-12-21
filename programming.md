@@ -1138,6 +1138,7 @@ Programming
 * [Harness Chaos Engineering Practitioner](https://university.harness.io/path/harness-chaos-engineering-practitioner)
 * [카오스엔지니어링 (Chaos Engineering) 알아보기 - YouTube](https://www.youtube.com/playlist?list=PLVKMvBGg2tCdrxH_IMWlSijR2YcBLjEHy)
 * [Netflix Chaos Monkey](https://skolaparthi.com/chaos-monkey/)
+* [Chaos Engineering on AWS - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRdA9tKR8zDFHdfPUIFIe8EOlD0t1iO5OvkvS_A70BEoR8dkoV2utwUzgQ421W_CSilC0IqPfwlfi2z/pub)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
