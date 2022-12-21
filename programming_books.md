@@ -311,6 +311,8 @@ Programming Books
   * 탐라
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
   * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
+* (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
+  * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 
 # Agile Scrum
 
