@@ -568,6 +568,7 @@ Book
   * 한라 325.555-버14ㅋ 탐라 문325.5-버13ㅋ
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
   * 한라 325.19-사45ㅇ 탐라 문325.19-사45ㅇ 우당 문325.19-사45ㅇ
+  * [창업 이후 가장 큰 도움을 받은 책은 바로 '이것'](https://eopla.net/magazines/291)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
