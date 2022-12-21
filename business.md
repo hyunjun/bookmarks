@@ -2191,6 +2191,7 @@ Business
   * ⑤ 조직에서의 목표는 OKR, KPI, 비전, 미션으로 정의 가능. 하지만 개인은 R&R로 정의
     * 주도권 부여 = 방향키 부여. 그렇다면 조직이 함께 가는 방향으로 갈 수 있도록 일하는 방식/조직문화를 만드는 게 리더/HR의 역할
 * [VC가 전문가 채용해 월급 주고 스타트업에 보낸다. - T Times](http://www.ttimes.co.kr/view.html?no=2020022018357753481)
+* [페이팔마피아, 어펌(Affirm) 창업자 맥스 레브친은 어떻게 생각할까? (Max Levchin) - YouTube](https://www.youtube.com/watch?v=lluTU8WAUnU)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
