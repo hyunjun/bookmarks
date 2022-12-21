@@ -2378,6 +2378,7 @@ Javascript
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 개념 편](https://d2.naver.com/helloworld/0923884)
 * [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편](https://d2.naver.com/helloworld/7553804) 모노레포에 사용할 수 있는 도구인 Yarn(v1, v2), Lerna, Nx, Turborepo의 사용법, 특징, 차이점 설명
 * [궁극의 JavaScript 모노레포 설정 - fromundefined by Tony](https://fromundefined.com/posts/2022-08-ultimate-monorepo/) lerna yarn workspace ultra runner
+* [DevOps MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
 * ['모노레포' 태그의 글 목록](https://yeoulcoding.me/tag/%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC)
 * [JavaScript package managers compared - npm, Yarn, or pnpm? – Sebastian Weber – Frontend developer who likes to learn by teaching](https://doppelmutzi.github.io/packageManagers/)
   * [번역 JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm?](https://velog.io/@dev_boku/JavaScript-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80-%EB%B9%84%EA%B5%90-npm-Yarn-%EB%98%90%EB%8A%94-pnpm)
