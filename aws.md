@@ -316,6 +316,7 @@ AWS
 * [AWS GLUE Serverless PySpark](https://velog.io/@hsh/AWSGLUE-Serverless-Spark/)
 * [Apache Iceberg Connector for AWS Glue를 이용하여 데이터레이크 CRUD 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/transactional-datalake-using-apache-iceberg-connector-for-aws-glue/)
 * [Simplify Snowflake data loading and processing with AWS Glue DataBrew | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/simplify-snowflake-data-loading-and-processing-with-aws-glue-databrew/)
+* [AWS Glue DataBrew와 Amazon QuickSight를 이용한 반정형 중첩 JSON 데이터 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/simplify-semi-structured-nested-json-data-analysis-with-aws-glue-databrew-and-amazon-quicksight/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
@@ -1014,6 +1015,7 @@ AWS
 * [데브옵스 오픈 소스 Karpenter를 활용한 Amazon EKS 확장 운영 전략 | 신재현, 무신사 - YouTube](https://www.youtube.com/watch?v=FPlCVVrCD64)
 * [Amazon EKS 환경에서 Pod Security Standard 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-pod-security-standards-in-amazon-eks/)
 * [Amazon EKS 마이그레이션 요점정리 - 강인호 솔루션즈 아키텍트, AWS :: AWS Summit Korea 2022 - YouTube](https://www.youtube.com/watch?v=bksogA-WXv8)
+* [Kubernetes를 위한 영구 스토리지 적용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/persistent-storage-for-kubernetes/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
