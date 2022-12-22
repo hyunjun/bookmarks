@@ -1800,6 +1800,7 @@ Business
 * [디스콰이엇 Pre A 회고: 프로덕트 - 3 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/3612)
 * [Pre A 회고: 투자유치시 멘탈 관리 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/4024)
 * [**피그마 CPO 인터뷰 "Figma는 어떻게 제품팀을 구성할까?"**](https://www.grownbetter.com/article/206)
+* [사용자 3명인 제품, 만들어야 할까?](https://toss.tech/article/only-3-users-product)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
