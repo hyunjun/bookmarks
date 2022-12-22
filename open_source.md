@@ -107,6 +107,7 @@ Open Source
   * 처음 OSS에 기여하는 사람은 상업적으로 지원받는 프로젝트 선호
 * [0x00D - Open-source Business Models 💸](https://unzip.dev/0x00d-open-source-business-models/)
   * [오픈소스 비즈니스 모델들 | GeekNews](https://news.hada.io/topic?id=7822)
+* [**해커 문화의 뿌리를 찾아서**](https://github.com/black7375/ReadabilityDocs/blob/master/%ED%95%B4%EC%BB%A4%20%EB%AC%B8%ED%99%94%EC%9D%98%20%EB%BF%8C%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C/README.md)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
