@@ -1460,7 +1460,12 @@ Web
 * [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [웹 성능 최적화 · Present](https://present.do/documents/633c002170efd011b8f6b7aa)
-* [Artillery.io | Load & Smoke Testing](https://artillery.io/)
+* [Artillery.io | Load & Smoke Testing](https://artillery.io)
+  * Node.js 기반, 스트레스 테스트, 성능 테스트
+  * 분산 기반으로 보다 확장성 있는 노드 시스템을 개발하다보면 자의적이던 타의적이던 성능검증 필요
+  * 노드기반, Webpage, RESTful API, WebSocket(Socket.io) 스트레스 성능테스트, 시나리오기반 테스트
+  * yml과 명령어기반으로 손쉽게 테스트, 보고서까지 빠르게 출력 가능
+  * 분산(로드밸러서, nginx), 멀티 코어 클러스터링(pm2), 환경에서의 시스템 가용성 테스트가 필요하다면 유용
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
   * [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
