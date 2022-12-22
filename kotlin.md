@@ -118,6 +118,7 @@
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Kotlin을 사용한 Spring Boot 개발기 - Controller (@RequestParam, @PathVariable) | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/kotlin-spring-boot-controller-get/)
 * [Kotlin을 사용한 Spring Boot 개발기 - Controller (@requestBody, Dto 생성하기) | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/kotlin-spring-boot-controller-post/)
+* [연습용 주문 서버 만들기 01 Kotlin/Spring 멀티모듈 프로젝트 구성](https://coco-log.tistory.com/202)
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
 * [코틀린의 인라인에 대해 한 번에 알아보자. inline, noinline, crossinline, reified… | by jisungbin | Sep, 2021 | Medium](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%B4-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-591c7da73219)
