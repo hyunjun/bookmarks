@@ -210,6 +210,7 @@
   * 그래서 Java 코드를 내부 도구에 필요한 변환 작업을 한 뒤 J2K를 실행하고 Kontlin 파일을 후처리
   * 마이그레이션 후 기대보다는 적은 11%의 코드 라인 감소, 실행 속도 동일, 빌드 속도는 KSP로 주석을 처리해서 해결
 * [Semaphore & Mutex. Today we will discuss what is Semaphore… | by Erselan Khan | Nov, 2022 | Towards Dev](https://towardsdev.com/semaphore-mutex-erselan-khan-2e7df18c4cd5)
+* [코틀린 꼬리 재귀 함수](https://www.roach-dev.com/kotlin_tailrec/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
