@@ -2754,6 +2754,10 @@ Programming Books
 * 파이썬과 자연어 처리파이썬과 함께하는 NLP 애플리케이션 만들기
   * 2017.08
   * 탐라 문 004.735 초848ㅍ
+* [트랜스포머를 활용한 자연어 처리](https://hanbit.co.kr/store/books/look.php?p_code=B2369016915)
+  * [nlp-with-transformers: <트랜스포머를 활용한 자연어 처리> 예제 코드를 위한 저장소입니다](https://github.com/rickiepark/nlp-with-transformers)
+  * [트랜스포머를 활용한 자연어 처리. 여러가지 인공지능 관련 책을 활발히 번역하는 박해선님이 또 새로운 책을… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-a7d8ff6fc5a1)
+  * [트랜스포머를 활용한 자연어 처리](https://jh4hj.tistory.com/entry/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
