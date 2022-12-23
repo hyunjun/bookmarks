@@ -1061,6 +1061,7 @@ Scala
       * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
     * [Day to day stuff: Speed up ZIOs with memoization](https://day-to-day-stuff.blogspot.com/2022/11/speed-up-zios-with-memoization.html)
     * [DI in Play for Scala3 with ZIO - YouTube](https://www.youtube.com/watch?v=9fr4pWIG-Tw)
+    * [Python and ZIO crushed my egotism | by Jay | DataTrek | Dec, 2022 | Medium](https://medium.com/lambdaverse/python-and-zio-crushed-my-egotism-5c78b5ce4d31)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -2281,6 +2282,8 @@ Scala
   * [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=RDY3NMZYWwY)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
+* [Tree-sitter｜Introduction](https://tree-sitter.github.io/tree-sitter/)
+  * [fast Scala 3 parsing with tree-sitter · eed3si9n](https://eed3si9n.com/fast-scala3-parsing-with-tree-sitter/)
 
 # Scala.js
 * [Scala.js](https://www.scala-js.org/)
