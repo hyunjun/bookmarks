@@ -1861,6 +1861,7 @@ App
 * [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
 * [무작정 Markdown 으로 문서 사이트를 만들고 싶은 이들에게... - DEV Community](https://dev.to/composite/mujagjeong-markdown-euro-munseoreul-mandeulgo-sipeun-ideulege-2mn9) Retype, Docsify
 * [Render mathematical expressions in Markdown | GitHub Changelog](https://github.blog/changelog/2022-05-19-render-mathematical-expressions-in-markdown/)
+* [마크다운에 컴포넌트 추가하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221222-custom-md/)
 * athens research [Pioneering research. Self-hosted and multi-player](https://www.athensresearch.org/)
 * [BatNoter](https://batnoter.com/login)
   * [batnoter: An open source, markdown-based, self-hosted note taking webapp.](https://github.com/batnoter/batnoter)
