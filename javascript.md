@@ -844,6 +844,8 @@ Javascript
   * Velopert님이 개발, IT, 디자인, 스타트업 소식을 한 번에 볼 수 있는 veltrends을 개발하면서 배운 내용을 정리
   * 1. 모바일 우선 디자인 (Mobile First Design) 2. 풀 스택 프레임워크 Remix 후기 3. Terraform 4. Fastify, 5. Prisma
 * [라이브러리 없이 라우터(Router) 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-router-without-library/)
+* [Say bye bye to bad javascript practices | by Freddy Manrique | Nov, 2022 | GoGrow](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
+  * [나쁜 자바스크립트 작성 습관과 작별하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1836/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
