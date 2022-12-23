@@ -245,6 +245,8 @@
   * [spawner: Session-lived containers for advanced browser-based applications](https://github.com/drifting-in-space/spawner)
 * [druid - Rust](https://docs.rs/druid/)
   * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
+* [echo: Spoon Radio Echo Project, Lightweight and scalable broadcasting server](https://github.com/spooncast/echo)
+  * [Spoon Echo Open Source Project](https://spoonlivestudio.blogspot.com/2022/11/spoon-echo-project-echo-spoon.html)
 * [egrikor: A Rust GUI Library](https://github.com/lasernoises/egrikor)
   * [Building a GUI Library in Rust - YouTube](https://www.youtube.com/watch?v=sDLrNAB7neY)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
