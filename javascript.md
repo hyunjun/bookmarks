@@ -4835,6 +4835,7 @@ Javascript
   * [Redux Persist with Redux Tool Kit - PART 1 | React navigation, Formik, Firebase auth | React native - YouTube](https://www.youtube.com/watch?v=LjySoCAnBMc)
   * [Redux Persist with Redux Tool Kit - PART 2 | React navigation, Formik, Firebase auth | React native - YouTube](https://www.youtube.com/watch?v=tkyP19Nclhw)
   * [Redux Persist with Redux Tool Kit - PART 3 | React navigation, Formik, Firebase auth | React native - YouTube](https://www.youtube.com/watch?v=TpJosL_NnF4)
+  * [React 서버 통신에 회의가 든다면 - RTK Query - YouTube](https://www.youtube.com/watch?v=pnpO3o8mLBU)
 * [redux-saga와 typescript 편하게 사용하기](https://jonir227.github.io/develop/2019/06/04/redux-saga%EC%99%80-typescript-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)
 * [How to use redux-saga](https://dailyhotel.io/how-to-use-redux-saga-63a6078c74b3)
 * [리액트 사가 사용하기 (타입스크립트 버전) - 1편](http://jeonghwan-kim.github.io//dev/2019/07/22/react-saga-ts-1.html)
