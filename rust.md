@@ -425,7 +425,6 @@
 * [2022-Make-Interpreter-Rust: 2022년 온라인 스터디 - Rust로 만드는 인터프리터](https://github.com/utilForever/2022-Make-Interpreter-Rust)
 * [How_to_learn_modern_Rust: A guide to the adventurer](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 * [Rust 프로그래밍 — 데이터 Type ①. 1장 데이터 Type ① | by Sungjin (James) Kim, Ph.D. | Oct, 2022 | Medium](https://jskdr.medium.com/rust-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-type-%E2%91%A0-e54040649bde)
-* [러스트 코딩 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTCwB3inwikMknhd-RdlmnqA)
 * [AWS re:Invent 2022 - Rust is interesting, but does it really make sense for me? (BOA201) - YouTube](https://www.youtube.com/watch?v=DHMfRFkhv-w)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
@@ -437,6 +436,8 @@
   * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
   * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
 * Rustonomicon [Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+* [sjkim_rust_programming](https://github.com/jskDr/sjkim_rust_programming)
+  * [러스트 코딩 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTCwB3inwikMknhd-RdlmnqA)
 
 # Web
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
