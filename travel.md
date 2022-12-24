@@ -230,6 +230,7 @@ Travel
 * [ko.wasa-bi.com](http://ko.wasa-bi.com/)
 * [livejapan.com/ko](https://livejapan.com/ko/)
 * [오사카에 간다면 반드시 들러야 할 BIG 3여행지](http://media.daum.net/life/outdoor/travel/newsview?newsId=20141215110111611&RIGHT_LIFE=R3)
+* [로컬 문화를 경험할 수 있는 오사카 숙소 5 | ㅍㅍㅅㅅ](https://ppss.kr/archives/259133)
 * [세계 문화 유산 지정 논란의 장소, 일본 '군함 섬'에 가다](http://www.huffingtonpost.kr/2015/05/25/story_n_7434496.html)
 * [연휴 활용해 갈 수 있는 일본 여행지 4](http://www.huffingtonpost.kr/2015/09/24/story_n_8187334.html)
 * [역사와 로망이 깃든 섬, 나가사키](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161013094617186&RIGHT_LIFE=R3)
