@@ -219,6 +219,7 @@ Flutter
 * [awesome-flutter: A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!](https://github.com/nepaul/awesome-flutter)
 * [dio: A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc](https://github.com/flutterchina/dio)
   * [Flutter Dio 사용하기 1/3. 이 글은 인프런의 코드팩토리 중급 Flutter 진짜 실전… | by Cody Yun | Dec, 2022 | Medium](https://medium.com/@cody.yun/flutter-dio-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-2-a80b70be2fdb)
+  * [Dio를 Retrofit과 함께 사용하기 2/2. 이 글은 인프런의 코드팩토리 중급 Flutter 진짜 실전… | by Cody Yun | Dec, 2022 | Medium](https://medium.com/@cody.yun/dio%EB%A5%BC-retrofit%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-2-db9caf9bb2b1)
 * [facebook_audience_network | Flutter Package](https://pub.dev/packages/facebook_audience_network)
   * [앱개발 시 - admob대신 facebook 광고를 사용하려면?](https://open-support.tistory.com/entry/%EC%95%B1%EA%B0%9C%EB%B0%9C-%EC%8B%9C-admob%EB%8C%80%EC%8B%A0-facebook-%EA%B4%91%EA%B3%A0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A0%A4%EB%A9%B4)
 * [gallerywallpaper: Apps using Flutter for settings UI of Livewallpaper](https://github.com/alongthecloud/gallerywallpaper) 플러터와 안드로이드 네이티브 서비스를 같이 쓰는 샘플
