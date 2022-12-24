@@ -2832,6 +2832,7 @@ Programming
 * [공개소프트웨어 페스티벌 - YouTube](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa)
 * [Using Tooling To Improve Your Codebase - YouTube](https://www.youtube.com/watch?v=xA3peCxMV10)
 * [Programming is writing is programming - Felienne - YouTube](https://www.youtube.com/watch?v=uO3a4HIBDU4)
+* [Team Topologies, Software Architecture & Complexity • James Lewis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=izLg4NkJQO4)
 * [우아콘2022 비하인드: 작은 경험도 괜찮아, 기술로 함께 문제를 풀어가는 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9524/)
 * [calltospeakers.com](https://calltospeakers.com)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
