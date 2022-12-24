@@ -805,6 +805,8 @@ Business
 * [20~40대 절반 “연봉 줄어도 조직문화 맞으면 이직”… 휴가 최우선](https://v.daum.net/v/20221117030054820)
 * [방만한 접근이 인재난 키운다··· 기업의 채용 실수 24가지 - CIO Korea](https://www.ciokorea.com/news/260710)
 * [‘처음 3년’을 버텨라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/207638) 경력 인재
+* [전 Uber 리크루팅 디렉터이자 현 Fynd의 CEO인 Andrew의 방식](https://www.linkedin.com/posts/recruitlucas_%EC%98%AC-%ED%95%98%EB%B0%98%EA%B8%B0%EC%97%90%EB%8A%94-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%B6%84%EC%95%BC%EC%9D%98-%EA%B5%AC%EB%A3%A8%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%A0%84-uber-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%94%94%EB%A0%89%ED%84%B0%EC%9D%B4%EC%9E%90-activity-7008367388123439104-eBxr/)
+* [미국 TOP 리크루터가 알려주는 스타트업 채용의 비밀](https://brunch.co.kr/@olivialee/30)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -916,6 +918,8 @@ Business
 * [“불확실한 미래 보상보다 현재가 중요”, MZ세대는 투명한 소통을 원한다 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/10063/ac/magazine)
 * [평가자에게 당부하고 싶은 것 < 인사관리 < 아티클 < 기사본문 - 월간 인재경영](https://www.abouthr.co.kr/news/articleView.html?idxno=5247)
 * [등급이라는 후광이 착시를 일으킨다! - YouTube](https://www.youtube.com/watch?v=IDvW4Ul1aHI)
+* [The rise and fall of peer review - by Adam Mastroianni](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
+  * [The rise and fall of peer review 대략 정리](https://www.facebook.com/parkism/posts/pfbid02oZ57xKyJBgueB6x8k5wcSfHasDgxMa1u7tiZ1oDK8xYddUXDnjaibN7vFUnumZwDl)
 
 # CBO
 * [마크의 슬기로운 직장생활 7개월 단명한 스타트업 C레벨 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/11/16/startup-cbo/)
