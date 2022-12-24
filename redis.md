@@ -137,6 +137,9 @@ Redis
 * [Redis Explained](https://architecturenotes.co/redis/)
 * [레디스를 이용한 기프티콘 선착순 이벤트 구현](https://velog.io/@hgs-study/redis-sorted-set)
 * [**Redis를 활용한 다양한 시스템 설계**](https://devs0n.tistory.com/92) Redis로 구현 가능한 예제 간결하게 설명한 글, 토이 프로젝트에 참고하기 좋음
+* [Redis를 활용한 선착순 쿠폰 발급 서버 설계](https://jgrammer.tistory.com/entry/Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%EA%B8%89-%EC%84%9C%EB%B2%84-%EC%84%A4%EA%B3%84)
+  * [우아한테크토크 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?! - YouTube](https://www.youtube.com/watch?v=MTSn93rNPPE)
+  * [time-attack-coupon-server: Redis기반 선착순 쿠폰 발급 서버](https://github.com/jerry-ljh/time-attack-coupon-server)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
