@@ -1346,6 +1346,7 @@ Machine Learning
 * [리디의 머신러닝 파이프라인 톺아보기 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/machine-learning-pipeline/)
 * [if kakao 2022 ML 모델 학습 파이프라인 설계 (feat. MLOps 플랫폼) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-mlops-model-training-pipeline/)
 * [“반복 속도가 AI의 성패를 결정한다” 산업/제조 현장 AI를 위한 MLOps 전략 - Tech Summary - ITWorld Korea](https://www.itworld.co.kr/techlibrary/267465)
+* [MLOps for MLE | ML Engineer를 위한 MLOps](https://mlops-for-mle.github.io/tutorial/)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
