@@ -219,6 +219,7 @@ Docker
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
   * [Build statically linked Graal-VM native-image using Make and Docker. Go through all TODO-steps!](https://gist.github.com/johanthoren/74529bcbc94779757de8d12acd5022ab)
   * [내가 사용하는 도커 컨테이너 리스트](https://cliearl.github.io/posts/etc/favorite-docker-containers/)
+  * [내가 사용하는 도커 컨테이너 리스트](https://cliearl.github.io/posts/linux/favorite-docker-containers/)
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
     * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
