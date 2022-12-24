@@ -4712,6 +4712,7 @@ Javascript
   * [Recoil 정확하게 사용하기! (feat. Selector) - 오픈소스컨설팅 테크블로그](https://tech.osci.kr/2022/09/02/recoil-selector/)
   * [GitpleLive React Sample Application | Programming Cloud-Native](https://tech.finset.io/2022/09/21/gitplelive-sample/)
   * [플레이스 예약 사업주향 서비스 상태관리 라이브러리 전환 후기 | by Seungu Lee | 네이버 플레이스 개발 블로그 | Nov, 2022 | Medium](https://medium.com/naver-place-dev/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%98%88%EC%95%BD-%EC%82%AC%EC%97%85%EC%A3%BC%ED%96%A5-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%A0%84%ED%99%98-%ED%9B%84%EA%B8%B0-f71ee2626ede)
+  * [Recoil을 이용한 손쉬운 상태관리. Recoil의 장단점과 함께 효과적으로 상태관리 할 수 있는 방법을… | by DongHyeok Byun / Frontend Developer | Dec, 2022 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/recoil%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%86%90%EC%89%AC%EC%9A%B4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-b70b32650582)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
