@@ -394,6 +394,7 @@ Android
   * [How to improve the build speed of your Android projects](https://medium.freecodecamp.org/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602)
   * [Android Gradle Tip들 정리](https://developer88.tistory.com/198)
   * [Pluu Dev - 메모 Gradle의 Version Category를 사용하여 Extra Properties 호환성 유지](https://pluu.github.io/blog/android/gradle/2022/09/25/version-category/)
+  * [Pluu Dev - 메모 gradle에 중복 repositories 정의 선언 정리](https://pluu.github.io/blog/android/2022/12/24/gradle-repos/)
 * Jandroid [Android 취약점 탐색 자동화를 위한 Jandroid 적용기](https://engineering.linecorp.com/ko/blog/use-jandroid-for-automated-android-vulnerability-detection/)
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
