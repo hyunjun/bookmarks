@@ -405,6 +405,8 @@ Book
   * [대통령의 글쓰기](https://jh4hj.tistory.com/entry/%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
 * (NOT YET) [지금, 경계선에서](https://infutureconsulting.tistory.com/1807)
   * 탐라 개331.54-코57ㅈ 우당 문331.54-코58ㅈ
+* (NOT YET) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
+  * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -960,6 +962,10 @@ Book
 * (NOT YET) [수학의 이유 : 수학은 현대 사회를 어떻게 지탱하는가](https://mkstyle.tistory.com/2725)
 * (NOT YET) [미치도록 기발한 수학 천재들](https://brunch.co.kr/@paulquinn/16)
   * 탐라 문410.99-송34ㅁ
+* (NOT YET) [위험한 숫자들](https://www.yeongnam.com/web/view.php?key=20220407010000832)
+  * 탐라 문410-블231ㅇ 우당 문410-블231ㅇ
+* (NOT YET) [알고리즘이 지배한다는 착각](https://www.brainmedia.co.kr/RecommendedBook/22497)
+  * 한라 410-섬897ㅇ
 
 # Murakami Haruki
 * [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)

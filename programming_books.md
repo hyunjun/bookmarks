@@ -2046,6 +2046,7 @@ Programming Books
   * [code-samples: Code samples for the book Multithreaded JavaScript, O'Reilly, 2021](https://github.com/MultithreadedJSBook/code-samples)
 * (NOT YET) [프론트엔드 성능 최적화 가이드 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/11/07/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
+* (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
 
 ## Angular
 
@@ -2221,7 +2222,7 @@ Programming Books
 
 ## Vim
 
-* 손이 먼저 반응하는 Practical Vim
+* [손이 먼저 반응하는 Practical Vim](https://ebook.insightbook.co.kr/book/57)
   * 탐라 문005.51 네68p
 
 # Management
@@ -2510,8 +2511,8 @@ Programming Books
 * (NOT YET) [린 스타트업: 실리콘밸리를 뒤흔든 IT 창업 가이드](https://hanbit.co.kr/media/books/book_view.html?p_code=B9955361403)
   * 한라, 탐라
   * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
-* (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl)
-  * 탐라 문325.555-스835ㅇ, 우당 문325.555-스835ㅇ
+* (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl/)
+  * 한라 325.19-스885ㅇ 탐라 문325.555-스835ㅇ 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
@@ -3099,6 +3100,8 @@ Programming Books
 * (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
 * (NOT YET) [판다스 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4172751734)
+* (NOT YET) [금융 데이터 분석을 위한 파이썬 판다스 - WikiDocs](https://wikidocs.net/book/3488)
+  * 한라 005.133-유23ㅍ
 * (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
@@ -3175,6 +3178,8 @@ Programming Books
   * [black-hat-python2e: Black Hat Python 2/e](https://github.com/AcornPublishing/black-hat-python2e)
 * (NOT YET) [처음 배우는 플라스크 웹 프로그래밍](https://hanbit.co.kr/store/books/look.php?p_code=B9575488572)
   * 한라 005.133-윤74ㅍ
+* (NOT YET) [내 일을 바꾸는 업무 자동화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=242086260)
+  * 탐라 문005.133-이832ㄴ 우당 문005.133-이832ㄴ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -3538,7 +3543,8 @@ Programming Books
 * (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
   * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
-* (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
+* (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359/)
+  * 탐라 문005.133-이73O
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
