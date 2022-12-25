@@ -12,11 +12,7 @@ Business
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
 * [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
-* [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
-* [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
-  * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [조직 살리는 '숨은 재능' 찾아내기 Monday HBR/빌 테일러](https://v.daum.net/v/20220919030305406)
-* [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
 * [잔디 월간일잘러: 빠르게 성장하는 당근마켓에서 효율적으로 일하는 방법 | Novemberde's Blog](https://novemberde.github.io/post/2021/08/31/Jandi-monthly/)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
 * [브런치북 도그냥이 알려주는 이커머스](https://brunch.co.kr/brunchbook/ecommercedomain)
@@ -169,7 +165,6 @@ Business
 * [**조직문화 개선에 대한 기대감을 잃지 않게 하려면**](https://brunch.co.kr/@matigevic/30) Edgar H. Schein 인공물(artifact) 표방하는 가치(espoused beliefs and values) 암묵적 가정(underlying assumptions)
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
-* [조직을 성공적으로 변화시키는 5가지 방법 : 네이버 블로그](https://blog.naver.com/puriu/220241801733) 구체적 행동, 핵심, 환경, 변화를 위한 동료, 저항과 실패를 당연시
 * [TED Giver & Taker](https://www.slid.cc/ko/share/vdocs/ted-giver-taker-68bc78d2806a403290ff161ce85111aa) 성공하는 조직의 giver, taker
   * [여러분의 조직은 Giver가 많은가요, Taker가 많은가요?](https://www.linkedin.com/posts/jhyunpark_ted-giver-taker-activity-6999590026170818560-OPIT/)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
@@ -211,8 +206,6 @@ Business
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
-* [culture '상식과 반복'이 문화를 변화시킵니다](https://community.rememberapp.co.kr/post/85713)
-  * [리멤버 커뮤니티 이야기 당연한 걸 반복해야 문화가 바뀐다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/06/17/organizational-culture/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
@@ -697,6 +690,17 @@ Business
 * [홀라크라시의 문제점](https://www.linkedin.com/posts/activity-6975585654055309312-0kgv/)
 * [업무를 구분 짓자 팀이 흔들리기 시작했다](https://eopla.net/magazines/241)
 * [“매년 바뀌는 조직… 싫으면 나가래요” ‘마음 움직이는 소통·구체적 업무’가 우선이다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/7822) 조직 개편
+
+# 변화
+* [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
+* [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
+  * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+* [조직을 성공적으로 변화시키는 5가지 방법 : 네이버 블로그](https://blog.naver.com/puriu/220241801733) 구체적 행동, 핵심, 환경, 변화를 위한 동료, 저항과 실패를 당연시
+* [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
+* [비효율의 숙달화](https://www.facebook.com/shinsoojungceo/posts/2262773417273895) 변화 특히 change가 아니라 transformation이 어려운 이유 중 하나
+* [culture '상식과 반복'이 문화를 변화시킵니다](https://community.rememberapp.co.kr/post/85713)
+  * [리멤버 커뮤니티 이야기 당연한 걸 반복해야 문화가 바뀐다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/06/17/organizational-culture/)
+* ['지가 뭔데 우릴 가르쳐?'](https://www.linkedin.com/posts/elfpenguin_%EC%A7%80%EA%B0%80-%EB%AD%94%EB%8D%B0-%EC%9A%B0%EB%A6%B4-%EA%B0%80%EB%A5%B4%EC%B3%90-1-%EC%A0%9C%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%94%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B3%A0%EC%84%9C-activity-7012419055450042369-RVuA/)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -1238,7 +1242,6 @@ Business
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
 * [리더가 빠지기 쉬운 리더십 오해 5가지](http://ppss.kr/archives/37747)
 * [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
-* [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
 * [변화를 주도하는 3가지 방법](http://moneyman.kr/archives/1687)
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
 * [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
