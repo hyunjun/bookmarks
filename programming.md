@@ -1294,6 +1294,8 @@ Programming
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [베스트콘2022 Fault Tolerance Pattern - YouTube](https://www.youtube.com/watch?v=OLsv7oG0VPo)
+* [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
+* [Fault Tolerance (내 결함성) 패턴 강좌및 자료 공개 | Architecture 101](https://architecture101.blog/2022/12/24/fault-tolerance-pattern/)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * Valley of pain
@@ -1464,7 +1466,6 @@ Programming
 * [우당탕탕 Server Driven UI 개발기. 안녕하세요! 요기요 R&D Center의 BE Developer… | by Seungwon Jeong | Sep, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-server-driven-ui-%EA%B0%9C%EB%B0%9C%EA%B8%B0-b1b80f47760b)
 * [01 Software Architecture Concepts - YouTube](https://www.youtube.com/watch?v=bNxSWIl5kpo)
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
-* [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
 * [Software Architecture for Developers • Simon Brown • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=dtVI7PvgVsQ)
 * [Shortening the Architectural Feedback Loop • Eltjo R. Poort • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=lshfKKeB1Io)
 * [arc42 - arc42](https://arc42.org/)
@@ -3173,6 +3174,7 @@ Programming
 * [Stepik](https://stepik.org)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
   * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
+  * [SICP 공부에 도움이 되는 자료들 – 도서출판 인사이트](https://blog.insightbook.co.kr/2007/12/14/sicp%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Textbooks - Kansas State University Department of Computer Science](https://textbooks.cs.ksu.edu/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
