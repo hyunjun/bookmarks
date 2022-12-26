@@ -2497,6 +2497,9 @@ Programming Books
   * [실리콘밸리에선 어떻게 일하나요](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_work_in_silicon_valley.md)
   * [실리콘밸리에선 어떻게 일하나요. 1 BOTTOM-UP CULTURE 가까운 사람의 책임이 더 크다 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ef1ce9721500)
   * [실리콘밸리에선 어떻게 일하나요](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94)
+* [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
+  * ★★★☆☆ 2022.12.24~25
+  * 탐라 문325.3-페231ㅍ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ

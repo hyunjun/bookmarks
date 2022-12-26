@@ -395,8 +395,6 @@ Book
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 * (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
-* (NOT YET) [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
-  * 탐라 문325.3-페231ㅍ
 * (NOT YET) [공감의 반경](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303676207)
   * [공감의 역설! 공감이 갈등, 혐오를 유발한다(진화학자 장대익 교수) - 티타임즈](https://www.ttimes.co.kr/article/2022120217537792369)
 * (NOT YET) [대통령의 글쓰기 : 김대중, 노무현 대통령에게 배우는 사람을 움직이는 글쓰기 비법 :: Library Newsletter](https://dgulibrary.tistory.com/822)
