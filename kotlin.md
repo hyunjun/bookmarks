@@ -285,6 +285,7 @@
 * [코틀린에서 if 문 다뤄보기](https://www.roach-dev.com/kotlin_take_if/)
 * [코틀린의 불변 컬렉션은 불변일까?](https://www.roach-dev.com/kotlin_mutable/)
 * [코틀린 groupBy, groupingBy, chunked, flatMap, aggregate 정리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/kotlin-collection/)
+* [코틀린의 확장 기능](https://www.roach-dev.com/kotlin/kotlin_extension_function/)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
