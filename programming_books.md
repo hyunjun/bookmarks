@@ -2500,6 +2500,9 @@ Programming Books
 * [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
   * ★★★☆☆ 2022.12.24~25
   * 탐라 문325.3-페231ㅍ
+  * [피플 애널리틱스](https://github.com/hyunjun/bookmarks/blob/master/programming_books/people_analytics.md)
+  * [피플 애널리틱스. Part 1 피플 애널리틱스 사례 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-156034096c93)
+  * [피플 애널리틱스](https://jh4hj.tistory.com/entry/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
