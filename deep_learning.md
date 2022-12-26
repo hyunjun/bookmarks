@@ -177,6 +177,7 @@ Deep Learning
       * 원하는 이미지를 얻기 위해서 계속해서 키워드를 바꿔가면서 얻어낸 로고의 기록
     * [The-DALL·E-2-prompt-book-v1.02.pdf](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)
       * DALL·E 2의 프롬프트를 어떻게 이용할 수 있고 어떤 결과가 나오는지 정리된 PDF. DALL·E 2를 활용하기 전에 참고해 보기 좋은 문서
+    * [산타 방문 증빙 feat. DALL.E | Pega Devlog](https://jehyunlee.github.io/2022/12/26/Python-General-14_santa/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
