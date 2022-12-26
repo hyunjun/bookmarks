@@ -466,6 +466,8 @@ Programming
     * 좋은 DX를 제공하기 위해 노출 시간을 늘리고 만들면서 직접 테스트가 되어 배우고 개발자에게 공감하고 엄청 좋은 게 아니라면 선택하지 않아서 중요한 작업에 집중할 수 있게 한다
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
+* [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity)](https://prostars.net/336)
+  * [코드 복잡도 줄이기 (Cyclomatic Complexity, NPath Complexity) | Popit](https://www.popit.kr/%ec%bd%94%eb%93%9c-%eb%b3%b5%ec%9e%a1%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0-cyclomatic-complexity-npath-complexity/)
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
   * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
 * [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
