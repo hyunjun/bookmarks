@@ -1582,6 +1582,7 @@ Docker
 * [if(kakao)dev2022 쿠버네티스 펀하고 쿨하고 섹시하게 만들기](https://if.kakao.com/2022/session/58)
 * [if(kakao)dev2022 모든 것이 kubernetes인 세상에서 안전하게 배포하기](https://if.kakao.com/2022/session/59)
 * ["쿠버네티스(Kubernetes)를 이용한 인프라 구축 및 운영" 구성 설치부터 Tool 간단소개 - YouTube](https://www.youtube.com/watch?v=6UiHDCSiiv8)
+* [Kubernetes의 Server Side Apply란 무엇일까?](https://heumsi.github.io/blog/posts/server-side-apply-in-kubernetes/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
