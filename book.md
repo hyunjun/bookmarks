@@ -273,6 +273,9 @@ Book
 * 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
   * ★★★☆☆ 2022.12.24 조력사 경험 후 기독교인이 되었다는 Part II 이야기에 꼭 그럴 수 밖에 없는 건가? 하는 의문이 가시지는 않지만 Part I은 굉장히 좋았음
   * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
+* [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
+  * ★★★☆☆ 2022.12.26
+  * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -375,8 +378,6 @@ Book
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
 * (NOT YET) [마음챙김](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=260049790)
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
-* (NOT YET) [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
-  * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
   * 한라 367.43-골27ㅇ 우당 문367.431-골228ㅇ
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
