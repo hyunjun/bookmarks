@@ -1117,6 +1117,7 @@ Business
 * [How to Deliver Constructive Feedback in Difficult Situations | LinkedIn](https://www.linkedin.com/pulse/how-deliver-constructive-feedback-difficult-dave-bailey/?articleId=6598144297483149314)
   * [번역 챌린징한 상황에서 어려운 대화를 하는 방법 – Retriever in Jeju](https://retrieverinjeju.com/%EC%B1%8C%EB%A6%B0%EC%A7%95%ED%95%9C-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * [엉성하고 부드러운 피드백 보다는 '팩폭'이 낫다](https://m.hankookilbo.com/News/Read/A2022101711110004294)
+* [건설적인 비판을 주고받는 방법 • Asana](https://asana.com/ko/resources/constructive-criticism)
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
