@@ -400,6 +400,7 @@ Haskell
 * [21 Awesome Open-Source Haskell Projects](https://serokell.io/blog/best-haskell-open-source-projects)
 * [Awake Security](https://github.com/awakesecurity)
 * [azure-demo - Haskell + Azure DevOps Demo](https://github.com/alasconnect/azure-demo/)
+* [blaze-latex-logging-example: Simple code example to demonstrate logging with LaTeX output](https://github.com/kyagrd/blaze-latex-logging-example)
 * Cabal
   * [The Pain Points of Haskell: A Practical Summary](https://dixonary.co.uk/blog/haskell/pain)
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
