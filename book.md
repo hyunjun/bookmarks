@@ -274,8 +274,11 @@ Book
   * ★★★☆☆ 2022.12.24 조력사 경험 후 기독교인이 되었다는 Part II 이야기에 꼭 그럴 수 밖에 없는 건가? 하는 의문이 가시지는 않지만 Part I은 굉장히 좋았음
   * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
 * [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
-  * ★★★☆☆ 2022.12.26
+  * ★★★★☆ 2022.12.26
   * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
+  * [역설계](https://github.com/hyunjun/bookmarks/blob/master/books/decoding_greatness.md)
+  * [역설계. Decoding Greatness Book | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%97%AD%EC%84%A4%EA%B3%84-8e1dfdabdcd4)
+  * [역설계](https://jh4hj.tistory.com/entry/%EC%97%AD%EC%84%A4%EA%B3%84)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
