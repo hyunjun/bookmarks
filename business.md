@@ -123,6 +123,7 @@ Business
 * [사회심리학자 허태균 교수가 말하는 인생에서 반드시 조심해야 할 ‘인간관계’ – 체인지그라운드](http://thechangeground.com/archives/91187) 갈등. 뭘 이야기하는지 알겠는데 그렇다고 협의/설득 과정을 버릴 순 없지 않나?
 * [인간관계 부정적인 사람의 5가지 특징](http://moneyman.kr/archives/2269)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
+* [PM이 다양한 MBTI성향의 팀원과 일하는 방법 5가지](https://brunch.co.kr/@ywkim36/99)
 * [함께 성장하며 함께 일하기 위한 3가지 필수 조건](https://brunch.co.kr/@graypool/449)
 * ~[우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)~
 * [일 못 하는 사람들의 33가지 태도 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236059)
@@ -2301,6 +2302,7 @@ Business
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
 * [서비스 이용자에게 꼭 필요한 나침반, '내비게이션'은 어떻게 기획해야 할까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/navigation20221125)
 * [중고거래 검색 필터 사용성 개선하기. 안녕하세요, 검색모델러 Aiden(에이든)이에요. | by Jukyoung LEE | 당근마켓 팀블로그 | Dec, 2022 | Medium](https://medium.com/daangn/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EA%B2%80%EC%83%89-%ED%95%84%ED%84%B0-%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-71c9e000cfa3)
+* [만드는 사람이 수고로운 UX 개발기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10145/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
