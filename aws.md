@@ -1532,6 +1532,7 @@ AWS
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
 * [IoT 디바이스에서 쉽고 편리하게 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/iot-device-ml-inference/)
+* [Amazon EKS기반의 Kubeflow와 Amazon EFS를 사용한 기계 학습 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-with-kubeflow-on-amazon-eks-with-amazon-efs/)
 * [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
   * "Run inference at scale"
@@ -1997,3 +1998,4 @@ AWS
 * [Guidelines for Implementing AWS WAF](https://d1.awsstatic.com/whitepapers/guidelines-implementing-aws-waf.pdf)
 * [AWS WAF – Label 을 활용한 예외 규칙의 사용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-waf-using-label-to-use-exception-rules/)
 * [AWS WAF의 도입과 운영, 무엇을 고민해야할까?. 아이디어스의 WAF 도입과 운영 과정에서 고민했던 부분을 나눠보려고… | by Jiyoung Lee | idus-Tech | Oct, 2022 | Medium](https://medium.com/idus-tech/aws-waf%EC%9D%98-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%9A%B4%EC%98%81-%EB%AC%B4%EC%97%87%EC%9D%84-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-31d88d97dbdf)
+* [AWS WAF에서 AWS 관리형 규칙의 동작을 커스터마이징하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-customize-behavior-of-aws-managed-rules-for-aws-waf/)
