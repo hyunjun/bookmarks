@@ -629,6 +629,12 @@ Book
 * [생각에 관한 생각](https://brunch.co.kr/@truese/9)
   * ★★★★☆ 2022.12.19, 22~24
   * 한라 320.4-카194새 탐라 문181.3-카213ㅅ 우당 이181.3-카213ㅅ
+* [프레임의 힘](https://www.youtube.com/watch?v=5KtWdapewmo)
+  * ★★★☆☆ 2022.12.27~28
+  * 한라 181.53-쿠878ㅍ 탐라 문181-쿠829ㅍ 우당 문181-쿠829ㅍ
+  * [프레임의 힘](https://github.com/hyunjun/bookmarks/blob/master/books/framers.md)
+  * [프레임의 힘. The Most Important Human Skill: Review… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%ED%9E%98-25629251d8e4)
+  * [프레임의 힘](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%ED%9E%98)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
