@@ -181,6 +181,7 @@ Lisp
 * [**Continuations**](https://beautifulracket.com/explainer/continuations.html)
 * [Racket 프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQ1bwcd9yNWRFN60KfKkrsS)
 * [Web Applications in Racket](https://docs.racket-lang.org/web-server/index.html)
+* [Racket: A Programming-Language Programming Language • Robby Findler • YOW! 2015 - YouTube](https://www.youtube.com/watch?v=qqeteRf2GW8)
 * [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
 * [rark - a Racket language inspired by ARc, by Kogir](https://github.com/kogir/rark)
