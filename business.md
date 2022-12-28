@@ -1613,6 +1613,7 @@ Business
 * [리더는 그때 그때 달라야 한다](https://brunch.co.kr/@wonjoonlee/10) 시기에 맞는 리더십의 변경 or 변화
 * [조직에 활력을 불어넣는 원천이 되고자 한다](https://brunch.co.kr/@graypool/698) 개인의 취향을 인정하고 스스로가 바뀌자는 이야기
 * [직장 충성도 향상을 위해 리더가 해야 할 7가지](https://brunch.co.kr/@vigorous21/118)
+* [2022년 ‘리더십’ 및 ‘팀’에 대한 성찰. 올해 1월 갑자기 임신 사실을 알았고, 출산과 육아를 하고 있다… | by Mijeong (Rachel) | Dec, 2022 | Medium](https://mjspring.medium.com/2022%EB%85%84-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B0%8F-%ED%8C%80-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B1%EC%B0%B0-b0d8ca9707f3)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
