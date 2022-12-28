@@ -2071,6 +2071,7 @@ Programming
 * [전 GitHub CTO, "지난 10년간 가장 큰 아키텍처 실수는 풀 마이크로서비스로 전환 | GeekNews](https://news.hada.io/topic?id=7839)
   * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
+* [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -5016,6 +5017,7 @@ Programming
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
+* [Mayday! Software Lessons From an Aviation Disaster • Adele Carpenter • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=IQ8RhVKJI_E)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
