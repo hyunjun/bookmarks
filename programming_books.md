@@ -2714,6 +2714,8 @@ Programming Books
   * 우당 문325.2-듀63ㅅ
 * (NOT YET) [리더는 목적을 먹고 산다](http://www.brandtimes.co.kr/news/articleView.html?idxno=2381)
   * 우당 문325.24-매829ㄹ
+* (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
+  * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 
 # Math
 
