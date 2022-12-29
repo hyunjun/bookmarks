@@ -5205,6 +5205,7 @@ Programming
 * [Test Driven Development: That’s Not What We Meant • Steve Freeman • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=yuEbZYKgZas)
 * [The 3 Types of Unit Test in TDD • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ihOUzzwPFIk)
 * [Beyond REST - Contract Testing in the Age of gRPC, Kafka & GraphQL • Matt Fellows • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ESM84C7QKl8)
+* [Testing Patience • Michael Feathers • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=vH7vVAbSE1M)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
