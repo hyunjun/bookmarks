@@ -409,6 +409,12 @@ Book
   * 탐라 개331.54-코57ㅈ 우당 문331.54-코58ㅈ
 * (NOT YET) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
   * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
+* (NOT YET) [꽃들에게 희망을](https://readbook777.tistory.com/3)
+  * 한라 아843-폴294ㄲ 우당 아843-폴233ㄲ
+* (NOT YET) [대체 뭐가 문제야](https://cskstory.tistory.com/16)
+  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
+* (NOT YET) [당신이 옳다](https://m.blog.naver.com/sugar2kk/221688363261)
+  * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
