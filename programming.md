@@ -537,6 +537,7 @@ Programming
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
 * [욕망 관리하기](https://jojoldu.tistory.com/688)
 * [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
+* [Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
