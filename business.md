@@ -648,6 +648,10 @@ Business
   * [가트너가 선정한 2027년까지 Sales에 영향을 미칠 7가지 기술 혁신들 | GeekNews](https://news.hada.io/topic?id=7787)
 * [사업개발 도대체 뭐하는 건가요?(feat.현직자 시점) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/businessdevelopment20221115) business development
 * [미래에서 현재로 역행하며 비전 세우기](https://brunch.co.kr/@graypool/709)
+* [전략과 원칙의 의미와 활용](https://brunch.co.kr/@graypool/706)
+* [목적은 믿음의 차이를 극복하는 개념](https://brunch.co.kr/@graypool/718)
+* [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
+* [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
