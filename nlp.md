@@ -679,6 +679,7 @@ NLP
   * [👀 타임라인을 휩쓴 ChatGPT 초간단 정리 올뉴레터](https://us17.campaign-archive.com/?u=c0401761242593db52d34af4c&id=2d36a2d73e)
   * [ChatGPT 만든 OpenAI를 파헤쳐 봤습니다](https://stibee.com/api/v1.0/emails/share/nYXtKpv4SkKNEnaIzA7yColNbEI6qzw=)
   * [ChatGPT가 뭔데? 사용법부터 한계까지 개념 총정리! - 아틀라스랩스 블로그 | Atlas Labs](https://blog.atlaslabs.ai/chatgpt-concept/)
+  * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
