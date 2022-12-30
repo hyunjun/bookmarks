@@ -3346,6 +3346,7 @@ Programming
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
+* [Report | SK쉴더스](https://www.skshieldus.com/kor/support/download/report.do)
 * scapy -> [network](network.md)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [sha256_project: developed for NYU Tandon's Applied Cryptography course](https://github.com/oconnor663/sha256_project)
@@ -3535,6 +3536,7 @@ Programming
   * 배포 빈도, 변경 리드 타임, 평균 복구 시간, 실패율, 안정성으로 5가지 메트릭으로 응답자를 나누었을 때 중간 그룹이 69%로 많이 증가
     * 낮은 그룹도 7%에서 19%로 증
   * 보고서 전체는 [2022 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
+* [Practical Tips & Tricks for CI/CD Success • Zan Markan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=1oJXR-rEM5Y)
 * [DevOps Bus Technology - YouTube](https://www.youtube.com/channel/UClBlu3bJiq4zn1a3Vdg0LOQ)
 * [Top 5 DevOps Skills You Need To Succeed | ReviewNPrep](https://reviewnprep.com/blog/top-5-devops-skills-you-need-to-succeed/)
 * [193 Easy Steps to DevOpsing Your Monolith • Cat Swetel • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=0YOHHTjBOgQ)
