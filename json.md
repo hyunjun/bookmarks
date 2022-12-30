@@ -135,6 +135,7 @@ Json
 * [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End - DEV](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 * [꿀벌개발일지 :: JWT 개념 이해하기](https://ohgyun.com/802)
 * [JWT는 어디에 저장해야할까? - localStorage vs cookie](https://velog.io/@0307kwon/JWT%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-localStorage-vs-cookie)
+* [Why Cookie is preferable compared to localStorage when it comes to authentication - DEV Community 👩💻👨💻](https://dev.to/leduc1901/why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb)
 * [JWT(Json Web Token) 인증 과 기존 인증방법의 비교 # 쿠키 세션](https://developer88.tistory.com/387)
 * [인증 토큰, 세션을 가장 안전하게 저장하는 방법. | 블로그 | 딩그르르](https://dingrr.com/blog/post/%EC%9D%B8%EC%A6%9D-%ED%86%A0%ED%81%B0-%EC%84%B8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [쉽게 알아보는 서버 인증 2편(Access Token + Refresh Token) — 그랩의 블로그](https://tansfil.tistory.com/59)
