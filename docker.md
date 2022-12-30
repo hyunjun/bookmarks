@@ -1584,6 +1584,8 @@ Docker
 * ["쿠버네티스(Kubernetes)를 이용한 인프라 구축 및 운영" 구성 설치부터 Tool 간단소개 - YouTube](https://www.youtube.com/watch?v=6UiHDCSiiv8)
 * [Kubernetes의 Server Side Apply란 무엇일까?](https://heumsi.github.io/blog/posts/server-side-apply-in-kubernetes/)
 * [OpenInfra & Cloud Native Days Korea 2022를 다녀왔습니다](https://engineering.linecorp.com/ko/blog/openinfra-cloud-native-days-korea-2022-recap)
+* [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://www.youtube.com/watch?v=SWD__6nhLic)
+  * [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://2022.openinfradays.kr/session/3)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1687,6 +1689,9 @@ Docker
   * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
 * [Data on Kubernetes Community](https://dok.community/)
 * Decapod [Cloud Native Infra: Project Decapod & Taco](https://github.com/openinfradev)
+* [detek: Extensible problem-detecting CLI tool for reliable Kubernetes cluster operations and rapid problem detections](https://github.com/kakao/detek)
+  * [7천개가 넘어가는 클러스터에서 쏟아지는 온콜 이슈 처리하기](https://www.youtube.com/watch?v=uPFyanT8vKA)
+    * [7천개가 넘어가는 클러스터에서 쏟아지는 온콜 이슈 처리하기](https://2022.openinfradays.kr/session/21)
 * [DevSpace - The Fastest Kubernetes Development Tool (100% open-source)](https://devspace.sh/)
   * [How to Get Started With DevSpace and Rapidly Develop Kubernetes Apps – CloudSavvy IT](https://www.cloudsavvyit.com/14690/how-to-get-started-with-devspace-and-rapidly-develop-kubernetes-apps/)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
