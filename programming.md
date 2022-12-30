@@ -148,6 +148,7 @@ Programming
 * [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
 * [**Blocking-NonBlocking-Synchronous-Asynchronous**](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
+* [**동시성, 병렬, 비동기, 논블럭킹과 컨셉들 :: BlaCk_Log**](https://black7375.tistory.com/90)
 * [Blocking I/O와 Non-blocking I/O - YouTube](https://www.youtube.com/watch?v=XNGfl3sfErc)
 * [Non-blocking I/O와 Multi-threading은 바늘과 실이다. - YouTube](https://www.youtube.com/watch?v=H01FkDtllwc)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
@@ -3042,6 +3043,7 @@ Programming
     * CI/CD 엔진인 Dagger의 GraphQL API 공개. 사실상 다른 언어의 SDK도 GraphQL API를 이용해서 Dagger 엔진 접근
   * [dagger.io | Introducing the Dagger Node.js SDK](https://dagger.io/blog/nodejs-sdk)
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
+  * [CI/CD 파이프라인 엔진 Dagger :: Outsider's Dev Story](https://blog.outsider.ne.kr/1642)
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
