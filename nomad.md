@@ -64,6 +64,7 @@ Nomad & Remote
 * [1년 간의 메타버스 근무 솔직후기(좋은 점, 아쉬운 점)](https://dataeden.tistory.com/2)
 * [해외취업(이민) 도전기 1 - 어디로 갈 것인가?](https://prelude618.tistory.com/15)
 * [해외취업(이민) 도전기 2 - 어떻게 준비할 것인가?](https://prelude618.tistory.com/16)
+* [해외취업(이민) 도전기 3 - 어떻게 계약할 것인가?](https://prelude618.tistory.com/17)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
