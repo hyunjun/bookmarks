@@ -920,6 +920,7 @@ Docker
   * 컨테이너를 관리하기 위해서 만들어졌지만
   * API를 제공해서 일관적인 사용 방법을 제공할 수 있게 되고 여기에 CRD 등 더 많은 API를 제공하면서
   * 단순히 컨테이너 관리 도구가 아니라 API를 제공하는 것이 핵심이라고 설명
+* [Flyte propeller 와 k8s CRD 상관 관계 정리 | by Ryan Kim | Dec, 2022 | Medium](https://equus3144.medium.com/flyte-lifecycle%EA%B3%BC-k8s-crd-%EC%83%81%EA%B4%80-%EA%B4%80%EA%B3%84-%EC%A0%95%EB%A6%AC-ef820ede6814)
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * [Kubernetes Tutorials | How to Deploy and Access the Kubernetes Dashboard | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=KzDBZz8lToM)
 * [Kubernetes tutorial | Kubernetes services | ports? target ports? node ports? - YouTube](https://www.youtube.com/watch?v=svjIcifW1JA)
@@ -1518,7 +1519,6 @@ Docker
 * [Kubernetes Troubleshoot Example Scenarios - YouTube](https://www.youtube.com/watch?v=d7gl5YE8OoI)
 * [Shift-Left Testing Applied to Kubernetes – The New Stack](https://thenewstack.io/shift-left-testing-applied-to-kubernetes/)
 * [Kubernetes Deployment Strategies | DevOps FAQ | DevOps DevOps Interview Q&A | #k8s - YouTube](https://www.youtube.com/watch?v=aU-EtdEOdlM)
-* [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
 * [쿠버네티스 애플리케이션에서 Bus Error (Core Dumped) 대처법 정리 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-bus-error-core-dumped-%EB%8C%80%EC%B2%98%EB%B2%95-%EC%A0%95%EB%A6%AC-55580e14e003)
 * [쿠버네티스 에러 정리 : Pod에 GPU 할당 과정에서 발생한 UnexpectedAdmissionError 해결하기 | by Ryan Kim | Jul, 2022 | Medium](https://equus3144.medium.com/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%97%90%EB%9F%AC-%EC%A0%95%EB%A6%AC-pod%EC%97%90-gpu-%ED%95%A0%EB%8B%B9-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-unexpectedadmissionerror-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-23faddea7d6c)
 * [Kubernetes에서 GPU 환경 셋업하기](https://heumsi.github.io/blog/posts/setup-gpu-env-in-k8s/)
@@ -1778,6 +1778,7 @@ Docker
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kopf: A Python framework to write Kubernetes operators in just a few lines of code](https://github.com/nolar/kopf)
+  * [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
   * [간단하게 알아보는 Kubernetes Operator의 개념과 Kopf 프레임웍](https://bcho.tistory.com/1391)
 * [Krustlet - a Kubelet written in Rust](https://krustlet.dev/)
 * [KServe: A Robust and Extensible Cloud Native Model Server – The New Stack](https://thenewstack.io/kserve-a-robust-and-extensible-cloud-native-model-server)
