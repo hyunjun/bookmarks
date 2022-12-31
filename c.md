@@ -509,6 +509,7 @@ C
 ## Library Malloc
 * [Writing a Memory Allocator – Dmitry Soshnikov](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
 * [Beyond malloc efficiency to fleet efficiency: a hugepage-aware memory allocator | USENIX](https://www.usenix.org/conference/osdi21/presentation/hunter)
+* [malloc의 size 인자값을 0으로 준다면](https://blog.junsang.dev/malloc-0/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
   * [마지막 남은 공짜 점심. Facebook의 메모리 할당자 jemalloc | kth 개발자 블로그](http://channy.creation.net/project/dev.kthcorp.com/2011/05/12/last-free-lunch-facebooks-memory-allocator-jemalloc/index.html)
 * [libpas at main · WebKit/WebKit](https://github.com/WebKit/WebKit/tree/main/Source/bmalloc/libpas)
