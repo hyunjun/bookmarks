@@ -2905,8 +2905,12 @@ Programming Books
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
 
 # Product
+* [Best Product Management Books: A visual guide. - Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
 * [제품의 탄생](https://jhrogue.blogspot.com/2022/12/blog-post.html)
   * ★★★★☆ 2022.12.29~31
+  * [제품의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/all_about_product_management.md)
+  * [제품의 탄생. 1부 성공적인 제품의 탄생 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D-f0ce38aad934)
+  * [제품의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
