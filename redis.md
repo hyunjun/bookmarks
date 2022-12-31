@@ -198,6 +198,8 @@ Redis
 # Java
 * [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
 * [Redis Cache 기능을 활용한 성능 개선 이야기 Part 2 | Recoding Life](https://jane096.github.io/project/redis-caching-part2/)
+* [Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...](https://github.com/redisson/redisson/)
+  * [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
 
 # Library
 * [dragonflydb](https://github.com/dragonflydb)
