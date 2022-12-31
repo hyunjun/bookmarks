@@ -1061,6 +1061,7 @@ Scala
       * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
     * [Day to day stuff: Speed up ZIOs with memoization](https://day-to-day-stuff.blogspot.com/2022/11/speed-up-zios-with-memoization.html)
     * [DI in Play for Scala3 with ZIO - YouTube](https://www.youtube.com/watch?v=9fr4pWIG-Tw)
+    * [Dancing with ZIO - Oto Brglez Ljubljana.tech - YouTube](https://www.youtube.com/watch?v=mVU6nyl_zWk)
     * [Python and ZIO crushed my egotism | by Jay | DataTrek | Dec, 2022 | Medium](https://medium.com/lambdaverse/python-and-zio-crushed-my-egotism-5c78b5ce4d31)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
