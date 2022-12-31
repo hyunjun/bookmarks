@@ -2905,7 +2905,8 @@ Programming Books
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
 
 # Product
-* (NOT YET) [제품의 탄생](https://jhrogue.blogspot.com/2022/12/blog-post.html)
+* [제품의 탄생](https://jhrogue.blogspot.com/2022/12/blog-post.html)
+  * ★★★★☆ 2022.12.29~31
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
