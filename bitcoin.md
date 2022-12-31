@@ -62,6 +62,7 @@ Bitcoin
 * [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
 * [Director's Decision on DID 1.0 Proposed Recommendation Formal Objections](https://www.w3.org/2022/06/DIDRecommendationDecision.html)
 * [Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
+* [신뢰하지 않을 자유](https://snack.planetarium.dev/kor/2022/12/about-trustless/) decentralization
 * [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
 * [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 * [블록체인 신흥 강자, ‘솔라나’란 무엇인가? - CIO Korea](https://www.ciokorea.com/news/247882) solana
