@@ -1546,6 +1546,7 @@ Business
     * don't be afraid and don't make others afraid
     * the winners learned a whole lot more, a whole lot better, a whole lot faster with a whole lot more duration than the losers
     * [SEE TO SOLVE – The Portable Andon Cord](https://wp.seetosolve.com/)
+* [뭘 해도 잘하는 고성과 팀 만드는 방법](https://eopla.net/magazines/1844)
 * [디지털전환기의 오너와 리더](https://brunch.co.kr/@graypool/469) 가치 집중 필요성
 * [관심을 더 기울이기보다 무관심을 철저히 경계해라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240752)
 * [뉴욕타임스 2022년 1분기 실적에서 한국 언론이 배울 점 4가지](https://mediagotosa.com/nyuyogtaimseu-1bungi-siljeogeseo-hangug-eonroni-baeul-jeom-3gaji/)
