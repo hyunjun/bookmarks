@@ -87,6 +87,7 @@
   * ["애플 앱 추적 투명성 기능 미흡" 구글, 안드로이드 개인정보 보호 기능 강화 예고 - ITWorld Korea](https://www.itworld.co.kr/news/225829)
 
 # Library
+* [Marketing Technology Landscape Supergraphic (2020): Martech 5000 - really 8,000, but who's counting? - Chief Marketing Technologist](https://chiefmartec.com/2020/04/marketing-technology-landscape-2020-martech-5000/)
 * [The Simple Guide to Building a Martech Stack](https://ahrefs.com/blog/martech-stack/)
   * [MarTech 스택 만들기 가이드 | GeekNews](https://news.hada.io/topic?id=6096)
 * Similarweb [Website Traffic - Check and Analyze Any Website | Similarweb](https://www.similarweb.com/)
