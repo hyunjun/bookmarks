@@ -2000,3 +2000,4 @@ AWS
 * [AWS WAF – Label 을 활용한 예외 규칙의 사용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-waf-using-label-to-use-exception-rules/)
 * [AWS WAF의 도입과 운영, 무엇을 고민해야할까?. 아이디어스의 WAF 도입과 운영 과정에서 고민했던 부분을 나눠보려고… | by Jiyoung Lee | idus-Tech | Oct, 2022 | Medium](https://medium.com/idus-tech/aws-waf%EC%9D%98-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%9A%B4%EC%98%81-%EB%AC%B4%EC%97%87%EC%9D%84-%EA%B3%A0%EB%AF%BC%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-31d88d97dbdf)
 * [AWS WAF에서 AWS 관리형 규칙의 동작을 커스터마이징하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-customize-behavior-of-aws-managed-rules-for-aws-waf/)
+* [AWS WAF IP 어뷰징(ddos) 차단 사례. 플랫폼개발팀은 데이터베이스, 클라우드 인프라, 미디어 인프라를 개발과… | by Gntpapa | tving.team | Dec, 2022 | Medium](https://medium.com/tving-team/aws-waf-ip-%EC%96%B4%EB%B7%B0%EC%A7%95-ddos-%EC%B0%A8%EB%8B%A8-%EC%82%AC%EB%A1%80-2cdc552b7272)
