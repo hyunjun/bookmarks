@@ -653,6 +653,8 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
+* (NOT YET) [『좋은 불평등』, 한국경제 상식을 무너뜨리는 충격적인 ‘불평등 교과서’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/257236)
+  * 한라 321.81-최44ㅈ 탐라 문321.81-최44ㅈ 우당 문321.81-최44ㅈ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
