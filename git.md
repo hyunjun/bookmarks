@@ -534,6 +534,7 @@ Git
 * [Git Commands Cookbook. In this blog, I will provide you all… | by Samarth Narula | Sep, 2022 | Medium](https://medium.com/@samarthnarula13/git-commands-cookbook-ce309de6f530)
 * [Git 200% 활용하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1743/)
 * [개발팀 퇴근시간을 앞당겨줄 Git, Github 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1796/)
+* [20 Git Commands you (probably) didn't know about 🧙♂️ - DEV Community 👩💻👨💻](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
