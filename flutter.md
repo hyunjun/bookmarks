@@ -161,6 +161,7 @@ Flutter
 * [A Flutter Package Which Will Help You to Generate Pin Code Fields](https://morioh.com/p/cbb7035b37ab)
 * [플러터(flutter) - Container와 SizedBox의 차이](https://memostack.tistory.com/188)
 * [테마를 바꿀 수 있는 계산기 만들기 (Material3)](https://velog.io/@sangh518/flutter-material3-calculator)
+* [2023년. Flutter 를 배워야하는 이유. - YouTube](https://www.youtube.com/watch?v=l05wkkCCe2Y)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
