@@ -197,18 +197,6 @@ Book
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://github.com/hyunjun/bookmarks/blob/master/books/impostor.md)
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-impostor-c5cebae9a5ae)
   * [임포스터 가면을 쓴 부모가 가면을 쓴 아이를 만든다 IMPOSTOR](https://jh4hj.tistory.com/entry/%EC%9E%84%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EB%B6%80%EB%AA%A8%EA%B0%80-%EA%B0%80%EB%A9%B4%EC%9D%84-%EC%93%B4-%EC%95%84%EC%9D%B4%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4-IMPOSTOR)
-* 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
-  * 우당 문325.555-기36ㄱ
-  * ★★★☆☆ 2022.08.06
-* [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
-  * ★★★★☆ 2022.10.31 정말 30년 가까운 한국 이커머스의 역사를 한 권으로 잘 정리했고, 이커머스의 구조에 대해서 알 수 있다. 직접 관계가 없더라도 프로덕트와 관련있는 사람이라면 읽어볼 가치가 있다.
-  * 탐라 문325.555-이39대
-* [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://brunch.co.kr/@planetraveler/89)
-  * 한라 325.19-이45ㅅ 탐라 문325.19-이45ㅅ 우당 문325.19-이45ㅅ
-  * ★★☆☆☆ 2022.08.08 디자인씽킹을 몰라서 그런지 모르겠지만 스타벅스의 (대부분은 성공인) 사례를 잘 이야기했을 뿐 특별히 디자인씽킹을 배우거나 알 수 있는 책은 아니란 생각
-  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://github.com/hyunjun/bookmarks/blob/master/books/starbucks.md)
-  * [스타벅스 커피 스타벅스 은행 스타벅스 코인. 디자인을 하는 과정에서 거치는 생각 방식인 디자인씽킹 Design… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8-7cb23cee950)
-  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8)
 * [축적의 시간 서울공대 26명의 석학이 던지는 한국 산업의 미래를 위한 제언](https://blog.naver.com/airline36/221228452846)
   * ★★★☆☆ 2022.08.13
   * 한라 323.0911-서66ㅊ 탐라 문323.0911-서66ㅊ 우당 문323.0911-서67ㅊ
@@ -249,12 +237,6 @@ Book
   * ★★★☆☆ 2022.11.06
   * 탐라 문573.2-정17ㄴ
   * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
-* [픽사스토리텔링, 9가지 이야기 법칙](https://thankyoubk.com/entry/%ED%94%BD%EC%82%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-9%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%95%EC%B9%99)
-  * ★★★☆☆ 2022.11.06
-  * 한라 325.1-룬33ㅍ-2 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
-  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://github.com/hyunjun/bookmarks/blob/master/books/pixar_storytelling.md)
-  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙. 위대한 스토리는 위대한 소설이나 연극,영화, TV에만 필요한 것이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99-c50946f032a6)
-  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://jh4hj.tistory.com/entry/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99)
 * [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
   * ★★★☆☆ 2022.11.13
   * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
@@ -273,12 +255,12 @@ Book
 * 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
   * ★★★☆☆ 2022.12.24 조력사 경험 후 기독교인이 되었다는 Part II 이야기에 꼭 그럴 수 밖에 없는 건가? 하는 의문이 가시지는 않지만 Part I은 굉장히 좋았음
   * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
-* [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
-  * ★★★★☆ 2022.12.26
-  * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
-  * [역설계](https://github.com/hyunjun/bookmarks/blob/master/books/decoding_greatness.md)
-  * [역설계. Decoding Greatness Book | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%97%AD%EC%84%A4%EA%B3%84-8e1dfdabdcd4)
-  * [역설계](https://jh4hj.tistory.com/entry/%EC%97%AD%EC%84%A4%EA%B3%84)
+* [Humans of New York](https://www.humansofnewyork.com/)
+  * [휴먼스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298205350)
+    * ★★★★☆ 2022.12.31~2023.01.01 별 이야기 아닌데도 담담하게, 하지만 내 삶에 대해 잠시나마 감사할 수 있게 하는 여러 사람들
+    * 한라 660.4-스883ㅎ 우당 환경660.4-스832ㅎ
+  * [휴먼스 오브 뉴욕](https://blog.naver.com/seasonsinthelife/220882604668)
+    * 한라 668.5-스883ㅎ 탐라 개668.5-스884ㅎ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -572,6 +554,30 @@ Book
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
 # Business
+* 기묘한 이커머스 이야기 [드디어 책이 나왔습니다!](https://brunch.co.kr/@trendlite/197)
+  * 우당 문325.555-기36ㄱ
+  * ★★★☆☆ 2022.08.06
+* [대한민국 이커머스의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301818064)
+  * ★★★★☆ 2022.10.31 정말 30년 가까운 한국 이커머스의 역사를 한 권으로 잘 정리했고, 이커머스의 구조에 대해서 알 수 있다. 직접 관계가 없더라도 프로덕트와 관련있는 사람이라면 읽어볼 가치가 있다.
+  * 탐라 문325.555-이39대
+* [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://brunch.co.kr/@planetraveler/89)
+  * 한라 325.19-이45ㅅ 탐라 문325.19-이45ㅅ 우당 문325.19-이45ㅅ
+  * ★★☆☆☆ 2022.08.08 디자인씽킹을 몰라서 그런지 모르겠지만 스타벅스의 (대부분은 성공인) 사례를 잘 이야기했을 뿐 특별히 디자인씽킹을 배우거나 알 수 있는 책은 아니란 생각
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://github.com/hyunjun/bookmarks/blob/master/books/starbucks.md)
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인. 디자인을 하는 과정에서 거치는 생각 방식인 디자인씽킹 Design… | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8-7cb23cee950)
+  * [스타벅스 커피 스타벅스 은행 스타벅스 코인](https://jh4hj.tistory.com/entry/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%9D%80%ED%96%89-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%EC%BD%94%EC%9D%B8)
+* [픽사스토리텔링, 9가지 이야기 법칙](https://thankyoubk.com/entry/%ED%94%BD%EC%82%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-9%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%B2%95%EC%B9%99)
+  * ★★★☆☆ 2022.11.06
+  * 한라 325.1-룬33ㅍ-2 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://github.com/hyunjun/bookmarks/blob/master/books/pixar_storytelling.md)
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙. 위대한 스토리는 위대한 소설이나 연극,영화, TV에만 필요한 것이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99-c50946f032a6)
+  * [픽사 스토리텔링 고객의 마음을 사로잡는 9가지 스토리 법칙](https://jh4hj.tistory.com/entry/%ED%94%BD%EC%82%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81-%EA%B3%A0%EA%B0%9D%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%82%AC%EB%A1%9C%EC%9E%A1%EB%8A%94-9%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B2%95%EC%B9%99)
+* [역설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300905900&start=slayer)
+  * ★★★★☆ 2022.12.26
+  * 탐라 문325.211-프239ㅇ 우당 문325.211-프239ㅇ
+  * [역설계](https://github.com/hyunjun/bookmarks/blob/master/books/decoding_greatness.md)
+  * [역설계. Decoding Greatness Book | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%97%AD%EC%84%A4%EA%B3%84-8e1dfdabdcd4)
+  * [역설계](https://jh4hj.tistory.com/entry/%EC%97%AD%EC%84%A4%EA%B3%84)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
