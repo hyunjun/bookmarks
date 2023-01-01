@@ -3405,6 +3405,9 @@ Programming Books
   * [KODE VICIOUS](https://jh4hj.tistory.com/entry/KODE-VICIOUS)
 * 피플웨어 [IT 프로젝트 관리와 팀워크 구축에 관한 통찰, 『피플웨어』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/07/04/it-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ea%b4%80%eb%a6%ac%ec%99%80-%ed%8c%80%ec%9b%8c%ed%81%ac-%ea%b5%ac%ec%b6%95%ec%97%90-%ea%b4%80%ed%95%9c-%ed%86%b5%ec%b0%b0-%e3%80%8e%ed%94%bc%ed%94%8c%ec%9b%a8/)
   * ★★★★☆ 2022.12.29
+  * [피플웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/peopleware.md)
+  * [피플웨어. 사람은 어지간해서 잘 바뀌지 않으니까. | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4-e48ae999dd08)
+  * [피플웨어](https://jh4hj.tistory.com/entry/%ED%94%BC%ED%94%8C%EC%9B%A8%EC%96%B4)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
