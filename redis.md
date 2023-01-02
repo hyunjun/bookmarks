@@ -64,6 +64,7 @@ Redis
   * [입 개발 Redis LRU(Least Recently Used Algorithm)에 대해서 | Charsyam's Blog](https://charsyam.wordpress.com/2022/01/28/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-lruleast-recently-used-algorithm%ec%97%90-%eb%8c%80%ed%95%b4%ec%84%9c/)
   * [입 개발 Redis 지표 중에 instantaneous 정보들은 어떤걸까? | Charsyam's Blog](https://charsyam.wordpress.com/2022/08/07/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A7%80%ED%91%9C-%EC%A4%91%EC%97%90-instantaneous-%EC%A0%95%EB%B3%B4%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B1%B8%EA%B9%8C/)
   * [Redis-Finda-Public - Google Slides](https://docs.google.com/presentation/d/1CBWy04mc4pKyhDp2S5rVKOPZbIc5FCsNFbm5s5NgG8c/edit)
+  * [입 개발 분산 락에 대해서… | Charsyam's Blog](https://charsyam.wordpress.com/2022/12/31/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EB%B6%84%EC%82%B0-%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
@@ -199,6 +200,7 @@ Redis
 * [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
 * [Redis Cache 기능을 활용한 성능 개선 이야기 Part 2 | Recoding Life](https://jane096.github.io/project/redis-caching-part2/)
 * [Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...](https://github.com/redisson/redisson/)
+  * [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
   * [레디스와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html)
 
 # Library
@@ -241,8 +243,6 @@ Redis
   * [RedisTimeSeries - Time-Series data structure for Redis](https://oss.redislabs.com/redistimeseries/)
 * RedisRaft [Jepsen report on RedisRaft – The Last Mind](http://blog.lastmind.io/archives/932)
 * [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
-* [redisson: Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...](https://github.com/redisson/redisson)
-  * [Redisson 분산락을 이용한 동시성 제어](https://velog.io/@hgs-study/redisson-distributed-lock)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
 * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)
