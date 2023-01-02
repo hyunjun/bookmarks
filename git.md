@@ -1110,6 +1110,13 @@ Git
       * 잘못된 코드의 생산으로 오픈소스 생태계에 장기적으로 안 좋은 영향을 줄 수 있다고 하며
       * 사용자들의 의견과 제보를 받고 있음
   * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
+  * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+    * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
+    * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
+    * Copilot 모델에 보낼 프롬프트를 만들 때 접두사와 접미사를 통해 다른 파일에서 비교할 정보를 보내서 정확도를 향상
+    * 모델을 호출할 때 도움이 되지 않는 완성은 호출되지 않도록 하고 어떤 텔레메트리가 수집되는지를 살펴봄
+    * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
+    * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
