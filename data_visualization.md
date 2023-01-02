@@ -540,6 +540,7 @@ Data Visualization
 * [한/글 표로 차트 그리기(확산형 누적막대)](https://employeecoding.tistory.com/372)
 * [colorsys - Conversions between Color Systems | Pega Devlog](https://jehyunlee.github.io/2022/01/04/Python-DS-95-tiger/)
 * [gravity | Pega Devlog](https://jehyunlee.github.io/2022/01/13/Python-Physics-1-gravity/)
+* [Impact of RPA | Pega Devlog](https://jehyunlee.github.io/2023/01/01/Python-DS-125-rpa/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries](https://github.com/marceloprates/prettymaps)
