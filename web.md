@@ -1669,6 +1669,16 @@ Web
 * [WebAssembly: The Path to Components - YouTube](https://www.youtube.com/watch?v=DkpNqcfuPOM)
 * [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
 * [Matt Butcher on Web Assembly as the Next Wave of Cloud Computing - YouTube](https://www.youtube.com/watch?v=0Co2tBshrSg)
+* [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+  * [웹어셈블리에서 자바스크립트를 빠르게 실행하는 방법 | bohyeon.dev](https://ktseo41.github.io/blog/log/making-javascript-run-fast-on-webassembly.html)
+    * 브라우저 밖에서 자바스크립트를 실행하려면
+      * JS 엔진을 WASM 모듈로 배포할 수 있고
+      * Firefox에서 사용하는 SpiderMonkey를 사용해서 실행되도록 했는데
+    * 웹어셈블리는 JIT 컴파일을 할 수 없어서 인터프리터만 사용할 수 있기 때문에 속도가 느렸다
+      * 그럼에도 필요한 상황이 있는데 iOS나 스마트 티브이 등 JIT가 제한된 환경이나 서버리스 환경 등이 있다
+    * JS 엔진은 크게 초기화와 런타임 작업이 있는데 Wizer라는 도구를 통해
+      * Wasm에서의 JS 초기화 시간을 13배 빠르게 하고 AOT로 스루풋을 개선하는 등의 작업을 설명
+    * WASM으로 어떤 시도를 하는지 살펴볼 수 있다
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
