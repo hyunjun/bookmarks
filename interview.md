@@ -436,6 +436,7 @@ Interview
     * [System Design: Messenger service like Whatsapp or WeChat - Interview Question](https://www.youtube.com/watch?v=5m0L0k8ZtEs)
     * [WhatsApp System Design | FB Messenger System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
     * [Ace the System Interview— Design a Chat Application | by Zixuan Zhang | Towards Data Science](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)
+    * [카카오톡 시스템 디자인 | WebSocket | 메시지 큐 | SQL vs NoSQL - YouTube](https://www.youtube.com/watch?v=VODXNECZOBQ)
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
