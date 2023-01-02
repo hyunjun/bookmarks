@@ -932,6 +932,11 @@ Java
 * [Everything you need to know about OpenJDK’s move to Git and GitHub](https://blogs.oracle.com/javamagazine/openjdk-mercurial-git-github)
 * [Which Version of JDK Should I Use? | whichjdk.com](http://whichjdk.com/)
   * [어떤 버전의 JDK를 써야 할까? | GeekNews](https://news.hada.io/topic?id=5183)
+* [OpenJDK Proposes Project Galahad to Merge GraalVM Native Compilation](https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/)
+  * OpenJDK에서 GraalVM 커뮤니티 에디션의 코드베이스 중 일부를 OpenJDK에 합치도록 코드네임 Galahad 프로젝트 제안
+  * GraalVM은 성공적인 프로젝트이지만 OpenJDK와는 독립된 프로젝트로 진행
+    * Graal 컴파일러와 관련된 몇 가지 JEP는 OpenJDK 코드베이스에 들어왔었다
+  * Galahad는 JDK 20을 첫 기준으로 삼고 있고 GraalVM JIT 컴파일러에 기여해서 이를 C2에 통합하는 데 집중할 것이라고 함
 * [Adoptium - Open source, prebuilt OpenJDK binaries](https://adoptium.net/)
   * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
