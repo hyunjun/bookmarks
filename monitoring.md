@@ -200,6 +200,13 @@ Monitoring
   * [The Future of Observability with OpenTelemetry](https://go.lightstep.com/rs/260-KGM-472/images/oreilly-opentelemetry-lightstep.pdf)
   * [Observability Powered by SQL: Understand Your Systems Like Never Before With OpenTelemetry Traces and PostgreSQL](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/)
   * [OpenTelemetry on Kubernetes. In a previous article A beginner’s… | by Magsther | Aug, 2022 | Medium](https://medium.com/@magstherdev/opentelemetry-on-kubernetes-c167f024b35f)
+  * [A beginner’s guide to OpenTelemetry | by Magsther | FAUN Publication](https://faun.pub/opentelemetry-d71d369c83d7)
+    * 애플리케이션의 트레이싱 데이터를 추적할 수 있게 해주는 Open Telemetry에 관해 설명
+    * OpenTelemetry는 특정 벤더에 의존하지 않고 어떤 언어에서도 사용할 수 있고 스토리지를 선택적으로 사용 가능
+    * OpenTelemetry를 쓰려면 SDK로 애플리케이션을 인스트루먼트 해야 하는데
+      * 자동 인스트루먼트(auto-instrumentation)을 사용하면 코드를 거의 수정하지 않고 사용 가능
+      * 수동 인스트루먼트는 특정 코드를 앱에 추가해야 하므로 더 효과적으로 요구사항에 맞출 수 있음
+    * 생성된 데이터는 OpenTelemetry 컬렉터에 보내지는데 리시버, 익스포터, 스토리지 등 OpenTelemetry의 기본적인 구성 요소에 관해 알 수 있음
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 
 # Prometheus
