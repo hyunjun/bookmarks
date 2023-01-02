@@ -227,6 +227,11 @@ Programmer
 * [Curated paths for developers | pathify](https://pathify.dev/)
 * [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
 * [한기용 - 승진, 커리어](https://www.linkedin.com/posts/activity-6976585732786176001-6ALl/)
+* [프론트엔드 엔지니어 커리어 로드맵: 주니어를 위한 3가지 전문성 트랙](https://steady-study.super.site/frontend-engineer-career-roadmap)
+  * 프론트엔드 엔지니어의 커리어 성장과 관련해서 여러 사람과 얘기해 보면서 생각 정리
+  * 로드맵에 대한 글이나 다이어그램이 꽤 있는데 이 글은 오랫동안 고민하고 공부한 티가 날 정도로 잘 정리
+  * 탁월한 엔지니어는 "좋은 코드를 짜고" "작업의 현재 가치를 극대화하고" "데이터 기반으로 의사결정을 하고" "동료의 효과적 의사결정을 도우며" "꾸준히 학습"한다
+  * 탁월한 프론트 엔지니어를 웹 특화, 제품 특화, 운영 특화로 나누어서 어떤 특징이 있고 어떤 역량이 필요한지를 정리
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
