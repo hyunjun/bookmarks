@@ -961,6 +961,8 @@ Book
 * (NOT YET) [폭풍 전의 폭풍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=201299176)
 * (NOT YET) [병자호란, 홍타이지의 전쟁](https://blog.naver.com/mkparang/221787988183)
   * 한라 911.0557-구44ㅂ 우당 문911.0557-구43ㅂ
+* (NOT YET) [눈에 보이지 않는 지도책 (제임스 체셔, 올리버 우버티 著, 송예슬 譯, 2022)](https://jehyunlee.tistory.com/53)
+  * 한라 989-체54ㄴ 탐라 문989-체54ㄴ 우당 문989-체54ㄴ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
