@@ -2196,6 +2196,19 @@ Business
 * [두 회사의 이야기 – part.1(Recomio)](https://www.thestartupbible.com/2016/01/tale-of-two-startups-part-one-recomio.html)
 * [두 회사의 이야기 – part.2(한인텔)](https://www.thestartupbible.com/2016/01/a-tale-of-two-startups-part-two-hanintel.html)
 * [수 많은 반대에도 불구하고, 좋은 제품과 회사를 만드는 방법 (Drew Houston -- Dropbox CEO) - YouTube](https://www.youtube.com/watch?v=eN0RB0SYGhA)
+* [슬랙이 1년만에 1조 가치의 회사가 된 10가지 비결](https://brunch.co.kr/@taewookim/49)
+  * 원문은 지워졌고 2015년에 작성된 글
+    * 7년이 지난 슬랙의 성공을 이미 알고 있어서 더 재미있게 읽을 수 있음
+  * Slack을 만들었을 당시에는 업무용 그룹 채팅의 개념이 별로 없었기 때문에 시장을 직접 만들어야 했고 제품이 아니라 혁신을 판다고 강조
+  * 핵심 특징을 완벽하게 만드는 데 집중해서 오히려 사용자는 약점을 느끼지 못하게 만들었고 초기 사용자로부터 피드백을 받아서 이를 빠르게 처리하려고 노력하면서 입소문
+  * Slack의 매직 넘버는 2,000으로 2,000번 이상의 메시지를 보낸 사용자는 계속 사용
+* [무엇이 Tinder를 폭발적으로 성장시켰을까?](https://brunch.co.kr/@taewookim/50)
+  * Tinder의 성장 과정을 설명한 글로 2015년에 작성된 글을 다시 올린 것이라 2015년 상황을 감안해서 읽기 필요
+  * match.com의 모회사인 IAC에서 시작되어 일반 스타트업과는 달랐고
+    * 여성을 유입시켜서 남성을 유입시키고
+    * 대학 클럽 시스템을 이용해서 입소문을 통해서 성장
+  * 스와이프와 게이미피케이션 요소를 통해서 데이팅 앱의 새로운 경험을 제공
+    * 이후 데이팅 목적 외에도 Tinder를 사용할 수 있는 기능을 제공
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
