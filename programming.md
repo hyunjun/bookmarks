@@ -2129,6 +2129,7 @@ Programming
     * Ambient mesh는 Kubernetes 클러스터의 각 노드에 zero-trust tunnel(ztunnel) 사용
       * ztunnel에서 mTLS, 텔레메트리, 인증, L4 인가 등을 지원
     * L7 기능이 필요하면 Envoy 기반의 waypoint 프락시를 사용해서 L7 처리 기능 제공
+  * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
 * [kong: 🦍 The Cloud-Native API Gateway](https://github.com/Kong/kong)
   * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
   * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
