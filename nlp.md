@@ -917,6 +917,7 @@ NLP
   * [CS224n: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
   * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
+  * [한글자막 Introduction and Welcome Stanford CS224U Natural Language Understanding Spring 2021 - YouTube](https://www.youtube.com/watch?v=rM1MZNxW2Ls)
 * [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
 * [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
