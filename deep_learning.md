@@ -2721,6 +2721,7 @@ CVPR2016)
   * [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
 * [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS | LAION](https://laion.ai/blog/laion-5b/)
 * [Lexica](https://lexica.art/)
+* [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
 * [stable diffusion 2.0 코랩+그라디오 웹앱으로 만들어보기 - YouTube](https://www.youtube.com/watch?v=HgKuI-Ye0YI)
