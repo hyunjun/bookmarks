@@ -194,6 +194,9 @@ Programming Books
   * [밑바닥부터 만드는 컴퓨팅 시스템](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_elements_of_computing_systems.md)
   * [밑바닥부터 만드는 컴퓨팅 시스템. Home | nand2tetris | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-464662b82389)
   * [밑바닥부터 만드는 컴퓨팅 시스템](https://jh4hj.tistory.com/entry/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+* [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
+  * ★★★☆☆ 2023.01.03
+  * 한라 005.11-박73ㅅ 우당 문005.104-박72ㅅ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -214,8 +217,6 @@ Programming Books
   * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [Linkedin 링크드인 취업혁명](https://blog.naver.com/netspee/222904944527)
 * (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
-* (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
-  * 한라 005.11-박73ㅅ 우당 문005.104-박72ㅅ
 * (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기 | 에이콘출판사](http://acornpub.co.kr/book/introduction-jvm)
   * 한라 005.133-렌48ㅈ
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
