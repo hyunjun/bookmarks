@@ -2,6 +2,22 @@ Comic Agile
 ===========
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
 
+* [Team Problems – Comic Agilé](https://www.comicagile.net/comic/team-problems-2/)
+  * 그래서, 당신 팀은 어떻게 되가고 있나요?
+  * 사실 그리 좋진 않아요. 팀에 몇 가지 문제들이 진행중이네요.
+    * 뭐가 있을까요?
+  * 음, 스프린트 플래닝 전에 적절하게 업무를 정의하는 거나, 리뷰 때 고객들에게서 어떤 유용한 피드백을 얻고, 쓸만한 DoD에 합의하는 등이요
+    * 이런 문제들의 원인이 뭘까요?
+  * … 이건 COVID-19 때문에 원격 근무를 하기 때문이지요.
+  * Authors’ comments:
+    * 대부분 그렇듯 팀이 흩어져 있다는 사실을 부진한 팀웍에 대한 변명으로 사용하지 마십시오.
+    * 아무도 실제로 만날 수 없는 이런 시기에, 애자일 팀의 팀 정신을 만들고 유지하는 건 훨씬 중요합니다.
+    * 미로, 줌, 슬랙, 팀즈, 스카이프, 혹은 뭐가 되건 적절한 온라인 도구를 사용할 수 있습니다.
+    * 하지만, 적합한 온라인 도구를 갖는 건 절반의 해답일 뿐입니다. "분산된 함께하기"를 연습하는 게 (대부분의) 나머지 절반입니다.
+    * 이걸 하는 방법은 함께 앉기를 시뮬레이션하고 팀 정신을 고양시키고 즐거움을 함께 갖기 위해 자주 가상의 게임 세션을 조율하고, 특정 동료들과 온라인으로 이런 가치있는 즉석 대화를 계획해서 지속적으로 열린 대화를 하는 채널을 근무시간 동안 모든 구성원들과 갖는 걸 포함합니다.
+    * 그래서 만약 당신이 스크럼 마스터나 애자일 코치라면, 이제 정말 한 단계 발전할 시기이므로, 이런 어려운 시기 조차도 팀이 발전할 수 있게 도와주세요.
+  * [#11 — Team problems - Jun - Medium](https://nymets.medium.com/11-team-problems-208d5506ef3a)
+  * [#11 - Team problems -](https://jh4hj.tistory.com/entry/11-Team-problems)
 * [The Scaling Agile Showdown – Comic Agilé](https://www.comicagile.net/comic/the-showdown/)
   * 랩 형식을 빌려 운율을 맞춰서 번역하기 어렵기도 하고 맛을 살리기엔 내가 너무 부족함
   * The Shelter는 디트로이트의 공연장 https://en.wikipedia.org/wiki/The_Shelter_(Detroit)
