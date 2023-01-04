@@ -113,6 +113,7 @@
 
 # Conference Meetup
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
+* [.NET Conf 2023 x Seoul](https://www.dotnetconf.kr/2023)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
   * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
   * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
