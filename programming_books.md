@@ -406,6 +406,9 @@ Programming Books
   * 탐라 문005.104-산27ㅅ 우당 문004-만827ㅅ
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
   * [오너프로그래머 #11 소프트웨어 장인과 프로그래머](https://blog.naver.com/birdparang/222812501674)
+  * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md)
+  * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심. Part 1 이념과 태도 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%84%90%EB%A6%AC%EC%A6%98-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-112f9097520a)
+  * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%84%90%EB%A6%AC%EC%A6%98%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%EC%9E%90%EB%B6%80%EC%8B%AC)
 * [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * ★★★☆☆ 2022.10.06~07
   * 탐라 문325.211-벤58ㅍ
