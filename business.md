@@ -2322,6 +2322,7 @@ Business
 * [서비스 이용자에게 꼭 필요한 나침반, '내비게이션'은 어떻게 기획해야 할까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/navigation20221125)
 * [중고거래 검색 필터 사용성 개선하기. 안녕하세요, 검색모델러 Aiden(에이든)이에요. | by Jukyoung LEE | 당근마켓 팀블로그 | Dec, 2022 | Medium](https://medium.com/daangn/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EA%B2%80%EC%83%89-%ED%95%84%ED%84%B0-%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-71c9e000cfa3)
 * [만드는 사람이 수고로운 UX 개발기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10145/)
+* [공상과학 UX (feat. 애플처럼 만들어주세요)](https://brunch.co.kr/@fbrudtjr1/60)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
