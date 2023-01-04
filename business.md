@@ -1739,6 +1739,7 @@ Business
 * [OKR의 오용과 경영의 가치](https://brunch.co.kr/@graypool/663)
 * [책으로 독학한 OKR이 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213815)
 * [WBS를 조심하세요](https://brunch.co.kr/@jinhoyooephf/26)
+* [구글의 OKR을 어떻게 우리회사에? 1/2](https://brunch.co.kr/@se8040/9)
 
 # Patent
 * 세기의 특허전쟁
@@ -1758,6 +1759,7 @@ Business
 * [넓은 관점에서 보는 피플 애널리틱스의 현황과 마이크로소프트의 사례 < 특집 < 기사본문 - 월간 인재경영](http://www.abouthr.co.kr/news/articleView.html?idxno=4809)
 * [피플 애널리틱스의 숨은 영웅 : 데이터 가공과 표준화](https://www.hrinsight.co.kr/view/view.asp?in_cate=112&gopage=1&bi_pidx=33170)
 * [공정하고 설득력있는 의사결정을 도와주는 피플 애널리틱스](https://brunch.co.kr/@clap/9)
+* [HR Breakdown - The Employee Communication Platform](https://www.workvivo.com/hr-breakdown/)
 
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
