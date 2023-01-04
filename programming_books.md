@@ -200,6 +200,9 @@ Programming Books
 * [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
   * ★★★☆☆ 2023.01.03
   * 한라 325.04-김94실 탐라 문325.04-김94ㅅ 우당 문325.04-김94ㅅ
+  * [실리콘밸리를 그리다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/silicon_valley_illustrated.md)
+  * [실리콘밸리를 그리다. Over communication is always better… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8B%A4-e6e46e63af29)
+  * [실리콘밸리를 그리다](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8B%A4)
 * [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
   * ★★★☆☆ 2023.01.03~04 내용이 안 좋아서가 아니라 대부분 아는 이야기여서 큰 감흥은 없었지만 후반부의 자세한 생활에 대한 설명 부분이 (비록 몇 년 지나 디테일은 다르겠으나) 좋았음
   * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
