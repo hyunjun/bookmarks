@@ -197,6 +197,12 @@ Programming Books
 * [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
   * ★★★☆☆ 2023.01.03
   * 한라 005.11-박73ㅅ 우당 문005.104-박72ㅅ
+* [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
+  * ★★★☆☆ 2023.01.03
+  * 한라 325.04-김94실 탐라 문325.04-김94ㅅ 우당 문325.04-김94ㅅ
+* [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
+  * ★★★☆☆ 2023.01.03~04 내용이 안 좋아서가 아니라 대부분 아는 이야기여서 큰 감흥은 없었지만 후반부의 자세한 생활에 대한 설명 부분이 (비록 몇 년 지나 디테일은 다르겠으나) 좋았음
+  * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -211,10 +217,6 @@ Programming Books
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
   * 한라 004.588-아52ㄱ
-* (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
-  * 한라 325.04-김94실 탐라 문325.04-김94ㅅ 우당 문325.04-김94ㅅ
-* (NOT YET) [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
-  * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
 * (NOT YET) [Linkedin 링크드인 취업혁명](https://blog.naver.com/netspee/222904944527)
 * (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
 * (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기 | 에이콘출판사](http://acornpub.co.kr/book/introduction-jvm)
@@ -2499,6 +2501,7 @@ Programming Books
   * [실리콘밸리에선 어떻게 일하나요](https://github.com/hyunjun/bookmarks/blob/master/programming_books/how_to_work_in_silicon_valley.md)
   * [실리콘밸리에선 어떻게 일하나요. 1 BOTTOM-UP CULTURE 가까운 사람의 책임이 더 크다 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-ef1ce9721500)
   * [실리콘밸리에선 어떻게 일하나요](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%A0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94)
+  * [리더들이 피드백할 때 많이 하는 실수 2가지](https://www.linkedin.com/posts/%EC%9D%80%EB%B9%84-%EC%B0%A8-291b95250_%EB%A9%94%ED%83%80%EC%97%90%EC%84%9C-10%EB%85%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%ED%8C%80%EC%9E%A5%EC%9D%B4-%EB%A7%90%ED%95%98%EB%8A%94-%EC%84%B1%EA%B3%BC-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%A9%EB%B2%95-%EA%B0%80%EC%9D%B8%EC%A7%80%EC%BA%A0%ED%8D%BC%EC%8A%A4-activity-7015997439849500672-OmJC/)
 * [피플 애널리틱스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301198868)
   * ★★★☆☆ 2022.12.24~25
   * 탐라 문325.3-페231ㅍ
