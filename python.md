@@ -1571,6 +1571,7 @@ Python
 * [asyncio 뽀개기 1 - Coroutine과 Eventloop](https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/)
 * [asyncio 뽀개기 2 - Future의 활용](https://tech.buzzvil.com/blog/asyncio-no-2-future/)
 * [asyncio 뽀개기 3 - SIGTERM (CTRL+C) 올바르게 처리하기](https://tech.buzzvil.com/blog/asyncio-no-3-sigterm/)
+* [Python asyncio를 활용한 효율적인 광고 데이터 수집 | MADTECH](https://tech.madup.com/python-asyncio-intro/)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
