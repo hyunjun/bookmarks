@@ -125,6 +125,7 @@ Programming
 * [Twenty Years of Patterns’ Impact](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6648592) celebrates the 20th year of software patterns
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [BDD? SDD? 팀 프로젝트 다같이 개발설계하는 방법](https://velog.io/@teo/behavior-driven-development-schema-driven-development) design
+* [The Lost Art of Software Design • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=gNj8I4uSTgc)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -1023,7 +1024,7 @@ Programming
   * [Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드 | GeekNews](https://news.hada.io/topic?id=7248)
 
 # Architecture, Modelling, Layer, Framework, ...
-* [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
+* [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/agoda/agoda_design.md)
 * [**10가지 소프트웨어 아키텍쳐 패턴 요약**](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
@@ -4803,6 +4804,7 @@ Programming
   * [노코드 툴 버블로 클론코딩 (CLONE NO-CODING with bubble.io) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1NOBaYavRaztP2Yvhp6mk2)
   * [버블 제작 프로덕트 아카이빙](https://wooden-temple-2b2.notion.site/fcf109d580b344d98103b33da9c15470)
 * [Figstack | Disquiet\*](https://disquiet.io/product/figstack) 코드를 영어로 또는 다른 개발 언어로 번역해주는 개발자 도구
+* [Google AppSheet | Build apps with no code](https://about.appsheet.com/home/)
 * [Hola | Disquiet\*](https://disquiet.io/product/hola) 개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
   * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
