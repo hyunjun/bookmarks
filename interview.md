@@ -631,6 +631,7 @@ Interview
 * [How does gRPC work?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6995426338186665985-ib1-/)
 
 # Book
+* [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
 * [8 Best System Design and Software Design Books for Programmers | by javinpaul | Javarevisited | Sep, 2022 | Medium](https://medium.com/javarevisited/8-best-system-design-and-software-design-books-for-programmers-be54cb313106)

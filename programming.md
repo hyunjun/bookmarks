@@ -645,6 +645,8 @@ Programming
     * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
 
 # Agile, Scrum
+* book
+  * [소프트웨어 장인 CHAPTER 2 애자일](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-2-%EC%95%A0%EC%9E%90%EC%9D%BC)
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense)
@@ -4947,6 +4949,8 @@ Programming
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
+* book
+  * [소프트웨어 장인 CHAPTER 6 동작하는 소프트웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-6-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
 * [**장애는 ‘우리의 문제’다 | Popit**](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/) 기술적인 내용은 아니나 매우 중요한 부분
 * [기술 부채는 무엇인가?](https://brunch.co.kr/@graypool/673) 기술부채는 개발만이 아니라 회사 전체의 문제(원인도)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
@@ -5042,6 +5046,8 @@ Programming
   * [Shape Up : 한국어 요약. by 서형일, 와이즐리 웹 프로덕트 팀 리더 | by 느린 저울 | Medium](https://medium.com/@slow_scale/shape-up-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%9A%94%EC%95%BD-e6436f6eba8a)
 
 # TDD, Test
+* book
+  * [소프트웨어 장인 CHAPTER 6 동작하는 소프트웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-6-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
   * [TDD는 죽었는가?](http://jinson.tistory.com/271)
 * [TDD 예제(점진적으로 설계하기](http://newy.tistory.com/entry/post-1)

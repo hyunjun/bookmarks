@@ -202,6 +202,7 @@ Programmer
 * [프로그래머로 산다는 것 - Google Slides](https://docs.google.com/presentation/d/1e1c0eyB1zYZFZyr4eIl0LSfhrp6SI9N_zy0ZIrZ4fVM/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 
 # Book
+* [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
 * [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
 
@@ -241,6 +242,8 @@ Programmer
 * [한기용 - 컨설팅 경험](https://www.linkedin.com/feed/update/urn:li:activity:6966791695581556736/)
 
 # Cultuer, Team
+* book
+  * [소프트웨어 장인 CHAPTER 13 배움의 문화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-13-%EB%B0%B0%EC%9B%80%EC%9D%98-%EB%AC%B8%ED%99%94)
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
 * [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
 * [Habits of High-Functioning Teams](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html)
