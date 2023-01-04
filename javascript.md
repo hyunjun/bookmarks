@@ -1644,6 +1644,7 @@ Javascript
 * [I Would Never Use an ORM, by Matteo Collina - YouTube](https://www.youtube.com/watch?v=qfRQ5zhYuJE)
 * [How to write your own state management library · Jude Hunter](https://judehunter.dev/blog/how-to-write-your-own-state-management-library)
   * [(번역) 자신만의 상태 관리 라이브러리를 작성하는 방법](https://velog.io/@lky5697/how-to-write-your-own-state-management-library)
+* [These frameworks broke front-end development - YouTube](https://www.youtube.com/watch?v=I2NzfOOI7xY) svelte, qwik city, solid start
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -4607,6 +4608,7 @@ Javascript
   * [React Form 컴포넌트 개발기](https://tech.inflab.com/202207-rallit-form-refactoring/colocation/)
 * [react-hookz](https://github.com/react-hookz)
   * [React의 맥가이버, react-use, react-hookz! - DEV Community](https://dev.to/composite/reactyi-maeggaibeo-react-use-react-hookz-57hm)
+* [react-hot-loader란?](https://egas.tistory.com/148)
 * [Reactime - Time Traveling State Debugger — Reactime — Now Supporting Concurrent Mode, Routers, and more](https://blog.usejournal.com/time-traveling-state-debugger-reactime-now-supporting-concurrent-mode-routers-and-more-56f9ca6f7601)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
