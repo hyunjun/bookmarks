@@ -493,6 +493,7 @@ App
 * [Google Chrome Hidden Features For Developers | Bits and Pieces](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30)
 * [업무 집중력을 높여주는 구글 크롬 확장 프로그램 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/217254)
 * [Building a Simple Google Chrome Extension with Vue](https://morioh.com/p/0db574ae88e8)
+* [12 hand-picked chrome extensions that will change the way you do web development in 2023 - DEV Community 👩💻👨💻](https://dev.to/hackertab/12-hand-picked-chrome-extensions-that-will-change-the-way-you-do-web-development-in-2023-ni9)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
