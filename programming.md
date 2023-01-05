@@ -977,6 +977,7 @@ Programming
   * [StackOverflow가 DDOS를 대응하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=7006)
 * [한 GCP 고객사, ‘사상 최대’ 디도스 공격 막아냈다 - CIO Korea](https://www.ciokorea.com/news/251098) DDoS
 * [12 Patterns for Evolvable Web APIs • Mike Amundsen • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=g6n3UGsQpSs)
+* [The State of APIs in the Container Ecosystem - YouTube](https://www.youtube.com/watch?v=k_hszI5yaZk)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
