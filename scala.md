@@ -2499,6 +2499,7 @@ Scala
 * [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
 * [Zymposium — Path Dependent Types - YouTube](https://www.youtube.com/watch?v=w2rcHCqdn-o)
 * [Every Argument for Static Typing Applies to Typed Errors](https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03)
+* [Izumi Reflect: Scala Type System Model by Kai and Pavel Shirshov - YouTube](https://www.youtube.com/watch?v=ShRfzVz58OY)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
