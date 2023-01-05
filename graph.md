@@ -256,6 +256,8 @@ Graph
   * [GraphBLAS: Building a C++ Matrix API for Graph Algorithms - YouTube](https://www.youtube.com/watch?v=odyPeZvPtFw)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
   * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
+* [graph-explorer](https://github.com/aws/graph-explorer)
+  * [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/ko/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
 * [Graphgenpy](http://konstantinosx.github.io/graphgen-project/)
   * [Graph Analytics Over Relational Datasets with Python](http://blog.districtdatalabs.com/graph-analytics-over-relational-datasets)
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
