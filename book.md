@@ -657,6 +657,8 @@ Book
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [똑똑한 사람들의 멍청한 선택(Misbehaving)](https://blog.naver.com/int9708/220719201529)
   * 한라 321.89-탈294ㄸ 탐라 문321.89-리83ㄸ 우당 이321.89-탈233ㄸ
+* (NOT YET) [승자의 저주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=975431)
+  * 한라 320-세68ㅅ
 * (NOT YET) [야성적 충동 | 나라경제 | KDI 경제정보센터](https://eiec.kdi.re.kr/publish/naraView.do?cidx=6831)
   * 한라 320.73-애874ㅇ 탐라 개320.904-조78ㅇ 우당 문320.73-애823ㅇ
 * (NOT YET) [비이성적 과열 (로버트 쉴러, 2014) : 네이버 블로그](https://blog.naver.com/yeojh1/221082801309)
