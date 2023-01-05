@@ -1740,6 +1740,7 @@ Business
 * [책으로 독학한 OKR이 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213815)
 * [WBS를 조심하세요](https://brunch.co.kr/@jinhoyooephf/26)
 * [구글의 OKR을 어떻게 우리회사에? 1/2](https://brunch.co.kr/@se8040/9)
+* [레몬베이스의 OKR 활용법. 레몬베이스 팀이 목표를 어떻게 정하고 얼라인 하며, 그 목표를 달성하기… | by Roy Hyun | 레몬베이스 (Lemonbase) | Jan, 2023 | Medium](https://medium.com/lemonbase/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-okr-%ED%99%9C%EC%9A%A9%EB%B2%95-706e808864a6)
 
 # Patent
 * 세기의 특허전쟁
