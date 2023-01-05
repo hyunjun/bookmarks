@@ -110,6 +110,9 @@ Programming Language
   * [계산기 만들기 - flex & bison 소개 - YouTube](https://www.youtube.com/watch?v=KxYE78CB398)
   * [계산기 만들기 - flex & bison 사용방법 - YouTube](https://www.youtube.com/watch?v=n5Opi1AlPS4)
 * [Transforming Programming • Dave Thomas • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Nbdjzd22Z3A)
+* [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
+* [9가지 프로그래밍 언어로 배우는 개념: 2편 - 다형성](https://tech.devsisters.com/posts/programming-languages-2-polymorphism)
+* [9가지 프로그래밍 언어로 배우는 개념: 3편 - 메타프로그래밍](https://tech.devsisters.com/posts/programming-languages-3-metaprogramming/)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
@@ -645,5 +648,4 @@ Programming Language
 * [Demystifying Type Systems | by Ihor Morenets | Wix Engineering](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
 * [Static vs. dynamic typing: The details and differences](https://www.femar.co.ke/2022/01/sd.html)
 * [『프로그래밍 언어 속 타입』(가제) 책 소개 :: Jaemin Hong's Blog](https://blog.hjaem.info/2)
-* [9가지 프로그래밍 언어로 배우는 타입 이론](https://tech.devsisters.com/posts/programming-languages-1-type-theory/)
 * [A Taste of Type Theory • Bartosz Milewski • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=--2jJwdQ5js)
