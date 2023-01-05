@@ -2212,6 +2212,7 @@ Business
     * 대학 클럽 시스템을 이용해서 입소문을 통해서 성장
   * 스와이프와 게이미피케이션 요소를 통해서 데이팅 앱의 새로운 경험을 제공
     * 이후 데이팅 목적 외에도 Tinder를 사용할 수 있는 기능을 제공
+* [구글, 페이스북, 트위터, 페이팔 전부 '사람만 보고 투자했습니다' (Ron Conway - SV Angel, Super Angels) - YouTube](https://www.youtube.com/watch?v=wDPZuH3Q_qw)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
