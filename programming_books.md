@@ -412,6 +412,9 @@ Programming Books
 * [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * ★★★☆☆ 2022.10.06~07
   * 탐라 문325.211-벤58ㅍ
+  * [퍼스널 애자일 퍼스널 칸반](https://github.com/hyunjun/bookmarks/blob/master/programming_books/personal_kanban.md)
+  * [퍼스널 애자일 퍼스널 칸반. Personal Kanban | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%ED%8D%BC%EC%8A%A4%EB%84%90-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8D%BC%EC%8A%A4%EB%84%90-%EC%B9%B8%EB%B0%98-a221b7128e64)
+  * [퍼스널 애자일 퍼스널 칸반](https://jh4hj.tistory.com/entry/%ED%8D%BC%EC%8A%A4%EB%84%90-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8D%BC%EC%8A%A4%EB%84%90-%EC%B9%B8%EB%B0%98)
 * [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * ★★★★☆ 2022.10.27 컬럼 형태로 쓴 글들을 많이 읽어서 이미 읽었던 내용도 있고 아닌 거도 있고 구체적인 방법론도 있으나 무엇보다 마음가짐을 다시 하는데 큰 도움이 된다
   * 한라 005.1-김82ㅎ 탐라 문005.1-김811ㅎ
