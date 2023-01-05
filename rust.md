@@ -104,6 +104,7 @@
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 * [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
 * [Jeffrey Olson, "Functional Programming in Rust" - YouTube](https://www.youtube.com/watch?v=CSk_QRE7GKg)
+* [Intro to Functional Programming in Rust • Amit Dev • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=2rv-V2upU1U)
 * [How to RiiR](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html) C 호출
 * [rust-oss-template - a simple template for rust language based project](https://github.com/utilForever/rust-oss-template)
 * [Code reuse in Rust](https://medium.com/@dpc_96143/cargo-crev-and-rust-2019-fearless-code-reuse-b75d58398cb8)
