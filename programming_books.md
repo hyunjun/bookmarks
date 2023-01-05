@@ -1496,11 +1496,12 @@ Programming Books
   * 2018.09
   * 한라 005.12파297ㄷ
   * vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
-* (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
-  * 한라 005.44-랜878ㄷ
-* (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
+* [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
+  * ★★★★☆ 2023.01.04~06
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
   * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
+* (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
+  * 한라 005.44-랜878ㄷ
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
   * 탐라 문004.61-애228ㅇ
   * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
