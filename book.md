@@ -593,8 +593,9 @@ Book
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
   * 2013.04.03~04
   * (이미 늦은 감이 있지만) 빅데이터 시대의 도래에 따른 사회 변화, 사례, 앞으로의 전망을 엮은 빅데이터 관련 입문서와 같은 책. 프로그래머들보다는 기획자나 관심있는 사람들이 읽기에 좋다. 결론은 '지금도 이미 널리 활용되고 있고, 앞으로는 더 폭넓고 깊게 사용된다.'
-* [팩트풀니스 <비판리뷰> 의심하며 읽어야 할 책](https://blog.naver.com/muchloveme/221700777416)
+* [팩트풀니스 - 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1528)
   * ★★★☆☆ 2021.08.26
+  * 한라 331.1-로57ㅍ 탐라 문331.1-로58ㅍ 우당 문331.54-로58ㅍ
   * 통계를 바탕으로 데이터 시각화를 통해 편견에서 벗어날 것을 요구하는 책
   * 직관이나 비난, 이분법 등 우리가 빠지기 쉬운 오류를 벗어나도록 통계를 바탕으로 세상에 대한 시선이 얼마나 왜곡되어 있는지(특히 이른바 '선진국' 사람들이라면 더)를 말한다
   * [p60 내 생각에 인간에게는 이분법적 사고를 추구하는 강력하고 극적인 본능이 있는 것 같다](images/factufullness.jpeg)
@@ -602,6 +603,8 @@ Book
   * [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
     * 저자가 만든 재단에서 제작한 사이트 중 하나
     * 소득에 따른 삶의 모습을 보여주는 게 흔히 책에서 볼 수 있는 각 나라의 고유 복장을 보여주는 거 보다 현실에 가깝기 때문에 이런 사이트를 만들었다고 함
+  * [데이터 분석가의 팩트풀니스](https://brunch.co.kr/@secreties86/40)
+  * [한스 로슬링, <팩트풀니스> 요약의 요약](https://maily.so/boost.life.density/posts/2e350a69)
 * [데이터 스토리](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC)
   * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
 * (NOT YET) [데이터는 어떻게 인생의 무기가 되는가](https://www.gilbut.co.kr/book/view?bookcode=BN003513)
