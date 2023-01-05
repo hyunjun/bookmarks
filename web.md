@@ -1596,6 +1596,7 @@ Web
 * [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
 * [여기보기 누구나 아는 기본 계정명은 비밀이 아니다 - 넷마블 기술 블로그](https://netmarble.engineering/avoid-was-console-default-account-and-setting/)
 * [여기보기 WAS 프로세스가 다진 마음은 루트와 헤어질 결심 - 넷마블 기술 블로그](https://netmarble.engineering/managing-was-process-permission-do-not-use-root/)
+* [여기보기 ChatGPT도 알고 있는 WAS 설정 파일 관리와 세션 타임아웃 - 넷마블 기술 블로그](https://netmarble.engineering/was-setting-file-management-and-session-timeout/)
 
 # WebAssembly
 * [WebAssembly](https://github.com/WebAssembly/)
