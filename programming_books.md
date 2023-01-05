@@ -2923,6 +2923,7 @@ Programming Books
   * [제품의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/all_about_product_management.md)
   * [제품의 탄생. 1부 성공적인 제품의 탄생 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D-f0ce38aad934)
   * [제품의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D)
+* (NOT YET) [프로덕트 매니저는 무슨 일을 하고 있을까](https://www.hanbit.co.kr/store/books/look.php?p_code=B4435817798)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
