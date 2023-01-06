@@ -1141,6 +1141,7 @@ Programming
 * [클린 아키텍처 7-11장](https://wlaxhrl.tistory.com/80)
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 * [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
+* [NHN FORWARD 22 클린 아키텍처 애매한 부분 정해 드립니다. - YouTube](https://www.youtube.com/watch?v=g6Tg6_qpIVc)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
@@ -1672,6 +1673,7 @@ Programming
 * [백엔드 서버 아키텍처 — Domain Layer1. Domain Layer와 DDD | by Junha Baek | junhabaek](https://tech.junhabaek.net/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-domain-layer1-domain-layer%EC%99%80-ddd-e97a7587a7b0)
 * [추천팀의 DDD 도입기 – tech.kakao.com](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
 * [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
+* [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -2930,6 +2932,7 @@ Programming
     * [DEVIEW 2015 발표자료 실시간 셔틀 - 둘째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150915101241)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
+* [NHN FORWARD 2022 - YouTube](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5)
 * OKKYCON
   * [**OKKYCON 2017 참석 후기**](http://jojoldu.tistory.com/249)
   * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
