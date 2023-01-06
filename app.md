@@ -1036,6 +1036,7 @@ App
   * [‘구글시트’로 30분 만에 공짜 이더리움+ERC20+ERC721 입금 감지 서버 만들기 | by 김선태 | Dooda | Mar, 2021 | Medium](https://medium.com/doodateam/%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EA%B3%B5%EC%A7%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-erc20-erc721-%EC%9E%85%EA%B8%88-%EA%B0%90%EC%A7%80-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-8de64dd5a166)
   * [AppsScript를 이용해 구글시트 우편번호 입력 기능 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/apps-script/)
   * [Google Sheets - 일정 간격의 값들을 가져와 자동으로 채우기](https://jusths.tistory.com/240)
+  * [Ah-ha 구글시트에서 카카오톡 발송하기 - 정보 공유 - 한국 노코드 커뮤니티](https://www.nocodekorea.org/t/ah-ha/788)
 * Gmail
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
