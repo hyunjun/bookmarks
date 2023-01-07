@@ -368,6 +368,7 @@ Scala
   * [게임 서버 개발에 스칼라 사용하기](https://tech.devsisters.com/posts/scala-for-game-server-development-kr)
 * [WHERE to find a REMOTE Scala Job? - YouTube](https://www.youtube.com/watch?v=OaxsAXXjcYQ)
 * [Google Summer of Code 2022: How It Was | The Scala Programming Language](https://scala-lang.org/blog/2022/11/15/gsoc-report.html)
+* [Universally Unique Sortable Identifier - ULID](https://yadukrishnan.live/ulid-sortable-unique-identifier)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
