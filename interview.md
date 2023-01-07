@@ -702,12 +702,14 @@ Interview
 * [10 Common Coding Interview Problems - Solved! - YouTube](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 * [System Design Guide for Front-end Developers - DEV Community](https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl/)
 * [acmicpc-kit: Let's practice algorithms with Acmicpc Kit ! Acmicpc Kit is a template project for creating the problem project using fully customizable templates](https://github.com/silentsoft/acmicpc-kit)
-* [Advent of Code 2021](https://adventofcode.com/)
-  * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
+* Advent of Code
+  * [Advent of Code 2022](https://adventofcode.com/)
+  * [Advent of Code 2021](https://adventofcode.com/)
   * [Zip and slide! (Advent of Code day 1) - YouTube](https://www.youtube.com/watch?v=AhcDxzjrUUI) scala
   * [Ep 15: Advent of Code 2021 Day 1. Is it Traverse? - YouTube](https://www.youtube.com/watch?v=ziWwsXD9w7M)
   * [Advent of Code: Behind the Scenes (Programming Puzzles) - YouTube](https://www.youtube.com/watch?v=CFWuwNDOnIo)
   * [Coding at 6am isn't fun - YouTube](https://www.youtube.com/watch?v=4nGSF_Ub7QQ)
+  * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
 * [algoexpert.io](https://www.algoexpert.io)
   * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
   * [Systems Design Fundamentals | SystemsExpert](https://www.algoexpert.io/systems/fundamentals)
