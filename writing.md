@@ -104,6 +104,7 @@ Writing
 * [<책 나왔니?> 개앞맵시와 신백균의 첫 책으로 가는 길](https://brunch.co.kr/@wegra/3) 글쓰기에 대한 직접적인 이야기는 아니고 책 발간에 대한 이야기
 * [해결 지향의 접근, '야마'를 버리고 복잡한 내러티브를 끌어내라](https://v.daum.net/v/20221105080504245)
 * [How to 욕심많은 주니어를 위한 ‘자기탐색적 글쓰기’](https://community.rememberapp.co.kr/post/99749)
+* [Canonical Everything. “Where can I find out what I need to… | by Naomi Gleit | Medium](https://naomi.com/canonical-everything-c85441a84e70)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
