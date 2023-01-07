@@ -2265,6 +2265,7 @@ Javascript
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
     * [SvelteKit 라우팅 구성 시 주의할 점 - DEV Community](https://dev.to/composite/sveltekit-rauting-guseong-si-juyihal-jeom-2cjl)
     * [스벨트 조지기](https://velog.io/@composite/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%A1%B0%EC%A7%80%EA%B8%B0)
+    * [event.keyCode와 event.code, event.key - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/897)
   * [Svelvet](https://svelvet.io/)
   * [Svelte Add](https://github.com/svelte-add)
     * [Svelte의 안내데스크, svelte-add - DEV Community](https://dev.to/composite/svelteyi-annaedeseukeu-svelte-add-52k7)
