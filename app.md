@@ -666,6 +666,7 @@ App
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
   * [Nix – taming Unix with functional programming - Tweag](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
+  * [Nix Flake for Scala - a Nix Introduction, Overview and Demo - YouTube](https://www.youtube.com/watch?v=HnoP7JZn2MQ)
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
