@@ -207,6 +207,7 @@ Flutter
 * [무료 프로그래밍 강의 1시간만에 끝내는 객체지향 프로그래밍 - YouTube](https://www.youtube.com/watch?v=7e80Il_7Z70)
 * [무료 프로그래밍 강의 40분만에 끝내는 함수형 프로그래밍 - YouTube](https://www.youtube.com/watch?v=fwh27A_D-20)
 * [무료 프로그래밍 강의 40분만에 끝내는 비동기 프로그래밍 - YouTube](https://www.youtube.com/watch?v=rk41rBXq3zQ)
+* [Flutter Roadmap 01 Dart 언어의 기본을 익히기 | by CuroGom | Jan, 2023 | Medium](https://curogom.dev/flutter-roadmap-01-dart-%EC%96%B8%EC%96%B4%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%EC%9D%B5%ED%9E%88%EA%B8%B0-de776888f010)
 
 # Firebase
 * [How to integrate your iOS Flutter App with Firebase on MacOS](https://medium.freecodecamp.org/how-to-integrate-your-ios-flutter-app-with-firebase-on-macos-6ad08e2714f0)
