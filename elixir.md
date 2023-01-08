@@ -149,3 +149,6 @@ Elixir
   * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
 * telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
+
+# Tutorial
+* [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
