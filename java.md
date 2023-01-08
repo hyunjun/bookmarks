@@ -1656,6 +1656,7 @@ Java
 * [스프링 스케줄러 런타임에 cron 설정 변경하기](http://javacan.tistory.com/entry/change-spring-cron-schedule-at-runtime)
 * [Spring 의 Cache 추상화를 사용하면서, 단건/다건 key 에 대한 동일 저장소 사용하기](http://woowabros.github.io/experience/2019/01/04/multi-key-spring-cache.html)
 * [Spring Cache 적용으로 읽기 작업 성능 향상시키기](https://chagokx2.tistory.com/98)
+* [Spring @Cacheable 메서드 내부 호출 개선하기 (feat. self invocation)](https://junior-datalist.tistory.com/329)
 * [Spring Guide - 테스팅 전략](https://www.popit.kr/spring-guide-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5/)
 * [Spring Guide - 에외 처리 전략](https://www.popit.kr/spring-guide-%EC%97%90%EC%99%B8-%EC%B2%98%EB%A6%AC-%EC%A0%84%EB%9E%B5/)
 * [Spring Guide - Domain 객체 가이드](https://www.popit.kr/spring-guide-domain-%EA%B0%9D%EC%B2%B4-%EA%B0%80%EC%9D%B4%EB%93%9C/)
