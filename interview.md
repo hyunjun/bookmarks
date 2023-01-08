@@ -1006,8 +1006,10 @@ Interview
 * [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
 * [My Salary Negotiation Strategy. To earn more, I never ask for a higher… | by Alex Ewerlöf | Jan, 2022 | Medium](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd)
 * [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+* [Comprehensive.io - Pay Range Tracker](https://www.comprehensive.io/)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
+* [Payscale - Salary Comparison, Salary Survey, Search Wages](https://www.payscale.com/)
 * [~perks.guide~](http://perks.guide/) 회사 복지 비교
 
 # Spotify
