@@ -1690,6 +1690,7 @@ Programming
 * [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
 * [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
+* [회원가입으로 보는 Event Driven Architecture 구현](https://jgrammer.tistory.com/entry/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-Event-Driven-Architecture-%EA%B5%AC%ED%98%84)
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
 * [Event Driven Architectures vs Workflows (with AWS Services!) - YouTube](https://www.youtube.com/watch?v=Q_QCu6OP2mQ)
@@ -4791,6 +4792,7 @@ Programming
 * [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
 * [노코드: 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴 | 10x Lessons](https://tkim.co/2020/04/19/no-code/)
 * [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
+* [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
