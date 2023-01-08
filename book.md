@@ -261,6 +261,9 @@ Book
     * 한라 660.4-스883ㅎ 우당 환경660.4-스832ㅎ
   * [휴먼스 오브 뉴욕](https://blog.naver.com/seasonsinthelife/220882604668)
     * 한라 668.5-스883ㅎ 탐라 개668.5-스884ㅎ
+* [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
+  * ★★★★☆ 2023.01.08
+  * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -400,8 +403,9 @@ Book
   * 한라 아843-폴294ㄲ 우당 아843-폴233ㄲ
 * (NOT YET) [대체 뭐가 문제야](https://cskstory.tistory.com/16)
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
-* (NOT YET) [당신이 옳다](https://m.blog.naver.com/sugar2kk/221688363261)
-  * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
+* (NOT YET) [미스터 프레지던트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308439707)
+  * 우당
+  * ["문 전 대통령, 한 번도 저를 편하게 대한 적 없어…달라진 모습에 당황"](https://v.daum.net/v/20230108111347100)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -532,6 +536,10 @@ Book
   * 탐라
 * (NOT YET) [Van Gogh The Complete Paintings compact 반고흐 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/138/?idx=282)
   * 한라
+* (NOT YET) [위로의 미술관](https://brunch.co.kr/@kym8927/79)
+  * 한라 650.4-진44ㅇ 탐라 문650-진44ㅇ 우당 문650.4-진44ㅇ
+* (NOT YET) [반 고흐, 프로방스에서 보낸 편지](https://brunch.co.kr/@artinsight/1749)
+  * 한라 653.269-베68반ㄱ
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -979,6 +987,7 @@ Book
 * (NOT YET) [병자호란, 홍타이지의 전쟁](https://blog.naver.com/mkparang/221787988183)
   * 한라 911.0557-구44ㅂ 우당 문911.0557-구43ㅂ
 * (NOT YET) [눈에 보이지 않는 지도책 (제임스 체셔, 올리버 우버티 著, 송예슬 譯, 2022)](https://jehyunlee.tistory.com/53)
+  * ★★★☆☆ 2023.01.08 내용까지 자세히 읽지는 않았지만 살펴보는 거 만으로도 좋은 데이터 시각화 책이라는 걸 알 수 있음
   * 한라 989-체54ㄴ 탐라 문989-체54ㄴ 우당 문989-체54ㄴ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
