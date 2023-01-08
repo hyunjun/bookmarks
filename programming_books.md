@@ -320,6 +320,9 @@ Programming Books
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
   * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 * (NOT YET) [NGINX 쿡북(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9583925549)
+* (NOT YET) [세상을 바꿀 미래기술 12가지 | 위키북스](https://wikibook.co.kr/futuretech12/)
+* (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
+* (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
 
 # Agile Scrum
 
@@ -768,6 +771,8 @@ Programming Books
   * 탐라
 * (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
   * 탐라
+* (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj/)
+  * 우당
 
 # C
 
@@ -850,6 +855,7 @@ Programming Books
 * (NOT YET) [이것이 C#이다](http://greentec.egloos.com/4440971)
 * (NOT YET) [UWP 퀵스타트](https://kaki104.tistory.com/703)
 * (NOT YET) [이펙티브(effective) C#(2016) 독후감](http://ohyecloudy.com/pnotes/archives/book-effective-csharp/)
+* (NOT YET) [시작하세요! C# 10 프로그래밍 | 위키북스](https://wikibook.co.kr/cs10/)
 
 # Clojure
 
@@ -905,6 +911,7 @@ Programming Books
   * 우당 문005.76-고78ㅅ
   * [graph-book: The Code Examples and Notebooks for The Practitioners Guide to Graph Data](https://github.com/datastax/graph-book)
   * [애플리케이션에서 그래프 기술의 적용 가능성과 사용법을 탐색하는 방법](images/graph-book.jpg)
+* (NOT YET) [MySQL 성능 최적화 | 위키북스](https://wikibook.co.kr/mysql-optimization/)
 
 # Data Science
 
@@ -1072,6 +1079,7 @@ Programming Books
   * 한라 005.76-김12빅
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
   * 우당 문005.7-우831ㄷ
+* (NOT YET) [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1448,6 +1456,7 @@ Programming Books
   * [dlwpt-code: Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://github.com/deep-learning-with-pytorch/dlwpt-code)
   * [pytorch: 파이토치 딥러닝 마스터](https://github.com/onlybooks/pytorch)
 * (NOT YET) [파이토치와 유니티 ML-Agents로 배우는 강화학습 | 위키북스](https://wikibook.co.kr/pytorch-mlagents/)
+* (NOT YET) [모두를 위한 메타러닝 | 위키북스](https://wikibook.co.kr/metalearning/)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -1489,6 +1498,8 @@ Programming Books
   * 탐라 문325.484-후79ㄷ
 * (NOT YET) [대시보드 설계와 데이터 시각화(스티브 웩슬러, 제프리 섀퍼, 앤디 코트그리브 著, 최윤석 譯, 2018)](https://jehyunlee.tistory.com/48)
   * 한라 325.152-웩57ㄷ
+* (NOT YET) [아름다운 시각화 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/134)
+  * 우당
 
 # Debugging
 
@@ -1599,6 +1610,7 @@ Programming Books
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5/)
+  * 우당
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -3218,6 +3230,7 @@ Programming Books
   * 한라 005.133-윤74ㅍ
 * (NOT YET) [내 일을 바꾸는 업무 자동화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=242086260)
   * 탐라 문005.133-이832ㄴ 우당 문005.133-이832ㄴ
+* (NOT YET) [파이썬 웹 스크레이핑 완벽 가이드 | 위키북스](https://wikibook.co.kr/pyscraping/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -3337,6 +3350,8 @@ Programming Books
   * 우당 문005.133-맥211ㄹ
   * [Rust in Action](https://www.manning.com/books/rust-in-action)
   * [rust-in-action/code: Source code for the book Rust in Action](https://github.com/rust-in-action/code)
+* (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust/)
+  * 우당
 
 # Scala
 
@@ -3574,6 +3589,7 @@ Programming Books
   * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
 * (NOT YET) [UX 원칙 Uxer를 위한 101가지 원칙](https://medium.com/heeheewuwu/ux-%EC%9B%90%EC%B9%99-uxer%EB%A5%BC-%EC%9C%84%ED%95%9C-101%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-1-2-f9fd97f9bc37)
   * 탐라 문004.78-그232ㅇ
+* (NOT YET) [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
 
 # Vision
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
