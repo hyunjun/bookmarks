@@ -209,6 +209,7 @@ Functional Programming
 * [Higher-Order Function 이란 무엇인가](https://medium.com/@la.place/higher-order-function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-1c61e0bea79)
 * [Higher-Order Function 이란 무엇인가](https://hg-pyun.github.io/what-is-higher-order-function/)
 * [Template Method rocks but Higher Order Function can do the trick](https://medium.com/qualyteam-engineering/template-method-rocks-but-higher-order-function-can-do-the-trick-bbef12ac6c70)
+* [Alice And The Return To The World Of Pods And Higher-Order Functions by Roksolana Diachuk - YouTube](https://www.youtube.com/watch?v=DjTGq75OMM4)
 
 # Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
