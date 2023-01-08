@@ -1741,6 +1741,7 @@ Business
 * [WBS를 조심하세요](https://brunch.co.kr/@jinhoyooephf/26)
 * [구글의 OKR을 어떻게 우리회사에? 1/2](https://brunch.co.kr/@se8040/9)
 * [레몬베이스의 OKR 활용법. 레몬베이스 팀이 목표를 어떻게 정하고 얼라인 하며, 그 목표를 달성하기… | by Roy Hyun | 레몬베이스 (Lemonbase) | Jan, 2023 | Medium](https://medium.com/lemonbase/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-okr-%ED%99%9C%EC%9A%A9%EB%B2%95-706e808864a6)
+* [OKR is Simple](https://www.linkedin.com/posts/hong-min-kang-582522112_okr-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-by-opellie-ugcPost-7013347722900512768-s4PA/)
 
 # Patent
 * 세기의 특허전쟁
@@ -2213,6 +2214,7 @@ Business
   * 스와이프와 게이미피케이션 요소를 통해서 데이팅 앱의 새로운 경험을 제공
     * 이후 데이팅 목적 외에도 Tinder를 사용할 수 있는 기능을 제공
 * [구글, 페이스북, 트위터, 페이팔 전부 '사람만 보고 투자했습니다' (Ron Conway - SV Angel, Super Angels) - YouTube](https://www.youtube.com/watch?v=wDPZuH3Q_qw)
+* [스타트업이라는 게임을 이기기 위해 필요한 5가지 (How to Win)](https://www.slid.cc/ko/share/vdocs/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%EC%9D%B4%EA%B8%B0%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-5%EA%B0%80%EC%A7%80-how-to-win-6624570249074c2c8747157aa6dd8f01)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
