@@ -637,6 +637,8 @@ Programming Books
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
 * (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
   * 한라 005.118-이25ㅅ 탐라 문005.118-이225ㅅ 우당 문005.118-이225ㅅ
+* (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook)
+  * 한라
 
 # Android
 
@@ -763,6 +765,8 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
   * 탐라 문005.12-호843ㅅ
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
+  * 탐라
+* (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
   * 탐라
 
 # C
@@ -1719,6 +1723,8 @@ Programming Books
   * [Trading Evolved – Following the Trend](https://www.followingthetrend.com/trading-evolved/)
 * (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
+* (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics)
+  * 한라
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
@@ -2147,6 +2153,8 @@ Programming Books
 * (NOT YET) [Kafka Streams in Action | 에이콘출판사](http://acornpub.co.kr/book/kafka-streams-in-action)
 * (NOT YET) [아파치 카프카 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/kafka-cookbook)
   * 탐라 문005.74-에67ㅇ
+* (NOT YET) [카프카 스트림즈와 ksqlDB 정복 | 에이콘출판사](http://acornpub.co.kr/book/kafka-ksqldb)
+  * 한라
 
 # Kotlin
 
@@ -2720,6 +2728,7 @@ Programming Books
 * (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
   * 탐라
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
+  * 탐라
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
   * 우당 문325.3-버231ㅅ
 * (NOT YET) [세계 최고의 CEO는 어떻게 일하는가](https://gangsanilee.tistory.com/2783)
@@ -2924,6 +2933,7 @@ Programming Books
   * [제품의 탄생. 1부 성공적인 제품의 탄생 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D-f0ce38aad934)
   * [제품의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D)
 * (NOT YET) [프로덕트 매니저는 무슨 일을 하고 있을까](https://www.hanbit.co.kr/store/books/look.php?p_code=B4435817798)
+  * 탐라
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
@@ -3123,6 +3133,9 @@ Programming Books
   * 2018.08 탐라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 * (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
+* (NOT YET) [Pandas를 이용한 데이터 분석 실습 2/e | 에이콘출판사](http://acornpub.co.kr/book/data-analysis-pandas)
+  * 한라
+  * [data-analysis-pandas: Pandas를 이용한 데이터 분석 실습 2/e](https://github.com/AcornPublishing/data-analysis-pandas)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
 * (NOT YET) [판다스 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4172751734)
 * (NOT YET) [금융 데이터 분석을 위한 파이썬 판다스 - WikiDocs](https://wikidocs.net/book/3488)
@@ -3506,6 +3519,9 @@ Programming Books
 * (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
 * (NOT YET) [파이썬으로 배우는 통계학 교과서 기초 이론부터, 모델, 머신러닝까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7226175941)
 * (NOT YET) [<파이썬을 활용한 베이지안 통계(2판)> 번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/thinkbayes2nd/)
+* (NOT YET) [파이썬으로 하는 마케팅 연구와 분석 | 에이콘출판사](http://acornpub.co.kr/book/python-for-marketing)
+  * 한라
+  * [python-for-marketing: 파이썬으로 하는 마케팅 연구와 분석](https://github.com/AcornPublishing/python-for-marketing)
 
 # Streaming
 * (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책

@@ -269,11 +269,14 @@ Book
 * (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
 * (NOT YET) [부모님의 집 정리](https://news.v.daum.net/v/20210425180002886)
 * (NOT YET) 거대도시 서울 철도 [지구 구하는 철학적 ‘철덕’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44407)
+  * 한라 326.34-전94ㄱ
 * (NOT YET) [토마 피케티의 ‘자본과 이데올로기’를 읽고. 토마 피케티는 전작 ‘21세기 자본론’에서, 19세기말 이후 현재까지… | by 허진호 (Jin Ho Hur) | Apr, 2021 | Medium](https://hur.medium.com/%ED%86%A0%EB%A7%88-%ED%94%BC%EC%BC%80%ED%8B%B0%EC%9D%98-%EC%9E%90%EB%B3%B8%EA%B3%BC-%EC%9D%B4%EB%8D%B0%EC%98%AC%EB%A1%9C%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-62952868a588)
+  * 한라 321.2-피874ㅈ 탐라 문321.2-피823ㅈ 우당 문321.2-피823ㅈ
 * (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
 * (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
+  * 한라 327.04-하66ㄷ 탐라 문327.04-하67ㄷ 우당 문327.04-하67ㄷ
 * (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
 * (NOT YET) [행복의 조건(하버드대학교. 인생성장 보고서를 읽고)](https://brunch.co.kr/@sunflowerkkk/5)
   * 책과 무관하지만 비슷한 뱡향의 기사
@@ -281,8 +284,10 @@ Book
     * [하버드 졸업 30주년 동문회에 다녀와서](https://newspeppermint.com/2019/06/30/harvardreunion50/)
 * (NOT YET) 일의 철학 [스탠퍼드의 최고 인기 교수가 말하는, 당신의 업무와 삶을 바꾸는 일의 철학 11가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245881)
 * (NOT YET) 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
+  * 탐라 개592.0099-강38ㅍ 우당 이592.099-강39ㅍ
 * (NOT YET) [전망하는 인간, 호모 프로스펙투스](https://jhrogue.blogspot.com/2021/12/blog-post_16.html)
 * (NOT YET) [하마터면 깨달을 뻔](https://jhrogue.blogspot.com/2022/01/blog-post.html)
+  * 한라 185.3-나68ㅎ 우당 문185.3-나69ㅎ
 * (NOT YET) 인구 대역전 [인플레이션과 고금리의 '30년 시대'가 오고 있다 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=002&aid=0002192823)
   * 한라 321.97-굿92ㅇ 탐라 문321.9-굿91ㅇ
   * [2000년대 이후 - 미국 제조업 일자리는 왜 700만개가 사라졌을까?](https://www.facebook.com/permalink.php?story_fbid=5367750163252459&id=100000525857011)
@@ -653,6 +658,8 @@ Book
   * [프레임의 힘. The Most Important Human Skill: Review… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%ED%9E%98-25629251d8e4)
   * [프레임의 힘](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%ED%9E%98)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
+  * 탐라
+  * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [똑똑한 사람들의 멍청한 선택(Misbehaving)](https://blog.naver.com/int9708/220719201529)
@@ -666,6 +673,7 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
+  * 탐라
 * (NOT YET) [『좋은 불평등』, 한국경제 상식을 무너뜨리는 충격적인 ‘불평등 교과서’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/257236)
   * 한라 321.81-최44ㅈ 탐라 문321.81-최44ㅈ 우당 문321.81-최44ㅈ
 
@@ -881,8 +889,10 @@ Book
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
+  * 중앙 BO928-로73ㅂ
 * (NOT YET) 유럽사 산책 [유럽사 ‘생생 개인사’ 통해 온전한 육신 얻다](http://www.hani.co.kr/arti/culture/book/484462.html)
 * (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
+  * 한라 909-디897ㄹ 909-르35ㄹ-2, 3 우당 문909-르35ㄹ-1~3
 * (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
   * 한라 910-굽58ㅂ-x, 탐라 문910-굽59ㅂ-x, 우당 문910-굽59ㅂ-x
