@@ -216,6 +216,7 @@
 * [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
 * [Design Patterns - Observer](http://achimoraites.blogspot.kr/2017/11/design-patterns-observer.html)
 * [옵저버 패턴 개념 떠먹여드립니다 🥄](https://velog.io/@haero_kim/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-%EA%B0%9C%EB%85%90-%EB%96%A0%EB%A8%B9%EC%97%AC%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4)
+* [Observer Pattern 옵저버 패턴에 대해 알아보자!](https://joecp17.tistory.com/63)
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
