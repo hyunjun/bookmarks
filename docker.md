@@ -633,7 +633,7 @@ Docker
 * [**컨테이너 기술 안 쓰고 대규모로 운영하시는 분 계신가요? | GeekNews**](https://news.hada.io/topic?id=6240)
 * [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/)
 * [Containerize Your Applications And Learn Using Certifications | ReviewNPrep](https://reviewnprep.com/blog/containerize-your-applications-and-learn-using-certifications/)
-* [Build Your First Docker Extension - Docker](https://www.docker.com/blog/build-your-first-docker-extension/?utm_campaign=2022-06-02-extensions-intro)
+* [Build Your First Docker Extension - Docker](https://www.docker.com/blog/build-your-first-docker-extension/)
   * Docker Desktop 4.8.0부터 추가된 확장 기능을 만드는 방법 설명
   * UI는 JavaScript, TypeScript로 작성하는데 React/Material UI 추천
   * 백엔드는 컨테이너 안에서 실행되므로 어떤 언어든 가능

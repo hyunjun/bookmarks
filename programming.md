@@ -643,7 +643,7 @@ Programming
 * [VR Environments for Collaborative Software Development - YouTube](https://www.youtube.com/watch?v=SBigUZtHlC4)
 * [frida: Clone this repo to build Frida](https://github.com/frida/frida)
   * [frida-gum: Cross-platform instrumentation and introspection library written in C](https://github.com/frida/frida-gum)
-    * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
+    * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346)
 
 # Agile, Scrum
 * book
