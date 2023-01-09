@@ -3352,6 +3352,8 @@ Programming Books
   * [rust-in-action/code: Source code for the book Rust in Action](https://github.com/rust-in-action/code)
 * (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust/)
   * 우당
+* (NOT YET) [프로그래밍 러스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448819)
+  * [페리스(Ferris)를 안다면 당신은?](https://jpub.tistory.com/1367)
 
 # Scala
 
