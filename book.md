@@ -264,6 +264,9 @@ Book
 * [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
   * ★★★★☆ 2023.01.08
   * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
+* [대체 뭐가 문제야](https://cskstory.tistory.com/16)
+  * ★★★★☆ 2023.01.09
+  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -401,8 +404,6 @@ Book
   * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
 * (NOT YET) [꽃들에게 희망을](https://readbook777.tistory.com/3)
   * 한라 아843-폴294ㄲ 우당 아843-폴233ㄲ
-* (NOT YET) [대체 뭐가 문제야](https://cskstory.tistory.com/16)
-  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 * (NOT YET) [미스터 프레지던트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308439707)
   * 우당
   * ["문 전 대통령, 한 번도 저를 편하게 대한 적 없어…달라진 모습에 당황"](https://v.daum.net/v/20230108111347100)
