@@ -407,6 +407,8 @@ Book
 * (NOT YET) [미스터 프레지던트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308439707)
   * 우당
   * ["문 전 대통령, 한 번도 저를 편하게 대한 적 없어…달라진 모습에 당황"](https://v.daum.net/v/20230108111347100)
+* (NOT YET) [나는 독일인입니다](http://www.catholicnews.co.kr/news/articleView.html?idxno=32397)
+  * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
