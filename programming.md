@@ -2148,6 +2148,7 @@ Programming
   * [Kong API gateway #2 - 간단한 아키텍쳐와 API 테스트](https://bcho.tistory.com/1363)
   * [Kong API gateway #3 - Kong on Kubernetes](https://bcho.tistory.com/1364)
   * [Breaking Up a Monolithic Database with Kong - DZone Microservices](https://dzone.com/articles/breaking-up-a-monolithic-database-with-kong)
+  * [노코드로 마이크로 서비스 아키텍처(MSA) 구.. : 네이버블로그](https://blog.naver.com/synctree/222961887923)
 * [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
 * Mortar [오늘의집 MSA Phase 1. 서비스 구축과 배포 with Mortar - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-12-17-msa-phase-1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B0%B0%ED%8F%AC-with-mortar/)
 * [Prism: Presto Gateway Service at Uber - Hitarth Trivedi, Uber - YouTube](https://www.youtube.com/watch?v=0NwUCvOZuHY)
@@ -4827,6 +4828,7 @@ Programming
   * [데이터플로우 | Outcode - 자동화된 데이터 워크플로우](https://www.outcode.biz/dataflow)
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
+* SyncTree [A ‘No-Code Tool’ that Develops Backend?! - YouTube](https://www.youtube.com/watch?v=8vzjGewmcd8)
 * [Uiflow - Build Software at the Speed of Thought](https://www.uiflow.com/)
 * [UXPin Merge | Disquiet\*](https://disquiet.io/product/uxpin-merge) UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
