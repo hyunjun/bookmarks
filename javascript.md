@@ -4066,6 +4066,7 @@ Javascript
 * [Data Structures In Frontend JavaScript In The Real World (With React Code Examples)](https://profy.dev/article/javascript-data-structures)
   * [번역 현실 세계 프런트엔드에서 사용되는 자바스크립트 자료구조: 리액트 코드 예시와 함께](https://velog.io/@eunbinn/javascript-data-structures)
 * [프론트엔드 폴더 구조 방법론 정리](https://yoonjong-park.tistory.com/entry/React-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%A0%95%EB%A6%AC)
+* [React Mount System Deep Dive (Sync Mode) :: Normal Coder](https://yeoulcoding.tistory.com/348)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
