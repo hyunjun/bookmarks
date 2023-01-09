@@ -130,6 +130,15 @@ Monitoring
   * [Datadog 메트릭 데이터를 CSV 파일로 저장하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/28/datadog-log-backup/)
   * [Monitoring AWS Lambda With Datadog | Datadog](https://www.datadoghq.com/blog/monitoring-aws-lambda-with-datadog/)
   * [Python Logging with Datadog](https://julien.danjou.info/python-logging-with-datadog/)
+  * [Datadog & GS Retail Webinar - YouTube](https://www.youtube.com/watch?v=qnrH3GVQww4)
+    * 1. Back End to Front End까지 이어지는 모니터링을 통하여 
+      * (1) 장애의 원인이 인프라 단인지, API 단인지 , 고객 단말 단인지, DB단인지? 에 대한 즉각적인 원인 분석 제공을 통한 빠른 장애 대응
+      * (2) 기존 산재한 모니터링 툴이 정작 장애시 여러 모니터링툴을 보느라 장애 대응이 느려지는 경우 (인프라는 Cloud watch , APM 스카우터 or 제니퍼, ELK에서 일일히 Log 검색, DB는 멕스게이지 등등)
+      * (3) 모니터링 비용이 과다하거나 또는 오픈소스 모니터링 운영을 위하여 개발자들이 너무 많은 리소스를 쓰지는  않는지?
+    * 2. AWS등 퍼블릭 클라우드 전환을 할 때의 모니터링 전략 고민 
+      * (1) On-prem , AWS를 각각 모니터링 해야하는지?
+      * (2) AWS EKS , ECS 등 컨테이너 모니터링은 어떻게 해야할지
+      * (3) AWS의 RDS ,Cloudfront, Lambda , Elastic cache , DynamoDB 등등 각각의 서비스 모니터링, CodePipeLine을 어떻게 개별적으로 관리할지? (데이터독은 모두 무상으로 모니터링을 제공 드립니다.)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
