@@ -267,6 +267,12 @@ Book
 * [대체 뭐가 문제야](https://cskstory.tistory.com/16)
   * ★★★★☆ 2023.01.09
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
+* [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
+  * ★★★☆☆ 2023.01.09 17세 고등학교 시절 이런 책을 썼다는 게 놀랍다. 신경써서 열심히 읽진 않았지만 그럼에도 쉽게 읽을 수 있고 또 여러가지 생각할 거리를 준다. 07년에 쓴 책이라 기술적인 부분에서 옛날 이야기들이 들어가 있긴 하지만 내용상 혹은 흐름에 지장을 주진 않는다.
+  * 한라 511.1813-스884ㅇ 우당 문181.3-스833ㅇ
+  * <img src="images/are_you_a_machine_219.jpg" alt="" width="300"/> <img src="images/are_you_a_machine_220.jpg" alt="" width="300"/>
+  * 책에서 나온 위의 이야기를 ChatGPT에게 주면 어떻게 될 지 입력해봤는데 아직은 ChatGPT도 추론까지는 못 하는 듯. 물론 곧 할 수 있을 거 같다
+    * <img src="images/are_you_a_machine_chatgpt.png" alt="" width="300"/>
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -326,8 +332,6 @@ Book
   * [자동차 인터페이스 디자인](https://jhrogue.blogspot.com/2022/06/blog-post.html)
 * (NOT YET) [AI 메이커스 인공지능 전쟁의 최전선](https://ugong2san.tistory.com/4338)
   * 한라 004.73-메85ㅇ
-* (NOT YET) [이것은 인간입니까 - 인지과학으로 읽는 뇌와 마음의 작동 원리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297162440)
-  * 한라 511.1813-스884ㅇ 우당 문181.3-스833ㅇ
 * (NOT YET) [유료 서비스: 어느 소심한 남자의 사적인 경험담](https://blog.naver.com/indizio/222567725909)
   * 탐라 그래픽334.222-브231ㅇ
 * (NOT YET) [만들어진 유대인](http://timesisa.com/news/view.html?section=9&category=108&no=31913)
