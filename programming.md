@@ -3061,6 +3061,7 @@ Programming
   * [dagger.io | Introducing the Dagger Node.js SDK](https://dagger.io/blog/nodejs-sdk)
   * [Solomon Hykes: Dagger Brings the Promise of Docker to CI/CD – The New Stack](https://thenewstack.io/solomon-hykes-dagger-brings-the-promise-of-docker-to-ci-cd/)
   * [CI/CD 파이프라인 엔진 Dagger :: Outsider's Dev Story](https://blog.outsider.ne.kr/1642)
+  * [CI/CD 파이프라인 엔진 Dagger의 Node.js SDK :: Outsider's Dev Story](https://blog.outsider.ne.kr/1646)
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
