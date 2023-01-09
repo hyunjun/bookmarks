@@ -9,6 +9,7 @@ Business
 * [회사에서 일이 안 될 때 보기 좋은 블로그 10곳 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255111) startup & product 관련
 * [Known vs Unknown Product Framework | by Gustavo Guiomar | Medium](https://guguiomar.medium.com/known-vs-unknown-framework-5808cb66f219)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
+* [다른 사람을 이해하지 않고선, 다른 사람들과 함께 성공할 수도 없어요!](https://www.facebook.com/somewon.yoon/posts/pfbid0jBVk88SzQzVk8g8uHgyKagiWrSZWpqxiLn21xK9EhGonJxevZjW6cvTSJu6w8keYl) 라이언 레이놀즈의 갈등 해소 능력
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
 * [평판을 관리하는 4가지 방법](http://moneyman.kr/archives/1693)
