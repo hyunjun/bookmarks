@@ -685,6 +685,8 @@ Book
   * 탐라
 * (NOT YET) [『좋은 불평등』, 한국경제 상식을 무너뜨리는 충격적인 ‘불평등 교과서’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/257236)
   * 한라 321.81-최44ㅈ 탐라 문321.81-최44ㅈ 우당 문321.81-최44ㅈ
+* (NOT YET) [블랙 스완 The Black Swan](http://daankal.com/rbm/NT01.html)
+  * 한라 327.04-탈294ㅂ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
