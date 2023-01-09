@@ -1118,6 +1118,7 @@ Scala
       * [Zymposium - ZIO Streams Part 2 (Using Channels) - YouTube](https://www.youtube.com/watch?v=Pfu8m3XBBuQ)
       * [Zymposium - ZIO Streams Part 3 (Streaming Sandwiches) - YouTube](https://www.youtube.com/watch?v=SGr7mQ15-Pw)
       * [Zymposium - ZIO Streams - Final Part (Fan In/Fan Out) - YouTube](https://www.youtube.com/watch?v=3EO0yVf63xI)
+      * [ZIO Streams And Your Business Logic by Samson Kamau Muiruri - YouTube](https://www.youtube.com/watch?v=icD6I33EMNg)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
       * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
