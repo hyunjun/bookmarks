@@ -752,6 +752,7 @@ Git
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
   * [Git에 커밋 된 커밋하면 안될 파일 제거하기](https://chaewonkong.github.io/posts/git-remove-commited-file.html)
+  * [Git 원치 않는 파일 제거하기 | Univdev](https://www.univdev.page/posts/remove-git-file/)
 * gitignore
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.toptal.com/developers/gitignore)
