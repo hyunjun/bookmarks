@@ -1822,6 +1822,7 @@ Java
 * [Spring Batch CSV Reader & Writer | Popit](https://www.popit.kr/spring-batch-csv-reader-writer/)
 * [Spring Batch Architecture - YouTube](https://www.youtube.com/watch?v=6DrwirLIoiU)
 * [Spring Batch HTTP Page Item Reader - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-batch-http-page-item-reader/)
+* [Spring Batch 실패를 다루는 기술 - ItemStream](https://jgrammer.tistory.com/entry/Spring-Batch-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-ItemStream)
 * [if kakao 2022 Batch Performance를 고려한 최선의 Reader | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-read/) itemreader
 * [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
