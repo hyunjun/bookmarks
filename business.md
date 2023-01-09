@@ -1199,6 +1199,7 @@ Business
 * ['잘못된 비즈니스 결정'이 또 다른 '내부자 위협'이 된 사례 - ITWorld Korea](https://www.itworld.co.kr/news/231314)
 * [의사 결정과 데이터](https://www.facebook.com/keeyong.han/posts/pfbid0RmmCCdrTqqQuSGaTbsJUXQztNFpYSQ9NzNZXQpwpW3KeW26jGKjMzPdZ4AY1WLHrl)
 * [어떤 결정을 내릴 때 '직감'이나 '데이터'를 믿는 건 하수에요](https://www.facebook.com/somewon.yoon/posts/pfbid0UppjvtUM4X315XzZ2zQ14NwiJgcouniQVscetMoKzKh1SZKwjamD8JiFzfHGfHJdl) 의사결정에 프로세스 > 분석
+* [의사결정과 협업의 기준이 되는 모델 만들기](https://brunch.co.kr/@graypool/766)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -1821,6 +1822,7 @@ Business
 * [Pre A 회고: 투자유치시 멘탈 관리 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/4024)
 * [**피그마 CPO 인터뷰 "Figma는 어떻게 제품팀을 구성할까?"**](https://www.grownbetter.com/article/206)
 * [사용자 3명인 제품, 만들어야 할까?](https://toss.tech/article/only-3-users-product)
+* [프로덕트 매니저를 위한 웹훅](https://janepark.notion.site/6f945ea4f8e146008918cb18b7854184)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
