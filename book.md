@@ -675,6 +675,9 @@ Book
 * [『좋은 불평등』, 한국경제 상식을 무너뜨리는 충격적인 ‘불평등 교과서’ | ㅍㅍㅅㅅ](https://ppss.kr/archives/257236)
   * ★★★★☆ 2023.01.10
   * 한라 321.81-최44ㅈ 탐라 문321.81-최44ㅈ 우당 문321.81-최44ㅈ
+  * [좋은 불평등](https://github.com/hyunjun/bookmarks/blob/master/books/good_inequality.md)
+  * [좋은 불평등. 루이스 전환점 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%A2%8B%EC%9D%80-%EB%B6%88%ED%8F%89%EB%93%B1-8319b84973e6)
+  * [좋은 불평등](https://jh4hj.tistory.com/entry/%EC%A2%8B%EC%9D%80-%EB%B6%88%ED%8F%89%EB%93%B1)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
   * 탐라
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
