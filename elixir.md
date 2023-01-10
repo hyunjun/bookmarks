@@ -86,6 +86,7 @@ Elixir
 * [Elixir 는 어떻게 10년도 안되어 성숙한 언어가 되었나 · Json Media](https://json.media/blog/how_elixir_became_a_mature_language_in_less_than_10_years)
 * [Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=mkGq1WoEvI4)
 * [You may not need Redis with Elixir - Dashbit Blog](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
+* [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
