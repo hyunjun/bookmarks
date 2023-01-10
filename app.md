@@ -985,6 +985,7 @@ App
     * [비주얼 스튜디오 코드의 파이썬 기능 추가와 변경사항(2022년 3월 업데이트)](https://blog.naver.com/drvoss/222663943725) python 버전 변환
     * [Powerful VSCode Tips And Tricks For Python Development And Design - YouTube](https://www.youtube.com/watch?v=fj2tuTIcUys)
     * [Python in Visual Studio Code – June 2022 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2022-release/)
+    * [Passion is like genius; a miracle. - VSCode 에서 내가 작성한 모듈을 찾지 못해 ModuleNotFound가 나올 때](https://mkseo.pe.kr/blog/?p=2743)
   * react
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
