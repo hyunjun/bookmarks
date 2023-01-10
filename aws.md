@@ -926,6 +926,7 @@ AWS
 * [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1484/introduction-to-containers-korean)
 * [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 * [ECS 톺아보기. ECS 기본 개념을 확실히 알아보고, ECS로 서비스를 출시하는 방법에… | by 김승수 | 오토피디아 | Sep, 2022 | Medium](https://medium.com/autopedia/ecs-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-4e69025f9941)
+* [Amazon ECS Service Connect – 컨테이너 기반 마이크로서비스내 간편한 통신 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-ecs-service-connect-enabling-easy-communication-between-microservices/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
