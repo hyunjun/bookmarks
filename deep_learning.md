@@ -2719,6 +2719,12 @@ CVPR2016)
 * [discoart: 🪩 Create Disco Diffusion artworks in one line](https://github.com/jina-ai/discoart)
 * [fast-stable-diffusion: fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth](https://github.com/TheLastBen/fast-stable-diffusion)
   * [fast-DreamBooth.ipynb - Colaboratory](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
+* [keras-sd-serving: showing various ways to serve Keras based stable diffusion](https://github.com/deep-diver/keras-sd-serving)
+  * FastAPI 및 TensorFlow Serving으로 배포하기 위해 필요한 소스코드와 더불어 즉시 사용 가능한 도커 이미지 7종 빌드
+  * 기능 작동 여부는 Google Kubernetes Engine 위에서 확인, 이에 따라 Dockerfile 및 yaml 파일도 함께 저장소에 포함
+  * TensorFlow Serving의 경우, TF/Keras 모델을 SavedModel 형식으로 만들 필요
+    * SavedModel도 모두 Hugging Face Hub(Model)에 업로드
+  * 모든 절차는 Jupyter Notebook 형식으로 검증, 저장소에 포함된 10종의 노트북을 통해서 작동 방식을 확인 가능
 * [LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS | LAION](https://laion.ai/blog/laion-5b/)
 * [Lexica](https://lexica.art/)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
