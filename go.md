@@ -409,6 +409,7 @@ Go
   * [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
+  * [go fmt | golang fmt package functions | fmt golang - YouTube](https://www.youtube.com/watch?v=3iIpVk5FxHU)
 * generic
   * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
   * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
