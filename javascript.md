@@ -2068,6 +2068,7 @@ Javascript
   * [Building a Full Stack Social Media App with Nuxt 3, TailwindCSS and Prisma](https://morioh.com/p/31770a67dcad)
   * [How to use Cloudinary Images with Nuxt 3 - DEV Community 👩💻👨💻](https://dev.to/jacobandrewsky/how-to-use-cloudinary-images-with-nuxt-3-4om4)
   * [Nuxt 3 – More Than Vue 3 on Steroids, by Alexander Lichter - YouTube](https://www.youtube.com/watch?v=cSjlefuZlaI)
+  * [Websocket Server | Nuxt 3 | Real time messages - YouTube](https://www.youtube.com/watch?v=d-LSN-xo6N4)
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
@@ -2450,6 +2451,7 @@ Javascript
   * [Introducing the new npm Dependency Selector Syntax | GitHub Changelog](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax/)
     * npm v8.15.0에서 의존성 선택자로 npm query 명령어 추가
     * 이는 CSS 셀렉터와 유사한 형식을 가지고 있고 `npm query "*"`, `npm query "#react:not(.peer)"`같은 형식으로 의존성 조회 가능
+  * npkill [node_modules 대청소 - YouTube](https://www.youtube.com/shorts/0b8HHK6Zs-E)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
