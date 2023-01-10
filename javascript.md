@@ -4569,6 +4569,7 @@ Javascript
   * [Next.js 13 introduces layouts, React Server Components, and streaming in the app directory, as well as Turbopack - YouTube](https://www.youtube.com/playlist?list=PLCag8k3PYB40N97s5DWMecnfyCs02b0MS)
   * [Next.js 13 HMR Is 700 Times Faster | by Tom Smykowski | Nov, 2022 | Medium](https://tomaszs2.medium.com/next-js-13-hmr-is-700-times-faster-81f7249b68a7)
   * [Next.js13 (beta) Review](https://jiyunpark.notion.site/Next-js13-beta-Review-36be3efe9f2f44ada0c116356965ec34)
+  * [Next Js 13 Dynamic Website Ever 2023 - YouTube](https://www.youtube.com/watch?v=MOEfA3eAigM)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
   * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
