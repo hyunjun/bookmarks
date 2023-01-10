@@ -518,6 +518,7 @@ Python
   * [KivyAndroidClassification](https://github.com/ahmedfgad/KivyAndroidClassification)
   * [Running NumPy in Android Devices using the Kivy Python Framework](https://heartbeat.fritz.ai/running-numpy-in-android-devices-using-kivy-python-framework-524cb0fac7c5)
   * [Kivy - 안드로이드 앱 만들기 - 강좌링크](https://open-support.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-Kivy-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B0%95%EC%A2%8C%EB%A7%81%ED%81%AC)
+  * [Starting With Kivy to Build Cross-Platform GUI Apps - YouTube](https://www.youtube.com/watch?v=crpQUc81THU)
   * [NumPyCNNAndroid - This project builds Convolutional Neural Network (CNN) for Android using Kivy and NumPy](https://github.com/ahmedfgad/NumPyCNNAndroid)
 
 # API
