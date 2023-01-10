@@ -126,6 +126,7 @@ Programming
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [BDD? SDD? 팀 프로젝트 다같이 개발설계하는 방법](https://velog.io/@teo/behavior-driven-development-schema-driven-development) design
 * [The Lost Art of Software Design • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=gNj8I4uSTgc)
+* [Tidy First? Daily Empirical Software Design & Why It Works | Beetroot](https://beetroot.co/productivity/tidy-first-daily-empirical-software-design-why-it-works/)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -853,6 +854,7 @@ Programming
   * [Agile's 3 categories: Iterative, Incremental, and Evolutionary - Agile Notion](https://agilenotion.com/agile-categoriesiterative-incremental-evolutionary/)
   * [The greatest example ever of MVP and iterative, incremental development | by Gert Erasmus | Medium](https://medium.com/@gerterasmus23/the-greatest-example-ever-of-mvp-and-iterative-incremental-development-41fd718ece06)
   * [What is Iterative, Incremental Delivery? The Hunt for the Perfect Example. | Scrum.org](https://www.scrum.org/resources/blog/what-iterative-incremental-delivery-hunt-perfect-example)
+* [AKC2021 키노트 : 함께하기, 애자일 - 박태웅 - YouTube](https://www.youtube.com/watch?v=LxDY9Sg0pck)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -1422,6 +1424,7 @@ Programming
 * [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Multi-Tenant Application. Software Architecture | blackthorn.ai | by Alex Gurbych | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/multi-tenant-application-a29153d31c5a)
+* [Surffy 에스티씨랩 STCLab multi-tenant SaaS Architecture 아키텍처 STCLab tech blog STCLab blog aws | STCLab Tech Blog](https://medium.com/stclab-tech-blog/multi-tenant-saas-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%86%A0%EB%A6%AC-5d92cc0eb3f3)
 * [What's Under the Hood of SaaS Companies (Hint: Why Multitenancy Matters)](https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies?s=r)
   * 멀티테넌시가 SaaS 업체가 성공하기 위한 요구사항이라고 주장
   * 초기 스타트업이 빠르고 지저분한 단일 테넌트 환경에서 시작할 수 있지만 성장하기 시작하면 멀티테넌트를 해결해야만 함
