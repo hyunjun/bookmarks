@@ -235,6 +235,7 @@ SQL
 * [05 - Buffer Pools (CMU Intro to Database Systems / Fall 2021) - YouTube](https://www.youtube.com/watch?v=Moz2AgC9hG4)
 * [MVCC 구조와 이해](https://mozi.tistory.com/561)
 * [고가용성의 웹 서비스를 위한 데이터베이스 클러스터링](https://hudi.blog/database-clustering/) clustering
+* [오래된 DB와 이별하는 방법 :: GS Retail Engineering](https://gsretail.tistory.com/25)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
