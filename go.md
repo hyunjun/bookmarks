@@ -341,6 +341,7 @@ Go
   * 이렇게 만든 Go 코드에 컴파일 오류가 자주 발생했기 때문에 tsfix라는 Go 자동수정 도구를 만들어서 10만 개가 넘는 컴파일 오류를 1,298개로 감소
 * [Go / Golang e Validation Request - YouTube](https://www.youtube.com/watch?v=xRI4NkLhYmE)
 * [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
+* [Ultimate Go: Advanced Engineering - YouTube](https://www.youtube.com/playlist?list=PLADD_vxzPcZC0TWwc1ZNV8KALyeNVC3cA)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
