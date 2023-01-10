@@ -1040,6 +1040,7 @@ Scala
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
     * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
+    * [Zymposium - ZIO From Scratch (Part 2) - YouTube](https://www.youtube.com/watch?v=Yj8vXEUYLrA)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
     * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
