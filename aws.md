@@ -481,6 +481,7 @@ AWS
 * [AWS Wickr – 엔터프라이즈 기업을 위한 안전한 종단 간 암호화 통신 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-wickr-a-secure-end-to-end-encrypted-communication-service-for-enterprises-with-auditing-and-regulatory-requirements/)
 * [Visually Compose Serverless Applications – AWS Application Composer – Amazon Web Services](https://aws.amazon.com/ko/application-composer/)
 * [Getting started Virtual Waiting Room on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-virtual-waiting-room-on-aws/)
+* ['Amazon Web Service Network 쉽게 이해하기' 카테고리의 글 목록](https://aws-hyoh.tistory.com/category/Amazon%20Web%20Service%20Network%20%EC%89%BD%EA%B2%8C%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
