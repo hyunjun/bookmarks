@@ -1692,6 +1692,7 @@ AWS
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 * [Amazon Redshift는 가격 대비 성능 우위를 지속합니다 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-continues-its-price-and-performance/)
 * [Amazon Redshift 스트리밍 수집을 이용한 실시간 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/real-time-analytics-with-amazon-redshift-streaming-ingestion/)
+* [What’s new with Amazon Redshift from AWS re:Invent 2022 | by Phoebe Baek | Cloud Villains | Dec, 2022 | Medium](https://medium.com/ctc-mzc/whats-new-with-amazon-redshift-from-aws-re-invent-2022-85cb1646f6dc)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
