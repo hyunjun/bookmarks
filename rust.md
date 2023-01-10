@@ -100,6 +100,10 @@
 * [10 Key Learnings in Rust after 30,000 Lines of Code](https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19)
 * [Declarative Programming in Rust](https://www.youtube.com/watch?v=Des3zZuTbhk)
 * [Why is Rust slightly slower than C?](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)
+* [Is coding in Rust as bad as in C++?](https://quick-lint-js.com/blog/cpp-vs-rust-build-times/)
+  * 1. 예상과 다르게 코드수는 rust로 포팅하니 오히려 증가
+  * 2. 전체 빌드(full build)에서는 대체로 c++가 빠르거나 비슷
+  * 3. 증분 빌드(incremental build)에서는 종종 rust가 빠른 경우도 있었는데 비긴경우도 있고 rust가 크게 느린 경우도
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 * [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
