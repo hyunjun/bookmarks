@@ -1651,6 +1651,7 @@ Docker
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
   * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
   * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
+  * [Kubernetes – Calico Troubleshooting – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=7416)
 * [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
 * Chaos Mesh [A Powerful Chaos Engineering Platform for Kubernetes | Chaos Mesh](https://chaos-mesh.org/)
   * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
