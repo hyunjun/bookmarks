@@ -2615,6 +2615,7 @@ Programming Books
 * (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
+* (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
