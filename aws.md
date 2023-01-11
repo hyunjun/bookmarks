@@ -310,13 +310,6 @@ AWS
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
-* [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
-* [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
-* [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
-* [AWS GLUE Serverless PySpark](https://velog.io/@hsh/AWSGLUE-Serverless-Spark/)
-* [Apache Iceberg Connector for AWS Glue를 이용하여 데이터레이크 CRUD 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/transactional-datalake-using-apache-iceberg-connector-for-aws-glue/)
-* [Simplify Snowflake data loading and processing with AWS Glue DataBrew | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/simplify-snowflake-data-loading-and-processing-with-aws-glue-databrew/)
-* [AWS Glue DataBrew와 Amazon QuickSight를 이용한 반정형 중첩 JSON 데이터 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/simplify-semi-structured-nested-json-data-analysis-with-aws-glue-databrew-and-amazon-quicksight/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
@@ -1081,6 +1074,16 @@ AWS
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 * [walmart-sales-forecast: Time Series Forecasting for Walmart Store Sales](https://github.com/youngmki/walmart-sales-forecast)
+
+# Glue
+* [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
+* [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
+* [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
+* [AWS GLUE Serverless PySpark](https://velog.io/@hsh/AWSGLUE-Serverless-Spark/)
+* [Apache Iceberg Connector for AWS Glue를 이용하여 데이터레이크 CRUD 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/transactional-datalake-using-apache-iceberg-connector-for-aws-glue/)
+* [Simplify Snowflake data loading and processing with AWS Glue DataBrew | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/simplify-snowflake-data-loading-and-processing-with-aws-glue-databrew/)
+* [AWS Glue DataBrew와 Amazon QuickSight를 이용한 반정형 중첩 JSON 데이터 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/simplify-semi-structured-nested-json-data-analysis-with-aws-glue-databrew-and-amazon-quicksight/)
+* [AWS Glue로 Ray 프레임워크 이용 하기 (평가판 이용) | by MZC_Global | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/aws-glue%EB%A1%9C-ray-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%9D%B4%EC%9A%A9-%ED%95%98%EA%B8%B0-%ED%8F%89%EA%B0%80%ED%8C%90-%EC%9D%B4%EC%9A%A9-b0ad7b505b4c)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
