@@ -5254,13 +5254,11 @@ Python
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
 
 # Tutorial
-* [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
 * [Python Programming Course](https://tutorialedge.net/course/python/)
 * [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
 * [Python Tutorial | Beginners & Experienced – Learn Python](https://tutorial.eyehunts.com/python-tutorial/)
-* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
 * [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 * [파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 나도코딩 - YouTube](https://www.youtube.com/watch?v=kWiCuklohdY)
@@ -5270,6 +5268,9 @@ Python
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
 * [Learn basics Python Programming with Smartphone 1 - YouTube](https://www.youtube.com/watch?v=TenXmjyHmfU)
 * [시리즈 | 파이썬 입문자를 위한 기초 다지기! - hyunbeen0216.log](https://velog.io/@hyunbeen0216/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)
+* [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
+* [futurecoder: learn python from scratch](https://futurecoder.io/)
+* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 * [Misha Sv - YouTube](https://www.youtube.com/c/MishaSv)
 * [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
 * [tinkerstellar | Learn by tinkering](https://tinkerstellar.com/)
