@@ -264,6 +264,9 @@ Book
 * [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
   * ★★★★☆ 2023.01.08
   * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
+  * [당신이 옳다](https://github.com/hyunjun/bookmarks/blob/master/books/you_are_right.md)
+  * [당신이 옳다. 스타란 너(대중)의 취향에 나를 온전히 맞추는 사람만이 살아남는… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4-8ccbf7ff7acf)
+  * [당신이 옳다](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4)
 * [대체 뭐가 문제야](https://cskstory.tistory.com/16)
   * ★★★★☆ 2023.01.09
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
