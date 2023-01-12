@@ -1198,6 +1198,7 @@ Javascript
   * [IMQA 세미나 곽윤설 · Present](https://present.do/documents/62b297e6e214362cce85ad1a)
   * [자바스크립트는 어떻게 약속을 지킬까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220725)
   * [프라미스 깊게 이해하기](https://brunch.co.kr/@skykamja24/670)
+  * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -4655,6 +4656,7 @@ Javascript
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
+  * [오픈소스 WYSIWYG 편집기 기능 확장 경험기. 리얼월드 스튜디오의 프론트엔드 개발 사례 중 하나로 HTML 위지윅… | by MuHun Kim | Uniquegood | Jan, 2023 | Medium](https://medium.com/uniquegood/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-wysiwyg-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EA%B8%B0%EB%8A%A5-%ED%99%95%EC%9E%A5-%EA%B2%BD%ED%97%98%EA%B8%B0-3bbadd6141ea) react 내용은 아니나 quill이라서 일단 여기에 배치
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
   * [리액트 라우터 (react-router v4) 강의 1/3 : 사용 방법](https://velopert.com/3275)
   * [리액트 라우터, 코드 스플리팅, 그리고 서버사이드 렌더링 :: 목차](https://velopert.com/3411)
