@@ -261,12 +261,6 @@ Book
     * 한라 660.4-스883ㅎ 우당 환경660.4-스832ㅎ
   * [휴먼스 오브 뉴욕](https://blog.naver.com/seasonsinthelife/220882604668)
     * 한라 668.5-스883ㅎ 탐라 개668.5-스884ㅎ
-* [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
-  * ★★★★☆ 2023.01.08
-  * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
-  * [당신이 옳다](https://github.com/hyunjun/bookmarks/blob/master/books/you_are_right.md)
-  * [당신이 옳다. 스타란 너(대중)의 취향에 나를 온전히 맞추는 사람만이 살아남는… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4-8ccbf7ff7acf)
-  * [당신이 옳다](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4)
 * [대체 뭐가 문제야](https://cskstory.tistory.com/16)
   * ★★★★☆ 2023.01.09
   * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
@@ -1164,6 +1158,16 @@ Book
   * 한라 320-베44ㅍ 320.904-노34ㅍ 탐라 320.904-노34ㅍ 우당 문108-청55ㅍ-16 문320-베43ㅍ
 * (NOT YET) [국가는 왜 실패하는가 국가간 격차가 존재하는 진짜 이유는? - YouTube](https://www.youtube.com/watch?v=jHTPbrdPwS0)
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
+
+# Psychology
+* [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
+  * ★★★★☆ 2023.01.08
+  * 한라 189-정94ㄷ 탐라 문189-정94ㄷ 우당 문189-정94ㄷ
+  * [당신이 옳다](https://github.com/hyunjun/bookmarks/blob/master/books/you_are_right.md)
+  * [당신이 옳다. 스타란 너(대중)의 취향에 나를 온전히 맞추는 사람만이 살아남는… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4-8ccbf7ff7acf)
+  * [당신이 옳다](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4)
+* (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
+  * 한라 189.2-문65ㄱ 탐라 189.2-문66ㄱ 우당 문189.2-문66ㄱ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
