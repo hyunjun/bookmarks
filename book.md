@@ -382,8 +382,6 @@ Book
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
-* (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
-  * 탐라
 * (NOT YET) [반대의 놀라운 힘](https://post.naver.com/viewer/postView.naver?volumeNo=28399123)
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
@@ -538,7 +536,6 @@ Book
 * (NOT YET) [20세기 미국 미술 : 현대 예술과 문화 1950~2000 휘트니미술관 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=867)
   * 탐라 문609.42-필239ㅇ 우당 문609.42-필239ㅇ
 * (NOT YET) [Gaudi Basic Architecture 2.0 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/basicartseries/?idx=266)
-  * 탐라
 * (NOT YET) [Van Gogh The Complete Paintings compact 반고흐 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/138/?idx=282)
   * 한라
 * (NOT YET) [위로의 미술관](https://brunch.co.kr/@kym8927/79)
@@ -1166,6 +1163,8 @@ Book
   * [당신이 옳다](https://github.com/hyunjun/bookmarks/blob/master/books/you_are_right.md)
   * [당신이 옳다. 스타란 너(대중)의 취향에 나를 온전히 맞추는 사람만이 살아남는… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4-8ccbf7ff7acf)
   * [당신이 옳다](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4)
+* (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
+  * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
   * 한라 189.2-문65ㄱ 탐라 189.2-문66ㄱ 우당 문189.2-문66ㄱ
 
