@@ -529,7 +529,7 @@ Business
 * [피드백, Payoff 그리고 적절함](https://brunch.co.kr/@graypool/553) 윗 글과 연결되 운영상 문제를 해결하는게 중요함을 이야기하는 글
 * [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
-* [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
+* [The RACI matrix: Your blueprint for project success | CIO](https://www.cio.com/article/287088/project-management-how-to-design-a-successful-raci-project-plan.html)
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
 * [오늘회와 커머스 플랫폼 전략](https://www.facebook.com/whyhyo/posts/pfbid02b6UXo9FfWzZvbm7R14pnbyXYfRkHa4yF6g8fG7PhKCeRaXhXXMo6nf1KNSzSidf2l) 오늘회 반면교사
 * [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
