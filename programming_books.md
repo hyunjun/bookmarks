@@ -444,6 +444,7 @@ Programming Books
   * [출근했더니 스크럼 마스터가 된 건에 관하여](https://github.com/hyunjun/bookmarks/blob/master/programming_books/becoming_scrum_master.md)
   * [출근했더니 스크럼 마스터가 된 건에 관하여. 출근했더니 스크럼 마스터가 된 건에 관하여 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-9eeed72faf86)
   * [출근했더니 스크럼 마스터가 된 건에 관하여](https://jh4hj.tistory.com/entry/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC)
+  * [현실판 출근했더니 스크럼 마스터가 된 건에 관하여. 안녕하세요 베이비스토리 iOS 앱을 개발하면서 스크럼 마스터로 일하고… | by 보라 | 픽소 팀블로그 | Jan, 2023 | Medium](https://medium.com/pixo-co/%ED%98%84%EC%8B%A4%ED%8C%90-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ca142029f894)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
