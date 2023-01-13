@@ -2078,6 +2078,7 @@ Programming Books
 * (NOT YET) [프론트엔드 성능 최적화 가이드 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/11/07/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
+* (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
 
 ## Angular
 
