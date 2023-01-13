@@ -475,6 +475,7 @@ AWS
 * [Visually Compose Serverless Applications – AWS Application Composer – Amazon Web Services](https://aws.amazon.com/ko/application-composer/)
 * [Getting started Virtual Waiting Room on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-virtual-waiting-room-on-aws/)
 * ['Amazon Web Service Network 쉽게 이해하기' 카테고리의 글 목록](https://aws-hyoh.tistory.com/category/Amazon%20Web%20Service%20Network%20%EC%89%BD%EA%B2%8C%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [안전한 협업 – AWS Clean Rooms – Amazon Web Services](https://aws.amazon.com/ko/clean-rooms/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
