@@ -1274,6 +1274,10 @@ Apache
 * [incubator-seatunnel: SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)](https://github.com/apache/incubator-seatunnel)
 * [Apache SeaTunnel - 분산, 고성능 데이터 통합 플랫폼 | GeekNews](https://news.hada.io/topic?id=5691)
 
+# ShardingSphere
+* [Apache ShardingSphere](https://shardingsphere.apache.org/)
+* [주문서비스 ShardingSphere-Proxy 도입기. 안녕하세요. 요기요 R&D Center에서 주문 서비스인… | by Byeongcheol Kim | Jan, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%A3%BC%EB%AC%B8%EC%84%9C%EB%B9%84%EC%8A%A4-shardingsphere-proxy-%EB%8F%84%EC%9E%85%EA%B8%B0-46d83084586b)
+
 # SINGA
 * [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
 
