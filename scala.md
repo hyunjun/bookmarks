@@ -1355,6 +1355,7 @@ Scala
   * [GraphQL in Scala with Caliban — Part 3: Customization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-3-8962a02d5d64)
   * [Caliban Client: a type-safe GraphQL Client for Scala and Scala.js](https://medium.com/@ghostdogpr/caliban-client-a-type-safe-graphql-client-for-scala-and-scala-js-718aa42c5ef7)
   * [Caliban: Functional GraphQL Library for Scala by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=oLvdhVNIC3k)
+  * [Cost-Effective And Easy-To-Maintain GraphQL API Integration Tests With ZIO Test and Caliban - YouTube](https://www.youtube.com/watch?v=pYfWq4GmObY)
 * Capacitor [Cross-Platform Mobile dev with Scala and Capacitor | by Antoine Doeraene | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/cross-platform-mobile-dev-with-scala-and-capacitor-54e69b62b50c)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
