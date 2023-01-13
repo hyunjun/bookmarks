@@ -139,6 +139,7 @@ Monitoring
       * (1) On-prem , AWS를 각각 모니터링 해야하는지?
       * (2) AWS EKS , ECS 등 컨테이너 모니터링은 어떻게 해야할지
       * (3) AWS의 RDS ,Cloudfront, Lambda , Elastic cache , DynamoDB 등등 각각의 서비스 모니터링, CodePipeLine을 어떻게 개별적으로 관리할지? (데이터독은 모두 무상으로 모니터링을 제공 드립니다.)
+  * [Automate End-to-End Processes and Quickly Respond to Events With Datadog Workflows | Datadog](https://www.datadoghq.com/blog/automate-end-to-end-processes-with-datadog-workflows/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
