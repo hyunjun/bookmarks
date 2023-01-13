@@ -118,6 +118,7 @@ Programming
     * 하지만 앞의 3가지를 끝내지 않은 상태에서 생산 속도를 밀어붙여선 안된다. 그렇지 않으면 자기 무덤을 더 빠르게 파는 것이나 마찬가지다.
   5. 자동화해라
   * 순서가 중요. 거꾸로 적용하면 안됨
+* [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
@@ -1696,6 +1697,7 @@ Programming
 * [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
 * [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 * [**회원시스템 이벤트기반 아키텍처 구축하기 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7835/) Transactional outbox Pattern
+  * [Building event-based architecture for member system | 우아한형제들 기술블로그](https://techblog.woowahan.com/10320/)
 * [회원가입으로 보는 Event Driven Architecture 구현](https://jgrammer.tistory.com/entry/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-Event-Driven-Architecture-%EA%B5%AC%ED%98%84)
 * [Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a)
 * [Event-Driven Architecture with React and FastAPI – Full Course - YouTube](https://www.youtube.com/watch?v=NVvIpqmf_Xc)
