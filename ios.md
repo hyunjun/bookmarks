@@ -571,6 +571,8 @@ iOS
 * [Swift Core ML implementations of Transformers: GPT-2, BERT, more coming soon!](https://github.com/huggingface/swift-coreml-transformers)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [SwiftExpress – Web Application Server in Swift](http://rshankar.com/swiftexpress-web-application-server-in-swift/)
+* [SwiftFormat: A command-line tool and Xcode Extension for formatting Swift code](https://github.com/nicklockwood/SwiftFormat)
+  * [SwiftLint와 SwiftFormat 적용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-lint-swift-format/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [swiftplot - Swift library for Data Visualization](https://github.com/KarthikRIyer/swiftplot)
   * Swift를 이용하여 멀티 플랫폼에서 그래프를 그리기 위한 방법으로 제안
