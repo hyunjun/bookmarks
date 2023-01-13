@@ -2059,6 +2059,7 @@ Business
 * [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
+* [센드버드 김동신, 이상희 대표님을 만났습니다 | Disquiet*](https://disquiet.io/@kwondoeon/makerlog/4421)
 * [스타트업의 해외진출과 플립 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243263)
 * [당근마켓 영국 사업 회고록 (1/N) - by Laurie Hwang](https://lauriehwang.substack.com/p/work-1n)
 * [당근마켓 영국 사업 회고록 (2/N) - by Laurie Hwang](https://lauriehwang.substack.com/p/2n)
