@@ -748,6 +748,9 @@ Apache
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
   * 디테일하게 'Destionation Topic의 Partition별 offset' 을 보고 싶은 경우 Destination Topic을 모니터링 시스템에 연결하는 방식
 * [Kafka Offset Monitor - an app to monitor your kafka consumers and their position (offset) in the queue](https://github.com/quantifind/KafkaOffsetMonitor)
+* [kafka-sink-connector: Kafka Connect connector that reads JSON data from Apache Kafka and send JSON record to Another Kafka topic](https://github.com/kakao/kafka-sink-connector)
+  * [카프카 커넥트 소개](https://www.linkedin.com/posts/andersonchoi_github-kakaokafka-sink-connector-kafka-activity-7019173388220858368-1j8m/)
+    * [카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱! – tech.kakao.com](https://tech.kakao.com/2023/01/12/introduce-kafka-sink-connector/)
 * [Kafka-Sprout: Web GUI for Kafka Cluster Management](https://github.com/oslabs-beta/Kafka-Sprout)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
