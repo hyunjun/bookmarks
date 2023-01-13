@@ -718,6 +718,7 @@ Programming Books
   * 우당 문005.1-페63ㅈ
   * ★★★★☆ ~2022.08.06
   * [리스크 크기로 적정한 수준의 소프트웨어 설계 .. : 네이버블로그](https://blog.naver.com/drvoss/222939552210)
+  * [적정기술 딜레마 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230112-appropriate-technology/) 책에 대한 이야기는 아니나 주제가 맞아서 배치
 * [소프트웨어 아키텍처 The Hard Parts](https://www.hanbit.co.kr/store/books/look.php?p_code=B9812407060)
   * ★★★★☆ ~2022.10.29
   * [소프트웨어 아키텍처 The Hard Parts. 아키텍처에 관한 책은 일반적으로 어렵다. 다뤄야 할 범위가 크니 알아야… | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-the-hard-parts-abb1f18f0375)
