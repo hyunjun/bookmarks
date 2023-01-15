@@ -323,6 +323,8 @@ Programming Books
 * (NOT YET) [세상을 바꿀 미래기술 12가지 | 위키북스](https://wikibook.co.kr/futuretech12/)
 * (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
+* (NOT YET) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
+  * 한라 004.783-해298ㄷ
 
 # Agile Scrum
 
