@@ -337,6 +337,10 @@ Apache
 # Hop
 * [Apache Hop - Hop](https://hop.apache.org/)
 
+# Hudi
+* [Hello from Apache Hudi | Apache Hudi](https://hudi.apache.org/)
+* [Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
+
 # Iceberg
 * [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
 * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
@@ -733,6 +737,7 @@ Apache
 * [Apache Kafka Best Practices](https://skolaparthi.com/apache-kafka-best-practices/)
 * [Apache Kafka-Installation Steps](https://skolaparthi.com/apache-kafka-installation/)
 * [Kafka in Action • Viktor Gamov & Tim Berglund • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=2l-JsB10WaI)
+* [카프카 시작하기 - 개념, 클러스터.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222984745300)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
