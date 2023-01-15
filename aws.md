@@ -1987,6 +1987,8 @@ AWS
 * [DevOps Tutorials |How to Create a VPC/Subnets in AWS Using Ansible | Aws Tutorials - YouTube](https://www.youtube.com/watch?v=rSK7-XvWYAc)
 * [Amazon VPC Lattice 미리 보기 – 서비스 간 통신을 위한 네트워킹 간소화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
 * [AWS Organization 계정 간의 VPC Reachability Analyzer를 이용한 reachability analysis](https://zigispace.net/1194)
+* [Amazon VPC 한 번쯤 궁금한 이야기 1 : Mapping Service](https://zigispace.net/1195)
+* [Amazon VPC 한 번쯤 궁금한 이야기 2 : Blackfoot Edge Device](https://zigispace.net/1196)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
