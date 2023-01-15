@@ -257,6 +257,7 @@
 * [egrikor: A Rust GUI Library](https://github.com/lasernoises/egrikor)
   * [Building a GUI Library in Rust - YouTube](https://www.youtube.com/watch?v=sDLrNAB7neY)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
+* [evcxr_jupyter at main · google/evcxr](https://github.com/google/evcxr/tree/main/evcxr_jupyter) jupyter rust kernel
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 * [hck: A sharp cut(1) clone](https://github.com/sstadick/hck)
@@ -445,6 +446,7 @@
 * Rustonomicon [Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 * [sjkim_rust_programming](https://github.com/jskDr/sjkim_rust_programming)
   * [러스트 코딩 - YouTube](https://www.youtube.com/playlist?list=PLGmo-6ZqcZTCwB3inwikMknhd-RdlmnqA)
+  * [superqai.com:5000/rustplay](http://superqai.com:5000/rustplay)
 
 # Web
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
