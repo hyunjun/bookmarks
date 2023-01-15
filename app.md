@@ -428,6 +428,7 @@ App
   * [아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (2) | Open Sea](https://opensea.kr/%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ed%94%84%eb%a1%9c%ec%99%80-%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0-2/)
   * [수동으로 파일 첨부한 경우 후처리해 줄 것들 | 웹으로 말하기](https://mytory.net/2022/08/14/wordpress-post-attachment-process.html)
   * [나만의 개인블로그로 WordPress 운영하기 – tebica story](https://earlybird.kr/2659)
+  * [지킬(Jekyll)에서 다시 워드프레스로 이동한 이유 | 웹으로 말하기](https://mytory.net/archives/13519)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
