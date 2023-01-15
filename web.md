@@ -1249,6 +1249,8 @@ Web
   * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
 * [pook: HTTP traffic mocking and testing made simple in Python](https://github.com/h2non/pook)
   * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
+* [Pynecone: The easiest way to build web apps](https://pynecone.io/)
+  * [미친 파이썬 프레임워크가 나타났다. - YouTube](https://www.youtube.com/watch?v=47BL6WLZJ1g)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
 * [PyScript | Run Python in your HTML](https://pyscript.net/)
