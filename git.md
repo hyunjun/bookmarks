@@ -419,6 +419,7 @@ Git
   * Slack과 Microsoft Teams의 GitHub 앱을 통해 GitHub Actions의 워크플로우의 알림 수신 가능
   * `/github subscribe owner/repo workflows` 명령어로 알림 구독
   * `/github subscribe owner/repo workflows:{name:"your workflow name" event:"workflow event" branch:"branch name" actor:"actor name"}`같은 식으로 워크플로를 필터링해서 구독 가능
+* [GitHub Actions에서 조직 수준의 필수 워크플로우를 관리할 수 있는 Required Workflows :: Outsider's Dev Story](https://blog.outsider.ne.kr/1647)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
