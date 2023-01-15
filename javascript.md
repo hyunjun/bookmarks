@@ -3816,6 +3816,7 @@ Javascript
     * 브라우저는 6ms의 여유를(60FPS를 위한 16ms) 가지게 하는 게 일반적이고 어떤 작업을 해야 할지를 위해 스케쥴링 필요
   * React팀이 만든 scheduler가 있지만 이를 렌더링이 아닌 이팩트에도 쓰기 위해 use-transition-effect 작성
   * 해당 패키지를 꼭 쓰지 않더라도 각 단계에서 비교할 수 있는 예제까지 제공하고 있어서 성능 비교 용이
+* [Concept of React Scheduler :: Normal Coder](https://yeoulcoding.me/337)
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
