@@ -1592,6 +1592,7 @@ Scala
   * ["#Scala CLI" - Tool or Toy? - YouTube](https://www.youtube.com/watch?v=c5lBokinwas)
   * [Creating CLI tools leveraging ZIO and Decline using scala-cli](https://mpkocher.github.io/2022/06/02/CLI-App-leveraging-ZIO-and-Decline-using-scala-cli/)
   * [Scala Toolkit makes Scala powerful straight out of the box](https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/)
+  * [Scala CLI Tutorial: Creating a CLI Sudoku Solver - Rock the JVM Blog](https://blog.rockthejvm.com/scala-cli-and-scala-native/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
