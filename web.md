@@ -1205,6 +1205,7 @@ Web
   * [FastAPI MongoDB REST API w/ Python and PyMongo | CRUD Operations mongodb | Swagger UI | - YouTube](https://www.youtube.com/watch?v=MXwcUrI-iss)
   * [FastAPI 밋업 : 우리 회사도 FastAPI 써요! | 원티드](https://www.wanted.co.kr/events/meetup_fastapi)
     * [다양한 커리어 성장의 기회 | 원티드 이벤트](https://www.wanted.co.kr/events/vod/meetup_fastapi)
+  * [Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=5FvicDwklaA)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
