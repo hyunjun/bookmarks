@@ -653,6 +653,7 @@ Business
 * [목적은 믿음의 차이를 극복하는 개념](https://brunch.co.kr/@graypool/718)
 * [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
 * [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
+* [VIRTU](https://carpedm30.notion.site/VIRTU-5370f00be3494678ba8eb128b0806f69)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -2219,6 +2220,7 @@ Business
     * 이후 데이팅 목적 외에도 Tinder를 사용할 수 있는 기능을 제공
 * [구글, 페이스북, 트위터, 페이팔 전부 '사람만 보고 투자했습니다' (Ron Conway - SV Angel, Super Angels) - YouTube](https://www.youtube.com/watch?v=wDPZuH3Q_qw)
 * [스타트업이라는 게임을 이기기 위해 필요한 5가지 (How to Win)](https://www.slid.cc/ko/share/vdocs/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%EC%9D%B4%EA%B8%B0%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-5%EA%B0%80%EC%A7%80-how-to-win-6624570249074c2c8747157aa6dd8f01)
+* [스타트업 업무원칙 76조](https://brunch.co.kr/@shootst/88)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
