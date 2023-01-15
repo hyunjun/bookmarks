@@ -847,6 +847,7 @@ Javascript
 * [라이브러리 없이 라우터(Router) 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221124-router-without-library/)
 * [Say bye bye to bad javascript practices | by Freddy Manrique | Nov, 2022 | GoGrow](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
   * [나쁜 자바스크립트 작성 습관과 작별하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1836/)
+* [웹에 구글 로그인 버튼 붙이기 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%97%90-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B2%84%ED%8A%BC-%EB%B6%99%EC%9D%B4%EA%B8%B0-edf14a5bd4bf)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -936,6 +937,7 @@ Javascript
   * [Code에서 날짜와 시간을 처리하는 것은 상당히 번거로운 일입니다. 사실, 기술적인 어려움이라기보단 시간에 대한 물리학적인 이해의 부족이죠. | by 이상선 | Jan, 2022 | Medium](https://medium.com/@sunyi233/code%EC%97%90%EC%84%9C-%EB%82%A0%EC%A7%9C%EC%99%80-%EC%8B%9C%EA%B0%84%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%83%81%EB%8B%B9%ED%9E%88-%EB%B2%88%EA%B1%B0%EB%A1%9C%EC%9A%B4-%EC%9D%BC%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%8B%A4-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9D%B8-%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%B4%EB%9D%BC%EA%B8%B0%EB%B3%B4%EB%8B%A8-%EC%8B%9C%EA%B0%84%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AC%BC%EB%A6%AC%ED%95%99%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%95%B4%EC%9D%98-%EB%B6%80%EC%A1%B1%EC%9D%B4%EC%A3%A0-fe3fd343478d)
   * [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
   * [Measure Time Taken by a Function to Execute in JavaScript - YouTube](https://www.youtube.com/watch?v=3dkTjy9AX6k)
+  * [JS로 시간 다루기. 시간을 다루는 것은 참 까다롭습니다. 여러 가지 지식이 필요하기… | by 이상선 | Jan, 2023 | Medium](https://medium.com/@sunyi233/js%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A4%EB%A3%A8%EA%B8%B0-ee8baa05c03c)
   * [js-joda: :clock2: Immutable date and time library for javascript](https://github.com/js-joda/js-joda)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
