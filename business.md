@@ -2221,6 +2221,7 @@ Business
 * [구글, 페이스북, 트위터, 페이팔 전부 '사람만 보고 투자했습니다' (Ron Conway - SV Angel, Super Angels) - YouTube](https://www.youtube.com/watch?v=wDPZuH3Q_qw)
 * [스타트업이라는 게임을 이기기 위해 필요한 5가지 (How to Win)](https://www.slid.cc/ko/share/vdocs/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4%EB%9D%BC%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%9D%84-%EC%9D%B4%EA%B8%B0%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-5%EA%B0%80%EC%A7%80-how-to-win-6624570249074c2c8747157aa6dd8f01)
 * [스타트업 업무원칙 76조](https://brunch.co.kr/@shootst/88)
+* [TaeWoo Kim의 브런치](https://brunch.co.kr/@taewookim)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
