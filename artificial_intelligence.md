@@ -6,6 +6,7 @@ Artificial Intelligence
 * [hub-ai.com](http://hub-ai.com/)
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 * [github.com/kjw0612](https://github.com/kjw0612/)
+* [awesome-aiml-blog: These are excerpts from various blog posts related to AI & ML that deal with important research and business cases](https://github.com/youngmki/awesome-aiml-blog)
 * [The libraries of Babel, Mendel and Turing](http://haggstrom.blogspot.kr/2015/04/the-libraries-of-babel-mendel-and-turing.html)
 * [Programming Collective Intelligence](http://whydsp.org/263)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
