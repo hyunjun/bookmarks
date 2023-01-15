@@ -677,6 +677,9 @@ Book
 * [똑똑한 사람들의 멍청한 선택(Misbehaving)](https://blog.naver.com/int9708/220719201529)
   * ★★★★☆ 2023.01.11~14
   * 한라 321.89-탈294ㄸ 탐라 문321.89-리83ㄸ 우당 이321.89-탈233ㄸ
+  * [똑똑한 사람들의 멍청한 선택](https://github.com/hyunjun/bookmarks/blob/master/books/misbehaving.md)
+  * [똑똑한 사람들의 멍청한 선택. Misbehaving: The Making of Behavioural… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%98%91%EB%98%91%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%84%A0%ED%83%9D-fad860956a66)
+  * [똑똑한 사람들의 멍청한 선택](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%84%A0%ED%83%9D)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
   * 탐라
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
