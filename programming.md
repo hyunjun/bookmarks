@@ -646,7 +646,10 @@ Programming
 * [frida: Clone this repo to build Frida](https://github.com/frida/frida)
   * [frida-gum: Cross-platform instrumentation and introspection library written in C](https://github.com/frida/frida-gum)
     * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346)
-* [주석을 달지 않는 이유, 달아야 하는 이유](https://velog.io/@joosing/why-not-annotate-why-should-annotate) comment
+* [주석을 달지 않는 이유, 달아야 하는 이유](https://velog.io/@joosing/why-not-annotate-why-should-annotate/) comment
+  * 변수 이름이나 무엇을 하는지 등 코드로 표현할 수 있는 부분을 주석으로 작성하는 것은 피하고
+    * 직관적으로 알기 어렵거나 이유에 대한 설명이 필요하다면 주석을 작성하는 게 좋다고 설명
+  * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
 
 # Agile, Scrum
 * book
@@ -1009,9 +1012,12 @@ Programming
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
-* [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
+* [Platformatic Open Source Software | Platformatic OSS](https://oss.platformatic.dev/)
+  * 내부 개발 플랫폼을 쉽게 만들 수 있게 API 개발을 도와주는 오픈소스 도구의 세트
+  * 첫 도구는 데이터베이스를 API로 노출해 주는 Platformatic DB
 * [practice-api](https://github.com/LearnWebCode/practice-api)
   * [JSON Practice Challenge: Build a Front-End For This API - YouTube](https://www.youtube.com/watch?v=k-KoZ5fnESk)
+* [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
 * [ratelimit: API Rate Limit Decorator](https://github.com/tomasbasham/ratelimit)
   * [API Rate Limit Decorator with python](https://pythonawesome.com/api-rate-limit-decorator-with-python/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
@@ -2777,6 +2783,7 @@ Programming
 * [Snippet Shot - Generate screenshots 📸 from your code snippets](https://www.snippetshot.com/)
 * [theia Cloud & Desktop IDE](https://theia-ide.org/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+* [val town](https://www.val.town/) 코드 스니펫을 저장해 두고 이를 웹 브라우저에서 바로 실행해보고 공유할 수 있게 하는 서비스
 * VS code live share [Microsoft : VS Live Share](https://pang2h.tistory.com/91)
 * [wandbox.org](https://wandbox.org/)
 * [wiki coding](http://wikicoding.org/)
@@ -5411,6 +5418,16 @@ Programming
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
 * [깃헙의 10월 21일 장애 사후 분석](https://muchtrans.com/translations/github-oct-21-post-incident-analysis.ko.html)
 * [카카오 사태로 필수개념된 DR 시스템? 설명 10분컷! - YouTube](https://www.youtube.com/watch?v=tLLs7fKts2o) disaster recovery, RTO, RPO
+* [CircleCI security alert: Rotate any secrets stored in CircleCI (Updated Jan 13)](https://circleci.com/blog/january-4-2023-security-alert/)
+  * CircleCI에서 12월 21일부터 1월 4일까지 내부에서 의심스러운 접근으로 시크릿에 저장된 값에 접근했을 수 있는 가능성이 발견
+    * CircleCI에 저장된 모든 시크릿을 로테이션 시키라고 권고
+  * 많이 쓰이는 CI라서 꽤 큰 보안 사고이지만
+    * CircleCI에서 발 빠르게 조처하고 있고
+    * 각 시크릿을 찾는 방법을 안내하고
+    * GitHub, GitLab, BitBucket, AWS와 협업해서 가능한 부분은 자동으로 로케이션시키고 고객들에게 안내하도록 조처
+  * CircleCI를 쓰고 있다면 저장된 시크릿을 revoke 시키고 새로 발급해야
+  * 이후 공개된 사고 경위에 따르면 이번 사고는 CircleCI 엔지니어의 노트북에 설치한 멀웨어를 통해 2FA SSO 세션을 탈취해서 발생
+    * [CircleCI incident report for January 4, 2023 security incident](https://circleci.com/blog/jan-4-2023-incident-report/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
