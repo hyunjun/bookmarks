@@ -313,6 +313,12 @@ Javascript
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
   * [2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
 * [State of JavaScript 2018](https://2018.stateofjs.com/)
+* [The State of JS 2022](https://2022.stateofjs.com/en-US/)
+  * 매년 발표되는 JavaScript 생태계의 설문조사로 올해는 3만 9천여 명이 응답자로 참여
+  * JavaScript 언어의 새 기능이나 브라우저 API의 인지도 등을 볼 수 있음
+  * 프론트엔드 프레임워크에서는 여전히 React가 많이 사용되지만, Solid와 Qwik의 반응이 좋음
+  * 렌더링 프레임워크는 Next.js가 가장 강세이지만 Astro와 Remix가 관심
+  * 다양한 분류로 시각화해두어서 주류인 기술과 새롭게 관심받는 기술을 알 수 있음
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 * [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
@@ -1200,7 +1206,13 @@ Javascript
   * [IMQA 세미나 곽윤설 · Present](https://present.do/documents/62b297e6e214362cce85ad1a)
   * [자바스크립트는 어떻게 약속을 지킬까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220725)
   * [프라미스 깊게 이해하기](https://brunch.co.kr/@skykamja24/670)
-  * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
+  * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript)
+    * 카카오에서 광고 렌더링의 취소 기능을 구현하려고 Promise의 취소에 대해 알아보다가 그 역사까지 정리한 글
+    * TC39에서 Promise의 취소 기능을 오랫동안 고민
+      * 표준을 만들지 못한 상황에서 WHATWG에서 AbortController와 AbortSignal을 표준으로 내세웠지만 웹에 의존적이라서 TC39에서는 표준으로 채택할 수가 없었음
+    * 취소는 쉬워 보이지만 그 의미가 동작에 어려운 부분이 많아서 긴 논의에도 정의되지 않았고
+      * 실제로 광고 쪽에서 취소를 구현하다가 쉽지 않음을 깨달았지만
+      * 적용한 Promise 취소 방법에 관해서도 설명
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -1213,7 +1225,7 @@ Javascript
 * [더북(TheBook): 리액트 교과서](https://thebook.io/006961/) 3~7장만
 * [더북(TheBook): Vue.js 코딩 공작소](https://thebook.io/007024/) 1~3장만
 * [더북(TheBook): 자바스크립트 코딩의 기술](https://thebook.io/007030/) 2장만
-* [더북(TheBook): 리액트를 다루는 기술 [개정판]](https://thebook.io/080203/)
+* [더북(TheBook): 리액트를 다루는 기술 개정판](https://thebook.io/080203/)
 * [더북(TheBook): Node.js 교과서 개정 2판](https://thebook.io/080229/) 1~8, 15~16장만
 * [The Beginners Guide To Node.js](https://leanpub.com/nodejsbasics/read_full)
 * [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
@@ -4290,6 +4302,20 @@ Javascript
 * [Building Your Own Hooks in React Native | Custom Hook for API | Advanced React Native | Axios Hook - YouTube](https://www.youtube.com/watch?v=5YX8vKjH8_Y)
 * [How To Build Dynamic Island For React Native - Tutorial Step by Step - YouTube](https://www.youtube.com/watch?v=OqLW0iMfuwU)
 * [React Native in 2022 and Beyond - Semaphore](https://semaphoreci.com/blog/react-native)
+* [Migrating our Largest Mobile App to React Native (2023)](https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native)
+  * Shopify가 2020년 모바일 앱을 React Native로 바꾸기로 하고 그로부터 3년 동안 모든 모바일 앱을 React Native로 바꾸는 과정 설명
+  * 한가지 접근 방법으로 모든 앱에 적용할 수는 없었는데
+    * Shopify Point of Sale은 해커톤에서 시작된 앱이라서 기술 부채가 많이 쌓였기 때문에 점진적인 교체가 어렵다고 생각해서 완전히 재작성
+    * Shopify Mobile은 플래그쉽 앱으로 다시 만드는 건 너무 큰 일이므로 점진적으로 React Native를 도입
+  * 처음에는 Mobile Enablement 팀이 React Native로 새 기능을 만들며 필요한 기존 기능을 React Native로 마이그레이션
+    * 잘 동작하긴 했지만
+    * 너무 오래 걸리고
+    * 마이그레이션 중 Android, iOS, RN을 모두 관리해야 해서 이 방법이 맞지 않음을 알게 됨
+  * 이후 반복 포팅이라는 방법으로 모든 기능을 React Native로 만들면서 기존 기능을 마이그레이션 하기로 하고
+    * 모든 엔지니어가 React Native로 작성할 수 있도록 교육 프로그램을 만들고
+    * 마이그레이션 할 대상의 우선순위를 정하고
+    * 마이그레이션을 추적하는 대시보드 구성
+    * 그 결과 iOS와 Android의 구현 차이를 줄일 수 있었고 서로 협업도 가능
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
