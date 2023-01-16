@@ -640,6 +640,7 @@ AWS
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [DBA의 AWS re:Invent 2022 참석 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/16/aws-reinvent.html)
   * [아마존 CTO "이벤트 드리븐 아키텍처로 가라" - ZDNet korea](https://zdnet.co.kr/view/?no=20221202183934)
   * [AWS re:Invent 2022 - Serverless Compute - YouTube](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD)
   * [AWS re:Invent 2022: Everything You Need To Know](https://www.aboutamazon.com/news/aws/aws-reinvent-2022)
@@ -1685,6 +1686,7 @@ AWS
 * [DataGrip 에서 SSH 터널링으로 DB 접근하기](https://jojoldu.tistory.com/623)
 * [AWS RDS Tutorial | Install Microsoft SQL Server Database (MSSQL), Connect to it and write Queries - YouTube](https://www.youtube.com/watch?v=cJ2IVsq9sew)
 * [AWS로 클라우드 시작하기: ③RDS | 요즘IT](https://yozm.wishket.com/magazine/detail/1345/)
+* [AWS EC2에서 curl을 이용한 RDS 접근 확인](https://nauco.tistory.com/74)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
