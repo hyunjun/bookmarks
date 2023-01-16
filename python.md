@@ -436,6 +436,7 @@ Python
     * [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX | GeekNews](https://news.hada.io/topic?id=6052)
   * [파이썬으로 아래아한글 실행하는 방법](https://employeecoding.tistory.com/239)
   * [파이썬+한/글로 가장 강력한 문자열 가공 프로그램 만들기 - YouTube](https://www.youtube.com/watch?v=n9oy-nL_0Po)
+  * [움짤로 빠르게 배우는 파이썬-아래아한글 자동화 레시피 | 학습 페이지](https://www.inflearn.com/course/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94/unit/143948)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
