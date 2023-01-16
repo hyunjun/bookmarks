@@ -1002,6 +1002,9 @@ Book
 * (NOT YET) [눈에 보이지 않는 지도책 (제임스 체셔, 올리버 우버티 著, 송예슬 譯, 2022)](https://jehyunlee.tistory.com/53)
   * ★★★☆☆ 2023.01.08 내용까지 자세히 읽지는 않았지만 살펴보는 거 만으로도 좋은 데이터 시각화 책이라는 걸 알 수 있음
   * 한라 989-체54ㄴ 탐라 문989-체54ㄴ 우당 문989-체54ㄴ
+* (NOT YET) [측정의 역사](https://hgkang1982.tistory.com/427)
+  * 한라 331.51-크298ㅊ
+  * [미국과 영국은 Imperial Unit을 쓴다. 신이 내려 준 단위라는데, 그 근거가 피라미드](https://www.facebook.com/yosup.park/posts/pfbid0RaAdcfHV1vWPSiuFynoFHw9egZBmWEdYCTUkWxK4RmCydKK2SVycCYzQSMeDTzTul)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
