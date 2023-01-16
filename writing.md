@@ -218,6 +218,8 @@ Writing
   * [개발자에서 기술 작가로 전직하기까지 2년 간의 이야기 | GeekNews](https://news.hada.io/topic?id=6991)
 * [기술 글쓰기를 통해 개인 브랜딩을 구축하는 나만의 방법 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/08/20/Personal-Branding-from-Technical-Writing.html)
 * [Overview of technical writing courses  |  Technical Writing  |  Google Developers](https://developers.google.com/tech-writing/overview)
+* [Leadership Principles for AWS News Bloggers](https://www.linkedin.com/pulse/leadership-principles-aws-news-bloggers-jeff-barr/)
+  * [블로거 리더쉽 원칙 :: Channy's Blog](https://channy.creation.net/blog/1758)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
