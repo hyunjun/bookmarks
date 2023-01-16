@@ -982,6 +982,7 @@ App
     * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
     * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
     * [16 Reasons to Use VS Code for Developing Jupyter Notebooks - Practical Business Python](https://pbpython.com/vscode-notebooks.html)
+    * [주피터노트북 vscode에서 설치 및 사용법 | 신세계가 열립니다. - YouTube](https://www.youtube.com/watch?v=1tKPqQmXM98)
     * [Advanced Visual Studio Code for Python Developers – Real Python](https://realpython.com/advanced-visual-studio-code-python/)
     * [비주얼 스튜디오 코드의 파이썬 기능 추가와 변경사항(2022년 3월 업데이트)](https://blog.naver.com/drvoss/222663943725) python 버전 변환
     * [Powerful VSCode Tips And Tricks For Python Development And Design - YouTube](https://www.youtube.com/watch?v=fj2tuTIcUys)
