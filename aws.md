@@ -1014,6 +1014,14 @@ AWS
 * [Amazon EKS 환경에서 Pod Security Standard 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-pod-security-standards-in-amazon-eks/)
 * [Amazon EKS 마이그레이션 요점정리 - 강인호 솔루션즈 아키텍트, AWS :: AWS Summit Korea 2022 - YouTube](https://www.youtube.com/watch?v=bksogA-WXv8)
 * [Kubernetes를 위한 영구 스토리지 적용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/persistent-storage-for-kubernetes/)
+* [Run Kubernetes Production Environment on Spot Instances With Zero Downtime: A Complete Guide | Riskified Technology](https://medium.com/riskified-technology/run-kubernetes-on-aws-ec2-spot-instances-with-zero-downtime-f7327a95dea)
+  * AWS EKS에서 스팟 인스턴스로 안정적으로 클러스터를 운영하는 방법을 설명한 글
+  * EC2 스팟 인스턴스는 온디맨드에 비해 비용이 상당히 저렴하므로 Auto Scaling Group을 이용해서 스팟 인스턴스를 여러 타입으로 설정
+    * 그리고 Cluster Autoscaler를 이용해서 항상 온디맨드보다 스팟 인스턴스를 선호하도록 하고 싶었는데
+    * expander 플래그로 우선순위를 지정할 수 있게 하면 노드 그룹의 우선순위를 줄 수 있어서
+    * 스팟인스턴스 그룹이 더 높은 우선순위를 가지게 설정
+    * AWS Node Termination Handler로 스팟 인스턴스를 빼앗길 때를 대비하고
+    * 추가로 `podAntiAffinity`와 `PodDisruptionBudget`, 오버 프로비저닝을 이용해서 안정적으로 운영되도록 설정
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1757,6 +1765,9 @@ AWS
 * [AWS Tutorial: AWS S3 simple operations from web console and CLI - YouTube](https://www.youtube.com/watch?v=ItKED-GGa10)
 * [AWS Tutorial: Share a temporary downloadable URL to S3 Object with presign - YouTube](https://www.youtube.com/watch?v=zA91Zw-sGqI)
 * [Automate S3 Storage class lifecycle using Terraform | by jaffar shaik | Oct, 2022 | Medium](https://jaffarshaik.medium.com/automate-s3-storage-class-lifecycle-using-terraform-88943db72bee)
+* [Amazon S3 신규 객체 암호화 기본 설정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-s3-encrypts-new-objects-by-default/)
+  * AWS에서 S3에 저장되는 모든 객체의 암호화가 기본 적용되도록 지원
+  * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 
 # SAM Serverless Application Model
