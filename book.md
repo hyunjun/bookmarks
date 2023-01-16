@@ -409,6 +409,8 @@ Book
 * (NOT YET) [나는 독일인입니다](http://www.catholicnews.co.kr/news/articleView.html?idxno=32397)
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 * (NOT YET) [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
+* (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
+  * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -564,6 +566,8 @@ Book
 * (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
+* (NOT YET) [심정섭의 대한민국 학군지도](https://blog.naver.com/wh11111/221321364723)
+  * 한라 327.87-심74심
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
