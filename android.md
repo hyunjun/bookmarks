@@ -263,6 +263,14 @@ Android
   * 이를 검사하고 `navigator.credentials.create()`를 호출하고 받은 크리덴셜 ID, 사용자 ID, 공개키, transports를 저장하면 ok
 * [Becoming A Successful Android Open-Source Librarian | by Jaewoong Eum | Nov, 2022 | ProAndroidDev](https://skydoves.medium.com/becoming-a-successful-open-source-librarian-3a008b50b808)
 * [Pluu Dev - 요약 Building a scalable, modularized, testable app from scratch](https://pluu.github.io/blog/android/androiddevsummit/2022/11/16/ads22-Building-a-scalable-modularized-testable-app-from-scratch/)
+* [Making Airbnb’s Android app more accessible | by Julia Fu | The Airbnb Tech Blog | Jan, 2023 | Medium](https://medium.com/airbnb-engineering/making-airbnbs-android-app-more-accessible-75618172be6)
+  * Airbnb의 Android 앱의 접근성을 높이면서 모범 사례 정리
+  * 안드로이드의 접근성 기능이 읽을 수 있도록
+    * 콘텐츠에 설명을 넣고 더 잘 읽을 수 있게 그룹화
+    * 모든 UI의 폰트를 확대 가능하게 작성
+  * 접근성 구현을 쉽게 할 수 있도록
+    * 접근성 검사가 내장된 테스트 라이브러리 Espresso를 사용해서 엔지니어가 쉽게 문제를 확인할 수 있게 자동화
+    * Happo를 이용해서 더 큰 글꼴을 확인할 수 있게 스크린숏 테스트를 추가
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
