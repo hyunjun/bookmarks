@@ -646,6 +646,7 @@ Programming
 * [frida: Clone this repo to build Frida](https://github.com/frida/frida)
   * [frida-gum: Cross-platform instrumentation and introspection library written in C](https://github.com/frida/frida-gum)
     * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346)
+* [주석을 달지 않는 이유, 달아야 하는 이유](https://velog.io/@joosing/why-not-annotate-why-should-annotate) comment
 
 # Agile, Scrum
 * book
@@ -856,6 +857,8 @@ Programming
   * [The greatest example ever of MVP and iterative, incremental development | by Gert Erasmus | Medium](https://medium.com/@gerterasmus23/the-greatest-example-ever-of-mvp-and-iterative-incremental-development-41fd718ece06)
   * [What is Iterative, Incremental Delivery? The Hunt for the Perfect Example. | Scrum.org](https://www.scrum.org/resources/blog/what-iterative-incremental-delivery-hunt-perfect-example)
 * [AKC2021 키노트 : 함께하기, 애자일 - 박태웅 - YouTube](https://www.youtube.com/watch?v=LxDY9Sg0pck)
+* [Scrum The Art of Doing Twice the Work in Half the Time](https://www.scruminc.com/new-scrum-the-book/)
+  * [Agility is Inefficient • Klaus Bucka-Lassen & Dirk Bucka-Lassen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BvydomrrdyQ)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -2095,6 +2098,7 @@ Programming
   * [(2) Jason Warner on Twitter: "I'm convinced that one of the biggest architectural mistakes of the past decade was going full microservice On a spectrum of monolith to microservices, I suggest the following: Monolith &gt; apps &gt; services &gt; microservices So, some thoughts" / Twitter](https://twitter.com/jasoncwarner/status/1592227285024636928)
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
 * [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
+* [엔터프라이즈 MSA 이야기 1탄 - 주문서비스(Milestone1) :: GS Retail Engineering](https://gsretail.tistory.com/26)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -3972,6 +3976,8 @@ Programming
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 * [‘매번 지적할 수도 없고...’ 오남용 심한 IT 유행어 14선 - CIO Korea](https://www.ciokorea.com/news/232569)
 * [칼럼 | 범용 DB의 귀환? 애초에 물러난 적이 없다 - CIO Korea](https://www.ciokorea.com/news/233064)
+* [지루하지 않음 - 구독자 17만명 뉴스레터의 이야기 (2) - by Deokhaeng Lee](https://duckduckhero.substack.com/p/17-2)
+  * [지루하지 않음(Not Boring) - 구독자 17만명 뉴스레터의 이야기 | GeekNews](https://news.hada.io/topic?id=8266)
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
 * [The plain-text internet is coming - Protocol](https://www.protocol.com/newsletters/sourcecode/plain-text-sports-internet)
   * [Plain-text 인터넷이 온다 | GeekNews](https://news.hada.io/topic?id=6561)
@@ -4840,6 +4846,8 @@ Programming
 * [Outcode | Disquiet\*](https://disquiet.io/product/outcode) 문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc
   * [데이터플로우 | Outcode - 자동화된 데이터 워크플로우](https://www.outcode.biz/dataflow)
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
+* [Retool | Build internal tools, remarkably fast.](https://retool.com/)
+  * [Retool로 운영도구 빠르게 만들기](https://tech.youha.info/1f27d1de-e8ff-415d-94cd-422031959560)
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
 * SyncTree [A ‘No-Code Tool’ that Develops Backend?! - YouTube](https://www.youtube.com/watch?v=8vzjGewmcd8)
 * [Uiflow - Build Software at the Speed of Thought](https://www.uiflow.com/)
@@ -5251,6 +5259,7 @@ Programming
 * [The 3 Types of Unit Test in TDD • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ihOUzzwPFIk)
 * [Beyond REST - Contract Testing in the Age of gRPC, Kafka & GraphQL • Matt Fellows • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ESM84C7QKl8)
 * [Testing Patience • Michael Feathers • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=vH7vVAbSE1M)
+* [더 나은 테스트 코드 : 일관성, 속도, 가시성](https://velog.io/@joosing/better-test-1)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
