@@ -128,7 +128,6 @@ Git
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
 * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
-* [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
 * [깃허브 및 관련 서비스 (2018-06-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=F2uUDeP2Xqs)
 * [Github를 이용해서 Project Management 하는 방법 및 전체적인 프로세스에 대해서 정리](https://github.com/cheese10yun/github-project-management#ci--test-coverage)
 * github 하나로 1인 개발 워크플로우 완성하기
@@ -420,6 +419,10 @@ Git
   * `/github subscribe owner/repo workflows` 명령어로 알림 구독
   * `/github subscribe owner/repo workflows:{name:"your workflow name" event:"workflow event" branch:"branch name" actor:"actor name"}`같은 식으로 워크플로를 필터링해서 구독 가능
 * [GitHub Actions에서 조직 수준의 필수 워크플로우를 관리할 수 있는 Required Workflows :: Outsider's Dev Story](https://blog.outsider.ne.kr/1647)
+* [GitHub Actions - Support for configuration variables in workflows | GitHub Changelog](https://github.blog/changelog/2023-01-10-github-actions-support-for-configuration-variables-in-workflows/)
+  * GitHub Actions에서 기존에는 시크릿만 저장해서 관리할 수 있었지만
+    * 민감하지 않은 데이터를 관리할 수 있도록 configuration variables가 추가
+  * Actions 설정에서 추가한 뒤 워크플로우에서 ``${{ vars.REPOSITORY_VAR }}`` 형태로 참조 가능
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
@@ -1121,6 +1124,7 @@ Git
     * 모델을 호출할 때 도움이 되지 않는 완성은 호출되지 않도록 하고 어떤 텔레메트리가 수집되는지를 살펴봄
     * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
     * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
+* [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
@@ -1154,6 +1158,7 @@ Git
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
+* [giscus](https://giscus.app/ko) utterances와 비슷하게 GitHub의 Discussions를 사용한 댓글 시스템
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
@@ -1314,6 +1319,7 @@ Git
 * [utterances](https://utteranc.es/)
   * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
   * [댓글 시스템을 바꾸었습니다](https://cojette.github.io/utterance/)
+  * [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
 * [Zenhub - Issue Management Tool](https://jaeyeophan.github.io/2017/04/30/issue-management-tool/)
 
 # Tutorial
