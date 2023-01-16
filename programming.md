@@ -1338,6 +1338,7 @@ Programming
 * [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
+* [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [리팩토링을 내장할 수 있다면?](https://brunch.co.kr/@graypool/534) 좋은 코드 = 수정하기 쉬운 코드
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
