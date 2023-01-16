@@ -1869,6 +1869,7 @@ Docker
 * [Kustomize - Kubernetes native configuration management](https://kustomize.io/)
   * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
   * [쿠버네티스 Config 변경을 위한 Kustomize](https://bcho.tistory.com/1392)
+* [kwok: Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters](https://github.com/kubernetes-sigs/kwok) Kubernetes 클러스터를 시뮬레이팅 해주는 툴킷
 * [Kyverno](https://kyverno.io/)
   * [Best practices and lessons learnt from running Kyverno in production kubernetes | by amitagarwal | Feb, 2022 | Medium](https://amit-agarwal.medium.com/best-practices-and-lessons-learnt-from-running-kyverno-in-production-kubernetes-cd1bbecd2305)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
