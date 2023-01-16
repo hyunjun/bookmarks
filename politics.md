@@ -125,6 +125,7 @@ Politics
   * [노동개악① 독소조항 가득한 ‘박근혜표 노동개혁’](http://newstapa.org/29468)
   * [노동개악② ‘헬조선’…머지 않은 당신의 미래](http://newstapa.org/29459)
   * [노동개악③ ‘마음대로 해고’…박근혜 본색?](http://newstapa.org/29457)
+  * [플랫폼 경제의 부상과 노동과정의 변화](https://www.facebook.com/permalink.php?story_fbid=pfbid02BKfT5eYwggU16JNGK1FA81kuiQK8bWrAfNgfJHF86pqkJY43thhACbaYTbnSqrfnl&id=100001809848234)
 * 노무현
   * [노무현이 대답하지 못했던 질문](http://www.ziksir.com/ziksir/view/1825)
   * [문재인 VS 노무현](http://www.huffingtonpost.kr/taekyung-lee/story_b_7178204.html)
