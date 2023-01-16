@@ -266,6 +266,7 @@ Java
   * [Null is your friend, not a mistake | by Roman Elizarov | Medium](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
   * [Why NULL is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
   * [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
+  * [다 쓴 객체 참조에 항상 null 값을 할당해야 하나요?](https://velog.io/@joosing/should-programmer-always-set-to-null-after-using-it)
   * [Interesting Facts About 'null' In Java | Things to know as Java Developer - YouTube](https://www.youtube.com/watch?v=iDWIugTUpJA)
   * [java 예외 vs 에러 : 왜 이 둘을 구분 지을까요?](https://codingdog.tistory.com/entry/java-%EC%98%88%EC%99%B8-vs-%EC%97%90%EB%9F%AC-%EC%99%9C-%EC%9D%B4-%EB%91%98%EC%9D%84-%EA%B5%AC%EB%B6%84-%EC%A7%80%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [토이 프로젝트를 하면서 느꼈던 광범위한 예외의 위험성](https://codingdog.tistory.com/614)
