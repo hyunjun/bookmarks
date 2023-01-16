@@ -1240,6 +1240,9 @@ Linux
   * [웹 프론트엔드 개발에 ngrok 사용하기 개발 강의 & 팁 - YouTube](https://www.youtube.com/watch?v=zzD4v4BFx58)
   * [ngrok - 포트포워딩 없이 외부에 로컬서버 공개하기](https://hudi.blog/ngrok/)
   * [Jacob Errington | Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html)
+  * [The ngrok Cheat Sheet](https://blog.ngrok.com/posts/the-ngrok-cheat-sheet)
+    * 로컬 서버를 쉽게 인터넷에 연결할 수 있는 ngrok의 다양한 사용 방법을 치트 시트로 정리한 글로 PDF와 PNG로도 제공
+    * 서버를 노출하는 방법뿐 아니라 소셜 로그인, 웹훅 인증, IP 제한, 서킷 브레이크, 헤더 추가 등의 방법 정리
   * [awesome-tunneling: List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting](https://github.com/anderspitman/awesome-tunneling)
     * [Awesome Tunneling - ngrok 대체제 모음 | GeekNews](https://news.hada.io/topic?id=6045)
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
