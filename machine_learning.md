@@ -1348,6 +1348,8 @@ Machine Learning
 * [“반복 속도가 AI의 성패를 결정한다” 산업/제조 현장 AI를 위한 MLOps 전략 - Tech Summary - ITWorld Korea](https://www.itworld.co.kr/techlibrary/267465)
 * [MLOps for MLE | ML Engineer를 위한 MLOps](https://mlops-for-mle.github.io/tutorial/)
 * [AI Fintech 스타트업의 IDC 네트워크 인프라를 구성하는 기술 (FEAT. Qraft) | by Ryan Kim | Dec, 2022 | Medium](https://equus3144.medium.com/ai-fintech-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-idc-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-feat-qraft-70231e8e0c22) MLOps는 아니고 인프라 이야기지만 내용 흐름상 여기에 입력
+* [Self-serve feature platforms: architectures and APIs](https://huyenchip.com/2023/01/08/self-serve-feature-platforms.html)
+  * [MLOps KR | 제가 애정하는 Chip Huyen이 MLOps 피쳐 플랫폼에 대한 글([https://huyenchip.com//2023/01/08/self-serve-feature-platforms.html](https://h... | Facebook](https://www.facebook.com/groups/MLOpsKR/posts/1789196731467584)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
