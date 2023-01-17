@@ -712,6 +712,7 @@ Business
 * [culture '상식과 반복'이 문화를 변화시킵니다](https://community.rememberapp.co.kr/post/85713)
   * [리멤버 커뮤니티 이야기 당연한 걸 반복해야 문화가 바뀐다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/06/17/organizational-culture/)
 * ['지가 뭔데 우릴 가르쳐?'](https://www.linkedin.com/posts/elfpenguin_%EC%A7%80%EA%B0%80-%EB%AD%94%EB%8D%B0-%EC%9A%B0%EB%A6%B4-%EA%B0%80%EB%A5%B4%EC%B3%90-1-%EC%A0%9C%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%94%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%A7%81%ED%95%98%EA%B3%A0%EC%84%9C-activity-7012419055450042369-RVuA/)
+* [세콰이어 캐피탈 회장 마이클 모리츠, 변화와 흐름에 대한 통찰 (Michael Moritz - Managing Partner, Sequoia Capital) - YouTube](https://www.youtube.com/watch?v=OwkaChNCVWE)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
