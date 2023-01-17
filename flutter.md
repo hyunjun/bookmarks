@@ -168,7 +168,7 @@ Flutter
 * [최적화 측면에서 살펴 본 Flutter Scrolling Widgets : ListView 3/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-3-3-2faa77c7cdf6)
 
 # Conference, Meetup
-* [Flutter Festival GDG Songdo Flutter에 Clean Architecture를 얹어보자 - 양수장 - YouTube](https://www.youtube.com/watch?v=3umGteY3rdU)
+* [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
 * [NAVER Tech Talk: Flutter meetup (2022)](https://d2.naver.com/news/1554376)
 
