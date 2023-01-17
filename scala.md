@@ -1065,6 +1065,7 @@ Scala
     * [DI in Play for Scala3 with ZIO - YouTube](https://www.youtube.com/watch?v=9fr4pWIG-Tw)
     * [Dancing with ZIO - Oto Brglez Ljubljana.tech - YouTube](https://www.youtube.com/watch?v=mVU6nyl_zWk)
     * [Python and ZIO crushed my egotism | by Jay | DataTrek | Dec, 2022 | Medium](https://medium.com/lambdaverse/python-and-zio-crushed-my-egotism-5c78b5ce4d31)
+    * [Introducing The ZIO DynamoDB Type-Safe API by Avinder Bahra - YouTube](https://www.youtube.com/watch?v=Qte4WUfHQ3g)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1593,6 +1594,7 @@ Scala
   * [Creating CLI tools leveraging ZIO and Decline using scala-cli](https://mpkocher.github.io/2022/06/02/CLI-App-leveraging-ZIO-and-Decline-using-scala-cli/)
   * [Scala Toolkit makes Scala powerful straight out of the box](https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/)
   * [Scala CLI Tutorial: Creating a CLI Sudoku Solver - Rock the JVM Blog](https://blog.rockthejvm.com/scala-cli-and-scala-native/)
+  * [Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver - YouTube](https://www.youtube.com/watch?v=KZw0wjSDA6g)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
