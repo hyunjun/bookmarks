@@ -624,6 +624,9 @@ Business
   * 목적(purpose의 적합한 번역인지는 따로 생각해봐야 할 문제)이 조직에 영향을 미치는 영역: 수요 창출, 직원 참여, 거버넌스와 지속가능성, 전략과 비즈니스 가능성
 * `Efficiency is doing things right; effectiveness is doing the right things. Peter Drucker`
   * [피터 드러커(Peter Drucker)의 효과성에 대하여](https://ltvw.tistory.com/entry/%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4Peter-Drucker%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+* [Richard Hackman's 'Five Factor Model'](http://www.free-management-ebooks.com/faqld/development-03.htm)
+  * Richard hackman의 '5요인 모델', 팀 효과성의 5요인
+    * 1. 진정한 팀이 되기 2. 설득력 있는 방향 3. 활성화 구조 4. 지원적 컨텍스트 5. 전문가 코칭
 * [피터 드러커의 7가지 명언(ft, 삶의 지혜가 된다) : 네이버 블로그](https://blog.naver.com/help2000/222904305859)
 * [절대로 개발자 혼자서는 돈을 벌 수 없는 이유 3가지](https://how-to-growup-our-income.tistory.com/7)
 * [AI Company - Speaker Deck](https://speakerdeck.com/shurain/ai-company?slide=14) 하나의 주제로 정하긴 어렵고 AI를 활용하는 회사의 전반적인 방향성에 대한 짧은 presentation
