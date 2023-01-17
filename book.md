@@ -610,6 +610,7 @@ Book
   * [창업 이후 가장 큰 도움을 받은 책은 바로 '이것'](https://eopla.net/magazines/291)
 * (NOT YET) [더 골 2 it’s not luck - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/202)
   * 한라 325.04-골27ㅇ
+* (NOT YET) [더 골 The Goal (만화판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67216907&start=slayer)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
