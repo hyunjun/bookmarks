@@ -3480,6 +3480,7 @@ Programming Books
 * (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
+* (NOT YET) [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
 
 # Spark
 
