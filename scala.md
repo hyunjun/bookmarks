@@ -1041,6 +1041,7 @@ Scala
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
     * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
     * [Zymposium - ZIO From Scratch (Part 2) - YouTube](https://www.youtube.com/watch?v=Yj8vXEUYLrA)
+    * [Zymposium - ZIO From Scratch (Part 3) - YouTube](https://www.youtube.com/watch?v=lcd1D_ToJJY)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
     * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
@@ -1851,6 +1852,7 @@ Scala
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
 * [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
+* [State of Scala HTTP by Marcin Krykowski - YouTube](https://www.youtube.com/watch?v=uUaJozr_GAg)
 * [Bootzooka!](https://bootzooka.softwaremill.com/)
   * [Bootzooka 2019: functional Scala and React](https://blog.softwaremill.com/bootzooka-2019-functional-scala-and-react-3cf8c1a0f1c2)
   * [Bootzooka 2022: cats-effect 3, autowire & tapir](https://softwaremill.com/bootzooka-2022-cats-effect-3-autowire-and-tapir/)
