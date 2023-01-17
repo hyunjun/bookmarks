@@ -325,6 +325,8 @@ Programming Books
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
 * (NOT YET) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
   * 한라 004.783-해298ㄷ
+* (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
+* (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
 
 # Agile Scrum
 
