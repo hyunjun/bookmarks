@@ -738,6 +738,7 @@ Apache
 * [Apache Kafka-Installation Steps](https://skolaparthi.com/apache-kafka-installation/)
 * [Kafka in Action • Viktor Gamov & Tim Berglund • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=2l-JsB10WaI)
 * [카프카 시작하기 - 개념, 클러스터.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222984745300)
+* [리디에서 Kafka를 사용하는 법 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/how-to-use-kafka-in-ridi)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
