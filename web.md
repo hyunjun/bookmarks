@@ -1695,6 +1695,7 @@ Web
   * [Introduction to Hippo: the WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
   * [히포를 이용한 웹어셈블리 입문 - ITWorld Korea](https://www.itworld.co.kr/news/210909)
 * [howto-wasm-minimal: How to create minimal wasm module](https://github.com/ern0/howto-wasm-minimal)
+* [KoWasm is an experimental project intended to provide WASI and WebAssembly Component Model support for Kotlin/Wasm](https://github.com/sdeleuze/kowasm)
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [pyodide: Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
