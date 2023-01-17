@@ -1608,6 +1608,7 @@ AWS
 * [Amazon SageMaker 단기 집중 과정 (Intensive Course) - AWS Startup Bootcamp](https://www.awsbootcamp.io/ai-ml-and-personalization/ai-ml/amazon-sagemaker-intensive-course)
 * [Amazon SageMaker 섀도우 테스트 기능 – ML 모델 변형 간 추론 성능 비교 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-amazon-sagemaker-perform-shadow-tests-to-compare-inference-performance-between-ml-model-variants/)
 * [Amazon SageMaker에서 code-server 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/host-code-server-on-amazon-sagemaker/)
+* [Amazon SageMaker Data Wrangler의 신규 임베디드 시각화 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
