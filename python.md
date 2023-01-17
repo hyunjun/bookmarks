@@ -1618,6 +1618,8 @@ Python
   * [Diagnose slow Python code. (Feat. async/await) - YouTube](https://www.youtube.com/watch?v=m_a0fN48Alw)
   * [How To Easily Do Asynchronous Programming With Asyncio In Python - YouTube](https://www.youtube.com/watch?v=2IW-ZEui4h4)
     * [2021-asyncio](https://github.com/ArjanCodes/2021-asyncio)
+  * [유튜브 조회수 수집기 (YouTube View count Scraper) — 글 쓰는 기획자 '길'](https://gilhwan.com/entry/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%A1%B0%ED%9A%8C%EC%88%98-%EC%88%98%EC%A7%91%EA%B8%B0-YouTube-View-count-Scraper)
+    * [유저 분석 자동화와 보상 최적화를 향한 여정 — 글 쓰는 기획자 '길'](https://gilhwan.com/entry/%EA%B3%A0%EA%B0%9D-%EB%B6%84%EC%84%9D-%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80-%EB%B3%B4%EC%83%81-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95)
 
 ## Async Asynchronous AsyncIO Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
