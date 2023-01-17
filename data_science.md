@@ -80,6 +80,7 @@ Data Science
 * [Data Engineering Principles - Build frameworks not pipelines - Gatis Seja - YouTube](https://www.youtube.com/watch?v=pzfgbSfzhXg)
 * [Live Data Demo – Practical Pipelines - YouTube](https://www.youtube.com/watch?v=7GXuQjp_AcY)
 * [29CM 데이터 파이프라인 소개. 안녕하세요 데이터그로스팀 이진환입니다. 29CM에선 21년 9월… | by brownbears | 29CM TEAM | Jan, 2023 | Medium](https://medium.com/29cm/29cm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%86%8C%EA%B0%9C-5dde09621d81)
+* [FMS(차량 관제 시스템) 데이터 파이프라인 구축기 1편. 스트리밍/배치 파이프라인 개발기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/17/build-fms-data-pipeline-1.html)
 * [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
