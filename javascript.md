@@ -802,23 +802,6 @@ Javascript
 * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/05/03/study-project/) Angular Observable Docker Node-restful node-summarizer
 * [동물상 테스트 - 당신의 얼굴 사진으로 동물상을 확인해보세요](https://open-support.tistory.com/entry/%EB%8F%99%EB%AC%BC%EC%83%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%96%BC%EA%B5%B4-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%AC%BC%EC%83%81%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 * [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
-* [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
-* [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
-* [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
-* [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
-* [합성 컴포넌트로 재사용성 극대화하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220731-composition-component/) atomic design pattern
-* [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
-* [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
-* [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
-* [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
-* [How we Build a Component Library. How we implement a UI component library… | by Jonathan Saring | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131) design system
-* [디자인 시스템, 형태를 넘어서 - Speaker Deck](https://speakerdeck.com/soyoung210/dijain-siseutem-hyeongtaereul-neomeoseo)
-* [**Design System Decision Record | SOSOLOG**](https://so-so.dev/react/design-system-decision-record/)
-  * linear라는 디자인 시스템을 만들면서 했던 고민과 결정을 정리한 글
-  * 유연함을 추구해서 일관성을 위한 제약은 많이 두지 않음
-  * 직관적으로 사용할 수 있도록 Compound Component를 선택
-  * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
-* [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -1296,6 +1279,29 @@ Javascript
 * [Developer Tools secrets that shouldn’t be secrets | Christian Heilmann](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 * [Useful Style-related Features Of Browser Developer Tools to Explore in 2021 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/en_20211206)
 
+# Design System
+* [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
+* [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
+* [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
+* [아토믹 디자인을 활용한 디자인 시스템 도입기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
+* [합성 컴포넌트로 재사용성 극대화하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220731-composition-component/) atomic design pattern
+* [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
+* [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
+* [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
+* [How we Build a Component Library. How we implement a UI component library… | by Jonathan Saring | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-we-build-a-component-library-12735d09e131) design system
+* [디자인 시스템, 형태를 넘어서 - Speaker Deck](https://speakerdeck.com/soyoung210/dijain-siseutem-hyeongtaereul-neomeoseo)
+* [**Design System Decision Record | SOSOLOG**](https://so-so.dev/react/design-system-decision-record/)
+  * linear라는 디자인 시스템을 만들면서 했던 고민과 결정을 정리한 글
+  * 유연함을 추구해서 일관성을 위한 제약은 많이 두지 않음
+  * 직관적으로 사용할 수 있도록 Compound Component를 선택
+  * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
+* [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
+* [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
+* [Design Systems Demystified](https://www.designsystem.tools/)
+  * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
+* [Gmarket Design System](http://gds.gmarket.co.kr/)
+* [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
+
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
@@ -1732,8 +1738,6 @@ Javascript
   * [Introducing Dataflow, a self-hosted Observable Notebook Editor / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-dataflow)
 * day.js [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 * [Delivery and Shipping Tracking Service https://tracker.delivery/guide ](https://github.com/shlee322/delivery-tracker)
-* [Design Systems Demystified](https://www.designsystem.tools/)
-  * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
 * [detect-airpods: 🔊🔇 Detect AirPods on the Browser](https://github.com/junhoyeo/detect-airpods)
 * discord.js [How to create a music bot using Discord.js](https://medium.freecodecamp.org/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8)
 * [DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:](https://github.com/cure53/DOMPurify)
@@ -2188,7 +2192,6 @@ Javascript
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
-* [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [Rush: a scalable monorepo manager for the web](https://rushjs.io/)
   * [Rush로 프론트엔드 모노레포 도입기. 이 글에서는 밀당 영어 프론트엔드에서 커다란 코드 덩어리로 되어 있던… | by Jeong Seong Dae | 밀당 팀블로그 | Aug, 2021 | Medium](https://medium.com/mildang/rush%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EB%8F%84%EC%9E%85%EA%B8%B0-5da0c5bc9b30)
@@ -4683,6 +4686,7 @@ Javascript
   * [React Query Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=jnIPUkNOJ9A)
   * [Seeding the Query Cache | TkDodo's blog](https://tkdodo.eu/blog/seeding-the-query-cache)
     * [번역 쿼리 캐시에 데이터 채워 넣기 (React Query)](https://velog.io/@eunbinn/seeding-the-query-cache)
+  * [SSR 환경에서의 React Query | Univdev](https://www.univdev.page/posts/react-query-ssr/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
@@ -5316,6 +5320,7 @@ Javascript
   * [One day dev / 하루개발 – 그린랩스(GreenLabs) 편 - YouTube](https://www.youtube.com/watch?v=_CtZ8wegTJM)
   * [그린랩스 개발자 채용 설명회 - YouTube](https://www.youtube.com/watch?v=JwiH41oC8dE&t=1200s)
   * [그린랩스에서 리스크립트 시작하기 | 그린랩스](https://green-labs.github.io/rescript-bootcamp)
+  * [리스크립트 컴파일러의 JSX v4를 개발한 여정 | 그린랩스](https://green-labs.github.io/rescript-compiler-jsx-ppx)
   * [Remix로 블로그 만들기, 근데 이제 ReScript를 곁들인 | miryang.dev](https://miryang.dev/blog/create-remix-res-blog)
   * [Dev Dive_ Frontend Day 내 코드의 품질을 높여주는 Type-Driven Development - YouTube](https://www.youtube.com/watch?v=M3pMCZqPvzI)
   * [FECONF 2022 A1 ReScript 같이 해요 - YouTube](https://www.youtube.com/watch?v=208ZBisLuXw)
