@@ -597,6 +597,9 @@ Book
   * [역설계](https://github.com/hyunjun/bookmarks/blob/master/books/decoding_greatness.md)
   * [역설계. Decoding Greatness Book | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%97%AD%EC%84%A4%EA%B3%84-8e1dfdabdcd4)
   * [역설계](https://jh4hj.tistory.com/entry/%EC%97%AD%EC%84%A4%EA%B3%84)
+* [더 골 1 the goal 1 - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/201)
+  * ★★★★☆ 2023.01.16~17
+  * 한라 325.04-골27ㄷ 탐라 개843.5-골27ㄷ 우당 문843-골228ㄷ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -605,8 +608,8 @@ Book
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
   * 한라 325.19-사45ㅇ 탐라 문325.19-사45ㅇ 우당 문325.19-사45ㅇ
   * [창업 이후 가장 큰 도움을 받은 책은 바로 '이것'](https://eopla.net/magazines/291)
-* (NOT YET) [더 골 1 the goal 1 - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/201)
-  * 한라 325.04-골27ㄷ 탐라 개843.5-골27ㄷ 우당 문843-골228ㄷ
+* (NOT YET) [더 골 2 it’s not luck - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/202)
+  * 한라 325.04-골27ㅇ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
