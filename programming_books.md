@@ -1086,6 +1086,7 @@ Programming Books
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
   * 우당 문005.7-우831ㄷ
 * (NOT YET) [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
+* (NOT YET) [실시간 데이터 파이프라인 아키텍처](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309148202)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
