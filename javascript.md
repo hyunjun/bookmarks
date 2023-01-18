@@ -2957,6 +2957,7 @@ Javascript
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
   * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
+* [How to Create a Multi-Threaded Node.js Library | by Mukul Dutt | Jan, 2023 | Bits and Pieces](https://blog.bitsrc.io/creating-a-multi-threaded-node-js-library-cd342c834607)
 * [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 * [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
 * [Payment Gateway integration | NodeJs | ReactJs | Razorpay 🔥🔥 - YouTube](https://www.youtube.com/watch?v=NrzthCtKCho)
@@ -5000,6 +5001,7 @@ Javascript
 * [NodeJS에서 데이터베이스 통합 테스트 성능 개선하기 (TypeORM, Jest, PostgreSQL)](https://jojoldu.tistory.com/689)
 * [프론트엔드 테스트 해야할까? - (1)](https://velog.io/@couchcoding/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8Cwith-react-testing-library)
 * [프론트엔드 테스트 해야할까? - (2) React-Testing-Library 사용해보기](https://velog.io/@couchcoding/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-2-React-Testing-Library-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+* [1. 좋은 함수 만들기 - 부작용과 거리두기](https://jojoldu.tistory.com/697)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
   * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
