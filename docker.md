@@ -95,6 +95,7 @@ Docker
 * [따배도 도커 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogb78kKq1wRvrjg1VMwYrvi)
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=QLENvSMSD-0)
+* [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=YUZl6x_fupY)
 * [Docker for Beginner - YouTube](https://www.youtube.com/playlist?list=PL7yCeT0QPg1_t_vIsDGST88jjEwAu51_1)
 * [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
