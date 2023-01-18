@@ -2973,6 +2973,11 @@ Javascript
 * [New features in Node.js 18. Introduction | by 20ce108_20ce112_20ce158 | Oct, 2022 | Medium](https://medium.com/@20ce_108_112_158/new-features-in-node-js-18-f187388ec618)
 * [6 Major Features of Node.js 19. Details of Node.js 19 new features… | by Jennifer Fu | Oct, 2022 | Better Programming](https://betterprogramming.pub/6-major-features-of-node-js-19-b98e28b9670c)
 * [원활한 협업을 위한 .nvmrc | Univdev](https://www.univdev.page/posts/nvmrc/)
+* [Best Node.JS Schedulers](https://deadsimplechat.com/blog/best-nodejs-schedulers/)
+  * 몇가지 평가 기준을 바탕으로 깃헙에서 스타 높은 프로젝트 비교 (비교 기준을 만족하는 샘플 코드)
+  * Persistence - 프로그램이 다시 시작된 뒤에도 재설정되지 않는지
+  * Horizontal Scaling - 여러 호스트에서 job multiple processor를 지원하는지
+  * 중복 실행 방지 - 다중 프로세스, 다중 스레드에서 실행하더라도 하나만 실행되는지
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4090,6 +4095,7 @@ Javascript
   * [번역 현실 세계 프런트엔드에서 사용되는 자바스크립트 자료구조: 리액트 코드 예시와 함께](https://velog.io/@eunbinn/javascript-data-structures)
 * [프론트엔드 폴더 구조 방법론 정리](https://yoonjong-park.tistory.com/entry/React-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%A0%95%EB%A6%AC)
 * [React Mount System Deep Dive (Sync Mode) :: Normal Coder](https://yeoulcoding.tistory.com/348)
+* [Social Networking Website in React.js And Node.js Part-1 Demo - YouTube](https://www.youtube.com/watch?v=NRxWHV4Oqwo)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
