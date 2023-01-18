@@ -2952,8 +2952,12 @@ Programming Books
   * [제품의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/all_about_product_management.md)
   * [제품의 탄생. 1부 성공적인 제품의 탄생 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D-f0ce38aad934)
   * [제품의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%9C%ED%92%88%EC%9D%98-%ED%83%84%EC%83%9D)
-* (NOT YET) [프로덕트 매니저는 무슨 일을 하고 있을까](https://www.hanbit.co.kr/store/books/look.php?p_code=B4435817798)
+* [프로덕트 매니저는 무슨 일을 하고 있을까](https://www.hanbit.co.kr/store/books/look.php?p_code=B4435817798)
+  * ★★★☆☆ 2023.01.17~18
   * 탐라
+  * [프로덕트 매니저는 무슨 일을 하고 있을까](https://github.com/hyunjun/bookmarks/blob/master/programming_books/what_does_product_manager_do.md)
+  * [프로덕트 매니저는 무슨 일을 하고 있을까. 장점 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-edc003017968)
+  * [프로덕트 매니저는 무슨 일을 하고 있을까](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
