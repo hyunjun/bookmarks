@@ -739,6 +739,7 @@ Web
   * 긴 텍스트를 2줄로만 표시하고 말줄임 표시를 하고 위에 "더보기" 버튼을 넣는 것을 CSS로 구현하는 방법
   * 줄임표 표시와 버튼 배치 후 CSS Shape 적용까지 단계별로 설명하는데 이후 문제가 발견되어 이 문제도 해결하는 방법까지 제안
 * [CSS로 세로 사진 좌우에 블러 효과 넣기 backdrop filter | 웹으로 말하기](https://mytory.net/2022/11/09/fill-with-blur-effect-around-portrait-image.html)
+* [Scroll Snap API를 통해 이미지 캐러셀 완성하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230119-scroll-snap/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
