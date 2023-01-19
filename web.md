@@ -1252,6 +1252,7 @@ Web
   * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
 * [Pynecone: The easiest way to build web apps](https://pynecone.io/)
   * [미친 파이썬 프레임워크가 나타났다. - YouTube](https://www.youtube.com/watch?v=47BL6WLZJ1g)
+  * ['pynecone 튜토리얼' 카테고리의 글 목록](https://employeecoding.tistory.com/category/pynecone%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
 * [PyScript | Run Python in your HTML](https://pyscript.net/)
