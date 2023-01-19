@@ -1046,6 +1046,8 @@ Book
   * 탐라 문410-블231ㅇ 우당 문410-블231ㅇ
 * (NOT YET) [알고리즘이 지배한다는 착각](https://www.brainmedia.co.kr/RecommendedBook/22497)
   * 한라 410-섬897ㅇ
+* (NOT YET) [위상수학 첫걸음](https://hanbit.co.kr/store/books/look.php?p_code=B8171607831)
+* (NOT YET) [STEM CookBook, 정수론 첫걸음](https://hanbit.co.kr/store/books/look.php?p_code=B8663470444)
 
 # Murakami Haruki
 * [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)
@@ -1169,6 +1171,10 @@ Book
 * (NOT YET) [무력할 땐 니체](https://brunch.co.kr/@cliche-cliche/166)
 * (NOT YET) 마흔에 읽는 니체 [4050에 빠지기 쉬운 '도파민 중독', 얕보면 안 되는 이유 | 책방구](https://v.daum.net/v/60db8l5J1Q)
   * 한라 165.77-장73ㅁ 우당 문165.77-장72ㅁ
+* (NOT YET) [이키가이....일본인들의 이기는 삶의 철학](http://www.futurekorea.co.kr/news/articleView.html?idxno=102774)
+  * 탐라 문199.1-모19ㅇ 우당 문199.1-켄35ㅇ
+  * [How to Use the Ikigai Diagram to Find Fulfillment](https://becomingbetter.org/ikigai/)
+  * [어쩌다 만들어진 '이키가이 다이어그램'](https://brunch.co.kr/@oohaahpoint/70)
 
 # Politics
 * (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
