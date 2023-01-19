@@ -1629,6 +1629,7 @@ Business
 * [회의록을 통해 본 '이건희 회장의 무시무시한 디테일' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saumsungchairman20190918)
 * [리더는 그때 그때 달라야 한다](https://brunch.co.kr/@wonjoonlee/10) 시기에 맞는 리더십의 변경 or 변화
 * [조직에 활력을 불어넣는 원천이 되고자 한다](https://brunch.co.kr/@graypool/698) 개인의 취향을 인정하고 스스로가 바뀌자는 이야기
+* [현명한 업무 설계를 돕기](https://brunch.co.kr/@graypool/789) 부담을 갖는 경우 개인별 대화를 통해 작게 나눠서 적정한 업무를 부여하기
 * [직장 충성도 향상을 위해 리더가 해야 할 7가지](https://brunch.co.kr/@vigorous21/118)
 * [2022년 ‘리더십’ 및 ‘팀’에 대한 성찰. 올해 1월 갑자기 임신 사실을 알았고, 출산과 육아를 하고 있다… | by Mijeong (Rachel) | Dec, 2022 | Medium](https://mjspring.medium.com/2022%EB%85%84-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B0%8F-%ED%8C%80-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B1%EC%B0%B0-b0d8ca9707f3)
 * [디즈니의 밥 아이거가 직원과 고객 마음을 얻는 방법 - 티타임즈](https://www.ttimes.co.kr/article/2023011717437713308)
