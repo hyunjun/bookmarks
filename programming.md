@@ -5075,6 +5075,7 @@ Programming
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
 * [Mayday! Software Lessons From an Aviation Disaster • Adele Carpenter • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=IQ8RhVKJI_E)
+* [21화 실패한 프로젝트, 더 자세히 리뷰하라.](https://brunch.co.kr/@supims/31)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
