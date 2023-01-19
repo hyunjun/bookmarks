@@ -397,6 +397,7 @@ PyTorch
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [Rock-Paper-Scissors-with-Jetson-Nano - an implementation for Rock-Paper-Scissors game with a machine. Jetson Nano is used for AI recognition of hand gesture](https://github.com/mokpi/Rock-Paper-Scissors-with-Jetson-Nano)
+* [scala_torch: Scala bindings for LibTorch](https://github.com/microsoft/scala_torch)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
   * [pytorch & sklearn pipeline | Pega Devlog](https://jehyunlee.github.io/2021/09/29/Python-DL-7-skorch_pipeline/)
   * [skorch callbacks (1) dataset preparation | Pega Devlog](https://jehyunlee.github.io/2022/06/09/Python-DL-8-skorch_callback/)
