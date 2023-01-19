@@ -990,7 +990,6 @@ AWS
 * [AWS NAT64, DNS64를 이용한 IPv6 주소에서 IPv4 주소로 통신](https://zigispace.net/1163)
 * [AWS Elastic Kubernetes Service (EKS) Review](https://matduggan.com/aws-eks/)
 * [초보자를 위한 EKS 맛 보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163578)
-* [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
 * [AWS EKS의 Ingress(ALB)의 Target Type에 따른 동작](https://zigispace.net/1174)
 * [EKS Cluster Upgrade with terraform](https://wonderwal1.notion.site/EKS-Cluster-Upgrade-with-terraform-dfe2281e6e97446cb4c45f7cad2e5a42)
 * [Amazon EKS 로 시작하는 Kubernetes — Intro | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/amazon-eks-%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-kubernetes-intro-83fd3ef2f10e)
@@ -1028,6 +1027,8 @@ AWS
     * 스팟 인스턴스 인터럽션이나 ASG 리밸런싱이 일어날 때 EventBridge를 통해 SQG로 이벤트가 전달되고 NTH(node-termination-handler) 팟이 SQS 이벤트를 받아서 이에 맞게 처리
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
+  * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
+  * [EKS Anywhere 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10221/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
