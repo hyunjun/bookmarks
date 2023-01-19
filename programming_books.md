@@ -2758,6 +2758,7 @@ Programming Books
   * 우당 문325.24-매829ㄹ
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
+* (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086&start=slayer)
 
 # Math
 
