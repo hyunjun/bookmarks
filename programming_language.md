@@ -113,6 +113,7 @@ Programming Language
 * [9가지 프로그래밍 언어로 배우는 개념: 1편 - 타입 이론](https://tech.devsisters.com/posts/programming-languages-1-type-theory)
 * [9가지 프로그래밍 언어로 배우는 개념: 2편 - 다형성](https://tech.devsisters.com/posts/programming-languages-2-polymorphism)
 * [9가지 프로그래밍 언어로 배우는 개념: 3편 - 메타프로그래밍](https://tech.devsisters.com/posts/programming-languages-3-metaprogramming/)
+* [9가지 프로그래밍 언어로 배우는 개념: 4편 - 하이 레벨 언어와 동적 타입 언어](https://tech.devsisters.com/posts/programming-languages-4-high-level-languages-and-dynamically-typed-languages/)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
