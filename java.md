@@ -90,6 +90,7 @@ Java
 * [VENKAT SUBRAMANIAM - Refactor your language knowledge portfolio - we are what we can code in](https://www.youtube.com/watch?v=zajUPJI19ZQ)
 * [ReduceDependency](https://github.com/prostars/ReduceDependency)
   * [고차 함수로 의존성 줄이기 | Popit](https://www.popit.kr/%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A4%84%EC%9D%B4%EA%B8%B0/) refactoring
+* [카카오톡 Java App Server Refactoring 후기 – tech.kakao.com](https://tech.kakao.com/2023/01/19/kakaotalk-java-app-server-refactoring/)
 * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
 * [java 엑셀 파일 읽기 (xlsx)](https://huskdoll.tistory.com/890)
@@ -157,6 +158,7 @@ Java
 * ["자바 앱 서버의 표준" 톰캣의 이해와 기본 활용 - ITWorld Korea](https://www.itworld.co.kr/news/249508)
 * [Java APM에 대하여 : 네이버 블로그](https://blog.naver.com/tmondev/222856816055)
 * [Using Java to Orchestrate Robot Swarms](https://www.infoq.com/articles/java-robot-swarms/) Ocado 오카도
+* [주니어 개발자의 우여곡절 소셜로그인 도입 과정 – tech.kakao.com](https://tech.kakao.com/2023/01/19/social-login/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
