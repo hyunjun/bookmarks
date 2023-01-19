@@ -2556,8 +2556,6 @@ Programming Books
 * (NOT YET) [린 스타트업: 실리콘밸리를 뒤흔든 IT 창업 가이드](https://hanbit.co.kr/media/books/book_view.html?p_code=B9955361403)
   * 한라, 탐라
   * [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
-* (NOT YET) [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl/)
-  * 한라 325.19-스885ㅇ 탐라 문325.555-스835ㅇ 우당 문325.555-스835ㅇ
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라

@@ -603,6 +603,9 @@ Book
   * [The Goal 당신의 목표는 무엇인가?](https://github.com/hyunjun/bookmarks/blob/master/books/the_goal.md)
   * [The Goal 당신의 목표는 무엇인가?. 생산성 한 회사가 그 회사의 목표치에 점점 다가가는 일련의 행위… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/the-goal-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fe4e4d4e17a4)
   * [The Goal 당신의 목표는 무엇인가?](https://jh4hj.tistory.com/entry/The-Goal-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl/)
+  * ★★★☆☆ 2023.01.17~19
+  * 한라 325.19-스885ㅇ 탐라 문325.555-스835ㅇ 우당 문325.555-스835ㅇ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
