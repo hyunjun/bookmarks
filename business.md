@@ -339,14 +339,6 @@ Business
 * [직장에 못된 놈 많은데…그들이 잘나간다고요? 뉴욕대 심리학 교수 인터뷰 - 매일경제](https://www.mk.co.kr/news/business/view/2022/03/243963/) 못된 직장 동료들을 어떻게 대할까
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
-* [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
-* [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
-* [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
-* [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
-* [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
-* [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
-* [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
-  * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
@@ -823,6 +815,7 @@ Business
 * [‘처음 3년’을 버텨라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/207638) 경력 인재
 * [전 Uber 리크루팅 디렉터이자 현 Fynd의 CEO인 Andrew의 방식](https://www.linkedin.com/posts/recruitlucas_%EC%98%AC-%ED%95%98%EB%B0%98%EA%B8%B0%EC%97%90%EB%8A%94-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%B6%84%EC%95%BC%EC%9D%98-%EA%B5%AC%EB%A3%A8%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%A0%84-uber-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%94%94%EB%A0%89%ED%84%B0%EC%9D%B4%EC%9E%90-activity-7008367388123439104-eBxr/)
 * [미국 TOP 리크루터가 알려주는 스타트업 채용의 비밀](https://brunch.co.kr/@olivialee/30)
+* [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1224,6 +1217,17 @@ Business
 * [Keep ’Em Coming: Why Your First Ideas Aren’t Always the Best | Stanford Graduate School of Business](https://www.gsb.stanford.edu/insights/keep-em-coming-why-your-first-ideas-arent-always-best)
   * [Keep 'Em Coming: 첫번째 아이디어가 최고가 아닌 이유 | GeekNews](https://news.hada.io/topic?id=7810)
 * [세상에 없던 아이디어에 함부로 꽂히면 안 되는 이유](https://contents.premium.naver.com/saramin/waytowork/contents/221110175233168ng)
+
+# KPI
+* [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
+* [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
+* [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
+* [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
+* [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
+* [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
+* [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
+  * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
+* [Platform Engineering KPIs. In this post, we will share our… | by Lambros Charissis | Wise Engineering | Medium](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
