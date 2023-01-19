@@ -647,6 +647,7 @@ Programming Books
   * 한라 005.118-이25ㅅ 탐라 문005.118-이225ㅅ 우당 문005.118-이225ㅅ
 * (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook)
   * 한라
+* (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
 
 # Android
 
@@ -2757,6 +2758,7 @@ Programming Books
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086&start=slayer)
+* (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
 
 # Math
 
