@@ -2315,6 +2315,7 @@ Scala
 * [Getting Started with Scala.js and Vite | Let´s talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=dv7fPmgFTNA)
 * [Indoor Vivants:: Cloudflare functions with Scala.js](https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs)
 * [Use Typescript libraries with Scala.js! · ScalablyTyped](https://scalablytyped.org/docs/readme.html)
+* [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez - YouTube](https://www.youtube.com/watch?v=9ePQwMA_g_w)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
