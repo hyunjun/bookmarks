@@ -96,6 +96,7 @@ Docker
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=QLENvSMSD-0)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=YUZl6x_fupY)
+* [How to create a great dev environment with Docker - YouTube](https://www.youtube.com/watch?v=0H2miBK_gAk) python
 * [Docker for Beginner - YouTube](https://www.youtube.com/playlist?list=PL7yCeT0QPg1_t_vIsDGST88jjEwAu51_1)
 * [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
