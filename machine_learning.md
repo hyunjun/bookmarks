@@ -60,6 +60,7 @@ Machine Learning
 * [머신 러닝 파이프라인 | Pega Devlog](https://jehyunlee.github.io/2022/05/24/Python-DS-101-kierlecture2/)
 * [semantic-segmentation-ml-pipeline](https://github.com/deep-diver/semantic-segmentation-ml-pipeline)
   * [End to End ML Pipeline for Semantic Segmentation Task](https://www.facebook.com/groups/TensorFlowKR/posts/1891333297874386/)
+* [Machine Learning Pipeline As A Language by Daniel Berecz - YouTube](https://www.youtube.com/watch?v=hiV_p2fYYtc) scala
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
 * [정규강의 : 기계 학습](http://www.snow.or.kr/lecture/applied_sciences/computer_science/466.html)
