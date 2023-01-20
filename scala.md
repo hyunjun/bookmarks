@@ -22,6 +22,7 @@ Scala
   * [Happy Path Programming • Anchor 팟캐스트](https://anchor.fm/happypathprogramming/)
   * [Tooling Talks - Scaladoc from Scratch](https://www.tooling-talks.com/episode-15)
   * [Tooling Talks - The Scala Improvement Process (SIP)](https://www.tooling-talks.com/episode-16)
+  * [#94: Scala: language with academic background and huge industry adoption](https://nurkiewicz.com/2023/01/scala.html)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -847,6 +848,7 @@ Scala
   * [Scala & the Three Implicits | Medium](https://murraytodd.medium.com/scala-the-three-implicits-4fa68e9eb397)
   * [Implicit vs Scala 3's Given - Alexandru Nedelcu](https://alexn.org/blog/2022/05/11/implicit-vs-scala-3-given/)
   * [Implicit parameters, when to use them (or not)!](https://www.slideshare.net/JulienTruffaut/implicit-parameters-when-to-use-them-or-not)
+  * [Implicit parameters when to use them? Part 1 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-1/)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1067,6 +1069,7 @@ Scala
     * [Dancing with ZIO - Oto Brglez Ljubljana.tech - YouTube](https://www.youtube.com/watch?v=mVU6nyl_zWk)
     * [Python and ZIO crushed my egotism | by Jay | DataTrek | Dec, 2022 | Medium](https://medium.com/lambdaverse/python-and-zio-crushed-my-egotism-5c78b5ce4d31)
     * [Introducing The ZIO DynamoDB Type-Safe API by Avinder Bahra - YouTube](https://www.youtube.com/watch?v=Qte4WUfHQ3g)
+    * [Early adventures in ZIO land | Bogdan Dimitriu’s blog](https://bbdimitriu.github.io/scala/zio/2023/01/14/early-adventures-zio-land.html)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1768,6 +1771,7 @@ Scala
   * [Building Functional Web Services with Scala & http4s (Part 1): Hello World - YouTube](https://www.youtube.com/watch?v=qbVy8NC9_RI)
   * [Building Functional Web Services with Scala & http4s (Part 2): Starting our Recipe Service - YouTube](https://www.youtube.com/watch?v=phTXi7mAde0)
   * [Http4s Scala Tutorial: Writing an HTTP Server with Purely Functional Scala - YouTube](https://www.youtube.com/watch?v=v_gv6LsWdT0)
+  * [Deploy http4s on your domain with fly.io | TonioGela's](https://toniogela.dev/http4s-on-fly-io/)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
@@ -2602,6 +2606,7 @@ Scala
 * [Complete Scala Tutorial by Bharath - YouTube](https://www.youtube.com/playlist?list=PLyueB9LCZVO7dwbs0URRdCld16VsncfS6)
 * [Rock the JVM - YouTube](https://www.youtube.com/channel/UCRS4DvO9X7qaqVYUW2_dwOw)
 * [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
+  * [Tour of Scala - Scala classes](https://github.com/leobenkel/tour-of-scala)
 * [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
 * [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
 * [From First Principles: Why Scala?](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
