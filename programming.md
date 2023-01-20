@@ -3587,6 +3587,7 @@ Programming
   * 개발의 35%가 2배 빠르게 코드를 릴리스하고 15%는 3~5배 빠르게 릴리스
   * 71% 조직이 보안 노력을 "좋음", "우수함"으로 평가
   * 운영의 44%가 대부분 자동화, 25%는 완전히 자동화로 평가
+* [‘어설픈 데브옵스’를 하고 있다는 7가지 징후 - CIO Korea](https://www.ciokorea.com/news/273769)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
