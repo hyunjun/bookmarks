@@ -221,6 +221,7 @@ Flutter
 
 # Library
 * [디자인을 Flutter코드로 변환 - supernova툴](https://open-support.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-Flutter%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B3%80%ED%99%98-supernova%ED%88%B4)
+* [유용했던 패키지 소개](https://www.facebook.com/groups/flutterkorea/posts/1428740014324194/) `photo_manager` `floor` `screenshot` `synchronized` `collection` `pull_to_refresh`
 * [appwrite: Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative](https://github.com/appwrite/appwrite)
   * [Announcing Appwrite 0.13 with Major Upgrades to Storage and Functions - DEV Community](https://dev.to/appwrite/announcing-appwrite-013-with-major-upgrades-to-storage-and-functions-3hpf)
 * [awesome-flutter: A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!](https://github.com/nepaul/awesome-flutter)
