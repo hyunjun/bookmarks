@@ -2526,6 +2526,7 @@ Programming Books
 * [마스터스 오브 스케일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295469761)
   * ★★★★☆ 2022.12.17
   * 한라 325.1-호897ㅁ 우당 문325.1-호848ㅁ
+  * [링크드인 창업자 리드호프먼의 기업문화 구축에 대한 조언](https://www.linkedin.com/posts/relaxistsean_%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8-%EC%B0%BD%EC%97%85%EC%9E%90-%EB%A6%AC%EB%93%9C%ED%98%B8%ED%94%84%EB%A8%BC%EC%9D%98-%EA%B8%B0%EC%97%85%EB%AC%B8%ED%99%94-%EA%B5%AC%EC%B6%95%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A1%B0%EC%96%B8-%EB%B0%9C%EC%A0%84%EC%8B%9C%ED%82%AC-%EC%88%98-activity-7021960166757523456-0aAF/)
 * [유난한 도전 - 경계를 부수는 사람들, 토스팀 이야기 | Hoing](https://hoing.io/archives/70873)
   * ★★★☆☆ 2022.12.20
   * [유난한 도전](https://github.com/hyunjun/bookmarks/blob/master/programming_books/exceptional_challenge.md)
