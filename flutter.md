@@ -166,6 +166,7 @@ Flutter
 * [최적화 측면에서 살펴 본 Flutter Widgets : ListView 1/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-1-4-9bfb1511f15f)
 * [최적화 측면에서 살펴 본 Flutter Scrolling Widgets : ListView 2/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-2-3-5017a9d1273c)
 * [최적화 측면에서 살펴 본 Flutter Scrolling Widgets : ListView 3/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-3-3-2faa77c7cdf6)
+* [코드리뷰 - Flutter (2023.01.20) | 10분 TV](http://10bun.tv/code-review/005/)
 
 # Conference, Meetup
 * [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
