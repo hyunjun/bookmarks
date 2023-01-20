@@ -471,6 +471,7 @@ Data Science
 * [데이터야놀자2021 공공데이터를 활용한 서울시 공/사교육 분석 - 고동우(데이터드림)님 - YouTube](https://www.youtube.com/watch?v=QDV19lPrMGU)
 * [Agile Data Science - John Sandall | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7HR-vrYN1oU)
 * [데이터로 트렌드 읽는 방법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/19)
+* [SOCAR DATA MeetUp 2022 - YouTube](https://www.youtube.com/playlist?list=PLEZRFe2YmFouerg-jmQ5EMivTeSSlwP3z)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
