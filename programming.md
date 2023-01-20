@@ -1214,6 +1214,7 @@ Programming
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
 * [How to Become a Great Software Architect • Eberhard Wolff • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
 * [아키텍트에게 기대하는 8가지 - YouTube](https://www.youtube.com/watch?v=FbWHw6GBCrU) 아키텍처 결정, 지속적인 아키텍처 분석, 최신 트렌드 유지, 결정 사항 준수 확인, 다양한 경험, 도메인 지식, 대인 관계 기술, 정치
+* [아키텍트로 가득 찬 팀을 만드는 '아키텍처 설계 워크숍’  - Smart Studio](https://smartstudio.tech/architecture-workshop/)
 * [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019 - YouTube](https://www.youtube.com/watch?v=mCM6QVHD08c)
 * [Don’t lose touch as a ‘Software Architect’ going into 2022 | by Ryan Susana | Dec, 2021 | Medium](https://medium.com/@ryansusana/dont-lose-touch-as-a-software-architect-going-into-2022-d481801cbb57)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
