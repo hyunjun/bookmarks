@@ -606,6 +606,9 @@ Book
 * [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl/)
   * ★★★☆☆ 2023.01.17~19
   * 한라 325.19-스885ㅇ 탐라 문325.555-스835ㅇ 우당 문325.555-스835ㅇ
+  * [아마존 언바운드 Amazon Unbound](https://github.com/hyunjun/bookmarks/blob/master/books/amazon_unbound.md)
+  * [아마존 언바운드 Amazon Unbound. 리스크를 감수하면 보상을 받는다는 강력한 메시지 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%96%B8%EB%B0%94%EC%9A%B4%EB%93%9C-amazon-unbound-a7725a524103)
+  * [아마존 언바운드 Amazon Unbound](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%96%B8%EB%B0%94%EC%9A%B4%EB%93%9C-Amazon-Unbound)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
