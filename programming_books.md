@@ -3004,6 +3004,7 @@ Programming Books
   * ★★★☆☆ 2022.12.20
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
+* (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
