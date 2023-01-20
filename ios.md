@@ -409,6 +409,7 @@ iOS
 * [클래스, 구조체, 열거형 비교](http://blog.yagom.net/554)
 * [클로저 - Closure](http://blog.yagom.net/555)
 * [Swift Escaping Closure 이해하기](https://hcn1519.github.io/articles/2017-09/swift_escaping_closure)
+* [Swift : Closure & Capture Lists - 동작방식을 알아보자 | Medium](https://showcove.medium.com/swift-closure-capture-lists-1-277d2e60dc2d)
 * [프로퍼티 - Property](http://blog.yagom.net/556)
 * [Property Wrapper](https://wlaxhrl.tistory.com/90)
 * [Swift의 다양한 Property | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-various-property/)
