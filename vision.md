@@ -719,6 +719,8 @@ Vision
 * [Automatic Document Scanner using OpenCV | LearnOpen](https://learnopencv.com/automatic-document-scanner-using-opencv/)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
+* [GoCV - Golang Computer Vision Using OpenCV 4](https://gocv.io/)
+  * [작고 귀여운 GoCV 컨테이너 만들기](https://blog.annotation-ai.com/dockerizing-gocv/)
 * [GymLytics: Visual Analytics of different exercises for humans 🏋️](https://github.com/akshaybahadur21/GymLytics)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 * [pyimagesearch.com](http://www.pyimagesearch.com/)
