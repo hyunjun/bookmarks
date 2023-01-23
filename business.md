@@ -650,6 +650,7 @@ Business
 * [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
 * [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 * [VIRTU](https://carpedm30.notion.site/VIRTU-5370f00be3494678ba8eb128b0806f69)
+* ["40분 지나면 버려진다"…회전초밥집 초밥의 비밀 정영효의 인사이드 재팬](https://v.daum.net/v/20230122083902406) 기술 자체가 중요하지 않다, 회사의 목적을 생각하고 그에 부함하는 걸 선택해서 사용하는 게 중요
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
@@ -1919,6 +1920,7 @@ Business
 * [VC가 꼽은 가장 훌륭한 IR 장표 7가지 (번역본 포함)](https://www.grownbetter.com/article/193)
   * 글로벌 스타트업 훌륭한 IR 장표로 Airbnb, Uber, Buffer, Facebook, Front Mattermark, Dwolla 선택. 당시의 IR 장표에 대한 링크도 존재
 * [도어대시(DoorDash) 10년 전 데모데이 발표 영상 (2013년, YC demoday) - YouTube](https://www.youtube.com/watch?v=qugQsO_6ivo) pitch deck
+* [(주)스니커즈 오픈피칭 | 앤틀러코리아 1기 데모데이 - YouTube](https://www.youtube.com/watch?v=FltqA2-kefA)
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
