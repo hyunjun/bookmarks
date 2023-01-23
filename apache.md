@@ -739,6 +739,8 @@ Apache
 * [Apache Kafka-Installation Steps](https://skolaparthi.com/apache-kafka-installation/)
 * [Kafka in Action • Viktor Gamov & Tim Berglund • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=2l-JsB10WaI)
 * [카프카 시작하기 - 개념, 클러스터.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222984745300)
+* [nodejs 카프카 연동하기 - 프로듀서 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222990867538)
+* [nestjs 카프카 연동하기 - 프로듀서 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222991359835)
 * [리디에서 Kafka를 사용하는 법 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/how-to-use-kafka-in-ridi)
 
 ## Kafka Library
