@@ -1579,6 +1579,10 @@ App
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
 * [coggle.it](https://coggle.it/)
+* [D2 is a modern diagram scripting language that turns text to diagrams](https://github.com/terrastruct/d2)
+  * [D2 Tour | D2 Documentation](https://d2lang.com/)
+  * [D2 - Diagram Scripting Language 오픈소스로 전환 | GeekNews](https://news.hada.io/topic?id=7876)
+  * [누구나 10분안에 배울 수 있는 언어가 나타났다! - YouTube](https://www.youtube.com/watch?v=TKFNs0z_ShE)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
   * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
