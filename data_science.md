@@ -67,6 +67,7 @@ Data Science
 * A Beginner’s Guide to Data Engineering
   * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [data-engineering-zoomcamp: Free Data Engineering course!](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [시리즈 | IBM Data Science - DEV_SK](https://velog.io/@kwonhl0211/series/IBM-Data-Science)
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
 * [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
