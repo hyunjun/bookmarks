@@ -3002,6 +3002,7 @@ Programming Books
   * 우당 문005.104-라58ㅅ
 * [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
   * ★★★☆☆ 2022.12.20
+  * [독서광 개발자 원칙](https://jhrogue.blogspot.com/2023/01/blog-post.html)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
