@@ -682,6 +682,7 @@ NLP
   * [ChatGPT가 뭔데? 사용법부터 한계까지 개념 총정리! - 아틀라스랩스 블로그 | Atlas Labs](https://blog.atlaslabs.ai/chatgpt-concept/)
   * [How to use ChatGPT in product design: 8 practical examples](https://babich.biz/how-to-use-chatgpt-in-product-design/)
     * [제품 디자인에 ChatGPT를 이용하는 법 : 8가지 실제 사례 | GeekNews](https://news.hada.io/topic?id=8198)
+  * [2023 ChatGPT 관련 최신 소식 정리. 사용량, DAU, MAU, 이용자 수, Microsoft, 투자, GPT-4, Google, DeepMind, LaMDA, Sparrow, You.com, Perplexity.ai, Bing](https://hipgyung.tistory.com/entry/2023-ChatGPT-%EA%B4%80%EB%A0%A8-%EC%B5%9C%EC%8B%A0-%EC%86%8C%EC%8B%9D-%EC%A0%95%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-DAU-MAU-%EC%9D%B4%EC%9A%A9%EC%9E%90-%EC%88%98-Microsoft-%ED%88%AC%EC%9E%90-GPT-4-Google-DeepMind-LaMDA-Sparrow-Youcom-Perplexityai-Bing)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
