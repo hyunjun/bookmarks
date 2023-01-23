@@ -1748,6 +1748,7 @@ Docker
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
   * [Kubernetes at Home With K3s :: Bruno Antunes — Thoughts, rants, ideas](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
+  * [Offline 환경에서 K3S 세팅하기](https://blog.annotation-ai.com/offline-k3s-setting/)
 * k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
 * [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
@@ -1974,6 +1975,9 @@ Docker
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
   * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
   * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
+* [Traefik Proxy Documentation - Traefik](https://doc.traefik.io/traefik/)
+  * [K8s에서 Traefik으로 gRPC 로드 밸런싱하기](https://blog.annotation-ai.com/grpc-loadbalancing-in-k8s/)
+    * [gRPC Load Balancing on Kubernetes without Tears | Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/)
 * [trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
   * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
   * [Scanning for AWS Security Issues With Trivy | liamg](https://lia.mg/posts/trivy-aws/)
@@ -2198,6 +2202,7 @@ Docker
 * [The Bridge Network Driver | Networking in Docker #6 - TechMormo](https://techmormo.com/posts/docker-networking-6-bridge-driver/)
 * [The Overlay Network Driver | Networking in Docker #7 - TechMormo](https://techmormo.com/posts/docker-networking-7-overlay-driver/)
 * [Docker Networking Summary | Networking in Docker #8 - YouTube](https://www.youtube.com/watch?v=3c0miSU038E)
+* [Why is Docker and container networking so hard!?](https://www.linkedin.com/feed/update/urn:li:activity:7022246391301246976/)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
