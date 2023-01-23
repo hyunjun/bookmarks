@@ -1500,6 +1500,7 @@ Programming
 * [Enterprise Architecture = Architecting the Enterprise? • Gregor Hohpe • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 * [Software Architecture for Developers • Simon Brown • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=dtVI7PvgVsQ)
 * [Shortening the Architectural Feedback Loop • Eltjo R. Poort • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=lshfKKeB1Io)
+* [Vertical Slice Architecture, not Layers! - YouTube](https://www.youtube.com/watch?v=L2Wnq0ChAIA)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -2259,6 +2260,7 @@ Programming
   * Azure Functions는 Azure에가 가장 인기 있는 서버리스 제품이지만 Azure Container Instances의 채택이 빠르게 증가
   * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
 * [클라우드와 서버리스. 이 블로그를 시작한 계기가 서버리스인데 글들을 살펴 보니 서버리스 관련… | by 이상선 | Nov, 2022 | Medium](https://medium.com/@sunyi233/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-5fc05c1a637e)
+* [Serverless: 6 Years Later • Erwin van der Koogh • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=-2UE3C329Ek)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
@@ -4425,6 +4427,7 @@ Programming
   * [12월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/12/b-12-3.html)
   * [1월 1주 소식(개발/클라우드/보안/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/01/b-1-1.html)
   * [1월 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/01/b-1.html)
+  * [1월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/01/b-1-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -5077,7 +5080,8 @@ Programming
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
 * [Mayday! Software Lessons From an Aviation Disaster • Adele Carpenter • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=IQ8RhVKJI_E)
-* [21화 실패한 프로젝트, 더 자세히 리뷰하라.](https://brunch.co.kr/@supims/31)
+* [21화 실패한 프로젝트, 더 자세히 리뷰하라](https://brunch.co.kr/@supims/31)
+* [Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ephM9Nw9pAA)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
