@@ -731,7 +731,6 @@ Javascript
 * [NetFUNNEL 우회하기 대기없이 서민형 안심전환대출 신청하기](https://libsora.so/post/bypass-netfunnel/)
 * [LINE의 웹 기반 서비스와 기술 – LINE은 앱 만드는 회사 아닌가요?](https://engineering.linecorp.com/ko/blog/line-web-services-and-techs/)
 * [패턴 매칭(Pattern Matching) in JavaScript](https://dev-momo.tistory.com/entry/패턴-매칭Pattern-Matching-in-JavaScript)
-* [Get started with Web Bundles](https://web.dev/web-bundles/)
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 * [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
@@ -2561,12 +2560,15 @@ Javascript
   * [Styled components - Module not found](https://velog.io/@aneb/yarn-berry-Styled-components-Module-not-found)
 
 ## Library Bundler
+* [Get started with Web Bundles](https://web.dev/web-bundles/)
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
 * [JavaScript 번들러로 본 조선시대 붕당의 이해 | 요즘IT](https://yozm.wishket.com/magazine/detail/1261/)
 * [JavaScript 번들러의 이해 — (1) JavaScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-1-javascript-%EB%AA%A8%EB%93%88-d68c7e438fcd)
 * [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
+* [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
+  * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 * [esbuild-loader: ⚡️ Speed up your Webpack build with esbuild](https://github.com/privatenumber/esbuild-loader)
   * [Webpack 빌드에 날개를 달아줄 Esbuild-Loader | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220707-webpack-esbuild-loader/)
@@ -4097,6 +4099,7 @@ Javascript
 * [React Mount System Deep Dive (Sync Mode) :: Normal Coder](https://yeoulcoding.tistory.com/348)
 * [Social Networking Website in React.js And Node.js Part-1 Demo - YouTube](https://www.youtube.com/watch?v=NRxWHV4Oqwo)
 * [How to Auth Login with GitHub and Google in a React and Backend App | by L Javier Tovar | Jan, 2023 | Bits and Pieces](https://blog.bitsrc.io/how-to-auth-login-with-github-and-google-in-a-react-and-backend-app-77423565b506)
+* [자바스크립트 컨텍스트로 이해하는 함수형 컴포넌트](https://blog.naver.com/pjt3591oo/222990272706)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4615,6 +4618,7 @@ Javascript
   * [Next Js 13 Dynamic Website Ever 2023 - YouTube](https://www.youtube.com/watch?v=MOEfA3eAigM)
   * [Hello-World-Next-JS: Hello World](https://github.com/Abdullah-Younus/Hello-World-Next-JS)
   * [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
+  * [Web: Next.js 기초 알아보기 (Page, Pre-Rendering) | by Heechan | HcleeDev | Jan, 2023 | Medium](https://medium.com/hcleedev/web-next-js-%EA%B8%B0%EC%B4%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-page-pre-rendering-864c3f4dad5b)
   * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
     * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
