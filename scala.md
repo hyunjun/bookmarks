@@ -1098,6 +1098,7 @@ Scala
       * [Zymposium - Prelude Redux (Type-classes without Type-classes) - YouTube](https://www.youtube.com/watch?v=97Yc0Ub9aZ8)
       * [Ep 13: Another angle on monad transformers with Zio Prelude - YouTube](https://www.youtube.com/watch?v=tEnZZlOn-jI)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
+    * zio rezilience [Give Failure A Chance by Wiem Zine Elabidine - YouTube](https://www.youtube.com/watch?v=CnXR7RPMAs8)
     * ZIO Schema [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
     * [zio-sql: Type-safe, composable SQL for ZIO applications](https://github.com/zio/zio-sql)
       * [ZIO SQL - type-safe SQL for ZIO applications](https://scalac.io/blog/zio-sql-type-safe-sql-for-zio-applications/)
