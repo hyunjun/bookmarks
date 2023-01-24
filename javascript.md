@@ -65,6 +65,7 @@ Javascript
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1) OutOfMemory / memory leak 현상 이해
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
 * [JS의 객체는 hash table이 아닙니다!](https://velog.io/@wongue_shin/JS%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%8A%94-hash-table%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
+* [Javascript Performance related Points. - YouTube](https://www.youtube.com/watch?v=z8gxF5MelIs)
 * [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
 * [번역 V8 Deep Dives Javascript Map을 파헤쳐보자](https://www.jiwon.me/v8-deep-dives-understanding-map-internals/)
 * [How Node.js uses the V8 JavaScript engine to run your code | Red Hat Developer](https://developers.redhat.com/articles/2021/12/09/how-nodejs-uses-v8-javascript-engine-run-your-code)
