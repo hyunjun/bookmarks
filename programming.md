@@ -5426,6 +5426,7 @@ Programming
   * [10개의 장애 부고가 준 7가지 교훈들 (번역) | Daniel Lee](https://typefully.com/dylayed/GYvpKSs)
 * [깃헙의 10월 21일 장애 사후 분석](https://muchtrans.com/translations/github-oct-21-post-incident-analysis.ko.html)
 * [카카오 사태로 필수개념된 DR 시스템? 설명 10분컷! - YouTube](https://www.youtube.com/watch?v=tLLs7fKts2o) disaster recovery, RTO, RPO
+* [NHN FORWARD 22 편안한 휴식 시간을 지켜줄 안정적인 백엔드 운영과 개발 기법 - YouTube](https://www.youtube.com/watch?v=2hCbY_mpqSg)
 * [CircleCI security alert: Rotate any secrets stored in CircleCI (Updated Jan 13)](https://circleci.com/blog/january-4-2023-security-alert/)
   * CircleCI에서 12월 21일부터 1월 4일까지 내부에서 의심스러운 접근으로 시크릿에 저장된 값에 접근했을 수 있는 가능성이 발견
     * CircleCI에 저장된 모든 시크릿을 로테이션 시키라고 권고
