@@ -374,6 +374,7 @@ Java
   * [String, StringBuilder, and StringBuffer Do You Know the Difference?](https://medium.com/javarevisited/string-stringbuilder-and-stringbuffer-do-you-know-the-difference-6a53429dcf)
   * [java replaceAll 메서드 : 그냥 쓰면 어떤 오버헤드가 걸릴까요?](https://codingdog.tistory.com/entry/java-replaceAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EA%B7%B8%EB%83%A5-%EC%93%B0%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%B4%EA%B9%8C%EC%9A%94)
   * [java string replace vs replaceAll 을 간단하게 비교해 봅시다.](https://codingdog.tistory.com/623)
+  * [replaceAll 대신 replace 사용하기](https://yeonyeon.tistory.com/294)
   * [java toLowerCase toUpperCase 를 수행하면 길이가 항상 같을까요?](https://codingdog.tistory.com/entry/java-toLowerCase-toUpperCase-%EB%A5%BC-%EC%88%98%ED%96%89%ED%95%98%EB%A9%B4-%EA%B8%B8%EC%9D%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EA%B0%99%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [사소한 시리즈 - 문자열 분리 코드 중복 제거 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B6%84%EB%A6%AC-%EC%BD%94%EB%93%9C-%EC%A4%91%EB%B3%B5-%EC%A0%9C%EA%B1%B0)
   * [사소한 시리즈 - 문자열이 여러 값 중 하나와 같은지 다른지 비교하는 코드 정리 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4-%EC%97%AC%EB%9F%AC-%EA%B0%92-%EC%A4%91-%ED%95%98%EB%82%98%EC%99%80-%EA%B0%99%EC%9D%80%EC%A7%80-%EB%8B%A4%EB%A5%B8%EC%A7%80-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EC%A0%95%EB%A6%AC)
