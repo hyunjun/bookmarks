@@ -700,6 +700,9 @@ Machine Learning
 * [What is SciML? – SciML Research Group](https://sites.brown.edu/bergen-lab/research/what-is-sciml/)
 * [SHIELD: LINE VOOM을 어뷰저로부터 보호하기](https://engineering.linecorp.com/ko/blog/shield-abusing-detection-with-rule-and-ml)
 * [Data Round Table - YouTube](https://www.youtube.com/playlist?list=PL8w2hC_O3HkKUlYamhI1lMOxqzilOhmsU)
+* [ML Latency No More. Common Ways to Reduce ML Prediction Latency. | by Moussa Taifi PhD | Apr, 2022 | Medium | Towards Data Science](https://towardsdatascience.com/ml-latency-no-more-9176c434067b)
+  * [ML Latency No More- Useful Patterns to Reduce ML Prediction Latency to Sub X ms | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=sMDwOXvCpuA)
+* [Vincent Warmerdam: Winning with Simple, even Linear, Models | PyData London 2018 - YouTube](https://www.youtube.com/watch?v=68ABAU_V8qI&t=4s)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
