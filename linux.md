@@ -880,6 +880,7 @@ Linux
   * [Introducing SSH command logging](https://blog.cloudflare.com/ssh-command-logging/)
   * [How To Set Correct SSH Directory Permissions in Linux](https://www.tecmint.com/set-ssh-directory-permissions-in-linux/)
   * [SSH tips and tricks | Carlos Becker](https://carlosbecker.dev/posts/ssh-tips-and-tricks/)
+  * [Passion is like genius; a miracle. - ssh-add 를 자동실행하는 방법](https://mkseo.pe.kr/blog/?p=2756)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
