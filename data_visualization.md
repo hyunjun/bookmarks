@@ -241,6 +241,8 @@ Data Visualization
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
   * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)
+* [Vizzu](https://vizzuhq.com/)
+  * [ipyvizzu-story- a open-source tool to build create+share animated data stories w/ python in jupyter - YouTube](https://www.youtube.com/watch?v=G3EY2IHG1xA)
 * [WebPlotDigitiger - HTML5 based online tool to extract numerical data from plot images. http://arohatgi.info/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 # Python
