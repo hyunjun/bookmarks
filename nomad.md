@@ -234,6 +234,7 @@ Nomad & Remote
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
 * [발리에서 한 달 동안 원격근무하기 (2)실제 생활](http://slowalk.tistory.com/2510)
+* [발리에서 $46,591 소프트웨어 만드는 사나이](https://eopla.net/magazines/2319)
 
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)
