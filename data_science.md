@@ -731,6 +731,8 @@ Data Science
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun ](https://github.com/lucidrains/deep-daze)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
+* [hamilton: A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc](https://github.com/stitchfix/hamilton)
+  * [Elijah ben Izzy- Scalable Feature Engineering with Hamilton | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=ifC4puHZjL8)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * Kedro [Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro - YouTube](https://www.youtube.com/watch?v=4sCpfCiJLgs)
 * [Mandrova: Sensor Data Generator for Python3](https://github.com/makinarocks/Mandrova)
