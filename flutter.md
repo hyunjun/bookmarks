@@ -167,6 +167,8 @@ Flutter
 * [최적화 측면에서 살펴 본 Flutter Scrolling Widgets : ListView 2/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-2-3-5017a9d1273c)
 * [최적화 측면에서 살펴 본 Flutter Scrolling Widgets : ListView 3/3 | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C-%EC%82%B4%ED%8E%B4-%EB%B3%B8-flutter-scrolling-widgets-listview-3-3-2faa77c7cdf6)
 * [코드리뷰 - Flutter (2023.01.20) | 10분 TV](http://10bun.tv/code-review/005/)
+* [Flutter go_router 사용하기 1/2. 이 글은 인프런의 코드팩토리 중급 Flutter 진짜 실전… | by Cody Yun | Dec, 2022 | Medium](https://medium.com/@cody.yun/flutter%EC%97%90-go-router-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1-2-124cf41f0a2)
+* [Flutter go_router 사용하기 2/2. 이 글은 인프런의 코드팩토리 중급 Flutter 진짜 실전… | by Cody Yun | Jan, 2023 | Medium](https://medium.com/@cody.yun/flutter-go-router-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2-2-75ad0f425ed7)
 
 # Conference, Meetup
 * [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
