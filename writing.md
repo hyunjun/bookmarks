@@ -173,6 +173,8 @@ Writing
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
+* Swimm [Knowledge management and documentation for code | Swimm](https://swimm.io/)
+  * [Code Documentation Is Broken  -  But I Think We've Fixed It | JavaScript in Plain English](https://javascript.plainenglish.io/code-documentation-is-broken-but-i-think-swimm-may-have-fixed-it-daaa7547d834)
 
 ## Programming Technical writing
 * [‘문서’로 세상에 도움을 주는 테크니컬 라이터, 강정일](https://engineering.linecorp.com/ko/blog/line-developer-interview-4/)
