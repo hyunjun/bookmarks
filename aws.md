@@ -906,6 +906,7 @@ AWS
 * [Using AWS EC2 to Deploy NodeJS and MongoDB Application - codewithAzzan](https://codewithazzan.com/deploying-nodejs-application-on-aws-ec2/)
 * [AWS 저도 잘 모르지만, 한번 해 봤습니다 — Amazon EC2편 | by Jieun Park | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/aws-%EC%A0%80%EB%8F%84-%EC%9E%98-%EB%AA%A8%EB%A5%B4%EC%A7%80%EB%A7%8C-%ED%95%9C%EB%B2%88-%ED%95%B4-%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4-amazon-ec2%ED%8E%B8-e59956cbeb83)
 * [Installing Docker on EC2 Instance (AWS) - YouTube](https://www.youtube.com/watch?v=y5pct8_NwTg)
+* [EC2에 배포된 Spring 웹 애플리케이션에서 AWS 리소스에 액세스할 때 주의해야할 점](https://kim-jong-hyun.tistory.com/136)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
