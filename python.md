@@ -3956,8 +3956,10 @@ Python
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * SimPy
+  * [Introduction to Simulation with SimPy | by Darío Weitz | Towards Data Science](https://towardsdatascience.com/introduction-to-simulation-with-simpy-322606d4ba0c)
   * [Simulating Real-World Processes in Python With SimPy – Real Python](https://realpython.com/courses/simulating-processes-simpy/)
   * [Getting Started Simulating Real-World Processes in Python with SimPy - YouTube](https://www.youtube.com/watch?v=NypbxgytScM)
+  * [Lara Kattan - Simulations in Python: Discrete Event Simulation with SimPy | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=TALKZZV0TiU)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
@@ -4870,6 +4872,7 @@ Python
 * [Pandas NaN이란 그리고 None 차이](https://blog.doosikbae.com/entry/Pandas-NaN%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-None-%EC%B0%A8%EC%9D%B4)
 * [Pandas dataframe 메모리 사용량 확인하기](https://blog.doosikbae.com/entry/Pandas-dataframe-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%B2%B4%ED%81%AC)
 * [Hossein Mortazavi - How to use Pandas Efficiently | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=IRr3gx71rnk)
+* [Jeff Reback: pandas at a Crossroads, the Past, Present, and Future | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=85XdsWz_Q_o)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
@@ -5046,7 +5049,6 @@ Python
 * [Doing symbolic math with SymPy LWN.net](https://lwn.net/Articles/840986/)
 * [Quantum Addition of Angular Momentum in Python: Obtaining the Clebsch-Gordan Coefficients - YouTube](https://www.youtube.com/watch?v=ILDEKi6x6Cg)
 * [Software Carpentry: 기호 수학(Symbolic Math)](https://aispiration.com/symbolic-math/)
-* [Introduction to Simulation with SimPy | by Darío Weitz | Towards Data Science](https://towardsdatascience.com/introduction-to-simulation-with-simpy-322606d4ba0c)
 
 # TDD, Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
