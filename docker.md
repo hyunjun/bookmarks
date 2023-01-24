@@ -577,6 +577,7 @@ Docker
 * [Docker for Mac Edge 채널에 Mutagen 기반 캐싱 기능 추가](https://www.44bits.io/ko/post/news--docker-desktop-for-mac-edge-channel-with-mutagen-based-caching)
 * [Experimenting with Rootless Docker | by Tõnis Tiigi | Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 * [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
+* [컨테이너 표준 규격 OCI, 컨테이너 런타임 표준 CRI 이해하기](https://blog.naver.com/pjt3591oo/222992244712)
 * [What Is a Standard Container (2021 edition) - Ivan Velichko](https://iximiuz.com/en/posts/oci-containers/) OCI
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
@@ -1753,6 +1754,7 @@ Docker
 * [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
+  * [Kubernetes 운영에 사용하던 Lens 대체제로 찾은 k9s :: Outsider's Dev Story](https://blog.outsider.ne.kr/1649)
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
   * [Karpenter](https://karpenter.sh/)
