@@ -1582,6 +1582,8 @@ Programming Books
   * 탐라 문005.1-이94ㄷ
 * (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
+* (NOT YET) [컨테이너 보안](https://hanbit.co.kr/store/books/look.php?p_code=B8383749156)
+  * [컨테이너 보안 - 컨테이너화된 응용 프로그램의 보안을 위한 개념, 이론, 대응법과 모범 관행까지 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1650)
 
 ## Kubernetes
 
