@@ -324,6 +324,7 @@ Statistics
 * [스탠코리아 StanKorea 베이즈 통계학 소개 Introduction to Bayesian Statistics | 베이즈 정리 & 베이즈 추론 | 베이지안이 되어야 할 이유 - YouTube](https://www.youtube.com/watch?v=ELSxxe6gMaQ)
 * [How Bayesian statistics works in updating probabilities | by Giovanni Organtini | Jul, 2022 | Towards Data Science](https://towardsdatascience.com/how-bayesian-statistics-works-in-updating-probabilities-625b1b8599ec)
 * [베이지언 러닝(Bayesian Learning) - YouTube](https://www.youtube.com/playlist?list=PL2WU1RpBGzxNVNiN_8QskRBRCafJYP6_K)
+* [Thomas Wiecki - Solving Real-World Business Problems with Bayesian Modeling | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=twpZhNqVExc)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
