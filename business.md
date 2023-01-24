@@ -217,6 +217,7 @@ Business
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [How To Be Successful - Sam Altman](https://blog.samaltman.com/how-to-be-successful)
   * [Yc 샘 알트만이 말하는 성공 방정식](https://sonujung.com/how-to-be-successful)
+  * [성공하는 13가지 방법 (How To Be S.. : 네이버블로그](https://blog.naver.com/bizucafe/222991550841)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [역사와 현실 경복궁 경회루와 구종직 설화 - 경향신문](https://www.khan.co.kr/opinion/column/article/202208250300025)
