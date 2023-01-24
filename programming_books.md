@@ -462,6 +462,8 @@ Programming Books
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
 * (NOT YET) [매니지먼트 3.0 | 에이콘출판사](http://acornpub.co.kr/book/management-3.0)
   * 한라 325.2-아894ㅁ
+  * [Management 3.0 Leadership Training for Managers](https://management30.com/)
+  * [How to Change the World: Change Management 3.0 Book by Jurgen Appelo](https://management30.com/books/how-to-change-the-world/)
 
 # Algorithm
 
