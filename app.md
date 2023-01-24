@@ -902,6 +902,7 @@ App
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
     * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
+    * [디버깅? 디버그? 디버거? 모르면 절대 손해인 개발 필수 도구 - YouTube](https://www.youtube.com/watch?v=lrgT4J-LaBA)
     * [vscode-debug-visualizer/extension at master · hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
       * [tool VSCode 디버그 시각화 확장 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222093736134)
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
