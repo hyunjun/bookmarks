@@ -1198,6 +1198,8 @@ Book
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
   * 한라 189.2-문65ㄱ 탐라 189.2-문66ㄱ 우당 문189.2-문66ㄱ
+* (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
+  * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
