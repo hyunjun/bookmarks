@@ -652,6 +652,7 @@ App
 * [setup-new-computer-script: This script will help with the quick setup and installation of tools and applications for new developers at Vendasta](https://github.com/vendasta/setup-new-computer-script)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
+* [Squid Shell 클라우드기반 무료 SSH Client 사용기(오징어쉘) 얼마전 아는 지인분을 통해서 ssh client를 소개시켜달라고 했는데, Squid Shell 이라는걸 소개시켜줬다. 일단 무료에다가 기본적으로 클라우드 기반을 지원하기 때문에 나쁘지않다고 생각.. 홈페이지: https://www.squidshell.com 일단 윈도우즈, 맥… - JIHUN KIM - Medium](https://elastic7327.medium.com/squid-shell-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EA%B8%B0%EB%B0%98-%EB%AC%B4%EB%A3%8C-ssh-client-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%98%A4%EC%A7%95%EC%96%B4%EC%89%98-561669563136)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * Zapier
