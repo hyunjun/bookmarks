@@ -5279,6 +5279,7 @@ Javascript
 * [우리 팀의 우아한 타입스크립트 컨벤션 정하기 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9804/)
 * [11 Tips That Make You a Better Typescript Programmer - DEV Community 👩💻👨💻](https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1)
   * [(번역)더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁](https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer)
+* [변성 - 공변성, 반공변성, 이변성, 무변성](https://blog.naver.com/pjt3591oo/222992549442) variance
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
