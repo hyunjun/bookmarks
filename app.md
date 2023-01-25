@@ -430,6 +430,7 @@ App
   * [수동으로 파일 첨부한 경우 후처리해 줄 것들 | 웹으로 말하기](https://mytory.net/2022/08/14/wordpress-post-attachment-process.html)
   * [나만의 개인블로그로 WordPress 운영하기 – tebica story](https://earlybird.kr/2659)
   * [지킬(Jekyll)에서 다시 워드프레스로 이동한 이유 | 웹으로 말하기](https://mytory.net/archives/13519)
+  * [워드프레스, 답답한 빌더와 플러그인 대신 시원하게 커스터마징하기 | 웹으로 말하기](https://mytory.net/archives/13549)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
