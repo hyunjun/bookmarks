@@ -2243,6 +2243,7 @@ Business
 * [TaeWoo Kim의 브런치](https://brunch.co.kr/@taewookim)
 * [서비스를 론칭하는 9가지 방법](https://brunch.co.kr/@taewookim/64)
 * [Beating the Averages](http://www.paulgraham.com/avg.html)
+* [스타트업씬에서 업종별 1위 기업은 어디어디일까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/1number20221219)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
