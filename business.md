@@ -978,6 +978,7 @@ Business
 * [기술창업 36계: 대표이사의 3가지 미션 | ㅍㅍㅅㅅ](https://ppss.kr/archives/246376)
 * [2022년 평가 Quick-Win 전략 세미나 정리](https://www.linkedin.com/posts/sunghyunchung_flex-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4%EC%97%90%EC%84%9C-%EA%B0%9C%EC%B5%9C%ED%95%9C-2022%EB%85%84-%ED%8F%89%EA%B0%80-quick-win-%EC%A0%84%EB%9E%B5-%EC%84%B8%EB%AF%B8%EB%82%98%EC%97%90-activity-6988503124671963137-TJL1/)
 * ["CEO 리더십, 디지털 전환 승패 가른다"..딜로이트 400명 설문조사](https://v.daum.net/v/20220925175401242)
+* [경영 일선에서 물러나는 리드 헤이스팅스를 보며](https://brunch.co.kr/@somewonyoon/132)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1552,6 +1553,7 @@ Business
 * [Hello Guru 많은 리더들이 하는 착각, 통제하고 관리하면 성과난다? : 네이버 뉴스](https://news.naver.com/main/read.naver?oid=009&aid=0003163679)
 * ["좋은 팀장과 좋은 선배는 달라".. 팀원을 성장시키는 팀장 비법](https://blog.naver.com/businessinsight/222673092879)
 * [리더, 조직문화, 근무환경에 대하여 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/408)
+* ['기업문화'라는 표현에 대하여 : 네이버 블로그](https://blog.naver.com/juliuschun/222992550450)
 * [원격근무와 생산성··· 먼저 ‘팀장’이 변해야 한다 - CIO Korea](https://www.ciokorea.com/news/232259)
 * [재택근무 종료 주도한 임원들, 정작 직원보다 사무실 덜 나온다? 찐비트 - 아시아경제](https://www.asiae.co.kr/article/2022042008034567205)
 * [The High Performance Edge – What Makes Some Organisations Stand Out - YouTube](https://www.youtube.com/watch?v=A7zMS7CdrBk)
@@ -1778,6 +1780,8 @@ Business
 * [피플 애널리틱스의 숨은 영웅 : 데이터 가공과 표준화](https://www.hrinsight.co.kr/view/view.asp?in_cate=112&gopage=1&bi_pidx=33170)
 * [공정하고 설득력있는 의사결정을 도와주는 피플 애널리틱스](https://brunch.co.kr/@clap/9)
 * [HR Breakdown - The Employee Communication Platform](https://www.workvivo.com/hr-breakdown/)
+* [올 해는 어떤 HR 분석을?! (1)](https://brunch.co.kr/@mind-ex/11)
+* [올 해는 어떤 HR 분석을?! (2)](https://brunch.co.kr/@mind-ex/13)
 
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
