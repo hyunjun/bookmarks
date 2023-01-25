@@ -2648,6 +2648,7 @@ Scala
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
   * [Partial Functions in Scala – A Comprehensive Guide](https://data-flair.training/blogs/partial-functions-scala-guide/)
+* [Learn Scala - Scala Tutorials - DataFlair](https://data-flair.training/blogs/scala-tutorials-home/)
 * [Parallel programming](https://www.coursera.org/learn/parprog1)
   * [Personal repo for "Parallel Programming" course on coursera](https://github.com/hugcruz/parprog1)
 * [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
