@@ -213,6 +213,7 @@
 * [Semaphore & Mutex. Today we will discuss what is Semaphore… | by Erselan Khan | Nov, 2022 | Towards Dev](https://towardsdev.com/semaphore-mutex-erselan-khan-2e7df18c4cd5)
 * [코틀린 꼬리 재귀 함수](https://www.roach-dev.com/kotlin_tailrec/)
 * [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
+* [Kotlin PBKDF2 Secure Password Hashing | Codersee](https://codersee.com/kotlin-pbkdf2-secure-password-hashing/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -377,6 +378,7 @@
 * [Mastering Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
 * [Kotlin Coroutine의 Structured Concurrency 구현 상세](https://suhwan.dev/2022/01/21/Kotlin-coroutine-structured-concurrency/)
 * [Running Kotlin coroutines on Project Loom's virtual threads](https://kt.academy/article/dispatcher-loom)
+* [Kotlin Coroutines - A Comprehensive Introduction - Rock the JVM Blog](https://blog.rockthejvm.com/kotlin-coroutines-101/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
