@@ -5306,6 +5306,7 @@ Programming
 * [Sona Hambaryan - A/B Testing in Production | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=U2DtBTxRkCM)
 * [프로덕트를 빠르게 개선하기 위한 베이지안 A/B 테스트](https://www.slideshare.net/lumiamitie/ab-249770435)
 * [대규모 A/B 테스트의 인시던트를 최소화하다. 코드 리뷰 자동화를 통한 A 로직의 변경 감지 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Medium](https://medium.com/coupang-engineering/minimizing-technical-incidents-during-a-b-testing-at-scale-a9c35c6b2ca3)
+* [Accelerating our A/B experiments with machine learning - Dropbox](https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
