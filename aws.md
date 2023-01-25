@@ -324,7 +324,6 @@ AWS
 * [AWS Wavelength - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1118)
 * [AWS Wavelength - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1119)
 * [AWS Wavelength - Part 3](https://zigispace.net/1120)
-* [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 * [Deploying a Flask application on AWS with Gitlab CI/CD | Part 1](https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-1-87392be2129e)
 * [Deploying a Flask application on AWS with Gitlab CI/CD | Part 2 | by Thomas Himblot | Medium](https://medium.com/@thimblot/deploying-a-flask-application-on-aws-with-gitlab-ci-cd-part-2-a175dc132950)
 * [Build a CICD pipeline using Gitlab, Terraform and Aws. | by jaffar shaik | Nov, 2022 | Medium](https://jaffarshaik.medium.com/build-a-cicd-pipeline-using-gitlab-terraform-and-aws-24e782b551ba)
@@ -593,6 +592,19 @@ AWS
   * [musician-app: NodeJS / React sample app for AWS CI/CD pipeline tutorial](https://github.com/jspruance/musician-app)
 * [terraform-aws-codepipline-github-dockerhub: Terraform module which builds multiple architecture docker images using AWS CodeBuild and AWS CodePipeline](https://github.com/cloudacode/terraform-aws-codepipline-github-dockerhub) AWS CodePipeline 같은 경우 매번 설정하기 번거로워서 Terraform Module로 개발해 가져다 쓸 수 있도록 해당 모듈을 공식 Terraform registry에 Public으로 등록
   * [How to Automate Building Multi-Architecture Container Images | by KC | Nov, 2022 | Medium](https://blog.cloudacode.com/how-to-automate-building-multi-architecture-container-images-4c57c759cb2c) github action, codepipeline codebuild
+
+# CloudFront
+* [Amazon CloudFront Origin Shield-Review - 리눅서의 기술술 블로그](https://linuxer.name/2020/10/amazon-cloudfront-origin-shield-review)
+* [Amazon CloudFront: Range GET Behavior | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-range-get-behavior-e419e22f128f)
+* [Amazon CloudFront: 502 Bad Gateway시 Origin SSL 인증서 설정에 대하여 | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-502-bad-gateway%EC%8B%9C-origin-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-a5c422ceffed)
+* [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
+* [CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞 | by jpapa | 원티드 제품 팀블로그 | Oct, 2021 | Medium](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
+* [Amazon CloudFront: Brotli, Gzip 동시 사용시 cache에 대한 동작 탐구 | by Hedy Kim | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-brotli-gzip-%EB%8F%99%EC%8B%9C-%EC%82%AC%EC%9A%A9%EC%8B%9C-cache-%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%99%EC%9E%91-2cecc49874ac)
+* [New – HTTP/3 Support for Amazon CloudFront | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
+* [AWS CloudFront 에서 HTTP | 커리어리](https://careerly.co.kr/comments/65079) http3
+* [How to Setup AWS Cloudfront distribution to serve static Cotent - YouTube](https://www.youtube.com/watch?v=fMhj20GbmMM)
+* [Amazon CloudFront 지속적 배포를 사용하여 CDN 변경 사항을 안전하게 검증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/use-cloudfront-continuous-deployment-to-safely-validate-cdn-changes/)
+* [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
@@ -1244,16 +1256,6 @@ AWS
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 * [AWS 서비스를 통하여 다양한 컨텐츠를 빠르게 전송하기 #AWS Summit Online Korea](https://dev.classmethod.jp/articles/summit_korea_rapidly_transfer_content/) Edge, CloudFront, Global Accelerator
-* [Amazon CloudFront Origin Shield-Review - 리눅서의 기술술 블로그](https://linuxer.name/2020/10/amazon-cloudfront-origin-shield-review)
-* [Amazon CloudFront: Range GET Behavior | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-range-get-behavior-e419e22f128f)
-* [Amazon CloudFront: 502 Bad Gateway시 Origin SSL 인증서 설정에 대하여 | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-502-bad-gateway%EC%8B%9C-origin-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-a5c422ceffed)
-* [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
-* [CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞 | by jpapa | 원티드 제품 팀블로그 | Oct, 2021 | Medium](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
-* [Amazon CloudFront: Brotli, Gzip 동시 사용시 cache에 대한 동작 탐구 | by Hedy Kim | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-brotli-gzip-%EB%8F%99%EC%8B%9C-%EC%82%AC%EC%9A%A9%EC%8B%9C-cache-%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%99%EC%9E%91-2cecc49874ac)
-* [New – HTTP/3 Support for Amazon CloudFront | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
-* [AWS CloudFront 에서 HTTP | 커리어리](https://careerly.co.kr/comments/65079) http3
-* [How to Setup AWS Cloudfront distribution to serve static Cotent - YouTube](https://www.youtube.com/watch?v=fMhj20GbmMM)
-* [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
 * [AWS Global Accelerator를 사용해서 애플리케이션 성능 개선하기 - YouTube](https://www.youtube.com/watch?v=1Evp9-GPCoc)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
@@ -1615,6 +1617,7 @@ AWS
 * [Amazon SageMaker 섀도우 테스트 기능 – ML 모델 변형 간 추론 성능 비교 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-amazon-sagemaker-perform-shadow-tests-to-compare-inference-performance-between-ml-model-variants/)
 * [Amazon SageMaker에서 code-server 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/host-code-server-on-amazon-sagemaker/)
 * [Amazon SageMaker Data Wrangler의 신규 임베디드 시각화 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/)
+* [Amazon SageMaker 훈련작업을 위한 최적의 데이터소스 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
