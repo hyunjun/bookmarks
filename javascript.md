@@ -1690,6 +1690,8 @@ Javascript
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
 * backbone.js
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
+  * 백엔드 코드를 (거의)완전히 LLM으로 교체한 TODO 앱 샘플 프로젝트. API 호출시 호출 내용을 그냥 GPT-3 프롬프트에 넣었더니 작동하더라는 사례
 * [bayes.js - MCMC and Bayes in the browser](https://github.com/rasmusab/bayes.js)
 * [billboard.js - 14일만에 GITHUB 스타 1K 받은 차트 오픈소스 개발기](http://netil.github.io/slides/billboard.js)
 * [Bit - Component driven development](https://bit.dev/)
