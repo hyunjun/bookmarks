@@ -50,6 +50,7 @@
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
 * [Introduction to Apache Spark with Scala](https://medium.com/@Babatee760/introduction-to-apache-spark-with-scala-ed31d8300fe4)
 * [Python and Bigdata - An Introduction to Spark (PySpark)](https://www.slideshare.net/hiteshnd/python-and-bigdata-an-introduction-to-spark-pyspark)
+* [Introduction to Apache Spark - Knoldus Blogs](https://blog.knoldus.com/introduction-to-apache-spark/)
 * [Spark Programming](http://www.slideshare.net/taewook/spark-programming)
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * Cloudera
