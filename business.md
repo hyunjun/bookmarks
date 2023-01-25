@@ -1357,6 +1357,7 @@ Business
 * [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
 * [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
 * [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
+* [Engineering Manager's Responsibilities + Free templates | Fellow.app](https://fellow.app/blog/management/engineering-managers-key-responsibilities-free-templates/)
 * [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
