@@ -1072,6 +1072,7 @@ Programming Books
   * 탐라 문005.7-로49ㄷ 우당 문005.76-로49ㄷ
 * (NOT YET) [데이터 과학자의 일](https://brunch.co.kr/@sobong3/93)
   * 한라 005.7-박76ㄷ 탐라 문005.7-박77ㄷ 우당 문005.7-박77ㄷ
+* (NOT YET) [데이터를 엮는 사람들, 데이터 과학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307910670)
 * (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
 * (NOT YET) Apache airflow 기반의 데이터 파이프라인 [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
   * 한라 005.75-하294ㅇ
@@ -2765,6 +2766,7 @@ Programming Books
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086&start=slayer)
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
+* (NOT YET) [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
 
 # Math
 
