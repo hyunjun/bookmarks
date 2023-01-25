@@ -849,6 +849,7 @@ Scala
   * [Implicit vs Scala 3's Given - Alexandru Nedelcu](https://alexn.org/blog/2022/05/11/implicit-vs-scala-3-given/)
   * [Implicit parameters, when to use them (or not)!](https://www.slideshare.net/JulienTruffaut/implicit-parameters-when-to-use-them-or-not)
   * [Implicit parameters when to use them? Part 1 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-1/)
+  * [Implicit parameters when to use them? Part 2 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-2/)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
