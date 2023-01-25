@@ -176,6 +176,7 @@ Go
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 * [Golang 패키지 이름(Package Names)](https://byounghoonkim.github.io/posts/golang-package-names/)
+* [Package Organization Approaches in Go](https://brainrays.com/package-organization-approaches-in-go)
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 * [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
