@@ -3479,6 +3479,7 @@ Programming Books
 * [Release It: 성공적인 출시를 위한 소프트웨어 설계와 배치 | 위키북스](https://wikibook.co.kr/release-it/)
   * ★★★★☆ 2023.01.06, 09
   * [Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/)
+  * [Release It! • Michael Nygard & Trisha Gee • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BIuBnLTMkfQ)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
