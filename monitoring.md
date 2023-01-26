@@ -74,6 +74,7 @@ Monitoring
 * [TCP packets traffic visualization for kubernetes by k8spacket | Medium](https://medium.com/@bareckidarek/tcp-packets-traffic-visualization-for-kubernetes-by-k8spacket-and-grafana-bb87cb106f30)
   * `gopacket`을 사용하는 `k8spacket`으로 Kubernetes 클러스터 안에서 TCP 패킷을 모니터링해서 Grafana로 시각화하는 방법을 설명
   * `k8spacket`을 `DemonSet`으로 띄워서 10초마다 네트워크를 모니터링하고 각 Pod, Service 간에 TCP 연결과 트래픽이 오가는 것을 확인 가능
+* [How to Install Prometheus and Grafana on Ubuntu 22.04 LTS using Node Exporter | Prometheus Tutorials - YouTube](https://www.youtube.com/watch?v=0HQo7ytydBI)
 * [Grafana as code: A complete guide to tools, tips, and tricks](https://grafana.com/blog/2022/12/06/a-complete-guide-to-managing-grafana-as-code-tools-tips-and-tricks/)
   * Grafana 대시보드를 코드로 관리하는 다양한 도구 소개
   * Grafana Terraform 프로바이더나 Ansible 컬렉션은 Terraform이나 Ansible에는 익숙하지만 Grafana에는 아직 익숙지 않은 사람에게 권장
