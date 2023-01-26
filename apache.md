@@ -99,6 +99,7 @@ Apache
 # Atlas
 * [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
 * [Apache Atlas — Using the v2 Rest API](https://medium.com/hashmapinc/apache-atlas-using-the-v2-rest-api-6f9be1c256ae) Atlas의 Rest API를 사용하여 데이터를 기록하는 방법 소개
+* [Apache Atlas on Amazon EMR을 사용하여 Data Lineage 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/configure-data-lineage-with-apache-atlas-on-amazon-emr/)
 
 # Beam
 * [Apache Beam](https://beam.apache.org/)
