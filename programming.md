@@ -1349,6 +1349,7 @@ Programming
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
+* [ports and adapter 패턴 또는 헥사고날 아키텍처](https://coco-log.tistory.com/205)
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [리팩토링을 내장할 수 있다면?](https://brunch.co.kr/@graypool/534) 좋은 코드 = 수정하기 쉬운 코드
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
@@ -2261,6 +2262,7 @@ Programming
   * [DataDog의 Serverless 상태 보고서 | GeekNews](https://news.hada.io/topic?id=7230)
 * [클라우드와 서버리스. 이 블로그를 시작한 계기가 서버리스인데 글들을 살펴 보니 서버리스 관련… | by 이상선 | Nov, 2022 | Medium](https://medium.com/@sunyi233/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-5fc05c1a637e)
 * [Serverless: 6 Years Later • Erwin van der Koogh • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=-2UE3C329Ek)
+* [Thinking Serverless: From User Request to Serverless Solution • James Beswick • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=dUXDuxqTxmo)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
@@ -5275,6 +5277,7 @@ Programming
 * [Testing Patience • Michael Feathers • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=vH7vVAbSE1M)
 * [더 나은 테스트 코드 : 일관성, 속도, 가시성](https://velog.io/@joosing/better-test-1)
 * [Han Wang- Testing Big Data Applications (Spark, Dask, and Ray)| PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=yQHksEh1GCs)
+* [자바지기 - 의식적인 연습으로 TDD, 리팩토링 연습하기](https://velog.io/@solar/%EC%9E%90%EB%B0%94%EC%A7%80%EA%B8%B0-%EC%9D%98%EC%8B%9D%EC%A0%81%EC%9D%B8-%EC%97%B0%EC%8A%B5%EC%9C%BC%EB%A1%9C-TDD-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
