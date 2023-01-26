@@ -92,6 +92,7 @@ Network
   * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
 * [칼럼ㅣ네트워크 가용성, 적은 내부에 있다 - CIO Korea](https://www.ciokorea.com/news/251992)
 * [**HTTP/1 to HTTP/2 to HTTP/3 - YouTube**](https://www.youtube.com/watch?v=a-sBfyiXysI)
+* [주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1875/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
