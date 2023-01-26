@@ -1927,6 +1927,7 @@ Business
   * 글로벌 스타트업 훌륭한 IR 장표로 Airbnb, Uber, Buffer, Facebook, Front Mattermark, Dwolla 선택. 당시의 IR 장표에 대한 링크도 존재
 * [도어대시(DoorDash) 10년 전 데모데이 발표 영상 (2013년, YC demoday) - YouTube](https://www.youtube.com/watch?v=qugQsO_6ivo) pitch deck
 * [(주)스니커즈 오픈피칭 | 앤틀러코리아 1기 데모데이 - YouTube](https://www.youtube.com/watch?v=FltqA2-kefA)
+* [100억원 펀딩 성공한 시리즈A 발표자료, IR프리젠테이션의 정석, 프론트닷컴 피치덱 - YouTube](https://www.youtube.com/watch?v=gY9nzWpofUs)
 * Startup Series
   * [주종익의“How To” Startup]
     * [5 Factors](http://www.venturesquare.net/578774)
