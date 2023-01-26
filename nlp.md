@@ -686,6 +686,7 @@ NLP
   * [ChatGPT의 성과와 한계 | Wharton School MBA 통과, 의사 면허 시험 통과, 변호사 시험 통과, 코딩, 알고리즘, 수학 능력, zero-shot, 발전 가능성](https://hipgyung.tistory.com/entry/ChatGPT%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%ED%95%9C%EA%B3%84-Wharton-School-MBA-%ED%86%B5%EA%B3%BC-%EC%9D%98%EC%82%AC-%EB%A9%B4%ED%97%88-%EC%8B%9C%ED%97%98-%ED%86%B5%EA%B3%BC-%EB%B3%80%ED%98%B8%EC%82%AC-%EC%8B%9C%ED%97%98-%ED%86%B5%EA%B3%BC-%EC%BD%94%EB%94%A9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%ED%95%99-%EB%8A%A5%EB%A0%A5-zero-shot-%EB%B0%9C%EC%A0%84-%EA%B0%80%EB%8A%A5%EC%84%B1)
   * [ChatGPT에 화들짝 놀라신 분 들어오세요 - 원리 편](https://jiho-ml.com/chatgpt-intro/)
   * [ChatGPT에게 한국 역사를 물어보다 - 한계 편](https://jiho-ml.com/chatgpt-factuality/)
+  * [ChatGPT creates a new ChatGPT - YouTube](https://www.youtube.com/watch?v=QumfkMQr47M)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
