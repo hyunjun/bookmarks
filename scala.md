@@ -848,6 +848,7 @@ Scala
   * [Scala & the Three Implicits | Medium](https://murraytodd.medium.com/scala-the-three-implicits-4fa68e9eb397)
   * [Implicit vs Scala 3's Given - Alexandru Nedelcu](https://alexn.org/blog/2022/05/11/implicit-vs-scala-3-given/)
   * [Implicit parameters, when to use them (or not)!](https://www.slideshare.net/JulienTruffaut/implicit-parameters-when-to-use-them-or-not)
+  * [Implicit Parameters, When to Use Them (Or Not)! by Julien Truffaut - YouTube](https://www.youtube.com/watch?app=desktop&v=fwu3lLpgZsg)
   * [Implicit parameters when to use them? Part 1 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-1/)
   * [Implicit parameters when to use them? Part 2 | ScalaJobs.com](https://scalajobs.com/blog/implicit-parameters-when-to-use-them-part-2/)
 * I/O
