@@ -762,6 +762,7 @@ Web
       * 이를 Emotion CSS로 해결해 보려했지만 여전히 문제
     * 그래서 디자인 시스템의 부가적인 코드가 실제 기능 코드를 침범하지 않고 컴포넌트의 가동성을 해치지 않도록 하는 방법을 찾다 보니 Tailwind CSS를 도입
     * 이를 직접 사용하는 대신 Twin.Marco를 사용해서 Emotion CSS와 tailwind를 같이 쓸 수 있게 되었고 이를 적용하면서 적용했던 팁 정리
+  * [monorepo에 tailwindcss 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-tailwind)
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
