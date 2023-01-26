@@ -809,6 +809,7 @@ Apache
   * 많은 매니지드 플랫폼(컨플루언트, 아이븐, 그리고 아마존 MSK)과 컴포넌트(커넥트, KSQL, 그리고 스트림즈) 지원
   * 콘솔 툴과는 달리 클러스터 안의 데이터 역시 다룰 수 있음
   * 하나의 클러스터에 대해서만 사용 가능한 개발용 라이선스가 무료 제공
+  * [When Stateless APIs Are Not Enough: Deep Dive Into A Reactive Backend Design - YouTube](https://www.youtube.com/watch?v=NMr9brEBO08)
 * [cruise-control: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
   * 수천 대의 브로커로 이루어진 수백 대의 클러스터를 어떻게 관리해야 할까라는 질문에 대해 링크드인이 내놓은 답
   * 원래 클러스터 안의 데이터를 자동으로 리밸런싱하는 솔루션으로 시작했지만, 이상 탐지나 브로커 추가 및 삭제와 같은 관리 작업까지도 포괄하는 시스템으로 발전
