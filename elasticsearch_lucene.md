@@ -354,6 +354,7 @@ ElasticSearch - Lucene
 * [CCS 과 CCR 을 이용한 Elastic Cloud 마이그레이션 전략 - YouTube](https://www.youtube.com/watch?v=62T4wOXmhbg)
 * [삼성 AI 포럼, KAIST AI 대학원 서민준 교수, Generative Search Engine 소개](https://www.linkedin.com/posts/huffonism_%EC%A7%80%EB%82%9C-8%EC%9D%BC-%EC%82%BC%EC%84%B1-ai-%ED%8F%AC%EB%9F%BC%EC%97%90%EC%84%9C-kaist-ai-%EB%8C%80%ED%95%99%EC%9B%90-%EC%84%9C%EB%AF%BC%EC%A4%80-%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%B4-generative-activity-6996473187198787584-g37Z/)
 * [엘라스틱서치를 활용한 수평 확장 가능한 광고 서버 만들기](https://tech.buzzvil.com/blog/tech-blog-building-scalable-ad-server-with-elasticsearch/)
+* [검색 원리의 이해와 검색 문제 대응하기. 안녕하세요 저는 29CM 검색팀의 검색 운영담당자(PM) 원효석입니다… | by Puch | 29CM TEAM | Jan, 2023 | Medium](https://medium.com/29cm/%EA%B2%80%EC%83%89-%EC%9B%90%EB%A6%AC%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EA%B2%80%EC%83%89-%EB%AC%B8%EC%A0%9C-%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0-df64e326203c)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
