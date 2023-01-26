@@ -1215,6 +1215,7 @@ Programming Books
   * [텐서플로를 이용해 머신러닝에 대해 조망해 보는 좋은 시작점](https://blog.naver.com/drvoss/222890051291)
 * (NOT YET) [모두를 위한 메타러닝](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=303086795)
   * [meta-learning-for-everyone: "모두를 위한 메타러닝" 책에 대한 코드 저장소](https://github.com/dongminlee94/meta-learning-for-everyone)
+* (NOT YET) [딥러닝을 위한 푸리에 영상처리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
