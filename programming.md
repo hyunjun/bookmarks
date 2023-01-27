@@ -1218,6 +1218,7 @@ Programming
 * [아키텍트로 가득 찬 팀을 만드는 '아키텍처 설계 워크숍’  - Smart Studio](https://smartstudio.tech/architecture-workshop/)
 * [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019 - YouTube](https://www.youtube.com/watch?v=mCM6QVHD08c)
 * [Don’t lose touch as a ‘Software Architect’ going into 2022 | by Ryan Susana | Dec, 2021 | Medium](https://medium.com/@ryansusana/dont-lose-touch-as-a-software-architect-going-into-2022-d481801cbb57)
+* [글로벌 칼럼 | 클라우드 아키텍트는 AI로 대체될까? - ITWorld Korea](https://www.itworld.co.kr/news/274585)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
@@ -4967,6 +4968,7 @@ Programming
     * 이러한 문제를 HashiCorp Vault에서는 해결해 주고 있기 때문에 SaltStack이나 Kubernetes 오퍼레이터로 Vault와 연동하는 방법을 설명
   * [Application Security with Hashicorp vault( part -1) #devops #kubernetes #hashicorp - YouTube](https://www.youtube.com/watch?v=KN2sGqv_xJU)
   * [HashiCorp Vault on Windows - YouTube](https://www.youtube.com/watch?v=cA00t-fnVXg)
+  * [Hashicorp vault: secret management tool introduction | by Satish Pandey | Jan, 2023 | Medium](https://medium.com/@satishpandey2013/hashicorp-vault-secret-management-tool-introduction-7d96f045ea2a)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
