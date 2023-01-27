@@ -926,6 +926,9 @@ Book
   * ★★★☆☆ 2022.10.28~29 1~3권 장점; 세계 역사를 교차해서 보여줌. 동시대에 어떤 일들이 있었는지 보기 좋음. 단점; 전형적인 시각(e.g. 4대 문명, 서구 중심의 세계관)
 * [거꾸로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281820039)
   * ★★★☆☆ 2023.01.25~27
+  * [거꾸로 읽는 세계사](https://github.com/hyunjun/bookmarks/blob/master/books/reading_history_backwards.md)
+  * [거꾸로 읽는 세계사. 1 드레퓌스 사건 — 20세기의 개막 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%84%B8%EA%B3%84%EC%82%AC-96c43ac26851)
+  * [거꾸로 읽는 세계사](https://jh4hj.tistory.com/entry/%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%84%B8%EA%B3%84%EC%82%AC)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
