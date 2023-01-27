@@ -1513,6 +1513,7 @@ Business
   * 조직 차원의 책임감
     * 생산적인 회의를 한다
     * ‘나’라고 생각하고 말하기 보다 ‘우리’라고 생각하고 말한다
+  * [목표를 달성하는 경영자의 8가지 실천](https://www.facebook.com/sambomcoach/posts/pfbid037DvGCyq2dGZAcH8yo5gW61kUv7v1cNe7X9UEvnqWqksFhCMtDwETXmrUGNv34u2pl)
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전..... : 네이버블로그](https://blog.naver.com/businessinsight/221397693111) sensemaking
 * [좋은 사람처럼 보이려고 애쓰지 마라](http://moneyman.kr/archives/11456)
 * [언리더십: 직원을 경영의 대상으로 보지마라 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/5088/ac/magazine)
