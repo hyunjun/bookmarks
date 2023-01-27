@@ -370,6 +370,7 @@ Scala
 * [WHERE to find a REMOTE Scala Job? - YouTube](https://www.youtube.com/watch?v=OaxsAXXjcYQ)
 * [Google Summer of Code 2022: How It Was | The Scala Programming Language](https://scala-lang.org/blog/2022/11/15/gsoc-report.html)
 * [Universally Unique Sortable Identifier - ULID](https://yadukrishnan.live/ulid-sortable-unique-identifier)
+* [Scala Resurrection – John A De Goes](https://degoes.net/articles/scala-resurrection)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1459,6 +1460,7 @@ Scala
     * [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
     * [Functional event sourcing with cats-effect | by Jonas Chapuis | Sep, 2022 | Medium](https://jonas-chapuis.medium.com/functional-event-sourcing-with-akka-and-cats-7c075939fbdc)
     * [Integrating Java APIs with Cats Effect](https://softwaremill.com/integrating-java-apis-with-cats-effect/)
+    * [Case study: The digital transformation of Santa’s logistical nightmare - Part 2 - Functional Feline Society](https://functional-feline-society.github.io/2022/12/22/io-part-2/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -1519,10 +1521,13 @@ Scala
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
   * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
   * [Using TestControl to Test FS2 Streams | by Farooq Qaiser | Mar, 2022 | Medium](https://medium.com/@fqaiser94/using-testcontrol-to-test-fs2-streams-92cec1fac217)
+  * [PubSub with Scala](https://softwaremill.com/pubsub-with-scala/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
     * [FS2-Kafka in real world -Part 2. This is a continuation of series on how… | by ayush mittal | Feb, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-2-831891ee6907)
+    * [fs2-kafka introduction: deserialization with careful error handling | Anton Kovalevsky](https://antonkw.github.io/scala/fs2-kafka-pt1/)
+    * [`F[F[S]]` Kafka! - Case study: The digital transformation of Santa’s logistical nightmare - Part 3 fs2-kafka - Functional Feline Society](https://functional-feline-society.github.io/2023/01/24/fs2-kafka/)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
@@ -2643,6 +2648,7 @@ Scala
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
 * [A Sweet Beginner's Guide to Scala by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=NV6bfdUEGIQ)
 * [Scala Center Advent of Code | Scala Center Advent of Code](https://scalacenter.github.io/scala-advent-of-code/2022/)
+* [6 Tips for Scala Adoption. I will share our experience on how to… | by Yurii Krat | BigEng | Jan, 2023 | Medium](https://medium.com/bigcommerce-engineering/6-tips-for-scala-adoption-714b7815c20d)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
@@ -2660,6 +2666,7 @@ Scala
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
   * [Scala School!](https://kevin-lee.github.io/scala_school/)
 * [scala-tutorials](https://github.com/Baeldung/scala-tutorials)
+* [Scala Works](https://scala.works/)
 * [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [Zymposium - Derivable Differs - YouTube](https://www.youtube.com/watch?v=4GWnMvbfgyE)
