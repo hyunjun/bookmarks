@@ -1787,7 +1787,7 @@ Business
 # Product
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [Linear vs. Honest vs. Strategic Roadmap](https://www.linkedin.com/posts/wirtzdan_linear-vs-honest-vs-strategic-roadmap-activity-6917095504090660865-s9Cx/)
-* [스타트업을 위한 첫 '프로덕트 로드맵' 설정하는 법 - wishket](https://blog.wishket.com/%EF%BF%BC%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B2%AB-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95/)
+* [스타트업을 위한 첫 '프로덕트 로드맵' 설정하는 법 - wishket](https://blog.wishket.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B2%AB-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B2%95/)
 * [블리자드는 어떻게 망했는가 - 기업에서 개발팀이 배제되는 과정 - YouTube](https://www.youtube.com/watch?v=082aRekJrP8)
 * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/productproblem20220105)
   * [프로덕트 개발에서 문제를 제대로 정의하지 않으면 벌어지는 일 (feat. 마약류 의료쇼핑 방지 정보망) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1jdvJpHqn9S9RxBTd7iFFzTVscJACs-oV/view?usp=sharing)
