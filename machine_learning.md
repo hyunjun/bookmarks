@@ -1372,6 +1372,7 @@ Machine Learning
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
+  * [Home - Made With ML](https://madewithml.com/) 애플 ML 개발자였던 Goku Mohandas가 만든 MLOps 코스. 처음부터 쉽고 간결하게 가르치는 것이 특징
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
   * [MLOps Basics Week 0: Project Setup – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-project-setup-part1) 프로젝트 설정
   * [MLOps Basics Week 1: Model Monitoring - Weights and Bias – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-wandb-integration) 모델 모니터링 - 웨이트와 편견
