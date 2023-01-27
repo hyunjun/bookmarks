@@ -987,6 +987,7 @@ Programming
 * [한 GCP 고객사, ‘사상 최대’ 디도스 공격 막아냈다 - CIO Korea](https://www.ciokorea.com/news/251098) DDoS
 * [12 Patterns for Evolvable Web APIs • Mike Amundsen • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=g6n3UGsQpSs)
 * [The State of APIs in the Container Ecosystem - YouTube](https://www.youtube.com/watch?v=k_hszI5yaZk)
+* [`API 언제 나오나요?` 로 부터 독립하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221127-api-layer/)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
