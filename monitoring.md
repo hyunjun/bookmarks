@@ -42,6 +42,7 @@ Monitoring
 * [Understand Your System Like Never Before With OpenTelemetry, Grafana, Promscale - YouTube](https://www.youtube.com/watch?v=0LuLRjIP-Oc)
 * [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More - YouTube](https://www.youtube.com/watch?v=jx5hdo50a2M)
 * [기고 “인공지능 알고리즘의 잠재력을 결정하는 것은 측정에서 시작됩니다” < 기획 < FOCUS < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=26454)
+* [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
