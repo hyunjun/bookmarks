@@ -689,6 +689,7 @@ NLP
   * [ChatGPT creates a new ChatGPT - YouTube](https://www.youtube.com/watch?v=QumfkMQr47M)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
+    * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
@@ -1161,6 +1162,10 @@ NLP
   * [optimum](https://github.com/huggingface/optimum)
     * [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](https://huggingface.co/blog/hardware-partners-program)
     * [Exporting 🤗 Transformers Models](https://huggingface.co/docs/transformers/master/en/serialization)
+    * [Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](https://huggingface.co/blog/optimum-onnxruntime-training)
+      * Optimum과 ONNX Runtime을 사용하는 방법 설명
+      * 실제 ONNX Runtime의 경우 양자화와 그래프 최적화를 사용하기 때문에 빠르게 학습
+      * 해당 블로그는 소개영상이니 HuggingFace 라이브러리를 사용하는 경우에 한번 사용하길 추천
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
