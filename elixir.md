@@ -92,11 +92,16 @@ Elixir
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
 * [The Little Elixir & OTP Guidebook / Benjamin Tan Wei Hao](http://ohyecloudy.com/pnotes/archives/book-the-little-elixir-otp-guidebook/)
 * [#book Designing Elixir Systems with OTP(2019) 독후감](http://ohyecloudy.com/pnotes/archives/book-designing-elixir-systems-with-otp-2019/)
+* [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition)
+  * [elixir-in-action: Code samples for Elixir in Action book](https://github.com/sasa1977/elixir-in-action)
 * [#book Testing Elixir(2021) 독후감](http://ohyecloudy.com/pnotes/archives/book-testing-elixir-2021/)
 
 # Conference
 * [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
+* [Simplifying Systems with Elixir • Sasa Juric • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=EDfm2fVS4Bo)
+  * [The Erlangelist](https://www.theerlangelist.com/)
+  * [erlangelist: Source code of The Erlangelist blog](https://github.com/sasa1977/erlangelist)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
