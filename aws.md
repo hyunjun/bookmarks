@@ -656,6 +656,7 @@ AWS
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [AWS re:Invent 2022 참관기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2022-aws-reinvent/)
   * [DBA의 AWS re:Invent 2022 참석 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/16/aws-reinvent.html)
   * [아마존 CTO "이벤트 드리븐 아키텍처로 가라" - ZDNet korea](https://zdnet.co.kr/view/?no=20221202183934)
   * [AWS re:Invent 2022 - Serverless Compute - YouTube](https://www.youtube.com/playlist?list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD)
