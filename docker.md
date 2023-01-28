@@ -2117,6 +2117,7 @@ Docker
     * [Podman, Registry 없이 컨테이너 이미지 전송 가능 | GeekNews](https://news.hada.io/topic?id=6175)
   * [당신의 컨테이너 이미지가 더 작아야 하는 이유를 알고 계시나요? - NGINX STORE](https://www.nginxplus.co.kr/best-practices/building-smaller-container-images/)
   * [컨테이너 분야의 '요즘 애들', 포드맨을 아시나요? - CIO Korea](https://www.ciokorea.com/news/241109)
+  * [도커를 대체할 podman 살펴보기](https://blog.naver.com/pjt3591oo/222997069333)
   * [podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
     * [Leverage Podman with a Desktop App | Podman Desktop](https://podman-desktop.io/)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
