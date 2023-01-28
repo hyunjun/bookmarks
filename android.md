@@ -294,6 +294,7 @@ Android
 * [Android Studio 플러그인으로 코드 자동 리팩토링하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/02/03/refactoring-with-intellij-plugin.html)
 * [내 장비의 안드로이드 스튜디오 빌드능력 벤치마킹하기](https://cliearl.github.io/posts/android/build-performance-benchmark/)
 * [Pluu Dev - Android Studio Flamingo ~ New settings plugin](https://pluu.github.io/blog/android/2023/01/24/android_dsl/)
+* [안드로이드 스튜디오 Electric Eel 로 업데이트 후 발생하는 JAVA_HOME 환경 변수 문제 해결하기](https://www.androidhuman.com/2023-01-27-fix-jre-path-android-studiio-ee)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
