@@ -1905,6 +1905,7 @@ Programming
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * [The BFF Pattern (Backend for Frontend): An Introduction | by Viduni Wickramarachchi | Bits and Pieces](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 * [API Gateway vs Backend For Frontend (BFF) — Everything you need to know | by Dineshchandgr | Dec, 2022 | Medium](https://dineshchandgr.medium.com/api-gateway-vs-backend-for-frontend-bff-everything-you-need-to-know-90154a1e693f)
+* [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bff_webflux_coroutine/)
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [Loosely Coupled Lotteries & Cloudy Casinos: Nederlandse Loterij Case St. • Joris Kuipers • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PUqalWaZaXY)
