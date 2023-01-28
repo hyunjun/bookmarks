@@ -506,6 +506,7 @@ Business
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
+* [Cultivate a growth mindset for a prosperous New Year - CEOWORLD magazine](https://ceoworld.biz/2020/12/15/cultivate-a-growth-mindset-for-a-prosperous-new-year/)
 * [성장 없는 시니어가 무서운 이유](https://brunch.co.kr/@a4s/3) 모두 명심해야 할 일
 * [일상스케치 누가 성장했을까? - YoungJin Shin](http://www.jiniya.net/ng/2022/04/who-has-grown-up/)
   * 1) 회사 업무와 관련된 도메인에 관심 2) 자기 동기부여 3) 주도적 업무 처리 4) 열린 마인드 5) 긍정적인 사고
@@ -725,6 +726,7 @@ Business
 * [(기업설문) 어떤 개발자를 구하시나요? – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/6884)
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
+* [SKMS를 통한 핵심적인 인재상](https://www.facebook.com/fupfin/posts/pfbid02Y6avXSn1pY8DhLKmapfB6K99ZhTteGa4bNPvV6Vz2Av2t1zNf2WiRCnrguDKsh4Fl)
 * [좋은 인재의 세가지 특징 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25A2%258B%25EC%259D%2580-%25EC%259D%25B8%25EC%259E%25AC%25EC%259D%2598-%25EC%2584%25B8%25EA%25B0%2580%25EC%25A7%2580-%25ED%258A%25B9%25EC%25A7%2595-yung-nok-chun-1e/) 열망 호기심 주도성. 다소 뻔하지만 중요한 이야기
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
 * [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
@@ -1231,6 +1233,7 @@ Business
 * [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
   * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
 * [Platform Engineering KPIs. In this post, we will share our… | by Lambros Charissis | Wise Engineering | Medium](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
+* [**"엔지니어링은 무엇인가?" (What) "어떤 엔지니어링을 해야하는가?" (How)**](https://www.facebook.com/1ambda/posts/pfbid02fb8g96WMeEkJe9ZZYeNSdNDF335J7gLwLux6cezJGupPr6QQrGFxGmJEYAoXtG5Ll) KPI 이야기는 아니지만, 엔지니어링 측면에서 측정을 강조하고, 그 관점에서 보면 큰 맥락에서는 같이 볼 수도 있음
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
@@ -1668,6 +1671,7 @@ Business
 * [Shifting from Passenger to Driver Mindset](https://www.infoq.com/podcasts/passenger-shifting-driver-mindset/)
 * [**The Set-Up-To-Fail Syndrome**](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
   * [한기용 - 좋은 사람을 뽑았다면 그 다음은?](https://www.linkedin.com/posts/activity-6978605574007459840-ATGu/)
+* [스타플레이어가 꼭 있어야 할까?](https://www.facebook.com/shinsoojungceo/posts/pfbid02miiozDZeFc7NnUCtZHmiEPbutZLKySaG8ekoVseDNNDecqLGnBobiN1SBe9pozerl)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
