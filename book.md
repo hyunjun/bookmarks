@@ -233,10 +233,6 @@ Book
 * [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * ★★☆☆☆ 2022.10.18~19 도저히 읽히지가 않아 중간에 멈춤
   * 우당 문331.5412-윈833ㅅ
-* [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
-  * ★★★☆☆ 2022.11.06
-  * 탐라 문573.2-정17ㄴ
-  * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
 * [리프트오프](https://jhrogue.blogspot.com/2022/11/blog-post.html)
   * ★★★☆☆ 2022.11.13
   * 한라 558.9-버14ㄹ 탐라 문558.9-버13ㄹ
@@ -270,6 +266,9 @@ Book
   * <img src="images/are_you_a_machine_219.jpg" alt="" width="300"/> <img src="images/are_you_a_machine_220.jpg" alt="" width="300"/>
   * 책에서 나온 위의 이야기를 ChatGPT에게 주면 어떻게 될 지 입력해봤는데 아직은 ChatGPT도 추론까지는 못 하는 듯. 물론 곧 할 수 있을 거 같다
     * <img src="images/are_you_a_machine_chatgpt.png" alt="" width="300"/>
+* 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
+  * ★★★☆☆ 2023.01.15, 16 ,28
+  * 탐라 개592.0099-강38ㅍ 우당 이592.099-강39ㅍ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -292,8 +291,6 @@ Book
     * [What My Harvard College Reunion Taught Me About Life - The Atlantic](https://www.theatlantic.com/education/archive/2018/10/what-my-harvard-college-reunion-taught-me-about-life/573847/)
     * [하버드 졸업 30주년 동문회에 다녀와서](https://newspeppermint.com/2019/06/30/harvardreunion50/)
 * (NOT YET) 일의 철학 [스탠퍼드의 최고 인기 교수가 말하는, 당신의 업무와 삶을 바꾸는 일의 철학 11가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245881)
-* (NOT YET) 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
-  * 탐라 개592.0099-강38ㅍ 우당 이592.099-강39ㅍ
 * (NOT YET) [전망하는 인간, 호모 프로스펙투스](https://jhrogue.blogspot.com/2021/12/blog-post_16.html)
 * (NOT YET) [하마터면 깨달을 뻔](https://jhrogue.blogspot.com/2022/01/blog-post.html)
   * 한라 185.3-나68ㅎ 우당 문185.3-나69ㅎ
@@ -377,8 +374,6 @@ Book
   * 한라 189-샤898ㅁ 우당 문189.1-샤849ㅁ
 * (NOT YET) [아주 작은 죽음들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301418584)
   * 한라 367.43-골27ㅇ 우당 문367.431-골228ㅇ
-* (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
-  * 탐라 문594.392-로31ㅇ
 * (NOT YET) [인류의 가장 위대한 모험 아폴로 8 - YouTube](https://www.youtube.com/watch?v=CjbKGQoDHSs)
 * (NOT YET) [셰일 혁명과 미국 없는 세계](https://pgr21.com/freedom/97076)
   * 한라 340.942-자68ㅅ 탐라 문349.42-자69ㅅ 우당 문340.942-자69ㅅ
@@ -1027,6 +1022,8 @@ Book
 * (NOT YET) [측정의 역사](https://hgkang1982.tistory.com/427)
   * 한라 331.51-크298ㅊ
   * [미국과 영국은 Imperial Unit을 쓴다. 신이 내려 준 단위라는데, 그 근거가 피라미드](https://www.facebook.com/yosup.park/posts/pfbid0RaAdcfHV1vWPSiuFynoFHw9egZBmWEdYCTUkWxK4RmCydKK2SVycCYzQSMeDTzTul)
+* (NOT YET) [세계사를 뒤흔든 19가지 비행 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298080263)
+  * 한라 558.309-김25ㅅ 우당 문558.309-김225ㅅ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1280,6 +1277,16 @@ Book
   * [91페이지 내내 비둘기만 등장하는 다윈의 〈종의 기원〉, 고도의 전략이었다?! #알쓸인잡 EP.1 | tvN 221202 방송 - YouTube](https://www.youtube.com/watch?v=J1ciQbXHwG0)
 * (NOT YET) [종의 기원 톺아보기 (양장 특별한정판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226626028)
   * 한라 476.0162-다66종 우당 문476.0162-다67ㅈ
+* (NOT YET) [「시시콜콜 우주 라이프」](https://post.naver.com/viewer/postView.naver?volumeNo=34044132)
+  * 한라 558-랴72ㅅ 우당 문558-랴71ㅅ
+* (NOT YET) [세계사를 바꾼 13가지 식물](https://woof.tistory.com/1540)
+  * 한라 481.508-이192ㅅ 탐라 문480.9-이211ㅅ 우당 문480.9-이211ㅅ
+* (NOT YET) [동쪽 빙하의 부엉이](https://www.khan.co.kr/culture/culture-general/article/202204081133001)
+  * 한라 498.76-슬293ㄷ 탐라 문498.76-슬232ㄷ 우당 문498.76-슬232ㄷ
+* (NOT YET) [자유를 향한 비상 : 아스퍼거 증후군을 앓고 있는 매 훈련사의 에세이 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=29565603)
+  * 우당 문498.7204-크233ㅈ
+* (NOT YET) [여우와 나 - YouTube](https://www.youtube.com/watch?v=SoQiaW_SUQ8)
+  * 한라 499.746-레68ㅇ 우당 문499.746-레69ㅇ
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
@@ -1439,3 +1446,15 @@ Book
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
 * (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
   * 탐라
+
+# Wine
+* [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
+  * ★★★☆☆ 2022.11.06
+  * 탐라 문573.2-정17ㄴ
+  * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
+* (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
+  * 탐라 문594.392-로31ㅇ
+* (NOT YET) [와인 폴리 매그넘 에디션](https://blog.naver.com/dolmory9/221762238220)
+  * 탐라 문573.2-퍼823ㅇ 우당 문573.2-퍼823ㅇ
+* (NOT YET) [와인을 위한 낱말 에세이](http://the-scent.co.kr/bbs/board.php?bo_table=news&wr_id=235&page=2)
+  * 탐라 문573.2-마75ㅇ 우당 문573.2-마75ㅇ
