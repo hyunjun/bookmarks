@@ -268,7 +268,7 @@ Programming Books
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
   * 탐라 문005.74-두61ㄷ
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
-  * 우당
+  * 우당 문004.67-레49ㅎ
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
   * 탐라 문005.76-부211ㄱ
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
@@ -660,7 +660,7 @@ Programming Books
 * (NOT YET) [안드로이드 개발 레벨업 교과서](http://wikibook.co.kr/advanced-android-book)
   * 2017.06 한라
 * (NOT YET) [아키텍처를 알아야 앱 개발이 보인다](https://bjpublic.tistory.com/357)
-  * 우당
+  * 우당 문005.58-옥57ㅇ
 * (NOT YET) [핵심만 골라 배우는 젯팩 컴포즈](https://jpub.tistory.com/1351)
 
 # Architecture
@@ -1050,16 +1050,18 @@ Programming Books
 * (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
   * 한라 005.76-이94ㄷ 탐라 문005.76-이94ㄷ 우당 문005.76-이94ㄷ
 * (NOT YET) [인공지능 100점을 위한 파이썬 수학](https://bjpublic.tistory.com/360)
-  * 우당
+  * 우당 문005.133-임53ㅇ
+  * [인공지능 100점을 위한 파이썬 수학(서평) - YouTube](https://www.youtube.com/watch?v=nTNQpf41hN0)
 * (NOT YET) [쏙쏙 들어오는 인공지능 알고리즘](https://jhrogue.blogspot.com/2021/06/blog-post.html)
 * (NOT YET) [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
 * (NOT YET) [파이썬 데이터 분석 실무 테크닉 100 | 위키북스](https://wikibook.co.kr/pyda100/)
   * 탐라 문005.76-시35ㅍ
   * [제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100 | 딥백수](https://dl4ab.github.io/2020/09/04/python-data-analysis-technique)
 * (NOT YET) [데이터 과학 트레이닝 북: 넘파이, 사이파이, 판다스, 매트플롯립을 활용하여 직접 실습해 보는 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d-%eb%b6%81/)
-  * 우당
+  * 우당 문005.133-츠821ㄷ
+  * [source codes](files/data_science_training_book.zip)
 * (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-  * 우당
+  * 우당 문004.73-박64ㅇ
 * (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
