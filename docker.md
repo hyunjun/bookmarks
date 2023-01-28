@@ -1010,6 +1010,7 @@ Docker
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 * [Kubernetes 운영 17개월의 성과와 교훈](https://dailyhotel.io/kubernetes-%EC%9A%B4%EC%98%81-17%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%EA%B5%90%ED%9B%88-adf716bd72b1)
 * [**An Introduction to Kubernetes 쿠버네티스 살펴보기**](https://subicura.com/remark/kubernetes-intro.html)
+* [NHN FORWARD 22 K8s 도입하면서 겪은 일들 - YouTube](https://www.youtube.com/watch?v=JBGsqsoGxEo)
 * [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
