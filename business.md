@@ -308,6 +308,7 @@ Business
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
+* [조금은 빈둥거려도 괜찮다. 부제. 조직과 개인의 존속에 꼭 필요한것은 비효율이다](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EA%B8%88%EC%9D%80-%EB%B9%88%EB%91%A5%EA%B1%B0%EB%A0%A4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EC%A1%B0%EC%A7%81%EA%B3%BC-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%A1%B4%EC%86%8D%EC%97%90-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C%EA%B2%83%EC%9D%80-%EB%B9%84%ED%9A%A8%EC%9C%A8%EC%9D%B4%EB%8B%A4-activity-7022365977531076608-ie1X/) slack 여유
 * [프로젝트의 방해꾼, 조급함](https://brunch.co.kr/@drunkensky/328)
 * [팀원들의 시간을 뺏는 '가짜 일' : 네이버 블로그](https://blog.naver.com/collabee/222377281888)
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
