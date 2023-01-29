@@ -3230,6 +3230,7 @@ Programming
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
   * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
   * [SICP 공부에 도움이 되는 자료들 – 도서출판 인사이트](https://blog.insightbook.co.kr/2007/12/14/sicp%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+  * [The Computer Science Wizard Book - YouTube](https://www.youtube.com/watch?v=t9AZ8_dX6uA)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Textbooks - Kansas State University Department of Computer Science](https://textbooks.cs.ksu.edu/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
