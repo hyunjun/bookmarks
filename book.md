@@ -1276,7 +1276,11 @@ Book
   * 한라 476.0162-다66ㅈ
   * [91페이지 내내 비둘기만 등장하는 다윈의 〈종의 기원〉, 고도의 전략이었다?! #알쓸인잡 EP.1 | tvN 221202 방송 - YouTube](https://www.youtube.com/watch?v=J1ciQbXHwG0)
 * (NOT YET) [종의 기원 톺아보기 (양장 특별한정판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226626028)
+  * ★★★☆☆ 2023.01
   * 한라 476.0162-다66종 우당 문476.0162-다67ㅈ
+    * [종의 기원 톺아보기](images/the_interpretation_of_on_the_origin_of_species_0.jpg)
+    * [490쪽에 달하는 이 책을 참고문헌이 없는 요약본](images/the_interpretation_of_on_the_origin_of_species_1.jpg)
+    * [인종 간의 차이가 아주 뚜렷하다는 점만을 언급](images/the_interpretation_of_on_the_origin_of_species_2.jpg) 지식의 한계도 있었겠지만 결국 다윈도 인종주의자였을까?
 * (NOT YET) [「시시콜콜 우주 라이프」](https://post.naver.com/viewer/postView.naver?volumeNo=34044132)
   * 한라 558-랴72ㅅ 우당 문558-랴71ㅅ
 * (NOT YET) [세계사를 바꾼 13가지 식물](https://woof.tistory.com/1540)
