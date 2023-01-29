@@ -1028,6 +1028,8 @@ Book
   * [미국과 영국은 Imperial Unit을 쓴다. 신이 내려 준 단위라는데, 그 근거가 피라미드](https://www.facebook.com/yosup.park/posts/pfbid0RaAdcfHV1vWPSiuFynoFHw9egZBmWEdYCTUkWxK4RmCydKK2SVycCYzQSMeDTzTul)
 * (NOT YET) [세계사를 뒤흔든 19가지 비행 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298080263)
   * 한라 558.309-김25ㅅ 우당 문558.309-김225ㅅ
+* (NOT YET) [30년 전쟁: 오늘의 유럽을 낳은 최초의 영토 전쟁 1618-1648](https://www.yna.co.kr/view/AKR20110615079500005)
+  * 한라 920.42-웨78ㅅ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
