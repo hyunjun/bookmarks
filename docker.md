@@ -1113,6 +1113,7 @@ Docker
   * Q2. 대기 시간(Latency) – Ingress Controller가 앱 속도를 늦추나요?
   * Q3. 보안(Security) – Ingress Controller가 해커의 문을 열어줍니까?
 * [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
+* [k8s ingress-nginx & cert-managert 를 이용해서 한번에 https 적용시키기](https://velog.io/@juunini/k8s-ingress-nginx-cert-managert-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EB%B2%88%EC%97%90-https-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * [Kubernetes 앱에 적합한 Service Mesh를 선택하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-choose-a-kubernetes-service-mesh/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
