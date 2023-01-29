@@ -503,6 +503,12 @@ Book
 * [브람스의 밤과 고흐의 별](http://www.artenews.co.kr/news/articleView.html?idxno=1334)
   * ★★★☆☆ 2022.06.07
   * [브람스의 밤과 고흐의 별](https://gist.github.com/hyunjun/074b72fd917d55f5f9d3dcda168112a3#file-brahms_and_gogh-md)
+* (NOT COMPLETED) [Van Gogh The Complete Paintings compact 반고흐 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
+  * ★★★☆☆
+  * 한라 650.99-메85ㅂ
+  * [빈센트 반 고흐 Van Gogh The Complete Paintings](https://github.com/hyunjun/bookmarks/blob/master/books/van_gogh_the_complete_paintings.md)
+  * [빈센트 반 고흐 Van Gogh The Complete Paintings - Jun - Medium](https://nymets.medium.com/%EB%B9%88%EC%84%BC%ED%8A%B8-%EB%B0%98-%EA%B3%A0%ED%9D%90-van-gogh-the-complete-paintings-8b6c85c3e58c)
+  * [빈센트 반 고흐 Van Gogh The Complete Paintings](https://jh4hj.tistory.com/entry/%EB%B9%88%EC%84%BC%ED%8A%B8-%EB%B0%98-%EA%B3%A0%ED%9D%90-Van-Gogh-The-Complete-Paintings)
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
@@ -533,8 +539,6 @@ Book
 * (NOT YET) [20세기 미국 미술 : 현대 예술과 문화 1950~2000 휘트니미술관 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=867)
   * 탐라 문609.42-필239ㅇ 우당 문609.42-필239ㅇ
 * (NOT YET) [Gaudi Basic Architecture 2.0 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/basicartseries/?idx=266)
-* (NOT YET) [Van Gogh The Complete Paintings compact 반고흐 TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/138/?idx=282)
-  * 한라
 * (NOT YET) [위로의 미술관](https://brunch.co.kr/@kym8927/79)
   * 한라 650.4-진44ㅇ 탐라 문650-진44ㅇ 우당 문650.4-진44ㅇ
 * (NOT YET) [반 고흐, 프로방스에서 보낸 편지](https://brunch.co.kr/@artinsight/1749)
@@ -1259,6 +1263,12 @@ Book
   * [만화로 배우는 양자역학과 상대성이론 QUANTUM](https://github.com/hyunjun/bookmarks/blob/master/books/quantum.md)
   * [만화로 배우는 양자역학과 상대성이론 QUANTUM. 시간의 정의 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%96%91%EC%9E%90%EC%97%AD%ED%95%99%EA%B3%BC-%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0-quantum-f8da19fdce64)
   * [만화로 배우는 양자역학과 상대성이론 QUANTUM](https://jh4hj.tistory.com/entry/%EB%A7%8C%ED%99%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%96%91%EC%9E%90%EC%97%AD%ED%95%99%EA%B3%BC-%EC%83%81%EB%8C%80%EC%84%B1%EC%9D%B4%EB%A1%A0-QUANTUM)
+* (NOT COMPLETED) [종의 기원 톺아보기 (양장 특별한정판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226626028)
+  * ★★★☆☆ 2023.01
+  * 한라 476.0162-다66종 우당 문476.0162-다67ㅈ
+    * [종의 기원 톺아보기](images/the_interpretation_of_on_the_origin_of_species_0.jpg)
+    * [490쪽에 달하는 이 책을 참고문헌이 없는 요약본](images/the_interpretation_of_on_the_origin_of_species_1.jpg)
+    * [인종 간의 차이가 아주 뚜렷하다는 점만을 언급](images/the_interpretation_of_on_the_origin_of_species_2.jpg) 지식의 한계도 있었겠지만 결국 다윈도 인종주의자였을까?
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
@@ -1275,12 +1285,6 @@ Book
 * (NOT YET) [종의 기원](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198419735)
   * 한라 476.0162-다66ㅈ
   * [91페이지 내내 비둘기만 등장하는 다윈의 〈종의 기원〉, 고도의 전략이었다?! #알쓸인잡 EP.1 | tvN 221202 방송 - YouTube](https://www.youtube.com/watch?v=J1ciQbXHwG0)
-* (NOT YET) [종의 기원 톺아보기 (양장 특별한정판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226626028)
-  * ★★★☆☆ 2023.01
-  * 한라 476.0162-다66종 우당 문476.0162-다67ㅈ
-    * [종의 기원 톺아보기](images/the_interpretation_of_on_the_origin_of_species_0.jpg)
-    * [490쪽에 달하는 이 책을 참고문헌이 없는 요약본](images/the_interpretation_of_on_the_origin_of_species_1.jpg)
-    * [인종 간의 차이가 아주 뚜렷하다는 점만을 언급](images/the_interpretation_of_on_the_origin_of_species_2.jpg) 지식의 한계도 있었겠지만 결국 다윈도 인종주의자였을까?
 * (NOT YET) [「시시콜콜 우주 라이프」](https://post.naver.com/viewer/postView.naver?volumeNo=34044132)
   * 한라 558-랴72ㅅ 우당 문558-랴71ㅅ
 * (NOT YET) [세계사를 바꾼 13가지 식물](https://woof.tistory.com/1540)
