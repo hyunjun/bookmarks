@@ -530,3 +530,4 @@ PyTorch
 * [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)
 * [M1 iMac 24” 에 pytorch 를 돌려보았다](https://taekangwoo.notion.site/M1-iMac-24-pytorch-2b2998c452c2430e921399b67cae3299)
 * [Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+* [파이토치 자세한 튜토리얼 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/torch-tutorial/#22-%EA%B0%80%EC%A4%91%EC%B9%98-%EC%B4%88%EA%B8%B0%EA%B0%92-%EC%83%9D%EC%84%B1)
