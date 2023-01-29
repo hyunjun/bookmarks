@@ -661,6 +661,10 @@ Programming Books
   * 2017.06 한라
 * (NOT YET) [아키텍처를 알아야 앱 개발이 보인다](https://bjpublic.tistory.com/357)
   * 우당 문005.58-옥57ㅇ
+  * [찰스의 안드로이드](https://www.charlezz.com/)
+  * [아키텍처를 알아야 앱 개발이 보인다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/android_clean_code_through_dagger2_jetpack_rxjava.md)
+  * [아키텍처를 알아야 앱 개발이 보인다 - Jun - Medium](https://nymets.medium.com/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4-6ee77dcbc872)
+  * [아키텍처를 알아야 앱 개발이 보인다](https://jh4hj.tistory.com/entry/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%95%8C%EC%95%84%EC%95%BC-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4)
 * (NOT YET) [핵심만 골라 배우는 젯팩 컴포즈](https://jpub.tistory.com/1351)
 
 # Architecture
