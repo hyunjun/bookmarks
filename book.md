@@ -1297,6 +1297,8 @@ Book
   * 우당 문498.7204-크233ㅈ
 * (NOT YET) [여우와 나 - YouTube](https://www.youtube.com/watch?v=SoQiaW_SUQ8)
   * 한라 499.746-레68ㅇ 우당 문499.746-레69ㅇ
+* (NOT YET) [프렌즈 Friends-로빈 던바 Robin Dunbar](https://brunch.co.kr/@greenful/130)
+  * 한라 404-던42ㅍ 탐라 문194.3-던41ㅍ 우당 문194.3-던41ㅍ
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
