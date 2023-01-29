@@ -328,6 +328,8 @@ Programming Books
   * 한라 004.783-해298ㄷ
 * (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
 * (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
+* (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
+  * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 
 # Agile Scrum
 
