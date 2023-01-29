@@ -28,6 +28,7 @@ Business
   * [09화 가격비교와 트레저헌터의 탄생(2006-2007)](https://brunch.co.kr/@windydog/395)
   * [10화 돋보기 -온라인 갈라파고스 ‘대한민국’ 이용자 생태](https://brunch.co.kr/@windydog/396)
   * [11화 모바일 앞에서 머뭇거리다(2007~2009)](https://brunch.co.kr/@windydog/397)
+* [브런치북 이커머스에 대해 묻고 답하다](https://brunch.co.kr/brunchbook/ecommerce2023)
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
 * [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
 * [습관이 되는 주니어의 25가지 실수 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232804)
