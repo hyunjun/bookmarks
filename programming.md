@@ -539,6 +539,7 @@ Programming
 * [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
 * [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
+* [Kent Beck의 Design Play가 무슨 말인가](https://brunch.co.kr/@graypool/771)
 * [욕망 관리하기](https://jojoldu.tistory.com/688)
 * [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
 * [Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)
