@@ -1097,6 +1097,7 @@ App
     * 오픈 소스 벡터 그래픽 편집기. 일러스트레이션, 다이어그램, 라인 아트, 차트, 로고, 아이콘, 출판 및 복잡한 그림과 같은 벡터 그래픽을 제작 편집 가능
   8. [김프 Gimp](https://www.gimp.org)
     * 오픈소스 이미지 보정 및 편집 프로그램. 이미지 작업에 필요한 다양한 기능과 필터 제공
+    * [파이썬으로 플러그인 만들기①: 오류콘솔에 "Hello, world!"](https://employeecoding.tistory.com/404)
   9. [크리타 Krita](https://krita.org/ko)
     * 오픈 소스 페인팅 프로그램. 드로잉과 페인팅 뿐 아니라 이미지 편집을 위한 다양한 도구 제공. 비슷한 기능을 제공하는 Gimp보다 인터페이스가 친숙하며 꾸준하게 개발되고 있다는 장점
   10. [스토리보더 Storyboarder](https://wonderunit.com/storyboarder)
