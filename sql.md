@@ -467,6 +467,7 @@ SQL
     * [여러 행 SELECT해서 INSERT 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/263)
     * [sql 독학 강의 # mysql insert 사용 방법 17편 -sTricky](https://stricky.tistory.com/268)
     * [MySQL 양방향 암호화 복호화 insert 및 select 예제](https://stricky.tistory.com/330)
+    * [MySQL은 '따닥'을 어떻게 방어할까](https://velog.io/@wisepine/MySQL%EC%9D%80-%EB%94%B0%EB%8B%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%A9%EC%96%B4%ED%95%A0%EA%B9%8C)
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
     * [MySql: LOAD DATA INFILE 로 대용량 데이터 인서트하기](http://ohgyun.com/777)
