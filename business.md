@@ -983,6 +983,7 @@ Business
 * [2022년 평가 Quick-Win 전략 세미나 정리](https://www.linkedin.com/posts/sunghyunchung_flex-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4%EC%97%90%EC%84%9C-%EA%B0%9C%EC%B5%9C%ED%95%9C-2022%EB%85%84-%ED%8F%89%EA%B0%80-quick-win-%EC%A0%84%EB%9E%B5-%EC%84%B8%EB%AF%B8%EB%82%98%EC%97%90-activity-6988503124671963137-TJL1/)
 * ["CEO 리더십, 디지털 전환 승패 가른다"..딜로이트 400명 설문조사](https://v.daum.net/v/20220925175401242)
 * [경영 일선에서 물러나는 리드 헤이스팅스를 보며](https://brunch.co.kr/@somewonyoon/132)
+* [CEO 심리학 실수도 자신있게 해야 더 잘 배운다 - 매일경제](https://www.mk.co.kr/news/business/6949022)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
