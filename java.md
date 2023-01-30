@@ -437,10 +437,7 @@ Java
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1) C, multiprocess, multithread, multiplex
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 2부 - Java NIO와 멀티플렉싱 기반의 다중 접속 서버**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part2)
   * [**비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프**](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3)
-  * [켠 김에 PR까지 0화 - YouTube](https://www.youtube.com/watch?v=9LRFLCtFPTo) VMWare, Manjaro linux, intelliJ
-  * [켠 김에 PR까지 1화: 오픈 소스 릴리즈하고 Maven Central 리포지터리에 올리기 - YouTube](https://www.youtube.com/watch?v=HC3xTMWU9M0)
-  * [켠 김에 PR까지 2화 - YouTube](https://www.youtube.com/watch?v=0lYy0nOSlm0) gRPC와 HTTP/2
-  * [켠 김에 PR까지 3화: DNS 쿼리와 동시성 제어 - YouTube](https://www.youtube.com/watch?v=oObE-g5RGWM)
+  * [켠 김에 PR까지 - YouTube](https://www.youtube.com/playlist?list=PLuWz7MpEAx_cOPhcMSOVrEwa5Wu-CBjF4)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
@@ -1364,6 +1361,7 @@ Java
   * [#jenkins #springboot Spring Boot Application Deployment Using Jenkins CI & CD #lovetolearn - YouTube](https://www.youtube.com/watch?v=gV1wq2E6Lqc)
   * [Monitoring Jenkins with Java Melody - YouTube](https://www.youtube.com/watch?v=FK5EW2AJ6_k)
   * [Learn Jenkins by Building a CI/CD Pipeline](https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/)
+  * [How to Validate Jenkinsfile using Visual Studio Code](https://www.fosstechnix.com/validate-jenkinsfile-using-visual-studio-code/)
   * [jenkins-stack-kubernetes: Scripts and manifests to deploy complete Jenkins on Kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes)
   * [jenkins-tutorial: The complete Jenkins tutorial, reference, awesome, examples](https://github.com/ssbostan/jenkins-tutorial)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
