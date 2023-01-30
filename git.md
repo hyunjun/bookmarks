@@ -423,6 +423,7 @@ Git
   * GitHub Actions에서 기존에는 시크릿만 저장해서 관리할 수 있었지만
     * 민감하지 않은 데이터를 관리할 수 있도록 configuration variables가 추가
   * Actions 설정에서 추가한 뒤 워크플로우에서 ``${{ vars.REPOSITORY_VAR }}`` 형태로 참조 가능
+* [GitHub Actions에서 output 변수의 문법 변경 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1651)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
