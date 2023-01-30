@@ -121,6 +121,7 @@ Elixir
 * [GenStage - elixir로 비트코인 시세 스크랩 (feat. 업비트) 1/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-1-of-3/)
   * [JWT - elixir로 비트코인 시세 스크랩 (feat. 업비트) 2/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-2-of-3/)
   * [prometheus, grafana - elixir로 비트코인 시세 스크랩 (feat. 업비트) 3/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-3-of-3/)
+* [Nerves Project](https://nerves-project.org/)
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
