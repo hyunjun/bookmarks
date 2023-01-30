@@ -1155,7 +1155,6 @@ AWS
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [Serverless Bootcamp](https://catalog.us-east-1.prod.workshops.aws/workshops/4923c0ff-6470-46e1-9884-7c6ee63e7136/ko-KR)
 * [AWS Cheat Sheet - AWS Lambda](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/Lambda)
-* [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
 * [Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis)
@@ -1181,7 +1180,6 @@ AWS
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [서버리스 어플리케이션 최적화 해보기](https://github.com/jmyung/jmyung.github.io/blob/master/_posts/2018-12-20-optimizing-serverless.md)
-* [Serverless Ruby on AWS Lambda with the Jets framework](https://hackernoon.com/serverless-ruby-on-aws-lambda-with-the-jets-framework-989147f9d07b)
 * [How to Deploy AWS Layers With Lambda And Serverless.js](https://medium.com/harrythegreat/build-aws-layers-lambda-serverless-js-42cd6d17b155)
 * [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture)
 * [서버리스(Serverless) 프레임워크로 노드js(Node.js) 12 코드 실행해보기](https://www.44bits.io/ko/post/news--aws-lambda-now-supports-python-3-8-nodejs-12-0-java-11#%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EB%85%B8%EB%93%9Cjsnode.js-12-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -1276,9 +1274,6 @@ AWS
 * [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
-* [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
-* [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
-* [AWS 람다 커스텀 런타임 만들기(feat. 루비 2.6.0)](https://www.44bits.io/ko/post/how-to-create-aws-lambda-custom-runtime-feat-ruby-2-6-0)
 * [AWS 람다 레이어 공유하기 - AWS 람다 함수의 공통 부분을 다른 계정이나 조직과 공유하는 방법](https://www.44bits.io/ko/post/sharing-aws-lambda-layer)
 * [How to build and use a Layer for your AWS Lambdas](https://medium.freecodecamp.org/lambda-layers-2f80b9211318)
 * [AWS 람다 + 타입스크립트 디자인패턴 적용하기](https://medium.com/@herryhan2435/aws-%EB%9E%8C%EB%8B%A4-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-8cce354b6448)
@@ -1363,6 +1358,9 @@ AWS
 * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
+* [Serverless: Develop & Monitor Apps On AWS Lambda](https://www.serverless.com/)
+  * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
+  * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
@@ -1411,6 +1409,14 @@ AWS
 * [Install Python Library in Lambda | AWS Lambda Layer - YouTube](https://www.youtube.com/watch?v=HBt8MXHcaPI)
 * [Python Lambda 함수 기초 틀 - 이상선 - Medium](https://medium.com/@sunyi233/python-lambda-%ED%95%A8%EC%88%98-%EA%B8%B0%EC%B4%88-%ED%8B%80-ea08d27d17b1)
 * [서버리스 / 크롤링 일본 조조타운 크롤링하기](https://blog.naver.com/rokomokodon/222905641295)
+
+## Lambda Ruby
+* [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
+* [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
+* [AWS 람다 커스텀 런타임 만들기(feat. 루비 2.6.0)](https://www.44bits.io/ko/post/how-to-create-aws-lambda-custom-runtime-feat-ruby-2-6-0)
+* [Ruby on Jets | The Ruby Serverless Framework](https://rubyonjets.com/)
+  * [jets: Ruby on Jets](https://github.com/boltops-tools/jets)
+  * [Serverless Ruby on AWS Lambda with the Jets framework](https://hackernoon.com/serverless-ruby-on-aws-lambda-with-the-jets-framework-989147f9d07b)
 
 ## Lambda Rust
 * [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
