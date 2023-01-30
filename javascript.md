@@ -2986,6 +2986,7 @@ Javascript
   * Persistence - 프로그램이 다시 시작된 뒤에도 재설정되지 않는지
   * Horizontal Scaling - 여러 호스트에서 job multiple processor를 지원하는지
   * 중복 실행 방지 - 다중 프로세스, 다중 스레드에서 실행하더라도 하나만 실행되는지
+* [7 Node JS Best Practices  -  2023 you should be aware of before starting your project. | Medium](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
