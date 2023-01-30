@@ -332,6 +332,8 @@ Hardware
 * [라즈베리 파이로 스마트 오디오 시스템을 만들어 보자](https://blog.chosunghyun.com/kr-raspberry-pi-smart-audio-system/)
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi - Christian Hollinger](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [What is Edge Computing?](https://skolaparthi.com/edge-computing/)
+* [Enterprise Restaurant Compute. by the CFA Enterprise Restaurant… | by Brian Chambers | chick-fil-atech | Jan, 2023 | Medium](https://medium.com/chick-fil-atech/enterprise-restaurant-compute-f5e2fd63d20f)
+  * [Chick-Fil-A 의 Edge Computing 기술 아키텍처 : Enterprise | GeekNews](https://news.hada.io/topic?id=8306)
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
