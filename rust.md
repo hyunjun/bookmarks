@@ -296,6 +296,7 @@
 * [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
 * [polars: Rust DataFrame library](https://github.com/ritchie46/polars)
   * [I wrote one of the fastest DataFrame libraries | Ritchie Vink](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+  * [Polars: The Next Big Python Data Science Library... written in RUST? - YouTube](https://www.youtube.com/watch?v=VHqn7ufiilE)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
