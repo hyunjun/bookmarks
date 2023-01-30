@@ -608,6 +608,9 @@ Book
   * [아마존 언바운드 Amazon Unbound](https://github.com/hyunjun/bookmarks/blob/master/books/amazon_unbound.md)
   * [아마존 언바운드 Amazon Unbound. 리스크를 감수하면 보상을 받는다는 강력한 메시지 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%96%B8%EB%B0%94%EC%9A%B4%EB%93%9C-amazon-unbound-a7725a524103)
   * [아마존 언바운드 Amazon Unbound](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%96%B8%EB%B0%94%EC%9A%B4%EB%93%9C-Amazon-Unbound)
+* [더 골 2 it’s not luck - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/202)
+  * ★★★★☆ 2023.01.30
+  * 한라 325.04-골27ㅇ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -616,8 +619,6 @@ Book
 * (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
   * 한라 325.19-사45ㅇ 탐라 문325.19-사45ㅇ 우당 문325.19-사45ㅇ
   * [창업 이후 가장 큰 도움을 받은 책은 바로 '이것'](https://eopla.net/magazines/291)
-* (NOT YET) [더 골 2 it’s not luck - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/202)
-  * 한라 325.04-골27ㅇ
 * (NOT YET) [더 골 The Goal (만화판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67216907&start=slayer)
 
 # Data
