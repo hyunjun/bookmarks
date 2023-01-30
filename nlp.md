@@ -688,6 +688,7 @@ NLP
   * [ChatGPT에게 한국 역사를 물어보다 - 한계 편](https://jiho-ml.com/chatgpt-factuality/)
   * [ChatGPT creates a new ChatGPT - YouTube](https://www.youtube.com/watch?v=QumfkMQr47M)
   * [ChatGPT and Watermarking - Seewoo Lee](https://seewoo5.github.io/jekyll/update/2023/01/28/chatgpt-watermark.html)
+  * [챗GPT를 비판하는 진영의 논리도 함 보시죠](https://www.linkedin.com/posts/freeasthewind_%EB%A9%94%ED%83%80-ai-%EC%B1%85%EC%9E%84%EC%9E%90-%EC%B1%97gpt%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-activity-7025683900551073792-aynX/)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
