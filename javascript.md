@@ -916,6 +916,7 @@ Javascript
   * [How to use the JavaScript console: going beyond console.log()](https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b)
   * [console.log에서 css 사용하기](https://www.youtube.com/watch?v=RcwrSBvJOaw)
   * [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+  * [JS Console의 세계](https://velog.io/@composite/JS-Console%EC%9D%98-%EC%84%B8%EA%B3%84)
   * [Stop Using console.log() In JavaScript | by Harsha Vardhan | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-console-log-in-javascript-d29d6c24dc26)
   * [Use console.log() like a pro - Marko Denic - Web Developer](https://markodenic.com/use-console-log-like-a-pro/)
 * Date
