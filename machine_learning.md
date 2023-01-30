@@ -1458,6 +1458,7 @@ Machine Learning
 * [사이킷 런의 svm.SVC 사용 및 흉내내어 만들어보기 ML with pYTHON](https://www.youtube.com/watch?v=4hZmWdk6IrA)
 * [Interpretable Machine Learning | LIME In Machine Learning](https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/)
 * [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
+* [Math-free, Parameter-free Gradient Descent in Python - Machine Learning Techniques](https://mltechniques.com/2023/01/28/math-free-parameter-free-gradient-descent-in-python/)
 * [**best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly**](https://github.com/ml-tooling/best-of-ml-python)
 * [8 Basic Easy to Follow Steps to Learn Machine Learning with Python](https://www.mltut.com/basic-steps-to-learn-machine-learning-with-python)
 * [파이썬, ML - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770053)
