@@ -809,6 +809,7 @@ Vision
 * [ANPR-RK-Korea - 한국 자동차 번호판 인식 솔루션](https://www.marearts.com/ANPR-RK-Korea-83e9c442ced64cb6853574fae4483461)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
+* [DeepFace: State-of-the-Art Face Attribute Analysis in Python - YouTube](https://www.youtube.com/watch?v=n84hBgtzvxo)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
 * [efficientdet · google/automl](https://github.com/google/automl/tree/master/efficientdet)
