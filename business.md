@@ -985,6 +985,7 @@ Business
 * ["CEO 리더십, 디지털 전환 승패 가른다"..딜로이트 400명 설문조사](https://v.daum.net/v/20220925175401242)
 * [경영 일선에서 물러나는 리드 헤이스팅스를 보며](https://brunch.co.kr/@somewonyoon/132)
 * [CEO 심리학 실수도 자신있게 해야 더 잘 배운다 - 매일경제](https://www.mk.co.kr/news/business/6949022)
+* [리더가 쉽게 짜증내는 조직 급한 일 터질수록 사분오열 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10617802)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
