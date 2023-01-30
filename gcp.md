@@ -65,6 +65,7 @@ Google Cloud Platform GCP
 * [Read Data directly with BigQuery SQL with the Zero — ETL Approach | by Christianlauer | CodeX | Aug, 2022 | Medium](https://medium.com/codex/read-data-directly-with-bigquery-sql-with-the-zero-etl-approach-a2dc34ff76ff)
 * [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
 * [Run BigQuery SQL using Python API Client | by Cristian Saavedra Desmoineaux | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/run-bigquery-sql-using-python-api-client-b5287ac05b99)
+* [빅쿼리에서 min_by, max_by](https://walkingfox.tistory.com/188)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
