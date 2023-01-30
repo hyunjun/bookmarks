@@ -255,6 +255,7 @@ Android
 * [중력센서를 사용해 기기의 기울기 각도 확인하기](https://cliearl.github.io/posts/android/find-tilt-angle-with-gravity-sensor/)
 * [안드로이드 12 스플래시(Splash Screen) 화면 적용하기 | 커피한잔의 여유와 코딩](http://sjava.net/2022/06/android-12-splash-screen/)
 * [Junior 개발자의 글로벌 서비스 경험기 1탄 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/07/06/azar-android-junior-developer-view.html)
+* [Junior 개발자의 글로벌 서비스 경험기 2탄 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/01/30/azar-android-junior-developer-view-2.html)
 * [Android Developers Blog: Announcing Cross device SDK Developer Preview for building rich multi-device experiences on Android](https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html)
   * [구글, 안드로이드용 Cross Device SDK 공개 | GeekNews](https://news.hada.io/topic?id=7291)
 * [Pluu Dev - 앱의 Version Code 변경](https://pluu.github.io/blog/android/2022/09/17/update-version-code/)
