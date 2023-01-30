@@ -575,6 +575,7 @@ Data Visualization
   * [파이썬 데이터 분석 코로나 19 동적 시각화 분석하기 3편](https://stricky.tistory.com/465)
   * [Seaborn 튜토리얼 번역 #1장 Visualizing statistical relationships](https://data101.tistory.com/6)
   * [Ridgeline Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/07/Python-DS-30-mpl_dists/)
+  * [Python Data Analysis Tips - How and why to make a Ridge Plot in Seaborn](https://www.datasimple.education/post/python-data-analysis-tips-how-and-why-to-make-a-ridge-plot-in-seaborn)
   * [Seaborn 0.11 Quick Review | Pega Devlog](https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/)
   * [Seaborn Distribution Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/16/Python-DS-32-seaborn_displot/)
   * [Seaborn with Matplotlib (1) | Pega Devlog](https://jehyunlee.github.io/2020/09/30/Python-DS-34-seaborn_matplotlib/)
