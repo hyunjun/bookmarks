@@ -1744,6 +1744,7 @@ Docker
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
   * [K8s Service Mesh: Linkerd or Istio | by Ohad Senior | CloudZone | Medium](https://medium.com/cloudzone/k8s-service-mesh-linkerd-or-istio-4bb650d51bc6)
+  * [이스티오(Istio)의 앰비언트 메시 소개 - k8s](https://sysnet4admin.gitbook.io/k8s/service-mesh/istio/ambient-mesh/Introducing-ambient-mesh)
   * [kyc-docker-k8-istio: ServiceMesh with Docker K8 Istio - KYC scenario](https://github.com/vijayredkar/kyc-docker-k8-istio)
     * [BankNext Case Study — ServiceMesh with Docker-K8-Istio-Sidecar | by Vijay Redkar | Nov, 2021 | Medium](https://vijayredkar.medium.com/banknext-case-study-servicemesh-with-docker-k8-istio-sidecar-b5e3ba930835)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
