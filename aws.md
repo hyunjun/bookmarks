@@ -1094,6 +1094,7 @@ AWS
 * [Spark 쓰면서 겪은 이야기들](https://tech.youha.info/6acde37d-25c5-4005-bc6a-b69d8c248eea)
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [Amazon EMR에서 Trino와 Apache Superset을 이용한 Federated Query 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-emr-trino-apache-superset-federated-query/)
+* [Spark on Kubernetes로 이관하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10291/) EMR on EKS
 
 # EventBridge
 * [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
