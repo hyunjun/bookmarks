@@ -1406,6 +1406,7 @@ Programming
 * [Securing Danish Healthcare Using Cloud Native • Frederik Mogensen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=wiU3QIcf4fU)
 * [블로그 | 여전히 혼란스러운 클라우드 네이티브의 개념과 정의 - ITWorld Korea](https://www.itworld.co.kr/news/227919)
 * [클라우드 네이티브의 진정한 의미 - ITWorld Korea](https://www.itworld.co.kr/news/248260)
+* [Cloud Native가 무슨 말인가?](https://brunch.co.kr/@graypool/751)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
