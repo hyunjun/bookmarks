@@ -311,6 +311,7 @@
 
 # Conference
 * [A TypeScript Fan's KotlinJS Adventures • Eamonn Boyle & Garth Gilmour • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9p60bBBpG6A)
+* [TypeScript vs KotlinJS • Eamonn Boyle & Garth Gilmour • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=GlU8ZyJNI7Q)
 * [Kotlin is *Way* More Than Just Android - YouTube](https://www.youtube.com/watch?v=7zx_KjDXAAw)
 * [Google's Journey from Java to Kotlin for Server Side Programming by James Ward , Brad Hawkes , John - YouTube](https://www.youtube.com/watch?v=o14wGByBRAQ)
 * [A Tour of the Modern Java Platform • James Ward & Ryan Knight • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BU_zIpQI5Dg)
