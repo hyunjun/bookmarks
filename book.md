@@ -611,6 +611,9 @@ Book
 * [더 골 2 it’s not luck - 엘리 골드렛 Eliyahu M. Goldratt](https://hong30.tistory.com/202)
   * ★★★★☆ 2023.01.30
   * 한라 325.04-골27ㅇ
+  * [The Goal 2 It's Not Luck](https://github.com/hyunjun/bookmarks/blob/master/books/the_goal_2_its_not_luck.md)
+  * [The Goal 2 It’s Not Luck. I 위기의 도래 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/the-goal-2-its-not-luck-67cf0e47c059)
+  * [The Goal 2 It's Not Luck](https://jh4hj.tistory.com/entry/The-Goal-2-Its-Not-Luck)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
