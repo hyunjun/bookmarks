@@ -479,6 +479,7 @@ AWS
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(2) :: All About Dev/Ops](https://zerone-code.tistory.com/9)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(3) :: All About Dev/Ops](https://zerone-code.tistory.com/10)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Cloud Provider 로 aws LoadBalancer 연결하기](https://ahnseungkyu.com/305)
+* [AWS 기반 재해 복구(DR) 아키텍처, 1부: 클라우드에서의 재해 복구 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-1/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
