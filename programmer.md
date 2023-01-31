@@ -202,6 +202,7 @@ Programmer
 * [프로그래머로 산다는 것 - Google Slides](https://docs.google.com/presentation/d/1e1c0eyB1zYZFZyr4eIl0LSfhrp6SI9N_zy0ZIrZ4fVM/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 * [20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
   * [20년간 소프트웨어 엔지니어로서 배운 20가지 | GeekNews](https://news.hada.io/topic?id=8358)
+* [Maker’s Schedule vs Manager’s Schedule | by Joon Won Lee | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/makers-schedule-vs-manager-s-schedule-c8eea3b86725)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
