@@ -233,6 +233,7 @@ Scala
 * [Spark, Torrents, and Technical Debt](https://medium.com/@john.montroy/spark-torrents-and-technical-debt-9b5cdb23296c)
 * [스칼라 인터프리터의 스크립트](https://medium.com/@ysmintor/scala-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95-7d137d350ffe)
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
+* [Binary Serialization Of Evolving Data Types by Daniel Vigovszky - YouTube](https://www.youtube.com/watch?v=Y2KopYpjZ3Y)
 * [A journey into safer and cleaner code in Scala with real-life examples](https://medium.com/krakow-scala/a-journey-into-safer-and-cleaner-code-in-scala-with-real-life-examples-e3b7c385e144)
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
