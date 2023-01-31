@@ -434,6 +434,7 @@ Android
   * [Google Developers Korea Blog: 한 명의 Android 개발자가 Lyft Driver 앱 시작 시간을 한 달 만에 21% 단축한 방법을 소개합니다](https://developers-kr.googleblog.com/2022/08/how-single-android-developer-improved.html)
   * [Google Developers Korea Blog: Airbnb가 Jetpack Compose를 활용해 개발 역량을 강화하고 최고의 결과물을 얻어낸 방법을 확인해보세요](https://developers-kr.googleblog.com/2022/10/airbnb-uses-jetpack-compose.html)
   * [2023년. 안드로이드 개발이 쉬워지는 이유? - YouTube](https://www.youtube.com/watch?v=XZ6vmRIi784)
+  * [Jetpack compose 도입기-1. 안드로이드 그룹의 위대한 첫 발 | by Mike | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/jetpack-compose-%EB%8F%84%EC%9E%85%EA%B8%B0-1-fba23efbbb23)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
