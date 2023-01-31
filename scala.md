@@ -1462,6 +1462,7 @@ Scala
     * [Functional event sourcing with cats-effect | by Jonas Chapuis | Sep, 2022 | Medium](https://jonas-chapuis.medium.com/functional-event-sourcing-with-akka-and-cats-7c075939fbdc)
     * [Integrating Java APIs with Cats Effect](https://softwaremill.com/integrating-java-apis-with-cats-effect/)
     * [Case study: The digital transformation of Santa’s logistical nightmare - Part 2 - Functional Feline Society](https://functional-feline-society.github.io/2022/12/22/io-part-2/)
+    * [Effects: To Be Or Not To Be? By Adam Warski - YouTube](https://www.youtube.com/watch?v=sDnNjtkoUVs)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
