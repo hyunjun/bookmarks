@@ -5317,6 +5317,7 @@ Programming
 * [프로덕트를 빠르게 개선하기 위한 베이지안 A/B 테스트](https://www.slideshare.net/lumiamitie/ab-249770435)
 * [대규모 A/B 테스트의 인시던트를 최소화하다. 코드 리뷰 자동화를 통한 A 로직의 변경 감지 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Medium](https://medium.com/coupang-engineering/minimizing-technical-incidents-during-a-b-testing-at-scale-a9c35c6b2ca3)
 * [Accelerating our A/B experiments with machine learning - Dropbox](https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr)
+* [스타트업에서 개발자가 효율을 챙기면?. 스타트업에서 협업 효율화 하기 | by 육찬심 | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EC%B1%99%EA%B8%B0%EB%A9%B4-c16a3ea7ab9)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
