@@ -1301,6 +1301,7 @@ Javascript
   * 직관적으로 사용할 수 있도록 Compound Component를 선택
   * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
 * [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
+* [인디자인 요소, 자간(Tracking)과 글자간격(letter spacing), 커닝(kerning), 이음자(ligature)](https://a-park.me/55)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
