@@ -530,6 +530,7 @@ AWS
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 * [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
+* [AWS 배포 파이프라인 참조 아키텍처 및 참조 구현 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -1712,6 +1713,7 @@ AWS
 * [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 * [AWS RDS Proxy로 RDS 인스턴스 다운 타임을 최소화하기 :: 조은우 개발 블로그](https://jonnung.dev/aws/2022/02/15/aws-rds-proxy-for-rds-downtime/)
+* [Amazon RDS Proxy를 활용한 롯데이커머스의 Amazon RDS 커넥션 불균형 해결 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/case-study-lotteon-amazon-rds-connection-unbalance-resolve/)
 * [RDS 생성 및 R/Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/05/aws-rds-%EC%83%9D%EC%84%B1-%EB%B0%8F-r-python-%EC%97%B0%EB%8F%99/)
 * [DataGrip 에서 SSH 터널링으로 DB 접근하기](https://jojoldu.tistory.com/623)
 * [AWS RDS Tutorial | Install Microsoft SQL Server Database (MSSQL), Connect to it and write Queries - YouTube](https://www.youtube.com/watch?v=cJ2IVsq9sew)
