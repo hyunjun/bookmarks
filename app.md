@@ -662,6 +662,7 @@ App
   * [단순 반복 업무를 없애보기로 했다. (feat. Zapier)](https://jeongje.github.io/2022-07-30/story-automation-zapier)
   * [단순 반복 업무를 없애보기로 했다. (feat. Zapier) | by Jeongje Yu | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/%EB%8B%A8%EC%88%9C-%EB%B0%98%EB%B3%B5-%EC%97%85%EB%AC%B4%EB%A5%BC-%EC%97%86%EC%95%A0%EB%B3%B4%EA%B8%B0%EB%A1%9C-%ED%96%88%EB%8B%A4-feat-zapier-24feb9bf3062)
   * [Zapier로 노션 데이터와 슬랙을 연동해보자](https://onboardingsohard.ghost.io/zapier1/)
+  * [노코드 자동화 툴로 일잘러 데이터 분석가 되기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/01/nocode-tool.html) Integromat
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 ## Development Project Management
