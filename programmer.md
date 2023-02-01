@@ -200,6 +200,7 @@ Programmer
 * [함께 일하고 싶은 사람 - 4. 마음가짐](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-4.-%EB%A7%88%EC%9D%8C%EA%B0%80%EC%A7%90-newad9vz)
 * [함께 일하고 싶은 사람 - 5. 여담 : 개인적인 팁, 성서](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-5.-%EC%97%AC%EB%8B%B4-%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%ED%8C%81-%EC%84%B1%EC%84%9C-q8ltwtyu)
 * [프로그래머로 산다는 것 - Google Slides](https://docs.google.com/presentation/d/1e1c0eyB1zYZFZyr4eIl0LSfhrp6SI9N_zy0ZIrZ4fVM/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
+* [프로그래머로산다는것 확장 - Google Slides](https://docs.google.com/presentation/d/14LWmd95UWOYEq1ZclP-gbAhL7qP1tckXXoRizzU2xts/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 * [20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
   * [20년간 소프트웨어 엔지니어로서 배운 20가지 | GeekNews](https://news.hada.io/topic?id=8358)
 * [Maker’s Schedule vs Manager’s Schedule | by Joon Won Lee | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/makers-schedule-vs-manager-s-schedule-c8eea3b86725)
