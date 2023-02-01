@@ -3348,6 +3348,14 @@ Programming
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [시큐어 코딩의 의미와 실천 방안: ①시큐어 코딩이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1822/)
+* [Secret Key - What Is It And How Does It Protect Users? | 1Password](https://blog.1password.com/what-the-secret-key-does/)
+  * 1Password의 시크릿 키의 구조 설명
+  * 결국 1Password든 다른 서비스든 암호화되어 저장된 데이터베이스(금고)가 유출되었을 때도(절대 유출이 없다고 할 수 없으니) 안전해야
+  * 1Password는 시크릿 키를 통해 단순히 공격을 비싸게 만드는 것이 아니라 불가능하게 만들었다고 설명
+    * 사용자의 계정 암호가 서버에 절대 전달되지 않도록 하기 위해
+    * PAKE(password authenticated key exchange)를 사용
+    * 여전히 패스워드 해시나 마찬가지인 SRP verifier가 저장
+    * secret key를 사용자의 비밀번호와 합쳐져서 이 verifier 공격이 의미 없게 만들었다
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -4582,6 +4590,7 @@ Programming
   * [기술 뉴스 #212 : 22-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1639)
   * [기술 뉴스 #213 : 23-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1645)
   * [기술 뉴스 #214 : 23-01-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1648)
+  * [기술 뉴스 #215 : 23-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1652)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -4869,6 +4878,7 @@ Programming
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
 * [Retool | Build internal tools, remarkably fast.](https://retool.com/)
   * [Retool로 운영도구 빠르게 만들기](https://tech.youha.info/1f27d1de-e8ff-415d-94cd-422031959560)
+  * [Retool Mobile](https://retool.com/products/mobile)
 * [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
 * SyncTree [A ‘No-Code Tool’ that Develops Backend?! - YouTube](https://www.youtube.com/watch?v=8vzjGewmcd8)
 * [Uiflow - Build Software at the Speed of Thought](https://www.uiflow.com/)
@@ -5286,6 +5296,8 @@ Programming
 * [더 나은 테스트 코드 : 일관성, 속도, 가시성](https://velog.io/@joosing/better-test-1)
 * [Han Wang- Testing Big Data Applications (Spark, Dask, and Ray)| PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=yQHksEh1GCs)
 * [자바지기 - 의식적인 연습으로 TDD, 리팩토링 연습하기](https://velog.io/@solar/%EC%9E%90%EB%B0%94%EC%A7%80%EA%B8%B0-%EC%9D%98%EC%8B%9D%EC%A0%81%EC%9D%B8-%EC%97%B0%EC%8A%B5%EC%9C%BC%EB%A1%9C-TDD-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0)
+* [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
+  * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
