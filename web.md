@@ -877,6 +877,7 @@ Web
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Bit: The platform for the modular web](https://bit.dev/)
+* [carbonyl: Chromium running inside your terminal](https://github.com/fathyb/carbonyl)
 * [CODEF API - 인코딩, 암호화 등 API 요청에 필요한 전처리 작업을 최소화하고 쉽게 개발할 수 있는 API](https://github.com/dc7303/easy-codef-py)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
