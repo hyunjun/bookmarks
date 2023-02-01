@@ -119,6 +119,7 @@ App
 * [myDrive](https://mydrive-storage.com/)
   * [myDrive - 오픈소스 구글 드라이브 클론 | GeekNews](https://news.hada.io/topic?id=3940)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
+* [Online Tools – The ultimate collection of tools for getting things done quickly](https://onlinetools.com/)
 * [opendrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
@@ -673,6 +674,7 @@ App
   * [Nix – taming Unix with functional programming - Tweag](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/)
   * [Nix Flake for Scala - a Nix Introduction, Overview and Demo - YouTube](https://www.youtube.com/watch?v=HnoP7JZn2MQ)
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
+  * [Zero to Nix](https://zero-to-nix.com/)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
@@ -1974,6 +1976,15 @@ App
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
   * [비밀번호 관리 프로그램 Bitwarden 소개 및 NAS 설치법 : 클리앙](https://www.clien.net/service/board/lecture/15177864)
   * [1password 6 -> Bitwarden 패스워드 매니저 바꾸기 - tebica story](https://earlybird.kr/2608)
+  * [Bitwarden design flaw: Server side iterations | Almost Secure](https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/)
+    * 최근 LastPass의 데이터 유출로 인해 사용자들이 다른 서비스로 옮겨가고 있는데 대표적으로 대안이 1Password와 Bitwarden
+      * 하지만 Bitwarden도 LastPass와 보안 수준이 동일하다고 설명
+    * Bitwarden은 PBKDF2를 쓰고 20만 번 이터레이션을 돌린다고 설명(클라이언트에서 10만 번, 서버에서 10만 번)
+      * LastPass보다 2배이긴 하지만
+      * 설계결함으로 서버 측 10만 번은 암호화키가 아닌 마스터 암호 해시에만 적용
+      * 실제로는 LastPass와 동일한 보안 수준인 것과 마찬가지
+    * OWASP는 최근 권장 이터레이션을 60만 회로 변경
+      * Bitwarden은 클라이언트 측 이터레이션을 35만 번으로 바꾸었지만, 이는 새 계정에만 적용
 * [Enpass: Password Manager for iOS, Android, Linux, Windows, Mac](https://www.enpass.io/)
   * [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
 * [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
