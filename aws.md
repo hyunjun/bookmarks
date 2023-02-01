@@ -103,6 +103,7 @@ AWS
 * [쏘카의 관제 장치(Telematics Device)가 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/15/control-device-with-car-sharing.html)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
+* [AWS Migration Hub를 활용한 클라우드 이전 전략 수립하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/first-step-to-migrate-to-the-cloud/)
 * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [초보 서버 개발자의 AWS 회고](https://speakerdeck.com/mingrammer/cobo-seobeo-gaebaljayi-aws-hoego)
 * [Amazon Web Services Korea’s slideshows on SlideShare](https://www.slideshare.net/awskorea/tag/awscloud2017)
