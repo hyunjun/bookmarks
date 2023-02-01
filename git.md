@@ -1251,6 +1251,11 @@ Git
 * [gitrob - Reconnaissance tool for GitHub organizations http://michenriksen.com/blog/gitrob-putting-the-open-source-in-osint ](https://github.com/michenriksen/gitrob)
 * [gitsign: Keyless Git signing using Sigstore](https://github.com/sigstore/gitsign)
   * [Introducing Gitsign. Keyless Git commit signing with… | by Billy Lynch | Jun, 2022 | sigstore](https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa)
+* [git-sim: Visually simulate Git operations in your own repos](https://initialcommit.com/blog/git-sim)
+  * Git의 학습을 위해 Python으로 git-scm이라는 도구를 만들어서
+    * git merge, git rebase등의 명령어를 사용할 때 git-scm 명령어를 사용하면 어떻게 동작하고 어떤 상태인지 이미지로 표현
+    * --animate 옵션을 주면 변화과정 관찰 가능
+  * [git-sim - Visually simulate Git operations in your own repos with a single terminal command](https://initialcommit.com/tools/git-sim)
 * [gitsome - A supercharged Git/GitHub command line interface (CLI). An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools ](https://github.com/donnemartin/gitsome)
 * [GitScraper - Downloads entire Git repositories from publicly accessible .git folders over HTTP](https://github.com/delight-im/PHP-GitScraper)
 * [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
