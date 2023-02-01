@@ -1701,6 +1701,7 @@ Programming
 * [추천팀의 DDD 도입기 – tech.kakao.com](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
 * [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
 * [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
+* [GraphQL과 도메인 이벤트의 관계](https://brunch.co.kr/@graypool/784)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -4870,6 +4871,7 @@ Programming
 * Makerpad [Build your ideas, no coding required | Makerpad](https://www.makerpad.co/)
 * [Nebo | Disquiet\*](https://disquiet.io/product/nebo) 리액티, 개츠비, 부트스트랩을 노코드로 개발하게 해줄 수 있는 툴
 * [NOCODECORE](https://nocodecore.com/)
+* [NoCode Journal - State Of NoCode](https://www.nocodejournal.com/state-of-nocode)
 * numble [IT Open Innovation Platform, ‘NUMBLE’](https://www.numble.it/) IT 사람들의 프로젝트 기반 챌린지 커뮤니티
 * [Oopy. 우피 | Disquiet\*](https://disquiet.io/product/oopy.-%EC%9A%B0%ED%94%BC) 노션을 이용한 노코드 웹페이지 빌더
 * [openblocks: 🔥 🔥 🔥 The Open Source Retool Alternative](https://github.com/openblocks-dev/openblocks)
