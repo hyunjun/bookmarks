@@ -644,6 +644,7 @@ Programming Books
   * [ai-as-a-service: 『쉽게 배우는 AWS AI 서비스』(2022, 한빛미디어)의 예시 코드 저장소입니다](https://github.com/hanbit/ai-as-a-service)
 * (NOT YET) [AWS로 시작하는 인프라 구축의 정석](https://jpub.tistory.com/1287)
   * [끝없이 변하는 어지러운 곳에서 지도가 되어줄 본격 엔터프라이즈 환경 AWS 입문서](https://jpub.tistory.com/1279)
+  * [aws-intro-sample: AWS로 시작하는인프라 구축의 정석 ~견고한 엔터프라이즈 프로덕션 환경을 만들고 지키는 법~](https://github.com/moseskim/aws-intro-sample)
 * (NOT YET) [AWS 컨테이너 설계와 구축 철저 입문 | 위키북스](https://wikibook.co.kr/awsc/)
   * 탐라 문005.118-아231ㅇ
   * [awsc: 《AWS 컨테이너 설계와 구축 철저 입문》 프런트엔드 예제 파일](https://github.com/wikibook/awsc)
