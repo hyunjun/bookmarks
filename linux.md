@@ -1116,6 +1116,11 @@ Linux
 * [BPF/eBPF란 무엇인가](https://hyeyoo.com/133)
 * [Production ready eBPF, or how we fixed the BSD socket API](https://blog.cloudflare.com/tubular-fixing-the-socket-api-with-ebpf/)
 * [A Beginner's Guide to eBPF Programming with Go • Liz Rice • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=uBqRv8bDroc)
+* [Pixie | Pixie Product Documentation](https://docs.px.dev/)
+  * [Observability strategies to not overload engineering teams – eBPF | by Nicolas Takashi | Jan, 2023 | ITNEXT](https://itnext.io/observability-strategies-to-not-overload-engineering-teams-ebpf-b034b26d7f1d)
+    * eBPF의 특징에 대해서 간략히 설명
+    * Kubernetes에서 eBPF로 telemetry 데이터를 수집하는 오픈소스 옵저버빌리티 솔루션인 Pixie 소개
+    * 클러스터에 설치해서 사용하는 방법 간략히 설명
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
