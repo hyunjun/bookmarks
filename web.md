@@ -243,6 +243,16 @@ Web
 * [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
 * [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
 * [TTFB로 서비스 성능 측정하기. TTFB(Time To First Byte)를 통해 알아보는 내… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/ttfb%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0-21baef090c7d)
+* [Optimize Time to First Byte](https://web.dev/optimize-ttfb/)
+  * 브라우저에 첫 바이트가 도착하는 시간인 TTFB(Time to First Byte)의 최적화 방법 설명
+  * TTFB는 서비스의 특징마다 다르기 때문에 Core Web Vitals에는 안 들어가 있지만
+    * 다른 매트릭에 영향을 주는 기본 매트릭이므로 적은 게 좋고
+    * 대략 75 퍼센타일인 800ms를 좋은 TTFB로 이야기
+  * TTFB는 lab 데이터보다는 실제 사용자의 데이터인 필드 데이터를 반드시 같이 봐야 하고
+  * TTFB를 최적하 하기 위해 `Server-Timing` 응답 헤더로 서버에서 걸린 시간에 대한 자세한 정보 제공 가능
+  * 결국 서버 로직의 최적화가 필요하지만 CDN을 사용하거나 마크업을 스트리밍으로 보내서 개선 가능
+    * 서비스 워커가 설정에 따라 지연시간을 높일 수도
+    * 또는 서버에서 마크업을 준비하는 동안 `103 Early Hints` 헤더를 제공해서 필수 리소스를 브라우저가 미리 다운로드 받게도 가능
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
@@ -896,7 +906,12 @@ Web
   * [oEmbed를 소개합니다](https://meetup.toast.com/posts/81)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
 * [Polyfill.io](https://polyfill.io/)
-  * [똑똑하게 브라우저 Polyfill 관리하기](https://toss.tech/article/smart-polyfills)
+  * [똑똑하게 브라우저 Polyfill 관리하기](https://toss.tech/article/smart-polyfills/)
+    * 폴리필은 브라우저 간 API의 지원 차이를 해결하기 위한 스크립트
+    * 보통은 `@babel/preset-env`를 이용해서 타켓 브라우저에 맞는 폴리필 생성 가능
+    * 하지만 이 경우 전체 스크립트가 커지므로 최신 브라우저에서도 불필요한 코드를 받게 되는데
+      * Polyfill.io를 이용하면 `User-agent`를 보고 동적으로 폴리필을 내려줄 수 있음
+    * Toss에서는 `core-js`와 `browserslist`를 이용해서 `User-agent`로 폴리필을 만드는 스크립트를 작성, 서버에 넣거나 엣지 함수에 배포해서 운영
 * [Polymer Project](https://www.polymer-project.org)
   * [github.com/polymer](https://github.com/polymer)
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
