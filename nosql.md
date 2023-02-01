@@ -126,7 +126,24 @@ NoSQL
   * [CockroachDB 클러스터 가용성 시험](https://www.sauru.so/blog/availablility-of-cockroach/)
 * [카크로치디비 컨트리뷰트](https://marsettler.com/docs/stable/ko/contribute-to-cockroachdb.html)
 * [Cockroach Labs Announces CockroachDB Serverless](https://www.infoq.com/news/2021/10/cockroachdb-serverless/)
-* [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/)
+* [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking)
+  * 데브시스터즈에서 2021년 쿠키런: 킹덤이 36시간 장애가 났을 때 복구작업을 한 이야기
+  * CockroachDB를 쓰고 있고 충분히 준비했었지만 예상 이상으로 사용자가 늘어나면서 데이터베이스 스토리지가 차기 시작
+    * 확장 작업을 하던 중 설정 실수로 데이터베이스 노드의 절반 이상이 다운
+  * CockroachDB는 Raft를 사용하는데 설정 실수로 인해서 일관성을 지키지 못하게 되고 서비스 장애 발생
+  * CockroachDB의 서포트도 받았지만, Cockroach DB측에서는 복구할수 없으니 스냅샷으로 복원을 하라는 권고
+    * 최신 데이터를 그대로 복구해야 한다고 생각하고 복구 할 수 있을거라는 생각
+    * CockroachDB의 저장 구조를 파보기 시작해서 저장된 파일의 파싱방법을 알아내고
+    * 여기서 데이터를 복구할 수 있다고 판단 후 CSV로 변환해서 정합성을 맞추는 작업을 반복하면서 AWS의 인스턴스를 대부분 끌어다 작업한 후에 복구
+* [CockroachDB in Production](https://tech.devsisters.com/posts/cockroachdb-in-production/)
+  * 데브시스터즈가 쿠키런 킹덤에서 데이터베이스로 CockroachDB를 사용한 경험 정리
+  * Google Spanner에서 영감을 받아 오픈소스로 만든 CockroachDB
+    * PostgreSQL과 호환되고 SERIALIZABLE 트랜잭션, 수형 확장성, 멀티 리전 클러스터 지원
+    * 쿠키런 킹덤 오픈 전 CockroachDB, Aurora, DynamoDB를 비교, 성능이 좋으면서 확장 가능성이 높고 비용도 싸다고 판단, CockroachDB 선택
+    * 관계형 데이터베이스처럼 보이지만 Key-Value 스토어
+    * Range로 나누어서 Raft 알고리즘을 통해 Leaseholder, Raft Leader를 선출해서 사용
+    * 프로덕션에서 운영 시 주의할 점도 정리
+      * 국내에서 이런 규모의 CockroachDB 경험이 흔치는 않아서 참고
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
