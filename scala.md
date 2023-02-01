@@ -2189,6 +2189,7 @@ Scala
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
 * [Ep 4: Scala 3 type classes - YouTube](https://www.youtube.com/watch?v=B2mTHpxw9JI)
 * [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
+* [Existentials, Universals, And Path Dependent Types For Practical, Safer Interfaces - YouTube](https://www.youtube.com/watch?v=gKmxhPTG5aY)
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
 * [Automatic UI generation with Scala 3's type class derivation | kavedaa programming blog](https://kavedaa.github.io/auto-ui-generation/auto-ui-generation.html)
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
