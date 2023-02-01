@@ -656,6 +656,7 @@ Business
 * [VIRTU](https://carpedm30.notion.site/VIRTU-5370f00be3494678ba8eb128b0806f69)
 * ["40분 지나면 버려진다"…회전초밥집 초밥의 비밀 정영효의 인사이드 재팬](https://v.daum.net/v/20230122083902406) 기술 자체가 중요하지 않다, 회사의 목적을 생각하고 그에 부함하는 걸 선택해서 사용하는 게 중요
 * [UX Research Lab 이야기(2) 프로토타입 평가받기 | by Sooyoung Jung | Jan, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/ux-research-lab-%EC%9D%B4%EC%95%BC%EA%B8%B0-2-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%ED%8F%89%EA%B0%80%EB%B0%9B%EA%B8%B0-d48750051446)
+* [직원 경험(Employee Experience)의 시대 > Insight | HCG](https://www.e-hcg.com/bbs/board.php?bo_table=gallery&wr_id=71)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
