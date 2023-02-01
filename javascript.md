@@ -1306,6 +1306,9 @@ Javascript
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
 * [Gmarket Design System](http://gds.gmarket.co.kr/)
+* [Helios Design System](https://helios.hashicorp.design/)
+  * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
+  * [design-system: Helios Design System](https://github.com/hashicorp/design-system)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 
 # ECMAScript
@@ -3855,6 +3858,10 @@ Javascript
     * 브라우저는 6ms의 여유를(60FPS를 위한 16ms) 가지게 하는 게 일반적이고 어떤 작업을 해야 할지를 위해 스케쥴링 필요
   * React팀이 만든 scheduler가 있지만 이를 렌더링이 아닌 이팩트에도 쓰기 위해 use-transition-effect 작성
   * 해당 패키지를 꼭 쓰지 않더라도 각 단계에서 비교할 수 있는 예제까지 제공하고 있어서 성능 비교 용이
+* [Concurrent React가 가져온 변화: 급하지 않은 렌더링 구분하기 | Lablup Blog](https://blog.lablup.com/posts/2023/01/29/concurrent-react/)
+  * React 18에 도입된 Concurrent 렌더러 설명
+  * Concurrent 렌더러의 도입으로 이제는 렌더링을 중단할 수 있게 되어서 급한 렌더링과 급하지 않은 렌더링을 구분해서 처리 가능
+  * 급하지 않은 렌더링을 위해 변화하는 상태에 `useDeferredValue`와 `useTransition`를 사용해서 별도로 렌더링을 처리하고 중단될 수 있게 구성하는 방법 설명
 * [Concept of React Scheduler :: Normal Coder](https://yeoulcoding.me/337)
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
