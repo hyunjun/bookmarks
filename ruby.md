@@ -54,6 +54,15 @@ Ruby
 * [**What causes Ruby memory bloat? – Joyful Bikeshedding**](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
 * [루비(Ruby) 버전 3.0.0, 병렬실행 및 타입설명 지원 - CIO Korea](https://www.ciokorea.com/news/177799) rector
 * [Ruby 3, concurrency and the ecosystem · Kir Shatrov](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
+* [Ruby 3.2’s YJIT is Production-Ready (2023)](https://shopify.engineering/ruby-yjit-is-production-ready)
+  * 글을 쓴 Maxime Chevalier-Boisvert가 2020년 Shopify의 Ruby & Rails Infrastucture팀에 합류
+    * 매니저에게 Ruby Just-In-Time(JIT) 컴파일러를 만들 수 있다고 제안, 매니저와 두 동료가 같이 참여
+    * CRuby의 YJIT 프로젝트 시작
+  * 고된 작업이었지만 railsbench에서 20%의 성능 향상
+    * CRuby 코어 팀에서 초대받으면서 2021년 말 Ruby 3.1의 일부로 포함
+    * YJIT팀이 커지면서 Ruby 3.2에 포함
+    * 성능도 좋아졌고 프로덕션에서 사용할 수준
+    * 2021년에 YJIT을 C99에서 Rust로 포팅하기로 결정, 유지보수도 쉬워졌고 이후 메모리 개선 작업으로 프로덕션에서도 쓸 수 있게 됨
 * [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
 * [Why Ruby has Symbols | dmitrytsepelev.dev](https://dmitrytsepelev.dev/why-has-ruby-symbols)
 * [(Not always) Cool methods to be careful when working with rails - DEV Community 👩💻👨💻](https://dev.to/jplethier/not-always-cool-methods-to-be-careful-when-working-with-rails-8cf)
