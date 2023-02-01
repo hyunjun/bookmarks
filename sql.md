@@ -1287,6 +1287,15 @@ SQL
   * fly.io에서 Litestream의 아이디어를 확장한 LiteFS 공개
   * Litestream이 SQLite WAL 파일을 복사한다면 LiteFS는 각 트랜잭션을 검사하고 전달하는 역할
   * 이를 위해서 FUSE를 선택해서 앱과 데이터베이스 파일 사이에 파일 시스템 프락시 같은 걸 넣어서 트랜잭션을 리플리카에 복사 가능
+  * [I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
+    * Kent C. Dodds가 자신의 사이트를 PostgreSQL을 이용해서 fly.io 이용중
+      * fly.io의 Litestream와 LiteFS를 알게 되어 SQLite로 이동
+    * 이전에는 멀티리전 데이터베이스를 위해 primary 리전에 직접 write
+      * SQLite는 로컬에 떠 있으므로 이 방법을 사용 불가
+      * fly.io에서 지원하는 `fly-replay` 응답 헤더를 통해 primary 리전에서 처리되도록 하는 방법 사용
+    * 단일 리전에서 동작하도록 마이그레이션 준비가 끝난 뒤에 LiteFS를 설정
+      * `fly-replay` 응답 헤더를 통해 멀티 리전 처리 가능
+      * 이 부분 외에는 멀티리전을 위한 코드의 영향은 없었음
 * [Litestream - Streaming SQLite Replication](https://litestream.io/)
   * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
   * [Litestream - SQLite 스트리밍 복제 도구 | GeekNews](https://news.hada.io/topic?id=6438)
