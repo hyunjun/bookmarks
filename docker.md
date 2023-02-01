@@ -826,6 +826,10 @@ Docker
 * [데이터베이스를 docker-compose로 구축하기(mysql, mongodb, redis)](https://www.wool-dev.com/database-with-docker-compose/)
 * [Docker, Spring, MySQL Docker Compose에서 Spring과 MySQL이 연결되지 않는 문제 - Communications link failure](https://velog.io/@wo_ogie/Docker-Spring-Boot-MySQL-Spring%EA%B3%BC-MySQL%EC%9D%B4-%EC%97%B0%EA%B2%B0%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AC%B8%EC%A0%9C-Communications-link-failure)
 * [What is Docker Compose? (with demo) - YouTube](https://www.youtube.com/watch?v=yFvO8Atszl8)
+* [Docker Compose: What’s New, What’s Changing, What’s Next | Docker](https://www.docker.com/blog/new-docker-compose-v2-and-v1-deprecation/)
+  * Docker Compose v2가 2022년 4월에 GA가 된 후 1년이 지나 올 6월에 v1은 지원 종료 예정
+  * 이제 docker-compose 대신 docker compose 명령어를 사용해서 v2로 전환 가능
+    * Docker Desktop의 설정에서 Compose V2를 활성화하면 docker-compose 별칭이 만들어져서 기존과 동일하게 v2를 사용 가능
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
@@ -1003,6 +1007,20 @@ Docker
 * [Scaling Kubernetes to multiple clusters and regions - DEV Community 👩💻👨💻](https://dev.to/danielepolencic/scaling-kubernetes-to-multiple-clusters-and-regionss-294b)
 * [Peter Babics - Python, Docker, Kubernetes, and beyond ?](https://www.youtube.com/watch?v=KF6lU_fm_Bg)
 * [Create and Watch Kubernetes Resources With Python](https://www.youtube.com/watch?v=ck-bB5tqZj4)
+* [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
+* [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
+* [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
+* [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
+* Kubernetes resources under the hood
+  * [Kubernetes resources management | by Shon Lev-Ran | Directeam](https://medium.com/directeam/kubernetes-resources-under-the-hood-part-1-4f2400b6bb96)
+  * [Kubernetes CPU Shares | by Shon Lev-Ran | Directeam](https://medium.com/directeam/kubernetes-resources-under-the-hood-part-2-6eeb50197c44)
+  * [Remove your CPU Limits | by Shon Lev-Ran | Directeam](https://medium.com/directeam/kubernetes-resources-under-the-hood-part-3-6ee7d6015965)
+  * Kubernetes에서 리소스를 어떻게 사용하지는 설명하는 글
+    * 주로 CPU의 request와 limit의 동작 방식을 설명
+  * CFS로 CPU를 스케줄링하는데 request를 설정했을 때 CFS에서 cpu share의 비율을 어떻게 계산하는지
+    * request 설정이 스케줄 링 외에 CPU 확보에 어떤 의미가 있는지 설명
+    * 스로틀링을 거는 limit 관점에서는 cpu period와 quota를 기준으로 어떤 식으로 스로틀링이 동작하는지 설명
+  * 결론은 성능을 향상하길 원한다면 limit을 걸지 않기를 권장
 * [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
   * [terraform-aws-coreos-kubernetes](https://github.com/kz8s/tack)
 * [GitHub 계정으로 Kubernetes 인증하기](https://dailyhotel.io/kubernetes-with-dex-integration-f456e22dd8e4)
@@ -1273,7 +1291,6 @@ Docker
 * [글로벌 칼럼 | 쿠버네티스가 풀지 못한 '앱 현대화' 문제의 나머지 절반 - ITWorld Korea](http://www.itworld.co.kr/news/159121)
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
-* [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
 * [Kubernetes Logging with Fluent Bit, Elasticsearch and Kibana | by Raju Dawadi | Medium](https://dwdraju.medium.com/kubernetes-logging-with-fluent-bit-elasticsearch-and-kibana-c4234f71e65b)
 * [Tail logs from multiple Kubernetes pods the easy way | by Geshan Manandhar | THE ICONIC Tech](https://theiconic.tech/tail-logs-from-multiple-kubernetes-pods-the-easy-way-71401b84d7f)
@@ -1379,7 +1396,6 @@ Docker
 * [Don't Write Your Own Kubernetes YAML Generator](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
 * [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
 * [Native-k8s(Ubuntu) - Sep 07 2021 - k8s](https://sysnet4admin.gitbook.io/k8s/version/native-k8s-ubuntu-sep-07-2021)
-* [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [KCD KOREA 2021 쿼리파이를 지탱하는 오픈소스 도구들 | 문성주 - YouTube](https://www.youtube.com/watch?v=43UQhxUbiOU)
 * [Kubernetes Crash Course for Absolute Beginners NEW - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 * [3 Reasons to Choose a Wide Cluster over Multi-Cluster with Kubernetes | by Alex Feiszli | Oct, 2021 | ITNEXT](https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644)
@@ -1476,7 +1492,6 @@ Docker
   * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
 * [Kubernetes Ingress 및 Egress 트래픽 관리를 단순화하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/how-to-simplify-kubernetes-ingress-egress-traffic-management/)
 * [NGINX, Opsani 및 Prometheus를 사용하여 클라우드에서 Kubernetes 비용 70% 절감 사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/reducing-kubernetes-costs-70-percent-in-cloud-nginx-opsani-prometheus/)
-* [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
 * [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 * [Kubernetes에 애플리케이션 서비스 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/deploying-application-services-in-kubernetes-part-1/)
 * [NGINX Kubernetes Gateway에 대해 꼭 알아야 할 5가지 사항 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/5-things-to-know-about-nginx-kubernetes-gateway/)
@@ -1486,7 +1501,6 @@ Docker
 * [Kubernetes 보안, 확장성, 안정성, 관찰 가능성 설계된 모던 앱 아키텍처의 예 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/announcing-version-1-0-0-nginx-modern-apps-reference-architecture/)
 * [NGINX를 사용하여 Kubernetes에서 TCP 및 UDP 트래픽 로드 밸런싱 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/load-balancing-tcp-and-udp-traffic-in-kubernetes-with-nginx/)
 * [DevOps Tutorials | Creating K8s Nginx deployment and Expose a service Node port | cloudlearnhub - YouTube](https://www.youtube.com/watch?v=h50eEo1k7KE)
-* [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
 * [Multi-Tenancy in Kubernetes](https://www.infoq.com/presentations/multi-tenancy-kubernetes/)
 * [Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends](https://www.infoq.com/articles/kubernetes-workloads-serverless-era/)
 * [Kubernetes .. DaemonSet .. Ensures that all(or Some) Nodes run a copy of a pod .. Tips for CKA exam - YouTube](https://www.youtube.com/watch?v=ZYCNSHgHwhc)
