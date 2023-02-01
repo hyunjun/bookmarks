@@ -168,6 +168,11 @@ Writing
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
+* [hermes: A document management system](https://github.com/hashicorp-forge/hermes)
+  * [Introducing Hermes, An Open Source Document Management System](https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system)
+    * HashiCorp 문서 관리 시스템 Hermes 공개
+    * Hermes은 Ember.js와 Golang으로 작성, PostgreSQL과 Algolia 사용
+    * Google Workspace를 지원하기 때문에 문서 작성을 Google Workspace에서 가능
 * [ko-translation-terms: 더 나은 번역을 위한 프로그래밍 용어 번역 용례집입니다](https://github.com/RanolP/ko-translation-terms)
 * [Mintlify | Continuous Documentation Platform](https://www.mintlify.com/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
