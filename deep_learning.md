@@ -1537,6 +1537,7 @@ Deep Learning
 # NeRF
 * [NeRF: 2D 이미지를 3D로 바꿔준다고요? - 모두의연구소](https://modulabs.co.kr/blog/nerf-from-2d-to-3d/)
 * [NeRF의 단점과 후속 연구 소개 - 모두의연구소](https://modulabs.co.kr/blog/nerf-followup/)
+* [NeRF 구현 톺아보기 (feat. Camera to World Transformation)](https://velog.io/@gjghks950/NeRF-%EA%B5%AC%ED%98%84-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-feat.-Camera-to-World-Transformation)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
