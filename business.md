@@ -1918,6 +1918,7 @@ Business
 * [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
 * [How To Transition From Being A Programmer to Project Manager Position | HackerNoon](https://hackernoon.com/how-to-transition-from-being-a-programmer-to-project-manager-position-op2j3ulg)
 * [What are non-functional requirements (NFRs) | Planio](https://plan.io/blog/non-functional-requirements-nfrs/)
+* [회사를 떠나며, 매니지먼트에 대한 회고](https://velog.io/@joosing/looking-back-on-management-leaving-the-company)
 
 # Sales
 * [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
