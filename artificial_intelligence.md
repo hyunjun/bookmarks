@@ -174,6 +174,7 @@ Artificial Intelligence
 * [인공지능, 머신러닝 연구가 현실과 멀어지고 고립되는 이유 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/ml-isolation/#%EC%95%9E%EC%9C%BC%EB%A1%9C%EB%8A%94)
 * [요즘 핫한 제너레이티브AI.. 시장을 뒤흔든 글로벌 서비스 10개 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/generativeai20221201) Generative AI
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 1편- 지표 선정 및 평가 데이터/환경 구축 | Architecture 101](https://architecture101.blog/2023/01/19/ai-%EB%AA%A8%EB%8D%B8-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B2%80%EC%A6%9D-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B3%B5%EA%B0%9C-%EA%B5%AD%EB%AF%BC%EC%95%88%EC%A0%84-%ED%99%95%EB%B3%B4-%EB%B0%8F/)
+* [쉽게 살 수 있을까 ? :: AI 서비스가 Powerful 한 이유, 결국 돈 문제](https://hl1itj.tistory.com/251)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
