@@ -404,8 +404,11 @@ Book
 * (NOT YET) [나는 독일인입니다](http://www.catholicnews.co.kr/news/articleView.html?idxno=32397)
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 * (NOT YET) [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
+  * 한라
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
+* (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
+  * 우당
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1034,6 +1037,10 @@ Book
   * 한라 558.309-김25ㅅ 우당 문558.309-김225ㅅ
 * (NOT YET) [30년 전쟁: 오늘의 유럽을 낳은 최초의 영토 전쟁 1618-1648](https://www.yna.co.kr/view/AKR20110615079500005)
   * 한라 920.42-웨78ㅅ
+* (NOT YET) [만화로 배우는 불멸의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B7172444748)
+  * 우당
+* (NOT YET) [만화로 배우는 요리의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B6219803227)
+  * 우당
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기

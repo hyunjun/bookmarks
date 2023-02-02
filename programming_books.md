@@ -654,6 +654,7 @@ Programming Books
 * (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook)
   * 한라
 * (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
+  * 탐라
 
 # Android
 
@@ -789,6 +790,8 @@ Programming Books
 * (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
   * 탐라
 * (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj/)
+  * 우당
+* (NOT YET) [마이크로서비스 아키텍처 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B9403623796)
   * 우당
 
 # C
@@ -1100,7 +1103,9 @@ Programming Books
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
   * 우당 문005.7-우831ㄷ
 * (NOT YET) [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
+  * 탐라
 * (NOT YET) [실시간 데이터 파이프라인 아키텍처](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309148202)
+  * 탐라
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1803,6 +1808,7 @@ Programming Books
   * [게임산업 이면의 무자비한 이야기, 그리고 여운.. : 네이버블로그](https://blog.naver.com/drvoss/222860583517)
 * (NOT YET) [레트로 게임 개발 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307083643)
 * (NOT YET) [우리가 사랑한 한국 PC 게임](https://jhrogue.blogspot.com/2023/02/pc.html)
+  * 탐라
 
 # Git
 
@@ -2104,6 +2110,7 @@ Programming Books
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
 * (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
+  * 탐라
 
 ## Angular
 
@@ -2643,6 +2650,7 @@ Programming Books
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
+  * 한라
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -2778,8 +2786,10 @@ Programming Books
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086&start=slayer)
+  * 탐라
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
 * (NOT YET) [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
+  * 탐라
 
 # Math
 
@@ -3513,6 +3523,9 @@ Programming Books
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
 * (NOT YET) [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
+  * 탐라
+* (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
+  * 우당
 
 # Spark
 
