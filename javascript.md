@@ -2244,6 +2244,8 @@ Javascript
   * [SolidJS와 함께 되짚어보는 반응형 프로그래밍 : NHN Cloud Meetup](https://meetup.toast.com/posts/326)
   * [Solid JS is a game changer - YouTube](https://www.youtube.com/watch?v=MgC-ESbahR0)
   * [The World Beyond Components, by Ryan Carniato - YouTube](https://www.youtube.com/watch?v=-CrsHsBZFg4)
+  * [Solid.js feels like what I always wanted React to be | TypeOfNaN](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
+    * [(번역) Solid.js는 내가 항상 바랬던 React의 모습입니다 | by Jung Han | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-solid-js%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EB%B0%94%EB%9E%AC%EB%8D%98-react%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9E%85%EB%8B%88%EB%8B%A4-922c8b83a93d)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
