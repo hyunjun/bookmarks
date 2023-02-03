@@ -626,6 +626,8 @@ Book
   * 한라 325.19-사45ㅇ 탐라 문325.19-사45ㅇ 우당 문325.19-사45ㅇ
   * [창업 이후 가장 큰 도움을 받은 책은 바로 '이것'](https://eopla.net/magazines/291)
 * (NOT YET) [더 골 The Goal (만화판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67216907&start=slayer)
+* (NOT YET) [무조건 심플](https://brunch.co.kr/@wednesday-plan/33)
+  * 한라 325.1-코86ㅁ 탐라 문325.1-코819ㅁ 우당 문325.1-코819ㅁ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
