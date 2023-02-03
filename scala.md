@@ -1107,6 +1107,7 @@ Scala
     * ZIO Schema [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
     * [zio-sql: Type-safe, composable SQL for ZIO applications](https://github.com/zio/zio-sql)
       * [ZIO SQL - type-safe SQL for ZIO applications](https://scalac.io/blog/zio-sql-type-safe-sql-for-zio-applications/)
+      * [Peeking Inside the Engine of ZIO SQL by Jaroslav Regec - YouTube](https://www.youtube.com/watch?v=Ezs7dMbbGlY)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
