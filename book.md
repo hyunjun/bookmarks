@@ -705,6 +705,9 @@ Book
   * [똑똑한 사람들의 멍청한 선택](https://github.com/hyunjun/bookmarks/blob/master/books/misbehaving.md)
   * [똑똑한 사람들의 멍청한 선택. Misbehaving: The Making of Behavioural… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%98%91%EB%98%91%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%84%A0%ED%83%9D-fad860956a66)
   * [똑똑한 사람들의 멍청한 선택](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%A9%8D%EC%B2%AD%ED%95%9C-%EC%84%A0%ED%83%9D)
+* (NOT COMPLETED) [블랙 스완 The Black Swan](http://daankal.com/rbm/NT01.html)
+  * ★★☆☆☆ 2023.01.30~02.01
+  * 한라 327.04-탈294ㅂ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
   * 탐라
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
@@ -720,8 +723,6 @@ Book
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
   * 탐라
-* (NOT YET) [블랙 스완 The Black Swan](http://daankal.com/rbm/NT01.html)
-  * 한라 327.04-탈294ㅂ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
