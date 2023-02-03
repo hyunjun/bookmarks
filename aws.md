@@ -1569,6 +1569,7 @@ AWS
 * [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [How to build a robust content library with AWS AI/ML services to moderate everything at scale? | LinkedIn](https://www.linkedin.com/pulse/how-build-robust-content-library-aws-aiml-services-wong/)
 * [IoT 디바이스에서 쉽고 편리하게 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/iot-device-ml-inference/)
+* [사물인터넷(IoT) 디바이스에서 기계학습(ML)을 이용한 이미지 분류하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/iot-device-ml-image-classification/)
 * [Amazon EKS기반의 Kubeflow와 Amazon EFS를 사용한 기계 학습 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-with-kubeflow-on-amazon-eks-with-amazon-efs/)
 * [10분만에 따라잡는 AWS 머신러닝 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3U4KlNCg7BNctpJMMjUV8)
 * [AWS를 이용한 MLOps 구축 사례 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mlops-use-case/)
