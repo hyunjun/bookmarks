@@ -1141,6 +1141,9 @@ Business
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
+* [The Discipline of Innovation](https://hbr.org/2002/08/the-discipline-of-innovation) Peter F. Drucker
+  * "무엇보다 혁신은 천재라기보다는 일이다. 그것은 지식을 필요로 한다. 그것은 종종 독창성을 필요로 한다. 그리고 그것은 집중력을 필요로 한다. 분명히 다른 사람들보다 더 재능 있는 혁신가들이 있지만, 그들의 재능은 잘 정의된 분야에 있다. 실제로, 혁신자들은 두 개 이상의 영역에서 일하는 경우가 거의 없다. 그의 모든 체계적인 혁신적인 업적에도 불구하고, 토마스 에디슨은 전기 분야에서만 일했습니다. 예를 들어, 씨티은행과 같은 금융 분야의 혁신자는 의료 분야의 혁신에 착수하지 않을 것이다."
+  * "Above all, innovation is work rather than genius. It requires knowledge. It often requires ingenuity. And it requires focus. There are clearly people who are more talented innovators than others, but their talents lie in well-defined areas. Indeed, innovators rarely work in more than one area. For all his systematic innovative accomplishments, Thomas Edison worked only in the electrical field. An innovator in financial areas, Citibank for example, is not likely to embark on innovations in health care."
 * [창의성을 높이는 방법에 대하여](http://sungmooncho.com/2015/04/28/creativity/)
 * [다윈의 노트에서 찾은 창의성의 비밀](http://ppss.kr/archives/37383)
 * [버즈피드 스캇 램…“창의성을 넓히려면 데이터를 활용하라”](http://www.venturesquare.net/586319)
