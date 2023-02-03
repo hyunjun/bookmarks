@@ -4524,6 +4524,7 @@ Javascript
   * [Introduction | Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs)
     * [Next.js 공식 'Foundations' 코스 공개 | GeekNews](https://news.hada.io/topic?id=6197)
   * [Introduction To NextJS 13 - Basics and Navigation - YouTube](https://www.youtube.com/watch?v=Gn9hycALSfQ)
+  * [Next13 Introduction - YouTube](https://www.youtube.com/watch?v=vVylPFBoicI)
   * [Next.js Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=qwhMyVVnmKM)
   * [간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
   * [Next.js, Razzle, CRA. Why you should use them for a next project](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
