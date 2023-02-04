@@ -4646,6 +4646,7 @@ Javascript
   * [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
   * [Web: Next.js 기초 알아보기 (Page, Pre-Rendering) | by Heechan | HcleeDev | Jan, 2023 | Medium](https://medium.com/hcleedev/web-next-js-%EA%B8%B0%EC%B4%88-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-page-pre-rendering-864c3f4dad5b)
   * [Next.js 제대로 알기 · Json Media](https://json.media/blog/proper_understading_of_nextjs)
+  * [Web: Next.js Link와 Prefetch 과정 파헤쳐보기 | by Heechan | HcleeDev | Feb, 2023 | Medium](https://medium.com/hcleedev/web-next-js-link%EC%99%80-prefetch-%EA%B3%BC%EC%A0%95-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EA%B8%B0-44e22ace13e7)
   * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
     * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
