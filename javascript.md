@@ -1690,8 +1690,10 @@ Javascript
   * [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
 * asm.js
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
-* [astro: Keep your eyes to the skies, astronauts!](https://github.com/snowpackjs/astro)
+* [Astro | Build faster websites](https://astro.build/)
+  * [astro: Build faster websites with Astro's next-gen island architecture 🏝✨](https://github.com/withastro/astro)
   * [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
+  * [아일랜드 아키텍쳐](https://velog.io/@composite/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
