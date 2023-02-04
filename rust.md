@@ -95,6 +95,7 @@
   * [Part 6 : Traits](http://blog.madhukaraphatak.com/rust-scala-part-6/)
   * [Part 7 : Type Classes](http://blog.madhukaraphatak.com/rust-scala-part-7/)
 * [Scala and Rust interoperability via JNI – Avast Engineering](https://engineering.avast.io/scala-and-rust-interoperability-via-jni/)
+* [How to use a Rust lib inside the Scala app | by MOIA Engineering | Jan, 2023 | Medium](https://moiadev.medium.com/how-to-use-a-rust-lib-inside-the-scala-app-932637c47784)
 * [변수의 소유권에 대하여..](https://medium.com/intro-to-rust/%EB%B3%80%EC%88%98%EC%9D%98-%EC%86%8C%EC%9C%A0%EA%B6%8C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-67583e8aa43a)
 * [6 useful Rust macros that you might not have seen before](https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5)
 * [10 Key Learnings in Rust after 30,000 Lines of Code](https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19)
