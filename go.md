@@ -343,6 +343,7 @@ Go
 * [Go / Golang e Validation Request - YouTube](https://www.youtube.com/watch?v=xRI4NkLhYmE)
 * [7 Easy functional programming techniques in Go](https://morioh.com/p/f3bc987600ad)
 * [Ultimate Go: Advanced Engineering - YouTube](https://www.youtube.com/playlist?list=PLADD_vxzPcZC0TWwc1ZNV8KALyeNVC3cA)
+* [섣부르지 않은 최적화 기법](https://velog.io/@skynet/%EC%84%A3%EB%B6%80%EB%A5%B4%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
