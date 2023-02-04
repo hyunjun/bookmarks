@@ -207,6 +207,9 @@ Programming Books
 * [우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기](https://www.cloudbooks.co.kr/single-post/2018/08/28/%EC%9A%B0%EB%A6%B0-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%99%94%EB%8B%A4)
   * ★★★☆☆ 2023.01.03~04 내용이 안 좋아서가 아니라 대부분 아는 이야기여서 큰 감흥은 없었지만 후반부의 자세한 생활에 대한 설명 부분이 (비록 몇 년 지나 디테일은 다르겠으나) 좋았음
   * 한라 325.33-송73ㅇ 탐라 문325.211-송72ㅇ 우당 문325.33-송72ㅇ
+* (NOT COMPLETED) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
+  * ★★★☆☆ 2023.02.02~04
+  * 우당 문004.67-레49ㅎ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -267,8 +270,6 @@ Programming Books
   * 한라 004-이15ㅋ 탐라 개004-이15ㅋ 우당 문004-이16ㅋ
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
   * 탐라 문005.74-두61ㄷ
-* (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
-  * 우당 문004.67-레49ㅎ
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
   * 탐라 문005.76-부211ㄱ
   * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
