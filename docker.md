@@ -1609,6 +1609,7 @@ Docker
 * [OpenInfra & Cloud Native Days Korea 2022를 다녀왔습니다](https://engineering.linecorp.com/ko/blog/openinfra-cloud-native-days-korea-2022-recap)
 * [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://www.youtube.com/watch?v=SWD__6nhLic)
   * [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://2022.openinfradays.kr/session/3)
+* [Safe Kubenetes Environment with AppArmor - Hoon Jo | UbuCon Asia 2022 - YouTube](https://www.youtube.com/watch?v=BFnrd1OJkgk)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
