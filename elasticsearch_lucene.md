@@ -677,6 +677,7 @@ ElasticSearch - Lucene
   * [Typesense를 활용한 검색용 API 서버 그리고 데모용 웹페이지 만들기 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/15/creating-an-api-server-for-search-using-typesense-and-a-web-page-for-demo.html)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 * [Zinc 검색 엔진 - 경량 ElasticSearch 대체제 | GeekNews](https://news.hada.io/topic?id=5490)
+* [ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client](https://github.com/lambdaworks/zio-elasticsearch)
 
 ## Library dump
 * [elasticdump - Tools for moving and saving indicies](https://www.npmjs.com/package/elasticdump)
