@@ -544,6 +544,7 @@ Android
 * [Android view에서 ViewModel을 호출했는데, UnitTest는 어떻게 할까?](https://thdev.tech/android/2021/10/23/Android-ViewModel-ClickEvent-UnitTest/)
 * [올리브영 안드로이드 테스트앱 자동배포하기](http://tech.oliveyoung.co.kr/tech/2107152128/)
 * [Mockito로 Unit테스트를 해 보자](https://developer88.tistory.com/260)
+* [안드로이드 테스트 자동화 기초](https://cliearl.github.io/posts/android/android-test-basic/)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 
 # Tutorial
