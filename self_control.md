@@ -15,6 +15,7 @@ Self Control
 * [직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://ppss.kr/archives/48629)
 * [데이빗 브룩스 인터뷰 직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://newspeppermint.com/2015/04/19/road-to-character/)
 * [당신에겐 '직장'은 있어도 '직업'은 없을 수도 있습니다 | 김호 더랩에이치 대표 #성장 #자기계발 #일잘러 - YouTube](https://www.youtube.com/watch?v=600GX4LtZe4)
+* [지위와 특권은 자신을 spoil시킬수 있다](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A7%80%EC%9C%84%EC%99%80-%ED%8A%B9%EA%B6%8C%EC%9D%80-%EC%9E%90%EC%8B%A0%EC%9D%84-spoil%EC%8B%9C%ED%82%AC%EC%88%98-%EC%9E%88%EB%8B%A4-1-%EC%96%BC%EB%A7%88%EC%A0%84-%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C-activity-7027787685809332224-5AJd/) 바로 위 link와 맥락이 닿는 좋은 이야기
 * [노력은 재능을 이길 수 없다](http://www.huffingtonpost.kr/wonseok-lee/story_b_7683792.html)
 * [범재가 천재에게 안 꿀리고 더 오래 살아남는 법](https://drive.google.com/open?id=1b4vXBDB-8qwDedwVkB_mzMoJR7fnNDbn)
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
