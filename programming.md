@@ -1397,6 +1397,7 @@ Programming
 * [Building Services at Airbnb, Part 4 | by Junjie Guan | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
 * [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
 * [비즈니스와 좋은 설계 사이에서 균형 잡기 | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
+* [**소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건 | 요즘IT**](https://yozm.wishket.com/magazine/detail/1884/)
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
