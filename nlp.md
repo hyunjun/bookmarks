@@ -1122,6 +1122,7 @@ NLP
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [kogpt: KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)](https://github.com/kakaobrain/kogpt) GPT-3 기반의 한국어 특화 AI 언어 모델
   * [if(kakao) 2021](https://if.kakao.com/session/48)
+  * [ChatGPT? 카카오 KoGPT API 개념과 코딩 맛보기 | 웹으로 말하기](https://mytory.net/archives/13805)
   * [kogpt at web-app](https://github.com/noah-ko/kogpt/tree/web-app)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
