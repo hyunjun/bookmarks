@@ -606,6 +606,7 @@ Python
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * [This Is When Keyword Arguments Are Really Useful // Python Tips - YouTube](https://www.youtube.com/watch?v=-olA2AT4vjY)
+  * [Passion is like genius; a miracle. - 파이썬 positional only, keyword only argument](https://mkseo.pe.kr/blog/?p=2764)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
   * [**파이썬에서 arguments로** \***(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
@@ -4904,6 +4905,8 @@ Python
   * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
   * [Uncluster Your Data Science Using Vaex • Maarten Breddels & Jovan Veljanoski • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ykxhj9xJdWY)
   * [Juan Luis Cano Rodríguez - Beyond Pandas: The Great Python Dataframe Showdown | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=GvYeBHNGlvM)
+* [ydata-profiling](https://ydata-profiling.ydata.ai) provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution
+  * [ydata-profiling: Create HTML profiling reports from pandas DataFrame objects](https://github.com/ydataai/ydata-profiling)
 
 # Parser
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
