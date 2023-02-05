@@ -327,6 +327,7 @@ Web
 * [아파치 2.4에 추가된 filesize 식을 이용해서 특정 크기를 넘어서는 파일 접근 차단하기](http://javacan.tistory.com/entry/forbid-large-size-file-access-using-filesize-in-apache24)
 * [아파치 모듈로 개발된 API 서버, 이음 베이론을 소개합니다](http://bigmatch.i-um.net/2013/11/20/ium-api-veyron/)
 * [Common Apache Errors | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/common-apache-errors)
+* [클라우드플레어 DNS 프록시 사용할 때 아파치 로그에 IP 주소 제대로 찍히게 하기 | 웹으로 말하기](https://mytory.net/archives/13708)
 
 # Authentication
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
