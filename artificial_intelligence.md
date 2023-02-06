@@ -176,6 +176,8 @@ Artificial Intelligence
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 1편- 지표 선정 및 평가 데이터/환경 구축 | Architecture 101](https://architecture101.blog/2023/01/19/ai-%EB%AA%A8%EB%8D%B8-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B2%80%EC%A6%9D-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B3%B5%EA%B0%9C-%EA%B5%AD%EB%AF%BC%EC%95%88%EC%A0%84-%ED%99%95%EB%B3%B4-%EB%B0%8F/)
 * [쉽게 살 수 있을까 ? :: AI 서비스가 Powerful 한 이유, 결국 돈 문제](https://hl1itj.tistory.com/251)
 * [AI, 이번엔 다릅니다 – 스타트업 vs 기존 기업 (번역) – 이바닥늬우스](https://ebadak.news/2023/02/05/ai-startup-vs-incumbent-value/)
+* [SaaS 프로덕트의 성공을 견인하는 Fly-wheel, 그리고 생성형 인공지능 애플리케이션 | by Coxwave | Coxwave 블로그 | Jan, 2023 | Medium](https://medium.com/coxwave%EB%B8%94%EB%A1%9C%EA%B7%B8/saas-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-fly-wheel-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-a40f35a5e40a)
+* [NVIDIA’s New AI: Nature Videos Will Never Be The Same! - YouTube](https://www.youtube.com/watch?v=r2zv3sNsnqo)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
