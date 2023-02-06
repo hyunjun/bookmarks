@@ -1575,6 +1575,8 @@ App
   * [더 효과적인 커뮤니케이션을 위한 7가지 Slack 팁 | Disquiet\*](https://disquiet.io/@dave/makerlog/3529)
   * [무료 슬랙 뉴스봇 만들기](https://onboardingsohard.ghost.io/newsbot/)
   * [자동화 끝판왕 슬랙봇 만들기(입문)](https://brunch.co.kr/@cocosociety/7)
+  * reminder e.g. `/remind [receiver] "[msg]" Feb 20th 9AM every two weeks`
+    * [How do I get slack to remind me every fortnight from next Saturday - Stack Overflow](https://stackoverflow.com/questions/43288503/how-do-i-get-slack-to-remind-me-every-fortnight-from-next-saturday)
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
 * [Zulip](https://zulip.com/)
