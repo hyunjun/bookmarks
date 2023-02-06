@@ -295,6 +295,7 @@ SQL
 * [1 ~ 4세대 DBMS로 보는 데이터베이스 발전 과정과 양상에 대해 정리하기 | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/1-4%EC%84%B8%EB%8C%80-dbms%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EC%96%91%EC%83%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-b94c1d93914d)
 
 # Library
+* [alasql.org](http://alasql.org/)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [awesome-db-tools: Everything that makes working with databases easier](https://github.com/mgramin/awesome-db-tools)
 * [bytebase: Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com ](https://github.com/bytebase/bytebase)
