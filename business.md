@@ -598,6 +598,7 @@ Business
 * [면접에서 문제 해결 능력 보여주기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250779) MBA, 면접하고만 관계있는 이야기는 아님
 * [전략 단순함이 중요한 4가지 이유](http://moneyman.kr/archives/1435)
 * [현명해야 가능한 단순화 하는 능력 - 인생지름길](https://lifeshortcut.kr/%ED%98%84%EB%AA%85%ED%95%B4%EC%95%BC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8B%A8%EC%88%9C%ED%99%94-%ED%95%98%EB%8A%94-%EB%8A%A5%EB%A0%A5/)
+* [단순한 제품을 만든다는 것에 대해 – 조성문의 블로그](https://sungmooncho.com/2023/02/05/how-to-build-a-simple-product/) kayak 이야기
 * [애플 때문에 몰락한 회사가 애플에 맞서는 방법 - T Times](http://www.ttimes.co.kr/view.html?no=2022031417397741570) 가민 Garmin 확고한 핵심역량, 핵심역량 확장
 * [애플의 경쟁력은 어디에서 오나 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/315)
 * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://www.folin.co/story/2104)
@@ -1652,6 +1653,7 @@ Business
 * [직장 충성도 향상을 위해 리더가 해야 할 7가지](https://brunch.co.kr/@vigorous21/118)
 * [2022년 ‘리더십’ 및 ‘팀’에 대한 성찰. 올해 1월 갑자기 임신 사실을 알았고, 출산과 육아를 하고 있다… | by Mijeong (Rachel) | Dec, 2022 | Medium](https://mjspring.medium.com/2022%EB%85%84-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B0%8F-%ED%8C%80-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B1%EC%B0%B0-b0d8ca9707f3)
 * [디즈니의 밥 아이거가 직원과 고객 마음을 얻는 방법 - 티타임즈](https://www.ttimes.co.kr/article/2023011717437713308)
+* [**반즈 & 노블의 놀라운 턴어라운드에서 배울 수 있는 것 | GeekNews**](https://news.hada.io/topic?id=8410) `Top의 좋은 결정을 대신할 수 있는 것은 없고, 어리석은 결정에 대한 해결책도 없다`
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
