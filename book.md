@@ -1461,8 +1461,10 @@ Book
 * (NOT YET) [여행선언문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292070879)
 * (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
   * [유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
+    * ★★★☆☆ 2023.02.06
     * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
   * [유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
+    * 한라 982.02-유58ㅇ-2 탐라 문982.02-유59ㅇ-2 우당 문982.02-유59ㅇ-2
 * (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)
 * (NOT YET) [인문 여행자, 도시를 걷다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281626217)
   * 한라 001.3-김14이 탐라 문001.3-김14ㅇ 우당 문001.3-김14ㅇ
