@@ -57,7 +57,6 @@ Nomad & Remote
 * [4 Ways To Make Strong Connections As A Remote Worker](https://blog.trello.com/remote-work-connections)
 * [브런치북 슬기로운 외노자생활](https://brunch.co.kr/brunchbook/beyondborders)
 * ['디지털 노마드' 삶에 대해 아무도 말하지 않는 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/240644)
-* [재택근무에 대한 법적 권리 인정](https://www.traw.io/blog/recognition-of-your-legal-right-to-work-from-home)
 * [워크라이프: 해외 노동자들을 유혹하는 디지털 노마드 비자 - BBC News 코리아](https://www.bbc.com/korean/international-62062093)
 * [외국 한달 살기 하기 좋은 도시 & 한달 비용 총정리 8 | 지큐 코리아 (GQ Korea)](https://www.gqkorea.co.kr/2018/05/24/%EC%99%B8%EA%B5%AD%EC%97%90%EC%84%9C-%ED%95%9C%EB%8B%AC-%EC%82%B4%EC%95%84%EB%B3%BC%EA%B9%8C/)
 * [47 DIGITAL NOMAD VISAs Offered by Countries in 2022 (UPDATED)](https://www.travelinglifestyle.net/countries-offering-digital-nomad-visas-and-residency/)
@@ -337,6 +336,7 @@ Nomad & Remote
 * [베트남으로 SW R&D 센터를 옮긴 이유](https://medium.com/@yumenohosi/%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%9C%BC%EB%A1%9C-sw-r-d-%EC%84%BC%ED%84%B0%EB%A5%BC-%EC%98%AE%EA%B8%B4-%EC%9D%B4%EC%9C%A0-bea08de7681b)
 
 # Working from home
+* [재택근무에 대한 법적 권리 인정](https://www.traw.io/blog/recognition-of-your-legal-right-to-work-from-home)
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)
 * [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
 * [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/#disqus_thread)
@@ -375,3 +375,4 @@ Nomad & Remote
 * [글로벌 개발팀이 협업하는 방법 · Present](https://present.do/presentations/626a1025d174897e7698ed9e?page=18) 비대면근무
 * [출근과 재택, 어떻게 결정할 것인가.](https://brunch.co.kr/@hyungsukkim/166)
 * [원격 근무를 위한 리더십이 필요한 이유](https://www.traw.io/blog/why-you-need-leadership-for-remote-work)
+* [재택근무 보편론 — 보통의 언어](https://www.saeyoonjeong.com/blog/remote-work)
