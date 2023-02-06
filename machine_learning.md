@@ -1354,6 +1354,7 @@ Machine Learning
 * [AI Fintech 스타트업의 IDC 네트워크 인프라를 구성하는 기술 (FEAT. Qraft) | by Ryan Kim | Dec, 2022 | Medium](https://equus3144.medium.com/ai-fintech-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-idc-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-feat-qraft-70231e8e0c22) MLOps는 아니고 인프라 이야기지만 내용 흐름상 여기에 입력
 * [Self-serve feature platforms: architectures and APIs](https://huyenchip.com/2023/01/08/self-serve-feature-platforms.html)
   * [MLOps KR | 제가 애정하는 Chip Huyen이 MLOps 피쳐 플랫폼에 대한 글([https://huyenchip.com//2023/01/08/self-serve-feature-platforms.html](https://h... | Facebook](https://www.facebook.com/groups/MLOpsKR/posts/1789196731467584)
+* [ML Ops 궁극 가이드: MLOps 및 DevOps의 개념과 차이점 이해](https://techscene.tistory.com/9)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
