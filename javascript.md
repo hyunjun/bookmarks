@@ -5308,6 +5308,8 @@ Javascript
 * [11 Tips That Make You a Better Typescript Programmer - DEV Community 👩💻👨💻](https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1)
   * [(번역)더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁](https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer)
 * [변성 - 공변성, 반공변성, 이변성, 무변성](https://blog.naver.com/pjt3591oo/222992549442) variance
+* [Handling errors like a pro in TypeScript | by Kolby Sisk | Dec, 2022 | Udacity Eng & Data](https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991)
+  * [타입스크립트에서 전문가처럼 에러 처리하기. 원문… | by Jisu Yuk | Feb, 2023 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-39d14f5cc6a2)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
