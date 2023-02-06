@@ -1365,6 +1365,7 @@ AWS
 * [Serverless: Develop & Monitor Apps On AWS Lambda](https://www.serverless.com/)
   * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
+  * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
