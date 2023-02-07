@@ -2450,6 +2450,7 @@ Programming Books
   * ★★★★☆ 2022.05.08~09
   * [빠르고 유연한 린스타트업 경영, 대기업의 창의적 혁신에도 유용하다 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/7397/ac/magazine)
   * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
+  * [린스타트업의 한계](https://brunch.co.kr/@doberman/43)
 * 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
   * 탐라 문325.1-벨58ㅇ
   * ★★★★☆ 2022.05.31~06.01
