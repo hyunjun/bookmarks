@@ -4125,6 +4125,7 @@ Javascript
 * [Social Networking Website in React.js And Node.js Part-1 Demo - YouTube](https://www.youtube.com/watch?v=NRxWHV4Oqwo)
 * [How to Auth Login with GitHub and Google in a React and Backend App | by L Javier Tovar | Jan, 2023 | Bits and Pieces](https://blog.bitsrc.io/how-to-auth-login-with-github-and-google-in-a-react-and-backend-app-77423565b506)
 * [자바스크립트 컨텍스트로 이해하는 함수형 컴포넌트](https://blog.naver.com/pjt3591oo/222990272706)
+* [리액트의 동시성(Concurrent) 모드와 useWorker :: 멀티쓰레드](https://banjubu.tistory.com/231)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
