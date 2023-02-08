@@ -1450,6 +1450,17 @@ Book
 * [나도 한번은 발트 3국, 발칸반도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296820589)
   * ★★★☆☆ 2022.08.21
   * 탐라 문929.902-박67ㄴ 우당 문929.902-박67ㄴ
+* [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
+  * [유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
+    * ★★★☆☆ 2023.02.06
+    * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
+  * [유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
+    * ★★★☆☆ 2023.02.06~07
+    * 한라 982.02-유58ㅇ-2 탐라 문982.02-유59ㅇ-2 우당 문982.02-유59ㅇ-2
+    * [텍스트(text) 콘텍스트(context) ](images/yusimin_travellog_in_cities_of_europe_0.jpg)
+    * ['콘텍스트'를 이야기하려면 '텍스트'를 먼저 제시해야... '텍스트'를 보지 않은 사람은 '콘텍스트'의 가치를 알기 어렵다](images/yusimin_travellog_in_cities_of_europe_1.jpg)
+* [벌거벗은 세계사 : 전쟁편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298690783)
+  * ★★★☆☆ 2023.02.07~08
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
@@ -1461,15 +1472,6 @@ Book
 * (NOT YET) 특별하게 제주 :SNS 속 핫 스폿부터 SNS에 없는 히든 스폿까지
 * (NOT YET) [송일준 PD 제주도 한 달 살기](http://www.jejuilbo.net/news/articleView.html?idxno=164569)
 * (NOT YET) [여행선언문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292070879)
-* (NOT YET) [유시민의 유럽 탐사기 '유럽 도시 기행' | 연합뉴스](https://www.yna.co.kr/view/AKR20190704078300005)
-  * [유럽 도시 기행 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196542784)
-    * ★★★☆☆ 2023.02.06
-    * 한라 982.02-유58ㅇ-1 탐라 문982.02-유59ㅇ-1
-  * [유럽 도시 기행 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296896486)
-    * ★★★☆☆ 2023.02.06~07
-    * 한라 982.02-유58ㅇ-2 탐라 문982.02-유59ㅇ-2 우당 문982.02-유59ㅇ-2
-    * [텍스트(text) 콘텍스트(context) ](images/yusimin_travellog_in_cities_of_europe_0.jpg)
-    * ['콘텍스트'를 이야기하려면 '텍스트'를 먼저 제시해야... '텍스트'를 보지 않은 사람은 '콘텍스트'의 가치를 알기 어렵다](images/yusimin_travellog_in_cities_of_europe_1.jpg)
 * (NOT YET) [기차와 생맥주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298087100)
 * (NOT YET) [인문 여행자, 도시를 걷다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281626217)
   * 한라 001.3-김14이 탐라 문001.3-김14ㅇ 우당 문001.3-김14ㅇ
