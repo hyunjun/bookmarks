@@ -740,6 +740,7 @@ Programming Books
   * ★★★★☆ ~2022.10.29
   * [소프트웨어 아키텍처 The Hard Parts. 아키텍처에 관한 책은 일반적으로 어렵다. 다뤄야 할 범위가 크니 알아야… | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-the-hard-parts-abb1f18f0375)
   * [소프트웨어 아키텍처 The Hard Parts -](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-The-Hard-Parts)
+  * [Software Architecture: The Hard Parts • Neal Ford & Mark Richards • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=rIgTE9aDVj4)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
   * 한라 005.12-브296ㅁ
   * [microservices-in-action: Examples and code for Microservices In Action](https://github.com/morganjbruce/microservices-in-action)
