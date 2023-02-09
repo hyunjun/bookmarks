@@ -1120,6 +1120,7 @@ Clojure
 * [rebel-readline - A terminal readline library for Clojure Dialects](https://github.com/bhauman/rebel-readline)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [re-find: Find functions by matching specs](https://github.com/borkdude/re-find)
+* [reflet: Tools for building Re-frame + React based web apps with graph and non-graph data models](https://github.com/zalky/reflet)
 * [replikativ An open, scalable and distributive infrastructure for a data-driven community of applications](http://replikativ.io/)
   * [github.com/replikativ](https://github.com/replikativ)
   * [Replikativ](https://www.slideshare.net/SangKyuPark1/replikativ/1)
