@@ -2156,6 +2156,8 @@ App
     * [윈도우7/8.1/10 MBR 복구 및 UEFI 부팅 불가능한 문제 해결법](http://prolite.tistory.com/729)
       * 검색했더니 이런 자료가 있어 해봤지만 통하지 않았다. 결과적으로는 쓸모 없었음
   * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
+* [윈도우11 지원하지 않는 PC에서도 설치하는 방법 TPM 필요 없고 UEFI 설정따위 없어도 되는 방법입니다 - YouTube](https://www.youtube.com/watch?v=umItvP7sb9M)
+* [저사양 PC에 윈도우11 설치하는 방법 - YouTube](https://www.youtube.com/watch?v=b6bTaSABWlQ)
 
 ## Window Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
