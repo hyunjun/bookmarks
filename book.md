@@ -630,6 +630,7 @@ Book
   * 한라 325.1-코86ㅁ 탐라 문325.1-코819ㅁ 우당 문325.1-코819ㅁ
 * (NOT YET) [당신은 사업가입니까](https://blog.naver.com/mentalisia/222011365517)
   * 한라 325.21-로57ㄷ 우당 문325.21-로58ㄷ
+* (NOT YET) [일터의 설계자들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309233428)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
