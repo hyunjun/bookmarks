@@ -1013,6 +1013,7 @@ NLP
   * [MS와 Nvidia가 세계 최대규모 언어 모델 MT-NLG 530B를 발표 | GeekNews](https://news.hada.io/topic?id=5187)
 * [Do large language models understand us? | by Blaise Aguera y Arcas | Dec, 2021 | Medium](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
 * [Huge “foundation models” are turbo-charging AI progress | The Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
+* [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * GSLM
