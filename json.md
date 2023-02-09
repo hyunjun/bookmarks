@@ -318,6 +318,8 @@ Json
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
 
 # Scala
+* [armadillo: Declarative, type-safe json-rpc endpoints library](https://github.com/input-output-hk/armadillo)
+  * [Armadillo - Typesafe JSON-RPC API by Kasper Kondzielski - YouTube](https://www.youtube.com/watch?v=mR8sRNQhBFw)
 * [json2caseclass , #scala case class generator](https://json2caseclass.cleverapps.io/)
   * [Are you still creating JSON #Scala case classes by hand? - YouTube](https://www.youtube.com/watch?v=zz3q6BB-AX4)
 * Fabric [Typelevel | Fabric: A New JSON Library](https://typelevel.org/blog/2022/11/10/fabric.html)
