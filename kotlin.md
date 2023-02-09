@@ -193,6 +193,7 @@
 * [Kotlin Metadata Deep Dive. Recently, I encountered a headache when… | by Johnson Lee | Jun, 2022 | Medium](https://medium.com/@johnson.lee/kotlin-metadata-deep-dive-2a966b45521a)
 * [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
 * [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
+* [코틀린 공변성(Covariance)](https://www.roach-dev.com/kotlin/convariance/)
 * [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
 * [CPS Style](https://devroach.tistory.com/149) continuation
 * [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
