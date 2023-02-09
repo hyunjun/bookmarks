@@ -1060,6 +1060,7 @@ Scala
     * [Grokking ZIO. After a long evolutionary journey, the… | by Murray Todd Williams | Apr, 2022 | Medium](https://murraytodd.medium.com/grokking-zio-ac8fed5e6528)
     * [Building High-Performance Notification Engine Using Pure Functional Scala, ZIO HTTP, ZIO Kafka. Event-Driven Architecture. | LinkedIn](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/)
     * [What are Zio Effect Constructors? - Knoldus Blogs](https://blog.knoldus.com/what-are-zio-effect-constructors/)
+    * [Zio Effects - Knoldus Blogs](https://blog.knoldus.com/zio-effects/)
     * [Scala at Prezi: Introduction of ZIO | by Máté Börcsök | Jun, 2022 | Prezi Engineering](https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69)
     * [Scala 3 + ZIO 2 + zhttp + Laminar: proof of concept & impressions – Adrian Filip](https://adrianfilip.com/2022/06/27/scala-3-zio-2-zhttp-laminar-proof-of-concept-impressions/)
     * [Zymposium - ZIO- API - DSL - YouTube](https://www.youtube.com/watch?v=biAjx4zt3GU)
