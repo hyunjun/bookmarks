@@ -748,6 +748,7 @@ Deep Learning
 * [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
 * [Hadi Abdi Khojasteh - Large Scale Representation Learning In-the-wild | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=YRJTpk3yfTc)
 * [Deep Learning by Open API | Pega Devlog](https://jehyunlee.github.io/2022/11/29/Python-DS-124-kierlecture8/)
+* [역전파의 종말? 갓프리 힌튼의 Forward-Forward 알고리즘](https://www.philgineer.com/2023/02/forward-forward.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
