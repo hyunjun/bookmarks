@@ -269,6 +269,9 @@ Book
 * 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
   * ★★★☆☆ 2023.01.15, 16 ,28
   * 탐라 개592.0099-강38ㅍ 우당 이592.099-강39ㅍ
+* (NOT COMPLETED) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
+  * ★★★☆☆ 2023.02.08~09 중요한 이야기라는 건 알지만 심각하다는 걸 강조하기 위해 반복적으로 이야기하는 방식이라 잘 읽히지는 않음
+  * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -394,8 +397,6 @@ Book
   * [대통령의 글쓰기](https://jh4hj.tistory.com/entry/%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
 * (NOT YET) [지금, 경계선에서](https://infutureconsulting.tistory.com/1807)
   * 탐라 개331.54-코57ㅈ 우당 문331.54-코58ㅈ
-* (NOT YET) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
-  * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
 * (NOT YET) [꽃들에게 희망을](https://readbook777.tistory.com/3)
   * 한라 아843-폴294ㄲ 우당 아843-폴233ㄲ
 * (NOT YET) [미스터 프레지던트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308439707)
