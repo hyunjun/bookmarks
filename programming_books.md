@@ -1810,6 +1810,7 @@ Programming Books
   * [게임산업 이면의 무자비한 이야기, 그리고 여운.. : 네이버블로그](https://blog.naver.com/drvoss/222860583517)
 * (NOT YET) [레트로 게임 개발 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307083643)
   * [인터뷰 (1부) 레트로 게임 개발 바이블 박주항님 인터뷰 - YouTube](https://www.youtube.com/watch?v=AsV-N5Y3v1Y)
+  * [인터뷰 (2부) 레트로 게임 개발 바이블 박주항님 인터뷰 - YouTube](https://www.youtube.com/watch?v=M91kwSoJqRw)
 * (NOT YET) [우리가 사랑한 한국 PC 게임](https://jhrogue.blogspot.com/2023/02/pc.html)
   * 탐라
 
