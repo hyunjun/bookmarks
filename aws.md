@@ -481,6 +481,7 @@ AWS
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(3) :: All About Dev/Ops](https://zerone-code.tistory.com/10)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Cloud Provider 로 aws LoadBalancer 연결하기](https://ahnseungkyu.com/305)
 * [AWS 기반 재해 복구(DR) 아키텍처, 1부: 클라우드에서의 재해 복구 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-1/)
+* [AWS 기반 재해 복구(DR) 아키텍처, 2부: 신속한 복구를 위한 백업 및 복원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-2/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1633,6 +1634,7 @@ AWS
 * [Amazon SageMaker에서 code-server 호스팅하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/host-code-server-on-amazon-sagemaker/)
 * [Amazon SageMaker Data Wrangler의 신규 임베디드 시각화 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/)
 * [Amazon SageMaker 훈련작업을 위한 최적의 데이터소스 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
+* [Amazon SageMaker JumpStart를 통해 다양한 생성 AI 모델 활용하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/use-generative-ai-models-in-amazon-sagemaker-jump-start/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -1721,6 +1723,7 @@ AWS
 * [AWS RDS Tutorial | Install Microsoft SQL Server Database (MSSQL), Connect to it and write Queries - YouTube](https://www.youtube.com/watch?v=cJ2IVsq9sew)
 * [AWS로 클라우드 시작하기: ③RDS | 요즘IT](https://yozm.wishket.com/magazine/detail/1345/)
 * [AWS EC2에서 curl을 이용한 RDS 접근 확인](https://nauco.tistory.com/74)
+* [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(1) | by Phoebe Baek | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/oracle-dump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-d3d04700c23d)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
@@ -1781,6 +1784,7 @@ AWS
 * [Deleting an S3 Bucket Costs Money - CloudCasts](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
 * [사례별로 알아본 안전한 S3 사용 가이드 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6217/)
 * [Incorrect IAM Policy Raised Questions about AWS Access to S3 Data](https://www.infoq.com/news/2022/01/aws-iam-s3-access/)
+* [입 개발 aws s3 bucket owner control policy 중에 BucketOwnerFullControl 에 대해서 | Charsyam's Blog](https://charsyam.wordpress.com/2023/02/08/%EC%9E%85-%EA%B0%9C%EB%B0%9C-aws-s3-bucket-owner-control-policy-%EC%A4%91%EC%97%90-bucketownerfullcontrol-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
 * [S3에 Python으로 접근하기 - 이상선 - Medium](https://medium.com/@sunyi233/s3%EC%97%90-python%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0-1e1014d9a85)
 * [Amazon S3 - Same Region Replication Setup](https://programmersblock.hashnode.dev/aws-s3-same-region-replication)
 * [AWS S3 Cross Region Replication](https://programmersblock.hashnode.dev/amazon-s3-cross-region-replication)
