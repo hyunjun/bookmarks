@@ -1700,6 +1700,7 @@ AWS
 * [이미지 자동 태깅하는 API #aws #클라우드AI - YouTube](https://www.youtube.com/watch?v=5CNyBHmkMgc)
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style-case-study/)
 * [Amazon Lookout for Vision과 Rekognition을 이용한 부품 결함 감지 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/defect-detection-l4v-rekog/)
+* [Amazon Rekognition 를 활용한 얼굴 인식 셀프 체크인 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-a-face-recognition-self-check-in-system-using-amazon-rekognition/)
 * [voightkampff — Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/)
 
 # RDS
