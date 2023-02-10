@@ -227,6 +227,7 @@ Network
 * [HTTP 총정리(정의,메세지,응답, 요청,메소드)](https://velog.io/@fejigu/HTTP%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%A0%95%EC%9D%98%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%91%EB%8B%B5-%EC%9A%94%EC%B2%AD%EB%A9%94%EC%86%8C%EB%93%9C)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
 * [인터넷에서 정보를 주고 받기 위한 HTTP에 대해서 알아보자 | by Doa Choi | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%90%EC%84%9C-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%A3%BC%EA%B3%A0-%EB%B0%9B%EA%B8%B0-%EC%9C%84%ED%95%9C-http%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5703655a2257)
+* [멱등성이 뭔가요?](https://velog.io/@tosspayments/%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
