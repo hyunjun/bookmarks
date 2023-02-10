@@ -128,6 +128,8 @@ Programming
 * [BDD? SDD? 팀 프로젝트 다같이 개발설계하는 방법](https://velog.io/@teo/behavior-driven-development-schema-driven-development) design
 * [The Lost Art of Software Design • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=gNj8I4uSTgc)
 * [Tidy First? Daily Empirical Software Design & Why It Works | Beetroot](https://beetroot.co/productivity/tidy-first-daily-empirical-software-design-why-it-works/)
+* [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
+* [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -2120,6 +2122,7 @@ Programming
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
 * [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
 * [엔터프라이즈 MSA 이야기 1탄 - 주문서비스(Milestone1) :: GS Retail Engineering](https://gsretail.tistory.com/26)
+* [Microservices from the Trenches • Sander Hoogendoorn • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=UFFmT4Z5frw)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
