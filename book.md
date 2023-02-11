@@ -563,6 +563,9 @@ Book
 * [뇌과학자 아빠의 기막힌 넛지육아](https://blog.naver.com/goshua/221546048657)
   * ★★☆☆☆ 2022.12.14~15
   * 한라 598.1-다878ㄴ 탐라 문598.1-야58ㄴ
+* [국제 바칼로레아 IB가 답이다 - 책상 앞에서만 하는 공부의 시대는 끝났다 - YouTube](https://www.youtube.com/watch?v=kwqd6quMxMs)
+  * ★★★☆☆ 2023.02.05
+  * 한라 376.9-김192ㄱ 탐라 문376.9-김211ㄱ 우당 문376.9-김211ㄱ
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
