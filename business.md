@@ -2021,6 +2021,7 @@ Business
 * [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
+* [우리가 놓친 스케일업 성공 비결 | 전략 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/1_1/article_no/1950/page/1)
 * [무공식](https://www.thestartupbible.com/2022/04/why-it-is-so-hard-to-formularize-startup-output.html)
 * [한 눈 팔기와 집요함](https://www.thestartupbible.com/2022/04/inch-wide-mile-deep.html)
 * [장난감, 취미, 그리고 사업](https://www.thestartupbible.com/2022/07/when-toys-become-great-businesses.html)
