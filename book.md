@@ -273,6 +273,9 @@ Book
   * ★★★☆☆ 2023.02.11
   * 우당 문340.911-탁94ㅁ
   * ["문 전 대통령, 한 번도 저를 편하게 대한 적 없어…달라진 모습에 당황"](https://v.daum.net/v/20230108111347100)
+  * [미스터 프레지던트](https://github.com/hyunjun/bookmarks/blob/master/books/mr_president.md)
+  * [미스터 프레지던트 - Jun - Medium](https://nymets.medium.com/%EB%AF%B8%EC%8A%A4%ED%84%B0-%ED%94%84%EB%A0%88%EC%A7%80%EB%8D%98%ED%8A%B8-18f885e88016)
+  * [미스터 프레지던트](https://jh4hj.tistory.com/entry/%EB%AF%B8%EC%8A%A4%ED%84%B0-%ED%94%84%EB%A0%88%EC%A7%80%EB%8D%98%ED%8A%B8)
 * (NOT COMPLETED) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
   * ★★★☆☆ 2023.02.08~09 중요한 이야기라는 건 알지만 심각하다는 걸 강조하기 위해 반복적으로 이야기하는 방식이라 잘 읽히지는 않음
   * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
