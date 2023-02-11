@@ -588,6 +588,7 @@ Java
 * [java 람다 개념을 이해할 때 중요할 법한 function apply 메서드를 알아봅시다](https://codingdog.tistory.com/587)
 * [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
 * [slieb.org - Java 8 Functional Interfaces with Exceptions](http://slieb.org/blog/throwable-interfaces/)
+* [Functional Interface에 대해 새롭게 알게된 내용](https://kim-jong-hyun.tistory.com/138)
 * [What is a stream ?| introduction to Stream in java _ Programobile](https://programobile.blogspot.com/2021/05/what-is-stream-introduction-to-stream.html)
 * [Handling checked exceptions in Java streams](https://www.oreilly.com/ideas/handling-checked-exceptions-in-java-streams)
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
