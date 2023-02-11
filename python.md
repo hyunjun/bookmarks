@@ -198,6 +198,7 @@ Python
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
+* [파이썬 예제로 보는 직접 의존성과 간접 의존성](https://sjquant.tistory.com/72)
 * [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
 * [How to Structure Programming Projects for Beginners | Python Long-term Project Structuring - YouTube](https://www.youtube.com/watch?v=3gf60ncxe28)
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://k3no.medium.com/organizing-your-python-code-ca5445843368)
