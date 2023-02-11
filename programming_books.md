@@ -791,8 +791,9 @@ Programming Books
   * 탐라
 * (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
   * 탐라
-* (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj/)
-  * 우당
+* (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj)
+  * 우당 문005.12-비63ㅎ
+  * [dhaj](https://github.com/wikibook/dhaj)
 * (NOT YET) [마이크로서비스 아키텍처 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B9403623796)
   * 우당
 
@@ -1641,8 +1642,9 @@ Programming Books
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
-* (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5/)
-  * 우당
+* (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
+  * 우당 문005.11-허77ㅋ
+  * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -2116,6 +2118,7 @@ Programming Books
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
 * (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
   * 탐라
+* (NOT YET) [러닝 타입스크립트 - 안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1654)
 
 ## Angular
 
@@ -3403,8 +3406,9 @@ Programming Books
   * 우당 문005.133-맥211ㄹ
   * [Rust in Action](https://www.manning.com/books/rust-in-action)
   * [rust-in-action/code: Source code for the book Rust in Action](https://github.com/rust-in-action/code)
-* (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust/)
-  * 우당
+* (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust)
+  * 우당 문005.133-쿠79ㄹ
+  * [rust: 《만들면서 배우는 러스트 프로그래밍》 예제 코드](https://github.com/wikibook/rust)
 * (NOT YET) [프로그래밍 러스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308448819)
   * [페리스(Ferris)를 안다면 당신은?](https://jpub.tistory.com/1367)
 
