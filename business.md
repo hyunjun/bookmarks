@@ -430,6 +430,7 @@ Business
 * [내가 만난 일잘러 신입의 특징. 신입 프로그래머 너구리씨가 입사했다. 같은 팀에서 일하는 7년차… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-75ad4dd7e243)
 * [내가 만난 일잘러 신입의 특징 part 2. 앞서 발행한 내가 만난 일잘러 신입의 특징 에서 3가지 특징에 관해… | by 송요창 | Nov, 2022 | Medium](https://medium.com/@totuworld/%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%82%9C-%EC%9D%BC%EC%9E%98%EB%9F%AC-%EC%8B%A0%EC%9E%85%EC%9D%98-%ED%8A%B9%EC%A7%95-part-2-f23a36c3ee7f)
 * [함께 일하고 싶은 사람 - 1. 업무 습관](https://velog.io/@city7310/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%82%AC%EB%9E%8C-1.-%EC%97%85%EB%AC%B4-%EC%8A%B5%EA%B4%80-w1mfhsf2)
+* [일잘 + 일못 = 일못, 프로세스의 필요성](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid024abcvMsdRBnz7U8CwZmXDVvTQsicZMsZXSF3p1KUCc9vUabQFP1HcvWUMQ6UTEcHl)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
