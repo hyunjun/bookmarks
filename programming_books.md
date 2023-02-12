@@ -1772,6 +1772,7 @@ Programming Books
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
 * (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics)
   * 한라
+* (NOT YET) [파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EC%84%B1%EC%9B%90-%EB%8D%95%EB%B6%84%EC%97%90%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EB%8F%84-activity-7030358886918348800-mSFu/)
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
