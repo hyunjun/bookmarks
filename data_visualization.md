@@ -539,6 +539,7 @@ Data Visualization
 * [bar graph – 사라지는 막대들](https://lazymatlab.tistory.com/144)
 * [데이터 시각화의 모든 것 | ● Matplotlib의 두 가지 방식 | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/5373587546067487/) 상태 기반(state-based), 객체 지향(object oriented)
 * [혼란한 Matplotlib에서 질서 찾기 | Pega Devlog](https://jehyunlee.github.io/2022/10/16/Python-DS-117-pycon2022/)
+* [KDE + threshold | Pega Devlog](https://jehyunlee.github.io/2023/02/12/Python-DS-127_kdeth/)
 * [한/글 표로 차트 그리기(확산형 누적막대)](https://employeecoding.tistory.com/372)
 * [colorsys - Conversions between Color Systems | Pega Devlog](https://jehyunlee.github.io/2022/01/04/Python-DS-95-tiger/)
 * [gravity | Pega Devlog](https://jehyunlee.github.io/2022/01/13/Python-Physics-1-gravity/)
