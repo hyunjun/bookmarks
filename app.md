@@ -17,6 +17,8 @@ App
 * [가난한 개발자나 스타트업을 위한 무료 서비스들!](https://open-support.tistory.com/entry/%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%82%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AC%B4%EB%A3%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%93%A4)
 * [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk) 로그인 없이 구글 드라이브에 파일 저장
 * 데스크탑 자동화
+  * autohotkey
+    * [이미지를 인식하는 봇 만들기](https://ambitious-molecule-2ed.notion.site/bcd9abbc44cc4429b9f0271a43c9eeef)
   * autoit
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
@@ -2097,6 +2099,7 @@ App
 * ["화면 캡처부터 주석까지 윈도우에서 쓰기 가장 좋은" MS 스토어 앱 어워드 수상작 - ITWorld Korea](https://www.itworld.co.kr/news/238509)
 * [컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트) | GeekNews](https://news.hada.io/topic?id=7214)
 * [윈도우 랜덤 배경 화면 이미지 파일 저장하기 : zelon's blog](https://blog.wimy.com/472/)
+* [윈도우 설치 후 추천프로그램(가볍고 빠른거 위주) : 클리앙](https://www.clien.net/service/board/useful/17903271?type=recommend)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
