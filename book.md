@@ -375,8 +375,6 @@ Book
   * 한라 920.2-존57ㅂ 탐라 문920.2-존58ㅂ 우당 문920.2-존58ㅂ
 * (NOT YET) [서재에서 탄생한 위대한 CEO들](https://ilsang2.tistory.com/1836)
   * 한라
-* (NOT YET) [C레벨의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300705957)
-  * 탐라
 * (NOT YET) [12바이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300276267)
   * 우당 문331.5412-윈833ㅅ
 * (NOT YET) [처음 만나는 금융공학 (개정판) | 에이콘출판사](http://acornpub.co.kr/book/financial-engineering-new)
@@ -392,7 +390,7 @@ Book
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
   * 한라
 * (NOT YET) [처음 배우는 그래픽 레코딩](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
-  * 탐라
+  * 탐라 문325.26-구45ㄱ
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 * (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
@@ -1470,6 +1468,9 @@ Book
     * ['콘텍스트'를 이야기하려면 '텍스트'를 먼저 제시해야... '텍스트'를 보지 않은 사람은 '콘텍스트'의 가치를 알기 어렵다](images/yusimin_travellog_in_cities_of_europe_1.jpg)
 * [벌거벗은 세계사 : 전쟁편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298690783)
   * ★★★☆☆ 2023.02.07~08
+* [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
+  * ★★★☆☆ 2023.02.12
+  * 탐라 문573.93-윤53ㅍ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
@@ -1488,8 +1489,6 @@ Book
   * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
-* (NOT YET) [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
-  * 탐라
 
 # Wine
 * [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)

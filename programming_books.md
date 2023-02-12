@@ -316,7 +316,7 @@ Programming Books
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 * (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
-  * 탐라
+  * 탐라 문325.555-강58ㅅ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
   * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
@@ -788,7 +788,7 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍트 엘리베이터 | 에이콘출판사](http://www.acornpub.co.kr/book/software-architect)
   * 탐라 문005.12-호843ㅅ
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
-  * 탐라
+  * 탐라 문005.12-파823ㅅ
 * (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
   * 탐라
 * (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj)
@@ -1935,6 +1935,7 @@ Programming Books
 * (NOT YET) [하스켈로 배우는 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4315070)
   * [하스켈로 배우는 프로그래밍 by kyagrd](https://kyagrd.github.io/haskell/)
   * [Kizoo: Programming in Haskell의 머릿글 원본](https://kizoo.blogspot.com/2009/05/programming-in-haskell.html)
+* (NOT YET) [프로그래밍언어론](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310560549)
 
 # Infrastructure
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
@@ -2781,11 +2782,11 @@ Programming Books
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
 * (NOT YET) [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
-  * 탐라
+  * 탐라 문325.24-이59ㅇ
 * (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
-  * 탐라
+  * 탐라 문325.24-푸49ㅅ
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
-  * 탐라
+  * 탐라 문325.24-배811ㄹ
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
   * 우당 문325.3-버231ㅅ
 * (NOT YET) [세계 최고의 CEO는 어떻게 일하는가](https://gangsanilee.tistory.com/2783)
