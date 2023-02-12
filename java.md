@@ -1910,6 +1910,7 @@ Java
 * [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 * [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
+* [멀티 모듈, 그거 왜 쓰는건데? 🤷](https://hudi.blog/why-use-multi-module/)
 * [@RequestBody에 왜 기본 생성자는 필요하고, Setter는 필요 없을까? #1](https://velog.io/@conatuseus/RequestBody%EC%97%90-%EA%B8%B0%EB%B3%B8-%EC%83%9D%EC%84%B1%EC%9E%90%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80)
 * [SpringBoot, Liquibase and MariaDB](https://itnext.io/springboot-liquibase-and-mariadb-b3f943c29370)
 * [Spring Boot에서 MariaDB(MySQL) 사용하기 - YouTube](https://www.youtube.com/watch?v=6LVGwg-pdC0)
