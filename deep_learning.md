@@ -194,6 +194,7 @@ Deep Learning
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
     * [pixel-cnn++ - This is a Python3 / Tensorflow implementation of PixelCNN++](https://github.com/openai/pixel-cnn)
     * [PixelCNN 1601.06759 Summary](https://tensorflow.blog/2016/11/29/pixelcnn-1601-06759-summary/)
+  * [whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
