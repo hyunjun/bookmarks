@@ -785,6 +785,7 @@ Javascript
 * [Client Side Rendering | Doctor Booking React JS App | React JS | Day- 48 - YouTube](https://www.youtube.com/watch?v=b0TqYiB4gd0) CSR
 * [SSR은 풀스택이 아니다 개정판](https://velog.io/@composite/SSR%EC%9D%80-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-%EA%B0%9C%EC%A0%95%ED%8C%90)
 * [스켈레톤UI가 올바른 방향일까? | LinkedIn](https://www.linkedin.com/pulse/010-%EC%8A%A4%EC%BC%88%EB%A0%88%ED%86%A4ui%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B8-%EB%B0%A9%ED%96%A5%EC%9D%BC%EA%B9%8C-%ED%98%84%EC%9E%AC-%EC%9D%B4/) CSR SSR hydration
+* [프레임워크 없이 만드는 SSR | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
 * [Partial Hydration 둘러보기](https://velog.io/@xiniha/Partial-Hydration-%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0)
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
