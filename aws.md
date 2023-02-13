@@ -1044,6 +1044,7 @@ AWS
     * 스팟인스턴스 그룹이 더 높은 우선순위를 가지게 설정
     * AWS Node Termination Handler로 스팟 인스턴스를 빼앗길 때를 대비하고
     * 추가로 `podAntiAffinity`와 `PodDisruptionBudget`, 오버 프로비저닝을 이용해서 안정적으로 운영되도록 설정
+* [Blue/Green, Canary 방법을 활용한 stateless 워크로드의 Amazon EKS 클러스터 마이그레이션 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blue-green-or-canary-amazon-eks-clusters-migration-for-stateless-argocd-workloads/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1057,7 +1058,7 @@ AWS
 
 # Elastic Beanstalk
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
-  * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+  * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
 * [Elastic Beanstalk Developer Guide](https://github.com/awsdocs/aws-elastic-beanstalk-developer-guide/)
 * [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977)
 * [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
@@ -1367,6 +1368,7 @@ AWS
   * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
   * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
+  * [AWS Lambda를 이용해 슬랙 앱 배포하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/12/Deploy-Slack-App-with-AWS-Lambda.html)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
@@ -1635,6 +1637,8 @@ AWS
 * [Amazon SageMaker Data Wrangler의 신규 임베디드 시각화 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/)
 * [Amazon SageMaker 훈련작업을 위한 최적의 데이터소스 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
 * [Amazon SageMaker JumpStart를 통해 다양한 생성 AI 모델 활용하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/use-generative-ai-models-in-amazon-sagemaker-jump-start/)
+* [농심의 Amazon SageMaker를 활용한 원자재 가격예측과 MLOps 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/nongshim-amazon-sagemaker-material-forecast-mlops/)
+* [Amazon SageMaker 모델 병렬 라이브러리를 이용한 신규 성능 향상 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-model-parallel-improve-performance/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
