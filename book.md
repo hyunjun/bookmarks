@@ -1471,6 +1471,9 @@ Book
 * [파리 카페](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299962983)
   * ★★★☆☆ 2023.02.12
   * 탐라 문573.93-윤53ㅍ
+  * [파리 카페](https://github.com/hyunjun/bookmarks/blob/master/books/paris_cafe.md)
+  * [파리 카페. 유학 시절에는 아무런 지식도 정보도 없어 즐기지 못했던 파리의 카페를… | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%ED%8C%8C%EB%A6%AC-%EC%B9%B4%ED%8E%98-e293d1eb3dde)
+  * [파리 카페](https://jh4hj.tistory.com/entry/%ED%8C%8C%EB%A6%AC-%EC%B9%B4%ED%8E%98)
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
