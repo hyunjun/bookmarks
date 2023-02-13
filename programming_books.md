@@ -315,8 +315,6 @@ Programming Books
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
-* (NOT YET) [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
-  * 탐라 문325.555-강58ㅅ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
   * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
@@ -3002,6 +3000,9 @@ Programming Books
   * [프로덕트 매니저는 무슨 일을 하고 있을까](https://github.com/hyunjun/bookmarks/blob/master/programming_books/what_does_product_manager_do.md)
   * [프로덕트 매니저는 무슨 일을 하고 있을까. 장점 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C-edc003017968)
   * [프로덕트 매니저는 무슨 일을 하고 있을까](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%9D%BC%EC%9D%84-%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C)
+* [서비스 기획자로 일하고 있습니다](https://brunch.co.kr/@hwabregas/426)
+  * ★★★☆☆ 2023.02.13
+  * 탐라 문325.555-강58ㅅ
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
