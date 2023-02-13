@@ -2766,6 +2766,12 @@ Programming Books
   * 탐라 문331.17-클231ㅂ
   * [Dr. Henry Cloud 2021®](https://www.drcloud.com/books/boundaries-for-leaders)
   * [Boundaries for Leaders - Boundaries Books](https://www.boundariesbooks.com/products/boundaries-for-leaders)
+* [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
+  * ★★★★☆ 2023.02.13
+  * 탐라 문325.24-푸49ㅅ
+* [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
+  * ★★★☆☆ 2023.02.13
+  * 탐라 문325.24-이59ㅇ
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
@@ -2783,10 +2789,6 @@ Programming Books
   * 한라 325.2-버874ㅇ
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
-* (NOT YET) [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
-  * 탐라 문325.24-이59ㅇ
-* (NOT YET) [C레벨의 탄생](https://www.gilbut.co.kr/book/view?bookcode=BN003507)
-  * 탐라 문325.24-푸49ㅅ
 * (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
   * 탐라 문325.24-배811ㄹ
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
