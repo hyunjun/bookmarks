@@ -1048,6 +1048,7 @@ Scala
     * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
     * [Zymposium - ZIO From Scratch (Part 2) - YouTube](https://www.youtube.com/watch?v=Yj8vXEUYLrA)
     * [Zymposium - ZIO From Scratch (Part 3) - YouTube](https://www.youtube.com/watch?v=lcd1D_ToJJY)
+    * [Zymposium - ZIO From Scratch (Part 4) - YouTube](https://www.youtube.com/watch?v=f7FiCXG6gQY)
     * [Zymposium - ZIO From Scratch (Final) - YouTube](https://www.youtube.com/watch?v=O31_cMcP4-8)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
@@ -1076,6 +1077,7 @@ Scala
     * [Python and ZIO crushed my egotism | by Jay | DataTrek | Dec, 2022 | Medium](https://medium.com/lambdaverse/python-and-zio-crushed-my-egotism-5c78b5ce4d31)
     * [Introducing The ZIO DynamoDB Type-Safe API by Avinder Bahra - YouTube](https://www.youtube.com/watch?v=Qte4WUfHQ3g)
     * [Early adventures in ZIO land | Bogdan Dimitriu’s blog](https://bbdimitriu.github.io/scala/zio/2023/01/14/early-adventures-zio-land.html)
+    * [Parallelizing Complex Data Pipelines Using ZIO With Spark by Kunal Tiwary - YouTube](https://www.youtube.com/watch?v=FXVorUR4QZM)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1342,6 +1344,7 @@ Scala
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
 * [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
+* [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -1699,6 +1702,7 @@ Scala
   * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
+* [Turbolift: Algebraic Effects for Scala 3](https://marcinzh.github.io/turbolift/)
 * [yona: Project Hosting SW, DEMO](https://github.com/yona-projects/yona)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
 * [whatsub: A tool for subtitles - conversion and resync](https://github.com/Kevin-Lee/whatsub)
@@ -2254,6 +2258,7 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=M6RP9quyUsU) typeclass Mirror
 * [Existential Crisis: Implementing MapK in Scala 3 - DEV Community](https://dev.to/raquo/existential-crisis-implementing-mapk-in-scala-3-2fo1)
 * [Scala at Light Speed, Part 7: Scala 3 Contextual Abstractions - YouTube](https://www.youtube.com/watch?v=snz7WHjD-xs)
+* [Why Learn Contextual Abstractions in Scala 3 First - Xebia](https://xebia.com/blog/why-learn-contextual-abstractions-in-scala-3-first/)
 * [Scala 3 goodies for Scala 2 developers | In Absentia](https://hmemcpy.com/2021/06/scala-3-goodies-for-scala-2-developers/)
 * [Scala 3: Anti-Givens - YouTube](https://www.youtube.com/watch?v=HQojyuZK-Uo)
 * [Scala 3: Anti-Givens - Rock the JVM Blog](https://blog.rockthejvm.com/anti-givens/)
