@@ -840,6 +840,7 @@ Javascript
 * [Say bye bye to bad javascript practices | by Freddy Manrique | Nov, 2022 | GoGrow](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
   * [나쁜 자바스크립트 작성 습관과 작별하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1836/)
 * [웹에 구글 로그인 버튼 붙이기 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%97%90-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B2%84%ED%8A%BC-%EB%B6%99%EC%9D%B4%EA%B8%B0-edf14a5bd4bf)
+* [변수에 타입을 명시하는 방법 - 타입 어노테이션 - Winterlood](https://www.winterlood.com/post/74ffabb9-4298-4831-ab72-55c4b5aa163c) type annotation
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
