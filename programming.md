@@ -1054,6 +1054,7 @@ Programming
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
 * [**12명의 Architect에게 물어 본 “아키텍트의 길” | Architecture 101**](https://architecture101.blog/2010/11/25/meet_the_12architects/)
+* [**대규모 소프트웨어 패턴 강좌 업데이트 | Architecture 101**](https://architecture101.blog/2023/02/11/welcome_2_pattern_worlds/)
 * [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
