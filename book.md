@@ -279,6 +279,9 @@ Book
 * (NOT COMPLETED) [카스트: 가장 민주적인 나라의 위선적 신분제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292867526)
   * ★★★☆☆ 2023.02.08~09 중요한 이야기라는 건 알지만 심각하다는 걸 강조하기 위해 반복적으로 이야기하는 방식이라 잘 읽히지는 않음
   * 한라 332.6-윌874ㅋ 탐라 문342.3-윌823ㅋ 우당 문342.3-윌823ㅋ
+  * [카스트 가장 민주적인 나라의 위선적 신분제](https://github.com/hyunjun/bookmarks/blob/master/books/caste.md)
+  * [카스트 가장 민주적인 나라의 위선적 신분제 - Jun - Medium](https://nymets.medium.com/%EC%B9%B4%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9E%A5-%EB%AF%BC%EC%A3%BC%EC%A0%81%EC%9D%B8-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%9C%84%EC%84%A0%EC%A0%81-%EC%8B%A0%EB%B6%84%EC%A0%9C-fe6843557c7f)
+  * [카스트 가장 민주적인 나라의 위선적 신분제](https://jh4hj.tistory.com/entry/%EC%B9%B4%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9E%A5-%EB%AF%BC%EC%A3%BC%EC%A0%81%EC%9D%B8-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%9C%84%EC%84%A0%EC%A0%81-%EC%8B%A0%EB%B6%84%EC%A0%9C)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -567,6 +570,9 @@ Book
 * [국제 바칼로레아 IB가 답이다 - 책상 앞에서만 하는 공부의 시대는 끝났다 - YouTube](https://www.youtube.com/watch?v=kwqd6quMxMs)
   * ★★★☆☆ 2023.02.05
   * 한라 376.9-김192ㄱ 탐라 문376.9-김211ㄱ 우당 문376.9-김211ㄱ
+* [심정섭의 대한민국 학군지도](https://blog.naver.com/wh11111/221321364723)
+  * ★★★☆☆ 2023.02.11
+  * 한라 327.87-심74심
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
@@ -574,8 +580,6 @@ Book
 * (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
-* (NOT YET) [심정섭의 대한민국 학군지도](https://blog.naver.com/wh11111/221321364723)
-  * 한라 327.87-심74심
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
