@@ -4652,6 +4652,7 @@ Javascript
   * [Web: Next.js Link와 Prefetch 과정 파헤쳐보기 | by Heechan | HcleeDev | Feb, 2023 | Medium](https://medium.com/hcleedev/web-next-js-link%EC%99%80-prefetch-%EA%B3%BC%EC%A0%95-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EA%B8%B0-44e22ace13e7)
   * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
     * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
+  * [중요한 건 꺾이지 않는 API (feat. Next.js API Routes) | by Jiwon Han | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B1%B4-%EA%BA%BE%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-api-feat-next-js-api-routes-2f6b1d3779a3)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
