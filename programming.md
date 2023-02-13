@@ -1452,6 +1452,7 @@ Programming
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Multi-Tenant Application. Software Architecture | blackthorn.ai | by Alex Gurbych | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/multi-tenant-application-a29153d31c5a)
 * [Surffy 에스티씨랩 STCLab multi-tenant SaaS Architecture 아키텍처 STCLab tech blog STCLab blog aws | STCLab Tech Blog](https://medium.com/stclab-tech-blog/multi-tenant-saas-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8A%A4%ED%86%A0%EB%A6%AC-5d92cc0eb3f3)
+* [API Management PaaS에서 Multi-tenancy 구현하기](https://dev.gmarket.com/64)
 * [What's Under the Hood of SaaS Companies (Hint: Why Multitenancy Matters)](https://shomik.substack.com/p/whats-under-the-hood-of-saas-companies?s=r)
   * 멀티테넌시가 SaaS 업체가 성공하기 위한 요구사항이라고 주장
   * 초기 스타트업이 빠르고 지저분한 단일 테넌트 환경에서 시작할 수 있지만 성장하기 시작하면 멀티테넌트를 해결해야만 함
