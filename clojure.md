@@ -943,6 +943,7 @@ Clojure
   * [Duct module.lacinia](https://github.com/kakao/duct-lacinia) graph ql
   * [Productive Duct James Reeves](https://www.youtube.com/watch?v=IVnBW2mT7Po)
 * [edamame: Configurable EDN/Clojure parser with location metadata](https://github.com/borkdude/edamame)
+* [electric](https://github.com/hyperfiddle/electric) Electric Clojure – a signals DSL for fullstack web UI, with compiler-managed network sync
 * [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
