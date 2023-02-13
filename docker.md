@@ -1009,6 +1009,7 @@ Docker
 * [Create and Watch Kubernetes Resources With Python](https://www.youtube.com/watch?v=ck-bB5tqZj4)
 * [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
+* [Limit Ranges](https://lifeoncloud.kr/m/entry/Limit-Ranges) (특정 네임스페이스 안에서)시스템 자원에 대한 사용량을 오브젝트 단위로 관리하는 방법
 * [Kubernetes resource가 지워지지 않는 이유 - YouTube](https://www.youtube.com/watch?v=PDlRToeHCNQ)
 * [Limiting access to Kubernetes resources with RBAC](https://learnk8s.io/rbac-kubernetes)
 * Kubernetes resources under the hood
