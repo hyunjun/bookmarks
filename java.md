@@ -459,6 +459,7 @@ Java
   * [우리도 채팅있으면 좋을 것 같아요. - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
   * [go net vs gnet vs reactor netty 소켓 서버 성능 비교 - YouTube](https://www.youtube.com/watch?v=xqqjCTt_l3E)
   * [AI펭톡 TCP Gateway 서버 개발기 with Netty | NHN FORWARD](https://forward.nhn.com/2021/sessions/14)
+  * [API 통신 컴포넌트 설계와 SOLID 원칙](https://velog.io/@joosing/API-%ED%86%B5%EC%8B%A0-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%99%80-SOLID-%EC%9B%90%EC%B9%99)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
@@ -1066,6 +1067,7 @@ Java
   * [Implementing Raft using Project Loom](https://softwaremill.com/implementing-raft-using-project-loom/) scala지만 loom 연관
   * [Project Loom: Revolution in Java Concurrency or Obscure Implementation Detail? - YouTube](https://www.youtube.com/watch?v=9P9DZCZTq4E)
   * [Loom is Blooming by José Paumard & Remi Forax - YouTube](https://www.youtube.com/watch?v=eU9mUmnhjb4)
+  * [Prototype Loom-based concurrency API for Scala](https://softwaremill.com/prototype-loom-based-concurrency-api-for-scala/)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
@@ -2128,6 +2130,8 @@ Java
 * [Mockito framework site](https://site.mockito.org/)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
   * [Stubbing and Mocking with Mockito and JUnit - Semaphore Tutorial](https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
+  * [Mock 프레임워크(Mockito)의 핵심 기능 학습 테스트](https://velog.io/@joosing/mockito-learning-test-code)
+  * [테스트할 수 없는 코드 테스트하기 : 서비스 추상화와 목(Mockito) 프레임워크 활용](https://velog.io/@joosing/testing-untestable-code-with-service-abstraction-and-mocking)
 * [Real world mutation testing](http://pitest.org/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
