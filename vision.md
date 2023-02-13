@@ -438,6 +438,7 @@ Vision
   * [How does Discord scale to 5 million concurrent users ?? | by Sukhad Anand | Medium](https://sukhadanand.medium.com/how-does-discord-scale-to-5-million-concurrent-users-ed0874063fd)
   * [WebRTC 서비스 부하 테스트 | NHN FORWARD](https://forward.nhn.com/2021/sessions/2)
   * [글로벌 라이브 스트리밍을 지탱하는 하이퍼커넥트 미디어 서버 인프라를 소개합니다 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/12/30/introduction-to-media-server.html)
+  * [카카오워크 음성채팅 웹 개발기](https://tech.kakaoenterprise.com/179)
   * [GStreamer 1.20: Embedded & WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
   * IPFS [A guide to IPFS connectivity in web browsers | IPFS Blog & News](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
