@@ -1580,6 +1580,7 @@ Docker
 * [Re: 제로부터 구축한 새 홈페이지, homin.dev | Homin Lee's blog](https://suapapa.github.io/blog/post/20220908_homin-dev_with_k8s/)
 * [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
 * [For the love of god, stop using CPU limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits/)
+* [Kubernetes의 CPU requests와 limits :: Outsider's Dev Story](https://blog.outsider.ne.kr/1653)
 * [Access your local cluster like a managed Kubernetes engine – Inlets – The Cloud Native Tunnel](https://inlets.dev/blog/2022/07/07/access-kubernetes-api-server.html)
 * [Service Mesh: The best way to Encrypt East-West traffic in Kubernetes | by Nagarjoon B | Sep, 2022 | Medium](https://medium.com/@nagarjoon.b/service-mesh-the-best-way-to-encrypt-east-west-traffic-in-kubernetes-89aab0c77794)
 * [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
@@ -1611,6 +1612,7 @@ Docker
 * [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://www.youtube.com/watch?v=SWD__6nhLic)
   * [LINE에서 선언형 DB as a Service를 개발하며 얻은 쿠버네티스 네이티브 프로그래밍 기법 공유](https://2022.openinfradays.kr/session/3)
 * [Safe Kubenetes Environment with AppArmor - Hoon Jo | UbuCon Asia 2022 - YouTube](https://www.youtube.com/watch?v=BFnrd1OJkgk)
+* [쿠버네티스 프로비저닝 툴과의 만남부터 헤어짐까지 . . . – tech.kakao.com](https://tech.kakao.com/2023/02/10/making-of-kubernetes-provisioning-tool/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
