@@ -369,6 +369,7 @@
 * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 * [Kotlin Coroutines Flow in a nutshell | by Alexey Bykov | ProAndroidDev](https://proandroiddev.com/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 * [Kotlin Flow: Best Practices. Since few months, @Geev, we used Kotlin… | by Florent Blot | Aug, 2022 | Medium](https://florentblot.medium.com/kotlin-flow-best-practices-ab05e249ec1c)
+* [Reactive Streams and Kotlin Flows | by Roman Elizarov | Medium](https://elizarov.medium.com/reactive-streams-and-kotlin-flows-bfd12772cda4)
 * [Android 104 : Do we really need Kotlin Coroutines? | by Saurabh Kumar | May, 2022 | Dev Genius](https://blog.devgenius.io/android-104-do-we-really-need-kotlin-coroutines-c57e5d0278c8)
 * [코틀린 코루틴 완벽가이드 #1 - Bsidesoft co](https://www.bsidesoft.com/8656)
 * [코틀린 코루틴 완벽가이드 #2 - Bsidesoft co.](https://www.bsidesoft.com/8663)
