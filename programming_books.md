@@ -451,6 +451,7 @@ Programming Books
   * [출근했더니 스크럼 마스터가 된 건에 관하여. 출근했더니 스크럼 마스터가 된 건에 관하여 | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-9eeed72faf86)
   * [출근했더니 스크럼 마스터가 된 건에 관하여](https://jh4hj.tistory.com/entry/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC)
   * [현실판 출근했더니 스크럼 마스터가 된 건에 관하여. 안녕하세요 베이비스토리 iOS 앱을 개발하면서 스크럼 마스터로 일하고… | by 보라 | 픽소 팀블로그 | Jan, 2023 | Medium](https://medium.com/pixo-co/%ED%98%84%EC%8B%A4%ED%8C%90-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ca142029f894)
+  * [출근했더니 스크럼 마스터가 된 건에 관하여](https://jybaek.tistory.com/979)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
@@ -2660,6 +2661,7 @@ Programming Books
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
   * 한라
+* (NOT YET) [몽키 비즈니스(monkey business, 2001) 독후감](http://ohyecloudy.com/pnotes/archives/monkey-business-2001/)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -2770,6 +2772,7 @@ Programming Books
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
   * 한라 325.24-주65ㅌ
   * [팀원에서 팀장으로 재탄생하기 위해 알아야 할 7가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/makingmanager20201105)
+  * ['Data-informed' 일하기](https://brunch.co.kr/@yongjinjinipln/106)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
   * 한라
 * (NOT YET) [<MBA 리더십 필독서 43> 세계 최고 엘리트들이 읽는 리더십 필도서 43권을 한 권에 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33710832&memberNo=32140760)
