@@ -1785,6 +1785,7 @@ Scala
   * [Building Functional Web Services with Scala & http4s (Part 2): Starting our Recipe Service - YouTube](https://www.youtube.com/watch?v=phTXi7mAde0)
   * [Http4s Scala Tutorial: Writing an HTTP Server with Purely Functional Scala - YouTube](https://www.youtube.com/watch?v=v_gv6LsWdT0)
   * [Deploy http4s on your domain with fly.io | TonioGela's](https://toniogela.dev/http4s-on-fly-io/)
+  * [The digital transformation of Santa’s logistical nightmare - Part 4 http4s - Functional Feline Society](https://functional-feline-society.github.io/2023/02/06/http4s-part4/)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
