@@ -3754,6 +3754,8 @@ Programming
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
   * [Production Secret Management at Airbnb](https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6)
+* [gitops-demo](https://github.com/sckimynwa/gitops-demo)
+  * [**Modern Frontend Infrastructure Overview :: Normal Coder**](https://yeoulcoding.me/359)
 * [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
