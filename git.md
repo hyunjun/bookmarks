@@ -600,6 +600,7 @@ Git
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
+  * [**메시징 서버 개발 프로세스 개선**](https://engineering.linecorp.com/ko/blog/improving-the-messaging-server-development-process)
   * create new branch
 
     ```
