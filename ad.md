@@ -37,6 +37,7 @@
 * [KBeauty Science 발표 요약 - Datarize CSO](https://www.linkedin.com/posts/seongmoo-kim_datarize-%EB%B0%95%EB%AF%BC%EC%84%B1-cso%EB%8B%98%EC%9D%B4-%EC%97%8A%EA%B7%B8%EC%A0%9C-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B0%9C%ED%91%9C%ED%96%88%EB%8D%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-insightful-activity-6978608755445743616-5x_3/)
 * [Diyar Mohammadi - Near-Duplicate Ad Detection in Online Classified Ad Services | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=CcsqasfszjE)
 * [몰락 이후의 퍼포먼스 마케팅](https://eopla.net/magazines/1686)
+* [예산 제어 시스템 개선기: Part 1 – 시스템과 가시성 개선](https://tech.buzzvil.com/blog/budget-pacing-improvement-part-1/)
 * Amplitude [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
