@@ -536,13 +536,7 @@ Programming Books
   * [알고리즘 트레이닝 : 프로그래밍 대회 입문 가이드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/85)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
 * (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
-* (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
-  * [algorithm-interview: <파이썬 알고리즘 인터뷰> 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://github.com/onlybooks/algorithm-interview)
-  * [독서광 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2020/07/blog-post.html)
-  * [책 리뷰 파이썬 알고리즘 인터뷰 | Charsyam's Blog](https://charsyam.wordpress.com/2020/08/23/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0/)
-* (NOT YET) [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B8945183661)
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
-* (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
   * 우당 문005.73-수43ㅋ
   * [<코드 없는 알고리즘과 데이터 구조> 코딩 테.. : 네이버블로그](https://blog.naver.com/dymg98/222254869104)
@@ -554,16 +548,16 @@ Programming Books
   * 탐라 문005.1-양53ㅇ
 * (NOT YET) [알고리즘 퍼즐](https://jhrogue.blogspot.com/2022/05/blog-post.html)
   * 한라 005.1-레48ㅇ
-* (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
-  * 한라 005.133-권16ㅋ
-* (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
-  * 한라 005.1-마57ㄱ
+* (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
+  * [algorithm-interview: <파이썬 알고리즘 인터뷰> 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://github.com/onlybooks/algorithm-interview)
+  * [독서광 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2020/07/blog-post.html)
+  * [책 리뷰 파이썬 알고리즘 인터뷰 | Charsyam's Blog](https://charsyam.wordpress.com/2020/08/23/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0/)
+* (NOT YET) [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B8945183661)
+* (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [프로그래머가 알아야 할 알고리즘 40](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293572662)
   * 한라 005.1-아32ㅍ
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
   * 탐라 문005.1-박51ㅇ
-* (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
-  * 탐라 문005.133-푸227ㅋ
 
 # Amazon AWS
 
@@ -1996,6 +1990,13 @@ Programming Books
 * (NOT YET) [더북(TheBook): 면접을 위한 CS 전공지식 노트](https://thebook.io/080326/)
 * (NOT YET) ['자바 코딩 인터뷰 완벽 가이드'-자바 프로그래머의 취업을 위한 258가지 코딩 인터뷰 & 테스트](http://www.veritas-a.com/news/articleView.html?idxno=425218)
   * 우당 문005.138-레65ㅈ
+* (NOT YET) [보통의 취준생을 위한 코딩 테스트 with 파이썬: 백준 플래티넘 5 & 코드포스 파란색 랭크 달성하기](https://roadbook.co.kr/267)
+  * 한라 005.133-권16ㅋ
+* (NOT YET) [가장 쉬운 독학 알고리즘 첫걸음 - 파이썬편(코딩 테스트에 대비하는 25가지 기초 알고리즘과 최적화)](https://dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2776)
+  * 한라 005.1-마57ㄱ
+* (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
+  * 탐라 문005.133-푸227ㅋ
+* (NOT YET) [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 파이썬 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310591832)
 
 # iOS
 
