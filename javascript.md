@@ -3260,6 +3260,7 @@ Javascript
   * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
   * [Fast and reliable cross-browser testing with Playwright 🎭 | by Arjun Attam | Medium](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
   * [Playwright로 E2E 테스트 작성하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210818)
+  * [The Four Futuristic Features Of Playwright - YouTube](https://www.youtube.com/watch?v=PXTspGn1im0)
 * pm2
   * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
@@ -5055,6 +5056,7 @@ Javascript
     * Cypress는 Automatic waiting 기능으로 같은 동작에 성공할 때까지 반복하므로 비동기 처리 불필요, 간헐적인 실패 감소, Headless 모드도 지원해 Cypress로 E2E 테스트를 작성하기로 결정
     * 시각적 테스트는 수정될 가능성이 높으므로 기능적 테스트에 더 집중하기로 했고 테스트를 작성하기 쉽게 가이드 문서도 작성
   * [테스트 코드 자동으로 만들기 feat. Cypress Studio | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221222-cypress-studio-test-automation-low-code/)
+  * [Cypress vs Other Test Runners | Better world by better software](https://glebbahmutov.com/blog/cypress-vs-other-test-runners/)
 * [Faker | Faker](https://fakerjs.dev/)
   * [MSW+Faker.js · Present](https://present.do/documents/633d087e70efd011b8f6c393?page=0)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
