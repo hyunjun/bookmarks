@@ -1155,6 +1155,7 @@ Javascript
 * [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
 * [Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers - YouTube](https://www.youtube.com/watch?v=SLHcfmZ6m14)
 * [Why I avoid async/await. Whatever your stance on async/await… | by Cory | Mar, 2022 | Medium](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
+* [Async-Await ≈ Generators + Promises | by Cha | HackerNoon.com | Medium](https://medium.com/hackernoon/async-await-generators-promises-51f1a6ceede2)
 * [Node.js await vs return vs return await: 비동기 이해하기](https://ooeunz.tistory.com/47)
 * [no-return-await 는 항상 정답일까](https://jojoldu.tistory.com/699)
 * [1. 낡은 코드를 뜯어고쳐봅시다](https://velog.io/@phw3071/%EB%82%A1%EC%9D%80-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B9%98%EA%B8%B0-1)
