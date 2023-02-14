@@ -88,6 +88,7 @@ Programmer
 * [성장하는 개발자가 되는 사고방식](https://www.slid.cc/share/vdocs/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EC%82%AC%EA%B3%A0%EB%B0%A9%EC%8B%9D-41013172a5c44b66a1a8aa29d3518295)
 * [개발자의 성장 가능성은 어떻게 측정 가능한가?. 간혹 신입 개발자를 채용한다는 회사의 이야기를 듣다보면, 나를… | by 조은, John Cho | Jul, 2022 | Medium](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33)
 * [지속가능한 개발자 성장 스킬 5가지](https://f-lab.kr/blog/sustainable-developer-growth-skills)
+* [일의 난이도 높이기](https://jojoldu.tistory.com/701) 성장
 * [못하지 않는 개발자 되기 - 신입용 - YouTube](https://www.youtube.com/watch?v=wogrRJlqUFw)
 * [개발자로 살아남는 "진짜" 방법](https://f-lab.kr/blog/how-to-be-good-developer)
 * [쉽게 살 수 있을까 ? :: 개발자 성장에 대한 강연.](https://hl1itj.tistory.com/249)
