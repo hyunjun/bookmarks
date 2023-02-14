@@ -1656,6 +1656,7 @@ Business
 * [2022년 ‘리더십’ 및 ‘팀’에 대한 성찰. 올해 1월 갑자기 임신 사실을 알았고, 출산과 육아를 하고 있다… | by Mijeong (Rachel) | Dec, 2022 | Medium](https://mjspring.medium.com/2022%EB%85%84-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EB%B0%8F-%ED%8C%80-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%B1%EC%B0%B0-b0d8ca9707f3)
 * [디즈니의 밥 아이거가 직원과 고객 마음을 얻는 방법 - 티타임즈](https://www.ttimes.co.kr/article/2023011717437713308)
 * [**반즈 & 노블의 놀라운 턴어라운드에서 배울 수 있는 것 | GeekNews**](https://news.hada.io/topic?id=8410) `Top의 좋은 결정을 대신할 수 있는 것은 없고, 어리석은 결정에 대한 해결책도 없다`
+  * [반스 앤 노블, 몰락하던 오프라인 서점의 부활.. : 네이버블로그](https://blog.naver.com/bizucafe/223015755693)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
