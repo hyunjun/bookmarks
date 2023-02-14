@@ -183,6 +183,7 @@ Azure
 * [Create & Deploy a Node API app on Azure](https://qwertycod.com/create-deploy-a-node-api-app-on-azure/)
 * [Lift and shift Windows applications to containers | InfoWorld](https://www.infoworld.com/article/3670093/lift-and-shift-windows-applications-to-containers.html)
 * [Azure에서 React.js배포 - Byeongjin Jason Kang](https://jasonkang14.github.io/azure/static-web-app-to-deploy-react)
+* [Microsoft technical support results for the "Unable to delete ghost tenant" issue](https://www.dokyun.pe.kr/281)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
