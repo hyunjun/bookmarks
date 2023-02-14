@@ -1079,6 +1079,7 @@ Scala
     * [Early adventures in ZIO land | Bogdan Dimitriu’s blog](https://bbdimitriu.github.io/scala/zio/2023/01/14/early-adventures-zio-land.html)
     * [Parallelizing Complex Data Pipelines Using ZIO With Spark by Kunal Tiwary - YouTube](https://www.youtube.com/watch?v=FXVorUR4QZM)
     * [Zymposium - ZIO OpenAI - YouTube](https://www.youtube.com/watch?v=RSPZBsCnwfY)
+    * [Build Invincible Apps With ZIO And Temporal by Vitalii Honta - YouTube](https://www.youtube.com/watch?v=8MUnEahr5tk)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
