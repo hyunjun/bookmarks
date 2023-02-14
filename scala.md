@@ -2348,6 +2348,7 @@ Scala
   * [Getting started with Scala.js, Laminar and ScalablyTyped | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=UePrOa_1Am8)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
+* [scala-webapp-template: A pragmatic skeleton to build web applications in Scala/Scala.js, including user registration, login, admin portal, and, deployments](https://github.com/wiringbits/scala-webapp-template)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
