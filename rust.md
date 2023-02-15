@@ -186,6 +186,8 @@
     * 지금까지는 Rust를 배우는 데 도움이 되고 있다고 함
 * [High Performance Rust UI - YouTube](https://www.youtube.com/watch?v=zVUTZlNCb8U)
 * [This Is the Kind of Rust the Automotive Industry Needs](https://blogs.blackberry.com/en/2023/02/this-is-the-kind-of-rust-the-automotive-industry-needs) SDV
+* [The Rust Implementation Of GNU Coreutils Is Becoming Remarkably Robust - Phoronix](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
+  * [GNU Coreutils의 Rust 구현체가 놀랍게 강력해지고 있음 | GeekNews](https://news.hada.io/topic?id=8475)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
