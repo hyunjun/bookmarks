@@ -4824,6 +4824,7 @@ Programming
 * [서비스 패턴으로 조립하기 쉬운 백엔드 만들기 - DEV Community 👩💻👨💻](https://dev.to/0916dhkim-kr/seobiseu-paeteoneuro-joribhagi-swiun-baegendeu-mandeulgi-69b) express
 * [Refactoring and Design Patterns](https://refactoring.guru/)
   * [리팩터링과 디자인 패턴](https://refactoring.guru/ko)
+* [Redirect Refactoring](https://zuminternet.github.io/redirect-refactoring/)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
