@@ -418,6 +418,7 @@ Network
 * [mTCP TCP/IP applications for DOS PCs](http://www.brutman.com/mTCP/mTCP.html)
 * [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
 * [TCP Socket Listen: A Tale of Two Queues](http://arthurchiao.art/blog/tcp-listen-a-tale-of-two-queues/)
+* [Connection Reset by Peer 문제 해결](https://velog.io/@youngerjesus/Connection-Reset-by-Peer-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 
 # UDP
