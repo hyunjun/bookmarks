@@ -2772,6 +2772,9 @@ Programming Books
 * [어쩌다 팀장](https://www.gilbut.co.kr/book/view?bookcode=BN003093)
   * ★★★☆☆ 2023.02.13
   * 탐라 문325.24-이59ㅇ
+* [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
+  * ★★★★☆ 2023.02.14~15
+  * 탐라 문325.24-배811ㄹ
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
@@ -2789,8 +2792,6 @@ Programming Books
   * 한라 325.2-버874ㅇ
 * (NOT YET) [곽병선 한국소액주주연구회 수석부회장이 전하는 '리더십 에피소드'](https://www.kyeonggi.com/article/20220406580002)
   * 한라 325.24-곽44ㄹ 탐라 문325.24-곽44ㄹ
-* (NOT YET) [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
-  * 탐라 문325.24-배811ㄹ
 * (NOT YET) [서번트 리더의 조건](https://www.fnnews.com/news/200311271025303552)
   * 우당 문325.3-버231ㅅ
 * (NOT YET) [세계 최고의 CEO는 어떻게 일하는가](https://gangsanilee.tistory.com/2783)
