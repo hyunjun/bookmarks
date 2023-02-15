@@ -453,6 +453,7 @@ AWS
 * [Economical Comparison of AWS CPUs for MySQL (ARM vs Intel vs AMD) - Percona Database Performance Blog](https://www.percona.com/blog/economical-comparison-of-aws-cpus-for-mysql-arm-vs-intel-vs-amd/) Graviton
 * [왜 우리는 AWS Graviton2 사용해야 하는가?. 안녕하세요 저는 Spoon Radio에서 SRE 업무를 담당하고 있는… | by Paul | Spoon Radio | Jul, 2022 | Medium](https://medium.com/spoontech/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-aws-gravition2-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-6cb8b5858552)
 * [AWS Graviton Fast Start – 그라비톤 기반 완전 관리 서비스 이전 지원 프로그램 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
+* [AWS Graviton3 기반 범용(M7g) 및 메모리 최적화(R7g) EC2 인스턴스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
@@ -482,6 +483,7 @@ AWS
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Cloud Provider 로 aws LoadBalancer 연결하기](https://ahnseungkyu.com/305)
 * [AWS 기반 재해 복구(DR) 아키텍처, 1부: 클라우드에서의 재해 복구 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-1/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 2부: 신속한 복구를 위한 백업 및 복원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-2/)
+* [AWS 기반 재해 복구(DR) 아키텍처, 3부: 파일럿 라이트 및 웜 스탠바이 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-3/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1729,6 +1731,7 @@ AWS
 * [AWS로 클라우드 시작하기: ③RDS | 요즘IT](https://yozm.wishket.com/magazine/detail/1345/)
 * [AWS EC2에서 curl을 이용한 RDS 접근 확인](https://nauco.tistory.com/74)
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(1) | by Phoebe Baek | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/oracle-dump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-d3d04700c23d)
+* [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(2) | by Phoebe Baek | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/oracle-data-pump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-2-eed89531940)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
