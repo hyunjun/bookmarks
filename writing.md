@@ -227,6 +227,7 @@ Writing
 * [Overview of technical writing courses  |  Technical Writing  |  Google Developers](https://developers.google.com/tech-writing/overview)
 * [Leadership Principles for AWS News Bloggers](https://www.linkedin.com/pulse/leadership-principles-aws-news-bloggers-jeff-barr/)
   * [블로거 리더쉽 원칙 :: Channy's Blog](https://channy.creation.net/blog/1758)
+* [쏘카에서 기술 블로그를 운영하는 방법 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/15/how-to-organize-tech-blog.html)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
