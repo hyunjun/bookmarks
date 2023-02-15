@@ -4610,6 +4610,7 @@ Programming
   * [기술 뉴스 #213 : 23-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1645)
   * [기술 뉴스 #214 : 23-01-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1648)
   * [기술 뉴스 #215 : 23-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1652)
+  * [기술 뉴스 #216 : 23-02-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1655)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
