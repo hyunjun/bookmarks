@@ -5409,6 +5409,7 @@ Javascript
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
 * [typia: Super-fast Runtime validator (type checker) with only one line](https://github.com/samchon/typia)
+  * [Universal Random Generator, which can make everything, just by only one line - DEV Community](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
 * [websites: Daangn on the WWW](https://github.com/daangn/websites)
 * [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/)
   * [GitHub - statelyai/xstate: State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
