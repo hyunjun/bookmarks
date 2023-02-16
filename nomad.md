@@ -376,3 +376,4 @@ Nomad & Remote
 * [출근과 재택, 어떻게 결정할 것인가.](https://brunch.co.kr/@hyungsukkim/166)
 * [원격 근무를 위한 리더십이 필요한 이유](https://www.traw.io/blog/why-you-need-leadership-for-remote-work)
 * [재택근무 보편론 — 보통의 언어](https://www.saeyoonjeong.com/blog/remote-work)
+* [글로벌 칼럼 | 재택근무 직원을 감시하고 통제할 필요가 전혀 없는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/277321)
