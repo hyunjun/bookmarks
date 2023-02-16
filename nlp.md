@@ -690,6 +690,7 @@ NLP
   * [ChatGPT and Watermarking - Seewoo Lee](https://seewoo5.github.io/jekyll/update/2023/01/28/chatgpt-watermark.html)
   * [챗GPT를 비판하는 진영의 논리도 함 보시죠](https://www.linkedin.com/posts/freeasthewind_%EB%A9%94%ED%83%80-ai-%EC%B1%85%EC%9E%84%EC%9E%90-%EC%B1%97gpt%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-activity-7025683900551073792-aynX/)
   * [ChatGPT Is a Blurry JPEG of the Web | The New Yorker](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+    * [천재 SF 작가가 말하는 ChatGPT의 한계 (테드 창)](https://www.philgineer.com/2023/02/sf-chatgpt.html)
     * ChatGPT는 웹의 흐릿한 JPEG라고 얘기하는 유명 SF 작가 테드 창의 글
     * JPEG 처럼 대규모 언어 모델(LLM)도 웹의 손실 압축이기 때문에 흐릿한 정보를 재포장하는 데는 유능해 보일 수 있지만
       * 재포장이 많아질수록 JPEG를 계속 압축하는 것처럼 흐려져서 품질이 나빠질 것
