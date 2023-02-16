@@ -138,12 +138,6 @@ Programming Books
   * [전길남, 연결의 탄생](https://github.com/hyunjun/bookmarks/blob/master/programming_books/birth_of_connection.md)
   * [전길남, 연결의 탄생. ‘전길남, 연결의 탄생’ 구본권 저자와의 만남 — YouTube | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/%EC%A0%84%EA%B8%B8%EB%82%A8-%EC%97%B0%EA%B2%B0%EC%9D%98-%ED%83%84%EC%83%9D-77789bec0763)
   * [전길남, 연결의 탄생](https://jh4hj.tistory.com/entry/%EC%A0%84%EA%B8%B8%EB%82%A8-%EC%97%B0%EA%B2%B0%EC%9D%98-%ED%83%84%EC%83%9D)
-* 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
-  * 한라 530-김74ㄱ 탐라 문504-김73ㄱ 우당 문320.911-김73ㄱ
-  * ★★★☆☆ 2022.07.06
-  * [AI Platform Odyssey 공학의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ai_platform_odyssey.md)
-  * [AI Platform Odyssey 공학의 미래. PROLOGUE 문명사적 변곡점, 공학은 무엇을 해야 하는가 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/ai-platform-odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98-97bbb564ab8)
-  * [AI Platform Odyssey 공학의 미래](https://jh4hj.tistory.com/entry/AI-Platform-Odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98)
 * [다빈치 코딩(부제 : 당신의 미래를 꾸는 실전 코딩 전략)](https://longdari76.tistory.com/105)
   * ★★★☆☆ 2022.10.02
     * 다빈치를 중심으로 프로그래밍 언어로 코드를 작성하는 것만이 코딩이 아니고, 문제를 해결하는 사고 방식이 코딩이라는 좋은 주제의 글
@@ -299,8 +293,6 @@ Programming Books
   * 한라 004-이75ㅇ
 * (NOT YET) [한 권으로 그리는 컴퓨터과학 로드맵: 알고리즘, 데이터 구조, 데이터베이스, 컴퓨터 구조, 프로그래밍 원리 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/64)
   * 탐라 문004-필237ㅋ, 우당 문004-필237ㅋ
-* (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
-  * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [구글 앱스 스크립트 완벽 가이드](https://blog.naver.com/bluevod/222820758653)
   * 한라 005.5-다872ㄱ
 * (NOT YET) [클라우드: 새로운 기술 생태계의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287191357)
@@ -315,8 +307,6 @@ Programming Books
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
-* (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
-  * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
   * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 * (NOT YET) [NGINX 쿡북(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9583925549)
@@ -325,8 +315,6 @@ Programming Books
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
 * (NOT YET) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
   * 한라 004.783-해298ㄷ
-* (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
-* (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
 * (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 
@@ -789,6 +777,35 @@ Programming Books
 * (NOT YET) [마이크로서비스 아키텍처 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B9403623796)
   * 우당
 
+# Artificial Intelligence
+* [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
+  * ★★★☆☆ 2022.05.18~19 여러가지 AI 관련 기본지식을 재미있게 읽기 좋음
+* 공학의 미래 AI platform odyssey ["공학의 미래, 인간 욕망 방향 따라 ‘디지털 융합 기술’ 추구해야"](http://www.aitimes.com/news/articleView.html?idxno=135940)
+  * 한라 530-김74ㄱ 탐라 문504-김73ㄱ 우당 문320.911-김73ㄱ
+  * ★★★☆☆ 2022.07.06
+  * [AI Platform Odyssey 공학의 미래](https://github.com/hyunjun/bookmarks/blob/master/programming_books/ai_platform_odyssey.md)
+  * [AI Platform Odyssey 공학의 미래. PROLOGUE 문명사적 변곡점, 공학은 무엇을 해야 하는가 | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/ai-platform-odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98-97bbb564ab8)
+  * [AI Platform Odyssey 공학의 미래](https://jh4hj.tistory.com/entry/AI-Platform-Odyssey-%EA%B3%B5%ED%95%99%EC%9D%98-%EB%AF%B8%EB%9E%98)
+* [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://brunch.co.kr/@lluvia/401)
+  * ★★★★☆ 2022.11.27 별 생각없이 꺼내든 책인데 내용이 좋다. AI가 아니라 그냥 기술 관련된 회사/팀을 운영하는 이야기로 대입해도 크게 어긋남이 없음
+  * 한라 325.1-로877ㄷ 탐라 문325.1-로828ㄷ
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/you_shall_develop_ai.md)
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도. 일관되게 나타나지만, 책의 주제는 AI이고 구체적인 내용은 AI의… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%80-ai%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84-cd5b61f0a94e)
+  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%80-AI%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84)
+* (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
+  * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
+* (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
+  * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
+* (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
+* (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
+* (NOT YET) 야사와 만화로 배우는 인공지능 [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
+  * 한라 004.73-권14ㅇ-1~2 우당 문004.73-권13ㅇ-1~2
+* (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * 우당 문004.73-박64ㅇ
+* (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
+  * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
+* (NOT YET) AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
+
 # C
 
 * Understanding and Using C Pointers / C 포인터의 이해와 활용
@@ -1009,14 +1026,6 @@ Programming Books
 * [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
   * 한라
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
-* [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
-  * ★★★☆☆ 2022.05.18~19 여러가지 AI 관련 기본지식을 재미있게 읽기 좋음
-* [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://brunch.co.kr/@lluvia/401)
-  * ★★★★☆ 2022.11.27 별 생각없이 꺼내든 책인데 내용이 좋다. AI가 아니라 그냥 기술 관련된 회사/팀을 운영하는 이야기로 대입해도 크게 어긋남이 없음
-  * 한라 325.1-로877ㄷ 탐라 문325.1-로828ㄷ
-  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/you_shall_develop_ai.md)
-  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도. 일관되게 나타나지만, 책의 주제는 AI이고 구체적인 내용은 AI의… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%80-ai%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84-cd5b61f0a94e)
-  * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%80-AI%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84)
 * (NOT YET) 비즈니스를 위한 데이터 과학
   * 탐라 개005.7-프295ㄷ
 * (NOT YET) 데이터로 말하라 : 냉철한 판단과 완벽한 설득의 기술
@@ -1058,15 +1067,12 @@ Programming Books
   * 우당 문005.133-임53ㅇ
   * [인공지능 100점을 위한 파이썬 수학(서평) - YouTube](https://www.youtube.com/watch?v=nTNQpf41hN0)
 * (NOT YET) [쏙쏙 들어오는 인공지능 알고리즘](https://jhrogue.blogspot.com/2021/06/blog-post.html)
-* (NOT YET) [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
 * (NOT YET) [파이썬 데이터 분석 실무 테크닉 100 | 위키북스](https://wikibook.co.kr/pyda100/)
   * 탐라 문005.76-시35ㅍ
   * [제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100 | 딥백수](https://dl4ab.github.io/2020/09/04/python-data-analysis-technique)
 * (NOT YET) [데이터 과학 트레이닝 북: 넘파이, 사이파이, 판다스, 매트플롯립을 활용하여 직접 실습해 보는 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d-%eb%b6%81/)
   * 우당 문005.133-츠821ㄷ
   * [source codes](files/data_science_training_book.zip)
-* (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-  * 우당 문004.73-박64ㅇ
 * (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
@@ -1089,8 +1095,6 @@ Programming Books
 * (NOT YET) [노코딩AI 코딩 없이 AI 만들기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296456424)
 * (NOT YET) [인공지능은 게임을 어떻게 움직이는가?](http://www.easyspub.co.kr/20_Menu/BookView/523/PUB)
   * 우당 문004.73-미62ㅇ
-* (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
-  * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
 * (NOT YET) [우리는 인공지능과 함께할 수 있을까?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285091584)
   * 탐라 문004.73-조53ㅇ 우당 문004.73-조53ㅇ
 * (NOT YET) [실무로 배우는 빅데이터 기술 (개정2판): 데이터 수집, 적재, 처리 분석, 머신러닝까지 | 위키북스](https://wikibook.co.kr/bigdata2nd/)
