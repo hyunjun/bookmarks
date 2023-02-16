@@ -130,6 +130,7 @@ Programming
 * [Tidy First? Daily Empirical Software Design & Why It Works | Beetroot](https://beetroot.co/productivity/tidy-first-daily-empirical-software-design-why-it-works/)
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
+* [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -868,6 +869,8 @@ Programming
 * [AKC2021 키노트 : 함께하기, 애자일 - 박태웅 - YouTube](https://www.youtube.com/watch?v=LxDY9Sg0pck)
 * [Scrum The Art of Doing Twice the Work in Half the Time](https://www.scruminc.com/new-scrum-the-book/)
   * [Agility is Inefficient • Klaus Bucka-Lassen & Dirk Bucka-Lassen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BvydomrrdyQ)
+* [Once Upon a Time in Agile • John Le Drew • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=QIzWwcN-1c8)
+* [How to Get Rid of Your Fears • Erwin de Gier • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X5kkuMbiHoU)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -1012,6 +1015,10 @@ Programming
 * Microsoft
   * [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
   * [Web API 디자인 모범 사례 - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+* [Mock.shop: A mock store API for easy prototyping](https://mock.shop/ai)
+  * Shopify에서 Storefront API를 테스트할 수 있는 Mock API 공개
+  * GraphQL API를 제공하면 curl, fetch, graphql-request, Apollo, Remix별로 예시도 같이 제공
+  * AI를 사용해서 프롬프트를 입력하면 API로 전환, 단 다양한 프롬프트를 지원하진 않음
 * [openapi-generator: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)](https://github.com/OpenAPITools/openapi-generator)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | LearnApplyShare](https://min9nim.vercel.app/2022-04-07-openapi-generator/)
   * [TypeScript 쓰면서 OpenAPI Generator 는 안 쓴다고? | MADTECH](https://tech.madup.com/openapi-generator/)
@@ -2381,6 +2388,7 @@ Programming
   * [Speedy Scala Builds with Bazel at Databricks](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
   * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
   * [Watch - Migrating Twitter's Monorepo from Pants to Bazel](https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk2)
+  * [Introduction to Bazel for Scala developers | by Rikito Taniguchi | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/introduction-to-bazel-for-scala-developers-2095a4a2a34d)
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
   * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
@@ -5319,8 +5327,13 @@ Programming
 * [더 나은 테스트 코드 : 일관성, 속도, 가시성](https://velog.io/@joosing/better-test-1)
 * [Han Wang- Testing Big Data Applications (Spark, Dask, and Ray)| PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=yQHksEh1GCs)
 * [자바지기 - 의식적인 연습으로 TDD, 리팩토링 연습하기](https://velog.io/@solar/%EC%9E%90%EB%B0%94%EC%A7%80%EA%B8%B0-%EC%9D%98%EC%8B%9D%EC%A0%81%EC%9D%B8-%EC%97%B0%EC%8A%B5%EC%9C%BC%EB%A1%9C-TDD-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%97%B0%EC%8A%B5%ED%95%98%EA%B8%B0)
+* [좋은 유닛 테스트란 무엇일까?. 무작정 테스트를 많이 만드는 것이 좋을까요? | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/%EC%A2%8B%EC%9D%80-%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-e6b4394f9ed)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
+* [testcontainers](https://github.com/testcontainers)
+  * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
+  * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
+    * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [Unleash: Open-Source Feature Management](https://www.getunleash.io/)
   * [Unleash custom strategy를 이용한 feature toggle 변수 필터 지정 - 현구막 기술 블로그](https://hyeon9mak.github.io/unleash-custom-strategy/)
   * [피쳐 토글 - 빠르고 안정적인 릴리즈를 향한 도약 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-11-24-feature-toggle/)
