@@ -176,7 +176,17 @@ Artificial Intelligence
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 1편- 지표 선정 및 평가 데이터/환경 구축 | Architecture 101](https://architecture101.blog/2023/01/19/ai-%EB%AA%A8%EB%8D%B8-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B2%80%EC%A6%9D-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B3%B5%EA%B0%9C-%EA%B5%AD%EB%AF%BC%EC%95%88%EC%A0%84-%ED%99%95%EB%B3%B4-%EB%B0%8F/)
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 2편- 데이터 품질 평가 | Architecture 101](https://architecture101.blog/2023/02/11/ai-model_finding_missing_people/)
 * [쉽게 살 수 있을까 ? :: AI 서비스가 Powerful 한 이유, 결국 돈 문제](https://hl1itj.tistory.com/251)
-* [AI, 이번엔 다릅니다 – 스타트업 vs 기존 기업 (번역) – 이바닥늬우스](https://ebadak.news/2023/02/05/ai-startup-vs-incumbent-value/)
+* [AI: Startup Vs Incumbent Value - by Elad Gil - Elad Blog](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
+  * [AI, 이번엔 다릅니다 – 스타트업 vs 기존 기업 (번역) – 이바닥늬우스](https://ebadak.news/2023/02/05/ai-startup-vs-incumbent-value/)
+  * 지난 10년 동안 많은 AI 스타트업이 있었지만, 좋은 성과를 내지 못하고
+    * 구글, 페이스북, 아마존 등 기존 기업이 AI를 더 잘 활용
+  * 이 이유는 10배짜리 제품을 만들기 못했고
+    * 대규모 데이터 세트를 얻기 어려웠고
+    * 시장환경도 쉽지 않았기 때문
+  * 하지만 새로 다가오는 AI 파도는 스타트업이 더 큰 가치를 만들 것이라고 믿는데
+    * 뛰어난 기술이 등장하고 있고
+    * 인프라를 제공하는 스타트업이 생겨나고 있고
+    * 기존에 확실히 1등이 없던 영역에서 사용사례가 나타나기 때문
 * [SaaS 프로덕트의 성공을 견인하는 Fly-wheel, 그리고 생성형 인공지능 애플리케이션 | by Coxwave | Coxwave 블로그 | Jan, 2023 | Medium](https://medium.com/coxwave%EB%B8%94%EB%A1%9C%EA%B7%B8/saas-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-fly-wheel-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-a40f35a5e40a)
 * [NVIDIA’s New AI: Nature Videos Will Never Be The Same! - YouTube](https://www.youtube.com/watch?v=r2zv3sNsnqo)
 
