@@ -1693,6 +1693,12 @@ Docker
     * Cilium은 eBPF 기반의 네트워크 플러그인으로 그 특성상 성능이 좋고 네트워크, 보안, 관측성을 제공할 수 있고 최근에 Mesh도 추가
     * 로컬에서 K3s로 Kubernetes 클러스터를 구성해서 여기에 cilium CLI로 설치하고 Hubble로 대시보드까지 확인하는 방법 설명
   * [eBPF와 함께 이해하는 Cilium 네트워킹 - Speaker Deck](https://speakerdeck.com/hadaney/ebpfwa-hamgge-ihaehaneun-cilium-neteuweoking)
+  * [Cilium CNI on EKS using secondary CIDR and prefix delegation | by Benoit MOUQUET | Medium](https://medium.com/@benoit.mouquet/cilium-cni-on-eks-using-secondary-cidr-and-prefix-delegation-55e57ffd2537)
+    * Cilium은 eBPF 기반으로 네트워크 통신을 모니터링하고 필터링
+    * AWS EKS는 Calico를 사용하고 있지만 DNS 정책을 적용할 수 있고 Hubble로 가시성을 제공할 수 있으므로 Cilium을 사용하기로 선택
+      * Cilium 네트워크 플러그인, Pod을 위한 VPC의 secondary CIDR, ENI 접두사 위임을 사용하기로 결정
+      * EKS에서 지원하지 않기 때문에 VPC CNI를 따로 지워야 했고
+      * 이후 Cilium을 설정하고 Hubble UI로 기본 설정 확인을 한 뒤 정책을 적용하는 방법 정리
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
@@ -2151,9 +2157,6 @@ Docker
 * [Sandboxie: Sandboxie - Open Source](https://github.com/sandboxie-plus/Sandboxie)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
-* [testcontainers](https://github.com/testcontainers)
-  * [testcontainers-scala: Docker containers for testing in scala](https://github.com/testcontainers/testcontainers-scala)
-    * [Integration testing using docker containers in Scala](https://yadukrishnan.live/easy-integration-testing-with-testcontainer-scala)
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
   * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
   * [Hello, youki! – utam0k](https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/)
