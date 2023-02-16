@@ -689,6 +689,16 @@ NLP
   * [ChatGPT creates a new ChatGPT - YouTube](https://www.youtube.com/watch?v=QumfkMQr47M)
   * [ChatGPT and Watermarking - Seewoo Lee](https://seewoo5.github.io/jekyll/update/2023/01/28/chatgpt-watermark.html)
   * [챗GPT를 비판하는 진영의 논리도 함 보시죠](https://www.linkedin.com/posts/freeasthewind_%EB%A9%94%ED%83%80-ai-%EC%B1%85%EC%9E%84%EC%9E%90-%EC%B1%97gpt%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-activity-7025683900551073792-aynX/)
+  * [ChatGPT Is a Blurry JPEG of the Web | The New Yorker](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
+    * ChatGPT는 웹의 흐릿한 JPEG라고 얘기하는 유명 SF 작가 테드 창의 글
+    * JPEG 처럼 대규모 언어 모델(LLM)도 웹의 손실 압축이기 때문에 흐릿한 정보를 재포장하는 데는 유능해 보일 수 있지만
+      * 재포장이 많아질수록 JPEG를 계속 압축하는 것처럼 흐려져서 품질이 나빠질 것
+    * LLM의 품질을 측정하는 기준으로 회사가 생성한 텍스트를 새 모델의 학습 자료로 쓰려고 하는지로 볼 수 있는데
+      * 이렇게 하려면 발전 필요
+    * 독창적인 글쓰기에 LLM이 도움이 되느냐고 했을 때
+      * 복사기를 이용한 예술가와 예술 장르가 있으므로 "그렇다"고 대답할 수도 있지만
+      * 복사기가 예술의 필수 도구라거나 복사기로 불이익을 받는다고 말하는 사람은 없음
+      * 테드 창은 모호한 복사로 시작하는 것이 독창적인 작품을 만드는 좋은 방법은 아니며 독창적인 작품을 쓰기 전에 독창적이지 않은 작품을 많이 만드는 과정이 밑거름된다고 이야기
   * [챗GPT 근황 : 네이버 블로그](https://blog.naver.com/ranto28/222999223825)
   * [AI와 노코드로 자동 블로그를 만들어보고 느낀 점](https://blog.nocodecamp.kr/lesson-learned-from-chatgpt/)
   * [Ultimate ChatGPT Resource Guide - ChatGPT Tutorial - DEV Community 👩💻👨💻](https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe)
@@ -1012,6 +1022,18 @@ NLP
 * [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model | NVIDIA Developer Blog](https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)
   * [MS와 Nvidia가 세계 최대규모 언어 모델 MT-NLG 530B를 발표 | GeekNews](https://news.hada.io/topic?id=5187)
 * [Do large language models understand us? | by Blaise Aguera y Arcas | Dec, 2021 | Medium](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
+* [The Next Generation Of Large Language Models](https://www.forbes.com/sites/robtoews/2023/02/07/the-next-generation-of-large-language-models/?sh=2a8551318dbc)
+  * 대규모 언어 모델(LLM)의 미래에 대한 기사
+    * LLM의 다음 세대는 어떤 모습일까에 대한 대답은 이미 나와 있고 다음과 같은 모델이 될 것이라고 함
+  * 스스로 학습 데이터를 생성하여 스스로 개선할 수 있는 모델
+    * 인간의 뇌와 비슷하게 모델이 학습 데이터를 만들어서 자기 개선을 계속할 수 있다면 데이터 부존 문제를 해결
+  * 스스로 사실 확인을 할 수 있는 모델
+    * 현재의 LLM은 Google 검색을 대체할 수 없는데 부정확하거나 잘못된 정보를 자신감 있고 설득력 있게 제시하기 때문
+    * OpenAI의 CEO인 샘 알트먼도 "ChatGPT는 믿을 수 없을 정도로 제한적이지만, 일부 기능에서는 훌륭하다는 오해를 불러일으킬 만큼 충분히 뛰어납니다. 지금 당장 중요한 일에 이 기술에 의존하는 것은 실수입니다."라고 언급
+    * 이를 개선하기 위해 LLM이 외부 소스에서 정보를 검색할 수 있고 제공하는 정보에 대한 참조를 제공할 수 있도록 하는 연구 진행 중
+  * 대규모의 sparse expert 모델
+    * 현재의 LLM은 아키텍처가 거의 동일, 모델이 실행될 때마다 모든 매개 변수가 사용
+    * sparse expert 모델에서는 관련된 하위 집합만 사용할 수 있기 때문에 계산 요구사항이 적고 해석하기 쉽다는 장점
 * [Huge “foundation models” are turbo-charging AI progress | The Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
