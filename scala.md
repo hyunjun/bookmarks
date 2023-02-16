@@ -665,6 +665,7 @@ Scala
 * [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [Enumerations in Scala](https://www.youtube.com/watch?v=GqobszawRnQ)
 * [Scala Case Classes vs Enumeration - Wojciech Programming Blog](https://www.wlangiewicz.com/2016/03/20/scala-case-classes-vs-enumeration/)
+* [Concise enumeration in Scala | ScalaJobs.com](https://scalajobs.com/blog/concise-enumeration-in-scala/)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
