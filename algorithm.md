@@ -296,6 +296,13 @@ Algorithm
 * [How to Solve the Parking Lot Challenge in JavaScript](https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/)
 * [알고리즘 문제해결의 관점에서 프로그래밍 언어라는 것은 – shifted](https://blog.shift.moe/2022/07/18/on-programming-languages-in-competitive-programming/)
 * [GitHub - jskDr/Rust: All Algorithms implemented in Rust](https://github.com/jskDr/Rust)
+* [A Gentle Introduction to CRDTs - vlcn.io](https://vlcn.io/blog/gentle-intro-to-crdts.html) Conflict Free Replicated Data types (CRDTs)
+  * 동시 편집 에디터 등에서 사용하는 CRDT(Conflict Free Replicated Data types) 동작 설명
+  * CRDT는 오프라인에서도 문서를 수정하고 온라인이 되면 동기화가 이루어져서 같은 결과본을 갖게 되므로 지연 동기화, 서버리스 싱크 가능
+    * 이를 CRDT없이 구현하려면 마지막에 수정된 변경 사항을 선택해야 하는데
+    * 분산된 상황에서 마지막 변경 사항임을 알기 위해서 시간 값을 사용하는 것은 많은 문제 발생
+    * CRDT는 이를 논리적 시계로 만들어 구현
+  * 각 상황에서 실행해 볼 수 있는 예제를 제공
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
