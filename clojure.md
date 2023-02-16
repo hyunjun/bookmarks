@@ -870,6 +870,7 @@ Clojure
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
 * [clojure-clr-monogame-test at pong](https://github.com/lucasteles/clojure-clr-monogame-test/tree/pong)
+* [clojure-clr-next: Next generation of ClojureCLR under development](https://github.com/dmiller/clojure-clr-next)
 * [ClojureDart: A port of Clojure that compiles to Dart](https://github.com/Tensegritics/ClojureDart)
 * [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
