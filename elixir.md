@@ -152,6 +152,7 @@ Elixir
   * [#elixirlang phoenix 웹 프레임워크의 관절 plug 매크로 간단 버전 구현](http://ohyecloudy.com/pnotes/archives/elixirlang-simple-plug-implementation/)
   * ["Hacking" Phoenix LiveView with F12 and Burp Suite - YouTube](https://www.youtube.com/watch?v=IGwoQQjal8Y)
   * [Making a CheckboxGroup Input · Fly](https://fly.io/phoenix-files/making-a-checkboxgroup-input/)
+  * [Custom styling with LiveView function component attributes · Fly](https://fly.io/phoenix-files/customizable-classes-lv-component/)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
