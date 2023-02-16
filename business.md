@@ -679,6 +679,7 @@ Business
 * [X세대가 매월 100억원씩 쓰는 ‘퀸잇’ 운영하는 라포랩스 “1:1 미팅이 동기를 부여하는 문화의 핵심”](https://camp.lemonbase.com/ceo_interview/rapportlabs)
 * [1:1 미팅, 그냥 하지 마세요.. 성장하는 조직을 위한 5가지 팁 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/meetingtip20221005)
 * [구성원분들과 1:1 할때 (or 셀프 체크업) 활용하기 좋은 질문 리스트](https://www.facebook.com/naieekim/posts/pfbid0c9SaQoKDC24AGqUv19QC7Yt93fL7Adtuyar25BXNfrZza6nRuw9G2odQ8mQvbA92l)
+* [요즘 잘나가는 회사들의 직원평가 방법 (권민석 레몬베이스 대표) - 티타임즈](https://www.ttimes.co.kr/article/2023021318337766225)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -1687,6 +1688,7 @@ Business
 * [**The Set-Up-To-Fail Syndrome**](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
   * [한기용 - 좋은 사람을 뽑았다면 그 다음은?](https://www.linkedin.com/posts/activity-6978605574007459840-ATGu/)
 * [스타플레이어가 꼭 있어야 할까?](https://www.facebook.com/shinsoojungceo/posts/pfbid02miiozDZeFc7NnUCtZHmiEPbutZLKySaG8ekoVseDNNDecqLGnBobiN1SBe9pozerl)
+* [A Guide To Managing Technical Teams • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=urghSC21Mx0)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
