@@ -144,6 +144,7 @@ NoSQL
     * Range로 나누어서 Raft 알고리즘을 통해 Leaseholder, Raft Leader를 선출해서 사용
     * 프로덕션에서 운영 시 주의할 점도 정리
       * 국내에서 이런 규모의 CockroachDB 경험이 흔치는 않아서 참고
+* [쿠키런: 킹덤 AWS AZ 장애 아웃라인](https://tech.devsisters.com/posts/crk-aws-az-failure-postmortem/)
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
