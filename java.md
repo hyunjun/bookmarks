@@ -416,8 +416,10 @@ Java
 * [**Comparison of Asynchronous Data Loading in Java**](http://ejf.io/dev_blog/async_java_compare/) Futures, Callbacks and Wrapper classes, Observers, RxJava
 * [Async-IO vs Async-Request Processing in java](https://medium.freecodecamp.org/java-async-io-async-request-processing-in-http-request-1a04f395d8c7)
 * [**Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?**](https://alwayspr.tistory.com/44)
+* [왜 비동기 코드를 작성하시나요?](https://velog.io/@joosing/why-do-you-write-asynchronous-code)
 * [Awaitility Wiki](https://github.com/awaitility/awaitility/wiki/Usage)
   * [비동기 시스템 테스트 코드 개선기 (until Awaitility)](https://velog.io/@joosing/improve-async-system-test-code-using-awaitility)
+  * [비지니스 로직에 집중하는, 비동기 테스트 코드 만들기 (Awaitility)](https://velog.io/@joosing/focus-on-business-logic-in-asynchronous-test-code)
 * [Armeria - an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
   * [Java와 Armeria로 기본적인 웹 서버 만들기](https://engineering.linecorp.com/ko/blog/making-a-basic-server-with-java-armeria/)
