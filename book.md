@@ -282,6 +282,9 @@ Book
   * [카스트 가장 민주적인 나라의 위선적 신분제](https://github.com/hyunjun/bookmarks/blob/master/books/caste.md)
   * [카스트 가장 민주적인 나라의 위선적 신분제 - Jun - Medium](https://nymets.medium.com/%EC%B9%B4%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9E%A5-%EB%AF%BC%EC%A3%BC%EC%A0%81%EC%9D%B8-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%9C%84%EC%84%A0%EC%A0%81-%EC%8B%A0%EB%B6%84%EC%A0%9C-fe6843557c7f)
   * [카스트 가장 민주적인 나라의 위선적 신분제](https://jh4hj.tistory.com/entry/%EC%B9%B4%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9E%A5-%EB%AF%BC%EC%A3%BC%EC%A0%81%EC%9D%B8-%EB%82%98%EB%9D%BC%EC%9D%98-%EC%9C%84%EC%84%A0%EC%A0%81-%EC%8B%A0%EB%B6%84%EC%A0%9C)
+* [처음 배우는 그래픽 레코딩](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
+  * ★★★☆☆ 2023.02.15~16 잘 쓰면 괜찮으려나... 좀 애매한 책
+  * 탐라 문325.26-구45ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -392,8 +395,6 @@ Book
   * 한라 331.1-네34ㅂ 탐라 문331.1-네33ㅂ 우당 문331.1-네33ㅂ
 * (NOT YET) [나의 빛을 가리지 말라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304574312)
   * 한라
-* (NOT YET) [처음 배우는 그래픽 레코딩](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
-  * 탐라 문325.26-구45ㄱ
 * (NOT YET) [모두 거짓말을 한다 : 네이버 블로그](https://blog.naver.com/respirited/221790581329)
   * 한라 321.97-다48ㅁ 탐라 문321.97-스839ㅁ 우당 문321.97-스839ㅁ
 * (NOT YET) [(나만을 위한) 레이달리오의 원칙](https://jhrogue.blogspot.com/2022/11/blog-post_30.html)
