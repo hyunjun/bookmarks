@@ -60,6 +60,7 @@ House
 * [깡통전세 세입자 생존 방법 총정리! 막 경매 넘기면 안 됩니다! - YouTube](https://www.youtube.com/watch?v=5wVrPkLXv_A)
 * [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
 * [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
+* [판치는 전세사기, 이걸 모르면 전세 보증금 한 푼도 못 돌려 받아요 (구해줘월부 부동산상담) - YouTube](https://www.youtube.com/watch?v=staIMEiWLJo)
 * [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
   * 열람할 때 '요약'도 체크해서 볼 것
 * [건축물대장과 등기부등본은 세트다. 건축물대장 보는법 속성 - YouTube](https://www.youtube.com/watch?v=W6rLIYhFUQk)
