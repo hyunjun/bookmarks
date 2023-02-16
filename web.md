@@ -311,6 +311,19 @@ Web
   * DDoS도 자연히 막을 수 있어서 보안도 좋지만
   * 기존 프레임워크가 엣지에 최적화되진 않아서 Fresh같은 프레임워크가 엣지에 맞게 설계되었다고 하고 있다
 * [링크, 현재창에서 열어야 할까 새 창에서 열어야 할까 | 웹으로 말하기](https://mytory.net/2022/10/19/link-current-tab-or-new-tab.html)
+* [Announcing Interop 2023 - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2023/02/announcing-interop-2023/)
+  * 브라우저 간의 구현 차이는 많은 문제를 일으키므로 이를 해결하기 위해서 웹 플랫폼 테스트를 공유해서 모든 브라우저가 테스트하도록 하고 있음
+  * Interop 프로젝트는 2022년부터 Apple, Bocoup, Google, Igalia, Microsoft, Mozilla가 협력한 프로젝트
+    * 웹의 상용 운용성 개선하기 위한 프로젝트
+    * Iterop 2022에서 여러 플랫폼의 상호 운용성이 많이 개선, 올해 Iterop 2023 발표
+  * Iterop 2023에서는 Focus ares와 Investigation의 개선 집중
+    * 웹 플랫폼 테스트에서는 이미 높은 수준의 사양과 우수한 테스트 커버리지를 가진 플랫폼을 중점적으로 다루며
+    * "Active focus area"는 올해 점수에 기여한 영역
+    * "Inactive focus ares"는 개선이 예상되지 않는 전년도의 포커스 영역
+    * 각 브라우저의 테스트 점수도 보여주지만
+      * Gecko, WebKit, Blink가 모두 통과한 테스트는 Interop 점수로 계산해서 모든 브라우저에서 안정적으로 동작하도록 하고 있음
+    * Investigation는 상호운용성이 부족한데 테스트 통과만으로는 개선할 수 없는 영역을 조사하는 것
+      * 모바일 플랫폼과 접근성 API에서 테스트 인프라가 불충분하다고 생각해서 이 부분에 집중할 예정
 
 # Apache
 * installation
@@ -400,6 +413,11 @@ Web
 * [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
 * [Internet Explorer 와 작별하기. 번개장터에서 Internet Explorer 지원을 종료하게 된 배경과… | by leo.kang | 번개장터 기술 블로그 | Sep, 2022 | Medium](https://medium.com/bunjang-tech-blog/internet-explorer-%EC%99%80-%EC%9E%91%EB%B3%84%ED%95%98%EA%B8%B0-1675dcc700e4)
 * [브라우저 대용량 파일 1 - 한줄씩 읽기](https://velog.io/@composite/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8C%8C%EC%9D%BC-1-%ED%95%9C%EC%A4%84%EC%94%A9-%EC%9D%BD%EA%B8%B0)
+* [Container queries land in stable browsers](https://web.dev/cq-stable/)
+  * 컨테이너 쿼리를 이제 모든 주요 브라우저에서 사용 가능
+  * 컨테이너 쿼리는 `container-type`이나 `container`로 `card`나 `inline-size`를 지정해야 하고
+    * 미디어쿼리를 사용하듯이 부모 요소의 스타일 정보를 알 수 있게 되므로 재사용할 수 있는 컴포넌트에서 유용
+  * 사이트에서 컨테이너 쿼리를 사용하는 예시를 제공하므로 직접 사용 가능
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
@@ -1041,6 +1059,7 @@ Web
 * [Webserver - Apache & Nginx - YouTube](https://www.youtube.com/playlist?list=PL0xeHY_ImQVUvHIXno_CKyupaEZBcwZvC)
 * [The Future of NGINX: Getting Back to Our Open Source Roots - NGINX](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/)
 * [Nginx 기반의 API Gateway 구현(with Python) :: GS Retail Engineering](https://gsretail.tistory.com/21)
+* [Binary Packages Now Available for the Preview NGINX QUIC+HTTP/3 Implementation - NGINX](https://www.nginx.com/blog/binary-packages-for-preview-nginx-quic-http3-implementation/)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
@@ -1279,6 +1298,7 @@ Web
 * [Pynecone: The easiest way to build web apps](https://pynecone.io/)
   * [미친 파이썬 프레임워크가 나타났다. - YouTube](https://www.youtube.com/watch?v=47BL6WLZJ1g)
   * ['pynecone 튜토리얼' 카테고리의 글 목록](https://employeecoding.tistory.com/category/pynecone%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
+  * ['pynecone 튜토리얼' 카테고리의 글 목록](https://martinii.fun/category/pynecone%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
 * [PyScript | Run Python in your HTML](https://pyscript.net/)
