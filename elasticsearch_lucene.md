@@ -357,6 +357,15 @@ ElasticSearch - Lucene
 * [검색 원리의 이해와 검색 문제 대응하기. 안녕하세요 저는 29CM 검색팀의 검색 운영담당자(PM) 원효석입니다… | by Puch | 29CM TEAM | Jan, 2023 | Medium](https://medium.com/29cm/%EA%B2%80%EC%83%89-%EC%9B%90%EB%A6%AC%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EA%B2%80%EC%83%89-%EB%AC%B8%EC%A0%9C-%EB%8C%80%EC%9D%91%ED%95%98%EA%B8%B0-df64e326203c)
 * [엘라스틱서치 그게 뭔데 그거 어떻게 하는 건데 | dealicious-inc.github.io](https://dealicious-inc.github.io/2021/11/22/dealibird-elastic-search.html)
 * [Elastic Search 기본 개념과 특징(장단점). 엘라스틱서치의 기본 개념, 특징에 대해 정리 | by Jaemun Jung | Medium](https://jaemunbro.medium.com/elastic-search-%EA%B8%B0%EC%B4%88-%EC%8A%A4%ED%84%B0%EB%94%94-ff01870094f0)
+* [The technology behind GitHub’s new code search | The GitHub Blog](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+  * 아직 베타이지만 GitHub의 새로운 코드 검색 기능은 Blackbird라고 부르는 Rust로 만든 검색엔진 사용
+  * 일반적인 텍스트 검색은 코드 검색에 맞지 않았고 Elasticsearch로 처음 만들었을 때 800만 개의 저장소를 색인하는데 여러 달 소요
+    * 지금은 저장소가 2억 개가 넘고 코드도 계속 변화하기 때문에 검색엔진으로 처리하기가 어려워서 직접 만들기로 결정
+  * 인덱스를 설계하고 효율적으로 인덱스하기 위해
+    * Git의 ObjectID로 샤드를 나누고 델타 인코딩으로 인덱스 할 양을 줄여서
+    * 155억 개의 문서를 18시간 만에 인덱싱
+    * Kafka로 push 이벤트에 따라 인덱스에 추가
+  * 사용자 검색할 쿼리 서비스가 따로 있어서 쿼리를 처리하고 있으며 p99는 100ms 정도
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
