@@ -455,6 +455,7 @@ Interview
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
     * [**서비스 가용성 확보에 필요한 Rate Limiting Algorithm에 대해**](https://www.mimul.com/blog/about-rate-limit-algorithm/)
     * [**고 처리량 분산 비율 제한기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/high-throughput-distributed-rate-limiter/)
+    * [API 게이트웨이 톺아보기: 스로틀링과 알고리즘 구현 | 요즘IT](https://yozm.wishket.com/magazine/detail/1900/) leaky bucket
     * [System Design Rate Limiter | Leaky Bucket Implementation | System Design Interview - YouTube](https://www.youtube.com/watch?v=nxraKcWpBvs)
     * [System Design Rate Limiter | Token Bucket Implementation | System Design Interview - YouTube](https://www.youtube.com/watch?v=TCTkkVoY3-I)
     * [How I Would Design… An API Rate Limiter! | by James Collerton | Medium](https://jc1175.medium.com/how-i-would-design-an-api-rate-limiter-acad9b8e5a2e)
