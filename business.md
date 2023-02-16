@@ -1451,6 +1451,7 @@ Business
 * [인정리더 vs. 존경리더](https://brunch.co.kr/@say2lee/49)
 * [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
 * [직장인을 위한 김호의 ‘생존의 방식’ ‘겸손한 질문’이 조직을 살린다](https://www.donga.com/news/Society/article/all/20170621/84982076/1)
+* [CEO 심리학 `지적 겸손` 낮은 사람 많으면…`애자일 조직` 만들어도 실패 - 오늘의 매경](https://www.mk.co.kr/today-paper/view/2021/4916881/) 학습 감소
 * [권력을 분담하면 기업이 개선된다 | 지속가능성 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/12_1/article_no/1742/page/1)
 * [조직 구성원의 새로운 시도를 독려하는 리더쉽 행동 가이드](https://www.linkedin.com/posts/feeljae-kim-896bb3185_%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8F%84%EB%A5%BC-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EC%89%BD-%ED%96%89%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C-activity-6839891738522476544-Hhul/)
 * ['완전한 솔직함'이 리더십의 중요한 원칙으로 떠오르는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/honesty20190820)
@@ -2296,6 +2297,7 @@ Business
 * [고객이 원하는게 무엇인지 모르겠다면 이 방법들을 활용해보세요 - YouTube](https://www.youtube.com/watch?v=7u4puOduOMA)
 * [칼럼 | ‘콰이강의 다리 문제’··· 테크놀로지스트의 전형적인 실수 - CIO Korea](https://www.ciokorea.com/news/236719) 고객이 진짜로 이용할 무언가를 만들기
 * [사용자 습관 형성을 위한 6가지 방법](https://brunch.co.kr/@cliche-cliche/156)
+* [고객의 이탈 가능성을 확인하는 방법- 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/crm/keeping-customers-happy/)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
