@@ -1081,6 +1081,7 @@ Scala
     * [Parallelizing Complex Data Pipelines Using ZIO With Spark by Kunal Tiwary - YouTube](https://www.youtube.com/watch?v=FXVorUR4QZM)
     * [Zymposium - ZIO OpenAI - YouTube](https://www.youtube.com/watch?v=RSPZBsCnwfY)
     * [Build Invincible Apps With ZIO And Temporal by Vitalii Honta - YouTube](https://www.youtube.com/watch?v=8MUnEahr5tk)
+    * [The Great Concurrency Smackdown: ZIO versus JDK by John A. De Goes - YouTube](https://www.youtube.com/watch?v=9I2xoQVzrhs)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
