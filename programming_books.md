@@ -2434,6 +2434,14 @@ Programming Books
   * [팀 토폴로지](https://github.com/hyunjun/bookmarks/blob/master/programming_books/team_topologies.md)
   * [팀 토폴로지. 기본적 논지는 즉, 시스템을 설계하는 조직은..… 그 조직에서 사용하는… | by Jun | May, 2022 | Medium](https://nymets.medium.com/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80-fb72c5baa77c)
   * [팀 토폴로지](https://jh4hj.tistory.com/entry/%ED%8C%80-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
+  * [Sam Newman - Don't Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/)
+    * "마이크로서비스 아키텍처 구축"의 저자인 샘 뉴먼이 쓴 글
+      * 최근 주목을 받는 Platform engineering이 플랫폼에 매몰되어 개발자 지원을 놓치고 있고 DevOps에서와 마찬가지로 요점을 놓치고 있다고 지적
+    * Kuberntes의 생태계의 너무 많은 기술이 생기면서 이 기술 자체에 매몰되어
+      * 사용자를 위해 존재해야 하는 플랫폼이 사용자를 플랫폼의 의도대로 굴복시키고 있음
+    * "팀 토폴로지"라는 책에도 플랫폼 얘기가 나오는데
+      * 플랫폼을 선택적으로 만드는 것이 중요
+      * 플랫폼을 강제하면 사람들을 끌어들이기 위해 사용자 경험을 개선할 동기가 사라지게 됨
 * [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
   * 탐라 문325.21-리58ㅅ
   * ★★★★☆ 2022.05.01~05
