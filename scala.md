@@ -644,6 +644,7 @@ Scala
 * [Video Streaming With Akka Streams - DZone Java](https://dzone.com/articles/hello-world-in-akka)
 * [Akka Streams Backpressure - Rock the JVM Blog](https://blog.rockthejvm.com/akka-streams-backpressure/)
   * [Akka Streams Backpressure - YouTube](https://www.youtube.com/watch?v=L5FAyCCWGL0)
+* [Akka Streams - Working with Stage Actors - YouTube](https://www.youtube.com/watch?v=CbROb078_Qs)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -1325,6 +1326,7 @@ Scala
 * [Integrating Developer Experiences — The Build Server Protocol in the IntelliJ Scala plugin](https://blog.jetbrains.com/scala/2019/08/08/integrating-developer-experiences-the-build-server-protocol-in-the-intellij-scala-plugin/)
 * [Using BSP effectively in IntelliJ and Scala | In Absentia](https://hmemcpy.com/2021/09/bsp-and-intellij/) BSP = Build Server Protocol
 * [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
+* [Performance tips for IntelliJ Scala Plugin | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/02/09/performance-tips-for-intellij-scala-plugin/)
 
 ## IDE VS Code
 * [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
