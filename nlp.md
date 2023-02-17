@@ -1037,6 +1037,7 @@ NLP
     * sparse expert 모델에서는 관련된 하위 집합만 사용할 수 있기 때문에 계산 요구사항이 적고 해석하기 쉽다는 장점
 * [Huge “foundation models” are turbo-charging AI progress | The Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
+* [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * GSLM
