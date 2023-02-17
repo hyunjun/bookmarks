@@ -1721,6 +1721,7 @@ Java
 * [Spring Security (1) - 구조와 동작 방식](https://velog.io/@couchcoding/Spring-Security%EC%99%80-Spring-Security-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [SSO를 Spring Security OAuth에서 Keycloak으로 전환하기(서론) | by 박도하 | Feb, 2022 | Medium](https://medium.com/@doha.park/sso%EB%A5%BC-spring-security-oauth%EC%97%90%EC%84%9C-keycloak%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%84%9C%EB%A1%A0-8b3670f46f1a)
 * [Spring Security 5 OAuth 총정리: 클라부터 서버까지 | NHN FORWARD](https://forward.nhn.com/2021/sessions/4)
+* [How to use HTTP Basic Authentication in Spring Security? | by javinpaul | Javarevisited | Feb, 2023 | Medium](https://medium.com/javarevisited/how-to-use-http-basic-authentication-in-spring-security-b32f30b977c3)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
@@ -1834,6 +1835,7 @@ Java
 * [Spring Batch Architecture - YouTube](https://www.youtube.com/watch?v=6DrwirLIoiU)
 * [Spring Batch HTTP Page Item Reader - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-batch-http-page-item-reader/)
 * [Spring Batch 실패를 다루는 기술 - ItemStream](https://jgrammer.tistory.com/entry/Spring-Batch-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-ItemStream)
+* [Spring Batch를 더 우아하게 사용하기 - Spring Batch Plus](https://d2.naver.com/helloworld/9879422)
 * [if kakao 2022 Batch Performance를 고려한 최선의 Reader | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-read/) itemreader
 * [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
