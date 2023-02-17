@@ -1390,6 +1390,8 @@ Programming
 * [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
 * [**Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020 - YouTube**](https://www.youtube.com/watch?v=9Az0q2XHtH8)
   * C4 model, diagrams are maps
+  * [Simon Brown on Twitter: "I'll keep saying this ... if people can't build monoliths properly, microservices won't help. #qconlondon #DesignThinking #Modularity" / Twitter](https://twitter.com/simonbrown/status/573072777147777024)
+  * [Architect Clippy on Twitter: "I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?" / Twitter](https://twitter.com/architectclippy/status/570025079825764352)
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
 * [How to Draw Useful Technical Architecture Diagrams | by Jimmy Soh | The Internal Startup | Jun, 2020 | Medium](https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d)
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
