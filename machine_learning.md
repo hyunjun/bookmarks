@@ -1423,6 +1423,7 @@ Machine Learning
 * [Simple Softmax Regression in Python — Tutorial](https://medium.com/@awjuliani/simple-softmax-in-python-tutorial-d6b4c4ed5c16)
 * [토끼와 거북이가 알려주는 회귀(Regression)](https://www.youtube.com/watch?v=qBdiAd6tceg)
 * [Simple Linear Regression Tutorial for Machine Learning (ML) | by Towards AI Team | Towards AI | Medium](https://medium.com/towards-artificial-intelligence/calculating-simple-linear-regression-and-linear-best-fit-an-in-depth-tutorial-with-math-and-python-804a0cb23660)
+* [Python ML guided project Level 1, 24min - simple linear regression house price prediction](https://www.datasimple.education/post/python-ml-guided-project-level-1-24min-simple-linear-regression-house-price-prediction)
 * [인공지능 컴퓨팅을 위한 파이썬 강좌](https://docs.google.com/document/d/1OIphIT5d8O_HjavCLbqIbNXxqhq2WzPpUFuB0m6feio/edit#heading=h.l4nhctb2no4g)
 * [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
 * [Machine Learning Exercises In Python, Part 2](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python_10.html)
