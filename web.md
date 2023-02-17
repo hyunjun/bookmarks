@@ -324,6 +324,7 @@ Web
       * Gecko, WebKit, Blink가 모두 통과한 테스트는 Interop 점수로 계산해서 모든 브라우저에서 안정적으로 동작하도록 하고 있음
     * Investigation는 상호운용성이 부족한데 테스트 통과만으로는 개선할 수 없는 영역을 조사하는 것
       * 모바일 플랫폼과 접근성 API에서 테스트 인프라가 불충분하다고 생각해서 이 부분에 집중할 예정
+* [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
 
 # Apache
 * installation
