@@ -67,6 +67,7 @@ Google Cloud Platform GCP
 * [Run BigQuery SQL using Python API Client | by Cristian Saavedra Desmoineaux | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/run-bigquery-sql-using-python-api-client-b5287ac05b99)
 * [빅쿼리에서 min_by, max_by](https://walkingfox.tistory.com/188)
 * [컬리의 BigQuery 도입기 - 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-1/)
+* [컬리의 BigQuery 도입기 - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-2/)
 * [BigQuery Omni with AWS](https://jybaek.tistory.com/982)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
