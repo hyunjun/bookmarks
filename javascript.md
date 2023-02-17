@@ -3877,6 +3877,7 @@ Javascript
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 * [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 - 원지혁 (AUSG 1기) :: AWS Community Day 2020](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
+* [React SSR 스타일링에 개고생하는 이유](https://velog.io/@composite/React-SSR-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%EC%97%90-%EA%B0%9C%EA%B3%A0%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
 * [Class Components vs Functional Components in React: Which is better? - YouTube](https://www.youtube.com/watch?v=7MjZ_tQljlM)
 * [A simplified Jira clone built with React and Node](https://github.com/oldboyxx/jira_clone)
