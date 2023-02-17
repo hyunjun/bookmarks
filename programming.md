@@ -131,6 +131,7 @@ Programming
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
+* [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
 * [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
@@ -862,6 +863,7 @@ Programming
 * [애자일/스크럼의 역사 :: Welcome to DJ's Story](https://dj-kim73.tistory.com/9)
 * [Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? • Gabrielle Benefield • GOTO 2012 - YouTube](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 * [40 Agile Methods in 40 Minutes • Craig Smith • YOW! 2015 - YouTube](https://www.youtube.com/watch?v=41czJq-YW-c)
+* [🎒 스프린트 중간에 인터럽트 업무를 처리하는 방법](https://maily.so/eddy/posts/44e0f9c8)
 * [Iterative and incremental development - Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
   * [Agile's 3 categories: Iterative, Incremental, and Evolutionary - Agile Notion](https://agilenotion.com/agile-categoriesiterative-incremental-evolutionary/)
   * [The greatest example ever of MVP and iterative, incremental development | by Gert Erasmus | Medium](https://medium.com/@gerterasmus23/the-greatest-example-ever-of-mvp-and-iterative-incremental-development-41fd718ece06)
@@ -1386,6 +1388,8 @@ Programming
 * [**LINE 트랜스코딩 서버 아키텍처 개선기 – 2**](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-2/)
 * [주제별 영상 제공 웹 서비스](https://zuminternet.github.io/ZUM-Pilot-provide-video/) architecture diagram까지 이어지는 문서 작성에 대해 볼만함
 * [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
+* [**Five Things Every Developer Should Know about Software Architecture • Simon Brown • GOTO 2020 - YouTube**](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+  * C4 model, diagrams are maps
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
 * [How to Draw Useful Technical Architecture Diagrams | by Jimmy Soh | The Internal Startup | Jun, 2020 | Medium](https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d)
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
