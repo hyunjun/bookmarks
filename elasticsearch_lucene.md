@@ -176,6 +176,7 @@ ElasticSearch - Lucene
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
 * [Installing Elasticsearch Step by Step](https://www.youtube.com/watch?v=yVOcFMe9I4c)
 * [How to setup TLS for Elasticsearch, Kibana, Logstash and Filebeat with offline install in Linux](https://www.elastic.co/blog/how-to-setup-tls-for-elasticsearch-kibana-logstash-filebeat-with-offline-install-in-linux)
+* [Windows 11 에서 Elastic 시작하기 - YouTube](https://www.youtube.com/watch?v=qIykyK6g6vU) install
 * [ElasticSearch 설치시 확인할 사항](https://springboot.cloud/15)
 * [The new elasticsearch java Rest Client](https://amsterdam.luminis.eu/2016/07/07/the-new-elasticsearch-java-rest-client/)
 * [Java Clients for Elasticsearch Transcript](http://blog.florian-hopf.de/2016/11/java-clients-elasticsearch.html)
