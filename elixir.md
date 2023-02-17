@@ -153,6 +153,7 @@ Elixir
   * ["Hacking" Phoenix LiveView with F12 and Burp Suite - YouTube](https://www.youtube.com/watch?v=IGwoQQjal8Y)
   * [Making a CheckboxGroup Input · Fly](https://fly.io/phoenix-files/making-a-checkboxgroup-input/)
   * [Custom styling with LiveView function component attributes · Fly](https://fly.io/phoenix-files/customizable-classes-lv-component/)
+  * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
