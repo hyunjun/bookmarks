@@ -1661,6 +1661,7 @@ Machine Learning
   * [STREAMLIT Python TRICKS - make your WEB APP look BETTER in 6 Minutes |Machine Learning| Data Science - YouTube](https://www.youtube.com/watch?v=G9U4Uixssf0)
   * [Building a Dashboard web app in Python - Full Streamlit Tutorial - YouTube](https://www.youtube.com/watch?v=o6wQ8zAkLxc)
   * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
+  * [Introducing two new caching commands to replace st.cache!](https://blog.streamlit.io/introducing-two-new-caching-commands-to-replace-st-cache/)
   * [streamlit-google-oauth: An example Streamlit application that incorporates Google OAuth 2.0](https://github.com/hunkim/streamlit-google-oauth)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
