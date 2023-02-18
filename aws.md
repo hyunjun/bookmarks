@@ -351,6 +351,7 @@ AWS
 * [Airflow 오류 - The session is unavailable because no secret key was set - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-flask-key-error/)
 * [Airflow 오류 - The CSRF session token is missing - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-csrf-token/)
 * [Airflow에서 superuser 만드는 법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-superuser/)
+* [AWS MWAA에서 시작된 Managed Service에 대한 단상](https://jybaek.tistory.com/984) airflow
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
