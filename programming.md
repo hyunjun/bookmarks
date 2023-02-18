@@ -5505,6 +5505,7 @@ Programming
   * CircleCI를 쓰고 있다면 저장된 시크릿을 revoke 시키고 새로 발급해야
   * 이후 공개된 사고 경위에 따르면 이번 사고는 CircleCI 엔지니어의 노트북에 설치한 멀웨어를 통해 2FA SSO 세션을 탈취해서 발생
     * [CircleCI incident report for January 4, 2023 security incident](https://circleci.com/blog/jan-4-2023-incident-report/)
+* [시스템 재부팅 이슈: 문제를 해결하는 두 가지 접근법 (귀납적, 연역적)](https://velog.io/@joosing/system-reboot-without-log)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
