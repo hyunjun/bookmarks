@@ -56,7 +56,8 @@ PHP
 * [PHP-FPM tuning: Using 'pm static' for max performance](https://haydenjames.io/php-fpm-tuning-using-pm-static-max-performance/)
 * [The difference between Traits, Interfaces, and Abstract Classes in PHP - Andrew Schmelyun](https://aschmelyun.com/blog/the-difference-between-traits-interfaces-and-abstract-classes-in-php/)
 * [PHP Imagick을 통한 PDF 제어가 안 될 때 (an operation not allowed by the security policy PDF) | 웹으로 말하기](https://mytory.net/archives/13640)
-* [PHP의 문자열 처리 함수에 mb_ 접두어가 붙은 이유 | 웹으로 말하기](https://mytory.net/archives/13813)
+* [PHP의 문자열 처리 함수에 `mb_` 접두어가 붙은 이유 | 웹으로 말하기](https://mytory.net/archives/13813)
+* [ChatGPT? PHP guzzle로 카카오 KoGPT API 연동하기 | 웹으로 말하기](https://mytory.net/archives/13821)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
