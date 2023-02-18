@@ -2812,8 +2812,8 @@ Programming Books
   * 우당 문325.24-매829ㄹ
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
-* (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086&start=slayer)
-  * 탐라
+* (NOT YET) [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086)
+  * 우당 문325.3-곽42ㄱ
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
 * (NOT YET) [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
   * 탐라
