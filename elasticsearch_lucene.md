@@ -367,6 +367,7 @@ ElasticSearch - Lucene
     * 155억 개의 문서를 18시간 만에 인덱싱
     * Kafka로 push 이벤트에 따라 인덱스에 추가
   * 사용자 검색할 쿼리 서비스가 따로 있어서 쿼리를 처리하고 있으며 p99는 100ms 정도
+* [Building Your Data Network. … how to give each data item a Data URL | by Tony Seale | Feb, 2023 | Medium](https://medium.com/@Tonyseale/building-your-data-network-468d06ecf87e)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
