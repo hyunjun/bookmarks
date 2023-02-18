@@ -74,6 +74,7 @@
     * 세션이 중심이었던 대신 사용자가 중심이 되어서 세션이 GA3보다 적게 수집될 가능성이 커졌고 이탈률이 사라지고 Engagement 이벤트를 통해서 사용자의 관여 정도와 목표설정이 가능
   * [구글 애널리틱스4 지표에서 사라진 브라우저 크기 수집하기 - 넷마블 기술 블로그](https://netmarble.engineering/collecting-viewport-at-ga4-with-gtm/)
   * [간소화된 GA4 메뉴, 반면 보고서는 더 풍성해졌다](https://brunch.co.kr/@kayros/173)
+  * [Google Analytics 4(GA4) BigQuery 연동](https://jybaek.tistory.com/983)
   * [Next.js와 Google analytics + Google optimize 설정하기](https://tech.youha.info/27e8f606-69a5-487b-ae92-c743106b187f)
   * [Introduction to Conversion Rate | Marketing Analytics for Beginners | Part-29 - YouTube](https://www.youtube.com/watch?v=rxJCADJFHKg)
   * [Working with Google Analytics Data Using Python and Jupyter Notebooks - Reflective Data](https://reflectivedata.com/working-with-google-analytics-data-using-python-and-jupyter-notebooks)
