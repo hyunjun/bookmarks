@@ -1603,6 +1603,7 @@ Java
   * [레진 기술 블로그 - Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
   * [How to develop a Reactive CRUD REST API with Spring WebFlux? | Making Java easy to learn](https://javatechonline.com/how-to-develop-a-reactive-crud-rest-api-with-spring-webflux/)
   * [WebFlux 사용시 WebClient를 써야하는 이유](https://effectivesquid.tistory.com/entry/WebFlux-%EC%82%AC%EC%9A%A9%EC%8B%9C-WebClient%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+  * [네? Webflux에선 Pagination을 못쓴다고요? 그럼 만들지 뭐...](https://velog.io/@vinto1819/%EB%84%A4-Webflux%EC%97%90%EC%84%A0-Pagination%EC%9D%84-%EB%AA%BB%EC%93%B4%EB%8B%A4%EA%B3%A0%EC%9A%94-%EA%B7%B8%EB%9F%BC-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%AD%90)
   * [Handling-reqeust-binding-exception in webflux](https://dev.gmarket.com/66)
 * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
 * 신입 개발자 & 학생을 위한 Spring MVC Setting
