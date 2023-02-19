@@ -2792,6 +2792,9 @@ Programming Books
 * [리더십 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292098536)
   * ★★★★☆ 2023.02.14~15
   * 탐라 문325.24-배811ㄹ
+  * [리더십 트랜스포메이션](https://github.com/hyunjun/bookmarks/blob/master/programming_books/leadership_transformation.md)
+  * [리더십 트랜스포메이션. 무엇을 말하느냐 하는 것보다 어떻게 전달하느냐가 중요 | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-ffbc2d6994a4)
+  * [리더십 트랜스포메이션](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98)
 * [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086)
   * ★★★☆☆ 2023.02.19
   * 우당 문325.3-곽42ㄱ
