@@ -506,6 +506,7 @@ ElasticSearch - Lucene
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
 * [**오래된 Legacy 기술을 만났을 때 우리가 대처하는 방법, 무정지 서비스로 ELK 신규 노드 증설하는 삽질 경험**](https://blog.naver.com/tmondev/222152137673)
 * [ELK란? Dable에서의 ELK 활용 소개 | Dable Tech Blog](https://teamdable.github.io/techblog/introduce-ELK)
+* [ELK Stack 훑어보기](https://hudi.blog/elk-stack-overview/)
 * [Elastic Stack을 활용한 글로벌 경제.. : 네이버블로그](https://blog.naver.com/sw930601/222776270283)
 
 # Go
@@ -619,6 +620,7 @@ ElasticSearch - Lucene
 * [escli](https://github.com/DevopsArtFactory/escli) elastic search에 command를 curl 대신 편하게 보낼 수 있는 command line tool
   * [Elastic Community Conference: 효율적인 ElasticSearch 클러스터 운영을 위한 escli 소개 - YouTube](https://www.youtube.com/watch?v=O5O-O9ydRzs)
 * [es-fixtures - Simple Fixture Loading for Elasticsearch from Node.js](https://github.com/toniov/es-fixtures)
+* [es-gpt](https://github.com/hunkim/es-gpt) Elasticsearch + GPT3
 * [esquery-proxy - Elasticsearch 용 RESTful API Gateway/Proxy](http://jjeong.tistory.com/1268)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)
 * [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org ](https://github.com/nocode2k/fess)
