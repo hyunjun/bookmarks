@@ -2114,6 +2114,7 @@ Programming Books
   * 탐라 문005.118-김18ㅇ
   * [취준생을 위한 웹프론트앤드 - 도서 추천 (feat. 스벨트로 시작하는 웹 프런트엔드) - YouTube](https://www.youtube.com/watch?v=5STDzb_6kHw)
   * [‘스벨트로 시작하는 웹 프런트엔드’ 출판 후기. 내가 Svelte를 알게된 것은 2020년 어느 때인가로 기억한다. 이… | by freeseamew | hollo coding story | Feb, 2022 | Medium](https://medium.com/freeseamew/%EC%8A%A4%EB%B2%A8%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%9C%ED%8C%90-%ED%9B%84%EA%B8%B0-c1ac66f9b309)
+  * [Svelte: 스벨트로 시작하는 웹 프런트엔드](https://github.com/bjpublic/Svelte)
 * (NOT YET) [함수형 자바스크립트: 모던 웹 개발에 충실한 실전 함수형 프로그래밍 안내서 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/03/08/Functional-Programming-in-JavaScript.html)
 * (NOT YET) [멀티스레드 기반 자바스크립트](https://www.rubypaper.co.kr/entry/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%EA%B8%B0%EB%B0%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
   * 탐라 문005.133-헌833ㅁ
