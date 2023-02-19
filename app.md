@@ -89,6 +89,7 @@ App
 * [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
   * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
+  * ccrypt [간단한 파일 암호화 – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4360)
   * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
