@@ -140,6 +140,7 @@ Finance
 * [미국 주식으로 시작하는 슬기로운 퀀트투자 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Wise_Quant_Investing_Starts_With_USA_Stocks/)
   * [미국주식으로 시작하는 슬기로운 퀀트투자를 읽고.. : 네이버블로그](https://blog.naver.com/mku92/222553278702)
 * [최병선 교수님 데이터사이언티스트를 위한 금융공학](https://brunch.co.kr/@gauss92tgrd/52)
+* [퀀트에 입문하게 하게 도와준 책들 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=53)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
@@ -182,6 +183,7 @@ Finance
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
