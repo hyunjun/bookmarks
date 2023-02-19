@@ -411,7 +411,7 @@ Book
 * (NOT YET) [나는 독일인입니다](http://www.catholicnews.co.kr/news/articleView.html?idxno=32397)
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 * (NOT YET) [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
-  * 한라
+  * 탐라 문325.23-곽64ㅂ
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
@@ -533,7 +533,7 @@ Book
 * (NOT YET) [미술관에 간 물리학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=229573782)
   * 한라 650.4-서38ㅁ 탐라 문420-서39ㅁ 우당 문420-서39ㅁ
 * (NOT YET) [The Cinema of George Lucas 조지루카스의 시네마](https://www.youtube.com/watch?v=Ip03xB992P0)
-  * 탐라
+  * 탐라 문688.15-헌31ㅈ
 * (NOT YET) [빈센트 반고흐 번역서 Van gogh TASCHEN 타셴 : 어바웃아트 ABOUTART](https://www.aboutart.co.kr/58/?idx=313)
   * 탐라 문650.99-650.99
 * (NOT YET) [뮤지엄×여행](https://blog.naver.com/ihk0704/221669710616)
@@ -725,7 +725,7 @@ Book
   * ★★☆☆☆ 2023.01.30~02.01
   * 한라 327.04-탈294ㅂ
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
-  * 탐라
+  * 탐라 문320.1-러58ㄴ
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
@@ -738,7 +738,7 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
-  * 탐라
+  * 탐라 문320.1-앵18ㅎ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)

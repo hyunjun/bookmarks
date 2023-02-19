@@ -771,7 +771,7 @@ Programming Books
 * (NOT YET) [실전 분산 추적 | 에이콘출판사](http://acornpub.co.kr/book/distributed-tracing)
   * 탐라 문005.12-파823ㅅ
 * (NOT YET) [솔루션 아키텍트 핸드북 2/e | 에이콘출판사](http://acornpub.co.kr/book/solution-handbook-2e)
-  * 탐라
+  * 탐라 문004.588-쉬239ㅅ
 * (NOT YET) [만들면서 배우는 헥사고날 아키텍처 설계와 구현 | 위키북스](https://wikibook.co.kr/dhaj)
   * 우당 문005.12-비63ㅎ
   * [dhaj](https://github.com/wikibook/dhaj)
@@ -2111,6 +2111,7 @@ Programming Books
 * (NOT YET) [《이펙티브 타입스크립트: 동작 원리의 이해와 구체적인 조언 62가지》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/06/10/%e3%80%8a%ec%9d%b4%ed%8e%99%ed%8b%b0%eb%b8%8c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%eb%8f%99%ec%9e%91-%ec%9b%90%eb%a6%ac%ec%9d%98-%ec%9d%b4%ed%95%b4%ec%99%80-%ea%b5%ac%ec%b2%b4/)
   * [이펙티브 타입스크립트 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/104)
 * (NOT YET) [스벨트로 시작하는 웹 프런트엔드](https://bjpublic.tistory.com/435)
+  * 탐라 문005.118-김18ㅇ
   * [취준생을 위한 웹프론트앤드 - 도서 추천 (feat. 스벨트로 시작하는 웹 프런트엔드) - YouTube](https://www.youtube.com/watch?v=5STDzb_6kHw)
   * [‘스벨트로 시작하는 웹 프런트엔드’ 출판 후기. 내가 Svelte를 알게된 것은 2020년 어느 때인가로 기억한다. 이… | by freeseamew | hollo coding story | Feb, 2022 | Medium](https://medium.com/freeseamew/%EC%8A%A4%EB%B2%A8%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%9C%ED%8C%90-%ED%9B%84%EA%B8%B0-c1ac66f9b309)
 * (NOT YET) [함수형 자바스크립트: 모던 웹 개발에 충실한 실전 함수형 프로그래밍 안내서 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/03/08/Functional-Programming-in-JavaScript.html)
@@ -2125,6 +2126,8 @@ Programming Books
 * (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
   * 탐라
 * (NOT YET) [러닝 타입스크립트 - 안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1654)
+* (NOT YET) [가장 빨리 만나는 스벨트](https://nexi.kr/133)
+  * 탐라 문005.118-박58ㄱ
 
 ## Angular
 
