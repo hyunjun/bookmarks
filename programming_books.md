@@ -2795,6 +2795,9 @@ Programming Books
 * [가우스전자 : 리더십 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302299086)
   * ★★★☆☆ 2023.02.19
   * 우당 문325.3-곽42ㄱ
+  * [가우스전자 리더십 편](https://github.com/hyunjun/bookmarks/blob/master/programming_books/gauss_electronics.md)
+  * [가우스전자 리더십 편. 대안을 강요할 때 문제는 숨는다 | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%EA%B0%80%EC%9A%B0%EC%8A%A4%EC%A0%84%EC%9E%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8E%B8-47ce02f05827)
+  * [가우스전자 리더십 편](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9A%B0%EC%8A%A4%EC%A0%84%EC%9E%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8E%B8)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
