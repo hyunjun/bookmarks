@@ -310,6 +310,7 @@ Programming Books
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
   * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 * (NOT YET) [NGINX 쿡북(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9583925549)
+  * [NGINX 쿡북 리뷰](https://velog.io/@youngerjesus/NGINX-%EC%BF%A1%EB%B6%81-%EB%A6%AC%EB%B7%B0)
 * (NOT YET) [세상을 바꿀 미래기술 12가지 | 위키북스](https://wikibook.co.kr/futuretech12/)
 * (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
