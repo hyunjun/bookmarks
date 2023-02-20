@@ -1228,6 +1228,7 @@ Book
   * 한라 320-베44ㅍ 320.904-노34ㅍ 탐라 320.904-노34ㅍ 우당 문108-청55ㅍ-16 문320-베43ㅍ
 * (NOT YET) [국가는 왜 실패하는가 국가간 격차가 존재하는 진짜 이유는? - YouTube](https://www.youtube.com/watch?v=jHTPbrdPwS0)
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
+* (NOT YET) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
 
 # Psychology
 * [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
