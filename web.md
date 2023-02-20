@@ -1623,6 +1623,7 @@ Web
   * [Lighthouse CI를 알아보고 Github Actions에 적용하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220602-lighthouse-with-github-actions/)
   * [이미지 최적화 하기](https://tech.youha.info/6aea5352-5476-4f3e-9a25-b4cbffc39270)
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
+  * [IMDEV 2023 당신의 웹페이지는 몇 점인가요? - YouTube](https://www.youtube.com/watch?v=aO-z9YmxOUk)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [PageSpeed Insights](https://pagespeed.web.dev/)
