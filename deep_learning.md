@@ -1843,6 +1843,7 @@ Deep Learning
   * [How Powerful are Graph Neural Networks? - Graph ML review](https://harryjo97.github.io/paper%20review/How-Powerful-are-Graph-Neural-Networks/)
   * [**DGL-tutorial: 그래프 딥러닝 라이브러리 DGL 쉽게 배우기**](https://github.com/myeonghak/DGL-tutorial)
   * [Graph Machine Learning at Airbnb. How Airbnb is leveraging graph neural… | by Devin Soni | The Airbnb Tech Blog | Jun, 2022 | Medium](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
+  * [Introduction to Graph Machine Learning](https://huggingface.co/blog/intro-graphml)
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [How Uber uses Graph Neural Networks to recommend you food (live stream) - YouTube](https://www.youtube.com/watch?v=9O9osybNvyY)
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
