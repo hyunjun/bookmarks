@@ -3305,6 +3305,7 @@ Javascript
   * [puppeteer.Page.keyboard JavaScript and Node.js code examples | Tabnine](https://www.tabnine.com/code/javascript/functions/puppeteer/Page/keyboard)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
+  * [puppeteer-loadtest: load test puppeteer (Headless Chrome API) script using node](https://github.com/svenkatreddy/puppeteer-loadtest)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
