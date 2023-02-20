@@ -319,6 +319,7 @@ Finance
 * [Time Series Forecasting on Stock Prices - YouTube](https://www.youtube.com/watch?v=j05UUs99eNQ)
 * [20220410 Python Pandas 와 QLD BackTesting - YouTube](https://www.youtube.com/watch?v=_FAu0Ej9-hs)
 * [파이썬으로 최적의 포트폴리오 비율 찾기 (한국 주식,국채 + 미국 주식,국채)](https://songseungwon.tistory.com/118)
+* [파이썬 주식 정보 API – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4370)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
