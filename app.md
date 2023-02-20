@@ -1338,6 +1338,7 @@ App
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
+* [Raycast](https://www.raycast.com/)
 * [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [remote-mac-lock: A prototype of remote locking my mac, connected to a wireless access point using a simple HTTP server. | 같은 AP 환경에서 원격으로 Mac 잠금](https://github.com/stevejkang/remote-mac-lock)
 * [Rocket Fuel](https://itunes.apple.com/app/rocket-fuel/id1114196460) prevents your Mac from going to sleep or dimming its display
