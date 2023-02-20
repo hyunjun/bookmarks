@@ -285,6 +285,9 @@ Book
 * [처음 배우는 그래픽 레코딩](https://aerim9327.tistory.com/888) 비주얼 씽킹 visual thinking
   * ★★★☆☆ 2023.02.15~16 잘 쓰면 괜찮으려나... 좀 애매한 책
   * 탐라 문325.26-구45ㄱ
+* [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
+  * ★★☆☆☆ 2023.02.20
+  * 탐라 문325.23-곽64ㅂ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -410,8 +413,6 @@ Book
   * 한라 아843-폴294ㄲ 우당 아843-폴233ㄲ
 * (NOT YET) [나는 독일인입니다](http://www.catholicnews.co.kr/news/articleView.html?idxno=32397)
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
-* (NOT YET) [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
-  * 탐라 문325.23-곽64ㅂ
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
