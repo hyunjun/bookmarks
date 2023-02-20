@@ -5422,6 +5422,7 @@ Programming
 * [if kakao 2022 사례로 보는 모바일 자동화 테스트를 통한 모니터링 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-mobile-automation-test-monitoring/)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
+* Applitools [AI-Powered Test Automation Platform - Applitools](https://applitools.com/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
 * [katalon.com](https://www.katalon.com)
   * [Introduce Katalon tool](https://www.slideshare.net/ssuser3e79ef/introduce-katalon-tool)
