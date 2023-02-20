@@ -828,6 +828,7 @@ Business
 * [전 Uber 리크루팅 디렉터이자 현 Fynd의 CEO인 Andrew의 방식](https://www.linkedin.com/posts/recruitlucas_%EC%98%AC-%ED%95%98%EB%B0%98%EA%B8%B0%EC%97%90%EB%8A%94-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%B6%84%EC%95%BC%EC%9D%98-%EA%B5%AC%EB%A3%A8%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EC%A0%84-uber-%EB%A6%AC%ED%81%AC%EB%A3%A8%ED%8C%85-%EB%94%94%EB%A0%89%ED%84%B0%EC%9D%B4%EC%9E%90-activity-7008367388123439104-eBxr/)
 * [미국 TOP 리크루터가 알려주는 스타트업 채용의 비밀](https://brunch.co.kr/@olivialee/30)
 * [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
+* [비즈니스 인사이트 외부 전문가를 영입할 때 종종하는 실수](https://n.news.naver.com/article/015/0004812238)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
