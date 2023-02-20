@@ -5432,6 +5432,8 @@ Programming
   * [katalon studio 툴을 이용한 GUI 테스트 자동화 가이드](https://www.slideshare.net/genycho/korean-gui-test-withkatalonstudio)
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
+* mabl [Intelligent Test Automation for Agile Teams | mabl](https://www.mabl.com/)
+* [Perfecto Scriptless! | Automated UI Testing Tool | Perfecto by Perforce](https://www.perfecto.io/products/scriptless)
 * [Robot Framework](https://robotframework.org/)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
   * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
@@ -5440,6 +5442,7 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
 * [Peanut: 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines](https://github.com/Clivern/Peanut)
   * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
+* Testim [Automated UI and Functional Testing - AI-Powered Stability - Testim.io](https://www.testim.io/)
 
 ## TDD, Test, BDD
 * [Introducing BDD - Dan North & Associates Ltd](https://dannorth.net/introducing-bdd/)
