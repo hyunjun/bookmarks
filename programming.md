@@ -5442,6 +5442,7 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
 * [Peanut: 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines](https://github.com/Clivern/Peanut)
   * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
+* TestCafe [Cross-Browser End-to-End Testing Framework | TestСafe](https://testcafe.io/)
 * Testim [Automated UI and Functional Testing - AI-Powered Stability - Testim.io](https://www.testim.io/)
 
 ## TDD, Test, BDD
