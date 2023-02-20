@@ -5067,9 +5067,13 @@ Javascript
     * 시각적 테스트는 수정될 가능성이 높으므로 기능적 테스트에 더 집중하기로 했고 테스트를 작성하기 쉽게 가이드 문서도 작성
   * [테스트 코드 자동으로 만들기 feat. Cypress Studio | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221222-cypress-studio-test-automation-low-code/)
   * [Cypress vs Other Test Runners | Better world by better software](https://glebbahmutov.com/blog/cypress-vs-other-test-runners/)
+  * [Testing web apps in JavaScript using Cypress | Applitools Tutorials](https://applitools.com/tutorials/quickstart/web/cypress)
   * [sinon-chai: Extends Chai with assertions for the Sinon.JS mocking framework.](https://github.com/domenic/sinon-chai)
   * [Sinon.JS - Standalone test fakes, spies, stubs and mocks for JavaScript. Works with any unit testing framework](https://sinonjs.org/)
     * [Sinon.JS](https://github.com/sinonjs/)
+  * [cypress-axe: Test accessibility with axe-core in Cypress](https://github.com/component-driven/cypress-axe)
+  * [cypress-cucumber-preprocessor: Run cucumber/gherkin-syntaxed specs with Cypress](https://github.com/badeball/cypress-cucumber-preprocessor)
+  * [cypress-eslint-preprocessor: Cypress plugin that will run linting via ESLint on your spec files as they are loaded and display errors in console](https://github.com/chinchiheather/cypress-eslint-preprocessor)
 * [Faker | Faker](https://fakerjs.dev/)
   * [MSW+Faker.js · Present](https://present.do/documents/633d087e70efd011b8f6c393?page=0)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
