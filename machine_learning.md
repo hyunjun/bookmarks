@@ -1497,6 +1497,7 @@ Machine Learning
   * ["가속기를 단 넘파이" 구글 JAX 시작하기 - ITWorld Korea](https://www.itworld.co.kr/news/245590)
   * [Unfolding the paper windmills - presented by Mai Giménez - YouTube](https://www.youtube.com/watch?v=_Lhix9keTss)
   * [haiku-baseline](https://github.com/TinkTheBoush/haiku-baseline)
+* [lazypredict: Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning](https://github.com/shankarpandala/lazypredict)
 * [mango: Parallel Hyperparameter Tuning in Python](https://github.com/ARM-software/mango)
   * [Mango: A new way to do Bayesian optimization in Python | by Carmen Adriana Martinez Barbosa | Aug, 2022 | Towards Data Science](https://towardsdatascience.com/mango-a-new-way-to-make-bayesian-optimisation-in-python-a1a09989c6d8)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
