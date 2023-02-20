@@ -1252,6 +1252,8 @@ Linux
     * 서버를 노출하는 방법뿐 아니라 소셜 로그인, 웹훅 인증, IP 제한, 서킷 브레이크, 헤더 추가 등의 방법 정리
   * [awesome-tunneling: List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting](https://github.com/anderspitman/awesome-tunneling)
     * [Awesome Tunneling - ngrok 대체제 모음 | GeekNews](https://news.hada.io/topic?id=6045)
+  * [SirTunnel: Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python](https://github.com/anderspitman/SirTunnel)
+    * [로컬 서버를 인터넷에 공유하고 싶을 때 - SirTunnel로 터널링 서버 구축하기 - 이재찬의 개발 블로그](https://dlwocks31.me/blog/sirtunnel/)
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
