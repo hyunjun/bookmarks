@@ -3307,6 +3307,7 @@ Javascript
   * [cucumber-puppeteer-example: Integration testing example for puppeteer.dev website](https://github.com/mlampedx/cucumber-puppeteer-example)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [puppeteer-loadtest: load test puppeteer (Headless Chrome API) script using node](https://github.com/svenkatreddy/puppeteer-loadtest)
+  * [Puppetry - codeless end-to-end test automation tool](https://puppetry.app/) 코딩 없는 퍼피티어 기반의 종단 테스트 자동화(목표)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
