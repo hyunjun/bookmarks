@@ -3302,6 +3302,7 @@ Javascript
     * 다른 도구가 더 적절할 때도 Puppeteer 사용
     * [Puppeteer 안티패턴들 피하기 | GeekNews](https://news.hada.io/topic?id=6636)
   * [Build an Interactive Screen-Sharing App with Puppeteer and React | by Nevo David | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/building-an-interactive-screen-sharing-app-with-puppeteer-and-react-906c7c9a1b2b)
+  * [puppeteer.Page.keyboard JavaScript and Node.js code examples | Tabnine](https://www.tabnine.com/code/javascript/functions/puppeteer/Page/keyboard)
   * [**AddyOsmani.com - Web Performance Recipes With Puppeteer**](https://addyosmani.com/blog/puppeteer-recipes/)
   * [puppeteer-extra: 💯 Teach puppeteer new tricks through plugins](https://github.com/berstend/puppeteer-extra)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
