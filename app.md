@@ -513,6 +513,7 @@ App
   * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [bypass-paywalls-chrome: Bypass Paywalls web browser extension for Chrome and Firefox](https://github.com/iamadamdev/bypass-paywalls-chrome)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
+* [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
 * [myAlgorithm: A self hosted recommendation feed generated from your browsing habits](https://github.com/jawerty/myAlgorithm)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * MuteTab [크롬 탭 별 음소거(mute) 처리](https://jybaek.tistory.com/953)
