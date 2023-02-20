@@ -2739,6 +2739,7 @@ Programming
 * [**2022 INFCON - 박미정.pdf - Google Drive**](https://drive.google.com/file/d/1nrjCp289WhUps0D1SWDn2cvIpPkg-VOL/view) code review뿐만이 아니라 개발 과정 전체에 걸친 review 이야기
 * [code review, clean code, code, development, github, good practices | Medium](https://medium.com/@ashokrawat086/code-review-software-engineering-bedff59f5a16)
 * [코드 리뷰하기 좋은 프로그래밍 언어는? | Daniel Lee](https://typefully.com/dylayed/6l9sPnh) 기술적인 이야기는 아니고 재미있는 숫자(코드 리뷰하는데 걸린 시간)
+* [코드 리뷰 in 뱅크샐러드 개발 문화 | 뱅크샐러드](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 * [코드 리뷰는 스포츠다 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/20/Code-Review-is-a-Sports.html)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
