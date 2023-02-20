@@ -5075,6 +5075,7 @@ Javascript
   * [MSW+Faker.js · Present](https://present.do/documents/633d087e70efd011b8f6c393?page=0)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
+* [Istanbul Code Coverage](https://github.com/istanbuljs)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
 * [**JavaScript & Node.js Testing Best Practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 * [Jest - a delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
