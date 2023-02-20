@@ -5114,6 +5114,7 @@ Javascript
   * [Fast and reliable cross-browser testing with Playwright 🎭 | by Arjun Attam | Medium](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
   * [Playwright로 E2E 테스트 작성하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210818)
   * [The Four Futuristic Features Of Playwright - YouTube](https://www.youtube.com/watch?v=PXTspGn1im0)
+  * [PlaywrightExamples](https://github.com/ek121268/PlaywrightExamples)
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
