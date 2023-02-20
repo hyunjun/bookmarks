@@ -966,6 +966,7 @@
   * [Snowflake 와 Spark on EMR 연동하기. Snowflake Connector for Spark 와 JDBC… | by MJ Lee | Snowflake Korea | Aug, 2022 | Medium](https://medium.com/snowflake-korea/snowflake-%EC%99%80-spark-on-emr-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-cbeeddd8c3e2)
   * [Snowflake Cleanroom : 다른 회사와 서로 데이터를 노출하지 않으면서 서로의 데이터를 활용할 수 있는 방법 | Snowflake Korea](https://medium.com/snowflake-korea/%EB%8B%A4%EB%A5%B8-%ED%9A%8C%EC%82%AC%EC%99%80-%EC%84%9C%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%85%B8%EC%B6%9C%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4%EC%84%9C-%EC%84%9C%EB%A1%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95-snowflake-cleanroom-8098170863bd)
   * [이제 모든 Snowflake 고객에게 Python 혁신이 제공된다](https://www.snowflake.com/blog/snowpark-python-innovation-available-all-snowflake-customers/?lang=ko)
+  * [ChatGPT와 함께하는 Snowflake 활용. 22년 11월에 출시한 ChatGPT은 매우 놀라운 기능을 제공하고… | by juyun hwang | Snowflake Korea | Feb, 2023 | Medium](https://medium.com/snowflake-korea/chatgpt%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-snowflake-%ED%99%9C%EC%9A%A9-56eca1c7c050)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
