@@ -685,6 +685,7 @@ Web
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
+  * [selenium-ide: Open Source record and playback test automation for the web](https://github.com/SeleniumHQ/selenium-ide)
   * [selenium-python-helium: Selenium-python but lighter: Helium is the best Python library for web automation](https://github.com/mherrmann/selenium-python-helium)
   * [undetected-chromedriver: Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 * [shot-scraper: A command-line utility for taking automated screenshots of websites](https://github.com/simonw/shot-scraper)
