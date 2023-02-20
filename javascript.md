@@ -5134,6 +5134,7 @@ Javascript
   * [(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기](https://jojoldu.tistory.com/638)
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
+* [WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO](https://webdriver.io/)
 * [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
   * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
