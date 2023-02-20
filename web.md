@@ -1376,6 +1376,7 @@ Web
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
 * [REST API Tutorial](https://www.restapitutorial.com/)
   * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
+  * [HTTP Methods for RESTful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
 * [REST API 컨벤션 Top5! 단수, 복수, 네이밍 등의 url 설계를 위한 best practice 알아보기](https://blog.pumpkin-raccoon.com/115)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
