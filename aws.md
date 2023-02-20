@@ -1810,6 +1810,7 @@ AWS
 * [Amazon S3 신규 객체 암호화 기본 설정 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-s3-encrypts-new-objects-by-default/)
   * AWS에서 S3에 저장되는 모든 객체의 암호화가 기본 적용되도록 지원
   * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
+* [Part 1. S3를 이용해서 정적 웹 호스팅 시작하기 - YouTube](https://www.youtube.com/watch?v=QdiQ2aVXGmU)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 
 # SAM Serverless Application Model
