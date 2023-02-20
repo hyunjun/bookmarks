@@ -417,6 +417,7 @@ Book
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
   * 우당
+* (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -741,6 +742,7 @@ Book
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
   * 탐라 문320.1-앵18ㅎ
+* (NOT YET) [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
