@@ -725,7 +725,8 @@ Book
 * (NOT COMPLETED) [블랙 스완 The Black Swan](http://daankal.com/rbm/NT01.html)
   * ★★☆☆☆ 2023.01.30~02.01
   * 한라 327.04-탈294ㅂ
-* (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
+* [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/)
+  * ★★☆☆☆ 2023.02.20 책이 안 좋다기 보다 나에게 안 맞는, 잘 안 읽히는 책
   * 탐라 문320.1-러58ㄴ
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
