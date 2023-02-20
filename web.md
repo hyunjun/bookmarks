@@ -57,6 +57,7 @@ Web
 * [Top Ten Web Design Tools and Generators for Free (Part 2)](https://anselmurban.de/2015/08/26/top-ten-web-design-tools-and-generators-for-free-part-2)
 * [베이글 서비스의 아키텍쳐](http://danielku.com/posts/2015-08-20-bagle-architecture/)
 * [프론트엔드 비지니스 로직, 아키텍처 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
+* [프론트엔드 아키텍처: API 요청 관리. 프론트엔드 개발을 하다보면 종종 아주 기본적인 것부터 고민할 때가… | by 이문기 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-api-%EC%9A%94%EC%B2%AD-%EA%B4%80%EB%A6%AC-113c31d7bcee)
 * [프론트엔드 아키텍처: 컴포넌트를 분리하는 기준과 방법. 컴포넌트를 언제 분리해야 하고 어떻게 분리해야 하는지 살펴봅니다. | by 이문기 | Feb, 2023 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EB%B6%84%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80%EA%B3%BC-%EB%B0%A9%EB%B2%95-e7cf16bb157a)
 * [DOCKER-BASED MEAN.JS (MONGODB, EXPRESS, ANGULARJS, AND NODE.JS) WITH MONGO REPLICA SET AUTOMATION ON ANY CLOUD](http://dchq.co/2/post/2015/09/docker-based-meanjs-mongodb-express-angularjs-and-nodejs-with-mongo-replica-set-automation-on-any-cloud.html)
 * [Building Web Applications With Make](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)
