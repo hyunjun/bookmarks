@@ -1037,6 +1037,7 @@ NLP
     * 현재의 LLM은 아키텍처가 거의 동일, 모델이 실행될 때마다 모든 매개 변수가 사용
     * sparse expert 모델에서는 관련된 하위 집합만 사용할 수 있기 때문에 계산 요구사항이 적고 해석하기 쉽다는 장점
 * [Huge “foundation models” are turbo-charging AI progress | The Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
+* [Building Large Language Model at Scale - Speaker Deck](https://speakerdeck.com/inureyes/building-large-language-model-at-scale)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
