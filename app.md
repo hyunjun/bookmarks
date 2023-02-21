@@ -1198,6 +1198,13 @@ App
   * [맥 Preview 앱의 잘 안 알려진 기능들 | GeekNews](https://news.hada.io/topic?id=6524)
 * [소중한 나의 1초를 위한 10가지 생산성 도구 for MacOS | by 송요창 | Jun, 2022 | Medium](https://medium.com/@totuworld/%EC%86%8C%EC%A4%91%ED%95%9C-%EB%82%98%EC%9D%98-1%EC%B4%88%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%8F%84%EA%B5%AC-for-macos-cc6db97cd798)
   * Charles, Paw, GitKraken, Alfred, 1Password, Bear App, BetterSnapTool, GrabIt, Ecamm Live, DemoPro
+* [개발자를 위한 필수 맥 앱(Mac App) 10선 | Knowledge Logger](https://www.letmecompile.com/mac-app-recommendation-for-developer/)
+  * HTTP Client Postman
+  * Web Debugging Proxy Proxyman, Charles HTTP proxy
+  * Git GUI Client SourceTree, Sublime Merge
+  * Text Editor Visual Studio Code, Sublime Text, MacDown
+  * GUI Database Client Sequel Pro, TablePlus
+  * Etc Medis, NameChanger, Sloth, Hex Fiend
 * 동영상 인코딩
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
