@@ -155,7 +155,6 @@
   * [2021-composition-vs-inheritance](https://github.com/ArjanCodes/2021-composition-vs-inheritance)
 
 # Dependency Injection
-* [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
 * [Your DI framework is killing your code](http://blog.activelylazy.co.uk/2015/09/25/your-di-framework-is-killing-your-code/)
 * [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
@@ -168,13 +167,9 @@
 * [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html) DI, IoC, DIP간의 차이
 * [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/) react IoC
 * [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
-* [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
 * [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
-* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion)
-* [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)
 * [Demystifying the Dependency Inversion Principle in Angular](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
-* [예제로 배우는 스프링 입문 5. Inversion of Control](https://www.youtube.com/watch?v=NZ_lPFvu9oU)
 * [헐리우드 원칙](http://doublem.org/Hollywood-Principle/)
 * [You Don’t Need a Dependency Injection Container](https://hackernoon.com/you-dont-need-a-dependency-injection-container-10a5d4a5f878)
 * [Dependency Injection is EVIL](http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html)
@@ -251,6 +246,14 @@
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
+
+# IoC Inversion of Control
+* [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
+* [Learn Inversion of Control Principle](https://www.tutorialsteacher.com/ioc)
+* [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+* [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)
+* [예제로 배우는 스프링 입문 5. Inversion of Control](https://www.youtube.com/watch?v=NZ_lPFvu9oU)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
