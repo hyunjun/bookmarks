@@ -208,6 +208,8 @@ Programmer
   * [소프트웨어 엔지니어가 20년 경력동안 배운 20가지 | 커리어리](https://careerly.co.kr/comments/76507)
 * [Maker’s Schedule vs Manager’s Schedule | by Joon Won Lee | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/makers-schedule-vs-manager-s-schedule-c8eea3b86725)
 * [I am a Software Developer: 12 Side Hustles Made me 12K last year | by Nil Lenon | Feb, 2023 | Medium](https://nillenon.medium.com/i-am-a-software-developer-12-side-hustles-made-me-12k-last-year-1df73b37f622)
+* [How I became a machine learning practitioner](https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner)
+  * [Greg Brockman, Stripe CTO 출신 OpenAI Co-founder](https://www.linkedin.com/posts/huffonism_how-i-became-a-machine-learning-practitioner-activity-7033455128334532608-iUVc/)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
