@@ -372,6 +372,7 @@ Scala
 * [Google Summer of Code 2022: How It Was | The Scala Programming Language](https://scala-lang.org/blog/2022/11/15/gsoc-report.html)
 * [Universally Unique Sortable Identifier - ULID](https://yadukrishnan.live/ulid-sortable-unique-identifier)
 * [Scala Resurrection – John A De Goes](https://degoes.net/articles/scala-resurrection)
+* [Exploring Binary Search - Chris Okasaki - Medium](https://medium.com/@cokasaki/497c7633578c)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -2681,6 +2682,7 @@ Scala
 * [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
   * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
 * [scala-3-beginners: The official repository for the Scala 3 & Functional Programming Essentials course](https://github.com/rockthejvm/scala-3-beginners)
+* [Scala Course - DataFlair](https://data-flair.training/courses/scala-sp-1/) halatha at knou.ac.kr
 * [Scala Koans](https://github.com/rubbish/scala-koans)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
