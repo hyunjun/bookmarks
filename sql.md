@@ -838,6 +838,7 @@ SQL
 * [The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
 * [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
 * [proxysql.com](https://proxysql.com/)
+  * [IMDEV 2023 ProxySQL로 DB 문제 해결하기 - YouTube](https://www.youtube.com/watch?v=a4tUa5cs9kk)
 
 # Oracle
 * [오라클 중복레코드삭제 다양한 방법들 - YouTube](https://www.youtube.com/watch?v=3XZiBjFOSAs)
