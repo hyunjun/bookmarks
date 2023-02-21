@@ -85,6 +85,7 @@ Docker
 * [Learning container from scratch](https://devocean.sk.com/vlog/view.do?id=340&vcode=A03)
 * [**서비스 개발자를 위한 컨테이너 뽀개기 (a.k.a 컨테이너 인터널)**](https://tech.kakaoenterprise.com/150)
   * [if(kakao)dev2022 이게 돼요? 도커 없이 컨테이너 만들기](https://if.kakao.com/2022/session/104)
+* [IMDEV 2023 IMQA Container 환경 서비스 제공 적응기 - YouTube](https://www.youtube.com/watch?v=MdrOjh_aIxw)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [Docker Tutorial For Beginners | Introduction To Docker | Invensis Learning - YouTube](https://www.youtube.com/watch?v=7vriS2zd0lM)
 * [Docker Tutorial for Beginners Part-I - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/04/docker-tutorial-for-beginners-part-i/)
