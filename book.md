@@ -730,6 +730,9 @@ Book
   * ★★☆☆☆ 2023.02.20 책이 안 좋다기 보다 나에게 안 맞는, 잘 안 읽히는 책
   * 탐라 문320.1-러58ㄴ
   * [나중에 온 이사람에게도](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255677752)
+* (NOT COMPLETED) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
+  * 2023.02.21 완전히 대학 강의 교재
+  * 탐라 문320.1-앵18ㅎ
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [승자의 저주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=975431)
@@ -740,8 +743,6 @@ Book
   * 한라 327.85-쉴294ㅂ
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
-* (NOT YET) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
-  * 탐라 문320.1-앵18ㅎ
 * (NOT YET) [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
 
 # Higashino Keigo
