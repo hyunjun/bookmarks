@@ -947,6 +947,7 @@ Docker
 * [Kubernetes Tutorial For Beginners | how to use can-i command - YouTube](https://www.youtube.com/watch?v=PGkiTPvdKXk)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
+* [Season4 Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhGvfqQazIeYVOxnE4UKmtkU)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
