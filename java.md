@@ -1765,6 +1765,7 @@ Java
 * [**Spring WebClient에서 새어나가는 메모리 잡기 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2022/10/07/troubleshoot-webclient-oom.html) OpenTelemetry
 * [포트폴리오용 무료 백엔드 서버 만들기 (Qoddi) - Spring 배포 예제](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9A%A9-%EB%AC%B4%EB%A3%8C-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-Qoddi-Spring-%EB%B0%B0%ED%8F%AC-%EC%98%88%EC%A0%9C)
 * [Spring Scheduler 테스트 하기](https://coco-log.tistory.com/198)
+* [What is Quartz Scheduler and how to use it with Spring Boot to schedule Jobs? | by Dineshchandgr | Feb, 2023 | Medium](https://dineshchandgr.medium.com/what-is-quartz-scheduler-and-how-to-use-it-with-spring-boot-to-schedule-jobs-80f055b59dca)
 * [Controller, Service는 왜 분리해야할까?](https://velog.io/@couchcoding/Spring-Controller-Service%EB%8A%94-%EC%99%9C-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C)
 * [Spring Controller의 세계](https://velog.io/@composite/Spring-Controller%EC%9D%98-%EC%84%B8%EA%B3%84)
 * [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html)
