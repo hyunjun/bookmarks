@@ -30,6 +30,7 @@ House
 * [임차권 등기 팁 : 클리앙](https://www.clien.net/service/board/lecture/17487291?type=recommend)
 * [깡통전세 공포, 전세보증금 안돌려주는 집주인 대처법](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=2048)
 * [전셋값 하락하는데.."집주인이 보증금을 안줘요"](http://realestate.daum.net/news/detail/main/20181102040003773)
+* [전세살이ABC 전세금 반환 요청에 답 없는 집주인…‘임차권 등기’ 대응](https://v.daum.net/v/20230222060211184)
 * [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
   * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
 * [여러분은 당하지 마세요. 누구나 당할 수 있는 전세사기수법 부동산경매 - YouTube](https://www.youtube.com/watch?v=yPDjzTvptoo)
