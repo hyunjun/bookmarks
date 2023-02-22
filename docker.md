@@ -1495,6 +1495,7 @@ Docker
   * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
   * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
 * [Kubernetes Ingress 및 Egress 트래픽 관리를 단순화하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/how-to-simplify-kubernetes-ingress-egress-traffic-management/)
+* [Kubernetes Ingress for Beginners | Configuring and Managing Kubernetes Networking, and Ingress | K8S - YouTube](https://www.youtube.com/watch?v=gW2C-2q8t54)
 * [NGINX, Opsani 및 Prometheus를 사용하여 클라우드에서 Kubernetes 비용 70% 절감 사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/reducing-kubernetes-costs-70-percent-in-cloud-nginx-opsani-prometheus/)
 * [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 * [Kubernetes에 애플리케이션 서비스 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/deploying-application-services-in-kubernetes-part-1/)
