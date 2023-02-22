@@ -3386,6 +3386,7 @@ Programming
     * PAKE(password authenticated key exchange)를 사용
     * 여전히 패스워드 해시나 마찬가지인 SRP verifier가 저장
     * secret key를 사용자의 비밀번호와 합쳐져서 이 verifier 공격이 의미 없게 만들었다
+* [디피-헬만 키교환 | 개발자 필수 암호학 - YouTube](https://www.youtube.com/watch?v=1FHVPUj3z_4)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
