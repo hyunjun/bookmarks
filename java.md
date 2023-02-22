@@ -464,6 +464,7 @@ Java
   * [go net vs gnet vs reactor netty 소켓 서버 성능 비교 - YouTube](https://www.youtube.com/watch?v=xqqjCTt_l3E)
   * [AI펭톡 TCP Gateway 서버 개발기 with Netty | NHN FORWARD](https://forward.nhn.com/2021/sessions/14)
   * [API 통신 컴포넌트 설계와 SOLID 원칙](https://velog.io/@joosing/API-%ED%86%B5%EC%8B%A0-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%99%80-SOLID-%EC%9B%90%EC%B9%99)
+  * [**쓰레드 누수 이슈: 문제의 원인을 찾는 귀납적 과정**](https://velog.io/@joosing/an-inductive-approach-to-the-thread-leak-issue)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
