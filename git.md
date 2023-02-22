@@ -603,6 +603,7 @@ Git
   * [브랜치 전략 수립을 위한 전문가의 조언](https://www.linkedin.com/pulse/014-%25EB%25B8%258C%25EB%259E%259C%25EC%25B9%2598-%25EC%25A0%2584%25EB%259E%25B5-%25EC%2588%2598%25EB%25A6%25BD%25EC%259D%2584-%25EC%259C%2584%25ED%2595%259C-%25EC%25A0%2584%25EB%25AC%25B8%25EA%25B0%2580%25EC%259D%2598-%25EC%25A1%25B0%25EC%2596%25B8-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
+  * [Jeremy's Blog | 우리 팀에 맞는 Git Branch 전략 선택하기](https://sungjk.github.io/2023/02/20/branch-strategy.html)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
   * [**메시징 서버 개발 프로세스 개선**](https://engineering.linecorp.com/ko/blog/improving-the-messaging-server-development-process)
   * create new branch
