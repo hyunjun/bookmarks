@@ -4139,6 +4139,8 @@ Javascript
 * [자바스크립트 컨텍스트로 이해하는 함수형 컴포넌트](https://blog.naver.com/pjt3591oo/222990272706)
 * [리액트의 동시성(Concurrent) 모드와 useWorker :: 멀티쓰레드](https://banjubu.tistory.com/231)
 * [예상보다 24배 많은 콘텐츠에 프론트가 대처하는 법 - 리디주식회사](https://ridicorp.com/story/ridi-markdown-improvements/)
+* [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
+  * [잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
