@@ -400,6 +400,7 @@ Android
   * [Glide vs. Coil 메모리 사용량 비교. 우리 APP에서 OOM을 피하기 위한 비교적 안전한 라이브러리는… | by Sang Young Lee | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/glide-vs-coil-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%B9%84%EA%B5%90-cb93cffb9fc0)
   * [Pluu Dev - Glide로 불러오는 이미지의 종횡비가 크다면, optionalCircleCrop()가 필수](https://pluu.github.io/blog/android/glide/2022/11/20/glide-circlecrop/)
   * [Pluu Dev - Glide 이미지 로드에 Custom Cache Key 사용하기](https://pluu.github.io/blog/android/glide/2023/02/18/glide_url_with_key/)
+  * [Pluu Dev - Glide에서 디스크 캐싱 시 파일 이름을 정하는 기준](https://pluu.github.io/blog/android/glide/2023/02/21/glide_file_name/)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
