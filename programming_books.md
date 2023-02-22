@@ -2000,6 +2000,7 @@ Programming Books
 * (NOT YET) [코딩 인터뷰를 위한 알고리즘 치트시트 - 리트코드LeetCode 문제를 풀면서 배우는 코딩 테스트](https://jpub.tistory.com/1320)
   * 탐라 문005.133-푸227ㅋ
 * (NOT YET) [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 파이썬 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310591832)
+* (NOT YET) [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310591706)
 
 # iOS
 
