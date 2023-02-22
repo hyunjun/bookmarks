@@ -2348,6 +2348,7 @@ App
   * [그래서 님 OS가 뭐라구요?](https://velog.io/@queue/%EA%B7%B8%EB%9E%98%EC%84%9C-OS%EA%B0%80-%EB%AD%90%EB%9D%BC%EA%B5%AC%EC%9A%94) 칼리 kali 리눅스 설치
   * [Get started mounting a Linux disk in WSL 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-mount-disk)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법 | 44BITS](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
+  * [**개발자 윈도우 세팅 (WSL 서브 리눅스, IntelliJ, vscode, git 등) - Nahwasa**](https://nahwasa.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%B8%ED%8C%85-WSL-%EC%84%9C%EB%B8%8C-%EB%A6%AC%EB%88%85%EC%8A%A4-IntelliJ-vscode-git-%EB%93%B1#powerlevel10k_%EC%84%A4%EC%B9%98)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
