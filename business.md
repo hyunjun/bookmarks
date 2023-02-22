@@ -1395,6 +1395,7 @@ Business
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
 * [신수정의 리더십 코칭 ① 리더라면 갖춰야 할 '무시당할 용기'](http://www.ttimes.co.kr/view.html?no=2020021310187718217)
 * [신수정의 리더십 코칭 ⑨ 전문가는 자신이 움직이고 리더는 타인을 움직인다 - T Times](http://www.ttimes.co.kr/view.html?no=2020040814187746617)
+* [누구나 한마디씩 할수 있는 분야가 진짜 어려운 영역이다--부제. 로켓 사이언스보다 people management가 더 어렵다](https://www.linkedin.com/posts/soojung-shin-30398b75_%EB%88%84%EA%B5%AC%EB%82%98-%ED%95%9C%EB%A7%88%EB%94%94%EC%94%A9-%ED%95%A0%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B6%84%EC%95%BC%EA%B0%80-%EC%A7%84%EC%A7%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%98%81%EC%97%AD%EC%9D%B4%EB%8B%A4-%EB%B6%80%EC%A0%9C-%EB%A1%9C%EC%BC%93-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EB%B3%B4%EB%8B%A4-activity-7022406909487972352-oJdi/)
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
 * [개발자를 코칭하며 배운 7 가지 | Popit](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%BD%94%EC%B9%AD%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-7-%EA%B0%80%EC%A7%80)
