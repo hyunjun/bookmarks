@@ -1661,6 +1661,7 @@ Business
 * [디즈니의 밥 아이거가 직원과 고객 마음을 얻는 방법 - 티타임즈](https://www.ttimes.co.kr/article/2023011717437713308)
 * [**반즈 & 노블의 놀라운 턴어라운드에서 배울 수 있는 것 | GeekNews**](https://news.hada.io/topic?id=8410) `Top의 좋은 결정을 대신할 수 있는 것은 없고, 어리석은 결정에 대한 해결책도 없다`
   * [반스 앤 노블, 몰락하던 오프라인 서점의 부활.. : 네이버블로그](https://blog.naver.com/bizucafe/223015755693)
+* [동네 독서광들 채용해 부활한 반스앤노블 - 티타임즈](https://www.ttimes.co.kr/article/2023022016507751669)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
