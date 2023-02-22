@@ -1931,6 +1931,7 @@ NLP
 * [제주어 기계번역 모델과 음성합성 모델에 관한 연구를 소개합니다](https://kakaobrain.com/blog/119)
 * [Google Document Translation Now Generally Available](https://www.infoq.com/news/2021/11/google-document-translation/)
 * [전문 번역에서 고객 대응까지··· NLP 성공 사례 5선 - CIO Korea](https://www.ciokorea.com/news/255760)
+* [번역 모델 비교 - 성능, 시간, 요금 | Pega Devlog](https://jehyunlee.github.io/2023/02/20/Python-DS-128-transqual/)
 * [cjk_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
 * fairseq [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
   * [오픈소스로 쉽게 만드는 기계번역기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/20)
