@@ -2582,6 +2582,7 @@ Javascript
   * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [Yarn berry workspace를 활용한 프론트엔드 모노레포 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7976/)
   * [yarn berry로 React.js 프로젝트 시작하기 | Kasterra's Archive](https://kasterra.github.io/setting-yarn-berry/)
+  * [리멤버 웹 서비스 좌충우돌 Yarn Berry 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2023/02/%EB%A6%AC%EB%A9%A4%EB%B2%84-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-yarn-berry-%EB%8F%84%EC%9E%85%EA%B8%B0/)
   * [Experiment: The hidden costs of waiting on slow build times | The GitHub Blog](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
     * [2022.12.05 WantedDB migration 추가 확인 - hyunjun chung - Confluence](https://wantedlab.atlassian.net/wiki/spaces/~6368bd2a4bca78179baa2bfb/pages/2701983890/2022.12.05+WantedDB+migration)
   * [Styled components - Module not found](https://velog.io/@aneb/yarn-berry-Styled-components-Module-not-found)
