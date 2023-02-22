@@ -3,6 +3,7 @@ Elixir
 * [elixir-lang.org](https://elixir-lang.org/)
 * [Elixir-koans Elixir learning exercises](http://elixirkoans.io/)
 * [Beam Radio](https://www.beamrad.io/)
+* [Thinking Elixir Podcast](https://podcast.thinkingelixir.com/)
 * [elixir-koans Discover elixir lang by replacing "\_\_?" and "assert\_?" to make tests pass](https://github.com/dojo-toulouse/elixir-koans)
 * [나프다 웨비너 1604: Elixir와 함수형 프로그래밍을 이용한 웹 개발(박창욱)](https://www.youtube.com/watch?v=uGKg8gm4F58)
 * [My intro to Elixir: how learning another programming language can make you a better developer](https://medium.freecodecamp.org/my-intro-to-elixir-how-learning-another-programming-language-can-make-you-a-better-developer-d967e568191c)
