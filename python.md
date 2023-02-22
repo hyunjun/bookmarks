@@ -5285,6 +5285,7 @@ Python
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
 * [Learn basics Python Programming with Smartphone 1 - YouTube](https://www.youtube.com/watch?v=TenXmjyHmfU)
 * [시리즈 | 파이썬 입문자를 위한 기초 다지기! - hyunbeen0216.log](https://velog.io/@hyunbeen0216/series/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)
+* [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법. 자동화된 방식으로 빠르게 비즈니스 로직에 집중하기 | by weekwith.me | 당근마켓 팀블로그 | Feb, 2023 | Medium](https://medium.com/daangn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%8F%99%EB%A3%8C%EC%99%80-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-bb52c3a433fa)
 * [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
 * [futurecoder: learn python from scratch](https://futurecoder.io/)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
