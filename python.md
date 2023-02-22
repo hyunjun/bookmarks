@@ -4895,6 +4895,7 @@ Python
   * [3x times faster Pandas with PyPolars | by Satyam Kumar | May, 2021 | Towards Data Science](https://towardsdatascience.com/3x-times-faster-pandas-with-pypolars-7550e605805e)
   * [Polars - Rust/Python 용 빠른 DataFrame 라이브러리 | GeekNews](https://news.hada.io/topic?id=5571)
   * [Polars, the Fastest Dataframe Library You Never Heard of. - Ritchie Vink | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=iwGIuGk5nCE)
+* [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
