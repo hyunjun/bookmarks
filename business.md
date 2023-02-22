@@ -829,6 +829,7 @@ Business
 * [미국 TOP 리크루터가 알려주는 스타트업 채용의 비밀](https://brunch.co.kr/@olivialee/30)
 * [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
 * [비즈니스 인사이트 외부 전문가를 영입할 때 종종하는 실수](https://n.news.naver.com/article/015/0004812238)
+* [Candidate Journey 설계에 5A Model 활용하기](https://www.linkedin.com/feed/update/urn:li:activity:7018436948591603712/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
