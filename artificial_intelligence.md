@@ -254,6 +254,7 @@ Artificial Intelligence
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
+* [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
