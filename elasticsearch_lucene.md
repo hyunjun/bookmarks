@@ -676,6 +676,7 @@ ElasticSearch - Lucene
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * SeekStorm [Search API | Search as a Service | SeekStorm](https://seekstorm.com/)
   * [DeepHN - 해커뉴스 3천만개 링크의 Full-Text 검색 도구 | GeekNews](https://news.hada.io/topic?id=4068)
+* [SGPT: GPT Sentence Embeddings for Semantic Search](https://github.com/muennighoff/sgpt)
 * [simple_search_engine](https://github.com/charsyam/simple_search_engine)
 * [simple-search-engine: Simple search engine based on TF-IDF ranking](https://github.com/trein/simple-search-engine)
 * [so-elastalert-create](https://github.com/bryant-treacle/so-elastalert-create)
