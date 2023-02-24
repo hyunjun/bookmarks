@@ -1622,6 +1622,7 @@ Scala
   * [Scala Toolkit makes Scala powerful straight out of the box](https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/)
   * [Scala CLI Tutorial: Creating a CLI Sudoku Solver - Rock the JVM Blog](https://blog.rockthejvm.com/scala-cli-and-scala-native/)
   * [Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver - YouTube](https://www.youtube.com/watch?v=KZw0wjSDA6g)
+  * [Exploring Scala CLI — the new scala runner | by Piotr Chabelski | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/exploring-scala-cli-the-new-scala-runner-4b958245c2e0)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -2286,6 +2287,7 @@ Scala
 * [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
 * [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
 * [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
+* [An incomplete guide to Scala 3 macros and Multi-stage programming](https://blog.doofin.com/an-incomplete-guide-to-scala-3-macros-and-multi-stage-programming)
 * [Scala 3: the missing compiler plugin • gvolpe's blog](https://gvolpe.com/blog/scala3-missing-compiler-plugin/)
 * [thibault의 블로그 • Lichess on scala3 - help needed • lichess.org](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
 * [thibault의 블로그 • Lichess & Scala 3 • lichess.org](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
