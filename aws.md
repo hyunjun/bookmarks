@@ -1647,6 +1647,7 @@ AWS
 * [Amazon SageMaker JumpStart를 통해 다양한 생성 AI 모델 활용하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/use-generative-ai-models-in-amazon-sagemaker-jump-start/)
 * [농심의 Amazon SageMaker를 활용한 원자재 가격예측과 MLOps 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/nongshim-amazon-sagemaker-material-forecast-mlops/)
 * [Amazon SageMaker 모델 병렬 라이브러리를 이용한 신규 성능 향상 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-model-parallel-improve-performance/)
+* [AI Art 모델인 Stable Diffusion을 SageMaker JumpStart로 편리하게 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-art-stable-diffusion-sagemaker-jumpstart/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -1752,6 +1753,7 @@ AWS
 * [Amazon Redshift는 가격 대비 성능 우위를 지속합니다 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-redshift-continues-its-price-and-performance/)
 * [Amazon Redshift 스트리밍 수집을 이용한 실시간 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/real-time-analytics-with-amazon-redshift-streaming-ingestion/)
 * [What’s new with Amazon Redshift from AWS re:Invent 2022 | by Phoebe Baek | Cloud Villains | Dec, 2022 | Medium](https://medium.com/ctc-mzc/whats-new-with-amazon-redshift-from-aws-re-invent-2022-85cb1646f6dc)
+* [AWS Schema Conversion tool(SCT)를 활용하여 Google BigQuery에서 Amazon Redshift로 마이그레이션하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/migrate-google-bigquery-to-amazon-redshift-using-aws-schema-conversion-tool-sct/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
