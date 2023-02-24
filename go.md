@@ -1100,6 +1100,7 @@ Go
   * [Crash course in Gin Framework - YouTube](https://www.youtube.com/watch?v=N14HOh10ghY)
   * [Build RESTful API in Golang using Gin and Gorm](https://morioh.com/p/17f2e7997e16)
   * [RESTful web service using Go and Gin](https://codersdaily.in/blog/restful-web-service-using-Go-and-Gin)
+  * [gin-air-docker-boilerplate: A containerised Gin app boilerplate, with a containerised development environment using Air and Docker Compose](https://github.com/tobyscott25/gin-air-docker-boilerplate)
   * [gin-middleware-etag: Gin middleware/handler to enable HTTP Etag support](https://github.com/bettercode-oss/gin-middleware-etag)
     * [Go 언어로 만든 REST에 ETag 캐시 적용하기 | Popit](https://www.popit.kr/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%A7%8C%EB%93%A0-rest%EC%97%90-etag-%EC%BA%90%EC%8B%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
