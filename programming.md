@@ -1940,6 +1940,7 @@ Programming
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
 * [Loosely Coupled Lotteries & Cloudy Casinos: Nederlandse Loterij Case St. • Joris Kuipers • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PUqalWaZaXY)
+* [I Made Everything Loosely Coupled. Does My App Fall Apart? • Gregor Hohpe • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9a7eI6BlVc)
 * [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
 * [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/) multi runtime
