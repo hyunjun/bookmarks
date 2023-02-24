@@ -688,6 +688,7 @@ Java
 * [Pluu Dev - Lint 작업할 때 쓰면 좋은 도구 UAST/PSI Viewer](https://pluu.github.io/blog/lint/2022/07/09/lint/)
 * [인텔리제이에서 Git 사용하기](https://brunch.co.kr/@jiwonleeqa/259)
 * [@Nullable and @NotNull | IntelliJ IDEA](https://www.jetbrains.com/help/idea/nullable-and-notnull-annotations.html)
+* [Java 19와 IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/02/java-19-and-intellij-idea/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -2022,6 +2023,7 @@ Java
 * [하나의 메모리 누수를 잡기까지](https://d2.naver.com/helloworld/1326256)
 * [어랏!! 여기에서 OOM이 발생할 줄이야…. OOM 에러 케이스와 함께 Mybatis의 캐시 정책과 GC의 동작방식… | by HAEUN JEONG | Apr, 2022 | 롯데ON 기술 블로그](https://techblog.lotteon.com/%EC%96%B4%EB%9E%8F-%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C-oom-%EB%B0%9C%EC%83%9D%ED%95%A0-%EC%A4%84%EC%9D%B4%EC%95%BC-503ddf286fd)
 * [How to Fix java.lang.OutOfMemoryError: GC overhead limit exceeded Error in JVM Solution](https://javarevisited.blogspot.com/2015/06/javalangoutofmemoryerror-gc-overhead-limit-exceeded-error-jvm.html)
+* [Heap 메모리 누수 이슈: 문제의 원인을 찾는 연역적 과정](https://velog.io/@joosing/heap-memory-leak-issue-the-deductive-process-of-finding-the-cause)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
