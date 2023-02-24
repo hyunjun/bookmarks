@@ -149,6 +149,7 @@ Flutter
 * [Flutter UI - 타다(TADA) 앱. 안녕하세요! 오랜만의 포스팅 이네요. 지난 번 카카오 지도 글을… | by kkensu | 조현철의 개발로그 | Nov, 2022 | Medium](https://medium.com/%EC%A1%B0%ED%98%84%EC%B2%A0%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%A1%9C%EA%B7%B8/flutter-ui-%ED%83%80%EB%8B%A4-tada-%EC%95%B1-5aa699585c1f)
 * [Flutter 3.0 출시, 어떤 기능이 추가 되었을까?](https://velog.io/@sangh518/Flutter-3.0-%EC%B6%9C%EC%8B%9C-%EC%96%B4%EB%96%A4-%EA%B8%B0%EB%8A%A5%EC%9D%B4-%EC%B6%94%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C)
 * [Flutter 3 업데이트. 2022년 5월 11~12일에 구글 io 2022 행사가… | by valas | Flutter Korea | May, 2022 | Medium](https://medium.com/flutter-korea/flutter-3-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-52039e156312)
+* [What’s new in Flutter 3.7. Material 3 updates, iOS improvements… | by Kevin Chisholm | Flutter | Jan, 2023 | Medium](https://medium.com/flutter/whats-new-in-flutter-3-7-38cbea71133c)
 * [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)
 * [여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 | 요즘IT](https://yozm.wishket.com/magazine/detail/1525/)
 * [Flutter로 UI를 구현하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1566/)
