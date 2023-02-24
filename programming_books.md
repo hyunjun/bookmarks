@@ -364,12 +364,6 @@ Programming Books
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://github.com/hyunjun/bookmarks/blob/master/programming_books/more_effective_agile.md)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-more-effective-agile-a-roadmap-for-software-leaders-56f66796e26)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-More-Effective-Agile-A-Roadmap-for-Software-Leaders)
-* [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
-  * ★★★★☆ 2022.08.22
-  * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
-  * [Making Work Visible 업무 시각화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/making_work_visible.md)
-  * [Making Work Visible 업무 시각화. Dominica DeGrandis — More No Less WIP | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/making-work-visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94-fa65d54325e0)
-  * [Making Work Visible 업무 시각화](https://jh4hj.tistory.com/entry/Making-Work-Visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94)
 * [애자일 전략](https://ilsang2.tistory.com/950)
   * ★★★★☆ 2022.08.23
   * 우당 문325.19-릭49ㅇ
@@ -441,6 +435,11 @@ Programming Books
   * [출근했더니 스크럼 마스터가 된 건에 관하여](https://jh4hj.tistory.com/entry/%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC)
   * [현실판 출근했더니 스크럼 마스터가 된 건에 관하여. 안녕하세요 베이비스토리 iOS 앱을 개발하면서 스크럼 마스터로 일하고… | by 보라 | 픽소 팀블로그 | Jan, 2023 | Medium](https://medium.com/pixo-co/%ED%98%84%EC%8B%A4%ED%8C%90-%EC%B6%9C%EA%B7%BC%ED%96%88%EB%8D%94%EB%8B%88-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%A7%88%EC%8A%A4%ED%84%B0%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ca142029f894)
   * [출근했더니 스크럼 마스터가 된 건에 관하여](https://jybaek.tistory.com/979)
+* [매니지먼트 3.0 | 에이콘출판사](http://acornpub.co.kr/book/management-3.0)
+  * ★★★★☆ 2023.02.22~24
+  * 한라 325.2-아894ㅁ
+  * [Management 3.0 Leadership Training for Managers](https://management30.com/)
+  * [How to Change the World: Change Management 3.0 Book by Jurgen Appelo](https://management30.com/books/how-to-change-the-world/)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
@@ -452,10 +451,6 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
-* (NOT YET) [매니지먼트 3.0 | 에이콘출판사](http://acornpub.co.kr/book/management-3.0)
-  * 한라 325.2-아894ㅁ
-  * [Management 3.0 Leadership Training for Managers](https://management30.com/)
-  * [How to Change the World: Change Management 3.0 Book by Jurgen Appelo](https://management30.com/books/how-to-change-the-world/)
 
 # Algorithm
 
@@ -1493,9 +1488,6 @@ Programming Books
   * 한라 004.76-야66ㅂ
   * 데이터시각화 101, 입문서. 프로그래밍은 python과 R
   * 그 밖에 데이터의 종류에 따라 어떤 그래프가 유용한지등 기본적으로 알아야 하는 모든 내용
-* 데이터 스토리텔링 (설득력 있는 프리젠테이션을 위한 데이터 시각화 기법)
-  * 한라 307.32 내897ㄷ
-  * 데이터 시각화 입문서. 프로그래밍 책은 아니고, 어떤 경우에 어떤 시각화를 써야 할지 참고하는 데 좋을 듯
 * [데이터 시각화 원리 - 조르즈 카몽이스 지음, 이혜연 옮김](http://greentec.egloos.com/4441082)
 * [핸즈온 데이터 시각화](https://hanbit.co.kr/store/books/look.php?p_code=B1996635146)
   * ★★★★★

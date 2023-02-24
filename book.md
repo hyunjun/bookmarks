@@ -1231,6 +1231,19 @@ Book
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
 * (NOT YET) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
 
+# Presentation
+* 데이터 스토리텔링 (설득력 있는 프리젠테이션을 위한 데이터 시각화 기법)
+  * 한라 307.32 내897ㄷ
+  * 데이터 시각화 입문서. 프로그래밍 책은 아니고, 어떤 경우에 어떤 시각화를 써야 할지 참고하는 데 좋을 듯
+* [업무 시각화 | 에이콘출판사](http://acornpub.co.kr/book/making-work-visible)
+  * ★★★★☆ 2022.08.22
+  * 한라 325.2112-드17ㅇ, 탐라 문325.2112-드18ㅇ, 우당 문325.2112-드18ㅇ
+  * [Making Work Visible 업무 시각화](https://github.com/hyunjun/bookmarks/blob/master/programming_books/making_work_visible.md)
+  * [Making Work Visible 업무 시각화. Dominica DeGrandis — More No Less WIP | by Jun | Aug, 2022 | Medium](https://nymets.medium.com/making-work-visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94-fa65d54325e0)
+  * [Making Work Visible 업무 시각화](https://jh4hj.tistory.com/entry/Making-Work-Visible-%EC%97%85%EB%AC%B4-%EC%8B%9C%EA%B0%81%ED%99%94)
+* (NOT YET) [생각을 Show하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3554194)
+  * 한라 325.1-로62ㅅ 탐라 개325.1-로62ㅅ
+
 # Psychology
 * [당신이 옳다](https://blog.naver.com/sugar2kk/221688363261)
   * ★★★★☆ 2023.01.08
