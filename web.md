@@ -701,7 +701,9 @@ Web
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 ## Crawler Scala
-* [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
+* [jsoup: Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety](https://jsoup.org/)
+  * [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
+  * [Web Scraping with Scala | ScrapingBee](https://www.scrapingbee.com/blog/web-scraping-scala/)
 
 # CSS
 * [CSS 레이아웃 기초](https://joshua1988.github.io/web-development/css/layout-basic/)
