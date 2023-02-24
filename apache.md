@@ -746,6 +746,7 @@ Apache
 * [nestjs 카프카 연동하기 - 프로듀서 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222991359835)
 * [리디에서 Kafka를 사용하는 법 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/how-to-use-kafka-in-ridi)
 * [카프카가 무엇이고, 왜 사용하는 것 일까?](https://hudi.blog/what-is-kafka/)
+* [Kafka 도입 스토리 - 홈쇼핑 방송영역 활용 사례 :: GS Retail Engineering](https://gsretail.tistory.com/27)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
