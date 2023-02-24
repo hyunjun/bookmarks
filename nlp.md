@@ -704,6 +704,7 @@ NLP
   * [AI와 노코드로 자동 블로그를 만들어보고 느낀 점](https://blog.nocodecamp.kr/lesson-learned-from-chatgpt/)
   * [Ultimate ChatGPT Resource Guide - ChatGPT Tutorial - DEV Community 👩💻👨💻](https://dev.to/adriantwarog/ultimate-chatgpt-resource-guide-chatgpt-tutorial-dfe)
   * [챗GPT는 어떻게 학습되었을까 - Human Feedback Reinforcement Learning (RLHF)](https://littlefoxdiary.tistory.com/111)
+  * [개발자는 ChatGPT 이렇게 활용하면 좋습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1901/)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
