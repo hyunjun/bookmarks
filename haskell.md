@@ -2,6 +2,7 @@ Haskell
 =======
 * [**Introducing the Haskell Phrasebook**](https://typeclasses.com/news/2019-07-phrasebook) Go By Example처럼 예제로 소개
 * [Monday Morning Haskell](https://mmhaskell.com/)
+* [Haskell Weekly](https://haskellweekly.news/)
 * [school of haskell](https://www.schoolofhaskell.com/)
 * [fpcomplete.com](https://www.fpcomplete.com)
   * [tech.fpcomplete.com/haskell](https://tech.fpcomplete.com/haskell)
