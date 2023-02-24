@@ -1523,6 +1523,7 @@ Web
 * [Largest Contentful Paint(최대 콘텐츠풀 페인트, LCP)](https://web.dev/i18n/ko/lcp/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [웹 성능 최적화 · Present](https://present.do/documents/633c002170efd011b8f6b7aa)
+* [부하 테스트 살펴보기. 부하란? | by kyeong su kim | 월요일 오후 9시 | Jan, 2023 | Medium](https://medium.com/monday-9-pm/%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-e886da48e0b8)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io)
   * Node.js 기반, 스트레스 테스트, 성능 테스트
   * 분산 기반으로 보다 확장성 있는 노드 시스템을 개발하다보면 자의적이던 타의적이던 성능검증 필요
@@ -1534,6 +1535,7 @@ Web
   * [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
   * [Performance Testing with Gatling](https://medium.com/@arsalaninam/performance-testing-with-gatling-652e2f19bf89)
+  * [Gatling으로 하는 부하테스트 튜토리얼. 지난번 부하테스트를 알아보았습니다. 이번 시간에는 실제로 부하테스트를… | by kyeong su kim | 월요일 오후 9시 | Feb, 2023 | Medium](https://medium.com/monday-9-pm/gatling%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-f5b95ddc4c2a)
 * jmeter
   * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
   * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
