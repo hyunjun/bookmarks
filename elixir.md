@@ -89,7 +89,6 @@ Elixir
 * [Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=mkGq1WoEvI4)
 * [You may not need Redis with Elixir - Dashbit Blog](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
 * [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
-* [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -129,7 +128,6 @@ Elixir
   * [JWT - elixir로 비트코인 시세 스크랩 (feat. 업비트) 2/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-2-of-3/)
   * [prometheus, grafana - elixir로 비트코인 시세 스크랩 (feat. 업비트) 3/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-3-of-3/)
 * [Nerves Project](https://nerves-project.org/)
-* [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
   * [Phoenix로 블로그 웹 애플리케이션 만들기 (for Rails developers)](http://guruble.com/phoenix-%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9b%b9-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0-for-rails-developers/)
@@ -156,6 +154,9 @@ Elixir
   * [Making a CheckboxGroup Input · Fly](https://fly.io/phoenix-files/making-a-checkboxgroup-input/)
   * [Custom styling with LiveView function component attributes · Fly](https://fly.io/phoenix-files/customizable-classes-lv-component/)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
+  * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
+  * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
+  * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
