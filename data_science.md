@@ -425,6 +425,7 @@ Data Science
 * [컬리는 물류 최적화 문제를 어떻게 풀고 있을까? - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/logistics-optimization-2/)
 * [60. 데이터사이언스 원-포인트레슨](https://brunch.co.kr/@amangkim/118)
 * [Elena Dyachkova on Twitter: "Data folks, thoughts on this title overlap illustration? https://t.co/xe41a4JZJz" / Twitter](https://twitter.com/ElenaRunsNYC/status/1483651998335614978) 각 역할이 어떻게 겹치는지 diagram으로 표현
+* [Python vs. SQL in Data Science | 01](https://vocal.media/01/python-vs-sql-in-data-science)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
