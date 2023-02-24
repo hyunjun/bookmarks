@@ -2398,6 +2398,7 @@ Programming
   * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
   * [Watch - Migrating Twitter's Monorepo from Pants to Bazel](https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk2)
   * [Introduction to Bazel for Scala developers | by Rikito Taniguchi | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/introduction-to-bazel-for-scala-developers-2095a4a2a34d)
+  * [cross build anything with Bazel · eed3si9n](https://eed3si9n.com/cross-build-anything-with-bazel/)
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
   * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
