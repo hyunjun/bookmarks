@@ -830,6 +830,7 @@ Business
 * [(사례) 핵심 인재를 놓치지 않는 채용 경험 설계하기](https://brunch.co.kr/@nutilde/29)
 * [비즈니스 인사이트 외부 전문가를 영입할 때 종종하는 실수](https://n.news.naver.com/article/015/0004812238)
 * [Candidate Journey 설계에 5A Model 활용하기](https://www.linkedin.com/feed/update/urn:li:activity:7018436948591603712/)
+* [스타트업 대표가 놓치기 쉬운 채용 팁 8가지](https://eopla.net/magazines/2706)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -1664,6 +1665,7 @@ Business
 * [**반즈 & 노블의 놀라운 턴어라운드에서 배울 수 있는 것 | GeekNews**](https://news.hada.io/topic?id=8410) `Top의 좋은 결정을 대신할 수 있는 것은 없고, 어리석은 결정에 대한 해결책도 없다`
   * [반스 앤 노블, 몰락하던 오프라인 서점의 부활.. : 네이버블로그](https://blog.naver.com/bizucafe/223015755693)
 * [동네 독서광들 채용해 부활한 반스앤노블 - 티타임즈](https://www.ttimes.co.kr/article/2023022016507751669)
+* [스타트업 리더는 달라야 하는 이유](https://now.rememberapp.co.kr/2022/08/08/20588/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
