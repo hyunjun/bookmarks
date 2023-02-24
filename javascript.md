@@ -2545,6 +2545,7 @@ Javascript
     * 소스 코드는 브라우저의 네이티브 ESM을 이용해서 요청할 때마다 변환해서 제공하는 구조
     * 번들링을 다 하고 개발 서버를 실행하는 webpack에 비해서 로컬 개발 서버를 빠르게 실행 가능
     * 핫 모듈 교체(HMR)에도 네이티브 ESM을 사용해서 빠르게 변경사항 적용 가능
+    * [(번역) 이제는 웹팩과 작별할 때일까?](https://velog.io/@sehyunny/is-it-time-to-say-goodbye-to-webpack)
   * [Webpack → Vite: 번들러 마이그레이션 이야기](https://engineering.ab180.co/stories/webpack-to-vite)
     * Webpack을 번들러로 사용하고 있었지만 최근 새로운 번들러가 많이 나오면서 새로운 번들러를 테스트
     * 처음에는 esbuild 사용
