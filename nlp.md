@@ -118,7 +118,6 @@ NLP
 * [확률문법](https://www.facebook.com/saishiot/photos/a.1786185075003862.1073741835.1538273176461721/1786185115003858)
 * [주니어 데이터 분석가의 걸그룹 데이터 분석하기](https://brunch.co.kr/@cloud09/97)
 * [korean.abcthesaurus.com](http://korean.abcthesaurus.com/) 동의어 사전
-* [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
 * [en.wikipedia.org/wiki/Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
   * 실제와 예측이 일치; True Positive / Negative
   * 실제와 예측이 불일치; False Positive / Negative
@@ -330,7 +329,6 @@ NLP
 * [badword_check: 딥러닝을 통한 한글 욕설 분류 프로젝트](https://github.com/Nam-SW/badword_check)
 * [**위클리 NLP - jiho-ml**](https://www.jiho-ml.com/tag/weekly-nlp/)
 * [Automate Data Cleaning with Unsupervised Learning | by Marco Cerliani | Towards Data Science](https://towardsdatascience.com/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17)
-* [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
 * [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
 * [AI Grand Challenge, 인공지능 그랜드 챌린지 1위 입상 후기 및 입상 모델 설명](https://ai4nlp.tistory.com/17) 음성인식 + 텍스트분류
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
@@ -715,6 +713,7 @@ NLP
     * [챗GPT로 딥러닝 모델에서 웹앱까지 개발하기](https://aifactory.space/learning/2280/discussion/174)
   * [어텐션~~ 챗GPT는 어떻게 언어의 도사가 됐나? (배순민 KT 연구소장) - 티타임즈](https://www.ttimes.co.kr/article/2023022317387750560)
   * [ChatGPT, 그 이후](https://tech.kakaoenterprise.com/181)
+  * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
@@ -995,6 +994,17 @@ NLP
 # Filtering
 * [집단지성프로그래밍 ch6. 문서 필터링](http://www.slideshare.net/icristi/ch6-48743141)
 
+# Graph
+* [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
+* [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
+* [graph4nlp: Graph4nlp is the library for the easy use of Graph Neural Networks for NLP](https://github.com/graph4ai/graph4nlp)
+* [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️♂️](https://github.com/varunshenoy/GraphGPT)
+* [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
+  * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
+  * annoy와 비슷하지만 graph tree 기반 indexing
+* [recsys-nlp-graph: 🛒 Simple recommender with matrix factorization, graph, and NLP](https://github.com/eugeneyan/recsys-nlp-graph)
+  * [그래프 & 자연어처리 기법으로 추천 시스템 개발하기 - pytorch - 러닝머신의 Train Data Set](https://myeonghak.github.io/graph%20neural%20networks/recommender%20systems/Beating-the-baseline-recommender-using-Graph-and-NLP-techniques-in-PyTorch/)
+
 # Knowledge
 * [국가생물종지식정보시스템](http://www.nature.go.kr/)
 * [:BaseKB Gold Ultimate is now available in AWS](https://groups.google.com/forum/#!topic/infovore-basekb/1YR9Zl5ANDQ)
@@ -1069,6 +1079,7 @@ NLP
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
+* [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
@@ -1280,7 +1291,6 @@ NLP
   * [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Go-nlp: A Few Structures for Doing NLP analysis / Experiments](https://morioh.com/p/81956277d782)
-* [graph4nlp: Graph4nlp is the library for the easy use of Graph Neural Networks for NLP](https://github.com/graph4ai/graph4nlp)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * Jarvis [Introducing NVIDIA Jarvis: A Framework for GPU-Accelerated Conversational AI Applications](https://devblogs.nvidia.com/introducing-jarvis-framework-for-gpu-accelerated-conversational-ai-apps/)
@@ -1335,9 +1345,6 @@ NLP
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
 * [mit-nlp](https://github.com/mit-nlp)
 * [name2nat: a Python package for nationality prediction from a name](https://github.com/Kyubyong/name2nat)
-* [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
-  * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
-  * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
 * [nori-clone: Standalone Nori (Korean Morphological Analyzer)](https://github.com/jeongukjae/nori-clone)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
@@ -1359,8 +1366,6 @@ NLP
   * [페이스북, 자연어 처리 프로젝트를 오픈소스로 전환](http://www.ciokorea.com/news/113247)
   * [Introducing PyText - Facebook’s New Framework for Better NLP Development](https://towardsdatascience.com/introducing-pytext-d8f404f1745)
 * [quepy - A python framework to transform natural language questions to queries in a database query language](https://github.com/machinalis/quepy)
-* [recsys-nlp-graph: 🛒 Simple recommender with matrix factorization, graph, and NLP](https://github.com/eugeneyan/recsys-nlp-graph)
-  * [그래프 & 자연어처리 기법으로 추천 시스템 개발하기 - pytorch - 러닝머신의 Train Data Set](https://myeonghak.github.io/graph%20neural%20networks/recommender%20systems/Beating-the-baseline-recommender-using-Graph-and-NLP-techniques-in-PyTorch/)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
