@@ -778,6 +778,7 @@ Programming Books
 * (NOT YET) [마이크로서비스 아키텍처 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B9403623796)
   * 우당
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 1부 - YouTube](https://www.youtube.com/watch?v=kOgLZGqJAhg)
+  * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
 
 # Artificial Intelligence
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
