@@ -4691,6 +4691,8 @@ Python
   * [Python Automation Project: Make a Mortgage Loan Analyzer Class - YouTube](https://www.youtube.com/watch?v=jZjGnCyHa9Q)
   * [Python Automation Project: Mortgage Loan Analysis Application Part II - YouTube](https://www.youtube.com/watch?v=mS4a_p-2jAg)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
+* [Zarr-Python — zarr 2.14.1 documentation](https://zarr.readthedocs.io/)
+  * [Sanket Verma - The Beauty of Zarr | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=SJvMIX4O0jo)
 
 # Pandas
 * [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
