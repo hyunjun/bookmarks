@@ -274,6 +274,7 @@ Android
   * 접근성 구현을 쉽게 할 수 있도록
     * 접근성 검사가 내장된 테스트 라이브러리 Espresso를 사용해서 엔지니어가 쉽게 문제를 확인할 수 있게 자동화
     * Happo를 이용해서 더 큰 글꼴을 확인할 수 있게 스크린숏 테스트를 추가
+* [TimePicker를 5분단위, 10분단위로 시간 간격 설정하기 | Android | by Ted Park | 박상권의 삽질블로그 | Feb, 2023 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/timepicker%EB%A5%BC-5%EB%B6%84%EB%8B%A8%EC%9C%84-10%EB%B6%84%EB%8B%A8%EC%9C%84%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EA%B0%84%EA%B2%A9-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-android-9849f1df986a)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
