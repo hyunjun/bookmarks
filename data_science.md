@@ -172,6 +172,7 @@ Data Science
 * [Data Warehouse vs. Data Mart vs. Data Lake | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-mart-vs-data-lake-a335f328e6a8)
 * [기획특집 ‘창고’와 ‘호수’를 넘어서는 데이터 레이크하우스](http://www.itdaily.kr/news/articleViewAmp.html?idxno=208876) lakehouse
 * [‘일관성·유연성’ 덕에 각광… 데이터 레이크하우스 활용 사례 - CIO Korea](https://www.ciokorea.com/news/244060)
+* [Data Lake vs. Data Lakehouse | 01](https://vocal.media/01/data-lake-vs-data-lakehouse)
 * [What is a Data Fabric?. How to realize modern Data Management | by Christianlauer | Aug, 2022 | Medium](https://christianlauer90.medium.com/what-is-a-data-fabric-c825ce8da0a1)
 * [Data Warehouse vs. Data Lake vs. Data Fabric | by Christianlauer | Nov, 2022 | Medium](https://christianlauer90.medium.com/data-warehouse-vs-data-lake-vs-data-fabric-b264dc02228b)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
