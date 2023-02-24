@@ -687,6 +687,8 @@ Programming
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
+* [애자일, 그게 뭐예요?. 글. 천지희(엘리자벳) | by Elizabeth | Feb, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%98%88%EC%9A%94-2569cfc5f3cd)
+* [여기어때가 갑자기 ‘애자일’ 하자고 했다. 글. 류지예 / Product UX Lead | by 여기어때 UX Center | Feb, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C%EA%B0%80-%EA%B0%91%EC%9E%90%EA%B8%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%95%98%EC%9E%90%EA%B3%A0-%ED%96%88%EB%8B%A4-ee06c4bce323)
 * [나는 애자일이 싫다](https://brunch.co.kr/@graypool/182) 제목은 사실 반어법, 관심 끌기 용이었고 애자일에 대한 선호가 내용
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [애자일과 디지털 전환은 무슨 관계인가?](https://brunch.co.kr/@graypool/329)
