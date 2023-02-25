@@ -224,9 +224,10 @@ Finance
 * [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://medium.com/@aniruddha.choudhury94/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) LSTM
 * [Machine Learning to Predict Stock Prices | by Roshan Adusumilli | Towards Data Science](https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233) LSTM
+* [Step-by-Step Guide — Building a Prediction Model in Python | by Behic Guven | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b) LSTM
+* [Python Stock Market Prediction with LSTM Neural Network Guided Project Part 1, Level 1, 18 min](https://www.datasimple.education/post/python-stock-market-prediction-with-lstm-neural-network-guided-project-part-1)
 * [Quantitative Stock Price Analysis with Python, pandas, NumPy matplotlib & SciPy - YouTube](https://www.youtube.com/watch?v=PkzVU7Klic0)
 * [Basic Usage of NumPy Financial for Loan Payments and Amortization - YouTube](https://www.youtube.com/watch?v=3kgev6yYpwA)
-* [Step-by-Step Guide — Building a Prediction Model in Python | by Behic Guven | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b) LSTM
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * [**파이썬으로 배우는 알고리즘 트레이딩**](https://wikidocs.net/book/110)
 * [데이터셋 - 시가총액 데이터](https://github.com/FinanceData/marcap)
