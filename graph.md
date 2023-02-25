@@ -353,6 +353,7 @@ Graph
 * [국립중앙도서관 linked open data - SPARQL 따라하기](http://lod.nl.go.kr/home/sparql/getting.jsp)
 * [D2RQ Accessing Relational Databases as Virtual RDF Graphs](http://d2rq.org/)
 * [OWL Reasoning Examples](http://owl.man.ac.uk/2003/why/latest/)
-* [Virtuoso SPARQL Query Editor](http://ko.dbpedia.org/sparql)
+* [sparql-endpoint: Utilities to interact with a SPARQL endpoint in clojure](https://github.com/ont-app/sparql-endpoint)
 * [UBY - A Large-Scale Unified Lexical-Semantic Resource](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/)
+* [Virtuoso SPARQL Query Editor](http://ko.dbpedia.org/sparql)
 * [YAGO: A High-Quality Knowledge Base](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)
