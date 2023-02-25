@@ -91,6 +91,7 @@ Data Science
   * Loco 라는 회사에서 일 약 15TB 데이터를 분석 및 BI 플랫폼에 활용하는 데이터 인프라 설명
   * Kafka, Presto, Airflow, Spark 사용
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+* [데이터 사이언티스트 vs 데이터 엔지니어: 주요 차이점과 이해](https://techscene.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8-vs-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A3%BC%EC%9A%94-%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC-%EC%9D%B4%ED%95%B4)
 * [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html)
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
 * [Analytics Engineer 란? (Feat. Modern Data Stack)](https://myjorney.tistory.com/entry/Analytics-Engineer-%EB%9E%80-Feat-Modern-Data-Stack)
