@@ -1619,6 +1619,7 @@ Docker
 * [Safe Kubenetes Environment with AppArmor - Hoon Jo | UbuCon Asia 2022 - YouTube](https://www.youtube.com/watch?v=BFnrd1OJkgk)
 * [쿠버네티스 프로비저닝 툴과의 만남부터 헤어짐까지 . . . – tech.kakao.com](https://tech.kakao.com/2023/02/10/making-of-kubernetes-provisioning-tool/)
 * [Kubernetes and the JVM - Xebia](https://xebia.com/blog/kubernetes-and-the-jvm/)
+* [쿠버네티스 워크로드와 통신하는 방법: ①서비스 | 요즘IT](https://yozm.wishket.com/magazine/detail/1909/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
