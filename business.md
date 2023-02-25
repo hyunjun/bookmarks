@@ -186,6 +186,7 @@ Business
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
 * [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
+* [조직문화가 도저히 안바뀌는 조직의 특징(권민석 대표) - 티타임즈](https://www.ttimes.co.kr/article/2023022418037758042)
 * [CEO 심리학 `아무일 없음` 만드는 개인의 힘 읽어야](https://n.news.naver.com/mnews/hotissue/article/009/0003119869?cid=1064673) 마치 인프라 팀같이 아무 일이 없어야 잘 하는 경우에 대한 이야기
 * [내리막길 걷던 마이크로소프트를 일으킨 하나의 철학 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47786) 고정/성장 마인드셋
 * [수평적 조직 문화 만들고 싶을 때 보는 글 | HPC컨설팅](https://hpcconsulting.co.kr/2022/04/%EF%BB%BF%EC%88%98%ED%8F%89%EC%A0%81-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EB%B3%B4%EB%8A%94-%EA%B8%80/)
