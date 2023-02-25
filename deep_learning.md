@@ -417,6 +417,8 @@ Deep Learning
   * reinforcement learning과 supervised learning의 아이디어가 결합. structured prediction에서 전통적인 기계학습의 아이디어와 신경망이 결합해 좋은 결과를 가져옴
 * [Deep Learning Reading Group: SqueezeNet](http://www.kdnuggets.com/2016/09/deep-learning-reading-group-squeezenet.html)
 * [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+* [Deep Learning’s Uncertainty Principle](https://medium.com/intuitionmachine/deep-learnings-uncertainty-principle-13f3ffdd15ce)
+* [Malte Tichy - Knowing what you don’t know matters- Uncertainty-aware model rating - YouTube](https://www.youtube.com/watch?v=FjaAhF_Iwls)
 * [Tensor Physics for Deep Learning](http://www.slideshare.net/uspace/tensor-physics-for-deep-learning)
 * [Deep Visualization Toolbox](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 * [DEVIEW 2016](https://deview.kr/2016/schedule) 딥러닝/머신러닝 관련 슬라이드
@@ -634,7 +636,6 @@ Deep Learning
 * [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 * [ANN Visualizer: A python library for visualizing Artificial Neural Networks (ANN)](https://www.techleer.com/articles/510-ann-visualizer-a-python-library-for-visualizing-artificial-neural-networks-ann/)
-* [Deep Learning’s Uncertainty Principle](https://medium.com/intuitionmachine/deep-learnings-uncertainty-principle-13f3ffdd15ce)
 * [The Deep Learning(.ai) Dictionary](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4)
 * [Weekly Selection — Apr 6, 2018](https://towardsdatascience.com/weekly-selection-apr-6-2018-586b54f74300)
 * [Weekly Selection — Mar 23, 2018](https://towardsdatascience.com/weekly-selection-mar-23-2018-fdb1c918691e)
