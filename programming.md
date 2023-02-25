@@ -689,6 +689,7 @@ Programming
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
 * [애자일, 그게 뭐예요?. 글. 천지희(엘리자벳) | by Elizabeth | Feb, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%95%A0%EC%9E%90%EC%9D%BC-%EA%B7%B8%EA%B2%8C-%EB%AD%90%EC%98%88%EC%9A%94-2569cfc5f3cd)
 * [여기어때가 갑자기 ‘애자일’ 하자고 했다. 글. 류지예 / Product UX Lead | by 여기어때 UX Center | Feb, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C%EA%B0%80-%EA%B0%91%EC%9E%90%EA%B8%B0-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%95%98%EC%9E%90%EA%B3%A0-%ED%96%88%EB%8B%A4-ee06c4bce323)
+* [Agile 방법론: 신속하고 유연한 프로젝트의 미래](https://techscene.tistory.com/entry/Agile-%EB%B0%A9%EB%B2%95%EB%A1%A0-%EC%8B%A0%EC%86%8D%ED%95%98%EA%B3%A0-%EC%9C%A0%EC%97%B0%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%AF%B8%EB%9E%98)
 * [나는 애자일이 싫다](https://brunch.co.kr/@graypool/182) 제목은 사실 반어법, 관심 끌기 용이었고 애자일에 대한 선호가 내용
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [애자일과 디지털 전환은 무슨 관계인가?](https://brunch.co.kr/@graypool/329)
@@ -4487,6 +4488,7 @@ Programming
   * [2월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/02/b-2-1.html)
   * [2월 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/02/b-2.html)
   * [2월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/02/b-2-3.html)
+  * [2월 4주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/02/b-2-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
