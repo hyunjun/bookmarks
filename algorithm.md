@@ -383,6 +383,7 @@ Algorithm
 * [**Raft 분산 합의 알고리즘과 Python에서의 활용**](https://d2.naver.com/helloworld/5663184)
 * [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://www.infoq.com/presentations/raft-kafka-api/)
 * [Raft Engine: a Log-Structured Embedded Storage Engine for Multi-Raft Logs in TiKV](https://www.infoq.com/articles/raft-engine-tikv-database/)
+* [KRaft 파헤치기 Raft 알고리즘 톺아보기 :: 언제나 김김](https://always-kimkim.tistory.com/entry/digging-kraft-raft-algorithm)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
