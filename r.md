@@ -500,6 +500,7 @@ R
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * autoReg [Automatic Linear and Logistic Regression and Survival Analysis • autoReg](https://cardiomoon.github.io/autoReg/)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
+* [bitSpatial: Spatial analytics resources for Korean region](https://github.com/bit2r/bitSpatial)
 * [book tm: R 텍스트마이닝 - bitTA](https://github.com/bit2r/book_tm)
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
