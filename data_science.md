@@ -53,6 +53,7 @@ Data Science
 * [Data Science Career Ladder - YouTube](https://www.youtube.com/watch?v=qbgiK7eYvEY)
 * [Data Engineering Technology Tree | Jesse Anderson](https://www.jesse-anderson.com/2020/12/data-engineering-technology-tree/) DBA/Data Warehouse/SQL-Focused, Software Engineer, Data Scientists tech stack tree
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
+* [데이터 직군 안내서: DA, TA, DE, DS, ML엔지니어, BI 분석가](https://techscene.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A7%81%EA%B5%B0-%EC%95%88%EB%82%B4%EC%84%9C-DA-TA-DE-DS-ML%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-BI-%EB%B6%84%EC%84%9D%EA%B0%80)
 * A Beginner’s Guide to Data Engineering
   * [Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
     * 주된 내용
