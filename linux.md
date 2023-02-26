@@ -1122,6 +1122,7 @@ Linux
     * eBPF의 특징에 대해서 간략히 설명
     * Kubernetes에서 eBPF로 telemetry 데이터를 수집하는 오픈소스 옵저버빌리티 솔루션인 Pixie 소개
     * 클러스터에 설치해서 사용하는 방법 간략히 설명
+* [eBPF: Fueling New Flame Graphs & more • Brendan Gregg • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=HKQR7wVapgk)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
