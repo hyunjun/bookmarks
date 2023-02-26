@@ -632,7 +632,7 @@ Programming Books
 * (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook)
   * 한라
 * (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
-  * 탐라
+  * 탐라 문004.588-김53ㅇ
 
 # Android
 
@@ -1101,9 +1101,9 @@ Programming Books
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
   * 우당 문005.7-우831ㄷ
 * (NOT YET) [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
-  * 탐라
+  * 탐라 문005.76-김813ㄷ
 * (NOT YET) [실시간 데이터 파이프라인 아키텍처](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309148202)
-  * 탐라
+  * 탐라 문005.12-살839ㅅ
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1796,6 +1796,9 @@ Programming Books
   * [다시 쓰는 함수형 프로그래밍](https://velog.io/@teo/functional-programming)
 
 # Game
+* [우리가 사랑한 한국 PC 게임](https://jhrogue.blogspot.com/2023/02/pc.html)
+  * ★★★☆☆ 2023.02.26 추억을 돌아볼 수 있는 정말 즐거운 책
+  * 탐라 문691.15-장53ㅇ
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
 * (NOT YET) [파이썬으로 게임 만들기 그 첫 번째 이야기(입문편)](https://jpub.tistory.com/1092)
 * (NOT YET) [(번역서) 게임 엔진 블랙 북: 울펜슈타인 3D](https://jhrogue.blogspot.com/2020/10/3d.html)
@@ -1806,8 +1809,6 @@ Programming Books
   * [게임산업 이면의 무자비한 이야기, 그리고 여운.. : 네이버블로그](https://blog.naver.com/drvoss/222860583517)
 * (NOT YET) [레트로 게임 개발 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307083643)
   * [레트로 게임 개발 바이블 저자 박주항님 인터뷰](https://jhrogue.blogspot.com/2023/02/blog-post.html)
-* (NOT YET) [우리가 사랑한 한국 PC 게임](https://jhrogue.blogspot.com/2023/02/pc.html)
-  * 탐라
 
 # Git
 
@@ -2121,7 +2122,7 @@ Programming Books
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
 * (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
-  * 탐라
+  * 탐라 문005.138-리41ㅅ
 * (NOT YET) [러닝 타입스크립트 - 안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1654)
 * (NOT YET) [가장 빨리 만나는 스벨트](https://nexi.kr/133)
   * 탐라 문005.118-박58ㄱ
