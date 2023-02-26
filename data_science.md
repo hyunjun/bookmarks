@@ -52,7 +52,6 @@ Data Science
 * [Is Data Science a Dying Profession? | R-bloggers](https://www.r-bloggers.com/2022/08/is-data-science-a-dying-profession/)
 * [Data Science Career Ladder - YouTube](https://www.youtube.com/watch?v=qbgiK7eYvEY)
 * [Data Engineering Technology Tree | Jesse Anderson](https://www.jesse-anderson.com/2020/12/data-engineering-technology-tree/) DBA/Data Warehouse/SQL-Focused, Software Engineer, Data Scientists tech stack tree
-* [Awesome Data Engineering Learning Path - Best resources, books, courses](https://awesomedataengineering.com/)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * A Beginner’s Guide to Data Engineering
   * [Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
@@ -627,7 +626,9 @@ Data Science
 
 # Python
 * [awesome-data-and-analytics-governance: 데이터 & 분석 거버넌스 제고를 위한 양질의 레퍼런스들을 수집하고 생각을 나눌 수 있습니다.](https://github.com/playinpap/awesome-data-and-analytics-governance)
+* [Awesome Data Engineering Learning Path - Best resources, books, courses](https://awesomedataengineering.com/)
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience)
+* [awesome-ds-setting: Data science setting for a new machine](https://github.com/RamiKrispin/awesome-ds-setting)
 * [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
