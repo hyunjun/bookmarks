@@ -1593,6 +1593,8 @@ Scala
 * [orchestrator4s: Simple library to orchestrate yours applications easily](https://github.com/joacovela16/orchestrator4s)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
+* [Pass4s is a Scala library providing an abstract layer for cross app messaging](https://github.com/ocadotechnology/pass4s)
+  * [Functional messaging in Scala with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-basics/)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
   * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
   * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
