@@ -45,6 +45,7 @@ Android
 * [New ActivityResultRegistry](http://pluu.github.io/blog/android/2020/03/24/activity-result/)
 * [새로운 API ActivityResultContract로 Migration](http://pluu.github.io/blog/android/2020/05/01/migation-activity-result/)
 * [registerForActivityResult 구현방법 정리 # 구 onActivityResult](https://developer88.tistory.com/351)
+* [Pluu Dev - Activity Result API의 ActivityResultCallback과 기존 onActivityResult와의 차이점](https://pluu.github.io/blog/android/2023/02/25/lifecycle/)
 * [BindService를 사용하면서 주의해야 할 점들](https://developer88.tistory.com/256)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
