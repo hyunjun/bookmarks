@@ -664,6 +664,7 @@ Docker
     * 글에서 실행 가능한 예제 제공
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
 * [AAAP – 작업환경 as a Service 개발기 – tech.kakao.com](https://tech.kakao.com/2022/12/15/aaap/)
+* [Docker: Its Hidden Complexity will be the Death of your Startup](https://www.derpytools.com/docker-its-hidden-complexity-will-be-the-death-of-your-startup/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
