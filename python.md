@@ -1154,6 +1154,7 @@ Python
   * [논문 작성시 꿀팁-005 Python 에서 C/C++ 과 CUDA C 호출하기](https://www.youtube.com/watch?v=LO2qKHp2jLg)
   * [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU)
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
+  * [Cheryl Roberts - Parallelization of code in Python for beginners | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=bzdMHXDusOQ)
   * [**Every Python Programmer Should Know the Not-So-Secret ThreadPool | by Fabian Bosler | Better Programming | Medium**](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
   * Shared Memory
     * [**practice - shared memory with multiprocessing**](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_shared_memory_3.py)
