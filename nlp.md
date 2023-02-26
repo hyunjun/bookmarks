@@ -1078,6 +1078,7 @@ NLP
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
+* [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
