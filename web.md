@@ -1072,6 +1072,7 @@ Web
 * [Nginx 기반의 API Gateway 구현(with Python) :: GS Retail Engineering](https://gsretail.tistory.com/21)
 * [Binary Packages Now Available for the Preview NGINX QUIC+HTTP/3 Implementation - NGINX](https://www.nginx.com/blog/binary-packages-for-preview-nginx-quic-http3-implementation/)
 * [NGINX, 기술 부채가 되지 않으려면? | LINE DEV Meetup #13 - YouTube](https://www.youtube.com/watch?v=h0LMEVDXCxE)
+* [Nginx란 무엇인가? : 네이버 블로그](https://blog.naver.com/gi_balja/223028077537)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
