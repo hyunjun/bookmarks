@@ -960,6 +960,8 @@
   * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
 * [Petastorm - a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks](https://petastorm.readthedocs.io/)
   * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning | Uber Engineering Blog](https://eng.uber.com/petastorm/)
+* [quokka: Open source SQL engine in Python](https://github.com/marsupialtail/Quokka)
+  * [Ziheng Wang - Quokka-Rewriting SparkSQL in Python - PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=Usc499sHbEM)
 * Snowflake
   * [Read from Kafka & Write to Snowflake via Spark Databricks | LinkedIn](https://www.linkedin.com/pulse/read-from-kafka-write-snowflake-via-spark-databricks-deepak-rajak/?trackingId=nV2nP1ws2QRWZVSBOpNkDw%3D%3D)
   * [입 개발 Spark SQL Query to Snowflake Query | Charsyam's Blog](https://charsyam.wordpress.com/2021/09/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-spark-sql-query-to-snowflake-query/)
