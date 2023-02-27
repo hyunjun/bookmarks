@@ -210,6 +210,7 @@ Artificial Intelligence
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
 
 # Conference
+* [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
 * [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
   * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
 
