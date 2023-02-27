@@ -633,6 +633,7 @@ Programming Books
   * 한라
 * (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
   * 탐라 문004.588-김53ㅇ
+  * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
 
 # Android
 
@@ -1100,10 +1101,10 @@ Programming Books
   * 한라 005.76-김12빅
 * (NOT YET) [데이터 민주화와 셀프서비스 데이터 | 에이콘출판사](http://acornpub.co.kr/book/self-service-data)
   * 우당 문005.7-우831ㄷ
-* (NOT YET) [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
-  * 탐라 문005.76-김813ㄷ
 * (NOT YET) [실시간 데이터 파이프라인 아키텍처](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309148202)
   * 탐라 문005.12-살839ㅅ
+  * [Streaming Data](https://www.manning.com/books/streaming-data)
+  * [streaming-data](https://github.com/bjpublic/streaming-data)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1504,6 +1505,9 @@ Programming Books
   * [데이터로 전문가처럼 말하기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/communicating_with_data.md)
   * [데이터로 전문가처럼 말하기. 최근 액센츄어 Accenture 조사에 따르면, 오직 21% 직원만이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0-a7b95f92dbf2)
   * [데이터로 전문가처럼 말하기](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0)
+* [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
+  * ★★★☆☆ 2023.02.27 시각화만은 아니고 전반적인 데이터를 사용한 사고, 보고에 대한 기초적인 설명 및 안내
+  * 탐라 문005.76-김813ㄷ
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술](https://blog.insightbook.co.kr/2019/05/02/%E3%80%8A%EC%A7%84%EC%8B%A4%EC%9D%84-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%98%88%EC%88%A0%E3%80%8B/)
   * 한라 004.76-카68ㅈ
   * [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
@@ -2121,8 +2125,11 @@ Programming Books
 * (NOT YET) [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
+  * [프로그래밍 입문서로 여전히 훌륭한 개념 안내서 : 네이버 블로그](https://blog.naver.com/drvoss/223028398957)
 * (NOT YET) [실전에서 바로 쓰는 Next.js](https://www.hanbit.co.kr/store/books/look.php?p_code=B1068448075)
   * 탐라 문005.138-리41ㅅ
+  * [Real-World-Next.js: Real-World Next.js, published by Packt](https://github.com/PacktPublishing/Real-World-Next.js)
+  * [practical-next.js: 『실전에서 바로 쓰는 Next.js』(한빛미디어, 2023) 예제 코드 저장소입니다](https://github.com/hanbit/practical-next.js)
 * (NOT YET) [러닝 타입스크립트 - 안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1654)
 * (NOT YET) [가장 빨리 만나는 스벨트](https://nexi.kr/133)
   * 탐라 문005.118-박58ㄱ
@@ -2208,6 +2215,7 @@ Programming Books
 * (NOT YET) [카프카 핵심 가이드](http://jpub.tistory.com/849)
 * (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
 * (NOT YET) [아파치 카프카 애플리케이션 프로그래밍 with 자바 - YES24](http://www.yes24.com/Product/Goods/99122569?OzSrank=1)
+  * [데브원영이 추천하는 실시간 데이터 파이프라인 아키텍처 | 번역서 출간 | 출간 이벤트 - YouTube](https://www.youtube.com/watch?v=Zd-KMbbTINY)
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자](https://www.onlybook.co.kr/entry/kafka)
 * (NOT YET) [실전 카프카 개발부터 운영까지](https://jhrogue.blogspot.com/2021/10/blog-post_21.html)
   * [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
@@ -3120,6 +3128,7 @@ Programming Books
 * [개발자 원칙 - 골든래빗](https://goldenrabbit.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9B%90%EC%B9%99/)
   * ★★★☆☆ 2022.12.20
   * [독서광 개발자 원칙](https://jhrogue.blogspot.com/2023/01/blog-post.html)
+  * [개발자 원칙](https://yeonyeon.tistory.com/298)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
