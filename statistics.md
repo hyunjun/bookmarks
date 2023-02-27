@@ -36,6 +36,7 @@ Statistics
 * [미국 통계학회, P값의 오용(誤用)을 경고하는 성명서 발표](http://www.ibric.org/myboard/read.php?Board=news&id=270293)
 * [Plot for distribution of common statistics and p-value](http://rpubs.com/cardiomoon/329065)
 * [P-value, 유의확률 | Hong's Data science](https://jihongl.github.io/2017/09/12/P-value/)
+* [Eyal Kazin - Everything That You Wanted To Know About P-Values But Were Afraid To Ask - YouTube](https://www.youtube.com/watch?v=QVfgqkTv7b8)
 * [Why We Need a Statistical Revolution](http://www.stats.org/super-learning-and-the-revolution-in-knowledge/)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Pattern Recognition](http://iskim3068.tistory.com/m/post?categoryId=473315)
