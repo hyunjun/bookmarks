@@ -2574,6 +2574,8 @@ Programming
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
+* [Meadowrun](https://meadowrun.io/)
+  * [Kurt Schelfthout, Richard Lee - Introducing Meadowrun: write code locally, run on the cloud - YouTube](https://www.youtube.com/watch?v=QfcU6w4oOCo)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [m3o: The open source public cloud platform. We are building an AWS alternative for the next generation of developers](https://github.com/m3o/m3o)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
