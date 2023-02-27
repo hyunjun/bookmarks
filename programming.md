@@ -408,6 +408,7 @@ Programming
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
+* [Listener 함수 이름은 어떻게 지어야 할까? — onUserChange() vs onUserChanged() | by Ted Park | PRND | Feb, 2023 | Medium](https://medium.com/prnd/listener-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%80%EC%96%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-onuserchange-vs-onuserchanged-28a0aa95a192) naming
 * [Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Sep, 2022 | Better Programming](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson - YouTube](https://www.youtube.com/watch?v=9LfmrkyP81M) 업계에 만연한 잘못된 인식, 좋은 소프트웨어는 무엇이며 어떻게 만들지
@@ -3821,6 +3822,7 @@ Programming
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 * [카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ – tech.kakao.com](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
 * [Redis vs Kafka vs RabbitMQ. When using asynchronous communication… | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec)
+* [Spoqa 기술 블로그 | 청구/수납 서비스 개발기](https://spoqa.github.io/2023/02/24/bill-payment-development-story.html)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
