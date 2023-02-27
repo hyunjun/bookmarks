@@ -327,6 +327,7 @@ Data Visualization
 * [12 Data Plot Types for Visualisation from Concept to Code - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/)
 * [Visualizations for Privacy Preservation - Gatha Varma | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=3Tp7Jf-_H50)
 * [Python Dashboarding Shootout and Showdown - YouTube](https://www.youtube.com/watch?v=1UVghBXt6dY) Dash, Panel, Streamlit, and Voila+IPyWidgets
+* [Marysia Winkels - Data Storytelling through Visualization | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=EIrd6TgZ0Js)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
