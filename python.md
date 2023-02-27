@@ -4076,6 +4076,7 @@ Python
   * [cffi-example: an example project showing how to use Python's CFFI](https://github.com/wolever/python-cffi-example)
   * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
   * [C로 파이썬 모듈 작성하는 법](https://soooprmx.com/archives/4692)
+  * [Caroline Arnold - Lessons learned from using the C Foreign Function Interface | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=_Yy5pl9V1nk)
   * [configs/default.py](https://github.com/ANLAB-KAIST/NBA/blob/master/configs/default.py) [src/lib/config.cc](https://github.com/ANLAB-KAIST/NBA/blob/master/src/lib/config.cc)
 * [cython](http://cython.org)
   * [cython](https://github.com/cython)
@@ -4486,6 +4487,7 @@ Python
   * [Introduction to Dask: Scaling EDA & ML Workloads - YouTube](https://www.youtube.com/watch?v=yHnHOSdihKo)
   * [PyData Triangle March 2022 Meetup - YouTube](https://www.youtube.com/watch?v=q1VMYqzUytY)
   * [Scaling Python - Bank Edition | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=tbqgsM6iGng) pyGPU-CUDA, prefect, argo
+  * [Martin Durant - Single node shared memory comes to dask | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=A96VRXarP2w)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
   * [dask-sql: Query Your (Big) Data With The Power of Python & SQL - Nils Braun - YouTube](https://www.youtube.com/watch?v=aLoTc_cX6yY)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
