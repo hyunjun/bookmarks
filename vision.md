@@ -828,6 +828,8 @@ Vision
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [Facial-Emotion-Recognition: Third year undergraduate project in Computer Science. Creation of facial emotion recognition system using deep learning (Keras, Tensorflow, OpenCV)](https://github.com/CallumAltham/Facial-Emotion-Recognition)
 * [HugsVision is a easy to use huggingface wrapper for state-of-the-art computer vision](https://github.com/qanastek/HugsVision)
+* [KerasCV](https://keras.io/keras_cv/)
+  * [Lucas Wood - Object Detection with KerasCV | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PFPLjaVJVpk)
 * [LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022](https://github.com/saic-mdal/lama)
   * [LaMa - 큰해상도 이미지에서 사물 지우기 | GeekNews](https://news.hada.io/topic?id=5281)
 * [Lego-generator](https://github.com/uvipen/Lego-generator)
