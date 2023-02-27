@@ -1542,6 +1542,7 @@ Scala
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
     * [FS2-Kafka in real world -Part 2. This is a continuation of series on how… | by ayush mittal | Feb, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-2-831891ee6907)
     * [fs2-kafka introduction: deserialization with careful error handling | Anton Kovalevsky](https://antonkw.github.io/scala/fs2-kafka-pt1/)
+    * [fs2-kafka introduction: lib for ADT-events, idempotent writes and batches of offsets | Anton Kovalevsky](https://antonkw.github.io/scala/fs2-kafka-pt2/)
     * [`F[F[S]]` Kafka! - Case study: The digital transformation of Santa’s logistical nightmare - Part 3 fs2-kafka - Functional Feline Society](https://functional-feline-society.github.io/2023/01/24/fs2-kafka/)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
