@@ -315,3 +315,4 @@ Flutter
 * [flutter-learn: Flutter와 Firebase를 사용하여 단일 Dart 코드베이스로 Android, iOS, 웹에서 커뮤니티 앱을 빌드합니다](https://github.com/ska2519/flutter-learn)
 * [Flutter 3.0 Master Class for Beginners to Advanced 2022 | Ticket Booking App Development Tutorial - YouTube](https://www.youtube.com/watch?v=71AsYo2q_0Y)
 * [Flutter Tutorial 2022 | How to create, design, validate and save forms in Flutter](https://morioh.com/p/7022752751b6)
+* [Flutter 사용기 - 엘키의 주절 주절](https://elky84.github.io/2023/02/26/flutter_usage/)
