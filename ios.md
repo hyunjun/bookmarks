@@ -130,6 +130,7 @@ iOS
   * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
   * [cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
     * [cocoapods-binary-cache 로 iOS 빌드 속도를 더 빠르게 만들기 | Medium](https://okanghoon.medium.com/cocoapods-binary-cache-%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EB%B9%8C%EB%93%9C-%EC%86%8D%EB%8F%84%EB%A5%BC-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0-6920f61d9b2c)
+* dSym [Mac 없이 ‘iOS 복호화 (dSym)’ 기능 출시](https://blog.imqa.io/ios-dsymbolication/amp/)
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
 * [fastlane - Connect all iOS deployment tools into one streamlined workflow https://fastlane.tools](https://github.com/KrauseFx/fastlane)
   * [Fastlane을 통한 앱 자동 배포 - Fastlane을 사용해서 React native로 만든 앱을 자동으로 배포해 보자](https://dev-yakuza.github.io/ko/react-native/fastlane/)
