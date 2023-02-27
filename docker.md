@@ -1671,6 +1671,7 @@ Docker
     * [How do you run ArgoCD? | ArgoCD Full Crash Course Tutorial - YouTube](https://www.youtube.com/watch?v=WX6VmBo7FUY)
     * [Argo CD Sync phases and waves | Argo CD | GitOps | - YouTube](https://www.youtube.com/watch?v=afQpUL5yJgc)
     * [Secure your application from Argo CD to Kubernetes | Snyk](https://snyk.io/blog/secure-apps-from-argocd-to-kubernetes/)
+    * [Argo CD에 컨트리뷰트하며 본 새로운 것들](https://velog.io/@juunini/Argo-CD%EC%97%90-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8%ED%95%98%EB%A9%B0-%EB%B3%B8-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B2%83%EB%93%A4)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
