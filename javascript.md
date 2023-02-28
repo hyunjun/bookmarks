@@ -2107,6 +2107,7 @@ Javascript
   * [Nuxt 3 – More Than Vue 3 on Steroids, by Alexander Lichter - YouTube](https://www.youtube.com/watch?v=cSjlefuZlaI)
   * [Websocket Server | Nuxt 3 | Real time messages - YouTube](https://www.youtube.com/watch?v=d-LSN-xo6N4)
   * [Nuxt 3 pagination with datafetching | Fast API | Nuxt 3 - YouTube](https://www.youtube.com/watch?v=9MVQmk5u_3I)
+  * [Nuxt 3 App | Server Side Firebase Auth | Meta Components Generator App - YouTube](https://www.youtube.com/watch?v=xDzbuqvg5S4)
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
