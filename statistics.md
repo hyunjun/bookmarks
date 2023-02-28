@@ -205,6 +205,7 @@ Statistics
 * [코호트란 무엇인가?](https://brunch.co.kr/@graypool/146)
 * [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 * [Linear Regression and Linear Models - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
+* [Hajime Takeda - Media Mix Modeling:How to Measure the Effectiveness of Advertising - YouTube](https://www.youtube.com/watch?v=u4U_PUTasPQ)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
