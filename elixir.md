@@ -18,6 +18,7 @@ Elixir
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * ["Elixir and the Internet of Things" by Doug Rohrer](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [Elixir Streams](http://blog.drewolson.org/elixir-streams/)
+* [Phoenix Dev Blog - Streams · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
 * [Binary pattern matching in Elixir with PNG parsing example](http://zohaib.me/binary-pattern-matching-in-elixir/)
 * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
 * [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
