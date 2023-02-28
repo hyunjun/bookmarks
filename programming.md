@@ -2700,6 +2700,10 @@ Programming
     * 피라미드의 아래쪽에 있을수록 나중에 수정할 때 더 큰 노력 필요
     * 각 부분별로 리뷰할 때 집중해야 할 질문을 정리
 * [효과적인 코드리뷰를 위한 리뷰어의 자세 – tech.kakao.com](https://tech.kakao.com/2022/04/03/2022-newkrew-onboarding-codereview/)
+* [코드 리뷰](https://velog.io/@jiseung/code-review)
+* [코드 리뷰 문화 | 요즘IT](https://yozm.wishket.com/magazine/detail/1577/)
+* [코드 리뷰 맛집, 요기요. 개발 잘 하는 아이는 이렇게 코드 리뷰 합니다. | by Sungho Lim | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%A7%9B%EC%A7%91-%EC%9A%94%EA%B8%B0%EC%9A%94-c251406b06b2)
+* [카카오스토리 팀의 코드 리뷰 도입 사례 – 코드 리뷰, 어디까지 해봤니? – tech.kakao.com](https://tech.kakao.com/2016/02/04/code-review/)
 * [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
