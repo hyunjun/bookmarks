@@ -2147,6 +2147,7 @@ Programming
 * [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
 * [엔터프라이즈 MSA 이야기 1탄 - 주문서비스(Milestone1) :: GS Retail Engineering](https://gsretail.tistory.com/26)
 * [Microservices from the Trenches • Sander Hoogendoorn • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=UFFmT4Z5frw)
+* [전략적인 마이크로 서비스 채택 방안](https://brunch.co.kr/@graypool/804)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -3436,6 +3437,7 @@ Programming
       * Apple에서는 SFSafariViewController를 지원해서 이를 사용하면 앱이 웹사이트에 코드 주입 불가능
     * 사용자는 가능하면 "Open in Browser"를 눌러서 인 앱 브라우저 말고 기본 브라우저를 사용하기를 권장
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
+* [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [neuvector](https://github.com/neuvector/neuvector)
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
