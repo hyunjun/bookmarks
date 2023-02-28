@@ -420,6 +420,7 @@ Network
 * [Introduction to TCP and Sockets](https://www.scottklement.com/rpg/socktut/introduction.html)
 * [TCP Socket Listen: A Tale of Two Queues](http://arthurchiao.art/blog/tcp-listen-a-tale-of-two-queues/)
 * [Connection Reset by Peer 문제 해결](https://velog.io/@youngerjesus/Connection-Reset-by-Peer-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+* [문제 현상 이면에 숨겨진 원인 찾기: TCP 통신 트러블슈팅](https://velog.io/@joosing/find-the-hidden-cause-behind-the-problem-symptoms)
 * [tcp-over-http: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy](https://github.com/julianbuettner/tcp-over-http)
 
 # UDP
