@@ -4142,6 +4142,7 @@ Javascript
 * [예상보다 24배 많은 콘텐츠에 프론트가 대처하는 법 - 리디주식회사](https://ridicorp.com/story/ridi-markdown-improvements/)
 * [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
   * [잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기](https://velog.io/@eunbinn/modularizing-react-apps)
+* [실전! 리액트, 응집성 있게 만들기 | Coderifleman's blog](https://blog.coderifleman.com/2023/02/27/hands_on_react_making_it_cohesive/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -5113,6 +5114,7 @@ Javascript
   * [MSW를 활용한 Clean UI Integration Test | goohooh.github.io](https://goohooh.github.io/Testing/clean_ui_test_code/)
   * [아직도 커버리지에 집착하는가? : 네이버 블로그](https://blog.naver.com/pjt3591oo/222850170026)
   * [나만의 Jest Matchers 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers/)
+  * [WebStorm 대신 VSCode 로 TypeScript 테스트와 디버깅 해보기 (with Jest) | by Rachel Kwak (곽소현) | Feb, 2023 | Medium](https://medium.com/@nicesh/webstorm-%EB%8C%80%EC%8B%A0-vscode-%EB%A1%9C-typescript-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-%EB%94%94%EB%B2%84%EA%B9%85-%ED%95%B4%EB%B3%B4%EA%B8%B0-with-jest-e9c7975befdc)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
