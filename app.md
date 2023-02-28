@@ -911,6 +911,7 @@ App
     * [vscode/extensions/markdown-language-features/server at main · microsoft/vscode](https://github.com/microsoft/vscode/tree/main/extensions/markdown-language-features/server)
   * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
   * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
+  * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
