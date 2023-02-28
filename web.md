@@ -1814,6 +1814,7 @@ Web
 * [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
 * [WebSockets vs. Server-Sent Events | Bits and Pieces](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
+* [웹소켓으로 개발하기 전 알아야 할 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1911/)
 * [soketi](https://soketi.app/)
   * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
