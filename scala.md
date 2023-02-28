@@ -1084,6 +1084,7 @@ Scala
     * [Zymposium - ZIO OpenAI - YouTube](https://www.youtube.com/watch?v=RSPZBsCnwfY)
     * [Build Invincible Apps With ZIO And Temporal by Vitalii Honta - YouTube](https://www.youtube.com/watch?v=8MUnEahr5tk)
     * [The Great Concurrency Smackdown: ZIO versus JDK by John A. De Goes - YouTube](https://www.youtube.com/watch?v=9I2xoQVzrhs)
+    * [Zymposium - Scala 3's New Compile-Time Features - YouTube](https://www.youtube.com/watch?v=5PQYC0UDqGA)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1596,6 +1597,7 @@ Scala
 * [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
 * [Pass4s is a Scala library providing an abstract layer for cross app messaging](https://github.com/ocadotechnology/pass4s)
   * [Functional messaging in Scala with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-basics/)
+  * [JSON and XML messaging with pass4s - Dev notes](https://blog.michalp.net/posts/scala/pass4s-codecs/)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
   * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
   * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
