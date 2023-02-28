@@ -2646,6 +2646,8 @@ Programming Books
     * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신편 | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B3%BC-%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%ED%8E%B8-9ec3e07b781)
     * [만약 고교야구 여자 매니저가 피터 드러커를 읽는다면 이노베이션과 기업가정신편](https://jh4hj.tistory.com/entry/%EB%A7%8C%EC%95%BD-%EA%B3%A0%EA%B5%90%EC%95%BC%EA%B5%AC-%EC%97%AC%EC%9E%90-%EB%A7%A4%EB%8B%88%EC%A0%80%EA%B0%80-%ED%94%BC%ED%84%B0-%EB%93%9C%EB%9F%AC%EC%BB%A4%EB%A5%BC-%EC%9D%BD%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98%EA%B3%BC-%EA%B8%B0%EC%97%85%EA%B0%80%EC%A0%95%EC%8B%A0%ED%8E%B8)
 * (NOT YET) [피터 드러커 넥스트 소사이어티](https://blog.naver.com/airline36/221095564854)
+* (NOT YET) [피터 드러커 어떻게 경영할 것인가](https://blog.naver.com/chojazz/222780015016)
+  * 한라 325.1-후78ㅇ 우당 문325.1-후79ㅍ
 * (NOT YET) [경영의 실제 - Peter Drucker](https://brunch.co.kr/@khorikim/230)
   * 한라 325-드29ㄱ 우당 문325-피833ㄱ
 * (NOT YET) [파타고니아 이야기](https://hanbit.co.kr/store/books/look.php?p_code=B9108907099)
@@ -2684,6 +2686,8 @@ Programming Books
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
   * 한라
 * (NOT YET) [몽키 비즈니스(monkey business, 2001) 독후감](http://ohyecloudy.com/pnotes/archives/monkey-business-2001/)
+* (NOT YET) [리프레이밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294398313)
+  * 한라 325.2-웨24ㄹ 탐라 문325.2-웨223ㄹ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
