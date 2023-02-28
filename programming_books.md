@@ -1505,9 +1505,12 @@ Programming Books
   * [데이터로 전문가처럼 말하기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/communicating_with_data.md)
   * [데이터로 전문가처럼 말하기. 최근 액센츄어 Accenture 조사에 따르면, 오직 21% 직원만이… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0-a7b95f92dbf2)
   * [데이터로 전문가처럼 말하기](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EB%A7%90%ED%95%98%EA%B8%B0)
-* [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data/)
-  * ★★★☆☆ 2023.02.27 시각화만은 아니고 전반적인 데이터를 사용한 사고, 보고에 대한 기초적인 설명 및 안내
+* [데이터로 말해요! 데이터 중심의 사고ㆍ기획ㆍ보고의 기술 | 위키북스](https://wikibook.co.kr/speaking-in-data)
+  * ★★★☆☆ 2023.02.27 시각화만은 아니고 전반적인 데이터를 사용한 사고, 보고에 대한 기초적인 설명 및 안내. 용어에 대한 자의적인 혹은 근거가 부족한 주장이 아쉬우나 전반적으로 괜찮은 책
   * 탐라 문005.76-김813ㄷ
+  * [데이터로 말해요! 데이터 중심의 사고·기획·보고의 기술](https://github.com/hyunjun/bookmarks/blob/master/programming_books/speaking_from_data.md)
+  * [데이터로 말해요! 데이터 중심의 사고·기획·보고의 기술. 그림 5–8 비즈니스 데이터 사고를 위한 4 다이아몬드 모델 | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EB%A7%90%ED%95%B4%EC%9A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%82%AC%EA%B3%A0-%EA%B8%B0%ED%9A%8D-%EB%B3%B4%EA%B3%A0%EC%9D%98-%EA%B8%B0%EC%88%A0-977b2f3d51a)
+  * [데이터로 말해요! 데이터 중심의 사고·기획·보고의 기술](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EB%A7%90%ED%95%B4%EC%9A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%82%AC%EA%B3%A0%C2%B7%EA%B8%B0%ED%9A%8D%C2%B7%EB%B3%B4%EA%B3%A0%EC%9D%98-%EA%B8%B0%EC%88%A0)
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술](https://blog.insightbook.co.kr/2019/05/02/%E3%80%8A%EC%A7%84%EC%8B%A4%EC%9D%84-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%98%88%EC%88%A0%E3%80%8B/)
   * 한라 004.76-카68ㅈ
   * [진실을 드러내는 데이터 시각화의 과학과 예술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/83)
