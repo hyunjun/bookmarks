@@ -1667,6 +1667,8 @@ Business
   * [반스 앤 노블, 몰락하던 오프라인 서점의 부활.. : 네이버블로그](https://blog.naver.com/bizucafe/223015755693)
 * [동네 독서광들 채용해 부활한 반스앤노블 - 티타임즈](https://www.ttimes.co.kr/article/2023022016507751669)
 * [스타트업 리더는 달라야 하는 이유](https://now.rememberapp.co.kr/2022/08/08/20588/)
+* [What Leaders Can Learn from Artificial Birds - NOBL Academy](https://academy.nobl.io/2016-leaders-boids-flocks/)
+* [9 Powerful Ways To Align Engineering And Product Teams](https://www.cloudzero.com/blog/engineering-and-product-alignment)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
