@@ -882,6 +882,7 @@ Git
   * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
   * [Github Pull Request시 Jest & Docker Test Code 수행하기](https://jojoldu.tistory.com/602)
   * [리멤버에서 Pull Request 편리하게 사용하는 법 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/%eb%93%9c%eb%9d%bc%eb%a7%88%ec%95%a4%ec%bb%b4%ed%8d%bc%eb%8b%88%ec%97%90%ec%84%9c-pull-request-%ed%8e%b8%eb%a6%ac%ed%95%98%ea%b2%8c-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-%eb%b2%95/)
+  * [슬기로운 코드 리뷰 생활 with GitHub Pull Request | by Rachel Kwak (곽소현) | 직방 기술 블로그 | Medium](https://medium.com/zigbang/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%83%9D%ED%99%9C-with-github-pull-request-7932b5d47c70)
   * [Git pull 전략 (default, --ff-only, --rebase)](https://sanghye.tistory.com/43)
   * [Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)](https://jojoldu.tistory.com/641)
 * push
