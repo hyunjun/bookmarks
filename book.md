@@ -418,6 +418,7 @@ Book
 * (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
   * 우당
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
+  * 탐라
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -583,6 +584,10 @@ Book
 * (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
+* (NOT YET) [IB로 그리는 미래교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289174142)
+  * 우당 문376.9-조94ㅇ
+* (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
+  * 한라
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
@@ -744,6 +749,7 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
+  * 탐라
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
@@ -1230,6 +1236,7 @@ Book
 * (NOT YET) [국가는 왜 실패하는가 국가간 격차가 존재하는 진짜 이유는? - YouTube](https://www.youtube.com/watch?v=jHTPbrdPwS0)
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
 * (NOT YET) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
+  * 한라
 
 # Presentation
 * 데이터 스토리텔링 (설득력 있는 프리젠테이션을 위한 데이터 시각화 기법)

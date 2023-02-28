@@ -308,11 +308,13 @@ Programming Books
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
 * (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
+  * 한라
   * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 * (NOT YET) [NGINX 쿡북(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9583925549)
   * [NGINX 쿡북 리뷰](https://velog.io/@youngerjesus/NGINX-%EC%BF%A1%EB%B6%81-%EB%A6%AC%EB%B7%B0)
 * (NOT YET) [세상을 바꿀 미래기술 12가지 | 위키북스](https://wikibook.co.kr/futuretech12/)
 * (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
+  * 한라
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
 * (NOT YET) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
   * 한라 004.783-해298ㄷ
@@ -452,6 +454,10 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
+* (NOT YET) [매니지먼트 3.0 - 모두가 행복한 애자일 매니지먼트 | 에이콘출판사](http://www.acornpub.co.kr/book/managing-happiness)
+  * 우당
+* (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect)
+  * 우당
 
 # Algorithm
 
@@ -634,6 +640,8 @@ Programming Books
 * (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
   * 탐라 문004.588-김53ㅇ
   * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
+* (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide/)
+  * 우당
 
 # Android
 
@@ -797,6 +805,7 @@ Programming Books
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
   * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
 * (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
+  * 탐라 문331.5412-정69ㅇ
 * (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
 * (NOT YET) 야사와 만화로 배우는 인공지능 [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
   * 한라 004.73-권14ㅇ-1~2 우당 문004.73-권13ㅇ-1~2
@@ -1368,6 +1377,8 @@ Programming Books
   * 우당 문004.73-웨69ㅇ
 * (NOT YET) [파이썬을 활용한 머신러닝 자동화 시스템 구축 | 위키북스](https://wikibook.co.kr/automl/)
 * (NOT YET) [그림으로 배우는 StatQuest 머신러닝 강의](https://jpub.tistory.com/1376)
+* (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml)
+  * 우당
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -1772,6 +1783,7 @@ Programming Books
 * (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics)
   * 한라
 * (NOT YET) [파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EC%84%B1%EC%9B%90-%EB%8D%95%EB%B6%84%EC%97%90%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EB%8F%84-activity-7030358886918348800-mSFu/)
+  * 탐라
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
@@ -2683,7 +2695,9 @@ Programming Books
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
 * (NOT YET) 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
+  * 한라 325.1-박74ㅊ 탐라 문325.1-박73ㅊ 우당 문325.1-박73ㅊ
 * (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
+  * 탐라
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
@@ -3139,6 +3153,7 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
+  * 탐라
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
@@ -3631,6 +3646,8 @@ Programming Books
   * 탐라
 * (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
   * 우당
+* (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software)
+  * 우당
 
 # Spark
 
@@ -3751,6 +3768,7 @@ Programming Books
 * (NOT YET) [UX 원칙 Uxer를 위한 101가지 원칙](https://medium.com/heeheewuwu/ux-%EC%9B%90%EC%B9%99-uxer%EB%A5%BC-%EC%9C%84%ED%95%9C-101%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-1-2-f9fd97f9bc37)
   * 탐라 문004.78-그232ㅇ
 * (NOT YET) [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
+  * 한라
 
 # Vision
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
