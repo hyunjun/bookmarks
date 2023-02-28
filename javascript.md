@@ -4376,6 +4376,7 @@ Javascript
     * 마이그레이션을 추적하는 대시보드 구성
     * 그 결과 iOS와 Android의 구현 차이를 줄일 수 있었고 서로 협업도 가능
 * [React Native and Node.js | SMS OTP Phone Number Verification in under 5 minutes - YouTube](https://www.youtube.com/watch?v=zdBkvRj54J0)
+* [Securing React Native Applications | by Kashif Samman | Feb, 2023 | Medium](https://medium.com/@mr.kashif.samman/securing-react-native-applications-291353e8e8d3)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
