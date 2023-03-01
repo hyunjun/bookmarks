@@ -1986,6 +1986,10 @@ AWS
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 * [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
 * [terraform-provider-dominos: The Terraform plugin for the Dominos Pizza provider](https://github.com/nat-henderson/terraform-provider-dominos)
+* [terraform-provider-terracurl: A flexible Terraform provider for making API calls](https://github.com/devops-rob/terraform-provider-terracurl)
+  * [Writing Terraform for unsupported resources](https://www.hashicorp.com/blog/writing-terraform-for-unsupported-resources)
+    * Terraform으로 인프라는 코드화할 때 프로바이더가 필요하기 때문에 원하는 리소스 관리에 프로바이더가 없으면 프로바이더를 기다리거나 원하는 기능이 추가되기를 기다려야 함
+    * 하지만 해당 서비스가 API를 제공하고 있다면 TerraCurl를 이용해서 API를 호출해서 프로바이더를 기다리지 않고 코드화 가능
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
