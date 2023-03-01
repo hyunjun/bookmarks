@@ -288,6 +288,12 @@ Book
 * [번아웃 세대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306386502)
   * ★★☆☆☆ 2023.02.20
   * 탐라 문325.23-곽64ㅂ
+* [지구상에서 가장 멋진 서점들에 붙이는 각주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191851591)
+  * ★★★☆☆ 2023.03.01 멋진 서점들을 예쁜 그림으로 가볍게 볼 수 있는 책. 개인적으로는 뜻밖의 추억도 돌아볼 수 있어 더 좋았다
+  * 한라 013.33-엑57ㅈ 탐라 문013.33-엑58ㅈ 우당 문013.33-엑58ㅈ
+    * <img src="images/footnotes_from_the_worlds_greatest_bookstores0.jpg" alt="" width="300"/>
+    * 26년 전에 방문했던 시티라이트
+      * <img src="images/footnotes_from_the_worlds_greatest_bookstores1.jpg" alt="" width="300"/> <img src="images/footnotes_from_the_worlds_greatest_bookstores2.jpg" alt="" width="300"/>
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
