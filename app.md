@@ -505,6 +505,10 @@ App
 * [업무 집중력을 높여주는 구글 크롬 확장 프로그램 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/217254)
 * [Building a Simple Google Chrome Extension with Vue](https://morioh.com/p/0db574ae88e8)
 * [12 hand-picked chrome extensions that will change the way you do web development in 2023 - DEV Community 👩💻👨💻](https://dev.to/hackertab/12-hand-picked-chrome-extensions-that-will-change-the-way-you-do-web-development-in-2023-ni9)
+* [New headless Chrome has been released and has a near-perfect browser fingerprint](https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html)
+  * 새로운 헤드리스 크롬이 2022년 나왔지만, 여전히 `--headless=new` 플래그 밑에 숨겨져 있었으나 곧 크롬의 표준 헤드리스 모드가 될 예정
+  * 헤드리스를 탐지할 수 없는 것은 아니지만 새 헤드리스 모드는 실제 크롬과 핑거프린트의 차이가 거의 없기 때문에
+    * `navigator.plugins.length = 0`나 `window.chrome`를 검사하는 정도로는 구별할 수가 없어졌고 탐지하기가 훨씬 어려워졌다고 함
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
