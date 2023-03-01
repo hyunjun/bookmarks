@@ -1053,6 +1053,7 @@ AWS
     * 추가로 `podAntiAffinity`와 `PodDisruptionBudget`, 오버 프로비저닝을 이용해서 안정적으로 운영되도록 설정
 * [Blue/Green, Canary 방법을 활용한 stateless 워크로드의 Amazon EKS 클러스터 마이그레이션 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blue-green-or-canary-amazon-eks-clusters-migration-for-stateless-argocd-workloads/)
 * [EKS Cluster setup on AWS - jaffar shaik - Medium](https://jaffarshaik.medium.com/eks-cluster-setup-on-aws-c011c021e449)
+* [Amazon EKS Multi Cluster Upgrade with ExternalDNS](https://heuristicwave.github.io/EKS_Upgrade)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
