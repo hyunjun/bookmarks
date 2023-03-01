@@ -984,8 +984,8 @@ Book
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
 * (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
-* (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
-  * 우당
+* (NOT YET) 민족: 정치적 종족성과 민족주의, 그 오랜 역사와 깊은 뿌리 [“민족이 근대에 탄생했다는 주장은 틀렸다” : 한겨레](https://www.hani.co.kr/arti/culture/book/959690.html)
+  * 한라 340.21-가887ㅁ 우당 문340.21-가838ㅁ
 * (NOT YET) 히틀러를 선택한 나라- 민주주의는 어떻게 무너졌는가 [누가 히틀러 집권에 꽃길을 깔아줬나?](https://n.news.naver.com/mnews/article/028/0002587823)
   * 우당
 * (NOT YET) [정조와 불량선비 강이천](https://www.khan.co.kr/opinion/column/article/201706212120015)
