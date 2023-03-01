@@ -440,6 +440,7 @@
 * [Rust 프로그래밍 — 데이터 Type ①. 1장 데이터 Type ① | by Sungjin (James) Kim, Ph.D. | Oct, 2022 | Medium](https://jskdr.medium.com/rust-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-type-%E2%91%A0-e54040649bde)
 * [AWS re:Invent 2022 - Rust is interesting, but does it really make sense for me? (BOA201) - YouTube](https://www.youtube.com/watch?v=DHMfRFkhv-w)
 * [러스트의 메모리 관리 - 소유권, 이동, 빌림, 댕글링](https://blog.naver.com/pjt3591oo/223005091807)
+* [러스트 시작하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/)
 * [comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone](https://github.com/google/comprehensive-rust)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
