@@ -713,6 +713,16 @@ NLP
     * [챗GPT로 딥러닝 모델에서 웹앱까지 개발하기](https://aifactory.space/learning/2280/discussion/174)
   * [어텐션~~ 챗GPT는 어떻게 언어의 도사가 됐나? (배순민 KT 연구소장) - 티타임즈](https://www.ttimes.co.kr/article/2023022317387750560)
   * [ChatGPT, 그 이후](https://tech.kakaoenterprise.com/181)
+  * [How should AI systems behave, and who should decide?](https://openai.com/blog/how-should-ai-systems-behave)
+    * OpenAI에서 ChatGPT의 동작과 어떻게 개선할 예정인지 정리
+    * ChatGPT는 사전 훈련 단계에서 데이터로 다음 단어를 예측하는 방법을 학습하고 시스템의 동작을 좁히기 위해 미세 조정하는 단계를 거쳐서 모델 완성
+    * AI 시스템이 즉시 유용하도록 편견을 줄이도록 노력하고 각 사용자가 커스터마이징할 수 있도록 업그레이드 중
+    * 문제를 일으키지 않도록 한계를 정의하고 사용자에게 시스템 규칙에 영향을 미칠 수 있는 권한을 주려고 준비 중
+  * [Educator Considerations for ChatGPT - OpenAI API](https://platform.openai.com/docs/chatgpt-education)
+    * [ChatGPT에 대한 교육자 고려 사항 - Google Docs](https://docs.google.com/document/d/1ROFRqltC31yUZTJB1CIofHg2I1GVlUhAeSFATR4opQQ/edit)
+      * OpenAI에서 교육자들이 ChatGPT와 관련해서 고려해야 할 가이드라인으로 작성한 Educator considerations for ChatGPT 번역문
+      * 학생들이 자료를 만들 때 ChatGTP를 사용했음을 명시 권장
+      * 잘못된 답변을 할 수 있으므로 학생들이 정보의 신뢰성을 평가하는 방법을 알아야 하고 결과물을 사용할 때 주의해야 한다고 설명
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
