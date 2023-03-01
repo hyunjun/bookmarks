@@ -2047,6 +2047,11 @@ Java
 * Valhalla
   * [미래의 Java 미리보기 - 앰버와 발할라 프로젝트를 중심으로](https://www.slideshare.net/OracleDeveloperkr/main-session-java)
   * [Project Valhalla – Java on the path to better performance - Pretius](https://pretius.com/blog/project-valhalla-java/)
+  * [프로젝트 발할라, 야심찬 자바 리팩터의 내부 들여다보기 - ITWorld Korea](https://www.itworld.co.kr/news/278617)
+    * Java에서 `int`, `byte`, `short`, `long`, `float`, `double`, `boolean`, `char`의 프리미티브와 객체로 구분
+      * 이 균열을 해소하는 것이 프로젝트 발할라의 목적
+    * 객체 참조로 성능 최적화에 어려움이 있고 참조 버킷으로 인해서 부풀려진 메모리가 저장되는 문제 존재
+      * 이를 해결하기 위해 값 클래스와 프리미티브 클래스를 도입
 
 # Reactive
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
