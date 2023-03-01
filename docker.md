@@ -662,6 +662,8 @@ Docker
     * `--runtime=io.containerd.wasmedge.v1`로 cointainerd shim을 사용하도록 해야 하고
     * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
     * 글에서 실행 가능한 예제 제공
+* [Run x86 Docker containers with Rosetta on Mac | Level Up Coding](https://levelup.gitconnected.com/docker-on-apple-silicon-mac-how-to-run-x86-containers-with-rosetta-2-4a679913a0d5)
+  * macOS용 Docker Desktop 4.16 버전부터 Rosetta 지원 추가, 해당 기능을 활성화하면 애플 실리콘 맥에서도 쉽게 x86 기반 Docker 컨테이너를 빌드, 실행 가능
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
 * [AAAP – 작업환경 as a Service 개발기 – tech.kakao.com](https://tech.kakao.com/2022/12/15/aaap/)
 * [Docker: Its Hidden Complexity will be the Death of your Startup](https://www.derpytools.com/docker-its-hidden-complexity-will-be-the-death-of-your-startup/)
@@ -1344,6 +1346,12 @@ Docker
 * [DevOps Tutorials | How to List All Containers in a Pod in Kubernetes Cluster and Nodes. - YouTube](https://www.youtube.com/watch?v=XKuV-nXO6XA)
 * [Kubernetes Pod Creation - What happen when we are create a pod?](https://foxutech.com/kubernetes-pod-creation/)
 * [k8s 서비스 품질 관리 (QoS) 도입으로 Pod 리소스 관리하기 | by Ryan Kim | Medium](https://equus3144.medium.com/k8s-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-qos-%EB%8F%84%EC%9E%85%EC%9C%BC%EB%A1%9C-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-36a4cab9e385)
+* [How does Kubernetes assign QoS class to pods through OOM score?](https://cloudyuga.guru/hands_on_lab/k8s-qos-oomkilled)
+  * Kubernetes에서 메모리가 부족한 경우 OOMKilled로 죽게 되는데 이는 리눅스 커널에서 OOM Killer가 시스템에 영향이 적도록 가장 적은 수의 프로세스를 죽여서 최대한의 메모리를 가져오도록 죽일 프로세스를 선택
+  * 이를 위해 `oom_score`를 사용하는데 `oom_score_adj`로 이 값을 조정할 수 있으므로 Kubernetes도 `oom_score_adj` 사용
+  * QoS 클래스마다 점수가 있는데 Guaranteed는 `-998`, BestEffort는 `1000`, Burstable은 `min(max(2, 1000 - (1000 * memoryRequestBytes) / machineMemoryCapacityBytes), 999)`로 부여
+    * 가장 높은 `oom_score`의 프로세스를 kill
+    * 이를 확인해 볼 수 있는 과정 설명
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
   * Kubernetes를 이용한 마이크로 서비스 구현
   * 최신 분산 애플리케이션은 클라우드 네이티브 플랫폼이 제공해야 하는 라이프사이클, 네트워킹, 바인딩 및 상태 관리에 대한 요구사항을 가지고 있음
@@ -1672,6 +1680,9 @@ Docker
     * [Argo CD Sync phases and waves | Argo CD | GitOps | - YouTube](https://www.youtube.com/watch?v=afQpUL5yJgc)
     * [Secure your application from Argo CD to Kubernetes | Snyk](https://snyk.io/blog/secure-apps-from-argocd-to-kubernetes/)
     * [Argo CD에 컨트리뷰트하며 본 새로운 것들](https://velog.io/@juunini/Argo-CD%EC%97%90-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8%ED%95%98%EB%A9%B0-%EB%B3%B8-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B2%83%EB%93%A4)
+    * [Sync 10,000 Argo CD Applications in One Shot | by Jun Duan | Feb, 2023 | ITNEXT](https://itnext.io/sync-10-000-argo-cd-applications-in-one-shot-bfcda04abe5b)
+      * Argo CD에서 수천 개의 앱을 Kubernetes 클러스터에 동기화할 때 병목 지점을 확인하기 위해 2천 개에서 만개까지의 애플리케이션을 동기화하는 실험을 한 과정
+      * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
