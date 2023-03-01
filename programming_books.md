@@ -3108,6 +3108,7 @@ Programming Books
     * 4 개발자와 일하다 자괴감이 들 때 [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304) 
     * 5 초기 스타트업의 기획자들이 1일 1독 해야 할 사이트 [First 1000 | Ali Abouelatta | Substack](https://read.first1000.co/)
     * 6 다양한 프로덕트를 만나고 싶을 때 [Product Hunt – The best new products in tech](https://www.producthunt.com/)
+* (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
