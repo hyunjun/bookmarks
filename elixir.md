@@ -90,6 +90,7 @@ Elixir
 * [Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=mkGq1WoEvI4)
 * [You may not need Redis with Elixir - Dashbit Blog](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
 * [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+* [Doing things only once in Elixir - DEV Community](https://dev.to/palm86/doing-things-only-once-in-elixir-4hdg)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -159,6 +160,7 @@ Elixir
   * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
+  * [Elixir/Phoenix Security: Remote Code Execution and Serialisation](https://paraxial.io/blog/elixir-rce)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
@@ -169,6 +171,9 @@ Elixir
   * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
 * telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
+
+# TDD test
+* [An Introduction to Test Factories and Fixtures for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/02/28/an-introduction-to-test-factories-and-fixtures-for-elixir.html)
 
 # Tutorial
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
