@@ -1358,6 +1358,7 @@ Programming
   * [Don’t stop your migration! | InfoWorld](https://www.infoworld.com/article/3630388/dont-stop-your-migration.html)
 * [LINE 앱의 다자간 대화 기능 통합 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-group-talk/) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
+* [Minimum Viable Migrations (MVMs): A Path to Cloud Native EDAs • Ben Ellerby • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=eexMec1rSEc)
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
