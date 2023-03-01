@@ -361,6 +361,10 @@ Programming Language
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
+  * [hakana: Another typechecker for Hack, built by Slack](https://github.com/slackhq/hakana)
+    * [Hakana: Taking Hack Seriously - Slack Engineering](https://slack.engineering/hakana-taking-hack-seriously/)
+      * 2014년 PHP로 구축된 Slack은 2016년 Facebook이 만든 Hack으로 마이그레이션 하기 시작
+      * 보안 분석, 잠재적 버그 탐지, 죽은 코드 정리 등을 위해 Rust로 정적 분석 도구를 작성
   * [tree-sitter-hack: Hack grammar for tree-sitter](https://github.com/slackhq/tree-sitter-hack)
 * [Halide - a language for image processing and computational photography](http://halide-lang.org/)
   * [Halide: A Language for Fast, Portable Computation on Images and Tensors - YouTube](https://www.youtube.com/watch?v=93-bfnKCb8E)
