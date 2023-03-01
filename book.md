@@ -528,6 +528,9 @@ Book
   * [빈센트 반 고흐 Van Gogh The Complete Paintings](https://github.com/hyunjun/bookmarks/blob/master/books/van_gogh_the_complete_paintings.md)
   * [빈센트 반 고흐 Van Gogh The Complete Paintings - Jun - Medium](https://nymets.medium.com/%EB%B9%88%EC%84%BC%ED%8A%B8-%EB%B0%98-%EA%B3%A0%ED%9D%90-van-gogh-the-complete-paintings-8b6c85c3e58c)
   * [빈센트 반 고흐 Van Gogh The Complete Paintings](https://jh4hj.tistory.com/entry/%EB%B9%88%EC%84%BC%ED%8A%B8-%EB%B0%98-%EA%B3%A0%ED%9D%90-Van-Gogh-The-Complete-Paintings)
+* (NOT COMPLETED) [반 고흐를 찾아서](https://blog.naver.com/cij_bookshelf/222411967224)
+  * ★★★☆☆ 2023.03.01
+  * 우당 문653.269-포59ㅂ
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
