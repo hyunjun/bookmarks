@@ -520,6 +520,7 @@ Vision
     * [코딩없이 YOLOv7을 체험해보자! | Smilegate.AI](https://smilegate.ai/2022/08/21/%EC%BD%94%EB%94%A9%EC%97%86%EC%9D%B4-yolov7%EC%9D%84-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90/)
     * [yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/wongkinyiu/yolov7)
       * [코딩없이 YOLOv7을 체험해보자! | Smilegate.AI](https://smilegate.ai/2022/08/21/%EC%BD%94%EB%94%A9%EC%97%86%EC%9D%B4-yolov7%EC%9D%84-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90/)
+    * [yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7)
   * yolox
     * [202107 CVPR YOLOX Paper review!! - YouTube](https://www.youtube.com/watch?v=N2rLSzEqqI8)
     * [Deploying Custom YOLOX on the Cloud and Building a Visual Search Engine off the Deployed Model - YouTube](https://www.youtube.com/playlist?list=PL2L83ZcMO-5PZN8Ixp5y4wi6atPwbreVl)
