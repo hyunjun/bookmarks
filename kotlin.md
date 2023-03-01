@@ -39,6 +39,7 @@
 * [Kotlin에서의 Generic](https://developer88.tistory.com/212)
 * [Kotlin Generics — 실체화한 타입 파라미터. 코틀린 제네릭 특징 중 실체화한 타입 파라미터에 대해 알아봅니다. | by hongbeom | hongbeomi dev | Jun, 2020 | Medium](https://medium.com/hongbeomi-dev/kotlin-generics-%EC%8B%A4%EC%B2%B4%ED%99%94%ED%95%9C-%ED%83%80%EC%9E%85-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-cfb2436946e3)
 * [Kotlin Generics — 변성. 코틀린의 제네릭 특징 중 변성에 대해 알아봅니다. | by hongbeom | hongbeomi dev | Jun, 2020 | Medium](https://medium.com/hongbeomi-dev/kotlin-generics-%EB%B3%80%EC%84%B1-f11e4efcb486)
+* [Kotlin Generics Explaind: Mastering in, out, and where | by Anand Verma | Feb, 2023 | Medium](https://adventures92.medium.com/kotlin-generics-explaind-mastering-in-out-and-where-804ee1642627)
 * [Kotlin Higher-Order Functions 사용방법](http://thdev.net/755)
 * [Kotlin - 회사에서는 어떻게 도입하고? 학습해볼 수 있을까?](http://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html)
 * [Kotlin Lambdas](https://thdev.tech/kotlin/2018/03/17/Kotlin-Lambdas.html)
