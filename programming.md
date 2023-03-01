@@ -2547,6 +2547,7 @@ Programming
 * [5 Best Cloud Computing Platform Every Programmer Should Know | by javinpaul | Sep, 2022 | Medium](https://javinpaul.medium.com/5-best-cloud-computing-platform-every-programmer-should-know-4ecb033e5a96)
 * [Cloud Performance Root Cause Analysis at Netflix • Brendan Gregg • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=LLZmTuTSEB8)
 * [Cloud-Native Progressive Delivery • Matt Turner • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sZjzLulL7Bo)
+* [Free alternatives to Heroku - DEV Community](https://dev.to/tuliocalil/free-alternatives-to-heroku-2kc1)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2567,8 +2568,10 @@ Programming
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
   * [Get a #linux #Ubuntu machine in 10 mins on DigitalOcean Cloud - YouTube](https://www.youtube.com/watch?v=a8a0iPmyMJA)
   * [DigitalOcean Enters the Serverless Arena with DigitalOcean Functions](https://www.infoq.com/news/2022/05/digitalocean-functions-serverles/)
+* Fly [Deploy app servers close to your users · Fly](https://fly.io/)
 * [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 * [GCP Google Cloud Platform](gcp.md)
+* [Gigalixir](https://www.gigalixir.com/)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
   * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
@@ -2594,13 +2597,16 @@ Programming
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
 * [Ploomber - Build data pipelines. FAST.⚡️](https://ploomber.io/)
+* [Railway](https://railway.app/)
 * [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
+* render [Cloud Application Hosting for Developers | Render](https://render.com/)
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
 * [terrajet: Generate Crossplane Providers from any Terraform Provider](https://github.com/crossplane/terrajet)
   * [Announcing 100% Cloud Service Coverage for Crossplane](https://blog.upbound.io/cloud-service-coverage/)
     * Crossplane이 Terraform의 프로바이더에서 Crossplane 프로바이더를 생성해주는 Terrajet 작성
     * 이를 이용해서 provider-jet-aws, provider-jet-azure, provider-jet-gcp를 제공함으로써(기존 프로바이더는 jet이 안붙어있다) 클라우드 서비스의 리소스를 모두 지원
+* [Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
 * Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
   * [Vultr](https://docsify.sokuricat.com/b1tk3y/1843/#/921)
 
