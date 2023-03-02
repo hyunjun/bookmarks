@@ -211,6 +211,7 @@ Artificial Intelligence
 
 # Conference
 * [Kilian Kluge - A Practitioner’s Guide to Opening the AI Black Box for Humans | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=PcU7-nAHePk)
+* [AI DATA 업스테이지 박찬준 AI Research Engineer - YouTube](https://www.youtube.com/watch?v=20NXHKGV3uI)
 * [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
   * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
 
