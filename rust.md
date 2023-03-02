@@ -442,6 +442,7 @@
 * [러스트의 메모리 관리 - 소유권, 이동, 빌림, 댕글링](https://blog.naver.com/pjt3591oo/223005091807)
 * [러스트 시작하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/)
 * [comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone](https://github.com/google/comprehensive-rust)
+* [Learn Rust!](https://gist.github.com/noxasaxon/7bf5ebf930e281529161e51cd221cf8a)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
