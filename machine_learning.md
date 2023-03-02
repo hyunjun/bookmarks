@@ -1485,6 +1485,8 @@ Machine Learning
 * [easyopt: zero-code hyperparameters optimization framework](https://github.com/galatolofederico/easyopt)
 * [edenai-python: The best AI engines in one API: vision, text, speech, translation, OCR, machine learning, etc. SDK and examples for Python developers](https://github.com/edenai/edenai-python)
 * [Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
+* [facet: Human-explainable AI](https://github.com/BCG-Gamma/facet/)
+  * [Jan Ittner & Mateusz Sokół - Exploring Feature Redundancy and Synergy with FACET 2.0 - YouTube](https://www.youtube.com/watch?v=fTQhfxZxavQ)
 * [igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
   * [ML 최적화 1. JIT & google JAX](https://brunch.co.kr/@chris-song/99)
