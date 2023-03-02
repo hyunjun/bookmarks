@@ -370,6 +370,7 @@
 * [From Python to Rust: Part 1.. In this series of videos, we will… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-1-272f5ff79c01)
 * [From Python to Rust: Part 2.. Strings, Functions, and Crates/Modules | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-2-strings-functions-and-crates-modules-b110e052d607)
 * [From Python to Rust: Part 3.. Python dictionary, Rust HashMap and a… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-3-f035d780de1)
+* [파이썬과 러스트 – tech.kakao.com](https://tech.kakao.com/2023/03/02/python-and-rust/)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
