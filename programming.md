@@ -4066,6 +4066,7 @@ Programming
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 * [‘매번 지적할 수도 없고...’ 오남용 심한 IT 유행어 14선 - CIO Korea](https://www.ciokorea.com/news/232569)
 * [칼럼 | 범용 DB의 귀환? 애초에 물러난 적이 없다 - CIO Korea](https://www.ciokorea.com/news/233064)
+* [IT 최신 정보 - OpenAI, 게임 개발도구, 오픈소스](https://sansamlife.com/entry/IT-%EC%B5%9C%EC%8B%A0-%EC%A0%95%EB%B3%B4)
 * [지루하지 않음 - 구독자 17만명 뉴스레터의 이야기 (2) - by Deokhaeng Lee](https://duckduckhero.substack.com/p/17-2)
   * [지루하지 않음(Not Boring) - 구독자 17만명 뉴스레터의 이야기 | GeekNews](https://news.hada.io/topic?id=8266)
 * [방송 목록 - OKdevTV](https://okdevtv.com/okdevtv-list)
