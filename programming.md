@@ -670,6 +670,7 @@ Programming
 * [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
 * [낭비를 막고 팀을 만드는 XP의 가치](https://brunch.co.kr/@graypool/240)
 * [XP의 제1가치는 의사소통](https://brunch.co.kr/@graypool/241)
+* [XP는 어떤 조직에서나 쓸모가 있다](https://brunch.co.kr/@graypool/873)
 * [페어프로그래밍을 조심하세요.. 개인적으로 한국 IT 업계에 만연한 불편함이 하나 있다면, 철학과… | by 김준형 | Dec, 2021 | Medium](https://medium.com/@ghilbut/%ED%8E%98%EC%96%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%A1%B0%EC%8B%AC%ED%95%98%EC%84%B8%EC%9A%94-4b4fd7d61150)
 * [프로세스 개선이 현업에서 정착되려면 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2521/)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
