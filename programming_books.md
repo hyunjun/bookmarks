@@ -3154,7 +3154,11 @@ Programming Books
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 (이동욱 향로) - 골든래빗](https://goldenrabbit.co.kr/2023/02/14/principle_ldw_0/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❶ 코드 설계에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/20/principle_ldw_1/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❷ 이직에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/22/principle_ldw_2/)
+<<<<<<< HEAD
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매닝징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
+=======
+  * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매니징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
+>>>>>>> ae51086b66e0316fce9fa2fe5c0af809e77532db
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
