@@ -1518,6 +1518,8 @@ Java
   * [Log4Shell: RCE 0-day exploit found in log4j 2, a popular Java logging package | LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day/)
     * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)
   * [log4shell-rex: PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs](https://github.com/back2root/log4shell-rex)
+* [tinylog 2 - Lightweight Logging Framework for Java, Scala, Kotlin, and Android](https://tinylog.org/)
+  * [Java Logger의 또다른 식구, tinylog](https://dev.gmarket.com/67)
 
 ## Library Spring
 * [springoneplatform.io](https://springoneplatform.io/)
