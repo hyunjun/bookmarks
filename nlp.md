@@ -723,6 +723,7 @@ NLP
       * OpenAI에서 교육자들이 ChatGPT와 관련해서 고려해야 할 가이드라인으로 작성한 Educator considerations for ChatGPT 번역문
       * 학생들이 자료를 만들 때 ChatGTP를 사용했음을 명시 권장
       * 잘못된 답변을 할 수 있으므로 학생들이 정보의 신뢰성을 평가하는 방법을 알아야 하고 결과물을 사용할 때 주의해야 한다고 설명
+  * [Check out this ShareGPT conversation](https://sharegpt.com/c/77j528O)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
