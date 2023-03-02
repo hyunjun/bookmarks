@@ -382,6 +382,7 @@ AWS
 * [AWS Tag 적용 가이드와 활용 - 1부:: Mesh Korea Makers Blog](https://mesh.dev/20210217-dev-notes-003-aws-tag-01/)
 * [AWS Tag 적용 가이드와 활용 - 2부:: Mesh Korea Makers Blog](https://mesh.dev/20210311-dev-notes-004-aws-tag-02/)
 * [Observability Workshop](https://observability.workshop.aws/ko/)
+* [AWS MediaLive, AWS MediaPackage기반 라이브 스트리밍 워크플로 Observability 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-medialive-mediapackage-based-workflow-observability/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) optimization
 * [Instance Price Guide](https://instaguide.io/)
