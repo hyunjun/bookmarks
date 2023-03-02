@@ -1358,6 +1358,7 @@ Machine Learning
 * [Self-serve feature platforms: architectures and APIs](https://huyenchip.com/2023/01/08/self-serve-feature-platforms.html)
   * [MLOps KR | 제가 애정하는 Chip Huyen이 MLOps 피쳐 플랫폼에 대한 글([https://huyenchip.com//2023/01/08/self-serve-feature-platforms.html](https://h... | Facebook](https://www.facebook.com/groups/MLOpsKR/posts/1789196731467584)
 * [ML Ops 궁극 가이드: MLOps 및 DevOps의 개념과 차이점 이해](https://techscene.tistory.com/9)
+* [Duarte Carmo - MLOps for the rest of us- A poor man's guide to putting models in production - YouTube](https://www.youtube.com/watch?v=R6lPb9Meqoc)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
