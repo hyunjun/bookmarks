@@ -460,6 +460,8 @@ NLP
 * [파이썬 문장 유사도 알고리즘 쉽게 확인하는 방법은?!](https://www.infoking.site/52)
 * [deep learning NLP easy to understand BERT - YouTube](https://www.youtube.com/watch?v=w80YhQ4nMxI)
 * [Why and how to use BERT for NLP Text Classification? - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/why-and-how-to-use-bert-for-nlp-text-classification/)
+* [Email Spam Detection using Pre-Trained BERT Model : Part 1 - Introduction and Tokenization](https://blog.madhukaraphatak.com/bert-email-spam-1)
+* [Email Spam Detection using Pre-Trained BERT Model : Part 2 - Model Fine Tuning](https://blog.madhukaraphatak.com/bert-email-spam-2)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
