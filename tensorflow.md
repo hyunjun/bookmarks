@@ -1065,6 +1065,9 @@ TensorFlow
 * [Implementing an RNN in Tensorflow - Recurrent Neural Network](https://morioh.com/p/018561d3ea2b)
 * [How to build a lyrics generator using Python and RNNs](https://www.activestate.com/blog/how-to-build-a-lyrics-generator-with-python-recurrent-neural-networks/)
 
+# Rust
+* [rust: Rust language bindings for TensorFlow](https://github.com/tensorflow/rust)
+
 # Time Series
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
 * 일본어
