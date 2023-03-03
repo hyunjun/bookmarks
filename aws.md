@@ -19,6 +19,7 @@ AWS
 * [Lessons learned from running GraphQL at scale | by Dream11 Engineering | Dream11 Engineering](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [AWS AppSync GraphQL APIs Supports JavaScript Resolvers | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
+* [Igor Soroka | How have I united multiple GraphQL schemas under one facade | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=W43Wv-kxcRI)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
 * [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac)
@@ -460,6 +461,8 @@ AWS
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
 * [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
+* [컨테이너 AWS에서 컨테이너 운영하기. 그리고 ROSA | 우수연, 한국 IBM - YouTube](https://www.youtube.com/watch?v=QybHsPi2xoA)
+* [컨테이너 AWS App Runner를 활용한 컨테이너 서버리스 활용기 | 김진영, 지디디코퍼레이션 - YouTube](https://www.youtube.com/watch?v=VJ8YXDTkhHw)
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
@@ -488,6 +491,9 @@ AWS
 * [AWS 기반 재해 복구(DR) 아키텍처, 3부: 파일럿 라이트 및 웜 스탠바이 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-3/)
 * [How To Parse JSON Parameters Stored In AWS Parameter - DevOpsDice](https://devopsdice.com/how-to-parse-json-parameters-stored-in-aws-parameter/)
 * [입 개발 AWS InstanceProfileCredentialsProvider 사용시 주의 할 점. | Charsyam's Blog](https://charsyam.wordpress.com/2023/02/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-aws-instanceprofilecredentialsprovider-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90/)
+* [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서 by 김은수님 - AWSKRUG 프론트엔드 소모임 221207 - YouTube](https://www.youtube.com/watch?v=M6njEpzPicE)
+* [보안/인증 AWS Nitro Enclave를 이용하여 안전하게 고객 정보 다루기 | 김주형, 해치랩스 - YouTube](https://www.youtube.com/watch?v=bwqCTOUj1ks)
+* [데이터 레이크하우스 by 김정희님 - AWSKRUG 구로디지털 #gudi 소모임 221114 - YouTube](https://www.youtube.com/watch?v=zmdqPExZxRo)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -651,6 +657,7 @@ AWS
 * [AWS Cognito 로 앱 로그인 구현을 준비하기 # UserPool](https://developer88.tistory.com/343)
 * [Use Amazon Cognito to add claims to an identity token for fine-grained authorization | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/use-amazon-cognito-to-add-claims-to-an-identity-token-for-fine-grained-authorization/)
 * [Amazon Cognito로 빠르게 인증 체계 만들기 | 와탭 블로그](https://www.whatap.io/ko/blog/117/)
+* [보안/인증 Amazon Cognito를 이용한 백엔드 API 권한 관리 | 배진수, 당근마켓 - YouTube](https://www.youtube.com/watch?v=BqgCJzSOT2k)
 
 # Comprehend
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
@@ -1040,7 +1047,6 @@ AWS
 * [인터뷰 백패커, 솔트웨어 통해 AWS EKS로 쾌적하고 유연한 플랫폼 환경 구현 < 인터뷰 < 인터뷰·사람들 < 기사본문 - 아이티데일리](http://www.itdaily.kr/news/articleView.html?idxno=210421)
 * [롯데이커머스 사례로 본 Amazon EKS 운영 안정성 확보하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/case-study-lotteon-running-on-amazon-eks/)
 * [쿠알못이 Amazon EKS로 안정적인 서비스 운영하기 - 최용호 (넥슨코리아) :: AWS Community Day 2020 - YouTube](https://www.youtube.com/watch?v=O3znWPUdt18)
-* [데브옵스 오픈 소스 Karpenter를 활용한 Amazon EKS 확장 운영 전략 | 신재현, 무신사 - YouTube](https://www.youtube.com/watch?v=FPlCVVrCD64)
 * [Amazon EKS 환경에서 Pod Security Standard 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/implementing-pod-security-standards-in-amazon-eks/)
 * [Amazon EKS 마이그레이션 요점정리 - 강인호 솔루션즈 아키텍트, AWS :: AWS Summit Korea 2022 - YouTube](https://www.youtube.com/watch?v=bksogA-WXv8)
 * [Kubernetes를 위한 영구 스토리지 적용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/persistent-storage-for-kubernetes/)
@@ -1166,6 +1172,7 @@ AWS
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
 
 # Lambda
+* [AWS Lambda 기초부터 실전까지 - YouTube](https://www.youtube.com/watch?v=BcoekcPRKWc)
 * [Serverless - Digital and Classroom Training | AWS](https://aws.amazon.com/ko/training/learn-about/serverless/)
 * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
   * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
@@ -1225,11 +1232,21 @@ AWS
 * [Plain Journal • A *magical* AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 * [Cloud-Native Microservices Evolves to AWS Serverless Event-driven Architectures | by Mehmet Özkaya | AWS Serverless Microservices with Patterns & Best Practices | Mar, 2022 | Medium](https://medium.com/aws-serverless-microservices-with-patterns-best/cloud-native-microservices-evolves-to-aws-serverless-event-driven-architectures-9a38c473f4f8)
   * [aws-microservices: AWS Serverless Event-driven Microservices with using AWS Lambda, AWS DynamoDB, AWS API Gateway, AWS EventBridge, AWS SQS, AWS CDK stands for Cloud Development Kit for IaC — Infrastructure as Code tool and AWS CloudWatch for monitoring](https://github.com/awsrun/aws-microservices)
+* [서버리스 AWS Step Functions과 이벤트 드리븐 아키텍처 설계 | 김민태, AWS Community Builder - YouTube](https://www.youtube.com/watch?v=yDLa43pNL-4)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [Building Serverless Applications That Scale The Perfect Amount | Ready, Set, Cloud!](https://www.readysetcloud.io/blog/allen.helton/how-to-design-serverless-apps-that-scale-the-perfect-amount/)
 * [Serverless Design Patterns - The Ambassador - YouTube](https://www.youtube.com/watch?v=kB4yChEzHa0)
 * [AWS re:Invent 2021 - Inside a working serverless SaaS reference solution - YouTube](https://www.youtube.com/watch?app=desktop&v=8Z5zBsKgTxY&feature=youtu.be)
 * [Observing all the Serverless Things • Peter Elger & Guilherme Dalla Rosa • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=nIg2GGgJ97s)
+* [Alex DeBrie | Key Architectural Decisions in Serverless | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=o3TS168waBU)
+* [Ben Bridts | Shifting left with policy as code | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=vDgZiLMxVNs)
+* [David Krohn | Secure Serverless Applications against OWASP TOP 10 in 5 mins | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=jrYpr0DLKfo)
+* [Marco Troisi | The 1 Priority To Make Your Serverless Tests More Effective | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=Fi2eFs-MqRQ)
+* [Antonio Lagrotteria | AWS Architecture for Module-federated micro-frontends | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=RhOrNtknr24)
+* [Ryan Jones | Innovating with Serverless | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=y1O__hptrJ0)
+* [서버리스 프론트엔드 앱을 위한 최신 서버리스 호스팅 전략 | 김선우, Serverless Operations - YouTube](https://www.youtube.com/watch?v=qzNHpDT5znQ)
+* [서버리스 30분 만에 서버리스 서비스 개발하기 (with AWS Step Functions) | 김윤서, 이화여대 - YouTube](https://www.youtube.com/watch?v=Zaw9ExtOHNI)
+* [AWS에서 Serverless 개발 시작하기 - YouTube](https://www.youtube.com/watch?v=Y6U8Y2gnHkc)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
@@ -1289,6 +1306,8 @@ AWS
 * [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 * [Lambda@Edge를 활용한 이미지 리사이즈 자동화](https://blog.wisen.co.kr/?p=7258)
 * [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
+* [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
+* [서버리스 Amazon CloudFront와 AWS Lambda@Edge로 SPA에서 동적 SEO 구현하기 | 김병규, 솔리다리테 - YouTube](https://www.youtube.com/watch?v=lUowbPD4N94)
 * [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
@@ -1304,7 +1323,6 @@ AWS
 * [A Smart Service to Keep AWS Lambda Warm](https://dev.to/byrro/a-smart-service-to-keep-aws-lambda-warm-48pc)
 * [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
 * [AWS Lambda 사용하는 방법 # Gateway와 연동](https://developer88.tistory.com/339)
-* [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
@@ -1400,8 +1418,9 @@ AWS
 * [AWS Lambda Project Structure Using Go (Golang)](https://morioh.com/p/c36859a368ba)
 
 ## Lambda Java
-* [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
 * [Java and AWS Lambda - Best of frenemies?](https://www.cockroachlabs.com/blog/java-and-aws-lambda/)
+* [Matt Meckes & Richard Davison | High Perfomance Serverless Java | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=jkfnuhnx3LE)
+* [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
 
 ## Lambda Javascript
 * [serverless framework plugins · /usr/lib/libsora.so](https://if1live.github.io/posts/serverless-framework-plugins/)
@@ -1820,6 +1839,7 @@ AWS
   * AWS에서 S3에 저장되는 모든 객체의 암호화가 기본 적용되도록 지원
   * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
 * [Part 1. S3를 이용해서 정적 웹 호스팅 시작하기 - YouTube](https://www.youtube.com/watch?v=QdiQ2aVXGmU)
+* [데이터분석 Amazon Athena를 이용한 S3 데이터 조회하기 | 송정우, AUSG - YouTube](https://www.youtube.com/watch?v=H7W_AI5heSo)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 
 # SAM Serverless Application Model
