@@ -1229,6 +1229,7 @@ AWS
 * [Building Serverless Applications That Scale The Perfect Amount | Ready, Set, Cloud!](https://www.readysetcloud.io/blog/allen.helton/how-to-design-serverless-apps-that-scale-the-perfect-amount/)
 * [Serverless Design Patterns - The Ambassador - YouTube](https://www.youtube.com/watch?v=kB4yChEzHa0)
 * [AWS re:Invent 2021 - Inside a working serverless SaaS reference solution - YouTube](https://www.youtube.com/watch?app=desktop&v=8Z5zBsKgTxY&feature=youtu.be)
+* [Observing all the Serverless Things • Peter Elger & Guilherme Dalla Rosa • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=nIg2GGgJ97s)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
