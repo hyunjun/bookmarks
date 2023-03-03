@@ -949,6 +949,7 @@
 * [Simplifying Testing of Spark Applications - Megan Yow | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=_ieqg_soB3U)
 * [Pyspark Functions - YouTube](https://www.youtube.com/playlist?list=PLgPb8HXOGtsQwAghLQWviaisvzgWN_Ix9)
 * [How to Convert Pandas DataFrame to Spark DataFrame | Using PySpark - YouTube](https://www.youtube.com/watch?v=TG0-yPJPTXU)
+* [Xinrong Meng & Takuya Ueshin - Scale Data Science by Pandas API on Spark | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=ZCuP74LotxE)
 * [How PySpark Self-Join Simplifies Data Flattening - YouTube](https://www.youtube.com/watch?v=bkNeOjJ8N50)
 * [How to do Topic Modelling in Python using PySpark LDA - YouTube](https://www.youtube.com/watch?v=LE5ceGh9CME)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
