@@ -2994,6 +2994,7 @@ Programming
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
   * [LINE Developer Day 2021을 돌아보며 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2021-report/)
 * Naver
+  * [(예비) 프론트엔드 개발자의 DEVIEW2023 후기](https://velog.io/@shyuuuuni/%EC%98%88%EB%B9%84-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-DEVIEW2023-%ED%9B%84%EA%B8%B0)
   * [DEVIEW 2021](https://deview.kr/2021)
     * [네이버 서비스로 알아보는 DEVIEW 2021 (1/3)](https://d2.naver.com/news/3875565)
     * [네이버 서비스로 알아보는 DEVIEW 2021 (2/3)](https://d2.naver.com/news/8329885)
