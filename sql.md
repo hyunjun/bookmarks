@@ -1043,6 +1043,7 @@ SQL
 * [Just Use Postgres for Everything | Amazing CTO](https://www.amazingcto.com/postgres-for-everything/)
   * [그냥 Postgres를 모든 곳에 사용하세요 | GeekNews](https://news.hada.io/topic?id=8018)
 * [PostgreSQL14 Memoize 성능 비교 (feat. 13 vs 14 Nested Loop)](https://jojoldu.tistory.com/700)
+* [PostgreSQL 소개 및 설정 방법 (Nest.js 기준) : 네이버 블로그](https://m.blog.naver.com/gi_balja/223033188093)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
