@@ -1964,6 +1964,7 @@ NLP
 * [Google Document Translation Now Generally Available](https://www.infoq.com/news/2021/11/google-document-translation/)
 * [전문 번역에서 고객 대응까지··· NLP 성공 사례 5선 - CIO Korea](https://www.ciokorea.com/news/255760)
 * [번역 모델 비교 - 성능, 시간, 요금 | Pega Devlog](https://jehyunlee.github.io/2023/02/20/Python-DS-128-transqual/)
+* [ML simple works - A Gentle Introduction to Creating an English-to-Korean translator with Transformers](https://metamath1.github.io/blog/posts/gentle-t5-trans/gentle_t5_trans.html)
 * [cjk_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
 * fairseq [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
   * [오픈소스로 쉽게 만드는 기계번역기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/20)
