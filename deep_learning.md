@@ -2680,6 +2680,9 @@ CVPR2016)
 * [SMAC: 스타크래프트2 멀티 에이전트 강화학습 챌린지](https://github.com/jk96491/SMAC)
 * [tleague_projpage](https://github.com/tencent-ailab/tleague_projpage)
 
+# Rust
+* [burn-rs](https://burn-rs.github.io/)
+
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 * [LinkNet - Feature Forwarding: Exploiting Encoder Representations for Efficient Semantic Segmentation](https://codeac29.github.io/projects/linknet/index.html)
