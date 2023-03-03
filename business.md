@@ -1669,6 +1669,7 @@ Business
 * [스타트업 리더는 달라야 하는 이유](https://now.rememberapp.co.kr/2022/08/08/20588/)
 * [What Leaders Can Learn from Artificial Birds - NOBL Academy](https://academy.nobl.io/2016-leaders-boids-flocks/)
 * [9 Powerful Ways To Align Engineering And Product Teams](https://www.cloudzero.com/blog/engineering-and-product-alignment)
+* [스타트업은 왜 후드티를 입을까: 성공하는 리더의 메타인지(1)](https://eopla.net/magazines/2801)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
