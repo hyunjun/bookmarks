@@ -443,6 +443,8 @@ Programming Books
   * 한라 325.2-아894ㅁ
   * [Management 3.0 Leadership Training for Managers](https://management30.com/)
   * [How to Change the World: Change Management 3.0 Book by Jurgen Appelo](https://management30.com/books/how-to-change-the-world/)
+  * [매니지먼트 3.0](https://github.com/hyunjun/bookmarks/blob/master/programming_books/management30.md#11-%EC%97%AD%EB%9F%89%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  * [매니지먼트 3.0](https://jh4hj.tistory.com/entry/%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8-30)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
@@ -1377,6 +1379,7 @@ Programming Books
   * 우당 문004.73-웨69ㅇ
 * (NOT YET) [파이썬을 활용한 머신러닝 자동화 시스템 구축 | 위키북스](https://wikibook.co.kr/automl/)
 * (NOT YET) [그림으로 배우는 StatQuest 머신러닝 강의](https://jpub.tistory.com/1376)
+  * [그림으로 배우는 StatQuest 머신러닝 강의](https://jhrogue.blogspot.com/2023/03/statquest.html)
 * (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml)
   * 우당
 
@@ -3154,11 +3157,7 @@ Programming Books
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 (이동욱 향로) - 골든래빗](https://goldenrabbit.co.kr/2023/02/14/principle_ldw_0/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❶ 코드 설계에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/20/principle_ldw_1/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❷ 이직에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/22/principle_ldw_2/)
-<<<<<<< HEAD
-  * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매닝징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
-=======
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매니징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
->>>>>>> ae51086b66e0316fce9fa2fe5c0af809e77532db
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
