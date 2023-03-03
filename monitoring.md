@@ -83,6 +83,7 @@ Monitoring
 * [How to Install Prometheus and Grafana on Ubuntu 22.04 LTS using Node Exporter | Prometheus Tutorials - YouTube](https://www.youtube.com/watch?v=0HQo7ytydBI)
 * [The XYZ chart: Bringing 3D visualization to Grafana](https://grafana.com/blog/2023/02/24/introducing-the-xyz-chart-a-three-dimensional-way-to-visualize-your-data-in-grafana/)
   * 데이터를 3차원으로 표시할 수 있는 XYZ 차트 도입. 아직은 알파버전이라 `enable_alpha=true`를 설정해야 사용 가능
+* [caretta](https://www.facebook.com/groups/1691590384455961/?multi_permalinks=3554779914803656&hoisted_section_header_type=recently_seen)
 * [Grafana as code: A complete guide to tools, tips, and tricks](https://grafana.com/blog/2022/12/06/a-complete-guide-to-managing-grafana-as-code-tools-tips-and-tricks/)
   * Grafana 대시보드를 코드로 관리하는 다양한 도구 소개
   * Grafana Terraform 프로바이더나 Ansible 컬렉션은 Terraform이나 Ansible에는 익숙하지만 Grafana에는 아직 익숙지 않은 사람에게 권장
