@@ -290,6 +290,7 @@ NLP
 * [Sentdex/GPyT · Hugging Face](https://huggingface.co/Sentdex/GPyT)
   * [GPyT - Generative Python Transformer Model released (the off-brand Github Copilot) - YouTube](https://www.youtube.com/watch?v=1PMECYArtuk)
 * [유니버설 컴퓨팅 엔진으로 사전 훈련된 트랜스포머](https://brunch.co.kr/@synabreu/115)
+* [Mike Rothenhäusler - Everything you need to know about Transformer Models | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=aWbRZxtwMbQ)
 * [2021-dialogue-summary-competition: 2021 훈민정음 한국어 음성•자연어 인공지능 경진대회 대화요약 부문 알라꿍달라꿍 팀의 대화요약 학습 및 추론 코드를 공유하기 위한 레포입니다](https://github.com/cosmoquester/2021-dialogue-summary-competition)
 * [Position Encoding의 종류와 분석. by 박승원 (http://swpark.me/) | by Team Deepest | Feb, 2021 | Medium](https://blog-deepest.medium.com/position-encoding%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B6%84%EC%84%9D-ab1816b0f62a)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
