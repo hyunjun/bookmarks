@@ -19,6 +19,7 @@
 * [제주<->인천, 비욘드트러스트호 사용기 (1/2부) : 클리앙](https://www.clien.net/service/board/use/17505823)
 * [제주<->인천, 비욘드트러스트호 사용기 (2/2부) : 클리앙](https://www.clien.net/service/board/use/17506120)
 * [브랭섬홀 아시아 아이스링크](https://jejuicerink.com/)
+* [제주특별자치도 - 동네서점](https://www.bookshopmap.com/jeju)
 
 # Coffee
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
