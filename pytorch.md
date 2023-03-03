@@ -453,6 +453,9 @@ PyTorch
 * [rlpyt - Deep Reinforcement Learning in PyTorch](https://github.com/astooke/rlpyt)
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 
+# Rust
+* [tch-rs: Rust bindings for the C++ api of PyTorch](https://github.com/LaurentMazare/tch-rs)
+
 # Seq2seq
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
