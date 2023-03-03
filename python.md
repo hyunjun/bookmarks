@@ -4920,6 +4920,7 @@ Python
   * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
   * [Uncluster Your Data Science Using Vaex • Maarten Breddels & Jovan Veljanoski • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ykxhj9xJdWY)
   * [Juan Luis Cano Rodríguez - Beyond Pandas: The Great Python Dataframe Showdown | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=GvYeBHNGlvM)
+  * [Jovan Veljanoski & Maarten Breddels - Vaex: the perfect DataFrame Library for Python Apps - YouTube](https://www.youtube.com/watch?v=DO4uuRS-zXg)
 * [ydata-profiling](https://ydata-profiling.ydata.ai) provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution
   * [ydata-profiling: Create HTML profiling reports from pandas DataFrame objects](https://github.com/ydataai/ydata-profiling)
 
