@@ -1539,6 +1539,7 @@ Programming
 * [Shortening the Architectural Feedback Loop • Eltjo R. Poort • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=lshfKKeB1Io)
 * [Vertical Slice Architecture, not Layers! - YouTube](https://www.youtube.com/watch?v=L2Wnq0ChAIA)
 * [**Coevolution of Architecture & Code - Closing The Gap • Dave Thomas • YOW! 2022 - YouTube**](https://www.youtube.com/watch?v=slGZMTFPElo) c4model
+* [**Replatform in a Year or Die: The Tale of a Turnaround • Ken Scambler • YOW! 2021 - YouTube**](https://www.youtube.com/watch?v=6EplPhk9uOs)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
