@@ -503,6 +503,9 @@ Apache
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 * [kafka exactly-once delivery를 지원하기 위한 transaction](https://blog.voidmainvoid.net/354)
+* [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
+* [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
+* [Kafka Streams 실시간 스트리밍 데이터 처리: Exactly-Once](https://velog.io/@youngerjesus/Kafka-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-Exactly-Once)
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
   * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
   * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
@@ -942,7 +945,6 @@ Apache
   * [How to explore data in Kafka topics with Lenses - part 1](http://www.landoop.com/blog/2017/11/lenses-how-to-view-kafka-topics-data/)
   * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors ](https://github.com/Landoop/stream-reactor)
 * [Kafka & Redis Streams](https://medium.com/@timothy_downs/introduction-to-redis-streams-133f1c375cd3)
-* [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 * [Migrating Batch ETL to Stream Processing: A Netflix Case Study with Kafka and Flink](https://www.infoq.com/articles/netflix-migrating-stream-processing)
   * QCon New York 2017에서 Netflix의 스트림 처리 시스템에 대해 소개한 내용을 설명
   * Apache Kafka, Apache Flink, Apache Mesos 등으로 구축
@@ -971,7 +973,6 @@ Apache
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 * [Streaming With Probabilistic Data Structures: Why & How | by Eliav Lavi | Riskified Technology | Oct, 2020 | Medium](https://medium.com/riskified-technology/streaming-with-probabilistic-data-structures-why-how-b83b2adcd5d4)
 * [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
-* [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
 * [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
 * [카프카 스트림즈에서 stateful window 처리를 다루는 방법 그리고 커밋타이밍](https://voidmainvoid.tistory.com/452)
 * [Kafka Streams 101 - Rock the JVM Blog](https://blog.rockthejvm.com/kafka-streams/)
