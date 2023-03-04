@@ -373,6 +373,7 @@ Scala
 * [Universally Unique Sortable Identifier - ULID](https://yadukrishnan.live/ulid-sortable-unique-identifier)
 * [Scala Resurrection – John A De Goes](https://degoes.net/articles/scala-resurrection)
 * [Exploring Binary Search - Chris Okasaki - Medium](https://medium.com/@cokasaki/497c7633578c)
+* [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
