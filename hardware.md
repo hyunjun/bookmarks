@@ -334,6 +334,7 @@ Hardware
 * [What is Edge Computing?](https://skolaparthi.com/edge-computing/)
 * [Enterprise Restaurant Compute. by the CFA Enterprise Restaurant… | by Brian Chambers | chick-fil-atech | Jan, 2023 | Medium](https://medium.com/chick-fil-atech/enterprise-restaurant-compute-f5e2fd63d20f)
   * [Chick-Fil-A 의 Edge Computing 기술 아키텍처 : Enterprise | GeekNews](https://news.hada.io/topic?id=8306)
+* [Saradindu Sengupta - Things I learned running neural networks on microcontrollers - YouTube](https://www.youtube.com/watch?v=p_i7JyfGxCU)
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
