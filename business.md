@@ -1502,6 +1502,7 @@ Business
   * [우리 조직 핵심인재 퇴사 막는 법](https://drive.google.com/file/d/1QaFrYKVqo4wS4Lr2VmT-YWON8qIzZtP9/view?usp=sharing)
 * [MZ세대, 근속하게 하는 노하우는... '워라밸과 존중' - CIO Korea](https://www.ciokorea.com/news/228554)
 * [존중하는 리더십이 조직을 망쳤다](https://contents.premium.naver.com/saramin/waytowork/contents/221007154234368gc)
+* [지속가능성-퀀텀점프 비결은 ‘다양성’, 느슨한 결속과 단순한 규칙이 핵심 | 전체 기사 보기 | DBR](https://dbr.donga.com/article/view/total/article_no/10785) 존중
 * [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
 * [핵심 인재를 유지하는 방법? (ft, 정답은 .. : 네이버블로그](https://blog.naver.com/help2000/222677111671)
 * ["단 한번도 후회 안 해" 김태호 PD가 21년만에 MBC 퇴사한 구체적 이유를 고백했고, '시대가 정말 달라졌구나' 싶다(서울체크인) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/kim-tae-ho-ott_kr_624d12b8e4b0981745076861) 핵심 인재에 대한 자율 보장
