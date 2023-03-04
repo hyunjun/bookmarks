@@ -485,6 +485,7 @@ NLP
 * [KR-BERT-SimCSE: Implementing SimCSE using KR-BERT](https://github.com/jeongukjae/KR-BERT-SimCSE)
   * [SimCSE 리뷰 & KR-BERT 이용해서 구현해보기 – Jeong Ukjae](https://jeongukjae.github.io/posts/simcse-kr-bert/)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
+* [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers)
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
   * [Decoding-Enhanced BERT with Disentangled Attention Paper explained - YouTube](https://www.youtube.com/watch?v=hNTkpNk7v-I)
