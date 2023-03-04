@@ -723,6 +723,7 @@ Apache
 * [Make a real-time query across multiple microservices using Kafka | by Mohammed Ragab | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/make-a-real-time-query-across-multiple-microservices-using-kafka-ecd46d651acd)
 * [Kafka on The Microservice Architecture | by Andhika Yusup | Medium](https://medium.com/@andhikayusup/kafka-on-the-microservice-architecture-dc52d73837f2)
 * [간단한 카프카 환경 구성하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163709)
+* [제3회 데보션(DEVOCEAN) 테크 데이](https://devocean.sk.com/vlog/view.do?id=414&vcode=A01)
 * [카프카 커넥트의 태스크 밸런싱 로직, DistributedHerder(양치기) 그리고 IncrementalCooperativeAssignor 내부 동작 소개](https://voidmainvoid.tistory.com/473)
 * [LIVE 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍 :: 3월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=PvAlbOm9WN8)
 * [How To Grasp Kafka Arch in 10 Lines | Python for Senior Developers - YouTube](https://www.youtube.com/watch?v=PqwOi9LOgWU)
