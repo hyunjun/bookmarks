@@ -3120,6 +3120,7 @@ Javascript
   * [Deno 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1623)
   * [Deno의 Node.js 호환 기능 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1625)
   * [How to learn Deno as an alternative to Node.js - DEV Community 👩💻👨💻](https://dev.to/bryantson/how-to-learn-deno-as-an-alternative-to-nodejs-4dcg)
+  * [You Don't Need a Build Step](https://deno.com/blog/you-dont-need-a-build-step)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
