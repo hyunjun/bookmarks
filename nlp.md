@@ -1079,6 +1079,7 @@ NLP
 * [Huge “foundation models” are turbo-charging AI progress | The Economist](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [Building Large Language Model at Scale - Speaker Deck](https://speakerdeck.com/inureyes/building-large-language-model-at-scale)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
+* [Miguel Martínez & Meriem Bendris - Building Large-scale Localized Language Models - YouTube](https://www.youtube.com/watch?v=7CaLrxbEhC4)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
