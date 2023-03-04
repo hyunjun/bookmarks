@@ -879,6 +879,7 @@ Business
 * [페이히어에서의 1년, 백엔드 엔지니어 세준님의 이야기](https://blog.payhere.in/people-221104/)
 * [How To Create the Perfect Developer Onboarding Plan | by David Ziemann | Better Programming](https://betterprogramming.pub/how-to-create-perfect-software-developer-onboarding-plan-4a549a0a3040)
   * [신입 개발자를 위한 완벽한 온보딩 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/1778/)
+* [주니어 개발자의 온보딩을 도운 경험](https://velog.io/@joosing/experience-helped-on-boarding-of-junior-developer)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1880,6 +1881,8 @@ Business
 * [**피그마 CPO 인터뷰 "Figma는 어떻게 제품팀을 구성할까?"**](https://www.grownbetter.com/article/206)
 * [사용자 3명인 제품, 만들어야 할까?](https://toss.tech/article/only-3-users-product)
 * [프로덕트 매니저를 위한 웹훅](https://janepark.notion.site/6f945ea4f8e146008918cb18b7854184)
+* [고객에게 필요한 소식은 따로 있다. 고객의 니즈를 충족하고 비즈니스 임팩트를 낸 프로덕트 설계 | by Sumin Seo | 29CM TEAM | Mar, 2023 | Medium](https://medium.com/29cm/%EA%B3%A0%EA%B0%9D%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EC%86%8C%EC%8B%9D%EC%9D%80-%EB%94%B0%EB%A1%9C-%EC%9E%88%EB%8B%A4-b9077e131688)
+* [문제의 원인의 원인을 찾아서](https://toss.tech/article/real-reason)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
