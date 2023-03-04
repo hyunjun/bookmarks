@@ -2058,6 +2058,7 @@ Deep Learning
   * [Online neural doodle](https://likemo.net/)
 * [ancient-text-restoration - Restoring ancient text using deep learning: a case study on Greek epigraphy](https://github.com/sommerschield/ancient-text-restoration)
   * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy)
+* [dropout: Code release for "Dropout Reduces Underfitting"](https://github.com/facebookresearch/dropout)
 
 ## Neural Network Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
