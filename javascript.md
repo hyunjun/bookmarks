@@ -1698,6 +1698,7 @@ Javascript
   * [astro: Build faster websites with Astro's next-gen island architecture 🏝✨](https://github.com/withastro/astro)
   * [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
   * [아일랜드 아키텍쳐](https://velog.io/@composite/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+  * [Getting Started With Astro: The All-In-One Web Framework](https://semaphoreci.com/blog/astro-framework)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
