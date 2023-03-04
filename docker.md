@@ -388,17 +388,6 @@ Docker
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
 * [Docker Without Docker](https://chimeracoder.github.io/docker-without-docker/)
-* [Fly.io wants to change the way companies deploy apps at the edge | TechCrunch](https://techcrunch.com/2022/07/28/fly-io-wants-to-change-the-way-companies-deploy-apps-at-the-edge/)
-  * Fly.io의 CEO인 Kurt Mackey 인터뷰
-  * Kurt Mackey는 엣지 컴퓨팅의 의미를 대부분 이해하지 못하고 있고 CDN은 결함이 있는 접근 방법으로 Fly.io는 더 효율적으로 배포하려고 함
-  * Fly.io는 클라우드를 쓰지 않고 자체 하드웨어를 사용하는데
-    * CDN은 서버는 한곳에 두고 일부 에셋을 CDN에 태우지만
-    * Fly.io는 애플리케이션 자체를 사용자에 가깝게 띄우도록 함
-* [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)
-* [도커 컨테이너 5분 만에 무료로 배포하기(feat. fly.io) | 44BITS](https://www.44bits.io/ko/post/docker-container-deploy-in-5-minitues-with-fly-io/)
-  * 차세대 Heroku라고 불리는 fly.io의 사용 방법 소개
-  * fly.io에 가입하고 `flyctl`을 이용해서 nginx와 커스텀 이미지를 배포하는 방법, 볼륨을 생성해서 컨테이너에서 사용하는 방법 설명
-* [fly.io로 Next.js 어플리케이션 배포하기. 컨테이너 기반의 클라우드 플랫폼 서비스인 Heroku 가 지난 8월… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/fly-io%EB%A1%9C-next-js-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-9125081a4791)
 * [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
 * [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
