@@ -1744,6 +1744,7 @@ Machine Learning
 * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 * [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 * [Effective Testing for Machine Learning Projects - Eduardo Blancas | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Oc5x0qrB0FA)
+* [Shir Chorev - How to Properly Test ML Models & Data | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=q4F7k_i5gRQ)
 * [drifter_ml - ML Testing](https://github.com/EricSchles/drifter_ml)
 
 # Theano
