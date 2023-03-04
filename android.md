@@ -114,6 +114,7 @@ Android
 * [NAVER Tech Talk: Android 밋업(2018년 11월, 2019년 11월)](https://d2.naver.com/news/4699566)
 * [NAVER Tech Talk: 안드로이드 개발 밋업(2019년 12월)](https://d2.naver.com/news/3876839)
 * [NAVER Tech Talk: iOS / Android 밋업(2020년 4월, 7월)](https://d2.naver.com/news/2579889)
+* [냉동코더의 안드로이드 개발 뉴스::23.01~23.02](https://cliearl.github.io/posts/android/devnews_2301_2302/)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [안드로이드 기존 프로젝트에 c++ 코드를 사용하는 방법 :: Nomad Engineer](https://universehan.tistory.com/9)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
@@ -277,6 +278,7 @@ Android
     * Happo를 이용해서 더 큰 글꼴을 확인할 수 있게 스크린숏 테스트를 추가
 * [TimePicker를 5분단위, 10분단위로 시간 간격 설정하기 | Android | by Ted Park | 박상권의 삽질블로그 | Feb, 2023 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/timepicker%EB%A5%BC-5%EB%B6%84%EB%8B%A8%EC%9C%84-10%EB%B6%84%EB%8B%A8%EC%9C%84%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EA%B0%84%EA%B2%A9-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-android-9849f1df986a)
 * [안드로이드 앱 만들기 : File Download 구현 (ktor 활용)](https://billcorea.tistory.com/322)
+* [Pluu Dev - EditText 포커스 레벨업](https://pluu.github.io/blog/android/2023/03/04/edittext/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
