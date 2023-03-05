@@ -8,6 +8,7 @@ NLP
 * [Introduction To Natural Language Processing | Machine Learning Projects | Eduonix](https://www.youtube.com/watch?v=yN3B-k4F8L4)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
+* [| NC NLP Center Tech Blog](https://ncsoft.github.io/ncnlp/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
