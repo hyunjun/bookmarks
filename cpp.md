@@ -376,8 +376,6 @@ C++
 * [date: A date and time library based on the C++11/14/17 <chrono> header](https://github.com/HowardHinnant/date)
   * [류광의 번역 이야기 :: curl 링크 없이 C++ date 라이브러리의 시간대 기능 사용하기](http://occamsrazr.net/tt/377)
 * [Discohash - A super fast and simple hash. 5GB/s serial (depending on hardware)](https://github.com/cris691/discohash)
-* [DuckDB - an embeddable SQL OLAP Database Management System](https://github.com/cwida/duckdb)
-  * [Eduardo Blancas - Using embedded SQL engines for plotting massive datasets on a laptop - YouTube](https://www.youtube.com/watch?v=M2hoEYXkBa8) sqlite
 * [dwarfs: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
