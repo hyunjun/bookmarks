@@ -1080,6 +1080,7 @@ Book
   * 우당
 * (NOT YET) [만화로 배우는 요리의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B6219803227)
   * 우당
+* (NOT YET) [군중의 망상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308611888)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
