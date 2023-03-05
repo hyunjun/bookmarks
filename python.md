@@ -4668,6 +4668,8 @@ Python
 * [넘파이 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq1yBe7O_iianrYAwT8X2xz)
 * [Learn NumPy In 2(Two Hrs)H | NumPy Tutorial | NumPy For Data Science & Data Analysis| Python-NumPy | - YouTube](https://www.youtube.com/watch?v=RDtKcygLwwA)
 * [Fundamentals of Numpy | Apply Neural Network Fundamentals - YouTube](https://www.youtube.com/watch?v=Li_5nzdYirQ)
+* [Awkward Array documentation — Awkward Array 2.0.9 documentation](https://awkward-array.org/)
+  * [Doug Davis - Extending Awkward Array into the broader PyData Ecosystem | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=pvrRFsFqdYs)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
