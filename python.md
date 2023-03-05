@@ -4497,7 +4497,7 @@ Python
   * [Python-based ML and HPC workflows in the Cloud for science and engineering I PyData Chicago 2022 - YouTube](https://www.youtube.com/watch?v=o2zGKZIhAqA)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
-* [Ray - a fast and simple framework for building and running distributed applications](https://ray.readthedocs.io)
+* Ray [Welcome to the Ray documentation — Ray 2.3.0](https://docs.ray.io/)
   * [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
   * [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
   * [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
@@ -4509,6 +4509,8 @@ Python
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
   * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
+  * [Ray AI Runtime (AIR) — Ray 2.3.0](https://docs.ray.io/en/latest/ray-air/getting-started.html)
+    * [Antoni Baum - HuggingFace + Ray AIR Integration: A Python developer’s guide to | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5GlqH_PCSJE)
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
