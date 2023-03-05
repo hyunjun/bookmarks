@@ -735,6 +735,8 @@ NLP
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatGPT API Python 사용법 (feat.DALL-E, Karlo) - 정우일 블로그](https://wooiljeong.github.io/python/chatgpt-api/)
   * [폴 그레이엄 에세이 탐색기.ipynb - Colaboratory](https://colab.research.google.com/drive/185aHP5REKp0auqY86w0Ye59SzCJAjv_m?usp=sharing)
+  * [AI와 목소리로 이야기를 나눠보자.ipynb - Colaboratory](https://colab.research.google.com/drive/1DO-5Xf0ko8XIkM_Gck94eCNxJHCWe-En?usp=sharing)
+    * [Colab에서 Gradio + Whisper + ChatGPT + TTS는 크롬 브라우져의 speechSynthesis](https://www.facebook.com/seungjoon.choi/posts/pfbid02my3kb9McXr9MFyKYhBHZGXdwJxeMtx337CLEzk1uUD2XFRtoXHJjXFTDKmRUH8X5l)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
