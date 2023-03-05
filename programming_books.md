@@ -637,8 +637,8 @@ Programming Books
   * 탐라 문005.118-아231ㅇ
   * [awsc: 《AWS 컨테이너 설계와 구축 철저 입문》 프런트엔드 예제 파일](https://github.com/wikibook/awsc)
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
-* (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook)
-  * 한라
+* (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook/)
+  * 한라 004.588-컬878ㅇ
 * (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
   * 탐라 문004.588-김53ㅇ
   * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
@@ -1783,8 +1783,8 @@ Programming Books
   * [Trading Evolved – Following the Trend](https://www.followingthetrend.com/trading-evolved/)
 * (NOT YET) [블록체인 해설서 | 에이콘출판사](http://acornpub.co.kr/book/blockchain-guide)
   * 한라 327.2-이44ㅂ 탐라 문327.2-이44ㅂ
-* (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics)
-  * 한라
+* (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics/)
+  * 한라 331.54-오294ㅇ
 * (NOT YET) [파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EC%84%B1%EC%9B%90-%EB%8D%95%EB%B6%84%EC%97%90%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EB%8F%84-activity-7030358886918348800-mSFu/)
   * 탐라
 
@@ -2241,8 +2241,9 @@ Programming Books
 * (NOT YET) [Kafka Streams in Action | 에이콘출판사](http://acornpub.co.kr/book/kafka-streams-in-action)
 * (NOT YET) [아파치 카프카 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/kafka-cookbook)
   * 탐라 문005.74-에67ㅇ
-* (NOT YET) [카프카 스트림즈와 ksqlDB 정복 | 에이콘출판사](http://acornpub.co.kr/book/kafka-ksqldb)
-  * 한라
+* (NOT YET) [카프카 스트림즈와 ksqlDB 정복 | 에이콘출판사](http://acornpub.co.kr/book/kafka-ksqldb/)
+  * 한라 005.74-시35ㅋ
+  * [mastering-kafka-streams-and-ksqldb: Code repository for the Mastering Kafka Streams and ksqlDB book](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb)
 
 # Kotlin
 
@@ -3720,8 +3721,11 @@ Programming Books
 * (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
 * (NOT YET) [파이썬으로 배우는 통계학 교과서 기초 이론부터, 모델, 머신러닝까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7226175941)
 * (NOT YET) [<파이썬을 활용한 베이지안 통계(2판)> 번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/thinkbayes2nd/)
-* (NOT YET) [파이썬으로 하는 마케팅 연구와 분석 | 에이콘출판사](http://acornpub.co.kr/book/python-for-marketing)
-  * 한라
+* (NOT YET) [파이썬으로 하는 마케팅 연구와 분석 | 에이콘출판사](http://acornpub.co.kr/book/python-for-marketing/)
+  * 한라 005.133-슈42ㅍ
+  * [Welcome to Python for Marketing Research and Analytics | python-marketing-research.github.io](https://python-marketing-research.github.io/)
+  * [python-marketing-research-1ed](https://github.com/python-marketing-research/python-marketing-research-1ed)
+  * [Google Colab](https://colab.research.google.com/github/python-marketing-research/python-marketing-research-1ed)
   * [python-for-marketing: 파이썬으로 하는 마케팅 연구와 분석](https://github.com/AcornPublishing/python-for-marketing)
 
 # Streaming
