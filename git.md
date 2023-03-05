@@ -452,6 +452,10 @@ Git
   * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
 
+# Blocks
+* [GitHub Blocks](https://blocks.githubnext.com/)
+* [GitHub의 저장소 기능을 확장할 수 있는 Blocks :: Outsider's Dev Story](https://blog.outsider.ne.kr/1658)
+
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 * [더북(TheBook): Git 교과서](https://thebook.io/080212/)
@@ -1171,6 +1175,7 @@ Git
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
 * [giscus](https://giscus.app/ko) utterances와 비슷하게 GitHub의 Discussions를 사용한 댓글 시스템
   * [블로그에 댓글 기능 추가하기, Giscus | Joohee Kim's Blog](https://imjhk03.github.io/posts/add-comment-service-giscus/)
+  * [Utterances 에서 Giscus 로 마이그레이션하기](https://jojoldu.tistory.com/704)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
