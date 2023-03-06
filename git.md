@@ -176,6 +176,7 @@ Git
 * [Github에서 Bitbucket Import](https://blog.mint-soft.com/10)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 * [Password authentication is temporarily disabled as part of a brownout. Please use a personal access token instead. | by gon Kim | elecle | Jun, 2021 | Medium](https://medium.com/elecle-bike/password-authentication-is-temporarily-disabled-as-part-of-a-brownout-c507835b87f5)
+* [Update git remote URLs with the access token - KC - Medium](https://blog.cloudacode.com/update-git-remote-urls-with-the-access-token-aac43c94d286)
 * [**Password authentication was removed에 대처하기**](https://blog.neonkid.xyz/277)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Github 패스워드 교체시 로컬 비밀번호도 변경하기](https://jojoldu.tistory.com/467)
