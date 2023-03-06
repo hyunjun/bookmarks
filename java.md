@@ -1647,6 +1647,7 @@ Java
 * [14. Spring - MessageSource로 메세지 및 다국어 관리하기](https://kim-jong-hyun.tistory.com/26)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
 * [JPA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/JPA)
+* [JPA | 성능(?) 올려볼게요. with Projections | by spark | Feb, 2023 | Medium](https://spark01.medium.com/jpa-%EC%84%B1%EB%8A%A5-%ED%95%9C%EB%B2%88-%EC%98%AC%EB%A0%A4%EB%B3%BC%EA%B2%8C%EC%9A%94-with-projections-ad9e48aa001d)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
 * [Spring Service Layer에 대한 고찰](https://velog.io/@sumusb/Spring-Service-Layer%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) MVC
