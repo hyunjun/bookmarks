@@ -460,6 +460,7 @@ Programming Books
   * 우당
 * (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect)
   * 우당
+* (NOT YET) [다시 장인 정신 《소프트웨어 장인 정신 이야기》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/02/28/%EB%8B%A4%EC%8B%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%E3%80%8A%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%E3%80%8B/)
 
 # Algorithm
 
