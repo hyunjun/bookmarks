@@ -4893,6 +4893,7 @@ Python
 * [How to cache function output to the disk given pandas obj params – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=2807)
 * [Joris Van den Bossche - On copies and views: updating pandas' internals | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=jIbYomIcl34)
 * [Rehan Durrani - How to maximally parallelize the entire pandas API | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zQ_dhZvGnsc)
+* [Srikanth - Use pandas in tidy style | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=AMJEnkA0YrE)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
