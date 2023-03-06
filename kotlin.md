@@ -385,6 +385,7 @@
 * [Kotlin Coroutine의 Structured Concurrency 구현 상세](https://suhwan.dev/2022/01/21/Kotlin-coroutine-structured-concurrency/)
 * [Running Kotlin coroutines on Project Loom's virtual threads](https://kt.academy/article/dispatcher-loom)
 * [Kotlin Coroutines - A Comprehensive Introduction - Rock the JVM Blog](https://blog.rockthejvm.com/kotlin-coroutines-101/)
+* [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
