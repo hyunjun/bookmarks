@@ -2344,8 +2344,10 @@ Programming Books
     * 탐라 문325.04-이211ㅇ 우당 문325.211-이211ㅇ
   * (NOT YET) 불패경영의 원칙
     * 한라 325.24-이192부
-  * (NOT YET) 아메바 경영
+  * [아메바 경영 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301185033)
+    * ★★★☆☆ 2023.03.06
     * 한라 325.1-이192아 탐라 문325.1-이211ㅇ
+    * [아메바 경영:‘따로 또 같이’ 교세라의 지혜 | 글로벌리포트 | DBR](https://dbr.donga.com/article/view/1401/article_no/5501/ac/magazine)
   * (NOT YET) 회계 경영
   * 사장의 그릇
     * ★★★☆☆ 2022.10.04
