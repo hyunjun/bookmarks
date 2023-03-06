@@ -3475,6 +3475,7 @@ Programming
     * 사용자는 가능하면 "Open in Browser"를 눌러서 인 앱 브라우저 말고 기본 브라우저를 사용하기를 권장
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
+  * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [neuvector](https://github.com/neuvector/neuvector)
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
