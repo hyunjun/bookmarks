@@ -3162,6 +3162,9 @@ Programming Books
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❶ 코드 설계에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/20/principle_ldw_1/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❷ 이직에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/22/principle_ldw_2/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매니징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
+* [《IT 회사에 간 문과 여자》를 출간하며](https://brunch.co.kr/@jiwon3889/37)
+  * ★★☆☆☆ 2023.03.06 내가 읽을 필요는 없는, 맞지 않는 책이었음
+  * 한라 325.211-염78ㅇ 탐라 문325.211-염79ㅇ 우당 문325.211-염79I
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
