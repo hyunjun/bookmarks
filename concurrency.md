@@ -5,6 +5,7 @@ Concurrency
 * [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
 * [Making Sequential Execution Fast(er)](https://medium.com/@claytonlong_34858/making-sequential-execution-fast-er-56d65f70eb2b)
 * [**non blocking/async IO vs. multithreads**](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)
+* [Async 프로그래밍 | Parallel 프로그래밍 | Parallelism | Concurrency - YouTube](https://www.youtube.com/watch?v=_5gSwLaKlnU)
 * [Difference between mutual exclusion and synchronization](https://www.8bitavenue.com/2017/12/difference-between-mutual-exclusion-and-synchronization)
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
