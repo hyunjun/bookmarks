@@ -1446,7 +1446,6 @@ Java
 * [RefactorFirst - This tool for Java codebases will help you identify the God Classes you should refactor first](https://github.com/jimbethancourt/RefactorFirst/blob/main/README.md)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SaltluxLiveStock - 솔트룩스 주식을 실시간으로 라이언이 알려줍니다](https://github.com/MrBananaHuman/SaltluxLiveStock)
-* [scavenger: a runtime dead code analysis tool](https://github.com/naver/scavenger)
 * [servicetalk: A networking framework that evolves with your application](https://github.com/apple/servicetalk)
   * JVM 네트워크 애플리케이션 프레임워크로 Apple에서 오픈소스로 공개
 * [ShedLock - Distributed lock for your scheduled tasks](https://github.com/lukas-krecan/ShedLock)

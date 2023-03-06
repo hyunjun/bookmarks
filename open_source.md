@@ -279,6 +279,8 @@ Open Source
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [Sandworm: Keep Your JavaScript Code Secure and Compliant](https://sandworm.dev/)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
+* [scavenger: a runtime dead code analysis tool](https://github.com/naver/scavenger) java, python
+  * [런타임에 코드내 데드 코드를 검출해 내는 Scavenger](https://www.facebook.com/junho.yoon.3994/posts/pfbid02to9r2DnBjBeaeFJc9txcg7ubQZCNvCDxYapYv1TokpzgDeZdBwZVosQ1QBrNNkJYl)
 * [Sourcegraph | Code Intelligence Platform](https://about.sourcegraph.com/)
   * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
 * [Tyk - an open source API Gateway that is fast, scalable and modern](https://tyk.io/)
