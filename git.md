@@ -1178,6 +1178,7 @@ Git
 * [giscus](https://giscus.app/ko) utterances와 비슷하게 GitHub의 Discussions를 사용한 댓글 시스템
   * [블로그에 댓글 기능 추가하기, Giscus | Joohee Kim's Blog](https://imjhk03.github.io/posts/add-comment-service-giscus/)
   * [Utterances 에서 Giscus 로 마이그레이션하기](https://jojoldu.tistory.com/704)
+  * [Giscus 댓글, 텔레그램 (Telegram) 으로 알람 받기](https://jojoldu.tistory.com/705)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
