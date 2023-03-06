@@ -162,6 +162,8 @@ C#
 * [Polly: Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+](https://github.com/App-vNext/Polly)
   * [C# - Polly를 사용하여 탄력적인 응용 프로그램 만들기 - jacking75](https://jacking75.github.io/NET_lib_polly/)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
+* [Serilog Contrib](https://github.com/serilog-contrib)
+  * [Serilog를 통해 애플리케이션 데이터를 수집하고 분석하자](https://snack.planetarium.dev/kor/2023/03/serilog/)
 * [SparkCLR adds C# language binding to Apache Spark enabling the implementation of Spark driver code and data processing operations in C#](https://github.com/Microsoft/SparkCLR)
 * [StyleCopAnalyzers: An implementation of StyleCop rules using the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
   * [C# - StyleCop.Analyzers를 도입하여 코드 정리하기 - jacking75](https://jacking75.github.io/NET_csharp_StyleCop_Analyzers/)
