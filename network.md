@@ -101,6 +101,7 @@ Network
 # Book
 * [더북(TheBook): TCP/IP 교과서](https://thebook.io/006949/) 1~7장만
 * [더북(TheBook): IT 엔지니어를 위한 네트워크 입문](https://thebook.io/007046/) 6~7장만
+* [네트워크 엔지니어를 위한 파이썬 프로그래밍(초급) - WikiDocs](https://wikidocs.net/book/8968)
 
 # C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
