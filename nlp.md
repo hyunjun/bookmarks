@@ -1111,6 +1111,7 @@ NLP
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
+  * [llama: Simple llama usage example](https://github.com/go-noah/llama)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
