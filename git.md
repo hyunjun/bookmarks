@@ -448,6 +448,7 @@ Git
 * [How to Build the Best Github Profile for Your Job Search - Qvault](https://qvault.io/jobs/build-github-profile/)
 * [Private Profiles | GitHub Changelog](https://github.blog/changelog/2022-04-21-private-profiles/)
 * [토이 프로젝트 깃허브 프로필에 최신 포스트 자동 업데이트하기](https://yeonyeon.tistory.com/293)
+* [Github 프로필 꾸미기](https://velog.io/@colorful-stars/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 * [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
   * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
