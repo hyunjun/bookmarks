@@ -88,6 +88,7 @@ Functional Programming
 * [함수형 프로그래밍과 수학](https://www.youtube.com/playlist?list=PLO0V1hDjxSIfp4zDe_Y9lSuhHkkvCHrNb)
 * [Referential Transparency — Programming Word of the Day](https://medium.com/background-thread/referential-transparency-programming-word-of-the-day-afc31101488c)
 * [Gain confidence with referential transparency](https://cswithbaddrawings.wordpress.com/2020/05/25/gain-confidence-with-referential-transparency/)
+* [Why are FP devs obsessed with Referential Transparency? - YouTube](https://www.youtube.com/watch?v=UsaduCPLiKc)
 * [Functional 360 Archives](https://www.cirstei.ro/archive.html) haskell, scala, clojure, F#에 대한 주간 뉴스
 * [Discover the power of first class functions](https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69)
 * [함수란 무엇인가?](https://libsora.so/posts/what-is-function/)
