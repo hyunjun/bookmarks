@@ -1359,6 +1359,8 @@ AWS
 * [Vulnerable AWS Lambda function - Initial access in cloud attacks – Sysdig](https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/)
 * [Running the stock NGINX container image with AWS Lambda · IT 2.0](https://it20.info/2021/11/running-the-stock-nginx-container-image-with-aws-lambda/)
 * [Issues to Avoid When Implementing Serverless Architecture with AWS Lambda | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/mistakes-to-avoid-when-implementing-serverless-architecture-with-lambda/)
+* [Don't be fooled by serverless](https://world.hey.com/dhh/don-t-be-fooled-by-serverless-776cd730)
+  * [서버리스에 속지 마세요 | GeekNews](https://news.hada.io/topic?id=8623)
 * [AWS의 람다는 api를 만드는 유용한 도구입니다. 람다를 지원하는 여러 언어가 있지만 Python을 쓰는 것이 합리적입니다. 온라인 에디터를 지원하는 3개의 언어 중 하나이고 대기 상태에서 깨어나는 시간이 가장 빠른 언어이기 때문입니다. 파이썬으로 DynamoDB를 다룰 때 필요한 여러 예제가 있습니다. 먼저, get_item은 테이블에서 키의 조건에… - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EB%9E%8C%EB%8B%A4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9E%85%EB%8B%88%EB%8B%A4-2a801d280866)
 * [AWS Lambda의 저장소. 람다는 AWS 서버리스의 핵심 서비스이고 MSA의 교과서 같은… | by 이상선의 개발 블로그 | Jun, 2022 | Medium](https://medium.com/@sunyi233/aws-lambda%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%86%8C-676fcd0bf92b)
 * [Project using Lambda (Python), S3, DynamoDB, RDS (MySQL), SNS with step by step explanation & guide - YouTube](https://www.youtube.com/watch?v=K1jqLUeLEwU)
