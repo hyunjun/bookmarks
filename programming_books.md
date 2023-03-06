@@ -2355,7 +2355,8 @@ Programming Books
     * [答 사장의 그릇](https://github.com/hyunjun/bookmarks/blob/master/programming_books/making_the_most_of_human_resources.md)
     * [答 사장의 그릇. 영어판 제목: Making the Most of Human… | by Jun | Oct, 2022 | Medium](https://nymets.medium.com/%E7%AD%94-%EC%82%AC%EC%9E%A5%EC%9D%98-%EA%B7%B8%EB%A6%87-e53fdb96d3d3)
     * [答 사장의 그릇](https://jh4hj.tistory.com/entry/%E7%AD%94-%EC%82%AC%EC%9E%A5%EC%9D%98-%EA%B7%B8%EB%A6%87)
-  * (NOT YET) 인생을 바라보는 안목
+  * [인생을 바라보는 안목](https://brunch.co.kr/@pedkang01/746)
+    * ★★★☆☆ 2023.03.06
     * 한라 199.1-이192ㅇ 탐라 문199.1-이211ㅇ 우당 문199.1-이211ㅇ
 * [똑똑하고 100배 일 잘하는 개발자 모시기 : 조엘 온 소프트웨어 시즌 2](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%98%EA%B3%A0-100%EB%B0%B0-%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%8B%9C%EA%B8%B0-%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%9C%EC%A6%8C-2)
   * 2010.03.14
