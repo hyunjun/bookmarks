@@ -1764,6 +1764,7 @@ Programming
 * [Best Practices to Design & Build Event-driven Applications • Marcia Villalba • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=bC51iRtXlRw)
 * [EDA in Practice: Building an eCommerce Platform at Cinch • Emily Shea & Toli Apostolidis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=wM-dTroS0FA)
 * [Emily Shea | How Event-Driven Architectures Accelerate Time to Market | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=hVWD4xkRAbQ)
+* [Event Design & Event-first Development • David Boyne • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=GBzr48Mj2JU)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
