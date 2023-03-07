@@ -892,6 +892,7 @@ Python
 * functools
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
   * [You Can Do Really Cool Things With Functions In Python - YouTube](https://www.youtube.com/watch?v=ph2HjBQuI8Y)
+  * [Functools is one of the MOST USEFUL Python modules - YouTube](https://www.youtube.com/watch?v=B9yM53qkbW0)
   * partial
 
     ```
@@ -5249,6 +5250,7 @@ Python
 * [Protocols - Static duck typing for decoupled code - presented by Ran Zvi - YouTube](https://www.youtube.com/watch?v=adxG_7bBy1w)
 * [Protocols in Python: Why You Need Them - presented by Rogier van der Geer - YouTube](https://www.youtube.com/watch?v=Lddegb2ToNY)
 * [파이썬 타입 힌트 제대로 활용하기, 최보성 - PyCon Korea 2022 - YouTube](https://www.youtube.com/watch?v=3dGMBwARuN0)
+* [TypedDict is a LIFESAVER - YouTube](https://www.youtube.com/watch?v=udP4cD2JAFM)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
