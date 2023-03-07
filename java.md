@@ -1731,7 +1731,6 @@ Java
 * [How to use HTTP Basic Authentication in Spring Security? | by javinpaul | Javarevisited | Feb, 2023 | Medium](https://medium.com/javarevisited/how-to-use-http-basic-authentication-in-spring-security-b32f30b977c3)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
-* [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리 - YouTube](https://www.youtube.com/watch?v=AS1GLhhWFLU)
 * [스프링 부트 테스트 자동화 - YouTube](https://www.youtube.com/watch?v=4bjgyPxec4Y)
 * [OKKY 자바 스프링이 대세가 된 과정에 대해 #fender - YouTube](https://www.youtube.com/watch?v=eIKsHVUTHR8)
@@ -1779,6 +1778,7 @@ Java
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
+* [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
@@ -1985,6 +1985,7 @@ Java
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
 * [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
+* [자바의 내부 클래스는 스프링 빈이 될 수 있을까? - YouTube](https://www.youtube.com/watch?v=2G41JMLh05U)
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
 * [Build Reactive Java Microservices with Spring Boot and JHipster - YouTube](https://www.youtube.com/watch?v=OKjgooXQEj4)
