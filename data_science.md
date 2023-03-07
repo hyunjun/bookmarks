@@ -718,6 +718,7 @@ Data Science
 * [Sebastiaan J. van Zelst: Process Mining in Python | PyData Eindhoven 2019](https://ugong2san.tistory.com/4591)
 * [Python Fundamentals For Data Engineering: Create your first ETL Pipeline - YouTube](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 * [Python & Visual Studio Code - Revolutionizing the way you do data science - presented by Jeffrey Mew - YouTube](https://www.youtube.com/watch?v=uPRQXDjQhMs)
+* [Irina Klein - IMF Data Discovery and Collection | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=sAwQgbfSbjw)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
