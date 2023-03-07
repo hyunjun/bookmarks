@@ -1866,8 +1866,6 @@ Python
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
 * [isort: A Python utility / library to sort imports](https://github.com/pycqa/isort/)
-* [Ruff](https://beta.ruff.rs/) An extremely fast Python linter, written in Rust
-  * [Ruff is the FUTURE of Python development - YouTube](https://www.youtube.com/watch?v=bcAqceZkZRQ)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
 
 # Concurrency
@@ -4314,6 +4312,8 @@ Python
   * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
   * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
   * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
+* [Ruff](https://beta.ruff.rs/) An extremely fast Python linter, written in Rust
+  * [Ruff is the FUTURE of Python development - YouTube](https://www.youtube.com/watch?v=bcAqceZkZRQ)
 
 ## Library Memory
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
