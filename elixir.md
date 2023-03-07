@@ -91,6 +91,7 @@ Elixir
 * [You may not need Redis with Elixir - Dashbit Blog](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
 * [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 * [Doing things only once in Elixir - DEV Community](https://dev.to/palm86/doing-things-only-once-in-elixir-4hdg)
+* [What does AI dream about? Stable Diffusion in Elixir | Curiosum](https://curiosum.com/blog/what-does-ai-dream-about-stable-diffusion-in-elixir)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
