@@ -3662,6 +3662,7 @@ Programming Books
   * 탐라
 * (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
   * 우당
+  * [Expert Talk: Five Lines of Code • Christian Clausen & Julian Wood • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=DpDQn99BY0M)
 * (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software)
   * 우당
 
