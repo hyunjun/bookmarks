@@ -409,6 +409,7 @@ Business
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
+* [요즘 직장in 조직과 개인 모두에게 신뢰가 필요한 시점입니다](https://www.econovill.com/news/articleView.html?idxno=397085) 조직, 신뢰
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
