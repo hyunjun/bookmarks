@@ -1070,6 +1070,7 @@ Business
 * [설득을 잘하면 협상도 잘 될까?](https://www.venturesquare.net/849479)
 * [마음을 움직이는 설득의 3가지 원칙](http://moneyman.kr/archives/2690)
 * [전략 감정을 공략하는 4가지 기술](http://moneyman.kr/archives/3569) 설득
+* [The Art of Persuasion Hasn’t Changed in 2,000 Years | Carmine Gallo](https://www.carminegallo.com/the-art-of-persuasion-hasnt-changed-in-2000-years/) 설득
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [화상회의, 카메라를 켜야할까? | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/524/page/1)
