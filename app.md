@@ -964,6 +964,7 @@ App
     * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
     * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
     * [코드를 나 대신 읽고 써주는 Figstack | Disquiet\*](https://disquiet.io/@yeoularu/makerlog/611)
+    * [Best VSCode extensions in 2023 - YouTube](https://www.youtube.com/watch?v=DNf6Bu7z4vw)
     * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
   * Git
     * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
