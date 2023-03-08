@@ -1775,6 +1775,7 @@ Java
 * [Spring Controller의 세계](https://velog.io/@composite/Spring-Controller%EC%9D%98-%EC%84%B8%EA%B3%84)
 * [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html)
 * [@Profile로 분기처리하여 Configuration을 구성할 때 주의해야할 점](https://kim-jong-hyun.tistory.com/142)
+* [Introducing Spring Framework 6.0 by Brian Clozel and Stephane Nicoll - YouTube](https://www.youtube.com/watch?v=5FWNpaiqYhw)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
