@@ -4020,6 +4020,7 @@ Python
   * [How to Access Twitter Data using Twitter API in Python | Twitter Data Analysis - YouTube](https://www.youtube.com/watch?v=jDHwRbezPw0)
   * [Tweepy Documentation — tweepy 4.10.1 documentation](https://docs.tweepy.org/)
     * [tweepy를 이용한 트윗 데이터 수집 방법](https://gils-lab.tistory.com/99)
+    * [Dina Bavli - Deep Into the Tweet | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=tyMExBKPOM8)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [UltraDict: Shared, streaming Python dict](https://github.com/ronny-rentner/UltraDict)
