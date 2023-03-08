@@ -327,6 +327,7 @@ Statistics
 * [How Bayesian statistics works in updating probabilities | by Giovanni Organtini | Jul, 2022 | Towards Data Science](https://towardsdatascience.com/how-bayesian-statistics-works-in-updating-probabilities-625b1b8599ec)
 * [베이지언 러닝(Bayesian Learning) - YouTube](https://www.youtube.com/playlist?list=PL2WU1RpBGzxNVNiN_8QskRBRCafJYP6_K)
 * [Thomas Wiecki - Solving Real-World Business Problems with Bayesian Modeling | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=twpZhNqVExc)
+* [Quan Nguyen - Bayesian Optimization- Fundamentals, Implementation, and Practice | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=ImXOdgEgaTM)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
