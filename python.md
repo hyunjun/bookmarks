@@ -2101,6 +2101,8 @@ Python
   * [jakevdp.github.io](http://jakevdp.github.io/)
 * [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
 * [PyData Ann Arbor: Katie Bauer | Building "Time On Site" at Reddit](https://www.youtube.com/watch?v=4z4XMe5dVG8)
+* [Itamar Turner-Trauring - Speed up Python data processing with vectorization | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=OUFe8JqPqTU)
+  * [PyData Global 2022: Vectorization](https://pythonspeed.com/pydata2022)
 
 # Course MOOC Lecture
 * [파이썬 코딩 강의를 제작하였습니다 (6시간 / 기본편) : 클리앙](https://www.clien.net/service/board/lecture/14613889)
