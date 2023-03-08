@@ -170,6 +170,7 @@ Google Cloud Platform GCP
 * [#8 Google Cloud IAM - YouTube](https://www.youtube.com/watch?v=RbyjG1Ckd-k)
 * [Workflows와 커넥터로 서버리스 앱 빌드하기 | Google Cloud 블로그 | Google Cloud Blog](https://cloud.google.com/blog/ko/products/application-development/3common-serverless-patterns-to-build-with-workflows)
 * [마이크로서비스 관점에서 가전제품 최저가 크롤러 만들기 | funes-days](https://funes-days.com/dev/microservice-crawler)
+* [Google Cloud Workstation vs Codespace – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4417)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
