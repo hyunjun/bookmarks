@@ -480,6 +480,7 @@ AWS
     * Argo CD와 GitHub Actions 등 사용
 * [AWS Wickr – 엔터프라이즈 기업을 위한 안전한 종단 간 암호화 통신 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-wickr-a-secure-end-to-end-encrypted-communication-service-for-enterprises-with-auditing-and-regulatory-requirements/)
 * [Visually Compose Serverless Applications – AWS Application Composer – Amazon Web Services](https://aws.amazon.com/ko/application-composer/)
+* [AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/)
 * [Getting started Virtual Waiting Room on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-virtual-waiting-room-on-aws/)
 * ['Amazon Web Service Network 쉽게 이해하기' 카테고리의 글 목록](https://aws-hyoh.tistory.com/category/Amazon%20Web%20Service%20Network%20%EC%89%BD%EA%B2%8C%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [안전한 협업 – AWS Clean Rooms – Amazon Web Services](https://aws.amazon.com/ko/clean-rooms/)
