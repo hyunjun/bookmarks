@@ -1947,6 +1947,7 @@ Java
 * [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기](https://jojoldu.tistory.com/509)
 * [동일한 Bean(Class)에서 @Transactional 동작 방식 | Popit](https://www.popit.kr/%EB%8F%99%EC%9D%BC%ED%95%9C-beanclass%EC%97%90%EC%84%9C-transactional-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D/)
 * [@Transactional의 rollback 이야기](https://kevink1103.oopy.io/465191f2-757e-4d0f-8e92-25d36de18070)
+* [Proxy기반으로 동작되는 어노테이션을 AspectJ 모듈과 함께 사용할 때 주의할 점](https://kim-jong-hyun.tistory.com/143) @Transactional
 * [Spring Boot에서 yyyy-MM 포맷으로 날짜 받고싶을때](https://jojoldu.tistory.com/527)
 * [Spring Boot 기초 정리 : 네이버 블로그](https://blog.naver.com/java7ang/222151557473)
 * [1. Spring Boot + MySQL 연동](https://kim-jong-hyun.tistory.com/12)
