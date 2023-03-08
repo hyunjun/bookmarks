@@ -2160,6 +2160,7 @@ Programming
 * [Microservices from the Trenches • Sander Hoogendoorn • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=UFFmT4Z5frw)
 * [전략적인 마이크로 서비스 채택 방안](https://brunch.co.kr/@graypool/804)
 * [Should Each Microservice Have Its Own Database? by Dmitry Belyaev - YouTube](https://www.youtube.com/watch?v=A62GpUmO9q0)
+* [Thinking Asynchronously: App Integration Patterns for Microservices • Rebekah Kulidzan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_ugRNuE9xmA)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
