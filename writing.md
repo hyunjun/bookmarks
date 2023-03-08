@@ -175,6 +175,8 @@ Writing
     * Google Workspace를 지원하기 때문에 문서 작성을 Google Workspace에서 가능
 * [ko-translation-terms: 더 나은 번역을 위한 프로그래밍 용어 번역 용례집입니다](https://github.com/RanolP/ko-translation-terms)
 * [Mintlify | Continuous Documentation Platform](https://www.mintlify.com/)
+* [Quarto](https://quarto.org/) open-source scientific and technical publishing system built on Pandoc
+  * [Tom Mock - Reproducible Publications with Python and Quarto | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=0UG2vFYqSjY)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
