@@ -819,6 +819,7 @@ Machine Learning
 * [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
 * [Python Voting Classifiers 다수결 분류의 정의와 구현](https://nonmeyet.tistory.com/entry/Python-Voting-Classifiers%EB%8B%A4%EC%88%98%EA%B2%B0-%EB%B6%84%EB%A5%98%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%ED%98%84)
 * [Machine Learning - four layer 1000 neuron bidiectional lstm classifier - YouTube](https://www.youtube.com/watch?v=OclITq7bgns)
+* [Topaz Gilad - Classification Through Regression:Unlock the True Potential of Your Labels - YouTube](https://www.youtube.com/watch?v=gXiXBZpM9Zw)
 * [dirty_cat: machine learning on dirty categories — Dirty cat](https://dirty-cat.github.io/stable/)
   * [Dirty categories: learning with non normalized strings — Dirty data science](http://dirtydata.science/python/gen_notes/02_dirty_categories.html)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
