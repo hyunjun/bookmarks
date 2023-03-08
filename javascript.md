@@ -937,6 +937,7 @@ Javascript
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
   * [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map#map-for-hash-map)
     * [번역 자바스크립트 Map을 Object 대신 사용해야할 때는 언제일까요?](https://velog.io/@oneook/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Map%EC%9D%84-Object-%EB%8C%80%EC%8B%A0-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%A0-%EB%95%8C%EB%8A%94-%EC%96%B8%EC%A0%9C%EC%9D%BC%EA%B9%8C%EC%9A%94)
+  * [자바스크립트 Map 자료구조 적극 이용하기](https://dev.gmarket.com/68)
 * MediaStream [웹브라우저에서 동작하는 녹화앱 만들기. 웹브라우저에서 녹화 기능을 구현하는 방법을 간단한 예제와 함께… | by JUNGDU JANG (AboutJang) | WATCHA | Aug, 2021 | Medium](https://medium.com/watcha/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EB%85%B9%ED%99%94%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-70142ce28994)
 * MessageChannel [MessageChannel API를 활용해 iframe 서비스와 통신하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/29/Communicate-with-iframe-via-Message-Channel-API.html)
 * object
