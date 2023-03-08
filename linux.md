@@ -1060,6 +1060,7 @@ Linux
 * [커맨드라인 인터페이스, 셸, 터미널이란? | 44BITS](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
 * [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
+* [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
 * [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
