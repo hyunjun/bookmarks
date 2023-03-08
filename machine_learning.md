@@ -1393,6 +1393,9 @@ Machine Learning
   * [MLOps Basics Week 10: Summary – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-summary) 요약**
 * [MLOps NYC](https://www.mlopsnyc.com)
   * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
+* [UnionML: Build and Deploy Machine Learning Microservices](https://www.union.ai/unionml)
+  * [UnionML: the easiest way to build and deploy machine learning microservices](https://github.com/unionai-oss/unionml)
+  * [Shivay Lamba - Tour of UnionML: An Open Source framework for Building Machine Learn Microservices - YouTube](https://www.youtube.com/watch?v=bsa4Tbg6x4s)
 * wandb.ai [Weights & Biases – Developer tools for ML](https://wandb.ai/site) MLOps 인프라
   * [Better tracking for your deep learning training - Wandb.ai (Weights & Biases) - YouTube](https://www.youtube.com/watch?v=LQvRhQwDOm0)
 
