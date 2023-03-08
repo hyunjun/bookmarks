@@ -1700,6 +1700,7 @@ AWS
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
 * [SNS와 Lambda로 백그라운드 작업 처리하기](https://yeoubi.net/2020/01/22/sns-lambda-background-processing/)
 * [How to configure AWS SNS Notification for S3 event | Programmer Block](https://programmerblock.com/configure-aws-sns-notification-for-s3-bucket-event/)
+* [Amazon SNS를 통한 AWS 일간 기능 업데이트 구독 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/subscribe-to-aws-daily-feature-updates-via-amazon-sns/)
 
 ## Messaging service SQS
 * [SQS 메시지 양으로 EB Auto Scale 하기. HBsmith 에서는 QA 테스트를 돌리는 Worker 로서… | by HyeonKu Kang | Hard Boiled Smith Stories | Dec, 2020 | Medium](https://medium.com/hbsmith/sqs-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%96%91%EC%9C%BC%EB%A1%9C-eb-auto-scale-%ED%95%98%EA%B8%B0-70bbfc7b7f5f)
