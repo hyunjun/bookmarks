@@ -5142,6 +5142,8 @@ Python
     * [Episode #67: Property-based Testing with Hypothesis](https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis)
     * [Hypothesis with David MacIver - Episode 52](https://pythonpodcast.com/episode-52-hypothesis-with-david-maciver/)
     * [Stop Writing Tests (Next Generation Tools To Automate Testing) - YouTube](https://www.youtube.com/watch?v=XkpDwl5n7pg)
+    * [Cheuk Ting Ho - I hate writing tests, that's why I use Hypothesis | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=lYteopbeXKA)
+      * [I hate writing tests, that's why I use Hypothesis](https://slides.com/cheukting_ho/hypothesis-ghostwriter)
   * [Intro to property-based testing in Python](https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/)
   * [Unit Testing in Python — Property-based Testing | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-property-based-testing-892a741fc119)
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
