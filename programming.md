@@ -2345,6 +2345,7 @@ Programming
   * [난 Jira가 정말 싫어요 | GeekNews](https://news.hada.io/topic?id=6834)
 * [JIRA 기한 설정 자동화](https://coolengineer.com/entry/JIRA-%EA%B8%B0%ED%95%9C-%EC%84%A4%EC%A0%95-%EC%9E%90%EB%8F%99%ED%99%94)
 * [Shortcut | Plan, build, ship. All in one tool.](https://shortcut.com/)
+* [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
