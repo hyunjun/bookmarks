@@ -88,6 +88,7 @@ Programming Language
   * [Revolutionizing Java with GraalVM Native Image](https://www.infoq.com/articles/native-java-graalvm/)
   * [GraalVM 22.1 릴리즈 - 개발자 경험 향상, 애플 실리콘 지원 | GeekNews](https://news.hada.io/topic?id=6451)
   * [GraalVM에서 OpenJDK로 넘어갔고 앞으로 넘어갈것 같은 기능들 | by Sunghyun Roh | Feb, 2023 | Medium](https://medium.com/@sunghyunroh/graalvm%EC%97%90%EC%84%9C-openjdk%EB%A1%9C-%EB%84%98%EC%96%B4%EA%B0%94%EA%B3%A0-%EB%84%98%EC%96%B4%EA%B0%88-%EA%B8%B0%EB%8A%A5%EB%93%A4-c94b2ae41bed)
+  * [A 1.5MB Java Container App? Yes you can! by Shaun Smith - YouTube](https://www.youtube.com/watch?v=6wYrAtngIVo)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
