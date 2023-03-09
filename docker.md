@@ -1735,6 +1735,7 @@ Docker
   * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
 * [Data on Kubernetes Community](https://dok.community/)
 * Decapod [Cloud Native Infra: Project Decapod & Taco](https://github.com/openinfradev)
+* [demo-kwok(KUBERNETES WITHOUT KUBELET)](https://github.com/sysnet4admin/IaC/tree/master/k8s/kwok)
 * [detek: Extensible problem-detecting CLI tool for reliable Kubernetes cluster operations and rapid problem detections](https://github.com/kakao/detek)
   * [7천개가 넘어가는 클러스터에서 쏟아지는 온콜 이슈 처리하기](https://www.youtube.com/watch?v=uPFyanT8vKA)
     * [7천개가 넘어가는 클러스터에서 쏟아지는 온콜 이슈 처리하기](https://2022.openinfradays.kr/session/21)
