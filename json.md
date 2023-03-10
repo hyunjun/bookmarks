@@ -292,6 +292,9 @@ Json
 * [zq | Zed](https://zed.brimdata.io/docs/commands/zq/)
   * [Introducing zq: an Easier (and Faster) Alternative to jq | Brim Data](https://www.brimdata.io/blog/introducing-zq/)
 
+# Php
+* [json-safe-stringify: JSON.stringify safe for circular structure](https://github.com/crucifyer/json-safe-stringify)
+
 # Python
 * [**JSON과 PYTHON API의 만남**](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)
   * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
