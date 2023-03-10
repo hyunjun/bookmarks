@@ -2348,6 +2348,9 @@ Programming Books
     * ★★★☆☆ 2023.03.06
     * 한라 325.1-이192아 탐라 문325.1-이211ㅇ
     * [아메바 경영:‘따로 또 같이’ 교세라의 지혜 | 글로벌리포트 | DBR](https://dbr.donga.com/article/view/1401/article_no/5501/ac/magazine)
+    * [아메바 경영](https://github.com/hyunjun/bookmarks/blob/master/programming_books/amoeba_management.md)
+    * [아메바 경영. 기업 경영은 합리적이어선 안 된다 | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/%EC%95%84%EB%A9%94%EB%B0%94-%EA%B2%BD%EC%98%81-fda084f69bbf)
+    * [아메바 경영](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A9%94%EB%B0%94-%EA%B2%BD%EC%98%81)
   * (NOT YET) 회계 경영
   * 사장의 그릇
     * ★★★☆☆ 2022.10.04
