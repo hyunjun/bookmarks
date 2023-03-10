@@ -5367,6 +5367,7 @@ Javascript
   * [타입스크립트에서 전문가처럼 에러 처리하기. 원문… | by Jisu Yuk | Feb, 2023 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-39d14f5cc6a2)
 * [Fully Typed Web Apps | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/fully-typed-web-apps)
   * [완전한 타입 안정성을 가진 웹 애플리케이션 | bohyeon.dev](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
+* [Webview에서 핀치 줌(pinch zoom) 구현하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230310-webview-pinch-zoom/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
