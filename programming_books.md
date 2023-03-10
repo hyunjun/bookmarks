@@ -2361,6 +2361,9 @@ Programming Books
   * [인생을 바라보는 안목](https://brunch.co.kr/@pedkang01/746)
     * ★★★☆☆ 2023.03.06
     * 한라 199.1-이192ㅇ 탐라 문199.1-이211ㅇ 우당 문199.1-이211ㅇ
+    * [이나모리 가즈오의 인생을 바라보는 안목](https://github.com/hyunjun/bookmarks/blob/master/programming_books/a_compass_to_fulfillment.md)
+    * [이나모리 가즈오의 인생을 바라보는 안목. ‘플러스 사고법’이란 정의, 공정, 공평, 노력, 겸허, 정직, 박애… | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%EC%9D%B8%EC%83%9D%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%95%88%EB%AA%A9-d13f8b6d7a3f)
+    * [이나모리 가즈오의 인생을 바라보는 안목](https://jh4hj.tistory.com/entry/%EC%9D%B4%EB%82%98%EB%AA%A8%EB%A6%AC-%EA%B0%80%EC%A6%88%EC%98%A4%EC%9D%98-%EC%9D%B8%EC%83%9D%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%95%88%EB%AA%A9)
 * [똑똑하고 100배 일 잘하는 개발자 모시기 : 조엘 온 소프트웨어 시즌 2](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%98%EA%B3%A0-100%EB%B0%B0-%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%8B%9C%EA%B8%B0-%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%9C%EC%A6%8C-2)
   * 2010.03.14
 * [조엘 온 소프트웨어](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
