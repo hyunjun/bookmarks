@@ -831,6 +831,11 @@ Docker
   * [Kool - 더 나은 로컬 개발 환경 | GeekNews](https://news.hada.io/topic?id=4616)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 
+# Conference
+* DockerCon 2022
+  * [The Journey from Docker Desktop to 100K IoT Devices running on Docker - YouTube](https://www.youtube.com/watch?v=C-3IbNoXN4U)
+    * [Talks/2022_DockerCon at master · mpous/Talks · GitHub](https://github.com/mpous/Talks/tree/master/2022_DockerCon)
+
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
 * [I have a confession to make… I commit to master](https://hackernoon.com/i-have-a-confession-to-make-i-commit-to-master-6a804f334beb)
@@ -2023,6 +2028,7 @@ Docker
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
   * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
   * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
+  * [Integrating Telepresence with Docker Desktop: Tales from the Docker Extensions Avant-Garde - YouTube](https://www.youtube.com/watch?v=gda_5P39_Ag)
 * [Traefik Proxy Documentation - Traefik](https://doc.traefik.io/traefik/)
   * [K8s에서 Traefik으로 gRPC 로드 밸런싱하기](https://blog.annotation-ai.com/grpc-loadbalancing-in-k8s/)
     * [gRPC Load Balancing on Kubernetes without Tears | Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/)
