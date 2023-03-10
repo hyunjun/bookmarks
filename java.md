@@ -2099,6 +2099,7 @@ Java
 * [Java TDD 실습](https://www.youtube.com/playlist?list=PLbdtsbZUwdeRirBYnWrMSvKYS4CcmXCeU)
 * [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-테스트-코드-작성에-대한-나름의-고찰)
 * [Spring RestTemplate Mock 기반 테스트 하기](https://www.popit.kr/spring-resttemplate-mock-%EA%B8%B0%EB%B0%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
+* [RestTemplate은 스프링에서 제거되나요? - YouTube](https://www.youtube.com/watch?v=S4W3cJOuLrU)
 * [**xUnit 테스팅 프레임워크를 TDD로 만들어보자**](https://www.youtube.com/watch?v=tdKFZcZSJmg) Toby. java 실습. 매우 좋음
 * [Reverse Polish notation is easy with test-driven development](https://medium.com/@alonso.delarte/reverse-polish-notation-is-easy-with-test-driven-development-670dfc7bb47c)
 * [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
