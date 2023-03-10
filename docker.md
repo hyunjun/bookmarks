@@ -1336,6 +1336,8 @@ Docker
 * [DevOps Tutorials | How to List All Containers in a Pod in Kubernetes Cluster and Nodes. - YouTube](https://www.youtube.com/watch?v=XKuV-nXO6XA)
 * [Kubernetes Pod Creation - What happen when we are create a pod?](https://foxutech.com/kubernetes-pod-creation/)
 * [k8s 서비스 품질 관리 (QoS) 도입으로 Pod 리소스 관리하기 | by Ryan Kim | Medium](https://equus3144.medium.com/k8s-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-qos-%EB%8F%84%EC%9E%85%EC%9C%BC%EB%A1%9C-pod-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-36a4cab9e385)
+* [Kubernetes Pod Graceful Shutdown - How? - FoxuTech](https://foxutech.com/kubernetes-pod-graceful-shutdown-how/)
+* [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 * [How does Kubernetes assign QoS class to pods through OOM score?](https://cloudyuga.guru/hands_on_lab/k8s-qos-oomkilled)
   * Kubernetes에서 메모리가 부족한 경우 OOMKilled로 죽게 되는데 이는 리눅스 커널에서 OOM Killer가 시스템에 영향이 적도록 가장 적은 수의 프로세스를 죽여서 최대한의 메모리를 가져오도록 죽일 프로세스를 선택
   * 이를 위해 `oom_score`를 사용하는데 `oom_score_adj`로 이 값을 조정할 수 있으므로 Kubernetes도 `oom_score_adj` 사용
@@ -1571,7 +1573,6 @@ Docker
     * 각 Vitess 오퍼레이터 등에서 각자 구현하고 있다고 함
   * 글 자체는 자사 제품을 홍보하는 느낌
 * [Statefulsets | Deploying MongoDB cluster to Kubernetes - YouTube](https://www.youtube.com/watch?v=eUa-IDPGL-Q)
-* [Kubernetes Pod Graceful Shutdown - How? - FoxuTech](https://foxutech.com/kubernetes-pod-graceful-shutdown-how/)
 * [kubeadm으로 클러스터 구성하기 | Kubernetes](https://kubernetes.io/ko/docs/setup/production-environment/tools/kubeadm/)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
 * [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
