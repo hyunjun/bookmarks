@@ -1506,6 +1506,7 @@ Python
 * zipfile
   * [파이썬을 사용해 한글 파일명을 포함한 ZIP 파일 압축 해제 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8947142043)
   * [Day 82 : Unzip Files using Python - YouTube](https://www.youtube.com/watch?v=CFFI5cEtopc)
+  * [Using Python's zipfile to Work With Existing Zip files - YouTube](https://www.youtube.com/watch?v=vj7h7mhBqWo)
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
