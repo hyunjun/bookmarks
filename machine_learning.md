@@ -1371,6 +1371,7 @@ Machine Learning
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 - 1 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-1/)
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 – 2 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-2/)
   * [코드로 이해하는 BentoML](https://blog.lbox.kr/model-serving-bentoml)
+  * [Sean Sheng - Building an ML Application Platform from the Ground Up | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5Uoatnx387E)
 * Flyte
   * [ML Pipeline에 Flyte 도입하기. ML 오픈 소스의 망망대해 항해하며, ML Pipeline 구성해… | by Ryan Kim | Jun, 2022 | Medium](https://equus3144.medium.com/ml-pipeline%EC%97%90-flyte-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-1c85528df470)
   * [Flyte MLOps Pipeline 특징 정리. Kubeflow, Airflow와 비교해보는 Flyte 특징 분석과… | by Ryan Kim | Medium](https://equus3144.medium.com/flyte-mlops-pipeline-%ED%8A%B9%EC%A7%95-%EC%A0%95%EB%A6%AC-7b871eb51a40)
