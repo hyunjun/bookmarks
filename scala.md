@@ -734,6 +734,8 @@ Scala
     * [Singleton types and case class fields - `F[_]` around and find out #1 - YouTube](https://www.youtube.com/watch?v=xeB6-js0iNw)
     * [Smart constructors for case classes | 47 Degrees](https://www.47deg.com/blog/smart-constructors-in-scala/)
     * [Article: Effective Scala Case Class Patterns - The guide I wished I had read years ago when starting my Scala journey](https://gist.github.com/chaotic3quilibrium/58e78a2e21ce43bfe0042bbfbb93e7dc)
+    * [diffx: Pretty diffs for scala case classes](https://github.com/softwaremill/diffx)
+      * [Scala case class comparison using diffx](https://yadukrishnan.live/comparing-case-class-instances-using-diffx)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
@@ -1143,6 +1145,7 @@ Scala
       * [Zymposium - ZIO Streams Part 3 (Streaming Sandwiches) - YouTube](https://www.youtube.com/watch?v=SGr7mQ15-Pw)
       * [Zymposium - ZIO Streams - Final Part (Fan In/Fan Out) - YouTube](https://www.youtube.com/watch?v=3EO0yVf63xI)
       * [ZIO Streams And Your Business Logic by Samson Kamau Muiruri - YouTube](https://www.youtube.com/watch?v=icD6I33EMNg)
+      * [ZIO Streaming Applications, Transformation, and Error Handling - Knoldus Blogs](https://blog.knoldus.com/zio-streaming-applications-transformation-and-error-handling/)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
       * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
@@ -2483,6 +2486,7 @@ Scala
   * [Type-Level Programming in Scala 3: How to Prove Type Relationships at Compile Time - YouTube](https://www.youtube.com/watch?v=zxft2cVuXmw)
 * [Type-Level Programming in Scala 3, Part 2: A Quicksort on Types - Rock the JVM Blog](https://blog.rockthejvm.com/type-level-quicksort/)
   * [Type-Level Programming in Scala, Part 2: A Type-Level Quicksort - YouTube](https://www.youtube.com/watch?v=TUukgQbVa9M)
+* [Type-Level Programming in Scala: A Hardcore Tic-Tac-Toe - YouTube](https://www.youtube.com/watch?app=desktop&v=sqTtZ3BQnRQ)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
