@@ -1686,6 +1686,7 @@ AWS
 * [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
 * [AWS Serverless Order Processing System using Lambda, SNS and SQS (Simple Queue Service) - YouTube](https://www.youtube.com/watch?v=nKlaaHlE3tk)
 * [메시징서비스 비교 : Kinesis, SQS, SNS | by Jaemun Jung | Medium](https://jaemunbro.medium.com/aws-%EB%A9%94%EC%8B%9C%EC%A7%95%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90-kinesis-sqs-sns-ab397a07cb1d)
+* [**How to Choose the Right Messaging Service for Your Workload • Yan Cui • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=8t3IwAMkvxA)
 
 ## Messaging service Kinesis
 * [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
