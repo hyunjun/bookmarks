@@ -1955,6 +1955,7 @@ Programming
 * [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bff_webflux_coroutine/)
 * [Loosely-coupled 구현의 다양한 관점](https://brunch.co.kr/@graypool/513)
 * [loosely-coupled: 빠르게 재구성하는 힘](https://brunch.co.kr/@graypool/683)
+* [느슨한 결합(loosely coupled) 원칙을 활용한 소프트웨어 설계 | 요즘IT](https://yozm.wishket.com/magazine/detail/1926/)
 * [Loosely Coupled Lotteries & Cloudy Casinos: Nederlandse Loterij Case St. • Joris Kuipers • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PUqalWaZaXY)
 * [I Made Everything Loosely Coupled. Does My App Fall Apart? • Gregor Hohpe • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9a7eI6BlVc)
 * [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
