@@ -1407,7 +1407,6 @@ Web
 * [나만 몰랐던 Http Delete Method payload body 문제](http://blog.leekyoungil.com/?p=390)
 * [HTTP 메서드](https://www.zerocho.com/category/HTTP/post/5b3723477b58fc001b8f6385)
 * [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
-* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 * [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
@@ -1425,7 +1424,6 @@ Web
 * [아하 REST API 서버 개발 (14)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-14-3819ec9e90e9) sentry
 * [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
 * [RESTful API Boilerplate](https://github.com/kevink1103/restapi_project)
-* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://morioh.com/p/693a44872e02/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger)
 * [저기요, REST API는 데이터베이스가 아니에요](http://doublem.org/guys-rest-apis-are-not-databases)
 * [REST API -1 Service, Protocol(SOAP)](https://woolbro.tistory.com/9)
 * [REST API -2 REST, SOAP](https://woolbro.tistory.com/10)
@@ -1466,12 +1464,17 @@ Web
   * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
 * [Top 10 REST Interview Questions for Java and Spring Developers | by javinpaul | Javarevisited | Apr, 2022 | Medium](https://medium.com/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)
 * [Java Guides on Twitter: "Amazing REST API Design Cheat Sheet: https://t.co/vqLvNdMjLi" / Twitter](https://twitter.com/GuidesJava/status/1527257487115952128/photo/1)
-* [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
 * [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 * [REST API & RESTful Web Services Explained | Web Services Tutorial](https://morioh.com/p/dcfcf57aeb0d)
 * [How to Test a REST API with .NET and xUnit - Code Maze](https://code-maze.com/dotnet-test-rest-api-xunit/)
 * [Etag를 이용하여 더 나은 Restful API 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1772/)
 * [REST API Mistakes Every Junior Developer should Avoid | clean-code - YouTube](https://www.youtube.com/watch?v=JxeTegu4dD8)
+
+## Restful Javascript
+* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
+* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://morioh.com/p/693a44872e02/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger)
+* [REST is Dying. Get Rid of It.. TIGER: Advanced Easier Webservices You… | by Beau Beauchamp | JavaScript in Plain English](https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe)
+* [The Complete Guide To Building A REST API With Node, Express, TypeScript & MongoDB + Authentication - YouTube](https://www.youtube.com/watch?v=b8ZUb_Okxro)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
