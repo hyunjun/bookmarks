@@ -4236,6 +4236,7 @@ Python
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
   * [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
+  * [Sharing your Python App Across Platforms With BeeWare | Real Python Podcast #148 - YouTube](https://www.youtube.com/watch?v=t8_f5DMC3Vw)
   * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [Eric - a full featured Python editor and IDE, written in Python](https://eric-ide.python-projects.org)
 * PyCharm
