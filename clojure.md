@@ -536,6 +536,7 @@ Clojure
 * [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com ](https://github.com/clojure-cookbook/clojure-cookbook)
   * [clojure-cookbook: This is the home of O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure](https://clojure-book.gitlab.io/book.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [Clojure in Action, Second Edition](https://www.manning.com/books/clojure-in-action-second-edition)
 * [The Joy of Clojure](http://www.joyofclojure.com/)
