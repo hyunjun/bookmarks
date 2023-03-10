@@ -1681,6 +1681,7 @@ Javascript
 * [How to write your own state management library · Jude Hunter](https://judehunter.dev/blog/how-to-write-your-own-state-management-library)
   * [(번역) 자신만의 상태 관리 라이브러리를 작성하는 방법](https://velog.io/@lky5697/how-to-write-your-own-state-management-library)
 * [These frameworks broke front-end development - YouTube](https://www.youtube.com/watch?v=I2NzfOOI7xY) svelte, qwik city, solid start
+* [“나만 알고 싶은” 자바스크립트 프로젝트 7선 - ITWorld Korea](https://www.itworld.co.kr/news/280663) Tauri tRPC Bun.js Civet Tabby Pixi.js PM2
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
