@@ -734,6 +734,7 @@ NLP
   * [ChatGPT가 촉발한 초거대 AI시대 우리의 대응 전략｜하정우 NAVER AI Lab 연구소장｜제309회 스마트포럼 - YouTube](https://www.youtube.com/watch?v=ceLCB1PRRVE)
   * [ChatGPT: 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
   * [ChatGPT API Python 사용법 (feat.DALL-E, Karlo) - 정우일 블로그](https://wooiljeong.github.io/python/chatgpt-api/)
+  * [ChatGPT API in Python - YouTube](https://www.youtube.com/watch?v=c-g6epk3fFE)
   * [폴 그레이엄 에세이 탐색기.ipynb - Colaboratory](https://colab.research.google.com/drive/185aHP5REKp0auqY86w0Ye59SzCJAjv_m?usp=sharing)
   * [AI와 목소리로 이야기를 나눠보자.ipynb - Colaboratory](https://colab.research.google.com/drive/1DO-5Xf0ko8XIkM_Gck94eCNxJHCWe-En?usp=sharing)
     * [Colab에서 Gradio + Whisper + ChatGPT + TTS는 크롬 브라우져의 speechSynthesis](https://www.facebook.com/seungjoon.choi/posts/pfbid02my3kb9McXr9MFyKYhBHZGXdwJxeMtx337CLEzk1uUD2XFRtoXHJjXFTDKmRUH8X5l)
