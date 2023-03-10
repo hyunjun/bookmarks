@@ -5469,6 +5469,7 @@ Programming
 * [Beyond A/B Testing: Primer on Causal Inference | by Wicaksono Wijono | Towards Data Science](https://towardsdatascience.com/beyond-a-b-testing-primer-on-causal-inference-d8e462d90a0b)
 * [Chapter 1. Motivation](https://pseudolabcausalinference.tistory.com/6)
 * [Using Causal ML Instead of A/B Testing | by Samuele Mazzanti | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/using-causal-ml-instead-of-a-b-testing-eeb1067d7fc0)
+* [Benjamin Vincent - What-if- Causal reasoning meets Bayesian Inference | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=gV6wzTk3o1U)
 * [Causal-Inference-with-Python: Causal Inference for The Brave and True 책의 한국어 번역 자료입니다](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)
 
 ## TDD, Test, Automation
