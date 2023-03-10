@@ -880,6 +880,7 @@ Programming
   * [Agility is Inefficient • Klaus Bucka-Lassen & Dirk Bucka-Lassen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BvydomrrdyQ)
 * [Once Upon a Time in Agile • John Le Drew • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=QIzWwcN-1c8)
 * [How to Get Rid of Your Fears • Erwin de Gier • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X5kkuMbiHoU)
+* [Be Agile, Be DevOps, be well • Tomasz Manugiewicz • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=xzYrzphZEIg)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -1769,6 +1770,8 @@ Programming
 * [EDA in Practice: Building an eCommerce Platform at Cinch • Emily Shea & Toli Apostolidis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=wM-dTroS0FA)
 * [Emily Shea | How Event-Driven Architectures Accelerate Time to Market | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=hVWD4xkRAbQ)
 * [Event Design & Event-first Development • David Boyne • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=GBzr48Mj2JU)
+* [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=jrbWIS7BH70)
+* [Opportunities and Pitfalls of Event-driven Utopia - YouTube](https://www.youtube.com/watch?v=jjYAZ0DPLNM)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -2164,7 +2167,9 @@ Programming
 * [전략적인 마이크로 서비스 채택 방안](https://brunch.co.kr/@graypool/804)
 * [Should Each Microservice Have Its Own Database? by Dmitry Belyaev - YouTube](https://www.youtube.com/watch?v=A62GpUmO9q0)
 * [Thinking Asynchronously: App Integration Patterns for Microservices • Rebekah Kulidzan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_ugRNuE9xmA)
+* [Not Just Events: Developing Asynchronous Microservices • Chris Richardson • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 * [마이크로서비스가 뭔데 유행임 - YouTube](https://www.youtube.com/watch?v=ZRpsB3ODr6M)
+* [Common problems in microservice architecture • Marcin Szymczak • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=eMJN_tmn1_o)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -3877,6 +3882,7 @@ Programming
 * [카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ – tech.kakao.com](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
 * [Redis vs Kafka vs RabbitMQ. When using asynchronous communication… | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec)
 * [Spoqa 기술 블로그 | 청구/수납 서비스 개발기](https://spoqa.github.io/2023/02/24/bill-payment-development-story.html)
+* [Building a Scalable Low Latency Messaging Platform for Equities Trading Business • Alexandra Tessari - YouTube](https://www.youtube.com/watch?v=eJYBnPCEnCA)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -5534,6 +5540,7 @@ Programming
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
   * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
   * [Spock Extension과 Elasticsearch + Kibana 조합으로 테스트 결과를 빠르게 피드백 받기](http://woowabros.github.io/experience/2019/12/16/quickly-get-feedback-on-your-test-with-spock-extension-and-es-kibana.html)
+  * [What you can expect from Spock 2.x? • Marcin Zajączkowski • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=-wYx2ekP_jc)
 
 # Troubleshooting, 장애 해결
 * Experiences
