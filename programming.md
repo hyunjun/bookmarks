@@ -4905,6 +4905,7 @@ Programming
 * [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
 * [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
 * [일본 1위 배달 앱, 바닥부터 다시 짠다 - Recode 프로젝트 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-demaecan-recode-project/)
+* [멀쩡한 앱을 Flutter 앱으로 다시 짠 이유 - 일본 1위 배달 앱, 두 번째 Recode](https://engineering.linecorp.com/ko/blog/demaecan-2nd-recode-kmm-to-flutter)
 * [Spoqa 기술 블로그 | 도도카트 안드로이드 앱 개선 여정](https://spoqa.github.io/2022/04/30/android-refactoring.html)
 * [What is Refactoring? - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/what-is-refactoring)
 * [새로운 컬리몰 NX를 소개합니다. - 컬리 기술 블로그](https://helloworld.kurly.com/blog/introduction_new_kurlymall_web/)
