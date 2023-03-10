@@ -3739,6 +3739,7 @@ Programming Books
   * [python-marketing-research-1ed](https://github.com/python-marketing-research/python-marketing-research-1ed)
   * [Google Colab](https://colab.research.google.com/github/python-marketing-research/python-marketing-research-1ed)
   * [python-for-marketing: 파이썬으로 하는 마케팅 연구와 분석](https://github.com/AcornPublishing/python-for-marketing)
+* (NOT YET) [몬테카를로 시뮬레이션으로 배우는 확률통계 with 파이썬](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312162201)
 
 # Streaming
 * (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책
