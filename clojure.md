@@ -422,6 +422,7 @@ Clojure
 * ["Simple Made Easy" - Rich Hickey (2011) - YouTube](https://www.youtube.com/watch?v=SxdOUGdseq4)
   * [**Simple Made Easy**](https://muchtrans.com/translations/simple-made-easy.ko.html) Rich Hickey
   * [Simple Made Easy](https://velog.io/@joosing/Simple-Made-Easy-%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%9D%BD%EA%B3%A0)
+* [Using Javascript libraries from Clojure](https://biffweb.com/p/js-from-clj/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1056,6 +1057,7 @@ Clojure
   * [Strange Loop Chat with Joel Holdbrooks about Meander - YouTube](https://www.youtube.com/watch?v=VeHhpINDCjg)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [membrane: A platform agnostic clojure(script) library for creating user interfaces](https://github.com/phronmophobic/membrane)
+* [minimax: Minimalist 3D game engine in Clojure](https://github.com/roman01la/minimax)
 * [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
   * [(mcorbin.fr): Mirabelle, a new stream processing engine for monitoring](https://mcorbin.fr/posts/2021-03-01-mirabelle-stream-processing/)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
@@ -1126,6 +1128,7 @@ Clojure
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [re-find: Find functions by matching specs](https://github.com/borkdude/re-find)
 * [reflet: Tools for building Re-frame + React based web apps with graph and non-graph data models](https://github.com/zalky/reflet)
+* [relic: Functional relational programming for Clojure(Script)](https://github.com/wotbrew/relic)
 * [replikativ An open, scalable and distributive infrastructure for a data-driven community of applications](http://replikativ.io/)
   * [github.com/replikativ](https://github.com/replikativ)
   * [Replikativ](https://www.slideshare.net/SangKyuPark1/replikativ/1)
