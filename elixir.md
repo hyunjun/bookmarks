@@ -92,6 +92,7 @@ Elixir
 * [Elixir: The Documentary - YouTube](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 * [Doing things only once in Elixir - DEV Community](https://dev.to/palm86/doing-things-only-once-in-elixir-4hdg)
 * [What does AI dream about? Stable Diffusion in Elixir | Curiosum](https://curiosum.com/blog/what-does-ai-dream-about-stable-diffusion-in-elixir)
+* [Embedded and cloud Elixir for grid-management at Sparkmeter - The Elixir programming language](https://elixir-lang.org/blog/2023/03/09/embedded-and-cloud-elixir-at-sparkmeter/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
