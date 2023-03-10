@@ -744,6 +744,7 @@ Data Science
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [hamilton: A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc](https://github.com/stitchfix/hamilton)
   * [Elijah ben Izzy- Scalable Feature Engineering with Hamilton | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=ifC4puHZjL8)
+  * [Elijah ben Izzy & Stefan Krawczyk - Scalable Feature Engineering with Hamilton | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=oQLEkjUNq0U)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * Kedro [Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro - YouTube](https://www.youtube.com/watch?v=4sCpfCiJLgs)
 * [Mandrova: Sensor Data Generator for Python3](https://github.com/makinarocks/Mandrova)
