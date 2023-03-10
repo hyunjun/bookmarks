@@ -1565,6 +1565,7 @@ Javascript
   * [아폴로를 이용한 그래프 큐엘 서버 구현](https://medium.com/graphql-seoul/번역-아폴로를-이용한-그래프-큐엘-서버-구현-70f5ae6d1ee6)
   * [Why use GraphQL? - Apollo Blog](https://www.apollographql.com/blog/why-use-graphql/)
   * [BEYOND STATIC GATSBY + APOLLO FOR FULLY DYNAMIC APPS](https://jlengstorf.github.io/presentations/beyond-static/)
+  * [Consume a GraphQL API from React with Apollo Client | by Elio Cortes | Mar, 2023 | Medium](https://medium.com/@ElioCortes/graphql-is-an-open-source-api-standard-created-by-facebook-from-the-need-to-solve-many-technical-15a1eaeba203)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [Prisma - replaces traditional ORMs](https://www.prisma.io/)
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
