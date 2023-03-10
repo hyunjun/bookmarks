@@ -66,7 +66,7 @@ Json
 * [Using JSON schema with statically typed object-oriented languages — Illustrated in Kotlin | by Martin Devillers | Aug, 2022 | Medium](https://medium.com/@martin.devillers/using-json-schema-with-statically-typed-object-oriented-languages-illustrated-in-kotlin-cb2cd34244f5)
 
 # Java
-  * [3 Examples to parse JSON in Java using Jackson, Gson, and json-simple](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html#axzz7OtRG48iP)
+* [3 Examples to parse JSON in Java using Jackson, Gson, and json-simple](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html#axzz7OtRG48iP)
 * json to java class
   * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
   * [jsongen.byingtondesign.com](http://jsongen.byingtondesign.com/)
@@ -86,6 +86,17 @@ Json
   * [안드로이드 Json파싱해보기!](http://www.feelteller.com/8)
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
   * [9. JAVA - GSON을 이용하여 JAVA <-> JSON 직렬화 및 역직렬화](https://kim-jong-hyun.tistory.com/61)
+* Jackson
+  * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
+  * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
+  * [Customize your Java-JSON serialization using Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
+  * [JAVA Jackson을 쓰며 겪었던 문제](https://velog.io/@juunini/JAVA-Jackson%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
+  * [Jackson : JSON Selective serialize/deserialize object properties | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/jackson-json-selective-serialize-deserialize-object-properties-6d86c25a2d68)
+  * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
+  * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
+  * [Jackson에서 Boolean 직렬화 시 is가 사라지는 문제 — 맥스의 개발 끄적끄적](https://maxjang.com/7)
+  * [Jackson Deserializer 코드 분석해보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/martin_dev_honey_tip_1/)
+  * [jackson-module-scala overview and new scala 3 reflection helper | by PJ Fanning | Mar, 2022 | Medium](https://medium.com/@pjfanning/jackson-module-scala-overview-and-new-scala-3-reflection-helper-b824be8221f7)
 * [json-den-java: JSON parser and stringifier library](https://github.com/hyunikn/json-den-java)
 * [kson - A Java serialization/deserialization library to convert Java Objects into json and back, faster and powerful then Gson](https://github.com/realtimetech-solution/kson)
 
@@ -188,16 +199,6 @@ Json
 * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
 * [GEOJSON](http://geojson.org/)
 * [fx - Command-line tool and terminal JSON viewer http://fx.wtf ](https://github.com/antonmedv/fx)
-* Jackson
-  * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
-  * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
-  * [Customize your Java-JSON serialization using Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
-  * [JAVA Jackson을 쓰며 겪었던 문제](https://velog.io/@juunini/JAVA-Jackson%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
-  * [Jackson : JSON Selective serialize/deserialize object properties | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/jackson-json-selective-serialize-deserialize-object-properties-6d86c25a2d68)
-  * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
-  * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
-  * [Jackson에서 Boolean 직렬화 시 is가 사라지는 문제 — 맥스의 개발 끄적끄적](https://maxjang.com/7)
-  * [jackson-module-scala overview and new scala 3 reflection helper | by PJ Fanning | Mar, 2022 | Medium](https://medium.com/@pjfanning/jackson-module-scala-overview-and-new-scala-3-reflection-helper-b824be8221f7)
 * [Jasonette - Native App over HTTP](https://jasonette.com/)
   * [Jasontte - JSON으로 네이티브 앱 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6652)
 * [jc: CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts](https://github.com/kellyjonbrazil/jc)
