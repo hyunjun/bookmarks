@@ -658,6 +658,7 @@ Business
 * [전략과 원칙의 의미와 활용](https://brunch.co.kr/@graypool/706)
 * [목적은 믿음의 차이를 극복하는 개념](https://brunch.co.kr/@graypool/718)
 * [성장시키며 성과내는 것이 인재경영ㅣ인터비즈 : 네이버 블로그](https://blog.naver.com/businessinsight/222864920495)
+* [위기에 인력 구조조정을 하지 않는 회사, 어떻게 만들 수 있을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nolayoff20230309) 인재 경영을 통한 건강한 조직 만들기
 * [A Bad System Will Beat a Good Person Every Time - The W. Edwards Deming Institute](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
 * [VIRTU](https://carpedm30.notion.site/VIRTU-5370f00be3494678ba8eb128b0806f69)
 * ["40분 지나면 버려진다"…회전초밥집 초밥의 비밀 정영효의 인사이드 재팬](https://v.daum.net/v/20230122083902406) 기술 자체가 중요하지 않다, 회사의 목적을 생각하고 그에 부함하는 걸 선택해서 사용하는 게 중요
@@ -948,6 +949,7 @@ Business
 * [등급이라는 후광이 착시를 일으킨다! - YouTube](https://www.youtube.com/watch?v=IDvW4Ul1aHI)
 * [The rise and fall of peer review - by Adam Mastroianni](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
   * [The rise and fall of peer review 대략 정리](https://www.facebook.com/parkism/posts/pfbid02oZ57xKyJBgueB6x8k5wcSfHasDgxMa1u7tiZ1oDK8xYddUXDnjaibN7vFUnumZwDl)
+* [토스를 둘러싼 숱한 논란들, 무엇이 진실일까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/tossrumor20230310)
 
 # CBO
 * [마크의 슬기로운 직장생활 7개월 단명한 스타트업 C레벨 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/11/16/startup-cbo/)
@@ -1676,6 +1678,7 @@ Business
 * [What Leaders Can Learn from Artificial Birds - NOBL Academy](https://academy.nobl.io/2016-leaders-boids-flocks/)
 * [9 Powerful Ways To Align Engineering And Product Teams](https://www.cloudzero.com/blog/engineering-and-product-alignment)
 * [스타트업은 왜 후드티를 입을까: 성공하는 리더의 메타인지(1)](https://eopla.net/magazines/2801)
+* [위대한 리더의 차별점과 4가지 종류의 창의성 기르기](https://brunch.co.kr/@graypool/852)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -2406,6 +2409,7 @@ Business
 * [플랫폼 디자이너가 효율을 만들어내는 법](https://toss.tech/article/how-platform-designer-make-effectiveness)
 * [토스 디자인 원칙, Easy to answer](https://toss.tech/article/insurance-claim-process)
 * [우리에게 당연하지만 사용자는 아닌 것들](https://toss.tech/article/thinking-user-perspective)
+* [디자이너가 새로운 도메인을 빠르게 학습하는 법](https://toss.tech/article/how-to-learn-new-domain)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
