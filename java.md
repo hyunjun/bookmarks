@@ -124,6 +124,7 @@ Java
 * [21 Tech Skills Java Developers Can Learn in 2021](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [SARO](https://saro.me/)
 * [Ahead of Time Compilation (AoT) | Baeldung](https://www.baeldung.com/ahead-of-time-compilation)
+* [AOT or JIT: Faster Startup or Faster Code • Simon Ritter • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=SePZW9U0nBc)
 * [프로그래밍 초식 : 사소한 개선 - 섞여 있는 계산 로직 분리 - YouTube](https://www.youtube.com/watch?v=gd9aeUywGcM)
 * [테크톡 당신의 코드는 POJO하신가요? - YouTube](https://www.youtube.com/watch?v=5NcqgXgmmjg)
 * [프로그램 초식(취향?): 쿼리에서 로직 빼기 - YouTube](https://www.youtube.com/watch?v=fnH_SR3n9Ew)
@@ -837,6 +838,7 @@ Java
 * [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
 * [Java records & compact constructors](https://mikemybytes.com/2022/02/16/java-records-and-compact-constructors/)
 * [Why Java's Records Are Better\* Than Lombok's @Data and Kotlin's Data Classes // nipafx](https://nipafx.dev/java-record-semantics/)
+* [Java Records for the Intrigued • Piotr Przybył • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=Ct-mjCmODzs)
 
 # Java15
 * [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
@@ -857,6 +859,7 @@ Java
   * [What's New in Java 16](https://www.infoq.com/articles/java-16-new-features/)
 * [자바 9 - 16 주요 특징 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/java-9-16-features)
 * [End of Year Learnings from Minecraft’s Migration to JDK 16 and Q&A with the Mojang Team](https://www.infoq.com/news/2021/12/minecrafts-jdk16-migration/)
+* [Sailing modern Java • Piotr Przybył • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=aiNn5a1OjoY)
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
@@ -1991,13 +1994,16 @@ Java
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
 * [Build Reactive Java Microservices with Spring Boot and JHipster - YouTube](https://www.youtube.com/watch?v=OKjgooXQEj4)
+* [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
+* [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
+* [Https with TLS and springboot | Microservices | Java Expert - YouTube](https://www.youtube.com/watch?v=wxehZYeRWSk)
+* [Decoupling Springboot Microservices Using Workflow Automation • Niall Deehan • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=YEvMs0YOUNw)
 * [Spring Boot | Reactive Programming Complete Tutorials for Beginners | JavaTechie - YouTube](https://www.youtube.com/watch?v=bXcFCgQsvAE)
 * [2.4 부터 변경된 구성파일 처리방식 살펴보기 - I'm honeymon(JiHeon Kim)](https://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 * [Spring Boot 2.2.0 : Quicker startup times with Lazy Initialization | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/spring-boot-2-2-0-quicker-startup-times-with-lazy-initialization-2db2eb258dea)
 * [스프링 배치 완벽 가이드 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765957)
 * [Spring boot - 설정파일로 AspectJ PointCut 지정하기](https://blog.naver.com/tmondev/222558216450)
 * [Documenting a SpringBoot REST API with OpenAPI 3 | CODER SITE for developers](https://codersite.dev/documenting-rest-api-openapi3/)
-* [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
 * [SpringBoot의 Validation을 사용 해 보자 | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-validation/)
 * [Spring Boot 2.4 이상 환경에서 Spring Cloud AWS 적용하기 (feat. AWS Parameter Store)](https://kim-jong-hyun.tistory.com/120)
 * [How to make RESTful Web Services using Spring Boot and Java - Example Tutorial](https://javarevisited.blogspot.com/2022/02/spring-boot-restful-web-service-example-tutorial.html)
@@ -2005,13 +2011,11 @@ Java
 * [How to log SQL statements in Spring Boot? Example Tutorial](https://javarevisited.blogspot.com/2022/02/how-to-log-sql-statements-in-spring.html)
 * [SpringBoot 예외처리하기 - Exception Handling | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-exception-handling-basic/)
 * [A Quick Guide to Elasticsearch with Spring Data and Spring Boot | Okta Developer](https://developer.okta.com/blog/2022/02/16/spring-data-elasticsearch)
-* [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
 * [Full Stack Application with Spring Boot, Next.js, Tailwind CSS & Next-Auth.js](https://morioh.com/p/827c8f265270)
 * [Springboot 통합 테스트로 불안한 리팩토링에서 벗어나기](https://coco-log.tistory.com/196)
 * [스프링 부트 3.0 을 맞이하는 개발자의 자세 - Google Slides](https://docs.google.com/presentation/d/1Vezn8gZXDdb7I1OeDMHR_j0e04ip0DOBuju2IXcfO7o/edit)
   * [스프링 부트 3.0 을 맞이하는 개발자의 자세 - Google Slides](https://docs.google.com/presentation/d/1zTLfx5RQeIxLshGmQjm3UD1eF4WO9GRjZ66sALKveh8/edit)
 * [Spring Boot 3.x 실행이 안될 경우 (feat. IntelliJ)](https://jojoldu.tistory.com/698)
-* [Https with TLS and springboot | Microservices | Java Expert - YouTube](https://www.youtube.com/watch?v=wxehZYeRWSk)
 * [스프링 부트를 제거해서 생긴 일](https://yeonyeon.tistory.com/296)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
