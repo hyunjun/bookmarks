@@ -118,6 +118,7 @@ Programming
     * 하지만 앞의 3가지를 끝내지 않은 상태에서 생산 속도를 밀어붙여선 안된다. 그렇지 않으면 자기 무덤을 더 빠르게 파는 것이나 마찬가지다.
   5. 자동화해라
   * 순서가 중요. 거꾸로 적용하면 안됨
+* [First Principles: Elon Musk on the Power of Thinking for Yourself](https://jamesclear.com/first-principles)
 * [잘 만든 시스템 하나로 미친 효율 얻는 방법](https://toss.tech/article/how-to-make-marvelous-productivity-with-well-made-system)
 * [현실 세계의 속성에 의존하지 않기](https://jojoldu.tistory.com/672) 설계 design
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
