@@ -2275,6 +2275,7 @@ Python
 * [ORM으로 Aggregation 함수와 Group by 사용](https://brownbears.tistory.com/376)
 * [반드시 알아야 할 5가지ORM 쿼리](https://medium.com/@chrisjune_13837/django-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-orm-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%8B%AC%ED%99%94-592a6017b5f5)
 * [Django ORM (QuerySet)구조와 원리 그리고 최적화전략 - 김성렬 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=EZgLfDrUlrk)
+* [Django ORM에 FastAPI를 얹어보자](https://velog.io/@juunini/Django-ORM%EC%97%90-FastAPI%EB%A5%BC-%EC%96%B9%EC%96%B4%EB%B3%B4%EC%9E%90)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
