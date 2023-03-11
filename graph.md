@@ -331,6 +331,7 @@ Graph
   * [Weighted graphs using NetworkX](https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/)
   * [Little Ball of Fur - A NetworkX extension library for graph sampling](https://github.com/benedekrozemberczki/littleballoffur)
   * [Ordering Movie Credits With Graph Theory](https://endcrawl.com/credits-ordering/)
+  * [Dina Bavli - Everybody Is an Influencer–Which Influencer Are You | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=3l9gFVVc_g0)
 
 # Paper
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
