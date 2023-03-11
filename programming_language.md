@@ -307,6 +307,7 @@ Programming Language
   * [Elm Radio: Comparing TypeScript and Elm's Type Systems on Apple Podcasts](https://podcasts.apple.com/us/podcast/elm-radio/id1506220473?i=1000539639056)
   * [Millions of Users, Purely Functional Code - YouTube](https://www.youtube.com/watch?v=bpBeRnyqaIQ)
   * [프론트엔드 특화 함수형 프로그래밍 언어 Elm 가이드 3시간만에 다 배우기 - YouTube](https://www.youtube.com/watch?v=5eaH-lxKUZA)
+  * [Loïc Knuchel - Elm, un langage simple et purement fonctionnel pour le front end - YouTube](https://www.youtube.com/watch?v=O_eDxCSwUUU)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [erg: A statically typed language that can deeply improve the Python ecosystem](https://github.com/erg-lang/erg)
