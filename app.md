@@ -109,6 +109,7 @@ App
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
+* listusb [macOS 사용자들을 위한 listusb (lsusb 와 비슷) : 클리앙](https://www.clien.net/service/board/pds/17956235)
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
