@@ -203,6 +203,7 @@ Functional Programming
 * [**어떻게 하면 안전하게 함수를 합성할 수 있을까?**](https://evan-moon.github.io/2020/01/27/safety-function-composition/)
 * [Understanding Functor and Monad With a Bag of Peanuts](https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e)
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [Nicolas Rinaudo - Function reuse is just wishful thinking - YouTube](https://www.youtube.com/watch?v=2ReMkP8QrSo)
 
 # Go
 * [sum type 대신](https://medium.com/@jooyunghan/go-sum-type-%EB%8C%80%EC%8B%A0-b9efdb47442e)
