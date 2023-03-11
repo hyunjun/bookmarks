@@ -586,6 +586,15 @@ Book
 * [심정섭의 대한민국 학군지도](https://blog.naver.com/wh11111/221321364723)
   * ★★★☆☆ 2023.02.11
   * 한라 327.87-심74심
+* (NOT COMPLETED) [IB로 그리는 미래교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289174142)
+  * 2023.03.12 교육 전문가용 책이라 일반인이 참고할만한 내용은 없음
+  * 우당 문376.9-조94ㅇ
+* (NOT COMPLETED) [국제바칼로레아 도입과 실행](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=232256073)
+  * 2023.03.12 기본적으로 교육 전문가용 책인데다가, 일본책 번역서라 한국 실정과 좀 안 맞기도 함. 졸업생 사례는 약간 참고할만함
+  * 우당 문376.9-이59ㄱ
+* (NOT COMPLETED) [세상의 모든 국제학교](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=255023796)
+  * 2023.03.12 혹시나 했지만 완전히 국제학교 진학용이라 내가 찾던 IB 관련 내용하고는 거의 무관
+  * 탐라 문376.9-이67ㅅ 우당 문376.9-이67ㅅ
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
@@ -593,8 +602,6 @@ Book
 * (NOT YET) [양육가설, 주디스 리치 해리스 저, 최수근 옮김, 이김](https://brunch.co.kr/@aboutheman/287)
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
-* (NOT YET) [IB로 그리는 미래교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289174142)
-  * 우당 문376.9-조94ㅇ
 * (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
   * 한라
 
