@@ -687,6 +687,7 @@ App
   * [Nix Flake for Scala - a Nix Introduction, Overview and Demo - YouTube](https://www.youtube.com/watch?v=HnoP7JZn2MQ)
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
   * [Zero to Nix](https://zero-to-nix.com/)
+  * [Pierre Dal-Pra - Nix: FP for your packages and deployments - YouTube](https://www.youtube.com/watch?v=ybRRBdbJiAg)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
