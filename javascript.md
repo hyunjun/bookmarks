@@ -2088,6 +2088,7 @@ Javascript
   * [Why NestJS is The Best Node.js Framework for Microservices? | by Mohammad Yaser Ahmadi | Sep, 2022 | Medium](https://myas92.medium.com/why-nestjs-is-the-best-node-js-framework-for-microservices-3e56b65e0cda)
   * [프로젝트 구조설계 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222952237465)
   * [class-validator와 class-transformer](https://blog.naver.com/pjt3591oo/223020508742)
+  * [NestJS React Native Chat - YouTube](https://www.youtube.com/watch?v=-rypo4K8xjI)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
