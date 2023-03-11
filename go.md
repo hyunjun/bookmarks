@@ -151,6 +151,7 @@ Go
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
 * [Go에서 애플리케이션 설계하기](https://mingrammer.com/translation-structuring-applications-in-go)
+* [Best Way To Structuring Golang Code | by Aris Haryanto | Medium](https://arisharyanto.medium.com/best-way-to-structuring-golang-code-6e619e70ce38)
 * [Golang으로 안전한 서비스 만들기](http://blog.remotty.com/blog/2015/08/15/golangeuro-anjeonhan-seobiseu-mandeulgi/)
 * [Modern garbage collection](https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e)
 * [A Guide to the Go Garbage Collector - The Go Programming Language](https://tip.golang.org/doc/gc-guide)
