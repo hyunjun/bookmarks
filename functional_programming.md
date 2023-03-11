@@ -160,6 +160,7 @@ Functional Programming
 * [Wolfram Physics Project: Relations to Category Theory](https://www.youtube.com/watch?v=0LAtNXo9rbE)
   * 스테판 울프럼이 온라인 세션으로 다른 물리학자들과 진행한 "Relations to Category Theory"
   * 4시간 가까이 이론 설명 및 토론 + 매스매티카로 예제 구현, 어려움
+* [Daniel Beskin - Category Theory as a Tool for Thought - YouTube](https://www.youtube.com/watch?v=C1IGfRIjK5A)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
