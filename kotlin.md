@@ -206,6 +206,7 @@
 * [코틀린 꼬리 재귀 함수](https://www.roach-dev.com/kotlin_tailrec/)
 * [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
 * [Kotlin PBKDF2 Secure Password Hashing | Codersee](https://codersee.com/kotlin-pbkdf2-secure-password-hashing/)
+* [Kotlin Isn’t Null-Safe Yet. Here Are 3 Gotchas | by Sam Cooper | Mar, 2023 | Better Programming](https://betterprogramming.pub/kotlin-isnt-null-safe-yet-here-are-3-gotchas-23258fada62)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
