@@ -2636,6 +2636,9 @@ Programming Books
   * [피플 애널리틱스](https://github.com/hyunjun/bookmarks/blob/master/programming_books/people_analytics.md)
   * [피플 애널리틱스. Part 1 피플 애널리틱스 사례 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-156034096c93)
   * [피플 애널리틱스](https://jh4hj.tistory.com/entry/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4)
+* 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
+  * ★★★☆☆ 2023.03.12
+  * 한라 325.1-박74ㅊ 탐라 문325.1-박73ㅊ 우당 문325.1-박73ㅊ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2713,8 +2716,6 @@ Programming Books
   * 한라 325.5-오42ㅍ 탐라 문325.5-오41ㅍ 우당 문325.5-오41ㅍ
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
-* (NOT YET) 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
-  * 한라 325.1-박74ㅊ 탐라 문325.1-박73ㅊ 우당 문325.1-박73ㅊ
 * (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
   * 탐라
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
@@ -2873,7 +2874,7 @@ Programming Books
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
 * (NOT YET) [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
-  * 탐라
+  * 한라 325.24-이52ㅌ
 
 # Math
 
@@ -3671,7 +3672,7 @@ Programming Books
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
 * (NOT YET) [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
-  * 탐라
+  * 한라 005.1-유25ㅋ
 * (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
   * 우당
   * [**Expert Talk: Five Lines of Code • Christian Clausen & Julian Wood • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=DpDQn99BY0M)
