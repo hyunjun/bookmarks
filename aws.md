@@ -87,6 +87,7 @@ AWS
 * [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
 * [AWS Network Load Balancer의 Target 상태 및 옵션에 따른 NLB DNS 응답 방식](https://zigispace.net/1161)
 * [Automated AWS Load Balancer Warm-Up | by Luis Sena | Nov, 2021 | Medium](https://luis-sena.medium.com/automated-aws-load-balancer-warm-up-d0b4084c8bbc)
+* [AWS 로드 밸런서(Load Balancer) 적용하기](https://blog.naver.com/gi_balja/223039039664)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
