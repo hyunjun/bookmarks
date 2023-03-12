@@ -903,7 +903,6 @@ App
   * [How To Set Up VS Code for PHP Development with PHP Intelephense | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-visual-studio-code-for-php-projects)
   * [프리지아 랩 :: Visual Studio Code 터미널의 한글 출력 문제 해결하기](https://www.dokyun.pe.kr/273)
   * [Localhost에서 구글 로그인 웹 구현 - 이상선 - Medium](https://medium.com/@sunyi233/localhost%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9B%B9-%EA%B5%AC%ED%98%84-9c7a5879df61)
-  * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
   * [learn_vscode_shortcuts: Learn VSCode Shortcuts](https://github.com/nallwhy/learn_vscode_shortcuts)
   * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
@@ -965,6 +964,8 @@ App
     * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
     * [코드를 나 대신 읽고 써주는 Figstack | Disquiet\*](https://disquiet.io/@yeoularu/makerlog/611)
     * [Best VSCode extensions in 2023 - YouTube](https://www.youtube.com/watch?v=DNf6Bu7z4vw)
+    * [VS Code Extensions 추천 - 엘키의 주절 주절](https://elky84.github.io/2023/03/12/vscode_plugins/)
+    * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
   * Git
     * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
@@ -1602,6 +1603,7 @@ App
     * e.g. `/remind [receiver] "[msg]" Feb 20th 9AM every two weeks`
     * [How do I get slack to remind me every fortnight from next Saturday - Stack Overflow](https://stackoverflow.com/questions/43288503/how-do-i-get-slack-to-remind-me-every-fortnight-from-next-saturday)
   * [슬랙봇 이모티콘 제작소 개발 그 뒷이야기!! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/lily-slack-emojibot/)
+  * [How to use GPT3 on Slack? | 슬랙에서 GPT3 사용? 노코드로 만들기! - YouTube](https://www.youtube.com/watch?v=EGFEH2qGGQs)
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
 * [Zulip](https://zulip.com/)
