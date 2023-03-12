@@ -740,6 +740,7 @@ NLP
     * [Colab에서 Gradio + Whisper + ChatGPT + TTS는 크롬 브라우져의 speechSynthesis](https://www.facebook.com/seungjoon.choi/posts/pfbid02my3kb9McXr9MFyKYhBHZGXdwJxeMtx337CLEzk1uUD2XFRtoXHJjXFTDKmRUH8X5l)
   * [ChatGPT 업무효율화 가이드 | Pega Devlog](https://jehyunlee.github.io/2023/02/15/Python-General-16-chatgpt/)
   * [How to learn to code FAST using ChatGPT (it's a game changer seriously) - YouTube](https://www.youtube.com/watch?v=VznoKyh6AXs)
+  * [당장 사용 가능한 ChatGPT API 활용팁 모음! - YouTube](https://www.youtube.com/watch?v=n_8XhAD9G8g)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
