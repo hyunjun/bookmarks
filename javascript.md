@@ -911,6 +911,7 @@ Javascript
   * [Kent C. Dodds’ .filter() Trick Will Change How You Use JavaScript | by Dr. Derek Austin 🥳 | Coding at Dawn | Jun, 2021 | Medium](https://medium.com/coding-at-dawn/kent-c-dodds-filter-trick-will-change-how-you-use-javascript-87b5112f9f6d)
     * 유명한 JavaScript 개발자인 Kent C. Dodds가 JavaScript의 배열에서 filter(Boolean)으로 배열에서 falsy 값을 제거하는 팁 설명
     * 조건별로 배열에 넣는 작업을 하는 경우 유용한 팁
+  * [6 different ways to use the .filter () method of arrays in Javascript/Typescript | by Victor Valencia Rico | Mar, 2023 | Medium](https://medium.com/@victor.valencia.rico/6-different-ways-to-use-the-filter-method-of-arrays-in-javascript-typescript-19723ed879d8)
   * [나 배열 아니다 : Javascript Array](https://www.jiwon.me/im-not-array/)
   * [자바스크립트 | Array.forEach 구현해보기 - YouTube](https://www.youtube.com/watch?v=Tw-xyPr8wqw)
 * console.log
