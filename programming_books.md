@@ -323,7 +323,9 @@ Programming Books
 
 # Agile Scrum
 
-* [(성공적인 애자일 도입을 위한) 에센셜 스크럼](2017-5-2-essential-scrum.md)
+* [(성공적인 애자일 도입을 위한) 에센셜 스크럼](https://jpub.tistory.com/630)
+  * 2017.05.02 [Review of Essential Scrum – j – developer](https://hyunjun.github.io/essential-scrum/)
+  * ★★★★☆ 2023.03.8~12 오랜만의 정독, 전체적인 조망과 함께 빠뜨렸던/잊었던 부분을 다시 인식하게 된 점이 소득
   * 한라 005.1-루48ㅇ
 * [**카이젠 저니: 나와 팀이 함께 자라는 애자일 여행**](https://jpub.tistory.com/959)
   * 소설같은 형식으로 매우 쉽게 읽을 수 있지만 내용이 충실
