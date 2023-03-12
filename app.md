@@ -1207,6 +1207,8 @@ App
 * [소중한 나의 1초를 위한 10가지 생산성 도구 for MacOS | by 송요창 | Jun, 2022 | Medium](https://medium.com/@totuworld/%EC%86%8C%EC%A4%91%ED%95%9C-%EB%82%98%EC%9D%98-1%EC%B4%88%EB%A5%BC-%EC%9C%84%ED%95%9C-10%EA%B0%80%EC%A7%80-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%8F%84%EA%B5%AC-for-macos-cc6db97cd798)
   * Charles, Paw, GitKraken, Alfred, 1Password, Bear App, BetterSnapTool, GrabIt, Ecamm Live, DemoPro
 * [일단 설치해두면 좋은 맥북 무료앱 5개 | 맥북 필수앱 | 맥북 앱 추천 - YouTube](https://www.youtube.com/watch?v=7djCBYJVKOc) Commander One, Dropzone, Alfred, Spectacle, Appcleaner
+* [맥북 프로-에어 사자마자 설치해야하는 필수앱 10가지 추천!! - YouTube](https://www.youtube.com/watch?v=F2T56tXkTn0)
+  * TopNotch, Clean My Mac X, Run Cat, Tiles, Amphetamine, Hidden Bar, IINA, Itsycal, AlDente, Keyboard Cleaner
 * [개발자를 위한 필수 맥 앱(Mac App) 10선 | Knowledge Logger](https://www.letmecompile.com/mac-app-recommendation-for-developer/)
   * HTTP Client Postman
   * Web Debugging Proxy Proxyman, Charles HTTP proxy
