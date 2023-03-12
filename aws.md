@@ -2045,6 +2045,10 @@ AWS
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
 * [AWS Cloud Computing Full Course Tutorial | Drive Link Series - YouTube](https://www.youtube.com/watch?v=Qym5fLd80oU)
 * [Amazon Web Services (AWS) - Zero to Hero | Udemy](https://www.udemy.com/course/amazon-web-services-aws-v/learn/lecture/7834634#overview)
+* [AWS란 무엇인가? – Lamanus' Archive](https://lamanus.kr/104)
+* [AWS IAM 계정 생성하기 – Lamanus' Archive](https://lamanus.kr/105)
+* [AWS 계정에 MFA 디바이스 할당하기 – Lamanus' Archive](https://lamanus.kr/106)
+* [AWS 사용시 알아두면 좋은 점들 – Lamanus' Archive](https://lamanus.kr/107)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
