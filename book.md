@@ -425,6 +425,8 @@ Book
   * 우당
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * 탐라
+* (NOT YET) [<울트라러닝> 공부하기는 매우 전략적 행위라는 것을 일깨워주다](https://acquiredentrepreneur.tistory.com/6)
+  * 한라 373-영57ㅇ 탐라 문325.211-영58ㅇ 우당 문325.211-영58ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1281,6 +1283,7 @@ Book
   * 한라 189.2-문65ㄱ 탐라 189.2-문66ㄱ 우당 문189.2-문66ㄱ
 * (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
+* (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
