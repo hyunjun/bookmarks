@@ -2074,6 +2074,7 @@ Java
 * [**배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다**](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html) Spring WebFlux, 설계, 테스트, 모니터링
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [2주차 - 리액티브 스트림 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528887)
+* [Lazy Java Stream](https://velog.io/@joosing/lazy-java-stream)
 * [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
   * [프로젝트 리액터 기초 1 - 모노 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-1-%EB%AA%A8%EB%85%B8)
   * [프로젝트 리액터 기초 2 - 플럭스 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-2-%ED%94%8C%EB%9F%AD%EC%8A%A4)
