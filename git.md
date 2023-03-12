@@ -554,6 +554,7 @@ Git
 * [20 Git Commands you (probably) didn't know about 🧙♂️ - DEV Community 👩💻👨💻](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)
   * [번역 당신이 (아마도) 몰랐던 20가지 Git 명령 🧙](https://velog.io/@surim014/20-git-commands-you-probably-didnt-know-about-git)
   * [당신이 (아마도) 몰랐던 20가지 Git 명령 번역 | GeekNews](https://news.hada.io/topic?id=8153)
+* [실무에서 사용했던 git 정리](https://phrygia.github.io/git/2023-03-03-git/) remote branch rebase cherry-pick reset 등
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
