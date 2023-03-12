@@ -5330,6 +5330,7 @@ Programming
 * [Jeremy's Blog | Feature Toggles (aka Feature Flags)](https://sungjk.github.io/2022/10/15/feature-toggles.html)
   * 오랫동안 머지하지 않는 브랜치의 고통을 피하고자 피처 플래그를 이용해서 새로운 기능에 대한 피처 플래그에 대해 전반적인 내용을 설명
   * 이 피처 플래그도 릴리스, 실험, 운영, 권한 등 목적에 따라 구분하고 피처 플래그를 사용할 때 주의할 점 등을 설명
+* [뭐 이런 것도 다 픽업 됩니다!(배민스토어 픽업 플랫폼 및 셀러서비스편) | 우아한형제들 기술블로그](https://techblog.woowahan.com/10593/) feature flag 활용 이야기
 * [실험과 기능플래그를 위한 실험플랫폼 구축하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9935/) feature toggle
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
