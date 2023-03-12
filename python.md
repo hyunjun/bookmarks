@@ -2485,6 +2485,7 @@ Python
 * [Build And Deploy A REST API With Django REST Framework | Full Project](https://morioh.com/p/43ee3bd4c8ac)
 * [How to Easily Style Your Django Form Fields With Django Widget Tweaks - YouTube](https://www.youtube.com/watch?v=ynToND_xOAM)
 * [저는 Django 에서 단일 앱을 통한 개발을 제안합니다. :: 코드보단 말](https://ashekr.tistory.com/60)
+* [Django 데이터베이스 캐시의 데드락 이슈 해결. 소개 | by Siheon Kim | Mar, 2023 | HBsmith](https://blog.hbsmith.io/django-%EA%B8%B0%EB%B3%B8-%EC%BA%90%EC%89%AC%EC%9D%98-%EB%8D%B0%EB%93%9C%EB%9D%BD-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0-a1421c45b3f0)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
