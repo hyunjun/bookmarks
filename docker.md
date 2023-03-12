@@ -893,6 +893,8 @@ Docker
 * [Dockerfile 버전선택](https://malwareanalysis.tistory.com/410)
 * [Dockerfile 버전선택(with buildkit) - YouTube](https://www.youtube.com/watch?v=WfhnFLb1tg8)
 * [컨테이너 이미지 용량 줄이기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/11/08/container-imagesize-diet/)
+* [Hacking Docker Filesystems. Containers are a modern application… | by Carlos A. | Medium](https://medium.com/@caralla76/hacking-docker-filesystems-b55690564969)
+  * [Building Docker Images: A Deep Dive into the Dockerfile](https://www.linkedin.com/feed/update/urn:li:activity:7029841447373742081/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
