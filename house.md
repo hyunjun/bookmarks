@@ -6,6 +6,7 @@ House
 * [blog.naver.com/asclepina](https://blog.naver.com/asclepina)
 * [blog.naver.com/a-cute-bear](https://blog.naver.com/a-cute-bear)
 * [findapt.co.kr](http://www.findapt.co.kr/)
+* [부동산 중개 수수료 저렴하게 거래할 수 있는 곳! : 클리앙](https://www.clien.net/service/board/useful/17957072)
 * [이 세상 모든 주택을 만나다 : 네이버 블로그](https://blog.naver.com/modularprefabhomes) 모듈러주택, 프리패브주택, 조립식주택
 * [우리들의 집은 얼마나 당연한 것일까?](http://ppss.kr/archives/52124)
 * [부동산 다이어트](http://www.bdsdiet.com/)
