@@ -1129,6 +1129,7 @@ Java
   * JMX로 분석할 결과 스레드 개수가 증가한 것을 확인, 스레드를 추적하고 WebFlux의 reactor 스레드가 증가했다는 것을 확인
   * Webflux의 코드를 살펴보니 CPU reqeusts가 1일 때 `availableProcessors()`가 컨테이너가 아닌 Node의 CPU를 반환한다는 것을 알게 되어
     * JAVA 옵션으로 `ActiveProcessorCount`를 지정해서 해결
+* [**IMDEV 2023 혼자서도 잘하는 메모리 청소부 쥐씨 - YouTube**](https://www.youtube.com/watch?v=F4lWAWOTXyg)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [GCGC](https://github.com/apple/GCGC)
   * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
