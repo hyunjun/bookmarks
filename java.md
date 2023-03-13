@@ -1996,6 +1996,7 @@ Java
 * [자바의 내부 클래스는 스프링 빈이 될 수 있을까? - YouTube](https://www.youtube.com/watch?v=2G41JMLh05U)
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
+* [Spring Boot Admin을 사용한 Spring Boot Application 모니터링 - YouTube](https://www.youtube.com/watch?v=2i3KHs6YhWk)
 * [Build Reactive Java Microservices with Spring Boot and JHipster - YouTube](https://www.youtube.com/watch?v=OKjgooXQEj4)
 * [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
 * [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
