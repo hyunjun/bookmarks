@@ -2946,6 +2946,7 @@ Python
   * [tkinter Archives - Artificial Intelligence](https://artificialintelligencestechnology.com/category/python/tkinter/)
   * [How to Shut Down Computer Logout and Restart Computer with Python GUI](https://morioh.com/p/f379dff30b69)
   * [Modern Graphical User Interfaces in Python - YouTube](https://www.youtube.com/watch?v=iM3kjbbKHQU)
+  * [Make Tkinter Python Applications Look Modern In 10 Minutes! - YouTube](https://www.youtube.com/watch?v=PIaccbMT6fo)
 
 # IPython & Jupyter
 * [Jupyter](http://jupyter.org/try)
