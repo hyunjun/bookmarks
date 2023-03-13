@@ -2024,6 +2024,7 @@ Java
   * [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
   * [jhipster - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/jhipster)
   * [자바ㆍ자바스크립트용 풀 스택 프레임워크, 제이힙스터의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/239909)
+* [project-web-starter: KYUNGSEO.PoC - Project Web Starter Template (웹 애플리케이션 개발 프로젝트를 시작하기 위한 기반 템플릿)](https://github.com/kyungseo/project-web-starter)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
