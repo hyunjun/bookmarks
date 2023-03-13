@@ -2640,6 +2640,9 @@ Programming Books
 * 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
   * ★★★☆☆ 2023.03.12
   * 한라 325.1-박74ㅊ 탐라 문325.1-박73ㅊ 우당 문325.1-박73ㅊ
+  * [천원을 경영하라](https://github.com/hyunjun/bookmarks/blob/master/programming_books/manage_1000won.md)
+  * [천원을 경영하라 - Jun - Medium](https://nymets.medium.com/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC-260ba5b6dbd)
+  * [천원을 경영하라](https://jh4hj.tistory.com/entry/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
