@@ -1087,6 +1087,7 @@ Scala
     * [Build Invincible Apps With ZIO And Temporal by Vitalii Honta - YouTube](https://www.youtube.com/watch?v=8MUnEahr5tk)
     * [The Great Concurrency Smackdown: ZIO versus JDK by John A. De Goes - YouTube](https://www.youtube.com/watch?v=9I2xoQVzrhs)
     * [Zymposium - Scala 3's New Compile-Time Features - YouTube](https://www.youtube.com/watch?v=5PQYC0UDqGA)
+    * [Zymposium - Reimplementing Magnolia: Exploring Scala 3's Compile-Time Features - YouTube](https://www.youtube.com/watch?v=X2EdbCO5e90)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
