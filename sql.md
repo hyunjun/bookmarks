@@ -342,6 +342,7 @@ SQL
   * [코딩 효율 개선에 도움이 되는 DataGrip 단축키 10가지 | The DataGrip Blog](https://blog.jetbrains.com/ko/datagrip/2022/06/13/top-10-datagrip-shortcuts-to-empower-your-coding/)
   * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
   * [DataGrip 살펴 보기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/data-grip/)
+  * [DataGrip 에서 안전하게 Command 수행하기](https://jojoldu.tistory.com/707)
 * [malloy: Malloy is an experimental language for describing data relationships and transformations](https://github.com/looker-open-source/malloy)
   * [Malloy - 더 나은 SQL by Looker | GeekNews](https://news.hada.io/topic?id=5840)
 * migration
