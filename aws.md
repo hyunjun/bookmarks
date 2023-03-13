@@ -1775,6 +1775,7 @@ AWS
 * [AWS EC2에서 curl을 이용한 RDS 접근 확인](https://nauco.tistory.com/74)
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(1) | by Phoebe Baek | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/oracle-dump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-d3d04700c23d)
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(2) | by Phoebe Baek | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/oracle-data-pump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-2-eed89531940)
+* [AWS RDS 생성 및 적용 방법 (Nest.js 기준)](https://blog.naver.com/gi_balja/223042740762)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
