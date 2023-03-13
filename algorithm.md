@@ -610,6 +610,7 @@ Algorithm
 * [Gossip Dissemination](https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html)
 * [EP07: Consistent hashing and consistency level - YouTube](https://www.youtube.com/watch?v=yyfiu6pHsjg)
 * [Fixing the hashing in "Hashing modulo α-equivalence" - Paul Khuong: some Lisp](https://pvk.ca/Blog/2022/12/29/fixing-hashing-modulo-alpha-equivalence/)
+* [Consistent hashing algorithm - High Scalability -](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html)
 
 ## Hash Distributed Hash Table, DHT
 * [Simple basic explanation of a Distributed Hash Table (DHT)](https://stackoverflow.com/questions/144360/simple-basic-explanation-of-a-distributed-hash-table-dht)
