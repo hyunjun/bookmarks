@@ -294,6 +294,9 @@ Book
     * <img src="images/footnotes_from_the_worlds_greatest_bookstores0.jpg" alt="" width="300"/>
     * 26년 전에 방문했던 시티라이트
       * <img src="images/footnotes_from_the_worlds_greatest_bookstores1.jpg" alt="" width="300"/> <img src="images/footnotes_from_the_worlds_greatest_bookstores2.jpg" alt="" width="300"/>
+* [<울트라러닝> 공부하기는 매우 전략적 행위라는 것을 일깨워주다](https://acquiredentrepreneur.tistory.com/6)
+  * ★★★☆☆ 2023.03.13 이미 아는 것들이 많고, 또 실천했던 것도 있지만 잊고 안 하던 걸 다시 (체계적으로) 알게 되었다
+  * 한라 373-영57ㅇ 탐라 문325.211-영58ㅇ 우당 문325.211-영58ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -425,8 +428,6 @@ Book
   * 우당
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * 탐라
-* (NOT YET) [<울트라러닝> 공부하기는 매우 전략적 행위라는 것을 일깨워주다](https://acquiredentrepreneur.tistory.com/6)
-  * 한라 373-영57ㅇ 탐라 문325.211-영58ㅇ 우당 문325.211-영58ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
