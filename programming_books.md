@@ -3658,6 +3658,11 @@ Programming Books
   * ★★★★☆ 2023.01.06, 09
   * [Release It! Second Edition: Design and Deploy Production-Ready Software by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/)
   * [Release It! • Michael Nygard & Trisha Gee • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=BIuBnLTMkfQ)
+* [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
+  * ★★★☆☆ 2023.03.13
+  * 한라 005.1-유25ㅋ
+  * [Simplicity – Be on the Right Side of Change](https://blog.finxter.com/simplicity/)
+  * [art-clean-code](https://github.com/yudong80/art-clean-code)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
@@ -3678,9 +3683,6 @@ Programming Books
 * (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
-* (NOT YET) [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
-  * 한라 005.1-유25ㅋ
-  * [art-clean-code](https://github.com/yudong80/art-clean-code)
 * (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
   * 우당
   * [**Expert Talk: Five Lines of Code • Christian Clausen & Julian Wood • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=DpDQn99BY0M)
