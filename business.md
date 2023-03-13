@@ -2268,6 +2268,7 @@ Business
 * [브런치북 스타트업의 창업자 vs. 경영자](https://brunch.co.kr/brunchbook/startupleader)
 * ['한국판 구글'... 수천억 자산가들이 줄 서서 기다리는 미친 잠재력 - YouTube](https://www.youtube.com/watch?v=tDVhGYDyOhU)
 * [시가 총액의 89% 가 증발, 트윌리오와 B2B 스타트업 매출 총이익 관리의 중요성 - Kimchi hill](https://kimchihill.com/2022/11/10/twilio-and-importance-of-gross-margin/)
+* [Upfront Venture가 전망하는 대규모 시장 침체와 향후 글로벌 VC 전망 - Kimchi hill](https://kimchihill.com/2022/09/27/kr_translated_what-does-the-post-crash-vc-market-look-like/)
 * [Modern Software Moats - by Nandu Anilal - notes & upside](https://nandu.substack.com/p/modern-software-moats)
   * [모던 소프트웨어 경쟁 전략](https://www.canda.blog/modern-software-moats/)
 * [미국의 배달의민족 DoorDash에 대한 세 가지 이야기](https://blog.naver.com/bizucafe/222925791474)
