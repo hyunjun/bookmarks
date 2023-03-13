@@ -2847,6 +2847,9 @@ Programming Books
   * [가우스전자 리더십 편](https://github.com/hyunjun/bookmarks/blob/master/programming_books/gauss_electronics.md)
   * [가우스전자 리더십 편. 대안을 강요할 때 문제는 숨는다 | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%EA%B0%80%EC%9A%B0%EC%8A%A4%EC%A0%84%EC%9E%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8E%B8-47ce02f05827)
   * [가우스전자 리더십 편](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9A%B0%EC%8A%A4%EC%A0%84%EC%9E%90-%EB%A6%AC%EB%8D%94%EC%8B%AD-%ED%8E%B8)
+* [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
+  * ★★★☆☆ 2023.03.13 일반적인 관점에서 읽을 수 있는 팀장 101격의 책
+  * 한라 325.24-이52ㅌ
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
@@ -2873,8 +2876,6 @@ Programming Books
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
-* (NOT YET) [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
-  * 한라 325.24-이52ㅌ
 
 # Math
 
