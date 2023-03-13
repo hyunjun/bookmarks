@@ -1385,6 +1385,7 @@ Programming Books
   * [그림으로 배우는 StatQuest 머신러닝 강의](https://jhrogue.blogspot.com/2023/03/statquest.html)
 * (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml)
   * 우당
+* (NOT YET) [머신러닝 시스템 설계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1811121220)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -3427,6 +3428,7 @@ Programming Books
 * (NOT YET) [내 일을 바꾸는 업무 자동화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=242086260)
   * 탐라 문005.133-이832ㄴ 우당 문005.133-이832ㄴ
 * (NOT YET) [파이썬 웹 스크레이핑 완벽 가이드 | 위키북스](https://wikibook.co.kr/pyscraping/)
+* (NOT YET) [FastAPI를 사용한 파이썬 웹 개발](https://hanbit.co.kr/store/books/look.php?p_code=B9703548802)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
