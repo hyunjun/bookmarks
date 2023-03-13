@@ -3680,6 +3680,7 @@ Programming Books
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
 * (NOT YET) [클린 코드의 기술](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308919612)
   * 한라 005.1-유25ㅋ
+  * [art-clean-code](https://github.com/yudong80/art-clean-code)
 * (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
   * 우당
   * [**Expert Talk: Five Lines of Code • Christian Clausen & Julian Wood • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=DpDQn99BY0M)
