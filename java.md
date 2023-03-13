@@ -1278,6 +1278,7 @@ Java
   * [Build REST APIs and Native Java Apps with Helidon | Okta Developer](https://developer.okta.com/blog/2022/01/06/native-java-helidon)
   * ["자바 고속 직렬화의 진화" 마이크로스트림의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/251026) helidon에 대한 직접적인 기사는 아님
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
+* [hwpxlib](https://github.com/neolord0/hwpxlib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
   * [infer](http://fbinfer.com/)
