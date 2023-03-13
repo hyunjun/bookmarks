@@ -1836,6 +1836,7 @@ Scala
   * [Migrating from Akka HTTP to tapir](https://softwaremill.com/migrating-from-akka-http-to-tapir/)
   * [A tapir looms in the distance](https://softwaremill.com/a-tapir-looms-in-the-distance/)
   * [Episode 537: Adam Warski on Scala and Tapir : Software Engineering Radio](https://www.se-radio.net/2022/11/episode-537-adam-warski-on-scala-and-tapir/)
+  * [L. Duzan, M. Baechler - When stateless APIs are not enough: deep dive into a reactive backend design - YouTube](https://www.youtube.com/watch?v=pAW5e3aZuk8) kafka conduktor, mapAccum zio
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
