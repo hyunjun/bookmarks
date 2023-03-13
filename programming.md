@@ -882,6 +882,7 @@ Programming
 * [Once Upon a Time in Agile • John Le Drew • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=QIzWwcN-1c8)
 * [How to Get Rid of Your Fears • Erwin de Gier • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X5kkuMbiHoU)
 * [Be Agile, Be DevOps, be well • Tomasz Manugiewicz • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=xzYrzphZEIg)
+* [Agile Product Design From the Trenches • Henrik Kniberg • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=9WSHK_29Hos)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
