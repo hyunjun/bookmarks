@@ -4539,6 +4539,8 @@ Javascript
     * React에서 상태관리를 위해 Redux, Context API, Recoil, Jotai를 비교하고 Jotai를 선택
       * Recoil처럼 Atom 개념을 쓰고 있고 쉬우면서도 가벼워서 선택
     * 리액트스럽기 때문에 useState를 쓰듯이 jotai의 useAtom를 사용할 수 있는데 jotai의 동작 방식과 사용 방법 정리
+  * [You Might Not Need React Query for Jotai · Daishi Kato's blog](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/)
+    * [번역 Jotai에 React Query가 필요하지 않을 수도 있습니다](https://velog.io/@eunbinn/you-might-not-need-react-query-for-jotai)
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
 * Liqvid [Create interactive videos in React | Liqvid](https://liqvidjs.org/)
