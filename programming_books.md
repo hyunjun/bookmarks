@@ -819,6 +819,7 @@ Programming Books
 * (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
   * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
 * (NOT YET) AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
+* (NOT YET) [AI 지도책](https://www.facebook.com/greenmun21/posts/pfbid03owxoBtf6Hta3wypv4QRFhZzYTk7ccKXgcanum3pHReAs8BXYvUeySUTmK1PufKml)
 
 # C
 
