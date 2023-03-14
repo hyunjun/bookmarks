@@ -421,6 +421,7 @@ Java
 * [Awaitility Wiki](https://github.com/awaitility/awaitility/wiki/Usage)
   * [비동기 시스템 테스트 코드 개선기 (until Awaitility)](https://velog.io/@joosing/improve-async-system-test-code-using-awaitility)
   * [비지니스 로직에 집중하는, 비동기 테스트 코드 만들기 (Awaitility)](https://velog.io/@joosing/focus-on-business-logic-in-asynchronous-test-code)
+  * [비동기 코드의 타이밍 테스트 하기 (with Awaitility)](https://velog.io/@joosing/test-the-timing-of-asynchronous-code-with-awaitability)
 * [Armeria - an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
   * [Java와 Armeria로 기본적인 웹 서버 만들기](https://engineering.linecorp.com/ko/blog/making-a-basic-server-with-java-armeria/)
