@@ -792,6 +792,7 @@ Apache
 ## Kafka Client library
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 * [confluent-kafka-python: Confluent's Kafka Python Client](https://github.com/confluentinc/confluent-kafka-python)
+* [FastKafka is a powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. Built on top of Pydantic, AIOKafka and AsyncAPI, FastKafka simplifies the process of writing producers and consumers for Kafka topics](https://github.com/airtai/fastkafka)
 * [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
   * 카프카 클라이언트의 C 구현체로, 현존하는 최고의 라이브러리 중 하나 평가
   * 컨플루언트가 지원하는 Go, 파이썬, 닷넷 클라이언트가 librdkafka를 감싸고 있는 형태로 구현되었을 정도
