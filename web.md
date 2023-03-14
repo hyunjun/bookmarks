@@ -1677,6 +1677,7 @@ Web
 * [여기보기 누구나 아는 기본 계정명은 비밀이 아니다 - 넷마블 기술 블로그](https://netmarble.engineering/avoid-was-console-default-account-and-setting/)
 * [여기보기 WAS 프로세스가 다진 마음은 루트와 헤어질 결심 - 넷마블 기술 블로그](https://netmarble.engineering/managing-was-process-permission-do-not-use-root/)
 * [여기보기 ChatGPT도 알고 있는 WAS 설정 파일 관리와 세션 타임아웃 - 넷마블 기술 블로그](https://netmarble.engineering/was-setting-file-management-and-session-timeout/)
+* [한정 판매 이벤트 .. ? with Tomcat. 작년 하반기 쯤에 대용량 요청에 대한 이벤트가 발생을 하게 되었다. | by Spark | Mar, 2023 | Medium](https://spark01.medium.com/%ED%95%9C%EC%A0%95-%ED%8C%90%EB%A7%A4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-with-tomcat-1f8d63619c56)
 
 # WebAssembly
 * [WebAssembly](https://github.com/WebAssembly/)

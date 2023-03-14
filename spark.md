@@ -421,7 +421,6 @@
 * [Practical Spark – Versions (11) – 1ambda](https://1ambda.blog/2021/12/28/practical-spark-11/)
 * [Practical Spark – 자주 묻는 질문들 (12) – 1ambda](https://1ambda.blog/2022/01/02/practical-spark-12/)
 * [40+ Apache Spark best practices & optimisation interview FAQs - Part-2 Spark UI | Java-Success.com](https://www.java-success.com/15-apache-spark-best-practices-memory-mgmt-performance-tuning-interview-faqs-part-2/)
-* [한정 판매 이벤트 .. ? with Tomcat. 작년 하반기 쯤에 대용량 요청에 대한 이벤트가 발생을 하게 되었다. | by Spark | Mar, 2023 | Medium](https://spark01.medium.com/%ED%95%9C%EC%A0%95-%ED%8C%90%EB%A7%A4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-with-tomcat-1f8d63619c56)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
