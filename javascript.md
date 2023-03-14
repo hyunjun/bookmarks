@@ -4689,6 +4689,7 @@ Javascript
   * [dynamic-island: Project code for https://cho.sh/r/B21605](https://github.com/anaclumos/dynamic-island)
     * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
   * [중요한 건 꺾이지 않는 API (feat. Next.js API Routes) | by Jiwon Han | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B1%B4-%EA%BA%BE%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-api-feat-next-js-api-routes-2f6b1d3779a3)
+  * [How to Handle Modals in a Large-Scale Next.Js Project | by Deepak Kumar | Feb, 2023 | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-handle-modals-in-a-large-scale-next-js-project-4565a29b86d1)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
   * [next-batch-router - npm](https://www.npmjs.com/package/next-batch-router)
     * [UI의 상태를 URL에 저장하기 #1 - 소개](https://tech.youha.info/4b79d22c-193d-4600-bac7-6dad8eed21d5)
