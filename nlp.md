@@ -742,6 +742,7 @@ NLP
   * [How to learn to code FAST using ChatGPT (it's a game changer seriously) - YouTube](https://www.youtube.com/watch?v=VznoKyh6AXs)
   * [당장 사용 가능한 ChatGPT API 활용팁 모음! - YouTube](https://www.youtube.com/watch?v=n_8XhAD9G8g)
   * [ChatGPT run by python](https://sysnet4admin.gitbook.io/cloud/others/tools/chatgpt/python)
+  * [GPT-4](https://openai.com/product/gpt-4)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
