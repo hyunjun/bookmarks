@@ -1304,6 +1304,7 @@ Deep Learning
 * [SmallData | Blog | Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
 * [Deep Java Library - Open source library to build and deploy Deep Learning in Java](https://djl.ai/)
   * [Getting to Know Deep Java Library (DJL)](https://www.infoq.com/articles/djl-deep-learning-java/)
+  * [Pratical machine learning: BERT with Deep Java Library & Spark](http://www.scalaformachinelearning.com/2023/01/bert-with-deep-java-library-spark.html)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
   * [인공 신경망 및 심층 신경망 소개](http://deeplearning4j.org/kr-neuralnet-overview.html)
