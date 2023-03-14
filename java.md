@@ -1785,6 +1785,10 @@ Java
 * [@Profile로 분기처리하여 Configuration을 구성할 때 주의해야할 점](https://kim-jong-hyun.tistory.com/142)
 * [Introducing Spring Framework 6.0 by Brian Clozel and Stephane Nicoll - YouTube](https://www.youtube.com/watch?v=5FWNpaiqYhw)
 * [Spring 6의 새로운 HTTP Interface와 3 가지 REST Clients 라이브 코딩 - YouTube](https://www.youtube.com/watch?v=Kb37Q5GCyZs)
+* [Why Choose Spring as Your Java Framework? | Baeldung](https://www.baeldung.com/spring-why-to-choose)
+  * [스프링(Spring) #1 - Java 프레임워크로 스프링을 쓰는 이유](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-Java-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+  * [스프링(Spring) #2 - 스프링에서의 제어의 역전(IoC) 및 의존성 주입(DI)](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-2-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84IoC-%EB%B0%8F-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85DI)
+  * [스프링(Spring) #3 - 스프링 빈에 대해 알아보자](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-3-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
