@@ -510,6 +510,12 @@ App
   * 새로운 헤드리스 크롬이 2022년 나왔지만, 여전히 `--headless=new` 플래그 밑에 숨겨져 있었으나 곧 크롬의 표준 헤드리스 모드가 될 예정
   * 헤드리스를 탐지할 수 없는 것은 아니지만 새 헤드리스 모드는 실제 크롬과 핑거프린트의 차이가 거의 없기 때문에
     * `navigator.plugins.length = 0`나 `window.chrome`를 검사하는 정도로는 구별할 수가 없어졌고 탐지하기가 훨씬 어려워졌다고 함
+* [Chrome’s Headless mode gets an upgrade: introducing `--headless=new` - Chrome Developers](https://developer.chrome.com/articles/new-headless/)
+  * 2017년에 도입된 크롬의 헤드리스 모드는 `--headless` 플래그를 사용해서 크롬의 모드 중 하나인 것처럼 보이지만 실제로는 완전히 별도의 구현체 사용
+    * 그래서 크롬과 헤드리스 크롬은 다른 버그를 가지고 있었고 유지보수하기도 쉽지 않은 문제 존재
+  * Chrome 112부터 `--headless=new`로 사용할 수 있는 새로운 헤드리스 크롬은 크롬과 같은 구현체 사용
+  * 기존 헤드리스 모드는 `--headless=old`로 여전히 사용 가능
+  * Puppeteer/WebDriver로 새로운 헤드리스 크롬을 사용하는 방법과 관련 옵션 정리
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
   * [클릭 한 번으로 할 수 있는 업계별 데이터 수집 활용법: 데이터 크롤링 10만 유저를 분석하다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257557)
