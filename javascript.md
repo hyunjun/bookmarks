@@ -4156,6 +4156,7 @@ Javascript
 * [실전! 리액트, 응집성 있게 만들기 | Coderifleman's blog](https://blog.coderifleman.com/2023/02/27/hands_on_react_making_it_cohesive/)
 * [React로 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/React%EB%A1%9C-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ft.-%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF)
 * [Optimize large list in react | Medium](https://medium.com/@yasir.naeem/optimize-large-list-in-react-471e8e4d4717)
+* [프로젝트 초기 세팅, 불필요한 코드 지우기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/frontend/react-helloworld/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
