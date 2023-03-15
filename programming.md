@@ -3834,6 +3834,12 @@ Programming
     * 문제가 생겼을 때 인프라의 영향도 너무 커짐
   * 인프라 자동화로 신뢰성과 가속도를 높이기 위해 OPA(Open Policy Agent)를 사용하기로 결정
     * Atlantis에 [Conftest](https://www.conftest.dev/)를 사용해서 PR 리뷰 과정 중에 자동으로 OPA 규칙을 검사
+* [Framework-defined infrastructure – Vercel](https://vercel.com/blog/framework-defined-infrastructure)
+  * Vercel에서 Infrastructure as Code의 발전된 형태로 Framework-defined infrastructure(FdI) 설명
+  * 기존 IaC의 필요성은 충분했지만, 인프라를 따로 관리했어야 했는데
+    * FdI에서는 클라우드의 리소스를 추상화해서 애플리케이션 배포할 때에 인프라에 자동으로 매핑 가능
+  * Next.js를 예로 들면 배포할 때 빌드된 정적 파일은 CDN 등에 올리고 컴퓨팅 파워가 필요한 서버 코드는 서버리스 이용
+  * 클라우드의 서버리스 인프라는 매번 새로 만들 수 있으므로 이러한 구현이 가능해졌으며 불변 배포를 통해 배포와 인프라를 매핑 가능
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
