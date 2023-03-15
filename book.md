@@ -1288,6 +1288,8 @@ Book
 * (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
+* (NOT YET) [씽킹 101 : 더 나은 삶을 위한 생각하기 연습](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308282038)
+  * 한라 181.35-안66ㅆ 탐라 문181.3-안67ㅆ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
