@@ -1106,6 +1106,8 @@ Programming Books
 * (NOT YET) Apache airflow 기반의 데이터 파이프라인 [Apache Airflow에 대한 국내 최초 전문서!](https://jpub.tistory.com/1238)
   * 한라 005.75-하294ㅇ
 * (NOT YET) [린 분석](https://brunch.co.kr/@cloud09/102)
+  * [린 분석 Lean Analytics](https://brunch.co.kr/@jhw28/27)
+  * [데이터 속의 숫자는 함수적으로 바라보라](https://brunch.co.kr/@graypool/880)
 * (NOT YET) [Do it! 쉽게 배우는 파이썬 데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293059248)
 * (NOT YET) [노코딩AI 코딩 없이 AI 만들기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296456424)
 * (NOT YET) [인공지능은 게임을 어떻게 움직이는가?](http://www.easyspub.co.kr/20_Menu/BookView/523/PUB)
