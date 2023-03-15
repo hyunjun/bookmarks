@@ -2554,6 +2554,11 @@ Javascript
     * Turborepo는 편리한 빌드 시스템을 제공해서 개발과 빌드에 도움을 줄 수 있는 다양한 기능 제공
     * Turborepo를 도입해서 기존 스크립트 의존성으로 인한 복잡도와 반복되는 불편한 빌드를 해결, 배포 프로세스 시각화 목표
       * 의존성도 Turborepo 파이프라인으로 해결하고 빌드 캐시로 재빌드 시에는 7분 걸리던 빌드가 0.64초로 단축
+  * [Why Turborepo is migrating from Go to Rust – Vercel](https://vercel.com/blog/turborepo-migration-go-rust)
+    * 빌드시스템인 Turborepo는 esbuild를 따라 Go로 작성되었지만 1.7 버전부터는 Rust로 점진적인 마이그레이션을 하기로 결정
+    * 단순성을 선호하고 네트워크 컴퓨팅에 강점이 있는 Go가 Turborepo에는 어울리지 않았고 Rust의 타입 시스템과 세이프티 기능으로 충분한 가드레일을 배치할 수 있었기 때문에 유리
+    * 또한 C/C++ 라이브러리를 사용할 때도 Rust가 유리했고 팀도 Rust 사용을 원함
+    * Rust-Go-Rust 샌드위치 방식으로 점진적인 마이그레이션을 진행 중
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
