@@ -2522,6 +2522,11 @@ Javascript
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
   * [pnpm, 플랫하지 않은 패키지 매니저](https://imch.dev/posts/pnpm-a-manager-what-is-not-flat)
   * [pnpm과 함께하는 Frontend 모노레포 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-pnpm)
+  * [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
+    * Airbridge에서 pnpm으로 갈아타고 1년이 지난 후 경험을 공유한 글
+    * 기존에 Yarn Berry를 사용했는데 PnP 모드로 패키지를 압축해서 저장하기에 오히려 Git에 부하를 준다고 생각
+    * pnpm은 `node_modules`에 직접 설치하지 않고 전역 저장소에 설치한 패키지를 심볼릭 링크로 관리했기 때문에 효율적이었고 모노레포 관리도 pnpm이 더 편리
+    * Yarn 대비 패키지 설치 속도도 감소, 만족
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
