@@ -3142,7 +3142,11 @@ Javascript
   * [Deno 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1623)
   * [Deno의 Node.js 호환 기능 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1625)
   * [How to learn Deno as an alternative to Node.js - DEV Community 👩💻👨💻](https://dev.to/bryantson/how-to-learn-deno-as-an-alternative-to-nodejs-4dcg)
-  * [You Don't Need a Build Step](https://deno.com/blog/you-dont-need-a-build-step)
+  * [You Don't Need a Build Step](https://deno.com/blog/you-dont-need-a-build-step/)
+    * Deno에서 쓴 글이라 결국 Deno와 Fresh를 강조하는 글
+    * Node.js와 브라우저 자바스크립트는 호환되지 않는데 Node.js는 파일 시스템 기반이고 브라우저 자바스크립트는 비동기적으로 스크립트와 리소스를 가져오기 위해 작성
+    * 개발 환경을 개선하기 위해서 빌드 도구가 발명되었지만, 개발자 경험이 증가하는 만큼 빌드 복잡도는 증가하기 시작했고 요즘 도구는 빌드 도구는 컴파일, 압축, 번들링, 코드 분할로 나뉘어져 진행
+    * Deno와 Fresh는 이러한 과정이 필요 없다고 주장
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
