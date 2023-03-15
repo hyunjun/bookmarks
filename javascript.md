@@ -1685,6 +1685,10 @@ Javascript
   * [(번역) 자신만의 상태 관리 라이브러리를 작성하는 방법](https://velog.io/@lky5697/how-to-write-your-own-state-management-library)
 * [These frameworks broke front-end development - YouTube](https://www.youtube.com/watch?v=I2NzfOOI7xY) svelte, qwik city, solid start
 * [“나만 알고 싶은” 자바스크립트 프로젝트 7선 - ITWorld Korea](https://www.itworld.co.kr/news/280663) Tauri tRPC Bun.js Civet Tabby Pixi.js PM2
+* [2023 Web Framework Performance Report | Astro](https://astro.build/blog/2023-web-framework-performance-report/)
+  * 모던 프레임워크가 현실에서의 성능과 Core Web Vitals에 미치는 영향을 파악하기 위해 CrUX, HTTP 아카이브, Core Web Vitals 기술 보고서를 통해 공개된 데이터를 바탕으로 각 프레임워크를 비교한 보고서
+  * Astro, Gatsby, Next.js, Nuxt, Remix, SveltKit 선정, 비교를 위해 WordPress의 데이터도 같이 참고
+  * 각 웹 프레임워크의 Core Web Vitals의 각 항목과 Lighthouse로 비교
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
