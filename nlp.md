@@ -749,6 +749,7 @@ NLP
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
   * [GPT-4](https://openai.com/product/gpt-4)
+    * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
