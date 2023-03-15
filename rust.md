@@ -370,7 +370,11 @@
 * [From Python to Rust: Part 1.. In this series of videos, we will… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-1-272f5ff79c01)
 * [From Python to Rust: Part 2.. Strings, Functions, and Crates/Modules | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-2-strings-functions-and-crates-modules-b110e052d607)
 * [From Python to Rust: Part 3.. Python dictionary, Rust HashMap and a… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-3-f035d780de1)
-* [파이썬과 러스트 – tech.kakao.com](https://tech.kakao.com/2023/03/02/python-and-rust/)
+* [파이썬과 러스트 – tech.kakao.com](https://tech.kakao.com/2023/03/02/python-and-rust)
+  * 카카오 추천팀에서 사용자 지표를 처리하는 플랫폼을 개발하면서 Python으로 프로토타이핑 후 Rust로 다시 개발해서 둘을 비교한 과정을 정리
+  * Rust가 빠르면서 메모리와 CPU도 훨씬 적게 사용, 학습 난이도는 높음
+  * Python이 쉬운 언어이지만 타입 어노테이션도 쓰고 하다 보니 둘의 생산성 차이는 크게 느끼지 못함
+  * 오히려 Rust의 컴파일 시간이 긴 것은 단점
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
