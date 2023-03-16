@@ -743,6 +743,7 @@ NLP
   * [당장 사용 가능한 ChatGPT API 활용팁 모음! - YouTube](https://www.youtube.com/watch?v=n_8XhAD9G8g)
   * [ChatGPT run by python](https://sysnet4admin.gitbook.io/cloud/others/tools/chatgpt/python)
   * [ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA - YouTube](https://www.youtube.com/watch?v=T1XadeiKl1M)
+  * [ChatGPT 등장 후 우리에게 일어난 일들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1929/%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C/)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
