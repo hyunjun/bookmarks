@@ -765,6 +765,7 @@ NLP
   * [HuLiC](https://github.com/smilegate-ai/HuLiC) 사람과 챗봇간의 대화에 대해 모든 턴마다 인간성 평가 점수를 메긴 데이터
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
 * [www.luis.ai](https://www.luis.ai)
+* [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
   * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
 * [slacker로 slack bot 만들기](https://hyesun03.github.io/2016/10/08/slackbot/)
