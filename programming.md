@@ -5341,6 +5341,9 @@ Programming
   * 이 피처 플래그도 릴리스, 실험, 운영, 권한 등 목적에 따라 구분하고 피처 플래그를 사용할 때 주의할 점 등을 설명
 * [뭐 이런 것도 다 픽업 됩니다!(배민스토어 픽업 플랫폼 및 셀러서비스편) | 우아한형제들 기술블로그](https://techblog.woowahan.com/10593/) feature flag 활용 이야기
 * [실험과 기능플래그를 위한 실험플랫폼 구축하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9935/) feature toggle
+* [Jeremy's Blog | Feature Toggle 150% 활용하기](https://sungjk.github.io/2023/03/04/feature-toggle.html)
+  * 배포할 때 코드는 포함하더라고 기능의 공개 여부는 동적으로 관리하는 Martin Fowler의 Feature Toggles 글을 공부하고 이를 실제 업무에 적용해 가면서 개선한 내용
+  * 피처 토글의 설계 원칙에 따라 토글 포인트, 토글 라우터, 토글 설정을 구현하는 Java 코드를 보여주고 이를 권한 토글과 카나리 토글에 활용하는 방법을 설명
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
