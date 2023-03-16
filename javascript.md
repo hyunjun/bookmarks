@@ -4055,6 +4055,7 @@ Javascript
 * [효율적인 프런트엔드 에러 핸들링 | JBEE.io](https://jbee.io/react/error-declarative-handling-0/)
 * [클라이언트의 사용자 중심 예외 처리 | JBEE.io](https://jbee.io/react/error-declarative-handling-2/) 프런트엔드의 에러를 사용자 중심으로 분류하고 에러 특징을 파악해 무엇을 고려해야 하는지 분석
 * [선언적으로 에러 상황 제어하기 | JBEE.io](https://jbee.io/react/error-declarative-handling-3/)
+* [선언적인 코드 작성하기](https://toss.tech/article/frontend-declarative-code)
 * [리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606)
 * [Home - About React - A Tutorial website for React Developers](https://aboutreact.com/)
 * [React Virtual Dom and Memo on Performance | by Kasun Vimukthi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
