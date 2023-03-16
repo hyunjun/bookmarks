@@ -447,6 +447,7 @@ Interview
     * [Google Software Engineer Design Interview: Reservation System](https://www.youtube.com/watch?v=6wSk5XG4jwU)
     * [Design Interview Question: Airline reservations system - MakeMyTrip Logicmojo.com](https://www.youtube.com/watch?v=54cXxQyeCMQ)
     * [System Design Shopify eCommerce platform Interview Question for software engineers](https://www.youtube.com/watch?v=lEL4F_0J3l8)
+    * [Shopify’s Architecture to Handle the World’s Biggest Flash Sales - YouTube](https://www.youtube.com/watch?v=MV5Kdwzwcag)
     * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
     * [IRCTC System Design | Railways Ticket Booking Service | System Design - YouTube](https://www.youtube.com/watch?v=x1zR0Q-VWQI)
