@@ -589,6 +589,7 @@ Business
     1. 빠르게 가설을 입증해야 한다
     2. 특정 문제를 해결하기 위해 가설을 세운다
     3. 가설은 모호하고 부정확해도 괜찮다
+* ["모든 금융사 브랜딩이 토스 프레임에 갇혀버렸다" - YouTube](https://www.youtube.com/watch?v=MHJKqxmWIyg) 혁신 != 새로운 것, 고객이 원하는 것
 * [당신의 생업은 무엇인가?](https://brunch.co.kr/@graypool/155) 업무의 시작은 용어의 정의
 * [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
