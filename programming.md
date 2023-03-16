@@ -2243,6 +2243,11 @@ Programming
   * [Building API service with Mify Part 2: Adding Postgres](https://ichebykin.hashnode.dev/building-api-service-with-mify-part-2-adding-postgres)
 * Mortar [오늘의집 MSA Phase 1. 서비스 구축과 배포 with Mortar - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-12-17-msa-phase-1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B0%B0%ED%8F%AC-with-mortar/)
 * [Prism: Presto Gateway Service at Uber - Hitarth Trivedi, Uber - YouTube](https://www.youtube.com/watch?v=0NwUCvOZuHY)
+* [Service Weaver](https://serviceweaver.dev/)
+  * [Introducing Service Weaver: A Framework for Writing Distributed Applications | Google Open Source Blog](https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html)
+    * Google에서 분산 애플리케이션을 만들고 배포하는 프레임워크 Service Weaver를 오픈소스로 공개
+    * Service Weaver를 사용하면 모듈식 모노리스로 애플리케이션을 만들어서 마이크로서비스 배포 가능
+    * 애플리케이션 작성 프로세스와 마이크로서비스 배포 프로세스를 분리 가능
 * [ssup2ket](https://github.com/ssup2ket/ssup2ket)
   * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
   * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
