@@ -192,6 +192,12 @@ Artificial Intelligence
 * [SaaS 프로덕트의 성공을 견인하는 Fly-wheel, 그리고 생성형 인공지능 애플리케이션 | by Coxwave | Coxwave 블로그 | Jan, 2023 | Medium](https://medium.com/coxwave%EB%B8%94%EB%A1%9C%EA%B7%B8/saas-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-fly-wheel-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-a40f35a5e40a)
 * [NVIDIA’s New AI: Nature Videos Will Never Be The Same! - YouTube](https://www.youtube.com/watch?v=r2zv3sNsnqo)
 * [AI 반도체 시장에서 클라우드 기업의 역할](https://tech.kakaoenterprise.com/182)
+* [230208_AI_from_the_business_perspective_chester_v0.8.pdf - Google Drive](https://drive.google.com/file/d/1WDnhRmIeRngGgFs3PrO1_t0IIVQEb_gx/view)
+  * 많은 스타트업 창업과 투자를 했던 노정석 대표가 비즈니스 관점으로 AI를 어떻게 봐야 하는지 AI 시장의 상황과 예측을 정리
+  * LLM은 기본적으로 Computation Infra 싸움
+    * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
+    * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
+  * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
