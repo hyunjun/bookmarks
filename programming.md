@@ -1426,6 +1426,7 @@ Programming
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
 * [Modern-Day Architecture Design Patterns for Software Professionals | by Tanmay Deshpande | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
   * Circuit Breaker, CQRS, Event Sourcing, Sidecar, Backend-for-Frontend, and Strangler
+* [Modern API Development and Deployment, from API Gateways to Sidecars - YouTube](https://www.youtube.com/watch?v=0mf0wxl0YxQ)
 * [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
 * [IT 에서 Persistent 데이터에 대한 이해 - Bryant Jimin Son - Medium](https://medium.com/@bryantjiminson/it-%EC%97%90%EC%84%9C-persistent-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-bab1e7f8bbe)
 * [Testing Software Architecture](https://www.infoq.com/presentations/automation-testing-architecture/)
@@ -1557,6 +1558,7 @@ Programming
 * [**Coevolution of Architecture & Code - Closing The Gap • Dave Thomas • YOW! 2022 - YouTube**](https://www.youtube.com/watch?v=slGZMTFPElo) c4model
 * [**Replatform in a Year or Die: The Tale of a Turnaround • Ken Scambler • YOW! 2021 - YouTube**](https://www.youtube.com/watch?v=6EplPhk9uOs)
 * [stackoverflowcom 서버는 어떻게 이뤄져 있을까? | 커리어리](https://careerly.co.kr/comments/78541)
+* [How Starling Built Their Own Card Processor - YouTube](https://www.youtube.com/watch?v=oSnVwAKmeA0)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -2023,6 +2025,7 @@ Programming
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [Microfrontends: Apply the Microservices Pattern to the Frontend](https://semaphoreci.com/blog/microfrontends)
+* [Microfrontends Anti-Patterns: Seven Years in the Trenches - YouTube](https://www.youtube.com/watch?v=n1XSeiLhBtE)
 * [Event-Based Routing for Angular Micro Frontends | by Marcin Milewicz | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1)
 * [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
 * [How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
@@ -2037,6 +2040,7 @@ Programming
 * [Micro Frontend Architecture. Before diving into the micro front-end… | by Muhammad Anser | Level Up Coding](https://levelup.gitconnected.com/micro-frontend-architecture-794442e9b325)
 * [What Are Micro-frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=-thWgobMW_I)
 * [if(kakao)dev2022 마이크로 프론트엔드 실무에 쓸만할까?](https://if.kakao.com/2022/session/82)
+* [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -2183,6 +2187,8 @@ Programming
 * [Not Just Events: Developing Asynchronous Microservices • Chris Richardson • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 * [마이크로서비스가 뭔데 유행임 - YouTube](https://www.youtube.com/watch?v=ZRpsB3ODr6M)
 * [Common problems in microservice architecture • Marcin Szymczak • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=eMJN_tmn1_o)
+* [Microservices to Async Processing Migration at Scale - YouTube](https://www.youtube.com/watch?v=j-TMI_Hv5KY)
+* [Securing Microservices: Preventing Vulnerability Traversal - YouTube](https://www.youtube.com/watch?v=rfrN9s7ypJE)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -4087,6 +4093,7 @@ Programming
 * [스토어 키워드 랭크 올리기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (1) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%9E%AD%ED%81%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0-7bce372c41f9)
 * [스토어 키워드 관리하기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (2) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-41335ec6ca9c)
 * [스토어 키워드 발굴하기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (3) | by Stephan Seunghwan Seo | DelightRoom | Mar, 2023 | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%9C%EA%B5%B4%ED%95%98%EA%B8%B0-cfb84af1d706)
+* [Modern Mobile Development: Native vs Cross-Platform - YouTube](https://www.youtube.com/watch?v=Gezgc_Et1ro)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
