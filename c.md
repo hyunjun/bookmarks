@@ -225,6 +225,7 @@ C
   * [How Uber Uses Zig - Motiejus Jakštys Public Record](https://jakstys.lt/2022/how-uber-uses-zig/)
     * [Uber가 Zig를 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=6616)
   * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+  * [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=YXrb-DqsBNU)
   * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 # Debugging
