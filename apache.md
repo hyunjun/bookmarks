@@ -754,6 +754,7 @@ Apache
 * [Kafka 도입 스토리 - 홈쇼핑 방송영역 활용 사례 :: GS Retail Engineering](https://gsretail.tistory.com/27)
 * [Event-Driven Architectures Done Right, Apache Kafka • Tim Berglund • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=A_mstzRGfIE)
 * [네이버 스케일로 카프카 컨슈머 사용하기 - YouTube](https://www.youtube.com/watch?v=OxMdru93E6k)
+* [Resilient Real-Time Data Streaming across the Edge and Hybrid Cloud - YouTube](https://www.youtube.com/watch?v=lbsUmMPKZSM)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
