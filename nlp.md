@@ -2047,6 +2047,7 @@ NLP
 * [NLP 언제까지 미룰래? 일단 들어와!! #4. word embedding - DACON](https://dacon.io/codeshare/1892)
 * [NLP 언제까지 미룰래? 일단 들어와!! #5. Modeling(완) - DACON](https://dacon.io/codeshare/1893)
 * [AIFactory 입문 - 자연어처리 시작하기](https://aifactory.space/learning/2306/discussion/192)
+* [AIFactory 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/2308/discussion/196)
 * [nlp-review: nlp review repository for jiphyeonjeon group](https://github.com/jiphyeonjeon/nlp-review)
 * [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training)
 * [1/13~13/13 모음 국민청원으로 파이썬 자연어처리 입문하기 - YouTube](https://www.youtube.com/watch?v=ECr23w_B3_w)
