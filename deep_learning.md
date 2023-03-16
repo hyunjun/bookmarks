@@ -190,6 +190,7 @@ Deep Learning
     * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [OpenAI는 뉴럴 네트워크 대형 모델을 어떻게 학습시키는가](https://velog.io/@aldente0630/%EB%8C%80%ED%98%95-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%9B%88%EB%A0%A8-%EA%B8%B0%EB%B2%95)
   * [OpenAI API with Python | 3 Use Cases with codes - YouTube](https://www.youtube.com/watch?v=yNSo6cWpDSM)
+  * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
   * [requests-for-research](https://openai.com/requests-for-research/)
