@@ -884,6 +884,7 @@ Business
 * [How To Create the Perfect Developer Onboarding Plan | by David Ziemann | Better Programming](https://betterprogramming.pub/how-to-create-perfect-software-developer-onboarding-plan-4a549a0a3040)
   * [신입 개발자를 위한 완벽한 온보딩 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/1778/)
 * [주니어 개발자의 온보딩을 도운 경험](https://velog.io/@joosing/experience-helped-on-boarding-of-junior-developer)
+* [병아리 개발자의 첫 웹뷰 개발기: 파일럿 프로젝트 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10774/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1397,6 +1398,7 @@ Business
   * 효율적인 관리를 위한 휴리스틱들
     1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
     10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
+* [Middle management: A precious but wasted resource | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/stop-wasting-your-most-precious-resource-middle-managers)
 * [Why It’s Easier to Manage 4 People Than It Is to Manage 1 Person | Stay SaaSy](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
 * [“처음으로 팀장이 됩니다” 좋은 팀장은 어떻게 해야 하나요? – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/163797)
@@ -2411,6 +2413,7 @@ Business
 * [가이드라인을 시스템으로 만드는 법](https://toss.tech/article/introducing-toss-error-message-system)
 * [플랫폼 디자이너가 효율을 만들어내는 법](https://toss.tech/article/how-platform-designer-make-effectiveness)
 * [토스 디자인 원칙, Easy to answer](https://toss.tech/article/insurance-claim-process)
+* [토스 디자인 원칙 Value first, Cost later](https://toss.tech/article/value-first-cost-later)
 * [우리에게 당연하지만 사용자는 아닌 것들](https://toss.tech/article/thinking-user-perspective)
 * [디자이너가 새로운 도메인을 빠르게 학습하는 법](https://toss.tech/article/how-to-learn-new-domain)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
