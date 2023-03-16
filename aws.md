@@ -500,6 +500,8 @@ AWS
 * [보안/인증 AWS Nitro Enclave를 이용하여 안전하게 고객 정보 다루기 | 김주형, 해치랩스 - YouTube](https://www.youtube.com/watch?v=bwqCTOUj1ks)
 * [AWS를 사용하기 위한 인증 방법 | Dev.Inn](https://devinn.dev/blog/detail.html?id=264)
 * [데이터 레이크하우스 by 김정희님 - AWSKRUG 구로디지털 #gudi 소모임 221114 - YouTube](https://www.youtube.com/watch?v=zmdqPExZxRo)
+* [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(1) | Cloud Villains](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-ed2198632af1)
+* [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(2) | by Phoebe Baek | Cloud Villains | Mar, 2023 | Medium](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-2-99fe81641790)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1858,6 +1860,7 @@ AWS
 * [Part 2. 비트버킷을 이용해서 S3에 웹 자동 배포하기 - YouTube](https://www.youtube.com/watch?v=oF-GEqGRIDc)
 * [데이터분석 Amazon Athena를 이용한 S3 데이터 조회하기 | 송정우, AUSG - YouTube](https://www.youtube.com/watch?v=H7W_AI5heSo)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
+* [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
