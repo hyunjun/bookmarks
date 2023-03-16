@@ -1179,7 +1179,9 @@ Git
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
 * [giscus](https://giscus.app/ko) utterances와 비슷하게 GitHub의 Discussions를 사용한 댓글 시스템
   * [블로그에 댓글 기능 추가하기, Giscus | Joohee Kim's Blog](https://imjhk03.github.io/posts/add-comment-service-giscus/)
-  * [Utterances 에서 Giscus 로 마이그레이션하기](https://jojoldu.tistory.com/704)
+  * [Utterances 에서 Giscus 로 마이그레이션하기](https://jojoldu.tistory.com/704/)
+    * GitHub의 이슈를 댓글 시스템으로 쓰는 Utterances가 있는데 최근에는 GitHub의 디스커션으로 댓글 시스템도 출시
+    * Utterances도 좋긴 하지만 제약이 좀 있어서 Giscus를 설정하고 수동으로 마이그레이션하는 방법을 정리한 글
   * [Giscus 댓글, 텔레그램 (Telegram) 으로 알람 받기](https://jojoldu.tistory.com/705)
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
