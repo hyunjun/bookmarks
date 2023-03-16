@@ -582,6 +582,10 @@ Programming Books
 * [AWS 비용 최적화 바이블](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299501047)
   * ★★★★☆ 2022.09.30
   * [경제적으로 AWS 사용하기. AWS의 세계로 들어온지 1년 정도 되었지만 여전히 아는 거보다 모르는… | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EA%B2%BD%EC%A0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-aws-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-ca2b2103217a)
+* [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
+  * ★★★☆☆ 2023.03.16~17 정말 시작하는 사람들을 위한 책. 중요한 개별 서비스에 대해서 각각 배울 수 있음
+  * 탐라 문004.588-김53ㅇ
+  * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
 * (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
   * 2014, 한라 004.58-오65ㅇ
 * (NOT YET) 처음 시작하는 AWS 람다 : 서버리스 아키텍처를 향한 첫 발걸음
@@ -642,9 +646,6 @@ Programming Books
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
 * (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook/)
   * 한라 004.588-컬878ㅇ
-* (NOT YET) [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
-  * 탐라 문004.588-김53ㅇ
-  * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide/)
   * 우당
 
