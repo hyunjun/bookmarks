@@ -751,6 +751,9 @@ NLP
   * [GPT-4](https://openai.com/product/gpt-4)
     * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
+  * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
+    * AI용 분산 클라우드를 제공하는 Together에서 소스 코드, 모델 가중치, 트레이닝 데이터 세트를 포함한 OpenChatKit을 오픈소스로 공개
+    * OpenChatKit은 GPT를 이용하는 챗봇을 만들 수 있게 개발되었으며 목적에 맞게 파인 튜닝도 지원
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
