@@ -312,6 +312,12 @@ Programming
   * 구글이 만든 SRE도 이론상은 괜찮지만, 인력이 부족해서 가짜 SRE 출현
   * 플랫폼 엔지니어링은 셀프서비스를 가능하게 하는 도구와 워크플로를 만드는 분야라고 하면서 이 플랫폼이 DevOps와 SRE의 문제를 완화할 수 있다고 주장
   * 약간 홍보 글 같은 느낌이 있기도 하지만 셀프서비스를 할 수 있는 플랫폼을 만드는 가치에 대해서는 동의
+* [SRE vs. Platform Engineering vs. DevOps | LaunchDarkly](https://launchdarkly.com/blog/sre-vs.-platform-engineering-vs.-devops/)
+  * SRE, 플랫폼 엔지니어링, DevOps 비교 설명하는 글
+  * SRE는 운영에 소프트웨어 엔지니어링 접근을 도입한 것인데 이를 리브랜딩이라고 생각할 수 있지만 프로덕션 프로세스의 사전 예방과 자동화에 중점
+    * 플랫폼 엔지니어링은 개발자 셀프서비스를 지원하는 플랫폼 구축
+  * SRE는 위기관리를 즐기고 장애 문제 해결을 좋아하는 경향
+    * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
