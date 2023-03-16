@@ -3670,6 +3670,7 @@ Programming Books
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
   * 한라 005.11-맥875ㅋ-2
+  * [Code Complete • Steve McConnell & Jeffrey van Gogh • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=STpbPXW9-pA)
 * (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 * (NOT YET) [리팩터링 워크북](https://insightbooklist.wordpress.com/books/individual/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-%EC%9B%8C%ED%81%AC%EB%B6%81/)
   * 한라 004.575-웨68ㄹ
