@@ -93,6 +93,9 @@ Elixir
 * [Doing things only once in Elixir - DEV Community](https://dev.to/palm86/doing-things-only-once-in-elixir-4hdg)
 * [What does AI dream about? Stable Diffusion in Elixir | Curiosum](https://curiosum.com/blog/what-does-ai-dream-about-stable-diffusion-in-elixir)
 * [Embedded and cloud Elixir for grid-management at Sparkmeter - The Elixir programming language](https://elixir-lang.org/blog/2023/03/09/embedded-and-cloud-elixir-at-sparkmeter/)
+* [Distributed Elixir App in AWS, PT1 — Let’s build the application | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/distributed-elixir-app-in-aws-pt1-lets-build-the-application-a5ce4ac62d26)
+* [Distributed Elixir App in AWS, PT2 — Let’s compile the application | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/distributed-elixir-app-in-aws-pt2-5bd29aea922a)
+* [Elixir Distribution, ELI5. Maybe you heard about Elixir or Erlang… | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/elixir-distribution-eli5-309193004119)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
