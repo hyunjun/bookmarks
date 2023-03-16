@@ -516,6 +516,7 @@ Java
 * [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
 * [Java Thread Pool 동작 원리 (테스트 코드와 함께)](https://velog.io/@joosing/how-java-thread-pool-works-with-test-code)
   * [ThreadPoolExecutorTest.java](https://github.com/Jsing/study-in-code/blob/e08f227bb0528487f7a1b96a9e473a1cf4d642a0/src/test/study/tech/java/concurrent/ThreadPoolExecutorTest.java)
+* [제품을 만들며 『Hello World』 이상의 코드 만들기](https://velog.io/@joosing/creating-products-beyond-helloworld-code) ThreadPoolExecutor
 * [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
 * [스레드 안정성](https://astrod.github.io/book/2018/08/01/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%95%EC%84%B1/)
