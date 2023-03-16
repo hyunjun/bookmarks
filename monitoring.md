@@ -111,6 +111,9 @@ Monitoring
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
   * [Realtime Fastly logs with Grafana Loki for under $1 a day | by Alina Frolova | Aug, 2021 | loveholidays tech](https://tech.loveholidays.com/realtime-fastly-logs-with-grafana-loki-for-under-1-a-day-5b63ccf32d66)
   * [How Istio, Tempo, and Loki speed up debugging for microservices | Grafana Labs](https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/)
+  * [How To Reduce Costs And Improve Observability With Loki](https://www.activecampaign.com/blog/reducing-costs-and-improving-observability-with-loki)
+    * ActiveCampaign이라는 회사에서 ELK(Elasticsearch, Logstash, Kibana)로 로그 시스템을 운영하다가 비용이 너무 커져서 Loki로 이동
+    * 프로덕션에 적용할 때는 최적화가 쉽지는 않았지만, 완전히 이전하고 난 뒤에는 이전보다 로그 관련 호스팅 비용을 73% 감소
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
