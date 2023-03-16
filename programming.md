@@ -318,6 +318,10 @@ Programming
     * 플랫폼 엔지니어링은 개발자 셀프서비스를 지원하는 플랫폼 구축
   * SRE는 위기관리를 즐기고 장애 문제 해결을 좋아하는 경향
     * 플랫폼 엔지니어는 전형적인 소프트웨어 엔지니어로 중단없이 작업하는 것을 선호
+* [Leveraging platform engineering and DevOps synergy for high-performance systems | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/03/06/leveraging-platform-engineering-and-devops-synergy-for-high-performance-systems/)
+  * 작년 10월부터 관심이 늘고 있는 플랫폼 엔지니어링을 설명
+  * 플랫폼 엔지니어링은 개발자가 셀프서비스를 할 수 있게 하는 데 집중하고 인프라 관리를 자동화하고 추상화하여 툴체인의 관리 부담과 개발자의 인지 부하를 줄이는 것이 목적
+  * DevOps는 여전히 중요한 개념으로 플랫폼 엔지니어링은 누구나 DevOps에 접근 가능하게 함
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
