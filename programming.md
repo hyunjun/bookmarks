@@ -2229,6 +2229,12 @@ Programming
       * ztunnel에서 mTLS, 텔레메트리, 인증, L4 인가 등을 지원
     * L7 기능이 필요하면 Envoy 기반의 waypoint 프락시를 사용해서 L7 처리 기능 제공
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
+  * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
+    * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
+      * Istio의 ambient mesh를 위한 ztunnel(zero trust tunnel) 컴포넌트는 HTTP 트래픽을 종료하거나 헤더를 파싱하지 않고 mTLS, 인증, L4 인가, 텔레메트리를 위한 기능을 가지고 있으며 Kubernetes 워커 노드에서 실행되어 최소한의 리소스 풋 프린트를 남기는 것이 중요
+      * 작년 처음 공개했을 때 ztunnel은 Envoy 프락시로 구현했지만 ztunnel에는 Envoy가 적합하지 않다고 판단
+      * ztunnel이 Istiod와 통신할 수 있는 최소한의 구현만 할 수 있게 구성 프로토콜을 만들고 Rust로 빠르고 가볍게 구현
+      * Istio에서 Go를 쓰고 있어서 Go로 목적을 달성하길 원했으나 Rust와 Go로 모두 구현해 본 결과 Rust가 더 적합하다고 판단
 * [kong: 🦍 The Cloud-Native API Gateway](https://github.com/Kong/kong)
   * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
   * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
