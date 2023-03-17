@@ -1808,6 +1808,7 @@ Business
 * [구글의 OKR을 어떻게 우리회사에? 1/2](https://brunch.co.kr/@se8040/9)
 * [레몬베이스의 OKR 활용법. 레몬베이스 팀이 목표를 어떻게 정하고 얼라인 하며, 그 목표를 달성하기… | by Roy Hyun | 레몬베이스 (Lemonbase) | Jan, 2023 | Medium](https://medium.com/lemonbase/%EB%A0%88%EB%AA%AC%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-okr-%ED%99%9C%EC%9A%A9%EB%B2%95-706e808864a6)
 * [OKR is Simple](https://www.linkedin.com/posts/hong-min-kang-582522112_okr-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-by-opellie-ugcPost-7013347722900512768-s4PA/)
+* [목표 관리에 접목하면 좋은 방법 '운동선수'](https://brunch.co.kr/@xmetal/235) MBO, SMART
 
 # Patent
 * 세기의 특허전쟁
