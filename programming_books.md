@@ -787,7 +787,8 @@ Programming Books
   * 우당 문005.12-비63ㅎ
   * [dhaj](https://github.com/wikibook/dhaj)
 * (NOT YET) [마이크로서비스 아키텍처 구축 가이드](https://hanbit.co.kr/store/books/look.php?p_code=B9403623796)
-  * 우당
+  * 우당 문005.12-김66ㅁ
+  * [book-examples: 도서 마이크로서비스 아키텍처 구축 가이드(한빛미디어)의 예제 소스와 템플릿 안내 입니다](https://github.com/wharup/book-examples)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 1부 - YouTube](https://www.youtube.com/watch?v=kOgLZGqJAhg)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
 
@@ -3688,14 +3689,17 @@ Programming Books
 * (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
-* (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines/)
-  * 우당
+* (NOT YET) [파이브 라인스 오브 코드 | 위키북스](https://wikibook.co.kr/five-lines)
+  * 우당 문005.16-클231ㅍ
+  * [five-lines](https://github.com/wikibook/five-lines)
+  * [bomb-guy](https://github.com/wikibook/bomb-guy)
   * [**Expert Talk: Five Lines of Code • Christian Clausen & Julian Wood • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=DpDQn99BY0M)
     * 생산성을 높이기 위해서 첫 번째로 할 일이 자신이 사용하는 도구의 모든 shortcut, trick을 익히라는 이야기에 한 대 얻어맞은 듯 놀랐다. 정말 맞는 말인데 잊고 있었다
     * 두 번째는 work more closely together, one flow, one team. 이 부분도 최근에 항상 생각하고 느끼는 거였지만, 역시 중요하다는 걸 다시 느끼게 됨
     * [Christian Clausen – Medium](https://thedrlambda.medium.com/)
 * (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software)
   * 우당
+* (NOT YET) [쉽게 배우는 소프트웨어 공학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71471277)
 
 # Spark
 
