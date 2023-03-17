@@ -1989,6 +1989,7 @@ App
 # Office
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
 * [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
+* [Microsoft 365 Copilot 공개 - AI 기반 오피스 도우미 | GeekNews](https://news.hada.io/topic?id=8717)
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
