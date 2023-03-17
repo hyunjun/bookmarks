@@ -992,6 +992,9 @@ Book
 * [만화로 배우는 요리의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B6219803227)
   * ★★★☆☆ 2023.03.17 내용은 좋지만, 프랑스인이 쓴 책이라 당연히 유럽 위주이며, 동아시아는 중국/일본만 나옴
   * 우당 문594.509-시31ㅇ
+* [만화로 배우는 불멸의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B7172444748)
+  * ★★★☆☆ 2023.03.17 트랜스휴머니즘의 역사부터 최근의 흐름까지 간단히 알 수 있음
+  * 우당 문909-시31ㅂ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1097,8 +1100,6 @@ Book
   * 한라 558.309-김25ㅅ 우당 문558.309-김225ㅅ
 * (NOT YET) [30년 전쟁: 오늘의 유럽을 낳은 최초의 영토 전쟁 1618-1648](https://www.yna.co.kr/view/AKR20110615079500005)
   * 한라 920.42-웨78ㅅ
-* (NOT YET) [만화로 배우는 불멸의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B7172444748)
-  * 우당 문909-시31ㅂ
 * (NOT YET) [군중의 망상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308611888)
 * (NOT YET) [만화로 배우는 와인의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B5656371314)
   * 탐라 문573.2-시31ㅇ
