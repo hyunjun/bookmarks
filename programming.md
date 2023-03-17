@@ -1643,6 +1643,11 @@ Programming
 * [Managing Complex Dependencies with Distributed Architecture at eBay](https://www.infoq.com/news/2022/04/distributed-arch-ebay/)
 * [Distributed System Design Patterns | by Nishant | May, 2022 | Medium](https://medium.com/@nishantparmar/distributed-system-design-patterns-2d20908fecfc)
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
+* [The Distributed Computing Manifesto | All Things Distributed](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
+  * [Werner Vogels – Amazon 분산 컴퓨팅 선언문 (1998) :: Channy's Blog](https://channy.creation.net/blog/1715/)
+    * Amazon의 CTO의 Werner Vogels가 1998년 아마존에서 작성되었던 분산 컴퓨팅 선언문 공개
+    * 25년이 지난 지금 놀라운 얘기는 아니지만, 당시에 저렇게 생각했다는 게 놀라움
+    * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
 * [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
   * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
   * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
@@ -1651,11 +1656,7 @@ Programming
   * 블루스카이 앱도 곧 공개할 예정
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
-* [The Distributed Computing Manifesto | All Things Distributed](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
-  * [Werner Vogels – Amazon 분산 컴퓨팅 선언문 (1998) :: Channy's Blog](https://channy.creation.net/blog/1715/)
-    * Amazon의 CTO의 Werner Vogels가 1998년 아마존에서 작성되었던 분산 컴퓨팅 선언문 공개
-    * 25년이 지난 지금 놀라운 얘기는 아니지만, 당시에 저렇게 생각했다는 게 놀라움
-    * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
+* [loxilb: eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps](https://github.com/loxilb-io/loxilb)
 
 ## Architecture Domain Driven Development DDD
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
