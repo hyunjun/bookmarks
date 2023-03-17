@@ -426,11 +426,13 @@ Book
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
-  * 우당
+  * 우당 문004.76-정79ㄷ
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * 탐라
 * (NOT YET) [몰입의 즐거움 - YES24](http://www.yes24.com/product/goods/101506519)
   * 한라 181.37-칙54ㅁ
+* (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
+  * 우당 문559.34464-리819ㅅ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1021,6 +1023,9 @@ Book
   * [실크로드 세계사 - 고대 제국에서 G2 시대까지 : 네이버 블로그](https://blog.naver.com/taejj5115/221077379918)
 * (NOT YET) [처음 읽는 술의 세계사](https://brunch.co.kr/@roadkeeper/64)
 * (NOT YET) 최초의 역사 수메르 [점토판에 새겨진 ‘최초의 역사’를 읽다 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1024620.html)
+  * 탐라 문918.4-김51ㅊ 우당 문918.4-김51ㅅ
+* (NOT YET) [역사는 수메르에서 시작되었다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=138759868)
+  * 한라 918.4-크294ㅇ 우당 문909.5-크233ㅇ2
 * (NOT YET) ['오스만제국의 칭기스칸' 술탄 셀림](https://www.news1.kr/articles/?4699888)
 * (NOT YET) [인도유럽인, 세상을 바꾼 쿠르간 유목민](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25344371)
   * 한라 915-쉬34ㅇ
@@ -1090,10 +1095,12 @@ Book
 * (NOT YET) [30년 전쟁: 오늘의 유럽을 낳은 최초의 영토 전쟁 1618-1648](https://www.yna.co.kr/view/AKR20110615079500005)
   * 한라 920.42-웨78ㅅ
 * (NOT YET) [만화로 배우는 불멸의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B7172444748)
-  * 우당
+  * 우당 문909-시31ㅂ
 * (NOT YET) [만화로 배우는 요리의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B6219803227)
-  * 우당
+  * 우당 문594.509-시31ㅇ
 * (NOT YET) [군중의 망상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308611888)
+* (NOT YET) [만화로 배우는 와인의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B5656371314)
+  * 탐라 문573.2-시31ㅇ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
