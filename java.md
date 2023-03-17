@@ -2013,6 +2013,7 @@ Java
 * [Https with TLS and springboot | Microservices | Java Expert - YouTube](https://www.youtube.com/watch?v=wxehZYeRWSk)
 * [Decoupling Springboot Microservices Using Workflow Automation • Niall Deehan • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=YEvMs0YOUNw)
 * [Spring Boot | Reactive Programming Complete Tutorials for Beginners | JavaTechie - YouTube](https://www.youtube.com/watch?v=bXcFCgQsvAE)
+* [IMDEV 2023 Reactive를 사용한 서비스 성능 개선기 - YouTube](https://www.youtube.com/watch?v=yX3HoU0F5sY)
 * [2.4 부터 변경된 구성파일 처리방식 살펴보기 - I'm honeymon(JiHeon Kim)](https://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 * [Spring Boot 2.2.0 : Quicker startup times with Lazy Initialization | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/spring-boot-2-2-0-quicker-startup-times-with-lazy-initialization-2db2eb258dea)
 * [스프링 배치 완벽 가이드 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765957)
