@@ -668,6 +668,7 @@ Scala
 * [Enumerations in Scala](https://www.youtube.com/watch?v=GqobszawRnQ)
 * [Scala Case Classes vs Enumeration - Wojciech Programming Blog](https://www.wlangiewicz.com/2016/03/20/scala-case-classes-vs-enumeration/)
 * [Concise enumeration in Scala | ScalaJobs.com](https://scalajobs.com/blog/concise-enumeration-in-scala/)
+* [Enum serialization in Scala | ScalaJobs.com](https://scalajobs.com/blog/enum-serialization-in-scala/)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
@@ -1351,6 +1352,8 @@ Scala
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Use Scala Macros and Quasiquotes to Reduce Boilerplate | Toptal](https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate)
+* [Compile-Time Time! — Data Transmogrification Macro From Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=h9hCm7GRbfE)
+* [Compile-Time Time! — Data Transmogrification Macro From Scratch — Part 2 - YouTube](https://www.youtube.com/watch?v=w7pzqHXGnf8)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
