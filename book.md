@@ -298,6 +298,9 @@ Book
   * ★★★☆☆ 2023.03.13 이미 아는 것들이 많고, 또 실천했던 것도 있지만 잊고 안 하던 걸 다시 (체계적으로) 알게 되었다
   * 한라 373-영57ㅇ 탐라 문325.211-영58ㅇ 우당 문325.211-영58ㅇ
   * [MIT Challenge - Scott H Young](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+* [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
+  * ★★★☆☆ 2023.03.17 sketchbook app을 중심으로 비주얼 씽킹을 어떻게 할지 알려주는 책
+  * 우당 문004.76-정79ㄷ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -425,8 +428,6 @@ Book
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
-* (NOT YET) [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
-  * 우당 문004.76-정79ㄷ
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * 탐라
 * (NOT YET) [몰입의 즐거움 - YES24](http://www.yes24.com/product/goods/101506519)
