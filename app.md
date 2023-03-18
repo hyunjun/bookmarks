@@ -1600,6 +1600,11 @@ App
   * [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
   * [Scala's Gitter to Discord migration mistake - Alexandru Nedelcu](https://alexn.org/blog/2022/04/09/scala-gitter-discord-mistake/)
   * [디스코드에서 대용량파일 보내는 쉽고 새로운 방법](https://about.file.kiwi/35)
+  * [juny-discord-bot-test: JDA를 이용한 Spring Boot Discord Bot 연습이에요](https://github.com/junyharang-personal-project/juny-discord-bot-test)
+    * [Spring Boot Discord Bot(디스코드 봇) 만들기](https://junyharang.tistory.com/381)
+    * [Spring Boot Discord Bot(디스코드 봇) 만들기 - Spring Boot(스프링 부트)를 이용한 간단한 API 만들기 feat.mybatis(마이바티스)](https://junyharang.tistory.com/382)
+    * [Spring Boot Discord Bot(디스코드 봇) 만들기 - JAVA를 이용한 API 호출](https://junyharang.tistory.com/383)
+    * [Spring Boot Discord Bot(디스코드 봇) 만들기 - 디스코드 봇을 이용하여 API 호출](https://junyharang.tistory.com/384)
 * [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
   * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 * slack
