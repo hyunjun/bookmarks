@@ -1124,6 +1124,7 @@ NLP
 * [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
+  * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
@@ -1144,6 +1145,10 @@ NLP
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
+* [semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
+  * [Hello, Semantic Kernel! | Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
+  * [Introducing Semantic Kernel](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel)
+  * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
 * [stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
