@@ -18,7 +18,6 @@ Elixir
 * [Monads in Elixir](http://www.zohaib.me/monads-in-elixir-2/)
 * ["Elixir and the Internet of Things" by Doug Rohrer](https://www.youtube.com/watch?v=a-OCorBXX7M)
 * [Elixir Streams](http://blog.drewolson.org/elixir-streams/)
-* [Phoenix Dev Blog - Streams · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
 * [Binary pattern matching in Elixir with PNG parsing example](http://zohaib.me/binary-pattern-matching-in-elixir/)
 * [Hacking Elixir's Syntax](http://blog.heldscal.la/elixir-hacking.html)
 * [Elixir Process Architecture or: How I Learned to Stop Worrying and Love to Crash](http://engineering-blog.alphasights.com/how-i-learned-to-stop-worrying-and-learned-to-love-the-crash/)
@@ -138,6 +137,7 @@ Elixir
 * [Orion](https://hexdocs.pm/orion/) Dynamic Distributed Profiler
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
+  * [Phoenix Dev Blog - Streams · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-streams/)
   * [Phoenix로 블로그 웹 애플리케이션 만들기 (for Rails developers)](http://guruble.com/phoenix-%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9b%b9-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0-for-rails-developers/)
     * [피닉스 프레임워크로 블로그 웹 애플리케이션 만들기](https://ppss.kr/archives/149596)
     * [PhoenixBlog](https://github.com/jhsbeat/Phoenix_blog)
@@ -167,6 +167,7 @@ Elixir
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
   * [Elixir/Phoenix Security: Remote Code Execution and Serialisation](https://paraxial.io/blog/elixir-rce)
   * [Phoenix 1.7 with Svelte. Cybernetically enhanced Phoenix Web… | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
+  * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
