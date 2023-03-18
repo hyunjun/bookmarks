@@ -1136,6 +1136,7 @@ Git
       * 잘못된 코드의 생산으로 오픈소스 생태계에 장기적으로 안 좋은 영향을 줄 수 있다고 하며
       * 사용자들의 의견과 제보를 받고 있음
   * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
+  * [Amazing GitHub CoPilot - Create a Java to check if a number is prime and if a string is a palindrome - YouTube](https://www.youtube.com/watch?v=nq7i3RLlITI)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
