@@ -1208,6 +1208,7 @@ Javascript
       * 실제로 광고 쪽에서 취소를 구현하다가 쉽지 않음을 깨달았지만
       * 적용한 Promise 취소 방법에 관해서도 설명
   * [Promise 및 (Micro)Task 등의 비동기는 만능이 아니다](https://velog.io/@composite/Promise-%EB%B0%8F-MicroTask-%EB%93%B1%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EB%A7%8C%EB%8A%A5%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
+  * [Why To Use JavaScript Async/Await Over Promises ? - YouTube](https://www.youtube.com/watch?v=8V-DOz4Lqkc)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -3354,6 +3355,13 @@ Javascript
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
+* [totaljs/framework: Node.js framework](https://github.com/totaljs/framework)
+  * [JavaScript libraries and components for web development - Total.js Platform](https://www.totaljs.com/)
+  * [Total.js tutorial: Simple Todo application (part 1) | by Louis Bertson | Mar, 2023 | Medium](https://medium.com/@louisbertson/total-js-tutorial-simple-todo-application-part-1-4432e2aef0e0)
+  * [10 Total.js features to use in your next Express.js application. | by Louis Bertson | Feb, 2023 | Medium](https://medium.com/@louisbertson/10-total-js-features-to-use-in-your-next-express-js-application-27fa2cc2a2ad)
+  * [Total.js API routing: The game changer | by Louis Bertson | Mar, 2023 | Medium](https://medium.com/@louisbertson/total-js-api-routing-the-game-changer-888077dd807b)
+  * [Total.js OpenPlatform: installation guide | by Louis Bertson | Mar, 2023 | Medium](https://medium.com/@louisbertson/total-js-openplatform-installation-guide-fe46e2598c38)
+  * [Beginner guide to integrate ChatGPT to Total.js Flow | by Louis Bertson | Feb, 2023 | Medium](https://medium.com/@louisbertson/beginner-guide-to-integrate-chatgpt-to-total-js-flow-735a6956603f)
 * [trymodule - A simple cli tool for trying out different nodejs modules](https://github.com/VictorBjelkholm/trymodule)
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)
 * [undici: An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
