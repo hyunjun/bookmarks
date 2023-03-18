@@ -751,6 +751,7 @@ NLP
     * [ChatRWKV - RWKV(100% RNN)로 구현한 ChatGPT와 비슷한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8329)
   * [GPT-4](https://openai.com/product/gpt-4)
     * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
+    * [IT TREND AI 시장 동향 : GPT-4의 등장](https://tech.kakaoenterprise.com/185)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
     * AI용 분산 클라우드를 제공하는 Together에서 소스 코드, 모델 가중치, 트레이닝 데이터 세트를 포함한 OpenChatKit을 오픈소스로 공개
@@ -1210,6 +1211,7 @@ NLP
 * [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
 * [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
   * [Firebase Cloud Messaging 용 API KEY는 어디에서 찾을 수 있습니까? - 리뷰나라](http://daplus.net/firebase-firebase-cloud-messaging-%EC%9A%A9-api-key%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C/)
