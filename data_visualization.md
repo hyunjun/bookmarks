@@ -616,5 +616,6 @@ Data Visualization
   * [#Python | Seaborn, A Popular Statistical Graphics Library! | #seaborn #DataVisualization #Pairplot - YouTube](https://www.youtube.com/watch?v=aGRFomGbv6M)
   * [Python Data Analysis Tips Seaborn lmplot](https://www.datasimple.education/post/python-data-analysis-tips-seaborn-lmplot/)
   * [Python Data Analysis Tips PairGrid Seaborn why to use a PairGrid vs pairplot in Seaborn](https://www.datasimple.education/post/python-data-analysis-tips-pairgrid-seaborn-why-to-use-a-pairgrid-vs-pairplot-in-seaborn)
+  * [python data analysis tips sns jointplot how to change subplots in seaborn jointplot - YouTube](https://www.youtube.com/watch?v=B00ZUuqxA0U)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
