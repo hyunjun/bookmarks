@@ -434,6 +434,7 @@ Book
   * 한라 181.37-칙54ㅁ
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
+* (NOT YET) [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
