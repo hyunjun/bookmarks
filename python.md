@@ -4925,6 +4925,9 @@ Python
 * [optimus: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark](https://github.com/hi-primus/optimus)
   * [Data Science with Optimus. Part 1: Intro. | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/data-science-with-optimus-part-1-intro-1f3e2392b02a)
   * [Data Science with Optimus. Part 2: Setting your DataOps Environment. | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/data-science-with-optimus-part-2-setting-your-dataops-environment-248b0bd3bce3)
+* [pandera: A light-weight, flexible, and expressive statistical data testing library](https://github.com/unionai-oss/pandera)
+  * [Pandera makes it easy to validate pandas DataFrame](https://www.linkedin.com/posts/khuyen-tran-1401_datascience-python-activity-7042493506438795264-GUYs/)
+  * [How to Validate Your pandas DataFrame with Pandera - YouTube](https://www.youtube.com/watch?v=CB8D7RUM-lI)
 * [Polars](https://www.pola.rs/)
   * [polars: Fast multi-threaded DataFrame library in Rust and Python](https://github.com/pola-rs/polars)
   * [Pypolars | What is Pypolars and How Pypolars Compares With Pandas](https://www.analyticsvidhya.com/blog/2021/02/is-pypolars-the-new-alternative-to-pandas/)
@@ -5127,6 +5130,7 @@ Python
 * [How to Support A/B Testing in Your Python Code - YouTube](https://www.youtube.com/watch?v=115SeMub-P0)
   * [2022-abtest](https://github.com/ArjanCodes/2022-abtest)
 * [Code coverage through unit tests running in sub-processes/threads - presented by Saransh Chopra - YouTube](https://www.youtube.com/watch?v=OwA8hfLclTg)
+* [Testing in Python - YouTube](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoYEer9hBmTNwkYB3gmbOPO)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
