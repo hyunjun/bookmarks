@@ -73,6 +73,9 @@ Ruby
 * [Ruby DSL Handbook - the ebook about creating Ruby code that speaks your language while avoiding metaprogramming hell. Written by Jim Gay](http://clean-ruby.com/dsl)
 * [Refactoring Ruby Ed.](https://martinfowler.com/books/refactoringRubyEd.html)
 
+# Conference
+* [RailsConf 2022 - YouTube](https://www.youtube.com/playlist?list=PLbHJudTY1K0f1WgIbKCc0_M-XMraWwCmk)
+
 # Library
 * [classroom: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub](https://github.com/education/classroom)
 * [Cuba](http://theguidetocuba.io/online.html)
