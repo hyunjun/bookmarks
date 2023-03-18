@@ -726,6 +726,7 @@ Clojure
 * [Changing to Clojure mid-flight by Marcus Rydberg - YouTube](https://www.youtube.com/watch?v=zK9y1nvmft8)
 * [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [TECHㅣ컨퍼런스 - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) 그린랩스
+* [Give me Interactive Programming, or give me death, by Peter Strömberg - YouTube](https://www.youtube.com/watch?v=L0-yDtVUWMQ)
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
@@ -1077,6 +1078,7 @@ Clojure
 * [Nightcode - A handy tool for your Clojure adventures](https://sekao.net/nightcode/)
 * [nippy - High-performance serialization library for Clojure https://www.taoensso.com ](https://github.com/ptaoussanis/nippy)
   * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
+* [nrepl-gpt: allows you to query chatgpt from the clojure emacs repl](https://github.com/drcode/nrepl-gpt)
 * [omniconf: Configuration library for Clojure that favors explicitness](https://github.com/grammarly/omniconf)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
