@@ -670,6 +670,7 @@ Programming
   * 변수 이름이나 무엇을 하는지 등 코드로 표현할 수 있는 부분을 주석으로 작성하는 것은 피하고
     * 직관적으로 알기 어렵거나 이유에 대한 설명이 필요하다면 주석을 작성하는 게 좋다고 설명
   * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
+* [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 
 # Agile, Scrum
 * book
@@ -2389,6 +2390,7 @@ Programming
 * [크몽 개발팀 Jira 사용기. 민첩한 조직 구조를 유연하게 유지하는 데 도움을 준 Jira 사용기 | by gyeongrae.roh | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-81224416448e)
 * [크몽 개발팀 Jira 사용기 : 극대화 편. Jira를 이렇게까지 사용 가능한지 난 몰랐네? | by James | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EA%B7%B9%EB%8C%80%ED%99%94-%ED%8E%B8-88439965a9bf)
 * [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
+* [지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
