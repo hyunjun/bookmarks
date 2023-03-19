@@ -836,6 +836,7 @@ Business
 * [비즈니스 인사이트 외부 전문가를 영입할 때 종종하는 실수](https://n.news.naver.com/article/015/0004812238)
 * [Candidate Journey 설계에 5A Model 활용하기](https://www.linkedin.com/feed/update/urn:li:activity:7018436948591603712/)
 * [스타트업 대표가 놓치기 쉬운 채용 팁 8가지](https://eopla.net/magazines/2706)
+* [한기용 - 가장 중요한 포인트는 사람을 함부로 늘리지 않고 인재 밀도를 유지하는 것](https://www.facebook.com/keeyong.han/posts/pfbid0esmgp7oEznCg8ktzH1HkZKza5nzKAHsM8yUSgGgo51foAzaiwjMK166SSCndYJMvl)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
