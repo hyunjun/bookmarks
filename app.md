@@ -1679,6 +1679,7 @@ App
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [**Pencil Project**](http://pencil.evolus.vn/)
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
+* [Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 * [Penrose: from mathematical notation to beautiful diagrams](https://penrose.ink/siggraph20.html)
 * [PlantText UML Editor](http://www.planttext.com/)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)

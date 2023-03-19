@@ -784,6 +784,7 @@ Clojure
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Clojure programming world: 6 essential libraries and other tools](https://freshcodeit.com/freshcode-post/clojure-programming-world-frameworks-and-other-tools)
 * [Creating and publishing Clojure libraries - DEV Community](https://dev.to/kozieiev/creating-and-publishing-clojure-libraries-3kpp)
+* [🌳 5 Awesome Clojure Projects — UI Design Tool & More | by 💎 Tom Smykowski | Jan, 2023 | Medium](https://tomaszs2.medium.com/5-awesome-clojure-projects-interface-design-tool-more-9081e9dd0c67)
 * [abclj: Clojure to Common lisp interop](https://github.com/lsevero/abclj)
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
@@ -1040,6 +1041,7 @@ Clojure
   * [Embedding Clojure In Python](https://clj-python.github.io/libpython-clj/embedded.html)
   * [Extending Clojure with Python - Chris Nuernberger - YouTube](https://www.youtube.com/watch?v=vQPW16_jixs)
 * logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
+* [logseq: A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap ](https://github.com/logseq/logseq)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
 * [lovelace: A Clojure wrapper for Notion's API 🌺](https://github.com/arthurbarroso/lovelace)
@@ -1146,6 +1148,7 @@ Clojure
   * [클로저로 웹 서버 애플리케이션 개발을 시작하는 사람들을 위한 Ring 소개서 | 그린랩스](https://green-labs.github.io/introduce-a-ring)
   * [ring-defaults: A library to provide sensible Ring middleware defaults](https://github.com/ring-clojure/ring-defaults)
   * [ripley: Ring live pages experiment](https://github.com/tatut/ripley)
+* [robocode-clojure: Template project for building a Robocode Robot in Clojure](https://github.com/nubank/robocode-clojure)
 * [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
