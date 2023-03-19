@@ -807,12 +807,13 @@ Programming Books
   * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/you_shall_develop_ai.md)
   * [당신은 AI를 개발하게 된다, 개발자가 아니더라도. 일관되게 나타나지만, 책의 주제는 AI이고 구체적인 내용은 AI의… | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%80-ai%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84-cd5b61f0a94e)
   * [당신은 AI를 개발하게 된다, 개발자가 아니더라도](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%80-AI%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B2%8C-%EB%90%9C%EB%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%84%EB%8B%88%EB%8D%94%EB%9D%BC%EB%8F%84)
+* [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
+  * ★★★☆☆ 2023.03.19 최근 경향까지 잘 정리해서 읽기 좋게 잘 설명함
+  * 탐라 문331.5412-정69ㅇ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
   * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
   * 한라 331.5412-리872ㅇ 탐라 문331.5412-리821ㅇ
-* (NOT YET) [AI 혁명의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306399016)
-  * 탐라 문331.5412-정69ㅇ
 * (NOT YET) [비즈니스 전략을 위한 AI 인사이트](https://brunch.co.kr/@ryhzen3/50)
 * (NOT YET) 야사와 만화로 배우는 인공지능 [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
   * 한라 004.73-권14ㅇ-1~2 우당 문004.73-권13ㅇ-1~2
@@ -2195,6 +2196,10 @@ Programming Books
 * [소문난 명강의 : 김범준의 핸즈온 리액트 네이티브](https://hanbit.co.kr/store/books/look.php?p_code=B2920695216)
   * [소문난 명강의: 김범준의 핸즈온 리액트 네이티브. 최근 flutter의 성장세가 거세지만, 여전히 react… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EC%86%8C%EB%AC%B8%EB%82%9C-%EB%AA%85%EA%B0%95%EC%9D%98-%EA%B9%80%EB%B2%94%EC%A4%80%EC%9D%98-%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-e6baacce24a)
   * [소문난 명강의: 김범준의 핸즈온 리액트 네이티브 -](https://jh4hj.tistory.com/entry/%EC%86%8C%EB%AC%B8%EB%82%9C-%EB%AA%85%EA%B0%95%EC%9D%98-%EA%B9%80%EB%B2%94%EC%A4%80%EC%9D%98-%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C)
+* [스무디 한 잔 마시며 끝내는 React Native](https://bjpublic.tistory.com/343/)
+  * 2023.03.19 설명은 괜찮아 보이는데 2019년 책이라 버전이 많이 낮아서 지금도 유효할지는 모르겠음
+  * 한라 005.58-김74ㅅ
+  * [Reactnative: 스무디 한 잔 마시며 끝내는 React Native](https://github.com/bjpublic/Reactnative)
 * (NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
   * 2018.02 한라
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)
@@ -2207,9 +2212,6 @@ Programming Books
 * (NOT YET) [실전 리액트 프로그래밍](https://medium.com/@ljs0705/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%B1%85%EC%9D%84-%EC%8D%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-b227ab9df8b8)
   * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
   * [<실전 리액트 프로그래밍> 개정판 소식 - landvibe - Medium](https://medium.com/@ljs0705/%EC%8B%A4%EC%A0%84-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9C%EC%A0%95%ED%8C%90-%EC%86%8C%EC%8B%9D-d6d7a77e1c52)
-* (NOT YET) [스무디 한 잔 마시며 끝내는 React Native](https://bjpublic.tistory.com/343/)
-  * 한라 005.58-김74ㅅ
-  * [Reactnative: 스무디 한 잔 마시며 끝내는 React Native](https://github.com/bjpublic/Reactnative)
 * (NOT YET) [파이썬과 리액트를 활용한 주식 자동거래 시스템 구축 데이터 수집부터 거래 자동화, API 서버, 웹 개발, 데이터 분석까지 아우르는](https://wikibook.co.kr/stock-trading/)
 * (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
 * (NOT YET) [소문난 명강의 : 소플의 처음 만난 리액트](https://hanbit.co.kr/store/books/look.php?p_code=B9365371874)
@@ -2353,7 +2355,8 @@ Programming Books
   * [왜 일하는가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80)
     * 2010.05.16
     * 탐라 문325.04-이211ㅇ 우당 문325.211-이211ㅇ
-  * (NOT YET) 불패경영의 원칙
+  * 불패경영의 원칙
+    * ★★★☆☆ 2023.03.19 다른 이나모리 가즈오 책에서 봤던 점들이 많아서 익숙해서 읽기에 편했음
     * 한라 325.24-이192부
   * [아메바 경영 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301185033)
     * ★★★☆☆ 2023.03.06
