@@ -1206,6 +1206,7 @@ Business
 * [CTO는 어떤 일을 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1791/)
 * [Zero Sum Game - CTO의 변신이 R&D 혁신의 출발점이다](https://supremacy.tistory.com/378)
 * [**So You Want To Be A CTO • Simon Raik-Allen • YOW! 2016 - YouTube**](https://www.youtube.com/watch?v=oQjsQCq3aWA) 역할에 대한 여러가지 설명이 좋음
+* [How I CTO • Gil Tene • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=C48-Zsen1WI) know your business
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
