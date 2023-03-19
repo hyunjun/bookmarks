@@ -671,6 +671,7 @@ Programming
     * 직관적으로 알기 어렵거나 이유에 대한 설명이 필요하다면 주석을 작성하는 게 좋다고 설명
   * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
 * [Technical dimensions of programming systems](https://tomasp.net/techdims/)
+* [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
 
 # Agile, Scrum
 * book
