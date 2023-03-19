@@ -727,6 +727,7 @@ Clojure
 * [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [TECHㅣ컨퍼런스 - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) 그린랩스
 * [Give me Interactive Programming, or give me death, by Peter Strömberg - YouTube](https://www.youtube.com/watch?v=L0-yDtVUWMQ)
+* [Clojure Arcade: Mac Man Quick Start - YouTube](https://www.youtube.com/watch?v=WoSvzl8rWj0)
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
