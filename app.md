@@ -893,7 +893,6 @@ App
   * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
   * [vscode 설정값 초기화하기 (settings.json)](https://memostack.tistory.com/158)
   * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
-  * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
   * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
   * [Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
   * [Use VSCode Like a Senior Developer | by bitfish | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/use-vscode-like-a-senior-developer-9b54054c452a)
@@ -922,6 +921,10 @@ App
   * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
   * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
   * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
+  * C/C++
+    * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
+    * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
+    * [Visual Studio Code를 사용한 C/C++ 개발환경 만들기(Windows/Ubuntu) - 멈춤보단 천천히라도](https://webnautes.tistory.com/1158)
   * Debug
     * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
     * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -965,7 +968,6 @@ App
     * [Top 5 Must-have VS Code extensions](https://open-support.tistory.com/entry/Top-5-Must-have-VS-Code-extensions)
     * [VSCode Extensions: 8 Must Have VSCode Plugins in 2021 | CodersTea](https://www.coderstea.com/post/tools/every-programmer-needs-these-vscode-extensions/)
     * [VSCode에서 Bracket Pair Colorizer 삭제하고 내장 기능 사용하기 | by Bora Lee | Oct, 2021 | Medium](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990)
-    * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [Red Hat Releases Language Support for Java Plugin 1.0 for VSCode](https://www.infoq.com/news/2021/11/java-plugin-version-1-vscode/)
     * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
     * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
