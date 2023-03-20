@@ -585,6 +585,7 @@ Data Science
   * 부가적으로, 플로우의 단계(요소)는 각각 버전이 컨트롤 되기 때문에, 각 단계별 결과를 조합해서 네임스페이스단위로 묶는것도 가능
   * 원하는 실험 단계의 결과를 조합해서 분석 가능 (tagging도 가능)
   * MetaFlow는 기본적으로, "first class support for various services on AWS" 인 라이브러리. Amazon S3에 배포하는 튜토리얼도 잘 작성
+  * [How Metaflow Became Netflix's Beloved Data Science Framework • Julie Amundson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=3p4QMfXp8TU)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
