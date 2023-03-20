@@ -1793,6 +1793,7 @@ Programming
 * [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=jrbWIS7BH70)
 * [Opportunities and Pitfalls of Event-driven Utopia - YouTube](https://www.youtube.com/watch?v=jjYAZ0DPLNM)
 * [Building Event Driven, Reactive Apps with Temporal: Workflows vs Sagas - YouTube](https://www.youtube.com/watch?v=oZ0yf8rTALA)
+* [Modern Event-driven Architecture: Adopting Data in Motion • Alex Stuart • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=FLQiqnkTogo)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
