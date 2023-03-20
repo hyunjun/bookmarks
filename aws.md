@@ -361,6 +361,7 @@ AWS
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
+* [AWS 크레덴셜 안전하기 사용하기 – AWS Vault – Lamanus' Archive](https://lamanus.kr/110)
 * [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
@@ -443,6 +444,7 @@ AWS
 * [**클라우드를 시작하는 사람을 위한 안내서 - 리눅서의 기술술 블로그**](https://linuxer.name/2022/05/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C/)
 * [Developing Two-Tier Web Apps with React and AWS | by Pavindu Lakshan | Apr, 2022 | Bits and Pieces](https://blog.bitsrc.io/developing-two-tier-web-apps-with-react-and-aws-daac41abd95e)
 * [개발자의 AWS 권한을 GitOps로 우아하게 관리하는 방법 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/05/12/aws-permission-management-using-gitops.html) AWS SSO
+* [AWS 크레덴셜 안전하게 사용하기 – AWS SSO – Lamanus' Archive](https://lamanus.kr/109)
 * [Introduction to Analytics on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 시작](https://khw742002.tistory.com/32)
   * [AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 1](https://khw742002.tistory.com/33?category=1006667)
@@ -1164,6 +1166,7 @@ AWS
   * 신뢰 정책도 일반적인 IAM 정책과 비슷하지만, IAM role이 리소스 역할을 하므로 `Resource` 속성은 없고
     * `Action`에는 `sts:AssumeRole`, `sts:AssumeRoleWithSAML`, `sts:AssumeRoleWithWebIdentity` 사용 가능
   * `Principal`과 `Condition`을 이용해서 범위를 제어하는 데 시간 기반으로 하거나 IP 주소로 하는 방법 등 설명
+* [AWS 크레덴셜 안전하기 사용하기 – Assume Role – Lamanus' Archive](https://lamanus.kr/111)
 * [ABAC 구성을 위한 AWS IAM 정책 설정(EC2권한)하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-iam-policy-for-abac/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
@@ -1406,7 +1409,6 @@ AWS
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
   * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
   * [AWS Lambda를 이용해 슬랙 앱 배포하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/12/Deploy-Slack-App-with-AWS-Lambda.html)
-  * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
@@ -1765,6 +1767,7 @@ AWS
 * [AWS RDS Scheduled start/stop](https://brunch.co.kr/@alden/67) by lambda
 * [RDS 생성하고 외부에서 접속하기 #aws #클라우드 - YouTube](https://www.youtube.com/watch?v=eJ1Bbu1MKA8)
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
+* [(AWS RDS) PostgreSQL 필수 Log 관련 Parameter](https://jojoldu.tistory.com/708)
 * [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
 * [EC2에서 RDS 서버에 접속하기](https://developer88.tistory.com/303)
 * [RDS 백업과 복원하기](https://developer88.tistory.com/308)
@@ -1781,6 +1784,7 @@ AWS
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(1) | by Phoebe Baek | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/oracle-dump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-d3d04700c23d)
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(2) | by Phoebe Baek | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/oracle-data-pump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-2-eed89531940)
 * [AWS RDS 생성 및 적용 방법 (Nest.js 기준)](https://blog.naver.com/gi_balja/223042740762)
+* [LG전자의 Amazon Aurora 및 RDS 블루/그린 배포를 이용한 데이터베이스 업그레이드 안정성 확보 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-electronics-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
