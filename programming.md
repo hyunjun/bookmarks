@@ -1228,6 +1228,7 @@ Programming
   * 문제를 풀기위한 도구와 방법을 직접 만든다면? 추상화 수준 하향(Hands on imperative, from the scratch)
   * 문제를 정의하고 이를 풀기 위한 틀을 기획한다면? 추상화 수준 상향(거인의 어깨 위)
 * [추상화는 추상적이지 않다. 프로그래머라면 언젠가는 마주해보았을 단어가… | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EC%B6%94%EC%83%81%ED%99%94%EB%8A%94-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-9bc27b34daba)
+* [추상이란 무엇일까 | Evans Library](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
