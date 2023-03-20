@@ -894,6 +894,8 @@ Javascript
   * JavaScript에서 `export default`를 사용하지 말라는 주장
   * `export default`는 CommonJS의 호환성을 위해서 추가된 기능으로 보통은 사용할 일이 없음
   * 오히려 export default를 사용하면 임포트할 때 함수 이름을 따로 고민해야 하고 모듈 전부를 임포트할 때 default가 어색하다고 이야기
+* [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
+  * [번역 코드 품질을 높여주는 고급 자바스크립트 함수](https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -5487,6 +5489,8 @@ Javascript
 * [TrackPurchase: 단 몇줄의 코드로 다양한 쇼핑 플랫폼에서 결제 내역을 긁어오자!](https://github.com/code-yeongyu/trackpurchase)
 * [tRPC - Move Fast and Break Nothing. End-to-end typesafe APIs made easy. | tRPC](https://trpc.io/)
   * [Awesome tRPC Collection | tRPC](https://trpc.io/docs/v10/awesome-trpc)
+  * [Full-Stack TypeScript with tRPC and React](https://www.robinwieruch.de/react-trpc/)
+    * [(번역) tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기](https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react)
 * [ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
 * [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
