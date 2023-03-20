@@ -706,6 +706,7 @@ Business
 * [why is everything so hard in a large organization? | do not look into laser with remaining eye](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
 * [How should our company structure our data team? | by David Murray | Snapcommerce | Medium](https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d)
 * [Building & scaling Engineering team | by Amit Kumar | Medium](https://toamitkumar.medium.com/building-scaling-engineering-team-21bd7471a35a)
+* [How to Truly Build a Team: Remove “Dev” & “QA” from Engineer’s Titles • Cindy Xin • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Nsi9qlYY9Fc)
 * [전체와 부분 그리고 엔지니어링](https://qurator.co.kr/quration/single/218)
 * [조직 구조 파악의 핵심 – Essential Node, Villain Node – hwansookim.com](https://hwansookim.com/2022/09/13/%ec%a1%b0%ec%a7%81-%ea%b5%ac%ec%a1%b0-%ed%8c%8c%ec%95%85%ec%9d%98-%ed%95%b5%ec%8b%ac-essential-node-villain-node/)
 * [홀라크라시의 문제점](https://www.linkedin.com/posts/activity-6975585654055309312-0kgv/)
