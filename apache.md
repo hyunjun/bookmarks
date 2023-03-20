@@ -65,6 +65,9 @@ Apache
 * [Airflow(에어플로우) could not queue task issue](https://blog.doosikbae.com/entry/Airflow%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-could-not-queue-task-issue)
 * [Orchestrating Your Data Pipelines with Apache Airflow • Ricardo Sueiras • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=YPQ65budGnI)
 * [데이터 엔지니어링 with R 1강. Airflow 소개 및 비교 - YouTube](https://www.youtube.com/watch?v=qNOGVu4v4xA)
+* [Apache airflow for beginners - YouTube](https://www.youtube.com/playlist?list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh)
+* [Apache Airflow Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
+* [Apache Airflow with Python - YouTube](https://www.youtube.com/playlist?list=PLL2hlSFBmWwy6zqmbwwOhNkPpTrpbQhM5)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -755,6 +758,7 @@ Apache
 * [Event-Driven Architectures Done Right, Apache Kafka • Tim Berglund • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=A_mstzRGfIE)
 * [네이버 스케일로 카프카 컨슈머 사용하기 - YouTube](https://www.youtube.com/watch?v=OxMdru93E6k)
 * [Resilient Real-Time Data Streaming across the Edge and Hybrid Cloud - YouTube](https://www.youtube.com/watch?v=lbsUmMPKZSM)
+* [Snowpipe Streaming now in Public Preview](https://www.snowflake.com/blog/snowpipe-streaming-public-preview/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
