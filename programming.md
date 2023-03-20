@@ -5343,6 +5343,7 @@ Programming
 * [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
 * [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
 * [폭포수 Vs 애자일 방식 프로젝트](https://brunch.co.kr/@df79991e83ed416/25)
+* [세상에 나쁜 방법론은 없습니다(feat. 폭포수 vs. 애자일) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/howproject20230320)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
