@@ -301,6 +301,9 @@ Book
 * [디지털 비주얼 씽킹](https://www.hanbit.co.kr/store/books/look.php?p_code=B4196198855)
   * ★★★☆☆ 2023.03.17 sketchbook app을 중심으로 비주얼 씽킹을 어떻게 할지 알려주는 책
   * 우당 문004.76-정79ㄷ
+* [몰입의 즐거움, 미하이 칙센트미하이](https://brunch.co.kr/@angelickajin/73)
+  * ★★★☆☆ 2023.03.20 뭔가 자기계발서같기도 하고, 철학서 같기도 하고, 뻔한 이야기인듯 하면서도 새롭게 느껴지는 면이 있던 묘한 책
+  * 한라 181.37-칙54ㅁ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -430,8 +433,6 @@ Book
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * 탐라
-* (NOT YET) [몰입의 즐거움 - YES24](http://www.yes24.com/product/goods/101506519)
-  * 한라 181.37-칙54ㅁ
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
