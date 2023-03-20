@@ -1832,6 +1832,7 @@ Docker
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kind](https://kind.sigs.k8s.io/)
   * [Kind로 Kubernetes control plane의 로그 레벨 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1659)
+  * [Kind의 Kubernetes 노드 이미지 직접 생성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1661)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
 * [Knative](https://knative.dev/)
   * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
