@@ -2358,6 +2358,9 @@ Programming Books
   * 불패경영의 원칙
     * ★★★☆☆ 2023.03.19 다른 이나모리 가즈오 책에서 봤던 점들이 많아서 익숙해서 읽기에 편했음
     * 한라 325.24-이192부
+    * [불패경영의 원칙](https://github.com/hyunjun/bookmarks/blob/master/programming_books/a_passion_for_success.md)
+    * [불패경영의 원칙. 다른 이나모리 가즈오 책에서 봤던 점들이 많아서 익숙해서 읽기에… | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/%EB%B6%88%ED%8C%A8%EA%B2%BD%EC%98%81%EC%9D%98-%EC%9B%90%EC%B9%99-ef54bdb8fc15)
+    * [불패경영의 원칙](https://jh4hj.tistory.com/entry/%EB%B6%88%ED%8C%A8%EA%B2%BD%EC%98%81%EC%9D%98-%EC%9B%90%EC%B9%99)
   * [아메바 경영 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301185033)
     * ★★★☆☆ 2023.03.06
     * 한라 325.1-이192아 탐라 문325.1-이211ㅇ
