@@ -210,6 +210,8 @@ Business
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
+* [얼라인먼트위크 (1) 서로 다른 악기들이 이루는 하모니](https://blog.toss.im/article/alignmentweek23-1)
+* [얼라인먼트위크 (2) 토스팀원들이 뽑은 최고의 러닝 쉐어](https://blog.toss.im/article/alignmentweek23-2)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1189/)
 * [배달의민족 CEO가 말하는 함께 일하고 싶은 개발자의 기준](https://eopla.net/magazines/56)
