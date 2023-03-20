@@ -1397,6 +1397,8 @@ AWS
 * [AWS Lambda SnapStart – 함수 실행 속도 및 성능 가속화 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
   * 스냅숏을 사용해서 Lambda의 초기화 시간을 줄일 수 있는 SnapStart 지원
 * [**AWS re:Invent 2022 - Building next-gen applications with event-driven architectures (API311-R) - YouTube**](https://www.youtube.com/watch?v=SbL3a9YOW7s&list=PL2yQDdvlhXf8Erryfslfo3E42QtcX-aiD)
+* [서버리스 모델이 백엔드 개발자를 위협하진 않을까?. AWS Lambda 로 서버리스 찍먹해보기 | by DoubleJONY | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%98%91%ED%95%98%EC%A7%84-%EC%95%8A%EC%9D%84%EA%B9%8C-c5194a66c432)
+* [AWS Lambda 에 IntelliJ 로 개발부터 배포까지 | by DoubleJONY | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/aws-lambda-%EC%97%90-intellij-%EB%A1%9C-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-b7854f01b39f)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
