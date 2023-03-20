@@ -819,6 +819,7 @@ Clojure
   * [Biff: Self-Hosted Firebase for Clojure - YouTube](https://www.youtube.com/watch?v=6kcnLKA4OXQ)
   * [Intro to Biff: a new full-stack web framework for Clojure - YouTube](https://www.youtube.com/watch?v=oYwhrq8hDFo)
   * [Introduction – Biff](https://findka.com/biff/)
+  * [Secrets, authentication, and plugins](https://biffweb.com/p/secrets-auth-plugins/)
 * [blackwater: Clojure SQL query logging](https://github.com/bitemyapp/blackwater/)
 * [blender-clj-addon: Base code for writing blender addons in clojure](https://github.com/tristanstraub/blender-clj-addon)
 * [boot - Build tooling for Clojure http://boot-clj.com ](https://github.com/boot-clj/boot)
