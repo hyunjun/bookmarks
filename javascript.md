@@ -2098,6 +2098,7 @@ Javascript
   * [class-validator와 class-transformer](https://blog.naver.com/pjt3591oo/223020508742)
   * [NestJS React Native Chat - YouTube](https://www.youtube.com/watch?v=-rypo4K8xjI)
   * [Nest.js - 컨트롤러 (Controlle.. : 네이버블로그](https://blog.naver.com/gi_balja/223049009173)
+  * [Nest.js - 프로바이더 (Provider) : 네이버 블로그](https://blog.naver.com/gi_balja/223049331255)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
