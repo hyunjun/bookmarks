@@ -895,6 +895,7 @@ Programming
 * [How to Get Rid of Your Fears • Erwin de Gier • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=X5kkuMbiHoU)
 * [Be Agile, Be DevOps, be well • Tomasz Manugiewicz • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=xzYrzphZEIg)
 * [Agile Product Design From the Trenches • Henrik Kniberg • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=9WSHK_29Hos)
+* [Agile은 모든 곳에 적용할 수 있다. 급변하는 세상에서 살아남는 방법 | by Wayne Kim | Mar, 2023 | Medium](https://medium.com/@kjh.original/agile%EC%9D%80-%EB%AA%A8%EB%93%A0-%EA%B3%B3%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-b416b9c53f48)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
