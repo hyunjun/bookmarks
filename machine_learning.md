@@ -834,6 +834,7 @@ Machine Learning
 * [Assessment Metrics for Clustering Algorithms](https://medium.com/@ODSC/assessment-metrics-for-clustering-algorithms-4a902e00d92d)
 * [Fantastic drivers and how to find them](https://blog.gojekengineering.com/fantastic-drivers-and-how-to-find-them-a88239ef3b29)
 * [Grouping Soccer Players with Similar Skillsets in FIFA 20 | Part 2: Hierarchical Clustering - YouTube](https://www.youtube.com/watch?v=wjlNySHpK9w)
+* [Feature Clustering: A Simple Solution to Many Machine Learning Problems - Machine Learning Techniques](https://mltechniques.com/2023/03/12/feature-clustering-a-simple-solution-to-many-machine-learning-problems/)
 
 ## Clustering DBSCAN
 * [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
