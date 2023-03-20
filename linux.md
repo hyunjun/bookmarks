@@ -157,6 +157,7 @@ Linux
 * [에스코어 | swappiness 커널 파라미터 관련(SWAP)](https://s-core.co.kr/post_os/swappiness-%EC%BB%A4%EB%84%90-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EA%B4%80%EB%A0%A8swap/)
 * [intel 13th gen (i5-1340p)의 리눅스 화면 끊김, 멈춤 증상](https://sunyzero.tistory.com/284) PSR
 * [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
+* [터미널 출력 제어를 위한 termios 구조체 이해하기](https://blog.seulgi.kim/2023/03/termios.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
