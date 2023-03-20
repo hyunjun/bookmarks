@@ -2027,6 +2027,7 @@ Business
 * [스타트업 실패 가능성 확 줄이는 MVT 완전정복](https://www.nextunicorn.kr/content/f68bdd38e49122da)
 * [Vertical Slice vs MVP: What’s the Difference? – Tiny Hydra](https://tinyhydra.com/vertical-slice-vs-mvp/)
 * [MVP: Why We Confuse Building to Learn with Building to Earn • Jeff Patton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=-OhZU4_7gKA)
+* [Making sense of MVP (Minimum Viable Product) - and why I prefer Earliest Testable/Usable/Lovable - Crisp's Blog](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * [버티컬 슬라이스(Vertical Slice)란 무엇인가? - BatStudio](https://www.ibatstudio.com/%EB%B2%84%ED%8B%B0%EC%BB%AC-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
 * [대기업 신사업 TFT가 늘 실패하는 이유](https://brunch.co.kr/@fbrudtjr1/43)
