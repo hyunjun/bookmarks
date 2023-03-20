@@ -1110,6 +1110,7 @@ NLP
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [Miguel Martínez & Meriem Bendris - Building Large-scale Localized Language Models - YouTube](https://www.youtube.com/watch?v=7CaLrxbEhC4)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
+* [한국어 모델이 따로 필요한가? 요즘 multilingual LLM 시대로 가고 있지 않나?](https://www.facebook.com/groups/255834461424286/?multi_permalinks=1995742284100153)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * GSLM
