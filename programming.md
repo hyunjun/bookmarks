@@ -672,6 +672,7 @@ Programming
   * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
 * [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 * [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
+* [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
 
 # Agile, Scrum
 * book
