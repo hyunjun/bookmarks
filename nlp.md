@@ -753,6 +753,7 @@ NLP
   * [로컬 컴퓨터에 "ChatGPT"를 설치하세요: LLaMA & 알파카 :: ChatGPT 정리](https://banjubu.tistory.com/398)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
+  * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
   * [chatgpt_stock_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt_stock_report/tree/main)
   * [ChatRWKV: ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source](https://github.com/BlinkDL/ChatRWKV)
