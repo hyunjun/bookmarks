@@ -243,6 +243,7 @@
 * [3 Design Patterns Developers Should Learn | Bits and Pieces](https://blog.bitsrc.io/3-design-patterns-every-developer-should-learn-71a51568ac9d)
 * [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
 * [디자인패턴 - YouTube](https://www.youtube.com/playlist?list=PL1-3t3AP7xRAVNf15bJnm7nzNlRzj8gFg)
+* [Revisiting Design Patterns after 20 by Edson Yanaga - YouTube](https://www.youtube.com/watch?v=10dn_-TBzLE)
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
