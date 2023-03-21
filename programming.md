@@ -5472,6 +5472,7 @@ Programming
 * [좋은 유닛 테스트란 무엇일까?. 무작정 테스트를 많이 만드는 것이 좋을까요? | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/%EC%A2%8B%EC%9D%80-%EC%9C%A0%EB%8B%9B-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-e6b4394f9ed)
 * [Eyal Kazin - Hypothesis Testing Stop Criterion with “Precision Is The Goal” | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=wv7NqkDB2qM)
 * [Redis 서비스를 만들어가는 QA Engineer의 기록](https://tech.kakaoenterprise.com/183)
+* [비용 효율적인 테스트 디자인하기 | Hewon Jeong](https://hewonjeong.github.io/cost-effective-tests/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [testcontainers](https://github.com/testcontainers)
