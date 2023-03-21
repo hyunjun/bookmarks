@@ -506,6 +506,7 @@ Functional Programming
 * [Sharding With Pure FP by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=V_l9n1kanHs)
 * [Is FP Really That Easy to Reason About? (For Beginners) - YouTube](https://www.youtube.com/watch?v=DeEGitiMlJQ)
 * [Functional Programming anti-patterns in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-programming-anti-patterns-in-scala/)
+* [Functional Data Modeling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-data-modeling-in-scala/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
