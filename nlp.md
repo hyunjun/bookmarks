@@ -760,6 +760,7 @@ NLP
   * [GPT-4](https://openai.com/product/gpt-4)
     * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
     * [IT TREND AI 시장 동향 : GPT-4의 등장](https://tech.kakaoenterprise.com/185)
+    * [Implementing your own ChatGPT in Java :OpenAI Models GPT-4,GPT-3.5,GPT-3,Whisper,Codex,Moderation | by Meherban Singh | Mar, 2023 | Medium](https://medium.com/@singhmeherban84/implementing-your-own-chatgpt-in-java-openai-models-gpt-4-gpt-3-5-gpt-3-whisper-codex-moderation-37392587fc87)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
     * AI용 분산 클라우드를 제공하는 Together에서 소스 코드, 모델 가중치, 트레이닝 데이터 세트를 포함한 OpenChatKit을 오픈소스로 공개
@@ -1135,6 +1136,7 @@ NLP
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
+* [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
