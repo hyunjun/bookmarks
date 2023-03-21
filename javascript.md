@@ -44,6 +44,7 @@ Javascript
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
 * [Mohammed Junaid 🎯 on Twitter: "Master JavaScript. Top 22 Github Repos for JavaScript Developers. Thread 🧵" / Twitter](https://twitter.com/mdjunaidap/status/1558696637593272321)
+* [9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O - YouTube](https://www.youtube.com/watch?v=ZOVG7_41kJE)
 * [Creating Website Using Javascript | How to Make Website Using Javascript? | Simplilearn - YouTube](https://www.youtube.com/watch?v=cAa-s32oWiI)
 * [PLAYCODE - Javascript Playground](https://playcode.io/)
 * [JSRobot](https://lab.reaal.me/jsrobot/)
@@ -3819,6 +3820,7 @@ Javascript
 * [What the heck is lazy loading in React? | In Urdu - YouTube](https://www.youtube.com/watch?v=j4n9PvNXkRk)
 * [Lazy load images in React using Intersection Observer - YouTube](https://www.youtube.com/watch?v=5L_XYLTjgiQ)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
+* [Code Splitting & lazy loading using React.lazy - YouTube](https://www.youtube.com/watch?v=x4F3VjfFMnU)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
 * [React Suspense 알아보기](https://velog.io/@xiniha/React-Suspense-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
   * React 18에 `Suspense`가 어떤 문제를 해결하고 어떻게 사용하는지 설명하는 글
