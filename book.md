@@ -304,6 +304,9 @@ Book
 * [몰입의 즐거움, 미하이 칙센트미하이](https://brunch.co.kr/@angelickajin/73)
   * ★★★☆☆ 2023.03.20 뭔가 자기계발서같기도 하고, 철학서 같기도 하고, 뻔한 이야기인듯 하면서도 새롭게 느껴지는 면이 있던 묘한 책
   * 한라 181.37-칙54ㅁ
+  * [몰입의 즐거움](https://github.com/hyunjun/bookmarks/blob/master/books/finding_flow.md)
+  * [몰입의 즐거움. 최적의 경험, 곧 몰입은 두 변수가 모두 높을 때 나타난다. | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/%EB%AA%B0%EC%9E%85%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80-6019ae36e047)
+  * [몰입의 즐거움](https://jh4hj.tistory.com/entry/%EB%AA%B0%EC%9E%85%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
