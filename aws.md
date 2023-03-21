@@ -504,6 +504,7 @@ AWS
 * [데이터 레이크하우스 by 김정희님 - AWSKRUG 구로디지털 #gudi 소모임 221114 - YouTube](https://www.youtube.com/watch?v=zmdqPExZxRo)
 * [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(1) | Cloud Villains](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-ed2198632af1)
 * [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(2) | by Phoebe Baek | Cloud Villains | Mar, 2023 | Medium](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-2-99fe81641790)
+* [매드업의 DMP - 프리즘(prism)을 소개합니다 | MADTECH](https://tech.madup.com/prism-intro/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
