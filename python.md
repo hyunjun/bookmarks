@@ -5206,6 +5206,7 @@ Python
   * [Effective Python Testing With Pytest – Real Python](https://realpython.com/pytest-python-testing/)
   * [Web UI Testing in Python - YouTube](https://www.youtube.com/watch?v=wTGKOgOJbEk) selenium
   * [Beyond Unit Tests End to End Web UI Testing – Andrew Knight (PyCon Taiwan 2021) - YouTube](https://www.youtube.com/watch?v=omNT_FtHdr4)
+  * [Live Data Demo: Testing Code with Pytest - YouTube](https://www.youtube.com/watch?v=Qpo6rLU7mZI)
   * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
     * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
   * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
