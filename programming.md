@@ -287,6 +287,7 @@ Programming
 * [#5 Error budget](https://bcho.tistory.com/1332)
 * [#6 운영에서 반복적인 노가다 Toil](https://bcho.tistory.com/1333)
 * [SRE Journey — Starting SLO Implementation (Part 1 — Start with SLI) | by Muhammad Jihad A | Sep, 2022 | Medium](https://medium.com/@abbdurahman/sre-journey-starting-slo-implementation-part-1-start-with-sli-e6277e560753)
+* [Look Ma, No Metrics: A Quest Towards Extracting SLOs by Stefano Taillefert & Patrick Bänziger - YouTube](https://www.youtube.com/watch?v=I_ruxXUFQSU)
 * [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
@@ -551,6 +552,7 @@ Programming
 * [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
 * [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
 * [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
+* [**Architecture aspects - evolutionary architecture development by Urs Enzler - YouTube**](https://www.youtube.com/watch?v=3yZv6oDfY9E) 전반적인 architecture 관련 사항을 모아놓은 설명
 * [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
 * [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
 * [기술 부채와 이율](https://jojoldu.tistory.com/682)
@@ -658,6 +660,7 @@ Programming
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
+* [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs) Software Bill of Materials SBOM
 * [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
@@ -793,6 +796,7 @@ Programming
 * [The Shape of Code » Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) agile에 대한 이야기는 아니지만 story point 추정이 생각나 여기 넣어둠
 * [Software Estimation Is Hard. Do It Anyway. - Jacob Kaplan-Moss](https://jacobian.org/2021/may/20/estimation/)
 * [Agile Estimation & Its Techniques | Beginners Guide](https://k21academy.com/scrum-master/why-do-we-need-agile-estimation-what-techniques-are-used)
+* [Respect estimates by Jarek Ratajski - YouTube](https://www.youtube.com/watch?v=N0d0UePCgRA)
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
 * [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
@@ -1179,6 +1183,7 @@ Programming
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
+* [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
 * [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
@@ -5274,6 +5279,7 @@ Programming
 * [Mayday! Software Lessons From an Aviation Disaster • Adele Carpenter • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=IQ8RhVKJI_E)
 * [21화 실패한 프로젝트, 더 자세히 리뷰하라](https://brunch.co.kr/@supims/31)
 * [Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ephM9Nw9pAA)
+* [Developer Joy – How great teams get s%\*t done by Sven Peters - YouTube](https://www.youtube.com/watch?v=Aws4CIe426I)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
