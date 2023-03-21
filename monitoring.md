@@ -241,6 +241,7 @@ Monitoring
       * 수동 인스트루먼트는 특정 코드를 앱에 추가해야 하므로 더 효과적으로 요구사항에 맞출 수 있음
     * 생성된 데이터는 OpenTelemetry 컬렉터에 보내지는데 리시버, 익스포터, 스토리지 등 OpenTelemetry의 기본적인 구성 요소에 관해 알 수 있음
   * [State of OpenTelemetry, Where Are We and What’s Next? - YouTube](https://www.youtube.com/watch?v=Jc2Mdovpal0)
+  * [Golang instrumentation with OpenTelemetry](https://gethelios.dev/golang-instrumentation/)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 
 # Prometheus
