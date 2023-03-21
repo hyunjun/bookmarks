@@ -1353,6 +1353,7 @@ Programming
 * [**Monorepo Explained**](https://monorepo.tools/)
 * [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo)
   * [Airbridge API 개발팀의 Monorepo 도입기 | GeekNews](https://news.hada.io/topic?id=6544)
+* [Monorepos - The Benefits, Challenges and Importance of Tooling Support by Juri Strumpflohner - YouTube](https://www.youtube.com/watch?v=15VeTQLnWrs)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
@@ -2329,6 +2330,7 @@ Programming
 * [A journey into serverless Tools and processes for serverless in production](https://medium.com/moonshot-internet/a-journey-into-serverless-af23e22e08b1)
 * [4세대 애플리케이션 모델을 이끄는 클라이언트-서버리스 탐구 - ITWorld Korea](http://www.itworld.co.kr/news/157112#csidx3bf62c38cae77a08af91eb13b34863c)
 * [Serverless – Engineers @ The LEGO Group](https://medium.com/lego-engineering/tagged/serverless)
+* [Enterprise Serverless Adoption. An Experience Report by Sheen Brisals - YouTube](https://www.youtube.com/watch?v=nvlsgLiTSwg)
 * [Seasons-of-Serverless: Repository responsible for the challenges in Seasons of Serverless 2020](https://github.com/microsoft/Seasons-of-Serverless)
 * [Serverless Is Amazing, but Here’s the Big Problem | by Mika Yeap | Feb, 2021 | Better Programming](https://betterprogramming.pub/serverless-is-amazing-but-heres-the-big-problem-9e76b65f23c6)
 * [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
