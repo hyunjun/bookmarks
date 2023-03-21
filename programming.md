@@ -250,6 +250,7 @@ Programming
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
+* [프레임워크와 라이브러리의 차이는?](https://velog.io/@kwontae1313/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94)
 * [프레임워크가 무엇이고, 어떻게 사용해야할까?? (프레임워크 동작방식 예제)](https://velog.io/@couchcoding/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 * [Design: #noFramework. Is it as hard as you think? | by Jérôme Beau | Feb, 2022 | Medium](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
 * [ehpub.co.kr](http://ehpub.co.kr/)
