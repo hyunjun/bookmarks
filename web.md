@@ -1765,6 +1765,7 @@ Web
       * Wasm에서의 JS 초기화 시간을 13배 빠르게 하고 AOT로 스루풋을 개선하는 등의 작업을 설명
     * WASM으로 어떤 시도를 하는지 살펴볼 수 있다
 * [WebAssembly: Open to Interpretation - YouTube](https://www.youtube.com/watch?v=RHJEwkAbhr4)
+* [Wasmer Things: An Upside-Down Guide to WebAssembly by Edoardo Vacchi - YouTube](https://www.youtube.com/watch?v=GAbeovldGCs)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
