@@ -97,6 +97,8 @@ Elixir
 * [Elixir Distribution, ELI5. Maybe you heard about Elixir or Erlang… | by Paweł Dawczak | Medium](https://medium.com/@pawel_dawczak/elixir-distribution-eli5-309193004119)
 * [Functional Arrays in Elixir and Erlang](https://readreplica.io/functional-arrays-in-elixir-erlang/)
 * [Checking for Unused Dependencies in Elixir - YouTube](https://www.youtube.com/watch?v=3_bowEtftmw)
+* [Processes](https://www.basicswithamit.com/blog/processes/)
+* [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
