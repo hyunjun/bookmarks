@@ -259,6 +259,7 @@ Web
   * 결국 서버 로직의 최적화가 필요하지만 CDN을 사용하거나 마크업을 스트리밍으로 보내서 개선 가능
     * 서비스 워커가 설정에 따라 지연시간을 높일 수도
     * 또는 서버에서 마크업을 준비하는 동안 `103 Early Hints` 헤더를 제공해서 필수 리소스를 브라우저가 미리 다운로드 받게도 가능
+* [Core Web Vitals under control by Marta Wiśniewska - YouTube](https://www.youtube.com/watch?v=Q7yBANAidq4)
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
