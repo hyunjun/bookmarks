@@ -158,6 +158,7 @@ Linux
 * [intel 13th gen (i5-1340p)의 리눅스 화면 끊김, 멈춤 증상](https://sunyzero.tistory.com/284) PSR
 * [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
 * [터미널 출력 제어를 위한 termios 구조체 이해하기](https://blog.seulgi.kim/2023/03/termios.html)
+* [텍스트 애플리케이션에서 Carriage Return 사용하기](https://blog.seulgi.kim/2023/03/carriage-return.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
