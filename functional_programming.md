@@ -505,6 +505,7 @@ Functional Programming
 * [Functional Programming in Education • George Wilson • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=nAdX5w-IHLY)
 * [Sharding With Pure FP by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=V_l9n1kanHs)
 * [Is FP Really That Easy to Reason About? (For Beginners) - YouTube](https://www.youtube.com/watch?v=DeEGitiMlJQ)
+* [Functional Programming anti-patterns in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-programming-anti-patterns-in-scala/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
