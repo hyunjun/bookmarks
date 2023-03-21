@@ -1269,6 +1269,7 @@ Web
     * [다양한 커리어 성장의 기회 | 원티드 이벤트](https://www.wanted.co.kr/events/vod/meetup_fastapi)
   * [Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=5FvicDwklaA)
   * [Dix et al - Lessons Learned Building Our Own Dashboard Solution | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zBPpOPnLaFE) celery도 일부
+  * [Generate Python FastApi Rest Client & Server - YouTube](https://www.youtube.com/watch?v=52MRyaOPmF4)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
