@@ -563,6 +563,7 @@ Linux
   * [“I could rewrite curl” | daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
   * [Convert curl commands to code](https://curlconverter.com/)
   * [Bloodguy :: Linux curl 응답시간 측정 (how to measure curl response time)](https://bloodguy.tistory.com/entry/Linux-curl-%EC%9D%91%EB%8B%B5%EC%8B%9C%EA%B0%84-%EC%B8%A1%EC%A0%95-how-to-measure-curl-response-time)
+  * [Curl 25주년 | GeekNews](https://news.hada.io/topic?id=8754)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
