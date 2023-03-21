@@ -1653,6 +1653,7 @@ Programming
     * Amazon의 CTO의 Werner Vogels가 1998년 아마존에서 작성되었던 분산 컴퓨팅 선언문 공개
     * 25년이 지난 지금 놀라운 얘기는 아니지만, 당시에 저렇게 생각했다는 게 놀라움
     * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
+* [How to manage transactions in Distributed Systems and Microservices? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/how-to-manage-transactions-in-distributed-systems-and-microservices-d66ff26b405e)
 * [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
   * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
   * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
@@ -1794,6 +1795,7 @@ Programming
 * [Opportunities and Pitfalls of Event-driven Utopia - YouTube](https://www.youtube.com/watch?v=jjYAZ0DPLNM)
 * [Building Event Driven, Reactive Apps with Temporal: Workflows vs Sagas - YouTube](https://www.youtube.com/watch?v=oZ0yf8rTALA)
 * [Modern Event-driven Architecture: Adopting Data in Motion • Alex Stuart • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=FLQiqnkTogo)
+* [이벤트 드리븐 적재적소에 사용하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/event-driven-architecture/)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
