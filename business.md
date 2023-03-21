@@ -1211,6 +1211,7 @@ Business
 * [Zero Sum Game - CTO의 변신이 R&D 혁신의 출발점이다](https://supremacy.tistory.com/378)
 * [**So You Want To Be A CTO • Simon Raik-Allen • YOW! 2016 - YouTube**](https://www.youtube.com/watch?v=oQjsQCq3aWA) 역할에 대한 여러가지 설명이 좋음
 * [How I CTO • Gil Tene • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=C48-Zsen1WI) know your business
+* [CTO들의 새로운 역할은 IT 분야 직원들의 스킬을 강화하는 것](https://www.boannews.com/media/view.asp?idx=114730)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
