@@ -90,6 +90,7 @@ Java
 * [VENKAT SUBRAMANIAM - Refactor your language knowledge portfolio - we are what we can code in](https://www.youtube.com/watch?v=zajUPJI19ZQ)
 * [ReduceDependency](https://github.com/prostars/ReduceDependency)
   * [고차 함수로 의존성 줄이기 | Popit](https://www.popit.kr/%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A4%84%EC%9D%B4%EA%B8%B0/) refactoring
+* [Keep your dependencies in check by Marit van Dijk - YouTube](https://www.youtube.com/watch?v=vxdyPgKBc28)
 * [카카오톡 Java App Server Refactoring 후기 – tech.kakao.com](https://tech.kakao.com/2023/01/19/kakaotalk-java-app-server-refactoring/)
 * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
@@ -571,6 +572,8 @@ Java
 * [Keeping Pace with Java - YouTube](https://www.youtube.com/watch?v=A9ilnniaUmA)
 * [Keeping Pace with Java](https://www.infoq.com/presentations/java-update-versions/)
 * [Java *is* agile by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=HaKvT18xXNM)
+* [**A Glance At The Java Performance Toolbox by Ana Maria Mihalceanu - YouTube**](https://www.youtube.com/watch?v=VsseHAtG1mI)
+* [Full-stack development is dead, long live full-stack development! by Simon Martinelli - YouTube](https://www.youtube.com/watch?v=R3V0DAW-BiA)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -919,6 +922,9 @@ Java
 * [JDK 19 and JDK 20: What We Know So Far](https://www.infoq.com/news/2022/09/java-19-so-far/)
 * [To Java 19 and Beyond - YouTube](https://www.youtube.com/watch?v=Hd0WESDRRJw)
 
+# Java20
+* [Sailing Modern Java by Piotr Przybyl - YouTube](https://www.youtube.com/watch?v=2x-U0E5l3NM)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
@@ -1083,6 +1089,8 @@ Java
   * [Project Loom: Revolution in Java Concurrency or Obscure Implementation Detail? - YouTube](https://www.youtube.com/watch?v=9P9DZCZTq4E)
   * [Loom is Blooming by José Paumard & Remi Forax - YouTube](https://www.youtube.com/watch?v=eU9mUmnhjb4)
   * [Prototype Loom-based concurrency API for Scala](https://softwaremill.com/prototype-loom-based-concurrency-api-for-scala/)
+  * [Game of Loom: implementation patterns ... playing with virtual threads by Mario Fusco - YouTube](https://www.youtube.com/watch?v=70aNTos4Lrc)
+  * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
@@ -1443,6 +1451,9 @@ Java
   * [아티팩트 저장소로 사용](https://www.lesstif.com/pages/viewpage.action?pageId=18219542)
 * [NuProcess: Low-overhead, non-blocking I/O, external Process implementation for Java](https://github.com/brettwooldridge/NuProcess)
 * [op4j](http://www.op4j.org/)
+* [OpenRewrite](https://github.com/openrewrite)
+  * [Introduction to OpenRewrite - OpenRewrite](https://docs.openrewrite.org/)
+  * [Major migrations made easy by Tim Te Beek - YouTube](https://www.youtube.com/watch?v=q-Le1dx2-t8)
 * [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
@@ -1602,6 +1613,7 @@ Java
   * [Spring Data Rest #3 내부 동작](http://blog.woniper.net/347)
 * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
 * [Spring Security, MongoDB 연동 Login](http://scw0531.blog.me/221040449590)
+* [Spring Security: The Good Parts by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=TrCLf9zAQfs)
 * [WebSocket을 활용한 채팅 서비스 구현](http://scw0531.blog.me/221052774287)
 * [boost-spring-websocket](https://github.com/painkill2r/boost-spring-websocket)
 * [릴리즈 임박! 스프링 5 리액티브 프로그래밍 소개](http://tmondev.blog.me/221096039961)
@@ -1791,6 +1803,7 @@ Java
   * [스프링(Spring) #1 - Java 프레임워크로 스프링을 쓰는 이유](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-Java-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [스프링(Spring) #2 - 스프링에서의 제어의 역전(IoC) 및 의존성 주입(DI)](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-2-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84IoC-%EB%B0%8F-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85DI)
   * [스프링(Spring) #3 - 스프링 빈에 대해 알아보자](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-3-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+* [Spring Modulith – Spring for the Architecturally Curious Developer by Oliver Drotbohm - YouTube](https://www.youtube.com/watch?v=SjSjBZ7mo1g)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
@@ -2141,6 +2154,7 @@ Java
     * 아키텍처 구조와 규칙을 쉽게 정의하고 검사해주는 ArchUnit의 사용법 설명
     * ArchUnit의 테스트를 작성해서 의존관계와 상속 관계 등을 검사하고 레이어 아키텍처 등을 선언형/명령형으로 검사 가능
     * AssertJ와 연동 가능. 네이버에서 Support 패키지는 다른 패키지를 의존하면 안 된다는 규칙, API 문서화를 위한 속성 통일 등의 규칙을 적용
+  * [Unit Test Your Java Architecture With ArchUnit by Roland Weisleder - YouTube](https://www.youtube.com/watch?v=ef0lUToWxI8)
 * [AssertJ - fluent assertions java library](https://assertj.github.io/doc/)
   * [AssertJ 소개 | Engineering Blog by Dale Seo](https://www.daleseo.com/assertj/)
   * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
