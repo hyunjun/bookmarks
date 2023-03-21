@@ -317,6 +317,7 @@ Scala
 * [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
 * [Migrating to Java 17. At SwissBorg, we have been using Scala… | by Julien Deray | SwissBorg Engineering | Jan, 2022 | Medium](https://medium.com/swissborg-engineering/migrating-to-java-17-2ed137ee2eec)
 * [THE most important programming concept explained in 35 seconds. - YouTube](https://www.youtube.com/watch?v=7_cqmqPGLhM)
+* [10+ Scala Concepts you Need to Know - YouTube](https://www.youtube.com/watch?app=desktop&v=nI57LUpjGrk)
 * [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=pNhBQJN44YQ)
 * [Scala is a Maintenance Nightmare - MungingData](https://mungingdata.com/scala/maintenance-nightmare-upgrade/)
 * [Which stack do #Scala companies use in 2021? - YouTube](https://www.youtube.com/watch?v=9GvRyoevc2A)
