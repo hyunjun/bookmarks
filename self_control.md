@@ -7,6 +7,7 @@ Self Control
 * [인문학 공부를 위한 효율적인 텍스트 읽기](http://slownews.kr/40821)
 * [페이스북 생산성 툴 디자이너가 말하는 '생산적인 사람이 되는 법'](http://www.huffingtonpost.kr/2015/05/19/story_n_7310890.html)
 * [생산성 수수께끼, 구글은 이렇게 풀었다](http://news.joins.com/article/21212332)
+* [딴짓만 하다 흘러가는 시간.. 생산성을 높이는 아주 간단한 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/time20230321)
 * [How to Improve Your Productivity and Time Management | Hama Develop](https://www.hamadevelop.me/time/)
 * [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 * [착한 자기계발서를 꿈꾸며](http://ppss.kr/archives/20017)
