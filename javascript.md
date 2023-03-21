@@ -2186,6 +2186,7 @@ Javascript
 * Qwik [Framework reimagined for the edge! - Qwik](https://qwik.builder.io/)
   * [The Fastest JavaScript Framework. A glimpse of the world’s first O(1)… | by Code Ceeker | Sep, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/the-fastest-javascript-framework-b843c6d25979)
     * [(번역) 가장 빠른 자바스크립트 프레임워크](https://velog.io/@sehyunny/the-fastest-js-framework)
+  * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=WvXUVwzslhw)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Rando.js | The better JavaScript random function](https://randojs.com/)
