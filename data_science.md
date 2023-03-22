@@ -74,6 +74,7 @@ Data Science
 * [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
 * [칼럼ㅣ'ETL'은 빅데이터와의 경쟁에서 패배했다 - CIO Korea](https://www.ciokorea.com/news/208017) ETL -> ELT or pipelined data streaming
 * [ETL, ELT의 4가지 주요 차이점 - 밥먹는 개발자](https://dining-developer.tistory.com/50)
+* [GumGum Builds and Maintains High-Performance ETL Pipelines for Ad Exchange Reporting - YouTube](https://www.youtube.com/watch?v=Nojo-4QJyrI)
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
 * [Big Data: Its Benefits, Challenges, and Future | by Benedict Neo | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927)
