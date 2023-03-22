@@ -2212,6 +2212,7 @@ Java
 * [SpotBugs](https://spotbugs.github.io/) 정적 분석
   * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
+  * [TestContainers로 유저시나리오와 비슷한 통합테스트 만들어 보기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/delivery-testContainer-apply/)
 
 # Tutorial
 * [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
