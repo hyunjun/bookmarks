@@ -496,6 +496,7 @@ AWS
 * [AWS 기반 재해 복구(DR) 아키텍처, 1부: 클라우드에서의 재해 복구 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-1/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 2부: 신속한 복구를 위한 백업 및 복원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-2/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 3부: 파일럿 라이트 및 웜 스탠바이 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-3/)
+* [AWS 기반 재해 복구(DR) 아키텍처, 4부: 액티브/액티브 멀티 사이트 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/)
 * [How To Parse JSON Parameters Stored In AWS Parameter - DevOpsDice](https://devopsdice.com/how-to-parse-json-parameters-stored-in-aws-parameter/)
 * [입 개발 AWS InstanceProfileCredentialsProvider 사용시 주의 할 점. | Charsyam's Blog](https://charsyam.wordpress.com/2023/02/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-aws-instanceprofilecredentialsprovider-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90/)
 * [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서 by 김은수님 - AWSKRUG 프론트엔드 소모임 221207 - YouTube](https://www.youtube.com/watch?v=M6njEpzPicE)
