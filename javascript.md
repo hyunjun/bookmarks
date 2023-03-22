@@ -725,6 +725,7 @@ Javascript
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
 * [How to code a chatbot tailored for web apps like Google Maps](https://medium.com/free-code-camp/how-to-code-a-chatbot-tailored-for-web-apps-like-google-maps-cf97fc090676)
 * [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531) reactive
+* [A comparison of the Reactivity Concepts in Angular, React, Vue and Svelte by Jonas Bandi - YouTube](https://www.youtube.com/watch?v=M3KdDcse7EU)
 * [Beyond JavaScript: The Languages for the Modern Web](https://www.youtube.com/watch?v=eUgoto7xWps)
   * What alternative languages are there for writing modern frontend applications today?
   * What are the learning curves, best use cases, pros and cons for each of them?
