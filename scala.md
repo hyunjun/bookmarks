@@ -2475,6 +2475,8 @@ Scala
 * [Algebra and Parametricity](https://about.chatroulette.com/posts/algebra-parametricity/)
 * [Far more than you've ever wanted to know about ADTs](https://nrinaudo.github.io/far-more-adt) Enumeration, DSL, Option
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
+* [Full Stack Scala Project-Based Course with Typelevel | Rock the JVM](https://rockthejvm.com/p/typelevel-rite-of-passage)
+  * [The Typelevel Rite of Passage: A Full-Stack Scala 3 Project-Based Course - YouTube](https://www.youtube.com/watch?v=gIcHeE5z7Oc)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [doobie - a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
@@ -2554,6 +2556,7 @@ Scala
 * [Scala 3: Generic type parameters and variance explained | alvinalexander.com](https://alvinalexander.com/scala/scala-3-variance-explained-generic-type-parameters/)
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics - Scala](https://scalac.io/specialized-generics-object-instantiation/)
 * [Scala Generics: A Gentle Introduction - YouTube](https://www.youtube.com/watch?v=ozcY_K-ij20)
+* [Typeclassery in Scala | ScalaJobs.com](https://scalajobs.com/blog/typeclassery-in-scala/) A sure way of making generic programs context aware
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
