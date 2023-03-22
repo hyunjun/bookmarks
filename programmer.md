@@ -33,6 +33,7 @@ Programmer
 * [우리가 부르는 시니어 개발자는 누구인가? | 우아한형제들 기술블로그](https://techblog.woowahan.com/2525/)
 * [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
 * [What Happens When You Lack Senior Engineering Leadership](https://medium.com/swlh/what-happens-when-you-lack-senior-engineering-leadership-84ce189158b2)
+* [Team Empowerment: When it is time for you Lead Dev to let go of responsibilities? by Blagoj Jovanov - YouTube](https://www.youtube.com/watch?v=CkDqnlH_G24)
 * [10 habits of Senior Software Developers (part 1) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-a-software-developer-1-8d18e4a06b09)
 * [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
 * [The Things I Learned to Become a Senior Software Engineer | by Neil Kakkar | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-things-i-learned-to-become-a-senior-software-engineer-1083686d70cd)
