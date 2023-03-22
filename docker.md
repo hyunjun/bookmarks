@@ -553,6 +553,9 @@ Docker
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
 * [**도커 컨테이너에서 멀티 프로세싱을 하면? — 그랩의 블로그**](https://tansfil.tistory.com/69)
 * [다시 확인하는 도커와 컨테이너를 사용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/271929)
+* ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
+* ['도커 이전과 도커 이후' 세상이 확연히 달라진 이유 - ITWorld Korea](https://www.itworld.co.kr/news/215339)
+* [글로벌 칼럼ㅣ도커가 ‘무료 팀’ 요금제를 없애는 진짜 의미 - ITWorld Korea](https://www.itworld.co.kr/news/283273)
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
 * [만들면서 이해하는 도커(Docker) 이미지의 구조 - 도커 이미지 빌드 원리와 Overlayfs](https://www.44bits.io/ko/post/how-docker-image-work)
@@ -594,7 +597,6 @@ Docker
   * git에서 브랜치를 오가면서 환경을 관리할 필요 없이 동시에 여러 환경을 띄우고 각 환경의 코드도 접속 가능
   * 이 환경은 .docker 폴더 아래 Docker Compose를 이용해서 개발에 필요한 환경을 구성해서 사용 가능
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
-* ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
 * [도커 데스크톱, 대기업 사용자에게는 유료화된다 - CIO Korea](https://www.ciokorea.com/t/537/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/206529)
 * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
 * [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
@@ -602,7 +604,6 @@ Docker
 * [DC/OS 아키텍처에 관한 분석 MESOS와 MARATHON](https://ykarma1996.tistory.com/178)
 * [The death of Linux Containers. Unikernels are awesome! | by Inacio Klassmann | Medium](https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33)
 * [I Didn't Know I Could Do That with Docker (or Dockerizing a Python App) - YouTube](https://www.youtube.com/watch?v=xDQW4BcGbL8)
-* ['도커 이전과 도커 이후' 세상이 확연히 달라진 이유 - ITWorld Korea](https://www.itworld.co.kr/news/215339)
 * [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
 * [Docker上でjetbrains製品を起動する方法 - Qiita](https://qiita.com/Eliza_wb/items/ff3d885d78ff870191ab)
   * [practice - Docker 상에서 jetbrains 제품을 실행하는 방법](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-docker_jetbrain-md)
