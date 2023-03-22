@@ -153,6 +153,7 @@ Ruby
 * [Rails 7: The Demo - YouTube](https://www.youtube.com/watch?v=mpWFrUwAN88)
 * [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 * [제1화 Rails7 Hotwire Tailwind 강좌](https://brunch.co.kr/@bamchi/37)
+* [Integrating React with Ruby on Rails: A Comprehensive Guide](https://www.bluebash.co/blog/integrating-react-with-ruby-on-rails/)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
 * [Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding](https://github.com/github/trilogy)
   * [Introducing Trilogy: a new database adapter for Ruby on Rails | The GitHub Blog](https://github.blog/2022-08-25-introducing-trilogy-a-new-database-adapter-for-ruby-on-rails/)
