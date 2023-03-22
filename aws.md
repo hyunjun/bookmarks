@@ -1691,6 +1691,7 @@ AWS
 * [Amazon SageMaker 모델 병렬 라이브러리를 이용한 신규 성능 향상 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-model-parallel-improve-performance/)
 * [AI Art 모델인 Stable Diffusion을 SageMaker JumpStart로 편리하게 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-art-stable-diffusion-sagemaker-jumpstart/)
 * [Amazon SageMaker로 컬리(Kurly) 상품 후기 분류 모델 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kurly-sagemaker-product-review-classification-model/)
+* [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
