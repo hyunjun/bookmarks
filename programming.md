@@ -753,6 +753,7 @@ Programming
 * [스크럼, 입고팀이 애자일하게 일하는 법 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/inbound-squad-sprint-2/)
 * [애자일 Scrum(스크럼) 이해하기. 애자일 실천 방법 | by 민현기(Min, Hyun Gi) | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/scrum-dfc6523a3604)
 * [협업에 관한 수다: 스크럼과 스프린트](https://velog.io/@teo/scrum-sprint)
+* [Playing Games With Scrum! • Nigel Baker • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=RJe4LT6ZZJM)
 * [애자일, 칸반, 스크럼, 스프린트…? 뭣이 중헌디?](https://eopla.net/magazines/2511)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
