@@ -334,6 +334,7 @@ Java
   * ServerSocket [localhost는 IPv6와 IPv4 어떤걸로 동작할까? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/2)
 * NIO
   * [**NIO 정리**](https://jungwoon.github.io/java/2019/01/14/NIO/) 예제와 함께 전반적으로 잘 정리
+  * [탈 자바 8과 스프링 부트 3.0을 위한 NIO HttpClient를 찾아서 - 넷마블 기술 블로그](https://netmarble.engineering/java-nio-httpclient-test/)
 * Object
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
