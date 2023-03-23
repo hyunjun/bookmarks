@@ -1598,6 +1598,7 @@ Docker
 * [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
 * [For the love of god, stop using CPU limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits/)
 * [Kubernetes의 CPU requests와 limits :: Outsider's Dev Story](https://blog.outsider.ne.kr/1653)
+* [Kubernetes CronJob의 스케줄 변경 시 소급 적용된다? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1662)
 * [Access your local cluster like a managed Kubernetes engine – Inlets – The Cloud Native Tunnel](https://inlets.dev/blog/2022/07/07/access-kubernetes-api-server.html)
 * [Service Mesh: The best way to Encrypt East-West traffic in Kubernetes | by Nagarjoon B | Sep, 2022 | Medium](https://medium.com/@nagarjoon.b/service-mesh-the-best-way-to-encrypt-east-west-traffic-in-kubernetes-89aab0c77794)
 * [Rearchitecting Kubernetes for a more resilient Container Orchestration | by Dr Francesco Dergano | Medium](https://derganodr.medium.com/rearchitecting-kubernetes-for-a-more-resilient-container-orchestration-c54cef3aeef9)
