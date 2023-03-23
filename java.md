@@ -548,6 +548,8 @@ Java
 * [Java concurrent 패키지의 동기화 장치](https://javabom.tistory.com/35)
 * [What is Phaser in Java? When and How to use Phaser? Example Tutorial](https://javarevisited.blogspot.com/2022/03/what-is-phaser-in-java-example-tutorial.html)
 * [Interview Question |Difference Between Runnable And Callable Interface In Java |Runnable Vs Callable - YouTube](https://www.youtube.com/watch?v=G0kQBUvCDbs)
+* [(예제와 함께 보는) 기술을 학습하는 3단계](https://velog.io/@joosing/3-steps-to-learn-the-skills)
+  * [ScheduledExecutorServiceTest.java at 688d8bc764c4b65487889277f50c364f5dd544d3 · Jsing/study-in-code · GitHub](https://github.com/Jsing/study-in-code/blob/688d8bc764c4b65487889277f50c364f5dd544d3/src/test/study/tech/java/concurrent/ScheduledExecutorServiceTest.java)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
