@@ -99,6 +99,7 @@ Elixir
 * [Checking for Unused Dependencies in Elixir - YouTube](https://www.youtube.com/watch?v=3_bowEtftmw)
 * [Processes](https://www.basicswithamit.com/blog/processes/)
 * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
+* [An Incremental Approach to Declarative Design](https://zachdaniel.dev/incremental-declarative-design/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
