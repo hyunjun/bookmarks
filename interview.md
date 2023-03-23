@@ -1002,6 +1002,7 @@ Interview
 * [스톡옵션 개론](https://www.thestartupbible.com/2014/10/stock-option-101.html)
 * [스톡옵션 가격](https://www.thestartupbible.com/2019/10/pricing-stock-options.html)
 * [직원들의 스톡옵션](https://www.thestartupbible.com/2019/12/how-much-stock-option-should-we-give-our-employees.html)
+* [스타트업의 지분 할당](https://www.thestartupbible.com/2023/03/equity-allocation-for-startups.html)
 * [**개발자가 알아야 할 스톡옵션의 모든 것 | Evans Library**](https://evan-moon.github.io/2021/12/04/what-is-stock-options/)
   * 스톡옵션이 정확히 무엇이고 행사하려면 어떻게 해야 하는지 설명
   * 그냥 무료로 받는 주식으로 생각하는 경우도 많은데 스타트업에서 스톡옵션을 받게 되었다면 여기서 말하는 "옵션"의 의미와 베스팅, 클리프 등의 개념을 이해하고 실제로 행사할 때 필요한 자금과 세금 관련된 부분을 이해해 두면 아주 유용
