@@ -91,6 +91,7 @@ Programming Language
   * [A 1.5MB Java Container App? Yes you can! by Shaun Smith - YouTube](https://www.youtube.com/watch?v=6wYrAtngIVo)
   * [Awesome Java applications with GraalVM and Java microservices frameworks by Аlina Yurenko - YouTube](https://www.youtube.com/watch?v=7OKc7Eyuins)
   * [Unleash the power of your applications with Micronaut and GraalVM by Álvaro Sánchez-Mariscal - YouTube](https://www.youtube.com/watch?v=_-uDrYLpo98)
+  * [IMDEV 2023 누구보다 빠르게, 남들과는 다르게! 가장 빠른 GraalVM - YouTube](https://www.youtube.com/watch?v=rfWzRTY5e5s)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
