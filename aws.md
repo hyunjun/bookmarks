@@ -1868,6 +1868,7 @@ AWS
   * 기본적으로 SSE-S3 암호화를 사용하고 SSE-C나 SSE-KMS를 선택 가능
 * [Part 1. S3를 이용해서 정적 웹 호스팅 시작하기 - YouTube](https://www.youtube.com/watch?v=QdiQ2aVXGmU)
 * [Part 2. 비트버킷을 이용해서 S3에 웹 자동 배포하기 - YouTube](https://www.youtube.com/watch?v=oF-GEqGRIDc)
+* [Part 4. 깃헙을 이용해서 S3에 웹 자동 배포하기 - YouTube](https://www.youtube.com/watch?v=bvV_-DTt5dI)
 * [데이터분석 Amazon Athena를 이용한 S3 데이터 조회하기 | 송정우, AUSG - YouTube](https://www.youtube.com/watch?v=H7W_AI5heSo)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
