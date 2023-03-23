@@ -209,7 +209,6 @@
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
-* [Rust in Action](https://github.com/rust-in-action)
 * [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 
 # Concurrency

@@ -3568,7 +3568,8 @@ Programming Books
 * (NOT YET) [한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/08/%ED%95%9C-%EC%A4%84-%ED%95%9C-%EC%A4%84-%EC%A7%9C%EB%A9%B4%EC%84%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EB%9F%AC%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) RUST IN ACTION
   * 우당 문005.133-맥211ㄹ
   * [Rust in Action](https://www.manning.com/books/rust-in-action)
-  * [rust-in-action/code: Source code for the book Rust in Action](https://github.com/rust-in-action/code)
+  * [Rust in Action](https://github.com/rust-in-action)
+  * [Rust in Action (Teaser) • Tim McNamara & Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=cDwdPE5Z4BA)
 * (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust)
   * 우당 문005.133-쿠79ㄹ
   * [rust: 《만들면서 배우는 러스트 프로그래밍》 예제 코드](https://github.com/wikibook/rust)
