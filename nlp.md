@@ -667,6 +667,7 @@ NLP
 * [챗GPT와 유사한 오픈소스 모델 공개됐지만… - ZDNet korea](https://zdnet.co.kr/view/?no=20230103091955)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
+* [Character.AI](https://beta.character.ai/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * [ChatGPT](https://chat.openai.com/)
   * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
