@@ -660,6 +660,7 @@ AWS
 * [Datadog vs Grafana vs AWS CloudWatch | by Rajith | Innovation Incubator | Apr, 2022 | Medium](https://medium.com/innovation-incubator/datadog-vs-grafana-vs-aws-cloudwatch-ad9d6063d55c)
 * [Athena로 CloudWatch Logs query 하기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/athena-cloudwatch-logs-query)
 * [클라우드 워치를 통한 프로세스 모니터링 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/07/13/cloudwatch-process-monitoring/)
+* [페타바이트 트래픽 원인 분석기](https://snack.planetarium.dev/kor/2023/03/cloudwatch/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
