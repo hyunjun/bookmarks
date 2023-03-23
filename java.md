@@ -470,6 +470,8 @@ Java
   * [API 통신 컴포넌트 설계와 SOLID 원칙](https://velog.io/@joosing/API-%ED%86%B5%EC%8B%A0-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A4%EA%B3%84%EC%99%80-SOLID-%EC%9B%90%EC%B9%99)
   * [**쓰레드 누수 이슈: 문제의 원인을 찾는 귀납적 과정**](https://velog.io/@joosing/an-inductive-approach-to-the-thread-leak-issue)
   * [메시지 큐를 활용한, 유연한 전송 구조 만들기](https://velog.io/@joosing/create-flexible-delivery-structure-with-message-queue)
+  * [Netty 구조적 특징 (1) : 쓰레드 모델](https://velog.io/@joosing/netty-structural-features-1-thread-model)
+  * [Netty 구조적 특징 (2) : 비동기](https://velog.io/@joosing/httpsvelog.iojoosingnetty-structural-features-2-asynchronous)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
