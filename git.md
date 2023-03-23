@@ -429,6 +429,7 @@ Git
 * [GitHub Actions에서 output 변수의 문법 변경 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1651)
 * [Github Actions의 느려터진 성능을 (회사)돈 주고 사보자 — Github-hosted Larger runners 사용기 | by 정백경 | Jan, 2023 | Medium](https://baekkyoungjung.medium.com/github-actions%EC%9D%98-%EB%8A%90%EB%A0%A4%ED%84%B0%EC%A7%84-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%9A%8C%EC%82%AC-%EB%8F%88-%EC%A3%BC%EA%B3%A0-%EC%82%AC%EB%B3%B4%EC%9E%90-github-hosted-larger-runners-%EC%82%AC%EC%9A%A9%EA%B8%B0-ec27427f1501)
 * [워크서버개발팀의 GitHub Actions 적용기](https://tech.kakaoenterprise.com/180)
+  * [Awesome GitHub Copilot: GitHub Actions to build Apple iOS project with CI/CD project - YouTube](https://www.youtube.com/watch?v=86quBXr0m5I)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
