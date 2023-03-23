@@ -166,6 +166,7 @@ Elixir
   * ["Hacking" Phoenix LiveView with F12 and Burp Suite - YouTube](https://www.youtube.com/watch?v=IGwoQQjal8Y)
   * [Making a CheckboxGroup Input · Fly](https://fly.io/phoenix-files/making-a-checkboxgroup-input/)
   * [Custom styling with LiveView function component attributes · Fly](https://fly.io/phoenix-files/customizable-classes-lv-component/)
+  * [Building a Chat App with LiveView Streams · Fly](https://fly.io/phoenix-files/building-a-chat-app-with-liveview-streams/)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
