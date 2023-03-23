@@ -4734,6 +4734,8 @@ Javascript
     * [UI의 상태를 URL에 저장하기 #2 - URL 상태 관리를 useState처럼 쉽게 만들기](https://youha.notion.site/UI-URL-2-URL-useState-4c2983b4639c4da685191b1118f09695)
     * [UI의 상태를 URL에 저장하기 #3 - BatchRouter로 URL 변경을 여러 번 호출하기](https://youha.notion.site/UI-URL-3-BatchRouter-URL-ab7173d79e26483784dd2951dc98ce14)
     * [UI의 상태를 URL에 저장하기 #4 - 검색 필터, 정렬, 페이지네이션을 조립식으로 만들기](https://youha.notion.site/UI-URL-4-4240270040cb43b9b68338276f144243)
+  * [next-gpt-test](https://github.com/opp0615/next-gpt-test)
+    * [ChatGPT는 FE개발자를 대체할 수 있을까? (AI로 개발하기) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230323-chatgpt-and-fe-developer/)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
