@@ -204,6 +204,10 @@ Programming Books
 * (NOT COMPLETED) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
   * ★★★☆☆ 2023.02.02~04
   * 우당 문004.67-레49ㅎ
+* (NOT COMPLETED) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
+  * ★★☆☆☆ 2023.03.23 기대와 다르게 별로 와 닿는게 없었다. 책의 주인공 격인 마크 주커버그의 (심지어 이름까지 거기에 맞춰 바꿔버린) 메타나 MS도 사업을 (일시적으로나마) 포기했기 때문일까? 책의 구성이 내가 좋아하는 스타일이 아니어서일까? 어찌되었건 VR의 시대는 오긴 하겠지만 당장은 아닐 듯 싶다. 존 카맥같은 사람이 맡았어도 SW는 물론 HW에서 여전히 부족한 면이 정말 많다.
+    * <img src="images/the_history_of_the_future.jpg" alt="" width="300"/>
+  * 한라 004.783-해298ㄷ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -316,8 +320,6 @@ Programming Books
 * (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
   * 한라
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
-* (NOT YET) 더 히스토리 오브 더 퓨처 [비즈니스의 처음과 끝까지 모두 알려주는 책](https://brunch.co.kr/@dryjshin/312)
-  * 한라 004.783-해298ㄷ
 * (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 
