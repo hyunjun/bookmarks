@@ -483,6 +483,7 @@ Programming
   * [DevRel 이란 무엇인가 | GeekNews](https://news.hada.io/topic?id=7061)
 * [우리는 이 모든 것을 DevRel이라고 부르기로 했어요](https://brunch.co.kr/@moon-sky/20)
 * [1년 만에 돌아왔습니다. DevRel 담당자들의 근황! | 4구 멀티탭⚡️ - YouTube](https://www.youtube.com/watch?v=Hx90j4cP5o0)
+* [Developer Advocate in Lablup | Lablup Blog](https://blog.lablup.com/posts/2023-03-developer-advocate/) DevRel
 * [Developer Experience at Vercel – Lee Robinson](https://leerob.io/blog/dx)
   * Vecel의 VP of Developer Experience(DX)인 Lee Robinson이 DX에 관해 쓴 글
   * Vecel에서 DX를 제품의 성장을 이끄는 핵심으로 엣지 컴퓨팅에 미래가 있고 프론트엔드 개발자의 역량을 강화하고 개발자가 React 사이트를 만들 수 있는 프레임워크를 제공
