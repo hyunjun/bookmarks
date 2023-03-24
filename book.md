@@ -1110,6 +1110,9 @@ Book
 * (NOT YET) [군중의 망상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308611888)
 * (NOT YET) [만화로 배우는 와인의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B5656371314)
   * 탐라 문573.2-시31ㅇ
+* (NOT YET) [『개발 없는 개발』을 읽고](https://nocturnal-landscape.tistory.com/155)
+  * 우당 문911.06-허57ㄱ
+  * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
