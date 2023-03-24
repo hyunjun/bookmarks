@@ -443,6 +443,8 @@ SQL
 * [신입 개발자, DB를 최적화 하다! 2편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-db%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EB%8B%A4-2%ED%8E%B8-c9f71951c90)
 * [Intro to SQL - YouTube](https://www.youtube.com/watch?v=vbPw0tmQmws)
 * [Improving Database Development, CI/CD with Storage Snapshot | by Kittikun Chartmala | Agoda Engineering & Design | Feb, 2022 | Medium](https://medium.com/agoda-engineering/improving-database-development-ci-cd-with-storage-snapshot-799765fd3fa9)
+* [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
+* [날짜 참조 테이블 만들기 (매월 월요일 구하기.. : 네이버블로그](https://blog.naver.com/sqlmvp/220274628593)
 
 # MySQL
 * practice
@@ -1335,7 +1337,6 @@ SQL
 * [ws4sqlite: Query sqlite via http](https://github.com/proofrock/ws4sqlite)
 
 ## SQLite Python
-* [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
 * [A simple Python script to document the SQLite databases](https://towardsdatascience.com/a-simple-python-script-to-document-the-sqlite-databases-7932aa462cd8)
 * [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 * [Towards Inserting One Billion Rows in SQLite Under A Minute - blag](https://avi.im/blag/2021/fast-sqlite-inserts/)
