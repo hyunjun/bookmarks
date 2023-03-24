@@ -1563,6 +1563,7 @@ Business
 * [리더는 무엇에 집중해야 하는가?](http://moneyman.kr/archives/2471)
 * [신한은행 구나단 감독대행 전격 감독 승격, 3년간 구나단·이휘걸 체제](https://sports.v.daum.net/v/20220222143925194) 프로스포츠에서도 소통, 설명의 중요성
 * [학교 탐방 박수호 분당경영고 코치의 지도 방식, '이유'를 자세히 설명하는 것](https://sports.v.daum.net/v/20220223084624454) 운동부도 이제 설명이 필요한 시대
+* [목적 조직에서의 DA가 하는 일. 안녕하세요, 29CM 데이터 그로스 팀의 데이터 분석가 최혜린입니다. | by Choi Hyerin | 29CM TEAM | Mar, 2023 | Medium](https://medium.com/29cm/%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C%EC%9D%98-da%EA%B0%80-%ED%95%98%EB%8A%94-%EC%9D%BC-bc4cf2535a89)
 * [스푼라디오가 목적 조직으로 일하는 방법(1) : 팀 빌딩 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-1-%ED%8C%80-%EB%B9%8C%EB%94%A9-889fe5571c05)
 * [스푼라디오가 목적 조직으로 일하는 방법(2) : 목표설정 및 의사소통 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-a61297957ebc)
 * [스푼라디오가 시리즈D에 실패했을때...최혁재의 런웨이](https://stibee.com/api/v1.0/emails/share/Uz353llb3V5-V8TRP4RMoOtMAK_PECY=)
