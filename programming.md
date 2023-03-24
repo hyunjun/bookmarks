@@ -587,7 +587,6 @@ Programming
 * [개발자가 커뮤니티에 참여하는 다양한 이유와 방법 · Present](https://present.do/documents/62f24b066f91af225dca03ff?page=0)
 * [코딩블로그 종류와 장점, 단점 | 블로그 선택](https://digiconfactory.tistory.com/entry/%EC%BD%94%EB%94%A9%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A2%85%EB%A5%98%EC%99%80-%EC%9E%A5%EC%A0%90-%EB%8B%A8%EC%A0%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%A0%ED%83%9D)
 * [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
-* [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
 * [기고 | 효과적인 IT프로세스 구축하기 ‘4가지 전제 조건’ - CIO Korea](https://www.ciokorea.com/news/200264) 프로세스 최적화 지표, SLA
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
@@ -661,7 +660,6 @@ Programming
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 * [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs) Software Bill of Materials SBOM
-* [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
 * [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
@@ -3601,6 +3599,11 @@ Programming
 * [What is a Data Swamp?. Reasons for why you should avoid it | by Christianlauer | CodeX | Dec, 2021 | Medium](https://medium.com/codex/what-is-a-data-swamp-38b1aed54dc6)
 * [SQL Analytics and the Lakehouse Architecture | Ali Ghodsi | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=9oYosh-AoX0)
 * [Becoming a Data Driven Organization with Modern Lakehouse - YouTube](https://www.youtube.com/watch?v=KLD10xn4sX8)
+
+# Date
+* [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+* [UTC vs. UT1 time (and other nuances)](https://mperdikeas.github.io/utc-vs-ut1-time.html)
+* [Date는 어떻게 주고 받는게 바람직할까요? | blog.hoseung.me](https://blog.hoseung.me/2023-03-23-how-to-transfer-date/) UTC GMT
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
