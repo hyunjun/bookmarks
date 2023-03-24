@@ -100,6 +100,7 @@ Elixir
 * [Processes](https://www.basicswithamit.com/blog/processes/)
 * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
 * [An Incremental Approach to Declarative Design](https://zachdaniel.dev/incremental-declarative-design/)
+* [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -172,6 +173,7 @@ Elixir
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
   * [Elixir/Phoenix Security: Remote Code Execution and Serialisation](https://paraxial.io/blog/elixir-rce)
+  * [Elixir and Phoenix Security, Remote Code Execution (RCE) - YouTube](https://www.youtube.com/watch?v=ztoai7zm5i4)
   * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
