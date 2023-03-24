@@ -375,6 +375,7 @@
 * [Kotlin Coroutine의 Structured Concurrency 구현 상세](https://suhwan.dev/2022/01/21/Kotlin-coroutine-structured-concurrency/)
 * [Running Kotlin coroutines on Project Loom's virtual threads](https://kt.academy/article/dispatcher-loom)
 * [Kotlin Coroutines - A Comprehensive Introduction - Rock the JVM Blog](https://blog.rockthejvm.com/kotlin-coroutines-101/)
+* [How to make Sequential Background Tasks with Kotlin Coroutines | by Abanoub Samir | Mar, 2023 | Medium](https://medium.com/@iAbanoubSamir/how-to-make-sequential-background-tasks-with-kotlin-coroutines-8047c4771d91)
 * [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
 
 # Library
