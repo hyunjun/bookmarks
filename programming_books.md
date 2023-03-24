@@ -2220,6 +2220,7 @@ Programming Books
 * (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
 * (NOT YET) [소문난 명강의 : 소플의 처음 만난 리액트](https://hanbit.co.kr/store/books/look.php?p_code=B9365371874)
 * (NOT YET) [나 혼자 만든다! 영화 추천 웹 서비스로 배우는 풀스택](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306366957)
+* (NOT YET) [한 입 크기로 잘라먹는 리액트 책 소개 - YouTube](https://www.youtube.com/watch?v=I8_izQCFsng)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
