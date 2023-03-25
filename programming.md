@@ -3052,6 +3052,7 @@ Programming
   * [GOTO COPENHAGEN 2019](https://gotocph.com/2019)
   * [The Do's and Don'ts of Error Handling](https://gotochgo.com/2018/sessions/352)
   * [Digital Transformations • Jan Damsgaard • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=_K8df4y6HNI)
+  * [Why You Don't Trust Your Linter • Jeroen Engels • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=XjwJeHRa53A)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * if kakao
