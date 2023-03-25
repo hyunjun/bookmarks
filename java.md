@@ -1809,6 +1809,8 @@ Java
   * [스프링(Spring) #2 - 스프링에서의 제어의 역전(IoC) 및 의존성 주입(DI)](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-2-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84IoC-%EB%B0%8F-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85DI)
   * [스프링(Spring) #3 - 스프링 빈에 대해 알아보자](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-3-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 * [Spring Modulith – Spring for the Architecturally Curious Developer by Oliver Drotbohm - YouTube](https://www.youtube.com/watch?v=SjSjBZ7mo1g)
+* [스프링 가이드 타임어택 (1) - RESTful Web Service - YouTube](https://www.youtube.com/watch?v=wlOR5ehWSjE)
+* [스프링 가이드 타임어택 (2) - Scheduling Tasks - YouTube](https://www.youtube.com/watch?v=VIacwaUMbqs)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
