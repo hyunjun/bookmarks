@@ -1240,6 +1240,8 @@ NLP
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
+  * [chat - cloud](https://sysnet4admin.gitbook.io/cloud/others/tools/alpaca/chat)
+  * [DEMO alpaca-chat (7B, 30B) on local labtop(MacBook-Intel) - YouTube](https://www.youtube.com/watch?v=E1zAdwgMDys)
   * [Alpaca-LoRA-Serve: Alpaca-LoRA as Chatbot service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
   * [KoAlpaca: KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
 * [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
