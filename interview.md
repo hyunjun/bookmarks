@@ -963,6 +963,7 @@ Interview
 * [이력서, 웹 서비스처럼 만들어야 하는 이유 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1718/)
 * [이력서, 웹서비스처럼 만들어야 하는 이유 4가지](https://www.datarian.io/blog/why-you-should-create-resume-website)
 * [5 Resume Writing Tips for Changing Careers](https://www.codecademy.com/resources/blog/resume-writing-tips-for-changing-careers/)
+* [주니어 개발자 합격 이력서 작성 세 가지 팁](https://f-lab.kr/blog/developer-resume-3-tips)
 * [Awesome_Resume_Portfolio: 개발자의 서류 작성에 유용한 자료들을 모아두는 Repo](https://github.com/dongyi-kim/Awesome_Resume_Portfolio)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
