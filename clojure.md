@@ -423,6 +423,8 @@ Clojure
   * [**Simple Made Easy**](https://muchtrans.com/translations/simple-made-easy.ko.html) Rich Hickey
   * [Simple Made Easy](https://velog.io/@joosing/Simple-Made-Easy-%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%9D%BD%EA%B3%A0)
 * [Using Javascript libraries from Clojure](https://biffweb.com/p/js-from-clj/)
+* [Thinking about system composition](https://biffweb.com/p/thinking-about-system-composition/)
+* [Signals vs Streams, in terms of backpressure (2023)](https://www.dustingetz.com/#/page/signals%20vs%20streams%2C%20in%20terms%20of%20backpressure%20(2023))
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1093,6 +1095,7 @@ Clojure
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
 * [Overtone - Collaborative Programmable Music](https://overtone.github.io/)
 * [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
+* [panas.reload: a hot reload for babashka serving html+css (or htmx)](https://github.com/keychera/panas.reload)
 * [pathom3: A library for navigating data](https://github.com/wilkerlucio/pathom3)
   * [Pathom 3 is coming | WSSCode Blog](https://blog.wsscode.com/pathom-3-is-coming/)
   * [Data Navigation with Pathom 3 (by Wilker Lucio) - YouTube](https://www.youtube.com/watch?v=YaHiff2vZ_o)
@@ -1154,6 +1157,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Salutem](https://logicblocks.github.io/salutem/index.html) a system for defining and maintaining a collection of health checks
+* [scimacs: The Small Clojure Interpreter (SCI) integrated with emacs as a loadable module](https://github.com/jackrusher/scimacs)
 * [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
@@ -1421,6 +1425,7 @@ Clojure
 * [3 Facts about Clojure every beginner must know | by Sameeksha Bhatia | helpshift-engineering | Oct, 2021 | Medium](https://medium.com/helpshift-engineering/3-facts-about-clojure-every-beginner-must-know-8e7165ccbd39)
 * [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 * [클로져 소개 강의 (한국정보통신산업노동조합)](https://www.slideshare.net/SangKyuPark1/ss-18350615)
+* [Why I decided to learn (and teach) Clojure - DEV Community](https://dev.to/marciofrayze/why-i-decided-to-learn-and-teach-clojure-567f)
 * [clj-easy/about](https://github.com/clj-easy/about)
 * [clojure-quick-intro/core.clj at master · hatemogi/clojure-quick-intro](https://github.com/hatemogi/clojure-quick-intro/blob/master/src/intro/core.clj)
 
