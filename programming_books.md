@@ -3691,6 +3691,7 @@ Programming Books
     * 생산성을 높이기 위해서 첫 번째로 할 일이 자신이 사용하는 도구의 모든 shortcut, trick을 익히라는 이야기에 한 대 얻어맞은 듯 놀랐다. 정말 맞는 말인데 잊고 있었다
     * 두 번째는 work more closely together, one flow, one team. 이 부분도 최근에 항상 생각하고 느끼는 거였지만, 역시 중요하다는 걸 다시 느끼게 됨
     * [Christian Clausen – Medium](https://thedrlambda.medium.com/)
+  * [Five Lines of Codes • Christian Clausen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=APdaacGmDew)
   * [Five Lines of Code](https://github.com/hyunjun/bookmarks/blob/master/programming_books/five_lines_of_code.md)
   * [Five Lines of Code. 건축 사이에 유사점… 마틴 파울러… 가장 해로운 비유… 프로그래밍은… | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/five-lines-of-code-a64fc6e30a5d)
   * [Five Lines of Code](https://jh4hj.tistory.com/entry/Five-Lines-of-Code)
