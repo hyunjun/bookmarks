@@ -104,6 +104,7 @@ Sports
 * [더 빨라지는 야구공, 느리게 던져도 성공할 수 있다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47730) 효과구속 이론(Effective Velocity Theory)
 * [The Fastest Way to Steal Second Base - Drop Step or Crossover Step? - Professional Baseball Strength & Conditioning Coaches Society](http://baseballstrength.org/the-fastest-way-to-steal-second-base-drop-step-or-crossover-step/)
 * [한국시리즈는 과연 충분히 재밌는 시리즈였을까?](https://junkstorage.tistory.com/74)
+* [야구공과 손가락 사이의 마찰력 연구 - 야구공작소](https://yagongso.com/?p=18046)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
