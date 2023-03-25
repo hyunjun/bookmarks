@@ -665,6 +665,7 @@ NLP
 * [Using Semantic Search to Drive Smart Annotations for Chatbot Models | by Samarth Agarwal | DBS Tech Blog | Jan, 2022 | Medium](https://medium.com/dbs-tech-blog/using-semantic-search-to-drive-smart-annotations-for-chatbot-models-f317db7fd41e)
 * [인공지능 대화 데이터, 언어 전문가가 만들어야 하는 이유](https://blog.naver.com/textnetofficial/222678979440)
 * [챗GPT와 유사한 오픈소스 모델 공개됐지만… - ZDNet korea](https://zdnet.co.kr/view/?no=20230103091955)
+* [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Character.AI](https://beta.character.ai/)
