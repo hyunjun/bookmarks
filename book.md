@@ -439,7 +439,10 @@ Book
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
+  * 한라 개373-뢰28ㅇ 탐라 개373-뢰28ㅇ 우당 문373-뢰229ㅇ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
+* (NOT YET) [조국의 법고전 산책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304555964)
+  * 한라 360.04-조16ㅈ 탐라 문360.1-조17ㅈ 우당 문360.1-조17ㅈ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1554,6 +1557,9 @@ Book
   * [파리 카페](https://github.com/hyunjun/bookmarks/blob/master/books/paris_cafe.md)
   * [파리 카페. 유학 시절에는 아무런 지식도 정보도 없어 즐기지 못했던 파리의 카페를… | by Jun | Feb, 2023 | Medium](https://nymets.medium.com/%ED%8C%8C%EB%A6%AC-%EC%B9%B4%ED%8E%98-e293d1eb3dde)
   * [파리 카페](https://jh4hj.tistory.com/entry/%ED%8C%8C%EB%A6%AC-%EC%B9%B4%ED%8E%98)
+* [영화, 뉴욕을 찍다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110407929)
+  * ★★★★☆ 2023.03.25 뉴욕에 살았던 추억 때문에 더 재밋게 읽을 수 있던 책. 외교관으로 뉴욕에 오래 거주하며 뉴욕의 여러가지 이야기와 다양한 영화 이야기를 잘 연결했다
+  * 한라 688.0942-박65ㅇ 탐라 문688.0942-박66ㅇ 우당 문688.0942-박66ㅇ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
@@ -1572,7 +1578,6 @@ Book
   * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
-* (NOT YET) [영화, 뉴욕을 찍다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110407929)
 
 # Wine
 * [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
