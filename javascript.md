@@ -1103,6 +1103,7 @@ Javascript
   * 웹사이트와 패키지는 계속 살아있을 예정이지만 저장소는 읽기 전용으로 아카이빙되고 추가 수정사항 없음
 * [Incremental vs Virtual DOM. Will Incremental DOM Replace Virtual… | by Chameera Dulanga | Bits and Pieces](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
   * [Incremental DOM과 Virtual DOM 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210819)
+* [The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer - YouTube](https://www.youtube.com/watch?v=pD8VaBdU1f8)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1551,6 +1552,7 @@ Javascript
 * [제3회 스포카콘 React + TypeScript + GraphQL 으로 시작하는 Web Front-End](https://www.slideshare.net/ssuserd3aacb/3-react-typescript-graphql-web-frontend)
 * [GraphQL에서 N+1 쿼리 점진적으로 개선하기. 이번 게시글에서는 GraphQL에서 발생하는 N+1 문제와 이를… | by Woosik Kim | Sep, 2022 | Medium](https://well-balanced.medium.com/graphql%EC%97%90%EC%84%9C-n-1-%EC%BF%BC%EB%A6%AC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-d758e925cc19)
 * [Lunit CARE는 왜 GraphQL을 선택했는가?. Lunit CARE (https://www.lunit.care)… | by 김준형 | Lunit Team Blog | Medium](https://medium.com/lunit/lunit-care%EB%8A%94-%EC%99%9C-graphql%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-f4d9bdc183ee)
+* [Why GraphQL Is Perfect For Node.js Microservices | Roy Derks - YouTube](https://www.youtube.com/watch?v=vQOS-834ZYs)
 * Apollo
   * [튜토리얼: React Apollo 2.1 의 Render Props (Tutorial: Render Props in React Apollo 2.1)](https://www.vobour.com/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-react-apollo-2-1%EC%9D%98-render-props-tu)
   * [Apollo 2.x + React + Redux 세팅](https://medium.com/@sangboaklee/graphql-apollo-2-x-react-redux-%EC%84%B8%ED%8C%85-f0d36ef607cf)
@@ -4199,6 +4201,7 @@ Javascript
 * [React로 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/React%EB%A1%9C-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ft.-%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF)
 * [Optimize large list in react | Medium](https://medium.com/@yasir.naeem/optimize-large-list-in-react-471e8e4d4717)
 * [프로젝트 초기 세팅, 불필요한 코드 지우기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/frontend/react-helloworld/)
+* [Building a React Micro-Frontend Application with Single SPA - YouTube](https://www.youtube.com/watch?v=esw-kXhv7Ik)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
