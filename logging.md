@@ -34,6 +34,9 @@ Logging
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
 * [How To Write Error Messages That Don’t Suck](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e)
+* [What the Fastly outage can teach us about writing error messages | OnlineOrNot](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+* [What's in a Good Error Message? - Gunnar Morling](https://www.morling.dev/blog/whats-in-a-good-error-message/)
+* [구글에서 제안하는 오류 메세지 작성법 - 현구막 기술 블로그](https://hyeon9mak.github.io/writing-helpful-error-messages/)
 * [**로그 파일은 좋다**](https://libsora.so/posts/log-file-is-good/) 실제 구현에서 겪을 수 있는 상황에 대한 이야기라 좋음
 * [더 나은 개발자로 성장합는 팁, " 로그를 잘 남기세요."](https://www.youtube.com/watch?v=HxzlJWMcHng)
 * [로그 시스템의 개념과, 구글 스택드라이버 그리고 삼성전자 사례](https://bcho.tistory.com/1330)
@@ -44,7 +47,6 @@ Logging
 * [쏘카에서 로그 파이프라인을 구축](https://www.linkedin.com/posts/mssqldba-joo_%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-ugcPost-6772078735547097088-Ghfd/)
 * [1주차-로그관리 어떻게 할 것인가? - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=18350094)
 * [Why you shouldn’t log into db. From time to time, I see systems… | by Márton Waszlavik | Medium](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
-* [What the Fastly outage can teach us about writing error messages | OnlineOrNot](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
 * [**데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 · 어쩐지 오늘은**](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
   * 서비스에서 데이터 추적을 위해 많은 로그를 쌓게 되는데 이 데이터 로그의 설계부터 QA까지 기획자, PM, 마케터들이 이해할 수 있게 정리한 글
   * 데이터 로깅을 하기 위해 필요한 상식, 사용할 수 있는 플랫폼들 정리. 서버 로그와 클라이언트 로그의 차이, 웹이나 앱의 로깅 특성도 잘 정리
@@ -55,7 +57,6 @@ Logging
   * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
 * [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 * [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance | by Ajay Gupta | IBM Cloud | Medium](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
-* [What's in a Good Error Message? - Gunnar Morling](https://www.morling.dev/blog/whats-in-a-good-error-message/)
 * [5 new sudo features sysadmins need to know in 2022 | Opensource.com](https://opensource.com/article/22/2/new-sudo-features-2022)
 * [2022 State of Observability and Log Management - YouTube](https://www.youtube.com/watch?v=x0MLPqX6toA)
 
