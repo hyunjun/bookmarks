@@ -754,6 +754,7 @@ NLP
     * [kochatgpt_code_230320.ipynb - Colaboratory](https://colab.research.google.com/drive/1UcLLV4mLtn8vxGk5U3TxiLNbVBealy16?usp=sharing)
   * [로컬 컴퓨터에 "ChatGPT"를 설치하세요: LLaMA & 알파카 :: ChatGPT 정리](https://banjubu.tistory.com/398)
   * [GPT Journey - A text and image game with ChatGPT - YouTube](https://www.youtube.com/watch?v=YY7LIEHiAfg)
+  * [ChatGPT와 함께 춤을](https://jojoldu.tistory.com/709)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
