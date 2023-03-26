@@ -755,6 +755,7 @@ NLP
   * [로컬 컴퓨터에 "ChatGPT"를 설치하세요: LLaMA & 알파카 :: ChatGPT 정리](https://banjubu.tistory.com/398)
   * [GPT Journey - A text and image game with ChatGPT - YouTube](https://www.youtube.com/watch?v=YY7LIEHiAfg)
   * [ChatGPT와 함께 춤을](https://jojoldu.tistory.com/709)
+  * [남세동 특강 “챗GPT 작동원리는 막노동이다” - 티타임즈](https://www.ttimes.co.kr/article/2023032416337735950)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
