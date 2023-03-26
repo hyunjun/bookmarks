@@ -980,6 +980,7 @@ Machine Learning
   * [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
 * [feathr: Feathr – An Enterprise-Grade, High Performance Feature Store](https://github.com/linkedin/feathr)
   * [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning | LinkedIn Engineering](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m)
+* [mRMR (minimum-Redundancy-Maximum-Relevance) for automatic feature selection at scale](https://github.com/smazzanti/mrmr)
 
 # Go
 * [Gorgonia](https://gorgonia.org/)
