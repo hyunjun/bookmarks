@@ -1576,6 +1576,7 @@ Programming
 * [How Starling Built Their Own Card Processor - YouTube](https://www.youtube.com/watch?v=oSnVwAKmeA0)
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
+* [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
