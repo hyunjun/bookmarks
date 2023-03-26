@@ -472,6 +472,7 @@ Java
   * [메시지 큐를 활용한, 유연한 전송 구조 만들기](https://velog.io/@joosing/create-flexible-delivery-structure-with-message-queue)
   * [Netty 구조적 특징 (1) : 쓰레드 모델](https://velog.io/@joosing/netty-structural-features-1-thread-model)
   * [Netty 구조적 특징 (2) : 비동기](https://velog.io/@joosing/httpsvelog.iojoosingnetty-structural-features-2-asynchronous)
+  * [Netty 구조적 특징 (3) : 이벤트 루프](https://velog.io/@joosing/netty-structural-features-3-eventloop)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
