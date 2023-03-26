@@ -132,6 +132,7 @@ Programming
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [설계란 무엇인가 III | Popit](https://www.popit.kr/%ec%84%a4%ea%b3%84%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80-iii/)
+* [Resilient functional service design • Uwe Friedrichsen • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=jF7dd2Nytl8)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
 * [직관적인 컴포넌트를 위한 데이터 정규화 | blog.hoseung.me](https://blog.hoseung.me/2022-06-02-normalization-for-intuitive-component/)
@@ -1574,6 +1575,7 @@ Programming
 * [stackoverflowcom 서버는 어떻게 이뤄져 있을까? | 커리어리](https://careerly.co.kr/comments/78541)
 * [How Starling Built Their Own Card Processor - YouTube](https://www.youtube.com/watch?v=oSnVwAKmeA0)
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
+* [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1614,6 +1616,7 @@ Programming
 * [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
 * [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 * [Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
+* [Event Sourcing: The bad parts • Greg Young • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=K4bj31fJGFk)
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
@@ -1894,6 +1897,7 @@ Programming
 * [롯데카드 사례 : 클라우드 컨테이너화를 통한 디지털 혁신 여정 - ITWorld Korea](http://www.itworld.co.kr/news/165085)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
+* [The Rise of Reactive Microservices • David Leitner • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=dB7LDiPKbPQ)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM&t=17s)
 * [Microservices - a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
@@ -2060,6 +2064,7 @@ Programming
 * [What Are Micro-frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=-thWgobMW_I)
 * [if(kakao)dev2022 마이크로 프론트엔드 실무에 쓸만할까?](https://if.kakao.com/2022/session/82)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
+* [Micro-Frontends with Module Federation: Beyond the Basics • Manfred Steyer • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=MJnCWffd7ZY)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
