@@ -1261,6 +1261,8 @@ NLP
   * [OpenAI API](https://openai.com/api/)
     * [Account API Keys - OpenAI API](https://beta.openai.com/account/api-keys)
   * [클라이언트 ID 만들기  |  App Engine용 Cloud Endpoints Frameworks  |  Google Cloud](https://cloud.google.com/endpoints/docs/frameworks/python/creating-client-ids?hl=ko&_ga=2.196418476.-1452048031.1654761680)
+* [dolly](https://github.com/databrickslabs/dolly)
+  * [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
