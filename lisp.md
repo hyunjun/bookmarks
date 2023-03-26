@@ -96,6 +96,7 @@ Lisp
 * [Bel](http://www.paulgraham.com/bel.html)
 
 # Book
+* [Lisp from Nothing (2020) - YouTube](https://www.youtube.com/watch?v=EUUv1QWTBwc)
 * [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
 
 # Common Lisp
