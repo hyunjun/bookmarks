@@ -1950,6 +1950,7 @@ Docker
 * [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
   * [What’s new in MicroK8s v1.23?. Committed to our mission we released… | by K. Tsakalozos | Dec, 2021 | ITNEXT](https://itnext.io/whats-new-in-microk8s-v1-23-9516c452fdaf)
   * [Deploy Microk8s and the Kubernetes Dashboard for K8s Development – The New Stack](https://thenewstack.io/deploy-microk8s-and-the-kubernetes-dashboard-for-k8s-development/)
+  * [MicroK8s Multi-Node-Cluster Installation Steps! | by M Asif Muzammil | Mar, 2023 | Medium](https://medium.com/@m.asif.muzammil/microk8s-multi-node-cluster-installation-steps-169b83285d32)
 * Minikube [Welcome! | minikube](https://minikube.sigs.k8s.io/docs/)
   * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
   * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
