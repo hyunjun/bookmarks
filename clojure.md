@@ -842,6 +842,7 @@ Clojure
   * [CIDER 1.0 | Meta Redux](https://metaredux.com/posts/2020/12/28/cider-1-0.html)
   * [Clojure Webinar #1](https://grishaev.me/en/clj-webinar-1/)
 * [clerk: Local-First Notebooks for Clojure](https://github.com/nextjournal/clerk)
+  * [clerk-slideshow](https://github.com/nextjournal/clerk-slideshow)
 * [clj-async-profiler: Embeddable Clojure profiler built on https://github.com/jvm-profiling-tools/async-profiler ](https://github.com/clojure-goes-fast/clj-async-profiler)
 * [clj-clapps: Clojure library for creating command line apps elegantly](https://github.com/clj-clapps/clj-clapps)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
@@ -855,6 +856,7 @@ Clojure
   * [REPL driven development with Clojure using Spacemacs, CIDER and clj-kondo - YouTube](https://www.youtube.com/watch?v=NDrpclY54E0)
   * [Linting Datalog with clj-kondo](https://www.lambdaforge.io/2019/11/08/clj-kondo-datalog-support.html)
   * [clj-kondo.lsp: Clj-kondo language server and VSCode extension: https://marketplace.visualstudio.com/items?itemName=borkdude.clj-kondo ](https://github.com/clj-kondo/clj-kondo.lsp)
+* [clj-lambda-layered: A sample on how to split the lib deps of a JVM/Clojure lambda into a layer](https://github.com/viesti/clj-lambda-layered)
 * [cljmap-plantuml: View Clojure map as data diagram using PlantUML](https://github.com/jaeyeon-jo-kr/cljmap-plantuml)
 * [clj-maxima: Maxima as a clojure library](https://github.com/lsevero/clj-maxima)
 * [cljol: Experimental code using Java Object Layout (JOL) from Clojure](https://github.com/jafingerhut/cljol)
@@ -1230,6 +1232,7 @@ Clojure
   * [Playing New Music On Old Car Stereo With Clojure And Babashka | Savo's Blog](https://savo.rocks/posts/playing-new-music-on-old-car-stereo-with-clojure-and-babashka/)
   * [Conjure babashka auto nREPL jack in - asciinema](https://asciinema.org/a/415758)
   * [Bash and Babashka equivalents · babashka/babashka Wiki](https://github.com/babashka/babashka/wiki/Bash-and-Babashka-equivalents)
+  * [Babashka script to inspire you. Can be used as startup for your terminal](https://gist.github.com/wunki/abeca1633bac6069718e079f80f0eb27)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [bb-guestbook](https://github.com/SVMBrown/bb-guestbook) Example webserver with Babashka
