@@ -171,6 +171,7 @@
 * [Kotlin의 증분 컴파일에 대한 새로운 접근 방식 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/08/a-new-approach-to-incremental-compilation-in-kotlin/?mibextid=3f2an5)
 * [Differentiable Programming in Kotlin - YouTube](https://www.youtube.com/watch?v=VO7pYFa-TeE)
 * [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
+* [Spring Boot 3 Kotlin Router DSL - Codersee](https://codersee.com/spring-boot-3-kotlin-router-dsl)
 * [Optics/Lens 내 멋대로 Optics 이해하기 Feat) arrow-kt](https://see-ro-e.tistory.com/333)
 * [Get started with Kotlin/JS for React | Kotlin](https://kotlinlang.org/docs/js-get-started.html)
   * [kotlin to javascript (client side) - 밍피디의 개발노트](https://mingpd.github.io/2019/04/18/newtech/kotlin-to-javascript/)
