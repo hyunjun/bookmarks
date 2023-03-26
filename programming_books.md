@@ -1800,7 +1800,9 @@ Programming Books
 * (NOT YET) [양자경제와 금융 | 에이콘출판사](http://acornpub.co.kr/book/quantum-economics/)
   * 한라 331.54-오294ㅇ
 * (NOT YET) [파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://www.linkedin.com/posts/hyunyul-lee-34952096_%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%98-%EC%84%B1%EC%9B%90-%EB%8D%95%EB%B6%84%EC%97%90%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0%EA%B0%80-%EC%9D%BC%EC%A3%BC%EC%9D%BC%EB%8F%84-activity-7030358886918348800-mSFu/)
-  * 탐라
+  * 탐라 문005.133-이94ㅋ 우당 문005.133-이94ㅋ
+  * [quant_py: 파이썬을 이용한 퀀트 투자 포트폴리오 만들기](https://github.com/hyunyulhenry/quant_py)
+  * [파이썬 퀀트 22강 - 포트폴리오 최적화를.. : 네이버블로그](https://blog.naver.com/leebisu/223049696047)
 
 # Flink
 * 아파치 플링크 - Learning Apache Flink
@@ -2738,7 +2740,7 @@ Programming Books
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
 * (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
-  * 탐라
+  * 탐라 문325.19-호848ㅂ
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
@@ -3203,7 +3205,7 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
-  * 탐라
+  * 탐라 문005-박225ㅇ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)

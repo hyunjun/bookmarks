@@ -435,7 +435,7 @@ Book
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
 * (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
-  * 탐라
+  * 탐라 문892.1-동51ㅇ
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
@@ -783,7 +783,7 @@ Book
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
-  * 탐라
+  * 탐라 문320-무53ㄱ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
@@ -994,6 +994,9 @@ Book
     * 한라 911.04-박58ㄱ-2 탐라 문911.04-박59ㄱ-2
 * [세계사톡 1~5 세트 - 전5권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259542547)
   * ★★★☆☆ 2022.10.28~29 1~3권 장점; 세계 역사를 교차해서 보여줌. 동시대에 어떤 일들이 있었는지 보기 좋음. 단점; 전형적인 시각(e.g. 4대 문명, 서구 중심의 세계관)
+* (NOT COMPLETED) [눈에 보이지 않는 지도책 (제임스 체셔, 올리버 우버티 著, 송예슬 譯, 2022)](https://jehyunlee.tistory.com/53)
+  * ★★★☆☆ 2023.01.08 내용까지 자세히 읽지는 않았지만 살펴보는 거 만으로도 좋은 데이터 시각화 책이라는 걸 알 수 있음
+  * 한라 989-체54ㄴ 탐라 문989-체54ㄴ 우당 문989-체54ㄴ
 * [거꾸로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281820039)
   * ★★★☆☆ 2023.01.25~27
   * [거꾸로 읽는 세계사](https://github.com/hyunjun/bookmarks/blob/master/books/reading_history_backwards.md)
@@ -1100,9 +1103,6 @@ Book
 * (NOT YET) [폭풍 전의 폭풍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=201299176)
 * (NOT YET) [병자호란, 홍타이지의 전쟁](https://blog.naver.com/mkparang/221787988183)
   * 한라 911.0557-구44ㅂ 우당 문911.0557-구43ㅂ
-* (NOT YET) [눈에 보이지 않는 지도책 (제임스 체셔, 올리버 우버티 著, 송예슬 譯, 2022)](https://jehyunlee.tistory.com/53)
-  * ★★★☆☆ 2023.01.08 내용까지 자세히 읽지는 않았지만 살펴보는 거 만으로도 좋은 데이터 시각화 책이라는 걸 알 수 있음
-  * 한라 989-체54ㄴ 탐라 문989-체54ㄴ 우당 문989-체54ㄴ
 * (NOT YET) [측정의 역사](https://hgkang1982.tistory.com/427)
   * 한라 331.51-크298ㅊ
   * [미국과 영국은 Imperial Unit을 쓴다. 신이 내려 준 단위라는데, 그 근거가 피라미드](https://www.facebook.com/yosup.park/posts/pfbid0RaAdcfHV1vWPSiuFynoFHw9egZBmWEdYCTUkWxK4RmCydKK2SVycCYzQSMeDTzTul)
@@ -1560,6 +1560,9 @@ Book
 * [영화, 뉴욕을 찍다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110407929)
   * ★★★★☆ 2023.03.25 뉴욕에 살았던 추억 때문에 더 재밋게 읽을 수 있던 책. 외교관으로 뉴욕에 오래 거주하며 뉴욕의 여러가지 이야기와 다양한 영화 이야기를 잘 연결했다
   * 한라 688.0942-박65ㅇ 탐라 문688.0942-박66ㅇ 우당 문688.0942-박66ㅇ
+* 사라져가는 장소들의 지도 [곧 지도 위에서 사라질 명소들을 소개합니다](https://www.hani.co.kr/arti/culture/book/1050149.html)
+  * ★★★☆☆ 2023.03.26
+  * 한라 980.24-엘44ㅅ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
