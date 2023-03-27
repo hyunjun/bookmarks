@@ -1766,6 +1766,7 @@ AWS
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style-case-study/)
 * [Amazon Lookout for Vision과 Rekognition을 이용한 부품 결함 감지 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/defect-detection-l4v-rekog/)
 * [Amazon Rekognition 를 활용한 얼굴 인식 셀프 체크인 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-a-face-recognition-self-check-in-system-using-amazon-rekognition/)
+* [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/) Polly
 * [voightkampff — Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/)
 
 # RDS
