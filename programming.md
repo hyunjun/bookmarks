@@ -5623,6 +5623,7 @@ Programming
 * [버그는 막을 수 있을까](https://medium.com/@erish/%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B2%84%EA%B7%B8%EB%8A%94-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-1392e6bba933)
 * [BDD로 테스트에 중독되어 보자](https://helloworld.kurly.com/blog/try-bdd/)
 * [Mastering BDD - Eran Kinsbruner Workshop Quest 2018](https://www.slideshare.net/ek121268/mastering-bdd-eran-kinsbruner-workshop-quest-2018)
+* [Let's talk about software behaviour (BDD) by Katrin Rabow - YouTube](https://www.youtube.com/watch?v=OCo8oDneHtQ)
 * Cucumber [BDD Testing & Collaboration Tools for Teams | Cucumber](https://cucumber.io/)
 * Spock
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
