@@ -1860,6 +1860,9 @@ Business
 * [토스의 링크페이를 쓰고 받은 충격의 카오스...](https://www.linkedin.com/posts/jeabinleedescartes_%EC%95%88%EC%A0%84%ED%95%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B1%B0%EB%9E%98-%EB%A7%81%ED%81%AC%ED%8E%98%EC%9D%B4-activity-6925263923038367744-ohLF/) 토스란 회사의 문화에 대해서는 불호이나 이런 product에 대한 태도와 실력은 정말 본받아야 한다고 생각함
 * [Shreyas Doshi on Twitter: "Product-Market fit is often viewed as a static concept: either you have it or you don’t. In my experience, it is better to think of fit as a dynamic state based on your progress towards your vision & know what fit you currently have. Check out the 4 Types of Product-Market fit: https://t.co/TARAJGmJvd" / Twitter](https://twitter.com/shreyas/status/1426594663671107585)
   * [Product-Market Fit 의 4가지 종류 | GeekNews](https://news.hada.io/topic?id=6564)
+* [What Product Market Fit Feels Like - by CJ Gustafson](https://www.mostlymetrics.com/p/what-product-market-fit-feels-like)
+  * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
+* [Product fit or market fit?](https://www.thestartupbible.com/2023/03/product-fit-or-market-fit.html)
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
@@ -1882,8 +1885,6 @@ Business
 * [How to reinvent your product growth strategy for the tech downturn at andrewchen](https://andrewchen.com/product-growth-during-downturn/)
   * [어떻게 불황에서 제품성장전략을 혁신할 것인가](https://jordanc.notion.site/9bdd7440aa434a6ab1acb737d2ee3207)
 * [Better/Sooner/Cheaper/More - by Kent Beck](https://tidyfirst.substack.com/p/bettersoonercheapermore) iron cross
-* [What Product Market Fit Feels Like - by CJ Gustafson](https://www.mostlymetrics.com/p/what-product-market-fit-feels-like)
-  * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
 * [“테슬라를 끊으면 부들부들 금단증상이 생긴다” - YouTube](https://www.youtube.com/watch?v=RrKq6EuSARM) 테슬라 이야기보다 서비스에 대한 관점이 더 들을만했음
 * [로그인, 회원가입, ..회원 서비스 기획 너무 어렵다!](https://brunch.co.kr/@zungyeonlee/11)
 * [주니어 PM의 '중요한 고객' 발굴하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/08/26/important-customer.html)
