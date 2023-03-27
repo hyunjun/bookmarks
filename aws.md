@@ -320,7 +320,6 @@ AWS
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
-* [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
 * [Mats Bauer's answer to How much does Netflix pay Amazon Web Services each month? - Quora](https://www.quora.com/How-much-does-Netflix-pay-Amazon-Web-Services-each-month/answer/Mats-Bauer-2)
 * [아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
 * [AWS Outposts / Wavelength / Local Zones 개념 정리](https://dev.classmethod.jp/cloud/aws/aws-outposts-wavelength-localzones-concept-intro-korean/)
@@ -778,6 +777,7 @@ AWS
   * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
 
 # Cost
+* [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
 * [70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [AWS Cloud Cost Checklist V2](https://www.sensedeep.com/blog/posts/stories/checklist-to-lower-aws-cloud-costs.html)
@@ -809,6 +809,7 @@ AWS
 * [FinOps](https://github.com/newstars/FinOps)
 * [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
 * [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
+* [클라우드 서비스 사용량 관리를 통한 운영 비용 최적화. 쿠팡 엔지니어링 조직들의 클라우드 비용을 줄이기 위해 들인 노력과… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Mar, 2023 | Medium](https://medium.com/coupang-engineering/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EB%9F%89-%EA%B4%80%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9A%B4%EC%98%81-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1521565c64ec)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
