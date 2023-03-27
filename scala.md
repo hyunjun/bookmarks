@@ -1092,6 +1092,7 @@ Scala
     * [Zymposium - Scala 3's New Compile-Time Features - YouTube](https://www.youtube.com/watch?v=5PQYC0UDqGA)
     * [Zymposium - Reimplementing Magnolia: Exploring Scala 3's Compile-Time Features - YouTube](https://www.youtube.com/watch?v=X2EdbCO5e90)
     * [Pragmatic DDD in Scala with ZIO](https://www.notion.so/Pragmatic-DDD-in-Scala-with-ZIO-ed6399f13e3d43a0a4cb2a32cc7a6b3e)
+    * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
