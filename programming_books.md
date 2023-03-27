@@ -3202,10 +3202,11 @@ Programming Books
 * [《IT 회사에 간 문과 여자》를 출간하며](https://brunch.co.kr/@jiwon3889/37)
   * ★★☆☆☆ 2023.03.06 내가 읽을 필요는 없는, 맞지 않는 책이었음
   * 한라 325.211-염78ㅇ 탐라 문325.211-염79ㅇ 우당 문325.211-염79I
+* [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
+  * ★★★☆☆ 2023.03.27 비개발자와 주니어 개발자에게 할 이야기가 섞였다는 생각이 들고, 전문작가가 아니라 유려한 문장은 아니긴 하지만, 오랜 경력(근데 나와 큰 차이는 없으니 나는 반성해야 함)을 바탕으로 진정성있는 조언들을 기록
+  * 탐라 문005-박225ㅇ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
-* (NOT YET) [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
-  * 탐라 문005-박225ㅇ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
