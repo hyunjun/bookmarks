@@ -5503,6 +5503,7 @@ Programming
 * [Eyal Kazin - Hypothesis Testing Stop Criterion with “Precision Is The Goal” | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=wv7NqkDB2qM)
 * [Redis 서비스를 만들어가는 QA Engineer의 기록](https://tech.kakaoenterprise.com/183)
 * [비용 효율적인 테스트 디자인하기 | Hewon Jeong](https://hewonjeong.github.io/cost-effective-tests/)
+* [Unlocking Engineering Productivity Through Unlimited Isolated Test Environments :: Endowus Tech](https://tech.endowus.com/unlocking-engineering-productivity/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [testcontainers](https://github.com/testcontainers)
