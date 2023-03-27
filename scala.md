@@ -403,6 +403,7 @@ Scala
 * [introduction to actor supervision akka typed with scala for beginners](https://yolkorbit.com/introduction-to-actor-supervision-akka-typed-with-scala-for-beginners/)
 * [Actor Model(행위자 모델) — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Actor%EC%95%A1%ED%84%B0)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
+* [Actor implementation experiments with ZIO | A toy zio actor implementation](https://stevechy.github.io/toyzioactortest/zio/actors/2023/03/22/zio-actor-experiments.html)
 
 # Akka
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
