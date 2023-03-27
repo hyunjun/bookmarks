@@ -2662,6 +2662,9 @@ Programming Books
   * [천원을 경영하라](https://github.com/hyunjun/bookmarks/blob/master/programming_books/manage_1000won.md)
   * [천원을 경영하라 - Jun - Medium](https://nymets.medium.com/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC-260ba5b6dbd)
   * [천원을 경영하라](https://jh4hj.tistory.com/entry/%EC%B2%9C%EC%9B%90%EC%9D%84-%EA%B2%BD%EC%98%81%ED%95%98%EB%9D%BC)
+* [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
+  * ★★★★☆ 2023.03.27
+  * 탐라 문325.19-호848ㅂ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2739,8 +2742,6 @@ Programming Books
   * 한라 325.5-오42ㅍ 탐라 문325.5-오41ㅍ 우당 문325.5-오41ㅍ
 * (NOT YET) [로켓 패러독스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294249250)
   * 우당 문325.21-최73ㄹ
-* (NOT YET) [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
-  * 탐라 문325.19-호848ㅂ
 * (NOT YET) [체크! 체크리스트(The Checklist Menifesto)](https://blog.naver.com/ace/60189044690)
   * 한라 325.1-가65ㅊ 탐라 개325.1-가65ㅊ
 * (NOT YET) 아마존처럼 회의하라 [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
