@@ -1550,6 +1550,8 @@ Web
   * yml과 명령어기반으로 손쉽게 테스트, 보고서까지 빠르게 출력 가능
   * 분산(로드밸러서, nginx), 멀티 코어 클러스터링(pm2), 환경에서의 시스템 가용성 테스트가 필요하다면 유용
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
+  * [우분투 환경에서 Node.js 앱 성능/가용성 테스트하기 - 강창훈 | 2023. 3. 25. 정기총회 - Speaker Deck](https://speakerdeck.com/ubuntukrorg/gayongseong-teseuteuhagi-gangcanghun-2023-3-25-jeonggiconghoe)
+    * [우분투 환경에서 Node.js 앱 성능/가용성 테스트하기 - 강창훈 | 2023년도 정기총회 - YouTube](https://www.youtube.com/watch?v=MRLX6FF-SEI)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
   * [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
