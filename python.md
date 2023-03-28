@@ -4920,6 +4920,7 @@ Python
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
+* [Season6 데이타 사이언스 - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhHQuE_vqn_h9fzN6pituBqx)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
