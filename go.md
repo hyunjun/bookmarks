@@ -1108,6 +1108,7 @@ Go
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [golang-redis-webserver: web server using redis](https://github.com/Paulo-Lopes-Estevao/golang-redis-webserver)
+* [goravel: A Golang framework for web artisans. Tribute to Laravel](https://github.com/goravel/goravel)
 * [Gorilla - a web toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications](https://github.com/gorilla)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [mux: A powerful HTTP router and URL matcher for building Go web servers with 🦍](https://github.com/gorilla/mux)
