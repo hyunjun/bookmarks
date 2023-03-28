@@ -3391,6 +3391,7 @@ Python
   * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
   * [bun: A Python package for a basic CLI and GUI user interface](https://github.com/caltechlibrary/bun)
     * [A Python package for a basic CLI and GUI user interface](https://pythonawesome.com/a-python-package-for-a-basic-cli-and-gui-user-interface/)
+  * [Girok - The most powerful CLI task manager](https://github.com/noisrucer/girok)
   * [prompt-toolkit](https://github.com/prompt-toolkit) Tools for building command line applications in Python
     * [ptpython: A better Python REPL](https://github.com/prompt-toolkit/ptpython)
   * [python_snippet: Python and data science snippets on the command line](https://github.com/khuyentran1401/python_snippet)
