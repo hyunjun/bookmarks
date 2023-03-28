@@ -185,6 +185,7 @@ Azure
 * [Azure에서 React.js배포 - Byeongjin Jason Kang](https://jasonkang14.github.io/azure/static-web-app-to-deploy-react)
 * [Microsoft technical support results for the "Unable to delete ghost tenant" issue](https://www.dokyun.pe.kr/281)
 * [Sort Your Tech Debt with Azure! - LunchBytes - YouTube](https://www.youtube.com/watch?v=JWe1k3fnsrY)
+* [AI Builder 에 들어온 ChatGPT. 이것을 자동화 할 수 없을까? 나도 앱이나 챗봇 등을 만들어 손하나 까닥이지 않고 싶다. 과연 될까요? 한번 느껴보세요! - YouTube](https://www.youtube.com/watch?v=TXQ5dtn_CSk) OpenAI service
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
