@@ -66,6 +66,8 @@ Redis
   * [입 개발 Redis 지표 중에 instantaneous 정보들은 어떤걸까? | Charsyam's Blog](https://charsyam.wordpress.com/2022/08/07/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A7%80%ED%91%9C-%EC%A4%91%EC%97%90-instantaneous-%EC%A0%95%EB%B3%B4%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B1%B8%EA%B9%8C/)
   * [Redis-Finda-Public - Google Slides](https://docs.google.com/presentation/d/1CBWy04mc4pKyhDp2S5rVKOPZbIc5FCsNFbm5s5NgG8c/edit)
   * [입 개발 분산 락에 대해서… | Charsyam's Blog](https://charsyam.wordpress.com/2022/12/31/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EB%B6%84%EC%82%B0-%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
+  * [입 개발 Redis가 maxmemory 보다 더 썼다가 OOM 에러를 던져요!!! | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/14/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis%EA%B0%80-maxmemory-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8D%BC%EB%8B%A4%EA%B0%80-oom-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%8D%98%EC%A0%B8%EC%9A%94/)
+  * [입 개발 Redis 메모리 해제에 관해서… 주로 Expire… | Charsyam's Blog](https://charsyam.wordpress.com/2023/01/05/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%B4%EC%A0%9C%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%A3%BC%EB%A1%9C-expire/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
@@ -126,8 +128,6 @@ Redis
 * [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
 * [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2021/01/19/product-stock.html) redis + RDB 배민 재고 관리
 * [레디스(Redis)는 언제 어떻게 사용하는 게 좋을까](https://brunch.co.kr/@skykamja24/575)
-* [입 개발 Redis가 maxmemory 보다 더 썼다가 OOM 에러를 던져요!!! | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/14/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis%EA%B0%80-maxmemory-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8D%BC%EB%8B%A4%EA%B0%80-oom-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%8D%98%EC%A0%B8%EC%9A%94/)
-* [입 개발 Redis 메모리 해제에 관해서… 주로 Expire… | Charsyam's Blog](https://charsyam.wordpress.com/2023/01/05/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%B4%EC%A0%9C%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%A3%BC%EB%A1%9C-expire/)
 * [Improve Cache Speed at Scale - RedisConf 2020 - YouTube](https://www.youtube.com/watch?v=mPg20ykAFU4) Cache Stampede, TTL, PER, 디바운싱, Hot Keys, 읽기분산, 레플리카, 압축
 * [How to Set up a Firewall for Redis using ufw | thisDaveJ](https://thisdavej.com/how-to-set-up-a-firewall-for-redis-using-ufw/)
 * [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices - YouTube](https://www.youtube.com/watch?v=YEOoJZ13JtI)
@@ -144,6 +144,7 @@ Redis
   * [우아한테크토크 선착순 이벤트 서버 생존기! 47만 RPM에서 살아남다?! - YouTube](https://www.youtube.com/watch?v=MTSn93rNPPE)
   * [time-attack-coupon-server: Redis기반 선착순 쿠폰 발급 서버](https://github.com/jerry-ljh/time-attack-coupon-server)
 * [IMDEV 2023 Redis를 활용한 Mobile APM 백엔드 성능 향상시키기 - YouTube](https://www.youtube.com/watch?v=xkHLxIs4PsM)
+* [Database - Redis를 이용해서 웹 로딩 반타작내기](https://changhyeon.net/database--redis-)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
