@@ -1635,6 +1635,7 @@ Docker
 * [Kubernetes and the JVM - Xebia](https://xebia.com/blog/kubernetes-and-the-jvm/)
 * [쿠버네티스 워크로드와 통신하는 방법: ①서비스 | 요즘IT](https://yozm.wishket.com/magazine/detail/1909/)
 * [What We've Learned from Scanning 10K+ Kubernetes Clusters by Rotem Refael - YouTube](https://www.youtube.com/watch?v=G85cyUE1US0)
+* [Kubernetes 규정 준수를 위한 필수 가이드 - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/compliance)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
