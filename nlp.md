@@ -1154,6 +1154,7 @@ NLP
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
+  * [‘오픈AI Vs. 오픈AI’ 메타의 ‘라마’ 유출이 던진 질문 - 테크42](https://www.tech42.co.kr/%EC%98%A4%ED%94%88ai-vs-%EC%98%A4%ED%94%88ai-%EB%A9%94%ED%83%80%EC%9D%98-%EB%9D%BC%EB%A7%88-%EC%9C%A0%EC%B6%9C%EC%9D%B4-%EB%8D%98%EC%A7%84-%EC%A7%88%EB%AC%B8/)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
