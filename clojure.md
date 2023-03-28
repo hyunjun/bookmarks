@@ -844,6 +844,7 @@ Clojure
   * [Clojure Webinar #1](https://grishaev.me/en/clj-webinar-1/)
 * [clerk: Local-First Notebooks for Clojure](https://github.com/nextjournal/clerk)
   * [clerk-slideshow](https://github.com/nextjournal/clerk-slideshow)
+* [clj2el: Transpile Clojure to Emacs Lisp!](https://github.com/borkdude/clj2el)
 * [clj-async-profiler: Embeddable Clojure profiler built on https://github.com/jvm-profiling-tools/async-profiler ](https://github.com/clojure-goes-fast/clj-async-profiler)
 * [clj-clapps: Clojure library for creating command line apps elegantly](https://github.com/clj-clapps/clj-clapps)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
