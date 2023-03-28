@@ -1502,6 +1502,7 @@ Machine Learning
 * [igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
   * [ML 최적화 1. JIT & google JAX](https://brunch.co.kr/@chris-song/99)
+  * [JAX KR 문서 번역 프로젝트 — JAX-KR 문서](https://jax-kr.readthedocs.io/)
   * [Flax: A neural network library for JAX designed for flexibility](https://github.com/google-research/flax)
   * [Haiku - a simple neural network library for JAX developed by some of the authors of Sonnet, a neural network library for TensorFlow](https://github.com/deepmind/dm-haiku)
   * [RLax (pronounced "relax") - a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents](https://github.com/deepmind/rlax)
