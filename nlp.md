@@ -1174,6 +1174,7 @@ NLP
   * [LLaMA_MPS: Run LLaMA inference on Apple Silicon GPUs](https://github.com/jankais3r/LLaMA_MPS)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
+* [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
