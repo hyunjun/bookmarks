@@ -211,6 +211,7 @@ Programmer
 * [프로그래머로 산다는 것 - Google Slides](https://docs.google.com/presentation/d/1e1c0eyB1zYZFZyr4eIl0LSfhrp6SI9N_zy0ZIrZ4fVM/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 * [프로그래머로산다는것 확장 - Google Slides](https://docs.google.com/presentation/d/14LWmd95UWOYEq1ZclP-gbAhL7qP1tckXXoRizzU2xts/edit#slide=id.g1187a64b348_0_0) socar CTO 류석문
 * [리더의 생각(북 콘서트 발표자료).pptx - Google Slides](https://docs.google.com/presentation/d/1rohQTXw9oEyIQ8KK24m0YeO4PaRgnjLt/edit#slide=id.g21f2aed3e5a_0_639) 류석문
+  * [조직에 속한 모든 사람이 타성에 젖어 나아지려는 시도조차 거부하면 어떡해야 할까요?](https://www.linkedin.com/posts/sryoo_scitcu-smpulprwd-qtkspfstastwqzcqvirsv-activity-7044080243065724928-wTCS/)
 * [20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
   * [20년간 소프트웨어 엔지니어로서 배운 20가지 | GeekNews](https://news.hada.io/topic?id=8358)
   * [소프트웨어 엔지니어가 20년 경력동안 배운 20가지 | 커리어리](https://careerly.co.kr/comments/76507)
