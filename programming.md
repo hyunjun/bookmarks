@@ -1812,6 +1812,7 @@ Programming
 * [Building Event Driven, Reactive Apps with Temporal: Workflows vs Sagas - YouTube](https://www.youtube.com/watch?v=oZ0yf8rTALA)
 * [Modern Event-driven Architecture: Adopting Data in Motion • Alex Stuart • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=FLQiqnkTogo)
 * [이벤트 드리븐 적재적소에 사용하기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/event-driven-architecture/)
+* [Eldercam: Event-driven AI for Surveillance • John Page • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_76uaHtthYs)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
