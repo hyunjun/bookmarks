@@ -977,6 +977,7 @@ App
     * [VS Code Extensions 추천 - 엘키의 주절 주절](https://elky84.github.io/2023/03/12/vscode_plugins/)
     * [개발자분들을 위한 GPT기반의 Coding Assistant Extension for VSCode(8.7MB gif첨부) : 클리앙](https://www.clien.net/service/board/pds/17952918)
     * [vscode extension recommendations - YouTube](https://www.youtube.com/watch?v=7OBwBfhBwvc)
+    * [Query Databricks SQL from Visual Studio Code - YouTube](https://www.youtube.com/watch?v=tThmRuyp2cA)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)
   * Git
