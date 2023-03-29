@@ -44,6 +44,7 @@ Redis
 * [Intro To Redis Cluster Sharding – Advantages, Limitations, Deploying & Client Connections](http://highscalability.com/blog/2019/2/19/intro-to-redis-cluster-sharding-advantages-limitations-deplo.html)
 * [Docker기반 Redis 구축하기 - (10) Redis Cluster Mode 설정하기 | Carreys 기술블로그](https://jaehun2841.github.io/2018/12/03/2018-12-03-docker-10/#%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
 * [입 개발 Redis 에서 Redis Cluster 로 갈 때 주의해야할 부분들 | Charsyam's Blog](https://charsyam.wordpress.com/2021/10/03/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%97%90%EC%84%9C-redis-cluster-%EB%A1%9C-%EA%B0%88-%EB%95%8C-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC%ED%95%A0-%EB%B6%80%EB%B6%84%EB%93%A4/)
+* [초보 개발자를 위한 Redis Cluster Migration 가이드라인](https://dev.gmarket.com/71)
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
 * [10. 데이터 폭풍이닷: 스크래핑으로 가져온 데이터 처리](https://highluck.github.io/#/project_k)
 * 3개의 key column이 있으며, 하나의 key로 찾는 경우
