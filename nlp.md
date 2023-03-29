@@ -790,6 +790,7 @@ NLP
   * [YGK-a: YGK-a: Your Genius, Knowledgeable assistant, An advanced ChatGPT client from your shell](https://github.com/code-yeongyu/ygk-a)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Like the eval method!](https://github.com/corca-ai/EVAL)
+* [gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
