@@ -444,6 +444,7 @@ Book
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
 * (NOT YET) [조국의 법고전 산책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304555964)
   * 한라 360.04-조16ㅈ 탐라 문360.1-조17ㅈ 우당 문360.1-조17ㅈ
+* (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
