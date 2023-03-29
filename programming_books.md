@@ -3208,6 +3208,7 @@ Programming Books
   * 탐라 문005-박225ㅇ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
+* (NOT YET) [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
