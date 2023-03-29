@@ -229,6 +229,7 @@ Programming
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
+* [컴퓨팅 사고와 개발 실력 늘리는 공부법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1950/)
 * [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-개발-10년차인데-코드-좀-봐주세요/)
 * [RC Start: Free one-on-one mentorship for new programmers](https://www.recurse.com/blog/99-free-one-on-one-mentorship-for-new-programmers)
 * [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
