@@ -1165,6 +1165,7 @@ NLP
   * [‘오픈AI Vs. 오픈AI’ 메타의 ‘라마’ 유출이 던진 질문 - 테크42](https://www.tech42.co.kr/%EC%98%A4%ED%94%88ai-vs-%EC%98%A4%ED%94%88ai-%EB%A9%94%ED%83%80%EC%9D%98-%EB%9D%BC%EB%A7%88-%EC%9C%A0%EC%B6%9C%EC%9D%B4-%EB%8D%98%EC%A7%84-%EC%A7%88%EB%AC%B8/)
   * [GPT-3 경쟁 LLaMA를 스마트폰에서 작동? - 테크레시피](https://techrecipe.co.kr/posts/51840)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
+  * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
   * [llama.cpp: Port of Facebooks LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)
