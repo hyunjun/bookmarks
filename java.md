@@ -847,8 +847,6 @@ Java
 * [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
 * [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
 * [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
-* [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
-* [State of the Java Ecosystem Report from New Relic](https://www.infoq.com/news/2022/05/java-ecosystem-report-2022/)
 * [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
 * [Java records & compact constructors](https://mikemybytes.com/2022/02/16/java-records-and-compact-constructors/)
 * [Why Java's Records Are Better\* Than Lombok's @Data and Kotlin's Data Classes // nipafx](https://nipafx.dev/java-record-semantics/)
