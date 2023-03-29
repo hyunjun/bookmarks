@@ -307,6 +307,9 @@ Book
   * [몰입의 즐거움](https://github.com/hyunjun/bookmarks/blob/master/books/finding_flow.md)
   * [몰입의 즐거움. 최적의 경험, 곧 몰입은 두 변수가 모두 높을 때 나타난다. | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/%EB%AA%B0%EC%9E%85%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80-6019ae36e047)
   * [몰입의 즐거움](https://jh4hj.tistory.com/entry/%EB%AA%B0%EC%9E%85%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
+* [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
+  * ★★★☆☆ 2023.03.29 (반복해서 계속 읽는) 전통적인 공부법은 비효율적이고 어떻게 하면 효율적/효과적으로 할 수 있는지를 알려주는 책. 아는 거도 있고 모르는 거도 있는데 결국 중요한 건 결국 이런 방법을 실천하고 또 자신에게 맞는 방법을 찾는 것
+  * 한라 개373-뢰28ㅇ 탐라 개373-뢰28ㅇ 우당 문373-뢰229ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -438,8 +441,6 @@ Book
   * 탐라 문892.1-동51ㅇ
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
-* (NOT YET) [어떻게 공부할 것인가 | Popit](https://www.popit.kr/%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
-  * 한라 개373-뢰28ㅇ 탐라 개373-뢰28ㅇ 우당 문373-뢰229ㅇ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
 * (NOT YET) [조국의 법고전 산책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304555964)
   * 한라 360.04-조16ㅈ 탐라 문360.1-조17ㅈ 우당 문360.1-조17ㅈ
