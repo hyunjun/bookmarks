@@ -2636,6 +2636,7 @@ Programming
 * [Cloud-Native Progressive Delivery • Matt Turner • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sZjzLulL7Bo)
 * [Free alternatives to Heroku - DEV Community](https://dev.to/tuliocalil/free-alternatives-to-heroku-2kc1)
 * [‘클라우드 안 쓴다, 고정 관념 버린다’··· 한 SaaS 기업이 ‘서버’를 구매하는 사연 - CIO Korea](https://www.ciokorea.com/news/284167)
+* [클라우드 네이티브 가드레일이 개발 팀에 도움이 되는 5가지 이유 - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/guardrails)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
