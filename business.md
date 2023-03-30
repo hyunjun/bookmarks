@@ -1934,6 +1934,7 @@ Business
 * ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
 * [제품 관리자가 가져야 하는 데이터 문해력이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1779/)
 * [퍼널은 줄일수록 좋은걸까?. 전환율 증진을 위해 퍼널 개수는 적을수록 좋다던데… | by Stephan Seunghwan Seo | DelightRoom | Mar, 2023 | Medium](https://medium.com/delightroom/%ED%8D%BC%EB%84%90%EC%9D%80-%EC%A4%84%EC%9D%BC%EC%88%98%EB%A1%9D-%EC%A2%8B%EC%9D%80%EA%B1%B8%EA%B9%8C-652280c76e2d)
+* [6시간 동안 단체로 해외 콘퍼런스 참여하기: 프로덕트콘 같이 보기 이벤트 - ProductCon London 2023 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/event-watch-productcon-london2023/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
