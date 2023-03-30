@@ -2810,6 +2810,8 @@ Python
     * [Flask로 API 서버 만들기 (8) - Extra tips (Makefiles)](https://dejavuqa.tistory.com/280)
 * flask-security [Intro to Flask-Security](https://www.youtube.com/watch?v=LsHf3JSDBVc)
 * flask-session [Server-Side Sessions in Flask with Flask-Session - YouTube](https://www.youtube.com/watch?v=lvKjQhQ8Fwk)
+* [Flask-SocketIO — Flask-SocketIO documentation](https://flask-socketio.readthedocs.io/)
+  * [Creating a Chat App With Flask-SocketIO - YouTube](https://www.youtube.com/watch?v=AMp6hlA8xKA)
 * Flask-SQLAlchemy
   * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
   * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
