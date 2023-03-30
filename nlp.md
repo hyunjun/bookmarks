@@ -759,6 +759,7 @@ NLP
   * [ChatGPT의 등장과 은 탄환에 대한 생각 | 웹으로 말하기](https://mytory.net/archives/13940)
   * [ChatGPT로 간단한 게임 시나리오를 만들기까지 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt/)
     * [ChatGPT를 이용한 게임 시나리오 만들기 - 프롬프트 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt-full-text/)
+  * [Creating Powerful Chatbots: A Developer’s Guide to Integrating ChatGPT and React Native | by Chirag Jadav | Mar, 2023 | Medium](https://medium.com/@hello_chirag/creating-powerful-chatbots-a-developers-guide-to-integrating-chatgpt-and-react-native-dfa320e33917)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
