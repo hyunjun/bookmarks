@@ -3573,11 +3573,11 @@ Programming Books
   * 한라 005.133-클292ㄹ 우당 문005.133-스839ㄹ
 * (NOT YET) [동시성 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B9078925849)
   * 우당 문005.133-다821ㄷ
-* (NOT YET) [한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/08/%ED%95%9C-%EC%A4%84-%ED%95%9C-%EC%A4%84-%EC%A7%9C%EB%A9%B4%EC%84%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EB%9F%AC%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/) RUST IN ACTION
+* (NOT YET) [한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/07/08/%ED%95%9C-%EC%A4%84-%ED%95%9C-%EC%A4%84-%EC%A7%9C%EB%A9%B4%EC%84%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EB%9F%AC%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
   * 우당 문005.133-맥211ㄹ
   * [Rust in Action](https://www.manning.com/books/rust-in-action)
   * [Rust in Action](https://github.com/rust-in-action)
-  * [Rust in Action (Teaser) • Tim McNamara & Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=cDwdPE5Z4BA)
+  * [Rust in Action • Tim McNamara & Richard Feldman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iYJ6bLITZsI)
 * (NOT YET) [만들면서 배우는 러스트 프로그래밍 | 위키북스](https://wikibook.co.kr/rust)
   * 우당 문005.133-쿠79ㄹ
   * [rust: 《만들면서 배우는 러스트 프로그래밍》 예제 코드](https://github.com/wikibook/rust)
