@@ -180,6 +180,8 @@ Elixir
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
     * [Phoenix 1.7 with Svelte. Cybernetically enhanced Phoenix Web… | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
+  * [potion_shop: A vulnerable Elixir and Phoenix application for learning web security](https://github.com/securityelixir/potion_shop)
+    * [Announcing Potion Shop - An Open Source Vulnerable Elixir/Phoenix App for Security Education](https://paraxial.io/blog/potion-shop)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
