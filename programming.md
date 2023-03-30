@@ -1620,6 +1620,7 @@ Programming
 * [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 * [Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
 * [Event Sourcing: The bad parts • Greg Young • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=K4bj31fJGFk)
+* [What is Event Sourcing Design Pattern in Microservice Architecture? How does it work? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/what-is-event-sourcing-design-pattern-in-microservices-architecture-how-does-it-work-b38c996d445a)
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
