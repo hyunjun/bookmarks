@@ -1233,6 +1233,7 @@ Java
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [bladecoder-adventure-engine: Classic point and click adventure game engine and editor](https://github.com/bladecoder/bladecoder-adventure-engine)
+* [cfr: This is the public repository for the CFR Java decompiler](https://github.com/leibnitz27/cfr)
 * [Chatty - a Twitch chat client](http://chatty.github.io/)
   * [chatty - Twitch Chat Client written in Java](https://github.com/chatty/chatty)
   * [자바 오픈소스 채팅앱 소개 / 개발자용 폰트 / 코딩 약간 / 마이크 필터링 (2017-02-24)](https://www.youtube.com/watch?v=s8d8tYr7K84)
