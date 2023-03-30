@@ -1306,6 +1306,9 @@ Book
   * [당신이 옳다](https://github.com/hyunjun/bookmarks/blob/master/books/you_are_right.md)
   * [당신이 옳다. 스타란 너(대중)의 취향에 나를 온전히 맞추는 사람만이 살아남는… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4-8ccbf7ff7acf)
   * [당신이 옳다](https://jh4hj.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%98%B3%EB%8B%A4)
+* [내가 틀릴 수도 있습니다](https://brunch.co.kr/@usunote/31)
+  * ★★★★★ 2023.03.30
+  * 한라 199.1-린24ㄴ 탐라 문220.4-린223ㄴ 우당 문220.4-린223ㄴ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1334,8 +1337,6 @@ Book
   * 한라 236.911-김78ㄱ, 우당 문236.911-김79ㄱ
 * (NOT YET) 한국전쟁과 기독교 [한국 기독교, 어떻게 '기득권 종교'가 되었나](https://v.daum.net/v/20151128144402501)
   * 한라 235.83-윤74ㅎ
-* (NOT YET) [내가 틀릴 수도 있습니다](https://brunch.co.kr/@usunote/31)
-  * 한라 199.1-린24ㄴ 탐라 문220.4-린223ㄴ 우당 문220.4-린223ㄴ
 
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
