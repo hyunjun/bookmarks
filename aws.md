@@ -574,6 +574,7 @@ AWS
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
 * [Query 10 new data sources with Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/query-10-new-data-sources-with-amazon-athena/)
 * [버즈빌 사례 | 일일 6억 건 이상의 광고 데이터 처리 플랫폼 구축을 향한 여정 - 서주은, CTO, 버즈빌 - YouTube](https://www.youtube.com/watch?v=MxmxXK3Xqkk) Athena, S3 기반 data lake
+* [AWS Athena를 이용한 서버리스 보고서 만들기. 소개 | by Siheon Kim | Mar, 2023 | HBsmith](https://blog.hbsmith.io/aws-athena%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-a2b2983f1c64)
 * [PyAthena - a Python DB API 2.0 (PEP 249) client for Amazon Athena](https://github.com/laughingman7743/PyAthena/)
   * [파이썬으로 아테나에 쿼리하기 (boto3 vs pyathena vs awswrangler)](https://velog.io/@hsh/AWSPythonAthena-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%95%84%ED%85%8C%EB%82%98%EC%97%90-%EC%BF%BC%EB%A6%AC%ED%95%98%EA%B8%B0-boto3-vs-pyathena-vs-awswrangler)
     * athena는 S3에 있는 데이터에 쿼리를 날릴 수 있는 서버리스 쿼리엔진
