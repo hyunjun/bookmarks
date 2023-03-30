@@ -177,6 +177,7 @@ Elixir
   * [Elixir/Phoenix Security: What is CSRF via Action Reuse?](https://paraxial.io/blog/action-reuse-csrf)
   * [Elixir and Phoenix Security, Remote Code Execution (RCE) - YouTube](https://www.youtube.com/watch?v=ztoai7zm5i4)
   * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
+  * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
     * [Phoenix 1.7 with Svelte. Cybernetically enhanced Phoenix Web… | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
