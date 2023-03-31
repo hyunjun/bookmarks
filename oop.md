@@ -330,6 +330,7 @@
 * [Design Patterns in JavaScript. Commonly Used Design Patterns With Code… | by Mahdhi Rezvi | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)
 * [아토믹(Atomic) 컴포넌트 디자인 개발 패턴](https://brunch.co.kr/@skykamja24/580)
 * [Javascript에서도 SOLID 원칙이 통할까?](https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C)
+* [프론트엔드와 SOLID 원칙 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
 * [10 Design Patterns Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=tv-_1er1mWI)
 * [자바스크립트에서 객체 지향을 하는 게 맞나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1396/)
   * 프로그래밍이 발전하면서 구조체, 클래스, 객체가 생기게 된 흐름과 객체지향 프로그래밍의 캡슐화, 추상화, 다형성, SOLID까지 간단한 예제로 쉽게 읽히게 잘 설명
