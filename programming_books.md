@@ -825,7 +825,9 @@ Programming Books
 * (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
   * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
 * (NOT YET) AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
+  * 한라
 * (NOT YET) [AI 지도책](https://www.facebook.com/greenmun21/posts/pfbid03owxoBtf6Hta3wypv4QRFhZzYTk7ccKXgcanum3pHReAs8BXYvUeySUTmK1PufKml)
+  * 탐라
 
 # C
 
@@ -1624,16 +1626,19 @@ Programming Books
   * 2017.01
 * (NOT YET) Docker로 PaaS 구성하기
   * 2017.06 한라
-* (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
+* (NOT YET) [컨테이너 보안](https://hanbit.co.kr/store/books/look.php?p_code=B8383749156)
+  * 우당
+  * [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
+  * [컨테이너 보안 - 컨테이너화된 응용 프로그램의 보안을 위한 개념, 이론, 대응법과 모범 관행까지 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1650)
 * (NOT YET) [따라하며 배우는 도커와 CI 환경 | 위키북스](https://wikibook.co.kr/docker-ci/)
   * 탐라 문005.1-안72ㄷ
 * (NOT YET) [도커, 컨테이너 빌드업!](https://jpub.tistory.com/1225)
   * 탐라 문005.1-이94ㄷ
 * (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
+  * 한라
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
-* (NOT YET) [컨테이너 보안](https://hanbit.co.kr/store/books/look.php?p_code=B8383749156)
-  * [컨테이너 보안 - 컨테이너화된 응용 프로그램의 보안을 위한 개념, 이론, 대응법과 모범 관행까지 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1650)
+  * 탐라
 
 ## Kubernetes
 
@@ -1666,8 +1671,10 @@ Programming Books
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
   * 한라 005.11-오12ㄷ
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * 우당
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
+  * 우당
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
@@ -2749,6 +2756,8 @@ Programming Books
 * (NOT YET) [몽키 비즈니스(monkey business, 2001) 독후감](http://ohyecloudy.com/pnotes/archives/monkey-business-2001/)
 * (NOT YET) [리프레이밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294398313)
   * 한라 325.2-웨24ㄹ 탐라 문325.2-웨223ㄹ
+* (NOT YET) [개발자에게 물어보세요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313405468)
+  * 탐라
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -3210,6 +3219,7 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
+  * 탐라
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
@@ -3458,6 +3468,7 @@ Programming Books
   * 탐라 문005.133-이832ㄴ 우당 문005.133-이832ㄴ
 * (NOT YET) [파이썬 웹 스크레이핑 완벽 가이드 | 위키북스](https://wikibook.co.kr/pyscraping/)
 * (NOT YET) [FastAPI를 사용한 파이썬 웹 개발](https://hanbit.co.kr/store/books/look.php?p_code=B9703548802)
+  * 탐라
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)

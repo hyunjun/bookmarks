@@ -445,7 +445,9 @@ Book
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
+  * 우당
 * (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
+  * 우당
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -688,6 +690,8 @@ Book
 * (NOT YET) [일터의 설계자들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309233428)
 * (NOT YET) [이노베이터 DNA(THE INNOVATOR's DNA)](https://blog.naver.com/ace/60154534527)
   * 한라 325.1-다68ㅇ 탐라 개325.211-다68ㅇ 우당 문325.1-다69ㅇ
+* (NOT YET) [다이브 딥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313587844)
+  * 한라
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1319,6 +1323,7 @@ Book
 * (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
+  * 한라
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
