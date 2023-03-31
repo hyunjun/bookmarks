@@ -1911,6 +1911,7 @@ Business
 * [프로덕트 매니저를 위한 웹훅](https://janepark.notion.site/6f945ea4f8e146008918cb18b7854184)
 * [고객에게 필요한 소식은 따로 있다. 고객의 니즈를 충족하고 비즈니스 임팩트를 낸 프로덕트 설계 | by Sumin Seo | 29CM TEAM | Mar, 2023 | Medium](https://medium.com/29cm/%EA%B3%A0%EA%B0%9D%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EC%86%8C%EC%8B%9D%EC%9D%80-%EB%94%B0%EB%A1%9C-%EC%9E%88%EB%8B%A4-b9077e131688)
 * [문제의 원인의 원인을 찾아서](https://toss.tech/article/real-reason)
+* [여기어때 퍼소나는 어떻게 만들어졌을까?. 글. 정혜수(Riley) / UX Researcher | by 여기어때 UX Center | Mar, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%8D%BC%EC%86%8C%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-3c299cff3bc0)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
