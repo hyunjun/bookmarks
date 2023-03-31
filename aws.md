@@ -1878,6 +1878,7 @@ AWS
 * [데이터분석 Amazon Athena를 이용한 S3 데이터 조회하기 | 송정우, AUSG - YouTube](https://www.youtube.com/watch?v=H7W_AI5heSo)
 * [자바스크립트로 S3에 파일 올리기 #1 | blog](http://help.realgrid.com/blog/s3/005/)
   * [Part 5. 자바스크립트로 S3에 파일 올리기 #1 - YouTube](https://www.youtube.com/watch?v=R4DK15t_8uE)
+* [S3 Interface Endpoint에 대한 DNS Name 지원](https://zigispace.net/1224)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
 
