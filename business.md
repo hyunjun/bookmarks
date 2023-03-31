@@ -1124,6 +1124,7 @@ Business
 * [비우호적인 환경에서는 까칠한 태도로 말하라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255694)
 * [Closed-loop communication - Wikipedia](https://en.wikipedia.org/wiki/Closed-loop_communication)
   * [Is there a “Big Five” in Teamwork? | Scinapse](https://www.scinapse.io/papers/1967246150)
+* [5x5 적절한 상황에 적합한 한 마디면 충분합니다.](https://brunch.co.kr/@xmetal/241)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
