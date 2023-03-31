@@ -446,6 +446,7 @@
 * [러스트의 메모리 관리 - 소유권, 이동, 빌림, 댕글링](https://blog.naver.com/pjt3591oo/223005091807)
 * [러스트 시작하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/)
 * [Ready for Rust • Erik Doernenburg • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=WgLlwjZNEtY)
+* [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 * [comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone](https://github.com/google/comprehensive-rust)
 * [Learn Rust!](https://gist.github.com/noxasaxon/7bf5ebf930e281529161e51cd221cf8a)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
