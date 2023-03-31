@@ -2130,6 +2130,7 @@ Scala
 * [SBT in Scala (part 3) - Adding Resolvers, Custom Tasks and Settings, Cross-Compiling and More - YouTube](https://www.youtube.com/watch?v=VEEG1KnFAac)
 * [RFC-1: sbt cache ideas · eed3si9n](https://eed3si9n.com/sbt-cache-ideas/)
 * [sbt 2.0 ideas · eed3si9n](https://eed3si9n.com/sbt-2.0-ideas)
+* [RFC-2: sbt 2.0 RFC process · eed3si9n](https://eed3si9n.com/sbt-2.0-rfc-process)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
