@@ -1147,6 +1147,8 @@ Git
     * 모델을 호출할 때 도움이 되지 않는 완성은 호출되지 않도록 하고 어떤 텔레메트리가 수집되는지를 살펴봄
     * 분석하면서 Copilot-Explorer 도구를 만들어서 분석 도구를 직접 사용 가능
     * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
+  * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+    * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
