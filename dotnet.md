@@ -96,6 +96,7 @@
 * [6 .NET Myths Dispelled — Celebrating 21 Years of .NET | by Charles Chen | Jan, 2022 | Dev Genius](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
 * [It’s good to bet on .NET. Tech fads come and go but .NET remains… | by Bryan Costanich | May, 2022 | Medium](https://medium.com/@bryancostanich/its-good-to-bet-on-net-c22853f501c7)
 * [.NET 6 is now in Ubuntu 22.04 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
+* [비주얼 스튜디오 App Center와 블레이저 하이브리드앱을 이용해서 모바일 앱 개발하고 배포하기 - YouTube](https://www.youtube.com/watch?v=i8tMiWHK05M)
 
 # ASP.NET
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
