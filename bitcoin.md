@@ -350,6 +350,7 @@ Bitcoin
 * [The Spectacular Collapse of CryptoKitties, the First Big Blockchain Game - IEEE Spectrum](https://spectrum.ieee.org/cryptokitties)
 * [5 Best Websites to Learn NFT (Non Fungible Tokens) in 2022 | by javinpaul | Javarevisited | Oct, 2022 | Medium](https://medium.com/javarevisited/5-best-websites-to-learn-nft-non-fungible-tokens-305a0570729a)
 * [내 재능을 왜 NFT CV로 관리해야 하나? - YouTube](https://www.youtube.com/watch?v=B15AUurl1Zw)
+* [NFTs: Pyramid Scheme or World Changing Tech? • Morten Dall • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=g36Bk0OoHS8)
 * [ERC-1155: An NFT Standard for Online Games and Gamified Apps – The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
 * [OMNUUM](https://omnuum.io/)
   * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
