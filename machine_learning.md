@@ -1365,6 +1365,7 @@ Machine Learning
 * [ML Ops 궁극 가이드: MLOps 및 DevOps의 개념과 차이점 이해](https://techscene.tistory.com/9)
 * [Duarte Carmo - MLOps for the rest of us- A poor man's guide to putting models in production - YouTube](https://www.youtube.com/watch?v=R6lPb9Meqoc)
 * [Subscribe : MLOps Insight](https://info.superb-ai.com/ko-kr/subscribe-mlops-insight)
+* [LINE의 엔드 투 엔드 MLOps 플랫폼, MLU](https://engineering.linecorp.com/ko/blog/line-end-to-end-mlops-platform-mlu)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
