@@ -1309,6 +1309,9 @@ Book
 * [내가 틀릴 수도 있습니다](https://brunch.co.kr/@usunote/31)
   * ★★★★★ 2023.03.30
   * 한라 199.1-린24ㄴ 탐라 문220.4-린223ㄴ 우당 문220.4-린223ㄴ
+* [씽킹 101 : 더 나은 삶을 위한 생각하기 연습](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308282038)
+  * ★★★★☆ 2023.03.30~31
+  * 한라 181.35-안66ㅆ 탐라 문181.3-안67ㅆ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1316,8 +1319,6 @@ Book
 * (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
-* (NOT YET) [씽킹 101 : 더 나은 삶을 위한 생각하기 연습](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308282038)
-  * 한라 181.35-안66ㅆ 탐라 문181.3-안67ㅆ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
