@@ -610,6 +610,7 @@ Clojure
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [JUXT Blog - Speed up your ClojureScript Webapp](https://www.juxt.pro/blog/clojurescript-app-performance)
+* [Chris Mccormick - ClojureScript UIs in 500 Bytes](https://mccormick.cx/news/entries/clojurescript-uis-in-500-bytes)
 * [Vlojure - A New Way to Write ClojureScript - YouTube](https://www.youtube.com/watch?v=1OcAUhe3E1E)
 
 ## ClojureScript Library
@@ -991,6 +992,7 @@ Clojure
   * [hiccup-bridge - Hiccup to html, html to hiccup](https://github.com/hozumi/hiccup-bridge)
   * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
   * [html-to-hiccup - Emacs package that turns HTML into Hiccup syntax, a notation popular when doing Clojure/ClojureScript web development](https://github.com/plexus/html-to-hiccup)
+  * [xml-hiccup: Convert XML into Hiccup in Clojure and ClojureScript](https://github.com/kuhumcst/xml-hiccup)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [holy-lambda: The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime](https://github.com/FieryCod/holy-lambda)
 * [holy-lambda-ring-adapter: An adapter between Ring core request/response model and Holy Lambda. Run Ring applications on AWS Lambda](https://github.com/FieryCod/holy-lambda-ring-adapter)
