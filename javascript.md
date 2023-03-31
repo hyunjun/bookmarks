@@ -1856,6 +1856,7 @@ Javascript
   * [WebStorm (IntelliJ IDEA) 에서 this.cliEngineCtor is not a constructor 이슈 발생시 (feat. ESLint 8.0)](https://jojoldu.tistory.com/655)
   * [The Code Is the To-Do List](https://www.executeprogram.com/blog/the-code-is-the-to-do-list)
   * [How to Build a Web Scraper using Golang with Colly](https://morioh.com/p/8d07efbd9e9f)
+  * [ESLint와 AST로 코드 퀄리티 높이기](https://toss.tech/article/improving-code-quality-via-eslint-and-ast)
   * ESLint's new config system
     * [ESLint's new config system, Part 1: Background - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2022/08/new-config-system-part-1/)
     * [ESLint's new config system, Part 2: Introduction to flat config - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2022/08/new-config-system-part-2/)
@@ -2106,6 +2107,7 @@ Javascript
   * [Nest.js - 프로바이더 (Provider) : 네이버 블로그](https://blog.naver.com/gi_balja/223049331255)
   * [Nest.js - TypeORM과 엔티티(Entity)](https://blog.naver.com/gi_balja/223054972094)
   * [Nest.js - DTO와 형변환 : 네이버 블로그](https://blog.naver.com/gi_balja/223056337639)
+  * [Nest.js - Swagger : 네이버 블로그](https://blog.naver.com/gi_balja/223061397889)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
