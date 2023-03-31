@@ -1262,6 +1262,7 @@ App
     * [번역 ffmpeg로 비디오 합치기 | 웹으로 말하기](https://mytory.net/2022/05/23/ffmpeg-concat-videos.html)
     * [하위폴더를 훑으며 ffmpeg 영상 파일 용량 줄이기 스크립트 | 웹으로 말하기](https://mytory.net/2022/05/23/video-optimize-script.html)
     * [Laurence Tratt: Making a Video of a Single Window](https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html)
+    * [FFmpeg · Present](https://present.do/documents/636474014e11750badbcb4cc)
     * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
