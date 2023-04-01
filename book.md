@@ -267,7 +267,7 @@ Book
   * 책에서 나온 위의 이야기를 ChatGPT에게 주면 어떻게 될 지 입력해봤는데 아직은 ChatGPT도 추론까지는 못 하는 듯. 물론 곧 할 수 있을 거 같다
     * <img src="images/are_you_a_machine_chatgpt.png" alt="" width="300"/>
 * 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
-  * ★★★☆☆ 2023.01.15, 16 ,28
+  * ★★★☆☆ 2023.01.15, 16, 28
   * 탐라 개592.0099-강38ㅍ 우당 이592.099-강39ㅍ
 * [미스터 프레지던트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308439707)
   * ★★★☆☆ 2023.02.11
@@ -450,6 +450,7 @@ Book
   * 우당
 * (NOT YET) [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
   * 한라 349-정54ㅌ 탐라 문349-정53ㅌ
+* (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -781,6 +782,22 @@ Book
 * (NOT COMPLETED) [행동경제학 강의 노트 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/behavioral-economics-course)
   * 2023.02.21 완전히 대학 강의 교재
   * 탐라 문320.1-앵18ㅎ
+* [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
+  * ★★★☆☆ 2023.04.01 경제 기초에 대해서 재미있게 볼 수 있음
+  * 탐라 문320-무53ㄱ
+  * [경제신문읽는법 - 우리 은하에서 제일 쉬운 경제공부 입문 사이트](https://ecodemy.cafe24.com/)
+  * 경알못 개미들을 위한 추천도서
+    * 그레고리 맨큐, 김경환·김종석 옮김, <맨큐의 경제학>, Cengage Learning, 2021
+    * 도미닉 프리스비, 조용빈 옮김, <세금의 세계사>, 한빛비즈, 2022
+    * 로버트 하일브로너, 장상환 옮김, <세속의 철학자들>, 이마고, 2005
+    * 로버트 하일브로너-윌리엄 밀버그, 홍기빈 옮김, <자본주의 어디서 와서 어디로 가는가>, 미지북스, 2016
+    * 리오 휴버먼, 장상환 옮김, <자본주의 역사 바로 알기>, 책벌레, 2000
+    * 민경국, <경제사상사 여행>, 21세기북스, 2014
+    * 배리 아이켄그린, 김태훈 옮김, <달러 제국의 몰락>, 북하이브, 2011
+    * 토드 부크홀츠, 류현 옮김, <죽은 경제학자의 살아 있는 아이디어>, 김영사, 2009
+    * 토리텔러, <세상 친절한 경제상식>, 미래의창, 2019
+    * 팀 하포드, 김명철 옮김, <경제학 콘서트 1~2>, 웅진지식하우스, 2013
+    * EBS 자본주의 제작팀, <EBS 다큐프라임 자본주의> 가나출판사, 2013
 * (NOT YET) [넛지 Nudge](https://blog.naver.com/eybs/221271383025)
   * 한라 321.89-탈294ㄴ 탐라 문321.89-탈294ㄴ
 * (NOT YET) [승자의 저주](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=975431)
@@ -791,8 +808,6 @@ Book
   * 한라 327.85-쉴294ㅂ
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
-* (NOT YET) [개미나라 경제툰](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B5865239947)
-  * 탐라 문320-무53ㄱ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
