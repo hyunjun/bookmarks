@@ -948,6 +948,7 @@ Docker
 * [Kubernetes Tutorial For Beginners | Kubernetes Backup and Restore Explained Step by Step - YouTube](https://www.youtube.com/watch?v=vtSUlcN4Kfg)
 * [Kubernetes Tutorials | How to Create Replicaset Controller and deploy in Kubernetes | Cloudlearnhub - YouTube](https://www.youtube.com/watch?v=ueJ46LMIpHQ)
 * [Kubernetes Tutorial For Beginners | how to use can-i command - YouTube](https://www.youtube.com/watch?v=PGkiTPvdKXk)
+* [kubernetes introduction!!!Kubernetes tutorial for beginners !!!How to learn Kubernetes !!! - YouTube](https://www.youtube.com/watch?v=fUXHP7EXMjs)
 * [빠르게 하는 쿠버네티스 실습 - YouTube](https://www.youtube.com/playlist?list=PLC0BZ3yQ3qxgD94fxKcgrCTwNKLNdfwIg)
 * [따배쿠 쿠버네티스 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKohaBHvXAOhUD-RxD0uQ3z0c)
 * [Season4 Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhGvfqQazIeYVOxnE4UKmtkU)
@@ -974,7 +975,7 @@ Docker
 * [Kubernetes Architecture and components | by jaffar shaik | Sep, 2022 | Medium](https://jaffarshaik.medium.com/kubernetes-architecture-and-components-bf637dbd0526)
 * [Kubernetes Architecture Let's crack it - YouTube](https://www.youtube.com/watch?v=6E4AsU9Z7_A)
 * [Understanding the Architecture of Kubernetes: A Beginner's Guide](https://blog.kubesimplify.com/understanding-the-architecture-of-kubernetes-a-beginners-guide)
-  * [쿠버네티스 아키텍처 이해하기 | 밑바닥부터 만드는 __](https://namkyu1999.github.io/posts/paper/230312_understanding_the_architecture_of_kubernetes/)
+  * [쿠버네티스 아키텍처 이해하기 | 밑바닥부터 만드는](https://namkyu1999.github.io/posts/paper/230312_understanding_the_architecture_of_kubernetes/)
 * [k8s-stnd-arch/2023](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2023) 2023 표준 구성
   * 선정 기준 1) 충분한 기능을 가지고 있을 것 2) 도입이 쉬울 것 3) 한국에 사용자 층이 많거나 가능한 알려져 있을 것
 * [DevOps Tutorial | Understand Kubernetes Cluster Architecture | How to setup EKS Cluster on AWS - YouTube](https://www.youtube.com/watch?v=XL2dH3fQMZo)
