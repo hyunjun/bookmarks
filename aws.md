@@ -1419,6 +1419,7 @@ AWS
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
   * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
   * [AWS Lambda를 이용해 슬랙 앱 배포하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/12/Deploy-Slack-App-with-AWS-Lambda.html)
+  * [Serverless Framework로 AWS Lambada 배포하기 :: Jay's Code Factory](https://jay-ji.tistory.com/118)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
