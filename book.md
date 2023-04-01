@@ -448,6 +448,8 @@ Book
   * 우당
 * (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
   * 우당
+* (NOT YET) [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
+  * 한라 349-정54ㅌ 탐라 문349-정53ㅌ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
