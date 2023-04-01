@@ -4643,6 +4643,7 @@ Programming
   * [3월 2주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/03/b-3-2.html)
   * [3월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/03/b-3-3.html)
   * [3월 4주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/03/b-3-4.html)
+  * [3월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/04/b-3-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -4792,6 +4793,7 @@ Programming
   * [기술 뉴스 #216 : 23-02-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1655)
   * [기술 뉴스 #217 : 23-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1657)
   * [기술 뉴스 #218 : 23-03-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1660)
+  * [기술 뉴스 #219 : 23-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1664)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5697,6 +5699,7 @@ Programming
   * 이후 공개된 사고 경위에 따르면 이번 사고는 CircleCI 엔지니어의 노트북에 설치한 멀웨어를 통해 2FA SSO 세션을 탈취해서 발생
     * [CircleCI incident report for January 4, 2023 security incident](https://circleci.com/blog/jan-4-2023-incident-report/)
 * [시스템 재부팅 이슈: 문제를 해결하는 두 가지 접근법 (귀납적, 연역적)](https://velog.io/@joosing/system-reboot-without-log)
+* [문제를 대하는 태도 되돌아보기](https://yeonyeon.tistory.com/301)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
