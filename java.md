@@ -2054,6 +2054,7 @@ Java
   * [스프링 부트 3.0 을 맞이하는 개발자의 자세 - Google Slides](https://docs.google.com/presentation/d/1zTLfx5RQeIxLshGmQjm3UD1eF4WO9GRjZ66sALKveh8/edit)
 * [Spring Boot 3.x 실행이 안될 경우 (feat. IntelliJ)](https://jojoldu.tistory.com/698)
 * [스프링 부트를 제거해서 생긴 일](https://yeonyeon.tistory.com/296)
+* [무지성으로 사용한 헬스 체크가 불러일으킬 수 있는 참사](https://toss.tech/article/how-to-work-health-check-in-spring-boot-actuaotr)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
