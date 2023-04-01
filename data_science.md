@@ -904,6 +904,7 @@ Data Science
 * [추천 시스템: Bloom Filter for Filtering Layer](https://www.linkedin.com/posts/huffonism_%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-bloom-filter-for-filtering-layer-activity-6994114281055141889-Tr6u/)
 * [Why do we need two-stage Recommender System?](https://www.linkedin.com/posts/activity-6994975784205459456-4vy_/)
 * [현대적인 추천 시스템 구축을 위한 여정 - 허훈(LINER) I 모두콘 2022 - YouTube](https://www.youtube.com/watch?v=69igsWcmW5g)
+* [the-algorithm/HomeTweetTypePredicates.scala at 7f90d0ca342b928b479b512ec51ac2c3821f5922 · twitter/the-algorithm · GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
