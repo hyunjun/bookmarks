@@ -1408,6 +1408,7 @@ Business
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
+* [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
 * [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
 * [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
   * 효율적인 관리를 위한 휴리스틱들
