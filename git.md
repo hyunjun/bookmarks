@@ -1094,6 +1094,11 @@ Git
 * [CodeQL documentation](https://codeql.github.com/) 원하는 대로 쿼리문을 작성해서 코드의 취약점 등을 검사할 수 있는 도구
   * [Introducing the CodeQL package manager (public beta) | GitHub Changelog](https://github.blog/changelog/2021-07-28-introducing-the-codeql-package-manager-public-beta/)
     * GitHub에서 코드를 검사할 수 있는 CodeQL의 패키지 매니저가 퍼블릭 베타로 열려서 CodeQL 패키지를 사용하거나 직접 업로드 가능
+  * [CodeQL zero to hero part 1: the fundamentals of static analysis for vulnerability research | The GitHub Blog](https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/)
+    * GitHub에서 취약점 분석을 위해 제공하는 CodeQL을 설명하는 시리즈 글 1편, 취약점 분석의 발전 과정 설명
+    * 사용자 입력이나 파라미터처럼 오염될 수 있는 "소스"와 취약점을 가질 수 있는 위험한 함수인 "싱크(sink)"가 있는데 소스에서 싱크까지 데이터 흐름이 이어졌을 때 취약점이 발생
+    * 문자열 매칭으로 이 소스와 싱크를 찾을 수는 있지만 오탐지가 너무 많기 때문에 토큰화를 통하면 소스와 싱크를 더 쉽게 찾을 수 있지만 데이터 흐름까지 추적하기는 어려움
+    * 이를 해결하기 위해 추상 구문 트리(AST)를 구축하는데 제어흐름 그래프로 소스와 싱크의 데이터 흐름을 파악할 수 있기 때문에 여기 오염도(Taint) 추적을 통해 더 명확하게 소스와 싱크가 이어지는 취약점만 발견 가능
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
   * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
@@ -1139,7 +1144,12 @@ Git
       * 사용자들의 의견과 제보를 받고 있음
   * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
   * [Amazing GitHub CoPilot - Create a Java to check if a number is prime and if a string is a palindrome - YouTube](https://www.youtube.com/watch?v=nq7i3RLlITI)
-  * [GitHub Copilot X: The AI-powered developer experience | The GitHub Blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+  * [GitHub Copilot X: The AI-powered developer experience | The GitHub Blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
+    * OpenAI와 협업해서 Codex 모델로 GitHub Copilot을 공개했지만, AI 기반 자동완성은 시작점에 불과했고 GitHub Next의 R&D 팀은 개발 라이프사이클 전체에 AI 지원을 받을 수 있도록 노력한 결과 GitHub Copilot X를 공개
+    * GitHub Copilot X는 GPT-4 모델을 사용해서 VS Code와 Visual Studio에서 개발자 시나리오에 맞춰 GitHub Copilot Chat을 제공하고 GitHub Copilot Voice도 지원
+    * Copilot for Pull Requests를 통해 Pull Requests를 GPT-4 모델 기반으로 AI가 작성한 설명 지원
+    * GitHub Copilot for Docs는 채팅 인터페이스로 문서에 대해 AI가 답변하도록 지원하며 React, Azure Docs, MDN을 지원하고 있으며 Copilot for CLI도 개발
+    * 각 서비스는 대기열에 추가해서 승인되면 사용
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
