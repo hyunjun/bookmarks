@@ -1338,6 +1338,7 @@ Programming
     * [Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역) | GeekNews](https://news.hada.io/topic?id=6725)
   * [Hard things in Computer Science](https://blog.frankel.ch/hard-things-computer-science/)
   * [Caching things every Programmer must know | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/caching-things-every-programmer-must-know-28d4a7e8b9b1)
+  * [Dogpile effect, ft. Caching. Have you ever wondered what happens… | by Sooraj | Apr, 2023 | Medium](https://medium.com/@iSooraj/dogpile-effect-ft-caching-c2b9c4496691)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -1580,6 +1581,7 @@ Programming
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
+* [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
