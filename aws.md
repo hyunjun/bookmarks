@@ -507,6 +507,7 @@ AWS
 * [매드업의 DMP - 프리즘(prism)을 소개합니다 | MADTECH](https://tech.madup.com/prism-intro/)
 * [지속 가능한 효율적이고 비용 최적화 된 AWS 기반 애플리케이션 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/building-sustainable-efficient-and-cost-optimized-applications-on-aws/)
 * [Amazon File Cache로 하이브리드 클라우드 워크로드를 가속화 및 단순화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-file-cache-hybrid-cloud-workload-acceleration/)
+* [디바이스에 딱 맞는 이미지 제공하기 | blog.hoseung.me](https://blog.hoseung.me/2023-04-02-provide-fit-image/) Lambda, CloudFront
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2048,6 +2049,8 @@ AWS
 * [Using Join and Split Functions in Terraform - YouTube](https://www.youtube.com/watch?v=0IhULZfRYBw)
 * [Using ChatGPT to Create AWS Cloudformation & Terraform Templates | by Haimo Zhang | Jan, 2023 | FAUN Publication](https://faun.pub/using-chatgpt-to-create-a-working-aws-cloudformation-template-7417989b81dd)
 * [테라폼 작성을 위한 기초 문법 - 변수, 반복문, 모듈](https://blog.naver.com/pjt3591oo/223062339697)
+* [안전한 작업을 위한 벡엔드 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223062401881)
+* [멀티 스테이징 관리를 위한 워크스페이스](https://blog.naver.com/pjt3591oo/223062603247)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
