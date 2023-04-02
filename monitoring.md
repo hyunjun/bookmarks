@@ -191,7 +191,9 @@ Monitoring
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [pyroscope: Continuous Profiling Platform. Debug performance issues down to a single line of code](https://github.com/grafana/pyroscope)
-  * [Pyroscope and Grafana Phlare join together to accelerate adoption of continuous profiling, the next pillar of observability | Grafana Labs](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling/)
+  * [Pyroscope and Grafana Phlare join together to accelerate adoption of continuous profiling, the next pillar of observability | Grafana Labs](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling)
+    * Grafana가 Continuous Profiling의 시조 프로젝트인 Pyroscope 인수
+    * Grafana는 Continuous Profiling을 위해 작년에 Phlare를 발표했으나 이번 인수로 두 프로젝트를 Grafana Pyroscope라는 이름으로 통합 
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
   * [오픈소스 성능 모니터링 도구 Scouter 소개](http://www.popit.kr/scouter-open-source-apm/)
   * [오픈소스 성능 모니터링 도구 Scouter 설정하기](http://www.popit.kr/scouter-open-source-apm-config/)
