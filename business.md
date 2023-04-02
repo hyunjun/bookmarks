@@ -249,6 +249,7 @@ Business
 * [팀워크의 종말 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/644)
 * [잘 나가는 팀의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/20478) teamwork
 * [teamwork - 프로 레벨의 선수들에게 서로 책임감을 가지게 하는건 더이상 코치들이 할 일이 아니야 프로인 너희에게 달려 있어](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-teamwork-md)
+* [Social Contracts for Engineering Teams • Kate Andrews • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=1miIiYA1lNg)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
