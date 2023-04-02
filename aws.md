@@ -2047,6 +2047,7 @@ AWS
 * [Terraform module을 활용한 기본 인프라 구축. AWS 기본 인프라 구성을 Terraform module을 활용해… | by ImOk | Cloud Villains | Dec, 2022 | Medium](https://medium.com/ctc-mzc/terraform-module%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B8%B0%EB%B3%B8-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95-c8abe4efff3d)
 * [Using Join and Split Functions in Terraform - YouTube](https://www.youtube.com/watch?v=0IhULZfRYBw)
 * [Using ChatGPT to Create AWS Cloudformation & Terraform Templates | by Haimo Zhang | Jan, 2023 | FAUN Publication](https://faun.pub/using-chatgpt-to-create-a-working-aws-cloudformation-template-7417989b81dd)
+* [테라폼 작성을 위한 기초 문법 - 변수, 반복문, 모듈](https://blog.naver.com/pjt3591oo/223062339697)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
