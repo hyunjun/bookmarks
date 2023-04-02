@@ -1817,6 +1817,7 @@ Python
   * [점프 투 장고](https://wikidocs.net/book/4223)
   * [이지 투 장고](https://kitle.xyz/ez2django/)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
+* [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * Flask [점프 투 플라스크 - WikiDocs](https://wikidocs.net/book/4542)
 * [free-python-books: Python books free to read online or download](https://github.com/pamoroso/free-python-books)
