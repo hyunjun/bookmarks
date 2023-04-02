@@ -760,6 +760,14 @@ NLP
   * [ChatGPT로 간단한 게임 시나리오를 만들기까지 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt/)
     * [ChatGPT를 이용한 게임 시나리오 만들기 - 프롬프트 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt-full-text/)
   * [Creating Powerful Chatbots: A Developer’s Guide to Integrating ChatGPT and React Native | by Chirag Jadav | Mar, 2023 | Medium](https://medium.com/@hello_chirag/creating-powerful-chatbots-a-developers-guide-to-integrating-chatgpt-and-react-native-dfa320e33917)
+  * [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+    * 숙련된 개발자로서 ChatGPT나 GitHub Copilot을 사용하면 '뭔가를 알아내는' 시간을 크게 줄일 수 있기 때문에 아이디어가 있어도 투자할 시간 때문에 안 했던 프로젝트를 더 많이 실행 가능
+    * 예시로 ChatGPT의 대화 기록을 다른 데 아카이빙해두고 싶었는데 ChatGPT의 네트워크 통신을 보고 JSON 데이터가 오고 가는 것을 보았지만 이를 어떻게 가로채야 할지 몰랐음
+      * 보통은 여기서 프로젝트를 그만두었겠지만, 이를 ChatGPT에 물어보니 원래 ChatGPT의 fetch 기능을 그대로 동작하면서 별도로 데이터를 저장할 수 있게 하는 함수를 작성해 주었고 CORS 처리도 알려주었기 때문에 금방 아이디어를 구현
+  * [On-Demand Code Review With ChatGPT - NearForm](https://www.nearform.com/blog/on-demand-code-review-with-chatgpt/)
+    * NearForm에서 코드 리뷰 과정을 개선하기 위해 ChatGPT로 코드 리뷰봇을 프로토타입한 과정
+    * GitHub 앱으로 리뷰 봇을 만들어서 리뷰를 요청하면 코드 diff와 컨텍스트를 조합해서 OpenAPI에 요청을 보내고 이를 PR의 댓글로 달도록 구현
+    * 코드 리뷰도 AI가 많은 것을 바꾸겠지만 프로토타이핑해보니 코드 컨텍스트에 대한 이해가 제한적이라 잘못된 제안을 하는 경우가 많았고 코드의 기밀성을 유지하기는 어려웠고 어떤 코드로 학습했는지 모르므로 편향성에 대해서도 알기 어려웠다고 함
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
@@ -771,6 +779,11 @@ NLP
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
+  * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
+    * OpenAI에서 ChatGPT의 기능을 확장할 수 있는 플러그인을 공개했고 현재는 승인받아야 개발 가능
+    * 첫 플러그인은 Expedia, FiscalNote, Instacart, KAYAK, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram, Zapier이 작성
+    * OpenAI에서 직접 운영하는 web browser와 code interpreter 플러그인도 공개
+      * web browser는 ChatGPT가 웹 검색을 할 수 있게 하고 code interpreter는 Python 코드를 실행 가능
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   * [chatgpt_stock_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt_stock_report/tree/main)
   * [ChatGPT_Trading_Bot: This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube](https://github.com/llSourcell/ChatGPT_Trading_Bot/)
