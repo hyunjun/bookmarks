@@ -2275,6 +2275,10 @@ Programming
     * Ambient mesh는 Kubernetes 클러스터의 각 노드에 zero-trust tunnel(ztunnel) 사용
       * ztunnel에서 mTLS, 텔레메트리, 인증, L4 인가 등을 지원
     * L7 기능이 필요하면 Envoy 기반의 waypoint 프락시를 사용해서 L7 처리 기능 제공
+    * [Istio / Istio Ambient Waypoint Proxy Made Simple](https://istio.io/latest/blog/2023/waypoint-proxy-made-simple/)
+      * Istio Ambient에서는 기능이 보안 오버레이 레이어와 L7 처리 레이어로 분리되었는데 Waypoint 프락시는 여기서 워크로드의 L7 처리를 담당하는 선택적 컴포넌트로 Envoy 기반
+      * 기존 Istio 사이드카 아키텍처에서는 클라이언트 프락시에 트래픽 정책이 있고 서버 쪽 프락시에 보안 정책이 있어서 확장성이나 디버깅 등에 어려움 존재
+      * Waypoint 프락시는 서버 쪽에만 모든 정책이 적용되고 네임스페이스나 서비스 계정 단위로 관리할 수 있게 되었고 애플리케이션과 독립적이기 때문에 확장, 운영이 쉽고 사이드카가 없어서 리소스 측면에서도 절약
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
   * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
     * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
@@ -5700,6 +5704,11 @@ Programming
     * [CircleCI incident report for January 4, 2023 security incident](https://circleci.com/blog/jan-4-2023-incident-report/)
 * [시스템 재부팅 이슈: 문제를 해결하는 두 가지 접근법 (귀납적, 연역적)](https://velog.io/@joosing/system-reboot-without-log)
 * [문제를 대하는 태도 되돌아보기](https://yeonyeon.tistory.com/301)
+* [March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)
+  * ChatGPT에서 오픈소스 라이브러리의 버그로 다른 사용자의 채팅 기록의 제목을 볼 수 있는 문제가 발생했고 그 포스트모템
+  * 조사 결과 이 문제로 다른 사용자의 결제 정보를 볼 수 있는 가능성도 있었지만, 발생 조건이 까다로워서 실제로 확인된 사례는 아직 없음
+  * Redis에 사용자 정보를 캐시하고 있는데 이번 버그는 Redis 클라이언트인 redis-py에서 발생
+    * 연결 풀에서 연결을 재사용하면서 응답을 받기 전에 요청이 취소되면 다음 요청이 응답을 받게되어 발생, 지금은 패치
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
