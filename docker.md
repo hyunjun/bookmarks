@@ -653,6 +653,10 @@ Docker
     * `--runtime=io.containerd.wasmedge.v1`로 cointainerd shim을 사용하도록 해야 하고
     * `--platform=wasi/wasm32`로 Wasm 런타임이 Wasm 바이너리를 변환할 수 있게 
     * 글에서 실행 가능한 예제 제공
+* [Announcing Docker+Wasm Technical Preview 2 | Docker](https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/)
+  * 작년 말 WasmEdge 런타임으로 Docker에서 Wasm 컨테이너를 실행하는 기능이 테크니컬 프리뷰로 공개
+  * WasmEdge 뿐 아니라 `spin`, `slight`, `wasmtime` 런타임 추가
+  * 이 런타임은 모두 Wasm에 대한 containerd shim을 쉽게 만들 수 있는 `runwasi` 라이브러리 사용
 * [Run x86 Docker containers with Rosetta on Mac | Level Up Coding](https://levelup.gitconnected.com/docker-on-apple-silicon-mac-how-to-run-x86-containers-with-rosetta-2-4a679913a0d5)
   * macOS용 Docker Desktop 4.16 버전부터 Rosetta 지원 추가, 해당 기능을 활성화하면 애플 실리콘 맥에서도 쉽게 x86 기반 Docker 컨테이너를 빌드, 실행 가능
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
