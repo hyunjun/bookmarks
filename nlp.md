@@ -768,6 +768,7 @@ NLP
     * NearForm에서 코드 리뷰 과정을 개선하기 위해 ChatGPT로 코드 리뷰봇을 프로토타입한 과정
     * GitHub 앱으로 리뷰 봇을 만들어서 리뷰를 요청하면 코드 diff와 컨텍스트를 조합해서 OpenAPI에 요청을 보내고 이를 PR의 댓글로 달도록 구현
     * 코드 리뷰도 AI가 많은 것을 바꾸겠지만 프로토타이핑해보니 코드 컨텍스트에 대한 이해가 제한적이라 잘못된 제안을 하는 경우가 많았고 코드의 기밀성을 유지하기는 어려웠고 어떤 코드로 학습했는지 모르므로 편향성에 대해서도 알기 어려웠다고 함
+  * [긴급 AI 인공지능 챗GPT 수익화 방법 - 진짜 전문가가 알려드립니다! - YouTube](https://www.youtube.com/watch?v=FkxnQpEDMrk)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
