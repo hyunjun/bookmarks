@@ -928,6 +928,15 @@ Java
 
 # Java20
 * [Sailing Modern Java by Piotr Przybyl - YouTube](https://www.youtube.com/watch?v=2x-U0E5l3NM)
+* [JDK 20 G1/Parallel/Serial GC changes](https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html)
+  * JDK 20에서 Garbage Collector 관련해서 정리한 글
+  * Parallel GC는 Full GC 중 객체 처리의 병렬화로 GC로 인한 중단 시간이 20% 감소했고 Serial GC는 눈에 띄는 변경 사항은 없음
+  * G1 GC에는 다음의 변경 사항 포함
+    * G1 네이티브 메모리 풋프린트를 Java 힙의 1.5까지 줄일 수 있게 됨
+    * G1 정제 스레드 관리가 개선되어 애플리케이션이 CPU 사이클을 덜 사용
+    * G1은 GC 일시 정지 중 오버헤드를 줄이기 위한 로컬 할당 버퍼(PLAB)를 사용하는데 이 공간이 낭비되거나 부족한 현상을 줄이기 위해 PLAB의 크기를 조정하는 기능 추가
+    * Young generation의 크기 결정에 대한 예측 개선으로 GC 횟수 감소
+    * 예방적 GC를 기본적으로 비활성화
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
