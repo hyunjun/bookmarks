@@ -426,6 +426,8 @@ Clojure
 * [Thinking about system composition](https://biffweb.com/p/thinking-about-system-composition/)
 * [Signals vs Streams, in terms of backpressure (2023)](https://www.dustingetz.com/#/page/signals%20vs%20streams%2C%20in%20terms%20of%20backpressure%20(2023))
 * [Bad nREPL: 10 Things You Hate About nREPL | Meta Redux](https://metaredux.com/posts/2023/03/26/bad-nrepl)
+* [Fix your Clojure code: Clojure comes with design patterns (Part 1)](https://blog.janetacarr.com/software-design-patterns-in-clojure/)
+* [Fix your Clojure code: Clojure comes with design patterns (Part 2)](https://blog.janetacarr.com/fix-your-clojure-code-clojure-comes-with-design-patterns-part-2/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
