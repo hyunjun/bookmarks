@@ -3737,6 +3737,8 @@ Programming Books
 * (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software)
   * 우당
 * (NOT YET) [쉽게 배우는 소프트웨어 공학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71471277)
+* (NOT YET) [Code Simplicity : 소프트웨어 생명 연장을 위한 원칙 | 웹으로 말하기](https://mytory.net/archives/9352)
+  * [버그를 줄이는 확실한 방법: 코드를 줄이기 | 웹으로 말하기](https://mytory.net/archives/13983)
 
 # Spark
 
