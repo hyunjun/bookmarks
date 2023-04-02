@@ -2134,6 +2134,10 @@ Javascript
   * [Websocket Server | Nuxt 3 | Real time messages - YouTube](https://www.youtube.com/watch?v=d-LSN-xo6N4)
   * [Nuxt 3 pagination with datafetching | Fast API | Nuxt 3 - YouTube](https://www.youtube.com/watch?v=9MVQmk5u_3I)
   * [Nuxt 3 App | Server Side Firebase Auth | Meta Components Generator App - YouTube](https://www.youtube.com/watch?v=xDzbuqvg5S4)
+  * [devtools: Unleash Nuxt Developer Experience](https://github.com/nuxt/devtools)
+    * [Introducing Nuxt DevTools · Nuxt](https://nuxt.com/blog/introducing-nuxt-devtools)
+      * Nuxt가 발전하면서 추상화도 많아지기 때문에 사용하기는 편하지만, 내부를 이해하기에는 더욱 어려워지고 있는 문제를 해결하기 위해 Nuxt DevTools를 프리뷰로 공개
+      * Nuxt 앱의 투명성을 높이고 병목 현상을 찾아주고 앱과 구성을 관리하는 데 도움
   * [Nuxt-TSX-Boilerplate: Boilerplate created to use Nuxt with TSX components](https://github.com/BrendonHenrique/Nuxt-TSX-Boilerplate)
 * [objecty.js: Javascript module for canvas drawing which objectify shapes](https://github.com/unsignd/objecty.js)
 * [oclif: The Open CLI Framework · Create command line tools your users love](https://oclif.io/)
@@ -2234,6 +2238,7 @@ Javascript
       * 네트워크 캐즘을 Remix가 처리해 관련한 코드를 훨씬 더 적게 작성, 버그도 감소
   * [Remix로 쉽게 하는 리액트 서버사이드 렌더링](https://velog.io/@velopert/learn-remix)
     * Remix로 서버를 구성하고 디렉터리 기반으로 라우팅을 설정해서 웹사이트를 만드는데 필요한 페이지 작성, 데이터 불러오기, 리다이렉션 등의 사용 방법을 설명
+  * [Remix without Limits – Vercel](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support) Vercel에서 Remix 지원을 공개
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2699,6 +2704,10 @@ Javascript
   * [Webpack Module Federation 도입 전에 알아야 할 것들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
     * 다른 웹에서 원격으로 모듈을 임포트해서 사용할 수 있는 Webpack Module Federation 동작 방식 설명
     * 원격 모듈은 다른 도메인에서 가져올 수 있고 별도로 빌드 가능하나 모듈의 타입을 알기가 어렵고 `remoteEntry.js`의 경로 관리 불편
+  * [Rspack: 속도와 호환성에 초점을 둔 번들러](https://velog.io/@jaeholee/Rspack-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
+    * Rust로 재작성된 Webpack 호환 번들러인 Rspack을 소개하는 글
+    * Wepack+swc와 비교해 cold start는 8배, HMR은 3배의 성능
+    * 아직 프로젝트 초기이긴 하지만 Turbopack과 달리 Webpack과의 호환을 어느 정도 염두에 두었기 때문에 기존 생태계를 어느 정도 유지할 것으로 예상
   * [webpack.kr](https://webpack.kr/)
 
 ## Library excel xlsx
@@ -4205,6 +4214,21 @@ Javascript
 * [Optimize large list in react | Medium](https://medium.com/@yasir.naeem/optimize-large-list-in-react-471e8e4d4717)
 * [프로젝트 초기 세팅, 불필요한 코드 지우기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/frontend/react-helloworld/)
 * [Building a React Micro-Frontend Application with Single SPA - YouTube](https://www.youtube.com/watch?v=esw-kXhv7Ik)
+* [React Labs: What We've Been Working On – March 2023 – React](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)
+  * React에서 연구 및 개발 중인 프로젝트의 상황을 정리한 글
+  * React Server Components(RSC)는 새로운 애플리케이션 아키텍처로 미리 실행되어 번들에서 제외할 수 있고 서버에서 실행되므로 데이터 레이어에도 바로 접근할 수 있어서 서버 중심과 클라이언트 중심 양쪽의 장점을 모두 제공
+    * 데이터를 가져올 때 `async`/`await`를 기본으로 도입했고 클라이언트에서 서버로 데이터를 보내는 방법을 찾고 있고 번들러 개발자와 협업해서 RSC 지원을 작업중
+  * Suspense가 있지만 여전히 CSS, 폰트, 이미지 로딩은 별도로 진행되므로 로딩 중 레이아웃 변경이 일어날 수 있으므로 CSS, 폰트, 이미지 로딩의 생명 주기를 Suspense와 완전히 통합하여 React가 콘텐츠 표시할 시기를 결정할 수 있도록 노력 중이고 에셋을 미리 로딩할 방법도 준비 중
+  * `<title>`이나 메타데이터는 `<head>`에 포함되므로 서드파티 컴포넌트로 메타데이터를 `<head>`로 이동시키거나 서버에서 랜더링 해서 내려주는 방식을 주로 사용하는데 둘다 단점이 있으므로 컴포넌트 트리 어디서나 메타데이터를 렌더링할 수 있는 기능을 준비 중이고 클라이언트, SSR, RSC 모두에서도 동일하게 동작할 예정
+  * React Optimizing Compiler: React 최적화 컴파일러인 React Forget의 설계를 계속 개발하고 있고 이를 전에는 "자동 memoizing 컴파일러"라고 불렀으나 "자동 reactivity 컴파일러"라고 하는 것이 이해하기 더 좋다고 생각
+    * 이는 상태가 바뀌어서 React가 다시 렌더링할 때 너무 많은 렌더링으로 인해서 memoization 처리해야 하는 것을 알아서 최적화
+    * 작년부터 대대적인 리팩토링을 거쳐서 Meta 내 일부에서는 프로덕션에서 이미 사용 중이므로 성능이 입증되면 오픈소스로 공개할 예정
+    * 컴파일러는 Babel에서 거의 분리되었지만 공용 인터페이스는 Babel과 다른 빌드 시스템 플러그인을 통해 동작
+  * 오프스크린 렌더링은 추가적인 오버헤드 없이 백그라운드에서 화면을 렌더링하는 새 기능
+    * 대부분은 오프스크린 API를 직접 사용하진 않을 것이고 라우터나 UI 라이브러리에 통합되어 추가 작업 없이 이점을 누릴 수 있고 컴포넌트 작성 방식을 변경하지 않고도 오프스크린 렌더링을 할 수 있어야 함
+    * Meta 내부 실험 결과 긍정적인 성능 결과를 얻어서 올해 말에는 실험적 API와 RFC를 공개할 예정
+  * 트랜지션 트레이싱 API는 React의 트랜지션이 느리지는 시점을 감지하고 원인을 조사할 수 있는 API
+    * 초기 설계는 완료했고 RFC도 공개했지만 프로젝트는 보류 중
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4740,6 +4764,10 @@ Javascript
     * [웹으로 빚은 다이나믹 아일랜드 🏝 @ Sunghyun Cho](https://cho.sh/ko/w/9F7F85)
   * [중요한 건 꺾이지 않는 API (feat. Next.js API Routes) | by Jiwon Han | 29CM TEAM | Feb, 2023 | Medium](https://medium.com/29cm/%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B1%B4-%EA%BA%BE%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-api-feat-next-js-api-routes-2f6b1d3779a3)
   * [How to Handle Modals in a Large-Scale Next.Js Project | by Deepak Kumar | Feb, 2023 | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-handle-modals-in-a-large-scale-next-js-project-4565a29b86d1)
+  * [Next.js SPA example with dynamic client-only routing and static hosting](https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6)
+    * Next.js에서 서버 없이 100% 정적 파일로만 클라이언트 측 SPA를 사용하는 방법에 대한 질문을 많이 받았지만 Next.js 문서에는 잘 나와 있지 않아서 Dan Abramov가 정리한 글
+    * 설정에 대한 설명과 코드 포함
+    * SPA라고 하더라도 `index.html`을 하나만 두는 구조보다 라우팅마다 HTML 파일을 갖는 게 더 좋은 구조라고 설명
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
