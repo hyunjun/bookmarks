@@ -2064,6 +2064,7 @@ Java
 * [Spring Boot 3.x 실행이 안될 경우 (feat. IntelliJ)](https://jojoldu.tistory.com/698)
 * [스프링 부트를 제거해서 생긴 일](https://yeonyeon.tistory.com/296)
 * [무지성으로 사용한 헬스 체크가 불러일으킬 수 있는 참사](https://toss.tech/article/how-to-work-health-check-in-spring-boot-actuaotr)
+* [Spring Boot Performance: How to Fine-Tune Your Application for High-Speed Results | Medium](https://medium.com/@harshgajjar7110/performance-tuning-and-optimization-tips-for-spring-applications-13fcf6ef8b44)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
