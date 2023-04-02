@@ -904,7 +904,18 @@ Data Science
 * [추천 시스템: Bloom Filter for Filtering Layer](https://www.linkedin.com/posts/huffonism_%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-bloom-filter-for-filtering-layer-activity-6994114281055141889-Tr6u/)
 * [Why do we need two-stage Recommender System?](https://www.linkedin.com/posts/activity-6994975784205459456-4vy_/)
 * [현대적인 추천 시스템 구축을 위한 여정 - 허훈(LINER) I 모두콘 2022 - YouTube](https://www.youtube.com/watch?v=69igsWcmW5g)
-* [the-algorithm/HomeTweetTypePredicates.scala at 7f90d0ca342b928b479b512ec51ac2c3821f5922 · twitter/the-algorithm · GitHub](https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala)
+* [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+  * [the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)
+  * Twitter가 자사의 추천 알고리즘을 오픈소스 공개
+  * 트위터에서 For You 탭에 보여줄 트윗을 선정하는 알고리즘으로 후보 소스로 수억 개의 풀에서 1,500개의 트윗을 추출해서 보여주는데 트윗은 사용자가 팔로잉하고 있는 In-Network 소스와 팔로잉하고 있지 않은 Out-of-Network 소스 두 가지로 나누어서 50:50 비율로 선정
+  * In-Network 소스에서는 두 사용자 간의 상호 참여 가능성을 예측하는 모델인 Real Graph를 통해 트윗의 순위를 결정
+    * [sig-alternate.pdf](https://www.ueo-workshop.com/wp-content/uploads/2014/04/sig-alternate.pdf)
+  * Out-of-Network 소스에서는 팔로우하지 않음에도 관련성을 찾아야 하므로 두 가지 방법 사용
+    * 소셜 그래프를 통해 내가 팔로잉하는 사람들과 비슷한 관심사를 가진 사람들을 통해 실시간 상호작용 그래프를 유지하는 그래프 처리 엔진인 GraphJet을 개발
+      * [p1281-sharma.pdf](https://www.vldb.org/pvldb/vol9/p1281-sharma.pdf)
+    * 소셜 그래프보다 훨씬 큰 비중을 차지하는 임베딩 스페이스는 사용자의 관심사와 트윗의 관련도를 수치로 만들어서 145,000개의 커뮤니티를 3주마다 업데이트
+    * 이렇게 순위가 정해진 트윗을 최종적으로 필터링 및 정제를 거친 후 사용자에게 보여주는데 이 파이프라인이 하루에 약 50억 번 실행되고 평균 1.5초 이내에 완료
+  * 오픈 소스를 공개하면서 Elon Musk를 따로 처리하는 코드가 발견되어 논쟁거리가 되자 문제 되는 코드와 Git 히스토리를 정리해서 다시 업로드
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
