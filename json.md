@@ -111,6 +111,9 @@ Json
   * [**JSON.parse 직접 만들어보기. By 최종찬 | by Riiid Techblog | Dec, 2020 | Medium**](https://riiidtechblog.medium.com/json-parse-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f567ecdf08c0)
 * [typescript-json: 2x faster JSON stringify function with only one line](https://github.com/samchon/typescript-json)
   * [I made 1,000x faster TypeScript Validator Library - DEV Community 👩💻👨💻](https://dev.to/samchon/typescript-json-is-10-1000x-times-faster-than-zod-and-io-ts-8n6)
+  * [I made 10x faster JSON.stringify() functions, even type safe - DEV Community](https://dev.to/samchon/i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme)
+  * [Typia 15,000x faster TypeScript Validator and its histories - DEV Community](https://dev.to/samchon/typia-15000x-faster-validator-and-its-histories-1fmg)
+  * [I made Express faster than Fastify (100x faster JSON) - DEV Community](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
 
 # JWT
 * [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
