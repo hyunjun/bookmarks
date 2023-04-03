@@ -3098,6 +3098,7 @@ Programming Books
   * 한라 005.138 김76ㅅ
   * 설치, 라라벨 기본, 실전프로젝트 3가지로 구성. php 기본 문법은 간략하게 나옴
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
+* (NOT YET) [백엔드 프로그래밍을 위한 PHP & MySQL](https://jpub.tistory.com/1398)
 
 # Product
 * [Best Product Management Books: A visual guide. - Delibr](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
