@@ -428,7 +428,7 @@ Clojure
 * [Bad nREPL: 10 Things You Hate About nREPL | Meta Redux](https://metaredux.com/posts/2023/03/26/bad-nrepl)
 * [Fix your Clojure code: Clojure comes with design patterns (Part 1)](https://blog.janetacarr.com/software-design-patterns-in-clojure/)
 * [Fix your Clojure code: Clojure comes with design patterns (Part 2)](https://blog.janetacarr.com/fix-your-clojure-code-clojure-comes-with-design-patterns-part-2/)
-* [Model-View-Controller, a classic architectural pattern in Clojure](https://blog.janetacarr.com/model-view-controller-a-classic-architectural-pattern-in-clojure/)
+* [Model-View-Controller, a classic architectural pattern in Clojure](https://blog.janetacarr.com/model-view-controller-a-classic-architectural-pattern-in-clojure)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
