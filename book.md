@@ -1347,6 +1347,10 @@ Book
 * [내가 틀릴 수도 있습니다](https://brunch.co.kr/@usunote/31)
   * ★★★★★ 2023.03.30
   * 한라 199.1-린24ㄴ 탐라 문220.4-린223ㄴ 우당 문220.4-린223ㄴ
+  * [내가 틀릴 수도 있습니다 - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/i_may_be_wrong)
+  * [내가 틀릴 수도 있습니다. 저는 마음챙김 mindfulness 이라는 용어가 편치… | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/%EB%82%B4%EA%B0%80-%ED%8B%80%EB%A6%B4-%EC%88%98%EB%8F%84-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-a2459a8ca8e5)
+  * [내가 틀릴 수도 있습니다](https://jh4hj.tistory.com/entry/%EB%82%B4%EA%B0%80-%ED%8B%80%EB%A6%B4-%EC%88%98%EB%8F%84-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
+  * [내가 틀릴 수도 있습니다 - Jun’s Substack](https://recur.substack.com/p/5c2)
 * [씽킹 101 : 더 나은 삶을 위한 생각하기 연습](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308282038)
   * ★★★★☆ 2023.03.30~31
   * 한라 181.35-안66ㅆ 탐라 문181.3-안67ㅆ
