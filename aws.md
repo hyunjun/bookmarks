@@ -2134,6 +2134,7 @@ AWS
 * [Amazon VPC 한 번쯤 궁금한 이야기 1 : Mapping Service](https://zigispace.net/1195)
 * [Amazon VPC 한 번쯤 궁금한 이야기 2 : Blackfoot Edge Device](https://zigispace.net/1196)
 * [Amazon VPC 한 번쯤 궁금한 이야기 3 : Hyperplane (하이퍼플레인)](https://zigispace.net/1197)
+* [Amazon VPC Lattice - Part 1](https://zigispace.net/1225)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
