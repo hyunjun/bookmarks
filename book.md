@@ -313,6 +313,9 @@ Book
 * [조국의 법고전 산책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304555964)
   * ★★★★★ 2023.03.30
   * 한라 360.04-조16ㅈ 탐라 문360.1-조17ㅈ 우당 문360.1-조17ㅈ
+* [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
+  * ★★★☆☆ 2023.04.03 아이들이 보기엔 약간 부적절한 묘사나 표현이 있으나 재미있게 볼 수 있음
+  * 탐라 문892.1-동51ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -440,8 +443,6 @@ Book
   * 탐라 문909.54-크237ㄴ 우당 문909.54-노231ㄴ
 * (NOT YET) [반도체 제국의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282100167&start=slayer)
   * 한라 325.1-정68바 탐라 문569.4-정69ㅂ
-* (NOT YET) [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
-  * 탐라 문892.1-동51ㅇ
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
