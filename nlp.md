@@ -781,6 +781,7 @@ NLP
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
+  * [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
     * OpenAI에서 ChatGPT의 기능을 확장할 수 있는 플러그인을 공개했고 현재는 승인받아야 개발 가능
