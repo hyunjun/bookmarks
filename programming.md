@@ -1807,6 +1807,7 @@ Programming
 * [Event Modeling Part 2 of 2 • Adam Dymitruk • YOW! Perth 2022 - YouTube](https://www.youtube.com/watch?v=Y1SWHcYKsCs)
 * [Event Modeling • Adam Dymitruk • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 * [The Road To Event-Driven Architecture At LEGO.com • Sheen Brisals • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_g6DA9WM7RE)
+* [Advanced Event-driven Architectures at the LEGO Group • Sarah Hamilton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=6_Yzybhmj-8)
 * [Best Practices to Design & Build Event-driven Applications • Marcia Villalba • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=bC51iRtXlRw)
 * [EDA in Practice: Building an eCommerce Platform at Cinch • Emily Shea & Toli Apostolidis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=wM-dTroS0FA)
 * [Emily Shea | How Event-Driven Architectures Accelerate Time to Market | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=hVWD4xkRAbQ)
