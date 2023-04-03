@@ -313,6 +313,10 @@ Book
 * [조국의 법고전 산책](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304555964)
   * ★★★★★ 2023.03.30
   * 한라 360.04-조16ㅈ 탐라 문360.1-조17ㅈ 우당 문360.1-조17ㅈ
+  * [조국의 법고전 산책](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/classics_of_law)
+  * [조국의 법고전 산책 - Jun - Medium](https://nymets.medium.com/%EC%A1%B0%EA%B5%AD%EC%9D%98-%EB%B2%95%EA%B3%A0%EC%A0%84-%EC%82%B0%EC%B1%85-e97c8a3239d3)
+  * [조국의 법고전 산책](https://jh4hj.tistory.com/entry/%EC%A1%B0%EA%B5%AD%EC%9D%98-%EB%B2%95%EA%B3%A0%EC%A0%84-%EC%82%B0%EC%B1%85)
+  * [조국의 법고전 산책 - Jun’s Substack](https://recur.substack.com/p/fc4)
 * [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * ★★★☆☆ 2023.04.03 아이들이 보기엔 약간 부적절한 묘사나 표현이 있으나 재미있게 볼 수 있음
   * 탐라 문892.1-동51ㅇ
