@@ -1103,6 +1103,7 @@ Scala
       * [How to successfully manage a ZIO Fiber’s lifecycle | by Natan Silnitsky | Wix Engineering | May, 2021 | Medium](https://medium.com/wix-engineering/how-to-successfully-manage-a-zio-fibers-lifecycle-96fe9c4ecd06)
       * [Scala with ZIO: Introduction to Fibers - YouTube](https://www.youtube.com/watch?v=0OTYAVWUnU4)
       * [ZIO: Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/zio-fibers/)
+      * [Zymposium - FiberRefs, ZIO 2 & Patch Theory - YouTube](https://www.youtube.com/watch?v=zpwmsYce8KU)
     * gRPC
       * [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
       * [Asynchronous Microservices with ZIO-gRPC and Scala | by λ.eranga | Rahasak Labs | Oct, 2021 | Medium](https://medium.com/rahasak/asynchronous-microservices-with-zio-grpc-and-scala-2e6519cb4e9a)
