@@ -2390,6 +2390,7 @@ Business
   * 프로덕트 디자이너 설명, 어떤 일을 하냐 보다는 기업이 어떻게 일하기를 원하는지에 초점을 맞추어야 이해하기 좋다는 부분을 강조
   * 프로덕트 디자이너는 기능 중심 조직과 제품 중심 조직이 일하는 방식의 차이 때문에 발생, 두 조직에서 일하는 방식의 다른 점을 비교 설명
   * 시드 스테이지, 얼리 스테이지, 시리즈 라운드, 프리 IPO 라운드 이후의 스타트업 별로 디자이너가 어떤 일을 하는지와 필요한 역량 설명
+* [A product design process for the real world | by Ted Goas | UX Collective](https://uxdesign.cc/a-product-design-process-for-the-real-world-44f792f6eb41)
 * [화려한 디자인을 가진 중국 이커머스앱에 대한 고찰 | Popit](https://www.popit.kr/%ed%99%94%eb%a0%a4%ed%95%9c-%ec%a4%91%ea%b5%ad-%ec%9d%b4%ec%bb%a4%eb%a8%b8%ec%8a%a4-%ec%95%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ea%b3%a0%ec%b0%b0/)
 * ['흔들어서 실행 취소'는 왜 골칫덩어리가 되었나](https://www.jiwon.me/why-shake-to-undo-sucks/)
 * [토스뱅크의 에러메시지에 동의하지 않습니다 - 에러메시지는 어떠해야 하는가](https://www.jiwon.me/tossbank-error-message/)
