@@ -1465,6 +1465,7 @@ Clojure
 * [Stressed Servers](https://bsless.github.io/stressed-servers/)
 * [How to Structure a Clojure Web App 101](https://mccue.dev/pages/12-7-22-clojure-web-primer)
 * [Learn to build a Clojure web app - a step-by-step tutorial](https://ericnormand.me/guide/clojure-web-tutorial)
+* [I Built the World's Most Customizable News Feed - YouTube](https://www.youtube.com/watch?v=wSlZtYtmiVs)
 * [Kit Framework](https://kit-clj.github.io/)
 * [Ring](https://github.com/ring-clojure/ring)
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
