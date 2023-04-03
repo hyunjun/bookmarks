@@ -1138,6 +1138,7 @@ Docker
 * [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
 * [Kubernetes Ingress: A Beginners' Guide | ARMO](https://www.armosec.io/blog/kubernetes-ingress-beginners-guide/)
 * [Okta 및 NGINX Ingress Controller를 사용하여 Kubernetes용 OpenID Connect 인증 구현 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/implementing-openid-connect-authentication-kubernetes-okta-and-nginx-ingress-controller/)
+* [Kubernetes 의 인증과 인가](https://stupendous-purple-c9f.notion.site/Kubernetes-035fe6bef71b490197acf0d99261ff6a)
 * [Ingress Controller 선택 가이드, Part 2: 위험 및 미래 대비 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/guide-to-choosing-ingress-controller-part-2-risks-future-proofing/)
   * Q1. 복잡성(Complexity) – 마이크로서비스 아키텍처(MSA)의 목적을 위배합니까?
   * Q2. 대기 시간(Latency) – Ingress Controller가 앱 속도를 늦추나요?
