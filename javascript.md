@@ -4229,6 +4229,7 @@ Javascript
     * Meta 내부 실험 결과 긍정적인 성능 결과를 얻어서 올해 말에는 실험적 API와 RFC를 공개할 예정
   * 트랜지션 트레이싱 API는 React의 트랜지션이 느리지는 시점을 감지하고 원인을 조사할 수 있는 API
     * 초기 설계는 완료했고 RFC도 공개했지만 프로젝트는 보류 중
+* [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
