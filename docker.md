@@ -2056,6 +2056,7 @@ Docker
 * [trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
   * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
   * [Scanning for AWS Security Issues With Trivy | liamg](https://lia.mg/posts/trivy-aws/)
+  * [trivy-operator](https://mr100do.tistory.com/1494)
 * [ValidKube | Validate, Clean & Secure Your K8s YAML](https://validkube.com/)
 * Velero
   * [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
