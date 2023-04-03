@@ -452,6 +452,12 @@ Book
 * (NOT YET) [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
   * 한라 349-정54ㅌ 탐라 문349-정53ㅌ
 * (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
+* (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
+  * 우당 문337.2-베238ㅅ
+* (NOT YET) [인문학 거저보기 : 서양철학 편](https://hanbit.co.kr/store/books/look.php?p_code=B9234684497)
+  * 탐라 문160-지91ㅇ 우당 문160-지91ㅇ
+* (NOT YET) [올림포스 연대기](https://hanbit.co.kr/store/books/look.php?p_code=B3180984708)
+* (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1141,6 +1147,12 @@ Book
 * (NOT YET) [『개발 없는 개발』을 읽고](https://nocturnal-landscape.tistory.com/155)
   * 우당 문911.06-허57ㄱ
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
+* (NOT YET) [중세 1 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B9915338821)
+  * 탐라 문920.3-만96ㅈ-1 우당 문920-한49ㅈ-1
+* (NOT YET) [중세 2 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B2832646005)
+  * 탐라 문920.3-만96ㅈ-2 우당 문920-한49ㅈ-2
+* (NOT YET) [만화로 배우는 서양사 중세 3](https://hanbit.co.kr/store/books/look.php?p_code=B5871685999)
+  * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1342,6 +1354,10 @@ Book
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
   * 한라
+* (NOT YET) [할짝 심리학](https://hanbit.co.kr/store/books/look.php?p_code=B9839456081)
+  * 한라 180-이92ㅎ-1 탐라 문180-이91ㅎ-1
+* (NOT YET) [할짝 심리학 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258170938)
+  * 한라 180-이92ㅎ-2 탐라 문180-이91ㅎ-2 우당 문180-이91ㅎ-2
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
