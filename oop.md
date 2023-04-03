@@ -143,6 +143,7 @@
 
 # Clojure
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+* [Model-View-Controller, a classic architectural pattern in Clojure](https://blog.janetacarr.com/model-view-controller-a-classic-architectural-pattern-in-clojure/)
 
 # Composition
 * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
