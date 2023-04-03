@@ -790,6 +790,7 @@ NLP
     * OpenAI에서 직접 운영하는 web browser와 code interpreter 플러그인도 공개
       * web browser는 ChatGPT가 웹 검색을 할 수 있게 하고 code interpreter는 Python 코드를 실행 가능
     * [나만의 ChatGPT 플러그인 만들기! 10분컷. - YouTube](https://www.youtube.com/watch?v=pBdwrB4rEA4)
+    * [ChatGPT 플러그인 정리 - 모두의연구소](https://modulabs.co.kr/blog/chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC/)
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   * [chatgpt_stock_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt_stock_report/tree/main)
   * [ChatGPT_Trading_Bot: This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube](https://github.com/llSourcell/ChatGPT_Trading_Bot/)
