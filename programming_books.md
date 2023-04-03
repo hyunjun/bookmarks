@@ -2674,6 +2674,10 @@ Programming Books
 * [블리츠 스케일링](https://verticalplatform.kr/archives/11110)
   * ★★★★☆ 2023.03.27
   * 탐라 문325.19-호848ㅂ
+  * [Blitz Scaling](https://github.com/hyunjun/bookmarks/blob/master/programming_books/blitz_scaling.md)
+  * [Blitz Scaling. 프롤로그 겟빅 패스트 Get Big Fast! | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/blitz-scaling-d47aa48aecdf)
+  * [Blitz Scaling](https://jh4hj.tistory.com/entry/Blitz-Scaling)
+  * [Blitz Scaling - Jun’s Substack](https://recur.substack.com/p/blitz-scaling)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
