@@ -754,6 +754,7 @@ Deep Learning
 * [Hadi Abdi Khojasteh - Large Scale Representation Learning In-the-wild | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=YRJTpk3yfTc)
 * [Deep Learning by Open API | Pega Devlog](https://jehyunlee.github.io/2022/11/29/Python-DS-124-kierlecture8/)
 * [역전파의 종말? 갓프리 힌튼의 Forward-Forward 알고리즘](https://www.philgineer.com/2023/02/forward-forward.html)
+* [Digital Insight 2023-1 파운데이션 모델의 이해와 미래 전망 | 한국지능정보사회진흥원](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=25400)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
