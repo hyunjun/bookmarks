@@ -1385,6 +1385,7 @@ Scala
 * [Avast](https://avast.github.io)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
+* [batcher: Batch similar requests together transparently](https://github.com/filosganga/batcher)
 * [better-monadic-for - A Scala compiler plugin to give patterns and for-comprehensions the love they deserve](https://github.com/oleg-py/better-monadic-for)
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
