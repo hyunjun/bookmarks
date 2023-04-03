@@ -208,6 +208,13 @@ Programming Books
   * ★★☆☆☆ 2023.03.23 기대와 다르게 별로 와 닿는게 없었다. 책의 주인공 격인 마크 주커버그의 (심지어 이름까지 거기에 맞춰 바꿔버린) 메타나 MS도 사업을 (일시적으로나마) 포기했기 때문일까? 책의 구성이 내가 좋아하는 스타일이 아니어서일까? 어찌되었건 VR의 시대는 오긴 하겠지만 당장은 아닐 듯 싶다. 존 카맥같은 사람이 맡았어도 SW는 물론 HW에서 여전히 부족한 면이 정말 많다.
     * <img src="images/the_history_of_the_future.jpg" alt="" width="300"/>
   * 한라 004.783-해298ㄷ
+* [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
+  * ★★★☆☆ 2023.04.02~03
+  * 한라 324.35-타195ㅅ
+  * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
+* [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
+  * ★★★☆☆ 2023.04.03 큰 주제를 좀 압축해놓은 감이 있지만, 디자인 씽킹에서 시작해서 엑셀로 기초적인 데이터 분석까지 넓은 주제를 쉽게 다룸
+  * 한라 005.76-에68ㄷ
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
@@ -311,14 +318,9 @@ Programming Books
 * (NOT YET) [컴퓨터 프로그램의 구조와 해석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=75122015)
   * 중앙 005.1-해233ㅋ
   * [Kizoo: 컴퓨터 프로그램의 구조와 해석 (SICP) - 옮긴이 머릿글 초본](https://kizoo.blogspot.com/2007/03/sicp.html)
-* (NOT YET) [실리콘 밸리의 목소리](https://imilkbook.com/book/1072844)
-  * 한라
-  * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
 * (NOT YET) [NGINX 쿡북(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9583925549)
   * [NGINX 쿡북 리뷰](https://velog.io/@youngerjesus/NGINX-%EC%BF%A1%EB%B6%81-%EB%A6%AC%EB%B7%B0)
 * (NOT YET) [세상을 바꿀 미래기술 12가지 | 위키북스](https://wikibook.co.kr/futuretech12/)
-* (NOT YET) [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
-  * 한라
 * (NOT YET) [궁금한 IT | 위키북스](https://wikibook.co.kr/why-it/)
 * (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
@@ -3852,6 +3854,9 @@ Programming Books
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://github.com/hyunjun/bookmarks/blob/master/programming_books/designing_interfaces.md)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-ux-ui%EC%9D%98-%EB%B9%84%EB%B0%80-designing-interfaces-cae1fe9c76b4)
   * [사용자를 끌어들이는 UX/UI의 비밀 Designing Interfaces](https://jh4hj.tistory.com/entry/%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94-UXUI%EC%9D%98-%EB%B9%84%EB%B0%80-Designing-Interfaces)
+* [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
+  * ★★★☆☆ 2023.04.02~03 UI/UX 101같은 책으로 기초적인 지식부터 잘 읽어볼 수 있어 비전공자가 참고하기 좋음
+  * 한라 324.35-타195ㅅ
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
@@ -3862,8 +3867,6 @@ Programming Books
   * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
 * (NOT YET) [UX 원칙 Uxer를 위한 101가지 원칙](https://medium.com/heeheewuwu/ux-%EC%9B%90%EC%B9%99-uxer%EB%A5%BC-%EC%9C%84%ED%95%9C-101%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-1-2-f9fd97f9bc37)
   * 탐라 문004.78-그232ㅇ
-* (NOT YET) [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
-  * 한라
 
 # Vision
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
