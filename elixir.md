@@ -103,6 +103,9 @@ Elixir
 * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
 * [Connecting Livebook To Phoenix - YouTube](https://www.youtube.com/watch?v=nXlxRpZRrx4)
 
+# API
+* sigils [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
+
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
 * [The Little Elixir & OTP Guidebook / Benjamin Tan Wei Hao](http://ohyecloudy.com/pnotes/archives/book-the-little-elixir-otp-guidebook/)
