@@ -777,7 +777,7 @@ NLP
     * [챗GPT 러닝데이 ChatGPT 이론 파헤치기(고급) - YouTube](https://aifactory.space/learning/detail/2298)
     * [챗GPT 러닝데이 개발 - ChatGPT 기반 나만의 챗봇 서비스 개발 - YouTube](https://www.youtube.com/watch?v=n8hKjxCVNdo)
     * [챗GPT 러닝데이 ChatGPT로 똑똑하게 일하기 - YouTube](https://www.youtube.com/watch?v=NOebvGUcpiM)
-    * [GitHub Copilot과 Bing AI로 코딩 생산성 높이기](https://aifactory.space/competition/2290/discussion/224)
+    * [GitHub Copilot과 Bing AI로 코딩 생산성 높이기](https://aifactory.space/learning/detail/2357)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
