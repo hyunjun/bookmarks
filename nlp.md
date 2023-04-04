@@ -824,6 +824,7 @@ NLP
 * [www.luis.ai](https://www.luis.ai)
 * [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
   * [nanoGPT - 중간규모 GPT를 가장 빠르게 훈련/미세조정하기 위한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8170)
+* [PetGPT: Train your own PetGPT at home!](https://github.com/maziarraissi/PetGPT)
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
   * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
 * [slacker로 slack bot 만들기](https://hyesun03.github.io/2016/10/08/slackbot/)
