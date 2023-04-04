@@ -84,6 +84,7 @@
   * [스파크의 사용 환경 내용 - data bricks](http://knight76.tistory.com/entry/%ED%8E%8C-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%82%AC%EC%9A%A9-%ED%99%98%EA%B2%BD-%EB%B0%9C%ED%91%9C)
   * [Data Ingestion using COPY INTO - YouTube](https://www.youtube.com/watch?v=FcGbpdQJofY)
   * [Data Ingestion using Upload Data UI - YouTube](https://www.youtube.com/watch?v=aYdN9dJrxes)
+  * [dbt Projects Integration in Databricks Workflows - YouTube](https://www.youtube.com/watch?v=C4-FOpJzhKs)
   * databricks community edition [Hands-On Training for Data Science and Machine Learning - YouTube](https://www.youtube.com/watch?v=3AdVRy1R_8s)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
 * [Spark Shuffle Partition과 최적화 – tech.kakao.com](https://tech.kakao.com/2021/10/08/spark-shuffle-partition/)
