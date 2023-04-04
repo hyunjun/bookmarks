@@ -1191,6 +1191,7 @@ Linux
 * [cronitor.io - Monitor cron jobs, microservices and almost anything else](https://cronitor.io/)
 * [Crush - an attempt to make a command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
+  * [i2cssh: csshX like ssh tool for iTerm2](https://github.com/wouterdebie/i2cssh)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
 * [Darling | macOS translation layer for Linux](https://www.darlinghq.org/)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
