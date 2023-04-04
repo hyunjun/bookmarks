@@ -372,6 +372,7 @@ Go
 * [Print a number with (comma) thousands separator in Go (Golang)](https://gosamples.dev/print-number-thousands-separator/)
 * [Some Gotchas And Quirky Syntax In The Go Programming Language - YouTube](https://www.youtube.com/watch?v=klFUb6vWZyU)
 * [Explaining common I/O Patterns in Go | by Naren Yellavula | Dev bits | Jun, 2022 | Medium](https://medium.com/dev-bits/explaining-common-i-o-patterns-in-go-cd01b1b749c4)
+* [Some Uncommon Syntax/Features In Go - YouTube](https://www.youtube.com/watch?v=BW1JEoaB5ZU)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
