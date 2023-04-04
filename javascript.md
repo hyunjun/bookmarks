@@ -1390,10 +1390,13 @@ Javascript
 * [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
   * [번역 Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요?](https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 * [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
+* [All JavaScript and TypeScript Features of the last 3 years | by Linus Schlumberger | Mar, 2023 | Better Programming](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
+  * [번역 지난 3년간의 모든 자바스크립트 및 타입스크립트 기능](https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
   * [Webpack과 Babel로 최신 JavaScript 웹프론트 개발환경 만들기](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
+  * [How to Webpack 5 with Babel - Setup Tutorial](https://www.robinwieruch.de/webpack-babel-setup-tutorial/)
   * [BabelJS(바벨)](https://www.zerocho.com/category/EcmaScript/post/57a830cfa1d6971500059d5a)
   * [VSCode와 Babel Flow 플러그인으로 타입을 헐렁하게 써보자](https://rhostem.github.io/posts/2018-08-11-use-flow-type-loosely/)
   * [Babel 7 Released](https://medium.com/@la.place/babel-7-released-2c00af5a3360)
@@ -2704,6 +2707,7 @@ Javascript
   * [Webpack Module Federation 도입 전에 알아야 할 것들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
     * 다른 웹에서 원격으로 모듈을 임포트해서 사용할 수 있는 Webpack Module Federation 동작 방식 설명
     * 원격 모듈은 다른 도메인에서 가져올 수 있고 별도로 빌드 가능하나 모듈의 타입을 알기가 어렵고 `remoteEntry.js`의 경로 관리 불편
+  * [How to Webpack 5 - Setup Tutorial](https://www.robinwieruch.de/webpack-setup-tutorial/)
   * [Rspack: 속도와 호환성에 초점을 둔 번들러](https://velog.io/@jaeholee/Rspack-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
     * Rust로 재작성된 Webpack 호환 번들러인 Rspack을 소개하는 글
     * Wepack+swc와 비교해 cold start는 8배, HMR은 3배의 성능
@@ -3590,6 +3594,7 @@ Javascript
 * [REACT & WEBPACK STARTER](http://dalkstudy.github.io/react-webpack-starter/#/)
   * [React Webpack Starter](https://github.com/dalkstudy/react-webpack-starter)
 * [Let's build a boilerplate with React and Webpack!](https://hackernoon.com/lets-build-a-boilerplate-with-react-and-webpack-eb2fbdb44283)
+* [How to React with Webpack 5 - Setup Tutorial](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
 * [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
 * [Build Todos app with React](http://todomvc.com/examples/react)
 * [TodoList based MVC project with VanilaJS / To do MVC 만들기 프로젝트 Intro](http://asfirstalways.tistory.com/248)
@@ -4230,6 +4235,8 @@ Javascript
   * 트랜지션 트레이싱 API는 React의 트랜지션이 느리지는 시점을 감지하고 원인을 조사할 수 있는 API
     * 초기 설계는 완료했고 RFC도 공개했지만 프로젝트는 보류 중
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
+* [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
+  * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
