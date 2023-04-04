@@ -744,6 +744,7 @@ NLP
   * [How to learn to code FAST using ChatGPT (it's a game changer seriously) - YouTube](https://www.youtube.com/watch?v=VznoKyh6AXs)
   * [당장 사용 가능한 ChatGPT API 활용팁 모음! - YouTube](https://www.youtube.com/watch?v=n_8XhAD9G8g)
   * [ChatGPT run by python](https://sysnet4admin.gitbook.io/cloud/others/tools/chatgpt/python)
+  * [Python Automation with ChatGPT - YouTube](https://www.youtube.com/watch?v=w-X_EQ2Xva4)
   * [ChatGPT 핵심기술 RLHF 코드리뷰 feat ChatLLaMA - YouTube](https://www.youtube.com/watch?v=T1XadeiKl1M)
   * [ChatGPT 등장 후 우리에게 일어난 일들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1929/%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C/)
   * [슬랙에 ChatGPT 납치하기 #1 - 슬랙 APP 생성](https://jybaek.tistory.com/988)
