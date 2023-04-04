@@ -503,6 +503,7 @@ Scala
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
 * [(2) Kit Langton on Twitter: "The Two Minute Twenty Second Ten-Step Tail Rec Transformation Technique https://t.co/kI0izGriX0" / Twitter](https://twitter.com/kitlangton/status/1527465896142426116?t=LEHWG3xXOodzPNjdtt5-xA) tail recursion
 * [Tail Recursive Functions (in Scala) - Alexandru Nedelcu](https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html)
+* [Ten-Step Tail-Rec Transformation Technique - YouTube](https://www.youtube.com/watch?v=E8rwsxn1iTM)
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
 * [Akka Steam Graphs — A first Java example](https://medium.com/@suchakjani/akka-steam-graphs-a-first-example-c93fbc1f02f5)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
