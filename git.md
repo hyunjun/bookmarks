@@ -782,6 +782,7 @@ Git
   * [Ignoring Files and Directories in Git (.gitignore)](https://linuxize.com/post/gitignore-ignoring-files-in-git/)
   * [Automatic .gitignore generation | Pega Devlog](https://jehyunlee.github.io/2020/11/07/Python-General-7-make_gitignore/)
   * [이미 git으로 관리하고 있는 파일을 .gitignore에 추가했을 때, 변경해도 더 이상 추적하지 않도록 하는 방법 | Joohee Kim's Blog](https://imjhk03.github.io/posts/git-ignore-cache/)
+  * [내 작은 .gitconfig | DevelopersIO](https://dev.classmethod.jp/articles/my-little-gitconfig/)
   * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.gitignore.io/)
   * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * grep
