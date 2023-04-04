@@ -1652,6 +1652,7 @@ Web
   * [이미지 최적화 하기](https://tech.youha.info/6aea5352-5476-4f3e-9a25-b4cbffc39270)
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
   * [IMDEV 2023 당신의 웹페이지는 몇 점인가요? - YouTube](https://www.youtube.com/watch?v=aO-z9YmxOUk)
+  * [프로파일링을 통한 성능개선, 92점에서 100점까지(feat. lighthouse) · Present](https://present.do/documents/63b7e0f61c24a973ceae629a)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [PageSpeed Insights](https://pagespeed.web.dev/)
