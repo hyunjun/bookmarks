@@ -231,6 +231,7 @@ Android
 * [안드로이드 12 Preview 미리 만나보기](https://thdev.net/875)
 * [RecyclerView에서 고차함수 이용한 리스트아이템클릭 구현](https://developer88.tistory.com/356)
 * [Pluu Dev - RecyclerView#ViewHolder에서 ViewTreeLifecycleOwner 사용법](http://pluu.github.io/blog/android/2021/09/20/lifecycleowner/)
+* [버그와 함께 알아보는 RecyclerView 에서 wrap_content 사용을 조심해야 하는 이유](https://dev.gmarket.com/70)
 * [getLastLocation 으로 유저의 마지막 위치얻어오기 # Android](https://developer88.tistory.com/357)
 * [What differs Android from other Linux based systems? - #embeddedbits](https://embeddedbits.org/what-differs-android-from-other-linux-based-systems/)
 * [안드로이드 개발 언어에 '러스트' 추가… 고질적인 C/C++ 메모리 버그 잡는다 - ITWorld Korea](https://www.itworld.co.kr/news/189783)
