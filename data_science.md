@@ -916,6 +916,7 @@ Data Science
     * 소셜 그래프보다 훨씬 큰 비중을 차지하는 임베딩 스페이스는 사용자의 관심사와 트윗의 관련도를 수치로 만들어서 145,000개의 커뮤니티를 3주마다 업데이트
     * 이렇게 순위가 정해진 트윗을 최종적으로 필터링 및 정제를 거친 후 사용자에게 보여주는데 이 파이프라인이 하루에 약 50억 번 실행되고 평균 1.5초 이내에 완료
   * 오픈 소스를 공개하면서 Elon Musk를 따로 처리하는 코드가 발견되어 논쟁거리가 되자 문제 되는 코드와 Git 히스토리를 정리해서 다시 업로드
+  * [상남자 특) 트위터 소스코드 깃헙에 공개함 - YouTube](https://www.youtube.com/watch?v=zJI4bgEJ8IU)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
