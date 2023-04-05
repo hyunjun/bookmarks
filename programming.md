@@ -2223,6 +2223,7 @@ Programming
 * [Common problems in microservice architecture • Marcin Szymczak • Devoxx Poland 2021 - YouTube](https://www.youtube.com/watch?v=eMJN_tmn1_o)
 * [Microservices to Async Processing Migration at Scale - YouTube](https://www.youtube.com/watch?v=j-TMI_Hv5KY)
 * [Securing Microservices: Preventing Vulnerability Traversal - YouTube](https://www.youtube.com/watch?v=rfrN9s7ypJE)
+* [What is Database Per Microservices Pattern? What Problem does it solve? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-database-per-microservices-pattern-what-problem-does-it-solve-60b8c5478825)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
