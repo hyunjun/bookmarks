@@ -664,6 +664,7 @@ AWS
 * [Athena로 CloudWatch Logs query 하기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/athena-cloudwatch-logs-query)
 * [클라우드 워치를 통한 프로세스 모니터링 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/07/13/cloudwatch-process-monitoring/)
 * [페타바이트 트래픽 원인 분석기](https://snack.planetarium.dev/kor/2023/03/cloudwatch/)
+* [AWS IoT Core를 활용해 CloudWatch 알람을 음성으로 수신하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-core-cloudalarm/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
