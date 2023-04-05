@@ -345,6 +345,7 @@ Javascript
 * [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
 * [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
 * [Generator 이해하기](https://armadillo-dev.github.io/javascript/what-is-generator/)
+* [Practical Use Case of ES6 Generators. - YouTube](https://www.youtube.com/watch?v=Ia00dEVY-0k)
 * [Understand JavaScript’s Generators in 3 Minutes | by Dylan Kerler | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/understand-javascripts-generators-in-3-minutes-8af75c9c4f5f)
 * [NX Generators or how to skip boring tasks by Francesco Leardini - YouTube](https://www.youtube.com/watch?v=LTi55WsIe4g)
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
