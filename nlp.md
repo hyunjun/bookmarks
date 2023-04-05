@@ -804,6 +804,7 @@ NLP
     * [OpenAI - GPT-4 발표. ChatGPT Plus에서 GPT-4 모델 선택가능 | GeekNews](https://news.hada.io/topic?id=8697)
     * [IT TREND AI 시장 동향 : GPT-4의 등장](https://tech.kakaoenterprise.com/185)
     * [Implementing your own ChatGPT in Java :OpenAI Models GPT-4,GPT-3.5,GPT-3,Whisper,Codex,Moderation | by Meherban Singh | Mar, 2023 | Medium](https://medium.com/@singhmeherban84/implementing-your-own-chatgpt-in-java-openai-models-gpt-4-gpt-3-5-gpt-3-whisper-codex-moderation-37392587fc87)
+  * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR_smQgxY)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
   * [Hello-ChatGPT: Connect ChatGPT to Slackbot. Works via FastAPI](https://github.com/jybaek/Hello-ChatGPT)
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
