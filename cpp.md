@@ -258,6 +258,7 @@ C++
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Modern C++ Cookbook](https://github.com/utilForever/ModernCppCookbook)
 * [Refactoring](http://jczeus.com/refac_cpp.html)
+* [A Tour of C++, Third Edition](https://www.tandfonline.com/doi/full/10.1080/14697688.2023.2167667)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
