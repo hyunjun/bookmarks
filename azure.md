@@ -128,6 +128,7 @@ Azure
   * [Azure Kubernetes Service - Version Upgrade(서비스 영향 최소화하기) - 기록으로 남겨보자](https://ysyu.kr/2022/02/how-to-upgrade-azure-kubernetes-service-with-minimal-service-impact/)
   * [Docker | Azure Kubernetes Service | Azure DevOps - YouTube](https://www.youtube.com/playlist?list=PLtWisb74WDC9kSx9XdffAs8c0FNI3F_4z)
   * [AKS(Azure Kubernetes Service)에서 WASI(WebAssembly 시스템 인터페이스) 노드 풀을 만들어 WASM(WebAssembly) 워크로드(미리 보기)를 실행합니다. - Azure Kubernetes Service | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/aks/use-wasi-node-pools)
+  * [GitHub 액션을 통해 ASP.NET 앱을 AKS에 배포한 후 성능 테스트 자동화하기 - YouTube](https://www.youtube.com/watch?v=kwJt6GcVlt4)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
 * [Hashicorp Vault Azure Secrets Engine - Secure Your Azure Resources | TeKanAid](https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azure-resources)
