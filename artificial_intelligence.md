@@ -199,6 +199,7 @@ Artificial Intelligence
     * 이전엔 트레이닝만 얘기했지만 이젠 서비스 제공으로 넘어오면서 완전히 다른 게임
     * AI 회사에서 PM은 AI 논문도 이해하고 테스트하고 비즈니즈도 알아야 하는 상황
   * AI 산업에서 value capture가 일어나는 곳을 Tesla처럼 풀스택 서비스를 구축해서 버티컬 영역을 독점하거나 LLM을 API로 제공하는 서비스만 남을 것이라고 설명
+* [인공지능을 ‘구닥다리’ 아키텍처에 두는 건 심한 돈 낭비다](https://www.boannews.com/media/view.asp?idx=115506)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
