@@ -3081,6 +3081,7 @@ Javascript
   * [axios 대신 간단하게 사용하려고 만든 myFetch 함수 | 웹으로 말하기](https://mytory.net/2021/09/22/my-fetch.html)
   * [Dongjin | Axios의 사소하지만 슬픈 이야기](https://dongqui.github.io//posts/axios)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
+  * [next-tailwind-context-axios-starter: This is a starter template for building a web application using Next.js, Tailwind CSS, Context API, and Axios](https://github.com/Mohamed-avr/next-tailwind-context-axios-starter)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [boardgame.io](https://google.github.io/boardgame.io/) React + Redux + socket.io + koa.js
