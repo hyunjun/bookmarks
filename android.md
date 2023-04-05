@@ -137,6 +137,7 @@ Android
 * [Android에서 사용하는 CoroutineScope을 알아보자](https://thdev.tech/coroutines/2019/04/05/Init-Coroutines/)
 * [Coroutine(Kotlin)을 안드로이드에서 활용하는 방법 정리](https://developer88.tistory.com/223)
 * [Callback지옥으로부터 Coroutine까지의 긴 여정. 지금까지 비동기 작업의 처리를 위해서 해왔던 과정들을 되짚어봅니다… | by Ted Park | 박상권의 삽질블로그 | Sep, 2021 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/callback%EC%A7%80%EC%98%A5%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-coroutine%EA%B9%8C%EC%A7%80%EC%9D%98-%EA%B8%B4-%EC%97%AC%EC%A0%95-88d38d06449a)
+* [Pluu Dev - 기본적인 Coroutine과 Rx 에러 처리 비교](https://pluu.github.io/blog/android/coroutine/2023/04/05/error/)
 * [“DroidKnights 2019” MotionLayout 무릎까지 담궈보기](http://pluu.github.io/blog/android/2019/04/07/droidknights-motionlayout/)
 * [ConstraintSet 직접 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/10/18/Set-ContraintSet-Programmatically.html) ConstraintLayout
 * [I built an app to rig the chances of me getting a date](https://hackernoon.com/how-to-build-a-geographically-aware-location-based-android-dating-app-c1aaa26f2f60)
