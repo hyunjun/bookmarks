@@ -3527,6 +3527,7 @@ Programming
 * [디피-헬만 키교환 | 개발자 필수 암호학 - YouTube](https://www.youtube.com/watch?v=1FHVPUj3z_4)
 * [그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html) DRM, CDM, EME
 * [서버 키 관리 시스템 - 암호화에 사용하는 키는 어떻게 관리하나](https://blog.naver.com/pjt3591oo/223058716701)
+* [Data security at Agoda: How we automate encryption key rotation | by Chaiyatorn Niamrat | Agoda Engineering & Design | Mar, 2023 | Medium](https://medium.com/agoda-engineering/data-security-at-agoda-how-we-automate-encryption-key-rotation-e7ae37ea7885)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
