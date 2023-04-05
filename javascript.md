@@ -5307,6 +5307,7 @@ Javascript
 * [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
 * [Using React with Redux and TypeScript](https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6)
 * [A Type-Driven Approach To React and Redux Using TypeScript | by Drew Carver | Func Shui | Medium](https://medium.com/func-shui/a-type-driven-approach-to-react-and-redux-using-typescript-f93470b0d724)
+* [React Redux Toolkit with TypeScript | usage with Next 13 | app directory - YouTube](https://www.youtube.com/watch?v=lojIR6XehW8)
 * [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
 * [Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 * [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
