@@ -113,6 +113,7 @@ Elixir
 * [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition)
   * [elixir-in-action: Code samples for Elixir in Action book](https://github.com/sasa1977/elixir-in-action)
 * [#book Testing Elixir(2021) 독후감](http://ohyecloudy.com/pnotes/archives/book-testing-elixir-2021/)
+* [Programming Phoenix LiveView - UPDATED - YouTube](https://www.youtube.com/watch?v=GwUwKrJ_EBM)
 
 # Conference
 * [Simplifying Systems with Elixir • Sasa Juric • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=EDfm2fVS4Bo)
