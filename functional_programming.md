@@ -130,7 +130,6 @@ Functional Programming
 * [프론트엔드에서 함수형을 추구하면 안되는 걸까? - Slidev](https://moonlit-nougat-422445.netlify.app/1)
   * [GitHub - alstn2468/2022-jsconf-presentation: 🖥 2022 JSConf "프론트엔드에서 함수형을 추구하면 안되는걸까?" 발표 자료 🌈](https://github.com/alstn2468/2022-jsconf-presentation)
 * [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/)
-* [Functional Programming is Based](https://www.inner-product.com/posts/fp-is-based/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -507,6 +506,7 @@ Functional Programming
 * [Is FP Really That Easy to Reason About? (For Beginners) - YouTube](https://www.youtube.com/watch?v=DeEGitiMlJQ)
 * [Functional Programming anti-patterns in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-programming-anti-patterns-in-scala/)
 * [Functional Data Modeling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-data-modeling-in-scala/)
+* [Functional Programming is Based](https://www.inner-product.com/posts/fp-is-based/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
