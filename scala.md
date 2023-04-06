@@ -1602,7 +1602,6 @@ Scala
   * [What I learned from using #Scala #Metals for 2 years! - YouTube](https://www.youtube.com/watch?v=EGATBuojGA4)
   * [#Scala #Metals with Multiple Roots in a Workspace - YouTube](https://www.youtube.com/watch?v=alNInbRuQ_Y)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
-* MinIO [MinIO object storage scala client](https://medium.com/rahasak/minio-object-storage-scala-client-48c8535b9dd2)
 * [modux: Lightweight microservice server for Scala](https://github.com/modux4s/modux)
 * [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
   * [Mu-Scala 0.22: Distributed tracing](https://www.47deg.com/blog/mu-scala-0-22/)

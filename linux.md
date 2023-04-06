@@ -1251,7 +1251,6 @@ Linux
 * [Material Shell - A new desktop experience](https://material-shell.com/#material-shell)
 * [minimodem - general-purpose software audio FSK modem](http://www.whence.com/minimodem/)
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
-* [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * mlr [Miller 6.0.0 Documentation](https://miller.readthedocs.io/)
 * [Mosh: the mobile shell](https://mosh.org/)
   * [Mosh : Mobile Shell - 진화된 SSH | GeekNews](https://news.hada.io/topic?id=4810)
