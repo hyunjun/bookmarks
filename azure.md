@@ -213,6 +213,8 @@ Azure
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
+* [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
+  * [Exercise - Create a storage account using the Azure portal - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/create-azure-storage-account/5-exercise-create-a-storage-account)
 * [HackaLearn: HackaLearnx Korea 2021](https://github.com/devrel-kr/HackaLearn)
 * Microsoft Dev Box [Introducing Microsoft Dev Box](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-microsoft-dev-box/ba-p/3412063)
   * [Microsoft Dev Box 공개 | GeekNews](https://news.hada.io/topic?id=6631)
