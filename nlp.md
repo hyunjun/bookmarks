@@ -771,6 +771,10 @@ NLP
     * 코드 리뷰도 AI가 많은 것을 바꾸겠지만 프로토타이핑해보니 코드 컨텍스트에 대한 이해가 제한적이라 잘못된 제안을 하는 경우가 많았고 코드의 기밀성을 유지하기는 어려웠고 어떤 코드로 학습했는지 모르므로 편향성에 대해서도 알기 어려웠다고 함
   * [긴급 AI 인공지능 챗GPT 수익화 방법 - 진짜 전문가가 알려드립니다! - YouTube](https://www.youtube.com/watch?v=FkxnQpEDMrk)
   * [Can you use ChatGPT in VS Code?? - YouTube](https://www.youtube.com/watch?v=gDJzr9DBKTI)
+  * [What if ChatGPT was trained on decades of financial news and data? BloombergGPT aims to be a domain-specific AI for business news | Nieman Journalism Lab](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
+    * 금융 특화 데이터로 해당 분야 태스크에서 SOTA 기록
+    * 토큰 수를 7천억 개로 늘렸고 이 중 3630억 개는 블룸버그 자체 재무 데이터에서 추출
+    * 5B 모델로도 기존 다른 175B 모델의 성능을 능가. 앞으로 도메인 기반의 회사들이 지향해야 할 방향일 수 있음
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
