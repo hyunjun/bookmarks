@@ -1630,6 +1630,7 @@ App
     * [How do I get slack to remind me every fortnight from next Saturday - Stack Overflow](https://stackoverflow.com/questions/43288503/how-do-i-get-slack-to-remind-me-every-fortnight-from-next-saturday)
   * [슬랙봇 이모티콘 제작소 개발 그 뒷이야기!! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/lily-slack-emojibot/)
   * [How to use GPT3 on Slack? | 슬랙에서 GPT3 사용? 노코드로 만들기! - YouTube](https://www.youtube.com/watch?v=EGFEH2qGGQs)
+  * [Slack에 ChatGPT를 연결하여 업무에 활용해 보기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11072/)
   * [카카오페이 크루들의 회의를 책임지는 죠르디 봇을 소개합니다. | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/pay-meeting-bot-story/) 소소할 수 있지만 DT의 좋은 예
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
