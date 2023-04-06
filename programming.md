@@ -2647,6 +2647,7 @@ Programming
 * [Cloud-Native Progressive Delivery • Matt Turner • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sZjzLulL7Bo)
 * [Free alternatives to Heroku - DEV Community](https://dev.to/tuliocalil/free-alternatives-to-heroku-2kc1)
 * [‘클라우드 안 쓴다, 고정 관념 버린다’··· 한 SaaS 기업이 ‘서버’를 구매하는 사연 - CIO Korea](https://www.ciokorea.com/news/284167)
+* [“비용 차이 10배 이상” 클라우드보다 코로케이션이 HPC에 더 적합한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/285793)
 * [블로그 | 클라우드 비용을 절감하고 IT 운영을 개선하는 5가지 지혜 - CIO Korea](https://www.ciokorea.com/news/285685)
 * [클라우드 네이티브 가드레일이 개발 팀에 도움이 되는 5가지 이유 - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/guardrails)
 * [AWS, GCP, AZURE 쓰지 마세요](https://seokjun.kim/stop-using-aws-gcp-azure/)
