@@ -1670,6 +1670,7 @@ Programming Books
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
+* (NOT YET) [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
