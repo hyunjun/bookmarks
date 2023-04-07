@@ -2133,6 +2133,7 @@ Docker
 * [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku ](https://github.com/dokku/dokku)
   * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
+* [draft: A day 0 tool for getting your app on k8s fast](https://github.com/Azure/draft)
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
