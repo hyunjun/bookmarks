@@ -827,6 +827,7 @@ NLP
 * [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Like the eval method!](https://github.com/corca-ai/EVAL)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
   * [무료로 노트북에서도 실행 가능한 70억 파라미터 챗봇 - 테크레시피](https://techrecipe.co.kr/posts/52507)
+  * [😎경량화! 노트북에 구축하는 대규모 언어모델 GPT4All😎 (feat, ChatGPT, GPT3.5, LLaMA, Alpaca, Vicuna) - YouTube](https://www.youtube.com/watch?v=HewtI35-lp8)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
