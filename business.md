@@ -208,6 +208,8 @@ Business
 * [자유로운 조직문화가 부럽나요? 이를 위해 리더.. : 네이버블로그](https://blog.naver.com/hs_group/222809897411)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
+* [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
+* [다양한 척도와 사회 연결망 바라보기](https://brunch.co.kr/@graypool/917)
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
 * [가치와 믿음 그리고 가치 정렬 프로세스](https://brunch.co.kr/@graypool/712) alignment
 * [얼라인먼트위크 (1) 서로 다른 악기들이 이루는 하모니](https://blog.toss.im/article/alignmentweek23-1)
@@ -238,7 +240,6 @@ Business
       * 그러나 일반적인 VC와 달리 투자사가 exit을 할 때 그에 대한 보상이 없었다고 함
       * 당연히 경영진급의 좋은 인재들이 퇴사하고 더 이상 리크루팅도 어려운 상황이라고 함
       * 60세 당시 은퇴를 번복했던 게 악수였을까?
-* [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
 * [미션과 비전, 그리고 서비스](https://brunch.co.kr/@mojuns/16)
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
