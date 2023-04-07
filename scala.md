@@ -375,6 +375,7 @@ Scala
 * [Scala Resurrection – John A De Goes](https://degoes.net/articles/scala-resurrection)
 * [Exploring Binary Search - Chris Okasaki - Medium](https://medium.com/@cokasaki/497c7633578c)
 * [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/)
+* [Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -692,6 +693,7 @@ Scala
 * [Programming with Functions #3 - Pattern Matching - YouTube](https://www.youtube.com/watch?v=GzVpWORuVqE)
 * [Pattern Matching & Reflection | Functional Scala - YouTube](https://www.youtube.com/watch?v=Mfs3poORr8Q)
 * [Custom Pattern Matching in Scala - YouTube](https://www.youtube.com/watch?v=js2IgkNz1H0)
+* [Top 10 pattern matching tips in Scala | ScalaJobs.com](https://scalajobs.com/blog/top-10-pattern-matching-tips-in-scala/)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
@@ -2441,6 +2443,7 @@ Scala
   * [Introduction to mockito-scala — Part 4 - Bruno Bonanno - Medium](https://medium.com/@bruno.bonanno/introduction-to-mockito-scala-part-4-fefa49ea2e23)
 * [MUnit - Scala testing library with actionable errors and extensible APIs](https://scalameta.org/munit/)
   * [MUnit is a new Scala testing library](https://scalameta.org/munit/blog/2020/02/01/hello-world.html)
+  * [MUnit + Expecty = 💞 - YouTube](https://www.youtube.com/watch?v=B1QNJRrzdcM)
 * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
   * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
   * [Building useful Scalacheck Generators](https://medium.com/@supermanue/building-useful-scalacheck-generators-71635d1edb9d)
