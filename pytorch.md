@@ -535,4 +535,4 @@ PyTorch
 * [M1 iMac 24” 에 pytorch 를 돌려보았다](https://taekangwoo.notion.site/M1-iMac-24-pytorch-2b2998c452c2430e921399b67cae3299)
 * [Learn PyTorch for deep learning in a day. Literally. - YouTube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 * [파이토치 자세한 튜토리얼 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/torch-tutorial/#22-%EA%B0%80%EC%A4%91%EC%B9%98-%EC%B4%88%EA%B8%B0%EA%B0%92-%EC%83%9D%EC%84%B1)
-* [파이토치 - 빠른시작 따라하기! 한국 사용자 모임 공식문서 번역본 - YouTube](https://www.youtube.com/watch?v=CVrT23QVfxA)
+* [파이토치 PyTorch - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmr_SZfUOk2ygWjEyvOqcjB2)
