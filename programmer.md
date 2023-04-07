@@ -180,6 +180,8 @@ Programmer
 * [“좋은 커리어, 자신감에서 나온다”](https://v.daum.net/v/20221110155709870)
 * [27년차 실리콘밸리 개발자가 ‘10번의 이직’ 후 알게 된 것들](https://eopla.net/magazines/80)
 * [2022 SILLY TALK | 한기용 그렙 USA CTO의 “풀타임으로 일했던 12개의 회사썰 모음ZIP” - YouTube](https://www.youtube.com/watch?v=Is2EfBruplI)
+* [한기용 님 특강 @Viva Republica (Toss)](https://www.linkedin.com/posts/younghwa-kang-a27316b4_28%EB%85%84%EC%B0%A8-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%9C%EA%B8%B0%EC%9A%A9-%EB%8B%98-%ED%8A%B9%EA%B0%95-viva-republica-activity-7047355476421865473-im04/)
+  * 멘토링은 어떻게 더 잘하게 되나요? A5. 단순하다. 한만큼 는다. 멘토링을 스케일업 하기 위한 방법을 딱히 찾지는 못했다
 * [구글 13년 차가 넥스트스텝으로 선택한 야놀자 | 원티드](https://www.wanted.co.kr/events/22_07_s12_b01) 개인의 이야기와 커리어 이야기가 섞여 있고 일반적인 이야기지만 좋음
 * [From A Dropout to A Core Contributor to Deno, Here’s The Story of My 10-year Programming Career | by bytefish | Frontend Canteen | Aug, 2022 | Medium](https://medium.com/frontend-canteen/from-a-dropout-to-a-core-contributor-to-deno-heres-the-story-of-my-10-year-programming-career-d54a1a7add0f)
   * 대학을 중퇴하고 10년 뒤에 Deno의 핵심 기여자가 된 [justjavac (迷渡)](https://github.com/justjavac)의 이야기
