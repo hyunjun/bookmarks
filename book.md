@@ -1161,6 +1161,8 @@ Book
   * 탐라 문920.3-만96ㅈ-2 우당 문920-한49ㅈ-2
 * (NOT YET) [만화로 배우는 서양사 중세 3](https://hanbit.co.kr/store/books/look.php?p_code=B5871685999)
   * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
+* (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
+  * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
