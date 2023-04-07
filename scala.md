@@ -215,6 +215,7 @@ Scala
 * [Trying out Unison, part 1: code as hashes](https://softwaremill.com/trying-out-unison-part-1-code-as-hashes/)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
 * [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
+* [Immutability by Example - Building a Purely Functional Data Validator | ScalaJobs.com](https://scalajobs.com/blog/immutability-by-example/)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
 * [Singleton Object in Scala](https://medium.com/@senthil.nayagan/singleton-object-in-scala-63fa8366bdfc)
 * [Singleton types - Scala tutorial - YouTube](https://www.youtube.com/watch?v=DBlhR5K1GxU)
