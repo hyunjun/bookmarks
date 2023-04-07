@@ -1828,6 +1828,7 @@ Programming Books
   * 한라 005.58-오76ㅍ 우당 문005.11-오77ㅍ
 * (NOT YET) [플러터 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B6928806254)
   * 한라 005.58-윈27ㅍ
+* (NOT YET) [Do it! 깡샘의 플러터&다트 프로그래밍 책의 실습 영상 - YouTube](https://www.youtube.com/playlist?list=PLYlZbv3fX7WvBf2H_dt1RHV1my2pkm6m6)
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
