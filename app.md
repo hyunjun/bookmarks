@@ -65,6 +65,8 @@ App
   * [Screenfly - The Ultimate Screen Testing Tool 📱 - Blue Tree](https://bluetree.ai/screenfly/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
+* Allo [알로: 즉각적으로, 회사에 ‘극단적 가시성'을 만들어내세요](https://allo.io/)
+  * [재택근무 끝내야 할까? 알로(Allo)의 직원 ‘활동 기록’ 공유로 해답을 찾다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/262627)
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
