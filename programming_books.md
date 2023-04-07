@@ -3324,6 +3324,7 @@ Programming Books
   * [개발자 북클럽 (3회) 클린 코드 이제는 파이썬이다 - YouTube](https://www.youtube.com/watch?v=Co_RHwKXZQ4)
   * [개발자 북클럽 (4회) 클린 코드 이제는 파이썬이다 - YouTube](https://www.youtube.com/watch?v=Ml2U6ONR_FA)
   * [개발자 북클럽 (5회) 클린 코드 이제는 파이썬이다 - YouTube](https://www.youtube.com/watch?v=Og6ZD__YCAI)
+  * [개발자 북클럽 (6회) 클린 코드 이제는 파이썬이다 - YouTube](https://www.youtube.com/watch?v=9a-Dye4KcxU)
 * [파이써닉한 파이썬을 익히는 간결한 안내서 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/08/17/%ed%8c%8c%ec%9d%b4%ec%8d%a8%eb%8b%89%ed%95%9c-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%84-%ec%9d%b5%ed%9e%88%eb%8a%94-%ea%b0%84%ea%b2%b0%ed%95%9c-%ec%95%88%eb%82%b4%ec%84%9c/)
   * ★★★★☆ 2022.10.21 데이비드 비즐리의 책이란 점에서부터 일단 믿고 볼 수 있음
   * 한라 005.133-비77ㅍ
