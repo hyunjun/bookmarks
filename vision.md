@@ -343,6 +343,7 @@ Vision
 * [데이터야놀자2021 Transfer Learning으로 효율적인 이미지 분류모델 만들기 - 박경호/정현희님 - YouTube](https://www.youtube.com/watch?v=EVCKPRmlQGA)
 * [donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 * [fight_detection: Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition](https://github.com/imsoo/fight_detection)
+* [Painter & SegGPT Series: Vision Foundation Models from BAAI](https://github.com/baaivision/Painter) SegGPT: Segmenting Everything In Context
 * [segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything)
   * [Introducing Segment Anything: Working toward the first foundation model for image segmentation](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)
     * 모델의 가장 큰 특징은 foundation model이라는 점
