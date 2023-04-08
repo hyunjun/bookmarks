@@ -4658,6 +4658,7 @@ Programming
   * [3월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/03/b-3-3.html)
   * [3월 4주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/03/b-3-4.html)
   * [3월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/04/b-3-5.html)
+  * [4월 1주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/04/b-4-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -4864,6 +4865,9 @@ Programming
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
+  * [Antlr4 demo for Clojure](https://github.com/philoskim/antlr-demo)
+  * [plang](https://github.com/urstory/plang)
+    * [간단한 프로그래밍 언어 만들기](https://obsidian-marquess-874.notion.site/32db4bb2b43b487aa17000f7f0f7cd95)
 * [Tree-sitter｜Introduction](https://tree-sitter.github.io/tree-sitter/)
   * ["Tree-sitter - a new parsing system for programming tools" by Max Brunsfeld - YouTube](https://www.youtube.com/watch?v=Jes3bD6P0To)
 
@@ -5531,6 +5535,7 @@ Programming
 * [Redis 서비스를 만들어가는 QA Engineer의 기록](https://tech.kakaoenterprise.com/183)
 * [비용 효율적인 테스트 디자인하기 | Hewon Jeong](https://hewonjeong.github.io/cost-effective-tests/)
 * [Unlocking Engineering Productivity Through Unlimited Isolated Test Environments :: Endowus Tech](https://tech.endowus.com/unlocking-engineering-productivity/)
+* [Features of well-prepared tests | Bartosz Górka](https://bartoszgorka.com/features-well-prepared-tests)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [testcontainers](https://github.com/testcontainers)

@@ -802,8 +802,6 @@ Clojure
   * [Clojure CLI Tool for Compiling Java Without Code – Services Diplomatiques et Consulaires – Enzyklopädien, Fachbücher, Schulbücher](https://www.duthel.info/clojure-cli-tool-for-compiling-java-without-code/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
-* [ANTLR (ANother Tool for Language Recognition) - a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/) java
-  * [Antlr4 demo for Clojure](https://github.com/philoskim/antlr-demo)
 * [arachne-framework.org](http://arachne-framework.org/)
   * [arachne-framework](https://github.com/arachne-framework)
   * 아라크네 튜토리얼
