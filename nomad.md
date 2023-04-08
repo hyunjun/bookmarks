@@ -378,3 +378,4 @@ Nomad & Remote
 * [재택근무 보편론 — 보통의 언어](https://www.saeyoonjeong.com/blog/remote-work)
 * [글로벌 칼럼 | 재택근무 직원을 감시하고 통제할 필요가 전혀 없는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/277321)
 * [세계 최대 규모의 완전 원격근무 기업 CEO에게 배우기](https://brunch.co.kr/@graypool/897)
+* [Remote Teams: 5 Things I'm Doing Wrong & Maybe You Should Too • Ted Tencza • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=SBZJu7M04Ok)
