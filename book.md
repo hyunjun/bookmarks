@@ -464,6 +464,10 @@ Book
 * (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
+* (NOT YET) [어치브 모어 저자 김성미 인터뷰🎤 - YouTube](https://www.youtube.com/watch?v=D_CznCI0fhY)
+  * 우당 문325.211-김53ㅇ
+* (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
+  * 우당 문638.3-김51ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -1372,6 +1376,10 @@ Book
   * 한라 180-이92ㅎ-1 탐라 문180-이91ㅎ-1
 * (NOT YET) [할짝 심리학 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258170938)
   * 한라 180-이92ㅎ-2 탐라 문180-이91ㅎ-2 우당 문180-이91ㅎ-2
+* (NOT YET) [빠르게 실패하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704053)
+  * 한라 199.1-크294ㅃ 탐라 문199.1-크233ㅃ 우당 문199.1-크233ㅃ
+* (NOT YET) [정의 중독 - 르몽드디플로마티크](https://www.ilemonde.com/news/articleView.html?idxno=15042)
+  * 한라 181.3-나872ㅈ 우당 문331.1-나821ㅈ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
