@@ -1404,6 +1404,7 @@ Java
   * [Monitoring Jenkins with Java Melody - YouTube](https://www.youtube.com/watch?v=FK5EW2AJ6_k)
   * [Learn Jenkins by Building a CI/CD Pipeline](https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/)
   * [How to Validate Jenkinsfile using Visual Studio Code](https://www.fosstechnix.com/validate-jenkinsfile-using-visual-studio-code/)
+  * [Jenkins Pipeline 구축](https://velog.io/@rnqhstlr2297/Jenkins%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-Pipeline-%EA%B5%AC%EC%B6%95)
   * [jenkins-stack-kubernetes: Scripts and manifests to deploy complete Jenkins on Kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes)
   * [jenkins-tutorial: The complete Jenkins tutorial, reference, awesome, examples](https://github.com/ssbostan/jenkins-tutorial)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
