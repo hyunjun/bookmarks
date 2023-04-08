@@ -1386,8 +1386,10 @@ Programming Books
 * (NOT YET) [파이썬을 활용한 머신러닝 자동화 시스템 구축 | 위키북스](https://wikibook.co.kr/automl/)
 * (NOT YET) [그림으로 배우는 StatQuest 머신러닝 강의](https://jpub.tistory.com/1376)
   * [그림으로 배우는 StatQuest 머신러닝 강의](https://jhrogue.blogspot.com/2023/03/statquest.html)
-* (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml/)
+* (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml)
   * 우당 문004.73-스831ㄱ
+  * [Graph-Machine-Learning: Graph Machine Learning, published by Packt](https://github.com/PacktPublishing/Graph-Machine-Learning)
+  * [9781800204492_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781800204492_ColorImages.pdf)
 * (NOT YET) [머신러닝 시스템 설계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1811121220)
 
 ## Keras
