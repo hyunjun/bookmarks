@@ -451,10 +451,10 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
-* (NOT YET) [매니지먼트 3.0 - 모두가 행복한 애자일 매니지먼트 | 에이콘출판사](http://www.acornpub.co.kr/book/managing-happiness)
-  * 우당
-* (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect)
-  * 우당
+* (NOT YET) [매니지먼트 3.0 - 모두가 행복한 애자일 매니지먼트 | 에이콘출판사](http://www.acornpub.co.kr/book/managing-happiness/)
+  * 우당 문325.2-아843ㅁ
+* (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect/)
+  * 우당 문005.12-알48ㅇ
 * (NOT YET) [다시 장인 정신 《소프트웨어 장인 정신 이야기》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/02/28/%EB%8B%A4%EC%8B%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%E3%80%8A%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%E3%80%8B)
   * 한라
 
@@ -640,8 +640,8 @@ Programming Books
   * [awsb: 《AWS 컨테이너 설계와 구축 철저 입문》 백엔드 예제 파일](https://github.com/wikibook/awsb)
 * (NOT YET) [AWS 쿡북 | 에이콘출판사](http://acornpub.co.kr/book/aws-cookbook/)
   * 한라 004.588-컬878ㅇ
-* (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide/)
-  * 우당
+* (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide)
+  * 우당 문004.588-우63ㅇ
 
 # Android
 
@@ -1386,8 +1386,8 @@ Programming Books
 * (NOT YET) [파이썬을 활용한 머신러닝 자동화 시스템 구축 | 위키북스](https://wikibook.co.kr/automl/)
 * (NOT YET) [그림으로 배우는 StatQuest 머신러닝 강의](https://jpub.tistory.com/1376)
   * [그림으로 배우는 StatQuest 머신러닝 강의](https://jhrogue.blogspot.com/2023/03/statquest.html)
-* (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml)
-  * 우당
+* (NOT YET) [그래프 머신러닝 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-ml/)
+  * 우당 문004.73-스831ㄱ
 * (NOT YET) [머신러닝 시스템 설계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1811121220)
 
 ## Keras
@@ -3734,8 +3734,8 @@ Programming Books
 * (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
-* (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software)
-  * 우당
+* (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software/)
+  * 우당 문005.1-샤225ㅅ
 * (NOT YET) [쉽게 배우는 소프트웨어 공학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71471277)
 * (NOT YET) [Code Simplicity : 소프트웨어 생명 연장을 위한 원칙 | 웹으로 말하기](https://mytory.net/archives/9352)
   * [버그를 줄이는 확실한 방법: 코드를 줄이기 | 웹으로 말하기](https://mytory.net/archives/13983)
