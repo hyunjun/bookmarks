@@ -346,6 +346,7 @@ Go
 * [Ultimate Go: Advanced Engineering - YouTube](https://www.youtube.com/playlist?list=PLADD_vxzPcZC0TWwc1ZNV8KALyeNVC3cA)
 * [섣부르지 않은 최적화 기법](https://velog.io/@skynet/%EC%84%A3%EB%B6%80%EB%A5%B4%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EB%B2%95)
 * [Go + Firebase File Download - YouTube](https://www.youtube.com/watch?v=1TknYcyuyqk)
+* [Easily send an sms with Go using Twilio API in 8 minutes - YouTube](https://www.youtube.com/watch?v=VtP6bqWkxgU)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
