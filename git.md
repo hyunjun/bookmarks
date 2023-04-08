@@ -127,7 +127,6 @@ Git
 * [github : 유용한 기능들](https://ash84.net/2018/02/27/about-github/)
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
-* [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
 * [깃허브 및 관련 서비스 (2018-06-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=F2uUDeP2Xqs)
 * [Github를 이용해서 Project Management 하는 방법 및 전체적인 프로세스에 대해서 정리](https://github.com/cheese10yun/github-project-management#ci--test-coverage)
 * github 하나로 1인 개발 워크플로우 완성하기
@@ -601,9 +600,11 @@ Git
   * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
+  * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
   * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
   * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
   * [Git Flow에서 트렁크 기반 개발으로 나아가기 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
+  * [매일 배포하는 팀이 되는 여정(1) — 브랜치 전략 개선하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-1-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1a1df85b2cff)
   * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
