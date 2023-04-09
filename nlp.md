@@ -464,6 +464,7 @@ NLP
 * [Why and how to use BERT for NLP Text Classification? - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/why-and-how-to-use-bert-for-nlp-text-classification/)
 * [Email Spam Detection using Pre-Trained BERT Model : Part 1 - Introduction and Tokenization](https://blog.madhukaraphatak.com/bert-email-spam-1)
 * [Email Spam Detection using Pre-Trained BERT Model : Part 2 - Model Fine Tuning](https://blog.madhukaraphatak.com/bert-email-spam-2)
+* [Aman's AI Journal • Primers • Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
 * [Aleksander Molak - Applying contrastive learning to fight anisotropy in language models - YouTube](https://www.youtube.com/watch?v=IdI3ccktbKw)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
