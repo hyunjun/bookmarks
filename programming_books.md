@@ -3471,6 +3471,7 @@ Programming Books
 * (NOT YET) [파이썬 웹 스크레이핑 완벽 가이드 | 위키북스](https://wikibook.co.kr/pyscraping/)
 * (NOT YET) [FastAPI를 사용한 파이썬 웹 개발](https://hanbit.co.kr/store/books/look.php?p_code=B9703548802)
   * 탐라
+  * [FastAPI를 사용한 파이썬 웹 개발](https://jybaek.tistory.com/992)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
