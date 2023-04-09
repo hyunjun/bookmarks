@@ -458,8 +458,6 @@ Book
 * (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
 * (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
   * 우당 문337.2-베238ㅅ
-* (NOT YET) [인문학 거저보기 : 서양철학 편](https://hanbit.co.kr/store/books/look.php?p_code=B9234684497)
-  * 탐라 문160-지91ㅇ 우당 문160-지91ㅇ
 * (NOT YET) [올림포스 연대기](https://hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
@@ -1314,6 +1312,9 @@ Book
 * [고양이 맙소사, 소크라테스!](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286406986)
   * 한라 104-박95ㄱ 탐라 문001.3-박95ㄱ 우당 문001.3-박95ㄱ
   * ★★☆☆☆ 2022.07.09
+* [인문학 거저보기 : 서양철학 편](https://hanbit.co.kr/store/books/look.php?p_code=B9234684497)
+  * ★★★☆☆ 2023.04.09 서양철학이라기보다는 서양철학자에 대한 모음이라 가볍고 재미있게 볼 수 있음
+  * 탐라 문160-지91ㅇ 우당 문160-지91ㅇ
 * (NOT YET) [데리다와의 데이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298757673)
   * [데리다와의 데이트 (1) 자크 데리다와 환대 : 네이버 블로그](https://blog.naver.com/wei-jung/222087395769)
 * (NOT YET) [무력할 땐 니체](https://brunch.co.kr/@cliche-cliche/166)
