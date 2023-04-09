@@ -262,6 +262,7 @@ C
 * [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
 * [Makefiles in 2019 — Why They Still Matter](https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/)
 * [**Makefile Tutorial By Example**](https://makefiletutorial.com/)
+* [Makefile로 스크립트 관리하기 | DevelopersIO](https://dev.classmethod.jp/articles/makefile-for-scripts/)
 
 # Library
 * [**invisible-island.net**](http://invisible-island.net/) add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
