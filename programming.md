@@ -1624,6 +1624,7 @@ Programming
 * [Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
 * [Event Sourcing: The bad parts • Greg Young • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=K4bj31fJGFk)
 * [What is Event Sourcing Design Pattern in Microservice Architecture? How does it work? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/what-is-event-sourcing-design-pattern-in-microservices-architecture-how-does-it-work-b38c996d445a)
+* [What is CQRS (Command and Query Responsibility Segregation) Pattern in Microservices Architecture? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-cqrs-command-and-query-responsibility-segregation-pattern-7b1b38514edd)
 * [cqrs-journey-guide-korean: 🚘 CQRS Journey 의 한국어판 번역본 (Korean version translation of Microsoft's CQRS Journey)](https://github.com/dhslrl321/cqrs-journey-guide-korean)
 
 ## Architecture Distributed
