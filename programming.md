@@ -5331,6 +5331,7 @@ Programming
 * [Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ephM9Nw9pAA)
 * [Developer Joy – How great teams get s%\*t done by Sven Peters - YouTube](https://www.youtube.com/watch?v=Aws4CIe426I)
 * [Software Engineering vs Software Craftsmanship • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=PvxQDEFTJzs)
+* ["우수한 개발팀"의 지표를 딱 하나 꼽으라면](https://typefully.com/dylayed/RPoCpU2)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
