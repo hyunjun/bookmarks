@@ -105,6 +105,7 @@ Elixir
 * [Elixir Book Club](https://elixirbookclub.com/)
 * [ElixirClub](https://www.elixirclub.org/)
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
+* [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 
 # API
 * sigils [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
