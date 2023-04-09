@@ -349,6 +349,7 @@ Vision
     * 모델의 가장 큰 특징은 foundation model이라는 점
     * 기존에는 language model에서는 foundation model이라는 개념이 많이 도입되었던 것에 비해 image에 대한 특정 task에 대한 foundation model이 도입되지 않았음
     * 이번 모델의 데모나 성능을 보면 image segmentation을 하고 도메인에 상관없이 제로샷으로 바로 작동
+  * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
 
