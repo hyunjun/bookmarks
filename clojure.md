@@ -430,6 +430,7 @@ Clojure
 * [Fix your Clojure code: Clojure comes with design patterns (Part 2)](https://blog.janetacarr.com/fix-your-clojure-code-clojure-comes-with-design-patterns-part-2/)
 * [Model-View-Controller, a classic architectural pattern in Clojure](https://blog.janetacarr.com/model-view-controller-a-classic-architectural-pattern-in-clojure)
 * [temporal and action properties](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
+* [Clojure visual-tools meeting 17 - various updates - YouTube](https://www.youtube.com/watch?app=desktop&v=OwcoAbsJP8g)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
