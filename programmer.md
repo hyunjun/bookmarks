@@ -96,6 +96,7 @@ Programmer
 * [개발자의 성장 가능성은 어떻게 측정 가능한가?. 간혹 신입 개발자를 채용한다는 회사의 이야기를 듣다보면, 나를… | by 조은, John Cho | Jul, 2022 | Medium](https://euncho.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B8%A1%EC%A0%95-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-238dd3f0f33)
 * [지속가능한 개발자 성장 스킬 5가지](https://f-lab.kr/blog/sustainable-developer-growth-skills)
 * [일의 난이도 높이기](https://jojoldu.tistory.com/701) 성장
+* [인풋 말고 아웃풋](https://velog.io/@eddy_song/input-output)
 * [못하지 않는 개발자 되기 - 신입용 - YouTube](https://www.youtube.com/watch?v=wogrRJlqUFw)
 * [개발자로 살아남는 "진짜" 방법](https://f-lab.kr/blog/how-to-be-good-developer)
 * [쉽게 살 수 있을까 ? :: 개발자 성장에 대한 강연.](https://hl1itj.tistory.com/249)
@@ -225,6 +226,7 @@ Programmer
 * [넓고 얕게 알기 vs 좁고 깊게 알기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/03/26/Generality-vs-Specialty.html) generalist vs. specialist
 * [How to be a -10x Engineer](https://taylor.town/-10x)
   * [-10x 개발자 | Daniel Lee](https://typefully.com/dylayed/2tMRxRD)
+* [좋은 프로그래밍은 글쓰기와 닮아있다](https://velog.io/@eddy_song/writing-and-programming)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
