@@ -2190,6 +2190,8 @@ Deep Learning
 * [Attention (7): Attention is All You Need, Transformers (1)](https://www.youtube.com/watch?v=Ng9MRx76zS8)
 * [Attention (8): Attention is All You Need, Transformers (2)](https://www.youtube.com/watch?v=fTtCakv8a_M)
 * [Transformers from Scratch](https://e2eml.school/transformers.html)
+* [Aman's AI Journal • Primers • Transformers](https://aman.ai/primers/ai/transformers/)
+* [Aman's AI Journal • Primers • Generative Pre-trained Transformer (GPT)](https://aman.ai/primers/ai/gpt/)
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * [어텐션 메커니즘과 transfomer(self-attention) | by platfarm tech team | platfarm | Medium](https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225)
