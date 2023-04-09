@@ -805,6 +805,7 @@ Scala
     * [Merging sequence of Futures of Lists into one Future containing merged list](https://gist.github.com/akkomar/04945b5f0384717917f8)
   * [Are Scala Futures the past?. We all started with Scala Futures. They… | by Stéphane Derosiaux | Medium](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
+  * [A Little Guide on Using Futures for Web Developers | svese Engineering Blog](https://svese.dev/a-little-guide-on-using-futures-for-web-developers/)
   * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
   * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
@@ -826,7 +827,6 @@ Scala
   * [Programming with Functions #6 — Thread safety | by Maciek Gorywoda | Mar, 2021 | Medium](https://makingthematrix.medium.com/programming-with-functions-6-thread-safety-7a5e1b361c8e)
     * [Programming with Functions #6: Thread safety - YouTube](https://www.youtube.com/watch?v=4kvZR3jgcds)
   * [Future.transform in Scala 2.12](https://nmatpt.com/blog/2017/02/09/scala-2.12-future-transform/)
-  * [A Little Guide on Using Futures for Web Developers | svese Engineering Blog](https://svese.dev/a-little-guide-on-using-futures-for-web-developers/)
   * [map(), flatMap() on Futures & Options in scala - Knoldus Blogs](https://blog.knoldus.com/map-flatmap-on-futures-options-in-scala/)
   * [The worst thing in our Scala code: Futures | REA Group Ltd](https://www.rea-group.com/blog/the-worst-thing-in-our-scala-code-futures/)
   * [How to compose Future and Option in Scala – Loïc's Blog](https://loicdescotte.github.io/posts/scala-compose-option-future/)
@@ -1740,6 +1740,7 @@ Scala
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Turbolift: Algebraic Effects for Scala 3](https://marcinzh.github.io/turbolift/)
+* [Tyrian - Tyrian](https://tyrian.indigoengine.io/) Elm-inspired, purely functional UI library for Scala 3
 * [yona: Project Hosting SW, DEMO](https://github.com/yona-projects/yona)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
 * [whatsub: A tool for subtitles - conversion and resync](https://github.com/Kevin-Lee/whatsub)
