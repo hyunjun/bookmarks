@@ -1586,6 +1586,7 @@ AWS
   * [Presence API - Part 5 (Unit Tests, Circle CI, Codecov)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%205%20%28Unit%20Tests,%20Circle%20CI,%20Codecov%29)
 * [pingcloud-cli - CLI application to check http request latency of AWS, Google Cloud Platform and Azure](https://github.com/reoim/pingcloud-cli)
 * [quickstart-examples: Get started on building AWS Quick Starts by using our code examples](https://github.com/aws-quickstart/quickstart-examples)
+* [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 * [Sleemo – A new way to develop serverless GraphQL backend using AWS AppSync | Developers.IO](https://dev.classmethod.jp/articles/sleemo-introduction/)
 * [Smithy — Smithy 1.0 documentation](https://awslabs.github.io/smithy/)
   * [AWS Smithy - 서비스 및 SDK 정의용 언어 | GeekNews](https://news.hada.io/topic?id=4218)
