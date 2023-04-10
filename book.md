@@ -1152,8 +1152,6 @@ Book
 * (NOT YET) [30년 전쟁: 오늘의 유럽을 낳은 최초의 영토 전쟁 1618-1648](https://www.yna.co.kr/view/AKR20110615079500005)
   * 한라 920.42-웨78ㅅ
 * (NOT YET) [군중의 망상](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308611888)
-* (NOT YET) [만화로 배우는 와인의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B5656371314)
-  * 탐라 문573.2-시31ㅇ
 * (NOT YET) [『개발 없는 개발』을 읽고](https://nocturnal-landscape.tistory.com/155)
   * 우당 문911.06-허57ㄱ
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
@@ -1656,6 +1654,9 @@ Book
   * ★★★☆☆ 2022.11.06
   * 탐라 문573.2-정17ㄴ
   * `많은 사람들이 효모는 한 종류의 균이라 생각하지만 사실 당분을 알코올과 이산화탄소로 발효시킬 수 있는 미생물 중 사람에게 해로운 물질을 내뿜지 않아 단독으로 빵이나 술을 만들 수 있는 미생물들을 통칭해서 효모로 부를 수 있으며 그 종류는 굉장히 다양하다.`
+* [만화로 배우는 와인의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B5656371314)
+  * ★★★☆☆ 2023.04.10 남아메리카는 아예 따로 설명도 없고, 그나마 북미/호주는 몇 장 정도로 처리했다는 점에서 세계관에 대한 불쾌감은 조금 있으나 전반적으로 보는 재미는 있음
+  * 탐라 문573.2-시31ㅇ
 * (NOT YET) [와인의 맛](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292988072&start=slayer)
   * 탐라 문594.392-로31ㅇ
 * (NOT YET) [와인 폴리 매그넘 에디션](https://blog.naver.com/dolmory9/221762238220)
