@@ -762,6 +762,7 @@ Java
 * [뒤늦게 배워보자, Java 8 Part. 8](https://www.sangkon.com/java8_study_part8/)
 * [Vavr’s flatMap in action](https://blog.softwaremill.com/vavrs-flatmap-in-action-a975a99c4319)
 * [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
+* [Java에서의 패턴 일치 – 바쁜 개발자를 위한 5가지 예시 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/04/pattern-matching-in-java-5-examples-for-busy-developers/)
 * [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
 * [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 * [Java 8 - Map and Reduce Example Tutorial | Java67](https://www.java67.com/2016/09/map-reduce-example-java8.html)
