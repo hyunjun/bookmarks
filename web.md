@@ -1631,6 +1631,7 @@ Web
 * [Speeding up this site by 50x](https://danluu.com/octopress-speedup/)
 * [**When Network is Faster than Cache – Simon Hearne**](https://simonhearne.com/2020/network-faster-than-cache/)
 * [풀버전 박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드) - YouTube](https://www.youtube.com/watch?v=HSNyJnobBws)
+* [Lazy Loading을 활용한 Web Vital개선 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/lazy-loading-to-improve-web-vitals)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
