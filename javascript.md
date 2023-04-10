@@ -3656,6 +3656,7 @@ Javascript
 * [How to properly define state in React components](https://itnext.io/how-to-properly-define-state-in-react-components-47544eb4c15d)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
+* [3 Best ways to Learn React Native for App Development in 2023 | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/3-ways-to-learn-react-native-for-app-development-4b73828e65cd)
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
 * [리액트 Higher-order Component (HOC)](https://velopert.com/3537)
 * [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
