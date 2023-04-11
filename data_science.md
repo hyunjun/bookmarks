@@ -830,6 +830,13 @@ Data Science
 * [이상열, Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019/ssuser593481/ndc19interpretable-recommender-system-ndc2019)
 * [브런치 추천의 힘에 대한 6가지 기술(記述)](https://brunch.co.kr/@kakao-it/333)
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
+* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
+  * 추천과 검색의 시스템 디자인을 두 축(Offline vs Online 환경 / Candidate Retrieval vs Ranking)으로 나누어 분석
+    * 2 X 2에 Component들을 배치해보면 링크의 그림 같이 생각 가능
+    * 저자는 Alibaba, Facebook, JD, Doordash에서 공유한 시스템 디자인 사례들을 이 프레임에 맞춰 분석
+    * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
+  * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
+* [Offline to Online: Feature Storage for Real-time Recommendation Systems with NVIDIA Merlin | NVIDIA Technical Blog](https://developer.nvidia.com/blog/offline-to-online-feature-storage-for-real-time-recommendation-systems-with-nvidia-merlin/)
 * [랭킹 시스템 평가 방법 (MRR, DCG)](https://www.youtube.com/watch?v=61OcZ4GuFTk)
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
 * [Using machine learning to predict what file you need next](https://blogs.dropbox.com/tech/2019/05/content-suggestions-machine-learning/)
@@ -874,12 +881,6 @@ Data Science
     * 또한 한 유저의 글이 랭킹 점수가 비슷해 피드에 연달아 나온다면 유저 경험이 좋지 않기 때문에 순서를 다시 Ordering 할 필요 존재
 * [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
 * [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
-* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
-  * 추천과 검색의 시스템 디자인을 두 축(Offline vs Online 환경 / Candidate Retrieval vs Ranking)으로 나누어 분석
-    * 2 X 2에 Component들을 배치해보면 링크의 그림 같이 생각 가능
-    * 저자는 Alibaba, Facebook, JD, Doordash에서 공유한 시스템 디자인 사례들을 이 프레임에 맞춰 분석
-    * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
-  * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
 * [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 * [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
 * [카카오 AI추천 : 카카오의 콘텐츠 기반 필터링 (Content-based Filtering in Kakao) – tech.kakao.com](https://tech.kakao.com/2021/12/27/content-based-filtering-in-kakao/)
