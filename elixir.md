@@ -206,6 +206,7 @@ Elixir
 
 # TDD test
 * [An Introduction to Test Factories and Fixtures for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/02/28/an-introduction-to-test-factories-and-fixtures-for-elixir.html)
+* [An Introduction to Mocking Tools for Elixir | AppSignal Blog](https://blog.appsignal.com/2023/04/11/an-introduction-to-mocking-tools-for-elixir.html)
 
 # Tutorial
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
