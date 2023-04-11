@@ -996,6 +996,8 @@ Clojure
   * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
   * [html-to-hiccup - Emacs package that turns HTML into Hiccup syntax, a notation popular when doing Clojure/ClojureScript web development](https://github.com/plexus/html-to-hiccup)
   * [xml-hiccup: Convert XML into Hiccup in Clojure and ClojureScript](https://github.com/kuhumcst/xml-hiccup)
+* [hike](https://github.com/pixelated-noise/hike)
+  * [Hike - Deriving identity in mutable grids - Pixelated Noise Blog](https://www.pixelated-noise.com/blog/2022/03/01/hike/index.html)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [holy-lambda: The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime](https://github.com/FieryCod/holy-lambda)
 * [holy-lambda-ring-adapter: An adapter between Ring core request/response model and Holy Lambda. Run Ring applications on AWS Lambda](https://github.com/FieryCod/holy-lambda-ring-adapter)
