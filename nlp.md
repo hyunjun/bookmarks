@@ -1184,6 +1184,7 @@ NLP
   * [한국어 모델이 따로 필요한가? 요즘 multilingual LLM 시대로 가고 있지 않나?](https://www.facebook.com/groups/255834461424286/?multi_permalinks=1995742284100153)
 * [슈퍼컴 필요없는 소형 언어모델 'sLLM' 급부상 < 트랜드 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=150299)
 * [Schillace laws of semantic AI 스췰라스(Schillace)의 법칙 스췰라스(Schillace)의 법칙](https://www.facebook.com/seungjoon.choi/posts/pfbid0JRCoWbt7wZicmYX6G2XyPSxUSXqoRHK29vvWhTbfXbgmKah9jbvPMNisbb6pksnKl)
+* [LLaMA SFT RLHF & etc.](https://www.facebook.com/likejazz/posts/pfbid0229K3D55aH2phKU1WMEmx3FjpMQhBdkNn4U2Hz9NWdTsEfpBuNMMyRmhaBk1awt3Xl)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback - Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
