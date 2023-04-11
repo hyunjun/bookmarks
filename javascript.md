@@ -4787,6 +4787,7 @@ Javascript
     * Next.js에서 서버 없이 100% 정적 파일로만 클라이언트 측 SPA를 사용하는 방법에 대한 질문을 많이 받았지만 Next.js 문서에는 잘 나와 있지 않아서 Dan Abramov가 정리한 글
     * 설정에 대한 설명과 코드 포함
     * SPA라고 하더라도 `index.html`을 하나만 두는 구조보다 라우팅마다 HTML 파일을 갖는 게 더 좋은 구조라고 설명
+  * [Static Site Generation in Next.js - YouTube](https://www.youtube.com/watch?v=H_iIZGCFhTw)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
