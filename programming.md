@@ -1872,6 +1872,7 @@ Programming
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
+* [링커드(Linkerd) 서비스 메시(Service Mesh) 소개(2023.04.06) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/linkerd)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
   * 서비스 메시는 탄력적인 연결성, L7 트래픽 관리, 보안, 관측성, 추적성 등을 제공
