@@ -5450,6 +5450,7 @@ Programming
 * [Jeremy's Blog | Feature Toggle 150% 활용하기](https://sungjk.github.io/2023/03/04/feature-toggle.html)
   * 배포할 때 코드는 포함하더라고 기능의 공개 여부는 동적으로 관리하는 Martin Fowler의 Feature Toggles 글을 공부하고 이를 실제 업무에 적용해 가면서 개선한 내용
   * 피처 토글의 설계 원칙에 따라 토글 포인트, 토글 라우터, 토글 설정을 구현하는 Java 코드를 보여주고 이를 권한 토글과 카나리 토글에 활용하는 방법을 설명
+* [매일 배포하는 팀이 되는 여정(2) — Feature Toggle 활용하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-2-feature-toggle-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-b52c4a1810cd)
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
