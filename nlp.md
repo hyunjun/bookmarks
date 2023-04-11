@@ -1213,6 +1213,8 @@ NLP
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
   * [‘오픈AI Vs. 오픈AI’ 메타의 ‘라마’ 유출이 던진 질문 - 테크42](https://www.tech42.co.kr/%EC%98%A4%ED%94%88ai-vs-%EC%98%A4%ED%94%88ai-%EB%A9%94%ED%83%80%EC%9D%98-%EB%9D%BC%EB%A7%88-%EC%9C%A0%EC%B6%9C%EC%9D%B4-%EB%8D%98%EC%A7%84-%EC%A7%88%EB%AC%B8/)
   * [GPT-3 경쟁 LLaMA를 스마트폰에서 작동? - 테크레시피](https://techrecipe.co.kr/posts/51840)
+  * [Edge AI Just Got Faster](https://justine.lol/mmap/) C++ 표준 I/O 대신 mmap()을 사용, LLaMA를 100배 빠르게 로드
+  * [Georgi Gerganov on Twitter: "Introducing LLaMA voice chat! You can run this locally on an M1 Pro https://t.co/jetTQ5FxcS" / Twitter](https://twitter.com/ggerganov/status/1640022482307502085)
   * [Koala: A Dialogue Model for Academic Research – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
