@@ -1216,6 +1216,7 @@ NLP
   * [GPT-3 경쟁 LLaMA를 스마트폰에서 작동? - 테크레시피](https://techrecipe.co.kr/posts/51840)
   * [Edge AI Just Got Faster](https://justine.lol/mmap/) C++ 표준 I/O 대신 mmap()을 사용, LLaMA를 100배 빠르게 로드
   * [Georgi Gerganov on Twitter: "Introducing LLaMA voice chat! You can run this locally on an M1 Pro https://t.co/jetTQ5FxcS" / Twitter](https://twitter.com/ggerganov/status/1640022482307502085)
+  * [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석 - YouTube](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * [Koala: A Dialogue Model for Academic Research – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
