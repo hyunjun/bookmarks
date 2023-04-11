@@ -1707,6 +1707,7 @@ AWS
 * [AI Art 모델인 Stable Diffusion을 SageMaker JumpStart로 편리하게 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-art-stable-diffusion-sagemaker-jumpstart/)
 * [Amazon SageMaker로 컬리(Kurly) 상품 후기 분류 모델 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kurly-sagemaker-product-review-classification-model/)
 * [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
+* [Amazon SageMaker Canvas – 바로 사용 가능 모델, 사용자 지정 텍스트 및 이미지 분류 모델 지원 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
