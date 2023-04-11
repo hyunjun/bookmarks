@@ -1326,14 +1326,17 @@ Book
   * [어쩌다 만들어진 '이키가이 다이어그램'](https://brunch.co.kr/@oohaahpoint/70)
 
 # Politics
+* (NOT COMPLETED) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
+  * ★★★☆☆ 2023.04.06~07 흥미가 가는 주제(외부인이 자신을 받아들여준 시스템을 원래의 내부인보다 더 강하게 옹호하는 현상, 논리적인 극우?)지만 저자가 워낙 만연체로 쓰기도 했고 기본적으로 프랑스의 문화나 사회적인 부분을 알아야 부드럽게 읽을 수 있게 쓴 책이라 역자의 정성스러운 주석에도 불구하고 계속 읽기가 쉽지 않았음
+  * 한라 340.926-제36ㅍ
 * (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
   * 한라 322.8-케68ㅂ-805 우당 문321.89-삭58ㅂ
 * (NOT YET) 프로테스탄트 윤리와 자본주의 정신 [religiousstudy_v22_111.pdf](https://s-space.snu.ac.kr/bitstream/10371/5154/3/religiousstudy_v22_111.pdf)
   * 한라 320-베44ㅍ 320.904-노34ㅍ 탐라 320.904-노34ㅍ 우당 문108-청55ㅍ-16 문320-베43ㅍ
 * (NOT YET) [국가는 왜 실패하는가 국가간 격차가 존재하는 진짜 이유는? - YouTube](https://www.youtube.com/watch?v=jHTPbrdPwS0)
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
-* (NOT YET) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
-  * 한라
+* (NOT YET) 당신이 모르는 민주주의 ["이딴게.. 민주주의..?" 샌델이 직접 말하는 그 이유 | 마이클 샌델, 민주주의, 자유 - YouTube](https://www.youtube.com/watch?v=eH6S_kZg7Pw)
+  * 우당 문340.22-샌223ㄷ
 
 # Presentation
 * 데이터 스토리텔링 (설득력 있는 프리젠테이션을 위한 데이터 시각화 기법)
