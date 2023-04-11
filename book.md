@@ -466,6 +466,8 @@ Book
   * 우당 문325.211-김53ㅇ
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
+* (NOT YET) [어떻게 원하는 것을 얻는가 (밀리언 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122013959)
+  * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
