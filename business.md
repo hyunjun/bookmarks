@@ -1989,6 +1989,7 @@ Business
   * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
+* [B2B SaaS 영업의 시스템화](https://www.thestartupbible.com/2023/04/systemizing-and-replicating-b2b-saas-sales-process.html)
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
 * [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
