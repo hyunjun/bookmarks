@@ -1825,6 +1825,7 @@ Java
 * [스프링 가이드 타임어택 (3) - Consuming a RESTful Web Service - YouTube](https://www.youtube.com/watch?v=SwPrW4KRPzo)
 * [스프링 가이드 타임어택 (4) - Accessing Relational Data using JDBC with Spring - YouTube](https://www.youtube.com/watch?v=dbByw2V4UyI)
 * [@JsonFormat이 선언된 ZonedDateTime 타입의 필드를 다룰 때 주의할 점](https://kim-jong-hyun.tistory.com/146)
+* [Top 20 Spring Framework and Spring Boot Scenario based Questions for Java Developers | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/top-20-spring-framework-and-spring-boot-scenario-based-questions-for-java-developers-d84c440864bf)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
