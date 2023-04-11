@@ -2145,6 +2145,7 @@ AWS
 * [Amazon VPC Lattice - Part 3 : Service/VPC association,Service Sharing](https://zigispace.net/1227)
 * [Amazon VPC Lattice - Part 4 : Custom domain, SSL/TLS Certificate](https://zigispace.net/1228)
 * [Amazon VPC Lattice - Part 5 : Service Network/Service Access 정책](https://zigispace.net/1229)
+* [Amazon VPC Lattice - Part 6 : Monitoring/Access Logs](https://zigispace.net/1230)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
