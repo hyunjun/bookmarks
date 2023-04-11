@@ -1161,6 +1161,7 @@ Git
     * [Copilot-Explorer | copilot-explorer](https://thakkarparth007.github.io/copilot-explorer/)
   * [GitHub Next | Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
     * [GitHub Copilot for CLI 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1663)
+  * [DarkHunt흑엽 블로그 - <VScode나 VS2022에서 GitHubCopilot을 사용하는 방법> + 최근 9시 뉴스에서 GPT 코딩에 대한 이야기가 나오면 화병 날 것 같은 이유](http://ipc.pe.kr/bhugyup/28466)
 * [cz-cli: The commitizen command line utility](https://github.com/commitizen/cz-cli) Git 커밋 메시지의 작성을 도와주는 CLI 도구
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
