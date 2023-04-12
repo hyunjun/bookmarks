@@ -2456,6 +2456,8 @@ Business
 * [사용자가 물가로 가게 하는 UX Writing. 사용자에게 더 잘 먹히는 소구점은 무엇일까? | by Min Ko | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EB%AC%BC%EA%B0%80%EB%A1%9C-%EA%B0%80%EA%B2%8C-%ED%95%98%EB%8A%94-ux-writing-c9a06f5f6642)
 * [올바른 UX Research를 위한 첫 단추 끼우기. 글. 조보민/ UX Researcher | by 여기어때 UX Center | Mar, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%98%AC%EB%B0%94%EB%A5%B8-ux%EB%A6%AC%EC%84%9C%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B2%AB-%EB%8B%A8%EC%B6%94-%EB%81%BC%EC%9A%B0%EA%B8%B0-f3b028499fd7)
 * [데스크탑 GUI 갤러리 | GeekNews](https://news.hada.io/topic?id=8857)
+* [B2B 프로덕트 디자이너가 고객을 만나는 법(1/2). 안녕하세요, 성과관리 서비스를 만드는 레몬베이스에서 프로덕트 디자이너로… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-1-2-2175f99c6401)
+* [B2B 프로덕트 디자이너가 고객을 만나는 법(2/2). 2편에서는 3. 리서치의 필요성에 대해 구성원들을 설득하는 방법과 4… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-2-2-d4dfeae0e8c1)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
