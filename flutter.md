@@ -178,6 +178,7 @@ Flutter
 * [옵저버블 플러터: gRPC :: ChatGPT 정리](https://banjubu.tistory.com/427)
 
 # Conference, Meetup
+* [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
 * [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
 * [NAVER Tech Talk: Flutter meetup (2022)](https://d2.naver.com/news/1554376)
