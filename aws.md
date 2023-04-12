@@ -651,6 +651,7 @@ AWS
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #1](https://brunch.co.kr/@alden/54)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #2](https://brunch.co.kr/@alden/56)
 * [아직도 Amazon GuardDuty 도입을 안 하셨다면?](https://urbanbase.github.io/dev/2020/11/01/Amazon-GuardDuty.html)
+* [GuardDuty탐지 결과를 Slack에서 자동으로 받아보기 | by MZC_Global | Cloud Villains | Medium](https://medium.com/cloudvillains/guardduty%ED%83%90%EC%A7%80-%EA%B2%B0%EA%B3%BC%EB%A5%BC-slack%EC%97%90%EC%84%9C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%B0%9B%EC%95%84%EB%B3%B4%EA%B8%B0-517f149e34e0)
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
@@ -1807,6 +1808,7 @@ AWS
 * [Oracle Data Pump와 DMS를 사용해 Oracle DB를 RDS로 마이그레이션 하기(2) | by Phoebe Baek | Cloud Villains | Feb, 2023 | Medium](https://medium.com/ctc-mzc/oracle-data-pump%EC%99%80-dms%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-oracle-db%EB%A5%BC-rds%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0-2-eed89531940)
 * [AWS RDS 생성 및 적용 방법 (Nest.js 기준)](https://blog.naver.com/gi_balja/223042740762)
 * [LG전자의 Amazon Aurora 및 RDS 블루/그린 배포를 이용한 데이터베이스 업그레이드 안정성 확보 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-electronics-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
+* [Slack에서 ‘RDS정지’를 시행 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/slack%EC%97%90%EC%84%9C-rds%EC%A0%95%EC%A7%80%EB%A5%BC-%EC%8B%9C%ED%96%89-%ED%95%B4-%EB%B3%B4%EA%B8%B0-d8b00b62045f)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
