@@ -1378,6 +1378,9 @@ Book
 * [빠르게 실패하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704053)
   * ★★★★☆ 2023.04.11~12 '실행'을 강조하고 그걸 할 수 있도록 여러가지 심리학적인 걸림돌을 제거해주는 책. 분야가 전혀 다르지만 agile 원칙과도 바로 연결지어 생각해볼 수 있다. 작게, 자주 실패해서 결국 성공의 길로 연결하는 agile 방법과 심리학의 측면이 이렇게 긴밀하게 연결된다는 점이 놀라우면서도 또 한편 당연하다는 생각도 든다.
   * 한라 199.1-크294ㅃ 탐라 문199.1-크233ㅃ 우당 문199.1-크233ㅃ
+* [정의 중독 - 르몽드디플로마티크](https://www.ilemonde.com/news/articleView.html?idxno=15042)
+  * ★★★☆☆ 2023.04.12 뇌에 대한 연구를 바탕으로 전개하긴 하는데, 뇌 연구가 여전히 미지의 영역이 많은 부분이라 이걸 다 그대로 받아들일만 한지는 모르겠다. 그러나 새로운 걸 계속 받아들이고 일부러 어색하고 어려운 상황에 자신을 노출시키면서도 여유를 가지라는 등의 이야기는 다른 데서도 볼 수 있기도 하고 의미있는 조언이란 생각이다.
+  * 한라 181.3-나872ㅈ 우당 문331.1-나821ㅈ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1386,8 +1389,6 @@ Book
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
   * 한라
-* (NOT YET) [정의 중독 - 르몽드디플로마티크](https://www.ilemonde.com/news/articleView.html?idxno=15042)
-  * 한라 181.3-나872ㅈ 우당 문331.1-나821ㅈ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
