@@ -4790,6 +4790,7 @@ Javascript
     * 설정에 대한 설명과 코드 포함
     * SPA라고 하더라도 `index.html`을 하나만 두는 구조보다 라우팅마다 HTML 파일을 갖는 게 더 좋은 구조라고 설명
   * [Static Site Generation in Next.js - YouTube](https://www.youtube.com/watch?v=H_iIZGCFhTw)
+  * [Build & Deploy a Full Stack E-Commerce Website with Next.js 13, Strapi Headless CMS & Tailwind CSS - YouTube](https://www.youtube.com/watch?v=8xf78RNtfHY)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
