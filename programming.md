@@ -5545,6 +5545,8 @@ Programming
 * [Features of well-prepared tests | Bartosz Górka](https://bartoszgorka.com/features-well-prepared-tests)
 * [**How to Stop Testing & Break Your Code Base • Clare Sudbery • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=RNBpqbxhrng)
 * [테스트 코드는 왜 만들까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1964/)
+* [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik - YouTube](https://www.youtube.com/watch?v=2vEoL3Irgiw)
+* [🚀 Does TDD Really Lead to Good Design? (Sandro Mancuso) - YouTube](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [testcontainers](https://github.com/testcontainers)
