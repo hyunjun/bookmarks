@@ -108,7 +108,9 @@ Elixir
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 
 # API
-* sigils [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
+* sigils
+  * [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
+  * [Blindspots for Elixir Developers - Sigils 2 - YouTube](https://www.youtube.com/watch?v=LQ_nANz8cQQ)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
