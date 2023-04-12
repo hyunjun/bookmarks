@@ -507,6 +507,7 @@ NoSQL
 * [LINE 알림 센터의 메인 스토리지를 Redis에서 MongoDB로 전환하기](https://engineering.linecorp.com/ko/blog/LINE-integrated-notification-center-from-redis-to-mongodb)
 * [이동욱 인프런 CTO “소규모 개발 팀? 몽고DB 아틀라스 추천”](https://www.ddaily.co.kr/news/article/?no=249222)
 * [주니어 개발자의 오픈소스 활동 이야기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/junior-opensource/)
+* [When you should NOT use MongoDB?](https://www.inconceptlabs.com/blog/when-not-to-use-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
