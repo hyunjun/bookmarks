@@ -182,6 +182,7 @@ Deep Learning
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
     * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
+  * [openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)
   * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
     * [AI Gym Workout](https://learningai.io/projects/2017/07/28/ai-gym-workout.html)
     * [Walker2D: Learning Progression](https://www.youtube.com/watch?v=irkXnpZP89s)
