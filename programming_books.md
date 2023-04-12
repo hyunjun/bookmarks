@@ -2267,6 +2267,7 @@ Programming Books
 * (NOT YET) [카프카 스트림즈와 ksqlDB 정복 | 에이콘출판사](http://acornpub.co.kr/book/kafka-ksqldb/)
   * 한라 005.74-시35ㅋ
   * [mastering-kafka-streams-and-ksqldb: Code repository for the Mastering Kafka Streams and ksqlDB book](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb)
+* (NOT YET) 카프카 핵심 가이드 [카프카를 창시한 사람들이 쓰고, 카프카 개발에 참여한 이가 옮긴 핵심 실무서](https://jpub.tistory.com/1401)
 
 # Kotlin
 
