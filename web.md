@@ -1128,6 +1128,7 @@ Web
 * [PWA의 manifest. PWA이 일반 웹과 구분되는 것 중 하나는 manifest입니다… | by 이상선 | Jul, 2022 | Medium](https://medium.com/@sunyi233/pwa%EC%9D%98-manifest-json-1081829ad153)
 * [Why haven’t PWAs killed native apps yet? | by Kevin Basset | Sep, 2022 | Medium](https://kevinbasset.medium.com/why-havent-pwas-killed-native-apps-yet-29beca4425fa)
 * [프로그레시브 웹앱(PWA) 푸시 알람 A to Z • 캡틴판교](https://joshua1988.github.io/web-development/pwa/pwa-push-noti-guide/)
+* [프론트엔드 개발자가 PWA 알아야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1969/)
 * [PWA Stats](https://www.pwastats.com/)
 
 # Proxy
