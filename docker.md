@@ -829,6 +829,7 @@ Docker
   * Docker Compose v2가 2022년 4월에 GA가 된 후 1년이 지나 올 6월에 v1은 지원 종료 예정
   * 이제 docker-compose 대신 docker compose 명령어를 사용해서 v2로 전환 가능
     * Docker Desktop의 설정에서 Compose V2를 활성화하면 docker-compose 별칭이 만들어져서 기존과 동일하게 v2를 사용 가능
+* [docker-compose를 이용하여 로컬 개발환경 구성하기(Part1)](https://dev.gmarket.com/72)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
