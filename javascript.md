@@ -900,6 +900,7 @@ Javascript
   * 오히려 export default를 사용하면 임포트할 때 함수 이름을 따로 고민해야 하고 모듈 전부를 임포트할 때 default가 어색하다고 이야기
 * [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
   * [번역 코드 품질을 높여주는 고급 자바스크립트 함수](https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality)
+* [DOM의 변화를 감지하는 MutationObserver - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/900)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
