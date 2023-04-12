@@ -1211,6 +1211,14 @@ Programming
 * [클린 아키텍처 3-6장](https://wlaxhrl.tistory.com/79)
 * [클린 아키텍처 7-11장](https://wlaxhrl.tistory.com/80)
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+* [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
+* [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
+* [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
+* [Clean Architectures in Python - presented by Leonardo Giordani - YouTube](https://www.youtube.com/watch?v=C7MRkqP5NRI)
+* [Pythonic Clean Architecture. 라스 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=EGzQvBqhUS0)
+* [클린 아키텍처: 아름다운 코드에서 아키텍처까지 - HumanBrain](https://dongjunlee.github.io/book/Clean_Architecture/)
+* [Clean architecture - making Node.js API shine! | by Michael Kibenko | ITNEXT](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
+* [🚀 The Clean Architecture (Ian Cooper) - YouTube](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 * [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
 * [NHN FORWARD 22 클린 아키텍처 애매한 부분 정해 드립니다. - YouTube](https://www.youtube.com/watch?v=g6Tg6_qpIVc)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
@@ -1241,12 +1249,6 @@ Programming
   * 문제를 정의하고 이를 풀기 위한 틀을 기획한다면? 추상화 수준 상향(거인의 어깨 위)
 * [추상화는 추상적이지 않다. 프로그래머라면 언젠가는 마주해보았을 단어가… | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EC%B6%94%EC%83%81%ED%99%94%EB%8A%94-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-9bc27b34daba)
 * [추상이란 무엇일까 | Evans Library](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
-* [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
-* [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
-* [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
-* [Clean Architectures in Python - presented by Leonardo Giordani - YouTube](https://www.youtube.com/watch?v=C7MRkqP5NRI)
-* [클린 아키텍처: 아름다운 코드에서 아키텍처까지 - HumanBrain](https://dongjunlee.github.io/book/Clean_Architecture/)
-* [Clean architecture - making Node.js API shine! | by Michael Kibenko | ITNEXT](https://itnext.io/clean-architecture-making-node-js-api-shine-38134b8f9b5c)
 * [**The Grand Unified Theory of Software Architecture - danuker | freedom & tech**](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) I/O at the top & decoupling, pure function
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
@@ -1528,7 +1530,6 @@ Programming
 * [Data-Oriented Architecture | Eyas's Blog](https://blog.eyas.sh/2020/03/data-oriented-architecture/)
 * [복잡성이 SW 개발자를 죽인다··· '패러다임의 전환' 올까? - CIO Korea](https://www.ciokorea.com/news/216564)
 * [The InfoQ Podcast: Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/podcasts/architecture-design-trends-report/)
-* [Pythonic Clean Architecture. 라스 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=EGzQvBqhUS0)
 * [조직이 결국 아키텍처를 좌우한다. – Dreaming for the Future](http://www.chidoo.me/index.php/2022/01/09/the-organization-defines-architecure/) 기술 이야기는 아님
 * [깔끔한 코드를 구현하기 위한 설계 규칙 네 가지](https://devkingdom.tistory.com/302)
 * [Architecting For Scale • Lee Atchison & Ken Gavranovic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=n_yZB0ZrsxU)
