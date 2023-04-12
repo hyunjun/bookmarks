@@ -1063,6 +1063,7 @@ Scala
     * [Zymposium - ZIO From Scratch (Part 3) - YouTube](https://www.youtube.com/watch?v=lcd1D_ToJJY)
     * [Zymposium - ZIO From Scratch (Part 4) - YouTube](https://www.youtube.com/watch?v=f7FiCXG6gQY)
     * [Zymposium - ZIO From Scratch (Final) - YouTube](https://www.youtube.com/watch?v=O31_cMcP4-8)
+    * [Zymposium - ZIO From Scratch (Concurrency Primitives) - YouTube](https://www.youtube.com/watch?v=3vnkFaCXGYg)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
     * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
