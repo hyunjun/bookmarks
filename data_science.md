@@ -146,6 +146,7 @@ Data Science
 * [Grepping logs is terrible](http://asylum.madhouse-project.org/blog/2015/05/05/grepping-logs-is-terrible/)
 * [Grepping logs is still terrible](http://asylum.madhouse-project.org/blog/2015/05/07/grepping-logs-is-still-terrible/)
 * [Why Topological Data Analysis Works](http://www.ayasdi.com/blog/bigdata/why-topological-data-analysis-works/)
+* [Topological Data Analysis (TDA) is a cool thing that data scientists should know](https://www.linkedin.com/posts/claudio-stamile_machinelearning-ai-datascience-activity-7051471459923169281-6awS/)
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [NASA'S DATA PORTAL](https://data.nasa.gov/developer)
