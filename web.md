@@ -694,6 +694,7 @@ Web
   * [Top 8 Web Scraping Tips Every Beginner Should Know - YouTube](https://www.youtube.com/watch?v=JjQ5hXhxWMU)
   * [부동산지인 크롤링 ①지역별 미분양수(1/2) - YouTube](https://www.youtube.com/watch?v=V0pJo8laFgw)
   * [Setting up your own test automation environment - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment)
+  * [Crawling 성능 40배 올리기, 160분에서 4분대로 -도구 선택의 중요성- :: 친환경사과의 블로그입니다](https://ecofriendlyapplesu.tistory.com/9)
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
