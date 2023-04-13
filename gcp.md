@@ -122,6 +122,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform을 활용하여 평생 '무료' PC 만들기](https://kibua20.tistory.com/94)
 * [Goggle Cloud Platform에서 무료로 리눅스 서버를 할당](https://www.youtube.com/watch?v=u7LvG-deMOE)
 * [**GCP - cloud build 이용하여 ci/cd 구축하기**](https://dailyheumsi.tistory.com/234)
+* [Cloud Build로 Docker 이미지 빌드 및 푸시하는 방법 | Google Cloud 블로그](https://cloud.google.com/blog/ko/topics/developers-practitioners/how-build-and-push-docker-image-cloud-build/)
 * [시리얼 포트를 통해 SSH 없이 인스턴스에서 작업하기](https://jybaek.tistory.com/877)
 * [Github Actions를 사용해서 CICD 구축해보기 실습 with GCP - 실행편 · 도전하는 개발자](https://minkukjo.github.io/cs/2020/08/29/Infra-23/)
 * [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁 - CIO Korea](https://www.ciokorea.com/news/170709)
