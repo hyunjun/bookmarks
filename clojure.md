@@ -1291,6 +1291,8 @@ Clojure
 * [REPL vs CLI: IDE wars | (:dev/notes vlaaad)](https://vlaaad.github.io/clj-vs-cli)
 * [liftIO2021 Clojure, REPL의 수퍼파워 - 그린랩스 김상현 - YouTube](https://www.youtube.com/watch?v=_nF5dexUZFg)
 * [Clem Repl Interface · GitLab](https://gitlab.com/unc-app-lab/clem-repl)
+* [Clojure-Sublimed: Clojure support for Sublime Text 4](https://github.com/tonsky/Clojure-Sublimed)
+  * [Adventures in REPL implementation @ tonsky.me](https://tonsky.me/blog/clojure-sublimed-3/)
 * [dram: Interactive Clojure REPL Guides](https://github.com/BetterThanTomorrow/dram)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
