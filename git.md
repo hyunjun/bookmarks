@@ -555,6 +555,7 @@ Git
   * [번역 당신이 (아마도) 몰랐던 20가지 Git 명령 🧙](https://velog.io/@surim014/20-git-commands-you-probably-didnt-know-about-git)
   * [당신이 (아마도) 몰랐던 20가지 Git 명령 번역 | GeekNews](https://news.hada.io/topic?id=8153)
 * [실무에서 사용했던 git 정리](https://phrygia.github.io/git/2023-03-03-git/) remote branch rebase cherry-pick reset 등
+* [앗! 모르고 깃헙(GitHub)에 올렸어요!. 깃 내부 작동 방식과 함께 살펴보는 revert, reset 명령어… | by weekwith.me | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%95%97-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EA%B9%83%ED%97%99-github-%EC%97%90-%EC%98%AC%EB%A0%B8%EC%96%B4%EC%9A%94-50d48b343f0f) reset revert gitguardian
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -1214,6 +1215,7 @@ Git
 * [git fastclone](https://corner.squareup.com/2015/11/fastclone.html)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
+* [GitGuardian: Git Security Scanning & Secrets Detection](https://www.gitguardian.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
