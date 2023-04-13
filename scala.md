@@ -1376,6 +1376,7 @@ Scala
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
 * [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
 * [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
+* [Beginner's guide to toolkits in Scala - Dev notes](https://blog.michalp.net/posts/scala/scala-toolkits/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -1739,6 +1740,7 @@ Scala
 * [teleport-scala A native CLI in Scala to quickly move through the filesystem](https://github.com/note/teleport-scala)
   * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
+* [toolkit: Quickstart your next app with the Typelevel Toolkit!](https://github.com/typelevel/toolkit)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Turbolift: Algebraic Effects for Scala 3](https://marcinzh.github.io/turbolift/)
 * [Tyrian - Tyrian](https://tyrian.indigoengine.io/) Elm-inspired, purely functional UI library for Scala 3
