@@ -3672,6 +3672,7 @@ Javascript
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
 * [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
+* [The Most Common React Design Patterns | LinkedIn](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)
 * [React Server Side Rendering](http://dev-momo.tistory.com/entry/React-Server-Side-Rendering)
 * [엔지니어와 디자이너를 더 가깝게 하는 새 오픈소스 프로젝트 리액트-스케치](http://techneedle.com/archives/30034)
 * [jaeyeophan.github.io/categories/React](https://jaeyeophan.github.io/categories/React/)
