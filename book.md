@@ -1052,6 +1052,16 @@ Book
 * [만화로 배우는 불멸의 역사](https://www.hanbit.co.kr/store/books/look.php?p_code=B7172444748)
   * ★★★☆☆ 2023.03.17 트랜스휴머니즘의 역사부터 최근의 흐름까지 간단히 알 수 있음
   * 우당 문909-시31ㅂ
+* [중세 1 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B9915338821)
+  * ★★★☆☆ 2023.04.13 중세에 대한 전반적인 이야기
+  * 탐라 문920.3-만96ㅈ-1 우당 문920-한49ㅈ-1
+* [중세 2 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B2832646005)
+  * ★★★☆☆ 2023.04.13 십자군의 역사
+  * 탐라 문920.3-만96ㅈ-2 우당 문920-한49ㅈ-2
+* [만화로 배우는 서양사 중세 3](https://hanbit.co.kr/store/books/look.php?p_code=B5871685999)
+  * ★★★☆☆ 2023.04.13 로마 가톨릭의 역사를 전반적으로 훑는 거라 중세라기보다는 그냥 가톨릭의 역사라고 하는 게 더 정확한 제목
+  * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
+  * <img src="images/the_middle_ages.jpg" alt="종교재판은 이름만 바뀌었을 뿐 오늘날에도 원칙상 존재" width="300"/>
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1158,12 +1168,6 @@ Book
 * (NOT YET) [『개발 없는 개발』을 읽고](https://nocturnal-landscape.tistory.com/155)
   * 우당 문911.06-허57ㄱ
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
-* (NOT YET) [중세 1 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B9915338821)
-  * 탐라 문920.3-만96ㅈ-1 우당 문920-한49ㅈ-1
-* (NOT YET) [중세 2 : 만화로 배우는 서양사](https://hanbit.co.kr/store/books/look.php?p_code=B2832646005)
-  * 탐라 문920.3-만96ㅈ-2 우당 문920-한49ㅈ-2
-* (NOT YET) [만화로 배우는 서양사 중세 3](https://hanbit.co.kr/store/books/look.php?p_code=B5871685999)
-  * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
 * (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
   * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
 
