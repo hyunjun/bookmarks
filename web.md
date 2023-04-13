@@ -147,6 +147,7 @@ Web
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
 * [How to Learn Fullstack Development: A Roadmap in Charts](https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f)
+* [Everyone Can Be a Full-Stack Engineer - YouTube](https://www.youtube.com/watch?v=e9ZG2-n3D8o)
 * [2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 * [frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [frontend-resources: Resources for front-end web developers](https://github.com/Ashik045/frontend-resources)
