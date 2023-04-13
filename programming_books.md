@@ -3871,6 +3871,8 @@ Programming Books
   * 탐라 문004.78-정828ㅅ 우당 문004.78-정828ㅅ
 * (NOT YET) [UX 원칙 Uxer를 위한 101가지 원칙](https://medium.com/heeheewuwu/ux-%EC%9B%90%EC%B9%99-uxer%EB%A5%BC-%EC%9C%84%ED%95%9C-101%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-1-2-f9fd97f9bc37)
   * 탐라 문004.78-그232ㅇ
+* (NOT YET) UX 심리학 [유저가 나를 보게 하는 방법. 안녕하세요, 원티드랩 QA팀 김명관 입니다.  2022년 말 즈음 문득… | by Myunggwan_1026 | 원티드랩 기술 블로그 | Apr, 2023 | Medium](https://medium.com/wantedjobs/%EC%9C%A0%EC%A0%80%EA%B0%80-%EB%82%98%EB%A5%BC-%EB%B3%B4%EA%B2%8C-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-663079b3de46)
+  * 탐라 문004.78-에41ㅇ
 
 # Vision
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
