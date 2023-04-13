@@ -831,6 +831,8 @@ App
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
 * [typora](https://typora.io/)
   * [Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
+* [Zed - Code at the speed of thought](https://zed.dev/)
+  * [Atom 개발자가 만든 텍스트 에디터 Zed :: Outsider's Dev Story](https://blog.outsider.ne.kr/1665)
 
 # Etc
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
