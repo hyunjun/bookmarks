@@ -1832,6 +1832,7 @@ NLP
   * [FRDF: Frame-semantic-based QA system](https://github.com/machinereading/FRDF)
 * [gotquestions.org](http://www.gotquestions.org/)
 * [gpt3-krtranslated-qa](https://github.com/hunkim/gpt3-krtranslated-qa)
+* [littlebird: Implementation of LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://github.com/jwnz/littlebird)
 * [OKBQA Home](http://www.okbqa.org/)
 * [qald.sebastianwalter.org](http://qald.sebastianwalter.org/)
 * [SearchQA](https://github.com/nyu-dl/SearchQA)
