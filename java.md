@@ -1087,6 +1087,7 @@ Java
   * 이 문제는 동일한 변수를 여러 스레드/코어에서 읽고 쓰는 True Sharing임을 깨닫고 공유 변수에 모두 쓰지 않고 JVM의 보조 슈퍼클래스 캐시를 효과적으로 우회하도록 수정하고 3.5배의 성능 향상
   * [더 빠른 인스턴스로 옮겼는데 성능이 안 나오면 어디를 봐야 할까? | GeekNews](https://news.hada.io/topic?id=7911)
 * [Java Compiler Optimization — 시행착오를 줄이는 방법 - 진태양](https://dataportal.kr/90)
+* `-XX:MaxDirectMemorySize` [파일 서버에 1GB 파일 패치 요청 실패 (간단한 JVM 튜닝으로 해결하기)](https://velog.io/@joosing/failed-request-to-fetch-1gb-file-to-the-file-server)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
 * [Loom: https://openjdk.org/projects/loom ](https://github.com/openjdk/loom)
