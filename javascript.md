@@ -2159,6 +2159,7 @@ Javascript
     * 이젠 헤드리스 브라우저 없이 HTML과 CSS를 SVG로 만들 수 있게 되어 쉽고 빠르게 OG 이미지를 생성 가능
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
+* [OWL: A web framework for structured, dynamic and maintainable applications](https://github.com/odoo/owl)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
   * [How to build a drawing app with p5js](https://medium.freecodecamp.org/how-to-build-a-drawing-app-with-p5js-9b8d16e9364a)
   * [p5.js](https://opentutorials.org/module/5404)
