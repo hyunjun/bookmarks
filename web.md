@@ -1791,6 +1791,7 @@ Web
   * [Introduction to Hippo: the WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
   * [히포를 이용한 웹어셈블리 입문 - ITWorld Korea](https://www.itworld.co.kr/news/210909)
 * [howto-wasm-minimal: How to create minimal wasm module](https://github.com/ern0/howto-wasm-minimal)
+* [kotlin-wasm-examples/compose-imageviewer at main · Kotlin/kotlin-wasm-examples · GitHub](https://github.com/Kotlin/kotlin-wasm-examples/tree/main/compose-imageviewer)
 * [KoWasm is an experimental project intended to provide WASI and WebAssembly Component Model support for Kotlin/Wasm](https://github.com/sdeleuze/kowasm)
   * [The huge potential of Kotlin/Wasm · seb.deleuze.fr](https://seb.deleuze.fr/the-huge-potential-of-kotlin-wasm/)
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
