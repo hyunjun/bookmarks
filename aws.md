@@ -510,7 +510,8 @@ AWS
 * [지속 가능한 효율적이고 비용 최적화 된 AWS 기반 애플리케이션 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/building-sustainable-efficient-and-cost-optimized-applications-on-aws/)
 * [Amazon File Cache로 하이브리드 클라우드 워크로드를 가속화 및 단순화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-file-cache-hybrid-cloud-workload-acceleration/)
 * [디바이스에 딱 맞는 이미지 제공하기 | blog.hoseung.me](https://blog.hoseung.me/2023-04-02-provide-fit-image/) Lambda, CloudFront
-* [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
+* [AI Code Generator - Amazon CodeWhisperer - AWS](https://aws.amazon.com/ko/codewhisperer/)
+  * [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
