@@ -713,6 +713,7 @@ Scala
 * [Top 10 Skills to Learn to Be a Scala Developer - YouTube](https://www.youtube.com/watch?v=kVDgurLi-CA)
 * [The Scala community will exile me for this - YouTube](https://www.youtube.com/watch?v=rSk_mea4U1E)
 * [Functional Error Handling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-error-handling-in-scala/)
+* [Underrated Scala Features and Hidden Gems in the Standard Library | ScalaJobs.com](https://scalajobs.com/blog/underrated-scala-features-and-hidden-gems/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
