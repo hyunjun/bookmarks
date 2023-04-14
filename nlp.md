@@ -1227,6 +1227,8 @@ NLP
     * [주요 목표는 MacBook에서 4비트 양자화를 사용하여 LLaMA을 실행](https://www.linkedin.com/posts/activity-7040496097366065152-4cn3)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA_MPS: Run LLaMA inference on Apple Silicon GPUs](https://github.com/jankais3r/LLaMA_MPS)
+* [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
+  * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248_survey-large-language-activity-7052275487703793665-WUfC/)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
