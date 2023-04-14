@@ -1189,6 +1189,7 @@ NLP
 * [LLaMA SFT RLHF & etc.](https://www.facebook.com/likejazz/posts/pfbid0229K3D55aH2phKU1WMEmx3FjpMQhBdkNn4U2Hz9NWdTsEfpBuNMMyRmhaBk1awt3Xl)
 * [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback - Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+* [ChatGPT를 1~2달 써보고 써보고 본인이 LLM 전문가인듯이 글을 쓰는 사람들에 대한 반박](https://www.facebook.com/hyunwoongko/posts/pfbid02Xf5Du6dgadcMX7Dtdy1R5H3avpLa7CKP9iDPfXCHis1JEZSZwdo4995BDMop8zsbl)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
