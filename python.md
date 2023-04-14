@@ -4766,6 +4766,7 @@ Python
 * [Python Pandas Tutorial : Series and DataFrame Basics #2 - YouTube](https://www.youtube.com/watch?v=iWsEfpWAJ3U)
 * [Introduction to pandas Library (Python Tutorial & Examples) | Learn Basics](https://statisticsglobe.com/pandas-library-python)
 * [Pandas tutorial time series - YouTube](https://www.youtube.com/watch?v=xis6SGqG9mo)
+* [Pandas Ultimate Tutorial 2023 | Python Data Analysis - YouTube](https://www.youtube.com/watch?v=2zGl9FGpmrA)
 * [엑셀 자동화 - 사무직을 위한 파이썬](https://maeng-gun.github.io/excel) excel xlwings
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
