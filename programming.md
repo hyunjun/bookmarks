@@ -3801,6 +3801,7 @@ Programming
   * 71% 조직이 보안 노력을 "좋음", "우수함"으로 평가
   * 운영의 44%가 대부분 자동화, 25%는 완전히 자동화로 평가
 * [‘어설픈 데브옵스’를 하고 있다는 7가지 징후 - CIO Korea](https://www.ciokorea.com/news/273769)
+* [2023년에 주목할 DevOps 트렌드 5가지 | DevSecOps 구축 컨설팅, 교육, 기술지원 서비스 제공](https://insight.infograb.net/blog/2023/03/27/2023-devops-5/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -5548,6 +5549,7 @@ Programming
 * [테스트 코드는 왜 만들까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1964/)
 * [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik - YouTube](https://www.youtube.com/watch?v=2vEoL3Irgiw)
 * [🚀 Does TDD Really Lead to Good Design? (Sandro Mancuso) - YouTube](https://www.youtube.com/watch?v=KyFVA4Spcgg)
+* [요약 단위 테스트](https://tosspayments-dev.oopy.io/share/books/unit-testing)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [testcontainers](https://github.com/testcontainers)
