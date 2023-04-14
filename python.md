@@ -491,6 +491,7 @@ Python
 * [ASMR Programming - coding Game OF Life in Python - No Talking - YouTube](https://www.youtube.com/watch?v=nCcAz1LHz9k)
 * [Day 16 : Live Weather Updates with Python - YouTube](https://www.youtube.com/watch?v=DpZIA0vzT7Y)
 * [Bitbucket Server Api Python Code Example](https://www.skolaparthi.com/bitbucket-api/)
+* [Extract Table from HTML using Python - PyShark](https://pyshark.com/extract-table-from-html-using-python/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
