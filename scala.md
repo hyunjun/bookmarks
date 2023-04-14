@@ -1372,6 +1372,7 @@ Scala
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
+* [March 2023 - Scala Tooling Summit | The Scala Programming Language](https://scala-lang.org/blog/2023/04/11/march-2023-scala-tooling-summit.html)
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
 * [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
@@ -1563,6 +1564,7 @@ Scala
   * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
   * [Using TestControl to Test FS2 Streams | by Farooq Qaiser | Mar, 2022 | Medium](https://medium.com/@fqaiser94/using-testcontrol-to-test-fs2-streams-92cec1fac217)
   * [PubSub with Scala](https://softwaremill.com/pubsub-with-scala/)
+  * [Good practices for schema evolution with Protobuf using ScalaPB and fs2grpc](https://softwaremill.com/schema-evolution-protobuf-scalapb-fs2grpc/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
@@ -1755,6 +1757,7 @@ Scala
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
 * [Secure the Dependencies of your Scala Project on GitHub | The Scala Programming Language](https://scala-lang.org/blog/2022/07/18/secure-your-dependencies-on-github.html)
+* [New Scala Build Tool – John A De Goes](https://degoes.net/articles/new-scala-build-tool)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
   * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
@@ -2719,6 +2722,7 @@ Scala
 * [A Sweet Beginner's Guide to Scala by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=NV6bfdUEGIQ)
 * [Scala Center Advent of Code | Scala Center Advent of Code](https://scalacenter.github.io/scala-advent-of-code/2022/)
 * [6 Tips for Scala Adoption. I will share our experience on how to… | by Yurii Krat | BigEng | Jan, 2023 | Medium](https://medium.com/bigcommerce-engineering/6-tips-for-scala-adoption-714b7815c20d)
+* [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023 - YouTube](https://www.youtube.com/watch?v=0Fm0y4K4YO8)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
