@@ -2497,7 +2497,7 @@ Programming
 * [Software Engineering Course (SWEBOK) | IEEE Computer Society](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [Unix-Text-Processing: Recreated sources for the book "UNIX Text Processing," published in 1987.](https://github.com/larrykollar/Unix-Text-Processing)
 * [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
-* [Working Effectively with Legacy Code (Teaser) • Michael Feathers & Christian Clausen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=jQRtHo4TKcA)
+* [Working Effectively with Legacy Code • Michael Feathers & Christian Clausen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=P_6eDL1aqtA)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
 
 # Build Compile
