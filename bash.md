@@ -54,6 +54,7 @@ Shell
 * [Shell Scripting for DevOps | Zero 2 Hero Part-2 | Shell Scripting Interview Q&A | #devops - YouTube](https://www.youtube.com/watch?v=CyQtk9f646Q)
 * [Wordle in less than 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 * [10 Bash Script Code Challenges for Beginners](https://www.codecademy.com/resources/blog/bash-script-code-challenges-for-beginners/)
+* [Let's read the Bash source code - YouTube](https://www.youtube.com/watch?v=8Q3a5Ru8rqo)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
