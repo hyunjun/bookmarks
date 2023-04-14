@@ -1023,6 +1023,7 @@ Java
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 * [JSP로 모델1 방식의 회원제 게시판 만들기 - 골든래빗](https://goldenrabbit.co.kr/2021/11/30/jsp%EB%A1%9C-%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF1-%E1%84%87%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B4-%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%EC%A0%9C%EA%B2%8C/)
+* [spring-boot-todo-jsp: Spring Boot와 JPA, JSP로 구현한 Todo App](https://github.com/kyungseo/spring-boot-todo-jsp)
 
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
