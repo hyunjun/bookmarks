@@ -403,6 +403,7 @@ Java
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)
 * Try
   * [Do or Do Not: Patterns and Antipatterns with the Try type](https://medium.com/software-ascending/do-or-do-not-patterns-and-antipatterns-with-the-try-type-c77a63f74cc9)
+  * [try-with-resources에 의해 닫히지 않는 AutoCloseable 인스턴스](https://velog.io/@joosing/try-with-resources%EC%97%90-%EC%9D%98%ED%95%B4-%EB%8B%AB%ED%9E%88%EC%A7%80-%EC%95%8A%EB%8A%94-AutoCloseable-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 * util
   * ComparableTimSort.countRunAndMakeAscending [java countrunandmakeascending 메소드 : 키가 거꾸로 들어온 듯한 이유](https://codingdog.tistory.com/entry/java-countrunandmakeascending-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%82%A4%EA%B0%80-%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A8-%EB%93%AF%ED%95%9C-%EC%9D%B4%EC%9C%A0)
   * List
@@ -473,6 +474,7 @@ Java
   * [Netty 구조적 특징 (1) : 쓰레드 모델](https://velog.io/@joosing/netty-structural-features-1-thread-model)
   * [Netty 구조적 특징 (2) : 비동기](https://velog.io/@joosing/httpsvelog.iojoosingnetty-structural-features-2-asynchronous)
   * [Netty 구조적 특징 (3) : 이벤트 루프](https://velog.io/@joosing/netty-structural-features-3-eventloop)
+  * [개발일기 #102 : 대용량 파일 패치, 68초 → 5초로 성능 개선](https://velog.io/@joosing/dev-diary-102)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
@@ -1607,6 +1609,7 @@ Java
 * [Spring Data JPA @Query Example - Tutorial](https://javarevisited.blogspot.com/2021/09/spring-data-jpa-query-example-tutorial.html)
 * [Spring Data JPA에서의 페이지네이션과 정렬](https://hudi.blog/spring-data-jpa-pagination/)
 * [JPA 기초 강의 유튜브 영상 목록 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/jpa-basic-youtube-list)
+* [JPA 트랜잭션 내에서 엔티티를 변경할 때 마다 flush 해야하나요?](https://velog.io/@joosing/JPA-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C-%EB%A7%88%EB%8B%A4-flush-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94) dirty checking
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
