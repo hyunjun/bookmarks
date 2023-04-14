@@ -2115,6 +2115,7 @@ Javascript
   * [Nest.js - DTO와 형변환 : 네이버 블로그](https://blog.naver.com/gi_balja/223056337639)
   * [Nest.js - Swagger : 네이버 블로그](https://blog.naver.com/gi_balja/223061397889)
   * [Nest.js - applyDecorators : 네이버 블로그](https://blog.naver.com/gi_balja/223067217503)
+  * [Nest.js - 회원가입과 로그인 구현하기 : 네이버 블로그](https://blog.naver.com/gi_balja/223069730719)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
@@ -4793,6 +4794,7 @@ Javascript
     * SPA라고 하더라도 `index.html`을 하나만 두는 구조보다 라우팅마다 HTML 파일을 갖는 게 더 좋은 구조라고 설명
   * [Static Site Generation in Next.js - YouTube](https://www.youtube.com/watch?v=H_iIZGCFhTw)
   * [Build & Deploy a Full Stack E-Commerce Website with Next.js 13, Strapi Headless CMS & Tailwind CSS - YouTube](https://www.youtube.com/watch?v=8xf78RNtfHY)
+  * [How to Build a Blog with Next.js and Ghost CMS](https://morioh.com/p/f9deb6c9bedd)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
