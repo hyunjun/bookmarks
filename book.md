@@ -320,6 +320,9 @@ Book
 * [만화로 보는 일리아스 : 트로이의 노래](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B8876000895)
   * ★★★☆☆ 2023.04.03 아이들이 보기엔 약간 부적절한 묘사나 표현이 있으나 재미있게 볼 수 있음
   * 탐라 문892.1-동51ㅇ
+* [어치브 모어 저자 김성미 인터뷰🎤 - YouTube](https://www.youtube.com/watch?v=D_CznCI0fhY)
+  * ★★★★☆ 2023.04.13~14 보기에 따라서는, 대단한 사람이 쓴 책도 많은데 평범한 MS에 다니는 사람이 쓴 책까지 읽냐고 할 수도 있겠으나, 일을 잘 하는 데 필요한 여러가지 좋은 이야기를 자신의 삶을 바탕으로 매우 읽기 쉽게 전개한다는 점에서 매우 좋은 책이라고 생각한다. 똑같은 이야기도 얼마나 전달이 되느냐에 따라 효과가 달라질텐데, 나에게 맞아서 그런지는 모르겠으나, 읽는데 거의 걸림돌이 없어서 저자의 생각을 매우 쉽게 받아들이고 해석할 수 있었다.
+  * 우당 문325.211-김53ㅇ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -462,8 +465,6 @@ Book
 * (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
-* (NOT YET) [어치브 모어 저자 김성미 인터뷰🎤 - YouTube](https://www.youtube.com/watch?v=D_CznCI0fhY)
-  * 우당 문325.211-김53ㅇ
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [어떻게 원하는 것을 얻는가 (밀리언 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122013959)
