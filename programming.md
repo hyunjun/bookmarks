@@ -5073,7 +5073,8 @@ Programming
 * [행동력이 미친 창업 팀, 개발 없이 MVP 테스트하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/258373)
 * [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
 * [노코드: 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴 | 10x Lessons](https://tkim.co/2020/04/19/no-code/)
-* [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
+* [Top No-Code Development Tools In 2023 | by CodeCircuit | JavaScript in Plain English](https://javascript.plainenglish.io/top-no-code-development-tools-in-2022-fc179633682c)
+  * [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
