@@ -4875,6 +4875,7 @@ Javascript
   * [Seeding the Query Cache | TkDodo's blog](https://tkdodo.eu/blog/seeding-the-query-cache)
     * [번역 쿼리 캐시에 데이터 채워 넣기 (React Query)](https://velog.io/@eunbinn/seeding-the-query-cache)
   * [SSR 환경에서의 React Query | Univdev](https://www.univdev.page/posts/react-query-ssr/)
+  * [뷰티 필터를 개발하며 얻은 새로운 경험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2022-5th-tech-meetup-web-frontend/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
