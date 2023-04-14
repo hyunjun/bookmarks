@@ -129,6 +129,8 @@ Apache
 * [Apache Beam으로 머신러닝 데이터 파이프라인 구축하기 2편 - 개발 및 최적화 – 핑퐁팀 블로그](https://blog.pingpong.us/apache-beam-2/)
 * [Apache Beam으로 머신러닝 데이터 파이프라인 구축하기 3편 - RunInference로 모델 추론하기 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/apache-beam-3/)
 * [Alex Merose: Apache Beam on Dask- Portable, Scalable, Scientific Python | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=uGEQkws1Low)
+* [scio: A Scala API for Apache Beam and Google Cloud Dataflow](https://github.com/spotify/scio)
+  * [How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020 - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2021/02/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/)
 
 # BookKeeper
 * [Apache BookKeeper: A High Performance and Low Latency Storage Service](https://www.slideshare.net/hustlmsp/apache-bookkeeper-a-high-performance-and-low-latency-storage-service)
