@@ -705,6 +705,7 @@ Machine Learning
   * [ML Latency No More- Useful Patterns to Reduce ML Prediction Latency to Sub X ms | PyData NYC 2022 - YouTube](https://www.youtube.com/watch?v=sMDwOXvCpuA)
 * [Vincent Warmerdam: Winning with Simple, even Linear, Models | PyData London 2018 - YouTube](https://www.youtube.com/watch?v=68ABAU_V8qI&t=4s)
 * [기계 학습 모델을 활용한 물류 입고 프로세스 최적화. 쿠팡 풀필먼트 센터로 제품 입고 시 필요한 운송 트럭의 적정 수량을… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Mar, 2023 | Medium](https://medium.com/coupang-engineering/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%AC%BC%EB%A5%98-%EC%9E%85%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94-fe4490e44514)
+* [쿠팡이 '기계학습'으로 물류 입고 프로세스 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1973/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
