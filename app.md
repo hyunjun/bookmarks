@@ -2095,6 +2095,7 @@ App
   * [Why Figma Wins (Figma는 왜 이기는가?)](https://www.relate.kr/blog/why-figma-wins-korean/)
   * [피그마는 여러분을 나쁜 디자이너로 만들고 있습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1699/)
   * [감자탕 먹고 Vue.js로 Figma 번역 플러그인 만든 이야기](https://engineering.linecorp.com/ko/blog/create-figma-translation-plugin-with-vuejs)
+  * [피그마에서 브랜치 잘 사용하기](https://brunch.co.kr/@designsystemguy/5)
   * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
     * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
     * 사용법
