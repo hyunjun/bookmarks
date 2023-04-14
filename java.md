@@ -941,6 +941,16 @@ Java
     * Young generation의 크기 결정에 대한 예측 개선으로 GC 횟수 감소
     * 예방적 GC를 기본적으로 비활성화
 
+# Java21
+* [JEP 444: Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
+  * 프로젝트 룸의 버추얼 스레드를 사용해서 코루틴 디스패처를 구현한 예제
+  * 100만개 코루틴을 만들고 개당 1초씩 스레드 슬립을 줬을때 수행시간
+    * Dispatchers.IO(스레드 64개) : 4시간 20분
+    * Dispatchers.IO(스레드 5000개) : 3분 20초
+    * Dispatchers.LOOM(버츄얼 스레드 100만개) : 1초
+  * jdk19 이전 버전에선 최대치가 2번까지인데 스레드를 5000개나 만들면 하드웨어 자원을 엄청나게 먹기 때문에 사실상 불가능한 방식
+  * 메모리를 거의 안먹는 공짜 수준의 버츄얼 스레드 + 코루틴이 병렬처리에 매우 강함
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
