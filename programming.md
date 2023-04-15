@@ -3934,6 +3934,7 @@ Programming
     * FdI에서는 클라우드의 리소스를 추상화해서 애플리케이션 배포할 때에 인프라에 자동으로 매핑 가능
   * Next.js를 예로 들면 배포할 때 빌드된 정적 파일은 CDN 등에 올리고 컴퓨팅 파워가 필요한 서버 코드는 서버리스 이용
   * 클라우드의 서버리스 인프라는 매번 새로 만들 수 있으므로 이러한 구현이 가능해졌으며 불변 배포를 통해 배포와 인프라를 매핑 가능
+* [내가 생각하는 스타트업 미니멀 인프라 스택 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1666)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
