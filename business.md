@@ -354,6 +354,7 @@ Business
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
+* [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
@@ -1129,7 +1130,7 @@ Business
 * [비우호적인 환경에서는 까칠한 태도로 말하라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255694)
 * [Closed-loop communication - Wikipedia](https://en.wikipedia.org/wiki/Closed-loop_communication)
   * [Is there a “Big Five” in Teamwork? | Scinapse](https://www.scinapse.io/papers/1967246150)
-* [5x5 적절한 상황에 적합한 한 마디면 충분합니다.](https://brunch.co.kr/@xmetal/241)
+* [5x5 적절한 상황에 적합한 한 마디면 충분합니다](https://brunch.co.kr/@xmetal/241)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1735,6 +1736,8 @@ Business
   * [한기용 - 좋은 사람을 뽑았다면 그 다음은?](https://www.linkedin.com/posts/activity-6978605574007459840-ATGu/)
 * [스타플레이어가 꼭 있어야 할까?](https://www.facebook.com/shinsoojungceo/posts/pfbid02miiozDZeFc7NnUCtZHmiEPbutZLKySaG8ekoVseDNNDecqLGnBobiN1SBe9pozerl)
 * [A Guide To Managing Technical Teams • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=urghSC21Mx0)
+* [조직과 삶을 효과적으로 관리 하기 위한 방법: 파킨슨의 3가지 법칙](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EC%A7%81%EA%B3%BC-%EC%82%B6%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%ED%8C%8C%ED%82%A8%EC%8A%A8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B2%95%EC%B9%99-1-%EA%B0%84%ED%98%B9-activity-7052798656927715328-3M89/)
+* [프로젝트 진행 계획표, 왜 필요하고 어떻게 작성해야 할까? | 웹으로 말하기](https://mytory.net/archives/14075)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
