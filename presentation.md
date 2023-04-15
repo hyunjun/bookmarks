@@ -70,6 +70,8 @@ Presentation
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [canva.com](https://www.canva.com)
 * [digital-human](https://github.com/hunkim/digital-human)
+* [Gamma App](https://gamma.app/)
+  * [드디어 출시!! 여러분도 직접 해보세요..ㄷㄷㄷ 3분만에 만드는 PPT "직장인 반복노동의 종말" - YouTube](https://www.youtube.com/watch?v=SXRWHHKLqBM)
 * [gratisography.com](https://gratisography.com/) free photo
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
