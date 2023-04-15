@@ -475,6 +475,7 @@ Java
   * [Netty 구조적 특징 (2) : 비동기](https://velog.io/@joosing/httpsvelog.iojoosingnetty-structural-features-2-asynchronous)
   * [Netty 구조적 특징 (3) : 이벤트 루프](https://velog.io/@joosing/netty-structural-features-3-eventloop)
   * [개발일기 #102 : 대용량 파일 패치, 68초 → 5초로 성능 개선](https://velog.io/@joosing/dev-diary-102)
+  * [Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
@@ -1539,6 +1540,7 @@ Java
 
 ## Library GraphQL
 * [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
+* [GraphQlTester를 사용할 때 entity 변환이 안되는 이유(feat: ObjectMapper)](https://velog.io/@hyemin916/GraphQlTester%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-entity-%EB%B3%80%ED%99%98%EC%9D%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0feat-ObjectMapper)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 
 ## Library logger logging
