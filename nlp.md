@@ -789,6 +789,7 @@ NLP
     * [챗GPT에 날개를 달아줄 랭체인! (LangChain)](https://aifactory.space/learning/2359/discussion/215)
     * [ChatGPT와 Azure가 만났을 때 PDF 문서](https://aifactory.space/learning/2358/discussion/218)
       * [ChatGPT러닝데이 CognitiveSearch_and_OpenAIService.ipynb - Colaboratory](https://colab.research.google.com/drive/1oZtXh4okbCEegs7abNfxazv3Oex0qLCK?usp=sharing)
+      * [Azure OpenAI 및 ChatGPT 실습가이드 (Hands-on-lab)](https://www.slideshare.net/MinnieSeungminCho/azure-openai-chatgpt-handsonlab)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
