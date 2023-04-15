@@ -412,6 +412,7 @@ Network
 * [Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
 * [Unit testing a TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
 * [10분 만에 훑어보는 TCP와 UDP - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
+* [UDP(Message oriented) vs TCP (Stream oriented)](https://velog.io/@joosing/udp-message-oriented-vs-tcp-stream-oriented)
 * [Connection Timeout과 Read Timeout 살펴보기](https://alden-kang.tistory.com/20)
   * Connection Timeout은 종단 간 연결하는데 필요한 최대 시간 의미, 이 시간이 넘어가면 연결할 수 없다고 판단하고 오류 발생
   * Read Timeout은 연결된 종단 간에 데이터를 주고받을 때 걸리는 최대시간, 이 시간 내에 데이터를 다 받지 못하면 오류 발생
