@@ -2003,7 +2003,11 @@ Programming Books
 * (NOT YET) [서비스 개발의 시작 – 클라우드플랫폼팀 이야기 – tech.kakao.com](https://tech.kakao.com/2022/04/28/cloud-platform/)
 * (NOT YET) 클라우드 전환 그 실제 이야기 : 지속 가능한 클라우드
   * 탐라 문004.588-공66ㅋ
-* (NOT YET) [서비스 메시 마스터 | 에이콘출판사](http://acornpub.co.kr/book/mastering-service-mesh)
+* (NOT YET) [서비스 메시 마스터 | 에이콘출판사](http://acornpub.co.kr/book/mastering-service-mesh/)
+  * 탐라 문005.5-카838ㅅ
+  * [servicemeshbook](https://github.com/servicemeshbook/)
+  * [Mastering-Service-Mesh: Mastering Service Mesh, published by Packt](https://github.com/PacktPublishing/Mastering-Service-Mesh)
+  * [9781789615791_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781789615791_ColorImages.pdf)
 * (NOT YET) [클라우드 네이티브 트랜스포메이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289969087)
   * 탐라 문004.588-레78ㅋ
 * (NOT YET) [클라우드 네이티브 애플리케이션 디자인 패턴](https://jybaek.tistory.com/965)
