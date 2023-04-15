@@ -254,6 +254,7 @@ Artificial Intelligence
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
 # Library
+* [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [Codeball -> AI-powered code review](https://codeball.ai/)
