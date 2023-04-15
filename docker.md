@@ -1646,6 +1646,7 @@ Docker
 * [쿠버네티스 앱의 분산 추적에 관해서 지금 알면 좋은 사항(2023.03.29) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/tracing)
 * [Building a Managed Platform While Maintaining a Good Developer Experience • Thor Lange • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=n6dZArS57x0)
 * [**Inner Development Loop with Java on Kubernetes • Thomas Vitale • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=SSuGJZIwnZs)
+* [Operating High Traffic Websites on Kubernetes - YouTube](https://www.youtube.com/watch?v=S92WvHaOVQk)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
