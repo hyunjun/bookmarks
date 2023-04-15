@@ -272,6 +272,7 @@ iOS
 * [MVVM in iOS (Revisited)](https://hackernoon.com/mvvm-in-ios-revisited-1e2de1419ba6)
 * [MVVM과 Reactive eXtension - Rx - yagom's blog 깨알 Tips](https://blog.yagom.net/mvvm%ea%b3%bc-reactive-extension-rx/)
 * [템플릿 메서드 패턴으로 모순 없는 상태 보장하기](https://engineering.linecorp.com/ko/blog/templete-method-pattern)
+* [빌더 패턴으로 iOS 커스텀 Alert 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/custom-alert-builder-pattern/)
 * [스위프트와 GRASP 원칙](https://medium.com/@codesquad_yoda/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%99%80-grasp-%ED%8C%A8%ED%84%B4-d5e37a1bb5dc)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Metal 기반 특별한 UI/UX 제공하기 · Present](https://present.do/decks/60bf920f1903093a77d1614d)
