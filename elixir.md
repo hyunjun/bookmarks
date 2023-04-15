@@ -188,6 +188,7 @@ Elixir
   * [Elixir/Phoenix Security: Remote Code Execution and Serialisation](https://paraxial.io/blog/elixir-rce)
   * [Elixir/Phoenix Security: What is CSRF via Action Reuse?](https://paraxial.io/blog/action-reuse-csrf)
   * [Elixir and Phoenix Security, Remote Code Execution (RCE) - YouTube](https://www.youtube.com/watch?v=ztoai7zm5i4)
+  * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
   * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
   * [Phoenix LiveView Zipped Uploads · Fly](https://fly.io/phoenix-files/phoenix-liveview-zipped-uploads/)
   * [Patrones en LiveVew para crear excelentes experiencias de usuario- Berenice Medel - YouTube](https://www.youtube.com/watch?v=QMx9gRzOgok)
