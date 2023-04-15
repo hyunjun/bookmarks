@@ -441,6 +441,9 @@ Programming Books
   * [How to Change the World: Change Management 3.0 Book by Jurgen Appelo](https://management30.com/books/how-to-change-the-world/)
   * [매니지먼트 3.0](https://github.com/hyunjun/bookmarks/blob/master/programming_books/management30.md#11-%EC%97%AD%EB%9F%89%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [매니지먼트 3.0](https://jh4hj.tistory.com/entry/%EB%A7%A4%EB%8B%88%EC%A7%80%EB%A8%BC%ED%8A%B8-30)
+* [매니지먼트 3.0 - 모두가 행복한 애자일 매니지먼트 | 에이콘출판사](http://www.acornpub.co.kr/book/managing-happiness/)
+  * ★★★★☆ 2023.04.15 위와 마찬가지로 두고두고 계속 읽어봐야 할 좋은 책
+  * 우당 문325.2-아843ㅁ
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
@@ -452,8 +455,6 @@ Programming Books
   * 한라 004-마888클 우당 문005.1-마839ㅋ
   * [클린코드 2장 의미있는 이름 - YouTube](https://www.youtube.com/watch?v=ybRg282RECs)
 * (NOT YET) [애자일 & 스크럼 프로젝트 관리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=82686435)
-* (NOT YET) [매니지먼트 3.0 - 모두가 행복한 애자일 매니지먼트 | 에이콘출판사](http://www.acornpub.co.kr/book/managing-happiness/)
-  * 우당 문325.2-아843ㅁ
 * (NOT YET) [애자일 소프트웨어 아키텍트의 길 | 에이콘출판사](http://www.acornpub.co.kr/book/agile-software-architect/)
   * 우당 문005.12-알48ㅇ
 * (NOT YET) [다시 장인 정신 《소프트웨어 장인 정신 이야기》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/02/28/%EB%8B%A4%EC%8B%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%E3%80%8A%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%E3%80%8B)
@@ -820,6 +821,11 @@ Programming Books
   * 한라
 * (NOT YET) [AI 지도책](https://www.facebook.com/greenmun21/posts/pfbid03owxoBtf6Hta3wypv4QRFhZzYTk7ccKXgcanum3pHReAs8BXYvUeySUTmK1PufKml)
   * 탐라
+* (NOT YET) [XAI, 설명 가능한 AI](https://bjpublic.tistory.com/463)
+  * 한라 004.73-오65ㅇ
+  * [XAI, 설명 가능한 AI](https://github.com/bjpublic/XAI)
+* (NOT YET) [핸즈온 파이썬을 이용한 설명가능한 AI(XAI)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286872055)
+  * 탐라 문004.73-로58ㅎ
 
 # C
 
@@ -2170,6 +2176,14 @@ Programming Books
 * (NOT YET) [러닝 타입스크립트 - 안정적인 웹 프로젝트 운영을 위한 타입스크립트의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1654)
 * (NOT YET) [가장 빨리 만나는 스벨트](https://nexi.kr/133)
   * 탐라 문005.118-박58ㄱ
+* (NOT YET) [함수형 자바스크립트 입문 2/e | 에이콘출판사](http://acornpub.co.kr/book/functional-javascript-2e)
+  * 한라 005.138-아292ㅎ 우당 문005.138-아231ㅎ
+* (NOT YET) [함수형 자바스크립트](https://hanbit.co.kr/store/books/look.php?p_code=B2731337630)
+  * 한라 005.138-아884ㅎ
+  * [functional-programming-js: Code Samples Functional Programming in JavaScript, Manning 2016](https://github.com/luijar/functional-programming-js)
+  * [functional-programming-js: "Functional Programming In Javascript" Source Codes which are translated in Korean](https://github.com/nililee/functional-programming-js)
+* (NOT YET) [함수형 자바스크립트 프로그래밍 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/62)
+  * 한라 005.138-유68ㅎ 우당 문005.138-유69ㅎ
 
 ## Angular
 
@@ -3333,7 +3347,6 @@ Programming Books
   * [RobustPython: Code Examples for Robust Python book](https://github.com/pviafore/robustpython)
   * <img src="programming_books/robust_python/4.jpg" alt="" width="400"/> <img src="programming_books/robust_python/5.jpg" alt="" width="400"/>
   * <img src="programming_books/robust_python/6.jpg" alt="C.A.R Hoare" width="400"/>
-
     * `소프트웨어 설계 구축에는 두 가지 방법이 있다. 하나는 아주 간단하게 구축해 결점이 발생할 여지가 없게 만드는 것이며, 다른 하나는 아주 복잡하게 만들어 결점을 발견하기 어렵게 하는 것이다. 전자의 방법이 훨씬 어렵다.`
     * [The emperor's old clothes | Communications of the ACM](https://dl.acm.org/doi/10.1145/358549.358561)
 * 전문가를 위한 파이썬 프로그래밍 - 애플리케이션 구축, 유지보수, 패키징, 배포 등 모던 파이썬 개발 [가장 깊은 곳까지 놀라운 파이썬 여행](https://jpub.tistory.com/1301)
