@@ -272,6 +272,7 @@ iOS
 * [An overview of the MVVM design pattern in Swift](https://medium.freecodecamp.org/an-overview-of-the-mvvm-design-pattern-in-swift-fb815ea5da40)
 * [MVVM in iOS (Revisited)](https://hackernoon.com/mvvm-in-ios-revisited-1e2de1419ba6)
 * [MVVM과 Reactive eXtension - Rx - yagom's blog 깨알 Tips](https://blog.yagom.net/mvvm%ea%b3%bc-reactive-extension-rx/)
+* [버터플라이 아키텍처를 소개합니다. iOS 클린 아키텍처에 대한 해석 | by Jung Kim | Apr, 2023 | Medium](https://medium.com/@jungkim/%EB%B2%84%ED%84%B0%ED%94%8C%EB%9D%BC%EC%9D%B4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-9d4abd71c3c1)
 * [템플릿 메서드 패턴으로 모순 없는 상태 보장하기](https://engineering.linecorp.com/ko/blog/templete-method-pattern)
 * [빌더 패턴으로 iOS 커스텀 Alert 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/custom-alert-builder-pattern/)
 * [스위프트와 GRASP 원칙](https://medium.com/@codesquad_yoda/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%99%80-grasp-%ED%8C%A8%ED%84%B4-d5e37a1bb5dc)
