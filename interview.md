@@ -559,6 +559,7 @@ Interview
   * [Notification Service System Design Interview Question to handle Billions of users & Notifications - YouTube](https://www.youtube.com/watch?v=CUwt9_l0DOg)
   * [System Design Using Bloom Filter | What is Bloom Filter | Data Structure - YouTube](https://www.youtube.com/watch?v=hFMuWNscjyI)
   * [Payment Gateway System Design | Payment Processing | System Design - YouTube](https://www.youtube.com/watch?v=NxjGFIgFCbg)
+  * [Google system design interview: Design Spotify (with ex-Google EM) - YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
