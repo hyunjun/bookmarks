@@ -2656,6 +2656,7 @@ Programming
 * [블로그 | 클라우드 비용을 절감하고 IT 운영을 개선하는 5가지 지혜 - CIO Korea](https://www.ciokorea.com/news/285685)
 * [클라우드 네이티브 가드레일이 개발 팀에 도움이 되는 5가지 이유 - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/guardrails)
 * [AWS, GCP, AZURE 쓰지 마세요](https://seokjun.kim/stop-using-aws-gcp-azure/)
+* [Choose Your Own Cloud Adventure – Knights, Fairies & Dragons • Lars Klint • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=i4CtpCaiOqc)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
