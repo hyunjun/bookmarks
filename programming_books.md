@@ -2138,6 +2138,7 @@ Programming Books
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
+* (NOT YET) [자바 개발자를 위한 데브옵스 툴](https://hanbit.co.kr/store/books/look.php?p_code=B1030979866)
 
 # JavaScript
 
