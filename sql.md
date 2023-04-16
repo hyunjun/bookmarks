@@ -784,6 +784,7 @@ SQL
 * [최신 하드웨어를 활용하는 MySQL 스토리지 엔진 공동 연구 -한국어판- - YouTube](https://www.youtube.com/watch?v=UuYWwDlGvBE)
 * [MySQL `sql_mode`로 알아보는 시스템 변수 permanent, runtime설정](https://blog.jiniworld.me/64)
 * [MySQL BOOLEAN 컬럼. PostgreSQL 서버와 같은 RDBMS 서버는 네이티브하게… | by Sunguck Lee | 당근마켓 팀블로그 | Mar, 2023 | Medium](https://medium.com/daangn/mysql-boolean-%EC%BB%AC%EB%9F%BC-7abd9b35c664)
+* [MySQL에 View를 만들 땐 파생 테이블을 주의하자](https://velog.io/@hyemin916/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-View%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%90-%EC%9E%84%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EC%A3%BC%EC%9D%98%ED%95%98%EC%9E%90)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
