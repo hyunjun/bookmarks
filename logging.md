@@ -59,6 +59,7 @@ Logging
 * [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance | by Ajay Gupta | IBM Cloud | Medium](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
 * [5 new sudo features sysadmins need to know in 2022 | Opensource.com](https://opensource.com/article/22/2/new-sudo-features-2022)
 * [2022 State of Observability and Log Management - YouTube](https://www.youtube.com/watch?v=x0MLPqX6toA)
+* [1. 효율적으로 로그 모니터링하기 - 로그 레벨 구분하기](https://jojoldu.tistory.com/712)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
