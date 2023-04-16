@@ -102,6 +102,7 @@ Elixir
 * [An Incremental Approach to Declarative Design](https://zachdaniel.dev/incremental-declarative-design/)
 * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
 * [Connecting Livebook To Phoenix - YouTube](https://www.youtube.com/watch?v=nXlxRpZRrx4)
+* livebook [Launch Week 1 - YouTube](https://www.youtube.com/playlist?list=PLWBV_a-x-Zzi9U0X0edwNsdtxK4gd5T2p)
 * [Elixir Book Club](https://elixirbookclub.com/)
 * [ElixirClub](https://www.elixirclub.org/)
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
