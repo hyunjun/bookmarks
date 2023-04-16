@@ -257,6 +257,7 @@ Artificial Intelligence
 * [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
 * [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
+* [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
