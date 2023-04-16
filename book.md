@@ -456,7 +456,7 @@ Book
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
-  * 우당
+  * 우당 문334.9-권75ㄱ
 * (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
   * 우당
 * (NOT YET) [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
@@ -466,6 +466,7 @@ Book
   * 우당 문337.2-베238ㅅ
 * (NOT YET) [올림포스 연대기](https://hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
+  * 우당
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
@@ -1175,7 +1176,9 @@ Book
 * (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
   * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
 * (NOT YET) [만화로 보는 수메르 신화](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B6195564992)
+  * 탐라
 * (NOT YET) [만화로 보는 결정적 세계사](https://hanbit.co.kr/store/books/look.php?p_code=B1817011494)
+  * 탐라
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
