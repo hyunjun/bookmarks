@@ -512,6 +512,7 @@ AWS
 * [디바이스에 딱 맞는 이미지 제공하기 | blog.hoseung.me](https://blog.hoseung.me/2023-04-02-provide-fit-image/) Lambda, CloudFront
 * [AI Code Generator - Amazon CodeWhisperer - AWS](https://aws.amazon.com/ko/codewhisperer/)
   * [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
+  * [How Accenture is using Amazon CodeWhisperer to improve developer productivity | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/how-accenture-is-using-amazon-codewhisperer-to-improve-developer-productivity/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
