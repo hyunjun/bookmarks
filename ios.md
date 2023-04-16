@@ -122,6 +122,7 @@ iOS
 * [실험과 현지화에 흔들리지 않는 모바일 엔지니어링. 다양한 국가에서 현지화를 하며 시장을 뚫어가며 유저에게 더 나은 가치를… | by Hyeonsu Ha | 당근마켓 팀블로그 | Nov, 2022 | Medium](https://medium.com/daangn/%EC%8B%A4%ED%97%98%EA%B3%BC-%ED%98%84%EC%A7%80%ED%99%94%EC%97%90-%ED%9D%94%EB%93%A4%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-3c648f2ac74) cleanswift, i18n
 * [PRND iOS팀의 UseCase 활용기 | PRND](https://medium.com/prnd/%EF%B8%8F-prnd-ios%ED%8C%80%EC%9D%98-usecase-%ED%99%9C%EC%9A%A9%EA%B8%B0-e4ddbef274a1)
 * [SVG 진짜 정답인가? 그럼 PNG는?. 생산성과 효율성을 지향합니다. 근데 이제 퍼포먼스와 안정성을 곁들인 | by Lee Di | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/ios-%EC%84%B8%EA%B3%84-1%EC%9C%84-%EC%95%8C%EB%9E%8C-%EC%95%B1%EC%97%90%EC%84%9C-image-asset%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B2%95-png-vs-svg-a0291029b233)
+* [네비게이션 바에서 큰 타이틀 사용하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/enable-navigation-bar-large-title/)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
