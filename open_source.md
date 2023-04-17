@@ -194,6 +194,17 @@ Open Source
     * "harding the shards: managing datastore locality at scale with Akkio"라는 Facebook 기사 요약
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
+* [Buck2 build system website | Buck2](https://buck2.build/)
+  * [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+    * Facebook에서 새로운 빌드시스템인 Buck2를 오픈소스로 공개, 기존 Buck1보다 2배가 빠르다고 함
+    * Buck2의 목표는 Buck1의 핵심 개념과 워크플로우의 장점을 가져가면서 그 이후 Bazel, Adapton, Shake 등 Buck1 이후 생태계에 이뤄진 혁신의 영감을 받고 속도를 높이고 새로운 경험을 제공하는 것
+    * 다음의 설계 원칙으로 작성
+      * 코어 빌드 시스템은 언어 규칙에 대한 지식을 가지지 않는다. 코어는 Rust로 작성, 언어 규칙은 Starlark로 작성, 언어 규칙과 코어를 분리
+      * 하나의 증분 의존성 그래프로 빌드 시스템이 동작해 버그 감소, 병렬성 향상
+      * 규칙 API는 성능을 위한 고급 기능을 가지도록 설계
+      * 오픈소스 릴리스도 내부 버전과 거의 같음
+      * Buck2는 원격 실행과 통합되도록 작성되었고 Bazel과 동일한 API 사용
+      * Buck2는 가상 파일 시스템과 통합되도록 작성되어 전체 레파지토리를 체크아웃하지 않고 필요할 때 파일을 가져오는 게 가능
 * [Glean | Glean](https://glean.software/)
   * [Glean - 소스코드 정보 수집,검색 시스템 | GeekNews](https://news.hada.io/topic?id=4928)
 * [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
