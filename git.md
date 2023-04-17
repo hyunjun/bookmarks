@@ -1137,6 +1137,7 @@ Git
       * "Translate this code"는 해당 코드를 다른 프로그래밍 언어로 바꿔주는 기능
     * 이 익스텐션은 Copilot 익스텐션을 필요로 하므로 현재는 Copilot 익스텐션을 사용할 수 있는 사람만 사용 가능
   * [깃허브 코파일럿(Copilot)은 무엇이며, 왜 욕먹는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/933/)
+  * [Codeberg.org](https://codeberg.org/)
   * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
   * [GitHub Copilot JetBrains IDE/VS Code에서 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1603)
   * [“개발자들, 코파일럿 많이 쓸수록 생산성 향상됐다 느껴” 깃허브 - CIO Korea](https://www.ciokorea.com/news/245056)
