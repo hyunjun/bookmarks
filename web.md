@@ -281,6 +281,8 @@ Web
   * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
 * [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
   * [(번역) 프런트엔드 개발의 종말](https://velog.io/@sehyunny/the-end-of-fe-development)
+    * AI에 발전으로 인해 개발자의 일자리가 줄어들 것이라고 걱정을 많이 하는데 웹 개발자가 사라지지 않을 거라는 생각을 정리한 글
+    * 1990년대부터 노코드 도구들이 등장하고 웹 개발자는 쓸모없어졌다고 하는 얘기는 계속 있었지만 그런 일은 일어나지 않았고 GPT가 만들어 준 웹사이트는 놀랍지만 이미 지금도 이런 일에는 웹 개발자가 필요하지 않고 AI가 계속 발전하겠지만 AI의 환각 현상을 알아내거나 제대로 만들려면 여전히 웹 개발자가 필요
 * [2022년 웹 개발에서 고려해야 할 환경 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
 * [Making the world’s fastest website, and other mistakes - DEV Community](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 * [Interaction to Next Paint (INP)](https://web.dev/inp/)
