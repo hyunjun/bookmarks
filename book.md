@@ -473,6 +473,7 @@ Book
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [어떻게 원하는 것을 얻는가 (밀리언 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122013959)
   * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
+  * [Getting More](https://gettingmore.com/)
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 
 # Africa
