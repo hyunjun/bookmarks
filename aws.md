@@ -2068,6 +2068,8 @@ AWS
 * [안전한 작업을 위한 벡엔드 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223062401881)
 * [멀티 스테이징 관리를 위한 워크스페이스](https://blog.naver.com/pjt3591oo/223062603247)
 * [Terraform 오픈 소스 엔진을 기반한 AWS Service Catalog 제품 생성 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-self-service-provisioning-of-terraform-open-source-configurations-with-aws-service-catalog/)
+* [모던 테라폼 (Modern Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/modeon-terapom-modern-terraform)
+  * 박병진 님이 Terraform 1.0 이후 1.5까지 도입된 주요 변경 사항과 최근에 쓰고 있는 Terraform 관련 도구를 정리한 발표 자료
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
