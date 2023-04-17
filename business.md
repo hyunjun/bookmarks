@@ -1923,6 +1923,11 @@ Business
 * [고객에게 필요한 소식은 따로 있다. 고객의 니즈를 충족하고 비즈니스 임팩트를 낸 프로덕트 설계 | by Sumin Seo | 29CM TEAM | Mar, 2023 | Medium](https://medium.com/29cm/%EA%B3%A0%EA%B0%9D%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EC%86%8C%EC%8B%9D%EC%9D%80-%EB%94%B0%EB%A1%9C-%EC%9E%88%EB%8B%A4-b9077e131688)
 * [문제의 원인의 원인을 찾아서](https://toss.tech/article/real-reason)
 * [여기어때 퍼소나는 어떻게 만들어졌을까?. 글. 정혜수(Riley) / UX Researcher | by 여기어때 UX Center | Mar, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-%ED%8D%BC%EC%86%8C%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C-3c299cff3bc0)
+* [Skrr 출시 3일만에 카카오톡을 제치고 앱스토어 2위를 달성한 사이드 프로젝트🔥 | Disquiet\*](https://disquiet.io/@khj03020302/makerlog/7844)
+  * 한국 디지털미디어 고등학생들이 미국에서 인기 있던 익명투표 앱 Gas를 카피해서 국내에 릴리스해서 큰 인기를 끈 Skrr를 만든 과정을 정리한 글
+  * Gas 같은 익명 투표 앱이 국내에서도 동작할까 하는 가설을 검증하기 위해 Skrr를 제작
+    * 베타 테스트를 통해 투표 받으면 기분이 좋고 특성상 바이럴 될 수밖에 없으며 누가 투표했는지 알려면 돈을 내야 하는데 이 부분이 실제로도 너무 궁금해졌다고 함
+  * 학교 안에 쪽지를 남기는 마케팅을 진행하게 해 397명의 디지털미디어 고등학교 학생을 모으고 다른 학교에서 퍼지기 시작해서 16,000명의 사용자를 모았다고 함
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
