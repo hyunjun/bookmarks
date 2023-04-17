@@ -662,6 +662,7 @@ Docker
 * [텍스트큐브를 도커로 마이그레이션하기](https://cliearl.github.io/posts/linux/migrate-textcube-to-docker/)
 * [AAAP – 작업환경 as a Service 개발기 – tech.kakao.com](https://tech.kakao.com/2022/12/15/aaap/)
 * [Docker: Its Hidden Complexity will be the Death of your Startup](https://www.derpytools.com/docker-its-hidden-complexity-will-be-the-death-of-your-startup/)
+* [**컨테이너의 구조와 오픈소스의 생태계에 관한 리서치(feat. 도커는 적폐인가?)**](https://ykarma1996.tistory.com/192)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1716,6 +1717,7 @@ Docker
   * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
   * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
   * [Kubernetes – Calico Troubleshooting – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=7416)
+  * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179?category=1089407)
 * [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
 * Chaos Mesh [A Powerful Chaos Engineering Platform for Kubernetes | Chaos Mesh](https://chaos-mesh.org/)
   * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
@@ -1780,6 +1782,7 @@ Docker
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
 * [fluent-operator: Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator](https://github.com/fluent/fluent-operator)
   * [로그수집기 fluentbit in TACO LMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164136)
+  * [ElasticSearch Index LifeCycle to Template with Fluentbit](https://ykarma1996.tistory.com/115)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
 * [Flux](https://fluxcd.io/)
   * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
