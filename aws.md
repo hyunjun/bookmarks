@@ -513,6 +513,7 @@ AWS
 * [AI Code Generator - Amazon CodeWhisperer - AWS](https://aws.amazon.com/ko/codewhisperer/)
   * [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
   * [How Accenture is using Amazon CodeWhisperer to improve developer productivity | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/how-accenture-is-using-amazon-codewhisperer-to-improve-developer-productivity/)
+  * [무료 copilot - AWS Code whisperer - YouTube](https://www.youtube.com/shorts/6kNmVFFRKbw)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
