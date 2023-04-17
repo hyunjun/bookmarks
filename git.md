@@ -298,6 +298,14 @@ Git
   * 두 번째 실험에서는 빌드 동안 기다리는 대신 다른 작업을 한다고 가정
     * 결국 컨텍스트 스위칭이 일어나는데 컨텍스트 스위칭에 1시간이 걸린다고 가정하면 빌드 시간이 큰 의미 없어지지만
     * 15분, 30분이라고 생각하면 빌드시간을 줄이는 데 드는 비용이 개발자 비용보다 훨씬 적기 때문에 강력한 하드웨어를 쓰는 게 타당
+* [Building GitHub with Ruby and Rails | The GitHub Blog](https://github.blog/2023-04-06-building-github-with-ruby-and-rails/)
+  * Ruby on Rails로 만들어진 GitHub.com은 이제 200만 줄의 코드로 구성되어 1,000명이 협업
+  * 매주 월요일 GitHub Actions 워크플로우가 Rails 프로젝트 메인 브랜치의 최신 커밋으로 Rails 버전을 업데이트해서 모든 빌드를 새 버전으로 
+  * 전에는 새 버전 업데이트에 여러 달이 걸렸지만 이제 1주일 이내로 완료
+    * 이 이점으로 Rails에 패치를 보내고 기다리거나 할 필요없이 Rails 프로젝트에 바로 패치를 전송 가능(merge되면 다음 주에 바로 적용)
+    * 보안에도 좋으며
+    * 빅뱅 마이그레이션이 사라짐
+  * 비슷한 업그레이드가 Ruby에도 적용하고 있어서 Ruby 3.2때는 한 달 만에 업그레이드했지만 3.2.1을 당일날 업그레이드
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
