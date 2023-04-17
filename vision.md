@@ -531,6 +531,7 @@ Vision
     * [yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/wongkinyiu/yolov7)
       * [코딩없이 YOLOv7을 체험해보자! | Smilegate.AI](https://smilegate.ai/2022/08/21/%EC%BD%94%EB%94%A9%EC%97%86%EC%9D%B4-yolov7%EC%9D%84-%EC%B2%B4%ED%97%98%ED%95%B4%EB%B3%B4%EC%9E%90/)
     * [yolov7: Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7)
+    * [MaskRCNN vs YOLOv7: A Comparison of Object Segmentation Algorithms](https://muhammadrizwanmunawarvisionai.blogspot.com/2023/04/maskrcnn-vs-yolov7-a-comparison-of-object-segmentation-algorithms.html)
   * v8
     * [How to train YOLOv8 objection detection on a custom dataset](https://www.trainyolo.com/blog/how-to-train-yolov8-objection-detection-on-a-custom-dataset)
   * yolox
