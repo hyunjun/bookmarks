@@ -243,6 +243,10 @@ Programmer
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
   * 소프트웨어 엔지니어, QA 엔지니어, SRE, 머신러닝 엔지니어, 엔지니어링 매니저마다 각 레벨에서의 기대되는 역할과 핵심 책임 정리
   * [드롭박스의 엔지니어링 커리어 프레임워크 | GeekNews](https://news.hada.io/topic?id=4604)
+  * [Here's the latest version of our Engineering Career Framework - Dropbox](https://dropbox.tech/culture/our-updated-engineering-career-framework)
+    * Dropbox가 각 직무의 레벨과 각 레벨에서 요구되는 역할을 정의한 Dropbox Engineering Career Framework를 2년 전에 공개했는데 이번에 업데이트
+    * 기존 프레임워크가 크고 주목할 만한 성과에 평가와 승진이 치우쳐 있다는 인식이 있고 사내 설문조사 결과 각 역할의 Core Responsibilities가 수행 중인 업무를 반영하지 않는다고 25% 이상 대답하고 20%는 다음 단계로 가기 위해 뭘 해야 하는지 모르겠다고 대답
+    * 커리어 프레임워크는 승진을 위한 체크리스트가 아니라고 했지만 실제로 그렇게 쓰이고 있었기에 프레임워크의 명확성과 정확성을 개선
 * [Introducing The Complete Computer Science Career Path](https://www.codecademy.com/resources/blog/introducing-the-complete-computer-science-career-path/)
 * [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
