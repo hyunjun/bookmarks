@@ -2344,6 +2344,7 @@ Business
 * [스타트업 서바이벌 가이드 ② 망하는 스타트업 대표의 특징 5 : 비즈니스 매뉴얼｜미매뉴얼](https://www.memanual.co.kr/bmanual/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14261602)
 * [스타트업 서바이벌 가이드 ③ 위기 탈출을 위해 가장 먼저 해야할 것 : 비즈니스 매뉴얼｜미매뉴얼](https://www.memanual.co.kr/bmanual/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14294003)
 * [스타트업 재무관리](https://www.canda.blog/startup-treasury-101/)
+* [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
