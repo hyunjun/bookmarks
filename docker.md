@@ -1531,6 +1531,12 @@ Docker
 * [Multi-Tenancy in Kubernetes](https://www.infoq.com/presentations/multi-tenancy-kubernetes/)
 * [Kubernetes Workloads in the Serverless Era: Architecture, Platforms, and Trends](https://www.infoq.com/articles/kubernetes-workloads-serverless-era/)
 * [Kubernetes .. DaemonSet .. Ensures that all(or Some) Nodes run a copy of a pod .. Tips for CKA exam - YouTube](https://www.youtube.com/watch?v=ZYCNSHgHwhc)
+* [Kubernetes Tutorial | How to set environment variables in Pods - YouTube](https://www.youtube.com/watch?v=kbN8nMDqkRM)
+* [Pod rebalancing and allocations in Kubernetes | by Daniele Polencic | Apr, 2023 | ITNEXT](https://itnext.io/pod-rebalancing-and-allocations-in-kubernetes-df3dbfb1e2f9)
+  * Kubernetes에서 Pod을 균형 있게 스케쥴하는 옵션을 설명한 글
+  * antiaffinity는 같은 레이블을 가진 Pod을 다른 노드에 배치되도록 하고 topology spread constrains는 클러스터 전체에 Pod이 확산하는 정책 결정 가능
+  * 이 둘은 스케줄링할 때만 결정하기 때문에 이미 스케쥴링되었다면 조정하기 위해서 수동 재시작 필요
+  * 동적으로 Pod을 재조정하려면 Descheduler를 사용해서 계속 조정되게 가능
 * [Do you really need Kubernetes? | InfoWorld](https://www.infoworld.com/article/3527217/do-you-really-need-kubernetes.html)
 * [99% to 99.9% SLO: High Performance Kubernetes Control Plane at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Mar, 2022 | Medium](https://medium.com/pinterest-engineering/99-to-99-9-slo-high-performance-kubernetes-control-plane-at-pinterest-894bc8a964f9)
 * [Kubernetes tutorials | What is Node Affinity? - YouTube](https://www.youtube.com/watch?v=WHMk_wN-a3c)
@@ -1602,7 +1608,6 @@ Docker
 * [VITO CI/CD 변천사 #1 | 손스케일링. 안녕하세요. 리턴제로에서 서버팀을 맡고있는 Castor입니다. 저희가… | by Kim Seong Su | returnzero | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-1-%EC%86%90%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-a7a8eb9a4407)
 * [VITO CI/CD 변천사 #2 | Container Orchestration | by Choi Geonu | returnzero | Aug, 2022 | Medium](https://medium.com/return-zero/vito-ci-cd-%EB%B3%80%EC%B2%9C%EC%82%AC-2-container-orchestration-fcd466d6479c)
 * [Kubernetes Native Edge Computing Framework, kubeEdge I Kubernetes Tutorial - YouTube](https://www.youtube.com/watch?v=JEdRAW6O-kM)
-* [Kubernetes Tutorial | How to set environment variables in Pods - YouTube](https://www.youtube.com/watch?v=kbN8nMDqkRM)
 * [Re: 제로부터 구축한 새 홈페이지, homin.dev | Homin Lee's blog](https://suapapa.github.io/blog/post/20220908_homin-dev_with_k8s/)
 * [Kubernetes Objects #devops #devsecops #shorts #devopsshort #ytshort - YouTube](https://www.youtube.com/watch?v=dO0qQqLFq08)
 * [For the love of god, stop using CPU limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits/)
