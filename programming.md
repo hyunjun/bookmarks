@@ -301,6 +301,10 @@ Programming
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
 * [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
 * [SRE vs. DevOps: What are the Differences? - DZone DevOps](https://dzone.com/articles/sre-vs-devops-what-are-the-differences)
+* [DevOps vs SRE: delayed coverage of the dumbest war – charity.wtf](https://charity.wtf/2016/06/30/devops-vs-sre-delayed-coverage-of-the-dumbest-war/)
+  * Gareth Rushgrove가 2016년 West Coast Velocity 컨퍼런스에서 "The Two Sides of Google Infrastructure for Everyone Else(GIFEE)"라는 발표
+  * 이 발표에서 GIFEE가 구글 외 모두가 가져야 할 목표인지 구글이 아니면 상관없는지 찬성 반대 의견을 모두 얘기하면 제일 중요한 것은 컨텍스트라는 이야기
+  * 이 글을 쓴 honeycomb의 CEO인 Charity Majors도 자신이 그전에 올렸던 트윗을 정리하며 DevOps와 SRE의 철학적 논쟁은 컨텍스트의 힘을 무시했기 때문에 발생, Google SRE 원칙을 규범적인 모델로 적용하려고 하면 낭패를 볼 것이고 그런 획일적인 솔루션은 없다고 주장
 * [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
 * [Google SRE: Site Reliability Engineering at a Global Scale – The New Stack](https://thenewstack.io/google-sre-site-reliability-engineering-at-a-global-scale/)
 * [Observing and Understanding Failures: SRE Apprentices - YouTube](https://www.youtube.com/watch?v=qn-_PCORnCQ)
