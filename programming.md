@@ -1859,6 +1859,7 @@ Programming
   * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
   * [Resilience4j circuit breaker | microservices tutorial P-10 - YouTube](https://www.youtube.com/watch?v=2W7SEjS4O98)
   * [Implementing Circuit Breaker in Spring Boot Micro Service using Resillance4J - YouTube](https://www.youtube.com/watch?v=0dIpYpspcCM)
+  * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
 * [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 * [Python 기반 대규모 마이크로 서비스에서 Circuit Breaker 도입의 여정 | by Edward J. Yoon | Mar, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-circuit-breaker-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b694d83cbf48)
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
