@@ -108,6 +108,9 @@ Open Source
 * [0x00D - Open-source Business Models 💸](https://unzip.dev/0x00d-open-source-business-models/)
   * [오픈소스 비즈니스 모델들 | GeekNews](https://news.hada.io/topic?id=7822)
 * [**해커 문화의 뿌리를 찾아서**](https://github.com/black7375/ReadabilityDocs/blob/master/%ED%95%B4%EC%BB%A4%20%EB%AC%B8%ED%99%94%EC%9D%98%20%EB%BF%8C%EB%A6%AC%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C/README.md)
+* [Calling all open source maintainers | The GitHub Blog](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
+  * 오픈소스 메인테이너가 서로 교류할 수 있도록 GitHub에서 비공개 공간 제작
+  * 메인테이너를 위한 이벤트, 베타/프리뷰 기능에 대한 조기 접근, 오픈소스에 대한 워크숍을 진행할 예정이고 오픈소스 메인테이너라면 해당 저장소에 직접 초대를 요청 가능
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
