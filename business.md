@@ -1706,6 +1706,7 @@ Business
 * [9 Powerful Ways To Align Engineering And Product Teams](https://www.cloudzero.com/blog/engineering-and-product-alignment)
 * [스타트업은 왜 후드티를 입을까: 성공하는 리더의 메타인지(1)](https://eopla.net/magazines/2801)
 * [위대한 리더의 차별점과 4가지 종류의 창의성 기르기](https://brunch.co.kr/@graypool/852)
+* [내 목소리로 사람들을 이끌 수 있는 능력 | .. : 네이버블로그](https://blog.naver.com/bizucafe/223067440409)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -2345,6 +2346,7 @@ Business
 * [스타트업 서바이벌 가이드 ③ 위기 탈출을 위해 가장 먼저 해야할 것 : 비즈니스 매뉴얼｜미매뉴얼](https://www.memanual.co.kr/bmanual/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14294003)
 * [스타트업 재무관리](https://www.canda.blog/startup-treasury-101/)
 * [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
+* [스타트업은 곧 성장이다 (한글 번역) | St.. : 네이버블로그](https://blog.naver.com/bizucafe/223071093436)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
