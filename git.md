@@ -607,6 +607,10 @@ Git
   * [Git Flow Is A Bad Idea • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JOr4QeIjyW4)
   * [Git Flow에서 트렁크 기반 개발으로 나아가기 - 맘시터 기술블로그](https://tech.mfort.co.kr/blog/2022-08-05-trunk-based-development/)
   * [매일 배포하는 팀이 되는 여정(1) — 브랜치 전략 개선하기 | by Jeremy | 당근마켓 팀블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-1-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1a1df85b2cff)
+    * 잦은 배포를 위해서 브랜치 전략을 공부하고 배포 과정을 개선해 나간 경험
+    * Git Flow 전략을 쓰면서 정기 배포일을 정해놓고 배포하고 있었는데 한 번에 너무 많은 변경 사항이 같이 나가다 보니 추적도 어려웠고 배포도 점점 부담되어서 Git Flow의 단점이 보이기 시작해서 브랜치 전략을 공부
+    * main 브랜치를 mainline으로 사용하는 GitHub Flow와 Trunk-Based 브랜치 전략을 공부
+      * GitHub flow를 선택하고 배포 과정이 훨씬 나아졌다고 함
   * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
