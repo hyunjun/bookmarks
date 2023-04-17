@@ -282,6 +282,11 @@ Open Source
 * [Fossies - The "Fossies" Software Archive](http://fossies.org/)
 * [FOSSLight | 오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트](https://fosslight.org/ko/)
 * [**Github - 오픈소스 기여를 위한 GITHUB 개념정리**](http://guruble.com/?p=116)
+* [github-ospo: Helping open source program offices get started](https://github.com/github/github-ospo)
+  * [An open source project to empower OSPOs everywhere | The GitHub Blog](https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/)
+    * Open Source Program Office(OSPO)는 회사의 오픈소스 전략, 정책, 프로세스를 관리하는 팀
+    * GitHub에서 이를 구축하는 데 도움이 되도록 github-ospo 저장소 공개
+      * 이 저장소에는 오픈소스 저장소에 추가할 각 라이센스 등의 문서와 정책, 가이드가 포함
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
