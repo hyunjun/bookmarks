@@ -1557,6 +1557,7 @@ AWS
   * [Deploy a NextJS 13 application to Amplify with the AWS CDK | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/deploy-a-nextjs-13-application-to-amplify-with-the-aws-cdk/)
   * [AWS Solutions Constructs를 조합하여 CDK 작성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-solutions-constructs-cdk/)
   * [데브옵스 CDK for Terraform으로 나만의 AWS Resource 정의하기 | 황성찬, AWS Community Builder - YouTube](https://www.youtube.com/watch?v=JssIKrwXeZg)
+  * [AWS Cloud Development Kit(CDK)을 활용한 포티투닷(42dot)의 Fleet Management System(FMS) 자동화 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloud-development-kit-cdk-42dot-fleet-management-systemfms-automation/)
   * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [cdk_sample: cdk typescript로 aws 인프라 구축/테스트 해보는 샘플입니다](https://github.com/blackwitch/cdk_sample)
   * [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!](https://github.com/aws/jsii)
