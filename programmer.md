@@ -259,6 +259,10 @@ Programmer
 * [Curated paths for developers | pathify](https://pathify.dev/)
 * [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
 * [한기용 - 승진, 커리어](https://www.linkedin.com/posts/activity-6976585732786176001-6ALl/)
+* [Part 0 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223072810529)
+* [Part 1 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223073082777)
+* [Part 2 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223074172802)
+* [Part 3 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223075385923)
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
