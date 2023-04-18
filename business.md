@@ -792,11 +792,11 @@ Business
 * [하드 스킬보다 소프트 스킬이 중요하다. - T Times](http://www.ttimes.co.kr/view.html?no=2022012016577779004) 머스크가 좋은 놈인지 모르겠는데 나쁜 놈은 안 된다는 게 아이러니하긴 하지만 이야기 자체는 동의
 * [남세동 대표가 자기주도적 직원 뽑는 4단계 채용비법 - T Times](http://www.ttimes.co.kr/view.html?no=2022022516187784424)
 * 개발자들에게 채용에 좋은 인상을 줄 수 있을까?
-  * [Sir.LOIN 플랫폼팀을 소개합니다!](https://github.com/sirloin-dev/meatplatform/blob/master/README.adoc)
-  * [신입 개발자의 첫 홀로서기 프로젝트. 안녕하세요!! 29CM 를 첫 직장으로 삼고서 5개월차에 접어든 병아리… | by Jihye Woo | 29CM 기술블로그 | Mar, 2022 | Medium](https://medium.com/29cm/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2303ff8dfe30)
-    * 29CM에 입사한 신입 개발자가 최대 혜택가 관련 기능을 개발하면서 겪을 경험 정리
-    * 도메인 파악이 어려워서 의사 결정 테이블로 조건을 정리하고 QA까지 통과해서 배포했지만, 성능 문제가 발생
-    * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
+* [Sir.LOIN 플랫폼팀을 소개합니다!](https://github.com/sirloin-dev/meatplatform/blob/master/README.adoc)
+* [신입 개발자의 첫 홀로서기 프로젝트. 안녕하세요!! 29CM 를 첫 직장으로 삼고서 5개월차에 접어든 병아리… | by Jihye Woo | 29CM 기술블로그 | Mar, 2022 | Medium](https://medium.com/29cm/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2303ff8dfe30)
+  * 29CM에 입사한 신입 개발자가 최대 혜택가 관련 기능을 개발하면서 겪을 경험 정리
+  * 도메인 파악이 어려워서 의사 결정 테이블로 조건을 정리하고 QA까지 통과해서 배포했지만, 성능 문제가 발생
+  * Postgresql의 인덱스 개선, 리인덱싱 문제를 해결하고 메모리릭 문제를 힙덤프로 해결
 * [개발자 모시려면 일·비전·문화 다 바꿔라 - ZDNet korea](https://zdnet.co.kr/view/?no=20220622091527)
 * [실력있는 개발자를 움직이고 싶다면](https://brunch.co.kr/@hyungsukkim/167)
 * [Why is recruiting developers so difficult?](https://polyfill.work/blog/why-is-recruiting-developers-so-difficult)
@@ -858,6 +858,7 @@ Business
 * [Client 기술, 어떤 직무가 나에게 딱 맞을까? – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-client/)
 * [서버와 계정계를 잇는 뱅킹API 개발자 이야기](https://brunch.co.kr/@kakaobankplus/28) 카카오뱅크
 * [개발자 채용공고의 숨은 의도](https://brunch.co.kr/@leehosung/59)
+* [CNCF 플랫폼 백서(White Paper) - CNCF](https://sysnet4admin.gitbook.io/cncf/cloud-native/kubernetes-k8s/architecture/platform_whitepaper) 채용 공고와는 무관하지만 플랫폼 팀의 역할에 대해 잘 쓴 글
 
 ## 채용 onboarding
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
