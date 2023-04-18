@@ -29,6 +29,7 @@ GIS
 * [The Evolution of Map Design: From Medieval Latin to Google Maps | by Daniel Ruston | Google Design | Medium](https://medium.com/google-design/design-for-a-map-927b533ac544)
 * [예측 가능한 대규모 서비스 개발하기. 일정 퍼포먼스 이상을 내도록 서비스를 구성하는 과정과, 성능을 테스트… | by Changhoi Kim | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/%EC%98%88%EC%B8%A1-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-a33e2f3cef88)
 * [Rethinking GPS: Engineering Next-Gen Location at Uber | Uber Blog](https://www.uber.com/en-SE/blog/rethinking-gps/)
+* [**쿠팡 로켓배송: 공간 색인 기반의 새로운 배송 영역 관리 시스템 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Apr, 2023 | Medium**](https://medium.com/coupang-engineering/%EC%BF%A0%ED%8C%A1-%EB%A1%9C%EC%BC%93%EB%B0%B0%EC%86%A1-%EA%B3%B5%EA%B0%84-%EC%83%89%EC%9D%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%B0%B0%EC%86%A1-%EC%98%81%EC%97%AD-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-a59006bc4b6e)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
