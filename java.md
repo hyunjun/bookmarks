@@ -476,6 +476,7 @@ Java
   * [Netty 구조적 특징 (3) : 이벤트 루프](https://velog.io/@joosing/netty-structural-features-3-eventloop)
   * [개발일기 #102 : 대용량 파일 패치, 68초 → 5초로 성능 개선](https://velog.io/@joosing/dev-diary-102)
   * [Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
+  * [대용량 파일 서버 성능 개선기 (1) : 작은 청크로 분할 전송](https://velog.io/@joosing/large-file-server-performance-improvers-1)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
