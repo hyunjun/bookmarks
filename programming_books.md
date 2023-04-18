@@ -2782,6 +2782,8 @@ Programming Books
 * (NOT YET) [팀으로 일하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371830)
   * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
 * (NOT YET) [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
+* (NOT YET) [다니엘 핑크 후회의 재발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411735)
+  * 한라 325.211-핑877ㅎ 탐라 문325.211-핑828ㅎ 우당 문325.211-핑828ㅎ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)

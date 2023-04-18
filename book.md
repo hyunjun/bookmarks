@@ -475,6 +475,7 @@ Book
   * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
   * [Getting More](https://gettingmore.com/)
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
+* (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -615,6 +616,7 @@ Book
   * 한라 650.4-진44ㅇ 탐라 문650-진44ㅇ 우당 문650.4-진44ㅇ
 * (NOT YET) [반 고흐, 프로방스에서 보낸 편지](https://brunch.co.kr/@artinsight/1749)
   * 한라 653.269-베68반ㄱ
+* (NOT YET) [미술관에 간 인문학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302177451)
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -721,6 +723,8 @@ Book
   * 한라
 * (NOT YET) [승려와 수수께끼](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236999524)
   * 성산 HG325.211-랜229ㅅ
+* (NOT YET) [제로 투 원 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280602221&start=slayer)
+  * 한라 325.21-틸898제
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1180,6 +1184,14 @@ Book
   * 탐라
 * (NOT YET) [만화로 보는 결정적 세계사](https://hanbit.co.kr/store/books/look.php?p_code=B1817011494)
   * 탐라
+* (NOT YET) [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
+* (NOT YET) [100가지 동물로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313552939)
+* (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)
+* (NOT YET) [커피 세계사 + 한국 가배사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277669559)
+  * 우당 문594.3463-이19ㅋ
+* (NOT YET) [커피 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=162341210)
+  * 한라 594.3463-탄44ㅋ 탐라 문573.93-탄43ㅋ 우당 문594.3463-탄43ㅋ
+* (NOT YET) [세계사를 바꾼 커피 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296379585)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1403,6 +1415,7 @@ Book
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
   * 한라
+* (NOT YET) [심리학이 제갈량에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312399292)
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
