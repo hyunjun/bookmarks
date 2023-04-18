@@ -2882,6 +2882,10 @@ Programming
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [Code Red: The Business Impact of Code Quality– A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
+  * [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=aRR0EDazxIk)
+  * [Rethinking Productivity in Software Engineering Book](https://www.oreilly.com/library/view/rethinking-productivity-in/9781484242216/)
+  * [business-impact-of-code-quality-tornhill2022](https://codescene.com/hubfs/web_docs/Business-impact-of-low-code-quality.pdf)
+  * [Software Engineering Intelligence - CodeScene](https://codescene.com/)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [How to do a Code Review: The Ultimate Guide](https://www.codiga.io/blog/code-review-guide-checklist/)
