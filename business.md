@@ -1931,6 +1931,7 @@ Business
   * Gas 같은 익명 투표 앱이 국내에서도 동작할까 하는 가설을 검증하기 위해 Skrr를 제작
     * 베타 테스트를 통해 투표 받으면 기분이 좋고 특성상 바이럴 될 수밖에 없으며 누가 투표했는지 알려면 돈을 내야 하는데 이 부분이 실제로도 너무 궁금해졌다고 함
   * 학교 안에 쪽지를 남기는 마케팅을 진행하게 해 397명의 디지털미디어 고등학교 학생을 모으고 다른 학교에서 퍼지기 시작해서 16,000명의 사용자를 모았다고 함
+* [How to Build a Product that Scales into a Company - YouTube](https://www.youtube.com/watch?v=r-98YRAF1dY)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
