@@ -2779,6 +2779,9 @@ Programming Books
   * 한라 325.2-웨24ㄹ 탐라 문325.2-웨223ㄹ
 * (NOT YET) [개발자에게 물어보세요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313405468)
   * 탐라
+* (NOT YET) [팀으로 일하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371830)
+  * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
+* (NOT YET) [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
