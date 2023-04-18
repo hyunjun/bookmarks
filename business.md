@@ -356,6 +356,7 @@ Business
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
+* [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * ["공포와 압박 그만, 상식 따라 살라" 한국 기업문화에 던지는 충고](https://news.v.daum.net/v/20210521030132843)
