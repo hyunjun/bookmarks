@@ -2060,6 +2060,7 @@ Business
   * [성공적인 MVP를 빠르게 출시하기 위한 가이드](https://brunch.co.kr/@yongjinjinipln/98)
 * [MVP 출시의 고통](https://www.thestartupbible.com/2022/09/growing-pains-of-the-mvp-launch.html)
 * [MVP의 5가지 함정과 탈출법](https://brunch.co.kr/@jjollae/7)
+* [How to Build An MVP | Startup School - YouTube](https://www.youtube.com/watch?v=QRZ_l7cVzzU)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/) MLP
 * [스타트업 실패 가능성 확 줄이는 MVT 완전정복](https://www.nextunicorn.kr/content/f68bdd38e49122da)
 * [Vertical Slice vs MVP: What’s the Difference? – Tiny Hydra](https://tinyhydra.com/vertical-slice-vs-mvp/)
