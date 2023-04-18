@@ -1100,6 +1100,7 @@ Scala
     * [Zymposium - Reimplementing Magnolia: Exploring Scala 3's Compile-Time Features - YouTube](https://www.youtube.com/watch?v=X2EdbCO5e90)
     * [Pragmatic DDD in Scala with ZIO](https://www.notion.so/Pragmatic-DDD-in-Scala-with-ZIO-ed6399f13e3d43a0a4cb2a32cc7a6b3e)
     * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
+    * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=1jcaTeQgMhk)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1504,6 +1505,7 @@ Scala
     * [Integrating Java APIs with Cats Effect](https://softwaremill.com/integrating-java-apis-with-cats-effect/)
     * [Case study: The digital transformation of Santa’s logistical nightmare - Part 2 - Functional Feline Society](https://functional-feline-society.github.io/2022/12/22/io-part-2/)
     * [Effects: To Be Or Not To Be? By Adam Warski - YouTube](https://www.youtube.com/watch?v=sDnNjtkoUVs)
+    * [Integrating Akka with Cats-Effect 3 - Alexandru Nedelcu](https://alexn.org/blog/2023/04/17/integrating-akka-with-cats-effect-3/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
