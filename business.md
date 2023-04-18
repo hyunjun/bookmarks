@@ -817,6 +817,7 @@ Business
 * [일 잘하는 사람을 뽑으려면 어떻게 해야 할까? - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47358) 보상의 중요성
 * [스타트업 인재 채용, ‘보상 설계’가 중요합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hiresystem20220825)
 * [“네 사진도 언젠간 여기 걸릴 것이라 생각하면 설레지 않니?”](https://contents.premium.naver.com/saramin/waytowork/contents/221118103945167kd) 즉각적인 보상에 대한 이야기
+* [세계 최고 뇌 과학자가 말하는 보상을 바라면 망하는 이유 | 앤드류 후버만 Andrew Huberman - YouTube](https://www.youtube.com/watch?v=_IpS020giJ4) 내재적 보상
 * [사전 과제에서 무급 노동까지, IT 업계 채용의 그늘 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=47414)
 * [채용팀 대표 3직무 소개(+ 초기 스타트업에서는 누가 이 역할을 하는가?)](https://blog.wehire.kr/startup-hiring-sourcer-recruiter-coordinator/)
 * [스타트업 초기, 3개월 안에 디자이너 퇴사시키는 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/designer20220615) 내용은 디자이너 이야기이나 직군 무관하게 적용할 수 있는 이야기
