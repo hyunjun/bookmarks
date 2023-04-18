@@ -3186,6 +3186,7 @@ Javascript
     * Node.js와 브라우저 자바스크립트는 호환되지 않는데 Node.js는 파일 시스템 기반이고 브라우저 자바스크립트는 비동기적으로 스크립트와 리소스를 가져오기 위해 작성
     * 개발 환경을 개선하기 위해서 빌드 도구가 발명되었지만, 개발자 경험이 증가하는 만큼 빌드 복잡도는 증가하기 시작했고 요즘 도구는 빌드 도구는 컴파일, 압축, 번들링, 코드 분할로 나뉘어져 진행
     * Deno와 Fresh는 이러한 과정이 필요 없다고 주장
+  * [Deno: The JavaScript Runtime for the Serverless Era • Ryan Dahl • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
