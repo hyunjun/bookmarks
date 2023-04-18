@@ -1587,6 +1587,7 @@ Programming
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
+* [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
