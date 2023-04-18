@@ -11,6 +11,7 @@ Machine Learning
 * [ml-engineer-roadmap: WIP: Roadmap to becoming a machine learning engineer in 2020](https://github.com/chris-chris/ml-engineer-roadmap)
 * [머신러닝 엔지니어 커리어 로드맵. 송호연 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XM4hBpSylpM)
 * [How to Become a Machine Learning Engineer in 2022? Step-by-Step](https://www.mltut.com/how-to-become-a-machine-learning-engineer/)
+* [OpenAI 그렉 브록먼 "나는 어떻게 머신러닝 전문가가 됐나" | 요즘IT](https://yozm.wishket.com/magazine/detail/1977/)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
