@@ -1352,6 +1352,7 @@ Scala
 * [Using BSP effectively in IntelliJ and Scala | In Absentia](https://hmemcpy.com/2021/09/bsp-and-intellij/) BSP = Build Server Protocol
 * [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
 * [Performance tips for IntelliJ Scala Plugin | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2023/02/09/performance-tips-for-intellij-scala-plugin/)
+* [IntelliJ Scala 플러그인의 성능 팁 | The Scala Plugin Blog](https://blog.jetbrains.com/ko/scala/2023/04/18/performance-tips-for-intellij-scala-plugin/)
 
 ## IDE VS Code
 * [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
