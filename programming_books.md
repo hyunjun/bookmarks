@@ -3187,6 +3187,7 @@ Programming Books
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
+  * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
