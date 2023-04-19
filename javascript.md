@@ -4250,6 +4250,8 @@ Javascript
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
+* [React Labs: What We've Been Working On – March 2023 – React](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)
+  * [React 프로젝트 내부에서 연구 개발 중인 프로젝트를... | 커리어리](https://careerly.co.kr/comments/81632)
 * [Maintainable React Components with Layered Architecture | Bits and Pieces](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)
 
 ## React Flux
