@@ -553,6 +553,8 @@ Data Science
   * [Airbyte - 오픈소스 ELT | GeekNews](https://news.hada.io/topic?id=3666)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
+* [chatbot-reviewrate-compare: 네이버/카카오/구글 맛집 평점을 비교해주는 챗봇입니다](https://github.com/ddongmiin/chatbot-reviewrate-compare)
+  * [데이터야놀자(2022) - 데이터로 토이 서비스만들기 · Present](https://present.do/documents/637a2ac83e3ad95cc83113c9)
 * [danfojs: Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/javascriptdata/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
   * [Danfo.js | 재미있는 기억만 남기자](https://eyabc.github.io/Doc/dev/core-javascript/DanfoJS.html)
