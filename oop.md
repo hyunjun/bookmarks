@@ -154,6 +154,7 @@
 * [프로토콜 컴포지션이 클래스 상속 구조보다 유용한 경우를 설명하기 좋은 예제](https://wlaxhrl.tistory.com/85)
 * [Why COMPOSITION is better than INHERITANCE - detailed Python example - YouTube](https://www.youtube.com/watch?v=0mcP8ZpUR38)
   * [2021-composition-vs-inheritance](https://github.com/ArjanCodes/2021-composition-vs-inheritance)
+* ["Java Composition Tutorial: How to Use Composition to Create Powerful Code" - YouTube](https://www.youtube.com/watch?v=fwTeYl4x7h4)
 
 # Dependency Injection
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
