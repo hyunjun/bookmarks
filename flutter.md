@@ -176,6 +176,7 @@ Flutter
 * [How we make Flutter work with CallKit Call Directory | by Addevice | Medium](https://addevice.medium.com/how-we-make-flutter-work-with-callkit-call-directory-e56b7a9513b4)
 * [Flutter용 코드 푸시(Code Push) - Shorebird :: ChatGPT 정리](https://banjubu.tistory.com/317)
 * [옵저버블 플러터: gRPC :: ChatGPT 정리](https://banjubu.tistory.com/427)
+* [Stripe Payment Gateway In Flutter 2023 - YouTube](https://www.youtube.com/watch?v=1v-kUU0Vjq4)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
