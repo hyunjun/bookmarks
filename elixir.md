@@ -137,6 +137,7 @@ Elixir
 * [asdf-vm Build Status - Manage multiple runtime versions with a single CLI tool, extendable via plugins - docs at asdf-vm.com ](https://github.com/asdf-vm/asdf)
 * [Ash Framework](https://ash-hq.org/)
   * [Ash Primer: Calculations - YouTube](https://www.youtube.com/watch?v=oxaqpDlI-Hk)
+  * [Ash Primer: Migration Generator - YouTube](https://www.youtube.com/watch?v=GtsL_lIis4Q)
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [boruta-server: Lightweight Identity and Access Management server](https://github.com/malach-it/boruta-server)
   * [boruta-server: Lightweight Identity and Access Management server - 25 October 2022](https://www.loom.com/share/77006360fdac44bc9113fab9cf30aba5)
