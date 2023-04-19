@@ -193,6 +193,7 @@ Deep Learning
   * [OpenAI API with Python | 3 Use Cases with codes - YouTube](https://www.youtube.com/watch?v=yNSo6cWpDSM)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
+  * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
   * [requests-for-research](https://openai.com/requests-for-research/)
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
