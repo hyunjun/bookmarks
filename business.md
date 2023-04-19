@@ -2352,6 +2352,7 @@ Business
 * [스타트업 재무관리](https://www.canda.blog/startup-treasury-101/)
 * [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
 * [스타트업은 곧 성장이다 (한글 번역) | St.. : 네이버블로그](https://blog.naver.com/bizucafe/223071093436)
+* [스타트업을 하며 겪는 19가지 공통점 (한글 .. : 네이버블로그](https://blog.naver.com/bizucafe/223079236552)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
