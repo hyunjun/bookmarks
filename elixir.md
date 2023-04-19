@@ -107,6 +107,7 @@ Elixir
 * [ElixirClub](https://www.elixirclub.org/)
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
+* [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
 
 # API
 * sigils
