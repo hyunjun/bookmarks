@@ -1193,6 +1193,8 @@ Clojure
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
+* [togglz.com](https://www.togglz.com/)
+  * [I Built the World's Most Customizable News Feed - YouTube](https://www.youtube.com/watch?v=wSlZtYtmiVs)
 * [tools.analyzer: An analyzer for Clojure code, written in Clojure and producing AST in EDN](https://github.com/clojure/tools.analyzer)
 * [Toucan - A classy high-level Clojure library for defining application models and retrieving them from a DB](https://github.com/metabase/toucan)
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
