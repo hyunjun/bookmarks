@@ -1719,6 +1719,7 @@ AWS
 * [Amazon SageMaker로 컬리(Kurly) 상품 후기 분류 모델 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kurly-sagemaker-product-review-classification-model/)
 * [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
 * [Amazon SageMaker Canvas – 바로 사용 가능 모델, 사용자 지정 텍스트 및 이미지 분류 모델 지원 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
+* [Amazon SageMaker를 활용한 기계 학습에서 EFS 안의 민감 정보를 삭제하기 위한 서버리스 솔루션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sensitive-ml-training-data-lifecycle-management-using-aws-lambda/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -1765,6 +1766,7 @@ AWS
 * [Migrating to AWS Managed Streaming Kafka (MSK) | by Sandeep Mehta | softrock.io | Jan, 2022 | Medium](https://medium.com/softrock-io/migrating-to-aws-managed-streaming-kafka-msk-9b29d0137287)
 * [MSK and Glue Schema Registry: managed event stream platform on AWS. | by Igoreulalio Ie | Mar, 2022 | Medium](https://medium.com/@igoreulalio.ie/msk-and-glue-schema-registry-managed-event-stream-platform-on-aws-dcaaf451d77c)
 * [How SOCAR built a streaming data pipeline to process IoT data for real-time analytics and control | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/how-socar-built-a-streaming-data-pipeline-to-process-iot-data-for-real-time-analytics-and-control/)
+* [Amazon MSK를 이용하여 Amazon Athena로 실시간 스트리밍 데이터 분석하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/analyze-real-time-streaming-data-in-amazon-msk-with-amazon-athena/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
