@@ -471,9 +471,6 @@ Book
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
-* (NOT YET) [어떻게 원하는 것을 얻는가 (밀리언 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122013959)
-  * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
-  * [Getting More](https://gettingmore.com/)
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 * (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
 
@@ -703,6 +700,10 @@ Book
   * [The Goal 2 It's Not Luck](https://github.com/hyunjun/bookmarks/blob/master/books/the_goal_2_its_not_luck.md)
   * [The Goal 2 It’s Not Luck. I 위기의 도래 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/the-goal-2-its-not-luck-67cf0e47c059)
   * [The Goal 2 It's Not Luck](https://jh4hj.tistory.com/entry/The-Goal-2-Its-Not-Luck)
+* [어떻게 원하는 것을 얻는가 (밀리언 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122013959)
+  * ★★★☆☆ 2023.04.16~18
+  * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
+  * [Getting More](https://gettingmore.com/)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -1407,6 +1408,9 @@ Book
 * [정의 중독 - 르몽드디플로마티크](https://www.ilemonde.com/news/articleView.html?idxno=15042)
   * ★★★☆☆ 2023.04.12 뇌에 대한 연구를 바탕으로 전개하긴 하는데, 뇌 연구가 여전히 미지의 영역이 많은 부분이라 이걸 다 그대로 받아들일만 한지는 모르겠다. 그러나 새로운 걸 계속 받아들이고 일부러 어색하고 어려운 상황에 자신을 노출시키면서도 여유를 가지라는 등의 이야기는 다른 데서도 볼 수 있기도 하고 의미있는 조언이란 생각이다.
   * 한라 181.3-나872ㅈ 우당 문331.1-나821ㅈ
+* [그들의 생각을 바꾸는 방법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311968925)
+  * ★★★☆☆ 2023.04.18~9
+  * 탐라 문189.5-맥233ㄱ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
