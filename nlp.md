@@ -779,6 +779,8 @@ NLP
   * [Prompting Is Programming: A Query Language For Large Language Models](https://www.facebook.com/seongwan.kim.3/posts/pfbid03RMbuzmddJ3HdeXdP8cH9fus62dAsvhzzcr1r7bFpm3D4JMiemjcpUHzMKbtzAZ3l)
   * [ChatGPT를 활용해 정성적인 기대감을 정량적인 숫자로 바꿔보다 - 넷마블 기술 블로그](https://netmarble.engineering/comment-metric-labeling-by-chatgpt)
   * [Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT Tutorial |Simplilearn - YouTube](https://www.youtube.com/watch?v=B8N_HyGhZ0U)
+  * [챗GPT 근황 업데이트 : 네이버 블로그](https://blog.naver.com/ranto28/223068372777)
+  * [챗GPT 근황 A/S (feat 카니발리제이션) : 네이버 블로그](https://blog.naver.com/ranto28/223078242687) 기술 이야기 X 모두 맞는 이야기는 아니지만 cannibalization에 대한 이야기는 귀담아 들을만 함
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
