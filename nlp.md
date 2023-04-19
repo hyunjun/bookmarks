@@ -794,6 +794,7 @@ NLP
     * [ChatGPT와 Azure가 만났을 때 PDF 문서](https://aifactory.space/learning/2358/discussion/218)
       * [ChatGPT러닝데이 CognitiveSearch_and_OpenAIService.ipynb - Colaboratory](https://colab.research.google.com/drive/1oZtXh4okbCEegs7abNfxazv3Oex0qLCK?usp=sharing)
       * [Azure OpenAI 및 ChatGPT 실습가이드 (Hands-on-lab)](https://www.slideshare.net/MinnieSeungminCho/azure-openai-chatgpt-handsonlab)
+    * [생성에이전트 프롬프트 간소화 버전](https://aifactory.space/competition/2290/discussion/250)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
@@ -1197,6 +1198,8 @@ NLP
 * [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback - Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/)
 * [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 * [ChatGPT를 1~2달 써보고 써보고 본인이 LLM 전문가인듯이 글을 쓰는 사람들에 대한 반박](https://www.facebook.com/hyunwoongko/posts/pfbid02Xf5Du6dgadcMX7Dtdy1R5H3avpLa7CKP9iDPfXCHis1JEZSZwdo4995BDMop8zsbl)
+* [AI Playground by Vercel Labs](https://play.vercel.ai/)
+  * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
@@ -1251,6 +1254,7 @@ NLP
   * [마이크로소프트의 Semantic Kernel](https://www.facebook.com/seungjoon.choi/posts/pfbid022q3xw2Fcrfe1X2ycz3gqZF19uZkeZHwSyajEJWsWXWD6WeWtpDcDZeipx1KNkuXnl)
 * [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
   * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
+* StableLM: StableLM: Stability AI Language Models https://github.com/Stability-AI/StableLM
 * [stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data](https://github.com/tatsu-lab/stanford_alpaca)
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
