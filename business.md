@@ -117,6 +117,7 @@ Business
 * [공부 안 하는 어른 때문에 망하는 기업 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=4JOs_nkURdE) class101, day1 company(fast campus)
   * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
 * [왓차와 오늘의집 비즈니스의 결정적인 차이점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=7LNhvZblRMc)
+* [마이크로소프트는 매년 100조씩 쓴다 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=oijhx4XsRRw)
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
@@ -243,6 +244,7 @@ Business
       * 당연히 경영진급의 좋은 인재들이 퇴사하고 더 이상 리크루팅도 어려운 상황이라고 함
       * 60세 당시 은퇴를 번복했던 게 악수였을까?
 * [미션과 비전, 그리고 서비스](https://brunch.co.kr/@mojuns/16)
+* [What It Takes: Vision, Mission & Culture - YouTube](https://www.youtube.com/watch?v=RI4UKUlnIDc)
 * [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
@@ -1933,6 +1935,7 @@ Business
     * 베타 테스트를 통해 투표 받으면 기분이 좋고 특성상 바이럴 될 수밖에 없으며 누가 투표했는지 알려면 돈을 내야 하는데 이 부분이 실제로도 너무 궁금해졌다고 함
   * 학교 안에 쪽지를 남기는 마케팅을 진행하게 해 397명의 디지털미디어 고등학교 학생을 모으고 다른 학교에서 퍼지기 시작해서 16,000명의 사용자를 모았다고 함
 * [How to Build a Product that Scales into a Company - YouTube](https://www.youtube.com/watch?v=r-98YRAF1dY)
+* [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2071,6 +2074,7 @@ Business
 * [대기업 신사업 TFT가 늘 실패하는 이유](https://brunch.co.kr/@fbrudtjr1/43)
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/)
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
+* [Designing a Customer-Centric Business Model - YouTube](https://www.youtube.com/watch?v=L1Km-hJt-uI)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
 * [좋은 게 좋은 사람](http://www.thestartupbible.com/2015/05/the-colorless-person.html)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
@@ -2353,6 +2357,7 @@ Business
 * [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
 * [스타트업은 곧 성장이다 (한글 번역) | St.. : 네이버블로그](https://blog.naver.com/bizucafe/223071093436)
 * [스타트업을 하며 겪는 19가지 공통점 (한글 .. : 네이버블로그](https://blog.naver.com/bizucafe/223079236552)
+* [The Best Way To Launch Your Startup | Startup School - YouTube](https://www.youtube.com/watch?v=u36A-YTxiOw)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
