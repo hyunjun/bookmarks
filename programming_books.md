@@ -1129,6 +1129,7 @@ Programming Books
   * [Streaming Data](https://www.manning.com/books/streaming-data)
   * [streaming-data](https://github.com/bjpublic/streaming-data)
 * (NOT YET) [생활 속 예제로 배우는 생생 데이터 분석](https://www.youtube.com/watch?v=aPrpHAj2_FM)
+  * [8장. 기계 학습 라이브러를 활용하여 주식 시세 미래 예측하기 - YouTube](https://www.youtube.com/watch?v=WnXbyQ8zZF4)
 * (NOT YET) [데이터 품질의 비밀](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314634449)
 
 ## Deep Learning
