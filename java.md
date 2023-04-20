@@ -478,6 +478,7 @@ Java
   * [개발일기 #102 : 대용량 파일 패치, 68초 → 5초로 성능 개선](https://velog.io/@joosing/dev-diary-102)
   * [Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
   * [대용량 파일 서버 성능 개선기 (1) : 작은 청크로 분할 전송](https://velog.io/@joosing/large-file-server-performance-improvers-1)
+  * [개발일기 #106 : 네트워크 프로그래밍에 대한 소소한 배움들](https://velog.io/@joosing/dev-diary-106)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
