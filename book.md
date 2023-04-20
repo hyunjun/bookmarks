@@ -839,6 +839,8 @@ Book
   * 한라 327.85-쉴294ㅂ
 * (NOT YET) [버블 경제학](https://joohyeon.com/74)
   * 한라 327.9-쉴294ㅂ
+* (NOT YET) 장하준의 '경제학 레시피' [병든 대한민국, 유럽 같은 복지는 불가능한 걸까? 최재천과 장하준의 대담! / 최재천의 아마존 - YouTube](https://www.youtube.com/watch?v=gauJABbIbNE)
+  * 우당 문320.4-장91ㅈ
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
