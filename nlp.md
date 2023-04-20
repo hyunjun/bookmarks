@@ -1331,7 +1331,7 @@ NLP
   * [chat - cloud](https://sysnet4admin.gitbook.io/cloud/others/tools/alpaca/chat)
   * [DEMO alpaca-chat (7B, 30B) on local labtop(MacBook-Intel) - YouTube](https://www.youtube.com/watch?v=E1zAdwgMDys)
   * [Alpaca-LoRA-Serve: Alpaca-LoRA as Chatbot service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
-  * [KoAlpaca: KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
+  * [KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
 * [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
   * [Firebase Cloud Messaging 용 API KEY는 어디에서 찾을 수 있습니까? - 리뷰나라](http://daplus.net/firebase-firebase-cloud-messaging-%EC%9A%A9-api-key%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C/)
