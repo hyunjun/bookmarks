@@ -505,6 +505,7 @@ Go
 * [gitbook.com/search?q=go](https://www.gitbook.com/search?q=go)
 * [gitbook.com/search?q=golang](https://www.gitbook.com/search?q=golang)
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+* [Go for Beginners by Edward Thornton - YouTube](https://www.youtube.com/watch?v=Ku3dzH98zkc)
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [The Go Programming Language](http://www.gopl.io)
 * [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
