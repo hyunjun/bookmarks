@@ -124,6 +124,7 @@ Writing
 * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
   * [문서화에 대해 아무도 말해주지 않는 것들](https://lazygyu.net/blog/secrets_of_documentation)
 * [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
+* [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
 * [Write The Docs 3월 밋업 발표자료](https://blog.outsider.ne.kr/1435)
 * [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/)
 * [주석 분석기를 이용한 간단한 API 문서화 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
