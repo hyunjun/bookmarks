@@ -227,6 +227,7 @@ Programmer
 * [How to be a -10x Engineer](https://taylor.town/-10x)
   * [-10x 개발자 | Daniel Lee](https://typefully.com/dylayed/2tMRxRD)
 * [좋은 프로그래밍은 글쓰기와 닮아있다](https://velog.io/@eddy_song/writing-and-programming)
+* [개발자 양성, 어떻게 할 것인가?](https://www.slideshare.net/kimsubo/ss-256674213)
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
