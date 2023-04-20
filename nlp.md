@@ -1844,6 +1844,7 @@ NLP
 * [QA Search Engine: Amazon Kendra, Canada project, Talk to Books, etc](https://www.youtube.com/watch?v=-SrjxUVWiLo)
 * [정답 유형을 분류하는 딥러닝 기술](https://tech.kakaoenterprise.com/64)
 * [if(kakao)dev2022 한국어 오픈 도메인 질의응답 시스템 2.0](https://if.kakao.com/2022/session/70)
+* [Building a Document-based Question Answering System with LangChain, Pinecone, and LLMs like GPT-4. - YouTube](https://www.youtube.com/watch?v=cVA1RPsGQcw)
 * [FRDF Frame Semantic-based QA system](https://machinereading.github.io/FRDF/)
   * [FRDF: Frame-semantic-based QA system](https://github.com/machinereading/FRDF)
 * [gotquestions.org](http://www.gotquestions.org/)
