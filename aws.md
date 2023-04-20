@@ -515,6 +515,9 @@ AWS
   * [How Accenture is using Amazon CodeWhisperer to improve developer productivity | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/how-accenture-is-using-amazon-codewhisperer-to-improve-developer-productivity/)
   * [무료 copilot - AWS Code whisperer - YouTube](https://www.youtube.com/shorts/6kNmVFFRKbw)
   * [코파일럿에 이어 CodeWhisperer까지! 코딩 너무 쉬워진다! - YouTube](https://www.youtube.com/watch?v=lDeBfV16Lfo)
+* [AWS AI updates: Amazon Bedrock and 3 generative AI innovations](https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-generative-ai-service)
+  * [기업 고객 들에게 큰 박수받는 아마존의 '베드락'](https://www.facebook.com/youngwook.kim.7549/posts/pfbid0ifC8aPZoCC4LQoUfHf7aLyd72qZNmcNWeWYZMEyUKqUaaShsNftMBFeHYXSyAMkcl)
+* [스와미 시바수브라마니안 AWS 머신러닝 부사장 “본질적으로 중요한 것은 모델을 구축하는 방식”···보겔스 AWS CTO 대담 – 테크수다](http://www.techsuda.com/archives/19544)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
