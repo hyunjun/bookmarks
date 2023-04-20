@@ -864,6 +864,7 @@ Programming
   * [“솔직히 우리가 하는 것은 스크럼이 아닙니다!” | 요즘IT](https://yozm.wishket.com/magazine/detail/1474/)
 * [20 Years of Agile: Will Mindful Become the New Agile? • Markus Wittwer • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=1q7L2HUHHlk)
 * [제품 스쿼드의 스크럼 프로세스 개선기 1부. IT 서비스의 제품 스쿼드에서 스크럼을 사용하면서 어떤 어려움을… | by Labhong | 레몬베이스 (Lemonbase) | Dec, 2022 | Medium](https://medium.com/lemonbase/%EC%A0%9C%ED%92%88-%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9F%BC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-1%EB%B6%80-18197f8a0158)
+* [제품 스쿼드의 스크럼 프로세스 개선기 2부. 제품 스쿼드의 ‘스크럼 프로세스 개선’ 경험을 이야기합니다. | by Labhong | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/%EC%A0%9C%ED%92%88-%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9F%BC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-2%EB%B6%80-1f1f2587fe15)
 * [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
 * [강남언니가 극도로 애자일하게 협업하는 방법](https://blog.gangnamunni.com/post/radical-collaboration/)
 * [Software development: do good manners matter? PeerJ](https://peerj.com/articles/cs-73/) This paper investigates social aspects among developers working on software projects developed with the support of Agile tools
@@ -5362,6 +5363,7 @@ Programming
 * [Developer Joy – How great teams get s%\*t done by Sven Peters - YouTube](https://www.youtube.com/watch?v=Aws4CIe426I)
 * [Software Engineering vs Software Craftsmanship • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=PvxQDEFTJzs)
 * ["우수한 개발팀"의 지표를 딱 하나 꼽으라면](https://typefully.com/dylayed/RPoCpU2)
+* [Guns, Lots of Guns: There Is No Silver Bullet • Lars Kruse • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7IB2cN1iI4A)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
