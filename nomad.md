@@ -4,6 +4,7 @@ Nomad & Remote
 * [~www.facebook.com/digitalnomad.korea~](https://www.facebook.com/digitalnomad.korea/)
 * [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/) 국가, 도시간 물가 비교
 * [payscale.com](https://www.payscale.com/)
+* [노마드인서울 블로그 | 디지털 노마드 실전 가이드북](https://blog.nomadinseoul.com/)
 * [personal income tax rate](https://tradingeconomics.com/country-list/personal-income-tax-rate)
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)
 * [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
