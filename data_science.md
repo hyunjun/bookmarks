@@ -925,6 +925,7 @@ Data Science
   * [상남자 특) 트위터 소스코드 깃헙에 공개함 - YouTube](https://www.youtube.com/watch?v=zJI4bgEJ8IU)
 * [TikTok for Text! 라이너 앱 Session-based Recommender 구축기 – The Highlights – 라이너 팀 블로그](https://blog.getliner.com/sessrec/)
 * [The TikTok recommender system](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7050129099549249536-TctQ/)
+* [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
