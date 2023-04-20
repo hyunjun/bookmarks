@@ -1365,6 +1365,7 @@ Programming
 * [설계의 중요성을 설명하기가 왜 어려웠을까?](https://huns.me/posts/2019-09-19-why-is-it-difficult-to-understand-the-importance-of-archictecture) clean architecture 문장 인용
 * [Neal Ford and Mark Richards - Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
 * [오버엔지니어링과 언더엔지니어링의 경계](https://huns.me/posts/2019-09-26-overengineering-vs-underengineering)
+* [Avoiding the Temptation to Over-Engineer • Jessica Cregg • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=h4pH0JsasVk)
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Microservices: Mono repo vs. multiple repositories](https://jaxenter.com/microservices-mono-repo-vs-multiple-repositories-130148.html)
