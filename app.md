@@ -927,7 +927,6 @@ App
     * [vscode/extensions/markdown-language-features/server at main · microsoft/vscode](https://github.com/microsoft/vscode/tree/main/extensions/markdown-language-features/server)
   * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
   * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
-  * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
@@ -1049,6 +1048,9 @@ App
     * [VS Code를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * [tool 태블릿을 이용하여 원격에서 vsc.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222094462073)
     * [Building a Fully Remote Development Environment | by Tim Osborne | Mar, 2022 | Medium](https://medium.com/@timatomlearning/building-a-fully-remote-development-environment-adafaf69adb7)
+  * scala
+    * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
+    * [Introduction to Scala Development using vscode - Dick Wall - YouTube](https://www.youtube.com/watch?v=tNLS6rOGBlo)
   * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
   * vim
     * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
