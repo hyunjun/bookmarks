@@ -863,6 +863,7 @@ NLP
   * [USAGE](https://slapbot.github.io/documentation/usage/)
 * [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)
   * [😎 비쿠냐(vicuna-13B) 소개 😎 ChatGPT의 90% 성능의 오픈소스 챗봇 모델 - YouTube](https://www.youtube.com/watch?v=ha9yYq7ulWQ)
+  * [KoVicuna](https://github.com/melodysdreamj/KoVicuna)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
