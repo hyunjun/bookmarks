@@ -795,6 +795,7 @@ NLP
       * [ChatGPT러닝데이 CognitiveSearch_and_OpenAIService.ipynb - Colaboratory](https://colab.research.google.com/drive/1oZtXh4okbCEegs7abNfxazv3Oex0qLCK?usp=sharing)
       * [Azure OpenAI 및 ChatGPT 실습가이드 (Hands-on-lab)](https://www.slideshare.net/MinnieSeungminCho/azure-openai-chatgpt-handsonlab)
     * [생성에이전트 프롬프트 간소화 버전](https://aifactory.space/competition/2290/discussion/250)
+    * [오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
