@@ -2395,6 +2395,7 @@ Scala
 * [Use Typescript libraries with Scala.js! · ScalablyTyped](https://scalablytyped.org/docs/readme.html)
 * [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez - YouTube](https://www.youtube.com/watch?v=9ePQwMA_g_w)
 * [Sébastien Doeraene - Getting started with Scala.js, Laminar and Vite - YouTube](https://www.youtube.com/watch?v=GR7vFseKqqQ)
+* [Faster Scala.js development with front-end tooling and new tutorials | The Scala Programming Language](https://www.scala-lang.org/blog/2023/04/18/faster-scalajs-development-with-frontend-tooling.html)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
