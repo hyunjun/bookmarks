@@ -1846,3 +1846,4 @@ Machine Learning
   * [유클리드소프트, '인공지능팩토리'와 '언택트 콘퍼런스' 대전러닝데이-DLD 개최](https://blog.naver.com/euclidsoft/222100209222)
 * [독학으로 머신러닝 개발자로 입문하기 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Y5XOpgE-O_0)
 * [Transitioning from Software Engineering to Machine Learning Engineering - YouTube](https://www.youtube.com/watch?v=7SdrrHpu8_o)
+* [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)
