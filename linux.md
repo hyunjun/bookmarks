@@ -435,6 +435,7 @@ Linux
 * [유닉스 쉘(Unix Shell)](http://statkclee.github.io/shell-novice/index-kr.html)
 * [SCP vs SFTP - 5 Key Comparisons](https://www.jscape.com/blog/scp-vs-sftp)
 * [(리눅스 업스킬 도전 #12) sftp로 복사하기](https://jhrogue.blogspot.com/2020/09/12-sftp.html) winscp sftp
+* [여기보기 쓸 것인가 말 것인가 그것이 문제로다, FTP 보안 설정 돌아보기 - 넷마블 기술 블로그](https://netmarble.engineering/linux-server-ftp-securiy-setting)
 * [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * [**8 super heroic Linux commands that you probably aren't using**](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
