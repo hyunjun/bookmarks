@@ -90,6 +90,7 @@ Network
 * [Fiber in Paris – Part 4 – Packet Loss and BBR to the Rescue – WirelessMoves](https://blog.wirelessmoves.com/2022/06/fiber-in-paris-part-4-packet-loss-and-bbr-to-the-rescue.html)
 * [How Discord Supercharges Network Disks for Extreme Low Latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
   * [Discord가 네트웍 디스크의 지연시간을 최소화한 방법 | GeekNews](https://news.hada.io/topic?id=7198)
+* [서버의 응답을 지연시키는 2가지 외부 요인](https://velog.io/@joosing/2-external-factors-that-can-delay-a-server-response)
 * [칼럼ㅣ네트워크 가용성, 적은 내부에 있다 - CIO Korea](https://www.ciokorea.com/news/251992)
 * [**HTTP/1 to HTTP/2 to HTTP/3 - YouTube**](https://www.youtube.com/watch?v=a-sBfyiXysI)
 * [주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1875/)
