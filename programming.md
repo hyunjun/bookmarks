@@ -5326,6 +5326,7 @@ Programming
 * [the-developer-coefficient.pdf](https://stripe.com/files/reports/the-developer-coefficient.pdf) productivity
 * [People don't work as much as you think](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think) productivity
 * [Tweet by Daniel Lee](https://typefully.com/dylayed/dk31kCQ) team productivity
+* [박성철 - 어제 재택과 생산성에 대해서 어떤 분과 대화하면서 흔히 한 쪽(주로 사측)은 효율 때문에 사무실에 모여서... | Facebook](https://www.facebook.com/fupfin/posts/pfbid0232eUerQACqn7Wfw1jWY6G6EWLzwsa2qHiG2km1a2tXtbqYcyEHgygANT7ZF5djESl)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
