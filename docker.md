@@ -666,6 +666,7 @@ Docker
   * 컨테이너 이미지 관련해서 리서치하면서 정리한 글
   * 처음에는 직접 pivot_root와 OverlayFS로 컨테이너의 구조를 살펴보고 CRI, OCI가 무엇이고 Docker와는 어떻게 연결되어 있는지 설명
   * 이 컨테이너를 빌드하는 도구 중 jib, kaniko, BuildKit을 간단히 설명하면서 컨테이너가 표준화가 많이 되어있지만, Dockerfile은 따로 표준이 없기 때문에 Dockerfile을 사용한다면 Docker와의 의존성은 끊기 어렵다고 설명
+* [Why Every Developer Should Learn Docker in 2023? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/why-every-developer-should-learn-docker-in-2023-ac27fac5fd6f)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -2117,6 +2118,7 @@ Docker
   * [Speed up Docker build time with cache warming | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/docker-warm-up-cache-from-image-buildkit/)
   * [Advanced Docker: Multistage parallel Docker build | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/advanced-docker-multistage-parallel-build-buildkit/)
   * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
+  * [Multi-stage Docker Build와 BuildKit | by Asher | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/multi-stage-docker-build%EC%99%80-buildkit-a55fa60aaee7)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [controlplane-in-docker: all kubernetes controlplane in container](https://github.com/iwanhae/controlplane-in-docker)
