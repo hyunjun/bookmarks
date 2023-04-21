@@ -319,6 +319,7 @@
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
   * [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
   * [KotlinConf 2019: What's New in Java 19: The end of Kotlin? by Jake Wharton - YouTube](https://www.youtube.com/watch?v=te3OU9fxC8U)
+  * [KotlinConf 2023: 개회 기조연설 살펴보기 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/04/kotlinconf-2023-opening-keynote/)
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
 # Coroutine
