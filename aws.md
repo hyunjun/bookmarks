@@ -989,6 +989,7 @@ AWS
 * [ECS 톺아보기. ECS 기본 개념을 확실히 알아보고, ECS로 서비스를 출시하는 방법에… | by 김승수 | 오토피디아 | Sep, 2022 | Medium](https://medium.com/autopedia/ecs-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-4e69025f9941)
 * [Amazon ECS Service Connect – 컨테이너 기반 마이크로서비스내 간편한 통신 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-ecs-service-connect-enabling-easy-communication-between-microservices/)
 * [“Kubernetes vs AWS ECS” for Application Developers | by Chandra Shettigar | Jan, 2023 | Medium](https://medium.com/@shettigarc/kubernetes-vs-aws-ecs-for-application-developers-3afb10d1f050)
+* [애플리케이션 오토 스케일링의 사용자 정의 지표 기반으로 Amazon ECS 오토 스케일링 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/autoscaling-amazon-ecs-services-based-on-custom-metrics-with-application-auto-scaling/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
@@ -1758,6 +1759,7 @@ AWS
 * [Connecting a SQS Queue to a Lambda Function](https://morioh.com/p/efbcc78354b2)
 * [SQS vs Kafka: Evaluation of Two Popular Message Brokers | SPEC INDIA](https://www.spec-india.com/blog/sqs-vs-kafka)
 * [Spring Boot 2.4.x 이상 환경에서 AWS SQS를 이용한 애플리케이션 구축하기](https://kim-jong-hyun.tistory.com/144)
+* [AWS SQS와 Lambda 동시성의 밀당 (Set Visibility Timeout) | by Jeremy | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-sqs%EC%99%80-lambda-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%B0%80%EB%8B%B9-set-visibility-timeout-2e8f630b0159)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
