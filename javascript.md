@@ -494,42 +494,6 @@ Javascript
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
-* [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
-* [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
-* [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
-* [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://velog.io/@takeknowledge/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-CORS-policy-%EA%B4%80%EB%A0%A8-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3gk4gyhreu)
-* [**CORS는 왜 이렇게 우리를 힘들게 하는걸까?**](https://evan-moon.github.io/2020/05/21/about-cors/) `Access-Control-Allow-Origin`
-* [예제로 배우는 CORS](https://www.youtube.com/watch?v=mZ-uq3c3Xfs)
-* [Cross Origin Resource Sharing - CORS - 뒤태지존의 끄적거림](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
-* [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
-* [CORS window.postMessage](https://okdevtv.com/mib/cors/post)
-* [CORS A to Y. 원티드에서 운영 이슈를 처리하면서 만났던 CORS 이슈에 대해 자세히… | by YeonSeo Woo | 원티드 제품 팀블로그 | Sep, 2020 | Medium](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
-* [Why we need to know about CORS? | Evans Library](https://evan-moon.github.io/2020/05/21/about-cors/en/)
-* [Understanding CORS. Understanding CORS | by akshay sinha | Medium](https://medium.com/@akshaysin_86681/understanding-cors-93ddf18d32d6)
-* [CORS란? CORS 문제 해결하기](https://open-support.tistory.com/entry/CORS%EB%9E%80-CORS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
-* [웹브라우저의 이미지 캐싱 이슈 해결하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/) CORS
-* [Deep dive in CORS: History, how it works, and best practices | Ilija Eftimov ⚡️](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
-* [10분 테코톡 🌳 나봄의 CORS - YouTube](https://www.youtube.com/watch?v=-2TgkKYmJt4)
-* [**CORS는 왜 이렇게 우리를 힘들게 하는걸까? | Evans Library**](https://evan-moon.github.io/2020/05/21/about-cors/)
-* [How to win at CORS - JakeArchibald.com](https://jakearchibald.com/2021/cors/)
-  * CORS가 생겨난 배경, CORS가 어떻게 동작하는지 설명
-  * 크로스 프레임 스크립트는 오리진이 같은 경우에만 할 수 있도록 허용(same-origin policy)
-  * 같은 사이트여도 오리진은 다를 수 있는데 이는 public suffix list라는 프로젝트에서 관리
-  * 다른 오리진에 HTTP 요청을 보내기 위해 W3C에서 CORS(Cross-Origin Resource Sharing)를 제안
-  * 크로스 오리진 요청은 Sec-Fetch-Mode 헤더와 함께 보내지므로 이를 통해 CORS 요청인지 확인 가능
-  * CORS가 아닌 HTML 요소에서도 crossorigin 속성을 사용해서 CORS 요청으로 변경 가능
-  * 요청이 어디서 왔는지 보여주기 위해 Origin이라는 새로운 헤더 도입
-  * CORS 검사가 끝나면 CORS 응답은 Access-Control-Allow-Origin: * 헤더 포함
-  * CORS는 credentials를 포함하지 않으므로 fecth()에서 credentials 옵션이나 HTML 요소에서 crossorigin="use-credentials"를 지정해서 크리덴셜 포함 가능
-  * 예외적인 요청을 보낼 때 브라우저는 preflight 요청을 먼저 송신. 메인 요청 전에 목적 URL에 OPTIONS로 보내는 요청
-  * CORS를 테스트할 수 있는 플레이그라운드 제공
-* [CORS에서 이기는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211110)
-* [CORS - 황재영 · Present](https://present.do/shows/61480aeae3562505806fcde1)
-* [CORS는 왜 이렇게 우리를 힘들게 하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1225/)
-* [You don't need that CORS request - Nick Olinger](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
-* [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
-* [출처가 다른 윈도우 간에는 데이터를 어떻게 통신할까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220831) CORS `document.domain`의 `setter` 지원 중단
-* [CORS가 캐시를 만났을 때 | 요즘IT](https://yozm.wishket.com/magazine/detail/1782/)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -1281,6 +1245,46 @@ Javascript
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
 * [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
 * [WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread - YouTube](https://www.youtube.com/watch?v=0dC11DMR3fU) interaction이 발생할 때 파일을 나눠서 다운로드하도록 해서 효율 향상
+
+# CORS
+* [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
+* [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
+* [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
+* [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://velog.io/@takeknowledge/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-CORS-policy-%EA%B4%80%EB%A0%A8-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3gk4gyhreu)
+* [**CORS는 왜 이렇게 우리를 힘들게 하는걸까?**](https://evan-moon.github.io/2020/05/21/about-cors/) `Access-Control-Allow-Origin`
+* [예제로 배우는 CORS](https://www.youtube.com/watch?v=mZ-uq3c3Xfs)
+* [Cross Origin Resource Sharing - CORS - 뒤태지존의 끄적거림](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
+* [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+* [CORS window.postMessage](https://okdevtv.com/mib/cors/post)
+* [CORS A to Y. 원티드에서 운영 이슈를 처리하면서 만났던 CORS 이슈에 대해 자세히… | by YeonSeo Woo | 원티드 제품 팀블로그 | Sep, 2020 | Medium](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
+* [Why we need to know about CORS? | Evans Library](https://evan-moon.github.io/2020/05/21/about-cors/en/)
+* [Understanding CORS. Understanding CORS | by akshay sinha | Medium](https://medium.com/@akshaysin_86681/understanding-cors-93ddf18d32d6)
+* [CORS란? CORS 문제 해결하기](https://open-support.tistory.com/entry/CORS%EB%9E%80-CORS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [웹브라우저의 이미지 캐싱 이슈 해결하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/) CORS
+* [Deep dive in CORS: History, how it works, and best practices | Ilija Eftimov ⚡️](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
+* [10분 테코톡 🌳 나봄의 CORS - YouTube](https://www.youtube.com/watch?v=-2TgkKYmJt4)
+* [**CORS는 왜 이렇게 우리를 힘들게 하는걸까? | Evans Library**](https://evan-moon.github.io/2020/05/21/about-cors/)
+* [How to win at CORS - JakeArchibald.com](https://jakearchibald.com/2021/cors/)
+  * CORS가 생겨난 배경, CORS가 어떻게 동작하는지 설명
+  * 크로스 프레임 스크립트는 오리진이 같은 경우에만 할 수 있도록 허용(same-origin policy)
+  * 같은 사이트여도 오리진은 다를 수 있는데 이는 public suffix list라는 프로젝트에서 관리
+  * 다른 오리진에 HTTP 요청을 보내기 위해 W3C에서 CORS(Cross-Origin Resource Sharing)를 제안
+  * 크로스 오리진 요청은 Sec-Fetch-Mode 헤더와 함께 보내지므로 이를 통해 CORS 요청인지 확인 가능
+  * CORS가 아닌 HTML 요소에서도 crossorigin 속성을 사용해서 CORS 요청으로 변경 가능
+  * 요청이 어디서 왔는지 보여주기 위해 Origin이라는 새로운 헤더 도입
+  * CORS 검사가 끝나면 CORS 응답은 Access-Control-Allow-Origin: * 헤더 포함
+  * CORS는 credentials를 포함하지 않으므로 fecth()에서 credentials 옵션이나 HTML 요소에서 crossorigin="use-credentials"를 지정해서 크리덴셜 포함 가능
+  * 예외적인 요청을 보낼 때 브라우저는 preflight 요청을 먼저 송신. 메인 요청 전에 목적 URL에 OPTIONS로 보내는 요청
+  * CORS를 테스트할 수 있는 플레이그라운드 제공
+* [CORS에서 이기는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211110)
+* [CORS - 황재영 · Present](https://present.do/shows/61480aeae3562505806fcde1)
+* [CORS는 왜 이렇게 우리를 힘들게 하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1225/)
+* [You don't need that CORS request - Nick Olinger](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/)
+* [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints)
+* [출처가 다른 윈도우 간에는 데이터를 어떻게 통신할까? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220831) CORS `document.domain`의 `setter` 지원 중단
+* [CORS가 캐시를 만났을 때 | 요즘IT](https://yozm.wishket.com/magazine/detail/1782/)
+* [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1/)
+* [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2/)
 
 # D3 -> [data visualization](data_visualization.md)
 
@@ -5495,6 +5499,7 @@ Javascript
 * [Fully Typed Web Apps | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/fully-typed-web-apps)
   * [완전한 타입 안정성을 가진 웹 애플리케이션 | bohyeon.dev](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 * [Webview에서 핀치 줌(pinch zoom) 구현하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230310-webview-pinch-zoom/)
+* [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
   * [“임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1480/)
