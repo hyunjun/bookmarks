@@ -451,6 +451,8 @@ Vision
   * [카카오워크 음성채팅 웹 개발기](https://tech.kakaoenterprise.com/179)
   * [GStreamer 1.20: Embedded & WebRTC lead the way](https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html)
   * IPFS [A guide to IPFS connectivity in web browsers | IPFS Blog & News](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/)
+  * [Janus WebRTC Server (multistream): About Janus](https://janus.conf.meetecho.com/)
+    * [Janus 를 활용한 WebRTC 기반의 음성대화 서비스 개발](https://saramin.github.io/2023-04-17-janus-webrtc/)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
   * [webrtc-nuts-and-bolts: A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation](https://github.com/adalkiran/webrtc-nuts-and-bolts)
