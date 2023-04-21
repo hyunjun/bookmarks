@@ -301,6 +301,7 @@
 * [SOLID Principles With (almost) Real-Life Examples in Java | by Berke Soysal | Better Programming](https://betterprogramming.pub/solid-principles-with-almost-real-life-examples-in-java-b292a4e2c18b)
 * [Java — good practices and recommendations: Design patterns | by Martin Jonovski | < BE OUTSTANDING />](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
 * [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2020/04/difference-between-inheritance-and-Polymorphism-in-java-oop.html)
+* [Unlocking Java Inheritance: A Practical Guide for Java Developers - YouTube](https://www.youtube.com/watch?v=smWYjvuJxgY)
 * [Learn SOLID Principles with CLEAN CODE Examples - YouTube](https://www.youtube.com/watch?v=_jDNAf3CzeY)
 * [Interface Segregation Principle | SOLID Principles | Java Code - YouTube](https://www.youtube.com/watch?v=w5Funt8A48Q)
 * [Design Patterns Revisited in Modern Java by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=yTuwi--LFsM)
