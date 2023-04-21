@@ -123,6 +123,8 @@ iOS
 * [PRND iOS팀의 UseCase 활용기 | PRND](https://medium.com/prnd/%EF%B8%8F-prnd-ios%ED%8C%80%EC%9D%98-usecase-%ED%99%9C%EC%9A%A9%EA%B8%B0-e4ddbef274a1)
 * [SVG 진짜 정답인가? 그럼 PNG는?. 생산성과 효율성을 지향합니다. 근데 이제 퍼포먼스와 안정성을 곁들인 | by Lee Di | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/ios-%EC%84%B8%EA%B3%84-1%EC%9C%84-%EC%95%8C%EB%9E%8C-%EC%95%B1%EC%97%90%EC%84%9C-image-asset%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B2%95-png-vs-svg-a0291029b233)
 * [네비게이션 바에서 큰 타이틀 사용하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/enable-navigation-bar-large-title/)
+* [iOS Modular Architecture 를 향한 여정 Part 1 — XcodeGen 도입과 모듈화의 시작 | by Wooseong Kim | 29CM TEAM | Medium](https://medium.com/29cm/modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xcodegen-%EB%8F%84%EC%9E%85%EA%B3%BC-%EB%AA%A8%EB%93%88%ED%99%94%EC%9D%98-%EC%8B%9C%EC%9E%91-19a7f7b6401a)
+* [iOS Modular Architecture 를 향한 여정 Part 2 — 프로젝트 모듈화, 레거시와 공존하기 | by Wooseong Kim | 29CM TEAM | Apr, 2023 | Medium](https://medium.com/29cm/ios-modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%93%88%ED%99%94-%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%99%80-%EA%B3%B5%EC%A1%B4%ED%95%98%EA%B8%B0-d63f5e454573)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
