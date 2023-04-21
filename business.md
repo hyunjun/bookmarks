@@ -1341,6 +1341,7 @@ Business
 * [히딩크를 아직도 '최고의 감독'으로 꼽는 이유](https://sports.v.daum.net/v/20210911112100357)
 * [도하에서 벤투가 옳았다..대표팀에 뿌리 내린 '빌드업 축구'](https://sports.v.daum.net/v/20211117090018715) 인정받지 못했으나 결국 어느 정도 성과가 가시화되니 이런 기사가 나오기 시작
 * [서호정 '벤투 모셔온' 김판곤의 눈 "감독 혼자가 아닌 사단의 힘으로 16강 달성"](https://n.news.naver.com/sports/qatar2022/article/436/0000066359)
+* [벤투 감독의 퇴장을 되돌려 보며.. 리더의 위치는 어디인가 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leaderposition20230421)
 * [이규섭의 삼성, '팀 분위기' 어떻게 바뀔까?](https://sports.v.daum.net/v/20220325083002979) leadership style보다 중요한 건 결국 결과
 * [최준용 "궂은 일 안했지만.. 믿어주는 감독님께 설득 당해"](https://sports.v.daum.net/v/20220330030252993) 감독의 신뢰
 * [2회) 우승에는 얼마가 필요할까? 야구의 참견 시즌2 220418 방송 - YouTube](https://www.youtube.com/watch?v=lNcJ9uwJr-Q)
