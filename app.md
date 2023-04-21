@@ -1051,6 +1051,7 @@ App
   * scala
     * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
     * [Introduction to Scala Development using vscode - Dick Wall - YouTube](https://www.youtube.com/watch?v=tNLS6rOGBlo)
+    * [The Secret VS Code Hack for Indentation Guides! - YouTube](https://www.youtube.com/watch?v=YO_hIUAxS60)
   * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
   * vim
     * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
