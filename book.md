@@ -841,6 +841,8 @@ Book
   * 한라 327.9-쉴294ㅂ
 * (NOT YET) 장하준의 '경제학 레시피' [병든 대한민국, 유럽 같은 복지는 불가능한 걸까? 최재천과 장하준의 대담! / 최재천의 아마존 - YouTube](https://www.youtube.com/watch?v=gauJABbIbNE)
   * 우당 문320.4-장91ㅈ
+* (NOT YET) [솔드 아웃](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314432904&start=slayer)
+  * [진짜 위험은 '여기서' 온다!! 금리와 부채에 가려진 '예측' 불가능한 위협 (feat.제임스 리카즈) - YouTube](https://www.youtube.com/watch?v=UaPLBzGI-GU)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
