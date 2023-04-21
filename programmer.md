@@ -47,6 +47,7 @@ Programmer
 * [The Things That I Saw Senior Software Engineers Do | by Michael Chi | Better Programming](https://betterprogramming.pub/the-things-that-i-saw-senior-software-engineers-do-6a9f49b9e54f)
   * [시니어 소프트웨어 엔지니어는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/771/)
 * [NDC22 언젠가 시니어가 될 주니어 프로그래머를 위한 강연](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=150977)
+* [연차가 쌓일 수록 익숙해져야하는 5가지. 주니어이지만 주니어이고 싶지 않은 프론트엔드 5년차 개발자 | by FlyingSquirrel | Apr, 2023 | Medium](https://flyingsquirrel.medium.com/%EC%97%B0%EC%B0%A8%EA%B0%80-%EC%8C%93%EC%9D%BC-%EC%88%98%EB%A1%9D-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A0%B8%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-d88397dc96d)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
 * [프론트엔드 엔지니어 커리어 로드맵: 주니어를 위한 3가지 전문성 트랙](https://steady-study.super.site/frontend-engineer-career-roadmap)
