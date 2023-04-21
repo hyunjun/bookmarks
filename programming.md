@@ -5774,6 +5774,7 @@ Programming
   * 조사 결과 이 문제로 다른 사용자의 결제 정보를 볼 수 있는 가능성도 있었지만, 발생 조건이 까다로워서 실제로 확인된 사례는 아직 없음
   * Redis에 사용자 정보를 캐시하고 있는데 이번 버그는 Redis 클라이언트인 redis-py에서 발생
     * 연결 풀에서 연결을 재사용하면서 응답을 받기 전에 요청이 취소되면 다음 요청이 응답을 받게되어 발생, 지금은 패치
+* [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes) MySQL 최적화, circuit breaker, bulkhead
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
