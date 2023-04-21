@@ -1210,6 +1210,7 @@ NLP
 * GSLM
   * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
+* [h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs](https://github.com/h2oai/h2o-llmstudio)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
   * [klue-transformers-tutorial: KLUE 데이터를 활용한 HuggingFace Transformers 튜토리얼](https://github.com/Huffon/klue-transformers-tutorial)
