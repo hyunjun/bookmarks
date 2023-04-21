@@ -2471,6 +2471,7 @@ Business
 * [토스 디자인 원칙 Value first, Cost later](https://toss.tech/article/value-first-cost-later)
 * [우리에게 당연하지만 사용자는 아닌 것들](https://toss.tech/article/thinking-user-perspective)
 * [디자이너가 새로운 도메인을 빠르게 학습하는 법](https://toss.tech/article/how-to-learn-new-domain)
+* [첫 그래픽 디자이너가 했던 가장 비효율적인 일](https://toss.tech/article/21341)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
