@@ -1308,6 +1308,7 @@ Scala
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
   * [Scala at Scale at Databricks - Li Haoyi - YouTube](https://www.youtube.com/watch?v=UiN6yZPAYww)
 * [scalar-conf.com](http://scalar-conf.com/)
+* [Scalar Conference 2023 - YouTube](https://www.youtube.com/playlist?list=PL8NC5lCgGs6PCMPlmRULK29TTbL4eRKZX)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
     * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -1326,7 +1327,9 @@ Scala
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
 * [Scala Love 2020](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSThMSFV4k4dGTZkS0mfbxo)
-* ScalaMatsuri [Submit your talks for ScalaMatsuri 2022! - ScalaMatsuri blog](https://blog-en.scalamatsuri.org/entry/2021/12/01/131641)
+* ScalaMatsuri
+  * [Submit your talks for ScalaMatsuri 2022! - ScalaMatsuri blog](https://blog-en.scalamatsuri.org/entry/2021/12/01/131641)
+  * [making of a hybrid ScalaMatsuri · eed3si9n](https://eed3si9n.com/making-of-a-hybrid-scalamatsuri/)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
   * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
     * scala의 여러가지 문제점을 논함. 내부적으로 위기를 느끼나?
@@ -1507,6 +1510,7 @@ Scala
     * [Case study: The digital transformation of Santa’s logistical nightmare - Part 2 - Functional Feline Society](https://functional-feline-society.github.io/2022/12/22/io-part-2/)
     * [Effects: To Be Or Not To Be? By Adam Warski - YouTube](https://www.youtube.com/watch?v=sDnNjtkoUVs)
     * [Integrating Akka with Cats-Effect 3 - Alexandru Nedelcu](https://alexn.org/blog/2023/04/17/integrating-akka-with-cats-effect-3/)
+    * [Concurrency with Cats Effect](https://softwaremill.com/concurrency-with-cats-effect/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -1750,13 +1754,15 @@ Scala
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Turbolift: Algebraic Effects for Scala 3](https://marcinzh.github.io/turbolift/)
 * [Tyrian - Tyrian](https://tyrian.indigoengine.io/) Elm-inspired, purely functional UI library for Scala 3
-* [yona: Project Hosting SW, DEMO](https://github.com/yona-projects/yona)
+* [Vulcan · Functional Avro for Scala](https://fd4s.github.io/vulcan/)
+  * [Using Vulcan Codecs with Kafka Java APIs - Xebia](https://xebia.com/blog/using-vulcan-codecs-with-kafka-java-apis/)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
 * [whatsub: A tool for subtitles - conversion and resync](https://github.com/Kevin-Lee/whatsub)
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
   * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
   * [Wire Signals: Yet Another Event Streams Library by Maciek Gorywoda - YouTube](https://www.youtube.com/watch?v=tSj3ZEEsKyk)
   * [Wire Signals. Yet Another Event Streams Library | by Maciek Gorywoda | The Startup | Medium](https://medium.com/swlh/wire-signals-81918bbcc07f)
+* [yona: Project Hosting SW, DEMO](https://github.com/yona-projects/yona)
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
@@ -2228,6 +2234,7 @@ Scala
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=fRDZoZoWTMU) opaque type
 * [Opaque Type Alias in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/opaque-type-alias)
 * [Paying homage to the Compall-Michael pattern, and anticipating Scala 3 Opaque Types](https://blog.lunatech.com/posts/2021-05-14-paying-homage-to-the-compall-michael-representation)
+* [Are you sure your Scala 3 opaque types don’t instantiate? | by Mikołaj Koziarkiewicz | Apr, 2023 | Medium](https://medium.com/@mikolaj.koziarkiewicz/are-you-sure-your-scala-3-opaque-types-dont-instantiate-63653be379ee)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
