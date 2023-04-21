@@ -244,6 +244,8 @@
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
 * [atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
   * [Atuin - 쉘 히스토리를 SQLite에 저장하기 | GeekNews](https://news.hada.io/topic?id=4276)
+* [aws-lc-rs: aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring](https://github.com/awslabs/aws-lc-rs)
+  * [Introducing AWS Libcrypto for Rust, an Open Source Cryptographic Library for Rust | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/introducing-aws-libcrypto-for-rust-an-open-source-cryptographic-library-for-rust/)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
