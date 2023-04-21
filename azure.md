@@ -190,6 +190,7 @@ Azure
 * [Microsoft technical support results for the "Unable to delete ghost tenant" issue](https://www.dokyun.pe.kr/281)
 * [Sort Your Tech Debt with Azure! - LunchBytes - YouTube](https://www.youtube.com/watch?v=JWe1k3fnsrY)
 * [AI Builder 에 들어온 ChatGPT. 이것을 자동화 할 수 없을까? 나도 앱이나 챗봇 등을 만들어 손하나 까닥이지 않고 싶다. 과연 될까요? 한번 느껴보세요! - YouTube](https://www.youtube.com/watch?v=TXQ5dtn_CSk) OpenAI service
+* [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
 * [5 Best Azure DevOps Online Courses for Beginners and Experienced | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/5-best-azure-devops-online-courses-for-beginners-and-experienced-b1a88ac385a7)
 
 # Conference Meetup Seminar
