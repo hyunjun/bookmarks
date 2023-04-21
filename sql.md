@@ -273,6 +273,7 @@ SQL
 * [Common pitfalls when migrating MySQL to Aurora using AWS DMS | EverSQL](https://www.eversql.com/common-pitfalls-when-migrating-mysql-to-aurora-using-aws-dms/)
 * [블루/그린 배포를 이용한 Aurora MySQL 버전 무중단 업그레이드 경험 공유 | by Siheon Kim | Feb, 2023 | HBsmith](https://blog.hbsmith.io/%EB%B8%94%EB%A3%A8-%EA%B7%B8%EB%A6%B0-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-aurora-mysql-%EB%B2%84%EC%A0%84-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-23c52b988abe)
 * [Amazon RDS MySQL 블루/그린 배포환경에서 전환 작업 이후 복구 환경 구성을 위한 동기화 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-rds-mysql-blue-green-after-restoring/)
+* [우아한형제들에서 RDS를 모니터링 하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
