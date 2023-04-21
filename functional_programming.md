@@ -507,6 +507,7 @@ Functional Programming
 * [Functional Programming anti-patterns in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-programming-anti-patterns-in-scala/)
 * [Functional Data Modeling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-data-modeling-in-scala/)
 * [Functional Programming is Based](https://www.inner-product.com/posts/fp-is-based/)
+* [Understanding FP: Overcoming Intuition and Ease Hurdles - YouTube](https://www.youtube.com/watch?v=VTedRObg5WM)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
