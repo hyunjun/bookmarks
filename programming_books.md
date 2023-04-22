@@ -2495,6 +2495,7 @@ Programming Books
   * [새책 성취예측모형에 관한 기초적 지식과 그 배경을 설명한 영상 - YouTube](https://www.youtube.com/watch?v=CmmIT5kDFRs)
   * [국민 필독서…대통령 최적 인물 진단 ’성취예측모형’ - 브랜드타임즈(Brand Times)](http://www.brandtimes.co.kr/news/articleView.html?idxno=2259)
   * [성취역량모델.pdf - Google Drive](https://drive.google.com/file/d/10HUVg0aRpciNrkl5iYw25mOZPkBbzVmK/edit)
+  * [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs)
 * 원온원 일 잘하는 팀장의 대화력
   * 우당
   * ★★★★☆ 2022.04.03
