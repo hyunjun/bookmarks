@@ -2787,6 +2787,18 @@ Programming Books
 * (NOT YET) [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
 * (NOT YET) [다니엘 핑크 후회의 재발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301411735)
   * 한라 325.211-핑877ㅎ 탐라 문325.211-핑828ㅎ 우당 문325.211-핑828ㅎ
+* (NOT YET) [역량](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297875800)
+  * 우당 문325.211-임817ㅇ
+* (NOT YET) [세상의 모든 전략은 삼국지에서 탄생했다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293960757)
+  * 우당 문325.211-임66ㅅ
+* (NOT YET) [멘탈의 거장들 | 다시 일어나는 일에 관한 거장들의 대화 - 매경ECONOMY](https://www.mk.co.kr/economy/view.php?sc=50000001&year=2022&no=1172715)
+  * 한라 325.211-밀34ㅁ 우당 문325.211-밀33ㅁ
+* (NOT YET) [주식회사 르브론 제임스](https://brunch.co.kr/@grandmer/570)
+  * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
+* (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
+  * 우당 문325.19-톰829ㅅ
+* (NOT YET) [7가지 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300224461)
+  * 한라 325.6-메882ㅇ 탐라 문325.6-메831ㅇ 우당 문325.6-메831ㅇ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)

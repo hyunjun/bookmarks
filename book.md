@@ -1197,6 +1197,8 @@ Book
 * (NOT YET) [커피 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=162341210)
   * 한라 594.3463-탄44ㅋ 탐라 문573.93-탄43ㅋ 우당 문594.3463-탄43ㅋ
 * (NOT YET) [세계사를 바꾼 커피 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296379585)
+* (NOT YET) [피렌체 서점 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308285535)
+  * 우당 문013.33-킹235ㅍ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1426,6 +1428,12 @@ Book
 * (NOT YET) [심리학이 제갈량에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312399292)
 * (NOT YET) [싱크 어게인](https://jhrogue.blogspot.com/2023/04/blog-post_19.html)
   * 한라 325.211-그293ㅅ 탐라 문181.3-그232ㅅ 우당 문181.3-그232ㅅ
+* (NOT YET) [결정하는 뇌](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309123726)
+  * 탐라 문181.91-하64ㄱ 우당 문181.91-하64ㄱ
+* (NOT YET) [FBI 행동의 심리학 (리커버 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305371780)
+  * 우당 문181.81-내43ㅇ
+* (NOT YET) [클루지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2855577)
+  * 한라 180.4-마874ㅋ 탐라 문181.38-마823ㅋ 우당 문181.38-마823ㅋ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
