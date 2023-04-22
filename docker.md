@@ -2086,6 +2086,10 @@ Docker
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 * [Volcano](https://github.com/volcano-sh)
   * [Cloud Native Batch System Volcano moves to the CNCF Incubator | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/04/07/cloud-native-batch-system-volcano-moves-to-the-cncf-incubator/)
+  * [Volcano Engine: Dragonfly를 통한 효과적인 이미지 배포 가속 방법(2023.04.13) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/project/dragonfly2)
+    * Dragonfly와 Kraken 비교와 하단에 그림으로 표현된 OCI v1을 통해서 보여지는 P2P 방식으로 이미지 배포 속도 가속
+      * 굉장히 빠르게 그리고 글로벌 서비스를 적용해야 하는 분야에 적합한거라 국내에는 사례가 많이 없을 듯
+      * 향후에 글로벌 전자제품 OS 이미지나 일부 게임서비스에 CDN과 유사하게 적용할 수 있을 것으로 예상
 * werf [Giterministic CLI tool | werf](https://werf.io/)
   * [Building and Deploying a Simple App to Kubernetes Using “werf” | by Konstantin Nezhbert | Apr, 2022 | Better Programming](https://betterprogramming.pub/building-and-deploying-a-simple-app-to-kubernetes-using-werf-51bee0b3718d)
     * 앱으로 Docker containers를 만들고 werf를 사용하여 Kubernetes 에 배치할 수 있도록
