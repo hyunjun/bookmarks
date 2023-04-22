@@ -2238,6 +2238,7 @@ Programming
 * [Securing Microservices: Preventing Vulnerability Traversal - YouTube](https://www.youtube.com/watch?v=rfrN9s7ypJE)
 * [What is Database Per Microservices Pattern? What Problem does it solve? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/what-is-database-per-microservices-pattern-what-problem-does-it-solve-60b8c5478825)
 * [Service Registry Design Pattern in Microservices Explained | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/service-registry-design-pattern-in-microservices-explained-a796494c608e)
+* [My Favorite Courses to learn Microservices in Depth - DEV Community](https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -4689,6 +4690,7 @@ Programming
   * [3월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/04/b-3-5.html)
   * [4월 1주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/04/b-4-1.html)
   * [4월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/04/b-4-2.html)
+  * [4월 3주 소식(빅데이터/인공지능, 하드웨어/블록체인, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/04/b-4-3.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
