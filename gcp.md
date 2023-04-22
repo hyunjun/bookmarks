@@ -174,6 +174,7 @@ Google Cloud Platform GCP
 * [Google Cloud Workstation vs Codespace – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4417)
 * [GCP Vision API(Product Search)를 활용한 이미지 기반 상품 추천 서비스 구축 | by 오관영 | 29CM TEAM | Apr, 2023 | Medium](https://medium.com/29cm/gcp-vision-api-product-search-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EA%B8%B0%EB%B0%98-%EC%83%81%ED%92%88-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-6542282e6990)
 * [Dataflow로 컬리의 준실시간 수요 예측모델 파이프라인 구축하기 - 1편 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/dataflow-pipeline-1/)
+* [Access managed services globally with Private Service Connect | Google Cloud Blog](https://cloud.google.com/blog/products/networking/access-managed-services-globally-with-private-service-connect)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
