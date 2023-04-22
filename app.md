@@ -2259,6 +2259,8 @@ App
 * [Microsoft Store에 올라와있는 개발자용 유틸리티들을 소개합니다. - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/microsoft-store/3189)
 * [단일 프로세스에서 NUMA가 야기한 성능 저하 - 넷마블 기술 블로그](https://netmarble.engineering/single-process-programming-numa-effect/)
 * [단일 프로세스에서 NUMA가 야기한 성능 저하 | 요즘IT](https://yozm.wishket.com/magazine/detail/1444/)
+* [윈도우 디바이스 드라이버 프로그래밍 기초 | K리그 프로그래머](https://jeho.page/programming/2011/05/23/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EC%B4%88%EC%A0%81%EC%9D%B8-%EB%82%B4%EC%9A%A9%EB%93%A4.html)
+* [PYRASIS.COM: CONTAINING_RECORD 매크로의 이해](https://pyrasis.com/blog/entry/PracticalContainingRecordMacro)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
