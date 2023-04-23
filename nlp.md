@@ -1226,6 +1226,7 @@ NLP
 * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
   * [LangChain 을 알아볼까요?](https://revf.tistory.com/280)
+  * [한글자막 LangChain LLM explained GPT-4 interface - YouTube](https://www.youtube.com/watch?v=Mrf49u-QLVQ)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
