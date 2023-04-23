@@ -1308,6 +1308,7 @@ Business
 * [위기상황에서의 리더의 중요성](http://ppss.kr/archives/37650)
 * [리더가 조직을 침묵시킨다](http://ppss.kr/archives/37753)
 * [스티브 잡스의 Why](http://estimastory.com/2015/05/17/stevejobswhy/)
+* [Make something wonderful을 읽고 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/8331) Steve Jobs
 * [NDC 15 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
@@ -2488,6 +2489,7 @@ Business
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(1/2). 안녕하세요, 성과관리 서비스를 만드는 레몬베이스에서 프로덕트 디자이너로… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-1-2-2175f99c6401)
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(2/2). 2편에서는 3. 리서치의 필요성에 대해 구성원들을 설득하는 방법과 4… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-2-2-d4dfeae0e8c1)
 * [첫 UX writer는 무슨 일을 해야 할까](https://toss.tech/article/1st_uxwriter)
+* [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
