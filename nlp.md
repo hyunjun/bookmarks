@@ -800,6 +800,7 @@ NLP
     * [오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
+    * [ChatGPT 는 잊어라. AutoGPT 가 왔다. - YouTube](https://www.youtube.com/watch?v=YbLef4CrZNU)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
