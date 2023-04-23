@@ -1077,6 +1077,9 @@ Book
   * ★★★☆☆ 2023.04.13 로마 가톨릭의 역사를 전반적으로 훑는 거라 중세라기보다는 그냥 가톨릭의 역사라고 하는 게 더 정확한 제목
   * 탐라 문920.3-만96ㅈ-3 우당 문920-한49ㅈ-3
   * <img src="images/the_middle_ages.jpg" alt="종교재판은 이름만 바뀌었을 뿐 오늘날에도 원칙상 존재" width="300"/>
+* [커피 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=162341210)
+  * ★★★☆☆ 2023.04.23 커피 자체의 역사를 간단히 정리한 책. 역사를 전문으로 하는 사람이 아니라서 흐름상 어색한 부분들이 있지만, 간단히 재미있게 읽을만하다. (나는 사실로 알고 있던) 블루보틀의 콜시츠키 이야기가 검증되지 않았다거나 하는 등의 부분은 자료가 있는지가 궁금하다.
+  * 한라 594.3463-탄44ㅋ 탐라 문573.93-탄43ㅋ 우당 문594.3463-탄43ㅋ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1194,8 +1197,6 @@ Book
 * (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)
 * (NOT YET) [커피 세계사 + 한국 가배사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277669559)
   * 우당 문594.3463-이19ㅋ
-* (NOT YET) [커피 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=162341210)
-  * 한라 594.3463-탄44ㅋ 탐라 문573.93-탄43ㅋ 우당 문594.3463-탄43ㅋ
 * (NOT YET) [세계사를 바꾼 커피 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296379585)
 * (NOT YET) [피렌체 서점 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308285535)
   * 우당 문013.33-킹235ㅍ
