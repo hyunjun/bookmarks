@@ -781,6 +781,8 @@ NLP
   * [Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT Tutorial |Simplilearn - YouTube](https://www.youtube.com/watch?v=B8N_HyGhZ0U)
   * [챗GPT 근황 업데이트 : 네이버 블로그](https://blog.naver.com/ranto28/223068372777)
   * [챗GPT 근황 A/S (feat 카니발리제이션) : 네이버 블로그](https://blog.naver.com/ranto28/223078242687) 기술 이야기 X 모두 맞는 이야기는 아니지만 cannibalization에 대한 이야기는 귀담아 들을만 함
+  * [AgentGPT](https://agentgpt.reworkd.ai/)
+    * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
     * [챗GPT 러닝데이 입문 - 자연어처리 시작하기](https://aifactory.space/learning/detail/2306)
     * [챗GPT 러닝데이 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/detail/2308)
