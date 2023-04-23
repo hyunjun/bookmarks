@@ -218,8 +218,9 @@
 * [Writing an Embedded Operating System in Rust - YouTube](https://www.youtube.com/watch?v=l1ujHfWoiOU)
 * [Why the Future of the Cloud will be Built on Rust - YouTube](https://www.youtube.com/watch?v=8zuvqDYWUTw)
 * [Java and Rust by Yishai Galatzer - YouTube](https://www.youtube.com/watch?v=9jAf8u-be1g)
-* [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 * [Ready for Rust • Erik Doernenburg • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=WgLlwjZNEtY)
+* [When to Choose Rust • Tim McNamara • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=wClDbLGLjxw)
+* [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 
 # Go
