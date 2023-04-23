@@ -1342,6 +1342,7 @@ Web
   * [PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
   * [PyScript Tutorial - YouTube](https://www.youtube.com/playlist?list=PLpdmBGJ6ELUJ2ujkBcMQ3n0D2J2exAVTs)
   * [Simple Todo List Using Py-Script | python tutorials - YouTube](https://www.youtube.com/watch?v=RXsWWjkOBo8)
+  * [PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
