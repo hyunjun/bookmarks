@@ -218,6 +218,7 @@ Java
       * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
       * [Java: How to get all keys by a value in HashMap ? | Search by Value in Map](http://thispointer.com/java-how-to-get-keys-by-a-value-in-hashmap-search-by-value-in-map/)
       * [java linkedhashmap: 해시맵과 비교해서 어떤 점이 오버헤드가 걸리는지 알아봅시다](https://codingdog.tistory.com/entry/java-linkedhashmap-%ED%95%B4%EC%8B%9C%EB%A7%B5%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%90%EC%9D%B4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+      * [java linkedhashmap removeeldestentry 메소드에 대해 알아봅시다](https://codingdog.tistory.com/870)
       * [해시맵에 있는 tiebreakorder는 어떤 메소드일까요?](https://codingdog.tistory.com/entry/%ED%95%B4%EC%8B%9C%EB%A7%B5%EC%97%90-%EC%9E%88%EB%8A%94-tiebreakorder%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%BC%EA%B9%8C%EC%9A%94)
       * [Most Loved Interview Question: How HashMap Works in Java - CodersTea](https://www.coderstea.com/post/java/most-loved-interview-question-how-hashmap-works-in-java/)
       * [How HashMap works in Java](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
