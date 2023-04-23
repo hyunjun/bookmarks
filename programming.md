@@ -696,6 +696,7 @@ Programming
 * [낭비를 막고 팀을 만드는 XP의 가치](https://brunch.co.kr/@graypool/240)
 * [XP의 제1가치는 의사소통](https://brunch.co.kr/@graypool/241)
 * [XP는 어떤 조직에서나 쓸모가 있다](https://brunch.co.kr/@graypool/873)
+* [So you think you’re an Extreme Programmer? - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=iFjHnTfM-CI)
 * [페어프로그래밍을 조심하세요.. 개인적으로 한국 IT 업계에 만연한 불편함이 하나 있다면, 철학과… | by 김준형 | Dec, 2021 | Medium](https://medium.com/@ghilbut/%ED%8E%98%EC%96%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%A1%B0%EC%8B%AC%ED%95%98%EC%84%B8%EC%9A%94-4b4fd7d61150)
 * [프로세스 개선이 현업에서 정착되려면 | 우아한형제들 기술블로그](https://techblog.woowahan.com/2521/)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
@@ -3937,6 +3938,7 @@ Programming
 * [Build Your First Serverless Application - Part 3: Infrastructure As Code - YouTube](https://www.youtube.com/watch?v=0Fj6L-6wL3k)
 * [The Best Infrastructure as Code Tools for 2022 - DZone Cloud](https://dzone.com/articles/the-best-infrastructure-as-code-tools-for-2022-1)
 * [Infrastructure-as-Code Goes Low Code/No Code – The New Stack](https://thenewstack.io/infrastructure-as-code-goes-low-code-no-code/)
+* [Infrastructure as actual Code • Gregor Hohpe • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=uzc6p3qvH_k)
 * [인프라, 어디까지 구축해 봤어? - 우리 서비스는 장애에 강건하고 확장이 가능할까요? 4회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1sOCkOQprNTKhKCgucH1SWdsjB_Kc3Mvog3BwLwGOa5Y/edit)
 * [How DoorDash Ensures Velocity and Reliability through Policy Automation - DoorDash Engineering Blog](https://doordash.engineering/2022/09/20/how-doordash-ensures-velocity-and-reliability-through-policy-automation/)
   * DoorDash가 OPA(Open Policy Agent)를 도입하는 과정
