@@ -5370,6 +5370,7 @@ Programming
 * [Software Engineering vs Software Craftsmanship • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=PvxQDEFTJzs)
 * ["우수한 개발팀"의 지표를 딱 하나 꼽으라면](https://typefully.com/dylayed/RPoCpU2)
 * [Guns, Lots of Guns: There Is No Silver Bullet • Lars Kruse • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7IB2cN1iI4A)
+* [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
