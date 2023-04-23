@@ -1131,6 +1131,7 @@ Programming Books
 * (NOT YET) [생활 속 예제로 배우는 생생 데이터 분석](https://www.youtube.com/watch?v=aPrpHAj2_FM)
   * [8장. 기계 학습 라이브러를 활용하여 주식 시세 미래 예측하기 - YouTube](https://www.youtube.com/watch?v=WnXbyQ8zZF4)
 * (NOT YET) [데이터 품질의 비밀](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314634449)
+  * [김수보 - 이 책을 받아 읽어보고 있는데 꽤 내용이 많다. 데이터 아키텍쳐를 설계하고 관리하기 위한 바이블 같은... | Facebook](https://www.facebook.com/kimsubo/posts/pfbid0ncrzvJh95C5KT82NmfZX1UMsDJCM5NDwFv8mGzeNL28GRJb2WQpcRnz27Uv6fSKml)
 * (NOT YET) [코딩 없이 배우는 데이터 과학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312951054)
 
 ## Deep Learning
