@@ -108,6 +108,7 @@ Elixir
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 * [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
+* [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 
 # API
 * sigils
@@ -145,6 +146,8 @@ Elixir
 * [Clojure_Elixir_Concurrent_Ping](https://github.com/tedpark/Clojure_Elixir_Concurrent_Ping)
 * [cowboy: Small, fast, modern HTTP server for Erlang/OTP](https://github.com/ninenines/cowboy)
   * [How to write a Web Server in Elixir - YouTube](https://www.youtube.com/watch?v=a3fhMZ20dT0)
+* [Crawly, a high-level web crawling & scraping framework for Elixir](https://github.com/elixir-crawly/crawly)
+  * [Re-implement our first blog scrapper with Crawly 0.15.0 - Erlang Solutions](https://www.erlang-solutions.com/blog/re-implement-our-first-blog-scrapper-with-crawly-0-15-0/)
 * Ecto
   * [Programming Ecto](http://ohyecloudy.com/pnotes/archives/book-programming-ecto/)
   * [외래 키는 스키마에 정의하고 ecto 연관 함수로 외래 키를 직접 쓰지 말자](http://ohyecloudy.com/pnotes/archives/elixir-ecto-associations/)
