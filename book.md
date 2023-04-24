@@ -323,6 +323,11 @@ Book
 * [어치브 모어 저자 김성미 인터뷰🎤 - YouTube](https://www.youtube.com/watch?v=D_CznCI0fhY)
   * ★★★★☆ 2023.04.13~14 보기에 따라서는, 대단한 사람이 쓴 책도 많은데 평범한 MS에 다니는 사람이 쓴 책까지 읽냐고 할 수도 있겠으나, 일을 잘 하는 데 필요한 여러가지 좋은 이야기를 자신의 삶을 바탕으로 매우 읽기 쉽게 전개한다는 점에서 매우 좋은 책이라고 생각한다. 똑같은 이야기도 얼마나 전달이 되느냐에 따라 효과가 달라질텐데, 나에게 맞아서 그런지는 모르겠으나, 읽는데 거의 걸림돌이 없어서 저자의 생각을 매우 쉽게 받아들이고 해석할 수 있었다.
   * 우당 문325.211-김53ㅇ
+  * [일과 삶에서 승률을 높이는 성취의 기술 ACHIEVE MORE - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/achieve_more)
+  * [일과 삶에서 승률을 높이는 성취의 기술 ACHIEVE MORE](https://github.com/hyunjun/bookmarks/blob/master/books/achieve_more.md)
+  * [일과 삶에서 승률을 높이는 성취의 기술 ACHIEVE MORE | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%97%90%EC%84%9C-%EC%8A%B9%EB%A5%A0%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-%EC%84%B1%EC%B7%A8%EC%9D%98-%EA%B8%B0%EC%88%A0-achieve-more-ad87a6539cdf)
+  * [일과 삶에서 승률을 높이는 성취의 기술 ACHIEVE MORE](https://jh4hj.tistory.com/entry/%EC%9D%BC%EA%B3%BC-%EC%82%B6%EC%97%90%EC%84%9C-%EC%8A%B9%EB%A5%A0%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-%EC%84%B1%EC%B7%A8%EC%9D%98-%EA%B8%B0%EC%88%A0-ACHIEVE-MORE)
+  * [일과 삶에서 승률을 높이는 성취의 기술 ACHIEVE MORE - Jun’s Substack](https://recur.substack.com/p/achieve-more)
 * [셜록 홈즈 다시 읽기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298019853)
   * ★★★☆☆ 2023.04.14 셜록 홈즈와 코넌 도일에 대한 시대상을 반영한 해석. 모리아티 교수가 아일랜드인이었다는 점은 전혀 기억을 못했는데, 제국주의자이자 인종차별주의자였던 코넌 도일을 생각해보면 범죄의 황제를 아일랜드인으로 설정한 점도 이해가 간다. 빅토리아 시대 영국인들의 전형적인 오만함이자 한계이겠지.
   * 한라 843.409-안44ㅅ 탐라 문843.409-안44ㅅ
