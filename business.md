@@ -722,6 +722,7 @@ Business
 * [홀라크라시의 문제점](https://www.linkedin.com/posts/activity-6975585654055309312-0kgv/)
 * [업무를 구분 짓자 팀이 흔들리기 시작했다](https://eopla.net/magazines/241)
 * [“매년 바뀌는 조직… 싫으면 나가래요” ‘마음 움직이는 소통·구체적 업무’가 우선이다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/7822) 조직 개편
+* [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=Eie_kxwzyfQ) 조직 확장, 확대, 성장에 대한 이야기
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
