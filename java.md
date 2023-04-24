@@ -1107,6 +1107,7 @@ Java
   * [더 빠른 인스턴스로 옮겼는데 성능이 안 나오면 어디를 봐야 할까? | GeekNews](https://news.hada.io/topic?id=7911)
 * [Java Compiler Optimization — 시행착오를 줄이는 방법 - 진태양](https://dataportal.kr/90)
 * `-XX:MaxDirectMemorySize` [파일 서버에 1GB 파일 패치 요청 실패 (간단한 JVM 튜닝으로 해결하기)](https://velog.io/@joosing/failed-request-to-fetch-1gb-file-to-the-file-server)
+* [VDBUH2023 - Ionuț Baloșin & Florin Blănaru - JVM Performance Comparison - YouTube](https://www.youtube.com/watch?v=dLV2mrXXO6I)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
 * [Loom: https://openjdk.org/projects/loom ](https://github.com/openjdk/loom)
