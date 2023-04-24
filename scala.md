@@ -2261,6 +2261,7 @@ Scala
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
 * [Automatically Deriving Typeclass Instances in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
 * [Type Class Derivation in Scala 3. Deriving type classes without macros in… | by Ron Aharoni | Riskified Technology | Dec, 2021 | Medium](https://medium.com/riskified-technology/type-class-derivation-in-scala-3-ba3c7c41d3ef)
+* [Beginner's guide to derivations in Scala - Dev notes](https://blog.michalp.net/posts/scala/scala-derivations/)
 * [Alex Nedelcu - OOP versus Type Classes in Scala - YouTube](https://www.youtube.com/watch?v=UT2K9c66xCU)
   * [OOP vs Type Classes, Part 1: Ideology - Alexandru Nedelcu](https://alexn.org/blog/2022/05/13/oop-vs-type-classes-part-1-ideology/)
 * [Containers - Associating items by Type Class](https://mhammons.hashnode.dev/containers)
