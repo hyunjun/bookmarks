@@ -1418,6 +1418,11 @@ Book
 * [빠르게 실패하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300704053)
   * ★★★★☆ 2023.04.11~12 '실행'을 강조하고 그걸 할 수 있도록 여러가지 심리학적인 걸림돌을 제거해주는 책. 분야가 전혀 다르지만 agile 원칙과도 바로 연결지어 생각해볼 수 있다. 작게, 자주 실패해서 결국 성공의 길로 연결하는 agile 방법과 심리학의 측면이 이렇게 긴밀하게 연결된다는 점이 놀라우면서도 또 한편 당연하다는 생각도 든다.
   * 한라 199.1-크294ㅃ 탐라 문199.1-크233ㅃ 우당 문199.1-크233ㅃ
+  * [빠르게 실패하기 FAIL FAST, FAIL OFTEN](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/fail_fast_fail_often)
+  * [빠르게 실패하기 FAIL FAST, FAIL OFTEN](https://github.com/hyunjun/bookmarks/blob/master/books/fail_fast_fail_often.md)
+  * [빠르게 실패하기 FAIL FAST, FAIL OFTEN. ★★★★☆ 2023.04.11~12 | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B8%B0-fail-fast-fail-often-6d5a8e23badb)
+  * [빠르게 실패하기 FAIL FAST, FAIL OFTEN](https://jh4hj.tistory.com/entry/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B8%B0-FAIL-FAST-FAIL-OFTEN)
+  * [빠르게 실패하기 FAIL FAST, FAIL OFTEN - Jun’s Substack](https://recur.substack.com/p/fail-fast-fail-often)
 * [정의 중독 - 르몽드디플로마티크](https://www.ilemonde.com/news/articleView.html?idxno=15042)
   * ★★★☆☆ 2023.04.12 뇌에 대한 연구를 바탕으로 전개하긴 하는데, 뇌 연구가 여전히 미지의 영역이 많은 부분이라 이걸 다 그대로 받아들일만 한지는 모르겠다. 그러나 새로운 걸 계속 받아들이고 일부러 어색하고 어려운 상황에 자신을 노출시키면서도 여유를 가지라는 등의 이야기는 다른 데서도 볼 수 있기도 하고 의미있는 조언이란 생각이다.
   * 한라 181.3-나872ㅈ 우당 문331.1-나821ㅈ
