@@ -3585,6 +3585,8 @@ Programming
 * [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 * [Hacker Test: A site to test and learn about web hacking](https://www.hackertest.net/)
+* [Hashids - generate short unique ids from integers](https://hashids.org/)
+  * [Hashids 로 난독화하여 ID 노출하지 않기 · Json Media](https://json.media/blog/obfuscate_with_hashids_to_avoid_exposing_ids)
 * [inAppBrowser.com](https://inappbrowser.com/)
   * [iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser · Felix Krause](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
     * 얼마 전 [Instagram/Facebook이 인 앱 브라우저에서 코드를 주입해서 사용자의 활동을 모두 추적한다는 보고](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
