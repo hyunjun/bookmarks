@@ -4806,6 +4806,7 @@ Javascript
   * [Build & Deploy a Full Stack E-Commerce Website with Next.js 13, Strapi Headless CMS & Tailwind CSS - YouTube](https://www.youtube.com/watch?v=8xf78RNtfHY)
   * [How to Build a Blog with Next.js and Ghost CMS](https://morioh.com/p/f9deb6c9bedd)
   * [Next.js Router에 대한 고찰](https://logotic-hugo.hashnode.dev/nextjs-router)
+  * [Next.js 13 강의 달린다 (1강~6강) - YouTube](https://www.youtube.com/watch?v=PCkiz2GUFg8)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
