@@ -1592,7 +1592,7 @@ Programming
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
 * [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
-* [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을) 강의로 들었다는 이야기
+* [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을 강의로 들었다는 이야기
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -5593,6 +5593,7 @@ Programming
 * [Improving your Test Driven Development in 45 minutes - Jakub Nabrdalik - YouTube](https://www.youtube.com/watch?v=2vEoL3Irgiw)
 * [🚀 Does TDD Really Lead to Good Design? (Sandro Mancuso) - YouTube](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 * [요약 단위 테스트](https://tosspayments-dev.oopy.io/share/books/unit-testing)
+* [VDBUH2023 - Victor Rentea - Keynote: Your unit tests are trying to tell you something - YouTube](https://www.youtube.com/watch?v=Hy_wnGc5ya0)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
