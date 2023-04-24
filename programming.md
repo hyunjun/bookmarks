@@ -3626,6 +3626,8 @@ Programming
     * 로그인 등에서 시각적 퍼즐로 봇을 걸러내기 위해 사용하는 CAPTCHA의 대안으로 Cloudflare에서 Turnstile을 오픈 베타로 공개
     * Turnstile는 Managed Challenge 시스템으로 사용자의 정보를 기반으로 과제를 수행하여 CAPTCHA 없이도 사람 구분
     * Cloudflare에서 키를 받아서 무료로 사용할 수 있고 프라이버시 측면에서도 훨씬 안전
+* [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
+  * [비밀번호의 강도를 알려주는 zxcvbn - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/901)
 
 # Data Mesh
 * [Data Mesh 101: What is Data Mesh? - YouTube](https://www.youtube.com/watch?v=zfFyE3xmJ7I)
