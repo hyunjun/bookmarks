@@ -618,6 +618,9 @@ Data Science
 * amundsen [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 * datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
   * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
+* [dbt - Transform data in your warehouse](https://www.getdbt.com/)
+  * [Automating Propagations with DataHub and DataHub-Tools | by Ada Draginda | Mar, 2023 | DataHub](https://blog.datahubproject.io/automating-propagations-with-datahub-and-datahub-tools-4df1351d7565)
+  * [datahub-tools: simplify working with DataHub API endpoints](https://github.com/makenotion/datahub-tools/tree/main)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
