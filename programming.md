@@ -3826,6 +3826,7 @@ Programming
   * 운영의 44%가 대부분 자동화, 25%는 완전히 자동화로 평가
 * [‘어설픈 데브옵스’를 하고 있다는 7가지 징후 - CIO Korea](https://www.ciokorea.com/news/273769)
 * [2023년에 주목할 DevOps 트렌드 5가지 | DevSecOps 구축 컨설팅, 교육, 기술지원 서비스 제공](https://insight.infograb.net/blog/2023/03/27/2023-devops-5/)
+* [Automation Is Hard & We Are Doing It Wrong • Johan Abildskov • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=JU5niXIrK3Y)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
