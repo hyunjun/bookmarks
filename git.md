@@ -1238,6 +1238,7 @@ Git
 * github1s
   * [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
   * [이게 github 이야 vscode 야](https://uni2u.tistory.com/123)
+* [github-api-helper-ts: Helper using GitHub API](https://github.com/juunini/github-api-helper-ts)
 * [github-artifact-exporter: A set of packages to make exporting artifacts from GitHub easier](https://github.com/github/github-artifact-exporter)
   * GitHub의 데이터를 내보내기 쉽게 도와주는 GitHub에서 만든 패키지. 현재 이슈를 CSV나 JSON으로 export
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
