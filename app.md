@@ -1895,6 +1895,7 @@ App
   * [Notion 유저에서 파트너가 된 이야기: ① 실리콘벨리 프로덕트에 기여하기](https://fall-moon.tistory.com/12)
   * [Notion 유저에서 파트너가 된 이야기: ② 실리콘밸리 스타트업 한국에 성공적으로 수입하기](https://fall-moon.tistory.com/18)
   * [Notion 유저에서 파트너가 된 이야기: ③ 할 수 있을 때, 할 수 있는 만큼](https://fall-moon.tistory.com/19)
+  * [How I Use AI to take perfect notes...without typing - YouTube](https://www.youtube.com/watch?v=hCEdm9LGBb0)
   * [notionapi](https://github.com/paullabkorea/notionapi)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
