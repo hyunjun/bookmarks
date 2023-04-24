@@ -1092,6 +1092,7 @@ AWS
 * [Amazon EKS Multi Cluster Upgrade with ExternalDNS](https://heuristicwave.github.io/EKS_Upgrade)
 * [EKS에 CLB, NLB, ALB 만들기, AWS Load Balancer Controller 사용](https://nauco.tistory.com/89)
 * [Amazon EKS 워크로드의 지속적인 복원력 확인을 위한 카오스 엔지니어링 (Chaos Engineering) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/continuous-resilience-testing-for-amazon-eks-workloads-with-chaos-engineering/)
+* [AWS EKS에 ALB를 이용해 여러 서비스 연결하기](https://nauco.tistory.com/91)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
