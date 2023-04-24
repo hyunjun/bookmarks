@@ -2441,7 +2441,7 @@ Docker
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
-* [HBsmith가 VirtualBox에서 Parallels로 갈아탄 이유 | by Jesang Yoon | Hard Boiled Smith Stories](https://blog.hbsmith.io/hbsmith%EA%B0%80-virtualbox%EC%97%90%EC%84%9C-parallels%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-4dab5005302f)
+* [HBsmith가 Vi)rtualBox에서 Parallels로 갈아탄 이유 | by Jesang Yoon | Hard Boiled Smith Stories](https://blog.hbsmith.io/hbsmith%EA%B0%80-virtualbox%EC%97%90%EC%84%9C-parallels%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-4dab5005302f)
 * [Just download the code and use single command "vagrant up" to make k8s cluster readily available - YouTube](https://www.youtube.com/watch?v=Hqkujcop3NE)
 * [VM 관리를 위한 vagrant 알아보기](https://blog.naver.com/pjt3591oo/223082616862)
 * [bootstrapping-microservices/example-vagrant-vm: An example Vagrant virtual machine setup with Docker and Terraform installed](https://github.com/bootstrapping-microservices/example-vagrant-vm)
