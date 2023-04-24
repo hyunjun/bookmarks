@@ -854,6 +854,7 @@ NLP
 * [www.luis.ai](https://www.luis.ai)
 * [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
   * [nanoGPT - 중간규모 GPT를 가장 빠르게 훈련/미세조정하기 위한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8170)
+* [NeMo: a toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
 * [Open Assistant](https://open-assistant.io/)
   * [OpenAssistant First Models are here! (Open-Source ChatGPT) - YouTube](https://www.youtube.com/watch?v=Hi6cbeBY2oQ)
 * [PetGPT: Train your own PetGPT at home!](https://github.com/maziarraissi/PetGPT)
