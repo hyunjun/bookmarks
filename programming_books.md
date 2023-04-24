@@ -205,6 +205,11 @@ Programming Books
   * ★★★☆☆ 2023.04.02~03
   * 한라 324.35-타195ㅅ
   * [테크니컬 라이터의 어두운 면. 우리나라에서 테크니컬 라이터는 소수다. 지난 10여 간 수요가 늘고… | by Ragina Jeon | Dec, 2022 | Medium](https://lyingdragon.medium.com/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%9D%98-%EC%96%B4%EB%91%90%EC%9A%B4-%EB%A9%B4-b5f456359a3b)
+  * [실리콘 밸리의 목소리 - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/voices_from_the_valley)
+  * [실리콘 밸리의 목소리](https://github.com/hyunjun/bookmarks/blob/master/programming_books/voices_from_the_valley.md)
+  * [실리콘 밸리의 목소리. ★★★☆☆ 2023.04.02~03 | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%9D%98-%EB%AA%A9%EC%86%8C%EB%A6%AC-99d2a59e3f1d)
+  * [실리콘 밸리의 목소리](https://jh4hj.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%9D%98-%EB%AA%A9%EC%86%8C%EB%A6%AC)
+  * [실리콘 밸리의 목소리 - Jun’s Substack](https://recur.substack.com/p/830)
 * [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
   * ★★★☆☆ 2023.04.03 큰 주제를 좀 압축해놓은 감이 있지만, 디자인 씽킹에서 시작해서 엑셀로 기초적인 데이터 분석까지 넓은 주제를 쉽게 다룸
   * 한라 005.76-에68ㄷ
