@@ -101,6 +101,7 @@ Programmer
 * [못하지 않는 개발자 되기 - 신입용 - YouTube](https://www.youtube.com/watch?v=wogrRJlqUFw)
 * [개발자로 살아남는 "진짜" 방법](https://f-lab.kr/blog/how-to-be-good-developer)
 * [쉽게 살 수 있을까 ? :: 개발자 성장에 대한 강연.](https://hl1itj.tistory.com/249)
+* [당신이 성장하지 못하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1986/) 일찍 자주 실패하라
 * [The case against CS master’s degrees](https://ozwrites.com/masters/)
 * [2022 Workplace Learning Report | LinkedIn Learning](https://learning.linkedin.com/resources/workplace-learning-report)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
