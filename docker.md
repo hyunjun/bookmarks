@@ -1659,6 +1659,7 @@ Docker
 * [Building a Managed Platform While Maintaining a Good Developer Experience • Thor Lange • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=n6dZArS57x0)
 * [**Inner Development Loop with Java on Kubernetes • Thomas Vitale • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=SSuGJZIwnZs)
 * [Operating High Traffic Websites on Kubernetes - YouTube](https://www.youtube.com/watch?v=S92WvHaOVQk)
+* [VDBUH2023 - Natale Vinto & Kevin Dubois - Progressive Delivery in the Kubernetes era - YouTube](https://www.youtube.com/watch?v=y-GoffQlWxw)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
