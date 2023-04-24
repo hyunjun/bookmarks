@@ -153,6 +153,7 @@ Java
 * [The Future of Java as Seen by Mark Little at Devoxx UK 22: Native Java, Adoptium and Faster Pace](https://www.infoq.com/news/2022/05/future-java-may22/)
 * [공공데이터포털 오픈 API를 이용하여 기상청 현재 날씨 정보 얻기](https://blog.naver.com/birdparang/222753218885)
 * [Data Oriented Programming in Java](https://www.infoq.com/articles/data-oriented-programming-java/)
+* [VDBUH2023 - Nicolai Parlog - Data-Oriented Programming in Java (20) - YouTube](https://www.youtube.com/watch?v=zn4neparqUQ)
 * [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8357/)
 * [자바가 여전히 위대한 개발 언어인 7가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/245956)
 * [Quiz](https://blogs.oracle.com/javamagazine/category/jm-quiz)
@@ -2090,6 +2091,7 @@ Java
 * [스프링 부트를 제거해서 생긴 일](https://yeonyeon.tistory.com/296)
 * [무지성으로 사용한 헬스 체크가 불러일으킬 수 있는 참사](https://toss.tech/article/how-to-work-health-check-in-spring-boot-actuaotr)
 * [Spring Boot Performance: How to Fine-Tune Your Application for High-Speed Results | Medium](https://medium.com/@harshgajjar7110/performance-tuning-and-optimization-tips-for-spring-applications-13fcf6ef8b44)
+* [VDBUH2023 - Laurențiu Spilcă - Everything in Spring Security 6 baked with a Spring Boot 3 recipe - YouTube](https://www.youtube.com/watch?v=ynt1CLsWXoo)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
