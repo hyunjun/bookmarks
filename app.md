@@ -996,6 +996,7 @@ App
     * [VS Code tips: The Git Graph extension - YouTube](https://www.youtube.com/watch?v=u9ZQpKGTog4)
     * [VSCode 확장 - Git File Histoty](https://velog.io/@juunini/VSCode-%ED%99%95%EC%9E%A5-Git-File-Histoty)
     * [Visual Studio Code에서 GIT으로 협업하기 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMD-XRW1zlqC7U2uCzOxyT8u)
+    * [CSS 개발자를 위한 VSCode 확장 | 웹으로 말하기](https://mytory.net/archives/13429)
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
