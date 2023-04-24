@@ -977,6 +977,7 @@
   * [Allan Campopiano - Machine Learning in the Warehouse with Python | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=_acet5Ch_zc)
   * [Learn About Snowpark For Python In 2 Minutes: Scale Your Machine Learning Workflows - YouTube](https://www.youtube.com/watch?v=iCu3VsvsH4g)
   * [이제 모든 Snowflake 고객에게 Python 혁신이 제공된다](https://www.snowflake.com/blog/snowpark-python-innovation-available-all-snowflake-customers/?lang=ko)
+  * [**Databricks vs Snowflake: Which platform is best for you? - Beyond the Horizon...**](https://rajanieshkaushikk.com/2023/04/21/databricks-vs-snowflake-which-platform-is-best-for-you/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
