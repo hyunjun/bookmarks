@@ -64,6 +64,7 @@ Docker
 * [Docker 기본(7/8) Docker Swarm의 구조와 Service 배포하기 | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-7-8-docker-swarm%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-service-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1d5c05967b0d)
 * [Docker 기본(8/8) Docker의 Network. Docker Swarm은 두 가지 종류의 Traffic을 생성합니다. | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/docker-%EA%B8%B0%EB%B3%B8-8-8-docker%EC%9D%98-network-c75f3077335d)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
+* [Virtual Machine (VM) vs Docker - YouTube](https://www.youtube.com/watch?v=a1M_thDTqmU)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
