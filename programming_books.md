@@ -3520,6 +3520,7 @@ Programming Books
 * (NOT YET) [FastAPI를 사용한 파이썬 웹 개발](https://hanbit.co.kr/store/books/look.php?p_code=B9703548802)
   * 탐라
   * [FastAPI를 사용한 파이썬 웹 개발](https://jybaek.tistory.com/992)
+  * [빠르게 웹앱을 개발할 수 있는 FastAPI .. : 네이버블로그](https://blog.naver.com/drvoss/223082307567)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -3961,6 +3962,7 @@ Programming Books
   * [개발자의 글쓰기](https://github.com/hyunjun/bookmarks/blob/master/programming_books/developers_writing.md)
   * [개발자의 글쓰기 - Jun - Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-eaa6f81c9342)
   * [개발자의 글쓰기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
+  * [책 후기 개발자의 글쓰기](https://yeonyeon.tistory.com/302)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
