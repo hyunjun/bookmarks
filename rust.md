@@ -221,6 +221,7 @@
 * [Ready for Rust • Erik Doernenburg • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=WgLlwjZNEtY)
 * [When to Choose Rust • Tim McNamara • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=wClDbLGLjxw)
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
+* [Blazing Fast, Minimal Change - Speed up Your Code by Refactoring to Rust - YouTube](https://www.youtube.com/watch?v=-wVJ2nPOtuY)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 
 # Go
