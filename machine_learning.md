@@ -1223,6 +1223,7 @@ Machine Learning
   * [딥러닝 인터뷰 북 401P e북 PDF | GeekNews](https://news.hada.io/topic?id=5722)
 * [Kobra | A visual programming language for machine learning (in beta)](https://kobra.dev/)
 * [LambdaML: Pros and Cons of Serverless for Deep Network Training](https://www.infoq.com/news/2022/02/serverless-ml-training/)
+* [lance: Modern columnar data format for ML implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming](https://github.com/eto-ai/lance)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM - table data에 강하다고?
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
@@ -1551,6 +1552,7 @@ Machine Learning
   * [A Practical Guide to ARIMA Models using PyCaret — Part 2 | by Nikhil Gupta | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/understanding-arima-models-using-pycarets-time-series-module-part2-308ea7bfecf6)
   * [A Practical Guide to ARIMA Models using PyCaret — Part 3 | by Nikhil Gupta | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/a-practical-guide-to-arima-models-using-pycaret-part-3-823abb5359a7)
   * [PyCaret 2.3.5 Is Here! Learn What’s New | by Moez Ali | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/announcement-pycaret-2-3-5-is-here-learn-whats-new-7f0256c71797)
+  * [Machine Learning Made Easy With PyCaret • Moez Ali • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=k4zNjIHacr4)
 * [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
   * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
 * PyGAD [Welcome to PyGAD’s documentation! — PyGAD 2.9.0 documentation](https://pygad.readthedocs.io/)
