@@ -588,6 +588,8 @@ Java
 * [Java *is* agile by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=HaKvT18xXNM)
 * [**A Glance At The Java Performance Toolbox by Ana Maria Mihalceanu - YouTube**](https://www.youtube.com/watch?v=VsseHAtG1mI)
 * [Full-stack development is dead, long live full-stack development! by Simon Martinelli - YouTube](https://www.youtube.com/watch?v=R3V0DAW-BiA)
+* [VDBUH2023 - Mads Opheim & Rustam Mehmandarov - Modern Java App Development in the Cloud - YouTube](https://www.youtube.com/watch?v=QWFgrdeB0NI)
+* [OAuth for Java Developers - YouTube](https://www.youtube.com/watch?v=z2Bt971k1EE)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -919,6 +921,7 @@ Java
 * [Latest Java Features from a Scala Dev Perspective - Part 2: Lambda Expressions](https://blog.madhukaraphatak.com/latest-java-2)
 * [Latest Java Features from a Scala Dev Perspective - Part 3: Functional Interfaces](https://blog.madhukaraphatak.com/latest-java-3)
 * [Latest Java Features from a Scala Dev Perspective - Part 4: Higher Order Functions](https://blog.madhukaraphatak.com/latest-java-4)
+* [VDBUH2023 - Johan Janssen - Why and How to Upgrade to Java 17 (and Prepare for 21) - YouTube](https://www.youtube.com/watch?v=-W2OdeOdyYg)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
