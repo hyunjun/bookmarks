@@ -556,6 +556,8 @@
 * [2020 데이터 컨퍼런스 "Spark+Cassandra 기반 빅데이터를 활용한 추천시스템 서빙 파이프라인 최적화" / 박수성 SSG.COM 파트너 - YouTube](https://www.youtube.com/watch?v=CQD-85a-NRs)
 * [Tale of Scaling Zeus to Petabytes of Shuffle Data @Uber - YouTube](https://www.youtube.com/watch?v=8n8zDvv59_A)
 * [Sub-Second Analytics for User-Facing Applications with Apache Spark and Rockset - YouTube](https://www.youtube.com/watch?v=-gRFwzK5L2s)
+* [Databricks Connect v2 Quickstart - YouTube](https://www.youtube.com/watch?v=BIysxyh_lro)
+* [Databricks Marketplace - YouTube](https://www.youtube.com/watch?v=8NJ-JQjcFsQ)
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
