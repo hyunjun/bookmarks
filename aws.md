@@ -2109,6 +2109,7 @@ AWS
 * [AWS Cloud Quest | 대화형 롤플레잉 게임 | AWS](https://aws.amazon.com/ko/training/digital/aws-cloud-quest/)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [AWS Well-Architecture Framework](https://www.joinc.co.kr/w/aws_cheat_sheet_well_architected_framework)
+* [스트리밍 미디어 렌즈로 보는 미디어 스트리밍 모범 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/streaming-media-best-practices/)
 * [AWS Cloud Computing Full Course Tutorial | Drive Link Series - YouTube](https://www.youtube.com/watch?v=Qym5fLd80oU)
 * [Amazon Web Services (AWS) - Zero to Hero | Udemy](https://www.udemy.com/course/amazon-web-services-aws-v/learn/lecture/7834634#overview)
 * [AWS란 무엇인가? – Lamanus' Archive](https://lamanus.kr/104)
