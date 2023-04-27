@@ -1282,6 +1282,7 @@ Web
   * [Flask 서버를 FastAPI 서버로 전환하기. 안기욱 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=5FvicDwklaA)
   * [Dix et al - Lessons Learned Building Our Own Dashboard Solution | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=zBPpOPnLaFE) celery도 일부
   * [Generate Python FastApi Rest Client & Server - YouTube](https://www.youtube.com/watch?v=52MRyaOPmF4)
+  * [How to Use FastAPI: A Detailed Python Tutorial - YouTube](https://www.youtube.com/watch?v=SORiTsvnU28)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
@@ -1465,6 +1466,7 @@ Web
 * [기계들의 대화법 - REST API - YouTube](https://www.youtube.com/watch?v=PmY3dWcCxXI)
 * [멱등성?](https://velog.io/@juunini/%EB%A9%B1%EB%93%B1%EC%84%B1)
 * [REST vs. GraphQL vs. gRPC · Dan Hacks](https://www.danhacks.com/software/grpc-rest-graphql.html)
+* [GraphQL vs REST: Which is Better for APIs? - YouTube](https://www.youtube.com/watch?v=PTfZcN20fro)
 * [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [13 REST API interview questions you need to know | by The Educative Team | Mar, 2022 | Grokking the Tech Interview](https://grokkinginterview.com/13-rest-api-interview-questions-you-need-to-know-f0e7ec857550)
 * [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
