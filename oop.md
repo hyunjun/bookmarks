@@ -135,6 +135,7 @@
 * [C# Design Patterns | Design Pattern Tutorial For Beginners | C# Programming Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=OP1tBC6dBW0)
 * [Design Patterns Explained with Food - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
 * [(초보 시청 금지) 디자인패턴 - 전략 패턴(Strategy Pattern) - YouTube](https://www.youtube.com/watch?v=63miHKtooo4)
+* [Are Design Patterns Dead in C#? - YouTube](https://www.youtube.com/watch?v=4rQ0jFmKSgk)
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
