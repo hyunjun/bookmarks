@@ -1845,6 +1845,7 @@ Python
   * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
   * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
+* [The Quick Python Book • Naomi Ceder & Luciano Ramalho • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7CwmUmQjvYg)
 * [Reeborg's world](https://reeborg.ca/index_en.html)
   * [리보그와 파이썬 배우기! — 리보그와 함께 파이썬 배우기](http://reeborg.ca/docs/ko/)
   * [리보그 세상 | 리보그 세상(Reeborg’s World)](https://statkclee.github.io/reeborg/)
