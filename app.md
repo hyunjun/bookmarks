@@ -710,6 +710,7 @@ App
 * [Http 요청 관련 툴을 추천해보아요 | GeekNews](https://news.hada.io/topic?id=5607)
 * [Top 10 Tools for REST API Development and Testing | Java67](https://www.java67.com/2022/03/best-tools-for-rest-api-development.html)
 * [7 API Tools for REST Developers and Testers - DEV Community](https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67)
+* [The New HTTP Client CLI - YouTube](https://www.youtube.com/watch?v=mwiHAukbWjM)
 * curl
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/ko/)
 * [httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie ](https://github.com/httpie/httpie)
@@ -874,6 +875,7 @@ App
   * [VS Code Tips and Tricks for 2021 - YouTube](https://www.youtube.com/watch?v=fyg9Uw3CLUU)
   * [VS Code snippets: the most powerful tool to boost your coding productivity](https://medium.freecodecamp.org/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00)
   * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
+  * [Top 5 VS Code Productivity Tips Marathon - YouTube](https://www.youtube.com/watch?v=HIqONcVBEm0)
   * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
   * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
   * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
@@ -1491,6 +1493,7 @@ App
 * [macOS Setup after 15 Years of Linux · HookRace Blog](https://hookrace.net/blog/macos-setup/) M1 설정
 * [Python M1 맥북에서 Python 설치하기. Apple M1 ARM 아키텍쳐에서 파이썬 3.9.1 미만의 버전을… | by chrisjune | Medium](https://chrisjune-13837.medium.com/python-m1-%EB%A7%A5%EB%B6%81%EC%97%90%EC%84%9C-python-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-4f0907dd5da8)
 * [How To Setup A MacBook Pro M1 For Software Development - YouTube](https://www.youtube.com/watch?v=5eSaJGSGLs0)
+* [How To Setup Your MacBook For Maximum Developer Productivity | 2023 - YouTube](https://www.youtube.com/watch?v=BMtG52U3cEY)
 * command terminal
   * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
