@@ -345,6 +345,7 @@ Programming Books
     * [GitHub - bettercode-oss/better-ADMIN](https://github.com/bettercode-oss/better-ADMIN)
   * [새로운 제조업 이론이 나를 이끌다](https://brunch.co.kr/@graypool/734)
   * [품질과 일정 사이에서](https://brunch.co.kr/@cleancode/52)
+  * [자기 몸값을 하는 프로그램으로만 구성하기](https://brunch.co.kr/@graypool/939)
 * [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
   * ★★★☆☆ 2022.04.23
