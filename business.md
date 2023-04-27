@@ -1390,6 +1390,7 @@ Business
 * [위기에 강한 조직의 심리적 안전감](https://camp.lemonbase.com/psychologicalsafety0)
 * [구성원들의 입을 여는 '심리적 안전감' 구축 .. : 네이버블로그](https://blog.naver.com/businessinsight/222618903332)
 * [심리적 안정감을 위해 우리 회사에서 실천하고 있는 것들 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/psychologicalsafety20220629)
+* [VDBUH2023 - Magda Miu - The 3As of Psychological Safety - YouTube](https://www.youtube.com/watch?v=Rt2LubG24DA)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
