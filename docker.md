@@ -1660,6 +1660,7 @@ Docker
 * [**Inner Development Loop with Java on Kubernetes • Thomas Vitale • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=SSuGJZIwnZs)
 * [Operating High Traffic Websites on Kubernetes - YouTube](https://www.youtube.com/watch?v=S92WvHaOVQk)
 * [VDBUH2023 - Natale Vinto & Kevin Dubois - Progressive Delivery in the Kubernetes era - YouTube](https://www.youtube.com/watch?v=y-GoffQlWxw)
+* [WASM + Kubernetes: Beyond Containers - YouTube](https://www.youtube.com/watch?v=ulZGjeFZirU)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1716,6 +1717,7 @@ Docker
       * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
+  * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
   * [tutorials-argo-rollouts Wiki](https://github.com/jangjaelee/tutorials-argo-rollouts/wiki)
     * [Rollout_Cheat_Sheet.png (5160×6176)](https://raw.githubusercontent.com/jangjaelee/tutorials-argo-rollouts/main/cheat_sheet/Rollout_Cheat_Sheet.png)
