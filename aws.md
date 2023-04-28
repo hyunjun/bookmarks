@@ -518,6 +518,7 @@ AWS
 * [AWS AI updates: Amazon Bedrock and 3 generative AI innovations](https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-generative-ai-service)
   * [기업 고객 들에게 큰 박수받는 아마존의 '베드락'](https://www.facebook.com/youngwook.kim.7549/posts/pfbid0ifC8aPZoCC4LQoUfHf7aLyd72qZNmcNWeWYZMEyUKqUaaShsNftMBFeHYXSyAMkcl)
 * [스와미 시바수브라마니안 AWS 머신러닝 부사장 “본질적으로 중요한 것은 모델을 구축하는 방식”···보겔스 AWS CTO 대담 – 테크수다](http://www.techsuda.com/archives/19544)
+* [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1761,6 +1762,7 @@ AWS
 * [SQS vs Kafka: Evaluation of Two Popular Message Brokers | SPEC INDIA](https://www.spec-india.com/blog/sqs-vs-kafka)
 * [Spring Boot 2.4.x 이상 환경에서 AWS SQS를 이용한 애플리케이션 구축하기](https://kim-jong-hyun.tistory.com/144)
 * [AWS SQS와 Lambda 동시성의 밀당 (Set Visibility Timeout) | by Jeremy | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-sqs%EC%99%80-lambda-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%B0%80%EB%8B%B9-set-visibility-timeout-2e8f630b0159)
+* [AWS-SQS-터져랏 - 리눅서의 기술술 블로그](https://linuxer.name/2023/04/aws-sqs-%ED%84%B0%EC%A0%B8%EB%9E%8F/)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
