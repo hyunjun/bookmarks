@@ -52,6 +52,7 @@ Logging
   * 데이터 로깅을 하기 위해 필요한 상식, 사용할 수 있는 플랫폼들 정리. 서버 로그와 클라이언트 로그의 차이, 웹이나 앱의 로깅 특성도 잘 정리
   * 이벤트 로그를 어떻게 설계하는 방법과 예시도 잘 나와 있어서 데이터 추적에 대한 이해도를 높이거나 서비스에 로깅 설계를 할 때 참고
 * [유저를 이해하는 단서, 이벤트 로그 | 하조은의 블로그](https://hajoeun.blog/event-log-is-a-clue-to-understand-user)
+* [Spoqa 기술 블로그 | 이벤트 로그 체계 구축 여정](https://spoqa.github.io/2023/04/28/journey-to-building-an-event-log-system.html)
 * [29CM 로그 수집 시스템 소개. 29CM에서는 기존의 로그 시스템, 신규 구축한 로그 시스템 두가지를… | by 29CM | 29CM 기술블로그 | Jul, 2021 | Medium](https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6)
   * 29CM에서 기존에는 Fluentd와 Elasticsearch로 로그 수집, 관리의 어려움과 로그 유실을 막기 위해 새 로그 수집 시스템 구축
   * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
