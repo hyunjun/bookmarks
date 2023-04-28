@@ -506,6 +506,7 @@ Programming
 * [How to Survive in 2022 as a Software Engineer | Better Programming](https://betterprogramming.pub/surviving-cloud-computing-complexity-1aabc1024a54)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
+* [문제 해결을 우연에 맡기지 말자](https://velog.io/@hyemin916/%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%84-%EC%9A%B0%EC%97%B0%EC%97%90-%EB%A7%A1%EA%B8%B0%EC%A7%80-%EB%A7%90%EC%9E%90) 가설, 실험, 검증, 반복
 * [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474) 기본에 충실하자는 이야기
 * [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/) 소프트웨어 프로젝트에서 시간 추정
 * [C10K 문제(C10K problem)](https://118k.tistory.com/198)
@@ -2447,7 +2448,6 @@ Programming
 * [크몽 개발팀 Jira 사용기. 민첩한 조직 구조를 유연하게 유지하는 데 도움을 준 Jira 사용기 | by gyeongrae.roh | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-81224416448e)
 * [크몽 개발팀 Jira 사용기 : 극대화 편. Jira를 이렇게까지 사용 가능한지 난 몰랐네? | by James | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EA%B7%B9%EB%8C%80%ED%99%94-%ED%8E%B8-88439965a9bf)
 * [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
-* [지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -5373,6 +5373,9 @@ Programming
   * 인프라 마이그레이션이 실패하는 이유, 대부분의 이유가 부족한 인력 때문이 아니라는 점 지적
   * 단순히 "모놀리스의 해체" 혹은 "마이크로 서비스로의 이전"등의 단어들에 집착할 것이 아니라
     * 회사 내의 엔지니어들이 어떤부분에 문제의식을 느끼고 있고 어떤 부분이 필수불가결하게 개선되어야 하는지를 먼저 인식하는게 중요한지 알려주는 글
+* [지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
+* [중요한 건 꺾이지 않는 테스트: 카카오페이 지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
+* [복잡한 문제는 나눠서 단순화: 카카오페이 위키 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/wiki-migration-review/)
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
@@ -5603,6 +5606,7 @@ Programming
 * [요약 단위 테스트](https://tosspayments-dev.oopy.io/share/books/unit-testing)
 * [VDBUH2023 - Victor Rentea - Keynote: Your unit tests are trying to tell you something - YouTube](https://www.youtube.com/watch?v=Hy_wnGc5ya0)
 * [너와 나와 우리를 위한 클린코드 (feat. NextStep, TDD 클린코드 with React)](https://velog.io/@lucky-jun/%EB%84%88%EC%99%80-%EB%82%98%EC%99%80-%EC%9A%B0%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-feat.-NextStep-TDD-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-with-React)
+* [개발일기 #110 : 균형있는 테스트에 대한 엔지니어링 의견](https://velog.io/@joosing/dev-diary-110)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
