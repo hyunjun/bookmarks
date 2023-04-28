@@ -352,6 +352,8 @@
 * [typos: Source code spell checker](https://github.com/crate-ci/typos)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
   * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
+* [uniffi-rs: a multi-language bindings generator for rust](https://github.com/mozilla/uniffi-rs)
+  * [당근마켓 모바일 실험실: Rust로 공유 라이브러리 만들기. 당근마켓 앱에서 사용할 공통적인 기능을 위해 Rust 로 크로스 플랫폼… | by Hyeseong Kim | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8B%A4%ED%97%98%EC%8B%A4-rust%EB%A1%9C-%EA%B3%B5%EC%9C%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-f4897a6dcdd5)
 * [video-search-rust-demo: This repo is a sample video search app using AWS services](https://github.com/aws-samples/video-search-rust-demo)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
