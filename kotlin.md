@@ -381,6 +381,7 @@
 * [Kotlin Coroutines - A Comprehensive Introduction - Rock the JVM Blog](https://blog.rockthejvm.com/kotlin-coroutines-101/)
 * [How to make Sequential Background Tasks with Kotlin Coroutines | by Abanoub Samir | Mar, 2023 | Medium](https://medium.com/@iAbanoubSamir/how-to-make-sequential-background-tasks-with-kotlin-coroutines-8047c4771d91)
 * [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
+* [Kotlin Coroutines to Cats-Effect - Alexandru Nedelcu](https://alexn.org/blog/2023/04/24/kotlin-suspended-functions-to-cats-effect-io/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
