@@ -321,6 +321,7 @@ Java
     * [데이터베이스 커넥션 풀 (Connection Pool)과 HikariCP](https://hudi.blog/dbcp-and-hikaricp/)
     * [게임 서버 시스템을 위한 JDBC와 Timeout 이해하기 - 넷마블 기술 블로그](https://netmarble.engineering/jdbc-timeout-for-game-server/)
     * [게임 서버 시스템을 위한 HikariCP 옵션 및 권장 설정 - 넷마블 기술 블로그](https://netmarble.engineering/hikaricp-options-optimization-for-game-server/)
+    * [장애회고 ORM(JPA) 사용 시 예상치 못한 쿼리로 인한 HikariCP 이슈](https://saramin.github.io/2023-04-27-order-error/)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
@@ -562,6 +563,7 @@ Java
 * [Interview Question |Difference Between Runnable And Callable Interface In Java |Runnable Vs Callable - YouTube](https://www.youtube.com/watch?v=G0kQBUvCDbs)
 * [(예제와 함께 보는) 기술을 학습하는 3단계](https://velog.io/@joosing/3-steps-to-learn-the-skills)
   * [ScheduledExecutorServiceTest.java at 688d8bc764c4b65487889277f50c364f5dd544d3 · Jsing/study-in-code · GitHub](https://github.com/Jsing/study-in-code/blob/688d8bc764c4b65487889277f50c364f5dd544d3/src/test/study/tech/java/concurrent/ScheduledExecutorServiceTest.java)
+* [병렬 스트림(Parallel Stream)을 활용한 손쉬운 성능 향상](https://velog.io/@joosing/increase-performance-with-parallel-stream)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -2265,6 +2267,7 @@ Java
   * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
   * [TestContainers로 유저시나리오와 비슷한 통합테스트 만들어 보기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/delivery-testContainer-apply/)
+  * [Testcontainers로 통합테스트 만들기](https://dev.gmarket.com/76)
 
 # Tutorial
 * [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
