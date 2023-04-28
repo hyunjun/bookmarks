@@ -649,7 +649,8 @@ AWS
 * [How to Setup AWS Cloudfront distribution to serve static Cotent - YouTube](https://www.youtube.com/watch?v=fMhj20GbmMM)
 * [Amazon CloudFront 지속적 배포를 사용하여 CDN 변경 사항을 안전하게 검증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/use-cloudfront-continuous-deployment-to-safely-validate-cdn-changes/)
 * [Part 3. CloudFront를 이용하여 빠르고 안전하게 웹 서비스 제공하기 - YouTube](https://www.youtube.com/watch?v=FouxlsYkvPo)
-* [AWS CloudFront를 활용한 미디어 서비스 모니터링 방안, 1부 : 표준 로그 기반 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-1/)
+* [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 1부 : 표준 로그 기반 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-1/)
+* [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 2부 : 실시간 로그 기반 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-2/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
