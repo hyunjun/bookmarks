@@ -875,6 +875,7 @@ Vision
   * 논문에 나온 대로 Label Smoothing, Mixup, RAdam이나 AdamW 같은 옵티마이저 추가 사용 유무, SWA, Kaggle 대회에서 자주 쓰이는 TTA, K-fold Ensemble, Pseudo Labeling 같은 기법등이 정말 잘 동작하는지 궁금해짐
   * Kaggle의 'State Farm 부주의한 운전자 탐지' 데이터셋을 가지고 다양한 실험 진행
   * 추가로 데이터셋 파이프라인에서부터 모델 서빙까지, 딥 러닝 모델의 생애주기를 구현
+* [Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI](https://github.com/gaomingqi/Track-Anything)
 * [VISSL · A library for state-of-the-art self-supervised learning](https://vissl.ai/)
   * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 * [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
