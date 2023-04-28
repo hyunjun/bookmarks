@@ -421,6 +421,7 @@ Business
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
 * [요즘 직장in 조직과 개인 모두에게 신뢰가 필요한 시점입니다](https://www.econovill.com/news/articleView.html?idxno=397085) 조직, 신뢰
+* [신뢰는 어떻게 만들어질까 (한글번역) | Th.. : 네이버블로그](https://blog.naver.com/bizucafe/223086450533)
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
@@ -1283,6 +1284,7 @@ Business
 * [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
+* [신뢰할 수 있는 지표 만들기. 당근마켓 데이터 가치화팀은 지표 관련해서 어떠한 문제들에 직면했고… | by Kim Dojin | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-bbf39dc4a6b3)
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
   * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
@@ -2365,6 +2367,7 @@ Business
 * [죽지 않는 법 (한글 번역) | How Not.. : 네이버블로그](https://blog.naver.com/bizucafe/223076038992)
 * [스타트업은 곧 성장이다 (한글 번역) | St.. : 네이버블로그](https://blog.naver.com/bizucafe/223071093436)
 * [스타트업을 하며 겪는 19가지 공통점 (한글 .. : 네이버블로그](https://blog.naver.com/bizucafe/223079236552)
+* [스타트업 회사의 세 가지 성장 단계 (한글 번.. : 네이버블로그](https://blog.naver.com/bizucafe/223087538707)
 * [The Best Way To Launch Your Startup | Startup School - YouTube](https://www.youtube.com/watch?v=u36A-YTxiOw)
 
 # Sillicon Valley
@@ -2479,6 +2482,7 @@ Business
 * [우리에게 당연하지만 사용자는 아닌 것들](https://toss.tech/article/thinking-user-perspective)
 * [디자이너가 새로운 도메인을 빠르게 학습하는 법](https://toss.tech/article/how-to-learn-new-domain)
 * [첫 그래픽 디자이너가 했던 가장 비효율적인 일](https://toss.tech/article/21341)
+* [리서치를 하고 싶어하는 사람을 리서치하세요](https://toss.tech/article/1st_ux_research)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
@@ -2488,6 +2492,7 @@ Business
 * [공상과학 UX (feat. 애플처럼 만들어주세요)](https://brunch.co.kr/@fbrudtjr1/60)
 * [사용자가 물가로 가게 하는 UX Writing. 사용자에게 더 잘 먹히는 소구점은 무엇일까? | by Min Ko | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80-%EB%AC%BC%EA%B0%80%EB%A1%9C-%EA%B0%80%EA%B2%8C-%ED%95%98%EB%8A%94-ux-writing-c9a06f5f6642)
 * [올바른 UX Research를 위한 첫 단추 끼우기. 글. 조보민/ UX Researcher | by 여기어때 UX Center | Mar, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%98%AC%EB%B0%94%EB%A5%B8-ux%EB%A6%AC%EC%84%9C%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B2%AB-%EB%8B%A8%EC%B6%94-%EB%81%BC%EC%9A%B0%EA%B8%B0-f3b028499fd7)
+* [사소한 영역이라도 개선이 필요해요. 글. 최지윤(Yun) / UX Designer | by 여기어때 UX Center | Apr, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%82%AC%EC%86%8C%ED%95%9C-%EC%98%81%EC%97%AD%EC%9D%B4%EB%9D%BC%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-2fe7653dcf1e)
 * [데스크탑 GUI 갤러리 | GeekNews](https://news.hada.io/topic?id=8857)
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(1/2). 안녕하세요, 성과관리 서비스를 만드는 레몬베이스에서 프로덕트 디자이너로… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-1-2-2175f99c6401)
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(2/2). 2편에서는 3. 리서치의 필요성에 대해 구성원들을 설득하는 방법과 4… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-2-2-d4dfeae0e8c1)
