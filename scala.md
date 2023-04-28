@@ -714,6 +714,7 @@ Scala
 * [The Scala community will exile me for this - YouTube](https://www.youtube.com/watch?v=rSk_mea4U1E)
 * [Functional Error Handling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-error-handling-in-scala/)
 * [Underrated Scala Features and Hidden Gems in the Standard Library | ScalaJobs.com](https://scalajobs.com/blog/underrated-scala-features-and-hidden-gems/)
+* [Ross A. Baker: Build your vocabulary with Scala affixes](https://rossabaker.com/blog/scala-affixes/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1359,6 +1360,7 @@ Scala
 
 ## IDE VS Code
 * [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
+* [Introduction to Scala Development using vscode - Dick Wall - YouTube](https://www.youtube.com/watch?v=tNLS6rOGBlo)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
@@ -2404,6 +2406,7 @@ Scala
 * [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez - YouTube](https://www.youtube.com/watch?v=9ePQwMA_g_w)
 * [Sébastien Doeraene - Getting started with Scala.js, Laminar and Vite - YouTube](https://www.youtube.com/watch?v=GR7vFseKqqQ)
 * [Faster Scala.js development with front-end tooling and new tutorials | The Scala Programming Language](https://www.scala-lang.org/blog/2023/04/18/faster-scalajs-development-with-frontend-tooling.html)
+* [Scala.js Interoperability with TypeScript/JavaScript | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=QYIEa_mniCs)
 * [hadoukenify: Turn any snippet of code into a hadouken code gif straight from your browser](https://github.com/reibitto/hadoukenify)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
