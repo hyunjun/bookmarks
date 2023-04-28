@@ -783,6 +783,7 @@ NLP
   * [챗GPT 근황 A/S (feat 카니발리제이션) : 네이버 블로그](https://blog.naver.com/ranto28/223078242687) 기술 이야기 X 모두 맞는 이야기는 아니지만 cannibalization에 대한 이야기는 귀담아 들을만 함
   * [ChatGPT를 대하는 프런트엔드 개발자의 자세 • 캡틴판교](https://joshua1988.github.io/web-development/frontend-development-with-chatgpt/)
   * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Apr, 2023 | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3)
+  * [데이터 시각화의 모든 것 | ● ChatGPT를 데이터 시각화에 활용할 수 있습니다. | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/6081398341953067)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -858,6 +859,7 @@ NLP
 * [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
   * [nanoGPT - 중간규모 GPT를 가장 빠르게 훈련/미세조정하기 위한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8170)
 * [NeMo: a toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
+  * [엔비디아, 오픈소스 소프트웨어 ‘네모 가드레일’ 출시](https://www.epnc.co.kr/news/articleView.html?idxno=232776)
 * [Open Assistant](https://open-assistant.io/)
   * [OpenAssistant First Models are here! (Open-Source ChatGPT) - YouTube](https://www.youtube.com/watch?v=Hi6cbeBY2oQ)
 * [PetGPT: Train your own PetGPT at home!](https://github.com/maziarraissi/PetGPT)
