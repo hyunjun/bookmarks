@@ -4223,6 +4223,7 @@ Python
   * [FastAPI에서 SQLAlchemy Session 다루는 방법 | by YoungSik Choo | 원티드 제품 팀블로그 | Mar, 2022 | Medium](https://medium.com/wantedjobs/fastapi%EC%97%90%EC%84%9C-sqlalchemy-session-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95-118150b87efa)
   * [Session vs scoped_session :: Jay's Code Factory](https://jay-ji.tistory.com/114)
   * [async_scoped_session과 context-local :: Jay's Code Factory](https://jay-ji.tistory.com/115)
+  * [sqlalchemy nullpool과 staticpool을 설정하면서 왜 커넥션 풀이 필요한지 이해해 봅시다.](https://codingdog.tistory.com/863)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
