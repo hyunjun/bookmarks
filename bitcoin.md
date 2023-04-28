@@ -51,6 +51,7 @@ Bitcoin
 * [WTF is Cuckoo Cycle PoW algorithm that attract projects like Grin and Cortex?](https://hackernoon.com/wtf-is-cuckoo-cycle-pow-algorithm-that-attract-projects-like-cortex-and-grin-ad1ff96effa9)
 * [Consensus Models: PoW, PoS and New Pioneer, PoF](https://hackernoon.com/consensus-models-pow-pos-and-new-pioneer-pof-702fa2f55d49) proof of work, proof of stake, proof of formulation
 * ["이중 지급 문제 해결사" 블록체인 합의 메커니즘 13가지 - ITWorld Korea](https://www.itworld.co.kr/news/253492)
+* [Libplanet PBFT 전환 제 0화 - 왜 PBFT로 전환을 시작했나요?](https://snack.planetarium.dev/kor/2023/04/pbft-0/) 합의
 * [앵무새 죽이기 - by MOYED - Sunday Services](https://sundayservices.substack.com/p/--d4c) proof of work
 * [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
 * [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
