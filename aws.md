@@ -1720,6 +1720,7 @@ AWS
 * [Amazon SageMaker 훈련작업을 위한 최적의 데이터소스 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choose-the-best-data-source-for-your-amazon-sagemaker-training-job/)
 * [Amazon SageMaker JumpStart를 통해 다양한 생성 AI 모델 활용하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/use-generative-ai-models-in-amazon-sagemaker-jump-start/)
 * [농심의 Amazon SageMaker를 활용한 원자재 가격예측과 MLOps 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/nongshim-amazon-sagemaker-material-forecast-mlops/)
+* [Amazon SageMaker와 Amazon MWAA를 활용한 29CM의 개인화 추천시스템 MLOps 구축여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/29cm-sagemaker-mwaa-recsys-mlops-journey/)
 * [Amazon SageMaker 모델 병렬 라이브러리를 이용한 신규 성능 향상 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-model-parallel-improve-performance/)
 * [AI Art 모델인 Stable Diffusion을 SageMaker JumpStart로 편리하게 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-art-stable-diffusion-sagemaker-jumpstart/)
 * [Amazon SageMaker로 컬리(Kurly) 상품 후기 분류 모델 개발하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kurly-sagemaker-product-review-classification-model/)
