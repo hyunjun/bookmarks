@@ -3605,6 +3605,8 @@ Programming
       * 이를 통해 웹사이트 소유자 모르게 코드를 주입
       * Apple에서는 SFSafariViewController를 지원해서 이를 사용하면 앱이 웹사이트에 코드 주입 불가능
     * 사용자는 가능하면 "Open in Browser"를 눌러서 인 앱 브라우저 말고 기본 브라우저를 사용하기를 권장
+* [infisical: ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure](https://github.com/Infisical/infisical)
+  * [Infisical: 오픈소스 시크릿 관리 플랫폼 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1669)
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
 * [KoreaSecurityApps Adblock Plus로 유명한 독일 개발자 블라디미르 팔란트(Wladimir Palant), 한국 금융권에서 사용자에게 설치를 강요하는 여러 “보안 소프트웨어”의 각종 보안 취약점에 대한 내용 번역한 모음집](https://github.com/alanleedev/KoreaSecurityApps/tree/main)
   * [베라포트: 제대로 작동하지 않는 한국의 애플리케이션 관리 소프트웨어어 | GeekNews](https://news.hada.io/topic?id=8625)
