@@ -297,6 +297,7 @@ Scala
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
 * [Higher-kinded data in Scala | 47 Degrees](https://www.47deg.com/blog/higher-kinded-data-in-scala/)
+* [Higher-Kinded Types | Baeldung on Scala](https://www.baeldung.com/scala/higher-kinded-types)
 * [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
 * [10 LESSONS LEARNED FROM USING KAFKA IN 1000 SCALA MICROSERVICES - Natan Silnitsky | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=1dRXXV6pNRU)
 * [Scale By The Bay 2020: Natan Silnitsky, 8 Lessons Learned from using Kafka with 1000 microservices - YouTube](https://www.youtube.com/watch?v=XEZeLoO2iBk)
