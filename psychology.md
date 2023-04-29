@@ -75,3 +75,7 @@ Psychology
 * [왜 “귀여우면 다” 용서될까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/257321)
 * [Positivity & Motivation: How They Impact Your Career & Life Pt 1/2 • Katharina Probst • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=w3-0vdVRXzA)
 * [Positivity & Motivation: How They Impact Your Career & Life Pt 2/2 • Katharina Probst • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=zrGUGXeEEZA)
+* MBTI, `신뢰성과 타당성을 따질 때 마이어스-브릭스 성격유형검사(Myers-Briggs personality tool)가 놓이는 위치는 점성술과 심장 모니터링 장치 사이의 어느 지점이라는 증거를`, pp287-288, 싱크 어게인
+  * <img src="images/think_again_287" alt="" width="300"/> <img src="images/think_again_288" alt="" width="300"/>
+  * [MBTI, If You Want Me Back, You Need to Change Too | by Adam Grant | Medium](https://medium.com/@AdamMGrant/mbti-if-you-want-me-back-you-need-to-change-too-c7f1a7b6970)
+  * [Goodbye to MBTI, the Fad That Won’t Die | Psychology Today](https://www.psychologytoday.com/intl/blog/give-and-take/201309/goodbye-to-mbti-the-fad-that-wont-die)
