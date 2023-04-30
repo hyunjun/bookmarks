@@ -222,6 +222,7 @@
 * [When to Choose Rust • Tim McNamara • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=wClDbLGLjxw)
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 * [Blazing Fast, Minimal Change - Speed up Your Code by Refactoring to Rust - YouTube](https://www.youtube.com/watch?v=-wVJ2nPOtuY)
+* [Building Embedded Systems With Rust - YouTube](https://www.youtube.com/watch?v=x7LQevYn7d0)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 
 # Go
