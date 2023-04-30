@@ -211,6 +211,7 @@ Open Source
       * Buck2는 가상 파일 시스템과 통합되도록 작성되어 전체 레파지토리를 체크아웃하지 않고 필요할 때 파일을 가져오는 게 가능
 * [Glean | Glean](https://glean.software/)
   * [Glean - 소스코드 정보 수집,검색 시스템 | GeekNews](https://news.hada.io/topic?id=4928)
+  * [Glean: Data about Code • Simon Marlow • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=6_J59eyhu38)
 * [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
   * [페이스북, 머신러닝 등 복잡한 프로그램 개발 단순화하는 오픈소스 프레임 워크 공개](http://www.aitimes.kr/news/articleView.html?idxno=14387)
   * [복잡한 애플리케이션을 우아하게 구성하기위한 프레임 워크](https://pjt3591oo.github.io/hydra_translate/build/html/index.html)
