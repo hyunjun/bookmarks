@@ -784,6 +784,7 @@ NLP
   * [ChatGPT를 대하는 프런트엔드 개발자의 자세 • 캡틴판교](https://joshua1988.github.io/web-development/frontend-development-with-chatgpt/)
   * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Apr, 2023 | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3)
   * [데이터 시각화의 모든 것 | ● ChatGPT를 데이터 시각화에 활용할 수 있습니다. | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/6081398341953067)
+  * [How ChatGPT Works Technically | ChatGPT Architecture - YouTube](https://www.youtube.com/watch?v=bSvTVREwSNw)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
