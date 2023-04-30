@@ -761,6 +761,7 @@ NLP
   * [ChatGPT의 등장과 은 탄환에 대한 생각 | 웹으로 말하기](https://mytory.net/archives/13940)
   * [ChatGPT로 간단한 게임 시나리오를 만들기까지 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt/)
     * [ChatGPT를 이용한 게임 시나리오 만들기 - 프롬프트 - 넷마블 기술 블로그](https://netmarble.engineering/creating-a-simple-game-scenario-with-chatgpt-full-text/)
+  * [How to Build a FULL App With ChatGPT in 20 minutes! - YouTube](https://www.youtube.com/watch?v=i_a9bqvqmzo)
   * [Creating Powerful Chatbots: A Developer’s Guide to Integrating ChatGPT and React Native | by Chirag Jadav | Mar, 2023 | Medium](https://medium.com/@hello_chirag/creating-powerful-chatbots-a-developers-guide-to-integrating-chatgpt-and-react-native-dfa320e33917)
   * [AI-enhanced development makes me more ambitious with my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
     * 숙련된 개발자로서 ChatGPT나 GitHub Copilot을 사용하면 '뭔가를 알아내는' 시간을 크게 줄일 수 있기 때문에 아이디어가 있어도 투자할 시간 때문에 안 했던 프로젝트를 더 많이 실행 가능
@@ -822,6 +823,7 @@ NLP
     * [ChatGPT 플러그인 정리 - 모두의연구소](https://modulabs.co.kr/blog/chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC/)
     * [챗GPT 플러그인 만들기 1. 전체구조 2.OpenAI API - YouTube](https://www.youtube.com/watch?v=fpu4TwNSaHU)
   * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   * [chatgpt_stock_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt_stock_report/tree/main)
   * [ChatGPT_Trading_Bot: This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube](https://github.com/llSourcell/ChatGPT_Trading_Bot/)
