@@ -464,8 +464,6 @@ Book
   * 우당 문334.9-권75ㄱ
 * (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
   * 우당
-* (NOT YET) [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
-  * 한라 349-정54ㅌ 탐라 문349-정53ㅌ
 * (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
 * (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
   * 우당 문337.2-베238ㅅ
@@ -1370,6 +1368,9 @@ Book
 * (NOT COMPLETED) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
   * ★★★☆☆ 2023.04.06~07 흥미가 가는 주제(외부인이 자신을 받아들여준 시스템을 원래의 내부인보다 더 강하게 옹호하는 현상, 논리적인 극우?)지만 저자가 워낙 만연체로 쓰기도 했고 기본적으로 프랑스의 문화나 사회적인 부분을 알아야 부드럽게 읽을 수 있게 쓴 책이라 역자의 정성스러운 주석에도 불구하고 계속 읽기가 쉽지 않았음
   * 한라 340.926-제36ㅍ
+* [정세현의 통찰](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310009577)
+  * ★★★★☆ 2023.04.29~30 good; 흔히 말하는 '냉혹한 국제정치'의 현실이 우리에게 어떻게 작용해왔는지 알 수 있음, bad; 이번 정권에서는 국제적으로 제대로 흘러갈 리가 없다는 걸 훨씬 더 명확하게 깨닫게 됨
+  * 한라 349-정54ㅌ 탐라 문349-정53ㅌ
 * (NOT YET) 빈곤의 종말 [무장한 예언자... : 네이버 블로그](https://blog.naver.com/jjkpssp/10077944626)
   * 한라 322.8-케68ㅂ-805 우당 문321.89-삭58ㅂ
 * (NOT YET) 프로테스탄트 윤리와 자본주의 정신 [religiousstudy_v22_111.pdf](https://s-space.snu.ac.kr/bitstream/10371/5154/3/religiousstudy_v22_111.pdf)
