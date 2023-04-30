@@ -82,6 +82,7 @@ Monitoring
 * [How to Install Prometheus and Grafana on Ubuntu 22.04 LTS using Node Exporter | Prometheus Tutorials - YouTube](https://www.youtube.com/watch?v=0HQo7ytydBI)
 * [The XYZ chart: Bringing 3D visualization to Grafana](https://grafana.com/blog/2023/02/24/introducing-the-xyz-chart-a-three-dimensional-way-to-visualize-your-data-in-grafana/)
   * 데이터를 3차원으로 표시할 수 있는 XYZ 차트 도입. 아직은 알파버전이라 `enable_alpha=true`를 설정해야 사용 가능
+* [Grafana Labs is now a GitHub secret scanning partner | GitHub Changelog](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
