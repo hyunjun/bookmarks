@@ -475,6 +475,7 @@ Web
 * [함께 쓰는 풀리퀘 지금 하는 크롤링, 혹시 ‘디도스’는 아닌가요](https://n.news.naver.com/article/293/0000038163)
 * [대법원, 야놀자 정보 크롤링 한 여기어때 창업주 '무죄' - ZDNet korea](https://zdnet.co.kr/view/?no=20220512180515)
 * [2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요? | GeekNews](https://news.hada.io/topic?id=7184)
+* [Industrial-scale Web Scraping with AI & Proxy Networks - YouTube](https://www.youtube.com/watch?v=qo_fUjb02ns)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
 * [Browserflow - Web Scraping & Web Automation](https://browserflow.app/)
