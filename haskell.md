@@ -243,6 +243,7 @@ Haskell
 * [Monoidal Puzzle Solving](https://jonascarpay.com/posts/2020-05-26-solver.html)
 * [Well-Typed - The Haskell Consultants: Profiling Template Haskell splices](https://www.well-typed.com/blog/2020/05/profiling-template-haskell/)
 * [Well-Typed - The Haskell Consultants: Using Template Haskell to generate static data](https://www.well-typed.com/blog/2020/06/th-for-static-data/)
+* [Staging with Class: A Specification for Typed Template Haskell • Ningning Xie • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ldsJgj7FDCE)
 * [Running HLint as a GHC source plugin - DEV](https://dev.to/tfausak/running-hlint-as-a-ghc-source-plugin-17dl)
 * [Simple Haskell is Best Haskell](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b)
 * [Building a Haskell Microservice](https://twonki.github.io/haskell-microservice/)
