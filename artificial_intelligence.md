@@ -291,6 +291,8 @@ Artificial Intelligence
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
+* [Weaviate - vector database](https://weaviate.io/)
+  * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
