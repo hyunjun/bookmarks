@@ -592,6 +592,7 @@ SQL
 * [DB Index 동작원리를 알아보자 | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/66)
 * [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
 * [Index Dive 비용 최적화. MySQL 서버의 실행계획 수립(Index Dive) 단계에서 많은… | by Sunguck Lee | 당근마켓 팀블로그 | Jun, 2022 | Medium](https://medium.com/daangn/index-dive-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1a50478f7df8)
+* [인덱스 4편 - 스캔 종류 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223089194436)
 * [재입고 알림 신청 개발기 | by Jeenz | 29CM TEAM | Nov, 2022 | Medium](https://medium.com/29cm/%EC%9E%AC%EC%9E%85%EA%B3%A0-%EC%95%8C%EB%A6%BC-%EC%8B%A0%EC%B2%AD-%EA%B0%9C%EB%B0%9C%EA%B8%B0-6b6a08902d6f)
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
