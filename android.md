@@ -483,6 +483,7 @@ Android
   * [Retrofit2 사용법](https://brunch.co.kr/@mystoryg/149)
   * [RetrofitJsonEx: Android Retrofit, DataBinding, ViewModel, RecyclerView, Glide, Dagger sample](https://github.com/DonggeunJung/RetrofitJsonEx)
   * [10. JAVA - Retrofit을 활용하여 HTTP API 개발하기](https://kim-jong-hyun.tistory.com/80)
+  * [Pluu Dev - Retrofit에서 API 성공/에러가 분리된 응답으로 반환하는 Custom Adapter 만들기](https://pluu.github.io/blog/android/2023/04/29/custom-calladapter-factory/)
 * Room
   * [Room Persistence Library에 대해서 정리해 봅니다](https://developer88.tistory.com/206)
   * [Room을 이용해서 Offline Cache 구현하는 방법 정리](https://developer88.tistory.com/323)
