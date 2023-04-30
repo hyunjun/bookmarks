@@ -412,6 +412,7 @@ Data Visualization
   * [Taking Another Look at Plotly - Practical Business Python](https://pbpython.com/plotly-look.html)
   * [Highlighted line chart with Plotly.Express | by Vaclav Dekanovsky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/highlighted-line-chart-with-plotly-express-e69e2a27fea8)
   * [10분 안에 읽는 72년: 국회의 발자취 - DACON](https://dacon.io/competitions/official/235679/codeshare/2005)
+  * [Python Data Analysis Tips - Interactive Pandas Plot backend Plotly](https://www.datasimple.education/post/python-data-analysis-tips-interactive-pandas-plot-backend-plotly)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
