@@ -1443,6 +1443,7 @@ Linux
 * [github.com/Zeta611/dotfiles](https://github.com/Zeta611/dotfiles) tmux 설정 참조
 * [TMUX FOR MERE MORTALS](https://zserge.com/posts/tmux/)
 * [tmux 입문자 시리즈 요약 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/tmux-introductory-series-summary/)
+* [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
