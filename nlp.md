@@ -879,6 +879,8 @@ NLP
 * [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)
   * [😎 비쿠냐(vicuna-13B) 소개 😎 ChatGPT의 90% 성능의 오픈소스 챗봇 모델 - YouTube](https://www.youtube.com/watch?v=ha9yYq7ulWQ)
   * [KoVicuna](https://github.com/melodysdreamj/KoVicuna)
+  * [Stability AI releases StableVicuna, the AI World’s First Open Source RLHF LLM Chatbot — Stability AI](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
+    * [PyTorch KR | 스테이블리티 AI, 세계 최초 오픈소스 RLHF LLM 챗봇 '스테이블비쿠나' 출시 4월 28일 "스테이블 비쿠냐" - 스테이블 ?... | Facebook](https://www.facebook.com/groups/PyTorchKR/posts/2617503821722616/)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
