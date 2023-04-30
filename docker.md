@@ -1661,6 +1661,7 @@ Docker
 * [Operating High Traffic Websites on Kubernetes - YouTube](https://www.youtube.com/watch?v=S92WvHaOVQk)
 * [VDBUH2023 - Natale Vinto & Kevin Dubois - Progressive Delivery in the Kubernetes era - YouTube](https://www.youtube.com/watch?v=y-GoffQlWxw)
 * [WASM + Kubernetes: Beyond Containers - YouTube](https://www.youtube.com/watch?v=ulZGjeFZirU)
+* [쿠버네티스 스터디 매거진](https://brunch.co.kr/magazine/kubernetes)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
