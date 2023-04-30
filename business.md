@@ -1720,6 +1720,7 @@ Business
 * [스타트업은 왜 후드티를 입을까: 성공하는 리더의 메타인지(1)](https://eopla.net/magazines/2801)
 * [위대한 리더의 차별점과 4가지 종류의 창의성 기르기](https://brunch.co.kr/@graypool/852)
 * [내 목소리로 사람들을 이끌 수 있는 능력 | .. : 네이버블로그](https://blog.naver.com/bizucafe/223067440409)
+* [요즘 기업들이 꼽는 뛰어난 리더의 가장 큰 자질은? (이중학 가천대 교수) - 티타임즈](https://ttimes.co.kr/article/2023042815387721164)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
