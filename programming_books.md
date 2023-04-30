@@ -3215,6 +3215,8 @@ Programming Books
 * (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
   * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
+* (NOT YET) [유저 프렌들리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300340786)
+  * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
@@ -3460,7 +3462,8 @@ Programming Books
   * [슬기로운 파이썬 트릭 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/72)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 (개정증보판) - 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](https://wikibook.co.kr/python-for-data-analysis-rev/)
-* (NOT YET) 파이썬 클린 코드 유지보수가 쉬운 파이썬 코드를 만드는 비결
+* (NOT YET) [파이썬 클린 코드 유지보수가 쉬운 파이썬 코드를 만드는 비결](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303080968)
+  * 탐라 문005.133-아211ㅍ
 * (NOT YET) [깔끔한 파이썬 탄탄한 백엔드](https://bjpublic.tistory.com/317) flask, aws
   * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
 * (NOT YET) [바이오파이썬으로 만나는 생물정보학](https://bjpublic.tistory.com/324)
