@@ -1409,6 +1409,7 @@ Programming Books
   * [Graph-Machine-Learning: Graph Machine Learning, published by Packt](https://github.com/PacktPublishing/Graph-Machine-Learning)
   * [9781800204492_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781800204492_ColorImages.pdf)
 * (NOT YET) [머신러닝 시스템 설계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1811121220)
+* (NOT YET) [데이터 과학 레벨 업 with 로드맵](https://hanbit.co.kr/store/books/look.php?p_code=B9570217910) kaggle
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
