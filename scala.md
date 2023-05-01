@@ -1266,6 +1266,7 @@ Scala
 # Book
 * [스칼라 시작하기](http://hamait.tistory.com/904)
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
+* [자바 개발자를 위한 스칼라 - Java 개발자를 위한 Scala 맛보기](https://scalabook.hatemogi.com/)
 * [akka in actoin - livebook.manning.com/book/akka-in-action](https://livebook.manning.com/book/akka-in-action/)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
