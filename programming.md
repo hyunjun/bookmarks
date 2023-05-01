@@ -5380,6 +5380,7 @@ Programming
 * [지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
 * [중요한 건 꺾이지 않는 테스트: 카카오페이 지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
 * [복잡한 문제는 나눠서 단순화: 카카오페이 위키 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/wiki-migration-review/)
+* [Migrations - The Hardest Actual Problem in Computer Science • Matt Ranney • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=yJOrMDMqeoI)
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
