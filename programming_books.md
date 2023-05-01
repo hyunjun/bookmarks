@@ -2705,6 +2705,10 @@ Programming Books
   * [Blitz Scaling. 프롤로그 겟빅 패스트 Get Big Fast! | by Jun | Apr, 2023 | Medium](https://nymets.medium.com/blitz-scaling-d47aa48aecdf)
   * [Blitz Scaling](https://jh4hj.tistory.com/entry/Blitz-Scaling)
   * [Blitz Scaling - Jun’s Substack](https://recur.substack.com/p/blitz-scaling)
+* [개발자에게 물어보세요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313405468)
+  * ★★★★☆ 2023.04.30~05.01 몇몇 스타트업을 창업하고 아마존에서 일한 후 twilio라는 좋은 회사를 만들어낸 제프 로슨의 이야기. 개발 조직을 잘 운영하고 생산성을 향상시키려면 어떤 마음가짐/문화로 회사를 운영해야 하는지, 개발자 출신 CEO의 경험을 읽을 수 있다. 아마존의 AWS의 초창기를 경험한 사람이라 아마존 관련 책을 읽으면 흔히 볼 수 있는 부분들도 포함되어 있지만, 어쩐지 더 읽기 편하고 친근한 느낌이 든다. 내가 경험했던 C level들 중에도 읽어보라고 권하고 싶은 사람들이 떠오른다.
+  * 탐라 문325.24-로58ㄱ
+  * [Ask Your Developer by Jeff Lawson](https://www.askyourdeveloper.com/)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2789,8 +2793,6 @@ Programming Books
 * (NOT YET) [몽키 비즈니스(monkey business, 2001) 독후감](http://ohyecloudy.com/pnotes/archives/monkey-business-2001/)
 * (NOT YET) [리프레이밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294398313)
   * 한라 325.2-웨24ㄹ 탐라 문325.2-웨223ㄹ
-* (NOT YET) [개발자에게 물어보세요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313405468)
-  * 탐라
 * (NOT YET) [팀으로 일하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371830)
   * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
 * (NOT YET) [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
@@ -3273,7 +3275,7 @@ Programming Books
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
-  * 탐라
+  * 탐라 문005.12-존58ㅌ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
