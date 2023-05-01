@@ -3777,6 +3777,9 @@ Programming Books
   * [Five Lines of Code](https://github.com/hyunjun/bookmarks/blob/master/programming_books/five_lines_of_code.md)
   * [Five Lines of Code. 건축 사이에 유사점… 마틴 파울러… 가장 해로운 비유… 프로그래밍은… | by Jun | Mar, 2023 | Medium](https://nymets.medium.com/five-lines-of-code-a64fc6e30a5d)
   * [Five Lines of Code](https://jh4hj.tistory.com/entry/Five-Lines-of-Code)
+* [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software/)
+  * ★★★☆☆ 2023.04.22~23, 05.01 생산성에 대해 전반적으로 볼 수 있는 책. 여러가지 생산성 관련 주제를 폭넓게, (심지어 이런 걸 사용하는 측정을 실제로 하면 개발자들이 동의할까 싶은) 바이오메트릭 장치를 이용하는 측정까지 다룬다. 이렇게 다양하게 생산성에 대해 논의할 정도로 이 주제가 아직까지 정립된 방식이 없고 여전히 고민을 많이 해야 하는 어려운 주제라는 걸 알 수 있다.
+  * 우당 문005.1-샤225ㅅ
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
@@ -3798,8 +3801,6 @@ Programming Books
 * (NOT YET) [지라 7 에센셜 4/e | 에이콘출판사](http://www.acornpub.co.kr/book/jira7-4e)
   * 한라 005.4-리893ㅈ
 * (NOT YET) [Ship it! 성공적인 소프트웨어 개발 프로젝트를 위한 실용 가이드 | 위키북스](https://wikibook.co.kr/ship-it/)
-* (NOT YET) [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software/)
-  * 우당 문005.1-샤225ㅅ
 * (NOT YET) [쉽게 배우는 소프트웨어 공학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71471277)
 * (NOT YET) [Code Simplicity : 소프트웨어 생명 연장을 위한 원칙 | 웹으로 말하기](https://mytory.net/archives/9352)
   * [버그를 줄이는 확실한 방법: 코드를 줄이기 | 웹으로 말하기](https://mytory.net/archives/13983)
