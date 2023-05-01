@@ -795,6 +795,7 @@ Go
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
+* [Pubsage: Library adapter to connect your logic code to pubsub or message broker](https://github.com/Aris-haryanto/pubsage)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [QRCode Terminal](https://github.com/mdp/qrterminal)
 * [Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly](https://github.com/therecipe/qt)
