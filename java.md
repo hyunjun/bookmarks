@@ -2107,6 +2107,7 @@ Java
   * [자바ㆍ자바스크립트용 풀 스택 프레임워크, 제이힙스터의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/239909)
 * [project-web-starter: KYUNGSEO.PoC - Project Web Starter Template (웹 애플리케이션 개발 프로젝트를 시작하기 위한 기반 템플릿)](https://github.com/kyungseo/project-web-starter)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
+* [spring-boot-jwt-vue3: Spring @RestController로 구현한 'API 서버'와 Vue.js로 구현한 'SPA 클라이언트' 간의 인증(Authentication) 및 인가(Authorization) 기능을 JWT로 구현한 Demo App입니다](https://github.com/kyungseo/spring-boot-jwt-vue3)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
