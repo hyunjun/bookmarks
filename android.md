@@ -539,6 +539,7 @@ Android
 
 # News
 * [냉동코더의 안드로이드 개발 뉴스::23.03](https://cliearl.github.io/posts/android/devnews_2303/)
+* [냉동코더의 안드로이드 개발 뉴스::23.04](https://cliearl.github.io/posts/android/devnews_2304/)
 
 # TDD, Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
