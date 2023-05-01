@@ -471,7 +471,9 @@ Book
 * (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
   * 우당
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
+  * 우당 문331.54-스39ㅅ
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
+  * 우당 문182.3-립58ㄱ
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
@@ -617,6 +619,7 @@ Book
 * (NOT YET) [반 고흐, 프로방스에서 보낸 편지](https://brunch.co.kr/@artinsight/1749)
   * 한라 653.269-베68반ㄱ
 * (NOT YET) [미술관에 간 인문학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302177451)
+  * 우당 문606.926-안94ㅁ
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -1198,10 +1201,12 @@ Book
   * 탐라
 * (NOT YET) [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
 * (NOT YET) [100가지 동물로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313552939)
+  * 탐라 문909-반78ㅂ
 * (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)
 * (NOT YET) [커피 세계사 + 한국 가배사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277669559)
   * 우당 문594.3463-이19ㅋ
 * (NOT YET) [세계사를 바꾼 커피 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296379585)
+  * 한라 573.93-우57ㅅ 탐라 문573.93-우58ㅅ 우당 문573.93-우58ㅅ
 * (NOT YET) [피렌체 서점 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308285535)
   * 우당 문013.33-킹235ㅍ
 
