@@ -2136,6 +2136,9 @@ Javascript
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
   * [Tutorial - How To Deploy Your Site Under 1 Min With Netlify - YouTube](https://www.youtube.com/watch?v=iw4o2BZ0vy0)
+  * [Welcome to Netlify | Netlify Docs](https://docs.netlify.com/)
+    * 프론트엔드 배포 플랫폼인 Netlify의 문서 사이트에서 채팅으로 질문하면 문서 내용에 맞게 AI가 답변하는 기능 추가
+    * GPT에서 유용해 보여서 관심 많은 부분인데 Netlify에서 먼저 도입했고 한국어도 잘 지원
   * [Netlify Drop | Netlify](https://app.netlify.com/drop) HTML, CSS, JavaScript 등 정적 파일이 있는 폴더를 Netlify 사이트에 드래그 앤 드롭하면 바로 웹사이트 배포하는 Drop 기능 추가
 * [ninja-keys: Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte](https://github.com/ssleptsov/ninja-keys)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
