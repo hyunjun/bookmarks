@@ -837,6 +837,9 @@ Docker
   * 이제 docker-compose 대신 docker compose 명령어를 사용해서 v2로 전환 가능
     * Docker Desktop의 설정에서 Compose V2를 활성화하면 docker-compose 별칭이 만들어져서 기존과 동일하게 v2를 사용 가능
 * [docker-compose를 이용하여 로컬 개발환경 구성하기(Part1)](https://dev.gmarket.com/72)
+* [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
+  * Docker Compose가 v2에서 계속 개선이 되고 있는데 v2.17에 서비스를 자동으로 업데이트하는 Watch 명령이 실험적으로 도입
+  * Docker Compose의 YAML에서 `x-develop` 필드를 정의해서 특정 경로의 변경 사항이 생겼을 때 바로 컨테이너에 복사하는 `sync`와 이미지를 다시 빌드하는 `rebuild` 옵션을 정의할 수 있게 됨
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
