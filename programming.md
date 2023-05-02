@@ -2260,6 +2260,8 @@ Programming
     * 모바일 앱에서 점진적으로 교체를 시도, 처음에는 이전과 같은 성능이 목표였지만 일부 영역에서는 상당한 개선
     * 이전에는 클라이언트의 네트워크에 훅을 넣어서 일부 트래픽만 분석하도록 보냈지만, Envoy Mobile은 훨씬 풍부한 매트릭을 볼 수 있게 되어 이전에는 탐지 못한 장애 발견
     * Envoy Mobile을 사용해서 OOM 크래시가 69.3% 줄어들었고 행은 47.9, ANR은 30% 감소
+  * [Inside Envoy: The Proxy for the Future OFFICIAL FILM - YouTube](https://www.youtube.com/watch?v=uaksVVHDhYU)
+    * CNCF에서 Speakeasy 프로덕션과 파트너쉽을 맺고 Envoy 프록시가 만들어지고 성장한 과정을 담은 다큐멘터리를 공개
 * Eureka
   * [How To Register & Discover Microservices Using Netflix Eureka? | Making Java Easy To Learn](https://javatechonline.com/how-to-register-discover-microservices-using-netflix-eureka)
   * [마이크로서비스 아키텍처(MSA)의 서비스 검색 - NGINX STORE](https://nginxstore.com/blog/microservices/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98msa%ec%9d%98-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b2%80%ec%83%89/)
