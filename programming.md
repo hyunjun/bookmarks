@@ -1527,6 +1527,8 @@ Programming
   * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
   * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
   * [SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가 | GeekNews](https://news.hada.io/topic?id=6243)
+* [Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
+  * [**멀티테넌트 데이터베이스 성능 보장을 위한 격리(isolation) 설계 방법**](https://maily.so/saascenter/posts/f75650a2)
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
