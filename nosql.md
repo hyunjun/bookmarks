@@ -366,6 +366,9 @@ NoSQL
 * [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [AtlasDB is a transactional layer on top of a key value store](https://github.com/palantir/atlasdb)
+* [Deno KV - a global database for global apps](https://deno.com/kv)
+  * Deno에서 JavaScript/TypeScript에 최적화된 키/밸류 Deno KV 공개
+  * DenoKV는 FoundationDB 기반으로 ACID 트랜잭션을 지원하고 특별한 설정 없이 32개 전 세계 데이터센터에서 바로 사용 가능
 * [FoundationDB](https://www.foundationdb.org/)
   * [FoundationDB - the open source, distributed, transactional key-value store https://www.foundationdb.org](https://github.com/apple/foundationdb/)
     * 관계형DB의 ACID 트랜잭션을 지원하는 NoSQL DB
