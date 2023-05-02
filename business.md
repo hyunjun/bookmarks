@@ -40,7 +40,10 @@ Business
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [CEO 심리학 직원들 번아웃 막고 싶다면 성장하는 재미를 느끼게하라](https://n.news.naver.com/mnews/hotissue/article/009/0004984823)
 * [회사 다니면서 바쁜 와중에도 성장하는 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1742/)
-* [당신이 성장하지 못하는 이유 | Popit](https://www.popit.kr/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+* [당신이 성장하지 못하는 이유 | Popit](https://www.popit.kr/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+  * 어떻게 하면 성장할 수 있는지를 정리한 글, 적절한 비유와 함께 다양한 관점으로 설명
+  * 본인 능력에 맞게 적절한 난이도를 조절해야 하고 더 큰 성장을 위해 피드백을 받을 수 있는 환경을 만들거나 그런 환경으로 이동해야 함
+  * 그래서 정체된다고 느끼면 이런 부분을 고민해서 시도해 봐야 하고 잘못 알고 있는 것을 빨리 인지할 수 있도록 작고 빠르게 실패하기를 권장
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [State of Burnout in Tech 2022 | Yerbo](https://report.yerbo.co/)
   * [번역 & 요약 State of Burnout in Tech 2022 | Yerbo](https://gist.github.com/hyunjun/c36ed09d94c60d6163ab071f906a4060#file-the_state_of_burnout_in_tech_2022_edition-md)
