@@ -993,6 +993,7 @@ Docker
   * [쿠버네티스 아키텍처 이해하기 | 밑바닥부터 만드는](https://namkyu1999.github.io/posts/paper/230312_understanding_the_architecture_of_kubernetes/)
 * [k8s-stnd-arch/2023](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2023) 2023 표준 구성
   * 선정 기준 1) 충분한 기능을 가지고 있을 것 2) 도입이 쉬울 것 3) 한국에 사용자 층이 많거나 가능한 알려져 있을 것
+* [2023년 쿠버네티스 표준 아키텍처 | 요즘IT](https://yozm.wishket.com/magazine/detail/1998/)
 * [DevOps Tutorial | Understand Kubernetes Cluster Architecture | How to setup EKS Cluster on AWS - YouTube](https://www.youtube.com/watch?v=XL2dH3fQMZo)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
