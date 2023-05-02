@@ -793,6 +793,9 @@ NLP
   * [데이터 시각화의 모든 것 | ● ChatGPT를 데이터 시각화에 활용할 수 있습니다. | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/6081398341953067)
   * [How ChatGPT Works Technically | ChatGPT Architecture - YouTube](https://www.youtube.com/watch?v=bSvTVREwSNw)
   * [Top 5 AI Tools That Are BETTER Than ChatGPT, But Nobody is Using Them | Coding & Productivity Tools - YouTube](https://www.youtube.com/watch?v=5XnNom5YUk4) AgentGPT Ora.sh Meetcody.ai Jasper literallyanything.io
+  * [Monitor OpenAI GPT Application Usage | New Relic](https://newrelic.com/blog/nerdlog/new-relic-integration-with-gpt-3)
+    * New Relic에서 OpenAI의 GPT 모델을 서비스에서 사용하는 사용자가 GPT 모델의 성능을 모니터링 할 수 있는 기능 공개
+    * OpenAI의 API를 사용할 때 New Relic의 모니터링 코드를 추가하면 사용량과 모델의 응답 속도를 측정해서 비용과 성능을 모니터링 가능
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
