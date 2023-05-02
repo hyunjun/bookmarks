@@ -1757,6 +1757,10 @@ Docker
       * Cilium 네트워크 플러그인, Pod을 위한 VPC의 secondary CIDR, ENI 접두사 위임을 사용하기로 결정
       * EKS에서 지원하지 않기 때문에 VPC CNI를 따로 지워야 했고
       * 이후 Cilium을 설정하고 Hubble UI로 기본 설정 확인을 한 뒤 정책을 적용하는 방법 정리
+  * [Cilium Mesh - One Mesh to Connect Them All - Isovalent](https://isovalent.com/blog/post/introducing-cilium-mesh/)
+    * Cilium에서 범용 네트워킹 레이어인 Cilium Mesh 공개
+    * Cilium 기반 네트워크와 보안을 확장하기 위해 Cilium Mesh 도입
+    * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
