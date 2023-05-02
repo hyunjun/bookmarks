@@ -497,6 +497,9 @@ Git
   * 또한 모노레포 프로젝트에서는 팀마다 다른 코드스페이스 환경이 필요하기 때문에 여러 `devcontainer.json`를 지정할 수 있게 되어 `.devcontainer/${DIR}/devcontainer.json` 형식 지정 가능
 * [GitHub Codespaces의 Development Containers 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1643)
 * [JetBrains IDE로 GitHub Codespaces 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1656)
+* [One Click Into GitHub Codespaces | GitHub Changelog](https://github.blog/changelog/2023-04-24-one-click-into-github-codespaces/)
+  * 프로젝트의 Codespace를 GitHub 외부에서 바로 열 수 있는 Deep 링크 기능이 추가되어 링크나 버튼을 외부에 공유 가능
+  * 추가로 Codespace를 실행할 때 추천 시크릿을 보여주는 기능이 추가되었고 Dev Container에 이름을 지정 가능
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
