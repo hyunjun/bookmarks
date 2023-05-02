@@ -783,7 +783,13 @@ NLP
   * [챗GPT 근황 업데이트 : 네이버 블로그](https://blog.naver.com/ranto28/223068372777)
   * [챗GPT 근황 A/S (feat 카니발리제이션) : 네이버 블로그](https://blog.naver.com/ranto28/223078242687) 기술 이야기 X 모두 맞는 이야기는 아니지만 cannibalization에 대한 이야기는 귀담아 들을만 함
   * [ChatGPT를 대하는 프런트엔드 개발자의 자세 • 캡틴판교](https://joshua1988.github.io/web-development/frontend-development-with-chatgpt/)
-  * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Apr, 2023 | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3)
+  * [마틴 파울러가 알려주는 ChatGPT와 페어 프로그래밍 하는 법 | by Sigrid Jin | Apr, 2023 | Medium](https://sigridjin.medium.com/%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-chatgpt%EC%99%80-%ED%8E%98%EC%96%B4%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2077b894d5e3/)
+    * 리팩토링으로 유명한 Martin Fowler가 ThoughtWorks의 동료인 Xu Hao와 대화하다가 Xu Hao가 ChatGPT를 활용하는 방법을 듣고 정리한 글
+    * 태스크 코드를 작성하는 과정
+      * 어떤 프로그램이 있고 어떤 테스트를 만들려고 하는지 아주 자세한 프롬프트를 제공하지만
+      * 코드는 작성하지 않도록 하고 나온 대답에 관해서 추가적인 지시를 하거나 답변한 내용의 이유를 물어보면서 해야 할 작업 목록을 구체화한 뒤
+      * 맘에 들면 각 할 일마다 컴포넌트의 이름을 작성한 뒤에 테스트 코드를 작성하게 함
+      * 토큰 제한 때문에 앞의 맥락을 잊어버리는 게 문제인데 할 일 목록을 만든 것을 다시 입력하면 새 세션에서도 다시 이야기를 이어 나갈 수 있음
   * [데이터 시각화의 모든 것 | ● ChatGPT를 데이터 시각화에 활용할 수 있습니다. | Facebook](https://www.facebook.com/groups/datainsouthkorea/posts/6081398341953067)
   * [How ChatGPT Works Technically | ChatGPT Architecture - YouTube](https://www.youtube.com/watch?v=bSvTVREwSNw)
   * [Top 5 AI Tools That Are BETTER Than ChatGPT, But Nobody is Using Them | Coding & Productivity Tools - YouTube](https://www.youtube.com/watch?v=5XnNom5YUk4) AgentGPT Ora.sh Meetcody.ai Jasper literallyanything.io
@@ -823,6 +829,11 @@ NLP
     * [나만의 ChatGPT 플러그인 만들기! 10분컷. - YouTube](https://www.youtube.com/watch?v=pBdwrB4rEA4)
     * [ChatGPT 플러그인 정리 - 모두의연구소](https://modulabs.co.kr/blog/chatgpt-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC/)
     * [챗GPT 플러그인 만들기 1. 전체구조 2.OpenAI API - YouTube](https://www.youtube.com/watch?v=fpu4TwNSaHU)
+    * [Building a ChatGPT Plugin for Medium | by Thomas Ricouard | Apr, 2023 | Medium Engineering](https://medium.engineering/building-a-chatgpt-plugin-for-medium-6813b59e4b24)
+      * Medium에서 ChatGPT 플러그인을 만들어 보면서 경험을 정리한 글
+        * 이 플러그인은 아직 공개 여부 미정
+      * 사이트에서 `.well-known/ai-plugin.json`를 노출해서 쉽게 플러그인을 구축할 수 있고 GraphQL로 된 API를 ChatGPT를 위해 RESTful API로 노출하도록 Go로 프로그램 작성
+        * 다양하게 테스트해 본 결과 API를 이용해서 꽤 괜찮은 결과를 조회하고 연관된 콘텐츠까지도 조회하는 등 ChatGPT의 이해도가 놀라웠음
   * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
