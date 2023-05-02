@@ -1665,6 +1665,7 @@ Docker
 * [VDBUH2023 - Natale Vinto & Kevin Dubois - Progressive Delivery in the Kubernetes era - YouTube](https://www.youtube.com/watch?v=y-GoffQlWxw)
 * [WASM + Kubernetes: Beyond Containers - YouTube](https://www.youtube.com/watch?v=ulZGjeFZirU)
 * [쿠버네티스 스터디 매거진](https://brunch.co.kr/magazine/kubernetes)
+* [Kubernetes 환경에서 Segmentation Fault 트러블슈팅하기 (Feat. Fluent Bit Contribution) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/05/02/troubleshooting-fluent-bit-segmentation-fault.html)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
