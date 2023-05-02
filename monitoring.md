@@ -198,6 +198,9 @@ Monitoring
   * [Pyroscope and Grafana Phlare join together to accelerate adoption of continuous profiling, the next pillar of observability | Grafana Labs](https://grafana.com/blog/2023/03/15/pyroscope-grafana-phlare-join-for-oss-continuous-profiling)
     * Grafana가 Continuous Profiling의 시조 프로젝트인 Pyroscope 인수
     * Grafana는 Continuous Profiling을 위해 작년에 Phlare를 발표했으나 이번 인수로 두 프로젝트를 Grafana Pyroscope라는 이름으로 통합 
+  * [How to troubleshoot memory leaks in Go with Grafana Pyroscope | Grafana Labs](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/)
+    * Grafana가 최근에 인수한 Continuous Profiling 회사 서비스 Pyroscope를 이용해서 Go 프로그램의 메모리 릭을 추적하는 과정 설명한 글
+    * 간단하게 메모리 릭이 있는 Go 프로그램을 작성하고 프로그램에 Pyroscope를 통합시킨 뒤 메모리 추적을 통해 프레임 그래프를 보면서 문제가 되는 부분을 찾음
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
   * [오픈소스 성능 모니터링 도구 Scouter 소개](http://www.popit.kr/scouter-open-source-apm/)
   * [오픈소스 성능 모니터링 도구 Scouter 설정하기](http://www.popit.kr/scouter-open-source-apm-config/)
