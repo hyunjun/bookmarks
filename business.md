@@ -2490,6 +2490,7 @@ Business
 * [첫 그래픽 디자이너가 했던 가장 비효율적인 일](https://toss.tech/article/21341)
 * [리서치를 하고 싶어하는 사람을 리서치하세요](https://toss.tech/article/1st_ux_research)
 * [Kurly Design Principle - 컬리 기술 블로그](https://helloworld.kurly.com/blog/kurly-design-principle/)
+* [뷰티컬리에서 <나의 컬리 스타일>이 갖는 의미 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/my-kurly-style/)
 * [좋은 디자인이란 무엇인가?](https://blog.dalgu.app/design/5)
 * [UX Writing으로 이메일&알람 수신 동의 얻기. 동기부여 및 루틴 앱 Fabulous의 UX 라이팅 사례 | by Alyse Lee | Medium](https://alyselee.medium.com/ux-writing%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%95%8C%EB%9E%8C-%EC%88%98%EC%8B%A0-%EB%8F%99%EC%9D%98-%EC%96%BB%EA%B8%B0-adf5c35ecdc9)
 * [서비스 이용자에게 꼭 필요한 나침반, '내비게이션'은 어떻게 기획해야 할까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/navigation20221125)
