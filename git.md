@@ -439,6 +439,11 @@ Git
 * [워크서버개발팀의 GitHub Actions 적용기](https://tech.kakaoenterprise.com/180)
   * [Awesome GitHub Copilot: GitHub Actions to build Apple iOS project with CI/CD project - YouTube](https://www.youtube.com/watch?v=86quBXr0m5I)
 * [GitHub Actions - JavaScript action 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230413-github-actions-javascript-action/)
+* [Announcing GitHub Actions Deployment Protection Rules, now in public beta | The GitHub Blog](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/)
+  * GitHub Actions의 배포 기능을 사용할 때 Deployment protection rules 추가
+  * 이를 통해 Datadog, Honeycomb, New Relic, NodeSource, Sentry, ServiceNow 등 GitHub과 파트너쉽을 맺은 회사가 이미 앱을 제공
+  * 이 앱을 통해 배포 시 안전한 배포만 나가도록 추가적인 보호 정책을 적용 가능
+  * 직접 Deployment protection rules을 만들어서 공유도 가능
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
