@@ -5813,6 +5813,10 @@ Programming
   * Redis에 사용자 정보를 캐시하고 있는데 이번 버그는 Redis 클라이언트인 redis-py에서 발생
     * 연결 풀에서 연결을 재사용하면서 응답을 받기 전에 요청이 취소되면 다음 요청이 응답을 받게되어 발생, 지금은 패치
 * [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes) MySQL 최적화, circuit breaker, bulkhead
+* [Car Allergic to Vanilla Ice Cream ― Andreas Zwinkau](http://beza1e1.tuxen.de/lore/allergic_car.html)
+  * [바닐라 아이스크림에 알레르기가 있는 자동차.jpg : 클리앙](https://www.clien.net/service/board/park/14924850)
+* [It's High Tide! ― Andreas Zwinkau](https://beza1e1.tuxen.de/lore/high_tide.html)
+  * [⚜어? on Twitter: "서버 이야기는 이겁니다 서버가 이상하게 일정시간마다 멈춰서 수리기사가 확인하러 몇시간 걸려서 서버실에 도착하면 서버가 다시 문제없이 도착합니다 그리고 다시 회사로 돌아가면 다시 서버가 멈춥니다 다시 서버실에 도착하면 또 문제없이 도착합니다" / Twitter](https://twitter.com/Abupyss_N/status/1653100168957534209)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
