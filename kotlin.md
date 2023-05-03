@@ -287,6 +287,7 @@
 * [Effective Kotlin Item 53: Consider using groupingBy instead of groupBy](https://kt.academy/article/ek-grouping)
 * [코틀린의 확장 기능](https://www.roach-dev.com/kotlin/kotlin_extension_function/)
 * [Pluu Dev - 메모 Kotlin의 val 프로퍼티 Smart Cast는 동일 모듈에서 더 잘 판단함](https://pluu.github.io/blog/kotlin/2023/03/22/smart-cast/)
+* [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
