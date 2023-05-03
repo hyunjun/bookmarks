@@ -754,6 +754,7 @@ NLP
   * [긴급 세미나. (실전) ChatGPT-replica 만들기 코드실습 & GPT4 (전자통신부설연구소 고우영 선임연구원) - YouTube](https://www.youtube.com/watch?v=Iq8erq62s8c)
     * [KoChatGPT: ChatGPT의 RLHF를 학습을 위한 3가지 step별 한국어 데이터셋](https://github.com/airobotlab/KoChatGPT)
     * [kochatgpt_code_230320.ipynb - Colaboratory](https://colab.research.google.com/drive/1UcLLV4mLtn8vxGk5U3TxiLNbVBealy16?usp=sharing)
+    * [kochatgpt_code_230421.ipynb - Colaboratory](https://colab.research.google.com/drive/1bxI8SEJBOK2cfa_sLi6mKOrbRuDNPM2e?usp=sharing)
   * [로컬 컴퓨터에 "ChatGPT"를 설치하세요: LLaMA & 알파카 :: ChatGPT 정리](https://banjubu.tistory.com/398)
   * [GPT Journey - A text and image game with ChatGPT - YouTube](https://www.youtube.com/watch?v=YY7LIEHiAfg)
   * [ChatGPT와 함께 춤을](https://jojoldu.tistory.com/709)
