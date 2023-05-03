@@ -912,6 +912,8 @@ App
   * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
   * [21 VSCode Shortcuts To Code Faster and Funner – JSManifest](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
   * [11 Useful VSCode Keyboard Shortcuts | Medium](https://jstutorial.medium.com/11-useful-vscode-keyboard-shortcuts-d171c37aa963)
+  * [learn_vscode_shortcuts: Learn VSCode Shortcuts](https://github.com/nallwhy/learn_vscode_shortcuts)
+  * [vscode-windows-shortcuts: Visual Studio Code - Keyboard Shortcuts for Windows: A Comprehensive List](https://github.com/cluemediator/vscode-windows-shortcuts)
   * [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) knowledge graph
   * [VSCode에서 정규표현식(Regex)로 원하는 문자열 치환하기](https://jojoldu.tistory.com/555)
   * [⚙️VSCode 자동 저장 기능 #삽질줄이기 - YouTube](https://www.youtube.com/watch?v=GdebOaCQEcI)
@@ -920,7 +922,6 @@ App
   * [How To Set Up VS Code for PHP Development with PHP Intelephense | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-visual-studio-code-for-php-projects)
   * [프리지아 랩 :: Visual Studio Code 터미널의 한글 출력 문제 해결하기](https://www.dokyun.pe.kr/273)
   * [Localhost에서 구글 로그인 웹 구현 - 이상선 - Medium](https://medium.com/@sunyi233/localhost%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9B%B9-%EA%B5%AC%ED%98%84-9c7a5879df61)
-  * [learn_vscode_shortcuts: Learn VSCode Shortcuts](https://github.com/nallwhy/learn_vscode_shortcuts)
   * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
   * [VSCode와 GitHub. GitHub은 git repository들의 모임입니다. 자체적으로… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/vscode%EC%99%80-github-db05ca48bb9b)
