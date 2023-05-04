@@ -362,6 +362,7 @@ NLP
 * [2022 Hugging Face & ETH Typical decoding for Natural Language - YouTube](https://www.youtube.com/watch?v=1_xw30L31n8)
 * [자연어 처리](https://velog.io/@djarkdud27/NLP-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [딥러닝 공개 모델 활용 정보 수집 효율화 | Pega Devlog](https://jehyunlee.github.io/2022/11/11/Python-DS-120-eost2022/)
+* [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
