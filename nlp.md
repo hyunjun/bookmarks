@@ -1304,6 +1304,7 @@ NLP
   * [TensorFlow KR | LLaMA 7B를 파인튜닝한 스탠포드의 Alpaca 7B가 나왔는데, 7B임에도 성능이 준수한가 봅니다 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/1991567364517645)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
+* [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
 
 ## Language Model LM GPT
 * [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
