@@ -1451,6 +1451,7 @@ Business
 * [코칭할 만한 사람들만 코칭하라](https://brunch.co.kr/@graypool/75)
 * [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
 * [개발자를 코칭하며 배운 7 가지 | Popit](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%BD%94%EC%B9%AD%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-7-%EA%B0%80%EC%A7%80)
+* ["내가 힘들 때 누가 날 위로해주지? 바로 코치님♥" (임승찬 코치) - YouTube](https://www.youtube.com/watch?v=pdI6FqOOd08)
 * [**Mochary Method Curriculum - Google Docs**](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/)
   * [CEO & VC 필독서 스타트업 멘토링 커리큘럼 by Notion과 Sequoia의 멘토 Matt Mochary](https://www.romanceip.xyz/startup101withmochary/)
 * [좋은 멘토의 3가지 기준](http://moneyman.kr/archives/4003) 구체적인 숫자, 편안함 + 약간의 불편함, 자극과 휴식
