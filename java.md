@@ -196,6 +196,7 @@ Java
 * [7 java tricky parts may probably face you as java developer | by Nour Krichene | Jan, 2022 | Medium](https://medium.com/@krichenenour2/7-java-tricky-parts-may-probably-face-you-as-java-developer-f6a6c0cd29a2)
 * [java number 클래스에 대해 간단하게 알아봅시다.](https://codingdog.tistory.com/672)
 * [Top 10 Easy Performance Optimizations in Java | by Jassica Den | Medium](https://synergisticm.medium.com/top-10-easy-performance-optimizations-in-java-6370025f847e)
+* [10 Java Idioms Every Developer Should Know | by javinpaul | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
