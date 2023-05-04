@@ -160,6 +160,7 @@ iOS
 * [Hero](https://github.com/lkzhao/Hero)
   * [iOS 애니매이션 라이브러리 ‘히어로’, 오픈소스로 공개](http://www.bloter.net/archives/270034)
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
+* [IOSSecuritySuite: iOS platform security & anti-tampering Swift library](https://github.com/securing/IOSSecuritySuite)
 * [Jandi: 🌱 Growth everyday your github contributions in macOS status bar](https://github.com/techinpark/Jandi)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [needle: Compile-time safe Swift dependency injection framework](https://github.com/uber/needle)
