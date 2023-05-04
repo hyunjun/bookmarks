@@ -1055,6 +1055,7 @@ App
     * [VS Code를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * [tool 태블릿을 이용하여 원격에서 vsc.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222094462073)
     * [Building a Fully Remote Development Environment | by Tim Osborne | Mar, 2022 | Medium](https://medium.com/@timatomlearning/building-a-fully-remote-development-environment-adafaf69adb7)
+    * [VScode로 SSH를 통해 원격서버 접속하기](https://jstar0525.tistory.com/14)
   * scala
     * [VS Code Profile for Scala - YouTube](https://www.youtube.com/watch?v=g8Dd37e7GRk)
     * [Introduction to Scala Development using vscode - Dick Wall - YouTube](https://www.youtube.com/watch?v=tNLS6rOGBlo)
