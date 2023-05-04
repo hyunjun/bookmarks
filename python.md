@@ -4941,6 +4941,7 @@ Python
 * [optimus: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark](https://github.com/hi-primus/optimus)
   * [Data Science with Optimus. Part 1: Intro. | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/data-science-with-optimus-part-1-intro-1f3e2392b02a)
   * [Data Science with Optimus. Part 2: Setting your DataOps Environment. | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/data-science-with-optimus-part-2-setting-your-dataops-environment-248b0bd3bce3)
+* [pandas-ai: Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational](https://github.com/gventuri/pandas-ai)
 * [pandera: A light-weight, flexible, and expressive statistical data testing library](https://github.com/unionai-oss/pandera)
   * [Pandera makes it easy to validate pandas DataFrame](https://www.linkedin.com/posts/khuyen-tran-1401_datascience-python-activity-7042493506438795264-GUYs/)
   * [How to Validate Your pandas DataFrame with Pandera - YouTube](https://www.youtube.com/watch?v=CB8D7RUM-lI)
