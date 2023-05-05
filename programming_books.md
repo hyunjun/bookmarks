@@ -3275,10 +3275,11 @@ Programming Books
 * [어떤 개발자가 되고 싶니?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308894359)
   * ★★★☆☆ 2023.03.27 비개발자와 주니어 개발자에게 할 이야기가 섞였다는 생각이 들고, 전문작가가 아니라 유려한 문장은 아니긴 하지만, 오랜 경력(근데 나와 큰 차이는 없으니 나는 반성해야 함)을 바탕으로 진정성있는 조언들을 기록
   * 탐라 문005-박225ㅇ
+* [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
+  * ★★★☆☆ 2023.05.02~05 호흡이 짧은 구성(각 소챕터가 매우 짧음)에도 불구하고 어쩐지 부드럽게 읽히지 않지만, 커리어 발전을 위해 필요한 수많은 주제를 하나의 책에 모아서 설명했다는 거 만으로도 좋음
+  * 탐라 문005.12-존58ㅌ
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
-* (NOT YET) [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
-  * 탐라 문005.12-존58ㅌ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
