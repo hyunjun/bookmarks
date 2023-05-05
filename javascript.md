@@ -1183,6 +1183,7 @@ Javascript
       * 적용한 Promise 취소 방법에 관해서도 설명
   * [Promise 및 (Micro)Task 등의 비동기는 만능이 아니다](https://velog.io/@composite/Promise-%EB%B0%8F-MicroTask-%EB%93%B1%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EB%A7%8C%EB%8A%A5%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
   * [Why To Use JavaScript Async/Await Over Promises ? - YouTube](https://www.youtube.com/watch?v=8V-DOz4Lqkc)
+  * [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -4263,6 +4264,7 @@ Javascript
 * [React Labs: What We've Been Working On – March 2023 – React](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)
   * [React 프로젝트 내부에서 연구 개발 중인 프로젝트를... | 커리어리](https://careerly.co.kr/comments/81632)
 * [Maintainable React Components with Layered Architecture | Bits and Pieces](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)
+* [Mobile Convergence :: MS-12 NodeJS, React, AntD, Nx v16 업데이트 하기](https://mobicon.tistory.com/598)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
