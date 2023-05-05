@@ -1499,6 +1499,8 @@ Deep Learning
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [SPOTTY - An Open-source Tool for Training Deep Learning Models in the Cloud](https://spotty.cloud)
 * [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
+* [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder)
+  * [허깅 페이스 및 서비스나우, 코딩용 생성 AI 'StarCoder' 공개 : 클리앙](https://www.clien.net/service/board/news/18063740)
 * TabNine [Autocompletion with deep learning](https://tabnine.com/blog/deep)
 * [tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️](https://github.com/geohot/tinygrad)
   * [geohot/tinygrad - 미니멀한 딥러닝 프레임워크 | GeekNews](https://news.hada.io/topic?id=6320)
