@@ -109,6 +109,7 @@ Elixir
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 * [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
+* [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
 
 # API
 * sigils
