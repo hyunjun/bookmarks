@@ -1371,6 +1371,8 @@ Java
 * [jbang](https://jbang.dev/)
   * [jbang: Unleash the power of Java for shell scripting](https://github.com/jbangdev/jbang)
   * [JBang - Using Java to make Java better? - YouTube](https://www.youtube.com/watch?v=X4x2jM3Y0uE)
+  * [Single-File JVM Apps: Rapid Development](https://blog.lambdaspot.dev/one-and-done-embrace-single-file-jvm-apps-for-speedy-development)
+  * [Single-File JVM apps Pt. 2: AWS Lambda function simplified](https://blog.lambdaspot.dev/one-and-done-part-2-industrys-adoption-of-self-contained-jvm-applications)
 * [jDeploy - Developer friendly desktop deployment tool | jDeploy](https://www.jdeploy.com/)
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
