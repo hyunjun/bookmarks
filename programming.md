@@ -1595,6 +1595,7 @@ Programming
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
+* [Building Evolutionary Architectures • Rebecca Parsons, Neal Ford & James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=m2ZlX1je3as)
 * [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
 * [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
 * [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을 강의로 들었다는 이야기
