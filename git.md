@@ -444,6 +444,7 @@ Git
   * 이를 통해 Datadog, Honeycomb, New Relic, NodeSource, Sentry, ServiceNow 등 GitHub과 파트너쉽을 맺은 회사가 이미 앱을 제공
   * 이 앱을 통해 배포 시 안전한 배포만 나가도록 추가적인 보호 정책을 적용 가능
   * 직접 Deployment protection rules을 만들어서 공유도 가능
+* [GitHub Actions의 스킵된 Required 잡 실행하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1671)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
@@ -574,6 +575,7 @@ Git
   * [당신이 (아마도) 몰랐던 20가지 Git 명령 번역 | GeekNews](https://news.hada.io/topic?id=8153)
 * [실무에서 사용했던 git 정리](https://phrygia.github.io/git/2023-03-03-git/) remote branch rebase cherry-pick reset 등
 * [앗! 모르고 깃헙(GitHub)에 올렸어요!. 깃 내부 작동 방식과 함께 살펴보는 revert, reset 명령어… | by weekwith.me | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%95%97-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EA%B9%83%ED%97%99-github-%EC%97%90-%EC%98%AC%EB%A0%B8%EC%96%B4%EC%9A%94-50d48b343f0f) reset revert gitguardian
+* [자주 사용하는 용어와 커맨드를 제대로 알아보자](https://velog.io/@skyu_dev/Git-Git-GitHub-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-add-commit-push-%EB%A1%9C%EB%B4%87%EC%97%90%EC%84%9C-%EB%B2%97%EC%96%B4%EB%82%98%EA%B8%B0)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
