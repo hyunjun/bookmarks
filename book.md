@@ -1441,6 +1441,9 @@ Book
 * [싱크 어게인](https://jhrogue.blogspot.com/2023/04/blog-post_19.html)
   * ★★★☆☆ 2023.04.24, 27
   * 한라 325.211-그293ㅅ 탐라 문181.3-그232ㅅ 우당 문181.3-그232ㅅ
+* [심리학이 제갈량에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312399292)
+  * 1권 ★★★☆☆ 2023.05.06
+  * 우당 문325.211-천67ㅅ-1
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1449,13 +1452,14 @@ Book
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
   * 한라
-* (NOT YET) [심리학이 제갈량에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312399292)
 * (NOT YET) [결정하는 뇌](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309123726)
   * 탐라 문181.91-하64ㄱ 우당 문181.91-하64ㄱ
 * (NOT YET) [FBI 행동의 심리학 (리커버 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305371780)
   * 우당 문181.81-내43ㅇ
 * (NOT YET) [클루지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2855577)
   * 한라 180.4-마874ㅋ 탐라 문181.38-마823ㅋ 우당 문181.38-마823ㅋ
+* (NOT YET) [심리학이 조조에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305104962)
+  * 한라 325.211-천66ㅅ-1 탐라 문325.211-천67ㅅ-1, 2 우당 문325.211-천67ㅅ-1, 2
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
