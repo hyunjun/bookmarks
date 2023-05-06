@@ -1195,6 +1195,7 @@ Programming
 * [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
 * [Give me back my monolith - Craig Kerstiens](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+* [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 * [**Replaying parallel requests to break a monolith**](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/replaying-parallel-requests-to-break-a-monolith-ra.pdf)
 * [Chipping Away at the Monolith: Applying MVPs and MVAs to Legacy Applications](https://www.infoq.com/articles/mvp-mva-legacy/)
 * [The monolith must die! - How to convince managers by Anja Kunkel - YouTube](https://www.youtube.com/watch?v=3FPxSykvbt8)
