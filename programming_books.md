@@ -1141,6 +1141,8 @@ Programming Books
   * [김수보 - 이 책을 받아 읽어보고 있는데 꽤 내용이 많다. 데이터 아키텍쳐를 설계하고 관리하기 위한 바이블 같은... | Facebook](https://www.facebook.com/kimsubo/posts/pfbid0ncrzvJh95C5KT82NmfZX1UMsDJCM5NDwFv8mGzeNL28GRJb2WQpcRnz27Uv6fSKml)
 * (NOT YET) [코딩 없이 배우는 데이터 과학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312951054)
 * (NOT YET) [로컬에서 직접 빅데이터 서비스를 구현하고 싶다면...](https://jpub.tistory.com/1412)
+* (NOT YET) [데이터 플랫폼 설계와 구축 | 에이콘출판사](http://acornpub.co.kr/book/cloud-data-platforms)
+  * 우당 문004.588-즈47ㄷ
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
