@@ -2359,6 +2359,7 @@ Docker
 * [Bad News for Cloud Computing: OpenStack Use Plummets and Discounts Dry Up – The New Stack](https://thenewstack.io/bad-news-for-cloud-computing-openstack-use-plummets-and-discounts-dry-up/)
 * [Man Seok Techne Schoe: OpenStack Yoga 클라우드 구성](https://manseok.blogspot.com/2022/04/openstack-yoga.html)
 * [if(kakao)dev2022 Openstack을 쿠버네티스 네이티브하게 운영하는 방법](https://if.kakao.com/2022/session/57)
+* [레드햇 오픈스택 17 저자직강 + 스터디 그룹 자료 공개](https://naleejang.tistory.com/268)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
