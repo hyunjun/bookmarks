@@ -827,7 +827,7 @@ Programming Books
 * (NOT YET) [AI는 세상을 어떻게 바꾸는가? 장동선 박사의 인공지능 이야기](https://www.brainmedia.co.kr/RecommendedBook/22476)
   * 한라 004.73-장25ㅇ 우당 문004.73-장225ㅇ
 * (NOT YET) AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
-  * 한라
+  * 한라 004.78-루688ㅇ
 * (NOT YET) [XAI, 설명 가능한 AI](https://bjpublic.tistory.com/463)
   * 한라 004.73-오65ㅇ
   * [XAI, 설명 가능한 AI](https://github.com/bjpublic/XAI)
@@ -1412,6 +1412,7 @@ Programming Books
   * [Graph-Machine-Learning: Graph Machine Learning, published by Packt](https://github.com/PacktPublishing/Graph-Machine-Learning)
   * [9781800204492_ColorImages.pdf](https://static.packt-cdn.com/downloads/9781800204492_ColorImages.pdf)
 * (NOT YET) [머신러닝 시스템 설계](https://www.hanbit.co.kr/store/books/look.php?p_code=B1811121220)
+  * 한라 004.73-후64ㅁ
 * (NOT YET) [데이터 과학 레벨 업 with 로드맵](https://hanbit.co.kr/store/books/look.php?p_code=B9570217910) kaggle
 
 ## Keras

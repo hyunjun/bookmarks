@@ -729,7 +729,7 @@ Book
 * (NOT YET) [이노베이터 DNA(THE INNOVATOR's DNA)](https://blog.naver.com/ace/60154534527)
   * 한라 325.1-다68ㅇ 탐라 개325.211-다68ㅇ 우당 문325.1-다69ㅇ
 * (NOT YET) [다이브 딥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313587844)
-  * 한라
+  * 한라 325.1-박54ㄷ 탐라 문325.1-박53ㄷ
 * (NOT YET) [승려와 수수께끼](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236999524)
   * 성산 HG325.211-랜229ㅅ
 * (NOT YET) [제로 투 원 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280602221&start=slayer)
@@ -1457,7 +1457,7 @@ Book
 * (NOT YET) [괴물의 심연(제임스 팰런) - 내가 사이코패스.. : 네이버블로그](https://blog.naver.com/flnalnt/221372950509)
   * 탐라 개184-팰294ㄱ 우당 문184-팰233ㄱ
 * (NOT YET) [아들은 아버지의 등을 보고 자란다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310889277)
-  * 한라
+  * 한라 189.24-최15ㅇ
 * (NOT YET) [결정하는 뇌](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309123726)
   * 탐라 문181.91-하64ㄱ 우당 문181.91-하64ㄱ
 * (NOT YET) [FBI 행동의 심리학 (리커버 특별판)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305371780)
