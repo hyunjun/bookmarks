@@ -47,6 +47,10 @@ Economy
 * [경제적 불평등이 낳은 도시의 분리(segregation)](http://newspeppermint.com/2015/10/28/urbansegregation/)
 * [당신은 어떤 성장을 바랍니까?](http://ppss.kr/archives/59722)
 * [우버와 에어비앤비는 공유경제 기업이 아니다](http://www.bloter.net/archives/242361)
+* [미라클 주말 돈은 왜 항상 부족할까? 당신이 돈을 쓰고 후회하는 이유💰 돈의 심리학 | 댄 애리얼리 #미라클주말 - YouTube](https://www.youtube.com/watch?v=MjYqOzA8xMk)
+  * 지불의 고통. subscription model이 기본적으로 기업에 유리한 이유도 여기에 있는 듯
+  * 실패할 때 탓하면 성공하기 어렵다. 심리적 안정감의 중요함
+  * 동기부여에 돈을 쓰는 건 효과적이지도 않고 비싼 방법
 
 # 디턴
 * [디턴 "무조건 성장이 좋다는 건 아니다"(인터뷰)](http://www.huffingtonpost.kr/2015/10/31/story_n_8440284.html)
