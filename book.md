@@ -620,6 +620,8 @@ Book
   * 한라 653.269-베68반ㄱ
 * (NOT YET) [미술관에 간 인문학자](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302177451)
   * 우당 문606.926-안94ㅁ
+* (NOT YET) [아바타의 세계 : 시각적 탐사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305693269)
+  * 한라 688.2-이78ㅇ탐라 문688.13-이75ㅇ
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -1444,6 +1446,9 @@ Book
 * [심리학이 제갈량에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312399292)
   * 1권 ★★★☆☆ 2023.05.06
   * 우당 문325.211-천67ㅅ-1
+* [심리학이 조조에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305104962)
+  * ★★★☆☆ 2023.05.07
+  * 한라 325.211-천66ㅅ-1 탐라 문325.211-천67ㅅ-1, 2 우당 문325.211-천67ㅅ-1, 2
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1458,8 +1463,6 @@ Book
   * 우당 문181.81-내43ㅇ
 * (NOT YET) [클루지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2855577)
   * 한라 180.4-마874ㅋ 탐라 문181.38-마823ㅋ 우당 문181.38-마823ㅋ
-* (NOT YET) [심리학이 조조에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305104962)
-  * 한라 325.211-천66ㅅ-1 탐라 문325.211-천67ㅅ-1, 2 우당 문325.211-천67ㅅ-1, 2
 * (NOT YET) [내면소통](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311899364)
   * 한라 189.1-김76ㄴ 탐라 문189-김77ㄴ 우당 문189.1-김77ㄴ
 
