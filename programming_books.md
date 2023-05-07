@@ -3986,3 +3986,5 @@ Programming Books
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [Docs for Developers 기술 문서 작성 완벽 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B8810771470)
+* (NOT YET) [스마트 브레비티](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314972295)
+  * [Brevity is confidence, length is fear](https://www.facebook.com/watch/?v=498587128367481) 간결은 자신감이다. 장황은 두려움이다
