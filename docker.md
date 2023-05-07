@@ -1805,6 +1805,7 @@ Docker
   * [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator](https://www.infoq.com/news/2020/01/falco-security-cncf/)
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
+  * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
 * [fluent-operator: Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator](https://github.com/fluent/fluent-operator)
   * [로그수집기 fluentbit in TACO LMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164136)
   * [ElasticSearch Index LifeCycle to Template with Fluentbit](https://ykarma1996.tistory.com/115)
