@@ -669,6 +669,7 @@ Docker
   * 처음에는 직접 pivot_root와 OverlayFS로 컨테이너의 구조를 살펴보고 CRI, OCI가 무엇이고 Docker와는 어떻게 연결되어 있는지 설명
   * 이 컨테이너를 빌드하는 도구 중 jib, kaniko, BuildKit을 간단히 설명하면서 컨테이너가 표준화가 많이 되어있지만, Dockerfile은 따로 표준이 없기 때문에 Dockerfile을 사용한다면 Docker와의 의존성은 끊기 어렵다고 설명
 * [Why Every Developer Should Learn Docker in 2023? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/why-every-developer-should-learn-docker-in-2023-ac27fac5fd6f)
+* [container_learning: 컨테이너 기술 공부](https://github.com/pjt3591oo/container_learning)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
