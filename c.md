@@ -24,6 +24,7 @@ C
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
 * [Death To C](http://techcrunch.com/2015/05/02/and-c-plus-plus-too/)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
+* [Undefined Behavior - AnyDoc](https://dev.alliknow.info/posts/2023/5/undefined-behavior)
 * [Beyond the PDP-11: Architectural support for a memory-safe C abstract machine](http://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/201503-asplos2015-cheri-cmachine.pdf)
 * [Implementing a Virtual Machine in C](http://www.blog.felixangell.com/virtual-machine-in-c/)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
