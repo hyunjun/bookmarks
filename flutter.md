@@ -323,3 +323,4 @@ Flutter
 * [Flutter 3.0 Master Class for Beginners to Advanced 2022 | Ticket Booking App Development Tutorial - YouTube](https://www.youtube.com/watch?v=71AsYo2q_0Y)
 * [Flutter Tutorial 2022 | How to create, design, validate and save forms in Flutter](https://morioh.com/p/7022752751b6)
 * [Flutter 사용기 - 엘키의 주절 주절](https://elky84.github.io/2023/02/26/flutter_usage/)
+* [Android 신입 개발자, Flutter로 기술 전환 가보자고](https://engineering.linecorp.com/ko/blog/flutter-onboarding-for-new-employees)
