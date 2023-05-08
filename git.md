@@ -717,6 +717,7 @@ Git
   * [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
   * [Why should I write good commit messages? | by Ankit Muchhala | The Startup | Medium](https://medium.com/swlh/why-should-i-write-good-commit-messages-e15d37bf45cb)
   * [How Square writes commit messages | Square Corner Blog](https://developer.squareup.com/blog/how-square-writes-commit-messages/)
+  * [커밋이 깃허브에 제대로 표시되지 않을 때 해결방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/github-contribution-not-showing)
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
 * `config`
@@ -818,6 +819,7 @@ Git
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [Husky 사용할 때 주의! - 코드쓰는사람](https://taegon.kim/archives/10276)
   * [husky로 git hooking하기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222803877946)
+  * [husky와 lint-staged를 이용한 레포지토리 관리 (포매팅/린팅) 자동화 - AnyDoc](https://dev.alliknow.info/posts/2023/5/auto-repository-management-with-husky-and-lint-staged)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
   * [SwiftLint와 Git Hook을 이용해서 코딩 스타일 관리하기](http://woowabros.github.io/tools/2019/08/05/swiftlint-githooks.html)
   * [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-커밋-메세지에-jira-이슈번호-자동으로-넣어주기-779048784037)
@@ -827,6 +829,7 @@ Git
   * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
   * [pre-commit 도구로 Git Hook 사용하기 | Engineering Blog by Dale Seo](https://www.daleseo.com/pre-commit/)
   * [Why & How to Use Git Hooks in ReactJS Application ? - YouTube](https://www.youtube.com/watch?v=ZCXAyd5gcjA)
+  * [자주 쓰이는 Git 훅들 - AnyDoc](https://dev.alliknow.info/posts/2023/5/frequently-used-git-hooks)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
