@@ -379,6 +379,7 @@ Interview
   * [How to Prepare for System Design Interviews? Concepts, Practice, and Resources](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
   * [4 Steps to Prepare for System Design Interview in 2023? with Resources - DEV Community 👩💻👨💻](https://dev.to/javinpaul/4-steps-to-prepare-for-system-design-interview-in-2023with-resources-dg5)
   * [System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o)
+  * [Top 10 Free System Design Courses and Tutorials in 2023 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
