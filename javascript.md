@@ -2157,6 +2157,7 @@ Javascript
   * [Websocket Server | Nuxt 3 | Real time messages - YouTube](https://www.youtube.com/watch?v=d-LSN-xo6N4)
   * [Nuxt 3 pagination with datafetching | Fast API | Nuxt 3 - YouTube](https://www.youtube.com/watch?v=9MVQmk5u_3I)
   * [Nuxt 3 App | Server Side Firebase Auth | Meta Components Generator App - YouTube](https://www.youtube.com/watch?v=xDzbuqvg5S4)
+  * [nuxt3 server api 만들기 & env 접근 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/nuxt/nuxt3-server-api-%EB%A7%8C%EB%93%A4%EA%B8%B0-&-env-%EC%A0%91%EA%B7%BC/)
   * [devtools: Unleash Nuxt Developer Experience](https://github.com/nuxt/devtools)
     * [Introducing Nuxt DevTools · Nuxt](https://nuxt.com/blog/introducing-nuxt-devtools)
       * Nuxt가 발전하면서 추상화도 많아지기 때문에 사용하기는 편하지만, 내부를 이해하기에는 더욱 어려워지고 있는 문제를 해결하기 위해 Nuxt DevTools를 프리뷰로 공개
