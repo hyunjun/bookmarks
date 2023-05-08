@@ -1300,6 +1300,7 @@ Programming
   * [What is the difference between CDN and Cache server?](https://www.linkedin.com/pulse/what-difference-between-cdn-cache-server-larry-king/)
   * [Is it better to use Cache or CDN?](https://stackoverflow.com/questions/12916430/is-it-better-to-use-cache-or-cdn)
   * [How To Power Your App Using a Realtime Data CDN](https://medium.com/hackernoon/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3)
+  * [CDN의 개념과 사용하는 이유 - AnyDoc](https://dev.alliknow.info/posts/2023/5/what-is-cdn-and-why-use-it)
   * What You Need to Know About Caching
     * [Part 1](https://developer.akamai.com/blog/2017/03/28/need-know-caching-part-1/)
     * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
@@ -2754,6 +2755,7 @@ Programming
     * Crossplane이 Terraform의 프로바이더에서 Crossplane 프로바이더를 생성해주는 Terrajet 작성
     * 이를 이용해서 provider-jet-aws, provider-jet-azure, provider-jet-gcp를 제공함으로써(기존 프로바이더는 jet이 안붙어있다) 클라우드 서비스의 리소스를 모두 지원
 * [Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
+  * [API 키 관리하는 방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/how-can-i-manage-api-keys)
 * Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
   * [Vultr](https://docsify.sokuricat.com/b1tk3y/1843/#/921)
 
@@ -3574,6 +3576,7 @@ Programming
 * [그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html) DRM, CDM, EME
 * [서버 키 관리 시스템 - 암호화에 사용하는 키는 어떻게 관리하나](https://blog.naver.com/pjt3591oo/223058716701)
 * [Data security at Agoda: How we automate encryption key rotation | by Chaiyatorn Niamrat | Agoda Engineering & Design | Mar, 2023 | Medium](https://medium.com/agoda-engineering/data-security-at-agoda-how-we-automate-encryption-key-rotation-e7ae37ea7885)
+* [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
