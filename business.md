@@ -151,6 +151,7 @@ Business
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+* [(13) “Plans are nothing, planning is everything.”: my conclusion | LinkedIn](https://www.linkedin.com/pulse/plans-nothing-planning-everything-my-conclusion-jos%C3%A9-antonio-venegas/)
 * [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
 * [**Don't (guess)timate your projects, forecast with confidence - Reaktor**](https://www.reaktor.com/blog/forecasting-method/)
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
@@ -1198,6 +1199,7 @@ Business
 * [창의성의 여섯 가지 요소](http://ppss.kr/archives/53121)
 * [혁신이란 무엇인가?](http://ppss.kr/archives/48370)
 * [할리우드에서는 어떻게 창의적인 작가를 발굴하는가?](http://ppss.kr/archives/59169)
+* [창의성은 결과가 아니라 과정이다 (한글 번역) | Creativity Is a Process, Not an Event | JAMES CLEAR](https://blog.naver.com/bizucafe/223096363534)
 
 # CTO
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
