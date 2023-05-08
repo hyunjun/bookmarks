@@ -3063,6 +3063,7 @@ Javascript
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
   * `child_process`를 사용할 수 있지만 이는 멀티스레드가 아니라 멀티 프로세스인데 멀티스레드를 위해서는 `worker_threads` 사용 가능
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
+* [node.js의 쓰레딩 관련 오개념 - AnyDoc](https://dev.alliknow.info/posts/2023/5/wrong-undestandings-about-node-js-threading)
 * [How to Create a Multi-Threaded Node.js Library | by Mukul Dutt | Jan, 2023 | Bits and Pieces](https://blog.bitsrc.io/creating-a-multi-threaded-node-js-library-cd342c834607)
 * [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 * [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
@@ -3124,6 +3125,7 @@ Javascript
 * [Clinic.js - An Open Source Node.js performance profiling suite by NearForm](https://clinicjs.org/)
   * [Clinic.js - 오픈소스 Node.js 성능 이슈 분석도구 | GeekNews](https://news.hada.io/topic?id=4315)
 * [contra - Asynchronous flow control with a functional taste to it http://bevacqua.io](https://github.com/bevacqua/contra/)
+* [corepack, 사용해야하는 이유 - AnyDoc](https://dev.alliknow.info/posts/2023/5/why-should-you-use-corepack/)
 * [cosmicjs-node - Cosmic JS Client for Node](https://github.com/cosmicjs/cosmicjs-node)
 * [create-node-cli: 📟 CLI to create new Node.js CLI applications in minutes not hours](https://github.com/ahmadawais/create-node-cli)
 * [crypto 모듈을 사용한 암호화](https://www.zerocho.com/category/NodeJS/post/593a487c2ed1da0018cff95d)
@@ -3286,6 +3288,8 @@ Javascript
   * [Fastify Package Generator](https://fastify.github.io/pacchetto/)
   * [Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium](https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
+* [fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
+  * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
 * [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
