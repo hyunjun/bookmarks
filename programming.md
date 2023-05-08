@@ -3671,6 +3671,7 @@ Programming
 * [Data Mesh — A Data Movement and Processing Platform @ Netflix | by Netflix Technology Blog | Aug, 2022 | Netflix TechBlog](https://netflixtechblog.com/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873)
 * [What is Data Mesh?](https://www.linkedin.com/posts/arockialiborious_data-datamesh-activity-6991771820127367168-sxST/)
 * [Data Mesh Architecture](https://www.datamesh-architecture.com/)
+* [From Data Mess to Data Mesh: Navigating People, Process & Platforms • Nicki Watt • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TONOUCAkfLE)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
