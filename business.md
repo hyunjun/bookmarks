@@ -1726,6 +1726,7 @@ Business
 * [위대한 리더의 차별점과 4가지 종류의 창의성 기르기](https://brunch.co.kr/@graypool/852)
 * [내 목소리로 사람들을 이끌 수 있는 능력 | .. : 네이버블로그](https://blog.naver.com/bizucafe/223067440409)
 * [요즘 기업들이 꼽는 뛰어난 리더의 가장 큰 자질은? (이중학 가천대 교수) - 티타임즈](https://ttimes.co.kr/article/2023042815387721164)
+* [이해되지 않으면 움직이지 않는 시대.. 리더의 5단계 설득법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leaderwhy20230508) 권위 인센티브/보상 전문성/경험 감정/마음 신뢰관계를 통한 설득의 5단계 이야기
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
