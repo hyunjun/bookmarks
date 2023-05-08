@@ -623,6 +623,7 @@ iOS
   * 이때 1px만 틀려도 오류가 나기 때문에 관리가 어려운 편인데 이를 보조수단으로 사용
   * 테스트가 만든 이미지를 폴더에 저장해 두고 모든 시나리오를 일일이 해볼 필요 없이 이 결과 이미지를 QA하고 QA가 끝나면 이를 레퍼런스 이미지로 저장해서 다음 스냅샷 테스트에 사용
   * 추가로 테스트가 문서의 역할도 하기 위해 접근성 속성을 검사해서 화면에 원하는 정보가 제대로 나오는지 테스트할 수 있도록 [AXSnapshot](https://github.com/banksalad/AXSnapshot)을 만들어 사용
+* [일하고 있습니다 - iOS UI Test. 요기요 iOS XCUITest 사용기 입니다. | by Janghun Lee | May, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-ios-ui-test-61830646d091)
 
 # Tutorial
 * [왕초보를 위한 ios 앱개발](https://yagom.net/courses/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-ios-%EC%95%B1%EA%B0%9C%EB%B0%9C/)
