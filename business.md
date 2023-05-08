@@ -1237,6 +1237,7 @@ Business
 * [How I CTO • Gil Tene • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=C48-Zsen1WI) know your business
 * [CTO들의 새로운 역할은 IT 분야 직원들의 스킬을 강화하는 것](https://www.boannews.com/media/view.asp?idx=114730)
 * [Move Fast But Don't Break Things • Andy Kelk • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=fT0Y-ZVImQs)
+* [Sensible Defaults for Tech Management • Michelle Gleeson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=F-djSsljvjc) 명시적으로 CTO 이야기는 아니지만 tech management란 측면에서 여기 배치
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
