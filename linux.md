@@ -164,6 +164,7 @@ Linux
 * [CSI Sequence 커서 옮기기](https://blog.seulgi.kim/2023/03/csi-sequence-cursor.html)
 * [CSI Sequence 화면 지우기](https://blog.seulgi.kim/2023/04/csi-el-ed.html)
 * [Linux의 clear와 Mac의 clear는 다르다](https://blog.seulgi.kim/2023/04/linux-clear-mac-clear.html)
+* [웹서버에서 기본값으로 3000, 8000, 8080 같은 포트를 사용하는 이유 - AnyDoc](https://dev.alliknow.info/posts/2023/5/default-port)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -1196,6 +1197,8 @@ Linux
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
   * [i2cssh: csshX like ssh tool for iTerm2](https://github.com/wouterdebie/i2cssh)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
+* [DAMON: Data Access Monitor | hacklog](https://sjp38.github.io/ko/post/damon/)
+  * [DAMON Publications and Presentations | hacklog](https://sjp38.github.io/ko/post/damon_publications_talks/)
 * [Darling | macOS translation layer for Linux](https://www.darlinghq.org/)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * [DH Box platform](http://dhbox.org/)
