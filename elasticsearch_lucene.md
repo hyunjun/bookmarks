@@ -406,6 +406,10 @@ ElasticSearch - Lucene
 * [stack-docker - Docker Compose configuration demonstrates many components of the Elastic Stack, all running on a single machine under Docker](https://github.com/elastic/stack-docker)
   * [stack-docker - The Elastic Stack, on Docker, right now](https://github.com/YonghoChoi/stack-docker)
 
+# ECK
+* [당근마켓 검색 엔진, 쿠버네티스로 쉽게 운영하기. 안녕하세요. 당근마켓 검색 플랫폼팀 Teddy 에요. 당근마켓 검색… | by Kideok Kim | 당근마켓 테크 블로그 | May, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-bdf2688df267)
+* [Kubernetes의 Elastic Cloud 시작하기: 배포 | Elastic Blog](https://www.elastic.co/kr/blog/getting-started-with-elastic-cloud-on-kubernetes-deployment)
+
 # Elasticsearch 2.x
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
 * [Elasticsearch 1.x에서 2.x로 업그레이드할 때 알아야 할 주요 사항](https://www.elastic.co/kr/blog/key-point-to-be-aware-of-when-upgrading-from-elasticsearch-1-to-2)
