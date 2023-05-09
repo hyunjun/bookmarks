@@ -743,6 +743,7 @@ Clojure
   * ["High Performance Clojure" by Chris Nuernberger - YouTube](https://www.youtube.com/watch?v=Z6xglREtPTY)
   * ["Clojure in the Fintech Ecosystem" by Philip Cooper - YouTube](https://www.youtube.com/watch?v=kxwvsoIx9p8)
   * ["How to build a Clojure dialect" by Jeaye Wilkerson - YouTube](https://www.youtube.com/watch?v=Ysl6nrPRRUQ)
+  * ["How to transfer Clojure goodness to other languages" by Elango Cheran and Timothy Pratley - YouTube](https://www.youtube.com/watch?v=32aiLfLwDzc)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
   * [clojure/conj 2017](http://2017.clojure-conj.org/)
