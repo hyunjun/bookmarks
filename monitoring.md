@@ -178,6 +178,7 @@ Monitoring
 * [internet-monitoring: Monitor your network and internet speed with Docker & Prometheus](https://github.com/geerlingguy/internet-monitoring)
 * [Jaeger: open source, end-to-end distributed tracing](https://www.jaegertracing.io/)
   * [A beginner’s guide to Jaeger. Welcome to A beginner’s guide to Jaeger… | by Magsther | Aug, 2022 | FAUN Publication](https://faun.pub/a-beginners-guide-to-jaeger-ed75ce5ed8f4)
+  * [Jaeger Tracing: The Ultimate Guide | Aspecto | JaegerTracing](https://medium.com/jaegertracing/jaeger-tracing-a-friendly-guide-for-beginners-7b53a4a568ca)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * KubeAIOps [장애예측 및 처리 자동화 - KubeAIOps | NexCloud](https://www.kubeaiops.com/)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
