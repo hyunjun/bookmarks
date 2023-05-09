@@ -712,6 +712,9 @@ Book
   * ★★★☆☆ 2023.04.16~18
   * 한라 325-다68어ㄸ 우당 문325.04-다69ㅇ
   * [Getting More](https://gettingmore.com/)
+* [다이브 딥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313587844)
+  * ★★★☆☆ 2023.05.09 이런 책이 그렇듯 일단 반 정도는 회사의 홍보를 위한 책이라고 간주해야 한다. 쿠팡의 성취는 정말 놀랍지만, 그 이면에 있는 고객들의 불만은 잘 이야기하지 않거나 이야기를 하더라도 결국 잘 해결해서 극복했다는 스토리로 주로 사용하기 때문이다. 그럼에도 불구하고, 다른 어떤 한국 회사도 달성하지 못한 굉장한 성취를 했다는 점은 현실이다. 계획된 적자를 한국에 최초로 도입했다는 부분부터 뉴욕에 IPO를 하고 그 뒤에도 멈추지 않는 쿠팡의 질주를 한 번 되새겨보는 것 만으로도 큰 가치가 있다.
+  * 한라 325.1-박54ㄷ 탐라 문325.1-박53ㄷ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -728,8 +731,6 @@ Book
 * (NOT YET) [일터의 설계자들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309233428)
 * (NOT YET) [이노베이터 DNA(THE INNOVATOR's DNA)](https://blog.naver.com/ace/60154534527)
   * 한라 325.1-다68ㅇ 탐라 개325.211-다68ㅇ 우당 문325.1-다69ㅇ
-* (NOT YET) [다이브 딥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313587844)
-  * 한라 325.1-박54ㄷ 탐라 문325.1-박53ㄷ
 * (NOT YET) [승려와 수수께끼](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236999524)
   * 성산 HG325.211-랜229ㅅ
 * (NOT YET) [제로 투 원 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280602221&start=slayer)
