@@ -159,6 +159,7 @@ Deep Learning
   * [Trending use cases of GPT-3 by openAI | by Anjali | Eoraa & Co. | Aug, 2021 | Medium](https://medium.com/eoraa-co/trending-use-cases-of-gpt-3-by-openai-56318b6a9184)
   * [Introducing Text and Code Embeddings in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/)
   * [Solving (Some) Formal Math Olympiad Problems](https://openai.com/blog/formal-math/)
+  * [How to Build an OpenAI Powered Tool Really Quickly - YouTube](https://www.youtube.com/watch?v=mVX3Z46iYTQ)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
     * [DALL-E, 메타버스, 그리고 한계비용 제로 콘텐츠 (번역)￼ – 이바닥늬우스](https://ebadak.news/2022/07/18/dall-e-the-metaverse-and-zero-marginal-content/)
     * [I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned | Deephaven](https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/)
