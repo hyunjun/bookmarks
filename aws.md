@@ -752,6 +752,7 @@ AWS
   * [Amazon re:MARS 2022를 다녀오고. 6년 간의 뉴욕 생활을 정리하고 작년에 귀국해서 메가존클라우드에서… | by Soonmo Seong | Cloud Villains | Jul, 2022 | Medium](https://medium.com/ctc-mzc/amazon-re-mars-2022%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0-570eef90e774)
   * [Amazon re:MARS 2022 참관기 – 미래 비지니스를 향한 기술보고서 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-remars-2022-reports/)
 * AWS Summit
+  * [다시 돌아온 AWS Summit Seoul에 참여해 주셔서 감사합니다! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/thank-you-for-joining-aws-summit-seoul-2023/)
   * [피할 수 없는 클라우드 물결 (AWS Summit 2023 후기)](https://velog.io/@joosing/aws-summit-2023-recap)
   * [AWS Summit Korea 2022 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1)
   * [6탄-(요약)AWS Summit Korea-2022](https://brunch.co.kr/@topasvga/2439)
