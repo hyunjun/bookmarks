@@ -2919,6 +2919,7 @@ Programming
 * [Code Review-Review is the Manager's Job • John Barton • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=4nVZ5tEUWfA)
 * [코드 리뷰가 개발 문화에 미치는 영향 | 요즘IT](https://yozm.wishket.com/magazine/detail/1957/)
 * [비폭력 코드리뷰 | Daniel Lee](https://typefully.com/dylayed/73zASqg)
+* [코드 리뷰에 ‘켄트 벡’의 아이디어 접목하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2007/)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
