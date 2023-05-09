@@ -4436,6 +4436,7 @@ Python
   * [Document docker poetry best practices · Discussion #1879 · python-poetry/poetry](https://github.com/python-poetry/poetry/discussions/1879)
   * [setup.py 멈춰!](https://tech.buzzvil.com/blog/setup.py-%EB%A9%88%EC%B6%B0/)
   * [poetry 로 파이썬 패키지 관리하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/python/poetry/)
+  * [How to Create and Use Virtual Environments in Python With Poetry - YouTube](https://www.youtube.com/watch?v=0f3moPe_bhk)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
@@ -4949,6 +4950,7 @@ Python
 * [pandera: A light-weight, flexible, and expressive statistical data testing library](https://github.com/unionai-oss/pandera)
   * [Pandera makes it easy to validate pandas DataFrame](https://www.linkedin.com/posts/khuyen-tran-1401_datascience-python-activity-7042493506438795264-GUYs/)
   * [How to Validate Your pandas DataFrame with Pandera - YouTube](https://www.youtube.com/watch?v=CB8D7RUM-lI)
+  * [How to Use Pandas With Pandera to Validate Your Data in Python - YouTube](https://www.youtube.com/watch?v=-tU7fuUiq7w)
 * [Polars](https://www.pola.rs/)
   * [polars: Fast multi-threaded DataFrame library in Rust and Python](https://github.com/pola-rs/polars)
   * [Pypolars | What is Pypolars and How Pypolars Compares With Pandas](https://www.analyticsvidhya.com/blog/2021/02/is-pypolars-the-new-alternative-to-pandas/)
