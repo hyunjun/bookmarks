@@ -1244,6 +1244,8 @@ NLP
 * [Replit - How to train your own Large Language Models](https://blog.replit.com/llm-training)
 * [Guiding Frozen Language Models with Learned Soft Prompts – Google AI Blog](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html)
 * [An Introduction to Large Language Models: Prompt Engineering and P-Tuning | NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-introduction-to-large-language-models-prompt-engineering-and-p-tuning/)
+* [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+  * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129&fbclid=IwAR2-0-GWaInmD5507c6ZTFJYQpfpfp1k6rM7NSKjBlC8N3ZCns0-rXODOk4)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
