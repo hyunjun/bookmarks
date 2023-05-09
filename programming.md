@@ -3711,6 +3711,7 @@ Programming
 * [You can't copy code with memcpy; code is more complicated than that - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 * ["Finding bugs without running or even looking at code" by Jay Parlar - YouTube](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
   * [Alloy | MIT CSAIL](https://www.csail.mit.edu/research/alloy)
+* [Using GraphDB Technology to Resolve Transitive Vulnerabilities at Scale • Emil Wareus • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BMr7Bz8eGus)
 * [Bugs in Hello World · sunfishcode's blog](https://blog.sunfishcode.online/bugs-in-hello-world/)
 * [Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?](https://engineering.ab180.co/stories/player-unknowns-bug)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
