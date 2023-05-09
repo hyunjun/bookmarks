@@ -926,6 +926,7 @@ Git
   * [Git pull 전략 (default, --ff-only, --rebase)](https://sanghye.tistory.com/43)
   * [Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)](https://jojoldu.tistory.com/641)
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
+  * `git pull --rebase` [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
