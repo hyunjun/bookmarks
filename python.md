@@ -3979,6 +3979,7 @@ Python
   * [웹크롤러 scrapy를 소개합니다](https://jybaek.tistory.com/927)
 * [secure: Secure 🔒 headers for Python web frameworks](https://github.com/mikeckennedy/secure)
 * [secure.py — secure.py 0.3.0 documentation](https://secure.readthedocs.io/)
+* [Shiny for Python](https://shiny.rstudio.com/py/)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * SimPy
