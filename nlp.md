@@ -799,6 +799,7 @@ NLP
     * New Relic에서 OpenAI의 GPT 모델을 서비스에서 사용하는 사용자가 GPT 모델의 성능을 모니터링 할 수 있는 기능 공개
     * OpenAI의 API를 사용할 때 New Relic의 모니터링 코드를 추가하면 사용량과 모델의 응답 속도를 측정해서 비용과 성능을 모니터링 가능
   * [ChatGPT로 10분만에 ChatGPT용 크롬 익스텐션 앱 출시 - YouTube](https://www.youtube.com/watch?v=yQDKrXS6Nos)
+  * [Integrate ChatGPT into Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=O2nO1CPUEKg)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
