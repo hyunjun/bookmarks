@@ -844,6 +844,7 @@ NLP
         * 다양하게 테스트해 본 결과 API를 이용해서 꽤 괜찮은 결과를 조회하고 연관된 콘텐츠까지도 조회하는 등 ChatGPT의 이해도가 놀라웠음
   * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
     * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
+    * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
   * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   * [chatgpt_stock_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt_stock_report/tree/main)
