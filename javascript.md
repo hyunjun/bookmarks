@@ -354,6 +354,7 @@ Javascript
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
 * [SPA에서 필요한 JS 함수들 - 이상선 - Medium](https://medium.com/@sunyi233/spa%EC%97%90%EC%84%9C-%ED%95%84%EC%9A%94%ED%95%9C-js-%ED%95%A8%EC%88%98%EB%93%A4-b943e8fb165b)
 * [12. 순수 자바스크립트로 만드는 싱글페이지 만들기 - YouTube](https://www.youtube.com/watch?v=I1cmEmofSv8) SPA
+* [How Edison is helping us build a faster, more powerful Dropbox on the web - Dropbox](https://dropbox.tech/frontend/edison-webserver-a-faster-more-powerful-dropbox-on-the-web)
 * [The 4 Layers of Single Page Applications You Need to Know](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
@@ -2126,6 +2127,7 @@ Javascript
   * [Nest.js - applyDecorators : 네이버 블로그](https://blog.naver.com/gi_balja/223067217503)
   * [Nest.js - 회원가입과 로그인 구현하기 : 네이버 블로그](https://blog.naver.com/gi_balja/223069730719)
   * [Nest.js - Interceptor : 네이버 블로그](https://blog.naver.com/gi_balja/223076120106)
+  * [Nest.js - 관계형 데이터 모델링 : 네이버 블로그](https://blog.naver.com/gi_balja/223085138550)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
