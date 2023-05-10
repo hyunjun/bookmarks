@@ -478,6 +478,7 @@ Book
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 * (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
+* (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
