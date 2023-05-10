@@ -1165,6 +1165,7 @@ Javascript
   * [JavaScript Visualized: Promises & Async/Await | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943)
   * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
   * [자바스크립트의 비동기 처리 패턴 - 콜백(callback), 프로미스(promise)](https://devkingdom.tistory.com/218)
+  * [Callbacks vs Promises in JavaScript — Makimo – Consultancy & Software Development Services](https://makimo.pl/blog/callbacks-vs-promises-in-javascript/)
   * [Javascript의 Promise를 알아보자 #ES6](https://developer88.tistory.com/373)
   * [async 와 await 로 작성하는 읽기쉬운 비동기코드](https://developer88.tistory.com/381)
   * [JavaScript Callbacks, Promises, and Async / Await Explained - YouTube](https://www.youtube.com/watch?v=JRNToFh3hxU)
