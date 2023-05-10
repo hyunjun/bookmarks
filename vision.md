@@ -344,6 +344,8 @@ Vision
 * [A new, unique AI dataset for animating amateur drawings](https://ai.facebook.com/blog/ai-dataset-animating-kids-drawings/)
 * [donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 * [fight_detection: Real time Fight Detection Based on 2D Pose Estimation and RNN Action Recognition](https://github.com/imsoo/fight_detection)
+* [ImageBind: Holistic AI learning across six modalities](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)
+  * [Meta open-sources multisensory AI model that combines six types of data - The Verge](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
 * [Painter & SegGPT Series: Vision Foundation Models from BAAI](https://github.com/baaivision/Painter) SegGPT: Segmenting Everything In Context
 * [segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model](https://github.com/facebookresearch/segment-anything)
   * [Introducing Segment Anything: Working toward the first foundation model for image segmentation](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)
