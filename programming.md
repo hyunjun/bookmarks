@@ -5413,6 +5413,7 @@ Programming
 * [Guns, Lots of Guns: There Is No Silver Bullet • Lars Kruse • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7IB2cN1iI4A)
 * [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [Improving Software Flow • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=XMyt5S8limQ)
+* [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
