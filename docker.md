@@ -1988,6 +1988,7 @@ Docker
 * [kwok: Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters](https://github.com/kubernetes-sigs/kwok) Kubernetes 클러스터를 시뮬레이팅 해주는 툴킷
 * [Kyverno](https://kyverno.io/)
   * [Best practices and lessons learnt from running Kyverno in production kubernetes | by amitagarwal | Feb, 2022 | Medium](https://amit-agarwal.medium.com/best-practices-and-lessons-learnt-from-running-kyverno-in-production-kubernetes-cd1bbecd2305)
+    * [How to Generate Kyverno Admission Controller Policies with KubeArmor®](https://www.accuknox.com/blog/kyverno-admission-controller-policies-kubearmor)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
   * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
 * Linkerd [The world's lightest, fastest service mesh. | Linkerd](https://linkerd.io/)
