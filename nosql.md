@@ -156,6 +156,7 @@ NoSQL
 * [무신사 서비스에 적합한 NoSQL 도입 여정 — 1편. AWS DocumentDB에서 Couchbase로 마이그레이션 하기 | by MUSINSA tech | MUSINSA tech | Aug, 2021 | Medium](https://medium.com/musinsa-tech/database-6d1052ca6b36)
 * [무신사 서비스에 적합한 NoSQL 도입 여정 — 2편. 최적의 Couchbase 운영 프로세스 수립하기 | by MUSINSA tech | MUSINSA tech | Aug, 2021 | Medium](https://medium.com/musinsa-tech/%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-nosql-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-2%ED%8E%B8-3f2f390ed718)
 * [달리는 인증 서비스의 NoSQL을 바꾸자. - 전략편](https://dev.gmarket.com/77)
+* [달리는 인증 서비스의 NoSQL을 바꾸자. - 실전편](https://dev.gmarket.com/78)
 
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
