@@ -962,6 +962,7 @@ Interview
 * [잘 쓴 자기소개서는 뭘까 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243844)
 * [How to Increase Your Chances of Getting a Job | by Valentin Podkamennyi | Medium](https://vpodk.medium.com/how-to-increase-your-chances-of-getting-a-job-254c97c3b448)
 * [How to Write a Cover Letter in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-cover-letter-guide)
+* [커버 레터 Cover Letter – 조성문의 블로그](https://sungmooncho.com/2023/05/09/cover-letter/)
 * [Resumes are dangerous](https://blog.alexmaccaw.com/resumes-are-dangerous/)
 * [5 Steps To Build A Great Developer Portfolio | How to Build a Great Developer Resume - YouTube](https://www.youtube.com/watch?v=xG1KPuKpLE4)
 * [The resume that got me into FAANG (ft. dark theme) - YouTube](https://www.youtube.com/watch?v=kCgn-7NBPSs)
