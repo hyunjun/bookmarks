@@ -178,6 +178,7 @@ Flutter
 * [옵저버블 플러터: gRPC :: ChatGPT 정리](https://banjubu.tistory.com/427)
 * [Stripe Payment Gateway In Flutter 2023 - YouTube](https://www.youtube.com/watch?v=1v-kUU0Vjq4)
 * [플러터가 다른 크로스 플랫폼보다 더 강력한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1994/)
+* [flutter 화살표 다이얼로그 — 민트소프트](https://blog.mint-soft.com/32)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
