@@ -2920,6 +2920,7 @@ Programming
 * [코드 리뷰가 개발 문화에 미치는 영향 | 요즘IT](https://yozm.wishket.com/magazine/detail/1957/)
 * [비폭력 코드리뷰 | Daniel Lee](https://typefully.com/dylayed/73zASqg)
 * [코드 리뷰에 ‘켄트 벡’의 아이디어 접목하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2007/)
+* [지속가능한 코드리뷰 문화를 만드는 여정 – 화해 블로그 | 기술 블로그](https://blog.hwahae.co.kr/all/tech/12534)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -3714,6 +3715,7 @@ Programming
 * [Using GraphDB Technology to Resolve Transitive Vulnerabilities at Scale • Emil Wareus • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BMr7Bz8eGus)
 * [Bugs in Hello World · sunfishcode's blog](https://blog.sunfishcode.online/bugs-in-hello-world/)
 * [Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?](https://engineering.ab180.co/stories/player-unknowns-bug)
+* [Causal profiling – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4454)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
