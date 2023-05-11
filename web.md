@@ -1790,6 +1790,7 @@ Web
 * [WebAssembly: Open to Interpretation - YouTube](https://www.youtube.com/watch?v=RHJEwkAbhr4)
 * [Wasmer Things: An Upside-Down Guide to WebAssembly by Edoardo Vacchi - YouTube](https://www.youtube.com/watch?v=GAbeovldGCs)
 * [a world to win: webassembly for the rest of us -- wingolog](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
+* [WebAssembly: A new development paradigm for the web - YouTube](https://www.youtube.com/watch?v=RcHER-3gFXI)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
