@@ -800,6 +800,7 @@ NLP
     * OpenAI의 API를 사용할 때 New Relic의 모니터링 코드를 추가하면 사용량과 모델의 응답 속도를 측정해서 비용과 성능을 모니터링 가능
   * [ChatGPT로 10분만에 ChatGPT용 크롬 익스텐션 앱 출시 - YouTube](https://www.youtube.com/watch?v=yQDKrXS6Nos)
   * [Integrate ChatGPT into Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=O2nO1CPUEKg)
+  * [이태영 - ChatGPT Service Architecture 제가 작성한 아키텍처는 세 가지 주요 구성 요소로... | Facebook](https://www.facebook.com/tylee8033/posts/pfbid0BwDuY3U2VWWvTDK7JsA1vrmdAsrnaxZxm9nW2W9yY1KLwtXpFz88sd2PLXnPpj3Jl)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
