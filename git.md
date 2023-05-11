@@ -222,6 +222,7 @@ Git
 * [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (1/2) | by 김희철 | 레몬베이스 (Lemonbase) | Sep, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1-2-5ed659956e3f)
 * [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (2/2) | by Noah | 레몬베이스 (Lemonbase) | Nov, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2-2-5c2daff6645c) EKS ArgoCD Helm
 * [Bare-Metal Chronicles: Tinkerbell, Cluster API & GitOps • Katie Gamanji • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PHrUSpEydRM)
+* [깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서 | 요즘IT](https://yozm.wishket.com/magazine/detail/2010/)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
