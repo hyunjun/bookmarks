@@ -1670,6 +1670,7 @@ Docker
 * [Kubernetes 환경에서 Segmentation Fault 트러블슈팅하기 (Feat. Fluent Bit Contribution) | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/05/02/troubleshooting-fluent-bit-segmentation-fault.html)
 * [Kubernetes in 2 Hours (All Practical) - YouTube](https://www.youtube.com/watch?v=D-F67zHsnbs)
 * [Talking to Kubernetes with Rust - YouTube](https://www.youtube.com/watch?v=NPCq_3xjI5s)
+* [5-How to set up 3 node kubernetes cluster - 1 | Kubernetes Hands On (English) - YouTube](https://www.youtube.com/watch?v=EVaYVWdTDy0)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
