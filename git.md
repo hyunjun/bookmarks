@@ -308,6 +308,7 @@ Git
     * 보안에도 좋으며
     * 빅뱅 마이그레이션이 사라짐
   * 비슷한 업그레이드가 Ruby에도 적용하고 있어서 Ruby 3.2때는 한 달 만에 업그레이드했지만 3.2.1을 당일날 업그레이드
+* [git과 ssh/https의 관계 - AnyDoc](https://dev.alliknow.info/posts/2023/5/relation-of-git-ssh-and-https)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
