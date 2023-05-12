@@ -51,20 +51,6 @@ Business
   * 감정 소모 & 활력 고갈, 무능감, 냉소, 비인격화/심리적 무감각
   * [2022년 테크 업계 번아웃 실태 보고 (번역글) | GeekNews](https://news.hada.io/topic?id=6407)
 * [How to know when to stop - by Andy Johns](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop) burnout, balance in life
-* [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
-  * GitLab의 CEO인 Sid Sijbrandij가 팀이 번아웃에 빠지지 않도록 매니저가 지원할 수 있는 12가지 전략 정리
-    * 휴식 장려: 반차도 도움이 되고 다음 휴가가 언제인지 물어보고 계획 세우도록 하기.
-    * 압박 낮추기: 번아웃이 다가왔다고 느끼면 목표나 OKR에 압박을 낮추고 목표도 덜 자주 물어본다.
-    * 더 긍정적으로 되기: 관리자가 스트레스의 원인이 될 수 있으므로 팀원에 대해 더 긍정적으로 되도록 해야 한다.
-    * 팀원 늘리기: 적은 수가 많은 일을 하고 있으므로 인원을 늘리는 걸 고려해 보고 다른 팀에서 빌려오는 임시적인 방법도 가능하다.
-    * 코칭 제안하기: 외부 코칭이 팀원을 도와줄 수 있다.
-    * 멘탈케어 프로그램이 있다는 걸 알려주기: GitLab에는 모든 직원을 위해 멘탈케어 프로그램을 제공한다.
-    * 감사 표현하기: 감사의 의미로 집에 선물을 보내준다.
-    * 진척 사항 축하하기: 번아웃은 종종 정체감 때문에 발생하고 매니저가 매일 진행되는 진척 사항을 파악하기는 쉽지 않다.
-    * 공감하기: 일은 힘들므로 이에 관해 대화해라.
-    * 솔선수범해라: 매니저가 일하는 시간을 정해놓고 유지해야 한다.
-    * 노력을 줄이는 데 동의해서 일하는 시간을 줄인다: 팀원이 실패할 것으로 보이는 일을 구분하도록 매니저가 요청할 수 있다.
-    * 번아웃 문제를 다른 사람과 공유
 * [내가 구글을 떠난 이유: 균형 (번역) – 이바닥늬우스](https://ebadak.news/2022/05/15/scottkennedy-balance/)
   * 구글에서 일하던 스캇 케네디라는 사람이 Replit이라는 스타트업으로 이직한 회고를 번역한 글
   * 2011년 구글에 합류해서 너무 좋았고 재정 상태도 좋아졌지만, 시간이 지나면서 인생의 균형이 깨졌다는 것을 깨달음
@@ -452,7 +438,6 @@ Business
 * [일잘 + 일못 = 일못, 프로세스의 필요성](https://www.facebook.com/hyeonjoon.yeo/posts/pfbid024abcvMsdRBnz7U8CwZmXDVvTQsicZMsZXSF3p1KUCc9vUabQFP1HcvWUMQ6UTEcHl)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
-* [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
 * [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
 * [휴스턴 농구에는 왜 센터가 없을까](https://brunch.co.kr/@lunarshore/382) 패러다임 시프트
 * [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
@@ -1419,34 +1404,6 @@ Business
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 * [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
 * [조직의 동의를 얻는 법](http://www.andrewahn.co/product/getting-to-an-yes)
-* [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
-* [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
-* [**초보 개발 팀장의 1년 회고: 좋은 팀장이 되기 위한 노력들 | ㅍㅍㅅㅅ**](https://ppss.kr/archives/220080)
-* [개발팀과 개발팀장이 사라져야 하는 이유](https://seokjun.kim/no-reason-for-dev-team/) 대체로 동의
-* [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아 :: Channy's Blog](http://channy.creation.net/blog/1399)
-* [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
-* [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
-* [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
-* [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
-* [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
-* [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
-* [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
-* [Engineering Manager's Responsibilities + Free templates | Fellow.app](https://fellow.app/blog/management/engineering-managers-key-responsibilities-free-templates/)
-* [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
-* [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
-* [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
-* [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
-* [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
-* [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
-* [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
-  * 효율적인 관리를 위한 휴리스틱들
-    1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
-    10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
-* [Middle management: A precious but wasted resource | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/stop-wasting-your-most-precious-resource-middle-managers)
-* [Why It’s Easier to Manage 4 People Than It Is to Manage 1 Person | Stay SaaSy](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
-* [팀장이 된다는 것](https://www.folin.co/book/1063)
-* [“처음으로 팀장이 됩니다” 좋은 팀장은 어떻게 해야 하나요? – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/163797)
-* [Ep.20 우리팀에선 언제 매니저/팀장 채용을 해야할까? - YouTube](https://www.youtube.com/watch?v=vXH2cmjsxb0)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
@@ -1569,7 +1526,6 @@ Business
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
-* [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [토스 팀이 남들보다 3만 시간 덜 일하고 더 잘 나가는 방법](https://events.eoeoeo.net/magazines/50) 큰 일을 하기 위해 작은 일부터 신뢰 구축
 * [토스에서의 시간을 돌아보며 | Evans Library](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
   * Toss에서 프론트엔드 리더(명확히 얘기하진 않지만, 글의 내용으로 봤을 때)로 일하고 나서의 경험
@@ -1626,8 +1582,6 @@ Business
 * [혼돈의 시대 리더의 탄생 : 역경을 극복한 사람만이 리더가 된다](https://drive.google.com/file/d/1L4pKXZnvwmgUjO7ZfncdQ_kD1hHHxKXS/view?usp=sharing)
 * [내가 틀렸네요](https://jojoldu.tistory.com/658) 꼭 leadership에만 해당하는 내용이 아니라 전반적인 태도
 * [How am I Driving?](https://brunch.co.kr/@ckoopark/31) 미국에서 차량 뒤에 붙이는 "내가 운전을 잘 하고 있습니까?" -> How am I leading?
-* [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
-  * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
 * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leader20210325)
   * [아마존, 구글, 애플이 말하는 '리더의 조건' - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://drive.google.com/file/d/1DTzYBO2xDwG2P2UxfcoDdW1Lcb0-HcrC/view?usp=sharing)
 * [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
@@ -1733,6 +1687,52 @@ Business
 * [이해되지 않으면 움직이지 않는 시대.. 리더의 5단계 설득법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leaderwhy20230508) 권위 인센티브/보상 전문성/경험 감정/마음 신뢰관계를 통한 설득의 5단계 이야기
 
 # Manager Management
+* [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
+  * GitLab의 CEO인 Sid Sijbrandij가 팀이 번아웃에 빠지지 않도록 매니저가 지원할 수 있는 12가지 전략 정리
+    * 휴식 장려: 반차도 도움이 되고 다음 휴가가 언제인지 물어보고 계획 세우도록 하기.
+    * 압박 낮추기: 번아웃이 다가왔다고 느끼면 목표나 OKR에 압박을 낮추고 목표도 덜 자주 물어본다.
+    * 더 긍정적으로 되기: 관리자가 스트레스의 원인이 될 수 있으므로 팀원에 대해 더 긍정적으로 되도록 해야 한다.
+    * 팀원 늘리기: 적은 수가 많은 일을 하고 있으므로 인원을 늘리는 걸 고려해 보고 다른 팀에서 빌려오는 임시적인 방법도 가능하다.
+    * 코칭 제안하기: 외부 코칭이 팀원을 도와줄 수 있다.
+    * 멘탈케어 프로그램이 있다는 걸 알려주기: GitLab에는 모든 직원을 위해 멘탈케어 프로그램을 제공한다.
+    * 감사 표현하기: 감사의 의미로 집에 선물을 보내준다.
+    * 진척 사항 축하하기: 번아웃은 종종 정체감 때문에 발생하고 매니저가 매일 진행되는 진척 사항을 파악하기는 쉽지 않다.
+    * 공감하기: 일은 힘들므로 이에 관해 대화해라.
+    * 솔선수범해라: 매니저가 일하는 시간을 정해놓고 유지해야 한다.
+    * 노력을 줄이는 데 동의해서 일하는 시간을 줄인다: 팀원이 실패할 것으로 보이는 일을 구분하도록 매니저가 요청할 수 있다.
+    * 번아웃 문제를 다른 사람과 공유
+* [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
+* [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
+* [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
+* [**초보 개발 팀장의 1년 회고: 좋은 팀장이 되기 위한 노력들 | ㅍㅍㅅㅅ**](https://ppss.kr/archives/220080)
+* [개발팀과 개발팀장이 사라져야 하는 이유](https://seokjun.kim/no-reason-for-dev-team/) 대체로 동의
+* [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아 :: Channy's Blog](http://channy.creation.net/blog/1399)
+* [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
+* [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
+* [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
+* [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
+* [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
+* [Becoming a Great Engineering Manager is Hard](https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager/)
+* [Becoming a Great Engineering Manager is Hard - YouTube](https://www.youtube.com/watch?v=OA6TLUtBlks)
+* [Engineering Manager's Responsibilities + Free templates | Fellow.app](https://fellow.app/blog/management/engineering-managers-key-responsibilities-free-templates/)
+* [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
+* [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
+* [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
+* [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
+* [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
+* [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
+* [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
+  * 효율적인 관리를 위한 휴리스틱들
+    1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
+    10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
+* [Middle management: A precious but wasted resource | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/stop-wasting-your-most-precious-resource-middle-managers)
+* [Why It’s Easier to Manage 4 People Than It Is to Manage 1 Person | Stay SaaSy](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
+* [팀장이 된다는 것](https://www.folin.co/book/1063)
+* [“처음으로 팀장이 됩니다” 좋은 팀장은 어떻게 해야 하나요? – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/163797)
+* [Ep.20 우리팀에선 언제 매니저/팀장 채용을 해야할까? - YouTube](https://www.youtube.com/watch?v=vXH2cmjsxb0)
+* [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
+* [IT부서원들이 따르는 관리자 되는 법 - CIO Korea](https://www.ciokorea.com/news/22615)
+  * [IT부서원들이 따르는 관리자 되는 법](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-how_to_make_yourself_a_better_manager-md)
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
 * [좋은 매니저는 누구인가](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6281688150)
 * [초짜 매니저 가이드 – Andrew Ahn](https://www.andrewahn.co/silicon-valley/first-time-manager-guide/)
@@ -1764,6 +1764,7 @@ Business
 * [A Guide To Managing Technical Teams • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=urghSC21Mx0)
 * [조직과 삶을 효과적으로 관리 하기 위한 방법: 파킨슨의 3가지 법칙](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EC%A7%81%EA%B3%BC-%EC%82%B6%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%ED%8C%8C%ED%82%A8%EC%8A%A8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B2%95%EC%B9%99-1-%EA%B0%84%ED%98%B9-activity-7052798656927715328-3M89/)
 * [프로젝트 진행 계획표, 왜 필요하고 어떻게 작성해야 할까? | 웹으로 말하기](https://mytory.net/archives/14075)
+* [Managers are from Mars, Developers are from Venus by Ted Neward - YouTube](https://www.youtube.com/watch?v=iORx119qrWE)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
