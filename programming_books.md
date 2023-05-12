@@ -3225,6 +3225,7 @@ Programming Books
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
   * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
   * [프로덕트 리더십이 중요한 이유](https://brunch.co.kr/@graypool/946)
+  * [프로덕트 매니저의 가장 어려운 역할](https://brunch.co.kr/@graypool/959) `프로덕트 매니저의 가장 어려운 역할은 시간, 비용, 에너지를 소비할 대상을 결정하는 것이다`
 * (NOT YET) [유저 프렌들리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300340786)
   * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
 
