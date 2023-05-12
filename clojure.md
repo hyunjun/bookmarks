@@ -690,6 +690,7 @@ Clojure
     * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
     * [The Re-frame Guide](https://purelyfunctional.tv/guide/re-frame-building-blocks/)
     * [ClojureScript Web App Tutorial Using Re-Frame and Http-Fx - YouTube](https://www.youtube.com/watch?v=yVb8PS6a4Mk)
+    * ["Growing Data Center networking mgmt UI using ClojureScript, Reagent and re-frame" by Kirill Ishanov - YouTube](https://www.youtube.com/watch?v=pTyYH5t1fFo)
     * [re-frame-10x - A debugging dashboard for re-frame. Comes with free x-ray glasses. (Previously known as re-frame-trace)](https://github.com/Day8/re-frame-10x)
     * [re-frame-debux](https://github.com/Day8/re-frame-debux)
     * [re-frame-flow: Graph based visualization tool for Re-frame event chains](https://github.com/ertugrulcetin/re-frame-flow)
