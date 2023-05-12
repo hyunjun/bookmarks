@@ -5520,6 +5520,7 @@ Programming
 * [CPaaS QA가 하는 일 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/11/01/What-CPaaS-QA-does.html)
 * [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
 * [QA Roadmap: Learn to become a modern QA engineer](https://roadmap.sh/qa)
+* [A day in the life of a Quality Engineer (QE) - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=VEneH07itYk)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
