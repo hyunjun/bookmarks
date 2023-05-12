@@ -653,6 +653,7 @@ AWS
 * [Part 3. CloudFront를 이용하여 빠르고 안전하게 웹 서비스 제공하기 - YouTube](https://www.youtube.com/watch?v=FouxlsYkvPo)
 * [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 1부 : 표준 로그 기반 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-1/)
 * [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 2부 : 실시간 로그 기반 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-2/)
+* [프로덕션 트래픽을 사용하여 Amazon CloudFront의 CloudFront 함수 테스트하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/writing-and-testing-cloudfront-functions-with-production-traffic/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
