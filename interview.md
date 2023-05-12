@@ -466,6 +466,11 @@ Interview
     * [System Design Basics: Rate Limiter | by Abhinav Singh | Geek Culture | Medium](https://medium.com/geekculture/system-design-basics-rate-limiter-351c09a57d14)
     * [Implementing a sliding log rate limiter with Redis and Golang](https://morioh.com/p/193f065fad2d)
     * [Rate Limiting Algorithm | codersite](https://codersite.dev/rate-limit/)
+  * Search Engine
+    * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
+    * [System Design Interview: Search Engine](https://www.hackpack.io/problems/search-engine)
+    * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
+    * [Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - YouTube](https://www.youtube.com/watch?v=0LTXCcVRQi0)
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
@@ -556,9 +561,6 @@ Interview
   * [아마존 AI 알렉사는 어떻게 인간의 언어를 이해할까](http://clomag.co.kr/article/3103)
   * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
   * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
-  * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
-  * [System Design Interview: Search Engine](https://www.hackpack.io/problems/search-engine)
-  * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
   * [인터뷰 : 시스템 / API 디자인](https://ko.programqa.com/question/14061381/)
   * [Notification Service System Design Interview Question to handle Billions of users & Notifications - YouTube](https://www.youtube.com/watch?v=CUwt9_l0DOg)
   * [System Design Using Bloom Filter | What is Bloom Filter | Data Structure - YouTube](https://www.youtube.com/watch?v=hFMuWNscjyI)
