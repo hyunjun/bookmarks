@@ -777,6 +777,7 @@ Java
 * [Vavr’s flatMap in action](https://blog.softwaremill.com/vavrs-flatmap-in-action-a975a99c4319)
 * [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
 * [Java에서의 패턴 일치 – 바쁜 개발자를 위한 5가지 예시 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/04/pattern-matching-in-java-5-examples-for-busy-developers/)
+* [The Art of Java Language Pattern Matching by Simon Ritter - YouTube](https://www.youtube.com/watch?v=-iWQXvKNbFE)
 * [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
 * [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 * [Java 8 - Map and Reduce Example Tutorial | Java67](https://www.java67.com/2016/09/map-reduce-example-java8.html)
@@ -1134,6 +1135,7 @@ Java
   * [Prototype Loom-based concurrency API for Scala](https://softwaremill.com/prototype-loom-based-concurrency-api-for-scala/)
   * [Game of Loom: implementation patterns ... playing with virtual threads by Mario Fusco - YouTube](https://www.youtube.com/watch?v=70aNTos4Lrc)
   * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
+  * [Prepare for what "Loom"s ahead by Dr. Heinz Kabutz - YouTube](https://www.youtube.com/watch?v=kb_cLmMAff4)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
