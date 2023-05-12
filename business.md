@@ -579,6 +579,7 @@ Business
 * [칼럼 중국게임들의 고퀄리티, 높은 노동강도에서 나오는 것 아니다 : Global No.1 Game Media 게임포커스](http://gamefocus.co.kr/detail_m.php?number=105222)
 * [한중일 출신이 구글에서 더 올라가지 못하는 3가지 이유 - YouTube](https://www.youtube.com/watch?v=BgaWOzvH49A)
 * [**스타트업이 시니어를 잘 활용하려면**](https://brunch.co.kr/@say2lee/33) 매우 맞는 이야기
+* [커리어노트 101 주니어, 시니어, 리더의 차이](https://blog.naver.com/junedec369/223089069865)
 * [순항 중인 사업 뒤집기와 리팩토링](https://brunch.co.kr/@graypool/107)
 * [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
   * [1인 유니콘 기업의 등장 | GeekNews](https://news.hada.io/topic?id=4834)
