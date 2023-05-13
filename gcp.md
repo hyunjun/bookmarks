@@ -57,6 +57,7 @@ Google Cloud Platform GCP
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 3편 - 데이터 스튜디오를 사용하여 대시보드 구성하기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-3/)
 * [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
 * [정신 차려보니 구글 해커톤 1등이 되어있었다.- Part 1](https://blog.payhere.in/tech-230427/)
+* [정신 차려보니 구글 해커톤 1등이 되어있었다.- Part 2](https://blog.payhere.in/tech-230512/)
 * [**BigQuery연습.ipynb at main · serithemage/DataScienctPractice**](https://github.com/serithemage/DataScienctPractice/blob/main/BigQuery%EC%97%B0%EC%8A%B5.ipynb)
 * [Using WITH RECURSIVE in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/using-with-recursive-in-bigquery-sql-e593325f33f)
 * [How to use the Qualify Function in BigQuery SQL | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/how-to-use-the-qualify-function-in-bigquery-sql-e0979cabb9a6)
