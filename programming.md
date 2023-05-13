@@ -2316,6 +2316,7 @@ Programming
       * 기존 Istio 사이드카 아키텍처에서는 클라이언트 프락시에 트래픽 정책이 있고 서버 쪽 프락시에 보안 정책이 있어서 확장성이나 디버깅 등에 어려움 존재
       * Waypoint 프락시는 서버 쪽에만 모든 정책이 적용되고 네임스페이스나 서비스 계정 단위로 관리할 수 있게 되었고 애플리케이션과 독립적이기 때문에 확장, 운영이 쉽고 사이드카가 없어서 리소스 측면에서도 절약
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
+  * [Istio as a Platform for Running Microservices - YouTube](https://www.youtube.com/watch?v=5llsJLJmZsg)
   * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
     * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
       * Istio의 ambient mesh를 위한 ztunnel(zero trust tunnel) 컴포넌트는 HTTP 트래픽을 종료하거나 헤더를 파싱하지 않고 mTLS, 인증, L4 인가, 텔레메트리를 위한 기능을 가지고 있으며 Kubernetes 워커 노드에서 실행되어 최소한의 리소스 풋 프린트를 남기는 것이 중요
