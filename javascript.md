@@ -3089,6 +3089,7 @@ Javascript
   * Horizontal Scaling - 여러 호스트에서 job multiple processor를 지원하는지
   * 중복 실행 방지 - 다중 프로세스, 다중 스레드에서 실행하더라도 하나만 실행되는지
 * [7 Node JS Best Practices  -  2023 you should be aware of before starting your project. | Medium](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)
+* [Node.js url.parse() 취약점 컨트리뷰션](https://toss.tech/article/nodejs-security-contribution)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4148,6 +4149,8 @@ Javascript
 * [Mobile Convergence :: MS-9 Login 화면 개발](https://mobicon.tistory.com/592)
 * [Mobile Convergence :: MS-10 API/Web i18n 적용 및 리팩토링](https://mobicon.tistory.com/594)
 * [Mobile Convergence :: MS-11 i18n 외부파일 위치 변경 및 Web Dev Server 연결](https://mobicon.tistory.com/595)
+* [Mobile Convergence :: MS-12 NodeJS, React, AntD, Nx v16 업데이트 하기](https://mobicon.tistory.com/598)
+* [Mobile Convergence :: MS-13 Module Federation 개념 및 NX기반 환경 설정](https://mobicon.tistory.com/599)
 * [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
 * [React Derived State 다시 보기 | Dev Log](https://reactiver.dev/review-react-derived-state/)
 * [React VAC Pattern - View 로직과 JSX의 의존성을 최소화 하자!](https://d2.naver.com/news/0568192)
