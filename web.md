@@ -435,6 +435,7 @@ Web
   * 컨테이너 쿼리는 `container-type`이나 `container`로 `card`나 `inline-size`를 지정해야 하고
     * 미디어쿼리를 사용하듯이 부모 요소의 스타일 정보를 알 수 있게 되므로 재사용할 수 있는 컴포넌트에서 유용
   * 사이트에서 컨테이너 쿼리를 사용하는 예시를 제공하므로 직접 사용 가능
+* [Browsers are the new containers! by Dan Erez - YouTube](https://www.youtube.com/watch?v=uR7Onn2KJoQ)
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
