@@ -2095,6 +2095,7 @@ AWS
 * [Terraform Cloud no-code provisioning is now GA with new features](https://www.hashicorp.com/blog/terraform-cloud-no-code-provisioning-is-now-ga-with-new-features)
   * Terraform Cloud Business에서 사용할 수 있는 No-code 프로비저닝이 GA
   * Terraform으로 프로비저닝 하려면 HCL을 사용해야 하는데 모듈을 제공하면 HCL을 사용하지 못해도 프로비저닝 할 수 있는 워크플로우를 지원 가능
+* [Empowering Teams with Terraform and OPA:Best Practices for Secure Infrastructure as Code Tsoumas Dio - YouTube](https://www.youtube.com/watch?v=0-RkQ7p4lH0)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
