@@ -1526,6 +1526,7 @@ Java
   * [Techniques for Maintainable Quarkus Applications - YouTube](https://www.youtube.com/watch?v=j1oRrDstW9A)
   * [Kubernetes Native Java with Quarkus](https://www.infoq.com/articles/native-java-quarkus/)
   * [Battle of the frameworks : Quarkus vs SpringBoot by Giorgos Andrianakis & Christos Sotiriou - YouTube](https://www.youtube.com/watch?v=Cq_YiZQRh9E)
+  * [Developing a stream processing application with Apache Kafka and Quarkus by Ozan Gulp & Escoffier - YouTube](https://www.youtube.com/watch?v=0LKxoo3_VI4)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
