@@ -1696,6 +1696,7 @@ Programming
     * 25년이 지난 지금 놀라운 얘기는 아니지만, 당시에 저렇게 생각했다는 게 놀라움
     * 이를 위해 서비스 기반 아키텍처(SOA)로 바꾸고 아마존은 메시지 기반 워크플로 모델이 적합하며 이 워크플로 진행 중 상태 변경을 위해 Pub/Sub 모델을 사용해야 한다고 작성
 * [How to manage transactions in Distributed Systems and Microservices? | by Soma | Javarevisited | Mar, 2023 | Medium](https://medium.com/javarevisited/how-to-manage-transactions-in-distributed-systems-and-microservices-d66ff26b405e)
+* [Distributed patterns compared: Frameworks vs. K8s vs. Service Mesh vs. eBPF by Matthias Haeussler - YouTube](https://www.youtube.com/watch?v=QpU_qHN4MWo)
 * [The AT Protocol - Bluesky](https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol)
   * 트위터를 만든 Jack Dorsey의 Bluesky 팀에서 기존에 발표했던 ADX를 AT 프로토콜(Authenticated Transfer Protocol)로 이름 변경
   * AT 프로토콜은 federated 소셜 네트워크로 최신 분산 기술을 공개 네트워크로 통합한 것
@@ -1879,6 +1880,7 @@ Programming
   * [MSA 환경에서 장애 전파를 막기 위한 서킷 브레이커 패턴](https://hudi.blog/circuit-breaker-pattern/)
 * [Will circuit breakers solve my problems? - Marc's Blog](https://brooker.co.za/blog/2022/02/16/circuit-breakers.html)
 * [Python 기반 대규모 마이크로 서비스에서 Circuit Breaker 도입의 여정 | by Edward J. Yoon | Mar, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-circuit-breaker-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-b694d83cbf48)
+* [Fault Handling with retry and circuit breaker design patterns by Devlin Duldulao - YouTube](https://www.youtube.com/watch?v=Uxncuk-vocI)
 * [API를 프록시해 보기 | NHN FORWARD](https://forward.nhn.com/2021/sessions/9)
 * [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
