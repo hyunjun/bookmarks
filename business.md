@@ -1984,6 +1984,7 @@ Business
 * [퍼널은 줄일수록 좋은걸까?. 전환율 증진을 위해 퍼널 개수는 적을수록 좋다던데… | by Stephan Seunghwan Seo | DelightRoom | Mar, 2023 | Medium](https://medium.com/delightroom/%ED%8D%BC%EB%84%90%EC%9D%80-%EC%A4%84%EC%9D%BC%EC%88%98%EB%A1%9D-%EC%A2%8B%EC%9D%80%EA%B1%B8%EA%B9%8C-652280c76e2d)
 * [6시간 동안 단체로 해외 콘퍼런스 참여하기: 프로덕트콘 같이 보기 이벤트 - ProductCon London 2023 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/event-watch-productcon-london2023/)
 * [개발 라이프 사이클 (Development Life Cycle) | Dev.Inn](https://devinn.dev/blog/detail.html?id=302)
+* [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -2516,6 +2517,7 @@ Business
 * [B2B 프로덕트 디자이너가 고객을 만나는 법(2/2). 2편에서는 3. 리서치의 필요성에 대해 구성원들을 설득하는 방법과 4… | by Redi | Apr, 2023 | 레몬베이스 팀블로그](https://teamblog.lemonbase.com/b2b-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8A%94-%EB%B2%95-2-2-d4dfeae0e8c1)
 * [첫 UX writer는 무슨 일을 해야 할까](https://toss.tech/article/1st_uxwriter)
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
+* [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
