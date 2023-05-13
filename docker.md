@@ -2040,22 +2040,6 @@ Docker
     * Prow는 Kubernetes 뿐 아니라 많은 CNCF 프로젝트가 사용하고 있는 CI/CD 도구, GitHub의 이벤트와 잘 연동
     * . /command 형식의 댓글로 리뷰를 승인하거나 레이블을 추가하는 등의 액션 가능
     * ChatOps로 이러한 부분을 자동화
-* [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
-  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
-  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
-  * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
-  * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
-  * [Building a Resilient Microservice with Quarkus and Wiremock | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-resilient-microservice-with-quarkus-and-wiremock-de59b2a4fac7)
-  * [Securing a Microservice in Quarkus with OpenID Connect | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/securing-a-microservice-in-quarkus-with-openid-connect-505204d1c9a9)
-  * [Running a Microservice in Quarkus on GraalVM | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/running-a-microservice-in-quarkus-on-graalvm-52d6b42a5840)
-  * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
-  * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
-  * [Quarkus 2.0 Delivers Continuous Testing, CLI and Supports Minimal JDK 11](https://www.infoq.com/news/2021/08/quarkus-2-0-final-release/)
-  * [Quarkus: Get started with Kubernetes-native Java | InfoWorld](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html)
-  * [Coding in Java with Joy - YouTube](https://www.youtube.com/watch?v=pA1UaFH9mMY)
-  * [Top 5 Courses to learn Quarkus Framework in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-courses-to-learn-quarkus.html)
-  * [Techniques for Maintainable Quarkus Applications - YouTube](https://www.youtube.com/watch?v=j1oRrDstW9A)
-  * [Kubernetes Native Java with Quarkus](https://www.infoq.com/articles/native-java-quarkus/)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
