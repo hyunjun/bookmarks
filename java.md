@@ -169,9 +169,10 @@ Java
 * [Util클래스 어디까지 써봤니? 일 편하게 하는 유틸성 클래스](http://tmondev.blog.me/220976934466)
 * [github.com/StiKuan/StiKuan-Review](https://github.com/StiKuan/StiKuan-Review)
 * [The Good, the Bad and the Ugly of Java API design. Miro Cupak, Dnastack](https://www.youtube.com/watch?v=bVNZMEvplY4)
+* [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
+* [Let's make a contract: the art of designing a Java API by Mario Fusco - YouTube](https://www.youtube.com/watch?v=tXTeLCwQZME)
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
 * [왜 main()는 public static void인가?](https://coco-log.tistory.com/138)
-* [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
 * [Implementing in-memory compression for objects in Java](https://stackoverflow.com/questions/5934495/implementing-in-memory-compression-for-objects-in-java)
 * [The Error Handling Done Right - The Startup - Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
