@@ -1561,6 +1561,7 @@ Web
 * [웹 성능 최적화 · Present](https://present.do/documents/633c002170efd011b8f6b7aa)
 * [부하 테스트 살펴보기. 부하란? | by kyeong su kim | 월요일 오후 9시 | Jan, 2023 | Medium](https://medium.com/monday-9-pm/%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-e886da48e0b8)
 * [📸 📸 A picture is worth a thousand…kilobytes - YouTube](https://www.youtube.com/watch?v=FOxoQjBA4pk)
+* [Budgeting JS for your Users by George Iliadis - YouTube](https://www.youtube.com/watch?v=GjKVsOAbNT8)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io)
   * Node.js 기반, 스트레스 테스트, 성능 테스트
   * 분산 기반으로 보다 확장성 있는 노드 시스템을 개발하다보면 자의적이던 타의적이던 성능검증 필요
