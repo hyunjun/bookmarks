@@ -5680,6 +5680,7 @@ Programming
 * [Accelerating our A/B experiments with machine learning - Dropbox](https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr)
 * [스타트업에서 개발자가 효율을 챙기면?. 스타트업에서 협업 효율화 하기 | by 육찬심 | DelightRoom | Jan, 2023 | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%ED%9A%A8%EC%9C%A8%EC%9D%84-%EC%B1%99%EA%B8%B0%EB%A9%B4-c16a3ea7ab9)
 * [동일한 할인 폭, 다른 결과. 할인 실험에서 중요한 또 다른 변수들 | by Stephan Seunghwan Seo | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/%EB%8F%99%EC%9D%BC%ED%95%9C-%ED%95%A0%EC%9D%B8-%ED%8F%AD-%EB%8B%A4%EB%A5%B8-%EA%B2%B0%EA%B3%BC-89d5cd367378)
+* [테스트한 만큼만 확신할 수 있다 | 웹으로 말하기](https://mytory.net/archives/14280)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
