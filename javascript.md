@@ -2447,6 +2447,7 @@ Javascript
     * Chrome 94부터, 플래그를 활성화하고 오리진 트라이얼 단계이므로 토큰을 받아서 설정하면 사용 가능
     * 이 오리진 트라이얼은 Chrome 97에서 종료 예정
   * [WebGPU — All of the cores, none of the canvas — surma.dev](https://surma.dev/things/webgpu/)
+  * [드디어 WebGPU 혁명이다✨ 장단점. 사용법 설명해드림! - YouTube](https://www.youtube.com/watch?v=A3StcC2cD08)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
