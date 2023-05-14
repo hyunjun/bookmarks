@@ -1092,6 +1092,9 @@ Book
 * [커피 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=162341210)
   * ★★★☆☆ 2023.04.23 커피 자체의 역사를 간단히 정리한 책. 역사를 전문으로 하는 사람이 아니라서 흐름상 어색한 부분들이 있지만, 간단히 재미있게 읽을만하다. (나는 사실로 알고 있던) 블루보틀의 콜시츠키 이야기가 검증되지 않았다거나 하는 등의 부분은 자료가 있는지가 궁금하다.
   * 한라 594.3463-탄44ㅋ 탐라 문573.93-탄43ㅋ 우당 문594.3463-탄43ㅋ
+* [만화로 보는 수메르 신화](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B6195564992)
+  * ★★★☆☆ 2023.05.14 신화와 역사와 초고대문명에 대한 일종의 유사과학까지 섞인 느낌. 재미는 있는데 어디까지 신빙성있는 이야기인지는 잘 모르겠다
+  * 탐라 문219.19멍12ㅅ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1200,8 +1203,6 @@ Book
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
 * (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
   * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
-* (NOT YET) [만화로 보는 수메르 신화](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B6195564992)
-  * 탐라
 * (NOT YET) [만화로 보는 결정적 세계사](https://hanbit.co.kr/store/books/look.php?p_code=B1817011494)
   * 탐라
 * (NOT YET) [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
