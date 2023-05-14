@@ -1603,6 +1603,7 @@ Programming
 * [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
 * [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을 강의로 들었다는 이야기
 * [The Next Big Thing In Software Architecture • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DCWo9DuywYo) actor
+* [Just-in-time Architecture • Macklin Hartley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=4TmVEmuRdx8)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -3582,6 +3583,7 @@ Programming
 * [서버 키 관리 시스템 - 암호화에 사용하는 키는 어떻게 관리하나](https://blog.naver.com/pjt3591oo/223058716701)
 * [Data security at Agoda: How we automate encryption key rotation | by Chaiyatorn Niamrat | Agoda Engineering & Design | Mar, 2023 | Medium](https://medium.com/agoda-engineering/data-security-at-agoda-how-we-automate-encryption-key-rotation-e7ae37ea7885)
 * [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
+* [How to gain value from SAST tools in SDLC: Most common findings and mitigations by Stella Varvarigou - YouTube](https://www.youtube.com/watch?v=J-o2uJ3NBU0)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
