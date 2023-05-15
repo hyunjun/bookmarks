@@ -799,7 +799,7 @@ Javascript
   * "The Network Is the Computer"라는 개념을 구현한 것이 Cloudflare Workers와 Deno Deploy
     * Shell의 역할을 JavaScript가 대체하고 JavaScript 샌드박스는 Wasm을 호출하게 될 것이고
     * Deno가 그렇게 했듯이 브라우저 API를 그대로 따르고 있어서 JavaScript에 익숙한 개발자가 쉽게 사용 가능
-* [중복클릭 방지 - 세마포어 이용하기 - /* No Comment */](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
+* [중복클릭 방지 - 세마포어 이용하기 - /* No Comment \*/](https://hyeonguj.github.io/2020/02/27/double-click-problem-javascript/) 이게 정상 동작하나?
 * [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/) FxJS FxSQL NestJS MikroORM
 * [A Whole Website in a Single JavaScript File, cont'd](https://deno.com/blog/a-whole-website-in-a-single-js-file-continued)
 * [프론트엔드는 무엇인가?. Web Application의 패러다임은 어떻게 되는걸까? | by 조은, John Cho | Oct, 2022 | Medium](https://euncho.medium.com/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-30919634f80d)
@@ -813,6 +813,7 @@ Javascript
 * [변수에 타입을 명시하는 방법 - 타입 어노테이션 - Winterlood](https://www.winterlood.com/post/74ffabb9-4298-4831-ab72-55c4b5aa163c) type annotation
 * [JSON Creator Douglas Crockford Interview by Evrone](https://evrone.com/blog/douglas-crockford-interview)
   * ["자바스크립트는 자리에서 물러날 때입니다" JSON 창시자 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1981/)
+* [마우스 따라 돌아가는 눈알 만들기 | MIRIYA](https://miriya.vercel.app/blog/NtV5JgzYpdxs4DQtr0eh)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2366,6 +2367,7 @@ Javascript
   * [Svelte로 Chrome Extension 개발하기 — BetaMan의 공사장](https://blog.betaman.kr/105)
   * [if(kakao)dev2022 복잡한 상태관리도구 Svelte스럽게 만들기](https://if.kakao.com/2022/session/81)
   * [Svelte REST-API 프로젝트 - YouTube](https://www.youtube.com/playlist?list=PLEU9vwKdoCqSOCmW55QZM2k2RE3EKChHY)
+  * [왜 Svelte 프로젝트는 TypeScript에서 JSDoc으로 이전하는가? | Daniel Lee](https://typefully.com/dylayed/XalfMuZ)
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
