@@ -2813,8 +2813,6 @@ Programming Books
   * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
 * (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
   * 우당 문325.19-톰829ㅅ
-* (NOT YET) [7가지 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300224461)
-  * 한라 325.6-메882ㅇ 탐라 문325.6-메831ㅇ 우당 문325.6-메831ㅇ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -3220,6 +3218,9 @@ Programming Books
     * 4 개발자와 일하다 자괴감이 들 때 [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304) 
     * 5 초기 스타트업의 기획자들이 1일 1독 해야 할 사이트 [First 1000 | Ali Abouelatta | Substack](https://read.first1000.co/)
     * 6 다양한 프로덕트를 만나고 싶을 때 [Product Hunt – The best new products in tech](https://www.producthunt.com/)
+* [7가지 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300224461)
+  * ★★★★☆ 2023.05.11, 12, 15 책의 두께에 압도될 수도 있으나, 표지의 호언장담처럼 이 한 권만으로도 product에 관련된 주제는 다 다룬다는 생각이 든다. 어느 정도 아는 부분도 있지만 모르는 거도 정말 많고 특히 법률 관련 부분은 피상적으로만 알고 있다는 걸 다시 알게 되었다. 두고두고 계속 읽어야 할 좋은 책이다.
+  * 한라 325.6-메882ㅇ 탐라 문325.6-메831ㅇ 우당 문325.6-메831ㅇ
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
