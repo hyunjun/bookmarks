@@ -364,7 +364,6 @@
 * [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
 * [Pluu Dev - 요약 Kotlin Flows in practice (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/07/ads21-Kotlin-Flows-in-practice/)
 * [7 useful ways to create Flow in Kotlin | by Radhika S | May, 2022 | Canopas](https://blog.canopas.com/7-useful-ways-to-create-flow-in-kotlin-577992b73315)
-* [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 * [Kotlin Coroutines Flow in a nutshell | by Alexey Bykov | ProAndroidDev](https://proandroiddev.com/kotlin-coroutines-flow-in-a-nutshell-90399fc9aed7)
 * [Kotlin Flow: Best Practices. Since few months, @Geev, we used Kotlin… | by Florent Blot | Aug, 2022 | Medium](https://florentblot.medium.com/kotlin-flow-best-practices-ab05e249ec1c)
 * [Reactive Streams and Kotlin Flows | by Roman Elizarov | Medium](https://elizarov.medium.com/reactive-streams-and-kotlin-flows-bfd12772cda4)
@@ -384,6 +383,8 @@
 * [How to make Sequential Background Tasks with Kotlin Coroutines | by Abanoub Samir | Mar, 2023 | Medium](https://medium.com/@iAbanoubSamir/how-to-make-sequential-background-tasks-with-kotlin-coroutines-8047c4771d91)
 * [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
 * [Kotlin Coroutines to Cats-Effect - Alexandru Nedelcu](https://alexn.org/blog/2023/04/24/kotlin-suspended-functions-to-cats-effect-io/)
+* [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+  * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
