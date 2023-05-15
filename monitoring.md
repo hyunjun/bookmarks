@@ -270,7 +270,6 @@ Monitoring
 * [오픈소스 모니터링 툴 - Prometheus #1 기본 개념과 구조](https://bcho.tistory.com/1372)
 * [오픈소스 모니터링 툴 - Prometheus #2 Hello Prometheus](https://bcho.tistory.com/1373)
 * [오픈소스 모니터링 툴 - Prometheus #3 그라파나를 이용한 시각화](https://bcho.tistory.com/1374)
-* [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
 * [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc](https://www.youtube.com/watch?v=_h78zXBWjAU)
 * [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
@@ -310,3 +309,5 @@ Monitoring
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
 * [Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
+  * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
+  * [모니터링에서 보라색 맛 났어!(Prometheus & Thanos)](https://velog.io/@juunini/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%97%90%EC%84%9C-%EB%B3%B4%EB%9D%BC%EC%83%89-%EB%A7%9B-%EB%82%AC%EC%96%B4Prometheus-Thanos)
