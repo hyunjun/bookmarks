@@ -558,6 +558,8 @@ Programming Language
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
 * [Ritchie language has the power of C language and the convenience of a high level language](https://github.com/riolet/ritchie#)
+* [ROC - Documentation](https://www.roc-lang.org/)
+  * [Simple Functional Effects with Tag Unions • Richard Feldman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=7SidSvJcPd0)
 * [RTcmix - An Open-Source, Digital Signal Processing and Sound Synthesis Language](http://music.columbia.edu/cmc/RTcmix/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * scratch
