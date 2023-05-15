@@ -341,6 +341,8 @@ Android
 * [Pluu Dev - 요약 What's new in Android development tools (Google I/O '22)](https://pluu.github.io/blog/android/io22/2022/05/20/io22-whats-new-in-android-development-tools/)
 * [Pluu Dev - 요약 Lazy layouts in Compose (Google I/O '22)](https://pluu.github.io/blog/android/io22/2022/06/19/io22-Lazy-layouts-in-Compose/)
 * [I/O 22 Extended in Korea Android 참석 후기 | by CuroGom | Jun, 2022 | Medium](https://curogom.dev/i-o-22-extended-in-korea-android-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0-32bb22c15c4)
+* [Pluu Dev - 요약 How to build a data layer (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-How_to_build_a_data_layer/)
+* [Pluu Dev - 요약 What's new in Android development tools (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-whats-new-in-android-development-tools/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
