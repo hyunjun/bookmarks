@@ -97,6 +97,7 @@ Network
 * [택배 배송 과정으로 알아보는 엄청 쉬운 컴퓨터 네트워크 | 요즘IT](https://yozm.wishket.com/magazine/detail/1906/)
 * [Network Policy](https://lifeoncloud.kr/entry/Network-Policy)
 * [Traffic Mirroring 서비스 소개 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/363)
+* [네트워크 소켓(윈속)과 연결상태, 동시성, IO 모델](https://blog.naver.com/pjt3591oo/223101051947)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
