@@ -3150,6 +3150,7 @@ Python
 * [Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks](https://blog.aquasec.com/python-ransomware-jupyter-notebook)
 * [PyData Chicago: Running Notebooks in Production? Blessing or Curse? by Eduardo Blancas - YouTube](https://www.youtube.com/watch?v=ywL9egN1Iyk)
 * [예쁘게! 자유롭게! 테마 설정](https://bio-info.tistory.com/15)
+* [주피터 노트북 ToC 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/14/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-toc-%EC%83%9D%EC%84%B1/)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -3219,6 +3220,7 @@ Python
   * [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python | by Jeremy Tuloup | Jul, 2021 | Jupyter Blog](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
   * [Jeremy Tuloup - JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python PyData Prague 2022-05-10 - YouTube](https://www.youtube.com/watch?v=mB806GtibR4)
     * [JupyterLite](https://jtp.io/pydata-prague-meetup-2022/lab/index.html)
+  * [Ep(207) 파이썬 무설치 버전? JupyterLite 써봅시다! - YouTube](https://www.youtube.com/watch?v=OOsN7AwPs04&t=998s)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
