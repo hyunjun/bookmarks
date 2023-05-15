@@ -229,6 +229,7 @@ Artificial Intelligence
 * [Google Presents: AI@ ‘22 - YouTube](https://www.youtube.com/watch?v=X5iLF-cszu0)
   * [AI @ 22 중 Douglas Eck가 발표한 AI for Creativity 부분의 자막 및 내용 설명](https://www.facebook.com/seungjoon.choi/posts/pfbid0S9Evdu2Ga4FMrR55DVJqNsFKxJwhCKWd3LqoVnfMWxpHahMfcERhqZY8B4Q7qF3El)
 * [“Unlocking the power of Big Data, Analytics & AI” - Payzy by Cosmote - Konstantinos Megalokonomos - YouTube](https://www.youtube.com/watch?v=xhLmX9WL4Sw)
+* [Training & Monitoring AI - Drift Detection • Thomas Viehmann • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=pll9IRkeZ8o)
 
 # Course MOOC Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
