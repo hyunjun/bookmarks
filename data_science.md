@@ -431,6 +431,7 @@ Data Science
 * [Python vs. SQL in Data Science | 01](https://vocal.media/01/python-vs-sql-in-data-science)
 * [공학적 관점으로 데이터 분석 프로세스 만들기. 당근마켓 데이터 분석 프로세스 개선기 | by Theo | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EA%B3%B5%ED%95%99%EC%A0%81-%EA%B4%80%EC%A0%90%EC%9C%BC%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-aea44d0b7b7)
 * [하나금융경영연구소](http://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35641&menuId=MN1000&tabMenuId=N&srchNm=ALL&srchKey=)
+* [DMOps(Data Management Operation and Recipes), 현업에서 데이터 구축하기 — Upstage](https://www.upstage.ai/blog/tech/dmops-data-management-operation-and-recipes)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
