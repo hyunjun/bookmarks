@@ -229,6 +229,8 @@ Data Visualization
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
+* [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+  * [뉴욕타임스가 쓰는 노코드 데이터 시각화 툴 'Datawrapper' | 요즘IT](https://yozm.wishket.com/magazine/detail/2011/)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
 * [flourish.studio](https://flourish.studio/) Beautiful and easy data visualization and storytelling
