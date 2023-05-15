@@ -3296,6 +3296,7 @@ Javascript
   * [A Fast Introduction to Fastify (NodeJS Web Framework) - YouTube](https://www.youtube.com/watch?v=pGhWPDlF2sM)
   * [Fastify Package Generator](https://fastify.github.io/pacchetto/)
   * [Fastify v4 GA. After two years we are excited to… | by Fastify | Jun, 2022 | Medium](https://medium.com/@fastifyjs/fastify-v4-ga-59f2103b5f0e)
+  * [Getting Started with Fastify for Node.js | AppSignal Blog](https://blog.appsignal.com/2023/04/26/getting-started-with-fastify-for-nodejs.html)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [fnm: 🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
   * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
