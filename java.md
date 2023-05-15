@@ -1531,6 +1531,7 @@ Java
   * [Developing a stream processing application with Apache Kafka and Quarkus by Ozan Gulp & Escoffier - YouTube](https://www.youtube.com/watch?v=0LKxoo3_VI4)
   * [OpenId Connect and JSON Web Token Security in Quarkus by Stuart Douglas & Sergey Beryozkin - YouTube](https://www.youtube.com/watch?v=x_XYnHmr1hI)
   * [Quarkus on AWS Lambda by Clement Escoffier - YouTube](https://www.youtube.com/watch?v=2iFb3L8a_1U)
+  * [Why and when to write a Quarkus extension by Ioannis Canellos - YouTube](https://www.youtube.com/watch?v=8UH6DnrF1no)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
