@@ -1878,6 +1878,7 @@ Java
   * [스프링(Spring) #1 - Java 프레임워크로 스프링을 쓰는 이유](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-Java-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%84-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [스프링(Spring) #2 - 스프링에서의 제어의 역전(IoC) 및 의존성 주입(DI)](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-2-%EC%8A%A4%ED%94%84%EB%A7%81%EC%97%90%EC%84%9C%EC%9D%98-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84IoC-%EB%B0%8F-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85DI)
   * [스프링(Spring) #3 - 스프링 빈에 대해 알아보자](https://velog.io/@hyemin916/%EC%8A%A4%ED%94%84%EB%A7%81Spring-3-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+* [IoC와 DI를 이용한 Spring 멀티 모듈 아키텍처 | kciter.so](https://kciter.so/posts/spring-multi-module-architecture)
 * [Spring Modulith – Spring for the Architecturally Curious Developer by Oliver Drotbohm - YouTube](https://www.youtube.com/watch?v=SjSjBZ7mo1g)
 * [스프링 가이드 타임어택 (1) - RESTful Web Service - YouTube](https://www.youtube.com/watch?v=wlOR5ehWSjE)
 * [스프링 가이드 타임어택 (2) - Scheduling Tasks - YouTube](https://www.youtube.com/watch?v=VIacwaUMbqs)
