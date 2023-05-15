@@ -1532,6 +1532,8 @@ Java
   * [OpenId Connect and JSON Web Token Security in Quarkus by Stuart Douglas & Sergey Beryozkin - YouTube](https://www.youtube.com/watch?v=x_XYnHmr1hI)
   * [Quarkus on AWS Lambda by Clement Escoffier - YouTube](https://www.youtube.com/watch?v=2iFb3L8a_1U)
   * [Why and when to write a Quarkus extension by Ioannis Canellos - YouTube](https://www.youtube.com/watch?v=8UH6DnrF1no)
+  * [Quarkus Community BOF - YouTube](https://www.youtube.com/watch?v=dplbadDOI0Q)
+  * [Contract testing with Pact and Quarkus by Holly Cummins - YouTube](https://www.youtube.com/watch?v=4xoJmz6bWB4)
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
