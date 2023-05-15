@@ -316,6 +316,7 @@
 * [TypeScript vs KotlinJS • Eamonn Boyle & Garth Gilmour • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=GlU8ZyJNI7Q)
 * [Kotlin is *Way* More Than Just Android - YouTube](https://www.youtube.com/watch?v=7zx_KjDXAAw)
 * [Google's Journey from Java to Kotlin for Server Side Programming by James Ward , Brad Hawkes , John - YouTube](https://www.youtube.com/watch?v=o14wGByBRAQ)
+* [10분 테코톡 부나의 Java에서 Kotlin으로 - YouTube](https://www.youtube.com/watch?v=eA8e18ddSms)
 * [Kotlin 2021 - Wrapped Up! - YouTube](https://www.youtube.com/watch?v=wYoo4dkwZwM)
 * [kotlinconf.com](https://kotlinconf.com/)
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
