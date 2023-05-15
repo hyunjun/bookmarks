@@ -45,6 +45,7 @@ NoSQL
 * [Writing a document database from scratch in Go: Lucene-like filters and indexes | notes.eatonphil.com](https://notes.eatonphil.com/documentdb.html)
 * [클라우드 스케일!··· SQL과의 비교로 알아본 NoSQL - CIO Korea](https://www.ciokorea.com/news/242074)
 * [SQL vs NoSQL](https://velog.io/@yh_lee/SQL-vs-NoSQL)
+* [10 Things You Didn’t Know Your Data Can Do for You by Stanimira Vlaeva - YouTube](https://www.youtube.com/watch?v=OsfVj5mdaVw)
 
 # AnnaDB
 * [AnnaDB](https://annadb.dev/)
