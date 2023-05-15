@@ -639,6 +639,7 @@ Docker
 * [How to Run a Container Without an Image](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 * [How to increase UDP buffer size on Docker Desktop | by h0n9 | Aug, 2022 | Medium](https://h0n9.medium.com/how-to-increase-udp-buffer-size-on-docker-desktop-b28d02d656e1)
 * [Top 6 Best practices for Container Orchestration | by Hardik Shah | Jul, 2022 | Medium](https://hardiks.medium.com/top-6-best-practices-for-container-orchestration-b4b0d3398ebc)
+* [Docker Container Orchestration](https://www.wranto.com/2023/03/docker-container-orchestration.html)
 * [How we clone a running VM in 2 seconds - CodeSandbox Blog](https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds) mmap CoW copy-on-write
 * [Debunking Container Myths 🧵 A (never-ending) series of articles that I started writing a couple of years ago to fix my own misconceptions about containers https://t.co/bD7Iw48ere / Twitter](https://twitter.com/iximiuz/status/1563851156417298434?s=20&t=k9U_jpi2l-s4egt7TvZH6A)
 * [Why Docker isn't always a good idea Part 1 - DEV Community 👩💻👨💻](https://dev.to/n00d13/why-docker-isnt-always-a-good-idea-part-1-5ha1)
@@ -2187,6 +2188,7 @@ Docker
     * Gradle로 jib를 설정해서 빌드부터 Docker 이미지 생성, 푸시까지 한 번에 되는 과정
   * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
   * [Dockerizing a Spring Boot Application and Using the Jib Maven Plugin | by Betül Şahin | Nov, 2021 | Medium](https://betulsahinn.medium.com/dockerizing-a-spring-boot-application-and-using-the-jib-maven-plugin-95c329866f34)
+  * [자바 개발자를 위한 컨테이너 이미지 빌드 | 요즘IT](https://yozm.wishket.com/magazine/detail/2018/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Kyverno](https://kyverno.io/) Kubernetes Native Policy Management
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
