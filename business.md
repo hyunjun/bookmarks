@@ -1719,6 +1719,7 @@ Business
 * [Engineering Manager's Responsibilities + Free templates | Fellow.app](https://fellow.app/blog/management/engineering-managers-key-responsibilities-free-templates/)
 * [한기용 - 팀원 개발을 잘 하는 매니저(Great Manager)의 공통점 4가지](https://www.linkedin.com/posts/activity-6973282859621003264-CKBo/)
 * [개발은 사랑하지 않을 수 없다.(feat.Head of Foundation Engineering) | by Tech | CLASS101 | Aug, 2022 | Medium](https://medium.com/class101/%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4-feat-head-of-foundation-engineering-18fdceec3a23) engineering manager
+* [Traversing the Engineering Manager Skill Tree by Ole Michaelis - YouTube](https://www.youtube.com/watch?v=P_ocQwm_-oE)
 * [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DOwxbjqPnwM)
@@ -2520,6 +2521,7 @@ Business
 * [첫 UX writer는 무슨 일을 해야 할까](https://toss.tech/article/1st_uxwriter)
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
+* [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
