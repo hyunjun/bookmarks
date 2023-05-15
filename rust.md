@@ -225,6 +225,7 @@
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 * [Blazing Fast, Minimal Change - Speed up Your Code by Refactoring to Rust - YouTube](https://www.youtube.com/watch?v=-wVJ2nPOtuY)
 * [Building Embedded Systems With Rust - YouTube](https://www.youtube.com/watch?v=x7LQevYn7d0)
+* [From High-Level to Systems Programming: A Practical Guide to Rust by Ben Greenberg - YouTube](https://www.youtube.com/watch?v=avz_SQZMxCU)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 
 # Go
