@@ -739,6 +739,7 @@ Clojure
 * [TECHㅣ컨퍼런스 - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) 그린랩스
 * [Give me Interactive Programming, or give me death, by Peter Strömberg - YouTube](https://www.youtube.com/watch?v=L0-yDtVUWMQ)
 * ["Design in Practice" by Rich Hickey - YouTube](https://www.youtube.com/watch?v=fTtnx1AAJ-c)
+* [Back to the Future: How 80s Arcade Games Taught me Clojure by Mey Beisaron - YouTube](https://www.youtube.com/watch?v=GGVq-2ECE04)
 * [Clojure Arcade: Mac Man Quick Start - YouTube](https://www.youtube.com/watch?v=WoSvzl8rWj0)
 * [clojure/conj](http://clojure-conj.org/)
   * ["High Performance Clojure" by Chris Nuernberger - YouTube](https://www.youtube.com/watch?v=Z6xglREtPTY)
