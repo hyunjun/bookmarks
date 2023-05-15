@@ -188,6 +188,8 @@
 * [This Is the Kind of Rust the Automotive Industry Needs](https://blogs.blackberry.com/en/2023/02/this-is-the-kind-of-rust-the-automotive-industry-needs) SDV
 * [The Rust Implementation Of GNU Coreutils Is Becoming Remarkably Robust - Phoronix](https://www.phoronix.com/news/Rust-Coreutils-uutils-2023)
   * [GNU Coreutils의 Rust 구현체가 놀랍게 강력해지고 있음 | GeekNews](https://news.hada.io/topic?id=8475)
+* [Two core Unix-like utilities, sudo and su, are getting rewrites in Rust | Ars Technica](https://arstechnica.com/information-technology/2023/05/two-core-unix-like-utilities-sudo-and-su-are-getting-rewrites-in-rust/)
+  * [Unix-like OS들의 핵심 유틸인 sudo 와 su 가 Rust로 재 작성중 | GeekNews](https://news.hada.io/topic?id=9180)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
