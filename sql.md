@@ -275,6 +275,7 @@ SQL
 * [Amazon RDS MySQL 블루/그린 배포환경에서 전환 작업 이후 복구 환경 구성을 위한 동기화 기법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-rds-mysql-blue-green-after-restoring/)
 * [우아한형제들에서 RDS를 모니터링 하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/)
 * [AWS RDS Storage 성능 비교. AWS 서비스에 사용할 Storage에 대한 자료를 찾아보다가  AWS… | by Kimmatt | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-rds-storage-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-3d1150b97b2e)
+* [Amazon Aurora I/O-Optimized 클러스터 구성- I/O 집약적 애플리케이션을 위한 최대 40% 비용 절감할 수 있는 스토리지 옵션 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
