@@ -917,6 +917,7 @@ Programming Books
 * (NOT YET) [UWP 퀵스타트](https://kaki104.tistory.com/703)
 * (NOT YET) [이펙티브(effective) C#(2016) 독후감](http://ohyecloudy.com/pnotes/archives/book-effective-csharp/)
 * (NOT YET) [시작하세요! C# 10 프로그래밍 | 위키북스](https://wikibook.co.kr/cs10/)
+* (NOT YET) [C# 동시성 프로그래밍 2/e(2019) 독후감](http://ohyecloudy.com/pnotes/archives/book-concurrency-in-csharp-cookbook/)
 
 # Clojure
 
@@ -2716,6 +2717,7 @@ Programming Books
   * ★★★★☆ 2023.04.30~05.01 몇몇 스타트업을 창업하고 아마존에서 일한 후 twilio라는 좋은 회사를 만들어낸 제프 로슨의 이야기. 개발 조직을 잘 운영하고 생산성을 향상시키려면 어떤 마음가짐/문화로 회사를 운영해야 하는지, 개발자 출신 CEO의 경험을 읽을 수 있다. 아마존의 AWS의 초창기를 경험한 사람이라 아마존 관련 책을 읽으면 흔히 볼 수 있는 부분들도 포함되어 있지만, 어쩐지 더 읽기 편하고 친근한 느낌이 든다. 내가 경험했던 C level들 중에도 읽어보라고 권하고 싶은 사람들이 떠오른다.
   * 탐라 문325.24-로58ㄱ
   * [Ask Your Developer by Jeff Lawson](https://www.askyourdeveloper.com/)
+  * [개발자에게 물어보세요 - 디지털 공급망으로 조직의 핵심 역량 구축하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1672)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
