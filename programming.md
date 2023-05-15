@@ -915,6 +915,7 @@ Programming
 * [Agile은 모든 곳에 적용할 수 있다. 급변하는 세상에서 살아남는 방법 | by Wayne Kim | Mar, 2023 | Medium](https://medium.com/@kjh.original/agile%EC%9D%80-%EB%AA%A8%EB%93%A0-%EA%B3%B3%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-b416b9c53f48)
 * [Architecture Challenges Faced by Agile Organisations • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=rKtZk5GHDFs)
 * [지난 9개월간의 딜리버리프로덕트팀의 경험과 변화에 대한 이야기: 애자일 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/teamsoftwaredevelopment-changes-deliveryproduct/)
+* [Flow: the worst software development approach in history by Sander Hoogendoorn & Kim Van Wilgen - YouTube](https://www.youtube.com/watch?v=FahSLxZrsCs) Big Flow Framework BFF
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -1013,6 +1014,7 @@ Programming
 * [APIs and How to design them — All you need to know ! | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/apis-and-how-to-design-them-all-you-need-to-know-86223624229a)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
+* [War of the APIs - REST vs GraphQL vs gRPC by Memi Lavi - YouTube](https://www.youtube.com/watch?v=5emGZTXMCwI)
 * [Difference between GraphQL and REST API with Example](https://javarevisited.blogspot.com/2022/04/difference-between-graphql-and-rest-api.html)
 * [Federated GraphQL to Solve Service Sprawl at Major League Baseball - YouTube](https://www.youtube.com/watch?v=npQ6o1QO7D4)
 * [How to select an API Management platform for your business — part I | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-i-6b02b232f697)
@@ -4961,6 +4963,7 @@ Programming
 * [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
 * [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 * [쉽게 이해하는 다중큐비트 양자컴퓨팅 시뮬레이션 - 미래인공지능18 - YouTube](https://www.youtube.com/watch?v=2HpKYC2tkr8)
+* [Quantum Jumps In Cryptography and Computing by Dan Conn - YouTube](https://www.youtube.com/watch?v=jZJzJ1XWgCA)
 * [Qiskit](https://qiskit.org/)
   * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
   * [Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ldX75svJx8M)
