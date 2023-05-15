@@ -1408,6 +1408,7 @@ Docker
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
 * [쿠버네티스 발 인재난을 극복하는 4가지 전략 - ITWorld Korea](https://www.itworld.co.kr/news/266032)
+* [“쿠버네티스에 핀옵스 더하기” 오픈코스트 활용한 비용 관리법 - ITWorld Korea](https://www.itworld.co.kr/mainnews/290461)
 * [번역 쿠버네티스 7,500개 노드 운영하기 | 커피고래의 노트](https://coffeewhale.com/scaling-node02)
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
