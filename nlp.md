@@ -821,6 +821,7 @@ NLP
     * [오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)
     * [Open API를 활용한 연구원의 업무 효율화](https://aifactory.space/learning/2361/discussion/234)
     * [챗GPT 러닝데이 | 챗GPT말고 LLM LLM 기반 챗봇 만들기 - 박찬성](https://aifactory.space/learning/2419/discussion/339)
+    * [챗GPT 러닝데이 | 챗GPT말고 LLM 딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
     * [ChatGPT 는 잊어라. AutoGPT 가 왔다. - YouTube](https://www.youtube.com/watch?v=YbLef4CrZNU)
@@ -843,6 +844,7 @@ NLP
         * 이 플러그인은 아직 공개 여부 미정
       * 사이트에서 `.well-known/ai-plugin.json`를 노출해서 쉽게 플러그인을 구축할 수 있고 GraphQL로 된 API를 ChatGPT를 위해 RESTful API로 노출하도록 Go로 프로그램 작성
         * 다양하게 테스트해 본 결과 API를 이용해서 꽤 괜찮은 결과를 조회하고 연관된 콘텐츠까지도 조회하는 등 ChatGPT의 이해도가 놀라웠음
+    * [08-2 챗GPT에서 위키독스 플러그인 사용하기 (시험 중) - 위키독스](https://wikidocs.net/197151)
   * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
     * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
     * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
@@ -1287,6 +1289,7 @@ NLP
   * [Georgi Gerganov on Twitter: "Introducing LLaMA voice chat! You can run this locally on an M1 Pro https://t.co/jetTQ5FxcS" / Twitter](https://twitter.com/ggerganov/status/1640022482307502085)
   * [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석 - YouTube](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * [Meta가 쏘아올린 작은 공 LLaMA에 대해 알아보자 - 윤주성](https://aifactory.space/learning/2414/discussion/327)
+  * [Why Developers Are Flocking to LLaMA, Meta’s Open Source LLM - The New Stack](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
   * [Koala: A Dialogue Model for Academic Research – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
@@ -1298,6 +1301,7 @@ NLP
   * [LLaMA_MPS: Run LLaMA inference on Apple Silicon GPUs](https://github.com/jankais3r/LLaMA_MPS)
   * [open_llama](https://github.com/openlm-research/open_llama)
     * [오픈소스로 가자! OpenLLaMA 의 등장](https://revf.tistory.com/286)
+* [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248_survey-large-language-activity-7052275487703793665-WUfC/)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
