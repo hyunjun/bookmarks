@@ -1251,6 +1251,7 @@ NLP
 * [An Introduction to Large Language Models: Prompt Engineering and P-Tuning | NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-introduction-to-large-language-models-prompt-engineering-and-p-tuning/)
 * [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
   * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129&fbclid=IwAR2-0-GWaInmD5507c6ZTFJYQpfpfp1k6rM7NSKjBlC8N3ZCns0-rXODOk4)
+* [A list of open source LLMs available for commercial use](https://www.linkedin.com/posts/sudalairajkumar_llms-activity-7061196282454814720-XtZ4/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
@@ -1308,6 +1309,8 @@ NLP
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
+* PaLM
+  * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
