@@ -1249,6 +1249,7 @@ Programming
 * [Chaos Engineering on AWS - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRdA9tKR8zDFHdfPUIFIe8EOlD0t1iO5OvkvS_A70BEoR8dkoV2utwUzgQ421W_CSilC0IqPfwlfi2z/pub)
 * [카오스 엔지니어링을 회사에 도입하기 위해 알아야 하는 것들 | 밑바닥부터 만드는](https://namkyu1999.github.io/posts/paper/230322_climbing_out_of_the_chasm/)
 * [Beyond Chaos Engineering: Continuous Verification • Cat Swetel • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=saVfPVu8MMQ)
+* [Chaos Engineering for people, how we "resilienced" our incident response team -Christodoulos Xystras - YouTube](https://www.youtube.com/watch?v=XHQIxfxrSBE)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
@@ -4891,6 +4892,7 @@ Programming
   * [기술 뉴스 #219 : 23-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1664)
   * [기술 뉴스 #220 : 23-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1667)
   * [기술 뉴스 #221 : 23-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1670)
+  * [기술 뉴스 #222 : 23-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1673)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
