@@ -28,7 +28,9 @@ AWS
 * [New – AWS Support App in Slack to Manage Support Cases | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
   * [Slack 기반 AWS Support 앱 출시 – 서포트 케이스 생성 및 관리 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-support-app-in-slack-to-manage-support-cases/)
     * AWS에 서포트 티켓을 만들기 위해 AWS Support Center로 이동할 필요 없이 Slack 내에서 바로 티켓을 만들고 엔지니어와 채팅할 수 있는 AWS Suuport 앱 발표
-* LEX [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
+* LEX
+  * [Amazon Lex에서 Open API를 이용한 대화형 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-lex-chatgpt-communication/)
+  * [aws-ai-ml-workshop-kr/README.md at master · aws-samples/aws-ai-ml-workshop-kr](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/aiservices/lex-korean-workshop/README.md)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
