@@ -1187,6 +1187,7 @@ Javascript
   * [Promise 및 (Micro)Task 등의 비동기는 만능이 아니다](https://velog.io/@composite/Promise-%EB%B0%8F-MicroTask-%EB%93%B1%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EB%A7%8C%EB%8A%A5%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
   * [Why To Use JavaScript Async/Await Over Promises ? - YouTube](https://www.youtube.com/watch?v=8V-DOz4Lqkc)
   * [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
+  * [Promise는 왜 취소가 안 될까? – tech.kakao.com](https://tech.kakao.com/2023/01/11/promise-cancelation-in-javascript/)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
