@@ -309,6 +309,8 @@ Git
     * 빅뱅 마이그레이션이 사라짐
   * 비슷한 업그레이드가 Ruby에도 적용하고 있어서 Ruby 3.2때는 한 달 만에 업그레이드했지만 3.2.1을 당일날 업그레이드
 * [git과 ssh/https의 관계 - AnyDoc](https://dev.alliknow.info/posts/2023/5/relation-of-git-ssh-and-https)
+* [Push protection is generally available, and free for all public repositories | The GitHub Blog](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
+  * 커밋에 시크릿이 포함된 경우 푸시 자체를 거절하는 Push protection 기능이 공개 저장소에서 무료로 이용 가능
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -448,6 +450,8 @@ Git
   * 이 앱을 통해 배포 시 안전한 배포만 나가도록 추가적인 보호 정책을 적용 가능
   * 직접 Deployment protection rules을 만들어서 공유도 가능
 * [GitHub Actions의 스킵된 Required 잡 실행하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1671)
+* [GitHub Actions - Actions Runner Controller Public Beta | GitHub Changelog](https://github.blog/changelog/2023-05-10-github-actions-actions-runner-controller-public-beta/)
+  * GitHub Actions의 셀프 호스티드 러너를 Kubernetes에서 운영할 수 있도록 도와주는 Kubernetes 오퍼레이터인 Actions Runner Controller(ARC)가 퍼블릭 베타로 공개
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
@@ -1182,6 +1186,10 @@ Git
       * 사용자들의 의견과 제보를 받고 있음
   * [Microsoft Ignite Spotlight on Korea의 GitHub Copilot 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1634)
   * [Amazing GitHub CoPilot - Create a Java to check if a number is prime and if a string is a palindrome - YouTube](https://www.youtube.com/watch?v=nq7i3RLlITI)
+  * [How I used GitHub Copilot to build a browser extension | The GitHub Blog](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
+    * 크롬 확장 프로그램을 GitHub Copilot을 사용해서 만드는 과정을 정리한 글
+    * GitHub Copilot의 채팅 기능을 이용해서 질문하면서 파일에 자세한 설명을 제공하면서 코드를 자동완성 하면서 익스텐션 작성
+    * GitHub Copilot의 도움으로 익스텐션을 만들어 보지 않았음에 만들 수 있었지만 쉽게 배울 수 있을 학습 작업 자체를 대체하진 않으므로 프롬프트도 실행해 보고 다양한 질문이나 검색도 했다고 함
   * [GitHub Copilot X: The AI-powered developer experience | The GitHub Blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
     * OpenAI와 협업해서 Codex 모델로 GitHub Copilot을 공개했지만, AI 기반 자동완성은 시작점에 불과했고 GitHub Next의 R&D 팀은 개발 라이프사이클 전체에 AI 지원을 받을 수 있도록 노력한 결과 GitHub Copilot X를 공개
     * GitHub Copilot X는 GPT-4 모델을 사용해서 VS Code와 Visual Studio에서 개발자 시나리오에 맞춰 GitHub Copilot Chat을 제공하고 GitHub Copilot Voice도 지원
