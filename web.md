@@ -262,6 +262,8 @@ Web
     * 서비스 워커가 설정에 따라 지연시간을 높일 수도
     * 또는 서버에서 마크업을 준비하는 동안 `103 Early Hints` 헤더를 제공해서 필수 리소스를 브라우저가 미리 다운로드 받게도 가능
 * [Core Web Vitals under control by Marta Wiśniewska - YouTube](https://www.youtube.com/watch?v=Q7yBANAidq4)
+* [Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
+  * 2022년 INP(Interaction to Next Paint)를 실험적으로 도입해서 테스트한 결과 FID(First Input Delay) 대신 INP를 Core Web Vitals 메트릭으로 채택, 2024년 3월부터 적용 예정
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
@@ -437,6 +439,9 @@ Web
   * 사이트에서 컨테이너 쿼리를 사용하는 예시를 제공하므로 직접 사용 가능
 * [Browsers are the new containers! by Dan Erez - YouTube](https://www.youtube.com/watch?v=uR7Onn2KJoQ)
 * [Oh what fun! connecting to devices with your browser by Ron Dagdag - YouTube](https://www.youtube.com/watch?v=tWANye35dZY) WebMidi
+* [Baseline](https://web.dev/baseline/)
+  * Chrome 팀에서 특정 웹 기능이 Chrome, Edge, Firefox, Safari 등 주요 버전에서 지원되는 지를 더 명확히 보여주어 웹에서 안정적으로 쓸 수 있는지를 판단할 수 있는 Baseline 공개
+  * web.dev와 MDN에서 표시될 것이며 Interop 2022/2023에서 Apple, Microsoft, Mizilla와 협력해서 제작, 앞으로도 1년에 한 번씩 베이스라인을 발표할 예정
 * [Browserslist](https://browsersl.ist/)
   * 다양한 JavaScript에서 브라우저 호환성 정보를 공유하는 Browserslist 공식 웹사이트
   * `defaults`나 `last 2 versions`같은 설정을 입력하면 자세한 브라우져 사용 현황 확인 가능
@@ -902,6 +907,11 @@ Web
 * [</> htmx - high power tools for html](https://htmx.org/)
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
   * [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
+  * [Chris James -HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
+    * SPA가 대세이지만 학습하는 비용도 많고 클라이언트에서 JavaSciprt도 많이 필요한데 htmx를 사용하면 훨씬 쉽기 때문에 앞으로 웹 개발에 한 축이 될 것이라고 주장
+    * SPA를 사용할 때 RESTful API를 이용하지만, 데이터만 주고받을 뿐 하이퍼미디어를 사용하지 않으므로 RESTful API를 쓰는 것은 아니며
+    * htmx에서는 서버의 언어를 맘대로 사용할 수 있고 하이퍼미디어를 그대로 이용하기 때문에
+    * 프론트엔드에서 JavaScript가 없어도 잘 동작하므로 쉬우면서 접근성 좋은 웹페이지를 만들 수 있고 프론트엔드/백엔드간의 협업도 더 편해진다고 이야기
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 * [sqlite-html: A SQLite extension for querying, manipulating, and creating HTML elements](https://github.com/asg017/sqlite-html)
@@ -1684,6 +1694,8 @@ Web
 * [webhint, the hinting engine for web best practices](https://webhint.io/)
   * [WebHint - 웹사이트 개선을 위한 도구 | GeekNews](https://news.hada.io/topic?id=4480)
 * [Web Vitals](https://web.dev/vitals/)
+  * [Using the Web Vitals extension to debug Core Web Vitals issues](https://web.dev/debug-cwvs-with-web-vitals-extension/)
+    * Web Vitals 익스텐션이 업데이트되어 콘솔에서 JSON으로 출력하던 정보를 LCP, CLS, FID, INP로 나누어서 출력해서 문제를 더 쉽게 파악할 수 있도록 개선
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
   * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
