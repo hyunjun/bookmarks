@@ -74,7 +74,6 @@ Artificial Intelligence
 * [AIY Projects: Do-it-yourself AI for Makers](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html)
 * [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 * [Top 10 Recent AI videos on YouTube](http://www.kdnuggets.com/2017/05/top-10-recent-ai-videos-on-youtube.html)
-* [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [인공지능이 소프트웨어 개발자 모두를 먹어 치울까?](https://brunch.co.kr/@synabreu/18)
 * [All AI Learning Resources](https://medium.com/ai-in-medicines/all-ai-learning-resources-bc5f797d0cfe)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
@@ -259,8 +258,6 @@ Artificial Intelligence
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
 # Library
-* [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
-* [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
@@ -278,7 +275,6 @@ Artificial Intelligence
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
-* [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
@@ -303,6 +299,13 @@ Artificial Intelligence
   * [AI이미지 추출 (2/5)](https://tariat.tistory.com/360)
   * [사진 변환 (3/5)](https://tariat.tistory.com/365)
   * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)
+
+# Tool
+* [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
+* [24 AI tools to future-proof yourself](https://www.linkedin.com/posts/zainkahn_if-youre-not-using-ai-youre-falling-behind-activity-7052629333625991168-opYQ/)
+* [연구 및 행정 활용 AI 도구들 | Pega Devlog](https://jehyunlee.github.io/2023/04/15/Python-General-22-AItools/)
+* [ChartAI - Diagramming as a Service](https://chartai.io/)
+* [Future Tools - Find The Exact AI Tool For Your Needs](https://www.futuretools.io/)
 
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
