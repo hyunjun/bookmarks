@@ -65,3 +65,6 @@ Self Control
 * [동조(conformity) 효과는 사회적 현상이 아닐 수도 있습니다](http://newspeppermint.com/2015/05/05/conformity/)
 
 * [윌 스미스는 어떻게 대처해야 했을까? < 인문 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=927) 분노
+
+* [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
+  * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
