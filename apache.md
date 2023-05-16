@@ -357,6 +357,7 @@ Apache
 * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
 * [Iceberg: a fast table format for S3](https://www.slideshare.net/Hadoop_Summit/iceberg-a-fast-table-format-for-s3-103201179)
 * [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0)
+* [클라우드의 데이터 지배자 '아파치 아이스버그' - ITWorld Korea](https://www.itworld.co.kr/news/251836)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
