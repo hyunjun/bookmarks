@@ -667,6 +667,10 @@ NLP
 * [Using Semantic Search to Drive Smart Annotations for Chatbot Models | by Samarth Agarwal | DBS Tech Blog | Jan, 2022 | Medium](https://medium.com/dbs-tech-blog/using-semantic-search-to-drive-smart-annotations-for-chatbot-models-f317db7fd41e)
 * [인공지능 대화 데이터, 언어 전문가가 만들어야 하는 이유](https://blog.naver.com/textnetofficial/222678979440)
 * [챗GPT와 유사한 오픈소스 모델 공개됐지만… - ZDNet korea](https://zdnet.co.kr/view/?no=20230103091955)
+* [7-docs](https://github.com/7-docs)
+  * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
+    * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
+    * 이 과정의 결과물로 7-docs라는 프로젝트 공개
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
@@ -1249,8 +1253,13 @@ NLP
 * [Replit - How to train your own Large Language Models](https://blog.replit.com/llm-training)
 * [Guiding Frozen Language Models with Learned Soft Prompts – Google AI Blog](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html)
 * [An Introduction to Large Language Models: Prompt Engineering and P-Tuning | NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-introduction-to-large-language-models-prompt-engineering-and-p-tuning/)
-* [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+* [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither/)
   * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129&fbclid=IwAR2-0-GWaInmD5507c6ZTFJYQpfpfp1k6rM7NSKjBlC8N3ZCns0-rXODOk4)
+  * Google뿐 아니라 OpenAI도 AI에 관해서 moat 해자 역할을 하는 보호장치가 없다고 이야기
+  * 이는 Google 내부의 한 연구원이 작성한 문서가 유출, 회사 전체의 의견은 아니지만 오픈소스 AI가 구글과 OpenAI를 모두 능가할 것이라고 주장
+  * 오픈 소스 모델이 더 빠르고 커스터마이징할 수 있으며 성능도 뛰어나면서 비용도 적게 들고 있어서 스케일링 문제 해결
+  * LoRA를 통해 몇 시간 만에 언어 모델을 개인화할 수 있게 되어 더 저렴하게 최신 모델을 유지할 수 있게 되어 오히려 가장 큰 모델을 유지 관리하는 게 더 불리한 입장
+  * 역설적으로 LLaMA가 유출된 Meta가 가장 승자로 오픈소스의 무료 노동력을 얻었으면 구글도 오픈소스와 협력해야 한다고 주장
 * [A list of open source LLMs available for commercial use](https://www.linkedin.com/posts/sudalairajkumar_llms-activity-7061196282454814720-XtZ4/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
