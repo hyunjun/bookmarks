@@ -1102,7 +1102,11 @@ AWS
 * [Amazon EKS 워크로드의 지속적인 복원력 확인을 위한 카오스 엔지니어링 (Chaos Engineering) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/continuous-resilience-testing-for-amazon-eks-workloads-with-chaos-engineering/)
 * [AWS EKS에 ALB를 이용해 여러 서비스 연결하기](https://nauco.tistory.com/91)
 * [AWS EKS에서 NGINX Ingress rewrite annotation 사용하기](https://nauco.tistory.com/94)
-* [Amazon EKS에서 Topology Aware Hint 기능을 활용하여 Cross-AZ 통신 비용 절감하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints/)
+* [Amazon EKS에서 Topology Aware Hint 기능을 활용하여 Cross-AZ 통신 비용 절감하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints)
+  * EKS에서 가용성을 위해 여러 존에서 노드를 운영하는 경우 Cross-AZ 비용이 증가
+  * 이때 Topology Aware Hint를 이용하면 같은 존끼리만 통신할 수 있고
+  * Deployment에는 Topology Spread Constraints를 설정해서 Pod이 각 존에 고르게 배포 가능
+  * 상황별 설정 방법과 동작 방식 설명
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
