@@ -1021,6 +1021,7 @@ Scala
     * [ZIO World - Panel Discussion - YouTube](https://www.youtube.com/watch?v=JxVe2M3ahm8)
     * [A Prelude of Purity: Scaling Back ZIO by Jorge Vasquez - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=Vq449igxuLk)
     * [ZIO HTTP by Shubham Girdhar - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=PnJsAOQ5cOc)
+    * [Zymposium - ZIO HTTP: RC1 and Beyond - YouTube](https://www.youtube.com/watch?app=desktop&v=N8w3vU7K8ao)
     * [ZIO Schedule and Ref by Ruurtjan Pul - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=IeEPO6GT3wM)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
@@ -2163,6 +2164,7 @@ Scala
 * [sbt 2.0 ideas · eed3si9n](https://eed3si9n.com/sbt-2.0-ideas)
 * [RFC-2: sbt 2.0 RFC process · eed3si9n](https://eed3si9n.com/sbt-2.0-rfc-process)
 * [Mastering SBT: Tips and Tricks for Using Not-So-Common Features](https://yadukrishnan.live/unlocking-the-power-of-sbt-a-beginners-guide-to-understanding-not-so-common-features)
+* [SBT WILL NEVER BE THE SAME AGAIN!!! - YouTube](https://www.youtube.com/watch?app=desktop&v=kyQQZxPfTlc)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
@@ -2619,6 +2621,7 @@ Scala
 * [Every Argument for Static Typing Applies to Typed Errors](https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03)
 * [Izumi Reflect: Scala Type System Model by Kai and Pavel Shirshov - YouTube](https://www.youtube.com/watch?v=ShRfzVz58OY)
 * [Guillaume Martres - Secrets of the Scala Type System - YouTube](https://www.youtube.com/watch?v=5EP3OsJ3TtI)
+* [Typed `[T]` Musings - Duncan DeVore - YouTube](https://www.youtube.com/watch?app=desktop&v=6zJegSqY9Fo)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
