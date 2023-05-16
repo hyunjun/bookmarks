@@ -5856,6 +5856,8 @@ Javascript
 * [Vue: Suspense 컴포넌트](https://velog.io/@composite/Vue-Suspense-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 * [Vue.js - 전역 상태 관리 - YouTube](https://www.youtube.com/watch?v=nJrcqIrJEDI)
 * [감자탕 먹고 Vue.js로 Figma 번역 플러그인 만든 이야기](https://engineering.linecorp.com/ko/blog/create-figma-translation-plugin-with-vuejs)
+* [What to Expect from Vue in 2023 and How it Differs from React - The New Stack](https://thenewstack.io/vue-2023/)
+  * [2023년 Vue에게 기대할 수 있는 점과 React와의 차이점 | bohyeon.dev](https://ktseo41.github.io/blog/log/what-to-expect-from-vue-in-2023-and-how-it-differs-from-react.html)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
