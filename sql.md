@@ -276,6 +276,7 @@ SQL
 * [우아한형제들에서 RDS를 모니터링 하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/)
 * [AWS RDS Storage 성능 비교. AWS 서비스에 사용할 Storage에 대한 자료를 찾아보다가  AWS… | by Kimmatt | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-rds-storage-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-3d1150b97b2e)
 * [Amazon Aurora I/O-Optimized 클러스터 구성- I/O 집약적 애플리케이션을 위한 최대 40% 비용 절감할 수 있는 스토리지 옵션 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
+* [실시간 복제 데이터를 이관시키는 방법. 안녕하세요. 스테이지랩스(STAYGE Labs) Back-End 팀… | by Victor Kang | staygelabs | May, 2023 | Medium](https://medium.com/stayge-labs/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EA%B4%80%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-498d3d52c8b4) migration DynamoDB to Aurora PostgreSQL
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
