@@ -951,6 +951,11 @@ App
     * [Dendron Onboarding Session - YouTube](https://www.youtube.com/watch?v=3io2fHRmZsE)
     * [A Day in Dendron - YouTube](https://www.youtube.com/watch?v=1mXGyG9ikD4)
     * [Note taking inside of VS Code - YouTube](https://www.youtube.com/watch?v=dW6m4_O0qvQ)
+  * [deoptexplorer-vscode: A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.)](https://github.com/microsoft/deoptexplorer-vscode)
+    * [Introducing Deopt Explorer - TypeScript](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
+      * Inline caching 최적화를 JavaScript VM에서도 사용하는데 한가지 타입만 관찰하는 Monomorphic IC이 가장 빠르고 여러 타입을 보는 Polymorphic IC, Megamorphic IC로 갈수록 느려짐
+      * TypeScript 팀에서 5.0을 준비하며 V8에서 생성된 트레이스 로그를 분석할 수 있는 VS Code용 확장 Deopt Explorer 공개
+      * 이 Deopt Explorer 확장을 이용해서 트레이스 로그를 이용해 Megamorphic IC가 발생하는 지점을 찾아서 이를 Monomorphic IC로 개선하는 과정을 보여줌
   * Docker
     * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
     * [How to Create a Docker Container in VS Code](https://morioh.com/p/ad57dc771938)
