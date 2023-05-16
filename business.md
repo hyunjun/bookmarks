@@ -1257,6 +1257,8 @@ Business
 * [항상 이기도록 도와주는 4가지 옵션](https://brunch.co.kr/@graypool/867)
   * [Real-Time Leadership: Find Your Winning Moves When the Stakes Are High](https://rtlinstitute.com/) MOVE Mindfully Options Validate Engage
   * Lean In, Lean Back, Lean With, Don't Lean
+* [37signals — The 37signals Guide to Making Decisions](https://37signals.com/how-we-make-decisions/)
+  * 37signals(지금은 Basecamp)가 의사결정을 할 때 고려하는 원칙 정리. 한 번에 다 다 고려하는 체크리스트는 아니고 결정할 때 참고하는 부분
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
