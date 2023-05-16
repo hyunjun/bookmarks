@@ -572,6 +572,7 @@ SQL
   * 대신 데이터를 조회하는 경우는 JSON 처리에 TEXT보다 오래 걸리기 때문에 JSON이 TEXT보다 훨씬 오래 소요
   * 대신 JSON은 내부의 특정 필드만 접근하거나 업데이트하는 경우나 특정 JSON 필드를 인덱스로 생성할 때는 그 효과를 볼 수 있음
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
+* [MySQL Optimizer Error. 옵티마이저 에러 & 힌트 | by Sunguck Lee | 당근마켓 테크 블로그 | May, 2023 | Medium](https://medium.com/daangn/mysql-optimizer-error-e438aa02e622)
 * [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 * [「개발 큐레이션」 MySQL과 쿼리 최적화](https://www.notion.so/MySQL-e8004e99b0f24a7cace27e7576b0c292)
