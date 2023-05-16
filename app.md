@@ -19,6 +19,7 @@ App
 * 데스크탑 자동화
   * autohotkey
     * [이미지를 인식하는 봇 만들기](https://ambitious-molecule-2ed.notion.site/bcd9abbc44cc4429b9f0271a43c9eeef)
+    * [오토핫키로 GUI입력 매크로 만들기](https://ambitious-molecule-2ed.notion.site/GUI-72a6ec22c85b488e960d847326b214a0)
   * autoit
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
