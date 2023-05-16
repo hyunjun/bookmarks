@@ -1285,6 +1285,7 @@ NLP
   * [한글자막 LangChain LLM explained GPT-4 interface - YouTube](https://www.youtube.com/watch?v=Mrf49u-QLVQ)
   * [랭체인으로 책 벡터 저장 & LLM 질문: 효율적인 방법 및 비용 분석 - YouTube](https://www.youtube.com/watch?v=9xiFa5e6H7c)
   * [How to create ChatGPT Clone — 🦜🔗 LangChain 0.0.162](https://python.langchain.com/en/latest/modules/agents/agent_executors/examples/chatgpt_clone.html)
+  * [LangChain (2/) | 뉴테크프라임](http://www.umlcert.com/langchain-2/)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
