@@ -670,6 +670,13 @@ Programming
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
 * [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
 * [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs) Software Bill of Materials SBOM
+* [SBOM(소프트웨어 자재명세서) 구현을 위한 개방형 표준 - 슬로우뉴스](https://slownews.kr/90108)
+  * SBOM(Software Bill Of Materials; 소프트웨어 자재명세서)은 소프트웨어를 구성하는 모든 컴포넌트 명세서, 특히 사이버 보안분야에서 주목
+  * 표준 SBOM 포맷
+    * 리눅스 재단이 오랫동안 지원하며 발전시켜 온 SPDX(Software Package Data Exchange)
+    * SPDX의 포괄성과 유연함이 걸림돌이 되어 보안과 컴플라이언스에 집중한 CycloneDX가 있는데 이는 OWASP에서 작성, GitHub, GitLab, 레드햇의 지지
+    * SWID(Software Identification)는 OASIS의 ISO/IEC 표준으로 정의한 식별정보
+  * 각 SBOM 표준 선택 기준도 설명
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
 * [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
@@ -2764,6 +2771,21 @@ Programming
     * 이를 이용해서 provider-jet-aws, provider-jet-azure, provider-jet-gcp를 제공함으로써(기존 프로바이더는 jet이 안붙어있다) 클라우드 서비스의 리소스를 모두 지원
 * [Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
   * [API 키 관리하는 방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/how-can-i-manage-api-keys)
+  * [Vercel Markup](https://service-markup.vercel.app/)
+    * Vercel의 많은 제품이 다른 서비스 위에서 만들어졌는데 이를 기반으로 가격 차이가 어느 정도인지를 비교한 페이지, Vercel의 KV, Postgres, Blob이 비교
+  * [Vercel Ship](https://vercel.com/ship)
+    * [Introducing storage on Vercel – Vercel](https://vercel.com/blog/vercel-storage)
+      * Upstash를 기반으로 한 Redis 솔루션인 Vercel KV, Neno에 기반한 서버리스 데이터베이스 Vercel Postgres, Cloudflare R2로 동작하는 스토리지 Vercel Blob을 발표
+    * [Introducing Vercel Firewall and Vercel Secure Compute – Vercel](https://vercel.com/blog/vercel-security)
+      * Vercel Serverless Funtions와 회사의 서버와 Pivate으로 연결할 수 있는 Vercel Secure Compute, DDoS를 방어하는 Vercel Firewall을 발표
+    * [Visual Editing: Click-to-edit content for headless CMSes – Vercel](https://vercel.com/blog/visual-editing)
+      * 조합형 콘텐츠 클라우드인 Sanity와 협업해서 코드 변경 없이도 콘텐츠를 바로 수정할 수 있는 Visual Editing을 발표
+    * [Quality software at scale with Vercel Spaces – Vercel](https://vercel.com/blog/vercel-spaces)
+      * 모노레포와 통합해서 개발 워크플로우, 코드 상태, 빌드 로드를 볼 수 있는 Vercel Spaces를 발표
+    * [Authentication for the frontend cloud – Vercel](https://vercel.com/blog/authentication-for-the-frontend-cloud)
+      * 기존 인증이 프론트엔드를 중심으로 구축되지 않았기에 Clerk를 이용해서 프론트엔드에서 인증을 지원
+    * [Improved support for Nuxt on Vercel – Vercel](https://vercel.com/blog/nuxt-on-vercel)
+      * Vercel에서 Nuxt와 협업해서 Vercel 제품을 Nuxt에서도 사용 가능
 * Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
   * [Vultr](https://docsify.sokuricat.com/b1tk3y/1843/#/921)
 
