@@ -1830,6 +1830,7 @@ Java
 * [SSO를 Spring Security OAuth에서 Keycloak으로 전환하기(서론) | by 박도하 | Feb, 2022 | Medium](https://medium.com/@doha.park/sso%EB%A5%BC-spring-security-oauth%EC%97%90%EC%84%9C-keycloak%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%84%9C%EB%A1%A0-8b3670f46f1a)
 * [Spring Security 5 OAuth 총정리: 클라부터 서버까지 | NHN FORWARD](https://forward.nhn.com/2021/sessions/4)
 * [How to use HTTP Basic Authentication in Spring Security? | by javinpaul | Javarevisited | Feb, 2023 | Medium](https://medium.com/javarevisited/how-to-use-http-basic-authentication-in-spring-security-b32f30b977c3)
+* [Test-Driven Security with Spring 6 by Eleftheria Stein-Kousathana - YouTube](https://www.youtube.com/watch?v=99yTMk8IG1o)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리 - YouTube](https://www.youtube.com/watch?v=AS1GLhhWFLU)
