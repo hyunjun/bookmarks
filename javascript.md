@@ -2368,6 +2368,14 @@ Javascript
   * [if(kakao)dev2022 복잡한 상태관리도구 Svelte스럽게 만들기](https://if.kakao.com/2022/session/81)
   * [Svelte REST-API 프로젝트 - YouTube](https://www.youtube.com/playlist?list=PLEU9vwKdoCqSOCmW55QZM2k2RE3EKChHY)
   * [왜 Svelte 프로젝트는 TypeScript에서 JSDoc으로 이전하는가? | Daniel Lee](https://typefully.com/dylayed/XalfMuZ)
+  * [TypeScript is 'not worth it' for developing libraries, says Svelte author, as team switches to JavaScript and JSDoc • DEVCLASS](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
+    * Svelte에 TypeScript에서 JSDoc으로 전환하는 Pull Request 생성
+    * TypeScript로 전환하는 추세에 반대로 가는 접근이라 논란이 많았는데
+      * Svelte를 만든 Rich Harris는 타입은 좋지만, TypeScript는 귀찮은 부분이 있고
+      * JSDoc으로 어노테이션을 넣으면 안전성은 확보하면서 TypeScript와 호환되기 때문에 더 좋다고 이야기
+      * 쟁점이 되어 Rich Harris가 해커 뉴스에 글도 남겼는데 타입 안전성을 포기하는 것이 아니라 타입 선언을 TS 파일에서 JS 파일로 옮긴 것뿐이라
+        * [Lordy, I did not expect an internal refactoring PR to end up #1 on Hacker News. ... | Hacker News](https://news.ycombinator.com/item?id=35892250)
+        * TypeScript의 장점은 그대로 유지할 수 있으면서 패키지도 작아지고 디버깅도 쉬워질 것이라고 주장
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
@@ -3094,7 +3102,10 @@ Javascript
   * Horizontal Scaling - 여러 호스트에서 job multiple processor를 지원하는지
   * 중복 실행 방지 - 다중 프로세스, 다중 스레드에서 실행하더라도 하나만 실행되는지
 * [7 Node JS Best Practices  -  2023 you should be aware of before starting your project. | Medium](https://medium.com/@kalkidant/7-node-js-best-practices-2023-37063634eef)
-* [Node.js url.parse() 취약점 컨트리뷰션](https://toss.tech/article/nodejs-security-contribution)
+* [Node.js url.parse() 취약점 컨트리뷰션](https://toss.tech/article/nodejs-security-contribution/)
+  * 토스 보안기술팀에서 Node.js의 `url.parse()`의 보안 취약점을 발견하고 이를 수정한 과정을 정리한 글
+  * WHATWG URL API가 있지만 node.js의 `url.parse()`는 자체 구현되어 있는데 스펙에 나와 있는 대로 허용되지 않는 문자열을 검사하는 로직으로 인해서 hostname spoofing 취약점이 발생
+    * 이를 Node.js에 보고하고 해결 방법을 논의하면서 이 취약점을 수정
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -4285,6 +4296,11 @@ Javascript
   * [React 프로젝트 내부에서 연구 개발 중인 프로젝트를... | 커리어리](https://careerly.co.kr/comments/81632)
 * [Maintainable React Components with Layered Architecture | Bits and Pieces](https://blog.bitsrc.io/improve-react-component-maintainability-with-layered-architecture-25e74ba86430)
 * [Mobile Convergence :: MS-12 NodeJS, React, AntD, Nx v16 업데이트 하기](https://mobicon.tistory.com/598)
+* [React Canaries: Enabling Incremental Feature Rollout Outside Meta – React](https://react.dev/blog/2023/05/03/react-canaries)
+  * React에서 아직 배포되기 전의 기능이 포함된 카나리 버전을 공식으로 배포하는 카나리 릴리즈 채널 공개
+  * Meta에서는 새 기능의 초기 버전을 개발하고 Meta 내부에서 일부 팀과 협업하며 시험을 한 뒤 디자인이 확정되면 Meta 내 사용 버전에 적용, 모두가 사용한 뒤 RFC를 공개하고 릴리스에 포함
+  * 여기서 카나리 릴리스는 Meta 내부에서 사용하는 버전으로 실험용 릴리스에 비해서 훨씬 안정적이고 이를 공개함으로써 커뮤니티의 피드백도 얻을 수 있기 때문에
+    * 각 라이브러리는 Stable과 최신 Canary를 모두 테스트하길 권장하고 Canary에도 변경 사항이 추가될 때 블로그에 변경 사항 공개 예정
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
