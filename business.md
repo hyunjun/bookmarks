@@ -1771,6 +1771,7 @@ Business
 * [조직과 삶을 효과적으로 관리 하기 위한 방법: 파킨슨의 3가지 법칙](https://www.linkedin.com/posts/soojung-shin-30398b75_%EC%A1%B0%EC%A7%81%EA%B3%BC-%EC%82%B6%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%ED%8C%8C%ED%82%A8%EC%8A%A8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EB%B2%95%EC%B9%99-1-%EA%B0%84%ED%98%B9-activity-7052798656927715328-3M89/)
 * [프로젝트 진행 계획표, 왜 필요하고 어떻게 작성해야 할까? | 웹으로 말하기](https://mytory.net/archives/14075)
 * [Managers are from Mars, Developers are from Venus by Ted Neward - YouTube](https://www.youtube.com/watch?v=iORx119qrWE)
+* [Managers Are Not That Stupid • Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TP3Rjd-51DE)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
