@@ -111,6 +111,7 @@ Elixir
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
+* [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
 
 # API
 * sigils
