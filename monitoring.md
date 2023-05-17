@@ -169,6 +169,7 @@ Monitoring
   * [Best Practices for Creating End-to-End Tests | Datadog](https://www.datadoghq.com/blog/test-creation-best-practices/#build-tests-that-automatically-adapt-to-factors-out-of-your-control)
     * [Shift-Left Model 테스트 모델](https://www.linkedin.com/feed/update/urn:li:activity:7021398498608644097/)
   * [DataDog 컨퍼런스 DASH 2022 참여 후기. 지난 10월 18일~19일 참여했던 DASH 2022, DataDog… | by Jaeeun Lee | Feb, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/datadog-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-dash-2022-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-f42b737ee586)
+  * [Track and Improve the Performance of Streaming Data Pipelines With Datadog Data Streams Monitoring | Datadog](https://www.datadoghq.com/blog/data-streams-monitoring/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
