@@ -248,6 +248,9 @@ Book
   * [반도체 삼국지](https://github.com/hyunjun/bookmarks/blob/master/books/semiconductor_of_three_kingdoms.md)
   * [반도체 삼국지. 반도체 산업의 역사에 대한 이야기도 재미있으나 그보다 더 인상적이었던… | by Jun | Nov, 2022 | Medium](https://nymets.medium.com/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80-cf8427952f6f)
   * [반도체 삼국지](https://jh4hj.tistory.com/entry/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%82%BC%EA%B5%AD%EC%A7%80)
+* (NOT COMPLETED) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
+  * ★★☆☆☆ 2023.05.17 모빌리티의 반도체에 대한 이야기인데 전반적인 내용을 다 다루기는 하지만, 결국 관련 회사 생태계에 대한 설명이 주된 부분이라 크게 흥미가 가진 않아서 2/3 정도만 읽음. 어쩐지 회사 소개를 통해 주식 투자에 관심있는 사람들을 타겟팅했단 생각이 들었는데, 아마 억측이겠지?
+  * 우당 문569.4-권64ㅈ
 * 스위스 안락사 현장에 다녀왔습니다 [스위스 안락사 현장에서 내가 들은 기막힌 농담](https://v.daum.net/v/20220912193603102)
   * ★★★☆☆ 2022.12.24 조력사 경험 후 기독교인이 되었다는 Part II 이야기에 꼭 그럴 수 밖에 없는 건가? 하는 의문이 가시지는 않지만 Part I은 굉장히 좋았음
   * 한라 126.504-신62ㅅ 탐라 문126.504-신61ㅅ
@@ -465,8 +468,6 @@ Book
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) 고독사는 사회적 타살입니다 ['깨끗한 고독사' 의문 풀리자 울컥했다…장롱 밑에서 발견된 건](https://v.daum.net/v/20230323170338569)
   * 우당 문334.9-권75ㄱ
-* (NOT YET) [자율주행차와 반도체의 미래](https://www.youtube.com/watch?v=b8N7OD57n-s)
-  * 우당
 * (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
 * (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
   * 우당 문337.2-베238ㅅ
