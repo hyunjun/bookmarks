@@ -175,6 +175,7 @@ Programming Language
 * [C++ vs Node.js vs Go - 멀티스레드 퀵정렬 수행속도 비교](https://remocon33.tistory.com/672)
 * [다른 언어로 성장하기](https://jojoldu.tistory.com/687)
 * [What Counts as a Programming Language? • Chelsea Troy • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=cz2oPxIU3u8)
+* [난해한 프로그래밍 언어 만들어보기 | kciter.so](https://kciter.so/posts/crafting-esolang)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
