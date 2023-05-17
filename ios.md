@@ -125,6 +125,7 @@ iOS
 * [네비게이션 바에서 큰 타이틀 사용하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/enable-navigation-bar-large-title/)
 * [iOS Modular Architecture 를 향한 여정 Part 1 — XcodeGen 도입과 모듈화의 시작 | by Wooseong Kim | 29CM TEAM | Medium](https://medium.com/29cm/modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xcodegen-%EB%8F%84%EC%9E%85%EA%B3%BC-%EB%AA%A8%EB%93%88%ED%99%94%EC%9D%98-%EC%8B%9C%EC%9E%91-19a7f7b6401a)
 * [iOS Modular Architecture 를 향한 여정 Part 2 — 프로젝트 모듈화, 레거시와 공존하기 | by Wooseong Kim | 29CM TEAM | Apr, 2023 | Medium](https://medium.com/29cm/ios-modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%93%88%ED%99%94-%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%99%80-%EA%B3%B5%EC%A1%B4%ED%95%98%EA%B8%B0-d63f5e454573)
+* [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31?fbclid=IwAR1QDk_Wm6BVoOKw_lBzxCJbfuThBE4vRL0dO2kxwYnxChuXgCj23Vzgk4o)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
