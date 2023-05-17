@@ -1675,6 +1675,7 @@ Docker
 * [Talking to Kubernetes with Rust - YouTube](https://www.youtube.com/watch?v=NPCq_3xjI5s)
 * [5-How to set up 3 node kubernetes cluster - 1 | Kubernetes Hands On (English) - YouTube](https://www.youtube.com/watch?v=EVaYVWdTDy0)
 * [Kubernetes & The Myth of Multi-cloud by Federico Fregosi - YouTube](https://www.youtube.com/watch?v=xS7wSUCrllA)
+* [Optimizing Resource Usage in Kubernetes by Carlos Sanchez - YouTube](https://www.youtube.com/watch?v=9hhu_AWiwok)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
