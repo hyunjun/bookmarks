@@ -3612,6 +3612,7 @@ Programming
 * [Data security at Agoda: How we automate encryption key rotation | by Chaiyatorn Niamrat | Agoda Engineering & Design | Mar, 2023 | Medium](https://medium.com/agoda-engineering/data-security-at-agoda-how-we-automate-encryption-key-rotation-e7ae37ea7885)
 * [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
 * [How to gain value from SAST tools in SDLC: Most common findings and mitigations by Stella Varvarigou - YouTube](https://www.youtube.com/watch?v=J-o2uJ3NBU0)
+* [How to deal with privacy and GDPR in Event-Sourced systems by Oskar Dudycz - YouTube](https://www.youtube.com/watch?v=7NGlYgobTyY)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
