@@ -5675,6 +5675,7 @@ Programming
 * [VDBUH2023 - Victor Rentea - Keynote: Your unit tests are trying to tell you something - YouTube](https://www.youtube.com/watch?v=Hy_wnGc5ya0)
 * [너와 나와 우리를 위한 클린코드 (feat. NextStep, TDD 클린코드 with React)](https://velog.io/@lucky-jun/%EB%84%88%EC%99%80-%EB%82%98%EC%99%80-%EC%9A%B0%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-feat.-NextStep-TDD-%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-with-React)
 * [개발일기 #110 : 균형있는 테스트에 대한 엔지니어링 의견](https://velog.io/@joosing/dev-diary-110)
+* [Building Operable Software with TDD (but not the way you think) by Martin Thwaites - YouTube](https://www.youtube.com/watch?v=IY8bAhbJEnc)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
