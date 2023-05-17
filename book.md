@@ -1537,6 +1537,9 @@ Book
     * [종의 기원 톺아보기](images/the_interpretation_of_on_the_origin_of_species_0.jpg)
     * [490쪽에 달하는 이 책을 참고문헌이 없는 요약본](images/the_interpretation_of_on_the_origin_of_species_1.jpg)
     * [인종 간의 차이가 아주 뚜렷하다는 점만을 언급](images/the_interpretation_of_on_the_origin_of_species_2.jpg) 지식의 한계도 있었겠지만 결국 다윈도 인종주의자였을까?
+* [물고기는 존재하지 않는다 - YouTube](https://www.youtube.com/watch?v=wqKmGB2KZxw)
+  * ★★★★☆ 2023.05.17 물고기가 인간의 자의적인 분류라는 깜짤 놀랄 사실과, 이 (존재하지 않는) 물고기라는 종의 분류를 주도한 인물이 스탠포드 대학과 관계가 있고, 우생학을 미국에 보급하는데 앞장선 문제의 인물이며, 그로 인해 미국이 얼마나 영향을 받았는지(그래서 비록 사문화되었다고는 하지만, 아직도 법에 남아있다는) 여러가지 놀라운 사실을 알게 되었다. 생선을 좋아하는데, 앞으로 생선을 먹을 때마다 이 책이 생각나지 않을까 하는 좀 수준 낮은 생각도 들고, 우생학이라는 지금은 사라졌다고 생각한 인종차별이 사실은 아직도 그림자를 드리우고 있다는 불쾌한 사실까지 많은 생각이 들었다. 그래도 이 책이 출판된 이후 스탠포드/인디애나 대학의 데이비드 조던 이름이 붙은 건물이 이름이 변경되었다는 에필로그를 보면 미국의 힘이 조금은 남아있단 생각도 든다.
+  * 한라 490.99-밀294ㅁ 탐라 문490.99-밀233ㅁ 우당 문490.99-밀233ㅁ
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
@@ -1545,8 +1548,6 @@ Book
 * (NOT YET) [사피엔스 - 유발 하라리](https://blog.naver.com/starshine867/222117613284)
   * 탐라 문909-유42ㅅ 우당 문909-하231ㅅ
   * [사피엔스 총정리 솔~직히 안 읽은 사람들 클릭~~ - YouTube](https://www.youtube.com/watch?v=gALGg2Vu9AI)
-* (NOT YET) [물고기는 존재하지 않는다 - YouTube](https://www.youtube.com/watch?v=wqKmGB2KZxw)
-  * 한라 490.99-밀294ㅁ 탐라 문490.99-밀233ㅁ 우당 문490.99-밀233ㅁ
 * (NOT YET) [박테리아에서 바흐까지, 그리고 다시 박테리아로](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302982694)
 * (NOT YET) [그림으로 읽는 서양과학사](https://www.hellodd.com/news/articleView.html?idxno=96197)
   * 탐라 문409-김53ㄱ
