@@ -1017,6 +1017,7 @@ Business
 * [리더가 쉽게 짜증내는 조직 급한 일 터질수록 사분오열 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10617802)
 * [초보 CEO의 실수. 비전만 말하기](https://greypencil.tistory.com/133)
 * [경영자는 현대산업사회의 기본적 기관(Organ)](https://brunch.co.kr/@graypool/699)
+* [경영활동은 시행착오로 가능성을 확인하는 일](https://brunch.co.kr/@graypool/961)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
