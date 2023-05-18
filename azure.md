@@ -124,12 +124,6 @@ Azure
 * [유튜브 비디오 업로드시 애저 이벤트그리드를 통해 다양한 소셜 미디어로 확산시키기 | Aliencube](https://blog.aliencube.org/ko/2021/01/27/websub-to-eventgrid-via-cloudevents-and-beyond/)
 * [Cloud Data Engineering - Easy , Lucrative & Sustainable | LinkedIn](https://www.linkedin.com/pulse/cloud-data-engineering-easy-lucrative-sustainable-deepak-rajak/)
 * [애저듣보잡 Azure Sphere - 윤기석 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9Wkv_uIdbKSXZaUCZG6BuBbhx)
-* [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
-* AKS
-  * [Azure Kubernetes Service - Version Upgrade(서비스 영향 최소화하기) - 기록으로 남겨보자](https://ysyu.kr/2022/02/how-to-upgrade-azure-kubernetes-service-with-minimal-service-impact/)
-  * [Docker | Azure Kubernetes Service | Azure DevOps - YouTube](https://www.youtube.com/playlist?list=PLtWisb74WDC9kSx9XdffAs8c0FNI3F_4z)
-  * [AKS(Azure Kubernetes Service)에서 WASI(WebAssembly 시스템 인터페이스) 노드 풀을 만들어 WASM(WebAssembly) 워크로드(미리 보기)를 실행합니다. - Azure Kubernetes Service | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/aks/use-wasi-node-pools)
-  * [GitHub 액션을 통해 ASP.NET 앱을 AKS에 배포한 후 성능 테스트 자동화하기 - YouTube](https://www.youtube.com/watch?v=kwJt6GcVlt4)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
 * [Hashicorp Vault Azure Secrets Engine - Secure Your Azure Resources | TeKanAid](https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azure-resources)
@@ -193,6 +187,14 @@ Azure
 * [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
 * [5 Best Azure DevOps Online Courses for Beginners and Experienced | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/5-best-azure-devops-online-courses-for-beginners-and-experienced-b1a88ac385a7)
 
+# AKS
+* [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
+* [Azure Kubernetes Service - Version Upgrade(서비스 영향 최소화하기) - 기록으로 남겨보자](https://ysyu.kr/2022/02/how-to-upgrade-azure-kubernetes-service-with-minimal-service-impact/)
+* [Docker | Azure Kubernetes Service | Azure DevOps - YouTube](https://www.youtube.com/playlist?list=PLtWisb74WDC9kSx9XdffAs8c0FNI3F_4z)
+* [AKS(Azure Kubernetes Service)에서 WASI(WebAssembly 시스템 인터페이스) 노드 풀을 만들어 WASM(WebAssembly) 워크로드(미리 보기)를 실행합니다. - Azure Kubernetes Service | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/aks/use-wasi-node-pools)
+* [GitHub 액션을 통해 ASP.NET 앱을 AKS에 배포한 후 성능 테스트 자동화하기 - YouTube](https://www.youtube.com/watch?v=kwJt6GcVlt4)
+* [AKS로 쿠버네티스 시작하기 : argocd툴에 ingress 통해 접속](https://devocean.sk.com/blog/techBoardDetail.do?ID=164784)
+
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
 * [세미나 발표 - YouTube](https://www.youtube.com/playlist?list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
@@ -218,6 +220,7 @@ Azure
 
 # Library
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
+* [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
