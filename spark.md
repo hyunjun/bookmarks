@@ -545,6 +545,7 @@
 * [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 * [Best Apache Spark and Scala Books for Mastering Spark Scala](https://data-flair.training/blogs/best-apache-spark-scala-books/)
 * [Spark for Data Analyst](https://wikidocs.net/book/1686) Spark SQL
+* [Scaling Machine Learning with Spark • Adi Polak & Holden Karau • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7M7wt3nY0dg)
 
 # Conference
 * [Spark Day 2017@Seoul(Spark Bootcamp)](https://www.slideshare.net/SangbaeLim/spark-bootcamp2017inseoul-finalpt20170626distv1)
