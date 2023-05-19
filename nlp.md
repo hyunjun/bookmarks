@@ -826,6 +826,7 @@ NLP
     * [Open API를 활용한 연구원의 업무 효율화](https://aifactory.space/learning/2361/discussion/234)
     * [챗GPT 러닝데이 | 챗GPT말고 LLM LLM 기반 챗봇 만들기 - 박찬성](https://aifactory.space/learning/2419/discussion/339)
     * [챗GPT 러닝데이 | 챗GPT말고 LLM 딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)
+    * [챗GPT 러닝데이 | 챗GPT말고 LLM LoRA로 빠르게 나만의 모델을 만들어보자](https://aifactory.space/learning/2433/discussion/358)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)
   * [Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Significant-Gravitas/Auto-GPT)
     * [ChatGPT 는 잊어라. AutoGPT 가 왔다. - YouTube](https://www.youtube.com/watch?v=YbLef4CrZNU)
