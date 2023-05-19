@@ -665,6 +665,7 @@ Programming
 * [The Essence of Programming - gingerBill](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
 * [kor-law-for-dev: 개발자들이 숙지해야할 한국의 법률을 모았습니다](https://github.com/hsh2001/kor-law-for-dev)
 * [Digital Transformation Journey. Software is “still” eating the world | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/digital-transformation-journey-3c49829338d6)
+* [Strangler Fig 패턴과 점진적 IT 투자](https://brunch.co.kr/@graypool/966) 기술적인 이야기는 아니라서 여기에
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
