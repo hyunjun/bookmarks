@@ -1147,6 +1147,7 @@ Programming Books
   * 우당 문004.588-즈47ㄷ
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
+* (NOT YET) [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
