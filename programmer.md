@@ -56,6 +56,7 @@ Programmer
   * 탁월한 엔지니어는 "좋은 코드를 짜고" "작업의 현재 가치를 극대화하고" "데이터 기반으로 의사결정을 하고" "동료의 효과적 의사결정을 도우며" "꾸준히 학습"한다
   * 탁월한 프론트 엔지니어를 웹 특화, 제품 특화, 운영 특화로 나누어서 어떤 특징이 있고 어떤 역량이 필요한지를 정리
 * [주니어 개발자를 위한 조언 · Present](https://present.do/documents/640ed903fa0b5a11370d7dbd)
+* [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
