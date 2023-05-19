@@ -227,6 +227,7 @@
 * [Building Embedded Systems With Rust - YouTube](https://www.youtube.com/watch?v=x7LQevYn7d0)
 * [From High-Level to Systems Programming: A Practical Guide to Rust by Ben Greenberg - YouTube](https://www.youtube.com/watch?v=avz_SQZMxCU)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
+* [RustNL 2023 Conference - YouTube](https://www.youtube.com/watch?v=9Q4yNlbfiYk)
 
 # Go
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
