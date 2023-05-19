@@ -1085,6 +1085,7 @@ Python
   * [Python Reflection and Introspection | by Jamie Bullock | Better Programming | Medium](https://medium.com/better-programming/python-reflection-and-introspection-97b348be54d8)
   * [How to Create Lazy Attributes to Improve Performance in Python | by Yong Cui, Ph.D. | Better Programming | Medium](https://medium.com/better-programming/how-to-create-lazy-attributes-to-improve-performance-in-python-b369fd72e1b6) @property decorator, `__getattr__`
   * [Mind-bending metaclasses - adding function overloads to Python - YouTube](https://www.youtube.com/watch?v=yWzMiaqnpkI)
+  * [Python Metaclasses: Everything is an Object - YouTube](https://www.youtube.com/watch?v=uLPnBaUhjKU)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
