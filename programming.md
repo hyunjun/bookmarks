@@ -1925,6 +1925,7 @@ Programming
 * [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
 * [Service Mesh 란?. 수년간 Enterprise IT환경은 급격하게 변하고 있습니다. 특히… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/service-mesh-%EB%9E%80-8dfafb56fc07)
 * [What is a Service Mesh, and why do you need one? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/what-is-service-mesh-why-you-need-one/)
+* [Sidecars, eBPF and the Future of Service Mesh - YouTube](https://www.youtube.com/watch?v=anKq-L49tGc)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
