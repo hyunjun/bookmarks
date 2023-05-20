@@ -3233,8 +3233,6 @@ Programming Books
   * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
   * [프로덕트 리더십이 중요한 이유](https://brunch.co.kr/@graypool/946)
   * [프로덕트 매니저의 가장 어려운 역할](https://brunch.co.kr/@graypool/959) `프로덕트 매니저의 가장 어려운 역할은 시간, 비용, 에너지를 소비할 대상을 결정하는 것이다`
-* (NOT YET) [유저 프렌들리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300340786)
-  * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
@@ -3942,6 +3940,9 @@ Programming Books
 * [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
   * ★★★☆☆ 2023.04.02~03 UI/UX 101같은 책으로 기초적인 지식부터 잘 읽어볼 수 있어 비전공자가 참고하기 좋음
   * 한라 324.35-타195ㅅ
+* [유저 프렌들리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300340786)
+  * ★★★☆☆ 2023.05.18, 20 구체적인 부분보다 UI/UX 101에 약간 더 가까운 책으로 사용자 친화적인 디자인의 역사나, 그로 인한 문제들까지 좀 더 넓은 시각에서 볼 수 있는 책
+  * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
