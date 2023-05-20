@@ -1378,6 +1378,7 @@ Deep Learning
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
+* [Codeium · Free AI Code Completion & Chat](https://codeium.com/)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * CoreML
   * [coreml-scikit-example - Apple CoreML example with scikit-learn](https://github.com/mfpierre/coreml-scikit-example)
