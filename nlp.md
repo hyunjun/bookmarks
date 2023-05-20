@@ -873,6 +873,11 @@ NLP
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
     * AI용 분산 클라우드를 제공하는 Together에서 소스 코드, 모델 가중치, 트레이닝 데이터 세트를 포함한 OpenChatKit을 오픈소스로 공개
     * OpenChatKit은 GPT를 이용하는 챗봇을 만들 수 있게 개발되었으며 목적에 맞게 파인 튜닝도 지원
+  * [privateGPT: Interact privately with your documents using the power of GPT, 100% privately, no data leaks](https://github.com/imartinez/privateGPT)
+    * 오프라인에서도 사용 가능한 비공개 LLM 기반 Chat
+    * 2주도 안되어 Star 18k, fork 1.9k
+    * 맥북, 리눅스, 윈도우 PC 구동 가능. 단, 윈도우는 몇 가지 추가 설치 필요
+    * Chat UI 도 PR 에 있으며 검토 중
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
     * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
@@ -1327,6 +1332,7 @@ NLP
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
+* [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms) 
 * [semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
   * [Hello, Semantic Kernel! | Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
   * [Introducing Semantic Kernel](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel)
