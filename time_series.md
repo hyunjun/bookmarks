@@ -55,6 +55,7 @@ Time Series
   3. 태뷸러 데이터셋은 사실 부스팅 3 대장이 천하통일을 했고 AutoML 적용이 쉽기 때문에 대학생 뉴비든, 수석 데이터 과학자든 모델링 성과에서 큰 차이를 보여주기 어려움. 그러니까 테크 스킬 분야가 평준화. 조금 더 다루기 어렵고 아직 파편화된 테크 스킬 분야(사람 손을 많이 탄다는 뜻)를 공략해보고 싶다면 시계열 모델링 쪽도 나쁘지 않아 보이나 Amazon Forecast 서비스가 있음
 * [Kishan Manani - Feature Engineering for Time Series Forecasting | PyData London 2022 - YouTube](https://www.youtube.com/watch?v=9QtL7m3YS9I)
 * [Copulas: An Essential Guide & Applications in Time Series Forecasting | by Nikos Kafritsas | Mar, 2023 | Towards Data Science](https://towardsdatascience.com/copulas-an-essential-guide-applications-in-time-series-forecasting-f5c93dcd6e99)
+* [Timeseries dataset generation in tensorflow – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4462)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
