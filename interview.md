@@ -255,6 +255,7 @@ Interview
 * [InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
 * [자바 백엔드 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
 * [자바 백엔드 기술 면접 대비하기 - 2편 (고급편)](https://f-lab.kr/blog/java-backend-interview-2)
+* [변별력을 200% 더 높인 개발자 채용 방법: 코드 리뷰 테스트](https://blog.gangnamunni.com/post/code-review-test/)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
