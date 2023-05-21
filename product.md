@@ -47,6 +47,7 @@ Product
 * [캡슐 토이를 파해쳐 보자 #2 - 후치코](https://brunch.co.kr/@jaedi/23)
 * [공기 위에 눕다, 야외용 간이 침대](http://www.earlyadopter.co.kr/68554)
 * [이런 멀티탭도 있다고? - 베스트5 - YouTube](https://www.youtube.com/watch?v=KQQxxoH39b8)
+* [꼭 챙기세요! 여행의 질이 달라집니다. 직접 써보고 추천하는 해외여행 필수템 BEST10 - YouTube](https://www.youtube.com/watch?v=OYd2Hmd5L7s) 멀티탭 등
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 * [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/) e-ink
 * [스팸기름 떡칠도 닦아버리는 미친 성능의 안경닦이 물티슈ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=Jl4lTbH2YRY)
