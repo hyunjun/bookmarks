@@ -71,6 +71,7 @@ Google Cloud Platform GCP
 * [컬리의 BigQuery 도입기 - 1부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-1/)
 * [컬리의 BigQuery 도입기 - 2부 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/bigquery-2/)
 * [BigQuery Omni with AWS](https://jybaek.tistory.com/982)
+* [Bigquery Cloud Storage를 통한 빅쿼리 테이블 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/20/cloud-storage/)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
