@@ -75,6 +75,7 @@ Redis
   * [Transactions and Locks](http://intro2libsys.info/introduction-to-redis/transactions-and-locks)
   * [6.2.3 Building a lock in Redis](https://redislabs.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-2-distributed-locking/6-2-3-building-a-lock-in-redis/)
   * [SETNX key value](https://redis.io/commands/setnx)
+  * [풀필먼트 입고 서비스팀에서 분산락을 사용하는 방법 - Spring Redisson - 컬리 기술 블로그](https://helloworld.kurly.com/blog/distributed-redisson-lock/)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 1](http://tech.kakao.com/2017/10/23/wcache-1/)
 * [분산 웹 캐시 (Wcache)의 개선과정 - Part 2](http://tech.kakao.com/2017/10/23/wcache-2/)
 * [Replication](https://redis.io/topics/replication)
