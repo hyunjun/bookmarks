@@ -901,6 +901,7 @@ Programming Books
   * 우당 문005.13-고819ㅍ
   * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
   * [dmc3: Example programs from "Discovering Modern C++" 2nd edition (3rd code update)](https://github.com/petergottschling/dmc3)
+* (NOT YET) ["쉽게 설명한 C++ 핵심 가이드라인"](https://occamsrazr.net/tt/391)
 
 # C#
 
