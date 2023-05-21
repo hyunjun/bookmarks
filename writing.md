@@ -27,6 +27,7 @@ Writing
 * [함부로 옛 선인들의 말씀을 자신들의 입맛에 맞게 왜곡하지 말지어다](http://ppss.kr/archives/50451)
 * [1852년 3월 20일. 엉클 톰, 세상으로 나오다](http://ppss.kr/archives/46441)
 * [번역을 비평하고 싶다면? – 위대한 개츠비 번역 비교](http://slownews.kr/43694)
+* [우리말답게 번역하기](https://younghoe.files.wordpress.com/2015/07/ec9ab0eba6aceba790eb8bb5eab28cebb288ec97aded9598eab8b0_09-01-06.pdf)
 * [어떻게 해야 글솜씨가 늘까](http://www.venturesquare.net/597892)
 * [보이지 않는 전제의 중요성](http://ppss.kr/archives/46726)
 * [문서의 완성도를 평가하는 네 가지 관문](http://ppss.kr/archives/55379)
