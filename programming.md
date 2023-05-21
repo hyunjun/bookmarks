@@ -276,6 +276,7 @@ Programming
 * [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [Reading Code Is Harder Than Writing It – Trisha Gee](https://trishagee.com/presentations/reading_code/)
+* [How to Read Complex Code • Felienne Hermans • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=58LeSsn_nSQ)
 * [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [좋은 코드란 무엇일까? | JBEE.io](https://jbee.io/etc/what-is-good-code/)
 * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
