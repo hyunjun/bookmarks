@@ -452,6 +452,7 @@ Git
 * [GitHub Actions의 스킵된 Required 잡 실행하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1671)
 * [GitHub Actions - Actions Runner Controller Public Beta | GitHub Changelog](https://github.blog/changelog/2023-05-10-github-actions-actions-runner-controller-public-beta/)
   * GitHub Actions의 셀프 호스티드 러너를 Kubernetes에서 운영할 수 있도록 도와주는 Kubernetes 오퍼레이터인 Actions Runner Controller(ARC)가 퍼블릭 베타로 공개
+* [Writing a GitHub Action with Scala.js | TonioGela's](https://toniogela.dev/gh-action-in-scala/)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
