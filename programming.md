@@ -2448,6 +2448,7 @@ Programming
 * [Serverless: 6 Years Later • Erwin van der Koogh • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=-2UE3C329Ek)
 * [Thinking Serverless: From User Request to Serverless Solution • James Beswick • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=dUXDuxqTxmo)
 * [Serverless: Five Key Things you need to Know • Gojko Adzic • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=ovRt6O7q1rA)
+* [Dancing with Serverless • Peter Sbarski • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GaeBGRbB0eE)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
