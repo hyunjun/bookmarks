@@ -1400,6 +1400,7 @@ Javascript
     * 명세를 처음부터 끝까지 읽는 사람은 없으므로 필요한 부분을 찾아서 보는 게 좋음
     * 명세에서 많은 약칭과 규칙들이 있어서 처음 볼 때 어려운데 이러한 약칭을 설명하고 예시를 보여줘서 한번 파악해두면 ECMAScript 명세 볼 때 도움
 * [ECMAScript 2022 살펴보기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/07/06/ECMAScript-2022.html)
+* [2023년. 드디어 새로운 자바스크립트가 왔다...! - YouTube](https://www.youtube.com/watch?v=e6WV_DXGwSg) ECMA2023
 * [Ecma International approves ECMAScript 2022: What’s new?](https://2ality.com/2022/06/ecmascript-2022.html)
   * [번역 Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요?](https://velog.io/@dev_boku/%EB%B2%88%EC%97%AD-Ecma-%EC%9D%B8%ED%84%B0%EB%84%A4%EC%85%94%EB%84%90%EC%97%90%EC%84%9C-ECMAScript-2022%EB%A5%BC-%EC%8A%B9%EC%9D%B8%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 * [자바스크립트의 새로운 기능들 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220728-es2022/)
