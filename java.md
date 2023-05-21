@@ -1713,6 +1713,7 @@ Java
   * [WebFlux 사용시 WebClient를 써야하는 이유](https://effectivesquid.tistory.com/entry/WebFlux-%EC%82%AC%EC%9A%A9%EC%8B%9C-WebClient%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [네? Webflux에선 Pagination을 못쓴다고요? 그럼 만들지 뭐...](https://velog.io/@vinto1819/%EB%84%A4-Webflux%EC%97%90%EC%84%A0-Pagination%EC%9D%84-%EB%AA%BB%EC%93%B4%EB%8B%A4%EA%B3%A0%EC%9A%94-%EA%B7%B8%EB%9F%BC-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%AD%90)
   * [Handling-reqeust-binding-exception in webflux](https://dev.gmarket.com/66)
+  * [Spring WebFlux에서 Flux<String>을 응답할 때 JSON Array가 아닌 단일 String으로 응답되는 이슈](https://kim-jong-hyun.tistory.com/149)
 * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
 * 신입 개발자 & 학생을 위한 Spring MVC Setting
   * [(1편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/)
