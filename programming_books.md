@@ -1660,7 +1660,7 @@ Programming Books
 * (NOT YET) [데브옵스를 지탱하는 클라우드 네이티브 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634529)
   * 한라
 * (NOT YET) [도커 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299184726)
-  * 탐라
+  * 탐라 우당 문005.1-스835ㄷ
 
 ## Kubernetes
 
