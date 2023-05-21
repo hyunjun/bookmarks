@@ -1149,6 +1149,14 @@ Programming Books
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
 * (NOT YET) [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
+* (NOT YET) [공익을 위한 데이터 | 에이콘출판사](http://acornpub.co.kr/book/data-action)
+  * 탐라 문005.76-윌239ㄱ
+* (NOT YET) [비즈니스 데이터 과학](https://hanbit.co.kr/store/books/look.php?p_code=B6001875802)
+  * 탐라 문005.76-태229ㅂ
+* (NOT YET) [데이터 과학 효율을 높이는 데이터 클리닝 | 에이콘출판사](http://acornpub.co.kr/book/data-cleaning)
+  * 탐라 문005.7-메238ㄷ
+* (NOT YET) [어쩌다 데이터 분석 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B7520909011)
+  * 탐라 문005.133-김67ㅇ
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -1421,6 +1429,8 @@ Programming Books
   * 한라 004.73-후64ㅁ
 * (NOT YET) [데이터 과학 레벨 업 with 로드맵](https://hanbit.co.kr/store/books/look.php?p_code=B9570217910) kaggle
 * (NOT YET) [추천 시스템 입문](https://www.hanbit.co.kr/store/books/look.php?p_code=B7471666713)
+* (NOT YET) [데이터 분석가가 반드시 알아야 할 모든 것 | 위키북스](https://wikibook.co.kr/eda/) kaggle
+  * 탐라 문005.76-황53ㄷ
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
