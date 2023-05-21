@@ -1062,6 +1062,7 @@ Python
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
   * [practice - recursive call does NOT work](https://github.com/hyunjun/practice/blob/master/python/test-basic/map_cannot_do_recursive_call.py)
+  * [Out of memory in Executor.map – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4458)
 * match case
   * [Switch-Case is Match-Case python - Python Electroica Blog](https://blog.electroica.com/switch-case-is-match-case-python/)
   * [The real purpose of Python's match statement, feat. CSTs - YouTube](https://www.youtube.com/watch?v=ASRqxDGutpA)
