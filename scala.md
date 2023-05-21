@@ -554,6 +554,7 @@ Scala
 * ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * [An Akka, Cats and Cassandra Project in Scala - Full Version - YouTube](https://www.youtube.com/watch?v=M1PeE90DC38)
 * [Benchmarking Kafka vs Akka Brokerless Pub/Sub | Lightbend](https://www.lightbend.com/blog/benchmarking-kafka-vs-akka-brokerless-pub-sub)
+* [Akka: Enabling the Cloud to Edge Continuum | Lightbend](https://www.lightbend.com/blog/akka-enabling-the-cloud-to-edge-continuum)
 * [akka-apache: Build highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/mdedetrich/akka-apache)
 * [Akka durable state](https://softwaremill.com/akka-durable-state/)
 * [Akka Fork FUD - Alexandru Nedelcu](https://alexn.org/blog/2022/09/21/akka-fork-fud/)
@@ -716,6 +717,8 @@ Scala
 * [Functional Error Handling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-error-handling-in-scala/)
 * [Underrated Scala Features and Hidden Gems in the Standard Library | ScalaJobs.com](https://scalajobs.com/blog/underrated-scala-features-and-hidden-gems/)
 * [Ross A. Baker: Build your vocabulary with Scala affixes](https://rossabaker.com/blog/scala-affixes/)
+* [Iterator.iterate | Yann Moisan](https://www.yannmoisan.com/scala-iterator-iterate.html)
+* [Chain of responsability with Scala partial functions | Yann Moisan](https://www.yannmoisan.com/scala-partial-functions.html)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1776,6 +1779,7 @@ Scala
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
 * [Secure the Dependencies of your Scala Project on GitHub | The Scala Programming Language](https://scala-lang.org/blog/2022/07/18/secure-your-dependencies-on-github.html)
 * [New Scala Build Tool – John A De Goes](https://degoes.net/articles/new-scala-build-tool)
+* Bleep [Hello from Bleep | Bleep](https://bleep.build/)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
   * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
@@ -2164,7 +2168,7 @@ Scala
 * [sbt 2.0 ideas · eed3si9n](https://eed3si9n.com/sbt-2.0-ideas)
 * [RFC-2: sbt 2.0 RFC process · eed3si9n](https://eed3si9n.com/sbt-2.0-rfc-process)
 * [Mastering SBT: Tips and Tricks for Using Not-So-Common Features](https://yadukrishnan.live/unlocking-the-power-of-sbt-a-beginners-guide-to-understanding-not-so-common-features)
-* [SBT WILL NEVER BE THE SAME AGAIN!!! - YouTube](https://www.youtube.com/watch?app=desktop&v=kyQQZxPfTlc)
+* [SBT WILL NEVER BE THE SAME AGAIN!!! - YouTube](https://www.youtube.com/watch?v=kyQQZxPfTlc)
 * [Giter8 — Giter8](http://www.foundweekends.org/giter8/)
   * [Creating an SBT Project Template using Giter8](https://yadukrishnan.live/creating-an-sbt-project-template-using-giter8)
   * [DevInsideYou](https://github.com/DevInsideYou?utf8=%E2%9C%93&q=.g8)
