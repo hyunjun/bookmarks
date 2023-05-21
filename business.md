@@ -2396,6 +2396,7 @@ Business
 * [The Best Way To Launch Your Startup | Startup School - YouTube](https://www.youtube.com/watch?v=u36A-YTxiOw)
 * [유리 투명함](https://www.thestartupbible.com/2023/05/glass-transparency.html)
 * [스타트업이 받을 수 있는 클라우드, SaaS 혜택](https://jojoldu.tistory.com/716)
+* [Trade-Offs in Building a Software Company from Startup to Scale Up • Geeta Schmidt • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ujO3p79h6TI)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
