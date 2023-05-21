@@ -524,6 +524,7 @@ AWS
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
 * [What is Intelligent Search? - YouTube](https://www.youtube.com/watch?v=Xj_d2eX4nTY)
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+* [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -999,6 +1000,7 @@ AWS
 * [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 * [ECS 톺아보기. ECS 기본 개념을 확실히 알아보고, ECS로 서비스를 출시하는 방법에… | by 김승수 | 오토피디아 | Sep, 2022 | Medium](https://medium.com/autopedia/ecs-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-4e69025f9941)
 * [Amazon ECS Service Connect – 컨테이너 기반 마이크로서비스내 간편한 통신 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-ecs-service-connect-enabling-easy-communication-between-microservices/)
+* [Amazon ECS에서 기존에 사용하던 서비스 검색 기능을 Amazon ECS Service Connect로 전환하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/migrate-existing-amazon-ecs-services-from-service-discovery-to-amazon-ecs-service-connect/)
 * [“Kubernetes vs AWS ECS” for Application Developers | by Chandra Shettigar | Jan, 2023 | Medium](https://medium.com/@shettigarc/kubernetes-vs-aws-ecs-for-application-developers-3afb10d1f050)
 * [애플리케이션 오토 스케일링의 사용자 정의 지표 기반으로 Amazon ECS 오토 스케일링 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/autoscaling-amazon-ecs-services-based-on-custom-metrics-with-application-auto-scaling/)
 * [AWS ECS vs. EKS: What is The Difference | Medium](https://ip-specialist.medium.com/aws-ecs-vs-eks-what-is-the-difference-3e83a4ad0811)
