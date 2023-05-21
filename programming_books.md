@@ -319,6 +319,7 @@ Programming Books
 * (NOT YET) [그림으로 이해하는 인지과학](https://polydalai.tistory.com/entry/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99)
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 * (NOT YET) [게임이 세상을 바꾸는 방법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314582701)
+* (NOT YET) [그림과 작동 원리로 쉽게 이해하는 웹의 기초 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/21/Basic-of-Web.html)
 
 # Agile Scrum
 
