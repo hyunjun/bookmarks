@@ -5567,6 +5567,7 @@ Programming
 * [토스증권 QA 문화 ‘통합테스트’를 아시나요? (feat. 해외주식)](https://toss.tech/article/tossinvest-qa-integration-test)
 * [QA Roadmap: Learn to become a modern QA engineer](https://roadmap.sh/qa)
 * [A day in the life of a Quality Engineer (QE) - JuniorDevSG - YouTube](https://www.youtube.com/watch?v=VEneH07itYk)
+* [나는 어떤 강점이 있는 QA 엔지니어일까? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2023/05/15/qa-skills-marktang.html)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [TDD 해보니까 어때? (2) | Sehun Kim](https://sehun-kim.github.io/sehun/tdd-paircoding2/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
