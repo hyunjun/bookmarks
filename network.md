@@ -98,6 +98,7 @@ Network
 * [Network Policy](https://lifeoncloud.kr/entry/Network-Policy)
 * [Traffic Mirroring 서비스 소개 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/363)
 * [네트워크 소켓(윈속)과 연결상태, 동시성, IO 모델](https://blog.naver.com/pjt3591oo/223101051947)
+* [글로벌 게임 퍼블리싱을 위한 해외 유저 테스트 VPN 서비스 - 넷마블 기술 블로그](https://netmarble.engineering/multi-region-vpn-service-for-global-game-publishing)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
