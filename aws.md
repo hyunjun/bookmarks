@@ -523,6 +523,7 @@ AWS
 * [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
 * [What is Intelligent Search? - YouTube](https://www.youtube.com/watch?v=Xj_d2eX4nTY)
+* [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -656,6 +657,7 @@ AWS
 * [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 1부 : 표준 로그 기반 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-1/)
 * [Amazon CloudFront를 활용한 미디어 서비스 모니터링 방안, 2부 : 실시간 로그 기반 모니터링 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/media-cf-monitoring-2/)
 * [프로덕션 트래픽을 사용하여 Amazon CloudFront의 CloudFront 함수 테스트하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/writing-and-testing-cloudfront-functions-with-production-traffic/)
+* [전자상거래 웹 사이트에서 CloudFront 및 CloudFront Functions를 활용한 방문자 우선 순위 지정하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/visitor-prioritization-on-e-commerce-websites-with-cloudfront-and-cloudfront-functions/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
@@ -1109,6 +1111,7 @@ AWS
   * 이때 Topology Aware Hint를 이용하면 같은 존끼리만 통신할 수 있고
   * Deployment에는 Topology Spread Constraints를 설정해서 Pod이 각 존에 고르게 배포 가능
   * 상황별 설정 방법과 동작 방식 설명
+* [“nodeless” 검색결과 - 리눅서의 기술술 블로그](https://linuxer.name/?s=nodeless)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1926,6 +1929,7 @@ AWS
 * [자바스크립트로 S3에 파일 올리기 #1 | blog](http://help.realgrid.com/blog/s3/005/)
   * [Part 5. 자바스크립트로 S3에 파일 올리기 #1 - YouTube](https://www.youtube.com/watch?v=R4DK15t_8uE)
 * [S3 Interface Endpoint에 대한 DNS Name 지원](https://zigispace.net/1224)
+* [How to understand and if possible reduce your AWS S3 bill? | by Fernando Hönig | Medium](https://medium.com/@fernandohonig/how-to-understand-and-if-possible-reduce-your-aws-s3-bill-25e8182e2a92)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
 
