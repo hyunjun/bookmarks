@@ -283,6 +283,7 @@ Android
 * [Pluu Dev - EditText 포커스 레벨업](https://pluu.github.io/blog/android/2023/03/04/edittext/)
 * [웹에서 파일 선택하기: onShowFileChooser()를 이용한 단일 및 복수 파일 선택 방법 | by galcyurio | PRND | Mar, 2023 | Medium](https://medium.com/prnd/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-onshowfilechooser-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A8%EC%9D%BC-%EB%B0%8F-%EB%B3%B5%EC%88%98-%ED%8C%8C%EC%9D%BC-%EC%84%A0%ED%83%9D-%EB%B0%A9%EB%B2%95-b2553726b06e)
 * [안드로이드 포그라운드 서비스를 활용한 메모리부족으로 앱 종료되는 현상 개선 :: GS Retail Engineering](https://gsretail.tistory.com/30)
+* [DiffUtil 이해하기](https://dev.gmarket.com/79)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
