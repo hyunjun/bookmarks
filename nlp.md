@@ -1269,6 +1269,9 @@ NLP
   * LoRA를 통해 몇 시간 만에 언어 모델을 개인화할 수 있게 되어 더 저렴하게 최신 모델을 유지할 수 있게 되어 오히려 가장 큰 모델을 유지 관리하는 게 더 불리한 입장
   * 역설적으로 LLaMA가 유출된 Meta가 가장 승자로 오픈소스의 무료 노동력을 얻었으면 구글도 오픈소스와 협력해야 한다고 주장
 * [A list of open source LLMs available for commercial use](https://www.linkedin.com/posts/sudalairajkumar_llms-activity-7061196282454814720-XtZ4/)
+* [금융지식의 LLM Adaptation Part1 금융지식편](https://www.facebook.com/groups/TensorFlowKR/posts/2039158413091873/)
+* [금융지식의 LLM Adaptation Part2 LLM 동향편](https://www.facebook.com/groups/TensorFlowKR/posts/2040179472989767)
+* [금융지식의 LLM Adaptation Part3 Adaptation편](https://www.facebook.com/groups/TensorFlowKR/posts/2041190419555339/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
