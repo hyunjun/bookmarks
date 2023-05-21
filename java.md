@@ -1852,6 +1852,7 @@ Java
 * [Spring Core - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Spring+Core)
 * [테크톡 스프링 데이터 들여다보기 - YouTube](https://www.youtube.com/watch?v=N6tc44b-ATk)
 * [Spring 레플리케이션 트랜잭션 처리 방식 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-transaction/)
+* [Spring | 상황별 트랜잭션 처리 방법. 서비스를 운영을 하면서 데이터 관련된 정합성 이슈 가 발생이 되고… | by Spark | May, 2023 | Medium](https://spark01.medium.com/spring-%EC%83%81%ED%99%A9%EB%B3%84-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95-850dd6f8ef42)
 * [Sql을 통해서 테스트 코드를 쉽게 작성하자 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/sql-test/)
 * [**ServletContainer와 SpringContainer는 무엇이 다른가? | by Jin Hyung Park | Oct, 2021 | Medium**](https://medium.com/@jypthemiracle/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
 * [Error Response 서버로 전달하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/error-response-2/)
