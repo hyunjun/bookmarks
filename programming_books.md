@@ -3939,6 +3939,7 @@ Programming Books
 * (NOT YET) [Exploring Testing Java Microservices](https://www.manning.com/books/exploring-testing-java-microservices)
 * (NOT YET) [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)
 * (NOT YET) [인공지능 소프트웨어 품질 보증을 위한 테스트 기법 - YouTube](https://www.youtube.com/watch?v=vdpPk1fqptI)
+* (NOT YET) [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
