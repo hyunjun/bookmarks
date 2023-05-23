@@ -91,6 +91,7 @@ Programming Books
   * [프로그래머의 뇌 - 훌륭한 프로그래머가 알아야 할 인지과학의 모든 것 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1605)
   * [프로그래머의 뇌 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/11/06/Programmers-Brain.html)
   * [책 후기 프로그래머의 뇌](https://yeonyeon.tistory.com/295)
+  * [코드가 클린 하면 왜 좋아?(feat. 뇌 인지 관점). 안녕하세요 BE APT 팀의 Jin 입니다. | by Pjj | 직방 기술 블로그 | May, 2023 | Medium](https://medium.com/zigbang/%EC%BD%94%EB%93%9C%EA%B0%80-%ED%81%B4%EB%A6%B0-%ED%95%98%EB%A9%B4-%EC%99%9C-%EC%A2%8B%EC%95%84-feat-%EB%87%8C-%EC%9D%B8%EC%A7%80-%EA%B4%80%EC%A0%90-4ff53268a8b8)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
