@@ -50,6 +50,7 @@ Anomaly Detection
 * [머신러닝 이상치 분석 성능 평가 - 실루엣 스코어 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/silhouette-score/)
 * [Network Anomaly Detection Using Auto-Encoders Loss Normalization| Dr. Aviv Yehezkel - YouTube](https://www.youtube.com/watch?v=PK93Vt1ms8g)
 * [이상 탐지 1부-정상과 비정상, 그리고 이상 탐지 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/362)
+* [이상 탐지 2부-통계적 기법으로 이상 탐지하기 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/366)
 * [배민 앱 리뷰 품질을 향상시킨 방법은? 머신 러닝 X 네트워크 탐지 모델 도입 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11829/)
 
 # Book
