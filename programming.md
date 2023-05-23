@@ -2673,6 +2673,7 @@ Programming
 * [The 7 Best Free Cloud Storage Services Online](https://www.businessinsider.com/free-cloud-storage)
 * [Top 5 Online Courses to Learn Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html)
 * [How to use cloud platforms for your data science projects](https://analyticsindiamag.com/how-to-use-cloud-platforms-for-your-data-science-projects/)
+* [The Magic of Platforms • Gregor Hohpe • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=DgsIDqkvLME)
 * [온프레미스 vs 퍼블릭 클라우드 - 네트워크 특징 및 서브넷 범위](https://gasidaseo.notion.site/vs-094d88adb3df4d20aa7b0e9e1ba32814)
 * [Why use Cloud Computing? Advantages and Disadvantages](https://javarevisited.blogspot.com/2020/05/why-use-cloud-computing-advantages-and.html)
 * [Cloud Computing For Beginners - YouTube](https://www.youtube.com/watch?v=XJYXxEYgRKc)
