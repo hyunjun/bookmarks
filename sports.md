@@ -164,6 +164,7 @@ Sports
 * ["김도영이 왜 빠른지, 박찬호가 왜 잘 잡는지..여기서 답 나온다." KIA가 만드는 '타이거즈 웨이' 김근한의 골든크로스](https://sports.v.daum.net/v/20220628103210537) 호크아이
 * [숫자로 보는 2022 KBO리그 전반기 결산](https://junkstorage.tistory.com/53)
 * [2022 KBO 리그 포스트시즌 cWPA](https://junkstorage.tistory.com/67)
+* [왜 공은 실밥 쪽으로 휠까? - SSW의 물리학 - 야구공작소](https://yagongso.com/?p=18512)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
