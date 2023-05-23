@@ -264,6 +264,7 @@ Web
 * [Core Web Vitals under control by Marta Wiśniewska - YouTube](https://www.youtube.com/watch?v=Q7yBANAidq4)
 * [Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
   * 2022년 INP(Interaction to Next Paint)를 실험적으로 도입해서 테스트한 결과 FID(First Input Delay) 대신 INP를 Core Web Vitals 메트릭으로 채택, 2024년 3월부터 적용 예정
+* [구글의 프론트엔드 성공 지표 ‘Core Web Vitals’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2036/)
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
