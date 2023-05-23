@@ -1303,6 +1303,7 @@ NLP
   * [LangChain (2/) | 뉴테크프라임](http://www.umlcert.com/langchain-2/)
   * [LangChain – Model (1/) | 뉴테크프라임](http://www.umlcert.com/langchain-model1/)
   * [LangChain – Prompt (1/) | 뉴테크프라임](http://www.umlcert.com/langchain-prompt1/)
+  * [LangChain – Prompt (2/) | 뉴테크프라임](http://www.umlcert.com/langchain-prompt-2/)
   * [LangChain 강좌 - YouTube](https://www.youtube.com/playlist?list=PLo_iW4-JxSetdyIdeunPvVLvA_735kt1l)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
