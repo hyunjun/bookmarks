@@ -10,6 +10,7 @@ Self Control
 * [딴짓만 하다 흘러가는 시간.. 생산성을 높이는 아주 간단한 방법 4가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/time20230321)
 * [How to Improve Your Productivity and Time Management | Hama Develop](https://www.hamadevelop.me/time/)
 * [생산성을 높이는 방법 - Guide to Pe.. : 네이버블로그](https://blog.naver.com/bizucafe/223071723556)
+* [샘 알트먼의 생산성 (한글 번역) | Prod.. : 네이버블로그](https://blog.naver.com/bizucafe/223108381378)
 * [자기 자신을 이겨내는 법 (한글 번역) | H.. : 네이버블로그](https://blog.naver.com/bizucafe/223072083549)
 * [메모, 생각정리의 첫 단계](http://ppss.kr/archives/37385)
 * [착한 자기계발서를 꿈꾸며](http://ppss.kr/archives/20017)
