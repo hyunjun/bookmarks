@@ -16,6 +16,7 @@ Java
 * [133 Core Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
 * [Review these 50 questions to crack your Java programming interview](https://medium.freecodecamp.org/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
+* [The Java Agent: Modifying Bytecode at Runtime to Protect Against Log4J • Joe Beeton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ZrGOv44iTC8)
 * [Hacking third-party APIs on the JVM](https://blog.frankel.ch/hacking-third-party-api-jvm/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
