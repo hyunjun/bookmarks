@@ -1004,6 +1004,7 @@ AWS
 * [“Kubernetes vs AWS ECS” for Application Developers | by Chandra Shettigar | Jan, 2023 | Medium](https://medium.com/@shettigarc/kubernetes-vs-aws-ecs-for-application-developers-3afb10d1f050)
 * [애플리케이션 오토 스케일링의 사용자 정의 지표 기반으로 Amazon ECS 오토 스케일링 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/autoscaling-amazon-ecs-services-based-on-custom-metrics-with-application-auto-scaling/)
 * [AWS ECS vs. EKS: What is The Difference | Medium](https://ip-specialist.medium.com/aws-ecs-vs-eks-what-is-the-difference-3e83a4ad0811)
+* [Amazon ECS Service Connect를 활용하여 손쉽게 마이크로서비스 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/run-microservices-easily-with-amazon-ecs-service-connect/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
