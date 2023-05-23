@@ -86,7 +86,7 @@ Sports
 * [로봇 심판과 판정 알고리즘의 의미 있는 도전](https://brunch.co.kr/@kakao-it/290)
 * [기사 - 이지풍 코치의 반대 의견 1 : 유망주의 전성기가 짧은 이유](https://www.ddanzi.com/ddanziNews/688136806)
 * [기사 - 이지풍 코치의 반대 의견 2 : '실패의 스포츠'에서 살아남는 법](https://www.ddanzi.com/ddanziNews/690245482)
-* [기사 - 이지풍 코치의 반대 의견 3 : 히딩크의 교훈](https://www.ddanzi.com/ddanziNews/691473275)
+* [기사 - 이지풍 코치의 반대 의견 3 : 히딩크의 교훈](https://www.ddanzi.com/ddanziNews/691473275) 멕시칸 샐러드같은 아메리칸 펑고
 * [기사 - 이지풍 코치의 반대 의견 4 : 영민이와 우준이에게 필요했던 것](https://www.ddanzi.com/ddanziNews/693704778)
 * [기사 - 이지풍 코치의 반대 의견 5 : 올림픽을 넘어, 한국 야구는 당최 뭐가 문제일까](https://www.ddanzi.com/ddanziNews/695269320)
 * [기사 - 이지풍 코치의 반대 의견 6 : 3할은 어떻게 만들어지는가](https://www.ddanzi.com/ddanziNews/696573810)
