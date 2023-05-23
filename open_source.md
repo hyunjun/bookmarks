@@ -112,6 +112,7 @@ Open Source
   * 오픈소스 메인테이너가 서로 교류할 수 있도록 GitHub에서 비공개 공간 제작
   * 메인테이너를 위한 이벤트, 베타/프리뷰 기능에 대한 조기 접근, 오픈소스에 대한 워크숍을 진행할 예정이고 오픈소스 메인테이너라면 해당 저장소에 직접 초대를 요청 가능
 * [칼럼 | AWS의 조용한 오픈소스 혁명 - CIO Korea](https://www.ciokorea.com/news/288313)
+* [오픈소스 '슬기롭게' 사용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2035/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
