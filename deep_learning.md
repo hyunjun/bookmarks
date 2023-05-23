@@ -2304,6 +2304,7 @@ CVPR2016)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [block-selection-for-OOD-detection](https://github.com/gist-ailab/block-selection-for-OOD-detection) hallucination
   * [인공지능 “모르는 건 모른다!" ... ‘모르는 데이터’ 식별하는 AI 모델, 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28076)
+* [CoDi: Generate Anything from Anything All At Once through Composable Diffusion](https://codi-gen.github.io/)
 * [Deep Visual-SLAM의 미래 0 (Deep-SLAM의 시작)](https://cv-learn.com/Deep-Visual-SLAM-0-Deep-SLAM-603a26c47c3848a88b90559d273f95dc)
 * [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
 * [self-supervised-learning-narratives-1: 거꾸로 읽는 self-supervised learning 파트 1](https://github.com/jwkanggist/self-supervised-learning-narratives-1)
