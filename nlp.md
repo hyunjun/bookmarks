@@ -1140,6 +1140,10 @@ NLP
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
   * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [CS224n: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  * [Danqi-QA-slides-2022](http://web.stanford.edu/class/cs224n/slides/Danqi-QA-slides-2022.pdf) ChatGPT의 기본 구조를 이루는 질문 답변
+  * [cs224n-2022-lecture12-generation-final.pdf](http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture12-generation-final.pdf) ChatGPT의 다음버전인 GPT-4에서 멀티모달의 근간이 될 것으로 평가받기도 하는 자연어 생성]
+  * [cs224n-2022-lecture-knowledge](http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture-knowledge.pdf) 대규모언어모델에 전문가지식을 입력하여 구현한 ChatGPT의 언어 모델에 지식 통합
+  * [Representing and Using Knowledge in NLP (public copy)](http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture15-guu.pdf) ChatGPT에는 아직 도입이 안된 검색 증강 모델 + 지식
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
   * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
   * [한글자막 Introduction and Welcome Stanford CS224U Natural Language Understanding Spring 2021 - YouTube](https://www.youtube.com/watch?v=rM1MZNxW2Ls)
