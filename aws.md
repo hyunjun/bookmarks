@@ -1748,6 +1748,7 @@ AWS
 * [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
 * [Amazon SageMaker Canvas – 바로 사용 가능 모델, 사용자 지정 텍스트 및 이미지 분류 모델 지원 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
 * [Amazon SageMaker를 활용한 기계 학습에서 EFS 안의 민감 정보를 삭제하기 위한 서버리스 솔루션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sensitive-ml-training-data-lifecycle-management-using-aws-lambda/)
+* [Coursera, Amazon SageMaker Canvas 기반 No-Code 기계 학습 실습 교육 과정 개설 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
