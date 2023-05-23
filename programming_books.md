@@ -3563,6 +3563,8 @@ Programming Books
   * 탐라
   * [FastAPI를 사용한 파이썬 웹 개발](https://jybaek.tistory.com/992)
   * [빠르게 웹앱을 개발할 수 있는 FastAPI .. : 네이버블로그](https://blog.naver.com/drvoss/223082307567)
+* (NOT YET) [파이썬 플라스크 웹 앱 개발 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310567755)
+  * 탐라 문005.118-사835ㅍ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
