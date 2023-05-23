@@ -1912,6 +1912,7 @@ App
   * [Notion 유저에서 파트너가 된 이야기: ② 실리콘밸리 스타트업 한국에 성공적으로 수입하기](https://fall-moon.tistory.com/18)
   * [Notion 유저에서 파트너가 된 이야기: ③ 할 수 있을 때, 할 수 있는 만큼](https://fall-moon.tistory.com/19)
   * [How I Use AI to take perfect notes...without typing - YouTube](https://www.youtube.com/watch?v=hCEdm9LGBb0)
+  * [노션으로 만드는 궁극의 휴가 관리 시스템 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250082)
   * [notionapi](https://github.com/paullabkorea/notionapi)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
@@ -2120,6 +2121,7 @@ App
   * [피그마는 여러분을 나쁜 디자이너로 만들고 있습니다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1699/)
   * [감자탕 먹고 Vue.js로 Figma 번역 플러그인 만든 이야기](https://engineering.linecorp.com/ko/blog/create-figma-translation-plugin-with-vuejs)
   * [피그마에서 브랜치 잘 사용하기](https://brunch.co.kr/@designsystemguy/5)
+  * [figma를 이용한 더 나은 기획-디자이너-QA-개발 협업 방법](https://velog.io/@teo/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-%EC%BA%98%EB%A6%B0%EB%8D%94%ED%8C%80%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%9C-figma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-QA-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
   * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
     * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
     * 사용법
