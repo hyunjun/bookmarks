@@ -821,6 +821,7 @@ Git
   * [이미 git으로 관리하고 있는 파일을 .gitignore에 추가했을 때, 변경해도 더 이상 추적하지 않도록 하는 방법 | Joohee Kim's Blog](https://imjhk03.github.io/posts/git-ignore-cache/)
   * [내 작은 .gitconfig | DevelopersIO](https://dev.classmethod.jp/articles/my-little-gitconfig/)
   * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.gitignore.io/)
+    * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.toptal.com/developers/gitignore)
   * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * grep
   * [git으로 파일내용이나 커밋로그 검색하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/849)
