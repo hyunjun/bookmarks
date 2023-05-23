@@ -13,6 +13,7 @@ Baby
 * [영재발굴단 이소은 이소연 아빠의 비밀](http://m.blog.naver.com/ivoryegg/220925977488)
 * [매일이 싸움터인 중학생들](http://www.koreatimes.com/article/20170605/1059904)
 * [오은영의 부모마음 아이마음](http://m.media.daum.net/m/media/series/54237)
+* [진정한 어른이 되는 길 - 오은영박사의 부모 십계명](https://ggolburi.tistory.com/entry/%EC%A7%84%EC%A0%95%ED%95%9C-%EC%96%B4%EB%A5%B8%EC%9D%B4-%EB%90%98%EB%8A%94-%EA%B8%B8-%EC%98%A4%EC%9D%80%EC%98%81%EB%B0%95%EC%82%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%8B%AD%EA%B3%84%EB%AA%85)
 * [초2병 아들 상담 결과](http://jh4hj.tistory.com/entry/%EC%B4%882%EB%B3%91-%EC%95%84%EB%93%A4-%EC%83%81%EB%8B%B4-%EA%B2%B0%EA%B3%BC)
 * [현실적인 학폭/ 왕따 당할시에 대처법](https://www.fmkorea.com/best/773172623)
 * [오은영 교수가 알려주는 자신의 아이가 학폭 당할때 부모의 대처법](http://realnews.cafe24.com/posts1360)
