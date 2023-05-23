@@ -1133,6 +1133,7 @@ Business
 * [Closed-loop communication - Wikipedia](https://en.wikipedia.org/wiki/Closed-loop_communication)
   * [Is there a “Big Five” in Teamwork? | Scinapse](https://www.scinapse.io/papers/1967246150)
 * [5x5 적절한 상황에 적합한 한 마디면 충분합니다](https://brunch.co.kr/@xmetal/241)
+* [번역 실리콘밸리 유니콘 스타트업 리더들의 소통 방법 - Retriever in Jeju](https://retrieverinjeju.com/%ec%8b%a4%eb%a6%ac%ec%bd%98%eb%b0%b8%eb%a6%ac-%ec%9c%a0%eb%8b%88%ec%bd%98-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%98-%ec%86%8c%ed%86%b5-%eb%b0%a9%eb%b2%95/)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -2398,6 +2399,7 @@ Business
 * [유리 투명함](https://www.thestartupbible.com/2023/05/glass-transparency.html)
 * [스타트업이 받을 수 있는 클라우드, SaaS 혜택](https://jojoldu.tistory.com/716)
 * [Trade-Offs in Building a Software Company from Startup to Scale Up • Geeta Schmidt • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ujO3p79h6TI)
+* [**샌드버드 오픈 오피스시간에 들은 역발상들**](https://www.facebook.com/jinho.yoo.10/posts/pfbid02EArtyv2rdNCcjKHnDm4w2NtvG3dgn3ovf6S43y1Cc6CSRFEQqLS2z7iridBteGVJl)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
