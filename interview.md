@@ -256,6 +256,8 @@ Interview
 * [자바 백엔드 기술 면접 대비하기 - 1편](https://f-lab.kr/blog/java-backend-interview-1)
 * [자바 백엔드 기술 면접 대비하기 - 2편 (고급편)](https://f-lab.kr/blog/java-backend-interview-2)
 * [변별력을 200% 더 높인 개발자 채용 방법: 코드 리뷰 테스트](https://blog.gangnamunni.com/post/code-review-test/)
+* [인터뷰를 어떻게 잘 하나요?](https://www.linkedin.com/posts/activity-6964986917750788096-hKFI/)
+* [이직에 관하여 - IT 서비스 회사로 이직을 희망하시는 분들에게](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
