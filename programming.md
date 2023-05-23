@@ -884,6 +884,7 @@ Programming
 * [애자일 관점에서 본 아마존의 개발 문화와 프로세스 - YouTube](https://www.youtube.com/watch?v=NkiHu9zGYKU)
 * [무엇이 애자일 팀을 만드는가? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32731753&memberNo=43908477)
 * [Sabotaging an Agile Transformation • Fred George • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=3cDpLVuQXEo)
+* [Sabotaging a Transformation • Fred George • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=DyM4NtlIL44)
 * [Scope Creep or Embrace Change? A Survey of the Connections Between Requirement Changes, Use of Agile, and Software Project Success | Simula Research Laboratory](https://www.simula.no/publications/scope-creep-or-embrace-change-survey-connections-between-requirement-changes-use-agile)
   * [agile의 효과를 크게 보려면](https://www.facebook.com/cjunekim/posts/pfbid02Q549G7KL9T1MqXhh3Vj1hmPBCpaJBjVhmY1w3GwgbyvKwWFPZFRVCvHqE1ddjR7el)
     * 1) 개발기간 중 얼마나 자주 릴리스했는가
