@@ -2362,6 +2362,7 @@ Business
 * [미국에서의 창업, 그 3년의 짧은 기록들 | by Taeho Kim | Medium](https://medium.com/@xissy/%EB%AF%B8%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-%EC%B0%BD%EC%97%85-%EA%B7%B8-3%EB%85%84%EC%9D%98-%EC%A7%A7%EC%9D%80-%EA%B8%B0%EB%A1%9D%EB%93%A4-ad48d393652f)
 * [두 회사의 이야기 – part.1(Recomio)](https://www.thestartupbible.com/2016/01/tale-of-two-startups-part-one-recomio.html)
 * [두 회사의 이야기 – part.2(한인텔)](https://www.thestartupbible.com/2016/01/a-tale-of-two-startups-part-two-hanintel.html)
+* [국산 소프트웨어의 강점](https://www.thestartupbible.com/2023/05/the-benefits-of-korean-software.html)
 * [수 많은 반대에도 불구하고, 좋은 제품과 회사를 만드는 방법 (Drew Houston -- Dropbox CEO) - YouTube](https://www.youtube.com/watch?v=eN0RB0SYGhA)
 * [슬랙이 1년만에 1조 가치의 회사가 된 10가지 비결](https://brunch.co.kr/@taewookim/49)
   * 원문은 지워졌고 2015년에 작성된 글
