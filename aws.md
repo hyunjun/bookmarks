@@ -552,6 +552,7 @@ AWS
 * [AWS Amplify Studio 소개](https://aws.amazon.com/ko/about-aws/whats-new/2021/12/aws-amplify-studio/) Figma의 디자인을 React UI 코드로 자동 변환
 * [AWS Amplify 로 리얼타임 앱 만들기. 10분컷! - YouTube](https://www.youtube.com/watch?v=o7FkmtqIYOE)
 * [Setup sign-up and sign-in flows for your Flutter app in minutes with AWS Amplify | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/amplify-flutter-authenticator/)
+* [풀 리퀘스트를 위한 웹 미리 보기 - AWS Amplify호스팅](https://docs.aws.amazon.com/ko_kr/amplify/latest/userguide/pr-previews.html) feature branch를 만들고 feature branch를 위한 별도 URL을 만드는 등
 
 # API Gateway
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
