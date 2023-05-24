@@ -165,9 +165,11 @@ Writing
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
   * [Devin Horsman – Simple, useful software architecture with C4 - YouTube](https://www.youtube.com/watch?v=6y3XvcRO28I)
   * [C4 Models as Code • Simon Brown • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=f7i2wxQVffk)
+  * [c4viz: c4viz: C4 Visualization](https://github.com/pmorch/c4viz)
   * [Structurizr](https://structurizr.com/)
     * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
     * [structurizr/dsl: Structurizr DSL](https://github.com/structurizr/dsl)
+    * [structurizr-site-generatr: Static site generator for architecture models created with Structrizr DSL](https://github.com/avisi-cloud/structurizr-site-generatr)
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
