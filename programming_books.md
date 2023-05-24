@@ -3162,6 +3162,7 @@ Programming Books
 * (NOT YET) [헤드 퍼스트 디자인 패턴(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6113501223)
   * [헤드퍼스트 디자인 패턴 (개정판)](https://jybaek.tistory.com/952)
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
+* (NOT YET) [디자인 패턴의 아름다움](https://jpub.tistory.com/1417)
 
 # PHP
 
@@ -3246,6 +3247,7 @@ Programming Books
   * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
   * [프로덕트 리더십이 중요한 이유](https://brunch.co.kr/@graypool/946)
   * [프로덕트 매니저의 가장 어려운 역할](https://brunch.co.kr/@graypool/959) `프로덕트 매니저의 가장 어려운 역할은 시간, 비용, 에너지를 소비할 대상을 결정하는 것이다`
+  * [프로덕트 비전을 향해 협업하는 팀 구축](https://brunch.co.kr/@graypool/967)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
