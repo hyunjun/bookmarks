@@ -211,6 +211,7 @@
 * [Kotlin PBKDF2 Secure Password Hashing | Codersee](https://codersee.com/kotlin-pbkdf2-secure-password-hashing/)
 * [Kotlin Isn’t Null-Safe Yet. Here Are 3 Gotchas | by Sam Cooper | Mar, 2023 | Better Programming](https://betterprogramming.pub/kotlin-isnt-null-safe-yet-here-are-3-gotchas-23258fada62)
 * [Introducing Kotlin/Wasm · seb.deleuze.fr](https://seb.deleuze.fr/introducing-kotlin-wasm/)
+* [Kotlin 2.0을 통해 알아보는 코틀린의 미래 - Speaker Deck](https://speakerdeck.com/dalinaum/kotlin-2-dot-0eul-tonghae-alaboneun-koteulrinyi-mirae)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
