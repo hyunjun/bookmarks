@@ -22,6 +22,9 @@ Json
 * [거의 모든 SW 개발의 필수⋯JSON 데이터 포맷의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/252478)
 * [JSON Editor | A Web-Based Tool to View, Edit, Format, and Validate JSON](https://morioh.com/p/159b63572594)
 
+# Android
+* [LoganSquare: Screaming fast JSON parsing and serialization library for Android](https://github.com/bluelinelabs/LoganSquare) 개발 중단되었으나 성능은 좋다고 함
+
 # C++
 * [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
 * [json: JSON for Modern C++](https://github.com/nlohmann/json)
@@ -99,6 +102,7 @@ Json
   * [jackson-module-scala overview and new scala 3 reflection helper | by PJ Fanning | Mar, 2022 | Medium](https://medium.com/@pjfanning/jackson-module-scala-overview-and-new-scala-3-reflection-helper-b824be8221f7)
 * [json-den-java: JSON parser and stringifier library](https://github.com/hyunikn/json-den-java)
 * [kson - A Java serialization/deserialization library to convert Java Objects into json and back, faster and powerful then Gson](https://github.com/realtimetech-solution/kson)
+* [moshi: A modern JSON library for Kotlin and Java](https://github.com/square/moshi)
 
 # JavaScript
 * [JSON Text를 JSON Object로 변환하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/257)
