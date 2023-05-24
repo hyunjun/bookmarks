@@ -900,7 +900,6 @@ App
   * [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html)
   * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
   * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
-  * [GitHub Codespaces](https://github.com/features/codespaces/)
   * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
   * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
   * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
@@ -926,7 +925,6 @@ App
   * [Localhost에서 구글 로그인 웹 구현 - 이상선 - Medium](https://medium.com/@sunyi233/localhost%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9B%B9-%EA%B5%AC%ED%98%84-9c7a5879df61)
   * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
-  * [VSCode와 GitHub. GitHub은 git repository들의 모임입니다. 자체적으로… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/vscode%EC%99%80-github-db05ca48bb9b)
   * [Introducing the Markdown Language Server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server)
     * VS Code에서 Markdown 도구의 다음 단계로 Markdown 랭귀지 서버 공개
     * Markdown Language Service와 Markdown Language Server로 구성
@@ -1008,6 +1006,8 @@ App
     * [VSCode 확장 - Git File Histoty](https://velog.io/@juunini/VSCode-%ED%99%95%EC%9E%A5-Git-File-Histoty)
     * [Visual Studio Code에서 GIT으로 협업하기 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMD-XRW1zlqC7U2uCzOxyT8u)
     * [CSS 개발자를 위한 VSCode 확장 | 웹으로 말하기](https://mytory.net/archives/13429)
+    * [VSCode와 GitHub. GitHub은 git repository들의 모임입니다. 자체적으로… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/vscode%EC%99%80-github-db05ca48bb9b)
+    * [Git - Google Slides](https://docs.google.com/presentation/d/1b546zxH58lIrdYaYLufQum3ArKKF9cjW4ZvmC10jwIE)
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
