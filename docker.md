@@ -1016,6 +1016,7 @@ Docker
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
 * [Kubernetes에 Microservice 배포하기 2편 - Pipeline 복제하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/04/microsrv-deploy-2.html)
 * [Kubernetes에 애플리케이션 서비스 배포, 1부 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/deploying-application-services-in-kubernetes-part-1/)
+* [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes 기반의 어플리케이션 배포 시스템 구축 방법](https://ahnseungkyu.com/312)
 * [리소스 제약적인 MicroK8s 환경에서 MARA로 배포하는 모범사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/mara-now-running-on-workstation-near-you/)
 * [배포를 우아하게 - 원-클릭(one-click) 배포](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C/)
 * [배포를 안전하게 - 카나리 배포, 롤백](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C/)
