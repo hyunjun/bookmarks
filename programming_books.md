@@ -724,6 +724,7 @@ Programming Books
 * [도커, 쿠버네티스, 테라폼으로 구현하는 마이크로서비스 | 에이콘출판사](http://acornpub.co.kr/book/bootstrapping-ms)
   * 탐라 문005.12-데69ㄷ
   * [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform/)
+    * [Intro to Continuous Delivery for Microservices with Docker and Terraform - YouTube](https://www.youtube.com/watch?v=Nhuk7zx4K3Y)
   * [bootstrapping-microservices](https://github.com/bootstrapping-microservices)
   * [AcornPublishing/bootstrapping-ms: 도커, 쿠버네티스, 테라폼으로 구현하는 마이크로서비스](https://github.com/AcornPublishing/bootstrapping-ms)
   * [Code Capers](https://www.the-data-wrangler.com/)
