@@ -457,6 +457,7 @@ Interview
     * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
     * [IRCTC System Design | Railways Ticket Booking Service | System Design - YouTube](https://www.youtube.com/watch?v=x1zR0Q-VWQI)
+    * [29LIVE 개발기. 안녕하세요, 29CM에서 첫 커리어를 시작한 커머스백엔드 개발자… | by Junghyungile | 29CM TEAM | May, 2023 | Medium](https://medium.com/29cm/29live-%EA%B0%9C%EB%B0%9C%EA%B8%B0-a615bd933467) live commerce
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
@@ -931,6 +932,7 @@ Interview
 * [인터뷰 면접관이 좋아하는 이력서 쓰기 - YouTube](https://www.youtube.com/watch?v=JM-Tz6dGH1U)
 * [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
 * [신입 개발자를 위한 이력서 추천 양식 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9113)
+* [왕초보 신입 개발자의 우당탕탕 이력서 작성기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11998/)
 * [경력자의 지원동기 쓰는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220418)
 * [잘 정리된 이력서보다 중요한 것 - 이상한모임](https://blog.weirdx.io/post/63289)
 * [잘 정리된 이력서보다 중요한 것 – by minieetea](https://minieetea.com/2021/04/archives/6193)
