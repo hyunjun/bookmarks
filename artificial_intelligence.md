@@ -205,6 +205,7 @@ Artificial Intelligence
 * [AI 2022 : The Explosion (.. : 네이버블로그](https://blog.naver.com/bizucafe/223077504876)
 * [IT TREND 초거대 AI 최신 키워드 : #소비자 #효율](https://tech.kakaoenterprise.com/192)
 * [Landscape of AI/ML in 2023](https://www.slideshare.net/HyunJoonJung/landscape-of-aiml-in-2023)
+* [The AI Hierarchy of Needs | HackerNoon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
