@@ -5090,6 +5090,7 @@ Python
 * [SciPy Conference 2022, Austin -- Scientific Computing with Python](https://www.scipy2022.scipy.org/)
   * [Enthought - YouTube](https://www.youtube.com/c/enthought/playlists)
 * [Roman Neruda, Petra Vidnerová: Tested on agents - an agent-based epidemiological model PyData Prg - YouTube](https://www.youtube.com/watch?v=aIxrvlL47io)
+* [Scipy 소개 + curve fitting | Pega Devlog](https://jehyunlee.github.io/2023/05/19/Python-DS-130-kierlecture202301/)
 
 # Slack
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
