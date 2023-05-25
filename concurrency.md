@@ -27,6 +27,8 @@ Concurrency
 * [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
 * [백엔드 개발자들이 알아야할 동시성 5 — Continuation Passing Style | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-5-continuation-passing-style-5058ab5cb781)
 * [**BEAM Concurrency in Action • Sasa Juric • YOW! 2022 - YouTube**](https://www.youtube.com/watch?v=A4x6IfceJCM) Erlang Elixir LFE Gleam
+* [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski](https://pkolaczk.github.io/memory-consumption-of-async/)
+  * [1백만개의 동시 작업을 실행하는데 메모리가 얼마나 필요할까? | GeekNews](https://news.hada.io/topic?id=9250)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
