@@ -943,7 +943,9 @@ Javascript
   * [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
   * [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
   * [The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html)
-* URL [URL에서 쿼리스트링의 파라메터 가져오기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/867)
+* URL
+  * [URL에서 쿼리스트링의 파라메터 가져오기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/867)
+  * [가난한 자의 URL 클래스 - 코드쓰는사람](https://taegon.kim/archives/10605)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
