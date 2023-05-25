@@ -1277,6 +1277,7 @@ NLP
 * [금융지식의 LLM Adaptation Part2 LLM 동향편](https://www.facebook.com/groups/TensorFlowKR/posts/2040179472989767)
 * [금융지식의 LLM Adaptation Part3 Adaptation편](https://www.facebook.com/groups/TensorFlowKR/posts/2041190419555339/)
 * [AI-Text 필터링 모델을 위한 거대 ML 모델 적용기](https://engineering.linecorp.com/ko/blog/apply-large-ml-models-for-ai-text-filtering-models)
+* [개발자로서 LLM 사용을 위해 알아두면 좋은 내용들 (Large Language Model for ordinary developers), Haandol](https://haandol.github.io/2023/05/02/llm-for-ordinary-developers.html)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
