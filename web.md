@@ -1424,7 +1424,6 @@ Web
   * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
   * [HTTP Methods for RESTful Services](https://www.restapitutorial.com/lessons/httpmethods.html)
 * [REST API 컨벤션 Top5! 단수, 복수, 네이밍 등의 url 설계를 위한 best practice 알아보기](https://blog.pumpkin-raccoon.com/115)
-* [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 * [**그런 REST API로 괜찮은가**](http://slides.com/eungjun/rest)
   * [Day1, 2-2. 그런 REST API로 괜찮은가 - YouTube](https://www.youtube.com/watch?v=RP_f5dMoHFc)
@@ -1521,6 +1520,8 @@ Web
 * [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
 * [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 * [현대적 보안](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
+* [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
+* [여기보기 적에게 내 WAS의 디렉터리와 파일을 알리지 말라, WAS 디렉터리 인덱싱 및 상위 디렉터리 접근 제한 - 넷마블 기술 블로그](https://netmarble.engineering/was-directory-indexing-and-restricting-access-to-parent-directory)
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
