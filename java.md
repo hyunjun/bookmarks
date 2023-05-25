@@ -1124,6 +1124,7 @@ Java
 * [VDBUH2023 - Ionuț Baloșin & Florin Blănaru - JVM Performance Comparison - YouTube](https://www.youtube.com/watch?v=dLV2mrXXO6I)
 * [스프링 애플리케이션 배포 직후 발생하는 Latency의 원인과 이를 해결하기 위한 JVM Warm-up](https://hudi.blog/jvm-warm-up/)
 * [Welcome to the Jungle - A safari through the JVM landscape by Gerrit Grunwald - YouTube](https://www.youtube.com/watch?v=9_9L3pqGFcQ)
+* [Java Language](https://www.lesstif.com/java/java-language-18220282.html)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
 * [Loom: https://openjdk.org/projects/loom ](https://github.com/openjdk/loom)
