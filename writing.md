@@ -164,6 +164,8 @@ Writing
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
   * [C4Model 과 함께일하기 — 1편. 동료 개발자와 협업하기 | by Jaeyeoul Ahn | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/c4model-%EA%B3%BC-%ED%95%A8%EA%BB%98%EC%9D%BC%ED%95%98%EA%B8%B0-1%ED%8E%B8-5a35fc4856cd)
   * [C4Model 과 함께일하기 — 2편. c4모델을 이용한 협업기록 | by Jaeyeoul Ahn | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/c4model-%EA%B3%BC-%ED%95%A8%EA%BB%98%EC%9D%BC%ED%95%98%EA%B8%B0-2%ED%8E%B8-bf33915006e)
+  * [쉽게 설명한 C4Model (Demystifying C4Model), Haandol](https://haandol.github.io/2022/12/17/demystifying-c4model.html)
+  * [C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml)
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
   * [Devin Horsman – Simple, useful software architecture with C4 - YouTube](https://www.youtube.com/watch?v=6y3XvcRO28I)
   * [C4 Models as Code • Simon Brown • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=f7i2wxQVffk)
