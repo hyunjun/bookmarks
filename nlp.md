@@ -1343,6 +1343,7 @@ NLP
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
+  * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
