@@ -321,6 +321,7 @@ Programming Books
   * 한라 004.73-기882ㄱ 탐라 문004.73-기831ㄱ
 * (NOT YET) [게임이 세상을 바꾸는 방법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314582701)
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 웹의 기초 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/21/Basic-of-Web.html)
+* (NOT YET) [제로 트러스트 구글 엔지니어는 아무도 믿지 않는다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1674)
 
 # Agile Scrum
 
