@@ -162,6 +162,8 @@ Writing
 * [art-of-readme: Things I've learned about writing good READMEs](https://github.com/hackergrrl/art-of-readme)
 * [The C4 model for visualising software architecture](https://c4model.com/)
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
+  * [C4Model 과 함께일하기 — 1편. 동료 개발자와 협업하기 | by Jaeyeoul Ahn | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/c4model-%EA%B3%BC-%ED%95%A8%EA%BB%98%EC%9D%BC%ED%95%98%EA%B8%B0-1%ED%8E%B8-5a35fc4856cd)
+  * [C4Model 과 함께일하기 — 2편. c4모델을 이용한 협업기록 | by Jaeyeoul Ahn | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/c4model-%EA%B3%BC-%ED%95%A8%EA%BB%98%EC%9D%BC%ED%95%98%EA%B8%B0-2%ED%8E%B8-bf33915006e)
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
   * [Devin Horsman – Simple, useful software architecture with C4 - YouTube](https://www.youtube.com/watch?v=6y3XvcRO28I)
   * [C4 Models as Code • Simon Brown • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=f7i2wxQVffk)
