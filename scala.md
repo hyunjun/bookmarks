@@ -357,6 +357,7 @@ Scala
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3 - YouTube](https://www.youtube.com/watch?v=gmwNDYWRprE)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 4 - The Grand Finale - YouTube](https://www.youtube.com/watch?v=LAjwu6qtMvU)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
+* [100 Integration Tests Per Second - ZIO Meets Hexagonal Architecture by Piotr Gabryanczyk - YouTube](https://www.youtube.com/watch?v=4W_aZUOzEow)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
 * [Concurrent Sudoku Solver: Part 2 - Using Cats Effect Ref + Deferred + IO.race | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-2-using-cats-effect-ref-deferred-io-race-a380a182c233)
 * [Concurrent Sudoku Solver: Part 3 - Using Cats Effect Queue | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-3-using-cats-effect-queue-459e2da28b6)
@@ -676,6 +677,7 @@ Scala
 * [Scala Case Classes vs Enumeration - Wojciech Programming Blog](https://www.wlangiewicz.com/2016/03/20/scala-case-classes-vs-enumeration/)
 * [Concise enumeration in Scala | ScalaJobs.com](https://scalajobs.com/blog/concise-enumeration-in-scala/)
 * [Enum serialization in Scala | ScalaJobs.com](https://scalajobs.com/blog/enum-serialization-in-scala/)
+* [Scala 3 Enums - Alexandru Nedelcu](https://alexn.org/blog/2023/05/25/scala-enums/)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
@@ -1107,6 +1109,7 @@ Scala
     * [Pragmatic DDD in Scala with ZIO](https://www.notion.so/Pragmatic-DDD-in-Scala-with-ZIO-ed6399f13e3d43a0a4cb2a32cc7a6b3e)
     * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=1jcaTeQgMhk)
+    * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1907,6 +1910,7 @@ Scala
   * [Parsing JSON with Circe — Beyond the Basics | by Edward Huang | Level Up Coding](https://levelup.gitconnected.com/parsing-json-with-circe-beyond-the-basics-334014de393e)
   * [Working with JSON in Scala, a Circe Crash Course - YouTube](https://www.youtube.com/watch?v=uCtKqp2tdrg)
   * [Ross A. Baker: Archive your toots to Hugo](https://rossabaker.com/projects/toot-archive/)
+  * [How to serialize case class to Json in Scala 3 & Scala 2 using Circe](https://softwaremill.com/how-to-serialize-case-class-to-json-in-scala-3-and-scala-2-using-circe/)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
@@ -2233,6 +2237,7 @@ Scala
 * [Scala 3 Migration guide · An evolving guide to support the migration to Scala 3](https://scalacenter.github.io/scala-3-migration-guide/)
 * [Kind Projector Migration | Scala 3 Migration Guide | Scala Documentation](https://docs.scala-lang.org/scala3/guides/migration/plugin-kind-projector.html)
 * [Scala 3 migration: 7 benefits that outweigh the risks - VirtusLab](https://virtuslab.com/blog/scala-3-migration-benefits-risks/)
+* [Two More Old Cents on Scala 3 Migration //](https://blog.fanf.eu/posts/two-more-old-cents-on-scala-3-migration/)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
