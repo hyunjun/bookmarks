@@ -106,15 +106,17 @@ Elixir
 * [Elixir Book Club](https://elixirbookclub.com/)
 * [ElixirClub](https://www.elixirclub.org/)
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
+* [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
+* [Introduction to Elixir Security Webinar - YouTube](https://www.youtube.com/watch?v=2csxO_L6HVQ)
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 * [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
-* [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
 * [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
 
 # API
+* [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
 * sigils
   * [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
   * [Blindspots for Elixir Developers - Sigils 2 - YouTube](https://www.youtube.com/watch?v=LQ_nANz8cQQ)
