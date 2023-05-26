@@ -1918,6 +1918,7 @@ AWS
   * [Part 5. 자바스크립트로 S3에 파일 올리기 #1 - YouTube](https://www.youtube.com/watch?v=R4DK15t_8uE)
 * [S3 Interface Endpoint에 대한 DNS Name 지원](https://zigispace.net/1224)
 * [How to understand and if possible reduce your AWS S3 bill? | by Fernando Hönig | Medium](https://medium.com/@fernandohonig/how-to-understand-and-if-possible-reduce-your-aws-s3-bill-25e8182e2a92)
+* [AWS S3를 이용한 이미지 처리(저장,조회,삭제,다운로드)](https://velog.io/@rnqhstlr2297/AWS-S3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC%EC%A0%80%EC%9E%A5%EC%A1%B0%ED%9A%8C%EC%82%AD%EC%A0%9C)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
 
