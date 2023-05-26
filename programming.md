@@ -1442,6 +1442,7 @@ Programming
 * [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [클린아키텍처는 죽었다! 헥사고날 아키텍처 10분만에 대충 이해시켜 드림 | Hexagonal architecture - YouTube](https://www.youtube.com/watch?v=MKfSLrwLex8)
 * [ports and adapter 패턴 또는 헥사고날 아키텍처](https://coco-log.tistory.com/205)
+* [비지니스 로직과 오케스트레이션 역할 분리하기](https://velog.io/@joosing/%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EA%B3%BC-%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EC%97%AD%ED%95%A0-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0) humble 객체 패턴
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [리팩토링을 내장할 수 있다면?](https://brunch.co.kr/@graypool/534) 좋은 코드 = 수정하기 쉬운 코드
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
@@ -5465,6 +5466,7 @@ Programming
 * [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [Improving Software Flow • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=XMyt5S8limQ)
 * [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
+* [Software Craftsmanship 실천 가이드.pptx - Google Drive](https://docs.google.com/file/d/1A7mW4Cu7CypyE5jt1staRxnPjmEyyqaQ/edit)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
