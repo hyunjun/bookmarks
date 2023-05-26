@@ -79,7 +79,6 @@ Business
   * [너비는 1km, 깊이는 1cm](http://ppss.kr/archives/42854)
 * [상무 같은 이대리, 대리 같은 김전무](http://ppss.kr/archives/42792)
 * [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
-* [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [마켓컬리- 2021년 매출, 적자 상세분석 : 클리앙](https://www.clien.net/service/board/lecture/17155440?type=recommend)
 * [컬리의 흑자는 과연 결정의 문제일까?](https://brunch.co.kr/@fbrudtjr1/50)
 * [컬리의 흑자는 과연 결정의 문제일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1672/)
@@ -471,7 +470,7 @@ Business
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
 * [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
-* [People Analytics must benefit the people. An ethical analysis of data-driven algorithmic systems in human resources management - AlgorithmWatch](https://algorithmwatch.org/en/auto-hr/ethical-analysis-loi/)
+* [최동석인사조직연구소 - YouTube](https://www.youtube.com/channel/UC_KcAruX5HZR_Ei_XtSMENw/videos)
 * [Data-Driven하게 일하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1785/)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [3개월 만에 10명대 조직이 2배 이상 커지면 생기는 일 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20220415)
@@ -838,6 +837,7 @@ Business
 * [Candidate Journey 설계에 5A Model 활용하기](https://www.linkedin.com/feed/update/urn:li:activity:7018436948591603712/)
 * [스타트업 대표가 놓치기 쉬운 채용 팁 8가지](https://eopla.net/magazines/2706)
 * [한기용 - 가장 중요한 포인트는 사람을 함부로 늘리지 않고 인재 밀도를 유지하는 것](https://www.facebook.com/keeyong.han/posts/pfbid0esmgp7oEznCg8ktzH1HkZKza5nzKAHsM8yUSgGgo51foAzaiwjMK166SSCndYJMvl)
+* [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs) Behavioral Event Interview
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
@@ -959,6 +959,11 @@ Business
 * [The rise and fall of peer review - by Adam Mastroianni](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
   * [The rise and fall of peer review 대략 정리](https://www.facebook.com/parkism/posts/pfbid02oZ57xKyJBgueB6x8k5wcSfHasDgxMa1u7tiZ1oDK8xYddUXDnjaibN7vFUnumZwDl)
 * [토스를 둘러싼 숱한 논란들, 무엇이 진실일까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/tossrumor20230310)
+
+# 회계
+* [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
+* [#1 사업을 하시면 복식부기 장부를 쓰셔야 합니다. : 클리앙](https://www.clien.net/service/board/park/15790623)
+* [#2 복식부기는 어렵지 않습니다 : 클리앙](https://www.clien.net/service/board/park/15821413)
 
 # CBO
 * [마크의 슬기로운 직장생활 7개월 단명한 스타트업 C레벨 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/11/16/startup-cbo/)
@@ -1185,6 +1190,7 @@ Business
 * [창의성은 결과가 아니라 과정이다 (한글 번역) | Creativity Is a Process, Not an Event | JAMES CLEAR](https://blog.naver.com/bizucafe/223096363534)
 
 # CTO
+* [Modern CTO - YouTube](https://www.youtube.com/c/ModernCTO/featured)
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [**awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups**](https://github.com/kuchin/awesome-cto)
 * [스타트업에서 CTO의 역할 | Guruble](http://guruble.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
@@ -1880,6 +1886,7 @@ Business
 * [방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중 | 인공지능 & 소프트웨어 | 파이특허법률사무소](https://piip.co.kr/ko/blog/google-dropout-patent)
 
 # People Analytics
+* [People Analytics must benefit the people. An ethical analysis of data-driven algorithmic systems in human resources management - AlgorithmWatch](https://algorithmwatch.org/en/auto-hr/ethical-analysis-loi/)
 * [‘피플 애널리틱스’가 몰고 올 혁신 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/8310/ac/magazine)
 * [HR의 新패러다임, 데이터의 ‘진짜’ 의미는?](https://now.rememberapp.co.kr/2022/10/11/22587/)
 * [넓은 관점에서 보는 피플 애널리틱스의 현황과 마이크로소프트의 사례 < 특집 < 기사본문 - 월간 인재경영](http://www.abouthr.co.kr/news/articleView.html?idxno=4809)
