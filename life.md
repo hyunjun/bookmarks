@@ -11,12 +11,14 @@ Life
 * [법원서 온 지급명령, 그냥 놔뒀다간 억울한 돈 나가](https://news.v.daum.net/v/20181006080102116)
 * [변호사도 잘 모르는 ‘상속재산 파산제도’](https://m.lawtimes.co.kr/Content/Article?serial=119663)
 * [사기꾼 인생 조지는 법 – 체인지그라운드](http://thechangeground.com/archives/29415)
+* [5만원 떼먹었는데 훅간 사례.JPG : 클리앙](https://www.clien.net/service/board/park/15443580)
 * [크롤링과 저작권 침해 고소 진행 일대기 :: Philosophiren](https://philosophiren.tistory.com/321)
 * ["재판할 때 꼭 녹음 속기 신청하라, 판사가 달라진다" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=a0002739580)
 * [‘유족 두번 울리는’ 장례식 바가지 피하는 법 : 경제일반 : 경제 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/economy/economy_general/997305.html)
 * [학교폭력 가해자 금융치료 방법 공유해봅니다 (왕따,따돌림) : 클리앙](https://www.clien.net/service/board/lecture/15860872)
 * [기사 - 상조상품, 호구되지 맙시다](https://www.ddanzi.com/ddanziNews/716976696) 장례
 * ["못 쓰는 냉장고·선풍기, 기업아 좀 가져갈래?" 당당히 요구하세요 지구, 뭐래?](https://news.v.daum.net/v/20220114060211403)
+* [(자필) (스압주의) 가족이 치매에 걸렸을 때 해야하는 일과 요양시설에 대해서 알려드립니다](https://www.etoland.co.kr/plugin/mobile/board.php?bo_table=tip01&wr_id=28940)
 
 # Car
 * ['자동차 접촉사고' 후 사진 찍는 법](http://www.huffingtonpost.kr/2015/03/19/story_n_6899668.html)
@@ -40,9 +42,11 @@ Life
 * [절대로 사인해선 안되는 보험 서류 : 클리앙](https://www.clien.net/service/board/park/16109763)
   * (명확하게 어떤 병원에서 어떤 내용만을 보겠다는 내용이 있을 경우에만) 동의해도 되는 서류: 의무기록열람동의서
   * 동의하면 안되는 서류: 의료자문동의서 / 손해사정합의서 / 부제소합의서
+* [모르면 '최대 2천만 원' 못 받는다..누구나 받을 수 있는 '공짜 보험'](https://v.daum.net/v/20220502182422337)
 
 # Tax
 * [종합소득세 신고 '삼쩜삼', 가입자 500만 돌파](https://www.venturesquare.net/838070)
 * [절세가 수익률이다…‘금융투자소득세’에 따른 투자전략 < 재테크 < 금융/증권 < 기사본문 - 이코노믹리뷰](http://www.econovill.com/news/articleView.html?idxno=550150)
 * [연말정산 똑똑하게 하는 법, 세테크 돕는 스타트업](https://www.venturesquare.net/848586)
 * [국세청에 증여 안 걸리려면 이렇게 돈 빌리세요 | 부모자식간 현금거래 절세방법 - YouTube](https://www.youtube.com/watch?v=CObKsnE8ghU)
+* [외국납부세액공제 : 네이버 블로그](https://blog.naver.com/jindong1982/220611788659)
