@@ -1476,6 +1476,7 @@ AWS
 * [serverless 배포하기 (3) serverless-webpack의 결함 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-3-flaw-of-serverless-webpack/)
 * [serverless 배포하기 (4) 플러그인 안쓰고 타입스크립트 함수 배포하기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-4-pnpm-with-script/)
 * [serverless 배포하기 (5) 최소한의 설정파일로 타입스크립트 함수 배포하기 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-5-zero-configuration/)
+* [Serverlesspresso: Building a Scalable, Event-Driven Application • Julian Wood • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=4YeZf3HupQA)
 * [AWS Lambda에 Next.js 배포하기](https://velog.io/@grotesq/AWS-Lambda%EC%97%90-Next.js-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [How to Build AWS Lambdas with TypeScript | AppSignal Blog](https://blog.appsignal.com/2022/09/21/how-to-build-aws-lambdas-with-typescript)
 * [Nodejs Puppeteer Tutorial #14 - AWS Lambda Deployment - YouTube](https://www.youtube.com/watch?v=ch6qKgkYbgM)
