@@ -75,3 +75,4 @@ English
 * [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
 * [How To Say No](https://www.starterstory.com/how-to-say-no)
 * [영어 문법 검사기 사이트 베스트 3](https://blog-ko.pcanpi.com/3-best-grammar-checker/)
+* [ChatGPT로 집에서 아이 원어민 만드는 방법 - YouTube](https://www.youtube.com/watch?v=HLxlKtEAL5U)
