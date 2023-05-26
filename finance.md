@@ -75,6 +75,7 @@ Finance
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
 * [슬기로운 대체투자 (3) 감옥 (교정시설) 펀드편](https://brunch.co.kr/@daegukim/66)
+* [오늘자 키움불리오 펀드 : 네이버 블로그](https://blog.naver.com/juliuschun/222995094175)
 * [쓰다 남은 달러로 불황에도 할 수있는 투자방법 알려드림(feat.美교도소주) / 돈워리스쿨](https://www.youtube.com/watch?v=ZZM-m-JP8-o)
 * [태국주식 사는 방법, 주식매매 따라해보기, 입금출금 해보기](https://www.youtube.com/watch?v=MWbVVKKOQgY)
 * [SaaS, Slack, Amazon SEO, Pinduoduo, Meituan, KPCB, a16z](https://medium.com/translink/two-cents-2-saas-slack-amazon-seo-pinduoduo-meituan-kpcb-a16z-c98c61b80e9c)
@@ -87,6 +88,7 @@ Finance
 * [내가 SPY에 투자 하지 않는 이유는 - SPY와 SCHD 투자 장단점 비교](https://develop-my-life.tistory.com/90)
 * [ETF도 구관이 명관? 특이한거 찾다가 골로 갑니다 - YouTube](https://www.youtube.com/watch?v=65zVIy1Y_fk) JO ARKK AMOM APPL BRKb(버크셔 헤서웨이 B주) JNJ(존슨앤존슨, 배당)
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
+* [자녀 주식계좌 개설 꿀팁과 11가지 종목 - YouTube](https://www.youtube.com/watch?v=vxTV54VC-NE)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
 * [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
@@ -99,6 +101,7 @@ Finance
 * [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
   * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
 * [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
+* [이렇게하면 1년 4번 받는 S&P500 ETF 배당금을 매월 받을 수 있습니다(ft. 매월 50만원씩 받으려면 얼마가 필요할까?) - YouTube](https://www.youtube.com/watch?v=9TVblSXGmNY)
 * [하마터면 92만원 토해낼 뻔···연말에 챙겨야 하는 '13월의 월급' 근면한 월급](https://v.daum.net/v/20221203110042884) 연말정산, 연금저축계좌, IRP 등 퇴직연금계좌
 * [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
