@@ -669,6 +669,8 @@ Book
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
 * (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
   * 한라
+* (NOT YET) [나라를 옮겨 다니며 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=285012949)
+  * [기사 - 쿠마르의 인도 이야기 13 : 국제학교는 영어 수업에서 영어를 가르치지 않는다](https://www.ddanzi.com/ddanziNews/772764854)
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
