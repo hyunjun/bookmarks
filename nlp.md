@@ -667,6 +667,7 @@ NLP
 * [Using Semantic Search to Drive Smart Annotations for Chatbot Models | by Samarth Agarwal | DBS Tech Blog | Jan, 2022 | Medium](https://medium.com/dbs-tech-blog/using-semantic-search-to-drive-smart-annotations-for-chatbot-models-f317db7fd41e)
 * [인공지능 대화 데이터, 언어 전문가가 만들어야 하는 이유](https://blog.naver.com/textnetofficial/222678979440)
 * [챗GPT와 유사한 오픈소스 모델 공개됐지만… - ZDNet korea](https://zdnet.co.kr/view/?no=20230103091955)
+* [AI Like ChatGPT Are No Good at ‘Not’ | Quanta Magazine](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [7-docs](https://github.com/7-docs)
   * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
     * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
@@ -1278,6 +1279,7 @@ NLP
 * [금융지식의 LLM Adaptation Part3 Adaptation편](https://www.facebook.com/groups/TensorFlowKR/posts/2041190419555339/)
 * [AI-Text 필터링 모델을 위한 거대 ML 모델 적용기](https://engineering.linecorp.com/ko/blog/apply-large-ml-models-for-ai-text-filtering-models)
 * [개발자로서 LLM 사용을 위해 알아두면 좋은 내용들 (Large Language Model for ordinary developers), Haandol](https://haandol.github.io/2023/05/02/llm-for-ordinary-developers.html)
+* [Finetuning LLMs Efficiently with Adapters](https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
