@@ -615,10 +615,6 @@ Programming Books
   * 2018, 한라 004.588-와28ㅅ
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 서버 구축부터 배포, 모니터링, 관리 자동화, 데브옵스까지](http://wikibook.co.kr/aws-infra/)
   * 2019, 한라 004.588-김22ㅇ, 탐라 004.588-김221ㅇ
-* (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
-  * 2019, 애월 004.588-브239ㅌ
-  * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
-  * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
 * (NOT YET) AWS 클라우드 기반의 Django 웹 애플리케이션
   * 2020, 탐라 문005.118-신53에, 우당 005.118-신53ㅇ
 * (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
@@ -2052,6 +2048,13 @@ Programming Books
   * 한라 004.588-인27ㅋ
 * (NOT YET) [모두를 위한 클라우드 컴퓨팅](https://jpub.tistory.com/1310)
   * 한라
+
+## Terraform
+* (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
+  * 2019, 애월 004.588-브239ㅌ
+  * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
+  * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
+* (NOT YET) [테라폼으로 시작하는 IaC](https://hanbit.co.kr/store/books/look.php?p_code=B6444230163)
 
 # Interview
 
@@ -3517,6 +3520,7 @@ Programming Books
 * (NOT YET) [Do it! 점프 투 플라스크](https://sihan-son.github.io/do-it-flask/)
 * (NOT YET) [Do it! 점프 투 장고](https://wikidocs.net/105844)
   * [Book Do it! 점프 투 장고](https://sihan-son.github.io/do-it-django/)
+* (NOT YET) [백엔드 개발을 위한 핸즈온 장고](https://hanbit.co.kr/store/books/look.php?p_code=B1505170070)
 * (NOT YET) [진지한 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2649943562)
   * 한라 005.133-당76ㅈ 우당 문005.133-당77ㅈ
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
