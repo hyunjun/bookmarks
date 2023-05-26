@@ -227,6 +227,7 @@ History
 * [임진왜란 직전에 선조가 '수군 해체'한 이유](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161007153104600&RIGHT_LIFE=R4)
 * [임진왜란 부른, 조선 은(銀)제련 신기술](http://v.media.daum.net/v/20161118101509804)
 * [임진왜란의 양국 전력에 대한 열 가지 진실](http://ppss.kr/archives/27531)
+* [임진왜란의 국제전으로서의 의의.jpg : 클리앙](https://www.clien.net/service/board/park/17188985)
 * [왜적 추격하려는 조선군, 이를 방해하는 명군](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161227115304883)
 * [조선의 운송 혁신 실패에서 배우는 IT 수용론](http://www.bloter.net/archives/227801)
 * [“한양의 길거리는 똥 천지였다.” (1)](http://ppss.kr/archives/51553)
