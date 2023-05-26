@@ -1110,6 +1110,7 @@ Scala
     * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=1jcaTeQgMhk)
     * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
+    * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
