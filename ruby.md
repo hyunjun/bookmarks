@@ -109,6 +109,7 @@ Ruby
   * [맥 OS에서 Ruby Gem Permission Denied 문제 해결](http://jojoldu.tistory.com/288)
   * [서비스 중단없이 루비 버전 2.6 업그레이드 하기](https://medium.com/daangn/서비스-중단없이-루비-버전-2-6-업그레이드-하기-db8991c19050)
   * [gem install error](https://jybaek.tistory.com/896)
+  * [Gemfile.lock의 PLATFORMS 환경 통일하기 (feat. Gem) :: iOYES](https://green1229.tistory.com/360)
 * [ruby-packer: Packing your Ruby application into a single executable](https://github.com/pmq20/ruby-packer)
 * [rubyspeed: Compile ruby functions to C](https://github.com/agrafix/rubyspeed)
 * [scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
