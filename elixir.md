@@ -112,6 +112,7 @@ Elixir
 * [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
+* [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
 
 # API
 * sigils
@@ -134,6 +135,7 @@ Elixir
 * [The Soul of Erlang and Elixir • Sasa Juric • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
+* [LG유플러스 Elixir Tech Seminar - YouTube](https://www.youtube.com/watch?v=NJqlO8ZSyJw)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
