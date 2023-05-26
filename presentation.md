@@ -28,7 +28,6 @@ Presentation
 * [슈퍼 스타트업…돈을 부른 초기 프레젠테이션](http://techholic.co.kr/archives/41033)
 * [에버노트, 습관 안으로 가져와야 성공한다](http://ppss.kr/archives/59152)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
-* [presentationmagazine.com](https://www.presentationmagazine.com/)
 * [2×2 매트릭스로 프로처럼 문서 작성하기: 개발마케팅연구소 김용빈 소장 인터뷰](http://1boon.daum.net/ppss/5907148f6a8e510001e299fc)
 * [Spring Camp 2017 연사 후기](http://blog.woniper.net/344)
 * [직장인의 장표 만들기](https://brunch.co.kr/@hyungsukkim/70)
@@ -81,12 +80,12 @@ Presentation
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
   * [개발자를 위한 PPT 발표앱을 찾았다...! - YouTube](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
 * [Mousepose](http://bedreams.tistory.com/46)
-* [the noun project](https://thenounproject.com/) icon
 * pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [pptx-tool: A script to fix up pptx font configurations considering Latin/EastAsian/ComplexScript/Symbol typeface mappings](https://github.com/achimnol/pptx-tool)
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
+* [Presentation Magazine - 2300 Free PowerPoint Templates and Backgrounds](https://www.presentationmagazine.com/)
 * [prezi](https://prezi.com/)
 * [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
 * [sizle - Bring your slide decks to life](https://sizle.io/)
