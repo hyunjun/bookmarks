@@ -2168,6 +2168,7 @@ Javascript
   * [Nuxt 3 pagination with datafetching | Fast API | Nuxt 3 - YouTube](https://www.youtube.com/watch?v=9MVQmk5u_3I)
   * [Nuxt 3 App | Server Side Firebase Auth | Meta Components Generator App - YouTube](https://www.youtube.com/watch?v=xDzbuqvg5S4)
   * [nuxt3 server api 만들기 & env 접근 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/nuxt/nuxt3-server-api-%EB%A7%8C%EB%93%A4%EA%B8%B0-&-env-%EC%A0%91%EA%B7%BC/)
+  * [Nuxt Enterprise Patterns: Component Management | Josh Deltener](https://deltener.com/blog/nuxt-enterprise-patterns-component-management/)
   * [devtools: Unleash Nuxt Developer Experience](https://github.com/nuxt/devtools)
     * [Introducing Nuxt DevTools · Nuxt](https://nuxt.com/blog/introducing-nuxt-devtools)
       * Nuxt가 발전하면서 추상화도 많아지기 때문에 사용하기는 편하지만, 내부를 이해하기에는 더욱 어려워지고 있는 문제를 해결하기 위해 Nuxt DevTools를 프리뷰로 공개
@@ -3080,6 +3081,7 @@ Javascript
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 * [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
 * [High Performance Node.js Powered by Rust and WebAssembly - YouTube](https://www.youtube.com/watch?v=9GMU5vT866I)
+* [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
 * [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
 * [An Introduction to Multithreading in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
