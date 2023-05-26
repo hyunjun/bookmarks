@@ -214,7 +214,6 @@ Business
 * [“잡담 많이 나누는 회사가 경쟁력”, ‘쓸고퀄’ 치믈리에 자격시험은 그렇게 탄생했다 | 스페셜리포트 | DBR](https://dbr.donga.com/article/view/1101/article_no/9230/ac/a_view) 배달의 민족
 * [나는 어떠한 회사에 다니고 싶은가](https://brunch.co.kr/@hyungsukkim/161)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
-* [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [How To Be Successful - Sam Altman](https://blog.samaltman.com/how-to-be-successful)
   * [Yc 샘 알트만이 말하는 성공 방정식](https://sonujung.com/how-to-be-successful)
   * [성공하는 13가지 방법 (How To Be S.. : 네이버블로그](https://blog.naver.com/bizucafe/222991550841)
@@ -240,11 +239,6 @@ Business
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
-* [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
-* [한 명의 인재가 수(십)만명을 먹여 살린다 v.. : 네이버블로그](https://blog.naver.com/help2000/222831465184) 팀워크
-* [팀워크의 종말 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/644)
-* [잘 나가는 팀의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/20478) teamwork
-* [teamwork - 프로 레벨의 선수들에게 서로 책임감을 가지게 하는건 더이상 코치들이 할 일이 아니야 프로인 너희에게 달려 있어](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-teamwork-md)
 * [Social Contracts for Engineering Teams • Kate Andrews • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=1miIiYA1lNg)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
@@ -2419,6 +2413,16 @@ Business
     * 주도권 부여 = 방향키 부여. 그렇다면 조직이 함께 가는 방향으로 갈 수 있도록 일하는 방식/조직문화를 만드는 게 리더/HR의 역할
 * [VC가 전문가 채용해 월급 주고 스타트업에 보낸다. - T Times](http://www.ttimes.co.kr/view.html?no=2020022018357753481)
 * [페이팔마피아, 어펌(Affirm) 창업자 맥스 레브친은 어떻게 생각할까? (Max Levchin) - YouTube](https://www.youtube.com/watch?v=lluTU8WAUnU)
+
+# Teamwork
+* [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
+* [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
+* [한 명의 인재가 수(십)만명을 먹여 살린다 v.. : 네이버블로그](https://blog.naver.com/help2000/222831465184) 팀워크
+* [팀워크의 종말 | 인사조직 | 디지털 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/di/category_id/2_1/article_no/644)
+* [잘 나가는 팀의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/20478) teamwork
+* [teamwork - 프로 레벨의 선수들에게 서로 책임감을 가지게 하는건 더이상 코치들이 할 일이 아니야 프로인 너희에게 달려 있어](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-teamwork-md)
+* [Fail Fast, Move On: The "5 Co's of Teamwork" maturity model](https://failfastmoveon.blogspot.com/2017/03/the-5-cos-of-teamwork-maturity-model.html)
+  * [박성철 - <다섯가지 Co, 팀워크 성숙도 모델> 팀이라는 이름으로 불리우는 단위 시행 조직이 어떤 상태일 수 있는지... | Facebook](https://www.facebook.com/fupfin/posts/pfbid02nQ6voidmxkW27ziMmjHKUJkdFvF9tz5xNb96YL3sBwzghsvkX75vy993Rx3y5v5Dl)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
