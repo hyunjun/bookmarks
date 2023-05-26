@@ -349,6 +349,7 @@ Programming Books
   * [새로운 제조업 이론이 나를 이끌다](https://brunch.co.kr/@graypool/734)
   * [품질과 일정 사이에서](https://brunch.co.kr/@cleancode/52)
   * [자기 몸값을 하는 프로그램으로만 구성하기](https://brunch.co.kr/@graypool/939)
+  * [Managing technical debt. 우리는 지속적인 발전을 위해 어떻게 기술 부채를 관리해야 하는가? | by Stonei | May, 2023 | Medium](https://medium.com/@nijin39/managing-technical-debt-d56484d0d5b7)
 * [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
   * ★★★☆☆ 2022.04.23
@@ -3253,6 +3254,7 @@ Programming Books
   * [프로덕트 리더십이 중요한 이유](https://brunch.co.kr/@graypool/946)
   * [프로덕트 매니저의 가장 어려운 역할](https://brunch.co.kr/@graypool/959) `프로덕트 매니저의 가장 어려운 역할은 시간, 비용, 에너지를 소비할 대상을 결정하는 것이다`
   * [프로덕트 비전을 향해 협업하는 팀 구축](https://brunch.co.kr/@graypool/967)
+  * [출시를 통한 배움 그리고 프로덕트 비전 설정](https://brunch.co.kr/@graypool/968)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
@@ -3313,6 +3315,8 @@ Programming Books
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당
+* (NOT YET) [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
+  * [독서광 필독! 개발자 온보딩 가이드 - YouTube](https://www.youtube.com/watch?v=8V2GFN7ag6Q)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
