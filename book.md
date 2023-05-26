@@ -704,6 +704,7 @@ Book
   * [The Goal 당신의 목표는 무엇인가?](https://github.com/hyunjun/bookmarks/blob/master/books/the_goal.md)
   * [The Goal 당신의 목표는 무엇인가?. 생산성 한 회사가 그 회사의 목표치에 점점 다가가는 일련의 행위… | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/the-goal-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fe4e4d4e17a4)
   * [The Goal 당신의 목표는 무엇인가?](https://jh4hj.tistory.com/entry/The-Goal-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%AA%A9%ED%91%9C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+  * [미국이 17년간 비밀속에 감춰놨던 효율성을 극대화시키는 이론 (별거 아닌데 인생을 바꿀지도..) - YouTube](https://www.youtube.com/watch?v=xMVYljhoWOQ) ToC 제약이론
 * [아마존 언바운드](https://contents.premium.naver.com/themiilk/business/contents/210705074510297Hl/)
   * ★★★☆☆ 2023.01.17~19
   * 한라 325.19-스885ㅇ 탐라 문325.555-스835ㅇ 우당 문325.555-스835ㅇ
@@ -1573,6 +1574,7 @@ Book
   * 한라 404-던42ㅍ 탐라 문194.3-던41ㅍ 우당 문194.3-던41ㅍ
 
 # Science Fiction
+* [아이디어회관 SF - 직지 프로젝트 1999](https://sf.jikji.org/book/index.html)
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
