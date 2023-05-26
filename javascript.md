@@ -3114,6 +3114,7 @@ Javascript
   * 토스 보안기술팀에서 Node.js의 `url.parse()`의 보안 취약점을 발견하고 이를 수정한 과정을 정리한 글
   * WHATWG URL API가 있지만 node.js의 `url.parse()`는 자체 구현되어 있는데 스펙에 나와 있는 대로 허용되지 않는 문자열을 검사하는 로직으로 인해서 hostname spoofing 취약점이 발생
     * 이를 Node.js에 보고하고 해결 방법을 논의하면서 이 취약점을 수정
+* [Gzip compression with Node.js. Compression in Node.js and Express.js… | by Victor Valencia Rico | Dev Genius](https://blog.devgenius.io/gzip-compression-with-node-js-cc3ed74196f9)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
