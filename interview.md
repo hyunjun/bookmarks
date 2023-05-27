@@ -515,6 +515,7 @@ Interview
       * [The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds - High Scalability -](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
       * [엘런 머스크, 트위터 아키텍쳐 리뷰하기](https://greypencil.tistory.com/175)
       * [일론머스크가 직원들과 코드 리뷰 후 공개한 트위터 아키텍처 2022년 버전과 2006, 2009&2012년 버전](https://www.facebook.com/channyblog/posts/pfbid0HDMUKnsy4F1CsJiewjKnu4oCSCSDSqDFj6VgjAhPuVmebtT2cF8511r6uKS6WF7Nl)
+      * [Design Twitter - System Design Interview - YouTube](https://www.youtube.com/watch?v=o5n85GRKuzk)
       * [**트위터 시스템 디자인 실험기 - 현구막 기술 블로그**](https://hyeon9mak.github.io/twitter-system-design-experiment/)
   * Uber, Lyft, and, Yelp
     * [UBER System design | OLA system design | uber architecture | amazon interview question](https://www.youtube.com/watch?v=umWABit-wbk)
