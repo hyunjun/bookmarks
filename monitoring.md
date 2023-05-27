@@ -45,6 +45,7 @@ Monitoring
 * [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 * [네이버 검색 SRE 1편 - 차세대 검색 모니터링 시스템을 향한 여정](https://d2.naver.com/helloworld/5799075)
 * [네이버 검색 SRE 2편 - 측정하지 않으면 개선할 수 없다! SRE KPI 개발기](https://d2.naver.com/helloworld/9231267)
+* [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
@@ -83,6 +84,7 @@ Monitoring
 * [The XYZ chart: Bringing 3D visualization to Grafana](https://grafana.com/blog/2023/02/24/introducing-the-xyz-chart-a-three-dimensional-way-to-visualize-your-data-in-grafana/)
   * 데이터를 3차원으로 표시할 수 있는 XYZ 차트 도입. 아직은 알파버전이라 `enable_alpha=true`를 설정해야 사용 가능
 * [Grafana Labs is now a GitHub secret scanning partner | GitHub Changelog](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
+* [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
