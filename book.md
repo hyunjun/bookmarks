@@ -337,6 +337,9 @@ Book
 * [죽은 자의 집 청소 / 김완](https://blog.naver.com/babbling_1726/222182588978)
   * ★★★☆☆ 2023.05.15 전부터 읽으려던 책인데 이제서야 읽게 되었다. 저자는 자신의 일이 유별난 일이 아니라고 담담하게 경험을 하나하나 보여주지만, 어떻게 특별한 일이 아니겠는가. 읽는 내내 가라앉은 감정으로, 잠시나마 내 삶에 감사하게 된다.
   * 한라 334.904-김65ㅈ 탐라 문334.904-김66ㅈ 우당 문334.904-김66ㅈ
+* [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
+  * ★★★★☆ 2023.05.27 예상외로 좋았음. 일반적으로 생각할 수 있는 역사 이외에 (너무 짧아서 길게 할 이야기가 많이 없을 수 밖에 없지만) 동물과 공존하는 세상을 향한 이야기, 우리가 몰랐던 동물의 소통, 문화, 지각 능력 등을 알 수 있다.
+  * 우당 문491.5-마839ㄷ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -472,8 +475,6 @@ Book
 * (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
   * 우당 문337.2-베238ㅅ
 * (NOT YET) [올림포스 연대기](https://hanbit.co.kr/store/books/look.php?p_code=B3180984708)
-* (NOT YET) [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
-  * 우당 문491.5-마839ㄷ
 * (NOT YET) [세상은 실제로 어떻게 돌아가는가](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311928120)
   * 우당 문331.54-스39ㅅ
 * (NOT YET) [과부하시대](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309269826)
