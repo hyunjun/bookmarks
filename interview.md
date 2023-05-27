@@ -355,6 +355,7 @@ Interview
 * [System Design Series' Articles - DEV Community 👩💻👨💻](https://dev.to/karanpratapsingh/series/19332)
 * [Top 10 Object Oriented Analysis and Design Interview Questions and Problems for Experienced Developers | by javinpaul | Javarevisited | Jul, 2022 | Medium](https://medium.com/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26)
 * [10 System Design Algorithms, Protocols, and Distributed Data Structure to solve large-scales Problems | by Soma | Javarevisited | May, 2023 | Medium](https://medium.com/javarevisited/10-system-design-algorithms-protocols-and-distributed-data-structure-to-solve-large-scales-40bd24d9a57f)
+* [20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
