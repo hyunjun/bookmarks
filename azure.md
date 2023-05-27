@@ -208,6 +208,7 @@ Azure
 * [Azure 개발자 - .NET Day - Events | Microsoft Learn](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/)
 * [Step by Step Setup instructions of Security Analysis Tool (SAT) for Azure Databricks - YouTube](https://www.youtube.com/watch?v=xAav6GslSd8)
 * [Sustainable Software: Carbon Aware Azure Functions by George Kosmidis - YouTube](https://www.youtube.com/watch?v=2YyDuUCyURs)
+* [Microsoft Build 2023 Book of News 한국어 번역 - 📰 닷넷 소식 - 닷넷데브](https://forum.dotnetdev.kr/t/microsoft-build-2023-book-of-news/7214)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
