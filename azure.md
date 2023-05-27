@@ -51,7 +51,6 @@ Azure
 * [How to build a serverless report server with Azure Functions and SendGrid](https://medium.freecodecamp.org/how-to-build-a-serverless-report-server-with-azure-functions-and-sendgrid-3c063a51f963)
 * [애저 서버리스에서 파이썬/장고 웹서비스 쉽게 배포/운영하기 | ep0. 시작하기 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=22lYkOEV2jY)
 * [allieus/django-with-azure-functions: Azure Function 3.x에서 장고 프로젝트 구동 샘플](https://github.com/allieus/django-with-azure-functions)
-* [Azure Devops - 스크럼 테스크 관리, 빌드, 소스코드 리파지토리, 테스트툴](https://bcho.tistory.com/1331)
 * [Azure Devops - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tVSWQYJ5WzKTha1NP-7Cq-4)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 설계편](https://blog.aliencube.org/ko/2019/06/26/building-azure-devops-extension-on-azure-devops-1/)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 개발편](https://blog.aliencube.org/ko/2019/07/03/building-azure-devops-extension-on-azure-devops-2/)
@@ -59,7 +58,6 @@ Azure
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 수동 배포편](https://blog.aliencube.org/ko/2019/07/17/building-azure-devops-extension-on-azure-devops-4)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 자동 배포편 1](https://blog.aliencube.org/ko/2019/07/24/building-azure-devops-extension-on-azure-devops-5/)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 자동 배포편 2](https://blog.aliencube.org/ko/2019/07/31/building-azure-devops-extension-on-azure-devops-6/)
-* [Mountebank를 이용한 애저 펑션 통합 테스팅](https://blog.aliencube.org/ko/2019/08/07/azure-functions-integration-testing-with-mountebank)
 * [애저 펑션을 위한 SRE 첫걸음](https://blog.aliencube.org/ko/2019/08/14/azure-functions-sre-on-azure-devops-the-first-cut/)
 * [애저 펑션을 이용해서 애저 키 저장소 시크릿을 백업/복원하기](https://blog.aliencube.org/ko/2019/11/27/backup-restore-key-vault-secrets-via-function-apps)
 * [애저 펑션을 위한 Open API 문서를 커맨드라인에서 생성하기 | Aliencube](https://blog.aliencube.org/ko/2020/07/08/generating-open-api-doc-for-azure-functions-in-command-line/)
@@ -149,7 +147,6 @@ Azure
 * [Azure - VirtualWAN Part 1](https://zigispace.net/1069)
 * [Azure - VirtualWAN Part 2](https://zigispace.net/1070)
 * [Azure - VirtualWAN Part 3](https://zigispace.net/1090)
-* [Microsoft Introduces a Fully-Managed Azure Load Testing Service in Preview](https://www.infoq.com/news/2021/12/azure-load-testing-preview/)
 * [통합 데이터 거버넌스 솔루션 애저 Purview | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=8zEwV0PakxY)
 * [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions | by Dennis Zielke | Nov, 2021 | Medium](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
 * [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
@@ -251,3 +248,9 @@ Azure
 * [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
 * [Microsoft Cognitive Services APIs with Python](https://github.com/angie4u/hol-azure-python-cogapis)
 * [클라우드에서 파이썬을 잘 활용하는 다양한 방법 (feat. Azure) - 최영락 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=ywaG1ziUDz4)
+
+# TDD, Test
+* [Mountebank를 이용한 애저 펑션 통합 테스팅](https://blog.aliencube.org/ko/2019/08/07/azure-functions-integration-testing-with-mountebank)
+* [Microsoft Introduces a Fully-Managed Azure Load Testing Service in Preview](https://www.infoq.com/news/2021/12/azure-load-testing-preview/)
+* [Azure Devops - 스크럼 테스크 관리, 빌드, 소스코드 리파지토리, 테스트툴](https://bcho.tistory.com/1331)
+* [Who Tests Their Cloud Code Anyway? • Lars Klint • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=XWGoQ0XpqRQ)
