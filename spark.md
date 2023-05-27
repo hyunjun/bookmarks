@@ -961,6 +961,7 @@
 * [Xinrong Meng & Takuya Ueshin - Scale Data Science by Pandas API on Spark | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=ZCuP74LotxE)
 * [How PySpark Self-Join Simplifies Data Flattening - YouTube](https://www.youtube.com/watch?v=bkNeOjJ8N50)
 * [How to do Topic Modelling in Python using PySpark LDA - YouTube](https://www.youtube.com/watch?v=LE5ceGh9CME)
+* [Use Spark from anywhere: A Spark client in Python powered by Spark Connect - YouTube](https://www.youtube.com/watch?v=vTd3OqDzjuo)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
