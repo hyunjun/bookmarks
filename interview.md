@@ -458,6 +458,7 @@ Interview
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
     * [IRCTC System Design | Railways Ticket Booking Service | System Design - YouTube](https://www.youtube.com/watch?v=x1zR0Q-VWQI)
     * [29LIVE 개발기. 안녕하세요, 29CM에서 첫 커리어를 시작한 커머스백엔드 개발자… | by Junghyungile | 29CM TEAM | May, 2023 | Medium](https://medium.com/29cm/29live-%EA%B0%9C%EB%B0%9C%EA%B8%B0-a615bd933467) live commerce
+    * [Design a Payment System - System Design Interview - YouTube](https://www.youtube.com/watch?v=olfaBgJrUBI)
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
