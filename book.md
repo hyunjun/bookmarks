@@ -340,6 +340,8 @@ Book
 * [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
   * ★★★★☆ 2023.05.27 예상외로 좋았음. 일반적으로 생각할 수 있는 역사 이외에 (너무 짧아서 길게 할 이야기가 많이 없을 수 밖에 없지만) 동물과 공존하는 세상을 향한 이야기, 우리가 몰랐던 동물의 소통, 문화, 지각 능력 등을 알 수 있다.
   * 우당 문491.5-마839ㄷ
+* (NOT YET) [안개 속의 고릴라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967800)
+  * 한라 499.83-포58ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
