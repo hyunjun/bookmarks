@@ -52,6 +52,7 @@ Product
 * [I've Used All The Notebooks - Tyler Cipriani](https://tylercipriani.com/blog/2022/04/30/ive-used-all-the-notebooks/)
 * [Remarkable 2 리뷰 | hacklog](https://sjp38.github.io/ko/post/remarkable2_review/) e-ink
 * [스팸기름 떡칠도 닦아버리는 미친 성능의 안경닦이 물티슈ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=Jl4lTbH2YRY)
+* [오직 대한민국에만 있는 만년필 시필 매장! (feat. 만년필 쓰는 이유, 만년필 고르는 법 + 구독자 이벤트🎁) - YouTube](https://www.youtube.com/watch?v=-VEt1nDTM_g)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
