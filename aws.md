@@ -149,9 +149,6 @@ AWS
 * [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://blog.rajephon.dev/2018/10/06/Amazon-SES-Setup-00/)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [Backend 개발자의 임무는 API를 만드는 것과 운영 인프라를 만드는 것이라고 볼 수 있습니다. | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/backend-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%84%EB%AC%B4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%9A%B4%EC%98%81-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EC%9D%B4%EB%9D%BC%EA%B3%A0-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-561ec2aeb89e) cloud9
-* [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
-* [Best Courses for AWS Advanced Networking Specialty Certification Exam | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-courses-for-aws-advanced-networking-specialty-certification-exam-15a282130b21)
-* [AWS Fully Certified](https://heuristicwave.github.io/FullyCertified)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [15탄- (정리) AWS 마이그레이션 2022](https://brunch.co.kr/@topasvga/2641)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
@@ -265,15 +262,6 @@ AWS
 * [Managing schema evolution in the serverless stack | by GOD.dev | GOD.dev Blog | Nov, 2021 | Medium](https://medium.com/god-dev-blog/managing-schema-evolution-in-the-serverless-stack-9ae6095b04ed) cloudformation
 * [A very quick introduction to the pain of AWS CloudFormation - Blog | luminousmen](https://luminousmen.com/post/a-very-quick-introduction-to-the-pain-of-aws-cloudformation)
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
-* [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
-* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
-* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득](https://blog.outsider.ne.kr/1465)
-* [자격증 합격 후기 - AWS Solution.. : 네이버블로그](https://blog.naver.com/scw0531/221982434680)
-* [대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
-* [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
-* [클라우드 경력 개발을 위한 AWS 자격증 취득 노하우 | AWS Builders 온라인 시리즈 7월, 2022 - YouTube](https://www.youtube.com/watch?v=xuLe8miIscc)
-* [Solutions Architect - Associate (SAA-C03) 자격증 취득 및 시험공부법](https://kim-jong-hyun.tistory.com/135)
-* [AWS Cloud Practitioner 합격기](https://it-ist.tistory.com/245)
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
 * [AWS Rstudio Server 설치 (Linux)](https://unfinishedgod.github.io/docs/aws/install_r/install_r.html)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
@@ -286,16 +274,6 @@ AWS
 * [Amazon EBS 프로비저닝 IOPS – 10년간의 변화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
   * AWS 블록 스토리지 서비스인 EBS의 10년간의 아키텍처 변화를 간략하게 소개
   * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
-* [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
-* [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
-* [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
-* [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
-* [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
-* [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3 | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
-* [AWS Solution Architect $ SysOps Tutorial English - YouTube](https://www.youtube.com/playlist?list=PLCIK028WlYMdlT8Z7m9ea1ZvVjw2wgvoc)
-* [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
-* [AWS 공식 자격 시험 유형 문제 공개. 어느날과 마찬가지로 직무 교육과 테크니컬 온보딩 프로그램에 사용할… | by Jihwan Hyun Cloud Advocate | Cloud Villains | Dec, 2021 | Medium](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186)
-* [2021년 AWS 자격증 취득 가이드 - Google Slides](https://docs.google.com/presentation/d/1tsnHz01Qkd9tSRASv03PL3jqTP095DgvYLO0H2PwDnU/)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
@@ -592,6 +570,32 @@ AWS
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 * [1.(책모음) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 
+# Certification 자격증
+* [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
+* [Best Courses for AWS Advanced Networking Specialty Certification Exam | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/best-courses-for-aws-advanced-networking-specialty-certification-exam-15a282130b21)
+* [AWS Fully Certified](https://heuristicwave.github.io/FullyCertified)
+* [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
+* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
+* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득](https://blog.outsider.ne.kr/1465)
+* [자격증 합격 후기 - AWS Solution.. : 네이버블로그](https://blog.naver.com/scw0531/221982434680)
+* [대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
+* [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
+* [클라우드 경력 개발을 위한 AWS 자격증 취득 노하우 | AWS Builders 온라인 시리즈 7월, 2022 - YouTube](https://www.youtube.com/watch?v=xuLe8miIscc)
+* [Solutions Architect - Associate (SAA-C03) 자격증 취득 및 시험공부법](https://kim-jong-hyun.tistory.com/135)
+* [AWS Cloud Practitioner 합격기](https://it-ist.tistory.com/245)
+* [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
+* [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
+* [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
+* [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
+* [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
+* [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 3 | by SangHyo Han | Medium](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC-part-3-b14f3e4005b)
+* [AWS Solution Architect $ SysOps Tutorial English - YouTube](https://www.youtube.com/playlist?list=PLCIK028WlYMdlT8Z7m9ea1ZvVjw2wgvoc)
+* [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
+* [AWS 공식 자격 시험 유형 문제 공개. 어느날과 마찬가지로 직무 교육과 테크니컬 온보딩 프로그램에 사용할… | by Jihwan Hyun Cloud Advocate | Cloud Villains | Dec, 2021 | Medium](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186)
+* [2021년 AWS 자격증 취득 가이드 - Google Slides](https://docs.google.com/presentation/d/1tsnHz01Qkd9tSRASv03PL3jqTP095DgvYLO0H2PwDnU/)
+* [Top 10 Coursera Courses to Learn AWS, Google Cloud, Azure, and Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)
+* [AWS Certified Developer Associate - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXbcwowVgJNPzlc4L-vNy8P)
+
 # CI/CD Codecommit Codebuild CodeDeploy CodePipeline
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
@@ -855,7 +859,6 @@ AWS
 * [Top 5 Advanced Spring Boot + AWS + Azure, and Cloud Native Development Courses in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/05/top-5-cloud-courses-for-java-and-spring-boot-developers.html)
 * [Top 5 Courses to learn AWS Cloud Formation in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-aws-cloudformation-in-depth.html)
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
-* [Top 10 Coursera Courses to Learn AWS, Google Cloud, Azure, and Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)
 
 # DevOps Guru
 * [Amazon DevOps Guru for Serverless – AWS Lambda 함수 운영 문제 자동 감지 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
@@ -1443,9 +1446,9 @@ AWS
 * [Serverless: Develop & Monitor Apps On AWS Lambda](https://www.serverless.com/)
   * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
   * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
-  * [AWS Certified Developer Associate -15 -Serverless-Demo - YouTube](https://www.youtube.com/watch?v=ec0uLoMuGak)
   * [AWS Lambda를 이용해 슬랙 앱 배포하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/12/Deploy-Slack-App-with-AWS-Lambda.html)
   * [Serverless Framework로 AWS Lambada 배포하기 :: Jay's Code Factory](https://jay-ji.tistory.com/118)
+  * [AWS Serverless - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXfqaHPS8BONQdRATtEdW99)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
@@ -1665,6 +1668,7 @@ AWS
 * [10분만에 따라잡는 AWS 머신러닝 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3U4KlNCg7BNctpJMMjUV8)
 * [AWS를 이용한 MLOps 구축 사례 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mlops-use-case/)
 * [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
+* [AWS AI/ML - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGUQItaIGkkfnRBaX7aIxW1r)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
   * "Run inference at scale"
     * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
@@ -2118,6 +2122,7 @@ AWS
 * [Terraform Cloud no-code provisioning is now GA with new features](https://www.hashicorp.com/blog/terraform-cloud-no-code-provisioning-is-now-ga-with-new-features)
   * Terraform Cloud Business에서 사용할 수 있는 No-code 프로비저닝이 GA
   * Terraform으로 프로비저닝 하려면 HCL을 사용해야 하는데 모듈을 제공하면 HCL을 사용하지 못해도 프로비저닝 할 수 있는 워크플로우를 지원 가능
+* [Terraform - Infra As Code - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXCrujdktDx6h-X-8rUEsEf)
 * [Empowering Teams with Terraform and OPA:Best Practices for Secure Infrastructure as Code Tsoumas Dio - YouTube](https://www.youtube.com/watch?v=0-RkQ7p4lH0)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
