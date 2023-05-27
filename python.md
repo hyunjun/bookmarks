@@ -4229,6 +4229,7 @@ Python
   * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하기](https://hides.tistory.com/1101)
   * [Hide :: SQLAlchemy AsyncSession으로 비동기 적용하며 생긴 문제점](https://hides.tistory.com/1102)
   * [FastAPI에서 SQLAlchemy Session 다루는 방법 | by YoungSik Choo | 원티드 제품 팀블로그 | Mar, 2022 | Medium](https://medium.com/wantedjobs/fastapi%EC%97%90%EC%84%9C-sqlalchemy-session-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95-118150b87efa)
+  * [How to Use Async SQLAlchemy in FastAPI - YouTube](https://www.youtube.com/watch?v=cH0immwfykI)
   * [Session vs scoped_session :: Jay's Code Factory](https://jay-ji.tistory.com/114)
   * [async_scoped_session과 context-local :: Jay's Code Factory](https://jay-ji.tistory.com/115)
   * [sqlalchemy nullpool과 staticpool을 설정하면서 왜 커넥션 풀이 필요한지 이해해 봅시다.](https://codingdog.tistory.com/863)
