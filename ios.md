@@ -406,6 +406,7 @@ iOS
 * [Mastering Swift 4](https://www.youtube.com/playlist?list=PLziSvys01OennlKS2GwDuAHqE0_qCtQQw)
 * [눈에 띄는 Swift 4 변경점들 (Xcode 9 첫 Beta 기준)](http://seorenn.blogspot.com/2017/06/swift-4-xcode-9-beta.html)
 * [Swift 4 - Codable / JSONDecoder / JSONEncoder](http://seorenn.blogspot.com/2017/06/swift-4-codable-jsondecoder-jsonencoder.html)
+* [스위프트에서 URL에 JSON을 파라미터로 보내는 방법 | Joohee Kim's Blog](https://imjhk03.github.io/posts/how-to-send-json-object-in-url-with-swift/)
 * [Codable vs. NSCoding 차이점](https://medium.com/@codesquad_yoda/codable-vs-nscoding-%EC%B0%A8%EC%9D%B4%EC%A0%90-4b47e240c0b8)
 * [Ubuntu에 Swift 설치하기](http://blog.yagom.net/535)
 * [Realm ObjC & Swift 2.5: 쿼리 성능 향상, Swift 3.1 바이너리와 버그 픽스!](https://realm.io/kr/news/realm-objc-swift-2.6/)
