@@ -746,6 +746,10 @@ Book
   * 성산 HG325.211-랜229ㅅ
 * (NOT YET) [제로 투 원 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280602221&start=slayer)
   * 한라 325.21-틸898제
+* (NOT YET) [스타트업 디자인 씽킹](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307863659)
+  * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
+* (NOT YET) [설득의 디테일ㅣ원하는 것을 얻는 섬세한 대화의 기술 9가지 - YouTube](https://www.youtube.com/watch?v=syMYBWU1iEU)
+  * 한라 325.26-보17ㅅ 우당 325.26-보17ㅅ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1227,6 +1231,8 @@ Book
   * 우당 문594.3463-이19ㅋ
 * (NOT YET) [피렌체 서점 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308285535)
   * 우당 문013.33-킹235ㅍ
+* (NOT YET) [그리스 로마 신화의 주인공들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305853088)
+  * 한라 219.2-고64ㄱ 우당 문219.2-고63ㄱ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1386,6 +1392,8 @@ Book
   * 탐라 문199.1-모19ㅇ 우당 문199.1-켄35ㅇ
   * [How to Use the Ikigai Diagram to Find Fulfillment](https://becomingbetter.org/ikigai/)
   * [어쩌다 만들어진 '이키가이 다이어그램'](https://brunch.co.kr/@oohaahpoint/70)
+* (NOT YET) [만화로 보는 소피의 세계 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305873275)
+  * 한라 104-가68ㅅ-1 우당 문104-가69ㅅ-1
 
 # Politics
 * (NOT COMPLETED) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
