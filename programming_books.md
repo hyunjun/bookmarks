@@ -1170,6 +1170,7 @@ Programming Books
   * 입문서이자 이론서. 코드는 별로 없음
 * C++와 CUDA C로 구현하는 딥러닝 알고리즘
   * 한라 004.73 마57ㅆ
+* (NOT YET) [CUDA 기반 GPU 병렬 처리 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=316754356)
 * 밑바닥부터 시작하는 딥러닝
   * 2017.01
   * 탐라 문004.73 사68ㅁ
@@ -1383,6 +1384,8 @@ Programming Books
 * (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
 * (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
+* (NOT YET) [구글 브레인 팀에게 배우는 딥러닝 with TensorFlow.js | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/tfjs/)
+  * 우당 문004.73-차69ㄱ
 * (NOT YET) [딥러닝 인 더 브라우저](https://jpub.tistory.com/1007)
 * (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
   * [머신러닝 교과서 1장 정리](https://benghak.github.io/2020-01-09-ML_chapter_01)
@@ -1705,7 +1708,7 @@ Programming Books
 * (NOT YET) [그림과 실습으로 배우는 도커 & 쿠버네티스 | 위키북스](https://wikibook.co.kr/dkkb/)
   * 한라 005.11-오12ㄷ
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
-  * 우당
+  * 우당 문005.11-마51ㅋ
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
   * 우당
@@ -2048,7 +2051,7 @@ Programming Books
 * (NOT YET) [클라우드 네이티브 애플리케이션 디자인 패턴](https://jybaek.tistory.com/965)
   * 한라 004.588-인27ㅋ
 * (NOT YET) [모두를 위한 클라우드 컴퓨팅](https://jpub.tistory.com/1310)
-  * 한라
+  * 한라 우당 문004.588-노53ㅋ
 
 ## Terraform
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
@@ -2838,6 +2841,14 @@ Programming Books
   * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
 * (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
   * 우당 문325.19-톰829ㅅ
+* (NOT YET) [컬처덱 조직문화를 선언하는 가장 강력한 방법](https://blog.naver.com/busanapple/223082849440)
+  * 한라 325.23-박82ㅋ 우당 문325.2-박811ㅋ
+* (NOT YET) [최고의 팀은 무엇이 다른가?](https://brunch.co.kr/@charles104/222)
+  * 우당 문325.2-코69ㅊ
+* (NOT YET) [리모트워크 레볼루션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305198479)
+  * 우당 문325.24-닐239ㄹ
+* (NOT YET) [실리콘밸리의 MZ들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309352744)
+  * 우당 문325.23-스825ㅅ
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -2989,6 +3000,10 @@ Programming Books
 * (NOT YET) [팀장인데, 1도 모릅니다만](http://www.book21.com/book/book_view.html?bookSID=4423)
   * 한라 325.1-더56ㅌ 우당 문325.24-더57ㅌ
 * (NOT YET) [리더십 : 이론과 실제 (9판)](https://hanbit.co.kr/store/books/look.php?p_code=B1459262097)
+* (NOT YET) [모두의 팀장](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304934375)
+  * 우당 문325.24-김37ㅁ
+* (NOT YET) [기빙 파워](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301040760)
+  * 한라 331.17-바74ㄱ 우당 문325.24-바73ㄱ
 
 # Math
 
