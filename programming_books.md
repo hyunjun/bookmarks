@@ -1664,7 +1664,7 @@ Programming Books
 * (NOT YET) Docker로 PaaS 구성하기
   * 2017.06 한라
 * (NOT YET) [컨테이너 보안](https://hanbit.co.kr/store/books/look.php?p_code=B8383749156)
-  * 우당
+  * 한라 004.6-라68ㅋ 탐라 문004.62-라69ㅋ 우당 문004.6-라69ㅋ
   * [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
   * [컨테이너 보안 - 컨테이너화된 응용 프로그램의 보안을 위한 개념, 이론, 대응법과 모범 관행까지 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1650)
@@ -1710,8 +1710,8 @@ Programming Books
 * (NOT YET) [쿠버네티스 완벽 가이드](https://kihoonkim.github.io/2021/10/31/boot_review/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C/)
   * 우당 문005.11-마51ㅋ
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
-* (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice/)
-  * 우당
+* (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice)
+  * 탐라 문005.11-이73ㅋ 우당 문005.11-이73ㅋ
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
