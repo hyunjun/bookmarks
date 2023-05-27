@@ -230,6 +230,7 @@ Nomad & Remote
   * [베를린 직장인 1년 기념 셀프Q&A 👋🙈 #셀프인터뷰 #해외취업 #독일직장인 - YouTube](https://www.youtube.com/watch?v=rq0CXsblX5Y)
 * [Developer Salaries 2022 Report Germany | .cult by Honeypot](https://cult.honeypot.io/reads/developer-salaries-2022-report-germany/)
 * [개발자 해외취업 꿀팁 대방출 인터뷰 I 🇩🇪 국내파 개발자 이상현님의 독일글로벌 기업 취업기 - YouTube](https://www.youtube.com/watch?v=9LTp5QMgC9s)
+* [독일에 있는 자동차 소프트웨어 개발자](https://www.yocto.co.kr/)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
