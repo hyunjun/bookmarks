@@ -3416,6 +3416,7 @@ Programming
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [How to help a student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
 * [**여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education**](https://missing-semester-kr.github.io/)
+  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
@@ -3464,8 +3465,6 @@ Programming
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
 * Lebyy [Learn By Yourself | Lebyy](https://www.lebyy.com/)
-* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
-  * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
   * [Video Lectures | Introduction to Computer Science and Programming | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
   * [Mathematics for Computer Science | MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
