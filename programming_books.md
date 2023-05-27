@@ -3316,7 +3316,7 @@ Programming Books
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당
 * (NOT YET) [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
-  * [독서광 필독! 개발자 온보딩 가이드 - YouTube](https://www.youtube.com/watch?v=8V2GFN7ag6Q)
+  * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
