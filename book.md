@@ -1118,6 +1118,9 @@ Book
 * [만화로 보는 결정적 세계사](https://hanbit.co.kr/store/books/look.php?p_code=B1817011494)
   * ★★★☆☆ 2023.05.23 프랑스인이 작가라 역시 전형적으로 서구 중심의 세계관을 바탕으로 썼으나 그래도 비교적 세계 많은 지역에 대한 이야기를 다뤘다
   * 탐라 문909-보219ㄱ
+* [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
+  * ★★★☆☆ 2023.05.28 잘못된 지도자가 얼마나 많은 사람들에게 피해를 줄 수 있는지, 우리는 역사에서 이다지도 배우는 게 없는지 생각해볼 수 있는 책
+  * 탐라 문911.0557-유18ㅇ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1226,7 +1229,6 @@ Book
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
 * (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
   * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
-* (NOT YET) [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
 * (NOT YET) [100가지 동물로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313552939)
   * 탐라 문909-반78ㅂ
 * (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)
