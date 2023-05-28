@@ -1809,6 +1809,7 @@ Web
 * [a world to win: webassembly for the rest of us -- wingolog](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [WebAssembly: A new development paradigm for the web - YouTube](https://www.youtube.com/watch?v=RcHER-3gFXI)
 * [Evolution of WebAssembly: Past, Present, Future - YouTube](https://www.youtube.com/watch?v=hPkJDyDrdmQ)
+* [WebAssembly A New Development Paradigm for the Web - YouTube](https://www.youtube.com/watch?v=ZjOm6kQ1lSs)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
