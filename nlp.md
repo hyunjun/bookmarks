@@ -1317,6 +1317,7 @@ NLP
   * [LangChain – Prompt (2/) | 뉴테크프라임](http://www.umlcert.com/langchain-prompt-2/)
   * [LangChain – Prompt (3/) | 뉴테크프라임](http://www.umlcert.com/langchain-prompt-3/)
   * [LangChain – Prompt (4/) | 뉴테크프라임](http://www.umlcert.com/langchain-prompt-4/)
+  * [LangChain – Agent (1/) | 뉴테크프라임](http://www.umlcert.com/langchain-agent-1/)
   * [LangChain 강좌 - YouTube](https://www.youtube.com/playlist?list=PLo_iW4-JxSetdyIdeunPvVLvA_735kt1l)
   * [랭체인러닝데이 도입 시급! 회사내규 챗봇 직접 만들어보기](https://aifactory.space/competition/2374/discussion/366)
   * [LangChain Crash Course: Build a AutoGPT app in 25 minutes! - YouTube](https://www.youtube.com/watch?v=MlK6SIjcjE8)
