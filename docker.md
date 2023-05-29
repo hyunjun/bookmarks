@@ -272,6 +272,7 @@ Docker
     * [**Tiny Container Challenge: Building a 6kB Containerized HTTP Server! | DevOps Directive**](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
     * [nest.js 도커라이징](https://velog.io/@hong-brother/nodeJS-%EB%8F%84%EC%BB%A4%EB%9D%BC%EC%9D%B4%EC%A7%95)
     * [Let’s Dockerize a Node.js Express App | by Aakash Jha | Aug, 2022 | Bits and Pieces](https://blog.bitsrc.io/lets-dockerize-a-node-express-app-fdba1cf516b2)
+    * [How to Dockerize a Node.js Application | by Victor Valencia Rico | May, 2023 | Medium](https://medium.com/@victor.valencia.rico/how-dockerize-a-node-js-application-f180f998e4c1)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
     * [Build & Push Docker Image using Jenkins Pipeline | Devops Integration Live Example Step By Step - YouTube](https://www.youtube.com/watch?v=PKcGy9oPVXg)
