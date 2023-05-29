@@ -287,7 +287,6 @@ ElasticSearch - Lucene
 * [엘라스틱서치 명령어](https://krksap.tistory.com/1634)
 * [Word count from documents](https://discuss.elastic.co/t/word-count-from-documents/117379)
 * [App Search 소개](https://jjeong.tistory.com/1407)
-* [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [Elasticsearch 의 고급 필드 타입들 - YouTube](https://www.youtube.com/watch?v=9_MkRTXH0QU)
   * unsigned_long, version, flattened, aggregate_metric_double, dense_vector
   * [Elastic의 새로운 고급 필드들 - Jongmin's blog](http://kimjmin.net/2021/04/2021-04-advanced-doc-fields/)
@@ -371,6 +370,7 @@ ElasticSearch - Lucene
   * 사용자 검색할 쿼리 서비스가 따로 있어서 쿼리를 처리하고 있으며 p99는 100ms 정도
 * [Building Your Data Network. … how to give each data item a Data URL | by Tony Seale | Feb, 2023 | Medium](https://medium.com/@Tonyseale/building-your-data-network-468d06ecf87e)
 * [배민상회와 검색플랫폼 연동기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11732/)
+* [Vector Search Isn’t Enough | BRKFP301H - YouTube](https://www.youtube.com/watch?v=5Qaxz2e2dVg)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
