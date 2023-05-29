@@ -908,6 +908,7 @@ Git
 * switch
   * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
   * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
+  * [git switch 명령어 | Joohee Kim's Blog](https://imjhk03.github.io/posts/git-switch/)
 * undo
   * [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * [How to undo changes in Git](https://medium.freecodecamp.org/how-to-undo-changes-in-git-e1da7930afdb)
