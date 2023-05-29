@@ -2980,6 +2980,9 @@ Programming Books
 * [팀장으로 생존하기](https://brunch.co.kr/@xmetal/225)
   * ★★★☆☆ 2023.03.13 일반적인 관점에서 읽을 수 있는 팀장 101격의 책
   * 한라 325.24-이52ㅌ
+* (NOT COMPLETED) [앵그리 보스](https://www.newswire.co.kr/newsRead.php?no=963303)
+  * 2023.05.30 스타일이 맞지 않아 읽다가 중지
+  * 한라 325.3-길16ㅇ
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
