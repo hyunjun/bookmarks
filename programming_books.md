@@ -2746,6 +2746,9 @@ Programming Books
   * 탐라 문325.24-로58ㄱ
   * [Ask Your Developer by Jeff Lawson](https://www.askyourdeveloper.com/)
   * [개발자에게 물어보세요 - 디지털 공급망으로 조직의 핵심 역량 구축하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1672)
+* [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
+  * ★★★★☆ 2023.05.29 별 생각없이 읽었는데 오래 전부터 조직 문화 관련한 일을 해온 저자라 그런지 여러가지 다시 생각해보거나 잊었던 것들을 생각해볼 수 있어서 좋았다. 다만 극단적으로 이야기한 건 아니겠지만 문서화가 불필요하다고 한 부분에 대해서는 좀 회의적이다. 저자의 의도는 아마 형식적이고 불필요한 보고를 위한 보고같은 문서화가 필요없다는 의미일 거라고 짐작하지만, 문서화가 부실해서 업무에 문제가 되는 경우도 여전히, 정말 많기 때문에 이 부분은 개인적으로는 다르게 생각한다.
+  * 탐라 문325.25-박832ㅌ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2832,7 +2835,6 @@ Programming Books
   * 한라 325.2-웨24ㄹ 탐라 문325.2-웨223ㄹ
 * (NOT YET) [팀으로 일하라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14371830)
   * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
-* (NOT YET) [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
 * (NOT YET) [역량](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297875800)
   * 우당 문325.211-임817ㅇ
 * (NOT YET) [세상의 모든 전략은 삼국지에서 탄생했다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293960757)
