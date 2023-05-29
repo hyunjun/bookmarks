@@ -32,6 +32,7 @@ Google Cloud Platform GCP
 * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
 * [GCE 위에서 Google 계정 복구](http://jybaek.tistory.com/750)
 * [Auto shutdown idle gce instance – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4478)
+* [What to do when resource is exhausted in GCE – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4484)
 * [Google Cloud Platform 제품들 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/11/GCP-Products/)
 * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
 * [프로젝트 종료하기](http://jybaek.tistory.com/718)
