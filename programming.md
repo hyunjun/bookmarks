@@ -694,6 +694,7 @@ Programming
 * [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 * [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
 * [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
+* [프로그래밍은 왜 어려울까? - Google Slides](https://docs.google.com/presentation/d/1GfA1Gpch9lP-U0hgqF98gMOQl6EI5wsCFHJuHZfi9CY/edit)
 
 # Agile, Scrum
 * book
