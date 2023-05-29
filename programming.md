@@ -670,15 +670,6 @@ Programming
 * [(2021.4.5 한글 자막) Deep Tech는 무엇인가요? A look at how it could shape the future (CCL, TED) - YouTube](https://www.youtube.com/watch?v=Bgpj5miIQ00)
 * [소프트웨어를 만드는 다양한 역할과 협업 방법에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=AAMKNEF3nTI)
 * [큰 서버 작은 서버: 서비스 스케일링의 효율성 | Daniel Lee](https://typefully.com/dylayed/PzIV7Qs) scaling
-* [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
-* [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs) Software Bill of Materials SBOM
-* [SBOM(소프트웨어 자재명세서) 구현을 위한 개방형 표준 - 슬로우뉴스](https://slownews.kr/90108)
-  * SBOM(Software Bill Of Materials; 소프트웨어 자재명세서)은 소프트웨어를 구성하는 모든 컴포넌트 명세서, 특히 사이버 보안분야에서 주목
-  * 표준 SBOM 포맷
-    * 리눅스 재단이 오랫동안 지원하며 발전시켜 온 SPDX(Software Package Data Exchange)
-    * SPDX의 포괄성과 유연함이 걸림돌이 되어 보안과 컴플라이언스에 집중한 CycloneDX가 있는데 이는 OWASP에서 작성, GitHub, GitLab, 레드햇의 지지
-    * SWID(Software Identification)는 OASIS의 ISO/IEC 표준으로 정의한 식별정보
-  * 각 SBOM 표준 선택 기준도 설명
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) GFS
 * [EDI Resources – EdiFabric Docs](https://support.edifabric.com/hc/en-us/categories/360001758972-EDI-Resources)
 * [읽어본 것 중 최고의 소스코드는? | GeekNews](https://news.hada.io/topic?id=7394)
@@ -5335,6 +5326,19 @@ Programming
   * [Application Security with Hashicorp vault( part -1) #devops #kubernetes #hashicorp - YouTube](https://www.youtube.com/watch?v=KN2sGqv_xJU)
   * [HashiCorp Vault on Windows - YouTube](https://www.youtube.com/watch?v=cA00t-fnVXg)
   * [Hashicorp vault: secret management tool introduction | by Satish Pandey | Jan, 2023 | Medium](https://medium.com/@satishpandey2013/hashicorp-vault-secret-management-tool-introduction-7d96f045ea2a)
+
+# SBOM Software Bill of Materials 
+* [소프트웨어 세계의 자재 명세서, SBOM이 필요한 이유 - ITWorld Korea](https://www.itworld.co.kr/news/246094)
+* [Why Building Your Ship (Application) with Raw Materials is a Bad Idea! by Jamie Coleman - YouTube](https://www.youtube.com/watch?v=uAkJjItujCs)
+* [SBOM(소프트웨어 자재명세서) 구현을 위한 개방형 표준 - 슬로우뉴스](https://slownews.kr/90108)
+  * SBOM(Software Bill Of Materials; 소프트웨어 자재명세서)은 소프트웨어를 구성하는 모든 컴포넌트 명세서, 특히 사이버 보안분야에서 주목
+  * 표준 SBOM 포맷
+    * 리눅스 재단이 오랫동안 지원하며 발전시켜 온 SPDX(Software Package Data Exchange)
+    * SPDX의 포괄성과 유연함이 걸림돌이 되어 보안과 컴플라이언스에 집중한 CycloneDX가 있는데 이는 OWASP에서 작성, GitHub, GitLab, 레드햇의 지지
+    * SWID(Software Identification)는 OASIS의 ISO/IEC 표준으로 정의한 식별정보
+  * 각 SBOM 표준 선택 기준도 설명
+* [OmniBOR](https://github.com/OmniBor)
+  * [Introduction to OmniBOR - YouTube](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
