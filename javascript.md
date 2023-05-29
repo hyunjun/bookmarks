@@ -4392,6 +4392,7 @@ Javascript
 * [React build-in hooks cheat sheet. React hooks are a powerful tool for… | by Slawek Bogdan | Feb, 2023 | Medium](https://medium.com/@slawek_bogdan/react-build-in-hooks-cheat-sheet-6f92efa9018e)
 * [Were React Hooks a Mistake? | jakelazaroff.com](https://jakelazaroff.com/words/were-react-hooks-a-mistake/)
   * [(번역) React 훅은 실수일까요?](https://velog.io/@lky5697/were-react-hooks-a-mistake)
+* [How to Build a Splash Screen In React Native | by Gapur Kassym | May, 2023 | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-build-a-splash-screen-in-react-native-7923249cb50)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
@@ -4705,6 +4706,8 @@ Javascript
   * [Liqvid - 인터랙티브 비디오를 React로 만들기 | GeekNews](https://news.hada.io/topic?id=5625)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
+* [Million.js](https://million.dev/)
+  * [Million.js는 어떻게 React보다 (최대) 7️⃣0️⃣% 빠를까? | pyjun01](https://pyjun01.github.io/v/million-js/)
 * MobX
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
   * [Hello, MobX](https://hyunseob.github.io/2017/10/07/hello-mobx/)
