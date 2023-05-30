@@ -677,6 +677,8 @@ App
 * [peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
   * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
 * Phind [개발자를 위한 AI 검색엔진 ‘파인드(Phind)’ 활용법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1944/)
+* [ret-engineering-tools](https://github.com/rabobank/ret-engineering-tools)
+  * [Boost your productivity by engineering your engineering tools! by Martin Kanters and Guus de Wit - YouTube](https://www.youtube.com/watch?v=7OtHAbv95y4)
 * [setup-new-computer-script: This script will help with the quick setup and installation of tools and applications for new developers at Vendasta](https://github.com/vendasta/setup-new-computer-script)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
