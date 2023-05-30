@@ -1475,6 +1475,7 @@ AWS
 ## Lambda Java
 * [Java and AWS Lambda - Best of frenemies?](https://www.cockroachlabs.com/blog/java-and-aws-lambda/)
 * [Matt Meckes & Richard Davison | High Perfomance Serverless Java | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=jkfnuhnx3LE)
+* [Adapting Java for the Serverless world! by Vadym Kazulkin - YouTube](https://www.youtube.com/watch?v=f7oophsxjeQ)
 * [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
 
 ## Lambda Javascript
