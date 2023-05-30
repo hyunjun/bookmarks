@@ -5698,6 +5698,7 @@ Programming
 * [Building Operable Software with TDD (but not the way you think) by Martin Thwaites - YouTube](https://www.youtube.com/watch?v=IY8bAhbJEnc)
 * [TDD Revisited - Ian Cooper - NDC London 2021 - YouTube](https://www.youtube.com/watch?v=vOO3hulIcsY)
 * [Test Driven Development in JavaScript – writing tests that don’t suck! - David Whitney - YouTube](https://www.youtube.com/watch?v=D7LKslgwxmQ)
+* [‘사용성 평가’로 생생한 유저 피드백 수집하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2044/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
