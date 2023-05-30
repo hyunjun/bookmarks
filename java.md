@@ -568,6 +568,7 @@ Java
 * [(예제와 함께 보는) 기술을 학습하는 3단계](https://velog.io/@joosing/3-steps-to-learn-the-skills)
   * [ScheduledExecutorServiceTest.java at 688d8bc764c4b65487889277f50c364f5dd544d3 · Jsing/study-in-code · GitHub](https://github.com/Jsing/study-in-code/blob/688d8bc764c4b65487889277f50c364f5dd544d3/src/test/study/tech/java/concurrent/ScheduledExecutorServiceTest.java)
 * [병렬 스트림(Parallel Stream)을 활용한 손쉬운 성능 향상](https://velog.io/@joosing/increase-performance-with-parallel-stream)
+* [Introduction and pitfalls of Java's new concurrency model by David Vlijmincx - YouTube](https://www.youtube.com/watch?v=UjzLaVI87mA)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
