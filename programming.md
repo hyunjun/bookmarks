@@ -1494,6 +1494,7 @@ Programming
 * [클라우드 네이티브의 진정한 의미 - ITWorld Korea](https://www.itworld.co.kr/news/248260)
 * [Cloud Native가 무슨 말인가?](https://brunch.co.kr/@graypool/751)
 * [Cloud Native가 만드는 규모의 경제](https://brunch.co.kr/@graypool/797) 응집력, 안전한 변경을 가능하게 하는가? Kent Beck
+* [Building the next-gen healthcare platform using cloud native bingo by Nils Béosier - YouTube](https://www.youtube.com/watch?v=mDj_3nr5hG4)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
@@ -3711,6 +3712,7 @@ Programming
 * [What is Data Mesh?](https://www.linkedin.com/posts/arockialiborious_data-datamesh-activity-6991771820127367168-sxST/)
 * [Data Mesh Architecture](https://www.datamesh-architecture.com/)
 * [From Data Mess to Data Mesh: Navigating People, Process & Platforms • Nicki Watt • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TONOUCAkfLE)
+* [Platform Building for Data Mesh - Show me how it is done! by Tom De Wolf - YouTube](https://www.youtube.com/watch?v=wG2g67RHYyo)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
