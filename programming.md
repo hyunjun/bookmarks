@@ -1586,9 +1586,6 @@ Programming
 * [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요 - YouTube](https://www.youtube.com/watch?v=v9rcKpUZw4o)
 * [프론트엔드 아키텍처: Business Logic의 분리. 왜 프론트엔드 아키텍처에 관심을 가져야 할까? | by 이문기 | Jun, 2022 | Medium](https://medium.com/@shinbaek89/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-business-logic%EC%9D%98-%EB%B6%84%EB%A6%AC-adc10ae881ab)
 * [**Netflix API 아키텍처 진화**](https://brunch.co.kr/@graypool/487)
-* [Gutenberg – a Publish-Subscribe Service for Datasets Created by Netflix](https://www.infoq.com/news/2019/10/gutenberg-netflix/)
-  * [How Netflix microservices tackle dataset pub-sub | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
-  * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog](https://tech.deliveryhero.com/delivery-hero-architecture-reviews/)
 * [Our backend strategy to handle massive traffic | Coupang Engineering | Coupang Engineering Blog](https://medium.com/coupang-engineering/our-backend-strategy-to-handle-massive-traffic-d30cd6cc4fb2)
 * [When to use a trait? — Matthias Noback - Blog](https://matthiasnoback.nl/2022/07/when-to-use-a-trait/)
@@ -1611,6 +1608,7 @@ Programming
 * [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을 강의로 들었다는 이야기
 * [The Next Big Thing In Software Architecture • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DCWo9DuywYo) actor
 * [Just-in-time Architecture • Macklin Hartley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=4TmVEmuRdx8)
+* [The hitchhiker's guide to software architecture and design by Alexandre Touret and Raphaël Semeteys - YouTube](https://www.youtube.com/watch?v=vxwqD3KwdEY)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1619,6 +1617,9 @@ Programming
   * [BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=6226)
 * [CodeSee – Understand your codebase](https://www.codesee.io/) diagram
   * [CodeSee Helps Developers ‘Understand the Codebase’ – The New Stack](https://thenewstack.io/codesee-helps-developers-understand-the-codebase/)
+* [Gutenberg – a Publish-Subscribe Service for Datasets Created by Netflix](https://www.infoq.com/news/2019/10/gutenberg-netflix/)
+  * [How Netflix microservices tackle dataset pub-sub | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
+  * [Netflix내의 마이크로서비스가 데이터를 처리하는 방법 (Gutenberg) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/netflix%EB%82%B4%EC%9D%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-gutenberg-6dc46c0e2952)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
   * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
 * [kic-reference-architectures: MARA: Modern Application Reference Architecture](https://github.com/nginxinc/kic-reference-architectures)
