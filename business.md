@@ -509,6 +509,7 @@ Business
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
 * [Cultivate a growth mindset for a prosperous New Year - CEOWORLD magazine](https://ceoworld.biz/2020/12/15/cultivate-a-growth-mindset-for-a-prosperous-new-year/)
 * [How Microsoft Uses a Growth Mindset to Develop Leaders](https://hbr.org/2016/10/how-microsoft-uses-a-growth-mindset-to-develop-leaders)
+* [Growth mindset by Thanasis Kokkas - YouTube](https://www.youtube.com/watch?v=g8sibkyMUWo)
 * [성장 없는 시니어가 무서운 이유](https://brunch.co.kr/@a4s/3) 모두 명심해야 할 일
 * [일상스케치 누가 성장했을까? - YoungJin Shin](http://www.jiniya.net/ng/2022/04/who-has-grown-up/)
   * 1) 회사 업무와 관련된 도메인에 관심 2) 자기 동기부여 3) 주도적 업무 처리 4) 열린 마인드 5) 긍정적인 사고
