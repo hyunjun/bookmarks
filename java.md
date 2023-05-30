@@ -1516,6 +1516,7 @@ Java
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
 * [phi-accural-failure-detector: A port of Akka's Phi Accrual Failure Detector](https://github.com/komamitsu/phi-accural-failure-detector)
+* [picocli - a mighty tiny command line interface](https://picocli.info/)
 * [Precipice - A Java Library for Isolating and Monitoring Task Execution](http://www.uncontended.net/2016/03/13/introducing-precipice.html)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
