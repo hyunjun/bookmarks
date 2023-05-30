@@ -125,6 +125,7 @@ Julia
 * [Matěj Račinský - Julia in Python’s den PyData Prague 2022-06-27 - YouTube](https://www.youtube.com/watch?v=U5zt6OZVxrs)
 * [줄리아, 머신러닝에 파이썬보다 더 나은 이유는? < Coding < 기사본문 - 코딩월드뉴스](https://www.codingworldnews.com/news/articleView.html?idxno=11963)
 * [Julia_for_Pythonistas.ipynb - Colaboratory](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb)
+* [JuliaHub is a Free Platform to Start your Technical Computing Journey](https://info.juliahub.com/standard-tier-free-to-start)
 
 # API
 * Pkg.add
