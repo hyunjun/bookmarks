@@ -141,6 +141,8 @@ Azure
 * [It's tough being an Azure fan – Alex Hudson](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/)
 * [OpenAPI 인증 플로우를 이용한 애저 펑션 엔드포인트 접근 권한 관리 | Aliencube](https://blog.aliencube.org/ko/2021/10/06/securing-azure-function-endpoints-via-openapi-auth/)
 * [Microsoft Announces the General Availability of Azure Database for MySQL - Flexible Server](https://www.infoq.com/news/2021/11/azure-db-mysql-flexible-server/)
+* [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed - YouTube](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
+* [Easy APIs with Azure SQL Database | Data Exposed: MVP Edition - YouTube](https://www.youtube.com/watch?v=47pKZdX4hw4)
 * [Azure VM Deployment on Multiple Availability Zone - YouTube](https://www.youtube.com/watch?v=8n0pIW0Egho)
 * [Azure Gateway Load Balancer(GWLB)](https://zigispace.net/1147)
 * [더 단순해진 쿠버네티스··· MS '애저 컨테이너 앱스' 살펴보기 - CIO Korea](https://www.ciokorea.com/news/214574) Azure Container Apps ACA
@@ -171,7 +173,6 @@ Azure
 * [Azure Network 어디까지 알아봤니?](https://zigispace.net/1186)
 * [Azure Private DNS Resolvers 구성해보기](https://zigispace.net/1189)
 * [프리지아 랩 :: Azure에서 사용자 지정 역할 정의 만들 때 만난 오류 해결하기](https://www.dokyun.pe.kr/275)
-* [SQL 911: A DBA’s Guidebook using Notebooks in Azure Data Studio | Data Exposed - YouTube](https://www.youtube.com/watch?v=Z59Dq3l6ISU)
 * [Google BigQuery vs. Microsoft Azure Synapse | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-bigquery-vs-microsoft-azure-synapse-efac3b06e4a8)
 * [Best Practices when working with Azure Synapse | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/best-practices-when-working-with-azure-synapse-e811cf882b63)
 * [Good News for Microsoft Azure Synapse Users | by Christianlauer | Jul, 2022 | Medium](https://christianlauer90.medium.com/good-news-for-microsoft-azure-synapse-users-7d21a5c91516)
