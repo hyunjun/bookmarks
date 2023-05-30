@@ -686,6 +686,7 @@ Programming
 * [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
 * [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
 * [프로그래밍은 왜 어려울까? - Google Slides](https://docs.google.com/presentation/d/1GfA1Gpch9lP-U0hgqF98gMOQl6EI5wsCFHJuHZfi9CY/edit)
+* [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
 
 # Agile, Scrum
 * book
@@ -2268,6 +2269,7 @@ Programming
 * [Service Registry Design Pattern in Microservices Explained | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/service-registry-design-pattern-in-microservices-explained-a796494c608e)
 * [My Favorite Courses to learn Microservices in Depth - DEV Community](https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce)
 * [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=p2GlRToY5HI)
+* [IT Architecture : All your micro-services are wrong PERIOD! by Dwight Matthys - YouTube](https://www.youtube.com/watch?v=Qf5gP10V-kY)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
