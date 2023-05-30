@@ -226,6 +226,7 @@ Programming
 * [MIT 컴공을 1년만에 독학으로 끝낸 문과생의 학습법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ultralearning20191017)
 * [야생학습 하고 있나요?. 쿠키런 킹덤이란 게임을 1년이상 했다. 수집형 RPG 게임이라 적당히… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/%EC%95%BC%EC%83%9D%ED%95%99%EC%8A%B5-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-fc35f2954a07)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
+* [**The Zen of Programming. A personal journey towards writing beautiful code. by Sander Hoogendoorn - YouTube**](https://www.youtube.com/watch?v=ia-YUpZV0hk) Shu Ha Ri, code is co$t, ... 어떻게 하면 더 좋은 코드/아키텍쳐를 작성하는지 등 굉장히 다양한 프로그래밍의 기본적이며 중요한 부분들을 얕지만 굉장히 다양하게 소개
 * [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
@@ -652,6 +653,7 @@ Programming
 * [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
+* [Beyond Serverless: How Feature-Focused Platforms Streamline Your DX by Hugh McKee - YouTube](https://www.youtube.com/watch?v=-jlKjA7hnlI) high-abstraction solutions: Fermyon, Dapr, Sky, and Kalix
 * [Please put units in names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
 * [Thoughtworks Technology Radar 26호 (39p PDF) | GeekNews](https://news.hada.io/topic?id=6295)
 * [Block Protocol - an open standard for data-driven blocks](https://blockprotocol.org/)
@@ -2412,6 +2414,7 @@ Programming
 * [Serverless Is Amazing, but Here’s the Big Problem | by Mika Yeap | Feb, 2021 | Better Programming](https://betterprogramming.pub/serverless-is-amazing-but-heres-the-big-problem-9e76b65f23c6)
 * [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 * [Delivering BBC Online using Serverless | by Johnathan Ishmael | BBC Design + Engineering | Medium](https://medium.com/bbc-design-engineering/delivering-bbc-online-using-serverless-79d4a9b0da16)
+* [Software Reuse and collaboration for better eGov services by Karel Van Eeckhoutte - YouTube](https://www.youtube.com/watch?v=2gpT-rdp5g8)
 * [BBC Online: Architecting for Scale with the Cloud and Serverless - YouTube](https://www.youtube.com/watch?v=WE-tkz2tf30)
   * (실제로는 훨씬 복잡하겠지만) media 회사에서 가장 중요한 건 contents이고 contents maker와 user를 양끝에 두고 필요한 architecture를 추가하면서 설명해주는 게 인상적
   * 80% of service는 consistent & shared tech, maximised reuse, 20%는 different tech & tool, limited reuse 이야기도 좋았음
@@ -3618,6 +3621,7 @@ Programming
 * [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
 * [How to gain value from SAST tools in SDLC: Most common findings and mitigations by Stella Varvarigou - YouTube](https://www.youtube.com/watch?v=J-o2uJ3NBU0)
 * [How to deal with privacy and GDPR in Event-Sourced systems by Oskar Dudycz - YouTube](https://www.youtube.com/watch?v=7NGlYgobTyY)
+* [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
