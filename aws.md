@@ -2150,7 +2150,7 @@ AWS
 * [AWS 학습 자료집](https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b)
 * [Home - AWS Video Catalog](https://awsvideocatalog.com/)
 * [(자료) AWS 분야별 전문가 되기](https://brunch.co.kr/@topasvga/1758)
-* [AWS 강의실 - YouTube](https://www.youtube.com/channel/UCpDxKxars7BHR3owaNRctaQ)
+* [AWS 강의실 - YouTube](https://www.youtube.com/@AWSClassroom)
 * [Amazon EKS Workshop :: Amazon EKS Workshop](https://www.eksworkshop.com/)
 * [AWS 스타트업 - AWS Startup](https://www.awsstartup.io/)
 * [(모음1탄~15탄) AWS  기초부터 실습까지 정리](https://brunch.co.kr/@topasvga/2525)
