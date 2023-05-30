@@ -195,7 +195,6 @@ AWS
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
-* [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
 * [AWS: Some Tips for Avoiding Those “Holy Bill” Moments](https://hackernoon.com/aws-some-tips-for-avoiding-those-holy-bill-moments-9e48e0cb1a83)
 * [5 AWS Services You Should Avoid!](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd)
 * [개발자를 위한 AWS Toolkits for PyCharm 정식 출시 – IntelliJ 및 Visual Studio Code(미리 보기)](https://aws.amazon.com/ko/blogs/korea/new-aws-toolkits-for-pycharm-intellij-preview-and-visual-studio-code-preview/)
@@ -564,6 +563,10 @@ AWS
     * 쿼리 결과를 pandas dataframe으로 받아와서 여러가지 다른 처리나 EDA등 가능
 
 # Aurora -> [sql](sql.md)
+
+# Batch
+* [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
+* [AWS Batch를 활용하여 미디어 처리를 위한 관리형 FFmpeg 워크플로우 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/create-a-managed-ffmpeg-workflow-for-your-media-jobs-using-aws-batch/)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
