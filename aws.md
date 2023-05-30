@@ -469,7 +469,6 @@ AWS
 * [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(1) | Cloud Villains](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-ed2198632af1)
 * [Lake Formation을 활용한 세부 권한 설정 및 데이터 공유(2) | by Phoebe Baek | Cloud Villains | Mar, 2023 | Medium](https://medium.com/ctc-mzc/lake-formation%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%B8%EB%B6%80-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%B5%EC%9C%A0-2-99fe81641790)
 * [매드업의 DMP - 프리즘(prism)을 소개합니다 | MADTECH](https://tech.madup.com/prism-intro/)
-* [지속 가능한 효율적이고 비용 최적화 된 AWS 기반 애플리케이션 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/building-sustainable-efficient-and-cost-optimized-applications-on-aws/)
 * [Amazon File Cache로 하이브리드 클라우드 워크로드를 가속화 및 단순화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-file-cache-hybrid-cloud-workload-acceleration/)
 * [디바이스에 딱 맞는 이미지 제공하기 | blog.hoseung.me](https://blog.hoseung.me/2023-04-02-provide-fit-image/) Lambda, CloudFront
 * [AI Code Generator - Amazon CodeWhisperer - AWS](https://aws.amazon.com/ko/codewhisperer/)
@@ -827,6 +826,9 @@ AWS
 * [7 Ways to Save Money on AWS. Save Money and make Cost optimization… | by S3CloudHub | Jul, 2022 | Medium](https://s3cloudhub.medium.com/7-ways-to-save-money-on-aws-18bb6d92122)
 * [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
 * [클라우드 서비스 사용량 관리를 통한 운영 비용 최적화. 쿠팡 엔지니어링 조직들의 클라우드 비용을 줄이기 위해 들인 노력과… | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Mar, 2023 | Medium](https://medium.com/coupang-engineering/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%AC%EC%9A%A9%EB%9F%89-%EA%B4%80%EB%A6%AC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%9A%B4%EC%98%81-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94-1521565c64ec)
+* [지속 가능한 효율적이고 비용 최적화 된 AWS 기반 애플리케이션 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/building-sustainable-efficient-and-cost-optimized-applications-on-aws/)
+* [비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
+* [비용 최적화 시리즈 2부: AWS Config의 비용 최적화 방안 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/cost-optimization-recommendations-for-aws-config/)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
