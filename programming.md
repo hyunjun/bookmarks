@@ -336,6 +336,7 @@ Programming
 * [왜 플랫폼 엔지니어링에 집중해야 할까? - ITWorld Korea](https://www.itworld.co.kr/news/289507)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
+* [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
@@ -689,6 +690,7 @@ Programming
 * [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
 * [프로그래밍은 왜 어려울까? - Google Slides](https://docs.google.com/presentation/d/1GfA1Gpch9lP-U0hgqF98gMOQl6EI5wsCFHJuHZfi9CY/edit)
 * [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
+* [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
 
 # Agile, Scrum
 * book
@@ -1515,6 +1517,7 @@ Programming
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [How image search works at Dropbox - Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 * [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
+* [Analytics capabilities architectural patterns: A journey for data-driven insights by John Mousa - YouTube](https://www.youtube.com/watch?v=kY697MSLd7E)
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
@@ -3330,6 +3333,7 @@ Programming
 * [Practical Tips & Tricks for CI/CD Success • Zan Markan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sDMBdcquxl4)
 * [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
 * [Continuous Integration/Continuous Deployment” in Telecommunications by Ioannis Mylonas - YouTube](https://www.youtube.com/watch?v=bP8EJrWtuNI)
+* [Speaking in Different Tongues: balancing a code base across different languages by Michaël Demey - YouTube](https://www.youtube.com/watch?v=LyVejRMjPn0)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
@@ -4185,6 +4189,7 @@ Programming
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
   * [Working With RabbitMQ in Golang](https://morioh.com/p/cd085b9269fc)
   * [Django and FastAPI with RabbitMQ. Hello developers, during the last… | by Gustavo Caetano | Oct, 2022 | Medium](https://medium.com/@caetanoog/django-and-fastapi-with-rabbitmq-b4b068db5aa2)
+  * [To queue or not to queue, that is the question. by Lovisa Johansson - YouTube](https://www.youtube.com/watch?v=GtoJDiDdDvA)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
@@ -5483,6 +5488,7 @@ Programming
 * [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
 * [Software Craftsmanship 실천 가이드.pptx - Google Drive](https://docs.google.com/file/d/1A7mW4Cu7CypyE5jt1staRxnPjmEyyqaQ/edit)
 * [Trust Teams but Verify: Compliance as Code Done Right • Effy Elden • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=lv9fuHtnBhc)
+* [Software archaeology - Learning from the landing on the moon! by Tobias Voß - YouTube](https://www.youtube.com/watch?v=-bykh2eMXL0) agile plannning, iterative design simulation, robust fault-tolerant, vision inspiration, competition is good for business
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
