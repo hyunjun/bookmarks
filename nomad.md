@@ -265,6 +265,7 @@ Nomad & Remote
   * [원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것 | GeekNews](https://news.hada.io/topic?id=7253)
 * [온라인 근무환경에서 심리적 안전감 높이는 쉬운 방법 3가지. 아침에 모여서 커피 한 잔 하며 이야기 나누던 시대는 저멀리 사라지고… | by 송요창 | Sep, 2022 | Medium](https://medium.com/@totuworld/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B7%BC%EB%AC%B4%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%AC%EB%A6%AC%EC%A0%81-%EC%95%88%EC%A0%84%EA%B0%90-%EB%86%92%EC%9D%B4%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80-31849b6a2224)
 * ["여러 업무 공간 비슷하게 유지하라" 하이브리드 워크 생산성 관리 5계명 - ITWorld Korea](https://www.itworld.co.kr/news/252334)
+* [깃허브 (GitHub) 같은 회사에서 효율적인 재택근무 (Remote work) 가 가능한 이유 | by Bryant Jimin Son | May, 2023 | Medium](https://bryantson.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C-github-%EA%B0%99%EC%9D%80-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-remote-work-%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B4%EC%9C%A0-4515035690af)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [nagaja.net](http://www.nagaja.net)
