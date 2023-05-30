@@ -1331,6 +1331,7 @@ Javascript
   * 사용자가 학습 비용이 적게 들도록 인터페이스를 통일하고 높은 수준의 추상화 제공
 * [디자인 시스템 구축을 쉽게 만들어주는 캔버스! | 지금 써보러 갑니다](http://icunow.co.kr/designsystemcanvas/)
 * [인디자인 요소, 자간(Tracking)과 글자간격(letter spacing), 커닝(kerning), 이음자(ligature)](https://a-park.me/55)
+* [쿠팡은 디자인 시스템을 어떻게 구축했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2045/)
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
@@ -1738,6 +1739,7 @@ Javascript
   * [아일랜드 아키텍쳐](https://velog.io/@composite/%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [Getting Started With Astro: The All-In-One Web Framework](https://semaphoreci.com/blog/astro-framework)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
+* [awesome-jsx: ⚡ A curated list of awesome JSX ecosystem and resources](https://github.com/composite/awesome-jsx)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
 * backbone.js
