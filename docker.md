@@ -1904,6 +1904,7 @@ Docker
     * [KNative Auto scaling](https://bcho.tistory.com/1359)
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
+  * [Knative Serverless to architect decomposed components by Maarten Vandeperre and Dieter De Moitie - YouTube](https://www.youtube.com/watch?v=ekkwMIMVA2Y)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kopf: A Python framework to write Kubernetes operators in just a few lines of code](https://github.com/nolar/kopf)
   * [Kopf로 Kubernetes CRD Operator 구현해보기](https://heumsi.github.io/blog/posts/crd-and-kopf-tutorial/)
