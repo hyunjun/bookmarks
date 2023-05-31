@@ -431,6 +431,7 @@ AWS
 * [AWS에서 어떤 컨테이너 서비스를 이용해야 하나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-choose-aws-container-services/)
 * [컨테이너 AWS에서 컨테이너 운영하기. 그리고 ROSA | 우수연, 한국 IBM - YouTube](https://www.youtube.com/watch?v=QybHsPi2xoA)
 * [컨테이너 AWS App Runner를 활용한 컨테이너 서버리스 활용기 | 김진영, 지디디코퍼레이션 - YouTube](https://www.youtube.com/watch?v=VJ8YXDTkhHw)
+* [Creating chaos in containers by Maish Saidel-Keesing - YouTube](https://www.youtube.com/watch?v=oQ1iKjOpGHQ)
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
@@ -2132,6 +2133,7 @@ AWS
   * Terraform으로 프로비저닝 하려면 HCL을 사용해야 하는데 모듈을 제공하면 HCL을 사용하지 못해도 프로비저닝 할 수 있는 워크플로우를 지원 가능
 * [Terraform - Infra As Code - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXCrujdktDx6h-X-8rUEsEf)
 * [Empowering Teams with Terraform and OPA:Best Practices for Secure Infrastructure as Code Tsoumas Dio - YouTube](https://www.youtube.com/watch?v=0-RkQ7p4lH0)
+* [Terraform has forever changed the way I deploy code - YouTube](https://www.youtube.com/watch?v=cGPyH-PO8vg)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
