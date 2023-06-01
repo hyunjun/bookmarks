@@ -5643,6 +5643,8 @@ Javascript
     * [(번역) tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기](https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react)
 * [ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
 * [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
+* [Tspec | Tspec](https://ts-spec.github.io/tspec/)
+  * [API 문서화, TS 타입만 있으면 해결! - Tspec - 리디주식회사](https://ridicorp.com/story/tspec-api-documentation/)
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
