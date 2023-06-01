@@ -1781,6 +1781,7 @@ Java
 * [스프링 스케줄러 런타임에 cron 설정 변경하기](http://javacan.tistory.com/entry/change-spring-cron-schedule-at-runtime)
 * [Spring 의 Cache 추상화를 사용하면서, 단건/다건 key 에 대한 동일 저장소 사용하기](http://woowabros.github.io/experience/2019/01/04/multi-key-spring-cache.html)
 * [Spring Cache 적용으로 읽기 작업 성능 향상시키기](https://chagokx2.tistory.com/98)
+* [Spring 스프링 캐시 간단하게 사용해보기](https://yeonyeon.tistory.com/306)
 * [Spring @Cacheable 메서드 내부 호출 개선하기 (feat. self invocation)](https://junior-datalist.tistory.com/329)
 * [Spring Guide - 테스팅 전략](https://www.popit.kr/spring-guide-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%A0%84%EB%9E%B5/)
 * [Spring Guide - 에외 처리 전략](https://www.popit.kr/spring-guide-%EC%97%90%EC%99%B8-%EC%B2%98%EB%A6%AC-%EC%A0%84%EB%9E%B5/)
@@ -1901,6 +1902,7 @@ Java
 * [@JsonFormat이 선언된 ZonedDateTime 타입의 필드를 다룰 때 주의할 점](https://kim-jong-hyun.tistory.com/146)
 * [Top 20 Spring Framework and Spring Boot Scenario based Questions for Java Developers | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/top-20-spring-framework-and-spring-boot-scenario-based-questions-for-java-developers-d84c440864bf)
 * [Spring '/', 문자열인가 경로인가 그것이 문제로다](https://yeonyeon.tistory.com/304)
+* [Spring Bean Injection 이야기(feat. 모두가 다 알고 있는 스프링빈, 정말 다 알고 있는가?) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/martin-dev-honey-tip-2/)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
