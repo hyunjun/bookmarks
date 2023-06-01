@@ -1109,6 +1109,7 @@ AWS
   * Deployment에는 Topology Spread Constraints를 설정해서 Pod이 각 존에 고르게 배포 가능
   * 상황별 설정 방법과 동작 방식 설명
 * [“nodeless” 검색결과 - 리눅서의 기술술 블로그](https://linuxer.name/?s=nodeless)
+* ['Tech/Kubernetes' 카테고리의 글 목록](https://blog.netcloudy.im/category/Tech/Kubernetes)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
