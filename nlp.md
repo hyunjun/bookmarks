@@ -836,6 +836,7 @@ NLP
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
   * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
+  * [BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins](https://github.com/OpenBMB/BMTools)
   * [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
   * [ChatGee: 카카오톡 AI 챗봇 빌더](https://github.com/woensug-choi/chatgee)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
