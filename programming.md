@@ -3143,6 +3143,7 @@ Programming
 * [Programming is writing is programming - Felienne - YouTube](https://www.youtube.com/watch?v=uO3a4HIBDU4)
 * [Team Topologies, Software Architecture & Complexity • James Lewis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=izLg4NkJQO4)
 * [Expert Talk: Unlocking the Power of Real-Time Analytics • Tim Berglund & Adi Polak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ee43ToXbnzI)
+* [IT TREND Google I/O & Microsoft Build 리뷰](https://tech.kakaoenterprise.com/195)
 * [calltospeakers.com](https://calltospeakers.com)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
