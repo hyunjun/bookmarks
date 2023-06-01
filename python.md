@@ -4947,6 +4947,7 @@ Python
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
+  * [A way to optimize Modin DataFrame – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4494)
   * [Laysa Uchoa - Super Search with OpenSearch and Python | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=Nt_Oon_GGsM)
 * [optimus: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark](https://github.com/hi-primus/optimus)
   * [Data Science with Optimus. Part 1: Intro. | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/data-science-with-optimus-part-1-intro-1f3e2392b02a)
