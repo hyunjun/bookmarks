@@ -1306,6 +1306,7 @@ NLP
   * [NIKL-KLUE: 모두의 말뭉치 인공 지능 언어 능력 평가 1등 솔루션입니다](https://github.com/NIKL-Team-BC/NIKL-KLUE)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
+* [KULLM: 구름(KULLM): 고려대학교에서 개발한, 한국어에 특화된 LLM](https://github.com/nlpai-lab/KULLM)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
