@@ -3280,6 +3280,7 @@ Programming Books
   * [프로덕트 비전을 향해 협업하는 팀 구축](https://brunch.co.kr/@graypool/967)
   * [출시를 통한 배움 그리고 프로덕트 비전 설정](https://brunch.co.kr/@graypool/968)
   * [프로덕트 비전에서 프로덕트 전략으로 전환](https://brunch.co.kr/@graypool/970)
+  * [프로덕트 전략에서 프로덕트 로드맵으로](https://brunch.co.kr/@graypool/971)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
