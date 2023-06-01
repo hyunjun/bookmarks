@@ -726,6 +726,7 @@ Java
 * [인텔리제이에서 Git 사용하기](https://brunch.co.kr/@jiwonleeqa/259)
 * [@Nullable and @NotNull | IntelliJ IDEA](https://www.jetbrains.com/help/idea/nullable-and-notnull-annotations.html)
 * [Java 19와 IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/02/java-19-and-intellij-idea/)
+* [IntelliJ IDEA의 ‘빠른’ 기능 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/05/quick-features-in-intellij-idea/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
