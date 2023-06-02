@@ -3628,6 +3628,19 @@ Programming
 * [더 쉽고 안전한 LINE 계정 이전](https://engineering.linecorp.com/ko/blog/easier-safer-line-account-transfer)
 * [How to gain value from SAST tools in SDLC: Most common findings and mitigations by Stella Varvarigou - YouTube](https://www.youtube.com/watch?v=J-o2uJ3NBU0)
 * [How to deal with privacy and GDPR in Event-Sourced systems by Oskar Dudycz - YouTube](https://www.youtube.com/watch?v=7NGlYgobTyY)
+* [Bcrypt at 25: A Retrospective on Password Security | USENIX](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
+  * 비밀번호 해싱 함수인 Bcrypt를 1997년에 David Mazières와 함께 만든 Niels Provos가 25년을 맞이하여 비밀번호 보안에 대한 회고
+  * 1970년대 켄 톰슨과 데니스 리치가 개발한 Unix에서 crypt라는 강력한 암호 해싱 기능 도입. 이후 솔트와 DES 암호를 반복하는 기능 등이 개발
+  * 보안과 공격에 대한 우려로 Bcrypt 개발, David Mazières가 적응형 해싱(adaptive hashing)을 고안하고 운 좋게 협력해서 구현할 기회 획득
+  * 1997년 6월 OpenBSD 2.1의 일부로 소개, 1999년 USENIX에서 발표해 암호 보안에 큰 영향
+  * 과거에는 비밀번호 데이터베이스를 도난당하는 게 흔한 일이었고 crypt의 도입으로 비밀번호를 일반 텍스트로 저장하지 않게 됨
+  * 공격자들은 사전 공격, 무차별 대입 등으로 비밀번호를 추측하고 저장된 해시를 비교해서 비밀번호 확인
+  * bcrypt가 비밀번호 보안의 중요한 혁신이 될거라고 생각하지 못했지만 빈번한 데이터 유출 사고로 비밀번호 해싱 알고리즘의 단점이 드러나고 컴퓨팅 계산 능력의 발전에 저항할 수 있게 설계된 bcrypt의 동기를 강조하게 됨
+  * David Mazières는 적응형 해싱을 도입해서 컴퓨팅 성능이 발전함에도 발맞춰 견고성을 유지 가능
+  * 새로운 알고리즘 개발도 촉진해서 PBKDF2, script로 확장, 2013년에는 bcrypt의 대안으로 Argon2의 탄생
+  * 대규모 인터넷 서비스에서는 리소스를 최적화해야 하므로 과도한 메모리 요구 없이도 강력한 보안을 제공하는 bcrypt가 여전히 유리
+  * 오늘날 클라우드의 도입으로 데이터는 원격에 더 많이 저장되며 무차별 대입 등의 공격보다는 취약점을 악용하거나 내부자를 감염시켜서 데이터를 유출하는 일이 더 증가
+  * 이제 보안은 기술적인 문제가 아니라 인적 요소와 기존 보안 기술을 채택하는 데 드는 비용의 문제
 * [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
@@ -5920,6 +5933,30 @@ Programming
   * [바닐라 아이스크림에 알레르기가 있는 자동차.jpg : 클리앙](https://www.clien.net/service/board/park/14924850)
 * [It's High Tide! ― Andreas Zwinkau](https://beza1e1.tuxen.de/lore/high_tide.html)
   * [⚜어? on Twitter: "서버 이야기는 이겁니다 서버가 이상하게 일정시간마다 멈춰서 수리기사가 확인하러 몇시간 걸려서 서버실에 도착하면 서버가 다시 문제없이 도착합니다 그리고 다시 회사로 돌아가면 다시 서버가 멈춥니다 다시 서버실에 도착하면 또 문제없이 도착합니다" / Twitter](https://twitter.com/Abupyss_N/status/1653100168957534209)
+* [2023-03-08 Incident: Infrastructure Connectivity Issue Affecting Multiple Regions | Datadog](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/)
+  * 지난 3월 Datadog에서 발생했던 대규모 장애에 대한 포스트모텀
+  * 장애는 UTC 기준 3월 8일 06:03에 시작 16:44 처음으로 주요 서비스를 다시 운영 시작 9일 08:58에 모든 지역 모든 서비스 운영 시작 10일 06:25분 과거 데이터를 채운 후 완전히 해결
+  * 장애 대응 팀은 10명의 선임 엔지니어링 리더, 70명의 현지 장애 지휘관, 450~750명의 장애 대응자로 구성된 비상 운영 센터 운영, 장애 해결까지 4교대 근무
+  * 실시간 텔레메트리 데이터가 가장 중요했기에 데이터의 정상적인 수집과 처리를 복구하는 데 먼저 집중, 서비스 복구후 과거 데이터를 복구
+  * 장애 원인은 systemd의 보안 업데이트가 여러 VM에 자동으로 적용되면서 systemd-networkd가 재시작, Kubernetes CNI 플러그인(Cilium)이 관리하는 라우팅 테이블을 systemd-networkd가 삭제하면서 노드가 오프라인 상태로 변경
+  * 정상적인 부팅 절차에서는 systemd-networkd를 먼저 시작하고 CNI 플러그인이 라우팅 테이블을 설치하기 때문에 새로 부팅하거나 재부팅된 노드에서는 해당 현상이 재현되지 않아서 문제 확인이 어려웠음
+  * 보안 업데이트는 기본 OS 이미지의 레거시 보안 업데이트 채널이 활성화되어 있었기 때문에 자동 업데이트 적용. OS 이미지를 최소한으로 사용했기에 기존에 이런 업데이트가 거의 없어서 놓쳤던 부분
+  * 각 리전에 있는 인프라는 의도적인 설계상 집적접인 네트워크 연결이 전혀 없었음에도 자동 업데이트가 UTC 06:00~07:00 사이의 윈도우로 설정되어 있었기 때문에 비슷한 시간에 여러 리전에 걸쳐서 장애가 발생하는 원인을 찾기가 쉽지 않았고 이렇게 간접적으로 연결되었다는 것을 생각하지 못했기에 초기 대응에서 원인을 찾지 못함
+  * 레거시 보안 업데이트 채널을 비활성화해서 자동 업데이트가 되지 않게 하고 systemd-networkd가 라우팅 테이블을 변경하지 않도록 수정
+* [2023-03-08 Incident: A Deep Dive Into the Platform-Level Impact | Datadog](https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/)
+  * 위 Datadog 장애의 플랫폼 레벨 영향을 더 깊게 살펴보는 포스트모텀
+  * Datadog을 오랫동안 Ubuntu를 사용했고 Kubernetes로 마이그레이션 하면서도 Ubuntu를 계속 사용했다. 최신 LTS를 사용하는 것이 목표이지만 보통 새 버전이 다 오면 몇 달 동안 기다리다가 테스트를 시작한다.
+  * Ubuntu 22.04는 2022년 6월 테스트 시작 2022년 11월부터 프로덕션에 점진적 적용 시작
+  * Ubuntu 20.04는 systemd v245 사용 Ubuntu 22.04는 v249 사용
+  * systemd v248에서 알지 못하는 IP 규칙을 플러시 하는 새 동작 추가 v249에서 이를 옵트아웃 할 수 있는 설정 추가, v248, 247에 백포트
+  * Ubuntu 22.04에 이 새로운 systemd-networkd 동작 포함, 그러나 앞에 글에서 얘기한 대로 systemd-networkd를 시작한 뒤에 라우팅 규칙을 추가하므로 문제가 되지 않음
+  * 2023년 3월 7일 Ubuntu 레포지토리에 systemd의 취약점 패치 등록, 이 패치를 설치하면 systemd의 구성 요소 모두 재시작. 2022년 말 Ubuntu 22.04를 적용하기 시작한 뒤로 systemd 패치는 없었기 때문에 systemd-networkd 재시작으로 발생하는 문제를 이전에 발견하지 못함
+  * 같은 CVE 패치가 Ubutun 20.04에 포함된 systemd v245에도 적용, 그러나 여기서는 IP 규칙이 플러시 되지 않으므로 Ubutun 20.04를 사용하는 노드는 영향 없었음
+  * 무인 업그레이드를 위해 Ubuntu 기본값을 사용하고 UTC 06:00, 18:00 두 번 1시간의 윈도우를 통해서 업그레이드 실행
+  * 이는 서버가 실행된 뒤에 systemd-networkd가 재시작된 경우에만 발생하기 때문에 노드마다 차이. Google Cloud에서는 UTC 3월 7일 18:50부터 패치가 적용된 systemd를 사용할 수 있던 것으로 보여 그 이전에 업데이트가 실행된 노드는 영향 없었음
+  * AWS, Azure, Google Cloud를 모두 쓰기 때문에 클라우드마다 설정이 약간 다르지만, Cilium이 Pod 네트워킹을 대체할 수 있도록 IP 규칙이 구성
+  * systemd-networkd가 재시작 되면서 이 규칙이 플러시되었기 때문에 클라우드마다 약간 다르지만 네트워크 문제 발생
+  * AWS는 헬스 체크 문제를 감지하고 인스턴스를 종료하고 재시작했기에 바로 복구, Google Cloud와 Azure는 네트워크만 끊어졌고 인스턴스는 괜찮았기 때문에 API를 통해 직접 재시작해서 복구. 이때문에 장애시에는 Google Cloud와 Azure가 더 심각한 상황이라고 판단했지만 Google Cloud와 Azure는 재시작할 때 디스크까지 같이 복구 되었지만 AWS는 인스턴스가 종료되면서 로컬 디스크의 데이터도 잃었기 때문에 이후 복구가 훨씬 어려웠음
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
