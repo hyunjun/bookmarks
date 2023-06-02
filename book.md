@@ -340,6 +340,9 @@ Book
 * [만화로 배우는 동물의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B8442139493)
   * ★★★★☆ 2023.05.27 예상외로 좋았음. 일반적으로 생각할 수 있는 역사 이외에 (너무 짧아서 길게 할 이야기가 많이 없을 수 밖에 없지만) 동물과 공존하는 세상을 향한 이야기, 우리가 몰랐던 동물의 소통, 문화, 지각 능력 등을 알 수 있다.
   * 우당 문491.5-마839ㄷ
+* [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
+  * ★★★☆☆ 2023.05.31
+  * 한라 219.2-김73ㅇ
 * (NOT YET) [안개 속의 고릴라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967800)
   * 한라 499.83-포58ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
@@ -407,7 +410,6 @@ Book
   * 한라 909-앤54ㅁ 탐라 문701-데68ㅁ 우당 문701-앤53ㅁ
 * (NOT YET) [패권의 비밀](https://www.hellodd.com/news/articleView.html?idxno=70680)
   * 한라 321.93-김883ㅍ 탐라 문321.93-김832ㅍ
-* (NOT YET) [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
 * (NOT YET) [오래된 기억들의 방 - 우리 내면을 완성하는 기억과 뇌과학의 세계](https://m.hani.co.kr/arti/culture/book/1048317.html)
 * (NOT YET) 지극히 사적인 러시아 ['비정상' 일리야가 말하는 러시아…러시아인들은 왜 푸틴을 좋아할까?](https://www.pressian.com/pages/articles/2022071516575646212)
 * (NOT YET) [만화로 배우는 곤충의 진화](https://www.hanbit.co.kr/biz/books/book_view.html?p_code=B7076585695)
