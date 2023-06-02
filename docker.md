@@ -1682,6 +1682,11 @@ Docker
 * [5-How to set up 3 node kubernetes cluster - 1 | Kubernetes Hands On (English) - YouTube](https://www.youtube.com/watch?v=EVaYVWdTDy0)
 * [Kubernetes & The Myth of Multi-cloud by Federico Fregosi - YouTube](https://www.youtube.com/watch?v=xS7wSUCrllA)
 * [Optimizing Resource Usage in Kubernetes by Carlos Sanchez - YouTube](https://www.youtube.com/watch?v=9hhu_AWiwok)
+* [Using OCI artifacts to distribute security profiles for seccomp, SELinux and AppArmor | Kubernetes](https://kubernetes.io/blog/2023/05/24/oci-security-profiles/)
+  * Kubernetes에서 Security Profiles Operator(SPO)를 사용하면 보안 기능인 seccomp(secure computing mode), SELinux, AppArmor을 관리 가능
+    * 이때 클러스터에 기본 프로파일을 관리하고 애플리케이션에 연결해서 사용 가능
+  * 그동안은 기반 프로파일을 관리하는데 어려움이 있었지만 SPO 0.8.0부터는 OCI 아티팩트 기본 프로파일 지원
+  * 같이 제공되는 spoc 명령어를 사용해서 OCI 프로파일을 레지스트리에 등록하는 방법도 설명
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
