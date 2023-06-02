@@ -1811,6 +1811,7 @@ Web
 * [WebAssembly: A new development paradigm for the web - YouTube](https://www.youtube.com/watch?v=RcHER-3gFXI)
 * [Evolution of WebAssembly: Past, Present, Future - YouTube](https://www.youtube.com/watch?v=hPkJDyDrdmQ)
 * [WebAssembly A New Development Paradigm for the Web - YouTube](https://www.youtube.com/watch?v=ZjOm6kQ1lSs)
+* [WebAssembly: From the Browser to... Everywhere? - YouTube](https://www.youtube.com/watch?v=fA0ZQohiPKM)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
