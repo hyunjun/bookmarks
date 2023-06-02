@@ -903,6 +903,8 @@ NLP
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
 * [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
 * [www.luis.ai](https://www.luis.ai)
+* [Mantium](https://mantiumai.com/)
+  * [Better decision making with always up-to-date vector databases | ODFP210 - YouTube](https://www.youtube.com/watch?v=DCy3RHa7x_8)
 * [nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs](https://github.com/karpathy/nanoGPT)
   * [nanoGPT - 중간규모 GPT를 가장 빠르게 훈련/미세조정하기 위한 오픈소스 | GeekNews](https://news.hada.io/topic?id=8170)
 * [NeMo: a toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
