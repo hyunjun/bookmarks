@@ -1329,6 +1329,7 @@ NLP
   * [LangChain – Agent (1/) | 뉴테크프라임](http://www.umlcert.com/langchain-agent-1/)
   * [LangChain 강좌 - YouTube](https://www.youtube.com/playlist?list=PLo_iW4-JxSetdyIdeunPvVLvA_735kt1l)
   * [랭체인러닝데이 도입 시급! 회사내규 챗봇 직접 만들어보기](https://aifactory.space/competition/2374/discussion/366)
+  * [랭체인러닝데이 챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)
   * [LangChain Crash Course: Build a AutoGPT app in 25 minutes! - YouTube](https://www.youtube.com/watch?v=MlK6SIjcjE8)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
