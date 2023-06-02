@@ -5138,6 +5138,7 @@ Programming
 * [레거시는 과감하게 버려야 하는가?](https://brunch.co.kr/@graypool/523)
 * [Patterns of Legacy Displacement • Rob Horn & Ian Cartwright • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=noOoLULfInc)
 * [(레거시 시스템) 개편의 기술 - 배달 플랫폼에서 겪은 N번의 개편 경험기 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=HNt3H_7muHs)
+* [스프링캠프 2019 Track 2 Session 4 : 당신도 할 수 있는 레거시 프로젝트 개선 이야기 (이경일) - YouTube](https://www.youtube.com/watch?v=pZYZAMToenE&t=245s)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
