@@ -3083,7 +3083,12 @@ Javascript
     * 프로덕션에 가까운 환경에서 메모리 누수를 찾는 과정을 볼 수 있음
 * [Top 7 Tips To Enhance The Performance Of A Node.js App | by Arjun S. | WeblineIndia | Medium](https://medium.com/weblineindia/top-7-tips-to-enhance-the-performance-of-a-node-js-app-a764a1e848fa)
 * [High Performance Node.js Powered by Rust and WebAssembly - YouTube](https://www.youtube.com/watch?v=9GMU5vT866I)
-* [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
+* [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023/)
+  * Node.js의 성능 벤치마킹, 다른 런타임과 비교한 것은 아니고 Node.js의 16, 18, 20 버전 간의 성능 차이 테스트
+  * 벤치마크 제품을 Node.js internal benckmark, 자체적으로 만든 nodej-sbench-operations, HTTP 서버로 나누어 테스트
+  * 테스트 레포도 제공하고 있어서 직접 확인 가능 
+    * [state-of-nodejs-performance-2023: Raw results of State of Node.js Performance 2023 article](https://github.com/RafaelGSS/state-of-nodejs-performance-2023)
+  * 파일시스템, Event, HTTP, 모듈, 스트림, 버퍼 등으로 나누어 각 버전에서 어떻게 성능이 차이가 나는지 비교
 * [How to Generate and Use an SSL Certificate in Node.js | by Thomas Sentre | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-generate-and-use-an-ssl-certificate-in-nodejs-72491dcee7c2)
 * [An Introduction to Multithreading in Node.js | AppSignal Blog](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
   * Node.js에서 멀티스레드로 코드를 실행하는 방법 설명
