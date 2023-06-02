@@ -1136,6 +1136,12 @@ Apache
   * 차원 테이블처럼 데이터가 소량이면서 끊임없이 바뀌는 상황에서는 모든 데이터를 Kudu에 저장하는 경우 다수. 데이터가 Kudu의 확장 제한을 넘지 않는다면 대용량 테이블이라고 해도 Kudu의 고유 기능을 이용 가능하므로 Kudu에 저장. 데이터가 대용량이고, 배치 지향적이고, 변경이 불가능한 경우에는 Parquet 형식을 사용해 데이터를 HDFS에 저장하는 것이 좋음. 두 스토리지 계층의 이점이 모두 요하다면 슬라이딩 윈도우 패턴이 효과적인 솔루션
 * [Testing Apache Kudu Applications on the JVM](https://blog.cloudera.com/blog/2019/03/testing-apache-kudu-applications-on-the-jvm/)
 * [Kudu as Storage Layer to Digitize Credit Processes](https://dataworkssummit.com/barcelona-2019/session/kudu-as-storage-layer-to-digitize-credit-processes/)
+* [kuduraft: A Raft Library in C++ based on the Raft implementation in Apache Kudu](https://github.com/facebook/kuduraft)
+  * [Building and deploying MySQL Raft at Meta - Engineering at Meta](https://engineering.fb.com/2023/05/16/data-infrastructure/mysql-raft-meta/)
+    * Facebook이 semisynchronous 복제 프로토콜을 이용해서 다른 리전에 복제본을 이용하고 있었으나 구성도 복잡하고 관리가 어려워서 많은 문제를 일으킨다는 것을 깨닫고 Raft 합의 알고리즘 도입
+    * Apache Kudu를 기반으로 한 MySQL용 Raft 구현인 kuduraft를 오픈소스로 공개
+    * 프라이머리가 Raft로 binlog에 쓰고 Raft가 binlog를 팔로어/리플리케이터에 전송
+    * MySQL Raft를 통해 MySQL 서버가 프로모션과 멤버십을 처리하도록 했기 때문에 운영상 어려움 크게 감소
 
 # Kylin
 * [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
