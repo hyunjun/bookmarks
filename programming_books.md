@@ -1144,6 +1144,7 @@ Programming Books
 * (NOT YET) [생활 속 예제로 배우는 생생 데이터 분석](https://www.youtube.com/watch?v=aPrpHAj2_FM)
   * [8장. 기계 학습 라이브러를 활용하여 주식 시세 미래 예측하기 - YouTube](https://www.youtube.com/watch?v=WnXbyQ8zZF4)
 * (NOT YET) [데이터 품질의 비밀](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314634449)
+  * 한라 005.74-모54ㄷ
   * [김수보 - 이 책을 받아 읽어보고 있는데 꽤 내용이 많다. 데이터 아키텍쳐를 설계하고 관리하기 위한 바이블 같은... | Facebook](https://www.facebook.com/kimsubo/posts/pfbid0ncrzvJh95C5KT82NmfZX1UMsDJCM5NDwFv8mGzeNL28GRJb2WQpcRnz27Uv6fSKml)
   * [책 데이터 품질의 비밀](https://jybaek.tistory.com/994)
 * (NOT YET) [코딩 없이 배우는 데이터 과학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312951054)
@@ -2323,6 +2324,8 @@ Programming Books
 * [아파치 카프카로 데이터 스트리밍 애플리케이션 제작](http://acornpub.co.kr/book/data-apache-kafka)
   * 탐라 문005.74쿠31ㅇ
 * (NOT YET) [카프카 핵심 가이드](http://jpub.tistory.com/849)
+  * (NOT YET) 카프카 핵심 가이드 [카프카를 창시한 사람들이 쓰고, 카프카 개발에 참여한 이가 옮긴 핵심 실무서](https://jpub.tistory.com/1401)
+    * 한라 005.74-샤898ㅋ
 * (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
 * (NOT YET) [아파치 카프카 애플리케이션 프로그래밍 with 자바 - YES24](http://www.yes24.com/Product/Goods/99122569?OzSrank=1)
   * [데브원영이 추천하는 실시간 데이터 파이프라인 아키텍처 | 번역서 출간 | 출간 이벤트 - YouTube](https://www.youtube.com/watch?v=Zd-KMbbTINY)
@@ -2336,7 +2339,6 @@ Programming Books
 * (NOT YET) [카프카 스트림즈와 ksqlDB 정복 | 에이콘출판사](http://acornpub.co.kr/book/kafka-ksqldb/)
   * 한라 005.74-시35ㅋ
   * [mastering-kafka-streams-and-ksqldb: Code repository for the Mastering Kafka Streams and ksqlDB book](https://github.com/mitch-seymour/mastering-kafka-streams-and-ksqldb)
-* (NOT YET) 카프카 핵심 가이드 [카프카를 창시한 사람들이 쓰고, 카프카 개발에 참여한 이가 옮긴 핵심 실무서](https://jpub.tistory.com/1401)
 
 # Kotlin
 
