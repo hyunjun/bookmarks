@@ -441,6 +441,10 @@ Web
   * 사이트에서 컨테이너 쿼리를 사용하는 예시를 제공하므로 직접 사용 가능
 * [Browsers are the new containers! by Dan Erez - YouTube](https://www.youtube.com/watch?v=uR7Onn2KJoQ)
 * [Oh what fun! connecting to devices with your browser by Ron Dagdag - YouTube](https://www.youtube.com/watch?v=tWANye35dZY) WebMidi
+* [Workers Browser Rendering API enters open beta](https://blog.cloudflare.com/browser-rendering-open-beta/)
+  * Cloudflare에서 Workers Browser Rendering API의 오픈 베타 시작
+  * Workers Browser Rendering API를 이용하면 Cloudflare의 워커에서 헤드리스 브라우저를 사용 가능
+  * Puppeteer를 워커에서 사용할 수 있도록 제공하고 있으므로 워커에서 Puppeteer API를 그대로 사용 가능
 * [Baseline](https://web.dev/baseline/)
   * Chrome 팀에서 특정 웹 기능이 Chrome, Edge, Firefox, Safari 등 주요 버전에서 지원되는 지를 더 명확히 보여주어 웹에서 안정적으로 쓸 수 있는지를 판단할 수 있는 Baseline 공개
   * web.dev와 MDN에서 표시될 것이며 Interop 2022/2023에서 Apple, Microsoft, Mizilla와 협력해서 제작, 앞으로도 1년에 한 번씩 베이스라인을 발표할 예정
