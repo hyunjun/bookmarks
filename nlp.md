@@ -888,6 +888,7 @@ NLP
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
   * [YGK-a: YGK-a: Your Genius, Knowledgeable assistant, An advanced ChatGPT client from your shell](https://github.com/code-yeongyu/ygk-a)
+* [chat-ui: Open source codebase powering the HuggingChat app](https://github.com/huggingface/chat-ui)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Like the eval method!](https://github.com/corca-ai/EVAL)
 * [gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
