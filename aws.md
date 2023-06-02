@@ -483,6 +483,7 @@ AWS
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
 * [What is Intelligent Search? - YouTube](https://www.youtube.com/watch?v=Xj_d2eX4nTY)
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+  * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
