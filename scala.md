@@ -378,6 +378,7 @@ Scala
 * [Exploring Binary Search - Chris Okasaki - Medium](https://medium.com/@cokasaki/497c7633578c)
 * [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/)
 * [Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
+* [Encoding Base58: Understanding and implementing in Scala](https://idiomaticsoft.com/post/2023-05-23-base58/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -612,6 +613,7 @@ Scala
 * [Testing Akka Http Clients](https://medium.com/@pwdd/testing-akka-http-clients-59fa2d0545c1)
 * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Configuring Github badges for a Scala project](https://medium.com/@canohueros75/configuring-github-badges-for-a-scala-project-87ef726028ea)
+* [Performance Showdown: ZIO vs Akka-HTTP vs Rust by Willem Vermeer - YouTube](https://www.youtube.com/watch?v=mEnqzMnVzi4)
 * [Akka Http Client- How to create a Unit Test for Http Single Request in Scala](https://medium.com/swlh/akka-http-client-how-to-create-a-unit-test-for-http-single-request-in-scala-e115f2052802)
 * [Akka-http graceful shutdown](https://day-to-day-stuff.blogspot.com/2020/04/akka-http-graceful-shutdown.html)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
@@ -1095,6 +1097,7 @@ Scala
     * [ZPure and scaling back ZIO: ZIO World 2022](https://scalac.io/blog/zpure-zio-scaling-back-zio/)
     * [ZIO - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0Bzu7NfhTiGK7iCYjcFAYlal)
       * [ZIO HTTP Tutorial: The REST of the Owl - Rock the JVM Blog](https://blog.rockthejvm.com/zio-http/)
+    * [Teach Your Web API To Speak Loud And Clear CLI! By Jorge Vasquez - YouTube](https://www.youtube.com/watch?v=BEwxsPUQ9SY) zio http
     * [Day to day stuff: Speed up ZIOs with memoization](https://day-to-day-stuff.blogspot.com/2022/11/speed-up-zios-with-memoization.html)
     * [DI in Play for Scala3 with ZIO - YouTube](https://www.youtube.com/watch?v=9fr4pWIG-Tw)
     * [Dancing with ZIO - Oto Brglez Ljubljana.tech - YouTube](https://www.youtube.com/watch?v=mVU6nyl_zWk)
@@ -1110,6 +1113,7 @@ Scala
     * [Pragmatic DDD in Scala with ZIO](https://www.notion.so/Pragmatic-DDD-in-Scala-with-ZIO-ed6399f13e3d43a0a4cb2a32cc7a6b3e)
     * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=1jcaTeQgMhk)
+    * [Zymposium - Implementing a New ZIO Feature - YouTube](https://www.youtube.com/watch?v=RA24E-674MY)
     * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
     * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
     * Fibers
@@ -2225,6 +2229,7 @@ Scala
 * [practice - extension method & typeclass](https://gist.github.com/hyunjun/19a8514f8fec476b11554177f9192768#file-extension_method_and_typeclass-scala)
 * [Scala 3 - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0BwsVUbhsH2HMqDMPNhQ0HPc)
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
+* [On the road to Scala 3. Like many Scala developers, at… | by Smur89 | SwissBorg Engineering | May, 2023 | Medium](https://medium.com/swissborg-engineering/on-the-road-to-scala-3-99e5cc9d0e4)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
 * [A Beginner's Guide to Scala 3.0 - Knoldus Blogs](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
