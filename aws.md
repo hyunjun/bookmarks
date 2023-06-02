@@ -1965,6 +1965,7 @@ AWS
 * [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 * [What should we know about AWS Security? (Part 1)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security.html)
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
+* [우아한테크세미나 사례별로 알아보는 안전한 S3 보안 가이드 - YouTube](https://www.youtube.com/watch?v=vgYfAndrpPU)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
