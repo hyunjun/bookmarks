@@ -2151,6 +2151,7 @@ Java
 * [Spring Boot Performance: How to Fine-Tune Your Application for High-Speed Results | Medium](https://medium.com/@harshgajjar7110/performance-tuning-and-optimization-tips-for-spring-applications-13fcf6ef8b44)
 * [VDBUH2023 - Laurențiu Spilcă - Everything in Spring Security 6 baked with a Spring Boot 3 recipe - YouTube](https://www.youtube.com/watch?v=ynt1CLsWXoo)
 * [Bootiful Spring Boot 3 by Josh Long - YouTube](https://www.youtube.com/watch?v=4QtW1KVZJRI)
+* [Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
