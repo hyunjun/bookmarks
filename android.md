@@ -284,6 +284,8 @@ Android
 * [웹에서 파일 선택하기: onShowFileChooser()를 이용한 단일 및 복수 파일 선택 방법 | by galcyurio | PRND | Mar, 2023 | Medium](https://medium.com/prnd/%EC%9B%B9%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-onshowfilechooser-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A8%EC%9D%BC-%EB%B0%8F-%EB%B3%B5%EC%88%98-%ED%8C%8C%EC%9D%BC-%EC%84%A0%ED%83%9D-%EB%B0%A9%EB%B2%95-b2553726b06e)
 * [안드로이드 포그라운드 서비스를 활용한 메모리부족으로 앱 종료되는 현상 개선 :: GS Retail Engineering](https://gsretail.tistory.com/30)
 * [DiffUtil 이해하기](https://dev.gmarket.com/79)
+* [리뷰 통합 여행 어때? — 상편. 안녕하세요 👋 여기어때 모바일 앱 개발을 담당하는 iOS 개발자… | by 김주엽Groo(그루) / 앱개발팀 | Jun, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A6%AC%EB%B7%B0-%ED%86%B5%ED%95%A9-%EC%97%AC%ED%96%89-%EC%96%B4%EB%95%8C-%EC%83%81%ED%8E%B8-a8151e9a4183)
+* [리뷰 통합 여행 어때? — 하편. 이전 글에서는 통합리뷰 프로젝트가 어떤 것인지, 어떤 고민을 해서… | by 김지영Tori(토리) / 앱개발팀 | Jun, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A6%AC%EB%B7%B0-%ED%86%B5%ED%95%A9-%EC%97%AC%ED%96%89-%EC%96%B4%EB%95%8C-%ED%95%98%ED%8E%B8-3dd3b855c00)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
