@@ -646,6 +646,7 @@ Java
 * [Java 8의 람다 함수 살펴보기](https://huni.org/java-8의-람다-함수-살펴보기-1767d034f962)
 * [잘못 작성된 람다 코드를 삭제하기까지의 여정](https://helloworld.kurly.com/blog/study-in-lambda/)
 * [A Java 8 lambda is all you need for distributed background jobs! by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=R0Z4E0ybmjU)
+* [10분 테코톡 깃짱, 이리내의 람다와 스트림 - YouTube](https://www.youtube.com/watch?v=4ZtKiSvZNu4)
 * [Mastering the new functional Java | by The Bored Dev | codeburst](https://codeburst.io/mastering-the-new-functional-java-2eb2f7472079)
 
 # IntelliJ
