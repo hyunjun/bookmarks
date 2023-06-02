@@ -2401,10 +2401,12 @@ NLP
   * [Wav2vec: Semi and Unsupervised Speech Recognition | Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
-* Whisper
+* [whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
   * [Introducing Whisper](https://openai.com/blog/whisper/) OpenAI에서 음성인식 데이터를 680,000 시간 학습시킨 음성 인식 모델을 오픈소스로 공개
   * [사람 말귀 더 잘 알아듣는 AI...오픈AI, 다국어 음성 인식 '위스퍼' 아키텍처 공개](https://www.zoominlife.com/2163)
   * [Building a highly accurate Speech to Text API supporting dozens of languages with Python and Whisper | by Adriel | Slid | Nov, 2022 | Medium](https://medium.com/slid/building-a-highly-accurate-speech-to-text-api-supporting-dozens-of-languages-with-python-and-1ba0312fa770)
+  * [OpenAI whisper 사용법 - 음성을 텍스트로 변환할 수 있는 인공지능 10분 만에 사용하기 - TILNOTE](https://tilnote.io/pages/6400496b81a210e930bb2af1)
+  * [OpenAI 의 음성인식 Whisper #1](https://devocean.sk.com/blog/techBoardDetail.do?ID=164545)
   * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/drive/1g8TYPv9sy4usQsHSB7tm8OiB6Q6gO0VE?usp=sharing)
     * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/05bcd18509affd900308c63857f930db/asr_whisper_korea_colab.ipynb)
     * OpenAI에서 공개한 Transformer 기반 다국어 음성인식모델(ASR, STT) Whisper 모델을 colab에서 한국어 음성에 맞춰 쉽게 돌려볼 수 있는 코드
@@ -2415,6 +2417,8 @@ NLP
     * 예시 음성파일로 실험해 보니 '수서'->'수소', '우리역엔' -> '우리옆엔', '전동차와 승강장 사이가' -> '전동장와 생강장사위가'로 인식되긴 하지만 monolingual이 아닌 multilingual임에도 불구하고 전체적으로 잘 되는 느낌. 일본어 음성도 잘 인식
   * [whisper-asr-webservice: OpenAI Whisper ASR Webservice](https://github.com/ahmetoner/whisper-asr-webservice)
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
+  * [Whisper-WebUI: A Web UI for easy subtitle using whisper model.](https://github.com/jhj0517/Whisper-WebUI)
+    * [그래픽카드로 자막을 만든다? 무료 Ai 자막 생성 프로그램 Whisper-WebUI - YouTube](https://www.youtube.com/watch?v=jRbdj27J6b8)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
