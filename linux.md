@@ -1304,6 +1304,7 @@ Linux
 * [tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
+* [tufirewall: tufirewall using netfilter hook api](https://github.com/txuna/tufirewall)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [Unikraft](https://unikraft.org/)
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
