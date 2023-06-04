@@ -2063,6 +2063,7 @@ Programming Books
   * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
   * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
 * (NOT YET) [테라폼으로 시작하는 IaC](https://hanbit.co.kr/store/books/look.php?p_code=B6444230163)
+  * [책 테라폼으로 시작하는 IaC](https://jybaek.tistory.com/996)
 
 # Interview
 
