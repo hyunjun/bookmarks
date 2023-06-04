@@ -1292,6 +1292,7 @@ NLP
 * [칼럼ㅣ대규모 언어 모델(LLM)에의 열광 유감 - CIO Korea](https://www.ciokorea.com/column/291979)
 * [대형 언어 모델을 바라보는 IT와 금융 업계의 시선](https://www.boannews.com/media/view.asp?idx=118316)
 * [State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A) LLM RLHF
+* [실전에서 LLM 애플리케이션 구축하기 | LinkedIn](https://www.linkedin.com/pulse/%25EC%258B%25A4%25EC%25A0%2584%25EC%2597%2590%25EC%2584%259C-llm-%25EC%2595%25A0%25ED%2594%258C%25EB%25A6%25AC%25EC%25BC%2580%25EC%259D%25B4%25EC%2585%2598-%25EA%25B5%25AC%25EC%25B6%2595%25ED%2595%2598%25EA%25B8%25B0-jung-dong-kim/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
