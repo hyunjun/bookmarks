@@ -346,6 +346,7 @@ Android
 * [I/O 22 Extended in Korea Android 참석 후기 | by CuroGom | Jun, 2022 | Medium](https://curogom.dev/i-o-22-extended-in-korea-android-%EC%B0%B8%EC%84%9D-%ED%9B%84%EA%B8%B0-32bb22c15c4)
 * [Pluu Dev - 요약 How to build a data layer (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-How_to_build_a_data_layer/)
 * [Pluu Dev - 요약 What's new in Android development tools (Google I/O '23)](https://pluu.github.io/blog/android/io22/2023/05/14/io23-whats-new-in-android-development-tools/)
+* [Pluu Dev - 요약 Best practices for saving UI state on Android (Google I/O '23)](https://pluu.github.io/blog/android/io23/2023/06/03/io23-Best_practices_for_saving_UI_state_on_Android/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
@@ -545,6 +546,7 @@ Android
 # News
 * [냉동코더의 안드로이드 개발 뉴스::23.03](https://cliearl.github.io/posts/android/devnews_2303/)
 * [냉동코더의 안드로이드 개발 뉴스::23.04](https://cliearl.github.io/posts/android/devnews_2304/)
+* [냉동코더의 안드로이드 개발 뉴스::23.05](https://cliearl.github.io/posts/android/devnews_2305/)
 
 # TDD, Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
