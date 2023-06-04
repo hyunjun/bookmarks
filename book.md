@@ -1420,6 +1420,8 @@ Book
   * 탐라 개331-애57ㄱ 우당 문331-애58ㄱ
 * (NOT YET) 당신이 모르는 민주주의 ["이딴게.. 민주주의..?" 샌델이 직접 말하는 그 이유 | 마이클 샌델, 민주주의, 자유 - YouTube](https://www.youtube.com/watch?v=eH6S_kZg7Pw)
   * 우당 문340.22-샌223ㄷ
+* (NOT YET) 중국은 어떻게 실패하는가 [책 같이 읽어요 앞으로 10년, 중국이 위험하다고? 왜? | 미국, 중국, 패권경쟁 - YouTube](https://www.youtube.com/watch?v=Zen0SGcRvTg)
+  * 우당 문349.42012-베828ㅈ
 
 # Presentation
 * 데이터 스토리텔링 (설득력 있는 프리젠테이션을 위한 데이터 시각화 기법)
