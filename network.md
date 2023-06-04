@@ -205,6 +205,7 @@ Network
 * [HTTP/3: Everything you need to know about the next-generation web protocol | The Daily Swig](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
 * [Setup Nginx HTTP3 - Zodinet](https://zodinet.com/setup-nginx-http3/)
 * [HTTP/3에 대하여 - CH DEVLOG](https://changhoi.kim/posts/network/about-http3/)
+* [Investigating the impact of HTTP3 on network latency for search - Dropbox](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [웹 개발자라면 알고 있어야 할 HTTP의 진화 과정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html/)
   * HTTP 표준이 달라진 과정을 정리한 글
   * 처음에는 아주 간단한 HTTP/0.9 명세가 존재
