@@ -1303,6 +1303,7 @@ Programming
 * [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019 - YouTube](https://www.youtube.com/watch?v=mCM6QVHD08c)
 * [Don’t lose touch as a ‘Software Architect’ going into 2022 | by Ryan Susana | Dec, 2021 | Medium](https://medium.com/@ryansusana/dont-lose-touch-as-a-software-architect-going-into-2022-d481801cbb57)
 * [글로벌 칼럼 | 클라우드 아키텍트는 AI로 대체될까? - ITWorld Korea](https://www.itworld.co.kr/news/274585)
+* [Confessions of an Enterprise Architect • Scott Shaw • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=I1IrRu2SD90)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
@@ -2714,6 +2715,8 @@ Programming
 * [AWS, GCP, AZURE 쓰지 마세요](https://seokjun.kim/stop-using-aws-gcp-azure/)
 * [Choose Your Own Cloud Adventure – Knights, Fairies & Dragons • Lars Klint • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=i4CtpCaiOqc)
 * [The surprising truth about Cloud Egress Costs | by Alexandre Guérin | Apr, 2023 | Medium](https://medium.com/@alexandre_43174/the-surprising-truth-about-cloud-egress-costs-d1be3f70d001)
+* [개인 프로젝트에 머신러닝에 클라우드를 쓸때의 장단점 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4500)
+* [주말판 클라우드로 전환하기 위해 기업이 반드시 갖춰야 할 10가지 스킬](https://www.boannews.com/media/view.asp?idx=118618)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3148,6 +3151,7 @@ Programming
 * [Team Topologies, Software Architecture & Complexity • James Lewis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=izLg4NkJQO4)
 * [Expert Talk: Unlocking the Power of Real-Time Analytics • Tim Berglund & Adi Polak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ee43ToXbnzI)
 * [IT TREND Google I/O & Microsoft Build 리뷰](https://tech.kakaoenterprise.com/195)
+* [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [calltospeakers.com](https://calltospeakers.com)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
@@ -5737,6 +5741,7 @@ Programming
 * [TDD Revisited - Ian Cooper - NDC London 2021 - YouTube](https://www.youtube.com/watch?v=vOO3hulIcsY)
 * [Test Driven Development in JavaScript – writing tests that don’t suck! - David Whitney - YouTube](https://www.youtube.com/watch?v=D7LKslgwxmQ)
 * [‘사용성 평가’로 생생한 유저 피드백 수집하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2044/)
+* [It's Not Hard to Test Smart: Delivering Customer Value Faster • Beth Skurrie • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=slGEcsii0cc)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
