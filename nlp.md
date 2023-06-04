@@ -1302,6 +1302,7 @@ NLP
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
+  * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * GSLM
   * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445
@@ -1460,6 +1461,7 @@ NLP
   * [DEMO alpaca-chat (7B, 30B) on local labtop(MacBook-Intel) - YouTube](https://www.youtube.com/watch?v=E1zAdwgMDys)
   * [Alpaca-LoRA-Serve: Alpaca-LoRA as Chatbot service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
   * [KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
+    * [챗GPT 러닝데이 | 챗GPT | 한국어 LLM 민주화의 시작 KoAlpaca! - 이준범](https://aifactory.space/learning/2415/discussion/383)
     * [KoAlpaca-Polyglot-12.8B · Hugging Face](https://huggingface.co/beomi/KoAlpaca-Polyglot-12.8B)
 * [book_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
