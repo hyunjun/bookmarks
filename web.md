@@ -65,6 +65,8 @@ Web
 * [Building Web Applications With Make](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)
 * [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/)
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
+* [What are source maps?](https://web.dev/source-maps/)
+  * [소스 맵의 동작 원리는 무엇일까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/06/04/What-are-Source-Maps.html)
 * [**The Twelve-Factor App**](http://12factor.net/ko/)
   * [Live Coding 12-Factor App](https://www.infoq.com/presentations/12-factor-microservice/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
@@ -344,6 +346,7 @@ Web
       * 모바일 플랫폼과 접근성 API에서 테스트 인프라가 불충분하다고 생각해서 이 부분에 집중할 예정
 * [30분 안에 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF%EC%9C%BC%EB%A1%9C-30%EB%B6%84%EC%95%88%EC%97%90-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0) 토스페이먼츠 tosspayments
 * [What's New in Web Animations - YouTube](https://www.youtube.com/watch?v=XKRLt3UPbmU)
+* [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
 
 # Apache
 * installation
