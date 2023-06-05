@@ -682,6 +682,7 @@ Java
 * [Toolbox로 설치한 IntelliJ에서 Touchbar를 F1 ~ F12로 고정시키기](http://jojoldu.tistory.com/293)
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
 * [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
+* [IntelliJ 자주 사용하는 기능 정리 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-tip/)
 * [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
 * [intellij SQL keyword 자동 uppercase](http://blog.woniper.net/360)
 * [IntelliJ & 안드로이드 스튜디오 기본 가이드 소개](http://jojoldu.tistory.com/321)
