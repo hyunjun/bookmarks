@@ -55,6 +55,7 @@ Shell
 * [Wordle in less than 50 lines of Bash](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513)
 * [10 Bash Script Code Challenges for Beginners](https://www.codecademy.com/resources/blog/bash-script-code-challenges-for-beginners/)
 * [Let's read the Bash source code - YouTube](https://www.youtube.com/watch?v=8Q3a5Ru8rqo)
+* [셸 스크립트의 함정에서 빠져나오는 법](https://velog.io/@skynet/%EC%85%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%ED%95%A8%EC%A0%95%EC%97%90%EC%84%9C-%EB%B9%A0%EC%A0%B8%EB%82%98%EC%98%A4%EB%8A%94-%EB%B2%95)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
