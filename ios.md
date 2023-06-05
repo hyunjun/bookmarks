@@ -558,6 +558,7 @@ iOS
 * [Swift 5.5의 async/await | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-async-await/)
 * [SwiftUI task에서 비동기 작업하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-task-modifier/)
 * [SwiftUI로 캘린더 직접 구현하기 :: iOYES](https://green1229.tistory.com/362)
+* [SwiftUI로 캘린더 직접 구현하기 (2탄 - 가로 캘린더 버전) :: iOYES](https://green1229.tistory.com/369)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
