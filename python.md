@@ -1579,7 +1579,6 @@ Python
 * [Fast & Asynchronous in Python. Accelerate Your Requests Using asyncio | by Dylan Castillo | Towards Data Science](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
 * [Stop Waiting! Start using Async and Await! | by Simon Hawe | Towards Data Science](https://towardsdatascience.com/stop-waiting-start-using-async-and-await-18fcd1c28fd0)
 * [An Introduction to Asynchronous Programming in Python | by Konopka Kodes Blog | Medium](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
-* [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2020/1/1/async-pressure/)
 * [Async Python is not faster](https://calpaterson.com/async-python-is-not-faster.html)
 * [asyncio 뽀개기 1 - Coroutine과 Eventloop](https://tech.buzzvil.com/blog/asyncio-no-1-coroutine-and-eventloop/)
@@ -3845,6 +3844,7 @@ Python
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
 * [**PyIDM: python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui**](https://github.com/pyIDM/PyIDM)
+* [Pyjion - A Python JIT Compiler](https://www.trypyjion.com/)
 * pyinotify
   * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
@@ -5064,6 +5064,7 @@ Python
 * [Python 3.11 Is Indeed Faster Than 3.10 | by Thuwarakesh Murallie | May, 2022 | Towards Data Science](https://towardsdatascience.com/python-3-11-is-indeed-faster-than-3-10-1247531e771b)
 * [Some New Features in Python 3.11 - YouTube](https://www.youtube.com/watch?v=tEh3oJcE0do)
 * [How we are making Python 3.11 faster - presented by Mark Shannon - YouTube](https://www.youtube.com/watch?v=xKk7IXm0XO0)
+* [Writing Faster Python 3 - YouTube](https://www.youtube.com/watch?v=lnBC5-5EqZY)
 * [Python 3.11: Cool New Features for You to Try – Real Python](https://realpython.com/python311-new-features/)
   * [번역글 파이썬 3.11에서의 새로운 기능들](https://heumsi.github.io/blog/posts/python311-new-features/)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
