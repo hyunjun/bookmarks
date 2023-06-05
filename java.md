@@ -1980,6 +1980,8 @@ Java
 * [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
+* [Spring Boot 3.x 버전에서 OAuth2 라이브러리를 이용하여 카카오 로그인 구현 및 OAuth2 동작원리 살펴보기](https://kim-jong-hyun.tistory.com/150)
+* [Spring Boot 2.5.0 이상 환경에서 OAuth2-Client 라이브러리 적용 시 주의할 점](https://kim-jong-hyun.tistory.com/151)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
 * [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
 * [How to implement Redis Cache in Spring Boot Application? | Making Java easy to learn](https://javatechonline.com/how-to-implement-redis-cache-in-spring-boot-application)
