@@ -3144,6 +3144,7 @@ Javascript
   * [Axios 러닝 가이드](https://xn--xy1bk56a.run/axios/)
   * [axios 대신 간단하게 사용하려고 만든 myFetch 함수 | 웹으로 말하기](https://mytory.net/2021/09/22/my-fetch.html)
   * [Dongjin | Axios의 사소하지만 슬픈 이야기](https://dongqui.github.io//posts/axios)
+  * [Axios와 Retry | 오르막길](https://genie-youn.github.io/journal/axios%EC%99%80_retry.html)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
   * [next-tailwind-context-axios-starter: This is a starter template for building a web application using Next.js, Tailwind CSS, Context API, and Axios](https://github.com/Mohamed-avr/next-tailwind-context-axios-starter)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
@@ -3333,6 +3334,7 @@ Javascript
   * [node.js 버전 여러개 사용하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/using-multiple-node-js-versions-with-fnm)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
+* [got: 🌐 Human-friendly and powerful HTTP request library for Node.js](https://github.com/sindresorhus/got)
 * [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
