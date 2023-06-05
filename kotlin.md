@@ -80,6 +80,9 @@
 * [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app)
 * [My favorite examples of functional programming in Kotlin](https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112)
 * [Functional Effect System in Kotlin | by Alexey Soshin | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/functional-effect-system-in-kotlin-599f1d8778cc)
+* [Curried Kotlin. Kotlin supports functional programming… | by TheCililing | Medium](https://medium.com/@przemek.materna/curried-kotlin-48166885ddfa)
+* [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
+* [Functional Programming in Kotlin • Jacob Bass • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=PvnnM35MTPg)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
 * [코틀린 멀티플랫폼, 미지와의 조우](https://www.slideshare.net/arawnkr/ss-252699629)
@@ -195,7 +198,6 @@
 * [Type modelling in Kotlin](https://kt.academy/article/type-modelling-kotlin)
 * [kotlin_build_performance](https://github.com/ganadist/kotlin_build_performance)
 * [Java 개발자가 보면 좋을 Kotlin 팁 모음 - 현구막 기술 블로그](https://hyeon9mak.github.io/kotlin-tips-for-java-developer/)
-* [Curried Kotlin. Kotlin supports functional programming… | by TheCililing | Medium](https://medium.com/@przemek.materna/curried-kotlin-48166885ddfa)
 * [Call multile API calls with Combine and Stateflow. | by Keyvan Norouzi | Nov, 2022 | Medium](https://medium.com/@keyvan.nrz/call-multile-api-calls-with-combine-and-stateflow-1cf4ea4ac322)
 * [From zero to 10 million lines of Kotlin - Engineering at Meta](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
   * Meta에서 안드로이드 개발을 Java에서 Kotlin으로 전환하는 과정 정리
@@ -208,7 +210,6 @@
   * 마이그레이션 후 기대보다는 적은 11%의 코드 라인 감소, 실행 속도 동일, 빌드 속도는 KSP로 주석을 처리해서 해결
 * [Semaphore & Mutex. Today we will discuss what is Semaphore… | by Erselan Khan | Nov, 2022 | Towards Dev](https://towardsdev.com/semaphore-mutex-erselan-khan-2e7df18c4cd5)
 * [코틀린 꼬리 재귀 함수](https://www.roach-dev.com/kotlin_tailrec/)
-* [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
 * [Kotlin PBKDF2 Secure Password Hashing | Codersee](https://codersee.com/kotlin-pbkdf2-secure-password-hashing/)
 * [Kotlin Isn’t Null-Safe Yet. Here Are 3 Gotchas | by Sam Cooper | Mar, 2023 | Better Programming](https://betterprogramming.pub/kotlin-isnt-null-safe-yet-here-are-3-gotchas-23258fada62)
 * [Introducing Kotlin/Wasm · seb.deleuze.fr](https://seb.deleuze.fr/introducing-kotlin-wasm/)
