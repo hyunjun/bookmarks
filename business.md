@@ -1973,6 +1973,7 @@ Business
   * 학교 안에 쪽지를 남기는 마케팅을 진행하게 해 397명의 디지털미디어 고등학교 학생을 모으고 다른 학교에서 퍼지기 시작해서 16,000명의 사용자를 모았다고 함
 * [How to Build a Product that Scales into a Company - YouTube](https://www.youtube.com/watch?v=r-98YRAF1dY)
 * [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
+* [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
