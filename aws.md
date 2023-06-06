@@ -1860,6 +1860,7 @@ AWS
 * [데이터 웨어하우스란 무엇입니까? | 주요 개념 | Amazon Web Services](https://aws.amazon.com/ko/data-warehouse/)
 * [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
 * [AWS Introduces Amazon Redshift Serverless](https://www.infoq.com/news/2021/12/amazon-redshift-serverless/)
+* [Amazon Redshift Serverless 비용 정리](https://jybaek.tistory.com/997)
 * [Redshift DW에서 PG DM을 만드는 여정 | MADTECH](https://tech.madup.com/data-mart-1/)
 * [Redshift 란? 다른DB들과 의 차이점은?](https://pearlluck.tistory.com/648)
 * [distkey 및 분산 관련 :: Louis.Kim 의 제 3막](https://hyunki1019.tistory.com/149)
