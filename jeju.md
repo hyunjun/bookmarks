@@ -33,6 +33,7 @@
 * ["SNS에 올렸더니 해외여행 갔냐고 물어봐요" 남다른 스케일을 자랑하는 우리나라 최고 카페 TOP6](https://totoba.co.kr/157) 제주 더 클리프
 
 # Etc
+* [제주책방올레 지도](http://jejugoodtravel.com/pages.php?p=2_2_1_1)
 * [어멍유통](http://place.map.daum.net/1854681583)
 * [책방](https://www.facebook.com/jejustory/posts/10211974102740143)
 * [jejubeer.co.kr](http://jejubeer.co.kr/)
