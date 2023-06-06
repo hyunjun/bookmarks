@@ -425,6 +425,7 @@ Programming
 * [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 * [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+* [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
