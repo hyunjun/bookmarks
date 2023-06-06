@@ -226,6 +226,7 @@ Android
 * [TextView에서 다음줄에 들여쓰기 적용하기 | 헤이딜러 기술블로그 | by Ted Park | PRND | Mar, 2022 | Medium](https://medium.com/prnd/textview%EC%97%90%EC%84%9C-%EB%8B%A4%EC%9D%8C%EC%A4%84%EC%97%90-%EB%93%A4%EC%97%AC%EC%93%B0%EA%B8%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-ce8c7fad648b)
 * [Pluu Dev - 재사용 불가능한 Spans](https://pluu.github.io/blog/android/2023/02/10/reusable_span/) textview
 * [Pluu Dev - 간단하게 Navigation 생성 및 흐름 살펴보기](http://pluu.github.io/blog/android/2021/01/23/navigation-start/)
+* [Pluu Dev - 메모 Navigation 2.6.0부터의 변화 ~ Serializable/Parcelable 데이터 전달](https://pluu.github.io/blog/android/2023/06/06/navigation/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ 언어편](http://pluu.github.io/blog/android/2021/01/27/compatibility-language/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ SDK/라이브러리](http://pluu.github.io/blog/android/2021/02/27/compatibility-sdk-library/)
 * [안드로이드에서 카카오 우편번호 검색 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
