@@ -3759,6 +3759,7 @@ Programming
 * [What is a Data Swamp?. Reasons for why you should avoid it | by Christianlauer | CodeX | Dec, 2021 | Medium](https://medium.com/codex/what-is-a-data-swamp-38b1aed54dc6)
 * [SQL Analytics and the Lakehouse Architecture | Ali Ghodsi | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=9oYosh-AoX0)
 * [Becoming a Data Driven Organization with Modern Lakehouse - YouTube](https://www.youtube.com/watch?v=KLD10xn4sX8)
+* [데이터 분석가가 직접 정의, 배포, 관리하는 뱅크샐러드 데이터 파이프라인 | 뱅크샐러드](https://blog.banksalad.com/tech/datapipe/)
 
 # Date
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
