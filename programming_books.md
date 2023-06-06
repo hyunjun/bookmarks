@@ -3098,6 +3098,8 @@ Programming Books
 * (NOT YET) [안녕, 트랜스포머 | 에이콘출판사](http://acornpub.co.kr/book/hello-transformer/)
   * 한라 004.735-이78ㅇ
   * [hello-transformer](https://github.com/jinkilee/hello-transformer)
+* (NOT YET) [모두의 한국어 텍스트 분석 with 파이썬 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003747)
+  * [pytextbook: 모두의 한국어 텍스트 분석 with 파이썬](https://github.com/pytextbook/pytextbook)
 
 # NoSQL
 
