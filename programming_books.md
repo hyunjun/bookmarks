@@ -4057,11 +4057,12 @@ Programming Books
   * [개발자의 글쓰기 - Jun - Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0-eaa6f81c9342)
   * [개발자의 글쓰기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%80%EC%93%B0%EA%B8%B0)
   * [책 후기 개발자의 글쓰기](https://yeonyeon.tistory.com/302)
+* [스마트 브레비티](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314972295)
+  * ★★★★☆ 2023.06.06 전반적으로 좋았고 대부분 공감하는데 개조식 글쓰기를 (개인적으로는 좋아하지만) 권하는 부분은 약간 의문이 들었다. 지금까지 알고 있던 글쓰기 상식(?)에서는 배제되던 부분인데 이게 어떻게 받아들여지는지가 궁금하다. (당연한 것일수도 있으나) https://www.axios.com 에 가서 보면 확실히 책에 나온 여러가지 내용을 실천하고 있음을 알 수 있다. 최소한 미국에서는 확실히 성과(숫자)로 입증하고 있다.
+  * 탐라 문802-밴223ㅅ
+  * [Brevity is confidence, length is fear](https://www.facebook.com/watch/?v=498587128367481) 간결은 자신감이다. 장황은 두려움이다
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
 * (NOT YET) [Docs for Developers 기술 문서 작성 완벽 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B8810771470)
-* (NOT YET) [스마트 브레비티](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314972295)
-  * 탐라 문802-밴223ㅅ
-  * [Brevity is confidence, length is fear](https://www.facebook.com/watch/?v=498587128367481) 간결은 자신감이다. 장황은 두려움이다
