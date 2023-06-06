@@ -1393,6 +1393,9 @@ Book
 * [인문학 거저보기 : 서양철학 편](https://hanbit.co.kr/store/books/look.php?p_code=B9234684497)
   * ★★★☆☆ 2023.04.09 서양철학이라기보다는 서양철학자에 대한 모음이라 가볍고 재미있게 볼 수 있음
   * 탐라 문160-지91ㅇ 우당 문160-지91ㅇ
+* [만화로 보는 소피의 세계 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305873275)
+  * ★★★☆☆ 2023.06.06 어렸을 때 봤던 책을 만화로 다시 보게 되어 되었다. 시대의 변화를 반영한 점(여성 인권에 대한 이야기)이 약간 다르긴 하지만 전반적인 흐름은 서양 고대 - 중세 철학에 대한 이야기라 특별히 다른 건 없다
+  * 한라 104-가68ㅅ-1 우당 문104-가69ㅅ-1
 * (NOT YET) [데리다와의 데이트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298757673)
   * [데리다와의 데이트 (1) 자크 데리다와 환대 : 네이버 블로그](https://blog.naver.com/wei-jung/222087395769)
 * (NOT YET) [무력할 땐 니체](https://brunch.co.kr/@cliche-cliche/166)
@@ -1402,8 +1405,6 @@ Book
   * 탐라 문199.1-모19ㅇ 우당 문199.1-켄35ㅇ
   * [How to Use the Ikigai Diagram to Find Fulfillment](https://becomingbetter.org/ikigai/)
   * [어쩌다 만들어진 '이키가이 다이어그램'](https://brunch.co.kr/@oohaahpoint/70)
-* (NOT YET) [만화로 보는 소피의 세계 1](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305873275)
-  * 한라 104-가68ㅅ-1 우당 문104-가69ㅅ-1
 
 # Politics
 * (NOT COMPLETED) [프랑스의 자살](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306804336)
