@@ -341,6 +341,7 @@ Linux
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 * [우분투 하드 디스크 추가 마운트 하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/add-harddisk/)
 * [2023년도 정기총회 회의록 등 자료 공시 및 세미나 자료 공유 - 공지 사항 - 우분투한국커뮤니티 포럼](https://discourse.ubuntu-kr.org/t/topic/48634)
+* [우분투 리눅스에서 GNU Pass 활용 설치 명령어 | 웹으로 말하기](https://mytory.net/archives/14391)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
