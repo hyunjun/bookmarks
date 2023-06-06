@@ -169,6 +169,7 @@ Writing
   * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/)
   * [Devin Horsman – Simple, useful software architecture with C4 - YouTube](https://www.youtube.com/watch?v=6y3XvcRO28I)
   * [C4 Models as Code • Simon Brown • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=f7i2wxQVffk)
+  * [Diagrams as code 2.0 • Simon Brown • Devoxx Poland 2022 - YouTube](https://www.youtube.com/watch?v=OKd0i08hcP0)
   * [c4viz: c4viz: C4 Visualization](https://github.com/pmorch/c4viz)
   * [Structurizr](https://structurizr.com/)
     * [Diagrams as Code 2.0 • Simon Brown • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Za1-v4Zkq5E)
