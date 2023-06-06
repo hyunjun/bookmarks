@@ -2082,6 +2082,7 @@ App
   * [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
 * [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
+  * [This is perhaps my favorite password manager for the terminal - YouTube](https://www.youtube.com/watch?v=FhwsfH2TpFA)
 * [sysPass | Systems Password Manager](https://syspass.org/)
 * [vaultwarden: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
 
