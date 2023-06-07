@@ -4710,6 +4710,7 @@ Python
 * [Learn NumPy In 2(Two Hrs)H | NumPy Tutorial | NumPy For Data Science & Data Analysis| Python-NumPy | - YouTube](https://www.youtube.com/watch?v=RDtKcygLwwA)
 * [Fundamentals of Numpy | Apply Neural Network Fundamentals - YouTube](https://www.youtube.com/watch?v=Li_5nzdYirQ)
 * [Pseudo Lab - Data Science Cheatsheet](https://pseudo-lab.github.io/cheat-sheet/?src=numpy)
+* [NumPy의 axis 변경](https://blog.naver.com/sooftware/221577171997)
 * [Awkward Array documentation — Awkward Array 2.0.9 documentation](https://awkward-array.org/)
   * [Doug Davis - Extending Awkward Array into the broader PyData Ecosystem | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=pvrRFsFqdYs)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
