@@ -250,6 +250,8 @@ Google Cloud Platform GCP
 * [gcpdiag](https://gcpdiag.dev/)
   * [Announcing gcpdiag - Open Source Troubleshooting Tool for Google Cloud Platform | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/announcing-gcpdiag-open-source-troubleshooting-tool-google-cloud-platform)
 * [generative-ai: Sample code and notebooks for Generative AI on Google Cloud](https://github.com/GoogleCloudPlatform/generative-ai)
+* [Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118)
+  * [Google Cloud, 생성형 AI 강좌 공개 (무료/영어) | GeekNews](https://news.hada.io/topic?id=9338)
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
 
 # Terraform
