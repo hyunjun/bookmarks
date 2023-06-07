@@ -3779,6 +3779,7 @@ Programming
 * [SQL Analytics and the Lakehouse Architecture | Ali Ghodsi | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=9oYosh-AoX0)
 * [Becoming a Data Driven Organization with Modern Lakehouse - YouTube](https://www.youtube.com/watch?v=KLD10xn4sX8)
 * [데이터 분석가가 직접 정의, 배포, 관리하는 뱅크샐러드 데이터 파이프라인 | 뱅크샐러드](https://blog.banksalad.com/tech/datapipe/)
+* [분석 데이터를 프로덕션에서 쉽게 사용할 수 없을까? | 뱅크샐러드](https://blog.banksalad.com/tech/dataserving/)
 
 # Date
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
