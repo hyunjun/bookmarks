@@ -112,6 +112,7 @@ Vim
   * [Step Up Your Game with Neovim. Why do I switch to VIM and use Neovim? | by Roderick Samuel Halim | Life At Moka | Medium](https://medium.com/life-at-moka/step-up-your-game-with-neovim-62ba814166d7)
   * [I switched from VSCode to Neovim - YouTube](https://www.youtube.com/watch?v=clFR9NfObvc)
   * [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac - YouTube](https://www.youtube.com/watch?v=U-omALWIBos)
+  * [The perfect Neovim setup for Go - YouTube](https://www.youtube.com/watch?v=i04sSQjd-qo)
   * [LunarVim - Installing Rolling Release, Walkthrough, Sample Configuration (IDE for Neovim) - YouTube](https://www.youtube.com/watch?v=NlRxRtGpHHk)
   * [navigator.lua: Navigate codes like a breeze. Exploring LSP and 🌲Treesitter symbols a piece of 🍰](https://github.com/ray-x/navigator.lua)
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
