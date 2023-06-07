@@ -210,6 +210,7 @@ Git
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * ["쿠버네티스와 깃옵스는 빵과 버터" 구글이 깃옵스를 간소화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/238124)
+* [GitOps As an Evolution of Kubernetes - YouTube](https://www.youtube.com/watch?v=IwipqLTWIs4)
 * [GitOps 기반의 클러스터 구축하기 1부 — Terraform Cloud, Github Action 적용 | by Haeman Lee | Feb, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/gitops-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%EB%B6%80-terraform-cloud-github-action-%EC%A0%81%EC%9A%A9-92a0a0ffcba0)
 * [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
 * [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
