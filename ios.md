@@ -559,6 +559,7 @@ iOS
 * [SwiftUI task에서 비동기 작업하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-task-modifier/)
 * [SwiftUI로 캘린더 직접 구현하기 :: iOYES](https://green1229.tistory.com/362)
 * [SwiftUI로 캘린더 직접 구현하기 (2탄 - 가로 캘린더 버전) :: iOYES](https://green1229.tistory.com/369)
+* [What's new in SwiftUI (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/371)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
@@ -675,3 +676,4 @@ iOS
 * [Xcode: 비밀스러운 인덱스 저장소. 그 숨겨진 비밀의 문을 열어봅시다🧐 | by Jung Kim | Apr, 2022 | Medium](https://medium.com/@jungkim/xcode-%EB%B9%84%EB%B0%80%EC%8A%A4%EB%9F%AC%EC%9A%B4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%A0%80%EC%9E%A5%EC%86%8C-ee62b7cf46e7)
 * [Xcode 14부터 바뀐 것들. 릴리스 노트를 개발자 관점에서 살펴본 소소한 사항 | by Jung Kim | Sep, 2022 | Medium](https://medium.com/@jungkim/xcode-14%EB%B6%80%ED%84%B0-%EB%B0%94%EB%80%90-%EA%B2%83%EB%93%A4-9dda016f25bd)
 * [Raycast + Confetti로 Xcode 빌드 완료 효과 넣기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/visualize-xcode-build-with-raycast-confetti/)
+* [What's new in Xcode 15 (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/370)
