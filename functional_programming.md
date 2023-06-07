@@ -131,6 +131,7 @@ Functional Programming
   * [GitHub - alstn2468/2022-jsconf-presentation: 🖥 2022 JSConf "프론트엔드에서 함수형을 추구하면 안되는걸까?" 발표 자료 🌈](https://github.com/alstn2468/2022-jsconf-presentation)
 * [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/)
 * [함수형 프로그래밍 가이드](https://orangebrother.dev/blog/functional-programming-guide)
+* [함수형 패러다임을 이용한 안전한 FFmpeg 서버 구현기 · Present](https://present.do/documents/647bdffa5680594095f2aef8)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
