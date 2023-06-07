@@ -682,10 +682,6 @@ Programming
 * [frida: Clone this repo to build Frida](https://github.com/frida/frida)
   * [frida-gum: Cross-platform instrumentation and introspection library written in C](https://github.com/frida/frida-gum)
     * [frida-gum을 활용한 iOS 앱 Hook : NHN Cloud Meetup](https://meetup.toast.com/posts/346)
-* [주석을 달지 않는 이유, 달아야 하는 이유](https://velog.io/@joosing/why-not-annotate-why-should-annotate/) comment
-  * 변수 이름이나 무엇을 하는지 등 코드로 표현할 수 있는 부분을 주석으로 작성하는 것은 피하고
-    * 직관적으로 알기 어렵거나 이유에 대한 설명이 필요하다면 주석을 작성하는 게 좋다고 설명
-  * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
 * [Technical dimensions of programming systems](https://tomasp.net/techdims/)
 * [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
 * [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
@@ -2946,10 +2942,6 @@ Programming
 * [함께 일하기 온라인 근무와 회고 - 우아한형제들 기술 블로그](https://woowabros.github.io/culture/2021/02/10/work-together-how-product-system-team-works.html)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
-* [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
-* [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
-* [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
-* [Fighting Evil in Your Code: Comments on Comments - Simple Talk](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/fighting-evil-code-comments-comments/)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
 * [Why Does My Website Run Very Slowly, and How Do I Optimize It for Free? | by Muhammad Rahmatullah 🇮🇩 | Life at Mekari | Medium](https://medium.com/life-at-mekari/why-does-my-website-run-very-slowly-and-how-do-i-optimize-it-for-free-b21f8a2f0162)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
@@ -3088,6 +3080,31 @@ Programming
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 * [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 * [The 7 Coding Styles That Are Dated | by Elye | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/the-7-coding-styles-that-are-dated-90eff1408d6e)
+* [주석을 달지 않는 이유, 달아야 하는 이유](https://velog.io/@joosing/why-not-annotate-why-should-annotate/) comment
+  * 변수 이름이나 무엇을 하는지 등 코드로 표현할 수 있는 부분을 주석으로 작성하는 것은 피하고
+    * 직관적으로 알기 어렵거나 이유에 대한 설명이 필요하다면 주석을 작성하는 게 좋다고 설명
+  * 간단한 내용이지만 주석도 코드의 일부고 유지 비용이 들기 때문에 참고할만한 내용
+* [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
+* [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
+* [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+* [Fighting Evil in Your Code: Comments on Comments - Simple Talk](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/fighting-evil-code-comments-comments/)
+* [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+  * 좋은 주석을 적는 방법
+  * 1. 코드 내용을 그대로 반복하는 (추가 정보가 없는) 주석은 적지 말라
+  * 2. 좋은 주석은 불명확한 코드를 변명하지 않는다
+    - 주석으로 코드를 설명하지 말고 코드를 다시 써라
+  * 3. 명확한 주석을 적을 수 없다면 코드에 문제가 있을 수 있다
+    - 코드가 어렵다고 주석으로 경고하지 말고 코드를 다시 써라
+  * 4. 주석은 혼란을 야기하는 것이 아니라 해소해야 한다
+    - 주석을 보고 더 헷갈린다면 그 주석은 지워라
+  * 5. 관용적이지 않은(unidiomatic) 코드는 주석으로 설명하라
+    - 불필요하거나 중복된다고 생각할 수 있는 코드, 이로 인해 다른 누군가가 "단순화"할 수도 있다고 생각되는 코드에는 주석을 달아 설명하는 것이 좋다
+  * 6. 복사한 코드라면 원본 출처 링크를 주석에 포함하라
+    - 향후 코드를 읽을 동료가 전체 컨텍스트(어떤 문제, 해당 솔루션이 권장되는 이유 등)를 파악하는 데 도움이 될 수 있음
+  * 7. 도움이 될만한 외부 참조 링크를 포함하라
+  * 8. 코드를 수정할 때, 특히 버그를 수정할 때 주석을 추가하라
+  * 9. 주석을 사용해 불완전한 구현을 표시하라
+    - 기술 부채를 측정하고 해결하는 데 도움이 됨
 * [dprint - Code Formatter](https://dprint.dev/)
   * [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint/)
 * [Prettier · Opinionated Code Formatter](https://prettier.io/)
