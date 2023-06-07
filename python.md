@@ -4234,6 +4234,7 @@ Python
   * [Session vs scoped_session :: Jay's Code Factory](https://jay-ji.tistory.com/114)
   * [async_scoped_session과 context-local :: Jay's Code Factory](https://jay-ji.tistory.com/115)
   * [sqlalchemy nullpool과 staticpool을 설정하면서 왜 커넥션 풀이 필요한지 이해해 봅시다.](https://codingdog.tistory.com/863)
+  * [업데이트에서 배우는것 — SQLAlchemy 2.0. 저는 업데이트를 좋아합니다. 프로젝트에서 사용하는 라이브러리의 새… | by Choi Geonu | Jun, 2023 | Medium](https://choi-geonu.medium.com/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94%EA%B2%83-sqlalchemy-2-0-1b8faee24f44)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
