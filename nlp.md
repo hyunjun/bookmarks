@@ -336,6 +336,7 @@ NLP
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
 * [2018-2020 NLU 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/118)
 * [자연어 생성의 편견과 기타 유해성에 대처하기 - ITWorld Korea](https://www.itworld.co.kr/news/186448)
+* [Addressing Algorithmic Bias • Muniba Talha • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=9U4zN1nN8NE) 편견?
 * [Best Practices: Designing autosuggest experiences](https://blog.prototypr.io/best-practices-designing-autosuggest-experiences-9c3394774519)
   * [자동 추천(Autosuggest) 기능의 사용자 경험 설계하기 | GeekNews](https://news.hada.io/topic?id=3867)
 * ['사물에 이입해 대답한다' 구글, 개발자 회의서 AI 기술 역량 과시 - CIO Korea](https://www.ciokorea.com/news/194544) LaMDA MUM
@@ -677,6 +678,7 @@ NLP
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Character.AI](https://beta.character.ai/)
+* [Chatbase | ChatGPT for your website](https://www.chatbase.co/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * [ChatGPT](https://chat.openai.com/)
   * [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
@@ -884,8 +886,10 @@ NLP
     * 2주도 안되어 Star 18k, fork 1.9k
     * 맥북, 리눅스, 윈도우 PC 구동 가능. 단, 윈도우는 몇 가지 추가 설치 필요
     * Chat UI 도 PR 에 있으며 검토 중
+    * [How To Install PrivateGPT - Chat With PDF, TXT, and CSV Files Privately! (Quick Setup Guide) - YouTube](https://www.youtube.com/watch?v=jxSPx1bfl2M)
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
     * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
+    * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
   * [YGK-a: YGK-a: Your Genius, Knowledgeable assistant, An advanced ChatGPT client from your shell](https://github.com/code-yeongyu/ygk-a)
