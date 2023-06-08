@@ -770,6 +770,7 @@ Programming
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
+* [KPT 회고하는 법, 회고에 대한 생각 · 어쩐지 오늘은](https://zzsza.github.io/diary/2023/06/05/how-to-retrospect/)
 * [Scrum vs Kanban: Agile Methodologies Comparison](https://k21academy.com/scrum-master/scrum-vs-kanban/)
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
