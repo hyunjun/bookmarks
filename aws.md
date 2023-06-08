@@ -1122,6 +1122,8 @@ AWS
   * [EKS Anywhere 구축기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10221/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
+* [hardeneks: Runs checks to see if an EKS cluster follows EKS Best Practices](https://github.com/aws-samples/hardeneks)
+  * [About HardenEKS (install & custom)](https://heuristicwave.github.io/HardenEKS)
 
 # Elastic Beanstalk
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
