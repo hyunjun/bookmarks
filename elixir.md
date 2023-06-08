@@ -134,6 +134,7 @@ Elixir
 * [if(kakao)dev2022 그럼에도 불구하고 Elixir](https://if.kakao.com/2022/session/38)
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
 * [LG유플러스 Elixir Tech Seminar - YouTube](https://www.youtube.com/watch?v=NJqlO8ZSyJw)
+* [Keynote: Bringing Elixir to Life by José Valim | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=xItzdrzY1Dc)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
@@ -209,6 +210,7 @@ Elixir
   * [Phoenix Dev Blog - Sounds Like a Bug · Fly](https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/)
   * [Connecting Livebook To Phoenix - YouTube](https://www.youtube.com/watch?v=nXlxRpZRrx4)
   * [Using Elixir & Phoenix To Build A City Software Infrastructure by Shankar Dhanasekaran | EC EU 23 - YouTube](https://www.youtube.com/watch?v=e2fDjl2hoAk)
+  * [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss - DockYard](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss)
   * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
