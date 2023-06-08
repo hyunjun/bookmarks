@@ -239,6 +239,7 @@ SQL
 * [오래된 DB와 이별하는 방법 :: GS Retail Engineering](https://gsretail.tistory.com/25)
 * [DB migration 방법론 :: GS Retail Engineering](https://gsretail.tistory.com/29)
 * [Number와 boolean 은 최대한 Not Null로 선언하기](https://jojoldu.tistory.com/718)
+* ['is not NULL'과 '!= NULL'은 다르다?](https://yeonyeon.tistory.com/307)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
