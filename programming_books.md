@@ -821,6 +821,10 @@ Programming Books
 * AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
   * ★★★☆☆ 2023.05.08 AI 관련된 app/service에 특화된 UX에 대한 주제를 다루지 않을까 생각했는데 그건 아니고 일반적인 AI에 대한 이야기와 일반적인 UX에 대한 이야기를 같이 다루는데, AI service를 예시로 설명을 하는 책으로 보면 된다. 물론 내용 자체는 좋고 알아두면 좋은 점들이긴 한데, 이 책에서만 볼 수 있는 독특한 걸 다루는 정도까지는 아님. 하지만 그래도 여전히 좋은 책인 거도 맞음
   * 한라 004.78-루688ㅇ
+  * [ai_ux - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/ai_ux)
+  * [AI & UX. ★★★☆☆ 2023.05.08 AI 관련된 app/service에… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/ai-ux-19986e8f5ee3)
+  * [AI & UX -](https://jh4hj.tistory.com/entry/AI-UX)
+  * [AI & UX - Jun’s Substack](https://recur.substack.com/p/ai-and-ux)
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
   * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
