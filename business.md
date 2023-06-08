@@ -1975,6 +1975,7 @@ Business
 * [How to Build a Product that Scales into a Company - YouTube](https://www.youtube.com/watch?v=r-98YRAF1dY)
 * [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
+* [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
