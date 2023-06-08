@@ -1190,6 +1190,7 @@ AWS
 * [Simplify Snowflake data loading and processing with AWS Glue DataBrew | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/simplify-snowflake-data-loading-and-processing-with-aws-glue-databrew/)
 * [AWS Glue DataBrew와 Amazon QuickSight를 이용한 반정형 중첩 JSON 데이터 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/simplify-semi-structured-nested-json-data-analysis-with-aws-glue-databrew-and-amazon-quicksight/)
 * [AWS Glue로 Ray 프레임워크 이용 하기 (평가판 이용) | by MZC_Global | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/aws-glue%EB%A1%9C-ray-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%9D%B4%EC%9A%A9-%ED%95%98%EA%B8%B0-%ED%8F%89%EA%B0%80%ED%8C%90-%EC%9D%B4%EC%9A%A9-b0ad7b505b4c)
+* [Apache Spark용 AWS Glue 4.0 자세히 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/dive-deep-into-aws-glue-4-0-for-apache-spark/)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
