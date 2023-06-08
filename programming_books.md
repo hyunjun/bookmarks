@@ -3199,6 +3199,7 @@ Programming Books
   * [헤드퍼스트 디자인 패턴 (개정판)](https://jybaek.tistory.com/952)
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 * (NOT YET) [디자인 패턴의 아름다움](https://jpub.tistory.com/1417)
+* (NOT YET) [내 코드가 그렇게 이상한가요? – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/06/07/%eb%82%b4-%ec%bd%94%eb%93%9c%ea%b0%80-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/)
 
 # PHP
 
