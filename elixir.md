@@ -109,6 +109,7 @@ Elixir
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
+* [Absinthe for Large Elixir Applications | AppSignal Blog](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
 * [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
 
 # API
@@ -196,6 +197,7 @@ Elixir
   * [Building a Chat App with LiveView Streams · Fly](https://fly.io/phoenix-files/building-a-chat-app-with-liveview-streams/)
   * [Phoenix LiveView Zipped Uploads · Fly](https://fly.io/phoenix-files/phoenix-liveview-zipped-uploads/)
   * [Drag and Drop with Elixir - Phoenix LiveView and JavaScript Interop](https://www.headway.io/events/elixir-and-javascript-interop-with-phoenix-liveview-drag-and-drop)
+  * [Testing LiveView](https://www.testingliveview.com/)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
@@ -211,6 +213,7 @@ Elixir
   * [Connecting Livebook To Phoenix - YouTube](https://www.youtube.com/watch?v=nXlxRpZRrx4)
   * [Using Elixir & Phoenix To Build A City Software Infrastructure by Shankar Dhanasekaran | EC EU 23 - YouTube](https://www.youtube.com/watch?v=e2fDjl2hoAk)
   * [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss - DockYard](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss)
+  * [Context maintainability & guidelines in Elixir & Phoenix | Curiosum](https://curiosum.com/blog/elixir-phoenix-context-maintainability-guildelines)
   * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
