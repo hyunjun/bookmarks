@@ -529,11 +529,12 @@ Interview
     * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
     * [**Uber 아키텍처와 시스템 디자인**](https://blog.imqa.io/uber-architecture-system-design/)
     * [Uber 아키텍처와 시스템 디자인 | Architecture 101](https://architecture101.blog/2021/12/01/uber-architecture-design/)
+    * [아키텍처 전략: Uber 시리즈 – 실시간 위치 검색을 위한 지리 공간 인덱스 설계 1편 – 개요 및 기본 아키텍처 | Architecture 101](https://architecture101.blog/2023/04/26/geospatial_architecture_i/)
+    * [아키텍처 전략: Uber 시리즈 – 실시간 위치 검색을 위한 지리 공간 인덱스 설계 2편 – 샤딩으로 아키텍처 개선하기 | Architecture 101](https://architecture101.blog/2023/06/09/geospatial_architecture_ii/)
     * [How Uber handles millions of ride/food requests efficiently part 1 | by Meg's tech corner | Medium](https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204)
     * [Predicting Time to Cook, Arrive, and Deliver at Uber Eats](https://www.infoq.com/articles/uber-eats-time-predictions/)
     * [Ace the System Design Interview — Uber/Lyft | by Zixuan Zhang | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3)
     * [System Design — Nearby Places Recommender System | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977)
-    * [아키텍처 전략: Uber 시리즈 – 실시간 위치 검색을 위한 지리 공간 인덱스 설계 1편 – 개요 및 기본 아키텍처 | Architecture 101](https://architecture101.blog/2023/04/26/geospatial_architecture_i/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
