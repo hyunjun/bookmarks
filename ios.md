@@ -128,6 +128,7 @@ iOS
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31?fbclid=IwAR1QDk_Wm6BVoOKw_lBzxCJbfuThBE4vRL0dO2kxwYnxChuXgCj23Vzgk4o)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
+* [Meet SwiftData (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/372)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -560,6 +561,8 @@ iOS
 * [SwiftUI로 캘린더 직접 구현하기 :: iOYES](https://green1229.tistory.com/362)
 * [SwiftUI로 캘린더 직접 구현하기 (2탄 - 가로 캘린더 버전) :: iOYES](https://green1229.tistory.com/369)
 * [What's new in SwiftUI (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/371)
+* [Discover Observation in SwiftUI (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/373)
+* [Advanced animations in SwiftUI (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/374)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
