@@ -2755,6 +2755,10 @@ Programming Books
 * [팀십 teamship](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313530925)
   * ★★★★☆ 2023.05.29 별 생각없이 읽었는데 오래 전부터 조직 문화 관련한 일을 해온 저자라 그런지 여러가지 다시 생각해보거나 잊었던 것들을 생각해볼 수 있어서 좋았다. 다만 극단적으로 이야기한 건 아니겠지만 문서화가 불필요하다고 한 부분에 대해서는 좀 회의적이다. 저자의 의도는 아마 형식적이고 불필요한 보고를 위한 보고같은 문서화가 필요없다는 의미일 거라고 짐작하지만, 문서화가 부실해서 업무에 문제가 되는 경우도 여전히, 정말 많기 때문에 이 부분은 개인적으로는 다르게 생각한다.
   * 탐라 문325.25-박832ㅌ
+  * [teamship - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/teamship)
+  * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십. ★★★★☆ 2023.05.29 별 생각없이 읽었는데 오래 전부터 조직… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EA%B0%80%EC%A7%9C-%ED%8C%80%EC%9D%84-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-40%EA%B0%80%EC%A7%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8C%80%EC%8B%AD-a644d617f490)
+  * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십 -](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%A7%9C-%ED%8C%80%EC%9D%84-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-40%EA%B0%80%EC%A7%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8C%80%EC%8B%AD)
+  * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십 - Jun’s Substack](https://recur.substack.com/p/40)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
