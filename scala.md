@@ -1868,6 +1868,7 @@ Scala
   * [Deploy http4s on your domain with fly.io | TonioGela's](https://toniogela.dev/http4s-on-fly-io/)
   * [The digital transformation of Santa’s logistical nightmare - Part 4 http4s - Functional Feline Society](https://functional-feline-society.github.io/2023/02/06/http4s-part4/)
   * [Scala Server Security with Http4s: CORS and CSRF - YouTube](https://www.youtube.com/watch?v=z3F3iAE8U-U)
+  * [HTTP Authentication in Scala with Http4s: Passwords, Digests, Sessions, JWTs - YouTube](https://www.youtube.com/watch?v=DxZIuvSDvyA)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
