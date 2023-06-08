@@ -136,6 +136,7 @@ Elixir
 * [liftIO2022 : 개발자 부족의 시대, Elixir가 특효약이 될수 있는 이유 - 한국축산데이터 CTO Max(이재철) - YouTube](https://www.youtube.com/watch?v=lAaD-6OQSHE)
 * [LG유플러스 Elixir Tech Seminar - YouTube](https://www.youtube.com/watch?v=NJqlO8ZSyJw)
 * [Keynote: Bringing Elixir to Life by José Valim | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=xItzdrzY1Dc)
+* [Keynote: The Road To LiveView 1.0 by Chris McCord | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=FADQAnq0RpA)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
