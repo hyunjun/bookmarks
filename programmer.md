@@ -142,6 +142,7 @@ Programmer
 * [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
 * [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
+* [잘하는 개발자가 되는 그라데이션 사고법 (추상화 계층과 데이터 흐름 이해하기)](https://velog.io/@teo/gradation-thinking)
 * [Ten years against division of labor in software](http://akkartik.name/post/division-of-labor)
 * [**18 Trends That Will Shape Our Careers in 2022**](https://junglegym.substack.com/p/18-trends-that-will-shape-our-careers)
   * [2022년 우리의 커리어를 형성할 트렌드들 | GeekNews](https://news.hada.io/topic?id=5672)
