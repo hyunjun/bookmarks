@@ -1781,6 +1781,7 @@ Business
 * [프로젝트 진행 계획표, 왜 필요하고 어떻게 작성해야 할까? | 웹으로 말하기](https://mytory.net/archives/14075)
 * [Managers are from Mars, Developers are from Venus by Ted Neward - YouTube](https://www.youtube.com/watch?v=iORx119qrWE)
 * [Managers Are Not That Stupid • Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TP3Rjd-51DE)
+* [Leading and Growing Software Teams - YouTube](https://www.youtube.com/watch?v=7jRRKOrPLRo)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
