@@ -22,6 +22,7 @@ Sports
 * [스포츠 경기 분석 전문가와 AI의 만남](https://brunch.co.kr/@kakao-it/289)
 * [Data는 Sports를 어떻게 바꿨는가](https://www.slideshare.net/revolutionistK/dsts-how-datachangessportsinbumkim)
 * [How to Draft Players for Sport with Machine Learning and AI](https://medium.com/@simon.tettmar/how-to-draft-players-for-sport-with-machine-learning-and-ai-ab0c7dbf7d76)
+* [의외로 MLB보다 NBA가 더 위기인 이유 (w. 조현일 해설위원) | B주류경제학 - YouTube](https://www.youtube.com/watch?v=x9oagmR7bHE)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
