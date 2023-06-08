@@ -431,6 +431,8 @@ Clojure
 * [Model-View-Controller, a classic architectural pattern in Clojure](https://blog.janetacarr.com/model-view-controller-a-classic-architectural-pattern-in-clojure)
 * [temporal and action properties](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 * [Clojure visual-tools meeting 17 - various updates - YouTube](https://www.youtube.com/watch?app=desktop&v=OwcoAbsJP8g)
+* [Clojure visual-tools meeting 18 - Mosaic and other updates - YouTube](https://www.youtube.com/watch?app=desktop&v=dUtJ2C4UYqo&ab_channel=SciCloj)
+* [Scicloj LLM Meetup 1: Introduction - YouTube](https://www.youtube.com/watch?v=sap3Z-LpNjY)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
