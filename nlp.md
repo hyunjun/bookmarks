@@ -887,6 +887,7 @@ NLP
     * 맥북, 리눅스, 윈도우 PC 구동 가능. 단, 윈도우는 몇 가지 추가 설치 필요
     * Chat UI 도 PR 에 있으며 검토 중
     * [How To Install PrivateGPT - Chat With PDF, TXT, and CSV Files Privately! (Quick Setup Guide) - YouTube](https://www.youtube.com/watch?v=jxSPx1bfl2M)
+    * [practice](https://gist.github.com/hyunjun/cb01f64076cf4f81578963641230ff51#file-test-md)
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
     * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
     * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
