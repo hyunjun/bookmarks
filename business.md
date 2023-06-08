@@ -1698,6 +1698,7 @@ Business
 * [Five Common Signs of a Dysfunctional Leadership Team • George Burrows & Leandro Balan • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=DxO6IxPKRPY)
 * [명시적 권위 없이 영향력 행사하기](https://maily.so/boost.life.density/posts/f43bc37d)
   * [현대적 합의와 영향력의 6가지 원천 모델](https://brunch.co.kr/@graypool/992)
+* [뛰어난 리더에게 발견되는 8가지 ‘역발상’ - 인사이트](https://www.insight.co.kr/newsRead.php?ArtNo=4106)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
