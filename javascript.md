@@ -5683,6 +5683,7 @@ Javascript
 * [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/)
   * [GitHub - statelyai/xstate: State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
   * [자바스크립트로 만든 유한 상태 기계 XState | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220922-make-cart-with-xstate/)
+* [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
