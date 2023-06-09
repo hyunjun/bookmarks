@@ -21,6 +21,7 @@ Azure
 * [Saturday Azure Live 1803 Hands-on-Lab 실습 모듈](https://github.com/krazure/hands-on-lab/tree/master/SAL%201803%20%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94%20Azure,%20Rancher,%20Kubernetes%20(ARK)%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 * [애저 컨테이너 레지스트리 기초](https://blog.aliencube.org/ko/2018/04/13/azure-container-registry-101/)
 * [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
+* [Pull and push Docker Image to Azure Container Registry using Azure DevOps pipeline | Devops](https://dotnet-helpers.com/devops/push-pull-docker-image-to-azure-container-registry/)
 * [Azure에서 사용할 수 있는 컨테이너/오케스트레이션 기술 살펴보기](https://www.slideshare.net/himskim/2020-ignite-seoulazure)
 * [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
 * [Try Azure PowerShell for fun (for 2018 Global Azure Boot Camp)](http://www.dokyun.pe.kr/227)
