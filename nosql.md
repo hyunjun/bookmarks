@@ -295,7 +295,6 @@ NoSQL
   * [Firebase Authentication 의 Token에서 얻는 uid #AWS](https://developer88.tistory.com/324)
   * [Firebase Authentication(인증) 이용하는 방법](https://developer88.tistory.com/329)
   * [How to create a new user sign up page in Firebase + ReactJS that checks for both an existing username and an existing email](https://medium.com/@bryantjiminson/how-to-create-a-new-user-sign-up-page-in-firebase-reactjs-that-checks-for-both-an-existing-de7d6cba03bd)
-  * [Supabase - The open source Firebase alternative](https://supabase.io/)
   * [구글의 머신러닝을 배워요. Firebase ML - YouTube](https://www.youtube.com/watch?v=CSuHEuWpesc)
   * [Migrate your Firebase Cloud Functions to Node.js 10 | by Doug Stevenson | Firebase Developers | Jun, 2020 | Medium](https://medium.com/firebase-developers/migrate-your-firebase-cloud-functions-to-node-js-10-d9c677933ee)
   * [Write beautiful Node.js APIs using async/await and Firebase](https://morioh.com/p/37a47c69b899)
@@ -303,7 +302,6 @@ NoSQL
   * [Firebase Dynamic Link Creation Guide | by Muffaddal Qutbuddin | Firebase Developers](https://medium.com/firebase-developers/firebase-dynamic-links-guide-76552c0f292e)
   * [빌드 타입별로 파이어베이스키 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/firebase/2021/02/16/BuildType-Firebase.html)
   * [Firebase로 Google 로그인 구현하기 (Spring + React 예제)](https://velog.io/@couchcoding/Firebase%EB%A1%9C-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Spring-React-%EC%98%88%EC%A0%9C)
-  * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
   * [Top 5 Reasons to Learn Firebase in 2022](https://javarevisited.blogspot.com/2020/06/why-frontend-developer-should-learn-Firebase.html)
   * [Python으로 FCM push 보내기 - 이상선 - Medium](https://medium.com/@sunyi233/python%EC%9C%BC%EB%A1%9C-fcm-push-%EB%B3%B4%EB%82%B4%EA%B8%B0-431b7a17c151)
   * [Firebase로 회원 시스템 만들기. 구글의 Firebase와 AWS의 API Gateway를 잘 연결하면… | by 이상선 | Mar, 2022 | Medium](https://medium.com/@sunyi233/firebase%EB%A1%9C-%EC%9E%90%EC%B2%B4-%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-c9765d8572c3)
@@ -615,9 +613,12 @@ NoSQL
 * [Benchmarking Apache Cassandra (40 Nodes) vs. ScyllaDB (4 Nodes) – The New Stack](https://thenewstack.io/benchmarking-apache-cassandra-40-nodes-vs-scylladb-4-nodes/)
 
 # Supabase
+* [Supabase - The open source Firebase alternative](https://supabase.io/)
+* [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
 * [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
 * [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
 * [Building a Full Stack App with Supabase, React, Next.js and TailwindCSS](https://morioh.com/p/f55788332af3)
+* [db trigger를 활용해 supabase signUp 후에 users table에 데이터 추가하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/supabase/db-trigger%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-supabase-signUp-%ED%9B%84%EC%97%90--users-table%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
