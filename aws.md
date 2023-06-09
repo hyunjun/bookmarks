@@ -487,6 +487,7 @@ AWS
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
+* [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
