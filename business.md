@@ -2556,6 +2556,7 @@ Business
 * [사용자를 화나게 만드는 ‘UX 라이팅’의 함정 | 요즘IT](https://yozm.wishket.com/magazine/detail/1887/)
 * [UX Designer가 데이터를 만나면. 글. 최정인(Sherry) / UX Designer | by 여기어때 UX Center | May, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/ux-designer%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%A9%B4-26918c14ae0d)
 * [설리번 선생님! 아직도 형태가 기능을 따라야 하나요?](https://brunch.co.kr/@cliche-cliche/184)
+* [Bing AI의 UX분석하기: 유저 습관 만드는 '훅'모델과 함께 | 요즘IT](https://yozm.wishket.com/magazine/detail/2054/)
 * [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
