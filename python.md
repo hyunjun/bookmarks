@@ -4459,6 +4459,7 @@ Python
   * [Python 실전 개발 생태계](https://humbledude.github.io/blog/2019/08/22/python-dev-env/) pyenv, docker
   * [Pyenv 삽질기… 파이썬 버전관리와 가상환경 구축하는 방법 | by Jake Lee | Jul, 2021 | Medium](https://medium.com/@visiodeibc/pyenv-%EC%82%BD%EC%A7%88%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B2%95-641c451512e6)
   * [Managing Python versions with pyenv | The Python Corner](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/)
+  * [개발 런타임 환경 구축하기 - 파이썬 pyenv편 | 요즘IT](https://yozm.wishket.com/magazine/detail/2057/)
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
