@@ -2150,6 +2150,8 @@ Javascript
     * [Do not use Swagger but build SDK instead for frontend developers - DEV Community 👩💻👨💻](https://dev.to/samchon/do-not-use-swagger-but-build-sdk-instead-314j)
     * [Nestia Boost up your NestJS server much faster and easier (maximum 20,000x faster) - DEV Community](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)
     * [Nestia I made automatic e2e test functions generator for NestJS - DEV Community](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
+    * [Nestia Make NestJS 30x faster with fastify - DEV Community](https://dev.to/samchon/nestia-make-nestjs-30x-faster-with-fastify-133l)
+    * [Nestia I made backend simulator for frontend developers (similar with MSW, but fully automated) - DEV Community](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
   * [nestjs-aop](https://github.com/toss/nestjs-aop)
   * [quasar-ssr-nestjs-boilerplate: Quasar Framework + Vue SSR + NestJS API Server = ULTIMATE FULLSTACK](https://github.com/composite/quasar-ssr-nestjs-boilerplate)
