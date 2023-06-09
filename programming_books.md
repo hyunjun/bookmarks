@@ -4009,6 +4009,10 @@ Programming Books
 * [일상의 UX 디자인 | 위키북스](https://wikibook.co.kr/dailyux/)
   * ★★★☆☆ 2023.04.02~03 UI/UX 101같은 책으로 기초적인 지식부터 잘 읽어볼 수 있어 비전공자가 참고하기 좋음
   * 한라 324.35-타195ㅅ
+  * [일상의 UX 디자인 - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/daily_ux_design)
+  * [일상의 UX 디자인. ★★★☆☆ 2023.04.02~03 UI/UX 101같은 책으로… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EC%9D%BC%EC%83%81%EC%9D%98-ux-%EB%94%94%EC%9E%90%EC%9D%B8-464b456f1810)
+  * [일상의 UX 디자인 -](https://jh4hj.tistory.com/entry/%EC%9D%BC%EC%83%81%EC%9D%98-UX-%EB%94%94%EC%9E%90%EC%9D%B8)
+  * [일상의 UX 디자인 - Jun’s Substack](https://recur.substack.com/p/ux)
 * [유저 프렌들리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300340786)
   * ★★★☆☆ 2023.05.18, 20 구체적인 부분보다 UI/UX 101에 약간 더 가까운 책으로 사용자 친화적인 디자인의 역사나, 그로 인한 문제들까지 좀 더 넓은 시각에서 볼 수 있는 책
   * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
