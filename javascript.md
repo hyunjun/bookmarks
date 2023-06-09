@@ -1120,6 +1120,8 @@ Javascript
 * [Aborting a signal: How to cancel an asynchronous task in JavaScript](https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/)
   * [자바스크립트에서 AbortController 를 활용하여 비동기 작업 중단하기 | 오르막길](https://genie-youn.github.io/journal/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C_AbortController%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC_%EB%B9%84%EB%8F%99%EA%B8%B0_%EC%9E%91%EC%97%85_%EC%A4%91%EB%8B%A8%ED%95%98%EA%B8%B0.html)
 * [AbortController로 요청 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1602)
+* [AbortController is your friend](https://samthor.au/2022/abortcontroller-is-your-friend/)
+  * [(번역) AbortController는 당신의 친구입니다](https://velog.io/@sehyunny/abort-controller-is-your-friend)
 * [How the new ‘Top Level Await’ feature works in JavaScript](https://medium.com/javascript-in-plain-english/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
 * [**await의 함정, 숨은 병목을 찾자**](https://jaeheon.kr/161)
 * [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
