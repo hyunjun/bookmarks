@@ -487,6 +487,7 @@ Book
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 * (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
+  * 탐라 문325.7-비78ㄱ 우당 문325.571-비78ㄱ
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
 
 # Africa
@@ -758,6 +759,8 @@ Book
   * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
 * (NOT YET) [설득의 디테일ㅣ원하는 것을 얻는 섬세한 대화의 기술 9가지 - YouTube](https://www.youtube.com/watch?v=syMYBWU1iEU)
   * 한라 325.26-보17ㅅ 우당 325.26-보17ㅅ
+* (NOT YET) [리처드 루멜트 크럭스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314397526)
+  * 우당 문325.1-루33ㅋ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1126,6 +1129,10 @@ Book
 * [인조仁祖 1636](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312429686)
   * ★★★☆☆ 2023.05.28 잘못된 지도자가 얼마나 많은 사람들에게 피해를 줄 수 있는지, 우리는 역사에서 이다지도 배우는 게 없는지 생각해볼 수 있는 책
   * 탐라 문911.0557-유18ㅇ
+* [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
+  * ★★★★☆ 2023.06.10 세상 많은 문제가 그렇듯 친일파 문제를 흑백논리로 나눌 수 없다는 점을 알려주는 책. 보통 사람의 친일 또한 지나갈 문제가 아니며, 프랑스나 독일이 과거사 청산에 성공했다는 것도 '신화'에 불과하다는 것 등 대부분의 사람들이 모르는 많은 역사적인 사실/해석에 대해 어떤 자세로 접근하고 생각해야 할 지 알려준다. 결국 끝에는 역사를 돌아보는 방법, 왜 그렇게 보는가에 대한 이야기까지 이어진다. 나이가 들면서 바뀐 생각들이 몇 가지가 있는데 이 책 또한 그런 점에서 개인적으로 생각할 거리가 많은, 좋은 책이었다.
+  * 한라 911.06-조94ㅇ 우당 문911.06-조94ㅇ
+  * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -1232,8 +1239,6 @@ Book
 * (NOT YET) [『개발 없는 개발』을 읽고](https://nocturnal-landscape.tistory.com/155)
   * 우당 문911.06-허57ㄱ
   * [개발없는 개발](https://www.facebook.com/permalink.php?story_fbid=pfbid0hWn4AhfCX3Ko59qEdhVSbLEbet2C3tWaxsfRTEhn4qFECahacrrWtUmcNMWpMStHl&id=100001496453682)
-* (NOT YET) [우리 안의 친일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303886748)
-  * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
 * (NOT YET) [100가지 동물로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313552939)
   * 탐라 문909-반78ㅂ
 * (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)

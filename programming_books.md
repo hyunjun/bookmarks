@@ -1725,6 +1725,7 @@ Programming Books
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
 * (NOT YET) [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
+  * 우당 문004.588-이79ㄷ
 * (NOT YET) [매니징 쿠버네티스 - 창시자가 알려주는 쿠버네티스 클러스터 현장 운영 기법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1668)
 
 # Domain Driven Development DDD
