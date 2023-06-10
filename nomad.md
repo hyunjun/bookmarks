@@ -65,6 +65,7 @@ Nomad & Remote
 * [해외취업(이민) 도전기 1 - 어디로 갈 것인가?](https://prelude618.tistory.com/15)
 * [해외취업(이민) 도전기 2 - 어떻게 준비할 것인가?](https://prelude618.tistory.com/16)
 * [해외취업(이민) 도전기 3 - 어떻게 계약할 것인가?](https://prelude618.tistory.com/17)
+* [개발자 글로벌 커리어 컨퍼런스 해외 취업, 이렇게 하면 망합니다. - YouTube](https://www.youtube.com/watch?v=swvYC4kY0_Q)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
@@ -163,6 +164,8 @@ Nomad & Remote
 * [영국문화원에서부터 캠퍼스런던까지](http://www.venturesquare.net/593572)
 * [How I ended up working illegally in the UK](https://medium.com/@lilula/how-i-ended-up-working-illegally-in-the-uk-fcdfa964be51)
 * [Salaries in London: real life examples](http://firevlondon.com/2015/10/26/salaries-in-london-real-life-examples/)
+* [개발자 글로벌 커리어 컨퍼런스 대한 개발자, 영국기업에서 살아남기 - YouTube](https://www.youtube.com/watch?v=YKdiWeaV9BM)
+* [개발자 글로벌 커리어 컨퍼런스 비전공자가 영국 은행 시니어가 되기까지 - YouTube](https://www.youtube.com/watch?v=j76RbSDE6-4)
 
 # Estonia
 * [노마드를 위해 준비된 ‘진짜 IT 강국’, 에스토니아](http://www.bloter.net/archives/240165)
@@ -232,6 +235,7 @@ Nomad & Remote
 * [개발자 해외취업 꿀팁 대방출 인터뷰 I 🇩🇪 국내파 개발자 이상현님의 독일글로벌 기업 취업기 - YouTube](https://www.youtube.com/watch?v=9LTp5QMgC9s)
 * [독일에 있는 자동차 소프트웨어 개발자](https://www.yocto.co.kr/)
 * [SI 개발자, 미국 핀테크 회사로 이직한 후기(feat. 원격근무)](https://drspace.tistory.com/244)
+* [개발자 글로벌 커리어 컨퍼런스 주니어 개발자, 독일 스타트업에서 살아남기 - YouTube](https://www.youtube.com/watch?v=74kXwElfgMI)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
