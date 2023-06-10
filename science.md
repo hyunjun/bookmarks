@@ -145,6 +145,10 @@ Science
 * [뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함 | GeekNews](https://news.hada.io/topic?id=7001)
 * [인간은 왜 똑똑해졌을까?](https://surpriser.tistory.com/967)
 * [A simplified view of brain function](https://www.linkedin.com/feed/update/urn:li:activity:7017063470353281024/)
+* [스탠포드 뇌과학 교수가 말하는 젊은 뇌로 돌아가는 방법 | 앤드류 후버만 Andrew Huberman - YouTube](https://www.youtube.com/watch?v=w64W5glO_xY)
+  * 나이가 들면 가소성이 떨어져서 쉽게 배우지 못함, 이걸 극복하기 위해서는
+  * 1. 작은 오류를 경험하면서 incremental change를 가져가야 함
+  * 2. 절박해야 함. 그냥 하는 게 아니라 꼭 필요하다는 의식을 가져야 (어린아이들만큼) 가소성 향상
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)
