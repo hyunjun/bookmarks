@@ -1441,6 +1441,7 @@ Programming Books
   * 한라 004.73-후64ㅁ
 * (NOT YET) [데이터 과학 레벨 업 with 로드맵](https://hanbit.co.kr/store/books/look.php?p_code=B9570217910) kaggle
 * (NOT YET) [추천 시스템 입문](https://www.hanbit.co.kr/store/books/look.php?p_code=B7471666713)
+  * [추천이 아닌 '시스템'에 방점을 둘 것 - 추천 시스템 입문](https://ugong2san.tistory.com/5188)
 * (NOT YET) [데이터 분석가가 반드시 알아야 할 모든 것 | 위키북스](https://wikibook.co.kr/eda/) kaggle
   * 탐라 문005.76-황53ㄷ
 
