@@ -2764,6 +2764,9 @@ Programming Books
   * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십. ★★★★☆ 2023.05.29 별 생각없이 읽었는데 오래 전부터 조직… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EA%B0%80%EC%A7%9C-%ED%8C%80%EC%9D%84-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-40%EA%B0%80%EC%A7%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8C%80%EC%8B%AD-a644d617f490)
   * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십 -](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%A7%9C-%ED%8C%80%EC%9D%84-%EC%A7%84%EC%A7%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-40%EA%B0%80%EC%A7%80-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%ED%8C%80%EC%8B%AD)
   * [가짜 팀을 진짜 팀으로 바꾸는 40가지 아이디어 팀십 - Jun’s Substack](https://recur.substack.com/p/40)
+  * [팀으로 일하라](https://blog.naver.com/jinjin8585/154842721)
+    * 2023.06.11 혹시 다른 내용이 있을까 해서 읽어봤는데 거의 1st edition 격으로 대부분의 내용이 비슷함
+    * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
