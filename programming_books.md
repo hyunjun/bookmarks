@@ -4000,6 +4000,9 @@ Programming Books
 * (NOT YET) [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)
 * (NOT YET) [인공지능 소프트웨어 품질 보증을 위한 테스트 기법 - YouTube](https://www.youtube.com/watch?v=vdpPk1fqptI)
 * (NOT YET) [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
+* (NOT YET) [지식 제로부터 배우는 소프트웨어 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61703007)
+  * 동부 005.14-타821지
+  * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
