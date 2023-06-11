@@ -93,6 +93,7 @@ NoSQL
 * [Cassandra scala client](https://medium.com/rahasak/cassandra-scala-client-d50ebd5a9723)
 * [Change Data Capture for Distributed Databases @Netflix - YouTube](https://www.youtube.com/watch?v=Z4Gx7SP1E14) Cassandra + Kafka + Flink / HTAP (hybrid transaction and analytic processing) databases
 * [How Discord Stores Trillions of Messages | Deep Dive - YouTube](https://www.youtube.com/watch?v=xynXjChKkJc)
+* [Building web server with Cassandra database | by John E Cho | Jun, 2023 | Medium](https://euncho.medium.com/building-web-server-with-cassandra-database-6d4888a89ba6)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
