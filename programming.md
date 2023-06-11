@@ -688,6 +688,7 @@ Programming
 * [프로그래밍은 왜 어려울까? - Google Slides](https://docs.google.com/presentation/d/1GfA1Gpch9lP-U0hgqF98gMOQl6EI5wsCFHJuHZfi9CY/edit)
 * [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
+* [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
 
 # Agile, Scrum
 * book
