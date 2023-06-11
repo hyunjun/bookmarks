@@ -489,6 +489,10 @@ Book
 * (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
   * 탐라 문325.7-비78ㄱ 우당 문325.571-비78ㄱ
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
+* (NOT YET) [존 도어의 OKR 레볼루션](https://dbr.donga.com/article/view/1305/article_no/10768)
+  * 우당 문539.92-도63ㅈ
+* (NOT YET) 기적의 도시 메데진 [책&생각 세계의 롤모델 된 ‘마약의 도시’…비결은 주거·교통 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1077166.html)
+  * 한라 331.47-박65ㄱ 탐라 문331.47-박66ㄱ 우당 문331.47-박66ㄱ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -633,6 +637,12 @@ Book
   * 우당 문606.926-안94ㅁ
 * (NOT YET) [아바타의 세계 : 시각적 탐사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305693269)
   * 한라 688.2-이78ㅇ탐라 문688.13-이75ㅇ
+* (NOT YET) [명화로 읽는 합스부르크 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=302555535)
+  * 한라 650.9-나872ㅎ 우당 문650.9-나821ㅁ
+* (NOT YET) [Moon Walk 문워크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195611806)
+  * 한라 673.53099-잭57ㅁ
+* (NOT YET) [반 고흐의 마지막 70일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312674334)
+  * 한라 653.269-베68반고
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -1248,6 +1258,8 @@ Book
   * 우당 문013.33-킹235ㅍ
 * (NOT YET) [그리스 로마 신화의 주인공들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305853088)
   * 한라 219.2-고64ㄱ 우당 문219.2-고63ㄱ
+* (NOT YET) [22개 나라로 읽는 부의 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300029591)
+  * 한라 909-조95ㅂ 탐라 문909-조95 우당 문909-조95ㅇ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
