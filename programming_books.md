@@ -2229,6 +2229,7 @@ Programming Books
   * [code-samples: Code samples for the book Multithreaded JavaScript, O'Reilly, 2021](https://github.com/MultithreadedJSBook/code-samples)
 * (NOT YET) [프론트엔드 성능 최적화 가이드 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/11/07/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [NestJS로 배우는 백엔드 프로그래밍 - WikiDocs](https://wikidocs.net/book/7059)
+  * 탐라 문005.11-한66ㄴ
 * (NOT YET) [자바스크립트로 배우는 SICP](https://hanbit.co.kr/store/books/look.php?p_code=B3583369126)
   * [Source Academy | Info on Source Academy for learners, educators, developers, and researchers](https://about.sourceacademy.org/)
   * [프로그래밍 입문서로 여전히 훌륭한 개념 안내서 : 네이버 블로그](https://blog.naver.com/drvoss/223028398957)
@@ -3303,6 +3304,7 @@ Programming Books
   * [출시를 통한 배움 그리고 프로덕트 비전 설정](https://brunch.co.kr/@graypool/968)
   * [프로덕트 비전에서 프로덕트 전략으로 전환](https://brunch.co.kr/@graypool/970)
   * [프로덕트 전략에서 프로덕트 로드맵으로](https://brunch.co.kr/@graypool/971)
+* (NOT YET) [프로덕트 매니지먼트](https://www.hanbit.co.kr/store/books/look.php?p_code=B8246471071)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
