@@ -209,6 +209,7 @@ Linux
   $ fcitx-configtool
   $ im-config
   ```
+  * [우분투 22.04에서 한글 입력기를 fcitx로 설정하기 | 웹으로 말하기](https://mytory.net/archives/14412)
 * pip [kkamagui의 작업실 :: 데비안(Debian) 리눅스에서 파이썬 pip 도구 설치하기](https://kkamagui.tistory.com/936)
 
 ## 배포판 Fedora
