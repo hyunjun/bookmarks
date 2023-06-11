@@ -766,6 +766,7 @@ Apache
 * [Resilient Real-Time Data Streaming across the Edge and Hybrid Cloud - YouTube](https://www.youtube.com/watch?v=lbsUmMPKZSM)
 * [Snowpipe Streaming now in Public Preview](https://www.snowflake.com/blog/snowpipe-streaming-public-preview/)
 * [A Kafka Client’s Request: There and Back Again by Danica Fine - YouTube](https://www.youtube.com/watch?v=DkYNfb5-L9o)
+* [빗썸 API를 활용한 매수 / 매도 데이터 적재](https://joecp17.tistory.com/75)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
