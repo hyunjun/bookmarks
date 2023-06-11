@@ -129,6 +129,8 @@ iOS
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
 * [Meet SwiftData (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/372)
+* [Explore SwiftUI Animation (WWDC 2023) :: iOYES](https://green1229.tistory.com/375)
+* [Swift 5.9 슬쩍 맛보기 (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/376)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
