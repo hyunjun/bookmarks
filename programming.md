@@ -2969,6 +2969,7 @@ Programming
 * [비폭력 코드리뷰 | Daniel Lee](https://typefully.com/dylayed/73zASqg)
 * [코드 리뷰에 ‘켄트 벡’의 아이디어 접목하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2007/)
 * [지속가능한 코드리뷰 문화를 만드는 여정 – 화해 블로그 | 기술 블로그](https://blog.hwahae.co.kr/all/tech/12534)
+* [오픈소스 프로젝트를 위한 ChatGPT 기반 코드 리뷰어 봇(Bot) (2023.06.06) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/ambassador/chatgpt-bot)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
