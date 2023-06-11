@@ -562,6 +562,8 @@ Programming Books
   * 한라 005.1-아32ㅍ
 * (NOT YET) 이것이 자료구조 + 알고리즘이다 with C언어 [개발자는 반드시 자료구조와 알고리즘을 배워야 할까? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8073601837)
   * 탐라 문005.1-박51ㅇ
+* (NOT YET) [프로그래머스 코딩 테스트 문제 풀이 전략: 자바편](https://school.programmers.co.kr/learn/courses/16558/16558-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EC%A0%84%EB%9E%B5-%EC%9E%90%EB%B0%94%ED%8E%B8)
+  * 우당 문005.133-김94ㅍ
 
 # Amazon AWS
 
@@ -3306,6 +3308,13 @@ Programming Books
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
   * [소프트 스킬 평범한 개발자의 비범한 인생 전략 71가지](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC-%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B9%84%EB%B2%94%ED%95%9C-%EC%9D%B8%EC%83%9D-%EC%A0%84%EB%9E%B5-71%EA%B0%80%EC%A7%80)
     * 2016.05.16
+  * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 74가지, 개정2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298621616)
+    * 우당 문005.104-손33ㅅ
+    * https://entreprogrammers.com/
+  * [Making the Complex Simple - Simple Programmer](https://simpleprogrammer.com/)
+    * [Simple Programmer - YouTube](https://www.youtube.com/simpleprogrammer)
+  * [Bulldog Mindset | Build Confidence and Achieve Financial Freedom](https://bulldogmindset.com/)
+    * [Bulldog Mindset - YouTube](https://www.youtube.com/bulldogmindset)
 * [오늘부터 개발자](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90)
   * [오늘부터 개발자. 이런 책도 출판되는 걸 보면 확실히 개발자가 부족하긴 하다. 우리… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90-fbf62d0e9876)
   * ★★★★☆ 2021.11.11
