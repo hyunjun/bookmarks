@@ -162,6 +162,7 @@
   * [번역 Design Pattern In Kotlin — 3. Structural](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-3-structural-2e5e007fc0e3)
 * [Design patterns with Kotlin Part 1 | by Sandesh Bodake | ScaleReal | Medium](https://medium.com/scalereal/design-patterns-with-kotlin-part-1-dcd230d14c6e)
 * [Design patterns with Kotlin Part 2 | by Sandesh Bodake | ScaleReal | Aug, 2022 | Medium](https://medium.com/scalereal/design-patterns-with-kotlin-part-2-319b5d4faa66)
+* [좋은 코드 설계를 위한 답없는 고민들 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/code-design/)
 * [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 * [Discovering Kotlin Contracts. The next release of Kotlin, 1.3, is… | by Nicola Corti | ProAndroidDev](https://proandroiddev.com/discovering-kotlin-contracts-3e7ed1360602)
 * [Kotlin 1.4 Online Event: Kotlin 1.4 Language Features 영상 정리](https://www.androidhuman.com/2020-10-29-kotlin_1_4_language_features)
