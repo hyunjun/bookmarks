@@ -492,6 +492,7 @@ TensorFlow
 * [모바일 GPU에서 뉴럴 네트워크를 더 효율적으로 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/neural-network-on-mobile-gpu/)
 * [TensorFlow DTensor: Unified API for Distributed Deep Network Training](https://www.infoq.com/news/2022/05/tensorflow-dtensor/)
 * [#Python | Information Bottleneck ...when Intermediate Layer is too small | #DeepLearning #Tensorflow - YouTube](https://www.youtube.com/watch?v=23dPva-IWhQ)
+* [Macro precision for tensorflow – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4510)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
