@@ -3673,6 +3673,7 @@ Programming
   * 오늘날 클라우드의 도입으로 데이터는 원격에 더 많이 저장되며 무차별 대입 등의 공격보다는 취약점을 악용하거나 내부자를 감염시켜서 데이터를 유출하는 일이 더 증가
   * 이제 보안은 기술적인 문제가 아니라 인적 요소와 기존 보안 기술을 채택하는 데 드는 비용의 문제
 * [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
+* [토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
