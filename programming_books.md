@@ -823,6 +823,10 @@ Programming Books
 * [AI 지도책](https://www.facebook.com/greenmun21/posts/pfbid03owxoBtf6Hta3wypv4QRFhZzYTk7ccKXgcanum3pHReAs8BXYvUeySUTmK1PufKml)
   * ★★★☆☆ 2023.04.24 제목만 보고 오해해서 읽으려고 했지만 좋은 책. AI 기술 이면의 폐해를 주제별로 알려준다. 모든 챕터들이 다 암울한(?) 미래를 경고하는 듯 하지만, 개인적으로는 특히 (과학이라 부를 수도 없는 우생학 계열의) 골상학이 얼굴 인식의 근거가 되었다는 부분이 충격적이다. 이미 거대한 흐름이 시작된 지 오래고 절대 되돌릴 수는 없는데, 그 안에서 어떤 제도적인 장치가 필요할지 중요한 단초를 제공하는 책이다. 먼저 치고 나가 경제적인 부를 획득하려는 욕망 앞에 걸림돌이 될만한 건 모두 무너뜨리기만 하지 보완하려는 흐름은 미미할 거 같긴 하다.
   * 우당 문331.5412-크235ㅇ
+  * [atlas_of_ai - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/atlas_of_ai)
+  * [AI 지도책 ATLAS of AI. ★★★☆☆ 2023.04.24 제목만 보고 오해해서 읽으려고 했지만… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/ai-%EC%A7%80%EB%8F%84%EC%B1%85-atlas-of-ai-ea4572971481)
+  * [AI 지도책 ATLAS of AI](https://jh4hj.tistory.com/entry/AI-%EC%A7%80%EB%8F%84%EC%B1%85-ATLAS-of-AI)
+  * [AI 지도책 ATLAS of AI - Jun’s Substack](https://recur.substack.com/p/ai-atlas-of-ai)
 * AI & UX [AI 모델만이 아니라 서비스를 이야기하는 'AI & UX'](https://wizmusa.tistory.com/1170964427)
   * ★★★☆☆ 2023.05.08 AI 관련된 app/service에 특화된 UX에 대한 주제를 다루지 않을까 생각했는데 그건 아니고 일반적인 AI에 대한 이야기와 일반적인 UX에 대한 이야기를 같이 다루는데, AI service를 예시로 설명을 하는 책으로 보면 된다. 물론 내용 자체는 좋고 알아두면 좋은 점들이긴 한데, 이 책에서만 볼 수 있는 독특한 걸 다루는 정도까지는 아님. 하지만 그래도 여전히 좋은 책인 거도 맞음
   * 한라 004.78-루688ㅇ
