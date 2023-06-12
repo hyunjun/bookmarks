@@ -920,6 +920,7 @@ AWS
 * [The DynamoDB paper - Marc's Blog](https://brooker.co.za/blog/2022/07/12/dynamodb.html)
 * [Build a CRUD REST API for DynamoDB w/ AWS Lambda & API Gateway using Node.js AWS-SDK V3](https://morioh.com/p/a08b3e6c27e5)
 * [AWS 비하인드 스토리 – Amazon DynamoDB UpdateTable 속도 향상 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/behind-the-scenes-at-aws-dynamodb-updatetable-speedup/)
+* [Part 11. 간략하게 살펴보는 DynamoDB - YouTube](https://www.youtube.com/watch?v=fhoMK2hXLpE)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
