@@ -489,6 +489,7 @@ AWS
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
+* [AWS를 활용하여 망간 파일전송 시스템 구축하기 | 뱅크샐러드](https://blog.banksalad.com/tech/how-we-transfer-files-in-network-separation-environment/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
