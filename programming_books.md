@@ -800,6 +800,7 @@ Programming Books
   * [book-examples: 도서 마이크로서비스 아키텍처 구축 가이드(한빛미디어)의 예제 소스와 템플릿 안내 입니다](https://github.com/wharup/book-examples)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 1부 - YouTube](https://www.youtube.com/watch?v=kOgLZGqJAhg)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
+  * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
 
 # Artificial Intelligence
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
