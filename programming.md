@@ -5942,6 +5942,8 @@ Programming
 * [How I Accidentally Deleted 7TB of Videos Before Going To Production](https://blog.thevinter.com/posts/vimeo)
 * [Why IT Projects Fail; How Can We Do Better? — Part 1: Failed Strategy, Prioritization, and Future State | by Yong Hu | Medium](https://medium.com/@yong.hu/why-it-projects-fail-how-can-we-do-better-c32190ca8bc5)
 * [NDC22 "36+20시간 서버 점검" 그때 쿠키런: 킹덤은 무슨 일이 있었을까?](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151161)
+* [NDC22-프로그래밍 쿠키런: 킹덤, 총 56시간의 긴급 점검 회고 - YouTube](https://www.youtube.com/watch?v=AZbCZ2KOcwU)
+* [쿠키런: 킹덤 길드 업데이트 이후 서비스 이슈 되돌아보기](https://tech.devsisters.com/posts/crk-hot-range-postmortem/)
 * [That time we unplugged a data center to test our disaster readiness - Dropbox](https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc)
 * [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 * [7 Lessons From 10 Outages – The Downtime Project](https://downtimeproject.com/podcast/7-lessons-from-10-outages/)
