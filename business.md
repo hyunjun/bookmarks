@@ -422,6 +422,7 @@ Business
     * 의견 수렴 등 피드백이 필요한 경우, 미팅이 메시지나 이메일보다 더 효율적인가?
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
+* [미팅은 적을수록 좋다.. 커뮤니케이션 코스트 이야기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/communicationcost20230612)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
