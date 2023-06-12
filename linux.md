@@ -556,6 +556,7 @@ Linux
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
   * [practice - X-Api-Key with username & password](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_header-md)
   * [practice - 환경변수 environmental variable 사용하기](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-environmental_variable-md)
+  * [practice - http status code 출력 `-o /dev/null -w "%{http_code}"`](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-status_code-md)
   * -d, --data, --data-ascii, --data-raw, --data-binary, --data-urlencode
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
