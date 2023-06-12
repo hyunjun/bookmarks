@@ -1797,6 +1797,7 @@ AWS
 * [AWS SQS와 Lambda 동시성의 밀당 (Set Visibility Timeout) | by Jeremy | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-sqs%EC%99%80-lambda-%EB%8F%99%EC%8B%9C%EC%84%B1%EC%9D%98-%EB%B0%80%EB%8B%B9-set-visibility-timeout-2e8f630b0159)
 * [AWS-SQS-터져랏 - 리눅서의 기술술 블로그](https://linuxer.name/2023/04/aws-sqs-%ED%84%B0%EC%A0%B8%EB%9E%8F/)
 * [Amazon SQS DLQ(Dead Letter Queue) 리드 라이브를 위한 새로운 API 세트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
+* [마이크로서비스에 Amazon SQS 활용하기 - hatemogi.com](https://hatemogi.com/2022/0801-amazon-sqs.html)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
