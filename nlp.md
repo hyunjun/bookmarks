@@ -901,6 +901,7 @@ NLP
   * [무료로 노트북에서도 실행 가능한 70억 파라미터 챗봇 - 테크레시피](https://techrecipe.co.kr/posts/52507)
   * [😎경량화! 노트북에 구축하는 대규모 언어모델 GPT4All😎 (feat, ChatGPT, GPT3.5, LLaMA, Alpaca, Vicuna) - YouTube](https://www.youtube.com/watch?v=HewtI35-lp8)
   * [리뷰 GPT4All: 로컬 PC에서 사용가능한 LLaMA | by daewoo kim | Apr, 2023 | Medium](https://moon-walker.medium.com/%EB%A6%AC%EB%B7%B0-gpt4all-%EB%A1%9C%EC%BB%AC-pc%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C-llama-ee98b6348c9)
+  * [GPT4All is the Local ChatGPT for your Documents and it is Free! - KDnuggets](https://www.kdnuggets.com/2023/06/gpt4all-local-chatgpt-documents-free.html)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
 * [h2ogpt: Come join the movement to make the world's best open source GPT led by H2O.ai](https://github.com/h2oai/h2ogpt)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
