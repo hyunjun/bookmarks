@@ -742,6 +742,11 @@ Book
 * [다이브 딥](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313587844)
   * ★★★☆☆ 2023.05.09 이런 책이 그렇듯 일단 반 정도는 회사의 홍보를 위한 책이라고 간주해야 한다. 쿠팡의 성취는 정말 놀랍지만, 그 이면에 있는 고객들의 불만은 잘 이야기하지 않거나 이야기를 하더라도 결국 잘 해결해서 극복했다는 스토리로 주로 사용하기 때문이다. 그럼에도 불구하고, 다른 어떤 한국 회사도 달성하지 못한 굉장한 성취를 했다는 점은 현실이다. 계획된 적자를 한국에 최초로 도입했다는 부분부터 뉴욕에 IPO를 하고 그 뒤에도 멈추지 않는 쿠팡의 질주를 한 번 되새겨보는 것 만으로도 큰 가치가 있다.
   * 한라 325.1-박54ㄷ 탐라 문325.1-박53ㄷ
+  * [dive_deep - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/dive_deep)
+  * [다이브 딥](https://github.com/hyunjun/bookmarks/blob/master/books/dive_deep.md)
+  * [다이브 딥. ★★★☆☆ 2023.05.09 이런 책이 그렇듯 일단 반 정도는 회사의… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EB%8B%A4%EC%9D%B4%EB%B8%8C-%EB%94%A5-a96161494393)
+  * [다이브 딥](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9D%B4%EB%B8%8C-%EB%94%A5)
+  * [다이브 딥 - Jun’s Substack](https://recur.substack.com/p/3b3)
 * [The Cold Start problem](https://brunch.co.kr/@clickb7402/144)
   * ★★★★☆ 2023.06.01~05
   * 한라 325.1-첸63ㅋ 탐라 문325.21-첸62ㅋ
