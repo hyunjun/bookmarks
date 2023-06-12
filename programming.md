@@ -5213,6 +5213,7 @@ Programming
   * [리팩터링과 디자인 패턴](https://refactoring.guru/ko)
 * [Redirect Refactoring](https://zuminternet.github.io/redirect-refactoring/)
 * [The After Party: Refactoring After 100x Hypergrowth - YouTube](https://www.youtube.com/watch?v=b6bu8vd1n5s)
+* [Tidy First? Kent Beck on Refactoring - YouTube](https://www.youtube.com/watch?v=XmsyvStDuqI)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
