@@ -1157,6 +1157,7 @@ Java
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
 * [가비지 컬렉터가 뭐하는 건가요? (Feat. 메모리 관리)](https://www.youtube.com/watch?v=24f2-eJAeII)
 * [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
+* [Latest Java Garbage Collection : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/367)
 * [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
 * [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
 * [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
