@@ -552,6 +552,8 @@ SQL
   * [Connect to MySQL after hitting ERROR 1040: Too many connections - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/23/connect-to-mysql-after-hitting-error-1040-too-many-connections/)
   * [MySQL 8 root 비밀번호 분실, 초기화 방법 (DB관리자 필수로 알아둘 내용) How to reset MySQL root password - YouTube](https://www.youtube.com/watch?v=aUpsnwG7zOQ)
   * [Access denied for user 'root@'@'localhost' 해결방법 :: oziguyo](https://oziguyo.tistory.com/36)
+* [MySQL root 계정에 대한 소켓 플러그인 제거하고 암호 설정하기 | 웹으로 말하기](https://mytory.net/archives/14460)
+* [MySQL 로컬 개발시 아이디 비번을 파일에 적어두고 쓰는 방법 | 웹으로 말하기](https://mytory.net/archives/14458)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
 * [mysql](https://hackmysql.com/tags/mysql/)
