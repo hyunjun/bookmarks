@@ -149,6 +149,8 @@ Finance
   * [미국주식으로 시작하는 슬기로운 퀀트투자를 읽고.. : 네이버블로그](https://blog.naver.com/mku92/222553278702)
 * [최병선 교수님 데이터사이언티스트를 위한 금융공학](https://brunch.co.kr/@gauss92tgrd/52)
 * [퀀트에 입문하게 하게 도와준 책들 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=53)
+* [Machine Learning for Algorithmic Trading - Second Edition | Packt](https://www.packtpub.com/product/machine-learning-for-algorithmic-trading-second-edition/9781839217715#_ga=2.28193658.715420558.1686573916-526024527.1686573916)
+  * [Quant 에 정말 좋은 책 추천 – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4531)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
