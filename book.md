@@ -750,6 +750,11 @@ Book
 * [The Cold Start problem](https://brunch.co.kr/@clickb7402/144)
   * ★★★★☆ 2023.06.01~05 네트워크 효과에 대한 책
   * 한라 325.1-첸63ㅋ 탐라 문325.21-첸62ㅋ
+  * [콜드 스타트 - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/the_cold_start_problem)
+  * [콜드 스타트](https://github.com/hyunjun/bookmarks/blob/master/books/the_cold_start_problem.md)
+  * [콜드 스타트. ★★★★☆ 2023.06.01~05 네트워크 효과에 대한 책 | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EC%BD%9C%EB%93%9C-%EC%8A%A4%ED%83%80%ED%8A%B8-6edfdff9fc80)
+  * [콜드 스타트](https://jh4hj.tistory.com/entry/%EC%BD%9C%EB%93%9C-%EC%8A%A4%ED%83%80%ED%8A%B8)
+  * [콜드 스타트 - Jun’s Substack](https://recur.substack.com/p/0d4)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
