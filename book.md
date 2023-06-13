@@ -1597,6 +1597,11 @@ Book
 * [물고기는 존재하지 않는다 - YouTube](https://www.youtube.com/watch?v=wqKmGB2KZxw)
   * ★★★★☆ 2023.05.17 물고기가 인간의 자의적인 분류라는 깜짤 놀랄 사실과, 이 (존재하지 않는) 물고기라는 종의 분류를 주도한 인물이 스탠포드 대학과 관계가 있고, 우생학을 미국에 보급하는데 앞장선 문제의 인물이며, 그로 인해 미국이 얼마나 영향을 받았는지(그래서 비록 사문화되었다고는 하지만, 아직도 법에 남아있다는) 여러가지 놀라운 사실을 알게 되었다. 생선을 좋아하는데, 앞으로 생선을 먹을 때마다 이 책이 생각나지 않을까 하는 좀 수준 낮은 생각도 들고, 우생학이라는 지금은 사라졌다고 생각한 인종차별이 사실은 아직도 그림자를 드리우고 있다는 불쾌한 사실까지 많은 생각이 들었다. 그래도 이 책이 출판된 이후 스탠포드/인디애나 대학의 데이비드 조던 이름이 붙은 건물이 이름이 변경되었다는 에필로그를 보면 미국의 힘이 조금은 남아있단 생각도 든다.
   * 한라 490.99-밀294ㅁ 탐라 문490.99-밀233ㅁ 우당 문490.99-밀233ㅁ
+  * [물고기는 존재하지 않는다 - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/books/why_fish_dont_exist)
+  * [물고기는 존재하지 않는다](https://github.com/hyunjun/bookmarks/blob/master/books/why_fish_dont_exist.md)
+  * [물고기는 존재하지 않는다. ★★★★☆ 2023.05.17 물고기가 인간의 자의적인 분류라는 깜짝… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%8A%94-%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-297730e56928)
+  * [물고기는 존재하지 않는다](https://jh4hj.tistory.com/entry/%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%8A%94-%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
+  * [물고기는 존재하지 않는다 - Jun’s Substack](https://recur.substack.com/p/081)
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
