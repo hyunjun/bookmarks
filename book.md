@@ -748,7 +748,7 @@ Book
   * [다이브 딥](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9D%B4%EB%B8%8C-%EB%94%A5)
   * [다이브 딥 - Jun’s Substack](https://recur.substack.com/p/3b3)
 * [The Cold Start problem](https://brunch.co.kr/@clickb7402/144)
-  * ★★★★☆ 2023.06.01~05
+  * ★★★★☆ 2023.06.01~05 네트워크 효과에 대한 책
   * 한라 325.1-첸63ㅋ 탐라 문325.21-첸62ㅋ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
