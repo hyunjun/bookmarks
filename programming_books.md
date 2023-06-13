@@ -3311,6 +3311,7 @@ Programming Books
   * [출시를 통한 배움 그리고 프로덕트 비전 설정](https://brunch.co.kr/@graypool/968)
   * [프로덕트 비전에서 프로덕트 전략으로 전환](https://brunch.co.kr/@graypool/970)
   * [프로덕트 전략에서 프로덕트 로드맵으로](https://brunch.co.kr/@graypool/971)
+  * [로드맵 전환 과정에서 모호함 다루기](https://brunch.co.kr/@graypool/988)
 * (NOT YET) [프로덕트 매니지먼트](https://www.hanbit.co.kr/store/books/look.php?p_code=B8246471071)
 
 # Programmer, 자기계발?
