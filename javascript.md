@@ -3917,6 +3917,8 @@ Javascript
 * [Understanding Fragments in React](https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a)
 * [**React-docs-analyze - 리액트 공식문서 파헤치기**](https://github.com/sangheon-kim/React-docs-analyze/)
 * [React Concurrent Mode](https://ideveloper2.tistory.com/170)
+* [Understanding React Concurrency :: Building Better Software Slower](https://www.bbss.dev/posts/react-concurrency/)
+  * [번역 리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency)
 * [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
