@@ -2562,6 +2562,7 @@ Business
 * [설리번 선생님! 아직도 형태가 기능을 따라야 하나요?](https://brunch.co.kr/@cliche-cliche/184)
 * [Bing AI의 UX분석하기: 유저 습관 만드는 '훅'모델과 함께 | 요즘IT](https://yozm.wishket.com/magazine/detail/2054/)
 * [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
+* [VDIASI23 - Simone de Gijt - Co-creation between UX and Software - YouTube](https://www.youtube.com/watch?v=CwHZle02rwg)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
