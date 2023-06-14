@@ -454,6 +454,8 @@ PyTorch
   * [DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
 * [rlpyt - Deep Reinforcement Learning in PyTorch](https://github.com/astooke/rlpyt)
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
+* [stable-baselines3: PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms](https://github.com/DLR-RM/stable-baselines3)
+  * [Stable-Baselines3 Docs - Reliable Reinforcement Learning Implementations — Stable Baselines3 2.0.0a13 documentation](https://stable-baselines3.readthedocs.io/)
 
 # Rust
 * [tch-rs: Rust bindings for the C++ api of PyTorch](https://github.com/LaurentMazare/tch-rs)
