@@ -1693,6 +1693,8 @@ Web
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
   * [IMDEV 2023 당신의 웹페이지는 몇 점인가요? - YouTube](https://www.youtube.com/watch?v=aO-z9YmxOUk)
   * [프로파일링을 통한 성능개선, 92점에서 100점까지(feat. lighthouse) · Present](https://present.do/documents/63b7e0f61c24a973ceae629a)
+  * [FE 성능개선기 1부: 주문하기 – tech.kakao.com](https://tech.kakao.com/2023/06/13/fe-performance-improvement-1/)
+  * [FE 성능개선기 2부: 카카오 비즈니스폼 – tech.kakao.com](https://tech.kakao.com/2023/06/13/fe-performance-improvement-2/)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [PageSpeed Insights](https://pagespeed.web.dev/)
