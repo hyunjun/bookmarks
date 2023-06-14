@@ -1115,6 +1115,7 @@ Scala
     * [Zymposium - Crafting ChatGPT Plugin with ZIO - YouTube](https://www.youtube.com/watch?v=iOh55bwYOGg)
     * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=1jcaTeQgMhk)
     * [Zymposium - Implementing a New ZIO Feature - YouTube](https://www.youtube.com/watch?v=RA24E-674MY)
+    * [Zymposium - Reloadable Services with ZIO - YouTube](https://www.youtube.com/watch?app=desktop&v=wwS19ZNTS_k)
     * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
     * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
     * Fibers
