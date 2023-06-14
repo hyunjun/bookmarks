@@ -1741,6 +1741,7 @@ Docker
     * [Sync 10,000 Argo CD Applications in One Shot | by Jun Duan | Feb, 2023 | ITNEXT](https://itnext.io/sync-10-000-argo-cd-applications-in-one-shot-bfcda04abe5b)
       * Argo CD에서 수천 개의 앱을 Kubernetes 클러스터에 동기화할 때 병목 지점을 확인하기 위해 2천 개에서 만개까지의 애플리케이션을 동기화하는 실험을 한 과정
       * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
+    * [ArgoCD Vault Plugin | docmoa](https://docmoa.github.io/04-HashiCorp/06-Vault/04-UseCase/argocd-vault-plugin.html)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
   * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
