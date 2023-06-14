@@ -2201,6 +2201,7 @@ Java
 * [11 Simple Java Performance Tuning Tips](https://stackify.com/java-performance-tuning/)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 1 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
+* [VDIASI23 - Ana-Maria Mihălceanu - A Glance At The Java Performance Toolbox - YouTube](https://www.youtube.com/watch?v=irV3KVIcoN0) Jlink Jcmd Jstat Jmap JFR
 * Valhalla
   * [미래의 Java 미리보기 - 앰버와 발할라 프로젝트를 중심으로](https://www.slideshare.net/OracleDeveloperkr/main-session-java)
   * [Project Valhalla – Java on the path to better performance - Pretius](https://pretius.com/blog/project-valhalla-java/)
@@ -2266,6 +2267,7 @@ Java
 * [테스트 대역폭 늘리기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/test-bandwidth/)
 * [**MC/DC coverage - YouTube**](https://www.youtube.com/watch?v=HzmnCVaICQ4) modified condition / decision coverage
 * [10분 테코톡 제이의 단위 테스트 - YouTube](https://www.youtube.com/watch?v=mIO4Rbe_M74)
+* [VDIASI23 - Erwin Manders - Test automation guide: How to move away from chain tests - YouTube](https://www.youtube.com/watch?v=vdZBz2v4g-s) Junit Jupiter Extensions, Wiremock, Test Container, Contract testing
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
