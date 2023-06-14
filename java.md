@@ -1514,6 +1514,8 @@ Java
   * [15. Spring - 외부 jar파일을 Maven 로컬 레파지토리에 추가하기](https://kim-jong-hyun.tistory.com/27)
   * [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://worace.works/2021/04/04/jar-hell-part-1-compilation-classpath-libraries/)
 * [Micronaut Servlet - a New Micronaut Project for Servlet API Developers](https://www.infoq.com/news/2020/05/micronaut-servlet-released/)
+* [MicroProfile](https://microprofile.io/)
+  * [VDIASI23 - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud - YouTube](https://www.youtube.com/watch?v=KVXTLlQzuoc)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Mojave - Java Web MVC Framework](http://mojavemvc.org/)
 * Nexus
