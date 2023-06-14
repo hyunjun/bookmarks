@@ -391,6 +391,7 @@
 * [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
 * [Kotlin Coroutines to Cats-Effect - Alexandru Nedelcu](https://alexn.org/blog/2023/04/24/kotlin-suspended-functions-to-cats-effect-io/)
 * [Building Kotlin Coroutine Framework from scratch | by Omkar Tenkale | Medium | Kt. Academy](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4)
+* [코루틴(Coroutine)에 대하여](https://dev.gmarket.com/82)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
