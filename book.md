@@ -755,6 +755,9 @@ Book
   * [콜드 스타트. ★★★★☆ 2023.06.01~05 네트워크 효과에 대한 책 | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EC%BD%9C%EB%93%9C-%EC%8A%A4%ED%83%80%ED%8A%B8-6edfdff9fc80)
   * [콜드 스타트](https://jh4hj.tistory.com/entry/%EC%BD%9C%EB%93%9C-%EC%8A%A4%ED%83%80%ED%8A%B8)
   * [콜드 스타트 - Jun’s Substack](https://recur.substack.com/p/0d4)
+* [리처드 루멜트 크럭스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314397526)
+  * ★★★☆☆ 2023.06.12~15 아직 내 수준이 전략을 보는 정도에 미치지 못해서인지, 좋은 책이지만 구체적으로 어떻게 실천하면 활용할 수 있을지는 잘 모르겠음
+  * 우당 문325.1-루33ㅋ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -779,8 +782,6 @@ Book
   * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
 * (NOT YET) [설득의 디테일ㅣ원하는 것을 얻는 섬세한 대화의 기술 9가지 - YouTube](https://www.youtube.com/watch?v=syMYBWU1iEU)
   * 한라 325.26-보17ㅅ 우당 325.26-보17ㅅ
-* (NOT YET) [리처드 루멜트 크럭스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314397526)
-  * 우당 문325.1-루33ㅋ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
