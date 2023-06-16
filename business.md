@@ -694,6 +694,7 @@ Business
 * [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77) RICE와 비교
 * [3. 당신은 할 일들의 우선순위를 어떻게 판단하시나요?](https://maily.so/boost.life.density/posts/1dd70d5a)
 * [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
+* [우선순위를 어떻게 정할까](https://brunch.co.kr/@hyungsukkim/174)
 
 # 조직 구조
 * [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)
