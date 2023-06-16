@@ -309,6 +309,8 @@
 * [polars: Rust DataFrame library](https://github.com/ritchie46/polars)
   * [I wrote one of the fastest DataFrame libraries | Ritchie Vink](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
   * [Polars: The Next Big Python Data Science Library... written in RUST? - YouTube](https://www.youtube.com/watch?v=VHqn7ufiilE)
+* [posh: Type-Safe Graphics Programming with Functional Shaders](https://github.com/leod/posh)
+  * [Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog](https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html?)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
