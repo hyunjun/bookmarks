@@ -34,6 +34,7 @@
 
 # Coworking space & workation
 * [인베스트제주>2023 제주 워케이션 설명회](https://investjeju.or.kr/workation?fbclid=IwAR1hx0IcEmVMSwrVHYbj3XDHCcWaiJgKOGyMLqWGpODT3UXbQp2hie6noXo)
+* [제주워케이션 - 제주워케이션](https://www.jejuworkation.or.kr/)
 * [제주, 대정 워케이션](https://jejuworknroll.oopy.io/)
 * [코사이어티 빌리지 제주 cociety village jeju](https://cocietyvillage.co.kr/)
 * [컬쳐히어로제주](https://cultureherojeju.net/40)
