@@ -337,7 +337,6 @@ Business
 * [직장에 못된 놈 많은데…그들이 잘나간다고요? 뉴욕대 심리학 교수 인터뷰 - 매일경제](https://www.mk.co.kr/news/business/view/2022/03/243963/) 못된 직장 동료들을 어떻게 대할까
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
-* [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
@@ -1705,6 +1704,7 @@ Business
 * [명시적 권위 없이 영향력 행사하기](https://maily.so/boost.life.density/posts/f43bc37d)
   * [현대적 합의와 영향력의 6가지 원천 모델](https://brunch.co.kr/@graypool/992)
 * [뛰어난 리더에게 발견되는 8가지 ‘역발상’ - 인사이트](https://www.insight.co.kr/newsRead.php?ArtNo=4106)
+* [덜 명령하면서 더 힘을 실어주는 리더가 되기](https://brunch.co.kr/@graypool/1001)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -1984,6 +1984,7 @@ Business
 * [Value Props: Create a Product People Will Actually Buy - YouTube](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
+* [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2056,6 +2057,7 @@ Business
 # Sales
 * [Mark Cuban’s advice for his younger self: 'Be a salesperson’](https://www.cnbc.com/2022/08/17/mark-cubans-advice-for-his-younger-self-be-a-salesperson-.html)
   * [Asking Mark Cuban the advice he’d give to his younger self🧠🤯 - YouTube](https://www.youtube.com/shorts/3M7Or_YHT4U)
+* [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [B2B 영업인력](https://www.thestartupbible.com/2022/03/how-to-hire-a-b2b-salesman.html)
 * [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [B2B SaaS 영업의 시스템화](https://www.thestartupbible.com/2023/04/systemizing-and-replicating-b2b-saas-sales-process.html)
