@@ -3674,6 +3674,7 @@ Programming
   * 이제 보안은 기술적인 문제가 아니라 인적 요소와 기존 보안 기술을 채택하는 데 드는 비용의 문제
 * [AppSec is too hard!? by Philippe De Ryck - YouTube](https://www.youtube.com/watch?v=LsZjUpeel8c)
 * [토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)
+* [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
