@@ -932,6 +932,7 @@ Data Science
 * [TikTok for Text! 라이너 앱 Session-based Recommender 구축기 – The Highlights – 라이너 팀 블로그](https://blog.getliner.com/sessrec/)
 * [The TikTok recommender system](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7050129099549249536-TctQ/)
 * [추천시스템 Cold Start 문제는 어떻게 해결할까?](https://techblog-history-younghunjo1.tistory.com/166)
+* [토스ㅣSLASH 23 - 머신러닝으로 더 똑똑하게 증권 뉴스 제공하기 - YouTube](https://www.youtube.com/watch?v=dnxaTrKJr0c)
 * [Awesome-Generative-RecSys: A curated list of Generative Recommender Systems (Paper & Code)](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
 ## Recommendation Python
