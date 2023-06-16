@@ -1268,6 +1268,7 @@ NLP
 * [Building Large Language Model at Scale - Speaker Deck](https://speakerdeck.com/inureyes/building-large-language-model-at-scale)
 * [LLMOps란 무엇인가? - LLMOps 정의, 예시 - 모두의연구소](https://modulabs.co.kr/blog/llmops-intro/)
 * [LLMOps (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=Fquj2u7ay40)
+* [IT TREND FMOps, LLM 시대의 AI 앱 개발 방법](https://tech.kakaoenterprise.com/196)
 * [Miguel Martínez & Meriem Bendris - Building Large-scale Localized Language Models - YouTube](https://www.youtube.com/watch?v=7CaLrxbEhC4)
 * [오늘날의 챗GPT가 있기까지, 언어모델의 타임라인 - MIT Technology Review](https://www.technologyreview.kr/chatgpt-is-everywhere-heres-where-it-came-from/)
 * [The State of Multilingual AI](https://www.ruder.io/state-of-multilingual-ai/)
