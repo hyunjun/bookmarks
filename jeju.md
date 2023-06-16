@@ -32,6 +32,21 @@
 * [제주도, 남해, 인천, 부산까지. 인생샷 건지는 전국구 바다뷰 카페 5 | 얼루어 코리아 (Allure Korea)](https://www.allurekorea.com/2022/05/26/%EA%B7%B8%EC%A0%80-%EB%A9%8D%ED%95%98%EB%8B%88-%EC%95%89%EC%95%84%EC%9E%88%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%B0%94%EB%8B%A4-%EB%B7%B0-%EC%B9%B4%ED%8E%98) 휴일로 요요무문
 * ["SNS에 올렸더니 해외여행 갔냐고 물어봐요" 남다른 스케일을 자랑하는 우리나라 최고 카페 TOP6](https://totoba.co.kr/157) 제주 더 클리프
 
+# Coworking space & workation
+* [인베스트제주>2023 제주 워케이션 설명회](https://investjeju.or.kr/workation?fbclid=IwAR1hx0IcEmVMSwrVHYbj3XDHCcWaiJgKOGyMLqWGpODT3UXbQp2hie6noXo)
+* [제주, 대정 워케이션](https://jejuworknroll.oopy.io/)
+* [코사이어티 빌리지 제주 cociety village jeju](https://cocietyvillage.co.kr/)
+* [컬쳐히어로제주](https://cultureherojeju.net/40)
+* [Dear Monday](https://dearmonday.io/)
+* [THE HYUIL :: 더휴일 워케이션](https://thehyuil.co.kr/)
+* [집무실 - 집 근처 사무실](https://www.jibmusil.com/)
+* [오피스제주(O-PEACE)](https://o-peace.com/)
+* [리플로우 re:flow(@reflow.city) • Instagram 사진 및 동영상](https://www.instagram.com/reflow.city/)
+  * [지속가능한 커뮤니티의 조건, 지역 니즈 채워주는 ‘공간’에 있어 | 스페셜리포트 | DBR](https://dbr.donga.com/article/view/1101/article_no/10863/ac/search?mibextid=Zxz2cZ)
+* [spacemono.co.kr](https://www.spacemono.co.kr/)
+* [TRUSTAY](https://trustay.kr/)
+* 함덕 [공유오피스 페이지를 소개합니다](https://blog.naver.com/shareoffice_page/223017617349)
+
 # Etc
 * [제주책방올레 지도](http://jejugoodtravel.com/pages.php?p=2_2_1_1)
 * [어멍유통](http://place.map.daum.net/1854681583)
