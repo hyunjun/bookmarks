@@ -1512,6 +1512,10 @@ Book
   * 1권 ★★★☆☆ 2023.05.06
   * 2권 ★★★☆☆ 2023.05.28 저자의 제갈량에 대한 평가; 초두효과(첫인상)때문에 평생 위연을 의심했고 통제욕구로 인해 모든 걸 혼자 처리해서 인재를 키우지 않았지만 자신의 신비한 이미지를 만들고 유지하는데 온갖 노력을 기울여 역사에 길이 남은 인물
   * 우당 문325.211-천67ㅅ-1
+  * [심리학이 제갈량에게 말하다](https://github.com/hyunjun/bookmarks/blob/master/books/psychology_zhuge_liang.md)
+  * [심리학이 제갈량에게 말하다. 1권 ★★★☆☆ 2023.05.06 | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9D%B4-%EC%A0%9C%EA%B0%88%EB%9F%89%EC%97%90%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8B%A4-ff47a636080d)
+  * [심리학이 제갈량에게 말하다](https://jh4hj.tistory.com/entry/%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9D%B4-%EC%A0%9C%EA%B0%88%EB%9F%89%EC%97%90%EA%B2%8C-%EB%A7%90%ED%95%98%EB%8B%A4)
+  * [심리학이 제갈량에게 말하다 - Jun’s Substack](https://recur.substack.com/p/2e1)
 * [심리학이 조조에게 말하다 1~2 세트 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305104962)
   * ★★★☆☆ 2023.05.07
   * 한라 325.211-천66ㅅ-1 탐라 문325.211-천67ㅅ-1, 2 우당 문325.211-천67ㅅ-1, 2
