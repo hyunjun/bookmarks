@@ -193,6 +193,7 @@ Deep Learning
   * [OpenAI는 뉴럴 네트워크 대형 모델을 어떻게 학습시키는가](https://velog.io/@aldente0630/%EB%8C%80%ED%98%95-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%9B%88%EB%A0%A8-%EA%B8%B0%EB%B2%95)
   * [OpenAI API with Python | 3 Use Cases with codes - YouTube](https://www.youtube.com/watch?v=yNSo6cWpDSM)
   * [Function calling and other API updates](https://openai.com/blog/function-calling-and-other-api-updates)
+    * [OpenAI Function Calling | 🦜️🔗 LangChain Tools & Agents for OpenAI Function - YouTube](https://www.youtube.com/watch?v=Sn9z6ey5zo4)
     * [Sung Kim - #openai #functioncall #plugin #skynet #무섭고놀라운아침 OpenAI... | Facebook](https://www.facebook.com/hunkims/posts/pfbid0359RoM8EpsR8hfmvVML73MMVVrL9gT6yiKKhtJ3z7HkV1cyicDqMqMMkZEVDwhBLkl)
   * [OpenAI 의 미래 로드맵 - 샘 알트만 대담 요약 - TILNOTE](https://tilnote.io/pages/64795bc39dead21f3a1309ce)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
