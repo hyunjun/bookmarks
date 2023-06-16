@@ -337,6 +337,7 @@ Programming
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
+* [고등학교 백엔드 개발자 관점에서 본 제 3회 당근마켓 SRE 밋업 내용과 후기](https://velog.io/@hope0206/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EC%A0%9C-3%ED%9A%8C-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-SRE-%EB%B0%8B%EC%97%85-%EB%82%B4%EC%9A%A9%EA%B3%BC-%ED%9B%84%EA%B8%B0)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Delivery Tech - All Things Tech at Delivery Hero - Delivery Hero - Tech Blog**](https://tech.deliveryhero.com/our-reliability-manifesto/)
   * [The Delivery Hero Reliability Manifesto | 문섭스블로그](https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/)
