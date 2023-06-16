@@ -275,6 +275,7 @@ Programmer
 * [Part 1 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223073082777)
 * [Part 2 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223074172802)
 * [Part 3 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223075385923)
+* [구글 시니어 개발자가 성장을 위해 선택한 길 | 요즘IT](https://yozm.wishket.com/magazine/detail/2066/)
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
