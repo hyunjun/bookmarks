@@ -738,6 +738,7 @@ Java
 * [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
 * [intellij에서 mybatis generator 플러그인을 사용해 봅시다](https://codingdog.tistory.com/558)
 * [7 Must have IntelliJ IDEA Plugins in 2021 for Java Developers | CodersTea](https://www.coderstea.com/post/java/7-must-have-intellij-idea-plugins-in-2021-for-java-developers/)
+* [코드 가독성을 높이는 젯브레인 계열 IDE 에디터 세팅과 플러그인 추천 | by Bernard | 직방 기술 블로그 | Jun, 2023 | Medium](https://medium.com/zigbang/%EC%BD%94%EB%93%9C-%EA%B0%80%EB%8F%85%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%8A%94-%EC%A0%AF%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B3%84%EC%97%B4-ide-%EC%97%90%EB%94%94%ED%84%B0-%EC%84%B8%ED%8C%85%EA%B3%BC-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%B6%94%EC%B2%9C-b51b9e87f221)
 * [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
 * [String Manipulation - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
   * [인텔리제이 플러그인 String Manipulation - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-string-manipulation/)
