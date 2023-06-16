@@ -135,6 +135,9 @@ iOS
 * [Swift 5.9 슬쩍 맛보기 (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/376)
 * [Expand on Swift macros (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/377)
 
+# Conference
+* [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
+
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
 * [iOS에서 엑셀파일 만들기(feat. libxlsxwriter)](http://blog.canapio.com/140)
