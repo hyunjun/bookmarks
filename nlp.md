@@ -1304,6 +1304,7 @@ NLP
 * [Paper Review From 175B to 7B – DSBA](http://dsba.korea.ac.kr/seminar/?mod=document&uid=2675)
 * [언어모델의 원리와 만들기 – tech.kakao.com](https://tech.kakao.com/2023/06/05/languagemodel-mlm-clm/)
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
+* [Building the data framework for LLMs | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/building-the-data-framework-for-llms-bca068e89e0e)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [aviary: Ray Aviary - evaluate multiple LLMs easily](https://github.com/ray-project/aviary)
