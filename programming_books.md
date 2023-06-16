@@ -1699,6 +1699,9 @@ Programming Books
 
 * [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
   * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
+* [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
+  * ★★★☆☆ 2023.06.16 기술적인 부분은 없으나 전반적으로 살펴보고 대략의 개념을 잡기 좋음
+  * 우당 문004.588-이79ㄷ
 * (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
 * (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
@@ -1734,8 +1737,6 @@ Programming Books
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
-* (NOT YET) [디지털 플랫폼 전략 수립을 위한 쿠버네티스 실전 활용서](https://bjpublic.tistory.com/479)
-  * 우당 문004.588-이79ㄷ
 * (NOT YET) [매니징 쿠버네티스 - 창시자가 알려주는 쿠버네티스 클러스터 현장 운영 기법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1668)
 
 # Domain Driven Development DDD
