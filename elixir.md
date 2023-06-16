@@ -111,6 +111,8 @@ Elixir
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
 * [Absinthe for Large Elixir Applications | AppSignal Blog](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
 * [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
+* [The 3 features that will make you fall for Elixir | by WTTJ Tech | Welcome Tech | Medium](https://medium.com/wttj-tech/the-3-features-that-will-make-you-fall-for-elixir-598c9a31172d)
+* [Exploit Guard: Open Source Runtime Application Self Protection for Elixir](https://paraxial.io/blog/exploit-guard)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
