@@ -1010,6 +1010,8 @@ App
     * [CSS 개발자를 위한 VSCode 확장 | 웹으로 말하기](https://mytory.net/archives/13429)
     * [VSCode와 GitHub. GitHub은 git repository들의 모임입니다. 자체적으로… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/vscode%EC%99%80-github-db05ca48bb9b)
     * [Git - Google Slides](https://docs.google.com/presentation/d/1b546zxH58lIrdYaYLufQum3ArKKF9cjW4ZvmC10jwIE)
+    * [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
+    * `git config --global credential.helper osxkeychain`
   * Online
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
