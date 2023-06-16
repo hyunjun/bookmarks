@@ -728,6 +728,7 @@ Clojure
 * [Zach Tellman - Always Be Composing - YouTube](https://www.youtube.com/watch?v=3oQTSP4FngY)
 * [Lessons Learned; the Nice and Accurate Counsel of Alex Miller, Programmer – Alex Miller - YouTube](https://www.youtube.com/watch?v=KeZNRypKVa4)
 * [On Abstraction – Zach Tellman - YouTube](https://www.youtube.com/watch?v=x9pxbnFC4aQ)
+* [`(def random [:en 001 "abstraction"])` - YouTube](https://www.youtube.com/watch?app=desktop&v=QRCqeLJ2-qQ)
 * [Why We Bet Our Startup on Clojure - YouTube](https://www.youtube.com/watch?v=L9KcoRZcdbc)
 * [제6회 - 2017.11.11 @D2 Startup Factory](https://gist.github.com/ksseono/db476b75f63d98fd0b459d2746913318)
   * [클로저 소개 - 제6회 리스프 세미나 발표](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%86%8C%EA%B0%9C-%EC%A0%9C6%ED%9A%8C-%EB%A6%AC%EC%8A%A4%ED%94%84-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%B0%9C%ED%91%9C-dc6700e0821d)
