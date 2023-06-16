@@ -1353,6 +1353,7 @@ NLP
   * [랭체인러닝데이 챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)
   * [LangChain Crash Course: Build a AutoGPT app in 25 minutes! - YouTube](https://www.youtube.com/watch?v=MlK6SIjcjE8)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
+  * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [lbox-open](https://github.com/lbox-kr/lbox-open)
   * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
