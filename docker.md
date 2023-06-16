@@ -1888,6 +1888,7 @@ Docker
   * [데브옵스 오픈 소스 Karpenter를 활용한 Amazon EKS 확장 운영 전략 | 신재현, 무신사 - YouTube](https://www.youtube.com/watch?v=FPlCVVrCD64)
   * [AWSKRUG 성수소모임발표 - karpenter - mysetting](https://mysetting.io/slides/karpenter-for-eks)
     * [카펜터 by 신재현님 - AWSKRUG 성수 소모임 230221 - YouTube](https://www.youtube.com/watch?v=Re0jZ4Umb80)
+  * [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp/)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
