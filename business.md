@@ -1023,6 +1023,7 @@ Business
 * [초보 CEO의 실수. 비전만 말하기](https://greypencil.tistory.com/133)
 * [경영자는 현대산업사회의 기본적 기관(Organ)](https://brunch.co.kr/@graypool/699)
 * [경영활동은 시행착오로 가능성을 확인하는 일](https://brunch.co.kr/@graypool/961)
+* ["30년 직장동료 다 잘랐다"…인자했던 회장님 돌변한 까닭 백수전의 '테슬람이 간다'](https://v.daum.net/v/20230617070102257)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
