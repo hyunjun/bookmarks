@@ -1044,7 +1044,6 @@ Scala
     * [Zymposium - Proto-Quill Release Party - YouTube](https://www.youtube.com/watch?v=El9fkkHewp0)
     * [Zymposium — Smart Assertions - YouTube](https://www.youtube.com/watch?v=lgCb4-4M-fw)
     * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
-    * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
     * [Zymposium — Full Stack Frontend - YouTube](https://www.youtube.com/watch?v=lJvoeYlRf-g)
     * [Zymposium — Type-Level Sets - YouTube](https://www.youtube.com/watch?v=N_it0qwk7_U)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
@@ -1059,6 +1058,7 @@ Scala
     * [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=-RZk0NGF5BU)
     * [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=wOX3LpLEQ00)
     * [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=nPT_7gIeyMY)
+    * [Getting started with ZIO, part 1](https://softwaremill.com/getting-started-with-zio-part-1/)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * [Home | Ziverge](https://ziverge.com/blog/)
@@ -1132,11 +1132,15 @@ Scala
       * [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
       * [Asynchronous Microservices with ZIO-gRPC and Scala | by λ.eranga | Rahasak Labs | Oct, 2021 | Medium](https://medium.com/rahasak/asynchronous-microservices-with-zio-grpc-and-scala-2e6519cb4e9a)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
+    * [ZIO Backtask: A Background Job Framework for Your Next ZIO Application by Oto Brglez - YouTube](https://www.youtube.com/watch?v=7vJIvx1crD0)
     * zio-config
       * [Part 1: Start writing better Scala with zio-config - YouTube](https://www.youtube.com/watch?v=l5CVQmSp7fY)
       * [Part2: Maximise the use of Scala types (Option & Either in zio-config) - YouTube](https://www.youtube.com/watch?v=SusCbrSK5eA)
       * [Part3: Intro to ADT, and scalable configuration management! - YouTube](https://www.youtube.com/watch?v=LGo_g1GK6_k)
       * [Easy Config For Your App by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=4SrSKluyyKo)
+    * [zio-flow: Resilient, distributed applications powered by ZIO](https://github.com/zio/zio-flow)
+      * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
+      * [Introducing ZIO Flow by Daniel Vigovszky - YouTube](https://www.youtube.com/watch?v=ujJuFd6Vvfc)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
@@ -1155,7 +1159,7 @@ Scala
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
-      * [HOW TO WRITE A (COMPLETELY LOCK-FREE) CONCURRENT LRU CACHE WITH ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
+      * [How to write a concurrent LRU Cache with ZIO STM](https://scalac.io/blog/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
       * [ZIO WORLD - ZIO STM by Dejan Mijic - YouTube](https://www.youtube.com/watch?v=z5bMnAJYDFM)
     * ZIO stream
       * [Speeding up time with Zio TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html)
