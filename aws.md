@@ -491,6 +491,7 @@ AWS
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
 * [AWS를 활용하여 망간 파일전송 시스템 구축하기 | 뱅크샐러드](https://blog.banksalad.com/tech/how-we-transfer-files-in-network-separation-environment/)
 * [AWS Nitro System 기밀 컴퓨팅 기능에 대한 외부 검증 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-nitro-system-gets-independent-affirmation-of-its-confidential-compute-capabilities/)
+* [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1118,6 +1119,7 @@ AWS
 * [“nodeless” 검색결과 - 리눅서의 기술술 블로그](https://linuxer.name/?s=nodeless)
 * ['Tech/Kubernetes' 카테고리의 글 목록](https://blog.netcloudy.im/category/Tech/Kubernetes)
 * [Amazon EKS 윈클릭 배포 가이드 (’23.6.6 업데이트)](https://gasidaseo.notion.site/Amazon-EKS-23-6-6-16ed4098c3314802a1e4dbf12a9d1da8)
+* [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
