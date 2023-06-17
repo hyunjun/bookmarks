@@ -561,20 +561,6 @@ Programming
 * [Towards an understanding of technical debt | Kellan Elliott-McCrea](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 * [The True Meaning of Technical Debt 💸 - Refactoring](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
-* [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
-* [**기술부채가 쌓여있는 상황에서 서비스 성능 임팩트 있게 개선하기 | by GeonHo Tony Han | CLASS101 | Jul, 2021 | Medium**](https://medium.com/class101/%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EA%B0%80-%EC%8C%93%EC%97%AC%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EC%9E%88%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-b4c6d8ccc9c6)
-* [What Is Technical Debt and Why Is It So Painful? | by Ben "The Hosk" Hosking | Jan, 2022 | Dev Genius](https://blog.devgenius.io/what-is-technical-debt-and-why-is-it-so-painful-96ef269aebd4)
-* [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
-* [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
-* [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
-* [**Architecture aspects - evolutionary architecture development by Urs Enzler - YouTube**](https://www.youtube.com/watch?v=3yZv6oDfY9E) 전반적인 architecture 관련 사항을 모아놓은 설명
-* [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
-* [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
-* [기술 부채와 이율](https://jojoldu.tistory.com/682)
-* [organizations waste up to 42% of their time due to technical debt](https://www.linkedin.com/posts/pojos_pdf-code-red-the-business-impact-of-code-activity-6983109983836020736-toO2/)
-* [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
-* [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
-* [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
 * [Kent Beck의 Design Play가 무슨 말인가](https://brunch.co.kr/@graypool/771)
 * [욕망 관리하기](https://jojoldu.tistory.com/688)
 * [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
@@ -1615,6 +1601,7 @@ Programming
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [Building Evolutionary Architectures • Rebecca Parsons, Neal Ford & James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=m2ZlX1je3as)
+* [**Architecture aspects - evolutionary architecture development by Urs Enzler - YouTube**](https://www.youtube.com/watch?v=3yZv6oDfY9E) 전반적인 architecture 관련 사항을 모아놓은 설명
 * [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
 * [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
 * [스프링 캠프 2023 후기](https://velog.io/@joosing/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BA%A0%ED%94%84-2023-%ED%9B%84%EA%B8%B0) timezone, strangler pattern, mocking, locust 등 (잊기 쉬운 기초적인 내용을 강의로 들었다는 이야기
@@ -5446,6 +5433,20 @@ Programming
   * [소프트웨어 장인 CHAPTER 6 동작하는 소프트웨어](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-6-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
 * [**장애는 ‘우리의 문제’다 | Popit**](https://www.popit.kr/%ec%9e%a5%ec%95%a0%eb%8a%94-%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%ac%b8%ec%a0%9c%eb%8b%a4/) 기술적인 내용은 아니나 매우 중요한 부분
 * [기술 부채는 무엇인가?](https://brunch.co.kr/@graypool/673) 기술부채는 개발만이 아니라 회사 전체의 문제(원인도)
+* [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
+* [**기술부채가 쌓여있는 상황에서 서비스 성능 임팩트 있게 개선하기 | by GeonHo Tony Han | CLASS101 | Jul, 2021 | Medium**](https://medium.com/class101/%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EA%B0%80-%EC%8C%93%EC%97%AC%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EC%9E%88%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-b4c6d8ccc9c6)
+* [What Is Technical Debt and Why Is It So Painful? | by Ben "The Hosk" Hosking | Jan, 2022 | Dev Genius](https://blog.devgenius.io/what-is-technical-debt-and-why-is-it-so-painful-96ef269aebd4)
+* [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
+* [Evolution of Architecture-1-What is Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-1-what-is-technical-debt-f0ffaf19c5fb)
+* [Evolution of Architecture-2-How to Pay the Technical Debt? | by Huseyin Kutluca | Software Architecture Foundations | Medium](https://medium.com/software-architecture-foundations/evolution-of-architecture-2-how-to-pay-the-technical-debt-85b8b7b29d4c)
+* [interview Legacy Dive! 아이디어스팀 프론트엔드의 기술 부채 청산하기 | by Youngmin Lee | idus-Tech | May, 2022 | Medium](https://medium.com/idus-tech/interview-legacy-dive-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%8A%A4%ED%8C%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84-%EC%B2%AD%EC%82%B0%ED%95%98%EA%B8%B0-b9ad0403a083)
+* [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
+* [기술 부채와 이율](https://jojoldu.tistory.com/682)
+* [organizations waste up to 42% of their time due to technical debt](https://www.linkedin.com/posts/pojos_pdf-code-red-the-business-impact-of-code-activity-6983109983836020736-toO2/)
+* [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
+* [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
+* [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
+* [홍영훈 - 사업자산 기술자산 기술부채](https://www.facebook.com/YeongHoon.Hong/posts/pfbid02DBebkUfGsSHzhkM1njSwywMS5ZVAN4oGFgxyHhM33Uzdtpv2P7cpMadFBEQZyYwjl)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
 * [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
