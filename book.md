@@ -343,6 +343,11 @@ Book
 * [올림포스 연대기](https://www.hanbit.co.kr/store/books/look.php?p_code=B3180984708)
   * ★★★☆☆ 2023.05.31
   * 한라 219.2-김73ㅇ
+* [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
+  * ★★★☆☆ 2023.06.10, 17
+  * 탐라 문325.7-비78ㄱ 우당 문325.571-비78ㄱ
+  * <img src="images/decisive_shot0.jpg" width="300"/> <img src="images/decisive_shot1.jpg" alt="마케팅은 자전거의 페달이다" width="300"/>
+  * 마케팅을 모르는 나에겐 페달 비유가 가장 와닿고 기억에 남는다. 좋은 제품이 우선이라는 건 누구도 부인할 수 없는 사실이지만 마케팅 또한 필수요소
 * (NOT YET) [안개 속의 고릴라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967800)
   * 한라 499.83-포58ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
@@ -486,8 +491,6 @@ Book
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
-* (NOT YET) [결정적 한 끗](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313536767)
-  * 탐라 문325.7-비78ㄱ 우당 문325.571-비78ㄱ
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
 * (NOT YET) [존 도어의 OKR 레볼루션](https://dbr.donga.com/article/view/1305/article_no/10768)
   * 우당 문539.92-도63ㅈ
