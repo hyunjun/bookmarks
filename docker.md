@@ -463,6 +463,7 @@ Docker
   * [bash](https://docs.docker.com/samples/library/bash/)
   * [Docker with shell script or Makefile](https://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
   * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
+  * [서버 재부팅 시 Docker 안에 특정 Deamon 자동 기동되게 만들기](https://junyharang.tistory.com/397)
 * [내가 Docker를 시작했던 방법](http://realignist.me/code/2017/06/14/docker-my-usecase.html)
 * [특정 포트의 실행 대기하기](http://ohgyun.com/749)
 * [컨테이너에 HTTP 프록시 적용하기](http://ohgyun.com/747)
