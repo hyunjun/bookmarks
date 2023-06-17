@@ -961,6 +961,21 @@ Programming
 * [결제 시스템의 SDK와 API 디자인](https://toss.im/slash-21/sessions/1-7)
 * [Rebuilding Twitter’s Public API - YouTube](https://www.youtube.com/watch?v=axFSaH_-IMw)
 * [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
+* [Migrating Netflix to GraphQL Safely | by Netflix Technology Blog | Jun, 2023 | Netflix TechBlog](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72)
+  * 2022년 Neflix의 모바일 앱은 무중단으로 GraphQL로 마이그레이션, 클라이언트부터 API 계층까지 전면적인 개편
+  * 이전에는 API 팀에서 만든 모노리식 Falcor API 사용
+    * [Falcor: One Model Everywhere](https://netflix.github.io/falcor/)
+  * 1단계, 2020년 UI 엔지니어가 GraphQL로 전환할 준비가 끝나자, 전면적인 마이그레이션 전에 Falcor API 앞에 GraphQL Shim 서비스 생성
+    * 이 Shim 서비스를 통해
+      * 클라이언트는 GraphQL로 전환하며 실험
+      * 서버 측은 별도로 마이그레이션 진행 가능
+    * 이를 위해 AB 테스팅 사용
+  * 2단계, Federated GraphQL을 사용
+    * 각 도메인 팀의 GraphQL 서비스를 이용
+    * 레거시 Falcor와 GraphQL Shim 사용 중지
+    * 이를 안전하게 하기 위해 Replay 테스팅과 스티키 카나리 이용
+  * 기능적 요구사항과 멱등성을 가진 요청을 테스트할 때는 Replay 테스팅 사용
+  * 캐싱, 로깅 등 비기능적 요구사항을 테스트할 때는 AB 테스팅과 스티키 카나리 사용
 * [GraphQL Federation으로 여러 GraphQL 서비스 통합하기 | by 김승수 | 오토피디아 | Feb, 2023 | Medium](https://medium.com/autopedia/graphql-federation%EC%9C%BC%EB%A1%9C-%EC%97%AC%EB%9F%AC-graphql-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%86%B5%ED%95%A9%ED%95%98%EA%B8%B0-38d5741e7e05)
 * [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
   * [Slack이 API를 디자인 하는 법 | GeekNews](https://news.hada.io/topic?id=4854)
@@ -1812,7 +1827,6 @@ Programming
 * [추천팀의 DDD 도입기 – tech.kakao.com](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
 * [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
 * [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
-* [GraphQL과 도메인 이벤트의 관계](https://brunch.co.kr/@graypool/784)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
