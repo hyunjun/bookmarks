@@ -1849,6 +1849,7 @@ Docker
   * [스포카에서 Helm을 도입 하는 이야기](https://spoqa.github.io/2020/03/30/k8s-with-helm-chart.html)
   * [DevOps Tutorials | Helm Charts | Create and Install Your First Helm Charts | Kubernetes - YouTube](https://www.youtube.com/watch?v=ZVMJGBr27yM)
   * [Helm Your Way with Kubernetes • Ana-Maria Mihalceanu • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=grEueqT24YI)
+  * [`helm upgrade --install` 오류](https://jybaek.tistory.com/998)
   * [spaceone-helm: A helm chart for SpaceONE](https://github.com/spaceone-dev/spaceone-helm)
 * [hub.cncf.io - Find, install and publish Kubernetes packages](https://hub.cncf.io/)
 * ipify [K8s 레시피 - ipify » 안드로메다 토끼](https://andromedarabbit.net/k8s-%eb%a0%88%ec%8b%9c%ed%94%bc-ipify/)
