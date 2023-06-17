@@ -279,6 +279,26 @@ SQL
 * [AWS RDS Storage 성능 비교. AWS 서비스에 사용할 Storage에 대한 자료를 찾아보다가  AWS… | by Kimmatt | 직방 기술 블로그 | Apr, 2023 | Medium](https://medium.com/zigbang/aws-rds-storage-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-3d1150b97b2e)
 * [Amazon Aurora I/O-Optimized 클러스터 구성- I/O 집약적 애플리케이션을 위한 최대 40% 비용 절감할 수 있는 스토리지 옵션 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
 * [실시간 복제 데이터를 이관시키는 방법. 안녕하세요. 스테이지랩스(STAYGE Labs) Back-End 팀… | by Victor Kang | staygelabs | May, 2023 | Medium](https://medium.com/stayge-labs/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%B4%EA%B4%80%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95-498d3d52c8b4) migration DynamoDB to Aurora PostgreSQL
+* [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+  * Amazon RDS에서 단일 Postgres 데이터베이스를 사용하고 있던 Figma가 더는 하나의 데이터베이스로 서비스하기 어려워서 점진적으로 개선해 나간 과정을 정리한 글
+  * Figma는 2022년까지 Amazon RDS Postgres 데이터베이스 사용, CPU 사용률 65%
+    * 이 문제를 완화하기 위해 일단 데이터베이스의 사용을 올리고 읽기 리플리카를 만든 뒤 PgBouncer를 추가해서 연결 수 제어
+    * 하지만 부하의 상당 부분이 쓰기와 관련되어 있었고 복제 지연시간 때문에 모든 읽기를 리플리카로 옮길 수 있는 상황도 아님
+  * 수평 확장이 되는 NoSQL이나 Vitess 등을 고려했지만
+    * 애플리케이션 수정도 많이 필요
+    * 직접 운영에 필요한 관련 경험이 없었기 때문에
+    * 매니지드 솔루션을 그대로 이용하고자 함
+  * 데이터베이스를 테이블별로 수직 분할하기로 결정
+    * 테이블 그룹을 자체 데이터베이스 베이스로 옮기기로 하고
+    * 이 수직 파티셔닝은 원본 데이터베이스에 부담을 줄이면서 향후 테이블의 하위 집합을 수평으로 샤딩할 수 있는 장점
+  * 문제는 파티셔닝이 쉬운지 여부
+    * 테이블을 이동하면 트랜잭션이나 조인 등의 기능을 잃게 되므로
+    * 애플리케이션 재작성하는 비용이 클 수 있음
+  * Ruby에서 ActiveRecord를 사용하고 있었으므로
+    * 런타임 유효성 검사기를 만들어서 같은 테이블 그룹을 참조하는 쿼리와 트랜잭션을 기록해서 파티셔닝의 후보로 만듦
+  * 마이그레이션 중 가용성 영향을 1분 미만이면서 반복할 수 있고 파티션을 취소할 수 있는 요구사항을 맞추려면 직접 만드는 수밖에 없었음
+  * 애플리케이션이 파티셔닝과 호환되도록 한 뒤 PgBouncer를 하나 더 추가해서 트래픽을 분할하여 호환성 검사를 하면서 서비스에 영향이 가게 하고 문제가 없으면 분리된 데이터베이스를 보게 함
+  * 첫 작업에서 2개의 테이블을 옮기고 2022년 10월에는 50개의 테이블을 옮기면서 CPU 사용률은 10%까지 감소
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
