@@ -690,6 +690,8 @@ Book
   * 한라
 * (NOT YET) [나라를 옮겨 다니며 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=285012949)
   * [기사 - 쿠마르의 인도 이야기 13 : 국제학교는 영어 수업에서 영어를 가르치지 않는다](https://www.ddanzi.com/ddanziNews/772764854)
+* (NOT YET) [교육이 없는 나라](https://www.metroseoul.co.kr/article/20230413500294)
+  * 우당 문370.4-이58ㄱ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
