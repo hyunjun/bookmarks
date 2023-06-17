@@ -4569,6 +4569,7 @@ Javascript
     * 그 결과 iOS와 Android의 구현 차이를 줄일 수 있었고 서로 협업도 가능
 * [React Native and Node.js | SMS OTP Phone Number Verification in under 5 minutes - YouTube](https://www.youtube.com/watch?v=zdBkvRj54J0)
 * [Securing React Native Applications | by Kashif Samman | Feb, 2023 | Medium](https://medium.com/@mr.kashif.samman/securing-react-native-applications-291353e8e8d3)
+* [토스ㅣSLASH 23 - 달리는 토스 앱에 React Native 엔진 더하기 - YouTube](https://www.youtube.com/watch?v=6H9WQDRFZYg)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
