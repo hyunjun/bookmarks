@@ -1032,6 +1032,7 @@ Interview
 * [개발자 연봉이 올랐어요! – Dreaming for the Future](http://www.chidoo.me/index.php/2021/05/07/2021-developer-salary-shock/)
 * [연봉을 올리기 위한 5가지 준비물 | ㅍㅍㅅㅅ](https://ppss.kr/archives/195592)
 * [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
+* [개발자 연봉 올리는 현실적인 조언](https://f-lab.kr/blog/developer-salary-negotiation)
 * [My Salary Negotiation Strategy. To earn more, I never ask for a higher… | by Alex Ewerlöf | Jan, 2022 | Medium](https://alexewerlof.medium.com/my-salary-negotiation-strategy-4c67419ccbcd)
 * [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 * [Comprehensive.io - Pay Range Tracker](https://www.comprehensive.io/)
