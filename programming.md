@@ -291,6 +291,7 @@ Programming
 * [#5 Error budget](https://bcho.tistory.com/1332)
 * [#6 운영에서 반복적인 노가다 Toil](https://bcho.tistory.com/1333)
 * [SRE Journey — Starting SLO Implementation (Part 1 — Start with SLI) | by Muhammad Jihad A | Sep, 2022 | Medium](https://medium.com/@abbdurahman/sre-journey-starting-slo-implementation-part-1-start-with-sli-e6277e560753)
+* [Managing to Your SLO Amidst Chaos • Liz Fong-Jones • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=Oxmk-DiLrNA)
 * [Look Ma, No Metrics: A Quest Towards Extracting SLOs by Stefano Taillefert & Patrick Bänziger - YouTube](https://www.youtube.com/watch?v=I_ruxXUFQSU)
 * [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
