@@ -295,6 +295,7 @@ Redis
 * [RedisConf17 - How Roblox Keeps Millions of Users up to Date with Redis Pub/Sub - Peter Philips](https://www.youtube.com/watch?v=nXTxXSWBayg)
   * [RedisConf17 - Roblox - How Roblox Keeps Millions of Users Up to Date with Redis Pub/Sub](https://www.slideshare.net/RedisLabs/redisconf17-roblox-how-roblox-keeps-millions-of-users-up-to-date-with-redis-pubsub)
 * [입 개발 Redis 7.x 에서의 ShardedPubSub | Charsyam's Blog](https://charsyam.wordpress.com/2022/04/18/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-7-x-%EC%97%90%EC%84%9C%EC%9D%98-shardedpubsub/)
+* [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기 - YouTube](https://www.youtube.com/watch?v=SF7eqlL0mjw)
 * [Advanced Redis: Subscribe Script to Pub/Sub Channel](https://matt.sh/advanced-redis-pubsub-scripts)
 
 ## PubSub Python
