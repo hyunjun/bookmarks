@@ -819,6 +819,7 @@ Go
 * [short - URL shortening service written in Go and React https://short-d.com](https://github.com/short-d/short)
 * sidh [Golang: 양자 컴퓨터 이후의 암호기술 구현 패키지 sidh 분석](https://jusths.tistory.com/258)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
+* [slog-ctx: The slog-ctx library is designed to facilitate handling context using slog](https://github.com/honestfunction/slog-ctx)
 * [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
 * [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
