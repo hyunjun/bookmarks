@@ -4103,8 +4103,14 @@ Programming Books
   * ★★★★☆ 2023.06.06 전반적으로 좋았고 대부분 공감하는데 개조식 글쓰기를 (개인적으로는 좋아하지만) 권하는 부분은 약간 의문이 들었다. 지금까지 알고 있던 글쓰기 상식(?)에서는 배제되던 부분인데 이게 어떻게 받아들여지는지가 궁금하다. (당연한 것일수도 있으나) https://www.axios.com 에 가서 보면 확실히 책에 나온 여러가지 내용을 실천하고 있음을 알 수 있다. 최소한 미국에서는 확실히 성과(숫자)로 입증하고 있다.
   * 탐라 문802-밴223ㅅ
   * [Brevity is confidence, length is fear](https://www.facebook.com/watch/?v=498587128367481) 간결은 자신감이다. 장황은 두려움이다
+* [Docs for Developers 기술 문서 작성 완벽 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B8810771470)
+  * ★★★☆☆ 2023.06.18
+  * 탐라 문005-바839ㄷ
+  * <img src="images/docs_for_developers.jpg" alt="" width="300"/>
+    * `소프트웨어 공학의 세계에서 잡일`
+    * "잡일이란 수동으로 하며, 반복적이고, 자동화가 가능하고, 전략에 좌우되기보다는 전술적이며, 지속적인 가치를 만들어 내지 못하고, 서비스가 성장함에 따라 선형적으로 linearly 늘어나는 작업입니다."
+    * [Google - Site Reliability Engineering](https://sre.google/sre-book/eliminating-toil/)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
   * 탐라 문011.3-최94ㅊ 우당 문011.3-최94ㅊ
-* (NOT YET) [Docs for Developers 기술 문서 작성 완벽 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B8810771470)
