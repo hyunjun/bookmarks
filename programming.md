@@ -1624,6 +1624,7 @@ Programming
 * [The Next Big Thing In Software Architecture • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DCWo9DuywYo) actor
 * [Just-in-time Architecture • Macklin Hartley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=4TmVEmuRdx8)
 * [The hitchhiker's guide to software architecture and design by Alexandre Touret and Raphaël Semeteys - YouTube](https://www.youtube.com/watch?v=vxwqD3KwdEY)
+* [Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
