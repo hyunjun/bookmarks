@@ -244,6 +244,8 @@ Writing
 * [테크니컬 라이터와 Git](https://tech.kakaoenterprise.com/187)
 * [넷마블 테크니컬 라이터로 일한 8개월의 회고 - 넷마블 기술 블로그](https://netmarble.engineering/8-months-in-the-life-of-a-technical-writer-at-netmarble/)
 * [Engineering Documentation • Lorna Jane Mitchell • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=Z5OrR99OpiY)
+* [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
+* [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
