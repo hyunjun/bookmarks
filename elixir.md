@@ -166,6 +166,7 @@ Elixir
   * [ecto_command](https://github.com/silvadanilo/ecto_command)
 * [ElixirScript - The goal is to convert a subset (or full set) of Elixir code to JavaScript, providing the ability to write JavaScript in Elixir](https://github.com/bryanjos/elixirscript)
 * [Elxlisp - Lisp 1.5 M-expression. Also S-expression is available with invoke option](https://github.com/sasagawa888/Elxlisp)
+* [Elixir Streams](https://www.elixirstreams.com/)
 * [GenStage - elixir로 비트코인 시세 스크랩 (feat. 업비트) 1/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-1-of-3/)
   * [JWT - elixir로 비트코인 시세 스크랩 (feat. 업비트) 2/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-2-of-3/)
   * [prometheus, grafana - elixir로 비트코인 시세 스크랩 (feat. 업비트) 3/3](http://ohyecloudy.com/pnotes/archives/bitcoin-price-scrap-with-elixir-feat-upbit-3-of-3/)
