@@ -1821,6 +1821,8 @@ Book
   * 한라 001.3-박55ㄹ 탐라 문001.3-박55ㄹ 우당 문001.3-박55ㄹ
 * (NOT YET) [아이와 떠나는 제주 여행 버킷리스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299154965)
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
+* (NOT YET) [내 차 타고 세계여행: 러시아 횡단 편](https://www.newswire.co.kr/newsRead.php?no=869040)
+  * 한라 982.902-김52ㄴ
 
 # Wine
 * [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
