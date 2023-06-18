@@ -888,6 +888,7 @@ Vision
 * [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
 
 # Tutorial
+* [🔴컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기 - YouTube](https://www.youtube.com/watch?v=4MfTwR3VFt4)
 * [Computer-vision: Computer Vision implementation](https://github.com/nh9k/Computer-vision)
 * [Digital-Image-Processing: Image Processing Implementation](https://github.com/nh9k/Digital-Image-Processing)
 
