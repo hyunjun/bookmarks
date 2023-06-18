@@ -501,6 +501,7 @@ AWS
 * [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
 * [AWS EC2 리눅스 AMI에 아파치(apache) 서버](https://losskatsu.github.io/it-infra/aws-apache/)
 * [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
+* [Amazon Linux 2023 AMI 와 변경사항 :: OK 괜찮아, 동네 개발자형](https://okjsp.tistory.com/1165644362)
 
 # Amplify
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
