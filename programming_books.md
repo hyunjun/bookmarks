@@ -3644,9 +3644,15 @@ Programming Books
   * 탐라 문005.133-이832ㄴ 우당 문005.133-이832ㄴ
 * (NOT YET) [파이썬 웹 스크레이핑 완벽 가이드 | 위키북스](https://wikibook.co.kr/pyscraping/)
 * (NOT YET) [FastAPI를 사용한 파이썬 웹 개발](https://hanbit.co.kr/store/books/look.php?p_code=B9703548802)
-  * 탐라
+  * 탐라 문005.118-아223ㅍ
   * [FastAPI를 사용한 파이썬 웹 개발](https://jybaek.tistory.com/992)
   * [빠르게 웹앱을 개발할 수 있는 FastAPI .. : 네이버블로그](https://blog.naver.com/drvoss/223082307567)
+  * [web-with-fastapi: 『FastAPI를 사용한 파이썬 웹 개발』(한빛미디어, 2023) 예제 코드 저장소입니다.](https://github.com/hanbit/web-with-fastapi)
+  * [Building-Python-Web-APIs-with-FastAPI: Building Python Web APIs with FastAPI, published by Packt](https://github.com/PacktPublishing/Building-Python-Web-APIS-with-FastAPI)
+  * [Building a Guestbook in Okteto with FastAPI - YouTube](https://www.youtube.com/playlist?list=PLVcXGaCKg-Y3BuoXztK_RLbZFVMXmTEpE)
+  * [Abdulazeez Abdulazeez Adeshina](https://www.youngest.dev/)
+  * [Okteto Blog - Abdulazeez Abdulazeez Adeshina | Okteto](https://www.okteto.com/blog/authors/abdulazeez-abdulazeez-adeshina/)
+  * [Abdulazeez Abdulazeez Adeshina | TestDriven.io](https://testdriven.io/authors/adeshina/)
 * (NOT YET) [파이썬 플라스크 웹 앱 개발 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310567755)
   * 탐라 문005.118-사835ㅍ
 
