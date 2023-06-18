@@ -425,6 +425,7 @@
 * [Practical Spark – Versions (11) – 1ambda](https://1ambda.blog/2021/12/28/practical-spark-11/)
 * [Practical Spark – 자주 묻는 질문들 (12) – 1ambda](https://1ambda.blog/2022/01/02/practical-spark-12/)
 * [40+ Apache Spark best practices & optimisation interview FAQs - Part-2 Spark UI | Java-Success.com](https://www.java-success.com/15-apache-spark-best-practices-memory-mgmt-performance-tuning-interview-faqs-part-2/)
+* [Salting: The Secret Ingredient to Optimize Your Apache Spark Workflows | by Sukumaar Mane | Jun, 2023 | Medium](https://medium.com/@sukumaar/salting-the-secret-ingredient-to-optimize-your-apache-spark-workflows-f2544ee2a1ef)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
