@@ -612,6 +612,7 @@ NoSQL
 * [Supporting 4 Million transactions per second and 7 TB of data per node with Scylla on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/scylla-on-oracle-cloud-infrastructure)
 * [Scylla Summit 2017: Running a Soft Real-time Service at One Million QPS](https://youtu.be/HhGvA75F1xM)
 * [Benchmarking Apache Cassandra (40 Nodes) vs. ScyllaDB (4 Nodes) – The New Stack](https://thenewstack.io/benchmarking-apache-cassandra-40-nodes-vs-scylladb-4-nodes/)
+* [How Discord Stores TRILLIONS of Messages - YouTube](https://www.youtube.com/watch?v=O3PwuzCvAjI)
 
 # Supabase
 * [Supabase - The open source Firebase alternative](https://supabase.io/)
