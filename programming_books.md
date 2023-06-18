@@ -471,6 +471,7 @@ Programming Books
   * [9781800563841_ColorImages.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static.packt-cdn.com/downloads/9781800563841_ColorImages.pdf)
 * (NOT YET) [다시 장인 정신 《소프트웨어 장인 정신 이야기》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/02/28/%EB%8B%A4%EC%8B%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%E3%80%8A%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%E3%80%8B)
   * 한라
+* (NOT YET) [애자일 개발의 기술 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/agile-art)
 
 # Algorithm
 
@@ -654,6 +655,8 @@ Programming Books
   * 한라 004.588-컬878ㅇ
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 위키북스](https://wikibook.co.kr/awsguide)
   * 우당 문004.588-우63ㅇ
+* (NOT YET) [Amazon VPC 네트워킹 원리와 보안 | 에이콘출판사](http://www.acornpub.co.kr/book/amazon-vpc)
+  * 한라 004.588-차74ㅇ 탐라 문004.588-차73ㅇ
 
 # Android
 
@@ -801,6 +804,7 @@ Programming Books
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 1부 - YouTube](https://www.youtube.com/watch?v=kOgLZGqJAhg)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
   * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
+* (NOT YET) [실용적인 마이크로서비스 아키텍처 패턴 | 에이콘출판사](http://www.acornpub.co.kr/book/practical-ms)
 
 # Artificial Intelligence
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
@@ -870,6 +874,7 @@ Programming Books
   * 우당 문005.13-조53ㅇ
 * (NOT YET) [명품 C언어 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282950081)
   * 우당 문005.13-안19ㅁ
+* (NOT YET) [Effective C | 에이콘출판사](http://www.acornpub.co.kr/book/effective-c)
 
 # C++
 
