@@ -473,6 +473,7 @@ iOS
 * [리눅스에서 동기적으로 XCTest 계속하기](http://blog.canapio.com/113)
 * [한 옵셔널 프로퍼티](http://blog.canapio.com/114)
 * [스위프트: UIView 애니메이션 문법 슈거](http://blog.canapio.com/115)
+* [iOS 화면 캡쳐 방지하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-limit-capture/) UIView
 * [문자열 보간법으로 즐겨보자](http://blog.canapio.com/116)
 * [스위프트: UserDefaults 프로토콜](http://blog.canapio.com/117)
 * [속성으로 스위프트 코드베이스를 최적화하기](http://blog.canapio.com/120)
