@@ -1764,6 +1764,7 @@ AWS
 * [Amazon SageMaker를 활용한 기계 학습에서 EFS 안의 민감 정보를 삭제하기 위한 서버리스 솔루션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sensitive-ml-training-data-lifecycle-management-using-aws-lambda/)
 * [Coursera, Amazon SageMaker Canvas 기반 No-Code 기계 학습 실습 교육 과정 개설 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
 * [Amazon SageMaker 지리 공간 기능 정식 출시 – 보안 업데이트 및 다양한 활용 사례 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
+* [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
