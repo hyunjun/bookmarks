@@ -1507,6 +1507,7 @@ NLP
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
+* [gpt-engineer: Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [kogpt: KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)](https://github.com/kakaobrain/kogpt) GPT-3 기반의 한국어 특화 AI 언어 모델
   * [if(kakao) 2021](https://if.kakao.com/session/48)
