@@ -2288,6 +2288,7 @@ Programming
 * [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=p2GlRToY5HI)
 * [IT Architecture : All your micro-services are wrong PERIOD! by Dwight Matthys - YouTube](https://www.youtube.com/watch?v=Qf5gP10V-kY)
 * [Dark Energy, Dark Matter and the Microservices Patterns?! - YouTube](https://www.youtube.com/watch?v=MjEKuHwrwl8)
+* [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
