@@ -33,7 +33,7 @@
 * ["SNS에 올렸더니 해외여행 갔냐고 물어봐요" 남다른 스케일을 자랑하는 우리나라 최고 카페 TOP6](https://totoba.co.kr/157) 제주 더 클리프
 
 # Coworking space & workation
-* [인베스트제주>2023 제주 워케이션 설명회](https://investjeju.or.kr/workation?fbclid=IwAR1hx0IcEmVMSwrVHYbj3XDHCcWaiJgKOGyMLqWGpODT3UXbQp2hie6noXo)
+* [인베스트제주>2023 제주 워케이션 설명회](https://investjeju.or.kr/workation)
 * [제주워케이션 - 제주워케이션](https://www.jejuworkation.or.kr/)
 * [제주, 대정 워케이션](https://jejuworknroll.oopy.io/)
 * [코사이어티 빌리지 제주 cociety village jeju](https://cocietyvillage.co.kr/)
