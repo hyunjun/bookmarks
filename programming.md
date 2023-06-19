@@ -1831,6 +1831,7 @@ Programming
 * [추천팀의 DDD 도입기 – tech.kakao.com](https://tech.kakao.com/2022/12/12/ddd-of-recommender-team/)
 * [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
 * [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
+* [모두를 위한 DDD | 오토피디아 블로그](https://blog.doctor-cha.com/introduction-to-domain-driven-design-for-everyone)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
