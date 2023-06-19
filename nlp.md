@@ -1284,7 +1284,7 @@ NLP
 * [Guiding Frozen Language Models with Learned Soft Prompts – Google AI Blog](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html)
 * [An Introduction to Large Language Models: Prompt Engineering and P-Tuning | NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-introduction-to-large-language-models-prompt-engineering-and-p-tuning/)
 * [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither/)
-  * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129&fbclid=IwAR2-0-GWaInmD5507c6ZTFJYQpfpfp1k6rM7NSKjBlC8N3ZCns0-rXODOk4)
+  * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129)
   * Google뿐 아니라 OpenAI도 AI에 관해서 moat 해자 역할을 하는 보호장치가 없다고 이야기
   * 이는 Google 내부의 한 연구원이 작성한 문서가 유출, 회사 전체의 의견은 아니지만 오픈소스 AI가 구글과 OpenAI를 모두 능가할 것이라고 주장
   * 오픈 소스 모델이 더 빠르고 커스터마이징할 수 있으며 성능도 뛰어나면서 비용도 적게 들고 있어서 스케일링 문제 해결
@@ -1318,6 +1318,7 @@ NLP
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
+* [evolve-instruct: evolve llm training instruction, from english instruction to any language](https://github.com/lcw99/evolve-instruct)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
