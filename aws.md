@@ -1126,6 +1126,7 @@ AWS
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
     * 스팟 인스턴스 인터럽션이나 ASG 리밸런싱이 일어날 때 EventBridge를 통해 SQG로 이벤트가 전달되고 NTH(node-termination-handler) 팟이 SQS 이벤트를 받아서 이에 맞게 처리
+* [eks-node-viewer: EKS Node Viewer](https://github.com/awslabs/eks-node-viewer)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
   * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
