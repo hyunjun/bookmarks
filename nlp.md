@@ -2439,6 +2439,7 @@ NLP
   * [OpenAI whisper 사용법 - 음성을 텍스트로 변환할 수 있는 인공지능 10분 만에 사용하기 - TILNOTE](https://tilnote.io/pages/6400496b81a210e930bb2af1)
   * [OpenAI 의 음성인식 Whisper #1](https://devocean.sk.com/blog/techBoardDetail.do?ID=164545)
   * [Whisper AI가 내 모든 동영상에 한국어 자막 달아준다. (Open AI) - YouTube](https://www.youtube.com/watch?v=CHtQuG8wnio)
+  * [누구나 1분이면 현존 최고의 자동자막을 쓸 수 있습니다. [무료 Whisper AI | 프리미어, 다빈치 리졸브, 파컷] - YouTube](https://www.youtube.com/watch?v=ZQqGUEg1TLg)
   * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/drive/1g8TYPv9sy4usQsHSB7tm8OiB6Q6gO0VE?usp=sharing)
     * [asr_whisper_korea_colab.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/05bcd18509affd900308c63857f930db/asr_whisper_korea_colab.ipynb)
     * OpenAI에서 공개한 Transformer 기반 다국어 음성인식모델(ASR, STT) Whisper 모델을 colab에서 한국어 음성에 맞춰 쉽게 돌려볼 수 있는 코드
