@@ -1374,6 +1374,7 @@ Machine Learning
 * [배민 앱에도 AI 서비스가? AI 서비스와 MLOps 도입기 🦾 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11582/)
 * [Bridging the Chasm Between Research & Software Development • Linda Stougaard Nielsen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=i1n9rCQ-WTg)
 * [MLOps 구축 가이드 - 정의, 프로세스, 비교, Use case - 데이터헌트](https://www.thedatahunt.com/trend-insight/guide-mlops)
+* [Cole Bailey: Cooking up a ML Platform - Growing pains and lessons learned - YouTube](https://www.youtube.com/watch?v=g9WS920Y1fY)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
