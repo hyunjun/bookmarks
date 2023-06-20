@@ -299,6 +299,7 @@ SQL
   * 마이그레이션 중 가용성 영향을 1분 미만이면서 반복할 수 있고 파티션을 취소할 수 있는 요구사항을 맞추려면 직접 만드는 수밖에 없었음
   * 애플리케이션이 파티셔닝과 호환되도록 한 뒤 PgBouncer를 하나 더 추가해서 트래픽을 분할하여 호환성 검사를 하면서 서비스에 영향이 가게 하고 문제가 없으면 분리된 데이터베이스를 보게 함
   * 첫 작업에서 2개의 테이블을 옮기고 2022년 10월에는 50개의 테이블을 옮기면서 CPU 사용률은 10%까지 감소
+* [케이타운포유의 순간적인 스파이크 트래픽 대응을 위한 Amazon Aurora 오토스케일링 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-auto-scaling-strategy-for-ktown4u-global-spike-traffic-response/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
