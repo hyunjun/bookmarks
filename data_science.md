@@ -761,6 +761,8 @@ Data Science
   * [Elijah ben Izzy & Stefan Krawczyk - Scalable Feature Engineering with Hamilton | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=oQLEkjUNq0U)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * Kedro [Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro - YouTube](https://www.youtube.com/watch?v=4sCpfCiJLgs)
+* [Lineapy](https://lineapy.org/)
+  * [Thomas Frauholz: From notebook to pipeline in no time with LineaPy - YouTube](https://www.youtube.com/watch?v=qcP5wNvV1uk)
 * [Mandrova: Sensor Data Generator for Python3](https://github.com/makinarocks/Mandrova)
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * MKL Intel
