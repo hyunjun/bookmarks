@@ -1501,6 +1501,7 @@ NLP
   * [OpenAI API](https://openai.com/api/)
     * [Account API Keys - OpenAI API](https://beta.openai.com/account/api-keys)
   * [클라이언트 ID 만들기  |  App Engine용 Cloud Endpoints Frameworks  |  Google Cloud](https://cloud.google.com/endpoints/docs/frameworks/python/creating-client-ids?hl=ko&_ga=2.196418476.-1452048031.1654761680)
+* [CounselGPT: 한국어 심리 상담 데이터셋](https://github.com/MrBananaHuman/CounselGPT)
 * [dolly](https://github.com/databrickslabs/dolly)
   * [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
   * [데이터브릭스, 챗GPT급 소형 언어모델 ‘돌리’ 출시 < AI 기업 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=150153)
