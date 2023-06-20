@@ -4972,6 +4972,7 @@ Python
   * [Polars, the Fastest Dataframe Library You Never Heard of. - Ritchie Vink | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=iwGIuGk5nCE)
   * [Expressive and Fast Dataframes in Python with Polars || Juan Luis - YouTube](https://www.youtube.com/watch?v=R0Y3LtZuUy8)
   * [Thomas Bierhance: Polars - make the switch to lightning-fast dataframes - YouTube](https://www.youtube.com/watch?v=CtkMzCIXOWk)
+  * [Nico Kreiling: Raised by Pandas, striving for more: An opinionated introduction to Polars - YouTube](https://www.youtube.com/watch?v=7xcUvzERwx0)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
