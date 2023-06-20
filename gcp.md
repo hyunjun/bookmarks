@@ -75,6 +75,7 @@ Google Cloud Platform GCP
 * [BigQuery Omni with AWS](https://jybaek.tistory.com/982)
 * [Bigquery Cloud Storage를 통한 빅쿼리 테이블 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/20/cloud-storage/)
 * [GA4 BigQuery Export 통합 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/24/ga4-bigquery-export/)
+* [GCP BigQuery, Storage - Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2023/06/20/gcp-bigquery-storage-python/)
 * [Google aims at Excel with new Big Data Features | by Christianlauer | Apr, 2022 | Medium](https://christianlauer90.medium.com/google-aims-at-excel-with-new-big-data-features-fdabb238f528) data studio
 * [Google Data Studio vs. Qlik — a Comparison | by Christianlauer | Jun, 2022 | Medium](https://christianlauer90.medium.com/google-data-studio-vs-qlik-a-comparison-ba1a5e886e4a)
 * [Google Data Studio vs. Tableau — a Comparison | by Christianlauer | CodeX | Jun, 2022 | Medium](https://medium.com/codex/google-data-studio-vs-tableau-a-comparison-47c0f06af30d)
