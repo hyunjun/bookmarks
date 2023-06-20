@@ -1870,6 +1870,7 @@ Deep Learning
 * [Intro to graph neural networks (ML Tech Talks) - YouTube](https://www.youtube.com/watch?v=8owQBFAHw7E)
 * [Classifying Documents on a Graph using GNNs - Avi Aminov | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=61qoxP7t0EI)
 * [알잘딱깔센 추천 모델 만들기 — GNN을 활용한 요기요의 추천 모델 YoSEMITE | by Kitae Yoon | Jul, 2022 | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EC%95%8C%EC%9E%98%EB%94%B1%EA%B9%94%EC%84%BC-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-gnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EA%B8%B0%EC%9A%94%EC%9D%98-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-yosemite-33b0600d2464)
+* [Graph in LINER : 글로벌 추천 프로덕트에 GNN 적용하기 – The Highlights – 라이너 팀 블로그](https://blog.getliner.com/graph-in-liner/)
 * [Graph Neural Networks: Algorithm & Applications • Shujia Zhang • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=RY_2fNg8u3U)
 * [GraphUserGroup - GUG](https://www.graphusergroup.com/)
 * [Usman Zafar - Using Graph Neural Networks to Embrace the Dependency Within Your Data - YouTube](https://www.youtube.com/watch?v=I74zSp9udT8)
