@@ -372,6 +372,7 @@ ElasticSearch - Lucene
 * [배민상회와 검색플랫폼 연동기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11732/)
 * [Vector Search Isn’t Enough | BRKFP301H - YouTube](https://www.youtube.com/watch?v=5Qaxz2e2dVg)
   * [한글자막 벡터 검색만으로는 충분하지 않습니다 | Microsoft Developer - YouTube](https://www.youtube.com/watch?v=vZmbCLc-JBw)
+* [Vector Databases and the Future of AI-powered Search - Sam Partee - YouTube](https://www.youtube.com/watch?v=g2bNHLeKlAg)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
