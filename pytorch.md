@@ -201,6 +201,7 @@ PyTorch
 * [Data Science Web nugget Roundup, Jan 29: Calculating Derivatives in PyTorch; Hacking Wordle - KDnuggets](https://www.kdnuggets.com/2022/01/weekly-web-nugget-roundup-0129.html)
 * [PyTorch on Apple M1 MAX GPUs with SHARK – 2X faster than TensorFlow-Metal – nod.ai](https://nod.ai/pytorch-m1-max-gpu/)
 * ["GPU 기반 파이썬 머신러닝" 파이토치(PyTorch)의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/235884)
+* [Clara Hoffmann: I broke the PyTorch model - Debugging custom PyTorch models in a structured manner - YouTube](https://www.youtube.com/watch?v=BDEBF62iZx0)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
