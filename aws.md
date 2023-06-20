@@ -2160,6 +2160,8 @@ AWS
 * [Terraform has forever changed the way I deploy code - YouTube](https://www.youtube.com/watch?v=cGPyH-PO8vg)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
+* [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
+  * [AutoScaling Ec2 Instances based on CPU usage using Terraform | by jaffar shaik | Medium](https://jaffarshaik.medium.com/autoscaling-ec2-instances-based-on-cpu-usage-using-terraform-9c12edf6c1d5)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 * [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
