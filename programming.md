@@ -2289,6 +2289,7 @@ Programming
 * [IT Architecture : All your micro-services are wrong PERIOD! by Dwight Matthys - YouTube](https://www.youtube.com/watch?v=Qf5gP10V-kY)
 * [Dark Energy, Dark Matter and the Microservices Patterns?! - YouTube](https://www.youtube.com/watch?v=MjEKuHwrwl8)
 * [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=88_LUw1Wwe4)
+* [토스ㅣSLASH 23 - 은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기) - YouTube](https://www.youtube.com/watch?v=amTJyIE1wO0)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -3376,6 +3377,7 @@ Programming
 * [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
 * [Continuous Integration/Continuous Deployment” in Telecommunications by Ioannis Mylonas - YouTube](https://www.youtube.com/watch?v=bP8EJrWtuNI)
 * [Speaking in Different Tongues: balancing a code base across different languages by Michaël Demey - YouTube](https://www.youtube.com/watch?v=LyVejRMjPn0)
+* [토스ㅣSLASH 23 - 유연하고 안전하게 배포 Pipeline 운영하기 - YouTube](https://www.youtube.com/watch?v=SRLeXvA-o-U)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
