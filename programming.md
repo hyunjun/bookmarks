@@ -2017,6 +2017,7 @@ Programming
   * protocol translation and service discovery
   * monitoring, logging, analytics and billing
   * caching
+* [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
@@ -5859,6 +5860,7 @@ Programming
 ## TDD, Test, A/B test alternatives
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 (2020-01-18 잔디콘)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
 * [준실험 Quasi-experiments: 인과 관계를 추정하는 방법 | A/B 테스트를 할 수 없을 때 | BON DATA | Medium | BON DATA](https://medium.com/bondata/quasi-experiments-%EC%9D%B8%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9D%98-%ED%9A%A8%EA%B3%BC-%EB%A5%BC-%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-da34ceefc34f)
+* [Inga Janczuk: When A/B testing isn’t an option - an introduction to quasi-experimental methods - YouTube](https://www.youtube.com/watch?v=2g61fv0rabI)
 * [데이터 과학자가 알아야할 인과적 추론들의 우위관계](https://newspeppermint.com/2020/07/31/m-causalinference/)
 * [Causal Inference KR 스타트업에서의 인과추론](https://www.slideshare.net/choibokyung/causal-inference-kr-250571261)
 * [스타트업에서의 인과추론 | Product Analytics Playground](https://playinpap.github.io/causal-inference-startup/)
