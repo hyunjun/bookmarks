@@ -317,6 +317,7 @@ Monitoring
 * [프로메테우스, 그라파나를 이용한 모니터링](https://junyharang.tistory.com/363)
 * [Prometheus on EKS](https://www.slideshare.net/JoHoon1/prometheus-on-eks)
 * [Prometheus on NKS](https://www.slideshare.net/JoHoon1/prometheus-on-nks)
+* [쿠버네티스에서 마이크로소프트 애저 프로메테우스 모니터링 사용하기 - ITWorld Korea](https://www.itworld.co.kr/news/295759)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
