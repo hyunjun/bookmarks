@@ -1307,6 +1307,11 @@ NLP
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
 * [Building the data framework for LLMs | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/building-the-data-framework-for-llms-bca068e89e0e)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
+* [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
+  * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
+  * 벡터 서치가 LLM 스택의 핵심
+  * 파인 튜닝도 빠르게 발전 중이며, 프리트레이닝 모델 및 벡터 디비 사용과 통합될 것
+  * 10% 미만의 응답자가 비용/성능, 테스팅 및 모니터링 도구를 찾기 시작. 대기업과 규제 산업에서 LLM을 채택하기 시작하면 신뢰도 문제로 관심이 증가할 것
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
