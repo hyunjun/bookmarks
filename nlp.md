@@ -1356,6 +1356,7 @@ NLP
   * [랭체인러닝데이 도입 시급! 회사내규 챗봇 직접 만들어보기](https://aifactory.space/competition/2374/discussion/366)
   * [랭체인러닝데이 챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)
   * [LangChain Crash Course: Build a AutoGPT app in 25 minutes! - YouTube](https://www.youtube.com/watch?v=MlK6SIjcjE8)
+  * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)

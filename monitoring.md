@@ -202,6 +202,7 @@ Monitoring
   * [**java 애플리케이션 트러블 슈팅 사례 & pinpoint**](https://www.slideshare.net/deview/d2-java-pinpoint)
   * [Pinpoint APM Node 버전 설치하기](https://jojoldu.tistory.com/573)
   * [Pinpoint APM Node 사용하기](https://jojoldu.tistory.com/576)
+  * [토스ㅣSLASH 23 - 연결되면 비로소 보이는 것들 - YouTube](https://www.youtube.com/watch?v=MA7B9bJCwYk)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [pyroscope: Continuous Profiling Platform. Debug performance issues down to a single line of code](https://github.com/grafana/pyroscope)
