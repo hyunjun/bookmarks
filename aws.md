@@ -1675,6 +1675,7 @@ AWS
   * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
   * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
+* [SK텔레콤의 AWS Inferentia와 AWS Step Functions를 활용한 기계학습(ML) 파이프라인 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/skt-mlops-using-aws-inferentia-stepfunctions/)
 * [Deploy a machine learning inference data capture solution on AWS Lambda | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/)
 * [AWS Lambda를 이용한 XGBoost 머신러닝(ML) 추론하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ml-inference-based-on-xgboost-using-aws-lambda-with-cdk/)
 * [Amazon making online machine learning courses available for free](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
