@@ -216,6 +216,7 @@
 * [Introducing Kotlin/Wasm · seb.deleuze.fr](https://seb.deleuze.fr/introducing-kotlin-wasm/)
 * [Kotlin 2.0을 통해 알아보는 코틀린의 미래 - Speaker Deck](https://speakerdeck.com/dalinaum/kotlin-2-dot-0eul-tonghae-alaboneun-koteulrinyi-mirae)
 * [토스ㅣSLASH 23 - 새로운 은행을 위한 Modern 대외 연계 시스템 구축기 - YouTube](https://www.youtube.com/watch?v=eS9tukmYBLI)
+* [5 Pro Kotlin Dev Hacks For More Assertive Code | by Sam Cooper | Jun, 2023 | Medium](https://medium.com/@sam-cooper/5-pro-kotlin-dev-hacks-for-more-assertive-code-26cd2db4d7d7)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -392,6 +393,7 @@
 * [The "suspend + receivers" style in Kotlin - Xebia](https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/)
 * [Kotlin Coroutines to Cats-Effect - Alexandru Nedelcu](https://alexn.org/blog/2023/04/24/kotlin-suspended-functions-to-cats-effect-io/)
 * [Building Kotlin Coroutine Framework from scratch | by Omkar Tenkale | Medium | Kt. Academy](https://blog.kotlin-academy.com/kotlin-coroutines-animated-part-1-coroutine-hello-world-51797d8b9cd4)
+* [Building Kotlin Coroutine Framework from Scratch: Reinventing Dispatchers | by Omkar Tenkale | Medium | Kt. Academy](https://blog.kotlin-academy.com/building-kotlin-coroutine-framework-from-scratch-part-2-reinventing-dispatchers-bff72b82e42d)
 * [코루틴(Coroutine)에 대하여](https://dev.gmarket.com/82)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
