@@ -1805,7 +1805,7 @@ Python
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
   * [**Clean Architectures in Python - YouTube**](https://www.youtube.com/watch?v=KBxoQihhc-A)
-* [Clean Architectures in Python](https://www.pycabook.com/)
+  * [파이썬에 적용하는 클린 아키텍처(Clean Architectures in Python), 제2판 - WikiDocs](https://wikidocs.net/book/9408)
 * [clean-architecture: Example project showing off clean/hexagonal architecture concepts in Python](https://github.com/Enforcer/clean-architecture)
   * [Python으로 클린 아키텍처 적용하기](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-Clean-Architecture-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [Python으로 클린 아키텍처 적용하기2](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B02)
