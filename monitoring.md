@@ -249,6 +249,7 @@ Monitoring
 * [Observability Engineering - O'Reilly Book 2022 Download](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
 * [Effective Observability: Best Practices with Elastic by Evelien Schellekens - YouTube](https://www.youtube.com/watch?v=qrBEof6EnyQ)
 * [대시보드로 보는 모니터링의 미래, '풀스택 옵저버빌리티' | 요즘IT](https://yozm.wishket.com/magazine/detail/2047/)
+* [토스ㅣSLASH 23 - 분산 추적 체계 & 로그 중심으로 Observability 확보하기 - YouTube](https://www.youtube.com/watch?v=Ifz0LsfAG94)
 * [Clymene: the Clymene is time-series data and Logs collection platform for distributed systems](https://github.com/Clymene-project/Clymene)
   * [분산 환경의 효율적인 시계열 데이터 수집 및 관리 방안. MSA! 마이크로 서비스 아키텍처는 이제 서비스를 개발하고 운영할 때… | by allen | Medium](https://medium.com/@clymeneallen/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B0%8F-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EC%95%88-16d787c5ed3d)
   * [오픈소스를 이용한 다중 k8s 클러스터 환경의 모니터링 시스템 구축 | by allen | Aug, 2022 | Medium](https://medium.com/@clymeneallen/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8B%A4%EC%A4%91-k8s-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-4666c21788c7)
