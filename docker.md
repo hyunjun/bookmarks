@@ -2072,6 +2072,7 @@ Docker
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
   * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
+  * [SUSE Korea OSC Korea 복잡한 멀티 클러스터 쿠버네티스 운영, 관리의 모든 것 - YouTube](https://www.youtube.com/watch?v=2ZX3tej8oxw)
   * [Rancher Desktop: Kubernetes and container management on the desktop](https://rancherdesktop.io/)
   * [RKE2 - Rancher's Next Generation Kubernetes Distribution](https://docs.rke2.io/)
     * [온프레미스 쿠버네티스 프로덕션 환경 10개월 운영기 | 오토피디아](https://medium.com/autopedia/rke2-%EA%B8%B0%EB%B0%98%EC%9D%98-on-premise-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%B0%EA%B4%80%EA%B3%B5-%EC%83%9D%EC%A1%B4%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-2%ED%8E%B8-f4c71bce65a2)
