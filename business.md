@@ -135,6 +135,7 @@ Business
 * [6 Ways to Stay Focused While Working on Your Startup and Having a 9 to 5 | by Fernando Pessagno | Aug, 2022 | Medium](https://fernandopessagno.medium.com/6-ways-to-stay-focused-while-working-on-your-startup-and-having-a-9-to-5-fb0b2d2c8db3)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
+* [인터넷 서비스 사업계획서(FANTAGRAM)](https://www.slideshare.net/kimsubo/fantagram)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 * [(13) “Plans are nothing, planning is everything.”: my conclusion | LinkedIn](https://www.linkedin.com/pulse/plans-nothing-planning-everything-my-conclusion-jos%C3%A9-antonio-venegas/)
