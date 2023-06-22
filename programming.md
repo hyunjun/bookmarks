@@ -2249,6 +2249,7 @@ Programming
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
 * [Managing Technical Debt in a Microservice Architecture](https://www.infoq.com/articles/managing-technical-debt-microservices/)
 * [MSA에서 조금 쉽게 트랜잭션(Transaction) 처리하기 - YouTube](https://www.youtube.com/watch?v=U_TvOgZXK8k) Saga, Axon
+  * [axon-shoppingmall-compensation](https://github.com/OSC-Korea/axon-shoppingmall-compensation)
 * [크몽 MSA 도입 이야기. 크몽 서버 아키텍처는 어떻게 변화 했을까? | by DanielSeo | May, 2022 | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-msa-%EB%8F%84%EC%9E%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-6c20afe6cc1e)
 * [Micro-services - Client Side Discovery - YouTube](https://www.youtube.com/watch?v=Zmk2LZGZ9dE)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
