@@ -2110,6 +2110,7 @@ Python
 * [PyData Ann Arbor: Katie Bauer | Building "Time On Site" at Reddit](https://www.youtube.com/watch?v=4z4XMe5dVG8)
 * [Itamar Turner-Trauring - Speed up Python data processing with vectorization | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=OUFe8JqPqTU)
   * [PyData Global 2022: Vectorization](https://pythonspeed.com/pydata2022)
+* [Game Physics in Python || Carl Kadie - YouTube](https://www.youtube.com/watch?v=rvA1RP5qOnY)
 
 # Course MOOC Lecture
 * [파이썬 코딩 강의를 제작하였습니다 (6시간 / 기본편) : 클리앙](https://www.clien.net/service/board/lecture/14613889)
