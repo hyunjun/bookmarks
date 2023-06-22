@@ -67,6 +67,7 @@ Web
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [What are source maps?](https://web.dev/source-maps/)
   * [소스 맵의 동작 원리는 무엇일까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/06/04/What-are-Source-Maps.html)
+  * [소스 맵의 동작 원리는 무엇일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2082/)
 * [**The Twelve-Factor App**](http://12factor.net/ko/)
   * [Live Coding 12-Factor App](https://www.infoq.com/presentations/12-factor-microservice/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
