@@ -812,6 +812,7 @@ NLP
   * [이태영 - ChatGPT Service Architecture 제가 작성한 아키텍처는 세 가지 주요 구성 요소로... | Facebook](https://www.facebook.com/tylee8033/posts/pfbid0BwDuY3U2VWWvTDK7JsA1vrmdAsrnaxZxm9nW2W9yY1KLwtXpFz88sd2PLXnPpj3Jl)
   * [ChatGPT로 달라진 개발자의 일상 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/life-after-chatgpt/)
   * [실전! 인공지능 챗봇 개발 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/ai-chatbot/)
+  * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
