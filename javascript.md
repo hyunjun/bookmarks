@@ -4732,6 +4732,7 @@ Javascript
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * [Million.js](https://million.dev/)
   * [Million.js는 어떻게 React보다 (최대) 7️⃣0️⃣% 빠를까? | pyjun01](https://pyjun01.github.io/v/million-js/)
+  * [관리자 페이지에 반복문과 DOM 변경이 자주 일어나는 데이터그리드에 적용 후 멈칫했던 렌더링이 사라짐](https://www.facebook.com/groups/1413798668880301/?multi_permalinks=3435604343366380)
 * MobX
   * [7 tips of using MobX](https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc)
   * [Hello, MobX](https://hyunseob.github.io/2017/10/07/hello-mobx/)
