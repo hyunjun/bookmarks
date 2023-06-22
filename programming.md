@@ -1871,6 +1871,7 @@ Programming
 * [Eldercam: Event-driven AI for Surveillance • John Page • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_76uaHtthYs)
 * [**Building Event-driven Apps at Scale • Tom Fairbairn • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=MYcDx8jY3nI)
 * [VDBUH2023 - Daniel Oh - Event-driven autoscaling for Serverless Java - YouTube](https://www.youtube.com/watch?v=I47uwSk5cUc)
+* [회원시스템 이벤트기반 아키텍처 구축하기 #우아콘2022 #Day2_음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=b65zIH7sDug)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
