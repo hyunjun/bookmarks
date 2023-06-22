@@ -177,6 +177,7 @@ Writing
     * [structurizr/dsl: Structurizr DSL](https://github.com/structurizr/dsl)
     * [structurizr-site-generatr: Static site generator for architecture models created with Structrizr DSL](https://github.com/avisi-cloud/structurizr-site-generatr)
 * [Doxygen: Main Page](https://www.doxygen.nl)
+  * [30분만 투자하면 사용하는 API 문서 검색 엔진, Doxygen 외부 검색 설정하기 - 넷마블 기술 블로그](https://netmarble.engineering/doxygen-nginx-fcgiwrap/)
 * GitBook
   * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
 * [hermes: A document management system](https://github.com/hashicorp-forge/hermes)
