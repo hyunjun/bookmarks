@@ -236,6 +236,7 @@ ElasticSearch - Lucene
   * [8 Logstash 설치 및 Elasticsearch 기본 템플릿 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-8/)
 * [Elasticsearch Cluster Auto Scaling 구성 하기](https://jjeong.tistory.com/1387)
 * [Elastic IaC 기반의 Cluster 관리](https://jjeong.tistory.com/1505)
+* [토스ㅣSLASH 23 - 대규모 로그 처리도 OK! Elasticsearch 클러스터 개선기 - YouTube](https://www.youtube.com/watch?v=_SJYU4lHa28)
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
