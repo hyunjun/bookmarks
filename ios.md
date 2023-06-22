@@ -194,6 +194,7 @@ iOS
   * [Reactive Programming With Swift · Present](https://present.do/decks/60bf9b7d1903093a77d167e1)
   * [Functional Reactive Programming With RxSwift · Present](https://present.do/decks/60bf93701903093a77d1627f)
   * [간편하게 서버 데이터를 로딩하는 Fetcher, Swift로 구현하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/introduce-android-fetcher-swift-implementation/)
+  * [화면 상태에 따라서 View가 그리는 작업, Render | Joohee Kim's Blog](https://imjhk03.github.io/posts/render-view-state/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
