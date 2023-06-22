@@ -364,6 +364,7 @@ NLP
 * [자연어 처리](https://velog.io/@djarkdud27/NLP-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC)
 * [딥러닝 공개 모델 활용 정보 수집 효율화 | Pega Devlog](https://jehyunlee.github.io/2022/11/11/Python-DS-120-eost2022/)
 * [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+* [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1400,6 +1401,8 @@ NLP
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
+* [OpenLLM: An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease](https://github.com/bentoml/OpenLLM)
+  * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
