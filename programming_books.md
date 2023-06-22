@@ -1180,6 +1180,7 @@ Programming Books
   * 탐라 문005.7-메238ㄷ
 * (NOT YET) [어쩌다 데이터 분석 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B7520909011)
   * 탐라 문005.133-김67ㅇ
+* (NOT YET) [실전 금융산업 빅데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=318456782)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
