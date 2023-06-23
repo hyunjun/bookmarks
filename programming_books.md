@@ -4039,6 +4039,7 @@ Programming Books
 * (NOT YET) [지식 제로부터 배우는 소프트웨어 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61703007)
   * 동부 005.14-타821지
   * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
+* (NOT YET) 프런트엔드 개발자를 위한 테스트 가이드 [프런트엔드 개발자라면 꼭 알아야 할 4가지 오픈소스 테스트 자동화 프레임워크](https://jpub.tistory.com/1428)
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
