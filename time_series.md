@@ -204,7 +204,7 @@ Time Series
   * [Welcome to Orbit’s Documentation! — orbit 1.1.3dev documentation](https://orbit-ml.readthedocs.io/en/latest/)
 * [PyTorch Forecasting Documentation — pytorch-forecasting documentation](https://pytorch-forecasting.readthedocs.io/en/stable/) 시계열 예측, PyTorch
 * [sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime) 시계열 분석
-  * [Welcome to sktime — sktime documentation](https://www.sktime.org/en/stable/)
+  * [Welcome to sktime — sktime documentation](https://www.sktime.net/)
   * [sktime - A Unified Toolbox for ML with Time Series - Markus Löning | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ODspi8-uWgo)
   * [sktime - A Unified Toolbox for ML with Time Series - YouTube](https://www.youtube.com/watch?v=GbRfbXHXUKM)
 * [statsmodels](https://www.statsmodels.org/stable/index.html) 통계 모델
