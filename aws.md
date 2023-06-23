@@ -523,6 +523,7 @@ AWS
 * [AWS Amplify 로 리얼타임 앱 만들기. 10분컷! - YouTube](https://www.youtube.com/watch?v=o7FkmtqIYOE)
 * [Setup sign-up and sign-in flows for your Flutter app in minutes with AWS Amplify | Front-End Web & Mobile](https://aws.amazon.com/ko/blogs/mobile/amplify-flutter-authenticator/)
 * [풀 리퀘스트를 위한 웹 미리 보기 - AWS Amplify호스팅](https://docs.aws.amazon.com/ko_kr/amplify/latest/userguide/pr-previews.html) feature branch를 만들고 feature branch를 위한 별도 URL을 만드는 등
+* [AWS amplify로 서버리스 웹 애플리케이션 구축하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230612-aws-amplify-serverless/)
 
 # API Gateway
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
@@ -1770,6 +1771,7 @@ AWS
 * [Coursera, Amazon SageMaker Canvas 기반 No-Code 기계 학습 실습 교육 과정 개설 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
 * [Amazon SageMaker 지리 공간 기능 정식 출시 – 보안 업데이트 및 다양한 활용 사례 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
 * [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
+* [카카오스타일의 Amazon SageMaker 분산 훈련을 활용한 카테고리 자동 분류 시스템 모델 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-distributed-training-for-automated-category-classification/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
