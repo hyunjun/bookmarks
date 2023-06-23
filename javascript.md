@@ -1721,6 +1721,7 @@ Javascript
   * 모던 프레임워크가 현실에서의 성능과 Core Web Vitals에 미치는 영향을 파악하기 위해 CrUX, HTTP 아카이브, Core Web Vitals 기술 보고서를 통해 공개된 데이터를 바탕으로 각 프레임워크를 비교한 보고서
   * Astro, Gatsby, Next.js, Nuxt, Remix, SveltKit 선정, 비교를 위해 WordPress의 데이터도 같이 참고
   * 각 웹 프레임워크의 Core Web Vitals의 각 항목과 Lighthouse로 비교
+* [내가 싫어하는 JS/TS 라이브러리들 - DEV Community](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
