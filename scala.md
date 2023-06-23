@@ -380,6 +380,7 @@ Scala
 * [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/)
 * [Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
 * [Encoding Base58: Understanding and implementing in Scala](https://idiomaticsoft.com/post/2023-05-23-base58/)
+* [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1407,6 +1408,7 @@ Scala
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
 * [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
+* [5 Scala Libraries That Will Make Your Life Easier](https://softwaremill.com/5-scala-libraries-that-will-make-your-life-easier/)
 * [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
 * [Beginner's guide to toolkits in Scala - Dev notes](https://blog.michalp.net/posts/scala/scala-toolkits/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
