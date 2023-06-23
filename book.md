@@ -1277,6 +1277,8 @@ Book
   * 한라 219.2-고64ㄱ 우당 문219.2-고63ㄱ
 * (NOT YET) [22개 나라로 읽는 부의 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300029591)
   * 한라 909-조95ㅂ 탐라 문909-조95 우당 문909-조95ㅇ
+* (NOT YET) [수메르 문명과 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305391154)
+  * 한라 918.4-주25ㅅ 탐라 문918.4-주225ㅅ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
