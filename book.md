@@ -351,8 +351,12 @@ Book
   * 탐라 문325.7-비78ㄱ 우당 문325.571-비78ㄱ
   * <img src="images/decisive_shot0.jpg" width="300"/> <img src="images/decisive_shot1.jpg" alt="마케팅은 자전거의 페달이다" width="300"/>
   * 마케팅을 모르는 나에겐 페달 비유가 가장 와닿고 기억에 남는다. 좋은 제품이 우선이라는 건 누구도 부인할 수 없는 사실이지만 마케팅 또한 필수요소
-* (NOT YET) [안개 속의 고릴라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967800)
+* (NOT COMPLETED) [안개 속의 고릴라](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967800)
+  * ★★★☆☆ 2023.06.18, 24 침팬지의 제인 구달에 비해서는 덜 알려졌지만 오랑우탄의 비루테 칼다카스, 고릴라의 다이앤 키튼으로 영장류 연구의 유명한 3명으로 잘 알려져있다. 생각과 달리 거의 모두 고릴라 생태 연구에 대한 내용이라 개인적으로 흥미가 크게 없는 부분이라 완전히 읽지는 않았지만, (아마도) 밀렵꾼들에게 살해가 되었을 정도로 고릴라 연구와 보호에 힘 썼던 생애는 정말 대단하다.
   * 한라 499.83-포58ㄱ
+* 기적의 도시 메데진 [책&생각 세계의 롤모델 된 ‘마약의 도시’…비결은 주거·교통 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1077166.html)
+  * ★★★☆☆ 2023.06.24 저자가 이야기하듯 나도 다른 대부분의 한국인들과 마찬가지로 파블로 에스코바르로만 기억을 하고 있었는데, 의외로 여러가지 면에서 어두운 시기를 이겨내고 또 몇몇 부분은 국제적으로도 선도하는 도시라는 흥미로운 사실을 알게 되었다
+  * 한라 331.47-박65ㄱ 탐라 문331.47-박66ㄱ 우당 문331.47-박66ㄱ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -495,8 +499,6 @@ Book
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
 * (NOT YET) [존 도어의 OKR 레볼루션](https://dbr.donga.com/article/view/1305/article_no/10768)
   * 우당 문539.92-도63ㅈ
-* (NOT YET) 기적의 도시 메데진 [책&생각 세계의 롤모델 된 ‘마약의 도시’…비결은 주거·교통 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1077166.html)
-  * 한라 331.47-박65ㄱ 탐라 문331.47-박66ㄱ 우당 문331.47-박66ㄱ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
