@@ -1141,6 +1141,7 @@ Business
   * [Is there a “Big Five” in Teamwork? | Scinapse](https://www.scinapse.io/papers/1967246150)
 * [5x5 적절한 상황에 적합한 한 마디면 충분합니다](https://brunch.co.kr/@xmetal/241)
 * [번역 실리콘밸리 유니콘 스타트업 리더들의 소통 방법 - Retriever in Jeju](https://retrieverinjeju.com/%ec%8b%a4%eb%a6%ac%ec%bd%98%eb%b0%b8%eb%a6%ac-%ec%9c%a0%eb%8b%88%ec%bd%98-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%98-%ec%86%8c%ed%86%b5-%eb%b0%a9%eb%b2%95/)
+* [협력에서 방향성의 문제란?](https://brunch.co.kr/@graypool/1008)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1792,6 +1793,7 @@ Business
 * [Managers Are Not That Stupid • Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TP3Rjd-51DE)
 * [Leading and Growing Software Teams - YouTube](https://www.youtube.com/watch?v=7jRRKOrPLRo)
 * [직원들이 성공할 수 있도록 지원해야 합니다](https://brunch.co.kr/@graypool/995)
+* [신수정 - 31명의 조종사의 죽음을 0명으로 만든 비결은? 부제. 왜 항공사의 안전이 가장 빠르게 개선되었을까? 1.... | Facebook](https://www.facebook.com/shinsoojungceo/posts/pfbid09wvSXfZrqBX8obmVUFPZevBdXAHC7cdc1cYFHc5p2M4NLomwxvfmAdixZPTVrxbJl)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
