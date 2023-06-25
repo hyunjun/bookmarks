@@ -3692,6 +3692,7 @@ Programming
 * [토스ㅣSLASH 23 - 금융사 최초의 Zero Trust 아키텍처 도입기 - YouTube](https://www.youtube.com/watch?v=2V2xYeqUsWw)
 * [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
 * [토스ㅣSLASH 23 - 보안의 Next Level을 향해 토스의 Security Review - YouTube](https://www.youtube.com/watch?v=pZh7NBaa6aw)
+* [One Does Not Simply Add MFA • Christine Seeman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=adQZ6r3Y858)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
@@ -5581,6 +5582,7 @@ Programming
 * [Software Craftsmanship 실천 가이드.pptx - Google Drive](https://docs.google.com/file/d/1A7mW4Cu7CypyE5jt1staRxnPjmEyyqaQ/edit)
 * [Trust Teams but Verify: Compliance as Code Done Right • Effy Elden • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=lv9fuHtnBhc)
 * [Software archaeology - Learning from the landing on the moon! by Tobias Voß - YouTube](https://www.youtube.com/watch?v=-bykh2eMXL0) agile plannning, iterative design simulation, robust fault-tolerant, vision inspiration, competition is good for business
+* [Engineering for Software - How to Amplify Creativity • Dave Farley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZAAECIe8o8E)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
