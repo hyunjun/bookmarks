@@ -3251,6 +3251,7 @@ Javascript
     * 개발 환경을 개선하기 위해서 빌드 도구가 발명되었지만, 개발자 경험이 증가하는 만큼 빌드 복잡도는 증가하기 시작했고 요즘 도구는 빌드 도구는 컴파일, 압축, 번들링, 코드 분할로 나뉘어져 진행
     * Deno와 Fresh는 이러한 과정이 필요 없다고 주장
   * [Deno: The JavaScript Runtime for the Serverless Era • Ryan Dahl • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
+  * [Deno 스택 vs. React. NodeJS 스택과 비교해봤다...! - YouTube](https://www.youtube.com/watch?v=Knn4xh79qTU)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
