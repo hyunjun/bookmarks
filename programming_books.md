@@ -1172,6 +1172,7 @@ Programming Books
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
 * (NOT YET) [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
+  * 탐라 문005.7-이73ㄷ
 * (NOT YET) [공익을 위한 데이터 | 에이콘출판사](http://acornpub.co.kr/book/data-action)
   * 탐라 문005.76-윌239ㄱ
 * (NOT YET) [비즈니스 데이터 과학](https://hanbit.co.kr/store/books/look.php?p_code=B6001875802)
@@ -3391,6 +3392,7 @@ Programming Books
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
 * (NOT YET) [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
+  * 탐라 문005.1-리825ㅍ
   * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
 
 # Python
