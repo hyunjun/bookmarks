@@ -682,6 +682,10 @@ Book
 * [아빠가 되었습니다만, 요시타케 신스케](https://blog.naver.com/2745668/221411194689)
   * ★★★★☆ 2023.05.20 이제 막 아빠가 된 사람의 감정을 사소한 부분까지 잘 잡아내 (신스케 책이 거의 그렇지만) 대부분 공감하며 편하게 읽을 수 있게 그린 책. 누구나 봐도 좋지만 아빠가 될/된 사람들에게는 정말 강추
   * 한라 838-요58아 탐라 문838-요59ㅇ 우당 838-요59ㅇ
+* [나라를 옮겨 다니며 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=285012949)
+  * ★★★☆☆ 2023.06.25 나름 여기 저기 옮겨가며 살아본 경험이 있기에 공감가는 게 많은 책. 프랑스의 이중 언어 학교 체계가 관심이 가면서도 또 그런 고생 없이 얻는 건 없구나 하는 거도 느껴진다
+  * 탐라 문325.3304-김19ㄴ
+  * [기사 - 쿠마르의 인도 이야기 13 : 국제학교는 영어 수업에서 영어를 가르치지 않는다](https://www.ddanzi.com/ddanziNews/772764854)
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
@@ -691,8 +695,6 @@ Book
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
 * (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
   * 한라
-* (NOT YET) [나라를 옮겨 다니며 일합니다](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=285012949)
-  * [기사 - 쿠마르의 인도 이야기 13 : 국제학교는 영어 수업에서 영어를 가르치지 않는다](https://www.ddanzi.com/ddanziNews/772764854)
 * (NOT YET) [교육이 없는 나라](https://www.metroseoul.co.kr/article/20230413500294)
   * 우당 문370.4-이58ㄱ
 
@@ -766,6 +768,9 @@ Book
 * [리처드 루멜트 크럭스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314397526)
   * ★★★☆☆ 2023.06.12~15 아직 내 수준이 전략을 보는 정도에 미치지 못해서인지, 좋은 책이지만 구체적으로 어떻게 실천하면 활용할 수 있을지는 잘 모르겠음
   * 우당 문325.1-루33ㅋ
+* [스타트업 디자인 씽킹](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307863659)
+  * ★★★☆☆ 2023.06.25 디자인 전공자라 사례들이 디자인 쪽에 치우친 감은 있으나 디자인 씽킹의 절차를 알고 싶다면 도움을 받을 수 있는 책
+  * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -786,8 +791,6 @@ Book
   * 성산 HG325.211-랜229ㅅ
 * (NOT YET) [제로 투 원 (리커버)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280602221&start=slayer)
   * 한라 325.21-틸898제
-* (NOT YET) [스타트업 디자인 씽킹](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307863659)
-  * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
 * (NOT YET) [설득의 디테일ㅣ원하는 것을 얻는 섬세한 대화의 기술 9가지 - YouTube](https://www.youtube.com/watch?v=syMYBWU1iEU)
   * 한라 325.26-보17ㅅ 우당 325.26-보17ㅅ
 
@@ -1551,6 +1554,8 @@ Book
   * 한라 180.4-마874ㅋ 탐라 문181.38-마823ㅋ 우당 문181.38-마823ㅋ
 * (NOT YET) [내면소통](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311899364)
   * 한라 189.1-김76ㄴ 탐라 문189-김77ㄴ 우당 문189.1-김77ㄴ
+* (NOT YET) [AI 빅뱅 (생성 인공지능과 인문학 르네상스)](https://www.youtube.com/watch?v=5rKlhmCOJGQ)
+  * 탐라 문126-김72ㅇ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
