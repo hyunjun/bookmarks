@@ -2019,6 +2019,7 @@ Programming
   * monitoring, logging, analytics and billing
   * caching
 * [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
+* [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2_음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
@@ -2965,6 +2966,7 @@ Programming
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [Code Red: The Business Impact of Code Quality– A Quantitative Study of 39 Proprietary Production Codebases](https://arxiv-export1.library.cornell.edu/pdf/2203.04374)
   * [Code Red: The Business Impact of Code Quality • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=aRR0EDazxIk)
+  * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=X2RdwmPqBvQ)
   * [Rethinking Productivity in Software Engineering Book](https://www.oreilly.com/library/view/rethinking-productivity-in/9781484242216/)
   * [business-impact-of-code-quality-tornhill2022](https://codescene.com/hubfs/web_docs/Business-impact-of-low-code-quality.pdf)
   * [Software Engineering Intelligence - CodeScene](https://codescene.com/)
@@ -4854,6 +4856,7 @@ Programming
   * [6월 1주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/06/b-6-1.html)
   * [6월 2주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/06/b-6-1_10.html)
   * [6월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/06/b-6-3.html)
+  * [6월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/06/b-6-4.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
