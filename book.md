@@ -1284,6 +1284,8 @@ Book
   * 한라 909-조95ㅂ 탐라 문909-조95 우당 문909-조95ㅇ
 * (NOT YET) [수메르 문명과 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305391154)
   * 한라 918.4-주25ㅅ 탐라 문918.4-주225ㅅ
+* (NOT YET) 역사의 색 [이 사람이 미국 대통령의 암살자라는 사실을 아시나요? | 직장 생활 연구소](https://v.daum.net/v/HGEH61payj)
+  * 한라 909-존57ㅇ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
