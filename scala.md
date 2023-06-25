@@ -1539,6 +1539,7 @@ Scala
     * [Effects: To Be Or Not To Be? By Adam Warski - YouTube](https://www.youtube.com/watch?v=sDnNjtkoUVs)
     * [Integrating Akka with Cats-Effect 3 - Alexandru Nedelcu](https://alexn.org/blog/2023/04/17/integrating-akka-with-cats-effect-3/)
     * [Concurrency with Cats Effect](https://softwaremill.com/concurrency-with-cats-effect/)
+    * [Dependency Injection with Cats-effect Resource Monad | by Igor Vovk | Jun, 2023 | Medium](https://medium.com/@ivovk/dependency-injection-with-cats-effect-resource-monad-ad7cd47b977)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
