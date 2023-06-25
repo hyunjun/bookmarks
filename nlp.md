@@ -842,7 +842,9 @@ NLP
     * ['오토GPT'는 선물인가 재앙인가](https://www.aitimes.com/news/articleView.html?idxno=150562)
     * [IT TREND 자율 AI 에이전트, ChatGPT 다음의 메가트렌드?](https://tech.kakaoenterprise.com/194)
   * [backend-GPT](https://github.com/TheAppleTucker/backend-GPT)
-  * Bard [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
+  * Bard
+    * [Sign up to try Bard from Google](https://blog.google/technology/ai/try-bard/)
+    * [Python Google BARD API 사용 - 미완성의신](https://unfinishedgod.netlify.app/2023/06/23/python-google-bard-api/)
   * [bitGPT: Tools to use chatGPT for Koreans](https://github.com/bit2r/bitGPT)
   * [BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins](https://github.com/OpenBMB/BMTools)
   * [CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society](https://github.com/lightaime/camel)
@@ -1408,6 +1410,7 @@ NLP
 * PaLM
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
   * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
+  * [generative-ai/language/examples/langchain-intro/intro_langchain_palm_api.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/examples/langchain-intro/intro_langchain_palm_api.ipynb)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
