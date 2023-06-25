@@ -249,7 +249,8 @@ Interview
 * [Stop Interviewing With Leet Code](https://fev.al/posts/leet-code/)
 * [Interview Tips for Senior PMs. Some quick tips I’ve been sharing on my… | by Jackie Bavaro | Medium](https://jackiebo.medium.com/interview-tips-for-senior-pms-2424f7b7c967) 제목과 달리 일반적으로 쓸 수 있음
 * [인프런 심야 FE 네트워킹 후기 | 개발자 황준일](https://junilhwang.github.io/TIL/Writing/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8B%AC%EC%95%BC-FE-%ED%9B%84%EA%B8%B0/)
-* [내가 개발 인터뷰에서 면접자에게 감동한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/700/)
+* [The Responses I Got From a Software Developer Candidate That Made Me Hire Him | by James Williams | ILLUMINATION | Medium](https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298)
+  * [내가 개발 인터뷰에서 면접자에게 감동한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/700/)
 * [신입 백엔드 면접 질문 Ver. 1.9.0](https://velog.io/@yukina1418/%EC%B5%9C%EA%B7%BC-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%8B%88%EB%A9%B4%EC%84%9C-%EB%B0%9B%EC%95%98%EB%8D%98-%EC%A7%88%EB%AC%B8%EB%93%A4)
 * [2022 상반기 백엔드 개발 취업 회고](https://velog.io/@backtony/2022-%EC%83%81%EB%B0%98%EA%B8%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EC%97%85-%ED%9A%8C%EA%B3%A0)
 * [InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
