@@ -393,6 +393,7 @@ AWS
   * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
+* [AWS Systems manager와 Amazon Inspector로 Amazon EC2 자산 관리 자동화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-systems-manager-amazon-inspector-amazon-ec2-automation/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
