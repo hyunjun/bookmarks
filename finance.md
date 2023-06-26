@@ -196,6 +196,7 @@ Finance
 * [게으른 퀀트 ::: 홈](https://lazyquant.xyz/)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [KIS Developers](https://apiportal.koreainvestment.com/intro) 한국투자증권
+* openbb [Investment research for everyone](https://openbb.co/)
 * [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
@@ -365,6 +366,7 @@ Finance
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
   * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
+  * [ta-lib-python: Python wrapper for TA-Lib (http://ta-lib.org/)](https://github.com/TA-Lib/ta-lib-python)
 * [Zipline - a Pythonic algorithmic trading library](http://www.zipline.io/)
   * Programming for Finance with Python and Quantopian and Zipline
     * [Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
