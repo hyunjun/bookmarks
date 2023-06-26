@@ -1413,6 +1413,16 @@ NLP
   * [PaLM2를 비롯한 몇 가지 LM 이야기](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA/community?lb=UgkxVupwDxjP9L2eQdnDKe1xFzCwnJVY129J)
   * [GPT4를 최단기 퇴물로 만들어버릴 PaLM2 - YouTube](https://www.youtube.com/watch?v=w9YnsVkI980)
   * [generative-ai/language/examples/langchain-intro/intro_langchain_palm_api.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/examples/langchain-intro/intro_langchain_palm_api.ipynb)
+  * [generative-ai-python: Python client library for Google's large language model PaLM API](https://github.com/google/generative-ai-python)
+    * 대화 히스토리 관리 차원의 토큰을 사용자가 관리할 필요 없음
+    * ChatGPT 를 채팅에 연동하려면 대화 히스토리 관리 때문에 코드가 꽤 지저분해지는데 generative-ai는 편함
+    * 토큰 길이 지정은 파라미터로 지원
+    * 대화 히스토리는 서버에서 내려주는 response에 다 담겨있음
+    * 슬랙 등에 연동 할 때 채팅 스레드별로 혹은 사용자별로 대화 히스토리 관리하려면 `response.__dict__` 를 저장해두면 됨
+      * 가져와서 쓰려면 `ChatResponse(**foo)` 이런 코드 한줄로 구현
+    * 속도는 불편함 느끼지 못하게 빠름. 스트리밍 방식은 지원하지 않음. 일관된 성능을 보장해주는 느낌
+    * 아직 버전이 0.1.0이라 갈 길이 많이 남았음. 응답을 내려주지 못하는 경우가 꽤 존재. Who are you 에도 대답을 못함; 구글에서는 이미 알고 있는 문제라고 함. 오히려 복잡한 질문에는 잘 대답
+    * 현재 영어만 지원
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
