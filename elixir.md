@@ -219,6 +219,7 @@ Elixir
   * [Using Elixir & Phoenix To Build A City Software Infrastructure by Shankar Dhanasekaran | EC EU 23 - YouTube](https://www.youtube.com/watch?v=e2fDjl2hoAk)
   * [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss - DockYard](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss)
   * [Context maintainability & guidelines in Elixir & Phoenix | Curiosum](https://curiosum.com/blog/elixir-phoenix-context-maintainability-guildelines)
+  * [Phoenix 가 가장 사랑받는 Web framework 로 선정되었습니다 · Json Media](https://json.media/blog/elixir_and_phoenix_in_2023_developer_survey)
   * [doumi_phoenix_params: A helper library that supports converting form to params and params to form](https://github.com/nallwhy/doumi_phoenix_params)
   * [elixir-phoenix-svelte: An example repository demonstrating Elixir + Phoenix 1.7 with Svelte](https://github.com/aisrael/elixir-phoenix-svelte)
     * [Getting Started: Phoenix 1.7 with Svelte | by Alistair Israel | Mar, 2023 | Medium](https://medium.com/@alistairisrael/phoenix-1-7-with-svelte-12257d853ed1)
