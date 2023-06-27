@@ -357,6 +357,9 @@ Book
 * 기적의 도시 메데진 [책&생각 세계의 롤모델 된 ‘마약의 도시’…비결은 주거·교통 : 책&생각 : 문화 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/culture/book/1077166.html)
   * ★★★☆☆ 2023.06.24 저자가 이야기하듯 나도 다른 대부분의 한국인들과 마찬가지로 파블로 에스코바르로만 기억을 하고 있었는데, 의외로 여러가지 면에서 어두운 시기를 이겨내고 또 몇몇 부분은 국제적으로도 선도하는 도시라는 흥미로운 사실을 알게 되었다
   * 한라 331.47-박65ㄱ 탐라 문331.47-박66ㄱ 우당 문331.47-박66ㄱ
+* [존 도어의 OKR 레볼루션](https://dbr.donga.com/article/view/1305/article_no/10768)
+  * ★★★☆☆ 2023.06.26~27 최근에 책 제목만 보고 오해하는 경우가 많은데 이 책 역시 그런 책이었다. 제목만 봤을 때는 존 도어와 OKR의 결합이니 OKR을 어떻게 제대로 사용할 수 있는지 알려주는 책인가? 지레짐작하고 꺼내들었다. 내용은 전혀 다르게도 우리에게 시급한 환경 보호를 위해 어떻게 하면 넷제로에 도달할 수 있을지를 OKR 형태로 분야별로 알려주는 책이었다. 앨 고어 대신 조지 부시의 당선이나 트럼프 시기는 확실히 환경 측면에서 재앙이었다는 걸 알 수 있다. 나이가 들면서 이분법적인 접근을 하면 안 된다는 걸 점점 깨닫고 있지만 보수의 가치란 과연 어떤 것인가, 사람들에게 유익한 점이 있는가 다시 한 번 생각하게 된다.
+  * 우당 문539.92-도63ㅈ
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
@@ -497,8 +500,6 @@ Book
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
-* (NOT YET) [존 도어의 OKR 레볼루션](https://dbr.donga.com/article/view/1305/article_no/10768)
-  * 우당 문539.92-도63ㅈ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
