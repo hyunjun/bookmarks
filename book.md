@@ -687,6 +687,9 @@ Book
   * ★★★☆☆ 2023.06.25 나름 여기 저기 옮겨가며 살아본 경험이 있기에 공감가는 게 많은 책. 프랑스의 이중 언어 학교 체계가 관심이 가면서도 또 그런 고생 없이 얻는 건 없구나 하는 거도 느껴진다
   * 탐라 문325.3304-김19ㄴ
   * [기사 - 쿠마르의 인도 이야기 13 : 국제학교는 영어 수업에서 영어를 가르치지 않는다](https://www.ddanzi.com/ddanziNews/772764854)
+* [교육이 없는 나라](https://www.metroseoul.co.kr/article/20230413500294)
+  * ★★★☆☆ 2023.06.28 좋은 취지로 쓴 좋은 책이지만 저자가 말하듯 작은 불쏘시개일 수 밖에 없다. 과연 우리나라의 교육이 변할 가능성이 있을까? 라고 묻는다면 누구나 그렇듯 거의 불가능하다고 생각한다. 아이가 있는 사람들은 누구나 느끼는 답답함일거다. 답답하지만 바꿀 수도 없고 남들이 하는 걸 따라가거나 따라가야하나 하는 답답함
+  * 우당 문370.4-이58ㄱ
 * (NOT YET) [아들 공부](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187481385)
   * 한라 598.132-미874ㅇ 탐라 문598.132-미823ㅇ 우당 문598.132-미823ㅇ
 * (NOT YET) 엄마의 말 연습 [자존감 높은 아이들은 '이 세마디'를 듣고 자랍니다  | 책식주의](https://v.daum.net/v/tWOZDwT6y4)
@@ -696,8 +699,6 @@ Book
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
 * (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
   * 한라
-* (NOT YET) [교육이 없는 나라](https://www.metroseoul.co.kr/article/20230413500294)
-  * 우당 문370.4-이58ㄱ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
