@@ -137,6 +137,7 @@ iOS
 * [iOS 17 automatically removes tracking parameters from links you click on - 9to5Mac](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
   * iOS 17의 Safari에 Link Tracking Protection 기능 도입, Safari의 프라이빗 모드에서 사용자 식별을 위한 파라미터를 URL에서 자동 제거
   * 이는 광고 플랫폼 등에서 사용자를 추적하기 위해 URL 끝에 추가 파라미터를 자동으로 붙여서 사용
+* [TestFlight 사용하기 (앱 관리자 및 테스터들) :: iOYES](https://green1229.tistory.com/383)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
