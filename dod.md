@@ -9,3 +9,4 @@ DOD Data Oriented Design
   * [oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf](https://neil3d.github.io/reading/assets/slides/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf)
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [(iterate think thoughts): Advantages of Data Oriented Programming](https://yogthos.net/posts/2020-04-08-advantages-of-data-oriented-programming.html)
+* [Reduce System Complexity with Data-Oriented Programming • Yehonathan Sharvit • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=zSHvEAKLFJw)
