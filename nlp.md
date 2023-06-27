@@ -1339,8 +1339,9 @@ NLP
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
 * [GPTCache: GPTCache is a library for creating semantic cache to store responses from LLM queries](https://github.com/zilliztech/GPTCache)
 * GSLM
-  * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445
+  * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445)
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
+* [guidance: A guidance language for controlling large language models](https://github.com/microsoft/guidance)
 * [h2o-llmstudio: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs](https://github.com/h2oai/h2o-llmstudio)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
