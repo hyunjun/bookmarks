@@ -1142,6 +1142,7 @@ Business
 * [5x5 적절한 상황에 적합한 한 마디면 충분합니다](https://brunch.co.kr/@xmetal/241)
 * [번역 실리콘밸리 유니콘 스타트업 리더들의 소통 방법 - Retriever in Jeju](https://retrieverinjeju.com/%ec%8b%a4%eb%a6%ac%ec%bd%98%eb%b0%b8%eb%a6%ac-%ec%9c%a0%eb%8b%88%ec%bd%98-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%98-%ec%86%8c%ed%86%b5-%eb%b0%a9%eb%b2%95/)
 * [협력에서 방향성의 문제란?](https://brunch.co.kr/@graypool/1008)
+* [대화를 하세요, 그게 관계예요](https://brunch.co.kr/@graypool/976)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1990,6 +1991,7 @@ Business
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 * [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
+* [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2427,6 +2429,7 @@ Business
 * [스타트업이 받을 수 있는 클라우드, SaaS 혜택](https://jojoldu.tistory.com/716)
 * [Trade-Offs in Building a Software Company from Startup to Scale Up • Geeta Schmidt • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ujO3p79h6TI)
 * [**샌드버드 오픈 오피스시간에 들은 역발상들**](https://www.facebook.com/jinho.yoo.10/posts/pfbid02EArtyv2rdNCcjKHnDm4w2NtvG3dgn3ovf6S43y1Cc6CSRFEQqLS2z7iridBteGVJl)
+* [에어비엔비를 100배 성장시키며 얻은 교훈 : 네이버 블로그](https://blog.naver.com/bizucafe/223135842362)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
