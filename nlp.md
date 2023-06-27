@@ -1332,6 +1332,7 @@ NLP
 * [evolve-instruct: evolve llm training instruction, from english instruction to any language](https://github.com/lcw99/evolve-instruct)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
+  * [Falcon-40B 모델을 대규모 모델 추론 딥러닝 컨테이너(DLC)로 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/)
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
