@@ -35,6 +35,7 @@ Monitoring
   * Twitter 내부의 매트릭 수집은 매년 30~40%씩 증가, 최근 이 증가속도가 더 커지게 되어 분석 시작
   * 매트릭을 서비스의 어떤 기능이 가장 많이 보내고 있는지, 어떤 매트릭 키스페이스가 많은 매트릭을 생성했는지 알기 위해 flame graph 적용
   * 쉽게 어떤 매트릭 키스페이스가 큰지 찾음. 이 분석으로 가장 큰 서비스 중 하나인 광고팀의 매트릭을 33% 감소
+* [Visualizing Performance - The Developers’ Guide to Flame Graphs • Brendan Gregg • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=VMpTU15rIZY)
 * [Introducing logs from the dashboard for Cloudflare Workers](https://blog.cloudflare.com/introducing-workers-dashboard-logs/)
 * [대시보드 빠르게 개발하는 법](https://brunch.co.kr/@04925bf0d77f43e/16) finereport
 * [Elastic 초간단 모니터링 시스템 만들기](https://jjeong.tistory.com/1568)
