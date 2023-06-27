@@ -193,6 +193,7 @@ Java
 * [java visual vm 으로 메모리 사용량을 간단하게 파악해 봅시다](https://codingdog.tistory.com/entry/java-visual-vm-%EC%9C%BC%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%8C%8C%EC%95%85%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
+* [Java UnaryOperator란?](https://yeonyeon.tistory.com/308)
 * ['살아 움직이는 언어' 자바에 추가된 6가지 새로운 기능 - ITWorld Korea](https://www.itworld.co.kr/news/208787)
 * [Unusual Java: StackTrace Extends Throwable](https://blog.vanillajava.blog/2021/12/unusual-java-stacktrace-extends.html)
 * [Java Integer Cache | Interview Question | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=UGO992dk6qc)
