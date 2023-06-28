@@ -2010,6 +2010,7 @@ Docker
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
   * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
+* [kURL - Open Source Kubernetes Installer](https://kurl.sh/)
 * [Kustomize - Kubernetes native configuration management](https://kustomize.io/)
   * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
   * [쿠버네티스 Config 변경을 위한 Kustomize](https://bcho.tistory.com/1392)
