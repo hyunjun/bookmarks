@@ -166,6 +166,8 @@ Game
 * [microStudio - 온라인 무료 게임엔진 | GeekNews](https://news.hada.io/topic?id=5513)
 * [Niantic Lightship](https://lightship.dev/)
   * [Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개 | GeekNews](https://news.hada.io/topic?id=5355)
+* [Panda3D | Open Source Framework for 3D Rendering & Games](https://www.panda3d.org/)
+  * [Python으로 3D 게임 개발, Panda3d 설치](https://velog.io/@dipokalhhj/Python%EC%9C%BC%EB%A1%9C-3D-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-Panda3d-%EC%84%A4%EC%B9%98)
 * [PyBoy - Game Boy emulator written in Python](https://github.com/Baekalfen/PyBoy)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
