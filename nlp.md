@@ -1318,6 +1318,8 @@ NLP
   * 파인 튜닝도 빠르게 발전 중이며, 프리트레이닝 모델 및 벡터 디비 사용과 통합될 것
   * 10% 미만의 응답자가 비용/성능, 테스팅 및 모니터링 도구를 찾기 시작. 대기업과 규제 산업에서 LLM을 채택하기 시작하면 신뢰도 문제로 관심이 증가할 것
 * [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+* [Unleashing the Power of Large Language Models: Building an AI Chatbot for Private Knowledge Base Queries | by Frank Adams | Jun, 2023 | Medium](https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc)
+  * [YoonSeok Choi - 기업의 자체 자료에 대해 ChatGPT처럼 질문을 하고 답변을 얻고자 할 경우의 프로세스를... | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid0297sVEgRTxD76GDGDGXfBQH2axD2A8fFLJi8kVZY45Az3fLf4bPPapGBJGdbH23dGl)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
