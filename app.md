@@ -1353,6 +1353,7 @@ App
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
 * [FanFan](https://fanfan.rambo.codes/) soothing sound of computer fans
 * [Fig](https://fig.io/) Fig adds VSCode-style autocomplete to your existing terminal
+  * [커맨드라인 툴 fig : 네이버 블로그](https://blog.naver.com/pjt3591oo/223141196377)
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
