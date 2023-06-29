@@ -495,6 +495,7 @@ AWS
 * [AWS Nitro System 기밀 컴퓨팅 기능에 대한 외부 검증 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-nitro-system-gets-independent-affirmation-of-its-confidential-compute-capabilities/)
 * [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
 * [Amazon Kendra로 모든 유형의 자료 검색 구축하기 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-search-foralltype-amazon-kendra/)
+* [Amazon Kendra, LangChain 및 대규모 언어 모델(LLM)을 사용하여 엔터프라이즈 데이터에서 높은 정확도의 생성형 AI 애플리케이션을 빠르게 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
