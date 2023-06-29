@@ -1477,6 +1477,7 @@ Docker
   * 처음 Admission Webhook를 알았을 때는 사용해 볼 일이 없다고 생각했지만 만들게 되면서 Kubebuilder나 Operator SDK 등의 복잡한 프레임워크는 필요 없다고 판단하여 간단한 Go 웹서버를 만들어서 Admission Webhook에서 팟의 이름을 검증하고 Mutating 단계에서 환경을 주입하는 등의 간단한 동작을 하는 Admission Webhook을 설명하고 소스 코드도 공개
 * [What happens when you upgrade to Kubernetes v1.24? | jimangel.io](https://jimangel.io/post/dockershim-kubernetes-v1.24/) Docker-shim 제외. 2022 2Q 예정
 * [k8s 1.24에서 docker 지원 중단에 따른 container 런타임(docker, containerd, cri-o) 전환 방법](https://velog.io/@whereisdw/kubernetes-k8s-1.24%EC%97%90%EC%84%9C-container-%EB%9F%B0%ED%83%80%EC%9E%84-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EB%B2%95)
+* [86. Kubernetes docker 지원 중단 관련 설명](https://ikcoo.tistory.com/189)
 * [Is Your Cluster Ready for v1.24? | Kubernetes](https://kubernetes.io/blog/2022/03/31/ready-for-dockershim-removal/)
   * Kuberentes는 2020년 12월 Dockershim 폐기 예정 공지
     * dockershim은 Docker 엔진을 Kubernetes의 컨테이너 런타임으로 사용할 수 있게 함
