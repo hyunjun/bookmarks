@@ -407,6 +407,8 @@ App
   * [Hugo에 쉽게 글쓰기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-970590914-post-9/)
   * [How to set up a blog with Hugo and Cloudflare (and why you should) | Smaller Fish](https://smaller.fish/posts/hugo)
   * [Vercel에 Hugo 사이트 배포하기 - AnyDoc](https://dev.alliknow.info/posts/2023/5/deploying-hugo-with-vercel/)
+* [inblog | Boost your sales through SEO-optimized blog](https://inblog.ai/)
+  * [SEO 최적화 내세운 노션 기반 블로그 플랫폼 ‘인블로그’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2091/)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
