@@ -4949,6 +4949,7 @@ Javascript
 * [react-ml-app - A machine learning example app: dog classification in the browser](https://github.com/davidpfahler/react-ml-app)
   * fastai 모델을 ONNX로 변환한 뒤, ONNX.js를 이용해서 해당 모델을 React의 컴포넌트로써 브라우져에 포팅
 * [react-monocle - A developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
+* [react-multi-email: :octocat: A simple react component to format multiple email as the user types](https://github.com/axisj/react-multi-email)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
 * [react-native-facebook-ui - Pure javascript prototype of iOS Facebook UI for React Native framework](https://github.com/ggomaeng/react-native-facebook-ui)
 * [react-native-firebase 라이브러리를 사용하여 좀 더 자세하게 앱을 분석해 보자](https://dev-yakuza.github.io/ko/react-native/react-native-firebase-analytics)
