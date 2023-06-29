@@ -911,6 +911,7 @@ Programming
 * [Architecture Challenges Faced by Agile Organisations • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=rKtZk5GHDFs)
 * [지난 9개월간의 딜리버리프로덕트팀의 경험과 변화에 대한 이야기: 애자일 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/teamsoftwaredevelopment-changes-deliveryproduct/)
 * [Flow: the worst software development approach in history by Sander Hoogendoorn & Kim Van Wilgen - YouTube](https://www.youtube.com/watch?v=FahSLxZrsCs) Big Flow Framework BFF
+* [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
