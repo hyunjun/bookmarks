@@ -496,6 +496,7 @@ AWS
 * [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
 * [Amazon Kendra로 모든 유형의 자료 검색 구축하기 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-search-foralltype-amazon-kendra/)
 * [Amazon Kendra, LangChain 및 대규모 언어 모델(LLM)을 사용하여 엔터프라이즈 데이터에서 높은 정확도의 생성형 AI 애플리케이션을 빠르게 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
+* [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1232,6 +1233,7 @@ AWS
   * `Principal`과 `Condition`을 이용해서 범위를 제어하는 데 시간 기반으로 하거나 IP 주소로 하는 방법 등 설명
 * [AWS 크레덴셜 안전하기 사용하기 – Assume Role – Lamanus' Archive](https://lamanus.kr/111)
 * [ABAC 구성을 위한 AWS IAM 정책 설정(EC2권한)하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-iam-policy-for-abac/)
+* [AWS IAM 역할과 함께 신뢰 정책을 사용하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-use-trust-policies-with-iam-roles/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
@@ -1828,6 +1830,7 @@ AWS
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
+* [AWS 주간 소식 모음 – AWS Step Functions 버전 및 별칭, Graviton3E 기반 EC2 인스턴스 등 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-week-in-review-step-functions-versions-and-aliases-ec2-instances-with-graviton3e-processors-and-more-june-26-2023/)
 
 # Personalize
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
