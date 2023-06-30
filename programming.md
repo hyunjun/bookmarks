@@ -1734,7 +1734,6 @@ Programming
   * 블루스카이 앱도 곧 공개할 예정
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
-* [loxilb: eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps](https://github.com/loxilb-io/loxilb)
 
 ## Architecture Domain Driven Development DDD
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
