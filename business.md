@@ -2328,6 +2328,8 @@ Business
 * [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
 * [“스타트업은 용병이 아니라 선교사를 채용하라” (권도균 대표) - YouTube](https://www.youtube.com/watch?v=GJy-hWiB2pg)
 * [스타트업 CEO들이 가장 많이 하는 실수 (권도균 대표) - YouTube](https://www.youtube.com/watch?v=07BEUEu9nwM)
+* [3 Engineering Mistakes That Kill Startups - by Michael Lin](https://www.michaellinwrites.com/p/3-engineering-mistakes-that-kill)
+  * [스타트업을 죽이는 3가지 엔지니어링 실수 | 커리어리](https://careerly.co.kr/comments/85511)
 * [Y Combinator: The Institute of Innovation | The Generalist](https://www.readthegeneralist.com/briefing/yc)
   * [Y Combinator : 혁신 연구소 | GeekNews](https://news.hada.io/topic?id=6952)
     * Paul Graham, Robert Morris, Trevor Blackwell, Jessica Livingston이 만든 Y Combinator가 어떻게 만들어졌는지 역사 소개
