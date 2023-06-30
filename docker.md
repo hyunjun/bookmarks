@@ -1691,6 +1691,7 @@ Docker
     * 이때 클러스터에 기본 프로파일을 관리하고 애플리케이션에 연결해서 사용 가능
   * 그동안은 기반 프로파일을 관리하는데 어려움이 있었지만 SPO 0.8.0부터는 OCI 아티팩트 기본 프로파일 지원
   * 같이 제공되는 spoc 명령어를 사용해서 OCI 프로파일을 레지스트리에 등록하는 방법도 설명
+* [How does Kubernetes work internally? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/how-does-kubernetes-work-internally-702b5d16c6ef)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
