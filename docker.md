@@ -578,6 +578,7 @@ Docker
 * [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
 * [컨테이너 표준 규격 OCI, 컨테이너 런타임 표준 CRI 이해하기](https://blog.naver.com/pjt3591oo/222992244712)
 * [What Is a Standard Container (2021 edition) - Ivan Velichko](https://iximiuz.com/en/posts/oci-containers/) OCI
+* [원리부터 파악하는 컨테이너 이미지 PULL (w/ curl) :: iWan](https://iwanhae.tistory.com/3)
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
 * [Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
