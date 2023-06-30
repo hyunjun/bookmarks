@@ -2786,6 +2786,9 @@ Programming Books
   * [팀으로 일하라](https://blog.naver.com/jinjin8585/154842721)
     * 2023.06.11 혹시 다른 내용이 있을까 해서 읽어봤는데 거의 1st edition 격으로 대부분의 내용이 비슷함
     * 한라 325.2-박883ㅌ 우당 문325.2-박832ㅌ
+* [컬처덱 조직문화를 선언하는 가장 강력한 방법](https://blog.naver.com/busanapple/223082849440)
+  * ★★★☆☆ 2023.06.30 넷플릭스를 통해 유명해진 컬처덱을 중심으로 조직 문화에 대해 이야기하고 후반부에서는 정말 컬처덱을 만드는 과정을 단계별로 자세히 설명한다. 리더들에게도 도움이 되겠지만 HR이나 정말 컬처덱을 만드려는 고민을 하는 사람들에게 좀 더 적합하다
+  * 한라 325.23-박82ㅋ 우당 문325.2-박811ㅋ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2882,8 +2885,6 @@ Programming Books
   * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
 * (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
   * 우당 문325.19-톰829ㅅ
-* (NOT YET) [컬처덱 조직문화를 선언하는 가장 강력한 방법](https://blog.naver.com/busanapple/223082849440)
-  * 한라 325.23-박82ㅋ 우당 문325.2-박811ㅋ
 * (NOT YET) [최고의 팀은 무엇이 다른가?](https://brunch.co.kr/@charles104/222)
   * 우당 문325.2-코69ㅊ
 * (NOT YET) [리모트워크 레볼루션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305198479)
