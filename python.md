@@ -3608,6 +3608,7 @@ Python
   * [Python 내부의 C 코드 들여다보기 | tempkdw blog](https://tempkdw.github.io/posts/cpython-debug/)
   * [How we are making Python 3.11 faster (CPython project) - YouTube](https://www.youtube.com/watch?v=MipEJ3XzZjU)
   * [How we are making Python 3.11 faster - presented by Mark Shannon - YouTube](https://www.youtube.com/watch?v=xKk7IXm0XO0&t=0s)
+  * [파이썬 3.11은 어떻게 빨라질 수 있었을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2096/)
   * [Python의 최적화 그리고 C 바인딩 이야기. 한성민 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Nc2knz0tv6U)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
