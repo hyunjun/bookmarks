@@ -180,6 +180,7 @@ Flutter
 * [Stripe Payment Gateway In Flutter 2023 - YouTube](https://www.youtube.com/watch?v=1v-kUU0Vjq4)
 * [플러터가 다른 크로스 플랫폼보다 더 강력한 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1994/)
 * [flutter 화살표 다이얼로그 — 민트소프트](https://blog.mint-soft.com/32)
+* [Flutter App 실시간 CDN 이미지 변경 상태 적용 방안 :: GS Retail Engineering](https://gsretail.tistory.com/33)
 
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
