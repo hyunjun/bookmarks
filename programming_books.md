@@ -2264,6 +2264,7 @@ Programming Books
   * [functional-programming-js: "Functional Programming In Javascript" Source Codes which are translated in Korean](https://github.com/nililee/functional-programming-js)
 * (NOT YET) [함수형 자바스크립트 프로그래밍 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/62)
   * 한라 005.138-유68ㅎ 우당 문005.138-유69ㅎ
+* (NOT YET) [쉽게 시작하는 타입스크립트 도서 리뷰 • 캡틴판교](https://joshua1988.github.io/web-development/typescript-easy-start/)
 
 ## Angular
 
