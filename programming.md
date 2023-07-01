@@ -1620,6 +1620,7 @@ Programming
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [Building Evolutionary Architectures • Rebecca Parsons, Neal Ford & James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=m2ZlX1je3as)
+* [Building Evolutionary Architectures: Principles & Practices • Rebecca Parsons • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=jTX45V5JuN4)
 * [**Architecture aspects - evolutionary architecture development by Urs Enzler - YouTube**](https://www.youtube.com/watch?v=3yZv6oDfY9E) 전반적인 architecture 관련 사항을 모아놓은 설명
 * [Stack Overflow Architecture is not What You Mean It Is](https://www.linkedin.com/posts/milanmilanovic_technology-softwareengineering-programming-activity-7047085045722820608-hZHg/)
 * [Django와 Layered Architecture 사이에서 타협점 찾기 | by 아테나스랩 | 아테나스랩 팀블로그 | Apr, 2023 | Medium](https://medium.com/athenaslab/django%EC%99%80-layered-architecture-%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C-%ED%83%80%ED%98%91%EC%A0%90-%EC%B0%BE%EA%B8%B0-70769c13ef9d)
