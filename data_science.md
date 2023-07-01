@@ -212,6 +212,7 @@ Data Science
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
 * [데이터에 현혹되지 않고, 데이터를 잘 활용할수 있는 14가지 룰](http://www.mimul.com/pebble/default/2016/07/12/1468329184174.html)
 * [Demystifying Different Roles in Data Team](https://chatwithengineers.com/2016/08/21/demystifying-different-roles-in-data-team/)
+* [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) 스페셜리스트가 아닌 제너럴리스트도 필요하다
 * [Causal Data Science](https://medium.com/@akelleh/causal-data-science-721ed63a4027#.l1u2krdk1)
 * [Announcing the general availability of the Microsoft Excel API to expand the power of Office 365](https://blogs.office.com/2016/08/03/announcing-the-general-availability-of-the-microsoft-excel-api-to-expand-the-power-of-office-365/)
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
@@ -434,6 +435,7 @@ Data Science
 * [하나금융경영연구소](http://www.hanaif.re.kr/boardDetail.do?hmpeSeqNo=35641&menuId=MN1000&tabMenuId=N&srchNm=ALL&srchKey=)
 * [DMOps(Data Management Operation and Recipes), 현업에서 데이터 구축하기 — Upstage](https://www.upstage.ai/blog/tech/dmops-data-management-operation-and-recipes)
 * [데이터로 콘텐츠 제대로 다루기. 오늘은 콘텐츠 스쿼드의 일원으로서 풀고 있는 29CM 콘텐츠 데이터… | by 김동욱 | 29CM TEAM | May, 2023 | Medium](https://medium.com/29cm/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-abcf43693a2e)
+* [Uplift Modeling. Maximizing the incremental return of… | by Barış Karaman | Towards Data Science](https://towardsdatascience.com/uplift-modeling-e38f96b1ef60)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -770,6 +772,9 @@ Data Science
 * [OpenRVDAS (Open Research Vessel Data Acquisition System) - a Python-based open source architecture intended to allow easy creation of customized data acquisition systems for research vessels and other scientific installations](https://openrvdas.org)
 * [Prefect - The New Standard in Dataflow Automation - Prefect](https://www.prefect.io/)
   * [PyData Triangle Meetup | Eleanor Hanna & Mary Clair Thompson - YouTube](https://www.youtube.com/watch?v=IwWr14ntg5w)
+* [pylift: Uplift modeling and evaluation library. Actively maintained pypi version](https://github.com/rsyi/pylift/tree/master)
+  * [Welcome to pylift’s documentation! — pylift 0.1.3 documentation](https://pylift.readthedocs.io/)
+  * [About Wayfair | Pylift: A Fast Python Package for Uplift Modeling](https://www.aboutwayfair.com/tech-innovation/pylift-a-fast-python-package-for-uplift-modeling)
 * [Pytubes - a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
   * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)
 * RAPIDS [Open GPU Data Science | RAPIDS](https://rapids.ai/)
