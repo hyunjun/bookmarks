@@ -278,6 +278,8 @@ Programmer
 * [구글 시니어 개발자가 성장을 위해 선택한 길 | 요즘IT](https://yozm.wishket.com/magazine/detail/2066/)
 * [토스ㅣSLASH 23 - 라운드테이블 : 토스 시니어 개발자가 말하는 커리어 패스 - YouTube](https://www.youtube.com/watch?v=Y96tr9SVNy8)
 * [(1) 박성철 - 종종 개발자가 구현 외에 요구 사항 수집/분석, 기획, 설계, 아키텍처 수립, 개발 환경 구축, 테스트,... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02gUqiogg6JhbmW8FEJ7wCWXV8N2g7EbzCBAtH7GNPujxXw83vk69D92b62xYAZRXl)
+* [CS 007: Course Material (2022) | CS 007: Personal Finance for Engineers](https://cs007.blog/2022/10/13/cs-007-course-material-2022/)
+  * [스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의 | GeekNews](https://news.hada.io/topic?id=9431)
 
 # Consult
 * [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
