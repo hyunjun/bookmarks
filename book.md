@@ -795,6 +795,10 @@ Book
   * 한라 325.21-틸898제
 * (NOT YET) [설득의 디테일ㅣ원하는 것을 얻는 섬세한 대화의 기술 9가지 - YouTube](https://www.youtube.com/watch?v=syMYBWU1iEU)
   * 한라 325.26-보17ㅅ 우당 325.26-보17ㅅ
+* (NOT YET) [101가지 비즈니스 모델 이야기](https://brunch.co.kr/@tawnytaewon/33)
+  * 한라 325.1-남23바 탐라 문325.1-남222ㅂ 우당 문325.1-남222ㅂ
+* (NOT YET) [한 장으로 끝내는 비즈니스 모델 100](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198257709)
+  * 한라 325.1-곤25ㅂ 탐라 문325.1-곤225ㅂ
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
@@ -1562,6 +1566,8 @@ Book
   * 한라 189.1-김76ㄴ 탐라 문189-김77ㄴ 우당 문189.1-김77ㄴ
 * (NOT YET) [AI 빅뱅 (생성 인공지능과 인문학 르네상스)](https://www.youtube.com/watch?v=5rKlhmCOJGQ)
   * 탐라 문126-김72ㅇ
+* (NOT YET) [비폭력 대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961)
+  * 한라 331.18-로74비 탐라 문189-로73ㅂ 우당 문189-로73ㅂ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
