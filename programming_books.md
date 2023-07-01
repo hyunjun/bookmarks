@@ -3228,6 +3228,13 @@ Programming Books
 * [게임 프로그래밍 패턴 (Game Programming Patterns) / 로버트 나이스트롬](http://ohyecloudy.com/pnotes/archives/book-game-programming-patterns/)
 * [객체지향의 사실과 오해](http://blog.woniper.net/348)
   * [클래스가 이데아라니](http://imcreator.tistory.com/m/87)
+* [내 코드가 그렇게 이상한가요? – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/06/07/%eb%82%b4-%ec%bd%94%eb%93%9c%ea%b0%80-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/)
+  * ★★★☆☆ 2023.07.01
+  * [내 코드가 그렇게 이상한가요? - Bookmarks](https://app.gitbook.com/s/wfY4kCuIMUXOrqoaEtMx/programming_books-1/is_mycode_that_weird)
+  * [내 코드가 그렇게 이상한가요?](https://github.com/hyunjun/bookmarks/blob/master/programming_books/is_mycode_that_weird.md)
+  * [내 코드가 그렇게 이상한가요?. 좋은 점 | by Jun | Jul, 2023 | Medium](https://nymets.medium.com/%EB%82%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94-fb54ebf7253a)
+  * [내 코드가 그렇게 이상한가요?](https://jh4hj.tistory.com/entry/%EB%82%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EC%9D%B4%EC%83%81%ED%95%9C%EA%B0%80%EC%9A%94)
+  * [내 코드가 그렇게 이상한가요? - Jun’s Substack](https://recur.substack.com/p/d18)
 * (NOT YET) [오브젝트 - 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/)
   * [토비의 봄 TV 스페셜 - 오브젝트와 토끼책의 저자 조영호 님](https://www.youtube.com/watch?v=8OclN9kZTE4)
   * [Study Object book Content Repository](https://github.com/LenKIM/object-book)
@@ -3236,7 +3243,6 @@ Programming Books
   * [헤드퍼스트 디자인 패턴 (개정판)](https://jybaek.tistory.com/952)
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 * (NOT YET) [디자인 패턴의 아름다움](https://jpub.tistory.com/1417)
-* (NOT YET) [내 코드가 그렇게 이상한가요? – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/06/07/%eb%82%b4-%ec%bd%94%eb%93%9c%ea%b0%80-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%9d%b4%ec%83%81%ed%95%9c%ea%b0%80%ec%9a%94/)
 
 # PHP
 
