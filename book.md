@@ -489,6 +489,7 @@ Book
 * (NOT YET) [스컹크 웍스](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298254607)
   * 우당 문559.34464-리819ㅅ
 * (NOT YET) 표류하는 세계 [한국은 피할 수 있을까?...‘허리’부터 무너진다는 저 나라](https://v.daum.net/v/20230401072400526)
+  * 한라 320.942-갤294ㅍ 탐라 문321.97-갤233ㅍ
 * (NOT YET) [만화로 보는 성차별의 역사](https://hanbit.co.kr/store/books/look.php?p_code=B7465011599)
   * 우당 문337.2-베238ㅅ
 * (NOT YET) [올림포스 연대기](https://hanbit.co.kr/store/books/look.php?p_code=B3180984708)
@@ -500,6 +501,7 @@ Book
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
 * (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
+* (NOT YET) [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -650,6 +652,8 @@ Book
   * 한라 673.53099-잭57ㅁ
 * (NOT YET) [반 고흐의 마지막 70일](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312674334)
   * 한라 653.269-베68반고
+* (NOT YET) [피아노의 시간](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314455831)
+  * 한라 676.2-톰57ㅍ 탐라 문670.15-톰58ㅍ
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
@@ -1280,6 +1284,7 @@ Book
 * (NOT YET) [100가지 동물로 읽는 세계사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313552939)
   * 탐라 문909-반78ㅂ
 * (NOT YET) [썬킴의 거침없는 중국사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313969413)
+  * 한라 912-썬878ㅆ 탐라 문912-썬829ㅆ
 * (NOT YET) [커피 세계사 + 한국 가배사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277669559)
   * 우당 문594.3463-이19ㅋ
 * (NOT YET) [피렌체 서점 이야기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308285535)

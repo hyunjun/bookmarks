@@ -1723,6 +1723,7 @@ Programming Books
 * (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
 * (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 | 동양북스](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2720)
+  * [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 * (NOT YET) [15단계로 배우는 도커와 쿠버네티스](https://jpub.tistory.com/1090)
   * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * (NOT YET) [Kubernetes: Up & Running • Brendan Burns & Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Nr3i2r-ffnc)
@@ -1741,7 +1742,6 @@ Programming Books
   * [kubernetes-perfect-guide: 『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository](https://github.com/MasayaAoyama/kubernetes-perfect-guide)
 * (NOT YET) [24단계 실습으로 정복하는 쿠버네티스 | 위키북스](https://wikibook.co.kr/kubepractice)
   * 탐라 문005.11-이73ㅋ 우당 문005.11-이73ㅋ
-* (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
 * (NOT YET) [쿠버네티스 개발 전략 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/10/31/%ec%bf%a0%eb%b2%84%eb%84%a4%ed%8b%b0%ec%8a%a4-%ea%b0%9c%eb%b0%9c-%ec%a0%84%eb%9e%b5)
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
