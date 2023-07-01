@@ -4130,6 +4130,7 @@ Programming Books
     * `소프트웨어 공학의 세계에서 잡일`
     * "잡일이란 수동으로 하며, 반복적이고, 자동화가 가능하고, 전략에 좌우되기보다는 전술적이며, 지속적인 가치를 만들어 내지 못하고, 서비스가 성장함에 따라 선형적으로 linearly 늘어나는 작업입니다."
     * [Google - Site Reliability Engineering](https://sre.google/sre-book/eliminating-toil/)
+  * [Docs for Developers 기술 문서 작성 완벽 가이드](https://jhrogue.blogspot.com/2023/07/docs-for-developers.html)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
   * 탐라 문802-모77ㄱ
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
