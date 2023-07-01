@@ -816,6 +816,8 @@ Web
 * [Scroll Snap API를 통해 이미지 캐러셀 완성하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230119-scroll-snap/)
 * [동적 아코디언(콜랩스) 테이블 만들기](https://blog.naver.com/pjt3591oo/222998041859)
 * [CSS 개발시 중요하다고 생각하는 도구 4가지 | 웹으로 말하기](https://mytory.net/archives/14118)
+* [Future CSS: State Container Queries - Ahmad Shadeed](https://ishadeed.com/article/css-state-queries/)
+  * [미래의 CSS: State Container Queries | GeekNews](https://news.hada.io/topic?id=9566)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
