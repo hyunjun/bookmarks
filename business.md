@@ -1992,6 +1992,9 @@ Business
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 * [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
+* [가볍게 읽는 Product Analysis | Product Analytics Playground](https://playinpap.github.io/basic-product-analysis/)
+* [Product Analytics 201 | Product Analytics Playground](https://playinpap.github.io/product-analytics-201/)
+* [Product Analytics 201. 1장 Data in action: A model of a Dinner… | by Jinhwan Kim | Medium](https://jhk0530.medium.com/product-analytics-201-8ee61de090f8)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
