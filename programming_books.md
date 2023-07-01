@@ -3326,6 +3326,7 @@ Programming Books
   * [로드맵 전환 과정에서 모호함 다루기](https://brunch.co.kr/@graypool/988)
   * [프로덕트는 팀 스포츠다](https://brunch.co.kr/@graypool/1025/)
 * (NOT YET) [프로덕트 매니지먼트](https://www.hanbit.co.kr/store/books/look.php?p_code=B8246471071)
+* (NOT YET) [개발 함정을 탈출하라](https://www.nanasan.co.kr/bookreview-escaping-the-build-trap/)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
