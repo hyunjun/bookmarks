@@ -1078,6 +1078,8 @@ Programming Books
 * [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
   * 한라
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
+* [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
+  * 탐라 문005.7-이73ㄷ
 * (NOT YET) 비즈니스를 위한 데이터 과학
   * 탐라 개005.7-프295ㄷ
 * (NOT YET) 데이터로 말하라 : 냉철한 판단과 완벽한 설득의 기술
@@ -1171,8 +1173,6 @@ Programming Books
   * 우당 문004.588-즈47ㄷ
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
-* (NOT YET) [데이터 과학자 원칙](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317047184)
-  * 탐라 문005.7-이73ㄷ
 * (NOT YET) [공익을 위한 데이터 | 에이콘출판사](http://acornpub.co.kr/book/data-action)
   * 탐라 문005.76-윌239ㄱ
 * (NOT YET) [비즈니스 데이터 과학](https://hanbit.co.kr/store/books/look.php?p_code=B6001875802)
@@ -1610,6 +1610,7 @@ Programming Books
   * 한라 005.7-윌874ㄷ 탐라 문005.7-윌823ㄷ 우당 문005.7-윌823ㄷ
   * [Data Visualization](https://socviz.co/)
   * [SDS 375](https://wilkelab.org/SDS375/)
+  * [데이터 시각화 교과서 (Fundamentals of Data Visualization. 클라우스 윌케, 2020)](https://jehyunlee.tistory.com/4)
 * (NOT YET) [데이터가 한눈에 보이는 시각화: 데이터 시각화 기초부터 분석 사례, 다양한 차트 유형까지 알아보는](https://wikibook.co.kr/dataviz/)
 * (NOT YET) [어나더레벨 데이터 시각화 | 에이콘출판사](http://acornpub.co.kr/book/better-bata-visualizations/)
   * 한라 005.7-슈65ㅇ
@@ -4066,6 +4067,7 @@ Programming Books
   * ★★★☆☆ 2023.05.18, 20 구체적인 부분보다 UI/UX 101에 약간 더 가까운 책으로 사용자 친화적인 디자인의 역사나, 그로 인한 문제들까지 좀 더 넓은 시각에서 볼 수 있는 책
   * 한라 325.571-쿠62ㅇ 탐라 문325.571-쿠61ㅇ 우당 문325.571-쿠61ㅇ
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
+  * [UX/UI의 10가지 심리학 법칙 (존 야블론스키, 2020)](https://jehyunlee.tistory.com/8)
 * (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
 * (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
 * (NOT YET) [사용자를 사로잡는 UX UI 실전 가이드](https://ugong2san.tistory.com/4189)
