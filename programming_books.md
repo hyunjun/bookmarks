@@ -3398,14 +3398,15 @@ Programming Books
 * [테크 커리어](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313825957)
   * ★★★☆☆ 2023.05.02~05 호흡이 짧은 구성(각 소챕터가 매우 짧음)에도 불구하고 어쩐지 부드럽게 읽히지 않지만, 커리어 발전을 위해 필요한 수많은 주제를 하나의 책에 모아서 설명했다는 거 만으로도 좋음
   * 탐라 문005.12-존58ㅌ
+* [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
+  * ★★★★☆ 2023.07.02 제목이 책의 내용을 다 담지 못하는 느낌. 그만큼 다양한 분야의 이야기들을 깊이가 조금은 부족하지만 잘 설명한다. 개발자가 회사에 적응하는 데 필요한 이야기를 넘어 software engineering의 전반을 다룬다. 내가 management를 하기로 생각한 이후 필요로 하거나 구축해야겠다고 생각하는 대부분의 주제들을 담고 있다. 매우 좋은, 추천할만한 책
+  * 탐라 문005.1-리825ㅍ
+  * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
-* (NOT YET) [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
-  * 탐라 문005.1-리825ㅍ
-  * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
