@@ -4892,6 +4892,7 @@ Javascript
   * [Next.js Router에 대한 고찰](https://logotic-hugo.hashnode.dev/nextjs-router)
   * [Next.js App Router 삽질기](https://miriya.net/blog/clji6lc6v000fh29s5s0ql788)
   * [Next.js 13 강의 달린다 (1강~6강) - YouTube](https://www.youtube.com/watch?v=PCkiz2GUFg8)
+  * [Nx + NextJS + Docker: Creating the NextJS application - DEV Community](https://dev.to/sebastiandg7/nx-nextjs-docker-the-nx-way-creating-the-nextjs-application-1efl)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
