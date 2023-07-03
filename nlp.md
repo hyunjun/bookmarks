@@ -1209,6 +1209,7 @@ NLP
 # Graph
 * [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
 * [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
+* [Combining LLMs and Knowledge Graphs!](https://www.linkedin.com/posts/sanyambhutani_combining-llms-and-knowledge-graphs-activity-7077640425301229568-L0Ox/)
 * [graph4nlp: Graph4nlp is the library for the easy use of Graph Neural Networks for NLP](https://github.com/graph4ai/graph4nlp)
 * [GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️♂️](https://github.com/varunshenoy/GraphGPT)
 * [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
@@ -1311,6 +1312,8 @@ NLP
 * [언어모델의 원리와 만들기 – tech.kakao.com](https://tech.kakao.com/2023/06/05/languagemodel-mlm-clm/)
 * [How to use Large Language Models for Scala documentation](https://virtuslab.com/blog/large-language-models-scala-documentation/)
 * [Building the data framework for LLMs | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/building-the-data-framework-for-llms-bca068e89e0e)
+* [Build and Evaluate LLM Apps with LlamaIndex and TruLens | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/build-and-evaluate-llm-apps-with-llamaindex-and-trulens-6749e030d83c)
+* [Build and Scale a Powerful Query Engine with LlamaIndex and Ray | Anyscale](https://www.anyscale.com/blog/build-and-scale-a-powerful-query-engine-with-llamaindex-ray)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
@@ -1321,6 +1324,7 @@ NLP
 * [Unleashing the Power of Large Language Models: Building an AI Chatbot for Private Knowledge Base Queries | by Frank Adams | Jun, 2023 | Medium](https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc)
   * [YoonSeok Choi - 기업의 자체 자료에 대해 ChatGPT처럼 질문을 하고 답변을 얻고자 할 경우의 프로세스를... | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid0297sVEgRTxD76GDGDGXfBQH2axD2A8fFLJi8kVZY45Az3fLf4bPPapGBJGdbH23dGl)
 * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671) QLoRA
+* [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
