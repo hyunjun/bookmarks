@@ -3387,6 +3387,7 @@ Programming
 * [Continuous Integration/Continuous Deployment” in Telecommunications by Ioannis Mylonas - YouTube](https://www.youtube.com/watch?v=bP8EJrWtuNI)
 * [Speaking in Different Tongues: balancing a code base across different languages by Michaël Demey - YouTube](https://www.youtube.com/watch?v=LyVejRMjPn0)
 * [토스ㅣSLASH 23 - 유연하고 안전하게 배포 Pipeline 운영하기 - YouTube](https://www.youtube.com/watch?v=SRLeXvA-o-U)
+* [Announcing A New Way of Learning: The CI/CD Learning Tool - Semaphore](https://semaphoreci.com/blog/cicd-learning-tool)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
