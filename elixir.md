@@ -113,6 +113,8 @@ Elixir
 * [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
 * [The 3 features that will make you fall for Elixir | by WTTJ Tech | Welcome Tech | Medium](https://medium.com/wttj-tech/the-3-features-that-will-make-you-fall-for-elixir-598c9a31172d)
 * [Exploit Guard: Open Source Runtime Application Self Protection for Elixir](https://paraxial.io/blog/exploit-guard)
+* [Journey to Elixir](https://launchscout.com/blog/journey-to-elixir)
+* [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
