@@ -86,6 +86,7 @@ ElasticSearch - Lucene
   * [Amazon OpenSearch의 새로운 기능 집중 탐구하기 - 박진우, 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=etRtqFYebCg)
   * [Amazon OpenSearch 서버리스 미리보기 – 클러스터 관리 없이 검색 및 분석 워크로드 실행 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-amazon-opensearch-serverless-run-search-and-analytics-workloads-without-managing-clusters/)
   * [Laysa Uchoa - Super Search with OpenSearch and Python | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=Nt_Oon_GGsM)
+  * [aws-opensearch-ingestion-tutorials: This sample codes show how to ingest data into Amazon OpenSearch or OpenSearch Serverless using OpenSearch Ingestion. Amazon OpenSearch Ingestion is a kind of alternative for OpenSource Logstash or Amazon Kinesis Data Firehose](https://github.com/aws-samples/aws-opensearch-ingestion-tutorials)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 * [Getting AWS logs from S3 using Filebeat and the Elastic Stack | Elastic Blog](https://www.elastic.co/kr/blog/getting-aws-logs-from-s3-using-filebeat-and-the-elastic-stack)
