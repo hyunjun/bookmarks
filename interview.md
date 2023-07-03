@@ -392,6 +392,7 @@ Interview
   * [Tushar Roy - Coding Made Simple - System design interview questions](https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
   * [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos)
+  * [System Design Master Template: One Template to Rule Them All](https://www.linkedin.com/feed/update/urn:li:activity:7075066225386536960/)
   * AirBnB
     * [How to build an app like Airbnb?](https://hackernoon.com/how-to-build-an-app-like-airbnb-405f3c5872f9)
     * [Airbnb System Design | Booking.com System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=YyOXt2MEkv4)
