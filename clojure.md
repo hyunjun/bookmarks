@@ -433,6 +433,9 @@ Clojure
 * [Clojure visual-tools meeting 17 - various updates - YouTube](https://www.youtube.com/watch?app=desktop&v=OwcoAbsJP8g)
 * [Clojure visual-tools meeting 18 - Mosaic and other updates - YouTube](https://www.youtube.com/watch?app=desktop&v=dUtJ2C4UYqo&ab_channel=SciCloj)
 * [Scicloj LLM Meetup 1: Introduction - YouTube](https://www.youtube.com/watch?v=sap3Z-LpNjY)
+* [Scicloj LLM Meetup 2: Prompt engineering, managing embeddings - YouTube](https://www.youtube.com/watch?v=uhRnCfWSA9Y)
+* [Scicloj LLM Meetup 3: LLMOps with Bosquet - YouTube](https://www.youtube.com/watch?v=NNDThiZqe70)
+* [Clojure is a product design tool. | Precursor](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
