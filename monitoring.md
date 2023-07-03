@@ -46,7 +46,6 @@ Monitoring
 * [Alerting and how 50 lines of code changed how we do it. | by Wojciech Pituła | SwissBorg Engineering | Jan, 2023 | Medium](https://medium.com/swissborg-engineering/alerting-and-how-50-lines-of-code-changed-how-we-do-it-4c2bb5bb67b4)
 * [네이버 검색 SRE 1편 - 차세대 검색 모니터링 시스템을 향한 여정](https://d2.naver.com/helloworld/5799075)
 * [네이버 검색 SRE 2편 - 측정하지 않으면 개선할 수 없다! SRE KPI 개발기](https://d2.naver.com/helloworld/9231267)
-* [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
 
 # Conference
 * [IMDEV 2023](https://conference.imqa.io/)
@@ -320,10 +319,12 @@ Monitoring
 * [Prometheus on EKS](https://www.slideshare.net/JoHoon1/prometheus-on-eks)
 * [Prometheus on NKS](https://www.slideshare.net/JoHoon1/prometheus-on-nks)
 * [쿠버네티스에서 마이크로소프트 애저 프로메테우스 모니터링 사용하기 - ITWorld Korea](https://www.itworld.co.kr/news/295759)
+* [Prometheus 설정 가이드(Auto Scale 대상 모니터링) - BESPIN Tech Blog](https://blog.bespinglobal.com/post/prometheus-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
   * [Prometheus-Cortex Deep dive — Part 1 | by SangHyo Han | Mar, 2022 | Medium](https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-1-28a9df2920f4)
+* [Prometheus - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-anCTn6um3BDsoHnIr0O2tz3)
 * [Thanos - Highly available Prometheus setup with long term storage capabilities](https://thanos.io/)
   * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
   * [모니터링에서 보라색 맛 났어!(Prometheus & Thanos)](https://velog.io/@juunini/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%97%90%EC%84%9C-%EB%B3%B4%EB%9D%BC%EC%83%89-%EB%A7%9B-%EB%82%AC%EC%96%B4Prometheus-Thanos)
