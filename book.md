@@ -777,6 +777,9 @@ Book
 * [스타트업 디자인 씽킹](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307863659)
   * ★★★☆☆ 2023.06.25 디자인 전공자라 사례들이 디자인 쪽에 치우친 감은 있으나 디자인 씽킹의 절차를 알고 싶다면 도움을 받을 수 있는 책
   * 한라 325.21-고67ㅅ 우당 문325.21-고68ㅅ
+* [챗GPT 기회인가, 위기인가 - ZDNet korea](https://zdnet.co.kr/view/?no=20230512164834)
+  * ★★★☆☆ 2023.07.02~03 나쁘진 않지만 직전에 읽었던 관련 서적인 AI 빅뱅에 비교하면 좀 부족하다는 생각이 듦
+  * 한라 331.5412-서38ㅊ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
