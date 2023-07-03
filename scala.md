@@ -725,6 +725,8 @@ Scala
 * [Ross A. Baker: Build your vocabulary with Scala affixes](https://rossabaker.com/blog/scala-affixes/)
 * [Iterator.iterate | Yann Moisan](https://www.yannmoisan.com/scala-iterator-iterate.html)
 * [Chain of responsability with Scala partial functions | Yann Moisan](https://www.yannmoisan.com/scala-partial-functions.html)
+* [Zymposium - Partial Functions & Future ZIO HTTP Features - YouTube](https://www.youtube.com/watch?v=ZIVoy-_k1TI)
+* [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1690,6 +1692,7 @@ Scala
   * ["#Scala CLI" - Tool or Toy? - YouTube](https://www.youtube.com/watch?v=c5lBokinwas)
   * [Creating CLI tools leveraging ZIO and Decline using scala-cli](https://mpkocher.github.io/2022/06/02/CLI-App-leveraging-ZIO-and-Decline-using-scala-cli/)
   * [Scala Toolkit makes Scala powerful straight out of the box](https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/)
+  * [The Scala Toolkit | The Scala Programming Language](https://scala-lang.org/blog/2023/06/20/toolkit.html)
   * [Scala CLI Tutorial: Creating a CLI Sudoku Solver - Rock the JVM Blog](https://blog.rockthejvm.com/scala-cli-and-scala-native/)
   * [Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver - YouTube](https://www.youtube.com/watch?v=KZw0wjSDA6g)
   * [Exploring Scala CLI — the new scala runner | by Piotr Chabelski | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/exploring-scala-cli-the-new-scala-runner-4b958245c2e0)
