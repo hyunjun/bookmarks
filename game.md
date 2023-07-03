@@ -139,6 +139,7 @@ Game
   * [언리얼 인사이트와 친해지기 위한 준비 운동 - 넷마블 기술 블로그](https://netmarble.engineering/preparing-for-unreal-insight/)
   * [언리얼 엔진 특화 프로파일러, 언리얼 인사이트 - 넷마블 기술 블로그](https://netmarble.engineering/unreal-engine-profiler-unreal-insight/)
   * [한 번에 언리얼 엔진 멀티 클라이언트 테스트 환경 구축하기 - 넷마블 기술 블로그](https://netmarble.engineering/unreal-engine-multi-client-at-one-time/)
+  * [unreal_python_recipe_book: A Recipe Book on ways to use Python in Unreal Engine 5](https://github.com/bralkor/unreal_python_recipe_book)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
