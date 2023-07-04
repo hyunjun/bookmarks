@@ -1770,6 +1770,18 @@ Web
   * Go 언어 이용 간단한 WebAssembly 작성 예제
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
 * [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
+* [What is WebAssembly and where did it come from?](https://web.dev/what-is-webassembly/)
+  * 어셈블리 언어의 성능은 얻으면서 아키텍처 종속성이 없도록 하기 위한 WebAssembly의 개념을 간단하게 설명
+  * 첫 단계는 asm.js
+    * asm.js의 AOT 컴파일 전략 사용 가능
+    * 정적 타입 언어는 LLVM 기반의 Emscripten로 변환
+  * WebAssembly는 저수준 어셈블리 유사 언어로 C/C++, Rust 등의 언어를 웹에서 실행할 수 있게 컴파일 타겟 제공
+  * 모듈식 시스템 인터페이스인 WASI로 브라우저가 아닌 환경에서도 실행 가능
+  * 2015년 발표된 WebAssembly는 2019년 W3C recommendation
+  * WebAssembly는 textual와 binary 두 가지 표현이 있는데
+    * textual 표현은 S-expressions에 기반, .wat 확장자를 사용, 텍스트이므로 직접 수정 가능
+    * binary 표현은 .wasm 표현 사용, wat2wasm 같은 도구로 textual 표현을 binary 표현으로 변환 가능
+    * 이 두 표현은 사람에게 친화적이지 않으므로 Emscripten 같은 컴파일러를 사용하는 방법 설명
 * [Cloud Native WebAssembly Applications Are Already Here – The New Stack](https://thenewstack.io/cloud-native-webassembly-applications-are-already-here/)
 * [Containers vs. WebAssembly: What's the Difference? | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/blog/webassembly-vs-containers)
 * [WebAssembly and Containers - YouTube](https://www.youtube.com/watch?v=OGcm3rHg630)
