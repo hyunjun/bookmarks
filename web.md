@@ -350,6 +350,7 @@ Web
 * [세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭! - YouTube](https://www.youtube.com/watch?v=tosLBcAX1vk) session token cookie
 * [Domain Registrars which Developers Recommend](https://newsletter.pragmaticengineer.com/p/domain-registrars-which-developers)
   * [개발자들이 추천하는 Domain Registrar는? | GeekNews](https://news.hada.io/topic?id=9578)
+* [사운드 리소스 전달 WebApp 만들기](https://tech.devsisters.com/posts/building-a-sound-vcs-webapp/)
 
 # Apache
 * installation
