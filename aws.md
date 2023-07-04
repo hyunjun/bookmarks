@@ -1621,6 +1621,7 @@ AWS
   * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
   * [Do not use AWS CloudFormation. Several years ago I actually cared… | by Greg Swallow | Sep, 2021 | Medium](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
   * [Cloudformation vs. Terraform: Which is better? | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/cloudformation-vs-terraform-which-is-better-a7750c6213f7)
+  * [CloudFormation으로 기본 인프라 구성을 자동 구축 하기 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/cloudformation%EC%9C%BC%EB%A1%9C-%EA%B8%B0%EB%B3%B8-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%84%B1%EC%9D%84-%EC%9E%90%EB%8F%99-%EA%B5%AC%EC%B6%95-%ED%95%98%EA%B8%B0-8144e3a9bcd0)
   * [architect: The simplest, most powerful way to build serverless applications](https://github.com/architect/architect)
     * [Architect (arc) - 서버리스 앱 작성/배포를 쉽게 해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=5031)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
