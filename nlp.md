@@ -815,6 +815,7 @@ NLP
   * [ChatGPT로 달라진 개발자의 일상 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/life-after-chatgpt/)
   * [실전! 인공지능 챗봇 개발 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/ai-chatbot/)
   * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
+  * [ChatGPT로 네이티브 지식없이 react-native-cookies 패키지 Android 버그 해결하기 | 오토피디아 블로그](https://blog.doctor-cha.com/solving-an-android-bug-in-the-react-native-cookies-package-using-chatgpt)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1329,6 +1330,7 @@ NLP
   * [YoonSeok Choi - 기업의 자체 자료에 대해 ChatGPT처럼 질문을 하고 답변을 얻고자 할 경우의 프로세스를... | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid0297sVEgRTxD76GDGDGXfBQH2axD2A8fFLJi8kVZY45Az3fLf4bPPapGBJGdbH23dGl)
 * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671) QLoRA
 * [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
+* [Large Language Models: Friend, Foe, or Otherwise • Alex Castrounis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=05GkNdD7JGo)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
