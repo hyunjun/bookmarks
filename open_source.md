@@ -211,6 +211,17 @@ Open Source
       * 오픈소스 릴리스도 내부 버전과 거의 같음
       * Buck2는 원격 실행과 통합되도록 작성되었고 Bazel과 동일한 API 사용
       * Buck2는 가상 파일 시스템과 통합되도록 작성되어 전체 레파지토리를 체크아웃하지 않고 필요할 때 파일을 가져오는 게 가능
+  * [Buck2 Unboxing | BuildBuddy](https://www.buildbuddy.io/blog/buck2-review/)
+    * Bazel의 엔터프라이즈 기능을 제공하는 BuildBuddy에서 Buck2 아티팩트 기반 빌드 도구의 성능과 장단점 비교
+    * Buck2는 Meta에서 Rust로 다시 만든 빌드 도구
+    * 테스트 결과
+      * Bazel에 비해 훨씬 빠름
+      * 원격 실행을 우선 지원하기 때문에 로컬 샌드박싱이 없어도 어색하지 않음
+      * 표준 API를 따르므로 BuildBuddy와도 바로 호환되며 CLI UX가 좋음
+    * 단점
+      * 빌드 내부가 여러 단계로 구성
+      * 아직 빌드 텔레메트리를 제공하지 않음
+      * 레퍼지토리 단계가 없어서 필요한 의존성을 설치하기가 어려운 부분 존재
 * [Glean | Glean](https://glean.software/)
   * [Glean - 소스코드 정보 수집,검색 시스템 | GeekNews](https://news.hada.io/topic?id=4928)
   * [Glean: Data about Code • Simon Marlow • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=6_J59eyhu38)
