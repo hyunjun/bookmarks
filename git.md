@@ -972,6 +972,7 @@ Git
   * [**Git Rebase --Interactive 옵션 알아보기 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2020/09/03/Git-rebase-with-interactive-option.html)
   * [Don’t Fear The Rebase](https://hackernoon.com/dont-fear-the-rebase-bca683888dae)
   * [An introduction to Git merge and rebase: what they are, and how to use them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
+  * [Git 머지와 리베이스 소개: 무엇이고 어떻게 사용하는지](https://www.freecodecamp.org/korean/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/)
   * [깃(Git) 리베이스 사용하기](https://tech.10000lab.xyz/git/git-rebase-workflow.html)
   * [How to become a Git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
   * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) multiple commits를 하나의 new commit으로 변경
