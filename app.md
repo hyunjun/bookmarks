@@ -2134,6 +2134,13 @@ App
   * [피그마에서 브랜치 잘 사용하기](https://brunch.co.kr/@designsystemguy/5)
   * [figma를 이용한 더 나은 기획-디자이너-QA-개발 협업 방법](https://velog.io/@teo/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-%EC%BA%98%EB%A6%B0%EB%8D%94%ED%8C%80%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%9C-figma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-QA-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95)
   * [개발자 모드 공개한 ‘피그마 Config 2023’ 주요 리뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2084/)
+  * [Introducing Figma’s New Dev Mode | Figma Blog](https://www.figma.com/blog/introducing-dev-mode/)
+    * Figma가 개발자 협업을 개선하기 위해 Dev Mode 추가
+    * Dev Mode를 사용하면 디자인 요소의 CSS, iOS, Android 코드 스니펫을 바로 얻을 수 있고 플러그인을 사용해서 GitHub, Jira, Linear 등과 연동해서 프로세스 통합 가능
+    * 변수를 사용한 디자인 토큰도 추가되어 빌드 시 데이터로 사용 가능
+    * 디자인의 진행 상황과 변경 사항을 쉽게 확인할 수 있도록 "ready for development" 표시 가능, diff 쉽게 확인
+    * VS Code 확장이 공개되어 VS Code 내에서 디자인을 바로 확인 가능
+    * Dev Mode는 현재 오픈 베타로 2024년부터는 유료 플랜에서만 Dev Mode를 사용
   * [Figma CLI by Grida | Disquiet\*](https://disquiet.io/product/figma-cli-by-grida)
     * grida cli; cli 환경에서 figma 디자인을 바로 코드로 변환하고 (react, flutter, +) 모듈처럼 임포트 해서 사용할수 있도록 도와주는 도구
     * 사용법
