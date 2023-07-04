@@ -2139,6 +2139,13 @@ Programming
 * [What Are Micro-frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=-thWgobMW_I)
 * [if(kakao)dev2022 마이크로 프론트엔드 실무에 쓸만할까?](https://if.kakao.com/2022/session/82)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
+* [Module Federation의 컨셉과 작동 원리 이해하기](https://maxkim-j.github.io/posts/module-federation-concepts/)
+  * 모듈 단위로 배포 후 브라우저 런타임에서 합체시키는 Module Federation 설명
+  * Module Federation의 핵심 개념 설명
+    * 다른 앱에서 로드할 수 있는 단위인 Container
+    * 다른 앱을 임포트할 때 생성되는 참조 관계인 Container References
+    * 공유되는 의존성인 Share Scope
+  * Webpack 5에서 Module Federation을 지원하기 때문에 어떻게 동작하는지 설명
 * [Micro-Frontends with Module Federation: Beyond the Basics • Manfred Steyer • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=MJnCWffd7ZY)
 * [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
