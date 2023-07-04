@@ -365,6 +365,7 @@ Scala
 * [Concurrent Sudoku Solver: Part 4 - Using FS2 Stream + Topic | by Farooq Qaiser | Jun, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-4-using-fs2-stream-topic-949c8b099abb)
 * [GitHub Code Search First Look - YouTube](https://www.youtube.com/watch?v=bD4VYUDLWg8)
 * [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
+* [Two types of futures](https://softwaremill.com/two-types-of-futures/)
 * [Selection functions are interesting notion with tricky implementation | Anton Kovalevsky](https://antonkw.github.io/scala/selection-functions/)
 * [Implementing Raft using a functional effect system](https://softwaremill.com/implementing-raft-using-a-functional-effect-system/)
 * [Reactive Event Sourcing benchmarks, part 1: PostgreSQL](https://softwaremill.com/reactive-event-sourcing-benchmarks-part-1-postgresql/)
@@ -381,6 +382,8 @@ Scala
 * [Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
 * [Encoding Base58: Understanding and implementing in Scala](https://idiomaticsoft.com/post/2023-05-23-base58/)
 * [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
+* [Chatbot Showdown: Typelevel Scala Edition | by Kacper Korban | VirtusLab | Jun, 2023 | Medium](https://medium.com/virtuslab/chatbot-showdown-typelevel-scala-edition-a4c0c47e39f5)
+* [An intro to Flow Fields in Scala](https://www.chris-kipp.io/blog/an-intro-to-flow-fields-in-scala)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1148,6 +1151,7 @@ Scala
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
+    * [zio-maelstrom](https://zio-maelstrom.bilal-fazlani.com/)
     * ZIO Panel [Migrating From Akka to ZIO Panel Discussion - YouTube](https://www.youtube.com/watch?v=zUPeXoJMbfY)
     * [ZIO Prelude · Next Generation Functional Abstractions For Scala](https://zio.github.io/zio-prelude/)
       * [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
@@ -1555,6 +1559,8 @@ Scala
   * Semigroup [Kittens High on Catnip - Squeaky Clean Type Class Derivation in Scala | by Kiril Yurovnik | Riskified Technology | Jan, 2021 | Medium](https://medium.com/riskified-technology/kittens-high-on-catnip-squeaky-clean-type-class-derivation-in-scala-395eba3c0f4e)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
+* [CodePreview Preview environments with unlimited users for a fixed price | CodePreview](https://codepreview.io/)
+  * [Easy Code Preview Environments for Scala - YouTube](https://www.youtube.com/watch?v=1wS989DvUqg)
 * [com-lihaoyi](https://github.com/com-lihaoyi)
   * [Introducing the com-lihaoyi Github Organization](https://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
@@ -2525,6 +2531,7 @@ Scala
   * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
   * [Wiring everything up for unit testing with Scalatest + Mockito + ArgumentCaptor](https://medium.com/@supermanue/wiring-everything-up-for-unit-testing-with-scalatest-mockito-argumentcaptor-41ec970c3762)
   * [Scala Testing With ScalaTest: Testing Styles for Beginners - YouTube](https://www.youtube.com/watch?v=VqnEjorXq0k)
+  * [Mastering ScalaTest - Exploring Tagging, Retry, Runner and More](https://yadukrishnan.live/mastering-scalatest-exploring-tagging-retry-runner-and-more)
 * [Stryker - Test your tests with mutation testing](https://stryker-mutator.io/)
 * TestContainers [Scala Integration Testing with TestContainers Library](http://blog.madhukaraphatak.com/test-containers-scala/)
 
