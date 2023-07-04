@@ -2023,6 +2023,7 @@ Business
 * [6시간 동안 단체로 해외 콘퍼런스 참여하기: 프로덕트콘 같이 보기 이벤트 - ProductCon London 2023 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/event-watch-productcon-london2023/)
 * [개발 라이프 사이클 (Development Life Cycle) | Dev.Inn](https://devinn.dev/blog/detail.html?id=302)
 * [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
+* [PM은 CAC, LTV, PP를 언제 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2102/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -2048,6 +2049,7 @@ Business
 * [지피지기면 백전백승, 스타트업의 프로덕트 매니저(PM) 직무 뜯어보기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257948)
 * [디자인 전공 출신 신입, 백엔드 PM 으로 살아남기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/12044/)
 * [프로덕트 매니저와 일하는 법 (한글 번역) |.. : 네이버블로그](https://blog.naver.com/bizucafe/223146333490)
+* ["맨땅에 헤딩이 습관" 유쾌한 능력자 김동환 쿠팡PO 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2101/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -2438,6 +2440,7 @@ Business
 * [**샌드버드 오픈 오피스시간에 들은 역발상들**](https://www.facebook.com/jinho.yoo.10/posts/pfbid02EArtyv2rdNCcjKHnDm4w2NtvG3dgn3ovf6S43y1Cc6CSRFEQqLS2z7iridBteGVJl)
 * [에어비엔비를 100배 성장시키며 얻은 교훈 : 네이버 블로그](https://blog.naver.com/bizucafe/223135842362)
 * [반드시 해야 할 존속 가능성에 대한 질문](https://brunch.co.kr/@graypool/1023)
+* [Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기 | GeekNews](https://news.hada.io/topic?id=9482)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
@@ -2583,6 +2586,8 @@ Business
 * [Bing AI의 UX분석하기: 유저 습관 만드는 '훅'모델과 함께 | 요즘IT](https://yozm.wishket.com/magazine/detail/2054/)
 * [Cognitive UX - Using cognitive science and psychology to drive UX design by Emilia Cardi - YouTube](https://www.youtube.com/watch?v=dt1u_zaa0IY)
 * [VDIASI23 - Simone de Gijt - Co-creation between UX and Software - YouTube](https://www.youtube.com/watch?v=CwHZle02rwg)
+* [How to make programmers happy and design-to-developer handoff less painful | by Helen Shabanova | Bootcamp](https://bootcamp.uxdesign.cc/how-to-make-programmers-happy-and-design-to-developer-handoff-less-painful-e0a0a299614f)
+* [디자인 핸드오프에서 지켜야 할 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2099/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
