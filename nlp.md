@@ -1321,6 +1321,10 @@ NLP
   * 파인 튜닝도 빠르게 발전 중이며, 프리트레이닝 모델 및 벡터 디비 사용과 통합될 것
   * 10% 미만의 응답자가 비용/성능, 테스팅 및 모니터링 도구를 찾기 시작. 대기업과 규제 산업에서 LLM을 채택하기 시작하면 신뢰도 문제로 관심이 증가할 것
 * [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+  * [LLM 어플리케이션을 위한 새로운 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=9596)
+  * [권정혁 - a16z가 정리한 "LLM 어플리케이션을 위한 새로운 아키텍쳐" "최신 데이터 인프라를 위한 아키텍처"... | Facebook](https://www.facebook.com/xguru/posts/pfbid05mGBAADr4pPJAwXWwSbyPjaqqLJXCUEgd6MTsY1pQEzcHdKiK36cf7TjvtimGxy7l)
+  * [거대 언어 모델 앱들을 위한 아키텍처의 탄생](https://brunch.co.kr/@delight412/589)
+* [Foundation Model Ops: Powering the Next Wave of Generative AI Apps - Foundation Capital](https://foundationcapital.com/foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/)
 * [Unleashing the Power of Large Language Models: Building an AI Chatbot for Private Knowledge Base Queries | by Frank Adams | Jun, 2023 | Medium](https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc)
   * [YoonSeok Choi - 기업의 자체 자료에 대해 ChatGPT처럼 질문을 하고 답변을 얻고자 할 경우의 프로세스를... | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid0297sVEgRTxD76GDGDGXfBQH2axD2A8fFLJi8kVZY45Az3fLf4bPPapGBJGdbH23dGl)
 * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671) QLoRA
