@@ -359,6 +359,8 @@ Finance
   * [게으른 퀀트 :: 백테스트 패키지 추천! Quantstats 설치 및 사용 가이드](https://lazyquant.tistory.com/entry/%EB%B0%B1%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%B6%94%EC%B2%9C-Quantstats-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [py_finance: 파이썬 금융 데이터 분석 튜토리얼 (Python Finance Data Analysis Tutorial)](https://github.com/sw-song/py_finance)
 * [py_finance_practice: data science tutorials](https://github.com/sw-song/py_finance_practice)
+* [pykrx: KRX 주식 정보 스크래핑](https://github.com/sharebook-kr/pykrx)
+  * [Pykrk를 사용한 금융데이터 수집 PART 1 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/03/python-pykrk-part-1/)
 * [Pythonic: Graphical Python programming for trading and automation](https://github.com/hANSIc99/Pythonic)
   * [Convert your Raspberry Pi into a trading bot with Pythonic | Opensource.com](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
 * [qspy: python package for verifying quantative strategies](https://github.com/GilseungAhn/qspy)
