@@ -2436,6 +2436,7 @@ Business
 * [Trade-Offs in Building a Software Company from Startup to Scale Up • Geeta Schmidt • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ujO3p79h6TI)
 * [**샌드버드 오픈 오피스시간에 들은 역발상들**](https://www.facebook.com/jinho.yoo.10/posts/pfbid02EArtyv2rdNCcjKHnDm4w2NtvG3dgn3ovf6S43y1Cc6CSRFEQqLS2z7iridBteGVJl)
 * [에어비엔비를 100배 성장시키며 얻은 교훈 : 네이버 블로그](https://blog.naver.com/bizucafe/223135842362)
+* [반드시 해야 할 존속 가능성에 대한 질문](https://brunch.co.kr/@graypool/1023)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
