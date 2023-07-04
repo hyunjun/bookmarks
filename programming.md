@@ -1060,6 +1060,7 @@ Programming
 * [The State of APIs in the Container Ecosystem - YouTube](https://www.youtube.com/watch?v=k_hszI5yaZk)
 * [`API 언제 나오나요?` 로 부터 독립하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221127-api-layer/)
 * [Top 6 Most Popular API Architecture Styles - YouTube](https://www.youtube.com/watch?v=4vLxWqE94l4)
+* [facade API와 Shopping Service API팀에 대한 이야기](https://dev.gmarket.com/84)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -1528,6 +1529,7 @@ Programming
 * [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
 * [Analytics capabilities architectural patterns: A journey for data-driven insights by John Mousa - YouTube](https://www.youtube.com/watch?v=kY697MSLd7E)
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
+* [서버 없이 웹 사이트 쉽게 만들기, LINE의 헤드리스 CMS](https://engineering.linecorp.com/ko/blog/headless-cms-in-line)
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
@@ -5020,6 +5022,7 @@ Programming
   * [기술 뉴스 #222 : 23-05-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1673)
   * [기술 뉴스 #223 : 23-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1676)
   * [기술 뉴스 #224 : 23-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1677)
+  * [기술 뉴스 #225 : 23-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1678)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
