@@ -2047,6 +2047,7 @@ Business
   * [프로덕트 매니저의 역할 -Chloe Shih](https://brunch.co.kr/@yongjinjinipln/96)
 * [지피지기면 백전백승, 스타트업의 프로덕트 매니저(PM) 직무 뜯어보기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/257948)
 * [디자인 전공 출신 신입, 백엔드 PM 으로 살아남기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/12044/)
+* [프로덕트 매니저와 일하는 법 (한글 번역) |.. : 네이버블로그](https://blog.naver.com/bizucafe/223146333490)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
