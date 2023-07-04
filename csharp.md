@@ -20,6 +20,7 @@ C#
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [10 features in C# that you really should learn (and use!)](http://www.codeaddiction.net/articles/15/10-features-in-c-that-you-really-should-learn-and-use)
 * [Rider EAP - A cross-platform C# IDE based on IntelliJ and ReSharper](https://www.jetbrains.com/rider/)
+* [JetBrains Rider의 라이브 템플릿으로 생산성 향상 | The .NET Tools Blog](https://blog.jetbrains.com/ko/dotnet/2023/07/03/level-up-with-live-templates-in-jetbrains-rider/)
 * [프로그래밍 기술/Escort GoF의 디자인 패턴 C#](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/Escort%20GoF%EC%9D%98%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%20C%23)
 * [생성 패턴 개요 (추상 팩토리 패턴, 빌더 패턴, 팩토리 메서드 패턴, 원형 패턴, 단일체 패턴)](http://ehclub.co.kr/2158)
 * [ehpub.co.kr/C#](http://ehpub.co.kr/c-1-c-%EC%86%8C%EA%B0%9C/)
