@@ -1691,7 +1691,26 @@ Docker
     * 이때 클러스터에 기본 프로파일을 관리하고 애플리케이션에 연결해서 사용 가능
   * 그동안은 기반 프로파일을 관리하는데 어려움이 있었지만 SPO 0.8.0부터는 OCI 아티팩트 기본 프로파일 지원
   * 같이 제공되는 spoc 명령어를 사용해서 OCI 프로파일을 레지스트리에 등록하는 방법도 설명
+* [Understanding Kubernetes Pod Security Standards | Snyk](https://snyk.io/blog/understanding-kubernetes-pod-security-standards/)
+  * Kubernetes의 Pod Security Standards를 사용하면 쉽게 클러스터 내의 워크로드에 표준 보안 요구사항 적용 가능
+    * [Pod Security Standards | Kubernetes](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+  * 이전에는 PodSecurityPolicy가 있었지만 v1.21에서 deprecated, v1.25에서 제거
+    * 대신 Pod Security Standards가 보안 요구사항 지원
+  * Pod Security Standards는 모범사례를 지원하도록 Privileged, Baseline, Restricted 3가지 프로파일 지원
+    * Privileged는 권한 상승을 허용하므로 중요한 워크로드가 있는 제한된 경우에만 사용해야 함
+    * Baseline은 복잡하지 않게 보안을 유지할 때 적합
+    * Restricted는 가장 안전한 프로파일
+  * 파드 시큐리티 어드미션 컨트롤러를 사용하면
+    * 정책 위반 파드를 거부하는 Enforce
+    * 허용은 하지만 로그 이벤트에 기록하는 Audit
+    * 허용하지만 사용자에게 경고하는 Warn 제어 모드 사용 가능
 * [How does Kubernetes work internally? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/how-does-kubernetes-work-internally-702b5d16c6ef)
+* [Elevating your Kubernetes Cluster’s Resilience: Pod Disruption Budget | by Arie Bregman | Medium](https://medium.com/@bregman.arie/elevating-your-kubernetes-clusters-resilience-pod-disruption-budget-43979a1cf104)
+  * Kubernetes에서 Pod의 안정성을 확보하기 위해 Pod Disruption Budget(PDB) 사용 가능
+  * 파드는 의도한 작업이나 예상치 못한 문제로 중단 가능
+  * PDB에서 항상 사용할 수 있어야 하는 최소 리플리카 수(min available)와 사용 불가능할 수 있는 최대 리플리카 수(max unavailable)를 지정
+    * 이 규칙을 위반하면 작업을 멈추게 함
+  * 안정성에는 중요하지만 PDB가 의도한 작업을 차단하거나 지연시킬 수도 있으므로 PDB의 동작을 잘 알고 사용해야 함
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
