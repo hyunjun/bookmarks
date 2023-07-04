@@ -828,6 +828,7 @@ SQL
 * [How to Migrate MySQL to AWS RDS Using mysqldump and DMS | by Phoebe Baek | Cloud Villains | Sep, 2022 | Medium](https://medium.com/@phoebebaek/how-to-migrate-mysql-to-aws-rds-using-dump-and-dms-1db41eb248b7)
 * [NodeJS로 mysqldump하고 진행 상황 확인하기 · 감자도스](https://blog.potados.com/dev/nodejs/show-mysqldump-progress-on-nodejs/)
 * [mysqldump 표준 출력을 곧장 gpg 암호화해 파일로 저장하는 bash 명령 | 웹으로 말하기](https://mytory.net/archives/14523)
+* [MySQL DB 백업 복원 mysqldump 명령어](https://ponyozzang.tistory.com/657)
 * [Xtrabackup으로 DB 복구하기](https://jojoldu.tistory.com/469)
 
 ## MySQL Library
