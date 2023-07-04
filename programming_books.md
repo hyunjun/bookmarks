@@ -3139,6 +3139,7 @@ Programming Books
   * [hello-transformer](https://github.com/jinkilee/hello-transformer)
 * (NOT YET) [모두의 한국어 텍스트 분석 with 파이썬 : 길벗, 이지톡](https://www.gilbut.co.kr/book/view?bookcode=BN003747)
   * [pytextbook: 모두의 한국어 텍스트 분석 with 파이썬](https://github.com/pytextbook/pytextbook)
+* (NOT YET) [챗GPT로 대화하는 기술 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/gen-ai/)
 
 # NoSQL
 
