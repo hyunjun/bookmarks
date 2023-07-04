@@ -1130,6 +1130,13 @@ Git
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
 * [3 Chrome Extensions to Give GitHub Superpowers | by Alessia Amitrano | Better Programming | Medium](https://medium.com/better-programming/3-chrome-extensions-to-give-github-superpowers-e993f8703ad) Octolinker, Octotree
 * [5 open source alternatives to GitHub | Opensource.com](https://opensource.com/article/20/11/open-source-alternatives-github)
+* [actions-permissions: GitHub token permissions Monitor and Advisor actions](https://github.com/GitHubSecurityLab/actions-permissions)
+  * [New tool to secure your GitHub Actions | The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/)
+    * GitHub Actions에서 보통 `GITHUB_TOKEN`을 사용해서 권한을 가져오는 데 필요한 것보다 많은 권한을 가지게 되는 경우 다수
+    * 필요한 최소한의 권한만 가질 수 있도록 actions-permissions를 오픈 베타로 공개
+    * 여기에 포함된 Monitor action은 프락시를 통해서 워크플로가 사용하는 API 정보를 수집해서 이를 요약해서 보여주고
+      * Advisor action은 로컬에서도 사용 가능
+      * 워크플로를 여러 번 실행해서 권장 사항을 요약
 * [**Atomist Project Templates**](https://github.com/atomist-project-templates) Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
