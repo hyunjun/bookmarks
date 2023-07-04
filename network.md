@@ -455,6 +455,16 @@ Network
 * [How Facebook Is Bringing QUIC to Billions](https://www.infoq.com/presentations/facebook-quic-http3/)
 * [HTTP/3 From A To Z: Core Concepts — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
 * [초보개발자 HTTP3 살펴보기. 웹과 관련된 개발을 하고 있는 개발자라면 반드시 HTTP를 들어보고… | by Jaeyeoul Ahn | 월요일 오후 9시 | Nov, 2022 | Medium](https://medium.com/monday-9-pm/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-http3-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-98da26749cb9)
+* [Introducing HTTP/3 Prioritization](https://blog.cloudflare.com/better-http-3-prioritization-for-a-faster-web/)
+  * Cloudflare가 RFC 9218 HTTP Extensible Priorities 지원 시작
+    * [RFC 9218: Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218.html)
+    * 이는 서버에서 받을 응답의 우선순위를 지정해서 최상의 결과를 얻도록 하는 것
+    * Cloudflare에 따르면 JavaScript 파일 다운로드와 실행 때문에 렌더링도 지연되었는데 이미지를 먼저 다운받도록 우선순위를 높인 결과 LCP(Largest Contentful Paint)가 37% 개선
+  * HTTP/3의 우선순위 기능은 HTTP/2와 유사하게 클라이언트가 우선순위를 전송하면 서버가 이에 따라 응답 데이터를 보내는 방식으로 동작
+    * 구현은 다름
+    * 우선순위의 Urgency는 0~7의 숫자를 사용하고(0이 가장 중요, 기본값은 3)
+    * Incremental은 불리언 값으로(기본값은 false) true이면 스크리밍 처리 가능하다는 의미
+    * HTTP 헤더 필드나 HTTP/3의 `PRIORITY_UPDATE`로 지정
 * [QUIC 버전 1의 RFC 승인 | saturnsoft.net](https://www.saturnsoft.net/network/2021/05/27/quic-rfc9000/)
   * QUIC은 TCP(트랜스미션 컨트롤 프로토콜) 대신 더 빠른 UDP(유저 데이터그램 프로토콜) 사용
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
