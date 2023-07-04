@@ -1611,6 +1611,9 @@ Javascript
   * [Node.js/TypeScript용 ORM Prisma 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1614)
   * [Benchmark: Prisma VS TypeORM - DEV Community](https://dev.to/josethz00/benchmark-prisma-vs-typeorm-3873)
   * [Prisma 클라이언트 설정 파악하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1617)
+  * [Prisma Client Extensions Are Now Production Ready (4.16.0)](https://www.prisma.io/blog/client-extensions-ga-4g4yIu8eOSbB)
+    * 4.7.0에서 프리뷰로 공개되었던 클라이언트 익스텐션이 4.16.0에서 GA
+    * Prisma 클라이언트에서 $extends를 사용해서 원하는 메서드를 확장 가능
 * Relay
   * [Thinking in GraphQL | Relay](https://relay.dev/docs/principles-and-architecture/thinking-in-graphql/)
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
@@ -2402,6 +2405,20 @@ Javascript
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
     * [SvelteKit 라우팅 구성 시 주의할 점 - DEV Community](https://dev.to/composite/sveltekit-rauting-guseong-si-juyihal-jeom-2cjl)
     * [스벨트 조지기](https://velog.io/@composite/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%A1%B0%EC%A7%80%EA%B8%B0)
+    * [Thoughts on Svelte(Kit), one year and 3 billion requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
+      * 촉박한 일정에서 만들어야 하는 프로젝트에 Svelte와 SvelteKit을 사용해 보고 경험 공유하는 글
+      * 작은 프로젝트부터 Svelte 도입 시작, 지금은 만족하고 있고 앞으로도 Svelte를 사용 예정
+      * 좋은 점
+        * 쉽고 간단해서 생산성 좋음
+        * HTML, CSS, JS에 약간의 지시문을 추가한 것이라 바닐라 라이브러리랑 잘 어울림
+        * Svelte 개발자는 별로 없지만 쉽기 때문에 금방 배울 수 있음
+        * 라우팅도 약간 이상하지만 배우기 어렵지 않음
+      * 안 좋은 점
+        * 생태계가 작아서 다른 라이브러리를 찾기 어려움
+        * 컴포넌트 수준의 SSR 지원 없음
+        * 아일랜드 아키텍처를 지원하지 않아서 페이로드 줄이기가 어려움
+        * Svelte 개발자들이 사용률을 높이는데 큰 관심이 없어 보임
+        * 리액티브 선언은 디버깅이 쉽지 않아서 남용하지 말아야 함
     * [event.keyCode와 event.code, event.key - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/897)
   * [Svelvet](https://svelvet.io/)
   * [Svelte Add](https://github.com/svelte-add)
@@ -5597,6 +5614,13 @@ Javascript
 * [Fully Typed Web Apps | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/fully-typed-web-apps)
   * [완전한 타입 안정성을 가진 웹 애플리케이션 | bohyeon.dev](https://ktseo41.github.io/blog/log/fully-typed-web-apps.html)
 * [Webview에서 핀치 줌(pinch zoom) 구현하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230310-webview-pinch-zoom/)
+* [TypeScript 5.2's New Keyword: 'using' | Total TypeScript](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+  * TypeScript 5.2에 추가될 `using` 키워드 설명
+  * 이는 TC39의 ECMAScript Explicit Resource Management 제안(Stage 3)에 기반
+    * [proposal-explicit-resource-management: ECMAScript Explicit Resource Management](https://github.com/tc39/proposal-explicit-resource-management)
+  * JavaScript의 새로운 전역 심볼인 `Symbol.dispose`에 할당된 모든 것은 리소스로 간주, 생명주기를 가진 객체로 인식, `using` 키워드 사용 가능
+  * 파일 디스크립터를 닫거나 데이터베이스 연결을 종료하는 등 후처리 작업에 `using`을 사용하고 자동 처리 가능
+  * 비동기를 위한 `Symbol.asyncDispose`와 `await using`도 있음
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
