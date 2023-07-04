@@ -26,6 +26,7 @@ Nomad & Remote
 * [8 Lies About Freelancing You Need To Know Right Now](http://invoicegeneratorfree.com/8-lies-about-freelancing-you-need-to-know-about/)
 * [해외에서 프리랜서 개발자 되려면?](https://medium.com/@fantazic/%ED%95%B4%EC%99%B8-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0-fe872add6a17)
 * [번역 프리랜서 AI 엔지니어 1 주년 회고](https://huffon.github.io/2020/05/10/ai-freelancer/)
+* [시작이 막막한 프리랜서 개발자들을 위한 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/2100/)
 * [How to Start a Successful Freelance Business as a Software Developer — Nick Janetakis](https://nickjanetakis.com/blog/how-to-start-a-successful-freelance-business-as-a-software-developer)
 * [workhard anywhere](http://workhardanywhere.com/)
 * [The 25 Best Sites For Finding Remote Work](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
