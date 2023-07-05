@@ -817,6 +817,7 @@ NLP
   * [실전! 인공지능 챗봇 개발 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/ai-chatbot/)
   * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
   * [ChatGPT로 네이티브 지식없이 react-native-cookies 패키지 Android 버그 해결하기 | 오토피디아 블로그](https://blog.doctor-cha.com/solving-an-android-bug-in-the-react-native-cookies-package-using-chatgpt)
+  * [마이크로소프트에게 내용증명 받고 23만 유저 앱 삭제한 건에 대하여 🗑️ @ Sunghyun Cho](https://cho.sh/ko/w/5ADC58)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
