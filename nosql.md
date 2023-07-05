@@ -104,6 +104,7 @@ NoSQL
 * [처음 만난 ceph](http://knight76.tistory.com/entry/%ED%8E%8C%EC%A7%88-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-ceph)
 * [Rook Ceph 운영시 장단점](https://andromedarabbit.net/rook-ceph-%EC%9A%B4%EC%98%81%EC%8B%9C-%EC%9E%A5%EB%8B%A8%EC%A0%90/)
 * [Ceph scales to 10 billion objects – Blocks and Files](https://blocksandfiles.com/2020/09/22/ceph-scales-to-10-billion-objects/)
+* [Ceph의 한계를 극복하고 하이퍼 스케일 프로젝트를 구축한 방법](https://engineering.linecorp.com/ko/blog/about-hyperscale-ceph-project)
 
 # ClickHouse
 * [ClickHouse](https://clickhouse.yandex/) an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries
