@@ -3128,6 +3128,7 @@ Javascript
   * CPU 인텐시브한 작업을 위해 `worker_threads`에 데이터를 넘겨서 실행하고 이벤트를 받는 방법을 설명
 * [node.js의 쓰레딩 관련 오개념 - AnyDoc](https://dev.alliknow.info/posts/2023/5/wrong-undestandings-about-node-js-threading)
 * [How to Create a Multi-Threaded Node.js Library | by Mukul Dutt | Jan, 2023 | Bits and Pieces](https://blog.bitsrc.io/creating-a-multi-threaded-node-js-library-cd342c834607)
+* [Multithreading with Worker Threads in Node.js | AppSignal Blog](https://blog.appsignal.com/2023/07/05/multithreading-with-worker-threads-in-nodejs.html)
 * [Node JS Tutorial - 1 - Creating your first Node JS project - YouTube](https://www.youtube.com/watch?v=1Wi1b6Ys5Yc)
 * [Top 5 NodeJS Framework in 2022. When it comes to NodeJS frameworks… | by Saloni | CitrusLeaf | Jul, 2022 | Medium](https://medium.com/citrusleaf/top-5-nodejs-framework-in-2022-878238fb6d13)
 * [Payment Gateway integration | NodeJs | ReactJs | Razorpay 🔥🔥 - YouTube](https://www.youtube.com/watch?v=NrzthCtKCho)
