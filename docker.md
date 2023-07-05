@@ -1576,6 +1576,7 @@ Docker
 * [K8s Session 2 : Kubectl Installation and Basic commands #Kubernetes #Devops #CICD - YouTube](https://www.youtube.com/watch?v=syK4p3HjBUQ)
 * [K8s Session 3 : Stateful application deployment on Kubernetes - Part 1 #Kubernetes - YouTube](https://www.youtube.com/watch?v=NF75lYT26pE)
 * [K8s Session 4 : Understanding Kubernetes YAML Files #Kubernetes - YouTube](https://www.youtube.com/watch?v=Y7sVJ7R18PQ)
+* [29 Kubernetes Deployment | Kubernetes Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=ojrNIZMT-Y4)
 * [Kubernetes Installation Methods The Complete Guide | by Saeid Bostandoust | ITNEXT](https://itnext.io/kubernetes-installation-methods-the-complete-guide-1036c860a2b3)
 * [Can Data on Kubernetes Become a Declarative Resource? | by Uri Zaidenwerg | Apr, 2022 | Medium](https://medium.com/@urizaidenwerg/can-data-on-kubernetes-become-a-declarative-resource-2ea80c162cf4)
 * [쿠버네티스를 활용한 선언형 클라우드 DB 서비스 -한국어판- - YouTube](https://www.youtube.com/watch?v=BY6NID6X5eU)
