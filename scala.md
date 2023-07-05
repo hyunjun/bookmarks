@@ -1074,6 +1074,7 @@ Scala
     * [Structuring ZIO 2 applications](https://softwaremill.com/structuring-zio-2-applications/)
     * [ZLayers in ZIO 2.0 are a totally different BEAST! - YouTube](https://www.youtube.com/watch?v=3ScqDZp9X3c)
     * [Native Config Lands in ZIO 2.0 – John A De Goes](https://degoes.net/articles/zio-config)
+    * [ZIO 2 Runtime Improvements by John A. De Goes - YouTube](https://www.youtube.com/watch?v=ygOmwze5ETk)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
