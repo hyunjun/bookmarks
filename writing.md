@@ -45,6 +45,7 @@ Writing
 * [멋진 이메일 쓰는 법](http://www.andrewahn.co/silicon-valley/writing-great-emails/)
 * [이메일 쓰기](https://www.thestartupbible.com/2019/11/on-good-email-communication-skills.html)
 * [답장율을 높이는 콜드메일 작성법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223640)
+* [업무 메일을 잘 쓰면 얻는 4가지 이득 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255116)
 * [메일 읽기의 기술](https://brunch.co.kr/@lunarshore/379)
 * [스토리텔링할 때 고민해야할 다섯 가지](http://outstanding.kr/storytelling20170113/)
 * [지성인들의 명언으로 살펴보는 '애국심'](http://amn.kr/sub_read.html?uid=20902&section=sc1)
