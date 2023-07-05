@@ -2490,6 +2490,7 @@ Business
 * [뛰어난 디자이너의 6가지 행동과 생각](http://ppss.kr/archives/27880)
 * [디자이너를 쉽게 잃는 방법 10가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/807/)
 * [디자이너와 일할 때 도움될 10가지 Tip - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9262112644)
+* [디자이너와 일하는 법 (한글 번역) | How.. : 네이버블로그](https://blog.naver.com/bizucafe/223142898596)
 * [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
 * [프로덕트 디자이너가 임팩트를 내는 법. 레몬베이스 프로덕트 디자이너 Redi 인터뷰 | by Dayle Jeong | 레몬베이스 (Lemonbase) | Aug, 2022 | Medium](https://medium.com/lemonbase/%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B0%80-%EC%9E%84%ED%8C%A9%ED%8A%B8%EB%A5%BC-%EB%82%B4%EB%8A%94-%EB%B2%95-a45eb84dc8e8)
 * [알고 계십니까, 우리나라의 문양](http://ppss.kr/archives/28551)
