@@ -500,6 +500,7 @@ AWS
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
 * [AI/ML을 기반으로 한 서버리스 라이브 스트리밍/VOD 서비스 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-serverless-live-streaming-vod-service-based-on-aiml/) Elemental
+* [모든 AWS API 엔드포인트에서 TLS1.2가 최소 TLS 프로토콜 레벨로 변경 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/tls-1-2-required-for-aws-endpoints/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
