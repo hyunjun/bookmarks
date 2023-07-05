@@ -1920,6 +1920,7 @@ AWS
 * [Route 53 Resolver DNS 방화벽](https://zigispace.net/1145)
 * [Creating Disaster Recovery Mechanisms Using Amazon Route 53 | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/creating-disaster-recovery-mechanisms-using-amazon-route-53/)
 * [Route 53에서 Route 53으로 도메인 이전하기 – Lamanus' Archive](https://lamanus.kr/102)
+* [CloudFront 및 Route53 하이브리드 오리진 장애 조치를 통해 웹 애플리케이션 가용성 향상시키기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/improve-web-application-availability-with-cloudfront-and-route53-hybrid-origin-failover/)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
