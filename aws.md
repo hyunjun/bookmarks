@@ -554,6 +554,7 @@ AWS
 * [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 * [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
 * [AWS 배포 파이프라인 참조 아키텍처 및 참조 구현 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
+* [유저 천만명을 위한 최고의 서버 아키텍처는? 👀 - YouTube](https://www.youtube.com/watch?v=-03fvKbziPU)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
