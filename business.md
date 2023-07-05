@@ -2050,6 +2050,7 @@ Business
 * [디자인 전공 출신 신입, 백엔드 PM 으로 살아남기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/12044/)
 * [프로덕트 매니저와 일하는 법 (한글 번역) |.. : 네이버블로그](https://blog.naver.com/bizucafe/223146333490)
 * ["맨땅에 헤딩이 습관" 유쾌한 능력자 김동환 쿠팡PO 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2101/)
+* [개발자와 일하는 법 (한글 번역) | How .. : 네이버블로그](https://blog.naver.com/bizucafe/223147356404)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
