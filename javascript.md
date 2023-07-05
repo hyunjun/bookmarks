@@ -2562,6 +2562,8 @@ Javascript
     * 이 기능을 통해 테스크 실행을 Nx에 위임해서 프로젝트마다 다르겠지만 2~10배 정도 빨라졌고 Turbo에 비해서도 5.3배 빠르다고 함
     * 추가로 Nx와 통합해서 사용하면 Nx의 프로젝트 그래프로 이용할 수 있고 NX Cloud를 이용해서 분산 캐싱이나 분산 태스크 실행도 사용 가능
 * [A build system for the JavaScript ecosystem | moon](https://moonrepo.dev/)
+* [The JavaScript Ecosystem is Delightfully Weird · Fly](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+  * [(번역) 유쾌하게 이상한 자바스크립트 생태계](https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
