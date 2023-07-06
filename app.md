@@ -1140,6 +1140,7 @@ App
     * 오픈 소스 3D 저작 프로그램. 모델링, 리깅, 애니메이션, 시뮬레이션, 렌더링, 합성, 모션 트레킹, 비디오 편집 및 2D 애니메이션 및 3D 파이프라인 전체 지원
   2. [다빈치 리졸브 DaVinci Resolve](https://www.blackmagicdesign.com/kr/products/davinciresolve)
     * 블랙 매직사에서 만든 영상 편집 프로그램. 8K 편집, 색상 보정, 시각 효과, 오디오 포스트 프로덕션을 결합한 올인원 영상 편집 솔루션
+    * [1. 파이썬으로 DavinciResolve를 제어하기 위해 필요한 준비작업](https://martinii.fun/75)
   3. [고닷 게임 엔진 Godot Game Engine](https://godotengine.org)
     * MIT 라이센스 오픈 소스 게임 엔진. 로열티, 사용료 없음
   4. [라이트웍스 Lightworks](https://www.lwks.com)
