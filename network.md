@@ -234,6 +234,7 @@ Network
 * [HTTP Cache 업데이트로 더 강력한 보안 및 개인 정보 보호하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220223)
 * [HTTP 캐시 (Cache-Control, 유효성 검증 및 조건부 요청 등)](https://hudi.blog/http-cache/)
 * [HTTP 캐시 무효화 (Cache Busting)](https://hudi.blog/http-cache-busting/)
+* [RFC-9111 HTTP Caching 무엇이 바뀌었나?. AWS CloudFront는 CDN 서비스이고 Cache를 해주고… | by Hedy Kim | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/rfc-9111-http-caching-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%97%88%EB%82%98-11cbece93f9a)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
 * [HTTP 총정리(정의,메세지,응답, 요청,메소드)](https://velog.io/@fejigu/HTTP%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%A0%95%EC%9D%98%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%91%EB%8B%B5-%EC%9A%94%EC%B2%AD%EB%A9%94%EC%86%8C%EB%93%9C)
 * [HTTP의 발전 · Present](https://present.do/documents/62d294f2e214362cce8a2c45)
