@@ -5624,6 +5624,7 @@ Javascript
   * JavaScript의 새로운 전역 심볼인 `Symbol.dispose`에 할당된 모든 것은 리소스로 간주, 생명주기를 가진 객체로 인식, `using` 키워드 사용 가능
   * 파일 디스크립터를 닫거나 데이터베이스 연결을 종료하는 등 후처리 작업에 `using`을 사용하고 자동 처리 가능
   * 비동기를 위한 `Symbol.asyncDispose`와 `await using`도 있음
+  * [using-keyword.md at master · yeonjuan/dev-blog · GitHub](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/using-keyword.md)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
