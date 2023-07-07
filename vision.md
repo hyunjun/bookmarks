@@ -354,6 +354,7 @@ Vision
     * 이번 모델의 데모나 성능을 보면 image segmentation을 하고 도메인에 상관없이 제로샷으로 바로 작동
   * [How to Use the Segment Anything Model (SAM)](https://blog.roboflow.com/how-to-use-segment-anything-model-sam/)
   * [Label Data with Segment Anything Model (SAM) in Roboflow - YouTube](https://www.youtube.com/watch?v=NAL2xcmMJiQ)
+  * [SAM(Segment Anything Model)과 친해지기 - 김경환](https://aifactory.space/learning/2504/discussion/486)
   * [MobileSAM: This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight](https://github.com/ChaoningZhang/MobileSAM)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
