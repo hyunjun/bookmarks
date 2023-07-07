@@ -95,6 +95,7 @@ Network
 * [**HTTP/1 to HTTP/2 to HTTP/3 - YouTube**](https://www.youtube.com/watch?v=a-sBfyiXysI)
 * [주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1875/)
 * [택배 배송 과정으로 알아보는 엄청 쉬운 컴퓨터 네트워크 | 요즘IT](https://yozm.wishket.com/magazine/detail/1906/)
+* [IP 주소의 역사와 서브넷 마스크의 탄생 | 요즘IT](https://yozm.wishket.com/magazine/detail/2108/)
 * [Network Policy](https://lifeoncloud.kr/entry/Network-Policy)
 * [Traffic Mirroring 서비스 소개 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/363)
 * [네트워크 소켓(윈속)과 연결상태, 동시성, IO 모델](https://blog.naver.com/pjt3591oo/223101051947)
