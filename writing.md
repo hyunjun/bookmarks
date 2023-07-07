@@ -255,3 +255,4 @@ Writing
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
 * [The Challenges of Reading Code and How to Deal with Them](https://www.infoq.com/news/2021/12/reading-code/)
+* [스타트업 신입 개발일지(02 : 소스 코드 분석하기)](https://velog.io/@qksud14/jrdev-02)
