@@ -1878,6 +1878,7 @@ App
     youtube-dl --output "captions.%(ext)s" --write-auto-sub --skip-download [비디오링크]
     sed '/-->/d' captions.en.vtt | sed '/<c>/d' | sed '/^[[:space:]]*$/d' | uniq > captions.txt
     ```
+  * [summarize_youtube_video_lecture: Summarize Youtube's script by chapter creater configured](https://github.com/jinhoyoo/summarize_youtube_video_lecture/)
   * [jsinterp.py at master · ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/blob/master/youtube_dl/jsinterp.py)
   * [yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 * [YouTube.js: 🎥 full-featured wrapper around YouTube's private API](https://github.com/LuanRT/YouTube.js)
