@@ -1452,6 +1452,7 @@ Docker
 * [Kubernetes Crash Course for Absolute Beginners NEW - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 * [3 Reasons to Choose a Wide Cluster over Multi-Cluster with Kubernetes | by Alex Feiszli | Oct, 2021 | ITNEXT](https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644)
 * [컨테이너 탐험가를 위한 ‘쿠버네티스’ 안내서 - CIO Korea](https://www.ciokorea.com/news/211809)
+* [방치하면 밑빠진 독··· 쿠버네티스 비용 관리 준칙 6가지 - CIO Korea](https://www.ciokorea.com/news/298195)
 * [install k8s on ubuntu20.04](https://uni2u.tistory.com/126)
 * [Ubuntu에서 쿠버네티스(k8s) 설치 가이드 - CURVC DevOps - Confluence](https://confluence.curvc.com/pages/releaseview.action?pageId=98048155)
 * [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
