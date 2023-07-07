@@ -452,6 +452,7 @@
   * [Android KSP guide for dummies by a Dummy: Part 1 - DEV Community](https://dev.to/aniketbhoite/android-ksp-guide-for-dummies-by-a-dummy-part-1-3dof)
   * [Android KSP(Kotlin Symbol Processing)을 활용하기 위한 준비단계!](https://thdev.tech/android/2022/05/14/Kotlin-KSP/)
   * [How to use annotation processing with KSP in your Kotlin application | by Matthias Schenk | Apr, 2023 | Towards Dev](https://towardsdev.com/how-to-use-annotation-processing-with-ksp-in-your-kotlin-application-3371393d50d7)
+  * [KConMapper — How To Automate Mapping Function Creation With Kotlin’s KSP | by Yanneck Reiß | Tech Takeaways | Medium](https://medium.com/tech-takeaways/kconmapper-how-to-automate-mapping-function-creation-with-kotlins-ksp-12a91d6adf9a)
 * Ktlint [Format Your Kotlin Code With Ktlint | by Hector Smith | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/format-your-kotlin-code-with-ktlint-6fd1321504d0)
 * [Ktor - a framework for building asynchronous servers and clients](https://ktor.io/)
   * [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
