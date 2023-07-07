@@ -3343,7 +3343,8 @@ Programming Books
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
   * [소프트 스킬 평범한 개발자의 비범한 인생 전략 71가지](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8-%EC%8A%A4%ED%82%AC-%ED%8F%89%EB%B2%94%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B9%84%EB%B2%94%ED%95%9C-%EC%9D%B8%EC%83%9D-%EC%A0%84%EB%9E%B5-71%EA%B0%80%EC%A7%80)
     * 2016.05.16
-  * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 74가지, 개정2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298621616)
+  * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 74가지, 개정2판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298621616)
+    * ★★★☆☆ 2023.07.07 엄청나게 좋은 책은 아닐지 몰라도 실용적이고 개발자로뿐만 아니라 생활인으로 살아가는데 필요한 여러가지 좋은 이야기들을 썼다. 이에 공감하는 사람들이 있으니 개정판도 출간할 수 있었을 거라 생각한다.
     * 우당 문005.104-손33ㅅ
     * https://entreprogrammers.com/
   * [Making the Complex Simple - Simple Programmer](https://simpleprogrammer.com/)
