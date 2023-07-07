@@ -680,6 +680,7 @@ Programming
 * [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
 * [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
+* [프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2106/)
 
 # Agile, Scrum
 * book
@@ -2289,6 +2290,7 @@ Programming
 * [모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1813/)
 * [Microservices explained in 5 minutes - YouTube](https://www.youtube.com/watch?v=lL_j7ilk7rc)
 * [엔터프라이즈 MSA 이야기 1탄 - 주문서비스(Milestone1) :: GS Retail Engineering](https://gsretail.tistory.com/26)
+* [엔터프라이즈 MSA 이야기 2탄-RateLimit 적용으로 시스템장애 예방하기 :: GS Retail Engineering](https://gsretail.tistory.com/32)
 * [Microservices from the Trenches • Sander Hoogendoorn • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=UFFmT4Z5frw)
 * [전략적인 마이크로 서비스 채택 방안](https://brunch.co.kr/@graypool/804)
 * [Should Each Microservice Have Its Own Database? by Dmitry Belyaev - YouTube](https://www.youtube.com/watch?v=A62GpUmO9q0)
@@ -4875,6 +4877,7 @@ Programming
   * [6월 3주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/06/b-6-3.html)
   * [6월 4주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/06/b-6-4.html)
   * [6월 5주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/07/b-6-5.html)
+  * [7월 1주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/07/b-7-1.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
