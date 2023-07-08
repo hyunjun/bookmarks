@@ -2788,6 +2788,7 @@ CVPR2016)
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) Transformer 기반. 기존의 Diffusion 이나 Autoregressive 모델의 성능을 능가하는 SOTA 달성. 모델 크기 900M, Inference 속도도 더 빠르다고 함
 * [Novel AI 찍먹해본 후기 | Univdev](https://www.univdev.page/posts/novel-ai-review/)
 * [PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace](https://promptbase.com/)
+* [MidJourney v5.2 VS Stable Diffusion XL 0.9 — Same Prompt, Different Results | by Jim Clyde Monge | Jun, 2023 | Generative AI](https://generativeai.pub/midjourney-v5-2-vs-stable-diffusion-xl-0-9-same-prompt-different-results-7efa9413ab0a)
 * [Redream: Realtime Diffusion, using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [Scribble Diffusion](https://scribblediffusion.com/)
   * [scribble-diffusion: Turn your rough sketch into a refined image using AI](https://github.com/replicate/scribble-diffusion)
