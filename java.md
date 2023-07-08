@@ -2005,6 +2005,7 @@ Java
 * [Spring Boot Redis CRUD Example | Making Java easy to learn](http://javatechonline.com/spring-boot-redis-crud-example)
 * [SpringBoot에서 Redis 캐시를 사용하기](https://www.wool-dev.com/springboot-redis-cache-simple/)
 * [Spring Session + Custom Session Repository 기반 세션 저장소의 메모리 누수 해결 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/01/09/redis-session.html)
+* [제목은 Spring Session 도입기로 하겠습니다. 근데 이제 Redis를 곁들인](https://zuminternet.github.io/spring-session/)
 * [로그인 검증 로직에 AOP를 적용해서 중복을 제거해보자](https://seohoon-dev.tistory.com/3)
 * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
 * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
