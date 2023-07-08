@@ -1215,6 +1215,7 @@ Git
     * GitHub Copilot for Docs는 채팅 인터페이스로 문서에 대해 AI가 답변하도록 지원하며 React, Azure Docs, MDN을 지원하고 있으며 Copilot for CLI도 개발
     * 각 서비스는 대기열에 추가해서 승인되면 사용
   * [AI를 활용한 개발 효율성 향상 방법 : 네이버 블로그](https://blog.naver.com/drvoss/223110196164)
+  * [“세상 참 좋아졌네”…깃허브 코파일럿 리뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1634/)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
