@@ -45,6 +45,7 @@ Web
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
 * [웹 애니메이션을 구현하는 4가지 방법 (feat. animation API) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220630-four-ways-web-animation/)
+* [애니메이티드 커서 적용하기](https://miriya.net/blog/cljt1vroo0001wbs5usxscp79)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
