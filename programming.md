@@ -2088,6 +2088,7 @@ Programming
 * [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 * [**Microservices External API Integration Patterns | by Neeraj Kushwaha | Mar, 2022 | Medium**](https://learncsdesign.medium.com/microservices-external-api-integration-patterns-60982701829d)
 * [Transactional outbox](https://microservices.io/patterns/data/transactional-outbox.html)
+* [분산 시스템에서 메시지 안전하게 다루기](https://blog.gangnamunni.com/post/transactional-outbox/)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
