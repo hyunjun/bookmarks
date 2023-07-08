@@ -2820,6 +2820,7 @@ CVPR2016)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 # Text to video text2video
+* [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
 * [Dreamix: Video Diffusion Models are General Video Editors](https://dreamix-video-editing.github.io/)
 * [Imagen Video](https://imagen.research.google/video/)
 * [Make-A-Video](https://makeavideo.studio/) Meta에서 영어로 문장을 입력하면 비디오로 만들어주는 논문 발표
