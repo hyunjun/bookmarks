@@ -821,6 +821,7 @@ Web
 * [Scroll Snap API를 통해 이미지 캐러셀 완성하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230119-scroll-snap/)
 * [동적 아코디언(콜랩스) 테이블 만들기](https://blog.naver.com/pjt3591oo/222998041859)
 * [CSS 개발시 중요하다고 생각하는 도구 4가지 | 웹으로 말하기](https://mytory.net/archives/14118)
+* [input과 button을 딱 붙여 인풋 그룹을 만들 때 유용한 inline-flex | 웹으로 말하기](https://mytory.net/archives/14536)
 * [Future CSS: State Container Queries - Ahmad Shadeed](https://ishadeed.com/article/css-state-queries/)
   * [미래의 CSS: State Container Queries | GeekNews](https://news.hada.io/topic?id=9566)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
@@ -1540,6 +1541,7 @@ Web
 * [현대적 보안](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [여기보기 적에게 내 WAS의 디렉터리와 파일을 알리지 말라, WAS 디렉터리 인덱싱 및 상위 디렉터리 접근 제한 - 넷마블 기술 블로그](https://netmarble.engineering/was-directory-indexing-and-restricting-access-to-parent-directory)
+* [여기보기 WAS의 정보는 개인정보 다루듯이 보호하라 - 넷마블 기술 블로그](https://netmarble.engineering/was-information-private/)
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
