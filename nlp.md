@@ -818,6 +818,8 @@ NLP
   * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
   * [ChatGPT로 네이티브 지식없이 react-native-cookies 패키지 Android 버그 해결하기 | 오토피디아 블로그](https://blog.doctor-cha.com/solving-an-android-bug-in-the-react-native-cookies-package-using-chatgpt)
   * [마이크로소프트에게 내용증명 받고 23만 유저 앱 삭제한 건에 대하여 🗑️ @ Sunghyun Cho](https://cho.sh/ko/w/5ADC58)
+  * [챗 GPT, 정말 잘 쓰고 있나요?. 글. 이지윤(Jeanne) / Product Strategist | by 이지윤(Jeanne) | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%B1%97-gpt-%EC%A0%95%EB%A7%90-%EC%9E%98-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-4c5fe0aac074)
+  * [Sung Kim - GPT Code Interpreter의 10가지 멋진 Use Cases 공유드립니다. WOW... | Facebook](https://www.facebook.com/hunkims/posts/pfbid02eu2xwvsW2ibFxx6wAmW1U2vyRxfu6d2NoXPsg1RoRRQVJbiyyBRaZ1mucVq1vecCl)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
