@@ -719,7 +719,9 @@ Javascript
 * [**웹 개발자의 지옥, 이메일 폼 개발하기**](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html) 내용 자체뿐만 아니라 내용 전개 방법도 좋음
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
-* naver fe news [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
+* naver fe news
+  * [2023-07](https://github.com/naver/fe-news/blob/master/issues/2023-07.md)
+  * [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 * [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
@@ -4917,6 +4919,7 @@ Javascript
   * [Nx + NextJS + Docker: Creating the NextJS application - DEV Community](https://dev.to/sebastiandg7/nx-nextjs-docker-the-nx-way-creating-the-nextjs-application-1efl)
   * [Next.js FastAPI Starter – Vercel](https://vercel.com/templates/next.js/nextjs-fastapi-starter)
   * [넥스트 JS 13 에서 몽고 데이터 베이스와 연결하여 구글, 네이버, 카카오에 로그인 하기 - YouTube](https://www.youtube.com/watch?v=YPFWLe0augs)
+  * [Next.js 사용기 - 엘키의 주절 주절](https://elky84.github.io/2023/07/06/next_js_usage/)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
