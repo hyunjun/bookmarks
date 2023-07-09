@@ -5263,6 +5263,7 @@ Programming
 * [The After Party: Refactoring After 100x Hypergrowth - YouTube](https://www.youtube.com/watch?v=b6bu8vd1n5s)
 * [Tidy First? Kent Beck on Refactoring - YouTube](https://www.youtube.com/watch?v=XmsyvStDuqI)
 * [쏘카의 대규모 인증토큰 트래픽 대응 : 개발기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2023/06/27/handling-authentication-token-traffic-01.html)
+* [쏘카의 대규모 인증토큰 트래픽 대응 : 프로젝트 플래닝 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2023/07/07/handling-authentication-token-traffic-02.html)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
