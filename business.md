@@ -316,6 +316,7 @@ Business
 * [구글이 직원들의 업무 능력을 상승시킨 비결 – 체인지그라운드](http://thechangeground.com/archives/21926)
 * [규칙은 마지막에 고려하세요 – The Last Mind](https://blog.lastmind.io/archives/992)
 * [이익을 우선하던 중소기업이 조직문화를 개선하여 “고속성장 스타트업”으로 변신한 방법: 브라운백커피 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252482)
+* [폭발적으로 성장하는 조직에게 필요한 프레임워크.. : 네이버블로그](https://blog.naver.com/bizucafe/223148392566)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
 * [**회사 보고서의 두 종류**](http://ppss.kr/archives/50612)
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
@@ -1144,6 +1145,7 @@ Business
 * [번역 실리콘밸리 유니콘 스타트업 리더들의 소통 방법 - Retriever in Jeju](https://retrieverinjeju.com/%ec%8b%a4%eb%a6%ac%ec%bd%98%eb%b0%b8%eb%a6%ac-%ec%9c%a0%eb%8b%88%ec%bd%98-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%98-%ec%86%8c%ed%86%b5-%eb%b0%a9%eb%b2%95/)
 * [협력에서 방향성의 문제란?](https://brunch.co.kr/@graypool/1008)
 * [대화를 하세요, 그게 관계예요](https://brunch.co.kr/@graypool/976)
+* ['안 돼요'라고 말하지 않는다](https://velog.io/@eddy_song/problem-solver)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -1996,6 +1998,8 @@ Business
 * [가볍게 읽는 Product Analysis | Product Analytics Playground](https://playinpap.github.io/basic-product-analysis/)
 * [Product Analytics 201 | Product Analytics Playground](https://playinpap.github.io/product-analytics-201/)
 * [Product Analytics 201. 1장 Data in action: A model of a Dinner… | by Jinhwan Kim | Medium](https://jhk0530.medium.com/product-analytics-201-8ee61de090f8)
+* [지표 일회일비](https://jojoldu.tistory.com/723)
+* [Notion 성장 전략 | "고객이 아니라 팬.. : 네이버블로그](https://blog.naver.com/bizucafe/223142220468)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2024,6 +2028,7 @@ Business
 * [개발 라이프 사이클 (Development Life Cycle) | Dev.Inn](https://devinn.dev/blog/detail.html?id=302)
 * [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
 * [PM은 CAC, LTV, PP를 언제 어떻게 활용할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2102/)
+* [서비스 기획자의 뷰티컬리로 확장하기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/expand-to-Beauty-Kurly/)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
