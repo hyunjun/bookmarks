@@ -1474,6 +1474,7 @@ AWS
 * [AWS Lambda and Triggers. 안녕하세요. 이번 포스트에서는 람다를 실행 시킬 수 있는 대표 적인… | by 강은호 | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/aws-lambda-and-triggers-428cc89d83ff)
 * [Introducing AWS Lambda response streaming | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-aws-lambda-response-streaming/)
 * [AWS RDS PostgreSQL에서 Slow, Error, DDL 쿼리 발생시 Slack 발송하기](https://jojoldu.tistory.com/711) jest cloudwatch
+* [AWS Lambda를 활용한 동적 Redirect Server 구축하기 (Dynamic HTML Serving)](https://jojoldu.tistory.com/724)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
@@ -1783,6 +1784,7 @@ AWS
 * [Amazon SageMaker 지리 공간 기능 정식 출시 – 보안 업데이트 및 다양한 활용 사례 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
 * [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
 * [카카오스타일의 Amazon SageMaker 분산 훈련을 활용한 카테고리 자동 분류 시스템 모델 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-distributed-training-for-automated-category-classification/)
+* [Amazon SageMaker, Amazon OpenSearch Service, Streamlit, LangChain을 사용하여 강력한 질문/답변 봇 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
