@@ -322,6 +322,8 @@ Programming Books
 * (NOT YET) [게임이 세상을 바꾸는 방법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314582701)
 * (NOT YET) [그림과 작동 원리로 쉽게 이해하는 웹의 기초 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/05/21/Basic-of-Web.html)
 * (NOT YET) [제로 트러스트 구글 엔지니어는 아무도 믿지 않는다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1674)
+* (NOT YET) [리얼월드 암호학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308428577)
+  * 탐라 문004.62-웡223ㄹ
 
 # Agile Scrum
 
@@ -805,6 +807,8 @@ Programming Books
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
   * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
 * (NOT YET) [실용적인 마이크로서비스 아키텍처 패턴 | 에이콘출판사](http://www.acornpub.co.kr/book/practical-ms)
+* (NOT YET) [자동차 소프트웨어 아키텍처 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309216604)
+  * 탐라 문005.12-스831ㅈ
 
 # Artificial Intelligence
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
@@ -1484,6 +1488,7 @@ Programming Books
   * [3장. 신경망 시작하기 (1)](https://subinium.github.io/Keras-3-1/)
   * [케라스 창시자에게 배우는 딥러닝](https://jh4hj.tistory.com/entry/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D)
   * (NOT YET) [“케라스 창시자에게 배우는 딥러닝 2판”이 출간되었습니다! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2022/08/17/%ec%bc%80%eb%9d%bc%ec%8a%a4-%ec%b0%bd%ec%8b%9c%ec%9e%90%ec%97%90%ea%b2%8c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%94%a5%eb%9f%ac%eb%8b%9d-2%ed%8c%90%ec%9d%b4-%ec%b6%9c%ea%b0%84%eb%90%98%ec%97%88%ec%8a%b5/)
+    * 탐라 문004.73-숄233ㅋ
     * [케라스 창시자에게 배우는 딥러닝 - 초간단 리뷰](https://lazymatlab.tistory.com/157)
 * [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
   * 2017.12
@@ -2324,6 +2329,8 @@ Programming Books
 * (NOT YET) [소문난 명강의 : 소플의 처음 만난 리액트](https://hanbit.co.kr/store/books/look.php?p_code=B9365371874)
 * (NOT YET) [나 혼자 만든다! 영화 추천 웹 서비스로 배우는 풀스택](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306366957)
 * (NOT YET) [한 입 크기로 잘라먹는 리액트 책 소개 - YouTube](https://www.youtube.com/watch?v=I8_izQCFsng)
+* (NOT YET) [Do it! 리액트 모던 웹 개발 with 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307915420)
+  * 탐라 문005.138-전64ㄹ
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
@@ -2403,6 +2410,8 @@ Programming Books
 * (NOT YET) [코틀린 동시성 프로그래밍 | 에이콘출판사](http://acornpub.co.kr/book/concurrency-kotlin)
   * 한라 005.13-토294ㅋ
 * (NOT YET) [자바에서 코틀린으로](https://www.hanbit.co.kr/store/books/look.php?p_code=B8465247545)
+* (NOT YET) [아토믹 코틀린](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312687975)
+  * 탐라 문005.133-에823ㅇ
 
 # Linux
 
@@ -3677,6 +3686,8 @@ Programming Books
   * [Abdulazeez Abdulazeez Adeshina | TestDriven.io](https://testdriven.io/authors/adeshina/)
 * (NOT YET) [파이썬 플라스크 웹 앱 개발 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310567755)
   * 탐라 문005.118-사835ㅍ
+* (NOT YET) [파이썬과 Qt6로 GUI 애플리케이션 만들기 5/e | 에이콘출판사](http://acornpub.co.kr/book/python-qt6)
+  * 탐라 문005.135-피818ㅍ
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -4042,7 +4053,8 @@ Programming Books
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
   * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
 * (NOT YET) [xUnit 테스트 패턴 | 에이콘출판사](http://acornpub.co.kr/book/xunit)
-* (NOT YET) 이펙티브 소프트웨어 테스팅
+* (NOT YET) [이펙티브 소프트웨어 테스팅](https://jpub.tistory.com/1391)
+  * 탐라 문005.14-아219ㅇ
   * [Effective Software Testing: A Developer's Guide, by Maurício Aniche](https://www.effective-software-testing.com/)
   * [Effective Software Testing](https://www.manning.com/books/effective-software-testing)
   * [effective-software-testing/code: The code examples of the "Effective Software Testing: A Developer's Guide" book](https://github.com/Effective-software-testing/code)
