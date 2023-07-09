@@ -623,6 +623,7 @@ Scala
 * [Akka-http graceful shutdown](https://day-to-day-stuff.blogspot.com/2020/04/akka-http-graceful-shutdown.html)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
 * [R | Akka HTTP loves JSON: 3 Libraries You Can Integrate into Akka HTTP](https://rockthejvm.com/blog/218449/akka-http-json-3)
+* [6 Common Misconceptions Around Akka-HTTP / Pekko-HTTP | Iterators](https://www.iteratorshq.com/blog/6-common-misconceptions-around-akka-http-pekko-http/)
 
 ## Akka Monitoring
 * [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
@@ -1125,6 +1126,7 @@ Scala
     * [Zymposium - Reloadable Services with ZIO - YouTube](https://www.youtube.com/watch?app=desktop&v=wwS19ZNTS_k)
     * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
     * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
+    * [Why I keep choosing ZIO! - YouTube](https://www.youtube.com/watch?v=H3Bizwx_L1o)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1149,6 +1151,7 @@ Scala
       * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
       * [Introducing ZIO Flow by Daniel Vigovszky - YouTube](https://www.youtube.com/watch?v=ujJuFd6Vvfc)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
+      * ["No More Orphans" in Practice | Jakub Janeček's Blog](https://blog.jakubjanecek.com/blog/20230702_no-more-orphans-in-practice/)
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
@@ -1190,6 +1193,7 @@ Scala
       * [ZIO Streams And Your Business Logic by Samson Kamau Muiruri - YouTube](https://www.youtube.com/watch?v=icD6I33EMNg)
       * [ZIO Streaming Applications, Transformation, and Error Handling - Knoldus Blogs](https://blog.knoldus.com/zio-streaming-applications-transformation-and-error-handling/)
       * [Olivier Nouguier - ZIO Streaming connector for Pravega - YouTube](https://www.youtube.com/watch?v=pHOWODxyjvU)
+      * [Interesting patterns to consume ZIO Streams - Bilal Fazlani](https://bilal-fazlani.com/blog/interesting-patterns-to-consume-zio-streams/)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
       * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
@@ -2799,6 +2803,7 @@ Scala
 * [Scala Center Advent of Code | Scala Center Advent of Code](https://scalacenter.github.io/scala-advent-of-code/2022/)
 * [6 Tips for Scala Adoption. I will share our experience on how to… | by Yurii Krat | BigEng | Jan, 2023 | Medium](https://medium.com/bigcommerce-engineering/6-tips-for-scala-adoption-714b7815c20d)
 * [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023 - YouTube](https://www.youtube.com/watch?v=0Fm0y4K4YO8)
+* [Functional World #9 | Breaking framework chains with vanilla Scala - YouTube](https://www.youtube.com/watch?v=U67BAeH3cxo)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
