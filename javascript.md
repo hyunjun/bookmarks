@@ -2295,6 +2295,7 @@ Javascript
     * Remix로 서버를 구성하고 디렉터리 기반으로 라우팅을 설정해서 웹사이트를 만드는데 필요한 페이지 작성, 데이터 불러오기, 리다이렉션 등의 사용 방법을 설명
   * [Remix without Limits – Vercel](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support) Vercel에서 Remix 지원을 공개
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
+  * [HTML 으로 PPT 슬라이드 만들 수 있다....!? - YouTube](https://www.youtube.com/watch?v=XBORYvf0TfU)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
