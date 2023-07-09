@@ -582,6 +582,7 @@ iOS
 * [Beyond Scroll Views (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/380)
 * [SwiftUI에서 Tooltip 구현하기 :: iOYES](https://green1229.tistory.com/382)
 * [SwiftUI - Custom TabView :: iOYES](https://green1229.tistory.com/385)
+* [SwiftUI - 뷰의 높이가 충분치 않을때도 Sticky 유지하기 :: iOYES](https://green1229.tistory.com/386)
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
