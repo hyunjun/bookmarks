@@ -1302,6 +1302,24 @@ Book
   * 한라 918.4-주25ㅅ 탐라 문918.4-주225ㅅ
 * (NOT YET) 역사의 색 [이 사람이 미국 대통령의 암살자라는 사실을 아시나요? | 직장 생활 연구소](https://v.daum.net/v/HGEH61payj)
   * 한라 909-존57ㅇ
+* (NOT YET) [실학정신으로 세운 조선의 신도시 수원화성 – 김동욱지음/돌베개 | 도서출판 돌베개](http://dolbegae.co.kr/bookreview/8055/)
+  * 한라 911.57-김25ㅅ
+* (NOT YET) [백년 전 영국, 조선을 만나다](https://richspace.tistory.com/entry/%EB%B0%B1%EB%85%84-%EC%A0%84-%EC%98%81%EA%B5%AD-%EC%A1%B0%EC%84%A0%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-%EA%BC%AD-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%B1%85?category=1054742)
+  * 한라 911.05-홍78ㅂ
+* (NOT YET) [한니발 로마의 가장 위대한 적수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303165043)
+  * 한라 922.04-프298ㅎ
+* (NOT YET) [30년전쟁, 오늘의 유럽을 낳은 최초의 영토전쟁 - YouTube](https://www.youtube.com/watch?v=coF_As4VBzQ)
+  * 한라 920.42-웨78ㅅ
+* (NOT YET) [유대인, 발명된 신화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307642255)
+  * 한라 918.63-정67ㅇ 탐라 문918.63-정68ㅇ
+* (NOT YET) [다시 보는 러시아 현대사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259678338)
+  * 한라 929.07-헤68ㄷ
+* (NOT YET) [신간 에도로 가는 길 | 한국경제](https://www.hankyung.com/life/article/202212161535Y)
+  * 한라 913.04-스883ㅇ 탐라 문913.23099-스832ㅇ 우당 문913.04-스832ㅇ
+* (NOT YET) [세종의 고백, 임금 노릇 제대로 하기 힘들었습니다 (송재혁, 2022, 푸른역사)](https://lazyreader.tistory.com/414)
+  * 한라 911.1-송73ㅅ 탐라 문911.052-송72ㅅ 우당 문911.052-송72ㅅ
+* (NOT YET) [대항해시대 최초의 정복자들](https://blog.naver.com/renai_jin/222941195439)
+  * 한라 927.903-크295ㄷ 우당 문927.903-크235ㄷ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -1432,6 +1450,8 @@ Book
 * [하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기](https://post.naver.com/viewer/postView.naver?volumeNo=33147702)
   * ★★★☆☆ 2022.03.21 아직은 잘 모르겠음. 읽기는 좋고 확실히 쓸모도 있어 보이는데 아직 어떻게 해야 유용할지는 바로 와닿지는 않음
   * [하우 투 제텔카스텐 - YouTube](https://www.youtube.com/watch?v=iTJZuw8Wu8k)
+* (NOT YET) [세컨드 브레인, 제텔카스텐, 개인 지식 관리는 도대체 무엇인가 | 10x Lessons](https://tkim.co/2022/07/16/what-is-second-brain/)
+  * 한라 325.2112-포297ㅅ 탐라 문325.2112-포238ㅅ 우당 문325.211-포238ㅅ
 
 # Philosophy
 * [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
@@ -1855,6 +1875,13 @@ Book
 * (NOT YET) [동남아 한 달 살기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299831275)
 * (NOT YET) [내 차 타고 세계여행: 러시아 횡단 편](https://www.newswire.co.kr/newsRead.php?no=869040)
   * 한라 982.902-김52ㄴ
+* (NOT YET) 메트로폴리탄 뉴욕
+  * [메트로폴리탄 뉴욕](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285917742)
+    * 탐라 문984.22102-최72ㅁ 우당 문984.22102-최72ㅁ
+  * [메트로폴리탄 뉴욕 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305859614)
+    * 한라 984.22102-최73ㅁ 우당 문984.22102-최72ㅁ-2
+* (NOT YET) [지리학이 중요하다 (알렉산더 머피) - 김영사](https://nightgom.tistory.com/1013)
+  * 한라 980-머898ㅈ 우당 문980-머849ㅈ
 
 # Wine
 * [내추럴 와인; 취향의 발견](http://news.kmib.co.kr/article/view.asp?arcid=0017513772&code=61171111)
