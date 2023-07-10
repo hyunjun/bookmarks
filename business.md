@@ -2595,6 +2595,7 @@ Business
 * [VDIASI23 - Simone de Gijt - Co-creation between UX and Software - YouTube](https://www.youtube.com/watch?v=CwHZle02rwg)
 * [How to make programmers happy and design-to-developer handoff less painful | by Helen Shabanova | Bootcamp](https://bootcamp.uxdesign.cc/how-to-make-programmers-happy-and-design-to-developer-handoff-less-painful-e0a0a299614f)
 * [디자인 핸드오프에서 지켜야 할 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2099/)
+* [고객의 목소리를 한눈에 볼 수 있도록: 무신사의 VoC 대시보드 제작기 Part1 by UX파트 | MUSINSA tech](https://medium.com/musinsa-tech/voc-dashboard-development-part1-ec40412eb17f)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
