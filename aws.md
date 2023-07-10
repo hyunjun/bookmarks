@@ -1128,6 +1128,7 @@ AWS
   * 이때 Topology Aware Hint를 이용하면 같은 존끼리만 통신할 수 있고
   * Deployment에는 Topology Spread Constraints를 설정해서 Pod이 각 존에 고르게 배포 가능
   * 상황별 설정 방법과 동작 방식 설명
+* [Topology Aware Hints가 Amazon EKS 네트워크 트래픽에 미치는 영향 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/exploring-the-effect-of-topology-aware-hints-on-network-traffic-in-amazon-elastic-kubernetes-service/)
 * [“nodeless” 검색결과 - 리눅서의 기술술 블로그](https://linuxer.name/?s=nodeless)
 * ['Tech/Kubernetes' 카테고리의 글 목록](https://blog.netcloudy.im/category/Tech/Kubernetes)
 * [Amazon EKS 윈클릭 배포 가이드 (’23.6.6 업데이트)](https://gasidaseo.notion.site/Amazon-EKS-23-6-6-16ed4098c3314802a1e4dbf12a9d1da8)
