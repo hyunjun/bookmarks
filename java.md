@@ -2277,6 +2277,8 @@ Java
 * [**MC/DC coverage - YouTube**](https://www.youtube.com/watch?v=HzmnCVaICQ4) modified condition / decision coverage
 * [10분 테코톡 제이의 단위 테스트 - YouTube](https://www.youtube.com/watch?v=mIO4Rbe_M74)
 * [VDIASI23 - Erwin Manders - Test automation guide: How to move away from chain tests - YouTube](https://www.youtube.com/watch?v=vdZBz2v4g-s) Junit Jupiter Extensions, Wiremock, Test Container, Contract testing
+* [실무에서 적용하는 테스트 코드 작성 방법과 노하우](https://springcamp.ksug.org/2023/static/media/track5.bcd17e0f4a3f0d8fb98b.pdf)
+  * [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/mock-test-code/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
