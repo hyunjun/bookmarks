@@ -3713,6 +3713,7 @@ Programming
 * [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
 * [토스ㅣSLASH 23 - 보안의 Next Level을 향해 토스의 Security Review - YouTube](https://www.youtube.com/watch?v=pZh7NBaa6aw)
 * [One Does Not Simply Add MFA • Christine Seeman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=adQZ6r3Y858)
+* [개인용 pc 를 서버로 사용한 안전한 원격 작업 실행 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4550)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
