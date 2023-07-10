@@ -436,6 +436,7 @@ Data Science
 * [DMOps(Data Management Operation and Recipes), 현업에서 데이터 구축하기 — Upstage](https://www.upstage.ai/blog/tech/dmops-data-management-operation-and-recipes)
 * [데이터로 콘텐츠 제대로 다루기. 오늘은 콘텐츠 스쿼드의 일원으로서 풀고 있는 29CM 콘텐츠 데이터… | by 김동욱 | 29CM TEAM | May, 2023 | Medium](https://medium.com/29cm/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-abcf43693a2e)
 * [Uplift Modeling. Maximizing the incremental return of… | by Barış Karaman | Towards Data Science](https://towardsdatascience.com/uplift-modeling-e38f96b1ef60)
+* [100+ 팀원의 의사결정에 영향을 주는 Data Scientist, Decision | by matthew l | 당근마켓 테크 블로그 | Jul, 2023 | Medium](https://medium.com/daangn/100-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EC%A3%BC%EB%8A%94-data-scientist-decision-5c939e8a3ea9) test 관련 좋은 글
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
