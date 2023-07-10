@@ -704,7 +704,9 @@ Book
   * 탐라 문189.24-해239ㅇ 우당 문189.24-해239ㅇ
   * [“자식은 부모하기 나름? 양육가설은 오류투성이”](https://www.hankookilbo.com/News/Read/201902211221040895)
 * (NOT YET) [IB 국제 바칼로레아 초등교육](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308310949)
-  * 한라
+  * 한라 376.9-윤73ㅇ
+* (NOT YET) [그들은 왜 기러기 가족을 선택했는가](https://blog.naver.com/jese75/208880548)
+  * 한라 377.8-성74ㄱ
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)

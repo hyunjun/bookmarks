@@ -1172,6 +1172,7 @@ Programming Books
   * [김수보 - 이 책을 받아 읽어보고 있는데 꽤 내용이 많다. 데이터 아키텍쳐를 설계하고 관리하기 위한 바이블 같은... | Facebook](https://www.facebook.com/kimsubo/posts/pfbid0ncrzvJh95C5KT82NmfZX1UMsDJCM5NDwFv8mGzeNL28GRJb2WQpcRnz27Uv6fSKml)
   * [책 데이터 품질의 비밀](https://jybaek.tistory.com/994)
 * (NOT YET) [코딩 없이 배우는 데이터 과학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312951054)
+  * 탐라 문005.7-황45ㅋ
 * (NOT YET) [로컬에서 직접 빅데이터 서비스를 구현하고 싶다면...](https://jpub.tistory.com/1412)
 * (NOT YET) [데이터 플랫폼 설계와 구축 | 에이콘출판사](http://acornpub.co.kr/book/cloud-data-platforms)
   * 우당 문004.588-즈47ㄷ
