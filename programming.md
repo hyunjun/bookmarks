@@ -677,6 +677,7 @@ Programming
 * [Coding alone vs coding in a team](https://nondv.wtf/blog/posts/coding-alove-vs-coding-in-a-team.html)
 * [실전 RAID 사용 방법 정리. RAID와 디스크 타입으로 보는 데이터 백업 플랜 + 용량 확보 방법… | by Ryan Kim | Mar, 2023 | Medium](https://equus3144.medium.com/%EC%8B%A4%EC%A0%84-raid-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-3ef9e8158dae)
 * [프로그래밍은 왜 어려울까? - Google Slides](https://docs.google.com/presentation/d/1GfA1Gpch9lP-U0hgqF98gMOQl6EI5wsCFHJuHZfi9CY/edit)
+  * [230708 프로그래밍은 왜 어려울까? - 강대명 · Present](https://present.do/documents/64aa85c910ab9a5ae55bad48)
 * [Create an eco-friendly world with Green Software Engineering by Ko Turk - YouTube](https://www.youtube.com/watch?v=zigwUR9fisY)
 * [Your software architecture may aid global warming by Ronald Dehuysser - YouTube](https://www.youtube.com/watch?v=FgcH-x0j-d0)
 * [소프트웨어 기술을 바이블화하면 안된다. – IT의 중심에서](https://subokim.wordpress.com/2023/06/11/software-is-not-bible/) javascript가 만들어질 당시의 환경을 고려해 왜 그랬는지를 돌아봐야 한다는 이야기
