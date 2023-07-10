@@ -1442,6 +1442,8 @@ NLP
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
+* [MosaicML | Home](https://www.mosaicml.com/)
+  * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease](https://github.com/bentoml/OpenLLM)
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
