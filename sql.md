@@ -301,6 +301,10 @@ SQL
   * 첫 작업에서 2개의 테이블을 옮기고 2022년 10월에는 50개의 테이블을 옮기면서 CPU 사용률은 10%까지 감소
 * [케이타운포유의 순간적인 스파이크 트래픽 대응을 위한 Amazon Aurora 오토스케일링 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-auto-scaling-strategy-for-ktown4u-global-spike-traffic-response/)
 * [AWS RDS Aurora I/O-Optimized 적용 후기 – Lamanus' Archive](https://lamanus.kr/113)
+* [Aurora DB 클러스터 역추적 - Amazon Aurora](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Managing.Backtrack.html)
+  * [Aurora MySQL Immersion Day](https://catalog.workshops.aws/awsauroramysql/en-US/provisioned/backtrack/)
+  * [Aurora MySQL Backtrack을 이용한 빠른 복구 방법 - 진교선 :: AWS Database Modernization Day 온라인](https://www.slideshare.net/awskorea/aurora-mysql-backtrack-aws-database-modernization-day)
+  * [Amazon Aurora MySQL Backtrack을 이용한 빠른 복구 방법 - 진교선 :: AWS Database Modernization Day 온라인 - YouTube](https://www.youtube.com/watch?v=zSZVCdC3PFo)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
