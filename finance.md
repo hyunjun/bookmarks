@@ -361,6 +361,7 @@ Finance
 * [py_finance_practice: data science tutorials](https://github.com/sw-song/py_finance_practice)
 * [pykrx: KRX 주식 정보 스크래핑](https://github.com/sharebook-kr/pykrx)
   * [Pykrk를 사용한 금융데이터 수집 PART 1 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/03/python-pykrk-part-1/)
+  * [Pykrk를 사용한 금융데이터 수집 PART 2 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/09/python-pykrk-part-2/)
 * [Pythonic: Graphical Python programming for trading and automation](https://github.com/hANSIc99/Pythonic)
   * [Convert your Raspberry Pi into a trading bot with Pythonic | Opensource.com](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
 * [qspy: python package for verifying quantative strategies](https://github.com/GilseungAhn/qspy)
