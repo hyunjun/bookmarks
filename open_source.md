@@ -146,6 +146,7 @@ Open Source
 * [개발자 성장을 위한 오픈 소스 활용 비법 - 윤석찬 (AWS 수석테크에반젤리스트) :: 2022 공개 SW 페스티벌 - YouTube](https://www.youtube.com/watch?v=bgZIFNTSR3Q)
 * [Fatma Tarlaci, Brian Skinn, Dale Tovar - OpenTeams Score: A Way to Assess Open Source Projects - YouTube](https://www.youtube.com/watch?v=Ca04Ntvg8S4)
 * [토스ㅣSLASH 23 - 은행 데이터플랫폼 오픈소스로 전환하기 - YouTube](https://www.youtube.com/watch?v=RjsG-zKMuX8)
+* [오픈소스는 저희에게 맡겨주세요! OpenChain Korea Work Group 모임 후기 – tech.kakao.com](https://tech.kakao.com/2023/07/10/openchain-kwg-18th-meeting/)
 
 # Contribution
 * [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
