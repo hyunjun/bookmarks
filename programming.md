@@ -5262,6 +5262,7 @@ Programming
 * [Refactoring and Design Patterns](https://refactoring.guru/)
   * [리팩터링과 디자인 패턴](https://refactoring.guru/ko)
 * [Redirect Refactoring](https://zuminternet.github.io/redirect-refactoring/)
+* [리다이렉트 서버와 FCM 푸시 연동](https://zuminternet.github.io/redirect-FCM-push/)
 * [The After Party: Refactoring After 100x Hypergrowth - YouTube](https://www.youtube.com/watch?v=b6bu8vd1n5s)
 * [Tidy First? Kent Beck on Refactoring - YouTube](https://www.youtube.com/watch?v=XmsyvStDuqI)
 * [쏘카의 대규모 인증토큰 트래픽 대응 : 개발기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2023/06/27/handling-authentication-token-traffic-01.html)
