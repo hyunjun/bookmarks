@@ -509,7 +509,6 @@
   * [Mockserver Netty 사용해서 HTTP 통신 Mocking 하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/mock-server-netty/)
 
 # Tutorial
-* [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 * [Getting Started with Kotlin for .NET Developers](https://hadihariri.com/2019/08/16/getting-started-with-kotlin-for-net-developers/)
 * [새로워진 Android Kotlin 코드랩 과정을 만나보세요!](https://developers-kr.googleblog.com/2019/10/new-android-kotlin-codelab-courses-are.html)
 * [자바 친화적 코틀린 코드 작성하기](https://developers-kr.googleblog.com/2019/11/how-to-write-java-friendly-kotlin-code.html)
@@ -519,7 +518,6 @@
 * [interview-at-some-company](https://github.com/wooseopkim/interview-at-some-company)
 * [(완결) 디모의 Kotlin 강좌 - YouTube](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN)
 * [코틀린(Kotlin), 꼭 해야하나요? - 박상권의 삽질블로그](https://gun0912.tistory.com/81)
-* [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [코틀린 톺아보기 - SLS - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=3276807864365)
 * [코드스피츠 1강 정리](https://devroach.tistory.com/126)
 * [코드스피츠 코틀린 2강 정리](https://devroach.tistory.com/127)
@@ -527,3 +525,6 @@
 * [코드스피츠 90-코틀린 언어 4회차](https://velog.io/@inust33/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%94%BC%EC%B8%A0-90-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%96%B8%EC%96%B4-4%ED%9A%8C%EC%B0%A8)
 * [코틀린과 변성](https://velog.io/@inust33/%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%BC-%EB%B3%80%EC%84%B1)
 * [새로운 학습 과정, Kotlin Onboarding: Introduction을 소개합니다 | The JetBrains Academy Blog](https://blog.jetbrains.com/ko/education/2023/03/06/kotlin-onboarding-introduction/)
+* [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
+* [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+* [Kotlin for Education](https://kotlinlang.org/education/)
