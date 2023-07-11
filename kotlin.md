@@ -476,6 +476,7 @@
 * [Kotlin을 사용한 Spring Boot 개발기 - Controller (@requestBody, Dto 생성하기) | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/kotlin-spring-boot-controller-post/)
 * [연습용 주문 서버 만들기 01 Kotlin/Spring 멀티모듈 프로젝트 구성](https://coco-log.tistory.com/202)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
+* [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처 | 우아한형제들 기술블로그](https://techblog.woowahan.com/12720/)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
 * [A Tour of the Modern Java Platform • James Ward & Ryan Knight • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BU_zIpQI5Dg)
