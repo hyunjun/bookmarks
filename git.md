@@ -1113,6 +1113,7 @@ Git
 
 # Conference
 * [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
+* [Version-Control Post-Git • Pierre-Étienne Meunier • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
   * [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
   * [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)
