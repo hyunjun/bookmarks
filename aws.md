@@ -1895,6 +1895,7 @@ AWS
 * [AWS RDS 생성 및 적용 방법 (Nest.js 기준)](https://blog.naver.com/gi_balja/223042740762)
 * [LG전자의 Amazon Aurora 및 RDS 블루/그린 배포를 이용한 데이터베이스 업그레이드 안정성 확보 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-electronics-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 * [Slack에서 ‘RDS정지’를 시행 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/slack%EC%97%90%EC%84%9C-rds%EC%A0%95%EC%A7%80%EB%A5%BC-%EC%8B%9C%ED%96%89-%ED%95%B4-%EB%B3%B4%EA%B8%B0-d8b00b62045f)
+* [Amazon RDS MySQL 블루/그린 배포 환경에서 Amazon Route 53을 활용한 운영환경 읽기 쿼리 분산 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-route53-balancing/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
