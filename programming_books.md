@@ -1173,6 +1173,7 @@ Programming Books
   * [책 데이터 품질의 비밀](https://jybaek.tistory.com/994)
 * (NOT YET) [코딩 없이 배우는 데이터 과학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312951054)
   * 탐라 문005.7-황45ㅋ
+  * [코딩 없이 배우는 데이터 과학 실습파일 - Google Drive](https://drive.google.com/drive/folders/12t92R_8PYguejfh3tzo-Ep4GHrmRtkN-)
 * (NOT YET) [로컬에서 직접 빅데이터 서비스를 구현하고 싶다면...](https://jpub.tistory.com/1412)
 * (NOT YET) [데이터 플랫폼 설계와 구축 | 에이콘출판사](http://acornpub.co.kr/book/cloud-data-platforms)
   * 우당 문004.588-즈47ㄷ
@@ -1187,6 +1188,9 @@ Programming Books
 * (NOT YET) [어쩌다 데이터 분석 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B7520909011)
   * 탐라 문005.133-김67ㅇ
 * (NOT YET) [실전 금융산업 빅데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=318456782)
+* (NOT YET) [자바와 파이썬으로 만드는 빅데이터 시스템](https://jpub.tistory.com/1414) kafka pyarrow spark
+  * 한라 005.76-황54ㅂ 우당 문005.76-황53ㅂ
+  * [BigData_Code_황세규.zip - Google Drive](https://drive.google.com/file/d/1QL8cdASpzIGJp8hjxadUUs9cRkmuki1C/view)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
@@ -4067,6 +4071,8 @@ Programming Books
 * (NOT YET) [Exploring Testing Java Microservices](https://www.manning.com/books/exploring-testing-java-microservices)
 * (NOT YET) [Testing Vue.js Applications](https://www.manning.com/books/testing-vue-js-applications)
 * (NOT YET) [인공지능 소프트웨어 품질 보증을 위한 테스트 기법 - YouTube](https://www.youtube.com/watch?v=vdpPk1fqptI)
+  * 한라 005.14-사885ㅇ
+  * [tools.zip - Google Drive](https://drive.google.com/file/d/1tsXYbAud_U743tayFNDMdgtHC9cCTz74/view)
 * (NOT YET) [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
 * (NOT YET) [지식 제로부터 배우는 소프트웨어 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61703007)
   * 동부 005.14-타821지
