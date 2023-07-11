@@ -5508,6 +5508,7 @@ Programming
 * [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
 * [홍영훈 - 사업자산 기술자산 기술부채](https://www.facebook.com/YeongHoon.Hong/posts/pfbid02DBebkUfGsSHzhkM1njSwywMS5ZVAN4oGFgxyHhM33Uzdtpv2P7cpMadFBEQZyYwjl)
+  * [OKKY - 기술자산, 기술부채](https://okky.kr/articles/1450040)
 * [**이 버그는 개발한 너의 잘못이야? | Popit**](https://www.popit.kr/%EC%9D%B4-%EB%B2%84%EA%B7%B8%EB%8A%94-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EB%84%88%EC%9D%98-%EC%9E%98%EB%AA%BB%EC%9D%B4%EC%95%BC/)
 * [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
