@@ -916,6 +916,7 @@ NLP
   * [😎경량화! 노트북에 구축하는 대규모 언어모델 GPT4All😎 (feat, ChatGPT, GPT3.5, LLaMA, Alpaca, Vicuna) - YouTube](https://www.youtube.com/watch?v=HewtI35-lp8)
   * [리뷰 GPT4All: 로컬 PC에서 사용가능한 LLaMA | by daewoo kim | Apr, 2023 | Medium](https://moon-walker.medium.com/%EB%A6%AC%EB%B7%B0-gpt4all-%EB%A1%9C%EC%BB%AC-pc%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C-llama-ee98b6348c9)
   * [GPT4All is the Local ChatGPT for your Documents and it is Free! - KDnuggets](https://www.kdnuggets.com/2023/06/gpt4all-local-chatgpt-documents-free.html)
+  * [인공지능 내 노트북에서 ChatGPT 같은 오픈소스 인공지능 챗봇(ChatBot) 구축하기(GPT4All)](https://sansamlife.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%82%B4-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90%EC%84%9C-%EA%B5%AC%EB%8F%99%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%B1%97%EB%B4%87ChatBot)
 * [gpt-assembly-example](https://github.com/gyunggyung/gpt-assembly-example)
 * [h2ogpt: Come join the movement to make the world's best open source GPT led by H2O.ai](https://github.com/h2oai/h2ogpt)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
