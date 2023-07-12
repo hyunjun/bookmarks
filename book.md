@@ -503,7 +503,6 @@ Book
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
-* (NOT YET) [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
 * (NOT YET) [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
 * (NOT YET) 권력과 진보 [책과 삶 ‘기술발전=진보’?···투쟁 뒤에 진정한 진보가 온다 - 경향신문](https://m.khan.co.kr/culture/book/article/202306301554001)
   * 탐라
@@ -1591,6 +1590,9 @@ Book
 * [AI 빅뱅 (생성 인공지능과 인문학 르네상스)](https://www.youtube.com/watch?v=5rKlhmCOJGQ)
   * ★★★★☆ 2023.07.01 트렌드에 맞춰 나온 책이라고 생각할 수도 있지만, 그래서 오히려 더 좋은 책을 고르는 게 필요할텐데, 주저잆이 추천할 수 있을만한 책이다. 철학자의 관점에서 인공지능 자체뿐만이 아니라, 인공지능으로 인해 변화가 필요한 사람의 인식이나 사회에 대해서 폭넓게 다루고 있다. 두고두고 읽을만한 책이다.
   * 탐라 문126-김72ㅇ
+* [무례한 사람들의 말에 말려들지 않는 법](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314635594)
+  * ★★★☆☆ 2023.07.09 나쁘지 않은 책이지만 이렇게 자잘하게 나뉘어진 각 챕터들을 생각하고 바로 반응하기란 정말 어렵지 않을까? 하는 생각이 들었다
+  * 한라 189.2-엘294ㅁ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
