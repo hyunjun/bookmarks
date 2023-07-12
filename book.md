@@ -507,6 +507,8 @@ Book
 * (NOT YET) [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
 * (NOT YET) 권력과 진보 [책과 삶 ‘기술발전=진보’?···투쟁 뒤에 진정한 진보가 온다 - 경향신문](https://m.khan.co.kr/culture/book/article/202306301554001)
   * 탐라
+* (NOT YET) [유혹하는 글쓰기](https://jhrogue.blogspot.com/2023/07/blog-post.html)
+  * 탐라 문802-킹57ㅇ2 우당 문802-킹58ㅇ
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
