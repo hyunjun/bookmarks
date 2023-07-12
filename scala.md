@@ -1969,6 +1969,7 @@ Scala
 * [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
 * [An Intuition for Optics](https://about.chatroulette.com/posts/optics/)
 * [More Intuition on Optics](https://about.chatroulette.com/posts/optics-2/)
+* [Introduction to optics in Scala - Dev notes](https://blog.michalp.net/posts/scala/optics/)
 * [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
