@@ -1903,6 +1903,7 @@ Docker
 * k8s-tunnels [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
   * [Kubernetes 운영에 사용하던 Lens 대체제로 찾은 k9s :: Outsider's Dev Story](https://blog.outsider.ne.kr/1649)
+* [Kanister - An extensible framework for application-level data management on Kubernetes](https://kanister.io/)
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
   * [Karpenter](https://karpenter.sh/)
