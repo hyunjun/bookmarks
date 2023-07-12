@@ -2000,6 +2000,8 @@ Business
 * [Product Analytics 201. 1장 Data in action: A model of a Dinner… | by Jinhwan Kim | Medium](https://jhk0530.medium.com/product-analytics-201-8ee61de090f8)
 * [지표 일회일비](https://jojoldu.tistory.com/723)
 * [Notion 성장 전략 | "고객이 아니라 팬.. : 네이버블로그](https://blog.naver.com/bizucafe/223142220468)
+* [‘아하 모먼트’는 어떻게 측정할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2089/)
+* [프로덕트 지표 설정 프레임워크 ③ 활성화(Activation) 지표 | 요즘IT](https://yozm.wishket.com/magazine/detail/2114/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
