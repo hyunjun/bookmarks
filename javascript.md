@@ -2229,6 +2229,7 @@ Javascript
   * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/06/28/blog-study-project/)
   * [Passport.js 로 소셜 로그인 구현하기](https://velog.io/@parkoon/Passport.js-%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EC%9D%B4)
   * [User Authentication in Web Apps (Passport.js, Node, Express) - YouTube](https://www.youtube.com/watch?v=F-sFp_AvHc8)
+  * [Node JS Google Authentication with Passport Example - Tuts Make](https://www.tutsmake.com/node-js-google-authentication-with-passport-example/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
@@ -2666,6 +2667,7 @@ Javascript
     * 단순성을 선호하고 네트워크 컴퓨팅에 강점이 있는 Go가 Turborepo에는 어울리지 않았고 Rust의 타입 시스템과 세이프티 기능으로 충분한 가드레일을 배치할 수 있었기 때문에 유리
     * 또한 C/C++ 라이브러리를 사용할 때도 Rust가 유리했고 팀도 Rust 사용을 원함
     * Rust-Go-Rust 샌드위치 방식으로 점진적인 마이그레이션을 진행 중
+  * [Monorepo Turborepo를 사용하여 모노레포 구축하기 — 턴태의 밑바닥부터 시작하는 de-vlog](https://dev-scratch.tistory.com/161)
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
@@ -2702,6 +2704,7 @@ Javascript
   * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
   * [yarn-deduplicate: Deduplication tool for yarn.lock files](https://github.com/atlassian/yarn-deduplicate)
   * [Yarn Workspace에서 package.json 틸드(~), 캐럿(^) 버전 명시 주의할 점 :: 이뇽의세상](https://helloinyong.tistory.com/328)
+  * [yarn을 사용하는 이유는 뭘까](https://velog.io/@ubin_ing/yarn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-%EB%AD%98%EA%B9%8C)
 * Yarn Berry
   * [Yarn Berry 플러그인과 “since”](https://toss.tech/article/yarn-berry-plugins-and-since)
     * Yarn Berry에 추가된 플러그인 기능 사용법 설명, 토스 프론트엔드에서 "since"라는 플러그인을 만드는 과정 설명
