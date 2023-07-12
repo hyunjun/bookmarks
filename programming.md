@@ -2818,6 +2818,8 @@ Programming
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
 * render [Cloud Application Hosting for Developers | Render](https://render.com/)
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
+* [Upstash: Serverless Data for Redis® and Kafka®](https://upstash.com/)
+  * [사이드 프로젝트에 사용하기 좋은 upstashcom 서... | 커리어리](https://careerly.co.kr/comments/86269)
 * [terrajet: Generate Crossplane Providers from any Terraform Provider](https://github.com/crossplane/terrajet)
   * [Announcing 100% Cloud Service Coverage for Crossplane](https://blog.upbound.io/cloud-service-coverage/)
     * Crossplane이 Terraform의 프로바이더에서 Crossplane 프로바이더를 생성해주는 Terrajet 작성
