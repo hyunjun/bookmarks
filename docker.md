@@ -1498,6 +1498,8 @@ Docker
 * [Implement governance on your Kubernetes cluster | Opensource.com](https://opensource.com/article/21/12/kubernetes-gatekeeper)
 * [Writing Custom Kubernetes Controllers: Beware of State Drift – The New Stack](https://thenewstack.io/writing-custom-kubernetes-controllers-beware-of-state-drift)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Custom Controller 개발에 필요한 Go 언어 기초 문법](https://ahnseungkyu.com/311)
+* [안승규의 블로그 (Stay hungry, stay foolish) :: Custom Controller 2 - Kubebuilder Architecture](https://ahnseungkyu.com/313)
+* [안승규의 블로그 (Stay hungry, stay foolish) :: Custom Controller 3 - CronJob 구현하기](https://ahnseungkyu.com/314)
 * [‘다중 클러스터 쿠버네티스’의 과제 해결하려면... 고려해야 할 4가지 - CIO Korea](https://www.ciokorea.com/news/219639)
 * [블로그 | 쿠버네티스는 더 저렴하다, 그러나 무엇보다 더? - CIO Korea](https://www.ciokorea.com/news/290965)
 * [Using K6 test + Docker + Reports. So, you have unit tests and integration… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5)
