@@ -214,6 +214,7 @@ SQL
 * [Database Replication Explained 3. Part 3 -Leaderless Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-3-32d6deceeca7)
 * [How to optimize your SQL Database to handle millions of records — part 1 | by SianLoong | Medium](https://sianloong90.medium.com/how-to-optimise-your-sql-database-to-handle-million-records-part-1-748d68f2dee1)
 * [Is Kubernetes slowing down my database? | DB Exam Study](https://dbexamstudy.blogspot.com/2021/11/is-kubernetes-slowing-down-my-database.html)
+* [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database | by Martin Heinz | Jul, 2023 | Better Programming](https://betterprogramming.pub/goodbye-etcd-hello-postgresql-running-kubernetes-with-an-sql-database-7e1b2e9b5f8f)
 * [Databases in 2021: A Year in Review - OtterTune](https://ottertune.com/blog/2021-databases-retrospective/)
   * [2021년 데이터베이스들 리뷰 | GeekNews](https://news.hada.io/topic?id=5652)
 * [글로벌 칼럼 | ‘진화 혹은 변혁’ 클라우드 데이터 웨어하우스의 미래 - ITWorld Korea](https://www.itworld.co.kr/news/218994)
