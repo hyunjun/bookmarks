@@ -1356,6 +1356,9 @@ Book
   * 한라 410-섬897ㅇ
 * (NOT YET) [위상수학 첫걸음](https://hanbit.co.kr/store/books/look.php?p_code=B8171607831)
 * (NOT YET) [STEM CookBook, 정수론 첫걸음](https://hanbit.co.kr/store/books/look.php?p_code=B8663470444)
+* (NOT YET) [당신이 잘 안다고 착각하는 허 찌르는 수학이야기 + 분수이야기 - 전2권](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305559016)
+  * 한라 410-박64ㅎ
+  * 한라 410-박64ㅎ-2 탐라 문410-박64ㅎ
 
 # Murakami Haruki
 * [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)
