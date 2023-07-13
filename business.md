@@ -1799,6 +1799,7 @@ Business
 * [Leading and Growing Software Teams - YouTube](https://www.youtube.com/watch?v=7jRRKOrPLRo)
 * [직원들이 성공할 수 있도록 지원해야 합니다](https://brunch.co.kr/@graypool/995)
 * [신수정 - 31명의 조종사의 죽음을 0명으로 만든 비결은? 부제. 왜 항공사의 안전이 가장 빠르게 개선되었을까? 1.... | Facebook](https://www.facebook.com/shinsoojungceo/posts/pfbid09wvSXfZrqBX8obmVUFPZevBdXAHC7cdc1cYFHc5p2M4NLomwxvfmAdixZPTVrxbJl)
+* [130 People – No Bosses: Too Good To Be True? • Helle Markmann • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=E5oCgo7cu14)
 
 ## Manager Management micromanagement
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
