@@ -1580,6 +1580,7 @@ Web
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 * [5 Tricks When A/B Testing Is Off The Table](https://www.kdnuggets.com/2017/12/5-tricks-ab-testing.html)
+* [10분 테코톡 헤다의 프론트엔드 테스트 종류 - YouTube](https://www.youtube.com/watch?v=MN7Pw4mK6lU)
 * replay [The Time Travel Debugger for Web Development](https://www.replay.io/)
 
 ## Test Load Test
