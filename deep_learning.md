@@ -2209,6 +2209,7 @@ Deep Learning
 * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
 * [Attention (7): Attention is All You Need, Transformers (1)](https://www.youtube.com/watch?v=Ng9MRx76zS8)
 * [Attention (8): Attention is All You Need, Transformers (2)](https://www.youtube.com/watch?v=fTtCakv8a_M)
+* [Better Attention is All You Need - YouTube](https://www.youtube.com/watch?v=MNSmOih_pmg)
 * [Transformers from Scratch](https://e2eml.school/transformers.html)
 * [Aman's AI Journal • Primers • Transformers](https://aman.ai/primers/ai/transformers/)
 * [Aman's AI Journal • Primers • Generative Pre-trained Transformer (GPT)](https://aman.ai/primers/ai/gpt/)
