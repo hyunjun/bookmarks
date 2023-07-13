@@ -1379,6 +1379,7 @@ Machine Learning
 * [MLOps 구축 가이드 - 정의, 프로세스, 비교, Use case - 데이터헌트](https://www.thedatahunt.com/trend-insight/guide-mlops)
 * [Cole Bailey: Cooking up a ML Platform - Growing pains and lessons learned - YouTube](https://www.youtube.com/watch?v=g9WS920Y1fY)
 * [MLOps 비교 분석 - SageMaker, Kubeflow, MLflow, WandB, Tensorflow Extended - 데이터헌트](https://www.thedatahunt.com/trend-insight/mlops-comparison)
+* [ML model server gpu -> cpu 전환 경험 공유 | by o00o0oo | 네이버 플레이스 개발 블로그 | Jul, 2023 | Medium](https://medium.com/naver-place-dev/ml-model-server-gpu-cpu-%EC%A0%84%ED%99%98-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0-251e024acb35)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
