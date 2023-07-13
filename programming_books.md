@@ -2810,6 +2810,9 @@ Programming Books
 * [리모트워크 레볼루션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305198479)
   * ★★★☆☆ 2023.07.01 재택근무 상황에 맞춰 기존의 리더십을 어떻게 변경해야 할 것인가를 잘 설명한 책. 마지막의 실천가이드도 그렇고 여러모로 아는 내용이지만 정리해서 다시 돌아보고 실천하는데 참고하기에 좋다
   * 우당 문325.24-닐239ㄹ
+* [최고의 팀은 무엇이 다른가?](https://brunch.co.kr/@charles104/222)
+  * ★★★★☆ 2023.07.12~13 어렸을 때는 이런 책을 쳐다보지도 않았다. 나에게는 앞으로도 필요없을 내용이라고 오만하게 생각했었다. 회사의 구호, 벽에 붙어있는 포스터는 자원의 낭비일 뿐이라고 여겼다. 비록 (일부, 과거의) 회사들의 실천방법은 잘못이 있었어도 그 효용에 대해서는 내가 틀렸다. 추상적이고 정신적인 부분과 실제 업무는 마치 알고리즘/설계와 코드 작성, 무협지의 내공/외공처럼 항상 같이 가야 한다. 다른 좋은 책들도 많지만 이 책이 좀 더 마음에 드는 건, 이 책은 전자에 해당하는 부분을 잘 설명하며 또 어떻게 실제로 적용할 수 있을지도 잘 알려주기 때문이라고 생각한다. management를 하는 사람들에게 추천할 만한 또 하나의 책이다.
+  * 우당 문325.2-코69ㅊ
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -2906,8 +2909,6 @@ Programming Books
   * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
 * (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
   * 우당 문325.19-톰829ㅅ
-* (NOT YET) [최고의 팀은 무엇이 다른가?](https://brunch.co.kr/@charles104/222)
-  * 우당 문325.2-코69ㅊ
 * (NOT YET) [실리콘밸리의 MZ들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309352744)
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
