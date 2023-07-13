@@ -2907,8 +2907,6 @@ Programming Books
   * 한라 325.211-밀34ㅁ 우당 문325.211-밀33ㅁ
 * (NOT YET) [주식회사 르브론 제임스](https://brunch.co.kr/@grandmer/570)
   * 한라 325.211-윈27ㅈ 우당 문325.211-윈228ㅈ
-* (NOT YET) [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
-  * 우당 문325.19-톰829ㅅ
 * (NOT YET) [실리콘밸리의 MZ들](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309352744)
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
@@ -4055,6 +4053,9 @@ Programming Books
   * [A/B 테스트 신뢰도 높은 온라인 통제 실험 TRUSTWORTHY ONLINE CONTROLLED EXPERIMENTS](https://github.com/hyunjun/bookmarks/blob/master/programming_books/trustworthy_online_controlled_experiments.md)
   * [A/B 테스트 신뢰도 높은 온라인 통제 실험 TRUSTWORTHY ONLINE CONTROLLED EXPERIMENTS | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%A0%EB%A2%B0%EB%8F%84-%EB%86%92%EC%9D%80-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%86%B5%EC%A0%9C-%EC%8B%A4%ED%97%98-trustworthy-online-controlled-experiments-98509364ad10)
   * [A/B 테스트 신뢰도 높은 온라인 통제 실험 TRUSTWORTHY ONLINE CONTROLLED EXPERIMENTS](https://jh4hj.tistory.com/entry/AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%A0%EB%A2%B0%EB%8F%84-%EB%86%92%EC%9D%80-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%86%B5%EC%A0%9C-%EC%8B%A4%ED%97%98-TRUSTWORTHY-ONLINE-CONTROLLED-EXPERIMENTS)
+* [실리콘밸리의 실험실 | 도서 | 한경BP](https://bp.hankyung.com/books/view/1330)
+  * ★★★☆☆ 2023.07.13~14 기술서적은 아니지만, 약간의 개론에 해당하는 부분도 있다고 봐야 하며, 문화나 조직이 어떻게 실험에 영향을 줄 수 있는지, 그래서 리더는 어떻게 행동해야 할지도 여러 가지 case study를 통해 알 수 있다. 다만 여전히 풀리지 않는 점은 조직이 작은 거 부터 실험을 해나가야 한다는 점은 당연히 맞는데, 자원이 정말 부족한 소규모 조직은 어떻게 시작해야 할지는 여기서도 별다른 답을 찾을 수는 없었다.
+  * 우당 문325.19-톰829ㅅ
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * (NOT YET) ['단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴'을 읽고](https://ocblog.tistory.com/94)
   * [단위 테스트 - 생산성과 품질을 위한 단위 테스트 원칙과 패턴 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1628)
