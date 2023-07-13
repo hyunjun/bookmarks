@@ -2063,6 +2063,7 @@ Scala
 * [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
+* [Comprehensive Data Validation in Scala | ScalaJobs.com](https://scalajobs.com/blog/comprehensive-data-validation-in-scala/)
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Marvels of functional programming: Composing effects with monads](https://medium.com/@anil.thaplar/marvels-of-functional-programming-composing-effects-with-monads-4972962d09ca)
