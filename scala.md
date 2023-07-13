@@ -1422,6 +1422,7 @@ Scala
 * [5 Scala Libraries That Will Make Your Life Easier](https://softwaremill.com/5-scala-libraries-that-will-make-your-life-easier/)
 * [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
 * [Beginner's guide to toolkits in Scala - Dev notes](https://blog.michalp.net/posts/scala/scala-toolkits/)
+* [best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly](https://github.com/stkeky/best-of-scala)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
