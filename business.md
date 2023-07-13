@@ -1245,6 +1245,7 @@ Business
 * [최앤리의 스타트업 법알약 미등기이사와 법적 문제 없이 결별하는 방법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2023/05/10/startup-director/) CTO에게만 해당하는 이야기는 아님
 * [소고기를 위한 ‘도메인 드리븐’ 실현, 조환 설로인 개발리더 | 요즘IT](https://yozm.wishket.com/magazine/detail/2033/)
 * [(23.2 세미나) 조직의 성장과 비즈니스 성공을 위한 개발자 회고 / 이희창 - YouTube](https://www.youtube.com/watch?v=gLYbb4BoTNw) 29cm Engineering head
+* [이성훈 - 개발 조직의 운영에는 많은 비용이 발생합니다. 인건비, 복리후생비, 임대료, 채용, 교육, 조직 관리, 개발... | Facebook](https://www.facebook.com/james.seonghoon.lee/posts/pfbid02LUR5NzzH8gKjFkZod2shfyd5SZvqAV1j11SbVa4RJoFmjND8wNQngSX19QnM7aJ6l)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
