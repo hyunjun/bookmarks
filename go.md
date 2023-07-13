@@ -1151,6 +1151,12 @@ Go
 * [Golang, REST API CRUD con go](https://morioh.com/p/fff9e1c29599)
 * [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
   * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
+* [chi: lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
+  * [REST API with Go, Chi and InMemory Store - DEV Community](https://dev.to/kashifsoofi/rest-api-with-go-chi-and-inmemory-store-43ag)
+  * [REST API with Go, Chi, Postgres and sqlx - DEV Community](https://dev.to/kashifsoofi/rest-api-with-go-chi-postgres-and-sqlx-2ooe)
+  * [REST API with Go, Chi, MySQL and sqlx - DEV Community](https://dev.to/kashifsoofi/rest-api-with-go-chi-mysql-and-sqlx-39fa)
+  * [REST API with Go, Chi, SQL Server and sqlx - DEV Community](https://dev.to/kashifsoofi/rest-api-with-go-chi-sql-server-and-sqlx-3cmi)
+  * [REST API with Go, Chi and MongoDB - DEV Community](https://dev.to/kashifsoofi/rest-api-with-go-chi-and-mongodb-408k)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 * [notes: A REST API backend application that can be used to manage personal notes in a multi-user environment](https://github.com/Uzama/notes)
 
