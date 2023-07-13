@@ -730,6 +730,7 @@ Git
   * [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
   * [Why should I write good commit messages? | by Ankit Muchhala | The Startup | Medium](https://medium.com/swlh/why-should-i-write-good-commit-messages-e15d37bf45cb)
   * [How Square writes commit messages | Square Corner Blog](https://developer.squareup.com/blog/how-square-writes-commit-messages/)
+  * [Git Commit Message Style Guide - 개인/팀을 위한 커밋 메시지 스타일 가이드 | Second Memory](https://blog.munilive.com/posts/my-git-commit-guide.html)
   * [커밋이 깃허브에 제대로 표시되지 않을 때 해결방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/github-contribution-not-showing)
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
