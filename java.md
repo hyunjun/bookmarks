@@ -733,6 +733,7 @@ Java
 * [Java 19와 IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/02/java-19-and-intellij-idea/)
 * [IntelliJ IDEA의 ‘빠른’ 기능 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/05/quick-features-in-intellij-idea/)
 * [10분 테코톡 오리의 Intellij Debugging - YouTube](https://www.youtube.com/watch?v=JSVvhwwOvAY)
+* [JetBrains IDE AI Assistant EAP 후기 (2023.07.12)](https://jojoldu.tistory.com/726)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -1692,6 +1693,7 @@ Java
 * [Spring Data JPA에서의 페이지네이션과 정렬](https://hudi.blog/spring-data-jpa-pagination/)
 * [JPA 기초 강의 유튜브 영상 목록 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/jpa-basic-youtube-list)
 * [JPA 트랜잭션 내에서 엔티티를 변경할 때 마다 flush 해야하나요?](https://velog.io/@joosing/JPA-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C-%EB%A7%88%EB%8B%A4-flush-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94) dirty checking
+* [Native SQL로 데이터를 조회할 때 Enum 타입의 필터조건이 제대로 작동하지 않는 이슈](https://kim-jong-hyun.tistory.com/152) JPA
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
