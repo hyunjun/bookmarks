@@ -106,6 +106,7 @@ Elixir
 * [Introduction to Elixir Security Webinar - YouTube](https://www.youtube.com/watch?v=2csxO_L6HVQ)
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 * [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
+* [Building a Simple API Microservice with Elixir: Advantages and Disadvantages | by Rodrigo Martins | Jul, 2023 | Medium](https://medium.com/@rrmartins/building-a-simple-api-microservice-with-elixir-advantages-disadvantages-3098ac3273f6)
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
