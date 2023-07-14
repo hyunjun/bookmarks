@@ -85,11 +85,12 @@ Monitoring
 * [The XYZ chart: Bringing 3D visualization to Grafana](https://grafana.com/blog/2023/02/24/introducing-the-xyz-chart-a-three-dimensional-way-to-visualize-your-data-in-grafana/)
   * 데이터를 3차원으로 표시할 수 있는 XYZ 차트 도입. 아직은 알파버전이라 `enable_alpha=true`를 설정해야 사용 가능
 * [Grafana Labs is now a GitHub secret scanning partner | GitHub Changelog](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
-* [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
+* [ELK와 Grafana를 이용해 테스트 자동화 시각화하기](https://engineering.linecorp.com/ko/blog/visualizing-test-automation-with-elk-grafana)
 * [Amazon Managed Grafana](https://aws.amazon.com/ko/grafana/)
   * [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
   * [Visualizing Time-Series Data with Snowflake and Amazon Managed Grafana (AMG) | by James Sun | Snowflake | Medium](https://medium.com/snowflake/visualizing-time-series-data-with-snowflake-and-amazon-managed-grafana-amg-40a043c275fd)
 * [caretta](https://www.facebook.com/groups/1691590384455961/?multi_permalinks=3554779914803656&hoisted_section_header_type=recently_seen)
+* [Grafana - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [Grafana as code: A complete guide to tools, tips, and tricks](https://grafana.com/blog/2022/12/06/a-complete-guide-to-managing-grafana-as-code-tools-tips-and-tricks/)
   * Grafana 대시보드를 코드로 관리하는 다양한 도구 소개
   * Grafana Terraform 프로바이더나 Ansible 컬렉션은 Terraform이나 Ansible에는 익숙하지만 Grafana에는 아직 익숙지 않은 사람에게 권장
