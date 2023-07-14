@@ -17,9 +17,6 @@ PHP
 * [Modern PHP | Dimitrios Lytras](https://dnlytras.com/blog/modern-php/)
 * [주소를 위도 / 경도 값으로 변환하기 (google API geocoding)](http://qnfmfmd.tistory.com/50)
 * [PHP에서 symlink()를 이용해 lock 구현하기](https://blog.asamaru.net/2017/04/02/php-lock-file-using-symlink/)
-* [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
-* [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
-* [PHPStorm 환경에서 Mess Detector, Code Sniffer 설정하기 - 완두블로그](https://wani.kr/posts/2015/11/03/phpmd-phpcs-in-phpstorm-env/)
 * [PHP 에서 한글 파일명 사용시 pathinfo(), basename() 결과가 맞지 않는 문제 해결](https://blog.asamaru.net/2017/04/25/make-php-pathinfo-return-the-correct-filename-if-the-filename-is-utf-8/)
 * [제네릭 없는 PHP 인터페이스](http://www.haruair.com/blog/3909)
 * [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
@@ -132,6 +129,12 @@ PHP
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
 * [webrtc-php: WebRTC PHP SSE shared-hosting without websockets](https://github.com/nielsbaloe/webrtc-php)
+
+# PhpStorm
+* [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
+* [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
+* [PHPStorm 환경에서 Mess Detector, Code Sniffer 설정하기 - 완두블로그](https://wani.kr/posts/2015/11/03/phpmd-phpcs-in-phpstorm-env/)
+* [Laravel 모범 사례: 루틴을 자동화하는 방법 | The PhpStorm Blog](https://blog.jetbrains.com/ko/phpstorm/2023/06/laravel-best-practices-how-to-automate-your-routine/)
 
 # TDD, Test
 * [Reflection을 활용한 Private Method Test - 완두블로그](https://wani.kr/posts/2015/05/07/mockery-reflection/)
