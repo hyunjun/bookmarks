@@ -109,6 +109,7 @@ Writing
 * [Canonical Everything. “Where can I find out what I need to… | by Naomi Gleit | Medium](https://naomi.com/canonical-everything-c85441a84e70)
 * [Writing-IT-Books: 프로그래머의 책쓰기: 나도 IT 책 잘 쓰면 소원이 없겠네!](https://github.com/WegraLee/Writing-IT-Books)
 * [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2053/)
+* [글, 어떻게 쓸 것인가?(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2119/)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
