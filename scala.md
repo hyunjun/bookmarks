@@ -1024,6 +1024,7 @@ Scala
     * [How To Build Lightweight Microservices Using ZIO Stack by Marcin Krykowski - YouTube](https://www.youtube.com/watch?v=FlhEUqPeRIU)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
     * [ZIO Kafka with Scala: A Tutorial - YouTube](https://www.youtube.com/watch?v=ExFjjczwwHs)
+    * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
@@ -1127,6 +1128,7 @@ Scala
     * [From spring boot to ZIO. This article is a small summary of the… | by Kristof Slechten | May, 2023 | Medium](https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1)
     * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
     * [Why I keep choosing ZIO! - YouTube](https://www.youtube.com/watch?v=H3Bizwx_L1o)
+    * [Zymposium - ZIO Logging with Peter Kotula - YouTube](https://www.youtube.com/watch?v=LZD0voLnlco)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1422,7 +1424,7 @@ Scala
 * [5 Scala Libraries That Will Make Your Life Easier](https://softwaremill.com/5-scala-libraries-that-will-make-your-life-easier/)
 * [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
 * [Beginner's guide to toolkits in Scala - Dev notes](https://blog.michalp.net/posts/scala/scala-toolkits/)
-* [best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly](https://github.com/stkeky/best-of-scala)
+* [Automation tools for Scala development](https://yadukrishnan.live/useful-automation-tools-for-scala-development)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -1438,6 +1440,7 @@ Scala
 * [Avast](https://avast.github.io)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
+* [best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly](https://github.com/stkeky/best-of-scala)
 * [batcher: Batch similar requests together transparently](https://github.com/filosganga/batcher)
 * [better-monadic-for - A Scala compiler plugin to give patterns and for-comprehensions the love they deserve](https://github.com/oleg-py/better-monadic-for)
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
