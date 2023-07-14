@@ -815,6 +815,11 @@ Book
   * 한라 325.1-남23바 탐라 문325.1-남222ㅂ 우당 문325.1-남222ㅂ
 * (NOT YET) [한 장으로 끝내는 비즈니스 모델 100](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198257709)
   * 한라 325.1-곤25ㅂ 탐라 문325.1-곤225ㅂ
+* (NOT YET) [생존을 넘어 번창으로](https://www.youtube.com/watch?v=31o7HhNTi0I)
+  * 한라 325.21-남883ㅅ-1 우당 문325.21-남832ㅅ-1
+  * [5000억 성공을 만든 배움을 준 실패 ㅣBob Tinker & Tae Hea Nahm EP 01 - YouTube](https://www.youtube.com/watch?v=NKFZTuk_ylY)
+  * [#122 생존을 넘어 번창으로](https://brunch.co.kr/@wjoo/155)
+  * (NOT YET) [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
