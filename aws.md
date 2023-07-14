@@ -1083,6 +1083,7 @@ AWS
   * 기존의 Kubernetes 클러스터를 이용해서 Crolssplane을 ArgoCD로 설정하고 이를 이용해서 EKS 클러스터를 생성하는 방법 소개. [예제 코드](https://github.com/aws-samples/eks-gitops-crossplane-argocd)도 제공
 * [GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Flux | Containers](https://aws.amazon.com/ko/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-flux/)
   * 바로 위 ArgoCD와 Crossplane을 설정한 방법을 Flux와 Crolssplane으로 설명한 글
+* [LG U+의 GitOps를 이용한 Amazon EKS 클러스터 무중단 버전 업데이트 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-uplus-eks-cluster-version-upgrade-with-zero-downtime/)
 * [Amazon Elastic Kubernetes Service에 IPv6 네트워킹 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
   * AWS EKS에서는 각 Pod이 IP 주소를 수신하면서 VPC 내의 IP 주소가 많이 필요한 문제 존재, IPv6가 이제 도입되어 IP 주소 고갈 문제 방지 & 라우팅 간소화
 * [AWS NAT64, DNS64를 이용한 IPv6 주소에서 IPv4 주소로 통신](https://zigispace.net/1163)
