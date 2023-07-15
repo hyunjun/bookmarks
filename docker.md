@@ -1719,6 +1719,7 @@ Docker
   * PDB에서 항상 사용할 수 있어야 하는 최소 리플리카 수(min available)와 사용 불가능할 수 있는 최대 리플리카 수(max unavailable)를 지정
     * 이 규칙을 위반하면 작업을 멈추게 함
   * 안정성에는 중요하지만 PDB가 의도한 작업을 차단하거나 지연시킬 수도 있으므로 PDB의 동작을 잘 알고 사용해야 함
+* [CNCF Wisdom of the Cloud #3: Midsummer Momentum](https://email.linuxfoundation.org/cncf-wisdom-of-the-cloud-3-midsummer-momentum)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
