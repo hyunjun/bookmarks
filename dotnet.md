@@ -251,6 +251,7 @@
 * [비주얼 스튜디오를 이용한 MacOS 리모트 디버깅](https://blog.naver.com/drvoss/222677062841)
 * [비주얼 스튜디오를 이용한 임베디드 개발 시작 : 네이버 블로그](https://blog.naver.com/drvoss/222678169359)
 * [Visual Studio for remote macOS C++ development - C++ Team Blog](https://devblogs.microsoft.com/cppblog/visual-studio-for-remote-macos-c-development/)
+* [비주얼 스튜디오를 이용한 크로미움(Chromium) 빌드](https://blog.naver.com/drvoss/223156919147)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
