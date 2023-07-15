@@ -322,6 +322,8 @@ Monitoring
 * [Prometheus on NKS](https://www.slideshare.net/JoHoon1/prometheus-on-nks)
 * [쿠버네티스에서 마이크로소프트 애저 프로메테우스 모니터링 사용하기 - ITWorld Korea](https://www.itworld.co.kr/news/295759)
 * [Prometheus 설정 가이드(Auto Scale 대상 모니터링) - BESPIN Tech Blog](https://blog.bespinglobal.com/post/prometheus-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+* [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
+  * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
   * [오픈소스를 활용한 모니터링 플랫폼 개선기 feat. Cortex | NHN FORWARD](https://forward.nhn.com/2021/sessions/8)
