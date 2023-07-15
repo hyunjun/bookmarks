@@ -380,6 +380,7 @@ Android
 * Appium
   * [안드로이드 테스팅의 효자손 '앱피움' 파헤치기(2)](https://www.imaso.co.kr/news/article_view.php?article_idx=20150904170524)
   * [Spoqa 기술 블로그 | 테스트 자동화 구축 이야기](https://spoqa.github.io/2022/05/24/test-automation-story.html)
+* [Appshark is a static taint analysis platform to scan vulnerabilities in an Android app](https://github.com/bytedance/appshark)
 * [backboard - A motion-driven animation framework for Android](https://github.com/tumblr/Backboard)
 * BMBF
   * [Modernizing our Android build system: Part I, the planning](https://blogs.dropbox.com/tech/2019/10/modernizing-our-android-build-system-part-i-the-planning/)
