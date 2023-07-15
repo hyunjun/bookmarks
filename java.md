@@ -1830,6 +1830,7 @@ Java
 * [Spring 에서 AOP 구현하기 1편 - 개념설명 및 로깅 구현 - YouTube](https://www.youtube.com/watch?v=bszNuXKZeCs)
 * [Spring 에서 AOP 구현하기 2편 - 보안 모듈 - YouTube](https://www.youtube.com/watch?v=TO1LJ6Bg9M8)
 * [AOP를 활용한 중복코드 리팩토링 | Recoding Life](https://jane096.github.io/project/aop-refactoring/)
+* [Spring Boot Total-Back-Office Project AOP, Annotation을 이용한 API 동작 시간 측정](https://junyharang.tistory.com/456)
 * [스프링캠프 2017 Day1 A2 : Async & Spring](https://www.youtube.com/watch?v=HKlUvCv9hvA)
 * [레거시 코드를 점진적으로 개선한 경험 스프링 레거시 코드를 개선하는데 실천한 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 * [Get 요청시 LocalDate 필드에 2월 31일자가 올 경우 정상 처리 방법](https://jojoldu.tistory.com/503)
