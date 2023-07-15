@@ -39,6 +39,8 @@ Docker
   * [도커 시작하기 11 : 도커 스웜 - 네트워크](https://javacan.tistory.com/entry/docker-start-11-swarm-network)
 * [도커 시작하기 : 네이버 블로그](https://blog.naver.com/gi_balja/223150246738)
 * [도커 허브에 이미지 Push & Pull : 네이버 블로그](https://blog.naver.com/gi_balja/223151355830)
+* [도커 볼륨 (Docker Volume) : 네이버 블로그](https://blog.naver.com/gi_balja/223153540874)
+* [도커 바인드 마운트 (Bind Mount) : 네이버 블로그](https://blog.naver.com/gi_balja/223156789354)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
 * [이론과 실습을 통해 이해하는 Docker 기초](https://hudi.blog/about-docker/)
