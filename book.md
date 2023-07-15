@@ -506,6 +506,7 @@ Book
 * (NOT YET) [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
 * (NOT YET) 권력과 진보 [책과 삶 ‘기술발전=진보’?···투쟁 뒤에 진정한 진보가 온다 - 경향신문](https://m.khan.co.kr/culture/book/article/202306301554001)
   * 탐라
+  * [기술의 진보 방향은 권력이 결정한다? 대런 아세모글루 인터뷰! | 권력과 진보, 대런 아세모글루, 정치경제학 - YouTube](https://www.youtube.com/watch?v=h9gsv4KhUYM)
 * (NOT YET) [유혹하는 글쓰기](https://jhrogue.blogspot.com/2023/07/blog-post.html)
   * 탐라 문802-킹57ㅇ2 우당 문802-킹58ㅇ
 
