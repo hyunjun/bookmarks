@@ -724,6 +724,7 @@ Web
   * [Setting up your own test automation environment - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment)
   * [Crawling 성능 40배 올리기, 160분에서 4분대로 -도구 선택의 중요성- :: 친환경사과의 블로그입니다](https://ecofriendlyapplesu.tistory.com/9)
   * [Crawling 성능 40배 올리기, 160분에서 4분대로 -병렬 처리- :: 친환경사과의 블로그입니다](https://ecofriendlyapplesu.tistory.com/10)
+  * [UI, 프론트, 서버를 모두 한방에 점검하는 스크립트 만들기](https://ambitious-molecule-2ed.notion.site/UI-b9bfbcc8398e4c5793f5bfcda2a32a66)
   * [Healenium](https://healenium.io/)
     * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
