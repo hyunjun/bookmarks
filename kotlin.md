@@ -171,6 +171,7 @@
 * [Idiomatic Logging in Kotlin | Baeldung on Kotlin](https://www.baeldung.com/kotlin/logging) slf4j
 * [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
 * [Java & Kotlin enum class가 완벽한 싱글톤이라 불리는 이유 — 시행착오를 줄이는 방법](https://dataportal.kr/54)
+* [Kotlin Enums — Replace values() with entries | by ilyas ipek | Jul, 2023 | Teknasyon Engineering](https://engineering.teknasyon.com/kotlin-enums-replace-values-with-entries-bbc91caffb2a)
 * [Mac에서 코틀린 개발환경 구성하기](https://jojoldu.tistory.com/635)
 * [블로그에 코틀린 플레이그라운드 넣기](https://dalinaum.github.io/blog/2022/01/28/blog-kotlin-playground.html)
 * [상태를 가변적으로 관리했을 때 발생하는 문제 — 시행착오를 줄이는 방법](https://weekly.ac/65)
