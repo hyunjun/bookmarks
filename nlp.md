@@ -824,6 +824,7 @@ NLP
   * [코드 인터프리터 활용 사례 모음 (슬라이드 + 링크 포함)](https://www.gpters.org/c/news/code-interpreter-aea80b)
     * [새툴새툴, 새로운 AI 툴을 사용해봅시다. - Google Slides](https://docs.google.com/presentation/d/1P9UHkVj2XXgPEqKxkEe4bybyBkb6qNCKTi1Eif3ydMk/edit)
     * [AI 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다. : 클리앙](https://www.clien.net/service/board/lecture/18180121)
+  * [ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩 - YouTube](https://www.youtube.com/watch?v=nkNKBwXUL84) code interpreter
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
