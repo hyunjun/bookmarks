@@ -3368,6 +3368,7 @@ Python
   * [**Configuring Google Colab Like A Pro | by Made-Up Masters | Aug, 2020 | Medium**](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
   * [How to permanently install a module on Google Colab](https://ayoolafelix.hashnode.dev/how-to-permanently-install-a-module-on-google-colab-ckixqrvs40su044s187y274tc)
   * [코랩에서 구글 모델 서치 구동하기](https://tykimos.github.io/2021/02/25/hello_model_search/)
+  * [Colab 에서 파이선 런타임을 수정하는 방법](https://colab.research.google.com/drive/1EhUxW6B1iSFxq1siAkSNabzhQAKq-FWu)
   * [colab-biolab](https://github.com/hyeshik/colab-biolab)
   * [colabctl: Google Colaboratory background/task executioner & controller](https://github.com/TensorTom/colabctl)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
