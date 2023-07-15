@@ -218,6 +218,7 @@ Programming Books
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
   * 탐라 문005.1-히235ㅇ
+  * [Infra IaC Ansible을 이용한 Client(클라이언트) 서버 계정 만들기](https://junyharang.tistory.com/452)
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * 한라 005.76-베68ㅅ
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
