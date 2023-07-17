@@ -70,6 +70,7 @@ Apache
 * [Apache Airflow with Python - YouTube](https://www.youtube.com/playlist?list=PLL2hlSFBmWwy6zqmbwwOhNkPpTrpbQhM5)
 * [AirFlow 설치(Celery Cluster)](https://velog.io/@bbkyoo/AirFlow-%EC%84%A4%EC%B9%98Celery-Cluster)
 * [Orchestrating Hybrid Workflows with Apache Airflow - YouTube](https://www.youtube.com/watch?v=9Xo4WG1AXII)
+* [Self Serving Data Platform 구축하기 (feat. Airflow)](https://tech.buzzvil.com/blog/%EC%85%80%ED%94%84-%EC%84%9C%EB%B9%99-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
