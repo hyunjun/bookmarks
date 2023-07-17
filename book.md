@@ -1334,6 +1334,8 @@ Book
   * 한라 911.1-송73ㅅ 탐라 문911.052-송72ㅅ 우당 문911.052-송72ㅅ
 * (NOT YET) [대항해시대 최초의 정복자들](https://blog.naver.com/renai_jin/222941195439)
   * 한라 927.903-크295ㄷ 우당 문927.903-크235ㄷ
+* (NOT YET) [뉴스의 탄생](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307226198)
+  * 탐라 문070.9-페839ㄴ 우당 문070.9-페839ㄴ
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기

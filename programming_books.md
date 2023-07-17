@@ -928,6 +928,10 @@ Programming Books
   * [번역서 "필요한 것만 골라 배우는 모던 C++" 나왔습니다 :: 류광의 번역 이야기](https://occamsrazr.net/tt/386)
   * [dmc3: Example programs from "Discovering Modern C++" 2nd edition (3rd code update)](https://github.com/petergottschling/dmc3)
 * (NOT YET) ["쉽게 설명한 C++ 핵심 가이드라인"](https://occamsrazr.net/tt/391)
+* (NOT YET) [C++ 함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/functional-c)
+  * 탐라 문005.133-볼45ㅅ
+  * [Hands-On-Functional-Programming-with-Cpp: Hands-On Functional Programming with C++, published by Packt](https://github.com/PacktPublishing/Hands-On-Functional-Programming-with-Cpp)
+  * [AcornPublishing/functional-c: C++ 함수형 프로그래밍](https://github.com/AcornPublishing/functional-c)
 
 # C#
 
@@ -1473,6 +1477,10 @@ Programming Books
   * 탐라 문005.76-황53ㄷ
 * (NOT YET) [MLOps 실전 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B9385341956)
   * 탐라
+* (NOT YET) [머신러닝을 위한 수학](https://hanbit.co.kr/store/books/look.php?p_code=B2286199605)
+  * 탐라 문004.73-이44ㅁ
+* (NOT YET) [머신러닝을 활용한 웹 최적화](https://www.hanbit.co.kr/store/books/look.php?p_code=B8979230235)
+  * 한라 004.73-이57ㅁ 탐라 문004.73-이58ㅁ
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -1558,6 +1566,11 @@ Programming Books
 * (NOT YET) [텐서플로로 하는 딥러닝 기초와 응용 | 에이콘출판사](http://www.acornpub.co.kr/book/nn-tensorflow2)
 * (NOT YET) [텐서플로 라이트를 활용한 안드로이드 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B2354289186)
 * (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
+  * 한라 004.73-이56ㅅ 탐라 문004.73-이57ㅅ
+  * [Tensorflow 101](https://opentutorials.org/module/4966)
+  * [Tensorflow 102 - 이미지 분류(CNN)](https://opentutorials.org/module/5268)
+  * [tensorflow1: 머신러닝야학 - 텐서플로우1 수업을 위한 코드입니다](https://github.com/blackdew/tensorflow1)
+  * [ml-tensorflow: 머신러닝 야학 텐서플로우 강의를 위한 실습 코드와 데이터 입니다](https://github.com/blackdew/ml-tensorflow)
 
 ## PyTorch
 * [만들면서 배우는 파이토치 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B7628794939)
@@ -2419,6 +2432,7 @@ Programming Books
 * (NOT YET) [자바에서 코틀린으로](https://www.hanbit.co.kr/store/books/look.php?p_code=B8465247545)
 * (NOT YET) [아토믹 코틀린](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312687975)
   * 탐라 문005.133-에823ㅇ
+* (NOT YET) [코틀린 함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/function-pro-kotlin)
 
 # Linux
 
@@ -4040,6 +4054,8 @@ Programming Books
 * (NOT YET) [몬테카를로 시뮬레이션으로 배우는 확률통계 with 파이썬](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312162201)
 * (NOT YET) [흥미로운 베이지안 통계 | 에이콘출판사](http://www.acornpub.co.kr/book/bayesian-statistics)
   * 탐라 문413.85-커838ㅎ
+* (NOT YET) [파이썬과 함께하는 생활 속의 통계학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=306632474)
+  * 탐라 문005.133-안19ㅅ
 
 # Streaming
 * (NOT YET) [**스트리밍 시스템 | 에이콘출판사**](http://www.acornpub.co.kr/book/streaming-systems) 특정 시스템이 아니라 스트리밍 자체에 대해 배울 수 있는 좋은 책
