@@ -2472,6 +2472,9 @@ NLP
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * [Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation](https://github.com/SevaSk/ecoute)
+* [FastSpeech2: An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech"](https://github.com/ming024/FastSpeech2)
+  * [PYRASIS.COM: 내 목소리를 TTS로 만들기(FastSpeech2)](https://pyrasis.com/tts/2023/02/05/FastSpeech2-My-Voice-TTS)
+  * [Korean-FastSpeech2-Pytorch: Implementation of Korean FastSpeech2](https://github.com/HGU-DLLAB/Korean-FastSpeech2-Pytorch)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
@@ -2496,6 +2499,7 @@ NLP
   * [Convert Text To Speech Using Python | Python Projects Tutorials - YouTube](https://www.youtube.com/watch?v=9_gh55ksNME)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
   * [Baum-Welch Algorithm - ratsgo's speechbook](https://ratsgo.github.io/speechbook/docs/am/baumwelch)
+* [SCE-TTS: 내 목소리로 TTS 만들기](https://sce-tts.github.io/)
 * [SEPIA Framework](https://sepia-framework.github.io/)
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
