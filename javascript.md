@@ -496,6 +496,7 @@ Javascript
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
+* [아직도 이 API 모르셨다고요? 개발자 인생 꿀템 소개! - YouTube](https://www.youtube.com/watch?v=iZhq7I42uaI) IntersectionObserver
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
