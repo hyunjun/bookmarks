@@ -174,6 +174,11 @@ Monitoring
     * [Shift-Left Model 테스트 모델](https://www.linkedin.com/feed/update/urn:li:activity:7021398498608644097/)
   * [DataDog 컨퍼런스 DASH 2022 참여 후기. 지난 10월 18일~19일 참여했던 DASH 2022, DataDog… | by Jaeeun Lee | Feb, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/datadog-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-dash-2022-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-f42b737ee586)
   * [Track and Improve the Performance of Streaming Data Pipelines With Datadog Data Streams Monitoring | Datadog](https://www.datadoghq.com/blog/data-streams-monitoring/)
+  * [I Use GitHub Ac­tions for Data­dog's Service Catalog, and You Should, Too | Datadog](https://www.datadoghq.com/blog/github-actions-service-catalog/)
+    * Datadog에 등록된 각 서비스의 담당팀, 슬랙, 문서 등의 정보를 관리할 수 있는 서비스 카탈로그의 내용을 업데이트하기 위해서 직접 만든 Datadog Service Catalog Metadata Provider GitHub Actions를 활용하는 방법 설명
+      * [Datadog Service Catalog Metadata Provider · Actions · GitHub Marketplace](https://github.com/marketplace/actions/datadog-service-catalog-metadata-provider)
+    * 각 저장소에서 워크플로우를 설정해서 바로 Datadog에 정보를 업데이트 가능
+    * GitHub의 org 밑에 규칙 파일을 두어 `division` 태그를 필수로 검사하거나 유효한 `division`만 사용하게 한다든지 하는 조직적 관리 방법도 같이 설명
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
