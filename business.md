@@ -1246,6 +1246,29 @@ Business
 * [소고기를 위한 ‘도메인 드리븐’ 실현, 조환 설로인 개발리더 | 요즘IT](https://yozm.wishket.com/magazine/detail/2033/)
 * [(23.2 세미나) 조직의 성장과 비즈니스 성공을 위한 개발자 회고 / 이희창 - YouTube](https://www.youtube.com/watch?v=gLYbb4BoTNw) 29cm Engineering head
 * [이성훈 - 개발 조직의 운영에는 많은 비용이 발생합니다. 인건비, 복리후생비, 임대료, 채용, 교육, 조직 관리, 개발... | Facebook](https://www.facebook.com/james.seonghoon.lee/posts/pfbid02LUR5NzzH8gKjFkZod2shfyd5SZvqAV1j11SbVa4RJoFmjND8wNQngSX19QnM7aJ6l)
+* On Becoming a VP of Engineering : honeycomb의 Emily Nakashima가 VP of Engineering이 되면서 VPE가 되기까지의 경험 정리한 글
+  * [On Becoming a VP of Engineering, Part 1: The Path to VP | Honeycomb](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
+    * VPE는 회사 문화와 정책에 영향을 끼치고 회사 외부로도 파급되는 경우가 많음
+    * 초기에는 Charity Majors가 모든 직원을 관리했지만 일하면서 Charity Majors와 철학적으로 일치하는 부분이 많다는 것을 느낌
+    * Charity Majors는 인프라와 DB, 백엔드에 경험이 많은 반면 Emily는 디자인, 프론트엔드, 제품에 더 많은 경험
+    * honeycomb이 성장하며 관리 업무가 증가, Charity와 업무를 나누어서 자신에게 더 잘 맞는 분야를 담당
+    * VPE가 되기에 도움이 되었던 특징
+      * 전체를 생각하는 점
+      * 제너럴리스트
+      * 다양한 수준의 추상화
+      * 지나친 책임감
+      * 인적 시스템과 기술적 시스템의 동등한 관심
+      * 팀원 성장의 기쁨 등
+    * 또한 도움 된 업무 경험은 다양한 규모 스타트업의 경험과 프론트엔드 중심이지만 스택 전반에 걸쳐서 작업했던 경험, 개발 도구와 모니터링
+    * 프론트엔드 출신 VPE는 적은데 이는 스타트업이 보통 백엔드 아키텍처 관련 문제가 시급한 경우가 많기 때문
+      * honeycomb에서는 해당 분야에 좋은 IC들이 있었기 때문에 오히려 제품 전략 쪽이 더 중요했기 때문
+  * [On Becoming a VP of Engineering, Part 2: Doing the Job | Honeycomb](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
+    * Charity가 "디렉터가 회사를 운영한다"라는 말을 했는데 이는 임원이 어떤 역할인지를 고민하면서 나온 말
+    * 이전에는 엔지니어링을 잘 운영하는 것이 최우선 순위였지만 달라져야 했음
+    * 경영진 차원의 조율에 많은 시간을 써야 했고 이는 팀원에게는 보이지 않은 일
+    * 경영진은 회사가 어디로 가고 있는지에 대한 공유된 맥락을 가지고 있어야 하고 이러한 결정을 팀원들에게 설득하고 팀원들의 궁금증을 해소해 주어야 함
+    * 어떤 일을 하기 위해서 혼자 희생하는 영웅적인 일을 하기도 했지만, 이는 오히려 팀에 안 좋음
+    * VPE가 되면서 여유가 필요할 것으로 예상했지만 실제로 해보니 예상보다 훨씬 더 여유 시간을 확보하는 것이 도움이 된다는 것을 알게 됨
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
