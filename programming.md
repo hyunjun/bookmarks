@@ -915,6 +915,7 @@ Programming
 * [Architecture Challenges Faced by Agile Organisations • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=rKtZk5GHDFs)
 * [지난 9개월간의 딜리버리프로덕트팀의 경험과 변화에 대한 이야기: 애자일 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/teamsoftwaredevelopment-changes-deliveryproduct/)
 * [Flow: the worst software development approach in history by Sander Hoogendoorn & Kim Van Wilgen - YouTube](https://www.youtube.com/watch?v=FahSLxZrsCs) Big Flow Framework BFF
+* [스프린트 Task와 직무 Task. 경량화 방법론 시기에 탄생한 다양한 소프트웨어 개발 방법론들과 애자일… | by 김상현 | make -k it (메이킷) | Medium](https://medium.com/make-k-it/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-task%EC%99%80-%EC%A7%81%EB%AC%B4-task-d451677efe53)
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
