@@ -944,6 +944,14 @@ Git
   * [슬기로운 코드 리뷰 생활 with GitHub Pull Request | by Rachel Kwak (곽소현) | 직방 기술 블로그 | Medium](https://medium.com/zigbang/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%83%9D%ED%99%9C-with-github-pull-request-7932b5d47c70)
   * [Git pull 전략 (default, --ff-only, --rebase)](https://sanghye.tistory.com/43)
   * [Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)](https://jojoldu.tistory.com/641)
+  * [GitHub merge queue is generally available | The GitHub Blog](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
+    * GitHub의 merge queue 기능 GA
+    * Pull Request를 쓸 때 다른 PR이 merge되면 다시 rebase 등의 액션을 해야 하므로
+      * 활발하게 다수가 작업하는 저장소에서는 Pull Request 쓰면서 먼저 merge하려고 하거나 비효율이 발생
+    * merge queue는 이런 문제를 해결하기 위한 기능
+      * 베이스 브랜치와 최근 변경 사항과 merge queue에 있는 다른 변경 사항까지 고려한 임시 브랜치를 만들어서 CI에서 확인하며 순서대로 바로 merge되도록 가능
+      * merge에 실패하면 queue에서 빠져서 알림
+      * 사용하려면 설정에서 merge queue 활성화 필요
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
   * `git pull --rebase` [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
 * push
@@ -1218,6 +1226,14 @@ Git
     * 각 서비스는 대기열에 추가해서 승인되면 사용
   * [AI를 활용한 개발 효율성 향상 방법 : 네이버 블로그](https://blog.naver.com/drvoss/223110196164)
   * [“세상 참 좋아졌네”…깃허브 코파일럿 리뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1634/)
+  * [Inside GitHub: Working with the LLMs behind GitHub Copilot | The GitHub Blog](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
+    * GitHub에서 Copilot을 어떻게 만들고 개선해 왔는지 설명
+      * 이전에도 범용 코드 생성에 관해서 얘기하고 있었지만 불가능하다고 얘기했었다가 2020년 6월 OpenAI가 GPT-3를 출시하면서 모든 게 변경
+      * OpenAI에서 API를 테스트하면서 코드 스니펫을 생성하는 프로토타입을 만들고 IDE에 넣기로 결정하면서 GitHub Copilot 만들기 시작
+      * 처음 받은 모델은 Python 전용 모델이었지만 그다음에는 JavaScript 모델을 받고 여러 언어를 지원하는 모델을 제공받음
+      * 2021년 OpenAI와 파트너십을 통해 GPT-3에서 파생되어 코드를 학습한 Codex 모델 출시
+      * 모델은 강력했지만, 사용자에게 좋은 결과를 제공하기 위해서는 개선 필요, 현재 편집 중인 파일만이 아니라 더욱 정확한 결과가 나오도록 추가 컨텍스트를 제공 필요
+      * 편집기 탭에서 유사한 텍스트를 가져오게 한 뒤에 수락률이 많이 증가, 파일명이나 확장자를 통해 결과를 더 개선
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
