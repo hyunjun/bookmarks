@@ -496,6 +496,7 @@ AWS
 * [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
 * [Amazon Kendra로 모든 유형의 자료 검색 구축하기 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-search-foralltype-amazon-kendra/)
 * [Amazon Kendra, LangChain 및 대규모 언어 모델(LLM)을 사용하여 엔터프라이즈 데이터에서 높은 정확도의 생성형 AI 애플리케이션을 빠르게 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/)
+* [허깅페이스와 LoRA를 사용하여 단일 Amazon SageMaker GPU에서 대규모 언어 모델(LLM) 훈련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/train-a-large-language-model-on-a-single-amazon-sagemaker-gpu-with-hugging-face-and-lora/)
 * [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
@@ -1789,6 +1790,7 @@ AWS
 * [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
 * [카카오스타일의 Amazon SageMaker 분산 훈련을 활용한 카테고리 자동 분류 시스템 모델 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-distributed-training-for-automated-category-classification/)
 * [Amazon SageMaker, Amazon OpenSearch Service, Streamlit, LangChain을 사용하여 강력한 질문/답변 봇 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/)
+* [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
@@ -2185,6 +2187,13 @@ AWS
 * [Terraform - Infra As Code - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXCrujdktDx6h-X-8rUEsEf)
 * [Empowering Teams with Terraform and OPA:Best Practices for Secure Infrastructure as Code Tsoumas Dio - YouTube](https://www.youtube.com/watch?v=0-RkQ7p4lH0)
 * [Terraform has forever changed the way I deploy code - YouTube](https://www.youtube.com/watch?v=cGPyH-PO8vg)
+* [Terraform apply as code: The multispace pattern](https://www.hashicorp.com/blog/terraform-apply-as-code-the-multispace-pattern)
+  * Terraform에서 리소스를 작게 나누어서 워크스페이스 단위로 관리하는 게 일반적
+    * 이렇게 하면 워크스페이스 간에 의존성 발생
+  * Terraform Cloud에서는 run triggers라는 기능 제공
+    * 업스트림 워크스페이스에서 `apply`가 되면 다운스트림 워크스페이스에서 `apply`가 실행되도록 설정 가능
+    * 하지만 이보다 복잡한 트리거를 위해 Terraform Cloud/Enterprise에서 사용할 수 있는 `tfe_workspace_run`를 Mitchell Hashimoto가 초기 구현 후 실제 기능으로 통합
+    * 이를 이용하면 Terraform 구성에서 다른 워크스페이스 간의 실행 의존성에 다양한 조건을 넣어서 연결 가능
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
