@@ -1304,6 +1304,9 @@ Programming
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 * [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
 * [**개발자 1인 회사인 분들, 기술 스택은 어떤걸 쓰시나요? | GeekNews**](https://news.hada.io/topic?id=7478)
+* [5일 완성 1인 프로젝트! 기획부터 프론트엔드, 백엔드, 앱, 관리페이지까지 | miryang.dev](https://miryang.dev/blog/hocance-now-make-story)
+  * 호캉스를 가기 위한 정보를 찾는 불편을 해소하기 위해 호캉스 서비스를 만들면서 기획부터 만들기까지 5일이 소요
+  * Supabase로 백엔드 구성, Next.js로 프론트엔드, Cloudflare Pages에 배포, react-native-webview로 안드로이드 앱, retool로 관리페이지
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
@@ -2830,6 +2833,8 @@ Programming
     * 이를 이용해서 provider-jet-aws, provider-jet-azure, provider-jet-gcp를 제공함으로써(기존 프로바이더는 jet이 안붙어있다) 클라우드 서비스의 리소스를 모두 지원
 * [Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
   * [API 키 관리하는 방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/how-can-i-manage-api-keys)
+  * [Introducing the Vercel Platforms Starter Kit – Vercel](https://vercel.com/blog/platforms-starter-kit)
+    * Vercel을 이용해서 커스텀 도메인을 가진 멀티 테넌트 앱을 만드는 풀 스택 템플릿을 Vercel에서 공개
   * [Vercel Markup](https://service-markup.vercel.app/)
     * Vercel의 많은 제품이 다른 서비스 위에서 만들어졌는데 이를 기반으로 가격 차이가 어느 정도인지를 비교한 페이지, Vercel의 KV, Postgres, Blob이 비교
   * [Vercel Ship](https://vercel.com/ship)
@@ -3605,6 +3610,11 @@ Programming
   * passwordless는 핸드폰에서 FIDO 인증을 하면 passkey를 저장하고 이 passkey를 이용해서 온라인 계정 로그인 가능
   * 컴퓨터에서는 근처에 있는 폰을 이용해서 로그인할 수 있고 한번 로그인하고 나면 이후부터는 컴퓨터의 잠금만 풀면 핸드폰이 없어도 로그인 가능
     * 폰에 저장된 passkey는 클라우드 백업으로 새 폰에서도 이용
+* [Introducing passwordless authentication on GitHub.com | The GitHub Blog](https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/)
+  * GitHub이 패스워드 없이 로그인할 수 있는 passkeys 지원 시작
+  * 현재는 Feature Preview 상태라 설정에서 활성화해야 사용 가능
+  * 활성화하면 설정에서 디바이스의 생체인증 등 다수의 Passkey 추가 가능
+  * 여러 기기에서 로그인할 수 있도록 모바일 기기를 Passkey로 등록하면 동기화되어 다른 기기에서도 안전하게 바로 로그인 가능
 * [블로그 | 로그인의 미래?··· 애플 패스키 미리 써보니... - CIO Korea](https://www.ciokorea.com/news/254056)
 * [애플·구글·MS, '암호 없는 로그인'에 협력한다··· 2023년부터 지원 예정 - CIO Korea](https://www.ciokorea.com/news/235534)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
@@ -5048,6 +5058,7 @@ Programming
   * [기술 뉴스 #223 : 23-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1676)
   * [기술 뉴스 #224 : 23-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1677)
   * [기술 뉴스 #225 : 23-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1678)
+  * [기술 뉴스 #226 : 23-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1679)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5332,6 +5343,11 @@ Programming
   * [노코드 툴 버블 기본기 강의 (bubble.io BASICS) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1qvMYfsqD1k0xzMrNTfoBH)
   * [노코드 툴 버블로 클론코딩 (CLONE NO-CODING with bubble.io) - YouTube](https://www.youtube.com/playlist?list=PLVPTV6t3B7t1NOBaYavRaztP2Yvhp6mk2)
   * [버블 제작 프로덕트 아카이빙](https://wooden-temple-2b2.notion.site/fcf109d580b344d98103b33da9c15470)
+* [코드앤버터 - 팝업을 쉽고 빠르게! 웹사이트를 꾸미는 가장 쉬운 방법](https://www.codenbutter.com/)
+  * [코드앤버터로 프로덕션 환경에서 우아하게 팝업 관리하기 — 생존과 성장 사이](https://blog.haenu.com/11)
+    * 웹사이트에는 팝업이 필요한 경우가 있는데 단순하지만 어느정도 기능 구현에 시간을 써야하고 PO/PM이 직접 관리하게 하려면 더 많은 개발이 필요했기에
+      * 프로젝트에서 직접 구현하기 보다는 노코드 팝업 솔루션인 코드앤버터를 도입한 후기
+    * WYSIWYG 에디터로 쉽게 만들어서 팝업 관리 가능, 요청사항도 2주만에 만들어 주어 만족해서 사용
 * [Figstack | Disquiet\*](https://disquiet.io/product/figstack) 코드를 영어로 또는 다른 개발 언어로 번역해주는 개발자 도구
 * [Google AppSheet | Build apps with no code](https://about.appsheet.com/home/)
 * [Hola | Disquiet\*](https://disquiet.io/product/hola) 개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼
@@ -5469,6 +5485,14 @@ Programming
     * SPDX의 포괄성과 유연함이 걸림돌이 되어 보안과 컴플라이언스에 집중한 CycloneDX가 있는데 이는 OWASP에서 작성, GitHub, GitLab, 레드햇의 지지
     * SWID(Software Identification)는 OASIS의 ISO/IEC 표준으로 정의한 식별정보
   * 각 SBOM 표준 선택 기준도 설명
+* [Enhance SBOMs With Runtime Security Context Using Datadog Application Vulnerability Management | Datadog](https://www.datadoghq.com/blog/enhance-sboms-application-vulnerability-management/)
+  * SBOM을 Datadog에 연결해서 취약점 분석을 어떻게 개선할 수 있는지 설명
+  * 소프트웨어 자재 명세서인 SBOM은 업계에 많이 퍼지고 있고 SPDX, CycloneDX 등 표준도 있지만
+    * 정적인 문서이기 때문에 컨테스트 없이는 정보 부족하고 쿼리할 수 없고 서로 연결할 수 없다는 한계
+  * SBOM을 Datadog에 연결하면
+    * 해당 취약점이 실제로 프로덕션 워크로드에서 실행 중인지 아닌지를 파악 가능
+    * Datadog에서 쿼리 가능
+    * 관련 취약점에 대한 정보를 연결
 * [OmniBOR](https://github.com/OmniBor)
   * [Introduction to OmniBOR - YouTube](https://www.youtube.com/watch?v=xt8ApEcmCCI)
 
@@ -5618,6 +5642,7 @@ Programming
 * [How Cognitive Biases Affect our Software Architectures • Birgitta Böckeler • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GKgE4qfAppI) 대니얼 카너먼의 생각에 관한 생각을 바탕으로 편향이 아키텍쳐에 미치는 영향에 대한 이야기
 * [Improving Software Flow • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=XMyt5S8limQ)
 * [엔지니어링 조직의 프로세스를 점진적이고 지속적으로 개선하기](https://engineering.linecorp.com/ko/blog/process-improvement-in-engineering-organizations)
+* [지속 가능성에 대한 2가지 관점](https://brunch.co.kr/@cleancode/55)
 * [Software Craftsmanship 실천 가이드.pptx - Google Drive](https://docs.google.com/file/d/1A7mW4Cu7CypyE5jt1staRxnPjmEyyqaQ/edit)
 * [Trust Teams but Verify: Compliance as Code Done Right • Effy Elden • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=lv9fuHtnBhc)
 * [Software archaeology - Learning from the landing on the moon! by Tobias Voß - YouTube](https://www.youtube.com/watch?v=-bykh2eMXL0) agile plannning, iterative design simulation, robust fault-tolerant, vision inspiration, competition is good for business
