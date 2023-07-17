@@ -790,6 +790,12 @@ Book
 * [챗GPT 기회인가, 위기인가 - ZDNet korea](https://zdnet.co.kr/view/?no=20230512164834)
   * ★★★☆☆ 2023.07.02~03 나쁘진 않지만 직전에 읽었던 관련 서적인 AI 빅뱅에 비교하면 좀 부족하다는 생각이 듦
   * 한라 331.5412-서38ㅊ
+* [생존을 넘어 번창으로](https://www.youtube.com/watch?v=31o7HhNTi0I)
+  * ★★★★☆ 2023.07.16 모든 startup에게 해당하지만 특히 B2B startup에 더 도움이 될 거라는 말처럼 최소한 나는 몰랐던 것들을 알게 되었다. 후반부는 기업이 매우 커진 후의 일이라 아직은 먼 이야기이고, 전반부의 PMF는 (여전히 어렵지만) 나도 익히 알고 있는 부분인데, 중간의 GMF는 처음 알게 되었다. 플레이북을 통한 sales의 체계화, 반복된 형태로 sales를 달성할 수 있는가가 중요하다는 건 확실히 모든 부분을 체계화해서 방법을 테스트하고 측정해서 개선한다는 측면에서 맞는 이야기이고 따라야 할 방법론이란 생각이 들었다. 2권이 기다려진다.
+  * 한라 325.21-남883ㅅ-1 우당 문325.21-남832ㅅ-1
+  * [5000억 성공을 만든 배움을 준 실패 ㅣBob Tinker & Tae Hea Nahm EP 01 - YouTube](https://www.youtube.com/watch?v=NKFZTuk_ylY)
+  * [#122 생존을 넘어 번창으로](https://brunch.co.kr/@wjoo/155)
+  * (NOT YET) [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
@@ -816,11 +822,6 @@ Book
   * 한라 325.1-남23바 탐라 문325.1-남222ㅂ 우당 문325.1-남222ㅂ
 * (NOT YET) [한 장으로 끝내는 비즈니스 모델 100](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198257709)
   * 한라 325.1-곤25ㅂ 탐라 문325.1-곤225ㅂ
-* (NOT YET) [생존을 넘어 번창으로](https://www.youtube.com/watch?v=31o7HhNTi0I)
-  * 한라 325.21-남883ㅅ-1 우당 문325.21-남832ㅅ-1
-  * [5000억 성공을 만든 배움을 준 실패 ㅣBob Tinker & Tae Hea Nahm EP 01 - YouTube](https://www.youtube.com/watch?v=NKFZTuk_ylY)
-  * [#122 생존을 넘어 번창으로](https://brunch.co.kr/@wjoo/155)
-  * (NOT YET) [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
