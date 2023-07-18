@@ -1970,6 +1970,8 @@ Business
   * [Product Market Fit은 어떤 느낌일까? | GeekNews](https://news.hada.io/topic?id=7139)
 * [Product fit or market fit?](https://www.thestartupbible.com/2023/03/product-fit-or-market-fit.html)
 * [PMF를 찾지 못한 서비스가 준 가르침](https://brunch.co.kr/@cliche-cliche/180)
+* [The Revenge of the Fat Guy | Andreessen Horowitz](https://a16z.com/2010/03/20/the-revenge-of-the-fat-guy/)
+  * [PMF Product Market Fit 에 대한 환상](https://maily.so/saascenter/posts/1667bd51)
 * [Making Data Actionable: The Immense Challenge of Good Data Products](https://ericdataproduct.substack.com/p/making-data-actionable-the-immense)
 * [디스코드의 성장은 OOO 때문이다?](https://brunch.co.kr/@nanotoly/83)
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
