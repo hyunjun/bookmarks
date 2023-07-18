@@ -294,6 +294,7 @@ Artificial Intelligence
 * [owl-bt is editor for Behavior trees. It has been inspired by Unreal engine behavior trees in a way, that it supports special node items like decorators and services. This makes trees smaller and much more readable](https://github.com/pruttned/owl-bt)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
+* [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
 * [vercel-labs/ai: Build AI-powered applications with React, Svelte, and Vue](https://github.com/vercel-labs/ai)
   * [Introducing the Vercel AI SDK – Vercel](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
     * Vercel에서 JavaScript/TypeScript로 대화형, 스트리밍, 채팅 인터페이스를 구축할 수 있는 Vercel AI SDK 오픈소스로 공개
