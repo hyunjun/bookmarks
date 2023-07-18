@@ -1394,6 +1394,7 @@ Web
   * [파이썬 웹어플리케이션 맛보기 (feat. Streamlit)](https://lucaseo.github.io/2020/03/13/20200313-1/)
   * [Flask’s Latest Rival in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)
   * [How to Build a Data Science Web App in Python](https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020)
+* [Taipy, an open-source Python library for building your web applications frontend & backend](https://www.taipy.io/)
 * [Tornado Web Server](https://www.tornadoweb.org/)
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
     * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
