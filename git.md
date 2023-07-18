@@ -1442,6 +1442,7 @@ Git
 * [Stacked Git – an application for managing Git commits as a stack of patches](https://stacked-git.github.io/)
 * Stack Graph [Introducing stack graphs | The GitHub Blog](https://github.blog/2021-12-09-introducing-stack-graphs/)
 * [Sublime Merge](https://www.sublimemerge.com/) Meet a new Git client, from the makers of Sublime Text
+* [talisman: Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys](https://github.com/thoughtworks/talisman)
 * [three-git-tips](https://github.com/saraford/three-git-tips)
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig ](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
