@@ -1641,6 +1641,7 @@ Programming
 * [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=oejXFgvAwTA)
 * [The Architect’s Blueprint: Understanding Software Styles and Patterns with Cheatsheet | by Love Sharma | ByteByteGo System Design Alliance | Jul, 2023 | Medium](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)
   * [Software Architecture Styles and Patterns Cheat Sheet](https://zonito.gumroad.com/l/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet)
+* [Energy-Efficient Software Architecture for Developers • Henrik Bærbak Christensen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=xVKJvUHCanQ)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
