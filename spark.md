@@ -1121,6 +1121,7 @@
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
 * [How I test with Apache Spark?](https://medium.com/@nastasia.saby/how-i-test-with-apache-spark-97b2bacf0b77)
+* [Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets](https://github.com/awslabs/deequ)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
