@@ -313,6 +313,7 @@ Git
 * [git과 ssh/https의 관계 - AnyDoc](https://dev.alliknow.info/posts/2023/5/relation-of-git-ssh-and-https)
 * [Push protection is generally available, and free for all public repositories | The GitHub Blog](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
   * 커밋에 시크릿이 포함된 경우 푸시 자체를 거절하는 Push protection 기능이 공개 저장소에서 무료로 이용 가능
+* [Keep all your packages up to date with Dependabot | The GitHub Blog](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
