@@ -2195,6 +2195,7 @@ AWS
     * 업스트림 워크스페이스에서 `apply`가 되면 다운스트림 워크스페이스에서 `apply`가 실행되도록 설정 가능
     * 하지만 이보다 복잡한 트리거를 위해 Terraform Cloud/Enterprise에서 사용할 수 있는 `tfe_workspace_run`를 Mitchell Hashimoto가 초기 구현 후 실제 기능으로 통합
     * 이를 이용하면 Terraform 구성에서 다른 워크스페이스 간의 실행 의존성에 다양한 조건을 넣어서 연결 가능
+* [Terraform AWS RDS Provisioning Practical Guide](https://devopscube.com/terraform-aws-rds)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
