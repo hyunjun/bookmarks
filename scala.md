@@ -1159,6 +1159,7 @@ Scala
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
     * [zio-maelstrom](https://zio-maelstrom.bilal-fazlani.com/)
+      * [Zymposium - ZIO Maelstrom with Bilal Fazlani - YouTube](https://www.youtube.com/watch?v=8jMGhCceRDU)
     * ZIO Panel [Migrating From Akka to ZIO Panel Discussion - YouTube](https://www.youtube.com/watch?v=zUPeXoJMbfY)
     * [ZIO Prelude · Next Generation Functional Abstractions For Scala](https://zio.github.io/zio-prelude/)
       * [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
@@ -2811,6 +2812,7 @@ Scala
 * [6 Tips for Scala Adoption. I will share our experience on how to… | by Yurii Krat | BigEng | Jan, 2023 | Medium](https://medium.com/bigcommerce-engineering/6-tips-for-scala-adoption-714b7815c20d)
 * [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023 - YouTube](https://www.youtube.com/watch?v=0Fm0y4K4YO8)
 * [Functional World #9 | Breaking framework chains with vanilla Scala - YouTube](https://www.youtube.com/watch?v=U67BAeH3cxo)
+* [Scala Full Course - Learn Scala in 10 Hours - Scala Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLf0LpPWikpPeHGwdeE4ctmAQ7QZs5PG0T)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
