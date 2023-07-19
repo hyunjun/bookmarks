@@ -166,6 +166,7 @@ Sports
 * [숫자로 보는 2022 KBO리그 전반기 결산](https://junkstorage.tistory.com/53)
 * [2022 KBO 리그 포스트시즌 cWPA](https://junkstorage.tistory.com/67)
 * [왜 공은 실밥 쪽으로 휠까? - SSW의 물리학 - 야구공작소](https://yagongso.com/?p=18512)
+* sweeper [야구에 산다 제106구 'New 사직 아이돌' 김민석 폰터뷰 풀버전 습츠 야구에 산다 - YouTube](https://www.youtube.com/watch?v=5f7xKaq6_8Q&t=206s)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
