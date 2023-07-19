@@ -5268,6 +5268,7 @@ Programming
 * [Code Smells Series' Articles - DEV Community 👩💻👨💻](https://dev.to/mcsee/series/9470)
 * [리팩터링에 대한 단상](https://huns.me/posts/2020-05-06-36)
 * [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
+* [Code Smells 비유와 기술 부채](https://brunch.co.kr/@graypool/1042)
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
 * [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
