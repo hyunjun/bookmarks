@@ -302,6 +302,7 @@ Artificial Intelligence
     * OpenAI, LangChain, Hugging Face를 지원하고 있어서 모델 제공 업체와 상관없이 SDK 사용 가능
 * [Weaviate - vector database](https://weaviate.io/)
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
+  * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
