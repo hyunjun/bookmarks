@@ -1442,6 +1442,7 @@ NLP
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
   * [Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta AI Research](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+    * [메타에서 발표한 Llama 2 콜랩에서 수박 겉핥기 - YouTube](https://www.youtube.com/watch?v=OZbarkziC14)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
   * [llama.cpp: Port of Facebooks LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)
