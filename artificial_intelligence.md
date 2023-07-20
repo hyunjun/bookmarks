@@ -264,6 +264,8 @@ Artificial Intelligence
 * [AI Getting Started](https://ai-companion-stack.com)
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
+* [Chroma](https://www.trychroma.com/)
+  * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
 * [comma.ai](https://research.fb.com/projects/commai/)
@@ -302,7 +304,6 @@ Artificial Intelligence
     * OpenAI, LangChain, Hugging Face를 지원하고 있어서 모델 제공 업체와 상관없이 SDK 사용 가능
 * [Weaviate - vector database](https://weaviate.io/)
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
-  * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
 * [x.ai - a personal assistant who schedules meetings for you](https://x.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
