@@ -5025,6 +5025,7 @@ Javascript
       * 콜백에서 상태 동기화를 하면서 문제를 오히려 찾기 어렵게 만들며
       * 안티 패턴을 유도해서
       * 버그를 만들 가능성 증가
+  * [React Query의 구조와 useQuery 실행 흐름 살펴보기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-react-query/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
