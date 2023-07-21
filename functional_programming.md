@@ -132,6 +132,7 @@ Functional Programming
 * [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/)
 * [함수형 프로그래밍 가이드](https://orangebrother.dev/blog/functional-programming-guide)
 * [함수형 패러다임을 이용한 안전한 FFmpeg 서버 구현기 · Present](https://present.do/documents/647bdffa5680594095f2aef8)
+* [**Railway-Oriented Programming | kciter.so**](https://kciter.so/posts/railway-oriented-programming)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
