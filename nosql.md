@@ -180,6 +180,13 @@ NoSQL
 # EnnoDB
 * [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
+# Espresso
+* [Espresso - Database of Databases](https://dbdb.io/db/espresso)
+* [ESPRESSO Articles | LinkedIn Engineering](https://engineering.linkedin.com/blog/topic/espresso)
+* [Introducing Espresso - LinkedIn's hot new distributed document store | LinkedIn Engineering](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store)
+  * [Upscaling LinkedIn's Profile Datastore While Reducing Costs | LinkedIn Engineering](https://engineering.linkedin.com/blog/2023/upscaling-profile-datastore-while-reducing-costs)
+  * [초 당 400만이 넘는 프로필 조회를 견디는 LinkedIn 서비스 구조](https://careerly.co.kr/comments/86646)
+
 # FiloDB
 * [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 * [2017 High Performance Database with Scala, Akka, Spark](https://www.slideshare.net/EvanChan2/2017-high-performance-database-with-scala-akka-spark)
