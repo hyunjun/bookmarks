@@ -525,6 +525,7 @@ iOS
 * [LINE Pay에서 SwiftUI TextField 사용하기](https://engineering.linecorp.com/ko/blog/line-pay-swiftui-textfield)
 * [SwiftUI NavigationView로 Coordinator Pattern 사용하기](https://labs.brandi.co.kr//2022/12/12/leehs81.html)
 * [SwiftUI ForEach 내부의 Sheet에 대하여 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-sheet-inside-foreach/)
+* [Protocol 로 SwiftUI & Preview 200% 활용하기 | by Lee Di | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/protocol-%EB%A1%9C-swiftui-preview-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-cf5341d312c7)
 * [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
@@ -586,6 +587,7 @@ iOS
 * [SwiftUI - Custom TabView :: iOYES](https://green1229.tistory.com/385)
 * [SwiftUI - 뷰의 높이가 충분치 않을때도 Sticky 유지하기 :: iOYES](https://green1229.tistory.com/386)
 * [SwiftUI - Custom ScrollTabView :: iOYES](https://green1229.tistory.com/387)
+* [SwiftUI - monospaced를 이용한 Text 고정폭 설정하기 :: iOYES](https://green1229.tistory.com/390)
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
