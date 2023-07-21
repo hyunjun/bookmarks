@@ -317,7 +317,9 @@ Redis
 * jedis
   * [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/)
   * [Spring-data-redis 에서 Jedis로 TLS를 쓰면서 인증서 체크는 Disable 하는 방법](https://charsyam.wordpress.com/2019/09/06/입개발-sprint-data-redis-에서-jedis로-tls를-쓰면서-인증서-체크는-disable-하/)
-* Lettuce [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
+* Lettuce
+  * [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
+  * [왜 RedisCluster 에 Lettuce는 ClusterTopology를 설정해야 할까? - Google Slides](https://docs.google.com/presentation/d/1FtEFBCubpcqMJ6C7YV55KAxjhZ5znYn6A3f1c341Lcg/edit)
 
 ## Queue Library
 * [EasyRedisMQ - A Simple .Net Message Queue that Uses Redis for the back end](https://github.com/jkruer01/EasyRedisMQ)
