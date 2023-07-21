@@ -92,6 +92,7 @@ Programming Books
   * [프로그래머의 뇌 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/11/06/Programmers-Brain.html)
   * [책 후기 프로그래머의 뇌](https://yeonyeon.tistory.com/295)
   * [코드가 클린 하면 왜 좋아?(feat. 뇌 인지 관점). 안녕하세요 BE APT 팀의 Jin 입니다. | by Pjj | 직방 기술 블로그 | May, 2023 | Medium](https://medium.com/zigbang/%EC%BD%94%EB%93%9C%EA%B0%80-%ED%81%B4%EB%A6%B0-%ED%95%98%EB%A9%B4-%EC%99%9C-%EC%A2%8B%EC%95%84-feat-%EB%87%8C-%EC%9D%B8%EC%A7%80-%EA%B4%80%EC%A0%90-4ff53268a8b8)
+  * [올바른 코드를 위한 끝없는 고찰 | kciter.so](https://kciter.so/posts/programmers-brain-book-report)
 * [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
   * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
@@ -413,6 +414,7 @@ Programming Books
   * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md)
   * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심. Part 1 이념과 태도 | by Jun | Jan, 2023 | Medium](https://nymets.medium.com/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%84%90%EB%A6%AC%EC%A6%98-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-112f9097520a)
   * [소프트웨어 장인 :프로페셔널리즘/실용주의/자부심](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%ED%94%84%EB%A1%9C%ED%8E%98%EC%85%94%EB%84%90%EB%A6%AC%EC%A6%98%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%EC%9E%90%EB%B6%80%EC%8B%AC)
+  * [나는 프로답게 일했는가? | kciter.so](https://kciter.so/posts/software-master-book-report)
 * [퍼스널 애자일 퍼스널 칸반](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=243233605)
   * ★★★☆☆ 2022.10.06~07
   * 탐라 문325.211-벤58ㅍ
