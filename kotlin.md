@@ -124,6 +124,7 @@
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
 * [코틀린의 인라인에 대해 한 번에 알아보자. inline, noinline, crossinline, reified… | by jisungbin | Sep, 2021 | Medium](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%B4-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-591c7da73219)
 * [inline 함수 #1 - Bsidesoft co.](https://www.bsidesoft.com/8603)
+* [Inline Functions in Kotlin. Inline functions in Kotlin are a… | by Sevban Bayır | Jul, 2023 | Medium](https://medium.com/@sevbanbuyer/inline-functions-in-kotlin-f26dd324b770)
 * [Jeremy's Blog | 코틀린에서 reified는 왜 쓸까?](https://sungjk.github.io/2019/09/07/kotlin-reified.html)
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Hacking with Kotlin: prepending](https://proandroiddev.com/hacking-with-kotlin-prepending-d1ba87b64846)
