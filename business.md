@@ -1621,6 +1621,7 @@ Business
 * [직원의 업무효율을 높이는 CEO의 질문법 | 티피아이 인사이트](https://www.tpiinsight.co.kr/insight/2020/05/21/%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%85%eb%ac%b4%ed%9a%a8%ec%9c%a8%ec%9d%84-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%98%91%eb%98%91%ed%95%9c-ceo-%ec%a7%88%eb%ac%b8/) motivation
 * [성과를 내는 리더들의 특징 – 체인지그라운드](http://thechangeground.com/archives/25156) motivation
 * [기업(그리고 임원)이 알아야 할 개발자 동기부여의 비밀 - CIO Korea](https://www.ciokorea.com/news/254992) motivation
+* [직원들의 마음 안에서 열정을 꺼내는 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/264015) 동기부여
 * [주먹구구식 경영 탈피 직원의 능력을 120% 발휘하게 하는 법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/08/12/employee-ability/)
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
