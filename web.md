@@ -353,6 +353,7 @@ Web
 * [Domain Registrars which Developers Recommend](https://newsletter.pragmaticengineer.com/p/domain-registrars-which-developers)
   * [개발자들이 추천하는 Domain Registrar는? | GeekNews](https://news.hada.io/topic?id=9578)
 * [사운드 리소스 전달 WebApp 만들기](https://tech.devsisters.com/posts/building-a-sound-vcs-webapp/)
+* [사파리, 모바일 환경에서의 트러블슈팅 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-safari-issues/)
 
 # Apache
 * installation
