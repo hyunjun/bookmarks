@@ -1721,6 +1721,7 @@ Docker
   * 안정성에는 중요하지만 PDB가 의도한 작업을 차단하거나 지연시킬 수도 있으므로 PDB의 동작을 잘 알고 사용해야 함
 * [CNCF Wisdom of the Cloud #3: Midsummer Momentum](https://email.linuxfoundation.org/cncf-wisdom-of-the-cloud-3-midsummer-momentum)
 * [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
+* [B 12 002 트러블 슈팅은 어떻게 진행하면 좋을까요 - YouTube](https://www.youtube.com/watch?v=5_zq1L1nVsg)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
