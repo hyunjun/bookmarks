@@ -1156,6 +1156,7 @@ Java
   * [Game of Loom: implementation patterns ... playing with virtual threads by Mario Fusco - YouTube](https://www.youtube.com/watch?v=70aNTos4Lrc)
   * [Java Next - From Amber to Loom, from Panama to Valhalla by Nicolai Parlog - YouTube](https://www.youtube.com/watch?v=dX8vF4oYGqI)
   * [Prepare for what "Loom"s ahead by Dr. Heinz Kabutz - YouTube](https://www.youtube.com/watch?v=kb_cLmMAff4)
+  * [Coroutines and Loom behind the scenes by Roman Elizarov - YouTube](https://www.youtube.com/watch?v=zluKcazgkV4)
   * [project-loom-c5m: Experiment to achieve 5 million persistent connections with Project Loom virtual threads](https://github.com/ebarlas/project-loom-c5m)
 
 ## JVM GC Garbage Collection
