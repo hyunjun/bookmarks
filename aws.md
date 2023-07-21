@@ -2306,6 +2306,7 @@ AWS
 * [Algo로 개인 VPN 서버 구축하기(요약판)](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [보안성 높은 재택근무 환경을 위한 AWS 아키텍처 구성하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/improving-security-architecture-controls-for-wfh/)
 * [VPN 분할 터널에 대해 배우면서 VPN환경 구축 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Sep, 2022 | Medium](https://medium.com/ctc-mzc/vpn-%EB%B6%84%ED%95%A0-%ED%84%B0%EB%84%90%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B0%B0%EC%9A%B0%EB%A9%B4%EC%84%9C-vpn%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%ED%95%B4-%EB%B3%B4%EA%B8%B0-bdeee71351)
+* [AWS Site-to-Site VPN 성능 최적화를 위한 적절한 옵션 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-site-to-site-vpn-best-options-for-performance/)
 
 # WAF Web Application Firewall
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
