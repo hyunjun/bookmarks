@@ -1438,6 +1438,7 @@ NLP
   * [ChatGPT보다 성능이 더 뛰어나다? _ 메타의 언어모델, LLaMA 라마 코드분석 - YouTube](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * [Meta가 쏘아올린 작은 공 LLaMA에 대해 알아보자 - 윤주성](https://aifactory.space/learning/2414/discussion/327)
   * [Why Developers Are Flocking to LLaMA, Meta’s Open Source LLM - The New Stack](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
+  * [GPTQ-for-LLaMa: 4 bits quantization of LLaMA using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
   * [Koala: A Dialogue Model for Academic Research – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2023/04/03/koala/)
   * [KoChatLLaMA.cpp: Port of Facebooks LLaMA model in C/C++ and Fine-tuning in Korean.](https://github.com/gyunggyung/KoChatLLaMA.cpp)
   * [lit-llama: Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-llama)
