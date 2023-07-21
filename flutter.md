@@ -251,6 +251,8 @@ Flutter
 * [flet: Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required](https://github.com/flet-dev/flet)
   * [The fastest way to build Flutter apps in Python | Flet](https://flet.dev/)
   * [User Interface in Python and Flet | Flutter for Python - YouTube](https://www.youtube.com/watch?v=y75vekE9OqU)
+* [fullstack_dart_todo](https://github.com/leehack/fullstack_dart_todo)
+  * [Let's build a full-stack dart app - DEV Community](https://dev.to/leehack/lets-build-a-full-stack-dart-app-36lm)
 * [gallerywallpaper: Apps using Flutter for settings UI of Livewallpaper](https://github.com/alongthecloud/gallerywallpaper) 플러터와 안드로이드 네이티브 서비스를 같이 쓰는 샘플
 * Moor
   * [가장쉽게 SQLite 를 사용하는 방법 Moor! - Part 1 - YouTube](https://www.youtube.com/watch?v=Bs8K7SLk2oY)
