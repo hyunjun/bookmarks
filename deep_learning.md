@@ -402,6 +402,7 @@ Deep Learning
 * [딥러닝 ‘생성모델’과 ‘잠재 벡터’에 관하여 – AI PLUS Tech Blog](https://blog.est.ai/2021/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%9E%A0%EC%9E%AC-%EB%B2%A1%ED%84%B0%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
 * [slow paper Glow: Generative Flow with Invertible 1x1 Convolutions | by Sunwoo Park | Medium](https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939) generative model
 * [Nocode, Serverless cloud Services for Generative AI : monokode stein / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/monokode-stein/)
+* [How generative AI is changing the way developers work - The GitHub Blog](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
 * [딥러닝 프레임워크 조사와 몇가지 홍보](http://www.popit.kr/%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%A1%B0%EC%82%AC%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%99%8D%EB%B3%B4/)
