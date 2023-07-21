@@ -1445,6 +1445,7 @@ NLP
   * [Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta AI Research](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
     * [메타에서 발표한 Llama 2 콜랩에서 수박 겉핥기 - YouTube](https://www.youtube.com/watch?v=OZbarkziC14)
     * [Meta’s LLaMa 2 license is not Open Source - Voices of Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+    * [DEMO 초보자가 쿠버네티스에서 돌려본 라마 버전2(llama-2-13b) 13B 모델 - YouTube](https://www.youtube.com/watch?v=VfEVKc1BdrE)
     * [llama2gptq: Chat to LLaMa 2 that also provides responses with reference documents over vector database. Locally available model using GPTQ 4bit quantization](https://github.com/seonglae/llama2gptq)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
