@@ -1065,6 +1065,7 @@ Programming
 * [`API 언제 나오나요?` 로 부터 독립하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221127-api-layer/)
 * [Top 6 Most Popular API Architecture Styles - YouTube](https://www.youtube.com/watch?v=4vLxWqE94l4)
 * [facade API와 Shopping Service API팀에 대한 이야기](https://dev.gmarket.com/84)
+* [API 메시업과 Fault Tolerance 문제 해결 전략](https://dev.gmarket.com/86)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -1886,7 +1887,7 @@ Programming
 * [Eldercam: Event-driven AI for Surveillance • John Page • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=_76uaHtthYs)
 * [**Building Event-driven Apps at Scale • Tom Fairbairn • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=MYcDx8jY3nI)
 * [VDBUH2023 - Daniel Oh - Event-driven autoscaling for Serverless Java - YouTube](https://www.youtube.com/watch?v=I47uwSk5cUc)
-* [회원시스템 이벤트기반 아키텍처 구축하기 #우아콘2022 #Day2_음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=b65zIH7sDug)
+* [회원시스템 이벤트기반 아키텍처 구축하기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=b65zIH7sDug)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -2034,7 +2035,7 @@ Programming
   * monitoring, logging, analytics and billing
   * caching
 * [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
-* [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2_음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
+* [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
@@ -2318,6 +2319,7 @@ Programming
 * [Dark Energy, Dark Matter and the Microservices Patterns?! - YouTube](https://www.youtube.com/watch?v=MjEKuHwrwl8)
 * [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 * [토스ㅣSLASH 23 - 은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기) - YouTube](https://www.youtube.com/watch?v=amTJyIE1wO0)
+* [마이크로서비스, 그 단어의 역사. 2018년 이전에 고등학교를 졸업하신 분들께는 굉장히 생소할텐데… | by 김희수Higgs(힉스) / 기술기획팀 | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B7%B8-%EB%8B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC-3cce0133312)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
