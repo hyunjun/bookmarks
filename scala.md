@@ -2412,6 +2412,7 @@ Scala
 * [Scala 3.3 LTS - The Big Deal Release? - YouTube](https://www.youtube.com/watch?v=IiQvrHsN3FU)
 * [Scala 3 Significant Indentation Woes: Sample - Alexandru Nedelcu](https://alexn.org/blog/2023/06/06/scala-3-significant-indentation-woes-sample/)
 * [Introduction to Scala 3 (video course) | alvinalexander.com](https://alvinalexander.com/video-course/intro-scala-3/introduction/)
+* [Signature polymorphic methods in Scala | The Scala Programming Language](https://scala-lang.org/blog-detail/2023/07/17/signature-polymorphic-methods.html)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
