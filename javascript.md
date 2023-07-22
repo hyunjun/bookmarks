@@ -853,6 +853,7 @@ Javascript
   * 이때 `exports` 필드를 이용하면 파일의 경로와 임포트 경로를 매핑 시킬수 있는데
     * 여기서 `require`와 `import` 키로 CJS/ESM에서 다른 파일을 로드할 수 있게 설정할 수 있는데
     * 이 `exports` 필드를 정의할 때 주의할 점도 정리
+* [CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field | blog.hoseung.me](https://blog.hoseung.me/2022-10-04-commonjs-esm-exports-field/) CJS ESM
 * [module system(모듈 시스템) 이해하기](https://blog.naver.com/pjt3591oo/222574553721)
 * [JavaScript Proxy… But With Reflect | by TOAST UI | May, 2021 | Medium](https://toastui.medium.com/javascript-proxy-but-with-reflect-665f868fbeba)
 * [중첩 반복문은 안감을 두껍게 짜야한다](https://velog.io/@qroffle/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%80-%EC%95%88%EA%B0%90%EC%9D%84-%EB%91%90%EA%BB%8D%EA%B2%8C-%EC%A7%9C%EC%95%BC%ED%95%9C%EB%8B%A4)
@@ -2749,6 +2750,8 @@ Javascript
   * [Rollup 기반 라이브러리 개발 환경 구성하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/11/07/Rollup-React-TypeScript.html)
 * [rome: The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS](https://github.com/romefrontend/rome)
   * [번역 모든 길은 Rome으로 통할까?. Front-end 툴 체인 Rome 훑어보기 | by Jung Han | podo_official | Aug, 2020 | Medium](https://medium.com/official-podo/%EB%AA%A8%EB%93%A0%EA%B8%B8%EC%9D%80-rome%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A0%EA%B9%8C-1a858dddedd6)
+* [tsup: The simplest and fastest way to bundle your TypeScript libraries](https://github.com/egoist/tsup)
+  * [라이브러리 번들링 개선 과정: 커맨드 한 줄로 번들링 끝내기 | blog.hoseung.me](https://blog.hoseung.me/2023-07-22-improve-library-bundling/)
 * [µcdn: a live, bundlerless, alternative | by Andrea Giammarchi | Medium](https://medium.com/@WebReflection/%C2%B5compress-goodbye-bundlers-bb66a854fc3c)
 * [webpack - a module bundler](http://webpack.github.io/)
   * [webpack - Building Modular JavaScript with Webpack](http://blog.librato.com/posts/webpack)
