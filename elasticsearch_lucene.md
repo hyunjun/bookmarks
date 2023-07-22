@@ -42,6 +42,7 @@ ElasticSearch - Lucene
   * Mapping
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
     * [Elasticsearch: updating the mappings and settings of an existing index](https://gist.github.com/nicolashery/6317643)
+    * [엘라스틱서치 매핑과 데이터 CRUD : 네이버 블로그](https://blog.naver.com/gi_balja/223160114832)
   * Optimize
     * [**Optimizing Elasticsearch Searches**](https://www.elastic.co/blog/found-optimizing-elasticsearch-searches)
     * [**9 Tips on ElasticSearch Configuration for High Performance**](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
