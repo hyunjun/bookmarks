@@ -845,6 +845,9 @@ Programming Books
   * [AI & UX. ★★★☆☆ 2023.05.08 AI 관련된 app/service에… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/ai-ux-19986e8f5ee3)
   * [AI & UX -](https://jh4hj.tistory.com/entry/AI-UX)
   * [AI & UX - Jun’s Substack](https://recur.substack.com/p/ai-and-ux)
+* [박태웅의 AI 강의](https://zdnet.co.kr/view/?no=20230622161319)
+  * ★★★☆☆ 2023.06.22 교양서로 읽기에 정말 적절한 내용 구성과 수준. 금새 읽을 수 있는데도 가볍지 않은 내용들을 포괄하고 있어 정말 좋다
+  * 한라 331.5412-박883ㅇ 우당 문331.5412-박832ㅂ
 * (NOT YET) [AI는 인문학을 먹고 산다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281328677)
   * 한라 001-한78ㅇ 탐라 문001-한79ㅇ 우당 문001-한79ㅇ
 * (NOT YET) [AI 슈퍼파워](https://www.youtube.com/watch?v=arDXQifYBXk)
