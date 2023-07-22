@@ -73,6 +73,7 @@ Apache
 * [Self Serving Data Platform 구축하기 (feat. Airflow)](https://tech.buzzvil.com/blog/%EC%85%80%ED%94%84-%EC%84%9C%EB%B9%99-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * [Airflow 1. 설치 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/18/airflow-airflow-1/)
 * [Airflow 2. 기본 세팅(예제 제거, PostgreSQL 연결) - 미완성의신](https://unfinishedgod.netlify.app/2023/07/20/airflow-airflow-2-dag/)
+* [Airflow 3. Timezone 설정 및 DAG 테스트 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/22/airflow-airflow-3-timezone-dag/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
