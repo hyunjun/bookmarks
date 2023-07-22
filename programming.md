@@ -1293,6 +1293,7 @@ Programming
   * [Effective Atomic Design | kciter.so](https://kciter.so/posts/effective-atomic-design)
   * [Atomic Design Pattern의 Best Practice 여정기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1531/)
   * [Atomic Design 설계와 Container Component | Univdev](https://www.univdev.page/posts/atomic-design-with-container-component/)
+  * [전국 각지 지구촌 구석구석에 계신 React 개발자님들! 코드에 디자인 시스템을 찍어 드셔보세요 아토믹 컴파운드 패턴 적용기 | by 정백경 | Jul, 2023 | Medium](https://baekkyoungjung.medium.com/react%EB%A1%9C-%ED%99%95%EC%9E%A5%EC%84%B1-%EC%9E%88%EA%B3%A0-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EB%8F%84-%EC%9E%88%EA%B3%A0-%EA%B0%80%EB%8F%85%EC%84%B1%EB%8F%84-%EC%9E%88%EC%9C%BC%EB%A9%B4%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0%EB%8F%84-%EC%89%BD%EA%B3%A0-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B4-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8C%8C%EC%9A%B4%EB%93%9C-%ED%8C%A8%ED%84%B4-7912f1b65a40)
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * Instagram
