@@ -826,6 +826,7 @@ Web
 * [input과 button을 딱 붙여 인풋 그룹을 만들 때 유용한 inline-flex | 웹으로 말하기](https://mytory.net/archives/14536)
 * [Future CSS: State Container Queries - Ahmad Shadeed](https://ishadeed.com/article/css-state-queries/)
   * [미래의 CSS: State Container Queries | GeekNews](https://news.hada.io/topic?id=9566)
+* [알아두면 유용한 CSS 기능 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223163108238)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
