@@ -62,6 +62,7 @@ Graph
 * [Graph Thinking - Paco Nathan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=bqku2a7ScXg)
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 * [Dominika Basaj & Barbara Rychalska - Creating behavioral profiles of your customer - YouTube](https://www.youtube.com/watch?v=pIRWBPSkw6I) cleora algorithm
+* [Searching for Research Fraud in OpenAlex with Graph Data Science • Adam Day & Ebru Cucen • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=6_e-F0TbFCg)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
