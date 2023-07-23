@@ -609,6 +609,9 @@ Programming
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 * [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
+* [Nanosecond timestamp collisions are common (evanjones.ca)](https://www.evanjones.ca/nanosecond-collisions.html)
+  * [nanocollision: NanoCollision: Experiments with collisions of nanosecond timestamps](https://github.com/evanj/nanocollision)
+  * [나노초 타임스탬프 충돌은 흔합니다. | GeekNews](https://news.hada.io/topic?id=9943)
 * [Alex Xu on Twitter: "/1 How do we generate unique IDs in distributed systems? How do we avoid ID conflicts? The diagram below shows 5 ways. 👇 https://t.co/heA5cXZPcy" / Twitter](https://twitter.com/alexxubyte/status/1570430639836639239)
 * [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
 * [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
