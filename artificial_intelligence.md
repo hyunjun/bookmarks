@@ -266,6 +266,7 @@ Artificial Intelligence
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
+  * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
 * [comma.ai](https://research.fb.com/projects/commai/)
