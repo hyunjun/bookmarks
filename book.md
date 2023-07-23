@@ -796,6 +796,9 @@ Book
   * [5000억 성공을 만든 배움을 준 실패 ㅣBob Tinker & Tae Hea Nahm EP 01 - YouTube](https://www.youtube.com/watch?v=NKFZTuk_ylY)
   * [#122 생존을 넘어 번창으로](https://brunch.co.kr/@wjoo/155)
   * (NOT YET) [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
+* [세상의 모든 전략은 삼국지에서 탄생했다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293960757)
+  * ★★★☆☆ 2023.07.22~23
+  * 탐라 문325.211-임66ㅅ 우당 문325.211-임66ㅅ
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
