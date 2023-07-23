@@ -1744,6 +1744,7 @@ Web
 * [톰캣 #09 쓰레드](https://www.youtube.com/watch?v=sKiEidnV0nI)
 * [WAS와 웹서버의 차이 – 톰캣과 아파치를 구별하지 못하는 사람을 위해](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
 * [WEB과 WAS의 차이점](https://velog.io/@chamominedev/WEB%EA%B3%BC-WAS%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+* [웹 서버와 WAS(Web Application Server) | 요즘IT](https://yozm.wishket.com/magazine/detail/1780/)
 * [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
 * [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
 * [여기보기 누구나 아는 기본 계정명은 비밀이 아니다 - 넷마블 기술 블로그](https://netmarble.engineering/avoid-was-console-default-account-and-setting/)
