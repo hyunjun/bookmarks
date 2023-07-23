@@ -105,6 +105,7 @@
   * [Java 객체지향 생활 체조 원칙 9가지 (from 소트웍스 앤솔러지) :: Jamie의 성장기](https://jamie95.tistory.com/99)
 * [**OOP 기반 선착순 투표 시스템 아키텍처**](https://zuminternet.github.io/vote-architecture/)
 * [팩토리 메서드 디자인 패턴을 사용하세요 | funes-days](https://funes-days.com/dev/factory-method-in-nodejs)
+* [개발자라면 "무조건" 디자인 패턴을 배워야한다? - YouTube](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
