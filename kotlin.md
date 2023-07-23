@@ -482,6 +482,7 @@
 * [Kotlin을 사용한 Spring Boot 개발기 - Controller (@requestBody, Dto 생성하기) | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/kotlin-spring-boot-controller-post/)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
 * [Spring Boot Kotlin Multi Module로 구성해보는 헥사고날 아키텍처 | 우아한형제들 기술블로그](https://techblog.woowahan.com/12720/)
+* [SpringBoot Multi Module 프로젝트 구성하기 by Kotlin - Google Slides](https://docs.google.com/presentation/d/1O1ckUumBAsDNhFwPXV6jTPqlrftjwlhpo4khpWUwv08/edit)
 * [Spring Boot 3 Kotlin Router DSL - Codersee](https://codersee.com/spring-boot-3-kotlin-router-dsl)
 * [How to start with Coroutines in SpringBoot applications (part 1) | by Matthias Schenk | Towards Dev](https://towardsdev.com/how-to-start-with-coroutines-in-springboot-applications-e0da1f013dbd)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
