@@ -495,6 +495,7 @@ Linux
 * [10 Essential Linux Commands Every Developer and DevOps Should Know | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/10-essential-linux-commands-every-developer-and-devops-should-know-9df39391aac7)
 * [Next-level Commands for the terminal - DEV Community](https://dev.to/jmau111/next-level-commands-for-the-terminal-4ml7)
 * [백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개 | 요즘IT](https://yozm.wishket.com/magazine/detail/2103/)
+* [How to Navigate Man Pages Efficiently in Linux](https://www.tecmint.com/linux-man-pages/)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
