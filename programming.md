@@ -335,6 +335,7 @@ Programming
   * DevOps는 여전히 중요한 개념으로 플랫폼 엔지니어링은 누구나 DevOps에 접근 가능하게 함
 * [“데브옵스의 최종진화” 플랫폼 엔지니어링의 이해 - ITWorld Korea](https://www.itworld.co.kr/mainnews/287683)
 * [왜 플랫폼 엔지니어링에 집중해야 할까? - ITWorld Korea](https://www.itworld.co.kr/news/289507)
+* [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
 * [Maximizing resilience through SRE and governance: A holistic approach by Akshay Jha - YouTube](https://www.youtube.com/watch?v=VKZqVWqUQ9U)
