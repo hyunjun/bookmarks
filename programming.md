@@ -4378,6 +4378,7 @@ Programming
   * Deferred DeepLink는 앱이 설치되어 있으면 바로 열리지만 그렇지 않으면 설치한 뒤에 열리게 할 수 있음
   * 이 Deferred DeepLink를 제공하는 서비스와 동작 방식 소개
 * [Branch Webinars 딥링크, 정말 아무거나 써도 괜찮을까요? | Branch](https://branch.io/ko/resources/webinar/how-to-choose-deeplink-solution/)
+* [Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2126/)
 * [모바일 웹에서 뷰포트 역할. 역사적으로 처음 널리 알려진 모바일 웹 브라우저는 아이폰용… | by 이상선 | Aug, 2022 | Medium](https://medium.com/@sunyi233/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9%EC%97%90%EC%84%9C-%EB%B7%B0%ED%8F%AC%ED%8A%B8-%EC%97%AD%ED%95%A0-845c9fb0a983)
 * [홈 화면에 웹 바로가기를 추가하기(A2HS) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230202-a2hs/)
 * [스토어 키워드 랭크 올리기. 우리 앱이 스토어에서 잘 노출되었으면 좋겠어 (1) | by Stephan Seunghwan Seo | DelightRoom | Medium](https://medium.com/delightroom/%EC%8A%A4%ED%86%A0%EC%96%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%9E%AD%ED%81%AC-%EC%98%AC%EB%A6%AC%EA%B8%B0-7bce372c41f9)
