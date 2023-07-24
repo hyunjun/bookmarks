@@ -125,6 +125,7 @@ Functional Programming
 * [‘액션-계산-데이터’ 관점으로 보는 함수형 프로그래밍 패러다임 | 요즘IT](https://yozm.wishket.com/magazine/detail/1485/)
 * [함수형 프로그래밍 언어 3대장. (1) 세상 가장 우아한 코드를 만드는 Clojure, (2) 실무에… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-3%EB%8C%80%EC%9E%A5-d97729e97d4c)
 * [Persistent data structures in functional programming](https://softwaremill.com/persistent-data-structures-in-functional-programming/)
+* [함수형 자료구조 | kciter.so](https://kciter.so/posts/functional-data-structure)
 * [Functional programming is finally going mainstream](https://github.com/readme/featured/functional-programming)
 * [TECH l 월간FP(Functional Programming) - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV1Ltml73FGrG3XoS7I02ADx) clojure, ReScript
 * [프론트엔드에서 함수형을 추구하면 안되는 걸까? - Slidev](https://moonlit-nougat-422445.netlify.app/1)
