@@ -996,7 +996,9 @@ Go
 * [Solve Go Performance Issues by Profiling | by Patrick Gopher | The Startup | Medium](https://medium.com/swlh/solve-go-performance-issues-by-profiling-65d643f65c98)
 * [Go Performance Tools Cheat Sheet](https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/)
 * [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
-* pprof [Profiling Go Programs - The Go Blog](https://blog.golang.org/pprof)
+* pprof
+  * [Profiling Go Programs - The Go Blog](https://blog.golang.org/pprof)
+  * [How to Optimize Your Go Code with pprof | Comprehensive Guide to Profiling in Go](https://voskan.host/2023/07/22/profiling-in-golang-with-pprof/)
 * [pprof++: A Go Profiler with Hardware Performance Monitoring | Uber Engineering Blog](https://eng.uber.com/pprof-go-profiler/)
 
 # Rust
