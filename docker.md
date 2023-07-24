@@ -1722,6 +1722,7 @@ Docker
 * [CNCF Wisdom of the Cloud #3: Midsummer Momentum](https://email.linuxfoundation.org/cncf-wisdom-of-the-cloud-3-midsummer-momentum)
 * [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
 * [B 12 002 트러블 슈팅은 어떻게 진행하면 좋을까요 - YouTube](https://www.youtube.com/watch?v=5_zq1L1nVsg)
+* [NCP에서 k8s 사용하기 - 사설 registry 이용](https://blog.naver.com/pjt3591oo/223163689803)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
