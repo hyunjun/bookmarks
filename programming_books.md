@@ -2245,6 +2245,8 @@ Programming Books
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [자바 개발자를 위한 데브옵스 툴](https://hanbit.co.kr/store/books/look.php?p_code=B1030979866)
+* (NOT YET) [처음부터 제대로 배우는 스프링 부트](https://hanbit.co.kr/store/books/look.php?p_code=B4239384913)
+  * [스프링 부트를 활용한 웹개발의 기본을 충분히 .. : 네이버블로그](https://blog.naver.com/drvoss/223164101787)
 
 # JavaScript
 
@@ -2674,6 +2676,7 @@ Programming Books
   * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
   * [린스타트업의 한계](https://brunch.co.kr/@doberman/43)
   * (NOT YET) [린 스타트업(10주년 기념, 전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3905391687)
+    * [린 스타트업](https://jybaek.tistory.com/1001)
 * 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
   * 탐라 문325.1-벨58ㅇ
   * ★★★★☆ 2022.05.31~06.01
