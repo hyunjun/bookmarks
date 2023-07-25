@@ -426,6 +426,7 @@ AWS
 * [왜 우리는 AWS Graviton2 사용해야 하는가?. 안녕하세요 저는 Spoon Radio에서 SRE 업무를 담당하고 있는… | by Paul | Spoon Radio | Jul, 2022 | Medium](https://medium.com/spoontech/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-aws-gravition2-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80-6cb8b5858552)
 * [AWS Graviton Fast Start – 그라비톤 기반 완전 관리 서비스 이전 지원 프로그램 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 * [AWS Graviton3 기반 범용(M7g) 및 메모리 최적화(R7g) EC2 인스턴스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
+* [1년 동안 Workload의 절반을 ARM64로 Migration하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/07/25/migrate-half-of-workload-in-a-year.html) graviton
 * [AWS AI 서비스를 통한 소프트웨어 개발 생산성 향상하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-improve-software-development-productivity-ml-based-aws-cloud-services/)
 * [개발자는 개발을 하고 싶다! ( 파이썬을 활용한 추출 업무 자동화. Feat. AWS ) :: GS Retail Engineering](https://gsretail.tistory.com/19)
 * [AWS open source news and updates, #121 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-121-1h18)
