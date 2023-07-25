@@ -658,6 +658,7 @@ Go
 * [~FRAGMENTA - websites with Go~](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
 * [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
+* [gflatten: Golang for map and struct flatten library](https://github.com/cloudmatelabs/gflatten)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
 * [gitqlite: Query git repositories with SQL. Uses SQLite virtual tables and go-git](https://github.com/augmentable-dev/gitqlite)
