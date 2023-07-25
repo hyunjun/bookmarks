@@ -847,6 +847,7 @@ Business
 * [한기용 - 가장 중요한 포인트는 사람을 함부로 늘리지 않고 인재 밀도를 유지하는 것](https://www.facebook.com/keeyong.han/posts/pfbid0esmgp7oEznCg8ktzH1HkZKza5nzKAHsM8yUSgGgo51foAzaiwjMK166SSCndYJMvl)
 * [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs) Behavioral Event Interview
 * [스타트업 팀 빌딩, 채용 타겟팅이 성패를 좌우합니다](https://blog.wehire.kr/recruitment-targeting/)
+* [초기 스타트업 상황별 필요한 인재상 정리](https://eopla.net/magazines/5307)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
