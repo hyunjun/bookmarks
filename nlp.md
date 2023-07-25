@@ -1447,6 +1447,7 @@ NLP
     * [😎 ChatGPT의 진정한 대항마, 본인등판 메타(mata)의 LLaMA 2 - 😎 묻고 더블로가! 😎 - YouTube](https://www.youtube.com/watch?v=zN30JodATrU)
     * [Meta’s LLaMa 2 license is not Open Source - Voices of Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
     * [DEMO 초보자가 쿠버네티스에서 돌려본 라마 버전2(llama-2-13b) 13B 모델 - YouTube](https://www.youtube.com/watch?v=VfEVKc1BdrE)
+    * [A simple guide to fine-tuning Llama 2 | Brev docs](https://brev.dev/blog/fine-tuning-llama-2)
     * [llama2gptq: Chat to LLaMa 2 that also provides responses with reference documents over vector database. Locally available model using GPTQ 4bit quantization](https://github.com/seonglae/llama2gptq)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
