@@ -365,6 +365,7 @@ NLP
 * [딥러닝 공개 모델 활용 정보 수집 효율화 | Pega Devlog](https://jehyunlee.github.io/2022/11/11/Python-DS-120-eost2022/)
 * [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
+* [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
