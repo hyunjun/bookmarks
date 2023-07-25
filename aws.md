@@ -1025,6 +1025,7 @@ AWS
 * [Amazon ECS Service Connect를 활용하여 손쉽게 마이크로서비스 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/run-microservices-easily-with-amazon-ecs-service-connect/)
 * [ECS Builder Series - Andrew Hammond (ClickUp) - YouTube](https://www.youtube.com/watch?v=4PB9jV1gzsY)
 * [Amazon ECS 워크로드를 위한 AWS Fault Injection Simulator의 새로운 기능 발표 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/announcing-aws-fault-injection-simulator-new-features-for-amazon-ecs-workloads/)
+* [Building better container images | Containers](https://aws.amazon.com/ko/blogs/containers/building-better-container-images/) ECS EKS ECR
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
