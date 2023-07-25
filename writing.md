@@ -111,6 +111,8 @@ Writing
 * [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2053/)
 * [글, 어떻게 쓸 것인가?(7년째 쓰는 개발자로부터) | 요즘IT](https://yozm.wishket.com/magazine/detail/2119/)
 * [개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2134/)
+* [Why engineers should focus on writing - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/why-engineers-should-write/)
+  * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
