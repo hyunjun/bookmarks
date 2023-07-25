@@ -487,6 +487,7 @@
 * [How to start with Coroutines in SpringBoot applications (part 1) | by Matthias Schenk | Towards Dev](https://towardsdev.com/how-to-start-with-coroutines-in-springboot-applications-e0da1f013dbd)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
+* [@Transactional 은 어떻게 동작할까? - Google Slides](https://docs.google.com/presentation/d/1EY1wgPo7KjBZ2BGOHHohfcVWhkcvhUGYiZqcRO7s0kY/)
 * [A Tour of the Modern Java Platform • James Ward & Ryan Knight • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BU_zIpQI5Dg)
   * [modern-java-springone](https://github.com/jamesward/modern-java-springone)
   * [spring-kotlin-postgres](https://github.com/jamesward/spring-kotlin-postgres)
