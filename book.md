@@ -1478,8 +1478,10 @@ Book
 * [하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기](https://post.naver.com/viewer/postView.naver?volumeNo=33147702)
   * ★★★☆☆ 2022.03.21 아직은 잘 모르겠음. 읽기는 좋고 확실히 쓸모도 있어 보이는데 아직 어떻게 해야 유용할지는 바로 와닿지는 않음
   * [하우 투 제텔카스텐 - YouTube](https://www.youtube.com/watch?v=iTJZuw8Wu8k)
-* (NOT YET) [세컨드 브레인, 제텔카스텐, 개인 지식 관리는 도대체 무엇인가 | 10x Lessons](https://tkim.co/2022/07/16/what-is-second-brain/)
+* [세컨드 브레인](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312222128)
+  * ★★★☆☆ 2022.07.24~25 특정 도구에 대한 책은 아니고 세컨드 브레인이라는 일종의 개념을 통해 어떻게 우리의 능력을 확장할 지에 대한 주장을 하는, 예전에 읽었던 책들과 비교하면 더 상위 개념의 책. CODE라는 acronym을 통해 개념을 정리하는 부분이 맘에 들었고, 이렇게 간단하게 주장을 정리해서 설명하고 퍼뜨리는 건 이 책 뿐만 아니라 다른 데서도 배워야할 점이긴 하다
   * 한라 325.2112-포297ㅅ 탐라 문325.2112-포238ㅅ 우당 문325.211-포238ㅅ
+  * [세컨드 브레인, 제텔카스텐, 개인 지식 관리는 도대체 무엇인가 | 10x Lessons](https://tkim.co/2022/07/16/what-is-second-brain/)
 
 # Philosophy
 * [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
