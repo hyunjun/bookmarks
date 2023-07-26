@@ -4025,6 +4025,7 @@ Programming
 * [Move fast Build things… Safely! by Mohammed Aboullaite - YouTube](https://www.youtube.com/watch?v=ROGz29O59Vs) DevOps DevSecOps
 * [Automation Is Hard & We Are Doing It Wrong • Johan Abildskov • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=JU5niXIrK3Y)
 * [More Buzzwords Won't Help: The Long History of DevOps Failures • Andrew Clay Shafer • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=C8hma_YSBX0)
+* [웹 개발에서 DevOps의 역할 | AppMaster](https://appmaster.io/ko/blog/web-gaebalyi-debeuobseu)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
