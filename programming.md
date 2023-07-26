@@ -1074,6 +1074,7 @@ Programming
 * [Top 6 Most Popular API Architecture Styles - YouTube](https://www.youtube.com/watch?v=4vLxWqE94l4)
 * [facade API와 Shopping Service API팀에 대한 이야기](https://dev.gmarket.com/84)
 * [API 메시업과 Fault Tolerance 문제 해결 전략](https://dev.gmarket.com/86)
+* [API Evolution without Versioning - YouTube](https://www.youtube.com/watch?v=dIr-16CzC4M)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
