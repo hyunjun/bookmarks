@@ -556,6 +556,7 @@ Programming
   * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
   * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
   * Consul의 새 스트리밍 기능을 도입하면서 과도한 경합으로 인한 성능 저하가 발생했고 이 문제가 Consul 내부의 구현 문제와 BoltDB의 문제였기 때문에 해당 문제를 찾아서 해결하는 데 오랜 시간 소요
+  * [Roblox의 5000만 유저 서비스 복구 노하우 | 커리어리](https://careerly.co.kr/comments/87102)
 * [트래픽이 몰려온다, 장애 대응 - 어느날 갑자기 장애가 발생했다 3회 구름 세미나 - Google Slides](https://docs.google.com/presentation/d/1nnYH0omM4qIl9WzeNBQtqdt8uMoDKgwvpu8gj3GSmPw/edit)
 * [Incident Analysis: Your Organization's Secret Weapon - YouTube](https://www.youtube.com/watch?v=2ydHtpuQjio) post-incident review or postmortem
 * [More More More! Why the Most Resilient Companies Want More Incidents - YouTube](https://www.youtube.com/watch?v=qXZo3cIv6-s)
