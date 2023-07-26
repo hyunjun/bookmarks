@@ -653,6 +653,8 @@ Interview
 * [How do we design a permission system? The diagram below lists 5 common ways. 👇 https://t.co/qQpQ7xQAmP" / Twitter](https://twitter.com/alexxubyte/status/1570077278104875008)
 * [모든 개발자가 시스템 디자인을 배워야 하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1745/)
 * [How does gRPC work?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6995426338186665985-ib1-/)
+* [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC)
+  * [System Design Fight Club - YouTube](https://www.youtube.com/@SDFC)
 
 # Book
 * [소프트웨어 장인 CHAPTER 9 인재 채용](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-9-%EC%9D%B8%EC%9E%AC-%EC%B1%84%EC%9A%A9)
