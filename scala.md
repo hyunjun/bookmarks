@@ -1130,6 +1130,7 @@ Scala
     * [ZIO Constraintless by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=jtxO7LJXW0Q)
     * [Why I keep choosing ZIO! - YouTube](https://www.youtube.com/watch?v=H3Bizwx_L1o)
     * [Zymposium - ZIO Logging with Peter Kotula - YouTube](https://www.youtube.com/watch?v=LZD0voLnlco)
+    * [The Next Generation Of Streaming by Adam Fraser - YouTube](https://www.youtube.com/watch?v=I1A6BPTjG-w)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
