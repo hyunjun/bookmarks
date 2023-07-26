@@ -40,7 +40,6 @@ NLP
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
-* [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
 * [politeness - Write in a more polite, friendly tone](https://labs.foxtype.com/politeness)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
@@ -674,10 +673,6 @@ NLP
 * [챗GPT와 유사한 오픈소스 모델 공개됐지만… - ZDNet korea](https://zdnet.co.kr/view/?no=20230103091955)
 * [AI Like ChatGPT Are No Good at ‘Not’ | Quanta Magazine](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [Using reinforcement learning for dynamic planning in open-ended conversations – Google Research Blog](https://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html)
-* [7-docs](https://github.com/7-docs)
-  * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
-    * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
-    * 이 과정의 결과물로 7-docs라는 프로젝트 공개
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
@@ -931,7 +926,6 @@ NLP
 * [HuLiC](https://hulic.smilegate.net/) 개인/기업이 만든 챗봇의 API를 제출하면, 전문 작업자가 수많은 대화를 통해 HuLiC 평가 기준에 맞춰 인간성 평가를 대신 진행
   * [HuLiC](https://github.com/smilegate-ai/HuLiC) 사람과 챗봇간의 대화에 대해 모든 턴마다 인간성 평가 점수를 메긴 데이터
 * [Kino - My Personal Assistant (개인용 Slack Bot을 통한 Quantified Self 프로젝트)](https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self)
-* [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
 * [www.luis.ai](https://www.luis.ai)
 * [Mantium](https://mantiumai.com/)
   * [Better decision making with always up-to-date vector databases | ODFP210 - YouTube](https://www.youtube.com/watch?v=DCy3RHa7x_8)
@@ -2101,7 +2095,6 @@ NLP
 * [QA Search Engine: Amazon Kendra, Canada project, Talk to Books, etc](https://www.youtube.com/watch?v=-SrjxUVWiLo)
 * [정답 유형을 분류하는 딥러닝 기술](https://tech.kakaoenterprise.com/64)
 * [if(kakao)dev2022 한국어 오픈 도메인 질의응답 시스템 2.0](https://if.kakao.com/2022/session/70)
-* [Building a Document-based Question Answering System with LangChain, Pinecone, and LLMs like GPT-4. - YouTube](https://www.youtube.com/watch?v=cVA1RPsGQcw)
 * [FRDF Frame Semantic-based QA system](https://machinereading.github.io/FRDF/)
   * [FRDF: Frame-semantic-based QA system](https://github.com/machinereading/FRDF)
 * [gotquestions.org](http://www.gotquestions.org/)
@@ -2212,8 +2205,6 @@ NLP
 * [11. Deep Learning Cookbook/03. 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://daljoong2.tistory.com/36)
 * [엘라스틱서치의 벡터(Vector) 필드와 텐서플로우를 이용한 문서 유사도 검색 (1) > Similarity Search #elasticsearch](https://blog.naver.com/olpaemi/221639136195)
 * [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
-* [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
-  * [The Rise of Vector Data - YouTube](https://www.youtube.com/watch?v=hw2ZS5CVs8s)
 * [Find anything blazingly fast with Google's vector search technology | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 * [Vector Databases and Large Language Models // Samuel Partee // LLMs in Production Conference - YouTube](https://www.youtube.com/watch?v=GJDN8u3Y-T4)
 * [string-similarity: Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance](https://github.com/aceakash/string-similarity)
@@ -2710,6 +2701,7 @@ NLP
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [KCharEmb - Tutorial for character-level embeddings in Korean sentence classification](https://github.com/warnikchow/kcharemb)
   * [1909 paclic](https://www.slideshare.net/WonIkCho/1909-paclic)
+* [kor2vec: OOV없이 빠르고 정확한 한국어 Embedding 라이브러리](https://github.com/naver/kor2vec)
 * [Magnitude: a fast, simple vector embedding utility library](https://github.com/plasticityai/magnitude)
 * [moe: Misspelling Oblivious Word Embeddings](https://github.com/facebookresearch/moe)
 * [role2vec - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018)](https://github.com/benedekrozemberczki/role2vec)
