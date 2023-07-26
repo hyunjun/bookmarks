@@ -12,3 +12,4 @@ Miscellaneous
 * [회사에서 잉여로 분류되지 않는 방법](http://ppss.kr/archives/38711)
 * [지식의 반감기 단축 따라잡지 못하면 '문맹'](http://www.huffingtonpost.kr/bonkwon-koo-/story_b_7166820.html)
 * [효율적으로 일하는 방법 · Present](https://present.do/documents/636feb9f624b9908aaa72bc3) GTD Getting Things Done
+* [갓생사는 방법론 | kciter.so](https://kciter.so/posts/effective-work) GTD
