@@ -854,6 +854,8 @@ Javascript
     * 여기서 `require`와 `import` 키로 CJS/ESM에서 다른 파일을 로드할 수 있게 설정할 수 있는데
     * 이 `exports` 필드를 정의할 때 주의할 점도 정리
 * [CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field | blog.hoseung.me](https://blog.hoseung.me/2022-10-04-commonjs-esm-exports-field/) CJS ESM
+* [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+  * [번역 CommonJS가 자바스크립트를 해치고 있습니다](https://velog.io/@eunbinn/commonjs-is-hurting-javascript)
 * [module system(모듈 시스템) 이해하기](https://blog.naver.com/pjt3591oo/222574553721)
 * [JavaScript Proxy… But With Reflect | by TOAST UI | May, 2021 | Medium](https://toastui.medium.com/javascript-proxy-but-with-reflect-665f868fbeba)
 * [중첩 반복문은 안감을 두껍게 짜야한다](https://velog.io/@qroffle/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%80-%EC%95%88%EA%B0%90%EC%9D%84-%EB%91%90%EA%BB%8D%EA%B2%8C-%EC%A7%9C%EC%95%BC%ED%95%9C%EB%8B%A4)
@@ -4609,6 +4611,8 @@ Javascript
 * [토스ㅣSLASH 23 - 달리는 토스 앱에 React Native 엔진 더하기 - YouTube](https://www.youtube.com/watch?v=6H9WQDRFZYg)
 * [React Native 안드로이드 빌드 환경 개선하기 | miryang.dev](https://miryang.dev/blog/rn-android-dev)
 * [React Native 안드로이드 개발 환경 구축하기 | miryang.dev](https://miryang.dev/blog/rn-aos-dev-setting)
+* [React Native 안드로이드 FCM 설정하고, 앱 푸시 받기 | miryang.dev](https://miryang.dev/note/react-native/fcm-aos)
+* [React Native 앱 아이콘 변경하기 | miryang.dev](https://miryang.dev/note/react-native/app-icon)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
