@@ -599,7 +599,7 @@ Programming Books
   * ★★★★☆ 2022.09.30
   * [경제적으로 AWS 사용하기. AWS의 세계로 들어온지 1년 정도 되었지만 여전히 아는 거보다 모르는… | by Jun | Sep, 2022 | Medium](https://nymets.medium.com/%EA%B2%BD%EC%A0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-aws-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-ca2b2103217a)
 * [업무에 바로 쓰는 AWS 입문](https://hanbit.co.kr/store/books/look.php?p_code=B1147715738)
-  * ★★★☆☆ 2023.03.16~17 정말 시작하는 사람들을 위한 책. 중요한 개별 서비스에 대해서 각각 배울 수 있음
+  * ★★★☆☆ 2023.03.16~17, 2023.07.25~27 정말 시작하는 사람들을 위한 책. 중요한 개별 서비스에 대해서 각각 배울 수 있음
   * 탐라 문004.588-김53ㅇ
   * [AWSLearners at master · kimx3129/Simon_Data-Science](https://github.com/kimx3129/Simon_Data-Science/tree/master/AWSLearners)
 * (NOT YET) 아마존 웹 서비스 클라우드 디자인 패턴 구축 가이드
