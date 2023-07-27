@@ -2474,6 +2474,7 @@ NLP
 * [NDC22 "선생님과 눈을 맞추고 이름을 불러주는 '아로나' 만들기"](https://thisisgame.com/webzine/gameevent/nboard/227/?n=151132)
 * [Build a Text-to-Speech component in React | Edvins Antonovs](https://edvins.io/react-text-to-speech)
 * [듣고 말하는 음성 챗봇 만들기](https://aifactory.space/competition/2445/discussion/502)
+  * [음성기반 챗GPT 동시통역사](https://tykimos.github.io/2023/07/25/voice_based_interpreter/)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * [Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation](https://github.com/SevaSk/ecoute)
