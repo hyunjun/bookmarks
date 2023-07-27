@@ -572,6 +572,7 @@ Programming
 * [욕망 관리하기](https://jojoldu.tistory.com/688)
 * [SMTC(주문결제)DB 품으로 날아간 결제모듈 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/23) technical debt
 * [Prioritizing Technical Debt as If Time & Money Matters • Adam Tornhill • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=w9YhmMPLQ4U)
+* [VDIASI23 - Laurențiu Spilcă - Technical Debt. A guide for developers and IT managers - YouTube](https://www.youtube.com/watch?v=20hfxiowGO4)
 * [회사 대표가 엔지니어에게 충분한 권한을 주는가?](https://brunch.co.kr/@graypool/697)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
