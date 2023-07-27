@@ -2116,6 +2116,7 @@ Javascript
   * [nestjs mailer를 이용하여 메일 보내기](https://blog.naver.com/pjt3591oo/222467283376)
   * [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
   * [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
+  * [nestjs 핀테크 개발자가 알려주는 typeorm과 nestjs를 활용한 모노레포 구성방법](https://blog.naver.com/pjt3591oo/223167475178)
   * [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
   * [TypeORM Transaction을 Test하기 (with queryRunner)](https://velog.io/@dev_leewoooo/TypeORM-Transaction%EC%9D%84-Test%ED%95%98%EA%B8%B0-with-queryRunner)
   * [시리즈 | NestJs - dev_leewoooo.log](https://velog.io/@dev_leewoooo/series/NestJs)
