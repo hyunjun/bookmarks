@@ -326,6 +326,9 @@ Programming Books
 * (NOT YET) [제로 트러스트 구글 엔지니어는 아무도 믿지 않는다 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1674)
 * (NOT YET) [리얼월드 암호학](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308428577)
   * 탐라 문004.62-웡223ㄹ
+* (NOT YET) [읽기 좋은 코드가 좋은 코드다: 더 나은 코드를 작성하는 간단하고 실전적인 테크닉](https://www.hanbit.co.kr/store/books/look.php?p_code=B3602722207)
+  * 탐라 개005.13-보77ㅇ 제주 005.4-보78읽
+  * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 
 # Agile Scrum
 
