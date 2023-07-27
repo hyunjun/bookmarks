@@ -3717,6 +3717,8 @@ Programming Books
   * 탐라 문005.118-사835ㅍ
 * (NOT YET) [파이썬과 Qt6로 GUI 애플리케이션 만들기 5/e | 에이콘출판사](http://acornpub.co.kr/book/python-qt6)
   * 탐라 문005.135-피818ㅍ
+* (NOT YET) [슬기로운 파이썬 트릭](https://www.youtube.com/watch?v=0_7zF_RnDcA)
+  * [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2019/01/23/%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ed%91%9c%ed%98%84%eb%a0%a5%ec%9d%84-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a0%a4-%ec%a3%bc%eb%8a%94%e3%80%8e%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-%ed%8c%8c%ec%9d%b4%ec%8d%ac/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
