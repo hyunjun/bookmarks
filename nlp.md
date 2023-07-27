@@ -1414,6 +1414,7 @@ NLP
   * [ReAct (Reason+Act) prompting in OpenAI GPT and LangChain – tsmatz](https://tsmatz.wordpress.com/2023/03/07/react-with-openai-gpt-and-langchain/)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
+  * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
   * [langchain-tutorials: A set of LangChain Tutorials from my youtube channel](https://github.com/samwit/langchain-tutorials)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
