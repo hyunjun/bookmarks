@@ -383,6 +383,7 @@ Business
 * [습관 나만의 통찰력을 키우는 5가지 방법](http://moneyman.kr/archives/3691)
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
+* [CRM을 활용한 제품 그로스 전략. 단순한 일시적 변화가 아닌, 지속적인 성장 동력 심기 | by Stephan Seunghwan Seo | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/crm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EA%B7%B8%EB%A1%9C%EC%8A%A4-%EC%A0%84%EB%9E%B5-32c04c455ef6)
 * [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
 * [Growth hacking · Present](https://present.do/presentations/616c3fed704425458cfce0f1)
 * [문재인 대통령의 회의 방침](http://agile.egloos.com/5890768)
