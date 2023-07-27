@@ -5899,6 +5899,9 @@ Programming
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
+* [Dogu Technologies - Automate your game and app testing for high quality software](https://dogutech.io/)
+  * [dogu: Test automation platform for web, mobile, game applications with many test frameworks](https://github.com/dogu-team/dogu)
+  * [조직을 위한 테스트 자동화 플랫폼 구축 - Device Farm](https://blog.dogutech.io/test-automation-platform-for-organization/)
 * [testcontainers](https://github.com/testcontainers)
   * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
   * [VDBUH2023 - Oleg Šelajev - Testing cloud-native applications with ease! - YouTube](https://www.youtube.com/watch?v=3sSRBOhgTK4)
