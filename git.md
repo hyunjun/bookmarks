@@ -1237,6 +1237,7 @@ Git
       * 2021년 OpenAI와 파트너십을 통해 GPT-3에서 파생되어 코드를 학습한 Codex 모델 출시
       * 모델은 강력했지만, 사용자에게 좋은 결과를 제공하기 위해서는 개선 필요, 현재 편집 중인 파일만이 아니라 더욱 정확한 결과가 나오도록 추가 컨텍스트를 제공 필요
       * 편집기 탭에서 유사한 텍스트를 가져오게 한 뒤에 수락률이 많이 증가, 파일명이나 확장자를 통해 결과를 더 개선
+  * [VDIASI23 - Vlad Iliescu - Future-Proof Development with GitHub Codespaces, Copilot, and GPT-4 - YouTube](https://www.youtube.com/watch?v=dbJfnCcdA6o)
   * [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
     * GitHub Copilot이 너무 유용해서 어떻게 동작하는지 궁금해서 리버스 엔지니어링을 해보고 정리한 글
     * 크게 보면 VS Code의 익스텐션인 클라이언트가 있고 여기서 보낸 프롬프트를 모델로 전송
