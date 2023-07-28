@@ -1587,6 +1587,8 @@ AWS
     * [ImportError: No module named httpsession 문제 발생시](https://jojoldu.tistory.com/426)
     * [AWS CLI v2에서 아마존 ECR 로그인 방법 변경 기존 ecr 명령어 get-login 삭제](https://www.44bits.io/ko/post/amazon-ecr-login-by-awscliv2)
   * [AWS CLI 사용하기 – Lamanus' Archive](https://lamanus.kr/108)
+  * [Mac Homebrew 를 통한 AWS CLI 설치 & IAM 설정 :: 공부하는 개발자 핑구 🐧](https://developer-ping9.tistory.com/387)
+  * [AWS CLI 설치 및 초기 설정하기](https://daeunnniii.tistory.com/121)
 * [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates](https://github.com/iann0036/AWSConsoleRecorder)
 * [aws-data-wrangler - Pandas on AWS https://aws-data-wrangler.readthedocs.io ](https://github.com/awslabs/aws-data-wrangler)
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
@@ -1865,6 +1867,10 @@ AWS
 * [Pulselive, 개인화된 온라인 스포츠 콘텐츠로 고객 참여 확대 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increasing-engagement-with-personalized-online-sports-content/)
 * [Amazon Personalize의 신규기능을 활용한 더 빠르고 정확한 추천서비스 구축하기 – 강정희:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?v=5EkWcIIh6ME)
 
+# Polly
+* [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/)
+* [파이썬으로 AI 음성합성하기 Amazon Polly](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0-Amazon-Polly)
+
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
 * [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
@@ -1875,7 +1881,6 @@ AWS
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style-case-study/)
 * [Amazon Lookout for Vision과 Rekognition을 이용한 부품 결함 감지 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/defect-detection-l4v-rekog/)
 * [Amazon Rekognition 를 활용한 얼굴 인식 셀프 체크인 시스템 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/building-a-face-recognition-self-check-in-system-using-amazon-rekognition/)
-* [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/) Polly
 * [Amazon Rekognition과 Personalize를 이용하여 감정으로 이미지 추천하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/image-recommender-based-on-emotion/)
 * [voightkampff — Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/)
 
@@ -2217,6 +2222,9 @@ AWS
   * [Writing Terraform for unsupported resources](https://www.hashicorp.com/blog/writing-terraform-for-unsupported-resources)
     * Terraform으로 인프라는 코드화할 때 프로바이더가 필요하기 때문에 원하는 리소스 관리에 프로바이더가 없으면 프로바이더를 기다리거나 원하는 기능이 추가되기를 기다려야 함
     * 하지만 해당 서비스가 API를 제공하고 있다면 TerraCurl를 이용해서 API를 호출해서 프로바이더를 기다리지 않고 코드화 가능
+
+# Transcribe
+* [Amazon transcribe로 한국어 음성인식 Speech To Text(STT) 사용하기](https://daeunnniii.tistory.com/122)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
