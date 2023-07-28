@@ -1869,6 +1869,7 @@ AWS
 
 # Polly
 * [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/)
+* [Amazon Polly를 통한 서버리스 동화 구연 앱 만들기 - 윤석찬 (AWS 테크에반젤리스트) - YouTube](https://www.youtube.com/watch?v=kohv8FIwlKM)
 * [파이썬으로 AI 음성합성하기 Amazon Polly](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0-Amazon-Polly)
 
 # R
