@@ -32,6 +32,7 @@ GIS
 * [**쿠팡 로켓배송: 공간 색인 기반의 새로운 배송 영역 관리 시스템 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Apr, 2023 | Medium**](https://medium.com/coupang-engineering/%EC%BF%A0%ED%8C%A1-%EB%A1%9C%EC%BC%93%EB%B0%B0%EC%86%A1-%EA%B3%B5%EA%B0%84-%EC%83%89%EC%9D%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%B0%B0%EC%86%A1-%EC%98%81%EC%97%AD-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-a59006bc4b6e)
 * [쿠팡이 '공간 색인'으로 로켓배송 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2002/)
 * [나 4년 차 서버개발자, 배달의민족의 지리 체계를 뒤흔들다 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11238/)
+* [AWS·메타·MS 참여한 오버추어맵스재단, 오픈소스 지리 데이터 무료 공개 - CIO Korea](https://www.ciokorea.com/news/301081)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
