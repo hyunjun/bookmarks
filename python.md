@@ -211,6 +211,7 @@ Python
 * [파이썬으로 주식 상장기업 크롤링한 데이터 엑셀 저장 및 엑셀 파일 불러오기 feat.pandas](https://stricky.tistory.com/104)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
+* [6.4 mp3 파일 플레이 - 공학자를 위한 Python](https://wikidocs.net/15214)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * [LLVM Optimized Python for Scientific Computing](http://dev.stephendiehl.com/cfa/slides.pdf)
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
