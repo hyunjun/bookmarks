@@ -48,6 +48,9 @@ Programmer
   * [시니어 소프트웨어 엔지니어는 어떻게 일할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/771/)
 * [NDC22 언젠가 시니어가 될 주니어 프로그래머를 위한 강연](https://www.thisisgame.com/webzine/gameevent/nboard/227/?n=150977)
 * [우아한형제들에서 시니어 개발자로 일하면 어떨까? – (1) 일 | 우아한형제들 기술블로그 |](https://techblog.woowahan.com/12250/)
+* [중간관리자 혹은 시니어 개발자를 격려하라](https://brunch.co.kr/@graypool/1081)
+  * 1. 업무를 전달하고 다시 확인을 할 필요가 없음 2. 주변 사람들을 도움
+  * 꼭 개발자가 아니어도 해당하는 이야기. 일반적이지만 좋은 정의라고 생각
 * [연차가 쌓일 수록 익숙해져야하는 5가지. 주니어이지만 주니어이고 싶지 않은 프론트엔드 5년차 개발자 | by FlyingSquirrel | Apr, 2023 | Medium](https://flyingsquirrel.medium.com/%EC%97%B0%EC%B0%A8%EA%B0%80-%EC%8C%93%EC%9D%BC-%EC%88%98%EB%A1%9D-%EC%9D%B5%EC%88%99%ED%95%B4%EC%A0%B8%EC%95%BC%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-d88397dc96d)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
