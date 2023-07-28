@@ -2510,6 +2510,7 @@ Programming
 * [Thinking Serverless: From User Request to Serverless Solution • James Beswick • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=dUXDuxqTxmo)
 * [Serverless: Five Key Things you need to Know • Gojko Adzic • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 * [Dancing with Serverless • Peter Sbarski • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GaeBGRbB0eE)
+* [서버리스 아키텍처: 웹 개발의 패러다임 전환 | AppMaster](https://appmaster.io/ko/blog/seobeoriseu-akitegceo-web-gaebal)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
