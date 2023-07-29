@@ -130,6 +130,7 @@ Linux
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 1 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1/)
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 2 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part2/)
 * [Linux 유저 권한 설정 및 그룹](https://developer88.tistory.com/393) /etc/group /etc/passwd
+* [사용자와 권한을 관리하자 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223169261035)
 * [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
 * [Linux에서 로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝 - Google Docs](https://docs.google.com/document/d/10v2_8dt3t_HDT56k_Wf2THwq3cPSDccj-Agfik087X8/edit)
 * [Bringing the Unix Philosophy to the 21st Century | Brazil's Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
