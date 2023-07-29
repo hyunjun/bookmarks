@@ -118,6 +118,7 @@ Elixir
 * [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp)
 * [SQL Injections vs Elixir | Curiosum](https://curiosum.com/blog/sql-injections-vs-elixir)
 * [How to integrate TinyMCE Editor into a Phoenix Liveview project | by Obute Moses | Jul, 2023 | Medium](https://medium.com/@obutemoses5/how-to-integrate-tinymce-editor-into-a-phoenix-liveview-project-9ad736c3b35a)
+* [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
