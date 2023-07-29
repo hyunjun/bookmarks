@@ -259,6 +259,8 @@ Interview
 * [변별력을 200% 더 높인 개발자 채용 방법: 코드 리뷰 테스트](https://blog.gangnamunni.com/post/code-review-test/)
 * [인터뷰를 어떻게 잘 하나요?](https://www.linkedin.com/posts/activity-6964986917750788096-hKFI/)
 * [이직에 관하여 - IT 서비스 회사로 이직을 희망하시는 분들에게](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
+* [면접관 관점에서 본 좋은 개발자 블로그](https://f-lab.kr/blog/developer-blog-tips)
+* [면접에서 제대로 답변하지 못한, 좋은 질문들](https://velog.io/@joosing/good-interview-questions-that-i-did-not-answer-correctly)
 
 # 후보자가 할 질문
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
