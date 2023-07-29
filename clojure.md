@@ -1307,6 +1307,7 @@ Clojure
 * [(λ. borkdude) 님의 트위터: "#clojure tip: You can run: (require 'foobar :reload) to just reload foobar, or: (require 'foobar :reload-all) to reload foobar + namespaces it depends on. This doesn't require any special tooling or IDEs, just a running REPL. Works in CLJS REPLs too." / 트위터](https://twitter.com/borkdude/status/1371223760020377600)
 * [REPL vs CLI: IDE wars | (:dev/notes vlaaad)](https://vlaaad.github.io/clj-vs-cli)
 * [liftIO2021 Clojure, REPL의 수퍼파워 - 그린랩스 김상현 - YouTube](https://www.youtube.com/watch?v=_nF5dexUZFg)
+* [Portfolio: A "visual REPL" for UI Component development (by Christian Johansen) - YouTube](https://www.youtube.com/watch?v=25JDQRFoQ_U)
 * [Clem Repl Interface · GitLab](https://gitlab.com/unc-app-lab/clem-repl)
 * [Clojure-Sublimed: Clojure support for Sublime Text 4](https://github.com/tonsky/Clojure-Sublimed)
   * [Adventures in REPL implementation @ tonsky.me](https://tonsky.me/blog/clojure-sublimed-3/)
