@@ -399,6 +399,10 @@ AWS
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
+* [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
+* [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
+* [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
+* [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 * [How I Discovered Thousands of Open Databases on AWS | by Avi Lumelsky | Jan, 2022 | InfoSec Write-ups](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
 * [AWS Cloud Practitioner – The Complete Guide | Review N Prep](https://reviewnprep.com/blog/aws-cloud-practitioner-the-complete-guide/)
@@ -493,7 +497,6 @@ AWS
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
-* [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
 * [AWS를 활용하여 망간 파일전송 시스템 구축하기 | 뱅크샐러드](https://blog.banksalad.com/tech/how-we-transfer-files-in-network-separation-environment/)
