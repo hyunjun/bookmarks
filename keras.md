@@ -188,6 +188,7 @@ Keras
 * [A Deep Dive into Transformers with TensorFlow and Keras: Part 1 - PyImageSearch](https://pyimagesearch.com/2022/09/05/a-deep-dive-into-transformers-with-tensorflow-and-keras-part-1/)
 * [Your First Deep Learning Project in Python with Keras Step-By-Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [keras의 timeseries_dataset_from_array 사용시 주의할 점 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4430)
+* [Can not serialize… get_config() during keras model save and load and a loss func wrapper to ignore NaN in y_true – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4557)
 
 # Book
 * [더북(TheBook): 케라스 창시자에게 배우는 딥러닝](https://thebook.io/006975/) 1~3장만
