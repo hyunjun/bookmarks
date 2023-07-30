@@ -5294,6 +5294,7 @@ Javascript
 * [Redux toolkit - YouTube](https://www.youtube.com/watch?v=9wrHxqI6zuM)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [How to make API call in React Redux Toolkit | React Redux Tutorial - YouTube](https://www.youtube.com/watch?v=2JBx_06dD1k)
+* [🪂 How to Secure React.js App Auth with Redux and Node.js 🔥 - DEV Community](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
 
