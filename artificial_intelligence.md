@@ -316,6 +316,7 @@ Artificial Intelligence
 
 # Vector DB
 * [나만의 GPT 만들기, Embedding](https://sudormrf.run/2023/06/06/owngpt/)
+* [Databricks Vector Search and Lakehouse Monitoring Demo - YouTube](https://www.youtube.com/watch?v=WAiv2wOAbRg)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
