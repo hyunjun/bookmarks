@@ -1740,8 +1740,6 @@ AWS
 
 ## Machine Learning SageMaker
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
-* [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
-* [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
 * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
 * [Amazon SageMaker 노트북 인스턴스에서 로컬 모드 사용하기](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
 * [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
@@ -1804,6 +1802,9 @@ AWS
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
+* [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
+* [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
+* [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
