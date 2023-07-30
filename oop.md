@@ -52,9 +52,6 @@
 * [What the heck is SOLID?](https://lovelacecoding.hashnode.dev/what-the-heck-is-solid)
 * [Single Responsibility Principle | SOLID Principles - YouTube](https://www.youtube.com/watch?v=ji4VNtbi_70)
 * [결합도와 응집도 이야기](https://devkingdom.tistory.com/300)
-* [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
-* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
-* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 * [Why Do You Need To Know Interface Fundamentals?](https://codeburst.io/why-do-you-need-to-know-interface-fundamentals-a129ac6ab0c3)
@@ -104,8 +101,6 @@
   * [더 나은 소프트웨어를 향한 9단계: 객체지향 생활 체조(1) | developerFarm 개발자 농장](https://developerfarm.wordpress.com/2012/01/26/object_calisthenics_1/)
   * [Java 객체지향 생활 체조 원칙 9가지 (from 소트웍스 앤솔러지) :: Jamie의 성장기](https://jamie95.tistory.com/99)
 * [**OOP 기반 선착순 투표 시스템 아키텍처**](https://zuminternet.github.io/vote-architecture/)
-* [팩토리 메서드 디자인 패턴을 사용하세요 | funes-days](https://funes-days.com/dev/factory-method-in-nodejs)
-* [개발자라면 "무조건" 디자인 패턴을 배워야한다? - YouTube](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -249,6 +244,12 @@
 * [Javarevisited on Twitter: "Design Patterns for writing better code https://t.co/C5PyfK2XGK" / Twitter](https://twitter.com/javarevisited/status/1529431496926167041/photo/1)
 * [디자인패턴 - YouTube](https://www.youtube.com/playlist?list=PL1-3t3AP7xRAVNf15bJnm7nzNlRzj8gFg)
 * [Revisiting Design Patterns after 20 by Edson Yanaga - YouTube](https://www.youtube.com/watch?v=10dn_-TBzLE)
+* [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
+* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
+* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
+* [팩토리 메서드 디자인 패턴을 사용하세요 | funes-days](https://funes-days.com/dev/factory-method-in-nodejs)
+* [개발자라면 "무조건" 디자인 패턴을 배워야한다? - YouTube](https://www.youtube.com/watch?v=Pzy_MPfGixg)
+* [요즘 정말 핫한 🔥 디자인 패턴이 있다? - YouTube](https://www.youtube.com/watch?v=XTcsR_-GrBY) Facade
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
