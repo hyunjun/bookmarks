@@ -74,6 +74,7 @@ Apache
 * [Airflow 1. 설치 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/18/airflow-airflow-1/)
 * [Airflow 2. 기본 세팅(예제 제거, PostgreSQL 연결) - 미완성의신](https://unfinishedgod.netlify.app/2023/07/20/airflow-airflow-2-dag/)
 * [Airflow 3. Timezone 설정 및 DAG 테스트 - 미완성의신](https://unfinishedgod.netlify.app/2023/07/22/airflow-airflow-3-timezone-dag/)
+* [Airflow 주가 데이터 수집 파이프라인 1 (국내주식편) - 미완성의신](https://unfinishedgod.netlify.app/2023/07/29/airflow-1/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
