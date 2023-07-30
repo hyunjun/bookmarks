@@ -5234,6 +5234,7 @@ Programming
   * WePay의 CDC 관련 최신 키노트
 * [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
+* [Building a Real-Time Analytics Database • Tim Berglund • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Xa2tb743QPE)
 * [Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube](https://www.youtube.com/watch?v=yqc3PPmHvrA)
 * [Beyond the Database, and beyond the Stream Processor: What's the Next Step for Data Management?](https://www.infoq.com/articles/whats-the-next-step-for-data-management/)
 * [Uber’s Real-Time Push Platform | Uber Engineering Blog](https://eng.uber.com/real-time-push-platform/)
