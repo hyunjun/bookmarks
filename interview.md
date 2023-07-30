@@ -425,6 +425,7 @@ Interview
     * [6 Distributed storage & computing systems interview Q&As | Java-Success.com](https://www.java-success.com/1-overview-distributed-systems/)
     * [Database Sharding: Data Partitioning | 10 Min System Design #database #sharding #systemdesign - YouTube](https://www.youtube.com/watch?v=pf9exB00398)
     * [System Design: Build a Real-World Physical Storage Application | by Nishant Sabharwal | Mar, 2022 | Better Programming](https://betterprogramming.pub/system-design-real-world-physical-storage-application-8859c2415175)
+    * [Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System - YouTube](https://www.youtube.com/watch?v=THxjtJQwBNU)
   * Dropbox
     * [blogs.dropbox.com/tech/category/infrastructure](https://blogs.dropbox.com/tech/category/infrastructure)
     * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
