@@ -2784,6 +2784,7 @@ Programming
   * [Dapr - Getting started - YouTube](https://www.youtube.com/watch?v=WJ__6gRA9hI)
   * [Getting Started with Dapr for Building Distributed Apps - YouTube](https://www.youtube.com/watch?v=JOMQDDCRPaw)
   * [Alex Thissen — Dapr for building distributed .NET Core applications - YouTube](https://www.youtube.com/watch?v=FyFr5HzsQXE)
+  * [Dapr : The Ultimate Developer API for Authoring Microservices - YouTube](https://www.youtube.com/watch?v=74A7YwsmVwM)
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
