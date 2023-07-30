@@ -190,7 +190,6 @@
   * [GNU Coreutils의 Rust 구현체가 놀랍게 강력해지고 있음 | GeekNews](https://news.hada.io/topic?id=8475)
 * [Two core Unix-like utilities, sudo and su, are getting rewrites in Rust | Ars Technica](https://arstechnica.com/information-technology/2023/05/two-core-unix-like-utilities-sudo-and-su-are-getting-rewrites-in-rust/)
   * [Unix-like OS들의 핵심 유틸인 sudo 와 su 가 Rust로 재 작성중 | GeekNews](https://news.hada.io/topic?id=9180)
-* [Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers) - YouTube](https://www.youtube.com/watch?v=vAjle3c9Xqc)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -283,6 +282,8 @@
 * [kiro-editor: A terminal UTF-8 text editor written in Rust 📝🦀](https://github.com/rhysd/kiro-editor)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
+* [leptos: Build fast web applications with Rust](https://github.com/leptos-rs/leptos/tree/main)
+  * [Build A Full Stack Chatbot in Rust (feat. Leptos & Rustformers) - YouTube](https://www.youtube.com/watch?v=vAjle3c9Xqc)
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [minirust: A precise specification for "Rust lite / MIR plus"](https://github.com/RalfJung/minirust)
