@@ -1376,6 +1376,7 @@ Python
   * [python - 파이썬의 epoll 및 비 블로킹](https://stackoverrun.com/ko/q/3421567)
   * [파이썬 소켓으로 직접 구현하는 SMTP 프로토콜](https://hudi.blog/smtp-with-python/)
   * [**Paul Butler – What does it mean to listen on a port?**](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+  * [Creating a Simple Socket Server and Client in Python - YouTube](https://www.youtube.com/watch?v=sUzM-vIC-s4)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
