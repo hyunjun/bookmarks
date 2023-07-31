@@ -200,6 +200,8 @@ iOS
   * [화면 상태에 따라서 View가 그리는 작업, Render | Joohee Kim's Blog](https://imjhk03.github.io/posts/render-view-state/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
+* [swift-http-types: Version-independent HTTP currency types for Swift](https://github.com/apple/swift-http-types)
+  * [Swift HTTP Types 찍먹하기 :: iOYES](https://green1229.tistory.com/392)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
 * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
