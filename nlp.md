@@ -789,6 +789,7 @@ NLP
     * 5B 모델로도 기존 다른 175B 모델의 성능을 능가. 앞으로 도메인 기반의 회사들이 지향해야 할 방향일 수 있음
   * [Prompting Is Programming: A Query Language For Large Language Models](https://www.facebook.com/seongwan.kim.3/posts/pfbid03RMbuzmddJ3HdeXdP8cH9fus62dAsvhzzcr1r7bFpm3D4JMiemjcpUHzMKbtzAZ3l)
   * [챗GPT의 모든 것 프롬프트](https://brunch.co.kr/@seungpillee/68)
+  * [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
   * [ChatGPT를 활용해 정성적인 기대감을 정량적인 숫자로 바꿔보다 - 넷마블 기술 블로그](https://netmarble.engineering/comment-metric-labeling-by-chatgpt)
   * [Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT Tutorial |Simplilearn - YouTube](https://www.youtube.com/watch?v=B8N_HyGhZ0U)
   * [챗GPT 근황 업데이트 : 네이버 블로그](https://blog.naver.com/ranto28/223068372777)
