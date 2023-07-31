@@ -3366,6 +3366,9 @@ Programming Books
 * [7가지 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300224461)
   * ★★★★☆ 2023.05.11, 12, 15 책의 두께에 압도될 수도 있으나, 표지의 호언장담처럼 이 한 권만으로도 product에 관련된 주제는 다 다룬다는 생각이 든다. 어느 정도 아는 부분도 있지만 모르는 거도 정말 많고 특히 법률 관련 부분은 피상적으로만 알고 있다는 걸 다시 알게 되었다. 두고두고 계속 읽어야 할 좋은 책이다.
   * 한라 325.6-메882ㅇ 탐라 문325.6-메831ㅇ 우당 문325.6-메831ㅇ
+* [개발 함정을 탈출하라](https://www.nanasan.co.kr/bookreview-escaping-the-build-trap/)
+  * ★★★★☆ 2023.07.27~28, 31 스타일이 안 맞는 거도 아닌데, 이상하게 책이 잘 안 읽히는 단점이 있었다. 그러나 책 내용은 전반적으로 매우 좋다. 프로덕트 중심 사고를 하고 그런 기업이 되기 위해 필요한 일들이 잘 정리되어 있으며, 챕터 하나 하나가 길지 않아서 짧게 나눠 읽기도 좋다. 매우 좋은 책이다.
+  * 탐라 문325.6-페239ㄱ
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
@@ -3379,7 +3382,6 @@ Programming Books
   * [로드맵 전환 과정에서 모호함 다루기](https://brunch.co.kr/@graypool/988)
   * [프로덕트는 팀 스포츠다](https://brunch.co.kr/@graypool/1025/)
 * (NOT YET) [프로덕트 매니지먼트](https://www.hanbit.co.kr/store/books/look.php?p_code=B8246471071)
-* (NOT YET) [개발 함정을 탈출하라](https://www.nanasan.co.kr/bookreview-escaping-the-build-trap/)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
