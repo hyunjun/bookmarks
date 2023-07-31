@@ -956,6 +956,8 @@ NLP
   * [KoVicuna](https://github.com/melodysdreamj/KoVicuna)
   * [Stability AI releases StableVicuna, the AI World’s First Open Source RLHF LLM Chatbot — Stability AI](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
     * [PyTorch KR | 스테이블리티 AI, 세계 최초 오픈소스 RLHF LLM 챗봇 '스테이블비쿠나' 출시 4월 28일 "스테이블 비쿠냐" - 스테이블 ?... | Facebook](https://www.facebook.com/groups/PyTorchKR/posts/2617503821722616/)
+* [viper: Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"](https://github.com/cvlab-columbia/viper)
+  * [bitsandbytes 이슈 삽질기 | Lablup Blog](https://blog.lablup.com/posts/2023/07/28/bitsandbytes/)
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
