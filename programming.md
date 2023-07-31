@@ -2409,6 +2409,8 @@ Programming
   * [Breaking Up a Monolithic Database with Kong - DZone Microservices](https://dzone.com/articles/breaking-up-a-monolithic-database-with-kong)
   * [노코드로 마이크로 서비스 아키텍처(MSA) 구.. : 네이버블로그](https://blog.naver.com/synctree/222961887923)
 * [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
+  * [micronaut-projects/micronaut-core: Micronaut Application Framework](https://github.com/micronaut-projects/micronaut-core)
+  * [Building Optimized Java Microservices with Micronaut 4 & GraalVM • Graeme Rocher • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=JWIUPMMq9Fc)
 * [mify: microservices for you](https://github.com/mify-io/mify)
   * [How to build a RESTful API service in Go without repetitive boilerplate](https://ichebykin.hashnode.dev/how-to-build-a-restful-api-service-in-go-without-repetitive-boilerplate)
   * [Building API service with Mify Part 2: Adding Postgres](https://ichebykin.hashnode.dev/building-api-service-with-mify-part-2-adding-postgres)
