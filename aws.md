@@ -487,6 +487,7 @@ AWS
 * [AWS AI updates: Amazon Bedrock and 3 generative AI innovations](https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-generative-ai-service)
   * [기업 고객 들에게 큰 박수받는 아마존의 '베드락'](https://www.facebook.com/youngwook.kim.7549/posts/pfbid0ifC8aPZoCC4LQoUfHf7aLyd72qZNmcNWeWYZMEyUKqUaaShsNftMBFeHYXSyAMkcl)
 * [Preview – Enable Foundation Models to Complete Tasks With Agents for Amazon Bedrock | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
+* [Amazon Bedrock용 에이전트 미리보기 출시 – 다양한 파운데이션 모델 작업에 대한 지원 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
 * [스와미 시바수브라마니안 AWS 머신러닝 부사장 “본질적으로 중요한 것은 모델을 구축하는 방식”···보겔스 AWS CTO 대담 – 테크수다](http://www.techsuda.com/archives/19544)
 * [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
 * [AWS Notifications을 한 곳에서 설정하고 살펴보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-set-up-your-aws-notifications-in-one-place/)
