@@ -185,6 +185,7 @@ Flutter
 # Conference, Meetup
 * [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023 - YouTube](https://www.youtube.com/watch?v=Nkjc9r0WDNo)
 * [Flutter Festival Songdo - YouTube](https://www.youtube.com/playlist?list=PLSCuU2a9seuNaGihaNO9clOFUqj3vB1jm)
+* [Flutter Google I/O 2023 Recap 박제창 @I/O Extended 2023 Seoul - Speaker Deck](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
 * [NAVER Tech Talk: Flutter meetup (2022)](https://d2.naver.com/news/1554376)
 
