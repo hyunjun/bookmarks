@@ -2159,6 +2159,7 @@ Javascript
   * [핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 3편 - 암/복호화 도구와 토큰 블랙 리스트 관리](https://blog.naver.com/pjt3591oo/223121546463)
   * [핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 4편 - 깃허브/구글 oauth 인증](https://blog.naver.com/pjt3591oo/223137573151)
   * [Express만 하다가 Nest를 하고 느낀 점](https://kscodebase.tistory.com/552)
+  * [nestjs 튜토리얼 따라하기 - YouTube](https://www.youtube.com/watch?v=Mmx-Nj2ED5U)
   * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
     * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [functional-nestjs](https://github.com/ltnscp9028/functional-nestjs)
