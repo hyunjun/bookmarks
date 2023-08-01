@@ -325,6 +325,8 @@ Programming Language
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
 * [Frege: a Haskell-like Language for the JVM](http://www.infoq.com/news/2015/08/frege-haskell-for-jvm)
 * [:Firth - A simple Forth-like language intended for DSL creation, implemented in Lua](https://github.com/IonoclastBrigham/firth)
+* [The Flix Programming Language](https://flix.dev/)
+  * [An Introduction to Functional Imperative Programming in Flix • Magnus Madsen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=2LSOqikNqxM)
 * [Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4)
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)
   * [Thinking Forth Project](http://thinking-forth.sourceforge.net/)
