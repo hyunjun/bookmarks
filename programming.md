@@ -965,6 +965,7 @@ Programming
 * [Best Practices: API Design. Well designed APIs = Happy Developers… | by Varun Joshi | codeburst](https://codeburst.io/best-practices-api-design-61d4697d17ff)
 * [Api first design 개발의 선순환](https://www.slideshare.net/JoenggyuLenKim/api-first-design-237743080)
 * [API Testing Guide and Beginner’s Tips (SOAP & REST) | by Katalon Studio | Katalon | Medium](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
+* [API 자동화 테스트 도입기](https://velog.io/@kasania/API-%EC%9E%90%EB%8F%99%ED%99%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0)
 * [API design guidance - Best practices for cloud applications | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 * [API design guidance: enums - Tyk API Gateway and API Management](https://tyk.io/blog/api-design-guidance-enums/)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
