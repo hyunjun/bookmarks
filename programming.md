@@ -336,6 +336,14 @@ Programming
   * DevOps는 여전히 중요한 개념으로 플랫폼 엔지니어링은 누구나 DevOps에 접근 가능하게 함
 * [“데브옵스의 최종진화” 플랫폼 엔지니어링의 이해 - ITWorld Korea](https://www.itworld.co.kr/mainnews/287683)
 * [왜 플랫폼 엔지니어링에 집중해야 할까? - ITWorld Korea](https://www.itworld.co.kr/news/289507)
+* [Platform engineering is just DevOps with a product mindset - Stack Overflow Blog](https://stackoverflow.blog/2023/07/26/platform-engineering-is-just-devops-with-a-product-mindset/)
+  * DevOps가 각 조직에 도입된 이후 많은 생산성 개선을 한 조직도 있지만 그 중간에 있는 조직도 많이 존재
+  * 플랫폼 엔지니어링은 DevOps의 다음 단계로 많은 주목
+  * DevOps 도입의 가장 큰 문제는 과도한 인지 부하
+    * 클라우드 네이티브 기술의 도입으로 수많은 클라우드와 관련 도구를 사용해야 하므로 인지 부하가 높아지고
+    * 이런 걸 잘하는 사람이 팀의 인프라 작업을 처리하는 섀도 운영팀원이 되어 오히려 생산성 저하
+  * 플랫폼 엔지니어링의 핵심 원칙은 제품 사고방식을 취하는 것
+    * 개발자를 고객으로 생각해서 적절한 추상화를 통해 인지 부하 완화 필요
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
@@ -925,6 +933,7 @@ Programming
 * [Flow: the worst software development approach in history by Sander Hoogendoorn & Kim Van Wilgen - YouTube](https://www.youtube.com/watch?v=FahSLxZrsCs) Big Flow Framework BFF
 * [스프린트 Task와 직무 Task. 경량화 방법론 시기에 탄생한 다양한 소프트웨어 개발 방법론들과 애자일… | by 김상현 | make -k it (메이킷) | Medium](https://medium.com/make-k-it/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-task%EC%99%80-%EC%A7%81%EB%AC%B4-task-d451677efe53)
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
+* [애자일로 개발하면 빨리 끝난다던데? / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-agile/)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
@@ -2902,6 +2911,7 @@ Programming
 * [Race between pair programming tools by Kaya Weers - YouTube](https://www.youtube.com/watch?v=LY1ViNekw_Q)
 * [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
 * [개발자는 페어 프로그래밍으로 성장한다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1698/)
+* [시공간을 뛰어넘은 페어 프로그래밍](https://velog.io/@hyemin916/%EC%8B%9C%EA%B3%B5%EA%B0%84%EC%9D%84-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%ED%8E%98%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
@@ -5086,6 +5096,7 @@ Programming
   * [기술 뉴스 #224 : 23-06-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1677)
   * [기술 뉴스 #225 : 23-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1678)
   * [기술 뉴스 #226 : 23-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1679)
+  * [기술 뉴스 #227 : 23-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1682)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -6013,6 +6024,7 @@ Programming
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
 * mabl [Intelligent Test Automation for Agile Teams | mabl](https://www.mabl.com/)
+* Meerkat [뭣? 딸깍 몇 번에 웹 E2E 테스트 코드를 생성하고 수행한다고? 에러도 잡아준다고? 영상도 뽑아준다고?](https://d2.naver.com/helloworld/4003712)
 * [Perfecto Scriptless! | Automated UI Testing Tool | Perfecto by Perforce](https://www.perfecto.io/products/scriptless)
 * [Robot Framework](https://robotframework.org/)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
