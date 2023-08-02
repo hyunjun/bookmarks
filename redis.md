@@ -147,6 +147,7 @@ Redis
   * [time-attack-coupon-server: Redis기반 선착순 쿠폰 발급 서버](https://github.com/jerry-ljh/time-attack-coupon-server)
 * [IMDEV 2023 Redis를 활용한 Mobile APM 백엔드 성능 향상시키기 - YouTube](https://www.youtube.com/watch?v=xkHLxIs4PsM)
 * [Database - Redis를 이용해서 웹 로딩 반타작내기](https://changhyeon.net/database--redis-)
+* [G마켓 쿠폰적용가 도입기 - 캐시를 중심으로](https://ebay-korea.tistory.com/89)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
