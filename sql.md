@@ -1078,6 +1078,7 @@ SQL
 * [Postgres is a great pub/sub & job server](https://webapp.io/blog/postgres-is-the-answer/)
 * [여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
 * [PostgreSQL (Aurora) 10 vs 11 버전 성능 비교](https://jojoldu.tistory.com/630)
+* [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * [NodeJS 와 PostgreSQL Query Timeout](https://jojoldu.tistory.com/631)
 * [NOT IN 쿼리 성능 개선하기 (PostgreSQL)](https://jojoldu.tistory.com/632)
 * [NodeJS 와 PostgreSQL Connection Pool](https://jojoldu.tistory.com/634)
