@@ -1861,6 +1861,9 @@ Web
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
+* [componentize-js](https://github.com/bytecodealliance/componentize-js)
+  * ComponentizeJS는 실험적 도구로 임베드 된 SpiderMonkey JS 엔진을 사용해, JavaScript 코드를 WebAssembly Component로 생성
+    * [component-model: Repository for design and specification of the Component Model](https://github.com/WebAssembly/component-model)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
@@ -1925,6 +1928,7 @@ Web
 * [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
 * [WebSockets vs. Server-Sent Events | Bits and Pieces](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
 * [웹소켓으로 개발하기 전 알아야 할 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1911/)
+* [웹소켓 코딩시 꼭 알아야 할 에러 처리 전략 | 웹으로 말하기](https://mytory.net/archives/14526)
 * [soketi](https://soketi.app/)
   * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
