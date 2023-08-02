@@ -47,6 +47,8 @@ Network
 * [HTTP 통신간의 쿠키와 세션의 동작방식](https://www.kurien.net/post/view/31)
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
 * [브라우저에서 google.com을 치면 일어나는 일들에 대해 알아볼까요? - YouTube](https://www.youtube.com/watch?v=0Oqkw8wVY_c)
+* [(1) Dr. Milan Milanović on Twitter: "𝗪𝗵𝗮𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝘀 𝘄𝗵𝗲𝗻 𝘆𝗼𝘂 𝘁𝘆𝗽𝗲 𝗮 𝗨𝗥𝗟 𝗶𝗻𝘁𝗼 𝘆𝗼𝘂𝗿 𝗯𝗿𝗼𝘄𝘀𝗲𝗿? The process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and the services running on that server. 𝟭.… https://t.co/icqYZNsHgT" / X](https://twitter.com/milan_milanovic/status/1678648875878428672)
+  * 브라우저에 URL을 입력하면 어떤 과정이 일어날지 그림과 설명을 통해 빠르게 이해 가능
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
 * [URL 구조 이해하기](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
 * [Shortest URLs on the Internet | James Williams](https://jameswillia.ms/posts/shortest-urls.html)
