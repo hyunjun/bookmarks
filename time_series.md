@@ -84,6 +84,13 @@ Time Series
       * 기술에 대한 노력이 커뮤니티와 프로젝트에 다시 돌아올 수 있다고 얘기하고 있다
     * Mimir는 Cortex 1.10.0 버전을 포크해서 만들었고 Cortex보다 40배 빠르다고 설명
   * [Grafana Mimir - 초고속 시계열DB 오픈소스 공개 | GeekNews](https://news.hada.io/topic?id=6268)
+  * [Improving query performance in Grafana Mimir: Why we dropped mmap from the store-gateway | Grafana Labs](https://grafana.com/blog/2023/07/17/improving-query-performance-in-grafana-mimir-why-we-dropped-mmap-from-the-store-gateway/)
+    * Prometheus의 롱텀 스토리지인 Grafana Mimir의 쿼리 속도 개선 과정
+    * Mimir는 Prometheus TSDB 형식을 사용하지만, 단일 노드가 아닌 S3나 GCS에 저장할 수 있도록 설계
+      * Prometheus TSDB 블록 인덱스의 서브셋인 index-header를 사용해서 store-gateway가 쿼리에 일치하는 블록이 어디 있는지에 대한 정보 제공
+      * 이를 통해 블록의 서브셋만 검색해서 쿼리 속도 개선 가능
+    * 파일을 메모리처럼 호출할 수 있는 mmap을 사용하고 있었는데 Go 언어의 고루틴에서 mmap을 사용할 때 고루틴이 블로킹 되어 속도가 느려지는 문제 파악
+      * 이를 일반 파일 I/O로 바꾸면서 속도를 개선하기 위해 Beffered I/O를 사용하고 index-header를 위한 파일 핸들 풀을 사용하고 레이블에 대한 문자열을 생성 안 하게 해서 성능을 개선
 * [GreptimeDB, an open-source, cloud-native, distributed time-series database](https://github.com/GreptimeTeam/greptimedb)
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)
