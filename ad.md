@@ -69,6 +69,7 @@
     * 2023년 3분기에는 프라이버시 샌드박스 API로 일반 이용자도 사용할 수 있을 거라고 기대하고
     * 2024년 하반기에는 타사 쿠키를 단계적으로 폐지할 예정
 * [이벤트 QA 자동화 회고. 안녕하세요! 원티드랩 데이터팀에서 데이터분석을 하고 있는 유지윤입니다… | by Jiyoon You | 원티드랩 기술 블로그 | Mar, 2023 | Medium](https://medium.com/wantedjobs/%EC%9D%B4%EB%B2%A4%ED%8A%B8-qa-%EC%9E%90%EB%8F%99%ED%99%94-%ED%9A%8C%EA%B3%A0-ef5a2872cbfd) GTM
+* [이벤트 QA 자동화 회고 — Governance Managing 편 | by Jayeon Choi | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/%EC%9D%B4%EB%B2%A4%ED%8A%B8qa-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-c3f5ee243cf0) GTM
 * Google Analytics
   * [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
     * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
