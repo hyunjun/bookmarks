@@ -64,6 +64,7 @@ Presentation
 * [미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
 * Adobe [이제 발표용 이미지 찾다가 시간 버리지 말자: 어도비 스톡 설치하면 바로 끝](https://ppss.kr/archives/216439)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
+* [Animotion](https://animotionjs.vercel.app/)
 * [bunkrapp](http://bunkrapp.com/)
 * [**GitPitch**](https://gitpitch.com/)
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
