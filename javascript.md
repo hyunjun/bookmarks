@@ -721,6 +721,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2023-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2023-08.md)
   * [2023-07](https://github.com/naver/fe-news/blob/master/issues/2023-07.md)
   * [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
@@ -760,6 +761,10 @@ Javascript
 * [스켈레톤UI가 올바른 방향일까? | LinkedIn](https://www.linkedin.com/pulse/010-%EC%8A%A4%EC%BC%88%EB%A0%88%ED%86%A4ui%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B8-%EB%B0%A9%ED%96%A5%EC%9D%BC%EA%B9%8C-%ED%98%84%EC%9E%AC-%EC%9D%B4/) CSR SSR hydration
 * [프레임워크 없이 만드는 SSR | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
 * [Partial Hydration 둘러보기](https://velog.io/@xiniha/Partial-Hydration-%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0)
+* [What is Hydration - YouTube](https://www.youtube.com/watch?v=R-BKadZWYnQ)
+  * Hydration은 오늘날 프레임워크들에서 빈번하게 활용되는 개념
+  * 이것이 무엇이며, 어떻게 여기까지 발전해 왔는지를 Angular의 개발자였던 Miško Hevery가 설명하는 튜토리얼을 통해 확인 가능
+* [node.js - What does « dehydrate » and « rehydrate » stand for in Fluxible? - Stack Overflow](https://stackoverflow.com/questions/29824908/what-does-dehydrate-and-rehydrate-stand-for-in-fluxible/33790716#33790716)
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [JavaScript Eventing Deep Dive](https://web.dev/eventing-deepdive/)
@@ -1258,6 +1263,7 @@ Javascript
   * [FEConf2020 at Home](https://2020.feconf.kr/)
   * [Fe Conf 2019 후기](https://blog.woolta.com/categories/9/posts/192)
 * [JS CONF 2022에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/jsconf-korea-2022-recap)
+* [JSNation 2023 talks, workshops, videos and speakers - GitNation](https://portal.gitnation.org/events/jsnation-2023) SolidJS 개발자인 Ryan Carnato, Webpack과 Turbopack 개발자인 Tobias Koppers, Angular 개발자인 Miško Hevery 등 유명한 개발자들의 발표
 * [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
 * [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
 * [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
@@ -1345,6 +1351,11 @@ Javascript
 * [Cloudscape – Cloudscape Design System](https://cloudscape.design/)
 * [Design Systems Demystified](https://www.designsystem.tools/)
   * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
+* [Multiple Layers of Abstraction in Design Systems - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
+  * 디자인 시스템 컴포넌트, 혹은 공통 컴포넌트라면 수많은 요구사항을 충족 시켜야 하며, 앞으로 더 많은 요구사항 반영 및 기능 구현에 직면 가능
+    * 이것을 잘 해결해 나가려면 '이것 아니면 저것'이라는 접근 방식으로는 불충분
+  * 이 글에서 제시한 해결책은 한 번에 여러 계층의 추상화를 제공해야 한다는 것
+    * 단순히 데이터를 패싱하고 렌더링 하는 config 방식, 특정 컴포넌트를 전달하는 slot 방식, 하위 컴포넌트 및 스타일링을 직접 위임하는 custom 방식 이 세 가지의 추상 계층으로 컴포넌트의 활용도와 재사용성의 향상 가능
 * [Gmarket Design System](http://gds.gmarket.co.kr/)
 * [Helios Design System](https://helios.hashicorp.design/)
   * [Introducing Helios, HashiCorp’s New Design System](https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system)
@@ -2023,6 +2034,11 @@ Javascript
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
+* [LocatorJS - click on any component to go to code.](https://www.locatorjs.com/)
+  * 개발 중인 컴포넌트 소스 코드를 손쉽게 찾아주는 도구
+  * 웹 페이지에서 간단히 클릭하는 것만으로 IDE 내의 컴포넌트 소스 코드로 이동
+  * Chrome 익스텐션을 이용하거나 Babel 플러그인을 설치하여 이용 가능
+  * 현재 React, Preact, Solid, Vue, Svelte 지원
 * [lodash: A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash)
 * [login-with-ssh - An experiment to authenticate web sessions with SSH - http://demo-ssh.32b6.com](https://github.com/altitude/login-with-ssh)
 * [Loupe - a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) 자바스크립트의 호출 스택, 이벤트 루프, 콜백 큐가 서로 어떤 과정을 거쳐 상호 작용하는지 이해하는데 도움을 주는 시각화 도구
@@ -2266,6 +2282,8 @@ Javascript
     * [(번역) 가장 빠른 자바스크립트 프레임워크](https://velog.io/@sehyunny/the-fastest-js-framework)
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=WvXUVwzslhw)
   * [Resumability in the next generation frontend framework With O(1) loading time by Ruby Jane Cabagnot - YouTube](https://www.youtube.com/watch?v=CKy3wSWeOmo)
+* [Radix UI](https://www.radix-ui.com/)
+  * 접근성, 커스터마이징 및 개발자 경험에 중점을 둔 로우 레벨 UI 컴포넌트 라이브러리로 디자인 시스템의 기본 레이어로 사용될 수 있도록 스타일이 지정되지 않은 컴포넌트 제공
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Rando.js | The better JavaScript random function](https://randojs.com/)
@@ -2463,6 +2481,10 @@ Javascript
   * [three.js examples](https://threejs.org/examples/)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
+* Tiptap [Dev toolkit for building collaborative editors – Tiptap](https://tiptap.dev/examples/default)
+  * ProseMirror 기반의 텍스트 에디터. 데모에서 동작 확인 가능
+  * 익스텐션을 통해서 에디터의 기능을 추가할 수 있고, 쉽게 익스텐션을 만들 수 있는 도구 제공
+  * [prosemirror: The ProseMirror WYSIWYM editor](https://github.com/ProseMirror/prosemirror)
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
   * [ui.toast.com/weekly-pick/ko](https://ui.toast.com/weekly-pick/ko/)
@@ -2825,6 +2847,15 @@ Javascript
 * [LinguiJS 를 사용하여 리액트 앱 다국어 지원하기](https://medium.com/plustv/linguijs-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%B1-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0-ef7ea234c6a8)
 * [Polyglot.js - tiny I18n helper library by AirBnb](http://airbnb.io/polyglot.js/)
   * [What I learned by reverse-engineering Airbnb’s internationalization library](https://medium.freecodecamp.org/what-i-learned-by-reverse-engineering-airbnbs-internationalization-library-85580fe56ca3)
+
+## Library schema library 구조적 데이터의 유효성을 검사하기 위한 스키마 라이브러리
+* [Ajv JSON schema validator](https://ajv.js.org/)
+* [joi.dev](https://joi.dev/)
+* [valibot: The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
+  * [Introducing Valibot, a < 1kb Zod Alternative](https://www.builder.io/blog/introducing-valibot)
+* [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
+  * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
+* [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
@@ -3300,6 +3331,11 @@ Javascript
   * [deno task 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1624)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
   * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
+    * dnt는 Deno 팀에서 개발한 패키지 빌드 도구
+      * 오늘날의 패키지들이 지원해야 하는 다양한 환경들(모듈 지원: CJS/ESM, 런타임 지원: Node/Deno 또는 브라우저)로 인해 패키지 빌드 과정의 복잡도(복잡한 빌드 파이프라인 구성 같은)와 이를 위한 소스 코드 관리 등의 어려움을 해결해 주는 것을 목표
+    * TypeScript로 작성된 패키지는 dnt 모듈을 사용하는 빌드 스크립트 작성을 통해 다양한 환경에서 사용될 수 있도록 타게팅 가능
+    * 빌드 스크립트를 다음과 같이 수행해 버저닝과 테스트(테스트 코드 작성 필요)가 같이 수행 `$ deno run -A build_npm.ts 0.0.1`
+    * [dnt — the easiest way to publish a hybrid npm module for ESM and CommonJS](https://deno.com/blog/publish-esm-cjs-module-dnt)
   * [fresh - The next-gen web framework](https://fresh.deno.dev/)
     * [Getting started with Fresh: The New Deno Framework | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-fresh-the-new-deno-framework-47ac30545891)
     * [Deno 팀에서 만든 웹 프레임워크 Fresh :: Outsider's Dev Story](https://blog.outsider.ne.kr/1632)
@@ -4186,6 +4222,16 @@ Javascript
     * 그래서 반응성을 더 빠르게 만들어서 FID와 INP 향상 가능
   * 이 글에서는 케이스 스터디로 nextjs.org에서 `Suspense`로 선택적 하이드레이션을 사용해서 Total Blocking Time(TBT)을 430ms에서 80ms로 감소
 * [Suspense SSR Architecture in React 18 :: Normal Coder](https://yeoulcoding.me/333)
+* [How React 18 Improves Application Performance – Vercel](https://vercel.com/blog/how-react-18-improves-application-performance)
+  * React 18의 새로운 기능으로 성능을 개선할 방법을 전체적으로 정리한 글
+  * 브라우저에서 성능을 측정할 때 Total Blocking Time(TBT)와 Interaction to Next Paint(INP)를 사용할 수 있는데 메인 스레드에서 50ms 이상 걸리는 작업을 긴 작업으로 간주하고 이게 성능에 영향
+    * [Speed Insights Overview | Vercel Docs](https://vercel.com/docs/concepts/speed-insights#total-blocking-time-tbt)
+    * [Interaction to Next Paint (INP)](https://web.dev/inp/)
+  * React는 Virtual DOM을 준비하는 렌더링 단계와 이 준비된 Virtual DOM을 실제로 적용하는 커밋 단계가 있는데 전통적인 동기식 렌더링에서는 모든 엘리먼트에 같은 우선순위를 제공해서 중단없이 한 번에 처리
+  * React 18에서는 Concurrent React가 도입되어 `useTransition` 훅과 `startTransition`을 사용해서 긴급하지 않은 렌더링을 지정할 수 있고 5ms마다 메인 스레드에 작업을 양보해서 다른 중요한 작업을 할 수 있게 백그라운드에서 여러 컴포넌트 트리를 동시에 렌더링 가능
+  * React Server Component를 직렬화된 컴포넌트 트리를 클라이언트에 전송할 수 있으므로 JavaScript 번들 없이도 컴포넌트 트리를 재구성할 수 있게 되어 하이드레이션 비용 없이 사용 가능
+  * `Suspense`를 통해 특정 조건까지 렌더링을 지연시킬 수 있고 사용자의 상호작용에 따라 컴포넌트의 우선순위를 재조정할 수 있어서 데이터 불러오기가 많은 경우 더 원활한 경험을 제공 가능
+  * 추가로 React 18에는 래핑 된 함수 결과를 기억하는 `cache` 함수가 있어서 매번 호출할 필요 없이 저장된 값을 재사용 가능
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
@@ -4353,6 +4399,7 @@ Javascript
   * Meta에서는 새 기능의 초기 버전을 개발하고 Meta 내부에서 일부 팀과 협업하며 시험을 한 뒤 디자인이 확정되면 Meta 내 사용 버전에 적용, 모두가 사용한 뒤 RFC를 공개하고 릴리스에 포함
   * 여기서 카나리 릴리스는 Meta 내부에서 사용하는 버전으로 실험용 릴리스에 비해서 훨씬 안정적이고 이를 공개함으로써 커뮤니티의 피드백도 얻을 수 있기 때문에
     * 각 라이브러리는 Stable과 최신 Canary를 모두 테스트하길 권장하고 Canary에도 변경 사항이 추가될 때 블로그에 변경 사항 공개 예정
+* [성능 하면 빠질 수 없는 메모이제이션, 네가 궁금해](https://d2.naver.com/helloworld/9223303)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -4772,6 +4819,7 @@ Javascript
     * 리액트스럽기 때문에 useState를 쓰듯이 jotai의 useAtom를 사용할 수 있는데 jotai의 동작 방식과 사용 방법 정리
   * [You Might Not Need React Query for Jotai · Daishi Kato's blog](https://blog.axlight.com/posts/you-might-not-need-react-query-for-jotai/)
     * [번역 Jotai에 React Query가 필요하지 않을 수도 있습니다](https://velog.io/@eunbinn/you-might-not-need-react-query-for-jotai)
+  * [Jotai tutorial](https://tutorial.jotai.org/)
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
 * Liqvid [Create interactive videos in React | Liqvid](https://liqvidjs.org/)
@@ -4948,6 +4996,8 @@ Javascript
   * [넥스트 JS 13 에서 몽고 데이터 베이스와 연결하여 구글, 네이버, 카카오에 로그인 하기 - YouTube](https://www.youtube.com/watch?v=YPFWLe0augs)
   * [Next.js 사용기 - 엘키의 주절 주절](https://elky84.github.io/2023/07/06/next_js_usage/)
   * [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
+  * [Demystifying React Server Components with NextJS 13 App Router](https://demystifying-rsc.vercel.app/)
+    * RSC를 처음 접하거나 또는 RSC가 어떻게 작동하는지에 대해 더 많이 이해하고자 하는 개발자를 대상으로 Next.js 13의 서버 컴포넌트 개념과 코드를 단계별로 이해해 볼 수 있는 튜토리얼
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
@@ -5042,6 +5092,7 @@ Javascript
       * 안티 패턴을 유도해서
       * 버그를 만들 가능성 증가
   * [React Query의 구조와 useQuery 실행 흐름 살펴보기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230720-react-query/)
+  * [React Query 도입 후기](https://saramin.github.io/2023-08-02-react-query/)
   * [react-query-helper: A helper library to use react-query more efficient, consistency](https://github.com/dano-inc/react-query-helper)
 * [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
   * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
@@ -5447,8 +5498,6 @@ Javascript
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO](https://webdriver.io/)
-* [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
-  * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
 # Typescript
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -5778,7 +5827,6 @@ Javascript
 * [XState - JavaScript State Machines and Statecharts](https://xstate.js.org/)
   * [GitHub - statelyai/xstate: State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
   * [자바스크립트로 만든 유한 상태 기계 XState | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220922-make-cart-with-xstate/)
-* [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
