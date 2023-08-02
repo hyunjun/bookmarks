@@ -42,6 +42,7 @@ Docker
 * [도커 볼륨 (Docker Volume) : 네이버 블로그](https://blog.naver.com/gi_balja/223153540874)
 * [도커 바인드 마운트 (Bind Mount) : 네이버 블로그](https://blog.naver.com/gi_balja/223156789354)
 * [도커 컨테이너 간 애플리케이션 구축 실습 : 네이버 블로그](https://blog.naver.com/gi_balja/223167131890)
+* [마이크로서비스 아키텍처용 Docker 활용 | AppMaster](https://appmaster.io/ko/blog/dokeo-maikeuroseobiseu-akitegceo)
 * [도커 컴포즈 (Docker Compose) : 네이버 블로그](https://blog.naver.com/gi_balja/223168115465)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
