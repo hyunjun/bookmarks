@@ -5678,6 +5678,7 @@ Programming
 * [Software archaeology - Learning from the landing on the moon! by Tobias Voß - YouTube](https://www.youtube.com/watch?v=-bykh2eMXL0) agile plannning, iterative design simulation, robust fault-tolerant, vision inspiration, competition is good for business
 * [Engineering for Software - How to Amplify Creativity • Dave Farley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZAAECIe8o8E)
 * [One Rule to Rule Them All • Pragmatic Dave Thomas • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=QvK3Pxmwcyc)
+* [How to Reverse Software Entropy • Saleem Siddiqui • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=U3sWzKnMIbk)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
