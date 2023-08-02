@@ -2000,6 +2000,7 @@ Java
 * [Spring Batch 실패를 다루는 기술 - ItemStream](https://jgrammer.tistory.com/entry/Spring-Batch-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-ItemStream)
 * [Spring Batch를 더 우아하게 사용하기 - Spring Batch Plus](https://d2.naver.com/helloworld/9879422)
 * [Spring Batch 개념부터 코드까지](https://yeonyeon.tistory.com/310)
+* [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁 / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-spring-batch/)
 * [if kakao 2022 Batch Performance를 고려한 최선의 Reader | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-read/) itemreader
 * [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
