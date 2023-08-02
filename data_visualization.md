@@ -112,6 +112,7 @@ Data Visualization
   * 그림에 익숙하지 않지만 그림으로 많은 것을 전달해야 하는 분들을 위한 지식과 사례 목록
   * 정확한 데이터를 오류 없이 전달하고자 하는 분들이라면 반드시 읽어보기 권장
 * [사용자 정성 데이터는 어떻게 시각화할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2109/)
+* [Brandi DA 의 데이터 분석 비망록](https://labs.brandi.co.kr//2023/07/28/yoonhs231.html)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
