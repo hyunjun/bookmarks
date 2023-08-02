@@ -316,6 +316,9 @@ Git
   * 커밋에 시크릿이 포함된 경우 푸시 자체를 거절하는 Push protection 기능이 공개 저장소에서 무료로 이용 가능
 * [Keep all your packages up to date with Dependabot | The GitHub Blog](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
 * [GitHub Repository Rules are now generally available - The GitHub Blog](https://github.blog/2023-07-24-github-repository-rules-are-now-generally-available/)
+* [Metrics for issues, pull requests, and discussions - The GitHub Blog](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
+  *  저장소의 이슈, 풀 리퀘스트, 디스커션에서 첫 반응에 걸리는 시간, 종료될 때까지의 시간, 대답하는 데 걸리는 시간 등 통계를 볼 수 있는 Issue Metrics Action GitHub Actions를 GitHub에서 만들어서 제공
+  * [issue-metrics: Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.](https://github.com/github/issue-metrics)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -909,6 +912,12 @@ Git
   * [Git Merge Strategy Options and Examples](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
   * [merge - How to replace master branch in Git, entirely, from another branch? - Stack Overflow](https://stackoverflow.com/questions/2862590/how-to-replace-master-branch-in-git-entirely-from-another-branch) master에 merge한 commit들이 문제가 있는 경우 다시 다른 branch를 master에 덮어쓸 때 유용
   * [Git Merge 전략 - 나호석 · Present](https://present.do/documents/62d3ac62e214362cce8a3486)
+  * [Scaling merge-ort across GitHub - The GitHub Blog](https://github.blog/2023-07-27-scaling-merge-ort-across-github/)
+    * GitHub은 뒤에서 수많은 머지와 리베이스를 실행하고 있기 때문에 머지/리베이스 성능 개선 중요
+    * 머지/리베이스의 전제 조건은 빨라야 하고, 정확해야 하며, 보안을 위해 워킹 디렉터리 없애서 체크아웃할 수 없게 해야 한다는 점
+    * 전에는 Git 기본 전략보다 빠른 `libgit2`를 사용했는데 종종 정확성에서 차이가 나서 로컬에서는 병합되는데 왜 GitHub UI에서는 안 되는지에 관한 문의 존재
+    * Git에는 2년 전 새로운 머지 전략인 `merge-ort`가 도입되었고 기존 전략인 `merge-recursive` 보다 빠르고 워킹 디렉터리도 필요치 않은 데다가 이젠 Git의 기본 머지 전략
+    * 이를 도입하기 위해 머지에 먼저 점진적으로 GitHub에 도입했고 P50에서 10배, P99에서 5배가 빨라졌으며 리베이스에 도입할 때는 `git-replay` 명령어를 활용했는데 512시간이 걸릴 리베이스가 `merge-ort`에서는 33시간 소요
 * restore
   * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
   * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
@@ -955,6 +964,11 @@ Git
       * 베이스 브랜치와 최근 변경 사항과 merge queue에 있는 다른 변경 사항까지 고려한 임시 브랜치를 만들어서 CI에서 확인하며 순서대로 바로 merge되도록 가능
       * merge에 실패하면 queue에서 빠져서 알림
       * 사용하려면 설정에서 merge queue 활성화 필요
+  * [What is a merge queue, and does your team need one? | Graphite](https://graphite.dev/blog/what-is-a-merge-queue)
+    * GitHub 등에서 Stacked Changes를 지원하는 Graphite에서 얼마 전에 GitHub에 추가된 merge queue 기능이 왜 필요한지 정리한 글
+    * Pull Request로 작업하는 경우 각 PR의 CI는 통과했는데 머지 후에는 실패하는 경우 존재
+    * 이 main이 깨지는 문제를 막기 위해 브랜치 보호 규칙으로 항상 최신 상태를 유지하도록 하면 모든 PR을 매번 리베이스해야 하는 리베이스 지옥이 펼쳐지게 되는데 이러한 문제를 머지큐로 해결 가능
+    * 머지큐를 이용하면 PR 간 머지될 순서를 결정하고 각 PR을 검사하면서 머지할 수 있게 되므로 단순하게는 머지 속도가 느려질 수 있지만 변경 사항이 많거나 CI가 길다면 머지 큐로 속도를 더 높일 수 있음
   * `git -C <dir> pull` [지정된 디렉토리에서 Git 명령어 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/899)
   * `git pull --rebase` [Don’t ever use git pull](https://orangebrother.dev/blog/dont-ever-use-git-pull)
 * push
