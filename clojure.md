@@ -437,6 +437,7 @@ Clojure
 * [Scicloj LLM Meetup 3: LLMOps with Bosquet - YouTube](https://www.youtube.com/watch?v=NNDThiZqe70)
 * [Clojure is a product design tool. | Precursor](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 * [clojure implementation of LangChain's recursive splitter](https://gist.github.com/usametov/3c46a8012d5913e53f2810b28d0c5af6)
+* [Fast Starting JVM Clojure with Checkpoint/Restore (Part 1)](https://yizhepku.github.io/clojure-crac/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
