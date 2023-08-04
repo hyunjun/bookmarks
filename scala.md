@@ -791,6 +791,7 @@ Scala
   * [Writing functional DSLs for business domains](https://medium.com/bigdatarepublic/writing-functional-dsls-for-business-domains-1bccc5d3f62b)
   * [Scala Parser Combinators: The Easier Way to Create an External DSL - Lior Schejter - YouTube](https://www.youtube.com/watch?v=6YcyFCWT_g0)
   * [Context Function for DSL Design in Scala · Anatolii's Programming Blog](https://akmetiuk.com/posts/2022-04-02-context-functions.html)
+  * [Andrea Mocci - Teaching Domain Specific Languages in Scala | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=Un8piZmIW4w)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * Either
   * [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
