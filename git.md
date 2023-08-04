@@ -725,6 +725,7 @@ Git
   * [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
   * [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733)
     * [더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿 | GeekNews](https://news.hada.io/topic?id=5745)
+  * [좋은 커밋 메세지 작성하는 법: 실용적인 깃(Git) 가이드](https://www.freecodecamp.org/korean/news/writing-good-commit-messages-a-practical-guide/)
   * [Git 커밋 메시지 컨벤션은 왜 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1974/)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
