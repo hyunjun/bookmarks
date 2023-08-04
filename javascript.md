@@ -2851,7 +2851,8 @@ Javascript
 ## Library schema library 구조적 데이터의 유효성을 검사하기 위한 스키마 라이브러리
 * [Ajv JSON schema validator](https://ajv.js.org/)
 * [joi.dev](https://joi.dev/)
-* [valibot: The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
+* [Valibot: The modular and type safe schema library](https://valibot.dev/)
+  * [valibot: The modular and type safe schema library for validating structural data 🤖](https://github.com/fabian-hiller/valibot)
   * [Introducing Valibot, a < 1kb Zod Alternative](https://www.builder.io/blog/introducing-valibot)
 * [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
   * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
@@ -4385,6 +4386,7 @@ Javascript
     * Meta 내부 실험 결과 긍정적인 성능 결과를 얻어서 올해 말에는 실험적 API와 RFC를 공개할 예정
   * 트랜지션 트레이싱 API는 React의 트랜지션이 느리지는 시점을 감지하고 원인을 조사할 수 있는 API
     * 초기 설계는 완료했고 RFC도 공개했지만 프로젝트는 보류 중
+* [10분 테코톡 솔로스타의 React 렌더링 - YouTube](https://www.youtube.com/watch?v=eBDj0B0HbEQ)
 * [RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5](https://github.com/reactwg/server-components/discussions/5)
   * Dan Abramov가 React Server Components(RSC)의 초 간단 버전을 처음부터 만들어 보는 튜토리얼을 작성하는데 그 첫 번째 글로 Server Components를 설명하는 1편
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
