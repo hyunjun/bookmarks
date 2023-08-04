@@ -458,6 +458,7 @@ Vision
   * [Janus WebRTC Server (multistream): About Janus](https://janus.conf.meetecho.com/)
     * [Janus 를 활용한 WebRTC 기반의 음성대화 서비스 개발](https://saramin.github.io/2023-04-17-janus-webrtc/)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
+  * [pion/webrtc: Pure Go implementation of the WebRTC API](https://github.com/pion/webrtc)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
   * [webrtc-nuts-and-bolts: A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation](https://github.com/adalkiran/webrtc-nuts-and-bolts)
     * [WebRTC Nuts & Bolts | GeekNews](https://news.hada.io/topic?id=6646)
