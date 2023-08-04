@@ -1838,6 +1838,8 @@ Scala
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [An intro to writing native DB driver in Scala | by Marek Kadek | Apr, 2021 | Medium](https://kadek-marek.medium.com/a-guide-to-writing-native-db-driver-in-scala-7f5cb1cf20a0)
 * [Using oracles to test the service and data layer](https://vectos.net/posts/2021-08-09-oracle-testing/)
+* [magnum: A 'new look' for database access in Scala](https://github.com/AugustNagro/magnum)
+  * [August Nagro - Magnum: A "New Look" for Scala 3 Database Clients | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=iKNRS5b1zAY)
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
   * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
