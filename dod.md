@@ -10,3 +10,4 @@ DOD Data Oriented Design
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [(iterate think thoughts): Advantages of Data Oriented Programming](https://yogthos.net/posts/2020-04-08-advantages-of-data-oriented-programming.html)
 * [Reduce System Complexity with Data-Oriented Programming • Yehonathan Sharvit • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=zSHvEAKLFJw)
+* [개발자가 알아야 할 데이터 지향 설계란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2157/)
