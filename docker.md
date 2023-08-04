@@ -854,6 +854,8 @@ Docker
 * [Docker Compose Experiment: Sync Files and Automatically Rebuild Services with Watch Mode](https://www.docker.com/blog/docker-compose-experiment-sync-files-and-automatically-rebuild-services-with-watch-mode/)
   * Docker Compose가 v2에서 계속 개선이 되고 있는데 v2.17에 서비스를 자동으로 업데이트하는 Watch 명령이 실험적으로 도입
   * Docker Compose의 YAML에서 `x-develop` 필드를 정의해서 특정 경로의 변경 사항이 생겼을 때 바로 컨테이너에 복사하는 `sync`와 이미지를 다시 빌드하는 `rebuild` 옵션을 정의할 수 있게 됨
+* [Flask Application Load Balancing using Docker Compose and Nginx – Sweetcode.io](https://sweetcode.io/flask-application-load-balancing-using-docker-compose-and-nginx/)
+* [Flask Application Load Balancing using Docker Compose and Nginx - DEV Community](https://dev.to/bravinsimiyu/flask-application-load-balancing-using-docker-compose-and-nginx-3nc3)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
@@ -1727,6 +1729,7 @@ Docker
 * [B 12 002 트러블 슈팅은 어떻게 진행하면 좋을까요 - YouTube](https://www.youtube.com/watch?v=5_zq1L1nVsg)
 * [NCP에서 k8s 사용하기 - 사설 registry 이용](https://blog.naver.com/pjt3591oo/223163689803)
 * [Enabling Developers in a Multi-Cloud World • Mauricio Salatino • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=NjvZxGG_8W0)
+* [The Power of Kubernetes](https://www.linkedin.com/posts/madhav-reddy-447966213_devops-kubernetes-containerization-ugcPost-7089486747515949058-dNv1/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
