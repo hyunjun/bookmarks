@@ -849,6 +849,7 @@ Business
 * [106. "유능한 일꾼"을 발굴하기 위해 인터뷰를 합니다 - YouTube](https://www.youtube.com/watch?v=-XAKZU2DIPs) Behavioral Event Interview
 * [스타트업 팀 빌딩, 채용 타겟팅이 성패를 좌우합니다](https://blog.wehire.kr/recruitment-targeting/)
 * [초기 스타트업 상황별 필요한 인재상 정리](https://eopla.net/magazines/5307)
+* [한기용 - 매니저 채용시 꼭 물어봐야하는 질문들](https://www.linkedin.com/feed/update/urn:li:activity:7092713884716847104/)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
