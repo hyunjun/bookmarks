@@ -2523,6 +2523,7 @@ Programming
 * [Serverless: Five Key Things you need to Know • Gojko Adzic • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 * [Dancing with Serverless • Peter Sbarski • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=GaeBGRbB0eE)
 * [서버리스 아키텍처: 웹 개발의 패러다임 전환 | AppMaster](https://appmaster.io/ko/blog/seobeoriseu-akitegceo-web-gaebal)
+* [Honeycomb: How We Used Serverless to Speed up Our Servers - YouTube](https://www.youtube.com/watch?v=tpoeJiXTVU0)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Atlassian Jira
@@ -5690,6 +5691,7 @@ Programming
 * [Engineering for Software - How to Amplify Creativity • Dave Farley • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZAAECIe8o8E)
 * [One Rule to Rule Them All • Pragmatic Dave Thomas • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=QvK3Pxmwcyc)
 * [How to Reverse Software Entropy • Saleem Siddiqui • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=U3sWzKnMIbk)
+* [Why Your Software Team Can't Scale • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=c8zGpqjJzAE)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
