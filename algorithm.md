@@ -36,6 +36,7 @@ Algorithm
 * [Approaches for Efficiency Analysis of Algorithm - CodeCrucks](https://codecrucks.com/approaches-for-efficiency-analysis-of-algorithm)
 * [바킹독의 실전 알고리즘](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
+* [N-Queens Combinatorial Puzzle meets Cats](http://fpilluminated.com/assets/n-queens-combinatorial-puzzle-meets-cats.html)
 * [6 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
   * 가능한 모든 조합을 트리 형식으로 그리고, bounding function(constraint check function)으로 제약 조건으로 노드를 검사해서 false면 해당 sub tree를 그리지 않음
 * [백트래킹과 가지치기에 대해서 예제 문제를 통해 알아봅시다](https://codingdog.tistory.com/entry/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%EA%B3%BC-%EA%B0%80%EC%A7%80%EC%B9%98%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4) backtracking
