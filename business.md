@@ -2035,6 +2035,7 @@ Business
 * [‘아하 모먼트’는 어떻게 측정할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2089/)
 * [프로덕트 지표 설정 프레임워크 ③ 활성화(Activation) 지표 | 요즘IT](https://yozm.wishket.com/magazine/detail/2114/)
 * [사용자의 ‘인게이지먼트’를 측정하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2127/)
+* [프로덕트 오퍼레이션 팀은 무슨 일을 하는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/2159/)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2091,6 +2092,7 @@ Business
 * [프로덕트 매니저와 일하는 법 (한글 번역) |.. : 네이버블로그](https://blog.naver.com/bizucafe/223146333490)
 * ["맨땅에 헤딩이 습관" 유쾌한 능력자 김동환 쿠팡PO 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2101/)
 * [개발자와 일하는 법 (한글 번역) | How .. : 네이버블로그](https://blog.naver.com/bizucafe/223147356404)
+* [우당탕탕 PO 성장 패키지. 글. 박효진(Andy) / Product Owner | by Andy Park | Aug, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-po-%EC%84%B1%EC%9E%A5-%ED%8C%A8%ED%82%A4%EC%A7%80-65d1bb6ea623)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
