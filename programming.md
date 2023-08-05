@@ -1559,6 +1559,7 @@ Programming
 * [Analytics capabilities architectural patterns: A journey for data-driven insights by John Mousa - YouTube](https://www.youtube.com/watch?v=kY697MSLd7E)
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
 * [서버 없이 웹 사이트 쉽게 만들기, LINE의 헤드리스 CMS](https://engineering.linecorp.com/ko/blog/headless-cms-in-line)
+* [전통적인 CMS에서 LandPress Content로 CMS를 옮기는 이유](https://engineering.linecorp.com/ko/blog/from-traditional-cms-to-landpress-content) 헤드리스 CMS
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
@@ -4250,6 +4251,7 @@ Programming
   * [기술 부채를 갚기 위한 첫 발을 떼기까지 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-1/)
   * [메시징 시스템(a.k.a messaging-hub) 톺아보기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-messaging-hub-2/)
   * [messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
+  * [독립적이고 범용적인 올인원 메시징 플랫폼](https://engineering.linecorp.com/ko/blog/independent-universal-all-in-one-messaging-platform)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
 * [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
