@@ -380,6 +380,7 @@ Scala
 * [Exploring Binary Search - Chris Okasaki - Medium](https://medium.com/@cokasaki/497c7633578c)
 * [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/)
 * [Go-like channels using project Loom and Scala](https://softwaremill.com/go-like-channels-using-project-loom-and-scala/)
+* [Go-like channels in Scala: receive, send, and default clauses](https://softwaremill.com/go-like-channels-in-scala-receive-send-and-default-clauses/)
 * [Encoding Base58: Understanding and implementing in Scala](https://idiomaticsoft.com/post/2023-05-23-base58/)
 * [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
 * [Chatbot Showdown: Typelevel Scala Edition | by Kacper Korban | VirtusLab | Jun, 2023 | Medium](https://medium.com/virtuslab/chatbot-showdown-typelevel-scala-edition-a4c0c47e39f5)
