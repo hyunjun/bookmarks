@@ -88,6 +88,9 @@
 * [코틀린 멀티플랫폼, 미지와의 조우](https://www.slideshare.net/arawnkr/ss-252699629)
 * [My Experience After Using Kotlin Multiplatform in Production Apps for a Year | by Harshith Shetty | Jul, 2022 | Better Programming](https://betterprogramming.pub/experience-using-kmp-in-production-apps-for-a-year-2474406d99d4)
 * [Build an iOS & Android app in 100% Kotlin with Compose Multiplatform - YouTube](https://www.youtube.com/watch?v=5_W5YKPShZ4)
+* [Multi-platform Projects with Kotlin](https://hadihariri.com/2017/11/10/multiplatform-projects-with-kotlin/)
+* [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
+* [Kotlin Multiplatform Mobile Is Dead. Long Live Kotlin Multiplatform | by Yanneck Reiß | Tech Takeaways | Aug, 2023 | Medium](https://medium.com/tech-takeaways/kotlin-multiplatform-mobile-is-dead-long-live-kotlin-multiplatform-2b107227b2d0)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Clean Architecture Example in Kotlin | by The Code Gang | HackerNoon.com | Medium](https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be)
 * [Kotlin Weekly Update — 12](https://medium.com/mindorks/kotlin-weekly-update-12-b8e787082893)
@@ -136,7 +139,6 @@
 * [Joost Heijkoop & Urs Peter - Kotlin vs Scala](https://www.youtube.com/watch?v=MsMejigb1Zk)
 * [Moving from Java to Kotlin with Scala stopover](https://medium.com/@piotrekchorocin/moving-from-java-to-kotlin-with-scala-stopover-debc4be8f295)
 * [코틀린(Kotlin), 꼭 해야하나요?](https://gun0912.tistory.com/81)
-* [Multi-platform Projects with Kotlin](https://hadihariri.com/2017/11/10/multiplatform-projects-with-kotlin/)
 * [메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다](https://meetup.toast.com/posts/186)
 * [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007) kotlin, java, lombok을 같이 사용하는 과정에서의 문제점
 * [코틀린(Kotlin)에서 apply, with, let, also, run 차이](https://jungwoon.github.io/kotlin/2019/07/24/Kotlin-apply-let-also-run/)
@@ -196,7 +198,6 @@
 * [인터페이스 상의 var와 val의 차이 - Bsidesoft co.](https://www.bsidesoft.com/8201)
 * [**제네릭의 공변(covariant) 반공변(contravariant) 그리고 제약 사항 (\w kotlin)**](https://nnn33.tistory.com/11)
 * [코틀린 공변성(Covariance)](https://www.roach-dev.com/kotlin/convariance/)
-* [Creating multiplatform Conflict Free Replicated Data Types in Kotlin Multiplatform](https://avwie.github.io/creating-multiplatform-crdts)
 * [CPS Style](https://devroach.tistory.com/149) continuation
 * [Object Mapping advanced features & QoL with Kotlin - DEV Community 👩💻👨💻](https://dev.to/krud/object-mapping-advanced-features-qol-with-kotlin-5dgn)
 * [Type modelling in Kotlin](https://kt.academy/article/type-modelling-kotlin)
