@@ -433,6 +433,7 @@ Interview
       * [diagam](https://imgur.com/a/pzKb4f7)
     * [Design Dropbox | OneDrive like Services](https://www.youtube.com/watch?v=8HaXU4aNTSg)
     * [How Dropbox Replay keeps everyone in sync - Dropbox](https://dropbox.tech/application/how-dropbox-replay-keeps-everyone-in-sync)
+    * [스마트 동기화 - File Provider를 사용한 똑똑한 동기화](https://d2.naver.com/helloworld/9386302)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
     * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
