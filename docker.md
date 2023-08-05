@@ -727,6 +727,7 @@ Docker
   * [Docker buildx를 활용하여 Multi-Architecture 이미지 빌드](https://judo0179.tistory.com/99)
   * [Building Multi-Architecture Docker Images With Buildx | by Artur Klauser | Medium](https://medium.com/@artur.klauser/building-multi-architecture-docker-images-with-buildx-27d80f7e2408)
   * [Docker builx - multi architecture | nalbam’s blog](https://nalbam.github.io/2021/09/03/docker-builx.html)
+  * [Build DOCKER multi-platform image using buildx REMOTE builder NODE - DEV Community](https://dev.to/aboozar/build-docker-multi-platform-image-using-buildx-remote-builder-node-5631)
 * commit [도커 : 이미지 만드는 법 - commit - YouTube](https://www.youtube.com/watch?v=RMNOQXs-f68)
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
