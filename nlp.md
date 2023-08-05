@@ -1427,6 +1427,8 @@ NLP
   * [LangChain Retrieval QA Over Multiple Files with ChromaDB - YouTube](https://www.youtube.com/watch?v=3yPBVii7Ct0)
     * [여러 문서에서 검색/질문/답변하는 QA 챗봇 만들기 매우쉬움주의 - LangChain, ChatGPT, Chroma DB - YouTube](https://www.youtube.com/watch?v=ftXLn9DE7YY)
       * [여러 문서에서 찾아서 답변하는 QA 챗봇 만들기 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1MlrF0Mo8KHrxcrAeulCP3t9hroc073YN?usp=sharing)
+  * [LangChain 을 알아볼까요?](https://revf.tistory.com/280)
+  * [chatGPT에 검색엔진을 붙여보자! feat. Naver search api](https://develop-park.tistory.com/59)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
