@@ -5237,6 +5237,7 @@ Javascript
   * [Jest로 Error 검증시 catch 보다는 expect](https://jojoldu.tistory.com/656)
   * [단위 테스트로 복잡한 도메인의 프론트 프로젝트 정복하기(feat. Jest) | 우아한형제들 기술블로그](https://techblog.woowahan.com/8942/)
   * [WebStorm 대신 VSCode 로 TypeScript 테스트와 디버깅 해보기 (with Jest) | by Rachel Kwak (곽소현) | 직방 기술 블로그 | Mar, 2023 | Medium](https://medium.com/zigbang/webstorm-%EB%8C%80%EC%8B%A0-vscode-%EB%A1%9C-typescript-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-%EB%94%94%EB%B2%84%EA%B9%85-%ED%95%B4%EB%B3%B4%EA%B8%B0-with-jest-9ba01925e6ba)
+  * [Jest 활용 경험: 테스팅에 대한 고민과 통찰](https://blog.imqa.io/testing-framework-jest/)
 * [React Testing Library](https://testing-library.com/)
   * [react-testing-library](https://github.com/kentcdodds/react-testing-library)
   * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
