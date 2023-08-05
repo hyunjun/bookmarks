@@ -63,6 +63,7 @@ Graph
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 * [Dominika Basaj & Barbara Rychalska - Creating behavioral profiles of your customer - YouTube](https://www.youtube.com/watch?v=pIRWBPSkw6I) cleora algorithm
 * [Searching for Research Fraud in OpenAlex with Graph Data Science • Adam Day & Ebru Cucen • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=6_e-F0TbFCg)
+* [Rory Graves - Building Billion Node Graphs for Machine Learning | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=0Yh6qWJ6PxE) graph database나 spark로는 million nodes graph를 위해서는 사용하지 못한다는 이야기
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
