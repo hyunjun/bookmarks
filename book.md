@@ -509,7 +509,6 @@ Book
 * (NOT YET) [의자의 세계](https://kiramonthly.com/1121)
   * 우당 문638.3-김51ㅇ
 * (NOT YET) [Make Something Wonderful | Steve Jobs](https://book.stevejobsarchive.com/)
-* (NOT YET) [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
 * (NOT YET) 권력과 진보 [책과 삶 ‘기술발전=진보’?···투쟁 뒤에 진정한 진보가 온다 - 경향신문](https://m.khan.co.kr/culture/book/article/202306301554001)
   * 탐라
   * [기술의 진보 방향은 권력이 결정한다? 대런 아세모글루 인터뷰! | 권력과 진보, 대런 아세모글루, 정치경제학 - YouTube](https://www.youtube.com/watch?v=h9gsv4KhUYM)
@@ -1888,6 +1887,9 @@ Book
 * 사라져가는 장소들의 지도 [곧 지도 위에서 사라질 명소들을 소개합니다](https://www.hani.co.kr/arti/culture/book/1050149.html)
   * ★★★☆☆ 2023.03.26
   * 한라 980.24-엘44ㅅ
+* [워케이션 가이드북](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315012931)
+  * ★☆☆☆☆ 2023.08.05 책을 쓴다는 게 얼마나 어려운 일인지 알기에 혹평을 하고 싶지 않지만 너무 부실하다. 여행 책이라고 보기엔 각 지역마다 소개된 장소가 몇 개 없고, 워케이션에 대한 책이라고 보기엔 뒤에 몇 명의 인터뷰가 전부라 어느 쪽으로 봐도 부족하다는 생각이 들고 아쉽다.
+  * 우당 문325.342-이79ㅇ
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
 * (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
 * (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
