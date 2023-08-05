@@ -830,6 +830,7 @@ NLP
     * [새툴새툴, 새로운 AI 툴을 사용해봅시다. - Google Slides](https://docs.google.com/presentation/d/1P9UHkVj2XXgPEqKxkEe4bybyBkb6qNCKTi1Eif3ydMk/edit)
     * [AI 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다. : 클리앙](https://www.clien.net/service/board/lecture/18180121)
   * [ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩 - YouTube](https://www.youtube.com/watch?v=nkNKBwXUL84) code interpreter
+  * [코드 없이 실시간 웹 서비스를 만들어 보기](https://mrobo2016.notion.site/mrobo2016/5086175cbbe04a12a4eef8a647e3b842)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1623,6 +1624,7 @@ NLP
   * [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
   * [데이터브릭스, 챗GPT급 소형 언어모델 ‘돌리’ 출시 < AI 기업 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=150153)
   * [Free Dolly: Introducing the World's First Open and Commercially Viable Instruction-Tuned LLM - The Databricks Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+  * [Denny Lee - Why Dolly is just the beginning for open LLM models | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=-0Een-HbKc8)
 * [fewshot_torch](https://github.com/Ronalmoo/fewshot_torch) Few-shot learning
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
