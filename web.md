@@ -1386,6 +1386,7 @@ Web
   * [Simple Todo List Using Py-Script | python tutorials - YouTube](https://www.youtube.com/watch?v=RXsWWjkOBo8)
   * [PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
   * [무료 30분 요약강좌 시즌6: PyScript 대시보드 - 인프런 | 강의](https://www.inflearn.com/course/30%EB%B6%84-%EC%9A%94%EC%95%BD%EA%B0%95%EC%A2%8C-%EC%8B%9C%EC%A6%8C6-pyscript/)
+  * [PyScript](https://paullabworkspace.notion.site/PyScript-537f89da75654273822767f9767c66fe)
 * [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
