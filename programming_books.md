@@ -1193,6 +1193,7 @@ Programming Books
 * (NOT YET) [AWS 기반 데이터 과학](https://www.hanbit.co.kr/store/books/look.php?p_code=B6134249359)
   * [AWS로 추천시스템 쉽고 빠르게 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6009128424)
   * [data-science-on-aws: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/data-science-on-aws)
+  * 우당 문004.73-프233ㅇ
 * (NOT YET) [공익을 위한 데이터 | 에이콘출판사](http://acornpub.co.kr/book/data-action)
   * 탐라 문005.76-윌239ㄱ
 * (NOT YET) [비즈니스 데이터 과학](https://hanbit.co.kr/store/books/look.php?p_code=B6001875802)
@@ -1482,6 +1483,7 @@ Programming Books
 * (NOT YET) [추천 시스템 입문](https://www.hanbit.co.kr/store/books/look.php?p_code=B7471666713)
   * [추천이 아닌 '시스템'에 방점을 둘 것 - 추천 시스템 입문](https://ugong2san.tistory.com/5188)
   * [RecommenderSystems: 『추천 시스템 입문』 샘플 코드 저장소](https://github.com/moseskim/RecommenderSystems)
+  * 우당 문004.78-가71ㅊ
 * (NOT YET) [데이터 분석가가 반드시 알아야 할 모든 것 | 위키북스](https://wikibook.co.kr/eda/) kaggle
   * 탐라 문005.76-황53ㄷ
 * (NOT YET) [MLOps 실전 가이드](https://www.hanbit.co.kr/store/books/look.php?p_code=B9385341956)
@@ -3288,6 +3290,7 @@ Programming Books
   * [헤드퍼스트 디자인 패턴 (개정판)](https://jybaek.tistory.com/952)
 * (NOT YET) [쉽게 배워 바로 써먹는 디자인 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9696096335)
 * (NOT YET) [디자인 패턴의 아름다움](https://jpub.tistory.com/1417)
+  * 우당 문005.13-왕73ㄷ
 
 # PHP
 
@@ -4115,6 +4118,7 @@ Programming Books
   * 한라 005.14-사885ㅇ
   * [tools.zip - Google Drive](https://drive.google.com/file/d/1tsXYbAud_U743tayFNDMdgtHC9cCTz74/view)
 * (NOT YET) [풀스택 테스트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2618676913)
+  * 탐라 문005.14-모91ㅍ 우당 문005.1-가62ㅍ
 * (NOT YET) [지식 제로부터 배우는 소프트웨어 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61703007)
   * 동부 005.14-타821지
   * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
