@@ -1361,6 +1361,7 @@ NLP
 * [“하나의 모델이 만능은 아니다” 챗GPT를 대체할 만한 14가지 LLM - ITWorld Korea](https://www.itworld.co.kr/news/298207)
 * [Deduplication - 학습 데이터에서 중복 제거하기 – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/deduplication/)
 * [$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw)
+* [올여름의 불타는 LLM: 세상도 불타고 나도 불타고 - Speaker Deck](https://speakerdeck.com/inureyes/olyeoreumyi-bultaneun-llm-sesangdo-bultago-nado-bultago)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
