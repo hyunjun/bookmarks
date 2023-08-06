@@ -1352,6 +1352,7 @@ AWS
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
 * [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
+* [AWS 람다 - YouTube](https://www.youtube.com/playlist?list=PLdJpJI2SrqEl5nPoDCbykvAPoaEeazdJp)
 * [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
 * [Building a Highly Scalable Imgur Clone with Lambda and S3](https://hackernoon.com/building-a-highly-scalable-imgur-clone-with-lambda-and-s3-aaf9da422c3e)
 * [AWS Lab - How to Automatically Process Data in S3 using AWS Lambda - YouTube](https://www.youtube.com/watch?v=ME45SITXNlE)
