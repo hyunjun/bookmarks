@@ -1442,6 +1442,7 @@ NLP
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)
   * [Home · aymara/lima Wiki](https://github.com/aymara/lima/wiki)
+* [lingoose: 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines](https://github.com/henomis/lingoose)
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
