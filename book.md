@@ -800,7 +800,9 @@ Book
   * 한라 325.21-남883ㅅ-1 우당 문325.21-남832ㅅ-1
   * [5000억 성공을 만든 배움을 준 실패 ㅣBob Tinker & Tae Hea Nahm EP 01 - YouTube](https://www.youtube.com/watch?v=NKFZTuk_ylY)
   * [#122 생존을 넘어 번창으로](https://brunch.co.kr/@wjoo/155)
-  * (NOT YET) [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
+  * [생존을 넘어 번창으로 2 : 리더의 도전](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317289747&start=slayer)
+    * ★★★★☆ 2023.08.06 부제가 보여주듯 리더, CEO나 각 조직별 리더 및 이사회, 그리고 문화에 대해 이야기한다. 나와는 큰 관련이 없는 이사회에 대한 챕터를 제외하면, 여러가지가 많이 와닿았지만, 특히 현재의 상황을 볼 때 시기나 상태의 변화에 따라 조직의 리더를 어떻게 대해야 할지 설명하는 부분이 가장 마음에 남는다. 이 문제에 대해서는 앞으로 어떻게 해야 할지도 어느 정도 가닥이 잡힌다.
+    * 탐라 문325.21-남832ㅅ-2
 * [세상의 모든 전략은 삼국지에서 탄생했다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293960757)
   * ★★★☆☆ 2023.07.22~23
   * 탐라 문325.211-임66ㅅ 우당 문325.211-임66ㅅ
