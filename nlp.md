@@ -1471,6 +1471,7 @@ NLP
     * [메타의 LLaMa 2의 새로운 기능은 무엇인가요?](https://textcortex.com/ko/post/what-is-llama-2)
     * [Meta LLama 2 Foundational Model with Prompt Flow - YouTube](https://www.youtube.com/watch?v=zFTnc8vbfVI)
     * [Llama 2에 세계가 열광하는 이유는? (Llama 2 개념/특징/사용법까지)](https://modulabs.co.kr/blog/llama-2-intro/)
+    * [Extended Guide: Instruction-tune Llama 2](https://www.philschmid.de/instruction-tune-llama-2)
     * [llama2gptq: Chat to LLaMa 2 that also provides responses with reference documents over vector database. Locally available model using GPTQ 4bit quantization](https://github.com/seonglae/llama2gptq)
   * [LLaMA 7B - a Hugging Face Space by chansung](https://huggingface.co/spaces/chansung/LLaMA-7B)
     * [llama-up-data](https://github.com/hunkim/llama-up-data)
