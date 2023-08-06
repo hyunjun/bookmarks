@@ -109,6 +109,7 @@ Apache
 * [Wes McKinney: Ursa Labs and Apache Arrow in 2019 | PyData Miami 2019](https://www.youtube.com/watch?v=7HiwzHWiF20)
 * [Apache Arrow and Java: Lightning Speed Big Data Transfer](https://www.infoq.com/articles/apache-arrow-java/)
 * [Apache Arrow: Read DataFrame With Zero Memory | Towards Data Science](https://towardsdatascience.com/apache-arrow-read-dataframe-with-zero-memory-69634092b1a)
+* [Apache Arrow Tutorials Series' Articles - DEV Community](https://dev.to/jayclifford345/series/21730)
 
 # Atlas
 * [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
@@ -1107,6 +1108,9 @@ Apache
   * 람다 아키텍처(Lambda architecture) 역시 쉽게 구현 가능
   * 광대한 커뮤니티 지원 역시 강점
 * [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner ](https://github.com/datamountaineer/stream-reactor)
+
+# Karaf
+* [Apache Karaf - The Modulith Runtime](https://karaf.apache.org/)
 
 # Kudu
 * [Kudu](http://kudu.apache.org/)
