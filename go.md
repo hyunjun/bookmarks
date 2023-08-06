@@ -36,6 +36,7 @@ Go
 * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
   * [2017-talks](https://github.com/gophercon/2017-talks)
 * [GopherCon UK 2018](https://www.youtube.com/playlist?list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9)
+* [Day1 GopherCon Korea 2023 - YouTube](https://www.youtube.com/watch?v=WZthMW0BaNA)
 * [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/learn-how-to-code/learn/v4/overview)
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
