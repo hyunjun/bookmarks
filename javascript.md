@@ -4403,6 +4403,7 @@ Javascript
   * 여기서 카나리 릴리스는 Meta 내부에서 사용하는 버전으로 실험용 릴리스에 비해서 훨씬 안정적이고 이를 공개함으로써 커뮤니티의 피드백도 얻을 수 있기 때문에
     * 각 라이브러리는 Stable과 최신 Canary를 모두 테스트하길 권장하고 Canary에도 변경 사항이 추가될 때 블로그에 변경 사항 공개 예정
 * [성능 하면 빠질 수 없는 메모이제이션, 네가 궁금해](https://d2.naver.com/helloworld/9223303)
+* [리액트 인터뷰 질문목록 (React Inter.. : 네이버블로그](https://blog.naver.com/gi_balja/223175957599)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -5461,6 +5462,7 @@ Javascript
   * [테스트코드에서 Optional chaining(?.) 쓰지않기](https://jojoldu.tistory.com/643)
   * [단언문 (expect/assert) 안에서 비교하지 않기](https://jojoldu.tistory.com/663)
   * [expect에서 false와 falsy 구분하기](https://jojoldu.tistory.com/664)
+  * [테스트 메소드 (함수) 이름은 비즈니스 내용을 사용하기](https://jojoldu.tistory.com/732)
   * [MSW를 활용한 Clean UI Integration Test | goohooh.github.io](https://goohooh.github.io/Testing/clean_ui_test_code/)
   * [아직도 커버리지에 집착하는가? : 네이버 블로그](https://blog.naver.com/pjt3591oo/222850170026)
   * [나만의 Jest Matchers 만들기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers/)
