@@ -2016,6 +2016,8 @@ Docker
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
   * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
+* [kuberian.pages.dev/?q=](https://kuberian.pages.dev/?q=)
+  * [Kuberian: LLM 을 사용한 Kubernetes 소스코드 자연어 검색 서비스 | GeekNews](https://news.hada.io/topic?id=10179)
 * kubernetes-client [Package kubernetes-client - man pages | ManKier](https://www.mankier.com/package/kubernetes-client)
 * [kubernetes-event-exporter: Export Kubernetes events to multiple destinations with routing and filtering](https://github.com/opsgenie/kubernetes-event-exporter)
   * [kubernetes-event-exporter 오래된 쿠버네티스 이벤트 조회 | 박성훈의 블로그](https://pseonghoon.github.io/post/kubernetes-event-exporter/)
