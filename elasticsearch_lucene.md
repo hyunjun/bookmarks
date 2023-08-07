@@ -378,6 +378,7 @@ ElasticSearch - Lucene
 * [ElasticON EMEA: The Search for Relevance with Vector Search - YouTube](https://www.youtube.com/watch?v=MUve9LiEAeI)
 * [Vector Databases and the Future of AI-powered Search - Sam Partee - YouTube](https://www.youtube.com/watch?v=g2bNHLeKlAg)
 * [엘라스틱서치 주요 용어 정리 : 네이버 블로그](https://blog.naver.com/gi_balja/223175399401)
+* [엘라스틱서치 검색 : 네이버 블로그](https://blog.naver.com/gi_balja/223176602239)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
