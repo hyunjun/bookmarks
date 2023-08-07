@@ -1059,6 +1059,7 @@ AWS
 * [AWS ECS Anywhere - Part 1 (클러스터 생성 및 외부 인스턴스 등록)](https://zigispace.net/1133)
 * [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
 * [AWS ECS Fargate Demo | AWS ECS Tutorial | AWS Fargate - YouTube](https://www.youtube.com/watch?v=C8Z8XrGTicQ)
+* [Seekable OCI 및 AWS Fargate를 사용한 컨테이너 이미지 지연 로딩으로 더 빠르게 컨테이너 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/under-the-hood-lazy-loading-container-images-with-seekable-oci-and-aws-fargate/)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EFS
