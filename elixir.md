@@ -153,6 +153,7 @@ Elixir
 * [alchemist.el - Elixir Tooling Integration Into Emacs http://www.alchemist-elixir.org](https://github.com/tonini/alchemist.el)
 * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
 * [asdf-vm Build Status - Manage multiple runtime versions with a single CLI tool, extendable via plugins - docs at asdf-vm.com ](https://github.com/asdf-vm/asdf)
+  * [asdf 툴 버전 매니저로 프로젝트별 elixir 버전 관리](http://ohyecloudy.com/pnotes/archives/asdf/)
 * [Ash Framework](https://ash-hq.org/)
   * [Ash Primer: Calculations - YouTube](https://www.youtube.com/watch?v=oxaqpDlI-Hk)
   * [Ash Primer: Migration Generator - YouTube](https://www.youtube.com/watch?v=GtsL_lIis4Q)
