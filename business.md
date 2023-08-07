@@ -1874,6 +1874,7 @@ Business
 * [AI 글에서 업무 자동화를 떠올리기](https://brunch.co.kr/@graypool/108)
 * [닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"](https://www.longblack.co/note/392?ticket=NTc496aef98e291d4d434144a964512b21bb9e94f7)
 * [B2B 마케팅 업무를 더 나아지게 만드는 지표들](https://brunch.co.kr/@yennyjeong/38)
+* [좋아 보이는 광고 소재의 비밀](https://brunch.co.kr/@cliche-cliche/191)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -2037,6 +2038,7 @@ Business
 * [프로덕트 지표 설정 프레임워크 ③ 활성화(Activation) 지표 | 요즘IT](https://yozm.wishket.com/magazine/detail/2114/)
 * [사용자의 ‘인게이지먼트’를 측정하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2127/)
 * [프로덕트 오퍼레이션 팀은 무슨 일을 하는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/2159/)
+* [첫 구독 유도의 중요성. 온보딩 구매화면의 비밀 | by Stephan Seunghwan Seo | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-c1955c33d9d9)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
