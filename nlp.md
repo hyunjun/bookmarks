@@ -1832,6 +1832,7 @@ NLP
   * [Introducing PyText - Facebook’s New Framework for Better NLP Development](https://towardsdatascience.com/introducing-pytext-d8f404f1745)
 * [quepy - A python framework to transform natural language questions to queries in a database query language](https://github.com/machinalis/quepy)
 * [RealChar: 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖](https://github.com/Shaunwei/RealChar)
+  * minimal하게 시작하기 위해 최소한 `OPENAI_API_KEY`, `ELEVEN_LABS_API_KEY` 필요, speaker는 동작하나 macbook mic로는 안 되고 airpod으로만 가능했음
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
