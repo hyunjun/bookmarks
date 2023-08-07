@@ -514,6 +514,8 @@ AWS
 * [AWS Security Hub 필터링 결과를 관리자에게 보내는 CloudFormation 템플릿 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/aws-security-hub-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B3%B4%EB%82%B4%EB%8A%94-cloudformation-%ED%85%9C%ED%94%8C%EB%A6%BF-c742c42f977d)
 * [효율적인 AWS CloudTrail 검색을 위한 데이터 파이프 라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-cloudtrail-convert-json-to-parquet/)
 * [AWS Entity Resolution 정식 출시 – 앱 및 데이터 스토어 관련 레코드 매칭 워크플로 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
+* [New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
+  * [AWS, 2024년 2월 1일부터 공인 IPv4 주소에 대해서 비용 부과 시작 | GeekNews](https://news.hada.io/topic?id=10186)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
