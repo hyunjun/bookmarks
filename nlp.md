@@ -1831,6 +1831,7 @@ NLP
   * [페이스북, 자연어 처리 프로젝트를 오픈소스로 전환](http://www.ciokorea.com/news/113247)
   * [Introducing PyText - Facebook’s New Framework for Better NLP Development](https://towardsdatascience.com/introducing-pytext-d8f404f1745)
 * [quepy - A python framework to transform natural language questions to queries in a database query language](https://github.com/machinalis/quepy)
+* [RealChar: 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖](https://github.com/Shaunwei/RealChar)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
@@ -1849,6 +1850,8 @@ NLP
 * [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
 * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
+* [Steamship](https://www.steamship.com/)
+  * [steamship-core/python-client](https://github.com/steamship-core/python-client)
 * [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/)
 * Text2SQL
   * [if(kakao)dev2022 RYANSQL: 한국어 Text2SQL 모델 개발](https://if.kakao.com/2022/session/71)
