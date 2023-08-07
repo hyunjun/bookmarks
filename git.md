@@ -245,6 +245,7 @@ Git
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
 * ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/214234)
+* [모노레포에서 Github Actions 현명하게 사용하기](https://f-lab.kr/blog/wise-use-of-github-actions-in-monorepo)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
   * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
 * [GitHub, 블로그에 방문자 카운터를 달아보자 | SILENTSOFT](https://blog.silentsoft.org/archives/192)
