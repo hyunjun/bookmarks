@@ -250,6 +250,7 @@
 * [팩토리 메서드 디자인 패턴을 사용하세요 | funes-days](https://funes-days.com/dev/factory-method-in-nodejs)
 * [개발자라면 "무조건" 디자인 패턴을 배워야한다? - YouTube](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 * [요즘 정말 핫한 🔥 디자인 패턴이 있다? - YouTube](https://www.youtube.com/watch?v=XTcsR_-GrBY) Facade
+* [당신이 이 디자인 패턴을 배워야하는 이유?! 😱 - YouTube](https://www.youtube.com/watch?v=bdcxCpB68Xs) Observer
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
