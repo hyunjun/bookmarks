@@ -477,6 +477,8 @@
 * [parsix: Parse, don't validate](https://github.com/parsix/parsix)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
+* [scrimage: Java, Scala and Kotlin image processing library](https://github.com/sksamuel/scrimage)
+  * [Image Processing in Kotlin with Scrimage](https://www.roach-dev.com/kotlin/image_processing/)
 * [xef.ai](https://xef.ai/)
   * [xef: Building applications with LLMs through composability, in Kotlin, Scala, ...](https://github.com/xebia-functional/xef)
   * [Integrating AI workflows into your project: Introducing Xef.ai - YouTube](https://www.youtube.com/watch?v=ZoQhlJjgr7c)
