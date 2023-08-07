@@ -1108,6 +1108,7 @@ SQL
 * [PostgreSQL14 Memoize 성능 비교 (feat. 13 vs 14 Nested Loop)](https://jojoldu.tistory.com/700)
 * [PostgreSQL 소개 및 설정 방법 (Nest.js 기준) : 네이버 블로그](https://m.blog.naver.com/gi_balja/223033188093)
 * [20x faster than pgvector: introducing pg_embedding extension for vector search in Postgres and LangChain - Neon](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
+* [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
