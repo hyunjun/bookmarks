@@ -3376,6 +3376,7 @@ Programming Books
 * [프로덕트 매니지먼트](https://www.hanbit.co.kr/store/books/look.php?p_code=B8246471071)
   * ★★★★★ 2023.07.31~08.03 읽었던 프로덕트 주제의 책 중에 가장 맘에 드는 책으로. 필요한 주제들이 적절하면서도 내 수준에 맞게(완전히 전문가는 아니지만, 결국 management를 하면서 봐야 하는 입장) 다양하게 다뤄서 좋았다. 두고두고 보고, 추천할만한 좋은 책이다.
   * 탐라 문325.6-김64ㅍ
+  * [독서광 프로덕트 매니지먼트 - YouTube](https://www.youtube.com/watch?v=dyntCHFHvtE)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 * (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
