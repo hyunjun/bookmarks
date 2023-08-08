@@ -339,3 +339,10 @@ Monitoring
   * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
   * [모니터링에서 보라색 맛 났어!(Prometheus & Thanos)](https://velog.io/@juunini/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%97%90%EC%84%9C-%EB%B3%B4%EB%9D%BC%EC%83%89-%EB%A7%9B-%EB%82%AC%EC%96%B4Prometheus-Thanos)
   * [k8s 클러스터에 설치된 Prometheus를 Thanos와 연동하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/05/25/how-to-install-thanos)
+
+# VictoriaMetrics
+* [VictoriaMetrics: Simple & Reliable Monitoring for Everyone](https://victoriametrics.com/)
+* [VictoriaMetrics/VictoriaMetrics: VictoriaMetrics: fast, cost-effective monitoring solution and time series database](https://github.com/VictoriaMetrics/VictoriaMetrics)
+* [DEVIEW 2023 :: VictoriaMetrics: 시계열 데이터 대혼돈의 멀티버스](https://deview.kr/2023/sessions/558)
+* [VictoriaMetrics Overview](https://yang1s.tistory.com/22)
+* [What makes VictoriaMetrics the next leading choice for open-source monitoring | by Amit Karni | Israeli Tech Radar | Medium](https://medium.com/israeli-tech-radar/what-makes-victoriametrics-the-new-de-facto-standard-choice-for-open-source-monitoring-5d2b66b6e292)
