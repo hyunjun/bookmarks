@@ -2152,6 +2152,7 @@ Programming
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
 * [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
+* [Considering Migrating a Monolith to Microservices? • Chris Richardson • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Lessons from DAZN: Scaling Your Project with Micro-frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
@@ -5587,6 +5588,7 @@ Programming
 * [우리가 알던 '기술 부채' 통념은 모두 틀렸다 - ITWorld Korea](https://www.itworld.co.kr/news/238829)
 * [기술 부채와 이율](https://jojoldu.tistory.com/682)
 * [organizations waste up to 42% of their time due to technical debt](https://www.linkedin.com/posts/pojos_pdf-code-red-the-business-impact-of-code-activity-6983109983836020736-toO2/)
+* [Can We Please Stop Talking About Tech Debt? • Emily Rosengren • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=DvfMOJaIzhY)
 * [기술 부채와 오버 엔지니어링을 줄이는 방법 :: Channy's Blog](https://channy.creation.net/blog/1623)
 * [한기용 - 스타트업의 기술 부채 어떻게 할까?](https://www.linkedin.com/posts/activity-6996915266047627265-VWt5/)
 * [구축 사업 관리에 가려진 기술 부채](https://brunch.co.kr/@graypool/518)
