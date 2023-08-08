@@ -713,6 +713,7 @@ AWS
 * [클라우드 워치를 통한 프로세스 모니터링 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/07/13/cloudwatch-process-monitoring/)
 * [페타바이트 트래픽 원인 분석기](https://snack.planetarium.dev/kor/2023/03/cloudwatch/)
 * [AWS IoT Core를 활용해 CloudWatch 알람을 음성으로 수신하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-core-cloudalarm/)
+* [CloudWatch Agent에서 HTTP Proxy를 통하는 모니터링 방법 | by Hedy Kim | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/cloudwatch-agent%EC%97%90%EC%84%9C-http-proxy%EB%A5%BC-%ED%86%B5%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%A9%EB%B2%95-268e7f61c29a)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -1928,6 +1929,7 @@ AWS
 * [LG전자의 Amazon Aurora 및 RDS 블루/그린 배포를 이용한 데이터베이스 업그레이드 안정성 확보 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/lg-electronics-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 * [Slack에서 ‘RDS정지’를 시행 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/slack%EC%97%90%EC%84%9C-rds%EC%A0%95%EC%A7%80%EB%A5%BC-%EC%8B%9C%ED%96%89-%ED%95%B4-%EB%B3%B4%EA%B8%B0-d8b00b62045f)
 * [Amazon RDS MySQL 블루/그린 배포 환경에서 Amazon Route 53을 활용한 운영환경 읽기 쿼리 분산 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-route53-balancing/)
+* [GUI 환경을 이용하여 안전하게 Amazon RDS 또는 Amazon EC2 DB 인스턴스에 원격 접근하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
