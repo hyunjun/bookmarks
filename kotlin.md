@@ -292,6 +292,7 @@
 * [코틀린의 확장 기능](https://www.roach-dev.com/kotlin/kotlin_extension_function/)
 * [Pluu Dev - 메모 Kotlin의 val 프로퍼티 Smart Cast는 동일 모듈에서 더 잘 판단함](https://pluu.github.io/blog/kotlin/2023/03/22/smart-cast/)
 * [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657)
+* [Sleepless Concurrency: delay() vs. Thread.sleep()](https://blog.shreyaspatil.dev/sleepless-concurrency-delay-vs-threadsleep)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
@@ -304,6 +305,8 @@
   * [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
   * [RunCatching을 이용한 Kotlin Exception처리 #try, catch](https://www.popit.kr/logstash-필터-elapsed)
   * [Kotlin flow의 예외 처리(catch), 재시도(retry, retryWhen) 살펴보기](https://thdev.tech/kotlin/2023/04/13/Kotlin-Flow-Retry/)
+* use
+  * [Unlocking the Power of ‘use’ Keyword in Kotlin: A Closer Look | by Tippu Fisal Sheriff | Aug, 2023 | Medium](https://medium.com/@TippuFisalSheriff/unlocking-the-power-of-use-keyword-in-kotlin-aad3daa15948)
 
 # Book
 * [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
@@ -392,6 +395,7 @@
 * [Building Kotlin Coroutine Framework from Scratch: Reinventing Dispatchers | by Omkar Tenkale | Medium | Kt. Academy](https://blog.kotlin-academy.com/building-kotlin-coroutine-framework-from-scratch-part-2-reinventing-dispatchers-bff72b82e42d)
 * [코루틴(Coroutine)에 대하여](https://dev.gmarket.com/82)
 * [Coroutines Beyond Concurrency by Alex Semin - YouTube](https://www.youtube.com/watch?v=NwYx5l5Zzes)
+* [Coroutine Context and Dispatchers Quiz | by Murat AYDIN | Medium](https://medium.com/@maydin/coroutine-context-and-dispatchers-quiz-bd70b7e80eac)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
