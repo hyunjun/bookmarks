@@ -779,6 +779,7 @@ Apache
 * [토스ㅣSLASH 23 - Kafka 이중화로 다양한 장애 상황 완벽 대처하기 - YouTube](https://www.youtube.com/watch?v=Pzkioe7Dvo4)
 * [How Apache Kafka works internally? | by Soma | Javarevisited | Jul, 2023 | Medium](https://medium.com/javarevisited/how-apache-kafka-works-internally-5dc9810032f1)
 * [Mastering Go-Kafka Integration: Real-time Data Processing Unleashed](https://voskan.host/2023/08/05/golang-apache-kafka/)
+* [카프카 프로듀서의 acks=all 옵션은 사실(?) 느리지 않다!](https://voidmainvoid.tistory.com/507)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
