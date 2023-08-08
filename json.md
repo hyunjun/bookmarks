@@ -67,6 +67,7 @@ Json
 
 # Kotlin
 * [Using JSON schema with statically typed object-oriented languages — Illustrated in Kotlin | by Martin Devillers | Aug, 2022 | Medium](https://medium.com/@martin.devillers/using-json-schema-with-statically-typed-object-oriented-languages-illustrated-in-kotlin-cb2cd34244f5)
+* [JSON Parsing from Scratch in Kotlin - DEV Community](https://dev.to/y9san9/json-parsing-from-scratch-in-kotlin-4al8)
 
 # Java
 * [3 Examples to parse JSON in Java using Jackson, Gson, and json-simple](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html#axzz7OtRG48iP)
