@@ -812,6 +812,7 @@ Programming Books
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 1부 - YouTube](https://www.youtube.com/watch?v=kOgLZGqJAhg)
   * [마이크로서비스 아키텍처 구축 가이드 저자 김용욱 님 인터뷰 2부 - YouTube](https://www.youtube.com/watch?v=wUb8WdZMakE)
   * [마이크로서비스 아키텍처 구축 (전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6376751099)
+  * [자바 챔피언 크리스 리처드슨이 말하는 마이크로서비스 아키텍처 | 김용욱 | 마이크로서비스 아키텍처 구축 가이드 - YouTube](https://www.youtube.com/watch?v=8BJUrHNFACA)
 * (NOT YET) [실용적인 마이크로서비스 아키텍처 패턴 | 에이콘출판사](http://www.acornpub.co.kr/book/practical-ms)
 * (NOT YET) [자동차 소프트웨어 아키텍처 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309216604)
   * 탐라 문005.12-스831ㅈ
