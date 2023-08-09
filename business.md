@@ -2060,6 +2060,7 @@ Business
 * [토스, 넥스트 애자일을 고민하다](https://blog.toss.im/article/next-agile-with-pm)
 * [TBM 38/52: Navigating the Product Leadership Fog](https://cutlefish.substack.com/p/tbm-3852-navigating-the-product-leadership)
   * ["안개" 속에 빠진 프로덕트 리더십](https://brunch.co.kr/@yongjinjinipln/99)
+* [프로덕트 리더 채용하기](https://brunch.co.kr/@graypool/1063)
 * [디스콰이엇 팀에서 제품 개발하는 방법 | Disquiet\*](https://disquiet.io/@jennyh/makerlog/1871)
 * ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
 * [제품 관리자가 가져야 하는 데이터 문해력이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1779/)
