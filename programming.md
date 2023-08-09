@@ -1146,6 +1146,7 @@ Programming
   * [Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드 | GeekNews](https://news.hada.io/topic?id=7248)
 
 # Architecture, Modelling, Layer, Framework, ...
+* [Architecture > Presentations > Page #1](https://www.infoq.com/architecture/presentations/)
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/agoda/agoda_design.md)
 * [**10가지 소프트웨어 아키텍쳐 패턴 요약**](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
@@ -1667,6 +1668,7 @@ Programming
 * [The Architect’s Blueprint: Understanding Software Styles and Patterns with Cheatsheet | by Love Sharma | ByteByteGo System Design Alliance | Jul, 2023 | Medium](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)
   * [Software Architecture Styles and Patterns Cheat Sheet](https://zonito.gumroad.com/l/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet)
 * [Energy-Efficient Software Architecture for Developers • Henrik Bærbak Christensen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=xVKJvUHCanQ)
+* [EP68: Top architectural styles - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep68-top-architectural-styles)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
