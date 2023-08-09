@@ -831,6 +831,7 @@ NLP
     * [새툴새툴, 새로운 AI 툴을 사용해봅시다. - Google Slides](https://docs.google.com/presentation/d/1P9UHkVj2XXgPEqKxkEe4bybyBkb6qNCKTi1Eif3ydMk/edit)
     * [AI 코드 인터프리터(Code Interpreter) 활용 사례들을 정리해봤습니다. : 클리앙](https://www.clien.net/service/board/lecture/18180121)
   * [ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩 - YouTube](https://www.youtube.com/watch?v=nkNKBwXUL84) code interpreter
+  * [ChatGPT Code Interpreter | Pega Devlog](https://jehyunlee.github.io/2023/08/09/Python-DS-132-kierlecture202303/)
   * [코드 없이 실시간 웹 서비스를 만들어 보기](https://mrobo2016.notion.site/mrobo2016/5086175cbbe04a12a4eef8a647e3b842)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
