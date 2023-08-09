@@ -4671,6 +4671,8 @@ Javascript
 * [React Native 안드로이드 개발 환경 구축하기 | miryang.dev](https://miryang.dev/blog/rn-aos-dev-setting)
 * [React Native 안드로이드 FCM 설정하고, 앱 푸시 받기 | miryang.dev](https://miryang.dev/note/react-native/fcm-aos)
 * [React Native 앱 아이콘 변경하기 | miryang.dev](https://miryang.dev/note/react-native/app-icon)
+* [react-native 보안과 환경변수에 관하여(1)](https://velog.io/@chltjdrhd777/react-native-%EB%B3%B4%EC%95%88%EA%B3%BC-env%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
+* [react-native 보안과 환경변수에 관하여(2) - 개인모듈 만들어 배포해보기](https://velog.io/@chltjdrhd777/react-native-%EB%B3%B4%EC%95%88%EA%B3%BC-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC2-%EA%B0%9C%EC%9D%B8%EB%AA%A8%EB%93%88-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
