@@ -780,6 +780,8 @@ Apache
 * [How Apache Kafka works internally? | by Soma | Javarevisited | Jul, 2023 | Medium](https://medium.com/javarevisited/how-apache-kafka-works-internally-5dc9810032f1)
 * [Mastering Go-Kafka Integration: Real-time Data Processing Unleashed](https://voskan.host/2023/08/05/golang-apache-kafka/)
 * [카프카 프로듀서의 acks=all 옵션은 사실(?) 느리지 않다!](https://voidmainvoid.tistory.com/507)
+* [Kafka is dead, long live Kafka - WarpStream](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
+  * [WarpStream : Kafka는 죽었다, Kafka 만세! | GeekNews](https://news.hada.io/topic?id=10234)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
