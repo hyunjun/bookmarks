@@ -293,6 +293,7 @@
 * [Pluu Dev - 메모 Kotlin의 val 프로퍼티 Smart Cast는 동일 모듈에서 더 잘 판단함](https://pluu.github.io/blog/kotlin/2023/03/22/smart-cast/)
 * [Data Objects in Kotlin](https://medium.com/@domen.lanisnik/data-objects-in-kotlin-1a549bfad657)
 * [Sleepless Concurrency: delay() vs. Thread.sleep()](https://blog.shreyaspatil.dev/sleepless-concurrency-delay-vs-threadsleep)
+* [Kotlin : When if-else is too mainstream | by Garima Jain | Medium](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
