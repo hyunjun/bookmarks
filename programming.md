@@ -621,6 +621,7 @@ Programming
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+* [좋은 객체 ID(Object ID) 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2161/) UUID
 * [Unique Id generation in distributed systems | by Apoorv Tyagi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/unique-id-generation-in-distributed-systems-6f7aaa39c9af) UUID
 * [Nanosecond timestamp collisions are common (evanjones.ca)](https://www.evanjones.ca/nanosecond-collisions.html)
   * [nanocollision: NanoCollision: Experiments with collisions of nanosecond timestamps](https://github.com/evanj/nanocollision)
