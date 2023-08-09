@@ -344,6 +344,7 @@ Programming
     * 이런 걸 잘하는 사람이 팀의 인프라 작업을 처리하는 섀도 운영팀원이 되어 오히려 생산성 저하
   * 플랫폼 엔지니어링의 핵심 원칙은 제품 사고방식을 취하는 것
     * 개발자를 고객으로 생각해서 적절한 추상화를 통해 인지 부하 완화 필요
+* [DevOps를 가속화하는 플랫폼 엔지니어링│인프콘 2023 미리보기 | INFCON2023 - YouTube](https://www.youtube.com/watch?v=NiTchJph9e4)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
