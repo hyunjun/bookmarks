@@ -823,6 +823,7 @@ Javascript
 * [JSON Creator Douglas Crockford Interview by Evrone](https://evrone.com/blog/douglas-crockford-interview)
   * ["자바스크립트는 자리에서 물러날 때입니다" JSON 창시자 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/1981/)
 * [마우스 따라 돌아가는 눈알 만들기 | MIRIYA](https://miriya.vercel.app/blog/NtV5JgzYpdxs4DQtr0eh)
+* [Headless 브라우저를 이용한 스냅샷 촬영 구현 | Univdev](https://univdev.page/posts/headless-browser-snapshot/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
