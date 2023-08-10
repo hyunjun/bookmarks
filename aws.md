@@ -1812,6 +1812,7 @@ AWS
 * [Amazon ECS와 Amazon SageMaker를 이용하여 이미지 분류 AI 웹 애플리케이션 구축과 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ai-application-ecs-sagemaker/)
 * [QLoRA 기법으로 Falcon-40B 및 기타 대규모 모델(LLM)을 Amazon SageMaker Studio 노트북의 대화형 환경에서 파인튜닝하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 * [Amazon SageMaker JumpStart를 이용하여 Falcon Foundation Model기반의 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/chatbot-based-on-falcon-fm/)
+* [폐쇄 환경에서 Amazon Sagemaker노트북 인스턴스를 이용하는 경우의 데이터 보호에 관한 Tips | by MZC_Global | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/%ED%8F%90%EC%87%84-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-amazon-sagemaker%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%BD%EC%9A%B0%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8%EC%97%90-%EA%B4%80%ED%95%9C-tips-d2fdce844906)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
