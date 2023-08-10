@@ -74,6 +74,7 @@ Linux
 * [GNOME 데스크탑 : caps lock을 control로 사용하기](https://sunyzero.tistory.com/263)
 * [GNOME3 화면 스케일 125% 150% 175% 조정](https://sunyzero.tistory.com/285)
 * [GNOME 3 터치패드 4손가락 설정 방법 - 1편](https://sunyzero.tistory.com/288)
+* [GNOME 3 터치패드 추가 제스처 설정 (touchegg) - 2편](https://sunyzero.tistory.com/289)
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
 * [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
 * [unix permissions image explanation](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839?permalink_comment_id=4116315#gistcomment-4116315)
