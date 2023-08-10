@@ -1329,6 +1329,7 @@ Business
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [신뢰할 수 있는 지표 만들기. 당근마켓 데이터 가치화팀은 지표 관련해서 어떠한 문제들에 직면했고… | by Kim Dojin | 당근마켓 테크 블로그 | Apr, 2023 | Medium](https://medium.com/daangn/%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-bbf39dc4a6b3)
+* [신뢰할 수 있는 지표 만들기 2 : KarrotMetrics 기술편 | by Kim Dojin | 당근마켓 테크 블로그 | Aug, 2023 | Medium](https://medium.com/daangn/%EC%8B%A0%EB%A2%B0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%80%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-karrotmetrics-%EA%B8%B0%EC%88%A0%ED%8E%B8-526f517fda29)
 * [J& COMPANY Issue 20. KPI는 어떻게 도출해야 하나](https://stibee.com/api/v1.0/emails/share/P3UE2XjHWdRpUCxeC8-VjBePa6Rh1Q==)
 * [The Angel VC: A KPI dashboard for early-stage SaaS startups – new and improved!](http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html)
   * [Saas 비즈니스 대시보드 템플릿.xlsx](https://docs.google.com/spreadsheets/d/1edCowk7CK4hJUAIibBAL7z1bUSSugKVP/htmlview?fs=e&s=cl)
