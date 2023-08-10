@@ -349,6 +349,8 @@ Network
 * Portmaster [Safing Portmaster](https://safing.io/portmaster/)
   * [Portmaster - 오픈소스 네트워크 모니터 & 방화벽 | GeekNews](https://news.hada.io/topic?id=5676)
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
+* [Proxyman · Native, Modern Web Debugging Proxy · Inspect network traffic from Mac, iOS, Android devices with ease](https://proxyman.io/)
+  * [누가 재시도 요청을 하였는가?](https://squarelab.co/blog/who-did-retry-the-request/)
 * [Scapy](https://scapy.net/)
   * [Scapy에 대한 요약 정리](https://chogar.blog.me/80206163869)
   * [Scapy: low level packet hacking toolkit for Python – Trickster Dev](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/)
