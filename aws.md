@@ -2018,6 +2018,7 @@ AWS
 * [AWS S3를 이용한 이미지 처리(저장,조회,삭제,다운로드)](https://velog.io/@rnqhstlr2297/AWS-S3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC%EC%A0%80%EC%9E%A5%EC%A1%B0%ED%9A%8C%EC%82%AD%EC%A0%9C)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
+  * [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
