@@ -38,7 +38,9 @@
 * [Diyar Mohammadi - Near-Duplicate Ad Detection in Online Classified Ad Services | PyData Yerevan 2022 - YouTube](https://www.youtube.com/watch?v=CcsqasfszjE)
 * [몰락 이후의 퍼포먼스 마케팅](https://eopla.net/magazines/1686)
 * [예산 제어 시스템 개선기: Part 1 – 시스템과 가시성 개선](https://tech.buzzvil.com/blog/budget-pacing-improvement-part-1/)
-* Amplitude [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
+* Amplitude
+  * [앰플리튜드는 구글 애널리틱스를 넘어설 수 있을까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gaamplitude20220930)
+  * [사용자의 액션을 분석해보자! Amplitude의 Taxonomy 연동 방법 | Univdev](https://univdev.page/posts/amplitude-taxonomy-for-fe/)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Apple
