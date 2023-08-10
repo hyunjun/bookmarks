@@ -2352,3 +2352,4 @@ AWS
 * [AWS WAF에서 AWS 관리형 규칙의 동작을 커스터마이징하는 방법 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-customize-behavior-of-aws-managed-rules-for-aws-waf/)
 * [AWS WAF IP 어뷰징(ddos) 차단 사례. 플랫폼개발팀은 데이터베이스, 클라우드 인프라, 미디어 인프라를 개발과… | by Gntpapa | tving.team | Dec, 2022 | Medium](https://medium.com/tving-team/aws-waf-ip-%EC%96%B4%EB%B7%B0%EC%A7%95-ddos-%EC%B0%A8%EB%8B%A8-%EC%82%AC%EB%A1%80-2cdc552b7272)
 * [AWS WAF의 가장 중요한 세가지 속도 기반 규칙 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/three-most-important-aws-waf-rate-based-rules/)
+* [AWS WAF의 지능형 위협 완화 기능을 사용하여 교차 출처 API 액세스 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-aws-waf-intelligent-threat-mitigations-with-cross-origin-api-access/)
