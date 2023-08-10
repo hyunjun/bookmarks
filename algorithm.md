@@ -683,6 +683,7 @@ Algorithm
 * [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
 * [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 * [Bloom filters](https://exampl.io/bloom-filters/)
+* [BloomFilter 의 원리 - Google Slides](https://docs.google.com/presentation/d/1V_-2HITLPZkzhtZxPaOakoXo4q8etpciryc4i1AN298/edit#slide=id.p)
 
 # Problems
 * [**A collection of algorithms**](https://github.com/williamfiset/algorithms)
