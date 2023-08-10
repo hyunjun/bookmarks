@@ -6042,6 +6042,7 @@ Javascript
 * [감자탕 먹고 Vue.js로 Figma 번역 플러그인 만든 이야기](https://engineering.linecorp.com/ko/blog/create-figma-translation-plugin-with-vuejs)
 * [What to Expect from Vue in 2023 and How it Differs from React - The New Stack](https://thenewstack.io/vue-2023/)
   * [2023년 Vue에게 기대할 수 있는 점과 React와의 차이점 | bohyeon.dev](https://ktseo41.github.io/blog/log/what-to-expect-from-vue-in-2023-and-how-it-differs-from-react.html)
+* [완 Vue.js, 20개만 쓸 줄 알면 끝남](https://velog.io/@nanotoly/Vue.js-20%EA%B0%9C%EB%A7%8C-%EC%93%B8-%EC%A4%84-%EC%95%8C%EB%A9%B4-%EB%81%9D%EB%82%A8)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
