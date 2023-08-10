@@ -1912,6 +1912,7 @@ Docker
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
   * [Kubernetes at Home With K3s :: Bruno Antunes — Thoughts, rants, ideas](https://blog.nootch.net/post/kubernetes-at-home-with-k3s/)
   * [Offline 환경에서 K3S 세팅하기](https://blog.annotation-ai.com/offline-k3s-setting/)
+  * [K3S-Virtual-Cluster: Kubernetes virtual cluster simulator using multipass](https://github.com/J-hoplin1/K3S-Virtual-Cluster)
 * k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
 * [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
 * [K8sGPT](https://k8sgpt.ai/)
