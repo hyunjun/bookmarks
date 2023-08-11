@@ -1914,6 +1914,7 @@ Scala
   * [Scala Server Security with Http4s: CORS and CSRF - YouTube](https://www.youtube.com/watch?v=z3F3iAE8U-U)
   * [HTTP Authentication in Scala with Http4s: Passwords, Digests, Sessions, JWTs - YouTube](https://www.youtube.com/watch?v=DxZIuvSDvyA)
   * [HTTP Authentication with Scala and Http4s - Rock the JVM Blog](https://blog.rockthejvm.com/http4s-authentication-part1/)
+  * [OAuth Authentication in Scala with Http4s - YouTube](https://www.youtube.com/watch?v=NZwnZhwVPrs)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
