@@ -742,6 +742,7 @@ Clojure
 * [Brian Goetz prefers Clojure over Scala and Kotlin on the JVM (Java language architect) nipafx clip - YouTube](https://www.youtube.com/watch?v=GedrGWu16_I)
 * [A History of Clojure by Rich Hickey with Q&A - YouTube](https://www.youtube.com/watch?v=nD-QHbRWcoM)
   * [PLDI 2021: A History of Clojure](https://www.pldi21.org/prerecorded_hopl.11.html)
+  * [clojure-hopl-iv-final.pdf](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [Changing to Clojure mid-flight by Marcus Rydberg - YouTube](https://www.youtube.com/watch?v=zK9y1nvmft8)
 * [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [TECHㅣ컨퍼런스 - YouTube](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) 그린랩스
