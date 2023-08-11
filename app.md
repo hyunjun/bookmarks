@@ -1606,6 +1606,7 @@ App
   * [doitlive: Because sometimes you need to do it live](https://github.com/sloria/doitlive)
     * [A python tool for live presentations in the terminal](https://pythonawesome.com/a-python-tool-for-live-presentations-in-the-terminal/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
+  * [Gerry - Super simple screen recording](https://gerry.video/about.html)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * loom [화면 캡처 및 녹화 프로그램 loom(룸) 소개 : 네이버 블로그](https://blog.naver.com/punchkorea/222694330420)
