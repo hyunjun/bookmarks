@@ -2678,13 +2678,17 @@ Programming Books
   * [High Output Management](https://jh4hj.tistory.com/entry/High-Output-Management)
   * [Book 하이 아웃풋 매니지먼트 - 어떻게 성과를 높일 것인가 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1675)
 * 린 스타트업 [불확실한 창업 환경에서 슬기롭게 일하는 법, 『린 스타트업』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2012/11/13/%eb%b6%88%ed%99%95%ec%8b%a4%ed%95%9c-%ec%b0%bd%ec%97%85-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c-%ec%8a%ac%ea%b8%b0%eb%a1%ad%ea%b2%8c-%ec%9d%bc%ed%95%98%eb%8a%94-%eb%b2%95-%e3%80%8e%eb%a6%b0-%ec%8a%a4/)
-  * 탐라
   * ★★★★☆ 2022.05.08~09
+  * 탐라 개325.21-리57ㄹ 우당 문325.21-리58ㄹ
   * [빠르고 유연한 린스타트업 경영, 대기업의 창의적 혁신에도 유용하다 | 경영전략 | DBR](https://dbr.donga.com/article/view/1203/article_no/7397/ac/magazine)
   * [창조경제의 성공 방정식, 린 스타트업](http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0001+2019_T2+type@asset+block@9-1_%EB%A6%B0_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
   * [린스타트업의 한계](https://brunch.co.kr/@doberman/43)
-  * (NOT YET) [린 스타트업(10주년 기념, 전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3905391687)
-    * [린 스타트업](https://jybaek.tistory.com/1001)
+* [린 스타트업(10주년 기념, 전면 개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3905391687)
+  * ★★★★☆ 2023.08.08~11 에릭 리스와는 다른 버전의 책이며, 개인적으로는 현재 회사의 상황과 맞닿아서 그런지 더 재미있게 잘 읽었다. business라는게 절대 생각대로 가는 게 아니라서(정확히 말하면 나는 잘 안다고 할 수 없는 사람이니 아닌 거 같아서) 이 책의 내용대로 한다고 절대 잘 된다는 보장이야 없으나, 훨씬 구조적으로 검증을 하면서 나갈 수 있겠다는 생각이 든다. 막연하기에 더 단계를 거쳐, 더 잘게 쪼개서 확인이 필요하단 생각이다.
+  * 우당 문324.35-모239ㄹ
+  * [린 스타트업](https://jybaek.tistory.com/1001)
+  * [Continuous Innovation Platform | LEANSTACK](https://leanstack.com/)
+    * [Resources | LEANSTACK](https://leanstack.com/books/runninglean/resources)
 * 어도비 CPO의 혁신전략 [삼성 엘지 현대차에도 있는 '이것'은? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33528077)
   * 탐라 문325.1-벨58ㅇ
   * ★★★★☆ 2022.05.31~06.01
