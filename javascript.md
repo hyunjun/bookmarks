@@ -3894,6 +3894,7 @@ Javascript
 * [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
 * [Deploying React Applications to Github Pages](https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a)
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
+* [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975)
 * [React with TypeScript Crash Course - YouTube](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 * [create-react-app에서 TypeScript - create-react-app으로 생성한 React 프로젝트에 TypeScript를 적용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/typescript/)
 * [How to create react js project with typescript easily - YouTube](https://www.youtube.com/watch?v=-uz03TtfJ5c)
