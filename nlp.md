@@ -833,6 +833,7 @@ NLP
   * [ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩 - YouTube](https://www.youtube.com/watch?v=nkNKBwXUL84) code interpreter
   * [ChatGPT Code Interpreter | Pega Devlog](https://jehyunlee.github.io/2023/08/09/Python-DS-132-kierlecture202303/)
   * [코드 없이 실시간 웹 서비스를 만들어 보기](https://mrobo2016.notion.site/mrobo2016/5086175cbbe04a12a4eef8a647e3b842)
+  * [기술은 끝이 없다. - 정육각 그리고 초록마을의 사업에서 치열하게 수정하고, 개선하고, 끝없이 학습하는 개발자의 이야기](https://blog.jeongyookgak.com/service/2023/08/01/gpt-applied-search.html)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1384,6 +1385,8 @@ NLP
   * [The BEST Open Source LLM? (Falcon 40B) - YouTube](https://www.youtube.com/watch?v=-IV1NTGy6Mg)
 * [Flipped-Learning: ICLR 2023 Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners](https://github.com/seonghyeonye/Flipped-Learning/)
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
+  * [Flowise: Drag & drop UI to build your customized LLM flow](https://github.com/FlowiseAI/Flowise)
+  * [Did you know you can build a functional LLM app that uses LangChain, OpenAI, and soon any model on Hugging Face without coding and within minutes?](https://www.linkedin.com/posts/sahar-mor_did-you-know-you-can-build-a-functional-llm-activity-7095044049841115137-BdnO/)
 * [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)
   * [고릴라: 대규모 API와 연결된 대규모 언어 모델. UC... | Facebook](https://www.facebook.com/newhiwoong/posts/pfbid034pCQy3hBAYsKhN3r2YBw1MpA3bfBJZFot4TzSPrASHckVH9fUVST5DnkuqJjuGd6l)
   * [Gorilla - LLM을 위한 API 스토어 | GeekNews](https://news.hada.io/topic?id=9283)
