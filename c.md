@@ -228,6 +228,7 @@ C
   * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
   * [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=YXrb-DqsBNU)
   * [Expert Talk: Zig Programming Language & Linters • Andrew Kelley & Jeroen Engels • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zKmZmiOU6qE)
+  * [Zig Build System & How to Build Software From Source • Andrew Kelley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=vKKTMBoxpS8)
   * [ziglings: Learn the Zig programming language by fixing tiny broken programs](https://github.com/ratfactor/ziglings)
 
 # Debugging
