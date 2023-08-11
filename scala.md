@@ -1027,6 +1027,7 @@ Scala
     * [How To Build Lightweight Microservices Using ZIO Stack by Marcin Krykowski - YouTube](https://www.youtube.com/watch?v=FlhEUqPeRIU)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
     * [ZIO Kafka with Scala: A Tutorial - YouTube](https://www.youtube.com/watch?v=ExFjjczwwHs)
+    * [Zymposium - ZIO Kafka with Jules & Erik - YouTube](https://www.youtube.com/watch?v=fsKDMXywQPI)
     * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
@@ -1805,6 +1806,7 @@ Scala
   * [Support for XML request responses in sttp and tapir](https://softwaremill.com/support-for-xml-request-responses-in-sttp-and-tapir/)
   * [sttp client 3 is here!. What’s new in the latest stable release… | by Adam Warski | Jan, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/sttp-client-3-is-here-bb9ebe925931)
   * [More than just HelloWorld.json in sttp & uPickle](https://softwaremill.com/more-than-just-helloworld-json-in-sttp-and-upickle/)
+  * [Native app development with sttp and Scala Toolkit](https://softwaremill.com/scala-native-sttp-toolkit/)
   * sttp-oauth2 [OAuth2 Scala application with sttp-oauth2, part 1 - Dev notes](https://blog.michalp.net/posts/scala/oauth2-app-p1/)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
