@@ -288,6 +288,7 @@ Android
 * [리뷰 통합 여행 어때? — 상편. 안녕하세요 👋 여기어때 모바일 앱 개발을 담당하는 iOS 개발자… | by 김주엽Groo(그루) / 앱개발팀 | Jun, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A6%AC%EB%B7%B0-%ED%86%B5%ED%95%A9-%EC%97%AC%ED%96%89-%EC%96%B4%EB%95%8C-%EC%83%81%ED%8E%B8-a8151e9a4183)
 * [리뷰 통합 여행 어때? — 하편. 이전 글에서는 통합리뷰 프로젝트가 어떤 것인지, 어떤 고민을 해서… | by 김지영Tori(토리) / 앱개발팀 | Jun, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A6%AC%EB%B7%B0-%ED%86%B5%ED%95%A9-%EC%97%AC%ED%96%89-%EC%96%B4%EB%95%8C-%ED%95%98%ED%8E%B8-3dd3b855c00)
 * [Pluu Dev - 요약 Studio Bot - Android Developers Backstage](https://pluu.github.io/blog/android/2023/06/11/studio_bot/)
+* [메모리 잘 관리하기 - WeakReference편](https://blog.imqa.io/memory-management-weakreference/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
