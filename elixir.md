@@ -109,6 +109,7 @@ Elixir
 * [Building a Simple API Microservice with Elixir: Advantages and Disadvantages | by Rodrigo Martins | Jul, 2023 | Medium](https://medium.com/@rrmartins/building-a-simple-api-microservice-with-elixir-advantages-disadvantages-3098ac3273f6)
 * [Get Rid of Your Old Database Migrations – Andrea Leopardi](https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/)
 * [2 OTP V2 Elixir Behaviours - YouTube](https://www.youtube.com/watch?v=wgQagehNYnI)
+* [18. OTP Word Ladder Project, CRC - YouTube](https://www.youtube.com/watch?v=KTVQtATxivQ)
 * [An Introduction to Absinthe | AppSignal Blog](https://blog.appsignal.com/2023/05/16/an-introduction-to-absinthe-for-elixir.html)
 * [Absinthe for Large Elixir Applications | AppSignal Blog](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
 * [Loading a structure.sql file on Prod without mix · Fly](https://fly.io/phoenix-files/loading-structure-sql-on-prod-without-mix/?)
