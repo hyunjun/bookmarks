@@ -132,6 +132,7 @@ House
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (1) - 준비사항 : 클리앙](https://www.clien.net/service/board/lecture/17148943)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (2) - 계약갱신청구권의 이해 : 클리앙](https://www.clien.net/service/board/lecture/17152957)
 * [계약갱신 청구권을 거절당하신 임차인을 위한 사례 공유 (3) - 손해배상까지의 과정 : 클리앙](https://www.clien.net/service/board/lecture/17154278?type=recommend)
+* [계약갱신청구권 행사 - 꼭 알아둘 5가지 - 우리집 변호사](https://www.mylawstory.com/697/)
 * [회색 코뿔소, 입주물량의 역습](https://www.koreamonitor.co.kr/view.php?ud=20220312163216790bb0cd1e55_41)
 * [힙한 동네, 줄 서는 맛집 갈 때도 ‘도시계획으로 산책하기’](https://blog.toss.im/article/tales-of-the-city-5)
 * [기사 - 총력 분석 굥교로운 집값 하락의 비밀: 부동산은 무얼 먹고 자라는가](https://www.ddanzi.com/ddanziNews/747153446)
