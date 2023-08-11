@@ -115,6 +115,8 @@ Flutter
 * [TTS - Text To Speech - 이번 블로그 포스트에서는 Flutter에서 TTS(Text To Speech) 기능를 사용하는 방법에 대해서 알아보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/tts/)
 * [앱 이름 변경 - 이번 블로그 포스트에서는 Flutter로 생성한 앱의 이름을 변경하는 방법에 대해서 살펴보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/app-name/)
 * [애니메이션 - 이번 블로그 포스트에서는 Flutter에서 간단한 애니메이션을 사용하기 위해 AnimatedContainer와 AnimatedOpacity를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/animated/)
+* [How to choose which Flutter Animation Widget is right for you? - Flutter in Focus - YouTube](https://www.youtube.com/watch?v=GXIJJkq_H8g)
+  * [올바른 애니메이션 구현 방법 선택하기. 본 아티클은 플러터 공식 유튜브 채널에 업로드된 “How to… | by Cody Yun | Aug, 2023 | Medium](https://medium.com/@cody.yun/flutter-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B5%AC%ED%98%84-%EB%B0%A9%EB%B2%95-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-46841b95c4d)
 * [Shared preferences - 이번 블로그 포스트에서는 Flutter에서 로컬에 간단한 데이터를 저장하기 위해 Shared preferences 패키지를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/shared-preferences/)
 * [SQLite - 이번 블로그 포스트에서는 Flutter에서 SQLite를 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/sqflite/)
 * [플러터 iOS 앱 실행시 iproxy 관련 경고가 뜨며 앱이 실행되지 않는다면?](https://www.androidhuman.com/2021-07-14-flutter_ios_iproxy)
