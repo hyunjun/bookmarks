@@ -533,6 +533,7 @@ Business
 * [The RACI matrix: Your blueprint for project success | CIO](https://www.cio.com/article/287088/project-management-how-to-design-a-successful-raci-project-plan.html)
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
 * [오늘회와 커머스 플랫폼 전략](https://www.facebook.com/whyhyo/posts/pfbid02b6UXo9FfWzZvbm7R14pnbyXYfRkHa4yF6g8fG7PhKCeRaXhXXMo6nf1KNSzSidf2l) 오늘회 반면교사
+* [플랫폼 구축 방법, 어떻게 해야 성공할까? – IT의 중심에서](https://subokim.wordpress.com/2012/03/13/dead-platform/)
 * [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
 * [대표님, 왜 우리는 목적 없이 일해야 하나요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/215281)
 * [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
