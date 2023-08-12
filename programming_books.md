@@ -2307,6 +2307,7 @@ Programming Books
 * (NOT YET) [함수형 자바스크립트 프로그래밍 - 도서출판 인사이트](https://ebook.insightbook.co.kr/book/62)
   * 한라 005.138-유68ㅎ 우당 문005.138-유69ㅎ
 * (NOT YET) [쉽게 시작하는 타입스크립트 도서 리뷰 • 캡틴판교](https://joshua1988.github.io/web-development/typescript-easy-start/)
+  * [쉽게 시작하는 타입스크립트 책 리뷰 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/books/%EC%89%BD%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%B1%85-%EB%A6%AC%EB%B7%B0/)
 
 ## Angular
 
