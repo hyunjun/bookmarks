@@ -1011,6 +1011,8 @@ NLP
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
   * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
   * [Microsoft Releases DialogGPT AI Conversation Model](https://www.infoq.com/news/2019/11/microsoft-ai-conversation/)
+* [generative_agents: Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+  * [Generative Agents: Interactive Simulacra of Human Behavior 논문의 소스코드 공개](https://www.facebook.com/groups/255834461424286/?multi_permalinks=2101953426812371)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
   * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
