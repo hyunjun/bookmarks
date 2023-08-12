@@ -2330,6 +2330,8 @@ Java
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
   * [효율적인 JUnit 사용 방법과 유용한 팁 | 요즘IT](https://yozm.wishket.com/magazine/detail/1748/)
   * [Andy assesses student's test code. It's used in CSE1110, TU Delft.](https://github.com/cse1110/andy)
+* [karate: Test Automation Made Simple](https://github.com/karatelabs/karate)
+  * [GraphQL e2e테스트 쉽게 하기 with Karate](https://velog.io/@hyemin916/GraphQL-e2e%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%89%BD%EA%B2%8C-%ED%95%98%EA%B8%B0-with-Karate)
 * [Mockito framework site](https://site.mockito.org/)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
   * [Stubbing and Mocking with Mockito and JUnit - Semaphore Tutorial](https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
