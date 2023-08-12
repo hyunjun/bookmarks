@@ -1368,6 +1368,7 @@ NLP
 * [$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw)
 * [올여름의 불타는 LLM: 세상도 불타고 나도 불타고 - Speaker Deck](https://speakerdeck.com/inureyes/olyeoreumyi-bultaneun-llm-sesangdo-bultago-nado-bultago)
 * [대규모 언어모델 너도 나도 업무에 사용해보자: To Beginner](https://d2.naver.com/helloworld/9383947)
+* [**Create a CustomGPT And Supercharge your Company with AI  -  Pick the Best LLM - The Abacus.AI Blog**](https://blog.abacus.ai/blog/2023/08/10/create-your-custom-chatgpt-pick-the-best-llm-that-works-for-you/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
