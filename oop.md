@@ -188,6 +188,7 @@
 * [Loosely-coupled 그리고 스프링 프레임워크](https://brunch.co.kr/@graypool/512)
 * [DI 적용도 생각하는 힘과 함께 하자](https://brunch.co.kr/@graypool/520)
 * [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
+* [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 * [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
   * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
 
