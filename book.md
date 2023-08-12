@@ -1660,7 +1660,7 @@ Book
   * ★★★★☆ 2021.12.12 [표지](images/sapiens0.jpg)
   * [친분의 한계 150](images/sapiens1.jpg) [corporation의 유래 corpus](images/sapiens2.jpg) [허구의 중요성](images/sapiens3.jpg)
 * [사피엔스: 그래픽 히스토리 Vol.2 문명의 기둥 -](https://jh4hj.tistory.com/entry/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-Vol2-%EB%AC%B8%EB%AA%85%EC%9D%98-%EA%B8%B0%EB%91%A5)
-  * ★★★★☆ 2022.01.24
+  * ★★★★☆ 2022.01.24 ★★★☆☆ 2023.08.12
   * [사피엔스: 그래픽 히스토리 Vol.2 문명의 기둥. 골드마인: 물론 개인의 관점에서 보면 농업은 위대한 아이디어가 아닐지도… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EC%82%AC%ED%94%BC%EC%97%94%EC%8A%A4-%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-vol-2-%EB%AC%B8%EB%AA%85%EC%9D%98-%EA%B8%B0%EB%91%A5-c65009c07d53)
 * [오듀본, 새를 사랑한 남자](https://brunch.co.kr/@siestajin/5)
   * ★★★☆☆ 2021.12.12 [표지](images/audubon0.jpg) [일생](images/audubon1.jpg)
