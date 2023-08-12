@@ -5506,6 +5506,8 @@ Programming
 # Safe, Secret
 * [blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
   * [blackbox 설정](https://medium.com/@strncpy/blackbox-설정-80e1b8700e9d)
+* [Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks](https://github.com/Infisical/infisical)
+  * [Infisical – 오픈소스 HashiCorp Vault 대안 | GeekNews](https://news.hada.io/topic?id=10313)
 * [logto: 🧑🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support](https://github.com/logto-io/logto)
   * [Logto - 오픈소스 사용자 아이덴티티 솔루션 | GeekNews](https://news.hada.io/topic?id=7020)
 * [Vault - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
