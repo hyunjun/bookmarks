@@ -1149,10 +1149,6 @@ Programming
 * [Architecture > Presentations > Page #1](https://www.infoq.com/architecture/presentations/)
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/agoda/agoda_design.md)
 * [**10가지 소프트웨어 아키텍쳐 패턴 요약**](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)
-* [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
-* [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
-* [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
-* [**12명의 Architect에게 물어 본 “아키텍트의 길” | Architecture 101**](https://architecture101.blog/2010/11/25/meet_the_12architects/)
 * [**대규모 소프트웨어 패턴 강좌 업데이트 | Architecture 101**](https://architecture101.blog/2023/02/11/welcome_2_pattern_worlds/)
 * [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
@@ -1334,6 +1330,10 @@ Programming
   * 호캉스를 가기 위한 정보를 찾는 불편을 해소하기 위해 호캉스 서비스를 만들면서 기획부터 만들기까지 5일이 소요
   * Supabase로 백엔드 구성, Next.js로 프론트엔드, Cloudflare Pages에 배포, react-native-webview로 안드로이드 앱, retool로 관리페이지
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
+* [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
+* [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
+* [**12명의 Architect에게 물어 본 “아키텍트의 길” | Architecture 101**](https://architecture101.blog/2010/11/25/meet_the_12architects/)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
 * [How to Become a Great Software Architect • Eberhard Wolff • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
@@ -1343,6 +1343,7 @@ Programming
 * [Don’t lose touch as a ‘Software Architect’ going into 2022 | by Ryan Susana | Dec, 2021 | Medium](https://medium.com/@ryansusana/dont-lose-touch-as-a-software-architect-going-into-2022-d481801cbb57)
 * [글로벌 칼럼 | 클라우드 아키텍트는 AI로 대체될까? - ITWorld Korea](https://www.itworld.co.kr/news/274585)
 * [Confessions of an Enterprise Architect • Scott Shaw • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=I1IrRu2SD90)
+* [The Role of a System Architect - DEV Community](https://dev.to/jesalg/the-role-of-a-system-architect-1pgl)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
