@@ -135,6 +135,7 @@ PHP
 * [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
 * [PHPStorm 환경에서 Mess Detector, Code Sniffer 설정하기 - 완두블로그](https://wani.kr/posts/2015/11/03/phpmd-phpcs-in-phpstorm-env/)
 * [Laravel 모범 사례: 루틴을 자동화하는 방법 | The PhpStorm Blog](https://blog.jetbrains.com/ko/phpstorm/2023/06/laravel-best-practices-how-to-automate-your-routine/)
+* [PhpStorm의 라라벨 지원 – 사실상 구독제로 유료화 | 웹으로 말하기](https://mytory.net/archives/14694)
 
 # TDD, Test
 * [Reflection을 활용한 Private Method Test - 완두블로그](https://wani.kr/posts/2015/05/07/mockery-reflection/)
