@@ -2415,6 +2415,7 @@ Programming
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
   * [Istio as a Platform for Running Microservices - YouTube](https://www.youtube.com/watch?v=5llsJLJmZsg)
   * [토스ㅣSLASH 23 - 고객 불안을 0으로 만드는 토스의 Istio Zero Trust - YouTube](https://www.youtube.com/watch?v=4sJd6PIkP_s)
+  * [istio proxy의 작동원리](https://brunch.co.kr/@growthminder/84)
   * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
     * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
       * Istio의 ambient mesh를 위한 ztunnel(zero trust tunnel) 컴포넌트는 HTTP 트래픽을 종료하거나 헤더를 파싱하지 않고 mTLS, 인증, L4 인가, 텔레메트리를 위한 기능을 가지고 있으며 Kubernetes 워커 노드에서 실행되어 최소한의 리소스 풋 프린트를 남기는 것이 중요
@@ -5169,7 +5170,10 @@ Programming
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
+  * [**카카오페이만의 AB 테스트 서비스를 만든 이유 | 카카오페이 기술 블로그**](https://tech.kakaopay.com/post/kakaopay-growth-platform-abtest/)
+  * [Relational algebra - SQL Interpreter by Antlr](https://www.daddyprogrammer.org/post/13539/relational-algebra-sql-interpreter-by-antlr/)
   * [Antlr4 demo for Clojure](https://github.com/philoskim/antlr-demo)
+  * [grammars-v4: Grammars written for ANTLR v4; expectation that the grammars are free of actions](https://github.com/antlr/grammars-v4)
   * [plang](https://github.com/urstory/plang)
     * [간단한 프로그래밍 언어 만들기](https://obsidian-marquess-874.notion.site/32db4bb2b43b487aa17000f7f0f7cd95)
 * [Tree-sitter｜Introduction](https://tree-sitter.github.io/tree-sitter/)
@@ -5996,6 +6000,7 @@ Programming
 * hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
 * [KPI_ABTest.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/KPI_ABTest.md)
   * [What Do You Measure In AB Testing? EXPLAINED BY A FORMER GOOGLE DATA SCIENTIST - YouTube](https://www.youtube.com/watch?v=5Qw05CvbH1g)
+* [Wasabi A/B Testing service is an open source project that is no longer under active development or being supported](https://github.com/intuit/wasabi)
 
 ## TDD, Test, A/B test alternatives
 * [A/B 테스트를 적용하기 어려울 때, 이벤트 효과 추정하기 (2020-01-18 잔디콘)](https://www.slideshare.net/lumiamitie/ab-20200118-224983073)
