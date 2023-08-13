@@ -342,6 +342,7 @@ Business
 * [Free Trial SaaS 기업 600개를 설문하고 배운 10가지](https://blog.relate.kr/free-trial-survey/)
 * [구독모델과 SaaS 사업](https://brunch.co.kr/@graypool/526?mibextid=3f2an5)
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
+* [SaaS 전성시대라는데.. 왜 대기업은 SaaS를 안 살까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saasbuy20220517)
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
 * [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
