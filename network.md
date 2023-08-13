@@ -312,6 +312,7 @@ Network
 * [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
 * [SSL Handshake Failure | codersite](https://codersite.dev/ssl-handshake-failure/)
 * [SSL Handshake Failure. The Secure Socket Layer (SSL) enables a… | by Moises Gamio | May, 2022 | Medium](https://medium.com/@mkgv89/ssl-handshake-failure-66ffb42cff4)
+* [안전하지 않은 네트워크에서 안전한 통신을 위한 HTTPS(SSL/TLS)](https://blog.naver.com/pjt3591oo/223182332474)
 
 # IP address
 * ifconfig.co [What is my IP address? — ifconfig.co](https://ifconfig.co/)
