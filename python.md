@@ -3617,6 +3617,7 @@ Python
   * [Python의 최적화 그리고 C 바인딩 이야기. 한성민 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Nc2knz0tv6U)
   * [A Tour of CPython Compilation - DEV Community](https://dev.to/cwprogram/a-tour-of-cpython-compilation-cd5)
   * [CPython 코드로 보는 파이썬의 심층 세상 - Speaker Deck](https://speakerdeck.com/kennethanceyer/cpython-kodeuro-boneun-paisseonyi-simceung-sesang?slide=58)
+  * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
