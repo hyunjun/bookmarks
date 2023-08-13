@@ -4490,6 +4490,7 @@ Python
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
+  * [setup-python을 내가 원하는 Linux 환경에서 실행해도 될까? - Google Slides](https://docs.google.com/presentation/d/1kOM59SzUWvpTCvCc5DmW2jhbQEpKOjF5iF56WQFsQuo/edit#slide=id.p)
   * [독립적인 가상의 파이썬 실행환경, virtualenv (1)](http://ulismoon.tistory.com/2)
   * [독립적인 가상의 파이썬 실행환경, virtualenv (2)](http://ulismoon.tistory.com/3)
   * [pip와 virtualenv를 이용한 파이썬 디플로이먼트](http://yong27.biohackers.net/373)
