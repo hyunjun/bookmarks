@@ -670,6 +670,7 @@ Business
 * [UX Research Lab 이야기(2) 프로토타입 평가받기 | by Sooyoung Jung | Jan, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/ux-research-lab-%EC%9D%B4%EC%95%BC%EA%B8%B0-2-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%ED%8F%89%EA%B0%80%EB%B0%9B%EA%B8%B0-d48750051446)
 * [직원 경험(Employee Experience)의 시대 > Insight | HCG](https://www.e-hcg.com/bbs/board.php?bo_table=gallery&wr_id=71)
 * [혁신이 파괴적일 필요는 없다](https://brunch.co.kr/@graypool/999)
+* [**DANO 모형**](https://dano.oopy.io/34b0bff7-e0a2-4201-a47f-2c6b60937e72)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
