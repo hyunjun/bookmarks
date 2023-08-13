@@ -1727,6 +1727,7 @@ App
   * [노션 마인드맵 처럼 목표 이루는 과정 mermaid](https://blog.naver.com/tolovefeels/222628708820)
   * [Mermaid JS: Finally There's A Great UML & Diagram Drawing Tool - YouTube](https://www.youtube.com/watch?v=JiQmpA474BY)
   * [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)
+  * [Mermaid + draw.io + Bing AI to Build System Diagrams - YouTube](https://www.youtube.com/watch?v=JM1G9ETz1DM)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [Ok! So... Draw online](https://okso.app/)
