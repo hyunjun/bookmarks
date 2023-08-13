@@ -259,3 +259,4 @@ Elixir
 * [중급 3년차 Concurrent Data Processing in Elixir - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7TnAfMbYy-JKYzYjFXHxk9K)
 * [중급 3년차 Functional Web Development with Elixir, OTP, and Phoenix - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7Ras5eVxmUYx8i8zebhsMQh)
 * [Mobile Convergence :: Elixir 기초 시작하기 및 타입, 연산, 함수](https://mobicon.tistory.com/596)
+* [1. Elixir Motivation - YouTube](https://www.youtube.com/watch?v=uq_4iwWZ998)
