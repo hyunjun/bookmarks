@@ -172,6 +172,7 @@ Product
 * [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 * [Why Are Topre Keyboards So Expensive? - Switch and Click](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
 * [내가 써본 최고의 기계식 키보드 TOP5 / 2022년 신제품 포함 - YouTube](https://www.youtube.com/watch?v=R_VKJJ7cctg)
+* [Keys To A Dream Software Development Setup - YouTube](https://www.youtube.com/watch?v=pK41Mr4Kdd0)
 * [타이핑 웍스 typing works](https://typing.works/)
 * [AM AFA](https://www.angrymiao.com/am-afa/)
 * DAREU [갓성비라 불리고 있는 키보드 - YouTube](https://www.youtube.com/watch?v=Sbp1wy_I_m4)
