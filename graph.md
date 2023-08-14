@@ -241,6 +241,8 @@ Graph
 * [BitShares - Introducing BitShares Object Graph](http://bytemaster.bitshares.org/article/2014/12/24/Introducing-BitShares-Object-Graph/)
 * [Cayley - An open-source graph database](https://github.com/google/cayley)
 * [chemlambda-gui](https://github.com/chorasimilarity/chemlambda-gui/blob/gh-pages/dynamic/README.md) chemlambda is an artificial chemistry based on a graph rewrite system and various (random or deterministic) algorithms for applications of rewrites
+* [Cytoscape.js](https://js.cytoscape.org/)
+  * [토폴로지 라이브러리 Cytoscape.js 라벨에 이미지 표시 | 웹으로 말하기](https://mytory.net/archives/14714)
 * D3.js
   * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
   * [Replacing jQuery with D3](http://blog.webkid.io/replacing-jquery-with-d3/)
