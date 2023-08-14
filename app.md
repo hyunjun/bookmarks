@@ -1078,10 +1078,12 @@ App
     * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
       * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
   * [vscode.dev Visual Studio Code for the Web](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
+    * [vscode.dev](https://vscode.dev/)
     * 웹브라우저에서 VS Code 실행. GitHub의 Codespace는 이 VS Code for web을 GitHub과 더 통합한 버전
     * GitHub의 microsoft/vscode 저장소를 vscode.dev에서 열려면 vscode.dev/github/Microsoft/vscode로 접근
     * [vscode.dev 공개 | GeekNews](https://news.hada.io/topic?id=5235)
     * [The VS Code Server](https://code.visualstudio.com/blogs/2022/07/07/vscode-server)
+    * [노트북없이 코딩하는 법 - YouTube](https://www.youtube.com/watch?v=SYcInXWOC40)
 
 # Firefox
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
