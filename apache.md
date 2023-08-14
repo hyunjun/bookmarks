@@ -591,6 +591,7 @@ Apache
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
   * [카프카 기반의 대규모 모니터링 플랫폼 개발이야기](https://www.slideshare.net/ifkakao/2019-kafkakru-issac)
+  * [2nd-meetup at master · kafkakru/meetup](https://github.com/kafkakru/meetup/tree/master/meetup/2023-meetup/2nd-meetup)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
 * [CDC & CDC Sink Platform 개발 1편 - CDC Platform 개발 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/01/11/cdc-platform.html) Event Bus, Event Driven
 * [CDC & CDC Sink Platform 개발 2편 - CDC Sink Platform 개발 및 CQRS 패턴의 적용 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/22/cdc-sink-platform.html)
