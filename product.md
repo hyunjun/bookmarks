@@ -134,6 +134,7 @@ Product
 * [자동차 컵 홀더를 잇하게 만들어주는 5가지 아이템](http://www.earlyadopter.co.kr/59866)
 
 # Desk
+* [높이조절책상 비교 총정리ㅣ허리에 좋은 책상 추천ㅣ20만원대 모션데스크 - YouTube](https://www.youtube.com/watch?v=3boOHsOTje0)
 * [루나랩 수동 높이조절 책상 모션데스크 블랙 1200mm : LUNA LAB](https://lunalab.co.kr/desk/?idx=78)
 * [Refold - cardboard standing desk](http://www.refold.co/)
 
