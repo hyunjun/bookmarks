@@ -2024,6 +2024,7 @@ AWS
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
   * [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
+  * [Mountpoint for Amazon S3 정식 출시 – 오픈 소스 기반 파일 시스템 클라이언트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
 
 # SAM Serverless Application Model
 * [What is the AWS Serverless Application Model (AWS SAM)? - AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
