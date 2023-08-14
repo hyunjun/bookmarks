@@ -971,6 +971,7 @@ Java
     * G1은 GC 일시 정지 중 오버헤드를 줄이기 위한 로컬 할당 버퍼(PLAB)를 사용하는데 이 공간이 낭비되거나 부족한 현상을 줄이기 위해 PLAB의 크기를 조정하는 기능 추가
     * Young generation의 크기 결정에 대한 예측 개선으로 GC 횟수 감소
     * 예방적 GC를 기본적으로 비활성화
+* [개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20 | 요즘IT](https://yozm.wishket.com/magazine/detail/2164/)
 
 # Java21
 * [JEP 444: Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/)
