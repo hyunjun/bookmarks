@@ -2063,6 +2063,7 @@ Programming
   * caching
 * [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
+* [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
