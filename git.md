@@ -1085,6 +1085,7 @@ Git
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
   * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
   * [**git merge 커밋 리버트(revert)**](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)
+  * [머지 커밋 revert 하기](https://yeonyeon.tistory.com/311)
 * `scalar`
   * [The Story of Scalar | The GitHub Blog](https://github.blog/2022-10-13-the-story-of-scalar/)
     * 이번 Git v2.38.0에 포함된 `scalar` 명령어는 대규모 저장소의 성능 문제를 특별히 해결하기 위한 명령어
