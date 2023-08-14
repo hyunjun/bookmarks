@@ -5009,6 +5009,7 @@ Javascript
   * [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
   * [Demystifying React Server Components with NextJS 13 App Router](https://demystifying-rsc.vercel.app/)
     * RSC를 처음 접하거나 또는 RSC가 어떻게 작동하는지에 대해 더 많이 이해하고자 하는 개발자를 대상으로 Next.js 13의 서버 컴포넌트 개념과 코드를 단계별로 이해해 볼 수 있는 튜토리얼
+  * [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh | by Anik Routh | Aug, 2023 | Medium](https://anikrauth.medium.com/the-power-of-server-side-rendering-in-next-js-faster-loading-better-performance-by-anik-routh-da2144e027f8)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
