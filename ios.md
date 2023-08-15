@@ -595,6 +595,7 @@ iOS
 * [SwiftUI - Custom ScrollTabView :: iOYES](https://green1229.tistory.com/387)
 * [SwiftUI - monospaced를 이용한 Text 고정폭 설정하기 :: iOYES](https://green1229.tistory.com/390)
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
+* [SwiftUI로 음성메모 구현하기 :: iOYES](https://green1229.tistory.com/396)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
