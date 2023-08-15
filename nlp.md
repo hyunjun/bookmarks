@@ -1886,6 +1886,7 @@ NLP
   * [AI 모델 탐험기 #3 모델 Fine-Tuning(feat. Teachable NLP) | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-3-%EB%AA%A8%EB%8D%B8-fine-tuning-feat-teachable-nlp-557677764abf)
 * [ttmik: Talk to me in Korean Anki cards and related scripts](https://github.com/karpathy/ttmik)
 * [TUNiBridge](https://tunibridge.ai/)
+* [yok_mask: 비속어 마스킹 API with 인공지능](https://github.com/yoonhero/yok_mask)
 
 ## Library Java
 * [한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
