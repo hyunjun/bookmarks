@@ -2382,6 +2382,12 @@ App
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
   * [윈도우 터미널 설치하기](http://dalinaum.github.io/windows/2021/03/10/windows-terminal.html)
+* [UUP dump](https://uupdump.net/)
+  * [Windows 11 on Apple Silicon Macs w/ FREE VMware Player - YouTube](https://www.youtube.com/watch?v=za2CyrxKYFs)
+  * [Arm 맥에 VMware Fusion + Win 11 Arm 설치](https://velog.io/@nonz/Arm-%EB%A7%A5%EC%97%90-VMware-Fusion-Win-11-Arm-%EC%84%A4%EC%B9%98)
+    * 설치 명령은 `readme.unix.md` 보고 해야 update된 명령으로 실행 가능
+    * 그럼에도 오류가 있어서 다음 link를 가서 수정 실행 후 성공
+      * [Mac M1 chntpw not building (Openssl 1.0 requirement not satisfied) · Issue #2 · sidneys/homebrew-homebrew](https://github.com/sidneys/homebrew-homebrew/issues/2)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
