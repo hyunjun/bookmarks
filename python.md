@@ -1463,6 +1463,8 @@ Python
 * tarfile
   * [Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar? - Super User](https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac)
   * [Python tarfile tar.gz 패키징/언패키징](https://blog.warpmemory.com/63)
+* tee
+  * [python tee 로 iterable에서 여러 이터레이터를 만들어 봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/08/14/python-tee-%EB%A1%9C-iterable%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * `timeit`
   * [practice timeit](https://gist.github.com/hyunjun/108701fa3436710c39fd)
   * [practice timeit - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
