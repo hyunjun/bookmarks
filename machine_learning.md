@@ -1538,6 +1538,7 @@ Machine Learning
   * ["가속기를 단 넘파이" 구글 JAX 시작하기 - ITWorld Korea](https://www.itworld.co.kr/news/245590)
   * [Unfolding the paper windmills - presented by Mai Giménez - YouTube](https://www.youtube.com/watch?v=_Lhix9keTss)
   * [Simon Pressler: Getting started with JAX - YouTube](https://www.youtube.com/watch?v=yDYiiVVkBXY)
+  * [Keras 에서 Jax, Flax 로 코드를 옮겨본 소감 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4593)
   * [haiku-baseline](https://github.com/TinkTheBoush/haiku-baseline)
 * [lazypredict: Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning](https://github.com/shankarpandala/lazypredict)
 * [mango: Parallel Hyperparameter Tuning in Python](https://github.com/ARM-software/mango)
