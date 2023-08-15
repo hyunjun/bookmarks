@@ -234,6 +234,7 @@ Network
 * [네트워크 및 http 기초와 실습 | Programming Cloud-Native](https://tech.gitple.io/2021/09/07/network-http-practice/)
 * [HTTP에 대해서 알아보자(정의와 구조)](https://velog.io/@couchcoding/HTTP%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%EC%A1%B0)
 * [HTTP-2 Session, Cookie, JWT에 대해서 알아보자](https://velog.io/@couchcoding/HTTP-2-HTTP%EC%97%90%EC%84%9C-%EC%83%81%ED%83%9C%EB%A5%BC-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-Session-Cookie)
+* [서버 httpOnly와 secure 옵션으로 알아보는 쿠키](https://blog.naver.com/pjt3591oo/223183982479)
 * [HTTP Cache 업데이트로 더 강력한 보안 및 개인 정보 보호하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220223)
 * [HTTP 캐시 (Cache-Control, 유효성 검증 및 조건부 요청 등)](https://hudi.blog/http-cache/)
 * [HTTP 캐시 무효화 (Cache Busting)](https://hudi.blog/http-cache-busting/)
