@@ -1325,6 +1325,7 @@ Web
   * [Generate Python FastApi Rest Client & Server - YouTube](https://www.youtube.com/watch?v=52MRyaOPmF4)
   * [How to Use FastAPI: A Detailed Python Tutorial - YouTube](https://www.youtube.com/watch?v=SORiTsvnU28)
   * [광고 시스템 퍼포먼스 튜닝 회고록. 신규 광고 시스템 운영 과정에서 발생한 퍼포먼스 이슈와 그에 대한 해결… | by Youngsik Choo | Jul, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%ED%8A%9C%EB%8B%9D-%ED%9A%8C%EA%B3%A0%EB%A1%9D-a658e40842d6)
+  * [Why You NEED To Learn FastAPI | Hands On Project - YouTube](https://www.youtube.com/watch?v=cbASjoZZGIw)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
