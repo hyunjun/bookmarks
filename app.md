@@ -1705,6 +1705,7 @@ App
   * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
   * [Create Beautiful Architecture Diagrams with Python | by Dylan Roy | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97)
   * [Diagrams Sandbox - 웹에서 코드로 그리는 인프라 다이어그램 | Homin Lee's blog](https://homin.dev/blog/post/20220925_diagrams_sandbox_on_web/)
+  * [파이썬 diagrams 라이브러리를 이용한 클라우드 아키텍처 만들기 #python #aws - YouTube](https://www.youtube.com/watch?v=SRuPphDiKLg)
 * [Diagram as Code - by Alex Xu - ByteByteGo Newsletter](https://blog.bytebytego.com/p/diagram-as-code) diagrams, mermaid, ascii editor, plantuml, markmap, go diagrams
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [Domain Story Modeler](https://www.wps.de/modeler/)
