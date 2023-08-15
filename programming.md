@@ -5718,6 +5718,7 @@ Programming
 * [One Rule to Rule Them All • Pragmatic Dave Thomas • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=QvK3Pxmwcyc)
 * [How to Reverse Software Entropy • Saleem Siddiqui • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=U3sWzKnMIbk)
 * [Why Your Software Team Can't Scale • Dave Farley • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=c8zGpqjJzAE)
+* [배민스토어 서비스개발 팀장의 일반셀러 프로젝트 진행기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13030/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
