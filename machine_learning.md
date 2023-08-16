@@ -711,6 +711,7 @@ Machine Learning
 * [머신러닝 규칙:  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/guides/rules-of-ml?hl=ko)
 * [Practical advice for analysis of large, complex data sets](https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
   * [복잡한 대규모 데이터 세트의 분석에 대한 실무 조언](https://velog.io/@aldente0630/practicaladviceforanalysisoflargecomplexdatasets)
+* [확실히 알아두면 만사가 편해지는 머신러닝 10가지 알고리즘 | 요즘IT](https://yozm.wishket.com/magazine/detail/1931/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
