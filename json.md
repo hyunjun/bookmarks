@@ -228,6 +228,7 @@ Json
   * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
   * [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
   * [gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
+  * [jqlang](https://github.com/jqlang) 커맨드라인에서 JSON 데이터를 쉽게 처리해 주는 jq가 5년의 공백을 빼고 jqlang 조직으로
 * [JQL — Rust based JSON Query Language | by Robby Boney | Short Bits | Medium](https://medium.com/short-bits/jql-rust-based-json-query-language-ed1d7c6a1ae0)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * [jsend: JSend is a specification for a simple, no-frills, JSON based format for application-level communication](https://github.com/omniti-labs/jsend)
