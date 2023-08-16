@@ -1348,6 +1348,7 @@ NLP
 * [Building the data framework for LLMs | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/building-the-data-framework-for-llms-bca068e89e0e)
 * [Build and Evaluate LLM Apps with LlamaIndex and TruLens | by Jerry Liu | LlamaIndex Blog | Jun, 2023 | Medium](https://medium.com/llamaindex-blog/build-and-evaluate-llm-apps-with-llamaindex-and-trulens-6749e030d83c)
 * [Build and Scale a Powerful Query Engine with LlamaIndex and Ray | Anyscale](https://www.anyscale.com/blog/build-and-scale-a-powerful-query-engine-with-llamaindex-ray)
+* [Building Advanced Query Engine and Evaluation with LlamaIndex and W&B | llama-index-report – Weights & Biases](https://wandb.ai/ayush-thakur/llama-index-report/reports/Building-Advanced-Query-Engine-and-Evaluation-with-LlamaIndex-and-W-B--Vmlldzo0OTIzMjMy)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
