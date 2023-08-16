@@ -1671,6 +1671,14 @@ Programming
   * [Software Architecture Styles and Patterns Cheat Sheet](https://zonito.gumroad.com/l/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet)
 * [Energy-Efficient Software Architecture for Developers • Henrik Bærbak Christensen • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=xVKJvUHCanQ)
 * [EP68: Top architectural styles - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep68-top-architectural-styles)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction | LinkedIn Engineering](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+  * [**소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것. Apache Kafka의 탄생배경을 따라가보기 | by scalalang2 | RATE Labs | Aug, 2023 | Medium**](https://medium.com/rate-labs/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%A1%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0-%EA%B2%83-11513af8b998) 매우 좋은 글
+    * Kafka를 만든 Jqy Kreps가 2013년에 작성한 글을 번역 정리한 글
+    * Kafka를 만들면서 고민한 로그에 대한 생각
+      * 여기서 로그는 애플리케이션 로그가 아니라 추상화된 저장소로 이벤트가 시간 순서대로 정렬된 자료구조 의미
+      * 데이터베이스, 분산 합의 알고리즘, 합의, 버전 제어 등에 모두 로그 사용
+      * 이 로그를 데이터 통합, 실시간 처리, 시스템 구축에서 어떻게 사용하는지 설명
+    * 10년 전 글이지만 중간에 작성자의 의견과 추가 정보가 담겨 있어서 더 이해하기 좋음
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
