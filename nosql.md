@@ -525,6 +525,7 @@ NoSQL
 * [MongoDB 이해하기 | kciter.so](https://kciter.so/posts/about-mongodb)
 * ['Node.js+MongoDB' 카테고리의 글 목록 :: radderveloper](https://radderveloper.tistory.com/category/Node.js%2BMongoDB)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
+* [분산디비지만 노출은 하고싶어 - mongo로 노출 전용 DB 만들기](https://d2.naver.com/helloworld/4381253)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
 * Mongoose
