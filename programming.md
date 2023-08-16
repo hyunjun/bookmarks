@@ -1304,6 +1304,7 @@ Programming
   * 문제를 정의하고 이를 풀기 위한 틀을 기획한다면? 추상화 수준 상향(거인의 어깨 위)
 * [추상화는 추상적이지 않다. 프로그래머라면 언젠가는 마주해보았을 단어가… | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EC%B6%94%EC%83%81%ED%99%94%EB%8A%94-%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8B%A4-9bc27b34daba)
 * [추상이란 무엇일까 | Evans Library](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
+* [소프트웨어 설계를 위한 추상적, 구조적 사고 · Present](https://present.do/documents/64db4b7310ab9a5ae5684fa9)
 * [**The Grand Unified Theory of Software Architecture - danuker | freedom & tech**](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) I/O at the top & decoupling, pure function
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
@@ -5116,6 +5117,7 @@ Programming
   * [기술 뉴스 #225 : 23-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1678)
   * [기술 뉴스 #226 : 23-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1679)
   * [기술 뉴스 #227 : 23-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1682)
+  * [기술 뉴스 #228 : 23-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1683)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
