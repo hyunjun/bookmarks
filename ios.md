@@ -141,6 +141,7 @@ iOS
 * [특정 버전에 대한 분기 처리하기 (systemVersion) :: iOYES](https://green1229.tistory.com/388)
 * [available 심층 탐구하기 :: iOYES](https://green1229.tistory.com/389)
 * [아이폰 사파리 vh 스크롤 문제 해결책: dvh(Dynamic Viewport Height) | 웹으로 말하기](https://mytory.net/archives/14685)
+* [아이폰 특유의 button 모양 없애는 -webkit-appearance: none 제대로 사용하기 | 웹으로 말하기](https://mytory.net/archives/14719)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
