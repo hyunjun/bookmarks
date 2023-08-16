@@ -3894,7 +3894,11 @@ Javascript
 * [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
 * [Deploying React Applications to Github Pages](https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a)
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
-* [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975)
+* [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975/)
+  * React 16에서 도입되고 계속 개선되고 있는 React의 코어 아키텍처인 파이버를 살펴보는 글
+  * 사전 지식을 위해 React가 DOM을 어떻게 업데이트하는지 설명
+  * 파이버가 DOM을 업데이트할 때 Render, Reconcile, Commit, Update 단계 중
+    * Reconcile의 파이버 코드를 따라가면서 어떻게 업데이트하는지 자세히 설명
 * [React with TypeScript Crash Course - YouTube](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 * [create-react-app에서 TypeScript - create-react-app으로 생성한 React 프로젝트에 TypeScript를 적용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/typescript/)
 * [How to create react js project with typescript easily - YouTube](https://www.youtube.com/watch?v=-uz03TtfJ5c)
@@ -4394,6 +4398,15 @@ Javascript
 * [10분 테코톡 솔로스타의 React 렌더링 - YouTube](https://www.youtube.com/watch?v=eBDj0B0HbEQ)
 * [RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5](https://github.com/reactwg/server-components/discussions/5)
   * Dan Abramov가 React Server Components(RSC)의 초 간단 버전을 처음부터 만들어 보는 튜토리얼을 작성하는데 그 첫 번째 글로 Server Components를 설명하는 1편
+* [Speeding up the dbt™ docs by 20x with React Server Components | Dagster Blog](https://dagster.io/blog/dbt-docs-on-react)
+  * dbt에서 생성하는 문서가 Angular 1으로 만들어져 있고 너무 느렸기 때문에 이를 개선하기로 결정
+    * [dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
+  * 짧은 시간에 포팅해서 정적 웹사이트로 컴파일해야 했기 때문에 클라이언트 렌더링 대신 정적 HTML 페이지로 만들기로하고
+    * Next.js와 React Server Component로 포팅하기로 결정
+  * angular를 React로 포팅은 금방 할 수 있었지만, 너무 큰 JSON을 `import()`에 사용하는 실수를 했지만 금방 해결
+  * 검색과 파일 트리는 해당 데이터만 내려주는 엔드포인트를 만들어서 해결
+  * 정적 파일로 만들어서 `.html` 확장자가 없어서 생기는 문제는 `trailingSlash`로 해결하면서 관련된 성능 문제도 같이 해결
+  * 포팅 후 속도가 10배 이상 향상
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
