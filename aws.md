@@ -2022,6 +2022,16 @@ AWS
 * [How to understand and if possible reduce your AWS S3 bill? | by Fernando Hönig | Medium](https://medium.com/@fernandohonig/how-to-understand-and-if-possible-reduce-your-aws-s3-bill-25e8182e2a92)
 * [AWS S3를 이용한 이미지 처리(저장,조회,삭제,다운로드)](https://velog.io/@rnqhstlr2297/AWS-S3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B2%98%EB%A6%AC%EC%A0%80%EC%9E%A5%EC%A1%B0%ED%9A%8C%EC%82%AD%EC%A0%9C)
 * [Building and operating a pretty big storage system called S3 | All Things Distributed](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+  * AWS S3의 VP인 Andy Warfield의 USENIX FAST 기조연설을 글로 정리
+  * 교수로 일하다가 S3 팀에서 일하게 되었는데 S3의 수많은 구성 요소를 각 팀이 담당하고 있어서 소프트웨어, 하드웨어, 사람으로 구성
+  * HDD는 비용 효율적이므로 S3에서도 많이 사용
+    * 현시점에 가장 큰 HDD는 26TB인데 첫 HDD인 RDMAC이후 60억 배 저렴해 졌지만 기계식이므로 탐색시간은 150배 정도만 개선
+    * 이는 S3가 처음 출시되었을 때도 비슷한 읽기/쓰기 속도이므로 S3 설계의 핵심
+      * 이 I/O를 관리하는 것이 가장 중요하고 이를 Managing heat라고 부름
+      * heat는 특정 시점에 특정 디스크의 도달하는 요청 수
+      * 이를 잘못 관리하면 특정 디스크에 핫스팟 발생
+      * 이를 균등하게 분산하고 복제는 이 부분에서도 도움
+  * 특히 S3에 합류한 이후 소프트웨어로만 생각하는 것으로 충분치 않고 S3라는 시스템은 이를 운영하는 조직과 사용하는 고객의 코드도 포함된다는 것을 배움
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
   * [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
@@ -2233,6 +2243,12 @@ AWS
     * 하지만 이보다 복잡한 트리거를 위해 Terraform Cloud/Enterprise에서 사용할 수 있는 `tfe_workspace_run`를 Mitchell Hashimoto가 초기 구현 후 실제 기능으로 통합
     * 이를 이용하면 Terraform 구성에서 다른 워크스페이스 간의 실행 의존성에 다양한 조건을 넣어서 연결 가능
 * [Terraform AWS RDS Provisioning Practical Guide](https://devopscube.com/terraform-aws-rds)
+* [Maturing your Terraform workflow](https://www.hashicorp.com/blog/maturing-your-terraform-workflow)
+  * HashiCorp에서 성숙한 Terraform 워크플로를 만드는 방법 설명
+  * 클라우드 플랫폼은 내버려 두면 사용하기 어려워질 수 있으므로 플랫폼 팀에서 관리 필요
+  * 보통 조직이 커지면 각 팀이 테라폼 모듈을 만들어서 모듈이 많아지는 문제와 이를 공통화하면서 너무 큰 모듈이 생성되는 패턴 발생
+    * 이는 쉬운 80%의 사용사례에 집중하는 파레토의 원칙을 적용해서 간결한 모듈 유지 가능
+    * 이렇게 만들어진 모범 사례를 장려하고 자동화를 통해 배포 속도 향상 가능
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
