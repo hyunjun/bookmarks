@@ -1734,6 +1734,7 @@ Docker
 * [NCP에서 k8s 사용하기 - 사설 registry 이용](https://blog.naver.com/pjt3591oo/223163689803)
 * [Enabling Developers in a Multi-Cloud World • Mauricio Salatino • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=NjvZxGG_8W0)
 * [The Power of Kubernetes](https://www.linkedin.com/posts/madhav-reddy-447966213_devops-kubernetes-containerization-ugcPost-7089486747515949058-dNv1/)
+* [1. 쿠버네티스의 3가지 주요 특징과 네이티브 vs 매니지드 쿠버네티스 비교 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-16-jennifer-kubernetes-1/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
