@@ -1556,6 +1556,7 @@ NLP
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 * [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
+* [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
 
 ## Language Model LM GPT
 * [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
