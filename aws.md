@@ -401,6 +401,7 @@ AWS
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
+* [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
