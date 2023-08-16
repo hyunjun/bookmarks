@@ -2388,6 +2388,7 @@ App
     * 설치 명령은 `readme.unix.md` 보고 해야 update된 명령으로 실행 가능
     * 그럼에도 오류가 있어서 다음 link를 가서 수정 실행 후 성공
       * [Mac M1 chntpw not building (Openssl 1.0 requirement not satisfied) · Issue #2 · sidneys/homebrew-homebrew](https://github.com/sidneys/homebrew-homebrew/issues/2)
+  * [VMware can FINALLY GAME on Mac and.. IT'S FREE? - YouTube](https://www.youtube.com/watch?v=Mqn1yoV_OW4) 설치중 network 연결이 안 되서 진행 못하는 문제 해결에 도움
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
