@@ -1514,6 +1514,8 @@ NLP
 * [MosaicML | Home](https://www.mosaicml.com/)
   * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
 * [open_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open_flamingo)
+  * [OpenFlaminKO: Polyglot을 활용한 image-text multimodal](https://github.com/Marker-Inc-Korea/OpenFlaminKO)
+    * [OpenFlaminKO - Polyglot-KO를 활용한 한국어 기반 MultiModal 도전기!](https://kyujinpy.tistory.com/100)
 * [OpenLLM: An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease](https://github.com/bentoml/OpenLLM)
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
