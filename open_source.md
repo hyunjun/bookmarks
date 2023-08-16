@@ -90,6 +90,12 @@ Open Source
     * 비 프로덕션에서는 무료 사용
     * 프로덕션에서는 Lightbend의 상용 라이센스 구매 필요
     * BSL이 오픈소스가 아니므로 akka는 더 이상 오픈소스가 아님
+* [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
+  * HashiCorp가 앞으로 모든 제품을 기존의 MPL 2.0이 아닌 Business Source License(BSL, BUSL)로 릴리스하겠다고 발표
+  * 여전히 오픈소스의 힘을 믿고 있지만 OSS 프로젝트를 상업적으로 사용하면서 기여를 하지 않는 업체도 있어서 변경
+  * BSL 1.1은 특정 조건에서 소스 사용이 가능하기 때문에 대부분의 사용자는 영향이 없고
+    * HashiCorp의 OSS 제품으로 상업적 서비스를 제공하는 경우 HashiCorp와 계약 필요
+  * BSL은 Couchbase, Cockroach Labs, Sentry, MariaDB, Confluent, MongoDB, Elastic, Redis Labs도 같은 이유로 만들고 채택한 라이센스
 * [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
 * [How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)
   * 오픈소스 회사가 첫 1,000명의 커뮤니티 멤버를 모으려고 어떻게 했는지 알기 위해
