@@ -1173,6 +1173,8 @@ AWS
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 * [hardeneks: Runs checks to see if an EKS cluster follows EKS Best Practices](https://github.com/aws-samples/hardeneks)
   * [About HardenEKS (install & custom)](https://heuristicwave.github.io/HardenEKS)
+  * [HardenEKS: Validating Best Practices For Amazon EKS Clusters Programmatically | Containers](https://aws.amazon.com/ko/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/)
+    * [HardenEKS: Amazon EKS 클러스터를 프로그래밍 방식으로 모범 사례 검증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically-kr/)
 
 # Elastic Beanstalk
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
