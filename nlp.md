@@ -2235,6 +2235,8 @@ NLP
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence)
 * [faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+  * [FaissImputer: Missing data imputation using Faiss for enhanced data quality](https://github.com/ScionKim/FaissImputer)
+    * [Introducing FaissImputer: Impute Missing Values using Faiss | by 김학길 | Aug, 2023 | Medium](https://medium.com/@scionkim_71044/introducing-faissimputer-impute-missing-values-using-faiss-a74a8b011b80)
   * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
