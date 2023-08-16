@@ -165,6 +165,13 @@ Programmer
 * [-10배 엔지니어가 되는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2012/)
 * [영리한 개발자와 현명한 개발자의 차이점 | 요즘IT](https://yozm.wishket.com/magazine/detail/1769/)
 * [The Platform Engineer | By Varun Achar | Razorpay Engineering](https://engineering.razorpay.com/the-platform-engineer-db2b21434911)
+* [Product and Platform Engineers | Lee Robinson](https://leerob.io/blog/product-engineers)
+  * 엔지니어를 프론트엔드와 백엔드로 구분하는 것은 점점 의미가 없어지고 이제는 프로덕트 엔지니어와 플랫폼 엔지니어로 구분해야 한다고 주장하는 글
+  * 프로덕트 엔지니어
+    * 고객의 문제 해결 집중
+    * 고객의 피드백을 받고 반복하면서 제품 개선
+    * 고객 중심으로 생각하며 기술 선택은 목적을 달성하기 위한 수단으로 생각
+  * 플랫폼 엔지니어는 제품을 만드는 인프라에 집중해서 프로덕트 엔지니어 지원
 * [ㅈ형 인재가 되어라 - Prologue 모든 사람이 T자형 인재가 될 수는 없다](https://community.rememberapp.co.kr/post/76780)
 * [ㅈ형 인재가 되어라 - 1편 대체 ㅈ형 인재란 무엇인가?](https://community.rememberapp.co.kr/post/77022)
 * [ㅈ형 인재가 되어라 - 2편 내 회사의 가치사슬 공백을 찾아라](https://community.rememberapp.co.kr/post/77585)
