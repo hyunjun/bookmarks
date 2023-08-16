@@ -321,6 +321,7 @@ Artificial Intelligence
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
+* [flasma: High-performance vector search engine with no loss of accuracy through GPU and dynamic placement](https://github.com/sionic-ai/flasma)
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
   * [Vector database - Milvus](https://milvus.io/)
   * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
