@@ -510,6 +510,7 @@
 * [A Tour of the Modern Java Platform • James Ward & Ryan Knight • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=BU_zIpQI5Dg)
   * [modern-java-springone](https://github.com/jamesward/modern-java-springone)
   * [spring-kotlin-postgres](https://github.com/jamesward/spring-kotlin-postgres)
+* [Kotlin으로 Spring AOP 극복하기! | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/overcome-spring-aop-with-kotlin/)
 * [Reactive REST API With Spring, Kotlin and Coroutines](https://codersee.com/reactive-rest-api-with-spring-kotlin-and-coroutines/)
 * [spring-kotlin-reactive/r2dbc-example at master · anomie7/spring-kotlin-reactive](https://github.com/anomie7/spring-kotlin-reactive/tree/master/r2dbc-example)
   * [리액티브 코프링 R2DBC 사용법 (들어가며)](https://anomie7.tistory.com/92)
@@ -520,6 +521,7 @@
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 - 1편](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-1편)
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 2편](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-2편) R2DBC
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 테스트 슬라이스 적용하기](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-테스트-슬라이스-적)
+  * [배민스토어 우리만의 자유로운 WebFlux Practices | 우아한형제들 기술블로그](https://techblog.woowahan.com/12903/)
 
 # TDD, Test
 * [Coroutine에서 Unit Test하는 방법에 대하여 #Kotlin](https://developer88.tistory.com/284)
