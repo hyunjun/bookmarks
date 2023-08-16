@@ -328,6 +328,17 @@ Monitoring
 * [Prometheus on NKS](https://www.slideshare.net/JoHoon1/prometheus-on-nks)
 * [쿠버네티스에서 마이크로소프트 애저 프로메테우스 모니터링 사용하기 - ITWorld Korea](https://www.itworld.co.kr/news/295759)
 * [Prometheus 설정 가이드(Auto Scale 대상 모니터링) - BESPIN Tech Blog](https://blog.bespinglobal.com/post/prometheus-%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+* [How DoorDash Migrated from StatsD to Prometheus - DoorDash Engineering Blog](https://doordash.engineering/2023/08/01/how-doordash-migrated-from-statsd-to-prometheus/)
+  * DoorDash에서 옵저버빌리티 도구로 StatsD를 사용
+    * 트래픽이 폭증할 때 같이 장애가 나서 정작 필요할 때 사용할 수가 없었기 때문에 Prometheus 기반 모니터링으로 마이그레이션
+  * StatsD는 Etsy에서 개발한 네트워크 데몬
+    * 메트릭 손실 가능성이 있고 메트릭 이름 표준화가 어렵고 히스토그램 기능이 없어 백분위수 집계가 어려워서 메트릭의 가치를 전체적으로 하락
+  * 새로운 솔루션의 요구사항
+    * 오픈 소스를 이용해서 관리 효율성 향상
+    * 표준 이름과 태그로 거버넌스 향상
+    * 마이그레이션을 원활하게 하려고 셀프서비스로 자동화 가능 필요
+  * 마이그레이션은 인프라팀이 먼저 모니터링을 새로운 시스템으로 마이그레이션
+    * 서비스팀에서 Prometheus 계측과 라이브러리로 엔드포인트를 변경하는 단계로 진행
 * [alertmanager: Prometheus Alertmanager](https://github.com/prometheus/alertmanager#architecture)
   * [alertmanager 분석](https://david-thoughts.notion.site/alertmanager-99c7c770dbc0417bb677266085789036)
 * [client_golang: Prometheus instrumentation library for Go applications](https://github.com/prometheus/client_golang)
