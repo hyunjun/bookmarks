@@ -1289,6 +1289,7 @@ Programming
 * [카오스 엔지니어링을 회사에 도입하기 위해 알아야 하는 것들 | 밑바닥부터 만드는](https://namkyu1999.github.io/posts/paper/230322_climbing_out_of_the_chasm/)
 * [Beyond Chaos Engineering: Continuous Verification • Cat Swetel • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=saVfPVu8MMQ)
 * [Chaos Engineering for people, how we "resilienced" our incident response team -Christodoulos Xystras - YouTube](https://www.youtube.com/watch?v=XHQIxfxrSBE)
+* [Practical Magic: The Resilience Potion & Security Chaos Engineering • Kelly Shortridge • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AxqX9ovGViw)
 * [Cloud Chaos & Microservices Mayhem • Holly Cummins • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zJiUNKXZA1E)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
