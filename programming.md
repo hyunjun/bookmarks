@@ -1914,6 +1914,7 @@ Programming
 * [Advanced Event-driven Architectures at the LEGO Group • Sarah Hamilton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=6_Yzybhmj-8)
 * [Best Practices to Design & Build Event-driven Applications • Marcia Villalba • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=bC51iRtXlRw)
 * [EDA in Practice: Building an eCommerce Platform at Cinch • Emily Shea & Toli Apostolidis • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=wM-dTroS0FA)
+* [배민스토어에 이벤트 기반 아키텍처를 곁들인… | 우아한형제들 기술블로그](https://techblog.woowahan.com/13101/)
 * [Emily Shea | How Event-Driven Architectures Accelerate Time to Market | Serverless Summit 22 - YouTube](https://www.youtube.com/watch?v=hVWD4xkRAbQ)
 * [Event Design & Event-first Development • David Boyne • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=GBzr48Mj2JU)
 * [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=jrbWIS7BH70)
@@ -4386,10 +4387,11 @@ Programming
   * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
   * [Why should I have written ZeroMQ in C, not C++ (part I)](http://250bpm.com/blog:4)
 * [zsmq: 📬Zola (Extremely) Simple Message Queue for spring, It is the simplest Message Queue you've ever experienced](https://github.com/dhslrl321/zsmq)
-* Zuul 2
+* [Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more](https://github.com/Netflix/zuul)
   * [Open Sourcing Zuul 2. The latest version of Netflix's Cloud… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
   * [Securing Netflix Studios At Scale Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479)
+  * [Curbing Connection Churn in Zuul. Netflix’s Zuul Gateway eliminated tens… | by Netflix Technology Blog | Aug, 2023 | Netflix TechBlog](https://netflixtechblog.com/curbing-connection-churn-in-zuul-2feb273a3598)
 
 # Metaverse
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
