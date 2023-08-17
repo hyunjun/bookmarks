@@ -785,6 +785,7 @@ Apache
 * [카프카 프로듀서의 acks=all 옵션은 사실(?) 느리지 않다!](https://voidmainvoid.tistory.com/507)
 * [Kafka is dead, long live Kafka - WarpStream](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
   * [WarpStream : Kafka는 죽었다, Kafka 만세! | GeekNews](https://news.hada.io/topic?id=10234)
+* [Real-time database replication using Kafka | by Shiva Prathipati | Medium](https://medium.com/@shiva.prathipati/real-time-database-replication-using-kafka-d9e7a592e476)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
