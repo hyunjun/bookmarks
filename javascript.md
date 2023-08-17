@@ -2763,6 +2763,7 @@ Javascript
 * [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
+* [How we reduced the size of our JavaScript bundles by 33% - Dropbox](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
 * [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
   * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
