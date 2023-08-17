@@ -316,6 +316,7 @@ Open Source
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
+  * [Setup your self hosted, open source, Matrix chat server for fully private and encrypted messaging. - YouTube](https://www.youtube.com/watch?v=TFDFR6EBG3k)
 * [Open Source Insights](https://deps.dev/)
   * [Open Source Insights - 오픈소스를 이해하기 쉽게 | GeekNews](https://news.hada.io/topic?id=4429)
 * [Open Source Vulnerability format - Open Source Vulnerability schema](https://ossf.github.io/osv-schema/) 오픈소스의 취약점을 데이터베이스 간에 교환할 수 있도록 제안된 표준 형식
