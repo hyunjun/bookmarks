@@ -480,6 +480,7 @@ NLP
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
+* [BERTopic](https://maartengr.github.io/BERTopic/) a topic modeling technique that leverages 🤗 transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions
 * DeBERTa [2006.03654 DeBERTa: Decoding-enhanced BERT with Disentangled Attention](https://arxiv.org/abs/2006.03654)
   * [deberta-v2-xlarge-mnli · Hugging Face](https://huggingface.co/microsoft/deberta-v2-xlarge-mnli)
   * [KPMG Lighthouse mDeberta v3 base Kor further](https://kpmgkr.notion.site/KPMG-Lighthouse-mDeberta-v3-base-Kor-further-194bbabb247943f5b338b0267ff80778)
