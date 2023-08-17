@@ -1256,6 +1256,7 @@ App
 * [일단 설치해두면 좋은 맥북 무료앱 5개 | 맥북 필수앱 | 맥북 앱 추천 - YouTube](https://www.youtube.com/watch?v=7djCBYJVKOc) Commander One, Dropzone, Alfred, Spectacle, Appcleaner
 * [맥북 프로-에어 사자마자 설치해야하는 필수앱 10가지 추천!! - YouTube](https://www.youtube.com/watch?v=F2T56tXkTn0)
   * TopNotch, Clean My Mac X, Run Cat, Tiles, Amphetamine, Hidden Bar, IINA, Itsycal, AlDente, Keyboard Cleaner
+* [Amazing FREE Mac Apps You Aren’t Using! - YouTube](https://www.youtube.com/watch?v=FxUk8gxzHI8)
 * [개발자를 위한 필수 맥 앱(Mac App) 10선 | Knowledge Logger](https://www.letmecompile.com/mac-app-recommendation-for-developer/)
   * HTTP Client Postman
   * Web Debugging Proxy Proxyman, Charles HTTP proxy
