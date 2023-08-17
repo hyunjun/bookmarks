@@ -1679,6 +1679,8 @@ Machine Learning
 * [smalltrain](https://github.com/geek-guild/smalltrain)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
+* [Solara documentation](https://solara.dev/)
+  * [solara: A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps](https://github.com/widgetti/solara)
 * [Streamlit - the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/)
   * [awesome-streamlit: The purpose of this project is to share knowledge on how awesome Streamlit is and can be](https://github.com/MarcSkovMadsen/awesome-streamlit)
   * [Streamlit - 파이썬 코드를 커스텀ML도구로 쉽게 만들기 | GeekNews](https://news.hada.io/topic?id=1498)
