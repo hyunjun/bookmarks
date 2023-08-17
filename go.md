@@ -1097,6 +1097,7 @@ Go
 * [Building a Go Web App from Scratch](https://morioh.com/p/c47c4e5002de)
 * [Popular golang web framework | backend web framework in go - YouTube](https://www.youtube.com/watch?v=29BNBEUhP18)
 * [Rest api with go | HandleFunc in go | Golang API tutorial - YouTube](https://www.youtube.com/watch?v=YftTQFTFnvk)
+* [Build a web scraper with Go - DEV Community](https://dev.to/claudbytes/build-a-web-scraper-with-go-3jod)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/)
