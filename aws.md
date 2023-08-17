@@ -2251,6 +2251,7 @@ AWS
   * 보통 조직이 커지면 각 팀이 테라폼 모듈을 만들어서 모듈이 많아지는 문제와 이를 공통화하면서 너무 큰 모듈이 생성되는 패턴 발생
     * 이는 쉬운 80%의 사용사례에 집중하는 파레토의 원칙을 적용해서 간결한 모듈 유지 가능
     * 이렇게 만들어진 모범 사례를 장려하고 자동화를 통해 배포 속도 향상 가능
+* [Streamlining Infrastructure Deployment: How to Run Terraform with Docker - DEV Community](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
