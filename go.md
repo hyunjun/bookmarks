@@ -668,6 +668,7 @@ Go
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
+* [gnostic: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks](https://github.com/google/gnostic)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [go-authentication-api: An authentication API developed in Go language](https://github.com/Edmartt/go-authentication-api)
 * [goawk: A POSIX-compliant AWK interpreter written in Go](https://github.com/benhoyt/goawk)
