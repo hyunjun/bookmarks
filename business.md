@@ -1748,6 +1748,8 @@ Business
   * [현대적 합의와 영향력의 6가지 원천 모델](https://brunch.co.kr/@graypool/992)
 * [뛰어난 리더에게 발견되는 8가지 ‘역발상’ - 인사이트](https://www.insight.co.kr/newsRead.php?ArtNo=4106)
 * [덜 명령하면서 더 힘을 실어주는 리더가 되기](https://brunch.co.kr/@graypool/1001)
+* [따를 만한 리더가 되는 법](https://brunch.co.kr/@graypool/1123)
+* [개발자를 성장시키는 리더의 7가지 특징 | 요즘IT](https://yozm.wishket.com/magazine/detail/2178/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
