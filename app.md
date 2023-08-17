@@ -1675,6 +1675,7 @@ App
   * [카카오페이 크루들의 회의를 책임지는 죠르디 봇을 소개합니다. | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/pay-meeting-bot-story/) 소소할 수 있지만 DT의 좋은 예
   * [운영 업무 효율성 향상을 위한 자동화 슬랙봇 개발 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/slack-bot-improving-operational-efficiency/)
   * [Send Slack Notifications via NodeJS - DEV Community](https://dev.to/hrishikeshps/send-slack-notifications-via-nodejs-3ddn)
+  * [슬랙봇 디자인 101](https://toss.tech/article/22439)
   * [Slack | Bolt for Python](https://slack.dev/bolt-python/concepts)
     * [pov: 슬랙 bolt로 에어플로우 DAG 실행시키기. 안녕하세요 원티드랩 데이터 팀에서 데이터 분석을 하고 있는… | by Jiyoon You | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/pov-%EC%8A%AC%EB%9E%99-bolt%EB%A1%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-dag-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-641ca6398234)
 * [Swit](https://swit.io/)
