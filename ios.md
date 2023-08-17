@@ -71,6 +71,7 @@ iOS
   * 웹 개발자가 매니페스트 파일을 제공해서 웹사이트를 홈 화면 웹앱으로 홈 화면에 설치 가능
   * 이 웹앱에서 Push API, Notifications API, Service Workers를 사용해서 사용자에게 푸시 전송
   * Badging API도 지원해서 웹앱 아이콘에 뱃지를 표시 가능
+* [SwiftUI에서 Notification 사용하기 :: iOYES](https://green1229.tistory.com/397)
 * [iOS Dev Weekly - 351 (서문)](http://blog.canapio.com/137)
 * [라이더스앱(iOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 * [약간의 iOS 개발 팁](http://blog.canapio.com/138)
