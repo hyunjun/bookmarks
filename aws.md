@@ -1226,6 +1226,7 @@ AWS
 * [Save costs by automating the start and stop of Amazon RDS instances with AWS Lambda and Amazon EventBridge | AWS Database Blog](https://aws.amazon.com/ko/blogs/database/save-costs-by-automating-the-start-and-stop-of-amazon-rds-instances-with-aws-lambda-and-amazon-eventbridge/)
 * [GoDaddy, 멀티 리전에서 대규모 이벤트 기반 아키텍처를 운영하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-godaddy-implemented-a-multi-region-event-driven-platform-at-scale/)
 * [T101-AWS-To-SLACK-Noti - EventBridge - 리눅서의 기술술 블로그](https://linuxer.name/2022/12/t101-aws-to-slack-noti-eventbridge/)
+* [Implementing the transactional outbox pattern with Amazon EventBridge Pipes | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/implementing-the-transactional-outbox-pattern-with-amazon-eventbridge-pipes/)
 * [event-ruler](https://github.com/aws/event-ruler)
   * AWS에서 Amazon EventBridge의 핵심 기술을 오픈소스로 공개한 프로젝트로 Rule을 Evnet로 연결해주는 Java 라이브러리
 
