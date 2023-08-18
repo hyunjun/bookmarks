@@ -5108,6 +5108,7 @@ Javascript
   * [React Query Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=jnIPUkNOJ9A)
   * [Seeding the Query Cache | TkDodo's blog](https://tkdodo.eu/blog/seeding-the-query-cache)
     * [번역 쿼리 캐시에 데이터 채워 넣기 (React Query)](https://velog.io/@eunbinn/seeding-the-query-cache)
+  * [React Query 캐싱을 제대로 활용하자](https://velog.io/@limelimejiwon/React-Query-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EC%9E%90)
   * [SSR 환경에서의 React Query | Univdev](https://www.univdev.page/posts/react-query-ssr/)
   * [뷰티 필터를 개발하며 얻은 새로운 경험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2022-5th-tech-meetup-web-frontend/)
   * [Breaking React Query's API on purpose | TkDodo's blog](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
