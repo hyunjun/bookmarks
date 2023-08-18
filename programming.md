@@ -164,6 +164,7 @@ Programming
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
 * [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
 * [동기와 비동기 방식 데이터 처리 (Syn / Asynchronous)](https://blog.naver.com/dsz08082/222151475472)
+* [프로그래밍에서 동기/비동기 개념에 대한 가장 직관적인 이해 - YouTube](https://www.youtube.com/watch?v=zRJOte7TaPw)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
