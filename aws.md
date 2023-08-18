@@ -512,6 +512,8 @@ AWS
 * [AWS AppFabric 정식 출시 – SaaS 애플리케이션 관측성 개선 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 * [AWS Elemental MediaPackage및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part1: Live Streaming | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/live-media-security-on-aws/)
 * [AWS Elemental MediaConvert및 Amazon CloudFront를 활용한 미디어 콘텐츠의 보안 강화 전략 – Part 2: VOD | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/vod-media-security-on-aws/)
+* [Accelerate, protect and make dynamic workloads delivery cost efficient with Amazon CloudFront | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
+  * [Amazon CloudFront를 활용하여 비용 효율적으로 동적 워크로드 전송을 가속화하고 보호하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/accelerate-protect-and-make-dynamic-workloads-delivery-cost-efficient-with-amazon-cloudfront/)
 * [AI/ML을 기반으로 한 서버리스 라이브 스트리밍/VOD 서비스 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-serverless-live-streaming-vod-service-based-on-aiml/) Elemental
 * [모든 AWS API 엔드포인트에서 TLS1.2가 최소 TLS 프로토콜 레벨로 변경 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/tls-1-2-required-for-aws-endpoints/)
 * [AWS Security Hub 필터링 결과를 관리자에게 보내는 CloudFormation 템플릿 | by MZC_Global | Cloud Villains | Jul, 2023 | Medium](https://medium.com/cloudvillains/aws-security-hub-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B3%B4%EB%82%B4%EB%8A%94-cloudformation-%ED%85%9C%ED%94%8C%EB%A6%BF-c742c42f977d)
