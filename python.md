@@ -4353,6 +4353,7 @@ Python
   * [WebRemoteDesktop](https://github.com/traitor0213/WebRemoteDesktop) pyautogui
     * [윈도우 원격제어 시험 (WebRemoteDesktop version1) - YouTube](https://www.youtube.com/watch?v=kA04S2V0SFU)
     * [WebRemoteDesktop (WRD) 서버 구현 과정](https://traitors-biscuit.tistory.com/entry/WebRemoteDesktop-WRD)
+  * [Start Using the Pillow Library to Process Images in Python - YouTube](https://www.youtube.com/watch?v=DWymRxeR-tk)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
