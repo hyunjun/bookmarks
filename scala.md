@@ -385,6 +385,7 @@ Scala
 * [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode (Part 1) - Christian Hollinger](https://chollinger.com/blog/2023/06/building-a-functional-effectful-distributed-system-from-scratch-in-scala-3-just-to-avoid-leetcode-part-1/)
 * [Chatbot Showdown: Typelevel Scala Edition | by Kacper Korban | VirtusLab | Jun, 2023 | Medium](https://medium.com/virtuslab/chatbot-showdown-typelevel-scala-edition-a4c0c47e39f5)
 * [An intro to Flow Fields in Scala](https://www.chris-kipp.io/blog/an-intro-to-flow-fields-in-scala)
+* [Principles of developing applications in Scala](https://softwaremill.com/principles-of-developing-applications-in-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1563,6 +1564,7 @@ Scala
     * [Integrating Akka with Cats-Effect 3 - Alexandru Nedelcu](https://alexn.org/blog/2023/04/17/integrating-akka-with-cats-effect-3/)
     * [Concurrency with Cats Effect](https://softwaremill.com/concurrency-with-cats-effect/)
     * [Dependency Injection with Cats-effect Resource Monad | by Igor Vovk | Jun, 2023 | Medium](https://medium.com/@ivovk/dependency-injection-with-cats-effect-resource-monad-ad7cd47b977)
+    * [Cats Effect vs ZIO](https://softwaremill.com/cats-effect-vs-zio/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
