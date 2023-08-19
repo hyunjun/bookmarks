@@ -122,6 +122,7 @@ Elixir
 * [How to integrate TinyMCE Editor into a Phoenix Liveview project | by Obute Moses | Jul, 2023 | Medium](https://medium.com/@obutemoses5/how-to-integrate-tinymce-editor-into-a-phoenix-liveview-project-9ad736c3b35a)
 * [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
 * [B2B SaaS 의 보안을 높여주는 Multi-Tenancy in Elixir · Json Media](https://json.media/blog/multi_tenency_in_elixir)
+* [B2B SaaS 의 보안을 높여주는 데이터 암호화 in Elixir · Json Media](https://json.media/blog/data_encryption_in_elixir)
 * [Walkthrough of Elixir’s Adapter Pattern | Aaron Renner’s Blog](https://aaronrenner.io/2023/07/22/elixir-adapter-pattern.html)
 
 # API
