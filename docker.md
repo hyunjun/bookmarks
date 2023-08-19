@@ -2500,6 +2500,7 @@ Docker
   * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책
   * Redhat 7.2, docker 1.10.3에서는 해결되지 않음
   * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
+  * [How to clear Docker cache and free up space on your system - DEV Community](https://dev.to/kylegalbraith/how-to-clear-docker-cache-and-free-up-space-on-your-system-72f)
 * [Docker daemon memory leak due to logs from long running process](https://stackoverflow.com/questions/27628276/docker-daemon-memory-leak-due-to-logs-from-long-running-process)
 * `Error response from daemon: Get ...: unauthorized: incorrect username or password`
   * `docker login --username <username>`
