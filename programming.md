@@ -938,6 +938,7 @@ Programming
 * [스프린트 Task와 직무 Task. 경량화 방법론 시기에 탄생한 다양한 소프트웨어 개발 방법론들과 애자일… | by 김상현 | make -k it (메이킷) | Medium](https://medium.com/make-k-it/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-task%EC%99%80-%EC%A7%81%EB%AC%B4-task-d451677efe53)
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [애자일로 개발하면 빨리 끝난다던데? / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-agile/)
+* [What Your Mother Never Told You About Agile Development • Aino Vonge Corry • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZFKqlfJiGEQ)
 * [Comic Agilé – When agility meets reality](https://www.comicagile.net/)
   * [Can Top-Down Agile Work? • Luxshan Ratnaravi, Mikkel Noe-Nygaard & Malte Foegen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=o1oGJq71NEk)
   * [Comic Agile](comicagile.md)
