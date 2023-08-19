@@ -244,6 +244,7 @@ C++
 # Asynchronous
 * [CppIndia Async in C++ by Oliver Esser - YouTube](https://www.youtube.com/watch?v=MFpWGC7AAO0)
 * [Asynchronous I/O and Coroutines for Smooth Data Streaming - Björn Fahller - ACCU 2022 - YouTube](https://www.youtube.com/watch?v=54oGgmMAUNk)
+* [The downsides of C++ Coroutines | reductor’s blog](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 
