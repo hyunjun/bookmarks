@@ -59,6 +59,8 @@ Programmer
   * 로드맵에 대한 글이나 다이어그램이 꽤 있는데 이 글은 오랫동안 고민하고 공부한 티가 날 정도로 잘 정리
   * 탁월한 엔지니어는 "좋은 코드를 짜고" "작업의 현재 가치를 극대화하고" "데이터 기반으로 의사결정을 하고" "동료의 효과적 의사결정을 도우며" "꾸준히 학습"한다
   * 탁월한 프론트 엔지니어를 웹 특화, 제품 특화, 운영 특화로 나누어서 어떤 특징이 있고 어떤 역량이 필요한지를 정리
+* [인프콘 2023 발표 1. 무엇이 탁월한 개발자를 만드는가](https://steady-study.super.site/what-makes-a-great-software-engineer)
+  * [무엇이 탁월한 개발자를 만드는가 | GeekNews](https://news.hada.io/topic?id=10422)
 * [주니어 개발자를 위한 조언 · Present](https://present.do/documents/640ed903fa0b5a11370d7dbd)
 * [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://f-lab.kr/blog/developer-tech-article-zip)
 * [성장하는 엔지니어가 되는 법: 주니어편 | Novemberde's Blog](https://novemberde.github.io/post/2023/06/07/junior-engineer-growth-guide/)
