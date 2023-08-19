@@ -78,6 +78,7 @@ Elixir
 * [#elixirlang Elixir-Slack 라이브러리가 매크로를 사용해 slack api 호출 함수를 생성하는 방법](http://ohyecloudy.com/pnotes/archives/how-elixir-slack-library-uses-macros-to-create-slack-api-calling-functions/)
 * [#elixirlang 매크로를 사용해 decorator를 구현하는 방법](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-implement-decorator-with-macro/)
 * [#elixirlang 웹소켓을 사용한 실시간 Upbit 시세 받기](http://ohyecloudy.com/pnotes/archives/elixirlang-websocket-upbit-market-price/)
+* [#elixirlang 환경 변수로부터 N개의 설정을 읽기](http://ohyecloudy.com/pnotes/archives/read-settings-from-environment-variables/)
 * [Elixir vs Scala](https://www.infoq.com/presentations/elixir-vs-scala/)
 * [Elixir in Production: Glific](https://serokell.io/blog/elixir-in-production-glific)
 * [Elixir & Erlang - Fundamentally Pragmatic by Lars Wikman](https://www.youtube.com/watch?v=wbdNB_DugGA&t=3450s)
