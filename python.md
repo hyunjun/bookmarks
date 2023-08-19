@@ -82,6 +82,7 @@ Python
   * [Python Software Foundation News: The 2022 Python Language Summit: Python without the GIL](https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html)
     * [2022 파이썬 언어 써밋 : Python without the GIL | GeekNews](https://news.hada.io/topic?id=6541)
   * [올바르게 GIL 이해하기 - 바이트코드와 쓰레드 안정성](https://blog.naver.com/pjt3591oo/222926625510)
+  * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
     * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
@@ -872,6 +873,7 @@ Python
   * [The only problem with Python 3's str is that you don't grok it](https://drewdevault.com/2017/01/13/The-problem-with-Python-3.html)
   * [Character Encoding in python](https://www.slideshare.net/daesung7kang/character-encoding-in-python)
   * [Python one-liner to print Roman numerals](https://www.johndcook.com/blog/2020/10/07/roman-numerals/)
+  * [Unicode & Character Encodings in Python: A Painless Guide – Real Python](https://realpython.com/python-encodings-guide/)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
@@ -3430,6 +3432,7 @@ Python
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
   * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
+  * [trafilatura: Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments](https://github.com/adbar/trafilatura)
 * [Python Development: 7 Libraries to Look For in 2017](http://www.evontech.com/what-we-are-saying/entry/python-development-7-libraries-to-look-for-in-2017.html)
 * [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
@@ -3769,6 +3772,7 @@ Python
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * Lomond
   * [Announcing Lomond, a WebSocket Client Library for Python](https://www.willmcgugan.com/blog/tech/post/announcing-lomond/)
+* [lpython: Python compiler](https://github.com/lcompilers/lpython)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [magic-wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole) Get things from one computer to another, safely
@@ -3828,6 +3832,7 @@ Python
 * [**plotline - A Grammar of Graphics for Python**](http://plotnine.readthedocs.io) based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
+* [pokerkit: An open-source Python library for poker simulations and hand evaluations](https://github.com/uoftcprg/pokerkit)
 * [pomegranate - a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
   * [Pomegranate v0.9.0 now released: Flexible probabilistic modelling in Python](https://www.techleer.com/articles/458-pomegranate-v090-now-released-flexible-probabilistic-modelling-in-python/)
 * [ppml - labs/material for the Privacy Preserving Machine Learning Class I am teaching, hence ppml](https://github.com/romeokienzler/ppml)
@@ -4125,6 +4130,7 @@ Python
   * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
   * [C로 파이썬 모듈 작성하는 법](https://soooprmx.com/archives/4692)
   * [Caroline Arnold - Lessons learned from using the C Foreign Function Interface | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=_Yy5pl9V1nk)
+  * [Python, foreign functions and Steam](https://arturdryomov.dev/posts/python-foreign-functions-and-steam/)
   * [configs/default.py](https://github.com/ANLAB-KAIST/NBA/blob/master/configs/default.py) [src/lib/config.cc](https://github.com/ANLAB-KAIST/NBA/blob/master/src/lib/config.cc)
 * [cython](http://cython.org)
   * [cython](https://github.com/cython)
@@ -5036,6 +5042,7 @@ Python
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
 * ["파이썬 성능 향상을 위한" 파이파이란 무엇인가](http://www.itworld.co.kr/news/122334)
+* [“더 쉽고 빠른 파이썬” 파이파이(PyPy)의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/302293)
 * [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
 * [ubuntu pypy 설치 & benchmark](https://github.com/jehyunlee/texts/blob/master/pypy_install_ubuntu/text.md)
 * [PyPy's new JSON parser](https://morepypy.blogspot.com/2019/10/pypys-new-json-parser.html)
