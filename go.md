@@ -1031,6 +1031,8 @@ Go
 * [Unit Testing A Golang Application That Includes HTTP](https://morioh.com/p/7baf5b444bd5)
 * [Testing and benchmarking a Go(Golang) app - YouTube](https://www.youtube.com/watch?v=dzfcsaZ1ZDQ)
 * [Testing Code in Go Language for Beginners](https://morioh.com/p/905ef4143205)
+* [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test)
+  * [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표) · Present](https://present.do/documents/64ded22610ab9a5ae569e100)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [go-testing-mocks: This project is for learning about mocking external services calls](https://github.com/Edmartt/go-testing-mocks)
