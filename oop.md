@@ -108,6 +108,7 @@
 * [Design Patterns](https://refactoring.guru/design-patterns)
 
 # C
+* [Abhinav Upadhyay on X: "I was digging through the CPython source code and found out how it uses polymorphism to implement objects. Yes, C is not an object-oriented language, but you can still mimic polymorphism with one clever trick. Let's see how CPython does it. Before learning about the "how," let's… https://t.co/YapJ13TOf7" / X](https://twitter.com/abhi9u/status/1688837464650371074) OOP
 * [Object-Oriented Programming (OOP) in C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
 * [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * [Object Oriented C Programming](http://faculty.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html)
