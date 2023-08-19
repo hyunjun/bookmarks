@@ -1826,6 +1826,7 @@ Web
 * [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
+* [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/)
   * [WASI: a New Kind of System Interface - YouTube](https://www.youtube.com/watch?v=zFfwvEFvz-g)
 * [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
@@ -1860,6 +1861,7 @@ Web
     * JS 엔진은 크게 초기화와 런타임 작업이 있는데 Wizer라는 도구를 통해
       * Wasm에서의 JS 초기화 시간을 13배 빠르게 하고 AOT로 스루풋을 개선하는 등의 작업을 설명
     * WASM으로 어떤 시도를 하는지 살펴볼 수 있다
+* [WASM을 이용한 NES 에뮬레이터 만들기 · Present](https://present.do/documents/64d1f3b710ab9a5ae567ca0c)
 * [WebAssembly: Open to Interpretation - YouTube](https://www.youtube.com/watch?v=RHJEwkAbhr4)
 * [Wasmer Things: An Upside-Down Guide to WebAssembly by Edoardo Vacchi - YouTube](https://www.youtube.com/watch?v=GAbeovldGCs)
 * [a world to win: webassembly for the rest of us -- wingolog](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
