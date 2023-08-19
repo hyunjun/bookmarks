@@ -608,6 +608,7 @@ AWS
 # Batch
 * [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
 * [AWS Batch를 활용하여 미디어 처리를 위한 관리형 FFmpeg 워크플로우 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/create-a-managed-ffmpeg-workflow-for-your-media-jobs-using-aws-batch/)
+* [Terraform + AWS Batch + Golang으로 스케줄 실행 / 수동 배치 생성하기 | by MZC_Global | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/terraform-aws-batch-golang%EC%9C%BC%EB%A1%9C-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%8B%A4%ED%96%89-%EC%88%98%EB%8F%99-%EB%B0%B0%EC%B9%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-d6e50ea6b8c0)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
