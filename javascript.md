@@ -3210,6 +3210,7 @@ Javascript
     * 이를 Node.js에 보고하고 해결 방법을 논의하면서 이 취약점을 수정
 * [Gzip compression with Node.js. Compression in Node.js and Express.js… | by Victor Valencia Rico | Dev Genius](https://blog.devgenius.io/gzip-compression-with-node-js-cc3ed74196f9)
 * [Node.js is a serious thing now… (2023) - YouTube](https://www.youtube.com/watch?v=_Im4_3Z1NxQ)
+* [Generating Optimized Image Formats with Node.js - DEV Community](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
