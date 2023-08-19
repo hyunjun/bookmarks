@@ -63,6 +63,7 @@ Linux
 * [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 * [**What's in a Linux executable? - fasterthanli.me**](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
 * [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html) ELF
+* [Secret of Binary ELF | NutCrackersSecurity](https://nutcrackerssecurity.github.io/posts/elf-binary/)
 * [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
   * uptime, dmesg | tail, vmstat 1, mpstat -p ALL 1, pidstat 1, iostat -xz 1, free -m, sar -n DEV 1, sar -n TCP,ETCP 1, top
 * [Analyze Linux startup performance | Opensource.com](https://opensource.com/article/20/9/systemd-startup-configuration)
@@ -170,6 +171,8 @@ Linux
 * [CSI Sequence 화면 지우기](https://blog.seulgi.kim/2023/04/csi-el-ed.html)
 * [Linux의 clear와 Mac의 clear는 다르다](https://blog.seulgi.kim/2023/04/linux-clear-mac-clear.html)
 * [웹서버에서 기본값으로 3000, 8000, 8080 같은 포트를 사용하는 이유 - AnyDoc](https://dev.alliknow.info/posts/2023/5/default-port)
+* [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
+  * [What happens when you run 'Hello, world'](https://jvns.ca/blog/2013/11/29/what-happens-when-you-run-a-unix-program/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
