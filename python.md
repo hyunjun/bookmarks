@@ -4376,6 +4376,7 @@ Python
   * Flake8를 대체할 서비스도 있지만 대부분 자동 수정 기능이 없거나 모노레포 지원이 부족하거나 코드 베이스가 클 때 성능 문제 존재
   * Instagrm에서 만들었던 Fixit도 모노레포 지원이 부족했었는데 내부에서 고민한 끝에 Fixit을 새로 작성하기로 하고 Fixit 2 제작
     * Fixit 2는 LibCST 기반 작성, TOML 형식으로 계층적 구성, 로컬 인-리퍼지토리 힌트 규칙 지원, 자동 수정 지원, 새로운 린트 규칙과 수정사항 제안도 몇 줄의 코드로 추가
+  * [Meta, 파이썬용 차세대 자동 수정 린터 Fixit 2 공개 | GeekNews](https://news.hada.io/topic?id=10295)
 * [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
   * [Flake8: Your Tool For Style Guide Enforcement — flake8 5.0.4 documentation](https://flake8.pycqa.org/)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
