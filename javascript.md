@@ -3430,6 +3430,8 @@ Javascript
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [ied (WIP) - An alternative package manager for Node](https://github.com/alexanderGugel/ied)
+* [jimp: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies](https://github.com/jimp-dev/jimp)
+  * [JIMP - 의존성 없는 Node.js용 이미지 프로세싱 라이브러리 | GeekNews](https://news.hada.io/topic?id=10322)
 * [Joi — awesome code validation for Node.js and Express](https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20)
 * [jsdom: A JavaScript implementation of various web standards, for use with Node.js](https://github.com/jsdom/jsdom)
 * [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
