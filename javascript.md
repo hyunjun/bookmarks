@@ -1236,6 +1236,7 @@ Javascript
   * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
 * [PureScript by Example](https://leanpub.com/purescript/read_full)
 * [Reintroducing React](https://leanpub.com/reintroducing-react)
+* [The Regular Expressions Book – RegEx for JavaScript Developers Full Book](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
