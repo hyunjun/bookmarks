@@ -1380,6 +1380,7 @@ NLP
   * [코드 1줄 Llama 2 내 데이터로 파인튜닝 Colab에서 - YouTube](https://www.youtube.com/watch?v=GjZ1a0OJqGk)
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
 * [aviary: Ray Aviary - evaluate multiple LLMs easily](https://github.com/ray-project/aviary)
+* [awesome-korean-llm: Awesome list of Korean Large Language Models](https://github.com/NomaDamas/awesome-korean-llm)
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
