@@ -1160,6 +1160,13 @@ Clojure
 * ragtime
   * [Leiningen Integration](https://github.com/weavejester/ragtime/wiki/Leiningen-Integration)
   * [lein-ragtime-gen](https://github.com/kwakbab/lein-ragtime-gen)
+* [rama: A Clojure library designed to facilitate development of efficient RESTful MicroServices, by Bruno Bonacci](https://github.com/AltiMario/rama)
+  * [We reduced the cost of building Mastodon at Twitter-scale by 100x | Hacker News](https://news.ycombinator.com/item?id=37137110)
+  * [Where we’re going, we don’t need threads: Simulating Distributed Systems – Blog](https://blog.redplanetlabs.com/2021/03/17/where-were-going-we-dont-need-threads-simulating-distributed-systems/)
+    * 함수를 쓸 수 있는 곳에 매크로를 쓰면 안되지'만' 매크로는 여전히 유효하게 잘 사용 (with-..) 매크로등으로 리소스 관리를 하거나, 테스트에서 많이 사용
+    * with-redefs를 테스트에서 매우 중요하게 사용. 특히 no-op 함수를 event log의 용도로 재정의해서 원하는 테스트 상황을 재현 가능
+    * 스키마(https://github.com/plumatic/schema)를 사용해서 타입/스키마 체크
+    * 결정론적 시뮬레이션을 통한 재현가능한 분산 환경 테스트
 * [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [reader-macros](https://github.com/klutometis/reader-macros)
@@ -1180,6 +1187,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Salutem](https://logicblocks.github.io/salutem/index.html) a system for defining and maintaining a collection of health checks
+* [schema: Clojure(Script) library for declarative data description and validation](https://github.com/plumatic/schema)
 * [scimacs: The Small Clojure Interpreter (SCI) integrated with emacs as a loadable module](https://github.com/jackrusher/scimacs)
 * [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
