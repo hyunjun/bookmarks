@@ -415,6 +415,7 @@ Interview
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
       * cache policy; write through, write back, 문제점
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
+    * [System Design: Why is single-threaded Redis so fast? - YouTube](https://www.youtube.com/watch?v=5TRFpFBccQM)
     * [System Design: (Lecture -4): - What is Distributed Caching? Explained in Detailed - YouTube](https://www.youtube.com/watch?v=0dZgyW4zSts)
     * [Interview Prep: Designing A Distributed Cache](https://ravisystemdesign.substack.com/p/interview-prep-designing-a-distributed)
     * [**Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem**](https://www.youtube.com/watch?v=l9JSK9OBzA4)
