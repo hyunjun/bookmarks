@@ -530,8 +530,12 @@ Interview
     * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
     * [System Design | Design Uber | Design Ola | Uber Architecture | Lyft Design | Amazon Interview](https://www.youtube.com/watch?v=fgIgOU0yi0w)
     * [System Design Interview - Design Yelp Geospatial Geohash](https://www.youtube.com/watch?v=tu6QKpV7GiI) map을 이용하기 때문에 uber와 유사한 점이 있음
-    * [Yelp system design | amazon interview question Yelp software architecture](https://www.youtube.com/watch?v=TCP5iPy8xqo)
     * [Geohash: Deep Intuitive Understanding in under 7 Minutes](https://www.youtube.com/watch?v=UaMzra18TD8)
+    * [System Design: Design a Geo-Spatial index for real-time location search | by Kousik Nath | Medium](https://kousiknath.medium.com/system-design-design-a-geo-spatial-index-for-real-time-location-search-10968fe62b9c)
+      * [아키텍처 전략: Uber 시리즈 – 실시간 위치 검색을 위한 지리 공간 인덱스 설계 1편 – 개요 및 기본 아키텍처 | Architecture 101](https://architecture101.blog/2023/04/26/geospatial_architecture_i/)
+      * [아키텍처 전략: Uber 시리즈 – 실시간 위치 검색을 위한 지리 공간 인덱스 설계 2편 – 샤딩으로 아키텍처 개선하기 | Architecture 101](https://architecture101.blog/2023/06/09/geospatial_architecture_ii/)
+      * [아키텍처 전략: 실시간 위치 검색을 위한 지리 공간 인덱스 설계 3편 – Geo Hash를 이용하여 아키텍처 개선하기 | Architecture 101](https://architecture101.blog/2023/08/19/design_a_geo-spatial_index_3/)
+    * [Yelp system design | amazon interview question Yelp software architecture](https://www.youtube.com/watch?v=TCP5iPy8xqo)
     * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
     * [**Uber 아키텍처와 시스템 디자인**](https://blog.imqa.io/uber-architecture-system-design/)
     * [Uber 아키텍처와 시스템 디자인 | Architecture 101](https://architecture101.blog/2021/12/01/uber-architecture-design/)
