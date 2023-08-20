@@ -1751,6 +1751,7 @@ Business
 * [덜 명령하면서 더 힘을 실어주는 리더가 되기](https://brunch.co.kr/@graypool/1001)
 * [따를 만한 리더가 되는 법](https://brunch.co.kr/@graypool/1123)
 * [개발자를 성장시키는 리더의 7가지 특징 | 요즘IT](https://yozm.wishket.com/magazine/detail/2178/)
+* [“AI 시대에도 ‘적극적 경청’은 리더의 의무”](https://v.daum.net/v/20230817200023451)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
