@@ -218,6 +218,7 @@ Elixir
   * [Drag and Drop with Elixir - Phoenix LiveView and JavaScript Interop](https://www.headway.io/events/elixir-and-javascript-interop-with-phoenix-liveview-drag-and-drop)
   * [Testing LiveView](https://www.testingliveview.com/)
   * [Building a Drag-and-Drop List with LiveView and SortableJS · The Phoenix Files](https://fly.io/phoenix-files/liveview-drag-and-drop/)
+  * [대학 과정 Phoenix LiveView - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7T5CgzzfRb04uFqD17Fny1L)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
