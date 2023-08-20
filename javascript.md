@@ -3238,6 +3238,8 @@ Javascript
 * [boardgame.io](https://google.github.io/boardgame.io/) React + Redux + socket.io + koa.js
 * [bookshelf.js - Bookshelf is a JavaScript ORM for Node.js](https://github.com/tgriesser/bookshelf)
 * Bree [The best job scheduler for Node.js - Bree](https://jobscheduler.net/#/)
+* [BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis](https://github.com/taskforcesh/bullmq)
+  * [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku - DEV Community](https://dev.to/lirantal/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku-3dl7)
 * [Bun - a fast all-in-one JavaScript runtime](https://bun.sh/)
   * [Node.js is Dead. — Long Live Bun. | by Yannis Burghardt | Jul, 2022 | Medium](https://medium.com/@YNNSme/node-js-is-dead-long-live-bun-3d888eab63d7)
   * [속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개! - YouTube](https://www.youtube.com/watch?v=t9924eteb-4)
