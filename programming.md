@@ -1684,6 +1684,9 @@ Programming
       * 데이터베이스, 분산 합의 알고리즘, 합의, 버전 제어 등에 모두 로그 사용
       * 이 로그를 데이터 통합, 실시간 처리, 시스템 구축에서 어떻게 사용하는지 설명
     * 10년 전 글이지만 중간에 작성자의 의견과 추가 정보가 담겨 있어서 더 이해하기 좋음
+* [아키텍처 시각화 패턴 I | Architecture 101](https://architecture101.blog/2013/09/09/architecture_visualization_i/)
+* [아키텍처 시각화 패턴 II | Architecture 101](https://architecture101.blog/2013/10/08/architecture_visualization_ii/)
+* [아키텍처 시각화 패턴 III | Architecture 101](https://architecture101.blog/2023/08/20/archiecture_visualization_iii/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
