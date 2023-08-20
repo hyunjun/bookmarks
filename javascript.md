@@ -2669,6 +2669,7 @@ Javascript
     * 기존에 Yarn Berry를 사용했는데 PnP 모드로 패키지를 압축해서 저장하기에 오히려 Git에 부하를 준다고 생각
     * pnpm은 `node_modules`에 직접 설치하지 않고 전역 저장소에 설치한 패키지를 심볼릭 링크로 관리했기 때문에 효율적이었고 모노레포 관리도 pnpm이 더 편리
     * Yarn 대비 패키지 설치 속도도 감소, 만족
+  * [pnpm과 함께하는 Frontend 모노레포 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-pnpm)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
