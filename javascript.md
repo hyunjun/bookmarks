@@ -3334,6 +3334,7 @@ Javascript
     * Deno와 Fresh는 이러한 과정이 필요 없다고 주장
   * [Deno: The JavaScript Runtime for the Serverless Era • Ryan Dahl • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=VDKJ1rSj-NI)
   * [Deno 스택 vs. React. NodeJS 스택과 비교해봤다...! - YouTube](https://www.youtube.com/watch?v=Knn4xh79qTU)
+  * ["What to know about Deno 2.0" - YouTube](https://www.youtube.com/watch?v=5DX49vzLfqw)
   * [astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
