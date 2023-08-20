@@ -1952,6 +1952,7 @@ Programming
 * [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
 * [마이크로 서비스(MSA)로 구축할 때 모듈은 어떤 단위로 할까?](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%A0-%EB%95%8C-%EB%AA%A8%EB%93%88%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%8B%A8%EC%9C%84%EB%A1%9C/)
 * [마이크로 서비스(MSA)를 어떻게 나눌까? II](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii/)
+* [Cloud + 확장성 + 데이터 처리 패턴 강좌 신설 | Architecture 101](https://architecture101.blog/2023/08/19/cloud-pattern/)
 * Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
