@@ -4135,6 +4135,7 @@ Programming
   * [구글 폰트보다 더 빠르고 쾌적하게, Bunny Fonts | 요즘IT](https://yozm.wishket.com/magazine/detail/1631/)
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
+* [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
 * [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
 * [creep: a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
