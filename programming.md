@@ -1055,6 +1055,7 @@ Programming
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=mZ4trNrkv14)
 * [War of the APIs - REST vs GraphQL vs gRPC by Memi Lavi - YouTube](https://www.youtube.com/watch?v=5emGZTXMCwI)
+* [Web API Design Series - YouTube](https://www.youtube.com/playlist?list=PLP_rkG1reBjrCKy2Pb1bvjJKbKfantijk)
 * [Difference between GraphQL and REST API with Example](https://javarevisited.blogspot.com/2022/04/difference-between-graphql-and-rest-api.html)
 * [Federated GraphQL to Solve Service Sprawl at Major League Baseball - YouTube](https://www.youtube.com/watch?v=npQ6o1QO7D4)
 * [How to select an API Management platform for your business — part I | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-i-6b02b232f697)
