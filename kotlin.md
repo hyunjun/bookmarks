@@ -400,6 +400,7 @@
 * [코루틴(Coroutine)에 대하여](https://dev.gmarket.com/82)
 * [Coroutines Beyond Concurrency by Alex Semin - YouTube](https://www.youtube.com/watch?v=NwYx5l5Zzes)
 * [Coroutine Context and Dispatchers Quiz | by Murat AYDIN | Medium](https://medium.com/@maydin/coroutine-context-and-dispatchers-quiz-bd70b7e80eac)
+* [코루틴(Coroutine) 생성 및 실행](https://brunch.co.kr/@mystoryg/181)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
