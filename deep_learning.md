@@ -611,6 +611,7 @@ Deep Learning
   * [Tensorflow Backend for ONNX](https://github.com/onnx/onnx-tensorflow)
   * [ONNX.js is a Javascript library for running ONNX models on browsers and on Node.js](https://github.com/Microsoft/onnxjs)
   * [How to deploy ONNX models in production](https://towardsdatascience.com/how-to-deploy-onnx-models-in-production-60bd6abfd3ae)
+  * [PyData Zurich July 2023: ONNX/Spox and BigCode - YouTube](https://www.youtube.com/watch?v=1qeMyC1V94A)
 * [Comparison of Deepnet & Neuralnet](https://www.datasciencecentral.com/profiles/blogs/comparison-of-deepnet-neuralnet)
 * [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
 * [당근마켓에서 딥러닝 활용하기](https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62)
