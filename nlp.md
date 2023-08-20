@@ -1373,6 +1373,8 @@ NLP
 * [대규모 언어모델 너도 나도 업무에 사용해보자: To Beginner](https://d2.naver.com/helloworld/9383947)
 * [**Create a CustomGPT And Supercharge your Company with AI  -  Pick the Best LLM - The Abacus.AI Blog**](https://blog.abacus.ai/blog/2023/08/10/create-your-custom-chatgpt-pick-the-best-llm-that-works-for-you/)
 * [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
+* [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/)
+  * [practical patterns for building LLM-based systems and products](https://www.linkedin.com/feed/update/urn:li:activity:7098693440158199808/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
