@@ -3284,6 +3284,7 @@ Programming
 * [IT TREND Google I/O & Microsoft Build 리뷰](https://tech.kakaoenterprise.com/195)
 * [개발자 글로벌 커리어 컨퍼런스 - YouTube](https://www.youtube.com/watch?v=4G3x7g7Ls8o)
 * [calltospeakers.com](https://calltospeakers.com)
+* [DASH 2023 다녀왔습니다.. Datadog 에서 주최하는 컨퍼런스인 DASH 2023 후기를 전해… | by Jaemin Shin | Aug, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/dash-2023-%EB%8B%A4%EB%85%80%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-6123df0c99cd)
 * [Datadog Dash 2022 컨퍼런스 방문기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/datadog-dash-2022/)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
