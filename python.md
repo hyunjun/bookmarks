@@ -351,6 +351,7 @@ Python
 * [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io)
   * [**Wrapping C/C++ for Python**](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html) wrapper
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
+* [Measuring Python Code Efficiency | Kaggle](https://www.kaggle.com/code/youssef19/measuring-python-code-efficiency/notebook)
 * [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [Tail Recursion in Python](http://philosophical.one/posts/tail-recursion-in-python/) 실용적이진 않지만 재미있는 tail recursion 구현 이야기
