@@ -922,6 +922,7 @@ NLP
   * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
     * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
     * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
+  * [Sweep: AI-powered Junior Developer for small features and bug fixes](https://github.com/sweepai/sweep)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
   * [YGK-a: YGK-a: Your Genius, Knowledgeable assistant, An advanced ChatGPT client from your shell](https://github.com/code-yeongyu/ygk-a)
