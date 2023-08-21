@@ -21,6 +21,7 @@ Ocaml
 * [Translating Unix Philosophy into modern environments](https://hackernoon.com/translating-unix-philosophy-into-modern-environments-80d7949834f3)
 * [Starting an OCaml app project using Dune](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
 * [Detecting use-cases for GADTs in OCaml | Mads Hartmann](https://blog.mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
+* [Effective Programming in OCam • KC Sivaramakrishnan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=X28PFYvZ_V8)
 
 # Library
 * [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
