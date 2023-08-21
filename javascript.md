@@ -5749,6 +5749,7 @@ Javascript
   * 파일 디스크립터를 닫거나 데이터베이스 연결을 종료하는 등 후처리 작업에 `using`을 사용하고 자동 처리 가능
   * 비동기를 위한 `Symbol.asyncDispose`와 `await using`도 있음
   * [using-keyword.md at master · yeonjuan/dev-blog · GitHub](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/using-keyword.md)
+* [Type-Safe하게 다형성 지원하기](https://f-lab.kr/blog/polymorphism-with-type-safe)
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [bamboo-forest: 🎋 Echo your message as anonymous on Slack!](https://github.com/wormwlrm/bamboo-forest)
