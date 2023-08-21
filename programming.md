@@ -5981,6 +5981,7 @@ Programming
 * [Dogu Technologies - Automate your game and app testing for high quality software](https://dogutech.io/)
   * [dogu: Test automation platform for web, mobile, game applications with many test frameworks](https://github.com/dogu-team/dogu)
   * [조직을 위한 테스트 자동화 플랫폼 구축 - Device Farm](https://blog.dogutech.io/test-automation-platform-for-organization/)
+  * [테스트 자동화 제품은 어떻게 테스트를 할까? - Dogu E2E 테스트 도입기](https://blog.dogutech.io/dogu-e2e-testing-implementation-ko/)
 * [testcontainers](https://github.com/testcontainers)
   * [Testcontainer. Testcontainer를 이용해 멱등성있는 테스트 구성하기 | by kyeong su kim | 월요일 오후 9시 | Medium](https://medium.com/monday-9-pm/testcontainer-18e762c0adaa)
   * [VDBUH2023 - Oleg Šelajev - Testing cloud-native applications with ease! - YouTube](https://www.youtube.com/watch?v=3sSRBOhgTK4)
