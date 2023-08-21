@@ -222,6 +222,7 @@ Azure
 # Library
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
 * [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
+* [azure-openai-proxy: Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings](https://github.com/stulzq/azure-openai-proxy)
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
