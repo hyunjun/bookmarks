@@ -415,6 +415,7 @@
 * [Kotlin Multiplatform Mobile Is Dead. Long Live Kotlin Multiplatform | by Yanneck Reiß | Tech Takeaways | Aug, 2023 | Medium](https://medium.com/tech-takeaways/kotlin-multiplatform-mobile-is-dead-long-live-kotlin-multiplatform-2b107227b2d0)
 * [코틀린 멀티플랫폼, 미지와의 조우](https://www.slideshare.net/arawnkr/ss-252699629)
 * [Kotlin Multiplatform Mobile Is in Beta – Start Using It Now! | The JetBrains Blog](https://blog.jetbrains.com/kotlin/2022/10/kmm-beta/)
+* [Kotlin Multiplatform 이름 업데이트 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/08/update-on-the-name-of-kotlin-multiplatform/)
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
 
