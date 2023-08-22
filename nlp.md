@@ -1377,6 +1377,7 @@
 * [Build and Scale a Powerful Query Engine with LlamaIndex and Ray | Anyscale](https://www.anyscale.com/blog/build-and-scale-a-powerful-query-engine-with-llamaindex-ray)
 * [Building Advanced Query Engine and Evaluation with LlamaIndex and W\&B | llama-index-report – Weights & Biases](https://wandb.ai/ayush-thakur/llama-index-report/reports/Building-Advanced-Query-Engine-and-Evaluation-with-LlamaIndex-and-W-B--Vmlldzo0OTIzMjMy)
 * [LlamaIndex Webinar: Make RAG Production-Ready - YouTube](https://www.youtube.com/watch?v=Zj5RCweUHIk)
+* [LlamaIndex + Metaphor: Towards Automating Knowledge Work with LLMs | by Jerry Liu | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-metaphor-towards-automating-knowledge-work-with-llms-5520a32efa2f)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
