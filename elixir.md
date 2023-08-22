@@ -125,6 +125,7 @@ Elixir
 * [B2B SaaS 의 보안을 높여주는 Multi-Tenancy in Elixir · Json Media](https://json.media/blog/multi_tenency_in_elixir)
 * [B2B SaaS 의 보안을 높여주는 데이터 암호화 in Elixir · Json Media](https://json.media/blog/data_encryption_in_elixir)
 * [Walkthrough of Elixir’s Adapter Pattern | Aaron Renner’s Blog](https://aaronrenner.io/2023/07/22/elixir-adapter-pattern.html)
+* [Implicit try in Elixir | Curiosum tils](https://curiosum.com/til/elixir-implicit-try-error-handling)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -176,9 +177,10 @@ Elixir
   * [Programming Ecto](http://ohyecloudy.com/pnotes/archives/book-programming-ecto/)
   * [외래 키는 스키마에 정의하고 ecto 연관 함수로 외래 키를 직접 쓰지 말자](http://ohyecloudy.com/pnotes/archives/elixir-ecto-associations/)
   * [관계를 여러 번 타는 건 ecto가 알아서 하고 우리는 through 옵션으로 한 번에 접근하자](http://ohyecloudy.com/pnotes/archives/elixirlang-ecto-has-many-has-one-through-option/)
-  * [Deploying after mix ecto.dump · Fly](https://fly.io/phoenix-files/deploying-after-a-mix-ecto-dump/)
-  * [README — EctoDbg v0.2.0](https://hexdocs.pm/ecto_dbg/)
+  * [Elixir and Ecto with SQLite3](https://juanpabloaj.com/2023/08/19/elixir-and-sqlite3/)
   * [ecto_command](https://github.com/silvadanilo/ecto_command)
+  * EctoDbg [README — EctoDbg v0.2.0](https://hexdocs.pm/ecto_dbg/)
+  * Ecto.dump [Deploying after mix ecto.dump · Fly](https://fly.io/phoenix-files/deploying-after-a-mix-ecto-dump/)
 * [ElixirScript - The goal is to convert a subset (or full set) of Elixir code to JavaScript, providing the ability to write JavaScript in Elixir](https://github.com/bryanjos/elixirscript)
 * [Elxlisp - Lisp 1.5 M-expression. Also S-expression is available with invoke option](https://github.com/sasagawa888/Elxlisp)
 * [Elixir Streams](https://www.elixirstreams.com/)
