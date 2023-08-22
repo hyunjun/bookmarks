@@ -2724,6 +2724,7 @@ Javascript
   * [Vite 환경에서 .env 활용하기 | Univdev](https://www.univdev.page/posts/vite-enviroment-variables/)
   * [Vite 4.0 is out! | Vite](https://vitejs.dev/blog/announcing-vite4.html)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
+  * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [wireit: Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient](https://github.com/google/wireit)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
