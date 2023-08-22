@@ -4434,6 +4434,7 @@ Javascript
 * [리액트 인터뷰 질문목록 (React Inter.. : 네이버블로그](https://blog.naver.com/gi_balja/223175957599)
 * [선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2083/)
 * [React에서 textarea의 입력 길이를 제한할 때 고려할 점 | DeveLife](https://yungis.dev/react/textarea-maxlength-limit/)
+* [**리액트로 인해 잊었거나 전혀 몰랐던 것들 | bohyeon.dev**](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
