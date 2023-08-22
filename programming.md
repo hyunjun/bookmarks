@@ -347,6 +347,7 @@ Programming
     * 개발자를 고객으로 생각해서 적절한 추상화를 통해 인지 부하 완화 필요
 * [DevOps를 가속화하는 플랫폼 엔지니어링│인프콘 2023 미리보기 | INFCON2023 - YouTube](https://www.youtube.com/watch?v=NiTchJph9e4)
   * [Infcon 2023에서 발표한 "DevOps를 가속화하는 플랫폼 엔지니어링" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1684)
+* [Platform Engineering On Kubernetes Part 1: Operators - DEV Community](https://dev.to/thenjdevopsguy/platform-engineering-on-kubernetes-part-1-operators-2ai4)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
