@@ -2651,6 +2651,7 @@ Business
 * [디자인 핸드오프에서 지켜야 할 3가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2099/)
 * [고객의 목소리를 한눈에 볼 수 있도록: 무신사의 VoC 대시보드 제작기 Part1 by UX파트 | MUSINSA tech](https://medium.com/musinsa-tech/voc-dashboard-development-part1-ec40412eb17f)
 * [맨땅에 UX 헤딩하기. 글. 이재선(Woojoo) / UX Designer | by 여기어때 UX Center | Aug, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A7%A8%EB%95%85%EC%97%90-ux-%ED%97%A4%EB%94%A9%ED%95%98%EA%B8%B0-683d671e9b2e)
+* [사용자 경험을 위한 의도적인 비효율 | Univdev](https://univdev.page/posts/dummy-delay-for-more-ux/)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
