@@ -1941,3 +1941,8 @@ Book
 * [<짧게 잘 쓰는 법> - 벌린 클링켄보그(박민.. : 네이버블로그](https://blog.naver.com/nsc2050/222216101339)
   * ★★★☆☆ 2023.07.29 coding과 연계하며 읽었는데 어느 정도 맞는 면이 있어서 혼자서 좋아하며 잘 읽었다. 번역체라 그런지 저자가 이야기하는 리듬감을 찾기는 어려웠으나 전반적으로 짧은 문장의 연속이라 읽기는 쉬웠지만 약간 비슷한 의미의 반복이라는 생각도 좀 들었다.
   * 탐라 문802-클239ㅉ 우당 문802-클239ㅉ 제주 802-클239짧
+  * [Several short sentences about writing 짧게 잘 쓰는 법](https://github.com/hyunjun/bookmarks/blob/master/books/several_short_sentences_about_writing.md)
+  * [Several short sentences about writing 짧게 잘 쓰는 법 | by Jun | Aug, 2023 | Medium](https://nymets.medium.com/several-short-sentences-about-writing-%EC%A7%A7%EA%B2%8C-%EC%9E%98-%EC%93%B0%EB%8A%94-%EB%B2%95-db63ab765f11)
+  * [Several short sentences about writing 짧게 잘 쓰는 법](https://recur.substack.com/p/several-short-sentences-about-writing)
+  * [Several short sentences about writing 짧게 잘 쓰는 법](https://jh4hj.tistory.com/entry/Several-short-sentences-about-writing-%EC%A7%A7%EA%B2%8C-%EC%9E%98-%EC%93%B0%EB%8A%94-%EB%B2%95)
+  * [Several short sentences about writing 짧게 잘 쓰는 법](https://www.notion.so/1003/Several-short-sentences-about-writing-e1b263478e19428d8f593e50be657b74)
