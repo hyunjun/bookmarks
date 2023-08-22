@@ -1571,6 +1571,7 @@
     * 현재 영어만 지원
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [Polyglot: Large Language Models of Well-balanced Competence in Multi-languages](https://github.com/EleutherAI/polyglot)
+  * [Japanese StableLM, Marking Entry into International Language Model  Market — Stability AI](https://stability.ai/blog/stability-ai-new-jplm-japanese-language-model-stablelm)
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
