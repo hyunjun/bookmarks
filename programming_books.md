@@ -1764,6 +1764,7 @@ Programming Books
 * (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
 * (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 | 동양북스](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2720)
+  * 우당 문005.11-아69ㅋ
   * [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 - 아마존 EKS로 배우는 데브옵스 및 IaC 기반 서비스 배포와 관리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1637)
   * [dybooksIT/k8s-aws-book: 동양북스 <AWS를 이용한 쿠버네티스 애플리케이션 배포> 저장소](https://github.com/dybooksIT/k8s-aws-book)
   * [polo149278/k8sbook: 개발자를 위한 k8s on AWS](https://github.com/polo149278/k8sbook)
@@ -4143,6 +4144,7 @@ Programming Books
   * 동부 005.14-타821지
   * [테스트 자동화 전에, 뭘 테스트해야 하는지부터 알아야 | 웹으로 말하기](https://mytory.net/archives/14386)
 * (NOT YET) 프런트엔드 개발자를 위한 테스트 가이드 [프런트엔드 개발자라면 꼭 알아야 할 4가지 오픈소스 테스트 자동화 프레임워크](https://jpub.tistory.com/1428)
+  * 탐라 문005.118-킨58ㅍ
 
 # UI/UX
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
