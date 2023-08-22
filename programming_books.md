@@ -2256,6 +2256,7 @@ Programming Books
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [자바 개발자를 위한 데브옵스 툴](https://hanbit.co.kr/store/books/look.php?p_code=B1030979866)
+  * [DevOps Tools for Java Developers](https://github.com/devops-tools-for-java-developers)
 * (NOT YET) [처음부터 제대로 배우는 스프링 부트](https://hanbit.co.kr/store/books/look.php?p_code=B4239384913)
   * [스프링 부트를 활용한 웹개발의 기본을 충분히 .. : 네이버블로그](https://blog.naver.com/drvoss/223164101787)
 
@@ -3746,6 +3747,9 @@ Programming Books
   * 탐라 문005.135-피818ㅍ
 * (NOT YET) [슬기로운 파이썬 트릭](https://www.youtube.com/watch?v=0_7zF_RnDcA)
   * [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』 – 도서출판 인사이트](https://blog.insightbook.co.kr/2019/01/23/%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ed%91%9c%ed%98%84%eb%a0%a5%ec%9d%84-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a0%a4-%ec%a3%bc%eb%8a%94%e3%80%8e%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-%ed%8c%8c%ec%9d%b4%ec%8d%ac/)
+* (NOT YET) [백엔드를 위한 Django REST Framework with 파이썬](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931466195&seq=7047&cate_cd=1&child_cate_cd=9&goPage=8&orderByCd=3)
+  * 한라 005.133- 권883ㄷ
+  * [drf_for_backend](https://github.com/TaeBbong/drf_for_backend)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
