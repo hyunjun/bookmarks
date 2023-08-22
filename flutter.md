@@ -281,6 +281,7 @@ Flutter
   * [retrofit을 이용하여 서버데이터 받아오기](https://blog.naver.com/pjt3591oo/222332468185)
 * [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
   * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
+* [sdimage_viewer: Stable diffusion image and meta info viewer](https://github.com/alongthecloud/sdimage_viewer)
 * [ZeroTo7Seg: ⚗️ (Team 0to100) Flutter 7-segment OCR using Tesseract LSTM](https://github.com/SemteulGaram/ZeroTo7Seg)
 
 # TDD, Test
