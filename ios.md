@@ -126,6 +126,7 @@ iOS
 * [네비게이션 바에서 큰 타이틀 사용하기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/enable-navigation-bar-large-title/)
 * [iOS Modular Architecture 를 향한 여정 Part 1 — XcodeGen 도입과 모듈화의 시작 | by Wooseong Kim | 29CM TEAM | Medium](https://medium.com/29cm/modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xcodegen-%EB%8F%84%EC%9E%85%EA%B3%BC-%EB%AA%A8%EB%93%88%ED%99%94%EC%9D%98-%EC%8B%9C%EC%9E%91-19a7f7b6401a)
 * [iOS Modular Architecture 를 향한 여정 Part 2 — 프로젝트 모듈화, 레거시와 공존하기 | by Wooseong Kim | 29CM TEAM | Apr, 2023 | Medium](https://medium.com/29cm/ios-modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%93%88%ED%99%94-%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%99%80-%EA%B3%B5%EC%A1%B4%ED%95%98%EA%B8%B0-d63f5e454573)
+* [레고처럼 조립하는 토스 앱](https://toss.tech/article/slash23-iOS) Microfeatures architecture
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
