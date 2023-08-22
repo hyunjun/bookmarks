@@ -2,6 +2,8 @@
 
 ![0.jpg](several_short_sentences_about_writing/0.jpg)
 
+- ★★★☆☆ 2023.07.29 coding과 연계하며 읽었는데 어느 정도 맞는 면이 있어서 혼자서 좋아하며 잘 읽었다. 번역체라 그런지 저자가 이야기하는 리듬감을 찾기는 어려웠으나 전반적으로 짧은 문장의 연속이라 읽기는 쉬웠지만 약간 비슷한 의미의 반복이라는 생각도 좀 들었다.
+
 ![1.jpg](several_short_sentences_about_writing/1.jpg)
 
 > 오직 얼마나 좋은 문장인지가 중요
