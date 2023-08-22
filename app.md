@@ -1192,6 +1192,7 @@ App
 * [Quick Tip: Enable Touch ID for sudo – Six Colors](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/) `/etc/pam.d/sudo` 파일을 수정해서 `sudo` 명령어 사용할 때 비밀번호 대신 맥북 TouchID 사용
 * [**50 macOS Tips and Tricks Using Terminal (the last one is CRAZY!) - YouTube**](https://www.youtube.com/watch?v=qOrlYzqXPa8) command
 * [macOS에 설치된 HAXM 삭제하기](https://cliearl.github.io/posts/android/uninstall-haxm-macos/)
+* [맥에서 CapsLock 한영 전환이 제대로 안 될 때가 많아서 대소문자 전환 기능을 끔 | 웹으로 말하기](https://mytory.net/archives/14755)
 
 ## Mac App
 * [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
