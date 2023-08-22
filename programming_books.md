@@ -478,8 +478,9 @@ Programming Books
   * [Becoming-an-Agile-Software-Architect: Becoming an Agile Software Architect, published by Packt](https://github.com/moseskim/Becoming-an-Agile-Software-Architect)
   * [9781800563841_ColorImages.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static.packt-cdn.com/downloads/9781800563841_ColorImages.pdf)
 * (NOT YET) [다시 장인 정신 《소프트웨어 장인 정신 이야기》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2023/02/28/%EB%8B%A4%EC%8B%9C-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%E3%80%8A%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%EC%9D%B4%EC%95%BC%EA%B8%B0%E3%80%8B)
-  * 한라
+  * 한라 005.12-마888ㅅ
 * (NOT YET) [애자일 개발의 기술 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/agile-art)
+  * 우당 문005.74-쇼63ㅇ
 
 # Algorithm
 
@@ -1207,7 +1208,7 @@ Programming Books
 * (NOT YET) [실전 금융산업 빅데이터 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=318456782)
 * (NOT YET) [자바와 파이썬으로 만드는 빅데이터 시스템](https://jpub.tistory.com/1414) kafka pyarrow spark
   * 한라 005.76-황54ㅂ 우당 문005.76-황53ㅂ
-  * [BigData_Code_황세규.zip - Google Drive](https://drive.google.com/file/d/1QL8cdASpzIGJp8hjxadUUs9cRkmuki1C/view)
+  * [BigData Code 황세규.zip - Google Drive](https://drive.google.com/file/d/1QL8cdASpzIGJp8hjxadUUs9cRkmuki1C/view)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
