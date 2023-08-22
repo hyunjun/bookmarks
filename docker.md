@@ -885,6 +885,7 @@ Docker
 * [Best practices for writing Dockerfiles | Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 * [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
+* [Docker RUN vs CMD vs ENTRYPOINT: Demystifying the Differences - DEV Community](https://dev.to/kittipat1413/docker-run-vs-cmd-vs-entrypoint-demystifying-the-differences-2a4p)
 * [dockerfile: Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
 * [Dockerfile Best Practices for Developers - DEV Community 👩💻👨💻](https://dev.to/pavanbelagatti/dockerfile-best-practices-for-developers-mh2)
 * practice
