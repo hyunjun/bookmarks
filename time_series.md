@@ -200,6 +200,7 @@ Time Series
 * [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Basic Time Series Manipulation with Pandas](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea)
 * [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+* [PyData Heidelberg #11 - TimeSeries Forecasting & LLM Langchain - YouTube](https://www.youtube.com/watch?v=Glbwb5Hxu18)
 * [darts: A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts) 시계열 예측, PyTorch
   * [Time Series Made Easy in Python — darts documentation](https://unit8co.github.io/darts/)
   * [Darts For Time Series Forecasting (Python Library for Forecasting) - YouTube](https://www.youtube.com/watch?v=mWZfHxQLp_4)
