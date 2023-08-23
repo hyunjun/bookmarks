@@ -1093,6 +1093,7 @@ Programming
 * [API 메시업과 Fault Tolerance 문제 해결 전략](https://dev.gmarket.com/86)
 * [API Evolution without Versioning - YouTube](https://www.youtube.com/watch?v=dIr-16CzC4M)
 * [How to improve API performance?](https://www.linkedin.com/feed/update/urn:li:activity:7090649861280157696/)
+* [오늘도 여러분의 API 는 안녕하신가요? - 인프콘2023 · Present](https://present.do/documents/64dd4b8f10ab9a5ae56909f4)
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
