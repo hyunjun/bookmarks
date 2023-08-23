@@ -1067,6 +1067,7 @@
 * [Eliminating Shuffles in Delete Update, and Merge - YouTube](https://www.youtube.com/watch?v=AIZjy6_K0ws)
 * [Tech Chat: Faster Spark SQL: Adaptive Query Execution in Databricks - YouTube](https://www.youtube.com/watch?v=bQ33bwUE-ms)
 * [Sentiment Analysis on Demonetization in India using Apache Spark - Projects Based Learning](https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/)
+* [HiveQL을 Spark SQL로 이전 시 발생하는 문제 해결하기](https://engineering.linecorp.com/ko/blog/from-hiveql-to-sparksql-troubleshooting)
 * [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
   * 실험 단계
   * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
