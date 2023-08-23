@@ -8,6 +8,7 @@ AWS
 * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
 * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
 * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
+* [Simple AWS Series' Articles - DEV Community](https://dev.to/guilleojeda/series/24248)
 * [Category: AWS Community Heroes](https://aws.amazon.com/ko/blogs/korea/category/aws-community-heroes/)
 * [awesome-aws - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome](https://github.com/donnemartin/awesome-aws)
 * [AWS in Plain English](https://aws.plainenglish.io/)
