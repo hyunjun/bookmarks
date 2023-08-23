@@ -145,3 +145,5 @@ Concurrency
 * [프로세스와 스레드의 차이](https://velog.io/@raejoonee/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 * [Multi Thread 모르면 Backend 개발자 아님 - YouTube](https://www.youtube.com/playlist?list=PLR24aVs517wgs8uL1UawG8CgHQWYMx202)
   * [multi-thread](https://github.com/myc0058/multi-thread)
+* [멀티 스레드 프로그래밍 #1 | 와탭 블로그](https://www.whatap.io/ko/blog/164/index.html)
+* [멀티 스레드 프로그래밍 #2 가장 쉽게 설명한 Active Object 패턴 | 와탭 블로그](https://www.whatap.io/ko/blog/171/index.html)
