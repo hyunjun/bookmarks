@@ -1091,6 +1091,7 @@ Docker
   * 결론은 성능을 향상하길 원한다면 limit을 걸지 않기를 권장
 * [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
   * [terraform-aws-coreos-kubernetes](https://github.com/kz8s/tack)
+* [2. 테라폼을 이용한 EKS 설치 및 로컬 관리 환경 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-23-jennifer-kubernetes-2/)
 * [GitHub 계정으로 Kubernetes 인증하기](https://dailyhotel.io/kubernetes-with-dex-integration-f456e22dd8e4)
 * [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
