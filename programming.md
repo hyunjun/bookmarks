@@ -1690,6 +1690,7 @@ Programming
 * [아키텍처 시각화 패턴 II | Architecture 101](https://architecture101.blog/2013/10/08/architecture_visualization_ii/)
 * [아키텍처 시각화 패턴 III | Architecture 101](https://architecture101.blog/2023/08/20/archiecture_visualization_iii/)
 * [Do you want to learn Clean Architecture and DDD? I have prepared 45 lessons for you](https://www.linkedin.com/posts/milan-jovanovic_do-you-want-to-learn-clean-architecture-and-activity-7098258778063581185-3b5r/)
+* [Taxonomy 대응을 위한 좋은 아키텍처 | Univdev](https://univdev.page/posts/good-taxonomy-architecture/)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
