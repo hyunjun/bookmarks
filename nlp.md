@@ -2609,6 +2609,7 @@
 * [AudioCraft: A simple one-stop shop for audio modeling](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
   * [Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning](https://github.com/facebookresearch/audiocraft)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
+* [Awesome-Korean-Speech-Recognition: 한국어 음성인식 STT API 리스트. 각 성능 벤치마크](https://github.com/rtzr/Awesome-Korean-Speech-Recognition)
 * [coqui](https://github.com/coqui-ai)
 * [DeepSpeech: DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers](https://github.com/mozilla/DeepSpeech)
   * [DeepSpeech 0.6: Mozilla’s Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
