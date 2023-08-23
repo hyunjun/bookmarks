@@ -114,6 +114,30 @@ Writing
 * [Why engineers should focus on writing - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/why-engineers-should-write/)
   * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
 
+# App
+* latex
+  * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
+  * [Scripts for Latex to HTML5 conversion](https://github.com/smarr/latex-to-html5)
+  * [온라인으로 쓰는 Latex, 오버리프(Overleaf) : 클리앙](https://www.clien.net/service/board/useful/8239796)
+  * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
+  * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
+  * ["HWP 수식을 LaTeX으로"…오픈소스 변환기 등장](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161229092520)
+  * [라텍스 수식 편집기](http://ko.numberempire.com/texequationeditor/equationeditor.php)
+  * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
+  * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
+  * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  * [Learn LaTeX online for free in beginner friendly lessons | learnlatex.org](https://www.learnlatex.org/en/)
+  * [Web Publications — LaTeX Style](https://goessner.github.io/mdmath/publication.html)
+  * [LaTex Markdown 수식 작성법](https://velog.io/@d2h10s/LaTex-Markdown-%EC%88%98%EC%8B%9D-%EC%9E%91%EC%84%B1%EB%B2%95)
+  * [LaTeX.css — Make your website look like a LaTeX document](https://latex.now.sh/)
+  * [mathpix - LaTeX, instantly](https://mathpix.com/)
+  * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
+  * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
+  * Tectonic [Rust로 작성된 TeX 컴파일러, Tectonic](https://www.jiwon.me/tectonic/)
+* [Typst: Compose papers faster](https://typst.app/)
+  * [새로운 Latex인 Typst 자습서](https://velog.io/@huansock/%EC%83%88%EB%A1%9C%EC%9A%B4-Latex%EC%9D%B8-Typst%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
+  * [awesome-typst: Awesome Typst Links](https://github.com/qjcg/awesome-typst)
+
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
 
