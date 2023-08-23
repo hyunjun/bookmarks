@@ -362,6 +362,11 @@ Java
     * [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
     * [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
     * [JVM Anatomy Quark #26: Identity Hash Code](https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/)
+* Optional
+  * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
+  * [**Java Optional 바르게 쓰기 - 뒤태지존의 끄적거림**](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0)
+  * [Mohamed Taman - Do you use Optional class as it should be? - YouTube](https://www.youtube.com/watch?v=_O81ve3ChG0)
+  * [Using Optional in Java the right way - DEV Community](https://dev.to/sohailshah/using-optionals-in-java-the-right-way-4aho)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * Serializable
@@ -1706,9 +1711,6 @@ Java
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
-* [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
-* [**Java Optional 바르게 쓰기 - 뒤태지존의 끄적거림**](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0)
-* [Mohamed Taman - Do you use Optional class as it should be? - YouTube](https://www.youtube.com/watch?v=_O81ve3ChG0)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
 * [정확히 트랜잭션이 롤백 되었을 때 장바구니를 복원하기 -TransactionSynchronization afterCompletion (Rollback hook)](https://tjdrnr05571.tistory.com/9)
