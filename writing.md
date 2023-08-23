@@ -258,6 +258,7 @@ Writing
 * [넷마블 테크니컬 라이터로 일한 8개월의 회고 - 넷마블 기술 블로그](https://netmarble.engineering/8-months-in-the-life-of-a-technical-writer-at-netmarble/)
 * [Engineering Documentation • Lorna Jane Mitchell • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=Z5OrR99OpiY)
 * [테크니컬 라이팅 강연에서 나왔던 질문과 답변 모음 | make -k it (메이킷)](https://medium.com/make-k-it/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85-%EA%B0%95%EC%97%B0%EC%97%90%EC%84%9C-%EB%82%98%EC%99%94%EB%8D%98-%EC%A7%88%EB%AC%B8%EA%B3%BC-%EB%8B%B5%EB%B3%80-%EB%AA%A8%EC%9D%8C-d5df32c75c48)
+* [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [TCN - Technical Communicator Network : 네이버 카페](https://cafe.naver.com/tcnkorea)
 * [WriteTheDocsSeoul | Facebook](https://www.facebook.com/groups/writethedocsseoul)
 
