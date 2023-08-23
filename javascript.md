@@ -1672,7 +1672,7 @@ Javascript
 * [jqTree - a jQuery widget for displaying a tree structure in html It supports json data, loading via ajax and drag-and-drop](http://mbraak.github.io/jqTree/)
 
 # Library
-* [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io **](https://github.com/gothinkster/realworld)
+* [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io**](https://github.com/gothinkster/realworld)
   * [Home — Conduit](https://demo.realworld.io/#/) demo
   * * Medium 블로그 서비스 클론. 거의 모든 프레임워크로 똑같이 만들어 보는 오픈소스 프로젝트 → 같은 API 스펙이라 프론트/백엔드 스택 마음대로 매칭 가능
   * 프론트 (29가지): React/Redux, Angular, Vue, Elm, Svelte/Sapper, Next, Ember, Riot ...
@@ -2483,6 +2483,8 @@ Javascript
   * [three.js examples](https://threejs.org/examples/)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Tiny Slider 2 | Vanilla Javascript Slider for All Purposes](https://morioh.com/p/0ed7686c73be)
+* [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
+  * [간편한 툴팁 라이브러리 Tippy.js | 웹으로 말하기](https://mytory.net/archives/14763)
 * Tiptap [Dev toolkit for building collaborative editors – Tiptap](https://tiptap.dev/examples/default)
   * ProseMirror 기반의 텍스트 에디터. 데모에서 동작 확인 가능
   * 익스텐션을 통해서 에디터의 기능을 추가할 수 있고, 쉽게 익스텐션을 만들 수 있는 도구 제공
