@@ -113,6 +113,7 @@ Writing
 * [개발자가 알아두면 좋은 기술 블로그 운영 팁 5가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2134/)
 * [Why engineers should focus on writing - Dmitry Kudryavtsev](https://www.yieldcode.blog/post/why-engineers-should-write/)
   * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
+* [문서 쓰는 디자이너. 알라미 팀 디자이너가 문서 작성하는 법 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AC%B8%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-e4d34ff20456)
 
 # App
 * latex
