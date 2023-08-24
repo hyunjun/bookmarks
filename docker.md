@@ -689,7 +689,6 @@ Docker
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
-* [Introduction - The Kubebuilder Book](https://book.kubebuilder.io/)
 * [**PYRASIS.COM: 이재홍의 언제나 최신 Docker**](https://pyrasis.com/jHLsAlwaysUpToDateDocker)
 * [PYRASIS.COM: 이재홍의 언제나 최신 Kubernetes](https://pyrasis.com/jHLsAlwaysUpToDateKubernetes)
 
@@ -1986,6 +1985,9 @@ Docker
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
+* [Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder)
+  * [Introduction - The Kubebuilder Book](https://book.kubebuilder.io/)
+  * [Kubebuilder Tips and Tricks - DEV Community](https://dev.to/sklarsa/kubebuilder-tips-and-tricks-28jj)
 * [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
 * [kubectl-debug: Debug your pod by a new container with every troubleshooting tools pre-installed](https://github.com/aylei/kubectl-debug)
   * [Shell 없는 Container, Live 환경에서 Debugging해보기! | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/09/15/kubectl-debug-on-bottlerocket.html) Bottlerocket
