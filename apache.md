@@ -786,6 +786,8 @@ Apache
 * [Kafka is dead, long live Kafka - WarpStream](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
   * [WarpStream : Kafka는 죽었다, Kafka 만세! | GeekNews](https://news.hada.io/topic?id=10234)
 * [Real-time database replication using Kafka | by Shiva Prathipati | Medium](https://medium.com/@shiva.prathipati/real-time-database-replication-using-kafka-d9e7a592e476)
+* [실시간 코인시세 어디까지 알아봤니? part 1](https://joecp17.tistory.com/78)
+  * [kafka-bitcoin-stream: 실시간 비트코인 변동데이터를 통한 카프카 적용사례 구현 ( 빗썸, 업비트, 코빗 )](https://github.com/JoeCP17/kafka-bitcoin-stream)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
