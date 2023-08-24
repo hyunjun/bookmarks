@@ -430,3 +430,4 @@ Bitcoin
 * [3시간 웹3.0 길라집이 - Google Docs](https://docs.google.com/document/d/1EmccW21YVGA35R17-D8hHd0KUrPR1Y67lhUcc-LFxM4/edit)
 * [스타벅스의 웹3 전략 '오디세이' 총정리 - YouTube](https://www.youtube.com/watch?v=jpZaymNCFK4)
 * [팀 버너스리, Web3는 웹이 아니다(?) :: Channy's Blog](https://channy.creation.net/blog/1709)
+* [웹3 시대에서 '나'의 정체성은 어떻게 표현될까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2193/)
