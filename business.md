@@ -145,6 +145,7 @@ Business
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
   * [규모가 안 나오는 일도 해라](http://ppss.kr/archives/34709)
+* [확장 가능하지 않은 일을 하라. Do things that don’t scale | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%99%95%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%9D%BC%EC%9D%84-%ED%95%98%EB%9D%BC-do-things-that-dont-scale-96005587d368)
 * [비즈니스 성장을 위해 꼭 확인할 분석수치 TOP 8](http://ppss.kr/archives/37872)
 * [어떻게 나는 내 친구들과 사이드 프로젝트를 $17,000/월 비지니스로 성장시켰는가 (How my friends and I grew our side project into a $17,000/month business)](https://www.vobour.com/book/view/eSbfGjLiAoEyY6yBq)
 * [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
@@ -255,6 +256,7 @@ Business
 * [팀장님은 어느 팀 소속인가요? – Dreaming for the Future](http://www.chidoo.me/index.php/2022/11/12/what-team-a-leader-belongs-to/) 협업
 * [함께 일한다는 것에 대하여 — 프로세스보단 상호작용에 가치를! | by Katanazero | Sep, 2022 | Medium](https://medium.com/@zero86/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%97%90-%EA%B0%80%EC%B9%98%EB%A5%BC-e7929fcc0c18) 협업
 * [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
+* [모든 사람이 디자이너다. 받아들여라.. Everyone is a designer. Get over it. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%8B%A4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EB%9D%BC-f47ca3da26c0) 결국 중요한 것은 협업
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
@@ -1753,6 +1755,7 @@ Business
 * [따를 만한 리더가 되는 법](https://brunch.co.kr/@graypool/1123)
 * [개발자를 성장시키는 리더의 7가지 특징 | 요즘IT](https://yozm.wishket.com/magazine/detail/2178/)
 * [“AI 시대에도 ‘적극적 경청’은 리더의 의무”](https://v.daum.net/v/20230817200023451)
+* [왜 더 이상 리더가 되기를 원하지 않는 걸까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadersareleaving20230823)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2051,6 +2054,7 @@ Business
 * [사용자의 ‘인게이지먼트’를 측정하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2127/)
 * [프로덕트 오퍼레이션 팀은 무슨 일을 하는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/2159/)
 * [첫 구독 유도의 중요성. 온보딩 구매화면의 비밀 | by Stephan Seunghwan Seo | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-c1955c33d9d9)
+* [알라미 구독 글로벌 진출 후기. Intro 알라미는 현재 다니고 있는 스타트업 제품입니다. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EA%B5%AC%EB%8F%85-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C-%ED%9B%84%EA%B8%B0-475c0e058a06)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2109,6 +2113,8 @@ Business
 * ["맨땅에 헤딩이 습관" 유쾌한 능력자 김동환 쿠팡PO 인터뷰 | 요즘IT](https://yozm.wishket.com/magazine/detail/2101/)
 * [개발자와 일하는 법 (한글 번역) | How .. : 네이버블로그](https://blog.naver.com/bizucafe/223147356404)
 * [우당탕탕 PO 성장 패키지. 글. 박효진(Andy) / Product Owner | by Andy Park | Aug, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-po-%EC%84%B1%EC%9E%A5-%ED%8C%A8%ED%82%A4%EC%A7%80-65d1bb6ea623)
+* [Product Manager 직무에 대한 고찰. Backlog Manager 와의 차별점 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/product-manager-%EC%A7%81%EB%AC%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-7c78684a4e26)
+* [현실 타협은 후퇴다! 안 되는 일을 되게 만드는 PM이란? | 우아한형제들 기술블로그](https://techblog.woowahan.com/13249/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
