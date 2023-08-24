@@ -92,6 +92,8 @@ Bitcoin
   * [What is SAFT in Crypto: Why is it important? - Phemex Academy](https://phemex.com/academy/what-is-saft-crypto)
 * [이 코드를 사용하면 감옥에 갈 수 있습니다..!? - YouTube](https://www.youtube.com/watch?v=_yFXW1wzhzY) tornado cash
 * [핫핑크 가발쓰고 데브콘은 처음이라. Ethereum Devcon VI @ Bogota, Colombia… | by Sigrid Jin | Boom💥Labs — The open basecamp for Web3 Builders. | Oct, 2022 | Medium](https://medium.com/boom-labs/%ED%95%AB%ED%95%91%ED%81%AC-%EA%B0%80%EB%B0%9C%EC%93%B0%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%98%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-2ccc7fdf5da6)
+* [The Open Problems of Onchain Games](https://www.paradigm.xyz/2023/08/onchain-games)
+  * [온체인 게임의 미해결 과제 (번역)](https://snack.planetarium.dev/kor/2023/08/paradigm-onchain-game-kr-translation/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
