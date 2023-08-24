@@ -4595,6 +4595,8 @@ Python
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
   * [Ray AI Runtime (AIR) — Ray 2.3.0](https://docs.ray.io/en/latest/ray-air/getting-started.html)
     * [Antoni Baum - HuggingFace + Ray AIR Integration: A Python developer’s guide to | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5GlqH_PCSJE)
+  * [kuberay: A toolkit to run Ray applications on Kubernetes](https://github.com/ray-project/kuberay)
+    * [Use Ray on Kubernetes with kuberay | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/use-ray-on-kubernetes-with-kuberay)
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
