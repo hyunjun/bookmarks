@@ -198,6 +198,7 @@ Deep Learning
     * [Sung Kim - #openai #functioncall #plugin #skynet #무섭고놀라운아침 OpenAI... | Facebook](https://www.facebook.com/hunkims/posts/pfbid0359RoM8EpsR8hfmvVML73MMVVrL9gT6yiKKhtJ3z7HkV1cyicDqMqMMkZEVDwhBLkl)
     * [OpenAI GPT-4 Function Calling: Unlimited Potential - YouTube](https://www.youtube.com/watch?v=0lOSvOoF2to)
   * [OpenAI 의 미래 로드맵 - 샘 알트만 대담 요약 - TILNOTE](https://tilnote.io/pages/64795bc39dead21f3a1309ce)
+  * [Developing an AI-based Business Data Analyst using OpenAI Function Calling - Bernhard Schäfer - YouTube](https://www.youtube.com/watch?v=HHxDbDYc3Qo)
   * [evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks](https://github.com/openai/evals)
   * [openai-scala-client: Scala client for OpenAI API](https://github.com/cequence-io/openai-scala-client)
   * [openai-zio: A ZIO API Client for Open AI's API](https://github.com/ianshiundu/openai-zio)
