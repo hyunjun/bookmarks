@@ -673,6 +673,7 @@ Business
 * [직원 경험(Employee Experience)의 시대 > Insight | HCG](https://www.e-hcg.com/bbs/board.php?bo_table=gallery&wr_id=71)
 * [혁신이 파괴적일 필요는 없다](https://brunch.co.kr/@graypool/999)
 * [**DANO 모형**](https://dano.oopy.io/34b0bff7-e0a2-4201-a47f-2c6b60937e72)
+* [AI 통합, 앞서가는 회사는 무엇을 알고 있나](https://brunch.co.kr/@graypool/1127) 결국 business의 성공에 필요한 process는 분야에 무관하게 적용 가능하다
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
