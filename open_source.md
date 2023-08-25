@@ -122,6 +122,7 @@ Open Source
 * [칼럼 | AWS의 조용한 오픈소스 혁명 - CIO Korea](https://www.ciokorea.com/news/288313)
 * [오픈소스 '슬기롭게' 사용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2035/)
 * [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
+* [더욱 견고해진 LINE의 오픈소스 관리: OpenChain 인증과 그 뒷이야기를 소개합니다](https://engineering.linecorp.com/ko/blog/line-achieves-openchain-isoiec-5230-certification)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
