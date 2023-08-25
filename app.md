@@ -920,6 +920,7 @@ App
   * [VS Code New Sticky Scroll Feature - Mateen Mehmood - Medium](https://medium.com/@mateendev3/vs-code-new-sticky-scroll-feature-c44859bc9fe9)
   * [VS Code - What's the deal with the telemetry?](https://www.roboleary.net/tools/2022/04/20/vscode-telemetry.html)
   * [VS Code Day 2023 - YouTube](https://www.youtube.com/watch?v=X3qUfOB3x8Q)
+  * [Visual Studio Code 자동 포매팅 안하고 저장하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/906)
   * C/C++
     * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
