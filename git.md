@@ -466,6 +466,7 @@ Git
 * [GitHub Actions으로 배포 자동화해 보기(a.k.a CI/CD) - 1편 - 골든래빗](https://goldenrabbit.co.kr/2023/07/05/github-actions%EB%A1%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%B4-%EB%B3%B4%EA%B8%B0a-k-a-ci-cd-1%ED%8E%B8/)
 * [GitHub Actions으로 배포 자동화해 보기(a.k.a CI/CD) - 2화 - 골든래빗](https://goldenrabbit.co.kr/2023/07/05/github-actions%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%B4-%EB%B3%B4%EA%B8%B0a-k-a-ci-cd-2%ED%8E%B8/)
 * [How GitHub Actions 10x my productivity - YouTube](https://www.youtube.com/watch?v=yfBtjLxn_6k)
+* [github actions를 이용하여 PR 발생 시 테스트코드 구동](https://blog.naver.com/pjt3591oo/223192966275)
 * [act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
   * [act으로 깃허브 액션즈를 로컬에서 테스트하기](https://blog.naver.com/pjt3591oo/222890739427)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
