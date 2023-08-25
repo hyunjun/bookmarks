@@ -5530,6 +5530,7 @@ Javascript
   * [Introduction to web Automation testing with Playwright - YouTube](https://www.youtube.com/watch?v=2_BPIA5RgXU)
   * [PlaywrightExamples](https://github.com/ek121268/PlaywrightExamples)
   * [Playwright and Python feat Andrew Knight (@automationpanda) Live at PyCon US - YouTube](https://www.youtube.com/watch?v=o5EH2qVIoDo)
+  * [Pitfalls to Avoid in Playwright for Node.js - DEV Community](https://dev.to/appsignal/pitfalls-to-avoid-in-playwright-for-nodejs-3hpl)
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
