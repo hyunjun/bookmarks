@@ -940,6 +940,8 @@ Programming
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [애자일로 개발하면 빨리 끝난다던데? / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-agile/)
 * [What Your Mother Never Told You About Agile Development • Aino Vonge Corry • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZFKqlfJiGEQ)
+* [가장 효과적인 애자일 프레임워크 13가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2177/)
+* [애자일 프레임워크 제대로 활용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2196/)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
