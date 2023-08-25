@@ -104,6 +104,7 @@ Json
 * [json-den-java: JSON parser and stringifier library](https://github.com/hyunikn/json-den-java)
 * [kson - A Java serialization/deserialization library to convert Java Objects into json and back, faster and powerful then Gson](https://github.com/realtimetech-solution/kson)
 * [moshi: A modern JSON library for Kotlin and Java](https://github.com/square/moshi)
+  * [Moshi, Moshi~ 직렬화를 원하신다구요?](https://blog.imqa.io/json-moshi/)
 
 # JavaScript
 * [JSON Text를 JSON Object로 변환하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/257)
