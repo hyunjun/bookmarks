@@ -1022,6 +1022,7 @@ Web
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/api-the-docs-recap/)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
+  * [프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger | 요즘IT](https://yozm.wishket.com/magazine/detail/2195/)
 * [tiny frontend](https://tiny-frontend.github.io/)
 * [Transform](https://transform.tools/) A polyglot web converter
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
