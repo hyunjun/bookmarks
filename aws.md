@@ -1516,6 +1516,8 @@ AWS
 * [AWS RDS PostgreSQL에서 Slow, Error, DDL 쿼리 발생시 Slack 발송하기](https://jojoldu.tistory.com/711) jest cloudwatch
 * [AWS Lambda를 활용한 동적 Redirect Server 구축하기 (Dynamic HTML Serving)](https://jojoldu.tistory.com/724)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
+* [CRUD-Serverless-API-Python-G](https://github.com/Assassin010/CRUD-Serverless-API-Python-G)
+  * [Build a CRUD Serverless API from scratch using AWS Lambda (Python), API Gateway, and DynamoDB. - DEV Community](https://dev.to/aws-builders/build-a-crud-serverless-api-from-scratch-using-aws-lambda-api-gateway-and-dynamodb-1ia4)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
   * [Firecracker v1.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=5967)
