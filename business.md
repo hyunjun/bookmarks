@@ -2508,6 +2508,7 @@ Business
 * [반드시 해야 할 존속 가능성에 대한 질문](https://brunch.co.kr/@graypool/1023)
 * [Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기 | GeekNews](https://news.hada.io/topic?id=9482)
 * [지분을 어떻게 나눌까?](https://www.linkedin.com/posts/ibreakshit_cartadata-founderequity-startups-activity-7087602508100993024-Jjq8/)
+* [스타트업 - 외주](https://www.facebook.com/bokyun.lee.9/posts/pfbid02qRDd63sgj1Cum1fyBV5JkaDcmHYyfwXqC97wM4PPGq5da4PvJbnsJrn4v2uKxn6Vl)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
