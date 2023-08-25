@@ -173,6 +173,8 @@ App
 * [radio.garden](http://radio.garden/)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [recpic.co.kr](http://recpic.co.kr/) 가계부 앱
+* [Remotely: A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR](https://github.com/immense/Remotely)
+  * [Remotely - An Open Source, Self Hosted, Remote Desktop and Remote Support Tool with Power! - YouTube](https://www.youtube.com/watch?v=t-TFvr7sZ6M)
 * RescueTime
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
