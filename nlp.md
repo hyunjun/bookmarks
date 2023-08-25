@@ -844,6 +844,7 @@ NLP
   * [코드 없이 실시간 웹 서비스를 만들어 보기](https://mrobo2016.notion.site/mrobo2016/5086175cbbe04a12a4eef8a647e3b842)
   * [기술은 끝이 없다. - 정육각 그리고 초록마을의 사업에서 치열하게 수정하고, 개선하고, 끝없이 학습하는 개발자의 이야기](https://blog.jeongyookgak.com/service/2023/08/01/gpt-applied-search.html)
   * [Creating Jarvis powered by OpenAI and Python | ChatGPT - YouTube](https://www.youtube.com/watch?v=BEw5EFqCCEI)
+  * [긴급방송 ChatGPT 파인튜닝 코드 공유 및 시연 - TheMatrix 이태희 대표(빵형의개발도상국) - YouTube](https://www.youtube.com/watch?v=3JNgRcvf2YA)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
