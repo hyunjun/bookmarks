@@ -877,6 +877,7 @@ AWS
 * [지속 가능한 효율적이고 비용 최적화 된 AWS 기반 애플리케이션 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/building-sustainable-efficient-and-cost-optimized-applications-on-aws/)
 * [비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
 * [비용 최적화 시리즈 2부: AWS Config의 비용 최적화 방안 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/cost-optimization-recommendations-for-aws-config/)
+* [AWS 요금 계산기](https://calculator.aws/)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
