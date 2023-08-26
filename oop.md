@@ -294,6 +294,7 @@
 * [Extending Object Behavior with the Decorator Pattern](https://hackernoon.com/extending-object-behavior-with-the-decorator-pattern-6b6b329c6c10)
 * [Decorator Design Pattern Example in Java Tutorial | Java67](https://www.java67.com/2013/07/decorator-design-pattern-in-java-real-life-example-tutorial.html)
 * [템플릿 메소드 패턴](https://astrod.github.io/design_pattern/2018/11/20/Head-First-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4/)
+* [디자인 패턴 핀테크 개발자가 알려주는 디자인 패턴 활용 - 템플릿 메서드와 전략패턴](https://blog.naver.com/pjt3591oo/223194006906)
 * [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 * [다형성과 동적 바인딩](https://brunch.co.kr/@mystoryg/60)
 * [static binding vs dynamic binding 어느 시점에 결정되는가](https://codingdog.tistory.com/entry/static-binding-vs-dynamic-binding-%EC%96%B4%EB%8A%90-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B2%B0%EC%A0%95%EB%90%98%EB%8A%94%EA%B0%80)
