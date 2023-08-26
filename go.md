@@ -577,6 +577,7 @@ Go
 * [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [A Beginner's Guide to Golang Channels - YouTube](https://www.youtube.com/watch?v=lqo0Ao_DgFw)
 * [Channels and Go Routines - CodeTips - Helping Developers](https://codetips.dev/channels-and-go-routines/)
+* [Limit concurrent function executions using Go channels - DEV Community](https://dev.to/daholino/limit-concurrent-function-executions-using-go-channels-ceb)
 * [Diving in Async programming tricks with Golang | by Nikhil Chawla | Feb, 2022 | Medium](https://medium.com/@chawlanikhil24/diving-in-async-programming-tricks-with-golang-8b2155f7bcd3)
 * [Go (Golang) with Async/Await. Go (Golang) with Async/Await | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/go-golang-with-async-await-a0c2e259a668)
 * [Async/Await in Golang: An Introductory Guide](https://morioh.com/p/741a732a6179)
