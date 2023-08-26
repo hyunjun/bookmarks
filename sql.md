@@ -833,6 +833,7 @@ SQL
 * [MySQL BOOLEAN 컬럼. PostgreSQL 서버와 같은 RDBMS 서버는 네이티브하게… | by Sunguck Lee | 당근마켓 팀블로그 | Mar, 2023 | Medium](https://medium.com/daangn/mysql-boolean-%EC%BB%AC%EB%9F%BC-7abd9b35c664)
 * [MySQL에 View를 만들 땐 파생 테이블을 주의하자](https://velog.io/@hyemin916/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90-View%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%90-%EC%9E%84%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-%EC%A3%BC%EC%9D%98%ED%95%98%EC%9E%90)
 * [입만 가지고 떠드는 개발자가 ChatGPT에게 외주줘서 만든 Mysql 복제지연 모니터링](https://d2.naver.com/helloworld/8532139)
+* [MySQL 접속 장애 예방 및 해결 방법, How to prevent and solve MySQL connection failure - YouTube](https://www.youtube.com/watch?v=7uvtQwJP5zc)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
