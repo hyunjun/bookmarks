@@ -96,6 +96,8 @@ GIS
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
   * [QGIS3rdPartySW: This is only to share the QGIS plugin Source what i modified](https://github.com/kekero1004/QGIS3rdPartySW)
+* [Project Pythia](https://projectpythia.org/)
+  * [PyData Chicago August 2023 Meetup | PyDDA: A New Pythonic multiple-Doppler analysis package - YouTube](https://www.youtube.com/watch?v=xA7q4vaw8LE)
 * [pydeck: Large-scale interactive data visualization in Python](https://github.com/uber/deck.gl/tree/master/bindings/python/pydeck)
 * [python-geoip](https://pythonhosted.org/python-geoip/)
 
