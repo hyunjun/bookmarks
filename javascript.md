@@ -1115,6 +1115,8 @@ Javascript
 * [Event Loop in JavaScript - DEV Community](https://dev.to/abhij1607/event-loop-in-javascript-35pk)
 * [What you should know to really understand the Node.js Event Loop | by Daniel Khan | Node.js Collection | Medium](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 * [What are micro tasks and macro tasks in the event loop? | by Ajit Fawade | Globant | Aug, 2022 | Medium](https://medium.com/globant/what-are-micro-tasks-and-macro-tasks-in-the-event-loop-29bc0abdd445)
+* [Node.js asynchronous flow control and event loop](https://amplication.com/blog/nodejs-asynchronous-flow-control-and-event-loop)
+  * [번역 Node.js 비동기 흐름 제어 및 이벤트 루프](https://velog.io/@surim014/nodejs-asynchronous-flow-control-and-event-loop)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
