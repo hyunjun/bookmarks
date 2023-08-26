@@ -5216,6 +5216,7 @@ Python
   * [2022-abtest](https://github.com/ArjanCodes/2022-abtest)
 * [Code coverage through unit tests running in sub-processes/threads - presented by Saransh Chopra - YouTube](https://www.youtube.com/watch?v=OwA8hfLclTg)
 * [Testing in Python - YouTube](https://www.youtube.com/playlist?list=PLnK6m_JBRVNoYEer9hBmTNwkYB3gmbOPO)
+* [Python's assert: Debug and Test Your Code Like a Pro – Real Python](https://realpython.com/python-assert-statement/)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * behave [Welcome to behave! — behave 1.2.6 documentation](https://behave.readthedocs.io/) BDD
   * [junit2html: Turn Junit XML reports into self contained HTML reports](https://github.com/inorton/junit2html)
