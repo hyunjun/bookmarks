@@ -225,7 +225,11 @@ Programming
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
 * [김창준 - 전문성 101 - 연습을 통하지 않고서는 전문가가 될 수 없다](https://www.facebook.com/cjunekim/posts/pfbid02mqDNcDevaJrrrv8MVbAEu19qhoypJ7xX8w4bzNMAXfFavBAcnnQ6CUuKu2WVCkQMl)
-  * [애자일 이야기 : 달인이 되는 비결](http://agile.egloos.com/5612585)
+  * [애자일 이야기 : 달인이 되는 비결](http://web.archive.org/web/20230302201247/http://agile.egloos.com/5612585)
+    > 꾸준하게 반복하는 걸 통해 달인이 되려면 적어도,
+    > 1. 실력을 개선하려는 동기가 있어야 하고
+    > 2. 구체적인 피드백을 적절한 시기에 받아야 한다
+    > 고 말할 수 있겠습니다. 단순히 반복한다고 해서 달인이 될 수 없습니다.
 * [MIT 컴공을 1년만에 독학으로 끝낸 문과생의 학습법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ultralearning20191017)
 * [야생학습 하고 있나요?. 쿠키런 킹덤이란 게임을 1년이상 했다. 수집형 RPG 게임이라 적당히… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/%EC%95%BC%EC%83%9D%ED%95%99%EC%8A%B5-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-fc35f2954a07)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
@@ -940,8 +944,8 @@ Programming
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [애자일로 개발하면 빨리 끝난다던데? / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-agile/)
 * [What Your Mother Never Told You About Agile Development • Aino Vonge Corry • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=ZFKqlfJiGEQ)
-* [가장 효과적인 애자일 프레임워크 13가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2177/)
-* [애자일 프레임워크 제대로 활용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2196/)
+* [**가장 효과적인 애자일 프레임워크 13가지 | 요즘IT**](https://yozm.wishket.com/magazine/detail/2177/)
+* [**애자일 프레임워크 제대로 활용하는 법 | 요즘IT**](https://yozm.wishket.com/magazine/detail/2196/)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
