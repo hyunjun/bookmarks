@@ -1621,6 +1621,9 @@ Book
 * [클루지](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2855577)
   * ★★★☆☆ 2023.08.14~16
   * 한라 180.4-마874ㅋ 탐라 문181.38-마823ㅋ 우당 문181.38-마823ㅋ
+* [비폭력 대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961)
+  * ★★★★☆ 2023.08.23,26
+  * 한라 331.18-로74비 탐라 문189-로73ㅂ 우당 문189-로73ㅂ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
@@ -1633,8 +1636,6 @@ Book
   * 우당 문181.81-내43ㅇ
 * (NOT YET) [내면소통](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311899364)
   * 한라 189.1-김76ㄴ 탐라 문189-김77ㄴ 우당 문189.1-김77ㄴ
-* (NOT YET) [비폭력 대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961)
-  * 한라 331.18-로74비 탐라 문189-로73ㅂ 우당 문189-로73ㅂ
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
