@@ -245,6 +245,7 @@ SQL
 * ['is not NULL'과 '!= NULL'은 다르다?](https://yeonyeon.tistory.com/307)
 * [디비 주문구조 설계 - 동시성 고려를 위한.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223187705803)
 * [디비 추적 가능한 테이블 설계 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223188329119)
+* [디비 게시판 구조 설계 - 게시글 관리 그.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223193892552)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
