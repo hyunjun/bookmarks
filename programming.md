@@ -5425,6 +5425,7 @@ Programming
 * [Top No-Code Development Tools In 2023 | by CodeCircuit | JavaScript in Plain English](https://javascript.plainenglish.io/top-no-code-development-tools-in-2022-fc179633682c)
   * [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
+* [Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
 * [도다툴 | Disquiet\*](https://disquiet.io/product/%EB%8F%84%EB%8B%A4%ED%88%B4) 코딩없이 심리테스트를 만들 수 있는 사이트
 * [리틀리 | Disquiet\*](https://disquiet.io/product/%EB%A6%AC%ED%8B%80%EB%A6%AC) 모두를 위한 페이지 빌더
