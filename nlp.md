@@ -2706,6 +2706,7 @@ NLP
   * [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
   * [Whisper-WebUI: A Web UI for easy subtitle using whisper model.](https://github.com/jhj0517/Whisper-WebUI)
     * [그래픽카드로 자막을 만든다? 무료 Ai 자막 생성 프로그램 Whisper-WebUI - YouTube](https://www.youtube.com/watch?v=jRbdj27J6b8)
+  * [WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 * [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
