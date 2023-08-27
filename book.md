@@ -1205,6 +1205,9 @@ Book
   * ★★★★☆ 2023.06.10 세상 많은 문제가 그렇듯 친일파 문제를 흑백논리로 나눌 수 없다는 점을 알려주는 책. 보통 사람의 친일 또한 지나갈 문제가 아니며, 프랑스나 독일이 과거사 청산에 성공했다는 것도 '신화'에 불과하다는 것 등 대부분의 사람들이 모르는 많은 역사적인 사실/해석에 대해 어떤 자세로 접근하고 생각해야 할 지 알려준다. 결국 끝에는 역사를 돌아보는 방법, 왜 그렇게 보는가에 대한 이야기까지 이어진다. 나이가 들면서 바뀐 생각들이 몇 가지가 있는데 이 책 또한 그런 점에서 개인적으로 생각할 거리가 많은, 좋은 책이었다.
   * 한라 911.06-조94ㅇ 우당 문911.06-조94ㅇ
   * [사회학자 조형근의 <우리 안의 친일>을 읽었다](https://www.facebook.com/orumi65/posts/pfbid0QpkJFiqpQHeJ6CeLraT53Kf7FkjWu19XvjYhQF4XcJ16486D46w7ZYirQC1W5aKSl)
+* [만화로 보는 피스톨 스토리](https://hanbit.co.kr/store/books/look.php?p_code=B1249731403)
+  * ★★★☆☆ 2023.08.27
+  * 탐라 문394.56-푸238ㅍ
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
