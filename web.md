@@ -1408,6 +1408,7 @@ Web
   * [Flask’s Latest Rival in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)
   * [How to Build a Data Science Web App in Python](https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020)
   * [파이썬 Streamlit 활용 - Short URL에 Qrcode기능을 포함 #python #업무자동화 - YouTube](https://www.youtube.com/watch?v=0oMoISj27Is)
+  * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
 * [Taipy, an open-source Python library for building your web applications frontend & backend](https://www.taipy.io/)
 * [Tornado Web Server](https://www.tornadoweb.org/)
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
