@@ -833,6 +833,7 @@ NLP
   * [실전! 인공지능 챗봇 개발 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/ai-chatbot/)
   * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
   * [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
+  * [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
   * [ChatGPT로 네이티브 지식없이 react-native-cookies 패키지 Android 버그 해결하기 | 오토피디아 블로그](https://blog.doctor-cha.com/solving-an-android-bug-in-the-react-native-cookies-package-using-chatgpt)
   * [마이크로소프트에게 내용증명 받고 23만 유저 앱 삭제한 건에 대하여 🗑️ @ Sunghyun Cho](https://cho.sh/ko/w/5ADC58)
   * [챗 GPT, 정말 잘 쓰고 있나요?. 글. 이지윤(Jeanne) / Product Strategist | by 이지윤(Jeanne) | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%B1%97-gpt-%EC%A0%95%EB%A7%90-%EC%9E%98-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-4c5fe0aac074)
