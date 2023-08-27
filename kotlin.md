@@ -404,6 +404,7 @@
 * [코루틴 빌더 (Coroutine Builder)](https://brunch.co.kr/@mystoryg/183)
 * [코루틴 delay 함수](https://brunch.co.kr/@mystoryg/184)
 * [코루틴 suspend 함수](https://brunch.co.kr/@mystoryg/185)
+* [코루틴 스코프 (CoroutineScope)](https://brunch.co.kr/@mystoryg/187)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
