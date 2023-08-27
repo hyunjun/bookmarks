@@ -206,6 +206,7 @@ Artificial Intelligence
 * [IT TREND 초거대 AI 최신 키워드 : #소비자 #효율](https://tech.kakaoenterprise.com/192)
 * [Landscape of AI/ML in 2023](https://www.slideshare.net/HyunJoonJung/landscape-of-aiml-in-2023)
 * [The AI Hierarchy of Needs | HackerNoon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+* [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0) 전반적인 역사 및 흐름
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
