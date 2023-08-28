@@ -724,6 +724,7 @@ Business
 * [“매년 바뀌는 조직… 싫으면 나가래요” ‘마음 움직이는 소통·구체적 업무’가 우선이다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/7822) 조직 개편
 * [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=Eie_kxwzyfQ) 조직 확장, 확대, 성장에 대한 이야기
 * [VDIASI23 - Adrian Miron - Unlocking Your Team Potential: Discovering Your Unique Role for Success - YouTube](https://www.youtube.com/watch?v=dHiya7Yi0I0)
+* [팀장 1명 당 팀원 몇 명을 관리하는 것이 가장 효율적일까? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5-1%EB%AA%85-%EB%8B%B9-%ED%8C%80%EC%9B%90-%EB%AA%87-%EB%AA%85%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-7d06dddbbf36)
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
