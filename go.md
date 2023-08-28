@@ -221,6 +221,7 @@ Go
 * [Clean Architecture with GO](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
 * [Trying Clean Architecture on Golang](https://hackernoon.com/golang-clean-archithecture-efd6d7c43047)
 * [Hexagonal Architecture using Go (Fiber) | by Carlos García Rosales | Medium](https://cgarciarosales97.medium.com/hexagonal-architecture-using-go-fiber-b2925fd677b5)
+* [Hexagonal Architecture Design Pattern In Go - YouTube](https://www.youtube.com/watch?v=4hMqaw_3Ncs)
 * [**golang을 이용한 구독 커머스 아키텍처 설계 | funes-days**](https://funes-days.com/dev/backend-architecture-with-golang)
 * [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
 * [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
