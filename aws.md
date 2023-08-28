@@ -567,6 +567,7 @@ AWS
 * [웹 소켓 연결 받는 법 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9-%EC%86%8C%EC%BC%93-%EC%97%B0%EA%B2%B0-%EB%B0%9B%EB%8A%94-%EB%B2%95-d717f18f1117)
 * [Serverless Architecture using AWS Lambda, API Gateway and DynamoDB](https://morioh.com/p/915be75bf31c)
 * [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
+* [Amazon API Gateway 프라이빗 통합에서의 VPC 링크 이해 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-vpc-links-in-amazon-api-gateway-private-integrations/)
 
 # Architecture
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
