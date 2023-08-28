@@ -313,6 +313,8 @@
 * [Learn SOLID Principles with CLEAN CODE Examples - YouTube](https://www.youtube.com/watch?v=_jDNAf3CzeY)
 * [Interface Segregation Principle | SOLID Principles | Java Code - YouTube](https://www.youtube.com/watch?v=w5Funt8A48Q)
 * [Design Patterns Revisited in Modern Java by Venkat Subramaniam - YouTube](https://www.youtube.com/watch?v=yTuwi--LFsM)
+* [design-patterns-for-humans: An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans/tree/master)
+  * [(번역) 우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans/)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
