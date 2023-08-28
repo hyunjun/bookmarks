@@ -1503,6 +1503,7 @@ Machine Learning
 * [Building a Machine Learning Web Application Using Flask | by Gerry Christian Ongko | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/building-a-machine-learning-web-application-using-flask-29fa9ea11dac)
 * [Christian Hundt & Miguel Martínez - Machine Learning Frameworks Interoperability - YouTube](https://www.youtube.com/watch?v=H9PIeH7fgqs)
 * [JIm Dowling - Build a production ML system with only Python on free serverless services - YouTube](https://www.youtube.com/watch?v=dgBFShBuV4k)
+* [Scaling Python for Machine Learning: Beyond Data Parallelism • Holden Karau • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=IX3300umebg)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
