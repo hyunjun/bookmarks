@@ -1411,6 +1411,14 @@ NLP
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
+* [AutoGPTQ: An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm](https://github.com/PanQiWei/AutoGPTQ)
+  * [Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
+    * 대규모 언어 모델은 텍스트 이해와 생성에 뛰어난 능력을 가질 수 있지만 비싼 GPU와 같은 하드웨어 요구 사항이 증가
+      * 오픈소스 모델이 나와도 로컬에서 테스트 힘듦
+    * 허깅 페이스는 모든 사용자가 이러한 모델에 쉽게 접근할 수 있게 하기 위해 AutoGPTQ 라이브러리를 Transformers에 통합
+      * 사용자는 GPTQ 알고리즘으로 모델의 정밀도를 8, 4, 3, 2비트로 조정 가능
+      * 특히, 4비트 양자화는 정확도 저하가 적으며 추론 속도도 fp16 기준과 유사
+      * 이 기능은 Nvidia와 AMD GPU에서 모두 사용 가능
 * [autotrain-advanced: 🤗 AutoTrain Advanced](https://github.com/huggingface/autotrain-advanced)
   * [코드 1줄 Llama 2 내 데이터로 파인튜닝 Colab에서 - YouTube](https://www.youtube.com/watch?v=GjZ1a0OJqGk)
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
