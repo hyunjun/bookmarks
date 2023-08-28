@@ -2834,6 +2834,7 @@ Programming Books
   * [Blitz Scaling](https://jh4hj.tistory.com/entry/Blitz-Scaling)
   * [Blitz Scaling - Jun’s Substack](https://recur.substack.com/p/blitz-scaling)
   * [OpenAI도 성장에 참고한 '그 책' 12분 만에 보기 | 블리츠스케일링 (1/2) - YouTube](https://www.youtube.com/watch?v=QDkqI_jrsxo)
+  * [샘 알트만도 적용한 '블리츠스케일링' 식 성장 전략 | Blitzscaling (2/2) - YouTube](https://www.youtube.com/watch?v=x7dP3CRah40)
 * [개발자에게 물어보세요](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313405468)
   * ★★★★☆ 2023.04.30~05.01 몇몇 스타트업을 창업하고 아마존에서 일한 후 twilio라는 좋은 회사를 만들어낸 제프 로슨의 이야기. 개발 조직을 잘 운영하고 생산성을 향상시키려면 어떤 마음가짐/문화로 회사를 운영해야 하는지, 개발자 출신 CEO의 경험을 읽을 수 있다. 아마존의 AWS의 초창기를 경험한 사람이라 아마존 관련 책을 읽으면 흔히 볼 수 있는 부분들도 포함되어 있지만, 어쩐지 더 읽기 편하고 친근한 느낌이 든다. 내가 경험했던 C level들 중에도 읽어보라고 권하고 싶은 사람들이 떠오른다.
   * 탐라 문325.24-로58ㄱ
