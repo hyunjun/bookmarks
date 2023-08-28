@@ -127,6 +127,7 @@ iOS
 * [iOS Modular Architecture 를 향한 여정 Part 1 — XcodeGen 도입과 모듈화의 시작 | by Wooseong Kim | 29CM TEAM | Medium](https://medium.com/29cm/modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-xcodegen-%EB%8F%84%EC%9E%85%EA%B3%BC-%EB%AA%A8%EB%93%88%ED%99%94%EC%9D%98-%EC%8B%9C%EC%9E%91-19a7f7b6401a)
 * [iOS Modular Architecture 를 향한 여정 Part 2 — 프로젝트 모듈화, 레거시와 공존하기 | by Wooseong Kim | 29CM TEAM | Apr, 2023 | Medium](https://medium.com/29cm/ios-modular-architecture-%EB%A5%BC-%ED%96%A5%ED%95%9C-%EC%97%AC%EC%A0%95-part-2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%AA%A8%EB%93%88%ED%99%94-%EB%A0%88%EA%B1%B0%EC%8B%9C%EC%99%80-%EA%B3%B5%EC%A1%B4%ED%95%98%EA%B8%B0-d63f5e454573)
 * [레고처럼 조립하는 토스 앱](https://toss.tech/article/slash23-iOS) Microfeatures architecture
+* [클린아키텍처(CleanArchitecture)는 모바일 개발에 도움이 되는가 ? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-cleanarchitecture-%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80-237cb3c7580d)
 * [GS SHOP App의 메모리 확보 :: GS Retail Engineering](https://gsretail.tistory.com/31)
 * [identifierForVendor를 이용한 기기 식별하기 :: iOYES](https://green1229.tistory.com/364)
 * [@discardableResult를 왜 쓰지? :: iOYES](https://green1229.tistory.com/367)
@@ -275,6 +276,7 @@ iOS
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [Building Functional Apps](https://realm.io/news/sam-soffes-building-functional-apps/)
 * [Functional Swift](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/videos)
+* [함수형 프로그래밍이 뭐길래?. (feat. Generics) | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4-%EB%AD%90%EA%B8%B8%EB%9E%98-4dcd14fe3c47)
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
 * [Making a Numeric Type in Swift](http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift)
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
@@ -601,6 +603,7 @@ iOS
 * [SwiftUI에서 타이머 구현하기 (feat. Notification) :: iOYES](https://green1229.tistory.com/398)
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
 * [SwiftUI로 음성메모 구현하기 :: iOYES](https://green1229.tistory.com/396)
+* [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
 ## Swift Library
