@@ -225,6 +225,7 @@ Writing
   * [Create beautiful documents with Quarto and R - YouTube](https://www.youtube.com/watch?v=y5VcxMOnj3M)
   * ["파이썬, 비주얼 스튜디오 사용자 품는다” 차세대 R 마크다운, 콰르토 - ITWorld Korea](https://www.itworld.co.kr/news/245776)
   * [코딩으로 문서 작성하는 콰르토(Quarto) 톺아보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1883/)
+  * [quarto, webR, github page로 서버리스 shiny application 만들기 · Present](https://present.do/documents/64e98f167b111b10ca473ab4)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
