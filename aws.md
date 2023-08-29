@@ -2049,6 +2049,7 @@ AWS
       * 이를 균등하게 분산하고 복제는 이 부분에서도 도움
   * 특히 S3에 합류한 이후 소프트웨어로만 생각하는 것으로 충분치 않고 S3라는 시스템은 이를 운영하는 조직과 사용하는 고객의 코드도 포함된다는 것을 배움
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
+* [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
   * [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
   * [Mountpoint for Amazon S3 정식 출시 – 오픈 소스 기반 파일 시스템 클라이언트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
