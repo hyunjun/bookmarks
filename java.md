@@ -2253,6 +2253,7 @@ Java
   * [프로젝트 리액터 기초 1 - 모노 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-1-%EB%AA%A8%EB%85%B8)
   * [프로젝트 리액터 기초 2 - 플럭스 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B8%B0%EC%B4%88-2-%ED%94%8C%EB%9F%AD%EC%8A%A4)
   * [프로젝트 리액터 고급 활용 :: 날샘 코딩](https://devsh.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%84%B0-%EA%B3%A0%EA%B8%89-%ED%99%9C%EC%9A%A9)
+  * [무지성 flatMap은 그만, Reactor operator 파헤치기](https://d2.naver.com/helloworld/3158221)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
   * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
