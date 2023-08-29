@@ -94,4 +94,5 @@ Presentation
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
   * [slides.com/news/code-line-numbers](https://slides.com/news/code-line-numbers/)
+* [snappify - Create beautiful code snippets with ease](https://snappify.com/)
 * [**spectacle-code-slide**](https://github.com/thejameskyle/spectacle-code-slide)
