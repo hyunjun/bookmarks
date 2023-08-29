@@ -1169,6 +1169,8 @@ AWS
 * [Amazon EKS 윈클릭 배포 가이드 (’23.6.6 업데이트)](https://gasidaseo.notion.site/Amazon-EKS-23-6-6-16ed4098c3314802a1e4dbf12a9d1da8)
 * [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp/)
 * [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
+* [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
+* [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
@@ -1184,6 +1186,8 @@ AWS
   * [About HardenEKS (install & custom)](https://heuristicwave.github.io/HardenEKS)
   * [HardenEKS: Validating Best Practices For Amazon EKS Clusters Programmatically | Containers](https://aws.amazon.com/ko/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/)
     * [HardenEKS: Amazon EKS 클러스터를 프로그래밍 방식으로 모범 사례 검증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically-kr/)
+* [kubectl-aws-eks: A Github action for kubectl, the Kubernetes CLI](https://github.com/kodermax/kubectl-aws-eks)
+  * [kubectl-aws-eks · Actions · GitHub Marketplace](https://github.com/marketplace/actions/kubectl-aws-eks)
 
 # Elastic Beanstalk
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
