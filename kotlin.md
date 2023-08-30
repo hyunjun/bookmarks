@@ -96,6 +96,7 @@
 * ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
 * [새로운 Gradle 빌드의 기본 언어로 채택된 Kotlin DSL | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/05/kotlin-dsl-is-the-default-for-new-gradle-builds/)
 * [**배민광고리스팅 개발기 (feat. 코프링과 DSL 그리고 코루틴) | 우아한형제들 기술블로그**](https://techblog.woowahan.com/7349/)
+* [Kotlin Context Receivers and DSL Magic | by smallufo | Jul, 2023 | Medium](https://medium.com/@smallufo/kotlin-context-receivers-and-dsl-magic-73aee25bca23)
 * [tosspayments-restdocs: 선언형 문서 작성 라이브러리](https://toss.tech/article/tosspayments-restdocs)
 * [How to implement “cacheable” pagination of frequently changing content](https://medium.freecodecamp.org/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81)
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
