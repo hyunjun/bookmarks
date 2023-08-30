@@ -126,6 +126,8 @@ Elixir
 * [B2B SaaS 의 보안을 높여주는 데이터 암호화 in Elixir · Json Media](https://json.media/blog/data_encryption_in_elixir)
 * [Walkthrough of Elixir’s Adapter Pattern | Aaron Renner’s Blog](https://aaronrenner.io/2023/07/22/elixir-adapter-pattern.html)
 * [Implicit try in Elixir | Curiosum tils](https://curiosum.com/til/elixir-implicit-try-error-handling)
+* [Elixir Saves Pinterest $2 Million a Year In Server Costs](https://paraxial.io/blog/elixir-savings)
+  * [Erlang/Elixir Korea | Elixir가 Pinterest의 서버 비용을 년간 $2M(26억원) 절감 | Facebook](https://www.facebook.com/groups/elixir.korea/posts/2979053342229319/)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
