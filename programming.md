@@ -1700,6 +1700,7 @@ Programming
 * [아키텍처 시각화 패턴 I | Architecture 101](https://architecture101.blog/2013/09/09/architecture_visualization_i/)
 * [아키텍처 시각화 패턴 II | Architecture 101](https://architecture101.blog/2013/10/08/architecture_visualization_ii/)
 * [아키텍처 시각화 패턴 III | Architecture 101](https://architecture101.blog/2023/08/20/archiecture_visualization_iii/)
+* [아키텍처 설계 및 평가 학습 가이드라인 (커리큘럼) | Architecture 101](https://architecture101.blog/2023/08/30/architecture_curriculum/)
 * [Do you want to learn Clean Architecture and DDD? I have prepared 45 lessons for you](https://www.linkedin.com/posts/milan-jovanovic_do-you-want-to-learn-clean-architecture-and-activity-7098258778063581185-3b5r/)
 * [Taxonomy 대응을 위한 좋은 아키텍처 | Univdev](https://univdev.page/posts/good-taxonomy-architecture/)
 * [arc42 - arc42](https://arc42.org/)
