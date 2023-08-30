@@ -1828,6 +1828,8 @@ App
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [kbd-audio: 🎤⌨️ Acoustic keyboard eavesdropping](https://github.com/ggerganov/kbd-audio)
 * Kodi [Open Source Home Theater Software | Kodi](https://kodi.tv/)
+* [Lottielab | Create and Edit Lottie Animations](https://www.lottielab.com/)
+  * [GIF보다 작고 또렷한 로티 애니메이션 제작 ‘Lottielab’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2202/)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
