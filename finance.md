@@ -118,6 +118,7 @@ Finance
 * [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
 * [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
 * [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
+* [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw) 발행어음
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
