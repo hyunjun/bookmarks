@@ -808,6 +808,11 @@ Book
 * [세상의 모든 전략은 삼국지에서 탄생했다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=293960757)
   * ★★★☆☆ 2023.07.22~23
   * 탐라 문325.211-임66ㅅ 우당 문325.211-임66ㅅ
+  * [戰略 세상의 모든 전략은 삼국지에서 탄생했다](https://github.com/hyunjun/bookmarks/blob/master/books/strategy_of_romance_of_three_kingdoms.md)
+  * [戰略 세상의 모든 전략은 삼국지에서 탄생했다](https://www.notion.so/1003/eb609f92ffe54646a97db4326ef4a114)
+  * [戰略 세상의 모든 전략은 삼국지에서 탄생했다 - Jun - Medium](https://nymets.medium.com/%E6%88%B0%E7%95%A5-%EC%84%B8%EC%83%81%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%84%EB%9E%B5%EC%9D%80-%EC%82%BC%EA%B5%AD%EC%A7%80%EC%97%90%EC%84%9C-%ED%83%84%EC%83%9D%ED%96%88%EB%8B%A4-c60c17b237f1)
+  * [戰略 세상의 모든 전략은 삼국지에서 탄생했다 - Jun’s Substack](https://recur.substack.com/p/932)
+  * [戰略 세상의 모든 전략은 삼국지에서 탄생했다](https://jh4hj.tistory.com/entry/%E6%88%B0%E7%95%A5-%EC%84%B8%EC%83%81%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%A0%84%EB%9E%B5%EC%9D%80-%EC%82%BC%EA%B5%AD%EC%A7%80%EC%97%90%EC%84%9C-%ED%83%84%EC%83%9D%ED%96%88%EB%8B%A4)
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
   * 한라 325.19-갤294ㅍ 탐라 문325.19-갤233ㅍ 우당 문331.18-갤233ㅍ
 * (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
