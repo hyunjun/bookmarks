@@ -274,6 +274,7 @@ Nomad & Remote
 * [깃허브 (GitHub) 같은 회사에서 효율적인 재택근무 (Remote work) 가 가능한 이유 | by Bryant Jimin Son | May, 2023 | Medium](https://bryantson.medium.com/%EA%B9%83%ED%97%88%EB%B8%8C-github-%EA%B0%99%EC%9D%80-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-remote-work-%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B4%EC%9C%A0-4515035690af)
 * [GitLab CEO: 'Remote work is just work' | Fortune](https://fortune.com/2022/06/21/gitlab-ceo-remote-work-just-work-careers-success-leadership-pandemic-sid-sijbrandij/)
 * [Remote Working Approaches That Worked (And Some That Didn’t) • Charles Humble • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=sQOHhoCSfak)
+* [재택근무, 사이드잡, 그리고 떨](https://www.thestartupbible.com/2023/08/work-from-home-side-jobs-and-weed.html)
 * [Basecamp: Remote Work](https://basecamp.com/articles/category/remote-work)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
