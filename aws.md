@@ -449,6 +449,7 @@ AWS
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
 * [Data Lake with Serverless | 월요일 오후 9시](https://medium.com/monday-9-pm/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
   * Data Warehouse와 Data Lake의 탄생 배경, AWS의 Serverless로 구조를 설계하는 방법 설명
+* [AWS에서의 Transactional Data Lake를 위한 오픈 테이블 형식(Open table format) 선택 가이드 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choosing-an-open-table-format-for-your-transactional-data-lake-on-aws/)
 * [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
 * [NRISE를 지탱하는 기술 — 인프라. NRISE는 국내 소셜 디스커버리 시장을 선도하는 위피(WIPPY)와… | by Daegeun Kim | Nov, 2022 | NRISE](https://blog.nrise.net/nrise%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%9D%B8%ED%94%84%EB%9D%BC-b93f9771d6e0)
   * 위피와 콰트를 운영하는 엔라이즈에서 지난 1년간 인프라를 개선 시킨 과정과 도입한 도구 정리
