@@ -2843,6 +2843,8 @@ CVPR2016)
   * [Make-A-Video : Text-To-Video Generation Without Text-Video Data :: Ostin](https://ostin.tistory.com/130)
 * [Runway - Online Video Editor | Everything you need to edit video, fast](https://runwayml.com/)
   * [Text to Video: Early Access - YouTube](https://www.youtube.com/watch?v=mYjfIc9xw90)
+* [StableVideo: ICCV 2023 StableVideo: Text-driven Consistency-aware Diffusion Video Editing](https://github.com/rese1f/StableVideo)
+  * [TensorFlow KR | StableVideo: Text-driven Consistency-aware Diffusion Video Editing (2308, Zhejiang Unversity / Microsoft Asia) | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2117021161972264/)
 * [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://github.com/Picsart-AI-Research/Text2Video-Zero)
 
 # Tutorial
