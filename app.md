@@ -2469,6 +2469,7 @@ App
   * [**개발자 윈도우 세팅 (WSL 서브 리눅스, IntelliJ, vscode, git 등) - Nahwasa**](https://nahwasa.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%B8%ED%8C%85-WSL-%EC%84%9C%EB%B8%8C-%EB%A6%AC%EB%88%85%EC%8A%A4-IntelliJ-vscode-git-%EB%93%B1#powerlevel10k_%EC%84%A4%EC%B9%98)
   * [잠깐 20초만 한눈을 팔면, 멈춰 서는 WSL - 넷마블 기술 블로그](https://netmarble.engineering/wsl-status-changed-to-stopped-after-closing-terminal)
   * [wsl에서 파이참 터미널 열 때 가상환경 자동 활성화하는 방법](https://martinii.fun/437) pycharm
+  * [WSL sudo 사용 시 Windows Hello 사용하기](https://velog.io/@composite/WSL-sudo-%EC%82%AC%EC%9A%A9-%EC%8B%9C-Windows-Hello-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
