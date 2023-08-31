@@ -1024,6 +1024,7 @@ AWS
 * [Installing Docker on EC2 Instance (AWS) - YouTube](https://www.youtube.com/watch?v=y5pct8_NwTg)
 * [EC2에 배포된 Spring 웹 애플리케이션에서 AWS 리소스에 액세스할 때 주의해야할 점](https://kim-jong-hyun.tistory.com/136)
 * [HTTPS for Your EC2 Web Server](https://www.letr.ai/blog/tech-20211201)
+* [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
