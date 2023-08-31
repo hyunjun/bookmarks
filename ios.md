@@ -149,6 +149,9 @@ iOS
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
+* [kwdc.dev](https://kwdc.dev/)
+  * [SwiftUI Animation이라는 바다를 헤엄쳐 봅시다! - KWDC23 - YouTube](https://www.youtube.com/watch?v=86H8t0yNFA8)
+    * [GREENOVER/KWDC2023: Deep dive to SwiftUI Animation 🤿](https://github.com/GREENOVER/KWDC2023)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
