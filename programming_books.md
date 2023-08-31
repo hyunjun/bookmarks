@@ -1685,6 +1685,10 @@ Programming Books
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
   * 탐라 문004.61-애228ㅇ
   * [SRE를 위한 시스템 설계와 구축](https://jybaek.tistory.com/969)
+* (NOT YET) [관찰 가능성 엔지니어링](https://hanbit.co.kr/store/books/look.php?p_code=B1273787042)
+  * 한라 005.11-보884ㄱ
+  * [Cloud-Native-Observability: Cloud Native Observability with OpenTelemetry, Published by Packt](https://github.com/PacktPublishing/Cloud-Native-Observability)
+  * [opentelemetry-python: OpenTelemetry Python API and SDK](https://github.com/open-telemetry/opentelemetry-python/tree/main)
 
 # DevRel Developer Relation Tech Evangelist
 * [기업의 성공을 이끄는 Developer Relations](https://www.hanbit.co.kr/store/books/look.php?p_code=B9102351881)
@@ -1792,6 +1796,9 @@ Programming Books
   * 우당 문005.11-허77ㅋ
   * [k8s-dev-strategy/book](https://github.com/k8s-dev-strategy/book)
 * (NOT YET) [매니징 쿠버네티스 - 창시자가 알려주는 쿠버네티스 클러스터 현장 운영 기법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1668)
+* (NOT YET) [코어 쿠버네티스 | 위키북스](https://wikibook.co.kr/corek8s/)
+  * 한라 005.11-비62ㅋ
+  * [corek8s: 《코어 쿠버네티스》 예제 코드](https://github.com/wikibook/corek8s)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -3755,6 +3762,11 @@ Programming Books
 * (NOT YET) [백엔드를 위한 Django REST Framework with 파이썬](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931466195&seq=7047&cate_cd=1&child_cate_cd=9&goPage=8&orderByCd=3)
   * 한라 005.133- 권883ㄷ
   * [drf_for_backend](https://github.com/TaeBbong/drf_for_backend)
+* (NOT YET) [파이썬 크래시 코스](https://hanbit.co.kr/store/books/look.php?p_code=B9283379859)
+  * 한라 005.133-마884ㅍ
+  * [Python Crash Course, 3rd Edition | No Starch Press](https://nostarch.com/python-crash-course-3rd-edition)
+  * [Python Crash Course, Third Edition](https://ehmatthes.github.io/pcc_3e/)
+  * [한빛출판네트워크](https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B9283379859)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
@@ -4201,6 +4213,10 @@ Programming Books
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
 * (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359/)
   * 탐라 문005.133-이73O
+* (NOT YET) [실전! 컴퓨터비전을 위한 머신러닝 | 위키북스](https://wikibook.co.kr/mlvision/)
+  * 한라 004.73-락56ㅅ
+  * [practical-ml-vision-book](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)
+  * [practical-ml-vision-book-ko: 《실전! 컴퓨터비전을 위한 머신러닝》 실습 코드](https://github.com/ychoi-kr/practical-ml-vision-book-ko)
 
 # Window
 * [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
