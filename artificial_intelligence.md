@@ -207,6 +207,7 @@ Artificial Intelligence
 * [Landscape of AI/ML in 2023](https://www.slideshare.net/HyunJoonJung/landscape-of-aiml-in-2023)
 * [The AI Hierarchy of Needs | HackerNoon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 * [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0) 전반적인 역사 및 흐름
+* [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

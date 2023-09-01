@@ -2127,7 +2127,6 @@ NLP
 * [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
 
 # News
-
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
   * [이 기사는 로봇이 썼을까, 기자가 썼을까](http://www.bloter.net/archives/227482)
 * [③로봇, 저널리즘을 넘보다](http://www.bloter.net/archives/232289)
