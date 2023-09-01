@@ -671,6 +671,7 @@ Programming
 * [Latency Numbers Every Programmer Should Know By Year](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 * [Single binary executable packages -- Volution Notes](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
 * [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
+* [MySQL 타임스탬프와 Y2K38 문제 | 요즘IT](https://yozm.wishket.com/magazine/detail/2209/)
 * [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 * [제품으로서의 소프트웨어, 이를 만드는 제품 사고방식](https://brunch.co.kr/@graypool/325) Software as a Product
 * [**Abstraction: Not What You Think It Is | Path-Sensitive**](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
