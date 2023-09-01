@@ -104,6 +104,7 @@ Scala
     * 반공변(상속 관계가 반대로 변함)은 인자 타입의 상속 관계가 제네릭 타입에서 반대
     * 무공변은 인자 타입의 상속관계가 있더라도 제네릭 타입에선 아무 상속 관계가 없어짐
   * [공변성/반공변성(Variance)](https://twitter.github.io/scala_school/ko/type-basics.html#variance)
+  * [Variance (Scala language concept)](https://www.scala-algorithms.com/Variance/)
   * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
   * [Covariant Contravariant 정리](https://captainthomas.tistory.com/entry/Covariant-Contravariant-정리)
   * [Covariant Contravariant 그림으로 다시 정리](https://captainthomas.tistory.com/entry/Covariant-Contravariant-그림으로-다시-정리)
@@ -2710,6 +2711,7 @@ Scala
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
 * [iron: Strong type constraints for Scala](https://github.com/Iltotore/iron)
   * [Iron updates: turning opaque types into value objects | Anton Kovalevsky](https://antonkw.github.io/scala/iron-updates/)
+  * [Type safety with Iron - Dev notes](https://blog.michal.pawlik.dev/posts/scala/iron/)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
