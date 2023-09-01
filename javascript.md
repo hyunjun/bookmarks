@@ -2436,6 +2436,7 @@ Javascript
       * 쟁점이 되어 Rich Harris가 해커 뉴스에 글도 남겼는데 타입 안전성을 포기하는 것이 아니라 타입 선언을 TS 파일에서 JS 파일로 옮긴 것뿐이라
         * [Lordy, I did not expect an internal refactoring PR to end up #1 on Hacker News. ... | Hacker News](https://news.ycombinator.com/item?id=35892250)
         * TypeScript의 장점은 그대로 유지할 수 있으면서 패키지도 작아지고 디버깅도 쉬워질 것이라고 주장
+  * [이보다 더 쉬운 풀스택 프레임워크는 없다. 스벨트킷 핵심기능만 속성으로 알랴줌! - YouTube](https://www.youtube.com/watch?v=uQdkYDW5yJo)
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
@@ -4963,6 +4964,7 @@ Javascript
   * [SSR은 풀스택이 아니다](https://velog.io/@composite/SSR%EC%9D%80-%ED%92%80%EC%8A%A4%ED%83%9D%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
   * [How to Disable SSR for a Next.js Page](https://morioh.com/p/177629e93bb3)
   * [Adding Server-Side Rendering (SSR) in Next.js - YouTube](https://www.youtube.com/watch?v=2mif8l1QVts)
+  * [환경 고민없이 개발하기](https://toss.tech/article/22443) SSR
   * [10+ Best Next Js Project 2022 - ThemeSelection](https://themeselection.com/next-js-project/)
   * [React/Next.js에서 내부 링크인지, 외부 링크인지 자동으로 감지하기 - 알쓸없코 - 데빌 스튜디오](https://dev-il-studio.postype.com/post/12391101)
   * [Next.js application SEO and page speed optimization | by Bhojendra Rauniyar | readytowork-org | Jun, 2022 | Medium](https://medium.com/readytowork-org/next-js-application-seo-and-page-speed-optimization-c44cb0c92062)
@@ -5461,6 +5463,7 @@ Javascript
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
+  * [BackstopJS 적용 후기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230816-backstopjs-vrt2/)
 * [CodeceptJS](https://codecept.io/)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
