@@ -2387,6 +2387,7 @@ Programming
 * [Dark Energy, Dark Matter and the Microservices Patterns?! - YouTube](https://www.youtube.com/watch?v=MjEKuHwrwl8)
 * [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023 - YouTube](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 * [토스ㅣSLASH 23 - 은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기) - YouTube](https://www.youtube.com/watch?v=amTJyIE1wO0)
+  * [은행 최초 코어뱅킹 MSA 전환기 (feat. 지금 이자 받기)](https://toss.tech/article/slash23-corebanking)
 * [마이크로서비스, 그 단어의 역사. 2018년 이전에 고등학교를 졸업하신 분들께는 굉장히 생소할텐데… | by 김희수Higgs(힉스) / 기술기획팀 | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B7%B8-%EB%8B%A8%EC%96%B4%EC%9D%98-%EC%97%AD%EC%82%AC-3cce0133312)
 * [MSA에 테이블 복제는 없다 (feat. 공통.. : 네이버블로그](https://blog.naver.com/wharup/223174435788)
 * [MSA 서비스간 데이터 참조 가이드 (성능 튜.. : 네이버블로그](https://blog.naver.com/wharup/223188187194)
