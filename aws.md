@@ -1625,6 +1625,7 @@ AWS
   * [AWS CLI 사용하기 – Lamanus' Archive](https://lamanus.kr/108)
   * [Mac Homebrew 를 통한 AWS CLI 설치 & IAM 설정 :: 공부하는 개발자 핑구 🐧](https://developer-ping9.tistory.com/387)
   * [AWS CLI 설치 및 초기 설정하기](https://daeunnniii.tistory.com/121)
+  * [Run AWS CLI commands on All regions - awsall | Devops Junction](https://www.middlewareinventory.com/blog/run-aws-cli-commands-on-all-regions-awsall/)
 * [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates](https://github.com/iann0036/AWSConsoleRecorder)
 * [aws-data-wrangler - Pandas on AWS https://aws-data-wrangler.readthedocs.io ](https://github.com/awslabs/aws-data-wrangler)
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
