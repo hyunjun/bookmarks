@@ -123,6 +123,8 @@ Open Source
 * [오픈소스 '슬기롭게' 사용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2035/)
 * [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
 * [더욱 견고해진 LINE의 오픈소스 관리: OpenChain 인증과 그 뒷이야기를 소개합니다](https://engineering.linecorp.com/ko/blog/line-achieves-openchain-isoiec-5230-certification)
+* [모질라 허브로 게임 만들기가 가능해집니다. (BGs 프로젝트)](https://blog.naver.com/fstory97/223199220902) 
+  * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
