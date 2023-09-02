@@ -1800,6 +1800,9 @@ Docker
       * Kustomization을 쓰고 있다면 CPU 병목이 생길 수 있고 수천 개의 앱을 사용한다면 기본 재동기화 시간을 늘려야 할 수 있고 최악의 상황에는 동기화 지연이 발생할 수도 있음
     * [ArgoCD Vault Plugin | docmoa](https://docmoa.github.io/04-HashiCorp/06-Vault/04-UseCase/argocd-vault-plugin.html)
     * [3. Argo-CD를 이용한 GitOps 시스템 구축 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-30-jennifer-kubernetes-3/)
+    * [Infisical Open Source SecretOps: Apply it using GitOps approach. | by Mr DevOps 🐳 ☸ ☁️ 🌐 | Aug, 2023 | Medium](https://mrdevops.medium.com/infisical-open-source-secretops-apply-it-using-gitops-approach-245f57fcd67e)
+      * 시크릿 관리 서비스인 Infisical을 ArgoCD와 Helm을 이용해서 Kubernetes에 배포
+      * 애플리케이션에 Infisical에 저장된 시크릿을 제공하는 설정 방법 설명
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
   * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
@@ -1810,6 +1813,8 @@ Docker
   * [Dynamic Kubernetes Cluster Scaling at Airbnb | by David Morrison | The Airbnb Tech Blog | May, 2022 | Medium](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132)
 * [aws-controllers-k8s](https://github.com/aws-controllers-k8s)
   * [ACK - AWS Controllers for K8s](https://aws-controllers-k8s.github.io/community/)
+* [botkube: An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/kubeshop/botkube)
+  * Kubernetes 클러스터을 모니터링해서 정책에 어긋나는 부분을 Slack, Discord 등으로 알림을 받을 수 있는 봇
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
@@ -1891,6 +1896,8 @@ Docker
   * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
   * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
 * [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
+  * [Gateway API v0.8.0: Introducing Service Mesh Support | Kubernetes](https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/)
+    * Kubernetes Gateway API의 서비스 메시 지원이 실험 단계. Kuma 2.3+, Linkerd 2.14+, Istio 1.16+가 모두 이 서비스 메시 지원과 완전히 호환
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
   * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
@@ -1917,6 +1924,12 @@ Docker
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
   * [K8s Service Mesh: Linkerd or Istio | by Ohad Senior | CloudZone | Medium](https://medium.com/cloudzone/k8s-service-mesh-linkerd-or-istio-4bb650d51bc6)
   * [이스티오(Istio)의 앰비언트 메시 소개 - k8s](https://sysnet4admin.gitbook.io/k8s/service-mesh/istio/ambient-mesh/Introducing-ambient-mesh)
+  * [Istio / Kubernetes Native Sidecars in Istio](https://istio.io/latest/blog/2023/native-sidecars/)
+    * Istio Proxy는 사이드카 패턴으로 실행
+    * 이때 문제 중 하나가 컨테이너가 죽어도 사이드카가 죽지 않으면 팟이 내려가지 않고 계속 실행
+    * 혹은 사이드카보다 서비스 컨테이너가 먼저 뜨면 네트워크에 접속하지 못하는 문제
+    * Kubernetes가 이를 해결하기로 해서 1.28부터 사이드카를 지원하는 `SidecarContainers` 기능이 드디어 추가
+      * 이를 사용해서 istio 프락시를 실행했을 때 `initContainers`로 실행되고 컨테이너가 죽었을 때 사이드카도 같이 죽음
   * [kyc-docker-k8-istio: ServiceMesh with Docker K8 Istio - KYC scenario](https://github.com/vijayredkar/kyc-docker-k8-istio)
     * [BankNext Case Study — ServiceMesh with Docker-K8-Istio-Sidecar | by Vijay Redkar | Nov, 2021 | Medium](https://vijayredkar.medium.com/banknext-case-study-servicemesh-with-docker-k8-istio-sidecar-b5e3ba930835)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
