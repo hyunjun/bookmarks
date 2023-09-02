@@ -4423,7 +4423,10 @@ Javascript
   * 검색과 파일 트리는 해당 데이터만 내려주는 엔드포인트를 만들어서 해결
   * 정적 파일로 만들어서 `.html` 확장자가 없어서 생기는 문제는 `trailingSlash`로 해결하면서 관련된 성능 문제도 같이 해결
   * 포팅 후 속도가 10배 이상 향상
-* [리액트 서버 컴포넌트(RSC) 이모저모 알아보기](https://pyjun01.github.io/v/rsc/)
+* [리액트 서버 컴포넌트(RSC) 이모저모 알아보기](https://pyjun01.github.io/v/rsc)
+  * React Server Component 개념 가장 쉽게 정리
+    * RSC를 설명하기 전에 SSR, Concurrent, Streaming SSR, Suspense를 설명하고 왜 RSC가 필요했고 RSC가 무엇인지
+    * 그로 인해 얻을 수 있는 부분과 어려워지는 부분까지 설명
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
