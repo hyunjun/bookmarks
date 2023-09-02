@@ -97,6 +97,21 @@ Open Source
     * HashiCorp의 OSS 제품으로 상업적 서비스를 제공하는 경우 HashiCorp와 계약 필요
   * BSL은 Couchbase, Cockroach Labs, Sentry, MariaDB, Confluent, MongoDB, Elastic, Redis Labs도 같은 이유로 만들고 채택한 라이센스
 * [OpenTF Foundation](https://opentf.org/) Hashicorp의 Terraform license가 MPL -> BUSL로 변경하는 데 대한 반응
+  * [OpenTF Foundation](https://opentf.org/announcement)
+    * HashiCorp가 Terraform 등 자사의 제품을 BSL로 변경해서 오픈소스가 아니게 된 상황에 대해 OpenTF 형성
+    * OpenTF는 Terraform을 오픈소스로 돌리도록 호소하는 글 작성, 라이센스가 되돌려지지 않자 Terraform을 포크하기로 결정
+      * 이후 CNCF의 프로젝트가 되는 것을 목표, OpenTF를 운영하기 위한 준비 예정 발표
+  * [OpenTF is disconnected from reality | Vlad Ionescu (he/him)](https://typefully.com/iamvlaaaaaaad/kWKNoBH)
+    * Vlad Ionescu라는 사람이 위 OpenTF의 움직임이 현실성이 없다고 비판
+    * OpenTF를 지지한다고 한 회사나 사람 중에 실질적인 지원을 얘기한 회사는 Gruntwork 정도
+      * Spacelift, evn0, Scalr는 실질적인 행동을 할 것이지만 사실상 HashiCorp의 경쟁사이기 때문에 서명할 이유가 있음
+      * 다른 회사나 개인은 그냥 서명만 한 것
+      * 이를 가지고 현실성 없이 언론플레이만 하고 있다고 설명
+    * Terraform은 단순히 저장소 그 자체가 아니라
+      * 고객의 요구사항을 받는 사람들과 각 벤더사와 얘기해서 프로바이더를 구축하는 수많은 사람이 합해져서 생태계 형성
+      * OpenTF는 Terraform 저장소만 해결하면 된다고 생각하는 걸로 추정
+      * OpenTF가 얘기한 구체적인 기능들도 대부분 Terraform에서 긴 논의 끝에 반려된 제안
+        * 이를 제대로 검토하고 하겠다고 하는지 의심스럽다는 주장
   * [OpenTF 선언문 | GeekNews](https://news.hada.io/topic?id=10372)
 * [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
 * [How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)
@@ -122,7 +137,12 @@ Open Source
 * [칼럼 | AWS의 조용한 오픈소스 혁명 - CIO Korea](https://www.ciokorea.com/news/288313)
 * [오픈소스 '슬기롭게' 사용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2035/)
 * [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
-* [더욱 견고해진 LINE의 오픈소스 관리: OpenChain 인증과 그 뒷이야기를 소개합니다](https://engineering.linecorp.com/ko/blog/line-achieves-openchain-isoiec-5230-certification)
+* [더욱 견고해진 LINE의 오픈소스 관리: OpenChain 인증과 그 뒷이야기를 소개합니다](https://engineering.linecorp.com/ko/blog/line-achieves-openchain-isoiec-5230-certification/)
+  * Linux 재단의 OpenChain은 기업이 오픈소스를 효과적으로 관리할 수 있도록 표준을 정의하는 프로젝트
+  * Line에서 당시 최신 버전인 2.1 규격을 적용해 인증 획득
+    * 기존에도 오픈소스 정책을 수립해 운용하고 있었지만
+    * OpenChain의 규격을 적용하기 위해 정책을 직원이 쉽게 볼 수 있도록 하고
+    * OSRB(Open Source Review Board)를 만들어서 법무팀, 특허팀, 보안팀, CTO 오피스, DevRel 팀이 검토할 수 있도록 하고 사내에 교육 진행
 * [모질라 허브로 게임 만들기가 가능해집니다. (BGs 프로젝트)](https://blog.naver.com/fstory97/223199220902) 
   * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 
