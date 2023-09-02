@@ -5167,6 +5167,7 @@ Programming
   * [기술 뉴스 #226 : 23-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1679)
   * [기술 뉴스 #227 : 23-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1682)
   * [기술 뉴스 #228 : 23-08-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1683)
+  * [기술 뉴스 #229 : 23-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1685)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5749,6 +5750,12 @@ Programming
 * [중요한 건 꺾이지 않는 테스트: 카카오페이 지라 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/jira-migration-review/)
 * [복잡한 문제는 나눠서 단순화: 카카오페이 위키 마이그레이션 되돌아보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/wiki-migration-review/)
 * [Migrations - The Hardest Actual Problem in Computer Science • Matt Ranney • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=yJOrMDMqeoI)
+* [Why all application migrations should be incremental – Vercel](https://vercel.com/blog/incremental-migrations)
+  * 마이그레이션을 할 때 항상 증분 마이그레이션을 해야 하는지 설명
+  * 증분 마이그레이션을 통해 개별 단계의 위험을 최소화하고 문제 발생 시 롤백을 준비할 수 있고 가치를 일찍 검증할 수 있다
+  * 증분 마이그레이션은 기능별로 나누는 수직 마이그레이션과 사용자별로 나누는 수평 마이그레이션
+  * 증분 마이그레이션의 단점은 새 시스템과 레거시 시스템이 같이 동작하도록 하는 노력이 필요하다는 점
+  * 프론트엔드를 마이그레이션 할 때는 리버스 프락시가 핵심으로 새 프론트엔드와 레거시 프론트엔드를 같이 배치해서 트래픽을 점진적으로 마이그레이션 가능
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
