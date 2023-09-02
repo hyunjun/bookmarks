@@ -1521,7 +1521,10 @@ NLP
   * [Meta가 쏘아올린 작은 공 LLaMA에 대해 알아보자 - 윤주성](https://aifactory.space/learning/2414/discussion/327)
   * [Why Developers Are Flocking to LLaMA, Meta’s Open Source LLM - The New Stack](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
   * code-llama
-    * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
+    * [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding)
+      * Meta에서 코드와 코드에 대한 자연어를 생성할 수 있는 LLM인 Code Llama 공개
+      * Python, C++, Java, PHP, TypeScript(JavaScript), C#, Bash 등의 언어 지원
+      * 7억, 13억, 34억 개의 파라미터를 가진 세 가지 크기의 Code Llama 제공
     * [Phind: AI Search Engine and Pair Programmer](https://www.phind.com/blog/code-llama-beats-gpt4)
   * [finetune-embedding: Fine-Tuning Embedding for RAG with Synthetic Data](https://github.com/run-llama/finetune-embedding)
   * [GPTQ-for-LLaMa: 4 bits quantization of LLaMA using GPTQ](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
