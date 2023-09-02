@@ -253,6 +253,9 @@
 * [개발자라면 "무조건" 디자인 패턴을 배워야한다? - YouTube](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 * [요즘 정말 핫한 🔥 디자인 패턴이 있다? - YouTube](https://www.youtube.com/watch?v=XTcsR_-GrBY) Facade
 * [당신이 이 디자인 패턴을 배워야하는 이유?! 😱 - YouTube](https://www.youtube.com/watch?v=bdcxCpB68Xs) Observer
+* [자바 구조 패턴은 어떻게 쓰일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2122/)
+* [자바 생성 패턴을 실제 프로젝트에 적용하려면? | 요즘IT](https://yozm.wishket.com/magazine/detail/2155/)
+* [자바 행동 패턴은 어떻게 사용해야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2190/)
 
 # Go
 * [Design Patterns](https://refactoring.guru/design-patterns/go)
