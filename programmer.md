@@ -258,6 +258,7 @@ Programmer
 * [Transitioning into Tech: The Journey of a Senior Junior Developer by Ibrahim Dogrusoz - YouTube](https://www.youtube.com/watch?v=9P_eq_d8GRs)
 * [클린코딩 하는데 구현을 못하는 개발자 - YouTube](https://www.youtube.com/watch?v=cyoUrxDVGXE)
 * [커리어노트 108 커리어는 각자도생이다 : 네이버 블로그](https://blog.naver.com/junedec369/223182247564)
+* [8년차 개발자가 월 1억씩 벌게 된 이야기](https://www.jobless.blog/damon/) side hustle
 
 # Book
 * [소프트웨어 장인 CHAPTER 4 소프트웨어 장인의 태도](https://github.com/hyunjun/bookmarks/blob/master/programming_books/the_software_craftsman.md#chapter-4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%9E%A5%EC%9D%B8%EC%9D%98-%ED%83%9C%EB%8F%84)
