@@ -3768,6 +3768,7 @@ Programming Books
   * [Python Crash Course, 3rd Edition | No Starch Press](https://nostarch.com/python-crash-course-3rd-edition)
   * [Python Crash Course, Third Edition](https://ehmatthes.github.io/pcc_3e/)
   * [한빛출판네트워크](https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B9283379859)
+* (NOT YET) [코딩 뇌를 깨우는 파이썬](https://tensorflow.blog/2023/08/24/%EC%BD%94%EB%94%A9-%EB%87%8C%EB%A5%BC-%EA%B9%A8%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
