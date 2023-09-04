@@ -3180,6 +3180,8 @@ Programming
   * [Repl.it - A database for every repl](https://blog.repl.it/database)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [RosettaGit - to present solutions to the same task in as many different programming languages as possible](https://rosettagit.org/)
+* [Snippet](https://snippet.cloudmt.co.kr/)
+  * [우리 Snippet 정상 영업 합니다](https://velog.io/@juunini/%EC%9A%B0%EB%A6%AC-Snippet-%EC%A0%95%EC%83%81-%EC%98%81%EC%97%85-%ED%95%A9%EB%8B%88%EB%8B%A4)
 * [Snippet Shot - Generate screenshots 📸 from your code snippets](https://www.snippetshot.com/)
 * [theia Cloud & Desktop IDE](https://theia-ide.org/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
