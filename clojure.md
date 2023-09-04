@@ -439,6 +439,8 @@ Clojure
 * [clojure implementation of LangChain's recursive splitter](https://gist.github.com/usametov/3c46a8012d5913e53f2810b28d0c5af6)
 * [Fast Starting JVM Clojure with Checkpoint/Restore (Part 1)](https://yizhepku.github.io/clojure-crac/)
 * [Building a real-world Clojure application from SCRATCH - YouTube](https://www.youtube.com/playlist?list=PLRGAFpvDgm2ylbXYIjvu3kI426zAP_Lqc)
+* [Griffin - The bank you can build on](https://griffin.com/)
+  * [Clojure in Banking: Griffin](https://www.juxt.pro/blog/clojure-in-griffin/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
