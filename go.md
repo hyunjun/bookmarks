@@ -412,6 +412,8 @@ Go
     * [gorm-gqlgen-relay](https://github.com/cloudmatelabs/gorm-gqlgen-relay)
   * [orm: A lightweight yet powerful ORM (Object-relation mapper) for Go projects](https://github.com/golobby/orm)
   * [ql · GitLab](https://gitlab.com/cznic/ql)
+* cmp
+  * [Deeper cmp package in Go 1.21](https://www.beeblogit.com/post/4)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
   * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
