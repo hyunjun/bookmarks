@@ -461,6 +461,8 @@
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
   * [An Investigation of Dependency Management Libraries for Kotlin Multiplatform Mobile](https://www.pamelaahill.com/post/an-investigation-of-dependency-management-libraries-for-kotlin-multiplatform-mobile)
   * [An Investigation of Dependency Management Libraries for Kotlin Multiplatform Mobile: Koin](https://www.pamelaahill.com/post/an-investigation-of-dependency-management-libraries-for-kotlin-multiplatform-mobile-part-2-koin)
+* [Konsist facilitates codebase standardization by enforcing coding conventions and guarding the project architecture.](https://github.com/LemonAppDev/konsist)
+  * [Refactoring Multi-Module Kotlin Project With Konsist | by Igor Wojda 🤖 | Sep, 2023 | ProAndroidDev](https://proandroiddev.com/refactoring-multi-module-kotlin-project-with-konsist-f0de0de59a3d)
 * kotless [KotlinConf 2019: Kotless - Kotlin Serverless Framework by Vladislav Tankov - YouTube](https://www.youtube.com/watch?v=69uk3Pi88AE&list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl&index=10)
 * [kotlindl: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/Kotlin/kotlindl)
   * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
