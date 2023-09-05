@@ -2548,6 +2548,7 @@ Business
 * [칼럼 | ‘콰이강의 다리 문제’··· 테크놀로지스트의 전형적인 실수 - CIO Korea](https://www.ciokorea.com/news/236719) 고객이 진짜로 이용할 무언가를 만들기
 * [사용자 습관 형성을 위한 6가지 방법](https://brunch.co.kr/@cliche-cliche/156)
 * [고객의 이탈 가능성을 확인하는 방법- 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/crm/keeping-customers-happy/)
+* [ICP를 어떻게 확인하는가?](https://brunch.co.kr/@yongjinjinipln/109) ideal customer profile
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
