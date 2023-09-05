@@ -71,6 +71,8 @@ App
 * [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
+* [Arc from The Browser Company](https://arc.net/)
+  * [세상에 없던 힙한 브라우저의 등장 ‘아크(Arc)’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2003/)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
