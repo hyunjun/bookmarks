@@ -1704,6 +1704,7 @@ Java
 * [LazyInitializationException in SpringBoot JPA | could not initialize proxy – no Session | SpringBoot - YouTube](https://www.youtube.com/watch?v=XbT5oRJFp2E)
 * [Spring Data JPA @Query Example - Tutorial](https://javarevisited.blogspot.com/2021/09/spring-data-jpa-query-example-tutorial.html)
 * [Spring Data JPA에서의 페이지네이션과 정렬](https://hudi.blog/spring-data-jpa-pagination/)
+* [JPA Paging Performance 향상 방법 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/page-performance/)
 * [JPA 기초 강의 유튜브 영상 목록 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/jpa-basic-youtube-list)
 * [JPA 트랜잭션 내에서 엔티티를 변경할 때 마다 flush 해야하나요?](https://velog.io/@joosing/JPA-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%82%B4%EC%97%90%EC%84%9C-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C-%EB%A7%88%EB%8B%A4-flush-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94) dirty checking
 * [도메인 모듈 분리 시 Transaction + JPA 활용 방안 - YouTube](https://www.youtube.com/watch?v=18C2A56ialY)
