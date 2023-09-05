@@ -4848,6 +4848,7 @@ Javascript
   * [Jekyll에서 Gatsby로 떠나는 마이그레이션 여정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/02/25/Migration-Journey-from-Jekyll-to-Gatsby.html)
   * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
   * [Gatsby vs NextJS: Which Should You Use? | by Abhay Ganjoo | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/gatsby-vs-nextjs-which-should-you-use-84a72131d06a)
+  * [카카오페이 기술 블로그는 어떻게 만들었을까요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-techlog/)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
