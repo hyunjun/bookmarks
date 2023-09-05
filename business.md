@@ -2056,6 +2056,7 @@ Business
 * [프로덕트 오퍼레이션 팀은 무슨 일을 하는가 | 요즘IT](https://yozm.wishket.com/magazine/detail/2159/)
 * [첫 구독 유도의 중요성. 온보딩 구매화면의 비밀 | by Stephan Seunghwan Seo | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-c1955c33d9d9)
 * [알라미 구독 글로벌 진출 후기. Intro 알라미는 현재 다니고 있는 스타트업 제품입니다. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EA%B5%AC%EB%8F%85-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C-%ED%9B%84%EA%B8%B0-475c0e058a06)
+* [크고 복잡한 제품, 과감하게 갈아엎기](https://toss.tech/article/mydoc)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
