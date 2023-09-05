@@ -25,6 +25,12 @@ Programming Books
 * [어떻게 준비하면 인프랩에 입사할 수 있나요](https://jojoldu.tistory.com/661)
 * [OKKY - 절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
 * [79. 앱 개발 책 - 2021](https://brunch.co.kr/@topasvga/1452)
+* [주니어 데이터 분석가를 시니어로 만들어 줄 책 5권](https://datarian.io/blog/books-that-will-turn-a-junior-data-analyst-into-a-senior)
+  * SQL 레벨업: DB 성능 최적화를 위한 SQL 실전 가이드
+  * 프로젝트 성패를 결정짓는 데이터 모델링 이야기
+  * 아이디어 불패의 법칙: 구글 최고의 혁신 전문가가 찾아낸 비즈니스 설계와 검증의 방법론
+  * 순서 파괴: 지구상 가장 스마트한 기업 아마존의 유일한 성공 원칙
+  * 함께 자라기: 애자일로 가는 길
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
