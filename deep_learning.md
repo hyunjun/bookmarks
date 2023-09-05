@@ -1541,6 +1541,7 @@ Deep Learning
   * [tritony: Tiny configuration for Triton Inference Server](https://github.com/rtzr/tritony)
     * [Tritony: Tiny configuration for Triton Inference Server | by 동우, Arthur Kim | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/tritony-tiny-configuration-for-triton-inference-server-f0daedd19e83)
 * [trident: A performance library for machine learning applications](https://github.com/kakaobrain/trident)
+  * [Trident: 딥러닝 모델 개발을 위한 도구 – tech.kakao.com](https://tech.kakao.com/2023/09/05/kakaobrain-trident/)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 * [train-clm-multi-gpu](https://github.com/Joonsun-Hwang/train-clm-multi-gpu)
 * [TurboTransformers: a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU](https://github.com/Tencent/TurboTransformers)
