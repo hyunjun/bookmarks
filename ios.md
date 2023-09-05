@@ -606,6 +606,7 @@ iOS
 * [SwiftUI에서 타이머 구현하기 (feat. Notification) :: iOYES](https://green1229.tistory.com/398)
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
 * [SwiftUI로 음성메모 구현하기 :: iOYES](https://green1229.tistory.com/396)
+* [SwiftUI의 onChange 사용 시 주의할 부분 :: iOYES](https://green1229.tistory.com/403)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 
