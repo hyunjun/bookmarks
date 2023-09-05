@@ -4293,6 +4293,7 @@ Programming
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
 * [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
+* [누구나 할 수 있는 10배 더 빠른 배치 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13569/)
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 * [카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ – tech.kakao.com](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
 * [Redis vs Kafka vs RabbitMQ. When using asynchronous communication… | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec)
