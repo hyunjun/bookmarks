@@ -934,6 +934,7 @@ Web
 * [background-image 대신 img 태그를 사용하자](https://careerly.co.kr/comments/77523)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
+  * [htmx: </> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
   * [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
   * [Chris James -HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
@@ -941,6 +942,8 @@ Web
     * SPA를 사용할 때 RESTful API를 이용하지만, 데이터만 주고받을 뿐 하이퍼미디어를 사용하지 않으므로 RESTful API를 쓰는 것은 아니며
     * htmx에서는 서버의 언어를 맘대로 사용할 수 있고 하이퍼미디어를 그대로 이용하기 때문에
     * 프론트엔드에서 JavaScript가 없어도 잘 동작하므로 쉬우면서 접근성 좋은 웹페이지를 만들 수 있고 프론트엔드/백엔드간의 협업도 더 편해진다고 이야기
+  * [Htmx: The newest old way to make web apps - LogRocket Blog](https://blog.logrocket.com/htmx-the-newest-old-way-to-make-web-apps/)
+    * [Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법](https://velog.io/@eunbinn/htmx-the-newest-old-way-to-make-web-apps)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 * [elml: A small markup language that compiles to HTML](https://github.com/ensatone/elml)
 * [sqlite-html: A SQLite extension for querying, manipulating, and creating HTML elements](https://github.com/asg017/sqlite-html)
