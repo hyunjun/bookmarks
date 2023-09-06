@@ -2174,6 +2174,8 @@ App
         }
     * [grida cli 소개페이지](https://grida.co/cli)가 grida cli 로 작성
     * [code: Design to code engine. A design ✌️ code standard. Supports React, Flutter and more](https://github.com/gridaco/code)
+* [Figr](https://figr.design/)
+  * [실제 서비스 화면 피그마에서 편집하는 ‘figr.design’ | 요즘IT](https://yozm.wishket.com/magazine/detail/2214/)
 * [Penpot - Design Freedom for Teams](https://penpot.app/)
   * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
 
