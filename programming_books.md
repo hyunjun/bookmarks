@@ -2356,6 +2356,7 @@ Programming Books
 * (NOT YET) [실전! Node.js 마이크로서비스 개발 자바스크립트를 이용한 마이크로서비스 구축부터 보안, 테스트, 배포까지](http://wikibook.co.kr/nodejs-microservices/)
 * (NOT YET) [Node.js로 프로그래밍 시작하기](http://acornpub.co.kr/book/get-nodejs)
 * (NOT YET) [Node.js 백엔드 개발자 되기 - YouTube](https://www.youtube.com/watch?v=hwSUTp4svg0)
+  * [Node.js의 새로운 파트너 NestJS는 왜 탄생했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2215/)
 
 ## React
 * [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
