@@ -1294,6 +1294,7 @@ Programming
 * [🚀 The Clean Architecture (Ian Cooper) - YouTube](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 * [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
 * [NHN FORWARD 22 클린 아키텍처 애매한 부분 정해 드립니다. - YouTube](https://www.youtube.com/watch?v=g6Tg6_qpIVc)
+* [클린아키텍처(CleanArchitecture)는 모바일 개발에 도움이 되는가 ? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%81%B4%EB%A6%B0%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-cleanarchitecture-%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80-237cb3c7580d)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
