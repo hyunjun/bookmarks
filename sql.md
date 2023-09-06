@@ -314,6 +314,7 @@ SQL
   * [Amazon Aurora MySQL Backtrack을 이용한 빠른 복구 방법 - 진교선 :: AWS Database Modernization Day 온라인 - YouTube](https://www.youtube.com/watch?v=zSZVCdC3PFo)
 * [Amazon Aurora를 애플리케이션 개발자가 사용하기 위한 10가지 팁 – 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-10-amazon-aurora-tips-for-application-developers/)
 * [Amazon Aurora를 어플리케이션 개발자가 사용하기 위한 10가지 팁 – 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-2-10-amazon-aurora-tips-for-application-developers/)
+* [Amazon CloudWatch를 이용한 Amazon Aurora I/O Optimized 기능에 대한 비용 절감 예상하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/estimate-cost-savings-for-the-amazon-aurora-i-o-optimized-feature-using-amazon-cloudwatch/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
