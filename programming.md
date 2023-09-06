@@ -5785,6 +5785,7 @@ Programming
 * [배민스토어 서비스개발 팀장의 일반셀러 프로젝트 진행기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13030/)
 * [The Art of Software Development • Sander Mak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fUVfkLUmII4)
 * [How to Run Pre-Mortem Exercises Templates Included](https://www.atlassian.com/team-playbook/plays/pre-mortem) post mortem과 반대로 미리 실패를 가정해보고 어떤 요인에 의해서 그런지 분석하고 예방하는 방법
+* [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
