@@ -736,6 +736,7 @@ Interview
 * [코딩테스트 준비 사이트 모음집(단순링크만)](https://velog.io/@jeon3029/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C%EC%A7%91%EB%8B%A8%EC%88%9C%EB%A7%81%ED%81%AC%EB%A7%8C)
 * [10 Common Coding Interview Problems - Solved! - YouTube](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 * [System Design Guide for Front-end Developers - DEV Community](https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl/)
+* [면접용 알고리즘 자료 구조 CheatSheet 15개 | 커리어리](https://careerly.co.kr/comments/89598)
 * [acmicpc-kit: Let's practice algorithms with Acmicpc Kit ! Acmicpc Kit is a template project for creating the problem project using fully customizable templates](https://github.com/silentsoft/acmicpc-kit)
 * Advent of Code
   * [Advent of Code 2022](https://adventofcode.com/)
