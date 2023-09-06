@@ -888,6 +888,7 @@ App
   * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
   * [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
   * [VS Code에서 나만의 Snippets 만들기](https://jojoldu.tistory.com/491)
+  * [VS Code 코드 자동완성 커스터마이징하기 (a.k.a custom snippet)](https://stitchcoding.tistory.com/40)
   * [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html)
   * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
   * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
