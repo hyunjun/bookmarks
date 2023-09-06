@@ -219,6 +219,7 @@ Business
 * [How To Be Successful - Sam Altman](https://blog.samaltman.com/how-to-be-successful)
   * [Yc 샘 알트만이 말하는 성공 방정식](https://sonujung.com/how-to-be-successful)
   * [성공하는 13가지 방법 (How To Be S.. : 네이버블로그](https://blog.naver.com/bizucafe/222991550841)
+* [OpenAI의 어제와 오늘 – Interpreting Compiler](https://interpiler.com/2023/09/06/openai%ec%9d%98-%ec%96%b4%ec%a0%9c%ec%99%80-%ec%98%a4%eb%8a%98/) Sam Altman 이야기
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [역사와 현실 경복궁 경회루와 구종직 설화 - 경향신문](https://www.khan.co.kr/opinion/column/article/202208250300025)
