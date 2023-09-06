@@ -2973,6 +2973,7 @@ Programming Books
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
   * 한라 325.24-클294ㅇ
+* (NOT YET) [리그 오브 레전드 플레이어 중심주의 - 골든래빗](https://goldenrabbit.co.kr/product/lol_playerfocus/)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
