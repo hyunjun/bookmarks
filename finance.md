@@ -123,6 +123,7 @@ Finance
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
 * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
+* [내년 상반기부터 10만원부터 살 수 있는 ‘개인 전용 국채’ 투자법](https://v.daum.net/v/20230905151547160)
 * [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
