@@ -858,6 +858,7 @@ Business
 * [스타트업 팀 빌딩, 채용 타겟팅이 성패를 좌우합니다](https://blog.wehire.kr/recruitment-targeting/)
 * [초기 스타트업 상황별 필요한 인재상 정리](https://eopla.net/magazines/5307)
 * [한기용 - 매니저 채용시 꼭 물어봐야하는 질문들](https://www.linkedin.com/feed/update/urn:li:activity:7092713884716847104/)
+* [5년차 프론트엔드 개발자 이직 후기](https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0) 5개 회사 케이스 참고 가능
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
