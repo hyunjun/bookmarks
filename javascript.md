@@ -949,6 +949,8 @@ Javascript
   * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
   * [Javascript에서 String을 Number타입으로 바꾸기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/361)
   * [toString() 사용 설명서 - 코드쓰는사람](https://taegon.kim/archives/10387)
+* structuredClone
+  * [JavaScript 객체의 불변성을 지키는 방법](https://jihyundev.tistory.com/20)
 * [Symbol의 근황 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220208)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
