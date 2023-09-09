@@ -287,6 +287,9 @@ Javascript
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
 * [JavaScript Tutor - Visualize JavaScript code execution to learn JavaScript online](http://pythontutor.com/javascript.html#mode=edit)
 * [JavaScript Visualizer - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript](https://tylermcginnis.com/javascript-visualizer/)
+* [JS Visualizer 9000](https://www.jsv9000.app/)
+  * JavaScript 런타임 모델인 Event Loop를 시각적으로 보여주는 도구
+  * 각 라인별 코드들의 호출 형태에 따라 Task 또는 Microtask 큐로 분리되고, 콜 스택이 어떻게 쌓여 최종적으로 실행되는지를 직접 확인 가능
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
