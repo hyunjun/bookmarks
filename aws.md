@@ -78,6 +78,13 @@ AWS
 * [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
 * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
 * [AWS Cheat Sheet - ELB](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/elb)
+* [ELB의 Health Check 용도로 Actuator Health Endpoints 이용은 위험](https://www.facebook.com/daemyung.kang/posts/pfbid0ziWN7WosPymu26zbsLxS1yeUT5dk6m9JrskDzD8vruqvYQXwKxyHK9egzX8AJKDUl)
+  * 이유
+    1. actuator/health 에서 기본적으로 성공은 200 실패는 503
+    2. 체크 목록에 Redis/JDBC/Mongo등 각 Store와의 연결을 체크하는데, 이게 하나라도 실패하면 Default로 503
+    3. 서비스 중에 Redis나 특정 상황이 안되더라도, 서비스가 되어야 할 경우가 많은데, 위의 기본 설정으로 써버리면, Redis는 죽어도 DB가 동작하는 상황에서 모든 서버가 동작은 하지만 Status: DOWN 503으로 인해서 ELB의 Target group 에서 전부 unhealthy 로 unregister가 될 수 있음
+  * 만약 사용하겠다고 하면 Actuator 설정을 바꿔야 함
+  * 인스턴스 운영 상태로는 적당하지 않지만 서비스 운영 상태 모니터링으로는 필요
 * [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
