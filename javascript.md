@@ -4418,6 +4418,9 @@ Javascript
     * Meta 내부 실험 결과 긍정적인 성능 결과를 얻어서 올해 말에는 실험적 API와 RFC를 공개할 예정
   * 트랜지션 트레이싱 API는 React의 트랜지션이 느리지는 시점을 감지하고 원인을 조사할 수 있는 API
     * 초기 설계는 완료했고 RFC도 공개했지만 프로젝트는 보류 중
+* [성능 하면 빠질 수 없는 메모이제이션, 네가 궁금해](https://d2.naver.com/helloworld/9223303)
+  * React에서 메모이제이션을 어떻게 하면 더 잘 쓸 수 있는지에 대해 다양한 케이스와 코드를 예로 들며 설명
+  * 어떤 상황에서 메모이제이션이 오히려 성능을 저하 시키는지, 어떤 경우에 사용하고 사용하지 말아야 하는지, 어떻게 하면 불필요한 메모이제이션 코드를 제거할 수 있는지
 * [10분 테코톡 솔로스타의 React 렌더링 - YouTube](https://www.youtube.com/watch?v=eBDj0B0HbEQ)
 * [RSC From Scratch. Part 1: Server Components · reactwg/server-components · Discussion #5](https://github.com/reactwg/server-components/discussions/5)
   * Dan Abramov가 React Server Components(RSC)의 초 간단 버전을 처음부터 만들어 보는 튜토리얼을 작성하는데 그 첫 번째 글로 Server Components를 설명하는 1편
