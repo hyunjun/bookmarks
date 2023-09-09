@@ -524,6 +524,7 @@ AWS
 * [AWS Entity Resolution 정식 출시 – 앱 및 데이터 스토어 관련 레코드 매칭 워크플로 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
 * [New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
   * [AWS, 2024년 2월 1일부터 공인 IPv4 주소에 대해서 비용 부과 시작 | GeekNews](https://news.hada.io/topic?id=10186)
+* [클라우드 데이터베이스 엔지니어의 역할 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/empowering-the-role-of-the-cloud-database-engineer/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2382,6 +2383,7 @@ AWS
 * [Amazon VPC Lattice - Part 7 : 소개, 주요 개념](https://zigispace.net/1231)
 * [Amazon VPC Lattice - Part 8 : Control/Data Plane, Link-Local 등](https://zigispace.net/1232)
 * [Amazon VPC Lattice - Part 9: AWS Gateway API Controller](https://zigispace.net/1233)
+* [Amazon VPC 트래픽 미러링을 통해 상용 환경 트래픽을 테스트 환경으로 미러링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mirror-production-traffic-to-test-environment-with-vpc-traffic-mirroring)
 * [VPC 트래픽 미러링 – 네트워크 트래픽 캡처 및 검사 기능 출시 (서울 리전 포함) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-vpc-traffic-mirroring/)
   * [http-requests-mirroring](https://github.com/aws-samples/http-requests-mirroring)
 
