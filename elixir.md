@@ -129,6 +129,7 @@ Elixir
 * [Implicit try in Elixir | Curiosum tils](https://curiosum.com/til/elixir-implicit-try-error-handling)
 * [Elixir Saves Pinterest $2 Million a Year In Server Costs](https://paraxial.io/blog/elixir-savings)
   * [Erlang/Elixir Korea | Elixir가 Pinterest의 서버 비용을 년간 $2M(26억원) 절감 | Facebook](https://www.facebook.com/groups/elixir.korea/posts/2979053342229319/)
+* [Spotlight on - Making the Switch to Elixir | Beam It](https://www.beamrec.com/forum/the-beam-it-live-forum/spotlight-on-making-the-switch-to-elixir)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
