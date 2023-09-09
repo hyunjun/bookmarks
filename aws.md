@@ -1105,6 +1105,7 @@ AWS
 * [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐 보기 pdf](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 * [EKS Networking — CNI. AWS EKS provides managed Kubernetes… | by Amit Singh Rathore | Nerd For Tech | Mar, 2021 | Medium](https://medium.com/nerd-for-tech/eks-networking-cni-457ae298b9e6)
 * [ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC)
+* [Private S3구성과 NGINX를 이용한 웹사이트 구성. 안녕하세요. Inflow팀 프론트엔드 개발을 하고 있는 남동훈 입니다. | by Donghoon Nam | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/private-s3%EA%B5%AC%EC%84%B1%EA%B3%BC-nginx%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-public-%EC%A0%91%EA%B7%BC-9aa1a5ea123e) ISMS
 * [AWS EKS Network, Load Balancer | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Network_Load_Balancer/)
 * [Amazon EKS 업그레이드 - 유정열(당근마켓) , ECS와 컨테이너화 및 운영 - 김지민(AWS) :: 제20회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=BM8otOWxLO8)
 * [AWS EKS - VPC CNI 1편 - POD 통신](https://gasidaseo.notion.site/AWS-EKS-VPC-CNI-1-POD-f89e3e5967b24f8c9aa5bfaab1a82ceb)
