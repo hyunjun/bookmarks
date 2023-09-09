@@ -305,6 +305,11 @@ Web
 * [Why is Front-End Development So Unstable?](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
 * [The Medium RSS Feed’s Missing Part | by Sabesan Sathananthan | Geek Culture | Jun, 2022 | Medium](https://medium.com/geekculture/the-medium-rss-feeds-missing-part-65a0b556dda1)
 * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache) http cache
+* bfcache [캐시 뒤로/앞으로](https://web.dev/bfcache/) backward forward cache
+  * [How Back/forward Cache Helped Yahoo! JAPAN News Increase Revenue by 9% on Mobile](https://web.dev/yahoo-japan-news-bfcache/)
+    * Back/Forward Cache는 즉시 뒤로, 앞으로 탐색을 가능하게 하는 브라우저 최적화 기법, bfcache라는 이름으로 알려져 있음
+    * 이 기능은 Firefox 1.5(2005년)에서 도입, Safari, Chrome에서도 지원
+    * 이 글에서는 Yahoo Japan News에서 bfcache 적중률을 개선하고, 그 결과 사용자 경험을 개선함과 동시에 비즈니스적인 성과도 가져온 내용 소개
 * [HTTP Archive: State of the Web](https://httparchive.org/reports/state-of-the-web)
 * [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요? | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
 * [웹 개발 시간을 줄여주는 팁 4가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/1585/)
