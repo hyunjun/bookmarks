@@ -1611,6 +1611,8 @@ NLP
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
+* [sec-insights: A real world full-stack application using LlamaIndex](https://github.com/run-llama/sec-insights)
+  * [Discover LlamaIndex: SEC Insights, End-to-End Guide - YouTube](https://www.youtube.com/watch?app=desktop&v=2O52Tfj79T4)
 * [semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
   * [Hello, Semantic Kernel! | Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
   * [Introducing Semantic Kernel](https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel)
