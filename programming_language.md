@@ -505,6 +505,7 @@ Programming Language
   * [Inductive Programming in mm](http://thursdays.null.tl/2015/09/10/mm-inductive-programming/)
 * [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
   * [Modular: AI development starts here](https://www.modular.com/)
+  * [Modular: Mojo🔥 - It’s finally here!](https://www.modular.com/blog/mojo-its-finally-here)
   * [Mojo Lang… a fast futuristic Python alternative - YouTube](https://www.youtube.com/watch?v=V4gGJ7XXlC0)
   * [Python의 대안 🔥Mojo 언어를 소개합니다](https://revf.tistory.com/285)
   * [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥 - YouTube](https://www.youtube.com/watch?v=fYb2DkFo01U)
