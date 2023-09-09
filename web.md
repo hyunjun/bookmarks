@@ -1597,6 +1597,7 @@ Web
 * [Testing UI Changes In Large Web Applications](http://blog.xebia.com/2015/08/10/testing-ui-changes-in-large-web-applications/)
 * [maplatency](http://www.maplatency.com/)
 * [How to a measure the Performance of a Server?](https://iwringer.wordpress.com/2012/05/03/how-to-a-measure-the-performance-of-a-server/)
+* [화면 성능 저하, 어떻게 개선할까?](https://blog.imqa.io/screen-performance/)
 * [A/B 테스트 플랫폼](http://readme.skplanet.com/?p=13769)
 * [그로스 해킹 – 웹사이트 A/B 실험에 대한 7가지 법칙](http://www.andrewahn.co/product/online-experiment-rule-of-thumbs/)
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
