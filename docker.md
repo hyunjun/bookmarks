@@ -508,6 +508,7 @@ Docker
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/what-even-is-a-container/)
 * [**UTS 네임스페이스를 사용한 호스트네임 격리 - 컨테이너 네트워크 기초 1편 | 44BITS**](https://www.44bits.io/ko/post/container-network-1-uts-namespace)
 * [**ip로 직접 만들어보는 네트워크 네임스페이스와 브리지 네트워크 - 컨테이너 네트워크 기초 2편 | 44BITS**](https://www.44bits.io/ko/post/container-network-2-ip-command-and-network-namespace)
+* [How Docker Desktop Networking Works Under the Hood - Docker Blog](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [Cgroup Driver 선택하기 – tech.kakao.com](https://tech.kakao.com/2020/06/29/cgroup-driver/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [컨테이너 기초 - chroot를 사용한 프로세스의 루트 디렉터리 격리](https://www.44bits.io/ko/post/change-root-directory-by-using-chroot)
@@ -1047,7 +1048,6 @@ Docker
 * [배포를 빠르게 - DIY(Deploy It Yourself)](https://tech.buzzvil.com/blog/%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C/)
 * [if(kakao)dev2022 모든 것이 kubernetes인 세상에서 안전하게 배포하기](https://if.kakao.com/2022/session/59)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Blue/Green 배포하기 (scratch 버전)](https://ahnseungkyu.com/307)
-* [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [How to switch container runtime in a Kubernetes cluster - DEV Community](https://dev.to/stack-labs/how-to-switch-container-runtime-in-a-kubernetes-cluster-1628)
 * [CRI and ShimV2: A New Idea for Kubernetes Integrating Container Runtime - Alibaba Cloud Community](https://www.alibabacloud.com/blog/cri-and-shimv2-a-new-idea-for-kubernetes-integrating-container-runtime_594783)
@@ -1186,25 +1186,6 @@ Docker
   * [(1)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part1-af745bcc0e03)
   * [(2)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part2-a8affa559570)
   * [(3)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part3-7e976adcf4c6)
-* [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
-* [Kubernetes ingress, deep dive](https://banzaicloud.com/blog/k8s-ingress/)
-* [A Terrible, Horrible, No-Good, Very Bad Day at Slack | by Laura Nolan | Jun, 2020 | Several People Are Coding](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ingress
-* [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
-* [Kubernetes — Ingress Overview. What is K8s Ingress? — Introduction to… | by Ashish Patel | DevOps Mojo | Jul, 2021 | Medium](https://medium.com/devops-mojo/kubernetes-ingress-overview-what-is-kubernetes-ingress-introduction-to-k8s-ingress-b0f81525ffe2)
-* [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
-* [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
-* [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
-* [Ingress Controllers: The Swiss Army Knife of Kubernetes – The New Stack](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
-* [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
-* [Kubernetes Ingress: A Beginners' Guide | ARMO](https://www.armosec.io/blog/kubernetes-ingress-beginners-guide/)
-* [Okta 및 NGINX Ingress Controller를 사용하여 Kubernetes용 OpenID Connect 인증 구현 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/implementing-openid-connect-authentication-kubernetes-okta-and-nginx-ingress-controller/)
-* [Kubernetes 의 인증과 인가](https://stupendous-purple-c9f.notion.site/Kubernetes-035fe6bef71b490197acf0d99261ff6a)
-* [Ingress Controller 선택 가이드, Part 2: 위험 및 미래 대비 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/guide-to-choosing-ingress-controller-part-2-risks-future-proofing/)
-  * Q1. 복잡성(Complexity) – 마이크로서비스 아키텍처(MSA)의 목적을 위배합니까?
-  * Q2. 대기 시간(Latency) – Ingress Controller가 앱 속도를 늦추나요?
-  * Q3. 보안(Security) – Ingress Controller가 해커의 문을 열어줍니까?
-* [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
-* [k8s ingress-nginx & cert-managert 를 이용해서 한번에 https 적용시키기](https://velog.io/@juunini/k8s-ingress-nginx-cert-managert-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EB%B2%88%EC%97%90-https-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * [Kubernetes 앱에 적합한 Service Mesh를 선택하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-choose-a-kubernetes-service-mesh/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
@@ -1212,8 +1193,6 @@ Docker
 * [Convergence to Kubernetes](https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc)
 * [KUBERNETES IS NOW AVAILABLE IN DOCKER DESKTOP STABLE CHANNEL](https://blog.docker.com/2018/07/kubernetes-is-now-available-in-docker-desktop-stable-channel/)
 * [도커(Docker), 쿠버네티스(Kubernetes) 통합 도커 데스크톱을 스테이블 채널에 릴리즈](https://www.44bits.io/ko/post/news--release-docker-desktop-with-kubernetes-to-stable-channel)
-* [How Docker Desktop Networking Works Under the Hood - Docker Blog](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
-* [Kubernetes Networking Fundamentals – techbeatly](https://www.techbeatly.com/kubernetes-networking-fundamentals/)
 * [쿠버네티스 차근차근 다지기](https://www.facebook.com/ChoEunOk/videos/2131989013479471/)
 * [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
@@ -1261,34 +1240,11 @@ Docker
 * [Kubernetes Cluster 업데이트가 쏘아 올린 서비스 장애](https://medium.com/rainist-engineering/updating-k8s-cluster-cause-major-outage-1d79304d63eb)
 * [50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf)
 * [Kubernetes ZERO to HERO in ONE Video|Explained with simple app fromDocker to k8s everything |#devops - YouTube](https://www.youtube.com/watch?v=myo7U-B2MvA)
-* [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
-  * [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
-* [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
-  * [번역 쿠버네티스 네트워킹 이해하기#2: Services | 커피고래의 노트](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
-* [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
-  * [번역 쿠버네티스 네트워킹 이해하기#3: Ingress | 커피고래의 노트](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
-* [Life of a Packet in Kubernetes — Part 1 | by Dinesh Kumar Ramasamy | Medium](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051)
-  * [번역 쿠버네티스 패킷의 삶 - #1 | 커피고래의 노트](https://coffeewhale.com/packet-network1)
-  * [번역 쿠버네티스 패킷의 삶 - #2 | 커피고래의 노트](https://coffeewhale.com/packet-network2) calico
-  * [번역 쿠버네티스 패킷의 삶 - #3 | 커피고래의 노트](https://coffeewhale.com/packet-network3)
-  * [번역 쿠버네티스 패킷의 삶 - #4 | 커피고래의 노트](https://coffeewhale.com/packet-network4)
-* [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
-* [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
-* [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
-* [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
-  * OpenAI에서 Kubernetes의 노드를 2,500대 운영하면서 겪은 문제와 개선한 과정을 정리한 글을 번역
-  * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
-  * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
-  * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해 – tech.kakao.com](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
   * Kubernetes의 기반 스토리지인 etcd 동작 방식 설명
   * 카카오에서는 마스터 노드를 직접 운영하면서 Kubernetes 업그레이드 시 마스터 노드를 교체하면서 직접 etcd 서버를 추가/삭제하므로 이 과정에서 얻는 경험을 토대로 설명
   * Raft를 구현한 etcd가 리더를 선출하고 로그를 복제하는 과정과 이때 멤버를 추가/삭제하면 어떤 일이 벌어지는지 자세히 보여주고 있어서 이 부분만 알아도 etcd를 이해하는데 도움
   * 글의 뒷부분에는 etcd를 유지보수 하기 위해 백업/복구를 하는 방법 설명
-* [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
-* [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
-* [Kubernetes 네트워킹 101 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/kubernetes-networking-101/)
-* [Kubernetes Network Plugins - kubedex.com](https://kubedex.com/kubernetes-network-plugins/)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
@@ -1420,13 +1376,6 @@ Docker
 * [사이드카 프록시로 구현한 서비스 인증](https://engineering.linecorp.com/ko/blog/service-authentication-sidecar-proxy)
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
-* [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
-* [CNI Benchmark: Understanding Cilium Network Performance — Cilium](https://cilium.io/blog/2021/05/11/cni-benchmark)
-  * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
-  * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
-  * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
-* [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
-* [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
 * [Amazon VPC CNI 플러그인으로 노드당 파드수 제한 늘리기](https://trans.yonghochoi.com/translations/aws_vpc_cni_increase_pods_per_node_limits.ko)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
@@ -1450,7 +1399,6 @@ Docker
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
 * [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
-* [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
 * [Migrate virtual machines to Kubernetes with this new tool | Opensource.com](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
 * [플레이스 AI 개발의 MLOps w/ Kubernetes | by WonhongYoo | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
 * [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
@@ -1513,7 +1461,6 @@ Docker
 * [Kubernetes 1.24 Release Webinar - YouTube](https://www.youtube.com/watch?v=TNo22-a27oY)
 * [주니어의 쿠버네티스 생태계에서 살아남기 - YouTube](https://www.youtube.com/watch?v=fvWHLrMjdmI)
   * [주니어의 쿠버네티스 생태계에서 살아남기](https://www.slideshare.net/InfraEngineer/ss-250837857)
-* [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
 * [Implement governance on your Kubernetes cluster | Opensource.com](https://opensource.com/article/21/12/kubernetes-gatekeeper)
 * [Writing Custom Kubernetes Controllers: Beware of State Drift – The New Stack](https://thenewstack.io/writing-custom-kubernetes-controllers-beware-of-state-drift)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Custom Controller 개발에 필요한 Go 언어 기초 문법](https://ahnseungkyu.com/311)
@@ -1561,17 +1508,12 @@ Docker
 * [Kubernetes Video Highlights from HashiTalks 2022](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
 * [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes)
 * [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
-* ['현재공부/컨테이너 네트워크' 카테고리의 글 목록](https://malwareanalysis.tistory.com/category/%ED%98%84%EC%9E%AC%EA%B3%B5%EB%B6%80/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+* [악분의 블로그](https://malwareanalysis.tistory.com/)
 * [시리즈 | KANS 스터디 - hyungwook.log](https://velog.io/@hyungwook/series/KANS-%EC%8A%A4%ED%84%B0%EB%94%94)
 * [프로덕션 등급 Kubernetes로 복잡성 감소 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/reduce-complexity-with-production-grade-kubernetes/)
 * [고급 트래픽 관리로 Kubernetes의 복원력을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/improve-kubernetes-resilience-with-advanced-traffic-management/)
   * 트래픽 제어(Traffic Control) 솔루션(Solution): 속도 제한(Rate limiting), 회로 차단(Circuit breaking)
   * 트래픽 분할(Traffic Splitting) 솔루션(Solution): 디버그 라우팅(Debug routing), 카나리(Canary) 배포, A/B 테스트(testing), 블루-그린(Blue-green) 배포
-* [Kubernetes에서 가시성(Visibility)을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-improve-visibility-in-kubernetes/)
-  * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
-  * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
-* [Kubernetes Ingress 및 Egress 트래픽 관리를 단순화하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/how-to-simplify-kubernetes-ingress-egress-traffic-management/)
-* [Kubernetes Ingress for Beginners | Configuring and Managing Kubernetes Networking, and Ingress | K8S - YouTube](https://www.youtube.com/watch?v=gW2C-2q8t54)
 * [NGINX, Opsani 및 Prometheus를 사용하여 클라우드에서 Kubernetes 비용 70% 절감 사례 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/reducing-kubernetes-costs-70-percent-in-cloud-nginx-opsani-prometheus/)
 * [트래픽 관리 도구를 사용하여 Kubernetes를 보호하는 6가지 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/six-ways-to-secure-kubernetes-using-traffic-management-tools/)
 * [NGINX Kubernetes Gateway에 대해 꼭 알아야 할 5가지 사항 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/5-things-to-know-about-nginx-kubernetes-gateway/)
@@ -1637,7 +1579,6 @@ Docker
 * [Equip Any User to Monitor Kubernetes With the Overview Page | Datadog](https://www.datadoghq.com/blog/unify-kubernetes-insights-with-the-kubernetes-overview-page/)
 * [AWS Summit Korea 2022 Kubernetes를 위한 Observability | 와탭랩스 세션 - YouTube](https://www.youtube.com/watch?v=DXXJEAfhjiQ)
 * [How Kubernetes Reinvented Virtual Machines (in a good sense)](https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/)
-* [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
 * [kubernetes volume 사용 방법 정리하기. 사용하는 volume의 종류에 따라 ML training… | by Ryan Kim | Aug, 2022 | Medium](https://equus3144.medium.com/kubernetes-volume-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-49cc6bc5d761)
 * [Troubleshooting Kubernetes Permission Error | Troubleshooting | RBAC | Role & Role binding - YouTube](https://www.youtube.com/watch?v=LL6CIXLjd_Y)
 * [Kubernetes StatefulSets are Broken](https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/)
@@ -1738,7 +1679,6 @@ Docker
     * 이 규칙을 위반하면 작업을 멈추게 함
   * 안정성에는 중요하지만 PDB가 의도한 작업을 차단하거나 지연시킬 수도 있으므로 PDB의 동작을 잘 알고 사용해야 함
 * [CNCF Wisdom of the Cloud #3: Midsummer Momentum](https://email.linuxfoundation.org/cncf-wisdom-of-the-cloud-3-midsummer-momentum)
-* [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
 * [B 12 002 트러블 슈팅은 어떻게 진행하면 좋을까요 - YouTube](https://www.youtube.com/watch?v=5_zq1L1nVsg)
 * [NCP에서 k8s 사용하기 - 사설 registry 이용](https://blog.naver.com/pjt3591oo/223163689803)
 * [Enabling Developers in a Multi-Cloud World • Mauricio Salatino • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=NjvZxGG_8W0)
@@ -1815,38 +1755,12 @@ Docker
   * [ACK - AWS Controllers for K8s](https://aws-controllers-k8s.github.io/community/)
 * [botkube: An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/kubeshop/botkube)
   * Kubernetes 클러스터을 모니터링해서 정책에 어긋나는 부분을 Slack, Discord 등으로 알림을 받을 수 있는 봇
-* Calico
-  * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
-  * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
-  * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
-  * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
-  * [Kubernetes – Calico Troubleshooting – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=7416)
-  * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179?category=1089407)
 * [Cellery: A Code-First Approach to Deploy Applications on Kubernetes](https://www.infoq.com/articles/cellery-code-first-kubernetes/)
 * Chaos Mesh [A Powerful Chaos Engineering Platform for Kubernetes | Chaos Mesh](https://chaos-mesh.org/)
   * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
   * [Attaining harmony of chaos in Kubernetes with Chaos Mesh – Flant blog](https://blog.flant.com/chaos-mesh-in-kubernetes/)
   * [Chaos Engineering in Kubernetes using Chaos Mesh | by Pavan Kumar | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/chaos-engineering-in-kubernetes-using-chaos-mesh-431c1587ef0a)
   * [AWSKRUG: 오픈소스 카오스 엔지니어링 툴 소개 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vR1fNr6jeEvwUepa9Zfy2hXFRx5N6xDywYW6LX9bq0WtrPYhBYHeVFkymsgNcnttjoCT7gjXYNOMOrF/pub)
-* [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
-  * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
-  * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
-  * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
-  * [Getting started with Cilium for Kubernetes networking and observability - Spectro Cloud](https://www.spectrocloud.com/blog/getting-started-with-cilium-for-kubernetes-networking-and-observability/)
-    * Kubernetes에서 Cilium을 테스트해보는 간단한 소개 글
-    * Cilium은 eBPF 기반의 네트워크 플러그인으로 그 특성상 성능이 좋고 네트워크, 보안, 관측성을 제공할 수 있고 최근에 Mesh도 추가
-    * 로컬에서 K3s로 Kubernetes 클러스터를 구성해서 여기에 cilium CLI로 설치하고 Hubble로 대시보드까지 확인하는 방법 설명
-  * [eBPF와 함께 이해하는 Cilium 네트워킹 - Speaker Deck](https://speakerdeck.com/hadaney/ebpfwa-hamgge-ihaehaneun-cilium-neteuweoking)
-  * [Cilium CNI on EKS using secondary CIDR and prefix delegation | by Benoit MOUQUET | Medium](https://medium.com/@benoit.mouquet/cilium-cni-on-eks-using-secondary-cidr-and-prefix-delegation-55e57ffd2537)
-    * Cilium은 eBPF 기반으로 네트워크 통신을 모니터링하고 필터링
-    * AWS EKS는 Calico를 사용하고 있지만 DNS 정책을 적용할 수 있고 Hubble로 가시성을 제공할 수 있으므로 Cilium을 사용하기로 선택
-      * Cilium 네트워크 플러그인, Pod을 위한 VPC의 secondary CIDR, ENI 접두사 위임을 사용하기로 결정
-      * EKS에서 지원하지 않기 때문에 VPC CNI를 따로 지워야 했고
-      * 이후 Cilium을 설정하고 Hubble UI로 기본 설정 확인을 한 뒤 정책을 적용하는 방법 정리
-  * [Cilium Mesh - One Mesh to Connect Them All - Isovalent](https://isovalent.com/blog/post/introducing-cilium-mesh/)
-    * Cilium에서 범용 네트워킹 레이어인 Cilium Mesh 공개
-    * Cilium 기반 네트워크와 보안을 확장하기 위해 Cilium Mesh 도입
-    * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
 * [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
@@ -1879,15 +1793,12 @@ Docker
   * [How to Get Started With DevSpace and Rapidly Develop Kubernetes Apps – CloudSavvy IT](https://www.cloudsavvyit.com/14690/how-to-get-started-with-devspace-and-rapidly-develop-kubernetes-apps/)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
-* [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
   * [OpenFaaS - Run Containerized Functions On Your Own Terms - Ivan Velichko](https://iximiuz.com/en/posts/openfaas-case-study/)
 * [Falco](https://falco.org/)
   * [MITRE ATT&CK Framework, Falco Container Security | Sysdig](https://sysdig.com/blog/mitre-attck-framework-for-container-runtime-security-with-sysdig-falco/)
   * [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator](https://www.infoq.com/news/2020/01/falco-security-cncf/)
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
-* [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
-  * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
 * [fluent-operator: Operate Fluent Bit and Fluentd in the Kubernetes way - Previously known as FluentBit Operator](https://github.com/fluent/fluent-operator)
   * [로그수집기 fluentbit in TACO LMA](https://devocean.sk.com/blog/techBoardDetail.do?ID=164136)
   * [ElasticSearch Index LifeCycle to Template with Fluentbit](https://ykarma1996.tistory.com/115)
@@ -1895,9 +1806,6 @@ Docker
 * [Flux](https://fluxcd.io/)
   * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
   * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
-* [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
-  * [Gateway API v0.8.0: Introducing Service Mesh Support | Kubernetes](https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/)
-    * Kubernetes Gateway API의 서비스 메시 지원이 실험 단계. Kuma 2.3+, Linkerd 2.14+, Istio 1.16+가 모두 이 서비스 메시 지원과 완전히 호환
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
   * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
@@ -2045,9 +1953,6 @@ Docker
 * [kube-no-trouble: Easily check your clusters for use of deprecated APIs](https://github.com/doitintl/kube-no-trouble)
 * [kube-prometheus: Use Prometheus to monitor Kubernetes and applications running on Kubernetes](https://github.com/prometheus-operator/kube-prometheus)
   * [Introduction | kube-prometheus runbooks](https://runbooks.prometheus-operator.dev/)
-* kube-proxy
-  * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
-  * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
 * [kuberian.pages.dev/?q=](https://kuberian.pages.dev/?q=)
   * [Kuberian: LLM 을 사용한 Kubernetes 소스코드 자연어 검색 서비스 | GeekNews](https://news.hada.io/topic?id=10179)
 * kubernetes-client [Package kubernetes-client - man pages | ManKier](https://www.mankier.com/package/kubernetes-client)
@@ -2131,8 +2036,6 @@ Docker
   * [Setup #minikube cluster in 2 minutes - YouTube](https://www.youtube.com/watch?v=zc5ks0Vd8Oc)
 * [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
   * [mirrord - 프로덕션 트래픽을 개발 환경으로 미러링 해주는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6721)
-* [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
-  * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [OKD 개요](https://velog.io/@_gyullbb/OKD-%EA%B0%9C%EC%9A%94)
 * [Okteto - The Kubernetes development platform](https://okteto.com/)
@@ -2232,6 +2135,106 @@ Docker
 * [30+ Free and Open Source Kubernetes Monitoring Tools](https://www.fossmint.com/kubernetes-monitoring-tools/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [쿠버네티스의 HPA/VPA 오토스케일링을 위한 모니터링 아키텍처](https://bcho.tistory.com/1389)
+
+## Kubernetes Networking
+* [Deploy Microservices in Kubernetes using External-DNS and Ingress - YouTube](https://www.youtube.com/watch?v=P_npB_OCoag)
+* [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+* [Kubernetes ingress, deep dive](https://banzaicloud.com/blog/k8s-ingress/)
+* [A Terrible, Horrible, No-Good, Very Bad Day at Slack | by Laura Nolan | Jun, 2020 | Several People Are Coding](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ingress
+* [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
+* [Kubernetes — Ingress Overview. What is K8s Ingress? — Introduction to… | by Ashish Patel | DevOps Mojo | Jul, 2021 | Medium](https://medium.com/devops-mojo/kubernetes-ingress-overview-what-is-kubernetes-ingress-introduction-to-k8s-ingress-b0f81525ffe2)
+* [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
+* [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
+* [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
+* [Ingress Controllers: The Swiss Army Knife of Kubernetes – The New Stack](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
+* [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
+* [Kubernetes Ingress: A Beginners' Guide | ARMO](https://www.armosec.io/blog/kubernetes-ingress-beginners-guide/)
+* [Okta 및 NGINX Ingress Controller를 사용하여 Kubernetes용 OpenID Connect 인증 구현 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/implementing-openid-connect-authentication-kubernetes-okta-and-nginx-ingress-controller/)
+* [Kubernetes 의 인증과 인가](https://stupendous-purple-c9f.notion.site/Kubernetes-035fe6bef71b490197acf0d99261ff6a)
+* [Ingress Controller 선택 가이드, Part 2: 위험 및 미래 대비 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/guide-to-choosing-ingress-controller-part-2-risks-future-proofing/)
+  * Q1. 복잡성(Complexity) – 마이크로서비스 아키텍처(MSA)의 목적을 위배합니까?
+  * Q2. 대기 시간(Latency) – Ingress Controller가 앱 속도를 늦추나요?
+  * Q3. 보안(Security) – Ingress Controller가 해커의 문을 열어줍니까?
+* [어떨 때 사용할까요? API Gateway vs Ingress Controller vs Service Mesh - NGINX STORE](https://www.nginxplus.co.kr/best-practices/when-to-use-it-api-gateway-vs-ingress-controller-vs-service-mesh/)
+* [k8s ingress-nginx & cert-managert 를 이용해서 한번에 https 적용시키기](https://velog.io/@juunini/k8s-ingress-nginx-cert-managert-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%95%9C%EB%B2%88%EC%97%90-https-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
+* [Kubernetes에서 가시성(Visibility)을 개선하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/doc/guide/how-to-improve-visibility-in-kubernetes/)
+  * 가시성(Visibility) 확보: Ingress-Egress 트래픽에 대한 통찰력(Insight), east-west 트래픽에 대한 통찰력(Insight)
+  * 문제(Problem): 내 앱이 느림(또는 다운), 내 클러스터 또는 플랫폼에 리소스 부족
+* [Kubernetes Ingress 및 Egress 트래픽 관리를 단순화하는 방법 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/how-to-simplify-kubernetes-ingress-egress-traffic-management/)
+* [Kubernetes Ingress for Beginners | Configuring and Managing Kubernetes Networking, and Ingress | K8S - YouTube](https://www.youtube.com/watch?v=gW2C-2q8t54)
+* [Kubernetes Networking Fundamentals – techbeatly](https://www.techbeatly.com/kubernetes-networking-fundamentals/)
+* [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+  * [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+* [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
+  * [번역 쿠버네티스 네트워킹 이해하기#2: Services | 커피고래의 노트](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
+* [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
+  * [번역 쿠버네티스 네트워킹 이해하기#3: Ingress | 커피고래의 노트](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
+* [Life of a Packet in Kubernetes — Part 1 | by Dinesh Kumar Ramasamy | Medium](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051)
+  * [번역 쿠버네티스 패킷의 삶 - #1 | 커피고래의 노트](https://coffeewhale.com/packet-network1)
+  * [번역 쿠버네티스 패킷의 삶 - #2 | 커피고래의 노트](https://coffeewhale.com/packet-network2) calico
+  * [번역 쿠버네티스 패킷의 삶 - #3 | 커피고래의 노트](https://coffeewhale.com/packet-network3)
+  * [번역 쿠버네티스 패킷의 삶 - #4 | 커피고래의 노트](https://coffeewhale.com/packet-network4)
+* [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
+* [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
+* [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+* [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
+  * OpenAI에서 Kubernetes의 노드를 2,500대 운영하면서 겪은 문제와 개선한 과정을 정리한 글을 번역
+  * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
+  * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
+  * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
+* [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
+* [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
+* [Kubernetes 네트워킹 101 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/kubernetes-networking-101/)
+* [Kubernetes Network Plugins - kubedex.com](https://kubedex.com/kubernetes-network-plugins/)
+* [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
+* [CNI Benchmark: Understanding Cilium Network Performance — Cilium](https://cilium.io/blog/2021/05/11/cni-benchmark)
+  * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
+  * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
+  * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
+* [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
+* [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
+* [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
+* [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
+* [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
+* [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
+* [4. 쿠버네티스 네트워크 이해 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-06-jennifer-kubernetes-4/)
+* Calico
+  * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
+  * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
+  * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
+  * [번역 Calico 라우팅 모드 | 커피고래의 노트](https://coffeewhale.com/calico-mode)
+  * [Kubernetes – Calico Troubleshooting – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=7416)
+  * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179?category=1089407)
+* [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
+  * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
+  * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
+  * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
+  * [Getting started with Cilium for Kubernetes networking and observability - Spectro Cloud](https://www.spectrocloud.com/blog/getting-started-with-cilium-for-kubernetes-networking-and-observability/)
+    * Kubernetes에서 Cilium을 테스트해보는 간단한 소개 글
+    * Cilium은 eBPF 기반의 네트워크 플러그인으로 그 특성상 성능이 좋고 네트워크, 보안, 관측성을 제공할 수 있고 최근에 Mesh도 추가
+    * 로컬에서 K3s로 Kubernetes 클러스터를 구성해서 여기에 cilium CLI로 설치하고 Hubble로 대시보드까지 확인하는 방법 설명
+  * [eBPF와 함께 이해하는 Cilium 네트워킹 - Speaker Deck](https://speakerdeck.com/hadaney/ebpfwa-hamgge-ihaehaneun-cilium-neteuweoking)
+  * [Cilium CNI on EKS using secondary CIDR and prefix delegation | by Benoit MOUQUET | Medium](https://medium.com/@benoit.mouquet/cilium-cni-on-eks-using-secondary-cidr-and-prefix-delegation-55e57ffd2537)
+    * Cilium은 eBPF 기반으로 네트워크 통신을 모니터링하고 필터링
+    * AWS EKS는 Calico를 사용하고 있지만 DNS 정책을 적용할 수 있고 Hubble로 가시성을 제공할 수 있으므로 Cilium을 사용하기로 선택
+      * Cilium 네트워크 플러그인, Pod을 위한 VPC의 secondary CIDR, ENI 접두사 위임을 사용하기로 결정
+      * EKS에서 지원하지 않기 때문에 VPC CNI를 따로 지워야 했고
+      * 이후 Cilium을 설정하고 Hubble UI로 기본 설정 확인을 한 뒤 정책을 적용하는 방법 정리
+  * [Cilium Mesh - One Mesh to Connect Them All - Isovalent](https://isovalent.com/blog/post/introducing-cilium-mesh/)
+    * Cilium에서 범용 네트워킹 레이어인 Cilium Mesh 공개
+    * Cilium 기반 네트워크와 보안을 확장하기 위해 Cilium Mesh 도입
+    * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
+* [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
+* [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
+  * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
+* [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
+  * [Gateway API v0.8.0: Introducing Service Mesh Support | Kubernetes](https://kubernetes.io/blog/2023/08/29/gateway-api-v0-8/)
+    * Kubernetes Gateway API의 서비스 메시 지원이 실험 단계. Kuma 2.3+, Linkerd 2.14+, Istio 1.16+가 모두 이 서비스 메시 지원과 완전히 호환
+* kube-proxy
+  * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
+  * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
+* [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
+  * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
