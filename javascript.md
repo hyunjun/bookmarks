@@ -43,6 +43,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Getting Started with JavaScript - Sabe.io](https://sabe.io/classes/javascript)
+* [JavaScript for Web Designers — A Book Apart](https://javascript-for-web-designers.abookapart.com/) 제목에서 알 수 있듯이, 이 책은 디자이너가 JavaScript를 이해할 수 있도록 도와주는 것이지만 이는 반대로 얘기하면 비 기술적 직무를 수행하는 모든 이들을 위한 책
 * [Mohammed Junaid 🎯 on Twitter: "Master JavaScript. Top 22 Github Repos for JavaScript Developers. Thread 🧵" / Twitter](https://twitter.com/mdjunaidap/status/1558696637593272321)
 * [9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O - YouTube](https://www.youtube.com/watch?v=ZOVG7_41kJE)
 * [Creating Website Using Javascript | How to Make Website Using Javascript? | Simplilearn - YouTube](https://www.youtube.com/watch?v=cAa-s32oWiI)
