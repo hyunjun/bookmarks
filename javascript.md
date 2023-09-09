@@ -2775,7 +2775,6 @@ Javascript
 * [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
-* [How we reduced the size of our JavaScript bundles by 33% - Dropbox](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
 * [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
   * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
@@ -2789,9 +2788,14 @@ Javascript
     * CSSNano나 ESBuild보다 더 빠른 속도를 보여주고 압축된 이미지도 더 작다고 함
     * Mozilla에서 만든 cssparser에 기반을 두고 있으면 다른 파서가 CSS의 값을 문자열로 다루고 있는데, 반해 Parcel CSS는 CSS 명세의 그래머를 사용해서 모든 값을 파싱
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
+  * [Rollup · GitHub](https://github.com/rollup)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
   * [라이브러리 배포 cjs? ejs?](https://www.notion.so/cjs-ejs-f413befcf8ae45589e47fc4d14a5ab9a)
   * [Rollup 기반 라이브러리 개발 환경 구성하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/11/07/Rollup-React-TypeScript.html)
+  * [How we reduced the size of our JavaScript bundles by 33% - Dropbox](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
+    * 드롭박스가 수동으로 관리하던 레거시 번들러를 롤업으로 교체하면서 번들 사이즈를 줄이고 개발 환경을 개선했던 경험기
+    * 롤업을 왜 선택했는지, 기존 레거시 번들러에서 마이그레이션 하면서 나타난 문제점이 무엇이었는지, 어떤 점들이 개선되었는지 설명
+    * [(번역) 어떻게 우리는 자바스크립트 번들 크기를 33% 줄였는가? | by Jung Han | Aug, 2023 | Medium](https://junghan92.medium.com/%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B2%88%EB%93%A4-%ED%81%AC%EA%B8%B0%EB%A5%BC-33-%EC%A4%84%EC%98%80%EB%8A%94%EA%B0%80-2da398033169)
 * [rome: The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS](https://github.com/romefrontend/rome)
   * [번역 모든 길은 Rome으로 통할까?. Front-end 툴 체인 Rome 훑어보기 | by Jung Han | podo_official | Aug, 2020 | Medium](https://medium.com/official-podo/%EB%AA%A8%EB%93%A0%EA%B8%B8%EC%9D%80-rome%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A0%EA%B9%8C-1a858dddedd6)
 * [tsup: The simplest and fastest way to bundle your TypeScript libraries](https://github.com/egoist/tsup)
