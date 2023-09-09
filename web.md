@@ -830,6 +830,7 @@ Web
   * [미래의 CSS: State Container Queries | GeekNews](https://news.hada.io/topic?id=9566)
 * [알아두면 유용한 CSS 기능 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223163108238)
 * [CSS 초보의 클론 코딩, 어떻게 하는 게 좋을까? | 웹으로 말하기](https://mytory.net/archives/14647)
+* [모달 레이어 팝업 등에서 URL을 변경해 뒤로 가기 버튼을 작동하게 하기 – pushState, popstate 활용 규칙 메모 | 웹으로 말하기](https://mytory.net/archives/14800)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
