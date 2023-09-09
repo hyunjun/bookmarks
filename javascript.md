@@ -2738,6 +2738,7 @@ Javascript
   * [Vite 4.0 is out! | Vite](https://vitejs.dev/blog/announcing-vite4.html)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
+  * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [wireit: Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient](https://github.com/google/wireit)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
