@@ -3256,6 +3256,8 @@ Javascript
   * [Node.js is Dead. — Long Live Bun. | by Yannis Burghardt | Jul, 2022 | Medium](https://medium.com/@YNNSme/node-js-is-dead-long-live-bun-3d888eab63d7)
   * [속도가 미쳤습니다. 해외에서 난리난 BUN 🔥 3분 소개! - YouTube](https://www.youtube.com/watch?v=t9924eteb-4)
   * [“제 2의 노드JS 노린다” 오픈소스 런타임 환경 ‘번’이란? - ITWorld Korea](https://www.itworld.co.kr/news/258112)
+  * [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
+    * [Bun 1.0 is here - YouTube](https://www.youtube.com/watch?v=BsnCpESUEqM) 
   * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
   * [transbun](https://github.com/Huansock/transbun)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
