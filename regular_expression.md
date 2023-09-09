@@ -99,6 +99,7 @@ Regular Expression
 * [**RegexOne - Learn Regular Expressions with simple, interactive exercises**](http://regexone.com/)
 * [regextester.com](http://www.regextester.com/)
 * [regular-expressions.info](http://www.regular-expressions.info/)
+* [Regulex：JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) 정규 표현식 시각화
 * [Rulex - Home](https://rulex-rs.github.io/)
 * [**txt2re.com**](http://txt2re.com/)
 * uibakery [**RegEx Library**](https://uibakery.io/regex-library)  a curated list of useful regular expressions for different programming languages
