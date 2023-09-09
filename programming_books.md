@@ -335,6 +335,7 @@ Programming Books
 * (NOT YET) [읽기 좋은 코드가 좋은 코드다: 더 나은 코드를 작성하는 간단하고 실전적인 테크닉](https://www.hanbit.co.kr/store/books/look.php?p_code=B3602722207)
   * 탐라 개005.13-보77ㅇ 제주 005.4-보78읽
   * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
+* (NOT YET) [오늘날 우리는 컴퓨터라 부른다](https://jhrogue.blogspot.com/2023/09/blog-post.html)
 
 # Agile Scrum
 
@@ -2281,6 +2282,7 @@ Programming Books
   * [DevOps Tools for Java Developers](https://github.com/devops-tools-for-java-developers)
 * (NOT YET) [처음부터 제대로 배우는 스프링 부트](https://hanbit.co.kr/store/books/look.php?p_code=B4239384913)
   * [스프링 부트를 활용한 웹개발의 기본을 충분히 .. : 네이버블로그](https://blog.naver.com/drvoss/223164101787)
+* (NOT YET) 실전 스프링 부트 [그런 날 있잖아 스프링 부트를 배우고는 있지만 무작정 실전에서 써보고 싶은... 그런 날](https://jpub.tistory.com/1451)
 
 # JavaScript
 
