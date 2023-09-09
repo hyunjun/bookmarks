@@ -5883,6 +5883,18 @@ Javascript
 * [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
 * [Tspec | Tspec](https://ts-spec.github.io/tspec/)
   * [API 문서화, TS 타입만 있으면 해결! - Tspec - 리디주식회사](https://ridicorp.com/story/tspec-api-documentation/)
+* [TS Reset - Official Docs | Total TypeScript](https://www.totaltypescript.com/ts-reset)
+  * [ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's](https://github.com/total-typescript/ts-reset)
+  * Typescript의 기본 타입을 교정해 주는 타입 라이브러리. CSS 리셋을 하듯이 타입을 리셋
+  * ts-reset가 없을때:
+    * 🚨 fetch 함수의 .json() 과 JSON.parse()는 any 타입을 반환함
+    * 🤦 .filter(Boolean) 가 타입적으로 undefined를 걸러주지 못함
+    * 😡 array.includes() 는 종종 readonly 배열에서 동작이 너무 strict해서 불편함
+  * ts-reset을 사용할때:
+    * 👍 fetch 함수의 .json() 과 JSON.parse()는 unknown 타입을 반환함
+    * ✅ .filter(Boolean)가 정확히 우리가 원하는 타입을 반환함
+    * array.includes() 가 사용하기 편해짐
+🚀 외에도 여러 기능을 포함
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
