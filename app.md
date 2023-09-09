@@ -963,6 +963,7 @@ App
     * [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
     * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
     * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
+    * [10 essential VS Code tips & tricks for greater productivity | by Coding Beauty | Aug, 2023 | Dev Genius](https://blog.devgenius.io/vscode-tips-tricks-98c6e2258626)
     * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
     * [vscode 강좌 1편 vscode설치와 유용한 extension설치](https://www.youtube.com/watch?v=Xs5aM9FYuic)
     * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
