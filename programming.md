@@ -4286,6 +4286,7 @@ Programming
 * [번역 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
 * [PubSub in web: comparison and deep-dive into Bayeux/Faye](https://medium.com/front-end-weekly/pubsub-in-web-comparison-and-deep-dive-into-bayeux-faye-e6a0cc3f10d1)
 * [How Netflix microservices tackle dataset pub-sub](https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
+* [The Publish-Subscribe pattern, commonly known as Pub/Sub, is a messaging communication pattern used in distributed systems](https://www.linkedin.com/posts/brijpandeyji_pubsub-rabbitmq-kafka-activity-7104062979163201536-wNaY/)
 * [**jack-vanlightly.com/blog?category=Messaging Systems**](https://jack-vanlightly.com/blog?category=Messaging+Systems)
   * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
 * [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
