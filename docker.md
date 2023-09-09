@@ -1401,6 +1401,7 @@ Docker
 * [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
 * [Migrate virtual machines to Kubernetes with this new tool | Opensource.com](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
 * [플레이스 AI 개발의 MLOps w/ Kubernetes | by WonhongYoo | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
+* [쿠버네티스가 AI, ML, LLM를 위한 플랫폼인 이유](https://nauco.tistory.com/125) 실무적인 내용이나 근거는 없는 거 같아서 크게 마음이 가진 않음
 * [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
 * [How to Debug Dead Container in K8s](https://leoh0.github.io/post/2018-08-04-how-to-debug-dead-container-in-k8s/)
 * [Living with Kubernetes: Debug Clusters in 8 Commands – The New Stack](https://thenewstack.io/living-with-kubernetes-debug-clusters-in-8-commands)
