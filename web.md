@@ -1741,6 +1741,7 @@ Web
 * [**When Network is Faster than Cache – Simon Hearne**](https://simonhearne.com/2020/network-faster-than-cache/)
 * [풀버전 박정국 CTO가 알려주는 ‘서버 성능 측정 방법’ (포브스 선정, 신입 개발자, API, 백엔드) - YouTube](https://www.youtube.com/watch?v=HSNyJnobBws)
 * [Lazy Loading을 활용한 Web Vital개선 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/lazy-loading-to-improve-web-vitals)
+* [React reportWebVitals](https://velog.io/@jollypyun/React-reportWebVitals)
 * [리액트 빌드 최적화 (feat. ChatGPT) - Byeongjin Jason Kang](https://jasonkang14.github.io/react/optimzation-with-chat-gpt)
 * [성능 테스트의 중요성과 목적 그리고 효과](https://f-lab.kr/blog/importance%20of%20performance%20Testing)
 * [Shopping for speed on eBay.com](https://web.dev/shopping-for-speed-on-ebay/)
