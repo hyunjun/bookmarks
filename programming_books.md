@@ -580,6 +580,7 @@ Programming Books
   * 탐라 문005.1-박51ㅇ
 * (NOT YET) [프로그래머스 코딩 테스트 문제 풀이 전략: 자바편](https://school.programmers.co.kr/learn/courses/16558/16558-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EC%A0%84%EB%9E%B5-%EC%9E%90%EB%B0%94%ED%8E%B8)
   * 우당 문005.133-김94ㅍ
+* (NOT YET) [대규모 데이터 세트를 위한 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323728898)
 
 # Amazon AWS
 
