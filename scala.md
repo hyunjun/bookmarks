@@ -1794,6 +1794,7 @@ Scala
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
   * [Seriously Good Software Ch 3 Exercise 3 (with cats and shapeless)](https://gist.github.com/sungkmi/0d2cb8686d7f6170eec0a216eb776301) state monad version
   * [Mike Limansky - From Scala 2 shapeless to Scala 3](http://limansky.me/posts/2021-07-26-from-scala-2-shapeless-to-scala-3.html)
+* [sharaf: Minimalistic Scala 3 HTTP server library](https://github.com/sake92/sharaf)
 * [slinc: Scala <-> C interop](https://github.com/markehammons/slinc)
   * [Mark Hammons - Slinc: A Library for Scala to C Interoperability | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=FW1nsmudfnI)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
