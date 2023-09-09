@@ -1408,6 +1408,7 @@ NLP
 * [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/)
   * [practical patterns for building LLM-based systems and products](https://www.linkedin.com/feed/update/urn:li:activity:7098693440158199808/)
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
+* [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
