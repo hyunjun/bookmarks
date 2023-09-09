@@ -245,22 +245,6 @@ Business
 * [Social Contracts for Engineering Teams • Kate Andrews • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=1miIiYA1lNg)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
-* [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
-* [협업의 미신 5가지](http://agile.egloos.com/5904102)
-  * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
-* [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
-* [사일로를 없애고 협업을 부르는 마법 - T Times](http://www.ttimes.co.kr/view.html?no=2021070115407774399)
-* [내가 왜 옆 팀 업무를 알아야 돼···스타트업 갉아먹는 사일로 현상 위험경보 │ 매거진한경](https://magazine.hankyung.com/job-joy/article/202107136908d)
-* [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
-* [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
-* [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
-* [팀장님은 어느 팀 소속인가요? – Dreaming for the Future](http://www.chidoo.me/index.php/2022/11/12/what-team-a-leader-belongs-to/) 협업
-* [함께 일한다는 것에 대하여 — 프로세스보단 상호작용에 가치를! | by Katanazero | Sep, 2022 | Medium](https://medium.com/@zero86/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%97%90-%EA%B0%80%EC%B9%98%EB%A5%BC-e7929fcc0c18) 협업
-* [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
-* [모든 사람이 디자이너다. 받아들여라.. Everyone is a designer. Get over it. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%8B%A4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EB%9D%BC-f47ca3da26c0) 결국 중요한 것은 협업
-* [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
-* [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
-* [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
 * [할 말을 안해서 사고가 나는 경우 > 안 할 말도 해서 사고가 나는 경우](https://www.facebook.com/cjunekim/posts/pfbid0XZFKUXc71BDb8EMZbB9e2eSd1uq172bW7t2i3odBbtZFCVP81x7uep43snd2KNQDl) 항공업계 이야기
 * [美 IT업계서 45년 일한 어느 개발자의 여섯가지 조언 - ZDNet korea](https://zdnet.co.kr/view/?no=20210108154359)
 * [스타트업 업계에선 "허락을 받지 말고 용서를 구해라 (Don't | 김영민 | 퍼블리 뉴스](https://news.publy.co/comments/10393) 용서를 구하지 말고 의도를 밝혀라 (Don't ask forgiveness, radiate intent)
@@ -347,7 +331,6 @@ Business
 * [2022 SaaS 비즈니스 기본 개념 정리본](https://www.slid.cc/share/docs/2022-saas-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%EB%B3%B8-8bd457eabedf432fa5be5410ba19b702) churn rate hunter farmer MRR ARR ARPU ARPPU CLTV CAC Payback period LTV
 * [SaaS 전성시대라는데.. 왜 대기업은 SaaS를 안 살까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/saasbuy20220517)
 * [Meritech Capital](https://www.meritechcapital.com/benchmarking/operating-metrics/arr-fte) 실리콘밸리 회사들의 ARR stat
-* [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
 * [협력을 깨는 리더의 말 "그것까진 알 필요 없네" 김경일의 CEO 심리학 - 매일경제](https://www.mk.co.kr/news/business/10710753)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
@@ -429,7 +412,6 @@ Business
     * 의견 수렴 등 피드백이 필요한 경우, 미팅이 메시지나 이메일보다 더 효율적인가?
     * 미팅에서 이메일이나 메시지가 줄 수 없는 내용(예: 발생한 문제가 계속 커져가고 있을 때의 즉각적인 피드백)을 얻을 수 있나?
 * [집단에서 회의할 때 정말 조심해야 할 것 중 하나, 그럴 때 퍼실리테이터가 할 일](https://www.facebook.com/cjunekim/posts/pfbid02KxEKLkaT4goM5AbrLB2kUJreEEfRXnetmhS2KPczM6Ehi7nXzh4tQhMogqYSi94Ll)
-* [미팅은 적을수록 좋다.. 커뮤니케이션 코스트 이야기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/communicationcost20230612)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [일잘러의 탄생을 관찰하다](https://brunch.co.kr/@zseo/38)
@@ -1065,7 +1047,28 @@ Business
 * [2015 중국 SNS 트렌드 분석](http://ppss.kr/archives/59146)
 * [바이두를 추월한 핀두오두오](https://estimastory.com/2019/09/01/pinduoduo/)
 
+# Collaboration
+* [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
+* [협업의 미신 5가지](http://agile.egloos.com/5904102)
+  * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
+* [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
+* [사일로를 없애고 협업을 부르는 마법 - T Times](http://www.ttimes.co.kr/view.html?no=2021070115407774399)
+* [내가 왜 옆 팀 업무를 알아야 돼···스타트업 갉아먹는 사일로 현상 위험경보 │ 매거진한경](https://magazine.hankyung.com/job-joy/article/202107136908d)
+* [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
+* [화해 개발팀이 협업하는 방법 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6560/)
+* [수학으로 만든 투자기법.. 그의 통장엔 연봉 3조원 꽂혔다](https://news.v.daum.net/v/20220726001512214) 협업 관련 흥미로운 이야기
+* [팀장님은 어느 팀 소속인가요? – Dreaming for the Future](http://www.chidoo.me/index.php/2022/11/12/what-team-a-leader-belongs-to/) 협업
+* [함께 일한다는 것에 대하여 — 프로세스보단 상호작용에 가치를! | by Katanazero | Sep, 2022 | Medium](https://medium.com/@zero86/%ED%95%A8%EA%BB%98-%EC%9D%BC%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%97%90-%EA%B0%80%EC%B9%98%EB%A5%BC-e7929fcc0c18) 협업
+* [2022 삼성전자 세미나 - 박미정 (공유용) - Google Slides](https://docs.google.com/presentation/d/1zcy7p8lTS2ZkbpFv3TZVwNiCr9Wk18C41qUTxjOG0Yc/edit) 협업
+* [모든 사람이 디자이너다. 받아들여라.. Everyone is a designer. Get over it. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AA%A8%EB%93%A0-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%8B%A4-%EB%B0%9B%EC%95%84%EB%93%A4%EC%97%AC%EB%9D%BC-f47ca3da26c0) 결국 중요한 것은 협업
+* [SaaS 업계의 떠오르는 키워드, ‘Deep Collaboration’ | by 진용진 (Yongjin Jin) | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/saas-%EC%97%85%EA%B3%84%EC%9D%98-%EB%96%A0%EC%98%A4%EB%A5%B4%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-deep-collaboration-26df5ff5580e)
+* [성과내는 프로덕트 팀의 3가지 요소](https://brunch.co.kr/@yongjinjinipln/112)
+
 # Conversation, Communication
+* [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
+* [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
+* [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
+* [미팅은 적을수록 좋다.. 커뮤니케이션 코스트 이야기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/communicationcost20230612)
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
 * [직장에서 인정받는 언어습관 6가지..효과적인 커뮤니케이션 노하우](http://bonlivre.tistory.com/575)
