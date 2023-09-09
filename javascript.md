@@ -4445,6 +4445,8 @@ Javascript
   * React Server Component 개념 가장 쉽게 정리
     * RSC를 설명하기 전에 SSR, Concurrent, Streaming SSR, Suspense를 설명하고 왜 RSC가 필요했고 RSC가 무엇인지
     * 그로 인해 얻을 수 있는 부분과 어려워지는 부분까지 설명
+* [Devtools for React Server Components](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
+  * RSC(React Server Component) payload를 네트워크 탭에서 보면 구조를 파악하기 힘듦. RSC Devtools은 RSC payload를 시간대별로 탐색, 분석할 수 있도록 도움. chrome extension 형태의 비공식 Devtool
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
@@ -5885,16 +5887,15 @@ Javascript
   * [API 문서화, TS 타입만 있으면 해결! - Tspec - 리디주식회사](https://ridicorp.com/story/tspec-api-documentation/)
 * [TS Reset - Official Docs | Total TypeScript](https://www.totaltypescript.com/ts-reset)
   * [ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's](https://github.com/total-typescript/ts-reset)
-  * Typescript의 기본 타입을 교정해 주는 타입 라이브러리. CSS 리셋을 하듯이 타입을 리셋
-  * ts-reset가 없을때:
-    * 🚨 fetch 함수의 .json() 과 JSON.parse()는 any 타입을 반환함
-    * 🤦 .filter(Boolean) 가 타입적으로 undefined를 걸러주지 못함
-    * 😡 array.includes() 는 종종 readonly 배열에서 동작이 너무 strict해서 불편함
-  * ts-reset을 사용할때:
-    * 👍 fetch 함수의 .json() 과 JSON.parse()는 unknown 타입을 반환함
-    * ✅ .filter(Boolean)가 정확히 우리가 원하는 타입을 반환함
-    * array.includes() 가 사용하기 편해짐
-🚀 외에도 여러 기능을 포함
+    * Typescript의 기본 타입을 교정해 주는 타입 라이브러리. CSS 리셋을 하듯이 타입을 리셋
+    * ts-reset가 없을때:
+      * 🚨 fetch 함수의 .json() 과 JSON.parse()는 any 타입을 반환함
+      * 🤦 .filter(Boolean) 가 타입적으로 undefined를 걸러주지 못함
+      * 😡 array.includes() 는 종종 readonly 배열에서 동작이 너무 strict해서 불편함
+    * ts-reset을 사용할때:
+      * 👍 fetch 함수의 .json() 과 JSON.parse()는 unknown 타입을 반환함
+      * ✅ .filter(Boolean)가 정확히 우리가 원하는 타입을 반환함
+      * array.includes() 가 사용하기 편해짐
 * [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
