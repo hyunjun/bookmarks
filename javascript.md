@@ -4812,6 +4812,11 @@ Javascript
   * [ReactiveConf 2016 - André Staltz: Visualizing the data flow with Cycle.js](https://www.youtube.com/watch?v=3a98OPJWFPY)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
+* [downshift: 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.](https://github.com/downshift-js/downshift)
+  * [Decoupling UI and Logic in React: A Clean Code Approach with Headless Components | by Juntao Qiu | ITNEXT](https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c)
+    * 복잡한 UI를 컴포넌트화한다면 렌더링과 상태 관리/로직을 분리한 헤드리스 패턴을 사용하는 것이 효과적
+      * 헤드리스 방식을 사용해 UI와 동작 부분을 분리한다면, 유지 보수가 쉽고 재사용 가능한 코드를 생성해 중복성을 줄이고, 나아가 잠재적 버그 감소 가능
+    * 이 글에서는 간단한 컴포넌트를 예로 시작해 헤드리스 라이브러리인 Downshift를 사용하여 좀 더 복잡한 시나리오로 확장하는 설명. 이를 통해 헤드리스가 복잡한 UI에 어떻게 효과적인지 살펴볼 수 있음
 * [Draft.js — rich text editor framework for React from Facebook](https://medium.com/@mshabrikov/draft-js-rich-text-editor-framework-for-react-from-facebook-f236d02576f0)
   * [How to paste images directly into an article in Draft.js](https://medium.freecodecamp.org/how-to-paste-images-directly-into-an-article-in-draft-js-e23ed3e0c834)
 * [edtr.io - The Open Source Web Editor](https://edtr.io/)
@@ -5479,6 +5484,7 @@ Javascript
 * [1. 좋은 함수 만들기 - 부작용과 거리두기](https://jojoldu.tistory.com/697)
 * [2. 좋은 함수 만들기 - 암묵적 입력/출력](https://jojoldu.tistory.com/703)
 * [3. 좋은 함수 만들기 - Null 을 다루는 방법](https://jojoldu.tistory.com/721)
+* [Three common types of test automation](https://web.dev/ta-types/) 웹 테스트 종류에는 어떤 것들이 있는지 소개하고 관련된 라이브러리도 간략하게 제시
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
