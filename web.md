@@ -831,12 +831,18 @@ Web
 * [알아두면 유용한 CSS 기능 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223163108238)
 * [CSS 초보의 클론 코딩, 어떻게 하는 게 좋을까? | 웹으로 말하기](https://mytory.net/archives/14647)
 * [모달 레이어 팝업 등에서 URL을 변경해 뒤로 가기 버튼을 작동하게 하기 – pushState, popstate 활용 규칙 메모 | 웹으로 말하기](https://mytory.net/archives/14800)
+* [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
+  * 최신 모던 브라우저들에서는 새로운 CSS Trigonometric functions(삼각함수)들 사용 가능
+    * 이 함수들을 사용하면 이전에는 불가능했던 CSS 레벨에서 수학적 계산을 보다 정교하게 수행
+  * 이 글에선 이들 함수를 활용해 pseudo-random 값들을 생성해 애니메이션이나 위치 등에서 활용할 수 있는 방법 소개
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
 * [Keyframes.app](https://keyframes.app/)
+* [Open Props: sub-atomic styles](https://open-props.style/)
+  * [State of CSS 2023](https://2023.stateofcss.com/en-US/)에 따르면 관심/만족도에서 Tailwind CSS를 앞지름
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [system.css | A design system for building retro Apple-inspired interfaces](https://sakofchit.github.io/system.css/)
 * [tachyons.io](https://tachyons.io/)
@@ -935,6 +941,22 @@ Web
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
   * [htmx: </> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
+    * 웹 개발의 대부분은 HTML/CSS을 통해 사용자 입력을 받고, 그에 따라 JavaScript를 통해 새로운 콘텐츠를 업데이트하는 방식의 접근을 오랜 시간 동안 받아들이고 사용
+    * htmx는 어쩌면 우리가 일반적으로 알고 있는 개발 방식에 새로운 접근을 제시하며, 대부분의 작업들은 HTML 태그의 속성을 통해 처리 가능하게 변경
+
+      ```
+      <!-- htmx를 로딩 -->
+      <script src="https://unpkg.com/htmx.org@1.9.5"></script>
+
+      <button
+        hx-post="/some-api"
+        hx-trigger="click"
+        hx-target="#parent-div"
+        hx-swap="outerHTML">
+        Click Me!
+      </button>
+      ```
+      * 위의 코드는 사용자가 <button>을 클릭하면, /some-api로 POST 요청을 보내고, 그 결과를 #parent-div의 outerHTML로 교체
   * [Reimagining front-end web development with htmx and hyperscript](https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript)
   * [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
   * [Chris James -HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
@@ -942,6 +964,9 @@ Web
     * SPA를 사용할 때 RESTful API를 이용하지만, 데이터만 주고받을 뿐 하이퍼미디어를 사용하지 않으므로 RESTful API를 쓰는 것은 아니며
     * htmx에서는 서버의 언어를 맘대로 사용할 수 있고 하이퍼미디어를 그대로 이용하기 때문에
     * 프론트엔드에서 JavaScript가 없어도 잘 동작하므로 쉬우면서 접근성 좋은 웹페이지를 만들 수 있고 프론트엔드/백엔드간의 협업도 더 편해진다고 이야기
+  * [What the hell is HTMX? - YouTube](https://www.youtube.com/watch?v=JT37vRsBYtE&)
+  * [Hypermedia Systems](https://hypermedia.systems/book/contents/)
+  * [The Truth About HTMX - YouTube](https://www.youtube.com/watch?v=NA5Fcgs_viU)
   * [Htmx: The newest old way to make web apps - LogRocket Blog](https://blog.logrocket.com/htmx-the-newest-old-way-to-make-web-apps/)
     * [Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법](https://velog.io/@eunbinn/htmx-the-newest-old-way-to-make-web-apps)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
@@ -1710,6 +1735,10 @@ Web
 * [Lazy Loading을 활용한 Web Vital개선 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/lazy-loading-to-improve-web-vitals)
 * [리액트 빌드 최적화 (feat. ChatGPT) - Byeongjin Jason Kang](https://jasonkang14.github.io/react/optimzation-with-chat-gpt)
 * [성능 테스트의 중요성과 목적 그리고 효과](https://f-lab.kr/blog/importance%20of%20performance%20Testing)
+* [Shopping for speed on eBay.com](https://web.dev/shopping-for-speed-on-ebay/)
+  * 성능 개선을 위해 어떤 항목들에 집중해야 하는지를 eBay의 사례
+  * 웹 성능은 온라인 비즈니스, 특히 온라인 쇼핑에서 매출에 직접적인 영향을 미치는 중요한 영역
+  * eBay는 2019년부터 성능 개선의 가치를 인식하기 시작, 실제로 검색 로딩 시간이 100ms 향상될 때마다 장바구니 추가 횟수가 0.5% 증가했다고 공개
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
