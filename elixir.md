@@ -258,6 +258,8 @@ Elixir
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
+* [pogo: Distributed supervisor for clustered Elixir applications](https://github.com/team-telnyx/pogo)
+  * [Pogo - distributed supervisor for Elixir](https://szajbus.dev/elixir/2023/05/22/pogo-distributed-supervisor-for-elixir.html)
 * [rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
   * [NIF with Rustler](https://presentation.seokmin.dev/presentations/nif#/)
   * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
