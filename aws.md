@@ -225,6 +225,7 @@ AWS
 * [AWS 전체서비스 Overview — 1](https://medium.com/harrythegreat/aws-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-overview-1-4cc3ffdd6b59)
 * [AWS의 ARN 이해하기](https://medium.com/harrythegreat/aws%EC%9D%98-arn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-8c20d0ccbbfd)
 * [클라우드상 오브젝트 스토리지(Object Storage)란?](https://medium.com/harrythegreat/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%83%81-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-object-storage-%EB%9E%80-9d9c2da57649)
+* [잘나가는 애플리케이션 성능? 알맞은 스토리지로부터! - 명기현 솔루션즈 아키텍트, AWS / 김익수 솔루션즈 아키텍트, AWS :: AWS Summit Seoul 2023 - YouTube](https://www.youtube.com/watch?v=wlcu21P3Gcc) S3, EFS, FSx, File Cache 워크로드 별 성능 가속화를 위한 AWS 스토리지 사용 전략
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 * [get_token.md](https://gist.github.com/brianredbeard/035ee1419bc38a0e2d854fb828d585d7)
