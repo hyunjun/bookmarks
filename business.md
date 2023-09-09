@@ -2346,6 +2346,10 @@ Business
 * [영입제안을 받을 때 스스로에게 할 질문들](https://www.linkedin.com/posts/activity-6990077419395112960-8g21/)
 * [어떻게 이직할 것인가? | RBBM](https://www.redbusbagman.com/howtoarrivewell/)
 * [실패하는 이직](https://brunch.co.kr/@taehyo/93)
+* [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
+* [IT 기업 이직 tip. 프로덕트의 리텐션 체크](https://brunch.co.kr/@yongjinjinipln/113)
+* [IT 기업 이직 Tip. 카카오, 네이버 출신?](https://brunch.co.kr/@yongjinjinipln/114)
+* [IT 기업 이직 Tip. 공헌이익 파악하기](https://brunch.co.kr/@yongjinjinipln/115)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
@@ -2403,7 +2407,6 @@ Business
 * [스타트업은 유치원이 아닙니다.. 😊 (무표정하게 키보드 치고 있으면서) | by Kurt Lee | Jun, 2022 | Medium](https://medium.com/@kurtlee/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4-7fad4b48e87f)
   * [스타트업은 유치원이 아닙니다 | GeekNews](https://news.hada.io/topic?id=6878)
 * [스타트업은 유치원과 비슷합니다](https://velog.io/@zetlos/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%9C%A0%EC%B9%98%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4)
-* [경력자를 위한 스타트업 이직 가이드 - Kyuhan Nam Universe](https://morethanair.com/103527/)
 * [“스타트업은 용병이 아니라 선교사를 채용하라” (권도균 대표) - YouTube](https://www.youtube.com/watch?v=GJy-hWiB2pg)
 * [스타트업 CEO들이 가장 많이 하는 실수 (권도균 대표) - YouTube](https://www.youtube.com/watch?v=07BEUEu9nwM)
 * [3 Engineering Mistakes That Kill Startups - by Michael Lin](https://www.michaellinwrites.com/p/3-engineering-mistakes-that-kill)
