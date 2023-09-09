@@ -2043,6 +2043,7 @@ Programming Books
 * (NOT YET) [백엔드를 위한 Go 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299624701)
   * 한라 005.133-박58ㅂ
   * [Tanmay-Teaches/golang](https://github.com/tanmay-teaches/golang)
+* (NOT YET) [Go 성능 최적화 가이드 – 디코딩](https://www.decoding.co.kr/product/go%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94%EA%B0%80%EC%9D%B4%EB%93%9C/)
 
 # Hadoop
 
