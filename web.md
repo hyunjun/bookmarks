@@ -868,6 +868,9 @@ Web
     * 이를 직접 사용하는 대신 Twin.Marco를 사용해서 Emotion CSS와 tailwind를 같이 쓸 수 있게 되었고 이를 적용하면서 적용했던 팁 정리
   * [Let's start a React/Next.js + Typescript + TailwindCSS project - Zhe-Jia's Blog](https://blog.zjzhang.org/post/Lets-start-a-React-Nextjs-Typescript-TailwindCSS-project)
   * [monorepo에 tailwindcss 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-tailwind)
+  * [shadcn-ui/ui: Beautifully designed components built with Radix UI and Tailwind CSS](https://github.com/shadcn-ui/ui)
+    * shadcn-ui는 UI 라이브러리이면서 UI 라이브러리가 아님
+    * UI 컴포넌트 코드가 파일로 추가되어 설치가 되는 특이한 방식으로 동작. 이러한 특성 덕분에, 코드 동작 및 스타일을 변경 용이
   * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
