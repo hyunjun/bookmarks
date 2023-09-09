@@ -387,6 +387,7 @@ Scala
 * [Chatbot Showdown: Typelevel Scala Edition | by Kacper Korban | VirtusLab | Jun, 2023 | Medium](https://medium.com/virtuslab/chatbot-showdown-typelevel-scala-edition-a4c0c47e39f5)
 * [An intro to Flow Fields in Scala](https://www.chris-kipp.io/blog/an-intro-to-flow-fields-in-scala)
 * [Principles of developing applications in Scala](https://softwaremill.com/principles-of-developing-applications-in-scala/)
+* [Compare Task Processing Approaches in Scala | Bin Wang - My Personal Blog](https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1137,6 +1138,7 @@ Scala
     * [Why I keep choosing ZIO! - YouTube](https://www.youtube.com/watch?v=H3Bizwx_L1o)
     * [Zymposium - ZIO Logging with Peter Kotula - YouTube](https://www.youtube.com/watch?v=LZD0voLnlco)
     * [The Next Generation Of Streaming by Adam Fraser - YouTube](https://www.youtube.com/watch?v=I1A6BPTjG-w)
+    * [Vitalii Honta - Temporal Workflows with ZIO: Introduction](https://vhonta.dev/posts/zio-temporal-intro/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1447,6 +1449,7 @@ Scala
   * [Porting Ammonite to Scala 3 #1 – Catching a Dotty bug & Porting the first module - YouTube](https://www.youtube.com/watch?v=SDC1vkKTWnU)
   * [Porting Ammonite to Scala 3 #2 – To the Meat of the Matter - YouTube](https://www.youtube.com/watch?v=wy59m1gUp_U)
   * [Porting Ammonite to Scala 3 #3 – How does Ammonite actually work? - YouTube](https://www.youtube.com/watch?v=YIeEzjEIl5k)
+  * [RFC: A Path Forward for Ammonite REPL and Scripts in 2023 and Beyond · com-lihaoyi/Ammonite · Discussion #1372 · GitHub](https://github.com/com-lihaoyi/Ammonite/discussions/1372)
 * [atto - a compact, pure-functional, incremental text parsing library for Scala](https://tpolecat.github.io/atto/)
 * [Avast](https://avast.github.io)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
@@ -1602,6 +1605,7 @@ Scala
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * [ducktape: Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔](https://github.com/arainko/ducktape)
   * [Aleksander Rainko - ducktape - Holding Scala's Productivity Together | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=jD2BMIaV_9c)
+  * [Scala 3 Data Transformation Library - Automating with ducktape](https://scalac.io/blog/scala-3-data-transformation-library-ducktape/)
 * [Ducttape - a workflow management system for researchers who heart unix](https://github.com/jhclark/ducttape)
 * [eff - Extensible effects are an alternative to monad transformers for computing with effects in a functional way](https://github.com/atnos-org/eff)
   * Free Monad보다 모나드 합성에서 편하다고 하는 Freer Monad 기반의  라이브러리
@@ -2062,6 +2066,7 @@ Scala
   * [Scala, Play and MySQL Integration Template | AnyChart](https://www.anychart.com/technical-integrations/samples/scala-play-mysql-template/)
   * [Building a REST API in Scala with Play Framework | Baeldung on Scala](https://www.baeldung.com/scala/play-rest-api)
   * [Notes about loading configuration Examples for Play Framework and Spring Boot | wiringbits](https://wiringbits.net/wiringbits/2021/12/30/notes-about-loading-configuration-examples-for-play-framework-and-spring-boot.html)
+  * [REST APIs Using Play Framework and Scala: A Comprehensive Guide - Rock the JVM Blog](https://blog.rockthejvm.com/play-framework-http-api-tutorial/)
   * Play restful API with DB
     * [Examples](https://www.silhouette.rocks/docs/examples)
     * [inspiration-api: API built with Scala & Play Framework. Uses Postgres & Slick ☀️](https://github.com/dan-mcm/inspiration-api)
