@@ -1577,6 +1577,7 @@ Programming Books
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4)
   * [머신러닝의 바이블, 핸즈온 머신러닝 2판을 읽고](https://brunch.co.kr/@synabreu/74)
   * [핸즈온 머신러닝 2](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
+  * (NOT YET) [“핸즈온 머신러닝 3판”이 출간되었습니다! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/09/08/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4/)
 * (NOT YET) 텐서플로로 시작하는 딥러닝
   * 2017.07 탐라
   * [텐서플로로 시작하는 딥러닝](https://github.com/jpub/tensorflowdeeplearning)
