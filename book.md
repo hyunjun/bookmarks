@@ -839,6 +839,7 @@ Book
   * 한라 325.1-남23바 탐라 문325.1-남222ㅂ 우당 문325.1-남222ㅂ
 * (NOT YET) [한 장으로 끝내는 비즈니스 모델 100](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198257709)
   * 한라 325.1-곤25ㅂ 탐라 문325.1-곤225ㅂ
+* (NOT YET) [작게 나누어 생각하기 -.. : 네이버블로그](https://blog.naver.com/project_pop/223200495717)
 
 # Data
 * [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
