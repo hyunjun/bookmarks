@@ -1854,6 +1854,7 @@ Web
     * textual 표현은 S-expressions에 기반, .wat 확장자를 사용, 텍스트이므로 직접 수정 가능
     * binary 표현은 .wasm 표현 사용, wat2wasm 같은 도구로 textual 표현을 binary 표현으로 변환 가능
     * 이 두 표현은 사람에게 친화적이지 않으므로 Emscripten 같은 컴파일러를 사용하는 방법 설명
+* [Introducing the Wasm landscape | Cloud Native Computing Foundation](https://www.cncf.io/blog/2023/09/06/introducing-the-wasm-landscape/)
 * [Cloud Native WebAssembly Applications Are Already Here – The New Stack](https://thenewstack.io/cloud-native-webassembly-applications-are-already-here/)
 * [Containers vs. WebAssembly: What's the Difference? | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/blog/webassembly-vs-containers)
 * [WebAssembly and Containers - YouTube](https://www.youtube.com/watch?v=OGcm3rHg630)
