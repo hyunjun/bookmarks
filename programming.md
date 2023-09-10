@@ -1463,7 +1463,6 @@ Programming
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
-* [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * [**캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안 | by Junhyun Park | JaM2in | Oct, 2020 | Medium**](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 * 최신 브라우저의 내부 살펴보기
   * [Inside look at modern web browser (part 1) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part1/)
@@ -1477,10 +1476,12 @@ Programming
     * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
   * '모던 웹 브라우저 들여다보기' 번역글이 있었는데 사라졌음
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
+* [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [베스트콘2022 Fault Tolerance Pattern - YouTube](https://www.youtube.com/watch?v=OLsv7oG0VPo)
 * [Fault Tolerant Pattern (내결함성) 강좌 완성 | Architecture 101](https://architecture101.blog/2022/11/05/fault-tolerant-pattern-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-%EA%B0%95%EC%A2%8C-%EC%99%84%EC%84%B1/)
 * [Fault Tolerance (내 결함성) 패턴 강좌및 자료 공개 | Architecture 101](https://architecture101.blog/2022/12/24/fault-tolerance-pattern/)
+* [고가용성? 내결함성?. 가끔 “고가용성”, “내결함성” 이 두 단어를 듣게 되면 이해 하고… | by Hedy Kim | Cloud Villains | Sep, 2023 | Medium](https://medium.com/cloudvillains/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1-%EB%82%B4%EA%B2%B0%ED%95%A8%EC%84%B1-d3e979d2fb44) high avilability
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * Valley of pain 고통의 계곡
