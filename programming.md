@@ -1998,33 +1998,17 @@ Programming
 * [EP11: Service discovery in micro services based architecture | client side & server side discovery - YouTube](https://www.youtube.com/watch?v=26J0FyEnQic)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
-* [Service Mesh](http://bcho.tistory.com/1260)
-* [SMI | A standard interface for service meshes on Kubernetes](https://smi-spec.io/)
-* [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
-* [**Service Mesh 란?**](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
-* [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
-* [**오픈소스컨설팅 서비스 메쉬(Service mesh)**](https://www.slideshare.net/OpenSourceConsulting/service-mesh-248775710) Istio Linkerd
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
-* OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
-* [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [링커드(Linkerd) 서비스 메시(Service Mesh) 소개(2023.04.06) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/linkerd)
-* [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
   * 서비스 메시는 탄력적인 연결성, L7 트래픽 관리, 보안, 관측성, 추적성 등을 제공
   * 과거에는 앱에서 서비스 메시를 구현했지만, 요즘은 사이드카로 서비스 메시를 앱 옆에 제공해서 이를 구현
   * 커널에는 원래 서비스 메시와 비슷한 기능이 이미 있었지만(iptables) 현대에 필요한 서비스 메시의 요구사항을 만족하지 못하고 사이드카 방식을 커널을 통해서 사이드카를 한 번 더 거쳐야 하므로 벤치마크에 따르면 3~4배의 지연시간 증가와 추가 메모리 필요
   * Cilium의 eBPF를 이용해서 서비스 메시를 사이트가 없이 Linux 커널에서 제공할 수 있게 되었고 사이트가 없이도 L7 추적과 메트릭을 제공할 수 있게 되었고 프락시 기반보다 훨씬 빠르다
   * eBPF로만 구현할 수 없는 요구사항의 경우 Node 당 프락시를 설치해서 해결할 수 있고 사이드카 방식보다 커넥션도 줄일 수 있다고 한다
-* [Service Mesh Ultimate Guide 2021 - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2021/)
-* [The Service Mesh: What Every Engineer Needs to Know about the World's Most Over-Hyped Technology](https://buoyant.io/service-mesh-manifesto/)
-* [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
-* [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
-* [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
-* [Service Mesh 란?. 수년간 Enterprise IT환경은 급격하게 변하고 있습니다. 특히… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/service-mesh-%EB%9E%80-8dfafb56fc07)
-* [What is a Service Mesh, and why do you need one? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/what-is-service-mesh-why-you-need-one/)
 * [Sidecars, eBPF and the Future of Service Mesh - YouTube](https://www.youtube.com/watch?v=anKq-L49tGc)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
@@ -2492,6 +2476,24 @@ Programming
 * [ssup2ket](https://github.com/ssup2ket/ssup2ket)
   * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
   * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
+
+### Architecture Microservice MSA Service Mesh
+* [Service Mesh](http://bcho.tistory.com/1260)
+* [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
+* [**Service Mesh 란?**](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
+* [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
+* [**오픈소스컨설팅 서비스 메쉬(Service mesh)**](https://www.slideshare.net/OpenSourceConsulting/service-mesh-248775710) Istio Linkerd
+* [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
+* [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
+* [Service Mesh Ultimate Guide 2021 - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2021/)
+* [The Service Mesh: What Every Engineer Needs to Know about the World's Most Over-Hyped Technology](https://buoyant.io/service-mesh-manifesto/)
+* [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
+* [The Top Five Challenges of Running a Service Mesh in an Enterprise - YouTube](https://www.youtube.com/watch?v=F4PNAHqECFI)
+* [Service Mesh 란?. 수년간 Enterprise IT환경은 급격하게 변하고 있습니다. 특히… | by yjs0997 | DT Evangelist 기술 블로그 | Medium](https://medium.com/dtevangelist/service-mesh-%EB%9E%80-8dfafb56fc07)
+* [What is a Service Mesh, and why do you need one? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/what-is-service-mesh-why-you-need-one/)
+* OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
+* [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
+* [SMI | A standard interface for service meshes on Kubernetes](https://smi-spec.io/)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
