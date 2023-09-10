@@ -1549,6 +1549,8 @@ NLP
     * [The EASIEST way to finetune LLAMA-v2 on local machine! - YouTube](https://www.youtube.com/watch?v=3fsn19OI_C8)
     * [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper | Anyscale](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
       * [Llama2가 요약에 있어 GPT-4만큼 정확하며 30배 더 저렴 | GeekNews](https://news.hada.io/topic?id=10620)
+    * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
+      * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
     * [Llama2-Chat on Your Local Computer | Free ChatGPT Alternative - YouTube](https://www.youtube.com/watch?v=WzCS8z9GqHw)
       * [Llama2-Chat on Your Local Computer | Free GPT-4 Alternative | by Martin Thissen | Jul, 2023 | Medium](https://medium.com/@martin-thissen/llama2-chat-on-your-local-computer-free-gpt-4-alternative-41b7638033a8)
       * [llama2\_local](https://github.com/thisserand/llama2\_local)
