@@ -100,6 +100,7 @@
 * [Building modern applications with GraphQL and .NET by Michael Staib - YouTube](https://www.youtube.com/watch?v=0jRkFwaIoaA)
 * [Get started with OpenAI in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/getting-started-azure-openai-dotnet/)
   * [.NET에서 OpenAI 시작하기](https://itist.net/126)
+* [.NET Profiler API 활용하기| 와탭 블로그](https://www.whatap.io/ko/blog/176/index.html)
 
 # ASP.NET
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
