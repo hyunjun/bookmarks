@@ -498,6 +498,7 @@ Linux
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
   * [새로 나온 커맨드라인 툴들 | GeekNews](https://news.hada.io/topic?id=6361)
 * [Most Important Linux commands for Devops and Cloud Engineer | Hands on Linux devops training in 2022 - YouTube](https://www.youtube.com/watch?v=lCq4mYQL0WY)
+* [리눅스 디렉토리 권한에 대해 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/08/%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B6%8C%ED%95%9C%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * [파일과 디렉터리에는 정확한 소유권과 적당한 권한을 부여하라 - 넷마블 기술 블로그](https://netmarble.engineering/setting-setuid-umask-environmental-parameters-of-files-and-directories/) `find / -nouser -o -nogroup` suid sgid stickybit chmod chgrp umask home directory environmental variable
 * [내 서버도 머글이 지나갈 수 없는 9와 4분의 3 승강장처럼 - 넷마블 기술 블로그](https://netmarble.engineering/linux-server-login-and-logon-connection-settings/)
 * [10 Essential Linux Commands Every Developer and DevOps Should Know | by javinpaul | Javarevisited | Aug, 2022 | Medium](https://medium.com/javarevisited/10-essential-linux-commands-every-developer-and-devops-should-know-9df39391aac7)
