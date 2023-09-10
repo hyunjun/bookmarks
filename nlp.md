@@ -804,10 +804,6 @@ NLP
     * 금융 특화 데이터로 해당 분야 태스크에서 SOTA 기록
     * 토큰 수를 7천억 개로 늘렸고 이 중 3630억 개는 블룸버그 자체 재무 데이터에서 추출
     * 5B 모델로도 기존 다른 175B 모델의 성능을 능가. 앞으로 도메인 기반의 회사들이 지향해야 할 방향일 수 있음
-  * [Prompting Is Programming: A Query Language For Large Language Models](https://www.facebook.com/seongwan.kim.3/posts/pfbid03RMbuzmddJ3HdeXdP8cH9fus62dAsvhzzcr1r7bFpm3D4JMiemjcpUHzMKbtzAZ3l)
-  * [챗GPT의 모든 것 프롬프트](https://brunch.co.kr/@seungpillee/68)
-  * [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
-  * [ChatGPT 프롬프트 가이드 - 지시+문맥+(출력) - 틸노트 인공지능 공략집](https://tilnote.io/books/649ea7839c2b8d498077e2de/649ea7b09c2b8d498077e2f2)
   * [ChatGPT를 활용해 정성적인 기대감을 정량적인 숫자로 바꿔보다 - 넷마블 기술 블로그](https://netmarble.engineering/comment-metric-labeling-by-chatgpt)
   * [Create a Telegram Bot Using ChatGPT | Telegram Chatbot Using Python | ChatGPT Tutorial |Simplilearn - YouTube](https://www.youtube.com/watch?v=B8N\_HyGhZ0U)
   * [챗GPT 근황 업데이트 : 네이버 블로그](https://blog.naver.com/ranto28/223068372777)
@@ -831,10 +827,6 @@ NLP
   * [이태영 - ChatGPT Service Architecture 제가 작성한 아키텍처는 세 가지 주요 구성 요소로... | Facebook](https://www.facebook.com/tylee8033/posts/pfbid0BwDuY3U2VWWvTDK7JsA1vrmdAsrnaxZxm9nW2W9yY1KLwtXpFz88sd2PLXnPpj3Jl)
   * [ChatGPT로 달라진 개발자의 일상 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/life-after-chatgpt/)
   * [실전! 인공지능 챗봇 개발 / 제1회 kakao tech meet – tech.kakao.com](https://tech.kakao.com/2023/05/31/ai-chatbot/)
-  * [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
-  * [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
-  * [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
-    * [2302.11382 A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
   * [ChatGPT로 네이티브 지식없이 react-native-cookies 패키지 Android 버그 해결하기 | 오토피디아 블로그](https://blog.doctor-cha.com/solving-an-android-bug-in-the-react-native-cookies-package-using-chatgpt)
   * [마이크로소프트에게 내용증명 받고 23만 유저 앱 삭제한 건에 대하여 🗑️ @ Sunghyun Cho](https://cho.sh/ko/w/5ADC58)
   * [챗 GPT, 정말 잘 쓰고 있나요?. 글. 이지윤(Jeanne) / Product Strategist | by 이지윤(Jeanne) | Jul, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%B1%97-gpt-%EC%A0%95%EB%A7%90-%EC%9E%98-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-4c5fe0aac074)
@@ -898,11 +890,6 @@ NLP
       * 사이트에서 `.well-known/ai-plugin.json`를 노출해서 쉽게 플러그인을 구축할 수 있고 GraphQL로 된 API를 ChatGPT를 위해 RESTful API로 노출하도록 Go로 프로그램 작성
         * 다양하게 테스트해 본 결과 API를 이용해서 꽤 괜찮은 결과를 조회하고 연관된 콘텐츠까지도 조회하는 등 ChatGPT의 이해도가 놀라웠음
     * [08-2 챗GPT에서 위키독스 플러그인 사용하기 (시험 중) - 위키독스](https://wikidocs.net/197151)
-  * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-    * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
-    * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
-  * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
-  * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
   * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
   * [chatgpt\_stock\_report: 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포](https://github.com/ddobokki/chatgpt\_stock\_report/tree/main)
   * [ChatGPT\_Trading\_Bot: This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube](https://github.com/llSourcell/ChatGPT\_Trading\_Bot/)
@@ -931,9 +918,6 @@ NLP
     * Chat UI 도 PR 에 있으며 검토 중
     * [How To Install PrivateGPT - Chat With PDF, TXT, and CSV Files Privately! (Quick Setup Guide) - YouTube](https://www.youtube.com/watch?v=jxSPx1bfl2M)
     * [practice](https://gist.github.com/hyunjun/cb01f64076cf4f81578963641230ff51#file-test-md)
-  * [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-    * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
-    * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
   * [Sweep: AI-powered Junior Developer for small features and bug fixes](https://github.com/sweepai/sweep)
   * [visual-chatgpt: VisualChatGPT](https://github.com/microsoft/visual-chatgpt)
     * [Visual chatGPT와 LangChain 도입기. 초거대AI 기술로 업데이트 된 오르카봇을 소개합니다. | by Corca | Corca | Mar, 2023 | Medium](https://medium.com/corca/visual-chatgpt%EC%99%80-langchain-%EB%8F%84%EC%9E%85%EA%B8%B0-358af151169d)
@@ -989,6 +973,25 @@ NLP
 * [wit.ai](https://wit.ai/)
   * [Wit.ai stories/conversational app demo](https://youtu.be/yLAHVPaHWFA)
 * [x.ai is a personal assistant who schedules meetings for you](https://x.ai/)
+
+## ChatBot Prompt
+* [Prompting Is Programming: A Query Language For Large Language Models](https://www.facebook.com/seongwan.kim.3/posts/pfbid03RMbuzmddJ3HdeXdP8cH9fus62dAsvhzzcr1r7bFpm3D4JMiemjcpUHzMKbtzAZ3l)
+* [챗GPT의 모든 것 프롬프트](https://brunch.co.kr/@seungpillee/68)
+* [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT - Dropbox](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+* [ChatGPT 프롬프트 가이드 - 지시+문맥+(출력) - 틸노트 인공지능 공략집](https://tilnote.io/books/649ea7839c2b8d498077e2de/649ea7b09c2b8d498077e2f2)
+* [Ties de Kok - Going beyond ChatGPT: introduction to prompt engineering & LLMs | PyData Seattle 2023 - YouTube](https://www.youtube.com/watch?v=CG3b6D3XNOE)
+* [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
+* [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
+  * [2302.11382 A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+* [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
+  * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
+* [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
+* [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
+  * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
+* [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
 
 ## ChatBot Python
 
@@ -1289,7 +1292,6 @@ NLP
 * [Knowledge-Based Trust: Estimating the Trustworthiness of Web Sources](http://www.vldb.org/pvldb/vol8/p938-dong.pdf)
 
 # Language Model LM
-
 * 언어 모델링은 음성-텍스트, 대화식 시스템, 텍스트 요약과 같은 여러 가지 자연어 처리 작업에 핵심적인 문제
 * Text Generation
   * 텍스트 생성은 언어 모델링 문제의 유형
@@ -1382,6 +1384,7 @@ NLP
 * [Building Advanced Query Engine and Evaluation with LlamaIndex and W\&B | llama-index-report – Weights & Biases](https://wandb.ai/ayush-thakur/llama-index-report/reports/Building-Advanced-Query-Engine-and-Evaluation-with-LlamaIndex-and-W-B--Vmlldzo0OTIzMjMy)
 * [LlamaIndex Webinar: Make RAG Production-Ready - YouTube](https://www.youtube.com/watch?v=Zj5RCweUHIk)
 * [LlamaIndex + Metaphor: Towards Automating Knowledge Work with LLMs | by Jerry Liu | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-metaphor-towards-automating-knowledge-work-with-llms-5520a32efa2f)
+* [LlamaIndex: Automatic Knowledge Transfer (KT) Generation for Code Bases | by Ravi Theja | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-automatic-knowledge-transfer-kt-generation-for-code-bases-f3d91f21b7af)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
@@ -1409,6 +1412,7 @@ NLP
   * [practical patterns for building LLM-based systems and products](https://www.linkedin.com/feed/update/urn:li:activity:7098693440158199808/)
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
 * [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
+* [Why Large Language Models Hallucinate and How to Reduce it If you are a power user of ChatGPT you have probably been bitten by the hallucination bug. The LLM lulls you into getting comfortable with it and then springs a convincing but totally made-up story, playing you for a… https://t.co/CP5GxbNpJr / X](https://twitter.com/bindureddy/status/1699975747786641855)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
@@ -1495,6 +1499,7 @@ NLP
   * [chatGPT에 검색엔진을 붙여보자! feat. Naver search api](https://develop-park.tistory.com/59)
   * [How to Leverage the Full Potential of LLMs for Your Business with Langchain - Leon Ruddat - YouTube](https://www.youtube.com/watch?v=vZmoEa7oWMg)
   * [랭체인(LangChain) 이용한 AI 웹서비스 만들기 (with ChatGPT, LLaMA 2) - YouTube](https://www.youtube.com/watch?v=W0bfOCG__fo)
+  * [기고 | LLM과 함께 뜨는 중··· 개발자를 위한 '랭체인' 안내서 - CIO Korea](https://www.ciokorea.com/news/305341)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
@@ -1549,6 +1554,7 @@ NLP
     * [The EASIEST way to finetune LLAMA-v2 on local machine! - YouTube](https://www.youtube.com/watch?v=3fsn19OI_C8)
     * [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper | Anyscale](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
       * [Llama2가 요약에 있어 GPT-4만큼 정확하며 30배 더 저렴 | GeekNews](https://news.hada.io/topic?id=10620)
+    * [Fine-Tuning LLMs: LoRA or Full-Parameter? An in-depth Analysis with Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2)
     * [KO-Platypus: KO-Platy🥮 Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://github.com/Marker-Inc-Korea/KO-Platypus)
       * [KO-Platy🥮 - Korean-Open-platypus를 활용하여 llama-2-ko를 fine-tuning한 KO-platypus model](https://kyujinpy.tistory.com/101)
     * [Llama2-Chat on Your Local Computer | Free ChatGPT Alternative - YouTube](https://www.youtube.com/watch?v=WzCS8z9GqHw)
@@ -1571,6 +1577,7 @@ NLP
     * [오픈소스로 가자! OpenLLaMA 의 등장](https://revf.tistory.com/286)
 * [llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
   * [LlamaIndex 🦙 0.8.15](https://gpt-index.readthedocs.io/)
+    * [Elasticsearch Vector Store - LlamaIndex 🦙 0.8.23.post1](https://gpt-index.readthedocs.io/en/stable/examples/vector_stores/ElasticsearchIndexDemo.html)
   * [Discover LlamaIndex: Introduction to Data Agents for Developers - YouTube](https://www.youtube.com/watch?v=GkIEEdIErm8)
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
@@ -1584,6 +1591,8 @@ NLP
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
 * [MosaicML | Home](https://www.mosaicml.com/)
   * [MPT-30B: Raising the bar for open-source foundation models](https://www.mosaicml.com/blog/mpt-30b)
+* [onprem - OnPrem.LLM](https://amaiya.github.io/onprem/)
+  * [onprem: A tool for running on-premises large language models with non-public data](https://github.com/amaiya/onprem)
 * [open\_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open\_flamingo)
   * [OpenFlaminKO: Polyglot을 활용한 image-text multimodal](https://github.com/Marker-Inc-Korea/OpenFlaminKO)
     * [OpenFlaminKO - Polyglot-KO를 활용한 한국어 기반 MultiModal 도전기!](https://kyujinpy.tistory.com/100)
@@ -1630,6 +1639,9 @@ NLP
 * [Unstructured](https://unstructured.io/)
 * [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
   * [Serving LLM 24x Faster On the Cloud with vLLM and SkyPilot | SkyPilot Blog](https://blog.skypilot.co/serving-llm-24x-faster-on-the-cloud-with-vllm-and-skypilot/)
+* [WebLLM | Home](https://webllm.mlc.ai/)
+  * [Web LLM - WebGPU로 브라우저에서 LLM 가속하여 실행하기 | GeekNews](https://news.hada.io/topic?id=8977)
+  * [Web LLM - Llama2 7B/13B 지원 시작 | GeekNews](https://news.hada.io/topic?id=10619)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 * [WizardVicunaLM: LLM that combines the principles of wizardLM and vicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)
 * [Zep: A long-term memory store for LLM / Chatbot applications](https://github.com/getzep/zep)
@@ -1644,17 +1656,11 @@ NLP
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya\_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
 * [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
-* [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
-* [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
-* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
 * [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
-* [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
-* [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * [Does GPT-2 Know Your Phone Number? – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
 * [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
 * [자연어 인공지능 모델 해킹하기 | GeekNews](https://news.hada.io/topic?id=3886) GPT2 대상 공격
-* [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
 * [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
@@ -1697,8 +1703,10 @@ NLP
 * [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
 * [머신러닝은 인간의 글쓰기를 어떻게 바꿔 놓을 것인가 | 10x Lessons](https://tkim.co/2022/04/30/how-ml-changes-writing/) DALL-E 2
 * [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
+* [GPT-3.5 Turbo Fine-tuning - Colaboratory](https://colab.research.google.com/drive/1YGbCj_7MI1R7iulc01aPjj8zIyN9GSOr)
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
 * [alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
   * [chat - cloud](https://sysnet4admin.gitbook.io/cloud/others/tools/alpaca/chat)
   * [DEMO alpaca-chat (7B, 30B) on local labtop(MacBook-Intel) - YouTube](https://www.youtube.com/watch?v=E1zAdwgMDys)
@@ -1706,6 +1714,7 @@ NLP
   * [KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
     * [챗GPT 러닝데이 | 챗GPT | 한국어 LLM 민주화의 시작 KoAlpaca! - 이준범](https://aifactory.space/learning/2415/discussion/383)
     * [KoAlpaca-Polyglot-12.8B · Hugging Face](https://huggingface.co/beomi/KoAlpaca-Polyglot-12.8B)
+* [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [book\_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book\_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
   * [Firebase Cloud Messaging 용 API KEY는 어디에서 찾을 수 있습니까? - 리뷰나라](http://daplus.net/firebase-firebase-cloud-messaging-%EC%9A%A9-api-key%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C/)
@@ -1735,6 +1744,10 @@ NLP
   * [if(kakao) 2021](https://if.kakao.com/session/48)
   * [ChatGPT? 카카오 KoGPT API 개념과 코딩 맛보기 | 웹으로 말하기](https://mytory.net/archives/13805)
   * [kogpt at web-app](https://github.com/noah-ko/kogpt/tree/web-app)
+* [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
+* [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
+* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
+* [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=\_z86t7LerrQ)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
@@ -2319,6 +2332,7 @@ NLP
 * [nsmc: Naver sentiment movie corpus](https://github.com/e9t/nsmc)
 * [nsmc-tf-text: tensorflow text로 간편하게 시작하는 NSMC 분류](https://github.com/jeongukjae/nsmc-tf-text)
   * [편리한 NLP를 위한 TensorFlow-Text와 RaggedTensor – Jeong Ukjae](https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/)
+* [Moral_Emotion_Dataset: GIT](https://github.com/kjhkjh95/Moral_Emotion_Dataset) KOTE (Korean Online That-gul Emotions) 데이터셋을, Haidt의 도덕감정(Moral Emotion) 분류로 편집한 멀티라벨(Multi-Labels) 데이터셋
 * vader
   * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
   * [Rule-based Sentiment Analysis of App Store Review in Python | by Ng Wai Foong | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb)
