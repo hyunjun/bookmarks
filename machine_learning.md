@@ -1639,6 +1639,7 @@ Machine Learning
   * [scikit-learn with GPU! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2022/03/29/scikit-learn-with-gpu/)
   * [gaussian process | Pega Devlog](https://jehyunlee.github.io/2022/11/04/Python-DS-119-kierlecture7/)
   * [SciPy Korea 2023 - 머신러닝을 위한 정형 데이터 사이킷런 쓸까? 판다스 쓸까? - YouTube](https://www.youtube.com/watch?v=bTQwwKXSV3I)
+  * [Random Forest Ensemble Method with Sklearn in Python](https://www.datasimple.education/ml-sklearn-model-tips/random-forest-ensemble-method-with-sklearn-in-python/)
   * [gauss-rank-scaler: Scikit-learn compatible implementation of the Gauss Rank scaling method](https://github.com/aldente0630/gauss-rank-scaler)
     * [Gauss Rank Scaler 파이썬 패키지 릴리즈](https://www.facebook.com/groups/TensorFlowKR/posts/1927467690927613/)
   * scikit-learn-intelex [Intel® Extension for Scikit-learn — Intel(R) Extension for Scikit-learn 2021.4 documentation](https://intel.github.io/scikit-learn-intelex/)
