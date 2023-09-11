@@ -18,6 +18,7 @@ NoSQL
 * [EP06: CAP Theorem & NoSQL BASE Properties - YouTube](https://www.youtube.com/watch?v=IRFbhR3Ei7E)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
 * [NoSQL 간단한 소개](http://www.slideshare.net/WonchangSong1/no-sqlsimpleintro)
+* [분류로 살펴보는 DBMS 이야기](https://f-lab.kr/blog/dbms)
 * [A Survey of Query Execution Engines (from Volcano to Vectorized Processing)](https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/)
 * [2016: The Year in Big Data](https://dzone.com/articles/2016-the-year-in-big-data)
 * [Shasta: Interactive reporting at scale](https://blog.acolyer.org/2017/01/10/shasta-interactive-reporting-at-scale/) Shastr 논문 요약
