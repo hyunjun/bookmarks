@@ -1959,6 +1959,7 @@ Programming Books
 * (NOT YET) [플러터 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B6928806254)
   * 한라 005.58-윈27ㅍ
 * (NOT YET) [Do it! 깡샘의 플러터&다트 프로그래밍 책의 실습 영상 - YouTube](https://www.youtube.com/playlist?list=PLYlZbv3fX7WvBf2H_dt1RHV1my2pkm6m6)
+* (NOT YET) [초보자도 프로처럼 만드는 플러터 앱 개발 – 디코딩](https://www.decoding.co.kr/product/%ED%94%8C%EB%9F%AC%ED%84%B0%EC%95%B1%EA%B0%9C%EB%B0%9C/)
 
 # Functional programming
 * [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
