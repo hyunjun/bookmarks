@@ -963,6 +963,7 @@ Business
 * [The rise and fall of peer review - by Adam Mastroianni](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
   * [The rise and fall of peer review 대략 정리](https://www.facebook.com/parkism/posts/pfbid02oZ57xKyJBgueB6x8k5wcSfHasDgxMa1u7tiZ1oDK8xYddUXDnjaibN7vFUnumZwDl)
 * [토스를 둘러싼 숱한 논란들, 무엇이 진실일까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/tossrumor20230310)
+* [커리어노트 112 평가 3 - 평가와 조정 : 네이버 블로그](https://blog.naver.com/junedec369/223207931950)
 
 # 회계
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
