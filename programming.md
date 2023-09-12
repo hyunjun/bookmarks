@@ -2975,6 +2975,7 @@ Programming
 * [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
 * [개발자는 페어 프로그래밍으로 성장한다 | 요즘IT](https://yozm.wishket.com/magazine/detail/1698/)
 * [시공간을 뛰어넘은 페어 프로그래밍](https://velog.io/@hyemin916/%EC%8B%9C%EA%B3%B5%EA%B0%84%EC%9D%84-%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80-%ED%8E%98%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+* [시니어 개발자가 대화형 인공지능(ChatGPT)과 페어 프로그래밍하는 법(feat. DEVIEW 2023 코드 구현하기)](https://d2.naver.com/helloworld/7976382)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
