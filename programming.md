@@ -3972,6 +3972,8 @@ Programming
 * [Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?](https://engineering.ab180.co/stories/player-unknowns-bug)
 * [토스ㅣSLASH 23 - 프로파일러로 시스템 성능 향상시키기 - YouTube](https://www.youtube.com/watch?v=tZjjqhnwtYY)
   * Pinpoint, Heapdump, Jemalloc, Async-profiler, strace, perf trace, unix domain socket, binary ninja
+* [Guide To Root Cause Analysis - Steps, Techniques & Examples](https://www.softwaretestinghelp.com/root-cause-analysis/)
+  * [버그 회고, 품질 프로세스 개선의 첫걸음 (RCA). 애자일 개발 프로세스의 성공은 회고(Retrospective)와 실천에… | by Seunghoon Lee | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/%EB%B2%84%EA%B7%B8-%ED%9A%8C%EA%B3%A0-%ED%92%88%EC%A7%88-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-rca-7cb3c17d3aa9)
 * [Causal profiling – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4454)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
