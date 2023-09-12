@@ -657,6 +657,7 @@ App
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
 * [codelite](http://codelite.org/) `brew cask install codelite`
+* [Config.Tips - Home](https://config.tips/)
 * [CoScreen: Collaborative Screen Sharing by Datadog](https://www.coscreen.co/)
   * [More Efficient Pair Programming With Datadog CoScreen | Datadog](https://www.datadoghq.com/blog/pair-programming-coscreen-datadog/)
 * [Dans Tools - Online tools for users and developers](https://www.danstools.com/)
