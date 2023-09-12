@@ -1442,6 +1442,7 @@ NLP
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
   * [Falcon-40B 모델을 대규모 모델 추론 딥러닝 컨테이너(DLC)로 Amazon SageMaker에 배포하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/machine-learning-deploy-falcon-40b-with-large-model-inference-dlcs-on-amazon-sagemaker/)
   * [The BEST Open Source LLM? (Falcon 40B) - YouTube](https://www.youtube.com/watch?v=-IV1NTGy6Mg)
+  * [대형언어모델 '팰컨'의 혁신!.. 세계에서 가장 강력한 LLM·생성AI 모델 ‘팰컨 180B’ 오픈소스로 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=28878)
 * [FlexFlow: A distributed deep learning framework](https://github.com/flexflow/FlexFlow)
 * [Flipped-Learning: ICLR 2023 Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners](https://github.com/seonghyeonye/Flipped-Learning/)
 * [FlowiseAI - Build LLMs Apps Easily](https://flowiseai.com/)
