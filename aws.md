@@ -732,6 +732,7 @@ AWS
 * [페타바이트 트래픽 원인 분석기](https://snack.planetarium.dev/kor/2023/03/cloudwatch/)
 * [AWS IoT Core를 활용해 CloudWatch 알람을 음성으로 수신하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-core-cloudalarm/)
 * [CloudWatch Agent에서 HTTP Proxy를 통하는 모니터링 방법 | by Hedy Kim | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/cloudwatch-agent%EC%97%90%EC%84%9C-http-proxy%EB%A5%BC-%ED%86%B5%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%A9%EB%B2%95-268e7f61c29a)
+* [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -1246,6 +1247,8 @@ AWS
 * [Amazon EMR에서 Trino와 Apache Superset을 이용한 Federated Query 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-emr-trino-apache-superset-federated-query/)
 * [Amazon EMR에서 Trino와 S3 Select Pushdown을 사용해 쿼리 성능 개선 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/queries-amazon-emr-trino-s3-select-pushdown/)
 * [Spark on Kubernetes로 이관하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10291/) EMR on EKS
+* [Amazon EKS 환경에서 다양한 Spark 애플리케이션 제출 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-spark-job-comparison/)
+* [Amazon EKS 환경에서 다양한 Spark 애플리케이션 제출 방법 비교하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-spark-submission-comparison/)
 
 # EventBridge
 * [Introducing global endpoints for Amazon EventBridge | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/introducing-global-endpoints-for-amazon-eventbridge/)
