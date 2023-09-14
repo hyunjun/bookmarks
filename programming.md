@@ -3853,6 +3853,8 @@ Programming
     * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
   * [생각보다 쉬웠던 오픈소스 기여하기](https://dc-choi.tistory.com/69)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [fridump3: A universal memory dumper using Frida for Python 3](https://github.com/rootbsd/fridump3)
+  * [메모리 덤프 분석 (feat. fridump) :: iOYES](https://green1229.tistory.com/405)
 * [fuckvkeypad: 가상키보드(vKeyboard) 우회도구](https://github.com/soulee-dev/fuckvkeypad)
 * [GDPR For Developers By Example | Blether](https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/)
   * [예제로 배우는 GDPR - 개발자용 | GeekNews](https://news.hada.io/topic?id=7117)
