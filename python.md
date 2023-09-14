@@ -560,6 +560,7 @@ Python
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [Python Performance Tuning: 20 Simple Tips – Stackify](https://stackify.com/20-simple-python-performance-tuning-tips/)
 * [**고성능 ML 백엔드를 위한 10가지 Python 성능 최적화 팁 | Hyperconnect Tech Blog**](https://hyperconnect.github.io/2023/05/30/Python-Performance-Tips.html) 정말 좋은 글 배울 점도 많고 좋은 정보도 많음
+* [Structural matching simplifies the code – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4635) 간단하며 좋은 return  값 검증에 좋은 팁 
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [7 Ways to Take Your New Python Skills to the Next Level | by Martin Andersson Aaberge | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/7-ways-to-take-your-new-python-skills-to-the-next-level-1698335844bd)
@@ -834,6 +835,7 @@ Python
   * [Python’s Most Powerful Data Type. Everything you ever need to know about… | by Erik van Baaren | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/pythons-most-powerful-data-type-89628a9e1467)
   * [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
   * [파이썬 성능최적화 : sorted dict array 순회 로직 - YouTube](https://www.youtube.com/watch?v=JywTBamsNGA)
+  * [Better dict for configuration – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4631)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * encoding
