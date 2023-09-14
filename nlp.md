@@ -1356,6 +1356,7 @@ NLP
 * [Replit - How to train your own Large Language Models](https://blog.replit.com/llm-training)
 * [Guiding Frozen Language Models with Learned Soft Prompts – Google AI Blog](https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html)
 * [An Introduction to Large Language Models: Prompt Engineering and P-Tuning | NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-introduction-to-large-language-models-prompt-engineering-and-p-tuning/)
+* [LLM 모델과 프롬프트 작성 방법](https://bcho.tistory.com/1394)
 * [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither/)
   * [구글, "(AI에 대해서) 우린 해자가 없음, OpenAI도 마찬가지" | GeekNews](https://news.hada.io/topic?id=9129)
   * Google뿐 아니라 OpenAI도 AI에 관해서 moat 해자 역할을 하는 보호장치가 없다고 이야기
@@ -1620,7 +1621,6 @@ NLP
   * [polyglot-finetuning-oslo](https://github.com/jason9693/polyglot-finetuning-oslo)
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
-* [prompttools: Open-source tools for prompt testing and experimentation](https://github.com/hegelai/prompttools)
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
