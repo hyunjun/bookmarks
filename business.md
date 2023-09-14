@@ -451,7 +451,6 @@ Business
 * [케이스 스터디 어떻게 할 것인가](https://brunch.co.kr/@lunarshore/409) 기획
 * ['잘하는 기획자'의 기준은 무엇인가](https://brunch.co.kr/@darha/128)
 * [왜 넷플릭스 포스터는 때깔부터 다를까](https://rbworld.tistory.com/124)
-* [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
 * [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
@@ -597,8 +596,8 @@ Business
 * [단순한 제품을 만든다는 것에 대해 – 조성문의 블로그](https://sungmooncho.com/2023/02/05/how-to-build-a-simple-product/) kayak 이야기
 * [애플 때문에 몰락한 회사가 애플에 맞서는 방법 - T Times](http://www.ttimes.co.kr/view.html?no=2022031417397741570) 가민 Garmin 확고한 핵심역량, 핵심역량 확장
 * [애플의 경쟁력은 어디에서 오나 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/315)
-* [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://www.folin.co/story/2104)
-  * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://drive.google.com/file/d/1p1D4qsmknNfJUltILM9j89AOGHlEzGNB/view?usp=sharing)
+* [~가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법~](https://www.folin.co/story/2104)
+  * [~가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법~](https://drive.google.com/file/d/1p1D4qsmknNfJUltILM9j89AOGHlEzGNB/view?usp=sharing)
 * [혁신 방법론의 불편한 진실 | ㅍㅍㅅㅅ](https://ppss.kr/archives/252832) e.g. 식스시그마, 린 싱킹, 디자인싱킹
 * [당신은 리더와 참모 중 어느 쪽인가요? | 일요신문](https://ilyo.co.kr/?ac=article_view&entry_id=346587)
 * [회사가 이전하면서 출퇴근이 어려워진 직원들에게 어떻게 보상하면 좋을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/253122)
@@ -2632,10 +2631,12 @@ Business
 * [Why the number input is the worst input - Stack Overflow Blog](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/)
 * [Checklist Design - A collection of the best design practices](https://www.checklist.design/)
 * [왜 앱 화면을 단순히 만들어야 할까?](https://brunch.co.kr/@cliche-cliche/170)
+* [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [거꾸로 입력하는 가입 화면, 처음에 어떻게 떠올렸을까?](https://toss.tech/article/toss-signup-process/)
   * Toss에서 입력 필드가 많은 본인 인증 화면을 설계하는 과정
   * 본인 인증은 입력 필드가 많아서 스크롤 아래 가려진 필드와 액션을 알기가 어려워서 반대로 한 필드씩 입력하면 위에 새로운 필드가 나오게 구현
   * 사용성 테스트에서는 심지어 역순으로 쌓이고 있다는 것을 사용자들이 눈치채지도 못했다고 함
+* [완성 없는 이야기, 가입 과정 개선](https://toss.tech/article/signup)
 * [좋은 에러 메시지를 만드는 6가지 원칙](https://toss.tech/article/how-to-write-error-message)
 * [디자이너의, 디자이너에 의한, 디자이너를 위한 채용 설계하기](https://toss.tech/article/2022-product-designer-challenge)
 * [2초만에 불필요한 클릭 없애는 4가지 방법](https://toss.tech/article/4-ways-for-minimum-input)
