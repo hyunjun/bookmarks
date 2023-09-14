@@ -79,6 +79,7 @@ Programmer
 * [An Old Hacker's Tips On Staying Employed - by Mad Ned - The Mad Ned Memo](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
+  * [제품 중심 개발자 (번역)](https://www.jobless.blog/product-minded-engineer/)
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
 * [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
