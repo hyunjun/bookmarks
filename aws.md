@@ -1172,6 +1172,10 @@ AWS
 * [Amazon EKS 워크로드의 지속적인 복원력 확인을 위한 카오스 엔지니어링 (Chaos Engineering) | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/continuous-resilience-testing-for-amazon-eks-workloads-with-chaos-engineering/)
 * [AWS EKS에 ALB를 이용해 여러 서비스 연결하기](https://nauco.tistory.com/91)
 * [AWS EKS에서 NGINX Ingress rewrite annotation 사용하기](https://nauco.tistory.com/94)
+* [AWS EKS POD DNS 문제 해결 - CoreDNS forward](https://nauco.tistory.com/126)
+* [**AWS EKS POD DNS 문제 해결 - Route53 CNAME/A record**](https://nauco.tistory.com/127)
+  * 진짜 원인: vpc에 apigw용 vpc endpoint가 존재하고 private dns가 활성화
+  * 해결방법 1) CNAME을 A 레코드로 또는 2) Private DNS name 비활성화
 * [Amazon EKS에서 Topology Aware Hint 기능을 활용하여 Cross-AZ 통신 비용 절감하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-eks-reduce-cross-az-traffic-costs-with-topology-aware-hints)
   * EKS에서 가용성을 위해 여러 존에서 노드를 운영하는 경우 Cross-AZ 비용이 증가
   * 이때 Topology Aware Hint를 이용하면 같은 존끼리만 통신할 수 있고
