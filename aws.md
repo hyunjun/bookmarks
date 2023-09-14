@@ -1994,6 +1994,7 @@ AWS
 * [Amazon Redshift 스트리밍 수집을 이용한 실시간 분석 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/real-time-analytics-with-amazon-redshift-streaming-ingestion/)
 * [What’s new with Amazon Redshift from AWS re:Invent 2022 | by Phoebe Baek | Cloud Villains | Dec, 2022 | Medium](https://medium.com/ctc-mzc/whats-new-with-amazon-redshift-from-aws-re-invent-2022-85cb1646f6dc)
 * [AWS Schema Conversion tool(SCT)를 활용하여 Google BigQuery에서 Amazon Redshift로 마이그레이션하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/migrate-google-bigquery-to-amazon-redshift-using-aws-schema-conversion-tool-sct/)
+* [Amazon Redshift 감사 로그 검색을 위한 데이터 파이프라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/redshift-audit-log-data-pipeline/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
