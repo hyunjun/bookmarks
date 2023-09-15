@@ -625,6 +625,7 @@ AWS
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 * [1.(책모음) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
+* [Serverless Book. Developing Applications on AWS | Medium](https://sbrisals.medium.com/the-serverless-book-2209ee13e619)
 
 # Certification 자격증
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
