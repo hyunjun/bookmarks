@@ -1763,6 +1763,7 @@ Business
 * [개발자를 성장시키는 리더의 7가지 특징 | 요즘IT](https://yozm.wishket.com/magazine/detail/2178/)
 * [“AI 시대에도 ‘적극적 경청’은 리더의 의무”](https://v.daum.net/v/20230817200023451)
 * [왜 더 이상 리더가 되기를 원하지 않는 걸까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadersareleaving20230823)
+* [좋은 리더는 장점을 찾아 알려준다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263972)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
