@@ -244,6 +244,7 @@ Elixir
   * [Semantic Search with Phoenix, Axon, Bumblebee, and ExFaiss - DockYard](https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss)
   * [Context maintainability & guidelines in Elixir & Phoenix | Curiosum](https://curiosum.com/blog/elixir-phoenix-context-maintainability-guildelines)
   * [Phoenix 가 가장 사랑받는 Web framework 로 선정되었습니다 · Json Media](https://json.media/blog/elixir_and_phoenix_in_2023_developer_survey)
+  * [Customizing Phoenix Generators · The Phoenix Files](https://fly.io/phoenix-files/customizing-phoenix-generators/)
   * [corea: Rewriting the previous COREA project using Phoenix LiveView](https://github.com/team-jupeter/corea)
     * [코딩 실습 전자 여권 A - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7QRBGl7s9WnT0xqKGDuzPKk)
     * [코딩 실습 전자 여권(B) - YouTube](https://www.youtube.com/playlist?list=PLlSZlNj22M7RFziyKgL0GBPi6itEhrrUp)
