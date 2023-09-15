@@ -2355,6 +2355,7 @@ Business
 * [IT 기업 이직 tip. 프로덕트의 리텐션 체크](https://brunch.co.kr/@yongjinjinipln/113)
 * [IT 기업 이직 Tip. 카카오, 네이버 출신?](https://brunch.co.kr/@yongjinjinipln/114)
 * [IT 기업 이직 Tip. 공헌이익 파악하기](https://brunch.co.kr/@yongjinjinipln/115)
+* [“이직은 가장 잘나갈 때 하는 겁니다” (전 우버 아시아 채용총괄 앤드류 김) - 티타임즈](https://www.ttimes.co.kr/article/2023091217327771196)
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
