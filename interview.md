@@ -100,6 +100,7 @@ Interview
 * [면접관(면접하는 사람)을 위한 교육 – Dreaming for the Future](http://www.chidoo.me/index.php/2022/09/09/interviewer-training/)
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
+* [면접에서 눈에 띄는 지원자의 특징](https://www.linkedin.com/posts/seunghoon-lee-30935520_%EB%A9%B4%EC%A0%91%EC%97%90%EC%84%9C-%EB%88%88%EC%97%90-%EB%9D%84%EB%8A%94-%EC%A7%80%EC%9B%90%EC%9E%90%EC%9D%98-%ED%8A%B9%EC%A7%95-activity-7103107861144113152-GyV6/)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
 * ["학벌은 전혀 안 본다" 세계 최고 부자, 테슬라 CEO 일론 머스크는 면접 때 모든 지원자에게 항상 같은 질문을 던진다 (답변 팁) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/elon-musk-always-asks-job-interview_kr_618c5d1ce4b0b1aee920a479)
 * [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
