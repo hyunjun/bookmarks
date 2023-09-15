@@ -39,6 +39,7 @@ Interview
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
 * [Startup Job Offers And How To Interview Founders](http://techcrunch.com/2015/05/28/startup-job-offers-and-how-to-interview-founders)
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
+* [면접Tip “마지막으로 질문 있으세요?”](https://www.linkedin.com/feed/update/urn:li:activity:7100729053740990464/)
 * [채용 담당자한테 꼭 물어봐야하는 6가지 질문 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-ask-to-recruiters)
 * [면접 후, 이메일로 어필하는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-send-email-after-interview/)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
