@@ -353,6 +353,7 @@ Go
 * [Easily send an sms with Go using Twilio API in 8 minutes - YouTube](https://www.youtube.com/watch?v=VtP6bqWkxgU)
 * [I am new to Behaviour Driven Development using Go | by Sarvsav Sharma | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/i-am-new-to-behaviour-driven-development-using-go-149af81f3294)
 * [Comprehensive Guide to Building a Video Encoding Service in Go: From Development to Deployment](https://voskan.host/2023/08/08/video-encoding-service-in-golang/)
+* [Golang Is A Poorly-Designed Language — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/golang-is-a-poorly-designed-language)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
