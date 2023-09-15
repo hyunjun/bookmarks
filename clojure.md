@@ -435,6 +435,8 @@ Clojure
 * [Scicloj LLM Meetup 1: Introduction - YouTube](https://www.youtube.com/watch?v=sap3Z-LpNjY)
 * [Scicloj LLM Meetup 2: Prompt engineering, managing embeddings - YouTube](https://www.youtube.com/watch?v=uhRnCfWSA9Y)
 * [Scicloj LLM Meetup 3: LLMOps with Bosquet - YouTube](https://www.youtube.com/watch?v=NNDThiZqe70)
+* [Scicloj LLM meetup 4: Architectures and ideas behind transformer-based generative LLMs - Community Center / Meetups and Events - ClojureVerse](https://clojureverse.org/t/scicloj-llm-meetup-4-architectures-and-ideas-behind-transformer-based-generative-llms/10137)
+* [Scicloj LLM meetup 5: Library overviews and selected discussions - Community Center / Meetups and Events - ClojureVerse](https://clojureverse.org/t/scicloj-llm-meetup-5-library-overviews-and-selected-discussions/10313)
 * [Clojure is a product design tool. | Precursor](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 * [clojure implementation of LangChain's recursive splitter](https://gist.github.com/usametov/3c46a8012d5913e53f2810b28d0c5af6)
 * [Fast Starting JVM Clojure with Checkpoint/Restore (Part 1)](https://yizhepku.github.io/clojure-crac/)
