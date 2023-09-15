@@ -1047,6 +1047,7 @@ Scala
     * [ZIO HTTP by Shubham Girdhar - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=PnJsAOQ5cOc)
     * [Zymposium - ZIO HTTP: RC1 and Beyond - YouTube](https://www.youtube.com/watch?app=desktop&v=N8w3vU7K8ao)
     * [Zymposium - Preparing ZIO HTTP Release with John A. De Goes - YouTube](https://www.youtube.com/watch?v=ozHQmklDF2Y)
+    * [Generating a Rust client library for ZIO Http endpoints](https://ziverge.com/blog/zio-http-rust/)
     * [ZIO Schedule and Ref by Ruurtjan Pul - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=IeEPO6GT3wM)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
