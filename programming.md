@@ -1103,6 +1103,7 @@ Programming
 * [The State of APIs in the Container Ecosystem - YouTube](https://www.youtube.com/watch?v=k_hszI5yaZk)
 * [`API 언제 나오나요?` 로 부터 독립하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221127-api-layer/)
 * [Top 6 Most Popular API Architecture Styles - YouTube](https://www.youtube.com/watch?v=4vLxWqE94l4)
+* [6 API Architectures you MUST know/be aware](https://www.linkedin.com/feed/update/urn:li:activity:7102553049209925632/)
 * [facade API와 Shopping Service API팀에 대한 이야기](https://dev.gmarket.com/84)
 * [API 메시업과 Fault Tolerance 문제 해결 전략](https://dev.gmarket.com/86)
 * [API Evolution without Versioning - YouTube](https://www.youtube.com/watch?v=dIr-16CzC4M)
