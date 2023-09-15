@@ -209,6 +209,7 @@ Artificial Intelligence
 * [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0) 전반적인 역사 및 흐름
 * [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [AI 골드러시 시대.. 전통적 비즈니스 역량이 중요한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aigoldrush20280906)
+* [Strong AI: Provably Impossible — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/strong-ai-provably-impossible)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
