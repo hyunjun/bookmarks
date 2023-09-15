@@ -2005,6 +2005,7 @@ Business
 * [스타트업을 위한 '실험'과 '가설' 개념 설명](https://www.minwookim.kr/experiment-hypothesis-for-startups/#:~:text=%EA%B0%80%EC%A0%95%EC%9D%80%20%EC%82%AC%EC%8B%A4%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EB%AF%BF%EB%8A%94,%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%20%EC%A7%84%EC%88%A0%EC%9D%84%20%EA%B0%80%EB%A6%AC%ED%82%A8%EB%8B%A4)
 * [토스 리더가 말하는 PO가 꼭 알아야할 개념 | PO SESSION - YouTube](https://www.youtube.com/watch?v=tcrr2QiXt9M) Carrying Capacity 한계 수용능력 Churn rate
 * [SaaS 성공의 핵심은 신규 고객 유치가 아니다](https://www.linkedin.com/posts/jhyunpark_saas-churnabrrate-stwtnsrcg-activity-6969945898332151808-L6wD/) 기존 유저의 이탈률(Churn rate)
+* [**SaaS 비즈니스의 15개의 metrics**](https://maily.so/saascenter/posts/01722a3f)
 * [Carrying Capacity: When Business Growth Stops | Viral Hero](https://viralhero.com/viral-growth-hacking/carrying-capacity-2/)
 * [Calm: 바이럴 제품 만들기](https://aerial-tip-118.notion.site/Calm-ac1caa71c6a94ac09aab9f33eb36d59a)
   * 미국의 명상 앱인 Calm을 만든 Alex Tew가 어떻게 바이럴 제품을 만들었는지 정리한 글
