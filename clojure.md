@@ -1141,6 +1141,7 @@ Clojure
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
   * [Pedestal is a sturdy and reliable base for services and APIs](http://pedestal.io/)
+  * [Web development with Pedestal - YouTube](https://www.youtube.com/playlist?list=PLKJ_YtZXuW_ArdmXxNaw5UVhRL-pdCVKW)
 * [Pegasus is a scalable, modular, polite web-crawler for Clojure http://getpegasus.io](https://github.com/shriphani/pegasus)
 * [penkala - a composable query builder for PostgreSQL written in Clojure](https://cljdoc.org/d/com.verybigthings/penkala)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
