@@ -1866,6 +1866,8 @@ AWS
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
+* [generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/blogs/korean-chatbot-using-varco-llm-and-opensearch at main · aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr · GitHub](https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/korean-chatbot-using-varco-llm-and-opensearch)
+  * [VARCO LLM과 Amazon OpenSearch를 이용하여 한국어 Chatbot 만들기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/korean-chatbot-using-varco-llm-and-opensearch/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
