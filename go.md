@@ -1049,6 +1049,7 @@ Go
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [TableDrivenTests · golang/go Wiki](https://github.com/golang/go/wiki/TableDrivenTests)
 * [testcontainers-go: Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests](https://github.com/testcontainers/testcontainers-go)
+  * [Integration Test Postgres Store with testcontainers-go - DEV Community](https://dev.to/kashifsoofi/integration-test-postgres-store-with-testcontainers-go-44pg)
 * [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 
 # Tutorial
