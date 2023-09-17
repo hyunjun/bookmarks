@@ -406,6 +406,7 @@ Java
   * [Why String is Immutable or Final in Java? Explained](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html)
   * [How to remove duplicate characters from String in Java? Solved | Java67](https://www.java67.com/2019/11/how-to-remove-duplicate-characters-from-string-in-java.html)
   * [How to Remove all adjacent duplicates characters from String in java? Example Tutorial | Java67](https://www.java67.com/2022/02/how-to-remove-all-adjacent-duplicates-from-string-.html)
+  * [java stringjoiner 사용법과 내부 동작을 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/09/12/java-stringjoiner-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4/)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -1710,6 +1711,7 @@ Java
 * [도메인 모듈 분리 시 Transaction + JPA 활용 방안 - YouTube](https://www.youtube.com/watch?v=18C2A56ialY)
 * [Native SQL로 데이터를 조회할 때 Enum 타입의 필터조건이 제대로 작동하지 않는 이슈](https://kim-jong-hyun.tistory.com/152) JPA
 * [JPA @Where 무시하기](https://yeonyeon.tistory.com/314)
+* [JPA에서의 Lock 이해하기 - Google Slides](https://docs.google.com/presentation/d/1615xq5LSv328WWNvfnoaBiYPISI3zW7PhsxDN0JO-YM/edit#slide=id.p)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
