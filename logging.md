@@ -61,6 +61,8 @@ Logging
 * [5 new sudo features sysadmins need to know in 2022 | Opensource.com](https://opensource.com/article/22/2/new-sudo-features-2022)
 * [2022 State of Observability and Log Management - YouTube](https://www.youtube.com/watch?v=x0MLPqX6toA)
 * [1. 효율적으로 로그 모니터링하기 - 로그 레벨 구분하기](https://jojoldu.tistory.com/712)
+* [로그 및 SQL 진입점 정보 추가 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13429/)
+* [Tagged Logging vs Structured Logging - DEV Community](https://dev.to/jdwyah/tagged-logging-vs-structured-logging-3mbc)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
