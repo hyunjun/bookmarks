@@ -2066,6 +2066,7 @@ Business
 * [알라미 구독 글로벌 진출 후기. Intro 알라미는 현재 다니고 있는 스타트업 제품입니다. | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EC%95%8C%EB%9D%BC%EB%AF%B8-%EA%B5%AC%EB%8F%85-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C-%ED%9B%84%EA%B8%B0-475c0e058a06)
 * [크고 복잡한 제품, 과감하게 갈아엎기](https://toss.tech/article/mydoc)
 * [리멤버에서 UT(사용자 테스트)는 어떻게 진행하나요? - DRAMA&COMPANY](https://blog.dramancompany.com/2023/09/how-to-ux-research/)
+* [푸시 클릭율 6배를 만든 고객집중 | by 송효진 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%ED%91%B8%EC%8B%9C-%ED%81%B4%EB%A6%AD%EC%9C%A8-6%EB%B0%B0%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%A0%EA%B0%9D%EC%A7%91%EC%A4%91-2811bf0a15c7)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2156,6 +2157,7 @@ Business
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
 * [Predictable Revenue 요약: 세일즈포스는 어떻게 처음 1,000억을 벌었을까?](https://www.relate.kr/blog/predictable-revenue-chapter-1/)
+* ['이거 마시면 깃허브 쓰는 거다?' GitHub의 맥주 플러팅🍺](https://eopla.net/magazines/6661) Github이 초기에 사람을 모으기 위해 했던 활동들
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
