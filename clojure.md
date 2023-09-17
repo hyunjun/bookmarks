@@ -200,6 +200,8 @@ Clojure
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
 * [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
+* [On lazy sequence and parallelism. · GitHub](https://gist.github.com/tlonist-sang/8b3e16cce590e1185287320a56450d6d)
+  * [평가를 마지막까지 미루게 (defer) 되면 의도하지 않는 동작으로 이어질 수 있음](https://www.facebook.com/groups/592659147495203/?multi_permalinks=6708120235949033)
 * [Laziness in Clojure](https://medium.com/@pwentz/laziness-in-clojure-3d83645bf7f3)
 * [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닝 첫걸음 2장
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
