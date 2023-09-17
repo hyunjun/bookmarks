@@ -3156,6 +3156,7 @@ Javascript
 * [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 * [A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog](https://www.honeybadger.io/blog/errors-nodejs/)
 * [Node.js Error Handling: Tips and Tricks | AppSignal Blog](https://blog.appsignal.com/2022/11/16/nodejs-error-handling-tips-and-tricks.html)
+* [Tracking Errors in a Node.js Application | AppSignal Blog](https://blog.appsignal.com/2023/08/30/tracking-errors-in-a-nodejs-application.html)
 * [Node.js 모범 사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
 * [BIG new feature lands in Node.js // The Code Report - YouTube](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 * [Node.js 에 Fetch API 추가 | GeekNews](https://news.hada.io/topic?id=5872)
@@ -5431,6 +5432,7 @@ Javascript
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [How to make API call in React Redux Toolkit | React Redux Tutorial - YouTube](https://www.youtube.com/watch?v=2JBx_06dD1k)
 * [🪂 How to Secure React.js App Auth with Redux and Node.js 🔥 - DEV Community](https://dev.to/idurar/how-to-secure-reactjs-app-auth-with-redux-and-nodejs-4ma3)
+* [Dark Mode with Next.js, TypeScript, Styled Components and Redux Toolkit🔯🔮 - DEV Community](https://dev.to/koyablue/dark-mode-with-nextjs-typescript-styled-components-and-redux-toolkit-3863)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
 
