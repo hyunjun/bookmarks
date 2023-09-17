@@ -840,6 +840,7 @@ Web
   * 최신 모던 브라우저들에서는 새로운 CSS Trigonometric functions(삼각함수)들 사용 가능
     * 이 함수들을 사용하면 이전에는 불가능했던 CSS 레벨에서 수학적 계산을 보다 정교하게 수행
   * 이 글에선 이들 함수를 활용해 pseudo-random 값들을 생성해 애니메이션이나 위치 등에서 활용할 수 있는 방법 소개
+* [요소가 하나만 있을 때 그 요소에 적용하는 CSS 가상 선택자 :only-child, 언제 사용하면 좋은가? | 웹으로 말하기](https://mytory.net/archives/14818)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [Defensive CSS](https://defensivecss.dev/)
@@ -1168,6 +1169,7 @@ Web
 * [Binary Packages Now Available for the Preview NGINX QUIC+HTTP/3 Implementation - NGINX](https://www.nginx.com/blog/binary-packages-for-preview-nginx-quic-http3-implementation/)
 * [NGINX, 기술 부채가 되지 않으려면? | LINE DEV Meetup #13 - YouTube](https://www.youtube.com/watch?v=h0LMEVDXCxE)
 * [Nginx란 무엇인가? : 네이버 블로그](https://blog.naver.com/gi_balja/223028077537)
+* [mirror를 활용하여 트래픽 제어](https://blog.naver.com/pjt3591oo/223213668115)
 * [Angie - drop-in replacement for Nginx](https://github.com/webserver-llc/angie)
   * [Добро пожаловать — документация Angie 1.0.0](https://angie.software/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
@@ -1575,6 +1577,7 @@ Web
 * [Etag를 이용하여 더 나은 Restful API 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1772/)
 * [REST API Mistakes Every Junior Developer should Avoid | clean-code - YouTube](https://www.youtube.com/watch?v=JxeTegu4dD8)
 * [REST test test...](https://resttesttest.com/)
+* [10 REST API BEST PRACTICES. 1. Use descriptive and meaningful… | by Abhishek Singh | Javarevisited | Medium](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)
 
 ## Restful Javascript
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
