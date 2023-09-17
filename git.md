@@ -320,6 +320,7 @@ Git
 * [Metrics for issues, pull requests, and discussions - The GitHub Blog](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/)
   *  저장소의 이슈, 풀 리퀘스트, 디스커션에서 첫 반응에 걸리는 시간, 종료될 때까지의 시간, 대답하는 데 걸리는 시간 등 통계를 볼 수 있는 Issue Metrics Action GitHub Actions를 GitHub에서 만들어서 제공
   * [issue-metrics: Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.](https://github.com/github/issue-metrics)
+* [GitHub repository templates 사용 후기](http://ohyecloudy.com/pnotes/archives/github-repository-templates/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -728,6 +729,7 @@ Git
   * [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
   * [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733)
     * [더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿 | GeekNews](https://news.hada.io/topic?id=5745)
+  * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
   * [좋은 커밋 메세지 작성하는 법: 실용적인 깃(Git) 가이드](https://www.freecodecamp.org/korean/news/writing-good-commit-messages-a-practical-guide/)
   * [Git 커밋 메시지 컨벤션은 왜 중요할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1974/)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
@@ -875,7 +877,6 @@ Git
     * [git log -p 파일 하나의 변경 이력을 한번에 보기 | edykim](https://edykim.com/ko/post/git-log-p-view-a-single-change-history-of-a-file/)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
-  * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
   * [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log](http://story.haezoom.com/?p=936)
   * [git 커밋 메시지 작성시 유의해야 할 점](https://developer88.tistory.com/181)
   * [왜 merge 실수로 희생된 커밋이 파일 로그에서 보이지 않나?](http://ohyecloudy.com/pnotes/archives/git-file-log-history-simplification/)
