@@ -354,6 +354,7 @@ Go
 * [I am new to Behaviour Driven Development using Go | by Sarvsav Sharma | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/i-am-new-to-behaviour-driven-development-using-go-149af81f3294)
 * [Comprehensive Guide to Building a Video Encoding Service in Go: From Development to Deployment](https://voskan.host/2023/08/08/video-encoding-service-in-golang/)
 * [Golang Is A Poorly-Designed Language — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/golang-is-a-poorly-designed-language)
+* [Exploring Hardware Information with Go: Introducing the Board Package | by ANUJ KUMAR THAKUR | Sep, 2023 | Medium](https://medium.com/@anuj85500/exploring-hardware-information-with-go-introducing-the-board-package-885dbb29ef9c)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
