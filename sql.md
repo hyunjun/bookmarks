@@ -1357,6 +1357,7 @@ SQL
 * [Turning SQLite into a distributed database](https://univalence.me/posts/mvsqlite)
 * [Proceedings of the VLDB Endowment](https://vldb.org/pvldb/volumes/15/paper/SQLite:%20Past,%20Present,%20and%20Future)
   * [SQLite: Past, Present, and Future | GeekNews](https://news.hada.io/topic?id=7327)
+* [Array columns in SQLite - DEV Community](https://dev.to/fractaledmind/array-columns-in-sqlite-15i0)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [cr-sqlite: Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite](https://github.com/vlcn-io/cr-sqlite)
   * [Crsql - SQLite에 Multi-Writer, CRDT 기능을 추가하는 확장 | GeekNews](https://news.hada.io/topic?id=7843)
