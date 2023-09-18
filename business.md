@@ -2128,6 +2128,10 @@ Business
 * [우당탕탕 PO 성장 패키지. 글. 박효진(Andy) / Product Owner | by Andy Park | Aug, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-po-%EC%84%B1%EC%9E%A5-%ED%8C%A8%ED%82%A4%EC%A7%80-65d1bb6ea623)
 * [Product Manager 직무에 대한 고찰. Backlog Manager 와의 차별점 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/product-manager-%EC%A7%81%EB%AC%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0-7c78684a4e26)
 * [현실 타협은 후퇴다! 안 되는 일을 되게 만드는 PM이란? | 우아한형제들 기술블로그](https://techblog.woowahan.com/13249/)
+* [브라이언 체스키가 Airbnb에서 PM을 없애버린 이유 | Disquiet\*](https://disquiet.io/@tuemarz/makerlog/%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8-%EC%B2%B4%EC%8A%A4%ED%82%A4%EA%B0%80-airbnb%EC%97%90%EC%84%9C-pm%EC%9D%84-%EC%97%86%EC%95%A0%EB%B2%84%EB%A6%B0-%EC%9D%B4%EC%9C%A0)
+  * airbnb의 CEO인 브라이언 체스키는 디자이너 출신 경영인인데 디자이너로서 회사를 운영하는 게 꿈이었지만 당시 회사는 그렇지 않았고 코로나로 매출도 급감해서 회사도 위기
+  * 그래서 PM 역할을 없애고 PM과 마케터를 합쳐서 프로덕트 마케터로 만들고 디자이너가 PM처럼 제품 제품에 참여할 수 있게 권한을 강화해서 각 제품을 만들도록 변경
+  * 그 결과 코로나로 위기라던 airbnb의 수익이 크게 높아져서 손익분기점에까지 도달
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
