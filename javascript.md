@@ -4280,6 +4280,7 @@ Javascript
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
 * [React 상태 관리 기술 소개 2021 ⚜️🌐 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210707)
 * [대수적 데이터 타입과 리액트 상태 관리 | 그린랩스](https://green-labs.github.io/algebraic-data-type)
+* [리액트 상태 관리 라이브러리, 어떤 것을 써야 할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2233/)
 * [React 상태관리 소개편](https://clelab.io/course/react-state-management)
 * [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 * [husky, lint-staged - React에서 husky와 lint-staged를 사용하여 Git에 커밋할 때, ESLint와 Prettier를 실행하도록 설정해 봅시다](https://dev-yakuza.posstree.com/ko/react/husky-lint-staged/)
