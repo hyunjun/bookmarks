@@ -501,6 +501,7 @@ AWS
   * [기업 고객 들에게 큰 박수받는 아마존의 '베드락'](https://www.facebook.com/youngwook.kim.7549/posts/pfbid0ifC8aPZoCC4LQoUfHf7aLyd72qZNmcNWeWYZMEyUKqUaaShsNftMBFeHYXSyAMkcl)
 * [Preview – Enable Foundation Models to Complete Tasks With Agents for Amazon Bedrock | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
 * [Amazon Bedrock용 에이전트 미리보기 출시 – 다양한 파운데이션 모델 작업에 대한 지원 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
+* [Amazon Bedrock 지식 기반 미리보기 – 파운데이션 모델을 위한 에이전트 기반 기업 데이터 소스 연결 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
 * [AWS 생성 AI 플랫폼 '세이지메이커'와 '베드락' 차이는 - ZDNet korea](https://zdnet.co.kr/view/?no=20230809121223)
 * [스와미 시바수브라마니안 AWS 머신러닝 부사장 “본질적으로 중요한 것은 모델을 구축하는 방식”···보겔스 AWS CTO 대담 – 테크수다](http://www.techsuda.com/archives/19544)
 * [Amazon Linux 2 SSH 접속 유저 추가와 포트 변경 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/amazon-linux-2-ssh-%EC%A0%91%EC%86%8D-%EC%9C%A0%EC%A0%80-%EC%B6%94%EA%B0%80%EC%99%80-%ED%8F%AC%ED%8A%B8-%EB%B3%80%EA%B2%BD-8ab2f51ca18e)
@@ -2418,6 +2419,7 @@ AWS
 * [Algo로 개인 VPN 서버 구축하기(요약판)](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [보안성 높은 재택근무 환경을 위한 AWS 아키텍처 구성하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/improving-security-architecture-controls-for-wfh/)
 * [VPN 분할 터널에 대해 배우면서 VPN환경 구축 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Sep, 2022 | Medium](https://medium.com/ctc-mzc/vpn-%EB%B6%84%ED%95%A0-%ED%84%B0%EB%84%90%EC%97%90-%EB%8C%80%ED%95%B4-%EB%B0%B0%EC%9A%B0%EB%A9%B4%EC%84%9C-vpn%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%ED%95%B4-%EB%B3%B4%EA%B8%B0-bdeee71351)
+* [테스트하며 이해해보는 사이트 간 VPN (YAMAHA RTX830이용) | by MZC_Global | Cloud Villains | Sep, 2023 | Medium](https://medium.com/cloudvillains/%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%A9%B0-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%84-vpn-yamaha-rtx830%EC%9D%B4%EC%9A%A9-f50aae055a80)
 * [AWS Site-to-Site VPN 성능 최적화를 위한 적절한 옵션 선택하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-site-to-site-vpn-best-options-for-performance/)
 
 # WAF Web Application Firewall
