@@ -139,6 +139,7 @@ App
   * [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
   * [Writing my PhD using groff](https://jstutter.netlify.app/#220721-writing-my-phd-using-groff)
   * [Pandoc 이미지 관련 팁 두 가지 :: 류광의 번역 이야기](https://occamsrazr.net/tt/393)
+    * Pandoc으로 마크다운을 epub으로 변환할 때 CSS에서 사용한 이미지가 epub에 포함되지 않는 문제를 해결하는 방법, 이미지 캡션을 제대로 추가하기 위해 Pandoc 확장 문법은 `{특성=값}`을 활용하는 방법 설명
 * pdf
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
