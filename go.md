@@ -1010,6 +1010,10 @@ Go
 * [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
 * [Solve Go Performance Issues by Profiling | by Patrick Gopher | The Startup | Medium](https://medium.com/swlh/solve-go-performance-issues-by-profiling-65d643f65c98)
 * [Go Performance Tools Cheat Sheet](https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/)
+* [Profiling Go Applications in the Right Way with Examples | by Abdulsamet İLERİ | Sep, 2023 | Stackademic](https://blog.stackademic.com/profiling-go-applications-in-the-right-way-with-examples-e784526e9481)
+  * Go 애플리케이션을 프로파일링하는 방법을 설명하는 글
+  * `go test -bench=.` 명령어의 사용 방법을 설명하고 `go tool pprof`로 CPU와 메모리를 프로파일링하는 방법 설명
+  * 런타임에서 CPU와 메모리를 프로파일링하기 위한 `runtime/pprof`의 사용 방법과 웹에서 이용할 수 있는 `net/http/pprof` 소개
 * [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 * pprof
   * [Profiling Go Programs - The Go Blog](https://blog.golang.org/pprof)
