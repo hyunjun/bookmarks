@@ -381,6 +381,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치 검색 : 네이버 블로그](https://blog.naver.com/gi_balja/223176602239)
 * [엘라스틱서치 ELK 설치 방법 : 네이버 블로그](https://blog.naver.com/gi_balja/223178660486)
 * [EC2 (우분투) 환경에서 ELK (Elast.. : 네이버블로그](https://blog.naver.com/gi_balja/223195060330)
+* [Elasticsearch, Logstash, Kibana와 PostgreSQL 연동](https://blog.naver.com/gi_balja/223182921545)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
