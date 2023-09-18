@@ -950,6 +950,7 @@ NLP
 * [PetGPT: Train your own PetGPT at home!](https://github.com/maziarraissi/PetGPT)
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
   * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
+* [RestGPT: An LLM-based autonomous agent controlling real-world applications via RESTful APIs](https://github.com/Yifan-Song793/RestGPT)
 * [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
   * [Check out this ShareGPT conversation](https://sharegpt.com/c/77j528O)
 * [slacker로 slack bot 만들기](https://hyesun03.github.io/2016/10/08/slackbot/)
@@ -1411,6 +1412,8 @@ NLP
 * [**Create a CustomGPT And Supercharge your Company with AI  -  Pick the Best LLM - The Abacus.AI Blog**](https://blog.abacus.ai/blog/2023/08/10/create-your-custom-chatgpt-pick-the-best-llm-that-works-for-you/)
 * [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 * [**Patterns for Building LLM-based Systems & Products**](https://eugeneyan.com/writing/llm-patterns/)
+  * 대규모 언어 모델을 시스템에 통합하기 위한 7가지 실용적인 패턴에 대해 설명
+    * 성능 측정, 최신 지식 추가, 작업 미세 조정, 시간/비용 절감을 위한 캐싱, 품질 출력 보장, 오류 관리, 사용자 피드백 활용에 대해 설명
   * [practical patterns for building LLM-based systems and products](https://www.linkedin.com/feed/update/urn:li:activity:7098693440158199808/)
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
 * [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
@@ -1557,6 +1560,7 @@ NLP
     * [The EASIEST way to finetune LLAMA-v2 on local machine! - YouTube](https://www.youtube.com/watch?v=3fsn19OI_C8)
     * [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper | Anyscale](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
       * [Llama2가 요약에 있어 GPT-4만큼 정확하며 30배 더 저렴 | GeekNews](https://news.hada.io/topic?id=10620)
+    * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [Fine-Tuning LLMs: LoRA or Full-Parameter? An in-depth Analysis with Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2)
     * [Host a Llama 2 API on GPU for Free | by Yuhong Sun | Aug, 2023 | Medium](https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
       * [HostLlama2BehindAPI.ipynb - Colaboratory](https://colab.research.google.com/drive/1XfkVbh4noX9E4_90Ve9rv5zPqu6dIVQr)
@@ -1576,6 +1580,7 @@ NLP
     * [주요 목표는 MacBook에서 4비트 양자화를 사용하여 LLaMA을 실행](https://www.linkedin.com/posts/activity-7040496097366065152-4cn3)
   * [llama: Simple llama usage example](https://github.com/go-noah/llama)
   * [LLaMA\_MPS: Run LLaMA inference on Apple Silicon GPUs](https://github.com/jankais3r/LLaMA\_MPS)
+  * [Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads — TOGETHER](https://together.ai/blog/medusa)
   * [ollama: Get up and running with Llama 2 and other large language models locally](https://github.com/jmorganca/ollama)
     * [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
   * [open\_llama](https://github.com/openlm-research/open\_llama)
