@@ -2199,6 +2199,7 @@ Docker
 * [BLOG: Canal and Calico Networking for k8s - Google 드로잉](https://docs.google.com/drawings/d/1SNBKcFM9diHU0--zIgK5zg4aFDWmSL-g4H3G01t7uy0/edit)
 * [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
 * [4. 쿠버네티스 네트워크 이해 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-06-jennifer-kubernetes-4/)
+* [5. 쿠버네티스 인그레스, AWS LB Controller, External DNS Controller 이해 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-13-jennifer-kubernetes-5/)
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
@@ -2475,6 +2476,7 @@ Docker
 * [레드햇 오픈스택 17 저자직강 + 스터디 그룹 자료 공개](https://naleejang.tistory.com/268)
 * [Hyper-V Open Stack이란?](https://junyharang.tistory.com/466)
 * [Hyper-V Open Stack Controller Node Hyper-V 구성 및 Ubuntu 22.04.3 LTS Server 설치](https://junyharang.tistory.com/467)
+* [Hyper-V Open Stack Controller Node ② NTP Server 구성](https://junyharang.tistory.com/468)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
