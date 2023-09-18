@@ -394,6 +394,10 @@ Linux
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
   * [Pulumi - IaC in your favorite programming language! - YouTube](https://www.youtube.com/watch?v=vIjeiDcsR3Q)
+  * [Pulumi를 이용하여 코드로 AWS 리소스 관리하기 | Knowledge Logger](https://www.letmecompile.com/manage-aws-resources-with-pulumi-iac/)
+    * InfraStructure as Code 도구 중 하나인 Pulumi를 이용해서 AWS 리소스를 관리하는 방법 설명
+    * Pulumi CLI와 Pulumi Cloud에 저장된 상태 파일을 이용해서 AWS 리소스를 관리하는 기본적인 사용 방법 설명
+    * 기존 인프라를 임포트하거나 Pulumi에서 변경 사항을 업데이트하는 방법, AWS 콘솔에서 변경된 내용을 적용하는 방법 설명
 * [salt](https://docs.saltstack.com/en/latest/topics/)
 
 # Book
