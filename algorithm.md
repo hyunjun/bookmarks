@@ -624,6 +624,8 @@ Algorithm
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 
 # Library
+* [알고달레](https://www.algodale.com/)
+  * [알고달레 - 코딩 테스트를 독학으로 준비하고 계신가요 | 커리어리](https://careerly.co.kr/comments/89950)
 * [**The Algorithms**](https://the-algorithms.com/)
   * [언어별로 구현해본 알고리듬 모음 | GeekNews](https://news.hada.io/topic?id=7249)
 * [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
