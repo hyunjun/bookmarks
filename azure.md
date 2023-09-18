@@ -182,8 +182,6 @@ Azure
 * [Azure에서 React.js배포 - Byeongjin Jason Kang](https://jasonkang14.github.io/azure/static-web-app-to-deploy-react)
 * [Microsoft technical support results for the "Unable to delete ghost tenant" issue](https://www.dokyun.pe.kr/281)
 * [Sort Your Tech Debt with Azure! - LunchBytes - YouTube](https://www.youtube.com/watch?v=JWe1k3fnsrY)
-* [AI Builder 에 들어온 ChatGPT. 이것을 자동화 할 수 없을까? 나도 앱이나 챗봇 등을 만들어 손하나 까닥이지 않고 싶다. 과연 될까요? 한번 느껴보세요! - YouTube](https://www.youtube.com/watch?v=TXQ5dtn_CSk) OpenAI service
-* [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
 * [5 Best Azure DevOps Online Courses for Beginners and Experienced | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/5-best-azure-devops-online-courses-for-beginners-and-experienced-b1a88ac385a7)
 
 # AKS
@@ -203,7 +201,6 @@ Azure
 * [Tech Talk | Simon and Denny Build a Thing! Part Two - YouTube](https://www.youtube.com/watch?v=suVeEiSBDf4)
 * [Tech Talk | Simon and Denny Build a Thing! Part Three - YouTube](https://www.youtube.com/watch?v=de5lbzi3vV0)
 * [Tech Talk | Simon + Denny Build A Thing! Part Four - YouTube](https://www.youtube.com/watch?v=Tmaoou3NchQ)
-* [An introduction to the Azure OpenAI Service | BRK216 - YouTube](https://www.youtube.com/watch?v=HTw4cJy3XNk)
 * [Azure 개발자 - .NET Day - Events | Microsoft Learn](https://learn.microsoft.com/ko-kr/events/learn-events/azuredeveloper-dotnetday/)
 * [Step by Step Setup instructions of Security Analysis Tool (SAT) for Azure Databricks - YouTube](https://www.youtube.com/watch?v=xAav6GslSd8)
 * [Sustainable Software: Carbon Aware Azure Functions by George Kosmidis - YouTube](https://www.youtube.com/watch?v=2YyDuUCyURs)
@@ -222,7 +219,6 @@ Azure
 # Library
 * [azure-functions-deno-worker - Run Deno on Azure Functions](https://github.com/anthonychu/azure-functions-deno-worker)
 * [azure-gpt-console](https://github.com/go-noah/azure-gpt-console)
-* [azure-openai-proxy: Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings](https://github.com/stulzq/azure-openai-proxy)
 * [azure-storage-fuse: A virtual file system adapter for Azure Blob storage](https://github.com/Azure/azure-storage-fuse)
   * [Azure Blob 에서 Blobfuse 사용하기](https://changbaebang.github.io/2021-03-22-blobfuse-azure-blob/)
 * [Cloud-Data-Engineering: Azure Data Factory](https://github.com/rritec/Cloud-Data-Engineering)
@@ -247,6 +243,13 @@ Azure
 * [What’s like doing ML without a single line of code](https://drive.google.com/file/d/13PeCaO7iu5Aeun1Irk_lGtDH920ask2L/view)
 * [AI Show | Channel 9](https://channel9.msdn.com/Shows/AI-Show)
 * [Azure Machine Learning Tutorial | What Is Azure Machine Learning? | Azure Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=NMpc5Z63RMA)
+
+# OpenAI
+* [An introduction to the Azure OpenAI Service | BRK216 - YouTube](https://www.youtube.com/watch?v=HTw4cJy3XNk)
+* [AI Builder 에 들어온 ChatGPT. 이것을 자동화 할 수 없을까? 나도 앱이나 챗봇 등을 만들어 손하나 까닥이지 않고 싶다. 과연 될까요? 한번 느껴보세요! - YouTube](https://www.youtube.com/watch?v=TXQ5dtn_CSk) OpenAI service
+* [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
+* [azure-openai-samples-kr/use_cases/kakao_navi/notebooks/kakao_navi.ipynb at main · HyounsooKim/azure-openai-samples-kr · GitHub](https://github.com/HyounsooKim/azure-openai-samples-kr/blob/main/use_cases/kakao_navi/notebooks/kakao_navi.ipynb) OpenAPI function call example
+* [azure-openai-proxy: Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings](https://github.com/stulzq/azure-openai-proxy)
 
 # Python
 * [Azure Cognitive Service Python Wrapper](https://gist.github.com/allieus/0c9d745bee9d013b20fb09dda36c94a4)
