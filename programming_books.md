@@ -825,6 +825,8 @@ Programming Books
 * (NOT YET) [실용적인 마이크로서비스 아키텍처 패턴 | 에이콘출판사](http://www.acornpub.co.kr/book/practical-ms)
 * (NOT YET) [자동차 소프트웨어 아키텍처 2/e](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309216604)
   * 탐라 문005.12-스831ㅈ
+* (NOT YET) [진화적 아키텍처](https://hanbit.co.kr/store/books/look.php?p_code=B6912971816)
+  * [끊임없이 변하는 환경에 맞춰 소프트웨어 아키텍처는 진화해야 한다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2558087232)
 
 # Artificial Intelligence
 * [비전공자도 이해할 수 있는 AI 지식](https://jhrogue.blogspot.com/2022/03/ai.html)
