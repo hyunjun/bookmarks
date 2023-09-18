@@ -208,6 +208,8 @@ iOS
   * [간편하게 서버 데이터를 로딩하는 Fetcher, Swift로 구현하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/introduce-android-fetcher-swift-implementation/)
   * [화면 상태에 따라서 View가 그리는 작업, Render | Joohee Kim's Blog](https://imjhk03.github.io/posts/render-view-state/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
+* [Screen Sizes](https://screensizes.app/)
+  * [한눈에 비교해 보는 iOS 디바이스별 정보 'Screensizes' | 요즘IT](https://yozm.wishket.com/magazine/detail/2232/)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
 * [swift-http-types: Version-independent HTTP currency types for Swift](https://github.com/apple/swift-http-types)
   * [Swift HTTP Types 찍먹하기 :: iOYES](https://green1229.tistory.com/392)
