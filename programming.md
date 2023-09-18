@@ -2004,6 +2004,8 @@ Programming
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
+* [Istio vs. Linkerd: Service Mesh Showdown 2023 | by Ian Kiprotich | Aug, 2023 | Medium](https://medium.com/@onai.rotich/istio-vs-linkerd-service-mesh-showdown-2023-370937107452)
+  * 서비스 메시인 Istio와 Linkerd의 기본 아키텍처와 트래픽 관리 기능, 확장성, 관측성, 인기도 등에서 비교
 * [Is Linkerd Winning the Service Mesh Race? – The New Stack](https://thenewstack.io/is-linkerd-winning-the-service-mesh-race/)
 * [링커드(Linkerd) 서비스 메시(Service Mesh) 소개(2023.04.06) - CNCF](https://sysnet4admin.gitbook.io/cncf/blog-and-news-ko/blog/member/linkerd)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
@@ -2450,6 +2452,8 @@ Programming
   * [Service mesh에 적합한 Ingress Gateway는 무엇일까 ?](https://binux.tistory.com/63)
   * [Istio as a Platform for Running Microservices - YouTube](https://www.youtube.com/watch?v=5llsJLJmZsg)
   * [토스ㅣSLASH 23 - 고객 불안을 0으로 만드는 토스의 Istio Zero Trust - YouTube](https://www.youtube.com/watch?v=4sJd6PIkP_s)
+  * [Istio By Example](https://istiobyexample.dev/)
+    * Istio 서비스 메시에서 카나리 배포나 외부 서비스 연결, 로컬리티 로드 밸런싱 등 사례별로 그림과 함께 설정 방법을 정리한 사이트
   * [istio proxy의 작동원리](https://brunch.co.kr/@growthminder/84)
   * [ztunnel: An experimental implementation of the `ztunnel` component of ambient mesh](https://github.com/istio/ztunnel/)
     * [Istio / Introducing Rust-Based Ztunnel for Istio Ambient Service Mesh](https://istio.io/latest/blog/2023/rust-based-ztunnel/)
@@ -3837,6 +3841,14 @@ Programming
 * [토스ㅣSLASH 23 - 모든 순간을 안전하게, 토스의 서비스 보안 자동화 여정 - YouTube](https://www.youtube.com/watch?v=g9NdEXLS0u0)
 * [토스ㅣSLASH 23 - 보안의 Next Level을 향해 토스의 Security Review - YouTube](https://www.youtube.com/watch?v=pZh7NBaa6aw)
 * [One Does Not Simply Add MFA • Christine Seeman • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=adQZ6r3Y858)
+* [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
+  * 지난 8월 29일 Retool의 27개의 클라우드 고객 계정에 무단 접근 발생, 이 과정을 분석한 글
+  * 8월 27일 Retool은 스피어 피싱 공격을 받았는데 이는 SMS 기반 피싱 공격
+    * 이는 Retool 사내 내부 포털로 위장한 메시지를 전송, 한 명이 이 피싱 사이트에 접속해서 MFA를 입력하고 로그인을 한 뒤 전화, 공격자는 딥페이크로 사내 프로세스를 자세히 안내하며 MFA를 획득
+    * 이를 통해 공격자는 직원 계정에 개인 디바이스를 추가할 수 있게 되어 GSuite 세션도 획득
+    * Google은 Authenticator 동기화 기능이 있기 때문에 공격자는 MFA 토큰에도 인증 가능
+  * 이 공격을 알게 된 후 모든 세션을 취소하고 사용자에게 알린 뒤 계정 탈취를 복구
+  * 이번 공격은 멀티팩터 인증을 구현했지만, Google의 동기화 기능 업데이트를 통해 멀티팩터 인증이 싱글팩터 인증으로 바뀌게 되어 Okta를 획득하자 다른 모든 것에 인증 가능
 * [개인용 pc 를 서버로 사용한 안전한 원격 작업 실행 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4550)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
