@@ -3536,7 +3536,9 @@ Python
   * [데이터 분석을 위한 파이썬 개발환경 구축 (Windows)](https://sjquant.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
   * [How to get started with Python for Deep Learning and Data Science](https://medium.freecodecamp.org/how-to-get-started-with-python-for-deep-learning-and-data-science-3bed07f91a08)
   * [아나콘다 소개와 주피터 확장 설치방법 소개 - YouTube](https://www.youtube.com/watch?v=TSGcBvZo-8g)
-  * miniconda [Stop Using Anaconda for Your Data Science Projects | by Rionaldi Chandraseta | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/stop-using-anaconda-for-your-data-science-projects-1fc29821c6f6)
+  * miniconda
+    * [Stop Using Anaconda for Your Data Science Projects | by Rionaldi Chandraseta | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/stop-using-anaconda-for-your-data-science-projects-1fc29821c6f6)
+    * [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu) - 멈춤보단 천천히라도](https://webnautes.blog/117/)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Anime2Sketch: A sketch extractor for anime/illustration](https://github.com/Mukosame/Anime2Sketch)
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
