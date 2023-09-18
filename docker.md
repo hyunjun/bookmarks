@@ -1975,6 +1975,8 @@ Docker
 * kubernetes scheduler
   * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: Kubernetes Scheduler 살펴보기](https://ahnseungkyu.com/294)
   * [(1) 스케줄러 동작 원리와 Scheduling Framework 이해 - DeepDivers](https://deepdivers.gitbook.io/deepdivers/kubernetes-scheduler/1)
+  * [Kubernetes scheduler deep dive | by Daniele Polencic | ITNEXT](https://itnext.io/kubernetes-scheduler-deep-dive-fdfcb516be30)
+    * Kubernetes 스케쥴러가 팟을 할당하기 위해 13개의 기본 필터를 거쳐서 노드에 점수를 매겨서 노드를 선택하는 과정 설명
 * [Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning](https://github.com/armosec/kubescape)
   * [쿠버네티스용 오픈소스 보안 플랫폼 ‘쿠버스케이프'에 취약성 검사 기능 추가 - ITWorld Korea](https://www.itworld.co.kr/news/250618)
 * [kube-schedule-scaler: Kubernetes Controller which provides schedule scaling to Kubernetes deployments and other custom resources in the cluster](https://github.com/amelbakry/kube-schedule-scaler)
