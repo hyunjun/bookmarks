@@ -1418,6 +1418,7 @@ NLP
 * [The Easiest Part of LLM Applications is the LLM](https://generatingconversation.substack.com/p/the-easiest-part-of-llm-applications)
 * [Want to learn how to 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗲 𝗮𝗻 𝗟𝗟𝗠, build a 𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲, use a 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕, build a 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗯𝗼𝘁 and 𝗱𝗲𝗽𝗹𝗼𝘆 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 using a serverless solution?](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7105074644193308673-qe-0/)
 * [Why Large Language Models Hallucinate and How to Reduce it If you are a power user of ChatGPT you have probably been bitten by the hallucination bug. The LLM lulls you into getting comfortable with it and then springs a convincing but totally made-up story, playing you for a… https://t.co/CP5GxbNpJr / X](https://twitter.com/bindureddy/status/1699975747786641855)
+* [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
   * [Show HN: AI Playground by Vercel Labs | Hacker News](https://news.ycombinator.com/item?id=35621417)
 * [ArxivDigest: ArXiv Digest and Personalized Recommendations using Large Language Models](https://github.com/AutoLLM/ArxivDigest)
