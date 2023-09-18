@@ -1268,6 +1268,7 @@ Programming
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
 * [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html) 퍼플웍스 tech stack
 * [How I built my tech startup as a solo developer | by Erik | Dreamwod tech | Mar, 2022 | Medium](https://medium.com/dreamwod-tech/how-i-built-my-tech-startup-as-a-solo-developer-45390f460002) tech stack
+* [Choosing your tech stack guide for business | Curiosum](https://curiosum.com/blog/choosing-your-tech-stack-guide)
 * [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 * [**백엔드 개발자를 꿈꾸는 학생개발자에게**](https://d2.naver.com/news/3435170)
 * [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785#1f326824f06d4fe4ae69f915a6ae72b3)
