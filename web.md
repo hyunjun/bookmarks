@@ -10,6 +10,7 @@ Web
 * [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
   * [(번역) 2023년 웹 개발 트렌드 10가지 | Ykss](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
 * [The State of Frontend 2022](https://tsh.io/state-of-frontend/)
+* [Review 2021 프런트엔드, 그리고 2022 | JBEE.io](https://jbee.io/web/from-2021-to-2022/)
 * [번역 2020년에 봐야하는 6가지 웹성능 기술](https://brunch.co.kr/@jowlee/98)
 * [Top Technologies That Will Transform Web Development in 2020 | by Sophia Martin | Quick Code | Medium](https://medium.com/quick-code/top-technologies-that-will-transform-the-web-development-in-2020-cccb8abe8f4e)
 * [Interesting Web Technologies to follow in 2019](https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b)
@@ -235,6 +236,7 @@ Web
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [HTTP Status Code Definitions. Each Status-Code is described below… | by Mitku Dubale | Jun, 2022 | Medium](https://medium.com/@mitkudubale3864/http-status-code-definitions-261a7db36bda)
+* [HTTP 상태 코드 정리 | 와탭 블로그](https://www.whatap.io/ko/blog/40/index.html)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
