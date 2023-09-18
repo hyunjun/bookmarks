@@ -165,6 +165,7 @@
 * [Kotlin 1.4 Online Event: Kotlin 1.4 Language Features 영상 정리](https://www.androidhuman.com/2020-10-29-kotlin_1_4_language_features)
 * [Kotlin 1.4 Online Event: News From the Kotlin Standard Library 영상 정리](https://www.androidhuman.com/2020-11-03-kotlin_1_4_standard_library)
 * [Kotlin 1.4 Online Event: kotlinx.serialization 1.0 영상 정리](https://www.androidhuman.com/2020-11-08-kotlin_1_4_serialization)
+* [Exploring Kotlin 1.9.0: What’s New in the Latest Release | by Nandhu Raj | Sep, 2023 | Medium](https://medium.com/@nandhuraj/exploring-kotlin-1-9-0-whats-new-in-the-latest-release-12faabe6192)
 * [Apache Kafka® Event Streaming Platform For Kotlin Developers - YouTube](https://www.youtube.com/watch?v=Y-sqGKsnSHI)
 * [Idiomatic Logging in Kotlin | Baeldung on Kotlin](https://www.baeldung.com/kotlin/logging) slf4j
 * [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
