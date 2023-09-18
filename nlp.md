@@ -983,6 +983,7 @@ NLP
 * [**I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques | by Maximilian Vogel | MLearning.ai | Aug, 2023 | Medium**](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
 * [AI 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 - YouTube](https://www.youtube.com/watch?v=WRkig3VeRLY)
   * [2302.11382 A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+* [Victor Mota on X: "The latest paper from @salesforce AI, et al. discovers a new prompt called Chain of Density (CoD) that produces more dense and human-preferable summaries compared to vanilla GPT-4. I gave it a try for a few articles and it's really solid. Pasted it here if you want to try it 👇… https://t.co/KgiV6FuUp7" / X](https://twitter.com/vimota/status/1702503466994982914?s=12)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
   * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
@@ -1822,6 +1823,7 @@ NLP
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
   * [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
     * [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional\_random\_field.py)
+* [aoai-fwdproxy-funcapp](https://github.com/denlai-mshk/aoai-fwdproxy-funcapp) Boost up 4x Request per minute for your AOAI Resources
 * [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [CLaF: Clova Language Framework https://naver.github.io/claf](https://github.com/naver/claf)
