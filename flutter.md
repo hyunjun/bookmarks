@@ -279,6 +279,10 @@ Flutter
 * Retrofit
   * [Rest API 엔드포인트 따느라 삽질 하셨나요? 제가 도와드릴게요 Retrofit! - YouTube](https://www.youtube.com/watch?v=GNc20BkoA2w)
   * [retrofit을 이용하여 서버데이터 받아오기](https://blog.naver.com/pjt3591oo/222332468185)
+* [rust-in-flutter: Rust as your Flutter backend, Flutter as your Rust frontend](https://github.com/cunarist/rust-in-flutter)
+  * [About - Cunarist Docs](https://docs.cunarist.com/rust-in-flutter/)
+  * [rust_in_flutter | Flutter Package](https://pub.dev/packages/rust_in_flutter)
+  * [(4) 한국 러스트 사용자 그룹 | Facebook](https://www.facebook.com/groups/635415646504748/?multi_permalinks=6699925923386993)
 * [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
   * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
 * [sdimage_viewer: Stable diffusion image and meta info viewer](https://github.com/alongthecloud/sdimage_viewer)
