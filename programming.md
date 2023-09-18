@@ -2780,6 +2780,9 @@ Programming
 * [CNCF Publishes State of Cloud Native Development Report](https://www.infoq.com/news/2022/01/cncf-state-of-cloud-native/)
 * [CNCF는 PaaS를 대체한다](https://brunch.co.kr/@graypool/799)
 * [Cloud Native Deployment - Developer Wiki - Confluence](https://wiki.onap.org/display/DW/Cloud+Native+Deployment)
+* [Cloud Native | Paul Fremantle's Blog](http://pzf.fremantle.org/2010/05/cloud-native.html)
+  * [toc/DEFINITION.md at main · cncf/toc · GitHub](https://github.com/cncf/toc/blob/main/DEFINITION.md)
+  * [Cloud Native Landscape](https://landscape.cncf.io/)
 * [Netflix Drive: Building a Cloud-Native Filesystem for Media Assets](https://www.infoq.com/articles/netflix-drive-cloud-native-filesystem/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
@@ -5808,6 +5811,7 @@ Programming
 * [The Art of Software Development • Sander Mak • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=fUVfkLUmII4)
 * [How to Run Pre-Mortem Exercises Templates Included](https://www.atlassian.com/team-playbook/plays/pre-mortem) post mortem과 반대로 미리 실패를 가정해보고 어떤 요인에 의해서 그런지 분석하고 예방하는 방법
 * [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
+* [진짜 문제는 무엇이고, 가장 중요한 변수는 무엇인가?](https://brunch.co.kr/@graypool/1128) 기술 이야기는 아니나 중요한 부분, 생산 시스템의 심장 = 코드, 가장 중요한 변수, 고객 분류
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
