@@ -76,19 +76,10 @@ Artificial Intelligence
 * [Top 10 Recent AI videos on YouTube](http://www.kdnuggets.com/2017/05/top-10-recent-ai-videos-on-youtube.html)
 * [인공지능이 소프트웨어 개발자 모두를 먹어 치울까?](https://brunch.co.kr/@synabreu/18)
 * [All AI Learning Resources](https://medium.com/ai-in-medicines/all-ai-learning-resources-bc5f797d0cfe)
-* [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 * [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
 * [인공 지능(AI) 시대의 현실적 조언](http://channy.creation.net/blog/1145)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
-* NAVER Tech Talk
-  * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
-  * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
-  * [AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터](https://d2.naver.com/news/8228115)
-  * [AI 4차 (2018년 2월~6월)](https://d2.naver.com/news/6008687)
-  * [AI 5차 (2018년 7월~11월)](https://d2.naver.com/news/2657726) NLP
-  * [AI 6차 (2018년 12월~2019년 3월)](https://d2.naver.com/news/1369535)
-  * [NAVER Tech Talk: AI 7차 (2019년 1월, 5월~10월)](https://d2.naver.com/news/7618832)
 * [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 * [AI Blocks - A powerfull and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!](https://github.com/MrNothing/AI-Blocks)
 * [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
@@ -180,17 +171,6 @@ Artificial Intelligence
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 1편- 지표 선정 및 평가 데이터/환경 구축 | Architecture 101](https://architecture101.blog/2023/01/19/ai-%EB%AA%A8%EB%8D%B8-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B2%80%EC%A6%9D-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B3%B5%EA%B0%9C-%EA%B5%AD%EB%AF%BC%EC%95%88%EC%A0%84-%ED%99%95%EB%B3%B4-%EB%B0%8F/)
 * [AI 모델 및 데이터 검증 노하우 공개 국민안전 확보 및 검증 사업 회고 2편- 데이터 품질 평가 | Architecture 101](https://architecture101.blog/2023/02/11/ai-model_finding_missing_people/)
 * [쉽게 살 수 있을까 ? :: AI 서비스가 Powerful 한 이유, 결국 돈 문제](https://hl1itj.tistory.com/251)
-* [AI: Startup Vs Incumbent Value - by Elad Gil - Elad Blog](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
-  * [AI, 이번엔 다릅니다 – 스타트업 vs 기존 기업 (번역) – 이바닥늬우스](https://ebadak.news/2023/02/05/ai-startup-vs-incumbent-value/)
-  * 지난 10년 동안 많은 AI 스타트업이 있었지만, 좋은 성과를 내지 못하고
-    * 구글, 페이스북, 아마존 등 기존 기업이 AI를 더 잘 활용
-  * 이 이유는 10배짜리 제품을 만들기 못했고
-    * 대규모 데이터 세트를 얻기 어려웠고
-    * 시장환경도 쉽지 않았기 때문
-  * 하지만 새로 다가오는 AI 파도는 스타트업이 더 큰 가치를 만들 것이라고 믿는데
-    * 뛰어난 기술이 등장하고 있고
-    * 인프라를 제공하는 스타트업이 생겨나고 있고
-    * 기존에 확실히 1등이 없던 영역에서 사용사례가 나타나기 때문
 * [SaaS 프로덕트의 성공을 견인하는 Fly-wheel, 그리고 생성형 인공지능 애플리케이션 | by Coxwave | Coxwave 블로그 | Jan, 2023 | Medium](https://medium.com/coxwave%EB%B8%94%EB%A1%9C%EA%B7%B8/saas-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EC%9D%84-%EA%B2%AC%EC%9D%B8%ED%95%98%EB%8A%94-fly-wheel-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%9D%EC%84%B1%ED%98%95-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-a40f35a5e40a)
 * [NVIDIA’s New AI: Nature Videos Will Never Be The Same! - YouTube](https://www.youtube.com/watch?v=r2zv3sNsnqo)
 * [AI 반도체 시장에서 클라우드 기업의 역할](https://tech.kakaoenterprise.com/182)
@@ -207,7 +187,6 @@ Artificial Intelligence
 * [Landscape of AI/ML in 2023](https://www.slideshare.net/HyunJoonJung/landscape-of-aiml-in-2023)
 * [The AI Hierarchy of Needs | HackerNoon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 * [It's All About AI • Martin Förtsch, Thomas Endres & Jonas Mayer • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=krihq4iSaO0) 전반적인 역사 및 흐름
-* [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [AI 골드러시 시대.. 전통적 비즈니스 역량이 중요한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aigoldrush20280906)
 * [Strong AI: Provably Impossible — paul-folbrecht.net](https://www.paul-folbrecht.net/computer-science/strong-ai-provably-impossible)
 
@@ -304,6 +283,30 @@ Artificial Intelligence
   * [AI이미지 추출 (2/5)](https://tariat.tistory.com/360)
   * [사진 변환 (3/5)](https://tariat.tistory.com/365)
   * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)
+
+# News
+* [AI: Startup Vs Incumbent Value - by Elad Gil - Elad Blog](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
+  * [AI, 이번엔 다릅니다 – 스타트업 vs 기존 기업 (번역) – 이바닥늬우스](https://ebadak.news/2023/02/05/ai-startup-vs-incumbent-value/)
+  * 지난 10년 동안 많은 AI 스타트업이 있었지만, 좋은 성과를 내지 못하고
+    * 구글, 페이스북, 아마존 등 기존 기업이 AI를 더 잘 활용
+  * 이 이유는 10배짜리 제품을 만들기 못했고
+    * 대규모 데이터 세트를 얻기 어려웠고
+    * 시장환경도 쉽지 않았기 때문
+  * 하지만 새로 다가오는 AI 파도는 스타트업이 더 큰 가치를 만들 것이라고 믿는데
+    * 뛰어난 기술이 등장하고 있고
+    * 인프라를 제공하는 스타트업이 생겨나고 있고
+    * 기존에 확실히 1등이 없던 영역에서 사용사례가 나타나기 때문
+* [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
+* NAVER Tech Talk
+  * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
+  * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
+  * [AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터](https://d2.naver.com/news/8228115)
+  * [AI 4차 (2018년 2월~6월)](https://d2.naver.com/news/6008687)
+  * [AI 5차 (2018년 7월~11월)](https://d2.naver.com/news/2657726) NLP
+  * [AI 6차 (2018년 12월~2019년 3월)](https://d2.naver.com/news/1369535)
+  * [NAVER Tech Talk: AI 7차 (2019년 1월, 5월~10월)](https://d2.naver.com/news/7618832)
+* [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
+* [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
 
 # Tool
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
