@@ -248,6 +248,7 @@ Azure
 * [An introduction to the Azure OpenAI Service | BRK216 - YouTube](https://www.youtube.com/watch?v=HTw4cJy3XNk)
 * [AI Builder 에 들어온 ChatGPT. 이것을 자동화 할 수 없을까? 나도 앱이나 챗봇 등을 만들어 손하나 까닥이지 않고 싶다. 과연 될까요? 한번 느껴보세요! - YouTube](https://www.youtube.com/watch?v=TXQ5dtn_CSk) OpenAI service
 * [애저 OpenAI 서비스 배워보기](https://gist.github.com/justinyoo/e49ab5e63dc63bc28b582649dee42500)
+* [Retrieval-Augmented Generation(RAG) - Part 1](https://zigispace.net/1236)
 * [azure-openai-samples-kr/use_cases/kakao_navi/notebooks/kakao_navi.ipynb at main · HyounsooKim/azure-openai-samples-kr · GitHub](https://github.com/HyounsooKim/azure-openai-samples-kr/blob/main/use_cases/kakao_navi/notebooks/kakao_navi.ipynb) OpenAPI function call example
 * [azure-openai-proxy: Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings](https://github.com/stulzq/azure-openai-proxy)
 
