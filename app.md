@@ -2481,6 +2481,7 @@ App
   * [잠깐 20초만 한눈을 팔면, 멈춰 서는 WSL - 넷마블 기술 블로그](https://netmarble.engineering/wsl-status-changed-to-stopped-after-closing-terminal)
   * [wsl에서 파이참 터미널 열 때 가상환경 자동 활성화하는 방법](https://martinii.fun/437) pycharm
   * [WSL sudo 사용 시 Windows Hello 사용하기](https://velog.io/@composite/WSL-sudo-%EC%82%AC%EC%9A%A9-%EC%8B%9C-Windows-Hello-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+  * [WSL 2 + Kali : The EASY Way - Pentestmag](https://pentestmag.com/wsl2kali-the-easy-way/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
