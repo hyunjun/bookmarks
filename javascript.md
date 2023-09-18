@@ -2781,6 +2781,11 @@ Javascript
 * [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
+* [Biome](https://github.com/biomejs)
+  * [Announcing Biome](https://biomejs.dev/blog/annoucing-biome)
+    * 프론트엔드 툴 체인인 Rome이 공식적으로 중단되면서 커뮤니티가 포크한 프로젝트가 Biome
+    * Rome은 Meta의 OSS로 시작되었다가 처음 만든 Sebastian McKenzie가 Rome Tools Inc를 차렸지만, 회사는 잘 안되었고 직원들은 해고
+    * 메인테이너들은 여전히 프로젝트에 기여하고 싶지만, Rome 상표권 등의 제약이 있어서 Biome라는 새로운 이름으로 포크
 * [**Compressing JavaScript**](https://www.patterns.dev/posts/compression/)
   * [Compressing JavaScript | Patterns.dev.kr - 모던 웹 앱 디자인 패턴](https://patterns-dev-kr.github.io/performance-patterns/compressing-javascript/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
@@ -4451,6 +4456,12 @@ Javascript
     * 그로 인해 얻을 수 있는 부분과 어려워지는 부분까지 설명
 * [Devtools for React Server Components](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
   * RSC(React Server Component) payload를 네트워크 탭에서 보면 구조를 파악하기 힘듦. RSC Devtools은 RSC payload를 시간대별로 탐색, 분석할 수 있도록 도움. chrome extension 형태의 비공식 Devtool
+* [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+  * RSC를 설명하기 전에 SSR과 하이드레이션 과정을 그림과 함께 설명, RSC라는 아이디어가 한 번에 서버 데이터까지 채워서 내려주어서 성능을 개선하려고 했다는 부분을 이해하기 쉽게 설명
+  * 서버 컴포넌트를 서버에서 한 번만 렌더링 되고 RSC를 사용할 수 있는 방법은 Next.js 13.4+에서 App Router를 쓰는 방법뿐
+  * RSC에서는 모든 컴포넌트가 서버 컴포넌트라고 가정하기 때문에
+    * 클라이언트 컴포넌트는 'use client' 디렉티브를 써서 옵트인 해야 하고 이를 사용하면 클라이언트 바운더리가 생겨서 하위 컴포넌트는 모두 JS 번들에 포함되어 전송
+    * 왜 이 경계를 따로 설정해야 하는지와 모든 컴포넌트가 클라이언트 경계에 포함되지 않도록 관리하는 방법도 소개
 * [How to build a Movie App in React using TMDB API? | Tekolio](https://tekolio.com/how-to-build-a-movie-app-in-react-using-tmdb-api/)
 * [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
   * [번역 2023년 버전 리액트 프로젝트를 시작하는 방법](https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023) vite next.js astro
@@ -4516,7 +4527,6 @@ Javascript
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 * [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
-* [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Why I’m excited with React Hooks?](https://itnext.io/why-im-excited-with-react-hooks-5a8601ac43f7)
 * [How to integrate React Hooks into your project without changing your Redux code](https://medium.freecodecamp.org/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0)
 * [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
@@ -5276,6 +5286,10 @@ Javascript
   * [React Query vs SWR | MADTECH](https://tech.madup.com/react-query-vs-swr/)
   * [네트워크 통신 캐시를 위한 SWR : 네이버 블로그](https://blog.naver.com/pjt3591oo/222616145005)
 * [Utopia - a design and coding environment for React projects and components that runs in the browser](https://utopia.app/)
+* [v0.dev by Vercel Labs](https://v0.dev/)
+  * Vercel Labs에서 프롬프트를 입력하면 UI 컴포넌트를 생성해 주는 서비스로 현재 프라이빗 알파로 승인을 받아야 사용 가능
+  * 현재 코드는 TailwindCSS와 Shadcn UI를 사용한 React 코드 생성
+  * 사용하는 영상이나 explore 페이지를 보면 어떻게 만들어 주는지 알 수 있음
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 * [zustand: 🐻 Bear necessities for state management in React](https://github.com/pmndrs/zustand)
