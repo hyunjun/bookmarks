@@ -101,6 +101,11 @@ Monitoring
   * [Introducing programmable pipelines with Grafana Agent Flow | Grafana Labs](https://grafana.com/blog/2022/09/29/introducing-programmable-pipelines-with-grafana-agent-flow/)
     * Agent는 Grafana 스택에 최적화되어 매트릭, 로그 등을 수집해서 보내주는 에이전트
     * 이 에이전트에 프로그래밍할 수 있는 Flow가 실험적으로 추가되어 쉽게 설정해서 사용해 볼 수 있고 복잡한 워크플로를 정의해서 사용 가능
+* [grafana/beyla: eBPF-based autoinstrumentation of HTTP and HTTPS services](https://github.com/grafana/beyla)
+  * [Open source ebpf auto-instrumentation with Grafana Beyla](https://grafana.com/blog/2023/09/13/grafana-beyla-open-source-ebpf-auto-instrumentation/)
+    * Grafana에서 애플리케이션을 eBPF로 자동 계측할 수 있는 Beyla 프로젝트를 오픈소스로 공개
+    * 보통 계측하려면 코드에 삽입해야 하므로 관리가 많이 필요한데 eBPF를 써서 자동 계측을 사용하면 쉽게 계측을 추가 가능
+    * 기본적인 트랜잭션의 스팬과 HTTP/S, gRPC의 RED(Rate-Errors-Duration) 메트릭 획득 가능
 * Grafana Cloud
   * [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
   * [Introducing Adaptive Metrics: A new cost management feature in Grafana Cloud | Grafana Labs](https://grafana.com/blog/2023/05/09/adaptive-metrics-grafana-cloud-announcement/)
@@ -119,6 +124,10 @@ Monitoring
 * Grafana k6 [Load testing for engineering teams | Grafana k6](https://k6.io/)
   * [Deployment-time testing with Grafana k6 and Flagger | Grafana Labs](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
     * 성능 테스트 도구인 Grafana k6와 Kubernetes의 블루/그린, 카나리 배포를 지원하는 [Flagger](https://flagger.app/)를 조합해서 카나리 배포에서 트래픽을 받기 전에 k6로 성능 테스트하는 방법
+* [Grafana Scenes | Grafana Scenes](https://grafana.github.io/scenes/)
+  * [Grafana Scenes is generally available: start building highly interactive apps today | Grafana Labs](https://grafana.com/blog/2023/09/12/grafana-scenes-is-generally-available-start-building-highly-interactive-apps-today/)
+    * Grafana를 확장할 수 있는 프론트엔드 라이브러리, Grafana Scenes가 정식 출시
+    * Scenes를 사용해서 Synthetic Monitoring같은 새로운 기능을 Grafana에 추가할 수 있는 Grafana 앱 작성 가능
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
