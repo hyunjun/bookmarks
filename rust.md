@@ -334,6 +334,7 @@
 * [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
 * [RustPython A Python-3 (CPython >= 3.5.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
   * [RustPython - 공개SW 포털](https://www.oss.kr/contribution_academy_project/show/122cbe35-df6d-4702-9b5b-3064cde4a816)
+* [RustRover 소개 - JetBrains의 독립실행형 Rust IDE | The IntelliJ Rust Blog](https://blog.jetbrains.com/ko/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [rust-snags: Gotchas and warts in Rust Lang](https://github.com/QuineDot/rust-snags)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
