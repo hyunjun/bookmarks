@@ -67,5 +67,7 @@ Self Control
 
 * [윌 스미스는 어떻게 대처해야 했을까? < 인문 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=927) 분노
 
+* [노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA - YouTube](https://www.youtube.com/watch?v=lkRQuMIbFYc)
+
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
