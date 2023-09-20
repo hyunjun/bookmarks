@@ -34,6 +34,7 @@ Erlang
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
 * [JVM struggles and the BEAM. I’d like to talk about how the… | by Joel Kemp | Medium](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 * [Erlang, the Hidden Gem: Solving Problems at Scale for 30+ Years • Francesco Cesarini • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=-m31ag9z4VY)
+* [Problem Solving with Erlang & the BEAM • Robert Virding & Francesco Cesarini • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=I7A5Y5wHDHI)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)
