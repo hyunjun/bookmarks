@@ -3445,6 +3445,7 @@ Javascript
   * [Express JS Tutorial - 1 - Get API | Express JS for beginners - YouTube](https://www.youtube.com/watch?v=EAZbZsct48k)
   * [Express JS Tutorial - 2 - Create a GET api - YouTube](https://www.youtube.com/watch?v=c4PH09FpzRk)
   * [데이터 변환 계층 (Data Transform Layer)](https://jojoldu.tistory.com/685) DTO
+  * [Automated Logging in Express.js. Learn the significance of Logging, how… | by Mirza Leka | Sep, 2023 | Medium](https://mirzaleka.medium.com/automated-logging-in-express-js-a1f85ca6c5cd)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
@@ -5510,6 +5511,7 @@ Javascript
 * [2. 좋은 함수 만들기 - 암묵적 입력/출력](https://jojoldu.tistory.com/703)
 * [3. 좋은 함수 만들기 - Null 을 다루는 방법](https://jojoldu.tistory.com/721)
 * [Three common types of test automation](https://web.dev/ta-types/) 웹 테스트 종류에는 어떤 것들이 있는지 소개하고 관련된 라이브러리도 간략하게 제시
+* [프론트엔드 테스트 코드와 의존성 | JBEE.io](https://jbee.io/developments/frontend-testing-and-dependency/)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
