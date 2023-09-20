@@ -107,6 +107,7 @@ Business
   * [성인 교육 회사(클래스101, 패스트캠퍼스)의 한계와 성장 전략](https://www.slid.cc/ko/share/vdocs/%EC%84%B1%EC%9D%B8-%EA%B5%90%EC%9C%A1-%ED%9A%8C%EC%82%AC%ED%81%B4%EB%9E%98%EC%8A%A4101-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%EC%9D%98-%ED%95%9C%EA%B3%84%EC%99%80-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5-9dda16356f664174a61f4f00bf4eb246)
 * [왓차와 오늘의집 비즈니스의 결정적인 차이점 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=7LNhvZblRMc)
 * [마이크로소프트는 매년 100조씩 쓴다 (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=oijhx4XsRRw)
+* [월마트 잘 나가는데 이마트는 왜 이렇지? (이재용 회계사) - YouTube](https://www.youtube.com/watch?v=WLNWs8TW9-4) 회사의 방향성의 중요성과 IR 자료등에 대해 좋은 이야기
 * [재무분석 10.무신사 - 21년 매출,이익 상세분석](https://brunch.co.kr/@choicepark/29)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
