@@ -306,6 +306,7 @@ Artificial Intelligence
     * 다른 산업과 다르게 AI 기업들은 유료 마케팅 없이 성장, 소비자는 생성형 AI에 기꺼이 비용을 지불해서 50개 제품 중 90%가 이미 수익
     * 리소스를 앱에 분산하고 싶지 않아서 대부분 웹을 기반으로 제공, 모바일 앱으로 제공하는 서비스들이 나오고 있고 참여도도 훨씬 높기 때문에 앞으로는 모바일 우선 생성형 AI 제품이 더 등장할 것
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
+* [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
   * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
   * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
@@ -316,6 +317,7 @@ Artificial Intelligence
   * [NAVER Tech Talk: AI 7차 (2019년 1월, 5월~10월)](https://d2.naver.com/news/7618832)
 * [TLDR 오늘의 AI 뉴스, 2023-08-31: OpenAI, 매출 10억 달러에 근접 👋, 구글의 듀엣 AI 🤖, 범용 의료 이미지 세그먼테이션 🏥 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-08-31-openai-10-ai/2379)
 * [TLDR 오늘의 AI 뉴스, 2023-09-12: 메타의 GPT-4 경쟁자 개발 중 🥷, 프로젝트 구텐베르크, AI 오디오북 출시 📚, 자율 주행 자동차 및 언어 안내 🚗 - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-12-gpt-4-ai/2466)
+* [TLDR 오늘의 AI 뉴스, 2023-09-19: Writer사社, 1억 달러 규모의 시리즈 B 투자 유치 💰, 오픈소스 AI가 승리하는 이유 💪, AI를 규제하기엔 너무 이르다 🧑‍⚖️ - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/tldr-ai-2023-09-19-writer-1-b-ai-ai/2505)
 
 # Tool
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
