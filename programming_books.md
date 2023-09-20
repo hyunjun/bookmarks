@@ -3599,6 +3599,7 @@ Programming Books
 * [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
   * ★★★★☆ 2022.09.19~20 예상보다는 초보자용 도서였지만 내용은 좋음
   * 탐라 문005.133-스67ㅋ
+  * [클린 코드, 이제는 파이썬이다](https://www.onlybook.co.kr/entry/clean-python)
   * [독서광 클린 코드 이제는 파이썬이다](https://jhrogue.blogspot.com/2022/08/blog-post.html)
   * [Invent with Python - Beyond the Basic Stuff with Python](https://inventwithpython.com/#beyond)
   * [BEYOND THE BASIC STUFF WITH PYTHON 클린 코드 이제는 파이썬이다](https://github.com/hyunjun/bookmarks/blob/master/programming_books/beyond_the_basic_stuff_with_python.md)
