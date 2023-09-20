@@ -3275,6 +3275,7 @@ Javascript
   * [“제 2의 노드JS 노린다” 오픈소스 런타임 환경 ‘번’이란? - ITWorld Korea](https://www.itworld.co.kr/news/258112)
   * [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
     * [Bun 1.0 is here - YouTube](https://www.youtube.com/watch?v=BsnCpESUEqM) 
+  * [내일까지 Bun으로 다 바꿔오세요 (Bun vs Node.js vs Spring vs Python) - YouTube](https://www.youtube.com/watch?v=a8uPDppckQk)
   * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
   * [transbun](https://github.com/Huansock/transbun)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
