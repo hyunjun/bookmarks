@@ -990,6 +990,9 @@ Java
     * Dispatchers.LOOM(버츄얼 스레드 100만개) : 1초
   * jdk19 이전 버전에선 최대치가 2번까지인데 스레드를 5000개나 만들면 하드웨어 자원을 엄청나게 먹기 때문에 사실상 불가능한 방식
   * 메모리를 거의 안먹는 공짜 수준의 버츄얼 스레드 + 코루틴이 병렬처리에 매우 강함
+* [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
+* [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
+* [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
