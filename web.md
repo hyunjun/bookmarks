@@ -844,6 +844,7 @@ Web
     * 이 함수들을 사용하면 이전에는 불가능했던 CSS 레벨에서 수학적 계산을 보다 정교하게 수행
   * 이 글에선 이들 함수를 활용해 pseudo-random 값들을 생성해 애니메이션이나 위치 등에서 활용할 수 있는 방법 소개
 * [요소가 하나만 있을 때 그 요소에 적용하는 CSS 가상 선택자 :only-child, 언제 사용하면 좋은가? | 웹으로 말하기](https://mytory.net/archives/14818)
+* [CSS Tip hover시 밑줄 그을 때 움찔 하는 것을 막기 | 웹으로 말하기](https://mytory.net/archives/14826)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
