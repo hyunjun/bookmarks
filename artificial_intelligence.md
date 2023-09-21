@@ -305,6 +305,8 @@ Artificial Intelligence
     * 대부분 카테고리에서 2배 미만의 격차를 보여서 최근 성장세를 생각하면 충분히 극복할 수 있는 차이
     * 다른 산업과 다르게 AI 기업들은 유료 마케팅 없이 성장, 소비자는 생성형 AI에 기꺼이 비용을 지불해서 50개 제품 중 90%가 이미 수익
     * 리소스를 앱에 분산하고 싶지 않아서 대부분 웹을 기반으로 제공, 모바일 앱으로 제공하는 서비스들이 나오고 있고 참여도도 훨씬 높기 때문에 앞으로는 모바일 우선 생성형 AI 제품이 더 등장할 것
+* [감성 AI 시장, 얼마나 커질까? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/emotion-ai-market/)
+* [Generative AI’s Act Two | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
