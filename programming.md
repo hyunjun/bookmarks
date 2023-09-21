@@ -1917,6 +1917,7 @@ Programming
 * [Domain Storytelling • Stefan Hofer, Henning Schwentner & Avraham Poupko • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zx1C_MKncv0)
 * [NHN FORWARD 22 DDD 뭣이 중헌디? 🧐 - YouTube](https://www.youtube.com/watch?v=6w7SQ_1aJ0A)
 * [모두를 위한 DDD | 오토피디아 블로그](https://blog.doctor-cha.com/introduction-to-domain-driven-design-for-everyone)
+* [값 객체(Value Object)를 활용하여 변경 용이성 개선하기 | by 설연수 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%EA%B0%92-%EA%B0%9D%EC%B2%B4-value-object-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B3%80%EA%B2%BD-%EC%9A%A9%EC%9D%B4%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-7457787b84c0)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -3905,6 +3906,7 @@ Programming
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
   * [기계번역 The NeuVector Difference – 098](https://www.098.co.kr/%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD-the-neuvector-difference/)
+* [<NHN Cloud 보안 백서>를 소개합니다 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/372)
 * NTS [Network Time Security · Cloudflare Time Services docs](https://developers.cloudflare.com/time-services/nts/)
   * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
