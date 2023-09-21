@@ -1283,6 +1283,7 @@ Python
     * [CPython 3.11 recursive benchmark](https://gist.github.com/corona10/bb782b1d85a501747d2738d724cb9dd1)
   * pyroscope [Open Source Continuous Profiling Platform | Debug performance issues down to a single line of code | Open Source Continuous Profiling Platform](https://pyroscope.io/)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  * [Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals](https://github.com/plasma-umass/scalene)
   * [Sciagraph, performance observability for Python batch jobs](https://www.sciagraph.com/)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
@@ -3173,6 +3174,7 @@ Python
 * [PyData Chicago: Running Notebooks in Production? Blessing or Curse? by Eduardo Blancas - YouTube](https://www.youtube.com/watch?v=ywL9egN1Iyk)
 * [예쁘게! 자유롭게! 테마 설정](https://bio-info.tistory.com/15)
 * [주피터 노트북 ToC 생성 - 미완성의신](https://unfinishedgod.netlify.app/2023/05/14/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-toc-%EC%83%9D%EC%84%B1/)
+* [From Jupyter Notebooks to a Python Package: The Best of Both Worlds — Sin-seok SEO - YouTube](https://www.youtube.com/watch?v=Y2GnuvYv6uw)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -3747,6 +3749,7 @@ Python
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [HPy - A better C API for Python | HPy](https://hpyproject.org/)
   * [HPy: a better C API for Python - presented by Ronan Lamy - YouTube](https://www.youtube.com/watch?v=L8X2d_O5IMo)
+  * [HPy: The Future of Python Native Extensions — Štěpán Šindelář, Florian Angerer - YouTube](https://www.youtube.com/watch?v=naFaIBtpvx4)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
@@ -4433,6 +4436,7 @@ Python
 * [Convert PY to EXE Automatically - YouTube](https://www.youtube.com/watch?v=OZSZHmWSOeM)
 * [Packaging Python in 2022 - presented by Jeremiah Paige - YouTube](https://www.youtube.com/watch?v=RXoDukRu9G4)
 * [Packaging Python in 2022 - YouTube](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
+* [An unbiased evaluation of environment management and packaging tools — Anna-Lena Popkes - YouTube](https://www.youtube.com/watch?v=3-drZY3u5vo)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
