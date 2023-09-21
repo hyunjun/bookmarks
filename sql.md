@@ -344,6 +344,7 @@ SQL
 * [DuckDB is an in-process SQL OLAP Database Management System](https://github.com/duckdb/duckdb)
 * [Eduardo Blancas - Using embedded SQL engines for plotting massive datasets on a laptop - YouTube](https://www.youtube.com/watch?v=M2hoEYXkBa8) sqlite
 * [FOSDEM 2023 - DuckDB In The Python Land - Pedro Holanda - YouTube](https://www.youtube.com/watch?v=-rCZQHXSunc)
+* [DuckDB: Bringing analytical SQL directly to your Python shell — Pedro Holanda - YouTube](https://www.youtube.com/watch?v=dVzfNZN9NKI)
 
 # Library
 * [alasql.org](http://alasql.org/)
