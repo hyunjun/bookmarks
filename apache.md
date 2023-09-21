@@ -507,8 +507,6 @@ Apache
   * [Online Event Processing Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 * [The First Annual State of Apache Kafka Client Use Survey](https://www.confluent.io/blog/first-annual-state-apache-kafka-client-use-survey/) Kafka와 함께 어떤 언어를 많이 사용하는지와 이유
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
-* [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
-  * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
 * [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
@@ -602,6 +600,8 @@ Apache
 * [**cloudurable.com/categories/kafka**](http://cloudurable.com/categories/kafka/index.html)
   * [**Kafka Tutorial 13: Creating Advanced Kafka Producers in Java**](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)
     * 압축방식은 lz4가 좋으며, decompress할때 사이즈 넣어야 snappy보다 느린 현상이 발생하지 않음
+* [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
+  * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
 * [Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321)
   * kafka는 json에 대한 serde를 제공하지 않음(구현은 가능)
   * json보다 avro를 쓸 이유
@@ -609,8 +609,9 @@ Apache
       * 1. 데이터 축소 : 필드명을 보내지 않아도 됨 >> 데이터 : 매직바이트 + schemaID + value
       * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
     * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
-* [(Kafka) 객체를 JSON 타입으로 넘겨보자 :: 당근케잌](https://yeon-kr.tistory.com/181)
 * [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
+* [Confluent Schema Registry 도입기!. Schema Registry 도입을 위한 PoC 여정을 소개합니다! | by Suyeon Kim | Sep, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)
+* [(Kafka) 객체를 JSON 타입으로 넘겨보자 :: 당근케잌](https://yeon-kr.tistory.com/181)
 * [Kafka 스키마 관리, Schema Registry](https://dol9.tistory.com/274)
     * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
 * [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster)
