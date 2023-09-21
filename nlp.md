@@ -1401,7 +1401,6 @@ NLP
 * [Foundation Model Ops: Powering the Next Wave of Generative AI Apps - Foundation Capital](https://foundationcapital.com/foundation-model-ops-powering-the-next-wave-of-generative-ai-apps/)
 * [Unleashing the Power of Large Language Models: Building an AI Chatbot for Private Knowledge Base Queries | by Frank Adams | Jun, 2023 | Medium](https://medium.com/@FrankAdams7/unleashing-the-power-of-large-language-models-building-an-ai-chatbot-for-private-knowledge-base-eb8cf31c7fcc)
   * [YoonSeok Choi - 기업의 자체 자료에 대해 ChatGPT처럼 질문을 하고 답변을 얻고자 할 경우의 프로세스를... | Facebook](https://www.facebook.com/yoonseok.choi.14/posts/pfbid0297sVEgRTxD76GDGDGXfBQH2axD2A8fFLJi8kVZY45Az3fLf4bPPapGBJGdbH23dGl)
-* [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671) QLoRA
 * [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [Large Language Models: Friend, Foe, or Otherwise • Alex Castrounis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=05GkNdD7JGo)
 * [“하나의 모델이 만능은 아니다” 챗GPT를 대체할 만한 14가지 LLM - ITWorld Korea](https://www.itworld.co.kr/news/298207)
@@ -1633,6 +1632,9 @@ NLP
     * [oslo/FEATURES.md at tp-3d · EleutherAI/oslo · GitHub](https://github.com/EleutherAI/oslo/blob/tp-3d/FEATURES.md)
 * [PromptCraft-Robotics: Community for applying LLMs to robotics and a robot simulator with ChatGPT integration](https://github.com/microsoft/PromptCraft-Robotics)
 * [pyllms: Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark](https://github.com/kagisearch/pyllms)
+* QLoRA  
+  * [적은 GPU 메모리로 파라미터수 큰 언어 모델 학습을… - 테크레시피](https://techrecipe.co.kr/posts/54671)
+  * [QLoRA is all you need (Fast and lightweight model fine-tuning) - YouTube](https://www.youtube.com/watch?v=J_3hDqSvpmg)
 * [Qwen-7B: The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen-7B)
   * [알리바바, 오픈소스 LLM 출시...메타 '라마2'와 경쟁 < Global < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=152752)
 * [sec-insights: A real world full-stack application using LlamaIndex](https://github.com/run-llama/sec-insights)
