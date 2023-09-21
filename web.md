@@ -846,6 +846,7 @@ Web
 * [요소가 하나만 있을 때 그 요소에 적용하는 CSS 가상 선택자 :only-child, 언제 사용하면 좋은가? | 웹으로 말하기](https://mytory.net/archives/14818)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
+* [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
