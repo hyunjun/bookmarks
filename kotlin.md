@@ -409,6 +409,7 @@
 * [코루틴 스코프 (CoroutineScope)](https://brunch.co.kr/@mystoryg/187)
 * [코루틴 구조화된 동시성](https://brunch.co.kr/@mystoryg/188)
 * [코루틴 Job](https://brunch.co.kr/@mystoryg/190)
+* [코틀린 async](https://brunch.co.kr/@mystoryg/191)
 * [kotlinx.coroutines: Library support for Kotlin coroutines](https://github.com/Kotlin/kotlinx.coroutines)
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
