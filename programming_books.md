@@ -387,6 +387,7 @@ Programming Books
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://github.com/hyunjun/bookmarks/blob/master/programming_books/more_effective_agile.md)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders | by Jun | Jul, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-more-effective-agile-a-roadmap-for-software-leaders-56f66796e26)
   * [애자일 조직은 이렇게 일합니다 More Effective Agile A Roadmap for Software Leaders](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EC%A1%B0%EC%A7%81%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4-More-Effective-Agile-A-Roadmap-for-Software-Leaders)
+  * [소개 - 애자일 개발 특징 8가지 - YouTube](https://www.youtube.com/watch?v=jfhogrx9XxU)
 * [애자일 전략](https://ilsang2.tistory.com/950)
   * ★★★★☆ 2022.08.23
   * 우당 문325.19-릭49ㅇ
