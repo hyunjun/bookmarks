@@ -1045,6 +1045,7 @@ App
     * [Python in Visual Studio Code – June 2022 Release - Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-june-2022-release/)
     * [Passion is like genius; a miracle. - VSCode 에서 내가 작성한 모듈을 찾지 못해 ModuleNotFound가 나올 때](https://mkseo.pe.kr/blog/?p=2743)
     * [A Python VS Code Show and Tell: Live from PyCon 2023 - YouTube](https://www.youtube.com/watch?v=z7SVieA2VwI)
+    * [Python +VS Code: Revolutionizing The Way You Do Data Science - YouTube](https://www.youtube.com/watch?v=eneTYlnYt9A)
   * react
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
