@@ -1226,6 +1226,7 @@ Deep Learning
 * [생성모델부터 Diffusion까지 4회 I 모두의연구소 모두팝 - YouTube](https://www.youtube.com/watch?v=KzrdkZUrbPk)
 * [생성모델부터 Diffusion까지 5회 I 모두의연구소 모두팝 - YouTube](https://www.youtube.com/watch?v=Ec569AV6YD8)
 * [생성모델부터 Diffusion까지 6회 I 모두의연구소 모두팝 - YouTube](https://www.youtube.com/watch?v=xVjrS-n9o68)
+* [Games of Life: generative art in Python — Łukasz Langa - YouTube](https://www.youtube.com/watch?v=1NRYUV5aa6s)
 * Alias-Free GAN (StyleGAN3)
   * [Alias-Free GAN (StyleGAN3) 이론 간단리뷰 :: Ostin](https://ostin.tistory.com/53)
   * [Alias-Free GAN (StyleGAN3) 리뷰 - Architecture :: Ostin](https://ostin.tistory.com/55)
