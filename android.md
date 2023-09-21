@@ -200,7 +200,6 @@ Android
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
 * [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
 * [안드로이드 커스텀뷰, 커스텀 뷰그룹 만들기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/08/31/Custom-View.html)
-* [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 * [Android Emulator 30.0.10 ~ Freeform Window Mode](http://pluu.github.io/blog/android/emulator/2020/06/14/emulator-freeform/)
 * [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
 * [Linux를 위한 6가지 최고의 Android 에뮬레이터](https://open-support.tistory.com/entry/Linux%EB%A5%BC-%EC%9C%84%ED%95%9C-6%EA%B0%80%EC%A7%80-%EC%B5%9C%EA%B3%A0%EC%9D%98-Android-%EC%97%90%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0)
@@ -292,6 +291,7 @@ Android
 * [PLT Hook 체크를 위한 Android so 파일 파싱 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/371)
 
 # Android Studio
+* [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
 * [요약 Android Studio/ Tips and Tricks ~ Part2 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part2/)
 * [요약 Android Studio/ Tips and Tricks ~ Part3 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/07/io19-android_studio_tips_and_tricks_part3/)
@@ -313,6 +313,7 @@ Android
 * [내 장비의 안드로이드 스튜디오 빌드능력 벤치마킹하기](https://cliearl.github.io/posts/android/build-performance-benchmark/)
 * [Pluu Dev - Android Studio Flamingo ~ New settings plugin](https://pluu.github.io/blog/android/2023/01/24/android_dsl/)
 * [안드로이드 스튜디오 Electric Eel 로 업데이트 후 발생하는 JAVA_HOME 환경 변수 문제 해결하기](https://www.androidhuman.com/2023-01-27-fix-jre-path-android-studiio-ee)
+* [Pluu Dev - 발표자료 DroidKnights 2023 ~ Re:Android Studio 설정 살펴보기 및 생산성 올리기](https://pluu.github.io/blog/android/2023/09/18/droidknights-2023/)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
