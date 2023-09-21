@@ -277,14 +277,6 @@ AWS
 * [AWS Rstudio Server 설치 (Linux)](https://unfinishedgod.github.io/docs/aws/install_r/install_r.html)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
-* ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
-* [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
-* [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
-* [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
-* [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
-* [Amazon EBS 프로비저닝 IOPS – 10년간의 변화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
-  * AWS 블록 스토리지 서비스인 EBS의 10년간의 아키텍처 변화를 간략하게 소개
-  * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
@@ -978,6 +970,17 @@ AWS
 * [Part 11. 간략하게 살펴보는 DynamoDB - YouTube](https://www.youtube.com/watch?v=fhoMK2hXLpE)
 * [Amazon DynamoDB: Evolution of a Hyperscale Cloud Database Service - YouTube](https://www.youtube.com/watch?v=WUrkct1pisU)
 * [Amazon DynamoDB를 위한 백업 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/backup-strategies-for-amazon-dynamodb/)
+
+# EBS Elastic Block Storage
+* ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
+* [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
+* [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
+* [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
+* [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
+* [Amazon EBS 프로비저닝 IOPS – 10년간의 변화 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
+  * AWS 블록 스토리지 서비스인 EBS의 10년간의 아키텍처 변화를 간략하게 소개
+  * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
+* [Amazon Elastic Block Store io2 볼륨용 NVMe 예약 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
