@@ -112,6 +112,7 @@ Apache
 * [Apache Arrow and Java: Lightning Speed Big Data Transfer](https://www.infoq.com/articles/apache-arrow-java/)
 * [Apache Arrow: Read DataFrame With Zero Memory | Towards Data Science](https://towardsdatascience.com/apache-arrow-read-dataframe-with-zero-memory-69634092b1a)
 * [Apache Arrow Tutorials Series' Articles - DEV Community](https://dev.to/jayclifford345/series/21730)
+* [Apache Arrow and Substrait, the secret foundations of Data Engineering — Alessandro Molina - YouTube](https://www.youtube.com/watch?v=5_EF4KC8XO4)
 
 # Atlas
 * [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
