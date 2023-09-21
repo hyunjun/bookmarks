@@ -340,3 +340,5 @@ Flutter
 * [Flutter Tutorial 2022 | How to create, design, validate and save forms in Flutter](https://morioh.com/p/7022752751b6)
 * [Flutter 사용기 - 엘키의 주절 주절](https://elky84.github.io/2023/02/26/flutter_usage/)
 * [Android 신입 개발자, Flutter로 기술 전환 가보자고](https://engineering.linecorp.com/ko/blog/flutter-onboarding-for-new-employees)
+* [Dart 시작하기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/dart-for-beginners)
+* [Flutter 로 웹툰 앱 만들기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/flutter-for-beginners)
