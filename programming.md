@@ -3529,6 +3529,7 @@ Programming
 * [토스ㅣSLASH 23 - 유연하고 안전하게 배포 Pipeline 운영하기 - YouTube](https://www.youtube.com/watch?v=SRLeXvA-o-U)
 * [Announcing A New Way of Learning: The CI/CD Learning Tool - Semaphore](https://semaphoreci.com/blog/cicd-learning-tool)
 * [10분 테코톡 이레, 준팍의 빌드와 배포 - YouTube](https://www.youtube.com/watch?v=4LBMCHFLLpg)
+* [**Optimizing Your CI Pipelines — Sebastian Witowski - YouTube**](https://www.youtube.com/watch?v=goWcDalv_FQ)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
