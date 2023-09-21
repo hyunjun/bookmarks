@@ -2202,6 +2202,7 @@ Docker
 * [컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides](https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/edit)
 * [4. 쿠버네티스 네트워크 이해 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-06-jennifer-kubernetes-4/)
 * [5. 쿠버네티스 인그레스, AWS LB Controller, External DNS Controller 이해 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-13-jennifer-kubernetes-5/)
+* [6. 쿠버네티스 스토리지의 이해 및 EKS 환경 CSI Driver 스토리지 실습 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-09-20-jennifer-kubernetes-6/)
 * Calico
   * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
   * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
