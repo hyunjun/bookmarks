@@ -338,6 +338,7 @@ AWS
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
 * [Your own AI-powered Call Center on AWS in less than 1 hour | by Thiago de Faria | ITNEXT](https://itnext.io/your-own-ai-powered-call-center-on-aws-in-less-than-1-hour-d0494049977c)
 * [determined-ai/determined: Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
+* [Amazon EC2에서 AlphaFold v2.0 실행하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/run-alphafold-v2-0-on-amazon-ec2/)
 * [AWS and their Billions in IPv4 addresses](https://toonk.io/aws-and-their-billions-in-ipv4-addresses/index.html)
 * [**코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog**](https://blog.opsnow.com/15)
 * [AWS를 이용해 SPA 호스팅하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
@@ -727,6 +728,7 @@ AWS
 * [AWS IoT Core를 활용해 CloudWatch 알람을 음성으로 수신하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-iot-core-cloudalarm/)
 * [CloudWatch Agent에서 HTTP Proxy를 통하는 모니터링 방법 | by Hedy Kim | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/cloudwatch-agent%EC%97%90%EC%84%9C-http-proxy%EB%A5%BC-%ED%86%B5%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%A9%EB%B2%95-268e7f61c29a)
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
+* [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -1869,6 +1871,7 @@ AWS
 * [Dynamic A/B testing on Amazon Personalize & SageMaker](https://catalog.us-east-1.prod.workshops.aws/workshops/4d59c55e-7c8e-4022-b9d2-5883ab70feea/ko-KR)
 * [롯데ON 사례로 본 개인화 추천 시스템 구축하기, 1부 : Dynamic A/B Testing 아키텍처 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-dynamic-ab-test/)
 * [롯데ON 사례로 본 개인화 추천 시스템 구축하기, 2부 : Amazon SageMaker를 활용한 MLOps 구성 및 추천 모델 실시간 서비스 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-ncf-mlops/)
+* [KT, Amazon SageMaker를 이용한 ViT 기반 Food Tag 모델의 학습 시간 단축 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kt-ai-food-tag-on-sagemaker/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
@@ -2088,6 +2091,7 @@ AWS
       * 이를 잘못 관리하면 특정 디스크에 핫스팟 발생
       * 이를 균등하게 분산하고 복제는 이 부분에서도 도움
   * 특히 S3에 합류한 이후 소프트웨어로만 생각하는 것으로 충분치 않고 S3라는 시스템은 이를 운영하는 조직과 사용하는 고객의 코드도 포함된다는 것을 배움
+* [Spring Boot에서 S3에 파일을 업로드하는 세 가지 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11392/)
 * [glacier_deep_archive_backup: Extremely low cost backup/restore for S3 Glacier Deep Archive](https://github.com/mrichtarsky/glacier_deep_archive_backup)
 * [glacier-restore: Utility script to restore files on AWS S3 that have the GLACIER storage class.](https://github.com/ryujt/glacier-restore)
 * [mountpoint-s3: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system](https://github.com/awslabs/mountpoint-s3)
