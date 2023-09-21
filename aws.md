@@ -2312,6 +2312,7 @@ AWS
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
   * [AutoScaling Ec2 Instances based on CPU usage using Terraform | by jaffar shaik | Medium](https://jaffarshaik.medium.com/autoscaling-ec2-instances-based-on-cpu-usage-using-terraform-9c12edf6c1d5)
 * [OpenTofu](https://opentofu.org/)
+  * [테라폼의 포크버전 OpenTF가 OpenTofu로 이름을 변경 | GeekNews](https://news.hada.io/topic?id=10975)
 * [terraform-aws-container: 🌳 A sustainable Terraform Package which creates resources for Container Services on AWS](https://github.com/tedilabs/terraform-aws-container)
   * [테라폼으로 ECR 관리하기 (How to Manage ECR with Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/terapomeuro-ecr-gwanrihagi-how-to-manage-ecr-with-terraform)
 * [terraform-examples: This repository contains ready to use Terraform examples with Qovery to create outstanding infrastructure](https://github.com/Qovery/terraform-examples)
