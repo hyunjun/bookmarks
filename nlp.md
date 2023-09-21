@@ -1160,6 +1160,7 @@ NLP
 * [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS\_hUkQ)
 * [Highly-Scalable NLP to Answer Questions on COVID-19 WhatsApp Hotline | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=EzQ3i3yOZNY)
 * [Natural Language Processing: Trends, Challenges and Opportunities | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Y2WZEV-Ds-o)
+* [Using NLP to Detect Knots in Protein Structures — Eva Klimentová - YouTube](https://www.youtube.com/watch?v=Kah5QOWnLrM)
 
 # Corpus
 
