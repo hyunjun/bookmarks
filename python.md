@@ -3479,6 +3479,7 @@ Python
 * [What Can I Do With Python? – Real Python](https://realpython.com/what-can-i-do-with-python/)
 * [Top Python Libraries And Frameworks - My Guide Info](https://www.myguideinfo.com/2022/02/top-python-libraries-and-frameworks.html)
 * [Must-Know Python Libraries - DZone Web Dev](https://dzone.com/articles/must-know-python-libraries) PySnooper Faker Pickle
+* [15 Python Libraries You Should Know About in 2023 - YouTube](https://www.youtube.com/watch?v=o06MyVhYte4)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
