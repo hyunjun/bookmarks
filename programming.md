@@ -3120,6 +3120,7 @@ Programming
 * [코드 리뷰어를 하며 저지른 실수 7가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/2095/)
 * [Interview: 쿡앱스 코드리뷰 문화. <게임 회사는 코드 리뷰를 못한다고?> 쿡앱스 기술지원팀 오평석님… | by 쿡앱스 | CookApps Lab | Medium](https://medium.com/cookapps/%EC%BF%A1%EC%95%B1%EC%8A%A4-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EB%AC%B8%ED%99%94-44c9ce41408b)
   * [게임 회사 쿡앱스 코드 리뷰 문화 엿보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2219/)
+* [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
