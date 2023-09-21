@@ -395,6 +395,7 @@
   * Rust가 빠르면서 메모리와 CPU도 훨씬 적게 사용, 학습 난이도는 높음
   * Python이 쉬운 언어이지만 타입 어노테이션도 쓰고 하다 보니 둘의 생산성 차이는 크게 느끼지 못함
   * 오히려 Rust의 컴파일 시간이 긴 것은 단점
+* [Building native Rust modules for Python — Arthur Pastel - YouTube](https://www.youtube.com/watch?v=r2wCF5DjNJ4)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
