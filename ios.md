@@ -612,6 +612,7 @@ iOS
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
+* [한글자막 스위프트를 이용한 아이폰개발 Stanford CS193p - YouTube](https://www.youtube.com/playlist?list=PLQdCGOoR3OqYQQY1sVzq_cXE8zS28r-Dc)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
