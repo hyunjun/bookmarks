@@ -1546,6 +1546,7 @@ Java
 * [OpenRewrite](https://github.com/openrewrite)
   * [Introduction to OpenRewrite - OpenRewrite](https://docs.openrewrite.org/)
   * [Major migrations made easy by Tim Te Beek - YouTube](https://www.youtube.com/watch?v=q-Le1dx2-t8)
+* [Paketo Buildpacks](https://github.com/paketo-buildpacks)
 * [PalDB is an embeddable write-once key-value store written in Java](https://github.com/linkedin/PalDB)
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
