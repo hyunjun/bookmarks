@@ -5382,6 +5382,7 @@ Python
 * [Protocols in Python: Why You Need Them - YouTube](https://www.youtube.com/watch?v=EVa5Wdcgl94)
 * [파이썬 타입 힌트 제대로 활용하기, 최보성 - PyCon Korea 2022 - YouTube](https://www.youtube.com/watch?v=3dGMBwARuN0)
 * [TypedDict is a LIFESAVER - YouTube](https://www.youtube.com/watch?v=udP4cD2JAFM)
+* [Bulletproof Python – Writing fewer tests with a typed code base — Michael Seifert - YouTube](https://www.youtube.com/watch?v=tviU-nyRTjI)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
