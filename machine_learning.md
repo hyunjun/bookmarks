@@ -1879,3 +1879,4 @@ Machine Learning
 * [독학으로 머신러닝 개발자로 입문하기 완벽 정리 - YouTube](https://www.youtube.com/watch?v=Y5XOpgE-O_0)
 * [Transitioning from Software Engineering to Machine Learning Engineering - YouTube](https://www.youtube.com/watch?v=7SdrrHpu8_o)
 * [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)
+* [1시간 만에 머신 러닝 개념 따라 잡기 - YouTube](https://www.youtube.com/watch?v=cYI85HFgFeg)
