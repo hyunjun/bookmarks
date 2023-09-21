@@ -58,6 +58,7 @@
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 * [코틀린(Kotlin) data class를 JPA에서 사용시 주의할 점](https://anomie7.tistory.com/64)
+* [Lock Types in Kotlin. Lock Types in Kotlin: Ensuring Thread… | by Rauf Aghayev | Medium](https://medium.com/@agayevrauf/lock-types-in-kotlin-14c81a670028)
 * [Spoqa 기술 블로그 | 우당탕탕 주문서 개발기](https://spoqa.github.io/2022/07/08/order-sheet-development-story.html) JPA, 잠금 lock
 * [Spoqa 기술 블로그 | 스포카에서 Kotlin으로 JPA Entity를 정의하는 방법](https://spoqa.github.io/2022/08/16/kotlin-jpa-entity.html)
   * JPA는 Java 기준으로 Entity를 정의하기 쉽게 만들어졌기 때문에 Kotlin에서 JPA Entity를 제대로 쓰려면 어떻게 해야 하는지 고민한 결과를 담은 글
