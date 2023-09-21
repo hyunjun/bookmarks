@@ -562,6 +562,7 @@
 * [Denny Lee & Ginger Holt - Use Spark from Anywhere | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=3d0axS_aHsM)
 * [Databricks Connect v2 Quickstart - YouTube](https://www.youtube.com/watch?v=BIysxyh_lro)
 * [Databricks Marketplace - YouTube](https://www.youtube.com/watch?v=8NJ-JQjcFsQ)
+* [Apache Spark vs cloud-native SQL engines — Franz Wöllert - YouTube](https://www.youtube.com/watch?v=vHNOLfUDBZQ)
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
