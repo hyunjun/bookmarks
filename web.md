@@ -516,6 +516,8 @@ Web
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
+* [Scraping Browser - Automated Browser for Scraping](https://brightdata.com/products/scraping-browser)
+  * [차원이 다른 '웹 스크래핑' 비법 알려드림 - YouTube](https://www.youtube.com/watch?v=tcFz6NY3zpc)
 
 ## Crawler Go
 * [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
@@ -1374,6 +1376,7 @@ Web
   * [광고 시스템 퍼포먼스 튜닝 회고록. 신규 광고 시스템 운영 과정에서 발생한 퍼포먼스 이슈와 그에 대한 해결… | by Youngsik Choo | Jul, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/%EA%B4%91%EA%B3%A0-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%ED%8A%9C%EB%8B%9D-%ED%9A%8C%EA%B3%A0%EB%A1%9D-a658e40842d6)
   * [Why You NEED To Learn FastAPI | Hands On Project - YouTube](https://www.youtube.com/watch?v=cbASjoZZGIw)
   * [Balthazar - Blog – How to profile a FastAPI asynchronous request](https://blog.balthazar-rouberol.com/how-to-profile-a-fastapi-asynchronous-request)
+  * [5 Things about fastAPI I wish we had known beforehand - Alexander Hendorf - YouTube](https://www.youtube.com/watch?v=owdY-P-yAvQ)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
@@ -1453,6 +1456,8 @@ Web
   * [How to Build a Data Science Web App in Python](https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020)
   * [파이썬 Streamlit 활용 - Short URL에 Qrcode기능을 포함 #python #업무자동화 - YouTube](https://www.youtube.com/watch?v=0oMoISj27Is)
   * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
+  * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
+    * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
 * [Streamsync | Streamsync](https://www.streamsync.cloud/)
   * [GitHub - streamsync-cloud/streamsync: No-code in the front, Python in the back. An open-source framework for creating data apps](https://github.com/streamsync-cloud/streamsync)
   * [No-code in the front, Python in the back. Streamsync in 1 minute. - YouTube](https://www.youtube.com/watch?v=XBAPBy_zf8s)
