@@ -1149,6 +1149,7 @@ Java
 * [스프링 애플리케이션 배포 직후 발생하는 Latency의 원인과 이를 해결하기 위한 JVM Warm-up](https://hudi.blog/jvm-warm-up/)
 * [Welcome to the Jungle - A safari through the JVM landscape by Gerrit Grunwald - YouTube](https://www.youtube.com/watch?v=9_9L3pqGFcQ)
 * [Java Language](https://www.lesstif.com/java/java-language-18220282.html)
+* [JVM Crash 문제 해결하기 | 와탭 블로그](https://www.whatap.io/ko/blog/28/index.html)
 * [failsafe: Fault tolerance and resilience patterns for the JVM](https://github.com/failsafe-lib/failsafe)
 * hsdis HotSpot Disassembler [Developers disassemble! Use Java and hsdis to see it all](https://blogs.oracle.com/javamagazine/post/java-hotspot-hsdis-disassembler)
 * [jasm: A JVM assembler for the modern age](https://github.com/roscopeco/jasm)
