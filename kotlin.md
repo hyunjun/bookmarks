@@ -163,6 +163,7 @@
 * [좋은 코드 설계를 위한 답없는 고민들 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/code-design/)
 * [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 * [Discovering Kotlin Contracts. The next release of Kotlin, 1.3, is… | by Nicola Corti | ProAndroidDev](https://proandroiddev.com/discovering-kotlin-contracts-3e7ed1360602)
+* [Kotlin Contracts: Empowering Your Code for Better Quality | by Arsham Jafari | Sep, 2023 | Medium](https://medium.com/@arshamjafari85/kotlin-contracts-empowering-your-code-for-better-quality-38c26da7d6e6)
 * [Kotlin 1.4 Online Event: Kotlin 1.4 Language Features 영상 정리](https://www.androidhuman.com/2020-10-29-kotlin_1_4_language_features)
 * [Kotlin 1.4 Online Event: News From the Kotlin Standard Library 영상 정리](https://www.androidhuman.com/2020-11-03-kotlin_1_4_standard_library)
 * [Kotlin 1.4 Online Event: kotlinx.serialization 1.0 영상 정리](https://www.androidhuman.com/2020-11-08-kotlin_1_4_serialization)
