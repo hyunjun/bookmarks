@@ -72,6 +72,7 @@ Web
   * [소스 맵의 동작 원리는 무엇일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2082/)
 * [**The Twelve-Factor App**](http://12factor.net/ko/)
   * [Live Coding 12-Factor App](https://www.infoq.com/presentations/12-factor-microservice/)
+* [Beyond the 12 factors: 15-factor cloud-native Java applications - IBM Developer](https://developer.ibm.com/articles/15-factor-applications/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
 * [Fantastic Web Design Tool](https://editor.easylogic.studio/)
   * [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9)
