@@ -298,7 +298,9 @@ Programmer
 * [Part 3 : 커리어 플래닝 가이드북 | G.. : 네이버블로그](https://blog.naver.com/bizucafe/223075385923)
 * [구글 시니어 개발자가 성장을 위해 선택한 길 | 요즘IT](https://yozm.wishket.com/magazine/detail/2066/)
 * [토스ㅣSLASH 23 - 라운드테이블 : 토스 시니어 개발자가 말하는 커리어 패스 - YouTube](https://www.youtube.com/watch?v=Y96tr9SVNy8)
-* [(1) 박성철 - 종종 개발자가 구현 외에 요구 사항 수집/분석, 기획, 설계, 아키텍처 수립, 개발 환경 구축, 테스트,... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02gUqiogg6JhbmW8FEJ7wCWXV8N2g7EbzCBAtH7GNPujxXw83vk69D92b62xYAZRXl)
+* 박성철
+  * [(1) 박성철 - 종종 개발자가 구현 외에 요구 사항 수집/분석, 기획, 설계, 아키텍처 수립, 개발 환경 구축, 테스트,... | Facebook](https://www.facebook.com/fupfin.geek/posts/pfbid02gUqiogg6JhbmW8FEJ7wCWXV8N2g7EbzCBAtH7GNPujxXw83vk69D92b62xYAZRXl)
+  * [리얼월드에서 프로그래머로 살아내기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2239/)
 * [CS 007: Course Material (2022) | CS 007: Personal Finance for Engineers](https://cs007.blog/2022/10/13/cs-007-course-material-2022/)
   * [스탠포드의 "엔지니어들을 위한 개인 재무 관리" 강의 | GeekNews](https://news.hada.io/topic?id=9431)
 * [개발자 주도적 성장 돕는 '커리어 프레임워크'란? | 요즘IT](https://yozm.wishket.com/magazine/detail/2198/)
