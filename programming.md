@@ -6304,6 +6304,7 @@ Programming
   * AWS는 헬스 체크 문제를 감지하고 인스턴스를 종료하고 재시작했기에 바로 복구, Google Cloud와 Azure는 네트워크만 끊어졌고 인스턴스는 괜찮았기 때문에 API를 통해 직접 재시작해서 복구. 이때문에 장애시에는 Google Cloud와 Azure가 더 심각한 상황이라고 판단했지만 Google Cloud와 Azure는 재시작할 때 디스크까지 같이 복구 되었지만 AWS는 인스턴스가 종료되면서 로컬 디스크의 데이터도 잃었기 때문에 이후 복구가 훨씬 어려웠음
 * [장애 대응 ‘이것’부터 시작하세요 - 구름 공식 블로그 (goorm blog)](https://blog.goorm.io/goormseminar_3rd/)
 * [OS 10 이하에서 Backstack 에 Activity 가 중첩되어 쌓이는 이슈](https://dev.gmarket.com/85)
+* [19년 차 개발자가 실무에서 맞닥뜨린 기술 이슈들](https://f-lab.kr/blog/dev-problems-solving-experience)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
