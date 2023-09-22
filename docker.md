@@ -2088,7 +2088,7 @@ Docker
 * [StormForge Optimize](https://docs.stormforge.io/)
   * [How to Optimize Java Apps on Kubernetes  – The New Stack](https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/)
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공
-* [Tekton](https://tekton.dev/)
+* [Tekton](https://tekton.dev/) 원래 Knative의 '빌드' 구성요소였다가 독립형 제품이 되면서 이름 변경
   * [Cloud Native Continuous Delivery on Kubernetes with Tekton](https://www.infoq.com/presentations/tekton-cloud-native/)
   * [Canary Release on Kubernetes with Knative and Tekton - Piotr's TechBlog](https://piotrminkowski.com/2022/03/29/canary-release-on-kubernetes-with-knative-and-tekton/)
 * [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
