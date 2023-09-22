@@ -1679,6 +1679,10 @@ App
   * [Slack Bot in Scala and 12 Ways to Run It | by Voytek Pituła | Aug, 2023 | Medium](https://medium.com/@w.pitula/slack-bot-in-scala-and-12-ways-to-run-it-8b5f2d9f3524)
   * [Slack | Bolt for Python](https://slack.dev/bolt-python/concepts)
     * [pov: 슬랙 bolt로 에어플로우 DAG 실행시키기. 안녕하세요 원티드랩 데이터 팀에서 데이터 분석을 하고 있는… | by Jiyoon You | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/pov-%EC%8A%AC%EB%9E%99-bolt%EB%A1%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-dag-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-641ca6398234)
+  * scrum poker app
+    * [Helperbot](https://helperbot.alley.com/)
+    * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
+    * [Poker Planner for Slack](https://deniz.co/slack-poker-planner/)
 * [Swit](https://swit.io/)
   * ["슬랙이 있는데 스윗(swit)이 되겠어?".. 에 대한 이주환 대표의 답변 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/switjosh20220125)
 * [Zulip](https://zulip.com/)
