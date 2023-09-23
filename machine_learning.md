@@ -1193,6 +1193,7 @@ Machine Learning
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
 * [Alibi - an open source Python library aimed at machine learning model inspection and interpretation](https://github.com/SeldonIO/alibi)
+* [awesome-machine-learning-on-source-code: Cool links & research papers related to Machine Learning applied to source code (MLonCode)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 * [backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
   * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM](https://github.com/lablup/backend.ai)
@@ -1880,3 +1881,4 @@ Machine Learning
 * [Transitioning from Software Engineering to Machine Learning Engineering - YouTube](https://www.youtube.com/watch?v=7SdrrHpu8_o)
 * [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)
 * [1시간 만에 머신 러닝 개념 따라 잡기 - YouTube](https://www.youtube.com/watch?v=cYI85HFgFeg)
+* [EfficientML.ai Lecture, Fall 2023, MIT 6.5940 - YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
