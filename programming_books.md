@@ -530,6 +530,7 @@ Programming Books
   * [LearningAlgorithms: Code repository associated with Learning Algorithms: A Programmer's Guide to Writing Better Code. https://oreil.ly/learn-algorithms ](https://github.com/heineman/LearningAlgorithms)
   * [똑똑한 코드 작성을 위한 실전 알고리즘. 이미 수많은 자료구조 & 알고리즘 책들이 있는데, 이 책의 가치는… | by Jun | Jun, 2022 | Medium](https://nymets.medium.com/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2110c1fcface)
   * [똑똑한 코드 작성을 위한 실전 알고리즘](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%A0%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+* [자바 알고리즘 인터뷰 with 코틀린](https://jhrogue.blogspot.com/2023/09/with.html)
 * (NOT YET) 알고리즘 : 컴퓨터 과학의 기본, 숫자 알고리즘에서 양자 알고리즘까지
 * (NOT YET) 알고리즘 문제 풀이 전략
 * (NOT YET) 코딩 트레이닝
