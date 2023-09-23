@@ -307,6 +307,7 @@ Artificial Intelligence
     * 리소스를 앱에 분산하고 싶지 않아서 대부분 웹을 기반으로 제공, 모바일 앱으로 제공하는 서비스들이 나오고 있고 참여도도 훨씬 높기 때문에 앞으로는 모바일 우선 생성형 AI 제품이 더 등장할 것
 * [감성 AI 시장, 얼마나 커질까? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/emotion-ai-market/)
 * [Generative AI’s Act Two | Sequoia Capital](https://www.sequoiacap.com/article/generative-ai-act-two/)
+* ["우린 벌써 뛰고 있어" 생성형 AI를 워크플로우와 결합한 기업 3곳의 경험 - ITWorld Korea](https://www.itworld.co.kr/news/308413)
 * [aidl.io](http://aidl.io/) The definitive weekly newsletter on A.I. and Deep Learning, published by Waikit Lau and Arthur Chan
 * [Alchemy AI Newsletter](https://www.thealchemy.ai/)
 * NAVER Tech Talk
