@@ -1923,6 +1923,7 @@ Python
 * [Elizaveta Shashkova - The Hidden Power of the Python Runtime - YouTube](https://www.youtube.com/watch?v=mAnOBOrgFdM) test, debug, code coverage, type, concurrent
 * [Almar Klein - Let’s embrace WebAssembly! - YouTube](https://www.youtube.com/watch?v=u2kKxmb9BWs) webassembly, wasm
 * [Prashant Chaubey - Writing Good Python - YouTube](https://www.youtube.com/watch?v=vnCXToWqz3M) PEP8, pylint, PEP257, pydocstyle, PEP484, mypy, bandit, black
+* [From Algorithms to Agendas: A Beginner's Guide to Integer Programming — Florian Wilhelm - YouTube](https://www.youtube.com/watch?v=Fe3MerZSbBE)
 
 ## Conference Pycon
 * [PyCon Korea - YouTube](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow)
