@@ -3279,6 +3279,7 @@ Javascript
   * [내일까지 Bun으로 다 바꿔오세요 (Bun vs Node.js vs Spring vs Python) - YouTube](https://www.youtube.com/watch?v=a8uPDppckQk)
   * [Serverless Bun vs Node: Benchmarking on AWS Lambda | by Mitchell Kossoris | Sep, 2023 | Medium](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2)
   * [Why use Vite when Bun is also a bundler? - Vite vs. Bun - DEV Community](https://dev.to/this-is-learning/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723)
+  * [Build an HTTP server in Bun - DEV Community](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
   * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
   * [transbun](https://github.com/Huansock/transbun)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
