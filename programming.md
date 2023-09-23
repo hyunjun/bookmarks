@@ -5491,6 +5491,7 @@ Programming
 * [행동력이 미친 창업 팀, 개발 없이 MVP 테스트하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/258373)
 * [한국 노코드 커뮤니티 - 노코드를 활용해 비즈니스 아이디어를 동작하는 서비스로 구현하고, 업무를 자동화/효율화하는 방법을 함께 고민합니다](https://www.nocodekorea.org/)
 * [노코드: 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴 | 10x Lessons](https://tkim.co/2020/04/19/no-code/)
+* [“그래도 코딩하는 임원은 거의 없다” 로우코드ㆍ노코드 개발 ‘이상과 현실’ - ITWorld Korea](https://www.itworld.co.kr/news/308419)
 * [Top No-Code Development Tools In 2023 | by CodeCircuit | JavaScript in Plain English](https://javascript.plainenglish.io/top-no-code-development-tools-in-2022-fc179633682c)
   * [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
