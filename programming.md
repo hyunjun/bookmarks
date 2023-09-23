@@ -5839,6 +5839,8 @@ Programming
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
     * Quanta Magazine
+* [Mend Renovate: Automated Dependency Updates](https://www.mend.io/renovate/)
+  * [GitHub Apps - Renovate](https://github.com/apps/renovate)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 * [Requirements Modeling Language](https://argondigital.com/requirements-modeling-language/) RML
