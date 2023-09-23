@@ -1394,6 +1394,8 @@ NLP
 * [LlamaIndex + Metaphor: Towards Automating Knowledge Work with LLMs | by Jerry Liu | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-metaphor-towards-automating-knowledge-work-with-llms-5520a32efa2f)
 * [LlamaIndex: Automatic Knowledge Transfer (KT) Generation for Code Bases | by Ravi Theja | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-automatic-knowledge-transfer-kt-generation-for-code-bases-f3d91f21b7af)
 * [LlamaIndex 🦙 on X: "Extracting metadata is super important for better RAG, but using individual LLM calls for metadata extraction is inefficient 🐌 You can now extract a full Pydantic object from any doc with 1 LLM call. Augments embeddings/response gen, or use w/ vector db metadata filters 👇 https://t.co/ZHBGNVANgA" / X](https://twitter.com/llama_index/status/1705302359038202101)
+* [How LlamaIndex Brings Data to LLMs - YouTube](https://www.youtube.com/watch?v=FQBou-YgxyE)
+* [Discover LlamaIndex: Bottoms-Up Development with LLMs (Part 5, Retrievers + Node Postprocessors) - YouTube](https://www.youtube.com/watch?v=mIyZ_9gqakE)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
   * 거의 모든 회사가 도입하려 하고 있으나, 아직 초창기라 앞으로 도입에 장애물이 많이 생길 것이므로 따라서 창업자에게 기회가 많이 생길 것
