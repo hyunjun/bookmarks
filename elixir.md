@@ -160,7 +160,8 @@ Elixir
 * [Keynote: The Road To LiveView 1.0 by Chris McCord | ElixirConf EU 2023 - YouTube](https://www.youtube.com/watch?v=FADQAnq0RpA)
 * [Concurrency Oriented Programming in a Modern World • Robert Virding & Francesco Cesarini • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AvA97AB8cAA)
 * [Genetic Algorithms in Elixir • Sean Moriarity & Bruce Tate • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=vS1_Z4xaeqQ)
-* [ElixirConf 2023 - José Valim - The foundations of the Elixir type system - YouTube](https://www.youtube.com/watch?v=giYbq4HmfGA)
+* [ElixirConf 2023 - YouTube](https://www.youtube.com/playlist?list=PLqj39LCvnOWbHaZldxw_g02RaTQ4vQ1eY)
+  * [ElixirConf 2023 - José Valim - The foundations of the Elixir type system - YouTube](https://www.youtube.com/watch?v=giYbq4HmfGA)
 
 # Library
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
