@@ -356,6 +356,7 @@ Vision
   * [Label Data with Segment Anything Model (SAM) in Roboflow - YouTube](https://www.youtube.com/watch?v=NAL2xcmMJiQ)
   * [SAM(Segment Anything Model)과 친해지기 - 김경환](https://aifactory.space/learning/2504/discussion/486)
   * [MobileSAM: This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight](https://github.com/ChaoningZhang/MobileSAM)
+  * [nanosam: A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT](https://github.com/NVIDIA-AI-IOT/nanosam)
   * [segment-anything-video: MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)
 * [SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)](https://github.com/ai4r/SGToolkit)
 * vid2player [페더러 vs. 페더러, AI 테니스 플레이어의 탄생 - YouTube](https://www.youtube.com/watch?v=rf_8B3FSmq4)
