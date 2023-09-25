@@ -289,6 +289,7 @@ iOS
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
 * [Swift의 네임스페이스와 typealias](http://news.realm.io/kr/news/swift-namespace-typealias/)
 * [Collection Types](http://wlaxhrl.tistory.com/74)
+* [Collection은 Struct 타입인데 Heap에 저장되는 이유? :: iOYES](https://green1229.tistory.com/408)
 * [Opaque Types](https://wlaxhrl.tistory.com/82)
 * [Generics and Subtypes in Swift](https://medium.com/better-programming/generics-and-subtypes-in-swift-7f27638e1b99)
 * [Swift 타입 시스템 탐험기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-swift-type-system/)
