@@ -73,6 +73,7 @@ Business
 * [“디자인 사고(design thinking)”란 무엇일까요](http://newspeppermint.com/2015/04/05/design-thinking/)
 * [A Design Thinking Roadmap for Process Improvement and Organizational Change](https://www.infoq.com/articles/design-thinking-organizational-change/)
 * [VDIASI23 - Tudor Juravlea - Design Thinking for teams who want to create their own products - YouTube](https://www.youtube.com/watch?v=TZniKdaXr1s)
+* [뉴 디자인싱킹이 필요할 때](https://brunch.co.kr/@cliche-cliche/194)
 * [Payment 시장을 둘러싼 경쟁](http://www.venturesquare.net/580911)
 * [KAL기 괌 추락사건과 땅콩회항](http://www.huffingtonpost.kr/jaeyoon-chang/story_b_7051816.html)
 * [공짜 경제에서 어떻게 돈을 버는가?](http://www.venturesquare.net/581143)
