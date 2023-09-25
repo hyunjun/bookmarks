@@ -1315,6 +1315,7 @@ Programming
 * [Practical Magic: The Resilience Potion & Security Chaos Engineering • Kelly Shortridge • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=AxqX9ovGViw)
 * [Cloud Chaos & Microservices Mayhem • Holly Cummins • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=zJiUNKXZA1E)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
+* [폭증하는 카카오톡 트래픽에 대처하는 방법 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-traffic/)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
   * [packer - Build Automated Machine Images](https://www.packer.io/)
@@ -3810,6 +3811,7 @@ Programming
 * [브런치북 보안쟁이의 넋두리 2](https://brunch.co.kr/brunchbook/secutales-2)
 * [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
+* [DKAPTCHA: 지도 이미지와 음성을 활용한 어뷰징 방지 전략 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-dkaptcha/) captcha
 * [시큐어 코딩의 의미와 실천 방안: ①시큐어 코딩이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1822/)
 * [Secret Key - What Is It And How Does It Protect Users? | 1Password](https://blog.1password.com/what-the-secret-key-does/)
   * 1Password의 시크릿 키의 구조 설명
@@ -5859,6 +5861,7 @@ Programming
 * [The most important TDD rule](http://enterprisecraftsmanship.com/2015/07/20/the-most-important-tdd-rule/)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 * [Test Doubles 정리 Dummy, Fake, Stub, Mock](https://brunch.co.kr/@tilltue/55)
+* [**효율적인 테스트를 위한 Stub 객체 사용법. 구현에 의존하지 않은 테스트 코드 작성을 위해 Stub 객체를… | by Jeremy | 당근 테크 블로그 | Sep, 2023 | Medium**](https://medium.com/daangn/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-stub-%EA%B0%9D%EC%B2%B4-%ED%99%9C%EC%9A%A9%EB%B2%95-5c52a447dfb7) dummy fake stub spy mock
 * [Test And Test Doubles - YouTube](https://www.youtube.com/watch?v=4q9d8Aye0nY)
   * [Test와 Test Double의 종류](https://www.notion.so/Test-Test-Double-03b480e651f14159bf14af0719279d97)
 * [Test Double · Present](https://present.do/documents/633c01b270efd011b8f6b7d8)
