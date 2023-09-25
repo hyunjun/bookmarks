@@ -581,6 +581,9 @@ AWS
 * [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
 * [AWS 배포 파이프라인 참조 아키텍처 및 참조 구현 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
 * [유저 천만명을 위한 최고의 서버 아키텍처는? 👀 - YouTube](https://www.youtube.com/watch?v=-03fvKbziPU)
+* [Well-Architected Framework Review(WAFR)를 수행하는 방법- 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-perform-a-well-architected-framework-review-part1/)
+* [Well-Architected Framework Review(WAFR)를 수행하는 방법- 2부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-perform-a-well-architected-framework-review-part2/)
+* [Well-Architected Framework Review(WAFR)를 수행하는 방법- 3부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/how-to-perform-a-well-architected-framework-review-part3/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -983,6 +986,7 @@ AWS
   * AWS 블록 스토리지 서비스인 EBS의 10년간의 아키텍처 변화를 간략하게 소개
   * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
 * [Amazon Elastic Block Store io2 볼륨용 NVMe 예약 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
+* [Amazon EBS의 FSR을 이용해 설치형 DB 를 빠르게 스케일업 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/self-managing-db-scaleup-with-fsr/)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
@@ -1993,6 +1997,7 @@ AWS
 * [Slack에서 ‘RDS정지’를 시행 해 보기. 시작하며 | by MZC_Global | Cloud Villains | Apr, 2023 | Medium](https://medium.com/cloudvillains/slack%EC%97%90%EC%84%9C-rds%EC%A0%95%EC%A7%80%EB%A5%BC-%EC%8B%9C%ED%96%89-%ED%95%B4-%EB%B3%B4%EA%B8%B0-d8b00b62045f)
 * [Amazon RDS MySQL 블루/그린 배포 환경에서 Amazon Route 53을 활용한 운영환경 읽기 쿼리 분산 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-aurora-route53-balancing/)
 * [GUI 환경을 이용하여 안전하게 Amazon RDS 또는 Amazon EC2 DB 인스턴스에 원격 접근하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/securely-connect-to-an-amazon-rds-or-amazon-ec2-database-instance-remotely-with-your-preferred-gui/)
+* [Amazon Aurora 및 Amazon RDS의 MySQL 데이터베이스에 대한 Amazon RDS 연장 지원 소개 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/introducing-amazon-rds-extended-support-for-mysql-databases-on-amazon-aurora-and-amazon-rds/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
