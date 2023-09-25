@@ -342,3 +342,4 @@ Flutter
 * [Android 신입 개발자, Flutter로 기술 전환 가보자고](https://engineering.linecorp.com/ko/blog/flutter-onboarding-for-new-employees)
 * [Dart 시작하기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/dart-for-beginners)
 * [Flutter 로 웹툰 앱 만들기 – 노마드 코더 Nomad Coders](https://nomadcoders.co/flutter-for-beginners)
+* [Flutter_tflite_classfication_songdo: Flutter_tflite_classfication_songdo presentation](https://github.com/sw-woo/Flutter_tflite_classfication_songdo)
