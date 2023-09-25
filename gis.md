@@ -91,6 +91,7 @@ GIS
 * geopandas [The Best Features of Geopandas 0.80 Release | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-best-features-of-geopandas-0-80-release-87f2d7aa8f5)
 * GeoPy [Welcome to GeoPy’s documentation! — GeoPy 2.2.0 documentation](https://geopy.readthedocs.io/)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
+* [leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://github.com/opengeos/leafmap)
 * [missile-tid: Identifying missile launch signatures from traveling ionic disturbances using GPS data](https://github.com/tylerni7/missile-tid)
 * [osmnx: OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap](https://github.com/gboeing/osmnx)
   * [osmnx-examples: Usage examples, demos, and tutorials for OSMnx](https://github.com/gboeing/osmnx-examples)
