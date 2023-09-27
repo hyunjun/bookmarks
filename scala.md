@@ -1852,6 +1852,7 @@ Scala
   * [Scala/Mill: Step 5, Specifying a Main Class in the REPL | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-specify-main-method-in-repl/)
   * [Scala/Mill: Step 6, Creating a Fat Jar (assembly) | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-create-fat-jar-file-assembly/)
   * [Li Haoyi – Mill: a Build Tool based on Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=j6uThGxx-18)
+  * [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
 
 ## Library DB Database
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
