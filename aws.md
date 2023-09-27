@@ -807,6 +807,7 @@ AWS
   * [다시 돌아온 AWS Summit Seoul에 참여해 주셔서 감사합니다! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/thank-you-for-joining-aws-summit-seoul-2023/)
   * [피할 수 없는 클라우드 물결 (AWS Summit 2023 후기)](https://velog.io/@joosing/aws-summit-2023-recap)
   * [AWS Summit Seoul 2023 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3)
+    * [AWS Summit Seoul 2023 Day 2 | 커뮤니티](https://kr-resources.awscloud.com/aws-summit-seoul-2023-day-2-track-8)
   * [AWS Summit Korea 2022 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1)
   * [6탄-(요약)AWS Summit Korea-2022](https://brunch.co.kr/@topasvga/2439)
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
