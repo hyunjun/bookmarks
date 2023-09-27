@@ -976,6 +976,7 @@ AWS
 * [Part 11. 간략하게 살펴보는 DynamoDB - YouTube](https://www.youtube.com/watch?v=fhoMK2hXLpE)
 * [Amazon DynamoDB: Evolution of a Hyperscale Cloud Database Service - YouTube](https://www.youtube.com/watch?v=WUrkct1pisU)
 * [Amazon DynamoDB를 위한 백업 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/backup-strategies-for-amazon-dynamodb/)
+* [Amazon DynamoDB를 사용한 비용 효율적인 대량 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cost-effective-bulk-processing-with-amazon-dynamodb/)
 
 # EBS Elastic Block Storage
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
