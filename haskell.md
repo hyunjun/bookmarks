@@ -453,6 +453,8 @@ Haskell
   * [Announcing monad-logger-aeson: Structured logging in Haskell for cheap - jship](https://jship.github.io/posts/2022-05-17-announcing-monad-logger-aeson/)
 * [Mu-Haskell - a set of packages that help you build both servers and clients for (micro)services](https://higherkindness.io/mu-haskell/) gRPC
   * [Introducing Mu-Haskell v0.1](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
+* [NeoHaskell](https://neohaskell.org/)
+  * [Introducing NeoHaskell: A beacon of joy in a greyed tech world - DEV Community](https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b)
 * nix
   * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
   * [Building a reproducible blog with Nix](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)
