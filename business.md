@@ -2372,6 +2372,7 @@ Business
 * [The Scoop: Inside Fast’s Rapid Collapse - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) Advice when joining startups
   * [Fast의 빠른 몰락에서 배울 수 있는 것 | GeekNews](https://news.hada.io/topic?id=6390)
 * [**영향력이 커리어 발전의 원동력이 된다. | 그로우앤베터**](https://growandbetter.com/2022/02/17/how_to_make_career_decisions/)
+* [창업할 필요 없다, 망하지 않으면서 도전하는 ‘세컨드 펭귄’이 되라: 백패커 CSO 임승현 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/264206) career second penguin
 * [A case study in early-stage startup execution - Wave Blog](https://www.wave.com/en/blog/early-execution/)
 * [스타트업을 떠나며 알게 된 것들](https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4) 현실적인 이야기
   * [스타트업을 떠나며... | GeekNews](https://news.hada.io/topic?id=6381)
