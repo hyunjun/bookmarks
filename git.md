@@ -655,6 +655,7 @@ Git
     * main 브랜치를 mainline으로 사용하는 GitHub Flow와 Trunk-Based 브랜치 전략을 공부
       * GitHub flow를 선택하고 배포 과정이 훨씬 나아졌다고 함
   * [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식 - YouTube](https://www.youtube.com/watch?v=EV3FZ3cWBp8)
+  * [Trunk-based development, Feature Flag, micro PR 와 함께 주 2회 배포하기 | 29CM TEAM](https://medium.com/29cm/trunk-based-development-feature-flag-micro-pr-%EC%99%80-%ED%95%A8%EA%BB%98-%EC%A3%BC-2%ED%9A%8C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-b703d646d945)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [An Efficient Git Branching Strategy Every Developer Should Know | by Anurag Sidana | Better Programming | Medium](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
