@@ -538,6 +538,7 @@ Docker
 * [Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
 * [Optimizing Docker image size and why it matters - contains.dev](https://contains.dev/blog/optimizing-docker-image-size)
 * [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
+* [랠릿 standalone 적용기](https://tech.inflab.com/20230918-rallit-standalone/)
 * [Docker Image Pipelines and Patterns - YouTube](https://www.youtube.com/watch?v=ODXSPVZA4c8)
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
