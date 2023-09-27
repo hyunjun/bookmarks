@@ -206,6 +206,7 @@ Business
 * [자유로운 조직문화가 부럽나요? 이를 위해 리더.. : 네이버블로그](https://blog.naver.com/hs_group/222809897411)
 * [“매일 10시간씩 활주시간 단축” 세계 최대 항공사의 애널리틱스 실전 노하우 - CIO Korea](https://www.ciokorea.com/news/255544) 문화
 * [하이브리드 근무 시대 조직문화 구축 노하우](https://brunch.co.kr/@graypool/710)
+* [작은 스타트업이 건강한 조직문화를 만드는 방법. 딜라이트룸이 조직문화에 관심을 두기 시작한 이유 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/%EC%9E%91%EC%9D%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%B4-%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%A1%B0%EC%A7%81%EB%AC%B8%ED%99%94%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95-9db3438e4868)
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
 * [다양한 척도와 사회 연결망 바라보기](https://brunch.co.kr/@graypool/917)
 * [비극은 ‘엔지니어링 중심’ 회사가 ‘재무 중심’으로 바뀌면서 시작됐다 - 티타임즈](https://www.ttimes.co.kr/article/2020011516477776156) 보잉, 문화
@@ -1769,6 +1770,7 @@ Business
 * [왜 더 이상 리더가 되기를 원하지 않는 걸까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/leadersareleaving20230823)
 * [좋은 리더는 장점을 찾아 알려준다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263972)
 * [Team Leadership Toolkit Series' Articles - DEV Community](https://dev.to/unseenwizzard/series/23374)
+* [아버지 리더십 Fatherhood Leadership – 조성문의 블로그](https://sungmooncho.com/2023/09/26/father-leadership/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
