@@ -165,6 +165,7 @@ Json
 * [Creating and validating a JWT RSA token in Golang](https://morioh.com/p/a8f3fefefd8e)
 * [JWT 인증 방식을 왜 사용해야할까?](https://soohey.tistory.com/entry/JWT-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-%ED%86%A0%ED%81%B0-%EC%84%B8%EC%85%98%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EC%84%A0%ED%83%9D%EB%B0%9B%EC%A7%80-%EB%AA%BB%ED%95%9C-%EC%9D%B4%EC%9C%A0%EB%8A%94)
 * [What are JWT tokens and their different forms — JWS and JWE? | by Dineshchandgr | Javarevisited | Medium](https://medium.com/javarevisited/what-are-jwt-tokens-and-their-different-forms-jws-and-jwe-bea92e61a6c2)
+* [Explaining Sessions, Tokens, JWT, SSO, and OAuth in One Diagram](https://www.linkedin.com/feed/update/urn:li:activity:7112462179550810112/)
 * [wffweb-demo-deployment: wffweb 12 demo project. It uses embedded tomcat 10. It is deployed in Heroku @ https://wffweb.herokuapp.com](https://github.com/webfirmframework/wffweb-demo-deployment)
 
 ## JWT Go
