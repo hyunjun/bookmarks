@@ -612,6 +612,7 @@ iOS
 * ['SwiftUI' 태그의 글 목록](https://mobile-programming.tistory.com/tag/SwiftUI)
 * [SwiftUI로 음성메모 구현하기 :: iOYES](https://green1229.tistory.com/396)
 * [SwiftUI의 onChange 사용 시 주의할 부분 :: iOYES](https://green1229.tistory.com/403)
+* [SwiftUI에서 View의 Size 측정하기 :: iOYES](https://green1229.tistory.com/409)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
 * [ScrollTargetBehavior :: iOYES](https://green1229.tistory.com/406)
