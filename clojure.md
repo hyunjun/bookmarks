@@ -539,6 +539,7 @@ Clojure
   * [How to use map, apply, concat and mapcat in Clojure - YouTube](https://www.youtube.com/watch?v=RFcEWZW1YaQ)
   * [Transient set loses data? : Clojure](https://www.reddit.com/r/Clojure/comments/muqetg/transient_set_loses_data/)
   * [Maps vs records - Community Center / Watercooler - ClojureVerse](https://clojureverse.org/t/maps-vs-records/7553)
+  * [Converting CURL header to Clojure map - YouTube](https://www.youtube.com/watch?app=desktop&v=nX-crYoeaRw)
   * [closeable-map: A Clojure map that implements java.io.Closeable, so that it represents an execution context that you can close](https://github.com/piotr-yuxuan/closeable-map)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
@@ -824,6 +825,7 @@ Clojure
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
   * [Clojure Configuration Variables Using Aero - YouTube](https://www.youtube.com/watch?v=ODsoc2QQyyU)
+  * [Configuring a Clojure Application Using Component, Aero, and Malli - YouTube](https://www.youtube.com/watch?app=desktop&v=pG0ofjVL3Ro)
 * [amazonica: A comprehensive Clojure client for the entire Amazon AWS api](https://github.com/mcohen01/amazonica)
 * [americano: A simple tool for compiling Java from the Clojure CLI](https://github.com/IGJoshua/americano)
   * [Clojure CLI Tool for Compiling Java Without Code – Services Diplomatiques et Consulaires – Enzyklopädien, Fachbücher, Schulbücher](https://www.duthel.info/clojure-cli-tool-for-compiling-java-without-code/)
@@ -1515,6 +1517,7 @@ Clojure
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
   * [클로저로 웹 서버 애플리케이션 개발을 시작하는 사람들을 위한 Ring 소개서 | 그린랩스](https://green-labs.github.io/introduce-a-ring)
   * [Finding Clojure: New Beginnings](https://rattlin.blog/finding-clj-new-beginnings.html)
+  * [Creating a User Sign-In/Sign-Up Flow in Clojure (Ring, Compojure, Hiccup, HTMX, PostgreSQL) - YouTube](https://www.youtube.com/watch?app=desktop&v=ve1030AaAfg)
   * [ring-defaults: A library to provide sensible Ring middleware defaults](https://github.com/ring-clojure/ring-defaults)
   * [ripley: Ring live pages experiment](https://github.com/tatut/ripley)
 * [stress-server: Stress your Clojure servers until they sweat. Analyze the results](https://github.com/bsless/stress-server)
