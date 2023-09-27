@@ -2057,6 +2057,7 @@ Programming Books
   * 한라 005.133-박58ㅂ
   * [Tanmay-Teaches/golang](https://github.com/tanmay-teaches/golang)
 * (NOT YET) [Go 성능 최적화 가이드 – 디코딩](https://www.decoding.co.kr/product/go%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * [소프트웨어 실행 단계별 최적화 설계 수준 – 디코딩](https://www.decoding.co.kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%A4%ED%96%89-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%84%A4%EA%B3%84-%EC%88%98%EC%A4%80/)
 
 # Hadoop
 
