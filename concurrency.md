@@ -25,13 +25,25 @@ Concurrency
 * [멀티코어 프로그래밍에서 흔히 발생하는 문제, 1부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-1%eb%b6%80/)
 * [멀티코어 프로그래밍에서 흔히 발생하는 문제, 2부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0-%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-2%eb%b6%80/)
 * [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
-* [백엔드 개발자들이 알아야할 동시성 5 — Continuation Passing Style | by Choi Geonu | Aug, 2022 | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-5-continuation-passing-style-5058ab5cb781)
 * [**BEAM Concurrency in Action • Sasa Juric • YOW! 2022 - YouTube**](https://www.youtube.com/watch?v=A4x6IfceJCM) Erlang Elixir LFE Gleam
 * [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski](https://pkolaczk.github.io/memory-consumption-of-async/)
   * [1백만개의 동시 작업을 실행하는데 메모리가 얼마나 필요할까? | GeekNews](https://news.hada.io/topic?id=9250)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
+
+# Async
+* [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
+* [**Blocking-NonBlocking-Synchronous-Asynchronous**](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
+* [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
+* [**동시성, 병렬, 비동기, 논블럭킹과 컨셉들 :: BlaCk_Log**](https://black7375.tistory.com/90)
+* [Blocking I/O와 Non-blocking I/O - YouTube](https://www.youtube.com/watch?v=XNGfl3sfErc)
+* [Non-blocking I/O와 Multi-threading은 바늘과 실이다. - YouTube](https://www.youtube.com/watch?v=H01FkDtllwc)
+* [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
+* [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
+* [동기와 비동기 방식 데이터 처리 (Syn / Asynchronous)](https://blog.naver.com/dsz08082/222151475472)
+* [프로그래밍에서 동기/비동기 개념에 대한 가장 직관적인 이해 - YouTube](https://www.youtube.com/watch?v=zRJOte7TaPw)
+* [백엔드 개발자들이 알아야할 동시성 2 — 블로킹과 논블로킹, 동기와 비동기 | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-2-%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8F%99%EA%B8%B0%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-e11b3d01fdf8)
 
 # Book
 * [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
@@ -47,6 +59,10 @@ Concurrency
 # Clojure
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
 * [Parallel Programming, Fork Join, and Reducers - Daniel Higginbotham (with slides)](https://www.youtube.com/watch?v=eRq5UBx6cbA)
+
+# Continuation
+* [Continuations](https://curiosity-driven.org/continuations)
+* [백엔드 개발자들이 알아야할 동시성 5 — Continuation Passing Style | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-5-continuation-passing-style-5058ab5cb781)
 
 # Coroutine
 * [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)
@@ -75,6 +91,7 @@ Concurrency
 * [‘헤일로’로 부터 배우는 가상 액터 모형과 MSR의 Orleans Project](http://ndcreplay.nexon.com/NDC2016/sessions/NDC2016_0048.html)
 * [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 * [concurrent programming #1](https://01010011.blog/tag/concurrent/)
+* [백엔드 개발자들이 알아야할 동시성 1 — Concurrency와 Parallelism | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-1-concurrency%EC%99%80-parallelism-88c51aa2cdc5)
 
 # CUDA
 * [CUDA 툴킷 다운로드하고, GPU를 자유자재로 활용해보자!](http://blogs.nvidia.co.kr/2018/01/16/cuda-toolkit/)
@@ -123,6 +140,9 @@ Concurrency
 * [Mutex vs Semaphore](http://www.geeksforgeeks.org/mutex-vs-semaphore/)
 * [The Little Book of Semaphores](http://www.greenteapress.com/semaphores/downey08semaphores.pdf)
 
+# Scheduling
+* [백엔드 개발자들이 알아야할 동시성 4 — 스케줄링. 지난 포스팅에선 많은 쓰레드와 잦은 컨텍스트 스위칭이 어떻게 웹서버의… | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-4-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-e684331afc77)
+
 # Thread
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Thread)
 * [When is a function reentrant? How does that relate to it being thread-safe?](http://www.quora.com/When-is-a-function-reentrant-How-does-that-relate-to-it-being-thread-safe)
@@ -147,3 +167,4 @@ Concurrency
   * [multi-thread](https://github.com/myc0058/multi-thread)
 * [멀티 스레드 프로그래밍 #1 | 와탭 블로그](https://www.whatap.io/ko/blog/164/index.html)
 * [멀티 스레드 프로그래밍 #2 가장 쉽게 설명한 Active Object 패턴 | 와탭 블로그](https://www.whatap.io/ko/blog/171/index.html)
+* [백엔드 개발자들이 알아야할 동시성 3 — 쓰레드와 컨텍스트 스위치 | by Choi Geonu | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-3-%EC%93%B0%EB%A0%88%EB%93%9C%EC%99%80-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%98-79e976d0e478)
