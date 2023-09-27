@@ -586,6 +586,7 @@ Machine Learning
 * [How to deliver on Machine Learning projects A guide to the ML Engineering Loop](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 * [Analyzing verbatim comments in spreadsheets using machine learning](https://blog.paralleldots.com/smartreader/analyzing-verbatim-comments-on-spreadsheets-using-machine-learning/)
 * [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
+* [Is this a date? Using ML to identify date formats in file names - Dropbox](https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names)
 * [Training machine learning models online for free(GPU, TPU enabled)!!!](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
 * [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/#nll) NLL
 * [Logit, Sigmoid, 그리고 SoftMax의 관계 알기](https://www.youtube.com/watch?v=6sENgZJn1nY)
