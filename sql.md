@@ -678,6 +678,7 @@ SQL
 * [MySQL Group Replication 구축](https://saramin.github.io/2021-09-28-mysql-group-replication/)
 * [데이터베이스의 확장성과 가용성을 위한 MySQL Replication](https://hudi.blog/mysql-replication/)
 * [부하 분산을 위해 MySQL을 Master/Slave로 이중화를 구성해 본 이야기 | Recoding Life](https://jane096.github.io/project/mysql-master-slave-replication/)
+* [**무뇽이와 알아보는 대규모 데이터 관리 - 데이터베이스 복제하기(리플리케이션)**](https://velog.io/@backfox/%EB%AC%B4%EB%87%BD%EC%9D%B4%EC%99%80-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B3%B5%EC%A0%9C%ED%95%98%EA%B8%B0%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-f4pota6h)
 * [**MySQL을 NoSQL로 사용하기**](http://advent.perl.kr/2012/2012-12-12.html)
   * 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
   * plugin을 통해 750,000/sec으로 성능 향상
