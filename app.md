@@ -2060,6 +2060,7 @@ App
   * [Top 10 Obsidian Plugins I Can't Do Without - YouTube](https://www.youtube.com/watch?v=W7kTtn9empU)
   * [천재들이 쓰는 노트앱? 옵시디언 활용법 200%! - YouTube](https://www.youtube.com/watch?v=h6rxKbbgI28)
   * [노트앱 볼 때마다 기분좋아지게 만들기 | Obsidian AnuPpuccin - YouTube](https://www.youtube.com/watch?v=cw0XvIi5vP4)
+  * [2022 최고의 플러그인 할 일(Task, To do) 관리를 자동화 해주는 플러그인 - YouTube](https://www.youtube.com/watch?v=KH_P3GKtS1k)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
