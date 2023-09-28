@@ -3861,6 +3861,8 @@ Python
   * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
+* [pyarmor: A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts](https://github.com/dashingsoft/pyarmor)
+  * [Obfuscate Python Code With PyArmor - YouTube](https://www.youtube.com/watch?v=irUtnNtknf8)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [PyBetween: Wrapper for Between - 비트윈을 위한 파이썬 라이브러리](https://github.com/lill74/PyBetween)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
