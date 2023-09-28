@@ -1833,15 +1833,6 @@ Business
 * [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
 * [Making the Most of Your Manager • Katrina Clokie • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=1RknpWB0wRQ)
 * [Hard to work with. | Irrational Exuberance](https://lethain.com/hard-to-work-with/)
-* [PARA 방식: 디지털 정보 구성을 위한 범용 시스템 - Forte Labs](https://fortelabs.co/blog/para/)
-  * Project - Area of responsibility - Resource - Archive
-  * Project "마감일이 있는 목표와 연결된 일련의 작업"
-    * 완전한 앱 mock 제작, 프로젝트 계획 개발 사업 개발 캠페인 실행, 블로그 게시물 작성, 제품 사양 완성, 회의 참석
-  * Area of responsibility "시간이 지남에 따라 유지되어야 하는 표준이 있는 활동 영역"
-    * 재정, 전문성 개발, 여행하다, 취미, 친구, 아파트, 차, 생산력, 직접 보고서, 제품 개발, 쓰기
-  * Resource "지속적인 관심 주제"
-    * 습관 형성, 프로젝트 관리, 트랜스휴머니즘, 커피, 음악, 원예, 온라인 마케팅, 검색 엔진 최적화, 인테리어 디자인
-  * Archive "다른 세 범주의 비활성 항목" 포함
 * [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 * [Shifting from Passenger to Driver Mindset](https://www.infoq.com/podcasts/passenger-shifting-driver-mindset/)

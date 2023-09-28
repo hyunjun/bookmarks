@@ -67,8 +67,21 @@ Self Control
 
 * [윌 스미스는 어떻게 대처해야 했을까? < 인문 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=927) 분노
 
-* [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
-  * [노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA - YouTube](https://www.youtube.com/watch?v=lkRQuMIbFYc)
+* [PARA 방식: 디지털 정보 구성을 위한 범용 시스템 - Forte Labs](https://fortelabs.co/blog/para/)
+  * Project - Area of responsibility - Resource - Archive
+  * Project "마감일이 있는 목표와 연결된 일련의 작업"
+    * 완전한 앱 mock 제작, 프로젝트 계획 개발 사업 개발 캠페인 실행, 블로그 게시물 작성, 제품 사양 완성, 회의 참석
+  * Area of responsibility "시간이 지남에 따라 유지되어야 하는 표준이 있는 활동 영역"
+    * 재정, 전문성 개발, 여행하다, 취미, 친구, 아파트, 차, 생산력, 직접 보고서, 제품 개발, 쓰기
+  * Resource "지속적인 관심 주제"
+    * 습관 형성, 프로젝트 관리, 트랜스휴머니즘, 커피, 음악, 원예, 온라인 마케팅, 검색 엔진 최적화, 인테리어 디자인
+  * Archive "다른 세 범주의 비활성 항목" 포함
+  * [The PARA Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
+    * [노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA - YouTube](https://www.youtube.com/watch?v=lkRQuMIbFYc)
+  * [The Most Popular Idea I've Ever Invented (PARA Method) | Part 1 - YouTube](https://www.youtube.com/watch?v=T6Mfl1OywM8)
+  * [The 10-to-15 rule (PARA Method) | Part 2 - YouTube](https://www.youtube.com/watch?v=anexySaCsgU)
+  * [How I Plan My Weekly Tasks (PARA Method) | Part 3 - YouTube](https://www.youtube.com/watch?v=MyWmGDnWhjE)
+  * [My Second Brain in Apple Notes (PARA Method) | Part 4 - YouTube](https://www.youtube.com/watch?v=fioLhb1U4J0)
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
