@@ -5033,6 +5033,7 @@ Python
   * [Nico Kreiling: Raised by Pandas, striving for more: An opinionated introduction to Polars - YouTube](https://www.youtube.com/watch?v=7xcUvzERwx0)
   * [Python Polars: A Lightning-Fast DataFrame Library – Real Python](https://realpython.com/polars-python/)
   * [Polars vs Pandas - what's the difference? — Cheuk Ting Ho - YouTube](https://www.youtube.com/watch?v=YUMhGp1ryUY)
+  * [polarIFy: Automatically Transform Complex Python Methods to Polars Expressions - Bela Stoyan - YouTube](https://www.youtube.com/watch?v=G7TuIzKnd-c)
 * [pygwalker: PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis](https://github.com/Kanaries/pygwalker)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
   * [Pandas Sidetable — How You Calculate Frequencies the Easy Way | by Yong Cui | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c)
