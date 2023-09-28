@@ -239,7 +239,8 @@ Elixir
   * [Animate a Side Drawer with LiveView.JS](https://www.peterullrich.com/animate-a-side-drawer-with-live-view-js)
   * [Star-Crossed LiveView Processes · The Phoenix Files](https://fly.io/phoenix-files/star-cross-live-view-processes/)
   * [ElixirConf 2023 - Brian Cardarella - LiveView Native - YouTube](https://www.youtube.com/watch?v=xBi2Hj22qUU)
-  * [Integrating Chart.js into Elixir Phoenix for visual impact | by Lionel Aimerie | Aug, 2023 | Medium](https://medium.com/@lionel.aimerie/integrating-chart-js-into-elixir-phoenix-for-visual-impact-9a3991f0690f) LiveView
+  * [Integrating Chart.js into Elixir Phoenix for visual impact | by Lionel Aimerie | Aug, 2023 | Medium](https://medium.com/@lionel.aimerie/integrating-chart-js-into-elixir-phoenix-for-visual-impact-9a3991f0690f)
+  * [WyeWorks | Building a LiveView component with GitHub Copilot and ChatGPT - Part 1](https://www.wyeworks.com/blog/2023/06/26/building-a-live-view-component-with-github-copilot-and-chatgpt-part-1/)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
