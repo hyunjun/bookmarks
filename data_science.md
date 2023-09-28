@@ -668,6 +668,7 @@ Data Science
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
 * [Robson Junior - Mastering a data pipeline with Python: 6 years of learned lessons from mistakes - YouTube](https://www.youtube.com/watch?v=O-0Z6NKRfvk)
+* [PyData Boston September 2023 session 1: Data sci done wrong: how & why data scientists make mistakes - YouTube](https://www.youtube.com/watch?v=dI_-shCf72M)
 * [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
 * [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
