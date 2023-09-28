@@ -347,6 +347,7 @@ Machine Learning
 * [ML From Scratch, Part 1: Linear Regression](http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/)
 * [선형회귀 Linear Regression - 최소제곱법, 평균제곱오차, 경사하강법](https://blog.naver.com/pjt3591oo/222250225034)
 * [6 TYPES OF REGRESSIONS, DID YOU KNOW?](https://www.analyticsinsight.net/6-types-of-regressions-have-you-heard/)
+* [Fully Explained PolyFit Method for Machine Learning Predictions | by Amit Chauhan | Level Up Coding](https://levelup.gitconnected.com/fully-explained-polyfit-method-for-machine-learning-predictions-348aaa5f5158)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
