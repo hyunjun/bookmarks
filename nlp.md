@@ -2385,6 +2385,8 @@ NLP
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation\_and\_dependence)
 * [faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+  * [카탈로그 내 중복 상품 찾기의 자동화 | 쿠팡 엔지니어링 | Coupang Engineering Blog](https://medium.com/coupang-engineering/matching-duplicate-items-to-improve-catalog-quality-9ed4455b4ed3)
+    * [컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2242/)
   * [FaissImputer: Missing data imputation using Faiss for enhanced data quality](https://github.com/ScionKim/FaissImputer)
     * [Introducing FaissImputer: Impute Missing Values using Faiss | by 김학길 | Aug, 2023 | Medium](https://medium.com/@scionkim\_71044/introducing-faissimputer-impute-missing-values-using-faiss-a74a8b011b80)
   * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
