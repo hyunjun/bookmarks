@@ -841,6 +841,7 @@ NLP
   * [기술은 끝이 없다. - 정육각 그리고 초록마을의 사업에서 치열하게 수정하고, 개선하고, 끝없이 학습하는 개발자의 이야기](https://blog.jeongyookgak.com/service/2023/08/01/gpt-applied-search.html)
   * [Creating Jarvis powered by OpenAI and Python | ChatGPT - YouTube](https://www.youtube.com/watch?v=BEw5EFqCCEI)
   * [긴급방송 ChatGPT 파인튜닝 코드 공유 및 시연 - TheMatrix 이태희 대표(빵형의개발도상국) - YouTube](https://www.youtube.com/watch?v=3JNgRcvf2YA)
+  * [A Bicycle for the (AI) Mind: GPT-4 + Tools - YouTube](https://www.youtube.com/watch?v=KMT2vpyq4Fw) API call
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1432,6 +1433,7 @@ NLP
 * ['작을 수록 좋은 것' 대규모 언어 모델은 축소되어야 한다 - ITWorld Korea](https://www.itworld.co.kr/news/307765)
 * [LLM 모델 기반 서비스 실전 가이드 | PPT](https://www.slideshare.net/taeyounglee1447/llm-261139869)
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
+* [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
