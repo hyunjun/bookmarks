@@ -1408,6 +1408,7 @@ SQL
 * [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 * [Towards Inserting One Billion Rows in SQLite Under A Minute - blag](https://avi.im/blag/2021/fast-sqlite-inserts/)
 * [파이썬 Python 코딩 - 전화번호부 만들기2 (SQLite DB 사용) - YouTube](https://www.youtube.com/watch?v=1JGWWH95O1g)
+* [How to Use SQLite with Python](https://www.freecodecamp.org/news/sqlite-python-beginners-tutorial/)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [SQLite-Image-Handler: Simple to use image handler for python sqlite3.](https://github.com/mozancetin/SQLite-Image-Handler)
   * [Simple to use image handler for python sqlite3](https://pythonawesome.com/simple-to-use-image-handler-for-python-sqlite3/)
