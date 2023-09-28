@@ -5825,6 +5825,8 @@ Javascript
   * 파일 디스크립터를 닫거나 데이터베이스 연결을 종료하는 등 후처리 작업에 `using`을 사용하고 자동 처리 가능
   * 비동기를 위한 `Symbol.asyncDispose`와 `await using`도 있음
   * [using-keyword.md at master · yeonjuan/dev-blog · GitHub](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/using-keyword.md)
+  * [JavaScript의 using을 사용해 보자 - Part 1 | Onepredict Engineering](https://onepredict.github.io/using-keyword/)
+  * [JavaScript의 using을 사용해 보자 - Part 2 | Onepredict Engineering](https://onepredict.github.io/using-keyword-part2/)
 * [Type-Safe하게 다형성 지원하기](https://f-lab.kr/blog/polymorphism-with-type-safe)
 * [새로운 JS 키워드가 뜬다! - YouTube](https://www.youtube.com/watch?v=-NmwyJ5S-IY) using
 * [ArkType | ArkType](https://arktype.io/) TypeScript's 1:1 validator, optimized from editor to runtime
