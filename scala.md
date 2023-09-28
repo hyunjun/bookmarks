@@ -1063,6 +1063,7 @@ Scala
     * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
     * [Zymposium — Full Stack Frontend - YouTube](https://www.youtube.com/watch?v=lJvoeYlRf-g)
     * [Zymposium — Type-Level Sets - YouTube](https://www.youtube.com/watch?v=N_it0qwk7_U)
+    * [Zymposium - New ZIO Feature - YouTube](https://www.youtube.com/watch?v=OUEHqBtvWD4)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
