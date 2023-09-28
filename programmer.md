@@ -288,6 +288,7 @@ Programmer
 * [What happens to developers who never go into management? | by WBS CODING SCHOOL | Medium](https://wbscodingschool.medium.com/what-happens-to-developers-who-never-go-into-management-1f1d8483e4bd)
 * [IT 커리어를 '서서히 망치는' 11가지 함정 - CIO Korea](https://www.ciokorea.com/news/233599)
 * [The Other Kind of Staff Software Engineer - Earthly Blog](https://earthly.dev/blog/line-staff/)
+* [The Secret to Finding Impactful Projects to Land a Staff-Plus Engineer Role - YouTube](https://www.youtube.com/watch?v=MO793FafKwQ)
 * [Why You Should Build a “Career Portfolio” (Not a “Career Path”)](https://hbr.org/2021/10/why-you-should-build-a-career-portfolio-not-a-career-path)
 * [Curated paths for developers | pathify](https://pathify.dev/)
 * [한기용 - 성장하는 조직의 성장통 - 레벨링하기](https://www.linkedin.com/posts/activity-6970604688056487936-t7Ty/)]
