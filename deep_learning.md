@@ -1067,6 +1067,7 @@ Deep Learning
       * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
       * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
   * [FastAI Deep Learning Course - Study with Me - YouTube](https://www.youtube.com/playlist?list=PLpdmBGJ6ELULBj7a16Dl2m9ABQTrgUOuS)
+  * [딥러닝 이미지 분류 모델 만들기 실습 - YouTube](https://www.youtube.com/watch?v=bDuEvlbZNMg)
 * [Full Stack Deep Learning - Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
   * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
     * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
