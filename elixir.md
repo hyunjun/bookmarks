@@ -133,6 +133,7 @@ Elixir
 * [Live Coding Elixir - Hardhat session 7 - seanicuscode - Twitch](https://m.twitch.tv/videos/1922312969)
 * [Underjord | Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [10년 전에 Clojure로 짠 트위터 인용봇을 Elixir로 재작성한 후기](http://ohyecloudy.com/pnotes/archives/tbot-800-ex/)
+* [Handling state between multiple processes with elixir - DEV Community](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
