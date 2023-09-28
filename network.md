@@ -405,6 +405,7 @@ Network
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [TCP/IP 네트워크 스택 이해하기](http://d2.naver.com/helloworld/47667)
 * [프로그래밍 기술/TCPIP 프로토콜](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/TCPIP%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+* [네트워크 TCP 동작 메커니즘 - 이론편 : 네이버 블로그](https://blog.naver.com/pjt3591oo/223223756346)
 * [좀비를 사용해서 정보수집을 해보자(TCP idle Scan)](https://www.youtube.com/watch?v=2-lRPpnT-tc)
 * [IPv4 TCP Socket, Listen 에서 Accept 까지…](https://charsyam.wordpress.com/2018/01/09/%ec%9e%85-%ea%b0%9c%eb%b0%9c-ipv4-tcp-socket-listen-%ec%97%90%ec%84%9c-accept-%ea%b9%8c%ec%a7%80/)
 * 리눅스 서버의 TCP 네트워크 성능을 결정짓는 커널 파라미터 이야기
