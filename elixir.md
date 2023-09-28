@@ -134,6 +134,7 @@ Elixir
 * [Underjord | Why do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [10년 전에 Clojure로 짠 트위터 인용봇을 Elixir로 재작성한 후기](http://ohyecloudy.com/pnotes/archives/tbot-800-ex/)
 * [Handling state between multiple processes with elixir - DEV Community](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
+* [Lifting Your Loads for Maintainable Elixir Applications - Erlang Solutions](https://www.erlang-solutions.com/blog/lifting-your-loads-for-maintainable-elixir-applications/)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -238,6 +239,7 @@ Elixir
   * [Animate a Side Drawer with LiveView.JS](https://www.peterullrich.com/animate-a-side-drawer-with-live-view-js)
   * [Star-Crossed LiveView Processes · The Phoenix Files](https://fly.io/phoenix-files/star-cross-live-view-processes/)
   * [ElixirConf 2023 - Brian Cardarella - LiveView Native - YouTube](https://www.youtube.com/watch?v=xBi2Hj22qUU)
+  * [Integrating Chart.js into Elixir Phoenix for visual impact | by Lionel Aimerie | Aug, 2023 | Medium](https://medium.com/@lionel.aimerie/integrating-chart-js-into-elixir-phoenix-for-visual-impact-9a3991f0690f) LiveView
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
