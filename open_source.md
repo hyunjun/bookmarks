@@ -146,6 +146,7 @@ Open Source
 * [모질라 허브로 게임 만들기가 가능해집니다. (BGs 프로젝트)](https://blog.naver.com/fstory97/223199220902) 
   * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 * [Why I quit open source - DEV Community](https://dev.to/sapegin/why-i-quit-open-source-1n2e)
+* [오픈 소스 메커니즘](https://velog.io/@skydoves/open-source-machenism)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
