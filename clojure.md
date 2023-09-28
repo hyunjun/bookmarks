@@ -372,6 +372,7 @@ Clojure
 * [(recur thoughts "Building a library III - Study case ez-wire")](https://emil0r.com/posts/2021-05-09-building-a-library-3/)
 * [(recur thoughts "Building a library IV")](https://emil0r.com/posts/2021-05-10-building-a-library-4/)
 * [Organizing Clojure code with Functional Core, Imperative Shell | by Shantanu Kumar | May, 2021 | Medium](https://kumarshantanu.medium.com/organizing-clojure-code-with-functional-core-imperative-shell-2f2ee869faa2)
+* [Executing Shell / System commands in Clojure - YouTube](https://www.youtube.com/watch?v=XI5XgghuBSA)
 * [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
 * [The Classpath is a Lie](https://lambdaisland.com/blog/2021-08-25-classpath-is-a-lie)
 * [classpath: Classpath/classloader/deps.edn related utilities](https://github.com/lambdaisland/classpath)
