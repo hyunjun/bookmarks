@@ -1527,6 +1527,7 @@ NLP
   * [기고 | LLM과 함께 뜨는 중··· 개발자를 위한 '랭체인' 안내서 - CIO Korea](https://www.ciokorea.com/news/305341)
   * [“LLM 개발을 더 간편하게” 랭체인(LangChain)의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/307189)
   * [랭체인으로 수익형 AI 웹서비스 만들기 with ChatGPT, LLaMA 2 - YouTube](https://www.youtube.com/watch?v=EWKbZFqiCsE)
+  * [Announcing LangChain for Elixir · The Phoenix Files](https://fly.io/phoenix-files/announcing-langchain-for-elixir/)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
