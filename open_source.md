@@ -339,6 +339,7 @@ Open Source
       * 이 저장소에는 오픈소스 저장소에 추가할 각 라이센스 등의 문서와 정책, 가이드가 포함
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
+* [InvenTree - Open Source Inventory Management System based on Django/Python - YouTube](https://www.youtube.com/watch?v=ZeTejr0Am4w)
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
