@@ -324,9 +324,10 @@ Interview
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
-  * [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52) 기초~실습문제까지 전체적인 부분
+  * [System Design | HiredInTech](https://www.hiredintech.com/system-design/)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) 기본 component와 문제, 그 외 여러가지 주제들에 대한 links
   * [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md)
+* [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
 * [system-design: Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
@@ -590,7 +591,6 @@ Interview
   * [System Design Using Bloom Filter | What is Bloom Filter | Data Structure - YouTube](https://www.youtube.com/watch?v=hFMuWNscjyI)
   * [Payment Gateway System Design | Payment Processing | System Design - YouTube](https://www.youtube.com/watch?v=NxjGFIgFCbg)
   * [Google system design interview: Design Spotify (with ex-Google EM) - YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
-* [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
