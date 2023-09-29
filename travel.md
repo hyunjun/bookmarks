@@ -64,9 +64,6 @@ Travel
 * [물가가 저렴한 해외여행지](https://www.skyscanner.co.kr/news/cheap-countries-to-travel)
 * [해외여행 시 요긴한 아이템 vs 쓸데 없는 아이템](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160829140611730)
 * [당신과 달리는 길](http://media.daum.net/life/outdoor/photo/newsview?newsId=20160928013411037)
-* [항공 덕후의 퍼스트클래스 항공권 구매방법](http://chemistyworld.tistory.com/121)
-* [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
-  * [blog.fltgraph.com](https://blog.fltgraph.com/)
 * [휴양지 여행 백과](http://100.daum.net/series/17/list)
 * [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
 * [25 Of The Most Picturesque Small Towns From Around The World](https://designsmaz.com/picturesque-small-towns/)
@@ -81,6 +78,11 @@ Travel
 
 # 항공권 flgith ticket
 * [blog.naver.com/dgkim100](https://blog.naver.com/dgkim100) 항공권 검색 의뢰
+* [항공 덕후의 퍼스트클래스 항공권 구매방법](http://chemistyworld.tistory.com/121)
+* [fltgraph.co.kr](http://fltgraph.co.kr/) 좋은 스케줄의 저렴한 항공권 여정 소개
+  * [blog.fltgraph.com](https://blog.fltgraph.com/)
+* [Google 항공편 검색 - 저렴한 항공편 옵션 찾기 및 가격 추적](https://www.google.com/travel/flights)
+* [Skiplagged: The smart way to find cheap flights.](https://skiplagged.com/)
 
 # Europe
 * [내 생에 최고의 여행 사진 남기기](http://jh4hj.tistory.com/entry/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EB%82%A8%EA%B8%B0%EA%B8%B0-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EC%9E%98-%EC%B0%8D%EB%8A%94-%EB%B9%84%EA%B2%B0-%EC%9C%A0%EB%9F%BD-%EA%B0%81-%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%8F%AC%ED%86%A0%EC%8A%A4%ED%8C%9F)
