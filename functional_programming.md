@@ -219,6 +219,7 @@ Functional Programming
 * [Higher-Order Function 이란 무엇인가](https://hg-pyun.github.io/what-is-higher-order-function/)
 * [Template Method rocks but Higher Order Function can do the trick](https://medium.com/qualyteam-engineering/template-method-rocks-but-higher-order-function-can-do-the-trick-bbef12ac6c70)
 * [Alice And The Return To The World Of Pods And Higher-Order Functions by Roksolana Diachuk - YouTube](https://www.youtube.com/watch?v=DjTGq75OMM4)
+* [OOP classes vs Higher-order Functions (HOFs) - Alexandru Nedelcu](https://alexn.org/blog/2023/09/25/oop-classes-vs-higher-order-functions-hofs/) OOP class vs. final OOP class vs. HOF
 
 # Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
