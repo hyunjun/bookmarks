@@ -3848,6 +3848,7 @@ Programming
   * 이 공격을 알게 된 후 모든 세션을 취소하고 사용자에게 알린 뒤 계정 탈취를 복구
   * 이번 공격은 멀티팩터 인증을 구현했지만, Google의 동기화 기능 업데이트를 통해 멀티팩터 인증이 싱글팩터 인증으로 바뀌게 되어 Okta를 획득하자 다른 모든 것에 인증 가능
 * [개인용 pc 를 서버로 사용한 안전한 원격 작업 실행 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4550)
+* [Building Images For The Secure Supply Chain • Adrian Mouat • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bZTlLAg9UZ4)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
