@@ -80,6 +80,8 @@ Data Visualization
 * [Data2Vis 자동으로 차트 만들기](http://mobicon.tistory.com/545)
 * [tf-seq2seq를 사용하여 자동으로 차트 만들기 - 2](http://mobicon.tistory.com/547)
 * [Data visualizations for text: How to show the process of writing with the writing graph](https://hackernoon.com/data-visualizations-for-text-how-to-show-the-process-of-writing-c3221fadfa4e)
+* [Force-Directed Graph](https://gist.github.com/mbostock/4062045)
+* [Force-based label placement](https://gist.github.com/MoritzStefaner/1377729)
 * [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach - Strategies for Effective Data Visualization](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 * [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
 * [Best Data and Big Data Visualization Techniques(KR)](https://databreak.netlify.com/2019-05-06-Best_Data_and_Big_Data_Visualization_Techniques)
@@ -180,6 +182,7 @@ Data Visualization
   * [Introducing visx from Airbnb. A collection of expressive, low-level… | by Chris C Williams | Airbnb Engineering & Data Science | Sep, 2020 | Medium](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
 
 ## Javascript D3.js
+* [d3: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:](https://github.com/d3/d3)
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
 * [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -232,6 +235,7 @@ Data Visualization
 * [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 * [Next, d3로 서버 사이드 지도 렌더링하기](https://zuminternet.github.io/real-estate-data-visualization/)
 * [d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기 | by Jung Han | Apr, 2021 | Medium](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
+* [CodeFlower Source code visualization](http://www.redotheweb.com/CodeFlower/)
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
