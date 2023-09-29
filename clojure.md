@@ -213,6 +213,7 @@ Clojure
 * [Clojure's unsung heroics with concurrency](https://purelyfunctional.tv/article/clojures-unsung-heroics-with-concurrency/)
 * [Clojure Concurrency: The Ultimate Guide](https://purelyfunctional.tv/guide/clojure-concurrency-the-ultimate-guide)
 * [The Dawn of Lightweight Concurrency for Java and Clojure](https://ales.rocks/notes-on-virtual-threads-and-clojure)
+* [This will cover 95% of all your needs - Clojure concurrency pragmatic guide! - YouTube](https://www.youtube.com/watch?v=46fTgn6y1GM)
 * [compojure-api-strong-coercions](https://github.com/eunmin/compojure-api-strong-coercions)
 * [masnun.com/category/clojure](http://masnun.com/category/clojure)
 * [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
