@@ -1262,6 +1262,8 @@ Deep Learning
 * [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * GauGAN [NVIDIA Research's GauGAN AI Art Demo Responds to Words | NVIDIA Blog](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/)
+* [generative_agents: Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)
+  * [25명 NPC에 생성AI 탑재하고 어떻게 사는지 봤더니 - YouTube](https://www.youtube.com/watch?v=BlklpSPbTIU)
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
   * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
   * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
