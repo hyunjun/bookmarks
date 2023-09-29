@@ -374,6 +374,8 @@ Haskell
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
 * [Haskell Programming](http://haskellbook.com/)
 * [Introduction to Haskell | Antoni Diller](http://www.cantab.net/users/antoni.diller/haskell/haskell.html)
+* [Learn Haskell by building a blog generator](https://learn-haskell.blog/)
+  * [Learn Haskell by building a blog - YouTube](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQcXoHWdzxnnuGlGWNXJg43R)
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Magical Haskell by Anton Antich Leanpub PDF/iPad/Kindle](https://leanpub.com/magicalhaskell)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
