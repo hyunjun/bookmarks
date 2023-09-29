@@ -2446,6 +2446,7 @@ Scala
 * [Guillaume Martres - Polymorphic Function Types in Scala 3 | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=VsnbPEVrcpg)
 * [Jamie Thompson - How does Incremental Compilation Work with Scala 3 | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=1uuFxEAiPuQ)
 * [Jack Viers - Testable Compiler Plugin Development in Scala 3 | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=UpsRLbEHmik)
+* [Work-in-Progress Scala 3 Specification | The Scala Programming Language](https://www.scala-lang.org/blog/2023/09/25/work-in-progress-scala-3-specification.html)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
