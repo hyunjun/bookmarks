@@ -1071,6 +1071,7 @@ Javascript
   * [FAST](https://www.fast.design/)
     * [How to Use Web Components with React | by Fernando Doglio | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/how-to-use-web-components-with-react-5b8bb59d6c5)
 * [Faster Websites with Web Components - YouTube](https://www.youtube.com/watch?v=1nNgaQA9gW8)
+* [웹 컴포넌트는 왜 등장했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2217/)
 * [The Many Flavours of Micro Front Ends - Better Programming - Medium](https://medium.com/better-programming/the-many-flavours-of-micro-front-ends-2db4b21dfbaa)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
