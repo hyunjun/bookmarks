@@ -4441,6 +4441,7 @@ Python
 * [Packaging Python in 2022 - presented by Jeremiah Paige - YouTube](https://www.youtube.com/watch?v=RXoDukRu9G4)
 * [Packaging Python in 2022 - YouTube](https://www.youtube.com/watch?v=tw0B_Mx45wQ)
 * [An unbiased evaluation of environment management and packaging tools — Anna-Lena Popkes - YouTube](https://www.youtube.com/watch?v=3-drZY3u5vo)
+* [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
@@ -4473,10 +4474,6 @@ Python
   * [Pip constraints files - Blog | luminousmen](https://luminousmen.com/post/pip-constraints-files)
   * [How to Create Python Packages for Sharing Code and Installing with pip - YouTube](https://www.youtube.com/watch?v=fT-3V8t01DE)
   * [Installing Packages With pip: Python Basics - YouTube](https://www.youtube.com/watch?v=4GT8fPvZDv8)
-  * [Don't Use Pip For Big Projects - Use These Instead - YouTube](https://www.youtube.com/watch?v=jVcN49sHbBQ)
-* [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
-* pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
-* [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
@@ -4486,7 +4483,9 @@ Python
   * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
   * [파이썬 패키지 설치할 때 SSL 인증 오류 해제 방법](https://surpreem.com/%ED%8C%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%A0-%EB%95%8C-ssl-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95/)
   * [Python App을 위한 Pipenv](https://item4.github.io/2018-04-20/Pipenv-for-Python-App/)
+  * [Don't Use Pip For Big Projects - Use These Instead - YouTube](https://www.youtube.com/watch?v=jVcN49sHbBQ)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
+* [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
   * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
@@ -4526,6 +4525,7 @@ Python
   * [파이썬 Python 코딩 - 가상환경 사용 방법, 배포파일 생성 방법 (feat. pyinstaller) - YouTube](https://www.youtube.com/watch?v=7fRf68xl2F4)
   * [PyUpdater PyInstaller의 단일 실행파일 + 자동 업데이트 기능](https://jangminhyeok.tistory.com/9)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
+* pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [State Tool CLI :: ActiveState Platform Documentation](https://docs.activestate.com/platform/state/)
   * [How to manage Python environments: Global vs Virtual - ActiveState](https://www.activestate.com/blog/how-to-manage-python-environments-global-vs-virtual/)
 * [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel](https://github.com/google/subpar)
