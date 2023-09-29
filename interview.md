@@ -548,6 +548,8 @@ Interview
     * [Predicting Time to Cook, Arrive, and Deliver at Uber Eats](https://www.infoq.com/articles/uber-eats-time-predictions/)
     * [Ace the System Design Interview — Uber/Lyft | by Zixuan Zhang | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3)
     * [System Design — Nearby Places Recommender System | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977)
+    * [Uber's Tech Stack](https://www.linkedin.com/posts/hinaaroraa_%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F-ever-wonder-activity-7110457611262570496-95tB/)
+    * [Uber System Design](https://www.linkedin.com/posts/hinaaroraa_comment-technology-design-activity-7110095232276299776-dYwj/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
@@ -560,6 +562,7 @@ Interview
       * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
       * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
       * [NETFLIX System Design: How does Netflix onboard new content?](https://www.youtube.com/watch?v=x9Hrn0oNmJM)
+      * [Netflix's Overall Architecture](https://www.linkedin.com/posts/hinaaroraa_hinaarora-systemdesign-netflix-activity-7109732844482048000-SaYi/)
     * Youtube
       * [**Seattle Conference on Scalability: YouTube Scalability**](https://www.youtube.com/watch?v=w5WVu624fY8) 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
         * [YouTube Architecture](http://highscalability.com/youtube-architecture)
