@@ -480,6 +480,7 @@ Data Science
 * [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
 * [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 * [Free Book: Foundations of Data Science (from Microsoft Research Lab) - DataScienceCentral.com](https://www.datasciencecentral.com/new-book-foundations-of-data-science-from-microsoft-research-lab/)
+* [PDA_Book: Code Examples Data Science using Python](https://github.com/hmcuesta/PDA_Book/)
 * [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
   * [판다스 개발자가 직접 쓰고 공개한 파이썬 데이터 분석 3판](https://www.youtube.com/watch?v=GYv5r1SQWe0)
 
