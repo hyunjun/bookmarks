@@ -4282,6 +4282,7 @@ Programming
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
   * [Backstage란?](https://nauco.tistory.com/113)
   * [Shaping The Future of Developer Productivity with Spotify Backstage • Lee Mills • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ptknWtmqrZM)
+  * [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
