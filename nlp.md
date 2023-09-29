@@ -992,6 +992,7 @@ NLP
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
   * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
+* [해외에서 가져온 치트키 프롬프트로 하루만에 인공지능 비즈니스 시작하기 | 할아버지 프롬프트 | superpowerGPT | Deep L #부트캠프 - YouTube](https://www.youtube.com/watch?v=y5Pk1biS-3g)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
