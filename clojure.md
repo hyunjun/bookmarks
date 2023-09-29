@@ -446,6 +446,7 @@ Clojure
 * [Building a real-world Clojure application from SCRATCH - YouTube](https://www.youtube.com/playlist?list=PLRGAFpvDgm2ylbXYIjvu3kI426zAP_Lqc)
 * [Griffin - The bank you can build on](https://griffin.com/)
   * [Clojure in Banking: Griffin](https://www.juxt.pro/blog/clojure-in-griffin/)
+* [Clojure in production: what do we use in real-world services? - YouTube](https://www.youtube.com/watch?v=bME124Ky8M0)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
