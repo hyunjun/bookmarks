@@ -35,7 +35,6 @@ Java
 * [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
 * [자바 20주년 특집 - 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
-* [Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * ~[DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)~
 * [9회 공감세미나 세션 1 자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
@@ -124,6 +123,7 @@ Java
 * [Investigating MD5 overheads | Claes Redestad’s blog](https://cl4es.github.io/2021/01/04/Investigating-MD5-Overheads.html) UUID
 * [The Modern Java Platform - 2021 Edition - James Ward](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
   * [The Modern Java Platform - 2021년판 | GeekNews](https://news.hada.io/topic?id=3907)
+* ["(Modern) Java for Clojure Programmers" by James Henderson - YouTube](https://www.youtube.com/watch?v=NccnidiRknA)
 * [21 Tech Skills Java Developers Can Learn in 2021](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [SARO](https://saro.me/)
 * [Ahead of Time Compilation (AoT) | Baeldung](https://www.baeldung.com/ahead-of-time-compilation)
