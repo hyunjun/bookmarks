@@ -84,6 +84,7 @@
 * [Curried Kotlin. Kotlin supports functional programming… | by TheCililing | Medium](https://medium.com/@przemek.materna/curried-kotlin-48166885ddfa)
 * [Curry 와 Partial-Application](https://www.roach-dev.com/functional-programming/curry/)
 * [Functional Programming in Kotlin • Jacob Bass • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=PvnnM35MTPg)
+* [Kotlin & Functional Programming: pick the best, skip the rest by Urs Peter - YouTube](https://www.youtube.com/watch?v=Ed3t4WAe0Co)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
 * [Clean Architecture Example in Kotlin | by The Code Gang | HackerNoon.com | Medium](https://medium.com/hackernoon/clean-architecture-example-in-kotlin-9f23169219be)
