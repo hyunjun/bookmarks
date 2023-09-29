@@ -401,6 +401,7 @@
   * Python이 쉬운 언어이지만 타입 어노테이션도 쓰고 하다 보니 둘의 생산성 차이는 크게 느끼지 못함
   * 오히려 Rust의 컴파일 시간이 긴 것은 단점
 * [Building native Rust modules for Python — Arthur Pastel - YouTube](https://www.youtube.com/watch?v=r2wCF5DjNJ4)
+* [From Python to Rust - YouTube](https://www.youtube.com/watch?v=4VV-FU5u8K8)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
