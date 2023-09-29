@@ -2131,6 +2131,7 @@ Business
   * 그래서 PM 역할을 없애고 PM과 마케터를 합쳐서 프로덕트 마케터로 만들고 디자이너가 PM처럼 제품 제품에 참여할 수 있게 권한을 강화해서 각 제품을 만들도록 변경
   * 그 결과 코로나로 위기라던 airbnb의 수익이 크게 높아져서 손익분기점에까지 도달
 * [PM스터디 그것이 알고싶다. 오늘의 PM, 내일의 서비스 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13977/)
+* [프러덕 감을 테스트하기 위한 인터뷰 질문리스트](https://brunch.co.kr/@itschloe1/44)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
