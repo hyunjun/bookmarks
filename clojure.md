@@ -1066,6 +1066,7 @@ Clojure
   * [Leiningen: Split an uberjar into dependencies.jar and app.jar (to optimize Docker layers and AWS Lambda functions)](https://blog.jakubholy.net/leiningen-split-uberjar-into-dependencies-and-app/)
   * [Don't use Leiningen to run shell-scripts](https://grishaev.me/en/lein/)
   * [Emanuel Goette, alias Crespo: Como correr los test proyecto clojure?](https://emanuelpeg.blogspot.com/2021/05/como-correr-los-test-proyecto-clojure.html) lein test
+  * [How to use multi-stage Docker build for your Clojure application (with leiningen) - YouTube](https://www.youtube.com/watch?v=2dzHJx_hUDk)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
   * [lein-nsort: Leiningen plugin that checks that order of namespace declarations for Clojure and ClojureScript](https://github.com/ertugrulcetin/lein-nsort)
