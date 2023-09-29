@@ -236,6 +236,7 @@ Functional Programming
   * [6 : No Locks or Synchronized Blocks](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689)
   * [7 : Immutable Collections](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd)
 * [Java 8 transforming your thinking from OOP to FP](https://www.java-success.com/java-8-transforming-thinking-oop-fop-java-8-examples/)
+* [How Java & Scala are Imitating Functional Languages • Maurice Naftalin & José Paumard • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=e6n-Ci8V2CM)
 * [VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality](https://github.com/vavr-io/vavr)
   * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
