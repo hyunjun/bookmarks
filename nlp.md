@@ -179,6 +179,7 @@ NLP
   * [DAE for 철자 오류 교정](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/DAE\_for\_spelling\_error\_correction.ipynb)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/\~linghuan/feedbackImageCaption/)
 * [루다, 눈을 뜨다! 포토챗 베타의 멀티모달 기술 소개 – 핑퐁팀 블로그](https://tech.scatterlab.co.kr/photochat-beta/) image comment
+* [멀티턴 이미지 대화: 조규성 vs 안정환, 루다야 누가 더 잘생겼어? – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/multiturn-image-dialogue/)
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 * [Deep Learning for Speech and Language](https://www.facebook.com/nextobe1/posts/339301146505887)
