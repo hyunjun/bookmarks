@@ -4473,6 +4473,7 @@ Python
   * [Pip constraints files - Blog | luminousmen](https://luminousmen.com/post/pip-constraints-files)
   * [How to Create Python Packages for Sharing Code and Installing with pip - YouTube](https://www.youtube.com/watch?v=fT-3V8t01DE)
   * [Installing Packages With pip: Python Basics - YouTube](https://www.youtube.com/watch?v=4GT8fPvZDv8)
+  * [Don't Use Pip For Big Projects - Use These Instead - YouTube](https://www.youtube.com/watch?v=jVcN49sHbBQ)
 * [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
 * pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
