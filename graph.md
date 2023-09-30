@@ -230,6 +230,7 @@ Graph
 * [Drug and Vaccine Discovery: Knowledge Graph + Apache Spark - YouTube](https://www.youtube.com/watch?v=Kj5bZ2afWSU)
 * [지식 그래프를 이용한 인재 추천 시스템 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/06/kgat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B8%EC%9E%AC-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * [Knowledge Graphs + Large Language Models = The ability for users to ask their own questions? | by Peter Lawrence | Mar, 2023 | Medium](https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72)
+* [지식 그래프를 활용한 UAM 도착 지연시간에 따른 승객 이탈률 분석 및 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=165226)
 * [pygraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips](https://github.com/nicolas-hbt/pygraft)
 
 # Library
