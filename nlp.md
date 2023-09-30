@@ -1586,6 +1586,7 @@ NLP
     * [The EASIEST way to finetune LLAMA-v2 on local machine! - YouTube](https://www.youtube.com/watch?v=3fsn19OI_C8)
     * [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper | Anyscale](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
       * [Llama2가 요약에 있어 GPT-4만큼 정확하며 30배 더 저렴 | GeekNews](https://news.hada.io/topic?id=10620)
+    * [라마2에 적용된 추론 속도 향상 기술인 GQA(Grouped Query Attention)에 대해](https://devocean.sk.com/blog/techBoardDetail.do?ID=165192)
     * [CoT-llama2 - Chain-of-thought 방식을 활용하여 llama2-ko를 fine-tuning](https://kyujinpy.tistory.com/103)
     * [exllamav2: A fast inference library for running LLMs locally on modern consumer-class GPUs](https://github.com/turboderp/exllamav2)
     * [Fine-Tuning LLMs: LoRA or Full-Parameter? An in-depth Analysis with Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2)
