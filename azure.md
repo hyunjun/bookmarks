@@ -190,6 +190,7 @@ Azure
 * [Docker | Azure Kubernetes Service | Azure DevOps - YouTube](https://www.youtube.com/playlist?list=PLtWisb74WDC9kSx9XdffAs8c0FNI3F_4z)
 * [AKS(Azure Kubernetes Service)에서 WASI(WebAssembly 시스템 인터페이스) 노드 풀을 만들어 WASM(WebAssembly) 워크로드(미리 보기)를 실행합니다. - Azure Kubernetes Service | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/aks/use-wasi-node-pools)
 * [GitHub 액션을 통해 ASP.NET 앱을 AKS에 배포한 후 성능 테스트 자동화하기 - YouTube](https://www.youtube.com/watch?v=kwJt6GcVlt4)
+* [AKS로 쿠버네티스 시작하기 : 스토리지 연결](https://devocean.sk.com/blog/techBoardDetail.do?ID=164744)
 * [AKS로 쿠버네티스 시작하기 : argocd툴에 ingress 통해 접속](https://devocean.sk.com/blog/techBoardDetail.do?ID=164784)
 
 # Conference Meetup Seminar
