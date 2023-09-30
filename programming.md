@@ -2589,7 +2589,12 @@ Programming
 * [Honeycomb: How We Used Serverless to Speed up Our Servers - YouTube](https://www.youtube.com/watch?v=tpoeJiXTVU0)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
-# Atlassian Jira
+# Atlassian
+
+## Atlassian Confluence
+* [Confluence에 HTML 백업 파일을 일괄 업로드하는 프로그램 개발기](https://devocean.sk.com/blog/techBoardDetail.do?ID=164689)
+
+## Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
 * [Atlassian JIRA Home](https://www.lesstif.com/jira/atlassian-jira-home-61898760.html)
   * [JQL(JIRA Query Language) 로 JIRA Issue(지라 이슈) 검색하기 #1](https://www.lesstif.com/jira/jql-jira-query-language-jira-issue-1-18220188.html)
@@ -5058,6 +5063,7 @@ Programming
   * [9월 2주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/09/b-9-2.html)
   * [9월 3주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/09/b-9-3.html)
   * [9월 4주 소식(빅데이터/인공지능, 하드웨어, 읽을거리 부문)](https://jhrogue.blogspot.com/2023/09/b-9-4.html)
+  * [9월 5주 소식(개발/설계/경력관리/보안/클라우드/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2023/09/b-9-5.html)
 * [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
 * [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
 * [goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents)
@@ -5400,6 +5406,7 @@ Programming
   * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
   * [Apache Heron - 실시간, 분산, fault-tolerant 스트림 처리 엔진 | GeekNews](https://news.hada.io/topic?id=4608)
   * [하루 400억 건을 처리하는 데이터 파이프라인 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=rCbzilpjsdY)
+* [bytewax: Python Stream Processing](https://github.com/bytewax/bytewax)
 * CEP Complex Event Processing
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
 * [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
