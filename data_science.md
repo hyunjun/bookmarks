@@ -740,6 +740,7 @@ Data Science
 * [Python Fundamentals For Data Engineering: Create your first ETL Pipeline - YouTube](https://www.youtube.com/watch?v=uqRRjcsUGgk)
 * [Python & Visual Studio Code - Revolutionizing the way you do data science - presented by Jeffrey Mew - YouTube](https://www.youtube.com/watch?v=uPRQXDjQhMs)
 * [Irina Klein - IMF Data Discovery and Collection | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=sAwQgbfSbjw)
+* [DEVOCEAN 메타분석 - 1. 데이터 탐색](https://devocean.sk.com/blog/techBoardDetail.do?ID=164870)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
