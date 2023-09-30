@@ -743,6 +743,7 @@ Java
 * [IntelliJ IDEA의 ‘빠른’ 기능 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/05/quick-features-in-intellij-idea/)
 * [10분 테코톡 오리의 Intellij Debugging - YouTube](https://www.youtube.com/watch?v=JSVvhwwOvAY)
 * [JetBrains IDE AI Assistant EAP 후기 (2023.07.12)](https://jojoldu.tistory.com/726)
+* [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
