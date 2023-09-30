@@ -284,6 +284,7 @@ TensorFlow
   * [#2-동물 사진을 학습 시켜보자](http://bcho.tistory.com/1193)
   * [#3-얼굴은 학습시켜보자](http://bcho.tistory.com/1194)
 * [TensorFlow Objet Detection API 사용법](https://github.com/V-AIS/tensorflow/tree/master/Object_Detection_API)
+* [통상적이지 않은 이미지 분류에 대한 고찰](https://devocean.sk.com/blog/techBoardDetail.do?ID=165266) object detection
 * [텐서플로우로 랜더링 엔진 만들기](http://hamait.tistory.com/887)
 * [텐서플로우 하이레벨 API에 대한 이해](http://bcho.tistory.com/1195)
 * [텐서플로우 하이레벨 API Estimator를 이용한 모델 정의 방법](http://bcho.tistory.com/1196)
