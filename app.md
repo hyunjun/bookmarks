@@ -774,6 +774,7 @@ App
 * REST Client VSCode extension
   * [How to use VScode for more efficient development work. - YouTube](https://www.youtube.com/watch?v=7stAiN5VzqE)
   * [vscode-restclient: REST Client Extension for Visual Studio Code](https://github.com/Huachao/vscode-restclient)
+  * [vs-rest-api: Visual Studio Code extension that provides a REST API to control your editor](https://github.com/mkloubert/vs-rest-api)
   * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 * xh
