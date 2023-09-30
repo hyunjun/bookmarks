@@ -135,6 +135,7 @@ Elixir
 * [10년 전에 Clojure로 짠 트위터 인용봇을 Elixir로 재작성한 후기](http://ohyecloudy.com/pnotes/archives/tbot-800-ex/)
 * [Handling state between multiple processes with elixir - DEV Community](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
 * [Lifting Your Loads for Maintainable Elixir Applications - Erlang Solutions](https://www.erlang-solutions.com/blog/lifting-your-loads-for-maintainable-elixir-applications/)
+* [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
