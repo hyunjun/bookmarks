@@ -2930,6 +2930,7 @@ Programming
   * [API 키 관리하는 방법 - AnyDoc](https://dev.alliknow.info/posts/2023/5/how-can-i-manage-api-keys)
   * [Introducing the Vercel Platforms Starter Kit – Vercel](https://vercel.com/blog/platforms-starter-kit)
     * Vercel을 이용해서 커스텀 도메인을 가진 멀티 테넌트 앱을 만드는 풀 스택 템플릿을 Vercel에서 공개
+  * [Next.js + Vercel + Github Workflow를 결합한 가장 아름다운 배포 자동화 | Univdev](https://univdev.page/posts/vercel-cicd/)
   * [Vercel Markup](https://service-markup.vercel.app/)
     * Vercel의 많은 제품이 다른 서비스 위에서 만들어졌는데 이를 기반으로 가격 차이가 어느 정도인지를 비교한 페이지, Vercel의 KV, Postgres, Blob이 비교
   * [Vercel Ship](https://vercel.com/ship)
@@ -4139,6 +4140,7 @@ Programming
 * [More Buzzwords Won't Help: The Long History of DevOps Failures • Andrew Clay Shafer • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=C8hma_YSBX0)
 * [웹 개발에서 DevOps의 역할 | AppMaster](https://appmaster.io/ko/blog/web-gaebalyi-debeuobseu)
 * [Dark Side of DevOps - YouTube](https://www.youtube.com/watch?v=iNqD6W_ubvo)
+* [해커톤에서 10분에 한 번 배포하기 (해커톤을 위한 DevOps) — 생존과 성장 사이](https://dokdo2013.tistory.com/13)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
