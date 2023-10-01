@@ -3559,6 +3559,7 @@ Python
   * [데이터 분석을 위한 파이썬 개발환경 구축 (Windows)](https://sjquant.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
   * [How to get started with Python for Deep Learning and Data Science](https://medium.freecodecamp.org/how-to-get-started-with-python-for-deep-learning-and-data-science-3bed07f91a08)
   * [아나콘다 소개와 주피터 확장 설치방법 소개 - YouTube](https://www.youtube.com/watch?v=TSGcBvZo-8g)
+  * [jupyter notebook에서 anaconda env를 사용해보자](https://pinedance.github.io/blog/2020/06/27/jupyter-notebook-and-conda-env)
   * [conda-forge | community driven packaging for conda](https://conda-forge.org/)
     * [Anaconda 꼭 사서 쓰세요. 아니라면 conda-forge!](https://devocean.sk.com/blog/techBoardDetail.do?ID=164615)
     * [miniforge: A conda-forge distribution](https://github.com/conda-forge/miniforge)
