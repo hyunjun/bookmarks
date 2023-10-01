@@ -2762,6 +2762,8 @@ NLP
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
 * [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
+* [speech_recognition: Speech recognition module for Python, supporting several engines and APIs, online and offline](https://github.com/Uberi/speech_recognition#readme)
+  * [Make a Voice Assistant with Python - YouTube](https://www.youtube.com/watch?v=iwVaAAEE4fo)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
