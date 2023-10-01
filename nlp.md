@@ -1631,6 +1631,7 @@ NLP
 * [llm-tutorials: A set of LLM Tutorials from my youtube channel](https://github.com/samwit/llm-tutorials)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [LMOps: General technology for enabling AI capabilities w/ LLMs and Generative AI models](https://github.com/microsoft/LMOps)
+* [Mistral 7B | Mistral AI | Open source models](https://mistral.ai/news/announcing-mistral-7b/)
 * [MLC LLM | Home](https://mlc.ai/mlc-llm/)
   * [mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone's devices](https://github.com/mlc-ai/mlc-llm)
 * [MosaicML | Home](https://www.mosaicml.com/)
