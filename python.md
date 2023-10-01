@@ -2914,6 +2914,7 @@ Python
   * [PyAutoGui: Control the Mouse (Part 3)](https://www.youtube.com/watch?v=4rgt7Od7-KM)
   * [Advanced Python Programming - GUI Automation with PyAutoGUI](https://www.youtube.com/watch?v=1RE5tSPO2RI)
   * [파이썬 이미지 인식 기반 자동화 테스트](https://ambitious-molecule-2ed.notion.site/d5866ed73cc74007afaeb161c535344b)
+  * [Control Your Computer with Python - YouTube](https://www.youtube.com/watch?v=ByIdnfMFG3E)
 * [pyimgui: Cython-based Python bindings for dear imgui](https://github.com/pyimgui/pyimgui)
   * [Pythonizing Imgui (feat. Cython) and contributing to open source. - YouTube](https://www.youtube.com/watch?v=wh_W-veFpKU)
 * PyQT
