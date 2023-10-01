@@ -913,6 +913,7 @@ Go
 
 ## Library GUI
 * [Building Modern Desktop Apps with Go and HTML5](https://morioh.com/p/213be5859393)
+* [The beauty of Go for building cross-platform graphical applications - YouTube](https://www.youtube.com/watch?v=VESXrgCW50g) Enlightenment, EFL, Maven and Fyne
 * [fyne - Cross platform GUI in Go based on Material Design](https://github.com/fyne-io/fyne)
 * [Gio - immediate mode GUI in Go](https://gioui.org/)
 * [lorca: Build cross-platform modern desktop apps in Go + HTML5](https://github.com/zserge/lorca)
@@ -1112,10 +1113,11 @@ Go
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Displaying Movies By Genre | Creating a Web App Using Golang & Reactjs - YouTube](https://www.youtube.com/watch?v=QshMixuPOnY)
 * [Zero downtime API in Golang. If we start a new application we should… | by Daniel Sedlak | Medium](https://wutch.medium.com/zero-downtime-api-in-golang-d5b6a52cc0ed)
+* [Rest api with go | HandleFunc in go | Golang API tutorial - YouTube](https://www.youtube.com/watch?v=YftTQFTFnvk)
+* [Learn GO Fast: Building an API - YouTube](https://www.youtube.com/watch?v=WQxAm0TMwyY)
 * [Creating a simple WebAPI in GoLang](https://www.sourishchakraborty.com/post/creating-a-simple-webapi-in-golang)
 * [Building a Go Web App from Scratch](https://morioh.com/p/c47c4e5002de)
 * [Popular golang web framework | backend web framework in go - YouTube](https://www.youtube.com/watch?v=29BNBEUhP18)
-* [Rest api with go | HandleFunc in go | Golang API tutorial - YouTube](https://www.youtube.com/watch?v=YftTQFTFnvk)
 * [Build a web scraper with Go - DEV Community](https://dev.to/claudbytes/build-a-web-scraper-with-go-3jod)
 * [Proper HTTP shutdown in Go - DEV Community](https://dev.to/mokiat/proper-http-shutdown-in-go-3fji)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
