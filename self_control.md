@@ -85,3 +85,6 @@ Self Control
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
+
+* [Zeigarnik effect - Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik_effect)
+  * [미루는 습관? 5분만에 박살내는 특급 비법! - YouTube](https://www.youtube.com/watch?v=GPt5BA2gz0s&t=201s)
