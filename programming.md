@@ -3957,6 +3957,7 @@ Programming
 * [Data Mesh Architecture](https://www.datamesh-architecture.com/)
 * [From Data Mess to Data Mesh: Navigating People, Process & Platforms • Nicki Watt • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TONOUCAkfLE)
 * [Platform Building for Data Mesh - Show me how it is done! by Tom De Wolf - YouTube](https://www.youtube.com/watch?v=wG2g67RHYyo)
+* [Data - The Land DevOps Forgot • Michael Nygard • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=459-H33is6o)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
@@ -4292,6 +4293,7 @@ Programming
   * [Backstage란?](https://nauco.tistory.com/113)
   * [Shaping The Future of Developer Productivity with Spotify Backstage • Lee Mills • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ptknWtmqrZM)
   * [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
+  * [GitOps Infrastructure with Backstage + Crossplane + ArgoCD - YouTube](https://www.youtube.com/watch?v=Ii-lpLuzPxw)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
