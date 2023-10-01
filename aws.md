@@ -1936,6 +1936,7 @@ AWS
 * [MSK and Glue Schema Registry: managed event stream platform on AWS. | by Igoreulalio Ie | Mar, 2022 | Medium](https://medium.com/@igoreulalio.ie/msk-and-glue-schema-registry-managed-event-stream-platform-on-aws-dcaaf451d77c)
 * [How SOCAR built a streaming data pipeline to process IoT data for real-time analytics and control | AWS Big Data Blog](https://aws.amazon.com/ko/blogs/big-data/how-socar-built-a-streaming-data-pipeline-to-process-iot-data-for-real-time-analytics-and-control/)
 * [Amazon MSK를 이용하여 Amazon Athena로 실시간 스트리밍 데이터 분석하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/analyze-real-time-streaming-data-in-amazon-msk-with-amazon-athena/)
+* [Amazon MSK, Kafka 토픽을 Kinesis Data Firehose를 통해 Amazon S3로 전송 가능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
