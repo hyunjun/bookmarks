@@ -109,6 +109,7 @@ Docker
 * [Docker Tutorial Full Course | Drive Link Series - YouTube](https://www.youtube.com/watch?v=3wl9yuyBelg)
 * [따배도 도커 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLApuRlvrZKogb78kKq1wRvrjg1VMwYrvi)
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
+* [Docker Best Practices for Node Developers](https://morioh.com/a/7dea17309e0e/docker-best-practices-for-node-developers)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=QLENvSMSD-0)
 * [Running Python Script on Docker - YouTube](https://www.youtube.com/watch?v=YUZl6x_fupY)
 * [How to create a great dev environment with Docker - YouTube](https://www.youtube.com/watch?v=0H2miBK_gAk) python
@@ -272,6 +273,7 @@ Docker
     * [Create Docker Image without Dockerfile in Spring Boot](https://morioh.com/p/56262a739ff3)
     * [스프링부트 어플리케이션 도커이미지 만들고 실행하기 - YouTube](https://www.youtube.com/watch?v=2bpgUZ-geqc)
     * [spring boot docker - YouTube](https://www.youtube.com/watch?v=HXgHgYRr3eY)
+    * [Using JLink to create smaller Docker images for your Spring Boot Java application | Snyk](https://snyk.io/blog/jlink-create-docker-images-spring-boot-java/)
     * [도커 기초 명령어 #스프링-부트 - YouTube](https://www.youtube.com/watch?v=xurih1ca0jk)
   * javascript
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
