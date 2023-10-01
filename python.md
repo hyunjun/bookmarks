@@ -369,6 +369,7 @@ Python
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
 * [**Interesting Python Tips and Tricks | by Ravi | Analytics Vidhya | Sep, 2020 | Medium**](https://medium.com/analytics-vidhya/interesting-python-tips-and-tricks-6d033967b5a5)
 * [Here are some tips to speed up your Python program | by Anh T. Dang | Nov, 2021 | Level Up Coding](https://levelup.gitconnected.com/here-are-some-tips-to-speed-up-your-python-program-e47257b4e6d3)
+* [삶이 편해지는 파이썬 팁들 - Google Slides](https://docs.google.com/presentation/d/1PUVeTFNwLjb_T9to6O7eU1vPogMgq-REPASpSS95eno/edit)
 * [5 Useful Python Scripts. Part 10: Excel Files Merger, Extended… | by Harendra Verma | May, 2022 | Python in Plain English](https://python.plainenglish.io/5-useful-python-scripts-3b3445ece8e8)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
@@ -1020,6 +1021,7 @@ Python
   * [Python List Comprehensions in 5-minutes | by Daniel Bourke | Towards Data Science](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
   * [List Comprehension in Python Explained for Beginners](https://www.freecodecamp.org/news/list-comprehension-in-python/)
   * [왜 리스트 컴프리헨션에 if만 있을때와 else도 있을 때 문법이 다를까?](https://lazymatlab.tistory.com/167)
+  * [파이썬의 리스트 컴프리헨션(list comprehension)과 조건제시법(set builder natation)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165288)
   * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
@@ -3476,6 +3478,7 @@ Python
 * [The Top 10 Python Frameworks for Web Development](https://www.activestate.com/blog/the-top-10-python-frameworks-for-web-development/)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
+* [Abhinav Upadhyay on X: "Why and How CPython use Bloom Filters inside some of its String APIs, such as splitlines and strip? Let's take a tour of CPython internals to understand the use of bloom filters within CPython's string APIs and to see how it implements the bloom filter. Use of Bloom FIlters in… https://t.co/RgTmHkbyhj" / X](https://twitter.com/abhi9u/status/1702668471551840594)
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
@@ -4590,6 +4593,7 @@ Python
 ## Library parallel
 * [High Performance Python - YouTube](https://www.youtube.com/watch?v=HhV6yzKXqFU) coiled, numba, dask, rapids
 * [Parallel Processing in Python || Aaron Richter - YouTube](https://www.youtube.com/watch?v=L6jti_WXKKw)
+* [PySpark, Dask or Ray, how to scale your python workloads? - DEV Community](https://dev.to/dataroots/pyspark-dask-or-ray-how-to-scale-your-python-workloads-143l)
 * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
 * [Daft: The Distributed Python Dataframe — getdaft.io documentation](https://www.getdaft.io/)
   * [Daft: The Python DataFrame for Complex Data](https://github.com/Eventual-Inc/Daft)
