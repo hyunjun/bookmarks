@@ -221,6 +221,8 @@ Programming
     > 2. 구체적인 피드백을 적절한 시기에 받아야 한다
     > 
     > 고 말할 수 있겠습니다. 단순히 반복한다고 해서 달인이 될 수 없습니다.
+* [AC2 교육의 역사 2023/9/7 - YouTube](https://www.youtube.com/watch?v=4Kzj8iqid5A)
+* [AC2 교육의 역사 2023 9 7 - YouTube](https://www.youtube.com/watch?v=H486LS7wAfY)
 * [MIT 컴공을 1년만에 독학으로 끝낸 문과생의 학습법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ultralearning20191017)
 * [야생학습 하고 있나요?. 쿠키런 킹덤이란 게임을 1년이상 했다. 수집형 RPG 게임이라 적당히… | by 송요창 | Oct, 2022 | Medium](https://medium.com/@totuworld/%EC%95%BC%EC%83%9D%ED%95%99%EC%8A%B5-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-fc35f2954a07)
 * [Cmap | Cmap Software](https://cmap.ihmc.us/docs/learn.php) Learn About Concept Maps, 일종의 knowledge graph인가?
