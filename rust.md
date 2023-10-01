@@ -229,6 +229,7 @@
 * [Building Embedded Systems With Rust - YouTube](https://www.youtube.com/watch?v=x7LQevYn7d0)
 * [From High-Level to Systems Programming: A Practical Guide to Rust by Ben Greenberg - YouTube](https://www.youtube.com/watch?v=avz_SQZMxCU)
 * [Would Rust make you a better Pythonista? — Alexys Jacob - YouTube](https://www.youtube.com/watch?v=HTb0FcKtkCc)
+* [P99 CONF: Rust, Wright's Law, and the Future of Low-Latency Systems - YouTube](https://www.youtube.com/watch?v=cuvp-e4ztC0)
 * [RustConf 2022 - YouTube](https://www.youtube.com/playlist?list=PL85XCvVPmGQhXeH3QiYct6eMLH1un1dcu)
 * [RustNL 2023 Conference - YouTube](https://www.youtube.com/watch?v=9Q4yNlbfiYk)
 
