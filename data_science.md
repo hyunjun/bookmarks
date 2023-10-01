@@ -572,6 +572,8 @@ Data Science
   * [Introducing Danfo.js, a Pandas-like Library in JavaScript — The TensorFlow Blog](https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html)
   * [Danfo.js: A Pandas-like Library for JavaScript](https://morioh.com/p/b496731c5d23)
 * Dataflow [Data pipeline asset management with Dataflow | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/data-pipeline-asset-management-with-dataflow-86525b3e21ca)
+* [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
+  * [Datasette - 개인용 데이터 웨어하우스 오픈소스 | GeekNews](https://news.hada.io/topic?id=6455)
 * [datools](https://github.com/marcua/datools) a collection of Python-based tools for working with data in relational databases
   * [Data diffs: Algorithms for explaining what changed in a dataset | N=1 (marcua’s blog)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
