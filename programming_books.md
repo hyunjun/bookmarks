@@ -3429,8 +3429,9 @@ Programming Books
   * ★★★★★ 2023.07.31~08.03 읽었던 프로덕트 주제의 책 중에 가장 맘에 드는 책으로. 필요한 주제들이 적절하면서도 내 수준에 맞게(완전히 전문가는 아니지만, 결국 management를 하면서 봐야 하는 입장) 다양하게 다뤄서 좋았다. 두고두고 보고, 추천할만한 좋은 책이다.
   * 탐라 문325.6-김64ㅍ
   * [독서광 프로덕트 매니지먼트 - YouTube](https://www.youtube.com/watch?v=dyntCHFHvtE)
-* (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
-* (NOT YET) [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
+* [프로덕트 리더십](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=158346965)
+  * ★★★★☆ 2023.09.26~2023.10.01 기술과 매니지먼트의 경계에서 매니지먼트 쪽으로 좀 더 가있는 느낌의 책. 특히 소통을 강조하는 부분이나, 조직의 관점, 외부 고객과의 관계등 기술 기반으로 manager가 되는 사람들이 간과하기 쉬운 부분을 잘 다루고 설명한다. 중간에 리드 호프만의 말을 이상하게 번역한 부분만 제외하면 내용의 흐름이나 번역상 문제가 되는 부분도 없다.
+  * [Product Leadership Book](https://productleadershipbook.com/)
   * [프로덕트 리더십은 무엇을 다루는가?](https://brunch.co.kr/@graypool/906)
   * [프로덕트 관리의 역할과 기원은 무엇인가?](https://brunch.co.kr/@graypool/934)
   * [프로덕트 리더십이 중요한 이유](https://brunch.co.kr/@graypool/946)
@@ -3442,6 +3443,7 @@ Programming Books
   * [로드맵 전환 과정에서 모호함 다루기](https://brunch.co.kr/@graypool/988)
   * [프로덕트는 팀 스포츠다](https://brunch.co.kr/@graypool/1025/)
   * [프로덕트 리더의 성공을 위한 공식](https://brunch.co.kr/@graypool/1062)
+* (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
