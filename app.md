@@ -654,6 +654,7 @@ App
   * [Switching from pyenv, rbenv, goenv and nvm to asdf · jinyuz.dev](https://jinyuz.dev/2020/07/switching-from-pyenv-rbenv-goenv-and-nvm-to-asdf/)
   * [Asdf Performance - Stratus3D](http://stratus3d.com/blog/2022/08/11/asdf-performance/)
   * [installation and java test](https://gist.github.com/hyunjun/ac91460a60e67a7e53f5d59d96ac0bb3#file-installation_and_java_test-md)
+  * [ASDF: a version manager every software engineer should use in 2023 - YouTube](https://www.youtube.com/watch?v=4-tYwl12uyE)
   * [asdf-python](https://github.com/danhper/asdf-python)
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
