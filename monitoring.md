@@ -198,6 +198,8 @@ Monitoring
 * [health: A simple and flexible health check library for Go](https://github.com/alexliesenfeld/health)
   * 애플리케이션 가용성 확인을 위해 Go 언어로 만들어진 상태 확인 라이브러리. 클라우드 인프라에서 사용 가능, http.Handler 제공
 * Healthchecks.io [Cron Job Monitoring - Healthchecks.io](https://healthchecks.io/)
+* [hyperdx: Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors](https://github.com/hyperdxio/hyperdx)
+  * [HyperDX - 개발자 친화적인 Datadog 대체제 오픈소스 | GeekNews](https://news.hada.io/topic?id=10935)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [installsheild](https://github.com/gyunseul9/installsheild)
   * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
