@@ -1203,6 +1203,7 @@ SQL
 * [Psycopg - PostgreSQL driver for Python](https://www.psycopg.org/)
   * [Psycopg2 Tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
   * [Error: pg_config executable not found](https://ohgyun.com/787)
+  * [Akshay 🚀 on X: "Python is powerful! 🔥 You can execute SQL Queries using Python &amp; load the results in a Pandas DataFrame! 🐼 Check this out👇 https://t.co/juNBzz9CG8" / X](https://twitter.com/akshay_pachaar/status/1706949322494074908)
 * [realtime: Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir](https://github.com/supabase/realtime)
 * [reshape: An easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
   * [Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=5892)
