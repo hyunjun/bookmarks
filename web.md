@@ -932,6 +932,10 @@ Web
 * [개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은? | 요즘IT](https://yozm.wishket.com/magazine/detail/2113/)
 * [What is GraphQL (An Overview) – ScriptsView](https://scriptsview.com/apis/what-is-graphql-an-overview/)
 * [GraphQL](https://velog.io/@hyunjine/GraphQL)
+* [GraphQL에 대하여 (장점 ＆ Schema ＆ Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164787)
+* [GraphQL에 대하여 (Interface ＆ Union Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164891)
+* [GraphQL에 대하여 (Resolver ＆ DataLoader)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164933)
+* [GraphQL에 대하여 (Aliases ＆ Fragments)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164966)
 * [DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching](https://github.com/graphql/dataloader)
 * [WunderBase - Serverless GraphQL Database on top of SQLite, Firecracker and Prisma - WunderGraph](https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma)
 
