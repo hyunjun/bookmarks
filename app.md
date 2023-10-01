@@ -2063,6 +2063,7 @@ App
   * [천재들이 쓰는 노트앱? 옵시디언 활용법 200%! - YouTube](https://www.youtube.com/watch?v=h6rxKbbgI28)
   * [노트앱 볼 때마다 기분좋아지게 만들기 | Obsidian AnuPpuccin - YouTube](https://www.youtube.com/watch?v=cw0XvIi5vP4)
   * [2022 최고의 플러그인 할 일(Task, To do) 관리를 자동화 해주는 플러그인 - YouTube](https://www.youtube.com/watch?v=KH_P3GKtS1k)
+  * [옵시디언 사용해 보실래요? - 동기화, 백업 환경 구축](https://velog.io/@joshuara7235/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%8B%A4%EB%9E%98%EC%9A%94) obsidian-git + working copy
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
