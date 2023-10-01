@@ -1681,6 +1681,8 @@ AWS
   * [파이썬으로 AWS S3 버킷(Bucket) 만들기](https://imasoftwareengineer.tistory.com/98)
   * [How To Upload and Download Files in AWS S3 with Python and Boto3 | The Coding Interface](https://thecodinginterface.com/blog/aws-s3-python-boto3/)
   * [AWS boto3에서 Multi Account 권한 획득하기 (assume role)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164816)
+  * [automatic_log_collector_and_analyzer: Replace Splunk in your small company with this one weird trick!](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
+    * [내 스타트업에서 Splunk를 대체하는데 사용한 파이썬 스크립트 파일 1개 | GeekNews](https://news.hada.io/topic?id=11077)
 * cdK
   * [cdkworkshop.com](https://cdkworkshop.com/)
   * [AWS CDK Patterns - An Opensource Collection of Serverless Architecture Patterns](https://cdkpatterns.com/)
