@@ -843,6 +843,7 @@ NLP
   * [Creating Jarvis powered by OpenAI and Python | ChatGPT - YouTube](https://www.youtube.com/watch?v=BEw5EFqCCEI)
   * [긴급방송 ChatGPT 파인튜닝 코드 공유 및 시연 - TheMatrix 이태희 대표(빵형의개발도상국) - YouTube](https://www.youtube.com/watch?v=3JNgRcvf2YA)
   * [A Bicycle for the (AI) Mind: GPT-4 + Tools - YouTube](https://www.youtube.com/watch?v=KMT2vpyq4Fw) API call
+  * [Considering ChatGPT's Technical Review of a Programming Book | Real Python Podcast #174 - YouTube](https://www.youtube.com/watch?v=oonLYruswjk)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
@@ -1620,6 +1621,7 @@ NLP
     * [Elasticsearch Vector Store - LlamaIndex 🦙 0.8.23.post1](https://gpt-index.readthedocs.io/en/stable/examples/vector_stores/ElasticsearchIndexDemo.html)
   * [Discover LlamaIndex: Introduction to Data Agents for Developers - YouTube](https://www.youtube.com/watch?v=GkIEEdIErm8)
   * [RAG with Llama Index and Weaviate - dstack](https://dstack.ai/examples/llama-index-weaviate/)
+  * [Talk to Your Documents, Powered by Llama-Index - YouTube](https://www.youtube.com/watch?v=WL7V9JUy2sE)
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
