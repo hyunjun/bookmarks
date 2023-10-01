@@ -1033,6 +1033,7 @@ Clojure
 * [holy-lambda: The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime](https://github.com/FieryCod/holy-lambda)
 * [holy-lambda-ring-adapter: An adapter between Ring core request/response model and Holy Lambda. Run Ring applications on AWS Lambda](https://github.com/FieryCod/holy-lambda-ring-adapter)
 * [honeysql: Turn Clojure data structures into SQL](https://github.com/seancorfield/honeysql)
+  * [HoneySQL - hands on tutorial on how to write SQL queries in Clojure - YouTube](https://www.youtube.com/watch?v=uHIHHM6mP08)
 * [HTTP Kit - A high-performance event-driven HTTP client+server for Clojure](https://github.com/http-kit/http-kit)
 * [immutant](http://immutant.org/)
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
