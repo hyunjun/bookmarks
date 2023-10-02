@@ -3286,6 +3286,7 @@ Javascript
   * [Build an HTTP server in Bun - DEV Community](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
   * [Server-Side Rendering (SSR) with Bun and React](https://alexkates.dev/server-side-rendering-ssr-with-bun-and-react)
     * [번역 번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기](https://velog.io/@eunbinn/server-side-rendering-ssr-with-bun-and-react)
+  * [Node.js Alternative Bun Now Generally Available](https://www.infoq.com/news/2023/09/bun-ga-nodejs-alternative/)
   * [bun_react_library_init.sh](https://gist.github.com/juunini/aa56f16bbe38ff5cdc7fd5eb30d4c7d4)
   * [transbun](https://github.com/Huansock/transbun)
 * [Bunyan - Better logging in Nodejs using Bunyan](http://www.codingdefined.com/2014/12/better-logging-in-nodejs-using-bunyan.html)
