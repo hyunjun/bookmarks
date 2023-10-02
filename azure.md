@@ -230,6 +230,7 @@ Azure
 * [oh-my-azure-cloud-shell: This provides an OPINIONATED collection of scripts to set up oh-my-zsh and oh-my-posh to your Azure Cloud Shell environment](https://github.com/justinyoo/oh-my-azure-cloud-shell)
   * [Oh My Azure Cloud Shell | Aliencube](https://blog.aliencube.org/ko/2021/12/22/oh-my-azure-cloud-shell/)
 * [Pulumi and .NET Interactive (I) - DEV Community 👩💻👨💻](https://dev.to/cognipla/pulumi-and-net-interactive-i-5epm)
+* [reliable-web-app-pattern-java: The reliable web app pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for Java](https://github.com/Azure/reliable-web-app-pattern-java)
 
 # Machine Learning
 * [Getting Started with Machine Learning](https://www.youtube.com/watch?v=fiaBgLPYYd4)
