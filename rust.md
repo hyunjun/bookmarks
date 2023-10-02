@@ -191,6 +191,8 @@
   * [GNU Coreutils의 Rust 구현체가 놀랍게 강력해지고 있음 | GeekNews](https://news.hada.io/topic?id=8475)
 * [Two core Unix-like utilities, sudo and su, are getting rewrites in Rust | Ars Technica](https://arstechnica.com/information-technology/2023/05/two-core-unix-like-utilities-sudo-and-su-are-getting-rewrites-in-rust/)
   * [Unix-like OS들의 핵심 유틸인 sudo 와 su 가 Rust로 재 작성중 | GeekNews](https://news.hada.io/topic?id=9180)
+* [XetHub Blog | NFS > FUSE: Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
+  * [NFS > FUSE: 우리가 자체 NFS 서버를 Rust로 개발한 이유 | GeekNews](https://news.hada.io/topic?id=10992)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -277,6 +279,7 @@
 * [evcxr_jupyter at main · google/evcxr](https://github.com/google/evcxr/tree/main/evcxr_jupyter) jupyter rust kernel
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
+* [gosub-browser: A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions](https://github.com/jaytaph/gosub-browser)
 * [hck: A sharp cut(1) clone](https://github.com/sstadick/hck)
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
@@ -378,6 +381,7 @@
 * [video-search-rust-demo: This repo is a sample video search app using AWS services](https://github.com/aws-samples/video-search-rust-demo)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
+* [windows-drivers-rs: Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
   * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)
@@ -480,6 +484,7 @@
 * [Learn Rust!](https://gist.github.com/noxasaxon/7bf5ebf930e281529161e51cd221cf8a)
 * [2023-MatKor-Rust-Interpreter: 2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기](https://github.com/utilForever/2023-MatKor-Rust-Interpreter)
 * [Rust 찍어먹기 :: GS Retail Engineering](https://gsretail.tistory.com/39)
+* Comprehensive Rust [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/index.html)
 * [Rust for Python data engineers — Karim Jedda - YouTube](https://www.youtube.com/watch?v=x2ADMZfBqa4)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
