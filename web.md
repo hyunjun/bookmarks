@@ -1511,6 +1511,7 @@ Web
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 * [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
 * [REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)
+* [RESTful API란 무엇인가요? - RESTful API 설명 - AWS](https://aws.amazon.com/ko/what-is/restful-api/)
 * [**프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API**](https://evan-moon.github.io/2020/04/07/about-restful-api/)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [Request bodies in GET requests](https://evertpot.com/get-request-bodies/)
