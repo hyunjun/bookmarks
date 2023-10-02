@@ -145,6 +145,7 @@ Java
 * [Top Java Trends in 2021. Well, 2020 has proved that making… | by Sciforce | Sciforce | Medium](https://medium.com/sciforce/top-java-trends-in-2021-ac7aa25e5362)
 * [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 * [Top 5 Microservice courses for Java Developers to Learn Online in 2022 - Best of Lot | Java67](https://www.java67.com/2022/02/top-5-microservice-courses-for-java.html)
+* [A Guide to Microservices Design Patterns for Java | Diffblue](https://www.diffblue.com/blog/java/legacy%20code/software%20development/a-guide-to-microservices-design-patterns-for-java/)
 * [Cloud Native Java with the Micronaut Framework](https://www.infoq.com/articles/native-java-micronaut/)
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
@@ -995,6 +996,11 @@ Java
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
+* [Java 21 / JDK 21: General Availability | GeekNews](https://news.hada.io/topic?id=10949)
+* [Hello, Java 21](https://spring.io/blog/2023/09/20/hello-java-21)
+* [A categorized list of all Java and JVM features since JDK 8 to 21 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-21/)
+* [Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+* [A. Sundararajan on X: "Script to search #Java21 javadoc from command line. * Unnamed Classes and Instance Main Methods https://t.co/gMiMqzhyYL * source launcher shebang script support https://t.co/1Ka5Gqy7yv We can call such scripts "Java script"s 😉 #Java https://t.co/TUVgFJku2M" / X](https://twitter.com/sundararajan_a/status/1706189855192182787)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -1410,6 +1416,7 @@ Java
   * [How to Load a Java Native/Dynamic Library (DLL)](https://www.chilkatsoft.com/java-loadLibrary-Windows.asp)
 * Java Native Interface (JNI)
   * [practice](https://github.com/hyunjun/practice/tree/master/java/test-jni)
+* [The Java Playground - Dev.java](https://dev.java/playground/)
 * [JavaPoly.js Java(script) in the Browser](https://www.javapoly.com/)
 * [Java REPL](http://www.javarepl.com/)
 * [javosize - free next generation java profiler](http://www.javosize.com/index.html)
