@@ -1052,6 +1052,8 @@ Go
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [go-testing-mocks: This project is for learning about mocking external services calls](https://github.com/Edmartt/go-testing-mocks)
+* [gotestsum: 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results](https://github.com/gotestyourself/gotestsum)
+  * [Golang 테스트 편하게 하기 - rein's world](https://rein.kr/posts/2023-10-02-golang-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8E%B8%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0/)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [TableDrivenTests · golang/go Wiki](https://github.com/golang/go/wiki/TableDrivenTests)
 * [testcontainers-go: Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests](https://github.com/testcontainers/testcontainers-go)
