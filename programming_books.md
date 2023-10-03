@@ -336,6 +336,8 @@ Programming Books
   * 탐라 개005.13-보77ㅇ 제주 005.4-보78읽
   * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 * (NOT YET) [오늘날 우리는 컴퓨터라 부른다](https://jhrogue.blogspot.com/2023/09/blog-post.html)
+* (NOT YET) [사라진 개발자들](https://hanbit.co.kr/store/books/look.php?p_code=B4793001395)
+  * [사라진 개발자들](https://yeonyeon.tistory.com/316)
 
 # Agile Scrum
 
