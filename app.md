@@ -454,6 +454,7 @@ App
   * [워드프레스, 답답한 빌더와 플러그인 대신 시원하게 커스터마징하기 | 웹으로 말하기](https://mytory.net/archives/13549)
   * [워드프레스에서 짧은 URL을 가져오는 함수 wp_get_shortlink() | 웹으로 말하기](https://mytory.net/archives/14776)
   * [워드프레스, 블록 인라인 CSS가 출력되지 않아 화면이 깨질 때 – 형우의 웹개발](https://mytory.net/archives/15107)
+  * [메모 워드프레스 블록 플러그인이라도 등록 기본 요건은 PHP 파일의 주석 – 형우의 웹개발](https://mytory.net/archives/15131)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
@@ -1366,6 +1367,7 @@ App
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Hammerspoon - a tool for powerful automation of OS X](https://www.hammerspoon.org/)
   * [해머스푼으로 한/영 전환 오로라를 만들자 - 지금 선택된 입력기가 한글인지 영어인지 쉽게 알아보자](https://johngrib.github.io/wiki/hammerspoon-inputsource-aurora/)
+  * [Show Current Language in Macos](https://cliearl.github.io/posts/etc/show-current-language-in-macos/)
 * [handbrake](https://handbrake.fr/)
   * [맥에서 자막 내장한 mp4, m4v 작업하기](http://meteos.tistory.com/538)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
