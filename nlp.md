@@ -1400,6 +1400,7 @@ NLP
 * [LlamaIndex: Automatic Knowledge Transfer (KT) Generation for Code Bases | by Ravi Theja | LlamaIndex Blog | Aug, 2023 | Medium](https://medium.com/llamaindex-blog/llamaindex-automatic-knowledge-transfer-kt-generation-for-code-bases-f3d91f21b7af)
 * [LlamaIndex 🦙 on X: "Extracting metadata is super important for better RAG, but using individual LLM calls for metadata extraction is inefficient 🐌 You can now extract a full Pydantic object from any doc with 1 LLM call. Augments embeddings/response gen, or use w/ vector db metadata filters 👇 https://t.co/ZHBGNVANgA" / X](https://twitter.com/llama_index/status/1705302359038202101)
 * [How LlamaIndex Brings Data to LLMs - YouTube](https://www.youtube.com/watch?v=FQBou-YgxyE)
+* [Jerry Liu on X: "Building good RAG systems is hard, but building LLM-powered QA systems that can scale to large #’s of docs and question types is even harder 📑 We’re excited to introduce multi-document agents (V0) - a step beyond “naive” top-k RAG. Using multi-document agents allows our system… https://t.co/rMH4jwoob9" / X](https://twitter.com/jerryjliu0/status/1708523212366393403)
 * [Discover LlamaIndex: Bottoms-Up Development with LLMs (Part 5, Retrievers + Node Postprocessors) - YouTube](https://www.youtube.com/watch?v=mIyZ_9gqakE)
 * [그랩의 LLM Application 개발 경험/레슨런 공유회 - YouTube](https://www.youtube.com/watch?v=TJ2mYNpUTAY)
 * [The New Language Model Stack | Sequoia Capital](https://www.sequoiacap.com/article/llm-stack-perspective/)
