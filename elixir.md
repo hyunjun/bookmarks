@@ -136,6 +136,7 @@ Elixir
 * [Handling state between multiple processes with elixir - DEV Community](https://dev.to/cherryramatis/handling-state-between-multiple-instances-with-elixir-4jm1)
 * [Lifting Your Loads for Maintainable Elixir Applications - Erlang Solutions](https://www.erlang-solutions.com/blog/lifting-your-loads-for-maintainable-elixir-applications/)
 * [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp)
+* [From $erverless To Elixir | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UGG2HMonQ1c)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -242,6 +243,7 @@ Elixir
   * [ElixirConf 2023 - Brian Cardarella - LiveView Native - YouTube](https://www.youtube.com/watch?v=xBi2Hj22qUU)
   * [Integrating Chart.js into Elixir Phoenix for visual impact | by Lionel Aimerie | Aug, 2023 | Medium](https://medium.com/@lionel.aimerie/integrating-chart-js-into-elixir-phoenix-for-visual-impact-9a3991f0690f)
   * [WyeWorks | Building a LiveView component with GitHub Copilot and ChatGPT - Part 1](https://www.wyeworks.com/blog/2023/06/26/building-a-live-view-component-with-github-copilot-and-chatgpt-part-1/)
+  * [Elixir Streams |> LiveView 0.20 HEEX Debug Annotations](https://www.elixirstreams.com/tips/liveview-heex-debug-annotations)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
