@@ -685,12 +685,15 @@ Business
 * [요즘 잘나가는 회사들의 직원평가 방법 (권민석 레몬베이스 대표) - 티타임즈](https://www.ttimes.co.kr/article/2023021318337766225)
 
 # 우선순위
+* [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
 * [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
 * [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77) RICE와 비교
 * [3. 당신은 할 일들의 우선순위를 어떻게 판단하시나요?](https://maily.so/boost.life.density/posts/1dd70d5a)
 * [제품 팀이 바로 실행할 수 있는 우선순위 결정법 - PUBLY](https://publy.co/content/6797)
 * [우선순위를 어떻게 정할까](https://brunch.co.kr/@hyungsukkim/174)
+* [Why do most lists of top-level priorities read like bucket lists?](https://www.linkedin.com/feed/update/urn:li:activity:7109328490398720000/)
+  * [우선순위의 미로: 버킷 리스트를 해석하는 사람들](https://brunch.co.kr/@yongjinjinipln/117)
 
 # 조직 구조
 * [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)
@@ -2132,6 +2135,8 @@ Business
   * 그 결과 코로나로 위기라던 airbnb의 수익이 크게 높아져서 손익분기점에까지 도달
 * [PM스터디 그것이 알고싶다. 오늘의 PM, 내일의 서비스 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13977/)
 * [프러덕 감을 테스트하기 위한 인터뷰 질문리스트](https://brunch.co.kr/@itschloe1/44)
+* [Split PM 모델이 필요할까?](https://brunch.co.kr/@yongjinjinipln/118)
+* [PM 역할과 관련한 세 가지 안티 패턴](https://brunch.co.kr/@yongjinjinipln/119)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -2248,7 +2253,6 @@ Business
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
 * [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
-* [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
 * [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
 * [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
@@ -2532,6 +2536,8 @@ Business
 * [Facebook이 Waze를 거의 인수할 뻔했지만, Google과 함께하게된 실제 이야기 | GeekNews](https://news.hada.io/topic?id=9482)
 * [지분을 어떻게 나눌까?](https://www.linkedin.com/posts/ibreakshit_cartadata-founderequity-startups-activity-7087602508100993024-Jjq8/)
 * [스타트업 - 외주](https://www.facebook.com/bokyun.lee.9/posts/pfbid02qRDd63sgj1Cum1fyBV5JkaDcmHYyfwXqC97wM4PPGq5da4PvJbnsJrn4v2uKxn6Vl)
+* [렉스 프리드먼 팟캐스트 #307: 브라이언 암스트롱](https://blog.naver.com/roundpebble/223224478932) 코인베이스 coinbase
+* [일론 머스크 Elon Musk – 조성문의 블로그](https://sungmooncho.com/2023/10/01/elon-musk/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
