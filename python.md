@@ -3721,6 +3721,7 @@ Python
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
   * [async_decorator.py](https://gist.github.com/comfuture/932df8148b7e14e145fa4172132604f7)
   * [greenlet은 어떻게 구현했을까?](http://lee-seungjae.github.io/greenlet.html)
+  * [**백엔드 개발자들이 알아야할 동시성 번외편— Python의 Concurrency | by Choi Geonu | Sep, 2023 | Medium**](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%B2%88%EC%99%B8%ED%8E%B8-python%EC%9D%98-coroutine-799fc0692fb3) gevent greenlet
   * [S3 Content-Disposition 업데이트, Gevent로 좀 더 빠르게 하기](http://growingdever.tistory.com/239)
   * [제약을 넘어 : Gevent](http://khanrc.tistory.com/entry/%EC%A0%9C%EC%95%BD%EC%9D%84-%EB%84%98%EC%96%B4-Gevent)
   * [gevent - asynchronous I/O made easy](http://mauveweb.co.uk/presentations/gevent-talk/)
