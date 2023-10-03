@@ -2237,6 +2237,7 @@ Docker
     * Cilium에서 범용 네트워킹 레이어인 Cilium Mesh 공개
     * Cilium 기반 네트워크와 보안을 확장하기 위해 Cilium Mesh 도입
     * 기존 Cilium 구성 요소와 연결되어 Kubernetes를 넘어서 멀티 클라우드 혹은 하이브리드 클라우드에 걸쳐서 제로 트러스트 보안을 적용하고 네트워크 가시성 확보 가능
+  * [Saying Goodbye to Ingress: Embracing the Future of Kubernetes Traffic Management with Gateway API and Cilium | by Seifeddine Rajhi | ITNEXT](https://itnext.io/saying-goodbye-to-ingress-embracing-the-future-of-kubernetes-traffic-management-with-gateway-api-6584b7b8f913)
 * [Emissary-ingress - Open Source API Gateway from Ambassador](https://www.getambassador.io/products/api-gateway/)
 * [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
   * [k8s 쿠버네티스 클러스터 구성 - kubeadm, flannel](https://blog.naver.com/pjt3591oo/223095377717)
