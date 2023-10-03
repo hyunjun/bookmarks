@@ -82,6 +82,7 @@ Self Control
   * [The 10-to-15 rule (PARA Method) | Part 2 - YouTube](https://www.youtube.com/watch?v=anexySaCsgU)
   * [How I Plan My Weekly Tasks (PARA Method) | Part 3 - YouTube](https://www.youtube.com/watch?v=MyWmGDnWhjE)
   * [My Second Brain in Apple Notes (PARA Method) | Part 4 - YouTube](https://www.youtube.com/watch?v=fioLhb1U4J0)
+* [PARA 방법론 – 간단명료해서 지속 실행 가능한 정보 정리 기법 – 형우의 웹개발](https://mytory.net/archives/15148)
 
 * [Patient and Decisive – Tynan.com](https://tynan.com/patient/)
   * [천천히, 하지만 과감하게 (한글 번역) | Patient and Decisive](https://blog.naver.com/bizucafe/223103215049) 자신만의 기준
