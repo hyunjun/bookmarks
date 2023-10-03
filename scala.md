@@ -1572,6 +1572,7 @@ Scala
     * [Concurrency with Cats Effect](https://softwaremill.com/concurrency-with-cats-effect/)
     * [Dependency Injection with Cats-effect Resource Monad | by Igor Vovk | Jun, 2023 | Medium](https://medium.com/@ivovk/dependency-injection-with-cats-effect-resource-monad-ad7cd47b977)
     * [Cats Effect vs ZIO](https://softwaremill.com/cats-effect-vs-zio/)
+    * [Retrying Cats Effect Failures With Ease | ScalaJobs.com](https://scalajobs.com/blog/retrying-cats-effect-failures-with-ease/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
