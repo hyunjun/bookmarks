@@ -2298,6 +2298,7 @@ Business
 * [브런치북 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 * [HR인사이트 리뷰로 보는 망해가는 스타트업의 특징 < 벤처 < Industry < 기사본문 - 포춘코리아(FORTUNE KOREA)](http://www.fortunekorea.co.kr/news/articleView.html?idxno=22858)
+* [**30년간 '실패'를 연구한 하버드 교수 "스타트업 실패 요인 3가지는"**](https://eopla.net/magazines/7101)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
   * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
 * [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
