@@ -3206,6 +3206,9 @@ Programming Books
 * [챗GPT로 대화하는 기술 | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/gen-ai/)
   * ★★★☆☆ 2023.08.13
   * 한라 004.73-박93ㅊ
+* [챗GPT 개발자 핸드북](https://github.com/decodingbook/ChatGPTforDev/tree/main)
+  * ★★★☆☆ 2023.10.03~04
+  * 한라 004.73-주92ㅊ 탐라 문004.73-주91ㅊ
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
