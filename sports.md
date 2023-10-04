@@ -204,6 +204,7 @@ Sports
 * [Who is the most dependable player of Golden State Warriors | NBA 2021 | Regression Analysis - YouTube](https://www.youtube.com/watch?v=AtyhfZEjPlY)
 * [매거진 농구인보다 전문가! 한국도 전문가 시대 열릴까](https://sports.v.daum.net/v/20220326151951147) 출신보다 능력, 특히 비디오 분석은 종목 불문 기본적인 부분, 관계 형성 역시 매우 중요
 * ['연습상대 부적격' 한국 향한 일본의 냉정한 평가, 현실이 됐다...한계 드러난 한국의 오래된 농구](https://sports.news.naver.com/news?oid=065&aid=0000251632) system의 문제
+* [中日에 참패한 KBL식 옛날농구, 더 이상 국제무대 통하지 않는다! 서정환의 사자후①](https://n.news.naver.com/sports/basketball/article/109/0004939647) 현재 KBL팀들이 모두 저렇게 하는 건 아니지만 전체적인 논조는 동의
 * [**농구의 길은 대체 무엇일까?**](https://sports.v.daum.net/v/20220325090956952)
 * [골든스테이트 워리어스를 'NBA의 구글'이라고 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goldenstatewarriors20220624)
 
