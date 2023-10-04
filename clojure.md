@@ -669,6 +669,7 @@ Clojure
   * [Cursive local REPL 에서 UnsupportedClassVersionError 에러가 날 경우](https://gist.github.com/cheolhee/7bd80e9305833e5e7d3d53faca517790)
   * [Cursive: Installing](https://cursive-ide.com/userguide/)
   * [My repl in Cursive throws compiler exceptions until I restart it : Clojure](https://www.reddit.com/r/Clojure/comments/n23y3y/my_repl_in_cursive_throws_compiler_exceptions/)
+  * [Complete Clojure Development Environment Setup: IntelliJ IDEA, Cursive, ASDF/RTX, Toolbox - YouTube](https://www.youtube.com/watch?v=51FDOCrvbVg)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인
@@ -725,6 +726,8 @@ Clojure
 * [t3tr0s-slides](https://shaunlebron.github.io/t3tr0s-slides)
 * [tau.alpha - a ClojureScript library for managing webworkers, ideally similar to Clojure's concurrency primitives](https://github.com/johnmn3/tau.alpha)
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
+* [Vlojure](https://vlojure.io/)
+  * [Vlojure - A New Way to Write ClojureScript - YouTube](https://www.youtube.com/watch?v=1OcAUhe3E1E)
 * [xforms: Extra transducers and reducing fns for Clojure(script)](https://github.com/cgrand/xforms)
 * [zprint - A fast zprint filter](https://github.com/kkinnear/zprint)
 
