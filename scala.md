@@ -514,10 +514,6 @@ Scala
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
-* [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
-* [(2) Kit Langton on Twitter: "The Two Minute Twenty Second Ten-Step Tail Rec Transformation Technique https://t.co/kI0izGriX0" / Twitter](https://twitter.com/kitlangton/status/1527465896142426116?t=LEHWG3xXOodzPNjdtt5-xA) tail recursion
-* [Tail Recursive Functions (in Scala) - Alexandru Nedelcu](https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html)
-* [Ten-Step Tail-Rec Transformation Technique - YouTube](https://www.youtube.com/watch?v=E8rwsxn1iTM)
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
 * [Akka Steam Graphs — A first Java example](https://medium.com/@suchakjani/akka-steam-graphs-a-first-example-c93fbc1f02f5)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
@@ -736,6 +732,11 @@ Scala
 * [Chain of responsability with Scala partial functions | Yann Moisan](https://www.yannmoisan.com/scala-partial-functions.html)
 * [Zymposium - Partial Functions & Future ZIO HTTP Features - YouTube](https://www.youtube.com/watch?v=ZIVoy-_k1TI)
 * [The future of effects in Scala?](https://softwaremill.com/the-future-of-effects-in-scala/)
+* [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
+* [(2) Kit Langton on Twitter: "The Two Minute Twenty Second Ten-Step Tail Rec Transformation Technique https://t.co/kI0izGriX0" / Twitter](https://twitter.com/kitlangton/status/1527465896142426116?t=LEHWG3xXOodzPNjdtt5-xA) tail recursion
+* [Tail Recursive Functions (in Scala) - Alexandru Nedelcu](https://alexn.org/blog/2021/01/26/tail-recursive-functions-in-scala.html)
+* [Ten-Step Tail-Rec Transformation Technique - YouTube](https://www.youtube.com/watch?v=E8rwsxn1iTM)
+* [How to make Insertion Sort function Tail-Recursive](https://www.linkedin.com/feed/update/urn:li:activity:7115552947224125440/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -767,6 +768,7 @@ Scala
     * [diffx: Pretty diffs for scala case classes](https://github.com/softwaremill/diffx)
       * [Scala case class comparison using diffx](https://yadukrishnan.live/comparing-case-class-instances-using-diffx)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
+  * [How to use Insertion Sort algorithm on a User Defined Class](https://www.linkedin.com/feed/update/urn:li:activity:7115549140939386881/)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
   * [How to Sort Lists in Scala with Tail Recursion - Rock the JVM Blog](https://blog.rockthejvm.com/sorting/)
