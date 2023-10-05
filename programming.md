@@ -1612,6 +1612,8 @@ Programming
   * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
   * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
   * [SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가 | GeekNews](https://news.hada.io/topic?id=6243)
+* [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
+* [고가용성 엔터프라이즈 SaaS를 위한 아키텍처 개선](https://maily.so/saascenter/posts/0ee8d439) Slack의 셀룰러 아키텍처로의 전환 사례
 * [Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
   * [**멀티테넌트 데이터베이스 성능 보장을 위한 격리(isolation) 설계 방법**](https://maily.so/saascenter/posts/f75650a2)
 * [From Project to Product: Going from a bespoke codebase to a multi-tenant SAAS application. - YouTube](https://www.youtube.com/watch?v=wX55JVFrU9k)
@@ -1674,7 +1676,6 @@ Programming
 * [**Replatform in a Year or Die: The Tale of a Turnaround • Ken Scambler • YOW! 2021 - YouTube**](https://www.youtube.com/watch?v=6EplPhk9uOs)
 * [stackoverflowcom 서버는 어떻게 이뤄져 있을까? | 커리어리](https://careerly.co.kr/comments/78541)
 * [How Starling Built Their Own Card Processor - YouTube](https://www.youtube.com/watch?v=oSnVwAKmeA0)
-* [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
 * [Architectural Fitness Functions • Patrick Kua • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=aq8XTTxoslE) "Building Evolutionary Architecture"
 * [Supporting Constant Change • Neal Ford • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=Mx4BoNyKesk) "Building Evolutionary Architecture"
 * [Building Evolutionary Architectures • Rebecca Parsons, Neal Ford & James Lewis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=m2ZlX1je3as)
@@ -1709,6 +1710,7 @@ Programming
 * [초기 스타트업을 위한 서버선택 가이드](https://velog.io/@dochis/%EC%B4%88%EA%B8%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%84%9C%EB%B2%84%EC%84%A0%ED%83%9D-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [**Cloud design patterns, architectures, and implementations - AWS Prescriptive Guidance**](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 * [Leveling up Your Architecture Game - YouTube](https://www.youtube.com/watch?v=sARYVk9yXt8)
+* [Generic or Specific? Making Sensible Software Design Decisions • Bert Jan Schrijver • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=lh5qWwIj06s)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
