@@ -2163,6 +2163,7 @@ Business
 * [B2B와 B2C 영업](https://www.thestartupbible.com/2022/05/b2b-and-b2c-sales.html)
 * [B2B SaaS 영업의 시스템화](https://www.thestartupbible.com/2023/04/systemizing-and-replicating-b2b-saas-sales-process.html)
 * [스타트업 세일즈 바이블 B2B 영업에 대한 오해와 진실 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2023/05/12/b2b-sales-3/)
+* [B2B 플랫폼이 성공하기 어려운 이유](https://maily.so/saascenter/posts/eed8bdb6)
 * [(1) Jinhwan Kim - 3년 전에 썼던 "스타트업이 영업을 간과하는 이유와 그 대안"이 작게나마 파장을 불러일으켰다.... | Facebook](https://www.facebook.com/jinhwan.kim.319/posts/pfbid0nTpUU1PnA3vjiu5P8Tgo6cdrJZzDuApde2CNingkY4BChKRwptZC1ibcfmoVWhBXl)
 * [뉴스레터 #10: 스타트업에서 처음으로 세일즈 팀을 만들 때 주의할 점](https://www.relate.kr/blog/newsletter-click-up/)
 * [SaaS가 알아서 팔리는 거라면, 영업은 왜 필요한데?](https://www.relate.kr/blog/if-products-sell-themselves-why-do-we-need-sales/)
