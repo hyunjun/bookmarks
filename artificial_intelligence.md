@@ -364,6 +364,8 @@ Artificial Intelligence
       * 이 과정의 결과물로 7-docs라는 프로젝트 공개
   * [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
 * [Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov) - YouTube](https://www.youtube.com/watch?v=bU38Ovdh3NY)
+* [Timescale Vector is PostgreSQL++ for AI applications | Timescale](https://www.timescale.com/ai)
+  * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
 * [Weaviate - vector database](https://weaviate.io/)
