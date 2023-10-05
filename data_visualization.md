@@ -291,7 +291,7 @@ Data Visualization
 * [Jake VanderPlas The Python Visualization Landscape PyCon 2017](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Large Scale Visualizations and Mapping with Datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
-* [**OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi **](https://github.com/corazzon/OpenDataWrangling) 다양한 youtube + ipynb
+* **[OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi](https://github.com/corazzon/OpenDataWrangling)** 다양한 youtube + ipynb
 * 버거지수 2019
   * [(1) 버거킹, 맥도날드, KFC](https://blog.naver.com/idjoopal/221513074069)
   * [(2) 롯데리아, 맘스터치](https://blog.naver.com/idjoopal/221513535891)
@@ -426,6 +426,7 @@ Data Visualization
   * [Highlighted line chart with Plotly.Express | by Vaclav Dekanovsky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/highlighted-line-chart-with-plotly-express-e69e2a27fea8)
   * [10분 안에 읽는 72년: 국회의 발자취 - DACON](https://dacon.io/competitions/official/235679/codeshare/2005)
   * [Python Data Analysis Tips - Interactive Pandas Plot backend Plotly](https://www.datasimple.education/post/python-data-analysis-tips-interactive-pandas-plot-backend-plotly)
+  * [python 시각화 끝판왕 Plotly : 시계열 데이터편 - YouTube](https://www.youtube.com/watch?v=sml0fA5eTUk)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
