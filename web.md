@@ -1958,6 +1958,7 @@ Web
 * [What Can't WebAssembly Do - YouTube](https://www.youtube.com/watch?v=LZSZ6iunoJQ)
 * ["What can't WebAssembly do?" - Katie Bell (PyCon AU 2023) - YouTube](https://www.youtube.com/watch?v=JbZAsSzzk0E)
 * [Charting a Wasm Landscape - YouTube](https://www.youtube.com/watch?v=22Ao0Z5DL4o)
+* [Using WebAssembly Now: It's Easier Than You Think - YouTube](https://www.youtube.com/watch?v=_5yJPJskeVg)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
