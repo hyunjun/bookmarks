@@ -1571,6 +1571,7 @@ AWS
   * [AWS Lambda를 이용해 슬랙 앱 배포하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/02/12/Deploy-Slack-App-with-AWS-Lambda.html)
   * [Serverless Framework로 AWS Lambada 배포하기 :: Jay's Code Factory](https://jay-ji.tistory.com/118)
   * [AWS Serverless - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXfqaHPS8BONQdRATtEdW99)
+* [serverless-offline: Emulate AWS λ and API Gateway locally when developing your Serverless project](https://github.com/dherault/serverless-offline)
 
 ## Lambda Clojure
 * [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
@@ -1606,6 +1607,7 @@ AWS
 * [AWS Lambda에 Next.js 배포하기](https://velog.io/@grotesq/AWS-Lambda%EC%97%90-Next.js-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [How to Build AWS Lambdas with TypeScript | AppSignal Blog](https://blog.appsignal.com/2022/09/21/how-to-build-aws-lambdas-with-typescript)
 * [Nodejs Puppeteer Tutorial #14 - AWS Lambda Deployment - YouTube](https://www.youtube.com/watch?v=ch6qKgkYbgM)
+* [AWS Lambda Nodejs 16.x 지원종료, 18.x 버전업 대응 요약(feat.s3) :: Jay's Code Factory](https://jay-ji.tistory.com/119)
 
 ## Lambda Kotlin
 * [aws-lambda-kotlin-spring-boot2-demo: Kotlin Spring boot2 AWS Lambda Demo](https://github.com/juunini/aws-lambda-kotlin-spring-boot2-demo)
@@ -2247,6 +2249,7 @@ AWS
   * 초기에 AWS Control Tower가 기존 계정은 지원하지 않아서 사용하지 않았지만
     * 지금은 AWS Control Tower가 다 지원해 주고 있으므로 비슷한 상황에서는 Control Tower 사용하면 ok
 * [AWS Control Tower 미리 보기 – 포괄적인 제어 관리 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-aws-control-tower-comprehensive-controls-management-preview/)
+* [단비교육의 AWS Control Tower 와 함께 시작하는 아키텍처 현대화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/danbiedu-architecture-modernization-using-aws-control-tower/)
 * [AWS Tutorials | How to Create and Manage an AWS S3 Bucket Using Terraform | Terraform Tutorials. - YouTube](https://www.youtube.com/watch?v=HBSm3HVBurU)
 * [Terraform Tutorial — Part 1 — Intro and Basic Concepts | by Saeid Bostandoust | Jun, 2022 | ITNEXT](https://itnext.io/terraform-tutorial-part-1-intro-and-basic-concepts-7a27ae7722b6)
 * [Terraform Tutorial For Complete Beginners | Ashok IT - YouTube](https://www.youtube.com/watch?v=4hnI7QvPimI)
