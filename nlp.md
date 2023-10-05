@@ -844,6 +844,7 @@ NLP
   * [긴급방송 ChatGPT 파인튜닝 코드 공유 및 시연 - TheMatrix 이태희 대표(빵형의개발도상국) - YouTube](https://www.youtube.com/watch?v=3JNgRcvf2YA)
   * [A Bicycle for the (AI) Mind: GPT-4 + Tools - YouTube](https://www.youtube.com/watch?v=KMT2vpyq4Fw) API call
   * [Considering ChatGPT's Technical Review of a Programming Book | Real Python Podcast #174 - YouTube](https://www.youtube.com/watch?v=oonLYruswjk)
+  * [ChatGPT 코드 인터프리터로 데이터 시각화하기 - YouTube](https://www.youtube.com/watch?v=Uimu7kun5zw)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
