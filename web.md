@@ -1956,6 +1956,7 @@ Web
 * [WebAssembly A New Development Paradigm for the Web - YouTube](https://www.youtube.com/watch?v=ZjOm6kQ1lSs)
 * [WebAssembly: From the Browser to... Everywhere? - YouTube](https://www.youtube.com/watch?v=fA0ZQohiPKM)
 * [What Can't WebAssembly Do - YouTube](https://www.youtube.com/watch?v=LZSZ6iunoJQ)
+* ["What can't WebAssembly do?" - Katie Bell (PyCon AU 2023) - YouTube](https://www.youtube.com/watch?v=JbZAsSzzk0E)
 * [Charting a Wasm Landscape - YouTube](https://www.youtube.com/watch?v=22Ao0Z5DL4o)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
