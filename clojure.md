@@ -449,6 +449,7 @@ Clojure
   * [Clojure in Banking: Griffin](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [Clojure in production: what do we use in real-world services? - YouTube](https://www.youtube.com/watch?v=bME124Ky8M0)
 * [Environment what? Variables?. Just forget about those, most probably… | by Irina Yaroslavova Stefanova | Oct, 2023 | Medium](https://medium.com/@ignorabilis/environment-what-variables-aa577ae02322)
+* [Private Methods in Clojure - YouTube](https://www.youtube.com/watch?v=7YB_S8j6IYI)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
