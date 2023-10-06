@@ -1893,6 +1893,7 @@ Java
 * [Spring Security 5 OAuth 총정리: 클라부터 서버까지 | NHN FORWARD](https://forward.nhn.com/2021/sessions/4)
 * [Spring 기반 OAuth 2.1 Authorization Server 개발 찍먹해보기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/spring-oauth2-authorization-server-practice/)
 * [How to use HTTP Basic Authentication in Spring Security? | by javinpaul | Javarevisited | Feb, 2023 | Medium](https://medium.com/javarevisited/how-to-use-http-basic-authentication-in-spring-security-b32f30b977c3)
+* [Everything new in Spring Security 6 baked with a Spring Boot 3 recipe By Laur Spilca - YouTube](https://www.youtube.com/watch?v=uH1hco0LOJ0)
 * [Test-Driven Security with Spring 6 by Eleftheria Stein-Kousathana - YouTube](https://www.youtube.com/watch?v=99yTMk8IG1o)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
