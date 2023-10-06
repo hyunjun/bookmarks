@@ -611,6 +611,7 @@ Java
 * [VDBUH2023 - Mads Opheim & Rustam Mehmandarov - Modern Java App Development in the Cloud - YouTube](https://www.youtube.com/watch?v=QWFgrdeB0NI)
 * [OAuth for Java Developers - YouTube](https://www.youtube.com/watch?v=z2Bt971k1EE)
 * [Develop Modern and Lightweight Cloud Applications with Jakarta EE 10 by Ivar Grimstad - YouTube](https://www.youtube.com/watch?v=uZ9wKhQk-Nk)
+* [SIMD Parallel Programming with the Vector API By José Paumard - YouTube](https://www.youtube.com/watch?v=36DN9sE7ja4)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
