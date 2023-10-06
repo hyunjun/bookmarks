@@ -1440,6 +1440,7 @@ NLP
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
 * [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
 * [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+* [Large Language Models (in 2023) - YouTube](https://www.youtube.com/watch?v=dbo3kNKPaUA)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
