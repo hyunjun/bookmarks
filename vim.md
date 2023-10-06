@@ -33,6 +33,7 @@ Vim
   * `:/<pattern>/` [substitute - Find and replace using regular expressions - Vi and Vim Stack Exchange](https://vi.stackexchange.com/questions/3115/find-and-replace-using-regular-expressions)
     * e.g. `:/micro[ ]\?frontend/` 'microfrontend' or 'micro frontend'
   * `\vword1|word2|word3` [highlighting - Is there any way to highlight multiple searches in (g)Vim? - Stack Overflow](https://stackoverflow.com/questions/704434/is-there-any-way-to-highlight-multiple-searches-in-gvim)
+  * [Something Useful With Vim / Neovim - YouTube](https://www.youtube.com/watch?v=KaXeEhcOe-E)
 * help [vim help - 기계인간 John Grib](https://johngrib.github.io/wiki/vim/help/)
 * join
   * [How to join lines without producing a space?](https://vi.stackexchange.com/questions/439/how-to-join-lines-without-producing-a-space)
