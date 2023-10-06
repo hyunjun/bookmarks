@@ -1821,6 +1821,10 @@ Programming Books
 * (NOT YET) [코어 쿠버네티스 | 위키북스](https://wikibook.co.kr/corek8s/)
   * 한라 005.11-비62ㅋ
   * [corek8s: 《코어 쿠버네티스》 예제 코드](https://github.com/wikibook/corek8s)
+* (NOT YET) [쿠버네티스 시작하기 3/e | 에이콘출판사](http://www.acornpub.co.kr/book/kubernetes-up-and-running-3e)
+  * 한라 005.11-번57ㅋ
+  * [Kubernetes: Up and Running, 3rd Edition Book](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
+  * [kubernetes-up-and-running/examples: Example code and files from "Kubernetes: Up and Running"](https://github.com/kubernetes-up-and-running/examples)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -2490,6 +2494,11 @@ Programming Books
 * (NOT YET) [아토믹 코틀린](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312687975)
   * 탐라 문005.133-에823ㅇ
 * (NOT YET) [코틀린 함수형 프로그래밍 | 에이콘출판사](http://www.acornpub.co.kr/book/function-pro-kotlin)
+  * 한라 005.133-버36ㅋ
+  * [fpinkotlin: Source code listings and exercises for Functional Programming in Kotlin](https://github.com/fpinkotlin/fpinkotlin)
+* (NOT YET) [코틀린 디자인 패턴 2/e | 에이콘출판사](http://acornpub.co.kr/book/kotlin-design-patterns-2e)
+  * 한라 005.133-소58ㅋ
+  * [Kotlin-Design-Patterns-and-Best-Practices: Kotlin Design Patterns and Best Practices - Second Edition, published by Packt](https://github.com/PacktPublishing/Kotlin-Design-Patterns-and-Best-Practices)
 
 # Linux
 
@@ -3686,6 +3695,11 @@ Programming Books
 * (NOT YET) [금융 데이터를 위한 파이썬](https://github.com/bjpublic/python-for-finance-data)
   * [파이썬을 활용한 금융 분석(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2027701371)
   * [도서 리뷰 파이썬을 활용한 금융 분석 2판 - 파이썬의 기초부터 금융공학, 머신러닝, 퀀트 분석, 매매 시스템 구현까지 - YouTube](https://www.youtube.com/watch?v=cKiP6ZHzNvY)
+* (NOT YET) [금융 데이터 분석을 위한 파이썬 판다스 - WikiDocs](https://wikidocs.net/book/3488)
+  * 한라 005.133-유23ㅍ
+* (NOT YET) [금융 파이썬 완전 정복 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-Python-Finance-2e)
+  * 한라 005.133-와68ㄱ-2
+  * [Mastering-Python-for-Finance-Second-Edition: Mastering Python for Finance – Second Edition, published by Packt](https://github.com/PacktPublishing/Mastering-Python-for-Finance-Second-Edition)
 * (NOT YET) Fluent Python 전문가를 위한 파이썬: 간단하고, 명료하고, 효율적인 파이썬 프로그래밍
   * 한라 005.133-하32ㅈ
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
@@ -3697,8 +3711,6 @@ Programming Books
   * [data-analysis-pandas: Pandas를 이용한 데이터 분석 실습 2/e](https://github.com/AcornPublishing/data-analysis-pandas)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
 * (NOT YET) [판다스 인 액션](https://www.hanbit.co.kr/store/books/look.php?p_code=B4172751734)
-* (NOT YET) [금융 데이터 분석을 위한 파이썬 판다스 - WikiDocs](https://wikidocs.net/book/3488)
-  * 한라 005.133-유23ㅍ
 * (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
