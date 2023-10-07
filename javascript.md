@@ -2448,6 +2448,11 @@ Javascript
         * [Lordy, I did not expect an internal refactoring PR to end up #1 on Hacker News. ... | Hacker News](https://news.ycombinator.com/item?id=35892250)
         * TypeScript의 장점은 그대로 유지할 수 있으면서 패키지도 작아지고 디버깅도 쉬워질 것이라고 주장
   * [이보다 더 쉬운 풀스택 프레임워크는 없다. 스벨트킷 핵심기능만 속성으로 알랴줌! - YouTube](https://www.youtube.com/watch?v=uQdkYDW5yJo)
+  * [Introducing runes](https://svelte.dev/blog/runes)
+    * Svelte에서는 버전 3에서 JavaScript를 리액티브 언어로 바꾸어서 선언적 컴포넌트 코드를 최적화된 자바스크립트로 변환
+    * 그동안 다른 JavaScript 코드도 비슷하게 사용하고 싶다는 피드백
+    * 이에 따라 Sevelte 컴파일러에 영향을 주는 심볼인 Rune을 사용하면 선언형으로 리액티브하게 최적화
+    * Svelte 5에 추가될 기능이고 아직 개발 중이라 추후 변경 가능
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
@@ -2666,6 +2671,10 @@ Javascript
   * [Introducing the new npm Dependency Selector Syntax | GitHub Changelog](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax/)
     * npm v8.15.0에서 의존성 선택자로 npm query 명령어 추가
     * 이는 CSS 셀렉터와 유사한 형식을 가지고 있고 `npm query "*"`, `npm query "#react:not(.peer)"`같은 형식으로 의존성 조회 가능
+  * [npm provenance general availability - The GitHub Blog](https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/)
+    * npm에서 GitHub Actios와 GitLab CI/CD에서 발생하였을 때 출처를 표기하는 기능 추가
+    * 이 기능은 퍼플릭 패키지와 퍼블릭 저장소에서만 사용 가능
+    * 어떤 커밋에서 어떤 빌드 파일로 발생하였는지를 쉽게 확인할 수 있게 연결
   * npkill [node_modules 대청소 - YouTube](https://www.youtube.com/shorts/0b8HHK6Zs-E)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
@@ -3704,6 +3713,8 @@ Javascript
 * [React Internals Part Three: Basic Updating | Matt Greer](https://mattgreer.dev/articles/react-internals-part-three-basic-updating/)
 * [React Internals Part Four: setState | Matt Greer](https://mattgreer.dev/articles/react-internals-part-four-setState/)
 * [React Internals Part Five: Transactions | Matt Greer](https://mattgreer.dev/articles/react-internals-part-five-transactions/)
+* [React Internals Deep Dive](https://jser.dev/series/react-source-code-walkthrough)
+  * React의 소스 코드를 보면서 React의 내부 동작을 마운트와 렌더링, 훅 등을 통해 차례로 살펴보는 30여편의 시리즈 글
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
 * [React js Roadmap for beginners. - YouTube](https://www.youtube.com/watch?v=_65xs520U8U)
@@ -5955,6 +5966,7 @@ Javascript
 * [typescript-boilerplate: A modern TypeScript project setup, for Node.js and browsers (using esbuild)](https://github.com/metachris/typescript-boilerplate)
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
+* [TypeScript Origins: The Documentary - YouTube](https://www.youtube.com/watch?v=U6s2pdxebSo) TypeScript에 대한 1시간 20분 정도 분량의 다큐멘터리
 * [typia: Super-fast Runtime validator (type checker) with only one line](https://github.com/samchon/typia)
   * [Universal Random Generator, which can make everything, just by only one line - DEV Community](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
 * [vanilla-extract — Zero-runtime Stylesheets-in-TypeScript](https://vanilla-extract.style/)
