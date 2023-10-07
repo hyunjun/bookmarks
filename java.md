@@ -1003,6 +1003,7 @@ Java
 * [Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [A. Sundararajan on X: "Script to search #Java21 javadoc from command line. * Unnamed Classes and Instance Main Methods https://t.co/gMiMqzhyYL * source launcher shebang script support https://t.co/1Ka5Gqy7yv We can call such scripts "Java script"s 😉 #Java https://t.co/TUVgFJku2M" / X](https://twitter.com/sundararajan_a/status/1706189855192182787)
 * [Building and Deploying Java Client Desktop Applications With JDK 21 and Beyond By Kevin Rushforth - YouTube](https://www.youtube.com/watch?v=Afehjldx4yM)
+* [The Panama Dojo: Black Belt Programming with Java 21 and the FFM API By Per Minborg - YouTube](https://www.youtube.com/watch?v=t8c1Q2wJOoM)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
