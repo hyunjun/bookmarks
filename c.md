@@ -176,7 +176,6 @@ C
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 * [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
-* [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
 * [(12) Joe Zbiciak's answer to Can someone post a simplified C program for AI algorithm, and what type of hardware will be typically used? - Quora](https://www.quora.com/Can-someone-post-a-simplified-C-program-for-AI-algorithm-and-what-type-of-hardware-will-be-typically-used/answer/Joe-Zbiciak)
 * [그래서, 스택이랑 힙이 뭔데?](https://www.jiwon.me/explain-heap-and-stack/)
 * [C 언어 퀴즈](https://velog.io/@mythos/C-C-%EC%96%B8%EC%96%B4-%ED%80%B4%EC%A6%88)
@@ -605,6 +604,9 @@ C
   * mktime
   * strftime
   * strptime
+* union
+  * [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
+  * [typedef union 활용하기 - YouTube](https://www.youtube.com/watch?v=bbbKW6kcEV0)
 
 # TDD Test
 * [Embedded C/C++ Unit Testing Basics | Interrupt](https://interrupt.memfault.com//blog/unit-testing-basics)
