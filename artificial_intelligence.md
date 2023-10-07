@@ -244,6 +244,11 @@ Artificial Intelligence
 # Library
 * [Activeloop - Database for AI - Activeloop](https://www.activeloop.ai/)
 * [AGI-Papers: Papers and Book to look at when starting AGI 📚](https://github.com/gyunggyung/AGI-Papers)
+* [AI Gateway · Cloudflare AI Gateway docs](https://developers.cloudflare.com/ai-gateway/)
+  * [Announcing AI Gateway: making AI applications more observable, reliable, and scalable](https://blog.cloudflare.com/announcing-ai-gateway/)
+    * Cloudflare에서 AI 플랫폼의 API 중간에 둘 수 있는 AI Gateway 공개
+    * OpenAI 등의 AI를 이용할 때 AI Gateway를 거치게 설정하면 응답 캐시, 재시도, 사용량 모니터링 가능
+    * 현재는 OpenAI, Hugging Face, Replicate의 플랫폼 지원
 * [AI Getting Started](https://ai-companion-stack.com)
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
@@ -368,5 +373,9 @@ Artificial Intelligence
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
 * [vectordb: A Python vector database you just need - no more, no less](https://github.com/jina-ai/vectordb)
+* [Vectorize: a vector database for shipping AI-powered applications to production, fast](https://blog.cloudflare.com/vectorize-vector-database-open-beta/)
+  * Cloudflare에서 풀스택 AI 기반 애플리케이션을 구축할 수 있는 벡터 데이터베이스 Vectorize를 오픈 베타로 공개
+  * Cloudflare Wokers에서는 모두 이용할 수 있게 공개
+  * 이 벡터 데이터베이스를 이용하면 모델에 조회한 내용을 저장해 두고 사용 가능
 * [Weaviate - vector database](https://weaviate.io/)
   * [I built an image search engine - YouTube](https://www.youtube.com/watch?v=mBcBoGhFndY)
