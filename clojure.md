@@ -515,6 +515,7 @@ Clojure
   * [core.logic - Clojure, 웹개발이 다가 아니예요](http://www.slideshare.net/SeonhoKim/corelogic-clojure)
 * core.memoize
   * [A manipulable, pluggable, memoization framework for Clojure](https://github.com/clojure/core.memoize)
+  * [Memoization and Caching Patterns in Clojure: memoize, clojure.core.cache & clojure.core.memoize - YouTube](https://www.youtube.com/watch?v=a_jQBWpxfQU)
 * core.typed
   * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
   * [core.typed 클로저 정적 타입 맛보기](http://clojure.kr/core.typed)
