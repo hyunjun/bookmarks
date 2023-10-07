@@ -857,6 +857,9 @@ Web
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
+* [CSS Subgrid](https://web.dev/css-subgrid/)
+  * CSS 그리드에서 그리드 컨테이너의 직접 자식에만 영향을 주는데
+  * `grid-template-columns`를 `subgrid`로 지정해서 사용하는 서브그리드를 사용하면 부모 그리드의 값을 서브그리드에서 사용 가능해 레이아웃 내에서 콘텐츠 정렬 가능
 * [Defensive CSS](https://defensivecss.dev/)
   * 사이즈가 달라져도 깨지지 않도록 Flexbox나 백그라운드 이미지, 스크롤 등 CSS 팁을 정리한 사이트로 상황별로 어떤 문제가 있는지 정리, 재현 가능한 예제 제공
 * [:has() 셀렉터 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/905)
@@ -1039,6 +1042,7 @@ Web
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [glTF: glTF – Runtime 3D Asset Delivery](https://github.com/KhronosGroup/glTF)
   * [웹 3D 모델 최적화 기법 소개](https://d2.naver.com/helloworld/6152907)
+* hotwire [HTML Over The Wire | Hotwire](https://hotwired.dev/)
 * [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
   * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
 * [htmlq: Like jq, but for HTML](https://github.com/mgdm/htmlq) JSON을 쉽게 조회하고 조작할 수 있는 jq처럼 CSS 셀렉터를 이용해서 HTML을 조회할 수 있는 CLI
@@ -1072,6 +1076,10 @@ Web
   * [Build Images with React using Vercel’s Hot New Library: Satori | by Guillaume Renard | Oct, 2022 | Bits and Pieces](https://blog.bitsrc.io/use-the-hot-new-library-from-vercel-to-generate-images-from-your-browser-bfd4939e36c)
 * [SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
+* [Strada: Create high fidelity native interactions driven by your web app.](https://strada.hotwired.dev/)
+  * [37signals Dev — Announcing Strada](https://dev.37signals.com/announcing-strada/)
+    * HTML을 사용해서 JavaScript를 많이 사용하지 않고 웹 애플리케이션을 만드는 Hotwire의 기술로 하이브리드 모바일 애플리케이션을 만들 수 있게 하는 Strada 발표
+    * Hotwire가 발표될 때 Strada도 스택에 포함되어 있었지만 이제 공개된 것이고 37signals에서는 HEY의 iOS/Android 앱을 만드는데 지난 3년 동안 사용
 * Swagger
   * [Swagger Editor](https://editor.swagger.io/)
   * [swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition](https://github.com/swagger-api/swagger-codegen)
@@ -2008,6 +2016,9 @@ Web
     * Cloudflare에서 JavaScript/Wasm 런타임인 workerd의 첫 베타를 오픈소스로 공개
     * workerd는 Cloudflare Workers와 대부분의 코드를 같이 사용하지만 다른 환경에서도 동작할 수 있도록 설계
     * workerd는 셀프 호스트 애플리케이션에 사용될 것이고 주로 웹서버가 될 것이며 워커의 로컬 테스트에도 사용 가능
+  * [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
+    * Cloudflare Workers에 WebGPU 추가, Workers의 오픈소스 런타임인 workerd가 WebGPU 지원, 로컬에서도 사용 가능
+    * 이 구현은 Chrome 브라우저처럼 Dawn을 사용해서 Linux, macOS, Windows에서 사용 가능
 * [Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=6343)
   * [Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다. | GeekNews](https://news.hada.io/topic?id=6484)
 
