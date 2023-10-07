@@ -1545,7 +1545,7 @@ Deep Learning
 * [tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️](https://github.com/geohot/tinygrad)
   * [geohot/tinygrad - 미니멀한 딥러닝 프레임워크 | GeekNews](https://news.hada.io/topic?id=6320)
 * [Triton Inference Server · GitHub](https://github.com/triton-inference-server)
-  * [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/?ncid=so-face-758959&=&linkId=100000216521022&fbclid=IwAR0O2uqPomdwCv4ED7ng2r-B9u5MKoU67wVcIvtUUkkurKud5aYHjt67O24)
+  * [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
   * [tritony: Tiny configuration for Triton Inference Server](https://github.com/rtzr/tritony)
     * [Tritony: Tiny configuration for Triton Inference Server | by 동우, Arthur Kim | returnzero | Oct, 2022 | Medium](https://medium.com/return-zero/tritony-tiny-configuration-for-triton-inference-server-f0daedd19e83)
 * [trident: A performance library for machine learning applications](https://github.com/kakaobrain/trident)
