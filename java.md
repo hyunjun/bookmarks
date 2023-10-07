@@ -1959,6 +1959,7 @@ Java
 * [Top 20 Spring Framework and Spring Boot Scenario based Questions for Java Developers | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/top-20-spring-framework-and-spring-boot-scenario-based-questions-for-java-developers-d84c440864bf)
 * [Spring '/', 문자열인가 경로인가 그것이 문제로다](https://yeonyeon.tistory.com/304)
 * [Spring Bean Injection 이야기(feat. 모두가 다 알고 있는 스프링빈, 정말 다 알고 있는가?) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/martin-dev-honey-tip-2/)
+* [Making your @Beans Intelligent By Mark Pollack - YouTube](https://www.youtube.com/watch?v=7OY9fKVxAFQ)
 * [Difference between Spring Framework, Spring Boot, and Spring Cloud? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/difference-between-spring-framework-spring-boot-and-spring-cloud-cf3692312d77)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
