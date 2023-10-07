@@ -208,23 +208,6 @@ Git
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
-* [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
-* ["쿠버네티스와 깃옵스는 빵과 버터" 구글이 깃옵스를 간소화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/238124)
-* [GitOps As an Evolution of Kubernetes - YouTube](https://www.youtube.com/watch?v=IwipqLTWIs4)
-* [GitOps 기반의 클러스터 구축하기 1부 — Terraform Cloud, Github Action 적용 | by Haeman Lee | Feb, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/gitops-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%EB%B6%80-terraform-cloud-github-action-%EC%A0%81%EC%9A%A9-92a0a0ffcba0)
-* [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
-* [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
-* [Observability and GitOps - DZone DevOps](https://dzone.com/articles/observability-and-gitops)
-* [데브옵스의 확장 모델 - 깃옵스(GitOps) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30601103&memberNo=36733075&navigationType=push)
-* [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
-* [OpenGitOps 1.0 is finally here and why you should care | OpenGitOps](https://opengitops.dev/blog/1.0-announcement/)
-* [A ‘Hello World’ GitOps Example Walkthrough – zwischenzugs](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough/)
-* [GitOps (Flux) Extension for VS Code with Kingdon Barrett - YouTube](https://www.youtube.com/watch?v=bY-yFdc73Zc)
-* [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (1/2) | by 김희철 | 레몬베이스 (Lemonbase) | Sep, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1-2-5ed659956e3f)
-* [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (2/2) | by Noah | 레몬베이스 (Lemonbase) | Nov, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2-2-5c2daff6645c) EKS ArgoCD Helm
-* [Bare-Metal Chronicles: Tinkerbell, Cluster API & GitOps • Katie Gamanji • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PHrUSpEydRM)
-* [깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서 | 요즘IT](https://yozm.wishket.com/magazine/detail/2010/)
-* [Software Rollout at Scale: Using GitOps to Scale Kubernetes Rollouts • Thor Lange • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ak2TT2oHeg8)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 * [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
@@ -1162,6 +1145,28 @@ Git
     * 아직 프라이빗 베타이지만 Pull Request를 바로 merge하는 대신 merge queue에 넣고 최신 베이스 브랜치와 검사를 해준 뒤에 merge할 수 있는 merge queue 추가
   * [It Depends - GitHub Universe 2021 - YouTube](https://www.youtube.com/watch?v=aMWh2uLO9OM)
 
+# GitOps
+* [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
+* ["쿠버네티스와 깃옵스는 빵과 버터" 구글이 깃옵스를 간소화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/238124)
+* [GitOps As an Evolution of Kubernetes - YouTube](https://www.youtube.com/watch?v=IwipqLTWIs4)
+* [GitOps 기반의 클러스터 구축하기 1부 — Terraform Cloud, Github Action 적용 | by Haeman Lee | Feb, 2023 | YOGIYO Tech Blog - 요기요 기술블로그](https://techblog.yogiyo.co.kr/gitops-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%EB%B6%80-terraform-cloud-github-action-%EC%A0%81%EC%9A%A9-92a0a0ffcba0)
+* [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
+* [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
+* [Observability and GitOps - DZone DevOps](https://dzone.com/articles/observability-and-gitops)
+* [데브옵스의 확장 모델 - 깃옵스(GitOps) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30601103&memberNo=36733075&navigationType=push)
+* [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
+* [OpenGitOps 1.0 is finally here and why you should care | OpenGitOps](https://opengitops.dev/blog/1.0-announcement/)
+* [A ‘Hello World’ GitOps Example Walkthrough – zwischenzugs](https://zwischenzugs.com/2021/07/31/a-hello-world-gitops-example-walkthrough/)
+* [GitOps (Flux) Extension for VS Code with Kingdon Barrett - YouTube](https://www.youtube.com/watch?v=bY-yFdc73Zc)
+* [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (1/2) | by 김희철 | 레몬베이스 (Lemonbase) | Sep, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1-2-5ed659956e3f)
+* [“지금 테스트서버 쓰시는 분?” (GitOps로 브랜치별 배포 시스템 구축하기) (2/2) | by Noah | 레몬베이스 (Lemonbase) | Nov, 2022 | Medium](https://medium.com/lemonbase/%EC%A7%80%EA%B8%88-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%9C%EB%B2%84-%EC%93%B0%EC%8B%9C%EB%8A%94-%EB%B6%84-gitops%EB%A1%9C-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%B3%84-%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2-2-5c2daff6645c) EKS ArgoCD Helm
+* [Bare-Metal Chronicles: Tinkerbell, Cluster API & GitOps • Katie Gamanji • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=PHrUSpEydRM)
+* [깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서 | 요즘IT](https://yozm.wishket.com/magazine/detail/2010/)
+* [Software Rollout at Scale: Using GitOps to Scale Kubernetes Rollouts • Thor Lange • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Ak2TT2oHeg8)
+* [kargo: Application lifecycle orchestration](https://github.com/akuity/kargo)
+  * [Introducing Kargo | Akuity](https://akuity.io/blog/introducing-kargo/)
+    * Argo 프로젝트를 만드는 Akuity에서 GitOps에 맞게 CD 파이프라인을 재구성, 각 스테이지를 연결해서 배포 조건, 생명 주기, 테스트를 설정 가능
+
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [GitHub 멀티 어카운트를 사용할 때 유용한 Git 설정 - LainyZine](https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
@@ -1326,7 +1331,7 @@ Git
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [GitGuardian: Git Security Scanning & Secrets Detection](https://www.gitguardian.com/)
 * [Githelp](https://githelp.io/?ref=hackernews)
-* [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
+* **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * github1s
   * [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
@@ -1341,6 +1346,10 @@ Git
   * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
 * [github-following-tracker: 🌈 GitHub following, followers, only-following, only-follower tracker 🌈](https://github.com/youngkwon02/github-following-tracker)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
+* [GitHub Innovation Graph](https://innovationgraph.github.com/)
+  * 각 연구자가 GitHub의 데이터에 관심 있지만 데이터를 얻는 데 많은 장벽이 있다는 것을 깨닫고 이를 쉽게 확인하고 사용할 수 있도록 Innovation Graph 공개
+  * Innovation Graph에서 GitHub 내의 커밋, 저장소, 개발자, 프로그래밍 언어의 횟수를 국가별로 확인 가능
+  * 이 데이터를 저작권이 없는 CC0-1.0 라이센스로 다운로드 가능
 * [github-ko-ext: 깃헙 한글화 확장 프로그램](https://github.com/hatemogi/github-ko-ext)
   * [GitHub 한글화 실험 프로젝트. “개발자가 자주 쓰는 GitHub 웹사이트를 한글화 하면 친숙해서 좋지… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/github-%ED%95%9C%EA%B8%80%ED%99%94-%EC%8B%A4%ED%97%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5b9e040d1d75)
 * GitHub Pages
