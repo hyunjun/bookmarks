@@ -102,6 +102,13 @@ Time Series
   * [Scouter와 influx db – grafana 연동 가이드](http://www.slideshare.net/ienvyou/scouter-influx-db-grafana)
   * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
   * [Processing Time Series Data in Real-Time with InfluxDB and Structured Streaming](https://towardsdatascience.com/processing-time-series-data-in-real-time-with-influxdb-and-structured-streaming-d1864154cf8b)
+  * [The Plan for InfluxDB 3.0 Open Source | InfluxData](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
+    * 분산형 시계열 데이터베이스인 InfluxDB 3.0의 오픈소스 버전은 앞으로 InfluxDB Edge라고 부를 것
+      * InfluxDB Edge를 릴리스하고 추가기능이 포함된 무료 커뮤니티 에디션인 InfluxDB Community를 릴리스 예정
+      * InfluxDB Edge는 기존 레퍼지토리에서 개발하지만, 커뮤니티 에디션은 개발 과정이 이 레퍼지토리에 포함되지 않을 것
+    * InfluxDB 3.0 아키텍처에는 1.x와 2.x의 역 인덱스(TSI), 시계열 병합 트리(TSM) 저장소 엔진이 미포함
+      * InfluxDB Edge는 최근 데이터를 수집하고 쿼리하는데 최적이고 1.x와 2.x의 사용 사례를 모두 대체하지 않음
+      * 대신 더 오랜 기간의 데이터에 유용하도록 InfluxDB Community를 별도로 릴리스할 계획
 * IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
   * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M)
     * 시계열 데이터베이스는 시간별로 인덱싱된 데이터 집합을 처리하도록 최적화
