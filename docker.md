@@ -1378,6 +1378,17 @@ Docker
   * 쿠버네티스의 향후 분산 시스템은 비즈니스 논리가 애플리케이션의 핵심을 이루는 여러 런타임으로 구성될 것이며 사이드카 "메카" 구성요소는 즉시 사용할 수 있는 강력한 분산 기본 요소를 제공함
   * 이 분리된 메카 아키텍처는 통합형 비즈니스 로직 단위의 이점을 제공하며 패치 적용, 업그레이드 및 장기 유지 보수와 같은 프로덕션  운영을 개선함
 * [사이드카 프록시로 구현한 서비스 인증](https://engineering.linecorp.com/ko/blog/service-authentication-sidecar-proxy)
+* [Making Sense Out of Native Sidecar Containers in Kubernetes](https://labs.iximiuz.com/tutorials/kubernetes-native-sidecars)
+  * Kubernetes 1.28에 추가된 네이티브 사이드카 컨테이너를 자세히 설명하는 글
+  * Pod의 일반 컨테이너보다 먼저 실행되어야 하는 작업을 위해 `initContainers`가 도입
+    * 이는 항상 일반 컨테이너보다 먼저 실행되고 정의한 순서대로 실행되면서 앞의 컨테이너가 완료되어야 다음 컨테이너로 넘어가게 됨
+  * 사이드카 패턴은 일반 컨테이너로 사용하지만 실제로는 일반 컨테이너보다 먼저 시작되고 나중에 끝나야 하고
+    * Pod의 생명주기와 다르게 움직일 수도 있었기 때문에 이를 해결하기 위해 1.28에는 사이드카 컨테이너가 추가
+  * 하지만 `sidecarContainers`같은 게 추가된 게 아니라 `initContainers`에 `restartPolicy: Always`가 추가되어
+    * 다음 컨테이너의 시작을 막지 않고 종료 시 재시작
+    * startup/readiness/liveness 프로브도 지원
+    * 일반 컨테이너가 모두 종료되면 종료되는 특징
+    * 이 동작을 이해할 수 있는 그림과 함께 예제도 제공해서 이해하기 좋음
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [Amazon VPC CNI 플러그인으로 노드당 파드수 제한 늘리기](https://trans.yonghochoi.com/translations/aws_vpc_cni_increase_pods_per_node_limits.ko)
@@ -1688,6 +1699,12 @@ Docker
 * [Enabling Developers in a Multi-Cloud World • Mauricio Salatino • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=NjvZxGG_8W0)
 * [The Power of Kubernetes](https://www.linkedin.com/posts/madhav-reddy-447966213_devops-kubernetes-containerization-ugcPost-7089486747515949058-dNv1/)
 * [1. 쿠버네티스의 3가지 주요 특징과 네이티브 vs 매니지드 쿠버네티스 비교 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-08-16-jennifer-kubernetes-1/)
+* [Dynamic Node Labeling via Node Feature Discovery on Kubernetes | by Richard Durso | Medium](https://medium.com/@reefland/dynamic-kubernetes-node-labeling-via-node-feature-discovery-2c3e9c1879d1)
+  * Node Feature Discovery(NFD)를 사용해서 노드의 하드웨어 기능을 노드에 라벨링 해서 스케줄링하는 방법 소개
+    * [Get started · Node Feature Discovery](https://kubernetes-sigs.github.io/node-feature-discovery/stable/get-started/index.html)
+  * NFD를 클러스터에 설치하면 기본적으로 하드웨어를 탐지해서 노드에 라벨을 추가
+  * 사용자가 파악하기 쉽게 라벨을 매핑하면 그것에 맞게 노드 라벨에 추가되고
+  * Pod을 `nodeSelector`를 사용해서 스케줄링할 때 GPU 등 원하는 하드웨어가 있는 노드에 스케줄링 가능
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
