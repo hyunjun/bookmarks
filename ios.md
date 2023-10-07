@@ -613,6 +613,21 @@ iOS
 * [SwiftUI로 음성메모 구현하기 :: iOYES](https://green1229.tistory.com/396)
 * [SwiftUI의 onChange 사용 시 주의할 부분 :: iOYES](https://green1229.tistory.com/403)
 * [SwiftUI에서 View의 Size 측정하기 :: iOYES](https://green1229.tistory.com/409)
+* [Unlocking SwiftUI at Airbnb. How Airbnb adopted SwiftUI in our iOS… | by Bryn Bodayle | The Airbnb Tech Blog | Sep, 2023 | Medium](https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49)
+  * Airbnb에서 선언적 UI 프레임워크로 2016년에 만든 Epoxy를 사용하고 있었고 Epoxy는 UIKit 사용
+  * 2019년 퍼스트 파티 선언적 UI 프레임워크인 SwiftUI 출시, Airbnb의 요구사항에 맞지 않아서 미사용
+    * 2022년에는 안정성과 API 가용성이 확보되어 SwiftUI 도입을 고려 시작
+  * SwiftUI를 도입하면 더 좋아질 것이라는 기대 아래
+    * 디자인 시스템에서 재사용할 수 있는 컴포넌트를 구축하는 1단계
+    * 예약 페이지, 프로필 페이지 등 전체 화면 구축의 2단계
+    * 여러 화면으로 구성된 화면의 완전한 기능 구축 3단계로 계획
+    * 현재 2단계까지는 완료
+  * 이를 위해 디자인 시스템은 SwiftUI로 다시 구축
+    * Epoxy와 SwiftUI가 서로 연결되도록 인프라를 구성
+    * 단방향 데이터 흐름으로 비즈니스 로직과 프리젠테이션 로직을 분리해서 쉽게 Epoxy를 SwiftUI로 변환 가능
+  * 그리고 SwiftUI 도입에 가장 어려운 점이 전문성을 갖추는 것이라는 것을 알고 있었기에 사내에서 워크숍을 개최해서 전문성 향상
+  * SwiftUI 도입의 결과는 현재까지 긍정적이지만
+    * SwiftUI가 오픈소스는 아니므로 디버깅에 어려움이 있었고 앞으로의 계획도 연간 발표라서 방향성에 대한 고민 등이 존재
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
 * [ScrollTargetBehavior :: iOYES](https://green1229.tistory.com/406)
