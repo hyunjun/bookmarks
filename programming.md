@@ -1420,6 +1420,14 @@ Programming
       * 이는 런타임을 오픈소스로 공개할 계획이 있는지에 대한 질문으로 이어짐
     * 이제 Wokers 런타임을 Apache 2.0 라이센스로 공개하기로 발표. 아직 코드 미공개
   * [Deploy Next.js to Cloudflare Pages - Cloudflare Static Web Apps Tutorial](https://morioh.com/p/9c1c2bcbe607)
+  * [Encrypted Client Hello - the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
+    * Encrypted Client Hello(ECH)는 TLS 핸드쉐이크 협상에 사용되는 Server Name Indication(SNI)를 마스킹하는 ESNI의 후속 기능
+    * SNI는 중개자가 웹사이트 방문을 확인할 수 있는 암호화되지 않은 마지막 비트
+    * 이 ECH를 이제 Cloudflare의 모든 요금제에서 사용되어 사용자, Cloudflare, 웹사이트 소유자 외에는 누가 어떤 사이트를 방문했는지 알 수 없게 됨
+    * TLS 핸드쉐이크할 때 SNI를 알려주는 ClientHello 부분에서
+      * 내부 SNI는 Cloudflare의 공개키로 암호화
+      * 외부 SNI는 `cloudflare-ech.com`로 설정
+      * 중개자는 모든 웹사이트가 `cloudflare-ech.com`으로 접속하는 것으로 나타나게 됨
   * [Public CDNs Are Useless and Dangerous | HTTP Toolkit](https://httptoolkit.tech/blog/public-cdn-risks/)
   * [Distributed Caching on Cloud – The New Stack](https://thenewstack.io/distributed-caching-on-cloud)
   * [CACHE IN DISTRIBUTED SYSTEMS. What is a Cache? | by AKT | Medium](https://medium.com/@nuraigayt/cache-in-distributed-systems-aaf92d8a05a1)
@@ -2866,6 +2874,13 @@ Programming
   * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
 * [cign - Cloud As Design](https://www.cigncloud.com/) visualization
 * [Cloud Champ - YouTube](https://www.youtube.com/channel/UCbg9O0JF3rVKev6wpI5_u5g)
+* [Cloudflare Workers | Build and deploy code with Easy-to Use Developer Tools | Cloudflare](https://www.cloudflare.com/developer-platform/workers/)
+  * [Re-introducing the Cloudflare Workers Playground](https://blog.cloudflare.com/workers-playground/)
+    * Cloudflare Workers를 공개할 때 같이 공개했던 Playground가 오랫동안 방치되어 있었음
+    * 그동안 Workers의 발전에 맞추어 Playground를 새로 만들어서 새로운 편집기 환경에서 Workers를 바로 테스트해 볼 수 있고 공유하거나 배포 가능
+  * [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
+    * Cloudflare에서 서버리스 GPU를 이용할 수 있는 Workers AI 출시
+    * Workers AI에서는 Meta, OpenAI, Hugging Face, Microsoft의 다양한 모델을 사용해서 추론을 쉽게 사용 가능
 * [Cloudforet | Open Source Multi-cloud Management Platform](https://cloudforet.io/)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [클라우드타입](https://cloudtype.io/)
@@ -3940,6 +3955,10 @@ Programming
     * 로그인 등에서 시각적 퍼즐로 봇을 걸러내기 위해 사용하는 CAPTCHA의 대안으로 Cloudflare에서 Turnstile을 오픈 베타로 공개
     * Turnstile는 Managed Challenge 시스템으로 사용자의 정보를 기반으로 과제를 수행하여 CAPTCHA 없이도 사람 구분
     * Cloudflare에서 키를 받아서 무료로 사용할 수 있고 프라이버시 측면에서도 훨씬 안전
+  * [Cloudflare is free of CAPTCHAs; Turnstile is free for everyone](https://blog.cloudflare.com/turnstile-ga/)
+    * 봇을 차단하기 위해 사용하는 CAPTCHA의 대안으로 작년에 Cloudflare가 공개한 Turnstile이 누구나 이용할 수 있도록 완전히 무료 공개
+    * 시각적 퍼즐이 사람에게도 어렵기 때문에 Turnstile은 퍼즐을 전혀 보여주지 않고 봇을 detect
+    * 지난 1년 동안 모니터링한 결과 프로덕션에 사용할 준비가 완료되었다고 판단하고 정식 버전으로 공개
 * [zxcvbn: realistic password strength estimation - Dropbox](https://dropbox.tech/security/zxcvbn-realistic-password-strength-estimation)
   * [비밀번호의 강도를 알려주는 zxcvbn - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/901)
 
@@ -4222,6 +4241,11 @@ Programming
 * Google Fonts
   * [Browse Fonts - Google Fonts](https://fonts.google.com/)
   * [Google Fonts Knowledge | GeekNews](https://news.hada.io/topic?id=5551)
+  * [Cloudflare Fonts: enhancing website font privacy and speed](https://blog.cloudflare.com/cloudflare-fonts-enhancing-website-privacy-speed/)
+    * Cloudflare에서 Google Fonts를 직접 캐싱해 주는 기능 추가
+    * Google Fonts는 편리하지만, CSS 파일을 가져오는 API 주소와 폰트를 가져오는 주소로 나뉘어져 있어서 모두 가져오려면 8번의 왕복 필요
+    * Cloudflare를 거치는 순간 HTML을 조작해서 응답 HTML에 바로 CSS 응답을 포함해서 한 번의 요청으로 바로 폰트 로드 가능
+    * 이 폰트는 Cloudflare CDN에 캐싱 되어 서비스 자체 도메인에서 바로 폰트를 다운로드 받을 수 있게 지원해서 성능도 훨씬 향상
 * [hack - http://sourcefoundry.org/hack](http://sourcefoundry.org/hack/)
 * [hoard-of-bitfonts: turns out I like bitmap fonts](https://github.com/robhagemans/hoard-of-bitfonts)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
