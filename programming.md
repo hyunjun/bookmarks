@@ -937,6 +937,7 @@ Programming
 * [Architecture Challenges Faced by Agile Organisations • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=rKtZk5GHDFs)
 * [지난 9개월간의 딜리버리프로덕트팀의 경험과 변화에 대한 이야기: 애자일 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/teamsoftwaredevelopment-changes-deliveryproduct/)
 * [Flow: the worst software development approach in history by Sander Hoogendoorn & Kim Van Wilgen - YouTube](https://www.youtube.com/watch?v=FahSLxZrsCs) Big Flow Framework BFF
+* [Introducing Flow: The worst software development approach in history By Sander & Kim - YouTube](https://www.youtube.com/watch?v=TIR84uGD61k)
 * [스프린트 Task와 직무 Task. 경량화 방법론 시기에 탄생한 다양한 소프트웨어 개발 방법론들과 애자일… | by 김상현 | make -k it (메이킷) | Medium](https://medium.com/make-k-it/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-task%EC%99%80-%EC%A7%81%EB%AC%B4-task-d451677efe53)
 * [Agile Transformations Using The “Spotify Model” • Joakim Sunden • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=wtmW89I941I)
 * [애자일로 개발하면 빨리 끝난다던데? / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-agile/)
@@ -4338,6 +4339,7 @@ Programming
   * [Webinar - Developer portals: what developers want and what platform people should do about it - YouTube](https://www.youtube.com/watch?v=AbqBWNpwMbY)
     * [kostis-codefresh/port-demo: Demo model for getPort.io](https://github.com/kostis-codefresh/port-demo)
   * [Port - YouTube](https://www.youtube.com/@getport)
+  * [Ocean Software Catalog Extensibility “Framework” - YouTube](https://www.youtube.com/watch?v=w7VpEZOB1l4)
 * [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
@@ -5539,6 +5541,7 @@ Programming
 * [“그래도 코딩하는 임원은 거의 없다” 로우코드ㆍ노코드 개발 ‘이상과 현실’ - ITWorld Korea](https://www.itworld.co.kr/news/308419)
 * [Top No-Code Development Tools In 2023 | by CodeCircuit | JavaScript in Plain English](https://javascript.plainenglish.io/top-no-code-development-tools-in-2022-fc179633682c)
   * [2023년 최고의 노코드 개발 도구 | 요즘IT](https://yozm.wishket.com/magazine/detail/1819/)
+* [해외 헤드헌터한테 꾸준히 연락 오는 분야, 코딩 안하는 개발자 | 마이크로소프트 + Low Code No Code + 3년차 개발자 + 자격증 - YouTube](https://www.youtube.com/watch?v=9NmuAG-attQ)
 * [NoCode Map 2023](https://www.linkedin.com/posts/rooney-kim-68951521_nocode-backend-nocodeplatform-activity-7016599940021833729-Hh5u/)
 * [Why You Should Look Into Low Code • Christoph Windheuser • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=MBKeKso6mtw)
 * 100daysofnocode [Start Learning to No-Code the Right Way in Just 30 Mins a Day](https://www.100daysofnocode.com/)
