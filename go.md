@@ -701,6 +701,8 @@ Go
 * [GOES - Go Event Sourcing made easy https://opensource.bloom.sh ](https://github.com/bloom42/goes)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [Gofs: The Easy Way to Synchronize Files in Real Time](https://morioh.com/a/45242296afee/gofs-the-easy-way-to-synchronize-files-in-real-time)
+* [gogenerate: Source code for the "go:generate" talk](https://github.com/dundee/gogenerate)
+  * [Generating code with go generate - Daniel Milde - YouTube](https://www.youtube.com/watch?v=ClW_g1iDGi4)
 * [go-git - A highly extensible Git implementation in pure Go](https://github.com/go-git/go-git)
 * [Gogs](http://gogs.io/)
 * [Go-i18n: Translate Your Go Program into Multiple Languages](https://morioh.com/p/20e1cd716d23)
