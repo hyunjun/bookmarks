@@ -612,6 +612,7 @@ Java
 * [OAuth for Java Developers - YouTube](https://www.youtube.com/watch?v=z2Bt971k1EE)
 * [Develop Modern and Lightweight Cloud Applications with Jakarta EE 10 by Ivar Grimstad - YouTube](https://www.youtube.com/watch?v=uZ9wKhQk-Nk)
 * [SIMD Parallel Programming with the Vector API By José Paumard - YouTube](https://www.youtube.com/watch?v=36DN9sE7ja4)
+* [Java Patterns and Practices for Serverless Applications By Adam Bien - YouTube](https://www.youtube.com/watch?v=Ou82_yDOcmY)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
