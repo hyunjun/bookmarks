@@ -221,6 +221,9 @@ Programming Books
 * [데이터 드리븐 디자인씽킹 | 위키북스](https://wikibook.co.kr/dddt/)
   * ★★★☆☆ 2023.04.03 큰 주제를 좀 압축해놓은 감이 있지만, 디자인 씽킹에서 시작해서 엑셀로 기초적인 데이터 분석까지 넓은 주제를 쉽게 다룸
   * 한라 005.76-에68ㄷ
+* [사라진 개발자들](https://hanbit.co.kr/store/books/look.php?p_code=B4793001395)
+  * ★★★☆☆ 2023.10.06, 08
+  * [사라진 개발자들](https://yeonyeon.tistory.com/316)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
@@ -336,8 +339,6 @@ Programming Books
   * 탐라 개005.13-보77ㅇ 제주 005.4-보78읽
   * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 * (NOT YET) [오늘날 우리는 컴퓨터라 부른다](https://jhrogue.blogspot.com/2023/09/blog-post.html)
-* (NOT YET) [사라진 개발자들](https://hanbit.co.kr/store/books/look.php?p_code=B4793001395)
-  * [사라진 개발자들](https://yeonyeon.tistory.com/316)
 
 # Agile Scrum
 
