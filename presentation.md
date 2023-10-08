@@ -47,6 +47,7 @@ Presentation
 * [아직도 PPT와 텍스트로 보고하나요? 그렇다면 비주얼싱킹 - T Times](https://www.ttimes.co.kr/article/2022050418257792651)
 * [최고의 개발툴 발표는 어떤 건가요? | GeekNews](https://news.hada.io/topic?id=6790)
 * [발표 자료 준비하는 게 어렵다고? 자, 따라 해 봐 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227103)
+* [강연의 전달력을 높이는 법](https://brunch.co.kr/@graypool/1208)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
