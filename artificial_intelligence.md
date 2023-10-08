@@ -252,6 +252,7 @@ Artificial Intelligence
 * [AI Getting Started](https://ai-companion-stack.com)
   * [companion-app: AI companions with memory: a lightweight stack to create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
+* [babyagi](https://github.com/yoheinakajima/babyagi) 파이썬을 사용하여 개발된 자율 인공지능 에이전트, OpenAI와 Pinecone API를 통해 작동
 * [Codeball -> AI-powered code review](https://codeball.ai/)
   * [Codeball - AI가 수행하는 코드 리뷰 | GeekNews](https://news.hada.io/topic?id=6654)
 * [comma.ai](https://research.fb.com/projects/commai/)
