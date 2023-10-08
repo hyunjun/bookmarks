@@ -845,6 +845,7 @@ NLP
   * [A Bicycle for the (AI) Mind: GPT-4 + Tools - YouTube](https://www.youtube.com/watch?v=KMT2vpyq4Fw) API call
   * [Considering ChatGPT's Technical Review of a Programming Book | Real Python Podcast #174 - YouTube](https://www.youtube.com/watch?v=oonLYruswjk)
   * [ChatGPT 코드 인터프리터로 데이터 시각화하기 - YouTube](https://www.youtube.com/watch?v=Uimu7kun5zw)
+  * [국가통계포털 KOSIS 경기종합지수 ChatGPT와 함께 파이썬으로 분석하기 - YouTube](https://www.youtube.com/watch?v=c62S-WZtVJ4)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
