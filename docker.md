@@ -2337,6 +2337,8 @@ Docker
   * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
   * [Dockerizing a Spring Boot Application and Using the Jib Maven Plugin | by Betül Şahin | Nov, 2021 | Medium](https://betulsahinn.medium.com/dockerizing-a-spring-boot-application-and-using-the-jib-maven-plugin-95c329866f34)
   * [자바 개발자를 위한 컨테이너 이미지 빌드 | 요즘IT](https://yozm.wishket.com/magazine/detail/2018/)
+* [Kasm Workspaces | The Container Streaming Platform](https://kasmweb.com/)
+  * [Kasm Workspaces: Your Solution for Remote Desktops? Full Review! - YouTube](https://www.youtube.com/watch?v=hXkZVqqAg7c)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Kyverno](https://kyverno.io/) Kubernetes Native Policy Management
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
