@@ -1776,6 +1776,7 @@ Deep Learning
   * 딥러닝의 성능을 높이기 위해서는 파라미터의 수를 증가시키는 것이 일반적
     * Mixture-of-Experts라는 방법을 활용하면 네트워크의 일부가 조건부로 활성화 가능
   * 이번 NeurIPS에서 게재 예정인 논문은 Expert Choice라는 새로운 Mixture-of-Experts 방법
+* [Snake - Zero to Neural Networks C Programming - YouTube](https://www.youtube.com/watch?v=dZNmGWH91EQ)
 * [Brain.js: GPU accelerated Neural Networks in JavaScript](https://brain.js.org/)
 * [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
 * [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
@@ -2847,6 +2848,9 @@ CVPR2016)
     * 케라스 스탠다드 모델(SavedModel)로 구현되었기 때문에, 다양한 형식의 배포 용이. TFServing / TFLite / TF.js 로 쉽게 변환될 수 있으며, 이를 통해 다양한 애플리케이션 작성 가능
   * [stable-diffusion-video-maker: Video generation tool for Stable Diffusion.](https://github.com/mix1009/stable-diffusion-video-maker)
   * [stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* [Tensor.Art | FREE online image generator and model hosting site!](https://tensor.art/)
+  * [사진 만드는 AI 혁명! 기존 AI는 다 버리세요! Tensor Art AI - YouTube](https://www.youtube.com/watch?v=hSmkwC491T8)
+    * [프롬프트 문구 종류별 정리](https://letsgotitan.tistory.com/38)
 
 # Text to video text2video
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://controlavideo.github.io/)
