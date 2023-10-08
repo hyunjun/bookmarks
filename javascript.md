@@ -2751,6 +2751,7 @@ Javascript
   * [와 Vite 쓰면 리액트 10배 빨라짐 (과장아님) - YouTube](https://www.youtube.com/watch?v=iX3Nu1FcZKA)
   * [Vite 환경에서 .env 활용하기 | Univdev](https://www.univdev.page/posts/vite-enviroment-variables/)
   * [Vite 4.0 is out! | Vite](https://vitejs.dev/blog/announcing-vite4.html)
+  * [React Micro-Frontends using Vite - DEV Community](https://dev.to/abhi0498/react-micro-frontends-using-vite-30ah)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
   * [NESTJS-VITEJS-typescript: Repository , example to use VITE JS in NEST JS with typescript. In this example, we use VUEJS, but you can use your favorite framework](https://github.com/VigilioYonatan/NESTJS-VITEJS-typescript)
   * [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/) Vue와 Vite를 기반 정적 사이트 제작 도구
