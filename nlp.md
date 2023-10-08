@@ -999,7 +999,8 @@ NLP
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
-* [Prompt-Engineering-Guide: Guides, papers, lecture, and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  * 어떻게 최신 논문, 학습 가이드, 강의, 참고 자료 및 도구를 활용하여 LLM의 프롬프트 엔지니어링을 배울 수 있는지에 대한 모든 정보가 포함된 가이드
   * [IT TREND 프롬프트 엔지니어링, AI라는 도구를 잘 사용하는 방법](https://tech.kakaoenterprise.com/188)
   * [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/kr)
 * [prompttools: Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB)](https://github.com/hegelai/prompttools)
@@ -1459,6 +1460,8 @@ NLP
     * [Llama2 파인튜닝 - 빵형의 개발도상국 - Colaboratory](https://colab.research.google.com/drive/1JDnGJbxT8fSqwnXY8J-XFo73AtiSuQMe?usp=sharing)
 * [aviary: Ray Aviary - evaluate multiple LLMs easily](https://github.com/ray-project/aviary)
 * [awesome-korean-llm: Awesome list of Korean Large Language Models](https://github.com/NomaDamas/awesome-korean-llm)
+* [Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) 선별된 목록로 구성된 대형 언어 모델에 관한 논문과 자료 들의 목록
+* [Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) 최고의 LLMOps 도구들을 뽑아 정리한 목록
 * [ChatGLM: The ChatGPT killer? Checking out ChatGLM6B - YouTube](https://www.youtube.com/watch?v=fGpXj4bl5LI)
 * Claude [Product | Anthropic](https://www.anthropic.com/product)
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
@@ -1502,7 +1505,8 @@ NLP
 * [Korean-PLM: List of Korean pre-trained language models](https://github.com/sooftware/Korean-PLM)
 * [KULLM: 구름(KULLM): 고려대학교에서 개발한, 한국어에 특화된 LLM](https://github.com/nlpai-lab/KULLM)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
-* [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/hwchase17/langchain)
+* [LangChain](https://github.com/langchain-ai) LLM을 사용하여 애플리케이션을 만들기 위한 프레임워크로 설계. 쉽고 간편하게 애플리케이션을 만드는 게 목표
+  * [langchain: ⚡ Building applications with LLMs through composability ⚡](https://github.com/langchain-ai/langchain)
   * [langchain에 대한 여러가지 이야기](https://www.facebook.com/seungjoon.choi/posts/pfbid031R9GMoJV9YdAB6s7pCuk7YCQWBSx6PXhSFSWMojwG1uSGeWcgtkpYpwpjshK7mgQl)
   * [LangChain 을 알아볼까요?](https://revf.tistory.com/280)
   * [한글자막 LangChain LLM explained GPT-4 interface - YouTube](https://www.youtube.com/watch?v=Mrf49u-QLVQ)
@@ -1552,6 +1556,7 @@ NLP
   * [Home · aymara/lima Wiki](https://github.com/aymara/lima/wiki)
 * [lingoose: 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines](https://github.com/henomis/lingoose)
 * [LiOn: 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장](https://github.com/gyunggyung/LiOn)
+* [lit-gpt: Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed](https://github.com/Lightning-AI/lit-gpt) Lit-GPT 최신 오픈 소스 LLMs의 해킹 가능한 구현
 * [llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
   * [ChatGpt의 오픈소스버전? Meta의 LLaMA: Open and Efficient Foundation Language Models 논문 리뷰!](https://cobslab.tistory.com/79)
   * [What's LLaMA? – Meta's Latest Collection of Large Language Models (LLMs) | Data Achilles](https://medium.com/data-achilles/everything-you-need-to-know-about-llama-b57834113f1b)
@@ -1621,6 +1626,7 @@ NLP
   * [WhatsApp-Llama: Finetune a LLM to speak like you based on your WhatsApp Conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
     * [WhatsApp-Llama - 자신의 왓츠앱 대화로 LLM 파인튜닝 하기 | GeekNews](https://news.hada.io/topic?id=11008)
 * [llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
+  * 일반적인 개념처럼 쉽고 유연한 데이터 프레임워크인 LlamaIndex는 대용량 언어 모델과 특정 데이터 소스를 연결하는 데 사용
   * [LlamaIndex 🦙 0.8.15](https://gpt-index.readthedocs.io/)
     * [Elasticsearch Vector Store - LlamaIndex 🦙 0.8.23.post1](https://gpt-index.readthedocs.io/en/stable/examples/vector_stores/ElasticsearchIndexDemo.html)
   * [Discover LlamaIndex: Introduction to Data Agents for Developers - YouTube](https://www.youtube.com/watch?v=GkIEEdIErm8)
@@ -1629,6 +1635,7 @@ NLP
 * [LLM-As-Chatbot: LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
 * [LLM Arena: a wolf versus a rabbit](https://llmarena.com/)
 * [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
+* [LLMDataHub: A quick guide (especially) for trending instruction finetuning datasets](https://github.com/Zjh-819/LLMDataHub)
 * [llm-guard: The Security Toolkit for LLM Interactions](https://github.com/laiyer-ai/llm-guard)
 * [LLMSurvey: A collection of papers and resources related to Large Language Models](https://github.com/RUCAIBox/LLMSurvey)
   * [A Survey of Large Language Models (LLMs)](https://www.linkedin.com/posts/jae-hong-eom-93368248\_survey-large-language-activity-7052275487703793665-WUfC/)
@@ -1647,7 +1654,7 @@ NLP
 * [open\_flamingo: An open-source framework for training large multimodal models](https://github.com/mlfoundations/open\_flamingo)
   * [OpenFlaminKO: Polyglot을 활용한 image-text multimodal](https://github.com/Marker-Inc-Korea/OpenFlaminKO)
     * [OpenFlaminKO - Polyglot-KO를 활용한 한국어 기반 MultiModal 도전기!](https://kyujinpy.tistory.com/100)
-* [OpenLLM: An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease](https://github.com/bentoml/OpenLLM)
+* [OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) 실제 애플리케이션에서 LLM의 배포 및 운영을 용이하게 하도록 설계
   * [OpenLLM - LLM을 프로덕션에서 운영하기 위한 오픈 플랫폼 | GeekNews](https://news.hada.io/topic?id=9452)
 * [open-llms: 🤖 A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 * PaLM
