@@ -1012,6 +1012,7 @@ Linux
   * htop
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [User power, not power users: htop and its design philosophy « hisham.hm](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
+    * [리눅스 환경에서 프로세스 동작을 모니터링하는 도구 소개 #top #htop #qps - YouTube](https://www.youtube.com/watch?v=nZ9yKKejRiE)
     * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
   * [highest-cpu.sh](https://gist.github.com/Sangdol/168b3a687b2becc2f74d1d5a5f7670f5) Threadhold 값 (30%) 이상 CPU 점유하고 있는 프로세스 중 가장 높은 CPU 점유하고 있는 프로세스 반환
 * `tr`
