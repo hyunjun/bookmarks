@@ -1099,8 +1099,9 @@ Go
 * [Introduction to The Go Programming Language for Beginners](https://morioh.com/p/cb2101abe8e5)
 * [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
 * [Top 6 Golang Programming Courses for Beginners to Learn in 2022 UPDATED - Best of Lot | Java67](https://www.java67.com/2019/12/top-5-courses-to-learn-go-or-golang.html)
-* [Learn Golang with Projects for Beginners](https://morioh.com/p/c889427ac08a)
 * [Learning Go by examples Series' Articles - DEV Community](https://dev.to/aurelievache/series/13751)
+* [Learn GO Fast: Full Tutorial - YouTube](https://www.youtube.com/watch?v=8uiZC0l4Ajw)
+* [Learn Golang with Projects for Beginners](https://morioh.com/p/c889427ac08a)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
