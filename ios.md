@@ -546,6 +546,7 @@ iOS
 * [SwiftUI NavigationView로 Coordinator Pattern 사용하기](https://labs.brandi.co.kr//2022/12/12/leehs81.html)
 * [SwiftUI ForEach 내부의 Sheet에 대하여 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-sheet-inside-foreach/)
 * [Protocol 로 SwiftUI & Preview 200% 활용하기 | by Lee Di | DelightRoom | Jul, 2023 | Medium](https://medium.com/delightroom/protocol-%EB%A1%9C-swiftui-preview-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-cf5341d312c7)
+* [NCDP 2023 앱 개발의 혁신, 현재와 미래를 엿보다 - SwiftUI가 바꾸는 애플 앱 개발 패러다임 | 노경섭 - YouTube](https://www.youtube.com/watch?v=jpxmOR6BJl8)
 * [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
