@@ -4571,6 +4571,7 @@ Programming
   * Cordova 플러그인이 다 Ionic에서 사용할 수 있는 것은 아니라서 개발자가 직접 호환성을 체크하면서 써야 하고 Ionic을 개발하면 제품을 더 좋게 만드는 것보다 문서 찾고 버그 수정하는데 너무 많은 시간을 써야 했고 실제 문제를 해결하려면 Ionic뿐 아니라 Capacitor도 알아야 했다
   * 글쓴이는 React Native도 비슷한 상황이고 비슷한 접근이라면 Flutter가 제일 나은 선택이라고 주장
 * [Cross-Platform Mobile Development: Five Best Frameworks | SaM Solutions](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
+* [선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native - YouTube](https://www.youtube.com/watch?v=dLwEGT01S6E)
 * [Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
