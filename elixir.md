@@ -104,6 +104,7 @@ Elixir
 * [Elixir Security: What's the impact of DoS due to atom creation?](https://paraxial.io/blog/atom-dos-impact)
 * [How Elixir Solves a Difficult Security Problem](https://paraxial.io/blog/data-race)
 * [Introduction to Elixir Security Webinar - YouTube](https://www.youtube.com/watch?v=2csxO_L6HVQ)
+* [Inspecting Elixir Dependencies at Runtime for Security](https://paraxial.io/blog/app-audit)
 * [The Best OO Language is a Functional One • Pragmatic Dave Thomas • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=kLnPXMoh0H8)
 * [Monolith vs Umbrella Apps vs MicroServices - which, why and when ▶ Szymon Soppa ▶ Elixir Meetup #16 - YouTube](https://www.youtube.com/watch?v=6JUUddrKtVk)
 * [Building a Simple API Microservice with Elixir: Advantages and Disadvantages | by Rodrigo Martins | Jul, 2023 | Medium](https://medium.com/@rrmartins/building-a-simple-api-microservice-with-elixir-advantages-disadvantages-3098ac3273f6)
