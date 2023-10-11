@@ -1671,6 +1671,7 @@ Python
 * [**aio-libs - The set of asyncio-based libraries built with high quality**](https://github.com/aio-libs)
 * [aiomonitor-ng: aiomonitor is module that adds monitor and python REPL capabilities for asyncio application](https://github.com/achimnol/aiomonitor-ng)
   * [aiomonitor-ng: Debugging tool for complex asyncio applications | Lablup Blog](https://blog.lablup.com/en/posts/2022/11/28/aiomonitor-ng/)
+  * [PyCon KR 2023 Improving Debuggability of Complex Asyncio Applications 김준기 - YouTube](https://www.youtube.com/watch?v=rSv6ua9VkXA)
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * [aiosql: Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [**aiotools - Idiomatic asyncio utilties**](https://github.com/achimnol/aiotools)
@@ -1923,6 +1924,7 @@ Python
 * [Python News Brief (Q2 2021) - Honeybadger Developer Blog](https://www.honeybadger.io/blog/2021-q2-python/)
 * [10 Tools & Techniques Python Web Developers Should Explore - YouTube](https://www.youtube.com/watch?v=XqL9sI1kWqA)
   * [mikeckennedy/ten-tips-python-web-devs: Repo for topics covered during the presentation](https://github.com/mikeckennedy/ten-tips-python-web-devs/)
+* [PyCon KR 2023 Async State Machine 이상훈 - YouTube](https://www.youtube.com/watch?v=boFerSeA4zY)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -2525,6 +2527,7 @@ Python
 * [Django 데이터베이스 캐시의 데드락 이슈 해결. 소개 | by Siheon Kim | Mar, 2023 | HBsmith](https://blog.hbsmith.io/django-%EA%B8%B0%EB%B3%B8-%EC%BA%90%EC%89%AC%EC%9D%98-%EB%8D%B0%EB%93%9C%EB%9D%BD-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0-a1421c45b3f0)
 * [Step-by-Step Tutorial: How to Customize the Admin Site in Django](https://espere.in/Step-by-Step-Tutorial:-How-to-Customize-the-Admin-Site-in-Django/)
 * [Simple and Efficient Full Text Search using Django and Postgres - DEV Community](https://dev.to/aryan3212/simple-and-efficient-full-text-search-using-django-and-postgres-33o0)
+* [PyCon KR 2023 Django 봄은 다시 온다 정경업 - YouTube](https://www.youtube.com/watch?v=HeMXWd6QSGg)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
@@ -3225,6 +3228,8 @@ Python
   * 5. 다른 사람이 만든 주피터 노트북 탐색
   * 6. 주피터 노트북 clone시, 필요한 패키지 자동 탐색 및 environment.yml 파일 자동 생성
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
+* Jupyter Book [Built with Jupyter Book](https://jupyterbook.org/)
+  * [PyCon KR Jupyter Book을 활용해 손쉽게 콘텐츠를 생산하고 공유하자 안성진 - YouTube](https://www.youtube.com/watch?v=VXPZ0omr5UE)
 * [**JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture**](https://github.com/jupyterlab/jupyterlab)
   * [jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io/)
   * [jupyterlab-github: GitHub integration for JupyterLab](https://github.com/jupyterlab/jupyterlab-github)
@@ -4431,8 +4436,9 @@ Python
   * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
   * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
   * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
-* [Ruff](https://beta.ruff.rs/) An extremely fast Python linter, written in Rust
+* [ruff: An extremely fast Python linter, written in Rust](https://github.com/astral-sh/ruff)
   * [Ruff is the FUTURE of Python development - YouTube](https://www.youtube.com/watch?v=bcAqceZkZRQ)
+  * [PyCon KR 2023 파이썬 사용자와 만난 RustPython 정윤원 - YouTube](https://www.youtube.com/watch?v=OpeIrYTnVl4)
 
 ## Library Memory
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
@@ -5037,6 +5043,7 @@ Python
 * [Matt Harrison - Testing Pandas- Shoots, leaves, and garbage! | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=Kj1WwpPFr-I)
 * [Py) Pandas - 2버전 출시!! - Data Doctor](https://datadoctorblog.com/2023/03/24/Py-Pandas-new-version-2/)
 * [Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1 - YouTube](https://www.youtube.com/watch?v=B6fnPayCnuw)
+* [PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우 - YouTube](https://www.youtube.com/watch?v=M6YuOk4dAH4)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
