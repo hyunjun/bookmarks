@@ -903,6 +903,7 @@ AWS
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
+* [FinOps](https://github.com/newstars/FinOps)
 * [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
   * [AWS에서 아주 저렴하게 온디맨드 Minecraft 서버 운영하기 | GeekNews](https://news.hada.io/topic?id=4978)
 
