@@ -450,6 +450,7 @@ Clojure
 * [Clojure in production: what do we use in real-world services? - YouTube](https://www.youtube.com/watch?v=bME124Ky8M0)
 * [Environment what? Variables?. Just forget about those, most probably… | by Irina Yaroslavova Stefanova | Oct, 2023 | Medium](https://medium.com/@ignorabilis/environment-what-variables-aa577ae02322)
 * [Private Methods in Clojure - YouTube](https://www.youtube.com/watch?v=7YB_S8j6IYI)
+* [Private constants & breaking private functions in Clojure - YouTube](https://www.youtube.com/watch?v=kzAOEqlbapM)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1360,6 +1361,7 @@ Clojure
   * [Idiomatic Clojure - Code Smells (관용적인 클로저 - 코드 스멜)](https://see-ro-e.tistory.com/299)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
   * [intellij-cljfmt-plugin](https://github.com/eunmin/intellij-cljfmt-plugin)
+  * [How to format and lint Clojure code: cljfmt, clj-kondo and Babashka task runner! - YouTube](https://www.youtube.com/watch?v=uFhC0Y-QqTQ)
 
 # TDD Test
 * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
