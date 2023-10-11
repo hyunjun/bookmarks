@@ -135,6 +135,7 @@ Elixir
 * [Lifting Your Loads for Maintainable Elixir Applications - Erlang Solutions](https://www.erlang-solutions.com/blog/lifting-your-loads-for-maintainable-elixir-applications/)
 * [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp)
 * [From $erverless To Elixir | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UGG2HMonQ1c)
+* [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
@@ -275,8 +276,9 @@ Elixir
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
-* Plug
+* [Plug](https://hexdocs.pm/plug)
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
+  * [Dockerless, Elixir Web Application using Podman and Plug](https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug/)
 * [pogo: Distributed supervisor for clustered Elixir applications](https://github.com/team-telnyx/pogo)
   * [Pogo - distributed supervisor for Elixir](https://szajbus.dev/elixir/2023/05/22/pogo-distributed-supervisor-for-elixir.html)
 * [rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
