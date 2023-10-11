@@ -1967,6 +1967,7 @@ Programming
 * [**Building Event-driven Apps at Scale • Tom Fairbairn • GOTO 2022 - YouTube**](https://www.youtube.com/watch?v=MYcDx8jY3nI)
 * [VDBUH2023 - Daniel Oh - Event-driven autoscaling for Serverless Java - YouTube](https://www.youtube.com/watch?v=I47uwSk5cUc)
 * [회원시스템 이벤트기반 아키텍처 구축하기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=b65zIH7sDug)
+* [Building Distributed Applications with Event Driven Architecture • Eric Johnson • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=9StQpMLC-5Q)
 * [Ably: the platform to power synchronized digital experiences in realtime | Ably Realtime](https://ably.com/)
   * [실시간 데이터 시대 핵심 기술⋯이벤트 기반 아키텍처의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/253048)
 * [CloudEvents | A specification for describing event data in a common way](https://cloudevents.io/)
@@ -5889,6 +5890,7 @@ Programming
 * [How to Run Pre-Mortem Exercises Templates Included](https://www.atlassian.com/team-playbook/plays/pre-mortem) post mortem과 반대로 미리 실패를 가정해보고 어떤 요인에 의해서 그런지 분석하고 예방하는 방법
 * [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
 * [진짜 문제는 무엇이고, 가장 중요한 변수는 무엇인가?](https://brunch.co.kr/@graypool/1128) 기술 이야기는 아니나 중요한 부분, 생산 시스템의 심장 = 코드, 가장 중요한 변수, 고객 분류
+* [한빛N 개발 생산성 향상을 위한 체크리스트 12가지 - 기술과 환경의 변화 - YouTube](https://www.youtube.com/watch?v=kk7ujbXFaPg) joel test의 cloud version
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
@@ -6363,6 +6365,7 @@ Programming
 * [장애 대응 ‘이것’부터 시작하세요 - 구름 공식 블로그 (goorm blog)](https://blog.goorm.io/goormseminar_3rd/)
 * [OS 10 이하에서 Backstack 에 Activity 가 중첩되어 쌓이는 이슈](https://dev.gmarket.com/85)
 * [19년 차 개발자가 실무에서 맞닥뜨린 기술 이슈들](https://f-lab.kr/blog/dev-problems-solving-experience)
+* [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
