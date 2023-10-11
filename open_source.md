@@ -209,6 +209,7 @@ Open Source
   * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
 * [유명한 오픈소스에 기여하게 된 썰 - JthCast](https://jthcast.dev/posts/the-story-that-contributed-to-the-famous-open-source/)
 * [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
+* [PyCon KR 2023 Django 컨트리뷰터가 되기까지의 여정 윤준기 - YouTube](https://www.youtube.com/watch?v=tPFQmAO42uM)
 
 # Disney
 * [Disney](http://disney.github.io/)
