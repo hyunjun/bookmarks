@@ -3553,6 +3553,8 @@ Programming
 * [Announcing A New Way of Learning: The CI/CD Learning Tool - Semaphore](https://semaphoreci.com/blog/cicd-learning-tool)
 * [10분 테코톡 이레, 준팍의 빌드와 배포 - YouTube](https://www.youtube.com/watch?v=4LBMCHFLLpg)
 * [**Optimizing Your CI Pipelines — Sebastian Witowski - YouTube**](https://www.youtube.com/watch?v=goWcDalv_FQ)
+* [How do companies ship code to production?](https://www.linkedin.com/feed/update/urn:li:activity:7117535548046483458/)
+  * [how_companies_ship_code.pdf](pdfs/how_companies_ship_code.pdf)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
