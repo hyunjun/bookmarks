@@ -1751,6 +1751,8 @@ Scala
   * [Getting started with #Scalafmt](https://www.youtube.com/watch?v=nN2aBMcUAjE)
   * [Scalafmt – Styling The Beast](https://blog.knoldus.com/scalafmt-styling-the-beast/)
   * [neo-sbt-scalafmt](https://github.com/lucidsoftware/neo-sbt-scalafmt)
+* [Scalameta · Library to read, analyze, transform and generate Scala programs](https://scalameta.org/)
+  * [Schema management with Scalameta by Lars Albertsson - YouTube](https://www.youtube.com/watch?v=cedWR03lfL8)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
   * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
