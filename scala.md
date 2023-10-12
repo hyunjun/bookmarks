@@ -1643,7 +1643,6 @@ Scala
   * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
   * [Using TestControl to Test FS2 Streams | by Farooq Qaiser | Mar, 2022 | Medium](https://medium.com/@fqaiser94/using-testcontrol-to-test-fs2-streams-92cec1fac217)
   * [PubSub with Scala](https://softwaremill.com/pubsub-with-scala/)
-  * [Good practices for schema evolution with Protobuf using ScalaPB and fs2grpc](https://softwaremill.com/schema-evolution-protobuf-scalapb-fs2grpc/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
     * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
@@ -1775,6 +1774,8 @@ Scala
   * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
 * [ScalaPB -  translates Protocol Buffers to Scala case classes](https://github.com/scalapb)
   * [Bring gRPC payloads and domain models closer with ScalaPB transformations | by Sébastien Boulet | Teads Engineering | Apr, 2021 | Medium](https://medium.com/teads-engineering/bring-grpc-payloads-and-domain-models-closer-with-scalapb-transformations-b23a7115d427)
+  * [Good practices for schema evolution with Protobuf using ScalaPB and fs2grpc](https://softwaremill.com/schema-evolution-protobuf-scalapb-fs2grpc/)
+  * [gRPC in Scala with Fs2 and Scalapb - Rock the JVM Blog](https://blog.rockthejvm.com/grpc-in-scala-with-fs2-scalapb/)
 * [scala-pre-commit-hooks - Pre-commit/Pre-push hooks for Scala](https://github.com/softwaremill/scala-pre-commit-hooks)
   * [Reusable pre-commit hooks in Scala projects](https://blog.softwaremill.com/reusable-pre-commit-hooks-in-scala-projects-d8bb327047ee)
   * [Git hooks in Scala projects — the easy way!](https://blog.softwaremill.com/git-hooks-in-scala-projects-the-easy-way-cfca02741d33)
@@ -1832,6 +1833,7 @@ Scala
   * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [toolkit: Quickstart your next app with the Typelevel Toolkit!](https://github.com/typelevel/toolkit)
+  * [Integration testing the Typelevel toolkit | TonioGela's](https://toniogela.dev/testing-typelevel-toolkit/)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Turbolift: Algebraic Effects for Scala 3](https://marcinzh.github.io/turbolift/)
 * [Tyrian - Tyrian](https://tyrian.indigoengine.io/) Elm-inspired, purely functional UI library for Scala 3
@@ -2588,7 +2590,9 @@ Scala
   * [Scala Testing With ScalaTest: Testing Styles for Beginners - YouTube](https://www.youtube.com/watch?v=VqnEjorXq0k)
   * [Mastering ScalaTest - Exploring Tagging, Retry, Runner and More](https://yadukrishnan.live/mastering-scalatest-exploring-tagging-retry-runner-and-more)
 * [Stryker - Test your tests with mutation testing](https://stryker-mutator.io/)
-* TestContainers [Scala Integration Testing with TestContainers Library](http://blog.madhukaraphatak.com/test-containers-scala/)
+* TestContainers
+  * [Scala Integration Testing with TestContainers Library](http://blog.madhukaraphatak.com/test-containers-scala/)
+  * [TestContainers in Scala: Use Integration Tests for building services](https://scalac.io/blog/testcontainers-in-scala-use-integration-tests-for-building-your-services/)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
@@ -2858,6 +2862,7 @@ Scala
 * [Functional World #9 | Breaking framework chains with vanilla Scala - YouTube](https://www.youtube.com/watch?v=U67BAeH3cxo)
 * [Scala Full Course - Learn Scala in 10 Hours - Scala Tutorial For Beginners - YouTube](https://www.youtube.com/playlist?list=PLf0LpPWikpPeHGwdeE4ctmAQ7QZs5PG0T)
 * [Tomasz Godzik - How to Get Started with Scala? | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=rXalh8dhPZc)
+* [Scala Made Simple for Beginners: A Gentle Introduction to Kickstarting Your Scala Learning](https://yadukrishnan.live/scala-made-simple-for-beginners-a-gentle-introduction-to-kickstarting-your-scala-learning)
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
