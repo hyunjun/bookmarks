@@ -1189,6 +1189,8 @@ Clojure
     * with-redefs를 테스트에서 매우 중요하게 사용. 특히 no-op 함수를 event log의 용도로 재정의해서 원하는 테스트 상황을 재현 가능
     * 스키마(https://github.com/plumatic/schema)를 사용해서 타입/스키마 체크
     * 결정론적 시뮬레이션을 통한 재현가능한 분산 환경 테스트
+* [rama-clojure-starter: An empty Clojure project configured for developing with Rama](https://github.com/redplanetlabs/rama-clojure-starter)
+  * [Introducing Rama’s Clojure API: build end-to-end scalable backends in 100x less code – Blog](https://blog.redplanetlabs.com/2023/10/11/introducing-ramas-clojure-api/)
 * [random_number](https://github.com/darklibra/random_number)
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [reader-macros](https://github.com/klutometis/reader-macros)
