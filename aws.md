@@ -1212,6 +1212,8 @@ AWS
 * [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
 * [Deploying to Amazon EKS with GitHub Actions - Octopus Deploy](https://octopus.com/blog/deploying-amazon-eks-github-actions)
 * [Kubernetes + EKS + Github Actions | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-github-actions-a874321fb9b4)
+* [EKS Blue/Green 배포 1부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-1%EB%B6%80-d7e12c113300)
+* [EKS Blue/Green 배포 2부. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Sep, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/eks-blue-green-%EB%B0%B0%ED%8F%AC-2%EB%B6%80-43634dca322c)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
