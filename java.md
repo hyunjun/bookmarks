@@ -621,6 +621,7 @@ Java
 * [이클립스 웹 개발 2016](https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU/edit#heading=h.6ytzvryxfc9e)
 * [이클립스 톰캣 구동 시간 제한 설정](http://javacan.tistory.com/entry/eclipse-tomcat-start-timeout-config)
 * [Start developing in the cloud with Eclipse Che IDE](https://opensource.com/article/19/10/cloud-ide-che)
+* [Eclipse Mat 메모리 할당 크기 조정 (Mac OS)](https://jojoldu.tistory.com/738)
 
 # Functional Java
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
@@ -746,6 +747,7 @@ Java
 * [IntelliJ IDEA의 ‘빠른’ 기능 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2023/05/quick-features-in-intellij-idea/)
 * [10분 테코톡 오리의 Intellij Debugging - YouTube](https://www.youtube.com/watch?v=JSVvhwwOvAY)
 * [JetBrains IDE AI Assistant EAP 후기 (2023.07.12)](https://jojoldu.tistory.com/726)
+* [IntelliJ & Maven 외부 라이브러리 참조 문제 (Cannot find declaration to go to)](https://velog.io/@joosing/intellij-maven-cannot-find-declaration-to-go-to)
 * [intellij-live-templates: Intellij IDEA Live Templates](https://github.com/sivaprasadreddy/intellij-live-templates)
 
 ## IntelliJ Plugin
@@ -1551,6 +1553,7 @@ Java
   * [How to add a custom dependency JAR in Apache Maven — English | by Bryant Jimin Son | Aug, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-add-a-custom-dependency-jar-in-apache-maven-english-23a738799c47)
   * [15. Spring - 외부 jar파일을 Maven 로컬 레파지토리에 추가하기](https://kim-jong-hyun.tistory.com/27)
   * [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://worace.works/2021/04/04/jar-hell-part-1-compilation-classpath-libraries/)
+  * [Maven 외부 라이브러리 의존성 관리](https://velog.io/@joosing/maven-external-library-dependency-management)
 * [Micronaut Servlet - a New Micronaut Project for Servlet API Developers](https://www.infoq.com/news/2020/05/micronaut-servlet-released/)
 * [MicroProfile](https://microprofile.io/)
   * [VDIASI23 - Rustam Mehmandarov & Mads Opheim - Modern Java App Development in the Cloud - YouTube](https://www.youtube.com/watch?v=KVXTLlQzuoc)
