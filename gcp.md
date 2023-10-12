@@ -186,6 +186,7 @@ Google Cloud Platform GCP
 * [Dataflow로 컬리의 준실시간 수요 예측모델 파이프라인 구축하기 - 1편 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/dataflow-pipeline-1/)
 * [Access managed services globally with Private Service Connect | Google Cloud Blog](https://cloud.google.com/blog/products/networking/access-managed-services-globally-with-private-service-connect)
 * [Python GCP ubuntu에 아나콘다 설치 및 jupyter 자동 실행 - 미완성의신](https://unfinishedgod.netlify.app/2023/08/17/python-gcp-ubuntu-jupyter/)
+* [PyCon KR 2023 구글 클라우드는 Gen AI 앱 개발을 어떻게 도와줄 수 있을까 김일호 - YouTube](https://www.youtube.com/watch?v=0iHrxrc9wYQ)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
