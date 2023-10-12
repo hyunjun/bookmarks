@@ -147,6 +147,8 @@ iOS
 * [아이폰 특유의 button 모양 없애는 -webkit-appearance: none 제대로 사용하기 | 웹으로 말하기](https://mytory.net/archives/14719)
 * [AVFoundation (feat. AVAudio) :: iOYES](https://green1229.tistory.com/400)
 * [iOS Library, Framework, Swift Package,,, 알아보자 차이점 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/ios-library-framework-swift-package-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-%EC%B0%A8%EC%9D%B4%EC%A0%90-ad49eb75b6cc)
+* [새로운 메인 화면엔 iOS 팀의 거의 모든 것이 들어있다 | 29CM TEAM](https://medium.com/29cm/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4%EC%97%94-ios-%ED%8C%80%EC%9D%98-%EA%B1%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%9E%88%EB%8B%A4-4cef64347d9f)
+* [iOS에서 -webkit-overflow-scrolling: touch는 더이상 필요 없다 – 형우의 웹개발](https://mytory.net/archives/15221)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -208,6 +210,7 @@ iOS
   * [Functional Reactive Programming With RxSwift · Present](https://present.do/decks/60bf93701903093a77d1627f)
   * [간편하게 서버 데이터를 로딩하는 Fetcher, Swift로 구현하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/introduce-android-fetcher-swift-implementation/)
   * [화면 상태에 따라서 View가 그리는 작업, Render | Joohee Kim's Blog](https://imjhk03.github.io/posts/render-view-state/)
+  * [Debouncer 만들기 (No Combine, No RxSwift) :: iOYES](https://green1229.tistory.com/411)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [Screen Sizes](https://screensizes.app/)
   * [한눈에 비교해 보는 iOS 디바이스별 정보 'Screensizes' | 요즘IT](https://yozm.wishket.com/magazine/detail/2232/)
