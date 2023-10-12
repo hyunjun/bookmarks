@@ -1460,6 +1460,7 @@ NLP
   * [챗GPT·빙챗·바드를 부끄럽게 만든 1등 클로드 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=151525)
   * [Anthropic's "safer" Claude 2 AI Is Here - Dataconomy](https://dataconomy.com/2023/07/12/claude-2-ai-is-out-chatgpt/)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
+* [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * [evolve-instruct: evolve llm training instruction, from english instruction to any language](https://github.com/lcw99/evolve-instruct)
