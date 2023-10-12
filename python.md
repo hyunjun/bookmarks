@@ -971,6 +971,7 @@ Python
   * [Top to down, left to right (Surprise talk) - James Powell](https://www.youtube.com/watch?v=BRn6UCw35og) import, scope 이외의 내용도 많지만 분류가 애매해서
   * [파이썬 상대경로 import 에러 ImportError: attempted relative import with no known parent package](https://myjorney.tistory.com/52)
   * [Start Python #4 Backend Program 만들기 – library import - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/library/)
+  * [PyCon KR 2023 Icebreaking with import 윤수진 - YouTube](https://www.youtube.com/watch?v=f58sIwixXRs)
   * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
   * [import-tracker: Python utility for tracking third party dependencies within a library](https://github.com/IBM/import-tracker)
   * [reorder_python_imports: Rewrites source to reorder python imports](https://github.com/asottile/reorder_python_imports)
