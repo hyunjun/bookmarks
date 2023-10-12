@@ -1433,7 +1433,9 @@ Linux
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
-* zsh [zsh-completions/zsh-completions-howto.org at master · zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
+* [Zsh](https://www.zsh.org/)
+  * [zsh-completions/zsh-completions-howto.org at master · zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
+  * [이제 메인 shell은 Zsh 그리고 거드는 Oh My Zsh](http://ohyecloudy.com/pnotes/archives/zsh-and-oh-my-zsh/)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
