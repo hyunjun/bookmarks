@@ -718,6 +718,7 @@ App
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
   * [Zero to Nix](https://zero-to-nix.com/)
   * [Pierre Dal-Pra - Nix: FP for your packages and deployments - YouTube](https://www.youtube.com/watch?v=ybRRBdbJiAg)
+  * [PyCon KR 2023 Python 개발자를 위한 Nix 김수빈 - YouTube](https://www.youtube.com/watch?v=Y5NHZ1YXnM4)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
