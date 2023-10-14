@@ -850,6 +850,7 @@ Business
 * [한기용 - 매니저 채용시 꼭 물어봐야하는 질문들](https://www.linkedin.com/feed/update/urn:li:activity:7092713884716847104/)
 * [5년차 프론트엔드 개발자 이직 후기](https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0) 5개 회사 케이스 참고 가능
 * [인스타그램보다 오래 쓰는 AI 사진 앱의 탄생 | 팀러너스](https://teamlearners.career.greetinghr.com/) 채용 페이지로서도 좋고, 회사 및 business에 대한 소개로도 좋다고 생각
+* [Interviewing & Hiring Like a Boss • Kristine Howard • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=vol72ZnAQqI)
 
 ## 채용 공고
 * [2022 kakao Tech Internship FAQ – tech.kakao.com](https://tech.kakao.com/2022/04/19/2022-kakao-tech-internship-faq/)
