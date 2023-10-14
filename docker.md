@@ -2007,6 +2007,7 @@ Docker
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
+  * [Kubernetes at Home with Kubespray and Ansible - YouTube](https://www.youtube.com/watch?v=1W4w2ziRU8Q)
 * kubestack [Enjoy the best developer experience and build your Kubernetes platform | Kubestack](https://www.kubestack.com/)
   * [KubeStack — A Must Use. An Open-Source, Easy-to-use GitOps… | by Shanika Perera | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/kubestack-a-must-use-117a32efd427)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
