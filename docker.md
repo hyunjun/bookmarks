@@ -2299,6 +2299,7 @@ Docker
 * [devpod: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker](https://github.com/loft-sh/devpod)
   * [Introducing DevPod - Codespaces but Open Source](https://loft.sh/blog/introducing-devpod-codespaces-but-open-source/)
   * [Introducing DevPod - Codespaces but Open Source - YouTube](https://www.youtube.com/watch?v=87oHtFO5lkc)
+  * [Live Demo of DevPod - YouTube](https://www.youtube.com/watch?v=4xrencJtFNo)
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
   * 도커 이미지를 탐색하고 각 레이어를 분석해서 낭비되는 용량이 얼마인지, 얼마나 이미지 용량을 더 줄일 수 있는지 확인할 수 있는 CLI 툴
