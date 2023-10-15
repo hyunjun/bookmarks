@@ -1265,6 +1265,8 @@ Linux
 * [ix: command line pastebin](http://ix.io/)
 * [juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
   * [JuiceFS - Redis와 S3를 이용한 분산 POSIX 파일시스템 | GeekNews](https://news.hada.io/topic?id=3579)
+* [just: 🤖 Just a command runner](https://github.com/casey/just)
+  * [Revolutionize Your Development Workflow with Just - YouTube](https://www.youtube.com/watch?v=KP5U_zCVhkM)
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [kime: Korean IME](https://github.com/Riey/kime)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
@@ -1337,6 +1339,7 @@ Linux
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
+* [watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 * Wayland
   * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
   * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
