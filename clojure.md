@@ -1288,6 +1288,7 @@ Clojure
   * [Conjure babashka auto nREPL jack in - asciinema](https://asciinema.org/a/415758)
   * [Bash and Babashka equivalents · babashka/babashka Wiki](https://github.com/babashka/babashka/wiki/Bash-and-Babashka-equivalents)
   * [Babashka script to inspire you. Can be used as startup for your terminal](https://gist.github.com/wunki/abeca1633bac6069718e079f80f0eb27)
+  * ["Babashka: a meta-circular Clojure interpreter for the command line" by Michiel Borkent - YouTube](https://www.youtube.com/watch?v=DHtRfO3Bp90)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [bb-guestbook](https://github.com/SVMBrown/bb-guestbook) Example webserver with Babashka
