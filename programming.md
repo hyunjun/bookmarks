@@ -3557,6 +3557,7 @@ Programming
 * [**Optimizing Your CI Pipelines — Sebastian Witowski - YouTube**](https://www.youtube.com/watch?v=goWcDalv_FQ)
 * [How do companies ship code to production?](https://www.linkedin.com/feed/update/urn:li:activity:7117535548046483458/)
   * [how_companies_ship_code.pdf](pdfs/how_companies_ship_code.pdf)
+* [Continuous Integration: That’s Not What They Meant • Clare Sudbery • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=97qyNQz7fxY)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
@@ -4344,6 +4345,7 @@ Programming
     * [kostis-codefresh/port-demo: Demo model for getPort.io](https://github.com/kostis-codefresh/port-demo)
   * [Port - YouTube](https://www.youtube.com/@getport)
   * [Ocean Software Catalog Extensibility “Framework” - YouTube](https://www.youtube.com/watch?v=w7VpEZOB1l4)
+  * [Setting Up an Internal Developer Portal With IaC and Pulumi - YouTube](https://www.youtube.com/watch?v=097z9NVNC8I)
 * [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
