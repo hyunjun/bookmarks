@@ -2544,6 +2544,11 @@ Business
 * [스타트업 - 외주](https://www.facebook.com/bokyun.lee.9/posts/pfbid02qRDd63sgj1Cum1fyBV5JkaDcmHYyfwXqC97wM4PPGq5da4PvJbnsJrn4v2uKxn6Vl)
 * [렉스 프리드먼 팟캐스트 #307: 브라이언 암스트롱](https://blog.naver.com/roundpebble/223224478932) 코인베이스 coinbase
 * [일론 머스크 Elon Musk – 조성문의 블로그](https://sungmooncho.com/2023/10/01/elon-musk/)
+* [Why being an open startup matters | Cal.com Blog](https://cal.com/blog/open-startup)
+  * cal.com에서 기술적/운영적으로 가능한 한 공개적으로 지표를 공유하는 스타트업을 오픈 스타트업으로 정의하고 이 오픈 스타트업이 왜 중요한지 설명
+  * https://cal.com/open에서 지표 공개
+    * 직원의 연봉을 공개하는 것은 질투를 줄이고 인종 및 성평등을 촉진하는 효과
+    * cal.com도 원격 근무를 하므로 글로벌 급여를 도입할 것인지 현지화된 급여를 도입할 건인지 고민했지만, 글로벌 급여를 도입하기로 결정
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
