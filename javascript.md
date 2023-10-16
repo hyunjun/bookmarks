@@ -1947,6 +1947,11 @@ Javascript
         * 기존 플러그인은 동작해야 하고, 하위 호환성 유지
       * 새 구성 파일은 `eslint.config.js`
       * 이는 JS 파일이라서 `extends`, `plugins`, `globals` 등 대부분을 모듈을 임포트에서 사용하는 방식
+      * [Flat config rollout plans - ESLint - Pluggable JavaScript Linter](https://eslint.org/blog/2023/10/flat-config-rollout-plans/)
+        * 2019년 RFC가 올라오고 2022년에야 실험적 버전을 출시한 플랫 컨피그를 9.0.0에5서 원활하게 전환할 수 있게 안내하는 글
+        * 9.0.0부터는 플랫 컨피그가 기본적으로 적용
+        * .eslintrc.* 파일 대신 `eslint.config.js` 파일을 검색하고 기존 방식을 사용하려면 `ESLINT_USE_FLAT_CONFIG`를 `false`로 설정
+        * ESLint 10.0에서는 eslintrc 시스템이 완전히 제거될 예정
     * 새 flat config 시스템은 아직 CLI에 통합되지는 않았고 개발자가 테스트할 수 있게 API로 사용 가능
   * [SafeQL - an ESLint plugin for writing SQL queries in a type-safe way](https://safeql.dev/)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
@@ -3404,6 +3409,9 @@ Javascript
   * [fresh - The next-gen web framework](https://fresh.deno.dev/)
     * [Getting started with Fresh: The New Deno Framework | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-fresh-the-new-deno-framework-47ac30545891)
     * [Deno 팀에서 만든 웹 프레임워크 Fresh :: Outsider's Dev Story](https://blog.outsider.ne.kr/1632)
+  * [The Internals of Deno - The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
+    * Deno의 내부 동작을 자세히 설명하는 무료 이북, Deno 입문자를 위한 자료가 아니라 Deno 내부를 자세히 알고 싶은 사람들을 위한 자료
+    * Deno의 아키텍처, 스레딩 모델, 브릿지, 기반, 임포트와 Ops를 하나씩 설명
   * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
   * [Ruck - An open source buildless React web application framework for Deno](https://ruck.tech/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
@@ -4824,6 +4832,18 @@ Javascript
   * [Blitz - 풀스택 React 프레임워크 | GeekNews](https://news.hada.io/topic?id=5244)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
+  * [The future of Chakra UI - Segun Adebayo](https://www.adebayosegun.com/blog/the-future-of-chakra-ui)
+    * [번역 Chakra UI의 미래](https://velog.io/@ojj1123/the-future-of-chakra-ui)
+    * Chakra UI가 앞으로 가려고 하는 방향에 관해서 설명하는 글
+    * Chakra UI가 성장하면서 도전적인 문제로는 런타임 CSS-in-JS를 가진다는 문제였고 RSC가 나오면서 이 부분은 더 중요
+    * Chakra UI는
+      * 프레임워크에 종속적이지 않아야 하고
+      * 디자인 토큰을 받을 수 있어야 하고
+      * 런타임 CSS-in-JS를 제거하고도 지금의 직관적인 Style Pros를 유지하면서 유지보수가 쉬워야 함
+    * 이러한 미래로 가기 위해서 다음 3가지를 작성
+      * UI 컴포넌트를 위한 저수준 상태 머신인 [Zag - Rapidly build UI components without sweating over the logic. - Zag](https://zagjs.com/)
+      * Zag 기반의 헤드리스 컴포넌트인 [Home | Ark UI](https://ark-ui.com/)
+      * 제로 런타임 CSS-in-JS인 [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
 * [Chaty: Chaty is a simple chat app UI create with React Native framework](https://github.com/blaiti/Chaty)
 * [components: React components for Cloudscape Design System](https://github.com/cloudscape-design/components)
 * [conjoined: ReactJS / Next.js helpers for Laravel](https://github.com/dillingham/conjoined)
