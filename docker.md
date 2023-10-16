@@ -1800,6 +1800,7 @@ Docker
       * 이를 Kubernetes에 기여해서 성능 개선
       * 내부 동작도 이해 가능
     * [Kubernetes에서 수천개의 CRD를 사용하도록 확장하기 | GeekNews](https://news.hada.io/topic?id=7231)
+  * [Why K8s Native Infrastructure is the Future: a look at Crossplane - Andrea Giardini - #swisscnd 2023 - YouTube](https://www.youtube.com/watch?v=2_Genyj6Ti8)
 * [Cryostat | JDK Flight Recorder Management for Kubernetes and OpenShift](https://cryostat.io/)
   * [Announcing Cryostat 2.0: JDK Flight Recorder for Containers](https://www.infoq.com/news/2021/11/cryostat-jvm-profiler-container/)
 * [ctx-cleaner: Easy to clean up garbage cluster & user information](https://github.com/sysnet4admin/ctx-cleaner)
