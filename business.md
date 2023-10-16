@@ -695,6 +695,7 @@ Business
 * [우선순위를 어떻게 정할까](https://brunch.co.kr/@hyungsukkim/174)
 * [Why do most lists of top-level priorities read like bucket lists?](https://www.linkedin.com/feed/update/urn:li:activity:7109328490398720000/)
   * [우선순위의 미로: 버킷 리스트를 해석하는 사람들](https://brunch.co.kr/@yongjinjinipln/117)
+* [ICE를 활용한 우선순위 관리](https://brunch.co.kr/@yongjinjinipln/120)
 
 # 조직 구조
 * [인사/조직 | DBR](https://dbr.donga.com/article/lists/1201)
@@ -2139,6 +2140,7 @@ Business
 * [프러덕 감을 테스트하기 위한 인터뷰 질문리스트](https://brunch.co.kr/@itschloe1/44)
 * [Split PM 모델이 필요할까?](https://brunch.co.kr/@yongjinjinipln/118)
 * [PM 역할과 관련한 세 가지 안티 패턴](https://brunch.co.kr/@yongjinjinipln/119)
+* [프로덕트 매니저의 비극적인 운명](https://brunch.co.kr/@yongjinjinipln/121)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
