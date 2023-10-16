@@ -5787,6 +5787,10 @@ Programming
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
 * [Google Software Engineering Culture](https://www.infoq.com/news/2019/09/google-software-engineering/) code repository 사용
 * [Netflix: A Culture of Learning. Martin Tingley with Wenjing Zheng… | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
+* [(25) Roundtable: Development Culture | LinkedIn](https://www.linkedin.com/pulse/roundtable-development-culture-wook-jin-lee/)
+  * 슈퍼셀의 이욱진 님이 한국에 오셔서 라운드테이블로 게임 업체 간 문화를 공유하는 자리를 만들고 그 결과를 공유한 자리
+  * 슈퍼셀을 각 게임을 만드는 담당자들이 게임 종료를 포함해서 직접 의사결정을 하고 가능한 한 투명하게 정보를 공유하려고 노력하는 문화, 슈퍼셀의 문화와 참가자들과 논의한 내용 정리
+  * Disagree and commit이라는 의사결정 구조, "난 동의하지 않지만, 결정이 그렇게 났으니 따른다"
 * [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 * [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
 * [오늘의집 개발 프로젝트 런칭 어떻게 하나 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-09-16-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%9F%B0%EC%B9%AD-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
@@ -6377,6 +6381,10 @@ Programming
 * [OS 10 이하에서 Backstack 에 Activity 가 중첩되어 쌓이는 이슈](https://dev.gmarket.com/85)
 * [19년 차 개발자가 실무에서 맞닥뜨린 기술 이슈들](https://f-lab.kr/blog/dev-problems-solving-experience)
 * [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
+  * [HTTP/2 Rapid Reset: 기록적인 공격의 분석](https://blog.cloudflare.com/ko-kr/technical-breakdown-http2-rapid-reset-ddos-attack-ko-kr/)
+  * 이번에 공개된 제로데이 취약점 HTTP/2 Rapid Reset가 Cloudflare뿐 아니라 Google이나 AWS에도 공격이 있었음을 알게 되고 협력해서 해당 공격에 대처
+  * HTTP/2는 스트림을 동시에 여러 개 열 수 있고 클라이언트는 스트림 취소 가 가능
+  * 이번 HTTP/2 Rapid Reset는 빠르게 취소 요청을 보내서 서버 쪽에서 스트림 종료 처리에 걸리는 시간을 이용해 서비스 거부 공격을 발생
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
