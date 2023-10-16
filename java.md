@@ -2038,6 +2038,7 @@ Java
 * [Spring Batch 개념부터 코드까지](https://yeonyeon.tistory.com/310)
 * [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁 / 제2회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/08/01/techmeet-spring-batch/)
 * [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/spring-batch-performance/)
+* [Spring Batch JobExecutionAlreadyRunningException 에러](https://yeonyeon.tistory.com/317)
 * [if kakao 2022 Batch Performance를 고려한 최선의 Reader | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-read/) itemreader
 * [if kakao 2022 Batch Performance를 고려한 최선의 Aggregation | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao2022-batch-performance-aggregation/) itemreader
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
