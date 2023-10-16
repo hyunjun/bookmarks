@@ -1493,6 +1493,7 @@ Web
   * [Streamsync를 소개합니다!](https://brunch.co.kr/@fermat39/158)
 * [Taipy, an open-source Python library for building your web applications frontend & backend](https://www.taipy.io/)
   * [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy — Jean-Baptiste Braun - YouTube](https://www.youtube.com/watch?v=rWDvViilT0M)
+  * [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy - YouTube](https://www.youtube.com/watch?v=lqBhJATrsiw)
 * [Tornado Web Server](https://www.tornadoweb.org/)
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
     * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
