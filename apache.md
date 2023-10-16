@@ -793,6 +793,7 @@ Apache
 * [신뢰성 있는 카프카 애플리케이션을 만드는 3가지 방법 / 제3회 Kakao Tech Meet – tech.kakao.com](https://tech.kakao.com/2023/09/22/techmeet-kafka/)
 * [Kafka As An Antipattern | Josh Austin](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
 * [the most common Use Cases for Kafka](https://www.linkedin.com/feed/update/urn:li:activity:7110535431393267712/)
+* [카프카 클러스터 & 세팅 그리고...](https://joecp17.tistory.com/81)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
