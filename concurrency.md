@@ -28,6 +28,7 @@ Concurrency
 * [**BEAM Concurrency in Action • Sasa Juric • YOW! 2022 - YouTube**](https://www.youtube.com/watch?v=A4x6IfceJCM) Erlang Elixir LFE Gleam
 * [How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski](https://pkolaczk.github.io/memory-consumption-of-async/)
   * [1백만개의 동시 작업을 실행하는데 메모리가 얼마나 필요할까? | GeekNews](https://news.hada.io/topic?id=9250)
+* [Concurrency Abstractions for Application Security • Bram Verburg • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=snCylAGgcxw)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
