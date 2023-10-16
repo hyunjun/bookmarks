@@ -1643,6 +1643,9 @@ Book
   * [비폭력 대화 NVC Nonviolent Communication | by Jun | Aug, 2023 | Medium](https://nymets.medium.com/%EB%B9%84%ED%8F%AD%EB%A0%A5-%EB%8C%80%ED%99%94-nvc-nonviolent-communication-507056846712)
   * [비폭력 대화 NVC Nonviolent Communication - Jun’s Substack](https://recur.substack.com/p/nvc-nonviolent-communication)
   * [비폭력 대화 NVC Nonviolent Communication](https://jh4hj.tistory.com/entry/%EB%B9%84%ED%8F%AD%EB%A0%A5-%EB%8C%80%ED%99%94-NVC-Nonviolent-Communication)
+* [나는 왜 내 마음이 버거울까?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322264110)
+  * ★★★☆☆ 2023.10.15
+  * 한라 186.3-유64ㄴ 탐라 문189.1-유64ㄴ
 * (NOT YET) 결정적 순간의 대화 [심각한 대화를 잘 해내고 싶을 때 읽는 책 – 박세희 Park Sehee](https://parksehee.blog/2022/10/21/crucial-conversations/)
   * 한라 802.54-패884ㄱ 탐라 개189-케29ㄱ
 * (NOT YET) [관계를 읽는 시간 (나의 관계를 재구성하는 바운더리 심리학) | 성균관대학교 오거서](https://book.skku.edu/%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EC%8B%9C%EA%B0%84-%EB%82%98%EC%9D%98-%EA%B4%80%EA%B3%84%EB%A5%BC-%EC%9E%AC%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC/)
