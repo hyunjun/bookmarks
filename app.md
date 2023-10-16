@@ -729,6 +729,8 @@ App
 * [Top 10 Tools for REST API Development and Testing | Java67](https://www.java67.com/2022/03/best-tools-for-rest-api-development.html)
 * [7 API Tools for REST Developers and Testers - DEV Community](https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67)
 * [The New HTTP Client CLI - YouTube](https://www.youtube.com/watch?v=mwiHAukbWjM)
+* [bruno: Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://github.com/usebruno/bruno)
+  * Postman/Insomnia의 오픈소스 대안으로 API를 테스트해 볼 수 있는 IDE
 * curl
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/ko/)
 * [httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie ](https://github.com/httpie/httpie)
