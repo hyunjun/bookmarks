@@ -3145,6 +3145,7 @@ Programming
   * [Rethinking Productivity in Software Engineering Book](https://www.oreilly.com/library/view/rethinking-productivity-in/9781484242216/)
   * [business-impact-of-code-quality-tornhill2022](https://codescene.com/hubfs/web_docs/Business-impact-of-low-code-quality.pdf)
   * [Software Engineering Intelligence - CodeScene](https://codescene.com/)
+  * [Code Red: The Business Impact of Code Quality • Adam Tornhill • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=F8WuA5T1u7s)
 * [We fixed f-string typos in 69 of the most popular Python repos in only one day. Here’s how. – Higher Tier Systems](https://highertier.com/we-fixed-f-string-typos-in-69-of-the-most-popular-python-repos-in-only-one-day-heres-how/)
 * [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 * [Dive into codebase like a pro — Luka Raljević - YouTube](https://www.youtube.com/watch?v=OdJrfvUmytw) 이 항목에 딱 맞진 않지만
