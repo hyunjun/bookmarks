@@ -210,6 +210,7 @@ Lisp
 * ["Strange Dreams of Stranger Loops" by Will Byrd - YouTube](https://www.youtube.com/watch?v=AffW-7ika0E)
 * [lips: Scheme based powerful lisp interpreter written in JavaScript](https://github.com/jcubic/lips)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
+* [steel: An embedded scheme interpreter in Rust](https://github.com/mattwparas/steel)
 
 # tinylisp
 * [tinylisp at master · dloscutoff/Esolangs](https://github.com/dloscutoff/Esolangs/tree/master/tinylisp)
