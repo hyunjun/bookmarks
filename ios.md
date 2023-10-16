@@ -632,6 +632,7 @@ iOS
   * 그리고 SwiftUI 도입에 가장 어려운 점이 전문성을 갖추는 것이라는 것을 알고 있었기에 사내에서 워크숍을 개최해서 전문성 향상
   * SwiftUI 도입의 결과는 현재까지 긍정적이지만
     * SwiftUI가 오픈소스는 아니므로 디버깅에 어려움이 있었고 앞으로의 계획도 연간 발표라서 방향성에 대한 고민 등이 존재
+* [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
 * [ScrollTargetBehavior :: iOYES](https://green1229.tistory.com/406)
