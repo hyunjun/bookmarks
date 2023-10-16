@@ -388,6 +388,7 @@
 * [The S.O.L.I.D Principles in Python | by Bk Lim | Geek Culture | Sep, 2021 | Medium](https://medium.com/geekculture/the-s-o-l-i-d-principles-in-python-a041c5aa9969)
 * [Let's Take The Adapter Design Pattern To The Next Level - YouTube](https://www.youtube.com/watch?v=fsB8_79zI_A)
 * [Dig Into Inheritance Within Python Object-Oriented Programming - YouTube](https://www.youtube.com/watch?v=mm22zpMjRck)
+* [Do Functions Make Design Patterns Obsolete? - YouTube](https://www.youtube.com/watch?v=vzTrLpxPF54)
 * [**betterpython: Code examples for my Write Better Python Code series on YouTube**](https://github.com/arjancodes/betterpython)
   * [**Software Design in Python - YouTube**](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 * [**python-patterns: A collection of design patterns/idioms in Python**](https://github.com/faif/python-patterns)
