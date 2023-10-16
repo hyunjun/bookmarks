@@ -1448,6 +1448,7 @@ Git
 * [jj: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+  * [How I improved my programming workflow with Lazygit - YouTube](https://www.youtube.com/watch?v=Ir3WD7a4MwI)
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
   * [Emacsair! Magit, the magical Git interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
