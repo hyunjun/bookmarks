@@ -127,6 +127,7 @@ Programming Language
 * [여러 개발 언어를 안다는 것의 유용성 – 다양한 관점 | 웹으로 말하기](https://mytory.net/archives/14197)
 * [**Calling Functions Across Languages • Richard Feldman • GOTO 2023 - YouTube**](https://www.youtube.com/watch?v=ZOvxa9aKCCg) network, ipc inter-process communication, same process
 * [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
+* ["The Economics of Programming Languages" by Evan Czaplicki (Strange Loop 2023) - YouTube](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
