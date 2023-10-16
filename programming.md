@@ -2845,6 +2845,7 @@ Programming
 * [Cloud Provider Performance Comparison - Perl & more | Dimitrios Kechagias blogs.perl.org](https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html)
 * [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [베어메탈 클라우드 서비스의 서버 관리에 대해 | NHN FORWARD](https://forward.nhn.com/2021/sessions/3)
+* [NHN Private Deck 서비스 소개 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/373)
 * [AWS Vs. Azure Vs. Google Cloud: 5 Cloud Spending Trends](https://www.crn.com/slide-shows/cloud/aws-vs-azure-vs-google-cloud-5-cloud-spending-trends/1)
 * [AWS vs AZURE vs GCP | Which cloud should you choose for a better career 🤔 - YouTube](https://www.youtube.com/watch?v=i4a_D2a9ILY)
 * [사용중인 클라우드를 바꿔보신 분 ? | GeekNews](https://news.hada.io/topic?id=6341)
@@ -4578,6 +4579,7 @@ Programming
   * 글쓴이는 React Native도 비슷한 상황이고 비슷한 접근이라면 Flutter가 제일 나은 선택이라고 주장
 * [Cross-Platform Mobile Development: Five Best Frameworks | SaM Solutions](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
 * [선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native - YouTube](https://www.youtube.com/watch?v=dLwEGT01S6E)
+* [내 주변 송금이 블루투스로 만들어졌다고? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bluetooth-remittance/)
 * [Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
@@ -5274,6 +5276,7 @@ Programming
   * [기술 뉴스 #229 : 23-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1685)
   * [기술 뉴스 #230 : 23-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1686)
   * [기술 뉴스 #231 : 23-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1687)
+  * [기술 뉴스 #232 : 23-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1689)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5479,6 +5482,7 @@ Programming
 * [Patterns of Legacy Displacement • Rob Horn & Ian Cartwright • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=noOoLULfInc)
 * [(레거시 시스템) 개편의 기술 - 배달 플랫폼에서 겪은 N번의 개편 경험기 | 인프콘 2022 - YouTube](https://www.youtube.com/watch?v=HNt3H_7muHs)
 * [스프링캠프 2019 Track 2 Session 4 : 당신도 할 수 있는 레거시 프로젝트 개선 이야기 (이경일) - YouTube](https://www.youtube.com/watch?v=pZYZAMToenE&t=245s)
+* [회고 레거시 코드의 문제를 다루는 자세](https://velog.io/@joosing/attitude-toward-dealing-with-problems-in-legacy-code)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
@@ -5895,6 +5899,7 @@ Programming
 * [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
 * [진짜 문제는 무엇이고, 가장 중요한 변수는 무엇인가?](https://brunch.co.kr/@graypool/1128) 기술 이야기는 아니나 중요한 부분, 생산 시스템의 심장 = 코드, 가장 중요한 변수, 고객 분류
 * [한빛N 개발 생산성 향상을 위한 체크리스트 12가지 - 기술과 환경의 변화 - YouTube](https://www.youtube.com/watch?v=kk7ujbXFaPg) joel test의 cloud version
+* [Adventures in Performance: Efficiency Analysis of Large-Scale Compute - YouTube](https://www.youtube.com/watch?v=oUh2NPxE16E)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
