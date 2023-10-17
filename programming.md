@@ -6140,6 +6140,7 @@ Programming
 * [It's Not Hard to Test Smart: Delivering Customer Value Faster • Beth Skurrie • YOW! 2017 - YouTube](https://www.youtube.com/watch?v=slGEcsii0cc)
 * [개발자가 테스트를 보는 세 가지 관점 | 요즘IT](https://yozm.wishket.com/magazine/detail/2068/)
 * [좋은 유닛 테스트란 무엇일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2206/)
+* [29CM QA팀의 API를 활용한 업무 효율 끌어올리기. | 29CM TEAM](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%98-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-3d926d7247d5)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
