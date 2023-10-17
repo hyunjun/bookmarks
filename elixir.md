@@ -249,6 +249,7 @@ Elixir
   * [Integrating Chart.js into Elixir Phoenix for visual impact | by Lionel Aimerie | Aug, 2023 | Medium](https://medium.com/@lionel.aimerie/integrating-chart-js-into-elixir-phoenix-for-visual-impact-9a3991f0690f)
   * [WyeWorks | Building a LiveView component with GitHub Copilot and ChatGPT - Part 1](https://www.wyeworks.com/blog/2023/06/26/building-a-live-view-component-with-github-copilot-and-chatgpt-part-1/)
   * [Elixir Streams |> LiveView 0.20 HEEX Debug Annotations](https://www.elixirstreams.com/tips/liveview-heex-debug-annotations)
+  * [Build a real-time Instagram Clone in Under 20 Minutes with LiveView - YouTube](https://www.youtube.com/watch?v=4cnmyQJToKM)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
