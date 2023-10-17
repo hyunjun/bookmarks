@@ -2677,7 +2677,7 @@ Javascript
   * [Difference Between npm i & npm ci - YouTube](https://www.youtube.com/watch?v=YdxNR7zqYdA)
   * [Introducing the new npm Dependency Selector Syntax | GitHub Changelog](https://github.blog/changelog/2022-08-03-introducing-the-new-npm-dependency-selector-syntax/)
     * npm v8.15.0에서 의존성 선택자로 npm query 명령어 추가
-    * 이는 CSS 셀렉터와 유사한 형식을 가지고 있고 `npm query "*"`, `npm query "#react:not(.peer)"`같은 형식으로 의존성 조회 가능
+    * 이는 CSS 셀렉터와 유사한 형식을 가지고 있고 npm query "*", `npm query "#react:not(.peer)"`같은 형식으로 의존성 조회 가능
   * [npm provenance general availability - The GitHub Blog](https://github.blog/changelog/2023-09-26-npm-provenance-general-availability/)
     * npm에서 GitHub Actios와 GitLab CI/CD에서 발생하였을 때 출처를 표기하는 기능 추가
     * 이 기능은 퍼플릭 패키지와 퍼블릭 저장소에서만 사용 가능
@@ -2738,6 +2738,7 @@ Javascript
     * 또한 C/C++ 라이브러리를 사용할 때도 Rust가 유리했고 팀도 Rust 사용을 원함
     * Rust-Go-Rust 샌드위치 방식으로 점진적인 마이그레이션을 진행 중
   * [Monorepo Turborepo를 사용하여 모노레포 구축하기 — 턴태의 밑바닥부터 시작하는 de-vlog](https://dev-scratch.tistory.com/161)
+  * [CI TurboRepo를 이용해서 monorepo 환경 구축하기+vercel 배포까지 (기초)](https://yoonjong-park.tistory.com/134)
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
