@@ -254,6 +254,8 @@
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [Creating performant REST APIs with Rust using Rocket, Diesel and Serde — Part 1](https://medium.com/@amolele/creating-performant-rest-apis-with-rust-using-rocket-diesel-and-serde-bbe5a4f33a4e)
+* [Actix](https://actix.rs/)
+  * [Actix](https://github.com/actix)
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
 * [atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
   * [Atuin - 쉘 히스토리를 SQLite에 저장하기 | GeekNews](https://news.hada.io/topic?id=4276)
