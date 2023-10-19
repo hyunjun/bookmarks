@@ -426,6 +426,7 @@ Clojure
 * ["Simple Made Easy" - Rich Hickey (2011) - YouTube](https://www.youtube.com/watch?v=SxdOUGdseq4)
   * [**Simple Made Easy**](https://muchtrans.com/translations/simple-made-easy.ko.html) Rich Hickey
   * [Simple Made Easy](https://velog.io/@joosing/Simple-Made-Easy-%EB%9D%BC%EB%8A%94-%EA%B8%80%EC%9D%84-%EC%9D%BD%EA%B3%A0)
+  * ["Simple Made Easy" (12-minute redux) by Rich Hickey (2011) - YouTube](https://www.youtube.com/watch?v=F87PtAoJNtg)
 * [Using Javascript libraries from Clojure](https://biffweb.com/p/js-from-clj/)
 * [Thinking about system composition](https://biffweb.com/p/thinking-about-system-composition/)
 * [Signals vs Streams, in terms of backpressure (2023)](https://www.dustingetz.com/#/page/signals%20vs%20streams%2C%20in%20terms%20of%20backpressure%20(2023))
