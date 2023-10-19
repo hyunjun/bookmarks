@@ -2767,6 +2767,7 @@ NLP
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g\&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
+* PlayHT [AI Voice Generator & Realistic Text to Speech Online | PlayHT](https://play.ht/)
 * [pyttsx3 - Text-to-speech x-platform — pyttsx3 2.6 documentation](https://pyttsx3.readthedocs.io/)
   * [pyttsx3 : 파이썬에서 사용가능한 TTS | Acid Paper](https://aciddust.github.io/blog/post/pyttsx3-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C-TTS/)
   * [Convert Text To Speech Using Python | Python Projects Tutorials - YouTube](https://www.youtube.com/watch?v=9\_gh55ksNME)
