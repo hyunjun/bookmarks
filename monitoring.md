@@ -294,6 +294,7 @@ Monitoring
   * [Golang instrumentation with OpenTelemetry](https://gethelios.dev/golang-instrumentation/)
   * [카프카를 통해 전달되는 메시지의 테넌트 분리를 설계하기 위한 분들이 참고할 수 있는 전반적인 사항 소개](https://www.linkedin.com/posts/hoonjo_opentelemetry%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-kafka-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%85%8C%EC%8A%A4%ED%8A%B8-activity-7049979246282231808-lGBE/)
   * [Tracing NodeJs Applications with OpenTelemetry | by Fabio Reis | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/tracing-nodejs-applications-with-opentelemetry-624958d38d4d)
+  * [Effective and Efficient Observability with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=kh_IZlSj8DU)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 
 # Prometheus
