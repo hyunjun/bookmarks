@@ -161,6 +161,7 @@ Linux
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 * [etc 디렉터리에 있는 소중한 아이들 - 넷마블 기술 블로그](https://netmarble.engineering/watch-out-important-files-in-etc-directory/)
 * [여기보기 장치를 연결하고 인식하는 과정에도 빈틈은 있다 - 넷마블 기술 블로그](https://netmarble.engineering/check-device-files-and-disable-automountd/)
+* [여기보기 링크 설정과 파일 다운로드/업로드 관리에서 중요한 것은 꺽이지 않는 마음 - 넷마블 기술 블로그](https://netmarble.engineering/was-the-important-thing-is-an-unbreakable-heart)
 * [에스코어 | swappiness 커널 파라미터 관련(SWAP)](https://s-core.co.kr/post_os/swappiness-%EC%BB%A4%EB%84%90-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EA%B4%80%EB%A0%A8swap/)
 * [intel 13th gen (i5-1340p)의 리눅스 화면 끊김, 멈춤 증상](https://sunyzero.tistory.com/284) PSR
 * [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
