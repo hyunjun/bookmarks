@@ -1209,6 +1209,7 @@ Business
   * [번역 챌린징한 상황에서 어려운 대화를 하는 방법 – Retriever in Jeju](https://retrieverinjeju.com/%EC%B1%8C%EB%A6%B0%EC%A7%95%ED%95%9C-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * [엉성하고 부드러운 피드백 보다는 '팩폭'이 낫다](https://m.hankookilbo.com/News/Read/A2022101711110004294)
 * [건설적인 비판을 주고받는 방법 • Asana](https://asana.com/ko/resources/constructive-criticism)
+* [객관적인 피드백을 주는 사람](https://velog.io/@joosing/objective-feedback-giver)
 
 # CPO
 * [You're a First time CPO! Now What? - YouTube](https://www.youtube.com/watch?v=IPK28cWzI9U)
@@ -1731,6 +1732,7 @@ Business
 * [Industry Review '어쩌다 리더' 시대는 끝났다…매일 훈련해야 준비된 리더](https://n.news.naver.com/mnews/article/009/0005032798?sid=101)
 * [big story언어는 리더십의 화력火力이다 │ 매거진한경](https://magazine.hankyung.com/money/article/202101204604c)
 * [일 잘하는 팀원 만드는 팀장은 업무 지시하는 방법부터 다르다! < 비즈니스 사례 < 기사본문 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=3571) COP context outcome principle
+* [Output 집중 vs Outcome 집중](https://brunch.co.kr/@yongjinjinipln/122)
 * [브런치북 어느 날 팀장이 되었다](https://brunch.co.kr/brunchbook/oneday-teamlead)
 * [마크 저커버그와 마리사 메이어의 평행이론 - 티타임즈](https://www.ttimes.co.kr/article/2022111018177781467)
 * ["그저 요구를 들어주는 접근법 아니다"··· 서번트 리더십 'Do & Don't' - CIO Korea](https://www.ciokorea.com/ciostory/244842) servant leadership
