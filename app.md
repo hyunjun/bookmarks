@@ -455,6 +455,7 @@ App
   * [워드프레스에서 짧은 URL을 가져오는 함수 wp_get_shortlink() | 웹으로 말하기](https://mytory.net/archives/14776)
   * [워드프레스, 블록 인라인 CSS가 출력되지 않아 화면이 깨질 때 – 형우의 웹개발](https://mytory.net/archives/15107)
   * [메모 워드프레스 블록 플러그인이라도 등록 기본 요건은 PHP 파일의 주석 – 형우의 웹개발](https://mytory.net/archives/15131)
+  * [구텐베르크  에디터와 구텐베르크 플러그인의 차이 – 형우의 웹개발](https://mytory.net/archives/15297)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
