@@ -1377,6 +1377,8 @@ Scala
   * [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
   * [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
   * [Adam Fitzgerald & Gjeta Gjyshinca - Supercharge Your Performance | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=g1jt3YLnRmk)
+  * [Monica McGuigan - My First Year in Scala! - YouTube](https://www.youtube.com/watch?v=dfM166vEfxY)
+  * [Daniel Ciocirlan - Lessons from Teaching Scala to 80,000 People - YouTube](https://www.youtube.com/watch?v=BSJY41_6pKU)
 * ScalaIO Paris 2022
   * [V. Debergue, T. Franco - Overall journey of 8 years product development - YouTube](https://www.youtube.com/watch?v=6RKGthf95bA)
   * [Jules Ivanic - Cost-effective and easy to maintain GraphQL integration tests (zio-test and Caliban) - YouTube](https://www.youtube.com/watch?v=AMYJ7Dmdq78)
