@@ -866,6 +866,7 @@ Javascript
     * 여기서 `require`와 `import` 키로 CJS/ESM에서 다른 파일을 로드할 수 있게 설정할 수 있는데
     * 이 `exports` 필드를 정의할 때 주의할 점도 정리
 * [CommonJS와 ESM에 모두 대응하는 라이브러리 개발하기: exports field | blog.hoseung.me](https://blog.hoseung.me/2022-10-04-commonjs-esm-exports-field/) CJS ESM
+* [CommonJS에서 ESM으로 전환하기 – tech.kakao.com](https://tech.kakao.com/2023/10/19/commonjs-esm-migration/)
 * [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
   * [번역 CommonJS가 자바스크립트를 해치고 있습니다](https://velog.io/@eunbinn/commonjs-is-hurting-javascript)
 * [module system(모듈 시스템) 이해하기](https://blog.naver.com/pjt3591oo/222574553721)
@@ -888,6 +889,7 @@ Javascript
 * [Advanced JavaScript Functions to Improve Code Quality](https://www.paulsblog.dev/advanced-javascript-functions-to-improve-code-quality/)
   * [번역 코드 품질을 높여주는 고급 자바스크립트 함수](https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality)
 * [DOM의 변화를 감지하는 MutationObserver - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/900)
+* [AOP in TypeScript](https://d2.naver.com/helloworld/3010710) aspect-oriented programming
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -3372,7 +3374,7 @@ Javascript
     * Node.js 스타일의 임포트를 Deno 스타일로 제작성
     * adapter.node.ts를 임포트를 모두 adapter.deno.ts로 변경
     * process, Buffer같은 Node.js 전역 변수를 Deno 코드로 변경
-    * src 디렉터리를 `_src` 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
+    * src 디렉터리를 _src 디렉터리로 바꾸어서 직접 임포트 못하도록 설정
     * src/index.node.ts를 Deno에 맞게 mod.ts로 변경
   * [Node.js Vs. Deno - Dor Moshe's Blog](https://dormoshe.io/trending-news/nodejs-vs-deno-3ngf-51904)
   * [Deno’s Fresh Uses Server-Side Rendering for Faster Apps – The New Stack](https://thenewstack.io/denos-fresh-uses-server-side-rendering-for-faster-apps/)
@@ -4461,7 +4463,7 @@ Javascript
   * React Server Components(RSC)는 새로운 애플리케이션 아키텍처로 미리 실행되어 번들에서 제외할 수 있고 서버에서 실행되므로 데이터 레이어에도 바로 접근할 수 있어서 서버 중심과 클라이언트 중심 양쪽의 장점을 모두 제공
     * 데이터를 가져올 때 `async`/`await`를 기본으로 도입했고 클라이언트에서 서버로 데이터를 보내는 방법을 찾고 있고 번들러 개발자와 협업해서 RSC 지원을 작업중
   * Suspense가 있지만 여전히 CSS, 폰트, 이미지 로딩은 별도로 진행되므로 로딩 중 레이아웃 변경이 일어날 수 있으므로 CSS, 폰트, 이미지 로딩의 생명 주기를 Suspense와 완전히 통합하여 React가 콘텐츠 표시할 시기를 결정할 수 있도록 노력 중이고 에셋을 미리 로딩할 방법도 준비 중
-  * `<title>`이나 메타데이터는 `<head>`에 포함되므로 서드파티 컴포넌트로 메타데이터를 `<head>`로 이동시키거나 서버에서 랜더링 해서 내려주는 방식을 주로 사용하는데 둘다 단점이 있으므로 컴포넌트 트리 어디서나 메타데이터를 렌더링할 수 있는 기능을 준비 중이고 클라이언트, SSR, RSC 모두에서도 동일하게 동작할 예정
+  * <title>이나 메타데이터는 <head>에 포함되므로 서드파티 컴포넌트로 메타데이터를 <head>로 이동시키거나 서버에서 랜더링 해서 내려주는 방식을 주로 사용하는데 둘다 단점이 있으므로 컴포넌트 트리 어디서나 메타데이터를 렌더링할 수 있는 기능을 준비 중이고 클라이언트, SSR, RSC 모두에서도 동일하게 동작할 예정
   * React Optimizing Compiler: React 최적화 컴파일러인 React Forget의 설계를 계속 개발하고 있고 이를 전에는 "자동 memoizing 컴파일러"라고 불렀으나 "자동 reactivity 컴파일러"라고 하는 것이 이해하기 더 좋다고 생각
     * 이는 상태가 바뀌어서 React가 다시 렌더링할 때 너무 많은 렌더링으로 인해서 memoization 처리해야 하는 것을 알아서 최적화
     * 작년부터 대대적인 리팩토링을 거쳐서 Meta 내 일부에서는 프로덕션에서 이미 사용 중이므로 성능이 입증되면 오픈소스로 공개할 예정
@@ -4936,6 +4938,7 @@ Javascript
   * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
   * [Gatsby vs NextJS: Which Should You Use? | by Abhay Ganjoo | May, 2022 | Bits and Pieces](https://blog.bitsrc.io/gatsby-vs-nextjs-which-should-you-use-84a72131d06a)
   * [카카오페이 기술 블로그는 어떻게 만들었을까요? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-techlog/)
+  * [당근 리브랜딩 캠페인 페이지를 개발하며 배운 것. Gastby로 랜딩 페이지 만들기 개발 회고 및 팁 | by Hyeonsu Jung | 당근 테크 블로그 | Oct, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EC%BA%A0%ED%8E%98%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83-b41d866df9b7)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
