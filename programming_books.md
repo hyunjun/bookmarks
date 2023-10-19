@@ -2526,6 +2526,7 @@ Programming Books
 * (NOT YET) [우분투 투게더 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/26)
   * 한라 005.44-이76우
 * (NOT YET) [0부터 시작하는 OS 자작 입문 | 에이콘출판사](http://www.acornpub.co.kr/book/operating-system)
+* (NOT YET) [모던 리눅스 교과서 - YouTube](https://www.youtube.com/watch?v=rV-b07SBcyQ)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
