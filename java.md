@@ -1735,6 +1735,7 @@ Java
 * [Native SQL로 데이터를 조회할 때 Enum 타입의 필터조건이 제대로 작동하지 않는 이슈](https://kim-jong-hyun.tistory.com/152) JPA
 * [JPA @Where 무시하기](https://yeonyeon.tistory.com/314)
 * [JPA에서의 Lock 이해하기 - Google Slides](https://docs.google.com/presentation/d/1615xq5LSv328WWNvfnoaBiYPISI3zW7PhsxDN0JO-YM/edit#slide=id.p)
+* [굴러가는 자동차에 안전하게 타이어 교체하기(w. CMS 기능 개발) | 우아한형제들 기술블로그](https://techblog.woowahan.com/14301/)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
