@@ -822,6 +822,7 @@ Interview
   * [Blind 75 Leetcode problems : Detailed Video Solutions](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions/)
   * [Leetcode BLIND-75 Solutions - YouTube](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
   * [https://leetcode-company-tagged.vercel.app](https://leetcode-company-tagged.vercel.app/) 회사별
+* [LeetSolve](https://www.leetsolve.com/)
 * [LintCode - Home](https://www.lintcode.com/en/)
 * [mailprogramming.com](https://mailprogramming.com/)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
