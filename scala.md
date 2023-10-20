@@ -1440,6 +1440,7 @@ Scala
 * [March 2023 - Scala Tooling Summit | The Scala Programming Language](https://scala-lang.org/blog/2023/04/11/march-2023-scala-tooling-summit.html)
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
 * [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
+* [Adam Warski - Concurrency in Scala and on the JVM - YouTube](https://www.youtube.com/watch?v=6RYn6mgq77s)
 * [Three tools to improve your Scala workflow](https://softwaremill.com/three-tools-to-improve-your-scala-workflow/) scalafmt mdoc mergify
 * [5 Scala Libraries That Will Make Your Life Easier](https://softwaremill.com/5-scala-libraries-that-will-make-your-life-easier/)
 * [The Best Scala Libraries I Use in Every Project - YouTube](https://www.youtube.com/watch?v=ZymD5NuOwdA)
