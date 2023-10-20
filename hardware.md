@@ -17,7 +17,6 @@ Hardware
 * [Blynk - Create an app for any connected project or product based on Arduino, Raspberry Pi, ESP8266 and other hardware](http://www.blynk.cc/)
 * [ESP8266을 활용해 스마트워치 DIY 하는 법](https://smartaedi.tistory.com/351)
 * [Pixhawk와 ROS를 이용한 자율주행 드론](https://dnddnjs.gitbooks.io/drone-autonomous-flight/content/)
-* [Drone Programming With Python Course | 3 Hours | Including x4 Projects (2021) - YouTube](https://www.youtube.com/watch?v=LmEcyQnfpDA)
 * [아마존의 알렉사를 이용해서 음성인식하기](http://nemoroom.com/mobile/view.html?p_w0_idx=566&p_idx=94&g_p_idx=-1&gpCheck=0)
 * [When hardware met Node-RED](https://github.com/kyungw00k/IBMDeveloperConnect-2017)
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
@@ -44,9 +43,7 @@ Hardware
 * [Sixty/5o2 is a minimal bootloader / micro kernel / mini operating system (if you like) for Ben Eaters 6502 Computer on a breadboard](https://github.com/janroesner/sixty5o2)
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
-* [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
 * [IBM open sources $300\* fully-functional LEGO®microscope design | by Inside IBM Research | Medium](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)
-* [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
 * [**임베디드 레시피**](http://recipes.egloos.com/5207842)
 * [**임베디드 레시피 : 강의실 전체 Map**](http://recipes.egloos.com/5000239)
@@ -162,7 +159,6 @@ Hardware
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
-* [MicroPython officially becomes part of the Arduino ecosystem | Arduino Blog](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
 * [Arduboy](https://www.arduboy.com/)
 * [EURK_Arduino: 한글 라이브러리 '어우러기' 아두이노 버전 1.0](https://github.com/sookmook/EURK_Arduino)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
@@ -214,7 +210,6 @@ Hardware
   * [IBM, ‘IoT 레시피’ 웹사이트 공개](http://www.bloter.net/archives/240786)
 * [ARM이 그리는 IoT 미래…“플랫폼 통합과 개발 효율이 핵심”](http://www.bloter.net/archives/242029)
 * [인텔, 쿼크 기반 새로운 IoT 플랫폼 선보여](http://www.bloter.net/archives/242792)
-* [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 * [4 things IT Ops needs to know about machine learning](https://techbeacon.com/4-things-it-ops-needs-know-about-machine-learning)
 * [박수 인식 Web Thing 만들기](http://hacks.mozilla.or.kr/2018/04/%eb%b0%95%ec%88%98-%ec%9d%b8%ec%8b%9d-web-thing-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
@@ -225,7 +220,6 @@ Hardware
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [요즘 IoT: Azure Device Twin, Digital Twins](https://youngjaekim.wordpress.com/2019/03/30/%EC%9A%94%EC%A6%98-iot-azure-device-twin-digital-twins/)
 * [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
-* [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
 * [IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!](https://github.com/microsoft/IoT-For-Beginners)
   * [Microsoft, IoT for Beginners 강의 공개 | GeekNews](https://news.hada.io/topic?id=4627)
 * [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net ](https://github.com/Samsung/iotjs)
@@ -256,6 +250,17 @@ Hardware
 
 # Orange Pi
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)
+
+# Python
+* [Drone Programming With Python Course | 3 Hours | Including x4 Projects (2021) - YouTube](https://www.youtube.com/watch?v=LmEcyQnfpDA)
+* [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
+* [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
+* [MicroPython officially becomes part of the Arduino ecosystem | Arduino Blog](https://blog.arduino.cc/2022/11/10/micropython-officially-becomes-part-of-the-arduino-ecosystem/)
+* [17 How-To Intel® IoT Technology Code Samples Now Available in Python](https://software.intel.com/blogs/2017/03/17/17-how-to-intel-iot-technology-code-samples-now-available-in-python)
+* [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
+* [pyOCD](https://pyocd.io/)
+  * [VSCode에서 pyOCD로 디버깅 하기 - YouTube](https://www.youtube.com/watch?v=kq7in-XPnn0)
+  * [VSCode에서 pyOCD로 디버깅하기 : 네이버 블로그](https://blog.naver.com/chcbaram/223240810583)
 
 # Raspberry Pi
 * [Raspberry Pi 문서](https://wikidocs.net/book/483)
@@ -301,7 +306,6 @@ Hardware
 * [Raspberry Pi Smart Mirror](https://hackaday.io/project/13466-raspberry-pi-smart-mirror)
 * [라즈베리파이 프로젝트](http://blog.naver.com/roboholic84)
 * [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
-* [snips.ai](https://snips.ai/) 파이썬 기반 음성비서
 * [Source Code for “Self Driving Car Learns Online and On-board on Raspberry Pi 3”](https://ogma.ai/2017/07/source-code-for-self-driving-car-learns-online-and-on-board-on-raspberry-pi-3/)
 * [How I Hacked my Car :: Programming With Style](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [라즈베리파이로 구글 홈(인공지능 스피커) 만들기](https://blog.naver.com/pshkhh/221168996566)
@@ -338,7 +342,6 @@ Hardware
 * [Saradindu Sengupta - Things I learned running neural networks on microcontrollers - YouTube](https://www.youtube.com/watch?v=p_i7JyfGxCU)
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
-* [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 * [파이썬과 라즈베리파이로 레고 피아노 연주하기 Playing Lego Grand Piano (21323) with Python and Raspberry Pi (ENG sub) - YouTube](https://www.youtube.com/watch?v=ES2W4QlB7xM)
   * [play21323: Now you can play Lego 21323](https://github.com/lqez/play21323/)
 * [업데이트 : 누구나 할 수 있는 실용적인 라즈베리 파이 프로젝트 10선 - ITWorld Korea](http://www.itworld.co.kr/news/165435)
@@ -361,6 +364,7 @@ Hardware
 * [How a Single Raspberry PI made my Home Network Faster](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/)
 * [Programming in Go with a Raspberry Pi 4 & Xbox Controller (faster than 250 WPM!) - YouTube](https://www.youtube.com/watch?v=9a5l2J0BTrQ)
 * [영수증 사진기 제작](https://lazygyu.net/blog/making_instant_receipt_camera)
+* [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 * [BirdNET-Pi – BirdNET in Raspberry Pis](https://birdnetpi.com/)
 * [catprinter: 🐱🖨](https://github.com/rbaron/catprinter)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
@@ -370,6 +374,7 @@ Hardware
   * [Having fun with Pi4J and JBang on the Raspberry Pi by Frank Delporte - YouTube](https://www.youtube.com/watch?v=w4AR4hWP3Qk)
 * [PiBox](https://pibox.io/)
   * [PiBox Mini - 라즈베리 Pi 스토리지 서버 | GeekNews](https://news.hada.io/topic?id=5507)
+* [snips.ai](https://snips.ai/) 파이썬 기반 음성비서
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
