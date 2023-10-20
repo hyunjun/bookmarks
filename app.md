@@ -88,8 +88,6 @@ App
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
-* [Double Commander - a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
-  * [Double Commander - 크로스플랫폼 오픈소스 파일관리자 | GeekNews](https://news.hada.io/topic?id=3974)
 * [Ebook Reader for web](https://www.loudreader.com/)
 * [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
@@ -108,7 +106,6 @@ App
   * [프레이머 시작하는 방법 (with 3년 리뷰) - YouTube](https://www.youtube.com/watch?v=UzVbas0SR3E)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
-* [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
 * [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
@@ -671,8 +668,6 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
-* [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
-  * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
 * Fleet
   * [Fleet의 내부 구조, 파트 I – 아키텍처 개요 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/01/fleet-below-deck-part-i-architecture-overview/)
   * [Fleet의 내부 구조, 파트 II – 에디터 해부하기 | The JetBrains Fleet Blog](https://blog.jetbrains.com/ko/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
@@ -706,6 +701,14 @@ App
   * [Zapier로 노션 데이터와 슬랙을 연동해보자](https://onboardingsohard.ghost.io/zapier1/)
   * [노코드 자동화 툴로 일잘러 데이터 분석가 되기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/02/01/nocode-tool.html) Integromat
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
+
+## Development File Manager
+* [Double Commander - a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
+  * [Double Commander - 크로스플랫폼 오픈소스 파일관리자 | GeekNews](https://news.hada.io/topic?id=3974)
+* [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
+  * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
+* [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
+* [yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
 
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
