@@ -69,8 +69,6 @@ Finance
 * [당신의 투자는 실패할 겁니다. 그에 대비하세요](http://ppss.kr/archives/53889)
 * [주식 시장에서 돈을 벌기 위해 꼭 지켜야 할 16가지 규칙](http://ppss.kr/archives/47365)
 * [자본의 탈을 쓴 부채, '영구채' 바로 보기](http://insight.stockplus.com/articles/1655)
-* [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
-* [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg) 채권
 * [한국인을 위한 맞춤 재테크 전략은 없을까?](https://blog.naver.com/hong8706/221223694635)
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
@@ -120,6 +118,9 @@ Finance
 * [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
 * [예금 대신 해볼 때도 되지 않았나요...? - YouTube](https://www.youtube.com/watch?v=xVSQ0sLw8Iw) 발행어음
 * [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
+* [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://blog.naver.com/hong8706/221249299868)
+* [💵 미국채권을 직접 사는 방법ㅣ개별채권 - YouTube](https://www.youtube.com/watch?v=QNB14iUQ9T8)
+* [누군가의 곡소리는 기회다! - YouTube](https://www.youtube.com/watch?v=Jg64XQpVOKg)
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
 * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
