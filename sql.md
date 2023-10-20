@@ -346,6 +346,8 @@ SQL
 * [Eduardo Blancas - Using embedded SQL engines for plotting massive datasets on a laptop - YouTube](https://www.youtube.com/watch?v=M2hoEYXkBa8) sqlite
 * [FOSDEM 2023 - DuckDB In The Python Land - Pedro Holanda - YouTube](https://www.youtube.com/watch?v=-rCZQHXSunc)
 * [DuckDB: Bringing analytical SQL directly to your Python shell — Pedro Holanda - YouTube](https://www.youtube.com/watch?v=dVzfNZN9NKI)
+* [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
+* [DuckDBT: Not a database or a dbt adapter but a secret third thing – DuckCon #3 (San Francisco) - YouTube](https://www.youtube.com/watch?v=NQmOiEJ8fEs)
 
 # Library
 * [alasql.org](http://alasql.org/)
@@ -1341,7 +1343,6 @@ SQL
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
 * [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
-* [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [MySQL을 SQLite로 변경 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/884)
 * [Wesley Aptekar-Cassels | Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 * [Store SQLite in Cloudflare Durable Objects - Markus Ast](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
