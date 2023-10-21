@@ -1379,6 +1379,7 @@ Scala
   * [Adam Fitzgerald & Gjeta Gjyshinca - Supercharge Your Performance | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=g1jt3YLnRmk)
   * [Monica McGuigan - My First Year in Scala! - YouTube](https://www.youtube.com/watch?v=dfM166vEfxY)
   * [Daniel Ciocirlan - Lessons from Teaching Scala to 80,000 People - YouTube](https://www.youtube.com/watch?v=BSJY41_6pKU)
+  * [Scala Days 2023 | Madrid - YouTube](https://www.youtube.com/playlist?list=PLLMLOC3WM2r6ZFhFfVH74W-sl8LfWtOEc)
 * ScalaIO Paris 2022
   * [V. Debergue, T. Franco - Overall journey of 8 years product development - YouTube](https://www.youtube.com/watch?v=6RKGthf95bA)
   * [Jules Ivanic - Cost-effective and easy to maintain GraphQL integration tests (zio-test and Caliban) - YouTube](https://www.youtube.com/watch?v=AMYJ7Dmdq78)
@@ -1865,6 +1866,7 @@ Scala
   * [Scala/Mill: Step 6, Creating a Fat Jar (assembly) | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-create-fat-jar-file-assembly/)
   * [Li Haoyi – Mill: a Build Tool based on Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=j6uThGxx-18)
   * [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
+  * [Haoyi Li - A Deep Dive into the Mill Scala Build Tool - YouTube](https://www.youtube.com/watch?v=UsXgCeU-ovI&list=PLLMLOC3WM2r6ZFhFfVH74W-sl8LfWtOEc&index=17)
 
 ## Library DB Database
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
