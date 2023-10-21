@@ -632,10 +632,12 @@ iOS
   * 그리고 SwiftUI 도입에 가장 어려운 점이 전문성을 갖추는 것이라는 것을 알고 있었기에 사내에서 워크숍을 개최해서 전문성 향상
   * SwiftUI 도입의 결과는 현재까지 긍정적이지만
     * SwiftUI가 오픈소스는 아니므로 디버깅에 어려움이 있었고 앞으로의 계획도 연간 발표라서 방향성에 대한 고민 등이 존재
+* [SwiftUI 입문 1. SwiftUI 프로젝트 생성 후 데모 앱 실기기 연결](https://velog.io/@adbr/SwiftUI-%EC%9E%85%EB%AC%B8-SwiftUI-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%ED%9B%84-%EB%8D%B0%EB%AA%A8-%EC%95%B1-%EC%8B%A4%EA%B8%B0%EA%B8%B0-%EC%97%B0%EA%B2%B0)
 * [allowsHitTesting을 통한 뷰 터치 이벤트 넘기기 :: iOYES](https://green1229.tistory.com/412)
 * [UIApplicationDelegateAdaptor :: iOYES](https://green1229.tistory.com/401)
 * [DatePicker & Picker 사용하기 :: iOYES](https://green1229.tistory.com/404)
 * [ScrollTargetBehavior :: iOYES](https://green1229.tistory.com/406)
+* [BorderlessButtonStyle의 활용 :: iOYES](https://green1229.tistory.com/414)
 * [Swift의 Associated Type | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swift-associated-type/)
 * [한글자막 스위프트를 이용한 아이폰개발 Stanford CS193p - YouTube](https://www.youtube.com/playlist?list=PLQdCGOoR3OqYQQY1sVzq_cXE8zS28r-Dc)
 
@@ -754,4 +756,5 @@ iOS
 * [Xcode 14부터 바뀐 것들. 릴리스 노트를 개발자 관점에서 살펴본 소소한 사항 | by Jung Kim | Sep, 2022 | Medium](https://medium.com/@jungkim/xcode-14%EB%B6%80%ED%84%B0-%EB%B0%94%EB%80%90-%EA%B2%83%EB%93%A4-9dda016f25bd)
 * [Raycast + Confetti로 Xcode 빌드 완료 효과 넣기 | Joohee Kim's Blog](https://imjhk03.github.io/posts/visualize-xcode-build-with-raycast-confetti/)
 * [What's new in Xcode 15 (feat. WWDC 2023) :: iOYES](https://green1229.tistory.com/370)
+* [Xcode 15 의 iOS 17 빌드에서 User Agent 가 원하는 값으로 설정되지 않을때 (feat. iOS 버전별 WebKit 버전과 작업 내역 확인하기)](https://ebay-korea.tistory.com/93)
 * [React Native iOS Xcode에 개발자 계정 등록하기 | miryang.dev](https://miryang.dev/note/react-native/ios-dev-signing)
