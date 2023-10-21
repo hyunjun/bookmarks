@@ -1323,6 +1323,7 @@ Apache
 * [Event Streaming with Apache Pulsar and Scala - Rock the JVM Blog](https://blog.rockthejvm.com/event-streaming-with-pulsar-and-scala/)
 * [Event Streaming in the Cloud Native World with Apache Pulsar by Mary Grygleski - YouTube](https://www.youtube.com/watch?v=UZMeHK6z8wA)
 * [Apache Pulsar Tutorial with Scala - YouTube](https://www.youtube.com/watch?v=u4lTUIFm1lw)
+* [Apache Pulsar: Event Streaming in The Cloud Native World • Mary Grygleski • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=6IcCTLggNwU)
 
 # Ranger
 * [Ranger](http://ranger.apache.org)
