@@ -1906,6 +1906,8 @@ Docker
   * [이벤트 베이스 쿠버네티스 오토스케일링 KEDA](https://bcho.tistory.com/1390)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
+* [kexp: k'exp - Kubernetes Explorer](https://github.com/iximiuz/kexp)
+  * [Kubernetes Explorer - Reflecting Cluster Changes in Real-Time - YouTube](https://www.youtube.com/watch?v=wOqJIOwjbGk)
 * [kind](https://kind.sigs.k8s.io/)
   * [Kind로 Kubernetes control plane의 로그 레벨 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1659)
   * [Kind의 Kubernetes 노드 이미지 직접 생성하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1661)
@@ -1995,6 +1997,7 @@ Docker
   * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
     * [Kubescape - 쿠버네티스 보안 설치 확인도구 | GeekNews](https://news.hada.io/topic?id=4966)
 * [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+* [Kubernetes playgrounds | iximiuz Labs](https://labs.iximiuz.com/playgrounds?category=kubernetes)
 * kubernetes scheduler
   * [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: Kubernetes Scheduler 살펴보기](https://ahnseungkyu.com/294)
   * [(1) 스케줄러 동작 원리와 Scheduling Framework 이해 - DeepDivers](https://deepdivers.gitbook.io/deepdivers/kubernetes-scheduler/1)
