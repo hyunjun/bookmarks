@@ -1820,6 +1820,8 @@ Book
 * [우리가 농구에 미치는 이유](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=5093438)
   * ★★★☆☆ 2022.04.24
   * 농구의 역사와 Bishop O'Dowd Dragons 농구팀을 중심으로 한 현재의 이야기를 교차하며 농구에 대해 그린 그래픽 노블
+* 두 평 반의 진땀 나는 야구세계 [KBO리그 개막 기념 책 추천! 한명재 캐스터.. : 네이버블로그](https://blog.naver.com/moonhak91/222698764272)
+  * ★★★☆☆ 2023.10.21
 
 # Stock
 * [시골의사의 주식투자란 무엇인가](https://jh4hj.tistory.com/entry/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC%EC%9D%98-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
