@@ -1783,6 +1783,7 @@ App
   * [기부상태 UL로 만들어보기](https://brunch.co.kr/@graypool/118)
   * [개발 팀에 민주적 소통 절차 수립하기](https://brunch.co.kr/@graypool/144)
   * [Ubiquitous Language의 효용성](https://brunch.co.kr/@graypool/106)
+  * [동료의 상태도를 검토하기](https://brunch.co.kr/@graypool/1198)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
