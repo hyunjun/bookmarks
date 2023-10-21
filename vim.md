@@ -115,6 +115,7 @@ Vim
   * [I switched from VSCode to Neovim - YouTube](https://www.youtube.com/watch?v=clFR9NfObvc)
   * [How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac - YouTube](https://www.youtube.com/watch?v=U-omALWIBos)
   * [The perfect Neovim setup for Go - YouTube](https://www.youtube.com/watch?v=i04sSQjd-qo)
+  * [The (almost) perfect Neovim setup for Node.js - YouTube](https://www.youtube.com/watch?v=CVCBHHFXWNE)
   * AstroNvim [Getting Started | AstroNvim](https://astronvim.com/)
     * [Neovim With AstroNvim | Your New Advanced Development Editor - YouTube](https://www.youtube.com/watch?v=GEHPiZ10gOk)
   * [LunarVim - Installing Rolling Release, Walkthrough, Sample Configuration (IDE for Neovim) - YouTube](https://www.youtube.com/watch?v=NlRxRtGpHHk)
