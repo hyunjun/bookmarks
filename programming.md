@@ -2104,6 +2104,7 @@ Programming
   * monitoring, logging, analytics and billing
   * caching
 * [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다 - YouTube](https://www.youtube.com/watch?v=Zs3jVelp0L8) API Gateway
+* [토스는 Gateway 이렇게 씁니다](https://toss.tech/article/slash23-server)
 * [API Gateway Pattern에는 API Gateway가 없다 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=P2nM0_YptOA)
 * [The Busy Platform Engineers Guide to API Gateways • Daniel Bryant • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=tWw7Eocjl-c)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
@@ -3534,7 +3535,6 @@ Programming
 * [10 real-world stories of how we’ve compromised CI/CD pipelines – NCC Group Research](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 * [Moving Java to Telco Cloud, with Mihai Ionita - YouTube](https://www.youtube.com/watch?v=VtOR_JROSRo)
 * [칼럼 기업에 CI/CD가 필요한 10가지 이유](https://it.donga.com/101955/)
-* [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
 * [How to learn CI/CD fast | GitLab](https://about.gitlab.com/blog/2022/04/13/how-to-learn-ci-cd-fast/)
 * [What is CICD Pipeline? Explanation of CICD Pipeline along with Examples. | Razorops](https://razorops.com/blog/what-is-cicd-pipeline-explanation-of-cicd-pipeline-along-with-examples/)
 * [CI/CD - How to Resolve Ubuntu Pipeline Case Sensitive Issues on Deployment - YouTube](https://www.youtube.com/watch?v=vJdi2w9hi5Y)
@@ -3587,7 +3587,9 @@ Programming
 * [Danger Swift](https://danger.systems/swift/)
   * [코드 리뷰를 개선할 수 있는 Danger + SwiftLint Plugin | Joohee Kim's Blog](https://imjhk03.github.io/posts/improve-code-review-with-danger/)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
+  * [It's not CI, it's just CI Theatre | GoCD Blog](https://www.gocd.org/2017/05/16/its-not-CI-its-CI-theatre.html)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
+  * [유연하고 안전하게 배포 Pipeline 운영하기](https://toss.tech/article/slash23-devops)
 * [PIPE: 더 나은 개발자 경험을 제공하기 위한 CI/CD - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/pipe-ci-cd-with-runtime/)
   * [PIPE: CI/CD + Runtime as a Service for Better Developer Experience](https://linedevday.linecorp.com/2021/en/sessions/43/)
 * [Qodana: The code quality platform for your favorite CI by JetBrains](https://www.jetbrains.com/qodana/)
@@ -6143,6 +6145,7 @@ Programming
 * [개발자가 테스트를 보는 세 가지 관점 | 요즘IT](https://yozm.wishket.com/magazine/detail/2068/)
 * [좋은 유닛 테스트란 무엇일까? | 요즘IT](https://yozm.wishket.com/magazine/detail/2206/)
 * [29CM QA팀의 API를 활용한 업무 효율 끌어올리기. | 29CM TEAM](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%98-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-3d926d7247d5)
+* [Spoqa 기술 블로그 | 기능 테스트 전환 이야기](https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
