@@ -404,6 +404,7 @@ AWS
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
+* [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
@@ -614,6 +615,7 @@ AWS
 * [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
 * [AWS Batch를 활용하여 미디어 처리를 위한 관리형 FFmpeg 워크플로우 구성하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/create-a-managed-ffmpeg-workflow-for-your-media-jobs-using-aws-batch/)
 * [Terraform + AWS Batch + Golang으로 스케줄 실행 / 수동 배치 생성하기 | by MZC_Global | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/terraform-aws-batch-golang%EC%9C%BC%EB%A1%9C-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%8B%A4%ED%96%89-%EC%88%98%EB%8F%99-%EB%B0%B0%EC%B9%98-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-d6e50ea6b8c0)
+* [조카소의 이미지 생성형 AI 기술 및 AWS 서비스를 통한 바디프로필 이미지 생성 서비스 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/jokaso-generative-ai-image-body-profile-aws/)
 
 # Bedrock
 * [AWS AI updates: Amazon Bedrock and 3 generative AI innovations](https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-generative-ai-service)
