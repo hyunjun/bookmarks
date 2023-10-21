@@ -168,6 +168,7 @@ Shell
 * zenity [How to Modernize Your Bash Scripts By Adding GUI | by Shalitha Suranga | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-modernize-your-bash-scripts-by-adding-gui-cba613a34cb7)
 * [zx: A tool for writing better scripts](https://github.com/google/zx)
   * [ZX - Javascript로 쉘스크립트 작성하기 | GeekNews](https://news.hada.io/topic?id=4227)
+  * [스크립트 툴의 장점만 모았다! zx로 업무 자동화하기](https://tech.devsisters.com/posts/the-best-way-to-write-scripts/)
 
 # TDD, Test
 * [ShellSpec | BDD unit testing framework for shell scripts (bash, ksh, zsh, dash and all POSIX shells)](https://shellspec.info/)
