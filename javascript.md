@@ -2806,6 +2806,7 @@ Javascript
 * [JavaScript 번들러의 이해 — (2) TypeScript 모듈 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-2-typescript-%EB%AA%A8%EB%93%88-77e287a2dc97)
 * [JavaScript 번들러의 이해 — (3) 번들러 개론. 이 글은 JavaScript 번들러의 이해 — (2)… | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-3-%EB%B2%88%EB%93%A4%EB%9F%AC-%EA%B0%9C%EB%A1%A0-32e51414b503)
 * [JavaScript 번들러의 이해 — (4) Webpack 및 다른 번들러들 | by 권세규 | 네이버 플레이스 개발 블로그 | Jun, 2022 | Medium](https://medium.com/naver-place-dev/javascript-%EB%B2%88%EB%93%A4%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4-4-webpack-%EB%B0%8F-%EB%8B%A4%EB%A5%B8-%EB%B2%88%EB%93%A4%EB%9F%AC%EB%93%A4-e5158e94ef60)
+* [nextjs bundle-analyzer를 사용한 최적화 일기](https://velog.io/@pds0309/nextjs-bundle-analyzer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%BC%EA%B8%B0)
 * [Biome](https://github.com/biomejs)
   * [Announcing Biome](https://biomejs.dev/blog/annoucing-biome)
     * 프론트엔드 툴 체인인 Rome이 공식적으로 중단되면서 커뮤니티가 포크한 프로젝트가 Biome
