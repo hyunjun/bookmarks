@@ -1355,7 +1355,7 @@ Programming Books
 * (NOT YET) [딥러닝을 위한 푸리에 영상처리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
 
 ## Machine Learning
-* [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/10/03/book-roadmap/)
+* [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/10/20/book-roadmap/)
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
   * 한라 004.73리874ㅂ
 * 만들면서 배우는 기계 학습: 생각을 만드는 빅데이터 기술
