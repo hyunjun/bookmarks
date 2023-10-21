@@ -5566,6 +5566,7 @@ Javascript
 * [3. 좋은 함수 만들기 - Null 을 다루는 방법](https://jojoldu.tistory.com/721)
 * [Three common types of test automation](https://web.dev/ta-types/) 웹 테스트 종류에는 어떤 것들이 있는지 소개하고 관련된 라이브러리도 간략하게 제시
 * [프론트엔드 테스트 코드와 의존성 | JBEE.io](https://jbee.io/developments/frontend-testing-and-dependency/)
+* [전개연산자는 왜 샌드위치를 망쳤을까?](https://velog.io/@hyemin916/%EC%A0%84%EA%B0%9C%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EB%A7%9D%ED%95%9C-%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%EC%9D%98-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84)
 * [ava: Node.js test runner that lets you develop with confidence 🚀](https://github.com/avajs/ava)
 * [BackstopJS: Catch CSS curve balls](https://github.com/garris/BackstopJS)
   * [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test) | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt/)
