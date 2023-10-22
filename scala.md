@@ -1911,6 +1911,8 @@ Scala
   * [Scala and Slick Tutorial, Part 3 - Advanced Features: Mapping to Enums, DDL Scripts - YouTube](https://www.youtube.com/watch?v=M3zsW7RF0L8)
   * [Scala and Slick Tutorial, Part 4 - Slick with PostgreSQL - YouTube](https://www.youtube.com/watch?v=jd4pvAb83OU)
   * [slick-pg - Slick extensions for PostgreSQL](https://github.com/tminglei/slick-pg)
+* [tyqu: Type-safe Queries](https://github.com/kuceramartin/tyqu)
+  * [Martin Kučera - Tyqu: Typesafe SQL Queries in Scala - YouTube](https://www.youtube.com/watch?v=lPyAkH3hS6A)
 
 ## Library Documentation
 * [markdown-transformation-kata-scala: Markdown Transformation Kata](https://github.com/etorres/markdown-transformation-kata-scala)
