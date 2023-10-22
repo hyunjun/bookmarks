@@ -1776,6 +1776,7 @@ NLP
 * [alpaca.cpp: Locally run an Instruction-Tuned Chat-Style LLM](https://github.com/antimatter15/alpaca.cpp)
   * [chat - cloud](https://sysnet4admin.gitbook.io/cloud/others/tools/alpaca/chat)
   * [DEMO alpaca-chat (7B, 30B) on local labtop(MacBook-Intel) - YouTube](https://www.youtube.com/watch?v=E1zAdwgMDys)
+  * [알파카 윈도우즈/맥 쉬운 설치 방법 - GPU 필요없음 - YouTube](https://www.youtube.com/watch?v=xbgwqEcB_Zk)
   * [Alpaca-LoRA-Serve: Alpaca-LoRA as Chatbot service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
   * [KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
     * [챗GPT 러닝데이 | 챗GPT | 한국어 LLM 민주화의 시작 KoAlpaca! - 이준범](https://aifactory.space/learning/2415/discussion/383)
