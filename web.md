@@ -1410,6 +1410,8 @@ Web
   * [FastAPI boilerplate](https://github.com/hannal/study-fastapi)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [fastapi-from-dj: FastAPI quick start from Django](https://github.com/pincoin/fastapi-from-dj)
+  * [fastapi-rocket-boilerplate: 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!](https://github.com/asacristani/fastapi-rocket-boilerplate)
+    * [Presenting the FastAPI Rocket Boilerplate](https://www.linkedin.com/posts/asacristani_fastapi-backenddevelopment-opensource-activity-7117118952064851969-b0gV/)
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
     * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
