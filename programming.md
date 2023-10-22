@@ -129,6 +129,7 @@ Programming
 * [BDD? SDD? 팀 프로젝트 다같이 개발설계하는 방법](https://velog.io/@teo/behavior-driven-development-schema-driven-development) design
 * [The Lost Art of Software Design • Simon Brown • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=gNj8I4uSTgc)
 * [Tidy First? Daily Empirical Software Design & Why It Works | Beetroot](https://beetroot.co/productivity/tidy-first-daily-empirical-software-design-why-it-works/)
+* [Software Design: Beyond Boxes & Lines • Jessica Kerr • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=_-0mll0kx08)
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [설계란 무엇인가 III | Popit](https://www.popit.kr/%ec%84%a4%ea%b3%84%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80-iii/)
