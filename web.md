@@ -1721,6 +1721,7 @@ Web
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
   * [Performance Testing with Gatling](https://medium.com/@arsalaninam/performance-testing-with-gatling-652e2f19bf89)
   * [Gatling으로 하는 부하테스트 튜토리얼. 지난번 부하테스트를 알아보았습니다. 이번 시간에는 실제로 부하테스트를… | by kyeong su kim | 월요일 오후 9시 | Feb, 2023 | Medium](https://medium.com/monday-9-pm/gatling%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-f5b95ddc4c2a)
+  * [Rafał Piotrowski - Load Testing Made Easy with Gatling - YouTube](https://www.youtube.com/watch?v=8Eplj8BvugA)
 * jmeter
   * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
   * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
@@ -2049,6 +2050,7 @@ Web
 * [웹소켓으로 개발하기 전 알아야 할 것들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1911/)
 * [웹소켓 코딩시 꼭 알아야 할 에러 처리 전략 | 웹으로 말하기](https://mytory.net/archives/14526)
 * [Don't Use Websockets (Until You Try This…) - YouTube](https://www.youtube.com/watch?v=6QnTNKOJk5A)
+* [채팅앱 만들기 | 웹소켓이란 뭘까?| 풀스택으로 만들어보자 - YouTube](https://www.youtube.com/watch?v=uE9Ncr6qInQ)
 * [soketi](https://soketi.app/)
   * [Soketi - 간단하고 빠른 오픈소스 웹소켓 서버 | GeekNews](https://news.hada.io/topic?id=7285)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
