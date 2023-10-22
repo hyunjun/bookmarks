@@ -1261,6 +1261,7 @@ Python
   * [Print() in Python. A guide to printing and formatting your… | by Keno Leon | Medium](https://medium.com/@k3no/print-in-python-389aea412c1f) wkhtmltopdf, Pdfkit
   * [Python print() and beyond](https://josiasdev.best/python-print-and-beyond)
   * [icecream: 🍦 Never use print() to debug again](https://github.com/gruns/icecream)
+    * [Debugging 101: Replace print() with icecream ic() - YouTube](https://www.youtube.com/watch?v=JJ9zZ8cyaEk)
 * pprint
   * [Let’s talk about “prettyprint” or pprint in python | by Antaripa Saha | Dev Genius | Medium](https://medium.com/dev-genius/lets-talk-about-prettyprint-or-pprint-in-python-ddda1fa4cf0b)
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
