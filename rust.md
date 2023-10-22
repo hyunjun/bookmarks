@@ -283,6 +283,8 @@
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 * [gosub-browser: A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions](https://github.com/jaytaph/gosub-browser)
 * [hck: A sharp cut(1) clone](https://github.com/sstadick/hck)
+* [iced: A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
+  * [Building a simple text editor with iced, a cross-platform GUI library for Rust - YouTube](https://www.youtube.com/watch?v=gcBJ7cPSALo)
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
   * [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
