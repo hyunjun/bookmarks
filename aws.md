@@ -1421,6 +1421,7 @@ AWS
 * [서버리스 30분 만에 서버리스 서비스 개발하기 (with AWS Step Functions) | 김윤서, 이화여대 - YouTube](https://www.youtube.com/watch?v=Zaw9ExtOHNI)
 * [AWS에서 Serverless 개발 시작하기 - YouTube](https://www.youtube.com/watch?v=Y6U8Y2gnHkc)
 * [서버리스는 정말 관리가 필요 없을까? | by 강은호 | 월요일 오후 9시 | Jun, 2023 | Medium | 월요일 오후 9시](https://medium.com/monday-9-pm/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EB%8A%94-%EC%A0%95%EB%A7%90-%EA%B4%80%EB%A6%AC-%ED%95%84%EC%9A%94%EA%B0%80-%EC%97%86%EC%9D%84%EA%B9%8C-dc973c6cfd2c)
+* [Real Life AWS Serverless Architecture Example - YouTube](https://www.youtube.com/watch?v=RBbuERSRU1k)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
