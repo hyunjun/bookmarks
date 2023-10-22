@@ -384,6 +384,7 @@ Docker
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [도커를 이용한 파이썬 모듈 배포하기 - 서준석](https://www.youtube.com/watch?v=RRT58hbDXNs)
 * [docker로 만들어보는 가상 원격 데스크탑 - 이형규](https://www.youtube.com/watch?v=wReN7LG2zJg)
+* [Running Linux desktop environments in containers - YouTube](https://www.youtube.com/watch?v=9A8PMkLaSHs)
 * [CoreOS : 설치부터 컨테이너 배포까지 - 김충섭](https://www.youtube.com/watch?v=pR5MoWHPtQs)
 * [초보의 도커 간증 - 박성재님](https://www.youtube.com/watch?v=j3M8-R8GzXQ)
 * [도커로 고스트 블로그 플랫폼 5분만에 설치하기 - 김한기](https://www.youtube.com/watch?v=MGXMRJP4LhQ)
@@ -2486,6 +2487,7 @@ Docker
 * [The Overlay Network Driver | Networking in Docker #7 - TechMormo](https://techmormo.com/posts/docker-networking-7-overlay-driver/)
 * [Docker Networking Summary | Networking in Docker #8 - YouTube](https://www.youtube.com/watch?v=3c0miSU038E)
 * [Why is Docker and container networking so hard!?](https://www.linkedin.com/feed/update/urn:li:activity:7022246391301246976/)
+* [Docker networking is CRAZY!! (you NEED to learn it) - YouTube](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
