@@ -348,6 +348,7 @@ SQL
 * [DuckDB: Bringing analytical SQL directly to your Python shell — Pedro Holanda - YouTube](https://www.youtube.com/watch?v=dVzfNZN9NKI)
 * [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [DuckDBT: Not a database or a dbt adapter but a secret third thing – DuckCon #3 (San Francisco) - YouTube](https://www.youtube.com/watch?v=NQmOiEJ8fEs)
+* [Gábor Szárnyas - DuckDB: The Power of a Data Warehouse in your Python Process - YouTube](https://www.youtube.com/watch?v=q_SKaOeRiOI)
 
 # Library
 * [alasql.org](http://alasql.org/)
