@@ -1492,6 +1492,7 @@ Linux
 * XClip
   * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
   * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
+* [Zellij](https://zellij.dev/)
 
 ## Tmux command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
