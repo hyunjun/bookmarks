@@ -1298,6 +1298,7 @@ Business
     * 경영진은 회사가 어디로 가고 있는지에 대한 공유된 맥락을 가지고 있어야 하고 이러한 결정을 팀원들에게 설득하고 팀원들의 궁금증을 해소해 주어야 함
     * 어떤 일을 하기 위해서 혼자 희생하는 영웅적인 일을 하기도 했지만, 이는 오히려 팀에 안 좋음
     * VPE가 되면서 여유가 필요할 것으로 예상했지만 실제로 해보니 예상보다 훨씬 더 여유 시간을 확보하는 것이 도움이 된다는 것을 알게 됨
+* [Technical Leadership Matters • Dave Thomas • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=MSkRUcSPr1o)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
