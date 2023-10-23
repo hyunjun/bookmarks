@@ -629,6 +629,7 @@ AWS
 * [파운데이션 모델 API 서비스 - Amazon Bedrock - AWS](https://aws.amazon.com/ko/bedrock/)
 * [Amazon Bedrock 정식 출시 – 개발자를 위한 파운데이션 모델 기반 생성형 AI 애플리케이션 구축 서비스 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models/)
 * [Amazon Bedrock Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)
+* [Amazon Bedrock을 이용하여 Stream 방식의 한국어 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/stream-chatbot-for-amazon-bedrock/)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
