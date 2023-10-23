@@ -151,6 +151,7 @@ Functional Programming
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+  * [Domain Modeling Made Functional - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=1pSH8kElmM4)
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
 * [An Outsider's Guide to Statically Typed Functional Programming by Brian Marick PDF/iPad/Kindle](https://leanpub.com/outsidefp)
 
