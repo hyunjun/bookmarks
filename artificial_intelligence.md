@@ -350,6 +350,7 @@ Artificial Intelligence
   * [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Search?) - 읽을거리&정보공유 - 파이토치 한국 사용자 모임](https://discuss.pytorch.kr/t/what-is-vector-similarity-search/2475)
   * [벡터 유사도 검색이 무엇인가요? (What is Vector Similarity Searc | GeekNews](https://news.hada.io/topic?id=10876)
 * [PyData Boston September Meetup Session 2: Intro to Weaviate open-source vector database. - YouTube](https://www.youtube.com/watch?v=9fMP-Ny4j4o)
+* [랭체인의 핵심, Retrieval - Vectorstores - YouTube](https://www.youtube.com/watch?v=fE4SH2vEsdk)
 * [Chroma](https://www.trychroma.com/)
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
