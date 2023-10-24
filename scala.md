@@ -2335,6 +2335,7 @@ Scala
 * [Scala 3: Macros. Last time I introduced one of the new… | by Dean Wampler | Scala 3 | Jul, 2021 | Medium](https://medium.com/scala-3/scala-3-macros-d63dd6811f89)
 * [Scala 3 inline and macros community census - Language Design / Macros - Scala Contributors](https://contributors.scala-lang.org/t/scala-3-inline-and-macros-community-census/5608)
 * [Phantom Types](https://macros.scala.school/phantom-types)
+* [ifdef macro in Scala · eed3si9n](https://eed3si9n.com/ifdef-macro-in-scala/)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
