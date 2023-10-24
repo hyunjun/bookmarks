@@ -1876,6 +1876,7 @@ Business
 * [충성 고객 유지를 위한 10가지 로열티 프로그램](http://ppss.kr/archives/39891)
 * [드디어! 진짜 잘 파는 IT기업 특징 5가지](https://how-to-growup-our-income.tistory.com/8) 고객
 * [마케터가 알아야 할 콜투액션(Call to Action) 심리학](http://ppss.kr/archives/38247)
+* [05화 완벽한 CTA를 찾아서](https://brunch.co.kr/@cliche-cliche/201)
 * [마케팅에 있어 최소 하나라도 있어야 할 2가지 조건](http://www.venturesquare.net/582228)
 * [판매 성과를 높이기 위한 심리전략 12가지](http://ppss.kr/archives/37864)
 * [두 번째로 달 표면을 걸었던 사람은? : 최초 마케팅의 힘](http://ppss.kr/archives/46598)
@@ -2591,6 +2592,8 @@ Business
 * [고객의 이탈 가능성을 확인하는 방법- 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/crm/keeping-customers-happy/)
 * [ICP를 어떻게 확인하는가?](https://brunch.co.kr/@yongjinjinipln/109) ideal customer profile
 * [User research platform for user interviews and user tests | PingPong](https://www.hellopingpong.com/)
+* [Taxomony, 유저 행동 로그 이름 정하기. 유저 행동데이터 분석을 위해 꼭 필요한 유저 행동 로그 데이터 기획 | by Jayeon Choi | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/taxomony-%EC%9C%A0%EC%A0%80-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EB%A6%84-%EC%A0%95%ED%95%98%EA%B8%B0-8ceb135f6d6)
+* [구독 서비스의 성장 지표 확인하기: 구독자와 매출. (1)구독자 | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C%EB%B6%84%EC%84%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1-%EA%B5%AC%EB%8F%85%EC%9E%90-92f0a6ec4243)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
