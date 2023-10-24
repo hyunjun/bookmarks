@@ -147,6 +147,7 @@ Open Source
   * [Dev Stream: Building a networked interactive animated component in Hubs - YouTube](https://www.youtube.com/watch?v=ySINGYYsQQ8)
 * [Why I quit open source - DEV Community](https://dev.to/sapegin/why-i-quit-open-source-1n2e)
 * [오픈 소스 메커니즘](https://velog.io/@skydoves/open-source-machenism)
+* [오픈소스답게 소프트웨어 설계하기](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
