@@ -72,6 +72,8 @@ iOS
   * 이 웹앱에서 Push API, Notifications API, Service Workers를 사용해서 사용자에게 푸시 전송
   * Badging API도 지원해서 웹앱 아이콘에 뱃지를 표시 가능
 * [SwiftUI에서 Notification 사용하기 :: iOYES](https://green1229.tistory.com/397)
+* [Web Push is almost usable with iOS 17 - Matt Steele](https://steele.blue/web-push-ios17/)
+  * [번역 웹 푸시는 이제 iOS 17에서 사용할만합니다](https://velog.io/@eunbinn/web-push-ios17)
 * [iOS Dev Weekly - 351 (서문)](http://blog.canapio.com/137)
 * [라이더스앱(iOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 * [약간의 iOS 개발 팁](http://blog.canapio.com/138)
@@ -149,6 +151,7 @@ iOS
 * [iOS Library, Framework, Swift Package,,, 알아보자 차이점 | by DelightRoom | DelightRoom | Sep, 2023 | Medium](https://medium.com/delightroom/ios-library-framework-swift-package-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-%EC%B0%A8%EC%9D%B4%EC%A0%90-ad49eb75b6cc)
 * [새로운 메인 화면엔 iOS 팀의 거의 모든 것이 들어있다 | 29CM TEAM](https://medium.com/29cm/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4%EC%97%94-ios-%ED%8C%80%EC%9D%98-%EA%B1%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%9E%88%EB%8B%A4-4cef64347d9f)
 * [iOS에서 -webkit-overflow-scrolling: touch는 더이상 필요 없다 – 형우의 웹개발](https://mytory.net/archives/15221)
+* [Event Bubbling :: iOYES](https://green1229.tistory.com/415)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
