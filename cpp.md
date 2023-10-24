@@ -444,6 +444,8 @@ C++
 * [Snapcast - a multi-room client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio](https://github.com/badaix/snapcast/)
 * [SpaceCadetPinball: Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
+* [tachyon: Super Fast Open ZKP(Zero Knowledge Proof) library](https://github.com/kroma-network/tachyon)
+  * [Why Tachyon?. Introduction Tachyon — a blazing fast… | by Ryan Kim | Oct, 2023 | Kroma](https://blog.kroma.network/why-tachyon-7f6201e9029b)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
 * [tvision: A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support](https://github.com/magiblot/tvision)
