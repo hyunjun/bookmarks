@@ -5913,6 +5913,7 @@ Programming
 * [미국 프리랜서 개발자의 커뮤니케이션 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2213/) 의사소통 방법에 대한 문제
 * [진짜 문제는 무엇이고, 가장 중요한 변수는 무엇인가?](https://brunch.co.kr/@graypool/1128) 기술 이야기는 아니나 중요한 부분, 생산 시스템의 심장 = 코드, 가장 중요한 변수, 고객 분류
 * [한빛N 개발 생산성 향상을 위한 체크리스트 12가지 - 기술과 환경의 변화 - YouTube](https://www.youtube.com/watch?v=kk7ujbXFaPg) joel test의 cloud version
+* [멀고도 험난했던 개발 지원이 중단된 Library 연동 과정 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/how-to-work-with-legacy-library/)
 * [Adventures in Performance: Efficiency Analysis of Large-Scale Compute - YouTube](https://www.youtube.com/watch?v=oUh2NPxE16E)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
