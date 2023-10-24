@@ -339,6 +339,7 @@ Programming Books
   * 탐라 개005.13-보77ㅇ 제주 005.4-보78읽
   * ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 * (NOT YET) [오늘날 우리는 컴퓨터라 부른다](https://jhrogue.blogspot.com/2023/09/blog-post.html)
+  * [Book 오늘날 우리는 컴퓨터라 부른다 - 라이프니츠부터 튜링까지, 생각하는 기계의 씨앗을 뿌린 사람들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1691)
 
 # Agile Scrum
 
@@ -3137,6 +3138,7 @@ Programming Books
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * 탐라 문325.1-롭31ㅅ
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
+  * [Book 실리콘밸리 리더십 - 애플 테크 리더가 들려주는 30가지 비법 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1690)
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
   * 한라 325.24-주65ㅌ
   * [팀원에서 팀장으로 재탄생하기 위해 알아야 할 7가지 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/makingmanager20201105)
