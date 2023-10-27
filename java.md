@@ -17,6 +17,7 @@ Java
 * [Review these 50 questions to crack your Java programming interview](https://medium.freecodecamp.org/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
 * [The Java Agent: Modifying Bytecode at Runtime to Protect Against Log4J • Joe Beeton • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=ZrGOv44iTC8)
+* [statements 가 있는 switch/when 구문 deep dive (feat. bytecode)](https://ebay-korea.tistory.com/92)
 * [Hacking third-party APIs on the JVM](https://blog.frankel.ch/hacking-third-party-api-jvm/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
@@ -1966,6 +1967,7 @@ Java
 * [Spring Bean Injection 이야기(feat. 모두가 다 알고 있는 스프링빈, 정말 다 알고 있는가?) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/martin-dev-honey-tip-2/)
 * [Making your @Beans Intelligent By Mark Pollack - YouTube](https://www.youtube.com/watch?v=7OY9fKVxAFQ)
 * [Difference between Spring Framework, Spring Boot, and Spring Cloud? | by Soma | Javarevisited | Jun, 2023 | Medium](https://medium.com/javarevisited/difference-between-spring-framework-spring-boot-and-spring-cloud-cf3692312d77)
+* [쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만났네 - 넷마블 기술 블로그](https://netmarble.engineering/spring-boot-3-0-native-image-on-kubernetes/)
 * Actuator
   * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [🍀 Actuator 안전하게 사용하기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9232/)
