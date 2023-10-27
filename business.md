@@ -2101,6 +2101,7 @@ Business
 * ["당신의 고객은 과연 그들뿐일까요?" | 요즘IT](https://yozm.wishket.com/magazine/detail/1749/)
 * [제품 관리자가 가져야 하는 데이터 문해력이란? | 요즘IT](https://yozm.wishket.com/magazine/detail/1779/)
 * [퍼널은 줄일수록 좋은걸까?. 전환율 증진을 위해 퍼널 개수는 적을수록 좋다던데… | by Stephan Seunghwan Seo | DelightRoom | Mar, 2023 | Medium](https://medium.com/delightroom/%ED%8D%BC%EB%84%90%EC%9D%80-%EC%A4%84%EC%9D%BC%EC%88%98%EB%A1%9D-%EC%A2%8B%EC%9D%80%EA%B1%B8%EA%B9%8C-652280c76e2d)
+* [엔지니어링 노트 1: 웹에서 복잡한 퍼널 쉽게 관리하기](https://toss.tech/article/engineering-note-1)
 * [6시간 동안 단체로 해외 콘퍼런스 참여하기: 프로덕트콘 같이 보기 이벤트 - ProductCon London 2023 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/event-watch-productcon-london2023/)
 * [개발 라이프 사이클 (Development Life Cycle) | Dev.Inn](https://devinn.dev/blog/detail.html?id=302)
 * [BANEX 템플릿 - 사업부터 개발까지 모든 스테이크홀더의 눈높이를 맞추는 프로덕트 플래닝](https://engineering.linecorp.com/ko/blog/banex-template-for-product-planning)
