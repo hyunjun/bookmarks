@@ -296,6 +296,7 @@ Monitoring
   * [Tracing NodeJs Applications with OpenTelemetry | by Fabio Reis | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/tracing-nodejs-applications-with-opentelemetry-624958d38d4d)
   * [Effective and Efficient Observability with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=kh_IZlSj8DU)
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
+  * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
 # Prometheus
 * [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
