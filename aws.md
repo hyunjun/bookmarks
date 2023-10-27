@@ -662,6 +662,7 @@ AWS
 * [Top 10 Coursera Courses to Learn AWS, Google Cloud, Azure, and Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)
 * [AWS Certified Developer Associate - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXbcwowVgJNPzlc4L-vNy8P)
 * [AWS 자격증 취득 후기 (SAA, SAP)](https://jybaek.tistory.com/1006)
+* [AWS 자격증 취득 후기 (DOP)](https://jybaek.tistory.com/1007)
 
 # CI/CD Codecommit Codebuild CodeDeploy CodePipeline
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
