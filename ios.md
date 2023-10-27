@@ -152,6 +152,8 @@ iOS
 * [새로운 메인 화면엔 iOS 팀의 거의 모든 것이 들어있다 | 29CM TEAM](https://medium.com/29cm/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4%EC%97%94-ios-%ED%8C%80%EC%9D%98-%EA%B1%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%9E%88%EB%8B%A4-4cef64347d9f)
 * [iOS에서 -webkit-overflow-scrolling: touch는 더이상 필요 없다 – 형우의 웹개발](https://mytory.net/archives/15221)
 * [Event Bubbling :: iOYES](https://green1229.tistory.com/415)
+* [Event Capturing :: iOYES](https://green1229.tistory.com/416)
+* [@iOS17; #SwiftMacro; 아직도 반복하니?. WWDC2023에서 발표한 SwiftMacro에 대해서 무엇이 있고… | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/ios17-swiftmacro-%EC%95%84%EC%A7%81%EB%8F%84-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8B%88-aeb4900f8f88)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
