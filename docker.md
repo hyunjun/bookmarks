@@ -1765,6 +1765,7 @@ Docker
     * [Infisical Open Source SecretOps: Apply it using GitOps approach. | by Mr DevOps 🐳 ☸ ☁️ 🌐 | Aug, 2023 | Medium](https://mrdevops.medium.com/infisical-open-source-secretops-apply-it-using-gitops-approach-245f57fcd67e)
       * 시크릿 관리 서비스인 Infisical을 ArgoCD와 Helm을 이용해서 Kubernetes에 배포
       * 애플리케이션에 Infisical에 저장된 시크릿을 제공하는 설정 방법 설명
+    * [딜라이트룸 DevOps 1탄: Argo CD 넌 뭐니?. ArgoCD란 무엇인가? | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8-devops-1%ED%83%84-argo-cd-%EB%84%8C-%EB%AD%90%EB%8B%88-59f453ceb590)
   * [Deploy an application in Kubernetes using Argo CD with GitHub](https://foxutech.com/deploy-an-application-using-argo-cd-with-github/)
   * [Argo를 사용해보자 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2023/02/27/juunini-why-argo/)
   * [GitOps Argo CD on GKE (v0.9.2).pdf](https://www.slideshare.net/JoHoon1/gitops-argo-cd-on-gke-v092pdf)
