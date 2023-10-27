@@ -1978,6 +1978,8 @@ Web
 * ["What can't WebAssembly do?" - Katie Bell (PyCon AU 2023) - YouTube](https://www.youtube.com/watch?v=JbZAsSzzk0E)
 * [Charting a Wasm Landscape - YouTube](https://www.youtube.com/watch?v=22Ao0Z5DL4o)
 * [Using WebAssembly Now: It's Easier Than You Think - YouTube](https://www.youtube.com/watch?v=_5yJPJskeVg)
+* [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
+  * [WebAssembly 사용 현황 / 2023년 - 코드쓰는사람](https://taegon.kim/archives/10660)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
