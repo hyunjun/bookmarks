@@ -1807,6 +1807,7 @@ Programming
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
 * [Anthony Murphy's 8 Different Ways to Organize Your Backlog template | Miroverse](https://miro.com/miroverse/8-different-ways-to-organize-your-backlog/)
+* [“일단 백로그에 넣어두고 여유 있을 때 보는 걸로 할까요?” : 백로그를 백로그로 두지 않는 법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14484/)
 * [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [Ordering Distributed Events. One of the hardest things about… | by Vaidehi Joshi | baseds | Medium](https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff)
 * [Distributed Systems Are a UX Problem - Speaker Deck](https://speakerdeck.com/tylertreat/distributed-systems-are-a-ux-problem)
@@ -2233,6 +2234,7 @@ Programming
     * 다른 앱을 임포트할 때 생성되는 참조 관계인 Container References
     * 공유되는 의존성인 Share Scope
   * Webpack 5에서 Module Federation을 지원하기 때문에 어떻게 동작하는지 설명
+* [react-native 에 모듈 페더레이션 더하기 (with. RePack) | by Jerrynim | 직방 기술 블로그 | Oct, 2023 | Medium](https://medium.com/zigbang/react-native-%EC%97%90-%EB%AA%A8%EB%93%88-%ED%8E%98%EB%8D%94%EB%A0%88%EC%9D%B4%EC%85%98-%EB%8D%94%ED%95%98%EA%B8%B0-with-repack-12288f15e617)
 * [Micro-Frontends with Module Federation: Beyond the Basics • Manfred Steyer • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=MJnCWffd7ZY)
 * [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
@@ -4194,10 +4196,14 @@ Programming
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
+* [HUBOT | Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency](https://hubot.github.com/)
+  * [hubot: A customizable life embetterment robot](https://github.com/hubotio/hubot)
+  * [ChatOps를 통한 업무 자동화(feat. Slack Hubot)](https://techblog.lycorp.co.jp/ko/how-to-use-chatops-to-automate-devops-tasks-feat-slack-hubot)
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
 * [learn-devops: DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose](https://github.com/codeaprendiz/learn-devops)
+* [Rundeck Runbook Automation](https://www.rundeck.com/)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -4334,6 +4340,7 @@ Programming
 * [How Meta Keeps its Large-scale Infrastructure Hardware Up and Running | Fred Lin - YouTube](https://www.youtube.com/watch?v=TgV3c5BsLbY)
 * [Structuring your Infrastructure as Code | lbr.](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [The challenges of doing Infra-As-Code without "the cloud" — Nicolas Demarchi - YouTube](https://www.youtube.com/watch?v=ahx_3lKLQ3E)
+* [Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
