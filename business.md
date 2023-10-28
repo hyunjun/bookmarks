@@ -120,6 +120,7 @@ Business
 * [인간관계 부정적인 사람의 5가지 특징](http://moneyman.kr/archives/2269)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
 * [PM이 다양한 MBTI성향의 팀원과 일하는 방법 5가지](https://brunch.co.kr/@ywkim36/99)
+* [15화 인지적 재구성과 행동 활성화를 통한 정신건강 회복](https://brunch.co.kr/@graypool/1235)
 * [함께 성장하며 함께 일하기 위한 3가지 필수 조건](https://brunch.co.kr/@graypool/449)
 * ~[우리나라 직장인이 일에 몰입하지 못하는 이유 3가지](http://ppss.kr/archives/37773)~
 * [일 못 하는 사람들의 33가지 태도 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236059)
