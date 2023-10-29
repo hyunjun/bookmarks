@@ -2919,6 +2919,15 @@ Programming Books
 * [최고의 팀은 무엇이 다른가?](https://brunch.co.kr/@charles104/222)
   * ★★★★☆ 2023.07.12~13 어렸을 때는 이런 책을 쳐다보지도 않았다. 나에게는 앞으로도 필요없을 내용이라고 오만하게 생각했었다. 회사의 구호, 벽에 붙어있는 포스터는 자원의 낭비일 뿐이라고 여겼다. 비록 (일부, 과거의) 회사들의 실천방법은 잘못이 있었어도 그 효용에 대해서는 내가 틀렸다. 추상적이고 정신적인 부분과 실제 업무는 마치 알고리즘/설계와 코드 작성, 무협지의 내공/외공처럼 항상 같이 가야 한다. 다른 좋은 책들도 많지만 이 책이 좀 더 마음에 드는 건, 이 책은 전자에 해당하는 부분을 잘 설명하며 또 어떻게 실제로 적용할 수 있을지도 잘 알려주기 때문이라고 생각한다. management를 하는 사람들에게 추천할 만한 또 하나의 책이다.
   * 우당 문325.2-코69ㅊ
+* [리그 오브 레전드 플레이어 중심주의 - 골든래빗](https://goldenrabbit.co.kr/product/lol_playerfocus/)
+  * ★★★☆☆ 2023.10.29 LoL을 만든 라이엇 게임즈 이야기. 고객을 중심에 둔 회사는 많지만 라이엇 게임즈처럼 정말 고객을 우선시하는 회사는 드물다는 이야기를 하는, 삐딱하게 보면 홍보를 위한 책이지만(또 그 목적이 없지는 않겠지만), 나이들고 매니지먼트하는 측면에서 보면 정말 어렵고 대단한 일을 해냈다는 생각이 든다. 고객의 입장에서 고객을 위해 일을 한다는 걸 전면에 내세우는 회사를 생각해보면 Amazon이 바로 떠오르는 데, Amazon과 라이엇 게임즈의 (책으로만 읽어서 책으로만 알고 있는) 기업문화는 전혀 달라 보인다는 점도 흥미롭다. 그런 점이 같은 철학에서 기인하지만 customer obsession과, player experience first란 다른 말로 표현되나 싶기도 하다(플레이어는 라이엇 게임즈의 고객인 게이머들을 표현하는 말)
+  * 탐라 문691.15-오79ㄹ
+  * [리그 오브 레전드 플레이어 중심주의](https://jhrogue.blogspot.com/2023/09/blog-post_21.html)
+  * [리그 오브 레전드 플레이어 중심주의](https://github.com/hyunjun/bookmarks/blob/master/programming_books/player_focus.md)
+  * [리그 오브 레전드 플레이어 중심주의](https://www.notion.so/1003/13b7422062014622bc963a85fbe6d103)
+  * [리그 오브 레전드 플레이어 중심주의. Date: October 29, 2023 Score: ★★★☆☆ | by Jun | Oct, 2023 | Medium](https://nymets.medium.com/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A4%91%EC%8B%AC%EC%A3%BC%EC%9D%98-a9c510388605)
+  * [리그 오브 레전드 플레이어 중심주의 - 골든래빗 - Jun’s Substack](https://recur.substack.com/p/87c)
+  * [리그 오브 레전드 플레이어 중심주의](https://jh4hj.tistory.com/entry/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%A4%91%EC%8B%AC%EC%A3%BC%EC%9D%98)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -3017,8 +3026,6 @@ Programming Books
   * 우당 문325.23-스825ㅅ
 * (NOT YET) [언택트 리더십 가이드 : 비대면 회의를 대면 회의보다 효율적으로 이끄는 법](https://www.facebook.com/permalink.php?story_fbid=pfbid031AZZ1oVArMe8HpDmwhr91d6AtRUhh2DiEyXB6Q4EpW2ThRgfmUW5CoGCpQfAajWul&id=100014170998510)
   * 한라 325.24-클294ㅇ
-* (NOT YET) [리그 오브 레전드 플레이어 중심주의 - 골든래빗](https://goldenrabbit.co.kr/product/lol_playerfocus/)
-  * [리그 오브 레전드 플레이어 중심주의](https://jhrogue.blogspot.com/2023/09/blog-post_21.html)
 
 ## Management Leadership
 * [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
