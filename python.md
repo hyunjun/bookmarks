@@ -1527,8 +1527,8 @@ Python
   * [박피디의 게임 개발 이야기 : Cubase 드럼맵 파일을 drm <-> text 형태로 변환하는 파이썬 코드](http://parkpd.egloos.com/4190073)
   * [XML & ElementTree || Python Tutorial || Learn Python Programming - YouTube](https://www.youtube.com/watch?v=j0xr0-IAqyk)
 * yield
-  * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
-  * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
+  * [Python의 yield 키워드 알아보기](https://tech.ssut.me/what-does-the-yield-keyword-do-in-python/)
+  * [Python의 Generator와 yield 키워드](https://item4.blog/2016-05-09/Generator-and-Yield-Keyword-in-Python/)
   * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
   * [What Are Generators, Yields, and Streams in Python?](https://medium.com/better-programming/what-are-generators-yields-and-streams-in-python-a94072b3eb93)
 * zipfile
