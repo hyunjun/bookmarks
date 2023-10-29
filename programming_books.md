@@ -1827,6 +1827,9 @@ Programming Books
   * 한라 005.11-번57ㅋ
   * [Kubernetes: Up and Running, 3rd Edition Book](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
   * [kubernetes-up-and-running/examples: Example code and files from "Kubernetes: Up and Running"](https://github.com/kubernetes-up-and-running/examples)
+* (NOT YET) [쉽게 시작하는 쿠버네티스](https://www.gilbut.co.kr/book/view?bookcode=BN003638)
+  * 한라 005.118-서78ㅅ
+  * [080329: 쉽게 시작하는 쿠버네티스](https://github.com/gilbutITbook/080329)
 
 # Domain Driven Development DDD
 * [도메인 주도 개발 시작하기](https://www.hanbit.co.kr/store/books/look.php?p_code=B4309942517)
@@ -2301,6 +2304,9 @@ Programming Books
 * (NOT YET) [처음부터 제대로 배우는 스프링 부트](https://hanbit.co.kr/store/books/look.php?p_code=B4239384913)
   * [스프링 부트를 활용한 웹개발의 기본을 충분히 .. : 네이버블로그](https://blog.naver.com/drvoss/223164101787)
 * (NOT YET) 실전 스프링 부트 [그런 날 있잖아 스프링 부트를 배우고는 있지만 무작정 실전에서 써보고 싶은... 그런 날](https://jpub.tistory.com/1451)
+* (NOT YET) [쿼커스 쿡북](https://hanbit.co.kr/store/books/look.php?p_code=B7614945801)
+  * 한라 005.16-부64ㅋ
+  * [quarkus_cookbook](https://github.com/yudong80/quarkus_cookbook)
 
 # JavaScript
 
@@ -2354,6 +2360,12 @@ Programming Books
   * 한라 005.138-유68ㅎ 우당 문005.138-유69ㅎ
 * (NOT YET) [쉽게 시작하는 타입스크립트 도서 리뷰 • 캡틴판교](https://joshua1988.github.io/web-development/typescript-easy-start/)
   * [쉽게 시작하는 타입스크립트 책 리뷰 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/books/%EC%89%BD%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%B1%85-%EB%A6%AC%EB%B7%B0/)
+* (NOT YET) [NestJS로 배우는 백엔드 프로그래밍](https://jpub.tistory.com/1352)
+  * 탐라 문005.11-한66ㄴ
+  * [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
+* (NOT YET) [GraphQL과 타입스크립트로 개발하는 웹 서비스](https://bjpublic.tistory.com/459)
+  * 한라 005.138-강95ㄱ 탐라 문005.138-강98ㄱ
+  * [graphql-book-fullstack-project: "GraphQL과 타입스크립트로 개발하는 웹 서비스" 도서의 예제 코드 저장소](https://github.com/hwasurr/graphql-book-fullstack-project)
 
 ## Angular
 
