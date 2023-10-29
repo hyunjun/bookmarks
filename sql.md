@@ -588,6 +588,7 @@ SQL
   * [FULLTEXT 인덱스와 일반 인덱스 성능 차이](http://ohgyun.com/766)
   * [max_execution_time 설정하기](http://ohgyun.com/767)
   * [Online Alter에도 헛점은 있더구나 – gdb, mysqld-debug 활용 사례](http://gywn.net/2018/10/online-alter-for-varchar/)
+  * [MySQL online alter부터 CPU 100% 장애까지](https://tech.devsisters.com/posts/cro-mysql-online-alter/)
   * [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-상황-문제-해결)
   * [#1071 - Specified key was too long](http://stackoverflow.com/questions/1814532/1071-specified-key-was-too-long-max-key-length-is-767-bytes)
   * [Connect to MySQL after hitting ERROR 1040: Too many connections - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/23/connect-to-mysql-after-hitting-error-1040-too-many-connections/)
