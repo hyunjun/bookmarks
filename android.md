@@ -463,6 +463,7 @@ Android
   * [Jetpack Compose로 디자인시스템 만들기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=O1yPOr7J3gY)
   * [Checkbox 아이콘을 텍스트의 원하는 위치로 정렬 하는 방법 (Jetpack Compose) | by Youngjik Yoon | PRND | Aug, 2023 | Medium](https://medium.com/prnd/%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-jetpack-compose-12d3d9d1f28)
   * [Jetpack Compose로 LINE 앱 Yahoo!검색 모듈 개발하기](https://techblog.lycorp.co.jp/ko/developing-android-ui-with-jetpack-compose)
+  * [Spoqa 기술 블로그 | 키친보드 안드로이드 앱 Jetpack Compose 도입기](https://spoqa.github.io/2023/10/30/android-jetpack-compose.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
