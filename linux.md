@@ -179,6 +179,7 @@ Linux
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
+* [리눅스에서 커스텀 키보드 펑션키 F11, F12등의 이상 작동 문제](https://sunyzero.tistory.com/290)
 * alpine [there is no such thing as a “glibc based alpine image” – Ariadne's Space](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
