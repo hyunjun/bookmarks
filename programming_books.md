@@ -2878,6 +2878,10 @@ Programming Books
   * [피플 애널리틱스](https://github.com/hyunjun/bookmarks/blob/master/programming_books/people_analytics.md)
   * [피플 애널리틱스. Part 1 피플 애널리틱스 사례 | by Jun | Dec, 2022 | Medium](https://nymets.medium.com/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-156034096c93)
   * [피플 애널리틱스](https://jh4hj.tistory.com/entry/%ED%94%BC%ED%94%8C-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4)
+* [대체 뭐가 문제야](https://cskstory.tistory.com/16)
+  * ★★★★☆ 2023.01.09
+  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
+  * [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
 * 천원을 경영하라 [無수저로 45세 창업, 1000원짜리 팔아 3조 매출… “아직도 고객이 두렵다”](https://v.daum.net/v/20221210030436912)
   * ★★★☆☆ 2023.03.12
   * 한라 325.1-박74ㅊ 탐라 문325.1-박73ㅊ 우당 문325.1-박73ㅊ
@@ -2945,8 +2949,6 @@ Programming Books
 * (NOT YET) [‘CEO’를 위한 강력 추천도서 5권](https://brunch.co.kr/@bkys/43)
 * (NOT YET) [조직행동론(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3188891806)
   * 한라
-* (NOT YET) [대체 뭐가 문제야?](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732)
-  * 한라 181.3-와68ㄷ 우당 문181.3-와69ㄷ
 * (NOT YET) [픽사 스토리텔링](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287110908)
   * 한라 325.1-룬33ㅍ 탐라 문325.26-룬32ㅍ 우당 문325.26-룬32ㅍ
 * (NOT YET) [무엇이 성과를 이끄는가: 세계 최고 기업에서 찾은 고성과의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/255193)
