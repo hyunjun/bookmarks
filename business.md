@@ -493,6 +493,7 @@ Business
 * [엔지니어의 세심함](https://jojoldu.tistory.com/667)
   * `엔지니어의 생산성만이 가장 중요한 자원은 아니다` -> 문서와 커뮤니케이션을 중시하자는 말
   * 이 정도로 이야기할 수 있다는 건 그만큼 엔지니어가 우대받는 문화의 회사이기 때문에 가능한 이야기
+* [지식 근로자의 생산성을 어떻게 끌어올릴 것인가(上)](https://brunch.co.kr/@graypool/1260)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [회사 일이 재미없다면 이직만이 답인가? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/changejob20221129)
@@ -1781,6 +1782,7 @@ Business
 * [좋은 리더는 장점을 찾아 알려준다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263972)
 * [Team Leadership Toolkit Series' Articles - DEV Community](https://dev.to/unseenwizzard/series/23374)
 * [아버지 리더십 Fatherhood Leadership – 조성문의 블로그](https://sungmooncho.com/2023/09/26/father-leadership/)
+* [인간은 무엇을 위해 움직이는가 | Evans Library](https://evan-moon.github.io/2023/10/03/how-to-be-a-better-leader/)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
