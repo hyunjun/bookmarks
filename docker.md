@@ -1706,6 +1706,7 @@ Docker
   * NFD를 클러스터에 설치하면 기본적으로 하드웨어를 탐지해서 노드에 라벨을 추가
   * 사용자가 파악하기 쉽게 라벨을 매핑하면 그것에 맞게 노드 라벨에 추가되고
   * Pod을 `nodeSelector`를 사용해서 스케줄링할 때 GPU 등 원하는 하드웨어가 있는 노드에 스케줄링 가능
+* [How Netflix's Container Platform Connects Linux Kernel Panics to Kubernetes Pods | Netflix TechBlog](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
