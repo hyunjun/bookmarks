@@ -535,6 +535,7 @@ iOS
 * [Memory management in Swift](https://medium.com/elements/memory-management-in-swift-31e20f942bbc)
 * [스위프트 타입별 메모리 분석 실험. struct와 class 가 메모리 영역을 어디를 사용하는지 분석한… | by Jung Kim | Oct, 2021 | Medium](https://medium.com/@jungkim/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%ED%83%80%EC%9E%85%EB%B3%84-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B6%84%EC%84%9D-%EC%8B%A4%ED%97%98-4d89e1436fee)
 * [스위프트 문자열 메모리 할당 분석. Swift 5.5 기준 문자열 처리하는 String 타입에 대한 SIL… | by Jung Kim | Oct, 2021 | Medium](https://medium.com/@jungkim/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9-%EB%B6%84%EC%84%9D-16ac942ea8bb)
+* [String의 Small String Optimization :: iOYES](https://green1229.tistory.com/417)
 * [How to handle internet connection reachability in Swift](https://medium.freecodecamp.org/how-to-handle-internet-connection-reachability-in-swift-34482301ea57)
 * [Creating Custom Operators in Swift](https://hackernoon.com/creating-custom-operators-in-swift-2c8bababbaf6)
 * [Dart vs Swift: a comparison](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
