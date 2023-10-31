@@ -2077,6 +2077,7 @@ Business
 * [크고 복잡한 제품, 과감하게 갈아엎기](https://toss.tech/article/mydoc)
 * [리멤버에서 UT(사용자 테스트)는 어떻게 진행하나요? - DRAMA&COMPANY](https://blog.dramancompany.com/2023/09/how-to-ux-research/)
 * [푸시 클릭율 6배를 만든 고객집중 | by 송효진 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%ED%91%B8%EC%8B%9C-%ED%81%B4%EB%A6%AD%EC%9C%A8-6%EB%B0%B0%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%A0%EA%B0%9D%EC%A7%91%EC%A4%91-2811bf0a15c7)
+* [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2147,6 +2148,7 @@ Business
 * [Split PM 모델이 필요할까?](https://brunch.co.kr/@yongjinjinipln/118)
 * [PM 역할과 관련한 세 가지 안티 패턴](https://brunch.co.kr/@yongjinjinipln/119)
 * [프로덕트 매니저의 비극적인 운명](https://brunch.co.kr/@yongjinjinipln/121)
+* [PM학 개론 (12) 대기업과 스타트업 PM은 어떻게 다른가 : 네이버 블로그](https://blog.naver.com/madaboutit/223250564938)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
