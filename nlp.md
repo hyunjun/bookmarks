@@ -368,6 +368,7 @@ NLP
 * [DistilKoBiLSTM: Distilling Task-Specific Knowledge from Teacher Model into BiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
+* [AI 경량화: 더 빠르고 저렴한 AI 서비스](https://d2.naver.com/helloworld/4608596) LaRva
 
 # 띄어쓰기
 
@@ -997,6 +998,7 @@ NLP
   * [ChatGPT Prompt Engineering 요약](https://velog.io/@youngerjesus/ChatGPT-Prompt-Engineering-%EC%9A%94%EC%95%BD)
   * [ChatGPT Prompt Engineering 요약 | 커리어리](https://careerly.co.kr/comments/82904)
 * [해외에서 가져온 치트키 프롬프트로 하루만에 인공지능 비즈니스 시작하기 | 할아버지 프롬프트 | superpowerGPT | Deep L #부트캠프 - YouTube](https://www.youtube.com/watch?v=y5Pk1biS-3g)
+* [효과적인 프롬프팅(Prompting) 방법론 소개](https://blog.sionic.ai/prompting)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
@@ -1892,7 +1894,7 @@ NLP
 * [aoai-fwdproxy-funcapp](https://github.com/denlai-mshk/aoai-fwdproxy-funcapp) Boost up 4x Request per minute for your AOAI Resources
 * [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
-* [CLaF: Clova Language Framework https://naver.github.io/claf](https://github.com/naver/claf)
+* [CLaF: Clova Language Framework https://naver.github.io/claf ](https://github.com/naver/claf)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [ConceptNet - a multilingual knowledge base, representing words and phrases that people use and the common-sense relationships between them](https://github.com/commonsense/conceptnet5/wiki)
 * [coreferee: Coreference resolution for English, German and Polish, optimised for limited training data and easily extensible for further languages](https://github.com/msg-systems/coreferee)
@@ -2779,6 +2781,8 @@ NLP
   * [Convert Text To Speech Using Python | Python Projects Tutorials - YouTube](https://www.youtube.com/watch?v=9\_gh55ksNME)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
   * [Baum-Welch Algorithm - ratsgo's speechbook](https://ratsgo.github.io/speechbook/docs/am/baumwelch)
+* [SALMONN: Speech Audio Language Music Open Neural Network](https://github.com/bytedance/SALMONN)
+  * [음성과 소리를 동시에 이해하는 멀티모달 모델 공개 | Facebook](https://www.facebook.com/groups/TensorFlowKR/posts/2168476370160076/)
 * [SCE-TTS: 내 목소리로 TTS 만들기](https://sce-tts.github.io/)
 * [SeamlessM4T—Massively Multilingual & Multimodal Machine Translation | Meta AI Research](https://ai.meta.com/research/publications/seamless-m4t/)
   * [Introducing a foundational multimodal model for speech translation](https://ai.meta.com/blog/seamless-m4t/)
