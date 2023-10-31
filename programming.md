@@ -1623,6 +1623,8 @@ Programming
   * 멀티테넌트를 활용하면 인프라를 공유하므로 수익에 직접적으로 영향을 미치고 고객의 통계를 뽑기도 훨씬 용이
   * 하지만 멀티테넌트에서는 Noisy Neighbor 문제가 존재, 공유 리소스와 보안 문제가 존재
   * [SaaS기업의 비밀 : 왜 멀티테넌시가 중요한가 | GeekNews](https://news.hada.io/topic?id=6243)
+* [Mitigating the Noisy Neighbour Multitenancy Problem](https://markheath.net/post/noisy-neighbour-multi-tenancy)
+  * [멀티테넌트 아키텍처에서 시끄러운 이웃 문제 해결하기](https://maily.so/saascenter/posts/ac8ad619?from=email#comments)
 * [**역대 최대 기업공개 규모를 자랑한 SaaS 서비스의 컨트롤 플레인 아키텍처**](https://maily.so/saascenter/posts/4b18aa62) snowflake
 * [고가용성 엔터프라이즈 SaaS를 위한 아키텍처 개선](https://maily.so/saascenter/posts/0ee8d439) Slack의 셀룰러 아키텍처로의 전환 사례
 * [Performance isolation in a multi-tenant database environment](https://blog.cloudflare.com/performance-isolation-in-a-multi-tenant-database-environment/)
@@ -5894,6 +5896,7 @@ Programming
   * 증분 마이그레이션의 단점은 새 시스템과 레거시 시스템이 같이 동작하도록 하는 노력이 필요하다는 점
   * 프론트엔드를 마이그레이션 할 때는 리버스 프락시가 핵심으로 새 프론트엔드와 레거시 프론트엔드를 같이 배치해서 트래픽을 점진적으로 마이그레이션 가능
 * [What Kind of Coach Does Your Team Need?](https://www.infoq.com/articles/what-kind-coach-team-needs/)
+* [Coaching Teams Through Team Change • Heidi Helfand • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bi1krLVAsGY)
 * [웹 개발 생산성을 높이기 위한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1542/)
 * [Adopting Remote Development Environments at Slack](https://www.infoq.com/news/2022/08/slack-remote-development-env/)
 * [Devpod: Improving Developer Productivity at Uber with Remote Development | Uber Blog](https://www.uber.com/en-US/blog/devpod-improving-developer-productivity-at-uber)
