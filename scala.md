@@ -805,6 +805,7 @@ Scala
   * [practice - Try vs. Either](https://gist.github.com/hyunjun/a3969336a5b8032260ba19efc74136c7#file-either_try-md)
     * [Try Either 비교](https://lascala.slack.com/archives/C11CB042G/p1608585060008900)
   * [Scala's Either, Try and the M word - Maurício Linhares' ramblings](https://mauricio.github.io/2014/02/17/scala-either-try-and-the-m-word.html)
+  * [How to convert an Option to an Either in Scala | ScalaJobs.com](https://scalajobs.com/blog/how-to-convert-option-to-either-in-scala/)
 * Exception
   * [On Bifunctor IO and Java's Checked Exceptions - Alexandru Nedelcu](https://alexn.org/blog/2018/05/06/bifunctor-io/)
   * [The Trouble with Checked Exceptions: Part 2 - Alexandru Nedelcu](https://alexn.org/blog/2022/09/28/the-trouble-with-checked-exceptions-part-2/)
