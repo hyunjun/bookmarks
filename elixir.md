@@ -56,6 +56,7 @@ Elixir
 * [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
 * [Learn With Me: Elixir - A series where I learn Elixir and you can learn along with me](https://inquisitivedeveloper.com/tag/lwm-elixir/)
 * [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
+* [Send a msg to Discord channel through webhook in Elixir - DEV Community](https://dev.to/ambareesha7/send-a-msg-to-discord-channel-through-webhook-in-elixir-414p)
 * [Elixir to Vert.x in Examples](https://medium.com/pharos-production/elixir-to-vert-x-in-examples-57bd4f3f1aa8)
 * [The Soul of Erlang and Elixir](https://gotochgo.com/2019/sessions/712)
 * [함수 이름이 \_new 로 끝나면 뭐다?](http://ohyecloudy.com/pnotes/archives/eixir-what-does-a-function-name-ending-with-new-mean/)
