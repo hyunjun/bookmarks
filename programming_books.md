@@ -1516,6 +1516,7 @@ Programming Books
 * (NOT YET) [머신러닝을 활용한 웹 최적화](https://www.hanbit.co.kr/store/books/look.php?p_code=B8979230235)
   * 한라 004.73-이57ㅁ 탐라 문004.73-이58ㅁ
 * (NOT YET) [머신러닝 시스템 디자인 패턴 | 위키북스](https://wikibook.co.kr/mlsdp/)
+  * 한라 004.73-시46ㅁ 탐라 문004.73-시47ㅁ
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
