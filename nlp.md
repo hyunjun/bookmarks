@@ -1468,6 +1468,7 @@ NLP
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
+* [EVAL: Corca / DEV EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!](https://github.com/corca-ai/EVAL)
 * [evolve-instruct: evolve llm training instruction, from english instruction to any language](https://github.com/lcw99/evolve-instruct)
 * [Falcon LLM - Home](https://falconllm.tii.ae/)
   * [UAE's Falcon 40B is now Royalty Free | Technology Innovation Institute](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
