@@ -448,6 +448,7 @@ Python
   * [파이썬+한/글로 가장 강력한 문자열 가공 프로그램 만들기 - YouTube](https://www.youtube.com/watch?v=n9oy-nL_0Po)
   * [움짤로 빠르게 배우는 파이썬-아래아한글 자동화 레시피 | 학습 페이지](https://www.inflearn.com/course/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94/unit/143948)
   * [파이썬으로 기존에 열려 있는 아래아한글 프로그램을 제어하는 방법 : 클리앙](https://www.clien.net/service/board/lecture/17988014)
+  * [PyCon KR 2023 이건 정말 없네요, 없어서 시작한 아래아 한글 패키지 만들기 전다민 - YouTube](https://www.youtube.com/watch?v=JUjpvu3mGGY)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
@@ -3671,6 +3672,7 @@ Python
   * [CPython 코드로 보는 파이썬의 심층 세상 - Speaker Deck](https://speakerdeck.com/kennethanceyer/cpython-kodeuro-boneun-paisseonyi-simceung-sesang?slide=58)
   * [파이썬에서 GIL 삭제된다⋯“병렬 처리의 혁신적 진전” - ITWorld Korea](https://www.itworld.co.kr/news/302737)
   * [Episode #431 Visualizing CPython Release Process - Talk Python To Me Podcast](https://talkpython.fm/episodes/show/431/visualizing-cpython-release-process)
+  * [PyCon KR 2023 CPython 코드로 보는 파이썬의 심층 세상 한성민 - YouTube](https://www.youtube.com/watch?v=L0tRwS3K3N4)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
@@ -3937,6 +3939,7 @@ Python
   * [Introduction - PyO3 user guide](https://pyo3.rs/)
   * [PyO3 프로젝트 생성하기 - 파이썬 프로그래머를 위한 러스트 입문](https://indosaram.github.io/rust-python-book/ch15-02.html)
   * [Rust: PyO3 파이썬 모듈 Rust 언어로 만들기 :: PROGRAMMING PER SE](https://choiseokwon.tistory.com/314)
+  * [PyCon KR 2023 PyO3를 활용한 분산 시스템 알고리즘 구현체 바인딩 작성 도전기 이규봉 - YouTube](https://www.youtube.com/watch?v=9nuV_tc77OI)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
 * [pyp - Easily run Python at the shell! Magical, but never mysterious](https://github.com/hauntsaninja/pyp)
@@ -4540,6 +4543,7 @@ Python
   * [setup.py 멈춰!](https://tech.buzzvil.com/blog/setup.py-%EB%A9%88%EC%B6%B0/)
   * [poetry 로 파이썬 패키지 관리하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/python/poetry/)
   * [How to Create and Use Virtual Environments in Python With Poetry - YouTube](https://www.youtube.com/watch?v=0f3moPe_bhk)
+  * [PyCon KR 2023 당신의 Dependency는 안녕하십니까 김두훈 - YouTube](https://www.youtube.com/watch?v=OBvnsAwXnd0)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
