@@ -887,6 +887,7 @@ Programming Books
 * (NOT YET) [핸즈온 파이썬을 이용한 설명가능한 AI(XAI)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286872055)
   * 탐라 문004.73-로58ㅎ
 * (NOT YET) 인간 vs. AI 정규표현식 문제 풀이 대결 [진화하는 AI, 프로그래밍 세계도 진화하고 있다](https://jpub.tistory.com/1459)
+  * [독서광 인간 vs. AI 정규표현식 문제 풀이 대결 - YouTube](https://www.youtube.com/watch?v=h0bvb7y-4cM)
 
 # C
 
