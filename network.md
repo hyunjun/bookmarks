@@ -245,6 +245,7 @@ Network
 * [인터넷에서 정보를 주고 받기 위한 HTTP에 대해서 알아보자 | by Doa Choi | Cloud Villains | Jan, 2023 | Medium](https://medium.com/ctc-mzc/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%97%90%EC%84%9C-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%A3%BC%EA%B3%A0-%EB%B0%9B%EA%B8%B0-%EC%9C%84%ED%95%9C-http%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5703655a2257)
 * [멱등성이 뭔가요?](https://velog.io/@tosspayments/%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 * [HTTP Accept-Charset은 왜 deprecated 되었나](https://yeonyeon.tistory.com/303)
+* [Introduction to HLS. HLS(HTTP Live Streaming)를 제대로 파고들어야 겠다고… | by SeongHo Hong | Oct, 2023 | Medium](https://medium.com/@hongseongho/introduction-to-hls-e7186f411a02)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
