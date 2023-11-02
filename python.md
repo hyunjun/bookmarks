@@ -87,6 +87,15 @@ Python
   * [nogil: Multithreaded Python without the GIL](https://github.com/colesbury/nogil)
     * [Multithreaded Python without the GIL - YouTube](https://www.youtube.com/watch?v=W_e54RvADMU)
     * [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
+    * [Progress on no-GIL CPython LWN.net](https://lwn.net/Articles/947138/)
+      * 지난 7월 Python steering council이 Global Interpreter Lock(GIL)을 선택 사항으로 만들겠다는 제안 승인 발표, 그동안의 진행 과정을 정리한 글
+      * CPython 안정 ABI로 빌드된 확장 프로그램은 no-GIL CPython 3.13에서는 동작하지 않을 것
+        * 이에 대한 해결책으로 둘을 모두 지원하는 새로운 ABI를 만들자는 의견도 있고
+        * 확장 프로그램이 두 가지 빌드를 모두 만드는 것이 오히려 비용면에서 낫다는 의견도 존재
+      * 또한 이름에 대한 이슈도 있는데
+        * 사용자들이 테스트할 수 있도록 python3 외에 no-GIL도 설치해서 테스트해 봐야 하는데 python-nogil3, python-nogil3.13 등의 이름도 제안
+        * 반대로 GIL이 뭔지 일반적인 개발자들이 알 필요 없으므로 nogil이라는 단어를 사용하지 않아야 한다는 의견도 존재
+      * 이후 새로운 ABI인 abi4를 만들자는 아이디어를 채택해서 프로토타입을 개발 중이며 PEP가 필요하다는 데까지 합의가 된 상황
 * [“파이썬은 느리다”에 대한 반론 | 요즘IT](https://yozm.wishket.com/magazine/detail/1608/)
 * [Modern Python performance considerations LWN.net](https://lwn.net/Articles/893686/)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
