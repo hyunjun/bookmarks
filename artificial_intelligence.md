@@ -355,6 +355,8 @@ Artificial Intelligence
   * [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼 - YouTube](https://www.youtube.com/watch?v=7WCRhW1Z8NI)
   * [LangChain KR | 이런 질문을 Stackoverflow에 우선 올려놨습니다 | Facebook](https://www.facebook.com/groups/langchainkr/posts/2830384060430641/)
 * [flasma: High-performance vector search engine with no loss of accuracy through GPU and dynamic placement](https://github.com/sionic-ai/flasma)
+* [generative-ai-for-beginners: 12 Lessons, Get Started Building with Generative AI 🔗](https://github.com/microsoft/generative-ai-for-beginners)
+  * [Machine Learning for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
 * [imvectordb: Super simple in-memory vector DB for Node.js](https://github.com/golbin/imvectordb)
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
   * [Vector database - Milvus](https://milvus.io/)
