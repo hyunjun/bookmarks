@@ -2222,6 +2222,11 @@ Java
 * [Spring Boot Performance: How to Fine-Tune Your Application for High-Speed Results | Medium](https://medium.com/@harshgajjar7110/performance-tuning-and-optimization-tips-for-spring-applications-13fcf6ef8b44)
 * [VDBUH2023 - Laurențiu Spilcă - Everything in Spring Security 6 baked with a Spring Boot 3 recipe - YouTube](https://www.youtube.com/watch?v=ynt1CLsWXoo)
 * [Bootiful Spring Boot 3 by Josh Long - YouTube](https://www.youtube.com/watch?v=4QtW1KVZJRI)
+* [쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만났네 - 넷마블 기술 블로그](https://netmarble.engineering/spring-boot-3-0-native-image-on-kubernetes/) GraalVM, k8s, kubernetes
+  * 넷마블에서 JVM 이미지가 부팅 시간 때문에 팟이 늘어가는 데 걸리는 시간을 줄이기 위해 SpringBoot 3.0부터 GraalVM의 Native Image 생성 기능 도입
+  * 네이티브 이미지는 독립적으로 실행할 수 있도록 실행 환경에 맞춰서 빌드하므로 용량이 작고 부팅 시간도 크게 감소
+  * 네이티브 이미지를 만드는 방법을 설명하고 이를 적용하면서 GC 설정과 리소스 설정을 적용하면서 차이 설명
+  * 최종적으로는 50초였던 실행시간이 2초로 줄어들었고 이미지 크기도 300MB에서 70MB로 감소
 * [Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
