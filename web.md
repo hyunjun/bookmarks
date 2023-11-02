@@ -470,6 +470,7 @@ Web
 * [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
   * [잇창명 EatChangmyeong🪖 ~ 240207 on X: "흥미가 생기는 글이라서 전문을 번역해보기로 했다 &lt;한없이 무모한 웹 브라우저의 기능 확장&gt;" / X](https://twitter.com/EatChangmyeong/status/1705905639174951078)
   * 글 작성일 기준 W3C 명세 카탈로그의 총 단어 수는 1억 1400만 단어. C11, C++17, UEFI, USB 3.2, POSIX 명세와 지금까지 공개된 RFC 8,754건, 위키백과의 가장 긴 소설 목록의 모든 소설을 합쳐도 W3C 명세보다 1200만 단어 부족
+* [Browser Fingerprint의 동작 원리와 운영시 예상되는 이슈](https://ebay-korea.tistory.com/94)
 * [Baseline](https://web.dev/baseline/)
   * Chrome 팀에서 특정 웹 기능이 Chrome, Edge, Firefox, Safari 등 주요 버전에서 지원되는 지를 더 명확히 보여주어 웹에서 안정적으로 쓸 수 있는지를 판단할 수 있는 Baseline 공개
   * web.dev와 MDN에서 표시될 것이며 Interop 2022/2023에서 Apple, Microsoft, Mizilla와 협력해서 제작, 앞으로도 1년에 한 번씩 베이스라인을 발표할 예정
