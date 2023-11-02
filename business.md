@@ -494,6 +494,7 @@ Business
   * `엔지니어의 생산성만이 가장 중요한 자원은 아니다` -> 문서와 커뮤니케이션을 중시하자는 말
   * 이 정도로 이야기할 수 있다는 건 그만큼 엔지니어가 우대받는 문화의 회사이기 때문에 가능한 이야기
 * [지식 근로자의 생산성을 어떻게 끌어올릴 것인가(上)](https://brunch.co.kr/@graypool/1260)
+* [지식 근로자의 생산성을 어떻게 끌어올릴 것인가(中)](https://brunch.co.kr/@graypool/1295)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [회사 일이 재미없다면 이직만이 답인가? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/changejob20221129)
@@ -908,6 +909,7 @@ Business
   * [신입 개발자를 위한 완벽한 온보딩 가이드 | 요즘IT](https://yozm.wishket.com/magazine/detail/1778/)
 * [주니어 개발자의 온보딩을 도운 경험](https://velog.io/@joosing/experience-helped-on-boarding-of-junior-developer)
 * [병아리 개발자의 첫 웹뷰 개발기: 파일럿 프로젝트 | 우아한형제들 기술블로그](https://techblog.woowahan.com/10774/)
+* [인포그랩 DevOps 엔지니어는 어떻게 온보딩할까 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/23/infograb-devops-engineer/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1909,6 +1911,7 @@ Business
 * [닐 호인 : 구글 데이터분석 총괄, "지금의 마케팅으론 성공할 수 없다"](https://www.longblack.co/note/392?ticket=NTc496aef98e291d4d434144a964512b21bb9e94f7)
 * [B2B 마케팅 업무를 더 나아지게 만드는 지표들](https://brunch.co.kr/@yennyjeong/38)
 * [좋아 보이는 광고 소재의 비밀](https://brunch.co.kr/@cliche-cliche/191)
+* [0원으로 미국 유명 뉴스에 소개되기 (feat. CNET). Scalable 하지 않은 글로벌 마케팅을 하던 딜라이트룸 초기… | by Jaemyung Shin | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/0%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%AF%B8%EA%B5%AD-%EC%9C%A0%EB%AA%85-%EB%89%B4%EC%8A%A4%EC%97%90-%EC%86%8C%EA%B0%9C%EB%90%98%EA%B8%B0-feat-cnet-8511386cb335)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
