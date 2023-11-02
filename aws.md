@@ -502,6 +502,7 @@ AWS
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
 * [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
+* [Amazon GameLift Anywhere를 활용하여 다양한 AWS 서비스 연동하기 – Part1 : 컴퓨팅 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/integrating-using-amazon-gamelift-anywhere-1/)
 * [AWS를 활용하여 망간 파일전송 시스템 구축하기 | 뱅크샐러드](https://blog.banksalad.com/tech/how-we-transfer-files-in-network-separation-environment/)
 * [AWS Nitro System 기밀 컴퓨팅 기능에 대한 외부 검증 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-nitro-system-gets-independent-affirmation-of-its-confidential-compute-capabilities/)
 * [AWS Supply Chain 서비스를 활용하여 SAP ECC 데이터로 수요 예측하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-supply-chain-with-sap-ecc/)
@@ -523,6 +524,7 @@ AWS
 * [New – AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
   * [AWS, 2024년 2월 1일부터 공인 IPv4 주소에 대해서 비용 부과 시작 | GeekNews](https://news.hada.io/topic?id=10186)
 * [클라우드 데이터베이스 엔지니어의 역할 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/empowering-the-role-of-the-cloud-database-engineer/)
+* [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2347,6 +2349,7 @@ AWS
     * 이렇게 만들어진 모범 사례를 장려하고 자동화를 통해 배포 속도 향상 가능
 * [Streamlining Infrastructure Deployment: How to Run Terraform with Docker - DEV Community](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
 * [Automatically Provision AWS Resources with Terraform - DEV Community](https://dev.to/giftcup/automatically-provision-aws-resources-with-terraform-1dap)
+* [Terraform configmaps "aws-auth" already exists](https://jybaek.tistory.com/1009)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
@@ -2480,3 +2483,4 @@ AWS
 * [AWS WAF IP 어뷰징(ddos) 차단 사례. 플랫폼개발팀은 데이터베이스, 클라우드 인프라, 미디어 인프라를 개발과… | by Gntpapa | tving.team | Dec, 2022 | Medium](https://medium.com/tving-team/aws-waf-ip-%EC%96%B4%EB%B7%B0%EC%A7%95-ddos-%EC%B0%A8%EB%8B%A8-%EC%82%AC%EB%A1%80-2cdc552b7272)
 * [AWS WAF의 가장 중요한 세가지 속도 기반 규칙 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/three-most-important-aws-waf-rate-based-rules/)
 * [AWS WAF의 지능형 위협 완화 기능을 사용하여 교차 출처 API 액세스 처리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/using-aws-waf-intelligent-threat-mitigations-with-cross-origin-api-access/)
+* [AWS WAF Fraud Control을 통한 계정 생성 사기 방지하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/prevent-account-creation-fraud-with-aws-waf-fraud-control-account-creation-fraud-prevention/)
