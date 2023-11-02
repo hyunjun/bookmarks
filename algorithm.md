@@ -112,6 +112,10 @@ Algorithm
 * [입 개발 base64 가 있는데 base62 같은걸 왜 써야 하나요?](https://www.popit.kr/입-개발-base64-가-있는데-base62-같은걸-왜-써야-하나요)
 * [URL, HEX, BASE64 디코딩](https://www.popit.kr/url-hex-base64-%EB%94%94%EC%BD%94%EB%94%A9/)
 * [Base64 알고리즘](http://minsone.github.io/programming/algorithm-base64-encoding-decoding)
+* [Base64 Encoding, Explained](https://www.writesoftwarewell.com/base64-encoding-explained/)
+  * 개발하면서 자주 보는 Base64의 동작 방식을 RFC 4648을 공부하고 정리한 글
+  * 대소문자 알파벳, 숫자, +, /의 64개의 문자를 사용해서 Base64
+    * 주어진 텍스트를 이진 표현으로 변환한 뒤 각 비트를 6비트로 나누고 각 그룹을 0~63 사이의 소수로 변환한 뒤에 Base64 알파벳으로 변환
 * [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
 * [**Algorithm Top 10 Articles (v.November)**](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e)
