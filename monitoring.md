@@ -295,6 +295,8 @@ Monitoring
   * [카프카를 통해 전달되는 메시지의 테넌트 분리를 설계하기 위한 분들이 참고할 수 있는 전반적인 사항 소개](https://www.linkedin.com/posts/hoonjo_opentelemetry%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-kafka-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%85%8C%EC%8A%A4%ED%8A%B8-activity-7049979246282231808-lGBE/)
   * [Tracing NodeJs Applications with OpenTelemetry | by Fabio Reis | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/tracing-nodejs-applications-with-opentelemetry-624958d38d4d)
   * [Effective and Efficient Observability with OpenTelemetry - YouTube](https://www.youtube.com/watch?v=kh_IZlSj8DU)
+  * [Measuring Git performance with OpenTelemetry - The GitHub Blog](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
+    * Microsoft가 Windows나 Office의 저장소를 Git으로 마이그레이션 했을 때 300GB가 넘었고 역대 가장 큰 규모였기에 성능 개선이 필요했고 Git의 성능을 알 수 있도록 Trace2 기능을 Git에 포함했다. 이 Trace2만으로는 분석하기가 어렵기에 이를 OpenTelemetry로 수집할 수 있도록 오픈소스 수집기인 trace2receiver를 만들었다. 이를 통해 Git 명령어를 사용할 때 시간이 오래 걸리는 부분은 분석 추적해서 파악할 수 있게 되었다
 * [Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
   * [Vector를 활용해 멀티 CDN 로그 및 트래픽 관리하기](https://techblog.lycorp.co.jp/ko/managing-multi-cdn-logs-traffics-with-vector)
 
