@@ -733,7 +733,12 @@ Apache
   * [Practical Kafka – Concept (2) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-2/)
     * Consumer가 어떤 Partition을 가져가는지 결정하는 파티션 할당과 재할당이 이뤄지는 과정 설명
     * 새로 추가된 재할당 개선 기능으로 재할당을 삭제 후 추가되어도 진행하지 않는 Static Membership과 재할당이 필요한 Consumer만 진행하는 Incremental Rebalancing Protocol을 설명
-* [Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840)
+* [Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840/)
+  * Kafka를 사용할 때 기본적으로 파티션 하나당 하나의 컨슈머만 붙을 수 있기 때문에
+    * 컨슈머가 메시지가 발행되는 속도를 따라가지 못한다면 Lag가 쌓이기 때문에 파티션을 늘려야 함
+    * 이는 프로듀서하고도 논의해서 늘려야 하는 부분이고 한번 늘리면 줄일 수 없기 때문에 문제
+  * Parallel Consumer를 이용해서 파티션을 늘리지 않고 처리량을 늘리는 방법 설명
+    * 기본 컨슈머와 Parallel Consumer의 동작 차이를 설명하고 오프셋 갱신의 처리 방법, 순서 보장 방법을 자세히 설명
 * [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
 * [컨플루언트 김현수 상무 I 이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할 on Vimeo](https://vimeo.com/649824818)
 * [Building and Scaling a Control Plane for 1000s of Kafka Clusters - YouTube](https://www.youtube.com/watch?v=akv8jqgNScg)
