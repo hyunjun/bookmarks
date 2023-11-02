@@ -5150,6 +5150,27 @@ Javascript
   * [Next.js - Next.js 개발 환경 구축하기(1주차) - YouTube](https://www.youtube.com/watch?v=ODU2kq2Huxg)
   * [Next.js - 응용 Next.s 앱 만들어보기(2주차) - YouTube](https://www.youtube.com/watch?v=iyMW40QrYz8)
   * [Next.js - 다양한 Next.js 활용법 배우기(3주차) - YouTube](https://www.youtube.com/watch?v=AT0XKsmIhp8)
+  * [Why I Won't Use Next.js | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/why-i-wont-use-nextjs)
+    * Remix가 나오고 Remix를 계속 지지하던 Kent C. Dodds가 Next.js의 문제를 지적하는 글 작성
+    * React의 테스트 프레임워크인 Enzyme에 불만이 있어서 Testing Library 작성, 주요한 점은 이식성 때문
+      * Remix는 대부분 표준 웹 플랫폼을 그대로 이용, Remix에 익숙해 지면 웹에도 익숙해지지만 Next.js는 자신만의 API가 있어서 Enzyme과 비슷한 상황
+    * Next.js는 Vercel 외에는 배포하기가 어렵기 때문에 OpenNext가 나올 정도
+      * 이는 Vercel의 호스팅을 매력적으로 만들고자 한 것이지만 어디서나 배포할 수 있도록 하는 작업의 우선순위가 낮은 것은 분명
+      * Remix는 JavaScript를 실행할 수 있는 모든 곳에 배포할 수 있게 설계
+    * Meta가 React를 소유할 때도 불안했지만 Vercel이 React 팀원들을 데려간 이후에는 오히려 덜 협조적
+      * Vercel은 Next.js와 React의 경계를 모호하게 하는 듯
+    * Next.js의 안정적인 기능이 React에서는 카나리아 릴리스에 있는 이상한 상황이 종종 발생
+    * 너무 많은 마법을 사용하는 데 대표적으로 `fetch`를 재정의해서 자동 캐싱을 추가한 것
+  * [Why I'm Using Next.js | Lee Robinson](https://leerob.io/blog/using-nextjs)
+    * 위 Kent C. Dodds가 쓴 글에 Vercel의 VP of DX인 Lee Robinson가 반박 글 작성
+    * 웹 플랫폼을 그래도 이용해야 한다는 것에 동의하기에 Next.js도 2021년에는 미들웨어를 도입했고 이는 Remix가 출시된 해이기도 함
+      * 앱 라우터에서도 웹 플랫폼 API를 그대로 사용 가능
+    * Vercel은 Next.js를 Docker로 배포하는 방법에 대한 예제와 가이드를 하고 있고 셀프호스팅 할 수 있는 다양한 방법 존재
+      * 또한 Build Output API도 제공
+    * React와 Next.js의 경계를 모호하게 한다는 지적에 대해서는
+      * 고의가 아니며 React의 미래에 크게 걸고 있고 작업하는 중이며 경계를 명확하게 할 수 있도록 노력중
+    * `fetch`에 대한 마법도 개선하려고 노력중
+    * Next.js를 좋아하는 이유는 별도의 백엔드를 만들 필요가 없고 인프라 걱정 없이 앱을 만들 수 있으며 사이트를 따르게 하는 기능을 다양하게 제공한다는 점
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
