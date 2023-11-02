@@ -4345,6 +4345,7 @@ Programming
 * [Structuring your Infrastructure as Code | lbr.](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [The challenges of doing Infra-As-Code without "the cloud" — Nicolas Demarchi - YouTube](https://www.youtube.com/watch?v=ahx_3lKLQ3E)
 * [Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)
+* [스토리지 최적의 스펙 관리 시스템 만들기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13539/)
 * [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
   * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
   * [Red Hat joins the Backstage.io community | Red Hat Developer](https://developers.redhat.com/articles/2022/10/24/red-hat-joins-backstageio-community)
@@ -4599,6 +4600,7 @@ Programming
 * [Cross-Platform Mobile Development: Five Best Frameworks | SaM Solutions](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
 * [선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native - YouTube](https://www.youtube.com/watch?v=dLwEGT01S6E)
 * [내 주변 송금이 블루투스로 만들어졌다고? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bluetooth-remittance/)
+* [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by DelightRoom | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-3720aa09fbf5)
 * [Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
@@ -5298,6 +5300,7 @@ Programming
   * [기술 뉴스 #230 : 23-09-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1686)
   * [기술 뉴스 #231 : 23-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1687)
   * [기술 뉴스 #232 : 23-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1689)
+  * [기술 뉴스 #233 : 23-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1692)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
@@ -5535,6 +5538,7 @@ Programming
 * [쏘카의 대규모 인증토큰 트래픽 대응 : 프로젝트 플래닝 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2023/07/07/handling-authentication-token-traffic-02.html)
 * [서버 핀테크 개발자가 알려주는 시스템 개선.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223206574434)
 * [How to Avoid Refactoring Legacy Code HELL - YouTube](https://www.youtube.com/watch?v=Rryo6CoKamE)
+* [LMS 인증 로직을 리팩토링하며 발견한 문제점과 해결방안](https://f-lab.kr/blog/lms-auth-refactoring)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
