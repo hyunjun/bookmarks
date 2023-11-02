@@ -402,6 +402,7 @@ Linux
     * InfraStructure as Code 도구 중 하나인 Pulumi를 이용해서 AWS 리소스를 관리하는 방법 설명
     * Pulumi CLI와 Pulumi Cloud에 저장된 상태 파일을 이용해서 AWS 리소스를 관리하는 기본적인 사용 방법 설명
     * 기존 인프라를 임포트하거나 Pulumi에서 변경 사항을 업데이트하는 방법, AWS 콘솔에서 변경된 내용을 적용하는 방법 설명
+  * [Pulumi로 인프라 구축하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/10/26/pulumi/)
 * [salt](https://docs.saltstack.com/en/latest/topics/)
 
 # Book
