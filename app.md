@@ -335,6 +335,7 @@ App
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
 * [gatsby-casper](https://github.com/scttcper/gatsby-casper) blog
+* [고스트(Ghost)로 블로그 만들기](https://www.canda.blog/ghost-post/)
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 앱으로 만들고 키보드 단축키 연결하기](https://beomi.github.io/2017/03/28/Make-Capture-to-GDrive-App/)
