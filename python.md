@@ -3459,6 +3459,7 @@ Python
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
   * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
+    * [Working With bpython Enhanced REPL - YouTube](https://www.youtube.com/watch?v=zOQsVuw7jyA)
   * [bun: A Python package for a basic CLI and GUI user interface](https://github.com/caltechlibrary/bun)
     * [A Python package for a basic CLI and GUI user interface](https://pythonawesome.com/a-python-package-for-a-basic-cli-and-gui-user-interface/)
   * [Cookiecutter: Better Project Templates](https://cookiecutter.readthedocs.io/)
