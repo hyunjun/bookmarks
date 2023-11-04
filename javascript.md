@@ -644,6 +644,7 @@ Javascript
 * [How to quickly set up a build process for a static site](https://medium.freecodecamp.org/how-to-quickly-set-up-a-build-process-for-a-static-site-1a6e7923e105)
 * [How I got rid of the new sponsored Facebook posts](https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe)
 * [Make Audio Recordings with Actions on Google](https://medium.com/google-developers/make-audio-recordings-with-actions-on-google-3094158c2a2d)
+* [프런트엔드 영역에서 FileReader를 이용해 MP4 파일 내 오디오 존재 여부 확인하기](https://techblog.lycorp.co.jp/ko/check-mp4-file-has-audio-using-filereader-in-front-end)
 * [How to reverse a number in JavaScript](https://medium.freecodecamp.org/js-basics-how-to-reverse-a-number-9aefc20afa8d)
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
