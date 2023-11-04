@@ -1758,6 +1758,7 @@ Java
   * [Spring Data Rest #3 내부 동작](http://blog.woniper.net/347)
 * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
 * [Spring Security, MongoDB 연동 Login](http://scw0531.blog.me/221040449590)
+* [Spring Data MongoDB Repository 확장 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-data-mongo-repository/)
 * [Spring Security: The Good Parts by Daniel Garnier-Moiroux - YouTube](https://www.youtube.com/watch?v=TrCLf9zAQfs)
 * [WebSocket을 활용한 채팅 서비스 구현](http://scw0531.blog.me/221052774287)
 * [boost-spring-websocket](https://github.com/painkill2r/boost-spring-websocket)
