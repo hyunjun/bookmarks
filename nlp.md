@@ -1440,6 +1440,8 @@ NLP
 * [LLM세미나 LLM과 API의 만남 | Toolformer - YouTube](https://www.youtube.com/watch?v=mXvkM0cSIIw)
 * [LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)](https://slashpage.com/haebom/llm-model-test)
 * [Developing LLM Powered XApplications: A Low/No Code Chat Application using Prompt Flow (6/n) | by Madhusudhan Konda | Oct, 2023 | Medium](https://mkonda007.medium.com/developing-llm-powered-xapplications-a-low-no-code-chat-application-using-prompt-flow-6-n-464738fd6364)
+* [The Smallness of Large Language Models | September 2023 | Communications of the ACM](https://cacm.acm.org/magazines/2023/9/275686-the-smallness-of-large-language-models/abstract)
+  * [LLM의 한계에 대하여 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4656)
 * [PyCon KR 2023 MLOps, LLM 개발에 필요한 실전 파이썬 디자인 패턴 이태호 - YouTube](https://www.youtube.com/watch?v=CbpgjBTm0C4)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
