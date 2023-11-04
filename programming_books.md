@@ -4093,6 +4093,13 @@ Programming Books
 * [소프트웨어 엔지니어링 생산성 돌아보기 | 에이콘출판사](http://www.acornpub.co.kr/book/productivity-software/)
   * ★★★☆☆ 2023.04.22~23, 05.01 생산성에 대해 전반적으로 볼 수 있는 책. 여러가지 생산성 관련 주제를 폭넓게, (심지어 이런 걸 사용하는 측정을 실제로 하면 개발자들이 동의할까 싶은) 바이오메트릭 장치를 이용하는 측정까지 다룬다. 이렇게 다양하게 생산성에 대해 논의할 정도로 이 주제가 아직까지 정립된 방식이 없고 여전히 고민을 많이 해야 하는 어려운 주제라는 걸 알 수 있다.
   * 우당 문005.1-샤225ㅅ
+* [요즘 우아한 개발 - 골든래빗](https://goldenrabbit.co.kr/product/%ec%9a%94%ec%a6%98-%ec%9a%b0%ec%95%84%ed%95%9c-%ea%b0%9c%eb%b0%9c/)
+  * ★★★★☆ 2023.11.04 좋은 software 회사들은 여럿 있다. 기술 블로그를 통해 자사의 기술을 공개하고 개발자들에게 선한 영향력을 미치며 브랜딩에도 좋은 효과를 보기는 하지만 우아한 형제들같이 책까지 내면서 이런 활동 - 일종의 devrel - 을 하는 경우는 드물다. software 업계와 밀접하면서 동시에 최근에 책을 낸 회사들을 생각해보면 대표적으로 토스나 쿠팡이 있지만, 이 경우는 기술적인 내용과는 무관했다. 책의 내용은 이미 https://techblog.woowahan.com 를 통해 공개한 내용이고, 마지막에 각 소챕터를 읽을 수 있는 번호도 공개하고 있다. 몇몇 글들은 이미 읽어봤던 글이었지만, 기술 블로그에 있다고 해도 두고 두고 돌아볼 가치도 있어서 이렇게 책으로 나오는 게 의미가 있단 생각이 든다.
+  * [요즘 우아한 개발](https://github.com/hyunjun/bookmarks/blob/master/programming_books/woowahan.md)
+  * [요즘 우아한 개발. 좋은 software 회사들은 여럿 있다. 기술 블로그를 통해 자사의… | by Jun | Nov, 2023 | Medium](https://nymets.medium.com/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-%EA%B0%9C%EB%B0%9C-6b8dccc8e2a1)
+  * [요즘 우아한 개발 - Jun’s Substack](https://recur.substack.com/p/f1c)
+  * [요즘 우아한 개발](https://www.notion.so/1003/3390d4eaf7844da79789849ea9a05cdc)
+  * [요즘 우아한 개발](https://jh4hj.tistory.com/entry/%EC%9A%94%EC%A6%98-%EC%9A%B0%EC%95%84%ED%95%9C-%EA%B0%9C%EB%B0%9C)
 * (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
   * 한라 005.12-김68ㅅ
 * (NOT YET) [Code Complete 코드 컴플리트 2: 더 나은 소프트웨어 구현을 위한 실무 지침서 | 위키북스](https://wikibook.co.kr/code-complete-2/)
