@@ -418,6 +418,7 @@ Scala
 * [Actor Model(행위자 모델) — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Actor%EC%95%A1%ED%84%B0)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 * [Actor implementation experiments with ZIO | A toy zio actor implementation](https://stevechy.github.io/toyzioactortest/zio/actors/2023/03/22/zio-actor-experiments.html)
+* [Zymposium - Implementing Actors With ZIO - YouTube](https://www.youtube.com/watch?v=4K1xKb92WM0)
 
 # Akka
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
@@ -1052,6 +1053,7 @@ Scala
     * [Zymposium - ZIO HTTP: RC1 and Beyond - YouTube](https://www.youtube.com/watch?app=desktop&v=N8w3vU7K8ao)
     * [Zymposium - Preparing ZIO HTTP Release with John A. De Goes - YouTube](https://www.youtube.com/watch?v=ozHQmklDF2Y)
     * [Generating a Rust client library for ZIO Http endpoints](https://ziverge.com/blog/zio-http-rust/)
+    * [Zymposium: Auto-Generating OpenAPI Specs from ZIO HTTP with Nabil Abdel-Hafeez - YouTube](https://www.youtube.com/watch?v=f8wwS1anL1s)
     * [ZIO Schedule and Ref by Ruurtjan Pul - ZIO World 2022 - YouTube](https://www.youtube.com/watch?v=IeEPO6GT3wM)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
@@ -1145,6 +1147,7 @@ Scala
     * [Zymposium - ZIO Logging with Peter Kotula - YouTube](https://www.youtube.com/watch?v=LZD0voLnlco)
     * [The Next Generation Of Streaming by Adam Fraser - YouTube](https://www.youtube.com/watch?v=I1A6BPTjG-w)
     * [Vitalii Honta - Temporal Workflows with ZIO: Introduction](https://vhonta.dev/posts/zio-temporal-intro/)
+    * [Zymposium - ZIO Q&A - YouTube](https://www.youtube.com/watch?v=2EgN0t_vLy4)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1592,6 +1595,7 @@ Scala
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
   * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
   * Semigroup [Kittens High on Catnip - Squeaky Clean Type Class Derivation in Scala | by Kiril Yurovnik | Riskified Technology | Jan, 2021 | Medium](https://medium.com/riskified-technology/kittens-high-on-catnip-squeaky-clean-type-class-derivation-in-scala-395eba3c0f4e)
+* [Chartreuse](https://www.creativescala.org/chartreuse/)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
 * [CodePreview Preview environments with unlimited users for a fixed price | CodePreview](https://codepreview.io/)
@@ -1968,6 +1972,7 @@ Scala
   * [A tapir looms in the distance](https://softwaremill.com/a-tapir-looms-in-the-distance/)
   * [Episode 537: Adam Warski on Scala and Tapir : Software Engineering Radio](https://www.se-radio.net/2022/11/episode-537-adam-warski-on-scala-and-tapir/)
   * [L. Duzan, M. Baechler - When stateless APIs are not enough: deep dive into a reactive backend design - YouTube](https://www.youtube.com/watch?v=pAW5e3aZuk8) kafka conduktor, mapAccum zio
+  * [Custom logic from Accept header with Tapir | by Gaël Jourdan-Weil | Oct, 2023 | Medium](https://medium.com/@gaeljw/custom-logic-from-accept-header-with-tapir-80082f1de21d)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -2271,6 +2276,7 @@ Scala
 * [sbt-bintray: fresh packages delivered from your sbt console](https://github.com/sbt/sbt-bintray)
   * [Bintray to JFrog Artifactory migration status and sbt 1.5.1 | eed3si9n](https://eed3si9n.com/bintray-to-jfrog-artifactory-migration-status-and-sbt-1.5.1)
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
+* sbt-buildinfo [How we use sbt-buildinfo in production. - YouTube](https://www.youtube.com/watch?v=sAt0mwOVKAM)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * sbt-energymonitor [Announcing sbt-energymonitor | 47 Degrees](https://www.47deg.com/blog/sbt-energymonitor-plugin/)
@@ -2393,7 +2399,6 @@ Scala
 * [Ep 6: Functional error handling with applicative in Scala 3 - YouTube](https://www.youtube.com/watch?v=3GPXEzO14ZE)
 * [Scala 3: Match Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YiPQxIQZn5M)
 * [Match Types in Scala 3 - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-match-types/)
-* [Union and Intersection Types in Scala 3 | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/union-and-intersection-types-in-scala-3-6b5f7e818dc4)
 * [This Is Your App on Scala 3 by John A. De Goes - YouTube](https://www.youtube.com/watch?v=NY2ZkcYZj54)
 * [Explicit Nulls in Scala 3. Scala 3 has an optional feature which… | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c)
 * [Why Scala 3 will be awesome by Piotr Gołębiewski - YouTube](https://www.youtube.com/watch?v=lA37gzEiQw4)
@@ -2639,6 +2644,9 @@ Scala
 * [Full Stack Scala Project-Based Course with Typelevel | Rock the JVM](https://rockthejvm.com/p/typelevel-rite-of-passage)
   * [The Typelevel Rite of Passage: A Full-Stack Scala 3 Project-Based Course - YouTube](https://www.youtube.com/watch?v=gIcHeE5z7Oc)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
+* [Union and Intersection Types in Scala 3 | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/union-and-intersection-types-in-scala-3-6b5f7e818dc4)
+* [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
+* [Use Union Types Instea... | Hernan's Software Blog](https://blog.code-with-no-regrets.com/books/data-and-scala-tech-blogs/page/use-union-types-instead-of-eithere-a-for-a-more-efficient-validation)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [doobie - a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
     * [doobie](https://tpolecat.github.io/doobie/)
@@ -2665,7 +2673,6 @@ Scala
 * [Type-Level Programming in Scala: A Hardcore Tic-Tac-Toe - YouTube](https://www.youtube.com/watch?app=desktop&v=sqTtZ3BQnRQ)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
-* [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
 * [Intersection Type in Scala?](https://medium.com/@Methrat0n/intersection-type-in-scala-5320dedf5cf)
 * [Scala Snippets #2: Dependent Types in Scala — A practical example](https://medium.com/@manish.katoch/scala-snippets-2-dependent-types-in-scala-a-practical-example-4c41427e531e)
 * [Dependent Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/dependent-types)
