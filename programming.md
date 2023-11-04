@@ -4006,6 +4006,7 @@ Programming
 * [From Data Mess to Data Mesh: Navigating People, Process & Platforms • Nicki Watt • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=TONOUCAkfLE)
 * [Platform Building for Data Mesh - Show me how it is done! by Tom De Wolf - YouTube](https://www.youtube.com/watch?v=wG2g67RHYyo)
 * [Data - The Land DevOps Forgot • Michael Nygard • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=459-H33is6o)
+* [Streaming SQL in Data Mesh by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
