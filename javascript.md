@@ -2573,6 +2573,7 @@ Javascript
   * [드디어 WebGPU 혁명이다✨ 장단점. 사용법 설명해드림! - YouTube](https://www.youtube.com/watch?v=A3StcC2cD08)
   * [Introducing WebGPU: Unlocking Modern GPU Access for JavaScript - YouTube](https://www.youtube.com/watch?v=nUYe3a1mp6c)
   * [What you can do with WebGPU? By Corentin Wallez, François Beaufort - YouTube](https://www.youtube.com/watch?v=RR4FZ9L4AF4)
+  * [기술 라이브 웹GPU 특집 (종료 후 비공개) - YouTube](https://www.youtube.com/watch?v=CAuDshuQpIw)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
