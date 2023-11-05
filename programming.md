@@ -1742,6 +1742,8 @@ Programming
 * [kic-reference-architectures: MARA: Modern Application Reference Architecture](https://github.com/nginxinc/kic-reference-architectures)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 * [Software Architecture for Developers](https://softwarearchitecturefordevelopers.com/)
+* [clojure-polylith-realworld-example-app: Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API](https://github.com/PEZ/clojure-polylith-realworld-example-app/tree/master)
+  * [Understanding Polylith through the lens of Hexagonal architecture | by Joakim Tengstrand | Nov, 2023 | Medium](https://medium.com/@joakimtengstrand/understanding-polylith-through-the-lens-of-hexagonal-architecture-8e7c8757dab1)
 
 ## Architecture CQRS & Event Sourcing
 * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
