@@ -1728,6 +1728,7 @@ Java
 * [009. Java Persistence API | LinkedIn](https://www.linkedin.com/pulse/009-java-persistence-api-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
 * ['📚 시리즈/- 배워보자 Spring Data JPA' 카테고리의 글 목록](https://wonit.tistory.com/category/%F0%9F%93%9A%20%EC%8B%9C%EB%A6%AC%EC%A6%88/-%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90%20Spring%20Data%20JPA)
 * [LazyInitializationException in SpringBoot JPA | could not initialize proxy – no Session | SpringBoot - YouTube](https://www.youtube.com/watch?v=XbT5oRJFp2E)
+* [스프링 JPA 연관 필드, LazyInitializationException 발생 관련 개념 정리 – 형우의 웹개발](https://mytory.net/archives/15332)
 * [Spring Data JPA @Query Example - Tutorial](https://javarevisited.blogspot.com/2021/09/spring-data-jpa-query-example-tutorial.html)
 * [Spring Data JPA에서의 페이지네이션과 정렬](https://hudi.blog/spring-data-jpa-pagination/)
 * [JPA Paging Performance 향상 방법 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/page-performance/)
