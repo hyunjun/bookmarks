@@ -1037,6 +1037,7 @@ NLP
 * [채팅 프로그램 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222027725523)
 * [Build a Collaborative Chatbot with Google Sheets and TensorFlow | Jonathan Bgn](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
 * [Build A Simple Chatbot In Python With Deep Learning | by Kurtis Pykes | Mar, 2021 | Towards Data Science](https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758)
+* [ChatGPT AP: Function Calling with Python JSON Output Example - YouTube](https://www.youtube.com/watch?v=BQWi3R6-TfM)
 * [Blender, Facebook State-of-the-Art Human-Like Chatbot, Now Open Source](https://www.infoq.com/news/2020/04/facebook-blender-chatbot/)
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
   * [Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
