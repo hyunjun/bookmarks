@@ -635,6 +635,7 @@ NoSQL
 * [Building a Full Stack App with Supabase, React, Next.js and TailwindCSS](https://morioh.com/p/f55788332af3)
 * [db trigger를 활용해 supabase signUp 후에 users table에 데이터 추가하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/supabase/db-trigger%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-supabase-signUp-%ED%9B%84%EC%97%90--users-table%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 * [supabase + typescript DB schema 연동하기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/supabase/supabase-+-typescript-db-schema-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/)
+* [파이어베이스 킬러? 요즘 대세는 수파베이스! - YouTube](https://www.youtube.com/watch?v=tvX9f8FqMFI)
 
 # SurrealDB
 * [surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
