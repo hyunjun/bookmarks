@@ -377,6 +377,14 @@ Book
 * CEO라는 직업 [책 CEO가 되고 싶은 당신을 위한 필독서...카카오 남궁훈의 'CEO라는 직업' < 피플 < 뉴스 < 기사본문 - 테크M](https://www.techm.kr/news/articleView.html?idxno=112519)
   * ★★☆☆☆ 2023.09.23
   * 제주 325.24-남17씨
+* [우리에게는 다른 데이터가 필요하다](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=324002426)
+  * 2023.11.05 ★★★★☆
+  * 한라 350.1-김73ㅇ
+  * [우리에게는 다른 데이터가 필요하다](https://github.com/hyunjun/bookmarks/blob/master/books/civic_data.md)
+  * [우리에게는 다른 데이터가 필요하다. 2023.11.05 ★★★★☆ | by Jun | Nov, 2023 | Medium](https://nymets.medium.com/tags-data-scientist-data-science-management-date-november-5-2023-score-11f7fad46111)
+  * [우리에게는 다른 데이터가 필요하다 - Jun’s Substack](https://recur.substack.com/p/5f9)
+  * [우리에게는 다른 데이터가 필요하다](https://jh4hj.tistory.com/entry/%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4)
+  * [우리에게는 다른 데이터가 필요하다](https://www.notion.so/1003/e07cb883f2e24905a28766f4098dda9f)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
