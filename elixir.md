@@ -293,8 +293,9 @@ Elixir
 * [pogo: Distributed supervisor for clustered Elixir applications](https://github.com/team-telnyx/pogo)
   * [Pogo - distributed supervisor for Elixir](https://szajbus.dev/elixir/2023/05/22/pogo-distributed-supervisor-for-elixir.html)
 * [rustler: Safe Rust bridge for creating Erlang NIF functions](https://github.com/rusterlium/rustler)
-  * [NIF with Rustler](https://presentation.seokmin.dev/presentations/nif#/)
+  * [Pixel Wars: Elixir and Rust Join Forces for Image Domination | by Hassan Raza | Oct, 2023 | Medium](https://hassanrsiddiqi.medium.com/pixel-wars-elixir-and-rust-join-forces-for-image-domination-f5664915df46?)
   * [nif-elixir-example](https://github.com/SeokminHong/nif-elixir-example)
+    * [NIF with Rustler](https://presentation.seokmin.dev/presentations/nif#/)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
 * telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
 
