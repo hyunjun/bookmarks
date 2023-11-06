@@ -2083,6 +2083,7 @@ Business
 * [리멤버에서 UT(사용자 테스트)는 어떻게 진행하나요? - DRAMA&COMPANY](https://blog.dramancompany.com/2023/09/how-to-ux-research/)
 * [푸시 클릭율 6배를 만든 고객집중 | by 송효진 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%ED%91%B8%EC%8B%9C-%ED%81%B4%EB%A6%AD%EC%9C%A8-6%EB%B0%B0%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%A0%EA%B0%9D%EC%A7%91%EC%A4%91-2811bf0a15c7)
 * [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
+* [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
