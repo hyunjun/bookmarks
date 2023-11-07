@@ -2232,6 +2232,8 @@ Programming
 * [Micro Frontend Architecture. Before diving into the micro front-end… | by Muhammad Anser | Level Up Coding](https://levelup.gitconnected.com/micro-frontend-architecture-794442e9b325)
 * [What Are Micro-frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=-thWgobMW_I)
 * [if(kakao)dev2022 마이크로 프론트엔드 실무에 쓸만할까?](https://if.kakao.com/2022/session/82)
+* [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
+* [**FEConf 2023 대형 웹 애플리케이션 Micro Frontends 전환기 - Speaker Deck**](https://speakerdeck.com/mmmaxkim/feconf-2023-daehyeong-web-aepeulrikeisyeon-micro-frontends-jeonhwangi)
 * [Module Federation: the Federated Applications Revolution - YouTube](https://www.youtube.com/watch?v=RRRBJBVqbG0)
 * [Module Federation의 컨셉과 작동 원리 이해하기](https://maxkim-j.github.io/posts/module-federation-concepts/)
   * 모듈 단위로 배포 후 브라우저 런타임에서 합체시키는 Module Federation 설명
@@ -2242,7 +2244,6 @@ Programming
   * Webpack 5에서 Module Federation을 지원하기 때문에 어떻게 동작하는지 설명
 * [react-native 에 모듈 페더레이션 더하기 (with. RePack) | by Jerrynim | 직방 기술 블로그 | Oct, 2023 | Medium](https://medium.com/zigbang/react-native-%EC%97%90-%EB%AA%A8%EB%93%88-%ED%8E%98%EB%8D%94%EB%A0%88%EC%9D%B4%EC%85%98-%EB%8D%94%ED%95%98%EA%B8%B0-with-repack-12288f15e617)
 * [Micro-Frontends with Module Federation: Beyond the Basics • Manfred Steyer • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=MJnCWffd7ZY)
-* [Micro Frontends in Action! by Peter Eijgermans - YouTube](https://www.youtube.com/watch?v=Fmu2PNWxC6I)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -6226,6 +6227,7 @@ Programming
 * [동일한 할인 폭, 다른 결과. 할인 실험에서 중요한 또 다른 변수들 | by Stephan Seunghwan Seo | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/%EB%8F%99%EC%9D%BC%ED%95%9C-%ED%95%A0%EC%9D%B8-%ED%8F%AD-%EB%8B%A4%EB%A5%B8-%EA%B2%B0%EA%B3%BC-89d5cd367378)
 * [테스트한 만큼만 확신할 수 있다 | 웹으로 말하기](https://mytory.net/archives/14280)
 * [실험 0건인 조직에서, 가장 실험을 활발하게 하는 조직 되기 (B마트의 실험문화 빌드업 과정) | 우아한형제들 기술블로그](https://techblog.woowahan.com/13726/)
+* [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
     * [AB Testing 101 | Fmr. Google Data Scientist Explains How to Calculate the Sample Size - YouTube](https://www.youtube.com/watch?v=KC1nwY7YCUE)
