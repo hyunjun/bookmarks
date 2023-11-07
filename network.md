@@ -246,6 +246,7 @@ Network
 * [멱등성이 뭔가요?](https://velog.io/@tosspayments/%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 * [HTTP Accept-Charset은 왜 deprecated 되었나](https://yeonyeon.tistory.com/303)
 * [Introduction to HLS. HLS(HTTP Live Streaming)를 제대로 파고들어야 겠다고… | by SeongHo Hong | Oct, 2023 | Medium](https://medium.com/@hongseongho/introduction-to-hls-e7186f411a02)
+* [GET, POST, PUT... Common HTTP “verbs” in one figure](https://www.linkedin.com/feed/update/urn:li:activity:7127335139990200320/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
