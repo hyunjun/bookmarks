@@ -186,6 +186,7 @@ Elixir
   * [Ash Primer: Migration Generator - YouTube](https://www.youtube.com/watch?v=GtsL_lIis4Q)
   * [Early thoughts on using Ash Framework to produce a GraphQL API. - YouTube](https://www.youtube.com/watch?v=ZeMuXWrRq80)
 * [async-elixir: Learn all about asynchronous elixir](https://github.com/Arp-G/async-elixir)
+* [Beware of dragons in the dungeons](https://kevin-avignon.gitbook.io/beware-of-dragons/)
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [boruta-server: Lightweight Identity and Access Management server](https://github.com/malach-it/boruta-server)
   * [boruta-server: Lightweight Identity and Access Management server - 25 October 2022](https://www.loom.com/share/77006360fdac44bc9113fab9cf30aba5)
