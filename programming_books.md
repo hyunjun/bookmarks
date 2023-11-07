@@ -3485,6 +3485,7 @@ Programming Books
   * [로드맵 전환 과정에서 모호함 다루기](https://brunch.co.kr/@graypool/988)
   * [프로덕트는 팀 스포츠다](https://brunch.co.kr/@graypool/1025/)
   * [프로덕트 리더의 성공을 위한 공식](https://brunch.co.kr/@graypool/1062)
+  * [프로덕트의 전략적 로드맵을 만드는 균형 잡기](https://brunch.co.kr/@graypool/1279)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 
 # Programmer, 자기계발?
