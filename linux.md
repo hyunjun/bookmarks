@@ -1253,6 +1253,7 @@ Linux
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
   * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+  * [FZF로 ZSH 터미널 더 강력하게 사용하기. 이번 포스팅은 정말 쉽고 빠르고 좋은 검색기 FZF를 이용해서 터미널을… | by Harry The Great | 해리의 유목코딩 | Medium](https://medium.com/harrythegreat/fzf%EB%A1%9C-zsh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-730c20eb496b)
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript](https://github.com/ajitid/fzf-for-js)
     * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
