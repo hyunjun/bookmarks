@@ -1542,6 +1542,7 @@ Programming Books
   * (NOT YET) [“케라스 창시자에게 배우는 딥러닝 2판”이 출간되었습니다! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2022/08/17/%ec%bc%80%eb%9d%bc%ec%8a%a4-%ec%b0%bd%ec%8b%9c%ec%9e%90%ec%97%90%ea%b2%8c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%94%a5%eb%9f%ac%eb%8b%9d-2%ed%8c%90%ec%9d%b4-%ec%b6%9c%ea%b0%84%eb%90%98%ec%97%88%ec%8a%b5/)
     * 탐라 문004.73-숄233ㅋ
     * [케라스 창시자에게 배우는 딥러닝 - 초간단 리뷰](https://lazymatlab.tistory.com/157)
+    * [deep-learning-with-python-2nd: <케라스 창시자에게 배우는 딥러닝 2판> 도서의 코드 저장소](https://github.com/rickiepark/deep-learning-with-python-2nd)
 * [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
   * 2017.12
   * 한라 004.73 스15ㅈ
@@ -1595,6 +1596,7 @@ Programming Books
   * [머신러닝의 바이블, 핸즈온 머신러닝 2판을 읽고](https://brunch.co.kr/@synabreu/74)
   * [핸즈온 머신러닝 2](https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
   * (NOT YET) [“핸즈온 머신러닝 3판”이 출간되었습니다! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/09/08/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3%ED%8C%90%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4/)
+  * [“머신러닝, 딥러닝 어떻게 공부할 것인가!” | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/11/07/%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-%eb%94%a5%eb%9f%ac%eb%8b%9d-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%b5%eb%b6%80%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80/)
 * (NOT YET) 텐서플로로 시작하는 딥러닝
   * 2017.07 탐라
   * [텐서플로로 시작하는 딥러닝](https://github.com/jpub/tensorflowdeeplearning)
