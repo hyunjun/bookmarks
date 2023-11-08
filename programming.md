@@ -4371,6 +4371,8 @@ Programming
   * [Port - YouTube](https://www.youtube.com/@getport)
   * [Ocean Software Catalog Extensibility “Framework” - YouTube](https://www.youtube.com/watch?v=w7VpEZOB1l4)
   * [Setting Up an Internal Developer Portal With IaC and Pulumi - YouTube](https://www.youtube.com/watch?v=097z9NVNC8I)
+* [Radius](https://radapp.io/)
+  * [Introducing Radius: A new open-source project for teams building cloud-native apps - YouTube](https://www.youtube.com/watch?v=mT_NWFnYn0A)
 * [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
