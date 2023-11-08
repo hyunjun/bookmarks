@@ -2229,6 +2229,7 @@ Java
   * 네이티브 이미지는 독립적으로 실행할 수 있도록 실행 환경에 맞춰서 빌드하므로 용량이 작고 부팅 시간도 크게 감소
   * 네이티브 이미지를 만드는 방법을 설명하고 이를 적용하면서 GC 설정과 리소스 설정을 적용하면서 차이 설명
   * 최종적으로는 50초였던 실행시간이 2초로 줄어들었고 이미지 크기도 300MB에서 70MB로 감소
+* [실전! Spring Boot 3 마이그레이션](https://techblog.lycorp.co.jp/ko/how-to-migrate-to-spring-boot-3)
 * [Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
