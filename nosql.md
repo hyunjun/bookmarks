@@ -595,6 +595,7 @@ NoSQL
 * [Libplanet RocksDB 적용기](https://snack.planetarium.dev/kor/2020/04/rocksdb/)
 * [RocksDB Is Eating the Database World | Rockset](https://rockset.com/blog/rocksdb-is-eating-the-database-world/)
 * [Ribbon Filter | RocksDB](http://rocksdb.org/blog/2021/12/29/ribbon-filter.html)
+* [Local key-value 스토리지가 고민일땐 RocksDB 어때?](https://d2.naver.com/helloworld/5053838)
 
 # RYE
 * [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
