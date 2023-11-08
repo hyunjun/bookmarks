@@ -4201,6 +4201,7 @@ Programming
 * [웹 개발에서 DevOps의 역할 | AppMaster](https://appmaster.io/ko/blog/web-gaebalyi-debeuobseu)
 * [Dark Side of DevOps - YouTube](https://www.youtube.com/watch?v=iNqD6W_ubvo)
 * [해커톤에서 10분에 한 번 배포하기 (해커톤을 위한 DevOps) — 생존과 성장 사이](https://dokdo2013.tistory.com/13)
+* [Expert Labs로 DevOps 실무 역량 똑똑하게 키우는 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/06/how-to-be-a-devops-engineer/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
