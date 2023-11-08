@@ -52,6 +52,7 @@ Anomaly Detection
 * [이상 탐지 1부-정상과 비정상, 그리고 이상 탐지 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/362)
 * [이상 탐지 2부-통계적 기법으로 이상 탐지하기 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/366)
 * [이상 탐지 3부-머신 러닝으로 이상 탐지하기 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/368)
+* [이상 탐지 4부-딥 러닝으로 이상 탐지하기 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/375)
 * [배민 앱 리뷰 품질을 향상시킨 방법은? 머신 러닝 X 네트워크 탐지 모델 도입 | 우아한형제들 기술블로그](https://techblog.woowahan.com/11829/)
 * [Alexander Vosseler: BHAD - Explainable unsupervised anomaly detection using Bayesian histograms - YouTube](https://www.youtube.com/watch?v=_8zfgPTD-d8)
 
