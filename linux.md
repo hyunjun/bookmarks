@@ -1110,6 +1110,7 @@ Linux
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
+* [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
 
 # GCC
