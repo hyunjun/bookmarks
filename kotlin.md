@@ -419,6 +419,7 @@
   * [kotlinx.coroutines - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/kotlinx.coroutines)
 
 # Kotlin Multiplatform Mobile KMM
+* [크로스 플랫폼 개발을 위한 Kotlin Multiplatform | JetBrains](https://www.jetbrains.com/ko-kr/kotlin-multiplatform/)
 * [Improving shared architecture for a Kotlin Multiplatform, Jetpack Compose and SwiftUI app | Marco Gomiero](https://www.marcogomiero.com/posts/2022/improved-kmm-shared-app-arch/)
 * [My Experience After Using Kotlin Multiplatform in Production Apps for a Year | by Harshith Shetty | Jul, 2022 | Better Programming](https://betterprogramming.pub/experience-using-kmp-in-production-apps-for-a-year-2474406d99d4)
 * [Build an iOS & Android app in 100% Kotlin with Compose Multiplatform - YouTube](https://www.youtube.com/watch?v=5_W5YKPShZ4)
