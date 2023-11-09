@@ -367,12 +367,15 @@ Artificial Intelligence
   * [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
     * [The Rise of Vector Data - YouTube](https://www.youtube.com/watch?v=hw2ZS5CVs8s)
   * [Building a Document-based Question Answering System with LangChain, Pinecone, and LLMs like GPT-4. - YouTube](https://www.youtube.com/watch?v=cVA1RPsGQcw)
+  * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #1](https://bcho.tistory.com/1399)
+  * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #2 - 임베딩과 유사도 검색](https://bcho.tistory.com/1400)
   * [7-docs](https://github.com/7-docs)
     * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
       * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
       * 이 과정의 결과물로 7-docs라는 프로젝트 공개
   * [liner-pdf-chat-tutorial: LINER PDF Chat Tutorial with ChatGPT & Pinecone](https://github.com/liner-engineering/liner-pdf-chat-tutorial)
-* [Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov) - YouTube](https://www.youtube.com/watch?v=bU38Ovdh3NY)
+* [Qdrant - Vector Database](https://qdrant.tech/)
+  * [Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov) - YouTube](https://www.youtube.com/watch?v=bU38Ovdh3NY)
 * [Timescale Vector is PostgreSQL++ for AI applications | Timescale](https://www.timescale.com/ai)
   * [Timescale Vector x LlamaIndex: Making PostgreSQL a Better Vector Database for AI Applications | by Jerry Liu | Sep, 2023 | LlamaIndex Blog](https://blog.llamaindex.ai/timescale-vector-x-llamaindex-making-postgresql-a-better-vector-database-for-ai-applications-924b0bd29f0)
 * [vectorai: Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors](https://github.com/vector-ai/vectorai)
