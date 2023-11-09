@@ -3563,6 +3563,8 @@ Programming
 * [CICD Integration tools and best practices as per stage Razorops Webinars | Razorops](https://razorops.com/webinars/cicd-integration-tools-and-best-practices-as-per-stage/)
 * [GitLab CI/CD pipeline con i custom runners e Docker - YouTube](https://www.youtube.com/watch?v=yHBgQoGcu_o)
 * [What is CI/CD | GitLab?. Automate your software development… | by S3CloudHub | Aug, 2022 | Medium](https://s3cloudhub.medium.com/what-is-ci-cd-gitlab-4c014f4499ca)
+* [GitLab CI/CD와 Jenkins는 무엇이 다를까? | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/08/10/gitlab-jenkins-comparision/)
+  * [CI/CD 파이프라인 도구 Jenkins와 GitLab CI/CD 비교 | GeekNews](https://news.hada.io/topic?id=11763)
 * [Practical Tips & Tricks for CI/CD Success • Zan Markan • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=sDMBdcquxl4)
 * [하루에도 10번 배포하는 Flutter 앱 CI/CD 구축하기 | by 아테나스랩 | 아테나스랩 팀블로그 | Oct, 2022 | Medium](https://medium.com/athenaslab/%ED%95%98%EB%A3%A8%EC%97%90%EB%8F%84-10%EB%B2%88-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-flutter-%EC%95%B1-ci-cd-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-9f2fbe080c2b)
 * [Continuous Integration/Continuous Deployment” in Telecommunications by Ioannis Mylonas - YouTube](https://www.youtube.com/watch?v=bP8EJrWtuNI)
@@ -6424,6 +6426,8 @@ Programming
   * 이번에 공개된 제로데이 취약점 HTTP/2 Rapid Reset가 Cloudflare뿐 아니라 Google이나 AWS에도 공격이 있었음을 알게 되고 협력해서 해당 공격에 대처
   * HTTP/2는 스트림을 동시에 여러 개 열 수 있고 클라이언트는 스트림 취소 가 가능
   * 이번 HTTP/2 Rapid Reset는 빠르게 취소 요청을 보내서 서버 쪽에서 스트림 종료 처리에 걸리는 시간을 이용해 서비스 거부 공격을 발생
+* [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+  * [Cloudflare 장애 관련 타임라인 정리](https://www.facebook.com/jongho.seo.5811/posts/pfbid028zC6CmdrATz7JybUeZipr3vrNQxtjq62JD31mAUYftqTEzJ2PDnQoYEReCCNUKitl)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
