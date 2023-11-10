@@ -241,6 +241,7 @@ Scala
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
 * [Benchmarking Functional Error Handling in Scala](https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/) EitherT
 * [comparative-benchmarks.md](https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292)
+* [Rendezvous Benchmark Analysis: When Threads (Don't) Meet - DEV Community](https://dev.to/fwbrasil/rendezvous-benchmark-analysis-when-threads-dont-meet-3k3e)
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
@@ -358,6 +359,7 @@ Scala
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 2 - YouTube](https://www.youtube.com/watch?v=IY7WglVTBFo)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3 - YouTube](https://www.youtube.com/watch?v=gmwNDYWRprE)
 * [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 4 - The Grand Finale - YouTube](https://www.youtube.com/watch?v=LAjwu6qtMvU)
+* [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 5 - Less Boilerplate Please - YouTube](https://www.youtube.com/watch?v=SQengjF8gXs)
 * [Dependency management in Scala | Anton Kovalevsky](https://antonkw.github.io/applications/architecture/)
 * [100 Integration Tests Per Second - ZIO Meets Hexagonal Architecture by Piotr Gabryanczyk - YouTube](https://www.youtube.com/watch?v=4W_aZUOzEow)
 * [Concurrent Sudoku Solver: Part 1 - Single Candidate Technique + Domain Modelling | by Farooq Qaiser | May, 2022 | Medium](https://medium.com/@fqaiser94/concurrent-sudoku-solver-part-1-single-candidate-technique-domain-modelling-6c885a1e4ef3)
@@ -1083,6 +1085,8 @@ Scala
     * [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=wOX3LpLEQ00)
     * [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=nPT_7gIeyMY)
     * [Getting started with ZIO, part 1](https://softwaremill.com/getting-started-with-zio-part-1/)
+    * [Getting started with ZIO, part 2](https://softwaremill.com/getting-started-with-zio-part-2/)
+    * [Getting started with ZIO, part 3](https://softwaremill.com/getting-started-with-zio-part-3/)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * [Home | Ziverge](https://ziverge.com/blog/)
@@ -1746,6 +1750,7 @@ Scala
   * [Scala CLI Tutorial: Building and Running Scala, Directives, Scala Native and a Pure Sudoku Solver - YouTube](https://www.youtube.com/watch?v=KZw0wjSDA6g)
   * [Exploring Scala CLI — the new scala runner | by Piotr Chabelski | VirtusLab | Feb, 2023 | Medium](https://medium.com/virtuslab/exploring-scala-cli-the-new-scala-runner-4b958245c2e0)
   * [Replacing sbt with scala-cli in a simple project | wiringbits](https://wiringbits.net/blog/replacing-sbt-with-scala-cli-in-a-simple-project)
+  * [How scala-cli Shines in Automation | by Tiago Mota | SwissBorg Engineering | Nov, 2023 | Medium](https://medium.com/swissborg-engineering/how-scala-cli-shines-in-automation-e14c9bc80534)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -2536,6 +2541,8 @@ Scala
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
   * [Getting started with Scala.js, Laminar and ScalablyTyped | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=UePrOa_1Am8)
+  * [Laminar & Scala.js Full Stack Demo & More · Laminar](https://laminar.dev/blog/2023/11/02/laminar-full-stack-demo)
+  * [Harness the power of Web Components with Scala and Laminar | by Antoine Doeraene | Nov, 2023 | Medium](https://antoine-doeraene.medium.com/harness-the-power-of-web-components-with-scala-and-laminar-03d99b461f37)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 * [scala-webapp-template: A pragmatic skeleton to build web applications in Scala/Scala.js, including user registration, login, admin portal, and, deployments](https://github.com/wiringbits/scala-webapp-template)
@@ -2640,6 +2647,8 @@ Scala
 * [Algebra and Parametricity](https://about.chatroulette.com/posts/algebra-parametricity/)
 * [Michael Perruca - Constraint Typing with Boolean Algebra | Scala Days 2023 Seattle - YouTube](https://www.youtube.com/watch?v=MppnmNd8YKI)
 * [Far more than you've ever wanted to know about ADTs](https://nrinaudo.github.io/far-more-adt) Enumeration, DSL, Option
+* [ADTs in Scala (Part 1: Definition) - YouTube](https://www.youtube.com/watch?v=WlmShagN2pc)
+* [ADTs in Scala (Part 2: ADTs vs OO-Classes) - YouTube](https://www.youtube.com/watch?v=ZcJI6ykHk9A)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Full Stack Scala Project-Based Course with Typelevel | Rock the JVM](https://rockthejvm.com/p/typelevel-rite-of-passage)
   * [The Typelevel Rite of Passage: A Full-Stack Scala 3 Project-Based Course - YouTube](https://www.youtube.com/watch?v=gIcHeE5z7Oc)
