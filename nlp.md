@@ -848,6 +848,7 @@ NLP
   * [ChatGPT 코드 인터프리터로 데이터 시각화하기 - YouTube](https://www.youtube.com/watch?v=Uimu7kun5zw)
   * [국가통계포털 KOSIS 경기종합지수 ChatGPT와 함께 파이썬으로 분석하기 - YouTube](https://www.youtube.com/watch?v=c62S-WZtVJ4)
   * [OpenAI DevDay, Opening Keynote](https://share.summaryapp.io/ko/6549854a8205d6248893efce)
+  * [ChatGPT-3.5(free) + Colab | Pega Devlog](https://jehyunlee.github.io/2023/11/10/Python-DS-133-afore2023/)
   * [AgentGPT](https://agentgpt.reworkd.ai/)
     * [코딩,인스톨 없이 Auto-GPT를 간편하게 사용하자: AgentGPT - YouTube](https://www.youtube.com/watch?v=YIvwK9ZH-Rw)
   * [AIFactory](https://aifactory.space/competition/2286/discussion/188)
