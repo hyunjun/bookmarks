@@ -369,6 +369,7 @@ Artificial Intelligence
   * [Building a Document-based Question Answering System with LangChain, Pinecone, and LLMs like GPT-4. - YouTube](https://www.youtube.com/watch?v=cVA1RPsGQcw)
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #1](https://bcho.tistory.com/1399)
   * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #2 - 임베딩과 유사도 검색](https://bcho.tistory.com/1400)
+  * [ChatGPT에 텍스트 검색을 통합하는 RAG와 벡터 데이터 베이스 Pinecone #3 Pinecone 둘러보기](https://bcho.tistory.com/1401)
   * [7-docs](https://github.com/7-docs)
     * [Using OpenAI with JavaScript](https://www.webpro.nl/articles/using-openai-with-javascript)
       * OpenAI의 chat/completions과 embeddings 2개의 엔드포인트와 Pinecone을 이용해서 자신만의 콘텐츠로 챗봇을 구성할 수 있는 가이드를 설명하는 글
