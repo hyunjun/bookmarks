@@ -552,6 +552,8 @@
 * [외부 인프라스트럭처 테스트 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/external-infrastructure-testing/)
 * [KotlinConf 2018 - Best Practices for Unit Testing in Kotlin by Philipp Hauer - YouTube](https://www.youtube.com/watch?v=RX_g65J14H0)
 * [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/9440/)
+* [fixture-monkey: Let Fixture Monkey generate test instances including edge cases automatically](https://github.com/naver/fixture-monkey)
+  * [Fixture Monkey 1.0.0 정식 버전 릴리즈](https://d2.naver.com/news/2459981)
 * [karat: Alloy within Kotlin](https://github.com/47degrees/karat)
   * [Scala and Kotlin Under One Roof - Xebia](https://xebia.com/blog/scala-and-kotlin-under-one-roof/)
 * [Kotest | Kotest](https://kotest.io/)
