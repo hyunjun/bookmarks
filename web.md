@@ -1496,6 +1496,7 @@ Web
   * [파이썬 Streamlit 활용 - Short URL에 Qrcode기능을 포함 #python #업무자동화 - YouTube](https://www.youtube.com/watch?v=0oMoISj27Is)
   * [파이썬 스트림릿으로 데이터 대시보드 만들기 | 요즘IT](https://yozm.wishket.com/magazine/detail/1827/)
   * [1.뭔신(神)? 머신러닝(Machine Learning) 웹 앱 서비스 만들기 - 스트림릿(Streamlit) 강좌- 단 8줄의 코드로 테슬라 주가 차트 파이썬 웹 앱 만들기 - YouTube](https://www.youtube.com/watch?v=WbPcchFSELM)
+  * [Streamlit 웹개발 한번에 끝내기! - YouTube](https://www.youtube.com/playlist?list=PLR4H8X__Qok291XbTXW-9u_u-9XHynfmT)
   * [ipyvizzu](https://ipyvizzu.vizzuhq.com/)
     * [Interactive, animated reports and dashboards in Streamlit with ipyvizzu. — Peter Vidos - YouTube](https://www.youtube.com/watch?v=hEZO2l_1mf4)
 * [Streamsync | Streamsync](https://www.streamsync.cloud/)
