@@ -567,5 +567,6 @@ Haskell
 * [Getting Started with Haskell on Fedora - Fedora Magazine](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 * [5 Best Haskell Programming Courses for Beginners in 2022 | Java67](https://www.java67.com/2022/02/op-5-courses-to-learn-haskell-for-beginners.html)
 * [FizzBuzz - You Suck at Coding 0 - YouTube](https://www.youtube.com/watch?v=mZWsyUKwTbg)
+* [Ko/Haskell - HaskellWiki](https://wiki.haskell.org/Ko/Haskell)
 * [learn4haskell :: Kowainik](https://kowainik.github.io/projects/learn4haskell)
   * [learn4haskell: Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell)
