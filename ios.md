@@ -155,6 +155,7 @@ iOS
 * [Event Capturing :: iOYES](https://green1229.tistory.com/416)
 * [@iOS17; #SwiftMacro; 아직도 반복하니?. WWDC2023에서 발표한 SwiftMacro에 대해서 무엇이 있고… | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/ios17-swiftmacro-%EC%95%84%EC%A7%81%EB%8F%84-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8B%88-aeb4900f8f88)
 * [의존성 관리 툴 비교정리 · Soojin Ro](https://soojin.ro/blog/dependency-management)
+* [인앱리뷰(In-App Review) 연동하기 :: iOYES](https://green1229.tistory.com/420) StoreKit
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
