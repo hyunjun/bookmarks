@@ -816,6 +816,7 @@ Data Science
 * [Netflix algorithm: Prize Tribute Recommendation Algorithm in Python](http://blog.smellthedata.com/2009/06/netflix-prize-tribute-recommendation.html)
 * [넷플릭스는 어떻게 작동하는가](https://nter.naver.com/naverletter/110357)
   * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
+* [The Next Step in Personalization: Dynamic Sizzles | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/the-next-step-in-personalization-dynamic-sizzles-4dc4ce2011ef)
 * [넷플릭스와 아마존](https://www.skyer9.pe.kr/wordpress/?p=539)
 * [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 * [Building confidence in a decision | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/building-confidence-in-a-decision-8705834e6fd8)
