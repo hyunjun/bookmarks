@@ -2724,6 +2724,7 @@ Business
 * [사용자 경험을 위한 의도적인 비효율 | Univdev](https://univdev.page/posts/dummy-delay-for-more-ux/)
 * [인터랙션, 꼭 넣어야 해요?](https://toss.tech/article/interaction)
 * [팝업은 어떤 경우에 닫을 수 있게 해야할까?(X버튼은 언제 보여줘야 할까?)— 헤이딜러 UX 스터디 | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%8C%9D%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%A4-%EA%B2%BD%EC%9A%B0%EC%97%90-%EB%8B%AB%EC%9D%84-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-x%EB%B2%84%ED%8A%BC%EC%9D%80-%EC%96%B8%EC%A0%9C-%EB%B3%B4%EC%97%AC%EC%A4%98%EC%95%BC-%ED%95%A0%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-5b6c535fbe58)
+* [헤이딜러 UX 스터디 이야기 (소개). 헤이딜러 제품팀에서 진행했던 UX스터디 이야기를 들려드립니다. | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%9D%98-ux-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%86%8C%EA%B0%9C-16ec98d1e30f)
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
