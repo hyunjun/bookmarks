@@ -1287,6 +1287,7 @@ Java
 * [스택트레이스 샘플링을 이용한 성능 분석 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2021-10-18/) 제품 광고지만 글 흐름 자체는 좋음
 * [5 Mundane Java Performance Tips | Richard Startin’s Blog](https://richardstartin.github.io/posts/5-java-mundane-performance-tricks)
 * [Profiling Java Applications with Async Profiler | HackerNoon](https://hackernoon.com/profiling-java-applications-with-async-profiler-049s2790)
+* [Is Your Java Application Slow? Check out These Open-Source Profilers - YouTube](https://www.youtube.com/watch?v=5RJk-Od8ptE)
 * [Eclipse Mission Control | Adoptium](https://adoptium.net/jmc/)
 * jconsole
 * jprobe
