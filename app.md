@@ -727,6 +727,8 @@ App
   * [Pierre Dal-Pra - Nix: FP for your packages and deployments - YouTube](https://www.youtube.com/watch?v=ybRRBdbJiAg)
   * [PyCon KR 2023 Python 개발자를 위한 Nix 김수빈 - YouTube](https://www.youtube.com/watch?v=Y5NHZ1YXnM4)
   * [Using Nix to Develop and Package a Scala Project | by Ralf Gueldemeister | Oct, 2023 | Zendesk Engineering](https://zendesk.engineering/using-nix-to-develop-and-package-a-scala-project-cadccd56ad06)
+  * [Home Manager Manual](https://nix-community.github.io/home-manager/)
+    * [Manage Your Dotfiles with Home Manager! - YouTube](https://www.youtube.com/watch?v=IiyBeR-Guqw)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
