@@ -85,6 +85,7 @@ AWS
     3. 서비스 중에 Redis나 특정 상황이 안되더라도, 서비스가 되어야 할 경우가 많은데, 위의 기본 설정으로 써버리면, Redis는 죽어도 DB가 동작하는 상황에서 모든 서버가 동작은 하지만 Status: DOWN 503으로 인해서 ELB의 Target group 에서 전부 unhealthy 로 unregister가 될 수 있음
   * 만약 사용하겠다고 하면 Actuator 설정을 바꿔야 함
   * 인스턴스 운영 상태로는 적당하지 않지만 서비스 운영 상태 모니터링으로는 필요
+* [AWS Enterprise Support Korea: ELB Prewarming 소개 - YouTube](https://www.youtube.com/watch?v=A38J0H6TE3E)
 * [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
