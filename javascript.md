@@ -2402,6 +2402,7 @@ Javascript
   * [Solid.js feels like what I always wanted React to be | TypeOfNaN](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
     * [(번역) Solid.js는 내가 항상 바랬던 React의 모습입니다 | by Jung Han | Medium](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-solid-js%EB%8A%94-%EB%82%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EB%B0%94%EB%9E%AC%EB%8D%98-react%EC%9D%98-%EB%AA%A8%EC%8A%B5%EC%9E%85%EB%8B%88%EB%8B%A4-922c8b83a93d)
   * [React와 Solid의 차이점 톺아보기 - DEV Community](https://dev.to/composite/reactwa-solidyi-caijeom-topabogi-4e23)
+  * [반응형 프로그래밍이란 무엇인가? | Onepredict Engineering](https://onepredict.github.io/reactive-programming/)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
