@@ -255,6 +255,7 @@ Elixir
   * [WyeWorks | Building a LiveView component with Github Copilot and ChatGPT: Reflections.](https://www.wyeworks.com/blog/2023/07/04/building-a-live-view-component-with-github-copilot-and-chatgpt-part-3/)
   * [Elixir Streams |> LiveView 0.20 HEEX Debug Annotations](https://www.elixirstreams.com/tips/liveview-heex-debug-annotations)
   * [Build a real-time Instagram Clone in Under 20 Minutes with LiveView - YouTube](https://www.youtube.com/watch?v=4cnmyQJToKM)
+  * [Dynamic forms with LiveView Streams · The Phoenix Files](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
   * [Paraxial.io Webinar, Elixir/Phoenix Security: Preventing SQL Injection in Ecto - YouTube](https://www.youtube.com/watch?v=O5PJcYPC2Lo)
   * [Securing Elixir/Phoenix Applications: 5 Tips to Get Started](https://paraxial.io/blog/securing-elixir)
   * [Elixir/Phoenix Security: Rate Limits for Authentication with Hammer](https://paraxial.io/blog/auth-rate-limit)
