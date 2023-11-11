@@ -133,6 +133,7 @@ Programming
 * [Evolutionary Design Animated Part 1 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=LtBRvsez8DI)
 * [Evolutionary Design Animated Part 2 • James Shore • YOW! 2019 - YouTube](https://www.youtube.com/watch?v=wDZCF8jfeMc)
 * [설계란 무엇인가 III | Popit](https://www.popit.kr/%ec%84%a4%ea%b3%84%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%b8%ea%b0%80-iii/)
+* [소프트웨어 ‘설계’의 정의는 변해야 한다 | 요즘IT](https://yozm.wishket.com/magazine/detail/2307/)
 * [Resilient functional service design • Uwe Friedrichsen • CodeCrafts 2022 - YouTube](https://www.youtube.com/watch?v=jF7dd2Nytl8)
 * [SW개발의 3개 KEY원칙: DRY, KISS, YAGNI에 대한 생각](https://www.linkedin.com/posts/daegil-kang_sw%EA%B0%9C%EB%B0%9C%EC%9D%98-3%EA%B0%9C-key%EC%9B%90%EC%B9%99-dry-kiss-yagni%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-activity-7031493444762038272-_88v/)
 * [성공하는 코드 서비스들의 숨겨진 철학 (대신하고, 숨기고, 드러나게)](https://velog.io/@joosing/the-hidden-philosophy-of-successful-code-services)
