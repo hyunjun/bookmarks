@@ -25,3 +25,4 @@ Media
 * [한경BP는 노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출'을 이렇게 왜곡했다](http://www.huffingtonpost.kr/2015/10/22/story_n_8353366.html)
 * [왜곡된 디턴과 힘겨운 탈출](http://www.huffingtonpost.kr/kangkook-lee/story_b_8334830.html)
 * [노벨경제학상 수상자 앵거스 디턴의 '위대한 탈출' 한글판에는 '범죄 수준'의 왜곡번역 있었다](http://www.huffingtonpost.kr/2015/10/20/story_n_8334664.html)
+* [머스크, 슈퍼히어로와 빌런 사이 - 슬로우뉴스](https://slownews.kr/99305)
