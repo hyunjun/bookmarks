@@ -2543,6 +2543,7 @@ Python
 * [Step-by-Step Tutorial: How to Customize the Admin Site in Django](https://espere.in/Step-by-Step-Tutorial:-How-to-Customize-the-Admin-Site-in-Django/)
 * [Simple and Efficient Full Text Search using Django and Postgres - DEV Community](https://dev.to/aryan3212/simple-and-efficient-full-text-search-using-django-and-postgres-33o0)
 * [PyCon KR 2023 Django 봄은 다시 온다 정경업 - YouTube](https://www.youtube.com/watch?v=HeMXWd6QSGg)
+  * [Django 봄은 다시 온다 - Django와 함께 좋은 웹서비스 코드 만들기.pdf](https://www.slideshare.net/perhapsspy/django-django-pdf)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
