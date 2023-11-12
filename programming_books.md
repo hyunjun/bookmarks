@@ -789,6 +789,7 @@ Programming Books
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
   * [국제은행간통신협회(SWIFT) 결제망 아키텍처 | GeekNews](https://news.hada.io/topic?id=6090)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
+  * 한라 005.58-홈44ㅋ 탐라 문005.58-홈43ㅋ
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
   * [Clean Architecture 계층형 아키텍처의 문제점](https://devkingdom.tistory.com/340)
@@ -1030,7 +1031,7 @@ Programming Books
 * (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
 * (NOT YET) [이경오의 SQL+SQLD 비밀노트 (한빛미디어, 이경오 저)](https://goaloflife.tistory.com/220)
 * (NOT YET) [실무자를 위한 그래프 데이터 활용법](https://hanbit.co.kr/store/books/look.php?p_code=B6334451644)
-  * 우당 문005.76-고78ㅅ
+  * 탐라 문005.76-고78ㅅ 우당 문005.76-고78ㅅ
   * [graph-book: The Code Examples and Notebooks for The Practitioners Guide to Graph Data](https://github.com/datastax/graph-book)
   * [애플리케이션에서 그래프 기술의 적용 가능성과 사용법을 탐색하는 방법](images/graph-book.jpg)
 * (NOT YET) [MySQL 성능 최적화 | 위키북스](https://wikibook.co.kr/mysql-optimization/)
