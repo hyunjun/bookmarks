@@ -1990,6 +1990,8 @@ Web
 * [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
   * [WebAssembly 사용 현황 / 2023년 - 코드쓰는사람](https://taegon.kim/archives/10660)
 * [Evolution of Wasm: Past, Present, Future - YouTube](https://www.youtube.com/watch?v=b5HHyb1d4Ys)
+* [What is a WebAssembly Component (and Why?) - YouTube](https://www.youtube.com/watch?v=slSZk38ncw8)
+* [WASM is Awesome! Explained with Examples | Ft Docker - YouTube](https://www.youtube.com/watch?v=JFzpd1-6a3E)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
