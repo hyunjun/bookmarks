@@ -382,6 +382,7 @@ Clojure
 * [An Architect's View: deps.edn and monorepos III (Polylith)](https://corfield.org/blog/2021/06/06/deps-edn-monorepo-3/)
 * [An Architect's View: deps.edn and monorepos IV](https://corfield.org/blog/2021/07/21/deps-edn-monorepo-4/)
 * [An Architect's View: deps.edn and monorepos V (Polylith)](https://corfield.org/blog/2021/08/25/deps-edn-monorepo-5/)
+* [Use Clojure CLI and deps.edn to Build and Run Clojure app. tools.deps explained - YouTube](https://www.youtube.com/watch?v=8aCO_wNuScQ)
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [tammy makes things: The Fibonacci Sequence in Clojure](https://tammymakesthings.com/posts/2020-05-06-fibonacci-sequence-in-clojure/)
