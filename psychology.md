@@ -80,3 +80,5 @@ Psychology
   * [MBTI, If You Want Me Back, You Need to Change Too | by Adam Grant | Medium](https://medium.com/@AdamMGrant/mbti-if-you-want-me-back-you-need-to-change-too-c7f1a7b6970)
   * [Goodbye to MBTI, the Fad That Won’t Die | Psychology Today](https://www.psychologytoday.com/intl/blog/give-and-take/201309/goodbye-to-mbti-the-fad-that-wont-die)
 * [‘피할 수 없으면 즐겨라’는 그럴듯한 거짓말이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/263258) 인지부조화 cognitive dissonance
+* [언젠가 써먹는 심리효과 101](https://slashpage.com/haebom/psychology101)
+  * [언젠가 써먹는 심리효과 101 | GeekNews](https://news.hada.io/topic?id=11481)
