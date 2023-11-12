@@ -139,6 +139,7 @@ Elixir
 * [From $erverless To Elixir | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UGG2HMonQ1c)
 * [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [Elixir for Ruby developers: the three most important differences · Phoenix on Rails](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
+* [Test an external, read-only Repository in Phoenix](https://peterullrich.com/test-an-external-read-only-repository-in-phoenix)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
