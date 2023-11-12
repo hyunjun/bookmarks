@@ -915,6 +915,8 @@ NLP
   * [GPT 5 is All About Data - YouTube](https://www.youtube.com/watch?v=c4aR\_smQgxY)
   * [gpt-migrate: Easily migrate your codebase from one framework or language to another](https://github.com/0xpayne/gpt-migrate)
   * [GPT for Slides - Create Presentation With AI in seconds](https://www.gptforslides.app/)
+  * GPTs
+    * [GPTs 만들기 - YouTube](https://www.youtube.com/watch?v=4XMAmspzAVo)
   * [HealthGPT: Query your Apple Health data with natural language](https://github.com/StanfordBDHG/HealthGPT)
   * [Hello-ChatGPT: Connect ChatGPT to Slackbot. Works via FastAPI](https://github.com/jybaek/Hello-ChatGPT)
   * OpenChatKit [Announcing OpenChatKit — TOGETHER](https://www.together.xyz/blog/openchatkit)
@@ -1787,6 +1789,7 @@ NLP
 * [머신러닝은 인간의 글쓰기를 어떻게 바꿔 놓을 것인가 | 10x Lessons](https://tkim.co/2022/04/30/how-ml-changes-writing/) DALL-E 2
 * [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 * [GPT-3.5 Turbo Fine-tuning - Colaboratory](https://colab.research.google.com/drive/1YGbCj_7MI1R7iulc01aPjj8zIyN9GSOr)
+* [Effectively Building with LLMs in the Browser with Jacob - YouTube](https://www.youtube.com/watch?v=-1sdWLr3TbI) WebML
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
