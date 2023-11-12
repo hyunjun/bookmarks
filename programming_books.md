@@ -3564,6 +3564,7 @@ Programming Books
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
 * (NOT YET) [육각형 개발자](https://www.hanbit.co.kr/store/books/look.php?p_code=B7230685099)
   * [육각형 개발자 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html)
+  * 탐라 문005.1-최43ㅇ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
