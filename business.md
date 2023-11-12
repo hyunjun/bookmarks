@@ -720,6 +720,8 @@ Business
 * [Lessons Learned from Scaling Up Octopus • Mike Noonan • YOW! 2021 - YouTube](https://www.youtube.com/watch?v=Eie_kxwzyfQ) 조직 확장, 확대, 성장에 대한 이야기
 * [VDIASI23 - Adrian Miron - Unlocking Your Team Potential: Discovering Your Unique Role for Success - YouTube](https://www.youtube.com/watch?v=dHiya7Yi0I0)
 * [팀장 1명 당 팀원 몇 명을 관리하는 것이 가장 효율적일까? | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%ED%8C%80%EC%9E%A5-1%EB%AA%85-%EB%8B%B9-%ED%8C%80%EC%9B%90-%EB%AA%87-%EB%AA%85%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%BC%EA%B9%8C-7d06dddbbf36)
+* [Skills-based organizations | Deloitte Insights](https://www2.deloitte.com/us/en/insights/topics/talent/organizational-skill-based-hiring.html?ref=blog.comento.kr)
+  * [Skill 기반 조직과 Skill Gap](https://blog.comento.kr/skill-based-organization-and-skill-gap/)
 
 # 변화
 * [사람들이 변화하지 않는 진짜 이유](https://eopla.net/magazines/231#)
@@ -2156,6 +2158,8 @@ Business
 * [PM 역할과 관련한 세 가지 안티 패턴](https://brunch.co.kr/@yongjinjinipln/119)
 * [프로덕트 매니저의 비극적인 운명](https://brunch.co.kr/@yongjinjinipln/121)
 * [PM학 개론 (12) 대기업과 스타트업 PM은 어떻게 다른가 : 네이버 블로그](https://blog.naver.com/madaboutit/223250564938)
+* [실리콘밸리 수백명의 PM들의 성장을 두 배 이끈 조언 | Meta Mick Johnson (1/2) - YouTube](https://www.youtube.com/watch?v=rB7haeRWib4)
+* [제 2개 회사는 잘 안됐습니다. 그러나 이걸 배웠죠 | Meta Mick Johnson (2/2) - YouTube](https://www.youtube.com/watch?v=HDsFyHQtLHI)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -2267,6 +2271,7 @@ Business
 * [잘 다니던 회사 때려치고 스타트업으로 가려는 당신을 위한 5가지 조언](http://ppss.kr/archives/54461)
 * [창업환경 냉엄…실패에 낯 두꺼워져야](http://www.venturesquare.net/598697)
 * [불황일 때 창업을 해야 하는 이유](http://ppss.kr/archives/23221)
+* [(6) 김석관 - 실패를 용인하는 문화 라는 말을 스타트업 정책 간담회나 보고서에서 종종 보는데, 별로 현실성이 없는... | Facebook](https://www.facebook.com/seokkwan.kim/posts/pfbid0SFm6YqQcsWAM2Fr1Uo3XJePeEyqLfy2Cfea7Qk9b6SsU85ffekxFZdZNCKThn7yZl)
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
 * [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
 * [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
