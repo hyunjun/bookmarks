@@ -1275,6 +1275,8 @@ Javascript
 * [Typed JavaScript? For real? The type annotations proposal and what it’s all about - YouTube](https://www.youtube.com/watch?v=8EXuuLtYFY0)
   * [Typed JavaScript? For real? The “type annotations” proposal and what it’s all about - NodeConf EU - Google Slides](https://docs.google.com/presentation/d/12SYdKy75FsSwO9-wzHADPL9JP6uXplxSKMQe1qsJKR8/edit)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
+  * [FEConf 2023 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc)
+  * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
   * [FEconf 2022 - TRACK A - YouTube](https://www.youtube.com/watch?v=jZNk-Ncez6E)
   * [FEconf 2022 - TRACK B - YouTube](https://www.youtube.com/watch?v=ajtpcFkXqqg)
   * [FEConf 2022 참석 후기](https://noogoonaa.tistory.com/120)
