@@ -5877,6 +5877,7 @@ Programming
   * [개발자의 생산성 팁 - 무엇이 개발자를 생산적이게 ... | 커리어리](https://careerly.co.kr/comments/89037)
 * [스타트업 개발조직의 퍼포먼스 개선 비법 - YouTube](https://www.youtube.com/watch?v=eBeNiN_tQZc)
 * [How to Improve Developer Productivity • Jez Humble • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=5_rrQND3lpQ)
+  * [state-of-devops-2019.pdf](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p57 productivity에 영향을 미치는 요인들
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
