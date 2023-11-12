@@ -620,7 +620,6 @@ SQL
   * 대신 JSON은 내부의 특정 필드만 접근하거나 업데이트하는 경우나 특정 JSON 필드를 인덱스로 생성할 때는 그 효과를 볼 수 있음
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [MySQL Optimizer Error. 옵티마이저 에러 & 힌트 | by Sunguck Lee | 당근마켓 테크 블로그 | May, 2023 | Medium](https://medium.com/daangn/mysql-optimizer-error-e438aa02e622)
-* [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 * [「개발 큐레이션」 MySQL과 쿼리 최적화](https://www.notion.so/MySQL-e8004e99b0f24a7cace27e7576b0c292)
 * [MySQL의 ORDER BY로 지정한 순서대로 정렬하기](https://brunch.co.kr/@hopeless/4)
@@ -806,6 +805,7 @@ SQL
 * [MySQL Query Performance Troubleshooting: Resource-Based Approach - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/15/mysql-query-performance-troubleshooting-resource-based-approach/)
 * [Please stop using this UPSERT anti-pattern - SQLPerformance.com](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern)
 * [실행계획을 분석해서 SQL 성능튜닝을 해보자(feat.MySQL) | Recoding Life](https://jane096.github.io/project/refactoring-sql/)
+* [MySQL 쿼리 튜닝의 첫걸음 | 요즘IT](https://yozm.wishket.com/magazine/detail/2260/)
 * [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
@@ -861,6 +861,7 @@ SQL
 * [New Logical Backup and Restore Utilities in the MySQL Shell](https://elephantdolphin.blogspot.com/2020/07/new-logical-backup-and-restore.html)
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
   * [github.com/kakao/adt](https://github.com/kakao/adt)
+* [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [binlog2sql: Binlog to Raw SQL Conversion and Point In Time Recovery - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/09/binlog2sql-binlog-to-raw-sql-conversion-and-point-in-time-recovery/)
 * [canal: 阿里巴巴 MySQL binlog 增量订阅&消费组件](https://github.com/alibaba/canal)
   * [Introduction · alibaba/canal Wiki](https://github.com/alibaba/canal/wiki/Introduction)
