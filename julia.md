@@ -220,6 +220,7 @@ Julia
 # Tutorial
 * [Julia: A Fresh Approach to Technical Computing - Dr. Viral B. Shah | PyData Jeddah - August 2020 - YouTube](https://www.youtube.com/watch?v=tUWZ6XhC2K4)
 * [Introduction - Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+* ['Julia' 카테고리의 글 목록](https://webnautes.tistory.com/category/Julia)
 * [JuliaTutorial2022Korea](https://github.com/chkwon/JuliaTutorial2022Korea)
 * [Julia Tutorial 2022 Korea 줄리아 언어 소개 #1 - YouTube](https://www.youtube.com/watch?v=wjLXmz4D9VQ)
 * [Julia Tutorial](https://www.tutorialspoint.com/julia/index.htm)
