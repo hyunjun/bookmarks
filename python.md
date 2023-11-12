@@ -691,7 +691,9 @@ Python
   * [Introducing high-performance datatypes in Python with the collections library | by George Seif | Level Up Coding](https://levelup.gitconnected.com/introducing-high-performance-datatypes-in-python-with-the-collections-library-3d8c334827a5)
   * chainmap [Python's ChainMap: Manage Multiple Contexts Effectively – Real Python](https://realpython.com/python-chainmap/)
   * Counter [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
-  * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
+  * deque
+    * [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
+    * [python deque index 접근 연산의 복잡도를 알아봅시다. - Codingdog Blog](https://codingdog.pe.kr/2023/10/28/python-deque-index-%ec%a0%91%ea%b7%bc-%ec%97%b0%ec%82%b0%ec%9d%98-%eb%b3%b5%ec%9e%a1%eb%8f%84%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b4%85%ec%8b%9c%eb%8b%a4/)
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
   * [Use Python to parse configuration files | Opensource.com](https://opensource.com/article/21/6/parse-configuration-files-python) INI, JSON, YAML, TOML
