@@ -555,10 +555,10 @@ Haskell
 
 # Tutorial
 * [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
+* [**진보하는 함수형 언어, Haskell (김재우)**](https://www.notion.so/Haskell-84c22c4bb40a46438dc6757424827fca)
 * [CIS 194: Introduction to Haskell (Spring 2013)](https://www.seas.upenn.edu/~cis194/spring13/)
   * [enshahar.com](http://enshahar.com/) 한글
 * [Haskell for impatient Scala developer: Getting into speed](https://msitko.pl/blog/2020/02/08/haskell-getting-into-speed.html)
-* [**진보하는 함수형 언어, Haskell (김재우)**](https://www.notion.so/Haskell-84c22c4bb40a46438dc6757424827fca)
 * [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters)
 * [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
 * [10 Reasons to Use Haskell](https://serokell.io/blog/10-reasons-to-use-haskell)
@@ -567,6 +567,9 @@ Haskell
 * [Getting Started with Haskell on Fedora - Fedora Magazine](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 * [5 Best Haskell Programming Courses for Beginners in 2022 | Java67](https://www.java67.com/2022/02/op-5-courses-to-learn-haskell-for-beginners.html)
 * [FizzBuzz - You Suck at Coding 0 - YouTube](https://www.youtube.com/watch?v=mZWsyUKwTbg)
+* [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
 * [Ko/Haskell - HaskellWiki](https://wiki.haskell.org/Ko/Haskell)
 * [learn4haskell :: Kowainik](https://kowainik.github.io/projects/learn4haskell)
   * [learn4haskell: Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell)
+* [Learn Haskell by building a blog - YouTube](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQcXoHWdzxnnuGlGWNXJg43R)
+  * [블로그 생성기를 만들면서 배우는 하스켈](https://jbl428.github.io/learn-haskell-blog-generator/)
