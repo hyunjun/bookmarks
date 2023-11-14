@@ -3362,6 +3362,7 @@ Python
   * [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 * [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com ](https://github.com/proin/saturn)
 * [Traitlets](https://github.com/ipython/traitlets)
+* [Visual Python](https://www.visualpython.ai/) GUI based Python code generator
 * Voila [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
 * [xeus-python: Jupyter kernel for the Python programming language](https://github.com/jupyter-xeus/xeus-python)
   * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
@@ -4151,7 +4152,6 @@ Python
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [vineyard](https://v6d.io/) in-memory immutable data manager that provides out-of-the-box high-level abstraction
-* [Visual Python](https://www.visualpython.ai/) GUI based Python code generator
 * [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
   * [Understand your Python code with this open source visualization tool | Opensource.com](https://opensource.com/article/20/11/python-code-viztracer)
   * [Tracing the Python GIL | Maarten Breddels’ blog](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html) viztracer + perf
