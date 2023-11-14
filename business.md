@@ -2570,6 +2570,7 @@ Business
   * https://cal.com/open에서 지표 공개
     * 직원의 연봉을 공개하는 것은 질투를 줄이고 인종 및 성평등을 촉진하는 효과
     * cal.com도 원격 근무를 하므로 글로벌 급여를 도입할 것인지 현지화된 급여를 도입할 건인지 고민했지만, 글로벌 급여를 도입하기로 결정
+* ['장사천재 백사장'은 모든 스타트업이 꼭 봐야.. : 네이버블로그](https://blog.naver.com/madaboutit/223263393249) 본질, 고객
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
