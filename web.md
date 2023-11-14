@@ -206,6 +206,7 @@ Web
 * [접근성 기능 오용 사례 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/889)
 * [사람인 접근성 개선 회고](https://saramin.github.io/2023-01-02-saramin-a11y/)
 * ['Tech-Verse 2022' 웹 접근성 향상을 위한 노력](https://engineering.linecorp.com/ko/blog/tech-verse2022-web-a11y)
+* [WAI-ARIA: role과 aria-label 사용법](https://velog.io/@a_in/WAI-ARIA-role-aria-label)
 * [‘액세서빌리티 인사이트’로 누구나 접근할 수 있는 코드 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/229234) accessibility
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
