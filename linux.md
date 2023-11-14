@@ -1173,6 +1173,7 @@ Linux
     * 클러스터에 설치해서 사용하는 방법 간략히 설명
 * [eBPF: Fueling New Flame Graphs & more • Brendan Gregg • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=HKQR7wVapgk)
 * [eBPF Summit 2023 Schedule](https://ebpf.io/summit-2023-schedule/)
+* [eBPF: Unlocking the Kernel 공식 다큐멘터리, 30분 | GeekNews](https://news.hada.io/topic?id=11850)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
