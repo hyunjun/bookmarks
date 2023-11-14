@@ -1730,6 +1730,11 @@ Programming
 * [오픈마켓에서 여행 플랫폼으로 살아남기 (feat. msa)](https://ebay-korea.tistory.com/91) Service Aggregator, BFF (Backend for front), EDA (Event-driven architecture), ACL (Anti-corruption layer)
 * [arc42 - arc42](https://arc42.org/)
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
+* [architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation](https://github.com/joelparkerhenderson/architecture-decision-record)
+  * [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/) architecture decision record
+  * [govuk-aws: Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure](https://github.com/alphagov/govuk-aws)
+  * [3회 ADR을 써야하는 이유,슈퍼셀의 교훈,QRPicture,Puppeteer와 Playwright,eBPF - YouTube](https://www.youtube.com/watch?v=aCw0YwEHpCU&t=137s)
+    * [GN#59 ADR을 써야 하는 이유 와 슈퍼셀의 10가지 교훈 | GeekNews](https://news.hada.io/weekly/202034)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [BoxyHQ | Enterprise Readiness made simple](https://boxyhq.com/)
