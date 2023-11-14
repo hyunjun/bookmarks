@@ -2049,6 +2049,7 @@ Docker
   * [K8s : 클러스터 내에서 external 로드밸런서 서비스 구성 (with LoxiLB)](https://ko.loxilb.io/post/k8s-understanding-nuances-of-in-cluster-external-service-lb-with-loxilb) LoxiLB가 쿠버네티스에서 in-cluster 모드로 kube-proxy를 대체 가능
     * [loxilb/cicd/k3s-flannel-incluster at main · loxilb-io/loxilb](https://github.com/loxilb-io/loxilb/tree/main/cicd/k3s-flannel-incluster)
   * [K8s : Bringing load-balancing to multus workloads with loxilb | by CloudyBytes | Medium](https://cloudybytes.medium.com/k8s-bringing-load-balancing-to-multus-workloads-with-loxilb-a0746f270abe)
+  * [OCP with LoxiLB in-cluster mode](https://ko.loxilb.io/post/ocp-with-loxilb-in-cluster-mode)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
 * [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
