@@ -3545,6 +3545,7 @@ Programming Books
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❷ 이직에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/22/principle_ldw_2/)
   * [개발자 원칙 제어할 수 없는 것에 의존하지 않기 ❸ 조직과 매니징에 적용하기 - 골든래빗](https://goldenrabbit.co.kr/2023/02/28/principle_ldw_3/)
   * [테크 리더 3인이 말하는 "개발자 원칙" - YouTube](https://www.youtube.com/watch?v=DJCmvzhFVOI)
+  * [컬리, 카카오 등 테크리더 9인 추천 도서 30권 | 요즘IT](https://yozm.wishket.com/magazine/detail/2318/)
 * [《IT 회사에 간 문과 여자》를 출간하며](https://brunch.co.kr/@jiwon3889/37)
   * ★★☆☆☆ 2023.03.06 내가 읽을 필요는 없는, 맞지 않는 책이었음
   * 한라 325.211-염78ㅇ 탐라 문325.211-염79ㅇ 우당 문325.211-염79I
