@@ -500,6 +500,7 @@ AWS
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90% - Prime Video Tech](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
   * [아마존 프라임 비디오의 ‘서버리스 vs. 모놀리스’ 논란에서 얻는 6가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/293089)
 * [헤이조이스 웨비나를 소개합니다 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/heyjoyce-webinar/) IVS
+* [다중 라이브 스트리밍 채널을 Amazon IVS의 썸네일기반 멀티뷰로 모니터링하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/monitoring-multiple-live-streams-channels-with-thumbnail-based-multiviews-on-aamazon-ivs/)
 * [Let’s Architect! Designing microservices architectures | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/lets-architect-designing-microservices-architectures/)
 * [삼성전자 사례로 보는 엔터프라이즈 클라우드 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/cloud_journey_through_the_case_of_samsung/)
 * [Game Launcher 시스템을 활용한 서버 매핑. 과거의 개발 환경 | by 위다빈 | Cloud Villains | Jun, 2023 | Medium](https://medium.com/cloudvillains/game-launcher-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%A7%A4%ED%95%91-5d0b917ea139)
@@ -766,6 +767,7 @@ AWS
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
 * [Amazon Comprehend 기반 설공 상품평 분석을 통한 상품 트렌드 예측도 개선하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-comprehend-goods-trend-prediction/)
 * [농심 켈로그의 Amazon Comprehend 감성분석을 활용한 SNS 대시보드 및 알림 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/nongshim-dashboard-notification-using-comprehend-sentiment-analysis/)
+* [Amazon Comprehend – 신규 유해성 검출 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-for-amazon-comprehend-toxicity-detection/)
 
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
@@ -1009,6 +1011,7 @@ AWS
   * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
 * [Amazon Elastic Block Store io2 볼륨용 NVMe 예약 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 * [Amazon EBS의 FSR을 이용해 설치형 DB 를 빠르게 스케일업 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/self-managing-db-scaleup-with-fsr/)
+* [Amazon EBS 스냅샷 공개 공유 차단 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-block-public-sharing-of-amazon-ebs-snapshots/?utm_source=dlvr.it&utm_medium=facebook)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
@@ -1069,6 +1072,7 @@ AWS
 * [Installing Docker on EC2 Instance (AWS) - YouTube](https://www.youtube.com/watch?v=y5pct8_NwTg)
 * [EC2에 배포된 Spring 웹 애플리케이션에서 AWS 리소스에 액세스할 때 주의해야할 점](https://kim-jong-hyun.tistory.com/136)
 * [HTTPS for Your EC2 Web Server](https://www.letr.ai/blog/tech-20211201)
+* [EC2 Instance Connect Endpoint를 이용해 Amazon EC2및 Amazon RDS 인스턴스에 안전하게 접속하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-instance-connect-endpoint-bastion/)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
 
 # ECS Elastic Container Service
@@ -2351,6 +2355,8 @@ AWS
 * [Streamlining Infrastructure Deployment: How to Run Terraform with Docker - DEV Community](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
 * [Automatically Provision AWS Resources with Terraform - DEV Community](https://dev.to/giftcup/automatically-provision-aws-resources-with-terraform-1dap)
 * [Terraform configmaps "aws-auth" already exists](https://jybaek.tistory.com/1009)
+* [Error asking for state migration action: input is disabled](https://jybaek.tistory.com/1011)
+* [Lambda 최초 배포 시 컨테이너 이미지 처리](https://jybaek.tistory.com/1010)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
