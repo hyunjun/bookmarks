@@ -1430,6 +1430,8 @@ App
 * [Raycast](https://www.raycast.com/)
 * [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [remote-mac-lock: A prototype of remote locking my mac, connected to a wireless access point using a simple HTTP server. | 같은 AP 환경에서 원격으로 Mac 잠금](https://github.com/stevejkang/remote-mac-lock)
+* [Rewind](https://www.rewind.ai/)
+  * [해외에서 난리난 맥용 생산성 앱 (ft. 리와인드) - YouTube](https://www.youtube.com/watch?v=-8RyLGR75jU)
 * [Rocket Fuel](https://itunes.apple.com/app/rocket-fuel/id1114196460) prevents your Mac from going to sleep or dimming its display
 * Screencast
   * [**OS X Screencast to animated GIF**](https://gist.github.com/dergachev/4627207)
