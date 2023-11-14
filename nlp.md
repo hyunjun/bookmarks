@@ -2748,6 +2748,7 @@ NLP
   * [듣고 말하는 음성 챗봇 만들기 | Microsoft Learn AI 기술 챌린지 - YouTube](https://www.youtube.com/watch?v=5WXfDyS\_T5k)
 * [화상 회의할 때 음성 품질을 높이는 기술](https://engineering.linecorp.com/ko/blog/line-voip-voice-quality-with-vqe)
 * [LINE 앱에서 음성 품질을 측정하는 방법](https://techblog.lycorp.co.jp/ko/how-to-measure-voice-quality-in-line-app)
+* [Detecting Speech and Music in Audio Content | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8)
 * [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
   * [annyang:  Speech recognition for your site](https://github.com/TalAter/annyang)
 * [AudioCraft: A simple one-stop shop for audio modeling](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
