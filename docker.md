@@ -2086,6 +2086,13 @@ Docker
 * [otomi-core: Self-hosted PaaS for Kubernetes](https://github.com/redkubes/otomi-core)
 * [Otterize](https://otterize.com/) EKS zero trust를 구성할 때 netpol을 쉽게 적용할 수 있는 툴
 * [Pixie - k8s](https://sysnet4admin.gitbook.io/k8s/observability/pixie)
+  * [Kubernetes Monitoring, Application Debug Platform | Pixie](https://px.dev/)
+  * [Pixie | Pixie Product Documentation](https://docs.px.dev/)
+    * [Observability strategies to not overload engineering teams – eBPF | by Nicolas Takashi | Jan, 2023 | ITNEXT](https://itnext.io/observability-strategies-to-not-overload-engineering-teams-ebpf-b034b26d7f1d)
+      * eBPF의 특징에 대해서 간략히 설명
+      * Kubernetes에서 eBPF로 telemetry 데이터를 수집하는 오픈소스 옵저버빌리티 솔루션인 Pixie 소개
+      * 클러스터에 설치해서 사용하는 방법 간략히 설명
+  * [New Relic, eBPF 회사 Pixie 인수하고 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=3371)
 * Prow
   * [개발문화를 code로 만드는 CI/CD 도구: Prow](https://leoh0.notion.site/leoh0/code-CI-CD-Prow-aa50953c1e8248cbad9e56a50dd080d5)
     * 좋은 개발 문화를 달성하는데 Continuous delivery가 중요한 역할
