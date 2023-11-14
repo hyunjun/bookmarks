@@ -2417,6 +2417,7 @@ Programming
 * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법 | GeekNews](https://news.hada.io/topic?id=11498)
   * [권정혁 - Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://www.facebook.com/xguru/posts/pfbid0CfUJ9s6k53HyAed1TDxkfs4kvxTunbnWeQnRCrcxyC2MWrsbQdMJtB8B6vaVNCANl)
   * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://gist.github.com/hyunjun/c148fbdb05208ed4ceb25106b5eaad5f)
+* [Change Data Capture for Microservices - YouTube](https://www.youtube.com/watch?v=M6Z-RpEdaN4)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -5552,6 +5553,7 @@ Programming
 * [서버 핀테크 개발자가 알려주는 시스템 개선.. : 네이버블로그](https://blog.naver.com/pjt3591oo/223206574434)
 * [How to Avoid Refactoring Legacy Code HELL - YouTube](https://www.youtube.com/watch?v=Rryo6CoKamE)
 * [LMS 인증 로직을 리팩토링하며 발견한 문제점과 해결방안](https://f-lab.kr/blog/lms-auth-refactoring)
+* [리팩토링 코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
