@@ -143,6 +143,8 @@ Elixir
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
+* [Enumerable: Custom Data Structures in Elixir, part 1 | Brett Beatty](https://blog.brettbeatty.com/elixir/custom_data_structures/enumerable)
+  * [번역 사용자정의 데이터구조 만들기 with elixir](https://velog.io/@silveris23/%EB%B2%88%EC%97%AD-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%A1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-with-elixir)
 * sigils
   * [Blindspots for Elixir Developers - Sigils 1 - YouTube](https://www.youtube.com/watch?v=n9T6u7J6YsQ)
   * [Blindspots for Elixir Developers - Sigils 2 - YouTube](https://www.youtube.com/watch?v=LQ_nANz8cQQ)
