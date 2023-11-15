@@ -5177,6 +5177,7 @@ Javascript
       * 고의가 아니며 React의 미래에 크게 걸고 있고 작업하는 중이며 경계를 명확하게 할 수 있도록 노력중
     * `fetch`에 대한 마법도 개선하려고 노력중
     * Next.js를 좋아하는 이유는 별도의 백엔드를 만들 필요가 없고 인프라 걱정 없이 앱을 만들 수 있으며 사이트를 따르게 하는 기능을 다양하게 제공한다는 점
+  * [요즘 웹 개발이 그렇다고 합니다 (리액트와 NEXT.js 가 벌리고 있는 일들..) - YouTube](https://www.youtube.com/watch?v=5XrOIcn72FA)
   * [fe-runner](https://github.com/boxgramer/fe-runner)
   * [full-stack-ecommerce-store: A Nextjs full-stack e-commerce store with an admin panel](https://github.com/larbisahli/full-stack-ecommerce-store)
   * [NextAuth.js: Easy Authentication for Next.js and Serverless](https://morioh.com/p/4dd8220398a6)
