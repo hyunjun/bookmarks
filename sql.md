@@ -1094,6 +1094,7 @@ SQL
 * [Postgres HA: roles are dynamic](https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic/)
 * [Postgres is a great pub/sub & job server](https://webapp.io/blog/postgres-is-the-answer/)
 * [여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
+* [신입 개발자의 인덱스 장애 회고담 | Onepredict Engineering](https://onepredict.github.io/failure-retrospective/)
 * [PostgreSQL (Aurora) 10 vs 11 버전 성능 비교](https://jojoldu.tistory.com/630)
 * [PostgreSQL 11 에서의 add column not null & default 성능 개선](https://jojoldu.tistory.com/731)
 * [NodeJS 와 PostgreSQL Query Timeout](https://jojoldu.tistory.com/631)
