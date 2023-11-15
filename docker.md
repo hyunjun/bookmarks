@@ -1708,6 +1708,9 @@ Docker
   * Pod을 `nodeSelector`를 사용해서 스케줄링할 때 GPU 등 원하는 하드웨어가 있는 노드에 스케줄링 가능
 * [How Netflix's Container Platform Connects Linux Kernel Panics to Kubernetes Pods | Netflix TechBlog](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 * [Lightweight Kubernetes Operators with WebAssembly - YouTube](https://www.youtube.com/watch?v=cdTEeNQQnKg)
+* DRA
+  * [Endless extension of kubernetes to support a variety of devices.pptx - Google Drive](https://docs.google.com/file/d/1T7hrkO0xqNOMo7FCVLI0QNqH9--uLJ2v/edit?filetype=mspresentation)
+  * [Device Plugins 2.0: How to Build a Driver for Dynamic Resource Allocation - K Klues & Alexey Fomenko - YouTube](https://www.youtube.com/watch?v=_fi9asserLE)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
