@@ -4670,6 +4670,7 @@ Python
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
   * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
+  * [PyCon KR 2023 Scalable Backtesting with Python, I O부터 Scalable까지 김태완 - YouTube](https://www.youtube.com/watch?v=wl9hGCEgZt0)
   * [Ray AI Runtime (AIR) — Ray 2.3.0](https://docs.ray.io/en/latest/ray-air/getting-started.html)
     * [Antoni Baum - HuggingFace + Ray AIR Integration: A Python developer’s guide to | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=5GlqH_PCSJE)
   * [kuberay: A toolkit to run Ray applications on Kubernetes](https://github.com/ray-project/kuberay)
@@ -5203,6 +5204,7 @@ Python
   * [번역글 파이썬 3.11에서의 새로운 기능들](https://heumsi.github.io/blog/posts/python311-new-features/)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
+* [PyCon KR 2023 Python2 개발자의 Python3 개발 도전기 이다니엘 - YouTube](https://www.youtube.com/watch?v=0LPJpIxUXpY)
 * 2to3
   * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
   * [Python 2.x에서 3.x으로 코드 자동 변환](https://kibua20.tistory.com/164)
