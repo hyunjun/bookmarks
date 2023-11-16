@@ -43,7 +43,6 @@ Open Source
 * [오픈소스 지속가능성 체계적으로 생각해보기](https://www.haruair.com/blog/4551)
 * [Permissive 라이선스는 동작을 할까?](http://hl1itj.tistory.com/181)
 * [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
-* [2018 최고의 오픈소스 소프트웨어 : 데이터 스토리지 및 애널리틱스](http://www.itworld.co.kr/slideshow/110963)
 * [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
@@ -66,7 +65,6 @@ Open Source
 * [오픈소스를 여행하는 히치하이커를 위한 안내서 · Present](https://present.do/decks/60bf97881903093a77d166ad)
 * [Patents in Open Source](https://google.github.io/opencasebook/patents/)
 * [슬기로운 오픈소스 생활 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2lL2eRQch2o)
-* ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
 * [의존성 위험성과 펀딩 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1577)
 * [오픈소스 생각보다 어렵더래요. 이왕원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=o_13962jDT4)
 * [12 ways to get more GitHub stars for your open-source project](https://blog.tooljet.com/12-ways-to-get-more-github-stars-for-your-open-source-projects/)
@@ -77,7 +75,6 @@ Open Source
 * [오픈소스를 수익화 하는 법 - Awesome OSS Monetization | GeekNews](https://news.hada.io/topic?id=6532)
 * [How to make your first #opensource contribution ? |#opensource is next big thing | #github |#devops - YouTube](https://www.youtube.com/watch?v=Y51AF7CTBXM)
 * [내가 오픈소스를 싫어하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1105/)
-* [글로벌 칼럼 | AI 시대 필요한 것은 오픈‘소스’가 아닌 오픈소스 ‘접근권’ - ITWorld Korea](https://www.itworld.co.kr/news/246010)
 * [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
   * [TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간 | GeekNews](https://news.hada.io/topic?id=7281)
@@ -472,6 +469,12 @@ Open Source
   * [Hylyard로 Spinnaker를 Kubernetes에 설치하기](https://blog.outsider.ne.kr/1397)
   * [Highly Available and Resilient Multi-Site Deployments Using Spinnaker](https://www.infoq.com/presentations/pivotal-spinnaker-cloud-resiliency/)
 * [SVT-AV1: open-source AV1 encoder and decoder](https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2)
+
+# News
+* [2018 최고의 오픈소스 소프트웨어 : 데이터 스토리지 및 애널리틱스](http://www.itworld.co.kr/slideshow/110963)
+* ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
+* [글로벌 칼럼 | AI 시대 필요한 것은 오픈‘소스’가 아닌 오픈소스 ‘접근권’ - ITWorld Korea](https://www.itworld.co.kr/news/246010)
+* [글로벌 칼럼 | 오픈소스가 여전히 엔터프라이즈 IT의 미래인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/313951)
 
 # NexClipper
 * [Cloud-Native Open-Source Projects from NexClipper](https://nexclipper.io/plans/)
