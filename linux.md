@@ -174,6 +174,7 @@ Linux
 * [웹서버에서 기본값으로 3000, 8000, 8080 같은 포트를 사용하는 이유 - AnyDoc](https://dev.alliknow.info/posts/2023/5/default-port)
 * [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
   * [What happens when you run 'Hello, world'](https://jvns.ca/blog/2013/11/29/what-happens-when-you-run-a-unix-program/)
+* [PyCon KR 2023 Python을 이용한 Linux 인증 모듈 만들기 유성진 - YouTube](https://www.youtube.com/watch?v=NSyI6TaOmZ4) PAM Pluggable Authentication Modules
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
