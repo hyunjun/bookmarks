@@ -1181,6 +1181,7 @@ Business
 * [협력에서 방향성의 문제란?](https://brunch.co.kr/@graypool/1008)
 * [대화를 하세요, 그게 관계예요](https://brunch.co.kr/@graypool/976)
 * ['안 돼요'라고 말하지 않는다](https://velog.io/@eddy_song/problem-solver)
+* [대화할 때 사실, 감정, 의미를 구분할 수 있다면](https://brunch.co.kr/@graypool/1324)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
