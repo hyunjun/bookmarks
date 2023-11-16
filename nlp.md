@@ -693,6 +693,7 @@ NLP
 * [AI Like ChatGPT Are No Good at ‘Not’ | Quanta Magazine](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [Using reinforcement learning for dynamic planning in open-ended conversations – Google Research Blog](https://ai.googleblog.com/2023/05/using-reinforcement-learning-for.html)
 * [엉터리 대답을 하지 않는 '인공지능 챗봇'을 만드는 방법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aichatbot20230801)
+* [PyCon KR 2023 Chatbot Framework with Python 조성빈 - YouTube](https://www.youtube.com/watch?v=Lt_tbZRUkgo) RASA LangChain
 * [bing-chat-macos: WebKit-based Bing Chat exclusive macOS app](https://github.com/nedpark/bing-chat-macos)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
