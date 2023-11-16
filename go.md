@@ -502,6 +502,8 @@ Go
   * [Go time 패키지](http://blog.jeonghwan.net/dev/2019/01/14/go-time.html)
 * type
   * [Ultimate Visual Guide to Go Enums](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
+* work
+  * [Go Work command: The functionality you must know](https://www.beeblogit.com/post/work-command-in-go)
 
 # Book
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
