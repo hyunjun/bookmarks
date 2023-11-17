@@ -1450,6 +1450,7 @@ NLP
 * [The Smallness of Large Language Models | September 2023 | Communications of the ACM](https://cacm.acm.org/magazines/2023/9/275686-the-smallness-of-large-language-models/abstract)
   * [LLM의 한계에 대하여 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4656)
 * [PyCon KR 2023 MLOps, LLM 개발에 필요한 실전 파이썬 디자인 패턴 이태호 - YouTube](https://www.youtube.com/watch?v=CbpgjBTm0C4)
+* [편집본 대형 언어 모델(LLM) 특집 | 블랙 프라이데이 세일중(~11/30) - YouTube](https://www.youtube.com/watch?v=nfeKVQ4LqGk)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
