@@ -3489,6 +3489,7 @@ Programming Books
   * [프로덕트는 팀 스포츠다](https://brunch.co.kr/@graypool/1025/)
   * [프로덕트 리더의 성공을 위한 공식](https://brunch.co.kr/@graypool/1062)
   * [프로덕트의 전략적 로드맵을 만드는 균형 잡기](https://brunch.co.kr/@graypool/1279)
+  * [실제 비용과 가치 검증은 프로덕트 릴리즈 이후 발생](https://brunch.co.kr/@graypool/1328)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
 
 # Programmer, 자기계발?
