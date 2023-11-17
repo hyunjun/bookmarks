@@ -976,6 +976,7 @@ Python
   * [How to DeDuplicate in Python using Hashing Technique - YouTube](https://www.youtube.com/watch?v=C5SS8ftNxPc)
 * hashlib
   * [패스워드와 토큰 자체 발행 - 이상선 - Medium](https://medium.com/@sunyi233/%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C%EC%99%80-%ED%86%A0%ED%81%B0-%EC%9E%90%EC%B2%B4-%EB%B0%9C%ED%96%89-4984d672f0c3) hashlib, base64, uuid
+  * [How do I compute sha256 for arbitrary python data – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4675)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -4234,6 +4235,7 @@ Python
 
 ## Library cache
 * [cache 데코레이터로 최적화하기](https://blog.seulgi.kim/2021/05/python-cache-decorator.html) functools.lru_cache functools.cache
+* [How do I disable joblib.Memory globally – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4673)
 * [Caching in Python: the LRU algorithm - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/08/caching-in-python-the-lru-algorithm/)
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * functools.lru_cache
