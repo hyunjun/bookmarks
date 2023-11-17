@@ -455,6 +455,7 @@ C
   * [https서버와 클라이언트를 OpenSSL로 직접 구현하려면..](https://kldp.org/node/42322)
   * [If OpenSSL were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
   * [운영체제 별 OpenSSL 커맨드라인 프로그램 설치 방법 | Psalm 31:16](https://blog.kesuskim.com/archives/install-openssl-by-os/)
+  * [Temporal CA Certificate 교체하기. 인증서는 교체되어야 한다, 언젠가는… | by Chris Lee | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/temporal-ca-certificate-%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0-a2a3a662bd2d)
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [patchelf: A small utility to modify the dynamic linker and RPATH of ELF executables](https://github.com/NixOS/patchelf)
 * [pcre2](https://github.com/luvit/pcre2)
