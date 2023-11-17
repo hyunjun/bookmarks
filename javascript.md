@@ -6251,6 +6251,7 @@ Javascript
 * [완 Vue.js, 20개만 쓸 줄 알면 끝남](https://velog.io/@nanotoly/Vue.js-20%EA%B0%9C%EB%A7%8C-%EC%93%B8-%EC%A4%84-%EC%95%8C%EB%A9%B4-%EB%81%9D%EB%82%A8)
 * [Vue의 v-for에서 :key를 사용해야 하는 이유 – 형우의 웹개발](https://mytory.net/archives/15356)
 * [Vue.js – URL 값 있으면 a 태그, 없으면 span이나 div 태그로 표시하기 – 형우의 웹개발](https://mytory.net/archives/15364)
+* [Vue 컴포넌트에서 루트 데이터를 활용하는 간편한 방법 – $root, $parent – 형우의 웹개발](https://mytory.net/archives/15425)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
