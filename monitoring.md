@@ -138,6 +138,7 @@ Monitoring
   * [How To Reduce Costs And Improve Observability With Loki](https://www.activecampaign.com/blog/reducing-costs-and-improving-observability-with-loki)
     * ActiveCampaign이라는 회사에서 ELK(Elasticsearch, Logstash, Kibana)로 로그 시스템을 운영하다가 비용이 너무 커져서 Loki로 이동
     * 프로덕션에 적용할 때는 최적화가 쉽지는 않았지만, 완전히 이전하고 난 뒤에는 이전보다 로그 관련 호스팅 비용을 73% 감소
+  * [따끈따끈한 전사 로그 시스템 전환기: ELK Stack에서 Loki로 전환한 이유 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14505/)
 * [oncall: Developer-friendly incident response with brilliant Slack integration](https://github.com/grafana/oncall)
   * [Introducing Grafana OnCall OSS, on-call management for the open source community | Grafana Labs](https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/)
 * [phlare: 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system](https://github.com/grafana/phlare)
