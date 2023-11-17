@@ -5559,6 +5559,7 @@ Programming
 * [How to Avoid Refactoring Legacy Code HELL - YouTube](https://www.youtube.com/watch?v=Rryo6CoKamE)
 * [LMS 인증 로직을 리팩토링하며 발견한 문제점과 해결방안](https://f-lab.kr/blog/lms-auth-refactoring)
 * [리팩토링 코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745)
+* [6년 묵은 레거시, RootController 리팩토링하기. 서비스의 변화는 소프트웨어의 변경을 동반하고 때때로 레거시를… | by Hyeongseok Park | 29CM TEAM | Nov, 2023 | Medium](https://medium.com/29cm/6%EB%85%84-%EB%AC%B5%EC%9D%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-rootcontroller-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0-424d4259f531)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
