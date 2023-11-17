@@ -218,7 +218,6 @@ Data Science
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
 * [글로벌 사례로 보는 데이터로 돈 버는 법 - 트레저데이터 (Treasure Data)](http://www.slideshare.net/treasure-data/treasure-data)
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
-* [**데이터 품질에 관한 5개 체크포인트**](https://d2.naver.com/helloworld/1179024) 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [데이터 과학을 공부하는 이유](http://flyhendrixfly.net/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9D%84_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/)
 * [**데이터는 차트가 아니라 돈이 되어야 한다**](http://www.slideshare.net/yongho/ss-52116574)
@@ -362,8 +361,6 @@ Data Science
 * [1부: 스타벅스 DT 소셜 데이터를 이용한 감성분석 – SPH](https://www.sphinfo.com/starbucksdt/)
 * [머신러닝 비지도학습으로 찾은 최적의 스타벅스 DT, TOP 4 ! – SPH](https://www.sphinfo.com/starbucksdt-ml2/)
 * [머신러닝 지도학습을 통해서 꼽아본 최적의 스타벅스 DT 장소!? – SPH](https://www.sphinfo.com/starbucksdt-ml3/)
-* [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
-* [Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter)
 * [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
 * [글로벌 칼럼 | 데이터 랭글링을 비하해선 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/203859)
 * [칼럼ㅣ결코 하찮지 않다!··· '데이터 랭글링' 작업이 가치 있는 이유 - CIO Korea](https://www.ciokorea.com/news/203489)
@@ -610,6 +607,10 @@ Data Science
 * [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
   * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
+* Psyberg
+  * [Psyberg: Automated end to end catch up | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/3-psyberg-automated-end-to-end-catch-up-260fbe366fe2)
+  * [Streamlining Membership Data Engineering at Netflix with Psyberg | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1)
+  * [Diving Deeper into Psyberg: Stateless vs Stateful Data Processing | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb)
 * Velox [Hello from Velox | Velox](https://velox-lib.io/)
   * [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
     * Meta에서 데이터 관리 시스템을 가속화하고 간소화하는 통합 실행 엔진 Velox를 오픈소스로 공개
@@ -805,6 +806,13 @@ Data Science
   * [Snorkel을 이용한 직무 키워드 추출 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/05/snorkel%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A7%81%EB%AC%B4-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%B6%94%EC%B6%9C/)
 * [Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set](https://github.com/tuplex/tuplex)
   * [Tuplex - 병렬 빅데이터 처리 프레임워크 | GeekNews](https://news.hada.io/topic?id=4580)
+
+# Quality
+* [**데이터 품질에 관한 5개 체크포인트**](https://d2.naver.com/helloworld/1179024) 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
+* [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
+* [Data Quality Automation at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter)
+* [GX: a proactive, collaborative data quality platform • Great Expectations](https://greatexpectations.io/)
+  * [데이터 품질 이슈로 발생하는 data downtime을 줄이자](https://d2.naver.com/helloworld/5766317)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
