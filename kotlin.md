@@ -215,6 +215,7 @@
   * 그래서 Java 코드를 내부 도구에 필요한 변환 작업을 한 뒤 J2K를 실행하고 Kontlin 파일을 후처리
   * 마이그레이션 후 기대보다는 적은 11%의 코드 라인 감소, 실행 속도 동일, 빌드 속도는 KSP로 주석을 처리해서 해결
 * [Semaphore & Mutex. Today we will discuss what is Semaphore… | by Erselan Khan | Nov, 2022 | Towards Dev](https://towardsdev.com/semaphore-mutex-erselan-khan-2e7df18c4cd5)
+* [Kotlin Mutex: A Comprehensive Guide | by Android-World | Medium](https://medium.com/@android-world/kotlin-mutex-a-comprehensive-guide-a79d0f4f2de7)
 * [코틀린 꼬리 재귀 함수](https://www.roach-dev.com/kotlin_tailrec/)
 * [Kotlin PBKDF2 Secure Password Hashing | Codersee](https://codersee.com/kotlin-pbkdf2-secure-password-hashing/)
 * [Introducing Kotlin/Wasm · seb.deleuze.fr](https://seb.deleuze.fr/introducing-kotlin-wasm/)
@@ -222,6 +223,7 @@
 * [토스ㅣSLASH 23 - 새로운 은행을 위한 Modern 대외 연계 시스템 구축기 - YouTube](https://www.youtube.com/watch?v=eS9tukmYBLI)
 * [5 Pro Kotlin Dev Hacks For More Assertive Code | by Sam Cooper | Jun, 2023 | Medium](https://medium.com/@sam-cooper/5-pro-kotlin-dev-hacks-for-more-assertive-code-26cd2db4d7d7)
 * [Kotlin으로 Cli를 만든다고?](https://d2.naver.com/helloworld/2236952)
+* [Using Kotlin’s Contract APIs for Smarter Helper Functions | by Nate Ebel | Engineering at Premise](https://engineering.premise.com/using-kotlins-contract-apis-for-smarter-helper-functions-6b5b482e23b4)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
