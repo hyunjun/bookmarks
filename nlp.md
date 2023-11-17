@@ -1553,6 +1553,7 @@ NLP
   * [랭체인으로 수익형 AI 웹서비스 만들기 with ChatGPT, LLaMA 2 - YouTube](https://www.youtube.com/watch?v=EWKbZFqiCsE)
   * [Announcing LangChain for Elixir · The Phoenix Files](https://fly.io/phoenix-files/announcing-langchain-for-elixir/)
   * [LLM 챗봇 ,랭체인의 핵심 Retrieval - Document Loaders - YouTube](https://www.youtube.com/watch?v=tIU2tw3PMUE)
+  * [How to print intermediate values in the langchain chain – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4671)
   * [langchain-ask-pdf: An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response](https://github.com/alejandro-ao/langchain-ask-pdf)
   * [langchain-chat-nextjs: Next.js frontend for LangChain Chat](https://github.com/zahidkhawaja/langchain-chat-nextjs)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
