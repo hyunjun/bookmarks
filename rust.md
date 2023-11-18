@@ -493,6 +493,8 @@
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+* [Rust for the impatient - YouTube](https://www.youtube.com/watch?v=br3GIIQeefY)
+  * [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
