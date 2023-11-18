@@ -5706,6 +5706,7 @@ Programming
   * [안드로이드 gRPC 개념 및 사용법 — HolyKisa](https://holykisa.tistory.com/79)
   * [Top 8 Tips To Get More Value Out of gPRC - YouTube](https://www.youtube.com/watch?v=kBO95r-mEqU)
   * [What is RPC? gRPC Introduction. - YouTube](https://www.youtube.com/watch?v=gnchfOojMk4)
+  * [Where should you use gRPC? And where NOT to use it! - YouTube](https://www.youtube.com/watch?v=4SuFtQV8RCk)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
