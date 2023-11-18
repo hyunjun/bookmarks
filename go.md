@@ -768,6 +768,7 @@ Go
   * [Building Microapps with gRPC-Web, Go and React. | Alva Labs](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
   * [Writing a Simple gRPC Application in Golang From Scratch | by Jerry An | May, 2022 | Medium](https://jerryan.medium.com/writing-a-simple-grpc-application-in-golang-from-scratch-6b70e8688f14)
   * [How to writing a microservice in Golang which communicates over gRPC](https://morioh.com/p/a5cb3c4e1af2)
+  * [When RESTful architecture isn't enough... - YouTube](https://www.youtube.com/watch?v=_4TPM6clQjM)
   * [twirp: A simple RPC framework with protobuf service definitions](https://github.com/twitchtv/twirp)
     * [RPC in Go using Twitch's Twirp - TheDeveloperCafe](https://thedevelopercafe.com/articles/rpc-in-go-using-twitchs-twirp-3dcb78ece775)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
