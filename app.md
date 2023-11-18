@@ -1610,6 +1610,7 @@ App
   * [iterm2 에 한글 자소 분리 문제](https://jojoldu.tistory.com/580)
   * [Combining the terminal (iTerm) with the IDE - Alexandru Nedelcu](https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html)
   * [개발자가 맥북사면 가장 먼저 하는일 - YouTube](https://www.youtube.com/watch?v=mba8cnGcgqE)
+  * [How to setup your Mac Terminal to be beautiful - YouTube](https://www.youtube.com/watch?v=wNQpDWLs4To) oh-my-zsh, powerlevel10k, zsh-autosuggestions, zsh-syntax-highlighting, gruvbox itermcolors, colorls gem
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
