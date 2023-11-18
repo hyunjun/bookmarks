@@ -69,6 +69,7 @@ Redis
   * [입 개발 분산 락에 대해서… | Charsyam's Blog](https://charsyam.wordpress.com/2022/12/31/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EB%B6%84%EC%82%B0-%EB%9D%BD%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
   * [입 개발 Redis가 maxmemory 보다 더 썼다가 OOM 에러를 던져요!!! | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/14/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis%EA%B0%80-maxmemory-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8D%BC%EB%8B%A4%EA%B0%80-oom-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%8D%98%EC%A0%B8%EC%9A%94/)
   * [입 개발 Redis 메모리 해제에 관해서… 주로 Expire… | Charsyam's Blog](https://charsyam.wordpress.com/2023/01/05/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%B4%EC%A0%9C%EC%97%90-%EA%B4%80%ED%95%B4%EC%84%9C-%EC%A3%BC%EB%A1%9C-expire/)
+  * [Atomic 한 Tool 만 쓰면 RaceCondition은 없어질까? - Google Slides](https://docs.google.com/presentation/d/1Ppz2Ajr2RQU3xS-qwIK5uHBD6CLaAxAF9DERAtoANRA/edit#slide=id.p) hash set skiplist 모두 atomic
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
