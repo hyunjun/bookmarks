@@ -229,6 +229,7 @@ Sports
 * ["2001년 독일 2부 입단 테스트 거절당하기 일쑤였죠" 국대 출신 수비수 강철의 회상 이근승의 킥앤러시](https://sports.v.daum.net/v/20220222125503112) 축구단 시스템 이야기(선수의 경기력=핵심업무를 위한 체계)가 흥미로운 지점
 * ["왜 B급 감독을 데려와?" 처음 '벤투 감독' 선임 직후 쏟아진 악플에 '홍명보'가 보인 반응](https://yachuk.com/news/articleView.html?idxno=120863) 결국 결과가 중요?
 * [이강인의 드리블 성공률이 유럽에서 1등인 이유(진짜 1등임) - YouTube](https://www.youtube.com/watch?v=vcGdz0crqyE) 패킹 지수
+* [PyData Online - An AI assistant for football analytics - Petar Veličković (Google DeepMind) - YouTube](https://www.youtube.com/watch?v=JGINjfmbXIM)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
