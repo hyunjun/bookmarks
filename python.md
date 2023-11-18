@@ -909,6 +909,9 @@ Python
   * [Quick Python Tip: Suppress Known Exception Without Try Except | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/quick-python-tip-suppress-known-exception-without-try-except-a93ec34d3704)
   * [Robust exception handling - Eli Bendersky's website](https://eli.thegreenplace.net/2008/08/21/robust-exception-handling/)
   * [Raise better errors with Exception Groups - presented by Or Chen - YouTube](https://www.youtube.com/watch?v=w2aSfeXVn8A) 3.11
+  * [How To Keep Error Handling Code Focused // Python Tips - YouTube](https://www.youtube.com/watch?v=QXE6A-Pj6ds)
+  * [Exception Handling Tips in Python ⚠ Write Better Python Code Part 7 - YouTube](https://www.youtube.com/watch?v=ZsvftkbbrR0)
+  * [Monadic Error Handling in Python ⚠ Write Better Python Code Part 7B - YouTube](https://www.youtube.com/watch?v=J-HWmoTKhC8)
   * [How to Catch Multiple Exceptions in Python – Real Python](https://realpython.com/python-catch-multiple-exceptions/)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
@@ -5460,6 +5463,7 @@ Python
 * [Talk - Peacock: Getting Started with Statically Typed Programming in Python 3.10 - YouTube](https://www.youtube.com/watch?v=ZUIK9hxyi7Y)
 * [Python 3.12 Preview: Static Typing Improvements – Real Python](https://realpython.com/python312-typing/)
 * [Python 3.12 - Preview of New Features - YouTube](https://www.youtube.com/watch?v=ZMdS9WqXGzI)
+* [Python 3.12 Generic Types Explained - YouTube](https://www.youtube.com/watch?v=q6ujWWaRdbA)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
