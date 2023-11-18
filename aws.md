@@ -575,6 +575,10 @@ AWS
 * [AWS IoT Private CA을 이용하여 Amazon API Gateway에서 양방향 TLS 인증하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/mutual-tls-authentication-using-aws-iot-private-ca/)
 * [Amazon API Gateway 프라이빗 통합에서의 VPC 링크 이해 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/understanding-vpc-links-in-amazon-api-gateway-private-integrations/)
 
+# AppConfig
+* [dynamic_configurations_prototype.py at main · nsantti/code-examples](https://github.com/nsantti/code-examples/blob/main/src/videos/aws/dynamic_configurations_prototype.py)
+  * [AWS AppConfig Prototype with Code - Dynamic Configurations in Practice - YouTube](https://www.youtube.com/watch?v=guWV2NWzf3g)
+
 # Architecture
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
