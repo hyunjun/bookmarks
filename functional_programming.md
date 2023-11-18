@@ -519,6 +519,7 @@ Functional Programming
 * [Functional Data Modeling in Scala | ScalaJobs.com](https://scalajobs.com/blog/functional-data-modeling-in-scala/)
 * [Functional Programming is Based](https://www.inner-product.com/posts/fp-is-based/)
 * [Understanding FP: Overcoming Intuition and Ease Hurdles - YouTube](https://www.youtube.com/watch?v=VTedRObg5WM)
+* [Unveiling much Simplified Functional Programming in Scala • Afsal Thaj • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=t5tMQ0Kcq1Q)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
