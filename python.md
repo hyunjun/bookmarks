@@ -817,6 +817,7 @@ Python
   * [파이썬 데코레이터를 작성하는 법을 배워야 하는 5가지 이유 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5689111564)
   * [파이썬 5분 강좌: Higher Order Function(ft. Decorator) - 고위함수 - YouTube](https://www.youtube.com/watch?v=XgmSu2miWCM)
   * [A Deep Dive into Python Decorators](https://espere.in/A-Deep-Dive-into-Python-Decorators/)
+  * [나만의 웹 프레임워크를 만들어보며 데코레이터 알아가기](https://blog.naver.com/pjt3591oo/223268350836)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
