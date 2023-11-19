@@ -25,6 +25,7 @@ Baby
 * [목적이 이끄는 삶 : 네이버 블로그](https://blog.naver.com/juliuschun/222989938735)
 * [나의 초감정을 알아야 좋은 관계를 맺을 수 있다 | 최성애 HD행복연구소 소장 | 부모 자녀 감정 교육 | 세바시 1168회 - YouTube](https://www.youtube.com/watch?v=myNrN9t2DT8)
 * [초감정(meta-emotion)을 알아야 좋은 관계를 맺을 수 있다 : 클리앙](https://www.clien.net/service/board/cm_baby/17090994?od=T31&po=0&category=0&groupCd=)
+* [사춘기 반항, 이유는 따로 있다!!(feat.김붕년 서울대병원 소아청소년정신과 교수) - YouTube](https://www.youtube.com/watch?v=BvL5sRTIA9Y)
 
 # 육아휴직
 * [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
