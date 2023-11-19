@@ -1744,6 +1744,9 @@ Book
   * [물고기는 존재하지 않는다. ★★★★☆ 2023.05.17 물고기가 인간의 자의적인 분류라는 깜짝… | by Jun | Jun, 2023 | Medium](https://nymets.medium.com/%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%8A%94-%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4-297730e56928)
   * [물고기는 존재하지 않는다](https://jh4hj.tistory.com/entry/%EB%AC%BC%EA%B3%A0%EA%B8%B0%EB%8A%94-%EC%A1%B4%EC%9E%AC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
   * [물고기는 존재하지 않는다 - Jun’s Substack](https://recur.substack.com/p/081)
+* [제정신이라는 착각](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324944088)
+  * 2023.11.18~19 ★★★★☆ `예측 처리 이론`(`예측 코딩 이론 predictive coding theory`라고도 하는 거 같음)에 대해 국내에서는 처음으로 다루는 책이라고 한다. 뇌과학자의 책이지만, 과학에 대한 이야기만 하지 않고 결국 더불어 사는 사회를 위해 대화가 필요하다는 이야기로 이어지며 읽을수록 마음에 와닿는다는 생각을 하게 되었다.
+  * 탐라 문181.3-슈833ㅈ
 * (NOT YET) [이토록 뜻밖의 뇌과학 | 리사 팰트먼 배럿 | 더퀘스트 - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215842)
   * 한라 511.1813-배294ㅇ, 탐라 문511.1813-배233ㅇ, 우당 문511.1813-배233ㅇ
 * (NOT YET) [자연의 발견](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273522926)
