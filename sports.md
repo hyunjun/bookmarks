@@ -23,6 +23,7 @@ Sports
 * [Data는 Sports를 어떻게 바꿨는가](https://www.slideshare.net/revolutionistK/dsts-how-datachangessportsinbumkim)
 * [How to Draft Players for Sport with Machine Learning and AI](https://medium.com/@simon.tettmar/how-to-draft-players-for-sport-with-machine-learning-and-ai-ab0c7dbf7d76)
 * [의외로 MLB보다 NBA가 더 위기인 이유 (w. 조현일 해설위원) | B주류경제학 - YouTube](https://www.youtube.com/watch?v=x9oagmR7bHE)
+* ["1m 앞에서 슛 날리고 강스파이크까지" 과학적 훈련법 설 자리 없어](https://v.daum.net/v/20231117160006434)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
