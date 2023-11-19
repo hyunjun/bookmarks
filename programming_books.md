@@ -351,7 +351,7 @@ Programming Books
   * 소설같은 형식으로 매우 쉽게 읽을 수 있지만 내용이 충실
   * [성장과 개선은 내가 만들고 함께 하는 것이다](https://brunch.co.kr/@khorikim/514)
 * [**애자일 마스터**](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0)
-  * 탐라
+  * 한라 005.1-라57ㅇ 탐라 개005.1-조19ㅇ
   * [애자일 마스터. 내가 생각하는 방향이 틀리지 않았음을 알게 되었다. 다만 당연히… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0-71565c2b6bfc)
 * [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
   * ★★★★☆ 2022.04.01~02
@@ -2431,6 +2431,10 @@ Programming Books
 * (NOT YET) [한 입 크기로 잘라먹는 리액트 책 소개 - YouTube](https://www.youtube.com/watch?v=I8_izQCFsng)
 * (NOT YET) [Do it! 리액트 모던 웹 개발 with 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307915420)
   * 탐라 문005.138-전64ㄹ
+* (NOT YET) [풀스택 리액트, 타입스크립트, 노드 | 에이콘출판사](http://www.acornpub.co.kr/book/fullstack-react)
+  * 한라 005.118-최24ㅍ
+  * [fullstack-react: 풀스택 리액트, 타입스크립트, 노드 리액트 18, 훅, GraphQL로 클라우드 기반 웹앱 만들기](https://github.com/AcornPublishing/fullstack-react)
+  * [Full-Stack-React-TypeScript-and-Node-acorn: Full-Stack-React-TypeScript-and-Node](https://github.com/JungYeolYang/Full-Stack-React-TypeScript-and-Node-acorn)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
@@ -4287,6 +4291,8 @@ Programming Books
   * 탐라 문004.78-에41ㅇ
 * (NOT YET) [사실은 이것도 디자인입니다](https://hanbit.co.kr/store/books/look.php?p_code=B1230440130)
   * [독서광 사실은 이것도 디자인입니다 - YouTube](https://www.youtube.com/watch?v=pbIH-q9eE0c)
+* (NOT YET) [유저 인터뷰 교과서 : 유엑스리뷰](https://uxreview.net/1544103585/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14596088&t=board)
+  * 한라 004.78-나65ㅇ
 
 # Vision
 * [비전 시스템을 위한 딥러닝](https://hanbit.co.kr/store/books/look.php?p_code=B6566099029)
