@@ -1642,6 +1642,7 @@ Javascript
   * [GraphQL과 Apollo 두번째 이야기 - REST API란?](https://junyharang.tistory.com/510)
   * [GraphQL과 Apollo 세번째 이야기 - GraphQL의 정보 주고 받는 방식](https://junyharang.tistory.com/511)
   * [GraphQL과 Apollo 네번째 이야기 - Apollo란?](https://junyharang.tistory.com/512)
+  * [GraphQL과 Apollo 다섯번째 이야기 - GraphQL을 간단하게 구현해 보아요 😀](https://junyharang.tistory.com/513)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [Prisma - replaces traditional ORMs](https://www.prisma.io/)
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
