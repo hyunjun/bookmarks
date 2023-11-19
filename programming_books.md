@@ -224,6 +224,9 @@ Programming Books
 * [사라진 개발자들](https://hanbit.co.kr/store/books/look.php?p_code=B4793001395)
   * ★★★☆☆ 2023.10.06, 08
   * [사라진 개발자들](https://yeonyeon.tistory.com/316)
+* [보이지 않는 위협](https://hanbit.co.kr/store/books/look.php?p_code=B3101735444)
+  * ★★★☆☆ 2023.11.19 cyber security의 전문가가 쓴 보안에 대한 책이지만, 사례 중심으로 읽을 수 있어서 보안 뿐 아니라 일반적인 경영, management에 빗대어 생각하기도 좋은 책이었다
+  * 탐라 문004.61-김95ㅂ
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) [앤서블 철저 입문: Ansible로 클라우드 구성 관리 자동화하기 | 위키북스](https://wikibook.co.kr/ansible/)
