@@ -5076,6 +5076,7 @@ Python
 * [Py) Pandas - 2버전 출시!! - Data Doctor](https://datadoctorblog.com/2023/03/24/Py-Pandas-new-version-2/)
 * [Noa Tamir, Patrick Hoefler: Let's contribute to pandas (3 hours) PART.1 - YouTube](https://www.youtube.com/watch?v=B6fnPayCnuw)
 * [PyCon KR 2023 로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략 오성우 - YouTube](https://www.youtube.com/watch?v=M6YuOk4dAH4)
+* [Pandas Dataframes on your GPU w/ CuDF - YouTube](https://www.youtube.com/watch?v=OnYGtKQT-rU)
 * downcast [Essential basic functionality — pandas 1.4.3 documentation](https://pandas.pydata.org/docs/user_guide/basics.html?highlight=downcast#gotchas)
   * [1/2 1G 이상의 파일을 여러 개 불러와야 하는데 메모리가 부족하다면? 판다스 다운캐스트 - YouTube](https://www.youtube.com/watch?v=3rTjEtj9Rg4)
   * [2/2 데이터프레임의 전체에 다운캐스트를 하면 용량은 얼마나 줄어들까? - YouTube](https://www.youtube.com/watch?v=hJp8IiyIfFI)
