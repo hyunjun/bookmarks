@@ -3495,6 +3495,8 @@ Programming Books
   * [프로덕트의 전략적 로드맵을 만드는 균형 잡기](https://brunch.co.kr/@graypool/1279)
   * [실제 비용과 가치 검증은 프로덕트 릴리즈 이후 발생](https://brunch.co.kr/@graypool/1328)
 * (NOT YET) [PO 세션 멘토가 알려주는 PO 플레이북](https://www.secretnote.co.kr/product/PO)
+* (NOT YET) [프로페셔널 제품 책임자 | 에이콘출판사](http://www.acornpub.co.kr/book/product-owner)
+  * [프로페셔널 제품관리자 - YouTube](https://www.youtube.com/playlist?list=PLBNdLLaRx_rJY-EZOFHH3v9GyAvYAvKHi)
 
 # Programmer, 자기계발?
 * [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
