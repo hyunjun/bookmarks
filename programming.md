@@ -2418,6 +2418,7 @@ Programming
   * [Part1: 건 별 API 호출을 일괄 조회로 개선하기](https://blog.naver.com/wharup/223188187194)
   * [Part2: 로컬 캐시로 더 빠르게 개선하기](https://blog.naver.com/wharup/223195089165)
   * [Part3: MSA vs 모놀리식 성능 비교](https://blog.naver.com/wharup/223207677924)
+* [MSA의 독립적인 배포는 그게 아니에요 : 네이버 블로그](https://blog.naver.com/wharup/223268819220)
 * [Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix - YouTube](https://www.youtube.com/watch?v=TOM6UhCetQ0)
 * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법 | GeekNews](https://news.hada.io/topic?id=11498)
   * [권정혁 - Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://www.facebook.com/xguru/posts/pfbid0CfUJ9s6k53HyAed1TDxkfs4kvxTunbnWeQnRCrcxyC2MWrsbQdMJtB8B6vaVNCANl)
