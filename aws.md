@@ -455,6 +455,7 @@ AWS
   * Data Warehouse와 Data Lake의 탄생 배경, AWS의 Serverless로 구조를 설계하는 방법 설명
 * [AWS에서의 Transactional Data Lake를 위한 오픈 테이블 형식(Open table format) 선택 가이드 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/choosing-an-open-table-format-for-your-transactional-data-lake-on-aws/)
 * [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
+* [AWS Resource Explorer 다중 계정 리소스 검색 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-multi-account-search-in-aws-resource-explorer/)
 * [NRISE를 지탱하는 기술 — 인프라. NRISE는 국내 소셜 디스커버리 시장을 선도하는 위피(WIPPY)와… | by Daegeun Kim | Nov, 2022 | NRISE](https://blog.nrise.net/nrise%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%9D%B8%ED%94%84%EB%9D%BC-b93f9771d6e0)
   * 위피와 콰트를 운영하는 엔라이즈에서 지난 1년간 인프라를 개선 시킨 과정과 도입한 도구 정리
   * 기존 인프라를 EKS와 풀 매니지드 서비스로 전환하는 것을 목표로
@@ -528,6 +529,7 @@ AWS
   * [AWS, 2024년 2월 1일부터 공인 IPv4 주소에 대해서 비용 부과 시작 | GeekNews](https://news.hada.io/topic?id=10186)
 * [클라우드 데이터베이스 엔지니어의 역할 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/empowering-the-role-of-the-cloud-database-engineer/)
 * [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
+* [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1993,6 +1995,7 @@ AWS
 * [완전 관리형 AI 서비스를 활용하여 서버리스로 책 읽어주는 서비스 이용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/serverless-storytime-using-managed-ai-service/)
 * [Amazon Polly를 통한 서버리스 동화 구연 앱 만들기 - 윤석찬 (AWS 테크에반젤리스트) - YouTube](https://www.youtube.com/watch?v=kohv8FIwlKM)
 * [파이썬으로 AI 음성합성하기 Amazon Polly](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0-Amazon-Polly)
+* [Amazon Polly용 롱폼 엔진 기반 신규 영어 음성 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-long-form-voices-for-amazon-polly/)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
