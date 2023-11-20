@@ -268,6 +268,8 @@ Artificial Intelligence
 * [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
 * [interviews.ai: This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job](https://github.com/BoltzmannEntropy/interviews.ai)
+* [kyutai: open science AI lab](http://kyutai.org/)
+  * [3억 3천만 달러 예산을 가진 'Kyutai AI' 연구소, 모든 것을 오픈 소스로 공개 | GeekNews](https://news.hada.io/topic?id=11943)
 * [leon: 🧠 Leon is your open-source personal assistant](https://github.com/leon-ai/leon)
 * Mage.ai [The fastest way to build and use AI | Mage](https://www.mage.ai/)
   * [Mage - AI로 데이터에서 예측 해주는 도구 | GeekNews](https://news.hada.io/topic?id=6186)
