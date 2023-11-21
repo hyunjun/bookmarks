@@ -643,6 +643,8 @@ AWS
 * [Amazon Bedrock을 이용하여 Stream 방식의 한국어 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/stream-chatbot-for-amazon-bedrock/)
 * [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models | AWS News Blog](https://aws.amazon.com/tw/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 * [Amazon Bedrock, Meta의 Llama 2 Chat 13B 모델에 대한 액세스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
+* [PartyRock](https://partyrock.aws/)
+  * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
