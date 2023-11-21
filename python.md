@@ -5502,6 +5502,7 @@ Python
   * [LlamaIndex Webinar: From Prompt to Schema Engineering with Pydantic (with @jxnlco) - YouTube](https://www.youtube.com/watch?v=TdVbH7uJR_Y)
   * [Python Class의 연산자, 특수 메서드, 상속, 그리고 pydantic](https://devocean.sk.com/blog/techBoardDetail.do?ID=164774)
   * [Pydantic is all you need: Jason Liu - YouTube](https://www.youtube.com/watch?v=yj-wSRJwrrc)
+  * [Pydantic Tutorial • Solving Python's Biggest Problem - YouTube](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
