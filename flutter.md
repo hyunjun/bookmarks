@@ -257,6 +257,7 @@ Flutter
   * [The fastest way to build Flutter apps in Python | Flet](https://flet.dev/)
   * [User Interface in Python and Flet | Flutter for Python - YouTube](https://www.youtube.com/watch?v=y75vekE9OqU)
 * [Flutter hooks flutter_hooks 이게 뭐야? 뭐가 좋은거야? - YouTube](https://www.youtube.com/watch?v=GBVBLKESogU)
+* [Flutter StatefulWidget을 대체하는 Flutter Hooks | by Cody Yun | Nov, 2023 | Medium](https://medium.com/@cody.yun/flutter-statefulwidget%EC%9D%84-%EB%8C%80%EC%B2%B4%ED%95%98%EB%8A%94-flutter-hooks-7d4b6e095ede)
 * [fullstack_dart_todo](https://github.com/leehack/fullstack_dart_todo)
   * [Let's build a full-stack dart app - DEV Community](https://dev.to/leehack/lets-build-a-full-stack-dart-app-36lm)
 * [gallerywallpaper: Apps using Flutter for settings UI of Livewallpaper](https://github.com/alongthecloud/gallerywallpaper) 플러터와 안드로이드 네이티브 서비스를 같이 쓰는 샘플
