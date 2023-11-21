@@ -366,9 +366,6 @@ Programming
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
 * [**Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
-* [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
-* [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
-* [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
 * [**Project Guidelines**](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)
 * [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
@@ -3765,6 +3762,9 @@ Programming
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 
 # Cryptography, Security
+* [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
+* [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
+* [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
 * [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
 * [암호 알고리즘 AES-GCM-SIV 최적화 작업 소개](https://engineering.linecorp.com/ko/blog/AES-GCM-SIV-optimization)
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
@@ -3917,6 +3917,7 @@ Programming
   * 이번 공격은 멀티팩터 인증을 구현했지만, Google의 동기화 기능 업데이트를 통해 멀티팩터 인증이 싱글팩터 인증으로 바뀌게 되어 Okta를 획득하자 다른 모든 것에 인증 가능
 * [개인용 pc 를 서버로 사용한 안전한 원격 작업 실행 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4550)
 * [Building Images For The Secure Supply Chain • Adrian Mouat • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=bZTlLAg9UZ4)
+* [Should Your Notes Be End-to-End Encrypted? | Supernotes](https://supernotes.app/blog/posts/notes-end-to-end-encryption/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [awesome-web-security: 🐶 A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security)
 * [CaptchaCracker/README-ko.md at main · WooilJeong/CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker/blob/main/README-ko.md)
