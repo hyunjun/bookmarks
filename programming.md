@@ -949,6 +949,7 @@ Programming
 * [**애자일 프레임워크 제대로 활용하는 법 | 요즘IT**](https://yozm.wishket.com/magazine/detail/2196/)
 * [토스에서 요즘 ‘애자일’하는 방법(feat. EoA) | 요즘IT](https://yozm.wishket.com/magazine/detail/2203/)
 * [일의 완료 기준을 구체적으로 적으면 얻게 되는 이득](https://brunch.co.kr/@graypool/1312) DoD, boundary
+* [Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
 * [CodeOwnership](https://martinfowler.com/bliki/CodeOwnership.html)
   * [애자일 활동에서 Collective code ownership이 '코드 공유'를 말하는게...](https://www.facebook.com/jinho.yoo.10/posts/pfbid08uZceQNYc4gygBoaeHAjNv5SqDxEwfVyoSg833tKJBsc8SwFmKbcNekcR5KbPpp5l)
   * collective code ownership = shared code
