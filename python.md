@@ -1924,6 +1924,7 @@ Python
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
 * [isort: A Python utility / library to sort imports](https://github.com/pycqa/isort/)
+  * [The black and isort Libraries - YouTube](https://www.youtube.com/watch?v=5ut5Rm5jWRU)
 * [µfmt — µfmt documentation](https://ufmt.omnilib.dev/)
 * [μsort — µsort documentation](https://usort.readthedocs.io/)
 * [YAPF - Yet Another Python Formatter](http://eli.thegreenplace.net/2015/yapf-yet-another-python-formatter/)
