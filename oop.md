@@ -190,6 +190,7 @@
 * [DI 적용도 생각하는 힘과 함께 하자](https://brunch.co.kr/@graypool/520)
 * [Dependency Injection 기초](https://cliearl.github.io/posts/android/dependency-injection-basic/)
 * [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+* [의존성 주입 안티패턴: Ambient Context · Soojin Ro](https://soojin.ro/blog/ambient-context-anti-pattern)
 * [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
   * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
 
