@@ -5504,6 +5504,7 @@ Python
   * [Pydantic is all you need: Jason Liu - YouTube](https://www.youtube.com/watch?v=yj-wSRJwrrc)
   * [Pydantic Tutorial • Solving Python's Biggest Problem - YouTube](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
   * [Parsing data with Pydantic - A Python short by Michael Kennedy - YouTube](https://www.youtube.com/watch?v=aHv7-6WIxNM)
+  * [The (Awesome!) Pydantic library for creating self-validating Data Models - YouTube](https://www.youtube.com/watch?v=gb3arRysqMo)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
