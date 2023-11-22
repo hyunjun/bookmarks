@@ -645,6 +645,7 @@ Linux
 * `dd`
   * [Why All My Servers Have an 8GB Empty File - BiteofanApple](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
     * [내 모든 서버들이 8GB짜리 빈 파일을 가지고 있는 이유 | GeekNews](https://news.hada.io/topic?id=3967)
+  * [메모 dd 명령어로 이미지 복사하기 명령어 – 형우의 웹개발](https://mytory.net/archives/15532)
 * `df`
   * [df 명령어](https://johngrib.github.io/wiki/df/)
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
