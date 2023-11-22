@@ -2893,6 +2893,7 @@ Programming
 * [The surprising truth about Cloud Egress Costs | by Alexandre Guérin | Apr, 2023 | Medium](https://medium.com/@alexandre_43174/the-surprising-truth-about-cloud-egress-costs-d1be3f70d001)
 * [개인 프로젝트에 머신러닝에 클라우드를 쓸때의 장단점 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4500)
 * [주말판 클라우드로 전환하기 위해 기업이 반드시 갖춰야 할 10가지 스킬](https://www.boannews.com/media/view.asp?idx=118618)
+* [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -6201,6 +6202,7 @@ Programming
 * [29CM QA팀의 API를 활용한 업무 효율 끌어올리기. | 29CM TEAM](https://medium.com/29cm/29cm-qa%ED%8C%80%EC%9D%98-api%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-3d926d7247d5)
 * [Spoqa 기술 블로그 | 기능 테스트 전환 이야기](https://spoqa.github.io/2023/10/20/functional-testing-converting-story.html)
 * [테스트하기 쉬운 코드 작성법](https://f-lab.kr/blog/good-code-to-test)
+* [서버사이드 테스트 파랑새를 찾아서 | 우아한형제들 기술블로그](https://techblog.woowahan.com/14874/)
 * [Aqua 출시 – 테스트 자동화를 위한 강력한 JetBrains IDE | Quality Assurance](https://blog.jetbrains.com/ko/qa/2022/11/introducing-aqua-a-powerful-ide-for-test-automation-by-jetbrains/)
   * JetBrains에서 테스트 자동화용 IDE Aqua를 출시. Java, Kotlin, Python, JavaScript, TypeScript, SQL을 지원하고 UI 자동화도 가능
 * [codekata.com](http://codekata.com/)
