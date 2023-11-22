@@ -1277,6 +1277,7 @@ Javascript
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
   * [FEConf 2023 A Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc)
   * [FEConf 2023 B Track - YouTube](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ)
+  * [당근 @ FEConf 2023. 지난 10월 21일에 열렸던 FEConf 2023 행사, 당근 부스와… | by Hyeseong Kim | 당근 테크 블로그 | Nov, 2023 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC-feconf-2023-3994d7813f15)
   * [FEconf 2022 - TRACK A - YouTube](https://www.youtube.com/watch?v=jZNk-Ncez6E)
   * [FEconf 2022 - TRACK B - YouTube](https://www.youtube.com/watch?v=ajtpcFkXqqg)
   * [FEConf 2022 참석 후기](https://noogoonaa.tistory.com/120)
@@ -2940,6 +2941,7 @@ Javascript
 # Node.js
 * [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [node.js 빠르게 개발하기](https://www.youtube.com/watch?v=qGEXyRQ67e8)
+* [한시간만에 Node.js 백엔드 기초 끝내기 (ft. API 구축) - YouTube](https://www.youtube.com/watch?v=Tt_tKhhhJqY)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
 * [**The definitive Node.js handbook**](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 * [Node.js - 쿠키와 인증](https://opentutorials.org/course/3387)
