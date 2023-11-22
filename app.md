@@ -456,6 +456,7 @@ App
   * [메모 워드프레스 블록 플러그인이라도 등록 기본 요건은 PHP 파일의 주석 – 형우의 웹개발](https://mytory.net/archives/15131)
   * [구텐베르크  에디터와 구텐베르크 플러그인의 차이 – 형우의 웹개발](https://mytory.net/archives/15297)
   * [워드프레스 커스텀 포스트 타입 싱글 페이지 접근 URL 비활성화 – 형우의 웹개발](https://mytory.net/archives/15319)
+  * [워드프레스 구텐베르크 플러그인 폰트 업로드 에러 해결 – Error installing the fonts – 형우의 웹개발](https://mytory.net/archives/15495)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
