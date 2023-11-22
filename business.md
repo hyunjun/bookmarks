@@ -1042,6 +1042,8 @@ Business
 * [경영활동은 시행착오로 가능성을 확인하는 일](https://brunch.co.kr/@graypool/961)
 * ["30년 직장동료 다 잘랐다"…인자했던 회장님 돌변한 까닭 백수전의 '테슬람이 간다'](https://v.daum.net/v/20230617070102257)
 * [스타트업 성공의 골든 티켓, CEO Staff | 요즘IT](https://yozm.wishket.com/magazine/detail/2172/)
+* [Everything vs. Anything - The Startup CEO blog](https://startupceo.com/2023/11/everything-vs-anything)
+  * [번역 Everything vs. Anything (모든 것 vs. 무엇이든) | Daily Log](https://jiyeonseo.github.io/2023/11/19/everything-vs-anything/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -2090,6 +2092,7 @@ Business
 * [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
 * [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
 * [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
+* [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2615,6 +2618,7 @@ Business
 * [User research platform for user interviews and user tests | PingPong](https://www.hellopingpong.com/)
 * [Taxomony, 유저 행동 로그 이름 정하기. 유저 행동데이터 분석을 위해 꼭 필요한 유저 행동 로그 데이터 기획 | by Jayeon Choi | 원티드랩 기술 블로그 | Sep, 2023 | Medium](https://medium.com/wantedjobs/taxomony-%EC%9C%A0%EC%A0%80-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EB%A6%84-%EC%A0%95%ED%95%98%EA%B8%B0-8ceb135f6d6)
 * [구독 서비스의 성장 지표 확인하기: 구독자와 매출. (1)구독자 | by DelightRoom | DelightRoom | Oct, 2023 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C%EB%B6%84%EC%84%9D-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-1-%EA%B5%AC%EB%8F%85%EC%9E%90-92f0a6ec4243)
+* [구독 서비스의 성장 지표 확인하기 #1. (1) 구독자 지표 | by Seunghwa Yang | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%84%B1%EC%9E%A5-%EC%A7%80%ED%91%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-1-7bae90039715)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
