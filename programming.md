@@ -349,6 +349,7 @@ Programming
 * [DevOps를 가속화하는 플랫폼 엔지니어링│인프콘 2023 미리보기 | INFCON2023 - YouTube](https://www.youtube.com/watch?v=NiTchJph9e4)
   * [Infcon 2023에서 발표한 "DevOps를 가속화하는 플랫폼 엔지니어링" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1684)
 * [Platform Engineering On Kubernetes Part 1: Operators - DEV Community](https://dev.to/thenjdevopsguy/platform-engineering-on-kubernetes-part-1-operators-2ai4)
+* [AWSKRUG 플랫폼 엔지니어링 모임 후기 (2023/11/21) — 생존과 성장 사이](https://dokdo2013.tistory.com/14)
 * [내부 개발자 플랫폼(IDP) 구축을 도와주는 Humanitec :: Outsider's Dev Story](https://blog.outsider.ne.kr/1680)
 * [SRE · Present](https://present.do/documents/6335bb5870efd011b8f67dcd)
 * [Google Cloud Next Innovators Hive: Korea에서의 "클라우드 시대에 맞는 사이트 신뢰성 엔지니어" 발표 자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1635)
@@ -439,6 +440,7 @@ Programming
 * [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
 * [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 * [직접 만들면서 이해하는 oauth2.0 원리](https://blog.naver.com/pjt3591oo/222693372349)
+* [CI & DI에 대해 알아보기 🔑 :: iOYES](https://green1229.tistory.com/423)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [핀테크 서비스 벡엔드 개발자가 알려주는 시리즈 - 인증인가 편](https://sponge-palm-382.notion.site/381cbb45c07f4de9b7f720ace18d33be)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
@@ -477,6 +479,7 @@ Programming
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
 * [Animated QR codes: how do they work, and how to create your own?](https://www.bleepingcomputer.com/news/technology/animated-qr-codes-how-do-they-work-and-how-to-create-your-own/)
+* [끊김없는 게임 플레이를 실현한 카카오페이 결제 특허 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kakaopay-payment-patent/)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
   * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
   * Most of Google’s code is stored in a single unified source-code repository, and is accessible to all software engineers at Google
@@ -2894,6 +2897,7 @@ Programming
 * [개인 프로젝트에 머신러닝에 클라우드를 쓸때의 장단점 – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4500)
 * [주말판 클라우드로 전환하기 위해 기업이 반드시 갖춰야 할 10가지 스킬](https://www.boannews.com/media/view.asp?idx=118618)
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
+* [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -4623,6 +4627,7 @@ Programming
 * [선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native - YouTube](https://www.youtube.com/watch?v=dLwEGT01S6E)
 * [내 주변 송금이 블루투스로 만들어졌다고? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bluetooth-remittance/)
 * [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by DelightRoom | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-3720aa09fbf5)
+* [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by Joon Won Lee | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-b0ab2d936dac)
 * [Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
@@ -4630,6 +4635,7 @@ Programming
   * [잼킷 설치 가이드 for Window - 잼킷으로 네이티브 앱 개발하기](https://opentutorials.org/course/4780/30593)
   * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
   * [잼킷 9살 아들이 그린 그림으로 그림책 앱을 만들었어요! - YouTube](https://www.youtube.com/watch?v=lZWjnJTeqnc)
+* NCrashlytics [App Crash? 0.1초 만에 분석해 드릴게요, 고품질 고성능 Crash 분석 시스템 NCrashlytics](https://d2.naver.com/helloworld/3461887?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # Multimedia
@@ -5893,6 +5899,7 @@ Programming
 * [스타트업 개발조직의 퍼포먼스 개선 비법 - YouTube](https://www.youtube.com/watch?v=eBeNiN_tQZc)
 * [How to Improve Developer Productivity • Jez Humble • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=5_rrQND3lpQ)
   * [state-of-devops-2019.pdf](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p57 productivity에 영향을 미치는 요인들
+* [Developer Productivity Engineering: What's in it for me? - YouTube](https://www.youtube.com/watch?v=w9u7cIiVelc)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
