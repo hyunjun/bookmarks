@@ -4635,7 +4635,7 @@ Programming
   * [잼킷 설치 가이드 for Window - 잼킷으로 네이티브 앱 개발하기](https://opentutorials.org/course/4780/30593)
   * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
   * [잼킷 9살 아들이 그린 그림으로 그림책 앱을 만들었어요! - YouTube](https://www.youtube.com/watch?v=lZWjnJTeqnc)
-* NCrashlytics [App Crash? 0.1초 만에 분석해 드릴게요, 고품질 고성능 Crash 분석 시스템 NCrashlytics](https://d2.naver.com/helloworld/3461887?utm_campaign=asb&utm_medium=blog&utm_source=awesome-blogs.petabytes.org)
+* NCrashlytics [App Crash? 0.1초 만에 분석해 드릴게요, 고품질 고성능 Crash 분석 시스템 NCrashlytics](https://d2.naver.com/helloworld/3461887)
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # Multimedia

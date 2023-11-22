@@ -1027,7 +1027,7 @@ AWS
   * 2012년 시작점의 단일 PIOPS 볼륨은 최대 1000 IOPS를 제공할 수 있었고, 오늘날의 하이엔드 io2 Block Express 볼륨은 최대 256,000 IOPS를 제공
 * [Amazon Elastic Block Store io2 볼륨용 NVMe 예약 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 * [Amazon EBS의 FSR을 이용해 설치형 DB 를 빠르게 스케일업 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/self-managing-db-scaleup-with-fsr/)
-* [Amazon EBS 스냅샷 공개 공유 차단 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-block-public-sharing-of-amazon-ebs-snapshots/?utm_source=dlvr.it&utm_medium=facebook)
+* [Amazon EBS 스냅샷 공개 공유 차단 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-block-public-sharing-of-amazon-ebs-snapshots/)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
