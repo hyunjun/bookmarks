@@ -406,6 +406,7 @@ AWS
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [AWS 멀티테넌트 SaaS 환경의 보안 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-practices-in-aws-multi-tenant-saas-environments/)
 * [AWS 서비스를 사용하는 멀티테넌트 SaaS 환경에서의 데이터 수집 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/data-ingestion-in-a-multi-tenant-saas-environment-using-aws-services/)
+* [**Blux(구 Z.Ai)의 Amazon EKS 기반 AWS SaaS 아키텍처 주요 패턴 적용 사례** | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/blux-adopting-aws-saas-architecture/)
 * [AWS 마켓플레이스 SaaS 솔루션 무료 평가판 등록 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/create-free-trial-offer-saas-usage-based-pricing-products-aws-marketplace/)
 * [Building Agile, AI-Powered SaaS Platforms on AWS - YouTube](https://www.youtube.com/watch?v=0noSjtpU-ts)
 * [AWS SaaS Factory 프로그램](https://aws.amazon.com/ko/partners/programs/saas-factory/)
@@ -447,6 +448,7 @@ AWS
 * [컨테이너 AWS App Runner를 활용한 컨테이너 서버리스 활용기 | 김진영, 지디디코퍼레이션 - YouTube](https://www.youtube.com/watch?v=VJ8YXDTkhHw)
 * [Creating chaos in containers by Maish Saidel-Keesing - YouTube](https://www.youtube.com/watch?v=oQ1iKjOpGHQ)
 * [Hybrid Cloud Storage Architecture | by Nikhil Kumar | AWS Tip](https://awstip.com/hybrid-cloud-storage-architecture-46f23d265d24)
+* [AWS를 잘 사용하기 위한 7가지 사용 팁 - YouTube](https://www.youtube.com/watch?v=ex1dKvj2HVM)
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
@@ -530,6 +532,7 @@ AWS
 * [클라우드 데이터베이스 엔지니어의 역할 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/empowering-the-role-of-the-cloud-database-engineer/)
 * [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
 * [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
+* [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -643,6 +646,7 @@ AWS
 * [Amazon Bedrock을 이용하여 Stream 방식의 한국어 Chatbot 구현하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/stream-chatbot-for-amazon-bedrock/)
 * [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models | AWS News Blog](https://aws.amazon.com/tw/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 * [Amazon Bedrock, Meta의 Llama 2 Chat 13B 모델에 대한 액세스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
+* [Amazon Bedrock, AWS Chatbot을 이용한 ChatOps 모니터링 솔루션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-aws-chatbot-chatops/)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
@@ -892,6 +896,7 @@ AWS
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
 * [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
 * [스팟인스턴스 도입을 통한 비용 최적화](https://brunch.co.kr/@alden/66)
+* [AWS Instance Scheduler로 비용 절감하기 - YouTube](https://www.youtube.com/watch?v=amL-kQOV0Go)
 * [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
 * [AWS와 Firebase 비용에 관한 생각 정리](https://developer88.tistory.com/291)
 * [AWS 비용 연 1억원 줄이기 - DevJelly](https://dev-jelly.netlify.app/posts/AWS%20%EB%B9%84%EC%9A%A9%20%EC%97%B0%201%EC%96%B5%EC%9B%90%20%EC%A4%84%EC%9D%B4%EA%B8%B0)
@@ -2369,6 +2374,7 @@ AWS
 * [Terraform configmaps "aws-auth" already exists](https://jybaek.tistory.com/1009)
 * [Error asking for state migration action: input is disabled](https://jybaek.tistory.com/1011)
 * [Lambda 최초 배포 시 컨테이너 이미지 처리](https://jybaek.tistory.com/1010)
+* [HashiCorp Terraform 자격증 후기](https://jybaek.tistory.com/1012)
 * [citizen: A Private Terraform Module/Provider Registry](https://github.com/outsideris/citizen)
   * [HashiCorp 유저그룹에서 발표한 "Citizen 개발기" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1604)
 * [cloudwatch](https://github.com/Jaffarterraform786/cloudwatch)
@@ -2413,6 +2419,7 @@ AWS
 * [AWS 계정에 MFA 디바이스 할당하기 – Lamanus' Archive](https://lamanus.kr/106)
 * [AWS 사용시 알아두면 좋은 점들 – Lamanus' Archive](https://lamanus.kr/107)
 * [아마존(AWS)에 적응하는 나만의 방법. 현업에서 개발자로서 시작한게 20년 쯤 이였습니다. 당시 작은… | by 강은호 | 월요일 오후 9시 | Mar, 2023 | Medium](https://medium.com/monday-9-pm/%EC%95%84%EB%A7%88%EC%A1%B4-aws-%EC%97%90-%EC%A0%81%EC%9D%91%ED%95%98%EB%8A%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B0%A9%EB%B2%95-dc90344477cd)
+* [How I Would Learn AWS Today (after 10 years of cloud experience) - YouTube](https://www.youtube.com/watch?v=LTH9m4HkeYY)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
