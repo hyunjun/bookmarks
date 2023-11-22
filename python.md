@@ -5503,6 +5503,7 @@ Python
   * [Python Class의 연산자, 특수 메서드, 상속, 그리고 pydantic](https://devocean.sk.com/blog/techBoardDetail.do?ID=164774)
   * [Pydantic is all you need: Jason Liu - YouTube](https://www.youtube.com/watch?v=yj-wSRJwrrc)
   * [Pydantic Tutorial • Solving Python's Biggest Problem - YouTube](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
+  * [Parsing data with Pydantic - A Python short by Michael Kennedy - YouTube](https://www.youtube.com/watch?v=aHv7-6WIxNM)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
