@@ -224,6 +224,7 @@
 * [5 Pro Kotlin Dev Hacks For More Assertive Code | by Sam Cooper | Jun, 2023 | Medium](https://medium.com/@sam-cooper/5-pro-kotlin-dev-hacks-for-more-assertive-code-26cd2db4d7d7)
 * [Kotlin으로 Cli를 만든다고?](https://d2.naver.com/helloworld/2236952)
 * [Using Kotlin’s Contract APIs for Smarter Helper Functions | by Nate Ebel | Engineering at Premise](https://engineering.premise.com/using-kotlins-contract-apis-for-smarter-helper-functions-6b5b482e23b4)
+* [입 개발 Kotlin으로 Google Sheet 열어보기 | Charsyam's Blog](https://charsyam.wordpress.com/2023/11/21/%ec%9e%85-%ea%b0%9c%eb%b0%9c-kotlin%ec%9c%bc%eb%a1%9c-google-sheet-%ec%97%b4%ec%96%b4%eb%b3%b4%ea%b8%b0/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -313,6 +314,7 @@
   * [Kotlin Collection Functions Cheat Sheet](https://medium.com/@elye.project/kotlin-collection-functions-cheat-sheet-975371a96c4b)
     * [Kotlin의 Collection 함수](https://medium.com/hongbeomi-dev/kotlin-collection-%ED%95%A8%EC%88%98-7a4b1290bce4)
   * [Transforming Kotlin Collections - Functions with Examples - Appcircle Blog](https://blog.appcircle.io/article/transforming-kotlin-collections-functions-with-examples)
+  * [Kotlin에서 리스트 추출하기 : subList, slice, take, drop](https://ebay-korea.tistory.com/96)
 * Duration [NEW Kotlin's Duration API is Amazing! - YouTube](https://www.youtube.com/watch?v=PNbLMKj5fl4)
 * Exception
   * [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
