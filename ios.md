@@ -157,6 +157,7 @@ iOS
 * [의존성 관리 툴 비교정리 · Soojin Ro](https://soojin.ro/blog/dependency-management)
 * [인앱리뷰(In-App Review) 연동하기 :: iOYES](https://green1229.tistory.com/420) StoreKit
 * [ATS (App Transport Security) 톺아보기 :: iOYES](https://green1229.tistory.com/421)
+* [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
