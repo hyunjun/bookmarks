@@ -1121,6 +1121,7 @@ Apache
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
     * [ksqlDB Deep Dive | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/03/20/ksqldb-deepdive.html)
+    * [ksqlDB를 이용하여 실시간 ML 피쳐 데이터를 계산하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2023/11/21/ksqldb-for-ml-feature-calculation.html)
     * [ksqldb-handle-deserialization-errors: How to handle deserialization errors.](https://github.com/dbdbdeep-git/ksqldb-handle-deserialization-errors)
       * [How to handle deserialization errors using ksqlDB](https://kafka-tutorials.confluent.io/handling-deserialization-errors/ksql.html)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
