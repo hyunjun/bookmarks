@@ -533,6 +533,7 @@ AWS
 * [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
 * [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
+* [Amazon OpenSearch Service, 한국어 분석을 위한 ‘노리(Nori)’ 플러그인 활용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-service-korean-nori-plugin-for-analysis/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
