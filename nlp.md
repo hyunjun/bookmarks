@@ -1422,6 +1422,8 @@ NLP
 * [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [Large Language Models: Friend, Foe, or Otherwise • Alex Castrounis • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=05GkNdD7JGo)
 * [“하나의 모델이 만능은 아니다” 챗GPT를 대체할 만한 14가지 LLM - ITWorld Korea](https://www.itworld.co.kr/news/298207)
+* ['작을 수록 좋은 것' 대규모 언어 모델은 축소되어야 한다 - ITWorld Korea](https://www.itworld.co.kr/news/307765)
+* ["생성형 AI의 기반" 대규모 언어 모델 총정리 - ITWorld Korea](https://www.itworld.co.kr/news/314561)
 * [Deduplication - 학습 데이터에서 중복 제거하기 – 스캐터랩 기술 블로그](https://tech.scatterlab.co.kr/deduplication/)
 * [$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw)
 * [올여름의 불타는 LLM: 세상도 불타고 나도 불타고 - Speaker Deck](https://speakerdeck.com/inureyes/olyeoreumyi-bultaneun-llm-sesangdo-bultago-nado-bultago)
@@ -1438,7 +1440,6 @@ NLP
 * [LLaMA 같은 오픈소스 LLM을 사용 할 수 없는 이유](https://typical-clam-45a.notion.site/LLaMA-LLM-fe3501eebcbf4f5b949d913dd1191327)
 * [Large Language Models: From Prototype to Production — Ines Montani - YouTube](https://www.youtube.com/watch?v=ZjjgMiCU8s4)
 * [Frameworks for Serving LLMs. A comprehensive guide into LLMs inference and serving | by Sergei Savvov | Jul, 2023 | Medium | Better Programming](https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407)
-* ['작을 수록 좋은 것' 대규모 언어 모델은 축소되어야 한다 - ITWorld Korea](https://www.itworld.co.kr/news/307765)
 * [LLM 모델 기반 서비스 실전 가이드 | PPT](https://www.slideshare.net/taeyounglee1447/llm-261139869)
 * [LLM Output Parsing: Function Calling vs. LangChain | by Gabriel Cassimiro | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/llm-output-parsing-function-calling-vs-langchain-63b80545b3a7)
 * [Ines Montani (spaCy) - Large Language Models from Prototype to Production PyData Südwest - YouTube](https://www.youtube.com/watch?v=UbPuen-rlDk) spaCy, Prodigy
