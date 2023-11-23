@@ -183,6 +183,8 @@ Azure
 * [Microsoft technical support results for the "Unable to delete ghost tenant" issue](https://www.dokyun.pe.kr/281)
 * [Sort Your Tech Debt with Azure! - LunchBytes - YouTube](https://www.youtube.com/watch?v=JWe1k3fnsrY)
 * [5 Best Azure DevOps Online Courses for Beginners and Experienced | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/5-best-azure-devops-online-courses-for-beginners-and-experienced-b1a88ac385a7)
+* [Azure AI Studio - Part 1](https://zigispace.net/1244)
+* [Azure AI Studio - Part 2](https://zigispace.net/1245)
 
 # AKS
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
