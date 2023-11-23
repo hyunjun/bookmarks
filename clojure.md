@@ -1156,6 +1156,7 @@ Clojure
 * [Parinfer - Let's simplify the way we write Lisp](http://shaunlebron.github.io/parinfer/index.html)
 * [Parinfer for CodeMirror](https://github.com/shaunlebron/parinfer-codemirror)
 * [PCP: Clojure Processor -- A Clojure replacement for PHP](https://github.com/alekcz/pcp)
+* [pdf-2-images: Clojure wrapper for the PDFBox that converts a page range of a PDF document to images](https://github.com/roboli/pdf-2-images)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
   * [Pedestal is a sturdy and reliable base for services and APIs](http://pedestal.io/)
