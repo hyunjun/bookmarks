@@ -3567,8 +3567,10 @@ Programming Books
   * 탐라 문005.12-존58ㅌ
 * [필독! 개발자 온보딩 가이드](https://www.onlybook.co.kr/entry/onboarding)
   * ★★★★☆ 2023.07.02 제목이 책의 내용을 다 담지 못하는 느낌. 그만큼 다양한 분야의 이야기들을 깊이가 조금은 부족하지만 잘 설명한다. 개발자가 회사에 적응하는 데 필요한 이야기를 넘어 software engineering의 전반을 다룬다. 내가 management를 하기로 생각한 이후 필요로 하거나 구축해야겠다고 생각하는 대부분의 주제들을 담고 있다. 매우 좋은, 추천할만한 책
+  * ★★★★☆ 2023.11.24 다시 한 번 읽어봐도 참 좋은 책
   * 탐라 문005.1-리825ㅍ
   * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
+  * [The Missing README: A Guide for the New Software Engineer: Riccomini, Chris, Ryaboy, Dmitriy: 9781718501836: Amazon.com: Books](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
