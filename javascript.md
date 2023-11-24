@@ -2479,6 +2479,7 @@ Javascript
     * 그동안 다른 JavaScript 코드도 비슷하게 사용하고 싶다는 피드백
     * 이에 따라 Sevelte 컴파일러에 영향을 주는 심볼인 Rune을 사용하면 선언형으로 리액티브하게 최적화
     * Svelte 5에 추가될 기능이고 아직 개발 중이라 추후 변경 가능
+  * [중급강좌 Svelte(스벨트) - 이론 - YouTube](https://www.youtube.com/playlist?list=PLdwQP35_Nz9fyb6uWUoqZjLD6hNhKXYp8)
   * [stemroller: Isolate vocals, drums, bass, and other instrumental stems from any song](https://github.com/stemrollerapp/stemroller)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
