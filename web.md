@@ -1997,6 +1997,7 @@ Web
 * [Evolution of Wasm: Past, Present, Future - YouTube](https://www.youtube.com/watch?v=b5HHyb1d4Ys)
 * [WASM is Awesome! Explained with Examples | Ft Docker - YouTube](https://www.youtube.com/watch?v=JFzpd1-6a3E)
 * [Wasm GC: What Exactly Is It (and Why I Should Care) - Ivan Mikushin, VMware - YouTube](https://www.youtube.com/watch?v=ndJP-vmZFYk)
+* [SQLite in Wasm: A Glimpse into the Future of Shared Libraries - Carl Sverre, Amplify Partners - YouTube](https://www.youtube.com/watch?v=oLYda9jmNpk)
 * [AssemblyScript](https://www.assemblyscript.org/)
   * [The AssemblyScript Project](https://github.com/AssemblyScript)
 * [binaryen: Optimizer and compiler/toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
