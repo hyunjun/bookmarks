@@ -2588,6 +2588,7 @@ Javascript
   * [Introducing WebGPU: Unlocking Modern GPU Access for JavaScript - YouTube](https://www.youtube.com/watch?v=nUYe3a1mp6c)
   * [What you can do with WebGPU? By Corentin Wallez, François Beaufort - YouTube](https://www.youtube.com/watch?v=RR4FZ9L4AF4)
   * [기술 라이브 웹GPU 특집 (종료 후 비공개) - YouTube](https://www.youtube.com/watch?v=CAuDshuQpIw)
+  * [WebGPU is Not Just about the Web - YouTube](https://www.youtube.com/watch?v=qHrx41aOTUQ)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
