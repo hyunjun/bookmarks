@@ -2900,6 +2900,7 @@ Programming
 * [주말판 클라우드로 전환하기 위해 기업이 반드시 갖춰야 할 10가지 스킬](https://www.boannews.com/media/view.asp?idx=118618)
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
 * [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
+* [신한은행이 클라우드 구축에서 배운 것 “이론에 기대지 말라” - 바이라인네트워크](https://byline.network/2023/11/24-283/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3290,6 +3291,7 @@ Programming
 * [코드 가독성에 대해 – 4. 의존성](https://engineering.linecorp.com/ko/blog/code-readability-vol4/)
 * [코드 가독성에 대해 – 5. 리뷰와 정리](https://engineering.linecorp.com/ko/blog/code-readability-5/)
 * [2015 나는 프로그래머다 컨퍼런스 (11) 염산악 - 가독성에 대하여](https://www.slideshare.net/iamprogrammerofficial/2015-11-54990304)
+* [readable_code란 무엇일까? - YouTube](https://www.youtube.com/watch?v=uZNKgGB-EeY)
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 * [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 * [The 7 Coding Styles That Are Dated | by Elye | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/the-7-coding-styles-that-are-dated-90eff1408d6e)
@@ -4627,6 +4629,7 @@ Programming
   * 글쓴이는 React Native도 비슷한 상황이고 비슷한 접근이라면 Flutter가 제일 나은 선택이라고 주장
 * [Cross-Platform Mobile Development: Five Best Frameworks | SaM Solutions](https://www.sam-solutions.com/blog/cross-platform-mobile-development/)
 * [선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native - YouTube](https://www.youtube.com/watch?v=dLwEGT01S6E)
+* [Declarative UI 생각하기](https://pyjun01.github.io/v/declarative-ui/)
 * [내 주변 송금이 블루투스로 만들어졌다고? | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/bluetooth-remittance/)
 * [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by DelightRoom | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-3720aa09fbf5)
 * [크로스 플랫폼 독인가? 약인가?. 딜라이트룸 생각은? | by Joon Won Lee | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%ED%81%AC%EB%A1%9C%EC%8A%A4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%9D%B8%EA%B0%80-%EC%95%BD%EC%9D%B8%EA%B0%80-b0ab2d936dac)
@@ -5902,6 +5905,7 @@ Programming
 * [How to Improve Developer Productivity • Jez Humble • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=5_rrQND3lpQ)
   * [state-of-devops-2019.pdf](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p57 productivity에 영향을 미치는 요인들
 * [Developer Productivity Engineering: What's in it for me? - YouTube](https://www.youtube.com/watch?v=w9u7cIiVelc)
+* [Webinar: Best Practices for Measuring and Growing Developer Productivity - YouTube](https://www.youtube.com/watch?v=i3f1uqzaWic)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
