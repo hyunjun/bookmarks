@@ -841,6 +841,7 @@ App
 * [Helix](https://helix-editor.com/)
   * [Helix the Rust Powered Development Environment - YouTube](https://www.youtube.com/watch?v=xHebvTGOdH8)
   * [Helix: an editor hopping story (NeovimConf 2022 Talk) - YouTube](https://www.youtube.com/watch?v=tGYvUXYN-c0)
+  * [Helix and Scala · eed3si9n](https://eed3si9n.com/helix-and-scala/)
 * [ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
