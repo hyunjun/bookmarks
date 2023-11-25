@@ -1361,7 +1361,7 @@ Programming Books
 * (NOT YET) [딥러닝을 위한 푸리에 영상처리](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309060931)
 
 ## Machine Learning
-* [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/10/20/book-roadmap/)
+* [ML DL Book Roadmap - 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2023/11/23/book-roadmap/)
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
   * 한라 004.73리874ㅂ
 * 만들면서 배우는 기계 학습: 생각을 만드는 빅데이터 기술
@@ -3571,14 +3571,15 @@ Programming Books
   * 탐라 문005.1-리825ㅍ
   * [독서광 필독! 개발자 온보딩 가이드](https://jhrogue.blogspot.com/2023/05/blog-post_27.html)
   * [The Missing README: A Guide for the New Software Engineer: Riccomini, Chris, Ryaboy, Dmitriy: 9781718501836: Amazon.com: Books](https://www.amazon.com/Missing-README-Guide-Software-Engineer/dp/1718501838)
+* [육각형 개발자](https://www.hanbit.co.kr/store/books/look.php?p_code=B7230685099)
+  * ★★★★☆ 2023.11.25 세련되게 풀었다는 느낌은 부족해도 내용의 충실함은 매우 좋다
+  * 탐라 문005.1-최43ㅇ
+  * [육각형 개발자 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html)
 * (NOT YET) [신입 개발자 생존의 기술 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/39)
   * 한라 325.04-카884ㅅ
 * (NOT YET) [개발자를 넘어 기술 리더로 가는 길 – 디코딩](https://www.decoding.co.kr/product/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%EB%84%98%EC%96%B4%EA%B8%B0%EC%88%A0%EB%A6%AC%EB%8D%94%EB%A1%9C%EA%B0%80%EB%8A%94%EA%B8%B8)
   * 우당 문005-라69ㄱ
   * [독서광 개발자를 넘어 기술 리더로 가는 길 - YouTube](https://www.youtube.com/watch?v=ABgFlJ4zj08)
-* (NOT YET) [육각형 개발자](https://www.hanbit.co.kr/store/books/look.php?p_code=B7230685099)
-  * [육각형 개발자 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2023/08/13/Hexagonal-Developer.html)
-  * 탐라 문005.1-최43ㅇ
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
