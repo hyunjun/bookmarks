@@ -1759,6 +1759,7 @@ App
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
   * [문자열로 플로우차트 생성하기 | GeekNews](https://news.hada.io/topic?id=3816)
+* [GitMind - AI Powered Mind Map, Flowchart, Whiteboard.](https://gitmind.com/)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [HackerDraw | Diagramming Made Easy](https://www.hackerdraw.com/)
 * [IcePanel | Solution | System docs for visual people](https://icepanel.io/)
