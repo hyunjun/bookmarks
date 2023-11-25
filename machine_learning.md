@@ -1504,10 +1504,13 @@ Machine Learning
 * [파이썬, ML - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770053)
 * [Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=w4DFQmh5OGw)
 * [Sliding into Causal Inference, with Python! - Alon Nir | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=l4gY0JM3J5I)
+* [Kevin Klein - Causal Inference Libraries: What They Do, What I'd Like Them To Do | PD Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=cRS4yZt6OU4)
+* [Causal Machine Learning for Creative Insights | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96)
 * [Building a Machine Learning Web Application Using Flask | by Gerry Christian Ongko | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/building-a-machine-learning-web-application-using-flask-29fa9ea11dac)
 * [Christian Hundt & Miguel Martínez - Machine Learning Frameworks Interoperability - YouTube](https://www.youtube.com/watch?v=H9PIeH7fgqs)
 * [JIm Dowling - Build a production ML system with only Python on free serverless services - YouTube](https://www.youtube.com/watch?v=dgBFShBuV4k)
 * [Scaling Python for Machine Learning: Beyond Data Parallelism • Holden Karau • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=IX3300umebg)
+* [쿠팡의 머신러닝 플랫폼을 통한 ML 개발 가속화. 쿠팡의 머신러닝 개발 속도를 높이는 쿠팡만의 ML 플랫폼에 대하여 | by 쿠팡 엔지니어링 | Coupang Engineering Blog | Nov, 2023 | Medium](https://medium.com/coupang-engineering/%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84-%ED%86%B5%ED%95%9C-ml-%EA%B0%9C%EB%B0%9C-%EA%B0%80%EC%86%8D%ED%99%94-de29804148bb)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
