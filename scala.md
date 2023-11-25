@@ -819,6 +819,7 @@ Scala
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
   * [Destroy your foldLeft with traverse and State - Scala tutorial - YouTube](https://www.youtube.com/watch?v=UC1OTg5zBnY)
+  * [Scala Left Fold Parallelisation - Three Approaches](http://fpilluminated.com/assets/scala-left-fold-parallelisation-three-approaches.html)
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
   * [Automatic parallelisation of for-comprehensions in Scala 3 - VirtusLab](https://virtuslab.com/blog/automatic-parallelisation-of-for-comprehensions-in-scala-3/)
@@ -1668,6 +1669,7 @@ Scala
     * [`F[F[S]]` Kafka! - Case study: The digital transformation of Santa’s logistical nightmare - Part 3 fs2-kafka - Functional Feline Society](https://functional-feline-society.github.io/2023/01/24/fs2-kafka/)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
+* [functions-remote-examples: examples for functions-remote](https://github.com/kostaskougios/functions-remote-examples)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [gallia-core/README.md at master · galliaproject/gallia-core · GitHub](https://github.com/galliaproject/gallia-core/blob/master/README.md)
   * [Gallia: A Library for Data Transformation | by Anthony Cros | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
