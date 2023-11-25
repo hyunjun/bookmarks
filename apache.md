@@ -366,7 +366,8 @@ Apache
 
 # Iceberg
 * [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
-* 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
+  * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
+* [Incremental Processing using Netflix Maestro and Apache Iceberg | by Netflix Technology Blog | Nov, 2023 | Netflix TechBlog](https://netflixtechblog.com/incremental-processing-using-netflix-maestro-and-apache-iceberg-b8ba072ddeeb)
 * [Iceberg: a fast table format for S3](https://www.slideshare.net/Hadoop_Summit/iceberg-a-fast-table-format-for-s3-103201179)
 * [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0)
 * [클라우드의 데이터 지배자 '아파치 아이스버그' - ITWorld Korea](https://www.itworld.co.kr/news/251836)
