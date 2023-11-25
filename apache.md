@@ -371,6 +371,7 @@ Apache
 * [Iceberg: a fast table format for S3](https://www.slideshare.net/Hadoop_Summit/iceberg-a-fast-table-format-for-s3-103201179)
 * [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0)
 * [클라우드의 데이터 지배자 '아파치 아이스버그' - ITWorld Korea](https://www.itworld.co.kr/news/251836)
+* [Fokko Driesprong - PyIceberg: Tipping your toes into the petabyte data-lake | PyData Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=1A7fFB8QTPY)
 
 # Ignite
 * [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
@@ -1333,6 +1334,7 @@ Apache
 * [Event Streaming in the Cloud Native World with Apache Pulsar by Mary Grygleski - YouTube](https://www.youtube.com/watch?v=UZMeHK6z8wA)
 * [Apache Pulsar Tutorial with Scala - YouTube](https://www.youtube.com/watch?v=u4lTUIFm1lw)
 * [Apache Pulsar: Event Streaming in The Cloud Native World • Mary Grygleski • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=6IcCTLggNwU)
+* [Apache Pulsar: The Next Gen Messaging & Queuing System • Karthik Ramasamy • YOW! 2020 - YouTube](https://www.youtube.com/watch?v=_SSFM7FTI8A)
 
 # Ranger
 * [Ranger](http://ranger.apache.org)
