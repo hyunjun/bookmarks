@@ -408,6 +408,7 @@ PyTorch
   * [skorch callbacks (1) dataset preparation | Pega Devlog](https://jehyunlee.github.io/2022/06/09/Python-DL-8-skorch_callback/)
   * [skorch callbacks (2) sklearn preprocesing + PyTorch neural network | Pega Devlog](https://jehyunlee.github.io/2022/06/09/Python-DL-9-skorch_callback2/)
   * [skorch callbacks (3) ML Pipeline | Pega Devlog](https://jehyunlee.github.io/2022/06/09/Python-DL-10-skorch_callback3/)
+  * [Bossan - Extend your scikit-learn workflow with Hugging Face and skorch | PyData Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=y_n7BjDCS-M)
 * [SpeedTorch - Faster pinned CPU tensor <-> GPU Pytorch variabe transfer and GPU tensor <-> GPU Pytorch variable transfer, in certain cases](https://github.com/Santosh-Gupta/SpeedTorch)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
