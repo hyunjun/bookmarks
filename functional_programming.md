@@ -402,6 +402,8 @@ Functional Programming
 * [Ep 9: Transformers, Monads in Disguise - YouTube](https://www.youtube.com/watch?v=KMm71HLoy0w)
 * [**The Absolute Best Intro to Monads For Software Engineers - YouTube**](https://www.youtube.com/watch?v=C2w45qRc3aU) 지금까지 봤던 모나드 설명 중 최고
 * [What the Heck Are Monads?! - YouTube](https://www.youtube.com/watch?v=Q0aVbqim5pE)
+* [PyMonad implements data structures typically available in pure functional or functional first programming languages like Haskell and F#. Included are Monad and Monoid data types with several common monads included - such as Maybe and State - as well as some useful tools such as the @curry decorator for defining curried functions. PyMonad 2.x.x represents an almost complete re-write of the library with a simpler, more consistent interface as well as type annotations to help ensure correct usage](https://github.com/jasondelaat/pymonad)
+  * [Demystifying Python Monads Using Pymonad | Boone Cabal | Python Developer at Sundial Holdings - YouTube](https://www.youtube.com/watch?v=Fdp2eefdvEs)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
