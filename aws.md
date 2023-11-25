@@ -533,6 +533,7 @@ AWS
 * [AWS에서 Windows Server 워크로드를 최적화하기 위한 10가지 권장 사항 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/top-10-recommendations-to-optimize-your-windows-server-workloads-on-aws/)
 * [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
+* [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -737,6 +738,7 @@ AWS
 * [Amazon CloudFront에서 클릭 한 번으로 일반적인 웹 위협 완화시키기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/mitigate-common-web-threats-with-one-click-in-amazon-cloudfront/)
 * [Using CloudFront KeyValueStore - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/kvs-with-functions.html)
   * [Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
+* [Amazon CloudFront 기반의 OTT 스트리밍에서의 QoS 가시성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/qos-observability-for-ott-streaming-using-amazon-cloudfront/)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 
 # CloudWatch
@@ -1120,6 +1122,7 @@ AWS
 * [ECS Builder Series - Andrew Hammond (ClickUp) - YouTube](https://www.youtube.com/watch?v=4PB9jV1gzsY)
 * [Amazon ECS 워크로드를 위한 AWS Fault Injection Simulator의 새로운 기능 발표 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/announcing-aws-fault-injection-simulator-new-features-for-amazon-ecs-workloads/)
 * [Building better container images | Containers](https://aws.amazon.com/ko/blogs/containers/building-better-container-images/) ECS EKS ECR
+* [단일 Amazon Elastic Container Service(ECS) 클러스터에서 15,000개 이상의 태스크들로 확장하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/scale-to-15000-tasks-in-a-single-amazon-elastic-container-service-ecs-cluster/)
 
 ## ECS Fargate
 * [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
@@ -1845,6 +1848,7 @@ AWS
 * [10분만에 따라잡는 AWS 머신러닝 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3U4KlNCg7BNctpJMMjUV8)
 * [AWS를 이용한 MLOps 구축 사례 살펴보기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-mlops-use-case/)
 * [기계 학습 기반의 리드 타임 인사이트를 통해 공급 계획 정확성 개선하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/improve-supplychain-planning-accuracy-machine-learning-insights/)
+* [FMOps/LLMOps와 MLOps 차이점 비교 및 생성형 AI 운영하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/)
 * [AI/ML - AWS Startup](https://www.awsstartup.io/ai-ml/ai-ml)
 * [AWS AI/ML - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGUQItaIGkkfnRBaX7aIxW1r)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
