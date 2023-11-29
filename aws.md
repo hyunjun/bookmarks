@@ -953,6 +953,7 @@ AWS
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [**AWS_Skill_Builder at main · serithemage/AWS_class_resources**](https://github.com/serithemage/AWS_class_resources/tree/main/AWS_Skill_Builder) 한글 자막 처리가 되어 있는 주요 AWS Skill Builder 교육 목록
   * [AWS Skill Builder 개인 및 팀 유료 구독을 통한 더 많은 클라우드 교육 기능 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-skill-builder-subscriptions/)
+  * [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering)
 * [AWS Tutorial – Learn Amazon Web Services from Experts](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
@@ -2009,6 +2010,14 @@ AWS
 * [Amazon Polly를 통한 서버리스 동화 구연 앱 만들기 - 윤석찬 (AWS 테크에반젤리스트) - YouTube](https://www.youtube.com/watch?v=kohv8FIwlKM)
 * [파이썬으로 AI 음성합성하기 Amazon Polly](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0-Amazon-Polly)
 * [Amazon Polly용 롱폼 엔진 기반 신규 영어 음성 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-long-form-voices-for-amazon-polly/)
+
+# Q
+* [Upgrade your Java applications with Amazon Q Code Transformation (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
+* [Introducing Amazon Q, the generative AI-powered Assistant Tailored for Work | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=bZsIPinetV4)
+* [Amazon Q brings generative AI-powered assistance to IT pros and developers (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/)
+* [Introducing Amazon Q, a new generative AI-powered assistant (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
+* [New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights (preview) | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
+* [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service | AWS News Blog](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
