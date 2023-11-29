@@ -1487,6 +1487,8 @@ NLP
   * [Anthropic | Introducing Claude](https://www.anthropic.com/index/introducing-claude)
   * [챗GPT·빙챗·바드를 부끄럽게 만든 1등 클로드 < 산업일반 < 산업 < 기사본문 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=151525)
   * [Anthropic's "safer" Claude 2 AI Is Here - Dataconomy](https://dataconomy.com/2023/07/12/claude-2-ai-is-out-chatgpt/)
+* [DB-GPT](http://docs.dbgpt.site/docs/overview)
+  * [DB-GPT: Revolutionizing Database Interactions with Private LLM Technology](https://github.com/eosphoros-ai/DB-GPT)
 * [Dr.LLaMA: Improving Small Language Models Through Generative Data Augmentation](https://github.com/zguo0525/Dr.llama)
 * [embedchain: Data platform for LLMs - Load, index, retrieve and sync any unstructured data](https://github.com/embedchain/embedchain)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
