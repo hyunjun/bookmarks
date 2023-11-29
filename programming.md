@@ -1472,6 +1472,7 @@ Programming
 * [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo)
   * [Airbridge API 개발팀의 Monorepo 도입기 | GeekNews](https://news.hada.io/topic?id=6544)
 * [Monorepos - The Benefits, Challenges and Importance of Tooling Support by Juri Strumpflohner - YouTube](https://www.youtube.com/watch?v=15VeTQLnWrs)
+* [From Monorepo Mess to Monorepo Bliss: Avoiding Common Mistakes - YouTube](https://www.youtube.com/watch?v=wtOMn-RdRxU)
 * [Why Google Stores Billions of Lines of Code in a Single Repository - YouTube](https://www.youtube.com/watch?v=W71BTkUbdqE)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 * [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
