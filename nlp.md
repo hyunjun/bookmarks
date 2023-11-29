@@ -1009,6 +1009,8 @@ NLP
 * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
 * [생성형 AI ChatGPT/Bard LLM에서 프롬프팅을 이용한 공격/방어 방법](https://bcho.tistory.com/1397)
 * [주제와 관계 없는 질문을 막기 위한 DARE 프롬프팅 기법](https://bcho.tistory.com/1396)
+* [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -1456,6 +1458,10 @@ NLP
 * [편집본 대형 언어 모델(LLM) 특집 | 블랙 프라이데이 세일중(~11/30) - YouTube](https://www.youtube.com/watch?v=nfeKVQ4LqGk)
 * [Fine-tuning Large Language Models (LLMs) | w/ Example Code - YouTube](https://www.youtube.com/watch?v=eC6Hd1hFvos)
 * [**지극히 사적인 나만의 LLM, 가질 수 있을까? 1편 - 파인튜닝**](https://blog.sionic.ai/Finetuning_Llama) PEFT, LoRA, QLoRA
+* [1hr Talk Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g) Andrej Karpathy
+* [How to Build LLM Apps that can See Hear Speak - SingleStore Spaces](https://www.singlestore.com/spaces/how-to-build-llm-apps-that-can-see-hear-speak/)
+* [Generative AI with Large Language Models | Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
+* [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 * [42dot_LLM: 42dot LLM consists of a pre-trained language model, 42dot LLM-PLM, and a fine-tuned model, 42dot LLM-SFT, which is trained to respond to user prompts and supports both languages simultaneously by learning a large amount of Korean and English text](https://github.com/42dot/42dot_LLM)
   * [Open Dataset | 42dot](https://42dot.ai/openDataset/nlp/overview)
 * [AI Playground by Vercel Labs](https://play.vercel.ai/)
@@ -1563,6 +1569,7 @@ NLP
   * [Langchain-Full-Course](https://github.com/Coding-Crashkurse/Langchain-Full-Course)
   * [langchain-tutorials: A set of LangChain Tutorials from my youtube channel](https://github.com/samwit/langchain-tutorials)
   * [langflow: ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows](https://github.com/logspace-ai/langflow)
+* [LangChain for LLM Application Development - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 * [Langfuse](https://langfuse.com/)
   * [langfuse: Open source observability and analytics for LLM applications](https://github.com/langfuse/langfuse/)
   * [🦜🔗 Langchain Integration - Langfuse Blog](https://langfuse.com/blog/langchain-integration)
