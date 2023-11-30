@@ -594,6 +594,7 @@ Programming Books
 * (NOT YET) [코딩테스트 합격자 되기(파이썬)](https://github.com/dremdeveloper/codingtest_python/)
 * (NOT YET) [프로그래머스 코딩 테스트 문제 풀이 전략: 파이썬편 | 프로그래머스 스쿨](https://school.programmers.co.kr/learn/courses/16566/16566-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EC%A0%84%EB%9E%B5-%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8)
   * [코딩 테스트 합격자 되기 파이썬 편 유튜브 라이브.pptx - Google Slides](https://docs.google.com/presentation/d/181ulSvX7x6NZBxrFuxRwn-uGUc5uX3VG/)
+  * [책 vs 책: 코딩 테스트 합격자 되기 vs 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2023/11/vs-vs.html)
 
 # Amazon AWS
 
