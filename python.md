@@ -718,6 +718,7 @@ Python
   * [PyconKR 2018 Deep dive into Coroutine](https://www.slideshare.net/daykim7/pyconkr-2018-deep-dive-into-coroutine-110194978/1)
     * [Deep Dive into Coroutine - 김대희](https://www.youtube.com/watch?v=NmSeLspQoAA)
   * [백엔드 개발자들이 알아야할 동시성 6 — Coroutine. CPS를 이용한 협력적 스케줄링의 구현은 작업의 단위가 어떻게 나뉘는지… | by Choi Geonu | Sep, 2023 | Medium](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-6-coroutine-9eecdbeb2d2d)
+  * [James Powell - Simple Simulators with pandas and Generator Coroutines | PyData NYC 2023 - YouTube](https://www.youtube.com/watch?v=pGGjS6CkDeE)
 * csv
   * [Reading and Writing to CSVs in Python Playing with tabular data the native Python way](https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f)
   * [How to combine multiple CSV files with 8 lines of code](https://medium.freecodecamp.org/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854)
