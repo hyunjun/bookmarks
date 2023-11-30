@@ -150,6 +150,7 @@ Redis
 * [Database - Redis를 이용해서 웹 로딩 반타작내기](https://changhyeon.net/database--redis-)
 * [G마켓 쿠폰적용가 도입기 - 캐시를 중심으로](https://ebay-korea.tistory.com/89)
 * [I've been using Redis wrong this whole time... - YouTube](https://www.youtube.com/watch?v=WQ61RL1GpEE)
+* [AWS announces vector search for Amazon MemoryDB for Redis (Preview)](https://aws.amazon.com/ko/about-aws/whats-new/2023/11/vector-search-amazon-memorydb-redis-preview/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
