@@ -474,11 +474,13 @@ AWS
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(1) :: All About Dev/Ops](https://zerone-code.tistory.com/8)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(2) :: All About Dev/Ops](https://zerone-code.tistory.com/9)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(3) :: All About Dev/Ops](https://zerone-code.tistory.com/10)
+* [AWS Secret Manager그리고 Lambda Extension :: Jay's Code Factory](https://jay-ji.tistory.com/120)
 * [안승규의 블로그 (Stay hungry, stay foolish) :: Kubernetes Cluster 에서 Cloud Provider 로 aws LoadBalancer 연결하기](https://ahnseungkyu.com/305)
 * [AWS 기반 재해 복구(DR) 아키텍처, 1부: 클라우드에서의 재해 복구 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-1/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 2부: 신속한 복구를 위한 백업 및 복원 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-2/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 3부: 파일럿 라이트 및 웜 스탠바이 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud-3/)
 * [AWS 기반 재해 복구(DR) 아키텍처, 4부: 액티브/액티브 멀티 사이트 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/)
+* [AWS에서 SQL Server를 위한 재해 복구 설계: 1부 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-based-sql-server-disaster-recovery-architecture-design-part1/)
 * [How To Parse JSON Parameters Stored In AWS Parameter - DevOpsDice](https://devopsdice.com/how-to-parse-json-parameters-stored-in-aws-parameter/)
 * [입 개발 AWS InstanceProfileCredentialsProvider 사용시 주의 할 점. | Charsyam's Blog](https://charsyam.wordpress.com/2023/02/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-aws-instanceprofilecredentialsprovider-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%A3%BC%EC%9D%98-%ED%95%A0-%EC%A0%90/)
 * [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서 by 김은수님 - AWSKRUG 프론트엔드 소모임 221207 - YouTube](https://www.youtube.com/watch?v=M6njEpzPicE)
@@ -534,6 +536,7 @@ AWS
 * [AWS Audit Manager, 최초 서드 파티 거버넌스, 위험 및 규정 준수 통합 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
 * [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
+* [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -2233,7 +2236,6 @@ AWS
 * [CircleCI 에서 Terraform fmt 수행하기](https://blog.2dal.com/2017/12/26/circleci-%ec%97%90%ec%84%9c-terraform-fmt-%ec%88%98%ed%96%89%ed%95%98%ea%b8%b0/)
 * [테라폼(Terraform) 기초 튜토리얼 AWS와 테라폼으로 구현하는 Infrastructure as Code](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 * [테라폼을 가장 잘 지원하는 에디터는? 젯브레인 인텔리J를 활용한 테라폼 코드 작성](https://www.44bits.io/ko/post/what-is-the-best-editor-that-supports-terraform)
-* [테라폼 0.12 베타 1 출시 및 개선된 HCL 문법 살펴보기](https://www.44bits.io/ko/post/preview-new-feature-of-terraform-012-beta-1)
 * [Making Terraform and Serverless framework work together](https://hackernoon.com/making-terraform-and-serverless-framework-work-together-b00e6af63ee9)
 * [Terraform을 이용한 ES 클러스터 구축](https://brunch.co.kr/@alden/49)
 * [Terraform의 remote_state 활용하기](https://brunch.co.kr/@alden/51)
@@ -2286,10 +2288,15 @@ AWS
 * [시애틀별다방에서 자동화를 만났다 feat. Terraform - YouTube](https://www.youtube.com/watch?v=dM_a3UPstpc) 기술적인 이야기는 아니고 비유
 * [DevOps팀의 Terraform 모험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/terraform-adventure/)
 * [확장 가능한 테라폼 코드 관리 (Scalable Terraform Code Management) - Speaker Deck](https://speakerdeck.com/posquit0/hwagjang-ganeunghan-terapom-kodeu-gwanri-scalable-terraform-code-management)
+* [테라폼 0.12 베타 1 출시 및 개선된 HCL 문법 살펴보기](https://www.44bits.io/ko/post/preview-new-feature-of-terraform-012-beta-1)
 * [Understandable Terraform projects | by Didrik Finnoy | Apr, 2022 | Medium](https://medium.com/@dfinnoy/understandable-terraform-projects-9c1cd9b4b21a)
   * Terraform으로 인프라를 관리할 때 이해하기 쉽게 YAMN 파일을 설정 파일로 이용하는 방법 설명
   * 참조해서 사용하는 값은 모두 YAML 파일에 작성해서 HCL로 작성하는 것보다 훨씬 읽기 쉽게 만들고 이를 HCL에서 `yamldecode`로 읽어 값 설정
   * `dev`, `live` 같은 폴더에서는 복잡성 제어와 복사 붙이기가 쉽도록 `resource` 블록은 절대 가지지 않고 공통 모듈을 가져와서 쓰도록 작성
+* [Terraform Cloud no-code provisioning is now GA with new features](https://www.hashicorp.com/blog/terraform-cloud-no-code-provisioning-is-now-ga-with-new-features)
+  * Terraform Cloud Business에서 사용할 수 있는 No-code 프로비저닝이 GA
+  * Terraform으로 프로비저닝 하려면 HCL을 사용해야 하는데 모듈을 제공하면 HCL을 사용하지 못해도 프로비저닝 할 수 있는 워크플로우를 지원 가능
+* [Awesome Terraform Overview HCL Deep Dive & Terraform Expansion](https://d2.naver.com/helloworld/9139321)
 * [Jenkins + terraform + tfsec 로 정적 분석 자동화 구성 하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163872)
 * [How Terraform Works: A Visual Intro - Bill - Medium](https://medium.com/@mfundo/how-terraform-works-a-visual-intro-6328cddbe067)
 * [Terraform should have remained stateless](https://www.bejarano.io/terraform-stateless/)
@@ -2364,9 +2371,6 @@ AWS
 * [Terraform 오픈 소스 엔진을 기반한 AWS Service Catalog 제품 생성 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-self-service-provisioning-of-terraform-open-source-configurations-with-aws-service-catalog/)
 * [모던 테라폼 (Modern Terraform) - Speaker Deck](https://speakerdeck.com/posquit0/modeon-terapom-modern-terraform)
   * 박병진 님이 Terraform 1.0 이후 1.5까지 도입된 주요 변경 사항과 최근에 쓰고 있는 Terraform 관련 도구를 정리한 발표 자료
-* [Terraform Cloud no-code provisioning is now GA with new features](https://www.hashicorp.com/blog/terraform-cloud-no-code-provisioning-is-now-ga-with-new-features)
-  * Terraform Cloud Business에서 사용할 수 있는 No-code 프로비저닝이 GA
-  * Terraform으로 프로비저닝 하려면 HCL을 사용해야 하는데 모듈을 제공하면 HCL을 사용하지 못해도 프로비저닝 할 수 있는 워크플로우를 지원 가능
 * [Terraform - Infra As Code - YouTube](https://www.youtube.com/playlist?list=PLr0bZdh8zoGXCrujdktDx6h-X-8rUEsEf)
 * [Empowering Teams with Terraform and OPA:Best Practices for Secure Infrastructure as Code Tsoumas Dio - YouTube](https://www.youtube.com/watch?v=0-RkQ7p4lH0)
 * [Terraform has forever changed the way I deploy code - YouTube](https://www.youtube.com/watch?v=cGPyH-PO8vg)
