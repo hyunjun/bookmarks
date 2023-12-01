@@ -116,6 +116,8 @@ Writing
   * [엔지니어가 글쓰기에 집중해야 하는 이유 | GeekNews](https://news.hada.io/topic?id=9963)
 * [문서 쓰는 디자이너. 알라미 팀 디자이너가 문서 작성하는 법 | by DelightRoom | DelightRoom | Aug, 2023 | Medium](https://medium.com/delightroom/%EB%AC%B8%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-e4d34ff20456)
 * [한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모 법 | 김익한 @ican 명지대 교수, 기록학자 #메모 #기록 #독서 - YouTube](https://www.youtube.com/watch?v=fxdPHw8vhog)
+* [효과적인 릴리즈 노트 작성 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/20/release-notes-tips/) release note
+* [테크니컬 라이팅에 프롬프트 엔지니어링 활용하기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/29/tw-prompt/)
 
 # App
 * latex
