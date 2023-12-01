@@ -691,6 +691,7 @@ Docker
   * 이 컨테이너를 빌드하는 도구 중 jib, kaniko, BuildKit을 간단히 설명하면서 컨테이너가 표준화가 많이 되어있지만, Dockerfile은 따로 표준이 없기 때문에 Dockerfile을 사용한다면 Docker와의 의존성은 끊기 어렵다고 설명
 * [Why Every Developer Should Learn Docker in 2023? | by Soma | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/why-every-developer-should-learn-docker-in-2023-ac27fac5fd6f)
 * [container_learning: 컨테이너 기술 공부](https://github.com/pjt3591oo/container_learning)
+* [Implementing Auto-Scaling for Improved Performance: A Backend Engineer's Journey - DEV Community](https://dev.to/jackynote/implementing-auto-scaling-for-improved-performance-a-backend-engineers-journey-43g7)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1280,6 +1281,7 @@ Docker
 * [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 * [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
+* [Kubecon + CloudNativeCon NA 2023 행사 참여 후기 | by Namkyu Park | Nov, 2023 | Medium](https://loyle.medium.com/kubecon-cloudnativecon-na-2023-%ED%96%89%EC%82%AC-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-8b6f6474c397)
 * [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
 * [쿠버네티스 정리 #2 - 쿠버네티스 설치](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-2/)
