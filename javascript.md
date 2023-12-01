@@ -4545,6 +4545,8 @@ Javascript
 * [선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2083/)
 * [React에서 textarea의 입력 길이를 제한할 때 고려할 점 | DeveLife](https://yungis.dev/react/textarea-maxlength-limit/)
 * [**리액트로 인해 잊었거나 전혀 몰랐던 것들 | bohyeon.dev**](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
+* [Component-Driven Development](https://www.chromatic.com/blog/component-driven-development/)
+  * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -5843,6 +5845,7 @@ Javascript
 * [JavaScript 에서 TypeScript 로](https://www.nextree.io/typescript-vs-javascript/)
 * [TypeScript에서 generic과 index type의 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-20T00:00:00.000Z)
 * [What Are Generics in TypeScript?. TypeScript is missing part of… | by Mahesh Haldar | Jul, 2022 | Bits and Pieces](https://blog.bitsrc.io/what-are-generics-in-typescript-learn-this-for-better-typescripting-22bed7529f89)
+* [TypeScript | Generic 제네릭 (feat. TypeScript 두 달차 후기)](https://velog.io/@edie_ko/TypeScript-Generic-%EC%A0%9C%EB%84%A4%EB%A6%AD-feat.-TypeScript-%EB%91%90-%EB%8B%AC%EC%B0%A8-%ED%9B%84%EA%B8%B0)
 * [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 * [Implementing the Elo Rating System | by Matt Mazzola | Medium](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065)
 * [올해 버려야 할 타입스크립트 나쁜 버릇 10가지 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210217)
