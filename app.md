@@ -1713,6 +1713,7 @@ App
     * [pov: 슬랙 bolt로 에어플로우 DAG 실행시키기. 안녕하세요 원티드랩 데이터 팀에서 데이터 분석을 하고 있는… | by Jiyoon You | 원티드랩 기술 블로그 | Jul, 2023 | Medium](https://medium.com/wantedjobs/pov-%EC%8A%AC%EB%9E%99-bolt%EB%A1%9C-%EC%97%90%EC%96%B4%ED%94%8C%EB%A1%9C%EC%9A%B0-dag-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0-641ca6398234)
   * [가장 아름다운 배포 자동화, 근데 이제 Slack을 곁들인 | Univdev](https://univdev.page/posts/workflow-slack-notification/) 자동 알림
   * [PyCon KR 2023 Python 월 몇 백원으로 사내 슬랙봇 운영해본 이야기 신희재 - YouTube](https://www.youtube.com/watch?v=9LmDwhH7QzQ)
+  * [Slack Incoming Webhook URL 확인하는 주소 – 형우의 웹개발](https://mytory.net/archives/15587)
   * scrum poker app
     * [Helperbot](https://helperbot.alley.com/)
     * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
