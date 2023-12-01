@@ -185,6 +185,7 @@ Azure
 * [5 Best Azure DevOps Online Courses for Beginners and Experienced | by javinpaul | Javarevisited | Apr, 2023 | Medium](https://medium.com/javarevisited/5-best-azure-devops-online-courses-for-beginners-and-experienced-b1a88ac385a7)
 * [Azure AI Studio - Part 1](https://zigispace.net/1244)
 * [Azure AI Studio - Part 2](https://zigispace.net/1245)
+* [Azure AI Studio - Part 3 (prompt flow)](https://zigispace.net/1246)
 * [Microsoft Azure AI Fundamentals: Generative AI - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
 
 # AKS
