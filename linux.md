@@ -1039,6 +1039,8 @@ Linux
   * [magic-trace - 프로세스 동작을 고해상도로 추적하는 도구 | GeekNews](https://news.hada.io/topic?id=6494)
 * `truncate`
   * [지정된 크기의 더미 파일 만들기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/soojung/dev/2020/08/23/864.html)
+* `ufw`
+  * [ufw 특정 IP에 대해 모든 포트를 열고 나머지는 모두 닫기 명령어 – 형우의 웹개발](https://mytory.net/archives/15624)
 * `uname`
   * [cpu 타입 확인하기](http://knight76.tistory.com/entry/cpu-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 * [`upstart`](http://upstart.ubuntu.com/)
