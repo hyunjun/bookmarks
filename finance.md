@@ -217,6 +217,7 @@ Finance
 * [Stock Market Prediction in Deep learning using Tensor Flow | Machine Learning](https://www.youtube.com/watch?v=SMi793DqFLc)
 * [Python Web Scraping tutorial 23: Algorithmic Trading Tutorial](https://www.youtube.com/watch?v=2cee0e9HSbs)
 * [Building Quant Equity Strategies in Python](https://www.youtube.com/watch?v=nCKzRY_JV4c)
+* [PyCon KR 2023 파이썬을 이용한 퀀트 트레이딩 정진혁 001 - YouTube](https://www.youtube.com/watch?v=TeDQHO-_zy0)
 * [Accessing Fundamental company Data - Programming for Finance with Python - Part4](https://www.youtube.com/watch?v=-BnOmULm2gQ)
 * [Quantitative Finance & Python Programming w/ Dr. Yves Hilpisch](https://www.youtube.com/watch?v=7COR3eRB8lE)
 * [Quantiacs Toolbox - Getting Started in Python](https://www.youtube.com/watch?v=BNFA6NE7X1Q)
