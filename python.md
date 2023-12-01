@@ -1199,6 +1199,7 @@ Python
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
   * [Cheryl Roberts - Parallelization of code in Python for beginners | PyData Global 2022 - YouTube](https://www.youtube.com/watch?v=bzdMHXDusOQ)
   * [**Every Python Programmer Should Know the Not-So-Secret ThreadPool | by Fabian Bosler | Better Programming | Medium**](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
+  * [How to wait for ProcessPoolExecutor and ThreadPoolExecutor – Passion is like genius; a miracle.](https://mkseo.pe.kr/blog/?p=4679)
   * Shared Memory
     * [**practice - shared memory with multiprocessing**](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_shared_memory_3.py)
     * [dijkstra_shm.py](https://github.com/cadop/dijkstra/blob/4535350df267341925dace0224558e3cc8a2028c/code/dijkstra_shm.py)
