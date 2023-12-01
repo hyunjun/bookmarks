@@ -423,6 +423,7 @@ Android
   * [Pluu Dev - Glide로 불러오는 이미지의 종횡비가 크다면, optionalCircleCrop()가 필수](https://pluu.github.io/blog/android/glide/2022/11/20/glide-circlecrop/)
   * [Pluu Dev - Glide 이미지 로드에 Custom Cache Key 사용하기](https://pluu.github.io/blog/android/glide/2023/02/18/glide_url_with_key/)
   * [Pluu Dev - Glide에서 디스크 캐싱 시 파일 이름을 정하는 기준](https://pluu.github.io/blog/android/glide/2023/02/21/glide_file_name/)
+  * [Pluu Dev - Glide와 함께 Coroutines Suspend로 애니메이션 적용해보기](http://pluu.github.io/blog/android/2023/11/25/suspend-glide-anim/)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
@@ -463,6 +464,7 @@ Android
   * [Jetpack Compose로 디자인시스템 만들기 #우아콘2022 #Day2 음식그이상의것을문앞으로 - YouTube](https://www.youtube.com/watch?v=O1yPOr7J3gY)
   * [Checkbox 아이콘을 텍스트의 원하는 위치로 정렬 하는 방법 (Jetpack Compose) | by Youngjik Yoon | PRND | Aug, 2023 | Medium](https://medium.com/prnd/%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%84-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-jetpack-compose-12d3d9d1f28)
   * [Jetpack Compose로 LINE 앱 Yahoo!검색 모듈 개발하기](https://techblog.lycorp.co.jp/ko/developing-android-ui-with-jetpack-compose)
+  * [Jetpack Compose 로 검색 진입 화면의 복잡한 상태 관리하기 | by Jinkwang Song | 29CM TEAM | Dec, 2023 | Medium](https://medium.com/29cm/jetpack-compose-%EB%A1%9C-%EA%B2%80%EC%83%89-%EC%A7%84%EC%9E%85-%ED%99%94%EB%A9%B4%EC%9D%98-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-b95333134ece)
   * [Spoqa 기술 블로그 | 키친보드 안드로이드 앱 Jetpack Compose 도입기](https://spoqa.github.io/2023/10/30/android-jetpack-compose.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
