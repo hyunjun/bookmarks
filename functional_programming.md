@@ -504,6 +504,7 @@ Functional Programming
 * [Parallel analysis of temperature dataset | Functional Scala - YouTube](https://www.youtube.com/watch?v=VIxfSgl0-H4)
 * [What the Functor? | Functors in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aSnY2JBzjUw)
 * [Image editing with Functors | Blog of Adrian Salajan](https://adrian-salajan.github.io/blog/2021/01/25/images-functor)
+* [Introduction to Functors With Scala 3](https://idiomaticsoft.com/post/2023-11-28-functors/)
 * [**2020 Hindsight - Scala | 2020 Hindsight - Scala**](https://2020-hindsight-scala.kevinly.dev/)
 * [01A: Scala FP basics: First-class function, higher order function, statements Vs expressions, immutability & recursion | Java-Success.com](https://www.java-success.com/01a-scala-functional-programming-basics-first-class-function-higher-order-function/)
 * [A Monads Approach for Beginners, in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=d-dy1x33moA)
