@@ -2903,6 +2903,8 @@ Programming
 * [AWS에서 베어-메탈로 이전하여 연간 23만 달러(3억원) 절약 | GeekNews](https://news.hada.io/topic?id=11954)
 * [가비아, 카페24, Azure 클라우드 서버 벤치마킹/실사용기 – 형우의 웹개발](https://mytory.net/archives/15431)
 * [신한은행이 클라우드 구축에서 배운 것 “이론에 기대지 말라” - 바이라인네트워크](https://byline.network/2023/11/24-283/)
+* [Terraform을 활용한 네이버 클라우드 플랫폼 IaC(Infrastructure as Code) 적용하기](https://d2.naver.com/helloworld/3612055)
+* [클라우드 컴퓨팅 입문자들을 위한 가이드 : 네이버 블로그](https://blog.naver.com/drvoss/223275359487)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3593,6 +3595,7 @@ Programming
 * [Continuous Integration: That’s Not What They Meant • Clare Sudbery • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=97qyNQz7fxY)
 * [우리의 개발문화는 이렇게 성장합니다. 안녕하세요, FINDA 현금그로스 PG 자산/신용관리 PT 백엔드… | by 김형래 | finda 기술 블로그 | Medium](https://medium.com/finda-tech/%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4-8f57b06ca549)
   * ['핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2295/)
+* [AWX를 이용한 CI/CD Pipeline: Pylon | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/sre-re-pylon/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
   * [React Native CICD using Bitrise (2) / Blueprint!](https://orangebrother.dev/blog/cicd-using-bitrise-blueprint)
@@ -4228,6 +4231,7 @@ Programming
 * [Dark Side of DevOps - YouTube](https://www.youtube.com/watch?v=iNqD6W_ubvo)
 * [해커톤에서 10분에 한 번 배포하기 (해커톤을 위한 DevOps) — 생존과 성장 사이](https://dokdo2013.tistory.com/13)
 * [Expert Labs로 DevOps 실무 역량 똑똑하게 키우는 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/06/how-to-be-a-devops-engineer/)
+* [DevOps Expert Labs 교육은 현장에서 어떻게 이뤄질까?(feat. CJ+두산 워크숍 후기) | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/27/devops-expertlabs-workshop/)
 * [90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
@@ -4239,6 +4243,7 @@ Programming
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
 * [learn-devops: DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose](https://github.com/codeaprendiz/learn-devops)
 * [Rundeck Runbook Automation](https://www.rundeck.com/)
+* Teleport [인프라 접근 관리 도구 Teleport 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/11/23/teleport/)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -5581,6 +5586,7 @@ Programming
 * [LMS 인증 로직을 리팩토링하며 발견한 문제점과 해결방안](https://f-lab.kr/blog/lms-auth-refactoring)
 * [리팩토링 코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745)
 * [6년 묵은 레거시, RootController 리팩토링하기. 서비스의 변화는 소프트웨어의 변경을 동반하고 때때로 레거시를… | by Hyeongseok Park | 29CM TEAM | Nov, 2023 | Medium](https://medium.com/29cm/6%EB%85%84-%EB%AC%B5%EC%9D%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-rootcontroller-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0-424d4259f531)
+* [JS용 클래스와 CSS용 클래스는 명확히 분리돼야 합니다(관심사 분리 원칙 사례) – 형우의 웹개발](https://mytory.net/archives/15593)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
@@ -6274,6 +6280,7 @@ Programming
 * [동일한 할인 폭, 다른 결과. 할인 실험에서 중요한 또 다른 변수들 | by Stephan Seunghwan Seo | DelightRoom | Feb, 2023 | Medium](https://medium.com/delightroom/%EB%8F%99%EC%9D%BC%ED%95%9C-%ED%95%A0%EC%9D%B8-%ED%8F%AD-%EB%8B%A4%EB%A5%B8-%EA%B2%B0%EA%B3%BC-89d5cd367378)
 * [테스트한 만큼만 확신할 수 있다 | 웹으로 말하기](https://mytory.net/archives/14280)
 * [실험 0건인 조직에서, 가장 실험을 활발하게 하는 조직 되기 (B마트의 실험문화 빌드업 과정) | 우아한형제들 기술블로그](https://techblog.woowahan.com/13726/)
+* [오프라인과 온라인 A/B 테스트를 통해 오픈챗 추천 모델 개선하기](https://techblog.lycorp.co.jp/ko/improve-openchat-recommendation-model-with-offline-and-online-ab-test) Adhoc A/B test
 * [ABsmartly :: Run A/B tests 20% to 80% faster](https://absmartly.com/)
 * [ABTest at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/tree/main/ABTest)
   * [Sample_Size_AB_Testing_101.md at main · diligejy/Growth · GitHub](https://github.com/diligejy/Growth/blob/main/ABTest/Note/Sample_Size_AB_Testing_101.md)
