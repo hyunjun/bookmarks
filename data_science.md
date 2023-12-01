@@ -491,6 +491,7 @@ Data Science
 * [데이터로 트렌드 읽는 방법 | NHN FORWARD](https://forward.nhn.com/2021/sessions/19)
 * [Taming the Data Mess, How Not to Be Overwhelmed by the Data Landscape - YouTube](https://www.youtube.com/watch?v=Xas7HBWrbN0)
 * [SOCAR DATA MeetUp 2022 - YouTube](https://www.youtube.com/playlist?list=PLEZRFe2YmFouerg-jmQ5EMivTeSSlwP3z)
+* [Phillip Cloud & Gil Forsyth - Ibis: A fast, flexible, and portable tool for data analytics - YouTube](https://www.youtube.com/watch?v=TyopbrmlZx8)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
