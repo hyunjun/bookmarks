@@ -1739,6 +1739,7 @@ Python
 * [Making A Synth With Python — Oscillators | Alan | Python in Plain English](https://python.plainenglish.io/making-a-synth-with-python-oscillators-2cb8e68e9c3b)
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 * [Convert Text into Audio using Python - YouTube](https://www.youtube.com/watch?v=7x0QZsev-4A)
+* [PyCon KR 2023 Python으로 전자음악 작곡하기 유태영 - YouTube](https://www.youtube.com/watch?v=1rPCcKp9B78)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [kord: a music theory development framework in python](https://github.com/synestematic/kord)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
@@ -1924,6 +1925,7 @@ Python
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
+  * [Integrating Black with Git | Python Code Formatter | PEP8 - YouTube](https://www.youtube.com/watch?v=4N8OCdpoBCA)
 * [isort: A Python utility / library to sort imports](https://github.com/pycqa/isort/)
   * [The black and isort Libraries - YouTube](https://www.youtube.com/watch?v=5ut5Rm5jWRU)
 * [µfmt — µfmt documentation](https://ufmt.omnilib.dev/)
@@ -2556,6 +2558,9 @@ Python
 * [PyCon KR 2023 Django 봄은 다시 온다 정경업 - YouTube](https://www.youtube.com/watch?v=HeMXWd6QSGg)
   * [Django 봄은 다시 온다 - Django와 함께 좋은 웹서비스 코드 만들기.pdf](https://www.slideshare.net/perhapsspy/django-django-pdf)
 * [PyCon KR 2023 오픈소스와 함께 성장하기Feat Django 배두식 - YouTube](https://www.youtube.com/watch?v=gBjWgCXL4mA)
+* [PyCon KR 2023 Django 국제화 지원하기 서명석 - YouTube](https://www.youtube.com/watch?v=bJRYFP5hA7Q)
+* [PyCon KR 2023 Django ORM에서는 어떻게 SQL Where절 조건 순서를 고정할 수 있을까 안성현 - YouTube](https://www.youtube.com/watch?v=1tI6ectLjy4)
+* [PyCon KR 2023 Relay on Django React와 공생하기 강정석 - YouTube](https://www.youtube.com/watch?v=vNr7ebslNsU)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
@@ -4089,6 +4094,7 @@ Python
 * [secure: Secure 🔒 headers for Python web frameworks](https://github.com/mikeckennedy/secure)
 * [secure.py — secure.py 0.3.0 documentation](https://secure.readthedocs.io/)
 * [Shiny for Python](https://shiny.rstudio.com/py/)
+* [Gordon Shotwell & Tracy Teal - Build Simple and Scalable Apps with Shiny | PyData NYC 2023 - YouTube](https://www.youtube.com/watch?v=9RC8PobU5oQ)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * SimPy
