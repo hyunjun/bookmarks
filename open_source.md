@@ -267,6 +267,7 @@ Open Source
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 * [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
 * [링크의 미리보기 제목·설명·이미지를 결정하는 ‘오픈그래프 태그’](http://www.mobiinside.com/kr/index.php/2016/06/02/airbridge-3/)
+* [SNS 공유를 위한 meta태그 og프로토콜](https://zooputer-dev.tistory.com/1) 오픈그래프
 * [Facebook announces new tech at @Scale 2016](https://code.facebook.com/posts/1281791148498061/facebook-announces-new-tech-at-scale-2016/)
   * [페이스북, ZIP 대체할 압축기술 소스코드 공개 신형 마이SQL 호스트 '마이록스', 360도 동영상 안정화 알고리즘 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20160901091724)
 * [페이스북, 웹버전 아톰 에디터 오픈소스로 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161230093449)
