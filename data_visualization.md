@@ -565,6 +565,7 @@ Data Visualization
 * [KDE + threshold | Pega Devlog](https://jehyunlee.github.io/2023/02/12/Python-DS-127_kdeth/)
 * [한/글 표로 차트 그리기(확산형 누적막대)](https://employeecoding.tistory.com/372)
 * [Pseudo Lab - Data Science Cheatsheet](https://pseudo-lab.github.io/cheat-sheet/?src=matplotlib)
+* [Hannah Aizenman - Plotting with Matplotlib; Telling Static, Animated, & Interactive Stories - YouTube](https://www.youtube.com/watch?v=f6APC9X8yIM)
 * [colorsys - Conversions between Color Systems | Pega Devlog](https://jehyunlee.github.io/2022/01/04/Python-DS-95-tiger/)
 * [Daft](https://docs.daft-pgm.org/)
   * [daft: Render probabilistic graphical models using matplotlib](https://github.com/daft-dev/daft)
