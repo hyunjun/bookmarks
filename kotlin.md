@@ -108,6 +108,7 @@
 * [How will you handle null references if you are designing a new language?](https://hackernoon.com/how-will-you-handle-null-references-if-you-are-designing-a-new-language-b1e4056456fc)
 * [Kotlin Isn’t Null-Safe Yet. Here Are 3 Gotchas | by Sam Cooper | Mar, 2023 | Better Programming](https://betterprogramming.pub/kotlin-isnt-null-safe-yet-here-are-3-gotchas-23258fada62)
 * [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
+* [인자가 많은 메서드는 왜 나쁠까?](https://toss.tech/article/engineering-note-4)
 * [Lessons in Kotlin Threading: An Animated Splash Screen](https://android.jlelse.eu/lessons-in-kotlin-threading-an-animated-splash-screen-4972fd08cab0)
 * [LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)](https://medium.com/google-developers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
 * [코틀린 이용해 Parallel한 네트워크 호출](https://developer88.tistory.com/280)
