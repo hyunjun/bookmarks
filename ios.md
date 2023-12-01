@@ -161,6 +161,8 @@ iOS
 * [ATS (App Transport Security) 톺아보기 :: iOYES](https://green1229.tistory.com/421)
 * [Design Token으로 GS SHOP App 디자인 시스템 구축 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/20)
 * [SwiftUI에서 VoiceOver 사용하기 :: iOYES](https://green1229.tistory.com/424)
+* [SwiftUI로 Threads 앱 같은 커스텀 PTR 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-ptr/)
+* [자동 문자 결합 방지하기 :: iOYES](https://green1229.tistory.com/426)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
