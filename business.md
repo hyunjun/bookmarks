@@ -1792,6 +1792,7 @@ Business
 * [Team Leadership Toolkit Series' Articles - DEV Community](https://dev.to/unseenwizzard/series/23374)
 * [아버지 리더십 Fatherhood Leadership – 조성문의 블로그](https://sungmooncho.com/2023/09/26/father-leadership/)
 * [인간은 무엇을 위해 움직이는가 | Evans Library](https://evan-moon.github.io/2023/10/03/how-to-be-a-better-leader/)
+* [이끌거나, 따르거나, 아니면 비키거나](https://www.thestartupbible.com/2023/11/lead-follow-or-get-out-of-the-way.html)
 
 # Manager Management
 * [Preventing burnout: A manager's toolkit | GitLab](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/)
@@ -2074,6 +2075,7 @@ Business
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [고객 Jobs To Be Done 유민규 / Product Owner | 여기어때 기술블로그](https://techblog.gccompany.co.kr/%EA%B3%A0%EA%B0%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A0%8C%EC%A6%88-jobs-to-be-done-808c7b72d15b)
 * [b2b 프로덕트가 제대로 망하는 과정](https://sonujung.com/how-the-b2b-product-destined-to-fail)
+* [B2B 비즈니스의 핵심은 기술이 아닙니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/b2b20231128)
 * [프로덕트 포지셔닝에 대하여](https://www.canda.blog/on-product-positioning/)
 * [가볍게 읽는 Product Analysis | Product Analytics Playground](https://playinpap.github.io/basic-product-analysis/)
 * [Product Analytics 201 | Product Analytics Playground](https://playinpap.github.io/product-analytics-201/)
@@ -2091,8 +2093,10 @@ Business
 * [푸시 클릭율 6배를 만든 고객집중 | by 송효진 | 29CM TEAM | Sep, 2023 | Medium](https://medium.com/29cm/%ED%91%B8%EC%8B%9C-%ED%81%B4%EB%A6%AD%EC%9C%A8-6%EB%B0%B0%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%A0%EA%B0%9D%EC%A7%91%EC%A4%91-2811bf0a15c7)
 * [06화 앱 삭제의 주요 원인과 해결법](https://brunch.co.kr/@cliche-cliche/204)
 * [욕먹는 스타트업이 더 잘나가는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/aarrr20231106) AARRR funnel
+* [09화 모호한 액티베이션과 아하모먼트 구별하기](https://brunch.co.kr/@cliche-cliche/211) AARRR
 * [리텐션을 고려한 첫 구독 유도의 중요성. 온보딩 구매화면 노출 시점 최적화 실험 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EB%A6%AC%ED%85%90%EC%85%98%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%9C-%EC%B2%AB-%EA%B5%AC%EB%8F%85-%EC%9C%A0%EB%8F%84%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1-aaba41512640)
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
+* [임팩트에 집중했더니 생긴 일. 기대했던 변화들과 기대 못했던 긍정적 변화들까지 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EC%9E%84%ED%8C%A9%ED%8A%B8%EC%97%90-%EC%A7%91%EC%A4%91%ED%96%88%EB%8D%94%EB%8B%88-%EC%83%9D%EA%B8%B4-%EC%9D%BC-a190446b85cf)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2740,6 +2744,7 @@ Business
 * [헤이딜러 UX 스터디 이야기 (소개). 헤이딜러 제품팀에서 진행했던 UX스터디 이야기를 들려드립니다. | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%9D%98-ux-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%86%8C%EA%B0%9C-16ec98d1e30f)
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
 * [08화 인지 부하를 줄이는 UX 디자인의 비밀](https://brunch.co.kr/@cliche-cliche/209)
+* [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
