@@ -453,6 +453,7 @@ Clojure
 * [Environment what? Variables?. Just forget about those, most probably… | by Irina Yaroslavova Stefanova | Oct, 2023 | Medium](https://medium.com/@ignorabilis/environment-what-variables-aa577ae02322)
 * [Private Methods in Clojure - YouTube](https://www.youtube.com/watch?v=7YB_S8j6IYI)
 * [Private constants & breaking private functions in Clojure - YouTube](https://www.youtube.com/watch?v=kzAOEqlbapM)
+* [Clojure for Node Developers: File System](https://blog.tvaisanen.com/clojure-for-node-developers-file-system)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
