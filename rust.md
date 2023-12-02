@@ -242,12 +242,13 @@
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [The success of Go heralds that of Rust](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
 * [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+* [Why discord switched from Go to Rust? - YouTube](https://www.youtube.com/watch?v=viJ92zBa5yc)
+* [Yong Kang Chia on LinkedIn: Why Discord is switching from Go to Rust | 25 comments](https://www.linkedin.com/posts/chiayong-eth_why-discord-is-switching-from-go-to-rust-activity-7135995746130030592-Bst6)
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
 * ["러스트"와 "고"를 선택하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/186713)
 * [십년지기 언어, 러스트와 고(Go) | 요즘IT](https://yozm.wishket.com/magazine/detail/1040/)
 * [Golang Vs Rust 2022 | Rust Vs Go For Web Development | Web Development Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=yzU5AoiflI8) 기초적인 언어 비교
-* [Why discord switched from Go to Rust? - YouTube](https://www.youtube.com/watch?v=viJ92zBa5yc)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
