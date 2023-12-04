@@ -1870,6 +1870,7 @@ NLP
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=\_z86t7LerrQ)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [Parti: Pathways Autoregressive Text-to-Image Model](https://parti.research.google/)
+* [Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 
 # LDA Latent Dirichlet Allocation
 
