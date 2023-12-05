@@ -163,6 +163,8 @@ iOS
 * [SwiftUI에서 VoiceOver 사용하기 :: iOYES](https://green1229.tistory.com/424)
 * [SwiftUI로 Threads 앱 같은 커스텀 PTR 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-ptr/)
 * [자동 문자 결합 방지하기 :: iOYES](https://green1229.tistory.com/426)
+* [SwiftUI - MagnifyGesture (Pinch Gesture) :: iOYES](https://green1229.tistory.com/427)
+* [SwiftUI로 커스텀 Context Menu 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-context-menu/)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
