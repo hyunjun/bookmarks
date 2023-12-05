@@ -3596,6 +3596,7 @@ Programming
 * [Continuous Integration: That’s Not What They Meant • Clare Sudbery • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=97qyNQz7fxY)
 * [우리의 개발문화는 이렇게 성장합니다. 안녕하세요, FINDA 현금그로스 PG 자산/신용관리 PT 백엔드… | by 김형래 | finda 기술 블로그 | Medium](https://medium.com/finda-tech/%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4-8f57b06ca549)
   * ['핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2295/)
+* [App팀은 이렇게 일해요-(4) 자동화 aka CI/CD. 안녕하세요. 비주얼에서 App팀 팀장을 맡고 있는 박창규입니다… | by TalQ | bejewel | Nov, 2023 | Medium](https://medium.com/bejewel/app%ED%8C%80%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%B4%EC%9A%94-4-%EC%9E%90%EB%8F%99%ED%99%94-aka-ci-cd-cbe63c1b0227)
 * [AWX를 이용한 CI/CD Pipeline: Pylon | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/sre-re-pylon/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
