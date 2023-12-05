@@ -1011,6 +1011,7 @@ NLP
 * [Visual Prompting Livestream With Andrew Ng - YouTube](https://www.youtube.com/watch?v=FE88OOUBonQ)
 * [생성형 AI ChatGPT/Bard LLM에서 프롬프팅을 이용한 공격/방어 방법](https://bcho.tistory.com/1397)
 * [주제와 관계 없는 질문을 막기 위한 DARE 프롬프팅 기법](https://bcho.tistory.com/1396)
+* [ChatGPT를 더 잘쓰는 방법 1탄 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part1/)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
