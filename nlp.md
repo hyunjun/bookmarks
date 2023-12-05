@@ -1832,6 +1832,7 @@ NLP
   * [KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
     * [챗GPT 러닝데이 | 챗GPT | 한국어 LLM 민주화의 시작 KoAlpaca! - 이준범](https://aifactory.space/learning/2415/discussion/383)
     * [KoAlpaca-Polyglot-12.8B · Hugging Face](https://huggingface.co/beomi/KoAlpaca-Polyglot-12.8B)
+* [autogen: Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ ](https://github.com/microsoft/autogen)
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [book\_writer - AI Book Writing with GPT3 & Dalle-mini](https://github.com/hunkim/book\_writer) streamlit
   * `GOOGLE_REDIRECT_URI=??? GOOGLE_CLIENT_SECRET=GO...Vw GOOGLE_CLIENT_ID=19...sm.apps.googleusercontent.com DALLE_URL=https://main-dalle-server-scy6500.endpoint.ainize.ai/ OPENAI_API_KEY=sk-...H7 FIREBASE_KEY_JSON=test-...1c.json LOG_FILE=log.txt make run`
@@ -1866,6 +1867,7 @@ NLP
 * [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
 * [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
+* [LLM Visualization](https://bbycroft.net/llm)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=\_z86t7LerrQ)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
