@@ -2937,6 +2937,7 @@ Javascript
 * [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
   * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 * [Zod | Documentation](https://zod.dev/) TypeScript-first schema validation with static type inference
+  * [멀티페이지 폼을 아름답게 만들면서 멋지게 유효성 검사하기 | miryang.dev](https://miryang.dev/blog/create-multi-page-form)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
@@ -4545,6 +4546,7 @@ Javascript
 * [선언형 프로그래밍으로 이해하기 쉬운 코드 작성하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2083/)
 * [React에서 textarea의 입력 길이를 제한할 때 고려할 점 | DeveLife](https://yungis.dev/react/textarea-maxlength-limit/)
 * [**리액트로 인해 잊었거나 전혀 몰랐던 것들 | bohyeon.dev**](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)
+* [번역 새로운 리액트 문서에서 제시하는 9가지 권장 사항](https://velog.io/@eunbinn/react-docs-recommendations)
 * [Component-Driven Development](https://www.chromatic.com/blog/component-driven-development/)
   * [번역 - Component-Driven Development](https://velog.io/@yesdoing/%EB%B2%88%EC%97%AD-Component-Driven-Development-udjzqwqgay)
 
