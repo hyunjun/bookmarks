@@ -179,6 +179,7 @@ Open Source
 * [Fatma Tarlaci, Brian Skinn, Dale Tovar - OpenTeams Score: A Way to Assess Open Source Projects - YouTube](https://www.youtube.com/watch?v=Ca04Ntvg8S4)
 * [토스ㅣSLASH 23 - 은행 데이터플랫폼 오픈소스로 전환하기 - YouTube](https://www.youtube.com/watch?v=RjsG-zKMuX8)
 * [오픈소스는 저희에게 맡겨주세요! OpenChain Korea Work Group 모임 후기 – tech.kakao.com](https://tech.kakao.com/2023/07/10/openchain-kwg-18th-meeting/)
+* [2023 공개 SW 페스티벌 후기 - 듣고 배우고 느낀것](https://velog.io/@joosing/%E3%80%8C2023-%EA%B3%B5%EA%B0%9C-SW-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C%E3%80%8D-%EB%93%A3%EA%B3%A0-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%8A%90%EB%82%80%EA%B2%83)
 
 # Contribution
 * [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
