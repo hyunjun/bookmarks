@@ -192,6 +192,7 @@
 * [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 * [의존성 주입 안티패턴: Ambient Context · Soojin Ro](https://soojin.ro/blog/ambient-context-anti-pattern)
 * [의존성 주입에 대한 오해와 진실 · Soojin Ro](https://soojin.ro/blog/dependency-injection-basics)
+* [의존성 주입을 하면 잃게 되는 것 · Soojin Ro](https://soojin.ro/blog/three-dimensions-of-di)
 * [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
   * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
 
