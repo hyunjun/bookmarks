@@ -858,6 +858,7 @@ Web
 * [CSS Tip hover시 밑줄 그을 때 움찔 하는 것을 막기 | 웹으로 말하기](https://mytory.net/archives/14826)
 * [슬라이드 대신 가로 스크롤 컴포넌트를 사용할 때 스크롤바 모양 제어 CSS – 형우의 웹개발](https://mytory.net/archives/15201)
 * [슬라이드 대신 가로 스크롤 컴포넌트를 사용할 때 휠 스크롤하면 가로 스크롤되게 하는 JS – 형우의 웹개발](https://mytory.net/archives/15216)
+* [CSS 임포트 방식은 성능에 얼마나 영향을 줄까? @import는 사용해선 안 될까? – 형우의 웹개발](https://mytory.net/archives/15418)
 * [ฅ^•ﻌ•^ฅ ♥ AdorableCSS](https://developer-1px.github.io/adorable-css/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [CSS Selectors: A Visual Guide & Reference | fffuel](https://fffuel.co/css-selectors/)
