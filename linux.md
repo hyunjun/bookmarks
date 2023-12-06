@@ -435,6 +435,7 @@ Linux
 * [Command Line Analytics](http://www.drbunsen.org/command-line-analytics/)
 * [commandlinefu.com](www.commandlinefu.com)
 * [command line power user - modern command line workflow with ZSH, Z and related tools](http://commandlinepoweruser.com/)
+* [🐧 Modern Linux; Better Command ⚡️ 개선된 리눅스 명령어 모음 - YouTube](https://www.youtube.com/watch?v=j5YkFIyJmNE)
 * [Learn the Command Line - Learn how to use the command line to manipulate data and automate tasks](https://www.codecademy.com/en/courses/learn-the-command-line)
 * [the art of command line - Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line)
