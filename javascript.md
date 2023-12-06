@@ -727,6 +727,7 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news
+  * [2023-12.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2023-12.md)
   * [2023-11.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2023-11.md)
   * [2023-10.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2023-10.md)
   * [2023-09.md at master · naver/fe-news · GitHub](https://github.com/naver/fe-news/blob/master/issues/2023-09.md)
@@ -2735,6 +2736,7 @@ Javascript
   * [pnpm과 함께하는 Frontend 모노레포 세팅 - Byeongjin Jason Kang](https://jasonkang14.github.io/react/monorepo-with-pnpm)
   * [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
   * [CI 소요시간을 최대 4.6배 개선하는 방법](https://tech.inflab.com/20231101-optimizing-ci-pipeline/)
+  * [웹프론트개발팀에서 배민 커머스 어드민을 개발하는 방법 | 우아한형제들 기술블로그](https://techblog.woowahan.com/15084/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
