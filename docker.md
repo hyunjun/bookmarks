@@ -1910,6 +1910,7 @@ Docker
   * [Karpenter. 안녕하세요. 여기어때컴퍼니 인프라개발팀에서 EKS(Elastic… | by Jensen | Oct, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/karpenter-7170ae9fb677)
   * [08. 노드 오토스케일링 – Karpenter – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-10-18-kubernetes-8/)
   * [09. 안전하게 카펜터를 사용하는 방법 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2023-10-25-kubernetes-9/)
+  * [karpenter로 EKS노드를 오토 스케일링 - YouTube](https://www.youtube.com/watch?v=WjkfXgNJsig)
 * [kDbench: Kubernetes Storage Benchmark thru fio: IOPS, Bandwidth MB/s and Latency](https://github.com/sysnet4admin/kDbench)
   * [Revitalize opensource project kDbench - Hoon Jo - YouTube](https://www.youtube.com/watch?v=vS1W7qcXJ28)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
