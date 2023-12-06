@@ -290,6 +290,7 @@ Android
 * [메모리 잘 관리하기 - WeakReference편](https://blog.imqa.io/memory-management-weakreference/)
 * [PLT Hook 체크를 위한 Android so 파일 파싱 : NHN Cloud Meetup](https://meetup.nhncloud.com/posts/371)
 * [Pluu Dev - 메모 Fixed AGP 8.1.0부터 instrumented test가 실행되면 앱을 지우는 버그가 발생](http://pluu.github.io/blog/android/2023/10/16/agp8_10-bug_fixed/)
+* [LINE Android 앱에 폰트 커스터마이징 기능 적용하기](https://techblog.lycorp.co.jp/ko/how-to-develop-font-customizing-function-in-android-app)
 
 # Android Studio
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
