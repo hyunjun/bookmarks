@@ -452,6 +452,7 @@ AWS
 * [AWS Diagram Architecture. When you work with AWS cloud… | by Alan Blackmore | Medium](https://alanblackmore.medium.com/aws-diagram-architecture-afb50ea569a4)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(1) | by MZC_Global | Cloud Villains | Oct, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-ac158b996c51)
 * [FastAPI + Streamlit + DocumentDB 구축으로 간이 고객 정보 입력 폼 만들기(2) | by MZC_Global | Cloud Villains | Nov, 2022 | Medium](https://medium.com/ctc-mzc/fastapi-streamlit-documentdb-%EA%B5%AC%EC%B6%95%EC%9C%BC%EB%A1%9C-%EA%B0%84%EC%9D%B4-%EA%B3%A0%EA%B0%9D-%EC%A0%95%EB%B3%B4-%EC%9E%85%EB%A0%A5-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-d94c595fe824)
+* [Amazon DocumentDB(MongoDB 호환)에 대한 벡터 검색, 이제 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/vector-search-for-amazon-documentdb-with-mongodb-compatibility-is-now-generally-available/)
 * [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation - 김성일, 분석 솔루션즈 아키텍트, AWS - YouTube](https://www.youtube.com/watch?v=DtT9uQTs19U)
 * [Data Lake with Serverless | 월요일 오후 9시](https://medium.com/monday-9-pm/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
   * Data Warehouse와 Data Lake의 탄생 배경, AWS의 Serverless로 구조를 설계하는 방법 설명
@@ -935,6 +936,7 @@ AWS
 * [비용 최적화 시리즈 2부: AWS Config의 비용 최적화 방안 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/cost-optimization-recommendations-for-aws-config/)
 * [FSx for Netapp ONTAP을 활용한 클라우드 스토리지 비용 최적화 방안 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/fsx-for-cost-optimization/)
 * [AWS 요금 계산기](https://calculator.aws/)
+* [AWS 프리 티어 사용량 확인용 API 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/check-your-aws-free-tier-usage-programmatically-with-a-new-api/)
 * [AWS-FinOps-S3-incomplete-multipart-uploads-MPU - 리눅서의 기술술 블로그](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 * [cdk-bill-bot: The serverless cost optimization bot](https://github.com/cremich/cdk-bill-bot)
   * [Bill - 서버리스로 동작하는 AWS 비용 최적화 봇 | GeekNews](https://news.hada.io/topic?id=7095)
