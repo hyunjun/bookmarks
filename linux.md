@@ -176,6 +176,7 @@ Linux
 * [Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
   * [What happens when you run 'Hello, world'](https://jvns.ca/blog/2013/11/29/what-happens-when-you-run-a-unix-program/)
 * [PyCon KR 2023 Python을 이용한 Linux 인증 모듈 만들기 유성진 - YouTube](https://www.youtube.com/watch?v=NSyI6TaOmZ4) PAM Pluggable Authentication Modules
+* [시작하는 엔지니어를 위해 - 3 - 리눅서의 기술술 블로그](https://linuxer.name/2023/12/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC-%EC%9C%84%ED%95%B4-3/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
