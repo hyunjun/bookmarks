@@ -866,6 +866,7 @@ Docker
   * Docker Compose의 YAML에서 `x-develop` 필드를 정의해서 특정 경로의 변경 사항이 생겼을 때 바로 컨테이너에 복사하는 `sync`와 이미지를 다시 빌드하는 `rebuild` 옵션을 정의할 수 있게 됨
 * [Flask Application Load Balancing using Docker Compose and Nginx – Sweetcode.io](https://sweetcode.io/flask-application-load-balancing-using-docker-compose-and-nginx/)
 * [Flask Application Load Balancing using Docker Compose and Nginx - DEV Community](https://dev.to/bravinsimiyu/flask-application-load-balancing-using-docker-compose-and-nginx-3nc3)
+* [Airflow 환경 Docker compose로 containerization하기 | by eunseok yang | 네이버 플레이스 개발 블로그 | Dec, 2023 | Medium](https://medium.com/naver-place-dev/airflow-%ED%99%98%EA%B2%BD-docker-compose%EB%A1%9C-containerization%ED%95%98%EA%B8%B0-4770addae789)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
