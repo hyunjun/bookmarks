@@ -1108,6 +1108,7 @@ Programming
 * [API Evolution without Versioning - YouTube](https://www.youtube.com/watch?v=dIr-16CzC4M)
 * [How to improve API performance?](https://www.linkedin.com/feed/update/urn:li:activity:7090649861280157696/)
 * [오늘도 여러분의 API 는 안녕하신가요? - 인프콘2023 · Present](https://present.do/documents/64dd4b8f10ab9a5ae56909f4)
+* [2023년 API 프로토콜 현황 | GeekNews](https://news.hada.io/topic?id=12179) REST WebHooks GraphQL SOAP WebSocket gRPC MQTT AMQP SSE EDI EDA
 * API Tracker [Discover the best APIs and SaaS products | API Tracker](https://apitracker.io/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2669,6 +2670,7 @@ Programming
 * [크몽 개발팀 Jira 사용기. 민첩한 조직 구조를 유연하게 유지하는 데 도움을 준 Jira 사용기 | by gyeongrae.roh | kmong](https://blog.kmong.com/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-81224416448e)
 * [크몽 개발팀 Jira 사용기 : 극대화 편. Jira를 이렇게까지 사용 가능한지 난 몰랐네? | by James | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EA%B7%B9%EB%8C%80%ED%99%94-%ED%8E%B8-88439965a9bf)
 * [크몽 개발팀 Jira 사용기 : 응용 편. Jira 배포 관리 프로세스에 대한 ‘응용 편’을 준비했습니다. | by James | Mar, 2023 | Medium](https://medium.com/@james_34049/%ED%81%AC%EB%AA%BD-%EA%B0%9C%EB%B0%9C%ED%8C%80-jira-%EC%82%AC%EC%9A%A9%EA%B8%B0-%EC%9D%91%EC%9A%A9-%ED%8E%B8-7bcab004a96)
+* [Release PR만들어질때, Jira 이슈에 배포 버전 자동으로 추가하기(feat. GitHub Action) | by Ted Park | PRND | Dec, 2023 | Medium](https://medium.com/prnd/release-pr%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%88%EB%95%8C-jira-%EC%9D%B4%EC%8A%88%EC%97%90-%EB%B0%B0%ED%8F%AC-%EB%B2%84%EC%A0%84-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-feat-github-action-fef1c8970a39)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -3597,6 +3599,7 @@ Programming
 * [우리의 개발문화는 이렇게 성장합니다. 안녕하세요, FINDA 현금그로스 PG 자산/신용관리 PT 백엔드… | by 김형래 | finda 기술 블로그 | Medium](https://medium.com/finda-tech/%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%AC%B8%ED%99%94%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4-8f57b06ca549)
   * ['핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2295/)
 * [App팀은 이렇게 일해요-(4) 자동화 aka CI/CD. 안녕하세요. 비주얼에서 App팀 팀장을 맡고 있는 박창규입니다… | by TalQ | bejewel | Nov, 2023 | Medium](https://medium.com/bejewel/app%ED%8C%80%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%B4%EC%9A%94-4-%EC%9E%90%EB%8F%99%ED%99%94-aka-ci-cd-cbe63c1b0227)
+* [안전제일! 뱅크샐러드가 모바일 앱을 안정적으로 배포하는 방법 | 뱅크샐러드](https://blog.banksalad.com/tech/how-banksalad-safely-deploys-mobile-app/)
 * [AWX를 이용한 CI/CD Pipeline: Pylon | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/sre-re-pylon/)
 * [Bitrise | Mobile DevOps to Maximize App Impact](https://bitrise.io/)
   * [React Native CICD using Bitrise (1) / Bitrise!](https://orangebrother.dev/blog/cicd-using-bitrise-bitrise)
@@ -5590,6 +5593,7 @@ Programming
 * [리팩토링 코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745)
 * [6년 묵은 레거시, RootController 리팩토링하기. 서비스의 변화는 소프트웨어의 변경을 동반하고 때때로 레거시를… | by Hyeongseok Park | 29CM TEAM | Nov, 2023 | Medium](https://medium.com/29cm/6%EB%85%84-%EB%AC%B5%EC%9D%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-rootcontroller-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0-424d4259f531)
 * [JS용 클래스와 CSS용 클래스는 명확히 분리돼야 합니다(관심사 분리 원칙 사례) – 형우의 웹개발](https://mytory.net/archives/15593)
+* [Gmarket Mobile Web Vip 레거시 성능 개선기](https://ebay-korea.tistory.com/97)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
