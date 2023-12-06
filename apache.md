@@ -804,6 +804,7 @@ Apache
 * [the most common Use Cases for Kafka](https://www.linkedin.com/feed/update/urn:li:activity:7110535431393267712/)
 * [카프카 클러스터 & 세팅 그리고...](https://joecp17.tistory.com/81)
 * [**2023 KAFKA KRU 스터디 회고 및 Custom Kafka Connector 만들기**](https://brewagebear.github.io/build-custom-kafka-connector/)
+* [Tales of Kafka @Cloudflare: Lessons Learnt on the Way to 1 Trillion Messages - YouTube](https://www.youtube.com/watch?v=_booBjCB7rU)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
