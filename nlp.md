@@ -369,6 +369,7 @@ NLP
 * [NLP-Research Retnet Model](https://latte4me.com/retnet-model/)
 * [SceneXplain's Image-to-JSON: Extract Structured Data from Images with Precision](https://jina.ai/news/scenexplains-image-json-extract-structured-data-images-precision/)
 * [AI 경량화: 더 빠르고 저렴한 AI 서비스](https://d2.naver.com/helloworld/4608596) LaRva
+* [중요한 것은 사용자의 의도를 꺾지 않으려는 마음 (동시편집에서 Text.Style Operation 개선 및 Multi User Undo/Redo 구현하기)](https://d2.naver.com/helloworld/6014816) peritext
 
 # 띄어쓰기
 
@@ -1575,6 +1576,7 @@ NLP
   * [LLM 챗봇 ,랭체인의 핵심 Retrieval - Document Loaders - YouTube](https://www.youtube.com/watch?v=tIU2tw3PMUE)
   * [How to print intermediate values in the langchain chain – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4671)
   * [아직도 '랭체인'을 모른다고 해서 5분 설명해드림 - YouTube](https://www.youtube.com/watch?v=aDN8hm4pfPE)
+  * [Season 11 LangChain - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhFQKPn4df8snG7VSzlUpvyY)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
