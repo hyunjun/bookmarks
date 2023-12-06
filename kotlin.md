@@ -226,6 +226,7 @@
 * [Kotlin으로 Cli를 만든다고?](https://d2.naver.com/helloworld/2236952)
 * [Using Kotlin’s Contract APIs for Smarter Helper Functions | by Nate Ebel | Engineering at Premise](https://engineering.premise.com/using-kotlins-contract-apis-for-smarter-helper-functions-6b5b482e23b4)
 * [입 개발 Kotlin으로 Google Sheet 열어보기 | Charsyam's Blog](https://charsyam.wordpress.com/2023/11/21/%ec%9e%85-%ea%b0%9c%eb%b0%9c-kotlin%ec%9c%bc%eb%a1%9c-google-sheet-%ec%97%b4%ec%96%b4%eb%b3%b4%ea%b8%b0/)
+* [자바 프로젝트 3개 코틀린 점진적 전환기(feat. lombok 됩니다.) | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/kotlin-migration/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -437,6 +438,7 @@
 * [Kotlin Multiplatform 이름 업데이트 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2023/08/update-on-the-name-of-kotlin-multiplatform/)
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [Dependency Injection in Kotlin Multiplatform Mobile projects | KMM Beta - YouTube](https://www.youtube.com/watch?v=JtUJc4WYObo)
+* [Composing All The Things with Kotlin Multiplatform • Garth Gilmour • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=iq2tTtG3zs4)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
