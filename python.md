@@ -1443,6 +1443,7 @@ Python
   * [6 Python f-strings tips and tricks - 30 seconds of code](https://www.30secondsofcode.org/articles/s/6-python-f-strings-tips)
   * [The unreasonable effectiveness of f-strings and re.VERBOSE - death and gravity](https://death.andgravity.com/f-re)
   * [Python F-Strings Number Formatting Cheat Sheet by BrianAllan - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/brianallan/cheat-sheets/python-f-strings-number-formatting/)
+  * [13 Python f-string formatting tips - YouTube](https://www.youtube.com/watch?v=44DMWikS0Ds)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Python String Formatting - ThePythonGuru.com](https://thepythonguru.com/python-string-formatting/)
@@ -4498,6 +4499,7 @@ Python
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
 * [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
 * [Python Monorepos: What, Why and How - YouTube](https://www.youtube.com/watch?v=1qurVKSYVqY) Pants, Bazel, Buck
+* [PyCon KR 2023 Django Monorepo 마이크로서비스 도입기 김순 - YouTube](https://www.youtube.com/watch?v=yxDk9yDfrYE) pantsbuild
 * [Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=XFGXCK6HZbk)
 * [Virtual Environments Demystified | Lukas Waymann](https://meribold.org/python/2018/02/13/virtual-environments-9487/) 임의로 가상 환경 구성
 * [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
