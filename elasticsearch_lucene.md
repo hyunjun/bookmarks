@@ -91,6 +91,7 @@ ElasticSearch - Lucene
   * [Amazon OpenSearch Service, 한국어 분석을 위한 ‘노리(Nori)’ 플러그인 활용 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-service-korean-nori-plugin-for-analysis/)
   * [후기 서비스 AWS Opensearch 도입기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/2023-review-opensearch/)
   * [Vector engine for Amazon OpenSearch Serverless is now available | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/vector-engine-for-amazon-opensearch-serverless-is-now-generally-available/)
+  * [Amazon OpenSearch Service Hybrid Query를 통한 검색 기능 강화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-opensearch-service-hybrid-query-korean/)
   * [aws-opensearch-ingestion-tutorials: This sample codes show how to ingest data into Amazon OpenSearch or OpenSearch Serverless using OpenSearch Ingestion. Amazon OpenSearch Ingestion is a kind of alternative for OpenSource Logstash or Amazon Kinesis Data Firehose](https://github.com/aws-samples/aws-opensearch-ingestion-tutorials)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
