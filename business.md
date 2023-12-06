@@ -2747,6 +2747,7 @@ Business
 * [닫기와 뒤로가기, 어떻게 다를까? — 헤이딜러 UX 스터디. - 뒤로가기의 종류(하이어라키 백, 히스토리백)에 대해 알아보고 … | by Ted Park | PRND | Nov, 2023 | Medium](https://medium.com/prnd/%EB%8B%AB%EA%B8%B0%EC%99%80-%EB%92%A4%EB%A1%9C%EA%B0%80%EA%B8%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-ux-%EC%8A%A4%ED%84%B0%EB%94%94-f97d83ee17ba)
 * [08화 인지 부하를 줄이는 UX 디자인의 비밀](https://brunch.co.kr/@cliche-cliche/209)
 * [독이 되는 레퍼런스 활용법](https://toss.tech/article/23009)
+* [‘고객 중심’, 우리의 고객은 누구인가?. 50%의 고객을 만족시키기 vs. 1%의 고객을 감동시키기 | by Leo Yang | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EA%B3%A0%EA%B0%9D-%EC%A4%91%EC%8B%AC-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%A0%EA%B0%9D%EC%9D%80-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80-f545e9b59215)
 * [design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
 * [Primer Prism](https://primer.style/prism/)
   * [Accelerating GitHub theme creation with color tooling | The GitHub Blog](https://github.blog/2022-06-14-accelerating-github-theme-creation-with-color-tooling/)
