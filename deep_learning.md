@@ -1343,6 +1343,7 @@ Deep Learning
 * [Graph Neural Networks: Algorithm & Applications • Shujia Zhang • YOW! 2018 - YouTube](https://www.youtube.com/watch?v=RY_2fNg8u3U)
 * [GraphUserGroup - GUG](https://www.graphusergroup.com/)
 * [Usman Zafar - Using Graph Neural Networks to Embrace the Dependency Within Your Data - YouTube](https://www.youtube.com/watch?v=I74zSp9udT8)
+* [Zhao & Qiao - Graph Neural Networks for Real World Fraud Detection | PyData Amsterdam 2023 - YouTube](https://www.youtube.com/watch?v=z_s-RUku2_4)
 * [PyG](https://pyg.org/)
   * [Ramona Bendias, Matthias Fey: Practical Session - Learning on Heterogeneous Graphs with PyG - YouTube](https://www.youtube.com/watch?v=ORh-3Nhz_mo)
 
