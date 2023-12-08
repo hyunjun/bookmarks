@@ -515,6 +515,7 @@ Programming Language
   * [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥 - YouTube](https://www.youtube.com/watch?v=fYb2DkFo01U)
   * [Mojo🔥: AI를 위한 새로운 프로그래밍 언어](https://devocean.sk.com/blog/techBoardDetail.do?ID=165125)
   * [2023 LLVM Dev Mtg - Mojo 🔥: A system programming language for heterogenous computing - YouTube](https://www.youtube.com/watch?v=SEwTjZvy8vw)
+  * [새로운 인공지능 엔진(MAX)과 새로운 Mojo 버전 공개 - YouTube](https://www.youtube.com/watch?v=dijo88acdRk)
 * ["Morel, a functional query language" by Julian Hyde - YouTube](https://www.youtube.com/watch?v=smUm3C5q2IM)
 * [MUMPS - Meet MUMPS, the Archaic Health-Care Programming Language That Predicted Big Data](http://motherboard.vice.com/read/meet-mumps-the-archaic-health-care-programming-language-that-predicted-big-data-2)
 * [Mycroft - A prolog-like language with compound truth value logic](https://github.com/enkiv2/mycroft)
