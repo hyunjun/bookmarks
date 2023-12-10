@@ -398,6 +398,7 @@ AWS
 * [Cloud WAN - Part 8](https://zigispace.net/1158)
 * [AWS re:Post – AWS 커뮤니티를 위한 신규 질의 응답 사이트 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
   * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
+* [AWS re:Post Private을 사용하여 협업을 강화하고 클라우드 관련 지식을 안전하게 공유 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/)
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [AWS Systems manager와 Amazon Inspector로 Amazon EC2 자산 관리 자동화 하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/aws-systems-manager-amazon-inspector-amazon-ec2-automation/)
@@ -472,6 +473,7 @@ AWS
 * [Getting started Virtual Waiting Room on AWS | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-virtual-waiting-room-on-aws/)
 * ['Amazon Web Service Network 쉽게 이해하기' 카테고리의 글 목록](https://aws-hyoh.tistory.com/category/Amazon%20Web%20Service%20Network%20%EC%89%BD%EA%B2%8C%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [안전한 협업 – AWS Clean Rooms – Amazon Web Services](https://aws.amazon.com/ko/clean-rooms/)
+* [AWS Clean Rooms – 사용자 데이터에 대한 차등 개인 정보 보호 제공 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-clean-rooms-differential-privacy-enhances-privacy-protection-of-your-users-data-preview/)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(1) :: All About Dev/Ops](https://zerone-code.tistory.com/8)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(2) :: All About Dev/Ops](https://zerone-code.tistory.com/9)
 * [Infra Springboot에 AWS Secrets Manager 적용해보기(3) :: All About Dev/Ops](https://zerone-code.tistory.com/10)
@@ -538,6 +540,7 @@ AWS
 * [Amazon Macie를 활용한 민감 데이터 탐지 및 보호조치 자동화 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/detect-and-protect-sensitive-data-with-amazon-macie/)
 * [Multus 워커 노드 및 파드를 위한 자동화된 IP 주소 관리 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/automated-ip-address-management-for-multus-workers-and-pods/)
 * [TVING 사례로 본 AWS 인프라를 이용한 글로벌 비즈니스 확장 기반 마련하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/part-1-global-infrastructure-to-scale-with-the-tving-story/)
+* [Amazon CodeCatalyst – 맞춤형 블루프린트와 새로운 엔터프라이즈 티어 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -615,6 +618,7 @@ AWS
 * [Amazon QuickSight, 세부적 시각 자료 임베딩 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-fine-grained-visual-embedding-powered-by-amazon-quicksight/)
 * [Amazon QuickSight Q – 자동화된 데이터 준비 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-announcing-automated-data-preparation-for-amazon-quicksight-q/)
 * [AWS 고객사례: 카카오스타일](https://aws.amazon.com/ko/solutions/case-studies/kakao-style/) QuickSight
+* [Amazon Q in QuickSight – 생성형 BI 기능을 이용한 쉬운 데이터 통찰력 제공 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
@@ -643,6 +647,7 @@ AWS
 * [Preview – Enable Foundation Models to Complete Tasks With Agents for Amazon Bedrock | AWS News Blog](https://aws.amazon.com/ko/blogs/aws/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
 * [Amazon Bedrock용 에이전트 미리보기 출시 – 다양한 파운데이션 모델 작업에 대한 지원 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
 * [Amazon Bedrock 지식 기반 미리보기 – 파운데이션 모델을 위한 에이전트 기반 기업 데이터 소스 연결 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
+* [Amazon Bedrock – 파운데이션 모델 평가 기능 출시 (미리보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/)
 * [AWS 생성 AI 플랫폼 '세이지메이커'와 '베드락' 차이는 - ZDNet korea](https://zdnet.co.kr/view/?no=20230809121223)
 * [Amazon Bedrock - 실제 기업 업무에 활용 가능한 생성형 AI 서비스 - YouTube](https://www.youtube.com/watch?v=_FQaVmf4dyY)
 * [파운데이션 모델 API 서비스 - Amazon Bedrock - AWS](https://aws.amazon.com/ko/bedrock/)
@@ -774,6 +779,7 @@ AWS
 * [CloudWatch Agent에서 HTTP Proxy를 통하는 모니터링 방법 | by Hedy Kim | Cloud Villains | Aug, 2023 | Medium](https://medium.com/cloudvillains/cloudwatch-agent%EC%97%90%EC%84%9C-http-proxy%EB%A5%BC-%ED%86%B5%ED%95%98%EB%8A%94-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%A9%EB%B2%95-268e7f61c29a)
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
+* [Amazon CloudWatch 로그 클래스 출시 – 저비용의 자주 액세스하지 않는 로그 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -803,6 +809,7 @@ AWS
   * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
+  * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
   * [AWS re:Invent 2022 참관기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2022-aws-reinvent/)
   * [DBA의 AWS re:Invent 2022 참석 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/16/aws-reinvent.html)
   * [아마존 CTO "이벤트 드리븐 아키텍처로 가라" - ZDNet korea](https://zdnet.co.kr/view/?no=20221202183934)
@@ -1924,8 +1931,10 @@ AWS
 * [Deploy FLAN-UL2 20B on Amazon SageMaker](https://www.philschmid.de/deploy-flan-ul2-sagemaker)
 * [Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/)
 * [Amazon SageMaker Canvas – 바로 사용 가능 모델, 사용자 지정 텍스트 및 이미지 분류 모델 지원 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
-* [Amazon SageMaker를 활용한 기계 학습에서 EFS 안의 민감 정보를 삭제하기 위한 서버리스 솔루션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sensitive-ml-training-data-lifecycle-management-using-aws-lambda/)
 * [Coursera, Amazon SageMaker Canvas 기반 No-Code 기계 학습 실습 교육 과정 개설 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
+* [Amazon SageMaker Canvas – 대규모 비즈니스 분석을 위한 파운데이션 모델 활용 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/)
+* [Amazon SageMaker Canvas – 자연어를 기반 데이터 탐색 기능 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/use-natural-language-to-explore-and-prepare-data-with-a-new-capability-of-amazon-sagemaker-canvas/)
+* [Amazon SageMaker를 활용한 기계 학습에서 EFS 안의 민감 정보를 삭제하기 위한 서버리스 솔루션 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/sensitive-ml-training-data-lifecycle-management-using-aws-lambda/)
 * [Amazon SageMaker 지리 공간 기능 정식 출시 – 보안 업데이트 및 다양한 활용 사례 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
 * [Amazon SageMaker Pipelines로 멀티 테넌트 MLaaS 빌드 환경 구현 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/implementing-a-multi-tenant-mlaas-build-environment-with-amazon-sagemaker-pipelines/)
 * [카카오스타일의 Amazon SageMaker 분산 훈련을 활용한 카테고리 자동 분류 시스템 모델 구축 사례 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-distributed-training-for-automated-category-classification/)
@@ -1940,6 +1949,8 @@ AWS
 * [롯데ON 사례로 본 개인화 추천 시스템 구축하기, 1부 : Dynamic A/B Testing 아키텍처 구축 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-dynamic-ab-test/)
 * [롯데ON 사례로 본 개인화 추천 시스템 구축하기, 2부 : Amazon SageMaker를 활용한 MLOps 구성 및 추천 모델 실시간 서비스 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-sagemaker-ncf-mlops/)
 * [KT, Amazon SageMaker를 이용한 ViT 기반 Food Tag 모델의 학습 시간 단축 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kt-ai-food-tag-on-sagemaker/)
+* [Amazon SageMaker Clarify – 파운데이션 모델 평가 기능 출시 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
+* [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
@@ -1984,6 +1995,7 @@ AWS
 * [AWS-SQS-터져랏 - 리눅서의 기술술 블로그](https://linuxer.name/2023/04/aws-sqs-%ED%84%B0%EC%A0%B8%EB%9E%8F/)
 * [Amazon SQS DLQ(Dead Letter Queue) 리드 라이브를 위한 새로운 API 세트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
 * [마이크로서비스에 Amazon SQS 활용하기 - hatemogi.com](https://hatemogi.com/2022/0801-amazon-sqs.html)
+* [Amazon SQS FIFO 대기열에 대한 처리량 증가 및 DLQ(Dead Letter Queue) 리드라이브 지원 발표 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
 
 # MSK Managed Streaming Kafka
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
@@ -2089,6 +2101,7 @@ AWS
 * [What’s new with Amazon Redshift from AWS re:Invent 2022 | by Phoebe Baek | Cloud Villains | Dec, 2022 | Medium](https://medium.com/ctc-mzc/whats-new-with-amazon-redshift-from-aws-re-invent-2022-85cb1646f6dc)
 * [AWS Schema Conversion tool(SCT)를 활용하여 Google BigQuery에서 Amazon Redshift로 마이그레이션하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/migrate-google-bigquery-to-amazon-redshift-using-aws-schema-conversion-tool-sct/)
 * [Amazon Redshift 감사 로그 검색을 위한 데이터 파이프라인 구성 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/redshift-audit-log-data-pipeline/)
+* [Amazon Redshift – Amazon Q를 포함한 새로운 AI 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
