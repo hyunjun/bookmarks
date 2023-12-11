@@ -5749,6 +5749,8 @@ Programming
   * [geoip](https://github.com/charsyam/geoip)
   * [ghz · gRPC benchmarking and load testing tool](https://ghz.sh/) protocol이 다르기 때문에 curl등으로 테스트가 불가능하므로 필요한 gRPC를 테스트할 수 있는 도구
   * [grpc-crud: A simple gRPC server-client code with an http client for sending data](https://github.com/Edmartt/grpc-crud)
+  * [grpc-node: gRPC for Node.js](https://github.com/grpc/grpc-node?tab=readme-ov-file#grpc-reflection-api-service)
+    * [grpc-reflection](https://github.com/grpc/grpc-node/tree/master/packages/grpc-reflection)
   * [nextjs-ssr-grpc: Nextjs server side rendering data using grpc](https://github.com/larbisahli/nextjs-ssr-grpc)
     * [Next.js Server-side data fetching using gRPC | by Larbi Sahli | Nov, 2022 | Medium](https://medium.com/@larbisahli/next-js-server-side-data-fetching-using-grpc-400a4b3bf521)
   * [protobuf: Protocol Buffers - Google's data interchange format](https://github.com/chequer-io/protobuf)
