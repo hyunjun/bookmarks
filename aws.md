@@ -657,6 +657,10 @@ AWS
 * [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models | AWS News Blog](https://aws.amazon.com/tw/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 * [Amazon Bedrock, Meta의 Llama 2 Chat 13B 모델에 대한 액세스 정식 출시 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
 * [Amazon Bedrock, AWS Chatbot을 이용한 ChatOps 모니터링 솔루션 구축하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-aws-chatbot-chatops/)
+* [Amazon Bedrock Agent 정식 출시 – 향상된 오케스트레이션 제어 및 추론 가시성 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/agents-for-amazon-bedrock-is-now-available-with-improved-control-of-orchestration-and-visibility-into-reasoning/)
+* [Amazon Bedrock Guardrails – 책임 있는 AI 정책에 맞춘 맞춤화된 보호 장치 구현 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/)
+* [Amazon Bedrock – Anthropic Claude 2.1 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/)
+* [Amazon Bedrock – Amazon Titan 이미지 생성기, 다중 모드 임베딩 및 텍스트 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
