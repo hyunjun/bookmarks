@@ -1272,6 +1272,7 @@ Business
 * [유능한 시니어 개발자들이 하필 '그곳'으로 이직한 이유 - ZDNet korea](https://zdnet.co.kr/view/?no=20220713153103)
 * [CTO와 그냥 개발자의 차이](https://brunch.co.kr/@graypool/551)
 * [‘효율성이 중요해진다’··· IT 리더가 취해야 할 8가지 - CIO Korea](https://www.ciokorea.com/news/251674)
+* [IT 조직이 붕괴했다?··· 신임 CIO가 검토할 만한 7가지 리빌딩 접근법 - CIO Korea](https://www.ciokorea.com/news/205254)
 * [Web2 개발자가 Web3 세상에 온 소감. 진심으로 내가 Web3에 오게되리라고는 상상하지 못했다. | by Chris Song | Sep, 2022 | NFT뱅크](https://blog.nftbank.ai/web2-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-web3-%EC%84%B8%EC%83%81-%EC%97%90-%EC%98%A8-%EC%86%8C%EA%B0%90-dea8985f30f6) 간접적으로 좋은 글
 * [새로온 CTO는 정복자일까](https://velog.io/@zetlos/%EC%83%88%EB%A1%9C%EC%98%A8-CTO%EB%8A%94-%EC%A0%95%EB%B3%B5%EC%9E%90%EC%9D%BC%EA%B9%8C)
 * [CTO는 코딩을 해야 하는가?](https://brunch.co.kr/@supims/337)
