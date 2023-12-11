@@ -2379,6 +2379,7 @@ Programming Books
 * (NOT YET) [GraphQL과 타입스크립트로 개발하는 웹 서비스](https://bjpublic.tistory.com/459)
   * 한라 005.138-강95ㄱ 탐라 문005.138-강98ㄱ
   * [graphql-book-fullstack-project: "GraphQL과 타입스크립트로 개발하는 웹 서비스" 도서의 예제 코드 저장소](https://github.com/hwasurr/graphql-book-fullstack-project)
+  * [GraphQL-Study: GraphQL을 공부하고, 실습한 코드에요 😀](https://github.com/junyharang-coding-study/GraphQL-Study)
 
 ## Angular
 
