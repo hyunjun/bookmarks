@@ -3553,6 +3553,8 @@ Javascript
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * Matterhorn [Announcing Matterhorn a Node.js API Server Boilerplate](https://medium.freecodecamp.org/announcing-matterhorn-a-node-js-api-server-boilerplate-4994759f1bf6)
 * [mdir.js: Mdir.js is text base file manager. Mdir.js is clone of LinM](https://github.com/la9527/mdir.js)
+* [n: Node version management](https://github.com/tj/n)
+  * [n 패키지 installed, active 경로가 달라 node 버전 변경이 안될 때](https://velog.io/@younoah/n-path)
 * [ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires](https://github.com/vercel/ncc)
   * [ncc - Node.js 프로젝트를 1개 파일로 컴파일 | GeekNews](https://news.hada.io/topic?id=4740)
 * [nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe)
