@@ -5597,6 +5597,7 @@ Programming
 * [6년 묵은 레거시, RootController 리팩토링하기. 서비스의 변화는 소프트웨어의 변경을 동반하고 때때로 레거시를… | by Hyeongseok Park | 29CM TEAM | Nov, 2023 | Medium](https://medium.com/29cm/6%EB%85%84-%EB%AC%B5%EC%9D%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-rootcontroller-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%ED%95%98%EA%B8%B0-424d4259f531)
 * [JS용 클래스와 CSS용 클래스는 명확히 분리돼야 합니다(관심사 분리 원칙 사례) – 형우의 웹개발](https://mytory.net/archives/15593)
 * [Gmarket Mobile Web Vip 레거시 성능 개선기](https://ebay-korea.tistory.com/97)
+* [카카오페이 온라인 결제 서비스 2.5배 성능 개선기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/improve-service-performance/)
 * [GildedRose-Refactoring-Kata: Starting code for the GildedRose Refactoring Kata in many programming languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
 # Reverse Engineering
