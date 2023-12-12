@@ -3773,6 +3773,7 @@ Python
   * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
   * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
   * [**gevent For the Working Python Developer**](http://sdiehl.github.io/gevent-tutorial/)
+  * [Gevent로 Python 어플리케이션 성능 개선하기](https://f-lab.kr/blog/ways-to-improve-python-application-performance)
 * [ghapi: A delightful and complete interface to GitHub's amazing API](https://github.com/fastai/ghapi/tree/master/)
   * [Learn about ghapi, a new third-party Python client for the GitHub API - The GitHub Blog](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org](https://github.com/jeanphix/Ghost.py)
