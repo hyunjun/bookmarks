@@ -1716,6 +1716,8 @@ Docker
 * DRA
   * [Endless extension of kubernetes to support a variety of devices.pptx - Google Drive](https://docs.google.com/file/d/1T7hrkO0xqNOMo7FCVLI0QNqH9--uLJ2v/edit?filetype=mspresentation)
   * [Device Plugins 2.0: How to Build a Driver for Dynamic Resource Allocation - K Klues & Alexey Fomenko - YouTube](https://www.youtube.com/watch?v=_fi9asserLE)
+* [2024년쿠버네티스표준구성](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2024)
+  * [2024년쿠버네티스표준구성](https://www.linkedin.com/posts/hoonjo_2024qoktjurseqoetyyswmufytbcqvospf-kubernetes-activity-7139924213976469505-Frs7/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
