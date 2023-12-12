@@ -2429,6 +2429,8 @@ Programming
   * [권정혁 - Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://www.facebook.com/xguru/posts/pfbid0CfUJ9s6k53HyAed1TDxkfs4kvxTunbnWeQnRCrcxyC2MWrsbQdMJtB8B6vaVNCANl)
   * [Uber가 수천개의 마이크로서비스를 멀티 클라우드 플랫폼으로 이전한 방법](https://gist.github.com/hyunjun/c148fbdb05208ed4ceb25106b5eaad5f)
 * [Change Data Capture for Microservices - YouTube](https://www.youtube.com/watch?v=M6Z-RpEdaN4)
+* [마이크로서버스의 외부 API 패턴에 대한 이론을 정리한 글입니다. Backend For Frontend, Materialized View, API Gateway 에 대한 각각의 의미와 핵심 사항을 정리했습니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-1-524c2279e27b)
+* [마이크로서비스의 외부 API 패턴 중에서 Materialized View 와 Backend For Frontend 를 29CM 에서 어떻게 적용할 것인지를 소개하는 글입니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-2-be7888f2857e)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
