@@ -588,6 +588,7 @@
 * [코드스피츠 90-코틀린 언어 4회차](https://velog.io/@inust33/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%94%BC%EC%B8%A0-90-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%96%B8%EC%96%B4-4%ED%9A%8C%EC%B0%A8)
 * [코틀린과 변성](https://velog.io/@inust33/%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B3%BC-%EB%B3%80%EC%84%B1)
 * [새로운 학습 과정, Kotlin Onboarding: Introduction을 소개합니다 | The JetBrains Academy Blog](https://blog.jetbrains.com/ko/education/2023/03/06/kotlin-onboarding-introduction/)
+* [Kotlin(코틀린) 문법 총 정리](https://junyharang.tistory.com/531)
 * [Kotlin by JetBrains - YouTube](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 * [Kotlin for Education](https://kotlinlang.org/education/)
