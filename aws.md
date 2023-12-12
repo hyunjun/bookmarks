@@ -786,6 +786,7 @@ AWS
 * [Amazon CloudWatch Agent와 collectd 시작하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/getting-started-with-cloudwatch-agent-and-collectd/)
 * [RDS 모니터링을 위한 나만의 CloudWatch Dashboard 만들기 | by James Lim | 직방 기술 블로그 | Sep, 2023 | Medium](https://medium.com/zigbang/rds-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%82%98%EB%A7%8C%EC%9D%98-cloudwatch-dashboard-%EB%A7%8C%EB%93%A4%EA%B8%B0-f1960e10f7b3)
 * [Amazon CloudWatch 로그 클래스 출시 – 저비용의 자주 액세스하지 않는 로그 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
+* [Amazon CloudWatch 기반 하이브리드, 멀티클라우드 및 온프레미스 지표 통합 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -1384,6 +1385,7 @@ AWS
 * [AWS 크레덴셜 안전하기 사용하기 – Assume Role – Lamanus' Archive](https://lamanus.kr/111)
 * [ABAC 구성을 위한 AWS IAM 정책 설정(EC2권한)하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/ec2-iam-policy-for-abac/)
 * [AWS IAM 역할과 함께 신뢰 정책을 사용하는 방법 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/how-to-use-trust-policies-with-iam-roles/)
+* [IAM 액세스 분석기 업데이트: 사용되지 않는 액세스 찾기, 배포 전 정책 확인 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
     * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
