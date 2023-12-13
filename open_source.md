@@ -43,7 +43,6 @@ Open Source
 * [오픈소스 지속가능성 체계적으로 생각해보기](https://www.haruair.com/blog/4551)
 * [Permissive 라이선스는 동작을 할까?](http://hl1itj.tistory.com/181)
 * [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
-* [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
 * [리니지M은 어떤 오픈소스를 사용했을까?](https://blog.naver.com/pjt3591oo/221035837016)
@@ -73,7 +72,6 @@ Open Source
 * [서비스 개발하다 오픈소스 기여한 썰 (2) : NHN Cloud Meetup](https://meetup.toast.com/posts/324)
 * [서비스 개발하다 오픈소스 기여한 썰 (완) : NHN Cloud Meetup](https://meetup.toast.com/posts/325)
 * [오픈소스를 수익화 하는 법 - Awesome OSS Monetization | GeekNews](https://news.hada.io/topic?id=6532)
-* [How to make your first #opensource contribution ? |#opensource is next big thing | #github |#devops - YouTube](https://www.youtube.com/watch?v=Y51AF7CTBXM)
 * [내가 오픈소스를 싫어하는 이유 | 요즘IT](https://yozm.wishket.com/magazine/detail/1105/)
 * [ApacheCon 2019 Keynote: James Gosling's Journey to Open Source](https://www.infoq.com/news/2019/09/apachecon-gosling-open-source/)
 * [André Staltz - Time Till Open Source Alternative](https://staltz.com/time-till-open-source-alternative.html)
@@ -110,7 +108,6 @@ Open Source
       * OpenTF가 얘기한 구체적인 기능들도 대부분 Terraform에서 긴 논의 끝에 반려된 제안
         * 이를 제대로 검토하고 하겠다고 하는지 의심스럽다는 주장
   * [OpenTF 선언문 | GeekNews](https://news.hada.io/topic?id=10372)
-* [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
 * [How the largest open source companies got their first 1k community members](https://pchase.substack.com/p/how-the-largest-open-source-companies)
   * 오픈소스 회사가 첫 1,000명의 커뮤니티 멤버를 모으려고 어떻게 했는지 알기 위해
     * HashiCorp의 Mitchell Hashimoto, Databricks의 Reynold Xin, Cockroach의 Peter Mattis, Confluent의 Ale Murray에게 질문해서 정리한 글
@@ -133,7 +130,6 @@ Open Source
   * 메인테이너를 위한 이벤트, 베타/프리뷰 기능에 대한 조기 접근, 오픈소스에 대한 워크숍을 진행할 예정이고 오픈소스 메인테이너라면 해당 저장소에 직접 초대를 요청 가능
 * [칼럼 | AWS의 조용한 오픈소스 혁명 - CIO Korea](https://www.ciokorea.com/news/288313)
 * [오픈소스 '슬기롭게' 사용하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2035/)
-* [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
 * [더욱 견고해진 LINE의 오픈소스 관리: OpenChain 인증과 그 뒷이야기를 소개합니다](https://engineering.linecorp.com/ko/blog/line-achieves-openchain-isoiec-5230-certification/)
   * Linux 재단의 OpenChain은 기업이 오픈소스를 효과적으로 관리할 수 있도록 표준을 정의하는 프로젝트
   * Line에서 당시 최신 버전인 2.1 규격을 적용해 인증 획득
@@ -191,6 +187,7 @@ Open Source
 * [Hacktoberfest Seoul에서 발표한 "오픈소스에 기여할 때 해도 되는 일과 하면 안되는 일" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1506)
 * [오픈 소스 프로젝트에 기여해야 하는 이유. 이 글은 원문 Why You Should Start… | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8274ef576a10)
 * [공개SW 페스티벌에서 발표한 "오픈소스 뒤에 메인테이너 있어요" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1517)
+* [공개SW 페스티벌 2023에서 발표한 "오픈소스에 기여할 때 알면 좋을 개발 프로세스" :: Outsider's Dev Story](https://blog.outsider.ne.kr/1697)
 * [EOST2020](https://eostday.kr/)
   * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
 * [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
@@ -209,6 +206,11 @@ Open Source
 * [유명한 오픈소스에 기여하게 된 썰 - JthCast](https://jthcast.dev/posts/the-story-that-contributed-to-the-famous-open-source/)
 * [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 * [PyCon KR 2023 Django 컨트리뷰터가 되기까지의 여정 윤준기 - YouTube](https://www.youtube.com/watch?v=tPFQmAO42uM)
+* [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
+* [How to make your first #opensource contribution ? |#opensource is next big thing | #github |#devops - YouTube](https://www.youtube.com/watch?v=Y51AF7CTBXM)
+* [초보 개발자도 오픈소스에 기여할 수 있다 - Notion Avatar Maker 한국어 버전 개발기 | 사진찍는 웹 개발자의 블로그](https://donghoon-song.github.io/opensource/%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-notion-avatar-maker-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
+* [오픈 소스인 립플래닛 프로젝트에 기여 하기 전에 알아야 할 파일들](https://snack.planetarium.dev/kor/2022/09/files-you-would-better-to-know-while-contributing-oss-projects/)
+* [Contribution Equals Impact: A Spotlight on Goldman Sachs - A Leader in Open Source Contributions | The Scala Programming Language](https://scala-lang.org/blog/2023/08/23/goldman-sachs-leader-open-source-contributions.html)
 
 # Disney
 * [Disney](http://disney.github.io/)
