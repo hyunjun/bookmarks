@@ -499,6 +499,7 @@ Java
   * [Reference Count를 통한 Netty의 ByteBuf memory 관리](https://effectivesquid.tistory.com/entry/Reference-Count%EB%A5%BC-%ED%86%B5%ED%95%9C-Netty%EC%9D%98-ByteBuf-memory-%EA%B4%80%EB%A6%AC)
   * [대용량 파일 서버 성능 개선기 (1) : 작은 청크로 분할 전송](https://velog.io/@joosing/large-file-server-performance-improvers-1)
   * [개발일기 #106 : 네트워크 프로그래밍에 대한 소소한 배움들](https://velog.io/@joosing/dev-diary-106)
+  * [Reactor Netty Memory Leak 이슈 탐방기](https://toss.tech/article/reactor-netty-memory-leak)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
@@ -999,6 +1000,7 @@ Java
   * jdk19 이전 버전에선 최대치가 2번까지인데 스레드를 5000개나 만들면 하드웨어 자원을 엄청나게 먹기 때문에 사실상 불가능한 방식
   * 메모리를 거의 안먹는 공짜 수준의 버츄얼 스레드 + 코루틴이 병렬처리에 매우 강함
 * [The Basis of Virtual Threads: Continuations | Foojay.io Today](https://foojay.io/today/the-basis-of-virtual-threads-continuations/)
+* [**Java의 미래, Virtual Thread | 우아한형제들 기술블로그**](https://techblog.woowahan.com/15398/)
 * [자바21 주요 특징1 - SequencedCollection - YouTube](https://www.youtube.com/watch?v=EUDnGF6mHjE)
 * [자바21 주요 특징2 - record 패턴, switch 패턴 매칭 - YouTube](https://www.youtube.com/watch?v=8rVhPMEr2zQ)
 * [자바21 주요 특징3 - 가상 쓰레드 - YouTube](https://www.youtube.com/watch?v=srpOD6WIasM)
