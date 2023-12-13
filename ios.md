@@ -16,7 +16,6 @@ iOS
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
 * [Obfuscation, Encryption & Unicorns… Reversing the string encryption in the Pangu 9.3 jailbreak](http://www.contextis.com/resources/blog/obfuscation-encryption-unicorns-reversing-string-encryption-pangu-93-jailbreak/)
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
-* [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
 * [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
@@ -165,6 +164,7 @@ iOS
 * [자동 문자 결합 방지하기 :: iOYES](https://green1229.tistory.com/426)
 * [SwiftUI - MagnifyGesture (Pinch Gesture) :: iOYES](https://green1229.tistory.com/427)
 * [SwiftUI로 커스텀 Context Menu 만들기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/swiftui-custom-context-menu/)
+* [iOS에서 OpenAI API 사용하기 | Hohyeon Moon](https://www.hohyeonmoon.com/blog/ios-openai-gpt-api/)
 
 # Conference
 * [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱 - YouTube](https://www.youtube.com/watch?v=zsLQQTuGiVw)
@@ -262,7 +262,9 @@ iOS
 # Swift
 * [Swift](https://swift.org/)
 * [Swift API Design Guidelines (한국어) - API Design Guidelines](https://cozzin.gitbook.io/swift-api-design-guidelines/)
+* [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
 * [Core Data 그리고 Swift: 동시 실행(Concurrency)](http://code.tutsplus.com/ko/tutorials/core-data-and-swift-concurrency--cms-25118)
+* [Core Data 파헤치기 🔍 :: iOYES](https://green1229.tistory.com/428)
 * [Swift Concurrency에 대해서 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-swift-concurrency/)
 * [Swift Concurrency 성능 조사](https://engineering.linecorp.com/ko/blog/about-swift-concurrency-performance)
 * [iOS12이하 지원시 발생할 수 있는 Swift concurrency 이슈 공유 | Fernando 기술 블로그](https://fernando.kr/ios/2022-03-28-xcode-issue-for-ios12/)
