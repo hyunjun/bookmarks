@@ -662,6 +662,7 @@ AWS
 * [Amazon Bedrock Guardrails – 책임 있는 AI 정책에 맞춘 맞춤화된 보호 장치 구현 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/guardrails-for-amazon-bedrock-helps-implement-safeguards-customized-to-your-use-cases-and-responsible-ai-policies-preview/)
 * [Amazon Bedrock – Anthropic Claude 2.1 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/)
 * [Amazon Bedrock – Amazon Titan 이미지 생성기, 다중 모드 임베딩 및 텍스트 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/)
+* [Amazon Bedrock Knowledge Bases 정식 출시 – 완전관리형 RAG 경험 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
 * [한글번역 AWS re:Invent 2023 아마존 Bedrock으로 생성형 AI 애플리케이션 구축하기 - YouTube](https://www.youtube.com/watch?v=g0-OAMhhQ90)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
