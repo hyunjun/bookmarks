@@ -824,6 +824,7 @@ Scala
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
   * [Automatic parallelisation of for-comprehensions in Scala 3 - VirtusLab](https://virtuslab.com/blog/automatic-parallelisation-of-for-comprehensions-in-scala-3/)
+  * [For-Comprehension Use Cases in Scala | ScalaJobs.com](https://scalajobs.com/blog/for-comprehension-use-cases-in-scala/)
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-to-t-md)
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
@@ -1193,7 +1194,9 @@ Scala
       * [Ep 13: Another angle on monad transformers with Zio Prelude - YouTube](https://www.youtube.com/watch?v=tEnZZlOn-jI)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * zio rezilience [Give Failure A Chance by Wiem Zine Elabidine - YouTube](https://www.youtube.com/watch?v=CnXR7RPMAs8)
-    * ZIO Schema [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
+    * ZIO Schema
+      * [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
+      * [Type class derivation with ZIO Schema](https://ziverge.com/blog/zio-schema-deriver/)
     * [zio-sql: Type-safe, composable SQL for ZIO applications](https://github.com/zio/zio-sql)
       * [ZIO SQL - type-safe SQL for ZIO applications](https://scalac.io/blog/zio-sql-type-safe-sql-for-zio-applications/)
       * [Peeking Inside the Engine of ZIO SQL by Jaroslav Regec - YouTube](https://www.youtube.com/watch?v=Ezs7dMbbGlY)
@@ -1291,6 +1294,7 @@ Scala
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=NFA6mIb7toU) sbt-errors-summary, ADT 사용을 위한 sealed trait, sealed trait 문제점 및 해결, scala3 enum
+  * [Sealed Traits Vs Enums for ADTs](https://www.scalamatters.io/post/sealed-traits-vs-enums-for-adts)
   * [Trait parameters in #Scala3 - a feature no one asked for? - YouTube](https://www.youtube.com/watch?v=X5pEmy-qquY)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
   * Back2Basics: The Story of Trait
@@ -2469,6 +2473,7 @@ Scala
 * [Safer Exceptions in Scala 3. I mentioned in What’s Changed Since… | by Dean Wampler | Scala 3 | Jan, 2022 | Medium](https://medium.com/scala-3/safer-exceptions-in-scala-3-12c47100f050)
 * [Writing a simple CLI game in Scala 3](https://softwaremill.com/writing-a-simple-cli-game-in-scala-3/)
 * [Scala 3: “Erased” Definitions. Martin Odersky and the EPFL Scala… | by Dean Wampler | Scala 3 | Mar, 2022 | Medium](https://medium.com/scala-3/scala-3-erased-definitions-6130a30fbba4)
+* [Extension of Erased Values in Scala 3 — Zumi's Blog](https://blog.dtth.ch/nki/extension-of-erased-values-in-scala-3)
 * [new-in-Scala3: A quick tour of some cool new stuff in Scala 3](https://github.com/bjornregnell/new-in-Scala3)
 * [SIP-44 - FEWER BRACES in Scala3 - YouTube](https://www.youtube.com/watch?v=W38Kfd4CZgE) scala 3.2.0
 * [Custom JIT compilation with Runtime Multi-Stage Programming](https://blog.lunatech.com/posts/2022-11-02-runtime-multistage-programming)
@@ -2761,6 +2766,7 @@ Scala
 * [Izumi Reflect: Scala Type System Model by Kai and Pavel Shirshov - YouTube](https://www.youtube.com/watch?v=ShRfzVz58OY)
 * [Guillaume Martres - Secrets of the Scala Type System - YouTube](https://www.youtube.com/watch?v=5EP3OsJ3TtI)
 * [Typed `[T]` Musings - Duncan DeVore - YouTube](https://www.youtube.com/watch?app=desktop&v=6zJegSqY9Fo)
+* [Practical Type-Level Programming in Scala 3 - Rock the JVM Blog](https://blog.rockthejvm.com/practical-type-level-programming/)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
