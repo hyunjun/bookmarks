@@ -212,8 +212,6 @@ AWS
 * [AWS를 잘 사용하기 위한 7가지 사용 팁 - YouTube](https://www.youtube.com/watch?v=ex1dKvj2HVM)
 * [현업 SA(Solutions Architect)가 알려주는 AWS 잘 사용하기 위한 꿀 Tip 7가지 - YouTube](https://www.youtube.com/watch?v=r94imaBNf10)
 * [5 AWS Services You Should Avoid!](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd)
-* [개발자를 위한 AWS Toolkits for PyCharm 정식 출시 – IntelliJ 및 Visual Studio Code(미리 보기)](https://aws.amazon.com/ko/blogs/korea/new-aws-toolkits-for-pycharm-intellij-preview-and-visual-studio-code-preview/)
-* [Announcing AWS Toolkit for Visual Studio Code](https://aws.amazon.com/ko/blogs/developer/announcing-aws-toolkit-for-visual-studio-code/)
 * [Amazon EC2에서 Visual Studio 소프트웨어 실행하기 – 사용자 기반 라이선스 모델 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/new-run-visual-studio-software-on-amazon-ec2-with-user-based-license-model/)
 * [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
@@ -818,6 +816,8 @@ AWS
 * [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [AWS re:Invent recap - 2023년 AWS가 선보이는 혁신적인 클라우드 서비스](https://enterprise-resources.awscloud.com/webinar-korea/kor-hub-video-4)
+  * [AWS re:Invent 2023 Keynote 소개. 안녕하세요. 여기어때컴퍼니 인프라개발팀 캐쉬 입니다. | by 백인출Cash(캐쉬) / 인프라개발팀 | Dec, 2023 | 여기어때 기술블로그](https://techblog.gccompany.co.kr/aws-re-invent-2023-keynote-%EC%86%8C%EA%B0%9C-b36bab9207c5)
+  * [클라우드 커뮤니티에서 성장하기 :: Channy's Blog](https://channy.creation.net/blog/1812)
   * [AWS re:Invent 2022 참관기 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/2022-aws-reinvent/)
   * [DBA의 AWS re:Invent 2022 참석 후기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2023/01/16/aws-reinvent.html)
   * [아마존 CTO "이벤트 드리븐 아키텍처로 가라" - ZDNet korea](https://zdnet.co.kr/view/?no=20221202183934)
@@ -1745,7 +1745,11 @@ AWS
   * [AWS SDK Go: AWS SDK for the Go Programming Language](https://morioh.com/p/2aafab3c7c3c)
 * [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
   * [영상 현직 개발자가 추천하는 쉽고 편한 오픈소스 2종 - ZDNet korea](https://zdnet.co.kr/view/?no=20210714134829) aws ssm send-command, tailwind css
-* [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
+* AWS Toolkit
+  * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
+  * [개발자를 위한 AWS Toolkits for PyCharm 정식 출시 – IntelliJ 및 Visual Studio Code(미리 보기)](https://aws.amazon.com/ko/blogs/korea/new-aws-toolkits-for-pycharm-intellij-preview-and-visual-studio-code-preview/)
+  * [Announcing AWS Toolkit for Visual Studio Code](https://aws.amazon.com/ko/blogs/developer/announcing-aws-toolkit-for-visual-studio-code/)
+  * [Visual Studio Code(VS Code)에서 Amazon Redshift extension(AWS-Toolkit) 사용하기 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/working-with-redshift-using-visual-studio-code/)
 * [aws-transcription-to-srt: Convert AWS transcriptions to SRT](https://github.com/TinyNova/aws-transcription-to-srt)
   * [Convert an AWS transcription to an SRT file using Node.js — Shotstack](https://shotstack.io/learn/convert-aws-transcriptions-to-srt-subtitles/)
 * Boto3
