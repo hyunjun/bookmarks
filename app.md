@@ -457,6 +457,8 @@ App
   * [구텐베르크  에디터와 구텐베르크 플러그인의 차이 – 형우의 웹개발](https://mytory.net/archives/15297)
   * [워드프레스 커스텀 포스트 타입 싱글 페이지 접근 URL 비활성화 – 형우의 웹개발](https://mytory.net/archives/15319)
   * [워드프레스 구텐베르크 플러그인 폰트 업로드 에러 해결 – Error installing the fonts – 형우의 웹개발](https://mytory.net/archives/15495)
+  * [워드프레스 Uncaught TypeError: Failed to resolve module specifier “@wordpress/interactivity”. Relative references must start with either “/”, “./”, or “../”. 에러 해결하기 – 형우의 웹개발](https://mytory.net/archives/15766)
+  * [워드프레스 이미지 확대 에러 – Uncaught TypeError: el is undefined / Uncaught TypeError: items startIndex is undefined / Uncaught TypeError: swiper is undefined – 형우의 웹개발](https://mytory.net/archives/15772)
 * [Zola](https://www.getzola.org/)
 
 # Bookmark
