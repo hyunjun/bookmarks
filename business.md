@@ -2101,6 +2101,7 @@ Business
 * [이제 구독도 빌드업 해야 할 때. 유저도 행복하고 매출도 행복한 구독 엔트리 전략 | by Stephan Seunghwan Seo | DelightRoom | Dec, 2023 | Medium](https://medium.com/delightroom/%EC%9D%B4%EC%A0%9C-%EA%B5%AC%EB%8F%85%EB%8F%84-%EB%B9%8C%EB%93%9C%EC%97%85-%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C-48dbc790fc4c)
 * [16배 성장을 이끌고도 패배한 실험. 작업물을 배포하는 것보다 중요한 건 그 임팩트의 크기 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/16%EB%B0%B0-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9D%B4%EB%81%8C%EA%B3%A0%EB%8F%84-%ED%8C%A8%EB%B0%B0%ED%95%9C-%EC%8B%A4%ED%97%98-1c884ab0685f)
 * [임팩트에 집중했더니 생긴 일. 기대했던 변화들과 기대 못했던 긍정적 변화들까지 | by Stephan Seunghwan Seo | DelightRoom | Nov, 2023 | Medium](https://medium.com/delightroom/%EC%9E%84%ED%8C%A9%ED%8A%B8%EC%97%90-%EC%A7%91%EC%A4%91%ED%96%88%EB%8D%94%EB%8B%88-%EC%83%9D%EA%B8%B4-%EC%9D%BC-a190446b85cf)
+* [토스에서 하루 만에 제품 출시하는 법](https://toss.tech/article/launching-product-in-one-day)
 
 # Product Management
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
@@ -2236,6 +2237,7 @@ Business
   * [(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
   * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
+* [스타트업 스토리텔링 – Chang Kim's Homepage](https://www.changkim.me/2023/12/11/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ed%85%94%eb%a7%81/)
 * [How to Build a Startup | Udacity Free Courses](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [이 서비스나 제품의 시장 크기는 얼마나 되나요?](http://www.venturesquare.net/581931)
