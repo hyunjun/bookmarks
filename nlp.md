@@ -1578,6 +1578,7 @@ NLP
   * [How to print intermediate values in the langchain chain – Passion is like genius; a miracle](https://mkseo.pe.kr/blog/?p=4671)
   * [아직도 '랭체인'을 모른다고 해서 5분 설명해드림 - YouTube](https://www.youtube.com/watch?v=aDN8hm4pfPE)
   * [Season 11 LangChain - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhFQKPn4df8snG7VSzlUpvyY)
+  * [LLM 애플리케이션 개발을 위한 Langchain #1-소개](https://bcho.tistory.com/1407)
   * [Langchain](https://js.langchain.com/docs/get_started/introduction)
     * [Langchain-js: Langchain-js tutorial](https://github.com/sw-woo/Langchain-js)
       * [langchain,js introduce - Google Slides](https://docs.google.com/presentation/d/14QQT3hacU0TO4XQmr763cDazu4E3_0Qo_y3lR2PTnXo/edit#slide=id.g26160318ce7_0_52)
