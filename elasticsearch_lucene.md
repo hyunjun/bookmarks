@@ -709,6 +709,7 @@ ElasticSearch - Lucene
 * [sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM](https://github.com/valeriansaliou/sonic)
   * Elasticsearch 대체제 오픈소스(Rust)
   * [Sonic - 빠르고 가벼운 Schema-less 검색 백엔드 | GeekNews](https://news.hada.io/topic?id=3856)
+* [SPLADE: sparse neural search (SIGIR21, SIGIR22)](https://github.com/naver/splade)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
 * [Typesense: fast, open-source, typo-tolerant search engine](https://typesense.org/)
   * [typesense - 오픈소스 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3369)
