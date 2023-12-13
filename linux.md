@@ -1294,6 +1294,7 @@ Linux
 * [ix: command line pastebin](http://ix.io/)
 * [juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
   * [JuiceFS - Redis와 S3를 이용한 분산 POSIX 파일시스템 | GeekNews](https://news.hada.io/topic?id=3579)
+  * [AI 플랫폼을 위한 스토리지 JuiceFS 도입기](https://d2.naver.com/helloworld/4555524)
 * [just: 🤖 Just a command runner](https://github.com/casey/just)
   * [Revolutionize Your Development Workflow with Just - YouTube](https://www.youtube.com/watch?v=KP5U_zCVhkM)
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
