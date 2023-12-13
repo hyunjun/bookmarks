@@ -2234,6 +2234,7 @@ Java
   * 최종적으로는 50초였던 실행시간이 2초로 줄어들었고 이미지 크기도 300MB에서 70MB로 감소
 * [실전! Spring Boot 3 마이그레이션](https://techblog.lycorp.co.jp/ko/how-to-migrate-to-spring-boot-3)
 * [Spring Boot + Kubernetes 기반에서 웜업 적용하기](https://engineering.linecorp.com/ko/blog/apply-warm-up-in-spring-boot-and-kubernetes)
+* [Spring Boot 3.0 Could not resolve org.springframework.boot:spring-boot-gradle-plugin](https://junyharang.tistory.com/532)
 * JHipster
   * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
   * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
