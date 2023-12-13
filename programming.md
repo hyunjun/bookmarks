@@ -263,6 +263,7 @@ Programming
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
+* [One-Source Multi-Use, 스마트플레이스 일본 진출 작업기](https://d2.naver.com/helloworld/0983091) internationalization
 * [일본 B2B 비즈니스 일본에서 온 편지 (1편) / 일본 로컬라이징, 일본 서버 도메인 편](https://blog.naver.com/rokomokodon/222910078482)
 * [글로벌 서비스 개발 - 우아한형제들 세미나](https://devtimothy.tistory.com/140) 지역별 특성에 맞는 개발 방식 및 주의점
 * [풋내기 창업자의 스타트업 창업하기 11화 — 해외시장 진출. 페북의 MAU 그래프입니다. 2004년 2월에 창업한 페북은 3년만에… | by gary | 당근마켓 팀블로그 | Nov, 2020 | Medium](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-11%ED%99%94-%ED%95%B4%EC%99%B8%EC%8B%9C%EC%9E%A5-%EC%A7%84%EC%B6%9C-6d735072deb9)
@@ -296,6 +297,7 @@ Programming
 * [SRE Journey — Starting SLO Implementation (Part 1 — Start with SLI) | by Muhammad Jihad A | Sep, 2022 | Medium](https://medium.com/@abbdurahman/sre-journey-starting-slo-implementation-part-1-start-with-sli-e6277e560753)
 * [Managing to Your SLO Amidst Chaos • Liz Fong-Jones • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=Oxmk-DiLrNA)
 * [Look Ma, No Metrics: A Quest Towards Extracting SLOs by Stefano Taillefert & Patrick Bänziger - YouTube](https://www.youtube.com/watch?v=I_ruxXUFQSU)
+* [사이트 신뢰성에 대한 지표는 어떻게 구성할까? (Feat. SRE)](https://saramin.github.io/2023-12-06-slislo/) SLI SLO
 * [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
@@ -2432,6 +2434,7 @@ Programming
 * [마이크로서버스의 외부 API 패턴에 대한 이론을 정리한 글입니다. Backend For Frontend, Materialized View, API Gateway 에 대한 각각의 의미와 핵심 사항을 정리했습니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-1-524c2279e27b)
 * [마이크로서비스의 외부 API 패턴 중에서 Materialized View 와 Backend For Frontend 를 29CM 에서 어떻게 적용할 것인지를 소개하는 글입니다. | Medium](https://medium.com/@greg.shiny82/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%99%B8%EB%B6%80-api-%ED%8C%A8%ED%84%B4-2-be7888f2857e)
 * [마이크로 서비스 아키텍쳐 여행기.pptx - Google Slides](https://docs.google.com/presentation/d/1hzq0JO8UphBmcDZ-ptfHJo4DlXVwP0Q4/)
+* [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
 * [coroot: A zero-instrumentation observability tool for microservice architectures](https://github.com/coroot/coroot) 마이크로 서비스 아키텍처를 위한 모니터링 및 문제 해결 도구, Go 오픈소스
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -5356,6 +5359,8 @@ Programming
   * [기술 뉴스 #231 : 23-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1687)
   * [기술 뉴스 #232 : 23-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1689)
   * [기술 뉴스 #233 : 23-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1692)
+  * [기술 뉴스 #234 : 23-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1693)
+  * [기술 뉴스 #235 : 23-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1694)
 * [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
