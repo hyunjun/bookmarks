@@ -2176,6 +2176,7 @@ Business
 * [PM학 개론 (12) 대기업과 스타트업 PM은 어떻게 다른가 : 네이버 블로그](https://blog.naver.com/madaboutit/223250564938)
 * [실리콘밸리 수백명의 PM들의 성장을 두 배 이끈 조언 | Meta Mick Johnson (1/2) - YouTube](https://www.youtube.com/watch?v=rB7haeRWib4)
 * [제 2개 회사는 잘 안됐습니다. 그러나 이걸 배웠죠 | Meta Mick Johnson (2/2) - YouTube](https://www.youtube.com/watch?v=HDsFyHQtLHI)
+* [좋은 기획자의 덕목이란 뭘까?](https://brunch.co.kr/@fbrudtjr1/55)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
