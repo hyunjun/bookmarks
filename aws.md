@@ -1965,6 +1965,7 @@ AWS
 * [KT, Amazon SageMaker를 이용한 ViT 기반 Food Tag 모델의 학습 시간 단축 여정 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/kt-ai-food-tag-on-sagemaker/)
 * [Amazon SageMaker Clarify – 파운데이션 모델 평가 기능 출시 (미리 보기) | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
 * [Amazon SageMaker Inference –  파운데이션 모델 배포 비용과 지연 시간 감소 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
+* [Amazon SageMaker HyperPod – 대규모 분산 학습을 위한 인프라 기능 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-sagemaker-hyperpod-a-purpose-built-infrastructure-for-distributed-training-at-scale/)
 * [aws-ai-ml-workshop-kr: A collection of localized (Korean) AWS AI/ML workshop materials for hands-on labs.](https://github.com/aws-samples/aws-ai-ml-workshop-kr)
 * [awskrusergroup: awskrusergroup](https://github.com/synabreu/awskrusergroup)
 * [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
