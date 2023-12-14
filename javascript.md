@@ -1125,6 +1125,7 @@ Javascript
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 * [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Don't use functions as callbacks unless they're designed for it - JakeArchibald.com](https://jakearchibald.com/2021/function-callback-risks/)
+* [7분만에 callback의 작동 원리 이해하기 - YouTube](https://www.youtube.com/watch?v=g7f-AQkXYgU)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 * [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
@@ -4470,6 +4471,7 @@ Javascript
 * [How To Implement Environment Variables in React Native - YouTube](https://www.youtube.com/watch?v=qi8Op1ihD0E)
 * [React 이벤트와 브라우저 이벤트 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220908-react-event-and-browser-event/)
 * [Declarative React, and Inversion of Control :: Normal Coder](https://yeoulcoding.me/325)
+* [이제부터 이 컴포넌트는 제 겁니다 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/#%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%ED%8C%A8%ED%84%B4controlled-props-pattern) ioc
 * [5 Tips To Scale Up Your React Apps | JavaScript in Plain English](https://javascript.plainenglish.io/5-tips-to-scale-up-your-react-apps-8fb68319062e)
 * [Designing & Implementing Access Control in React | by Lakindu Hewawasam | Sep, 2022 | Bits and Pieces](https://blog.bitsrc.io/designing-implementing-access-control-in-react-34eb8bc67511)
 * [VirtualScroll을 만들어보자](https://velog.io/@dev-redo/React-VirtualScroll%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
