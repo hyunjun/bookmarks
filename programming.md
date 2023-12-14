@@ -795,6 +795,7 @@ Programming
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
+* [원격 디자인 스프린트 쉽게 하는 방법 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/08/remote-design-sprint/)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
   * [왜 어떤 구글 개발자들은 애자일 개발이 무의미하다고 하는가에 대한 (전) 구글 엔지니어 디렉터의 답변 | GeekNews](https://news.hada.io/topic?id=265)
 * [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
