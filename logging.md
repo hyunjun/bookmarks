@@ -63,6 +63,7 @@ Logging
 * [1. 효율적으로 로그 모니터링하기 - 로그 레벨 구분하기](https://jojoldu.tistory.com/712)
 * [로그 및 SQL 진입점 정보 추가 여정 | 우아한형제들 기술블로그](https://techblog.woowahan.com/13429/)
 * [Tagged Logging vs Structured Logging - DEV Community](https://dev.to/jdwyah/tagged-logging-vs-structured-logging-3mbc)
+* [여기보기 적절한 식습관과 운동을 유지하듯 건강하게 WAS 로그 관리하기 - 넷마블 기술 블로그](https://netmarble.engineering/was-log-management/)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
