@@ -1717,6 +1717,7 @@ App
   * [가장 아름다운 배포 자동화, 근데 이제 Slack을 곁들인 | Univdev](https://univdev.page/posts/workflow-slack-notification/) 자동 알림
   * [PyCon KR 2023 Python 월 몇 백원으로 사내 슬랙봇 운영해본 이야기 신희재 - YouTube](https://www.youtube.com/watch?v=9LmDwhH7QzQ)
   * [Slack Incoming Webhook URL 확인하는 주소 – 형우의 웹개발](https://mytory.net/archives/15587)
+  * [GitLab 밋업으로 알아보는 VSM 기반 DevSecOps와 슬랙봇 자동화 이야기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2023/12/13/gitlab-korea-18-meetup/)
   * scrum poker app
     * [Helperbot](https://helperbot.alley.com/)
     * [PokerBot | Slack 앱 디렉터리](https://atlaslabs-ai.slack.com/apps/A88H5M4RZ-pokerbot)
