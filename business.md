@@ -1186,6 +1186,7 @@ Business
 * [대화를 하세요, 그게 관계예요](https://brunch.co.kr/@graypool/976)
 * ['안 돼요'라고 말하지 않는다](https://velog.io/@eddy_song/problem-solver)
 * [대화할 때 사실, 감정, 의미를 구분할 수 있다면](https://brunch.co.kr/@graypool/1324)
+* [담대한 변화를 만드는 스토리텔링의 힘(上)](https://brunch.co.kr/@graypool/1372)
 * [담대한 변화를 만드는 스토리텔링의 힘(中)](https://brunch.co.kr/@graypool/1375)
 * [담대한 변화를 만드는 스토리텔링의 힘(下)](https://brunch.co.kr/@graypool/1377)
 
