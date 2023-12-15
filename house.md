@@ -81,6 +81,7 @@ House
     * 호/가구/세대: 호 - 오피스텔, 가구 - 다가구, 세대 - 다세대
     * 위반건축물은 열람시 '위반건출물'이란 노란색 표시가 있음
 * [위험한 집 거르는 법 : 등기부등본 파헤치기](https://blog.toss.im/article/house-contract-02)
+* [등기부등본 보는법, 부동산 매매 전에 꼭 봐야 합니다!! - YouTube](https://www.youtube.com/watch?v=aE-fn9ga8iU)
 * [충격! 부동산 등기부등본을 믿을 수 없다니 (언더스탠딩 장순원 기자) - YouTube](https://www.youtube.com/watch?v=QcutAWg58pU)
 * [근저당 해지해주세요](https://brunch.co.kr/@buildingking/143)
 * [비품, 장기수선충당금 등의 문제](https://pgr21.com/qna/139934)
