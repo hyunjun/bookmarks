@@ -413,6 +413,7 @@
   * 오히려 Rust의 컴파일 시간이 긴 것은 단점
 * [Building native Rust modules for Python — Arthur Pastel - YouTube](https://www.youtube.com/watch?v=r2wCF5DjNJ4)
 * [From Python to Rust - YouTube](https://www.youtube.com/watch?v=4VV-FU5u8K8)
+* [Ondřej Vostál - Async Python modules in Rust PyData Prague 2022-12-13 - YouTube](https://www.youtube.com/watch?v=yKPMP8N3-yg)
 
 # TDD, Test
 * ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
