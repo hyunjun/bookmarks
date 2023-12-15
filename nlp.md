@@ -1015,6 +1015,7 @@ NLP
 * [ChatGPT를 더 잘 쓰는 방법 1탄 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part1/)
 * [ChatGPT를 더 잘 쓰는 방법 2탄 • 캡틴판교 블로그](https://joshua1988.github.io/web-development/opinions/how-to-use-chatgpt-part2/)
 * [**Cognitive Prompting 정리(1zlabs Ken. Ver.231207 공유용) - Google Slides**](https://docs.google.com/presentation/d/1kayepoiTVT838Tetk02nxeqVmmS9BDc9O7n-4OzJdL8/)
+* [5 prompt frameworks](https://www.linkedin.com/posts/marcellvollmer_chatgpt-chatbots-chatgpt4-activity-7140080858924773376-U_CU)
 * [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [chatgpt_system_prompt: store all agent's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 * [DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
