@@ -825,6 +825,7 @@ Scala
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
   * [Automatic parallelisation of for-comprehensions in Scala 3 - VirtusLab](https://virtuslab.com/blog/automatic-parallelisation-of-for-comprehensions-in-scala-3/)
   * [For-Comprehension Use Cases in Scala | ScalaJobs.com](https://scalajobs.com/blog/for-comprehension-use-cases-in-scala/)
+  * [How to avoid For-Comprehension Pitfalls in Scala | ScalaJobs.com](https://scalajobs.com/blog/how-to-avoid-for-comprehension-pitfalls-in-scala/)
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-to-t-md)
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
