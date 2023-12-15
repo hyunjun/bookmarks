@@ -616,6 +616,7 @@ Java
 * [Develop Modern and Lightweight Cloud Applications with Jakarta EE 10 by Ivar Grimstad - YouTube](https://www.youtube.com/watch?v=uZ9wKhQk-Nk)
 * [SIMD Parallel Programming with the Vector API By José Paumard - YouTube](https://www.youtube.com/watch?v=36DN9sE7ja4)
 * [Java Patterns and Practices for Serverless Applications By Adam Bien - YouTube](https://www.youtube.com/watch?v=Ou82_yDOcmY)
+* [Next-Generation Cloud Native Apps with Spring Boot 3 in 4 Minutes • Thomas Vitale • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ovAcrTn6-dg)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
