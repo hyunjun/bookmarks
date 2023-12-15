@@ -662,6 +662,7 @@ AWS
 * [Amazon Bedrock – Amazon Titan 이미지 생성기, 다중 모드 임베딩 및 텍스트 모델 지원 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/)
 * [Amazon Bedrock Knowledge Bases 정식 출시 – 완전관리형 RAG 경험 제공 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
 * [한글번역 AWS re:Invent 2023 아마존 Bedrock으로 생성형 AI 애플리케이션 구축하기 - YouTube](https://www.youtube.com/watch?v=g0-OAMhhQ90)
+* [bedrock-claude-chat: AWS-native chatbot using Bedrock + Claude 2](https://github.com/aws-samples/bedrock-claude-chat)
 * [PartyRock](https://partyrock.aws/)
   * [PartyRock 출시 – Amazon Bedrock 기반 AI 앱 놀이터 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 
@@ -2233,6 +2234,7 @@ AWS
 * [What should we know about AWS Security? (Part 1)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security.html)
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [우아한테크세미나 사례별로 알아보는 안전한 S3 보안 가이드 - YouTube](https://www.youtube.com/watch?v=vgYfAndrpPU)
+* [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
 * [AWS-User-Notifications-Hacking-Detection - 리눅서의 기술술 블로그](https://linuxer.name/2023/05/aws-user-notifications-hacking-detection/)
 * [security-baseline-self-test](https://github.com/aws-samples/security-baseline-self-test)
 
