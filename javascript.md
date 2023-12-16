@@ -1126,6 +1126,7 @@ Javascript
 * [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Don't use functions as callbacks unless they're designed for it - JakeArchibald.com](https://jakearchibald.com/2021/function-callback-risks/)
 * [7분만에 callback의 작동 원리 이해하기 - YouTube](https://www.youtube.com/watch?v=g7f-AQkXYgU)
+* [counter같은 예에서 언제 callback operation을 해야 하는 가? - YouTube](https://www.youtube.com/watch?v=_xLbE8Kan_0)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 * [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
