@@ -106,11 +106,13 @@ Finance
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [가짜 배당주에 속지 말고 진짜 배당주 찾는 법 - YouTube](https://www.youtube.com/watch?v=SW_JIRpVO4k)
+* [美 리츠 투자하면 매달 배당 따박따박…월세 받는 건물주 같아 | 한경닷컴](https://www.hankyung.com/finance/article/2021061334531)
+* [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
+* [경제적자유를 빠르게 달성시켜줄 최고의 배당주를 알려드립니다 (( 나는 배당투자로 매일 스타벅스커피를 공짜로마신다)) - YouTube](https://www.youtube.com/watch?v=dOw_fozrQOQ)
 * [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
   * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
 * [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
-* [美 리츠 투자하면 매달 배당 따박따박…월세 받는 건물주 같아 | 한경닷컴](https://www.hankyung.com/finance/article/2021061334531)
 * [슈퍼서민 - YouTube](https://www.youtube.com/channel/UCvwFSUne__pjWQ3wXdhgUrA)
 * [당장 우선주 담아라…가치투자 대부 강방천이 꼽은 톱픽 | 한경닷컴](https://www.hankyung.com/finance/article/2021071122621)
 * [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
@@ -125,7 +127,6 @@ Finance
 * [미국 장기채ETF에 지금 돈이 몰리는 이유 | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=CEOoMyxZZrY)
 * [연 16% 나오는 장기채 ETF가 있다! 미국 장기채 ETF 비교(TLTvsTLTW) | 글로벌 ETF - YouTube](https://www.youtube.com/watch?v=pInIrtlCK1k)
 * [내년 상반기부터 10만원부터 살 수 있는 ‘개인 전용 국채’ 투자법](https://v.daum.net/v/20230905151547160)
-* [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
 * [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 * [주식투자는 왜 어려울까 ? 118.학창시절 공.. : 네이버블로그](https://blog.naver.com/parkiske/222674606619)
