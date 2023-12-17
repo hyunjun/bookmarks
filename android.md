@@ -322,6 +322,7 @@ Android
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
 
 # Conference
+* [Pluu Dev - 발표자료 DevFest 23 Songdo ~ 우리모두 삽질한다](https://pluu.github.io/blog/android/2023/12/16/devfest-2023-songdo/)
 * [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
 * [DroidKaigi 2019에서 들은 세션 ](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-insert-session/)
 * [DroidCon2019 Vienna 방문 후기](https://engineering.linecorp.com/ko/blog/droidcon2019-vienna-recap/)
