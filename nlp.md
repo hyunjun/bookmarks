@@ -1676,6 +1676,7 @@ NLP
     * [Ollama + langchain.js+NEXT.js/ts = 무제한 무료 LLM 어플리케이션 만들기 가능성 확인해보기](https://www.facebook.com/groups/TensorFlowKR/posts/2184031145271265/)
     * [Build A Next.JS Chatbot with Langchain and Upstash Redis - YouTube](https://www.youtube.com/watch?v=gpXXIvfSCto)
     * [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
+    * [ChatGPT 플러스 결제를 중단하는 이유? - YouTube](https://www.youtube.com/watch?v=_HuQNooKRXQ)
   * [open\_llama](https://github.com/openlm-research/open\_llama)
     * [오픈소스로 가자! OpenLLaMA 의 등장](https://revf.tistory.com/286)
   * [WhatsApp-Llama: Finetune a LLM to speak like you based on your WhatsApp Conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
