@@ -337,6 +337,7 @@ Math
 * [몬테카를로 시뮬레이션(monte carlo simulation) 기초 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/statistics/mc-simulation/)
 * [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
 * [Quasi-Monte Carlo integration QMC periodic and nonperiodic](https://www.johndcook.com/blog/2021/09/02/qmc-integration/)
+* [#slides Monte-Carlo Go Overview - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/379/)
 * [riskquant A library to assist in quantifying risk](https://github.com/Netflix-Skunkworks/riskquant)
   * [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968)
 
