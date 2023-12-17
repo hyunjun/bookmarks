@@ -61,6 +61,7 @@ Vim
     :%s/.*/\U&/
     ```
   * [VIM 치환 꼼수?](https://www.popit.kr/vim-%EC%B9%98%ED%99%98-%EA%BC%BC%EC%88%98/) 조건별 replace
+  * `%s/.*/\L&/g` `%s/.*/\U&/g` [vi에서 모든 글자를 대소문자로 변경할때 | 아이군의 블로그](http://theeye.pe.kr/archives/255)
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
   * `:sort` / `:sort!` / `:%!sort -k2nr`
   * [Sorting columns of text in Vim using sort](https://jordanelver.co.uk/blog/2014/03/12/sorting-columnds-of-text-in-vim-using-sort/)
