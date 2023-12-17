@@ -143,6 +143,7 @@ Elixir
 * [Protecting sensitive data in Elixir GenServers | by Gabriel Pereira | Nov, 2023 | New Work Development](https://tech.new-work.se/protecting-sensitive-data-in-elixir-genservers-fac4a8b0ae15)
 * [Setting up Neovim for Elixir Development - YouTube](https://www.youtube.com/watch?app=desktop&v=tOiSHHsN29Q)
 * [Elixir process management Series' Articles - DEV Community](https://dev.to/cherryramatis/series/25047)
+* [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth) - ohyecloudy’s pnotes](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
 
 # API
 * [Taking Control of Map Sort Order in Elixir · Fly](https://fly.io/phoenix-files/taking-control-of-map-sort-order-in-elixir/)
