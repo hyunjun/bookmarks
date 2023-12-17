@@ -1502,8 +1502,13 @@ Book
   * [장수 고양이의 비밀](https://github.com/hyunjun/bookmarks/blob/master/books/murakami_asahido.md)
   * [장수 고양이의 비밀 - Jun - Medium](https://nymets.medium.com/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80-d07ea8ce4506)
   * [장수 고양이의 비밀](https://jh4hj.tistory.com/entry/%EC%9E%A5%EC%88%98-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98-%EB%B9%84%EB%B0%80)
-* (NOT YET) [달리기를 말할 때 내가 하고 싶은 이야기](https://brunch.co.kr/@wonsss/10)
+* [달리기를 말할 때 내가 하고 싶은 이야기](https://brunch.co.kr/@wonsss/10)
   * 한라 838-무292ㄷ 탐라 문838-무292ㄷ 우당 문838-무231ㄷ
+  * ★★★☆☆ 2023.12.17
+  * [달리기를 말할 때 내가 하고 싶은 이야기](https://github.com/hyunjun/bookmarks/blob/master/books/what_i_talk_about_when_i_talk_about_running.md)
+  * [달리기를 말할 때 내가 하고 싶은 이야기. Date: December 17, 2023 Score: ★★★☆☆ | by Jun | Dec, 2023 | Medium](https://nymets.medium.com/%EB%8B%AC%EB%A6%AC%EA%B8%B0%EB%A5%BC-%EB%A7%90%ED%95%A0-%EB%95%8C-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0-b20cf11725ea)
+  * [달리기를 말할 때 내가 하고 싶은 이야기 - Jun’s Substack](https://recur.substack.com/p/563)
+  * [달리기를 말할 때 내가 하고 싶은 이야기](https://jh4hj.tistory.com/entry/%EB%8B%AC%EB%A6%AC%EA%B8%B0%EB%A5%BC-%EB%A7%90%ED%95%A0-%EB%95%8C-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 # Note, Memo
 * [Write … One Note at at Time](https://takesmartnotes.com/)
