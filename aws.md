@@ -1844,6 +1844,7 @@ AWS
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
 * [AWS에서의 중앙 집중식 로깅 시스템 구축](https://www.joinc.co.kr/w/man/12/aws/scenario/logging)
 * [AWSLogs 컨테이너 로그 드라이버의 non-blocking 모드로 로그 손실 방지 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/preventing-log-loss-with-non-blocking-mode-in-the-awslogs-container-log-driver/)
+* [보안 사고 분석을 위한 로깅 전략 | AWS 기술 블로그](https://aws.amazon.com/ko/blogs/tech/security-logging-strategies-for-security-incident-response/)
 
 # Machine Learning
 * [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
