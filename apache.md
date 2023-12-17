@@ -78,6 +78,7 @@ Apache
 * [Airflow 주가 데이터 수집 파이프라인 2 (S&P500 편) - 미완성의신](https://unfinishedgod.netlify.app/2023/08/04/airflow-2-s-p500/)
 * [Season9 Apache Airflow - YouTube](https://www.youtube.com/playlist?list=PLqba2bt00jhEXQp9jny35b-VsHG0iEzjN)
 * [Airflow 환경 Docker compose로 containerization하기 | by eunseok yang | 네이버 플레이스 개발 블로그 | Dec, 2023 | Medium](https://medium.com/naver-place-dev/airflow-%ED%99%98%EA%B2%BD-docker-compose%EB%A1%9C-containerization%ED%95%98%EA%B8%B0-4770addae789)
+* [Airflow Task failed Alert Mail 폭탄 회피하기 | by Barkingcode | 네이버 플레이스 개발 블로그 | Dec, 2023 | Medium](https://medium.com/naver-place-dev/airflow-task-failed-alert-mail-%ED%8F%AD%ED%83%84-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-4cec56334a71)
 * [airflow-provider-anomaly-detection: An airflow provider for anomaly detection](https://github.com/andrewm4894/airflow-provider-anomaly-detection)
   * [모든 파이프라인 엔지니어의 평화를 빕니다 - Google Slides](https://docs.google.com/presentation/d/1g-T98s61c7ixF2X84x5WEXMpnpWqIOk5rGciyEKrQDg/edit#slide=id.g23bb15e27c8_0_20)
 
